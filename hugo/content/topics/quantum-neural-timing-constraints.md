@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-09-21 15:54:37+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:02:31+00:00
-lastmod: 2026-09-21 15:54:37+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -170,7 +170,7 @@ The tenet specifies the smallest possible non-physical influence on quantum outc
 
 ### Bidirectional Interaction
 
-Motor commitment at ~280ms and willed attention theta at ~500ms are neural signatures of decisions—patterns distinguishing willed from automatic processing. If consciousness causally influences these decisions (rather than merely accompanying them), the influence must occur within the 200–500ms window spanning the point of no return through to attention deployment. The post-decoherence selection model satisfies this: consciousness doesn't maintain coherence across these timescales; it biases outcome selection at indeterminacy points distributed throughout the decision process.
+Motor commitment at ~280ms and willed attention theta at ~500ms are neural signatures of decisions—one a motor commitment point, the other a willed-versus-instructed attention contrast. If consciousness causally influences these decisions (rather than merely accompanying them), the influence must occur within the 200–500ms window spanning the point of no return through to attention deployment. The post-decoherence selection model satisfies this: consciousness doesn't maintain coherence across these timescales; it biases outcome selection at indeterminacy points distributed throughout the decision process.
 
 ### No Many Worlds
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-08-19 18:54:54+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Attention as Interface
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-29 15:54:19+00:00
-lastmod: 2026-08-19 18:54:54+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 original_path: /concepts/attention-motor-quantum-interface/
 related_articles:
@@ -109,7 +109,7 @@ This explains the common phenomenology. Sustaining motor intention feels effortf
 
 ## Neural Signatures
 
-Three markers distinguish willed from automatic selection in both domains:
+Three markers were described here as distinguishing willed from automatic selection in both domains. [Archive note: the theta and coherence contrast (Rajan et al. 2019) was measured for internally chosen versus instructed visuospatial attention only; it does not establish a willed-versus-automatic contrast, or any contrast in the motor domain.]
 
 | Signature | Attention Evidence | Motor Evidence |
 |-----------|-------------------|----------------|

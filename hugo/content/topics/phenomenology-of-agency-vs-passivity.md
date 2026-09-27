@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-26 03:32:28+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -35,7 +35,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:47:40+00:00
-lastmod: 2026-09-26 03:32:28+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,7 +182,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The detailed structure of choosing
 - [witness-consciousness](/concepts/witness-consciousness/) — The passive pole explored through contemplative traditions
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation, not event-causation
-- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic processing
+- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from instructed attention
 - [mental-effort](/concepts/mental-effort/) — Why effort phenomenology supports conscious causal contribution
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase pattern by which agency transitions to delegated passivity
 - [motor-selection](/concepts/motor-selection/) — The agency-passivity contrast in movement

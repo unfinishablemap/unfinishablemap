@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-09-27 08:21:45+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-09-27 08:21:45+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ Stapp finds a kindred spirit in William James, who held that "volition is nothin
 
 Stapp's model answers: felt effort corresponds to observation rapidity. Sustained attention feels like work because it *is* work—continuous mental engagement to maintain the Zeno effect.
 
-Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment (Rajan et al., 2019). The neural distinction mirrors the phenomenal distinction. See [voluntary attention](/concepts/attention-as-interface/) for comprehensive treatment.
+Neuroscience draws a related distinction. Willed attention (internally generated) shows greater frontal theta, frontoparietal coherence, and frontal recruitment than instructed attention (externally cued) in spatial cueing (Rajan et al., 2019)—a relative difference. The Map reads it as mirroring the phenomenal distinction. See [voluntary attention](/concepts/attention-as-interface/) for comprehensive treatment.
 
 ## Empirical Support: Neuroplasticity
 

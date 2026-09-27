@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-09-25 11:02:03+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 19:14:22+00:00
-lastmod: 2026-09-25 11:02:03+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,15 +80,15 @@ Clinical and neurosurgical evidence appears to separate conscious selection from
 
 **OCD and directed attention.** Schwartz et al. (1996) found that patients who learn to cognitively reframe intrusive thoughts showed decreased caudate nucleus activity on PET imaging. The study was small (18 participants, only 9 new), but its caudate finding has been replicated—it confirmed an earlier result and independent groups have since reported similar changes—and remains suggestive: whatever performs the reframing has physical consequences. The directed attention producing these changes has the phenomenology of effort—patients report the reframing is difficult, requiring sustained concentration against compelling urges. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
 
-**Willed versus automatic attention.** Rajan et al. (2019) found frontal theta power and bidirectional fronto-parietal coherence greater during willed than during instructed attention—a relative increase rather than an all-or-none marker. The theta increase begins at about 500ms post-cue, later than the ~280ms motor commitment point (Thura & Cisek, 2014), and the two are measured on different clocks, so they do not establish a shared timescale; willed processing nonetheless carries a heavier neural footprint than instructed processing.
+**Willed versus instructed attention.** Rajan et al. (2019) found frontal theta power and bidirectional fronto-parietal coherence greater during willed than during instructed attention—a relative increase rather than an all-or-none marker. The theta increase begins at about 500ms post-cue, later than the ~280ms motor commitment point (Thura & Cisek, 2014), and the two are measured on different clocks, so they do not establish a shared timescale; willed processing nonetheless carries a heavier neural footprint than instructed processing.
 
 The neurological line supports the following claims:
 
 - **Conscious intention appears to dissociate from motor execution.** They can be independently disrupted or produced.
 - **Directed conscious effort correlates with measurable neural changes.** The changes seem to track the phenomenology of effort.
-- **Willed and automatic processing have distinct signatures.** Something appears to distinguish them beyond mere task difficulty.
+- **Willed and instructed attention have distinct signatures.** The authors attribute the difference to added decision and conflict demands.
 
-**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable, and the neurological evidence does not by itself adjudicate between the readings. (For first-person evidence from trained observers that complements these third-person findings, see [contemplative practice as philosophical evidence](/topics/contemplative-practice-as-philosophical-evidence/).)
+**What the neurological line does not establish:** That the distinction between willed and instructed attention involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable, and the neurological evidence does not by itself adjudicate between the readings. (For first-person evidence from trained observers that complements these third-person findings, see [contemplative practice as philosophical evidence](/topics/contemplative-practice-as-philosophical-evidence/).)
 
 ## The Quantum-Biological Line
 

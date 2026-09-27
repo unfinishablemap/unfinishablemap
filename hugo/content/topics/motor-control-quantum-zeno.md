@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-09-25 17:31:07+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 23:02:58+00:00
-lastmod: 2026-09-25 17:31:07+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,12 +67,12 @@ The [attention-as-interface](/concepts/attention-as-interface/) hypothesis propo
 
 The extension rests on Rizzolatti's premotor theory of attention (PMTA): attention and motor planning share neural substrates. Preparing an eye movement to a location improves visual processing there. The same fronto-parietal circuits activate during covert attention shifts and overt motor preparation. If attention *is* motor planning at some level, then whatever mechanism consciousness uses to direct attention already applies to motor selection.
 
-The parallel runs deeper than shared anatomy. Willed attention and willed motor action share:
+The parallel runs deeper than shared anatomy, though not every point has been measured in both domains:
 
 - **Timing**: Close in magnitude but differently anchored—~300ms post-cue deployment for voluntary attention in humans, versus ~100–175ms for reflexive capture (Müller & Rabbitt 1989); ~280ms before movement onset for motor commitment in monkeys (Thura & Cisek 2014)
-- **Neural signatures**: Frontal theta power is greater for willed than for instructed attention—a relative increase from ~500ms post-cue, not an all-or-none signature (Rajan et al. 2019)
+- **Neural signatures**: Frontal theta power is greater for self-chosen than for instructed visuospatial attention—a relative increase from ~500ms post-cue, not an all-or-none signature (Rajan et al. 2019); the contrast has not been tested for movement
 - **Phenomenology**: Both feel effortful when genuinely chosen, easier when merely instructed
-- **Bidirectional coherence**: Willed attention shows greater bidirectional frontoparietal coherence than instructed—again a relative increase—suggesting genuine deliberation rather than feedforward execution (Rajan et al. 2019)
+- **Bidirectional coherence**: Willed attention shows greater reciprocal frontoparietal theta coherence than instructed—again a relative increase, which the authors read as frontal decision-making interacting with parietal attentional control (Rajan et al. 2019)
 
 If these parallels reflect a single underlying mechanism, then understanding how consciousness directs attention would simultaneously clarify how it directs motor control. Consciousness does not need separate interfaces for perceiving and acting—it operates through one unified selection system.
 
@@ -132,7 +132,7 @@ What would strengthen the case? In Schurger-style self-paced movement tasks, sto
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Under many-worlds, every motor program executes in some branch. Everettians respond that decoherence-based branching preserves the *experience* of singular choice—each branch-instance genuinely feels it chose one action. The Map's objection is not that branching eliminates the phenomenology of choice but that it eliminates its metaphysical significance: if every option is realised somewhere, the agent's contribution reduces to indexical perspective rather than genuine selection. Motor control, where consciousness allegedly resolves physical indeterminacy, requires that resolution to be ontologically real—one outcome actualised, alternatives excluded—which collapse-based or single-outcome interpretations provide and many-worlds does not.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Neural determinism is simpler, but it struggles to explain why the willed/instructed distinction exists neurally, or why effort phenomenology tracks difficulty. A framework that includes conscious selection is less parsimonious but explanatorily richer.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Neural determinism is simpler and readily explains the willed/instructed neural difference as added decision load; what it leaves unexplained is why effort phenomenology tracks difficulty. A framework that includes conscious selection is less parsimonious but explanatorily richer.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-09-26
 human_modified:
-ai_modified: 2026-09-26T03:32:28+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -178,7 +178,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[phenomenology-of-choice-and-volition]] — The detailed structure of choosing
 - [[witness-consciousness]] — The passive pole explored through contemplative traditions
 - [[agent-causation]] — Why genuine agency requires agent-causation, not event-causation
-- [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from automatic processing
+- [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from instructed attention
 - [[mental-effort]] — Why effort phenomenology supports conscious causal contribution
 - [[skill-delegation]] — The three-phase pattern by which agency transitions to delegated passivity
 - [[motor-selection]] — The agency-passivity contrast in movement

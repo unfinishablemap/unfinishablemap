@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates; dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-09-02T08:23:00+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -47,7 +47,7 @@ The premotor theory of attention proposes that attention and motor planning shar
 
 One caution governs everything that follows. The Zeno mechanism this page develops is a *context and probing* proposal—it controls which neural state is measured and how often, with outcomes still Born-governed. That is Stapp's Process-1 placement, not the *outcome selection* the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet adopts; they are different causal proposals. The [[positions/quantum-interface|quantum-interface register]] ranks Stapp-Zeno below [[post-decoherence-selection|post-decoherence selection]] (P-Q4 against P-Q1), and its [[positions/quantum-interface#^mechanism-debt|mechanism debt]] stands undischarged. Read every selection claim below at the confidence the register sets, not above it.
 
-The unification has substantial empirical support: willed movements engage frontal theta oscillations just as willed attention does; voluntary action commits ~280ms before movement, the same order as voluntary attention's ~300ms deployment; neural populations encode multiple potential actions simultaneously, competing until one reaches threshold; and the Libet challenge has been substantially weakened by evidence that the readiness potential is noise rather than decision.
+The unification has empirical support: willed attention carries more frontal theta than instructed (Rajan et al. 2019) and volitional movement engages theta dynamics (Köhler et al. 2024), though the willed-versus-instructed contrast is untested for movement; voluntary action commits ~280ms before movement, the same order as voluntary attention's ~300ms deployment; neural populations encode multiple potential actions simultaneously, competing until one reaches threshold; and the Libet challenge has been substantially weakened by evidence that the readiness potential is noise rather than decision.
 
 ## The Premotor Theory of Attention
 
@@ -61,7 +61,7 @@ PMTA's proponents (Rizzolatti and colleagues) do not endorse dualist interpretat
 
 ### The Attention-Motor Parallel
 
-The [[attention-as-interface|attention as interface hypothesis]] proposes that consciousness operates through attention—on the Zeno candidate, by rapid probing that would hold desired neural patterns stable. Motor control shows the same structure: frontal theta oscillations, distinct willed vs instructed signatures, bidirectional frontoparietal coherence, and effortful phenomenology. Both domains require selection among competing options—if consciousness contributes by selecting, the mechanism should be similar across domains.
+The [[attention-as-interface|attention as interface hypothesis]] proposes that consciousness operates through attention—on the Zeno candidate, by rapid probing that would hold desired neural patterns stable. Motor control shares the effortful phenomenology and theta dynamics; the willed-versus-instructed signatures have been measured for attention only. Both domains require selection among competing options—if consciousness contributes by selecting, the mechanism should be similar across domains.
 
 ### From Attention-as-Interface to Action-as-Interface
 
@@ -150,9 +150,9 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-[[structure-of-attention|Willed attention]] shows greater frontal theta power and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019)—a relative increase rather than an all-or-none marker. Motor control shows the same pattern—willed action involves bidirectional information flow while instructed action is primarily feedforward.
+[[structure-of-attention|Willed attention]] shows greater frontal theta power and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019)—a relative increase rather than an all-or-none marker. Whether willed movement shows this contrast is untested; the study examined visuospatial attention only.
 
-Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); motor commitment falls ~280ms before movement. The timing overlap is consistent with a shared engagement window without confirming one (see above).
+Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); its comparison with motor commitment is discussed above.
 
 ## Quantum Zeno Applied
 

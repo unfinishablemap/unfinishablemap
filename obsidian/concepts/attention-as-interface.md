@@ -4,7 +4,7 @@ description: "The hypothesis that consciousness acts on the brain through phenom
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-09-23T21:48:26+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ The interface hypothesis rests on a further distinction: attention and conscious
 
 **Phenomenal attention without focused computational attention**: Ned Block's analysis of iconic memory showed subjects seeing all letters while reporting only 3-4—[[phenomenal-overflow|consciousness overflowing]] the computational bottleneck. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
 
-**Willed versus automatic computational attention**: Willed attention—internally initiated, accompanied by strong phenomenal effort—shows greater frontal theta, stronger bidirectional frontoparietal coherence, and additional frontal recruitment relative to instructed attention (Rajan et al. 2019). Both are computational attention; only willed attention involves full phenomenal engagement. A spectral finding points the same way inside one paradigm: in Wyart and Tallon-Baudry's (2008) MEG study of faint near-threshold gratings, visual awareness modulated mid-frequency gamma (54–64 Hz) over contralateral visual cortex at 240–500 ms post-stimulus, while spatial attention independently modulated high-frequency gamma (76–90 Hz) whether or not the stimulus was consciously seen. Those bands belong to that experiment rather than to consciousness and attention as such; no comparable spectral separation has been established beyond the near-threshold visual case.
+**Willed versus instructed computational attention**: Willed attention—internally initiated, accompanied by strong phenomenal effort—shows greater frontal theta, stronger bidirectional frontoparietal coherence, and additional frontal recruitment relative to instructed attention (Rajan et al. 2019). Both are computational attention; only willed attention involves full phenomenal engagement. A spectral finding points the same way inside one paradigm: in Wyart and Tallon-Baudry's (2008) MEG study of faint near-threshold gratings, visual awareness modulated mid-frequency gamma (54–64 Hz) over contralateral visual cortex at 240–500 ms post-stimulus, while spatial attention independently modulated high-frequency gamma (76–90 Hz) whether or not the stimulus was consciously seen. Those bands belong to that experiment rather than to consciousness and attention as such; no comparable spectral separation has been established beyond the near-threshold visual case.
 
 If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
 

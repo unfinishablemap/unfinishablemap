@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-20 01:11:04+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Mechanisms of the Attention-Consciousness Interface
 archived: true
@@ -25,7 +25,7 @@ description: Attention and motor control share neural substrates—suggesting co
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-20 01:11:04+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 original_path: /topics/attention-motor-quantum-selection/
 related_articles:
@@ -67,7 +67,7 @@ This reframes the question of conscious control. If prefrontal cortex is premoto
 
 ### Shared Neural Signatures
 
-The convergence manifests in three neural signatures that distinguish willed from automatic processing in both domains:
+The convergence was described here as three neural signatures that distinguish willed from automatic processing in both domains. [Archive note: the theta and coherence contrast (Rajan et al. 2019) was measured for internally chosen versus instructed visuospatial attention only; it does not establish a willed-versus-automatic contrast, or any contrast in the motor domain.]
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|

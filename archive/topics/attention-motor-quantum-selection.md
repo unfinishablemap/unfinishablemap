@@ -4,7 +4,7 @@ description: "Attention and motor control share neural substrates—suggesting c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-09-20T01:11:04+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -63,7 +63,7 @@ This reframes the question of conscious control. If prefrontal cortex is premoto
 
 ### Shared Neural Signatures
 
-The convergence manifests in three neural signatures that distinguish willed from automatic processing in both domains:
+The convergence was described here as three neural signatures that distinguish willed from automatic processing in both domains. [Archive note: the theta and coherence contrast (Rajan et al. 2019) was measured for internally chosen versus instructed visuospatial attention only; it does not establish a willed-versus-automatic contrast, or any contrast in the motor domain.]
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|

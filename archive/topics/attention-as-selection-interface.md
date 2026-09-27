@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-09-27T05:06:38+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ The strong form of PMTA remains debated, but shared circuitry between attention 
 
 ### Shared Neural Signatures
 
-Three signatures distinguish willed from automatic processing in both domains:
+Three signatures were described here as distinguishing willed from automatic processing in both domains. [Archive note: the theta and coherence contrast (Rajan et al. 2019) was measured for internally chosen versus instructed visuospatial attention only; it does not establish a willed-versus-automatic contrast, or any contrast in the motor domain.]
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|

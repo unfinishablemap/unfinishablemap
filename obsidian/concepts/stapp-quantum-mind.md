@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-27T08:21:45+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -73,7 +73,7 @@ Stapp finds a kindred spirit in William James, who held that "volition is nothin
 
 Stapp's model answers: felt effort corresponds to observation rapidity. Sustained attention feels like work because it *is* work—continuous mental engagement to maintain the Zeno effect.
 
-Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment (Rajan et al., 2019). The neural distinction mirrors the phenomenal distinction. See [[attention-as-interface|voluntary attention]] for comprehensive treatment.
+Neuroscience draws a related distinction. Willed attention (internally generated) shows greater frontal theta, frontoparietal coherence, and frontal recruitment than instructed attention (externally cued) in spatial cueing (Rajan et al., 2019)—a relative difference. The Map reads it as mirroring the phenomenal distinction. See [[attention-as-interface|voluntary attention]] for comprehensive treatment.
 
 ## Empirical Support: Neuroplasticity
 

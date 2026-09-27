@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-09-20 01:11:04+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-6
 archive_reason: Coalesced into Free Will and Determinism (topics/free-will)—the concepts
   version was largely a subset that explicitly deferred to the topics article for
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-23 03:37:00+00:00
-lastmod: 2026-09-20 01:11:04+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 original_path: /concepts/concept-of-free-will/
 related_articles:
@@ -78,7 +78,7 @@ Three lines of experiential evidence support genuine agency:
 
 **The [phenomenology of effort](/concepts/mental-effort/)** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that the free-will question "relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
 
-**Neural signatures of willed action** — [Willed attention](/concepts/attention-as-interface/) shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or merely instructed behaviour. The subjective sense of authorship tracks genuine differences in neural organisation, not an arbitrary overlay.
+**Neural signatures of willed action** — [Willed attention](/concepts/attention-as-interface/) shows greater frontal theta and frontoparietal coherence than instructed attention—a relative increase, not a presence/absence marker (Rajan et al. 2019). The subjective sense of authorship tracks genuine differences in neural organisation, not an arbitrary overlay.
 
 ## The Physical Interface
 
@@ -148,5 +148,6 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 1. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity. *PNAS*, 109(42), E2904-E2913.
 1. Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.

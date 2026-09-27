@@ -4,7 +4,7 @@ description: "The moment attention returns from wandering reveals a micro-struct
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-09-24T20:31:55+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 anchoring_audit_exempt: true  # 2026-09-24 audit flag verified false-high: 4 strong-assertion hits all calibrated (empirical, negated, or conceded); calibration is structural (illusionist boundary, identity-theory concession, Zeno 'speculative')
 topics:
@@ -149,7 +149,7 @@ What the return cycle does supply is the training gradient documented above. Dis
 
 ## Further Reading
 
-- [[attention-as-interface]] — Why attention is the privileged interface between mind and brain, including neural signatures distinguishing willed from automatic attention
+- [[attention-as-interface]] — Why attention is the privileged interface between mind and brain, including neural signatures distinguishing willed from instructed attention
 - [[meditation-and-consciousness-modes]] — The two modes of consciousness and their neural correlates
 - [[phenomenology-of-agency-vs-passivity]] — The felt contrast between doing and undergoing
 - [[mental-effort]] — The phenomenology and mechanism of effortful attention

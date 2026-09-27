@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Rajan et al. 2019 (willed vs instructed spatial attention) is propagated across the attention/motor cluster as a domain-general marker of willed action and conscious selection
-- **Type**: refine-draft
-- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-27-chatgpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-27
-- **Notes**: From outer review 2026-09-27 (§1.4, §7 weakness 4; improvements 23–24). Rajan et al. 2019 tested internally chosen versus externally instructed *visuospatial attention* in EEG. Audit these loci for claims that go beyond that contrast: `topics/attention-and-the-consciousness-interface.md` L63 ("Three signatures appear to distinguish willed from automatic processing in **both domains**", citing Rajan); `concepts/motor-selection.md` L50 ("willed movements engage frontal theta oscillations just as willed attention does") — check whether this has its own motor source or borrows Rajan; `topics/motor-control-quantum-zeno.md` L66–71; `apex/attention-as-causal-bridge.md` L72–76; `topics/authentic-vs-inauthentic-choice.md` L138. `topics/structure-of-attention.md` L167 and `topics/volitional-control.md` L138 already state the attention scope correctly, so use them as the model. Keep the four contrasts apart: self-selected vs instructed, conscious vs unconscious, effortful vs automatic, physical vs non-physical. Evidence for the first does not establish the others. Narrow the wording in place (word-neutral where possible). Do not remove the attention–motor parallel where a motor-specific source supports it. The `topics/free-will` L98 instance is handled by the P2 citation task on that file.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1598,6 +1590,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: Rajan et al. 2019 (willed vs instructed spatial attention) is propagated across the attention/motor cluster as a domain-general marker of willed action and conscious selection
+- **Type**: refine-draft
+- **File**: obsidian/topics/attention-and-the-consciousness-interface.md
+- **Notes**: From outer review 2026-09-27 (§1.4, §7 weakness 4; improvements 23–24). Rajan et al. 2019 tested internally chosen versus externally instructed *visuospatial attention* in EEG. Audit these loci for claims that go beyond that contrast: `topics/attention-and-the-consciousness-interface.md` L63 ("Three signatures appear to distinguish willed from automatic processing in **both domains**", citing Rajan); `concepts/motor-selection.md` L50 ("willed movements engage frontal theta oscillations just as willed attention does") — check whether this has its own motor source or borrows Rajan; `topics/motor-control-quantum-zeno.md` L66–71; `apex/attention-as-causal-bridge.md` L72–76; `topics/authentic-vs-inauthentic-choice.md` L138. `topics/structure-of-attention.md` L167 and `topics/volitional-control.md` L138 already state the attention scope correctly, so use them as the model. Keep the four contrasts apart: self-selected vs instructed, conscious vs unconscious, effortful vs automatic, physical vs non-physical. Evidence for the first does not establish the others. Narrow the wording in place (word-neutral where possible). Do not remove the attention–motor parallel where a motor-specific source supports it. The `topics/free-will` L98 instance is handled by the P2 citation task on that file.
 
 ### ✓ 2026-09-27: `topics/sham-controlled-neurofeedback-and-the-consciousness-comparator` misdescribes what the sham removes, proposes a design its own definitions undercut, and never charges the targeted-rhythm nulls against `concepts/neuroplasticity` L117
 - **Type**: refine-draft

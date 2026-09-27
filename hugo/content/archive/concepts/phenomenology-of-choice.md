@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-20 14:38:43+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Phenomenology of Choice and Volition
 archived: true
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-04 23:17:00+00:00
-lastmod: 2026-08-20 14:38:43+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 original_path: /concepts/phenomenology-of-choice/
 related_articles:
@@ -100,7 +100,7 @@ The phenomenology of choice differs fundamentally from observation. When observi
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/attention-as-interface/) shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The [attentional-economics](/concepts/attentional-economics/) framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
+This maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/attention-as-interface/) shows stronger frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019), a relative difference. The [attentional-economics](/concepts/attentional-economics/) framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
 
 The contrast is vivid in attention: being *pulled* by a loud noise versus *directing* focus on difficult text. The [illusionist](/concepts/illusionism/) holds this phenomenology is representational—the brain generates agency-sense without consciousness contributing. But why would accurate phenomenology of effort correlate with task difficulty if phenomenology has no functional role? Hard tasks feel hard; easy tasks feel easy. This correlation suggests phenomenology tracks real cognitive engagement.
 
@@ -233,6 +233,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 1. Mele, A. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
 1. Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). The phenomenology of free will. *Journal of Consciousness Studies*, 11(7-8), 162-179.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

@@ -4,7 +4,7 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-07-13T03:33:58+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 last_deep_review: 2026-07-14T20:49:58+00:00
 draft: false
 topics:
@@ -109,7 +109,7 @@ Whether this distinction holds under scrutiny remains contested. LLMs represent 
 
 If consciousness is reasons-responsive, how does this connect to neural activity? The Map proposes that consciousness operates at a selection level: the brain generates options; consciousness evaluates them through reasons-responsive deliberation; selection actualizes one option.
 
-Research on [[attention-as-interface|voluntary attention]] and [[motor-selection|motor selection]] identifies neural signatures of willed action: frontal theta oscillations, ~300ms deployment time, bidirectional frontoparietal coherence. These signatures distinguish genuinely chosen actions from automatic or merely instructed behaviour. The phenomenological asymmetry (effortful deliberation versus automatic response) corresponds to different neural circuits.
+Research on [[attention-as-interface|voluntary attention]] finds greater frontal theta and frontoparietal coherence for self-chosen than for instructed attention (Rajan et al. 2019)—a relative difference, not yet shown as a willed-versus-instructed contrast in [[motor-selection|motor selection]]. The phenomenological asymmetry (effortful deliberation versus automatic response) may correspond to that difference in neural load.
 
 The [[agent-causation|agent-causal]] framework situates reasons-responsiveness at the agent level: the agent exercises causal power guided by reasons. The [[causal-closure|causal closure]] principle that physicalism requires—every physical event having a sufficient physical cause—fails precisely where consciousness acts. Reasons-responsiveness operates where physics leaves outcomes undetermined; the agent's sensitivity to normative relationships guides which outcome actualizes.
 
@@ -149,5 +149,6 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 
 1. Fischer, J.M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press. (Develops "moderate reasons-responsiveness"—the capacity to recognise and react to some range of reasons—as the basis of moral responsibility. Their framework distinguishes strong from weak reasons-responsiveness; only the moderate version is required for attributing responsibility.)
 1. Goldman, A. (1979). "What Is Justified Belief?" In G. Pappas (Ed.), *Justification and Knowledge*. Reidel. (Classic reliabilist account.)
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1. (Original formulation of the space of reasons.)
 1. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press. (Connects reasons-responsiveness to free will and moral responsibility.)

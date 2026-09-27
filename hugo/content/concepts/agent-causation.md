@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-27 05:05:36+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-09-27 05:05:36+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,7 +146,7 @@ Agent causation faces a structural limit any account of mental causation inherit
 The framework therefore cannot rest on introspective proof of efficacy; its case is structural and convergent. Five anchors carry the weight, none of them privileged first-person testimony of the kind verification circularity disqualifies:
 
 - **Phenomenology of effort and willing.** Felt difficulty correlates with measured cognitive load and tracks reasons-responsive engagement; if phenomenology were epiphenomenal the correlation would be coincidental ([phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [mental-effort](/concepts/mental-effort/)).
-- **Neural data on willed versus instructed action.** Frontal-theta and coherence signatures, with latencies of the same order, recur across attention and motor domains, weighing against single-domain artefacts (Rajan et al. 2019; Nadra & Mangun 2023; Sjöberg 2024).
+- **Neural data on willed versus instructed attention.** Self-chosen visuospatial attention carries more frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019; Nadra & Mangun 2023)—a decision-load signature physicalism also predicts, untested for movement; SMA resection sparing voluntary action (Sjöberg 2024) is separate motor evidence.
 - **The [argument-from-reason](/topics/argument-from-reason/).** Rational inference requires tracking normative relationships physical causation alone cannot instantiate; the self-defeat of physicalism delivers mental causation without phenomenological premises and without any specific physics—surviving even if the quantum mechanism is wrong.
 - **Clinical neuroplasticity.** CBT and pharmacological interventions achieve comparable outcomes through *different neural pathways* (top-down cortical-to-limbic versus bottom-up neurochemical)—a divergence mental causation predicts and pure redescription cannot easily explain ([clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)).
 - **Cross-cultural convergence.** Indian (Nyāya), African (Akan), and Western traditions near-independently arrived at substance-causal accounts of persons, evidence that agent-causal thinking is not a parochial Western ontology ([cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)).

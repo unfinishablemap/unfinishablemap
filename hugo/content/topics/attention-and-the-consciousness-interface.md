@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-24 16:01:09+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:46:49+00:00
-lastmod: 2026-09-24 16:01:09+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ Attention and motor planning share neural substrates—directing attention *is* 
 
 Rizzolatti's premotor theory of attention (PMTA) holds that selective attention and movement planning use the same neural substrates. Preparing an eye movement to a location improves visual processing there; microstimulation of motor regions enhances processing at the target. Fine and Hayden (2022) extended PMTA, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor"—executive function is motor preparation at varying levels of abstraction.
 
-Three signatures appear to distinguish willed from automatic processing in both domains: frontal theta oscillations (greater for willed than instructed, from ~500ms post-cue; Rajan et al. 2019), bidirectional theta-band coherence between frontal and parietal regions, and commitment timing that is close in magnitude but differently anchored (~300ms post-cue deployment for voluntary attention in humans, Müller & Rabbitt 1989; ~280ms before movement onset in monkeys, Thura & Cisek 2014). If attention and motor selection were independent systems, this convergence would seem coincidental — though independent systems could share oscillatory signatures by both interfacing with the same downstream selection machinery.
+In visuospatial cueing, self-chosen attention shows greater frontal theta (from ~500ms post-cue) and stronger reciprocal frontal–parietal theta coherence than instructed attention (Rajan et al. 2019); that study made no motor comparison. Commitment timing is close in magnitude but differently anchored (~300ms post-cue deployment for voluntary attention in humans, Müller & Rabbitt 1989; ~280ms before movement onset in monkeys, Thura & Cisek 2014). If attention and motor selection were independent systems, the overlap would seem coincidental — though independent systems could converge by feeding the same downstream selection machinery.
 
 Traditional philosophy of mind treats perception and action as separate puzzles. If the Rizzolatti–Fine–Hayden line is right, selecting what to perceive may already be selecting what to do — one interface rather than two. The convergence motivates that identification rather than settling it; the data remain compatible with weaker readings on which attention and motor selection are tightly coupled rather than identical.
 
@@ -165,7 +165,7 @@ The interface hypothesis generates one prediction close to its mechanism. Becaus
 
 The prediction is real but discriminates less than it first appears, because the interface model's most serious computational rival predicts the same scaling. Active inference casts option selection as the minimisation of expected free energy, and the precision it assigns to competing policies falls as the entropy of the posterior over them rises; updating a low-precision, high-entropy policy distribution is where the framework locates computational and metabolic cost (Parr, Pezzulo & Friston 2022). That cost is driven by the entropy of the option set rather than by stimulus discriminability, so active inference reaches the interface model's signature result by a fully physicalist route. The contrast therefore separates both models from a naive difficulty-only account; it does not separate the interface model from active inference. What remains is the older disagreement rather than a forward experiment: active inference explains why a cost signal should scale with policy entropy, but stipulates rather than derives that this computational cost is identical with the felt quality of effort, leaving the bridge to something it is like to exert oneself unspecified by the mechanistic standard it otherwise demands of its rivals. That residue is the explanatory gap in the effort case rather than a discriminating prediction: the effort-entropy scaling is a shared prediction of two frameworks that part company only where neither yet has a forward test.
 
-Three weaker predictions follow from the broader framing: regions where willed attention shows distinctive signatures should exhibit quantum effects absent in automatic processing; higher attentional effort should correlate with longer neural pattern maintenance; and disorders affecting different interface components should produce distinct impairment profiles. The latter two do not by themselves discriminate the interface model from rivals.
+Three weaker predictions follow from the broader framing: regions where willed attention shows distinctive signatures should exhibit quantum effects absent in instructed attention; higher attentional effort should correlate with longer neural pattern maintenance; and disorders affecting different interface components should produce distinct impairment profiles. The latter two do not by themselves discriminate the interface model from rivals.
 
 The framework faces serious challenge from rival-framework vindication: precision weighting explaining all attention phenomena without remainder; no quantum effects surviving at candidate sites on attention-relevant timescales; [many-worlds](/tenets/#no-many-worlds) confirmed; illusionism successfully explaining "seeming" without a phenomenal subject; or contemplative training revealing consciousness as schematic. These are not forward predictions of the interface model itself; they are conditions under which some *other* theory's vindication would close out the space the interface hypothesis occupies. Most of the model's falsification risk currently rides on this kind of borrowed risk rather than on specific quantitative claims of its own. The effort-entropy prediction is the first attempt at a forward claim that would expose the mechanism, and it converges with active inference rather than discriminating against it; the framework still owes a prediction separating the interface reading from its strongest computational rival before it can claim falsifiability symmetry with the theories it engages.
 
@@ -175,7 +175,7 @@ The framework faces serious challenge from rival-framework vindication: precisio
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** — Motor force comes from metabolism, options arise from neural dynamics, and consciousness contributes only bias at the moment of resolution—tilting indeterminate outcomes where physics leaves room. Conservation laws hold because the energy for any selected action is ordinary biological energy.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** — The brain presents options (brain → mind); consciousness selects among them (mind → brain). The epiphenomenalist must explain why evolution built a unified attention-motor system with distinctive "willed" signatures that does nothing.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** — The brain presents options (brain → mind); consciousness selects among them (mind → brain). The epiphenomenalist must explain why evolution built a unified attention-motor system whose self-chosen attention carries a heavier neural signature, if the experience of choosing does nothing.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** — Within MWI, the standard indexical reply is that phenomenology in *this* branch correlates with Born-rule amplitude weight, so effort can in principle have a within-branch causal story even if all options execute somewhere. The convergence model requires a genuine selection; the disagreement with MWI is a tenet commitment honestly noted, not a victory over MWI on its own terms.
 

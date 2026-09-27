@@ -4,7 +4,7 @@ description: "At a decision point of genuine indeterminacy the trilemma foregrou
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-07-16T09:45:00+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -75,7 +75,7 @@ Three features distinguish this from randomness:
 
 **Phenomenology of effort.** Random processes don't feel like anything. But choosing feels effortful, and the effort scales with difficulty. William James observed that the free-will question "relates solely to the amount of effort of attention." The felt cost corresponds to genuine causal engagement—consciousness doing work to stabilise the selected option against competitors.
 
-**Neural distinctiveness.** Willed action shows frontal theta oscillations and bidirectional frontoparietal coherence absent in automatic or instructed processing. The brain distinguishes between what the agent chooses and what merely happens. If consciousness contributed nothing, this distinction would serve no purpose.
+**Neural distinctiveness.** Self-chosen attention shows more frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019)—a relative increase, measured for visuospatial attention rather than action generally. The brain registers the difference between choosing and following. Its authors read that difference as added decision load, which needs no non-physical contributor; the signature locates where selection happens without showing that consciousness does it.
 
 ## What the Trilemma Assumes — and the Positions It Sets Aside
 
@@ -167,3 +167,4 @@ The trilemma connects to each of the five [[tenets]]:
 12. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
 13. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-and-the-consciousness-interface/
 14. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
+15. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.

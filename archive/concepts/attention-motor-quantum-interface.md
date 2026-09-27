@@ -4,7 +4,7 @@ description: "The unified neural substrate where attention and motor planning co
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-08-19T18:54:54+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 archived: true
 archived_date: 2026-02-12T21:34:00+00:00
@@ -106,7 +106,7 @@ This explains the common phenomenology. Sustaining motor intention feels effortf
 
 ## Neural Signatures
 
-Three markers distinguish willed from automatic selection in both domains:
+Three markers were described here as distinguishing willed from automatic selection in both domains. [Archive note: the theta and coherence contrast (Rajan et al. 2019) was measured for internally chosen versus instructed visuospatial attention only; it does not establish a willed-versus-automatic contrast, or any contrast in the motor domain.]
 
 | Signature | Attention Evidence | Motor Evidence |
 |-----------|-------------------|----------------|

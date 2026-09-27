@@ -4,7 +4,7 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-08-20T18:52:01+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -135,7 +135,7 @@ This gives authenticity metaphysical significance: authentic choice is where con
 
 ### Neural Correlates
 
-The neural signatures of [[attention-as-interface|willed action]]—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation. The signatures are compatible with both readings; they are underdetermined by the evidence on offer.
+Conflict and cognitive-control demand recruit medial frontal monitoring (Botvinick et al., 2001), indexed by frontal theta (Cavanagh & Frank, 2014), and [[attention-as-interface|self-chosen attention]] shows more frontal theta and frontoparietal coherence than instructed attention (Rajan et al., 2019)—a relative increase in a spatial-cueing task, not a signature confined to willed action. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation. The signatures are compatible with both readings; they are underdetermined by the evidence on offer.
 
 The timing of [[motor-selection|motor commitment]] is similarly consistent with either interpretation. In monkeys performing reach decisions, neural populations commit to a selected action ~280ms before movement onset (Thura & Cisek, 2014); in humans, the frontal theta increase that distinguishes willed from instructed attention builds from ~500ms after the cue (Rajan et al., 2019)—a relative increase, not a latency difference. Haggard's (2008) review likewise places conscious intention within a brief window approximately one second before movement onset. On the Map's account, [[quantum-neural-timing-constraints|windows of this order]] provide time for consciousness to engage with neural superpositions. On a physicalist account, they reflect the additional computational demands of non-routine decisions. The neural data alone does not adjudicate between these frameworks, but the phenomenological distinctiveness of authentic choice remains a datum that physicalism must accommodate.
 
@@ -207,7 +207,7 @@ The authentic-inauthentic framework would face difficulty if:
 
 **Phenomenology turns out unreliable.** If people consistently misreport their phenomenology—experiencing authentic choice as inauthentic or vice versa—the distinction couldn't track anything metaphysically significant.
 
-**Neural signatures fail to distinguish.** If willed and automatic processing showed identical neural correlates, the proposed link between authenticity and genuine selection would lose empirical support.
+**Neural signatures fail to distinguish.** If willed and instructed processing showed identical neural correlates, the proposed link between authenticity and genuine selection would lose empirical support.
 
 **Contemplative practice reveals authenticity as illusion.** If extended meditation consistently showed that the "authentic" choice feeling is another layer of construction—equally conditioned, equally scripted—the distinction would collapse.
 

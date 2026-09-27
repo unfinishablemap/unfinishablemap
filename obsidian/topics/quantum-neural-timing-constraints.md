@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-09-21T15:54:37+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -167,7 +167,7 @@ The tenet specifies the smallest possible non-physical influence on quantum outc
 
 ### Bidirectional Interaction
 
-Motor commitment at ~280ms and willed attention theta at ~500ms are neural signatures of decisions—patterns distinguishing willed from automatic processing. If consciousness causally influences these decisions (rather than merely accompanying them), the influence must occur within the 200–500ms window spanning the point of no return through to attention deployment. The post-decoherence selection model satisfies this: consciousness doesn't maintain coherence across these timescales; it biases outcome selection at indeterminacy points distributed throughout the decision process.
+Motor commitment at ~280ms and willed attention theta at ~500ms are neural signatures of decisions—one a motor commitment point, the other a willed-versus-instructed attention contrast. If consciousness causally influences these decisions (rather than merely accompanying them), the influence must occur within the 200–500ms window spanning the point of no return through to attention deployment. The post-decoherence selection model satisfies this: consciousness doesn't maintain coherence across these timescales; it biases outcome selection at indeterminacy points distributed throughout the decision process.
 
 ### No Many Worlds
 

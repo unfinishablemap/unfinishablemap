@@ -4,7 +4,7 @@ description: "Agency is the allocation of attention over time. Within the Map's 
 created: 2026-01-31
 modified: 2026-08-19
 human_modified:
-ai_modified: 2026-09-02T17:29:27+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -208,7 +208,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 ## Further Reading
 
 - [[attention-as-interface]] — Why attention serves as consciousness's interface with matter
-- [[structure-of-attention|voluntary attention]] — The neural signatures of willed versus automatic attention
+- [[structure-of-attention|voluntary attention]] — The neural signatures of willed versus instructed attention
 - [[mental-effort]] — The phenomenology of attentional work
 - [[meditation-and-consciousness-modes]] — How contemplative practice trains attentional capacities
 - [[concepts/consciousness-selecting-neural-patterns]] — The mechanism by which attention shapes neural outcomes

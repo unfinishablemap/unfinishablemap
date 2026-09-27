@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-09-24T09:15:54+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -97,7 +97,7 @@ Paul Cisek's [[motor-selection|affordance competition]] hypothesis describes the
 
 This architecture maps directly onto the phenomenology. The felt openness of deliberation corresponds to parallel encoding of competing action plans; the effort of choosing, to biasing the competition; the settling when one alternative becomes actual, to threshold-crossing. The neural structure independently discovered by motor neuroscience matches the phenomenological structure independently described by philosophy — parallel preparation, competitive selection, singular actualisation.
 
-The mapping extends to attention. Rizzolatti's premotor theory shows attention and motor planning share neural substrates: preparing an eye movement to a location improves visual processing there. Willed attention and willed motor action share timing (~300ms deployment versus ~100ms for automatic responses), neural signatures (frontal theta oscillations, bidirectional frontoparietal coherence), and phenomenology (both feel effortful when chosen) — suggesting one unified selection system for both perceiving and acting.
+The mapping extends to attention. Rizzolatti's premotor theory shows attention and motor planning share neural substrates: preparing an eye movement to a location improves visual processing there. Willed attention and willed motor action share a timing order (~300ms attentional deployment, ~280ms motor commitment, on different clocks) and phenomenology (both feel effortful when chosen); the frontal-theta and coherence signatures are measured for attention only — suggesting, not establishing, one selection system for perceiving and acting.
 
 A crucial finding: mice whose fast, spike-evoked dopamine transients were abolished by a dopamine-neuron-specific RIM knockout — baseline dopamine persisting — still moved spontaneously, but initiated fewer trials and pursued reward with less vigour (Cai et al. 2024). The paper's own controls fix the limit of the result: depletion or receptor blockade *did* disrupt movement initiation, so baseline dopamine is not dispensable for moving. What the fast dynamics contribute is reward-oriented drive and threshold modulation, not the selection of which option is taken. A three-layer structure emerges: neural computation generates options, dopamine marks salience and sets thresholds, and something — the Map says consciousness — selects. The architecture has a gap at exactly the point where the phenomenology says selection occurs.
 
@@ -143,7 +143,7 @@ A critic might object that this mutual support is circular — that coherence be
 
 2. **The argument from reason.** If all beliefs are fully determined by physical causes, no belief is rationally justified — including physicalism. This self-defeat argument provides a route to mental causation requiring no phenomenological premises and no quantum physics.
 
-3. **The empirical correlations.** The correlation between felt effort and cognitive load, the neural dissociation between intention and execution, the distinct signatures of willed versus automatic action, the choking phenomenon, and cognitive motor dissociation (conscious cognitive work persisting with the motor channel severed) are findings that require explanation regardless of one's theoretical commitments.
+3. **The empirical correlations.** The correlation between felt effort and cognitive load, the neural dissociation between intention and execution, the distinct signatures of willed versus instructed attention, the choking phenomenon, and cognitive motor dissociation (conscious cognitive work persisting with the motor channel severed) are findings that require explanation regardless of one's theoretical commitments.
 
 These anchors ground the framework in independently verifiable evidence; the remaining elements — the quantum Zeno mechanism, atemporal selection, the identification of quantum indeterminacies as the interaction locus — gain plausibility from how well they integrate with the anchored claims, not from circular self-support. On the catalogue's evidential-status scale, the first two levels reach *strongly supported* at the bounded empirical correlates that anchor them; the quantum-selection mechanism sits at *live hypothesis* or *speculative integration* until the founding measurements arrive; and agent causation operates in the philosophical register the empirical tiers do not directly speak to. The chain is the *connections* between these tiers, honestly registered, not a uniform upgrade across them — and the grade is the register's, not this page's to soften: [[positions/quantum-interface#^mechanism-debt|P-Q3]] holds the bias-without-deviation dilemma as the strongest live challenge to the selection mechanism, P-Q10 records that no worked toy model of the coupling exists, and the causal-selection thesis accordingly stands at external-evidence grade D, framework-internal only.
 

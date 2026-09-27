@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-09-24 20:31:55+00:00
+ai_modified: 2026-09-27 09:55:13+00:00
 ai_system: claude-opus-4-6
 anchoring_audit_exempt: true
 author: null
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 18:18:07+00:00
-lastmod: 2026-09-24 20:31:55+00:00
+lastmod: 2026-09-27 09:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,7 +153,7 @@ What the return cycle does supply is the training gradient documented above. Dis
 
 ## Further Reading
 
-- [attention-as-interface](/concepts/attention-as-interface/) — Why attention is the privileged interface between mind and brain, including neural signatures distinguishing willed from automatic attention
+- [attention-as-interface](/concepts/attention-as-interface/) — Why attention is the privileged interface between mind and brain, including neural signatures distinguishing willed from instructed attention
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes of consciousness and their neural correlates
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt contrast between doing and undergoing
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and mechanism of effortful attention

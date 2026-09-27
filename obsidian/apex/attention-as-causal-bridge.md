@@ -4,7 +4,7 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-16T20:38:57+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 last_deep_review: 2026-07-19T11:21:21+00:00
 draft: false
 topics:
@@ -69,7 +69,7 @@ The Map's interpretation: consciousness and attention are ontologically distinct
 
 **Instructed attention** (~300ms): "look at the red square." An external cue directs attention through the dorsal attention network; consciousness follows an established rule.
 
-**Willed attention** (~300ms): you decide to focus on a difficult passage, to resist distraction. Three neural markers distinguish it from instructed attention (Rajan et al. 2019)—frontal theta oscillations, bidirectional frontoparietal theta coherence, and additional frontal recruitment—while the salience network switches processing between stimulus-driven and endogenous control.
+**Willed attention** (~300ms): you decide to focus on a difficult passage. In spatial cueing, three markers distinguish it from instructed attention (Rajan et al. 2019)—frontal theta oscillations, bidirectional frontoparietal theta coherence, and additional frontal recruitment—while the salience network switches processing between stimulus-driven and endogenous control.
 
 That frontal localisation is contested. Whether prefrontal activity tracks consciousness or only the machinery of reporting it remains open in the [[neural-correlates-of-consciousness|neural-correlates literature]], and these markers read equally as executive registration of a self-initiated selection rather than as a non-physical contributor entering.
 

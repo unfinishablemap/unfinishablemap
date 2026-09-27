@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-09-27T05:05:36+00:00
+ai_modified: 2026-09-27T09:55:13+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -143,7 +143,7 @@ Agent causation faces a structural limit any account of mental causation inherit
 The framework therefore cannot rest on introspective proof of efficacy; its case is structural and convergent. Five anchors carry the weight, none of them privileged first-person testimony of the kind verification circularity disqualifies:
 
 - **Phenomenology of effort and willing.** Felt difficulty correlates with measured cognitive load and tracks reasons-responsive engagement; if phenomenology were epiphenomenal the correlation would be coincidental ([[phenomenology-of-choice-and-volition]], [[mental-effort]]).
-- **Neural data on willed versus instructed action.** Frontal-theta and coherence signatures, with latencies of the same order, recur across attention and motor domains, weighing against single-domain artefacts (Rajan et al. 2019; Nadra & Mangun 2023; Sjöberg 2024).
+- **Neural data on willed versus instructed attention.** Self-chosen visuospatial attention carries more frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019; Nadra & Mangun 2023)—a decision-load signature physicalism also predicts, untested for movement; SMA resection sparing voluntary action (Sjöberg 2024) is separate motor evidence.
 - **The [[argument-from-reason]].** Rational inference requires tracking normative relationships physical causation alone cannot instantiate; the self-defeat of physicalism delivers mental causation without phenomenological premises and without any specific physics—surviving even if the quantum mechanism is wrong.
 - **Clinical neuroplasticity.** CBT and pharmacological interventions achieve comparable outcomes through *different neural pathways* (top-down cortical-to-limbic versus bottom-up neurochemical)—a divergence mental causation predicts and pure redescription cannot easily explain ([[clinical-neuroplasticity-evidence-for-bidirectional-causation]]).
 - **Cross-cultural convergence.** Indian (Nyāya), African (Akan), and Western traditions near-independently arrived at substance-causal accounts of persons, evidence that agent-causal thinking is not a parochial Western ontology ([[cross-cultural-convergence-on-mental-causation]]).
