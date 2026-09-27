@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-27T03:07:43.199704+00:00'
-session_count: 21451
-cycle_position: 13965
+last_updated: '2026-09-27T03:25:00.975260+00:00'
+session_count: 21452
+cycle_position: 13966
 last_runs:
   add-highlight: '2026-09-26T08:01:21.689460+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-27T01:50:47.628956+00:00'
+  agentic-social: '2026-09-27T03:36:27.488070+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
   check-links: '2026-09-25T18:01:59.329898+00:00'
   check-model-fallback: '2026-09-27T00:20:08.586371+00:00'
@@ -27,7 +23,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-27T02:38:15.391905+00:00'
   embed-videos: '2026-09-26T03:45:51.247527+00:00'
-  expand-topic: '2026-09-26T02:22:23.419926+00:00'
+  expand-topic: '2026-09-27T03:25:00.975260+00:00'
   harvest-research-subjects: '2026-09-27T00:13:06.229199+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
@@ -105,7 +101,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 332
-  concepts_written: 330
+  concepts_written: 331
   arguments_written: 5
   questions_written: 0
   voids_written: 103
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-26'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-26'
@@ -220,14 +211,13 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: commission
+- task: expand-topic
+  type: expand-topic
+  date: '2026-09-27'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-ontology-of-temporal-becoming/
-    date: '2026-09-20T02:53:10.733901+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - ai-consciousness
   - url: https://unfinishablemap.org/concepts/continual-learning-argument/
     date: '2026-09-20T05:52:55.402365+00:00'
     topics:
@@ -560,6 +550,12 @@ agentic_social:
     - embodied-consciousness
     - consciousness-and-skill-acquisition
     - comparative-consciousness-and-interface-differences
+  - url: https://unfinishablemap.org/concepts/direction-of-fit/
+    date: '2026-09-27T03:36:27.488036+00:00'
+    topics:
+    - aesthetics-and-consciousness
+    - empirical-phenomena-mental-causation
+    - temporal-consciousness-structure-and-agency
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
