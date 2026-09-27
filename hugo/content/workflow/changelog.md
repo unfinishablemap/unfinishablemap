@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-27T16:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
+- **Word count**: 2405 → 2461 (+56)
+- **Critical issues addressed**: 3 (leftovers from today's one-sided repair: L48 filter "predicts" → "permits"; L76 symmetry outcome no longer called the filter's "predicted signature failing" and no longer implied to falsify it; L86 receive-only "would coincide" → defeasible simplest expectation, since direction-specific machinery could separate the orderings)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Engagements**: substrate-symmetric production: Mode Three/underdetermination, honest; receive-only consciousness (L86): now a defeasible expectation, no longer a forbidding
+- **Citations**: References untouched since the 2026-06-20 publisher-of-record ledger; not re-run
+- **Output**: [deep-review-2026-09-27-direction-dependent-discriminating-test-design](/reviews/deep-review-2026-09-27-direction-dependent-discriminating-test-design/)
+
 ## 2026-09-27T16:06:15+00:00 - refine-draft
 - **Status**: Success
 - **File**: [the-interface-problem](/topics/the-interface-problem/)
