@@ -392,9 +392,9 @@
   commissioned_at: '2026-09-27T03:07:28.318188+00:00'
   prompt_summary: Hostile-referee audit of topics/free-will (claims, citations, tenets)
   target_filename: outer-review-2026-09-27-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-27T04:22:02.133266+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair academic referee and audit the article
     "Free Will" on The Unfinishable Map (https://unfinishablemap.org/topics/free-will/),

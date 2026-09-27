@@ -5,6 +5,15 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T04:25:00+00:00 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Research). Subject: `topics/free-will`, reused from the ChatGPT leg
+- **File**: [[reviews/outer-review-2026-09-27-claude-opus-5-5]]
+- **Extraction**: the artifact tile was ready on poll 1. The body was stable at 39,993 chars across the 10 s sentinel, and the page-built Blob download produced 47,079 chars. The extension connected on the second try, after about 15 s.
+- **Claims verified**: 14 Map-attributed spans, all accurate. 1 primary source was fetched and confirmed: Sjöberg 2024 at OUP, which shows `libet-experiments` L69 "It doesn't" is wrong. Desmurget was blocked by a PubMed CAPTCHA. 2 claims were overstated: predictive processing is engaged elsewhere in the corpus, and Pereboom is treated in the manipulation-argument article.
+- **High-value findings**: 5. Most important: the Born-rule / wild-coincidence dilemma and the mechanism debt are absent from the hub.
+- **Tasks generated**: 2 new (P1 Born-rule dilemma on `topics/free-will`; P2 tenet leakage and falsifier immunisation on `topics/free-will`, length-negative). 3 addenda were appended to the sibling ChatGPT tasks instead of minting duplicates: the rollback/null P1 is now convergent across 2 reviewers, the free-will citations P2 gains reference titles and Libet 1985, and the libet-experiments P2 gains Sjöberg, Schurger, decoherence and the strawman.
+
 ## 2026-09-27T03:55:48+00:00 - collect-chatgpt-review + outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (GPT-5.6 Sol, Pro effort). Subject: `topics/free-will` (fallback:recent-aged)
