@@ -1420,13 +1420,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: Write concept page on panprotopsychism
-- **Type**: expand-topic
-- **Status**: pending
-- **Source**: optimistic-review 2026-09-24 (reviews/optimistic-2026-09-24-composition-and-combination-wing.md, High Priority); first proposed in optimistic-2026-07-18-combination-unity-cluster and never minted
-- **Generated**: 2026-09-24
-- **Notes**: Suggested by optimistic review. Section: `concepts/` (327/360 by `tools.evolution.state.count_section_files` on 2026-09-24; re-measure). No `panprotopsychism` page exists, but 10 live topics/concepts files mention it. Cover: Chalmers (2015, "Panpsychism and Panprotopsychism") on protophenomenal properties; the "revenge" argument (protophenomenal zombies) already sketched at `panpsychisms-combination-problem` L109-113; how it relates to Russellian monism and the combination problem (it avoids subject-summing as stated but reopens the conceivability gap one level down); strongest defenders (e.g. Coleman's panqualityism; verify the others). Write it as rival engagement in the manner of `concepts/manyism` ("engaged as a rival to be taken seriously, not as evidence for dualism"); the parity argument is tenet-coherent, not evidence-elevating. Link it from `panpsychisms-combination-problem`, `combination-problem`, `russellian-monism` and `panpsychism`.
-
 ### P3: quantum-probability-consciousness: scope the "Born probability as interface structure" reading to neural-site alternatives, add the global-nonactuality qualifier, and calibrate PBR / completeness / Kochen-Specker (L43, L102-114, L124-140)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1596,6 +1589,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: Write concept page on panprotopsychism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Section: `concepts/` (327/360 by `tools.evolution.state.count_section_files` on 2026-09-24; re-measure). No `panprotopsychism` page exists, but 10 live topics/concepts files mention it. Cover: Chalmers (2015, "Panpsychism and Panprotopsychism") on protophenomenal properties; the "revenge" argument (protophenomenal zombies) already sketched at `panpsychisms-combination-problem` L109-113; how it relates to Russellian monism and the combination problem (it avoids subject-summing as stated but reopens the conceivability gap one level down); strongest defenders (e.g. Coleman's panqualityism; verify the others). Write it as rival engagement in the manner of `concepts/manyism` ("engaged as a rival to be taken seriously, not as evidence for dualism"); the parity argument is tenet-coherent, not evidence-elevating. Link it from `panpsychisms-combination-problem`, `combination-problem`, `russellian-monism` and `panpsychism`.
 
 ### ✓ 2026-09-27: combination-problem: recalibrate "Empirical Distinguishability" (Khan 2024 "support quantum mechanisms", uncited C. elegans claim, "testable by current methods") and add the manyism note to Coleman's dilemma
 - **Type**: refine-draft

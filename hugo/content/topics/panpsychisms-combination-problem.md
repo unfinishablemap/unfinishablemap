@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-27 02:20:49+00:00
+ai_modified: 2026-09-27 03:22:13+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:13:23+00:00
-lastmod: 2026-09-27 02:20:49+00:00
+lastmod: 2026-09-27 03:22:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,7 +112,7 @@ A more sophisticated version comes from Buddhist philosophy, particularly the Ma
 
 ### Panprotopsychism
 
-Chalmers (2015) distinguished panpsychism from panprotopsychism: perhaps fundamental entities have not proto-*experience* but proto-*experiential* properties—non-phenomenal properties that transparently constitute phenomenal properties in combination. Electrons lack experience but possess something that yields experience when appropriately organised.
+Chalmers (2015) distinguished panpsychism from [panprotopsychism](/concepts/panprotopsychism/): perhaps fundamental entities have not proto-*experience* but proto-*experiential* properties—non-phenomenal properties that transparently constitute phenomenal properties in combination. Electrons lack experience but possess something that yields experience when appropriately organised.
 
 This avoids the combination problem as stated (no micro-experiences to combine), but faces a "revenge" version: if protophenomenal properties are non-experiential, "protophenomenal zombies" seem conceivable—systems with all the protophenomenal properties but no experience. The conceivability argument that motivates panpsychism against physicalism returns to undermine panprotopsychism. The gap between the non-experiential and the experiential reappears.
 

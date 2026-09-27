@@ -4,7 +4,7 @@ description: "The combination problem reveals something fundamental about subjec
 created: 2026-02-15
 modified: 2026-09-27
 human_modified:
-ai_modified: 2026-09-27T02:20:49+00:00
+ai_modified: 2026-09-27T03:22:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,7 +108,7 @@ A more sophisticated version comes from Buddhist philosophy, particularly the Ma
 
 ### Panprotopsychism
 
-Chalmers (2015) distinguished panpsychism from panprotopsychism: perhaps fundamental entities have not proto-*experience* but proto-*experiential* properties—non-phenomenal properties that transparently constitute phenomenal properties in combination. Electrons lack experience but possess something that yields experience when appropriately organised.
+Chalmers (2015) distinguished panpsychism from [[panprotopsychism]]: perhaps fundamental entities have not proto-*experience* but proto-*experiential* properties—non-phenomenal properties that transparently constitute phenomenal properties in combination. Electrons lack experience but possess something that yields experience when appropriately organised.
 
 This avoids the combination problem as stated (no micro-experiences to combine), but faces a "revenge" version: if protophenomenal properties are non-experiential, "protophenomenal zombies" seem conceivable—systems with all the protophenomenal properties but no experience. The conceivability argument that motivates panpsychism against physicalism returns to undermine panprotopsychism. The gap between the non-experiential and the experiential reappears.
 

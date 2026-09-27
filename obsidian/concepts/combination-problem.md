@@ -2,7 +2,7 @@
 title: "The Combination Problem"
 description: "If electrons have micro-experiences, how do billions combine into unified human consciousness? This problem for panpsychism remains unsolved. Interactionism avoids constitutive subject-summing but still owes interface unity."
 created: 2026-01-15
-modified: 2026-01-15
+modified: 2026-09-27
 human_modified: null
 draft: false
 topics:
@@ -30,7 +30,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T00:46:24+00:00
-ai_modified: 2026-09-27T02:50:34+00:00
+ai_modified: 2026-09-27T03:22:13+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the *constitutive* form of the problem by denying that matter has micro-experiences in the first place—though, as [the discussion of interface unity below](#the-unity-of-the-interface) concedes, it still owes an account of how one subject unifies a spatially distributed interface.
@@ -208,6 +208,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[qualia]] — What must combine (or not)
 - [[composition-and-consciousness|phenomenal non-compositionality]] — Why consciousness resists composition categorically
 - [[manyism]] — Roelofs' experience-sharing reply to subject-summing
+- [[panprotopsychism]] — Drops micro-subjects but meets its own protophenomenal-zombie combination problem
 - [[panpsychisms-combination-problem]] — In-depth treatment of the problem's three dimensions and de-combination
 - [[mereology-of-mind]] — The apex synthesis where de-combination is the named hinge joining composition and individuation
 - [[consciousness-and-the-metaphysics-of-individuation]] — The complementary problem: what draws boundaries around discrete subjects

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-25 15:46:47+00:00
+ai_modified: 2026-09-27 03:22:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-15
-date: &id001 2026-01-20
+date: &id001 2026-09-27
 description: Russellian monism claims quiddities ground consciousness, but faces the
   combination problem, instability between physicalism and dualism, and fragmentation
   into incompatible variants.
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-09-25 15:46:47+00:00
+lastmod: 2026-09-27 03:22:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ Galen Strawson, Philip Goff (in earlier work), and others argue that quiddities 
 
 ### Panprotopsychist Russellian Monism
 
-David Chalmers distinguishes *panprotopsychism*: quiddities might be non-phenomenal "protophenomenal" properties that jointly constitute phenomenal properties when appropriately organized. This avoids attributing experience to thermostats and rocks. But Chalmers notes a "revenge" argument: if protophenomenal quiddities aren't phenomenal, "protophenomenal zombies" seem conceivable. The conceivability argument that threatens standard physicalism threatens panprotopsychism too.
+David Chalmers distinguishes [*panprotopsychism*](/concepts/panprotopsychism/): quiddities might be non-phenomenal "protophenomenal" properties that jointly constitute phenomenal properties when appropriately organized. This avoids attributing experience to thermostats and rocks. But Chalmers poses a combination problem for it in turn: if protophenomenal quiddities aren't phenomenal, "protophenomenal zombies" seem conceivable. The conceivability argument that threatens standard physicalism threatens panprotopsychism too.
 
 ## The Combination Problem
 

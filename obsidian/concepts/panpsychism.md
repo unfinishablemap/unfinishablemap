@@ -2,9 +2,9 @@
 title: "Panpsychism"
 description: "The view that consciousness is fundamental and ubiquitous in nature. Shares dualism's anti-emergence insight but faces the combination problem."
 created: 2026-01-08
-modified: 2026-01-27
+modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-07-25T06:36:43+00:00
+ai_modified: 2026-09-27T03:22:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ Panpsychists propose that consciousness—or something proto-conscious—is what
 
 **Panpsychist Russellian monism** holds that quiddities are genuinely phenomenal—every electron has some micro-experience. Galen Strawson champions this view, rejecting any commitment to wholly non-experiential stuff "for which there is absolutely no evidence whatever."
 
-**Panprotopsychist Russellian monism** (Chalmers's distinction) holds that quiddities are "protophenomenal"—non-experiential properties that jointly constitute phenomenal ones in complex combinations. Electrons don't have experience; they have something that yields it when organized appropriately.
+**Panprotopsychist Russellian monism** ([[panprotopsychism|Chalmers's distinction]]) holds that quiddities are "protophenomenal"—non-experiential properties that jointly constitute phenomenal ones in complex combinations. Electrons don't have experience; they have something that yields it when organized appropriately.
 
 Panprotopsychism faces a potential "revenge" problem: if protophenomenal properties aren't phenomenal, "protophenomenal zombies" might seem conceivable. But the objection is weaker than the original zombie argument, which works because the physical and phenomenal are conceptually independent; panprotopsychism denies that independence by defining protophenomenal properties as constituting phenomenal ones in the right combinations. Chalmers himself grants this is less clear-cut than the original conceivability argument.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-27 02:50:34+00:00
+ai_modified: 2026-09-27 03:22:13+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[entanglement-binding-hypothesis]]'
 - '[[multi-mind-collapse-problem]]'
 created: 2026-01-15
-date: &id001 2026-01-15
+date: &id001 2026-09-27
 description: If electrons have micro-experiences, how do billions combine into unified
   human consciousness? This problem for panpsychism remains unsolved. Interactionism
   avoids constitutive subject-summing but still owes interface unity.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:46:24+00:00
-lastmod: 2026-09-27 02:50:34+00:00
+lastmod: 2026-09-27 03:22:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -212,6 +212,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [qualia](/concepts/qualia/) — What must combine (or not)
 - [phenomenal non-compositionality](/concepts/composition-and-consciousness/) — Why consciousness resists composition categorically
 - [manyism](/concepts/manyism/) — Roelofs' experience-sharing reply to subject-summing
+- [panprotopsychism](/concepts/panprotopsychism/) — Drops micro-subjects but meets its own protophenomenal-zombie combination problem
 - [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — In-depth treatment of the problem's three dimensions and de-combination
 - [mereology-of-mind](/apex/mereology-of-mind/) — The apex synthesis where de-combination is the named hinge joining composition and individuation
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary problem: what draws boundaries around discrete subjects

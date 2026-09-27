@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-07-25 06:36:43+00:00
+ai_modified: 2026-09-27 03:22:13+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,14 +19,14 @@ concepts:
 - '[[bi-aspectual-ontology]]'
 - '[[composition-and-consciousness|phenomenal non-compositionality]]'
 created: 2026-01-08
-date: &id001 2026-01-27
+date: &id001 2026-09-27
 description: The view that consciousness is fundamental and ubiquitous in nature.
   Shares dualism's anti-emergence insight but faces the combination problem.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:32:15+00:00
-lastmod: 2026-07-25 06:36:43+00:00
+lastmod: 2026-09-27 03:22:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ Panpsychists propose that consciousness—or something proto-conscious—is what
 
 **Panpsychist Russellian monism** holds that quiddities are genuinely phenomenal—every electron has some micro-experience. Galen Strawson champions this view, rejecting any commitment to wholly non-experiential stuff "for which there is absolutely no evidence whatever."
 
-**Panprotopsychist Russellian monism** (Chalmers's distinction) holds that quiddities are "protophenomenal"—non-experiential properties that jointly constitute phenomenal ones in complex combinations. Electrons don't have experience; they have something that yields it when organized appropriately.
+**Panprotopsychist Russellian monism** ([Chalmers's distinction](/concepts/panprotopsychism/)) holds that quiddities are "protophenomenal"—non-experiential properties that jointly constitute phenomenal ones in complex combinations. Electrons don't have experience; they have something that yields it when organized appropriately.
 
 Panprotopsychism faces a potential "revenge" problem: if protophenomenal properties aren't phenomenal, "protophenomenal zombies" might seem conceivable. But the objection is weaker than the original zombie argument, which works because the physical and phenomenal are conceptually independent; panprotopsychism denies that independence by defining protophenomenal properties as constituting phenomenal ones in the right combinations. Chalmers himself grants this is less clear-cut than the original conceivability argument.
 

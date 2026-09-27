@@ -5,6 +5,16 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T03:22:13+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Panprotopsychism
+- **Output**: [[concepts/panprotopsychism]]
+- **Word count**: ~2130 body words (concepts/ soft 2500; status ok)
+- **Based on research**: no dedicated note; primary source read in full (Chalmers 2013 Amherst Lecture PDF), related [[research/russellian-monism-2026-01-15]]
+- **Citations verified**: Chalmers 2013 (Amherst preferred citation + Crossref reprint DOI, pp. 19–47); Coleman 2012 *Dialectica* 66(1):137–166; Coleman 2014 *Erkenntnis* 79(1):19–44; Coleman 2017 OUP pp. 249–282 (Crossref + OpenAlex abstract). All Chalmers quotes grep-verified against the PDF text.
+- **Fidelity finding**: the word "revenge" does not occur in Chalmers 2013 — he frames protophenomenal zombies as "the combination problem for panprotopsychism". New page flags "revenge" as Map shorthand; `russellian-monism` L59 reworded ("Chalmers notes a 'revenge' argument" → "Chalmers poses a combination problem for it in turn").
+- **Integration**: inbound links added in `panpsychisms-combination-problem` (L111), `russellian-monism` (L59), `panpsychism` (L83, piped, zero words), `combination-problem` (Further Reading).
+
 ## 2026-09-27T02:50:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/combination-problem]]
