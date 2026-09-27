@@ -2,9 +2,9 @@
 title: "Frankfurt's Hierarchical Mesh Theory of the Will"
 description: "Frankfurt's 1971 account of freedom as a structural mesh between effective desire and second-order volition—person versus wanton, the regress and manipulation objections, and where it sits on the source/leeway map."
 created: 2026-07-09
-modified: 2026-07-09
+modified: 2026-09-27
 human_modified:
-ai_modified: 2026-07-19T18:33:42+00:00
+ai_modified: 2026-09-27T01:05:39+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -65,7 +65,7 @@ This is why the theory is called a **mesh** account: as the *Stanford Encycloped
 
 The most influential criticism is Gary Watson's **regress objection**, from "Free Agency" (1975). If a second-order desire is what confers authority over a first-order desire, what confers authority on the *second*-order desire? Consistency seems to demand a third-order volition to adjudicate conflicts among second-order desires, and a fourth to adjudicate those, without end. Nothing in the *form* of the hierarchy privileges the second level; height alone confers no authority, so the account either regresses or stops arbitrarily.
 
-Watson's constructive alternative replaces the desire-hierarchy with a distinction between the agent's **valuational system** (judgments about what is good or worth pursuing) and her **motivational system** (what actually moves her). Free action is action in which what the agent most values is not obstructed by her motivational system; unfree action is action in which, as Watson puts it, the agent is unable to get what he most wants or values. Authority comes from the agent's *values and practical reason*—a different *kind* of state—rather than from a higher *tier* of desire. This launched the "real self" tradition and remains the standard foil against Frankfurt's purely formal hierarchy.
+Watson's constructive alternative replaces the desire-hierarchy with a distinction between the agent's **valuational system** (judgments about what is good or worth pursuing) and her **motivational system** (what actually moves her). Free action is action in which what the agent most values is not obstructed by her motivational system; unfree action is action in which, as Watson puts it, the agent is unable to get what he most wants or values. The same split gives a natural description of acting against one's own values, the phenomenon treated in [[akrasia-and-weakness-of-will|akrasia and weakness of will]]; Davidson's analysis there draws a related gap, but between two kinds of judgement rather than between valuing and being moved. Authority comes from the agent's *values and practical reason*—a different *kind* of state—rather than from a higher *tier* of desire. This launched the "real self" tradition and remains the standard foil against Frankfurt's purely formal hierarchy.
 
 Frankfurt is not defenceless. In later work collected in *The Importance of What We Care About* (1988), he answers the regress not with a still-higher desire but with **decisive identification**: an act of commitment with which the person is *satisfied*, one that "resounds" throughout the potentially endless higher orders and so terminates them without adding another rung. He reframes this as **wholeheartedness**—a stable, unambivalent structure of the will—and **satisfaction**, a quietist state that is *not one more desire*. Critics press that satisfaction is either just another desire (reopening the regress) or an unexplained brute stopping point; the exchange is live, not settled.
 
@@ -96,6 +96,7 @@ Under [[tenets#^occams-limits|Occam's Razor Has Limits]] (Tenet 5), the Map decl
 - [[the-manipulation-argument-and-hard-incompatibilism]] — Where the mesh theory's silence about origins becomes a wedge: the manipulated agent with a perfect mesh
 - [[reasons-responsiveness]] — Fischer and Ravizza's rival compatibilism, which adds the history condition that structural mesh theory lacks
 - [[moral-responsibility]] — How endorsement and identification bear on desert, and where the Map's agent-causal account diverges
+- [[akrasia-and-weakness-of-will]] — Acting against one's better judgement; the unwilling addict and Watson's split seen from the philosophy of action
 - [[wholeheartedness-void]] — The structural opacity of the identified-with condition Frankfurt's wholeheartedness reply invokes
 - [[free-will]] — The Map's agent-causal libertarian position, for which the mesh theory is a compatibilist rival
 - [[tenets]] — The foundational commitments framing the Map's engagement

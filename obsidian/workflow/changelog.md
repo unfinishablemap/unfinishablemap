@@ -5,6 +5,13 @@ ai_modified: '2026-09-25T21:02:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T01:05:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/akrasia-and-weakness-of-will]] + [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]]
+- **Original score**: n/a (targeted integration pass; `scripts/curate.py` absent)
+- **Changes**: (1) akrasia §"Two Standing Debates": added expository bridge — Frankfurt's unwilling addict as an akratic-shaped case (flagged as nearer compulsion, since Frankfurt presents him struggling helplessly), and Watson's valuational/motivational split (1975 "Free Agency") as a close relative of Davidson's gap, with the difference stated (Davidson: between two judgements; Watson: between valuing and being moved); Watson 1977 "Skepticism about Weakness of Will" named separately as his later treatment of the weakness/compulsion boundary, with no 1977 claims attributed to 1975. (2) akrasia Holton section: piped link `[[phenomenology-of-choice-and-volition#sustained-control|holding them]]`. (3) akrasia Further Reading +2 entries (mesh theory, phenomenology-of-choice-and-volition); References +Frankfurt 1971, Watson 1975, Watson 1977. (4) mesh §"The Regress Objection": reciprocal sentence linking Watson's split to `[[akrasia-and-weakness-of-will]]` with the Davidson distinction; Further Reading +1. No change to either page's Relation to Site Perspective claims (bridges are expository). No named-opponent reply added (expository only), so no mode classification applies.
+- **Published**: yes
+
 ## 2026-09-27T00:58:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/functional-seeming]]

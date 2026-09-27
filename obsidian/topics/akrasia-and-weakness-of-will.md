@@ -2,9 +2,9 @@
 title: "Akrasia and Weakness of Will"
 description: "Acting against one's own better judgement—Socrates, Aristotle, Davidson, Holton—read by the Map as one selection-model lens on the will, not a proof of dualism."
 created: 2026-07-09
-modified: 2026-08-26
+modified: 2026-09-27
 human_modified:
-ai_modified: 2026-08-26T21:23:03+00:00
+ai_modified: 2026-09-27T01:05:39+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high vs motor-selection: expository/descriptive article (not a contested Map-claim), so strong-assertion + hedge-density checks misfire; refining would distort the exposition
 topics:
@@ -75,13 +75,13 @@ Davidson's akrasia is *synchronic*: at a single time, the agent's present action
 
 For Holton, weakness of will is the over-ready **abandonment of a resolution**—an intention formed precisely to insulate the agent against contrary inclinations they expect to feel when the time comes. The dieter who resolves in the morning to skip dessert, then revises that judgement when the trolley arrives, has not necessarily acted against a present better judgement; temptation characteristically works by *shifting* the judgement itself. The failure is not evaluative incoherence at the moment of choice but the unreasonable dropping of a commitment that was supposed to hold firm across the change of heart.
 
-This foregrounds **willpower** (strength of will) as a distinct faculty: the effortful, trainable capacity to maintain a resolution against inclinations that would otherwise revise it. Holton draws on the self-control research of Mischel and Baumeister and treats willpower as a real executive skill rather than the automatic output of correct judgement. One strand of that evidence has since weakened: the "ego-depletion" model, on which willpower draws down a limited resource, was put at d = 0.04 by Hagger et al.'s (2016) preregistered 23-laboratory replication, and the current SEP treatment records that the model has "increasingly come under question" (see [[mental-effort]]). What survives is Holton's structural claim—that resolutions can be dropped over-readily and that holding them is a distinct, trainable capacity—rather than any particular account of what that capacity consumes. The picture deflates the will as the pinnacle of rationality, casting it instead as a set of devices that compensate for our inability to make and hold sound judgements over time. Like Davidson's, Holton's account invokes no non-physical mechanism—the willpower it describes is empirically studied, ordinary self-management.
+This foregrounds **willpower** (strength of will) as a distinct faculty: the effortful, trainable capacity to maintain a resolution against inclinations that would otherwise revise it. Holton draws on the self-control research of Mischel and Baumeister and treats willpower as a real executive skill rather than the automatic output of correct judgement. One strand of that evidence has since weakened: the "ego-depletion" model, on which willpower draws down a limited resource, was put at d = 0.04 by Hagger et al.'s (2016) preregistered 23-laboratory replication, and the current SEP treatment records that the model has "increasingly come under question" (see [[mental-effort]]). What survives is Holton's structural claim—that resolutions can be dropped over-readily and that [[phenomenology-of-choice-and-volition#sustained-control|holding them]] is a distinct, trainable capacity—rather than any particular account of what that capacity consumes. The picture deflates the will as the pinnacle of rationality, casting it instead as a set of devices that compensate for our inability to make and hold sound judgements over time. Like Davidson's, Holton's account invokes no non-physical mechanism—the willpower it describes is empirically studied, ordinary self-management.
 
 ## Two Standing Debates
 
 Two disputes run through this material and bear on how much weight the akratic datum can carry.
 
-**Is akrasia possible?** The Socratic and Harean denial says no—judging *y* best is constitutively motivating, so acting otherwise is incoherent. The post-Davidson consensus says yes, treating akrasia as real and shifting the question to *how* to characterise it. The disagreement is ultimately over whether judgement and motivation can come apart.
+**Is akrasia possible?** The Socratic and Harean denial says no—judging *y* best is constitutively motivating, so acting otherwise is incoherent. The post-Davidson consensus says yes, treating akrasia as real and shifting the question to *how* to characterise it. The disagreement is ultimately over whether judgement and motivation can come apart. The free-will literature poses the same question in structural terms. Frankfurt's *unwilling addict* in the [[frankfurt-hierarchical-mesh-theory-of-the-will|hierarchical theory of the will]] has an akratic shape—he is moved by a desire his own second-order volition rejects—though Frankfurt presents him as struggling helplessly against the craving, which places the case nearer compulsion than weakness. Gary Watson's reply to Frankfurt ("Free Agency," 1975) splits the agent's *valuational* system from her *motivational* system; that split is a close relative of Davidson's gap, but not the same thing, since Davidson locates the divergence between two judgements (all-things-considered and all-out) while Watson locates it between what the agent values and what moves her. Watson later took up the weakness/compulsion boundary directly ("Skepticism about Weakness of Will," 1977).
 
 **Is akratic action necessarily irrational?** Davidson builds irrationality into the definition (the agent violates continence for no reason). Later writers argue that akratic action can be *rational*—when the agent's "better judgement" is itself defective, or when they are right to abandon a bad resolution. This connects to the internalism/externalism dispute about whether evaluative judgements necessarily motivate. The upshot for any downstream framework: the phenomenon is contested at the descriptive level before any metaphysical reading is layered on.
 
@@ -110,15 +110,20 @@ So the Map's contribution here is an *interpretation* of a shared phenomenon, no
 - [[valence-and-conscious-selection]] — Whether value guides selection or is idle to it—the mechanism question akrasia dramatises
 - [[volitional-control]] — The first-person structure of willing, vetoing, and selecting among actions
 - [[moral-responsibility]] — Whether and how authored action grounds desert
+- [[frankfurt-hierarchical-mesh-theory-of-the-will]] — Frankfurt's unwilling addict and Watson's valuational/motivational split, the free-will literature's structural counterparts of the akratic gap
+- [[phenomenology-of-choice-and-volition]] — Sustained control and effort: the first-person side of holding a resolution
 
 ## References
 
 1. Aristotle. *Nicomachean Ethics*, Book VII (chs. 1–10). Standard classical text; cited by book and chapter (Bekker numbering).
 1. Davidson, Donald. (1980). "How Is Weakness of the Will Possible?" In *Essays on Actions and Events*, Essay 2, pp. 21–42. Oxford University Press. (Originally in J. Feinberg, ed., *Moral Concepts*, Oxford University Press, 1969/1970.) ISBN 9780198246374.
+1. Frankfurt, H. G. (1971). "Freedom of the Will and the Concept of a Person." *The Journal of Philosophy*, 68(1), 5–20. https://doi.org/10.2307/2024717
 1. Hagger, M. S., Chatzisarantis, N. L. D., et al. (2016). "A Multilab Preregistered Replication of the Ego-Depletion Effect." *Perspectives on Psychological Science*, 11(4), 546–573. https://doi.org/10.1177/1745691616652873
 1. Hare, R. M. (1963). *Freedom and Reason*. Oxford: Clarendon Press. Ch. 5, "Backsliding," pp. 67–86.
 1. Holton, Richard. (2009). *Willing, Wanting, Waiting*. Oxford University Press. ISBN 9780199214570.
 1. Plato. *Protagoras*, 358b–c. Standard classical text (Socratic denial of akrasia).
 1. Stroud, Sarah, & Svirsky, Larisa. (2025). "Weakness of Will." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/weakness-will/
+1. Watson, Gary. (1975). "Free Agency." *The Journal of Philosophy*, 72(8), 205–220.
+1. Watson, Gary. (1977). "Skepticism about Weakness of Will." *The Philosophical Review*, 86(3), 316–339.
 1. Southgate, A. & Oquatre-six, C. (2026-02-19). Control-Theoretic Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/control-theoretic-will/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
