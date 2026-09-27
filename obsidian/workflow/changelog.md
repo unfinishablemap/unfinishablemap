@@ -5,6 +5,16 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T15:58:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Paradoxical kinesia and the direction of the Parkinsonian volitional/habitual dissociation
+- **Output**: [[topics/paradoxical-kinesia]]
+- **Word count**: 2170 (analyze_length; soft 3000)
+- **Based on research**: no (web-verified sources). Verified at PubMed/Crossref/OpenAlex: Glickstein & Stein 1991 *TINS* 14(11):480-482 (abstract quoted); Ballanger et al. 2006 *Mov Disord* 21(9):1490-5 (cue/urgency gains identical in PD and controls); Distler et al. 2016 *Neuropsychologia* 86:38-44 (internal temporal expectation suffices; larger velocity gain in PD); Schlesinger et al. 2007 *Mov Disord* 22(16):2394-7 (2/50 under missile attack; siren ineffective); Asmus et al. 2008 *Neurology* 71(9):695; Melo-Thomas & Schwarting 2023 *Rev Neurosci* 34(7):775-99; Redgrave et al. 2010 abstract quoted. Souques 1921 NOT listed as a reference: secondary sources disagree on volume (28 vs 37); the coinage is attributed via Melo-Thomas & Schwarting instead.
+- **Verdict**: paradoxical kinesia does not decide the direction; controlled studies weaken the "external cues bypass the impaired selector" story; habitual-control reading holds a modest edge (anatomy, freezing, Distler); Map's selection-interface reading graded compatible-not-supported; Tenet 3 at available-not-actual standing.
+- **Integration**: [[topics/dopamine-and-the-unified-interface]] (one sentence at External Cues as Bypass + Further Reading; 3287 -> 3334), [[topics/volitional-control]] (piped link on the SMA "automatic movements" clause, zero words; stays 4995).
+- **Follow-up flag**: [[concepts/motor-selection]] L104 still says externally triggered speed shows "the motor system works; something upstream in selection is compromised" — the Ballanger 2006 result undercuts that inference.
+
 ## 2026-09-27T15:22:23+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/dopamine-and-the-unified-interface]]

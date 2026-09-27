@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-09-27T15:22:23+00:00
+ai_modified: 2026-09-27T15:58:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -179,7 +179,7 @@ The selectivity is telling, though its reading is contested. Parkinson's does no
 
 Parkinson's patients who freeze can step over a visual obstacle or follow a rhythmic cue. Why? External stimuli bypass the impaired selection mechanism.
 
-In the unified interface framework, external cues directly trigger motor representations without requiring conscious selection among competing options, circumventing the dopamine-dependent threshold mechanism. Movements that are triggered rather than chosen would then escape the deficit while self-initiated ones do not. The habitual-control reading explains the same cue benefit differently: cues recruit the goal-directed route, which remains comparatively intact.
+In the unified interface framework, external cues directly trigger motor representations without requiring conscious selection among competing options, circumventing the dopamine-dependent threshold mechanism. Movements that are triggered rather than chosen would then escape the deficit while self-initiated ones do not. The habitual-control reading explains the same cue benefit differently: cues recruit the goal-directed route, which remains comparatively intact. Controlled studies of [[paradoxical-kinesia]] weaken the bypass story: in one study urgency sped healthy movement as much as parkinsonian movement, and in another an internal expectation can produce the effect without an external trigger.
 
 ## Relation to Site Perspective
 
@@ -228,6 +228,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [[mental-effort]] — Why selection feels effortful
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
 - [[consciousness-and-neurodegenerative-disease]] — What progressive dopamine loss reveals about the mind-brain relationship
+- [[paradoxical-kinesia]] — Grades the willed-deficit and habitual-control readings of the Parkinsonian asymmetry
 - [[the-interface-problem]] — Where in the brain the selection interface operates and how conscious states map to physical selections
 - [[volitional-control]] — Why the willed/automatic dissociation matters for dualism
 - [[consciousness-and-skill-acquisition]] — When dopamine-prepared selection meets no resistance
