@@ -5,6 +5,17 @@ ai_modified: '2026-09-27T06:36:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-27T19:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/born-preserving-causal-efficacy]] (multi-file propagation of the P-Q3 2026-09-27 correction)
+- **Original score**: n/a (targeted factual correction; `scripts/curate.py` absent)
+- **Changes**: Maier et al. (2018) intention-to-RNG nulls re-scoped everywhere from "the coarse conditional grain, already run null" to "external RNG, predicted null on either horn by brain-locality ([[concepts/brain-interface-boundary]]); no conditioned test of the brain-internal corridor has yet run".
+  - Named loci: apex/born-preserving-causal-efficacy horn (a) (origin; 5154→5149 words); positions/quantum-interface P-Q9 Asserts + Would-shift clause + new `Updated 2026-09-27` note, Last reviewed → 2026-09-27 (5943→5943, word-neutral via trims to P-Q9 Asserts wording and the 09-09 note's rationale); tenets/tenets L75 (minimal factual swap); voids/amplification-void L63 + L103; voids/tenet-generated-voids L75; concepts/ensemble-level-epiphenomenalism L67.
+  - concepts/causal-closure L146: stopping rule retained, motivation changed — it no longer answers "retreat to finer grains after a coarse null" (no such null exists for the brain-internal channel) but pre-empts indefinite deferral of an untested channel; "rescue"/"ends the retreat" → "vindicate"/"closes it".
+  - Sweep survivors fixed (same error, not in the brief): tenets/background-commitments L60; apex/research-programme-decisions-under-the-map L86 + L124 (L124 quoted P-Q9 verbatim — quote updated to the new register text, and its "one run instance came back null" reasoning rewritten; ranking verdict unchanged); topics/parapsychology-firewall L51; apex/self-concealing-interface L135; topics/born-rule-and-the-consciousness-interface L209; concepts/quantum-completeness L82 (paraphrased P-Q9); topics/completeness-in-physics-under-dualism L92; topics/overdetermination-dissolution-under-selection-only-interactionism L99.
+  - Left as-is (correct already): concepts/psychophysical-laws L221; topics/selection-only-mind-influence L109 (already says the bound is on the protocol, not the interface); apex/machine-question L149; concepts/selection-only-channel L78. Left, flagged: apex/born-preserving-causal-efficacy L125 cites Maier nulls against the *gross-effect* end of minimum-outside-corridor routes — not a conditional-corridor claim, but brain-locality blunts it for brain-internal variants too. Archive tree: no hits.
+- **Published**: yes
+
 ## 2026-09-27T18:37:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/paradoxical-kinesia]]

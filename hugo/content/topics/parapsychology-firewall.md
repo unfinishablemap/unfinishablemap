@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-08 21:41:01+00:00
+ai_modified: 2026-09-27 19:02:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 06:15:00+00:00
-lastmod: 2026-09-08 21:41:01+00:00
+lastmod: 2026-09-27 19:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ Three commitments, each load-bearing elsewhere in the corpus, jointly erect the 
 
 ### Constraint 1: Born-Statistics Preservation
 
-The Map's default mechanism is selection within a corridor that leaves aggregate Born statistics exactly intact (position [P-Q2](/positions/quantum-interface/#p-q2) in [quantum-interface](/positions/quantum-interface/)). Conscious selection biases *which* outcome becomes actual on a given trial, but the long-run frequencies still converge to |⟨φ|ψ⟩|². As [selection-only-mind-influence](/topics/selection-only-mind-influence/) derives, this drives the *signed* per-trial information rate toward zero across many trials. A reliable macroscopic PK effect is, by definition, a *persistent* departure from the unbiased distribution—a systematic deviation that does not wash out. That is the one thing the corridor forbids. So large, lawlike PK is not weak evidence against the Map; it directly contradicts the corridor reading the Map endorses most strongly. [The agency budget](/concepts/agency-budget/) gives this constraint a closed form: the selection the corridor permits is bounded above by the smaller of two entropies—the conscious source's and the Born distribution's—and delivered at exactly zero *unconditioned aggregate* signature. That arithmetic establishes less than it may appear to. The zero signature is the corridor's own stipulation rather than a derived result, and it binds that unconditioned marginal only—a deviation *conditioned* on intention, task or subject would still test the corridor, and the one coarse grain tried so far ran null (Maier, Dechamps & Pflitsch 2018). What the budget adds is that a *nonzero* selection allowance survives the stipulation, so the firewall's demand for null aggregates is satisfiable rather than empty. The mapping of those information-theoretic results onto mental causation is the Map's own construction and not a published finding, and per the [mechanism-debt convention](/positions/quantum-interface/#mechanism-debt) it is citable as framework-internal coherence arithmetic, never as established mental causation.
+The Map's default mechanism is selection within a corridor that leaves aggregate Born statistics exactly intact (position [P-Q2](/positions/quantum-interface/#p-q2) in [quantum-interface](/positions/quantum-interface/)). Conscious selection biases *which* outcome becomes actual on a given trial, but the long-run frequencies still converge to |⟨φ|ψ⟩|². As [selection-only-mind-influence](/topics/selection-only-mind-influence/) derives, this drives the *signed* per-trial information rate toward zero across many trials. A reliable macroscopic PK effect is, by definition, a *persistent* departure from the unbiased distribution—a systematic deviation that does not wash out. That is the one thing the corridor forbids. So large, lawlike PK is not weak evidence against the Map; it directly contradicts the corridor reading the Map endorses most strongly. [The agency budget](/concepts/agency-budget/) gives this constraint a closed form: the selection the corridor permits is bounded above by the smaller of two entropies—the conscious source's and the Born distribution's—and delivered at exactly zero *unconditioned aggregate* signature. That arithmetic establishes less than it may appear to. The zero signature is the corridor's own stipulation rather than a derived result, and it binds that unconditioned marginal only—a deviation *conditioned* on intention, task or subject would still test the corridor, though none has yet run: the intention-to-RNG nulls of Maier, Dechamps & Pflitsch (2018) concern an external RNG outside the Map's [brain-locality](/concepts/brain-interface-boundary/) scope, so they were predicted either way. What the budget adds is that a *nonzero* selection allowance survives the stipulation, so the firewall's demand for null aggregates is satisfiable rather than empty. The mapping of those information-theoretic results onto mental causation is the Map's own construction and not a published finding, and per the [mechanism-debt convention](/positions/quantum-interface/#mechanism-debt) it is citable as framework-internal coherence arithmetic, never as established mental causation.
 
 ### Constraint 2: No-Signalling
 

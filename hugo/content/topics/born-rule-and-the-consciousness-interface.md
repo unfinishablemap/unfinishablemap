@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-09-27 05:05:36+00:00
+ai_modified: 2026-09-27 19:02:00+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 anchoring_audit_exempt: true
 author: null
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-09-27 05:05:36+00:00
+lastmod: 2026-09-27 19:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -212,7 +212,7 @@ A hypothetical clean null on all experimental strands — no brain-internal cohe
 
 It would not foreclose corridor dualism (no unconditioned-aggregate signature at any sensitivity), Arana-style exponentially-suppressed Born modifications, trumping dualism, or Chalmers-McQueen Φ-collapse with sub-detectable coupling. The Map can survive a clean negative sweep by retreating to corridor or trumping readings. What it cannot do — without dishonesty — is pretend existing Born tests have already validated the corridor over minimum-outside-corridor alternatives. They have not, and given their regime, they could not. The companion piece [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) lays out mechanism by mechanism what *plural and convergent* foreclosure would look like.
 
-The asymmetry should be owned: strict corridor dualism, the Map's preferred reading, sits outside the *unconditioned-aggregate* discriminable regime by construction. The brain-internal-regime appeal adjudicates the minimum-outside-corridor sub-readings (Stapp-Zeno, Chalmers-McQueen Φ-collapse, Arana-λ, Orch-OR), not the Map's preferred reading. The sharper charge is Lakatos's, not Popper's: a hard core insulated from aggregate test (corridor plus trumping), ringed by falsifiable auxiliaries the programme disavows in advance as "not its preferred reading," plus a stated plan to retreat under a clean null, is the textbook profile of a *degenerating* programme buying survival by content-reduction. The Map does not deny the structure, but "unfalsifiable" overstates the insulation: preservation is asserted of the *unconditioned* long-run marginal only, leaving a deviation *conditioned* on intention, task or subject formally live (horn (a) of [P-Q3](/positions/quantum-interface/#mechanism-debt)) — though the coarsest grain has already returned nulls (Maier-Dechamps 2018), leaving only the finer grains no instruction reproduces. That exposure, with the novel signatures [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) specifies, is *progressive* content a purely content-reducing programme would not generate. The charge still lands, narrowed: trumping is orthogonal to Born tests outright, so retreat *there* buys survival by unfalsifiability, and the corridor's exposure sits at grains nobody has probed. That is the honest cost, not a strength: the gap the Bidirectional-Interaction tenet below names as arguably the Map's sharpest open question.
+The asymmetry should be owned: strict corridor dualism, the Map's preferred reading, sits outside the *unconditioned-aggregate* discriminable regime by construction. The brain-internal-regime appeal adjudicates the minimum-outside-corridor sub-readings (Stapp-Zeno, Chalmers-McQueen Φ-collapse, Arana-λ, Orch-OR), not the Map's preferred reading. The sharper charge is Lakatos's, not Popper's: a hard core insulated from aggregate test (corridor plus trumping), ringed by falsifiable auxiliaries the programme disavows in advance as "not its preferred reading," plus a stated plan to retreat under a clean null, is the textbook profile of a *degenerating* programme buying survival by content-reduction. The Map does not deny the structure, but "unfalsifiable" overstates the insulation: preservation is asserted of the *unconditioned* long-run marginal only, leaving a deviation *conditioned* on intention, task or subject formally live (horn (a) of [P-Q3](/positions/quantum-interface/#mechanism-debt)) — and untested, since the intention-to-RNG nulls (Maier-Dechamps 2018) concern an external RNG outside [brain-locality](/concepts/brain-interface-boundary/). That exposure, with the novel signatures [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) specifies, is *progressive* content a purely content-reducing programme would not generate. The charge still lands, narrowed: trumping is orthogonal to Born tests outright, so retreat *there* buys survival by unfalsifiability, and the corridor's exposure sits at grains nobody has probed. That is the honest cost, not a strength: the gap the Bidirectional-Interaction tenet below names as arguably the Map's sharpest open question.
 
 ## Relation to Site Perspective
 

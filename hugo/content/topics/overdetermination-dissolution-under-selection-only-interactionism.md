@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-25 22:16:18+00:00
+ai_modified: 2026-09-27 19:02:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 06:42:00+00:00
-lastmod: 2026-09-25 22:16:18+00:00
+lastmod: 2026-09-27 19:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ The two approaches are compatible. The [bridge article](/topics/delegation-meets
 
 The dissolution is not free. It commits the Map to specific empirical claims and to specific limits on what consciousness can do — costs the selection-only-channel article treats in detail and which the [companion topic article](/topics/selection-only-mind-influence/) grounds empirically.
 
-The first cost is the [Born-rule preservation constraint](/topics/born-rule-and-the-consciousness-interface/). If mental selection systematically deviated from Born statistics at the ensemble level, the framework would either generate detectable psychokinetic signatures (contradicting the empirical record from the Princeton Engineering Anomalies Research programme through the large-sample Bayesian test of Maier, Dechamps and Pflitsch (2018), which returned strong evidence for the null) or violate no-signalling (since, as Han and Choi (2016) argue, the Born rule is itself derivable from relativistic-causality constraints). The dissolution buys ontological coherence at the price of a bias invisible to unconditioned aggregate tests. What Born-rule preservation constrains is the unconditioned long-run marginal, not the mind-conditioned per-trial distributions; the per-event bound is simply the log₂(N) ceiling set by the brain-prepared candidate set, which Born-rule preservation does not tighten (see [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)). Formally unconstrained is not untested, though: the coarsest mind-conditioned grain — intention directed at a random-number generator — is exactly what the Maier study measured and found empty; what stays open is the finer, task-embedded grain no laboratory instruction reproduces.
+The first cost is the [Born-rule preservation constraint](/topics/born-rule-and-the-consciousness-interface/). If mental selection systematically deviated from Born statistics at the ensemble level, the framework would either generate detectable psychokinetic signatures (contradicting the empirical record from the Princeton Engineering Anomalies Research programme through the large-sample Bayesian test of Maier, Dechamps and Pflitsch (2018), which returned strong evidence for the null) or violate no-signalling (since, as Han and Choi (2016) argue, the Born rule is itself derivable from relativistic-causality constraints). The dissolution buys ontological coherence at the price of a bias invisible to unconditioned aggregate tests. What Born-rule preservation constrains is the unconditioned long-run marginal, not the mind-conditioned per-trial distributions; the per-event bound is simply the log₂(N) ceiling set by the brain-prepared candidate set, which Born-rule preservation does not tighten (see [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)). Formally unconstrained is also, so far, untested: the Maier study's intention-to-RNG null concerns an external device outside the Map's [brain-locality](/concepts/brain-interface-boundary/) scope, so it does not probe the brain-internal conditionals, and the task-embedded grains that would are ones no laboratory instruction yet reproduces.
 
 The second cost is content-confinement. Mind cannot register, choose, or report content that no candidate encodes. This is a strong constraint on the phenomenal repertoire — the dimensionality of reportable conscious content is bounded above by the dimensionality of the brain-generated candidate space at the relevant decoherence stage. The overdetermination dissolution carries this content-confinement as a structural commitment; without it, the candidate set would not be the upper bound on what mind can supply, and the non-competition argument would fail.
 

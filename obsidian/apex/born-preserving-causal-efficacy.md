@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-06-22
 human_modified: null
-ai_modified: 2026-09-27T05:05:36+00:00
+ai_modified: 2026-09-27T18:51:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -86,7 +86,7 @@ Everything hangs on the gap between the two. Born-preservation constrains the le
 
 **The trilemma.** Three cases exhaust the possibilities, and the Map is committed to one of them:
 
-- **(a) The conditionals differ.** If P(O | do(C), X) departs from q for some specifiable X, then in-principle signatures exist — conditioned on intentions, tasks, subjects, or context. The corollary is sharp: the empirical tests that bear on the Map are *conditional residual-structure* tests, not generic Born-frequency tests. This is where the corridor's empirical exposure sits, and the Map should not overstate how much of it remains unexplored: intention-to-RNG micro-psychokinesis *is* a conditional test at the coarsest grain, and it has returned nulls, the largest with 12,571 participants and a Bayes factor ≈10 for no effect (Maier et al. 2018). Those nulls leave open only the finer grains no instruction reproduces — spontaneous, task-embedded, or value-laden states — a narrower survival than the register has so far been asked to fund.
+- **(a) The conditionals differ.** If P(O | do(C), X) departs from q for some specifiable X, then in-principle signatures exist — conditioned on intentions, tasks, subjects, or context. The corollary is sharp: the empirical tests that bear on the Map are *conditional residual-structure* tests, not generic Born-frequency tests. This is where the corridor's empirical exposure sits, none of it yet measured. Intention-to-RNG micro-psychokinesis only resembles such a test: its RNG is external, so the Map's brain-locality scope ([[concepts/brain-interface-boundary]]) predicts its nulls on either horn — the largest 12,571 participants, Bayes factor ≈10 for no effect (Maier et al. 2018) — and they bear only on PEAR-style external psychokinesis. The brain-internal corridor is untested at every grain, including those no instruction reproduces (spontaneous, task-embedded, or value-laden states).
 - **(b) The conditionals never differ, at any grain.** If no specifiable conditioning ever separates P from q, the selector makes no empirically identifiable difference at any scale. This is the epiphenomenalism horn in its exact form — consciousness leaving no distributional trace under any partition of the data.
 - **(c) The conditionals differ but always cancel in the marginal.** If some contexts bias toward an outcome yet the marginal stays Born-exact, other contexts must bias away by precisely the compensating amount. This horn is not free: it requires a *cancellation or balancing law* the framework would have to state and motivate, not merely assert.
 

@@ -1532,16 +1532,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: Template: `topics/memory-channel-interface-evidence` (~L136) — the filter reading "is *consistent with* a direction-sensitive signature rather than deriving one… That clause forbids no ordering, the mirror-symmetric one included." Also `topics/direction-dependent-discriminating-test-design` L48/L76 as repaired today (filter reading "permits", does not predict). L73 already hedges it as a judgement the production theorist need not grant, so this is a one-clause alignment, word-neutral. Grep the concept page for any remaining "predict"/"derive" framing of the filter reading.
 
-### P2: Propagate the P-Q3 correction — the Maier et al. 2018 external-RNG null is NOT a conditioned test of the brain-internal corridor (8 live loci still count it as one)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: apex/born-preserving-causal-efficacy.md
-- **Source**: positions-evolve 2026-09-27 (P-Q3 update; sweep list in changelog)
-- **Generated**: 2026-09-27
-- **Notes**: MULTI-FILE; edit all. Corrected source: `positions/quantum-interface` P-Q3 Calibration + `Updated 2026-09-27` note (Maier et al. 2018 target an *external* RNG; under brain-locality — `concepts/brain-interface-boundary` L78-88, `topics/brain-specialness-boundary` L53-57 — the null is predicted whether or not the corridor holds; it bears only on PEAR-style external PK; no conditioned test of the brain-internal corridor has yet run). Model wording already correct at `concepts/psychophysical-laws` L221. Loci, origin first: (1) `apex/born-preserving-causal-efficacy` L89 horn (a) "intention-to-RNG micro-psychokinesis *is* a conditional test at the coarsest grain" — the origin; (2) `positions/quantum-interface` L145 P-Q9 Asserts "One coarse grain has run null" (needs its own dated Updated note); (3) `tenets/tenets.md` L75 "one coarse-grain instance has already run null" — tenet-page edit: keep it to the minimal factual correction; (4) `voids/amplification-void` L63 and L103; (5) `voids/tenet-generated-voids` L75; (6) `concepts/causal-closure` L146 (its "stopping rule" builds on this — re-check the argument still stands); (7) `concepts/ensemble-level-epiphenomenalism` L67. Apex and positions files are over hard: word-neutral or negative there. Grep "Maier" + "conditional|conditioned|coarse" across live + archive after editing.
-
 ## Completed Tasks
 
+
+### ✓ 2026-09-27: Propagate the P-Q3 correction — the Maier et al. 2018 external-RNG null is NOT a conditioned test of the brain-internal corridor (8 live loci still count it as one)
+- **Type**: refine-draft
+- **File**: apex/born-preserving-causal-efficacy.md
+- **Notes**: MULTI-FILE; edit all. Corrected source: `positions/quantum-interface` P-Q3 Calibration + `Updated 2026-09-27` note (Maier et al. 2018 target an *external* RNG; under brain-locality — `concepts/brain-interface-boundary` L78-88, `topics/brain-specialness-boundary` L53-57 — the null is predicted whether or not the corridor holds; it bears only on PEAR-style external PK; no conditioned test of the brain-internal corridor has yet run). Model wording already correct at `concepts/psychophysical-laws` L221. Loci, origin first: (1) `apex/born-preserving-causal-efficacy` L89 horn (a) "intention-to-RNG micro-psychokinesis *is* a conditional test at the coarsest grain" — the origin; (2) `positions/quantum-interface` L145 P-Q9 Asserts "One coarse grain has run null" (needs its own dated Updated note); (3) `tenets/tenets.md` L75 "one coarse-grain instance has already run null" — tenet-page edit: keep it to the minimal factual correction; (4) `voids/amplification-void` L63 and L103; (5) `voids/tenet-generated-voids` L75; (6) `concepts/causal-closure` L146 (its "stopping rule" builds on this — re-check the argument still stands); (7) `concepts/ensemble-level-epiphenomenalism` L67. Apex and positions files are over hard: word-neutral or negative there. Grep "Maier" + "conditional|conditioned|coarse" across live + archive after editing.
 
 ### ✓ 2026-09-27: positions/quantum-interface P-Q3: an external-RNG null (Maier et al. 2018) is counted as a conditioned test of the brain-internal corridor, which brain-locality says it cannot be
 - **Type**: positions-evolve

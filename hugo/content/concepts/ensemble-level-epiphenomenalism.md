@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-09-27 05:05:36+00:00
+ai_modified: 2026-09-27 18:55:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:09:12+00:00
-lastmod: 2026-09-27 05:05:36+00:00
+lastmod: 2026-09-27 18:55:00+00:00
 modified: *id001
 related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
@@ -68,7 +68,7 @@ This route's advantage is that it makes the channel *real in the physicalist's o
 
 The two routes do not combine into a clean answer; they trade the same liability back and forth. The trumping route keeps the corridor's conservatism and empirical safety but answers the efficacy worry only by redefining efficacy as a structural rather than statistical property — a move available to the dualist but not compelling to the physicalist. The minimum-outside-corridor route secures statistically-real efficacy but forfeits the conservatism and inherits live empirical exposure. There is no route that is both maximally conservative *and* statistically efficacious, because those two properties are precisely what the dilemma sets against each other.
 
-Where the corridor itself could show has since been made precise, and it changes the terrain without changing the verdict. [The conditional-signature formalism](/apex/born-preserving-causal-efficacy/) separates the Born marginal, which exact preservation constrains, from the distributions conditioned on conscious states, which it leaves free. Three cases exhaust the field. If some conditional differs at a specifiable grain, the corridor has in-principle signatures after all — conditional residual-structure tests rather than generic Born-frequency tests, of which intention-to-RNG micro-psychokinesis is the coarsest, already run, and null (Maier-Dechamps 2018), leaving only the grains no instruction reproduces. If no conditional ever differs, that is this worry in its exact form. If the conditionals differ but cancel in the marginal, a balancing law is owed — and since a marginal preserved over the *natural* distribution of intentions moves once intentions are re-weighted by intervention, that case collapses into the first or demands a further law restricting which populations of conscious states are physically admissible. This is why the positions register rates the question's empirical discriminability *indirect* rather than none-by-construction ([P-Q3](/positions/quantum-interface/#p-q3)). It does not supply a third free route: the corridor's conditional exposure is bought either with empirical risk at grains not yet tested or with a second fundamental law the Map has not written.
+Where the corridor itself could show has since been made precise, and it changes the terrain without changing the verdict. [The conditional-signature formalism](/apex/born-preserving-causal-efficacy/) separates the Born marginal, which exact preservation constrains, from the distributions conditioned on conscious states, which it leaves free. Three cases exhaust the field. If some conditional differs at a specifiable grain, the corridor has in-principle signatures after all — conditional residual-structure tests rather than generic Born-frequency tests, none yet run on the brain-internal corridor (the intention-to-RNG nulls of Maier-Dechamps 2018 concern an external RNG that [brain-locality](/concepts/brain-interface-boundary/) exempts). If no conditional ever differs, that is this worry in its exact form. If the conditionals differ but cancel in the marginal, a balancing law is owed — and since a marginal preserved over the *natural* distribution of intentions moves once intentions are re-weighted by intervention, that case collapses into the first or demands a further law restricting which populations of conscious states are physically admissible. This is why the positions register rates the question's empirical discriminability *indirect* rather than none-by-construction ([P-Q3](/positions/quantum-interface/#p-q3)). It does not supply a third free route: the corridor's conditional exposure is bought either with empirical risk at grains not yet tested or with a second fundamental law the Map has not written.
 
 A formal result narrows the worry without closing it. [The agency budget](/concepts/agency-budget/) shows, by importing the coupling theorems of perfectly secure steganography, that exact preservation of the unconditioned marginal and reasons-correlated selection are jointly satisfiable — the first horn of the dilemma above rests on an assumed incompatibility that does not hold. What the same theorems establish is that perfect statistical concealment and zero third-person evidence are one condition under two descriptions. So the *impossibility* form of the worry is answered and the *idleness* form is left exactly where it was; the budget gives the objection a sharper statement rather than a refutation.
 

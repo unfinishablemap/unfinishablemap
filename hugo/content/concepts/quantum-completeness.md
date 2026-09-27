@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-23 22:30:44+00:00
+ai_modified: 2026-09-27 19:02:00+00:00
 ai_system: claude-sonnet-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 10:27:10+00:00
-lastmod: 2026-09-23 22:30:44+00:00
+lastmod: 2026-09-27 19:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ The Map's side rests on more than that standoff. A family of results treated at 
 
 Keep the reach precise: the family forecloses the hope that decoherence *by itself* yields a unique outcome, the objection this section answers, without settling the interpretive question wholesale. An Everettian is untouched, denying that definite pointer readings are what needs reproducing, and the rivals canvassed next escape by adding what unitary evolution lacks.
 
-The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. The proposal is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run — consciousness-selection within Born probabilities reproduces the statistics of random collapse — though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt)). That silence is local to the *unconditioned* aggregate marginal and is not a global unfalsifiability shield: preservation binds that marginal only and leaves the conditionals free, so positive residue remains on three channels — the *conditional-statistical* one just named, which the register grades open exposure rather than banked support because its one coarse grain has run null (the preregistered intention-to-RNG tests of Maier et al. 2018) while the finer grains stay untested, together with the mechanism-level and psychophysical channels ([P-Q9](/positions/quantum-interface/#p-q9)).
+The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. The proposal is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run — consciousness-selection within Born probabilities reproduces the statistics of random collapse — though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt)). That silence is local to the *unconditioned* aggregate marginal and is not a global unfalsifiability shield: preservation binds that marginal only and leaves the conditionals free, so positive residue remains on three channels — the *conditional-statistical* one just named, which the register grades open exposure rather than banked support because no brain-internal grain has yet been tested (the intention-to-RNG nulls of Maier et al. 2018 concern an external RNG, outside [brain-locality](/concepts/brain-interface-boundary/)), together with the mechanism-level and psychophysical channels ([P-Q9](/positions/quantum-interface/#p-q9)).
 
 ## Many-Worlds, Honestly {#many-worlds-honestly}
 

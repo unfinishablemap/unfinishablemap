@@ -4,7 +4,7 @@ description: "Physics is complete about structure but silent on actuality. Prope
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-09-17T11:09:44+00:00
+ai_modified: 2026-09-27T19:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ Observational closure, as Saad (2025) articulates it, holds that no *observable*
 
 Consciousness acting at quantum indeterminacies respects observational closure. When consciousness selects which outcome becomes actual, it operates *within* Born-rule probabilities. The resulting aggregate statistics are indistinguishable from random collapse. Under any *unconditioned aggregate* test—one pooling outcomes without conditioning on intention, task, or subject—no experiment can detect the difference between "this outcome was selected by consciousness" and "this outcome occurred randomly within the probability distribution," and the indistinguishability holds by construction rather than by any sensitivity limit. At that register the two descriptions are empirically equivalent: the data does not adjudicate between consciousness-driven selection and brute randomness, so whether an interface is operating at the quantum boundary remains observationally underdetermined. The interaction is invisible in the unconditioned aggregate because it operates at exactly the point where physics assigns probabilities rather than determinate outcomes.
 
-Preservation binds only that unconditioned marginal, and the *conditional* register stays open: whether specifiable conditioning—on intention, task, or subject—separates the outcome distribution from the unconditioned Born measure is a live question that tests the interface itself ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). That is exposure rather than banked support, since the coarsest conditional grain has already returned preregistered nulls, leaving only the finer grains no instruction reproduces ([[apex/born-preserving-causal-efficacy|Born-preserving causal efficacy]]).
+Preservation binds only that unconditioned marginal, and the *conditional* register stays open: whether specifiable conditioning—on intention, task, or subject—separates the outcome distribution from the unconditioned Born measure is a live question that tests the interface itself ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). That is exposure rather than banked support, since no conditioned test of the brain-internal corridor has yet run — the preregistered intention-to-RNG nulls concern an external RNG, outside [[brain-interface-boundary|brain-locality]] ([[apex/born-preserving-causal-efficacy|Born-preserving causal efficacy]]).
 
 This statistical invisibility follows from where the gap actually lies rather than marking any defect in the hypothesis. [[conservation-laws-and-mental-causation|Conservation laws]] remain satisfied because consciousness selects among outcomes rather than injecting energy. Statistical distributions remain intact because selection operates within, not against, the Born rule.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-09-04 15:30:07+00:00
+ai_modified: 2026-09-27 18:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 15:12:00+00:00
-lastmod: 2026-09-04 15:30:07+00:00
+lastmod: 2026-09-27 18:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -75,7 +75,7 @@ The placeholder refuses to fill because explaining it would require showing caus
 
 **What it cannot answer**: Why has the influence left no signature anyone has yet read?
 
-If consciousness biases quantum outcomes in the brain, this should be statistically detectable. On the corridor reading the Map endorses, it is not: the per-trial bias averages back to the Born measure, so the mechanism is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run, though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt)). The silence belongs to that reading rather than to the tenet—[on minimum-outside-corridor readings the effects are in principle detectable](/apex/judging-the-map-as-science/). Scoping does not close the void. The conditioned signature is unmeasured, the one coarse-grain conditional test on record returned null (Maier, Dechamps & Pflitsch 2018), and nothing in the framework says which finer grain to try next.
+If consciousness biases quantum outcomes in the brain, this should be statistically detectable. On the corridor reading the Map endorses, it is not: the per-trial bias averages back to the Born measure, so the mechanism is *empirically indistinguishable from chance* under any *unconditioned aggregate* test current or foreseeable instruments could run, though a deviation *conditioned* on intention, task or subject remains live ([P-Q3](/positions/quantum-interface/#mechanism-debt)). The silence belongs to that reading rather than to the tenet—[on minimum-outside-corridor readings the effects are in principle detectable](/apex/judging-the-map-as-science/). Scoping does not close the void. The conditioned signature is unmeasured—the intention-to-RNG nulls of Maier, Dechamps & Pflitsch (2018) target an external RNG that [brain-locality](/concepts/brain-interface-boundary/) exempts, so they do not test it—and nothing in the framework says which grain to try first.
 
 The parallel to divine hiddenness is instructive. Theologians face the question: if a loving God exists, why isn't the evidence clearer? The Map's non-physical consciousness has a similar structure at the aggregate grain: causally efficacious while leaving the unconditioned statistics exactly as chance would leave them. The Minimal Quantum Interaction tenet provides a principled answer (the interaction is *exactly* minimal), but this generates its own void: why exactly minimal? The fine-tuning cries out for explanation that the framework cannot provide.
 

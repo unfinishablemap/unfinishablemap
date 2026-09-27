@@ -1,7 +1,7 @@
 ---
 ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-09-23 17:46:23+00:00
+ai_modified: 2026-09-27 18:55:00+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5
 author: Andy Southgate
 concepts:
@@ -19,7 +19,7 @@ description: Five commitments that bound every article on The Unfinishable Map�
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
-lastmod: 2026-09-23 17:46:23+00:00
+lastmod: 2026-09-27 18:55:00+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -76,7 +76,7 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 
 **Decoherence leaves the outcome problem open.** [Decoherence does not solve the measurement problem](/concepts/decoherence/). As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence selects preferred bases without explaining why we observe *definite* outcomes. Even once coherence has fully dissipated, the question of *which* outcome becomes actual remains physically open. If collapse or actualisation is a real event, consciousness could bias selection at that point without requiring sustained coherence at neural timescales. That is what Tenet 2 commits to; whether any specific candidate mechanism additionally requires pre-decoherence coherence is a downstream question about that proposal, not about the tenet itself. The developed treatment lives in [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/).
 
-**Empirical risk and indistinguishability from chance:** Escaping the timing objection has a cost worth naming plainly. Selecting between Born-equiprobable alternatives while the ensemble average stays |⟨φ|ψ⟩|² leaves no statistical signature in long runs: under any *unconditioned aggregate* test the mechanism is *empirically indistinguishable from chance*—by construction, not by any sensitivity limit. The bias acts on which single outcome is realised, not on the aggregate measure—the structure [the Born-rule article](/topics/born-rule-and-the-consciousness-interface/) develops, where the Born measure (and so the Hilbert-space geometry Gleason's theorem fixes) is left intact. Preservation binds only that unconditioned marginal, however: a deviation *conditioned* on intention, task or subject would test the corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt); horn (a) of [Born-preserving causal efficacy](/apex/born-preserving-causal-efficacy/)), and one coarse-grain instance has already run null—the preregistered intention-to-RNG tests of Maier et al. (2018). Until some finer grain returns a positive, the tenet remains an interpretive proposal rather than a tested commitment, and the page registers that here rather than letting the post-decoherence move appear to dissolve the empirical question.
+**Empirical risk and indistinguishability from chance:** Escaping the timing objection has a cost worth naming plainly. Selecting between Born-equiprobable alternatives while the ensemble average stays |⟨φ|ψ⟩|² leaves no statistical signature in long runs: under any *unconditioned aggregate* test the mechanism is *empirically indistinguishable from chance*—by construction, not by any sensitivity limit. The bias acts on which single outcome is realised, not on the aggregate measure—the structure [the Born-rule article](/topics/born-rule-and-the-consciousness-interface/) develops, where the Born measure (and so the Hilbert-space geometry Gleason's theorem fixes) is left intact. Preservation binds only that unconditioned marginal, however: a deviation *conditioned* on intention, task or subject would test the corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt); horn (a) of [Born-preserving causal efficacy](/apex/born-preserving-causal-efficacy/)), and no such test of the brain-internal corridor has yet run—the intention-to-RNG nulls of Maier et al. (2018) concern an external RNG, outside [brain-locality](/concepts/brain-interface-boundary/). Until some conditioned test returns a positive, the tenet remains an interpretive proposal rather than a tested commitment, and the page registers that here rather than letting the post-decoherence move appear to dissolve the empirical question.
 
 **The decoherence-timescale dispute:** Critics argue that quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules. Hameroff's group (Hagan et al., 2002) disputed Tegmark's parameter choices and obtained corrected estimates of 10⁻⁵ to 10⁻⁴ seconds. The calculation is contested rather than settled, with estimates ranging across roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed model parameters; the literature has not converged. This dispute matters only for candidate mechanisms that require *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). Post-decoherence-selection proposals do not depend on it.
 
