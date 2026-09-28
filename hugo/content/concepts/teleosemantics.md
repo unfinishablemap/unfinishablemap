@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-07-13 06:32:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-28 11:36:00+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[intentionality]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[content-specificity-of-mental-causation]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
 created: 2026-07-11
-date: &id001 2026-07-11
+date: &id001 2026-09-28
 description: A human-AI steelman of teleosemantics—the leading naturalistic theory
   of mental content via biological proper function—and where the Map's dualism locates
   its principled dissent.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:32:55+00:00
-lastmod: 2026-07-13 06:32:00+00:00
+lastmod: 2026-09-28 11:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,9 +89,11 @@ Teleosemantics is the most credible reductive rival to the Map's first tenet, **
 
 The Map's dissent is a claim about *two normativities*. Proper function yields **biological** normativity: a trait can malfunction relative to what selection favoured. Content requires **semantic-rational** normativity: a state can be *false*, and a thinker *ought*, given evidence, to judge one way rather than another. The Map's contention is that the first does not constitute the second. A malfunctioning heart is not *mistaken about* anything; it fails a selection-relative standard without thereby entering the space of reasons. Reading the "ought" of representing-truly off the "ought" of having-been-selected trades a rational relation for a historical-statistical one, and the two come apart—not over what *fixes* correctness, which is world-involving on any theory including the Map's, but over what earns a state *answerability to evidence*, which selection-relative malfunction never amounts to. This is a sibling of the Map's [normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) argument, where the prescriptive force of inference likewise resists reduction to what brains were selected to do.
 
-This dissent is deliberately kept distinct from the two standing arguments the Map already holds against naturalised content, which it here cross-references rather than repeats. Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/) presses the *intensionality* gap—that even granting proper function, biology cannot fix the *guise* under which a state represents (as *food* versus as *nutritionally-optimal-nearby-item*). The [naturalisation failure for content](/topics/the-naturalisation-failure-for-content/) topic develops that dilemma as a stand-alone parallel to the phenomenal hard problem. The present objection is upstream of both: it questions whether *selection-relative malfunction* is the *right kind* of normativity to begin with, before intensionality is even reached. Where the Map's [phenomenal intentionality](/concepts/intentionality/) tradition locates genuine aboutness in consciousness, teleosemantics locates it in history—and history, the Map holds, is the wrong place to find an *ought*.
+This dissent is deliberately kept distinct from the standing argument the Map already holds against naturalised content, Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/), which it cross-references rather than repeats. The HPC presses the *intensionality* gap—that even granting proper function, biology cannot fix the *guise* under which a state represents (as *food* versus as *nutritionally-optimal-nearby-item*)—and the naturalisation-failure topic develops that dilemma as a stand-alone parallel to the phenomenal hard problem. The present objection is upstream of it: it questions whether *selection-relative malfunction* is the *right kind* of normativity to begin with, before intensionality is even reached. Where the Map's [phenomenal intentionality](/concepts/intentionality/) tradition locates genuine aboutness in consciousness, teleosemantics locates it in history—and history, the Map holds, is the wrong place to find an *ought*.
 
-Two honest limitations. First, the bite-the-bullet reply is principled: a teleosemanticist can simply insist that "content" *names* the historical kind, so the Map's appeal to a rational normativity beyond selection begs the question against the reduction. The disagreement is over what content is, and neither side refutes the other by stipulation. Second, teleosemantics is a live and improving research programme; producer-side informational versions have answered several objections that sank cruder ancestors, and the Map's dissent is a reasoned bet about the limits of reduction ([Occam's razor has limits](/tenets/)), not a demonstration. What the Map claims is that the crossing from covariation to aboutness, even with proper function added, stops one step short of the normativity that content-bearing thought requires—and that the missing step is where consciousness enters.
+The strongest reply to this dissent from inside the programme comes from Stephen Mann and Ross Pain (2022). Answering Hutto and Myin, they separate two criteria a theory of content might be asked to meet: *truth-evaluability* (the state can be true or false) and *intensionality* (content can differ while reference holds fixed). Teleosemantics, they argue, meets the first through its consumer-function machinery and is not required to meet the second, because intensionality is a personal-level desideratum—a feature of the beliefs we ascribe to whole thinkers—rather than a condition on the sub-personal states cognitive science posits. The same move applies, at full strength, to the Map's dissent: answerability to evidence is likewise a personal-level notion, so a theory of sub-personal content owes only selection-relative correctness and was never in the business of delivering rational normativity. The Map's answer is that the split concedes the point at issue rather than dissolving it. Personal-level content—the belief that can be false, the judgement one *ought* to revise—is what naturalising aboutness was supposed to deliver; relocating it outside the theory's remit grants that proper function does not reach it. The dissent then moves to the seam the split creates: whatever bridges sub-personal correctness to personal-level answerability is where, on the Map's view, consciousness does the work that selection cannot. The naturalisation-failure topic reads Mann and Pain's handling of intensionality the same way, and the two objections meet here. A sub-personal state that is neither intensional nor answerable to evidence is a well-behaved *tracker*, and the content-vocabulary applied to it is a summary of its dynamics rather than a report of its aboutness (compare [the derived-feature calibration](/concepts/content-vocabulary-as-derived-feature/) for predictive processing).
+
+Three honest limitations. First, the bite-the-bullet reply is principled: a teleosemanticist can simply insist that "content" *names* the historical kind, so the Map's appeal to a rational normativity beyond selection begs the question against the reduction. The disagreement is over what content is, and neither side refutes the other by stipulation. Second, teleosemantics is a live and improving research programme; producer-side informational versions have answered several objections that sank cruder ancestors, and the Map's dissent is a reasoned bet about the limits of reduction ([Occam's razor has limits](/tenets/)), not a demonstration. Third, the level-split is not costless for the Map either: a teleosemanticist can hold that personal-level content is *constructed* from sub-personal content plus learning and sociocultural scaffolding—the route Hutto and Myin themselves take for contentful cognition—so that nothing extra is needed at the seam. The Map's claim that consciousness enters there is a bet on where that construction fails, and the burden of showing it fails remains the Map's. What the Map claims is that the crossing from covariation to aboutness, even with proper function added, stops one step short of the normativity that content-bearing thought requires—and that the missing step is where consciousness enters.
 
 ## Further Reading
 
@@ -103,6 +105,7 @@ Two honest limitations. First, the bite-the-bullet reply is principled: a teleos
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — where represented content does empirically visible causal work
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — the sibling argument that the *ought* of inference resists naturalisation
 - [content-externalism](/concepts/content-externalism/) — the wide, environment-involving view of content, and the causal-relevance worry it shares with teleosemantics
+- [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/) — the parallel calibration for predictive processing: content-talk that summarises sub-personal dynamics without grounding aboutness
 
 ## References
 

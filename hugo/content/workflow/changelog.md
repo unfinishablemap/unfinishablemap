@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T10:40:00+00:00'
+ai_modified: 2026-09-28 11:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 10:40:00+00:00
+lastmod: 2026-09-28 11:21:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T11:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [teleosemantics](/concepts/teleosemantics/)
+- **Original score**: n/a (scripts/curate.py absent; task-driven refine)
+- **Changes**: (a) "Relation to Site Perspective" para 3 rewritten to name ONE standing argument (the HPC, housed at the naturalisation-failure topic) instead of "two" that both linked the same page (hard-problem-of-content was merged into that topic). (b) Added a ~230-word paragraph stating Mann & Pain 2022 at full strength against the Map's two-normativities dissent (rational answerability as a personal-level desideratum; teleosemantics owes only sub-personal correctness) and answering it: the level-split concedes that personal-level content is not naturalised, which is the Map's claim; the dissent relocates to the sub-personal/personal seam. Characterisation checked against the OpenAlex abstract ("meets the truth-evaluable criterion and is not required to meet the intensionality criterion") and against topics/the-naturalisation-failure-for-content L95-97; the two pages agree on substance. Note: the sibling page says Mann & Pain "concede" teleosemantics does not meet intensionality, which is slightly stronger than the abstract's "not required to meet"; full text not fetched (T&F 403), sibling left untouched (it has its own open task with 198 words headroom). Crossref confirms reference metadata (35(1): 22-46). (c) "Two honest limitations" -> "Three": third limitation records the cost of the level-split for the Map (personal-level content may be constructed from sub-personal content plus scaffolding, Hutto & Myin's own route; the Map's seam claim is a bet). (d) Inline piped link + Further Reading entry to [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/). Steelman discipline (L64) untouched. Engagement with Mann & Pain: mixed; the answer is in-framework (holds them to their own stated remit and reads the remit-narrowing as a concession), then the third limitation marks the framework-boundary residue honestly rather than claiming refutation. Length: 2497 -> 2854 body words (concepts soft 2500 / hard 3500; now soft_warning, well under hard; task-authorised addition).
+- **Published**: yes
+
+## 2026-09-28 11:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [origin-of-consciousness](/voids/origin-of-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-point fix from task notes)
+- **Word count**: 2220 → 2295 body words (+75; voids hard 3000, ~705 headroom left; soft_warning was already the state)
+- **Changes**: (a) Apophatic list, old L93: "Not [emergence](/concepts/emergence/) (presupposes consciousness in the explanation…)" → a contested negative. The objection is now stated as intelligibility (experience "emerging" from non-experience is disputed as unintelligible), explicitly *not* circularity, and the bullet concedes that [Hasker's emergent dualism](/concepts/emergent-dualism/) holds the generation view as "a coherent and well-defended horn" (ED L84's own phrasing) that the Map declines on other grounds. The list intro (old L88) now reads "some negations more securely than others" so the list no longer presents every entry as settled. (b) New bullet before the emergence entry: "Not natural selection" — selection explains how the neural architecture was shaped and why conscious organisms persisted once there was experience to select, not why there was experience to select at all; links [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/). Phrasing kept consistent with that article's own line (L76 "why does physical structure necessitate experience?" and its L78 interactionist caveat that selection *can* reach consciousness's causal difference — which presupposes experience exists, so the "not why" verdict survives). Frontmatter: `ai_modified` bumped, `ai_system` plus-joined with `claude-fable-5-1`.
+- **Engagement classification** (editor-internal): the emergence bullet now engages Hasker as a framework-boundary disagreement honestly marked ("declines on other grounds"), not as an in-framework refutation — the previous wording claimed a circularity that the generation view does not commit.
+- **Not changed**: the void still links none of the other reviewed siblings beyond these two; the task asked for these two only. `emergence-void` (refined 10:40 UTC today) and this page now both point at `emergent-dualism` for the degree-vs-kind / generation question.
+- **Published**: yes (vault-wide sync; Hugo copy verified, both links rendered)
 
 ## 2026-09-28 10:40 UTC - refine-draft
 - **Status**: Success

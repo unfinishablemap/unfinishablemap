@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T11:21:04+00:00'
+ai_modified: '2026-09-28T11:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T11:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/teleosemantics]]
+- **Original score**: n/a (scripts/curate.py absent; task-driven refine)
+- **Changes**: (a) "Relation to Site Perspective" para 3 rewritten to name ONE standing argument (the HPC, housed at the naturalisation-failure topic) instead of "two" that both linked the same page (hard-problem-of-content was merged into that topic). (b) Added a ~230-word paragraph stating Mann & Pain 2022 at full strength against the Map's two-normativities dissent (rational answerability as a personal-level desideratum; teleosemantics owes only sub-personal correctness) and answering it: the level-split concedes that personal-level content is not naturalised, which is the Map's claim; the dissent relocates to the sub-personal/personal seam. Characterisation checked against the OpenAlex abstract ("meets the truth-evaluable criterion and is not required to meet the intensionality criterion") and against topics/the-naturalisation-failure-for-content L95-97; the two pages agree on substance. Note: the sibling page says Mann & Pain "concede" teleosemantics does not meet intensionality, which is slightly stronger than the abstract's "not required to meet"; full text not fetched (T&F 403), sibling left untouched (it has its own open task with 198 words headroom). Crossref confirms reference metadata (35(1): 22-46). (c) "Two honest limitations" -> "Three": third limitation records the cost of the level-split for the Map (personal-level content may be constructed from sub-personal content plus scaffolding, Hutto & Myin's own route; the Map's seam claim is a bet). (d) Inline piped link + Further Reading entry to [[content-vocabulary-as-derived-feature]]. Steelman discipline (L64) untouched. Engagement with Mann & Pain: mixed; the answer is in-framework (holds them to their own stated remit and reads the remit-narrowing as a concession), then the third limitation marks the framework-boundary residue honestly rather than claiming refutation. Length: 2497 -> 2854 body words (concepts soft 2500 / hard 3500; now soft_warning, well under hard; task-authorised addition).
+- **Published**: yes
 
 ## 2026-09-28 11:21 UTC - refine-draft
 - **Status**: Success
