@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-06-24 23:29:36+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-28 11:21:04+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-24 23:29:36+00:00
-lastmod: 2026-06-24 23:29:36+00:00
+lastmod: 2026-09-28 11:21:04+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -88,12 +88,13 @@ This doesn't fully dissolve the origin question. We can still ask why reality co
 
 The apophatic tradition—negative theology, learned ignorance—suggests that some truths can only be approached through negation. Pseudo-Dionysius argued that the highest knowledge of God comes through unknowing, after all affirmations and denials have been exhausted.
 
-Applied to the origin void: we may be able to systematically identify what *cannot* explain consciousness's existence without being able to say what *does*:
+Applied to the origin void: we may be able to systematically identify what *cannot* explain consciousness's existence—some negations more securely than others—without being able to say what *does*:
 
 - Not logical necessity (the conceivability of absence shows consciousness is not self-warranting)
 - Not physical necessity (the [explanatory-gap](/concepts/explanatory-gap/) shows physical description doesn't entail experience)
 - Not divine creation (moves the question back one step—why did the creator include consciousness?)
-- Not [emergence](/concepts/emergence/) (presupposes consciousness in the explanation—experience "emerging" from non-experience)
+- Not natural selection (it explains how the neural architecture was shaped, and why conscious organisms persisted once there was experience to select, not why there was experience to select at all—see [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/))
+- Not [emergence](/concepts/emergence/)—though this negation is contested rather than settled: the objection is that experience "emerging" from non-experience is unintelligible, not that the explanation presupposes what it explains, and [Hasker's emergent dualism](/concepts/emergent-dualism/) holds the generation view as a coherent and well-defended horn that the Map declines on other grounds
 
 Negative knowledge traces the void's boundaries. We cannot say why consciousness exists, but we can map what fails as explanation. This is not nothing. The shape of explanatory failure reveals something about what consciousness must be.
 

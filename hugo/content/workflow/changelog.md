@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T10:09:31+00:00'
+ai_modified: '2026-09-28T10:40:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 10:09:31+00:00
+lastmod: 2026-09-28 10:40:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28 10:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [emergence-void](/voids/emergence-void/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted three-point fix from task notes)
+- **Word count**: 1982 → 2376 (+394; voids hard 3000, 624 headroom left; soft_warning was already the state)
+- **Changes**: (a) Weak-emergence gap restated without an experiential term at both loci (old L52 "constitutes felt warmth", old L76 "constitute *that* thermal experience" → why a statistical average over molecular speeds should *be* a property that equilibrates/conducts/fixes heat flow rather than a number that tracks one), plus an explicit concession that the thermal gap is thinner than the phenomenal one and that a felt-warmth phrasing would forfeit its standing as independent evidence for a general gap; the "Universality across domains" evidence line (old L60) now says the gap is not uniform in depth. (b) Old L94 "Large language models are themselves strongly emergent" → "display capabilities at scale not predictable from individual parameters—weak emergence in the Map's [emergence](/concepts/emergence/) usage, since in principle derivable from the weights". (c) Dualism tenet paragraph (old L106) rewritten: greater depth alone does not license dualism (a universal cognitive limit sits as comfortably with physicalism); the inference needs a difference in *kind* — elsewhere a derivation exists and comprehension lags, at consciousness no derivation exists (zombie conceivability, per [emergence](/concepts/emergence/)); links [emergent-dualism](/concepts/emergent-dualism/) as the same degree-vs-kind question in ontological form, reciprocating ED's existing one-way link (also added to Further Reading). Old L110 no longer says "consciousness's particular expression of a universal cognitive limit"; it now records that [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) presses the *sameness* claim (its L103 "the gap is the same gap") and that this page stops short of it — the two pages agree on the cognitive diagnosis and diverge on whether the gap is one or two. Old L54 "not a different problem but the same problem at its most extreme" adjusted to match (and its "This is not X but Y" construct rephrased). The one surviving "felt warmth" string is a mention, not a use.
+- **Not changed**: `emergence-as-universal-hard-problem` itself — its universalist reading is a stated position with its own hedges (L39, L61); the divergence is now recorded on this page rather than harmonised away.
+- **Published**: yes (vault-wide sync; Hugo copy verified)
 
 ## 2026-09-28 10:22 UTC - expand-topic
 - **Status**: Success

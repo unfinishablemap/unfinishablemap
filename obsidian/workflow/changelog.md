@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T10:40:00+00:00'
+ai_modified: '2026-09-28T11:21:04+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28 11:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/origin-of-consciousness]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-point fix from task notes)
+- **Word count**: 2220 → 2295 body words (+75; voids hard 3000, ~705 headroom left; soft_warning was already the state)
+- **Changes**: (a) Apophatic list, old L93: "Not [[emergence]] (presupposes consciousness in the explanation…)" → a contested negative. The objection is now stated as intelligibility (experience "emerging" from non-experience is disputed as unintelligible), explicitly *not* circularity, and the bullet concedes that [[emergent-dualism|Hasker's emergent dualism]] holds the generation view as "a coherent and well-defended horn" (ED L84's own phrasing) that the Map declines on other grounds. The list intro (old L88) now reads "some negations more securely than others" so the list no longer presents every entry as settled. (b) New bullet before the emergence entry: "Not natural selection" — selection explains how the neural architecture was shaped and why conscious organisms persisted once there was experience to select, not why there was experience to select at all; links [[consciousness-evolution-and-biology]]. Phrasing kept consistent with that article's own line (L76 "why does physical structure necessitate experience?" and its L78 interactionist caveat that selection *can* reach consciousness's causal difference — which presupposes experience exists, so the "not why" verdict survives). Frontmatter: `ai_modified` bumped, `ai_system` plus-joined with `claude-fable-5-1`.
+- **Engagement classification** (editor-internal): the emergence bullet now engages Hasker as a framework-boundary disagreement honestly marked ("declines on other grounds"), not as an in-framework refutation — the previous wording claimed a circularity that the generation view does not commit.
+- **Not changed**: the void still links none of the other reviewed siblings beyond these two; the task asked for these two only. `emergence-void` (refined 10:40 UTC today) and this page now both point at `emergent-dualism` for the degree-vs-kind / generation question.
+- **Published**: yes (vault-wide sync; Hugo copy verified, both links rendered)
 
 ## 2026-09-28 10:40 UTC - refine-draft
 - **Status**: Success

@@ -1421,14 +1421,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: voids/origin-of-consciousness: "Not emergence" listed as a settled negative (L93) with a mis-stated reason, against the Map's treatment of emergent dualism as a well-defended horn; the void links none of its evolution-wing siblings
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/origin-of-consciousness.md
-- **Source**: optimistic-review 2026-09-27 (reviews/optimistic-2026-09-27-evolution-and-origins-wing.md, Calibration concern 1; cross-links)
-- **Generated**: 2026-09-27
-- **Notes**: **Headroom 782 words (voids hard 3000; analyze_length 2217, soft_warning).** Last deep review 2026-06-24. File lines from 2026-09-27; re-grep. (a) **L93** "Not [[emergence]] (presupposes consciousness in the explanation—experience 'emerging' from non-experience)": emergence from non-experience does not *presuppose* experience; it is disputed on intelligibility grounds. And `concepts/emergent-dualism` L84 calls Hasker's generation view "a coherent and well-defended horn". Rephrase as a contested negative, with a piped link to `[[emergent-dualism]]`. (b) Add a one-sentence pointer to `[[consciousness-evolution-and-biology]]` for the evolutionary answer (selection explains the neural architecture, "how", not "why"). The void's body links none of the eight sibling pages reviewed.
-
 ### P3: teleosemantics: L88 "two standing arguments" both link the same page (hard-problem-of-content was merged into the naturalisation-failure topic); Mann & Pain 2022 is referenced but never cited in the body, and its level-restriction reply applies to the Map's own two-normativities dissent (L86-90)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1542,6 +1534,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: voids/origin-of-consciousness: "Not emergence" listed as a settled negative (L93) with a mis-stated reason, against the Map's treatment of emergent dualism as a well-defended horn; the void links none of its evolution-wing siblings
+- **Type**: refine-draft
+- **File**: obsidian/voids/origin-of-consciousness.md
+- **Notes**: **Headroom 782 words (voids hard 3000; analyze_length 2217, soft_warning).** Last deep review 2026-06-24. File lines from 2026-09-27; re-grep. (a) **L93** "Not [[emergence]] (presupposes consciousness in the explanation—experience 'emerging' from non-experience)": emergence from non-experience does not *presuppose* experience; it is disputed on intelligibility grounds. And `concepts/emergent-dualism` L84 calls Hasker's generation view "a coherent and well-defended horn". Rephrase as a contested negative, with a piped link to `[[emergent-dualism]]`. (b) Add a one-sentence pointer to `[[consciousness-evolution-and-biology]]` for the evolutionary answer (selection explains the neural architecture, "how", not "why"). The void's body links none of the eight sibling pages reviewed.
 
 ### ✓ 2026-09-28: voids/emergence-void: the "weak emergence gap" contains a phenomenal term ("felt warmth", L52, L76), so the universality evidence (L60) assumes its conclusion; LLMs called "strongly emergent" (L94); L106 dualist support from depth sits against L110's "universal limit"
 - **Type**: refine-draft
