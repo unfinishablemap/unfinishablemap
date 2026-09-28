@@ -27,3 +27,32 @@
   subject_articles:
   - topics/buddhist-perspectives-on-meaning.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/eb6ce757-f358-4a6e-817b-d60861cab65b
+  commissioned_at: '2026-09-28T03:07:05.095800+00:00'
+  prompt_summary: Referee audit of buddhist-perspectives-on-meaning (sources, schools,
+    cites)
+  target_filename: outer-review-2026-09-28-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair academic referee. Audit the article "Buddhist
+    Perspectives on Meaning" at https://unfinishablemap.org/topics/buddhist-perspectives-on-meaning/
+    on The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy site.
+    Check the latest edits via the changelog at https://unfinishablemap.org/workflow/changelog/
+    since search indexes lag by 24-48 hours. Assess: (1) whether its readings of anatta,
+    dukkha, impermanence and the Four Noble Truths are faithful to Pali and Mahayana
+    sources, or bent to fit the Map''s dualist tenets; (2) whether it represents the
+    differences between Theravada, Madhyamaka and Yogacara accurately; (3) citation
+    fidelity, e.g. whether Siderits (2025), Garfield (1995) and Lindahl et al. (2017)
+    actually support the claims attributed to them; (4) the strength of its "Relation
+    to Site Perspective" section and whether it concedes enough to Buddhist no-self
+    views that sit uneasily with a persisting consciousness. End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit buddhist-perspectives-on-meaning
+  subject_articles:
+  - topics/buddhist-perspectives-on-meaning.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-28-chatgpt-5-6-sol-pro.md
