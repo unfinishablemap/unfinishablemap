@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T18:36:07+00:00
+ai_modified: 2026-09-28T18:50:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T18:50:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/content-externalism]]
+- **Word count**: 1836 → 1936 (+100)
+- **Critical issues addressed**: 3 (Kim 1996 page range 159–170 → 159–165 — the 09-28 refine inferred the end page from Biro's start at 171 and skipped Horwich's "Comment on Dretske" at 167–170; phantom-limb exhibit overclaimed against Dretske by treating an absent relatum as decisive when his function-based account of misrepresentation absorbs it — rewritten as a bounded exhibit stating Dretske's reply and the residue; congenital-phantom base-rate hedge added, anchored to the sibling's section)
+- **Medium issues addressed**: 0 (Swampman "determinate narrow content" tension already queued at todo L1517)
+- **Enhancements made**: 1 (anchored cross-link into phantom-limb-phenomena congenital section)
+- **Engagement classification**: Dretske — Mixed (in-framework introspective-authority objection, residue boundary-marked; phantom passage was a boundary-substitution in miniature, now corrected); Putnam/Burge — Mode Three by design
+- **Output**: [[reviews/deep-review-2026-09-28-content-externalism]]
 
 ## 2026-09-28T18:36:07+00:00 - refine-draft
 - **Status**: Success

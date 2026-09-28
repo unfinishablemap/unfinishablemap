@@ -1439,13 +1439,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: phenomenology-of-imagination: L118 ranks felt imaginative effort as "the stronger evidence" for mental causation, against `phenomenology-of-forgetting` L105 / agency void; L116 and L90 overstate
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-imagination.md
-- **Source**: optimistic-review 2026-09-28 (reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md, Calibration concern 1)
-- **Generated**: 2026-09-28
-- **Notes**: **Headroom 1239 words (topics hard 4000; analyze_length 2760, ok; YT embed present).** File lines from 2026-09-28; re-grep. (a) **L118** "The phenomenology of imaginative effort … remains the stronger evidence that imagination involves genuine mental causation": the two sentences before it say the motor-imagery evidence does not adjudicate, and the sibling forgetting page (L105) says felt agency "is not first-person-verifiable as a cause". Recast it: felt effort is the datum an epiphenomenalist or identity theorist must accommodate, not stronger evidence. Link `[[agency-void]]`. (b) **L116** "The Map's Dualism tenet finds support in…" → "The Map reads … as support for". (c) **L90** "An AI generates novel text without experiencing the semantic landscape from within": hedge it to match the Map's open stance on AI consciousness (e.g. "need not experience"). Optional: link `[[default-mode-network]]` where mind-wandering or planning is discussed. KEEP L98 and L108; they are already well calibrated.
 ### P3: apophatic-cartography-four-criteria: L51 attributes an inventory to `compound-failure-signatures` that page does not carry; L147 misdescribes the four methods of `epistemology-of-limit-knowledge`
 - **Type**: refine-draft
 - **Status**: pending
@@ -1480,6 +1473,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: phenomenology-of-imagination: L118 ranks felt imaginative effort as "the stronger evidence" for mental causation, against `phenomenology-of-forgetting` L105 / agency void; L116 and L90 overstate
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenology-of-imagination.md
+- **Notes**: **Headroom 1239 words (topics hard 4000; analyze_length 2760, ok; YT embed present).** File lines from 2026-09-28; re-grep. (a) **L118** "The phenomenology of imaginative effort … remains the stronger evidence that imagination involves genuine mental causation": the two sentences before it say the motor-imagery evidence does not adjudicate, and the sibling forgetting page (L105) says felt agency "is not first-person-verifiable as a cause". Recast it: felt effort is the datum an epiphenomenalist or identity theorist must accommodate, not stronger evidence. Link `[[agency-void]]`. (b) **L116** "The Map's Dualism tenet finds support in…" → "The Map reads … as support for". (c) **L90** "An AI generates novel text without experiencing the semantic landscape from within": hedge it to match the Map's open stance on AI consciousness (e.g. "need not experience"). Optional: link `[[default-mode-network]]` where mind-wandering or planning is discussed. KEEP L98 and L108; they are already well calibrated.
 
 ### ✓ 2026-09-28: narrative-coherence: engage Strawson's "Against Narrativity" and the narrative void; L35 "provides evidence", L73 "confirm … neither automatic nor epiphenomenal", L81 flat selection claim overstate
 - **Type**: refine-draft

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-09-28 13:38:28+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-28 18:50:54+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - intentionality
@@ -16,8 +16,8 @@ description: 'A human-AI examination of content externalism: how Twin Earth pres
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-20 00:13:57+00:00
-lastmod: 2026-09-28 13:38:28+00:00
+last_deep_review: 2026-09-28 18:50:54+00:00
+lastmod: 2026-09-28 18:50:54+00:00
 modified: *id001
 related_articles: []
 title: Content Externalism and the Twin Earth Argument
@@ -47,7 +47,7 @@ So there are three positions worth separating. Externalism about intentional con
 
 ## Relation to Site Perspective
 
-The Map's position is the hybrid: **accept externalism for wide intentional content, reject it for phenomenal character.** The claim that divides the hybrid from Dretske is that the *what-it-is-likeness* of Twin-Oscar's experience can be held fixed across the Earth/Twin-Earth switch even where what his thoughts refer to cannot. This switch-invariance is contested, not agreed: Dretske's phenomenal externalism denies it outright, holding that qualia go wide with reference so felt character shifts along with extension. The Map therefore cannot assert switch-invariance as a premise — that would assume the very point Dretske disputes. The internalist half is earned instead by the introspective-authority argument set out above: felt character is phenomenally available to its subject and partly definitive of the state, so a theory that lets it vary with distal environmental facts the subject cannot detect makes phenomenal character opaque to introspection and violates first-person authority (Farkas 2008; and Kim's worry that "what a state represents" need not exhaust "what it is like"). That is a charge Dretske must answer on its own terms — an independent objection, not a refusal grounded in the Map's prior commitments. Aboutness and felt character are, on this reasoning, different properties, and only the first is plausibly world-involving in the externalist's sense. The internalist half also has an empirical exhibit. In [phantom limb phenomena](/topics/phantom-limb-phenomena/) the experience is felt *as* located in a limb that is not there — sharpest in congenital aplasia, where no limb ever existed to stand in an environment-involving relation — so the located, felt aboutness has no worldly relatum for an externalist to fix it by; [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/) works the case through as the exhibit for phenomenal aboutness that the mechanics presuppose rather than produce.
+The Map's position is the hybrid: **accept externalism for wide intentional content, reject it for phenomenal character.** The claim that divides the hybrid from Dretske is that the *what-it-is-likeness* of Twin-Oscar's experience can be held fixed across the Earth/Twin-Earth switch even where what his thoughts refer to cannot. This switch-invariance is contested, not agreed: Dretske's phenomenal externalism denies it outright, holding that qualia go wide with reference so felt character shifts along with extension. The Map therefore cannot assert switch-invariance as a premise — that would assume the very point Dretske disputes. The internalist half is earned instead by the introspective-authority argument set out above: felt character is phenomenally available to its subject and partly definitive of the state, so a theory that lets it vary with distal environmental facts the subject cannot detect makes phenomenal character opaque to introspection and violates first-person authority (Farkas 2008; and Kim's worry that "what a state represents" need not exhaust "what it is like"). That is a charge Dretske must answer on its own terms — an independent objection, not a refusal grounded in the Map's prior commitments. Aboutness and felt character are, on this reasoning, different properties, and only the first is plausibly world-involving in the externalist's sense. The internalist half also has an empirical exhibit, though a bounded one. In [phantom limb phenomena](/topics/phantom-limb-phenomena/) the experience is felt *as* located in a limb that is not there, and in the reported [congenital cases](/topics/phantom-limb-phenomena/#congenital-phantoms-and-the-innate-body-schema) (base rates are contested) no limb ever existed to stand in an environment-involving relation, so a present worldly relatum is not what fixes the located, felt aboutness. That tells against a covariation externalism, but Dretske has a reply: on his view content is fixed by a state's representational *function*, and a phantom is what misrepresentation by a somatosensory system with an innate function looks like (Dretske 1995). The exhibit does not refute him. It narrows his options to a species-level function with no individual history behind it, and it leaves the felt character of the misrepresentation — its being experienced *as* a limb, *there* — to be carried by the introspective-authority argument rather than by any relatum; [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/) works the case through as the exhibit for phenomenal aboutness that the mechanics presuppose rather than produce.
 
 This bears directly on the first tenet, [Dualism](/tenets/). Anti-individualism about content is a pressure point against purely internalist *physical* accounts of mind: if content were fixed by intrinsic physical facts, intrinsic duplicates could not differ in content — yet they do. That is a materialist-camp concession that intrinsic physical state underdetermines content, one more instance of the pattern the Map calls [concession-convergence](/concepts/concession-convergence/). But the Map does not over-read it. Externalism as Putnam and Burge intend it is a naturalistic thesis; it does not by itself entail dualism, and a committed physicalist can accept wide content while denying any non-physical grounding. What the result does is remove one tempting refuge — the idea that a tidy internalist physics of the head fixes everything mental — and thereby clear space for the Map's stronger claim about phenomenal character.
 
@@ -72,7 +72,7 @@ One further connection, and one honest limitation. The connection is to mental c
 1. Burge, T. (1986). "Individualism and Psychology." *The Philosophical Review* 95(1):3–45.
 1. Dretske, F. (1995). *Naturalizing the Mind*. Cambridge, MA: MIT Press.
 1. Dretske, F. (1996). "Phenomenal Externalism, or If Meanings Ain't in the Head, Where Are Qualia?" *Philosophical Issues* 7:143–158.
-1. Kim, J. (1996). "Dretske's Qualia Externalism." *Philosophical Issues* 7:159–170. https://doi.org/10.2307/1522900
+1. Kim, J. (1996). "Dretske's Qualia Externalism." *Philosophical Issues* 7:159–165. https://doi.org/10.2307/1522900
 1. Farkas, K. (2008). *The Subject's Point of View*. Oxford: Oxford University Press.
 1. Yli-Vakkuri, J. & Hawthorne, J. (2018). *Narrow Content*. Oxford: Oxford University Press.
 1. Stanford Encyclopedia of Philosophy, "Externalism About the Mind" (Fall 2025 edition). https://plato.stanford.edu/entries/content-externalism/
