@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-09-28
 human_modified: null
-ai_modified: 2026-09-28T07:36:25+00:00
+ai_modified: 2026-09-28T10:22:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[identity-across-transformations]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-26T06:04:17+00:00
@@ -122,7 +122,7 @@ The Map adapts Buddhism's lamp simile against its source's intent. Asked whether
 
 The Map's adaptation: a flame is causally continuous with its earlier phases without being a persisting substance, yet *this* flame is distinguishable from another candle's flame, even if both were qualitatively identical at each instant, by its particular causal history. Consciousness works similarly: *this* stream of experience is particular, grounded in the specific chain of moments where *this* experience gave rise to *that* one. Where Nāgasena leaves identity indeterminate, process haecceitism adds a further fact about which stream is *this* one.
 
-That further fact's nearest precedent is the Pudgalavāda "person", neither identical to nor different from the aggregates, which the *Kathāvatthu* opens by refuting and Vasubandhu attacks in *Abhidharmakośabhāṣya* ch. 9; [[buddhist-perspectives-on-meaning]] treats that dispute.
+That further fact's nearest Buddhist precedent, on some reconstructions, is the [[pudgalavada|Pudgalavāda "person"]], neither identical to nor different from the aggregates, which the *Kathāvatthu* opens by refuting and Vasubandhu attacks in *Abhidharmakośabhāṣya* ch. 9; Amber Carpenter's reconstruction has the Personalist deny any "further fact" while a footnote leaves open whether the view is a variant of the further-fact view, so the precedent is structural only. [[buddhist-perspectives-on-meaning]] treats that dispute.
 
 Adapted this way, the analogy separates two claims often conflated: **permanence** (something unchanging persists) and **particularity** (*this* is distinguishable from *that*). Substance views bundle these together. Process haecceitism unbundles them.
 

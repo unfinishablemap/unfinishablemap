@@ -2,9 +2,9 @@
 title: "Self and Self-Consciousness"
 description: "The minimal self is the structural for-me-ness of every conscious experience, not an addition to consciousness. Self-consciousness—the reflexive awareness of this structure—resists construction from non-reflexive parts and supports dualist irreducibility."
 created: 2026-01-14
-modified: 2026-05-01
+modified: 2026-09-28
 human_modified:
-ai_modified: 2026-09-28T09:02:00+00:00
+ai_modified: 2026-09-28T10:22:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -171,7 +171,7 @@ The Map distinguishes three positions on what connects conscious moments:
 
 1. **Substance persistence** (classical dualism): a soul-substance endures unchanged. Buddhist analysis dismantles this — nothing requires an unchanging core.
 2. **Mere causal succession** (Abhidharma reductionism): only momentary states exist, making the indexical "I" a fiction.
-3. **Diachronic irreducibility** (the Map's position): the non-physical subject persists through qualitative change without being an unchanging substance — as an organism remains numerically the same while every cell is replaced. SN 22.59's argument from control and ownership — no aggregate answers to "Let my consciousness be thus" — targets exactly such a subject, however changeable, and the *Kathāvatthu* and Vasubandhu (*Abhidharmakośabhāṣya* ch. 9) refute its nearest Buddhist precedent, the Pudgalavāda "person"; this remains a live objection ([[buddhist-perspectives-on-meaning#Comparison with Map's Framework|the Map's partial reply]]).
+3. **Diachronic irreducibility** (the Map's position): the non-physical subject persists through qualitative change without being an unchanging substance — as an organism remains numerically the same while every cell is replaced. SN 22.59's argument from control and ownership — no aggregate answers to "Let my consciousness be thus" — targets exactly such a subject, however changeable, and the *Kathāvatthu* and Vasubandhu (*Abhidharmakośabhāṣya* ch. 9) refute its nearest Buddhist precedent, [[pudgalavada|the Pudgalavāda "person"]]; this remains a live objection ([[buddhist-perspectives-on-meaning#Comparison with Map's Framework|the Map's partial reply]]).
 
 What persists is not a property or pattern but the bare particular whose for-me-ness makes each moment *this* subject's experience. The Map acknowledges it cannot fully explain *what constitutes* this identity — it is treated as primitive.
 

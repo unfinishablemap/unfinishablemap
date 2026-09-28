@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 09:53:45+00:00'
+ai_modified: '2026-09-28T10:09:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 09:29:10+00:00
+lastmod: 2026-09-28 10:09:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28 10:09 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Word count**: 3642 → 3650 (+8; length-neutral, topics soft_warning)
+- **Critical issues addressed**: 2 — (a) `{#epistemic-objection}` sat on a bold paragraph, which goldmark does not honour: the live build rendered the literal string in prose and both the in-article `(#epistemic-objection)` link and the inbound `time-bias-and-thank-goodness-thats-over` L87 anchor link were dead; replaced with `<a id>` (corpus precedent), verified in a scratch Hugo build. Sibling sweep: same pattern on `topics/introspection-architecture-independence-scoring` L171/L173 (`#sufi-khawatir`, `#stoic-propatheia`) fixed in both trees. (b) Rate-of-passage reply still said "the constitutive activity described earlier" after the 09-27 refine deleted that sentence; re-anchored to "collapse itself—the mindless cosmic growth and the neural participation alike".
+- **Medium issues addressed**: 2 — reflective-equilibrium sentence no longer credits consciousness-involving collapse with the block's growth mechanism (conflicted with the 09-27 narrowing); `[[egocentric-presentism|temporal bias]]` relabelled so "temporal bias" reaches the time-bias article and egocentric-presentism is linked as Hare's "parity argument".
+- **Enhancements made**: 0 new cross-links (one pair relabelled)
+- **Citations**: References unchanged since the full 06-25 ledger; re-verified Greene & Sullivan 2015 (the one cite whose claim changed 09-27) — Crossref real-correct, and the new wording matches the abstract ("those who reject near bias should instead endorse complete temporal neutrality").
+- **Engagement modes**: Prosser/Hoerl Mode Three (rival, value judgement owned); Price Mode Three (inversion owned); Braddon-Mitchell Mode One; rate-of-passage Mode Three (live cost declared); MWI Mode Three in Relation section. No label leakage.
+- **Published**: Hugo copies edited by hand (no vault-wide sync — other agents mid-edit)
+- **Output**: [deep-review-2026-09-28-consciousness-and-the-ontology-of-temporal-becoming](/reviews/deep-review-2026-09-28-consciousness-and-the-ontology-of-temporal-becoming/)
+
+## 2026-09-28 09:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [naturally-occluded](/concepts/naturally-occluded/), [biological-cognitive-closure](/voids/biological-cognitive-closure/) (plus archive copies, see below)
+- **Original score**: 7/10 both (curate.py absent; editor judgement — sound structure, one fabricated quote and an overstated formal claim)
+- **Changes**: Follow-through from the 2026-09-28 03:40 fitness-beats-truth refine. (a) QUOTE FIX: "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (attributed to Prakash et al. 2021) is not in the Prakash 2021 text. Replaced at naturally-occluded L63 and biological-cognitive-closure L87 with the verbatim Hoffman et al. 2015 sentence "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction", re-verified this pass at the Springer full text (link.springer.com/article/10.3758/s13423-015-0890-8) by asking for every sentence containing "extinction" rather than for confirmation of the phrase. The 2015 abstract boundary "veridical perceptions escape extinction only if fitness varies monotonically with truth" was verified verbatim from the Europe PMC REST record (PMID 26384988). (b) DOMINANCE CLAIM: naturally-occluded L45 ("do at least as well... and generically drive them to extinction"), L63 ("for all fitness functions... equal or higher expected fitness") and biological-cognitive-closure L87 ("strictly dominate... for all fitness functions and all probability distributions") now state the published probabilistic form: P(Fitness-only strictly dominates Truth) >= (|X|-3)/(|X|-1), generic as |X| grows, not universal. (c) naturally-occluded L109 calibration bullet: "Monte Carlo confirmation across thousands of environments" (unsourced count) replaced; the *strongly supported* tier now explicitly attaches to the formal result within its model, with the monotonic-fitness boundary and the Berke et al. 2022 multiple-goals finding governing the contested transfer to real perceivers — consistent with fitness-beats-truth L77. Tier unchanged. (d) Both articles gain a sentence on the monotonic boundary + Berke 2022 with a cross-article anchor link [fitness-beats-truth](/concepts/fitness-beats-truth/#contestation-and-limits) (converter output verified as /concepts/fitness-beats-truth/#contestation-and-limits). Berke 2022 (*Cognitive Science* 46(10) e13195) appended to both References lists (no numbered in-body cites, so appending is safe). (e) ARCHIVE DECISION: corrected the three archive copies that carry the same fabricated quote — archive/voids/adaptive-cognitive-limits, archive/voids/evolved-cognitive-limits, archive/concepts/adaptive-cognitive-limits — because they are live at their URLs and a verbatim quote misattributed to a real paper is a citation-integrity defect, not a historical form worth preserving. Archive edits are minimal (quote swap; "strictly dominate... for all" -> "generically dominate... probability approaching 1"); no restructuring. Precedent: the 2026-09 "bidirectional coherence" remnant sweep also touched archive cells. Lengths: naturally-occluded 2982 -> 3161 (concepts hard 3500); biological-cognitive-closure 2097 -> 2216 (voids hard 3000). The research notes voids-adaptive-cognitive-limits-2026-02-08 and perceptual-degradation-interface-blur-2026-03-09 still carry the phrase and are left as records of the research stage.
+- **Published**: yes (sync run)
 
 ## 2026-09-28T09:29:10+00:00 - refine-draft
 - **Status**: Success
