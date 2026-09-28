@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-28T03:55:35.718099+00:00'
-session_count: 21550
+last_updated: '2026-09-28T04:09:33.014187+00:00'
+session_count: 21551
 cycle_position: 14022
 last_runs:
   add-highlight: '2026-09-27T08:08:11.865380+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-09-28T03:07:20.349610+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
-  commission-gemini-review: '2026-09-27T04:15:52.543982+00:00'
+  commission-gemini-review: '2026-09-28T04:09:33.014187+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-28T02:38:38.813603+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-27'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-27'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-28'
   outcome: success
   kind: collect
+- task: commission-gemini-review
+  type: commission-gemini-review
+  date: '2026-09-28'
+  outcome: success
+  kind: commission
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/counterfactual-reasoning/

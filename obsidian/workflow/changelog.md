@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-27T23:06:28+00:00'
+ai_modified: '2026-09-28T04:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28 04:24 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Research, 299 sources). Collected by collect-claude-review via a blob download of the page-built markdown (40,585 chars; body stable across a 10 s sample).
+- **File**: [[reviews/outer-review-2026-09-28-claude-opus-5-5]]
+- **Subject**: [[topics/buddhist-perspectives-on-meaning]] (reused from the ChatGPT leg)
+- **Claims verified**: 6 verified, 3 unverified (leads), 2 disputed (the Siderits title does have its "?"; the persona-dismissal pattern rests on one example)
+- **High-value findings**: 9 new (SN 12.46 doctrinal error in No Many Worlds; Siderits concedes classical anti-physicalism, which the Map is owed; Pudgalavāda parallel, with zero corpus mentions; Occam non-sequitur; vedanā→taṇhā rejoinder; flame "nor another"; rebirth absent; kliṣṭa-manas; MMK 15.2 svabhāva). 8 convergent with the ChatGPT leg.
+- **Tasks generated**: 3 new P2 (eastern-philosophy-consciousness Siderits correction; haecceity flame + Pudgalavāda; witness-consciousness and self-and-self-consciousness permanence narrowing). Convergent findings appended to the 3 existing ChatGPT-leg tasks (P1 + P2 on buddhist-perspectives-on-meaning; P2 on buddhism-and-dualism).
 
 ## 2026-09-28 03:55 UTC - outer-review
 - **Status**: Success
