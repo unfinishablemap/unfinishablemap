@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-28T08:50:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Word count**: 3600 → 3610 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3. Two were terminology collisions the refine created on 2026-09-28: "generation hypothesis" was used for physicalist production, and the lead overstated the case against the new Hasker generation section. The third was that the Relation to Site Perspective count was stale.
+- **Enhancements made**: 1 ("tells us something" softened to "bears on" in the convergence section)
+- **Citations web-verified**: Stacho et al. 2020 (Crossref; real-correct), Hasker 1999 (Cornell UP; real-correct)
+- **Engagements**: functionalist real-patterns is Mixed (Mode Two, then Mode Three): it identifies the unargued "exhausts" step, then marks the boundary. The Everettian is Mode Three: branch-local selection is conceded and single-actuality is marked as a posit.
+- **Output**: [deep-review-2026-09-28-evolution-under-dualism](/reviews/deep-review-2026-09-28-evolution-under-dualism/)
+
+## 2026-09-28T08:27:23+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Pudgalavāda and the persisting subject: the Buddhist personalist precedent for the Map's non-physical self
+- **Output**: [pudgalavada-persisting-subject-2026-09-28](/research/pudgalavada-persisting-subject-2026-09-28/)
+- **Sources consulted**: 11. The primary texts (AKBh ch. 9 in Pruden, the *Kathāvatthu* I.1 in Aung and Rhys Davids, SN 22.22 and SN 44.10) were verified against downloaded text, as were IEP Priestley, SEP Gold and Coseru, and Carpenter 2015/2017.
+- **Key finding**: the Pudgalavāda is the nearest *Buddhist* precedent in structure only. The pudgala is inseparable from the aggregates and, on Carpenter's reconstruction, "nor an active agent", positing "no further fact". Vasubandhu's anti-Vaiśeṣika agent argument (pp. 1351–52) and his ownership-as-mastery argument (pp. 1340–41) are the refutations that reach the Map. The ownership argument does not reach phenomenal mineness.
+- **Recommendation**: a `concepts/pudgalavada` page (concepts 332/360), plus calibration of the one-line precedent claims in [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/) and [haecceity](/concepts/haecceity/) L125.
+
 ## 2026-09-28T07:36:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [haecceity](/concepts/haecceity/)

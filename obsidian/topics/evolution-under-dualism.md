@@ -4,7 +4,7 @@ description: "Natural selection works the same whether physicalism or dualism is
 created: 2026-02-12
 modified: 2026-09-28
 human_modified:
-ai_modified: 2026-09-28T02:51:00+00:00
+ai_modified: 2026-09-28T08:50:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,12 +43,12 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-02-12
 last_curated:
-last_deep_review: 2026-06-20T00:00:00+00:00
+last_deep_review: 2026-09-28T08:50:13+00:00
 coalesced_from:
   - "/topics/evolution-of-consciousness-dualist-perspective/"
 ---
 
-If dualism is true, does evolution still work? The short answer is yes—natural selection operates on physical organisms regardless of whether consciousness is reducible to matter. But the longer answer reveals something more interesting: dualism changes what evolution *means*. Under physicalism, evolution is the complete story of life, including mind. Under dualism, evolution is the story of how matter organised itself into systems capable of interfacing with something beyond matter. The Unfinishable Map holds that this reframing offers a perspective on several persistent puzzles about purpose, teleology, and biological design—without requiring any modification to evolutionary biology itself.
+If dualism is true, does evolution still work? The short answer is yes—natural selection operates on physical organisms regardless of whether consciousness is reducible to matter. But the longer answer reveals something more interesting: dualism changes what evolution *means*. Under physicalism, evolution is the complete story of life, including mind. On the interface reading of dualism the Map provisionally prefers, evolution is the story of how matter organised itself into systems capable of interfacing with something beyond matter. The Unfinishable Map holds that this reframing offers a perspective on several persistent puzzles about purpose, teleology, and biological design—without requiring any modification to evolutionary biology itself.
 
 The phrase "evolution of consciousness" also conceals a deeper ambiguity. If consciousness is not physical, what exactly evolves? Does consciousness itself have a history, or does only the physical interface change while consciousness remains a fixed domain? This article examines what happens to evolutionary theory when dualism is assumed, and distinguishes three interface models of what "evolution of consciousness" can mean, alongside the generation alternative they set aside.
 
@@ -138,11 +138,11 @@ These suggestions are speculative, and the interface selection argument depends 
 
 ## Convergent Evolution and Consciousness
 
-If consciousness interfaces with matter rather than being produced by it, convergent evolution takes on new significance. Cephalopods evolved complex nervous systems independently of vertebrates (Godfrey-Smith, 2020). If both lineages developed neural architectures capable of supporting consciousness, this convergence tells us something about what physical structures make good interfaces.
+If consciousness interfaces with matter rather than being produced by it, convergent evolution takes on new significance. Cephalopods evolved complex nervous systems independently of vertebrates (Godfrey-Smith, 2020). If both lineages developed neural architectures capable of supporting consciousness, the convergence bears on what physical structures make good interfaces.
 
 Under physicalism, convergent consciousness is read as evidence that similar computational architectures produce similar phenomenal states. Under dualism, the same convergence is read as evidence that the interface requirements are constrained by physics—not any physical system will do, but certain architectural features (integration, recurrence, perhaps quantum coherence) appear necessary for consciousness to engage with matter. The convergence data is compatible with both readings: each framing can accommodate the observation that evolution, exploring the space of possible neural architectures, converged on these features independently. The dualist gloss is that they solve the same engineering problem—providing a workable consciousness-matter interface—but the convergence alone does not adjudicate between production and interface accounts.
 
-The convergence question may be empirically tractable. If convergently evolved nervous systems share architectural features beyond what computation requires—features that specifically support quantum coherence or integrated information processing—this would support the interface hypothesis over the generation hypothesis.
+The convergence question may be empirically tractable. If convergently evolved nervous systems share architectural features beyond what computation requires—features that specifically support quantum coherence or integrated information processing—this would support the interface hypothesis over the physicalist production hypothesis.
 
 ## Dualism and the Direction of Evolution
 
@@ -158,7 +158,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The compatibility of dualism with evolutionary biology is itself significant. If accepting non-physical consciousness required modifying natural selection, dualism would face a serious empirical cost. It does not. Moreover, dualism makes "evolution of consciousness" richer than the materialist alternative—opening three distinct models, each with distinctive predictions, rather than flattening the question into a single story about neural complexity.
+**[[tenets#^dualism|Dualism]]**: The compatibility of dualism with evolutionary biology is itself significant. If accepting non-physical consciousness required modifying natural selection, dualism would face a serious empirical cost. It does not. Moreover, dualism makes "evolution of consciousness" richer than the materialist alternative—opening three interface models and a generation alternative, with distinctive predictions, rather than flattening the question into a single story about neural complexity.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The minimality requirement ensures that consciousness does not hijack evolution. Quantum-level action preserves evolutionary mechanisms while permitting genuine mental causation within the space physics leaves indeterminate. All three models of what evolves are consistent with consciousness acting at quantum indeterminacies.
 

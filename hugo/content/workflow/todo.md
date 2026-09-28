@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Pudgalavada and the persisting subject: the Buddhist personalist precedent for the Map's non-physical self
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-28.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Both 2026-09-28 outer reviewers (ChatGPT 6.6, Claude 4.2; convergent per outer-review-synthesis-2026-09-28) note the Map's persisting non-physical subject is structurally close to the Pudgalavada 'person' (neither identical to nor different from the aggregates), refuted in the Kathavatthu opening and Abhidharmakosabhasya ch. 9. Now mentioned in passing on ~5 pages (buddhist-perspectives-on-meaning, haecceity) but no page engages the Pudgalavadin arguments or the mainstream refutations in depth; the Map owes an account of whether its subject escapes those refutations. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/pudgalavada-and-the-persisting-subject-2026-09-28.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'pudgalavada-and-the-persisting-subject' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-28
-
 ### P2: Stop presenting Buddhist no-self as a denial of only a *permanent* self in `concepts/witness-consciousness` and `concepts/self-and-self-consciousness` (SN 22.59 control/ownership argument)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1579,8 +1573,20 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: **Headroom 1239 words (topics hard 4000; analyze_length 2760, ok; YT embed present).** File lines from 2026-09-28; re-grep. (a) **L118** "The phenomenology of imaginative effort … remains the stronger evidence that imagination involves genuine mental causation": the two sentences before it say the motor-imagery evidence does not adjudicate, and the sibling forgetting page (L105) says felt agency "is not first-person-verifiable as a cause". Recast it: felt effort is the datum an epiphenomenalist or identity theorist must accommodate, not stronger evidence. Link `[[agency-void]]`. (b) **L116** "The Map's Dualism tenet finds support in…" → "The Map reads … as support for". (c) **L90** "An AI generates novel text without experiencing the semantic landscape from within": hedge it to match the Map's open stance on AI consciousness (e.g. "need not experience"). Optional: link `[[default-mode-network]]` where mind-wandering or planning is discussed. KEEP L98 and L108; they are already well calibrated.
 
+### P2: Write concept page on Pudgalavāda — calibrating the "close precedent" claim for the Map's persisting subject
+- **Type**: expand-topic
+- **Status**: pending
+- **Section**: concepts
+- **Source**: research-topic 2026-09-28 (research/pudgalavada-persisting-subject-2026-09-28.md) — chain entry minted by hand (research fork does not write task_chains)
+- **Generated**: 2026-09-28
+- **Notes**: Slug `pudgalavada` (free). Concepts ~332/360 (re-measure with tools.evolution.state.count_section_files). ~1800-2200 words. Build from the research note; its sourcing limits apply (no surviving Pudgalavādin text; Carpenter 2015 checked against her 2010 draft — do not give published page numbers unless verified; Siderits 2003 only via SEP; Kathāvatthu scan noisy — quote only cleanly legible lines). Core finding: the parallel is STRUCTURAL ONLY — the pudgala is real, neither same as nor different from the aggregates, continuing through rebirth, but it is neither non-physical ("cannot be found apart from" the aggregates, Priestley/IEP) nor an agent (Carpenter: "no further fact … no extra entity"); on non-physicality + agency the nearer precedent is the Nyāya-Vaiśeṣika ātman. Map which refutations reach the Map: Vasubandhu's agent argument (AKBh ch. 9, Pruden vol. 4 pp. 1351-52) reaches directly; the ownership argument (pp. 1340-41) splits (mastery vs felt mine-ness; svasaṃvedana rival flagged, unresearched); the real-entity/label dilemma (p. 1314) — Map takes "real entity" and owes an account of the subject's origin and identity through change (bedrock). Write as calibrated rival engagement, no refutation claimed. INTEGRATION (do in the same pass): (1) `topics/buddhist-perspectives-on-meaning` — qualify its "ownership horn is near bedrock" line with which sense of ownership; link the new page. (2) `concepts/haecceity` ~L125 — add "on some reconstructions" (Carpenter's Pudgalavādin denies the further fact; her fn. 67 leaves it open) and link the new page. Other inbound candidates are listed in the research note (personal-identity is at cap → piped link only). `topics:` bare slugs, non-empty. Run sync.
+
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Research Pudgalavada and the persisting subject: the Buddhist personalist precedent for the Map's non-physical self
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-28.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Both 2026-09-28 outer reviewers (ChatGPT 6.6, Claude 4.2; convergent per outer-review-synthesis-2026-09-28) note the Map's persisting non-physical subject is structurally close to the Pudgalavada 'person' (neither identical to nor different from the aggregates), refuted in the Kathavatthu opening and Abhidharmakosabhasya ch. 9. Now mentioned in passing on ~5 pages (buddhist-perspectives-on-meaning, haecceity) but no page engages the Pudgalavadin arguments or the mainstream refutations in depth; the Map owes an account of whether its subject escapes those refutations. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/pudgalavada-and-the-persisting-subject-2026-09-28.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'pudgalavada-and-the-persisting-subject' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-28: Correct the flame analogy in `concepts/haecceity` ("neither the same nor another") and name the Pudgalavāda precedent
 - **Type**: refine-draft

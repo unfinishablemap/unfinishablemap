@@ -5,6 +5,17 @@ ai_modified: '2026-09-28T04:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T08:50:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/evolution-under-dualism]]
+- **Word count**: 3600 → 3610 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3. Two were terminology collisions the refine created on 2026-09-28: "generation hypothesis" was used for physicalist production, and the lead overstated the case against the new Hasker generation section. The third was that the Relation to Site Perspective count was stale.
+- **Enhancements made**: 1 ("tells us something" softened to "bears on" in the convergence section)
+- **Citations web-verified**: Stacho et al. 2020 (Crossref; real-correct), Hasker 1999 (Cornell UP; real-correct)
+- **Engagements**: functionalist real-patterns is Mixed (Mode Two, then Mode Three): it identifies the unargued "exhausts" step, then marks the boundary. The Everettian is Mode Three: branch-local selection is conceded and single-actuality is marked as a posit.
+- **Output**: [[reviews/deep-review-2026-09-28-evolution-under-dualism]]
+
 ## 2026-09-28T08:27:23+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Pudgalavāda and the persisting subject: the Buddhist personalist precedent for the Map's non-physical self
