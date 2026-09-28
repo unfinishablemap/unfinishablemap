@@ -4,7 +4,7 @@ description: "The Map's substance-leaning enters via agent causation and indexic
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-25T21:31:28+00:00
+ai_modified: 2026-09-28T13:05:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -89,6 +89,7 @@ The lean also interacts with [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has 
 - [[tenets/background-commitments]] — Posit One, the determinate-and-persisting subject that both homes inherit from, and the two components they inherit separately
 - [[concepts/indexical-knowledge-and-identity]] — The indexical argument itself, and why branch-relative properties leave "which branch am I on?" without a fact to track
 - [[tenets]] — The agency-cluster paragraph and the tenet-dependency matrix that this page localises
+- [[pudgalavada]] — The Buddhist Personalist person, the nearest Buddhist precedent for this persisting subject, and which classical refutations reach it
 
 ## References
 

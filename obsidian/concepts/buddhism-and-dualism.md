@@ -4,7 +4,7 @@ description: "Buddhism denies any owning self; its Abhidharma realism treats con
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-09-28T06:20:57+00:00
+ai_modified: 2026-09-28T13:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,6 +175,7 @@ The comparison also reveals what Buddhism challenges: the assumption that taking
 - [[panpsychism]] — Another non-physicalist view with different tensions
 - [[hard-problem-of-consciousness]] — The central puzzle
 - [[agent-causation]] — Why the Map's version needs a persisting subject Buddhism denies
+- [[pudgalavada]] — The one Buddhist school that held a real person; Vasubandhu's refutations and how far they reach the Map's subject
 - [[positions/individuation-and-subjecthood|Individuation and Subjecthood]] — P-I1 and P-I2, the register entries the Tenet 4 disagreement turns on
 - [[phenomenological-evidence#convergence|Convergent Phenomenological Evidence]] — When independent traditions converge
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Buddhist vedanā in cross-traditional convergence on evaluative qualia

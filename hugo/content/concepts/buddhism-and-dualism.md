@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-28 06:20:57+00:00
+ai_modified: 2026-09-28 13:05:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 15:51:19+00:00
-lastmod: 2026-09-28 06:20:57+00:00
+lastmod: 2026-09-28 13:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -179,6 +179,7 @@ The comparison also reveals what Buddhism challenges: the assumption that taking
 - [panpsychism](/concepts/panpsychism/) — Another non-physicalist view with different tensions
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle
 - [agent-causation](/concepts/agent-causation/) — Why the Map's version needs a persisting subject Buddhism denies
+- [pudgalavada](/concepts/pudgalavada/) — The one Buddhist school that held a real person; Vasubandhu's refutations and how far they reach the Map's subject
 - [Individuation and Subjecthood](/positions/individuation-and-subjecthood/) — [P-I1](/positions/individuation-and-subjecthood/#p-i1) and [P-I2](/positions/individuation-and-subjecthood/#p-i2), the register entries the Tenet 4 disagreement turns on
 - [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — When independent traditions converge
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Buddhist vedanā in cross-traditional convergence on evaluative qualia

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-09-25 21:31:28+00:00
+ai_modified: 2026-09-28 13:05:00+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 03:41:00+00:00
-lastmod: 2026-09-25 21:31:28+00:00
+lastmod: 2026-09-28 13:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,6 +93,7 @@ The lean also interacts with [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occam
 - [background-commitments](/tenets/background-commitments/) — Posit One, the determinate-and-persisting subject that both homes inherit from, and the two components they inherit separately
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — The indexical argument itself, and why branch-relative properties leave "which branch am I on?" without a fact to track
 - [tenets](/tenets/) — The agency-cluster paragraph and the tenet-dependency matrix that this page localises
+- [pudgalavada](/concepts/pudgalavada/) — The Buddhist Personalist person, the nearest Buddhist precedent for this persisting subject, and which classical refutations reach it
 
 ## References
 

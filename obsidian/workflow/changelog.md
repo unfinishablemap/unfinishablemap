@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T12:36:00+00:00'
+ai_modified: '2026-09-28T13:05:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28 13:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/pudgalavada]]
+- **Word count**: 2752 → 2849 (+97; ~40 reference apparatus, concepts soft_warning, 650 under hard)
+- **Critical issues addressed**: 5 — (a) Map had "answered 'same'" to the rebirth trilemma and counted "continuous across lives" as its own subject's job; scoped to within-life persistence, Map takes no position on rebirth. (b) "principal cause" definition was claimed as acceptable because the subject is "a real cause among" the causes; rewritten as met only if the minimal selection settles the outcome, else unsettled. (c) "silent on the subject's origin" contradicted `emergent-dualism` (held as a cousin); corrected. (d) "fifth category of knowables" is not Priestley's wording ("of existence"); corrected. (e) Carpenter 2017 volume metadata copied from page proofs (subtitle "Ancient Questions", Haag alone) → published *A New Science on Old Questions*, eds Almqvist and Haag, 2017; Carpenter 2015 given Crossref pp. 1–44 and DOI.
+- **Medium issues addressed**: 4 — Carpenter quote year-tagged (2015 not 2017); "same job" → "close kin" for the No Many Worlds parallel; Madhyamaka pointer to `buddhism-and-dualism#emptiness-challenge`; duplicated draft-caveat parenthetical removed from body.
+- **Citation ledger**: 12 entries web/OCR-verified (Pruden ×9 quotes with page markers, Kathāvatthu ×5, SN 22.22 Pāli+Sujato, IEP ×8, Gold ×5, Coseru ×1, Carpenter 2015 ×8 in the 2010 draft, Carpenter 2017 ×2 in page proofs). Unnormalised OCR grep false-zeroed every Pruden quote; whitespace-normalised grep found all. 2 real-wrong-metadata, 0 fabricated.
+- **Enhancements made**: 3 outbound/anchor links; 3 reciprocal Further Reading links (where-the-substance-commitment-enters, buddhism-and-dualism, indian-philosophy-of-mind), all under hard gates.
+- **Engagement classification**: entity/designation dilemma — Mode One with declared bedrock residue; agent argument — Mode Three, unrefuted; ownership — Mode One on mastery, Mode Three on for-me-ness; Kathāvatthu — Mode Three.
+- **Published**: yes (sync run; Hugo copies of all four files verified, anchor converts to `/concepts/buddhism-and-dualism/#emptiness-challenge`)
+- **Output**: [[reviews/deep-review-2026-09-28-pudgalavada]]
 
 ## 2026-09-28T12:36:00+00:00 - refine-draft
 - **Status**: Success

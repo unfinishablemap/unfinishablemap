@@ -4,7 +4,7 @@ description: "Three rival Indian schools spent two millennia debating what consc
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-09-17T13:09:37+00:00
+ai_modified: 2026-09-28T13:05:00+00:00
 last_deep_review: 2026-07-18T20:30:42+00:00
 draft: false
 topics:
@@ -161,6 +161,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [[eastern-philosophy-consciousness]] — Hindu, Buddhist, and Taoist perspectives
 - [[witness-consciousness]] — The *sakshi* tradition in Advaita and Buddhist meditation
 - [[buddhism-and-dualism]] — Buddhist no-self and the Map's dualism
+- [[pudgalavada]] — The Buddhist Personalists' real but inexpressible person, between Nyāya's *ātman* and the no-self mainstream
 - [[filter-theory]] — Samkhya's "reflection" model as a non-Western parallel
 - [[interactionist-dualism]] — The Map's position, closest to Nyaya
 - [[agent-causation]] — The framework Nyaya independently articulates

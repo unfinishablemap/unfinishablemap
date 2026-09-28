@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-09-17 13:09:37+00:00
+ai_modified: 2026-09-28 13:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:30:42+00:00
-lastmod: 2026-09-17 13:09:37+00:00
+lastmod: 2026-09-28 13:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -165,6 +165,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Hindu, Buddhist, and Taoist perspectives
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* tradition in Advaita and Buddhist meditation
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's dualism
+- [pudgalavada](/concepts/pudgalavada/) — The Buddhist Personalists' real but inexpressible person, between Nyāya's *ātman* and the no-self mainstream
 - [filter-theory](/concepts/filter-theory/) — Samkhya's "reflection" model as a non-Western parallel
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's position, closest to Nyaya
 - [agent-causation](/concepts/agent-causation/) — The framework Nyaya independently articulates
