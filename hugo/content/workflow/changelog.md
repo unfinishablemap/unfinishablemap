@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 16:52:00+00:00
+ai_modified: 2026-09-28 17:26:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 16:36:26+00:00
+lastmod: 2026-09-28 17:26:20+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28 17:26 - deep-review
+- **Status**: Success
+- **File**: [process-1-specification-problem](/concepts/process-1-specification-problem/)
+- **Word count**: 2725 → 2751 (+26, length-neutral)
+- **Critical issues addressed**: 4 (post-decoherence-selection calibration: basis horn escaped, unconditional-statistics horn not; Stapp 2000 consent quote verified at source and added to References; two stale "not until now credited" meta-claims removed; de Barros stance corrected)
+- **Medium issues addressed**: 3 (Georgiev 2012 inline orphan; "rotates"→"cycles"; references renumbered)
+- **Enhancements made**: 1 cross-link ([ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/))
+- **Citation ledger**: 10 cites web-verified at publisher of record, all real-correct; 4 primary texts grepped raw (Donald, Georgiev 2015 IJMPB, de Barros, Stapp 2012 draft, plus Stapp 2000)
+- **Engagement modes**: Donald — Mixed; Georgiev — Mode One; de Barros — Mode One
+- **Output**: [deep-review-2026-09-28-process-1-specification-problem](/reviews/deep-review-2026-09-28-process-1-specification-problem/)
 
 ## 2026-09-28T16:52:00+00:00 - refine-draft
 - **Status**: Success

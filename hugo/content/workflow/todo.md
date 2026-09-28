@@ -1439,14 +1439,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: implicit-memory: quick Many Worlds argument at L191-193 ("branches where the expert misses every shot"); L196 "track … perfectly" and the L41 lead overstate the body's own common-cause concession; L131-133 generalises anoetic experience to priming and blindsight
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/implicit-memory.md
-- **Source**: optimistic-review 2026-09-28 (reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md, Calibration concerns 3 and 4)
-- **Generated**: 2026-09-28
-- **Notes**: **Headroom 155 words (concepts hard 3500; analyze_length 3344, soft_warning) — LENGTH-NEUTRAL.** File lines from 2026-09-28; re-grep. (a) **L191-193** No Many Worlds: skilled performance is mostly classical, and all-miss branches have negligible Born weight, so an Everettian predicts the regularity. Replace the argument with the hub template: branch-local selection is granted, and the dispute is global exclusion, a posit (`consciousness-evolution-and-biology` L148; `tenets/background-commitments`). Shorter is fine. (b) **L196** "happens to track performance degradation perfectly": drop "perfectly" and align with L101/L188 (common cause conceded; "not plausibly idle"). (c) **L41** lead: "precisely what distinguishes it from mere neural noise" is stronger than the body's conclusion. Bring it into line with L101. (d) **L131-133**: scope the anoetic reading to procedural and skill cases. Subliminal priming and blindsight are where `mental-imagery` L55/L67 and `selective-correction-and-reconstruction-paradox` L61 treat experience as absent, and "There may be no purely computational cognitive processing" should be marked as tenet-coherent, not evidence-elevating. Last deep review 2026-09-21 (Stout/Tulving and common-cause fixes landed; keep them).
-
 ### P3: mental-imagery: lead (L44) and tenet section (L161, L167) assert what the body's standoff (L113-117) and aphantasia result (L129) disclaim; L153 files great-ape cognition as "unconscious processing"
 - **Type**: refine-draft
 - **Status**: pending
@@ -1504,6 +1496,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: implicit-memory: quick Many Worlds argument at L191-193 ("branches where the expert misses every shot"); L196 "track … perfectly" and the L41 lead overstate the body's own common-cause concession; L131-133 generalises anoetic experience to priming and blindsight
+- **Type**: refine-draft
+- **File**: obsidian/concepts/implicit-memory.md
+- **Notes**: **Headroom 155 words (concepts hard 3500; analyze_length 3344, soft_warning) — LENGTH-NEUTRAL.** File lines from 2026-09-28; re-grep. (a) **L191-193** No Many Worlds: skilled performance is mostly classical, and all-miss branches have negligible Born weight, so an Everettian predicts the regularity. Replace the argument with the hub template: branch-local selection is granted, and the dispute is global exclusion, a posit (`consciousness-evolution-and-biology` L148; `tenets/background-commitments`). Shorter is fine. (b) **L196** "happens to track performance degradation perfectly": drop "perfectly" and align with L101/L188 (common cause conceded; "not plausibly idle"). (c) **L41** lead: "precisely what distinguishes it from mere neural noise" is stronger than the body's conclusion. Bring it into line with L101. (d) **L131-133**: scope the anoetic reading to procedural and skill cases. Subliminal priming and blindsight are where `mental-imagery` L55/L67 and `selective-correction-and-reconstruction-paradox` L61 treat experience as absent, and "There may be no purely computational cognitive processing" should be marked as tenet-coherent, not evidence-elevating. Last deep review 2026-09-21 (Stout/Tulving and common-cause fixes landed; keep them).
 
 ### ✓ 2026-09-28: Sjöberg (2024) residuals — "independent confirmation" (motor-control-quantum-zeno L56) and "retain voluntary agency" (positions/agency-and-will L78) overstate a three-page *Brain* essay on SMA resection
 - **Type**: refine-draft
