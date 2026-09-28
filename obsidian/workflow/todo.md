@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Correct the Siderits (2025) characterisation in `topics/eastern-philosophy-consciousness`: illusionism, not reduction; heterodox and not endorsed
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/eastern-philosophy-consciousness.md
-- **Review file**: `reviews/outer-review-2026-09-28-claude-opus-5-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-28
-- **Notes**: From outer review 2026-09-28 (Claude Opus 5.5). This is a sibling-page propagation of the Siderits finding that both 2026-09-28 reviewers raised against `topics/buddhist-perspectives-on-meaning`. Loci verified on disk. L143 says Siderits is "reconstructing the aggregate analysis so that phenomenal consciousness reduces to the impersonal processes", and L183 says it is "assembled from Buddhist premises rather than imported against them". L178 ("develops this from inside the tradition") and L189 ("reconstructs the tradition on physicalist premises") repeat the framing. Per `concepts/buddhism-and-dualism` L122, the ch. 8 abstract makes qualia "artifacts of the deployment of a sort of useful fiction", which is illusionism, not reduction, and Siderits withholds endorsement (Garfield, *Tricycle*). The publisher description (Princeton catalogue; checked by search 2026-09-28) also says Indian Buddhist philosophers "uniformly rejected physicalism in favor of either a dualist or an idealist ontology". So "from inside the tradition" should read as a newly built view that the classical schools would have rejected. That is a point the Map is owed and currently leaves out. LENGTH: ~4775 words including references, at or over the topics hard band, so the edits must be clause-level and length-neutral.
-
 ### P2: Correct the flame analogy in `concepts/haecceity` ("neither the same nor another") and name the Pudgalavāda precedent
 - **Type**: refine-draft
 - **Status**: pending
@@ -1559,6 +1550,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Correct the Siderits (2025) characterisation in `topics/eastern-philosophy-consciousness`: illusionism, not reduction; heterodox and not endorsed
+- **Type**: refine-draft
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Notes**: From outer review 2026-09-28 (Claude Opus 5.5). This is a sibling-page propagation of the Siderits finding that both 2026-09-28 reviewers raised against `topics/buddhist-perspectives-on-meaning`. Loci verified on disk. L143 says Siderits is "reconstructing the aggregate analysis so that phenomenal consciousness reduces to the impersonal processes", and L183 says it is "assembled from Buddhist premises rather than imported against them". L178 ("develops this from inside the tradition") and L189 ("reconstructs the tradition on physicalist premises") repeat the framing. Per `concepts/buddhism-and-dualism` L122, the ch. 8 abstract makes qualia "artifacts of the deployment of a sort of useful fiction", which is illusionism, not reduction, and Siderits withholds endorsement (Garfield, *Tricycle*). The publisher description (Princeton catalogue; checked by search 2026-09-28) also says Indian Buddhist philosophers "uniformly rejected physicalism in favor of either a dualist or an idealist ontology". So "from inside the tradition" should read as a newly built view that the classical schools would have rejected. That is a point the Map is owed and currently leaves out. LENGTH: ~4775 words including references, at or over the topics hard band, so the edits must be clause-level and length-neutral.
 
 ### ✓ 2026-09-28: Propagate the school-scoping and Siderits-illusionism caveats into `concepts/buddhism-and-dualism`
 - **Type**: refine-draft

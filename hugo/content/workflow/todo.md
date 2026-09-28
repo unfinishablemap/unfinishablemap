@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Propagate the school-scoping and Siderits-illusionism caveats into `concepts/buddhism-and-dualism`
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/buddhism-and-dualism.md
-- **Review files**: `reviews/outer-review-2026-09-28-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-09-28-claude-opus-5-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-28
-- **Convergent (Claude Opus 5.5, 2026-09-28)**: `reviews/outer-review-2026-09-28-claude-opus-5-5.md` flags the same page from a different angle. Verified on disk: L41 says anattā "targets a specific conception: the Hindu *ātman*, an eternal soul-substance". SN 22.59 argues from *control and ownership* ("Let my consciousness be thus"; "this is mine, this I am"), not from permanence alone, so the narrowing to an *eternal* self is not supported by the text. L55's "What is an illusion is the permanent self *owning* consciousness" has the same problem. Qualify both as clause-level edits. The page's own Siderits paragraph (L122) already carries the illusionism correction, so do not duplicate it. Claude also agrees that "property dualism" (L82) fits Abhidharma dharmas poorly (trope/event, no bearer).
-- **Synthesis**: `reviews/outer-review-synthesis-2026-09-28.md`
-- **Notes**: From convergent outer reviews (2026-09-28, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by synthesis. Both name this page as needing the scoping (ChatGPT §B: "Replace 'Buddhism accepts irreducibility' with a school- and interpretation-relative claim"; Claude #17: "scope the compatibility thesis to Abhidharma realism, as Eastern Philosophy already does"), and both flag the permanence-only reading of anattā. From outer review 2026-09-28 (ChatGPT 5.6 Pro). This neighbour is less cautious than `topics/eastern-philosophy-consciousness`, which already scopes the property-dualist reading to early and Abhidharma strands (L83) and warns against widening the non-eliminativist negative (L111, Chadha 2023). Verified loci: L157 "Buddhism accepts irreducibility (consciousness isn't reducible to the other four aggregates)" is unscoped. L55 says eliminating consciousness "would be eliminativism, which Buddhism rejects", which does not mention Siderits 2025's Buddhist illusionism about qualia. L141 offers Buddhism as "A worked example of taking consciousness seriously without physicalism", which is too broad across schools. Also distinguish a mental/material dharma classification (SEP: "only form is a physical aggregate stricto sensu") from modern phenomenal-property dualism, since the first does not entail the second. Apply the scoping as clause-level edits. The article is at ~3080 words, so edits must be length-neutral. Adjacent under-integration the reviewer flagged, with NO task minted: `topics/personal-identity` (~4046 words, at hard) and `topics/meaning-of-life` (~4040, condense vetoed) have only passing Buddhist mentions and no Pudgalavāda or ownerless-suffering engagement. They are at length caps, so revisit only if a condense frees room.
-
 ### P2: Correct the Siderits (2025) characterisation in `topics/eastern-philosophy-consciousness`: illusionism, not reduction; heterodox and not endorsed
 - **Type**: refine-draft
 - **Status**: pending
@@ -1572,6 +1561,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Propagate the school-scoping and Siderits-illusionism caveats into `concepts/buddhism-and-dualism`
+- **Type**: refine-draft
+- **File**: obsidian/concepts/buddhism-and-dualism.md
+- **Notes**: From convergent outer reviews (2026-09-28, 2/3 reviewers): [chatgpt, claude]. Upgraded P2→P1 by synthesis. Both name this page as needing the scoping (ChatGPT §B: "Replace 'Buddhism accepts irreducibility' with a school- and interpretation-relative claim"; Claude #17: "scope the compatibility thesis to Abhidharma realism, as Eastern Philosophy already does"), and both flag the permanence-only reading of anattā. From outer review 2026-09-28 (ChatGPT 5.6 Pro). This neighbour is less cautious than `topics/eastern-philosophy-consciousness`, which already scopes the property-dualist reading to early and Abhidharma strands (L83) and warns against widening the non-eliminativist negative (L111, Chadha 2023). Verified loci: L157 "Buddhism accepts irreducibility (consciousness isn't reducible to the other four aggregates)" is unscoped. L55 says eliminating consciousness "would be eliminativism, which Buddhism rejects", which does not mention Siderits 2025's Buddhist illusionism about qualia. L141 offers Buddhism as "A worked example of taking consciousness seriously without physicalism", which is too broad across schools. Also distinguish a mental/material dharma classification (SEP: "only form is a physical aggregate stricto sensu") from modern phenomenal-property dualism, since the first does not entail the second. Apply the scoping as clause-level edits. The article is at ~3080 words, so edits must be length-neutral. Adjacent under-integration the reviewer flagged, with NO task minted: `topics/personal-identity` (~4046 words, at hard) and `topics/meaning-of-life` (~4040, condense vetoed) have only passing Buddhist mentions and no Pudgalavāda or ownerless-suffering engagement. They are at length caps, so revisit only if a condense frees room.
 
 ### ✓ 2026-09-28: Calibrate school summaries and doctrinal applications in `topics/buddhist-perspectives-on-meaning`: Theravāda straw man, Yogācāra overgeneralisation, sati, and cosmology
 - **Type**: refine-draft

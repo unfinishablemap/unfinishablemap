@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-28T07:05:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Sibling propagation of the 2026-09-28 Siderits finding (review: reviews/outer-review-2026-09-28-claude-opus-5-5.md), matching wording in commits 9becf909/4251a2b2/b16e54b8. (1) L143: "reconstructing the aggregate analysis so that phenomenal consciousness reduces to the impersonal processes" replaced — Siderits (2025) now "explores, without endorsing" a Buddhist physicalism illusionist about qualia ("artifacts of the deployment of a sort of useful fiction", ch. 8), with the p. 199 "heterodox" concession and p. 5 "in favor of either dualism or idealism"; "assembled from Buddhist premises" → "built from Buddhist materials". (2) Falsifier (2) "develops this from inside the tradition" → "explores this route". (3) Ledger L183 "assembled from Buddhist premises rather than imported against them" → "heterodox but Buddhist-built illusionism". (4) Relation to Site Perspective, Dualism: "All three traditions converge on consciousness as irreducible" replaced by classical Buddhist anti-physicalism (p. 5) claimed only for the tenet's anti-physicalist negative; "reconstructs the tradition on physicalist premises" → "explores, without endorsing, a heterodox Buddhist illusionism about qualia". Phrased "illusionist about qualia" only (p. 144 reduce-not-eliminate snippet left unused). Engagement with Siderits: Mode Three (framework-boundary; countermodel honestly left unrefuted). Length-negative: analyze_length 4775 → 4757.
+- **Published**: yes
+
 ## 2026-09-28T06:20:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [buddhism-and-dualism](/concepts/buddhism-and-dualism/)

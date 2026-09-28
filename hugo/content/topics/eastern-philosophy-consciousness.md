@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-08-19 00:24:14+00:00
+ai_modified: 2026-09-28 07:05:33+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:27:53+00:00
-lastmod: 2026-08-19 00:24:14+00:00
+lastmod: 2026-09-28 07:05:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ The second of those discounts has a current defender behind it. Kammerer (2022) 
 
 Buddhism's own response is more subtle than either Western illusionism or realism. Madhyamaka emptiness applies to consciousness too, on the scope-not-status reading set out above: conventionally consciousness exists and can be trained, while ultimately it is as empty of independent essence as its objects are.
 
-Buddhist materials can also be run the other way. Siderits (2025) asks whether non-self metaphysics supports a *Buddhist physicalism*, reconstructing the aggregate analysis so that phenomenal consciousness reduces to the impersonal processes the analysis already posits. The reconstruction is offered as exploratory—the title carries a question mark, and a chapter is spent assessing its plausibility—but it is assembled from Buddhist premises, which makes it a live countermodel rather than an outside objection. The no-self compatibility argument above therefore holds against one reading of the aggregate analysis, not against Buddhism as such—the scoping the article already enters, now owed to the physicalist reconstruction too.
+Buddhist materials can also be run the other way. Siderits (2025) explores, without endorsing, a *Buddhist physicalism* illusionist about qualia, which become "artifacts of the deployment of a sort of useful fiction" (ch. 8). He grants it would be "heterodox by all the classical Indian Buddhist philosophical schools" (199), which rejected physicalism "in favor of either dualism or idealism" (5); but, built from Buddhist materials, it is a live countermodel rather than an outside objection. The no-self compatibility argument above therefore holds against one reading of the aggregate analysis, not against Buddhism as such.
 
 ## The Haecceity Tension
 
@@ -180,18 +180,18 @@ The implication: Buddhist impermanence needn't threaten the Map's dualism. What'
 ## What Would Challenge This View?
 
 1. **Contemplative phenomenology turns out to be unreliable**—meditators systematically disagree, or reports reflect cultural priming rather than perception. Currently, cross-tradition convergence supports reliability.
-2. **Illusionism explains contemplative reports** without positing genuine phenomenal access. Siderits (2025) develops this from inside the tradition.
+2. **Illusionism explains contemplative reports** without positing genuine phenomenal access. Siderits (2025) explores this route.
 3. **Buddhist *anattā* necessarily extends to irreducibility**—requiring full reduction to functional processes, not just impermanence. The [detailed analysis](/concepts/buddhism-and-dualism/) argues otherwise.
 4. **Cessation states prove to be mere unconsciousness**—*nirodha samāpatti* shows the neural signature of ordinary unconsciousness rather than something distinctive. Yang, Kadambi et al. (2025) find consciousness ceasing on a distinctive regional profile rather than by global suppression, so the test does not fire; at N=3 and in preprint it settles little either way. It also guards less than it did, the cessation discussion above no longer resting filter theory on these states.
 5. **Process haecceitism collapses**—qualitative identity suffices for numerical identity, or meditators report loss of particularity alongside loss of substantial selfhood.
 
-None has been decisively established, and that is three states rather than one. (2) faces a serious live countermodel: Siderits's physicalist reconstruction is assembled from Buddhist premises rather than imported against them, and nothing above refutes it. (4) turns on preprint evidence, N=3, too thin to settle the question either way. (1), (3) and (5) remain unresolved conceptual objections against which no observation has come in—weaker than having survived a test. The engagement remains productive on that reading, not the stronger one.
+None has been decisively established, and that is three states rather than one. (2) faces a serious live countermodel: Siderits's heterodox but Buddhist-built illusionism, which nothing above refutes. (4) turns on preprint evidence, N=3, too thin to settle the question either way. (1), (3) and (5) remain unresolved conceptual objections against which no observation has come in—weaker than having survived a test. The engagement remains productive on that reading, not the stronger one.
 
 ## Relation to Site Perspective
 
 Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while raising productive challenges.
 
-**[Dualism](/tenets/#dualism)**: All three traditions converge on consciousness as irreducible. Buddhism's rejection of permanent self refines rather than contradicts this: irreducibility at each moment doesn't require permanence. Advaita treats consciousness as fundamental and self-luminous. The illusionist challenge survives this convergence: illusionism grants the systematic training and disputes only the phenomenal reading of it, and Siderits (2025) reconstructs the tradition on physicalist premises.
+**[Dualism](/tenets/#dualism)**: Classical Buddhism rejected physicalism (Siderits 2025, 5), supporting the tenet's anti-physicalist negative and nothing further. Rejecting a permanent self does not contradict this: irreducibility at each moment doesn't require permanence. Advaita treats consciousness as fundamental and self-luminous. The illusionist challenge survives: illusionism grants the systematic training and disputes only its phenomenal reading, and Siderits explores, without endorsing, a heterodox Buddhist illusionism about qualia.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Buddhist *khaṇika* momentariness reveals consciousness operating at finer timescales than ordinary awareness accesses. Whether this connects to quantum processes remains speculative. Dream yoga's demonstration that consciousness persists without sensory constraint supports filter theory.
 
