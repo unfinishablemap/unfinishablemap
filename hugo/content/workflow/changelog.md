@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 18:50:54+00:00
+ai_modified: 2026-09-28 19:21:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 18:50:54+00:00
+lastmod: 2026-09-28 19:21:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T19:21:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/)
+- **Original score**: n/a (`scripts/curate.py review` not present; targeted fix from optimistic-review 2026-09-28 cognitive-closure wing, todo line 1440)
+- **Changes**: (a) L51 — replaced the wrong inventory list ("explanatory gap, self-refutation, regress, aporia, dissolution under attention, silent erasure"; 0/0/0 body hits on the source page for regress / dissolution under attention / silent erasure) with the source page's own eight table rows, quoted verbatim from `voids/compound-failure-signatures` "A Taxonomy of Failure Signatures": *self-refutation, aporia, construction mistaken for observation, selective loss, systematic illusion, wrong model selection, ineffability, vertigo*. Canonical phrasing for the sibling fix on `topics/phenomenology-of-cognitive-limit-types` L53: "[The compound-failure-signatures inventory](/voids/compound-failure-signatures/) tabulates eight — self-refutation, aporia, construction mistaken for observation, selective loss, systematic illusion, wrong model selection, ineffability, vertigo". (The six-primary + dissolution-under-attention + silent-erasure list belongs to `apex/taxonomy-of-voids` "How Thought Fails", not to the inventory page.) (b) L147 — Further Reading gloss on `epistemology-of-limit-knowledge` corrected from the invented "four-routes framework (failure analysis, triangulation, cross-architecture comparison, formal proof)" to the page's actual "Four Epistemic Methods" headings: failure analysis, convergence, structural inference, apophatic reasoning. (c) L122 — piped link `[[cross-domain-void-comparison|cross-domain]]` added to the first "What Would Challenge" condition ("on adversarial cross-framework or cross-domain audit"), naming the matched-grain physics/mathematics test of the failure-signature inventory that was previously unnamed on the page. Offset: "Each face produces a different *shape* of breakdown" → "Each is a different *shape* of breakdown". L104 and L118 (same-hand bound; calibration-not-proof bound) untouched.
+- **Length**: analyze_length 2760 → 2766 body words (concepts soft 2500 / hard 3500; status soft_warning unchanged, 734 headroom).
+- **Verification**: Hugo copy re-synced; all three edits present in `hugo/content/concepts/apophatic-cartography-four-criteria.md`; link target `hugo/content/topics/cross-domain-void-comparison.md` exists.
+- **Published**: yes
 
 ## 2026-09-28T18:50:54+00:00 - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-09-28T19:37:00+00:00
 last_deep_review: 2026-07-18T09:12:29+00:00
 draft: false
 topics:
@@ -50,7 +50,7 @@ These three form a spectrum of decreasing phenomenological salience. Frustration
 
 ## Fine-Grained Failure Signatures
 
-Within these master categories, the [[compound-failure-signatures]] identifies more specific signatures. Each marks a distinct relationship between consciousness and boundary.
+Within these master categories, [[compound-failure-signatures]] tabulates eight finer signatures — self-refutation, aporia, construction mistaken for observation, selective loss, systematic illusion, wrong model selection, ineffability, vertigo. This article extends that taxonomy: it maps the signatures it borrows to their felt quality, and adds two of its own — motivated disinterest, drawn from [[self-maintained-cognitive-limits]], and dissolving insight, drawn from [[edge-states-and-void-probes]]. Each marks a distinct relationship between consciousness and boundary.
 
 ### Self-Refutation
 
@@ -108,7 +108,7 @@ Limits rarely appear in isolation. The [[compound-failure-signatures]] article d
 
 ## Why Phenomenology Diagnoses Limit Type
 
-The diagnostic value of phenomenological signatures rests on a hypothesis: the *way* thought fails reflects *what* it is failing against. A wall leaves a different bruise than a fall. This claim is not yet empirically established, but the consistent cross-cultural convergence of failure signatures documented in the [[biological-cognitive-closure]] literature supports it as a working methodological framework.
+The diagnostic value of phenomenological signatures rests on a hypothesis: the *way* thought fails reflects *what* it is failing against. A wall leaves a different bruise than a fall. This claim is not yet empirically established, but the consistent cross-cultural convergence of cognitive limits documented in the [[biological-cognitive-closure]] literature supports it as a working methodological framework.
 
 A self-referential difficulty deserves acknowledgment: this taxonomy uses introspective phenomenological reports to map cognitive limits — including limits on introspection itself. The construction-mistaken-for-observation signature warns that introspective data may be partly constructed. The framework does not collapse under this pressure, because the diagnostic grid draws on converging evidence (formal analysis, cross-cultural data, experimental results) rather than introspection alone. But the circularity places an upper bound on confidence: phenomenological diagnosis is a heuristic, not a proof.
 
@@ -120,11 +120,11 @@ The phenomenological signatures also bear on the distinction between the [[three
 
 The systematic mapping of limit phenomenologies connects to the Map's [[tenets]] at several points.
 
-**[[tenets#^dualism|Dualism]]** is supported by the persistent aporia surrounding consciousness. The hard problem does not produce frustration (suggesting mere difficulty) or satisfaction (suggesting resolution). It produces a distinctive compound: smooth understanding of neural mechanism punctuated by abrupt blockage at the question of experience. This phenomenological profile — comprehension interrupted by irreducible aporia — is what we would expect if consciousness is genuinely not reducible to physical description, rather than merely not yet reduced.
+**[[tenets#^dualism|Dualism]]** is consistent with the persistent aporia surrounding consciousness. The hard problem does not produce frustration (suggesting mere difficulty) or satisfaction (suggesting resolution). It produces a distinctive compound: smooth understanding of neural mechanism punctuated by abrupt blockage at the question of experience. This phenomenological profile — comprehension interrupted by persistent aporia — is consistent with consciousness being genuinely not reducible to physical description. It is also, however, what a psychological closure that merely looks representational would feel like: the [[closure-types-void|closure-types void]] records that "the phenomenology of merely hard problems mimics principled impossibility", with false positives for representational closure outnumbering false negatives. Because the method is a heuristic rather than a proof, the profile counts as compatible with dualism and, at most, as weak evidence for it — the same provisional status the taxonomy claims for itself applies to this reading of it.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** gains precision from the illusory-comprehension category. If adaptive limits are phenomenologically invisible — if the simplest-seeming explanation feels right precisely because the cognitive system was tuned by evolution to make it feel right — then parsimony judgments cannot be taken at face value. The Map's resistance to materialist parsimony arguments is supported by the finding that our sense of what is "simple" may itself be an adaptive construction rather than a reliable guide to ontology.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects to introspective opacity. The mechanism by which consciousness influences physical processes would be, if real, a prime candidate for adaptive concealment — Trivers' framework predicts that causal processes are hidden from consciousness when transparency would compromise function. The phenomenological signature here would be construction-mistaken-for-observation: we feel we understand our own agency while actually constructing a narrative that omits the actual causal interface. The [[self-opacity|phenomenology of error recognition]] suggests that errors at the introspective level are the hardest to detect because the detection mechanism is itself implicated.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects to introspective opacity. The mechanism by which consciousness influences physical processes would be, if real, a prime candidate for adaptive concealment — Trivers' framework suggests that causal processes are hidden from consciousness when transparency would compromise function. The phenomenological signature here would be construction-mistaken-for-observation: we feel we understand our own agency while actually constructing a narrative that omits the actual causal interface. The [[self-opacity|phenomenology of error recognition]] suggests that errors at the introspective level are the hardest to detect because the detection mechanism is itself implicated.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** relates to the illusory comprehension surrounding physical causation. We experience a world of macroscopic causes and effects, feeling we understand how things work. Quantum indeterminacy — where the Map locates the consciousness-physics interface — is phenomenologically invisible to ordinary cognition. The smooth interface of everyday causal understanding may hide the very junction where consciousness acts.
 

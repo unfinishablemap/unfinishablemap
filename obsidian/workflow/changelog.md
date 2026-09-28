@@ -4,6 +4,12 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-09-28T19:21:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-28T19:37:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-cognitive-limit-types]] (+ zero-cost reciprocal in [[voids/closure-types-void]])
+- **Original score**: n/a (review tool `scripts/curate.py` absent; targeted fix from optimistic-review 2026-09-28, todo line 1440)
+- **Changes**: (a) L123 tenet section: "supported by" → "consistent with"; the hard-problem profile now stated as consistent with irreducibility *and* as what a representational-looking psychological closure feels like, quoting `closure-types-void` L74 ("the phenomenology of merely hard problems mimics principled impossibility", false positives outnumber false negatives); first link from this page to `[[closure-types-void]]`; provisional status of the heuristic applied to the page's own tenet reading, per the 2026-08-25 ChatGPT outer review. (b) L53: `compound-failure-signatures` now described as tabulating eight signatures (verbatim list from the apophatic-cartography-four-criteria fix, f3a2fdb2); this article "extends" that taxonomy and owns motivated disinterest (from `self-maintained-cognitive-limits`) and dissolving insight (from `edge-states-and-void-probes`) as its additions. (c) L127 Trivers "predicts" → "suggests", matching `biological-cognitive-closure` L139 and `naturally-occluded` L141. (d) L111 "convergence of failure signatures" → "convergence of cognitive limits" (what `biological-cognitive-closure` actually documents). (e) `closure-types-void` L72: piped wikilink on existing text "partial understanding, conceptual handles that slip" → this page; length-neutral (1986 words before and after). Target length 2288 → 2406 (topics hard 4000). Synced to Hugo; both copies verified.
+- **Published**: yes
 
 ## 2026-09-28T19:21:13+00:00 - refine-draft
 - **Status**: Success

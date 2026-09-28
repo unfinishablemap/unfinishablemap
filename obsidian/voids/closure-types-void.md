@@ -4,7 +4,7 @@ description: "Representational and psychological closure are distinct species of
 created: 2026-04-18
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-08-20T02:50:00+00:00
+ai_modified: 2026-09-28T19:37:00+00:00
 last_deep_review: 2026-06-26T14:17:11+00:00
 draft: false
 topics:
@@ -69,7 +69,7 @@ This classification functions as a working hypothesis about structural signature
 
 The deeper result is not the first-order distinction but its inaccessibility. *From within a mind, there is no reliable procedure for determining which type of closure one is facing.*
 
-Representational closure is, by its own definition, undetectable. If a mind's concept-forming procedures cannot extend to P, the mind lacks the very resources needed to notice the insufficiency. There is no phenomenology of representational absence; minds do not represent what they cannot represent. This is the closure-types analogue of [[inventory-blindness]]: absent capabilities produce no signal marking their absence. Psychological closure, by contrast, leaves traces: partial understanding, conceptual handles that slip, formulations that feel close but wrong. But the *difference* between "we have not yet constructed the concepts" and "our concept-forming procedures could never construct them" is exactly what is not visible from inside.
+Representational closure is, by its own definition, undetectable. If a mind's concept-forming procedures cannot extend to P, the mind lacks the very resources needed to notice the insufficiency. There is no phenomenology of representational absence; minds do not represent what they cannot represent. This is the closure-types analogue of [[inventory-blindness]]: absent capabilities produce no signal marking their absence. Psychological closure, by contrast, leaves traces: [[phenomenology-of-cognitive-limit-types|partial understanding, conceptual handles that slip]], formulations that feel close but wrong. But the *difference* between "we have not yet constructed the concepts" and "our concept-forming procedures could never construct them" is exactly what is not visible from inside.
 
 The history of apparent representational closures that turned out to be psychological supplies the indirect evidence. Each of Vlerick and Boudry's cases looked, to contemporaries, like something the mind could not take in; in retrospect the concepts were attainable all along and the resistance was psychological. The track record does not prove there are no genuine representational closures. It shows that minds are unreliable judges of which is which. The asymmetry of error is systematic: false positives for representational closure outnumber false negatives, because the phenomenology of merely hard problems mimics principled impossibility.
 
