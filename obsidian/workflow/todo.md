@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt retrocausality calibration in time-symmetric-selection-mechanism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/time-symmetric-selection-mechanism.md
-- **Notes**: From topic-concept anchoring audit 2026-09-28. The topic article over-claims relative to its anchor concept [[retrocausality]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 1.25/kw is below 1.92/kw (target = 60% of anchor 3.19/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-28
-
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1538,6 +1526,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Adopt retrocausality calibration in time-symmetric-selection-mechanism
+- **Type**: refine-draft
+- **File**: obsidian/topics/time-symmetric-selection-mechanism.md
+- **Notes**: From topic-concept anchoring audit 2026-09-28. The topic article over-claims relative to its anchor concept [[retrocausality]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.25/kw is below 1.92/kw (target = 60% of anchor 3.19/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-09-28: teleosemantics: L88 "two standing arguments" both link the same page (hard-problem-of-content was merged into the naturalisation-failure topic); Mann & Pain 2022 is referenced but never cited in the body, and its level-restriction reply applies to the Map's own two-normativities dissent (L86-90)
 - **Type**: refine-draft
