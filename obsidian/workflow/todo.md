@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the mirth void (we laugh first and find reasons afterwards)
-- **Type**: expand-topic
-- **File**: obsidian/voids/mirth-void.md
-- **Status**: pending
-- **Research**: obsidian/research/voids-mirth-void-2026-09-23.md
-- **Source**: unconsumed_research
-- **Generated**: 2026-09-28
-- **Notes**: Slug `mirth-void` free (checked 2026-09-28). Content dedup: `topics/the-comic-and-humor-as-an-aesthetic-category` (32 humour mentions) argues the *irreducibility* question; this article is the *access* claim and must say so in the lede and link the topic as its sibling (the voids.md register already draws this distinction — keep it). Structure per angle 1: the Fried et al. 1998 stimulation case (laughter attributed to whatever was in front of the patient) → the four access failures (attribution, dissection, volition — volitional vs spontaneous laughter run on different pathways and listeners in 21 societies tell them apart, self-surprise) → Hurley et al. as the physicalist theory that *predicts* the void → AI asymmetry → Relation to Site Perspective. Seams: [[confabulation-void]] (the attribution case), [[disappearance-voids]] (dissection gap), [[meaning-void]] L89 which already claims explaining a joke does not replicate the experience — sharpen rather than repeat. Tenet: Bidirectional Interaction — consciousness causes laughter but cannot order it or see why. Write-up cautions from the note: credit the frog remark to BOTH Whites (E.B. and Katharine, 1941) and settle "purely" vs "pure" before quoting; do not quote the patient's words (Fried primary text unverified); do not use the "10–20% of laughter follows jokes" figure (unverified); gelastic seizures were not researched — at most a one-line lead. Voids measured 103/115 by `tools.evolution.state.count_section_files` on 2026-09-28 — re-measure before creating; refuse if at cap. Target 1800–2400 body words (voids soft 2000 / hard 3000; leave the reference apparatus room under 3000). Frontmatter: `topics:` must be non-empty BARE slugs (`[[free-will]]`, never `[[topics/free-will]]`); `related_articles` should name the seam articles listed here. Body wikilinks to any colliding slug stay path-qualified. Include a "Relation to Site Perspective" section. Do not delete the research note; add its filename to the new article's frontmatter and update the `obsidian/voids/voids.md` register entry from *Surveyed* (research link) to a link to the live article. Honour evidential-status-discipline — every empirical claim carries the note's own verification caveats.
-
 ### P2: Write voids article on the cross-state void (content crosses between visceral states, felt weight does not)
 - **Type**: expand-topic
 - **File**: obsidian/voids/cross-state-void.md
@@ -1493,6 +1484,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Write voids article on the mirth void (we laugh first and find reasons afterwards)
+- **Type**: expand-topic
+- **File**: obsidian/voids/mirth-void.md
+- **Notes**: Slug `mirth-void` free (checked 2026-09-28). Content dedup: `topics/the-comic-and-humor-as-an-aesthetic-category` (32 humour mentions) argues the *irreducibility* question; this article is the *access* claim and must say so in the lede and link the topic as its sibling (the voids.md register already draws this distinction — keep it). Structure per angle 1: the Fried et al. 1998 stimulation case (laughter attributed to whatever was in front of the patient) → the four access failures (attribution, dissection, volition — volitional vs spontaneous laughter run on different pathways and listeners in 21 societies tell them apart, self-surprise) → Hurley et al. as the physicalist theory that *predicts* the void → AI asymmetry → Relation to Site Perspective. Seams: [[confabulation-void]] (the attribution case), [[disappearance-voids]] (dissection gap), [[meaning-void]] L89 which already claims explaining a joke does not replicate the experience — sharpen rather than repeat. Tenet: Bidirectional Interaction — consciousness causes laughter but cannot order it or see why. Write-up cautions from the note: credit the frog remark to BOTH Whites (E.B. and Katharine, 1941) and settle "purely" vs "pure" before quoting; do not quote the patient's words (Fried primary text unverified); do not use the "10–20% of laughter follows jokes" figure (unverified); gelastic seizures were not researched — at most a one-line lead. Voids measured 103/115 by `tools.evolution.state.count_section_files` on 2026-09-28 — re-measure before creating; refuse if at cap. Target 1800–2400 body words (voids soft 2000 / hard 3000; leave the reference apparatus room under 3000). Frontmatter: `topics:` must be non-empty BARE slugs (`[[free-will]]`, never `[[topics/free-will]]`); `related_articles` should name the seam articles listed here. Body wikilinks to any colliding slug stay path-qualified. Include a "Relation to Site Perspective" section. Do not delete the research note; add its filename to the new article's frontmatter and update the `obsidian/voids/voids.md` register entry from *Surveyed* (research link) to a link to the live article. Honour evidential-status-discipline — every empirical claim carries the note's own verification caveats.
 
 ### ✓ 2026-09-28: Write voids article on the categorical perception void (continua delivered already carved)
 - **Type**: expand-topic

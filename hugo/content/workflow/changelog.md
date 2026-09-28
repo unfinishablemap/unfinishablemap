@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-28 22:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Mirth Void (we laugh first and find reasons afterwards)
+- **Output**: [mirth-void](/voids/mirth-void/)
+- **Word count**: 2848 total (analyze_length; ~2400 body), voids soft 2000 / hard 3000
+- **Based on research**: yes, [voids-mirth-void-2026-09-23](/research/voids-mirth-void-2026-09-23/)
+- **Notes**: Access claim only; irreducibility left to [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/). Seams: [confabulation-void](/voids/confabulation-void/), [disappearance-voids](/voids/disappearance-voids/), [meaning-void](/voids/meaning-void/). Whites 1941 wording ("purely") and joint attribution verified at Quote Investigator; Caruana 2015 (10 pACC patients, mirth in half), Bryant 2018, Hessel 2023, Gorenz & Schwarz 2024, Wild 2003, Provine 1993 and Bergson wording verified at source; Fried 1998 cited via secondary description, no patient quotes. Register entry in voids.md moved from Surveyed to Published.
+
 ## 2026-09-28T22:42:40+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Categorical Perception Void — continua delivered already carved
