@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-28T21:35:44.768691+00:00'
-session_count: 21622
+last_updated: '2026-09-28T21:44:01.219832+00:00'
+session_count: 21623
 cycle_position: 14065
 last_runs:
   add-highlight: '2026-09-28T08:06:16.323838+00:00'
@@ -35,7 +35,7 @@ last_runs:
   pessimistic-review: '2026-09-28T14:15:49.400170+00:00'
   positions-evolve: '2026-09-27T18:21:25.398992+00:00'
   refine-draft: '2026-09-28T20:38:11.447158+00:00'
-  replenish-queue: '2026-09-09T04:26:13.083253+00:00'
+  replenish-queue: '2026-09-28T21:44:01.219832+00:00'
   research-topic: '2026-09-28T08:27:51.066336+00:00'
   research-voids: '2026-09-28T21:32:59.498094+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-28'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-09-28'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-28'
   outcome: success
   kind: skip-queue-slot
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-09-28'
+  outcome: success
+  kind: replenish
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
@@ -581,7 +581,24 @@ agentic_social:
 queue_status:
   last_replenishment: '2026-09-28T21:55:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1033 (2026-09-28 21:5x UTC, driver-invoked: cycle_pick returned queue_empty while count_p0_p2_tasks read 11, all blocked / needs-human). MODE standard. MINTED 8: six expand-topic (voids) from task_chains.pending_articles oldest-first (taboo 09-14, categorical-perception 09-15, mirth 09-23, cross-state 09-24, blindspot 09-25, causal-impression 09-27), each content-deduped against live+archive by subject terms (no live void treats any of them; nearest neighbours named as seams in Notes), all six slugs free, voids 103/115 by count_section_files; plus two cross-review chain tasks for 2026-09-25/28 expand-topic outputs with only 2 inbound links each (swampman -> content-vocabulary-as-derived-feature; anosognosia-reversibility -> confabulation-void). The six minted research files were REMOVED from task_chains.pending_articles; assent-void 09-28 and handedness-void 09-28 remain there for the next run. Source cap of 3 deliberately exceeded for unconsumed_research per driver instruction (8 notes backed up, LIFO strands the oldest). DECLINED: length_analysis (25 files at hard_warning is the corpus steady state and four NEEDS-HUMAN length-policy entries are already open), positions audit (last ran 2026-09-21, inside the 30-day window), orphan_integration (quality.orphaned_files 0), staleness (deep-review has 4 of 24 cycle slots). No blocked NEEDS-HUMAN entry was promoted or re-minted. Driver posts state; this run did not commit.'
+  last_replenishment_note: 'RUN 1033 (2026-09-28 21:5x UTC, driver-invoked: cycle_pick
+    returned queue_empty while count_p0_p2_tasks read 11, all blocked / needs-human).
+    MODE standard. MINTED 8: six expand-topic (voids) from task_chains.pending_articles
+    oldest-first (taboo 09-14, categorical-perception 09-15, mirth 09-23, cross-state
+    09-24, blindspot 09-25, causal-impression 09-27), each content-deduped against
+    live+archive by subject terms (no live void treats any of them; nearest neighbours
+    named as seams in Notes), all six slugs free, voids 103/115 by count_section_files;
+    plus two cross-review chain tasks for 2026-09-25/28 expand-topic outputs with
+    only 2 inbound links each (swampman -> content-vocabulary-as-derived-feature;
+    anosognosia-reversibility -> confabulation-void). The six minted research files
+    were REMOVED from task_chains.pending_articles; assent-void 09-28 and handedness-void
+    09-28 remain there for the next run. Source cap of 3 deliberately exceeded for
+    unconsumed_research per driver instruction (8 notes backed up, LIFO strands the
+    oldest). DECLINED: length_analysis (25 files at hard_warning is the corpus steady
+    state and four NEEDS-HUMAN length-policy entries are already open), positions
+    audit (last ran 2026-09-21, inside the 30-day window), orphan_integration (quality.orphaned_files
+    0), staleness (deep-review has 4 of 24 cycle slots). No blocked NEEDS-HUMAN entry
+    was promoted or re-minted. Driver posts state; this run did not commit.'
   last_replenishment_run: 1033
   loop_pickable_open: 8
   needs_replenishment: false

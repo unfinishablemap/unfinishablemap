@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-25 16:31:49+00:00
+ai_modified: 2026-09-28 22:02:12+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-09-25 16:31:49+00:00
+lastmod: 2026-09-28 22:02:12+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -282,7 +282,7 @@ Twenty-nine voids surveyed since 2026-02 have research notes; all but the four m
 - **[The Offloading Void](/research/voids-offloading-void-2026-09-06/)** — *Published* (2026-09-07) as [offloading-void](/voids/offloading-void/). Delegating cognition to tools narrows what a subject can do unaided while confidence rises, so the contraction arrives packaged with a signal that nothing has contracted (Risko & Gilbert 2016 frame the trigger as the subject's evaluation of their own abilities).
 - **[The Perceptual History Void](/research/voids-perceptual-history-void-2026-09-09/)** — *Surveyed.* Every percept is pulled toward the observer's recent perceptual history (serial dependence, reaching back up to 15 seconds; Manassi & Whitney 2022), and nothing in the percept marks the pull; whether it acts in perception or after it cannot be settled from inside, because access runs through the suspect report. The note recommends folding rather than a standalone slot.
 - **[The Prevalence Void](/research/voids-prevalence-void-2026-09-10/)** — *Surveyed.* Categorical judgements are silently indexed to the recent distribution of instances: as blue dots, threatening faces or unethical proposals become rare, the category expands into what it used to exclude (Levari et al. 2018). The mechanism face is deflating (a range-frequency account with a working intervention), while the access face is untouched, because forewarning and incentives both fail to stop the drift. This is the contrastive counterpart of the perceptual history void.
-- **[The Taboo Void](/research/voids-taboo-void-2026-09-14/)** — *Surveyed.* Some thoughts a mind can form but refuses to weigh: taboo trade-offs between sacred and secular values are rated easier, not harder, and merely contemplating one produces a felt contamination (Tetlock 2003). Frankfurt, Williams and Raz treat the refusal as constitutive of holding the value, so illuminating this region would change the mind doing the illuminating.
+- **[The Taboo Void](/research/voids-taboo-void-2026-09-14/)** — *Published* (2026-09-28) as [taboo-void](/voids/taboo-void/). Some thoughts a mind can form but refuses to weigh: taboo trade-offs between sacred and secular values are rated easier, not harder, and merely contemplating one produces a felt contamination (Tetlock 2003). Frankfurt, Williams and Raz treat the refusal as constitutive of holding the value, so illuminating this region would change the mind doing the illuminating.
 - **[The Categorical Perception Void](/research/voids-categorical-perception-void-2026-09-15/)** — *Surveyed.* Continua such as voice-onset time, hue and facial expression arrive already carved into categories, and an installed boundary feels exactly like a discovered one. The strong claim that within-category differences cannot be heard has been rejected as a task artefact (McMurray 2022), leaving a narrower limit on *access by default*, not a wall.
 - **[The Dormancy Void](/research/voids-dormancy-void-2026-09-17/)** — *Surveyed.* At any moment almost none of a mind is occurrent, and consciousness cannot say where or in what form the dormant remainder exists: dispositional profile, stored representation (the two sides of the Schwitzgebel 2002 vs Quilty-Dunn & Mandelbaum 2017 dispute), or accessibility in principle (Searle's 1990 Connection Principle). For dualism the question is sharp: the remainder sits in the brain, in a store consciousness cannot survey, or nowhere.
 - **[The Serial-Order Void](/research/voids-serial-order-void-2026-09-17/)** — *Surveyed.* A mind has the intent and the produced sequence but never the ordering: "The order is imposed by some other agent" (Lashley 1951), and the whole sequence is queued in parallel before the first element executes (Averbeck et al. 2002). The note argues that production is the empty cell in the operation-void taxonomy named at [fusion-void](/voids/fusion-void/), but every host that would fit is at its length ceiling.

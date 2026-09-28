@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 20:39:31+00:00
+ai_modified: 2026-09-28 22:02:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 20:23:00+00:00
+lastmod: 2026-09-28 22:02:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T22:02:06+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Taboo Void — thoughts a mind can form but refuses to weigh
+- **Output**: [taboo-void](/voids/taboo-void/)
+- **Word count**: 2983 total via analyze_length (2487 before References; voids soft 2000 / hard 3000 — soft_warning, under the hard gate). Started at 3769 and self-edited down across four passes.
+- **Based on research**: yes — [voids-taboo-void-2026-09-14](/research/voids-taboo-void-2026-09-14/) (angle 1). Structure: Hanselmann & Tanner difficulty ordering (taboo 2.34 < routine 2.89 < tragic 5.25) → mere-contemplation / outrage-at-proposer / cleansing / deliberation-duration sanction (Tetlock 2003; Tetlock et al. 2000) → quantity insensitivity and backfire (Baron & Spranca 1997; Ginges et al. 2007) → rule-retrieval vs cost-calculation neuroimaging (Berns 2012; Hamid 2019; Duc 2013 abstract-only flagged) → constitutive turn (Frankfurt 1988 and Williams 1993 paraphrased via Van Den Beld 1997 / Clark 1999, no primary verbatim quotes; Raz 1986 ch. 13; Chang 2001 objection) → reframing / expressed-not-revealed / latent-class / peer-rating evidence as the limit on the void's reality; professional desensitisation stated as open.
+- **Seams**: [decision-void](/voids/decision-void/) (weighing never opens), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) (process, not conclusion, defended), [collective-cognitive-limits](/voids/collective-cognitive-limits/) (Overton drift, cited not duplicated), [interested-party-void](/voids/interested-party-void/) (reflexive case: ease where there should be difficulty). Self-citations: decision-void, self-maintained-cognitive-limits.
+- **Tenet**: Occam's Razor Has Limits — lexical-priority and ordinary-preference models both refuted; Bidirectional Interaction and Dualism connections stated as speculation only.
+- **Register**: voids.md entry flipped from *Surveyed* to *Published* link. Voids measured 103/115 before creation (count_section_files), now 104. apex-articles.md has no taboo source, no apex task minted. Synced; Hugo copy validates; all 11 body links resolve.
+- **Published**: yes
+
+## 2026-09-28T21:32:29+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Handedness Void. The left/right difference is felt but not conceptually statable (Kant 1768; Prolegomena §13; the 1786 orientation essay makes it the model for reason orienting itself beyond experience); Gardner's Ozma problem turned this into a proven communication limit that physics then closed (Wu et al. 1957 parity violation; Cronin & Fitch 1964 CP violation for the antimatter loophole). Second face: disoriented rats, toddlers and verbally-shadowed adults reorient by room geometry and ignore a coloured wall they can see and remember (Cheng 1986; Hermer & Spelke 1994; Hermer-Vazquez et al. 1999), contested by Twyman & Newcombe 2010 and Bek et al. 2010. Third face: the mirror puzzle (Block 1974; English 2024) as a thought that will not stay held. Kant 1786 and Prolegomena §13 quotes verified against raw primary text; Hermer & Spelke 1994, Hermer-Vazquez 1999, Bek 2010 abstracts via PubMed E-utilities; Levinson 1997 full text (~13° dead-reckoning error); CMAJ 2016 prevalence sentences verbatim
+- **Category**: Mixed (Unexplorable-seeming core, Occluded layer, plus a documented closure)
+- **Output**: [voids-handedness-void-2026-09-28](/research/voids-handedness-void-2026-09-28/)
+- **Key finding**: The catalogue's cleanest case of a void boundary that moved — a limit Kant and Gardner took to be conceptual was partly an artefact of an oversimple, mirror-symmetric physics (Occam's Razor Has Limits), yet the residue survived: the difference remains transmissible only via an ostensive terminus (the end the electrons come out of), so Kant's point about concepts stands while Gardner's about communication fell. Text-only LLMs sit in the Ozma position (can recite the cobalt recipe, have no felt asymmetry); VLMs score near zero on left/right (Kong et al. 2025). Voids 103/115; added to pending_articles (8th voids item queued).
 
 ## 2026-09-28T20:39:31+00:00 - refine-draft
 - **Status**: Success

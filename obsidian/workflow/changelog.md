@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T21:32:29+00:00
+ai_modified: 2026-09-28T22:02:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T22:02:06+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Taboo Void — thoughts a mind can form but refuses to weigh
+- **Output**: [[voids/taboo-void]]
+- **Word count**: 2983 total via analyze_length (2487 before References; voids soft 2000 / hard 3000 — soft_warning, under the hard gate). Started at 3769 and self-edited down across four passes.
+- **Based on research**: yes — [[research/voids-taboo-void-2026-09-14]] (angle 1). Structure: Hanselmann & Tanner difficulty ordering (taboo 2.34 < routine 2.89 < tragic 5.25) → mere-contemplation / outrage-at-proposer / cleansing / deliberation-duration sanction (Tetlock 2003; Tetlock et al. 2000) → quantity insensitivity and backfire (Baron & Spranca 1997; Ginges et al. 2007) → rule-retrieval vs cost-calculation neuroimaging (Berns 2012; Hamid 2019; Duc 2013 abstract-only flagged) → constitutive turn (Frankfurt 1988 and Williams 1993 paraphrased via Van Den Beld 1997 / Clark 1999, no primary verbatim quotes; Raz 1986 ch. 13; Chang 2001 objection) → reframing / expressed-not-revealed / latent-class / peer-rating evidence as the limit on the void's reality; professional desensitisation stated as open.
+- **Seams**: [[decision-void]] (weighing never opens), [[self-maintained-cognitive-limits]] (process, not conclusion, defended), [[collective-cognitive-limits]] (Overton drift, cited not duplicated), [[interested-party-void]] (reflexive case: ease where there should be difficulty). Self-citations: decision-void, self-maintained-cognitive-limits.
+- **Tenet**: Occam's Razor Has Limits — lexical-priority and ordinary-preference models both refuted; Bidirectional Interaction and Dualism connections stated as speculation only.
+- **Register**: voids.md entry flipped from *Surveyed* to *Published* link. Voids measured 103/115 before creation (count_section_files), now 104. apex-articles.md has no taboo source, no apex task minted. Synced; Hugo copy validates; all 11 body links resolve.
+- **Published**: yes
 
 ## 2026-09-28T21:32:29+00:00 - research-voids
 - **Status**: Success
