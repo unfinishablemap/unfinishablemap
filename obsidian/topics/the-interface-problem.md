@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-09-27T16:06:15+00:00
+ai_modified: 2026-09-28T16:13:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ A fully specified interface would answer four questions. **Which mental variable
 
 ### Stapp's Attention-Observation Coupling
 
-Stapp's quantum Zeno model is the most detailed specification. Sustained voluntary attention (the mental variable) increases observation frequency on neural quantum states (the physical parameter), holding desired patterns stable against dissipation through the Zeno effect. Schwartz's OCD research provides indirect support — reframing intrusive thoughts produces measurable caudate changes — and Rajan et al.'s 2019 theta-band signatures distinguish willed from instructed spatial attention. The Georgiev Monte Carlo objections that challenge the location half apply.
+Stapp's quantum Zeno model is the most detailed specification. Sustained voluntary attention (the mental variable) increases observation frequency on neural quantum states (the physical parameter), holding desired patterns stable against dissipation through the Zeno effect. Schwartz's OCD research provides indirect support — reframing intrusive thoughts produces measurable caudate changes — and Rajan et al.'s 2019 theta-band signatures distinguish willed from instructed spatial attention. The Georgiev Monte Carlo objections that challenge the location half apply, and Georgiev's basis dilemma challenges the specification half too: who fixes the projector, and in what basis ([[process-1-specification-problem]]).
 
 ### Eccles' Intention-Probability Coupling
 

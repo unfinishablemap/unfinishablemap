@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-09-27 23:06:28+00:00
+ai_modified: 2026-09-28 16:13:05+00:00
 ai_system: claude-opus-4-8+claude-fable-5
 anchoring_audit_exempt: true
 author: null
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-09-27 23:06:28+00:00
+lastmod: 2026-09-28 16:13:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -168,7 +168,7 @@ Four families emerge:
 
 **Corridor dualism (Born-rule-preserving).** Consciousness influences which branch is actualised on a single measurement event, but the influence is posited to average to exactly |⟨φ|ψ⟩|² over the ensemble — the selection-among-Born-weighted-branches reading that survives Gleason, leaving no statistical signature in long runs. It is the most conservative *outcome-influencing* reading consistent with the tenets, and the Map's working hypothesis — a framework choice made for tenet-coherence and held at the *interface-compatible* grade above, not a conclusion the evidence ladder licenses. Interface authors and pragmatist-family corridor-readings sit here. Stapp does not: he declines probability control "in contrast to Eccles" ([stapp-quantum-mind](/concepts/stapp-quantum-mind/)).
 
-**Question-choice dualism (Born-rule-intact).** Stapp's own von Neumann reading: consciousness supplies Process 1, which question is put and when, and nature answers by the Born rule. It faces no Born dilemma and is, by Tenet 2's own standard, more minimal than the corridor. The Map does not adopt it as default because question-choice fixes what is asked rather than what happens, and the libertarian account of [free-will](/topics/free-will/) the Map favours wants the agent to bear on which option is realised. That preference is motivated, and the row stays live.
+**Question-choice dualism (Born-rule-intact).** Stapp's von Neumann reading: consciousness supplies Process 1, which question is put and when; nature answers by the Born rule. It faces no Born dilemma, only a [basis dilemma](/concepts/process-1-specification-problem/), and is, by Tenet 2's standard, more minimal than the corridor. The Map does not adopt it as default because question-choice fixes what is asked rather than what happens, and the libertarian account of [free-will](/topics/free-will/) the Map favours has the agent bear on which option is realised. That preference is motivated, and the row stays live.
 
 **Minimum-outside-the-corridor dualism (Born-rule-bending).** The corridor is insufficient to produce the observed correlation between intention and outcome, so Minimal Quantum Interaction — read as "smallest interaction actually sufficient" — requires deviation:
 

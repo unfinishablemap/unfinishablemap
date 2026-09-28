@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-28T01:22:44+00:00
+ai_modified: 2026-09-28T16:13:05+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -129,7 +129,7 @@ The objection also bears on the Map's preference ordering among mechanisms. The 
 
 ### The Formalism Objection
 
-Georgiev (2012) argues Stapp's model treats mind as using projection operators without having a wavefunction—a formal inconsistency. The objection is philosophical, not empirical; Stapp claims to follow von Neumann's orthodox interpretation. The debate remains open.
+Georgiev (2012) argues Stapp's model treats mind as using projection operators without having a wavefunction—a formal inconsistency. The objection is philosophical, not empirical; Stapp claims to follow von Neumann's orthodox interpretation. The debate [[process-1-specification-problem|remains open]].
 
 ### The Epiphenomenalist Alternative
 

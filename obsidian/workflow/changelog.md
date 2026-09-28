@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T15:36:44+00:00
+ai_modified: 2026-09-28T16:13:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T16:13:05+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Process 1 Specification Problem (Donald's precision/representation/boundary objections, Georgiev's basis dilemma, Stapp's 2012 concession, de Barros's circularity and the Laskey narrowing; what it costs the Born-intact question-choice row)
+- **Output**: [[concepts/process-1-specification-problem]]
+- **Word count**: 2725 total by analyze_length (≈2500 prose + ~220 references/further reading); soft_warning, under the 3500 hard limit. Self-edited from 3187 before publishing.
+- **Based on research**: yes — [[research/stapp-process-1-basis-timing-critiques-2026-09-27]]. All quotes taken from the note's verbatim-verified set; Georgiev 2015 *NQ* and Stapp 2015 quoted from abstracts only (marked in References); Stapp 2012 body quotes flagged as draft-sourced; Donald's quotations of Stapp 1995/2000 marked as reported through Donald (the 1995 one omitted).
+- **Linking edits**: brain-specialness-boundary L67 (credits Donald's boundary question, 3828→3838w); born-rule-and-the-consciousness-interface L165 (piped "basis dilemma" link, 5445→5445w, zero-cost); coupling-modes L100 and L146 (2970→3016w); the-interface-problem L117 (3380→3398w); stapp-quantum-mind L132 (piped, 4039→4039w). Synced to Hugo.
+- **Not an apex source**: path absent from apex-articles.md.
+- **Section count**: concepts 334 before this page (count_section_files, 2026-09-28).
 
 ## 2026-09-28T15:36:44+00:00 - refine-draft
 - **Status**: Success

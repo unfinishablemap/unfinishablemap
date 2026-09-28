@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-09-28T15:36:44+00:00
+ai_modified: 2026-09-28T16:13:05+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -97,7 +97,7 @@ All three modes must satisfy the [[consciousness-physics-interface-formalism|fiv
 
 ### Basis Control: Most "Minimal"
 
-Basis control changes nothing about quantum mechanics' answers—only which questions get asked. No deviation from standard physics is detectable, because the statistics conditional on a given basis remain textbook.
+Basis control changes nothing about quantum mechanics' answers—only which questions get asked. No deviation from standard physics is detectable, because the statistics conditional on a given basis remain textbook. That minimality is bought by leaving the basis unspecified; see the [[process-1-specification-problem]].
 
 This makes basis control the most minimal mode. It's also well-motivated by attention phenomenology: attending to something feels like selecting what matters, not forcing outcomes. The "executive selection" model of consciousness—choosing among pre-formed alternatives rather than generating new states—maps naturally to basis control.
 
@@ -143,7 +143,7 @@ That outcome-level commitment has a strictest formalisation, and it sits beneath
 
 **Does brain specialness resolve the detection problem?** If coupling is restricted to attention-integrated neural systems, probability control might be locally significant yet globally undetectable. But "locally significant" still means some measurable effect should exist in brain tissue under the right conditions.
 
-**What about decoherence?** If decoherence determines basis (einselection) faster than consciousness can, basis control may operate at the wrong level. Consciousness might select among decoherence-selected alternatives—a classical-level basis control—rather than quantum-level basis selection.
+**What about decoherence?** If decoherence determines basis (einselection) faster than consciousness can, basis control may operate at the wrong level. Consciousness might select among decoherence-selected alternatives—a classical-level basis control—rather than quantum-level basis selection. Stapp's 2012 reply to Georgiev concedes exactly this: the decoherence (coordinate) basis is the mind's basis, and the mind picks "some particular tiny portion" of it, which moves his model toward timing control ([[process-1-specification-problem]]).
 
 **Is there empirical leverage?** Timing control predicts attention-correlated neural pattern stability. Probability control predicts deviations from baseline quantum statistics in brain tissue. Basis control is hardest to test directly, since it changes what's measured rather than measurement results.
 

@@ -1429,14 +1429,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: Ballanger et al. 2006 found cue/urgency speed-ups of the same size in healthy controls as in Parkinson's patients, and Distler et al. 2016 found internal expectation alone suffices — so the external-trigger effect does not isolate an "upstream selection" deficit. The habitual-control reading (Redgrave et al. 2010, *Nat Rev Neurosci* 11(11):760-772) is a live rival. Scope L104 to what the data support and link [[paradoxical-kinesia]] (see its prediction table). **motor-selection is at 3499/3500 (hard) — the edit must be length-neutral or negative.** Keep consistent with today's dopamine-and-the-unified-interface scoping (commit 0b9ac02d).
 
-### P3: Write concept page on the Process 1 specification problem (Donald's basis objection, Georgiev's basis dilemma, de Barros's circularity) and what it costs the question-choice row
-- **Type**: expand-topic
-- **Status**: pending
-- **Section**: concepts
-- **Source**: research-topic 2026-09-27 (research/stapp-process-1-basis-timing-critiques-2026-09-27.md) — chain entry not written by the research fork, minted by hand
-- **Generated**: 2026-09-27
-- **Notes**: Slug suggested by the note: `process-1-specification-problem`. `stapp-quantum-mind` is at 4040w (over hard), hence a new page. Concepts 332/360 on 2026-09-27 (re-measure). Build from the research note (24 quotes verified verbatim; three sources abstract-only — flagged there; do not quote them beyond the abstract). Core: Georgiev (2015, *IJMPB* 29(7) 1550039, sole author) is a basis dilemma, not just a timing result — it lands on the Born-intact question-choice row; Stapp's 2012 reply concedes the decoherence basis and leaves "which tiny portion" unspecified; Donald's full objection (precision, no neural→projector map, why stop at the brain); de Barros (2014) circularity + the Laskey fix (brain supplies basis, mind chooses whether/when). Write as honest engagement: framework-boundary where it is, no refutation claimed. Linking edits listed in the note: `brain-specialness-boundary` L67, `born-rule-and-the-consciousness-interface` L165 (at 5446w — zero-cost piped link only), `coupling-modes` L100/L146, `the-interface-problem` L117. `topics:` bare slugs, non-empty.
-
 ### P3: Sjöberg (2024) residuals — "independent confirmation" (motor-control-quantum-zeno L56) and "retain voluntary agency" (positions/agency-and-will L78) overstate a three-page *Brain* essay on SMA resection
 - **Type**: refine-draft
 - **Status**: pending
@@ -1487,6 +1479,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Write concept page on the Process 1 specification problem (Donald's basis objection, Georgiev's basis dilemma, de Barros's circularity) and what it costs the question-choice row
+- **Type**: expand-topic
+- **Notes**: Slug suggested by the note: `process-1-specification-problem`. `stapp-quantum-mind` is at 4040w (over hard), hence a new page. Concepts 332/360 on 2026-09-27 (re-measure). Build from the research note (24 quotes verified verbatim; three sources abstract-only — flagged there; do not quote them beyond the abstract). Core: Georgiev (2015, *IJMPB* 29(7) 1550039, sole author) is a basis dilemma, not just a timing result — it lands on the Born-intact question-choice row; Stapp's 2012 reply concedes the decoherence basis and leaves "which tiny portion" unspecified; Donald's full objection (precision, no neural→projector map, why stop at the brain); de Barros (2014) circularity + the Laskey fix (brain supplies basis, mind chooses whether/when). Write as honest engagement: framework-boundary where it is, no refutation claimed. Linking edits listed in the note: `brain-specialness-boundary` L67, `born-rule-and-the-consciousness-interface` L165 (at 5446w — zero-cost piped link only), `coupling-modes` L100/L146, `the-interface-problem` L117. `topics:` bare slugs, non-empty.
 
 ### ✓ 2026-09-28: coupling-modes L189: Georgiev (2015) is miscited as "Georgiev & Glazebrook (2014) … 29(15)" — sole author, 2015, issue 7
 - **Type**: refine-draft

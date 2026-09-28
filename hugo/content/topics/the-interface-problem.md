@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-09-27 16:06:15+00:00
+ai_modified: 2026-09-28 16:13:05+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 14:40:04+00:00
-lastmod: 2026-09-27 16:06:15+00:00
+lastmod: 2026-09-28 16:13:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ A fully specified interface would answer four questions. **Which mental variable
 
 ### Stapp's Attention-Observation Coupling
 
-Stapp's quantum Zeno model is the most detailed specification. Sustained voluntary attention (the mental variable) increases observation frequency on neural quantum states (the physical parameter), holding desired patterns stable against dissipation through the Zeno effect. Schwartz's OCD research provides indirect support — reframing intrusive thoughts produces measurable caudate changes — and Rajan et al.'s 2019 theta-band signatures distinguish willed from instructed spatial attention. The Georgiev Monte Carlo objections that challenge the location half apply.
+Stapp's quantum Zeno model is the most detailed specification. Sustained voluntary attention (the mental variable) increases observation frequency on neural quantum states (the physical parameter), holding desired patterns stable against dissipation through the Zeno effect. Schwartz's OCD research provides indirect support — reframing intrusive thoughts produces measurable caudate changes — and Rajan et al.'s 2019 theta-band signatures distinguish willed from instructed spatial attention. The Georgiev Monte Carlo objections that challenge the location half apply, and Georgiev's basis dilemma challenges the specification half too: who fixes the projector, and in what basis ([process-1-specification-problem](/concepts/process-1-specification-problem/)).
 
 ### Eccles' Intention-Probability Coupling
 

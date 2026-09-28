@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-09-28 01:22:44+00:00
+ai_modified: 2026-09-28 16:13:05+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-09-28 01:22:44+00:00
+lastmod: 2026-09-28 16:13:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +132,7 @@ The objection also bears on the Map's preference ordering among mechanisms. The 
 
 ### The Formalism Objection
 
-Georgiev (2012) argues Stapp's model treats mind as using projection operators without having a wavefunction—a formal inconsistency. The objection is philosophical, not empirical; Stapp claims to follow von Neumann's orthodox interpretation. The debate remains open.
+Georgiev (2012) argues Stapp's model treats mind as using projection operators without having a wavefunction—a formal inconsistency. The objection is philosophical, not empirical; Stapp claims to follow von Neumann's orthodox interpretation. The debate [remains open](/concepts/process-1-specification-problem/).
 
 ### The Epiphenomenalist Alternative
 
