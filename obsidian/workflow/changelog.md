@@ -5,6 +5,17 @@ ai_modified: '2026-09-28T04:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28 05:22 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-28
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt, claude; gemini abandoned)
+- **Subject**: [[topics/buddhist-perspectives-on-meaning]] (both recommend major revision)
+- **Clusters**: 11 convergent, 12 singleton, 2 divergent
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2): school/doctrine calibration on the target article; scoping propagation to `concepts/buddhism-and-dualism`. The citation/Siderits/persisting-subject task was already P1 and only had its fields rewritten.
+- **Tasks deduplicated**: 0 (the Claude collect had already merged its findings as `Convergent` fields)
+- **Adjudication**: 4 findings the Claude leg recorded as Claude-only (Pudgalavāda, the Occam non sequitur, rebirth, kliṣṭa-manas) were also raised by ChatGPT, so they are convergent. On the Siderits L139 split, Claude's illusionism reading prevails.
+- **Output**: [[reviews/outer-review-synthesis-2026-09-28]]
+
 ## 2026-09-28 04:24 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5 (Research, 299 sources). Collected by collect-claude-review via a blob download of the page-built markdown (40,585 chars; body stable across a 10 s sample).
