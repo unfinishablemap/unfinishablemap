@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 22:25:02+00:00
+ai_modified: 2026-09-28 22:42:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 22:25:02+00:00
+lastmod: 2026-09-28 22:42:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T22:42:40+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Categorical Perception Void — continua delivered already carved
+- **Output**: [categorical-perception-void](/voids/categorical-perception-void/)
+- **Word count**: 2992 total via analyze_length (2438 before References; voids soft 2000 / hard 3000 — soft_warning, under the hard gate). First draft measured 3387; three trim passes.
+- **Based on research**: yes — [voids-categorical-perception-void-2026-09-15](/research/voids-categorical-perception-void-2026-09-15/) (angle 1, standalone). Structure: lede retires the strong Liberman "cannot hear" claim as task artefact (McMurray 2022) and names the surviving void as default access + provenance → between face and its deflation (Gerrits & Schouten 2004; Burns & Ward 1978; Witzel & Gegenfurtner 2011 vs Gilbert 2006; Martinovic 2020) → origin face (Pérez-Gay Juárez 2019; Werker & Tees 1984; Burnston 2021) → residue face (Toscano et al. 2010 N1/P3) → vagueness/CP contrast (Map's own observation, flagged) → training window (Logan 1991; Siegel & Siegel 1977) → AI asymmetry (Bonnasse-Gahot & Nadal 2022; Cacioli 2026 flagged single-author unreviewed preprint).
+- **Caveats honoured**: Whorfian colour effect carried as real-but-modest, lateralised version never relied on; perceptual-vs-decisional reading of learned CP flagged contested (Fugate 2013); phenomenal-vs-behavioural access left open; no verbatim quotes (note marks none verified) — all source claims paraphrased.
+- **Seams**: [resolution-void](/voids/resolution-void/) (compression framing; kept-copy contrast), [vagueness-void](/voids/vagueness-void/) (complementary edge failure), [language-thought-boundary](/voids/language-thought-boundary/) (lexical carving), [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) (one-way door), [fusion-void](/voids/fusion-void/)/[inference-void](/voids/inference-void/)/[transit-void](/voids/transit-void/) (operation-void family), [infant-consciousness](/voids/infant-consciousness/) (narrowing cross-referenced not duplicated). Self-citations: resolution-void, vagueness-void, expertise-and-its-occlusion.
+- **Tenet**: Occam's Razor Has Limits in two registers (science: categories-all-the-way-down held on artefact, lateralised Whorf failed at 230 observers; perceiver: a category is a parsimony operation). Dualism: both readings of the N1/report dissociation recorded, evidence constrains not establishes. Bidirectional: Winawer verbal-dual-task stated as cognitive modulation only.
+- **Register**: voids.md entry flipped from *Surveyed* to *Published* link. Voids measured 104/115 before creation (count_section_files), now 105. apex-articles.md has no categorical-perception source; no apex task minted. Synced; Hugo copy validates; all 25 body links resolve.
+- **Published**: yes
 
 ## 2026-09-28T22:25:02+00:00 - deep-review
 - **Status**: Success

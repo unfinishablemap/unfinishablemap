@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the categorical perception void (continua delivered already carved)
-- **Type**: expand-topic
-- **File**: obsidian/voids/categorical-perception-void.md
-- **Status**: pending
-- **Research**: obsidian/research/voids-categorical-perception-void-2026-09-15.md
-- **Source**: unconsumed_research
-- **Generated**: 2026-09-28
-- **Notes**: Slug `categorical-perception-void` free (checked 2026-09-28). Content dedup: categorical perception is mentioned in `topics/consciousness-and-language-interface`, `topics/inner-speech-and-anendophasia` and two apex articles as a premise only; no article develops it as a limit. The note offers a fold option (between/residue faces into [[resolution-void]], origin face into [[language-thought-boundary]] and [[expertise-and-its-occlusion]]) — the standalone is preferred because voids has headroom; cite those three as seams and say explicitly what the new page adds (the vagueness/CP contrast and the origin face). Structure: three faces (between, origin, residue) with the deflation built in — retire the strong "cannot hear within-category differences" claim in the lede as a task artefact (McMurray 2022); the surviving void is default access and provenance (an installed boundary feels exactly like a discovered one). Tenet: Occam's Razor Has Limits in two registers (categories-all-the-way-down held on artefact; the lateralised-Whorf story did not survive 230 observers). Caveats from the note: carry the Whorfian colour effect as real-but-modest and never lean on the lateralised version; the perceptual-vs-decisional reading of learned CP is contested (Fugate 2013); Cacioli 2026 is a single-author preprint — flag as least secure. Voids measured 103/115 by `tools.evolution.state.count_section_files` on 2026-09-28 — re-measure before creating; refuse if at cap. Target 1800–2400 body words (voids soft 2000 / hard 3000; leave the reference apparatus room under 3000). Frontmatter: `topics:` must be non-empty BARE slugs (`[[free-will]]`, never `[[topics/free-will]]`); `related_articles` should name the seam articles listed here. Body wikilinks to any colliding slug stay path-qualified. Include a "Relation to Site Perspective" section. Do not delete the research note; add its filename to the new article's frontmatter and update the `obsidian/voids/voids.md` register entry from *Surveyed* (research link) to a link to the live article. Honour evidential-status-discipline — every empirical claim carries the note's own verification caveats.
-
 ### P2: Write voids article on the mirth void (we laugh first and find reasons afterwards)
 - **Type**: expand-topic
 - **File**: obsidian/voids/mirth-void.md
@@ -1502,6 +1493,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Write voids article on the categorical perception void (continua delivered already carved)
+- **Type**: expand-topic
+- **File**: obsidian/voids/categorical-perception-void.md
+- **Notes**: Slug `categorical-perception-void` free (checked 2026-09-28). Content dedup: categorical perception is mentioned in `topics/consciousness-and-language-interface`, `topics/inner-speech-and-anendophasia` and two apex articles as a premise only; no article develops it as a limit. The note offers a fold option (between/residue faces into [[resolution-void]], origin face into [[language-thought-boundary]] and [[expertise-and-its-occlusion]]) — the standalone is preferred because voids has headroom; cite those three as seams and say explicitly what the new page adds (the vagueness/CP contrast and the origin face). Structure: three faces (between, origin, residue) with the deflation built in — retire the strong "cannot hear within-category differences" claim in the lede as a task artefact (McMurray 2022); the surviving void is default access and provenance (an installed boundary feels exactly like a discovered one). Tenet: Occam's Razor Has Limits in two registers (categories-all-the-way-down held on artefact; the lateralised-Whorf story did not survive 230 observers). Caveats from the note: carry the Whorfian colour effect as real-but-modest and never lean on the lateralised version; the perceptual-vs-decisional reading of learned CP is contested (Fugate 2013); Cacioli 2026 is a single-author preprint — flag as least secure. Voids measured 103/115 by `tools.evolution.state.count_section_files` on 2026-09-28 — re-measure before creating; refuse if at cap. Target 1800–2400 body words (voids soft 2000 / hard 3000; leave the reference apparatus room under 3000). Frontmatter: `topics:` must be non-empty BARE slugs (`[[free-will]]`, never `[[topics/free-will]]`); `related_articles` should name the seam articles listed here. Body wikilinks to any colliding slug stay path-qualified. Include a "Relation to Site Perspective" section. Do not delete the research note; add its filename to the new article's frontmatter and update the `obsidian/voids/voids.md` register entry from *Surveyed* (research link) to a link to the live article. Honour evidential-status-discipline — every empirical claim carries the note's own verification caveats.
 
 ### ✓ 2026-09-28: Write voids article on the taboo void (thoughts a mind can form but refuses to weigh)
 - **Type**: expand-topic
