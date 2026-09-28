@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-28 02:50 UTC - deep-review
+- **Status**: Success
+- **File**: [time-bias-and-thank-goodness-thats-over](/topics/time-bias-and-thank-goodness-thats-over/)
+- **Word count**: 2409 → 2546 (+137)
+- **Critical issues addressed**: 3 (Maclaurin first name John→James; Hare 2007 parity/stance claims corrected against author PDF; Hare's shrinking-block caution added to calibrate the growing-block/future-bias claim)
+- **Medium issues addressed**: 1 (Suhler name normalised)
+- **Enhancements made**: 1
+- **Engagements**: Mellor/MacBeath: Mode Three (open, boundary-marked); Maclaurin-Dyke/Suhler-Callender: Mode One via Pearson (explains the wrong asymmetry); Everettians: Mode Three
+- **Citations**: 12/12 web-verified; Prior, Parfit, Pearson 2018a and Greene-Sullivan quotes confirmed in raw sources
+- **Output**: [deep-review-2026-09-28-time-bias-and-thank-goodness-thats-over](/reviews/deep-review-2026-09-28-time-bias-and-thank-goodness-thats-over/)
+
 ## 2026-09-28T01:22:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [agent-causation](/concepts/agent-causation/)

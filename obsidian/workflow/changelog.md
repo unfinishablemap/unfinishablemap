@@ -5,6 +5,15 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28 02:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/evolution-under-dualism]]
+- **Original score**: 7/10 (curate.py absent; editor judgement)
+- **Word count**: 3337 → 3600 (+263; analyze_length, topics hard 4000)
+- **Changes**: (a) "Brains are not consciousness generators; they are consciousness receivers" requalified as the Map's *provisional* preference for coupling over generation, argument said to hold either way (consistent with agent-teleology commit 56f61009); added a ~150-word `### Generation: The Alternative the Interface Models Set Aside` subsection (Hasker, via [[emergent-dualism]]) kept outside the three-model taxonomy so inbound anchor `#three-models-what-evolves` references ("the Map commits to none of the three") stay accurate; paid partly by trimming the functionalist-bedrock paragraph and the working-memory digression. (b) No Many Worlds tenet paragraph rewritten from "unbiased branch also exists, making biasing irrelevant" to branch-local selection granted / global exclusion as a [[tenets/background-commitments|posit]], framework boundary (template: biological-teleology L118, agent-teleology L126; links [[diverging-worlds-everettianism]]). (c) "convergently evolved but structurally similar interfaces (corvid and primate forebrains)" reconciled with cetacean-and-corvid-consciousness: gross architecture differs (nuclear clusters vs cortical layers) while circuit-level cortex-like columns converge; cited Stacho et al. 2020 *Science* 369(6511) eabc5534, verified at Crossref + OpenAlex abstract ("iteratively repeated, column-like neuronal circuitry across the layer-like nuclear boundaries"); linked [[cetacean-and-corvid-consciousness]]. (d) "agent teleology" piped to [[agent-teleology]]. Added Hasker 1999 and Stacho 2020 to References; related_articles += agent-teleology, emergent-dualism, cetacean-and-corvid-consciousness.
+- **Engagement classification**: functionalist reply: Mixed (Mode Two unsupported identity move, then Mode Three boundary); Everettian: Mode Three (global exclusion as posit).
+- **Published**: yes (sync run)
+
 ## 2026-09-28 02:50 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/time-bias-and-thank-goodness-thats-over]]

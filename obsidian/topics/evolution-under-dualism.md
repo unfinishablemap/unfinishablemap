@@ -2,9 +2,9 @@
 title: "Evolution Under Dualism"
 description: "Natural selection works the same whether physicalism or dualism is true—but dualism changes what evolution means. Three models of what 'evolves' yield different predictions about animal minds and human uniqueness."
 created: 2026-02-12
-modified: 2026-03-14
+modified: 2026-09-28
 human_modified:
-ai_modified: 2026-06-13T19:02:11+00:00
+ai_modified: 2026-09-28T02:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,12 +32,15 @@ related_articles:
   - "[[animal-consciousness]]"
   - "[[quantum-biology-and-neural-consciousness]]"
   - "[[biological-teleology-and-the-interface-framework]]"
+  - "[[agent-teleology]]"
+  - "[[emergent-dualism]]"
+  - "[[cetacean-and-corvid-consciousness]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness threshold in cognitive evolution]]"
   - "[[comparative-consciousness-and-interface-differences]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-02-12
 last_curated:
 last_deep_review: 2026-06-20T00:00:00+00:00
@@ -47,7 +50,7 @@ coalesced_from:
 
 If dualism is true, does evolution still work? The short answer is yes—natural selection operates on physical organisms regardless of whether consciousness is reducible to matter. But the longer answer reveals something more interesting: dualism changes what evolution *means*. Under physicalism, evolution is the complete story of life, including mind. Under dualism, evolution is the story of how matter organised itself into systems capable of interfacing with something beyond matter. The Unfinishable Map holds that this reframing offers a perspective on several persistent puzzles about purpose, teleology, and biological design—without requiring any modification to evolutionary biology itself.
 
-The phrase "evolution of consciousness" also conceals a deeper ambiguity. If consciousness is not physical, what exactly evolves? Does consciousness itself have a history, or does only the physical interface change while consciousness remains a fixed domain? This article examines what happens to evolutionary theory when dualism is assumed, and distinguishes three models of what "evolution of consciousness" can mean.
+The phrase "evolution of consciousness" also conceals a deeper ambiguity. If consciousness is not physical, what exactly evolves? Does consciousness itself have a history, or does only the physical interface change while consciousness remains a fixed domain? This article examines what happens to evolutionary theory when dualism is assumed, and distinguishes three interface models of what "evolution of consciousness" can mean, alongside the generation alternative they set aside.
 
 ## Evolution Needs No Revision
 
@@ -59,7 +62,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 ## What Dualism Adds: The Interface Story
 
-If consciousness is not produced by matter but *interfaces* with it through neural architecture, the [[evolution-of-consciousness|evolution of consciousness]] becomes the evolution of interfaces. Brains are not consciousness generators; they are consciousness receivers, shapers, and channels. What evolved was not experience itself but increasingly sophisticated physical structures through which experience could engage with the material world.
+If consciousness is not produced by matter but *interfaces* with it through neural architecture, the [[evolution-of-consciousness|evolution of consciousness]] becomes the evolution of interfaces. On the Map's provisional preference for coupling over generation, brains are consciousness receivers, shapers, and channels rather than generators; the Map holds this tentatively, and the evolutionary argument below holds on either reading (see the [generation alternative](#generation-the-alternative-the-interface-models-set-aside)). What evolved was not experience itself but increasingly sophisticated physical structures through which experience could engage with the material world.
 
 This reframing carries consequences. Under physicalism, the complexity of human consciousness is explained entirely by neural complexity—more neurons, more connections, more processing power yields richer experience. Under dualism, neural complexity explains the richness of the *interface* but not the existence of what interfaces through it. The [[filter-theory|filter/transmission model]] of consciousness captures this: a radio's complexity determines what signals it can receive and how clearly it reproduces them; it does not create the broadcast.
 
@@ -97,21 +100,25 @@ Alfred North Whitehead's concept of "concrescence"—the becoming-definite of ea
 
 The unfolding model predicts that truly novel forms of consciousness could emerge from genuinely new interface architectures, rather than merely accessing more of a pre-existing domain. The difficulty is translating "unfolding" and "concrescence" into testable claims. The model is philosophically rich but empirically elusive.
 
+### Generation: The Alternative the Interface Models Set Aside
+
+All three models above assume coupling: consciousness is something brains engage rather than bring into being. A dualist need not assume this. On William Hasker's [[emergent-dualism|emergent dualism]], a unified conscious subject is a genuinely new non-physical substance *generated by* the brain once its organisation is complex enough, yet able to act back on it, as a field acts on the magnet that produces it. Evolution then produces the subject itself, not merely an interface to a pre-existing domain. Generation keeps what matters here: irreducibility, downward causation, fitness contribution, and hence selection pressure on the structures that generate a causally effective mind. The Map prefers coupling, provisionally, because generation makes consciousness ontologically downstream of the brain; but the selection argument, the teleology argument, and the tenet connections below survive on the generation reading.
+
 ### What the Models Share
 
 Despite their differences, all three models share commitments that distinguish dualist evolutionary accounts from materialist ones. Evolution explains the interface, not the experience. Consciousness contributes to fitness on all three accounts. And the interface can be selected for—neural architectures that support richer consciousness-matter interaction confer fitness advantages.
 
 All three models also predict that [[philosophical-zombies|philosophical zombies]] are nomologically impossible—provided the [[psychophysical-laws|psychophysical laws]] linking interface configurations to conscious states hold as genuine laws. Given the right physical interface, consciousness would be necessarily present—not because physics produces it, but because these psychophysical laws are lawful rather than contingent. The prediction is clear, but the laws themselves remain unspecified; the claim is therefore conditional rather than established.
 
-Where the models diverge is empirically approachable. Is animal consciousness qualitatively or quantitatively different from ours? The fixed-domain model predicts quantitative difference; co-evolution predicts qualitative difference; unfolding predicts something harder to categorise. Could a radically different physical system support the same consciousness? The fixed-domain model says yes; co-evolution says no; unfolding says the question is ill-formed. Comparative neuroscience may eventually distinguish these: if two species with convergently evolved but structurally similar interfaces (such as corvid and primate forebrains) show evidence of similar conscious capacities, that would favour the fixed-domain model. As things stand, the comparative evidence is underdetermined by the data—it does not decide between the three models, all of which remain consistent with present findings. The Map does not commit to a single model—each captures something important about how dualism relates to evolutionary biology.
+Where the models diverge is empirically approachable. Is animal consciousness qualitatively or quantitatively different from ours? The fixed-domain model predicts quantitative difference; co-evolution predicts qualitative difference; unfolding predicts something harder to categorise. Could a radically different physical system support the same consciousness? The fixed-domain model says yes; co-evolution says no; unfolding says the question is ill-formed. Comparative neuroscience may eventually distinguish these: if lineages whose forebrains evolved separately and differ in gross organisation (such as corvid and primate forebrains) show similar conscious capacities, that would favour the fixed-domain model. The case is suggestive rather than clean: the corvid pallium is built of nuclear clusters rather than cortical layers, yet tracing work finds a column-like, cortex-like canonical circuit running across those nuclear boundaries (Stacho et al., 2020), so the lineages converge at circuit level while diverging in gross architecture (see [[cetacean-and-corvid-consciousness]]). As things stand, the comparative evidence is underdetermined by the data—it does not decide between the three models, all of which remain consistent with present findings. The Map does not commit to a single model—each captures something important about how dualism relates to evolutionary biology.
 
 ## Teleology Without Design
 
 Evolutionary biology eliminated teleology from life science. Before Darwin, biological complexity seemed to require a designer. After Darwin, apparent design could be explained by the accumulation of small, unguided variations filtered by selection. Purpose was replaced by function, and function was explained mechanistically.
 
-Dualism reintroduces a limited form of teleology without invoking a designer. If consciousness is irreducible and causally efficacious, then conscious organisms act *for reasons*—genuinely, not merely in the "as if" sense that functionalists allow. A gazelle flees a lion because it fears death, and that fear—as a conscious state—causally contributes to the fleeing. This is agent teleology: conscious beings introduce genuine purpose into a universe that otherwise operates mechanistically.
+Dualism reintroduces a limited form of teleology without invoking a designer. If consciousness is irreducible and causally efficacious, then conscious organisms act *for reasons*—genuinely, not merely in the "as if" sense that functionalists allow. A gazelle flees a lion because it fears death, and that fear—as a conscious state—causally contributes to the fleeing. This is [[agent-teleology|agent teleology]]: conscious beings introduce genuine purpose into a universe that otherwise operates mechanistically.
 
-Under physicalism, even agent teleology reduces to mechanism. The gazelle's fear is identical to neural firing patterns, fully explained by prior physical states. Sophisticated functionalists answer that purposes are nonetheless "real patterns"—objective regularities a third-person science can track. The functionalist owes one further step here that the framework tends to skip: the move from "the purpose is a real pattern detectable from outside" to "the real pattern *exhausts* what the purpose is" helps itself to the identity without arguing why the third-person description leaves no remainder. Naming that gap is fair within functionalism's own commitment to mechanistic specification. Whether the remainder is genuine—whether there is a felt purposiveness the pattern omits—is where the Map and the functionalist reach bedrock: the Map holds that purpose experienced from the inside is a further fact, and this claim runs counter to functionalism's foundational commitments and is honestly noted as such, not settled inside functionalism's own terms. On the Map's side of that boundary, conscious intention influences physical outcomes through the quantum interface the Map proposes, making [[agent-causation|agency]] a fundamental feature of certain biological systems rather than an emergent approximation.
+Under physicalism, even agent teleology reduces to mechanism. The gazelle's fear is identical to neural firing patterns, fully explained by prior physical states. Sophisticated functionalists answer that purposes are nonetheless "real patterns"—objective regularities a third-person science can track. But the move from "the purpose is a real pattern detectable from outside" to "the real pattern *exhausts* what the purpose is" helps itself to the identity without arguing why the third-person description leaves no remainder. Whether there is a felt purposiveness the pattern omits is where the Map and the functionalist reach bedrock: the Map holds that purpose experienced from the inside is a further fact, a claim that runs counter to functionalism's foundational commitments and is noted as such, not settled on functionalism's own terms. On the Map's side of that boundary, conscious intention influences physical outcomes through the quantum interface the Map proposes, making [[agent-causation|agency]] a fundamental feature of certain biological systems rather than an emergent approximation.
 
 The [[biological-teleology-and-the-interface-framework|biological teleology article]] develops this further, showing how the interface framework specifies *where* the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency. This distinction matters for how we understand evolution's products—and [[consciousness-evolution-and-biology|philosophy of biology's]] own conceptual categories each reveal it differently. Physicalism says evolution produced sophisticated machines whose behaviour we describe purposively. Dualism says evolution produced the physical conditions under which genuine purpose could enter the natural world. The implications extend to [[topics/free-will|free will]]: if evolution selected for genuine purpose-directed action, it selected for the capacity to act for reasons—the core of libertarian agency.
 
@@ -125,7 +132,7 @@ What would selection for interface quality look like? Several features of brain 
 
 **Attentional systems**: The [[attention-as-interface|attention-as-interface]] hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds are consistent with selection for richer conscious access to neural content. Computational accounts explain attentional complexity in terms of information processing demands, and the interface hypothesis does not predict features that those accounts cannot also accommodate—but the sophistication of attention is what both accounts would expect if consciousness plays a functional role.
 
-**[[working-memory|Working memory]] and conscious access**: If working memory depends on conscious access, as [[global-workspace-theory|Global Workspace Theory]] proposes, then any lineage-specific change in working-memory organisation would be a change in interface capacity on the dualist reading. It is tempting to anchor this in a clean human-versus-ape ranking of working-memory capacity, but the comparative evidence does not cooperate. Rapid-recall paradigms have at times shown chimpanzees *matching or outperforming* human adults rather than trailing them, and the apparent species gaps proved sensitive to training history rather than to a fixed capacity ceiling—so the cross-species ordering is contested and underdetermined rather than settled. The honest claim is narrower: working memory is a plausible *locus* where interface capacity and conscious access meet, not a domain where a demonstrated human advantage can be read off as interface expansion.
+**[[working-memory|Working memory]] and conscious access**: If working memory depends on conscious access, as [[global-workspace-theory|Global Workspace Theory]] proposes, then any lineage-specific change in working-memory organisation would be a change in interface capacity on the dualist reading. A clean human-versus-ape capacity ranking is not available to anchor this: rapid-recall paradigms have at times shown chimpanzees *matching or outperforming* human adults, and apparent species gaps proved sensitive to training history, so the cross-species ordering is contested. The honest claim is narrower: working memory is a plausible *locus* where interface capacity and conscious access meet, not a domain where a demonstrated human advantage can be read off as interface expansion.
 
 These suggestions are speculative, and the interface selection argument depends on mental causation being established on independent grounds—without that foundation, the distinctive selection pressure the argument describes does not arise. The Map does not claim that interface selection has been demonstrated—only that dualism predicts a category of selection pressure that physicalism does not, and that some features of brain evolution are consistent with it.
 
@@ -157,7 +164,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Without bidirectional interaction, dualism would be epiphenomenal, and the evolutionary story would reduce to "brains evolved and consciousness tagged along." The co-evolution model depends directly on bidirectional interaction for its feedback loop. The causal efficacy of consciousness—its genuine contribution to fitness—is what makes the interface story evolutionarily meaningful.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Real collapse is essential to the evolutionary narrative. Under Many Worlds, the unbiased branch also exists, making consciousness's biasing irrelevant to the total outcome. Single outcomes preserve both the significance of the actual evolutionary path and the causal contribution of consciousness to it.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The objection branching raises is narrower than "consciousness's biasing changes nothing." An Everettian can grant everything this article claims branch-locally: consciousness biases outcomes within a branch, differential reproduction is a fact about that branch, and selection on interfaces runs unchanged along it. What branching denies is that the unbiased outcome was genuinely excluded rather than realised in a counterpart branch. The Map's claim that a single evolutionary path is actual, with alternatives globally nonactual, is a [[tenets/background-commitments|posit the Map adopts]] rather than a result the evolutionary argument delivers (compare [[diverging-worlds-everettianism]]), and the disagreement sits at the framework boundary.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The physicalist evolutionary story appears simpler—consciousness is neural computation, no interface required. But the consciousness-evolution problem, the hard problem, and the explanatory gap all suggest that the simpler story omits something real. Dualism's additional ontological commitment purchases explanatory resources the physicalist account lacks.
 
@@ -184,6 +191,8 @@ None of these would refute dualism itself. They would undermine the specific evo
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Darwin, C. (1859). *On the Origin of Species*. John Murray.
 1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
+1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
+1. Stacho, M., Herold, C., Rook, N., Wagner, H., Axer, M., Amunts, K., & Güntürkün, O. (2020). A cortex-like canonical circuit in the avian forebrain. *Science*, 369(6511), eabc5534. https://doi.org/10.1126/science.abc5534
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-six, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-19). Evolution of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/evolution-of-consciousness/

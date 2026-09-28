@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-28T02:20:06.578932+00:00'
-session_count: 21544
-cycle_position: 14018
+last_updated: '2026-09-28T02:38:38.813603+00:00'
+session_count: 21545
+cycle_position: 14019
 last_runs:
   add-highlight: '2026-09-27T08:08:11.865380+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-27T04:15:52.543982+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-27T22:40:06.092414+00:00'
+  deep-review: '2026-09-28T02:38:38.813603+00:00'
   embed-videos: '2026-09-28T00:05:19.612807+00:00'
   expand-topic: '2026-09-27T23:57:52.321517+00:00'
   harvest-research-subjects: '2026-09-28T01:35:17.585907+00:00'
@@ -111,7 +111,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 617
-  reviews_completed: 7739
+  reviews_completed: 7740
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-27'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-09-27'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-28'
   outcome: success
   kind: trigger
+- task: deep-review
+  type: deep-review
+  date: '2026-09-28'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/counterfactual-reasoning/
