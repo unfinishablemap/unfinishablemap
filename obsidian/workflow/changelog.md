@@ -1,9 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T13:38:28+00:00'
+ai_modified: '2026-09-28T14:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28 14:20 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/swampman]] (fresh create 2026-09-28, no prior review). All verbatim quotes grepped clean against Papineau 2001 (uh.edu PDF), Millikan 1996 (uconn PDF), OpenAlex abstracts; all nine DOIs verified at Crossref. Three High issues: "narrow content" verdict contradicts the perimeter `content-externalism` L46 draws; zombie fallback is nomologically impossible on the Map and irrelevant on Papineau's actual-world reading; Dretske 1996 "Absent Qualia" (the published argument that Swampman is NOT conscious) omitted along with six of eight pieces in the 1996 Mind & Language forum. Four Medium issues (positions-register placeholder, moderate-PIT qualification, Millikan unsupported-move, Tenet 3 standing link). One P2 refine-draft task queued.
+- **Output**: [[reviews/pessimistic-2026-09-28-swampman]]
 
 ## 2026-09-28 13:38 UTC - refine-draft
 - **Status**: Success

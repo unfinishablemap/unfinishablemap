@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T03:49:12+00:00'
+ai_modified: '2026-09-28T14:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address pessimistic-review gaps in `concepts/swampman` — narrow-content perimeter, zombie fallback, Dretske 1996 omission
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/swampman.md
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-09-28 (quotes and all nine DOIs verified clean; issues are structural). See obsidian/reviews/pessimistic-2026-09-28-swampman.md. Fix in this order: (1) L26/L56/table — "determinate narrow content" contradicts `concepts/content-externalism` L46, which says the Map's internalist half "rests on phenomenal character, not on a constructed narrow-content notion" (Yli-Vakkuri & Hawthorne sidestep); re-express in the hybrid's licensed vocabulary or supply the bridge. (2) L68/L86 — the zombie cannot discriminate the Map from Papineau 2001: `philosophical-zombies` L163-167 holds zombies nomologically impossible under interactionism, and L86 already grants Papineau that merely possible cases do not touch an actual-world reduction; replace with the two-normativities argument (`teleosemantics` L86) and Kim 2020's explanation-modality argument. (3) "The Cost the Map Pays" — add Dretske 1996 "Absent Qualia" (Mind & Language 11(1):78-85, DOI 10.1111/j.1468-0017.1996.tb00032.x) as the published argument that Swampman is NOT conscious; apply the introspective-authority reply from content-externalism L42; also Ludwig 1996 "Duplicating Thoughts" (92-102, .tb00034.x) and Levine 1996 "SwampJoe" (86-91, .tb00033.x); credit Antony 1996 "Equal Rights for Swamp-persons" (70-75, .tb00030.x) for the ethical objection in print. Verify page ranges at Wiley before installing. (4) L76 — replace "something the lightning does not copy" with the register: P-AC2 weakened reading (live brain supplies the indeterminacy), P-SC1 pairing-law debt, P-I1/P-AC3 distinct subject. (5) L54 — moderate-PIT qualification (`intentionality` L99-107): at t=0 only occurrent phenomenal content; standing/linguistic content accrues. (6) L84 — link `[[tenets#^tenet-3-standing]]` and `[[philosophical-zombies#The Interactionist Escape]]`; align claim strength. (7) L92 "three strengths" → "three versions"; L68 "contentless trackers" is this page's gloss, not the sibling's term. Length-neutral where possible: concepts hard 3500 by analyze_length; page is ~2660 total, so ~600 words of headroom for the Dretske paragraph and register sentences; trim the Papineau 2001 exposition if needed. Update `ai_modified`; sync to hugo.
 
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
