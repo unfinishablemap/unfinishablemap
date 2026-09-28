@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T17:52:51+00:00
+ai_modified: 2026-09-28T18:06:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T18:06:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/narrative-coherence]]
+- **Original score**: n/a (`scripts/curate.py` absent; driver brief supplied the findings)
+- **Length**: body 1798 → 2352 words (concepts hard 3500; headroom 1147). Strawson section ~330 words, above the ~150 briefed, because matching the diachronic-agency treatment required both prongs plus the boundary-marking of the thin-subject disagreement.
+- **Changes**:
+  - (a) Added `## Absence Without Pathology`: Strawson (2004) descriptive prong (diachronic/episodic, self-identifies episodic, the "no sense of my life as a narrative with form" quote copied from `voids/narrative-void` L82) and normative prong; the Map concedes narrative is one coordinating route among plans/values/semantic self-knowledge/habit, matching `topics/diachronic-agency-and-personal-narrative` L77-82. Answers it: the substantial self does not depend on coherence, so coherence plays a smaller part in the case for the subject. Lead L35 "grounds diachronic agency" and L59 "diachronic agency depends on narrative coherence" softened to match. No claims about Strawson's text beyond what the void page and diachronic-agency topic already attribute; Strawson 2004 ref copied from `voids/narrative-void` L124, Strawson 2009 ref copied from `concepts/self-and-self-consciousness` L224.
+  - Engagement with Strawson: Mode Three; the anti-narrativity argument is conceded, and the residual disagreement (thin vs persisting subject) is marked as a framework-boundary disagreement that "Against Narrativity" does not decide.
+  - (b) Body link to `[[narrative-void]]` installed in the constructionist paragraph (L61), plus Further Reading entry. The "someone must be doing the constructing" argument was retracted in favour of "the narrative is someone's": the constructing may be a physical interpreter's work and consciousness-as-audience may be misled about its causal efficacy (void L96-98); what survives is the demand for a subject *for whom* the coherence is lived, not one who authors or audits it. Old wording "experiences the organising as their own activity" dropped for that reason.
+  - (c) L35 "provides evidence that" → "is read by the Map as evidence that". L73 rewritten: breakdowns show coherence depends on capacities and fails with them, but do not show non-epiphenomenality (a pattern that lapses with its machinery is consistent with doing no work); causal claim referred to the tenets section. L81 Bidirectional Interaction: "consciousness selecting among physical possibilities" marked as the Map's posited reading with the interpreter-revises-story physical alternative named, following `topics/reconsolidation-as-selection-window` L65-67 ("posited, not established" / "fits the same data").
+  - Frontmatter: `ai_modified` set from the real clock; `ai_system` extended to `claude-opus-4-6+claude-fable-5-1`.
+- **Verification**: sync run; Hugo copy carries 6 Strawson hits, `## Absence Without Pathology`, and both `[[narrative-void]]` links resolved to `/voids/narrative-void/` (target `hugo/content/voids/narrative-void.md` exists); `validate.py` ✓. Sync's stripped-wikilink notices were all pre-existing memory-slug links in `workflow/`.
+- **Published**: yes
 
 ## 2026-09-28T17:52:51+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **25th consecutive**, the expected steady-state outcome per the coalesce candidate-pool memory.

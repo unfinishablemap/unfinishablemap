@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 17:26:20+00:00
+ai_modified: 2026-09-28 17:52:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 17:26:20+00:00
+lastmod: 2026-09-28 17:52:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T17:52:51+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **25th consecutive**, the expected steady-state outcome per the coalesce candidate-pool memory.
+- **Cap state** (live, `tools.evolution.state.count_section_files`): topics 334/360 (92.8%), concepts 335/360 (93.1%), voids 103/115 (89.6%), positions 23/80. **Concepts has overtaken topics as the most-pressured section** since the 09:07 run (332 → 335: `process-1-specification-problem`, `pudgalavada`, `swampman` created today), so this run searched concepts-first.
+- **Age-floor crossers in concepts: none.** Nine concepts were created in the last 5 days (all age-blocked until 10-01 to 10-05); nothing was created between 09-14 and 09-22, so no article entered the eligible pool today. A same-method re-run of the 09-2x screens would be pure re-litigation, so this run took two directions not previously recorded.
+- **Full pairwise arithmetic reproduced** (sidecars filtered FIRST, `count_words` on the parsed body, pair fits if w1+w2 ≤ hard−1, 7-day floor on `created`/`ai_modified`/`human_modified`):
+  | section | n | fitting pairs | fitting & age-eligible |
+  |---|---|---|---|
+  | topics (ceiling 3999) | 333 | **0** of 55,278 | 0 |
+  | concepts (ceiling 3499) | 335 | 207 of 55,945 | **141** |
+  | voids (ceiling 2999) | 103 | **0** of 5,253 | 0 |
+  ❗ **Topics is now arithmetically dead outright, joining voids.** The 09-19/09-20 measurements found exactly 2 fitting topics pairs, both requiring `the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question` at 1897w; the 09-20 deep-review (`3b1de75fd0`) grew it to 2196w and both pairs vanished. The smallest live topic is now 1990w (`presentiment-and-retrocausality`, age-blocked) and the smallest two eligible sum to 4291 > 3999. This is the recession mechanism recorded in the 09-19 NEEDS-HUMAN entry, now complete for two of three sections.
+- **NEW SCREEN 1 — BIBLIOGRAPHIC COUPLING over the 141 eligible concepts pairs** (never previously run; the 09-04 screen measured *inbound co-citation by the corpus*, this measures *shared outbound literature*). Reference identity keyed on (surname, year) with a regex widened to cover `Surname (2019)`, `Surname, A. B. (2019)`, `Surname et al. 2019` and `Surname and Other (2019)` (first pass used one cite style and false-zeroed the numbered-list pages; re-run with the widened form). **Result: the only (surname, year) shared by ANY eligible fitting pair is the Map's own self-citation (`Southgate, 2026`).** No two concepts articles that could fit under the ceiling cite a single external work in common. The fitting pool is exactly the disconnected-narrow-jobs set the 09-19 entry described, now shown bibliographically as well as by wikilink.
+- **NEW SCREEN 2 — MUTUAL WIKILINK on the same 141 pairs.** Exactly **one** pair links to itself in both directions: `concepts/causal-powers` 2114w + `concepts/mind-arena` 1380w = **3494 vs ceiling 3499, five words of headroom** — infeasible in practice since merge framing alone exceeds that. Declined on role as well: `mind-arena` L69 states the dependency explicitly ("Its operative property—uncomputability from physical state—inherits from [causal-powers](/concepts/causal-powers/)") and L83 files causal-powers as "the source of the arena's unmodellability"; the arena is the *domain of outcomes*, causal-powers the *property that makes it unmodellable*. `mind-arena` also carries three `Versus` subsections (L55/57/59), sits under two NEEDS-HUMAN entries, and was certified methodologically distinct by the 2026-09-19 commitment-scoping wing review. DECLINE.
+- **Human-reserved candidates not preempted**: the HUMAN COALESCE DECISION (todo ~L2508) and 2026-06-21 HUMAN EDITORIAL DECISION (~L2534) blocks remain untouched; neither screened pair overlaps them.
+- **Thresholds printed live** (`tools/curate/length.py` THRESHOLDS): topics 3000/4000/6000, concepts 2500/3500/5000, voids 2000/3000/4000. All word counts via `count_words` on the frontmatter-stripped body.
+- **Standing conclusion**: six independent search directions (TF-IDF, length-first, shared ancestry, verbatim shingles, inbound co-citation, and now outbound bibliographic coupling + mutual linking) all return empty. Two of three sections are arithmetically dead; the third's fitting pairs share no literature and no links. Cap relief must come from `/archive`, `/condense` or a cap raise — see the open NEEDS-HUMAN cycle-allocation entry (todo L124).
+- **Next crossers, for the next run**: `concepts/the-relocation-objection` (created 09-23) crosses 09-30; `cognitive-penetration` 10-01; `seemings` 10-02; `empathy` 10-03; `diverging-worlds-everettianism`, `panprotopsychism` 10-04; `process-1-specification-problem`, `pudgalavada`, `swampman` 10-05. Topics crosser `time-bias-and-thank-goodness-thats-over` (10-04) remains the only topics movement and its pair fails arithmetic as recorded at 09:07.
+- **Sources / Target / Archived**: none. **Tasks minted**: none. **Sync**: not run (no content changed). **References to review**: none.
+
+## 2026-09-28T17:36:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mental-imagery](/concepts/mental-imagery/)
+- **Original score**: n/a (`scripts/curate.py` absent; task-scoped calibration pass)
+- **Changes**: (a) lead — "the causal chain runs" now carries "on the Map's reading" and the paragraph's closing hedge names the identity-theoretic redescription as the standoff set out below; (b) Relation to Site Perspective — "not epiphenomenal accompaniment — it reflects consciousness doing work" recast as the Map's reading and marked as the conclusion under dispute, with a piped `[[agency-void]]` link on "the felt effort cannot itself verify"; (c) Dualism tenet paragraph — irreducibility claim scoped to "where activation overlaps" and "supports" weakened to "is consistent with", with the Zeman connectivity and Dupont impaired-simulation findings noted as functional absorbers; (d) Broader Pattern — "unconscious processing — even the sophisticated cognition demonstrated by great apes" replaced by "cognition without metarepresentation … without substantial conscious contribution", matching `baseline-cognition` L53. L129 (aphantasia prediction) untouched. Length 3326 → 3404 body words (concepts hard 3500). Engagement with the identity theorist: Mode Three throughout — the article marks the framework-boundary standoff honestly rather than claiming in-framework refutation; edits (a)–(c) remove three places where the lead and tenet sections had silently upgraded that boundary-marking into a settled result.
+- **Published**: yes
 
 ## 2026-09-28 17:26 - deep-review
 - **Status**: Success
