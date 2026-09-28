@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28 03:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/fitness-beats-truth]]
+- **Original score**: 6/10 (the review tool `scripts/curate.py` is absent, so this is a manual score)
+- **Changes**: Checked against the source. Prakash et al. 2021 abstract is from Europe PMC; the theorem text is from the author preprint at sites.socsci.uci.edu/~ddhoff/FitnessBeatsTruth_apa_PBR; Hoffman et al. 2015 PBR full text is from Springer. (a) L29/L37 claimed "for all fitness functions... strictly dominates" and "equal or higher expected fitness". Both are now the published probabilistic statement: over all fitness functions and priors, P(Fitness-only strictly dominates Truth) >= (|X|-3)/(|X|-1), so the dominance is generic as |X| grows. The verbatim "will never be dominated by Truth" and "will generally result in a lower expected-fitness payoff" are added. (b) L39 "does not depend on the specific structure of the environment" is replaced by the source's own boundary, "veridical perceptions escape extinction only if fitness varies monotonically with truth" (2015 abstract). L85 "establish" becomes "make a strong case... subject to the contestation above". (c) Added a multiple-goals objection paragraph on Berke et al. 2022, *Cognitive Science* 46(10) e13195, read from its abstract on Crossref/Europe PMC. L77 now says the *strongly supported* tier applies to the formal result within its model and that transfer to real perceivers is contested. The tier itself is unchanged, so it stays consistent with naturally-occluded. QUOTE FIXES: the L31 quote "truer perceptions are routinely driven to extinction..." does not appear in Prakash 2021 (preprint grep: zero hits). It is replaced with a verbatim Hoffman et al. 2015 sentence. The L37 quote "depends not just on the state of objective reality, but also, and crucially..." was spliced; it is replaced with the verbatim 2015 wording. The L45 quote "systematically non-veridical in fitness-serving ways" is not in the 2015 paper and is now paraphrased without quote marks. Added Mark, Marion & Hoffman 2010 (JTB 266(4):504-515, Crossref-verified) and Berke 2022 to the references. Length is 2578 (hard limit 3500).
+- **Published**: yes
+
 ## 2026-09-28 02:52 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/evolution-under-dualism]]
