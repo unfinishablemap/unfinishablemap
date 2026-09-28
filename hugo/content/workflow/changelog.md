@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-28 05:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)
+- **Original score**: 6/10 (citation mismatches, Siderits misread both ways, permanence-only anattā)
+- **Changes**: (1) Thompson 2007 → *Why I Am Not a Buddhist* (2020, Yale); Forman (ed.) 1990 OUP added (Crossref DOI 10.1093/oso/9780195059809.001.0001, editor role confirmed); Garfield 1995 now cited at the Madhyamaka reading, Siderits 2007 at the aggregates paragraph (no orphans). (2) Siderits 2025 re-read at Support, falsifier (1) and Dualism: classical anti-physicalism conceded ("all the schools reject it in favor of either dualism or idealism", p. 5) and scoped to the Dualism tenet's negative claim only (not property dualism, interaction, or a persisting subject), per synthesis; his route is illusionism ("useful fiction"), judged "heterodox by all the classical Indian Buddhist philosophical schools" (p. 199), offered as "a reasonable option to consider" (Garfield, Tricycle, verified in raw page). Both page quotes verified via Google Books SearchWithinVolume2 with a zero-hit control; the reviewer's Yiannopoulos p. 187 wording NOT used (snippet begins mid-sentence; page is 199 in this edition). (3) New "The persisting subject" paragraph: SN 22.59 control/ownership argument (quotes verified at accesstoinsight, Ñāṇamoli), link to [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/), Pudgalavāda precedent (Coseru SEP §5.6; Kathāvatthu; AKBh ch. 9), first corpus mention. (4) Witness/sākṣin scoped as Advaita, sati as cetasika, reconciled with eastern-philosophy-consciousness L87. (5) L111 materialist tu quoque removed; "convergent across cultures" dropped (contradicted falsifier 2). (6) SN 12.46 error at No Many Worlds replaced with the dependent-origination middle (verified, Ṭhānissaro). (7) Occam non sequitur recalibrated. (8) vedanā→taṇhā rejoinder answered via SN 36.6 (verified), partial reply, residual doubt stated. (9) SEP refs given authors (Coseru 2012; Goodman 2024). DISPUTED reviewer claim: the SEP ethics entry's live h1 IS "Ethics in Indian Buddhism" (fetched 2026-09-28), not "…and Tibetan Buddhism"; title kept. Trims (process-philosophy clause, middle-way paragraph, existentialism, karma, falsifier prose) pay for most of the additions. Length 2993 → ~3330 (topics soft 3000 / hard 4000); ~670 words of headroom left for the sibling P1 calibration task. Not used: cittaja-rūpa/Paṭṭhāna lead (unverified).
+- **Engagement classification**: SN 22.59 control horn — in-framework reply (Map's subject claims constrained influence, not sovereignty); ownership horn — framework boundary, stated as near bedrock. vedanā→taṇhā — in-framework partial reply (SN 36.6) then boundary. Tu quoque — withdrawn (category slip). Siderits — boundary-marking retained (unrefuted countermodel).
+- **Published**: yes
+
+## 2026-09-28 05:22 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-28
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt, claude; gemini abandoned)
+- **Subject**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/) (both recommend major revision)
+- **Clusters**: 11 convergent, 12 singleton, 2 divergent
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2): school/doctrine calibration on the target article; scoping propagation to `concepts/buddhism-and-dualism`. The citation/Siderits/persisting-subject task was already P1 and only had its fields rewritten.
+- **Tasks deduplicated**: 0 (the Claude collect had already merged its findings as `Convergent` fields)
+- **Adjudication**: 4 findings the Claude leg recorded as Claude-only (Pudgalavāda, the Occam non sequitur, rebirth, kliṣṭa-manas) were also raised by ChatGPT, so they are convergent. On the Siderits L139 split, Claude's illusionism reading prevails.
+- **Output**: [outer-review-synthesis-2026-09-28](/reviews/outer-review-synthesis-2026-09-28/)
+
 ## 2026-09-28 04:24 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5 (Research, 299 sources). Collected by collect-claude-review via a blob download of the page-built markdown (40,585 chars; body stable across a 10 s sample).
