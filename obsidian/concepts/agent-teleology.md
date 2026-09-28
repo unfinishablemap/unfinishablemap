@@ -2,9 +2,9 @@
 title: "Agent Teleology"
 description: "Agent teleology is the view that conscious beings introduce genuine purpose into an otherwise mechanistic universe. A key concept for dualist accounts of action and evolution."
 created: 2026-02-16
-modified: 2026-02-20
+modified: 2026-09-28
 human_modified:
-ai_modified: 2026-08-24T08:20:24+00:00
+ai_modified: 2026-09-28T01:05:45+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -76,9 +76,9 @@ Whitehead's [[subjective-aim]] offers a [[process-philosophy|process-philosophic
 
 ## Agent Teleology and Evolution
 
-The relationship between agent teleology and evolution is developed in the Map's [[evolution-under-dualism]] article. The key insight: evolution eliminated cosmic teleology from biology but did not—and could not—eliminate agent teleology, because agent teleology enters nature through consciousness, which evolution produced but does not fully explain.
+The relationship between agent teleology and evolution is developed in the Map's [[evolution-under-dualism]] article. The key insight: evolution eliminated cosmic teleology from biology but did not—and could not—eliminate agent teleology, because agent teleology enters nature through consciousness, whose interfaces evolution shaped but whose existence it does not explain.
 
-Under physicalism, evolution is the complete story of mind: natural selection produced brains, and brains produced consciousness (somehow). Under dualism, evolution produced the physical structures through which consciousness interfaces with matter—increasingly sophisticated instruments, not generators of experience. Once those interfaces evolved, conscious agents began acting for reasons, introducing genuine purpose into a previously purposeless process.
+Under physicalism, evolution is the complete story of mind: natural selection produced brains, and brains produced consciousness (somehow). On the Map's reading, evolution produced the physical structures through which consciousness interfaces with matter—increasingly sophisticated instruments, not generators of experience. That is a provisional preference for coupling over generation, not a settled result: whether consciousness is an independent pole coupled to the brain or something neural complexity brings into being is a question the Map treats as open and resolves only tentatively in favour of coupling (see [[emergent-dualism|the comparison with Hasker's emergent dualism]]), and on the generation reading the rest of this section would still hold. Once those interfaces evolved, conscious agents began acting for reasons, introducing genuine purpose into a previously purposeless process.
 
 Evolution on the Map's account has no direction toward consciousness or greater purpose. Most lineages never develop rich consciousness. Where consciousness arises, purpose arises with it—a local enrichment of the causal landscape, not a cosmic trajectory.
 
@@ -90,7 +90,7 @@ The [[phenomenology-of-choice-and-volition|phenomenology of choice]] describes t
 
 Three features of this phenomenology deserve emphasis. First, *directedness*: purposive action leans toward a future not yet actual. The gazelle does not merely react to the lion; it orients toward survival as a state it is working to bring about. Second, *ownership*: purposes are experienced as genuinely one's own, not imposed by external causes. Third, *normativity*: purposive action carries a sense of what *ought* to result, not merely what will. The gazelle is oriented toward survival as what should happen, connecting purpose to [[evaluative-phenomenal-character|phenomenal normativity]]—the experience of value built into conscious states.
 
-Physicalists interpret this phenomenology as an illusion or redescription: it *feels* purposive, but the real explanation is mechanistic. The Map takes the phenomenology seriously. If purpose-directed action feels fundamentally different from passive reception, and if that phenomenological difference correlates with distinct neural signatures (frontal theta, bidirectional coherence, the 300ms voluntary deployment window described in [[agent-causation]]), the parsimonious interpretation is that something genuinely different is happening—not that appearance and reality diverge at precisely the point where consciousness reports its own activity.
+Physicalists interpret this phenomenology as an illusion or redescription: it *feels* purposive, but the real explanation is mechanistic. The Map takes the phenomenology seriously. Purpose-directed action feels different from passive reception, and there is some neural contrast to go with it: self-chosen visuospatial attention carries more frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019). That finding is scoped narrowly. It concerns chosen versus cued *spatial attention*, not movement, and it is a decision-load signature physicalism also predicts, as [[agent-causation]] notes. It shows that the phenomenological contrast tracks a real functional difference; it does not show that the difference is the one the Map proposes. What the Map resists is the further inference that appearance and reality diverge at precisely the point where consciousness reports its own activity—a resistance that rests on the case against epiphenomenal phenomenology rather than on any appeal to simplicity, which the Map holds unreliable here (see [[#relation-to-site-perspective|Relation to Site Perspective]]).
 
 ## What Agent Teleology Does Not Claim
 
@@ -111,7 +111,7 @@ Agent teleology is falsifiable. Key challenges that would undermine it:
 - **Dissolving the hard problem**: A compelling physicalist account of phenomenal consciousness would remove the motivation for treating purpose as irreducible. If "something it is like" reduces to function, then purpose reduces with it.
 - **Complete neural prediction**: If decisions could be predicted with perfect accuracy from prior brain states alone, no role for conscious selection would remain.
 - **Severing phenomenology from mechanism**: If the phenomenological markers of purposive action (effort, directedness, ownership) turned out not to correlate with any distinct neural or causal processes, the case for taking them as evidence of genuine teleology would weaken.
-- **Confirming Many Worlds**: If all quantum outcomes actualise in branching universes, conscious "selection" selects nothing—agent teleology would be vacuous.
+- **Confirming Many Worlds**: If all quantum outcomes actualise in branching universes, agent teleology survives only in weakened form: a choice would still make a branch-local difference, but the unchosen alternatives would be realised elsewhere rather than genuinely excluded (see the No Many Worlds paragraph below).
 
 ## Relation to Site Perspective
 
@@ -123,7 +123,7 @@ Agent teleology follows directly from the Map's tenets.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Agent teleology operates through the same channel as all mental causation—at quantum indeterminacies where physics is incomplete. This constrains purpose to the minimal influence necessary, preventing the concept from inflating into cosmic teleology or unconstrained teleological speculation.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Under Many Worlds, every physically possible quantum outcome actualises in some branch. Agent teleology would be vacuous because conscious "selection" selects nothing—all alternatives are equally real. Single-outcome collapse is required for purpose to make a causal difference.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Under Many Worlds, every physically possible quantum outcome actualises in some branch. The objection this raises is narrower than "selection selects nothing." An Everettian can grant an agent a branch-local history of having acted for a reason, its purposes standing in ordinary causal relations to its action and counterfactual control holding along the branch. What branching denies is that the unchosen alternative was genuinely rejected rather than routed to a counterpart. Agent teleology as the Map understands it requires that the unchosen be globally nonactual, and that is a [[tenets/background-commitments|posit the Map adopts]] rather than a result this concept delivers. The disagreement with the Everettian sits at the framework boundary: the Map's claim concerns global exclusion and the indexical identity of the agent who chose, not the branch-local causal efficacy of purpose, which many-worlds leaves intact.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The physicalist reduction of purpose to mechanism seems simpler. But if that reduction fails—if the explanatory gap between mechanism and purpose is genuine—then the apparent simplicity of purposeless mechanism conceals a real explanatory deficit.
 
@@ -153,5 +153,6 @@ Agent teleology follows directly from the Map's tenets.
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 1. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
 1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Swinburne, R. (1997). *The Evolution of the Soul*. Oxford University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

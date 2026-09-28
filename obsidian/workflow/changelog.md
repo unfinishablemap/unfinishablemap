@@ -5,6 +5,14 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T01:05:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-teleology]]
+- **Original score**: 7/10 (curate.py absent; manual review against task notes)
+- **Changes**: (a) Resolved generation/coupling inconsistency (old L79 "evolution produced" consciousness vs L81 "instruments, not generators"): L79 now says evolution shaped consciousness's interfaces; L81 names coupling as the Map's *provisional* preference with piped `[[emergent-dualism|...]]`, noting the section holds on the generation reading too. (b) Rewrote No Many Worlds paragraph (L126) and the Many Worlds challenge bullet (L114) on the biological-teleology L118 template: Everettian grants branch-local causal efficacy/counterfactual control; dispute is global exclusion of the unchosen (a `[[tenets/background-commitments|posit]]`) and indexical identity, marked as framework boundary. Consistent with diverging-worlds-everettianism / meaning-void edits. (c) Rescoped L93 neural evidence to match commit 3e228ba788 / agent-causation L146: Rajan et al. 2019 = chosen-vs-instructed spatial attention only, a decision-load signature physicalism also predicts, untested for movement; dropped "300ms voluntary deployment window" and "bidirectional coherence"; dropped the parsimony appeal (page's own Occam section says parsimony is unreliable). Added Rajan 2019 to References. Length 2307 -> 2613 (analyze_length; concepts hard 3500).
+- **Engagement classification**: Everettian: Mode Three (framework-boundary on the global-exclusion posit; branch-local efficacy conceded). Physicalist redescription of purposive phenomenology: Mode Three with the neural evidence downgraded to non-discriminating.
+- **Published**: yes
+
 ## 2026-09-28T00:52:30+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/steelmanning-as-method]]
