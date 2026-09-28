@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-09-14 22:36:49+00:00
+ai_modified: 2026-09-28 11:50:43.543027+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -15,10 +15,15 @@ description: 'The chemical senses press the explanatory gap where vision cannot:
   molecules that smell different, a non-Euclidean odor quality space, smell''s privileged
   route to memory and affect, and flavour as binding.'
 draft: false
+embedded_videos:
+- embedded: 2026-09-28 11:50:43.543027+00:00
+  id: uwBOgm8M6NQ
+  source: notebooklm/0145-01-chemosensory-consciousness-and-the-interface
+  url: https://www.youtube-nocookie.com/embed/uwBOgm8M6NQ
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-14 22:36:49+00:00
-lastmod: 2026-09-14 22:36:49+00:00
+lastmod: 2026-09-28 11:50:43.543027+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -35,6 +40,12 @@ topics:
 ---
 
 Philosophy of perception is overwhelmingly a philosophy of vision, and where it ventures beyond sight it has tended next to hearing. The chemical senses—smell and taste, integrated in flavour—are the most vision-unlike modalities, and that is exactly what makes them worth developing for the Map's [interface](/concepts/mind-matter-interface/) reading. This article is the chemosensory companion to [the auditory case](/topics/auditory-consciousness-and-the-interface/), filling another modality the Map's [treatment of perception](/topics/dualist-perception/) names but does not develop: it concedes that "perception extends across modalities—auditory, tactile, olfactory, gustatory." The chemical senses supply three kinds of evidence neither vision nor audition displays as cleanly: a perceived quality that is not read off the stimulus and has no spatial scaffolding at all (mirror-image molecules smell different; very different molecules can smell alike), a quality space with no smooth dimensional ordering to read off (odour space is high-dimensional, categorical, and best modelled as non-Euclidean), and a privileged, thalamus-bypassing route to memory and affect (the Proust phenomenon). Flavour adds a binding case without spatial layout. None of this, on the reading offered here, *settles* dualism over physicalism, which has a credible account of each. What the chemical senses do is press the [explanatory gap](/concepts/explanatory-gap/) in a register vision shaped no theory to expect, and they are where the Map's recurring [sommelier](/topics/consciousness-as-perceptual-architect/) finally finds a modality home.
+
+<details class="yt-embed" data-video-id="uwBOgm8M6NQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/uwBOgm8M6NQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Percept Is Not in the Molecule
 

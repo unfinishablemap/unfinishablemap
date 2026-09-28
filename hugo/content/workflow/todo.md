@@ -39,6 +39,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt retrocausality calibration in time-symmetric-selection-mechanism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/time-symmetric-selection-mechanism.md
+- **Notes**: From topic-concept anchoring audit 2026-09-28. The topic article over-claims relative to its anchor concept [retrocausality](/concepts/retrocausality/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.25/kw is below 1.92/kw (target = 60% of anchor 3.19/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-09-28
+
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1423,14 +1435,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: teleosemantics: L88 "two standing arguments" both link the same page (hard-problem-of-content was merged into the naturalisation-failure topic); Mann & Pain 2022 is referenced but never cited in the body, and its level-restriction reply applies to the Map's own two-normativities dissent (L86-90)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/teleosemantics.md
-- **Source**: optimistic-review 2026-09-27 (reviews/optimistic-2026-09-27-content-and-meaning-wing.md, Calibration concern 8; High Priority expansion 2; cross-links)
-- **Generated**: 2026-09-27
-- **Notes**: **Headroom 1002 words (concepts hard 3500; analyze_length 2497, status ok, 3 below soft).** File lines from 2026-09-27; re-grep. (a) **L88** rewrite to describe ONE standing argument (the HPC, housed at `[[the-naturalisation-failure-for-content]]`); this frees words. (b) Add ~200 words stating Mann & Pain's move at full strength against the Map's dissent: rational answerability is a *personal-level* desideratum, and teleosemantics owes only sub-personal correctness. Answer it (e.g., the split concedes that personal-level content is not naturalised, which is the Map's claim) or add it as a third honest limitation at L90. Mann & Pain 2022 is already reference L113 (doi:10.1080/09515089.2021.1942814); the naturalisation-failure page L95-97 characterises their argument, so check that the two pages' characterisations agree. (c) Optional cross-link to `[[content-vocabulary-as-derived-feature]]`. Keep the steelman discipline (L64) intact.
-
 ### P3: naturalisation-failure-for-content: L123 "content is constitutively conscious-mediated" does not say which content, and L125 reads Twin Earth as purely complementary although Twin-Oscar is a phenomenal duplicate; L121 infant "experiencing the mother as her mother" presents an illustration as fact
 - **Type**: refine-draft
 - **Status**: pending
@@ -1536,6 +1540,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: teleosemantics: L88 "two standing arguments" both link the same page (hard-problem-of-content was merged into the naturalisation-failure topic); Mann & Pain 2022 is referenced but never cited in the body, and its level-restriction reply applies to the Map's own two-normativities dissent (L86-90)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/teleosemantics.md
+- **Notes**: **Headroom 1002 words (concepts hard 3500; analyze_length 2497, status ok, 3 below soft).** File lines from 2026-09-27; re-grep. (a) **L88** rewrite to describe ONE standing argument (the HPC, housed at `[[the-naturalisation-failure-for-content]]`); this frees words. (b) Add ~200 words stating Mann & Pain's move at full strength against the Map's dissent: rational answerability is a *personal-level* desideratum, and teleosemantics owes only sub-personal correctness. Answer it (e.g., the split concedes that personal-level content is not naturalised, which is the Map's claim) or add it as a third honest limitation at L90. Mann & Pain 2022 is already reference L113 (doi:10.1080/09515089.2021.1942814); the naturalisation-failure page L95-97 characterises their argument, so check that the two pages' characterisations agree. (c) Optional cross-link to `[[content-vocabulary-as-derived-feature]]`. Keep the steelman discipline (L64) intact.
 
 ### ✓ 2026-09-28: voids/origin-of-consciousness: "Not emergence" listed as a settled negative (L93) with a mis-stated reason, against the Map's treatment of emergent dualism as a well-defended horn; the void links none of its evolution-wing siblings
 - **Type**: refine-draft

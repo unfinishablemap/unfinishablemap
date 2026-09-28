@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 11:36:00+00:00
+ai_modified: '2026-09-28T12:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 11:21:04+00:00
+lastmod: 2026-09-28 12:22:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T12:22:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 101 (every file in topics/concepts/positions/apex/voids/tenets with a commit since check 140, read in full; 4 new articles)
+- **Errors**: 8 new + 6 carried (all six check-140 ERRORs unminted and unrepaired)
+- **Warnings**: ~105 new loci across ~55 files, ~30 carried loci still live
+- **Notes**: ~90
+- **Output**: [tenet-check-2026-09-28](/reviews/tenet-check-2026-09-28/)
 
 ## 2026-09-28T11:36:00+00:00 - refine-draft
 - **Status**: Success
