@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-28T04:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T06:20:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/buddhism-and-dualism]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Propagated the 2026-09-28 convergent outer-review scoping (ChatGPT 5.6 Pro + Claude Opus 5.5) consistent with commits 9becf909/4251a2b2 on `topics/buddhist-perspectives-on-meaning`. (1) Anattā no longer narrowed to an eternal ātman: L41 now cites SN 22.59's control/ownership argument ("Let my consciousness be thus"; "mine"); "Ownership-centricity" bullet renamed "Ownership and control"; L55 "permanent self owning" → "any self owning it, permanent or not"; karma-carrier sentence de-permanenced; lead "permanent self" → "any owning self". (2) School-scoping: compatibility thesis explicitly tracks early aggregate analysis + Abhidharma realism (L43), Comparative Advantages "worked example" and closing "worked articulation" scoped to Abhidharma ("fundamental" → "irreducible"); Dualism line in Relation to Site Perspective rewritten (old "not reducible to the other four aggregates" was also wrong — irreducibility to form is the relevant contrast) and limited to the tenet's negative claim. (3) "Property dualism" paragraph replaced with "event dualism of mental and material dharmas", distinguished from modern phenomenal-property dualism via the SEP form-only-physical classification; process-metaphysics bullet likewise. (4) Siderits 2025: classical anti-physicalism quote (p. 5) added as support for the negative only; "eliminativism, which Buddhism rejects" now notes Siderits's illusionist route; ch. 8 paragraph gains the p. 199 "heterodox" concession (both pages as verified in sibling commit via Google Books); no duplication of the existing illusionism correction. Added SN 22.59 reference; description rescoped. Length-neutral via trims elsewhere (analyze_length 3075 → 3083).
+- **Published**: yes
+
 ## 2026-09-28T06:05:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/egocentric-presentism]]
