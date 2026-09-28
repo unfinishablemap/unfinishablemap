@@ -5,6 +5,16 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T00:52:30+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/steelmanning-as-method]]
+- **Changed sources**: 5 (evidential-status-discipline, coherence-inflation-countermeasures, mechanism-cost-ledger, apex/phenomenal-output-causal-machinery-dissociation, apex/moral-architecture-of-consciousness)
+- **Word count**: 4421 → 4420 (analyze_length; length-neutral)
+- **Changes**: wove in Countermeasure 15 (convergence-independence gate) at move four and Countermeasure 19 (falsifier-survival audit) as a new honest limitation; updated the worked-exhibit audit to the dissociation apex's architectural-null concession (+Nisbett & Wilson 1977); fixed stale "60-plus" voids count (now hundred-plus, ~15 framework-independent); added concepts/diverging-worlds-everettianism as the missing move-two exhibit. None of the 2026-09-27 sweep claims (Chalmers-McQueen, Maier 2018, trilemma, Rajan 2019) appear in this article.
+- **Review**: [[reviews/apex-evolve-2026-09-28-steelmanning-as-method]]
+
+---
+
 ## 2026-09-28T00:37:41+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Assent Void. Consciousness never witnesses itself coming to believe: it cannot believe at will (Williams 1973; Hieronymi 2006 evaluative vs managerial control), initial truth-assignment precedes deliberate judgment (Gilbert 1991; Gilbert, Tafarodi & Malone 1993; Mandelbaum 2014, contested by Hasson et al. 2005, Nadarevic & Erdfelder 2013, Vorms et al. 2022), and "whether to believe p" is transparent to "whether p" (Shah & Velleman 2005). Abstract quotes verified against OpenAlex; metadata via Crossref
