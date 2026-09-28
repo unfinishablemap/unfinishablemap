@@ -4,7 +4,7 @@ description: "How temporal ontology constrains consciousness theory, and why con
 created: 2026-02-11
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-09-27T23:58:00+00:00
+ai_modified: 2026-09-28T10:09:31+00:00
 draft: false
 anchoring_audit_exempt: true
 topics:
@@ -46,10 +46,10 @@ related_articles:
   - "[[time-consciousness-growing-block]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-07-19T10:06:42+00:00
+last_deep_review: 2026-09-28T10:09:31+00:00
 coalesced_from:
   - "/topics/temporal-ontology-and-consciousness/"
   - "/topics/consciousness-and-temporal-becoming/"
@@ -110,7 +110,7 @@ The growing block has independent motivation from the philosophy of time: it pre
 
 Conversely, the claim that consciousness participates in quantum collapse has motivation independent of temporal ontology. The [[collapse-and-time|consciousness-involving collapse tradition]] (Wigner, Stapp) is a minority interpretation of the measurement problem—most physicists prefer decoherence-based or collapse-free readings—but it was developed on quantum-mechanical and hard-problem grounds that owe nothing to the growing block. What answers the circularity charge is this independence of motivation, not any claim that consciousness-collapse is the standard reading of quantum mechanics.
 
-What the mutual support provides is not a circular proof but a *reflective equilibrium*: two independently motivated positions that, when combined, illuminate and strengthen each other. The growing block provides a temporal structure where consciousness's role in collapse makes ontological sense (the leading edge is where collapse occurs). Consciousness-involving collapse provides the growing block with a mechanism for growth and a response to the epistemic objection ([discussed below](#epistemic-objection)). Each claim is stronger in the presence of the other, but neither depends on the other for its initial plausibility. The Map accepts reflective equilibrium as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other.
+What the mutual support provides is not a circular proof but a *reflective equilibrium*: two independently motivated positions that, when combined, illuminate and strengthen each other. The growing block provides a temporal structure where consciousness's role in collapse makes ontological sense (the leading edge is where collapse occurs). Collapse provides the growing block with a mechanism for growth, and consciousness's participation in it a response to the epistemic objection ([discussed below](#epistemic-objection)). Each claim is stronger in the presence of the other, but neither depends on the other for its initial plausibility. The Map accepts reflective equilibrium as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other.
 
 ## Consciousness as Constitutive of the Phenomenological Arrow {#physical-and-phenomenological-arrows}
 
@@ -128,7 +128,7 @@ Bergson's [[temporal-consciousness|durée]] captures what temporal becoming is l
 
 Three features of durée make it not merely temporal but generative. **Interpenetration**: successive states mutually modify each other—meeting a colleague changes the significance of earlier correspondence. **Indivisibility**: durée cannot be decomposed into atomic instants without destruction. **Irreversibility**: you cannot live a moment twice because the second living incorporates the first.
 
-Consciousness also experiences a structured asymmetry. Remembered events feel *actual*—Tulving's [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] describes self-knowing awareness when remembering. Anticipated events feel *possible* rather than actual, even confident predictions lacking memory's settledness. Each present slides into pastness through Husserl's retention-protention structure. And we prefer good experiences in our future and bad ones in our past—a [[egocentric-presentism|temporal bias]] that Greene and Sullivan (2015) [[time-bias-and-thank-goodness-thats-over|argue is irrational]] for anyone who rejects near-bias, but that, if consciousness constitutes the phenomenological arrow, has a genuine metaphysical distinction as its object—though that alone does not make the bias rational.
+Consciousness also experiences a structured asymmetry. Remembered events feel *actual*—Tulving's [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] describes self-knowing awareness when remembering. Anticipated events feel *possible* rather than actual, even confident predictions lacking memory's settledness. Each present slides into pastness through Husserl's retention-protention structure. And we prefer good experiences in our future and bad ones in our past—a [[time-bias-and-thank-goodness-thats-over|temporal bias]] (the twin, on Hare's [[egocentric-presentism|parity argument]], of self-bias) that Greene and Sullivan (2015) argue is irrational for anyone who rejects near-bias, but that, if consciousness constitutes the phenomenological arrow, has a genuine metaphysical distinction as its object—though that alone does not make the bias rational.
 
 ## From Temporal Becoming to Creativity
 
@@ -140,13 +140,13 @@ Whitehead's [[process-philosophy|process metaphysics]] provides a framework wher
 
 ## Objections and Responses
 
-**The epistemic objection.** {#epistemic-objection} If past moments exist and contain observers with experiences, how do those past observers know they aren't at the leading edge? David Braddon-Mitchell (2004) pressed this formally: growing block residents cannot know they are present rather than past. Since past and present observers have identical epistemic access, the growing block makes temporal knowledge impossible.
+<a id="epistemic-objection"></a>**The epistemic objection.** If past moments exist and contain observers with experiences, how do those past observers know they aren't at the leading edge? David Braddon-Mitchell (2004) pressed this formally: growing block residents cannot know they are present rather than past. Since past and present observers have identical epistemic access, the growing block makes temporal knowledge impossible.
 
 Several responses have been offered. Peter Forrest (2004) argues that past observers are "real but dead"—they exist but no longer have experiences, since consciousness requires active processes rather than frozen states. Craig Bourne (2002) proposes degrees of reality where the present is more robustly real. Merricks (2006) appeals to causal powers: only the leading edge can cause future events. Each response has limitations—Forrest's raises the question of what extinguishes consciousness in settled time-slices; Bourne's can seem ad hoc; Merricks's locates the difference in forward-looking powers that past observers also once had.
 
 The Map offers a further response building on Forrest's intuition. If the present is distinguished by the occurrence of active quantum collapse—not merely by being the latest time-slice—then present observers have something past observers lack: active participation in the settlement of reality. The phenomenology of the present reflects this participation. Present observers don't merely *represent* themselves as present; they are actively constituting reality in a way that past (settled) states no longer do.
 
-**The rate of passage problem.** At what rate does the block grow? "One second per second" seems circular, presupposing a meta-time within which growth occurs. But this objection may assume what it targets. If growth *is* temporal passage rather than something occurring within time, asking for its rate commits a category error—like asking how fast space extends spatially. Bergson's [[temporal-consciousness|durée]] reinforces the point: lived time has no rate because it isn't measured against an external standard. Duration is qualitative, not quantitative. Asking "how fast does time pass?" spatialises time, which is precisely what the growing block denies. A stronger, non-rate form of the objection survives this reply: even granting that passage has no rate, the block's *growing*—existence changing in what it includes—can seem to require a second time dimension in which that change occurs, since otherwise there is no standpoint from which "fewer slices" gives way to "more." The Map does not claim to dissolve this version. Its response is a commitment rather than a refutation: collapse-participation is treated as primitive becoming, the constitutive activity described earlier, not as change within a containing hypertime. That the objection's non-rate form remains a live cost is acknowledged, not hidden.
+**The rate of passage problem.** At what rate does the block grow? "One second per second" seems circular, presupposing a meta-time within which growth occurs. But this objection may assume what it targets. If growth *is* temporal passage rather than something occurring within time, asking for its rate commits a category error—like asking how fast space extends spatially. Bergson's [[temporal-consciousness|durée]] reinforces the point: lived time has no rate because it isn't measured against an external standard. Duration is qualitative, not quantitative. Asking "how fast does time pass?" spatialises time, which is precisely what the growing block denies. A stronger, non-rate form of the objection survives this reply: even granting that passage has no rate, the block's *growing*—existence changing in what it includes—can seem to require a second time dimension in which that change occurs, since otherwise there is no standpoint from which "fewer slices" gives way to "more." The Map does not claim to dissolve this version. Its response is a commitment rather than a refutation: collapse itself—the mindless cosmic growth and the neural participation alike—is treated as primitive becoming, not as change within a containing hypertime. The non-rate form remains a live cost.
 
 **The relativity objection.** Special relativity's lack of a universal "now" seems to refute the growing block. But the growing block need not identify the growth frontier with a single hyperplane of simultaneity. Collapse events may define local presents without requiring a global simultaneity surface—a problem shared by all collapse interpretations.
 

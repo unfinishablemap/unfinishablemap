@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T09:53:45+00:00'
+ai_modified: '2026-09-28T10:09:31+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28 10:09 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-ontology-of-temporal-becoming]]
+- **Word count**: 3642 → 3650 (+8; length-neutral, topics soft_warning)
+- **Critical issues addressed**: 2 — (a) `{#epistemic-objection}` sat on a bold paragraph, which goldmark does not honour: the live build rendered the literal string in prose and both the in-article `(#epistemic-objection)` link and the inbound `time-bias-and-thank-goodness-thats-over` L87 anchor link were dead; replaced with `<a id>` (corpus precedent), verified in a scratch Hugo build. Sibling sweep: same pattern on `topics/introspection-architecture-independence-scoring` L171/L173 (`#sufi-khawatir`, `#stoic-propatheia`) fixed in both trees. (b) Rate-of-passage reply still said "the constitutive activity described earlier" after the 09-27 refine deleted that sentence; re-anchored to "collapse itself—the mindless cosmic growth and the neural participation alike".
+- **Medium issues addressed**: 2 — reflective-equilibrium sentence no longer credits consciousness-involving collapse with the block's growth mechanism (conflicted with the 09-27 narrowing); `[[egocentric-presentism|temporal bias]]` relabelled so "temporal bias" reaches the time-bias article and egocentric-presentism is linked as Hare's "parity argument".
+- **Enhancements made**: 0 new cross-links (one pair relabelled)
+- **Citations**: References unchanged since the full 06-25 ledger; re-verified Greene & Sullivan 2015 (the one cite whose claim changed 09-27) — Crossref real-correct, and the new wording matches the abstract ("those who reject near bias should instead endorse complete temporal neutrality").
+- **Engagement modes**: Prosser/Hoerl Mode Three (rival, value judgement owned); Price Mode Three (inversion owned); Braddon-Mitchell Mode One; rate-of-passage Mode Three (live cost declared); MWI Mode Three in Relation section. No label leakage.
+- **Published**: Hugo copies edited by hand (no vault-wide sync — other agents mid-edit)
+- **Output**: [[reviews/deep-review-2026-09-28-consciousness-and-the-ontology-of-temporal-becoming]]
 
 ## 2026-09-28 09:53 UTC - refine-draft
 - **Status**: Success

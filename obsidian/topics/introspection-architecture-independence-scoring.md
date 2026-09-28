@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-09-26
 human_modified:
-ai_modified: 2026-09-26T08:48:35+00:00
+ai_modified: 2026-09-28T10:09:31+00:00
 last_deep_review: 2026-07-25T23:13:12+00:00
 draft: false
 topics:
@@ -43,7 +43,7 @@ related_articles:
   - "[[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-05-15
 last_curated:
 coalesced_from:
@@ -168,9 +168,9 @@ Cross-tradition arguments commonly read framework-level predictions as independe
 
 **Advaita Vedānta.** Shankara's 8th-c. *adhyāsa* ("superimposition") is a structural cognitive failure; the architectural specifics live in the *antaḥkaraṇa* ("inner instrument") — a fourfold inert structure including *ahaṃkāra* (the I-maker) and *citta* (the impression-storehouse) whose *outputs* the witness accesses but whose workings it cannot, with *vāsanā*/*saṃskāra* (latent dispositions outside awareness) the closest analogue to Nisbett-Wilson's *implicit causal theory*. The framework-level bounded-access witness fails (3); the *antaḥkaraṇa* subdivision earns despite-commitments on (2), and *ahaṃkāra*-as-narrator may survive vocabulary-stripping (parallel to the Gazzaniga interpreter). The Neoplatonist audit forecloses the prima facie independence problems (Plotinian-Śaṅkara parallels are "metaphorical"; Dārā Shikoh post-dates Shankara by ~850 years) — leaving Advaita the cleanest-isolated tradition.
 
-**Sufi practice: *khawāṭir* and hidden *riyāʾ*.** {#sufi-khawatir} The *khawāṭir* taxonomy classifies incoming thoughts by source — divine, angelic, egoic, satanic — *presupposing* source is not self-evident; stripped of the typology it is the [[source-attribution-void|source-attribution void]]'s claim. Discovered through *muḥāsaba* (al-Muḥāsibī, d. 857 CE), it matured in al-Ghazālī's 11th-c. *Iḥyāʾ* into *riyāʾ khafiyy* (hidden hypocrisy) as a *structural* feature — a self-display function invisible to the agent — the strongest cross-tradition parallel to the rationalisation anchoring [[confabulation-void|confabulation void]]'s Generation face. *Khawāṭir* is because-prediction; hidden *riyāʾ* passes all three tests (Ghazālī found *riyāʾ* persists *despite* sincere intention, where earlier Sufism treated it as remediable), though softened by Ghazālī's downstream position relative to the Avicennan-Neoplatonist synthesis.
+<a id="sufi-khawatir"></a>**Sufi practice: *khawāṭir* and hidden *riyāʾ*.** The *khawāṭir* taxonomy classifies incoming thoughts by source — divine, angelic, egoic, satanic — *presupposing* source is not self-evident; stripped of the typology it is the [[source-attribution-void|source-attribution void]]'s claim. Discovered through *muḥāsaba* (al-Muḥāsibī, d. 857 CE), it matured in al-Ghazālī's 11th-c. *Iḥyāʾ* into *riyāʾ khafiyy* (hidden hypocrisy) as a *structural* feature — a self-display function invisible to the agent — the strongest cross-tradition parallel to the rationalisation anchoring [[confabulation-void|confabulation void]]'s Generation face. *Khawāṭir* is because-prediction; hidden *riyāʾ* passes all three tests (Ghazālī found *riyāʾ* persists *despite* sincere intention, where earlier Sufism treated it as remediable), though softened by Ghazālī's downstream position relative to the Avicennan-Neoplatonist synthesis.
 
-**Stoic *propatheia*.** {#stoic-propatheia} Stoic theory held emotions to be *judgements* (framework-level, circular). Seneca's *propatheia* (*De Ira*) is the refined observation: involuntary affective reactions *preceding* assent, even in the sage. On Sorabji 2000 the doctrine was *added* to handle observations the pure cognitive theory did not predict, mapping to the [[noetic-feelings-void|noetic-feelings void]]. Because REBT and cognitive therapy drew explicitly on Stoicism (Robertson 2019), modern evidence is partly downstream of Stoic categories — making despite-commitments against Stoicism *weaker* than against Buddhism or Advaita.
+<a id="stoic-propatheia"></a>**Stoic *propatheia*.** Stoic theory held emotions to be *judgements* (framework-level, circular). Seneca's *propatheia* (*De Ira*) is the refined observation: involuntary affective reactions *preceding* assent, even in the sage. On Sorabji 2000 the doctrine was *added* to handle observations the pure cognitive theory did not predict, mapping to the [[noetic-feelings-void|noetic-feelings void]]. Because REBT and cognitive therapy drew explicitly on Stoicism (Robertson 2019), modern evidence is partly downstream of Stoic categories — making despite-commitments against Stoicism *weaker* than against Buddhism or Advaita.
 
 ### Auditing the Cross-Tradition Channel
 
