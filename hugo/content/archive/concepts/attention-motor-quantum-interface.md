@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-09-27 09:55:13+00:00
+ai_modified: 2026-09-28 01:22:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Attention as Interface
 archived: true
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-29 15:54:19+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-28 01:22:44+00:00
 modified: *id001
 original_path: /concepts/attention-motor-quantum-interface/
 related_articles:
@@ -113,8 +113,8 @@ Three markers were described here as distinguishing willed from automatic select
 
 | Signature | Attention Evidence | Motor Evidence |
 |-----------|-------------------|----------------|
-| **Frontal theta** | Willed attention shows greater frontal theta than instructed attention (Rajan et al. 2019, lead author Rajan not Bengson; a relative increase, not presence/absence) | Willed movement shows frontal theta increase before action |
-| **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions is bidirectional during willed attention | Motor selection shows bidirectional information flow during genuine deliberation |
+| **Frontal theta** | Willed attention shows greater frontal theta than instructed attention (Rajan et al. 2019, lead author Rajan not Bengson; a relative increase, not presence/absence) | Theta accompanies movement initiation; willed-vs-instructed contrast untested |
+| **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions is bidirectional during willed attention | Untested for motor selection |
 | **Additional frontal recruitment** | Willed attention engages frontal regions beyond instructed attention | Voluntary action engages prefrontal regions that automatic responses bypass |
 
 The parallel signatures suggest that what feels like "you deciding" in both domains reflects the same underlying process—consciousness engaging with the selection mechanism.

@@ -4,7 +4,7 @@ description: "The unified attention-motor substrate where consciousness selects 
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-09-27T09:55:13+00:00
+ai_modified: 2026-09-28T01:22:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ The convergence was described here as three neural signatures that distinguish w
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|
 | **Frontal theta** | Greater for willed attention than for instructed, from ~500 ms post-cue (Rajan et al. 2019; a relative increase, not presence/absence) | Present for voluntary movement initiation |
-| **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Similar bidirectional flow during genuine motor deliberation |
+| **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Untested for motor deliberation |
 | **~280-300ms timing** | Willed attention takes ~300ms to deploy | Motor commitment occurs ~280ms before movement (Thura & Cisek 2014) |
 
 The timing match is striking. If attention and motor selection were independent systems operating through different mechanisms, why would they share the same timeline?

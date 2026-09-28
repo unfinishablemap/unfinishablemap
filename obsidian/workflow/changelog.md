@@ -5,6 +5,14 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T01:22:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Original score**: 7/10 (curate.py absent; targeted fix against task notes)
+- **Changes**: (a) L131 rescoped: motor evidence is the ~280ms monkey reach commitment and effort phenomenology; frontal-theta/coherence contrasts are measured for attention only; "convergence answers the single-domain objection" replaced by "narrowed, not answered" (now consistent with L146). (b) Sjöberg 2024 corrected in L133 ("doesn't impair voluntary action" -> willing survives the initiation deficits) and L146 ("sparing voluntary action" -> impairing initiation but not willing), per the concepts/libet-experiments fix. Length 3495 -> 3493 (analyze_length). Note: the ~280ms figure (Thura & Cisek 2014) remains uncited in this article, as before.
+- **Remnant sweep** (`git log -S "bidirectional coherence"` + theta/motor grep over topics/concepts/apex/voids/positions/archive; each fix word-neutral or shorter): topics/free-will L157 (motor "same architecture: frontal theta, bidirectional coherence, willed/instructed signatures"); concepts/quantum-consciousness L92; concepts/quantum-indeterminacy-free-will L120 (motor "same signature") and L146 (Sjöberg "does not impair voluntary action"); concepts/stapp-quantum-mind L90; concepts/retrocausality L103 + heading "Independent Corroboration" -> "A Suggestive Parallel" (no inbound anchor links); apex/consciousness-and-agency L112 ("willed attention and movement carry greater frontal theta"); archive motor-column table cells in topics/attention-as-selection-interface, topics/attention-motor-quantum-selection, topics/attention-interface-mechanisms, concepts/attention-motor-quantum-interface. Left as borderline: motor-selection L135 (theta "marks motor preparation" — Köhler 2024 prokinetic theta, not a willed/instructed claim); Sjöberg "retain their sense of voluntary action" phrasings (free-will L88, motor-control-quantum-zeno L56 "independent confirmation", motor-selection L143, phenomenology-mechanism-bridge L110, process-and-consciousness L119, positions/agency-and-will L78 "retain voluntary agency"); archive "Present for voluntary movement initiation" theta cells.
+- **Published**: yes
+
 ## 2026-09-28T01:05:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/agent-teleology]]

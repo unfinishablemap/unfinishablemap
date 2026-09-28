@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-09-24 12:01:00+00:00
+ai_modified: 2026-09-28 01:22:44+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:01:21+00:00
-lastmod: 2026-09-24 12:01:00+00:00
+lastmod: 2026-09-28 01:22:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,9 +102,9 @@ If the transactional interpretation is correct—including a satisfactory respon
 
 Retrocausality complements [non-retrocausal quantum consciousness mechanisms](/topics/forward-in-time-conscious-selection/) like Orch OR and Stapp's quantum Zeno. These explain *where* consciousness interfaces with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves. Both benefit because consciousness need not "speed up" to precede neural preparation—the collapse and its preparation form an atemporal transaction.
 
-### Motor Selection: Independent Corroboration
+### Motor Selection: A Suggestive Parallel
 
-The retrocausal framework gains support from [motor control research](/concepts/motor-selection/). Willed movement shows the same neural signatures as willed attention—frontal theta oscillations, ~300ms deployment time. Two independent domains showing identical selection architecture suggests the framework captures something real.
+The retrocausal framework gains support from [motor control research](/concepts/motor-selection/). Motor commitment (~280ms) matches willed attention's ~300ms deployment in order, though the frontal-theta contrast is measured for attention only. The parallel is suggestive, not independent corroboration.
 
 The Libet challenge to motor control has also weakened: Sjöberg (2024) argued that neurosurgical resection of the supplementary motor area—where readiness potentials originate—does not permanently impair voluntary action, suggesting the readiness potential reflects preparation for execution rather than the decision itself.
 

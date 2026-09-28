@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-17 22:41:42+00:00
+ai_modified: 2026-09-28 01:22:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-09-17 22:41:42+00:00
+lastmod: 2026-09-28 01:22:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ The [delegation](/concepts/delegatory-causation/) framework makes the causal boo
 
 Random processes do not feel like work. Choosing does. William James documented that "sustained voluntary attention is a repetition of successive efforts." Lucky events do not feel like achievements; selections do.
 
-This phenomenological evidence is not independently decisive—physicalists argue felt effort could be constructed post hoc—but the Map treats phenomenology as evidentially relevant because dualism takes conscious experience seriously as a guide to causal structure. The felt strain has an empirical correlate in the case for [volitional control](/topics/volitional-control/), where clinical dissociations and the neural signatures of willed action track effort rather than floating free of it: frontal theta power and fronto-parietal coherence run *greater* in willed than in instructed attention, a relative increase rather than an all-or-nothing difference. [Motor control](/concepts/motor-selection/) shows the same signature at ~300ms deployment—one selection architecture appearing in a second setting rather than two independent confirmations. The signature marks the functional load of the willed condition without settling whether its phenomenal character does causal work.
+This phenomenological evidence is not independently decisive—physicalists argue felt effort could be constructed post hoc—but the Map treats phenomenology as evidentially relevant because dualism takes conscious experience seriously as a guide to causal structure. The felt strain has an empirical correlate in the case for [volitional control](/topics/volitional-control/), where clinical dissociations and the neural signatures of willed action track effort rather than floating free of it: frontal theta power and fronto-parietal coherence run *greater* in willed than in instructed attention, a relative increase rather than an all-or-nothing difference. Whether [motor control](/concepts/motor-selection/) shows this contrast is untested, so it cannot yet count as a second, independent confirmation. The signature marks the functional load of the willed condition without settling whether its phenomenal character does causal work.
 
 A critic may object that a [philosophical zombie](/concepts/philosophical-zombies/) would report the same felt effort with no phenomenology behind it. That objection begs the question against the framework: under [Bidirectional Interaction](/tenets/#bidirectional-interaction) our neural states are partly caused by consciousness, so a being with identical neural states and no consciousness is not genuinely possible. The zombie objection assumes the epiphenomenalism the Map rejects.
 
@@ -146,7 +146,7 @@ Henry Stapp proposed that consciousness influences neural quantum states through
 
 The Map's core argument does not stand or fall with any specific mechanism. What matters is the logical structure: genuine indeterminacy plus a non-physical selector.
 
-The [Libet challenge](/concepts/libet-experiments/) to this picture has weakened. Schurger (2012) reinterprets the readiness potential as a noise artefact, and Sjöberg (2024) reports that resection of the supplementary motor area does not impair voluntary action. Where a timing gap remains, [retrocausal](/concepts/retrocausality/) interpretations dissolve it: quantum equations are time-symmetric, and [Cramer's transactional interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) makes this explicit with atemporal transactions between forward- and backward-propagating waves. On that reading the readiness potential is part of what consciousness selected rather than a prediction of it.
+The [Libet challenge](/concepts/libet-experiments/) to this picture has weakened. Schurger (2012) reinterprets the readiness potential as a noise artefact, and Sjöberg (2024) reports that supplementary-motor-area resection impairs movement initiation but spares willing. Where a timing gap remains, [retrocausal](/concepts/retrocausality/) interpretations dissolve it: quantum equations are time-symmetric, and [Cramer's transactional interpretation](/concepts/transactional-interpretation-of-quantum-mechanics/) makes this explicit with atemporal transactions between forward- and backward-propagating waves. On that reading the readiness potential is part of what consciousness selected rather than a prediction of it.
 
 ## Causal Closure and the Quantum Opening
 

@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-09-24T12:01:00+00:00
+ai_modified: 2026-09-28T01:22:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,9 +98,9 @@ If the transactional interpretation is correct—including a satisfactory respon
 
 Retrocausality complements [[forward-in-time-conscious-selection|non-retrocausal quantum consciousness mechanisms]] like Orch OR and Stapp's quantum Zeno. These explain *where* consciousness interfaces with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves. Both benefit because consciousness need not "speed up" to precede neural preparation—the collapse and its preparation form an atemporal transaction.
 
-### Motor Selection: Independent Corroboration
+### Motor Selection: A Suggestive Parallel
 
-The retrocausal framework gains support from [[motor-selection|motor control research]]. Willed movement shows the same neural signatures as willed attention—frontal theta oscillations, ~300ms deployment time. Two independent domains showing identical selection architecture suggests the framework captures something real.
+The retrocausal framework gains support from [[motor-selection|motor control research]]. Motor commitment (~280ms) matches willed attention's ~300ms deployment in order, though the frontal-theta contrast is measured for attention only. The parallel is suggestive, not independent corroboration.
 
 The Libet challenge to motor control has also weakened: Sjöberg (2024) argued that neurosurgical resection of the supplementary motor area—where readiness potentials originate—does not permanently impair voluntary action, suggesting the readiness potential reflects preparation for execution rather than the decision itself.
 

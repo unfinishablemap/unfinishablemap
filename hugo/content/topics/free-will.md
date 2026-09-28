@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-27 08:21:16+00:00
+ai_modified: 2026-09-28 01:22:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-09-27 08:21:16+00:00
+lastmod: 2026-09-28 01:22:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ Meditation reveals that consciousness can *refrain from selecting*. The agent ca
 
 ## Motor Selection
 
-[Motor control](/concepts/motor-selection/) shows the same selection architecture as attention: frontal theta, bidirectional coherence, and distinct willed versus instructed signatures. Desmurget et al. (2009) dissociated intention-awareness from execution—inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness. See [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) for the full integration.
+[Motor control](/concepts/motor-selection/) shares attention's effortful selection phenomenology, though willed attention's frontal-theta and coherence contrasts remain untested for movement. Desmurget et al. (2009) dissociated intention-awareness from execution—inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness. See [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) for the full integration.
 
 ## What Free Will Requires
 

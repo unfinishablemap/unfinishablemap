@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-27T08:21:16+00:00
+ai_modified: 2026-09-28T01:22:44+00:00
 last_deep_review: 2026-07-11T04:20:00+00:00
 draft: false
 topics:
@@ -154,7 +154,7 @@ Meditation reveals that consciousness can *refrain from selecting*. The agent ca
 
 ## Motor Selection
 
-[[motor-selection|Motor control]] shows the same selection architecture as attention: frontal theta, bidirectional coherence, and distinct willed versus instructed signatures. Desmurget et al. (2009) dissociated intention-awareness from execution—inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness. See [[motor-control-quantum-zeno]] for the full integration.
+[[motor-selection|Motor control]] shares attention's effortful selection phenomenology, though willed attention's frontal-theta and coherence contrasts remain untested for movement. Desmurget et al. (2009) dissociated intention-awareness from execution—inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness. See [[motor-control-quantum-zeno]] for the full integration.
 
 ## What Free Will Requires
 

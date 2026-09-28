@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-08-13 07:09:00+00:00
+ai_modified: 2026-09-28 01:22:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:33:15+00:00
-lastmod: 2026-08-13 07:09:00+00:00
+lastmod: 2026-09-28 01:22:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 - **Phenomenological match**: James documented that "sustained voluntary attention is a repetition of successive efforts"—which the Zeno mechanism accommodates rather than independently predicts
 - **Biological precedent**: Denton et al. (2024) modelled quantum Zeno protection in cryptochrome radical pairs
 
-The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology.
+The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show ~300ms-order commitment and effortful phenomenology; the willed-vs-instructed theta contrast is attention-only.
 
 The [luck objection](/concepts/quantum-indeterminacy-free-will/)—that quantum indeterminacy is just randomness—meets the response that random processes have no phenomenology whereas selection involves felt effort: consciousness selects based on reasons, making choices contrastively explicable.
 

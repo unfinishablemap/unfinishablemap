@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-09-06T22:34:15+00:00
+ai_modified: 2026-09-28T01:22:44+00:00
 last_deep_review: 2026-07-25T18:17:36+00:00
 draft: false
 topics:
@@ -109,7 +109,7 @@ The Map distinguishes consciousness-selected indeterminism from lucky indetermin
 
 Second, selection carries the [[phenomenology-of-choice-and-volition|phenomenology of effort]]. Hard choices feel hard, and the felt difficulty tracks measured cognitive load—a correlation that would be coincidental if phenomenology had no functional role and is expected if it tracks real causal engagement. This is a coherence consideration, not a parsimony argument ([[tenets#^occams-limits|Tenet 5]] declines to treat simplicity as evidence either way), and as the [[positions/agency-and-will|positions register]] records, deliberative phenomenology on its own is compatible with a compatibilist reading too.
 
-Third, selection shows distinctive neural signatures. Willed attention and movement carry greater frontal theta and frontoparietal coherence than their instructed counterparts, and neural populations commit to a selected action roughly 280 ms before movement onset—signatures consistent with consciousness engaging at the selection stage, though they do not by themselves establish it. Neurosurgical stimulation adds a dissociation: one area produces conscious intention *without* movement, another movement *without* any feeling of intending. Deciding is neurally separable from execution, as a selector operating at the interface rather than in downstream motor circuits would predict.
+Third, selection shows distinctive neural signatures. Willed attention carries greater frontal theta and frontoparietal coherence than instructed attention (untested for movement), and neural populations commit to a selected action roughly 280 ms before movement onset—signatures consistent with consciousness engaging at the selection stage, though they do not by themselves establish it. Neurosurgical stimulation adds a dissociation: one area produces conscious intention *without* movement, another movement *without* any feeling of intending. Deciding is neurally separable from execution, as a selector operating at the interface rather than in downstream motor circuits would predict.
 
 Together these answer the rollback: the agent explains the difference between replays because the agent *selected* for reasons, with phenomenal engagement, through mechanisms that distinguish selection from reception. Reasons-guided selection, though, requires the capacity to represent alternatives before choosing.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-27 09:55:13+00:00
+ai_modified: 2026-09-28 01:22:44+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-28 01:22:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,9 +131,9 @@ Pre-prompt neural activity predicts free choices, paralleling the [Libet experim
 
 ## Motor Selection: The Second Domain
 
-[Motor selection](/concepts/motor-selection/) extends agent causation beyond attention: willed movement shows a parallel signature (commitment ~280ms before movement, frontal theta, bidirectional coherence, phenomenology of effort). This convergence answers the single-domain objection: artefacts of attention-specific processing would not recur in motor control.
+[Motor selection](/concepts/motor-selection/) extends agent causation beyond attention: monkey reach commitment falls ~280ms before movement and willing feels effortful, but the theta and coherence contrasts are measured for attention only. The single-domain objection is narrowed, not answered.
 
-The Libet challenge has weakened substantially. Schurger reinterprets the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies four components of willing—initiation, sustained control, effort, veto—each with distinct neural correlates (see [Phenomenology of Volitional Control](/topics/volitional-control/) for the full case). This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism without reducing consciousness to neural activity.
+The Libet challenge has weakened substantially. Schurger reinterprets the readiness potential as noise artifact; Sjöberg (2024) reports willing survives SMA resection's initiation deficits; Desmurget dissociates intention (parietal) from execution (premotor). The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies four components of willing—initiation, sustained control, effort, veto—each with distinct neural correlates (see [Phenomenology of Volitional Control](/topics/volitional-control/) for the full case). This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism without reducing consciousness to neural activity.
 
 ## Creative Generation: Beyond Pure Selection
 
@@ -146,7 +146,7 @@ Agent causation faces a structural limit any account of mental causation inherit
 The framework therefore cannot rest on introspective proof of efficacy; its case is structural and convergent. Five anchors carry the weight, none of them privileged first-person testimony of the kind verification circularity disqualifies:
 
 - **Phenomenology of effort and willing.** Felt difficulty correlates with measured cognitive load and tracks reasons-responsive engagement; if phenomenology were epiphenomenal the correlation would be coincidental ([phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [mental-effort](/concepts/mental-effort/)).
-- **Neural data on willed versus instructed attention.** Self-chosen visuospatial attention carries more frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019; Nadra & Mangun 2023)—a decision-load signature physicalism also predicts, untested for movement; SMA resection sparing voluntary action (Sjöberg 2024) is separate motor evidence.
+- **Neural data on willed versus instructed attention.** Self-chosen visuospatial attention carries more frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019; Nadra & Mangun 2023)—a decision-load signature physicalism also predicts, untested for movement; SMA resection impairing initiation but not willing (Sjöberg 2024) is separate motor evidence.
 - **The [argument-from-reason](/topics/argument-from-reason/).** Rational inference requires tracking normative relationships physical causation alone cannot instantiate; the self-defeat of physicalism delivers mental causation without phenomenological premises and without any specific physics—surviving even if the quantum mechanism is wrong.
 - **Clinical neuroplasticity.** CBT and pharmacological interventions achieve comparable outcomes through *different neural pathways* (top-down cortical-to-limbic versus bottom-up neurochemical)—a divergence mental causation predicts and pure redescription cannot easily explain ([clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)).
 - **Cross-cultural convergence.** Indian (Nyāya), African (Akan), and Western traditions near-independently arrived at substance-causal accounts of persons, evidence that agent-causal thinking is not a parochial Western ontology ([cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)).

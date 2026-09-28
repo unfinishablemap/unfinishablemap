@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-27T09:55:13+00:00
+ai_modified: 2026-09-28T01:22:44+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -87,7 +87,7 @@ The clinical data is compatible with both the quantum interpretation and classic
 
 The [[attention-as-interface|attention as interface hypothesis]] extends Stapp's framework. The core claim: attention functions as the *interface layer* between consciousness and neural systems.
 
-**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [[attention-as-interface]] develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
+**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [[attention-as-interface]] develops this convergence in detail, though willed attention's frontal-theta and coherence signatures remain untested for willed action; only commitment latencies (~280-300ms) roughly coincide.
 
 **Bandwidth limitation**: Conscious behavioural throughput measures roughly 10 bits/second (Zheng & Meister, 2025)—a 100-million-fold reduction from the brain's sensory processing rate. This figure captures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. The vast gap fits consciousness operating at policy level (goals, strategies) rather than micromanaging neurons—though low bandwidth is by itself neutral between a coarse-grained quantum selector and a coarse-grained epiphenomenal monitor. This policy-level operation aligns with [[adaptive-computational-depth|adaptive computational depth]]: consciousness allocates detail where it attends, operating as a coarse-grained selector rather than a quantum-by-quantum controller.
 
