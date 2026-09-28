@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T22:02:06+00:00
+ai_modified: 2026-09-28T22:25:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T22:25:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/teleosemantics]]
+- **Word count**: 2854 → 2919 (+65; prose 2553 → 2569, remainder is four new/completed References entries)
+- **Critical issues addressed**: 4 (Papineau Swampman reference lacked year/venue → AJP 79(2) 2001; Papineau 2022 kind-essence shift added for currency; "two Millikans" quoted phrase sourced to Schulte 2025 Synthese; Pietroski 1992 PPQ reference added for the kimu case)
+- **Medium issues addressed**: 2 ("built to solve" → "credited with solving"; length-neutral trims)
+- **Enhancements made**: 4 bibliographic anchors
+- **Engagements**: bullet-biters Mode Three (honest standoff); Mann & Pain Mixed (Mode Two concession-of-the-point opens, Mode Three burden-on-the-Map closes); no label leakage
+- **Deferred**: Mann & Pain full-text grep of the "personal-level desideratum" rationale (publisher/PhilArchive 403 to automation; needs Chrome window)
+- **Output**: [[reviews/deep-review-2026-09-28-teleosemantics]]
 
 ## 2026-09-28T22:02:06+00:00 - expand-topic
 - **Status**: Success
