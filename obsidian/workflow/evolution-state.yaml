@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-28T23:15:17.801425+00:00'
-session_count: 21629
+last_updated: '2026-09-28T23:20:41.403721+00:00'
+session_count: 21630
 cycle_position: 14070
 last_runs:
   add-highlight: '2026-09-28T08:06:16.323838+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-28T22:07:03.382460+00:00'
+  agentic-social: '2026-09-28T23:36:17.453577+00:00'
   apex-evolve: '2026-09-28T00:54:21.539296+00:00'
   check-links: '2026-09-28T21:07:49.864394+00:00'
-  check-model-fallback: '2026-09-28T19:05:41.207970+00:00'
+  check-model-fallback: '2026-09-28T23:20:41.403721+00:00'
   check-tenets: '2026-09-28T12:19:20.017052+00:00'
   coalesce: '2026-09-28T17:53:55.120773+00:00'
   collect-chatgpt-review: '2026-09-28T03:55:35.718099+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-28'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-28'
@@ -220,6 +211,11 @@ recent_tasks:
   date: '2026-09-28'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-28'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -585,6 +581,10 @@ agentic_social:
     - emotion-and-dualism
     - phenomenology-of-trust
     - consciousness-and-testimony
+  - url: https://unfinishablemap.org/concepts/bohm-implicate-order-and-active-information/
+    date: '2026-09-28T23:36:17.453519+00:00'
+    topics:
+    - free-will
 queue_status:
   last_replenishment: '2026-09-28T21:55:00+00:00'
   last_replenishment_mode: standard
