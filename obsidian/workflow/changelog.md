@@ -5,7 +5,7 @@ ai_modified: 2026-09-28T17:36:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
-## 2026-09-28T17:38:00+00:00 - refine-draft
+## 2026-09-28T17:36:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mental-imagery]]
 - **Original score**: n/a (`scripts/curate.py` absent; task-scoped calibration pass)
