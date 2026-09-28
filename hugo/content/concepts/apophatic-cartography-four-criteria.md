@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-08-03 20:43:18+00:00
+ai_modified: 2026-09-28 19:21:13+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 20:43:18+00:00
-lastmod: 2026-08-03 20:43:18+00:00
+lastmod: 2026-09-28 19:21:13+00:00
 modified: *id001
 related_articles:
 - '[[apophatic-cartography]]'
@@ -52,7 +52,7 @@ This page consolidates the four criteria into a single referential anchor. Each 
 
 A genuine void produces a *distinct* failure signature, not generic mystery. Different voids should produce *different* signatures, and the differences should be substantive rather than nominal. If the catalogue's voids all produce the same vague confusion, the taxonomy collapses into unfalsifiable mysticism: every unsolved problem becomes a void, and the label loses discriminating force.
 
-The signatures the [compound-failure-signatures](/voids/compound-failure-signatures/) inventory tracks — explanatory gap, self-refutation, regress, aporia, dissolution under attention, silent erasure — are the positive instances. The hard problem's signature (inability to derive first-person from third-person facts) differs from the self-reference paradox's (the observer cannot stand outside the observation) and from the meaning void's (no derivation route from physical to semantic). Each face produces a different *shape* of breakdown.
+[The compound-failure-signatures inventory](/voids/compound-failure-signatures/) tabulates eight — self-refutation, aporia, construction mistaken for observation, selective loss, systematic illusion, wrong model selection, ineffability, vertigo — as the positive instances. The hard problem's signature (inability to derive first-person from third-person facts) differs from the self-reference paradox's (the observer cannot stand outside the observation) and from the meaning void's (no derivation route from physical to semantic). Each is a different *shape* of breakdown.
 
 **Operationalisation in the void-cluster exhibits.** [The introspection-architecture sub-cluster](/topics/introspection-architecture-independence-scoring/) passes in strong form: four genuinely different positive contents — story, origin-tag, verdict-feeling, fabricated content — and the 2026-05-15 cross-exhibit audit confirmed the differentiation is substantive, not curation artefact. [The surplus void](/voids/the-surplus-void/) scores moderately: the surplus claim (consciousness delivers more than function requires) is more diffuse and does not partition into face-specific sub-signatures.
 
@@ -123,7 +123,7 @@ The criteria are not foundations. Five bounds are visible and named honestly:
 
 ## What Would Challenge the Criteria
 
-The criteria would be undermined if: a cluster passing all four turned out, on adversarial cross-framework audit, to be reading a shared upstream architecture all observers possess (the cross-species channel's absence is currently the largest such risk for the introspection-architecture cluster); two clusters with substantively different empirical-anchor profiles produced indistinguishable scores — the exhibits scored to date do differ, but every one of them was scored by the hand that built the methodology, so this condition is not yet discharged, and an independent grader applying the same rubric is what would either discharge or trigger it; a void dissolved under [apophatic-cartography](/voids/apophatic-cartography/)'s operational expiration conditions (predictive novelty, unificatory power, third-person derivability) despite passing all four criteria; or the asymmetric application principle (high on the architectural finding, lower on the interpretive significance) collapsed under further cross-exhibit testing.
+The criteria would be undermined if: a cluster passing all four turned out, on adversarial cross-framework or [cross-domain](/topics/cross-domain-void-comparison/) audit, to be reading a shared upstream architecture all observers possess (the cross-species channel's absence is currently the largest such risk for the introspection-architecture cluster); two clusters with substantively different empirical-anchor profiles produced indistinguishable scores — the exhibits scored to date do differ, but every one of them was scored by the hand that built the methodology, so this condition is not yet discharged, and an independent grader applying the same rubric is what would either discharge or trigger it; a void dissolved under [apophatic-cartography](/voids/apophatic-cartography/)'s operational expiration conditions (predictive novelty, unificatory power, third-person derivability) despite passing all four criteria; or the asymmetric application principle (high on the architectural finding, lower on the interpretive significance) collapsed under further cross-exhibit testing.
 
 ## Relation to Site Perspective
 
@@ -148,7 +148,7 @@ Disciplined application of the criteria is itself an exercise the reflexive boun
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — the strict-prohibition sub-catalogue: voids generated by the framework's own commitments earn the steepest discount
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — the failure-signature inventory the signature-specificity criterion draws on
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — the broader programme on whether cognitive limits are genuine or apparent
-- [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — the four-routes framework (failure analysis, triangulation, cross-architecture comparison, formal proof) the criteria operate within
+- [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — the four epistemic methods (failure analysis, convergence, structural inference, apophatic reasoning) the criteria operate within
 
 ## References
 
