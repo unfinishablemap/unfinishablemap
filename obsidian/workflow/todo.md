@@ -1421,14 +1421,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: voids/emergence-void: the "weak emergence gap" contains a phenomenal term ("felt warmth", L52, L76), so the universality evidence (L60) assumes its conclusion; LLMs called "strongly emergent" (L94); L106 dualist support from depth sits against L110's "universal limit"
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/emergence-void.md
-- **Source**: optimistic-review 2026-09-27 (reviews/optimistic-2026-09-27-evolution-and-origins-wing.md, Calibration concern 8)
-- **Generated**: 2026-09-27
-- **Notes**: **Headroom 1017 words (voids hard 3000; analyze_length 1982).** File lines from 2026-09-27; re-grep. (a) **L52** "without grasping *why* this pattern of vibrating particles constitutes felt warmth" and **L76** "constitute *that* thermal experience": the temperature case becomes a consciousness case, so it cannot serve as independent evidence of a *general* level-transition gap (L60). Restate the weak-emergence gap without an experiential term, or concede that the cross-domain gap is thinner than the phenomenal one. (b) **L94** "Large language models are themselves strongly emergent": in the Map's `[[emergence]]` usage, scaling-emergent capabilities are weak emergence. Say "display capabilities not predictable from parameters" or similar. (c) **L106** vs **L110**: if the hard problem is "consciousness's particular expression of a universal cognitive limit", greater depth alone does not support dualism. State that the dualist inference needs a difference in *kind*, and link `[[emergent-dualism]]` (currently one-way ED to EV).
-
 ### P3: voids/origin-of-consciousness: "Not emergence" listed as a settled negative (L93) with a mis-stated reason, against the Map's treatment of emergent dualism as a well-defended horn; the void links none of its evolution-wing siblings
 - **Type**: refine-draft
 - **Status**: pending
@@ -1550,6 +1542,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: voids/emergence-void: the "weak emergence gap" contains a phenomenal term ("felt warmth", L52, L76), so the universality evidence (L60) assumes its conclusion; LLMs called "strongly emergent" (L94); L106 dualist support from depth sits against L110's "universal limit"
+- **Type**: refine-draft
+- **File**: obsidian/voids/emergence-void.md
+- **Notes**: **Headroom 1017 words (voids hard 3000; analyze_length 1982).** File lines from 2026-09-27; re-grep. (a) **L52** "without grasping *why* this pattern of vibrating particles constitutes felt warmth" and **L76** "constitute *that* thermal experience": the temperature case becomes a consciousness case, so it cannot serve as independent evidence of a *general* level-transition gap (L60). Restate the weak-emergence gap without an experiential term, or concede that the cross-domain gap is thinner than the phenomenal one. (b) **L94** "Large language models are themselves strongly emergent": in the Map's `[[emergence]]` usage, scaling-emergent capabilities are weak emergence. Say "display capabilities not predictable from parameters" or similar. (c) **L106** vs **L110**: if the hard problem is "consciousness's particular expression of a universal cognitive limit", greater depth alone does not support dualism. State that the dualist inference needs a difference in *kind*, and link `[[emergent-dualism]]` (currently one-way ED to EV).
 
 ### ✓ 2026-09-28: Write concept page on Pudgalavāda — calibrating the "close precedent" claim for the Map's persisting subject
 - **Type**: expand-topic

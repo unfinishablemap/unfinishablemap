@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-28 10:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pudgalavāda — calibrating the "close precedent" claim for the Map's persisting subject
+- **Output**: [pudgalavada](/concepts/pudgalavada/)
+- **Word count**: 2752 (analyze_length, incl. ~350 of references/further reading; prose ~2400 vs the ~1800-2200 brief — the verified quotations from Priestley, Carpenter, the Kathāvatthu and Pruden's AKBh are the page's value and were kept; concepts soft 2500 / hard 3500)
+- **Based on research**: yes — [pudgalavada-persisting-subject-2026-09-28](/research/pudgalavada-persisting-subject-2026-09-28/). All quotations are the note's [V] set; Siderits 2003 cited only via Coseru; Carpenter 2015 flagged as checked against the 2010 author draft, no published page numbers; Kathāvatthu quoted only at lines the note marked legible.
+- **Structure**: four-part concept format (neutral definition → scholarship disputes → refutations → Map comparison marked as the Map's) with the refutation-reach table rendered as prose under `{#which-refutations-reach}`. Verdict: structural parallel only; nearer precedent on non-physicality + agency is the Nyāya-Vaiśeṣika ātman; the Map sits between; Vasubandhu's agent argument reaches directly, the ownership argument splits (mastery conceded / for-me-ness untouched, svasaṃvedana rival flagged not assessed), the entity/designation dilemma is taken on the entity horn with two owed debts (origin; identity through change = bedrock).
+- **Integration** (same pass): (1) `topics/buddhist-perspectives-on-meaning` L131 — "ownership horn is harder" now says in which sense (mastery vs for-me-ness) and links `[[pudgalavada]]`; +~50 words (3626→~3680, topics hard 4000). (2) `concepts/haecceity` L125 — "on some reconstructions" qualifier with Carpenter's no-further-fact / fn. 67 hedge, links `[[pudgalavada]]`; +~30 words (3395→~3425, concepts hard 3500). (3) `concepts/self-and-self-consciousness` L174 — piped link at zero word cost (page is over hard cap). `topics/personal-identity` NOT linked: it is 45 words over its hard cap and L106 offers no phrase a piped link would fit honestly; left for a future condense pass. Other candidates from the research note (`where-the-substance-commitment-enters`, `buddhism-and-dualism`, `mine-ness`, `agent-causation`, `indian-philosophy-of-mind`) are linked outbound only.
+- **Apex sources**: the new page is not a source for any apex article (grep count 0 in `apex/apex-articles.md`). Of the edited pages only `self-and-self-consciousness` appears there (1 hit); its edit is a zero-content piped link, so no apex-evolve task minted.
+- **Published**: yes (vault-wide sync run; Hugo copies of all four files verified, inbound links converted to `/concepts/pudgalavada/`)
+
 ## 2026-09-28 10:09 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
