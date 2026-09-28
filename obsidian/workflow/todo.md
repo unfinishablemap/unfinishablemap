@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Correct the flame analogy in `concepts/haecceity` ("neither the same nor another") and name the Pudgalavāda precedent
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/haecceity.md
-- **Review file**: `reviews/outer-review-2026-09-28-claude-opus-5-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-28
-- **Notes**: From outer review 2026-09-28 (Claude Opus 5.5). Verified on disk: the "Flame Analogy" section (L119–121) uses the flame to support process haecceity ("the same flame-process … *this* flame is distinguishable … by its particular causal history"). In the Milindapañha lamp passage, Nāgasena answers *na ca so na ca añño*, "neither the same nor another". The point of the passage is that there is no determinate fact about strict identity, which cuts against a primitive thisness. Say that the Map is adapting the analogy against its source's intent, or replace the analogy. Also name the historical precedent: a subject that is neither identical to nor different from the aggregates is the Pudgalavāda "person", which the mainstream schools refuted (Kathāvatthu opening; Vasubandhu, *Abhidharmakośabhāṣya* ch. 9). The corpus currently has zero mentions of Pudgalavāda (grep 2026-09-28). Verify the Milindapañha wording at a primary translation before quoting it. LENGTH: ~3237 words including references; clause-level only.
-
 ### P2: Stop presenting Buddhist no-self as a denial of only a *permanent* self in `concepts/witness-consciousness` and `concepts/self-and-self-consciousness` (SN 22.59 control/ownership argument)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1582,6 +1573,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Correct the flame analogy in `concepts/haecceity` ("neither the same nor another") and name the Pudgalavāda precedent
+- **Type**: refine-draft
+- **File**: obsidian/concepts/haecceity.md
+- **Notes**: From outer review 2026-09-28 (Claude Opus 5.5). Verified on disk: the "Flame Analogy" section (L119–121) uses the flame to support process haecceity ("the same flame-process … *this* flame is distinguishable … by its particular causal history"). In the Milindapañha lamp passage, Nāgasena answers *na ca so na ca añño*, "neither the same nor another". The point of the passage is that there is no determinate fact about strict identity, which cuts against a primitive thisness. Say that the Map is adapting the analogy against its source's intent, or replace the analogy. Also name the historical precedent: a subject that is neither identical to nor different from the aggregates is the Pudgalavāda "person", which the mainstream schools refuted (Kathāvatthu opening; Vasubandhu, *Abhidharmakośabhāṣya* ch. 9). The corpus currently has zero mentions of Pudgalavāda (grep 2026-09-28). Verify the Milindapañha wording at a primary translation before quoting it. LENGTH: ~3237 words including references; clause-level only.
 
 ### ✓ 2026-09-28: Correct the Siderits (2025) characterisation in `topics/eastern-philosophy-consciousness`: illusionism, not reduction; heterodox and not endorsed
 - **Type**: refine-draft

@@ -5,6 +5,13 @@ ai_modified: '2026-09-28T04:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T07:36:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/haecceity]]
+- **Original score**: n/a (targeted fix from [[reviews/outer-review-2026-09-28-claude-opus-5-5]])
+- **Changes**: "The Flame Analogy" now states that the Map adapts the Milindapañha lamp simile against its source's intent. Nāgasena's *na ca so na ca añño* ("Neither the same nor another") denies a determinate fact of strict identity, which cuts against primitive thisness. The section marks process haecceitism's "further fact" as the Map's own addition and names the Pudgalavāda "person" as its nearest precedent, refuted in the *Kathāvatthu* and in *Abhidharmakośabhāṣya* ch. 9, linking [[buddhist-perspectives-on-meaning]] rather than duplicating it. "Buddhist Compatibility" now says the position "seeks to reconcile" with anattā instead of "reconciles". A Rhys Davids (1890) reference was added. The quotes and the locator were verified against the primary text: SBE 35 pp. 63-64 (archive.org djvu text, Book II ch. 2 §1, Trenckner p. 40) and the Pāli "Na ca so na ca añño" (payer.de edition). The unverified "II.2.1" locator in topics/buddhist-perspectives-on-meaning is therefore CORRECT, and no change was needed there. Length went from 3237 to 3392 words (concepts hard 3500).
+- **Published**: yes
+
 ## 2026-09-28T07:22:14+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Memory, imagination and reconstruction wing, 9 pages chosen by coverage (110 live files never named in an Aug/Sep optimistic review): topics/reconsolidation-as-selection-window, topics/phenomenology-of-forgetting, topics/phenomenology-of-imagination, concepts/mental-imagery, concepts/implicit-memory, concepts/selective-correction-and-reconstruction-paradox, concepts/narrative-coherence, voids/narrative-void, concepts/default-mode-network. Findings: reconsolidation, forgetting and mental-imagery L129 are exemplary on calibration. The older siblings treat felt effort as evidence (imagination L118, mental-imagery L161), classify priming and blindsight inconsistently (implicit-memory L133 against mental-imagery and selective-correction), keep the quick Many Worlds argument (implicit-memory L191-193), and narrative-coherence never engages Strawson. Only 3 of 72 directed body links exist within the wing.

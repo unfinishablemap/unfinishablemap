@@ -39,15 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Correct the Siderits (2025) characterisation in `topics/eastern-philosophy-consciousness`: illusionism, not reduction; heterodox and not endorsed
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/eastern-philosophy-consciousness.md
-- **Review file**: `reviews/outer-review-2026-09-28-claude-opus-5-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-28
-- **Notes**: From outer review 2026-09-28 (Claude Opus 5.5). This is a sibling-page propagation of the Siderits finding that both 2026-09-28 reviewers raised against `topics/buddhist-perspectives-on-meaning`. Loci verified on disk. L143 says Siderits is "reconstructing the aggregate analysis so that phenomenal consciousness reduces to the impersonal processes", and L183 says it is "assembled from Buddhist premises rather than imported against them". L178 ("develops this from inside the tradition") and L189 ("reconstructs the tradition on physicalist premises") repeat the framing. Per `concepts/buddhism-and-dualism` L122, the ch. 8 abstract makes qualia "artifacts of the deployment of a sort of useful fiction", which is illusionism, not reduction, and Siderits withholds endorsement (Garfield, *Tricycle*). The publisher description (Princeton catalogue; checked by search 2026-09-28) also says Indian Buddhist philosophers "uniformly rejected physicalism in favor of either a dualist or an idealist ontology". So "from inside the tradition" should read as a newly built view that the classical schools would have rejected. That is a point the Map is owed and currently leaves out. LENGTH: ~4775 words including references, at or over the topics hard band, so the edits must be clause-level and length-neutral.
-
 ### P2: Correct the flame analogy in `concepts/haecceity` ("neither the same nor another") and name the Pudgalavāda precedent
 - **Type**: refine-draft
 - **Status**: pending
@@ -1559,8 +1550,45 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
+### P3: implicit-memory: quick Many Worlds argument at L191-193 ("branches where the expert misses every shot"); L196 "track … perfectly" and the L41 lead overstate the body's own common-cause concession; L131-133 generalises anoetic experience to priming and blindsight
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/implicit-memory.md
+- **Source**: optimistic-review 2026-09-28 (reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md, Calibration concerns 3 and 4)
+- **Generated**: 2026-09-28
+- **Notes**: **Headroom 155 words (concepts hard 3500; analyze_length 3344, soft_warning) — LENGTH-NEUTRAL.** File lines from 2026-09-28; re-grep. (a) **L191-193** No Many Worlds: skilled performance is mostly classical, and all-miss branches have negligible Born weight, so an Everettian predicts the regularity. Replace the argument with the hub template: branch-local selection is granted, and the dispute is global exclusion, a posit (`consciousness-evolution-and-biology` L148; `tenets/background-commitments`). Shorter is fine. (b) **L196** "happens to track performance degradation perfectly": drop "perfectly" and align with L101/L188 (common cause conceded; "not plausibly idle"). (c) **L41** lead: "precisely what distinguishes it from mere neural noise" is stronger than the body's conclusion. Bring it into line with L101. (d) **L131-133**: scope the anoetic reading to procedural and skill cases. Subliminal priming and blindsight are where `mental-imagery` L55/L67 and `selective-correction-and-reconstruction-paradox` L61 treat experience as absent, and "There may be no purely computational cognitive processing" should be marked as tenet-coherent, not evidence-elevating. Last deep review 2026-09-21 (Stout/Tulving and common-cause fixes landed; keep them).
+
+### P3: mental-imagery: lead (L44) and tenet section (L161, L167) assert what the body's standoff (L113-117) and aphantasia result (L129) disclaim; L153 files great-ape cognition as "unconscious processing"
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/mental-imagery.md
+- **Source**: optimistic-review 2026-09-28 (reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md, Calibration concerns 2 and 5)
+- **Generated**: 2026-09-28
+- **Notes**: **Headroom 173 words (concepts hard 3500; analyze_length 3326, soft_warning) — LENGTH-NEUTRAL.** Last deep review 2026-07-11. File lines from 2026-09-28; re-grep. (a) **L44** "the causal chain runs from conscious imagining to physical performance": give it the L117 standoff status in the lead. (b) **L161** "The effort you feel … is not epiphenomenal accompaniment — it reflects consciousness doing work": that is the conclusion under dispute. Recast it as the Map's reading, as L117 does, and consider linking `[[agency-void]]`. (c) **L167** "phenomenal difference beyond what functional differences predict supports the claim that consciousness is irreducible": the same paragraph cites frontoparietal-visual connectivity differences, and L129 (Dupont 2024) reports impaired simulation circuits. Scope it to "where activation overlaps", or weaken "supports" to "is consistent with". (d) **L153** "unconscious processing — even the sophisticated cognition demonstrated by great apes": `baseline-cognition` L53-55 says "without *substantial* conscious contribution" and restricts the gap to metarepresentation. Say "cognition without metarepresentation" so that ape consciousness is not moved down the scale. KEEP L129 exactly: it is the page's best passage.
+
+### P3: narrative-coherence: engage Strawson's "Against Narrativity" and the narrative void; L35 "provides evidence", L73 "confirm … neither automatic nor epiphenomenal", L81 flat selection claim overstate
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/narrative-coherence.md
+- **Source**: optimistic-review 2026-09-28 (reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md, Calibration concern 6; cross-links)
+- **Generated**: 2026-09-28
+- **Notes**: **Headroom 1701 words (concepts hard 3500; analyze_length 1798, ok).** Last deep review 2026-07-13. File lines from 2026-09-28; re-grep. (a) Strawson appears 0 times in the page (`grep -ci strawson`), yet the page treats the absence of coherence only as pathology (L63-73). Add about 150 words on Strawson (2004, *Ratio* 17(4):428-452, already cited correctly in `voids/narrative-void` refs) and his "episodic" people, who lack diachronic narrative without loss. Answer it: for example, the substantial self does not depend on narrative coherence, which then plays a smaller part. Check `topics/diachronic-agency-and-personal-narrative` for its existing treatment and match it. (b) Link `[[narrative-void]]` in the body (only the reverse link exists). Its L96-98 says construction may be done by a physical interpreter, and consciousness as audience may be "misled about its own causal efficacy". That bears on L61 "someone must be doing the constructing". (c) **L35** "provides evidence that the substantial self is more than a philosophical postulate" → "is read by the Map as". **L73**: breakdowns show that coherence depends on capacities, not that it is non-epiphenomenal. **L81**: mark "consciousness selecting among physical possibilities" as the Map's posited reading (template: `reconsolidation-as-selection-window` L65-67).
+
+### P3: phenomenology-of-imagination: L118 ranks felt imaginative effort as "the stronger evidence" for mental causation, against `phenomenology-of-forgetting` L105 / agency void; L116 and L90 overstate
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/phenomenology-of-imagination.md
+- **Source**: optimistic-review 2026-09-28 (reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md, Calibration concern 1)
+- **Generated**: 2026-09-28
+- **Notes**: **Headroom 1239 words (topics hard 4000; analyze_length 2760, ok; YT embed present).** File lines from 2026-09-28; re-grep. (a) **L118** "The phenomenology of imaginative effort … remains the stronger evidence that imagination involves genuine mental causation": the two sentences before it say the motor-imagery evidence does not adjudicate, and the sibling forgetting page (L105) says felt agency "is not first-person-verifiable as a cause". Recast it: felt effort is the datum an epiphenomenalist or identity theorist must accommodate, not stronger evidence. Link `[[agency-void]]`. (b) **L116** "The Map's Dualism tenet finds support in…" → "The Map reads … as support for". (c) **L90** "An AI generates novel text without experiencing the semantic landscape from within": hedge it to match the Map's open stance on AI consciousness (e.g. "need not experience"). Optional: link `[[default-mode-network]]` where mind-wandering or planning is discussed. KEEP L98 and L108; they are already well calibrated.
+
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Correct the Siderits (2025) characterisation in `topics/eastern-philosophy-consciousness`: illusionism, not reduction; heterodox and not endorsed
+- **Type**: refine-draft
+- **File**: obsidian/topics/eastern-philosophy-consciousness.md
+- **Notes**: From outer review 2026-09-28 (Claude Opus 5.5). This is a sibling-page propagation of the Siderits finding that both 2026-09-28 reviewers raised against `topics/buddhist-perspectives-on-meaning`. Loci verified on disk. L143 says Siderits is "reconstructing the aggregate analysis so that phenomenal consciousness reduces to the impersonal processes", and L183 says it is "assembled from Buddhist premises rather than imported against them". L178 ("develops this from inside the tradition") and L189 ("reconstructs the tradition on physicalist premises") repeat the framing. Per `concepts/buddhism-and-dualism` L122, the ch. 8 abstract makes qualia "artifacts of the deployment of a sort of useful fiction", which is illusionism, not reduction, and Siderits withholds endorsement (Garfield, *Tricycle*). The publisher description (Princeton catalogue; checked by search 2026-09-28) also says Indian Buddhist philosophers "uniformly rejected physicalism in favor of either a dualist or an idealist ontology". So "from inside the tradition" should read as a newly built view that the classical schools would have rejected. That is a point the Map is owed and currently leaves out. LENGTH: ~4775 words including references, at or over the topics hard band, so the edits must be clause-level and length-neutral.
 
 ### ✓ 2026-09-28: Propagate the school-scoping and Siderits-illusionism caveats into `concepts/buddhism-and-dualism`
 - **Type**: refine-draft

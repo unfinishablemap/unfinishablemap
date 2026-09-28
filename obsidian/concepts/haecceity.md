@@ -2,9 +2,9 @@
 title: "Haecceity and Indexical Identity"
 description: "The quality of being this particular conscious subject. Pattern-based theories cannot capture what makes you you rather than a qualitative duplicate."
 created: 2026-01-16
-modified: 2026-09-19
+modified: 2026-09-28
 human_modified: null
-ai_modified: 2026-09-27T13:54:16+00:00
+ai_modified: 2026-09-28T07:36:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,9 +118,13 @@ Process haecceitism rejects both horns. Particularity is real—*this* experient
 
 ### The Flame Analogy
 
-Buddhism's flame analogy illuminates the core idea. Tonight's candle flame is causally continuous with yesterday's—the same flame-process—without being a persisting substance. Yet *this* flame is distinguishable from another candle's flame, even if both were qualitatively identical at each instant, by its particular causal history. Consciousness works similarly: *this* stream of experience is particular, grounded in the specific chain of moments where *this* experience gave rise to *that* one.
+The Map adapts Buddhism's lamp simile against its source's intent. Asked whether one who is born remains the same or becomes another, Nāgasena answers "Neither the same nor another" (*na ca so na ca añño*; *Milindapañha* II.2.1; Rhys Davids 1890, 63–64): a lamp burning through the night has no single flame across the watches, yet "The light comes from the same lamp all the night through." His point is that no determinate fact of strict identity underlies the continuity, which cuts against primitive thisness.
 
-The analogy separates two claims often conflated: **permanence** (something unchanging persists) and **particularity** (*this* is distinguishable from *that*). Substance views bundle these together. Process haecceitism unbundles them.
+The Map's adaptation: a flame is causally continuous with its earlier phases without being a persisting substance, yet *this* flame is distinguishable from another candle's flame, even if both were qualitatively identical at each instant, by its particular causal history. Consciousness works similarly: *this* stream of experience is particular, grounded in the specific chain of moments where *this* experience gave rise to *that* one. Where Nāgasena leaves identity indeterminate, process haecceitism adds a further fact about which stream is *this* one.
+
+That further fact's nearest precedent is the Pudgalavāda "person", neither identical to nor different from the aggregates, which the *Kathāvatthu* opens by refuting and Vasubandhu attacks in *Abhidharmakośabhāṣya* ch. 9; [[buddhist-perspectives-on-meaning]] treats that dispute.
+
+Adapted this way, the analogy separates two claims often conflated: **permanence** (something unchanging persists) and **particularity** (*this* is distinguishable from *that*). Substance views bundle these together. Process haecceitism unbundles them.
 
 ### Whitehead's Framework
 
@@ -134,7 +138,7 @@ The position makes minimal commitments: (1) an experiential process is individua
 
 ### Buddhist Compatibility
 
-Process haecceitism reconciles the Map's commitment to indexical identity with Buddhist *anattā* (no-self). *Anattā* targets the permanent, unchanging soul (*ātman*)—it does not deny that *this* person experiences *this* moment. The [[vertiginous-question]]—"Why am *I* this one?"—remains coherent: the shift from substance to process reframes what bears the indexical property without dissolving the puzzle.
+Process haecceitism seeks to reconcile the Map's commitment to indexical identity with Buddhist *anattā* (no-self). *Anattā* targets the permanent, unchanging soul (*ātman*)—it does not deny that *this* person experiences *this* moment. The [[vertiginous-question]]—"Why am *I* this one?"—remains coherent: the shift from substance to process reframes what bears the indexical property without dissolving the puzzle.
 
 Contemplative evidence supports this. Advanced meditators who deconstruct the substantial self don't report losing particularity (Siderits 2007, ch. 3-6). They continue to experience *this* moment while recognising no permanent self underlies the experience. As [[eastern-philosophy-consciousness]] develops, "conventional" in Buddhist philosophy means "dependently arisen," not "unreal." The particularity of *this* experiential stream is conventional but genuine.
 
@@ -210,6 +214,7 @@ Process haecceitism refines part of what the Map presupposes: personal identity 
 1. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
 1. Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Rhys Davids, T. W. (trans.) (1890). *The Questions of King Milinda*, Part I. Sacred Books of the East 35. Clarendon Press.
 1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 1. Stepien, R. K. (2021). "Substantialism, Essentialism, Emptiness: Buddhist Critiques of Ontology." *Journal of Indian Philosophy*, 49, 871-893.
