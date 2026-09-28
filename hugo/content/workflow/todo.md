@@ -1431,14 +1431,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: Ballanger et al. 2006 found cue/urgency speed-ups of the same size in healthy controls as in Parkinson's patients, and Distler et al. 2016 found internal expectation alone suffices — so the external-trigger effect does not isolate an "upstream selection" deficit. The habitual-control reading (Redgrave et al. 2010, *Nat Rev Neurosci* 11(11):760-772) is a live rival. Scope L104 to what the data support and link [paradoxical-kinesia](/topics/paradoxical-kinesia/) (see its prediction table). **motor-selection is at 3499/3500 (hard) — the edit must be length-neutral or negative.** Keep consistent with today's dopamine-and-the-unified-interface scoping (commit 0b9ac02d).
 
-### P3: direction-of-interface-change L73: the filter reading "appears to derive" a direction-sensitive signature — the repaired source says it is only *consistent with* one
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: concepts/direction-of-interface-change.md
-- **Source**: refine-draft 9ef0ee3e + deep-review 2026-09-27 (direction-dependent-discriminating-test-design); flagged twice, never minted
-- **Generated**: 2026-09-27
-- **Notes**: Template: `topics/memory-channel-interface-evidence` (~L136) — the filter reading "is *consistent with* a direction-sensitive signature rather than deriving one… That clause forbids no ordering, the mirror-symmetric one included." Also `topics/direction-dependent-discriminating-test-design` L48/L76 as repaired today (filter reading "permits", does not predict). L73 already hedges it as a judgement the production theorist need not grant, so this is a one-clause alignment, word-neutral. Grep the concept page for any remaining "predict"/"derive" framing of the filter reading.
-
 ### P3: coupling-modes L189: Georgiev (2015) is miscited as "Georgiev & Glazebrook (2014) … 29(15)" — sole author, 2015, issue 7
 - **Type**: refine-draft
 - **Status**: pending
@@ -1505,6 +1497,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: direction-of-interface-change L73: the filter reading "appears to derive" a direction-sensitive signature — the repaired source says it is only *consistent with* one
+- **Type**: refine-draft
+- **File**: concepts/direction-of-interface-change.md
+- **Notes**: Template: `topics/memory-channel-interface-evidence` (~L136) — the filter reading "is *consistent with* a direction-sensitive signature rather than deriving one… That clause forbids no ordering, the mirror-symmetric one included." Also `topics/direction-dependent-discriminating-test-design` L48/L76 as repaired today (filter reading "permits", does not predict). L73 already hedges it as a judgement the production theorist need not grant, so this is a one-clause alignment, word-neutral. Grep the concept page for any remaining "predict"/"derive" framing of the filter reading.
 
 ### ✓ 2026-09-28: Address pessimistic-review gaps in `concepts/swampman` — narrow-content perimeter, zombie fallback, Dretske 1996 omission
 - **Type**: refine-draft

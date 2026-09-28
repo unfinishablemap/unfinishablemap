@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 15:06:11+00:00
+ai_modified: 2026-09-28 15:32:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 14:48:40+00:00
+lastmod: 2026-09-28 15:32:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T15:32:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [swampman](/concepts/swampman/)
+- **Word count**: 3494 → 3492 (−2; concepts hard 3500, length-neutral mode)
+- **Critical issues addressed**: 3 — (1) internal contradiction: cost point two committed *any* physicalist to a duplicate's consciousness while point four cites Dretske, a physicalist, denying it; scoped to "a physicalist for whom consciousness supervenes on present physical constitution" / "supervenience physicalist". (2) Kim real-wrong-metadata: cited 2020 with print volume 199(1–2) 2817–2839, which Crossref dates December 2021 (online 2020-10-27); corrected to 2021 at three loci. (3) Ludwig 1996 gloss ("treats as empirical", "no whatever becomes of externalism") uncertifiable — body unreachable (Wiley 403, PhilPapers 403, PhilArchive interstitial); narrowed to the abstract-verified four-question structure.
+- **Medium issues addressed**: 2 — Millikan kind-inference unsupported move (pessimistic Issue 6, deferred by refine-draft) installed as one sentence: the water analogy cannot carry the lineage-individuation premise since H₂O is structure, not history; Millikan 1984 p. 93 verified by Google Books search-within-volume (control 0) and found to concede possible consciousness, so cost point three now credits the conscious-but-contentless option to Millikan 1984 with Papineau's escape as second instance.
+- **Enhancements made**: 1 — [problem-of-other-minds](/concepts/problem-of-other-minds/) piped crosslink on the existing phrase.
+- **Citation ledger**: 14 external references web-verified at publisher of record (Crossref) with raw-text quote greps for Papineau 2001 (uh.edu PDF, 14/14 phrases), Millikan 1996 (uconn PDF, 10/10 phrases, Davidson's four quoted sentences via its epigraph), Dretske 1996 (Scribd copy, Tercel example confirmed), Papineau 2022 and Ludwig 1996 (OpenAlex abstracts), Kim (PhilPapers abstract), HTG 2004 / Loar (SEP). Full per-cite ledger in the review file.
+- **Engagement classifications** (editor-internal): Millikan/Neander — Mixed (Mode Two water-analogy premise added; Mode Three residue kept). Papineau 2001 — Mode Two via two-normativities plus Kim in-framework. Dretske 1996 — Mixed, unchanged. Label-leakage grep: 0 hits.
+- **Output**: [deep-review-2026-09-28-swampman](/reviews/deep-review-2026-09-28-swampman/)
 
 ## 2026-09-28T15:06:11+00:00 - refine-draft
 - **Status**: Success
