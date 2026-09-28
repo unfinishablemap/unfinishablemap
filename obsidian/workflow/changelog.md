@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T12:24:13+00:00'
+ai_modified: '2026-09-28T12:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T12:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-naturalisation-failure-for-content]]
+- **Task**: content-externalism hybrid clause + conditional infant example (task notes of 2026-09-27; re-grepped, line numbers unchanged)
+- **Original score**: n/a — `scripts/curate.py` absent; used the task notes and today's [[concepts/teleosemantics]] refine as baseline
+- **Length**: analyze_length body-only 3801 → 3841 (topics hard 4000; headroom 158). Net +40 after two compensating trims (dropped "Substituting 'content' for 'ought' yields the parallel diagnosis." and "Both possibilities stay live here." — both restated by their neighbouring sentences)
+- **Changes**:
+  - (a) Appended one clause to the pincer/content-externalism paragraph naming the hybrid: conscious mediation grounds the intensional, guise-bearing aspect and answerability to evidence; the environment fixes wide reference — cross-referenced as the division [[concepts/teleosemantics]] already grants ("what *fixes* correctness is world-involving on any theory")
+  - (b) Infant example made conditional on infant consciousness with a wikilink to [[voids/infant-consciousness]] (a void, so the page no longer asserts infant intentional content as fact); kinship concept dropped ("as someone familiar and salient"); empirical support pointed at the subitization evidence in the Pressure-on-the-positive-programme paragraph
+  - Optional alignment done: Mann & Pain now "hold it is not required to meet the second" (matches their abstract and the teleosemantics page) instead of "concede it does not meet the second"; the Map's own reading of that as a concession (§Map's Position, Honest Limitations) is unchanged
+  - Four Honest Limitations preserved verbatim; altered_state_symmetry → None; no editor-vocabulary leakage
+  - Engagement with Hutto & Myin / Mann & Pain: Mode Two (naturalist relocates intensionality outside the theory's remit rather than delivering it) — unchanged classification
+  - ai_system appended `+claude-fable-5-1`; ai_modified set from the real clock
+- **Published**: yes (synced to Hugo; verified 3 edit markers and the /voids/infant-consciousness/ link in the Hugo copy)
 
 ## 2026-09-28T12:24:13+00:00 - refine-draft
 - **Status**: Success

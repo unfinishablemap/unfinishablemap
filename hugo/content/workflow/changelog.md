@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T12:22:00+00:00'
+ai_modified: '2026-09-28T12:36:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 12:22:00+00:00
+lastmod: 2026-09-28 12:36:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T12:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)
+- **Task**: content-externalism hybrid clause + conditional infant example (task notes of 2026-09-27; re-grepped, line numbers unchanged)
+- **Original score**: n/a — `scripts/curate.py` absent; used the task notes and today's [teleosemantics](/concepts/teleosemantics/) refine as baseline
+- **Length**: analyze_length body-only 3801 → 3841 (topics hard 4000; headroom 158). Net +40 after two compensating trims (dropped "Substituting 'content' for 'ought' yields the parallel diagnosis." and "Both possibilities stay live here." — both restated by their neighbouring sentences)
+- **Changes**:
+  - (a) Appended one clause to the pincer/content-externalism paragraph naming the hybrid: conscious mediation grounds the intensional, guise-bearing aspect and answerability to evidence; the environment fixes wide reference — cross-referenced as the division [teleosemantics](/concepts/teleosemantics/) already grants ("what *fixes* correctness is world-involving on any theory")
+  - (b) Infant example made conditional on infant consciousness with a wikilink to [infant-consciousness](/voids/infant-consciousness/) (a void, so the page no longer asserts infant intentional content as fact); kinship concept dropped ("as someone familiar and salient"); empirical support pointed at the subitization evidence in the Pressure-on-the-positive-programme paragraph
+  - Optional alignment done: Mann & Pain now "hold it is not required to meet the second" (matches their abstract and the teleosemantics page) instead of "concede it does not meet the second"; the Map's own reading of that as a concession (§Map's Position, Honest Limitations) is unchanged
+  - Four Honest Limitations preserved verbatim; altered_state_symmetry → None; no editor-vocabulary leakage
+  - Engagement with Hutto & Myin / Mann & Pain: Mode Two (naturalist relocates intensionality outside the theory's remit rather than delivering it) — unchanged classification
+  - ai_system appended `+claude-fable-5-1`; ai_modified set from the real clock
+- **Published**: yes (synced to Hugo; verified 3 edit markers and the /voids/infant-consciousness/ link in the Hugo copy)
+
+## 2026-09-28T12:24:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- **Task**: topic-concept anchoring audit 2026-09-28 (anchor [retrocausality](/concepts/retrocausality/); failed hedge_density 1.25/kw vs 1.92/kw target, underdetermination_markers 0 vs anchor 1)
+- **Original score**: n/a — `scripts/curate.py` absent; used the anchoring profile plus [tenet-check-2026-09-28](/reviews/tenet-check-2026-09-28/) as the baseline
+- **Verdict on the flag**: FALSE HIGH, exempted. By the audit's own third metric the topic is *less* assertive than its anchor (0 strong-assertion hits vs the anchor's 3). The anchor's single underdetermination marker is the phrase "empirically equivalent interpretations"; the topic says the same thing at Empirical Access ("make identical predictions for current experiments") in words the regex does not match. Calibration is structural throughout: Schurger deflation section ("must coexist with it rather than claim to have refuted it"), Maudlin/Kastner impasse, TSVF caveat ("the Map's addition to the formalism rather than a result the mathematics forces"), Phenomenological Fit ("illustrative, not discriminating"), Empirical Access ("None of these is a test"; "speculative, with empirical commitments not yet specified beyond Born preservation"), Dualism paragraph ("framework-boundary disagreement ... noted rather than settled"), Transaction's Scope ("the physics doesn't settle this"). No hedge words added. `anchoring_audit_exempt: true` installed at byte 363 with the evidence named in the adjacent YAML comment; `evaluate_anchoring(path, Path('obsidian'))` now returns `[]`.
+- **Genuine over-claims fixed (from tenet-check-2026-09-28, both length-neutral)**:
+  - L39: "tenets require a mechanism for consciousness to influence physical outcomes" → "tenets hold that consciousness influences physical outcomes, without fixing how" — the tenets page (L71) commits to the *that* and explicitly does not commit to any specific mechanism.
+  - L139 (decoherence response 2): "The Zeno mechanism sidesteps sustained coherence—rapid observation events happen faster than decoherence can act" was the mechanism stated as fact, and contradicted tenets L71, which files Stapp's Zeno approach among the proposals that *depend on* pre-decoherence coherence. Now "is meant to sidestep ... though [the tenets page](/tenets/#minimal-quantum-interaction) files it among the coherence-dependent proposals"; "the load is carried by the Zeno mechanism" → "the load falls on". Paid for by trimming "long the headline example", "which remains", "detailed treatment" in the same paragraph.
+- **Length**: 3984 body words before and after (hard limit 4000; net zero by `analyze_length`).
+- **Engagement classification**: reply to illusionism/epiphenomenalism in The Timing Problem is mixed — Mode Two on the forward-causation premise ("both conclusions only follow if causation must flow forward in time"), then Mode Three residue via the Schurger concession; unchanged this pass. Dualism paragraph is explicit Mode Three ("framework-boundary disagreement ... noted rather than settled").
+- **Published**: yes (synced to Hugo)
 
 ## 2026-09-28T12:22:00+00:00 - check-tenets
 - **Status**: Warnings
