@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T16:30:15+00:00
+ai_modified: 2026-09-28T16:36:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T16:36:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]] (+ [[positions/agency-and-will]] P-A3; archive/topics/attention-as-selection-interface, attention-interface-mechanisms, attention-motor-quantum-selection)
+- **Original score**: n/a (targeted Sjöberg 2024 residual sweep; todo line 1432)
+- **Changes**: motor-control-quantum-zeno L56 — "independent confirmation" downgraded to what a three-page *Brain* essay on SMA-resection cases supports: initiation deficits with willing preserved, "clinical observation rather than confirmation"; wording matched to [[concepts/libet-experiments]] L69-71 and [[concepts/agent-causation]] L133/L146. 3290→3338 words (topics hard 4000, still soft_warning). agency-and-will P-A3 Asserts — "retain voluntary agency" narrowed to "retain the sense of willing despite initiation deficits"; dated Updated 2026-09-28 note added. Paid inside P-A3: Asserts closing sentence and hypothesis sentence tightened (restated the preceding sentence / Reconciled note), calibration-line citation list dropped (duplicates Depends on), 2026-07-16 note's battery parenthetical replaced by a pointer to Would shift if, Reconciled-note preamble trimmed. Entry 561→557, file 3668→3664 (net −4). Archive tables — theta-row motor cell "Present for voluntary movement initiation" → "Untested for willed versus instructed movement" in all three files (Köhler 2024 has no reference entry in any of them, so scoping to it would have left a dangling cite; the sibling row's "Untested for motor deliberation" idiom used instead). Residue grep: 0 in obsidian+archive. Pages saying patients "retain their sense of voluntary action" (free-will, motor-selection, phenomenology-mechanism-bridge, process-and-consciousness) left unchanged per task. No named-opponent reply touched; no reasoning-mode classification needed.
+- **Published**: yes
 
 ## 2026-09-28T16:30:15+00:00 - optimistic-review
 - **Status**: Success

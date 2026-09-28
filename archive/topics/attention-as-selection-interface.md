@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-09-28T01:22:44+00:00
+ai_modified: 2026-09-28T16:36:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -74,7 +74,7 @@ Three signatures were described here as distinguishing willed from automatic pro
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|
-| **Frontal theta** | Greater for willed attention than for instructed, from ~500 ms post-cue (Rajan et al. 2019; a relative increase, not presence/absence) | Present for voluntary movement initiation |
+| **Frontal theta** | Greater for willed attention than for instructed, from ~500 ms post-cue (Rajan et al. 2019; a relative increase, not presence/absence) | Untested for willed versus instructed movement |
 | **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Untested for motor deliberation |
 | **~280-300ms timing** | Willed attention takes ~300ms to deploy | Motor commitment occurs ~280ms before movement (Thura & Cisek 2014) |
 

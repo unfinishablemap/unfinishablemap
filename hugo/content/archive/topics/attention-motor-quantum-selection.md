@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-28 01:22:44+00:00
+ai_modified: 2026-09-28 16:36:26+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5
 archive_reason: Coalesced into Mechanisms of the Attention-Consciousness Interface
 archived: true
@@ -25,7 +25,7 @@ description: Attention and motor control share neural substrates—suggesting co
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-28 01:22:44+00:00
+lastmod: 2026-09-28 16:36:26+00:00
 modified: *id001
 original_path: /topics/attention-motor-quantum-selection/
 related_articles:
@@ -71,7 +71,7 @@ The convergence was described here as three neural signatures that distinguish w
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|
-| **Frontal theta** | Greater for willed attention than for instructed, from ~500 ms post-cue (Rajan et al. 2019, lead author Rajan not Bengson; a relative increase, not presence/absence) | Present for voluntary movement initiation |
+| **Frontal theta** | Greater for willed attention than for instructed, from ~500 ms post-cue (Rajan et al. 2019, lead author Rajan not Bengson; a relative increase, not presence/absence) | Untested for willed versus instructed movement |
 | **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Untested for motor deliberation |
 | **~280-300ms timing** | Willed attention takes ~300ms to deploy | Motor commitment occurs ~280ms before movement (Thura & Cisek 2014) |
 

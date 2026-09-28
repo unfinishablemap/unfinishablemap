@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-09-27 09:55:13+00:00
+ai_modified: 2026-09-28 16:36:26+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 23:02:58+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-28 16:36:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ The answer has largely arrived from neuroscience itself, not from philosophy. Tw
 
 Aaron Schurger's 2012 stochastic accumulator model reinterprets the readiness potential as an artifact of averaging neural noise rather than evidence of unconscious decision. In self-paced movement tasks, neural activity fluctuates randomly; movement occurs when fluctuations happen to cross a threshold. Averaging many trials produces the RP's gradual ramp—but this reflects the statistical shape of threshold-crossing events, not a decision process unfolding before awareness. As Schurger put it, the RP may reflect "ongoing stochastic fluctuations in neural activity that favor the spontaneous emission of a movement at certain times more so than at others."
 
-Sjöberg's 2024 review of SMA surgery cases provides independent confirmation. Patients who have had the supplementary motor area resected—the very region generating the readiness potential—retain their sense of voluntary action. If the RP were the neural signature of genuine volition, removing its source should impair the experience of willing. It does not. Sjöberg concluded that Libet's findings are "completely irrelevant to the neuroscientific discussion about free will."
+Sjöberg's 2024 essay in *Brain*—three pages drawing on clinical experience of SMA resection, not a controlled study—points the same way. Patients who have had the supplementary motor area resected, a principal generator of the readiness potential, show temporary deficits in *initiating* movement yet retain the sense of intending and of effort. If the RP were the neural signature of volition itself, removing its source should impair the experience of willing along with execution; on Sjöberg's reading, execution is impaired while willing is preserved. Sjöberg concluded that Libet's findings are "completely irrelevant to the neuroscientific discussion about free will"—a claim about the RP evidence, not an endorsement of conscious causation, and clinical observation rather than confirmation.
 
 These findings do not prove consciousness causes movement. They remove what appeared to be strong evidence that it does not. The playing field is more level than it seemed.
 
