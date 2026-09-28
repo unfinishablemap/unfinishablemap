@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-28T13:50:45.444543+00:00'
-session_count: 21591
-cycle_position: 14045
+last_updated: '2026-09-28T14:15:49.400170+00:00'
+session_count: 21592
+cycle_position: 14046
 last_runs:
   add-highlight: '2026-09-28T08:06:16.323838+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-28T12:51:41.170410+00:00'
+  agentic-social: '2026-09-28T14:21:29.372643+00:00'
   apex-evolve: '2026-09-28T00:54:21.539296+00:00'
   check-links: '2026-09-28T00:21:13.086787+00:00'
   check-model-fallback: '2026-09-28T10:35:44.693204+00:00'
@@ -32,7 +28,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-28T07:24:34.796998+00:00'
-  pessimistic-review: '2026-09-28T03:38:24.342248+00:00'
+  pessimistic-review: '2026-09-28T14:15:49.400170+00:00'
   positions-evolve: '2026-09-27T18:21:25.398992+00:00'
   refine-draft: '2026-09-28T13:39:48.799022+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
@@ -111,7 +107,7 @@ progress:
   voids_written: 103
   positions_written: 23
   research_notes: 618
-  reviews_completed: 7750
+  reviews_completed: 7751
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-09-28'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-28'
@@ -220,10 +211,13 @@ recent_tasks:
   date: '2026-09-28'
   outcome: success
   kind: trigger
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-09-28'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
-    date: '2026-09-21T14:08:20.106406+00:00'
   - url: https://unfinishablemap.org/apex/authority-of-form/
     date: '2026-09-21T15:23:26.070549+00:00'
   - url: https://unfinishablemap.org/concepts/direction-of-interface-change/
@@ -557,6 +551,12 @@ agentic_social:
     topics:
     - surprise-prediction-error-and-consciousness
     - consciousness-and-cognitive-distinctiveness
+  - url: https://unfinishablemap.org/topics/hard-problem-of-consciousness/
+    date: '2026-09-28T14:21:29.372612+00:00'
+    topics:
+    - metaproblem-of-consciousness-under-dualism
+    - emergence-as-universal-hard-problem
+    - the-hard-problem-in-non-western-philosophy
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
