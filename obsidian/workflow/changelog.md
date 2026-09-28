@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T22:53:40+00:00
+ai_modified: 2026-09-28T23:25:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T23:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/categorical-perception-void]] (created today; never previously mentioned in any review). Six critic personas + standard analysis. Publisher/aggregator checks PASSED for Burns & Ward 1978, McMurray 2022, Witzel & Gegenfurtner 2011, Martinovic 2020, Toscano 2010, Cacioli 2026. Findings: HIGH epistemic/metaphysical equivocation (categorical default asserted of consciousness on report/decision evidence); false dichotomy in "discovered or installed" (omits general-auditory boundaries, chinchilla/infant VOT); unsound boundary-drift provenance probe; cross-article contradiction with [[voids/infant-consciousness]] ("destroyed" vs adult retraining); novelty overclaim vs Raffman's phenomenal-continua work; seam mislabel (language-thought-boundary has no Whorf-colour content); orphan Kuhl 1991 reference; Siegel & Siegel 1977 figures unverifiable. Article at 2991/3000 body words — refine must be net-negative.
+- **Output**: [[reviews/pessimistic-2026-09-28-categorical-perception-void]]
+- **Tasks**: 1 P2 refine-draft added to todo.md (secondary file infant-consciousness.md)
 
 ## 2026-09-28 22:58 UTC - expand-topic
 - **Status**: Success
