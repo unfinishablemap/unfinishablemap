@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-25 15:30:51+00:00
+ai_modified: 2026-09-28 16:52:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 13:45:12+00:00
-lastmod: 2026-09-25 15:30:51+00:00
+lastmod: 2026-09-28 16:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ topics:
 
 When you ride a bicycle, tie your shoes, or type on a keyboard, you act without reflective awareness. The skill executes smoothly; you don't observe yourself executing it. You don't mentally replay the lessons where you learned, nor do you consciously retrieve rules about pedal pressure or keystroke sequences. The knowledge is simply expressed in fluent action. This is implicit memory—knowledge that shows in performance rather than conscious recollection.
 
-Implicit memory matters for The Unfinishable Map's framework because it reveals consciousness as an *interface* that can delegate to procedural systems. Endel Tulving associated implicit memory with *anoetic consciousness*: awareness without self-knowledge, action without reflection. Crucially, when consciousness forcibly re-engages with automatized skills—when you attend to your typing or think about your footwork—performance typically *degrades*. This "choking under pressure" phenomenon is evidence consistent with [bidirectional interaction](/concepts/mental-causation-and-downward-causation/): consciousness causally affects procedural execution, sometimes disruptively. A physicalist can describe this as prefrontal cortex activity disrupting basal ganglia motor programs—neural competition between control systems. But the neural competition account leaves unexplained *why it feels like something* to choke: the performer's phenomenal experience of disruptive self-attention is not captured by describing which brain regions interfere with which. If consciousness were epiphenomenal, this phenomenal dimension would be causally inert, yet the felt quality of choking—the anxious self-monitoring—is precisely what distinguishes it from mere neural noise.
+Implicit memory matters for The Unfinishable Map's framework because it reveals consciousness as an *interface* that can delegate to procedural systems. Endel Tulving associated implicit memory with *anoetic consciousness*: awareness without self-knowledge, action without reflection. Crucially, when consciousness forcibly re-engages with automatized skills—when you attend to your typing or think about your footwork—performance typically *degrades*. This "choking under pressure" phenomenon is evidence consistent with [bidirectional interaction](/concepts/mental-causation-and-downward-causation/): consciousness causally affects procedural execution, sometimes disruptively. A physicalist can describe this as prefrontal cortex activity disrupting basal ganglia motor programs—neural competition between control systems. But the neural competition account leaves unexplained *why it feels like something* to choke: the performer's phenomenal experience of disruptive self-attention is not captured by describing which brain regions interfere with which. If consciousness were epiphenomenal, this phenomenal dimension would be causally inert; yet interventions that alter the felt state alter the disruption, and while a common cause could mimic that coupling, the systematic, theory-predicted character of the interference makes the phenomenal dimension not plausibly idle.
 
 ## Tulving's Anoetic Consciousness
 
@@ -132,9 +132,9 @@ A deeper question: does implicit learning occur without *any* form of awareness?
 
 ### The Interpretation
 
-Some interpret this as evidence for genuinely unconscious cognition—processing without any experiential dimension. But the Map's framework, following Tulving, suggests caution. "Implicit" may describe *access* rather than *phenomenology*. The learning may involve anoetic consciousness—experiential but non-reflective—rather than no experience at all.
+Some interpret this as evidence for genuinely unconscious cognition—processing without any experiential dimension. The Map's framework, following Tulving, applies the anoetic reading to procedural and skill cases: there, "implicit" plausibly describes *access* rather than *phenomenology*, and the learning is experiential but non-reflective. The reading does not extend to subliminal priming or blindsight. Elsewhere the Map treats these as processing that never reaches experience at all ([mental-imagery](/concepts/mental-imagery/) on priming; [blindsight](/concepts/blindsight/) and [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) on the blindsight case), and this article does not claim otherwise.
 
-The distinction matters. If implicit learning has phenomenal character, however unreflective, then consciousness pervades cognition more deeply than functionalist accounts suggest. There may be no purely computational cognitive processing—every operation occurs within some experiential mode, even if not the self-aware mode we ordinarily call "conscious."
+The scoped distinction still matters. If skilled action has phenomenal character, however unreflective, then consciousness pervades cognition more deeply than functionalist accounts suggest. The stronger thought—that there may be no purely computational cognitive processing at all—is coherent with the Map's tenets but is not something this evidence establishes; the priming and blindsight cases above count against it.
 
 ## The Illusionist Challenge
 
@@ -192,12 +192,10 @@ How such delegation works at the physical level remains speculative. One propose
 Choking is among the most suggestive evidence for mental causation. A physicalist can describe the neural competition—prefrontal monitoring disrupting basal ganglia motor programs—but this leaves the phenomenal dimension unexplained. The performer *experiences* disruptive self-attention, and interventions that alter the phenomenal state (distraction, outcome focus) reliably alter the disruption. A common cause—reinvestment driving both feeling and neural disruption—could mimic this coupling, so the coupling does not by itself isolate the phenomenal lever; the systematic, predicted character of the interference (harder to dismiss as confabulation than positive agency reports are) is what makes the phenomenal dimension not plausibly idle, which is more than epiphenomenalism comfortably accommodates.
 
 ### No Many Worlds
-Skill execution involves selecting among action possibilities. Each moment of expert performance actualises one trajectory from many physically possible alternatives. If [all possibilities actualised](/concepts/many-worlds/) in branching universes, there would be branches where the expert misses every shot, drops every catch, flubs every note—yet from any observer's perspective, skilled performance succeeds reliably.
-
-The indexical problem sharpens here. Even granting that *some* branch-observer sees coherent performance, why am *I*—this [particular consciousness](/concepts/haecceity/)—reliably the one experiencing skilled execution? The statistical regularity of expert performance suggests genuine selection, not mere observation of whichever branch happens to look successful.
+The regularity of expert performance is not itself an argument against [branching](/concepts/many-worlds/). Skilled execution is mostly classical, and branches in which the expert misses every shot carry negligible Born weight, so an Everettian predicts the same reliability. Branch-local selection can also be granted: within a branch, consciousness re-engaging the interface has branch-local consequences, and the choking evidence runs unchanged. What separates the Map from the Everettian is the further demand that the unchosen alternatives not be realised *anywhere*—a global-exclusion condition the Map adopts as a [posit](/tenets/background-commitments/) rather than derives from performance statistics.
 
 ### Occam's Razor Has Limits
-A purely neural account can describe choking as prefrontal-basal ganglia competition, but this leaves the phenomenal dimension as an unexplained extra. Adding "and phenomenal experience is an inert byproduct that happens to track performance degradation perfectly" is not more parsimonious than accepting that phenomenal attention does causal work. The simplest account that covers *all* the phenomena—neural and experiential—treats consciousness as a genuine causal factor rather than an inexplicable shadow of neural events.
+A purely neural account can describe choking as prefrontal-basal ganglia competition, but this leaves the phenomenal dimension as an unexplained extra. Adding "and phenomenal experience is an inert byproduct that happens to track performance degradation" is not more parsimonious than accepting that phenomenal attention does causal work, and the common-cause reading conceded above still owes an account of why the byproduct tracks a theory-predicted interference pattern. The simplest account that covers *all* the phenomena—neural and experiential—treats consciousness as a causal factor rather than an idle shadow of neural events.
 
 ## Further Reading
 

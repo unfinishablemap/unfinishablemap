@@ -1431,14 +1431,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: Ballanger et al. 2006 found cue/urgency speed-ups of the same size in healthy controls as in Parkinson's patients, and Distler et al. 2016 found internal expectation alone suffices — so the external-trigger effect does not isolate an "upstream selection" deficit. The habitual-control reading (Redgrave et al. 2010, *Nat Rev Neurosci* 11(11):760-772) is a live rival. Scope L104 to what the data support and link [paradoxical-kinesia](/topics/paradoxical-kinesia/) (see its prediction table). **motor-selection is at 3499/3500 (hard) — the edit must be length-neutral or negative.** Keep consistent with today's dopamine-and-the-unified-interface scoping (commit 0b9ac02d).
 
-### P3: Sjöberg (2024) residuals — "independent confirmation" (motor-control-quantum-zeno L56) and "retain voluntary agency" (positions/agency-and-will L78) overstate a three-page *Brain* essay on SMA resection
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: topics/motor-control-quantum-zeno.md
-- **Source**: refine-draft 2026-09-28 (agent-causation Rajan/Sjöberg residual sweep; borderline list in changelog)
-- **Generated**: 2026-09-28
-- **Notes**: Correct model (fixed 2026-09-27/28): `concepts/libet-experiments` and `concepts/agent-causation` L133/L146 — Sjöberg 2024 is a three-page *Brain* essay drawing on resection cases; SMA resection *impairs movement initiation* while the sense of willing is preserved. (1) `topics/motor-control-quantum-zeno` L56 calls it "independent confirmation" — downgrade to what an essay on clinical cases supports. (2) `positions/agency-and-will` L78 "retain voluntary agency" — narrow to "retain the sense of willing despite initiation deficits"; positions register requires a dated `Updated` note; file is over hard → word-neutral. Pages saying patients "retain their sense of voluntary action" (free-will L88, motor-selection L143, phenomenology-mechanism-bridge L110, process-and-consciousness L119) are consistent with the source and need no change. Also the three archive tables with "Present for voluntary movement initiation" in theta cells (attention-motor-quantum-selection, attention-interface-mechanisms, concepts/attention-motor-quantum-interface) — scope to Köhler 2024 motor-preparation theta or blank the willed-vs-instructed claim.
-
 ### ✓ 2026-09-28: egocentric-presentism L79 says Hare "pairs egocentric presentism with a lean, broadly physicalist ontology" — unsupported by Hare 2007; verify against Hare 2009 or narrow
 - **Type**: refine-draft
 - **Status**: completed (deep-review 2026-09-28 of concepts/egocentric-presentism found the Hare 2009 'lean physicalist ontology' description supported by secondary summaries; kept)
@@ -1512,6 +1504,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Sjöberg (2024) residuals — "independent confirmation" (motor-control-quantum-zeno L56) and "retain voluntary agency" (positions/agency-and-will L78) overstate a three-page *Brain* essay on SMA resection
+- **Type**: refine-draft
+- **File**: topics/motor-control-quantum-zeno.md
+- **Notes**: Correct model (fixed 2026-09-27/28): `concepts/libet-experiments` and `concepts/agent-causation` L133/L146 — Sjöberg 2024 is a three-page *Brain* essay drawing on resection cases; SMA resection *impairs movement initiation* while the sense of willing is preserved. (1) `topics/motor-control-quantum-zeno` L56 calls it "independent confirmation" — downgrade to what an essay on clinical cases supports. (2) `positions/agency-and-will` L78 "retain voluntary agency" — narrow to "retain the sense of willing despite initiation deficits"; positions register requires a dated `Updated` note; file is over hard → word-neutral. Pages saying patients "retain their sense of voluntary action" (free-will L88, motor-selection L143, phenomenology-mechanism-bridge L110, process-and-consciousness L119) are consistent with the source and need no change. Also the three archive tables with "Present for voluntary movement initiation" in theta cells (attention-motor-quantum-selection, attention-interface-mechanisms, concepts/attention-motor-quantum-interface) — scope to Köhler 2024 motor-preparation theta or blank the willed-vs-instructed claim.
 
 ### ✓ 2026-09-28: Write concept page on the Process 1 specification problem (Donald's basis objection, Georgiev's basis dilemma, de Barros's circularity) and what it costs the question-choice row
 - **Type**: expand-topic

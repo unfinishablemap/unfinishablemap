@@ -4,7 +4,12 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-09-28T16:36:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
-
+## 2026-09-28T16:52:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/implicit-memory]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted P3 fix from todo line 1440)
+- **Changes**: (a) No Many Worlds subsection rewritten to the hub template (`consciousness-evolution-and-biology` / `tenets/background-commitments` Posit Three): performance regularity conceded as Everettian-predicted (mostly classical; all-miss branches negligible Born weight), branch-local selection granted, global exclusion marked as a posit. Engagement with the Everettian: Mode Three; the dispute sits at the framework boundary and is now said so, replacing a branch-weight argument that did not work. (b) Occam section: dropped "perfectly", aligned with the common-cause concession at the bidirectional-interaction paragraph. (c) Lead: "precisely what distinguishes it from mere neural noise" replaced with the body's own "not plausibly idle" conclusion. (d) Implicit-learning interpretation scoped to procedural/skill cases; subliminal priming and blindsight explicitly excluded with links to `mental-imagery`, `blindsight`, `selective-correction-and-reconstruction-paradox` where the Map treats experience as absent; "no purely computational processing" marked tenet-coherent, not evidence-established. Stout/Tulving and common-cause fixes from the 2026-09-21 deep review preserved. Length 3344 → 3430 body words (concepts hard 3500).
+- **Published**: yes
 ## 2026-09-28T16:36:26+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/motor-control-quantum-zeno]] (+ [[positions/agency-and-will]] P-A3; archive/topics/attention-as-selection-interface, attention-interface-mechanisms, attention-motor-quantum-selection)
