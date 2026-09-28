@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-07-06 15:30:56+00:00
+ai_modified: 2026-09-28 20:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 15:30:56+00:00
-lastmod: 2026-07-06 15:30:56+00:00
+lastmod: 2026-09-28 20:23:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -70,7 +70,7 @@ Wilfrid Sellars's critique of the "Myth of the Given" reinforces the point: all 
 
 ## Evolution Selects for Fitness, Not Truth
 
-Donald Hoffman's [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) adds a mathematical dimension. Under Hoffman's models, non-veridical perceptual strategies tuned to fitness strictly dominate veridical strategies of equal complexity. The theorem is contested, but even moderate versions create trouble when combined with transparency: evolution selects perceptions that guide adaptive behaviour, not perceptions that reveal how things actually are. The colours you perceive and the spatial layout you navigate may be artifacts of a species-specific user interface rather than features of mind-independent reality. Usefulness is not evidence of accuracy—a desktop icon is useful precisely because it conceals the underlying file system.
+Hoffman, Singh, and Prakash's [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) adds a mathematical dimension: taken over all fitness functions and prior measures, a perceptual strategy tuned to fitness payoffs strictly dominates one tuned to objective truth with probability at least (|X| − 3)/(|X| − 1) for a perceptual space of size |X|—a generic dominance, not a universal one (Prakash et al. 2021). The transfer from the model to real perceivers is contested—Hoffman et al. (2015) mark the boundary where fitness varies monotonically with truth, and Berke et al. (2022) find veridicality returning when perception serves many independent goals (see [Contestation and Limits](/concepts/fitness-beats-truth/#contestation-and-limits))—but even the generic result creates trouble when combined with transparency: evolution selects perceptions that guide adaptive behaviour, not perceptions that reveal how things actually are. The colours you perceive and the spatial layout you navigate may be artifacts of a species-specific user interface rather than features of mind-independent reality. Usefulness is not evidence of accuracy—a desktop icon is useful precisely because it conceals the underlying file system.
 
 ## The Self-Studying Brain Paradox
 
@@ -152,9 +152,9 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies most directly. Naive realism feels irresistible precisely because phenomenal transparency makes the medium of perception invisible, so Occam's Razor applied uncritically endorses it. The necessary opacity reveals this as systematically misleading: the preference for simplicity is itself shaped by the evolutionary pressure that selects for useful-over-accurate perception. The simplest assumption about self-knowledge—that minds can understand themselves—may be fundamentally wrong.
 
-**[Dualism](/tenets/#dualism)** finds leverage here. The systematic opacity of the consciousness-reality interface is *predicted* by interactionist dualism: two different kinds of thing meeting at an interface should produce translation artifacts. Physicalism offers no principled explanation for why consciousness should be unable to verify its own accuracy if consciousness just *is* physical processing. That self-knowledge threatens coherent experience—not just logical completeness—suggests something beyond computation may be at work.
+**[Dualism](/tenets/#dualism)** offers a reading here, not a prediction. The circularity above is framework-neutral: Alston, Sellars, and the self-studying-brain paradox (a predictive-processing result) each explain why any cognitive system, physical or not, cannot verify its own accuracy, and the AI case suggests the void may be architecture-independent. Physicalism explains the opacity as well as dualism does. What the Map reads dualism as adding is a further layer—two different kinds of thing meeting at an interface would be expected to produce translation artifacts too—and the observation that self-knowledge threatens coherent experience, not just logical completeness, is consonant with that picture. The reading is posited, not established: the opacity does not discriminate between the frameworks.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the constitutive thesis. The causal interface may be permanently opaque precisely because it operates through transparent representations: we use the interface but cannot see it, because it is the lens through which everything else becomes visible. If consciousness shapes its own self-model and some shapes would be destabilising, consciousness must steer away from those configurations—an exercise of mental causation protecting coherence.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the constitutive thesis. The causal interface may be permanently opaque precisely because it operates through transparent representations: we use the interface but cannot see it, because it is the lens through which everything else becomes visible. If consciousness shapes its own self-model and some shapes would be destabilising, it would need to steer away from those configurations—which the Map reads as a posited exercise of mental causation protecting coherence, not an established one.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** suggests a speculative possibility: if consciousness's influence affects quantum probabilities at femtosecond and molecular scales, representing the interaction might interfere with it. The mechanism would be necessarily hidden from the mechanism.
 
@@ -197,3 +197,6 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 10. Nagel, Thomas. *The View from Nowhere*. New York: Oxford University Press, 1986.
 11. Sellars, Wilfrid. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* 1 (1956): 253–329.
 12. Ciaunica, A., Charlton, J., & Farmer, H. (2020). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-020-09677-z
+13. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
+14. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Acta Biotheoretica*, 69(3), 319-341.
+15. Berke, M. D., Walter-Terrill, R., Jara-Ettinger, J., & Scholl, B. J. (2022). Flexible Goals Require that Inflexible Perceptual Systems Produce Veridical Representations: Implications for Realism as Revealed by Evolutionary Simulations. *Cognitive Science*, 46(10), e13195.

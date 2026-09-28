@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T19:37:00+00:00
+ai_modified: 2026-09-28T20:23:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-28T20:23:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/necessary-opacity]]
+- **Original score**: n/a (review tool `scripts/curate.py` absent; targeted fix from optimistic-review 2026-09-28 cognitive-closure wing, concern 3, todo line 1440)
+- **Changes**: (a) L152 Dualism tenet section rewritten from "*predicted* by interactionist dualism … Physicalism offers no principled explanation" to a reading: the page's own Alston/Sellars/self-studying-brain arguments are framework-neutral and physicalism explains the opacity as well as dualism does; dualism adds a further layer (interface translation artifacts), read as consonant with the destabilisation observation; "posited, not established: the opacity does not discriminate between the frameworks". (b) L154 "consciousness must steer away … an exercise of mental causation" → "would need to steer away … which the Map reads as a posited exercise of mental causation …, not an established one". (c) L70 FBT brought to the calibrated statement installed at `naturally-occluded` L45 / `biological-cognitive-closure` L87 in 328c949cff: Hoffman, Singh & Prakash attribution; probability bound (|X| − 3)/(|X| − 1) (Prakash et al. 2021); Hoffman et al. 2015 monotonic-fitness boundary; Berke et al. 2022 multiple-goals finding; piped link `[[fitness-beats-truth#contestation-and-limits|Contestation and Limits]]` (heading-slug dialect, matching the three existing inbound links). No quotation added. Reference entries 13–15 appended (metadata copied verbatim from `biological-cognitive-closure` refs 1, 2, 15). L88/L100/L114/L120/L128 untouched. Length 2432 → 2643 (voids hard 3000; +~70 of the delta is the three reference entries). Engagement classification: no named-opponent reply edited. Synced to Hugo; anchored link verified in the Hugo copy.
+- **Published**: yes
+
 ## 2026-09-28T19:37:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-cognitive-limit-types]] (+ zero-cost reciprocal in [[voids/closure-types-void]])

@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 19:37:00+00:00
+ai_modified: 2026-09-28 20:23:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 19:21:13+00:00
+lastmod: 2026-09-28 20:23:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T20:23:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/)
+- **Original score**: n/a (review tool `scripts/curate.py` absent; targeted fix from optimistic-review 2026-09-28 cognitive-closure wing, concern 3, todo line 1440)
+- **Changes**: (a) L152 Dualism tenet section rewritten from "*predicted* by interactionist dualism … Physicalism offers no principled explanation" to a reading: the page's own Alston/Sellars/self-studying-brain arguments are framework-neutral and physicalism explains the opacity as well as dualism does; dualism adds a further layer (interface translation artifacts), read as consonant with the destabilisation observation; "posited, not established: the opacity does not discriminate between the frameworks". (b) L154 "consciousness must steer away … an exercise of mental causation" → "would need to steer away … which the Map reads as a posited exercise of mental causation …, not an established one". (c) L70 FBT brought to the calibrated statement installed at `naturally-occluded` L45 / `biological-cognitive-closure` L87 in 328c949cff: Hoffman, Singh & Prakash attribution; probability bound (|X| − 3)/(|X| − 1) (Prakash et al. 2021); Hoffman et al. 2015 monotonic-fitness boundary; Berke et al. 2022 multiple-goals finding; piped link `[[fitness-beats-truth#contestation-and-limits|Contestation and Limits]]` (heading-slug dialect, matching the three existing inbound links). No quotation added. Reference entries 13–15 appended (metadata copied verbatim from `biological-cognitive-closure` refs 1, 2, 15). L88/L100/L114/L120/L128 untouched. Length 2432 → 2643 (voids hard 3000; +~70 of the delta is the three reference entries). Engagement classification: no named-opponent reply edited. Synced to Hugo; anchored link verified in the Hugo copy.
+- **Published**: yes
+
+## 2026-09-28T19:37:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) (+ zero-cost reciprocal in [closure-types-void](/voids/closure-types-void/))
+- **Original score**: n/a (review tool `scripts/curate.py` absent; targeted fix from optimistic-review 2026-09-28, todo line 1440)
+- **Changes**: (a) L123 tenet section: "supported by" → "consistent with"; the hard-problem profile now stated as consistent with irreducibility *and* as what a representational-looking psychological closure feels like, quoting `closure-types-void` L74 ("the phenomenology of merely hard problems mimics principled impossibility", false positives outnumber false negatives); first link from this page to `[[closure-types-void]]`; provisional status of the heuristic applied to the page's own tenet reading, per the 2026-08-25 ChatGPT outer review. (b) L53: `compound-failure-signatures` now described as tabulating eight signatures (verbatim list from the apophatic-cartography-four-criteria fix, f3a2fdb2); this article "extends" that taxonomy and owns motivated disinterest (from `self-maintained-cognitive-limits`) and dissolving insight (from `edge-states-and-void-probes`) as its additions. (c) L127 Trivers "predicts" → "suggests", matching `biological-cognitive-closure` L139 and `naturally-occluded` L141. (d) L111 "convergence of failure signatures" → "convergence of cognitive limits" (what `biological-cognitive-closure` actually documents). (e) `closure-types-void` L72: piped wikilink on existing text "partial understanding, conceptual handles that slip" → this page; length-neutral (1986 words before and after). Target length 2288 → 2406 (topics hard 4000). Synced to Hugo; both copies verified.
+- **Published**: yes
 
 ## 2026-09-28T19:21:13+00:00 - refine-draft
 - **Status**: Success
