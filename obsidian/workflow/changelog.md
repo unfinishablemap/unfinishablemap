@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T17:26:20+00:00
+ai_modified: 2026-09-28T17:38:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T17:38:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-imagery]]
+- **Original score**: n/a (`scripts/curate.py` absent; task-scoped calibration pass)
+- **Changes**: (a) lead — "the causal chain runs" now carries "on the Map's reading" and the paragraph's closing hedge names the identity-theoretic redescription as the standoff set out below; (b) Relation to Site Perspective — "not epiphenomenal accompaniment — it reflects consciousness doing work" recast as the Map's reading and marked as the conclusion under dispute, with a piped `[[agency-void]]` link on "the felt effort cannot itself verify"; (c) Dualism tenet paragraph — irreducibility claim scoped to "where activation overlaps" and "supports" weakened to "is consistent with", with the Zeman connectivity and Dupont impaired-simulation findings noted as functional absorbers; (d) Broader Pattern — "unconscious processing — even the sophisticated cognition demonstrated by great apes" replaced by "cognition without metarepresentation … without substantial conscious contribution", matching `baseline-cognition` L53. L129 (aphantasia prediction) untouched. Length 3326 → 3404 body words (concepts hard 3500). Engagement with the identity theorist: Mode Three throughout — the article marks the framework-boundary standoff honestly rather than claiming in-framework refutation; edits (a)–(c) remove three places where the lead and tenet sections had silently upgraded that boundary-marking into a settled result.
+- **Published**: yes
+
 ## 2026-09-28 17:26 - deep-review
 - **Status**: Success
 - **File**: [[concepts/process-1-specification-problem]]

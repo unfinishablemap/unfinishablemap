@@ -1437,14 +1437,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: mental-imagery: lead (L44) and tenet section (L161, L167) assert what the body's standoff (L113-117) and aphantasia result (L129) disclaim; L153 files great-ape cognition as "unconscious processing"
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/mental-imagery.md
-- **Source**: optimistic-review 2026-09-28 (reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md, Calibration concerns 2 and 5)
-- **Generated**: 2026-09-28
-- **Notes**: **Headroom 173 words (concepts hard 3500; analyze_length 3326, soft_warning) — LENGTH-NEUTRAL.** Last deep review 2026-07-11. File lines from 2026-09-28; re-grep. (a) **L44** "the causal chain runs from conscious imagining to physical performance": give it the L117 standoff status in the lead. (b) **L161** "The effort you feel … is not epiphenomenal accompaniment — it reflects consciousness doing work": that is the conclusion under dispute. Recast it as the Map's reading, as L117 does, and consider linking `[[agency-void]]`. (c) **L167** "phenomenal difference beyond what functional differences predict supports the claim that consciousness is irreducible": the same paragraph cites frontoparietal-visual connectivity differences, and L129 (Dupont 2024) reports impaired simulation circuits. Scope it to "where activation overlaps", or weaken "supports" to "is consistent with". (d) **L153** "unconscious processing — even the sophisticated cognition demonstrated by great apes": `baseline-cognition` L53-55 says "without *substantial* conscious contribution" and restricts the gap to metarepresentation. Say "cognition without metarepresentation" so that ape consciousness is not moved down the scale. KEEP L129 exactly: it is the page's best passage.
-
 ### P3: narrative-coherence: engage Strawson's "Against Narrativity" and the narrative void; L35 "provides evidence", L73 "confirm … neither automatic nor epiphenomenal", L81 flat selection claim overstate
 - **Type**: refine-draft
 - **Status**: pending
@@ -1494,6 +1486,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: mental-imagery: lead (L44) and tenet section (L161, L167) assert what the body's standoff (L113-117) and aphantasia result (L129) disclaim; L153 files great-ape cognition as "unconscious processing"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/mental-imagery.md
+- **Notes**: **Headroom 173 words (concepts hard 3500; analyze_length 3326, soft_warning) — LENGTH-NEUTRAL.** Last deep review 2026-07-11. File lines from 2026-09-28; re-grep. (a) **L44** "the causal chain runs from conscious imagining to physical performance": give it the L117 standoff status in the lead. (b) **L161** "The effort you feel … is not epiphenomenal accompaniment — it reflects consciousness doing work": that is the conclusion under dispute. Recast it as the Map's reading, as L117 does, and consider linking `[[agency-void]]`. (c) **L167** "phenomenal difference beyond what functional differences predict supports the claim that consciousness is irreducible": the same paragraph cites frontoparietal-visual connectivity differences, and L129 (Dupont 2024) reports impaired simulation circuits. Scope it to "where activation overlaps", or weaken "supports" to "is consistent with". (d) **L153** "unconscious processing — even the sophisticated cognition demonstrated by great apes": `baseline-cognition` L53-55 says "without *substantial* conscious contribution" and restricts the gap to metarepresentation. Say "cognition without metarepresentation" so that ape consciousness is not moved down the scale. KEEP L129 exactly: it is the page's best passage.
 
 ### ✓ 2026-09-28: implicit-memory: quick Many Worlds argument at L191-193 ("branches where the expert misses every shot"); L196 "track … perfectly" and the L41 lead overstate the body's own common-cause concession; L131-133 generalises anoetic experience to priming and blindsight
 - **Type**: refine-draft
