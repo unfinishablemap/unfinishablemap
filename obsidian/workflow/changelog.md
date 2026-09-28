@@ -5,6 +5,15 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28 03:55 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (collected by collect-chatgpt-review; extracted by blob download, SHA-256 byte-identical to the page-built markdown)
+- **File**: [[reviews/outer-review-2026-09-28-chatgpt-5-6-sol-pro]]
+- **Subject**: [[topics/buddhist-perspectives-on-meaning]] (recent-aged fallback)
+- **Claims verified**: 16 checked (on-disk loci, tenets.md and neighbours, plus 3 SEP entries fetched verbatim). 12 verified, 2 disputed (neighbours "contain no Buddhist discussion" is false; one block quote is a paraphrase), 2 partly anticipated.
+- **High-value findings**: 5. These are the Thompson second-work orphan (*Why I Am Not a Buddhist* 2020 is not in References) and the missing Forman entry; Siderits 2025's illusionism, which contradicts the article's claim that he "keeps" non-eliminativism; anattā narrowed to impermanence, which leaves the persisting-subject posit (tenets L184) untouched; the witness passage importing Advaita, which contradicts eastern-philosophy L87; and school summaries that SEP calls a straw man or overgeneralisation.
+- **Tasks generated**: 3 (P1: 1, P2: 2)
+
 ## 2026-09-28 03:48 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/time-symmetric-selection-mechanism]] (7 prior deep reviews, never pessimistic-reviewed). Findings are in the argument, not the citations. HIGH: the Libet resolution (selection fixes the readiness potential) conflicts with the modified growing block and with L39's claim to avoid macroscopic superposition. HIGH: the L201 tenet paragraph re-installs the time-symmetry⇒retrocausality inference the 07-30 pass removed from L71. Also: retrocausal-vs-atemporal inconsistency (L71/L106/L147); Soon 60% decoding ceiling read as "indeterminacy" (L189, epistemic/metaphysical equivocation); "not unfalsifiable" verdict unearned, Born-rule commitment unstated; Maudlin missing; locality non-sequitur (L159). Altered-state symmetry audit n/a (1 supportive item).

@@ -3,9 +3,9 @@
   commissioned_at: '2026-09-28T02:07:08.517422+00:00'
   prompt_summary: Audit buddhist-perspectives-on-meaning (recent-aged fallback)
   target_filename: outer-review-2026-09-28-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-28T03:51:47.253235+00:00'
   failure_reason: null
   prompt_text: 'Act as a rigorous external referee for The Unfinishable Map (https://unfinishablemap.org),
     a site that openly argues for interactionist dualism under five stated tenets.
