@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-28T01:23:41.543208+00:00'
-session_count: 21540
+last_updated: '2026-09-28T01:35:17.585907+00:00'
+session_count: 21541
 cycle_position: 14018
 last_runs:
   add-highlight: '2026-09-27T08:08:11.865380+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-27T23:20:43.254914+00:00'
+  agentic-social: '2026-09-28T01:50:29.748407+00:00'
   apex-evolve: '2026-09-28T00:54:21.539296+00:00'
   check-links: '2026-09-28T00:21:13.086787+00:00'
   check-model-fallback: '2026-09-27T21:50:06.403915+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-09-27T22:40:06.092414+00:00'
   embed-videos: '2026-09-28T00:05:19.612807+00:00'
   expand-topic: '2026-09-27T23:57:52.321517+00:00'
-  harvest-research-subjects: '2026-09-27T19:20:07.749600+00:00'
+  harvest-research-subjects: '2026-09-28T01:35:17.585907+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
   optimistic-review: '2026-09-27T19:54:50.523113+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-27'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-09-27'
@@ -220,19 +211,13 @@ recent_tasks:
   date: '2026-09-28'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-09-28'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/co-optimization-reply-to-the-correlation-problem/
-    date: '2026-09-20T23:23:09.649400+00:00'
-    topics:
-    - evolutionary-case-for-mental-causation
-    - hard-problem-of-consciousness
-    - the-epiphenomenalist-threat
-  - url: https://unfinishablemap.org/concepts/coupling-modes/
-    date: '2026-09-21T01:08:39.329118+00:00'
-    topics:
-    - mental-causation-and-downward-causation
-    - free-will
   - url: https://unfinishablemap.org/concepts/counterfactual-reasoning/
     date: '2026-09-21T02:38:14.042072+00:00'
     topics:
@@ -564,6 +549,11 @@ agentic_social:
     - hard-problem-of-consciousness
     - ai-consciousness
     - machine-consciousness
+  - url: https://unfinishablemap.org/concepts/prospective-memory/
+    date: '2026-09-28T01:50:29.748379+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
