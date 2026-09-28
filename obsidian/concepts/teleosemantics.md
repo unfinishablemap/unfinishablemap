@@ -4,7 +4,7 @@ description: "A human-AI steelman of teleosemantics—the leading naturalistic t
 created: 2026-07-11
 modified: 2026-09-28
 human_modified:
-ai_modified: 2026-09-28T11:36:00+00:00
+ai_modified: 2026-09-28T13:30:00+00:00
 draft: false
 topics:
   - "[[the-naturalisation-failure-for-content]]"
@@ -73,7 +73,7 @@ That "which condition" question is sharpest in the frog. A frog's prey-detector 
 
 ### Swampman
 
-Donald Davidson's Swampman is a lightning-formed molecular duplicate of a person, assembled by cosmic accident with no evolutionary or learning history. Having no selection history, Swampman has no proper functions—so teleosemantics entails his inner states have no content, which many find plainly false. Teleosemanticists reply in two main ways. The **bite-the-bullet** strategy (Millikan; Neander) holds that "intentionality" rigidly designates a historical-selectional kind, much as "water" designates H₂O: the intuition that Swampman thinks is a mistaken pre-theoretic intuition, like insisting water needn't be H₂O. The **actual-world-reduction** strategy (Papineau) grants that teleosemantics reduces the *actual* property of belief, so a merely possible Swampman with content is no counterexample to an actual-world identity claim—Papineau reports being moved off pure bullet-biting partly by the ethical discomfort of denying that a Swamp-person has a mind. Both replies keep the theory intact at the price of a commitment about what content *is*.
+Donald Davidson's [[swampman|Swampman]] is a lightning-formed molecular duplicate of a person, assembled by cosmic accident with no evolutionary or learning history. Having no selection history, Swampman has no proper functions—so teleosemantics entails his inner states have no content, which many find plainly false. Teleosemanticists reply in two main ways. The **bite-the-bullet** strategy (Millikan; Neander) holds that "intentionality" rigidly designates a historical-selectional kind, much as "water" designates H₂O: the intuition that Swampman thinks is a mistaken pre-theoretic intuition, like insisting water needn't be H₂O. The **actual-world-reduction** strategy (Papineau) grants that teleosemantics reduces the *actual* property of belief, so a merely possible Swampman with content is no counterexample to an actual-world identity claim—Papineau reports being moved off pure bullet-biting partly by the ethical discomfort of denying that a Swamp-person has a mind. Both replies keep the theory intact at the price of a commitment about what content *is*.
 
 ### The Indeterminacy of Function (Pietroski's *kimu*)
 

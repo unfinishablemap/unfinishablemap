@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-20 00:13:57+00:00
+ai_modified: 2026-09-28 13:30:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:13:57+00:00
-lastmod: 2026-07-20 00:13:57+00:00
+lastmod: 2026-09-28 13:30:00+00:00
 modified: *id001
 related_articles: []
 title: Content Externalism and the Twin Earth Argument
@@ -60,6 +60,7 @@ One further connection, and one honest limitation. The connection is to mental c
 - [intentionality](/concepts/intentionality/) — the aboutness of mental states and the phenomenal-intentionality tradition the Map's internalist half draws on
 - [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — the structural argument that naturalism cannot deliver semantic content; the intensionality complement to the externalist result
 - [teleosemantics](/concepts/teleosemantics/) — the wide, history-involving theory of content externalism's causal-relevance worry bears on
+- [swampman](/concepts/swampman/) — the history-less duplicate on which the hybrid gives a split verdict: narrow phenomenal content if conscious, wide reference open
 - [functionalism](/concepts/functionalism/) — where the corpus already deploys the externalist move against narrow functional role
 - [concession-convergence](/concepts/concession-convergence/) — the pattern of materialist programmes retreating from internalist physicalism
 - [conceptual-role-semantics](/concepts/conceptual-role-semantics/) — the two-factor split that pairs narrow inferential role with a wide referential factor to accommodate externalism

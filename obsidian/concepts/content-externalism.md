@@ -4,7 +4,7 @@ description: "A human-AI examination of content externalism: how Twin Earth pres
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-07-20T00:13:57+00:00
+ai_modified: 2026-09-28T13:30:00+00:00
 draft: false
 topics: [the-naturalisation-failure-for-content]
 concepts: [intentionality, teleosemantics, functionalism]
@@ -52,6 +52,7 @@ One further connection, and one honest limitation. The connection is to mental c
 - [[intentionality]] — the aboutness of mental states and the phenomenal-intentionality tradition the Map's internalist half draws on
 - [[the-naturalisation-failure-for-content]] — the structural argument that naturalism cannot deliver semantic content; the intensionality complement to the externalist result
 - [[teleosemantics]] — the wide, history-involving theory of content externalism's causal-relevance worry bears on
+- [[swampman]] — the history-less duplicate on which the hybrid gives a split verdict: narrow phenomenal content if conscious, wide reference open
 - [[functionalism]] — where the corpus already deploys the externalist move against narrow functional role
 - [[concession-convergence]] — the pattern of materialist programmes retreating from internalist physicalism
 - [[conceptual-role-semantics]] — the two-factor split that pairs narrow inferential role with a wide referential factor to accommodate externalism

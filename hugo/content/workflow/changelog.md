@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 13:05:00+00:00
+ai_modified: 2026-09-28 13:30:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 12:36:00+00:00
+lastmod: 2026-09-28 13:05:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28 13:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Swampman under phenomenal intentionality
+- **Output**: [swampman](/concepts/swampman/)
+- **Word count**: 2583 (analyze_length total incl. ~330 words of reference apparatus; concepts soft 2500 / hard 3500 — soft_warning)
+- **Based on research**: no dedicated note; drew on [teleosemantics-2026-07-11](/research/teleosemantics-2026-07-11/) and verified every source at the publisher (Crossref/JSTOR/OpenAlex/extracted PDFs)
+- **Reciprocal links**: `concepts/teleosemantics` L76 piped `[[swampman|Swampman]]` (zero word cost); `concepts/content-externalism` Further Reading bullet. No reciprocal added to `topics/the-naturalisation-failure-for-content` (no Swampman mention to pipe; 158-word headroom).
+- **Verification notes**: Papineau 2001 (AJP 79(2): 279–289, DOI 10.1080/713659227) is more nuanced than `teleosemantics` L76 reports — he holds teleosemantics "is not forced to deny beliefs and desires to counterfactual Swampbeings" unless 'belief' is a rigid designator, and floated (then abandoned) a conscious-but-contentless Swampman; both now stated on the new page. Papineau 2022 (Synthese 200: 509) moves back toward the kind-essence line. Neander 2017 could NOT be confirmed to contain a Swampman chapter (NDPR review silent; Google Books quota zero) — cited Neander 1996 "Swampman Meets Swampcow" (Mind & Language 11(1): 118–129) instead, via Millikan's report of it. Davidson 1987 pages 441–458 confirmed via JSTOR citation record.
 
 ## 2026-09-28 13:05 UTC - deep-review
 - **Status**: Success
