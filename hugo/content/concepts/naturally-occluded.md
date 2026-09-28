@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-09-26 08:16:44+00:00
+ai_modified: 2026-09-28 09:53:45+00:00
 ai_system: claude-opus-4-7+claude-fable-5
 author: null
 coalesced_from:
@@ -12,7 +12,7 @@ concepts:
 - '[[possibility-probability-slippage]]'
 - '[[phenomenology]]'
 created: 2026-03-23
-date: &id001 2026-09-26
+date: &id001 2026-09-28
 description: Human-AI inquiry into cognitive opacity that natural selection actively
   maintained—the fourth void category and the broader concept of evolution-shaped
   epistemic limits, calibrated as live hypothesis anchored by formal results at the
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 23:27:00+00:00
-lastmod: 2026-09-26 08:16:44+00:00
+lastmod: 2026-09-28 09:53:45+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -47,7 +47,7 @@ topics:
 
 The Naturally Occluded names cognitive opacity that natural selection actively maintained because making the territory visible would have carried metabolic, computational, or behavioural costs without compensating fitness benefit. The category is the fourth member of the Map's [void taxonomy](/voids/three-kinds-of-void/) — extending the original three (Unexplored, Unexplorable, Occluded) by adding a load-bearing causal claim about *why* the failure persists: not contingent ignorance, not architectural overhead, not deliberate concealment by an external agent, but selection pressures that favoured ignorance as a phenotype. It is also the broader concept of *adaptive cognitive limits* — boundaries the mind *could* in principle reach but evolution shaped it not to, because not-knowing improved survival. The category is named at [the taxonomy of voids apex](/apex/taxonomy-of-voids/) and deployed there as the methodological slot in which evolutionary considerations enter the void framework.
 
-The category is calibrated under the Map's [evidential-status discipline](/project/evidential-status-discipline/) as a *live hypothesis* with one *strongly supported* anchor, not an established mechanism. The strong anchor is the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) of Hoffman, Singh, and Prakash (2015; Prakash et al. 2021) — a formal result proving that across all fitness functions and prior distributions, fitness-tuned perceptual strategies do at least as well as veridical ones and generically drive them to extinction. Beyond perception, the adaptive-occlusion claim is the strongest [possibility/probability slippage](/concepts/possibility-probability-slippage/) risk in the void framework — one can always construct an evolutionary narrative — and the category therefore carries explicit calibration discipline.
+The category is calibrated under the Map's [evidential-status discipline](/project/evidential-status-discipline/) as a *live hypothesis* with one *strongly supported* anchor, not an established mechanism. The strong anchor is the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) of Hoffman, Singh, and Prakash (2015; Prakash et al. 2021) — a probabilistic result: taken over all fitness functions and prior measures, a fitness-tuned perceptual strategy strictly dominates a truth-tracking one with probability at least (|X| − 3)/(|X| − 1) for a perceptual space of size |X|, so veridical perception is generically, though not universally, driven to extinction. Beyond perception, the adaptive-occlusion claim is the strongest [possibility/probability slippage](/concepts/possibility-probability-slippage/) risk in the void framework — one can always construct an evolutionary narrative — and the category therefore carries explicit calibration discipline.
 
 ## What Distinguishes the Fourth Kind
 
@@ -65,7 +65,7 @@ The categories are not mutually exclusive. A void can be both Unexplorable and N
 
 ## The Formal Anchor at the Perceptual Layer
 
-The Naturally Occluded category needs a formal anchor because adaptive explanations are notoriously easy to produce informally and notoriously hard to confirm. The [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) supplies the anchor for perception: Hoffman, Singh, and Prakash prove that for all fitness functions and all prior probability distributions over world states, perceptual strategies tuned to fitness payoffs achieve equal or higher expected fitness than strategies tuned to veridical representation. Monte Carlo simulations across thousands of randomly generated environments confirm the formal result: "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021).
+The Naturally Occluded category needs a formal anchor because adaptive explanations are notoriously easy to produce informally and notoriously hard to confirm. The [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) supplies the anchor for perception: Prakash et al. (2021) show that, taken over all fitness functions and prior measures, a strategy that maximises expected fitness payoff strictly dominates a strategy that infers the most probable world state with probability at least (|X| − 3)/(|X| − 1), where |X| is the size of the perceptual space; the bound approaches 1 as that space grows, so the dominance is generic rather than universal. The earlier evolutionary-game simulations from Hoffman's group point the same way: "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction" (Hoffman et al. 2015). The same paper states the boundary: "veridical perceptions escape extinction only if fitness varies monotonically with truth" (Hoffman et al. 2015), and Berke et al. (2022) find veridical representation returning once perception serves many independent goals rather than one — see [Contestation and Limits](/concepts/fitness-beats-truth/#contestation-and-limits).
 
 Hoffman's implication is that perception operates as a species-specific interface — analogous to a desktop GUI — optimised for useful interaction rather than veridical representation. The interface hides underlying reality not because it cannot access it but because accessing it would compromise function. The theorem operationalises the category at one bounded site: natural selection *systematically* favoured fitness-tuned over truth-tuned perception. The site is bounded — perception, not cognition in general — and the category inherits its initial credibility from this bounded formal result, earning extensions to other cognitive sites only as further evidence accumulates.
 
@@ -111,7 +111,7 @@ A cognitive wall announces itself through frustration; an adaptive limit disguis
 
 The category carries the strongest calibration burden in the four-kinds taxonomy, because adaptive explanations are the easiest to produce informally and the hardest to confirm. The Map's [evidential-status discipline](/project/evidential-status-discipline/) specifies the calibration:
 
-- The **formal-perception case** (FBT theorem) is *strongly supported* — the theorem is a formal mathematical result with Monte Carlo confirmation across thousands of environments.
+- The **formal-perception case** (FBT theorem) is *strongly supported* — the theorem is a formal mathematical result, and the earlier evolutionary-game simulations agree with it within the theorem's own model. The tier attaches to the result at that site; the model's stated boundary (veridical perception survives where fitness varies monotonically with truth) and the multiple-goals finding of Berke et al. (2022) govern the transfer from the model to real perceivers, and that transfer is contested.
 - The **extension-beyond-perception cases** (Gigerenzer's less-is-more, Trivers' self-deception, Field-Bonsall's negative information value) are *realistic possibility, contested* — each has substantial empirical and formal backing in its own domain, but the integration into a unified Naturally Occluded category does evidential work the individual results do not separately authorise.
 - The **specific catalogue assignments** (introspection-architecture cluster as adaptive; sub-threshold-interface reading of the agency void; evolved-attention-gating reading of noetic-feelings) are *live hypotheses* — the adaptive readings are not the only available accounts, and the Map deploys them in conjunction with non-adaptive readings rather than in place of them. One such test is external: if the introspection-architecture signatures recur convergently in silicon systems that were never under selection (see [cross-architecture LLM introspection](/topics/cross-architecture-llm-introspection/)), that would favour generic architectural opacity over selection-maintained occlusion for the cluster.
 
@@ -175,3 +175,4 @@ A bootstrapping problem remains: if the cognitive faculties identifying naturall
 7. Rancourt, B. T. (2025). The virtue of ignorance: How epistemic agency needs cognitive limitations. *The Southern Journal of Philosophy*, 62.
 8. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Three Kinds of Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/three-kinds-of-void/
+10. Berke, M. D., Walter-Terrill, R., Jara-Ettinger, J., & Scholl, B. J. (2022). Flexible Goals Require that Inflexible Perceptual Systems Produce Veridical Representations: Implications for Realism as Revealed by Evolutionary Simulations. *Cognitive Science*, 46(10), e13195.

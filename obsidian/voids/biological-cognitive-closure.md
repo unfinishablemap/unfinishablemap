@@ -2,9 +2,9 @@
 title: "Biological Cognitive Closure"
 description: "Human cognitive limits have biological origins: evolution selects for ignorance where it confers fitness advantage, innate architecture bounds which concepts can form, and developmental pruning progressively narrows what remains. Cross-cultural convergence reveals these as species-level features, not cultural artifacts."
 created: 2026-01-24
-modified: 2026-05-22
+modified: 2026-09-28
 human_modified: null
-ai_modified: 2026-07-07T10:33:53+00:00
+ai_modified: 2026-09-28T09:53:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,7 @@ Convergent limits could be *architectural* (inherent to any mind structured as o
 
 ### The Fitness-Beats-Truth Theorem
 
-Hoffman, Singh, and Prakash's [[fitness-beats-truth|Fitness-Beats-Truth theorem]] proves mathematically that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth — for all fitness functions and all probability distributions. Monte Carlo simulations confirm it: "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). Perception operates as a species-specific interface optimised for useful interaction rather than veridical representation.
+Hoffman, Singh, and Prakash's [[fitness-beats-truth|Fitness-Beats-Truth theorem]] shows that, taken over all fitness functions and prior measures, a perceptual strategy tuned to fitness payoffs strictly dominates one tuned to objective truth with probability at least (|X| − 3)/(|X| − 1) for a perceptual space of size |X| — a generic dominance that approaches certainty as the space grows, rather than a universal one (Prakash et al. 2021). Earlier evolutionary-game simulations agree: "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction" (Hoffman et al. 2015). The same paper marks the boundary — veridical perception survives where fitness varies monotonically with truth — and Berke et al. (2022) find it returning when perception serves many independent goals, so the transfer from the model to real perceivers is contested (see [[fitness-beats-truth#contestation-and-limits|Contestation and Limits]]). Perception operates as a species-specific interface optimised for useful interaction rather than veridical representation.
 
 ### Adaptive Limitation Beyond Perception
 
@@ -174,3 +174,4 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 12. Gopnik, A. (2020). Childhood as a solution to explore–exploit tensions. *Philosophical Transactions of the Royal Society B*, 375(1803).
 13. Petanjek, Z., et al. (2011). Extraordinary neoteny of synaptic spines in the human prefrontal cortex. *PNAS*, 108(32), 13281-13286.
 14. Pizzorusso, T., et al. (2002). Reactivation of ocular dominance plasticity in the adult visual cortex. *Science*, 298(5596), 1248-1251.
+15. Berke, M. D., Walter-Terrill, R., Jara-Ettinger, J., & Scholl, B. J. (2022). Flexible Goals Require that Inflexible Perceptual Systems Produce Veridical Representations: Implications for Realism as Revealed by Evolutionary Simulations. *Cognitive Science*, 46(10), e13195.

@@ -46,12 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-09-26
 - **Notes**: If in-episode EEG results are published, they are the discriminating measurement the topic article (L118, L158), `concepts/filter-theory` (L113), `topics/consciousness-interface-development` (L95-101) and `apex/altered-states-as-interface-evidence` (L128) all say is missing — update each. If the completion date slips, re-date the Blocked-by line rather than leaving it pending.
 
-### P2: Fix mis-sourced FBT quotes propagated to `concepts/naturally-occluded` and `voids/biological-cognitive-closure`
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/naturally-occluded.md, obsidian/voids/biological-cognitive-closure.md
-- **Notes**: On 2026-09-28 the refine of concepts/fitness-beats-truth found that "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (attributed to Prakash et al. 2021) is NOT in the Prakash 2021 text. The author preprint at sites.socsci.uci.edu/~ddhoff/FitnessBeatsTruth_apa_PBR has zero hits. The same quote sits at naturally-occluded L63 and biological-cognitive-closure L87. Replace it with the verbatim Hoffman et al. 2015 sentence "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction", or with the 2015 abstract's "routinely dominated by nonveridical strategies tuned to fitness". Also bring the "for all fitness functions... strictly dominate / equal or higher" claims into line with the published probabilistic statement: P >= (|X|-3)/(|X|-1), generic as |X| grows. naturally-occluded L109's "Monte Carlo confirmation across thousands of environments" needs the monotonic-fitness boundary and the Berke et al. 2022 multiple-goals caveat. See the fitness-beats-truth refine for the wording. Archive copies (archive/voids/adaptive-cognitive-limits etc.) carry the same quote; decide whether archive pages get corrected.
-
 ### P2: NEEDS-HUMAN (length decision) 2026-09-21 — `concepts/chinese-room-argument` has THREE words of headroom, its apparatus has no slack, and every obvious trim target is certified by a prior review
 
 - **Type**: refine-draft
@@ -1564,6 +1558,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Fix mis-sourced FBT quotes propagated to `concepts/naturally-occluded` and `voids/biological-cognitive-closure`
+- **Type**: refine-draft
+- **File**: obsidian/concepts/naturally-occluded.md, obsidian/voids/biological-cognitive-closure.md
+- **Notes**: On 2026-09-28 the refine of concepts/fitness-beats-truth found that "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (attributed to Prakash et al. 2021) is NOT in the Prakash 2021 text. The author preprint at sites.socsci.uci.edu/~ddhoff/FitnessBeatsTruth_apa_PBR has zero hits. The same quote sits at naturally-occluded L63 and biological-cognitive-closure L87. Replace it with the verbatim Hoffman et al. 2015 sentence "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction", or with the 2015 abstract's "routinely dominated by nonveridical strategies tuned to fitness". Also bring the "for all fitness functions... strictly dominate / equal or higher" claims into line with the published probabilistic statement: P >= (|X|-3)/(|X|-1), generic as |X| grows. naturally-occluded L109's "Monte Carlo confirmation across thousands of environments" needs the monotonic-fitness boundary and the Berke et al. 2022 multiple-goals caveat. See the fitness-beats-truth refine for the wording. Archive copies (archive/voids/adaptive-cognitive-limits etc.) carry the same quote; decide whether archive pages get corrected.
 
 ### ✓ 2026-09-28: Address pessimistic-review gaps in `topics/time-symmetric-selection-mechanism` — Libet resolution vs growing block, retrocausal/atemporal inconsistency, L201 re-installs time-symmetry⇒retrocausality
 - **Type**: refine-draft
