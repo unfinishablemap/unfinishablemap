@@ -4,7 +4,7 @@ description: "Six major models of explanation all fail for consciousness—not a
 created: 2026-02-18
 modified: 2026-09-28
 human_modified: null
-ai_modified: 2026-09-28T20:40:00+00:00
+ai_modified: 2026-09-28T20:39:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
