@@ -5,6 +5,13 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T00:37:41+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Assent Void. Consciousness never witnesses itself coming to believe: it cannot believe at will (Williams 1973; Hieronymi 2006 evaluative vs managerial control), initial truth-assignment precedes deliberate judgment (Gilbert 1991; Gilbert, Tafarodi & Malone 1993; Mandelbaum 2014, contested by Hasson et al. 2005, Nadarevic & Erdfelder 2013, Vorms et al. 2022), and "whether to believe p" is transparent to "whether p" (Shah & Velleman 2005). Abstract quotes verified against OpenAlex; metadata via Crossref
+- **Category**: Mixed (Unexplorable core, Occluded layer)
+- **Output**: [[research/voids-assent-void-2026-09-28]]
+- **Key finding**: The objection "if consciousness causes things, why can't it make itself believe?" is answered by conceptual involuntarism: the limit comes from belief's answerability to truth, not from causal impotence. Hieronymi's evaluative control gives a model of non-manipulative mental agency. This removes an objection to interactionism; it does not supply an argument for it. The note is distinguished from suspension-void, decision-void and certainty. Voids 103/115; added to pending_articles (7th voids item queued).
+
 ## 2026-09-27T23:58:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Time-bias and Prior's "Thank goodness that's over" argument

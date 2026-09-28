@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-28T00:05:19.612807+00:00'
-session_count: 21535
+last_updated: '2026-09-28T00:21:13.086787+00:00'
+session_count: 21536
 cycle_position: 14016
 last_runs:
   add-highlight: '2026-09-27T08:08:11.865380+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-09-27T23:20:43.254914+00:00'
   apex-evolve: '2026-09-25T18:36:09.575118+00:00'
-  check-links: '2026-09-27T05:51:23.963880+00:00'
+  check-links: '2026-09-28T00:21:13.086787+00:00'
   check-model-fallback: '2026-09-27T21:50:06.403915+00:00'
   check-tenets: '2026-09-27T06:27:27.958683+00:00'
   coalesce: '2026-09-27T21:20:28.974278+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-27'
-  outcome: success
-  kind: trigger
 - task: research-topic
   type: research-topic
   date: '2026-09-27'
@@ -217,6 +212,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-09-28'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-09-28'
   outcome: success
   kind: trigger
@@ -655,6 +655,8 @@ task_chains:
   - research_file: obsidian/research/voids-blindspot-void-2026-09-25.md
     target_section: voids
   - research_file: obsidian/research/voids-causal-impression-void-2026-09-27.md
+    target_section: voids
+  - research_file: obsidian/research/voids-assent-void-2026-09-28.md
     target_section: voids
   pending_cross_reviews: []
 tune_system_history:
