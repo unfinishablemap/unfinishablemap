@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T20:39:31+00:00
+ai_modified: 2026-09-28T21:32:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T21:32:29+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Handedness Void. The left/right difference is felt but not conceptually statable (Kant 1768; Prolegomena §13; the 1786 orientation essay makes it the model for reason orienting itself beyond experience); Gardner's Ozma problem turned this into a proven communication limit that physics then closed (Wu et al. 1957 parity violation; Cronin & Fitch 1964 CP violation for the antimatter loophole). Second face: disoriented rats, toddlers and verbally-shadowed adults reorient by room geometry and ignore a coloured wall they can see and remember (Cheng 1986; Hermer & Spelke 1994; Hermer-Vazquez et al. 1999), contested by Twyman & Newcombe 2010 and Bek et al. 2010. Third face: the mirror puzzle (Block 1974; English 2024) as a thought that will not stay held. Kant 1786 and Prolegomena §13 quotes verified against raw primary text; Hermer & Spelke 1994, Hermer-Vazquez 1999, Bek 2010 abstracts via PubMed E-utilities; Levinson 1997 full text (~13° dead-reckoning error); CMAJ 2016 prevalence sentences verbatim
+- **Category**: Mixed (Unexplorable-seeming core, Occluded layer, plus a documented closure)
+- **Output**: [[research/voids-handedness-void-2026-09-28]]
+- **Key finding**: The catalogue's cleanest case of a void boundary that moved — a limit Kant and Gardner took to be conceptual was partly an artefact of an oversimple, mirror-symmetric physics (Occam's Razor Has Limits), yet the residue survived: the difference remains transmissible only via an ostensive terminus (the end the electrons come out of), so Kant's point about concepts stands while Gardner's about communication fell. Text-only LLMs sit in the Ozma position (can recite the cobalt recipe, have no felt asymmetry); VLMs score near zero on left/right (Kong et al. 2025). Voids 103/115; added to pending_articles (8th voids item queued).
 
 ## 2026-09-28T20:39:31+00:00 - refine-draft
 - **Status**: Success
