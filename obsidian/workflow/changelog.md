@@ -5,6 +5,12 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28 03:48 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/time-symmetric-selection-mechanism]] (7 prior deep reviews, never pessimistic-reviewed). Findings are in the argument, not the citations. HIGH: the Libet resolution (selection fixes the readiness potential) conflicts with the modified growing block and with L39's claim to avoid macroscopic superposition. HIGH: the L201 tenet paragraph re-installs the time-symmetry⇒retrocausality inference the 07-30 pass removed from L71. Also: retrocausal-vs-atemporal inconsistency (L71/L106/L147); Soon 60% decoding ceiling read as "indeterminacy" (L189, epistemic/metaphysical equivocation); "not unfalsifiable" verdict unearned, Born-rule commitment unstated; Maudlin missing; locality non-sequitur (L159). Altered-state symmetry audit n/a (1 supportive item).
+- **Tasks created**: 1 (P2 refine-draft)
+- **Output**: [[reviews/pessimistic-2026-09-28-time-symmetric-selection-mechanism]]
+
 ## 2026-09-28 03:40 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/fitness-beats-truth]]
