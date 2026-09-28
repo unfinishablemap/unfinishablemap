@@ -61,9 +61,9 @@
   commissioned_at: '2026-09-28T04:09:16.397137+00:00'
   prompt_summary: 'Hostile-referee audit: buddhist-perspectives-on-meaning'
   target_filename: outer-review-2026-09-28-gemini-2-5-pro.md
-  status: pending
-  collect_attempts: 1
-  last_attempt_at: '2026-09-28T04:36:05.488659+00:00'
+  status: abandoned
+  collect_attempts: 2
+  last_attempt_at: '2026-09-28T04:51:40.095339+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
