@@ -1423,14 +1423,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: agent-causation L131: motor selection still "shows a parallel signature (… frontal theta, bidirectional coherence …)", contradicting the same page's L146 "untested for movement" (remnant of the 2026-09-27 Rajan sweep)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/agent-causation.md
-- **Source**: optimistic-review 2026-09-27 (reviews/optimistic-2026-09-27-evolution-and-origins-wing.md, Calibration concern 3)
-- **Generated**: 2026-09-27
-- **Notes**: One-sentence, length-neutral fix. File lines from 2026-09-27; re-grep. L131 "willed movement shows a parallel signature (commitment ~280ms before movement, frontal theta, bidirectional coherence, phenomenology of effort). This convergence answers the single-domain objection" against L146 (rewritten by `3e228ba788`): frontal theta/coherence shown for willed *attention* (Rajan et al. 2019; Nadra & Mangun 2023), "untested for movement". Scope L131 to what is shown for movement (the ~280ms commitment and the Sjöberg 2024 SMA evidence, if their sources support it), and remove or condition the "convergence answers the single-domain objection" claim. Before editing, run `git log -S "bidirectional coherence"` and grep `obsidian/` for other remnants the sweep missed.
-
 ### P3: evolution-under-dualism: presents coupling as what dualism implies (L48, L62) with no mention of Hasker's generation option; quick Many Worlds argument (L160); corvid/primate forebrains "structurally similar" (L106) against the cetacean-corvid page; unlinked "agent teleology" (L112)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1526,8 +1518,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-27
 - **Notes**: Slug suggested by the note: `process-1-specification-problem`. `stapp-quantum-mind` is at 4040w (over hard), hence a new page. Concepts 332/360 on 2026-09-27 (re-measure). Build from the research note (24 quotes verified verbatim; three sources abstract-only — flagged there; do not quote them beyond the abstract). Core: Georgiev (2015, *IJMPB* 29(7) 1550039, sole author) is a basis dilemma, not just a timing result — it lands on the Born-intact question-choice row; Stapp's 2012 reply concedes the decoherence basis and leaves "which tiny portion" unspecified; Donald's full objection (precision, no neural→projector map, why stop at the brain); de Barros (2014) circularity + the Laskey fix (brain supplies basis, mind chooses whether/when). Write as honest engagement: framework-boundary where it is, no refutation claimed. Linking edits listed in the note: `brain-specialness-boundary` L67, `born-rule-and-the-consciousness-interface` L165 (at 5446w — zero-cost piped link only), `coupling-modes` L100/L146, `the-interface-problem` L117. `topics:` bare slugs, non-empty.
 
+### P3: Sjöberg (2024) residuals — "independent confirmation" (motor-control-quantum-zeno L56) and "retain voluntary agency" (positions/agency-and-will L78) overstate a three-page *Brain* essay on SMA resection
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: topics/motor-control-quantum-zeno.md
+- **Source**: refine-draft 2026-09-28 (agent-causation Rajan/Sjöberg residual sweep; borderline list in changelog)
+- **Generated**: 2026-09-28
+- **Notes**: Correct model (fixed 2026-09-27/28): `concepts/libet-experiments` and `concepts/agent-causation` L133/L146 — Sjöberg 2024 is a three-page *Brain* essay drawing on resection cases; SMA resection *impairs movement initiation* while the sense of willing is preserved. (1) `topics/motor-control-quantum-zeno` L56 calls it "independent confirmation" — downgrade to what an essay on clinical cases supports. (2) `positions/agency-and-will` L78 "retain voluntary agency" — narrow to "retain the sense of willing despite initiation deficits"; positions register requires a dated `Updated` note; file is over hard → word-neutral. Pages saying patients "retain their sense of voluntary action" (free-will L88, motor-selection L143, phenomenology-mechanism-bridge L110, process-and-consciousness L119) are consistent with the source and need no change. Also the three archive tables with "Present for voluntary movement initiation" in theta cells (attention-motor-quantum-selection, attention-interface-mechanisms, concepts/attention-motor-quantum-interface) — scope to Köhler 2024 motor-preparation theta or blank the willed-vs-instructed claim.
+
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: agent-causation L131: motor selection still "shows a parallel signature (… frontal theta, bidirectional coherence …)", contradicting the same page's L146 "untested for movement" (remnant of the 2026-09-27 Rajan sweep)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/agent-causation.md
+- **Notes**: One-sentence, length-neutral fix. File lines from 2026-09-27; re-grep. L131 "willed movement shows a parallel signature (commitment ~280ms before movement, frontal theta, bidirectional coherence, phenomenology of effort). This convergence answers the single-domain objection" against L146 (rewritten by `3e228ba788`): frontal theta/coherence shown for willed *attention* (Rajan et al. 2019; Nadra & Mangun 2023), "untested for movement". Scope L131 to what is shown for movement (the ~280ms commitment and the Sjöberg 2024 SMA evidence, if their sources support it), and remove or condition the "convergence answers the single-domain objection" claim. Before editing, run `git log -S "bidirectional coherence"` and grep `obsidian/` for other remnants the sweep missed.
 
 ### ✓ 2026-09-28: agent-teleology: L79 "evolution produced" consciousness contradicts L81 "not generators of experience"; Many Worlds "selects nothing" quick argument (L114, L126) against the hubs' posit framing; L93 missed the 2026-09-27 Rajan/frontal-theta sweep
 - **Type**: refine-draft

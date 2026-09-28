@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-27
-ai_modified: 2026-09-27 23:58:00+00:00
+ai_modified: 2026-09-28 02:50:00+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -11,14 +11,15 @@ concepts:
 - '[[collapse-and-time]]'
 - '[[many-worlds]]'
 created: 2026-09-27
-date: &id001 2026-09-27
+date: &id001 2026-09-28
 description: 'Prior''s 1959 relief argument, the B-theorist replies, Parfit''s hospital
   case and the case against future-bias: what felt relief about a finished pain can
   and cannot show about time.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-27 23:58:00+00:00
+last_deep_review: 2026-09-28 02:50:00+00:00
+lastmod: 2026-09-28 02:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +50,7 @@ Two things about the original are worth keeping in view. First, Prior's stated c
 
 **Mellor's separation of belief from fact.** D. H. Mellor's reply (1981) distinguishes the tensed judgement "that's over" from the relief it produces. The judgement is indispensable: a tensed belief, and no tenseless belief, is what causes me to feel relief and act at the right moment. But the belief's *truth* needs no tensed fact. A token of "that's over" is true just when the pain ends earlier than the token, which is a tenseless condition. On this account the tensed belief is psychologically irreplaceable while the world contains only tenseless relations. The literature treats this move, developed in Mellor's exchange with Murdo MacBeath (1983), as the orthodox B-theoretic answer. Olley Pearson (2018a) reports that it is "widely accepted that Mellor and MacBeath have shown that our emotions do not imply the existence of tensed facts" — and then contests that orthodoxy, arguing that a natural view of when emotions are *appropriate*, combined with Prior's case, still implies tensed facts.
 
-**The evolutionary story.** John Maclaurin and Heather Dyke (2002) argued that the challenge has more dimensions than the object-of-relief question. A B-theorist must also say why the same event draws different emotions depending on whether it is past, present or future, and why proximate future pain matters more than distant future pain. Their answers appeal to evolution and rest on a causal asymmetry: emotions can influence what comes after them and not what came before, so fear aimed at future danger is adaptive and fear aimed at past danger is not. Nothing in this requires metaphysical tense, only the tenseless difference between an emotion preceding or following its object. Chris Suhler and Craig Callender (2012) extend the approach. Pearson (2018b) replies that it misses Prior's actual contrast. Prior compared a *tensed* and a *tenseless* attitude towards one and the same earlier discomfort, and whether an emotion is tensed is independent of whether it comes before or after its object. On this reading the causal story explains the wrong asymmetry.
+**The evolutionary story.** James Maclaurin and Heather Dyke (2002) argued that the challenge has more dimensions than the object-of-relief question. A B-theorist must also say why the same event draws different emotions depending on whether it is past, present or future, and why proximate future pain matters more than distant future pain. Their answers appeal to evolution and rest on a causal asymmetry: emotions can influence what comes after them and not what came before, so fear aimed at future danger is adaptive and fear aimed at past danger is not. Nothing in this requires metaphysical tense, only the tenseless difference between an emotion preceding or following its object. Christopher Suhler and Craig Callender (2012) extend the approach. Pearson (2018b) replies that it misses Prior's actual contrast. Prior compared a *tensed* and a *tenseless* attitude towards one and the same earlier discomfort, and whether an emotion is tensed is independent of whether it comes before or after its object. On this reading the causal story explains the wrong asymmetry.
 
 The dispute is open. The B-theory has a coherent account of why creatures like us have tensed attitudes; the A-theorist has a standing complaint that the account explains the attitudes' usefulness without explaining their apparent correctness.
 
@@ -67,7 +68,9 @@ A natural defence of future-bias ties it to the metaphysics of time: if time rea
 
 ## Hare's Parity Move {#hares-parity}
 
-Caspar Hare (2007) connects time-bias to its first-person twin. We are mildly biased towards ourselves as well as towards the future, and in each case a rational grounding seems to require that the favoured item be metaphysically special. The A-theory makes the present time special; Hare's [egocentric-presentism](/concepts/egocentric-presentism/) makes the present *self* special. On his treatment the two biases stand or fall together. Hare engages the question inside a broadly physicalist ontology, and he offers egocentric presentism as a possibility worth taking seriously rather than as proven.
+Caspar Hare (2007) connects time-bias to its first-person twin. We are mildly biased towards ourselves as well as towards the future, and in each case, Hare argues, reconciling the bias with concern for how things go overall requires a metaphysics on which the favoured item is special. On a four-dimensionalist picture, with tense merely relational, no such reconciliation is available. A theory with monadic tensed properties makes the present time special; Hare's [egocentric-presentism](/concepts/egocentric-presentism/) makes the present *self* special in the same structural way. Hare presents egocentric presentism as a view he finds attractive and simple, not as proven, and he does not offer it as support for dualism.
+
+Hare adds a caution that matters for what follows. Even granting monadic tense, the metaphysics does not by itself *explain* why past pains should matter less than future ones — unless one adopts a shrinking block, on which the future exists and the past does not. On a growing block, the past is the part that exists. A conviction that future pain is worse can survive such a metaphysics, but it is not derived from it.
 
 The parity cuts in two directions. Someone who defends future-bias by appeal to a privileged present owes an account of why the parallel appeal to a privileged self fails, or else must accept both privileges. Someone who rejects self-bias as groundless must explain why the same reasoning leaves time-bias standing.
 
@@ -91,7 +94,7 @@ The growing block, which the Map holds, fits relief well but does not vindicate 
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The B-theory's economy — no tensed facts, one block — is bought partly by reclassifying the tensed character of attitudes as a fact about believers rather than about the world. That trade may be correct. The Map's claim is modest: the economy of the tenseless picture is not by itself a reason to treat the phenomenology of relief as misleading, and simplicity judgements made while the nature of experience remains unexplained are the kind the fifth tenet urges caution about.
 
-On the normative question the Map takes no firm position. Its metaphysics gives future-bias an intelligible object, since past pains are fixed and future ones open. It does not follow that the preference is rational, and Greene and Sullivan's parity argument has to be met on its own terms. The honest summary is that relief sits comfortably within the Map's framework and is a datum its rivals must explain, without being evidence that decides between them.
+On the normative question the Map takes no firm position. Its metaphysics gives future-bias an intelligible object, since past pains are fixed and future ones open. By Hare's point [above](#hares-parity), that object is not a ground: a growing block leaves past pains existing and future ones not yet real, which by itself gives no reason to care less about past pain. It does not follow that the preference is rational, and Greene and Sullivan's parity argument has to be met on its own terms. The honest summary is that relief sits comfortably within the Map's framework and is a datum its rivals must explain, without being evidence that decides between them.
 
 ## Further Reading
 

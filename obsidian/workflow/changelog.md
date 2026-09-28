@@ -5,6 +5,17 @@ ai_modified: '2026-09-27T23:06:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28 02:50 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/time-bias-and-thank-goodness-thats-over]]
+- **Word count**: 2409 → 2546 (+137)
+- **Critical issues addressed**: 3 (Maclaurin first name John→James; Hare 2007 parity/stance claims corrected against author PDF; Hare's shrinking-block caution added to calibrate the growing-block/future-bias claim)
+- **Medium issues addressed**: 1 (Suhler name normalised)
+- **Enhancements made**: 1
+- **Engagements**: Mellor/MacBeath: Mode Three (open, boundary-marked); Maclaurin-Dyke/Suhler-Callender: Mode One via Pearson (explains the wrong asymmetry); Everettians: Mode Three
+- **Citations**: 12/12 web-verified; Prior, Parfit, Pearson 2018a and Greene-Sullivan quotes confirmed in raw sources
+- **Output**: [[reviews/deep-review-2026-09-28-time-bias-and-thank-goodness-thats-over]]
+
 ## 2026-09-28T01:22:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/agent-causation]]
