@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T13:30:00+00:00'
+ai_modified: '2026-09-28T13:38:28+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28 13:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/content-externalism]] and [[concepts/content-vocabulary-as-derived-feature]] (both files handled; neither dropped)
+- **Original score**: n/a (`scripts/curate.py review` absent; task-note items used as the review)
+- **Word count**: content-externalism 1748 → 1836; content-vocabulary 1840 → 2053 (analyze_length totals incl. reference apparatus; concepts hard 3500, both `ok`)
+- **Changes (content-externalism)**: (a) L36 Kim's reply now cited (Kim 1996) with a new reference entry — **verified at Crossref**: Kim, J. (1996) "Dretske's Qualia Externalism", *Philosophical Issues* 7:159–170, DOI 10.2307/1522900 (start page 159 from the DOI record; end page inferred from Biro's reply starting at 171; OpenAlex first-page text confirms the paper targets Dretske's phenomenal externalism). Existing gloss of Kim's worry left as is (phrase-level paraphrase, not a verbatim quote). (b) Relation section: two sentences installing phantom limb as the empirical exhibit for the phenomenal-internalist half (located felt aboutness with no worldly relatum, sharpest in congenital aplasia), linking `[[phantom-limb-phenomena]]` and `[[content-vocabulary-as-derived-feature]]`.
+- **Changes (content-vocabulary)**: (c) L55 the "aboutness all the way up" reply now cites Clark, Friston & Wilkinson (2019), previously in References only. (d) L71 "resistance of the phantom to mere peripheral intervention" softened — **verified at Crossref + OpenAlex abstract**: Vaso et al. (2014) *Pain* 155(7):1384–1391, DOI 10.1016/j.pain.2014.04.018, DRG lidocaine block "rapidly and reversibly extinguished PLP and also nonpainful phantom limb sensation" in 31 amputees; Flor group's contesting letter Foell et al. (2014) *Pain* 155(10):2205–2206, DOI 10.1016/j.pain.2014.08.028 also cited; both added to References. L73 "no peripheral cause to anchor the aboutness in" rewritten to "no limb is available as the relatum" (a DRG or neuroma can drive the sensation but is not what it is about) and given a reciprocal piped link to `[[content-externalism]]` (inbound count 5 → 6). (e) L37 "It is **not** the claim... This is a sharpening, not a refutation" rephrased per style guide; L51 "load-bearing calibration" → "calibration that matters most". L79 "a sharpening, not a proof of dualism" left (not the flagged construction).
+- **Engagement classification**: predictive-processing reply — Mode Two with declared Mode Three residue (unchanged; the Clark/Friston/Wilkinson cite strengthens the opponent's side, not the Map's).
+- **Published**: yes (sync run; both Hugo copies verified to carry the edits)
 
 ## 2026-09-28 13:30 UTC - expand-topic
 - **Status**: Success

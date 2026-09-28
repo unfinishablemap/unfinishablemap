@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-08-18 14:43:55+00:00
+ai_modified: 2026-09-28 13:38:28+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 14:43:55+00:00
-lastmod: 2026-08-18 14:43:55+00:00
+lastmod: 2026-09-28 13:38:28+00:00
 modified: *id001
 related_articles:
 - '[[predictive-processing]]'
@@ -38,7 +38,7 @@ topics:
 
 When the predictive-processing framework or biological computationalism describes the brain, it borrows a vocabulary of *content*: the system "represents" a cause, "infers" a hidden state, computes a "prediction error" that registers as a "mismatch" between expectation and signal. This article names a calibration move the Map deploys against that vocabulary. The content-talk is empirically indispensable—nothing else organises the data so well—yet metaphysically derivative: the aboutness, inference, and mismatch language *summarises* the underlying dynamics rather than *grounding* them. Phenomenal aboutness is what the inferential vocabulary borrows without paying for.
 
-The move's precise dialectical weight is its whole point. It is **not** the claim that predictive processing or computationalism is false. The framework has an internally available reply—that phenomenal aboutness is itself a derived feature of hierarchical inference—and that reply is not absurd. The move instead *locates the framework's boundary*: it identifies a place where the framework helps itself to a notion (genuine aboutness) richer than the mechanics it has actually described, and it asks the framework to pay for that notion in its own currency. This is a sharpening, not a refutation.
+The move's precise dialectical weight is its whole point. The move does not claim that predictive processing or computationalism is false. The framework has an internally available reply—that phenomenal aboutness is itself a derived feature of hierarchical inference—and that reply is not absurd. The move instead *locates the framework's boundary*: it identifies a place where the framework helps itself to a notion (genuine aboutness) richer than the mechanics it has actually described, and it asks the framework to pay for that notion in its own currency. The move sharpens the framework's account of what it has and has not earned; it leaves the framework standing.
 
 ## What the Move Asserts
 
@@ -52,11 +52,11 @@ The move has three parts, which should be kept distinct.
 
 ## Why This Is a Boundary, Not a Defeater
 
-The load-bearing calibration is that this move does **not** refute the framework on its own terms. The discipline that governs this distinction is [direct-refutation-discipline](/project/direct-refutation-discipline/), which separates several kinds of move the Map can make against an opponent.
+The calibration that matters most is that this move does **not** refute the framework on its own terms. The discipline that governs this distinction is [direct-refutation-discipline](/project/direct-refutation-discipline/), which separates several kinds of move the Map can make against an opponent.
 
 The content-vocabulary move is an instance of *naming an unsupported foundational move*: holding the framework to a standard its own programme prides itself on—mechanistic, ground-up explanation—and pointing out where it has helped itself to a foundational notion without earning it. This is stronger than merely declaring a tenet-boundary, because it uses the opponent's own commitment to mechanistic explanation rather than the Map's dualism. But it is weaker than an in-framework refutation, because no contradiction has been derived from the framework's axioms.
 
-The framework's available reply marks the limit. A predictive-processing theorist can answer: *phenomenal aboutness is not borrowed from outside; it is itself a high-level feature that hierarchical inference produces, in the same way that the content-talk summarises lower-level dynamics.* On this reply, aboutness is one more derived pattern, all the way up, and there is no unpaid debt—only successive layers of useful summary. The Map does not regard this reply as established, but it does regard it as *available*: it is internally coherent and not foreclosed by the framework's own commitments. That is precisely why the move is a boundary-location rather than a defeater. Whether the reply succeeds turns on whether hierarchical inference can generate genuine first-person aboutness or only ever more sophisticated covariation—and that question is not settled by the mechanics alone.
+The framework's available reply marks the limit. A predictive-processing theorist can answer: *phenomenal aboutness is not borrowed from outside; it is itself a high-level feature that hierarchical inference produces, in the same way that the content-talk summarises lower-level dynamics.* On this reply, aboutness is one more derived pattern, all the way up, and there is no unpaid debt—only successive layers of useful summary. Clark, Friston and Wilkinson (2019) give the reply its clearest published form: on their account the felt qualities of experience are not raw data on which inference operates but are themselves outputs of hierarchical inference—qualia inferred, not given. The Map does not regard this reply as established, but it does regard it as *available*: it is internally coherent and not foreclosed by the framework's own commitments. That is precisely why the move is a boundary-location rather than a defeater. Whether the reply succeeds turns on whether hierarchical inference can generate genuine first-person aboutness or only ever more sophisticated covariation—and that question is not settled by the mechanics alone.
 
 Treating the move as a defeater would breach [evidential-status-discipline](/project/evidential-status-discipline/): it would upgrade "the framework has not shown how its vocabulary earns full aboutness" into "the framework cannot be true," which the available evidence does not support. The honest status is that the framework's content-talk is *constrained* to be derivative-or-grounding-but-unproven, not *established* to be incapable of grounding.
 
@@ -72,9 +72,9 @@ It is also distinct from Searle's *original-vs-derived* distinction. Searle cont
 
 ## Phantom Limbs as Worked Exhibit
 
-[Phantom limb phenomena](/topics/phantom-limb-phenomena/) make the move concrete. Predictive-processing accounts explain phantom pain as the persistence of a body-model prior: the generative model continues to predict a limb, and the unexplained prediction error is experienced as sensation in a region that no longer exists. As dynamics, this is illuminating—it accounts for the felt location, the modulation under altered feedback, and the resistance of the phantom to mere peripheral intervention.
+[Phantom limb phenomena](/topics/phantom-limb-phenomena/) make the move concrete. Predictive-processing accounts explain phantom pain as the persistence of a body-model prior: the generative model continues to predict a limb, and the unexplained prediction error is experienced as sensation in a region that no longer exists. As dynamics, this is illuminating—it accounts for the felt location and the modulation under altered feedback. What it should not be credited with is the phantom's imperviousness to peripheral intervention, because that imperviousness is disputed: Vaso et al. (2014) reported that anaesthetic block of the dorsal root ganglia rapidly and reversibly extinguished both phantom pain and non-painful phantom sensation in most of thirty-one amputees, a bottom-up finding the Flor group contests (Foell et al., 2014). A generative model can take ectopic afferent input, as readily as absent input, for its evidence, so the dynamics survive either outcome.
 
-But notice what the explanation requires at its semantic core. The prediction error is not merely a number the model minimises; it is felt *as* pain, *as* located *in* a limb, *as* a mismatch between the body the system expects and the body it has. The "aboutness" of the phantom—that the experience is *of* a limb, *about* a missing leg—is doing real work in the explanation, and that aboutness is exactly the phenomenal content the covariational story does not supply. The model tells us which parameter is mis-set; it does not tell us why the mis-set parameter is *like anything* or why its felt content is *about* a limb. The content-vocabulary is indispensable here—drop it and the explanation collapses into uninterpreted dynamics—and it is derivative—the felt aboutness is presupposed, not produced. Phantom limbs are the strongest exhibit because the gap is not abstract: the missing limb is precisely the object the experience is *about*, and there is no peripheral cause to anchor the aboutness in.
+But notice what the explanation requires at its semantic core. The prediction error is not merely a number the model minimises; it is felt *as* pain, *as* located *in* a limb, *as* a mismatch between the body the system expects and the body it has. The "aboutness" of the phantom—that the experience is *of* a limb, *about* a missing leg—is doing real work in the explanation, and that aboutness is exactly the phenomenal content the covariational story does not supply. The model tells us which parameter is mis-set; it does not tell us why the mis-set parameter is *like anything* or why its felt content is *about* a limb. The content-vocabulary is indispensable here—drop it and the explanation collapses into uninterpreted dynamics—and it is derivative—the felt aboutness is presupposed, not produced. Phantom limbs are the strongest exhibit because the gap is not abstract: the missing limb is precisely the object the experience is *about*, and whatever peripheral generator drives the sensation—a dorsal root ganglion, a stump neuroma—is not what the sensation is about. No limb is available as the relatum, which is also why the case serves the phenomenal-internalist half of the Map's [hybrid on content](/concepts/content-externalism/).
 
 ## Relation to Site Perspective
 
@@ -106,5 +106,7 @@ The move recurs across the corpus, which is why it warrants a shared anchor rath
 1. Hutto, D. D., & Myin, E. (2017). *Evolving Enactivism: Basic Minds Meet Content*. MIT Press.
 1. Clark, A., Friston, K. J., & Wilkinson, S. (2019). "Bayesing Qualia: Consciousness as Inference, Not Raw Datum." *Journal of Consciousness Studies*, 26(9-10), 19-33.
 1. Searle, J. R. (1992). *The Rediscovery of the Mind*. MIT Press.
+1. Vaso, A., Adahan, H.-M., Gjika, A., Zahaj, S., Zhurda, T., Vyshka, G., & Devor, M. (2014). "Peripheral nervous system origin of phantom limb pain." *Pain*, 155(7), 1384-1391. https://doi.org/10.1016/j.pain.2014.04.018
+1. Foell, J., Andoh, J., Bekrater-Bodmann, R., Diers, M., Fuchs, X., Colloca, L., & Flor, H. (2014). "Peripheral origin of phantom limb pain: Is it all resolved?" *Pain*, 155(10), 2205-2206. https://doi.org/10.1016/j.pain.2014.08.028
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Predictive Processing. *The Unfinishable Map*. https://unfinishablemap.org/concepts/predictive-processing/
 1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Naturalisation Failure for Content. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-naturalisation-failure-for-content/
