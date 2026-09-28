@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-28T04:24:23+00:00'
+ai_modified: '2026-09-28T09:07:53+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T09:07:53+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **24th consecutive**, the expected steady-state outcome per the candidate-pool memory.
+- **Cap state** (live, `tools.evolution.state.count_section_files`): topics 334/360 (92.8%), concepts 332/360 (92.2%), voids 103/115 (89.6%), positions 23/80. Topics is the most-pressured section, so the search was topics-first.
+- **Pool movement since the 09-27 21:20 run: exactly one age-floor crosser**, `topics/architectural-adequacy-at-the-built-edge` (created 09-21, 3650w `soft_warning`), flagged by that run as crossing today. Its two nearest siblings by outbound wikilink count were screened on the merits:
+  1. `topics/synthetic-minimal-agents-and-the-engineered-decoupling` 2925w — **6575 vs topics critical 6000, over by 575, and declined on a role split the crosser states in its own prose** (L65: "The engineered decoupling treats the competence question for all four; this article asks the narrower architectural one"). Same factorisation pattern as the Frankfurt decline of 09-04: one page exists to ask the question the other deliberately brackets. Reference overlap is the shared built-agent primary literature (Bongard, Gumuskaya, Hutchison, Rouleau), i.e. the hub citing its parts. DECLINE.
+  2. `topics/brain-organoids-and-the-organoid-intelligence-question` 3902w — **7552 vs critical 6000, over by 1552**, both pages already `soft_warning`; the crosser's Further Reading defers to it as "the organoid case in full, with the three readings and the ethics literature", and its own organoid section is the adequacy-condition test only. Reference overlap (Birch, Kosik, Lancaster, Trujillo — numbered-list style in the organoids page, so a parenthetical-cite grep false-zeroed it and was re-run on the References sections) is the shared organoid primary literature. DECLINE on arithmetic and role.
+- **Biology cluster, carried forward and closed**: `basal-and-bioelectric-cognition` (3995w) + `plant-cognition-and-the-plant-neurobiology-debate` (3348w) is now **7343 vs critical 6000** (it was 5113 when age-blocked on 09-04 and has grown by ~2200w since); the 09-2x runs had already declined it against the hard threshold. Not a candidate.
+- **Next crossers, for the next run**: `topics/time-bias-and-thank-goodness-thats-over` (created 09-27, 2542w `ok`, 0 prior screenings) crosses 10-04 — its nearest sibling `topics/consciousness-and-the-ontology-of-temporal-becoming` is 3642w, so the pair is 6184 vs 6000 and will fail arithmetic unless one shrinks; `concepts/egocentric-presentism` (2255w) is the feasible alternative to read. `concepts/diverging-worlds-everettianism`, `topics/paradoxical-kinesia` and `concepts/panprotopsychism` also cross 10-04 as previously recorded.
+- **Not re-screened**: the remaining eligible pool is unchanged from the 09-27 runs, so the similarity screens would only repeat those declines.
+- **Thresholds printed live** (`tools/curate/length.py` THRESHOLDS): topics 3000/4000/6000, concepts 2500/3500/5000, voids 2000/3000/4000. All word counts via `analyze_length`.
+- **Sources / Target / Archived**: none. **Tasks minted**: none. **Sync**: not run (no content changed).
+- **References to review**: none.
 
 ## 2026-09-28T09:02:00+00:00 - refine-draft
 - **Status**: Success
