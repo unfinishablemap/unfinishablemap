@@ -1439,14 +1439,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: narrative-coherence: engage Strawson's "Against Narrativity" and the narrative void; L35 "provides evidence", L73 "confirm … neither automatic nor epiphenomenal", L81 flat selection claim overstate
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/narrative-coherence.md
-- **Source**: optimistic-review 2026-09-28 (reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md, Calibration concern 6; cross-links)
-- **Generated**: 2026-09-28
-- **Notes**: **Headroom 1701 words (concepts hard 3500; analyze_length 1798, ok).** Last deep review 2026-07-13. File lines from 2026-09-28; re-grep. (a) Strawson appears 0 times in the page (`grep -ci strawson`), yet the page treats the absence of coherence only as pathology (L63-73). Add about 150 words on Strawson (2004, *Ratio* 17(4):428-452, already cited correctly in `voids/narrative-void` refs) and his "episodic" people, who lack diachronic narrative without loss. Answer it: for example, the substantial self does not depend on narrative coherence, which then plays a smaller part. Check `topics/diachronic-agency-and-personal-narrative` for its existing treatment and match it. (b) Link `[[narrative-void]]` in the body (only the reverse link exists). Its L96-98 says construction may be done by a physical interpreter, and consciousness as audience may be "misled about its own causal efficacy". That bears on L61 "someone must be doing the constructing". (c) **L35** "provides evidence that the substantial self is more than a philosophical postulate" → "is read by the Map as". **L73**: breakdowns show that coherence depends on capacities, not that it is non-epiphenomenal. **L81**: mark "consciousness selecting among physical possibilities" as the Map's posited reading (template: `reconsolidation-as-selection-window` L65-67).
-
 ### P3: phenomenology-of-imagination: L118 ranks felt imaginative effort as "the stronger evidence" for mental causation, against `phenomenology-of-forgetting` L105 / agency void; L116 and L90 overstate
 - **Type**: refine-draft
 - **Status**: pending
@@ -1488,6 +1480,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: narrative-coherence: engage Strawson's "Against Narrativity" and the narrative void; L35 "provides evidence", L73 "confirm … neither automatic nor epiphenomenal", L81 flat selection claim overstate
+- **Type**: refine-draft
+- **File**: obsidian/concepts/narrative-coherence.md
+- **Notes**: **Headroom 1701 words (concepts hard 3500; analyze_length 1798, ok).** Last deep review 2026-07-13. File lines from 2026-09-28; re-grep. (a) Strawson appears 0 times in the page (`grep -ci strawson`), yet the page treats the absence of coherence only as pathology (L63-73). Add about 150 words on Strawson (2004, *Ratio* 17(4):428-452, already cited correctly in `voids/narrative-void` refs) and his "episodic" people, who lack diachronic narrative without loss. Answer it: for example, the substantial self does not depend on narrative coherence, which then plays a smaller part. Check `topics/diachronic-agency-and-personal-narrative` for its existing treatment and match it. (b) Link `[[narrative-void]]` in the body (only the reverse link exists). Its L96-98 says construction may be done by a physical interpreter, and consciousness as audience may be "misled about its own causal efficacy". That bears on L61 "someone must be doing the constructing". (c) **L35** "provides evidence that the substantial self is more than a philosophical postulate" → "is read by the Map as". **L73**: breakdowns show that coherence depends on capacities, not that it is non-epiphenomenal. **L81**: mark "consciousness selecting among physical possibilities" as the Map's posited reading (template: `reconsolidation-as-selection-window` L65-67).
 
 ### ✓ 2026-09-28: mental-imagery: lead (L44) and tenet section (L161, L167) assert what the body's standoff (L113-117) and aphantasia result (L129) disclaim; L153 files great-ape cognition as "unconscious processing"
 - **Type**: refine-draft

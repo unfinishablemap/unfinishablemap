@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T18:06:05+00:00
+ai_modified: 2026-09-28T18:36:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T18:36:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Original score**: n/a (`scripts/curate.py` absent; findings from `reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing.md` via todo P3)
+- **Length**: body 2760 → ~2810 words (topics hard 4000; headroom ~1190). YouTube embed block and `embedded_videos` untouched.
+- **Changes**: (a) Bidirectional-interaction paragraph: felt imaginative effort recast from "the stronger evidence" to the datum an epiphenomenalist or identity theorist must accommodate; the mental-causation reading marked as "the conclusion under dispute, not a datum" with the piped `[[agency-void|the felt effort cannot itself verify]]` link — same register as the 2026-09-28 fix on `concepts/mental-imagery` L161 so the two pages agree with `phenomenology-of-forgetting` L105. Also qualified the paragraph's opening "consciousness directs neural activity" with "on the Map's reading" (same overclaim shape). (b) Dualism paragraph close: "finds support in" → "The Map reads … as support for", with the note that the physicalist redescription contests the reading, not the datum. (c) AI sentence hedged: "need not experience the semantic landscape from within — whether any current system does is a question the Map treats as open"; the follow-on "these systems do not" narrowed to "mere simulation" so the hedge is not undone one sentence later. Optional: piped `[[default-mode-network|planning]]` on the counterfactual-inhabitation paragraph. Left the anaesthesia/imagery-void and generative-mystery passages untouched as briefed.
+- **Published**: yes
 
 ## 2026-09-28T18:06:05+00:00 - refine-draft
 - **Status**: Success
