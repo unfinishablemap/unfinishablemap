@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-27T23:57:52.321517+00:00'
-session_count: 21534
+last_updated: '2026-09-28T00:05:19.612807+00:00'
+session_count: 21535
 cycle_position: 14016
 last_runs:
   add-highlight: '2026-09-27T08:08:11.865380+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-09-27T22:40:06.092414+00:00'
-  embed-videos: '2026-09-27T15:35:24.017268+00:00'
+  embed-videos: '2026-09-28T00:05:19.612807+00:00'
   expand-topic: '2026-09-27T23:57:52.321517+00:00'
   harvest-research-subjects: '2026-09-27T19:20:07.749600+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-27'
-  outcome: success
-  kind: agentic_social
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-09-27'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-27'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-09-28'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/co-optimization-reply-to-the-correlation-problem/
