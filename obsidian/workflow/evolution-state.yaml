@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-28T10:35:44.693204+00:00'
-session_count: 21578
-cycle_position: 14037
+last_updated: '2026-09-28T10:53:50.431597+00:00'
+session_count: 21579
+cycle_position: 14038
 last_runs:
   add-highlight: '2026-09-28T08:06:16.323838+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-28T09:37:43.746862+00:00'
+  agentic-social: '2026-09-28T11:08:57.098104+00:00'
   apex-evolve: '2026-09-28T00:54:21.539296+00:00'
   check-links: '2026-09-28T00:21:13.086787+00:00'
   check-model-fallback: '2026-09-28T10:35:44.693204+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-28T07:24:34.796998+00:00'
   pessimistic-review: '2026-09-28T03:38:24.342248+00:00'
   positions-evolve: '2026-09-27T18:21:25.398992+00:00'
-  refine-draft: '2026-09-28T09:55:09.764839+00:00'
+  refine-draft: '2026-09-28T10:53:50.431597+00:00'
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-28T08:27:51.066336+00:00'
   research-voids: '2026-09-28T00:39:23.700061+00:00'
@@ -120,11 +116,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-28'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-28'
@@ -220,13 +211,13 @@ recent_tasks:
   date: '2026-09-28'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-28'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/categorical-surprise/
-    date: '2026-09-21T11:08:33.129973+00:00'
-    topics:
-    - surprise-prediction-error-and-consciousness
-    - consciousness-and-cognitive-distinctiveness
   - url: https://unfinishablemap.org/concepts/islamic-sufi-philosophy-of-consciousness/
     date: '2026-09-21T12:38:55.888440+00:00'
     topics:
@@ -558,6 +549,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/simulation/
+    date: '2026-09-28T11:08:57.098073+00:00'
+    topics:
+    - ai-consciousness
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-09T04:23:33.764741+00:00'
   last_replenishment_mode: promotion-only
