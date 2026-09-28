@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-22T10:09:21+00:00
+ai_modified: 2026-09-28T15:36:44+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -109,7 +109,7 @@ Timing control preserves Born statistics for individual measurements but affects
 
 This is intermediate in minimality. Each measurement obeys Born rule, so no single-trial deviation is detectable. But systematic patterns might emerge: do attention-trained subjects show different neural dynamics than untrained ones? The prediction is yes—but the effect shows up as attention-correlated pattern stability rather than as a single-trial anomaly; whether it also registers as ensemble-level Born-rule deviation is the unsettled question noted above.
 
-**Limitation:** Decoherence timescales present a serious challenge to timing control. Tegmark calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems—far faster than the millisecond timescales of neural processing. If environmental interaction collapses superpositions this quickly, there may be no coherent quantum state for attention to observe. Hagan, Hameroff, and Tuszyński (2002) disputed these calculations, obtaining coherence times of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer—though Reimers et al. (2009) and McKemmish et al. (2009) contest those parameter assumptions, and even Hagan's revised figure remains far shorter than neural integration times. Monte Carlo simulations (Georgiev & Glazebrook, 2014) suggest the Zeno effect breaks down for timescales exceeding brain decoherence time. The mechanism might still operate if consciousness biases outcomes *after* decoherence, at the point of definite-outcome emergence—but this shifts to a less exotic (though still causally efficacious) form of selection.
+**Limitation:** Decoherence timescales present a serious challenge to timing control. Tegmark calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems—far faster than the millisecond timescales of neural processing. If environmental interaction collapses superpositions this quickly, there may be no coherent quantum state for attention to observe. Hagan, Hameroff, and Tuszyński (2002) disputed these calculations, obtaining coherence times of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer—though Reimers et al. (2009) and McKemmish et al. (2009) contest those parameter assumptions, and even Hagan's revised figure remains far shorter than neural integration times. Monte Carlo simulations (Georgiev, 2015) suggest the Zeno effect breaks down for timescales exceeding brain decoherence time. The mechanism might still operate if consciousness biases outcomes *after* decoherence, at the point of definite-outcome emergence—but this shifts to a less exotic (though still causally efficacious) form of selection.
 
 ### Probability Control: Least "Minimal"
 
@@ -186,7 +186,7 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 2. Stapp, H.P. "Quantum Interactive Dualism: An Alternative to Materialism." https://www-physics.lbl.gov/~stapp/QID.pdf
 3. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-4. Georgiev, D.D. & Glazebrook, J.F. (2014). "Monte Carlo simulation of quantum Zeno effect in the brain." arXiv:1412.4741. Published in *International Journal of Modern Physics B*, 29(15), 1550039 (2015). https://ar5iv.labs.arxiv.org/html/1412.4741
+4. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B*, 29(7), 1550039. https://doi.org/10.1142/S0217979215500393 (preprint: arXiv:1412.4741)
 5. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 6. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*, 75(3), 715-775.
 7. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.

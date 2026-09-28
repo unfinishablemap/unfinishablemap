@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T15:32:23+00:00
+ai_modified: 2026-09-28T15:36:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T15:36:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/coupling-modes]]
+- **Original score**: n/a (targeted citation fix; `scripts/curate.py` absent)
+- **Changes**: Georgiev miscitation corrected at L112 (in-text) and L189 (reference 4). Crossref record for DOI 10.1142/S0217979215500393 re-verified before editing: sole author Danko D. Georgiev, *International Journal of Modern Physics B* 29(07), 1550039, issued 2015-03-02 (print 2015-03-20); Semantic Scholar confirms the DOI↔arXiv:1412.4741 pairing. The article had cited "Georgiev & Glazebrook (2014) … 29(15)" — Glazebrook is not an author. In-text now "(Georgiev, 2015)"; reference 4 rewritten in place (numbered ledger, no renumbering; not alphabetised, so no ordering issue) with DOI URL and the arXiv id as preprint. Word-neutral: no prose added; −2 body tokens from dropping the spurious co-author. Hugo copy verified post-sync.
+- **Sweep scope correction**: the task brief listed six further live/archive files. On inspection those carry *different, real* two-author works — Georgiev & Glazebrook (2018) *Prog. Biophys. Mol. Biol.* 135:16-29 (DOI 10.1016/j.pbiomolbio.2018.01.006; `quantum-biology-and-neural-mechanisms`, `neural-implementation-specifics`, `evolutionary-case-for-quantum-neural-effects`, `archive/concepts/quantum-neural-mechanisms`) and Georgiev & Glazebrook (2014) *Biomedical Reviews* 25 (DOI 10.14748/bmr.v25.1038; `conservation-laws-and-mental-causation` L218), both confirmed on Crossref. Those citations are correct and were left untouched. Post-edit sweep for "Georgiev & Glazebrook, 2014" / "29(15)" / the Monte-Carlo-with-Glazebrook reference across obsidian/, archive/, hugo/content/ (excluding workflow/, reviews/, research/): 0 hits.
+- **Research notes carrying the miscitation (left unedited, records of the research stage)**: [[research/selection-only-mind-influence-information-limits-2026-05-05]], [[research/psychophysical-coupling-law-mechanisms-2026-01-23]], [[research/stapp-process-1-basis-timing-critiques-2026-09-27]]. The brief also named `conservation-laws-mind-brain-causation-2026-01-23` and `quantum-biology-and-neural-mechanisms-2026-01-24`; those hit only the correct 2014/2018 Glazebrook works.
+- **Published**: yes
 
 ## 2026-09-28T15:32:23+00:00 - deep-review
 - **Status**: Success
