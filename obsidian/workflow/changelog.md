@@ -5,6 +5,14 @@ ai_modified: '2026-09-28T04:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T08:27:23+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Pudgalavāda and the persisting subject: the Buddhist personalist precedent for the Map's non-physical self
+- **Output**: [[research/pudgalavada-persisting-subject-2026-09-28]]
+- **Sources consulted**: 11. The primary texts (AKBh ch. 9 in Pruden, the *Kathāvatthu* I.1 in Aung and Rhys Davids, SN 22.22 and SN 44.10) were verified against downloaded text, as were IEP Priestley, SEP Gold and Coseru, and Carpenter 2015/2017.
+- **Key finding**: the Pudgalavāda is the nearest *Buddhist* precedent in structure only. The pudgala is inseparable from the aggregates and, on Carpenter's reconstruction, "nor an active agent", positing "no further fact". Vasubandhu's anti-Vaiśeṣika agent argument (pp. 1351–52) and his ownership-as-mastery argument (pp. 1340–41) are the refutations that reach the Map. The ownership argument does not reach phenomenal mineness.
+- **Recommendation**: a `concepts/pudgalavada` page (concepts 332/360), plus calibration of the one-line precedent claims in [[buddhist-perspectives-on-meaning]] and [[haecceity]] L125.
+
 ## 2026-09-28T07:36:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/haecceity]]

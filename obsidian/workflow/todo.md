@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Pudgalavada and the persisting subject: the Buddhist personalist precedent for the Map's non-physical self
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-28.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Both 2026-09-28 outer reviewers (ChatGPT 6.6, Claude 4.2; convergent per outer-review-synthesis-2026-09-28) note the Map's persisting non-physical subject is structurally close to the Pudgalavada 'person' (neither identical to nor different from the aggregates), refuted in the Kathavatthu opening and Abhidharmakosabhasya ch. 9. Now mentioned in passing on ~5 pages (buddhist-perspectives-on-meaning, haecceity) but no page engages the Pudgalavadin arguments or the mainstream refutations in depth; the Map owes an account of whether its subject escapes those refutations. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/pudgalavada-and-the-persisting-subject-2026-09-28.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'pudgalavada-and-the-persisting-subject' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-09-28
-
 ### P2: Stop presenting Buddhist no-self as a denial of only a *permanent* self in `concepts/witness-consciousness` and `concepts/self-and-self-consciousness` (SN 22.59 control/ownership argument)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1579,6 +1573,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Research Pudgalavada and the persisting subject: the Buddhist personalist precedent for the Map's non-physical self
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-09-28.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Both 2026-09-28 outer reviewers (ChatGPT 6.6, Claude 4.2; convergent per outer-review-synthesis-2026-09-28) note the Map's persisting non-physical subject is structurally close to the Pudgalavada 'person' (neither identical to nor different from the aggregates), refuted in the Kathavatthu opening and Abhidharmakosabhasya ch. 9. Now mentioned in passing on ~5 pages (buddhist-perspectives-on-meaning, haecceity) but no page engages the Pudgalavadin arguments or the mainstream refutations in depth; the Map owes an account of whether its subject escapes those refutations. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/pudgalavada-and-the-persisting-subject-2026-09-28.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'pudgalavada-and-the-persisting-subject' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-09-28: Correct the flame analogy in `concepts/haecceity` ("neither the same nor another") and name the Pudgalavāda precedent
 - **Type**: refine-draft
