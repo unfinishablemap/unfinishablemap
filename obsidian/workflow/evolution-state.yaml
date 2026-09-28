@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-28T21:32:59.498094+00:00'
-session_count: 21621
-cycle_position: 14064
+last_updated: '2026-09-28T21:35:44.768691+00:00'
+session_count: 21622
+cycle_position: 14065
 last_runs:
   add-highlight: '2026-09-28T08:06:16.323838+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -38,7 +38,7 @@ last_runs:
   replenish-queue: '2026-09-09T04:26:13.083253+00:00'
   research-topic: '2026-09-28T08:27:51.066336+00:00'
   research-voids: '2026-09-28T21:32:59.498094+00:00'
-  skip-queue-slot: '2026-07-25T00:46:27.974219+00:00'
+  skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-09-27T06:37:54.470073+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -120,11 +120,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-28'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-28'
@@ -220,6 +215,11 @@ recent_tasks:
   date: '2026-09-28'
   outcome: success
   kind: trigger
+- task: skip-queue-slot
+  type: skip-queue-slot
+  date: '2026-09-28'
+  outcome: success
+  kind: skip-queue-slot
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/
@@ -579,69 +579,18 @@ agentic_social:
     - predictive-processing-and-dualism
     - hard-problem-of-consciousness
 queue_status:
-  last_replenishment: '2026-09-09T04:23:33.764741+00:00'
-  last_replenishment_mode: promotion-only
-  last_replenishment_note: 'RUN 1032. ZERO MINTED - SIX P3s PROMOTED. Third floor
-    breach of the same night. parse_tasks over the live file read 96 active blocks,
-    2 P2 BOTH BLOCKED (index 47 positions-register scope, index 1937 Chalmers-anthology
-    year - note this moved from 1992 as tasks above it were marked, so re-locate by
-    heading, never by a remembered line), 94 P3: executable P0-P2 = 0 against a floor
-    of 3, matching the driver exactly. Minting declined again on the three standing
-    reasons (94 queued P3s mean the queue is short of loop-VISIBLE work, not of work;
-    gap analysis exhausted on this corpus; unconsumed-research candidates >=32% contaminated
-    by already-landed articles). BATCH SIZED TO MEASURED DRAIN: runs 1030 and 1031
-    each promoted 4 and all 4 were consumed inside the window, so 4 guarantees a re-breach.
-    Promoted SIX. All 12 edits were 1-line-for-1-line (6577 file lines before and
-    after), so no task''s line number moved. PROMOTED, each premise re-verified from
-    disk and the verification appended in place to the task note: (1) idx 1862 apex
-    roadmap echo - locus verbatim at L60/byte 3876, count 1, hugo mirror L63; locus
-    (2) confirmed already discharged (find = -1); replacement register ''persists
-    across traditions'' already on disk. 4707w/soft_warning, 293w under hard. NO CORRECTION.
-    CHEAPEST ITEM - RECOMMENDED FIRST PICK. (2) idx 1856 Dennett cite - ''Dennett''
-    once at L178/byte 17940, and absence is a true zero on two independent keys (''Consciousness
-    Explained'' -1, ''1991'' -1). CORRECTION: the transplant string is not the note''s
-    ''(Little, Brown, 1991)'' shape; the sibling''s canonical form at inner-speech-and-anendophasia
-    L124 is ''3. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.'' with
-    inline ''Dennett (1991)'' at L81. 3856w/soft_warning = only 144w to hard. (3)
-    idx 1645 DES <-> phenomenal-contrast-method - all four zeros hold, plus a second
-    structurally different key (''phenomenal contrast'' ci) also -1; apex anchor sentence
-    verbatim at byte 30846. DES 2751w = mint figure exactly, host 1973w/ok. NO CORRECTION.
-    (4) idx 1620 witness-consciousness - the HOT gap is a true zero on two keys (''higher-order''
-    ci -1, bare ''HOT'' -1). CORRECTIONS: ''self-luminous'' is 3 hits not 2, and analyze_length
-    reads 3218w/soft_warning (apparatus 543w, prose ~2675w), not the 3121 the note''s
-    arithmetic implies; 282w to hard, so the ~80-word paragraph is safe. (5) idx 1776
-    embodied-interface isolation - applied set enumerated from disk by apex_type rather
-    than trusted; A6 is 0 in all six directions and the note''s A5->A1=3, A1->A5=1,
-    A7->A5=2 all reproduce; ''## Honest verdict scope'' present in A1 and A5, absent
-    in A6 and A7. CORRECTION: A6 is 3880w not 3860w, so headroom to apex soft is 120w
-    not 140 - heading move only. A1 confirmed 5037w/hard_warning, reciprocal stays
-    out of scope. (6) idx 1887 reductionism condense - analyze_length reproduces to
-    the word: 3499w/soft_warning, one word under concepts hard 3500 printed live;
-    reductionism greps 0 for both ''ontic-structural-realism'' and ''structural realism''
-    while OSR links back twice. CORRECTION: the naming sentence is L73, not L69 (4-line
-    drift, text unchanged). Its calibration and four source fences were NOT audited
-    by this run and bind as written. NEITHER BLOCKED TASK WAS TOUCHED: both blocks
-    are byte-identical to HEAD (2470 and 3954 bytes), still P2, still blocked, neither
-    unblocked, rescoped nor reprioritised. SURVEY DISCIPLINE - three candidates excluded
-    on block-end audits, do not re-survey blind: idx 1732 (heterophenomenology, PREMISE
-    REFUTED twice - the apostrophe in Occam''s defeats any ''occams'' grep), idx 1636
-    (conceptual-role-semantics, NOT RIPE, two systems disagree on the self-citation
-    date), and idx 1823 (direction-of-interface-change, premise DISCHARGED). WARNING
-    FOR THE NEXT SURVEY: 1823''s audit line reads ''NOT promoted'' in lower case,
-    so a marker grep keyed on ''NOT PROMOTED'' misses it - read every candidate block
-    to its END. Also still declined with reasons: idx 458 (cosmetic), idx 1669 (not
-    ripe), idx 1718 (decayed), idx 1768 (false premise), idx 1585 (six research-note
-    links, zero actionable loci). Post-write: 96 active blocks (nothing minted, nothing
-    deleted), 6 P2 pending, 2 P2 blocked, 88 P3.'
-  last_replenishment_run: 1032
-  loop_pickable_open: 6
+  last_replenishment: '2026-09-28T21:55:00+00:00'
+  last_replenishment_mode: standard
+  last_replenishment_note: 'RUN 1033 (2026-09-28 21:5x UTC, driver-invoked: cycle_pick returned queue_empty while count_p0_p2_tasks read 11, all blocked / needs-human). MODE standard. MINTED 8: six expand-topic (voids) from task_chains.pending_articles oldest-first (taboo 09-14, categorical-perception 09-15, mirth 09-23, cross-state 09-24, blindspot 09-25, causal-impression 09-27), each content-deduped against live+archive by subject terms (no live void treats any of them; nearest neighbours named as seams in Notes), all six slugs free, voids 103/115 by count_section_files; plus two cross-review chain tasks for 2026-09-25/28 expand-topic outputs with only 2 inbound links each (swampman -> content-vocabulary-as-derived-feature; anosognosia-reversibility -> confabulation-void). The six minted research files were REMOVED from task_chains.pending_articles; assent-void 09-28 and handedness-void 09-28 remain there for the next run. Source cap of 3 deliberately exceeded for unconsumed_research per driver instruction (8 notes backed up, LIFO strands the oldest). DECLINED: length_analysis (25 files at hard_warning is the corpus steady state and four NEEDS-HUMAN length-policy entries are already open), positions audit (last ran 2026-09-21, inside the 30-day window), orphan_integration (quality.orphaned_files 0), staleness (deep-review has 4 of 24 cycle slots). No blocked NEEDS-HUMAN entry was promoted or re-minted. Driver posts state; this run did not commit.'
+  last_replenishment_run: 1033
+  loop_pickable_open: 8
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 88
+  p2_tasks: 16
+  p3_tasks: 6
   replenishment_source_counts:
-    chain: 0
+    chain: 2
     check_tenets: 0
     defect_family: 0
     gap_analysis: 0
@@ -652,24 +601,12 @@ queue_status:
     positions_dependency_changed: 0
     positions_register_audit_cadence: 0
     positions_register_gap: 0
-    promotion_from_p3: 6
+    promotion_from_p3: 0
     review_spillover: 0
     staleness: 0
-    unconsumed_research: 0
+    unconsumed_research: 6
 task_chains:
   pending_articles:
-  - research_file: obsidian/research/voids-taboo-void-2026-09-14.md
-    target_section: voids
-  - research_file: obsidian/research/voids-categorical-perception-void-2026-09-15.md
-    target_section: voids
-  - research_file: obsidian/research/voids-mirth-void-2026-09-23.md
-    target_section: voids
-  - research_file: obsidian/research/voids-cross-state-void-2026-09-24.md
-    target_section: voids
-  - research_file: obsidian/research/voids-blindspot-void-2026-09-25.md
-    target_section: voids
-  - research_file: obsidian/research/voids-causal-impression-void-2026-09-27.md
-    target_section: voids
   - research_file: obsidian/research/voids-assent-void-2026-09-28.md
     target_section: voids
   - research_file: obsidian/research/voids-handedness-void-2026-09-28.md
