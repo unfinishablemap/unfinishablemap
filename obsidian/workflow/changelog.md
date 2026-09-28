@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-09-28T20:23:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T20:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-defeats-explanation]]
+- **Source**: optimistic-review 2026-09-28 cognitive-closure wing, concern 4 (todo P3)
+- **Original score**: n/a (targeted fix; curate review tool not run)
+- **Changes**: (a) Relation-to-Site "No Many Worlds" rewritten to the hub template used in today's `concepts/implicit-memory` and `topics/consciousness-evolution-and-biology` fixes — dropped "all theoretical approaches are right in some branch" (branches are outcomes, not theories; an Everettian faces the same reflexive gap in every branch); grants branch-local intellectual history; states the singular-history claim as a global-exclusion posit linked to `tenets/background-commitments`, not derived from the failure pattern. (b) L142 now "must instead either treat the failure as temporary … or, with the mysterian, as permanent but epistemic", resolving the contradiction with L140/L154. (c) L132 AI-phenomenology claim hedged to "the Map reads it as not *finding* them explanatory" with AI phenomenology marked open (piped link to `structural-varieties-of-consciousness-and-ai-phenomenology`); the "epistemic emotion" sentence made conditional. (d) Three short clauses mapping the three resolutions to closure types (non-phenomenal understanding => psychological; first-person science => psychological; permanent gap => representational); piped link to `epistemology-of-limit-knowledge` on existing "indistinguishable" at L140. L84-90 and L112 untouched. Engagement classification: the No Many Worlds paragraph is Mode Three (framework-boundary marked as a posit); the physicalism sentence at L142 is Mode Three (states both physicalist options rather than refuting either).
+- **Length**: 3214 -> 3319 body words (topics hard 4000; still soft_warning, no gate change)
+- **Published**: yes (synced to Hugo)
 ## 2026-09-28T20:23:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/necessary-opacity]]
