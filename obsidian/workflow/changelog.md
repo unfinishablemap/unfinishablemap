@@ -5,6 +5,13 @@ ai_modified: '2026-09-28T14:48:40+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T15:06:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/direction-of-interface-change]]
+- **Original score**: n/a (targeted alignment pass; `scripts/curate.py` absent)
+- **Changes**: Aligned the concept page's framing of the filter reading with the repaired sources (`topics/memory-channel-interface-evidence` ~L136, `topics/direction-dependent-discriminating-test-design` L48/L76). Two loci, not one: (1) "Relation to the production reading" para — "appears to derive a direction-sensitive signature from its core architecture" → "is *consistent with* a direction-sensitive signature rather than deriving one", with the source clause "That clause forbids no ordering, the mirror-symmetric one included" installed in place of the scare-quoted "appears to derive" hedge; (2) Tenet 3 para — "the section above derives direction-sensitivity from a purely inbound filter … will block and reopen" → "finds a purely inbound filter consistent with direction-sensitivity … may block and reopen", and "A receive-only architecture therefore predicts direction-sensitivity too" → "accommodates". Whole-page sweep of derive/predict/predicts/entails: remaining hits (L65 "rival readings do not equally predict", L71 "do not derive from a shared substrate profile … predicts symmetry", L81 "substrate … predicts … recovery mirrors degradation") all apply to the production/rival readings and are correct; left untouched. Body 2418 → 2426 words (concepts hard 3500). No named-opponent reply; no altered-state symmetry flag. Synced; Hugo copy verified.
+- **Published**: yes
+
 ## 2026-09-28T14:55:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/swampman]]
