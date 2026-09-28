@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 16:13:05+00:00
+ai_modified: 2026-09-28 16:30:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 16:13:05+00:00
+lastmod: 2026-09-28 16:30:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T16:30:15+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the cognitive-closure wing, nine pages chosen by coverage (never named in any optimistic review dated 2026-08/09): topics/phenomenology-of-cognitive-limit-types, topics/cross-domain-void-comparison, topics/consciousness-defeats-explanation, concepts/epistemology-of-limit-knowledge, concepts/naturally-occluded, concepts/apophatic-cartography-four-criteria, voids/biological-cognitive-closure, voids/closure-types-void, voids/necessary-opacity. Bodies read in full; body-only link matrix 10/72; Cubitt et al. 2015 quotation verified verbatim on the Nature page.
+- **Findings**: three pages attribute three different signature inventories to `compound-failure-signatures` (four-criteria L51, limit-types L53; cross-domain L85 is correct); four-criteria L147 misdescribes limit-knowledge's four methods; limit-types L123 uses the aporia profile to discriminate "not reducible" from "not yet reduced" against closure-types L74; necessary-opacity L152 contradicts its own L64/L74/L130; defeats-explanation L166 quick-MWI move. bcc L143/L135 carried from today's tenet-check, not re-minted. Best-calibrated wing reviewed to date: cross-domain (coherence-not-discrimination, four times), limit-knowledge L129, naturally-occluded L107-121, four-criteria L104/L118.
+- **Tasks**: 4 × P3 refine-draft on reviewed pages (four-criteria; limit-types; necessary-opacity; defeats-explanation). No expand-topic tasks (harvester path). Concern 5 (limit-knowledge L69 convergence warrant pre-discount) left for that page's next deep review.
+- **Output**: [optimistic-2026-09-28-cognitive-closure-wing](/reviews/optimistic-2026-09-28-cognitive-closure-wing/)
 
 ## 2026-09-28T16:13:05+00:00 - expand-topic
 - **Status**: Success
