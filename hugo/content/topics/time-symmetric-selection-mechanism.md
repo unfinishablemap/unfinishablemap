@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-08-24 09:21:07+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-28 09:29:10+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
 - '[[retrocausality]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 11:48:15+00:00
-lastmod: 2026-08-24 09:21:07+00:00
+lastmod: 2026-09-28 09:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [atemporal constraint satisfaction](/concepts/atemporal-causation/). On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This is how the framework addresses the apparent timing problem from [Libet experiments](/concepts/libet-experiments/): neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
 
-The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection is one of two pathways the Map develops. The alternative—[non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/)—proposes that consciousness acts forward in time, selecting among currently superposed neural states at the moment of collapse. That pathway avoids the transactional interpretation dependency and carries fewer metaphysical commitments. Time-symmetric selection costs more but offers a structural difference: it addresses the Libet timing problem by locating selection outside temporal sequence, rather than requiring macroscopic neural superpositions to persist long enough for forward-in-time selection to operate. Whether this counts as an advantage depends on how much work the timing problem still needs—and, as the next section concedes, the strongest deflationary reading of Libet may already do much of that work without any quantum-temporal machinery.
+The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection is one of two pathways the Map develops. The alternative—[non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/)—proposes that consciousness acts forward in time, selecting among currently superposed neural states at the moment of collapse. That pathway avoids the transactional interpretation dependency and carries fewer metaphysical commitments. Time-symmetric selection costs more and offers a narrower structural difference than the Map once claimed: it addresses the Libet timing problem by making the later boundary condition—the act and the awareness of it—part of what the selection satisfies, so awareness need not precede the neural activity it correlates with. It does not escape the decoherence problem: as the readiness-potential subsection (explained below) concedes, selection fixes only a decision's quantum seed, not a half-second of neural history, and that seed must be open when selection occurs, just as a forward-in-time selection event must be. Whether the residual difference counts as an advantage depends on how much work the timing problem still needs—and, as the next section concedes, the strongest deflationary reading of Libet may already do much of that work.
 
 ## The Timing Problem
 
@@ -63,6 +63,8 @@ The transaction completes when offer and confirmation waves align—not at a mom
 
 Ruth Kastner's possibilist transactional interpretation (2012) refines this: offer waves represent real possibilities; transactions actualise one possibility. The "future" that sends confirmation waves isn't an already-existing timeline but the space of potential absorbers.
 
+The interpretation is a minority position with a standing objection. Maudlin's (2011) contingent-absorber argument places a second absorber whose position depends on whether the particle was already detected elsewhere, so which absorbers return confirmation waves depends on the very outcome the transaction is meant to determine. Kastner (2014) replies, against Lewis (2013), that the possibilist formulation dissolves the setup because offers are possibilities, not spacetime trajectories; the exchange stands at an impasse. The Map's borrowing runs through the possibilist formulation and inherits the contested reply—see [the Maudlin objection](/concepts/transactional-interpretation-of-quantum-mechanics/#the-maudlin-objection).
+
 ### Two-State Vector Formalism
 
 The Two-State Vector Formalism (TSVF) describes quantum systems using both:
@@ -72,7 +74,7 @@ The Two-State Vector Formalism (TSVF) describes quantum systems using both:
 
 Aharonov, Bergmann and Lebowitz (1964) supplied the time-symmetric probability rule the formalism rests on; the two-state vector itself was formulated by Aharonov and Vaidman (1990), and the "weak measurements" that reveal properties inaccessible to standard measurement arrived with Aharonov, Albert and Vaidman (1988). A complete account of a system between two measurements requires both vectors.
 
-The formalism stops short of retrocausality, and the distinction matters here. TSVF is deliberately operational—it states time-symmetric probabilities without prescribing a causal ontology, and Friederich and Evans (2023) describe it as "in principle compatible with a variety of supplemented retrocausal ontologies" rather than committed to one. Price (2012) asks whether time-symmetry implies retrocausality and answers "maybe": affirmatively only given further assumptions about quantum ontology. The retrocausal reading this article develops is the Map's addition to the formalism rather than a result the mathematics forces.
+The formalism stops short of retrocausality, and the distinction matters here. TSVF is deliberately operational—it states time-symmetric probabilities without prescribing a causal ontology, and Friederich and Evans (2023) describe it as "in principle compatible with a variety of supplemented retrocausal ontologies" rather than committed to one. Price (2012) asks whether time-symmetry implies retrocausality and answers "maybe": affirmatively only given further assumptions about quantum ontology. The reading this article develops—selection as atemporal constraint satisfaction, which the retrocausality literature would file under backward influence—is the Map's addition to the formalism rather than a result the mathematics forces.
 
 ### What These Frameworks Share
 
@@ -103,21 +105,29 @@ On this model, the readiness potential is not evidence against conscious causati
 
 1. Brain prepares multiple action possibilities (superposition)
 2. Consciousness selects which possibility becomes actual (atemporal transaction)
-3. The selection determines the entire correlated history—including the readiness potential
+3. The selection fixes the quantum seed from which the correlated history—including the readiness potential—unfolds
 
-The neural activity "preceding" awareness is part of the selected package, not a prior cause. Because the selection is not located at a moment, there is no moment at which consciousness must act before the brain activity occurs.
+The neural activity "preceding" awareness is downstream of the selected seed, not a prior cause of the selection. Because the selection is not located at a moment, and the boundary condition it satisfies includes the act and the awareness of it, there is no moment at which consciousness must act before the brain activity occurs. The next subsection says why the seed, not the whole ramp, is all the selection can fix.
 
-The selection is not backward causation but atemporal constraint satisfaction: it runs in no direction, and instead fixes what the temporal ordering is.
+The selection is not backward causation but atemporal constraint satisfaction: it runs in no direction, and instead fixes which of the offered histories is the actual one.
+
+### The Readiness Potential and the Growing Block
+
+An internal tension needs stating outright. The modified growing block (explained below) treats the past as collapsed outcomes, irreversibly actual. In the transactional interpretation each absorption completes its own transaction, so a readiness-potential ramp of several hundred milliseconds comprises many separately completed transactions—ion-channel and synaptic events—each irreversibly past once done. No single transaction spans the ramp. An earlier formulation had the selection fix "the entire correlated history"; that would need the ramp's neural states to stay uncollapsed throughout, which is exactly the long-lived macroscopic superposition the decoherence discussion below concedes falls three to five orders of magnitude short.
+
+The Map's answer is that the selection fixes a seed, not a ramp. The transaction consciousness participates in is the micro-event at which the decision branches—on Schurger's reading, which fluctuation the accumulator amplifies—and the readiness potential is the classical history that unfolds from it. The seed must be open when selection occurs, just as a forward-in-time selection event must be, and the decoherence and Zeno burdens fall on it in the same way. What atemporal selection adds is the later boundary condition: the seed is fixed under constraint from the completed act and its reported awareness as well as the prior neural state, so awareness is a condition the transaction satisfies rather than a late report of a settled outcome.
+
+This is a smaller structural difference from forward-in-time selection than the Map once claimed. The alternative answer—that the correlation is fixed in Kastner's pre-spacetime possibility realm, outside the ordering that makes the ramp "past"—costs more: it must say why a fixing outside spacetime shows up inside it as an irreversible past, and it stands or falls with the contested reply to Maudlin. The Map records both readings and prefers the first.
 
 ### Phenomenological Fit
 
-The atemporal model coheres with the phenomenology of decision. This fit is illustrative, not discriminating: a forward-causal account of selection predicts the same first-person reports, so phenomenology motivates and illustrates the model without adjudicating between it and its forward-in-time rival.
+The atemporal model coheres with the phenomenology of decision. This fit is illustrative, not discriminating: a forward-causal account of selection, and a purely physical constructive account of the reports, predict the same first-person reports, so phenomenology motivates and illustrates the model without adjudicating between it and its forward-in-time rival.
 
 **Deliberation feels like weighing options**: We experience considering possibilities, not receiving already-made decisions. This is consistent with superposition awaiting selection.
 
 **Resolution feels like crystallisation**: When we decide, one option "becomes real" while others fade. This is consistent with transaction completion actualising one possibility.
 
-**We don't experience lateness**: If consciousness causally followed neural activity, we might expect to feel "late"—decisions arriving after something else has already happened. Instead, decisions feel simultaneous with their enactment.
+**We don't experience lateness**: If consciousness causally followed neural activity, we might expect to feel "late"—decisions arriving after something else has already happened. Instead, decisions do not feel late relative to the choice—though Libet's reported intention time (W) sits about 200 ms before movement, not at it. Postdictive accounts—intentional binding (Haggard, Clark and Kalogeras 2002), Dennett and Kinsbourne's (1992) multiple-drafts timestamping—predict the same absence of felt lateness from physical resources alone, so this fit cannot discriminate.
 
 ## Integration with Quantum Zeno
 
@@ -148,7 +158,7 @@ This preserves:
 
 - **Real collapse**: Superposition genuinely becomes definiteness; alternatives are eliminated
 - **Time's arrow**: Collapse introduces irreversibility
-- **Retrocausal structure**: Boundary conditions at both ends matter
+- **Two-ended constraint**: Boundary conditions at both ends matter—the structure the retrocausality literature describes as backward influence, read here as atemporal constraint
 
 The selection determines which possibilities become actual. Once actual, they're irreversibly past. The atemporal transaction and the arrow of time coexist because atemporality operates at the level of possibility; the arrow operates at the level of actuality.
 
@@ -160,9 +170,9 @@ Several misunderstandings should be cleared away:
 
 **Not choosing freely among any possibilities**: Selection operates only at quantum indeterminacies. It biases outcomes within ranges physics allows—it doesn't override physical law or create options physics doesn't provide.
 
-**Not instantaneous telekinesis**: The selection occurs at the consciousness-brain interface, not at arbitrary external systems—you select among *your* neural patterns, not someone else's. The locality constraint follows from the mechanism: transaction completion requires the selecting system to participate in the transaction.
+**Not instantaneous telekinesis**: The selection occurs at the consciousness-brain interface, not at arbitrary external systems—you select among *your* neural patterns, not someone else's. This locality does not follow from the transactional interpretation, whose transactions are non-local by design and whose absorbers (step 2 of the mechanism) include the environment. It comes from the [interface model](/concepts/consciousness-selecting-neural-patterns/): selection requires alternatives represented in the subject's own control loop, which no external system shares. Where a subject's reach ends is taken up under The Transaction's Scope below.
 
-**Not eliminating randomness**: Quantum mechanics provides probabilistic distributions. Selection biases which outcome within the distribution becomes actual. This is neither pure randomness (the distribution constrains) nor pure control (probabilities still apply).
+**Not eliminating randomness**: Quantum mechanics provides probabilistic distributions. Selection biases which outcome within the distribution becomes actual. This is neither pure randomness (the distribution constrains) nor pure control (probabilities still apply). The Map's commitment is that per-trial biasing leaves aggregate Born statistics intact; how selection can then do causal work is its strongest live difficulty, stated whole in [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/).
 
 ## Open Questions
 
@@ -176,37 +186,37 @@ The transactional interpretation doesn't specify, and the answers diverge:
 - **Macro-transactions** (coherent neural patterns): Selection would be policy-level, matching the ~10 bits/second bandwidth of conscious thought
 - **Extended transactions** (entire decision episodes): Selection would determine whole sequences at once
 
-The Map favours policy-level selection based on [bandwidth constraints](/concepts/consciousness-selecting-neural-patterns/), but the physics doesn't settle this.
+The Map favours policy-level selection based on [bandwidth constraints](/concepts/consciousness-selecting-neural-patterns/), but the physics doesn't settle this. Nor does it settle where a subject's transaction ends: step 2 admits environmental absorbers, and the interface model's answer—reach is fixed by the control loop, not the absorber set—has still to be squared with confirmation waves arriving from outside the skull.
 
 ### Phenomenology of Atemporality
 
-If selection is atemporal, why do we experience time flowing? Three compatible answers: on the **constitutional** reading we experience flow because we are constituting it, and time-constitution *feels like* flowing from within; on the **emergent-structure** reading each transaction adds to accumulated history, and the sense of passage is the phenomenal character of that accumulation; on the **retention-and-protention** reading each moment holds the past as retained and the future as protended, and this temporal thickness is how atemporal selection feels from the inside.
+If selection is atemporal, why do we experience time flowing? Three compatible answers: on the **constitutional** reading we experience flow because we are constituting it; on the **emergent-structure** reading each transaction adds to accumulated history, and the sense of passage is the phenomenal character of that accumulation; on the **retention-and-protention** reading each moment holds the past as retained and the future as protended, and this temporal thickness is how atemporal selection feels from inside.
 
 ### Empirical Access
 
 Can time-symmetric selection be tested? The transactional and standard interpretations make identical predictions for current experiments, which is why interpretation debates persist.
 
-But specific signatures might distinguish consciousness-involving selection:
+Because the Map holds that selection preserves Born statistics, no quantum-statistical fingerprint is predicted; what falsifiability remains sits with the mechanism's other commitments (see [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) and [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)). Three candidate signatures are sometimes offered; each is weak:
 
-- **Contemplative phenomenology**: Do trained meditators report temporal experience consistent with atemporal selection? Cessation states and the "timeless" quality of deep concentration are the relevant evidence.
-- **Timing correlations**: Does the relationship between neural activity and conscious awareness match what atemporal selection predicts? Further studies of decision timing could constrain this.
-- **Neural indeterminacy gaps**: The 60% prediction accuracy in Soon et al. leaves substantial room for undetermined factors. If this gap closed with better measurement, the selection model would face difficulty; if it persists despite improved techniques, something beyond measured neural activity contributes to outcomes.
+- **Contemplative phenomenology**: Cessation states and the "timeless" quality of deep concentration are sometimes cited. Phenomenology is non-discriminating here for the reason given above, and the traditions describing nirodha and jhāna read those states as the absence of a self-agent, not as a selector glimpsing its own atemporality.
+- **Timing correlations**: Decision-timing studies constrain the model only if it predicts something specific. On the seed reading it predicts only that awareness need not precede the ramp—compatible with every timing result so far, which is what makes it weak.
+- **Decoding ceilings**: Soon et al.'s roughly 60% accuracy is an fMRI decoding figure against 50% chance, from limited voxels at BOLD resolution—a measurement limit, not evidence of indeterminacy. Closing it would count against the model; its persistence would count for the model only if it survived full-resolution measurement, which no foreseeable technique provides.
 
-None of these is conclusive. The framework is speculative but not unfalsifiable—it makes commitments about consciousness, time, and quantum mechanics that ongoing research could confirm or challenge.
+None of these is a test. The framework is speculative, with empirical commitments not yet specified beyond Born preservation; what research can do is constrain the decoherence-timescale and neural-interface commitments it rests on.
 
 ## Relation to Site Perspective
 
-Time-symmetric selection connects tightly to the Map's tenets:
+Time-symmetric selection bears on each tenet as follows:
 
-**[Dualism](/tenets/#dualism)**: If consciousness participates in atemporal selection, it operates at a level physics alone doesn't describe. The selection isn't a physical event within the transaction—it's what makes there be a definite transaction. This positions consciousness as constitutive rather than merely accompanying physical process.
+**[Dualism](/tenets/#dualism)**: If consciousness participates in selecting which transaction completes at the brain interface, it operates at a level physics alone doesn't describe. The Map takes on only the biasing of transactions at that interface; transactions elsewhere—in photodetectors, in stellar plasma—complete under the interpretation's own stochastic rule with no mind involved, which keeps the view short of panpsychism. Consciousness is a participant in actualisation at one locus, not what actualisation everywhere requires. Whether any such participant exists is a framework-boundary disagreement with physicalism, noted rather than settled.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Atemporal selection is maximally minimal. Consciousness doesn't inject energy, override laws, or cause events at moments; it satisfies constraints that physics leaves underdetermined. The interaction sits precisely at the gap in physical causation, where collapse occurs.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Atemporal selection is plausibly minimal in the energetic sense. Consciousness doesn't inject energy, override laws, or cause events at moments; it satisfies constraints that physics leaves underdetermined. Fixing which seed becomes actual is a small intervention; fixing a decision's whole temporal ordering, as an earlier formulation claimed, was not, and is withdrawn above. The interaction sits precisely at the gap in physical causation, where collapse occurs.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Time-symmetric physics makes bidirectional causation natural. If fundamental laws are time-symmetric, backward-pointing causation has the same status as forward-pointing. Consciousness influencing what becomes actual—even when the "what" includes earlier neural activity—isn't mysterious addition to physics but recognition of physics' time-symmetric structure.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On the transactional ontology, and only on it, influence running against the temporal arrow stops being anomalous, because the emission–absorption handshake already treats constraint as two-ended. Time-symmetry of the laws does not by itself deliver this—classical mechanics is time-symmetric and not retrocausal, its arrow coming from boundary conditions—and the TSVF section's caveat (Price 2012; Friederich and Evans 2023) applies here too. Given the ontology, consciousness constraining which seed becomes actual under a boundary condition that includes later awareness recognises the interpretation's structure; without it, it is an addition to physics.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Time-symmetric selection requires collapse to be real. On the Many-Worlds Interpretation, all outcomes occur in branching worlds—there's no selection, only discovery of which branch one inhabits. The framework depends on genuine selection actualising one possibility and eliminating others. MWI eliminates what the model requires. See [The Map's Case for One-World Actuality](/arguments/many-worlds-argument/) for why.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Atemporal selection seems exotic—causation that doesn't flow in time, consciousness operating outside temporal sequence. But the framework draws on well-developed physics (transactional interpretation, TSVF) and makes sense of otherwise puzzling phenomena (Libet timing, phenomenology of decision). The apparent simplicity of sequential causation may reflect our cognitive limitations, not reality's structure.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Atemporal selection seems exotic—causation that doesn't flow in time, consciousness operating outside temporal sequence. But the framework draws on developed though minority and contested frameworks (the transactional interpretation, the TSVF) and offers one reading of the residual conscious-causation question Libet raised. The apparent simplicity of sequential causation may reflect our cognitive limitations, not reality's structure.
 
 ## Further Reading
 
@@ -232,11 +242,16 @@ Time-symmetric selection connects tightly to the Map's tenets:
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
 1. Aharonov, Y., & Vaidman, L. (1990). Properties of a quantum system during the time interval between two measurements. *Physical Review A*, 41(1), 11-20.
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Dennett, D. C., & Kinsbourne, M. (1992). Time and the observer: The where and when of consciousness in the brain. *Behavioral and Brain Sciences*, 15(2), 183-201.
 1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498.
 1. Friederich, S., & Evans, P. W. (2023). Retrocausality in quantum mechanics. *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qm-retrocausality/
+1. Haggard, P., Clark, S., & Kalogeras, J. (2002). Voluntary action and conscious awareness. *Nature Neuroscience*, 5(4), 382-385.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+1. Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20.
 1. Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
+1. Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44(4), 442-449.
+1. Maudlin, T. (2011). *Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics* (3rd ed.). Wiley-Blackwell. (Original work published 1994.)
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
 1. Soon, C. S. et al. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.

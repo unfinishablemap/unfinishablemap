@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-28 10:30:00+00:00
+ai_modified: 2026-09-28 09:02:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 14:04:40+00:00
-lastmod: 2026-09-28 10:30:00+00:00
+lastmod: 2026-09-28 09:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
