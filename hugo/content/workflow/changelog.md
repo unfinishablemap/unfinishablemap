@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-28T06:05:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [egocentric-presentism](/concepts/egocentric-presentism/)
+- **Word count**: 2135 → 2255 (+120)
+- **Critical issues addressed**: 1 (quadrilemma false dichotomy: "two principled rivals" and "the cost is paid in the one place the Map can most easily afford" implied the Map's exit is Hare's weak solipsism, contradicting [vertiginous-question](/topics/vertiginous-question/) L106, where the Map takes the fragmentation exit. Fixed by adding List's four-exit mapping (deflationism / Hare / Fine fragmentalism / many-worlds, verified against OUP), a neutral comparison of the two one-world exits, and a conditional statement of the Map's fragmentation cost in the Tenet 4 paragraph.)
+- **Medium issues addressed**: 1 ("List's own preferred resolution" → tentatively preferred and not defended in the quadrilemma paper, per the OUP text)
+- **Enhancements made**: 2
+- **Engagement classification**: List, Mode Three: modal realism rejected at the framework boundary, unchanged.
+- **Output**: [deep-review-2026-09-28-egocentric-presentism](/reviews/deep-review-2026-09-28-egocentric-presentism/)
+
+## 2026-09-28T05:51:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)
+- **Original score**: 7/10 (curate review tool absent; score from convergent outer reviews)
+- **Changes**: Second P1 pass (school calibration), preserving the 9becf909 pass. (a) Theravāda "by example" caricature replaced with the SEP straw-man point and the brahmavihāras (Goodman 2024, verified verbatim); (b) bodhisattva "vow to forgo nirvana" → aspiration to Buddhahood for all beings + non-abiding nirvāṇa; (c/m) Yogācāra scoped to the Vijñānavāda strand (Szanyi 2024 SEP, verbatim) and kliṣṭa-manas clinging to the store consciousness as a self added as a rival account of the persisting subject; (d) sati given its recollective/retentive sense; (e/l) "no creator-deity" separated from "no cosmology" (SEP verbatim) and rebirth/saṃsāra added to the karma sentence; (f/j) lead, L37, L43, L75 and the L51 value-within-impermanence passage marked as application; L51 flagged as Zen/modern reading against the canonical SN 22.59 inference; saṅkhāra-dukkha re-glossed as belonging to conditioned phenomena as such (SN 45.165 Sujato, SN 56.11 Ṭhānissaro, both grep-verified in raw text); (g) nihilist caricature replaced by an error theorist who keeps practical projects (Mackie 1977); (h) Minimal Quantum Interaction sentence added to Relation section; (i) Encyclopedia of Buddhism entry replaced by SN 45.165/56.11 and MN 63 primary locators; avyākata restated per MN 63 (verified); (k) flame restored to "neither the same nor another" (Milindapañha); (n) Madhyamaka "scope not status" sentence replaced with the MMK 15.2 svabhāva tension; (o) L153 "property dualism" → event dualism of dharmas, fixing an internal contradiction with the Support paragraph. Body 3341 → 3618 words (hard 4000).
+- **Engagement classification**: Madhyamaka (n) Mode Three, now marks the svabhāva tension openly; error theorist (g) Mode One, grants practical projects and locates the difference in the diagnosis-path link.
+- **Published**: yes
+
+
 ## 2026-09-28 05:40 UTC - refine-draft
 - **Status**: Success
 - **File**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)

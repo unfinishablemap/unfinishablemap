@@ -4,6 +4,16 @@ ai_generated_date: 2026-01-05
 ai_modified: '2026-09-28T04:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-28T06:05:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/egocentric-presentism]]
+- **Word count**: 2135 → 2255 (+120)
+- **Critical issues addressed**: 1 (quadrilemma false dichotomy: "two principled rivals" and "the cost is paid in the one place the Map can most easily afford" implied the Map's exit is Hare's weak solipsism, contradicting [[topics/vertiginous-question]] L106, where the Map takes the fragmentation exit. Fixed by adding List's four-exit mapping (deflationism / Hare / Fine fragmentalism / many-worlds, verified against OUP), a neutral comparison of the two one-world exits, and a conditional statement of the Map's fragmentation cost in the Tenet 4 paragraph.)
+- **Medium issues addressed**: 1 ("List's own preferred resolution" → tentatively preferred and not defended in the quadrilemma paper, per the OUP text)
+- **Enhancements made**: 2
+- **Engagement classification**: List, Mode Three: modal realism rejected at the framework boundary, unchanged.
+- **Output**: [[reviews/deep-review-2026-09-28-egocentric-presentism]]
+
 ## 2026-09-28T05:51:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/buddhist-perspectives-on-meaning]]

@@ -1560,9 +1560,9 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: Correct model (fixed 2026-09-27/28): `concepts/libet-experiments` and `concepts/agent-causation` L133/L146 — Sjöberg 2024 is a three-page *Brain* essay drawing on resection cases; SMA resection *impairs movement initiation* while the sense of willing is preserved. (1) `topics/motor-control-quantum-zeno` L56 calls it "independent confirmation" — downgrade to what an essay on clinical cases supports. (2) `positions/agency-and-will` L78 "retain voluntary agency" — narrow to "retain the sense of willing despite initiation deficits"; positions register requires a dated `Updated` note; file is over hard → word-neutral. Pages saying patients "retain their sense of voluntary action" (free-will L88, motor-selection L143, phenomenology-mechanism-bridge L110, process-and-consciousness L119) are consistent with the source and need no change. Also the three archive tables with "Present for voluntary movement initiation" in theta cells (attention-motor-quantum-selection, attention-interface-mechanisms, concepts/attention-motor-quantum-interface) — scope to Köhler 2024 motor-preparation theta or blank the willed-vs-instructed claim.
 
-### P3: egocentric-presentism L79 says Hare "pairs egocentric presentism with a lean, broadly physicalist ontology" — unsupported by Hare 2007; verify against Hare 2009 or narrow
+### ✓ 2026-09-28: egocentric-presentism L79 says Hare "pairs egocentric presentism with a lean, broadly physicalist ontology" — unsupported by Hare 2007; verify against Hare 2009 or narrow
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: completed (deep-review 2026-09-28 of concepts/egocentric-presentism found the Hare 2009 'lean physicalist ontology' description supported by secondary summaries; kept)
 - **File**: concepts/egocentric-presentism.md
 - **Source**: deep-review 2026-09-28 of topics/time-bias-and-thank-goodness-thats-over (same claim removed there after checking Hare's 2007 PDF)
 - **Generated**: 2026-09-28
