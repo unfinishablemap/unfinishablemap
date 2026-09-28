@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Stop presenting Buddhist no-self as a denial of only a *permanent* self in `concepts/witness-consciousness` and `concepts/self-and-self-consciousness` (SN 22.59 control/ownership argument)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/witness-consciousness.md
-- **Review file**: `reviews/outer-review-2026-09-28-claude-opus-5-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-09-28
-- **Notes**: From outer review 2026-09-28 (Claude Opus 5.5). This is the same narrowing the ChatGPT leg flagged (its P1 item 3) on `buddhist-perspectives-on-meaning`, now on its neighbours. Verified on disk: witness-consciousness L58 says Buddhism "claims 'the permanent self *owning* consciousness is an illusion'", and L56 reads meditative witnessing as "property dualism operating within Buddhist flux" without noting that the witness (*sākṣin*) is an Advaita category with no Abhidhamma counterpart (sati is a cetasika, not an observer). self-and-self-consciousness L162 says anattā "denies a permanent, unchanging self", and L174 states the Map's position, "the non-physical subject persists through qualitative change". SN 22.59's control/ownership argument targets exactly such a subject. Add it as a live objection at L174 (one sentence plus a link), and scope L162 and L58 as clause-level edits. Second file: obsidian/concepts/self-and-self-consciousness.md. Handle it in this same task, and if it is dropped, mint a follow-up. LENGTH: ~3473 and ~3540 words including references; length-neutral.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1581,6 +1572,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: Stop presenting Buddhist no-self as a denial of only a *permanent* self in `concepts/witness-consciousness` and `concepts/self-and-self-consciousness` (SN 22.59 control/ownership argument)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/witness-consciousness.md
+- **Notes**: From outer review 2026-09-28 (Claude Opus 5.5). This is the same narrowing the ChatGPT leg flagged (its P1 item 3) on `buddhist-perspectives-on-meaning`, now on its neighbours. Verified on disk: witness-consciousness L58 says Buddhism "claims 'the permanent self *owning* consciousness is an illusion'", and L56 reads meditative witnessing as "property dualism operating within Buddhist flux" without noting that the witness (*sākṣin*) is an Advaita category with no Abhidhamma counterpart (sati is a cetasika, not an observer). self-and-self-consciousness L162 says anattā "denies a permanent, unchanging self", and L174 states the Map's position, "the non-physical subject persists through qualitative change". SN 22.59's control/ownership argument targets exactly such a subject. Add it as a live objection at L174 (one sentence plus a link), and scope L162 and L58 as clause-level edits. Second file: obsidian/concepts/self-and-self-consciousness.md. Handle it in this same task, and if it is dropped, mint a follow-up. LENGTH: ~3473 and ~3540 words including references; length-neutral.
 
 ### ✓ 2026-09-28: Research Pudgalavada and the persisting subject: the Buddhist personalist precedent for the Map's non-physical self
 - **Type**: research-topic
