@@ -1,1 +1,29 @@
-[]
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ab9cbbf-4348-83eb-853a-126b584a66e6
+  commissioned_at: '2026-09-28T02:07:08.517422+00:00'
+  prompt_summary: Audit buddhist-perspectives-on-meaning (recent-aged fallback)
+  target_filename: outer-review-2026-09-28-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a rigorous external referee for The Unfinishable Map (https://unfinishablemap.org),
+    a site that openly argues for interactionist dualism under five stated tenets.
+    Please audit one article: https://unfinishablemap.org/topics/buddhist-perspectives-on-meaning/
+    - last substantively modified 2026-09-21. Because search indexes lag, check the
+    site changelog at https://unfinishablemap.org/workflow/changelog/ for recent edits.
+    Assess: (1) whether its readings of the Four Noble Truths, anatta, impermanence
+    and the three kinds of dukkha are accurate to the primary sources and to the major
+    schools it names; (2) whether each citation in its References section exists and
+    supports the claim attached to it; (3) whether it misses strong counterarguments,
+    including Buddhist objections to the site''s own dualist framing of a persisting
+    conscious subject; (4) whether its "Relation to Site Perspective" section brackets
+    difficulties to protect the tenets; and (5) how well it integrates with neighbouring
+    articles on meaning, the self and contemplative practice. End your report with
+    a list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit buddhist-perspectives-on-meaning
+  subject_articles:
+  - topics/buddhist-perspectives-on-meaning.md
+  subject_source: fallback:recent-aged
