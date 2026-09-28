@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: '2026-09-24T03:49:12+00:00'
+ai_modified: '2026-09-28T14:22:00+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: Andy Southgate
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-05-21
 draft: false
 human_modified: 2026-01-23 15:29:26+00:00
 last_curated: null
-lastmod: 2026-09-24 03:49:12+00:00
+lastmod: 2026-09-28 14:22:00+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address pessimistic-review gaps in `concepts/swampman` — narrow-content perimeter, zombie fallback, Dretske 1996 omission
+
+- **Type**: refine-draft
+- **File**: obsidian/concepts/swampman.md
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-09-28 (quotes and all nine DOIs verified clean; issues are structural). See obsidian/reviews/pessimistic-2026-09-28-swampman.md. Fix in this order: (1) L26/L56/table — "determinate narrow content" contradicts `concepts/content-externalism` L46, which says the Map's internalist half "rests on phenomenal character, not on a constructed narrow-content notion" (Yli-Vakkuri & Hawthorne sidestep); re-express in the hybrid's licensed vocabulary or supply the bridge. (2) L68/L86 — the zombie cannot discriminate the Map from Papineau 2001: `philosophical-zombies` L163-167 holds zombies nomologically impossible under interactionism, and L86 already grants Papineau that merely possible cases do not touch an actual-world reduction; replace with the two-normativities argument (`teleosemantics` L86) and Kim 2020's explanation-modality argument. (3) "The Cost the Map Pays" — add Dretske 1996 "Absent Qualia" (Mind & Language 11(1):78-85, DOI 10.1111/j.1468-0017.1996.tb00032.x) as the published argument that Swampman is NOT conscious; apply the introspective-authority reply from content-externalism L42; also Ludwig 1996 "Duplicating Thoughts" (92-102, .tb00034.x) and Levine 1996 "SwampJoe" (86-91, .tb00033.x); credit Antony 1996 "Equal Rights for Swamp-persons" (70-75, .tb00030.x) for the ethical objection in print. Verify page ranges at Wiley before installing. (4) L76 — replace "something the lightning does not copy" with the register: [P-AC2](/positions/ai-consciousness-scope/#p-ac2) weakened reading (live brain supplies the indeterminacy), [P-SC1](/positions/subject-census/#p-sc1) pairing-law debt, [P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-AC3](/positions/ai-consciousness-scope/#p-ac3) distinct subject. (5) L54 — moderate-PIT qualification (`intentionality` L99-107): at t=0 only occurrent phenomenal content; standing/linguistic content accrues. (6) L84 — link `[[tenets#^tenet-3-standing]]` and `[[philosophical-zombies#The Interactionist Escape]]`; align claim strength. (7) L92 "three strengths" → "three versions"; L68 "contentless trackers" is this page's gloss, not the sibling's term. Length-neutral where possible: concepts hard 3500 by analyze_length; page is ~2660 total, so ~600 words of headroom for the Dretske paragraph and register sentences; trim the Papineau 2001 exposition if needed. Update `ai_modified`; sync to hugo.
 
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
@@ -1423,14 +1430,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
   **CLOSED BY THE DRIVER 2026-09-19 09:0x UTC.** The over-concession task on `topics/metaproblem-of-consciousness-under-dualism` discharged this in the same paragraph, as designed — all three findings shared one section and were written once. **Measured after the edit: `Saad` 0 → 4 occurrences in that article** (word-boundary), against 16 deployments of `realizationism`, with the full metadata landed from Chalmers 2020's own reference list (*JCS* 26(9–10):205–216) and a piped `[[delegatory-dualism|delegatory dualism]]` reciprocal into the existing Saad cluster. Verified 4:4 in **both** obsidian and hugo. ⚠️ **The attribution guard held**: Chalmers keeps the coinage ("whose term it is"); Saad supplies the interactionist version only. **THE SECOND HALF IS DELIBERATELY NOT DONE, and should not be re-minted.** This task said "both meta-problem articles", but `concepts/meta-problem-of-consciousness` deploys `realizationism` exactly **once** (offset 8974), where it defines the term inline and immediately hands off via `[[metaproblem-of-consciousness-under-dualism|interactionist development]]` to the article that now carries the provenance. A single defining mention behind an explicit hand-off does not need its own attribution, and that file is at **3481/3499 words — 18 words of headroom — with an open `condense` task against it**. Adding a citation there would trip the hard gate.
 
-### P3: content-externalism: cite "Kim's reply to Dretske" (L36, no reference entry); add phantom limbs as the empirical anchor for the internalist half of the hybrid; content-vocabulary-as-derived-feature: cite the orphaned Clark-Friston-Wilkinson 2019 at L55, soften L71's peripheral-resistance clause
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/content-externalism.md
-- **Source**: optimistic-review 2026-09-27 (reviews/optimistic-2026-09-27-content-and-meaning-wing.md, Calibration concerns 7 and 9; Medium Priority 1; cross-links)
-- **Generated**: 2026-09-27
-- **Notes**: **Two files: content-externalism (headroom 1773, analyze_length 1726) and concepts/content-vocabulary-as-derived-feature.md (headroom 1659, analyze_length 1840).** File lines from 2026-09-27; re-grep. (a) content-externalism L36: add the reference for Kim's reply. **LEAD, verify at the publisher:** probably Kim, J. (1996), "Dretske's Qualia Externalism", *Philosophical Issues* 7, same issue as Dretske 1996. (b) content-externalism L42-46: one to two sentences plus a link to `[[phantom-limb-phenomena]]` or `[[content-vocabulary-as-derived-feature]]`: felt, located aboutness with no worldly relatum is an empirical case for the phenomenal-internalist half (inbound count is only 5; this adds a reciprocal link). (c) content-vocabulary L103 Clark, Friston & Wilkinson 2019 "Bayesing Qualia" is never cited in the body; it is the "aboutness all the way up" reply named at L55, so cite it there. (d) content-vocabulary L71 "the resistance of the phantom to mere peripheral intervention": **LEAD, verify:** peripheral-origin evidence exists (e.g., Vaso et al. 2014, *Pain*, DRG block). If confirmed, soften the clause; L73's point (no *limb* is available as the relatum) survives either way. (e) Optional: rephrase the "is **not**... a sharpening, not a refutation" construction at L37 (style guide).
-
 ### ✓ 2026-09-27: motor-selection L104: "patients perform rapid movements when externally triggered—the motor system works; something upstream in selection is compromised" is undercut by the controlled paradoxical-kinesia data
 - **Type**: refine-draft
 - **Status**: completed (discharged by deep-review of topics/paradoxical-kinesia, 2026-09-27)
@@ -1513,6 +1512,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-28: content-externalism: cite "Kim's reply to Dretske" (L36, no reference entry); add phantom limbs as the empirical anchor for the internalist half of the hybrid; content-vocabulary-as-derived-feature: cite the orphaned Clark-Friston-Wilkinson 2019 at L55, soften L71's peripheral-resistance clause
+- **Type**: refine-draft
+- **File**: obsidian/concepts/content-externalism.md
+- **Notes**: **Two files: content-externalism (headroom 1773, analyze_length 1726) and concepts/content-vocabulary-as-derived-feature.md (headroom 1659, analyze_length 1840).** File lines from 2026-09-27; re-grep. (a) content-externalism L36: add the reference for Kim's reply. **LEAD, verify at the publisher:** probably Kim, J. (1996), "Dretske's Qualia Externalism", *Philosophical Issues* 7, same issue as Dretske 1996. (b) content-externalism L42-46: one to two sentences plus a link to `[[phantom-limb-phenomena]]` or `[[content-vocabulary-as-derived-feature]]`: felt, located aboutness with no worldly relatum is an empirical case for the phenomenal-internalist half (inbound count is only 5; this adds a reciprocal link). (c) content-vocabulary L103 Clark, Friston & Wilkinson 2019 "Bayesing Qualia" is never cited in the body; it is the "aboutness all the way up" reply named at L55, so cite it there. (d) content-vocabulary L71 "the resistance of the phantom to mere peripheral intervention": **LEAD, verify:** peripheral-origin evidence exists (e.g., Vaso et al. 2014, *Pain*, DRG block). If confirmed, soften the clause; L73's point (no *limb* is available as the relatum) survives either way. (e) Optional: rephrase the "is **not**... a sharpening, not a refutation" construction at L37 (style guide).
 
 ### ✓ 2026-09-28: Write concept page on Swampman under phenomenal intentionality
 - **Type**: expand-topic

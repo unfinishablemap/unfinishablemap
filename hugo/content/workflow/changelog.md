@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 13:38:28+00:00
+ai_modified: 2026-09-28 14:48:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-28'
-lastmod: 2026-09-28 13:30:00+00:00
+lastmod: 2026-09-28 14:22:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T14:55:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [swampman](/concepts/swampman/)
+- **Original score**: n/a (`scripts/curate.py` absent; used pessimistic-2026-09-28-swampman.md as the review input)
+- **Changes**: (1) Narrow-content perimeter aligned with `content-externalism` L46: lead, hybrid paragraph and table column now say "internally constituted phenomenal character and whatever aboutness that character carries" rather than "determinate narrow content"; Yli-Vakkuri & Hawthorne 2018 named and referenced (Crossref-verified). (2) Zombie dropped as the discriminator against Papineau 2001 — the page now says no duplicate case discriminates, links `philosophical-zombies#The Interactionist Escape`, and hands the work to the two-normativities argument (`teleosemantics`) and Kim 2020's explanation-and-modality argument (abstract verified via Springer listing); second limitation rewritten to match. (3) New fourth paragraph in "The Cost the Map Pays": Dretske 1996 "Absent Qualia" as the published argument that Swampman is not conscious (paraphrased from the paper's Tercel/misrepresentation passage; no verbatim quotes installed), tied to Papineau 2001 n. 3 ("strongly representational theories of consciousness" set aside — verified in the uh.edu PDF), Map reply = introspective-authority argument with its reduced foothold noted honestly; Levine 1996 and Ludwig 1996 added; Antony 1996 credited for the ethical objection in print. All four Mind & Language 11(1) entries verified at Crossref (Antony 70–75, Dretske 78–85, Levine 86–91, Ludwig 92–102). (4) "Something the lightning does not copy" replaced with the register: [P-AC2](/positions/ai-consciousness-scope/#p-ac2) weakened reading leans conscious, [P-SC1](/positions/subject-census/#p-sc1)/[P-SC2](/positions/subject-census/#p-sc2) pairing-law debt is the real gap, [P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-AC3](/positions/ai-consciousness-scope/#p-ac3) distinct subject; substance-leaning sub-reading flagged. (5) Moderate-PIT qualification added after the PIT verdict: occurrent content only at t=0, standing/linguistic content accrues. (6) Tenet-3 paragraph links `tenets#^tenet-3-standing` and the zombie page's interactionist escape; claim strength aligned ("cannot produce identical reports"). (7) "three strengths" → "three versions"; "contentless trackers" gloss removed; language fixes from the review's table ("Three limitations", "fullest concession-and-reframe", "the answer the hybrid gives", "the standard thought experiment on which", other-minds half-sentence, rare-not-impossible clause). Papineau 2001 exposition and Further Reading trimmed to stay under the concepts hard limit: analyze_length 2583 → 3860 after additions → trimmed to under 3500.
+- **Engagement classifications** (editor-internal): Millikan/Neander — Mode Three, boundary-marking retained ("a commitment PIT carries rather than a result it can offer opponents"); Issue 6's unsupported-move paragraph NOT added for length. Papineau 2001 — Mode Two via two-normativities (the role his reduction fills is not the role content occupies) plus Kim 2020 as in-framework; the page now says plainly that no duplicate case discriminates. Dretske 1996 — Mixed: introspective-authority objection is Mode Two (a standard his representationalism must answer), with the reduced foothold and the framework-boundary residue declared.
+- **Not done**: Millikan 1984 page reference (review's unsupported-claims table) — not verified, not added. Neander direct-page cite — not added. Issue 6 (Millikan kind-inference unsupported move) — skipped for length; could be a follow-up.
+- **Published**: yes
+
+## 2026-09-28 14:20 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [swampman](/concepts/swampman/) (fresh create 2026-09-28, no prior review). All verbatim quotes grepped clean against Papineau 2001 (uh.edu PDF), Millikan 1996 (uconn PDF), OpenAlex abstracts; all nine DOIs verified at Crossref. Three High issues: "narrow content" verdict contradicts the perimeter `content-externalism` L46 draws; zombie fallback is nomologically impossible on the Map and irrelevant on Papineau's actual-world reading; Dretske 1996 "Absent Qualia" (the published argument that Swampman is NOT conscious) omitted along with six of eight pieces in the 1996 Mind & Language forum. Four Medium issues (positions-register placeholder, moderate-PIT qualification, Millikan unsupported-move, Tenet 3 standing link). One P2 refine-draft task queued.
+- **Output**: [pessimistic-2026-09-28-swampman](/reviews/pessimistic-2026-09-28-swampman/)
+
+## 2026-09-28 13:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [content-externalism](/concepts/content-externalism/) and [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/) (both files handled; neither dropped)
+- **Original score**: n/a (`scripts/curate.py review` absent; task-note items used as the review)
+- **Word count**: content-externalism 1748 → 1836; content-vocabulary 1840 → 2053 (analyze_length totals incl. reference apparatus; concepts hard 3500, both `ok`)
+- **Changes (content-externalism)**: (a) L36 Kim's reply now cited (Kim 1996) with a new reference entry — **verified at Crossref**: Kim, J. (1996) "Dretske's Qualia Externalism", *Philosophical Issues* 7:159–170, DOI 10.2307/1522900 (start page 159 from the DOI record; end page inferred from Biro's reply starting at 171; OpenAlex first-page text confirms the paper targets Dretske's phenomenal externalism). Existing gloss of Kim's worry left as is (phrase-level paraphrase, not a verbatim quote). (b) Relation section: two sentences installing phantom limb as the empirical exhibit for the phenomenal-internalist half (located felt aboutness with no worldly relatum, sharpest in congenital aplasia), linking `[[phantom-limb-phenomena]]` and `[[content-vocabulary-as-derived-feature]]`.
+- **Changes (content-vocabulary)**: (c) L55 the "aboutness all the way up" reply now cites Clark, Friston & Wilkinson (2019), previously in References only. (d) L71 "resistance of the phantom to mere peripheral intervention" softened — **verified at Crossref + OpenAlex abstract**: Vaso et al. (2014) *Pain* 155(7):1384–1391, DOI 10.1016/j.pain.2014.04.018, DRG lidocaine block "rapidly and reversibly extinguished PLP and also nonpainful phantom limb sensation" in 31 amputees; Flor group's contesting letter Foell et al. (2014) *Pain* 155(10):2205–2206, DOI 10.1016/j.pain.2014.08.028 also cited; both added to References. L73 "no peripheral cause to anchor the aboutness in" rewritten to "no limb is available as the relatum" (a DRG or neuroma can drive the sensation but is not what it is about) and given a reciprocal piped link to `[[content-externalism]]` (inbound count 5 → 6). (e) L37 "It is **not** the claim... This is a sharpening, not a refutation" rephrased per style guide; L51 "load-bearing calibration" → "calibration that matters most". L79 "a sharpening, not a proof of dualism" left (not the flagged construction).
+- **Engagement classification**: predictive-processing reply — Mode Two with declared Mode Three residue (unchanged; the Clark/Friston/Wilkinson cite strengthens the opponent's side, not the Map's).
+- **Published**: yes (sync run; both Hugo copies verified to carry the edits)
 
 ## 2026-09-28 13:30 UTC - expand-topic
 - **Status**: Success
