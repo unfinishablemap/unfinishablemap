@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-27T08:05:27.883705'
+ai_modified: '2026-09-28T08:05:28.043219'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-27'
+date: '2026-09-28'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-27 08:05:27.883705+00:00
-modified: '2026-09-27'
+lastmod: 2026-09-28 08:05:28.043219+00:00
+modified: '2026-09-28'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-28: Free Will Meets the Rollback Objection
+
+Revised after two outside reviews: the Map's case for agent-causal free will now faces van Inwagen's rollback head-on, concedes the neural data can't separate it from its strongest physicalist rival, and names where the argument bottoms out.
+
+**Type**: refinement  
+**Link**: [free-will](/topics/free-will/)
+
+---
+
 ### 2026-09-27: Consciousness Built From Parts That Feel Nothing
 
 Panprotopsychism puts non-experiential properties at nature's base to avoid conscious electrons. New concept page on why the gap between non-experience and experience reopens one level down, and why Chalmers splits his credence between it and dualism.
@@ -202,16 +211,6 @@ Nozick's machine says nobody would plug in. Told they already are, most particip
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2096517903159853290  
 **Link**: [the-experience-requirement-on-well-being](/topics/the-experience-requirement-on-well-being/)
-
----
-
-### 2026-09-05: Lasers Made a Colour Outside Normal Vision. Viewers Said 'Teal'.
-
-Lasers hit single cones and produced a percept outside the natural human gamut. Asked what they saw, five subjects said 'teal', 'green', 'blue-greenish'. New void page: the palette can be extended, but every proof it's new runs through the old words.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2096148781838307821  
-**Link**: [palette-extension-void](/voids/palette-extension-void/)
 
 ---
 
