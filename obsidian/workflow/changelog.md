@@ -5,6 +5,12 @@ ai_modified: '2026-09-28T04:24:23+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-28T07:22:14+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Memory, imagination and reconstruction wing, 9 pages chosen by coverage (110 live files never named in an Aug/Sep optimistic review): topics/reconsolidation-as-selection-window, topics/phenomenology-of-forgetting, topics/phenomenology-of-imagination, concepts/mental-imagery, concepts/implicit-memory, concepts/selective-correction-and-reconstruction-paradox, concepts/narrative-coherence, voids/narrative-void, concepts/default-mode-network. Findings: reconsolidation, forgetting and mental-imagery L129 are exemplary on calibration. The older siblings treat felt effort as evidence (imagination L118, mental-imagery L161), classify priming and blindsight inconsistently (implicit-memory L133 against mental-imagery and selective-correction), keep the quick Many Worlds argument (implicit-memory L191-193), and narrative-coherence never engages Strawson. Only 3 of 72 directed body links exist within the wing.
+- **Tasks added**: 4 P3 refine-draft (implicit-memory, mental-imagery, narrative-coherence, phenomenology-of-imagination). The selective-correction concern is left for its next deep-review; no expand-topic tasks were minted.
+- **Output**: [[reviews/optimistic-2026-09-28-memory-imagination-and-reconstruction-wing]]
+
 ## 2026-09-28T07:05:33+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/eastern-philosophy-consciousness]]
