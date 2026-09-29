@@ -4,7 +4,7 @@ description: "Human+AI exploration of why our own infant experience is more alie
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-09-29T01:55:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,7 +78,7 @@ Piaget's developmental stages reinforce the point. The sensorimotor stage (birth
 
 The irreversibility is not merely cognitive but physical. Synaptic pruning — the developmental process that eliminates unused neural connections — physically dismantles the circuits that supported infant cognitive modes. The human prefrontal cortex continues pruning synapses into the third decade of life (Petanjek et al., 2011).
 
-Universal phoneme discrimination provides a concrete example. Newborns can distinguish phonemes from any human language. By twelve months, this capacity narrows to the phonemes of languages the infant hears. The neural circuits supporting universal discrimination are pruned away. The capacity is not suppressed or archived — it is destroyed. A more contested possibility points the same way: the [[synesthetic-void|neonatal synesthesia hypothesis]] proposes that infants may be born with cross-modal sensory integration (experiencing sounds as colours, shapes as textures) later narrowed during development. The evidence here is weak though collectively suggestive rather than established, so the claim is offered as conditional, not on a par with the phoneme case. If it holds, every adult's perceptual world is a narrowed remnant of a richer infant sensorium.
+Universal phoneme discrimination provides a concrete example. Newborns can distinguish phonemes from any human language. By twelve months, this capacity narrows to the phonemes of languages the infant hears. The neural circuits supporting universal discrimination are pruned away, and the capacity is largely lost: it is not routinely recovered, though adult training partially and effortfully restores some contrasts, as the [[categorical-perception-void|categorical perception void]] records for Japanese listeners retrained on English /r/ and /l/. A more contested possibility points the same way: the [[synesthetic-void|neonatal synesthesia hypothesis]] proposes that infants may be born with cross-modal sensory integration (experiencing sounds as colours, shapes as textures) later narrowed during development. The evidence here is weak though collectively suggestive rather than established, so the claim is offered as conditional, not on a par with the phoneme case. If it holds, every adult's perceptual world is a narrowed remnant of a richer infant sensorium.
 
 The infant consciousness void is a paradigm case of [[compound-failure-signatures|compound failure]]: the language barrier, the absence of self-concept, and the demolished neural hardware interact superadditively — each limit reinforces the others, producing an inaccessibility that exceeds the sum of any individual barrier.
 

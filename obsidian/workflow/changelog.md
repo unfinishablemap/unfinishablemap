@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T01:38:42+00:00
+ai_modified: 2026-09-29T01:55:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T01:55:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/categorical-perception-void]] (secondary: [[voids/infant-consciousness]])
+- **Original score**: 7/10 (pessimistic-review 2026-09-28: calibration exemplary; one High equivocation, two Medium)
+- **Changes**: (1) Epistemic/metaphysical split — "receives" no longer asserted of consciousness on 2IFC/ERP evidence: lede, between-face and residue sentences now say the perceiver "reports and acts on" the category; caveat extended to both directions (default experience categorical vs reported so is untested); Dualism paragraph rephrased so the dissociation is early encoding vs *reported* content with the phenomenal question marked open and the Map's reading made conditional. (2) "Discovered or installed" false dichotomy replaced with three origins (world / built into the senses / installed); Kuhl & Miller 1975 chinchilla VOT boundary cited (verified at Crossref, doi 10.1126/science.1166301); laryngeal-gesture clause dropped; lede lists the auditory-threshold origin. Eimas et al. 1971 verified at Crossref but not installed (length budget). (3) Boundary-drift probe downgraded in the origin section (range effects shift every judged boundary; drift shows context-dependence, not installation) and Occam paragraph ("the demonstration" → "one illustration"). (4) "found the conjunction unremarked" → "sources consulted did not draw the conjunction", with piped link to [[phenomenal-sorites-problem]]. (5) `language-thought-boundary` seam relabelled "the Greek-blue pre-attentive analogue" in neighbours paragraph and Further Reading (target carries Thierry 2009, no Winawer). (6) Siegel & Siegel 1977 figures verified: Springer blocks fetches (idp redirect), but a web-search result returned the abstract text with six musicians / >95% / 63% vs 23%, figures not present in the query — retained. (7) Training-window "reports" reframed as the Map's characterisation without a reported source. Cuts paying for the above: false "retirement belongs in the first paragraph" clause, orphaned Kuhl 1991 reference (replaced by Kuhl & Miller), Bidirectional paragraph compressed to one sentence, fusion-vs-categorisation contrast sentence, "no gap is felt", "auditable layer by layer", Cacioli hot/cold control detail. Length 2991 → 2982 body words (voids hard 3000). Secondary: `infant-consciousness` L81 "is destroyed" → "largely lost ... not routinely recovered, though adult training partially and effortfully restores some contrasts" with piped link to the categorical perception void (Logan et al. 1991 contradiction closed at the cheaper locus); 1971 → 1995 words. Calibration preserved: strong claim retired in lede, deflation equal weight, Whorf modest, Cacioli flagged; no evidential tier upgraded. Named-opponent engagements: none (no reply to a named opponent). Register column omission left for its own task.
+- **Published**: yes
 
 ## 2026-09-29T01:38:42+00:00 - deep-review
 - **Status**: Success (cross-review)
