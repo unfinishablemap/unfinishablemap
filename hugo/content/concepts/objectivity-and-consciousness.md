@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-29 13:08:06+00:00
+ai_modified: 2026-09-29 13:21:26+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-fable-5-1
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 22:12:06+00:00
-lastmod: 2026-09-29 13:08:06+00:00
+lastmod: 2026-09-29 13:21:26+00:00
 modified: *id001
 related_articles:
 - '[[dualism]]'
@@ -84,7 +84,7 @@ Consciousness uniquely resists the objective methods that work elsewhere:
 
 3. **The paradox**: Objective methods succeed by eliminating subjective viewpoint. Consciousness *is* subjective viewpoint. Applying objective methods to consciousness eliminates the subject matter.
 
-The failure is conceptual; no instrument repairs it: phenomenal properties are *defined* by how they appear from the first-person perspective. "What red looks like" has no third-person translation. You can describe wavelengths (620-750nm), V4 activation patterns, color discrimination abilities—but never the quale itself. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) traces this failure through the entire apparatus of physical measurement: units require decomposable, additive quantities; instruments require publicly accessible causal effects; calibration requires observer-independent reference points. Consciousness provides none of these.
+The failure is conceptual; no instrument repairs it: phenomenal properties are *defined* by how they appear from the first-person perspective. "What red looks like" has no third-person translation. You can describe wavelengths (620-750nm), V4 activation patterns, color discrimination abilities—but never the quale itself. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) traces this failure through the entire apparatus of physical measurement: units require decomposable, additive quantities; instruments require publicly accessible causal effects; calibration requires observer-independent reference points. Consciousness provides none of these *of the right kind*: its effects—reports, neural activity—are publicly measurable, but measuring consciousness itself requires access to the side of the interaction that stays private. Bidirectional causation without bidirectional measurability is what a dualist framework predicts.
 
 This is the [explanatory-gap](/concepts/explanatory-gap/) in its sharpest form. Joseph Levine (1983) noted that even if "pain is the firing of C-fibers" is true, the identity remains explanatorily unsatisfying in a way that his contrast case—"heat is the motion of molecules"—is not. Chemistry and physics make intelligible how molecular motion could play the causal role we associate with heat; nothing comparable makes intelligible *why* C-fiber firing hurts. The [knowledge-argument](/concepts/knowledge-argument/) sharpens this further: even complete physical knowledge of colour vision wouldn't convey what red looks like. Levine presented this as an *epistemic* gap—a limitation in our explanatory capacities. The Map takes the stronger position that the gap reflects something ontological: the connection between physical description and phenomenal character lies outside what objective methods can capture, because phenomenal properties are not the kind of thing objective description addresses.
 
@@ -136,7 +136,7 @@ The Map rejects this path while accepting that consciousness resists objective r
 
 **Evolutionary**: If reality were purely mental, the evolutionary story makes no sense. Consciousness evolved in organisms because those organisms needed to navigate a physical world. Biological evolution presupposes physical processes operating before consciousness emerged.
 
-**Modest realism**: Accept mind-independent physical reality while denying that consciousness is reducible to physical facts. This is dualism, not idealism. The physical world exists objectively; phenomenal properties do not. Objectivity works for matter, fails for mind.
+**Modest realism**: Accept mind-independent physical reality while denying that consciousness is reducible to physical facts. This is dualism, not idealism. The physical world exists objectively; phenomenal properties exist, but not objectively. Objectivity works for matter, fails for mind.
 
 ## Relation to Site Perspective
 

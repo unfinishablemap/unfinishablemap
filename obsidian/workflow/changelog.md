@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T13:08:06+00:00
+ai_modified: 2026-09-29T13:21:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T13:21:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/objectivity-and-consciousness]]
+- **Original score**: n/a (scripts/curate.py review is absent; brief was reviews/pessimistic-2026-09-29-objectivity-and-consciousness Issue 2)
+- **Changes**: L84 "Consciousness provides none of these." → "Consciousness provides none of these *of the right kind*: its effects—reports, neural activity—are publicly measurable, but measuring consciousness itself requires access to the side of the interaction that stays private. Bidirectional causation without bidirectional measurability is what a dualist framework predicts." — restores the sibling's (`consciousness-and-the-problem-of-measurement-standards` L70) qualifier and carries its L114 asymmetry, removing the contradiction with L122/L150 and Tenet 3. L136 "The physical world exists objectively; phenomenal properties do not." → "…phenomenal properties exist, but not objectively." (fast-pass misread as non-existence). Zero new references. L50 (fixed 13:08, commit 3ff09e0e) and L86 epistemic-vs-ontological marking untouched. Issues 3–4 not addressed (separate queued tasks). Body words 2634 → 2672 (concepts hard 3500). Synced to Hugo; grep-verified both trees. Model: claude-fable-5-1.
+- **Published**: yes
 
 ## 2026-09-29T13:08:06+00:00 - refine-draft
 - **Status**: Success
