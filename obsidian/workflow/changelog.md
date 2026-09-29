@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T23:25:00+00:00
+ai_modified: 2026-09-28T23:55:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-28T23:55:12+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Cross-State Void (content crosses between visceral states, felt weight does not)
+- **Output**: [[voids/cross-state-void]]
+- **Word count**: 2985 total via analyze_length - soft_warning (voids soft 2000 / hard 3000); 2618 before References. First draft measured 3151; four trim passes.
+- **Based on research**: yes — [[research/voids-cross-state-void-2026-09-24]] (angle 1: organised around the Read & Loewenstein dissociation; pain-only angle 2 declined as overlapping [[pain-consciousness-and-causal-power]], linked as a seam)
+- **Caveats honoured**: Read & Loewenstein 1999 stated at abstract level only (OpenAlex abstract re-verified; the fine three-condition WTAP ordering is explicitly not asserted). Steinmetz, Tausen & Risen 2018 (PSPB 44(3), Crossref-verified) engaged as the cold-side counter-example: kept as consistent with the void because simulation substitutes "albeit to a weaker extent", affects current not general preferences, and installs a partial state. Helton & Register 2023 paraphrased with an in-text "abstract-level summaries" flag (Springer/PhilPapers/PhilArchive 403; Crossref and S2 abstracts elided). Scarry 1985 carried as a lead, not quoted (Google Books quota zero, no control possible). All six Hume passages re-verified verbatim against Gutenberg #9662. Loewenstein 2005, Nordgren 2006/2011a/2011b, Morley 1993, Sayette 2008, Noordhof 2021 quotes taken from OpenAlex abstracts. The note's untraceable "2025 ALE meta-analysis" not cited.
+- **Seams**: [[inaccessible-past]], [[sleep-consciousness-void]], [[transformative-experience-void]], [[affective-forecasting-gap]], [[mood-void]], [[voids-between-minds]], [[pain-consciousness-and-causal-power]].
+- **Tenet**: Bidirectional Interaction as negative image (what fails to cross is the component that moves behaviour), with the tenet-3 standing debt cited; Dualism gain stated as modest; Occam's Razor Has Limits (cold dispositional explanation is simpler and wrong); No Many Worlds lightly (indexical).
+- **Register**: [[voids/voids]] entry moved from *Surveyed* to *Published*; voids measured 106/115 before creation (now 107).
 
 ## 2026-09-28T23:25:00+00:00 - pessimistic-review
 - **Status**: Success

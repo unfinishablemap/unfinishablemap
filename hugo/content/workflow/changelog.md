@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28 22:53:40+00:00
+ai_modified: 2026-09-28 23:55:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-09-28'
-lastmod: 2026-09-28 22:42:40+00:00
+date: '2026-09-29'
+lastmod: 2026-09-29 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-28T23:55:12+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Cross-State Void (content crosses between visceral states, felt weight does not)
+- **Output**: [cross-state-void](/voids/cross-state-void/)
+- **Word count**: 2985 total via analyze_length - soft_warning (voids soft 2000 / hard 3000); 2618 before References. First draft measured 3151; four trim passes.
+- **Based on research**: yes — [voids-cross-state-void-2026-09-24](/research/voids-cross-state-void-2026-09-24/) (angle 1: organised around the Read & Loewenstein dissociation; pain-only angle 2 declined as overlapping [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/), linked as a seam)
+- **Caveats honoured**: Read & Loewenstein 1999 stated at abstract level only (OpenAlex abstract re-verified; the fine three-condition WTAP ordering is explicitly not asserted). Steinmetz, Tausen & Risen 2018 (PSPB 44(3), Crossref-verified) engaged as the cold-side counter-example: kept as consistent with the void because simulation substitutes "albeit to a weaker extent", affects current not general preferences, and installs a partial state. Helton & Register 2023 paraphrased with an in-text "abstract-level summaries" flag (Springer/PhilPapers/PhilArchive 403; Crossref and S2 abstracts elided). Scarry 1985 carried as a lead, not quoted (Google Books quota zero, no control possible). All six Hume passages re-verified verbatim against Gutenberg #9662. Loewenstein 2005, Nordgren 2006/2011a/2011b, Morley 1993, Sayette 2008, Noordhof 2021 quotes taken from OpenAlex abstracts. The note's untraceable "2025 ALE meta-analysis" not cited.
+- **Seams**: [inaccessible-past](/voids/inaccessible-past/), [sleep-consciousness-void](/voids/sleep-consciousness-void/), [transformative-experience-void](/voids/transformative-experience-void/), [affective-forecasting-gap](/concepts/affective-forecasting-gap/), [mood-void](/voids/mood-void/), [voids-between-minds](/voids/voids-between-minds/), [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/).
+- **Tenet**: Bidirectional Interaction as negative image (what fails to cross is the component that moves behaviour), with the tenet-3 standing debt cited; Dualism gain stated as modest; Occam's Razor Has Limits (cold dispositional explanation is simpler and wrong); No Many Worlds lightly (indexical).
+- **Register**: [voids](/voids/) entry moved from *Surveyed* to *Published*; voids measured 106/115 before creation (now 107).
+
+## 2026-09-28T23:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [categorical-perception-void](/voids/categorical-perception-void/) (created today; never previously mentioned in any review). Six critic personas + standard analysis. Publisher/aggregator checks PASSED for Burns & Ward 1978, McMurray 2022, Witzel & Gegenfurtner 2011, Martinovic 2020, Toscano 2010, Cacioli 2026. Findings: HIGH epistemic/metaphysical equivocation (categorical default asserted of consciousness on report/decision evidence); false dichotomy in "discovered or installed" (omits general-auditory boundaries, chinchilla/infant VOT); unsound boundary-drift provenance probe; cross-article contradiction with [infant-consciousness](/voids/infant-consciousness/) ("destroyed" vs adult retraining); novelty overclaim vs Raffman's phenomenal-continua work; seam mislabel (language-thought-boundary has no Whorf-colour content); orphan Kuhl 1991 reference; Siegel & Siegel 1977 figures unverifiable. Article at 2991/3000 body words — refine must be net-negative.
+- **Output**: [pessimistic-2026-09-28-categorical-perception-void](/reviews/pessimistic-2026-09-28-categorical-perception-void/)
+- **Tasks**: 1 P2 refine-draft added to todo.md (secondary file infant-consciousness.md)
 
 ## 2026-09-28 22:58 UTC - expand-topic
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-09-25
 human_modified: 2026-01-08
-ai_modified: 2026-09-28T22:57:54+00:00
+ai_modified: 2026-09-28T23:55:12+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -47,6 +47,7 @@ related_articles:
   - "[[modality-void]]"
   - "[[research/voids-modality-void-2026-09-05]]"
   - "[[perceptual-reality-monitoring-void]]"
+  - "[[cross-state-void]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
@@ -284,7 +285,7 @@ Twenty-nine voids surveyed since 2026-02 have research notes; all but the four m
 - **[[research/voids-serial-order-void-2026-09-17|The Serial-Order Void]]** — *Surveyed.* A mind has the intent and the produced sequence but never the ordering: "The order is imposed by some other agent" (Lashley 1951), and the whole sequence is queued in parallel before the first element executes (Averbeck et al. 2002). The note argues that production is the empty cell in the operation-void taxonomy named at [[fusion-void]], but every host that would fit is at its length ceiling.
 - **[[research/voids-veto-void-2026-09-18|The Veto Void]]** — *Surveyed.* A successful veto produces no event, so neither introspection nor the laboratory can observe it: inhibition latency is a model-estimated covert quantity (Verbruggen et al. 2019), and the point of no return carries no felt signal. This matters for the Map because the veto is the site its own tenets select. Disposition open: standalone (the note's recommendation), or fold into [[agency-void]] or [[causal-interface]].
 - **[[research/voids-mirth-void-2026-09-23|The Mirth Void]]** — *Published* (2026-09-28) as [[mirth-void]]. We laugh first and find reasons afterwards: cortical stimulation produced laughter that the patient attributed to whatever was in front of her (Fried et al. 1998), and humour survives neither analysis nor deliberate production. This is an access claim, distinct from the irreducibility claim at [[the-comic-and-humor-as-an-aesthetic-category]].
-- **[[research/voids-cross-state-void-2026-09-24|The Cross-State Void]]** — *Surveyed.* A mind in one visceral state cannot represent the felt weight of another, even one it has often had: subjects' intensity estimates of cold-pressor pain crossed the gap while their willingness to endure it did not (Read & Loewenstein 1999), and knowing about the bias does not remove it. It is recurrent and self-concealing, and it applies to one's own familiar states, which separates it from voids about novel states and from [[inaccessible-past|the inaccessible past]]'s lost episodes.
+- **[[research/voids-cross-state-void-2026-09-24|The Cross-State Void]]** — *Published* (2026-09-28) as [[cross-state-void]]. A mind in one visceral state cannot represent the felt weight of another, even one it has often had: subjects' intensity estimates of cold-pressor pain crossed the gap while their willingness to endure it did not (Read & Loewenstein 1999), and knowing about the bias does not remove it. It is bidirectional and self-concealing, and it applies to one's own familiar states, which separates it from [[transformative-experience-void|novel states]] and from [[inaccessible-past|the inaccessible past]]'s lost episodes. Every correction that works (re-exposure, induction, even mental simulation per Steinmetz et al. 2018) moves the subject into the state rather than improving the cold representation.
 
 ---
 
