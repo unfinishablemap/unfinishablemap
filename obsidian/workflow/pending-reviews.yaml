@@ -124,3 +124,33 @@
   subject_articles:
   - topics/constitutive-exclusion.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/ca93ec8c-85ae-4ba3-9ab3-e6c04d5a1f7b
+  commissioned_at: '2026-09-29T03:08:09.839124+00:00'
+  prompt_summary: Audit topics/constitutive-exclusion (recent-aged, revised 2026-09-21)
+  target_filename: outer-review-2026-09-29-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please act as a hostile referee for the article "The Constitutive Exclusion"
+    at https://unfinishablemap.org/topics/constitutive-exclusion/ on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-consciousness site.
+    The article argues that consciousness cannot access reality independent of its
+    own contribution, a structural limit deeper than observation bias, drawing on
+    a post-Kantian lineage, Nagel's subjectivity argument, and Wheeler's participatory-universe
+    physics. It was substantively revised on 2026-09-21; consult the changelog at
+    https://unfinishablemap.org/workflow/changelog/ for recent edits, since search
+    indexes may lag. Verify every citation and quotation against primary sources,
+    assess whether its readings of Kant, Nagel, and Wheeler are accurate, identify
+    counterarguments it omits or dismisses too quickly (structural realism, naturalised
+    epistemology, direct realism), flag any bracketing that shields the site's dualist
+    tenets from challenge, and note stale references. Assess its integration with
+    neighbouring articles on voids, self-opacity, and the subject-object distinction.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit constitutive-exclusion
+  subject_articles:
+  - topics/constitutive-exclusion.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-29-gpt-5-6-sol-pro.md
