@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T14:22:29+00:00
+ai_modified: 2026-09-29T14:46:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T14:46:02+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Functional-contribution wing (6 articles, chosen by content-measured coverage: last named in an optimistic review 2026-06-02 to 2026-07-10): concepts/conscious-vs-unconscious-processing, concepts/types-of-consciousness, topics/cognitive-integration-and-the-self, topics/consciousness-and-cognitive-distinctiveness, topics/curated-mind, topics/surprise-prediction-error-and-consciousness. 60 quoted passages grep-verified; lengths via analyze_length; prior deep/pessimistic reviews read first. 4 calibration concerns (3 minted, 1 recorded), 8 cross-link suggestions, no new-article proposals.
+- **Tasks minted**: 4 (P2 conscious-vs-unconscious-processing epiphenomenalism inference vs sibling audit; P2 curated-mind absorb anosognosia reversal + reciprocal link; P3 integrate-orphan reciprocal links to cognitive-integration-and-the-self from 5 hosts; P3 Zher-Wen 2023 reference reconcile in consciousness-and-cognitive-distinctiveness). parse_tasks active 16 → 20.
+- **Output**: [[reviews/optimistic-2026-09-29-functional-contribution-wing]]
+- **Model**: claude-fable-5-1
+- **Published**: no (review file synced to hugo/content/reviews; no commit)
 
 ## 2026-09-29T14:22:29+00:00 - refine-draft
 - **Status**: Success

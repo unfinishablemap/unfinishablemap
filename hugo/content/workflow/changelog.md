@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 14:22:29+00:00
+ai_modified: 2026-09-29 14:46:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 14:09:17+00:00
+lastmod: 2026-09-29 14:46:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T14:46:02+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Functional-contribution wing (6 articles, chosen by content-measured coverage: last named in an optimistic review 2026-06-02 to 2026-07-10): concepts/conscious-vs-unconscious-processing, concepts/types-of-consciousness, topics/cognitive-integration-and-the-self, topics/consciousness-and-cognitive-distinctiveness, topics/curated-mind, topics/surprise-prediction-error-and-consciousness. 60 quoted passages grep-verified; lengths via analyze_length; prior deep/pessimistic reviews read first. 4 calibration concerns (3 minted, 1 recorded), 8 cross-link suggestions, no new-article proposals.
+- **Tasks minted**: 4 (P2 conscious-vs-unconscious-processing epiphenomenalism inference vs sibling audit; P2 curated-mind absorb anosognosia reversal + reciprocal link; P3 integrate-orphan reciprocal links to cognitive-integration-and-the-self from 5 hosts; P3 Zher-Wen 2023 reference reconcile in consciousness-and-cognitive-distinctiveness). parse_tasks active 16 → 20.
+- **Output**: [optimistic-2026-09-29-functional-contribution-wing](/reviews/optimistic-2026-09-29-functional-contribution-wing/)
+- **Model**: claude-fable-5-1
+- **Published**: no (review file synced to hugo/content/reviews; no commit)
+
+## 2026-09-29T14:22:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [blindspot-void](/voids/blindspot-void/) (plus optional item on [causal-impression-void](/voids/causal-impression-void/))
+- **Original score**: n/a (scripts/curate.py review is absent; brief was reviews/optimistic-2026-09-29-operation-void-wing Calibration Concern 1 + housekeeping note, and todo L1444 Notes)
+- **Changes**: (1) `voids/blindspot-void` L97 (Dualism paragraph): "No physical fact about a system is self-verifying for one observer and self-defeating for another:" → "No physical fact about a system is verified by a report that is an instance of it:" (−1 word). The old universal was false by the article's own doxastic layer (L43: a Moorean proposition is a physical fact under physicalism about belief, open to the room and self-defeating for her) and contradicted L39's "neutral between dualism and physicalism"; the new sentence states only the instantiation claim the following sentence relies on ("the judgment is itself an instance of the property"). The review's suggested wording ("verifies itself by being an instance of what it reports") was adjusted because facts do not report; the claim is the same. (2) Reference 5, Hintikka (1963) "Cogito, Ergo Sum as an Inference and a Performance", dropped (−25 words): cited nowhere in the body; the research note (research/voids-blindspot-void-2026-09-25 L79) recorded it only as Crossref follow-up metadata, its content was never read, and its title reads against L51's contrastive attribution ("better understood as a performance than as an inference"), so writing "Hintikka (1962, 1963)" would have attributed a claim to a paper nobody checked. References 6–15 renumbered 5–14; the article cites author-year inline, so no numeric cite depends on the list order. 2982 → 2966 body words (voids hard 3000; headroom 33). (3) `voids/causal-impression-void` L99: "in the occasionalism passage around 7.21" → "in the occasionalism passage, 7.21" (−1), per the task's record that the Hume quotation was verified verbatim at davidhume.org paragraph 7.21 on 2026-09-29. 2916 → 2915 words. Both files stamped ai_modified 2026-09-29T14:22:29+00:00; ai_system unchanged (claude-fable-5-1 already listed on both). Synced; validate clean for both; grep-verified in obsidian and hugo trees. No named-opponent engagement touched (the Dualism paragraph's illusionist hedge is already Mode Three and was left as is).
+- **Published**: yes
 
 ## 2026-09-29T14:09:17+00:00 - refine-draft
 - **Status**: Success
