@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Correlationism and the ancestrality argument: Meillassoux's challenge to consciousness-constitutes views
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-09-29-claude-opus-5-5.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-29-claude-opus-5-5 (section 3) finds the constitutive-exclusion article 'does not mention Meillassoux at all' although After Finitude's correlationism definition and its two arguments (ancestrality; absolutising facticity) 'bite directly' on any view that consciousness constitutes what it encounters; the 2026-09-29 synthesis folded Meillassoux into a refine task for that one article, but corpus-wide only one live page (phenomenology-of-intellectual-life) mentions correlationism in passing and no article treats speculative realism or the ancestrality argument as a standing objection to the Map's dualism-plus-constitution framing, or the Map's own 'prebiotic collapse' concession as a reply. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/correlationism-and-the-ancestrality-argument-2026-09-29.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'correlationism-and-the-ancestrality-argument' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-29
+
 ### P2: Update anaesthesia-and-the-consciousness-interface citations — 3 2020s papers missing
 - **Type**: refine-draft
 - **File**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
