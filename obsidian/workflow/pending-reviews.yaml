@@ -94,3 +94,33 @@
   subject_articles:
   - topics/buddhist-perspectives-on-meaning.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-28-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6abb1db8-d8e8-83ed-b42e-1e58454dd7d0
+  commissioned_at: '2026-09-29T02:09:14.372419+00:00'
+  prompt_summary: Audit topics/constitutive-exclusion (recent-aged, revised 2026-09-21)
+  target_filename: outer-review-2026-09-29-gpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit the article "The Constitutive Exclusion" at https://unfinishablemap.org/topics/constitutive-exclusion/
+    on The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-consciousness
+    site. The article argues that consciousness cannot access reality independent
+    of its own contribution, a structural limit deeper than observation bias, drawing
+    on a post-Kantian lineage, Nagel''s subjectivity argument, and Wheeler''s participatory-universe
+    physics. It was last substantively revised on 2026-09-21; consult the changelog
+    at https://unfinishablemap.org/workflow/changelog/ for recent edits, since search
+    indexes may lag. Check whether its post-revision claims hold up: verify the citations
+    and quotations against primary sources, assess the accuracy of its readings of
+    Kant, Nagel, and Wheeler, identify counterarguments it misses or handles too quickly
+    (especially structural-realist and naturalised-epistemology replies), flag any
+    tenet-protective bracketing where the site''s dualist commitments are shielded
+    from challenge, and note stale references. Also assess how well it integrates
+    with its neighbouring articles on voids, self-opacity, and the subject-object
+    distinction. End your report with a list of concrete potential improvements to
+    specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit constitutive-exclusion
+  subject_articles:
+  - topics/constitutive-exclusion.md
+  subject_source: fallback:recent-aged
