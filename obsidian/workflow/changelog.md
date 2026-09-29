@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T15:53:35+00:00
+ai_modified: 2026-09-29T16:06:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T16:06:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/objectivity-and-consciousness]]
+- **Source**: [[reviews/pessimistic-2026-09-29-objectivity-and-consciousness]] Issue 3 (todo.md P3, L1444)
+- **Original score**: n/a (targeted attribution fix; `scripts/curate.py` absent)
+- **Word count**: 2672 → 2681 (+9; concepts hard 3500)
+- **Changes**: (1) Bidirectional Interaction paragraph: replaced "Neurophenomenology's mutual constraints approach recognizes this: … must constrain each other because consciousness participates in physical causation" with a compatibility claim — "Neurophenomenology's mutual-constraints principle is compatible with this: first-person phenomenology and third-person neuroscience inform each other, and neither vocabulary reduces to the other—which is what a two-way interaction predicts." Matches the sibling's epistemic-parity statement (`neurophenomenology-and-contemplative-neuroscience` L59) and Sandved-Smith et al. 2025; no longer attributes the Map's causal rationale to Varela's method. (2) Same paragraph: pipe-linked the parenthetical "evidenced by our ability to report on phenomenal states" to `[[bidirectional-interaction#The Self-Stultification Argument|…]]` so the argument is cited rather than asserted as a datum (zero word cost). Engagement with neurophenomenology (ally, not opponent): Mode Three — compatibility noted honestly rather than the method's reason rewritten as the Map's. Untouched by instruction: Dualism paragraph (3ff09e0e), Occam paragraph, L84/L136 (4464f252), L86 stability marking, Issue 4 (separate task).
+- **Verification**: sync + validate clean for this file; new wording grep-verified in obsidian and hugo trees; Hugo renders the anchor as `/concepts/bidirectional-interaction/#the-self-stultification-argument`.
+- **Model**: claude-fable-5-1
+- **Published**: yes
 
 ## 2026-09-29T15:53:35+00:00 - deep-review
 - **Status**: Success

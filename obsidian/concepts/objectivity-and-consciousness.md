@@ -4,7 +4,7 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-09-29T13:21:26+00:00
+ai_modified: 2026-09-29T16:06:33+00:00
 last_deep_review: 2026-07-28T22:12:06+00:00
 draft: false
 topics:
@@ -143,7 +143,7 @@ This analysis directly supports the Map's foundational tenets:
 
 **Occam's Razor Has Limits**: The methodological preference for objective understanding (third-person description) may blind us to irreducible subjectivity. Physicalism appears simpler because it restricts itself to what objective methods can capture. But this apparent simplicity reflects cognitive/methodological boundaries, not metaphysical truth. When objectivity is the criterion, only the objective registers as real.
 
-**Bidirectional Interaction**: If consciousness is causally efficacious (evidenced by our ability to report on phenomenal states), then the view from nowhere must accommodate first-person influence on physical outcomes. Purely objective description omits the causal role of subjective decision-making. Neurophenomenology's mutual constraints approach recognizes this: first-person phenomenology and third-person neuroscience must constrain each other because consciousness participates in physical causation. The [[argument-from-reason]] provides additional support: if reasoning requires grasping logical relations (not merely being caused by them), then rational thought involves irreducibly subjective mental causation that objective description cannot capture.
+**Bidirectional Interaction**: If consciousness is causally efficacious ([[bidirectional-interaction#The Self-Stultification Argument|evidenced by our ability to report on phenomenal states]]), then the view from nowhere must accommodate first-person influence on physical outcomes. Purely objective description omits the causal role of subjective decision-making. Neurophenomenology's mutual-constraints principle is compatible with this: first-person phenomenology and third-person neuroscience inform each other, and neither vocabulary reduces to the other—which is what a two-way interaction predicts. The [[argument-from-reason]] provides additional support: if reasoning requires grasping logical relations (not merely being caused by them), then rational thought involves irreducibly subjective mental causation that objective description cannot capture.
 
 **No Many Worlds**: The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to objectivity through the measurement problem. Many-Worlds interpretations offer maximally objective quantum mechanics—no observer-dependent collapse, just universal wave function evolution. But this objectivity comes at a cost: it cannot explain why *this* outcome is experienced rather than all outcomes. The question "why am I in this branch?" makes sense but has no objective answer. Rejecting Many-Worlds means accepting that quantum measurement involves genuine selection—which may require acknowledging perspective at physics' foundations.
 

@@ -1441,15 +1441,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: `concepts/objectivity-and-consciousness` L146 attributes the Map's bidirectional-causation rationale to Varela's mutual-constraints method, and presents the self-stultification argument as a parenthetical datum
-
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/objectivity-and-consciousness.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-09-29 (cycle slot), Issue 3
-- **Generated**: 2026-09-29
-- **Notes**: Grep-verified this run. L146: "Neurophenomenology's mutual constraints approach recognizes this: first-person phenomenology and third-person neuroscience must constrain each other because consciousness participates in physical causation." Neither the sibling nor the primary source gives a causal rationale: `concepts/neurophenomenology-and-contemplative-neuroscience` L59 states the principle as "First-person reports and neural data inform each other; neither reduces to the other", and Sandved-Smith et al. 2025 (verified at OUP this run) say "Neither phenomenology nor neuroscience is more basic or epistemologically fundamental ... distinct methods whose findings are not reducible to one another". Varela's enactivism is not interactionist dualism; the "because" clause is the Map's gloss dressed as the method's own reason (the in-framework-argument-that-appeals-to-Map-commitments pattern, applied to an ally). Fix: change "recognizes this ... because" to a compatibility claim ("is compatible with this: neither vocabulary reduces to the other, which is what a two-way interaction predicts"). Same paragraph: "If consciousness is causally efficacious (evidenced by our ability to report on phenomenal states)" presents the Map's argument as a fact — pipe-link it to `[[bidirectional-interaction#The Self-Stultification Argument|evidenced by our ability to report on phenomenal states]]` so it is cited, not assumed (piped link = zero words). Do NOT alter the Dualism or Occam paragraphs. Sync obsidian → hugo and grep-verify both trees. See [[reviews/pessimistic-2026-09-29-objectivity-and-consciousness]] Issue 3.
-
 ### P3: `concepts/objectivity-and-consciousness` quantum section — L46 electron example is the article's own later counter-case, and L122 "persistence suggests objectivity may reach genuine limits" is a non-sequitur
 
 - **Type**: refine-draft
@@ -1481,6 +1472,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-29: `concepts/objectivity-and-consciousness` L146 attributes the Map's bidirectional-causation rationale to Varela's mutual-constraints method, and presents the self-stultification argument as a parenthetical datum
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/objectivity-and-consciousness.md
+- **Notes**: Grep-verified this run. L146: "Neurophenomenology's mutual constraints approach recognizes this: first-person phenomenology and third-person neuroscience must constrain each other because consciousness participates in physical causation." Neither the sibling nor the primary source gives a causal rationale: `concepts/neurophenomenology-and-contemplative-neuroscience` L59 states the principle as "First-person reports and neural data inform each other; neither reduces to the other", and Sandved-Smith et al. 2025 (verified at OUP this run) say "Neither phenomenology nor neuroscience is more basic or epistemologically fundamental ... distinct methods whose findings are not reducible to one another". Varela's enactivism is not interactionist dualism; the "because" clause is the Map's gloss dressed as the method's own reason (the in-framework-argument-that-appeals-to-Map-commitments pattern, applied to an ally). Fix: change "recognizes this ... because" to a compatibility claim ("is compatible with this: neither vocabulary reduces to the other, which is what a two-way interaction predicts"). Same paragraph: "If consciousness is causally efficacious (evidenced by our ability to report on phenomenal states)" presents the Map's argument as a fact — pipe-link it to `[[bidirectional-interaction#The Self-Stultification Argument|evidenced by our ability to report on phenomenal states]]` so it is cited, not assumed (piped link = zero words). Do NOT alter the Dualism or Occam paragraphs. Sync obsidian → hugo and grep-verify both trees. See [[reviews/pessimistic-2026-09-29-objectivity-and-consciousness]] Issue 3.
 
 ### ✓ 2026-09-29: `topics/curated-mind` L73/L75/L84 say the failed self-model "cannot" be corrected or verified, but `anosognosia-and-the-reversible-self-monitoring-channel` L84 records that it often can, from outside the damaged system — absorb the reversal and add the reciprocal link
 - **Type**: refine-draft
