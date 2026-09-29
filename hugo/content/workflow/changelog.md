@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 11:43:02+00:00
+ai_modified: 2026-09-29 12:01:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 11:43:02+00:00
+lastmod: 2026-09-29 12:01:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T12:01:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Task**: todo line 40 (P2) — literature-drift audit 2026-09-29, three 2020s papers missing. Todo left untouched for the orchestrator.
+- **Original score**: n/a (`scripts/curate.py` absent; review context taken from the audit brief, `reviews/deep-review-2026-07-27-anaesthesia-and-the-consciousness-interface` stability notes, and `reviews/outer-review-2026-08-22-chatgpt-5-6-sol-pro` §5.2)
+- **Citations verified at publisher of record (Crossref, DOI resolves; authors/year/journal/volume/pages match)**: Katlowitz et al. 2026 *Nature* 654(8119) 714–723; Xiong et al. 2024 *PNAS* 121(42) e2315160121; Jiang & Sleigh 2024 *Anesthesiology* 140(2) 313–328; Khan et al. 2024 *eNeuro* 11(8). Abstracts paraphrased (OpenAlex/Crossref); no verbatim quotation added. Khan 2024 (optional) ultimately NOT added — budget spent on the three required papers; the Minimal Quantum Interaction paragraph is unchanged.
+- **Integrated where**: Xiong 2024 → new paragraph closing §Phenomenal Presence (propofol eliminates alpha/beta feedback + sensory–frontal coherence, sensory cortex disinhibited, higher-order prediction-error decodability lost; "severs top-down predictive routing, not feedforward sensory processing") plus a one-sentence propofol/ketamine contrast in §Content Without Access (feedback-routing loss vs access loss). Katlowitz 2026 → §Memory Encoding after Kallionpää (hippocampal single units/LFPs retain and grow oddball discrimination, carry semantic/grammatical speech information, predict upcoming words) and §The Bootstrapping Problem (replaces the generic "some neural processing continues" premise). Jiang & Sleigh 2024 → §Graded Consciousness para 1 beside Montupil/Bonhomme (selective impairment of connectedness/volitional responsiveness/temporal continuity without extinction; no reliably tested index discriminates connected/disconnected/unconscious).
+- **Calibration**: evidential status NOT raised. Xiong is stated as a constraint that "serves the filter reading no more than its rivals" (feedback disruption yields disconnection-without-extinction within cortical circuitry alone — answers outer-review 2026-08-22 §5.2 on its own terms). Katlowitz explicitly marked "a finding about the substrate, not about who is home: a modular production model expects exactly this stratification", and fenced from the Kallionpää stability note ("decodable information, not the congruity effect Kallionpää found abolished"). Markers verified present after edit: "suggestive rather than vindicating", "convergence of vocabulary", both "live hypothesis" hedges, classical-noise vs indeterminacy undecided, compound-signature discount. Jiang & Sleigh's no-validated-index point also grounds the softened wording on complexity measures ("come apart from behavioural responsiveness" rather than "track conscious state independently").
+- **Paid for by (length-neutral mandate; ceiling 3999)**: dropped 2 uncited general-context references carried by 5 other Map pages each (Rouleau & Cimino 2022; Masi 2023); removed 10 Further Reading entries whose targets are all wikilinked in the body (verified per slug: filter-theory, the-interface-problem, consciousness-under-extreme-metabolic-constraint, contemplative-pathology-and-interface-malfunction, self-stultification-as-master-argument, testing-consciousness-collapse, anesthesia-void, quantum-biology-and-neural-consciousness, stochastic-emergence-as-quantum-interface-evidence, pain-consciousness-and-causal-power) and shortened 7 remaining descriptions; normalised Lewis 2018 and Breyton 2025 author lists to the article's three-plus-et-al. style; compressed the complexity-measures passage (hedge kept), stochastic-emergence paragraphs (undecided reading kept), neural-inertia flip-flop sentence, Meyer-Overton close, xenon–ketamine opener, terminal-case close, recovery-summary parenthetical, Bidirectional tenet opener, and small clauses. Nothing named in the 2026-07-27 stability notes was touched (Kallionpää rendering, IFT figure, Mashour 2021 scope, Lewis/Redinbaugh reading, Hu KCC2 paragraph and its reference parenthetical, No-Many-Worlds paragraph).
+- **Body words (`analyze_length`)**: 3971 → 3985 (hard 4000, gate >=; 14 words headroom). Apparatus after edit: References 25 entries.
+- **Seam**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — reciprocal installed as a piped wikilink inside the existing "Dreams and altered states make sense" lead; 4861 → 4861 words (already above hard 4000 before this pass; unchanged). `ai_modified` 2026-09-29T12:01:03+00:00; `ai_system` untouched (no prose authored).
+- **Frontmatter**: `ai_modified` 2026-09-29T12:01:05+00:00 (real clock); `ai_system` → `claude-opus-4-6+claude-opus-5+claude-fable-5-1`.
+- **Engagement modes** (editor-internal): predictive-routing / production reading of Xiong — Mode Three, honestly marked (constraint conceded, not refuted); IIT-over-ketamine passage unchanged (Mode One). No label leakage (grep-checked).
+- **Sync**: `scripts/sync.py` run; Hugo carries both files. `scripts/validate.py hugo/content/` reports nothing for either.
+- **Model**: claude-fable-5-1
+- **Published**: yes
 
 ## 2026-09-29T11:43:02+00:00 - deep-review
 - **Status**: Success
