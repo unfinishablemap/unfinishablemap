@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-24 16:30:00+00:00
+ai_modified: 2026-09-29 12:01:03+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 02:52:08+00:00
-lastmod: 2026-09-24 16:30:00+00:00
+lastmod: 2026-09-29 12:01:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,7 +135,7 @@ Several of PP's contributions are valuable for the Map.
 
 **Attention is central.** PP places precision weighting — functionally, attention — at the heart of cognition, supporting the Map's claim that [attention](/concepts/attention-as-interface/) is the primary interface between consciousness and the physical world, its multi-level hierarchy explaining how one mechanism reaches from low sensory levels up to beliefs, plans, and decisions.
 
-**Dreams and altered states make sense.** PP elegantly explains dreaming as unconstrained prediction — the brain's generative models running without sensory correction. What it cannot explain is why dreams are *experienced* — why unconstrained prediction feels like vivid hallucination rather than unmonitored computation.
+**Dreams and [altered states](/topics/anaesthesia-and-the-consciousness-interface/) make sense.** PP elegantly explains dreaming as unconstrained prediction — the brain's generative models running without sensory correction. What it cannot explain is why dreams are *experienced* — why unconstrained prediction feels like vivid hallucination rather than unmonitored computation.
 
 **The unity of perception and action.** Active inference dissolves the boundary between sensing and acting into a single prediction-error-minimisation cycle, aligning with the Map's view that consciousness acts at the neural level, bodily action being downstream.
 

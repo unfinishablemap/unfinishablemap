@@ -5,7 +5,7 @@ ai_modified: 2026-09-29 11:43:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 11:21:37+00:00
+lastmod: 2026-09-29 11:43:02+00:00
 related_articles: []
 title: Changelog
 ---

@@ -4,7 +4,7 @@ description: "Predictive processing's formalism does not mandate physicalism; it
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-09-24T16:30:00+00:00
+ai_modified: 2026-09-29T12:01:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,7 +131,7 @@ Several of PP's contributions are valuable for the Map.
 
 **Attention is central.** PP places precision weighting — functionally, attention — at the heart of cognition, supporting the Map's claim that [[attention-as-interface|attention]] is the primary interface between consciousness and the physical world, its multi-level hierarchy explaining how one mechanism reaches from low sensory levels up to beliefs, plans, and decisions.
 
-**Dreams and altered states make sense.** PP elegantly explains dreaming as unconstrained prediction — the brain's generative models running without sensory correction. What it cannot explain is why dreams are *experienced* — why unconstrained prediction feels like vivid hallucination rather than unmonitored computation.
+**Dreams and [[anaesthesia-and-the-consciousness-interface|altered states]] make sense.** PP elegantly explains dreaming as unconstrained prediction — the brain's generative models running without sensory correction. What it cannot explain is why dreams are *experienced* — why unconstrained prediction feels like vivid hallucination rather than unmonitored computation.
 
 **The unity of perception and action.** Active inference dissolves the boundary between sensing and acting into a single prediction-error-minimisation cycle, aligning with the Map's view that consciousness acts at the neural level, bodily action being downstream.
 
