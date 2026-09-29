@@ -4,7 +4,7 @@ created: 2026-04-27
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-7
-ai_modified: 2026-07-28T17:07:07+00:00
+ai_modified: 2026-09-29T09:00:00+00:00
 ---
 
 # Research: Hutto-Myin's Hard Problem of Content
@@ -76,12 +76,12 @@ Hutto and Myin's "Hard Problem of Content" (HPC), developed across *Radicalizing
 - **Tenet alignment**: Useful witness that even sympathetic enactivists find the HPC's positive programme underdeveloped—reduces the cost of the Map's partial endorsement of the *negative* argument while declining the *positive* programme
 
 ### Mann & Pain, "Teleosemantics and the Hard Problem of Content" (*Philosophical Psychology*, 2022)
-- **URL**: https://www.tandfonline.com/doi/full/10.1080/09515089.2021.1942814 (paywalled; abstract via https://philarchive.org/rec/MANTAT-16)
+- **URL**: https://www.tandfonline.com/doi/full/10.1080/09515089.2021.1942814 (CC-BY open access — the earlier "paywalled" note was wrong; full text also at https://pure.mpg.de/rest/items/item_3331470/component/file_3331471/content)
 - **Type**: Peer-reviewed paper
 - **Key points**:
   - The HPC objection requires teleosemantics to satisfy two criteria: (i) truth-evaluability (the state can be true or false) and (ii) intensionality (content can differ while reference holds fixed)
   - Argue teleosemantics *does* meet the truth-evaluability criterion through the consumer-function machinery
-  - Concede teleosemantics does not meet the intensionality criterion—but argue intensionality is not a requirement for a viable theory of content for sub-personal cognitive states
+  - Concede functional norms do not meet the intensionality criterion ("Invoking functional norms accounts for the truth-evaluable criterion … but not the intensionality criterion", §4.1)—but argue no theory of content must: following Heck (2012) and Millikan (2017), Frege-puzzle differences are differences in belief *vehicles* (unicepts), not in content (§4.2). The paper never frames this as a personal-level vs sub-personal split; that gloss was the Map's own and was corrected 2026-09-29
   - Conclude Hutto and Myin's HPC objection fails by a narrowing-of-criteria move
 - **Tenet alignment**: Reduces the dialectical strength of the HPC for naturalists who are happy with non-intensional content; the Map can note that this "rescue" comes at the cost of admitting that naturalism cannot deliver the full conceptual content folk psychology and dualism both rely on
 
@@ -186,7 +186,7 @@ Hutto and Myin's "Hard Problem of Content" (HPC), developed across *Radicalizing
 - **Core claim**: Teleosemantics meets the truth-evaluability criterion REC demands; intensionality is not required for sub-personal content
 - **Key arguments**:
   - Consumer functions plus environmental conditions yield truth conditions for cognitive states
-  - The intensionality requirement is a personal-level desideratum, not a sub-personal one
+  - The intensionality criterion need not be met by any theory of content: Frege puzzles are handled by vehicle (unicept) differences (§4.2)
 - **Relation to site tenets**: This is the strongest naturalist reply available. The Map can engage by noting that the rescue *concedes* what dualism needs—naturalism cannot deliver intensional, fully conceptual content.
 
 ## Key Debates
@@ -271,7 +271,7 @@ Honest limitations to flag in the article:
 
 ## Gaps in Research
 
-- Could not access full text of Mann & Pain 2022 (paywalled); abstract-level summary only
+- Full text of Mann & Pain 2022 read 2026-09-29 (CC-BY; MPG mirror) — the earlier "paywalled / abstract only" note was wrong and its §4 gloss has been corrected above
 - Did not survey Hutto and Myin's most recent (post-2020) replies to critics
 - The Carter & Pritchard 2018 "Making too many enemies" critique of REC's computationalism attack was found by title but not read in detail
 - The connection between REC and Wittgensteinian rule-following considerations is mentioned in some sources but not investigated deeply

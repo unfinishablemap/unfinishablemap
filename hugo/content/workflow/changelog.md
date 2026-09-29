@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 07:38:54+00:00
+ai_modified: 2026-09-29 09:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 07:38:54+00:00
+lastmod: 2026-09-29 08:26:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T09:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)
+- **Word count**: 3841 → 3920 (+79; corrected Mann–Pain paragraph, Map reply to the vehicle strategy, Millikan 2017 reference; eleven length-neutral trims funded most of it)
+- **Critical issues addressed**: 3 (fabricated "personal-level desideratum" rationale attributed to Mann & Pain 2022 — the word *personal* occurs 0 times in the paper; their real §4 argument is Russellian: Frege-puzzle work done by belief vehicles/unicepts per Heck 2012 and Millikan 2017 — corrected at root in `research/hutto-myin-hard-problem-of-content-2026-04-27` and `research/teleosemantics-2026-07-11`, and across the family in `concepts/teleosemantics` and public `archive/concepts/hard-problem-of-content`; Map reply now engages the actual argument instead of "naming the loss"; `[[infant-consciousness]]` link label said the Map "leaves open" what the target page asserts)
+- **Medium issues addressed**: 2 (subitization evidence scoped to content-in-basic-minds, not conscious mediation; length-neutral trims)
+- **Enhancements made**: 3 (opponent's argument stated from full text with worked example; research note's wrong "paywalled" flag replaced with CC-BY MPG mirror URL; five-file family consistency)
+- **Engagements**: Mann & Pain Mode Two with Mode Three residue (corrected from the 2026-07-28 "Mode One", which rested on the invented rationale); functionalist reply Mode Two/Three unchanged; REC Mode Three bedrock unchanged; no label leakage
+- **Deferred check closed**: the 2026-09-28 teleosemantics deep-review deferral ("Mann & Pain full-text grep … needs Chrome window") — obtained without Chrome via pure.mpg.de item_3331470
+- **Output**: [deep-review-2026-09-29-the-naturalisation-failure-for-content](/reviews/deep-review-2026-09-29-the-naturalisation-failure-for-content/)
+
+## 2026-09-29T08:26:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted source-fidelity fix from convergent outer reviews 2026-09-29, ChatGPT 5.6 Pro + Claude Opus 5.5; todo line 1474, P1, second of the same-day P1 tasks on this file — Merleau-Ponty pass landed in 80b8139c)
+- **Verification (raw text, not summariser)**: Nagel 1986 via the arnes.si PDF (pdftotext; OCR renders "of" as "o f", so spans were matched with an OCR-tolerant regex): "I want both to defend the possibility of objective ascent and to understand its limits" at printed p. 70 (ch. V "Knowledge" §1, not the Introduction); "I shall defend a form of realism according to which our grasp on the world is limited ... In a very strong sense, the world extends beyond the reach of our minds" at p. 90 (ch. VI "Thought and Reality" §1); "the reality of the features of things in themselves that we have discovered is just as independent of our capacity to discover them as is the reality of whatever may lie outside our conceptual reach" at p. 105; also p. 91 "Human objectivity may be able to grasp only part of the world, but when it is successful it should provide us with an understanding". Putnam 1981 via archive.org `PutnamHilary-ReasonTruthAndHistory_djvu.txt` (92,211 words): full Preface passage grep-verified — "the mind does not simply 'copy' a world which admits of description by One True Theory. But my view is not a view in which the mind makes up the world, either ... If one must use metaphorical language, then let the metaphor be this: the mind and the world jointly make up the mind and the world" — and p. 60 "Kant is best read as proposing for the first time what I have called the 'internalist' or 'internal realist' view of truth". The djvu text carries "Preface" running heads but no roman page numbers, so the reviewer's "p. xi" locator was NOT ratified; the article cites "(Preface)". Crossref: Nagel 1974 DOI 10.2307/2183914, *Phil. Review* 83(4), first page 435 (end page 450 from two further sources); Putnam 1994 DOI 10.2307/2940978, *J. Phil.* 91(9), first page 445, Sept 1994 — end page disagrees across sources (517 vs Wikipedia's 518; pdcnet redirects to SSO), so the entry cites 445ff. with the DOI and no end page. *The Threefold Cord* Columbia UP 1999 confirmed at OpenLibrary. The pageplace Cambridge preview PDF is image-only (0 words) — do not reuse it as a grep source.
+- **Changes**: (a) L56 Nagel entry recast (1974, 1986): complete detachment unattainable, objective ascent and partial knowledge of a mind-independent world affirmed with the three page-located quotations, subjectivity argument keyed to the 1974 paper; closes "limits what objectivity can capture, not what it can reach" and marks his support as partial; (b) L42 "moving further from any prospect of revealing reality-as-it-is ... not closer" replaced — abstraction now read as objective ascent the Map does not dispute, with the intrinsic-nature residue kept; (c) L58 Putnam entry labelled 1981 internal realism, metaphor caveat and "not a view in which the mind makes up the world" restored, later natural realism (Dewey Lectures 1994 / *Threefold Cord* 1999) noted as telling against any veil reading, unverified "one, true" quotation dropped; (d) convergence counting updated at L36 (parenthetical on the Nagel strand; "Putnam's 1981 internal realism") and L62 (Nagel counts only in part; Merleau-Ponty's Preface and Putnam's later realism thin the Kantian lineage) and L66 ("complete detachment is unreachable even as objective ascent proceeds"); (e) references 15 (Nagel 1974) and 16 (Putnam 1994 + *Threefold Cord* 1999, one combined entry to stay within the two-entry budget) appended — no in-body numbered cites, Reynolds ref 14 kept; (f) offset: redundant Heidegger sentence at L52 ("Thrownness cannot be transcended or overcome...") removed. No named-opponent reply was added, so no reasoning-mode classification applies. Sync run; Hugo copy carries every new span.
+- **Length**: body 3003 → 3317 words (+314; topics hard 4000, 682 to the usable ceiling). Three sibling tasks still target this file today (structural-realism defeaters, tenet-section equivocation, three-file cross-review).
+- **Published**: yes
 
 ## 2026-09-29T07:38:54+00:00 - refine-draft
 - **Status**: Success

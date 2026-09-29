@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-11
-date: '2026-07-11'
+date: '2026-09-29'
 draft: false
-lastmod: 2026-07-11 00:00:00+00:00
+lastmod: 2026-09-29 00:00:00+00:00
 related_articles: []
 title: Research Notes - Teleosemantics and Biosemantics
 ---
@@ -257,8 +257,9 @@ positive rival's home, cross-referencing — not repeating — the HPC critique.
 - **Core disagreement**: Even granting proper function, the account reads content off causal +
   historical facts that are themselves *silent about meaning*; it can specify *when* a consumer
   should use a state but not the **guise/intension** under which the state represents (representing
-  *as food* vs *as nutritionally-optimal-nearby-item*). Mann & Pain (2022) concede intensionality
-  but argue it is a personal-level desideratum, not a requirement on sub-personal states.
+  *as food* vs *as nutritionally-optimal-nearby-item*). Mann & Pain (2022) concede functional norms
+  do not deliver intensionality but argue no theory of content must: Frege-puzzle work is done by
+  belief vehicles (Millikan's unicepts), not by intensional content (corrected 2026-09-29 against the full text).
 - **Current state**: This is already the Map's `hard-problem-of-content` and
   `naturalisation-failure-for-content` material. The new page should **link** to it as the negative
   argument, not restate it.

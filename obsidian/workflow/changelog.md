@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T08:26:15+00:00
+ai_modified: 2026-09-29T09:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T09:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-naturalisation-failure-for-content]]
+- **Word count**: 3841 → 3920 (+79; corrected Mann–Pain paragraph, Map reply to the vehicle strategy, Millikan 2017 reference; eleven length-neutral trims funded most of it)
+- **Critical issues addressed**: 3 (fabricated "personal-level desideratum" rationale attributed to Mann & Pain 2022 — the word *personal* occurs 0 times in the paper; their real §4 argument is Russellian: Frege-puzzle work done by belief vehicles/unicepts per Heck 2012 and Millikan 2017 — corrected at root in `research/hutto-myin-hard-problem-of-content-2026-04-27` and `research/teleosemantics-2026-07-11`, and across the family in `concepts/teleosemantics` and public `archive/concepts/hard-problem-of-content`; Map reply now engages the actual argument instead of "naming the loss"; `[[infant-consciousness]]` link label said the Map "leaves open" what the target page asserts)
+- **Medium issues addressed**: 2 (subitization evidence scoped to content-in-basic-minds, not conscious mediation; length-neutral trims)
+- **Enhancements made**: 3 (opponent's argument stated from full text with worked example; research note's wrong "paywalled" flag replaced with CC-BY MPG mirror URL; five-file family consistency)
+- **Engagements**: Mann & Pain Mode Two with Mode Three residue (corrected from the 2026-07-28 "Mode One", which rested on the invented rationale); functionalist reply Mode Two/Three unchanged; REC Mode Three bedrock unchanged; no label leakage
+- **Deferred check closed**: the 2026-09-28 teleosemantics deep-review deferral ("Mann & Pain full-text grep … needs Chrome window") — obtained without Chrome via pure.mpg.de item_3331470
+- **Output**: [[reviews/deep-review-2026-09-29-the-naturalisation-failure-for-content]]
 
 ## 2026-09-29T08:26:15+00:00 - refine-draft
 - **Status**: Success

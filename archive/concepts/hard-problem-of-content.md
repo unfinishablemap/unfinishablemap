@@ -2,9 +2,9 @@
 title: "Hutto-Myin's Hard Problem of Content"
 description: "The argument by Hutto and Myin that no naturalistic theory can explain how neural states acquire genuine semantic content. The Map treats it as a structural ally to the explanatory gap."
 created: 2026-04-27
-modified: 2026-04-30
+modified: 2026-09-29
 human_modified:
-ai_modified: 2026-07-13T06:32:00+00:00
+ai_modified: 2026-09-29T09:00:00+00:00
 last_deep_review: 2026-07-14T21:46:54+00:00
 draft: false
 archived: true
@@ -82,7 +82,7 @@ A different naturalist response, owed broadly to Dennett's heterophenomenology a
 
 ## The Teleosemantic Reply
 
-Stephen Mann and Ross Pain (2022) argue that the Hard Problem of Content objection narrows what teleosemantics is required to deliver in a way the naturalist need not accept. They distinguish two criteria for genuine content: truth-evaluability (the state can be true or false) and intensionality (content can differ while reference holds fixed). They argue that teleosemantics meets the first criterion through its consumer-function machinery and concede that it does not meet the second—but contend that intensionality is a personal-level desideratum, not a requirement on sub-personal cognitive states.
+Stephen Mann and Ross Pain (2022) argue that the Hard Problem of Content objection narrows what teleosemantics is required to deliver in a way the naturalist need not accept. They distinguish two criteria for genuine content: truth-evaluability (the state can be true or false) and intensionality (content can differ while reference holds fixed). They argue that teleosemantics meets the first criterion through its consumer-function machinery and concede that it does not meet the second—but contend that no theory of content must, since (following Heck and Millikan's theory of concepts) Frege-puzzle differences are differences in belief vehicles rather than in content.
 
 This reply is dialectically significant. It does not refute the Hard Problem of Content; it concedes that naturalistic semantics cannot deliver intensional, fully conceptual content and argues that this concession is acceptable. The reply works only for naturalists prepared to accept that the content posited by their theories will not be the rich, intensional content that folk psychology and most philosophical traditions have taken intentional states to bear.
 
