@@ -4,7 +4,7 @@ description: "Narrative coherence is the felt quality of a life making sense as 
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-28T18:06:05+00:00
+ai_modified: 2026-09-29T02:53:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -27,12 +27,12 @@ author:
 ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-07-13T15:41:45+00:00
+last_deep_review: 2026-09-29T02:53:00+00:00
 ---
 
 Narrative coherence is the felt quality of a life making sense as a unified story—the phenomenological experience of choices, events, and commitments fitting together into an intelligible whole. What matters is how your life feels from the inside, irrespective of whether your autobiography would read well. When narrative coherence obtains, your past decisions explain your present situation and your present efforts point toward a recognisable future. When it breaks down, as in severe depression or traumatic dissociation, life becomes a sequence of disconnected episodes that happen to the same body but compose no meaningful pattern.
 
-The Unfinishable Map treats narrative coherence as a building block for several larger claims. It is one route—not, as Strawson's episodic lives show ([explained below](#absence-without-pathology)), the only one—by which [[diachronic-agency-and-personal-narrative|diachronic agency]] is coordinated; it makes [[moral-responsibility]] over time intelligible; and it is read by the Map as evidence that the [[the-self-minimal-narrative-and-substantial|substantial self]] is more than a philosophical postulate.
+The Unfinishable Map treats narrative coherence as a building block for several larger claims. It is one route—not, as Strawson's episodic lives show ([explained below](#absence-without-pathology)), the only one—by which [[diachronic-agency-and-personal-narrative|diachronic agency]] is coordinated; it helps make [[moral-responsibility]] over time intelligible; and it is read by the Map as evidence that the [[the-self-minimal-narrative-and-substantial|substantial self]] is more than a philosophical postulate.
 
 ## What Narrative Coherence Is
 
@@ -74,9 +74,9 @@ These breakdowns show that narrative coherence is neither automatic nor given. I
 
 ## Absence Without Pathology
 
-The clinical cases treat the absence of coherence as loss, but absence is not always pathology. Galen Strawson's "Against Narrativity" (2004) distinguishes *diachronic* people, who experience the self as extended through time, from *episodic* people who do not, and counts himself among the latter: "I have absolutely no sense of my life as a narrative with form." A second, normative prong denies that a life must be narrated to go well. The breakdown cases cannot answer this, because episodic people sustain careers, relationships and long projects without any loss a clinician would recognise. The Map concedes the point, as [[diachronic-agency-and-personal-narrative|the diachronic-agency article]] sets out: narrative coherence is one route by which choices are coordinated across time, alongside plans and policies, standing values, semantic self-knowledge and habit, and not a condition of extended agency.
+The clinical cases treat the absence of coherence as loss, but absence is not always pathology. Galen Strawson's "Against Narrativity" (2004) distinguishes *diachronic* people, who experience the self as extended through time, from *episodic* people who do not, and counts himself among the latter, "relatively Episodic" in his own words: "I have absolutely no sense of my life as a narrative with form." A second, normative prong denies that a life must be narrated to go well. The breakdown cases cannot answer this, because episodic people sustain careers, relationships and long projects without any loss a clinician would recognise. The Map concedes the point, as [[diachronic-agency-and-personal-narrative|the diachronic-agency article]] sets out: narrative coherence is one route by which choices are coordinated across time, alongside plans and policies, standing values, semantic self-knowledge and habit, and not a condition of extended agency.
 
-The concession costs the Map less than it might appear. The substantial self does not depend on narrative coherence; coherence is one way a persisting subject's life can be organised, and its absence in an episodic life leaves the subject in place. Narrative coherence accordingly plays a smaller part in the Map's case for the substantial self than the earlier sections might suggest—it is one form the subject's persistence can take, not the evidence that there is a subject. Where the Map does part from Strawson is on his positive view that the subject is [[self-and-self-consciousness|thin and short-lived]] (Strawson, 2009), and that is a disagreement at the framework boundary: nothing in "Against Narrativity" bears on whether the subject persists, and nothing here refutes the transience thesis from inside Strawson's own commitments.
+The concession costs the Map less than it might appear. The substantial self does not depend on narrative coherence; coherence is one way a persisting subject's life can be organised, and its absence in an episodic life leaves the subject in place. Narrative coherence accordingly plays a bounded part in the Map's case for the substantial self: it is one form the subject's persistence can take, not the evidence that there is a subject. Where the Map does part from Strawson is on his positive view that the subject is [[self-and-self-consciousness|thin and short-lived]] (Strawson, 2009), and that is a disagreement at the framework boundary: nothing in "Against Narrativity" bears on whether the subject persists, and nothing here refutes the transience thesis from inside Strawson's own commitments.
 
 ## Relation to Site Perspective
 
@@ -86,11 +86,11 @@ Narrative coherence connects to the Map's foundational commitments through its d
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Narrative coherence is not passive. When you reorganise your life narrative—reinterpreting past failures as preparation, redirecting future plans—you exercise causal influence on which physical outcomes unfold. The narrative revision is not an afterthought applied to events that would happen anyway; it shapes which events happen next. On the Map's reading, each choice made for narrative reasons (because it fits the life you are building) is an instance of consciousness selecting among physical possibilities for reasons that are irreducibly meaningful. That reading is posited, not established. The phenomenology shows that reinterpretation precedes changed behaviour; it does not show what does the selecting. A purely physical account—an interpreter module revises the story and the revised story shapes subsequent action, with no conscious selection anywhere in it—fits the same data, and the narrative void keeps that possibility open. What the tenet commits the Map to is that the selection is the subject's; nothing in narrative phenomenology forces that commitment.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A deflationary account would reduce narrative coherence to confabulation—the brain's tendency to generate post hoc explanations for its outputs. Confabulation is real, but narrative coherence is not exhausted by it. Confabulation produces explanations for individual actions; narrative coherence organises actions into temporal arcs that shape future behaviour. The simpler account (confabulation) cannot capture the forward-looking, project-sustaining, revisable structure of lived narrative coherence.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The crudest deflationary account reduces narrative coherence to [[confabulation-void|confabulation]]—the brain's tendency to generate post hoc explanations for its outputs. Confabulation in that narrow sense produces explanations for individual actions and does not capture the forward-looking, project-sustaining, revisable structure of lived coherence. The serious deflation is the interpreter-module account conceded above, on which a physical narrator does capture that structure and no subject is required. The Map does not claim to have refuted it; the claim is that the razor cannot settle the choice. Whether the story is told *to* anyone is exactly what the third-person data leave open, and preferring the account with one fewer entity is a bet on simplicity placed where the relevant knowledge—how, if at all, experience stands to the interpreter—is missing.
 
 ## Further Reading
 
-- [[diachronic-agency-and-personal-narrative]] — How narrative coherence grounds extended agency
+- [[diachronic-agency-and-personal-narrative]] — Narrative coherence as one route to extended agency, alongside non-narrative routes
 - [[the-self-minimal-narrative-and-substantial]] — Three layers of selfhood and where narrative fits
 - [[interpreter-module-narrative-construction-unity]] — Gazzaniga's interpreter and why confabulated coherence does not entail a constructed experiencer
 - [[narrative-void]] — Why the construction of self-narrative may be a physical interpreter's work that consciousness cannot audit, and Strawson's episodic/diachronic distinction
@@ -99,7 +99,7 @@ Narrative coherence connects to the Map's foundational commitments through its d
 - [[phenomenology-of-choice-and-volition]] — How choices feel authored and narratively grounded
 - [[temporal-consciousness]] — Temporal unity and experiential flow across time, which narrative coherence builds upon
 - [[parfit-reductionism]] — Why psychological continuity alone is insufficient
-- [[moral-responsibility]] — How coherence enables responsibility across time
+- [[moral-responsibility]] — How coherence supports responsibility across time
 - [[consciousness-and-probability-interpretation]] — Narrative coherence as consciousness's default lens
 - [[identity-across-transformations]] — How identity persists through radical change
 - [[haecceity]] — The irreducible thisness of the subject who experiences coherence

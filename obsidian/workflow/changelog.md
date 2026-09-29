@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T01:55:46+00:00
+ai_modified: 2026-09-29T02:55:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T02:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/narrative-coherence]]
+- **Word count**: 2352 → 2422 (+70)
+- **Critical issues addressed**: 2 (Occam paragraph contradicted the Bidirectional paragraph's interpreter-module concession — rewritten to rest on underdetermination; Strawson's "relatively Episodic" qualifier dropped — restored)
+- **Medium issues addressed**: 3 (intro "makes moral responsibility intelligible" → "helps make"; stale self-hedge in Absence section; two Further Reading labels carrying pre-refine claims)
+- **Enhancements made**: 1 (cross-link to confabulation-void)
+- **Citations**: Strawson 2004 (Ratio 17(4) 428–452) and Strawson 2009 (OUP) real-correct via Crossref; quote grep-verified verbatim in raw PDF text (clause-boundary truncation). Eight older refs unchanged since 07-13 ledger, not re-verified.
+- **Engagement modes**: Parfit — Mode Two; Velleman/constructionism — Mixed; Strawson — Mode Three (declared in prose). No label leakage.
+- **Output**: [[reviews/deep-review-2026-09-29-narrative-coherence]]
 
 ## 2026-09-29T01:55:46+00:00 - refine-draft
 - **Status**: Success
