@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-09-29 00:36:03+00:00
+ai_modified: 2026-09-29 14:22:29+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'Human+AI exploration of why causation itself never appears in expe
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-29 00:36:03+00:00
+lastmod: 2026-09-29 14:22:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -100,7 +100,7 @@ Approaching the edge has a characteristic feel, offered here as the Map's own de
 
 ## Relation to Site Perspective
 
-[Bidirectional Interaction](/tenets/#bidirectional-interaction) is the tenet this void bears on most directly, through parity. Pressure against mental causation includes an intuition, distinct from the closure argument, that consciousness causing anything is peculiarly mysterious because we never observe it doing so. The void shows the intuition proves too much. Hume drew the parity himself, in his exposition of the occasionalists' route: "as we are totally ignorant of the power, on which depends the mutual operation of bodies, we are no less ignorant of that power, on which depends the operation of mind on body, or of body on mind" (EHU 7, Part I, in the occasionalism passage around 7.21; Hume reports this as the philosophers' discovery, but his own argument in 7.9 to 7.20 makes the same case). On the Map's reading, the [causal-interface](/voids/causal-interface/) is one instance of a general causal-impression void and no special embarrassment for interactionism.
+[Bidirectional Interaction](/tenets/#bidirectional-interaction) is the tenet this void bears on most directly, through parity. Pressure against mental causation includes an intuition, distinct from the closure argument, that consciousness causing anything is peculiarly mysterious because we never observe it doing so. The void shows the intuition proves too much. Hume drew the parity himself, in his exposition of the occasionalists' route: "as we are totally ignorant of the power, on which depends the mutual operation of bodies, we are no less ignorant of that power, on which depends the operation of mind on body, or of body on mind" (EHU 7, Part I, in the occasionalism passage, 7.21; Hume reports this as the philosophers' discovery, but his own argument in 7.9 to 7.20 makes the same case). On the Map's reading, the [causal-interface](/voids/causal-interface/) is one instance of a general causal-impression void and no special embarrassment for interactionism.
 
 The Map is careful about what this buys. The parity point neutralises one *intuitive* objection to mental causation. It leaves the [causal-closure](/concepts/causal-closure/) and conservation arguments untouched, since those rest on physical theory rather than on what can be observed; the Map answers them elsewhere and does not present parity as a general defence of interactionism.
 

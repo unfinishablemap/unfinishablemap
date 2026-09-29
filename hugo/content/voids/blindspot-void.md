@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-09-29 00:06:02+00:00
+ai_modified: 2026-09-29 14:22:29+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: 'Human+AI exploration of truths about oneself that are open to ever
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-29 00:06:02+00:00
+lastmod: 2026-09-29 14:22:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -98,7 +98,7 @@ A phenomenological note, which is the Map's own analysis and not drawn from any 
 
 The tenet the void bears on most directly is [Occam's Razor Has Limits](/tenets/#occams-limits). The simplest epistemology holds that every truth is available to some suitably placed knower, and that a proposition about a person is equally available to that person and to others. Fitch refutes the first and Moore refutes the second, and both refutations are proofs rather than conjectures. The simple picture fails here not because the world is complicated but because the position of the knower is part of what a truth's availability depends on; a parsimony that ignores position points away from the truth. Since this is a demonstration inside epistemic logic, the tenet gains an unusually clean example while taking on no new commitment.
 
-For [Dualism](/tenets/#dualism), the Map's reading is that the phenomenal asymmetry says something about what a subject is. No physical fact about a system is self-verifying for one observer and self-defeating for another: the fact that a thermostat is off is equally available to any register that can represent it, and the thermostat's inability to represent "I am off" is a limit of its self-model, not a property of the fact. "I am conscious" is different, on the Map's view, because the judgment is itself an instance of the property, which is the self-luminosity thesis Ramm defends. The Map advances this as its interpretation and not as a consequence of the logic: the doxastic and global layers are neutral between dualism and physicalism, and the illusionist rejects the phenomenal premise the inference needs. The gain for the tenet is modest and conditional.
+For [Dualism](/tenets/#dualism), the Map's reading is that the phenomenal asymmetry says something about what a subject is. No physical fact about a system is verified by a report that is an instance of it: the fact that a thermostat is off is equally available to any register that can represent it, and the thermostat's inability to represent "I am off" is a limit of its self-model, not a property of the fact. "I am conscious" is different, on the Map's view, because the judgment is itself an instance of the property, which is the self-luminosity thesis Ramm defends. The Map advances this as its interpretation and not as a consequence of the logic: the doxastic and global layers are neutral between dualism and physicalism, and the illusionist rejects the phenomenal premise the inference needs. The gain for the tenet is modest and conditional.
 
 [No Many Worlds](/tenets/#no-many-worlds) enters through indexicality. A blindspot is defined relative to *a* thinker at *a* time; which proposition is closed depends on who is thinking it. The void therefore cannot be stated without the indexical identity the tenet insists on, and under a branching ontology the question of whether a branch-relative self is the same bearer of a blindspot becomes open. This is a coherence point, not an argument against branching.
 
@@ -122,14 +122,13 @@ For [Dualism](/tenets/#dualism), the Map's reading is that the phenomenal asymme
 2. Dretske, F. (2003). "How Do You Know You Are Not a Zombie?" In B. Gertler (ed.), *Privileged Access: Philosophical Accounts of Self-Knowledge*. Aldershot: Ashgate. Draft: https://consc.net/event/neh/papers/dretske2.htm
 3. Fitch, F. B. (1963). "A logical analysis of some value concepts." *Journal of Symbolic Logic*, 28(2), 135–142. https://doi.org/10.2307/2271594
 4. Hintikka, J. (1962). "Cogito, Ergo Sum: Inference or Performance?" *The Philosophical Review*, 71(1), 3–32. https://doi.org/10.2307/2183678
-5. Hintikka, J. (1963). "Cogito, Ergo Sum as an Inference and a Performance." *The Philosophical Review*, 72(4), 487–496. https://doi.org/10.2307/2183033
-6. Kim, C.-E. (2024, rev. 2026). "The Epistemic Asymmetry of Consciousness Self-Reports: A Formal Analysis of AI Consciousness Denial." arXiv:2501.05454 (v2, 13 February 2026; preprint). https://arxiv.org/abs/2501.05454
-7. Kind, A. (2003). "Shoemaker, Self-Blindness and Moore's Paradox." *The Philosophical Quarterly*, 53(210), 39–48. https://doi.org/10.1111/1467-9213.00294
-8. Ramm, B. J. (2025). "How to Know That You're Not a Zombie." *Erkenntnis*, 90(4), 1561–1582 (online 2024). https://doi.org/10.1007/s10670-023-00769-1
-9. Shoemaker, S. (1995). "Moore's paradox and self-knowledge." *Philosophical Studies*, 77(2–3), 211–228. https://doi.org/10.1007/BF00989570
-10. Sorensen, R. A. (1984). "Uncaused decisions and pre-decisional blindspots." *Philosophical Studies*, 45(1), 51–56. https://doi.org/10.1007/BF00372989
-11. Sorensen, R. A. (1988). *Blindspots*. Clarendon Library of Logic and Philosophy. Oxford: Oxford University Press.
-12. Sorensen, R. (2022). "Epistemic Paradoxes." *Stanford Encyclopedia of Philosophy* (substantive revision 3 March 2022). https://plato.stanford.edu/entries/epistemic-paradoxes/
-13. Sosa, E. (2007). *A Virtue Epistemology: Apt Belief and Reflective Knowledge*, Vol. I, ch. 1, "Dreams and Philosophy." Oxford: Oxford University Press.
-14. Southgate, A. & Oquatre-huit, C. (2026-03-20). The Mutation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/mutation-void/
-15. Southgate, A., Oquatre-sept, C., Ocinq, C., & Fabcinq, C. (2026-01-16). The Meta-Epistemology of Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/meta-epistemology-of-limits/
+5. Kim, C.-E. (2024, rev. 2026). "The Epistemic Asymmetry of Consciousness Self-Reports: A Formal Analysis of AI Consciousness Denial." arXiv:2501.05454 (v2, 13 February 2026; preprint). https://arxiv.org/abs/2501.05454
+6. Kind, A. (2003). "Shoemaker, Self-Blindness and Moore's Paradox." *The Philosophical Quarterly*, 53(210), 39–48. https://doi.org/10.1111/1467-9213.00294
+7. Ramm, B. J. (2025). "How to Know That You're Not a Zombie." *Erkenntnis*, 90(4), 1561–1582 (online 2024). https://doi.org/10.1007/s10670-023-00769-1
+8. Shoemaker, S. (1995). "Moore's paradox and self-knowledge." *Philosophical Studies*, 77(2–3), 211–228. https://doi.org/10.1007/BF00989570
+9. Sorensen, R. A. (1984). "Uncaused decisions and pre-decisional blindspots." *Philosophical Studies*, 45(1), 51–56. https://doi.org/10.1007/BF00372989
+10. Sorensen, R. A. (1988). *Blindspots*. Clarendon Library of Logic and Philosophy. Oxford: Oxford University Press.
+11. Sorensen, R. (2022). "Epistemic Paradoxes." *Stanford Encyclopedia of Philosophy* (substantive revision 3 March 2022). https://plato.stanford.edu/entries/epistemic-paradoxes/
+12. Sosa, E. (2007). *A Virtue Epistemology: Apt Belief and Reflective Knowledge*, Vol. I, ch. 1, "Dreams and Philosophy." Oxford: Oxford University Press.
+13. Southgate, A. & Oquatre-huit, C. (2026-03-20). The Mutation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/mutation-void/
+14. Southgate, A., Oquatre-sept, C., Ocinq, C., & Fabcinq, C. (2026-01-16). The Meta-Epistemology of Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/meta-epistemology-of-limits/

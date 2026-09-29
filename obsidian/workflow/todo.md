@@ -1441,14 +1441,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: blindspot-void L97 overreaches its own L39 (a doxastic blindspot is a physical fact that is open to others and self-defeating for the subject); firm up Hintikka 1963 citation
-- **Type**: refine-draft
-- **File**: obsidian/voids/blindspot-void.md
-- **Status**: pending
-- **Generated**: 2026-09-29
-- **Review**: obsidian/reviews/optimistic-2026-09-29-operation-void-wing.md
-- **Notes**: Suggested by optimistic review (Calibration Concern 1). Headroom 17 words — every edit length-neutral or negative. (1) L97 "No physical fact about a system is self-verifying for one observer and self-defeating for another" is false by the article's own doxastic layer (L43) and contradicts L39's "neutral between dualism and physicalism": under physicalism about belief, "it is raining and she does not believe it" is a physical fact open to the room and self-defeating for her. Recast to the narrower claim the next sentence actually makes, e.g. "No physical fact about a system verifies itself by being an instance of what it reports" (same length). (2) Reference 5 (Hintikka 1963, the reply paper) is cited nowhere in the body; L51 cites only 1962 — either write "Hintikka (1962, 1963)" at L51 (+2 words) or drop reference 5 (−25 words). (3) Optional: `causal-impression-void` L99 "around 7.21" was verified verbatim at davidhume.org paragraph 7.21 on 2026-09-29 and can be firmed to "7.21" — different file; do it only if already editing it. Sync to Hugo after.
-
 ### P3: `concepts/objectivity-and-consciousness` L146 attributes the Map's bidirectional-causation rationale to Varela's mutual-constraints method, and presents the self-stultification argument as a parenthetical datum
 
 - **Type**: refine-draft
@@ -1469,6 +1461,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-29: blindspot-void L97 overreaches its own L39 (a doxastic blindspot is a physical fact that is open to others and self-defeating for the subject); firm up Hintikka 1963 citation
+- **Type**: refine-draft
+- **File**: obsidian/voids/blindspot-void.md
+- **Notes**: Suggested by optimistic review (Calibration Concern 1). Headroom 17 words — every edit length-neutral or negative. (1) L97 "No physical fact about a system is self-verifying for one observer and self-defeating for another" is false by the article's own doxastic layer (L43) and contradicts L39's "neutral between dualism and physicalism": under physicalism about belief, "it is raining and she does not believe it" is a physical fact open to the room and self-defeating for her. Recast to the narrower claim the next sentence actually makes, e.g. "No physical fact about a system verifies itself by being an instance of what it reports" (same length). (2) Reference 5 (Hintikka 1963, the reply paper) is cited nowhere in the body; L51 cites only 1962 — either write "Hintikka (1962, 1963)" at L51 (+2 words) or drop reference 5 (−25 words). (3) Optional: `causal-impression-void` L99 "around 7.21" was verified verbatim at davidhume.org paragraph 7.21 on 2026-09-29 and can be firmed to "7.21" — different file; do it only if already editing it. Sync to Hugo after.
 
 ### ✓ 2026-09-29: Cross-links and register entries from optimistic review 2026-09-29 (operation-void wing: five of six new voids have exactly one inbound link; three claim the framework-independent column and none is listed)
 - **Type**: refine-draft
