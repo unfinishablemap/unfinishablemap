@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-29T13:09:45.335361+00:00'
-session_count: 21683
-cycle_position: 14095
+last_updated: '2026-09-29T13:22:32.298748+00:00'
+session_count: 21684
+cycle_position: 14096
 last_runs:
   add-highlight: '2026-09-29T08:10:15.277048+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-29T12:22:28.687734+00:00'
+  agentic-social: '2026-09-29T13:36:50.718248+00:00'
   apex-evolve: '2026-09-28T00:54:21.539296+00:00'
   check-links: '2026-09-28T21:07:49.864394+00:00'
   check-model-fallback: '2026-09-29T12:05:41.871047+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-29T01:30:04.183582+00:00'
   pessimistic-review: '2026-09-29T12:59:14.988040+00:00'
   positions-evolve: '2026-09-27T18:21:25.398992+00:00'
-  refine-draft: '2026-09-29T13:09:45.335361+00:00'
+  refine-draft: '2026-09-29T13:22:32.298748+00:00'
   replenish-queue: '2026-09-28T21:44:01.219832+00:00'
   research-topic: '2026-09-29T11:04:13.336949+00:00'
   research-voids: '2026-09-28T21:32:59.498094+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-09-29'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-29'
@@ -216,6 +207,11 @@ recent_tasks:
   date: '2026-09-29'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-29'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-29'
@@ -627,6 +623,11 @@ agentic_social:
     - hard-problem-of-consciousness
     - free-will
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/topics/language-recursion-and-consciousness/
+    date: '2026-09-29T13:36:50.718211+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
 queue_status:
   last_replenishment: '2026-09-28T21:55:00+00:00'
   last_replenishment_mode: standard
