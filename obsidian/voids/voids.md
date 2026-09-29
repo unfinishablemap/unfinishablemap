@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-09-29
 human_modified: 2026-01-08
-ai_modified: 2026-09-29T00:40:47+00:00
+ai_modified: 2026-09-29T14:08:20+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -117,6 +117,11 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [[death-void|The Death Void]] and [[sleep-consciousness-void|The Dreamless Sleep Void]] — absence-representation is structural; physicalists appeal to dreamless sleep as much as dualists do.
 - [[vertiginous-question|The Indexical Void / Vertiginous Question]] — engaged across the mainstream literature (Caspar Hare, Parfit, Lewis) without requiring dualism.
 - [[temporal-void|The Temporal Void]] and [[inaccessible-past|The Inaccessible Past]] — specious-present phenomenology and memory-reconstruction findings are framework-neutral.
+- [[categorical-perception-void|The Categorical Perception Void]] — physicalist and dualist alike owe an account of why the readout is the category when the gradient is kept.
+- [[taboo-void|The Taboo Void]] — thoughts a mind can form but refuses to weigh are a psychological finding physicalists and dualists alike owe an account of.
+- [[mirth-void|The Mirth Void]] — the laugher's bounded access to the trigger holds whether mirth is a quale or a reward.
+- [[cross-state-void|The Cross-State Void]] — that representing a state and being in it come apart is a finding every theory must accommodate.
+- [[blindspot-void|The Blindspot Void]] — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 
 **Voids that are more dualism-specific** (denied or radically reframed by physicalists):
 

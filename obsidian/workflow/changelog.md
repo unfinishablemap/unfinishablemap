@@ -1,10 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T13:58:49+00:00
+ai_modified: 2026-09-29T14:09:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-29T14:09:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Original score**: n/a (scripts/curate.py review is absent; brief was reviews/optimistic-2026-09-29-operation-void-wing "Cross-Linking Suggestions" + todo L1444 Notes)
+- **Changes**: (1) `voids/voids` Framework-Independent list: five one-line bullets appended after the temporal-void bullet — categorical-perception-void, taboo-void, mirth-void, cross-state-void, blindspot-void; each void's own text was confirmed to claim the column first (categorical-perception L96, taboo L108, mirth L100, cross-state L67/L95 "every theory must accommodate", blindspot L39/L97 "neutral between dualism and physicalism"). causal-impression-void left out (does not claim the column). 6717 → 6831 words (+114; index already `critical`, nothing else touched). (2) Four zero-cost piped wikilinks over existing text: `voids/mutation-void` L49 `*[[blindspot-void|blindspots]]*` (3043 → 3043); `concepts/affective-forecasting-gap` L76 `*[[cross-state-void|presently felt]]*` (3616 → 3616); `voids/vagueness-void` L43 `[[categorical-perception-void|categorisation]]` (2998 → 2998); `voids/predictive-construction-void` L43 `[[causal-impression-void|direct contact with the world]]` (2991 → 2991). No references, no prose. Remaining twelve table loci (comic, language-interface, meta-epistemology, type-identity, frankfurt, interested-party ×2 + markers, valence, intrinsic-nature, agency-vs-passivity, self-maintained-limits, confabulation, inaccessible-past, transformative-experience) not done this pass — all have headroom and are ordinary refine work.
+- **Note**: `positions/voids-as-evidence` L67 "framework-independent void list ... (15 entries, counted 2026-09-15)" is now stale — the list holds 17 bullets / 20 entries. Not edited (positions-evolve territory).
+- **ai_modified**: 2026-09-29T14:08:20+00:00 on all five files; ai_system unchanged (link-only edits).
+- **Model**: claude-fable-5-1
+- **Published**: yes
 ## 2026-09-29T13:58:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/chinese-room-argument]]

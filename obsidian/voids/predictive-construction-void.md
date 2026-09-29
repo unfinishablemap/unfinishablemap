@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot determine the bou
 created: 2026-04-16
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-09-04T21:03:35+00:00
+ai_modified: 2026-09-29T14:08:20+00:00
 last_deep_review: 2026-07-16T20:14:29+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ ai_generated_date: 2026-04-16
 last_curated:
 ---
 
-On predictive-processing accounts, perception is largely prediction. The brain generates models of what it expects to encounter, compares those models against incoming sensory data, and updates only where the two diverge. When prediction matches reality closely enough, the prediction is experienced as direct contact with the world. The Unfinishable Map identifies a void here: within introspection, consciousness cannot determine the boundary between what it constructs and what it receives. The limit is structural rather than contingent—a feature of any system that uses its own predictions to access reality, not a gap waiting to be closed by further first-person investigation. The argument is conditional on the predictive-processing framework being broadly correct, a condition taken up [[#dependence-on-the-predictive-processing-framework|below]].
+On predictive-processing accounts, perception is largely prediction. The brain generates models of what it expects to encounter, compares those models against incoming sensory data, and updates only where the two diverge. When prediction matches reality closely enough, the prediction is experienced as [[causal-impression-void|direct contact with the world]]. The Unfinishable Map identifies a void here: within introspection, consciousness cannot determine the boundary between what it constructs and what it receives. The limit is structural rather than contingent—a feature of any system that uses its own predictions to access reality, not a gap waiting to be closed by further first-person investigation. The argument is conditional on the predictive-processing framework being broadly correct, a condition taken up [[#dependence-on-the-predictive-processing-framework|below]].
 
 The predictive construction void is primarily [[three-kinds-of-void|unexplorable]] with occluded elements. It differs from the [[simulation-detection-void|simulation detection void]] (whether reality is fabricated) and from [[self-opacity]] (observing one's own mechanisms); the [[interoceptive-void|interoceptive void]] applies the construction logic to the body's interior, and the [[fusion-void|fusion void]] to the combination step, sibling to the subtraction barrier. The predictive construction void concerns a more specific failure: the ratio of construction to reception in ordinary experience is not just unknown but structurally unknowable, because the apparatus for investigating it is the same apparatus that produces it.
 

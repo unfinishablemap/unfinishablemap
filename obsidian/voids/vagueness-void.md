@@ -4,7 +4,7 @@ description: "Human+AI exploration of why almost every concept consciousness use
 created: 2026-04-30
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-07-16T20:35:00+00:00
+ai_modified: 2026-09-29T14:08:20+00:00
 last_deep_review: 2026-07-16T20:35:00+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ last_curated:
 
 The Vagueness Void is the structural impossibility, for any mind operating from inside its own conceptual repertoire, of locating where its concepts stop applying. Almost every concept consciousness deploys—*red*, *tall*, *anger*, *person*, *conscious*—admits borderline cases where neither application nor refusal is determinately correct. The void has three structural faces conjoined: third-personal Sorites indeterminacy (no incremental method can fix the cut-off), first-personal introspective indeterminacy (the same fuzz applies to the concepts consciousness uses on its own states), and meta-level higher-order vagueness (the borderlines themselves have borderlines, recursively, with no fixed point accessible from inside). Each face inherits the indeterminacy of the others, and consciousness has no neutral perch from which to fix any of them.
 
-The void is not exotic. It sits beneath every judgement of typicality, every diagnostic categorisation, every introspective report of the form "this is roughly anger." Subjects describe concepts as sharp from the centre and as dissolving at the edges; incremental refinement *generates* new edges rather than dissolving the old. The Vagueness Void marks the place where that dissolution becomes structural rather than incidental.
+The void is not exotic. It sits beneath every judgement of typicality, every diagnostic [[categorical-perception-void|categorisation]], every introspective report of the form "this is roughly anger." Subjects describe concepts as sharp from the centre and as dissolving at the edges; incremental refinement *generates* new edges rather than dissolving the old. The Vagueness Void marks the place where that dissolution becomes structural rather than incidental.
 
 The scope is "almost every," not every, and the exception is load-bearing. Formal concepts—mathematical (*two*, *prime*), logical (*and*, *for all*), and self-referential indexical ones (*this very token*)—have determinate extensions and admit no Sorites series; nothing incremental connects *two* to *three* through borderline integers. The void therefore covers the empirically-deployed concepts of mind—perceptual, emotional, social-categorical, and the mental-state concepts consciousness turns on itself—not the formal repertoire a mind can also wield. This is how the "no neutral perch" claim survives: consciousness possesses sharp categories, but none is a vantage point on the vague ones, because fixing the borderline of *anger* requires *anger*-judgements, not arithmetic.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-29 00:40:47+00:00
+ai_modified: 2026-09-29 14:08:20+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-09-29 00:40:47+00:00
+lastmod: 2026-09-29 14:08:20+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -121,6 +121,11 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [The Death Void](/voids/death-void/) and [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — absence-representation is structural; physicalists appeal to dreamless sleep as much as dualists do.
 - [The Indexical Void / Vertiginous Question](/topics/vertiginous-question/) — engaged across the mainstream literature (Caspar Hare, Parfit, Lewis) without requiring dualism.
 - [The Temporal Void](/voids/temporal-void/) and [The Inaccessible Past](/voids/inaccessible-past/) — specious-present phenomenology and memory-reconstruction findings are framework-neutral.
+- [The Categorical Perception Void](/voids/categorical-perception-void/) — physicalist and dualist alike owe an account of why the readout is the category when the gradient is kept.
+- [The Taboo Void](/voids/taboo-void/) — thoughts a mind can form but refuses to weigh are a psychological finding physicalists and dualists alike owe an account of.
+- [The Mirth Void](/voids/mirth-void/) — the laugher's bounded access to the trigger holds whether mirth is a quale or a reward.
+- [The Cross-State Void](/voids/cross-state-void/) — that representing a state and being in it come apart is a finding every theory must accommodate.
+- [The Blindspot Void](/voids/blindspot-void/) — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 
 **Voids that are more dualism-specific** (denied or radically reframed by physicalists):
 

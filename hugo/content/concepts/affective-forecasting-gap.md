@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-09-05 22:06:00+00:00
+ai_modified: 2026-09-29 14:08:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 01:34:00+00:00
-lastmod: 2026-09-05 22:06:00+00:00
+lastmod: 2026-09-29 14:08:20+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
@@ -77,7 +77,7 @@ So flagged, the gap is an exhibit for the value-blind rival, which predicts the 
 
 ## The Disambiguation the Map Must Make
 
-Posed as exclusive—either the outcome's *experienced* valence selects, which the evidence refuses, or *anticipated* valence selects through a mechanism-like predictor—the choice is mis-posed, as the parent's [anticipation problem](/topics/valence-and-conscious-selection/#limits-and-open-questions) had gestured. The dread of the appointment and the relish of the meal are occurrent valences at choice—anticipated in their *object*, experienced in their *vehicle*, an instant utility of their own—and the option most congenial to interactionism: selection consults a *presently felt* valence, the experienced quality of simulating each outcome, without backward causation or non-phenomenal computation; the forecasting literature then documents an epistemic fact, that felt anticipation at t₁ forecasts the outcome's felt valence at t₂ only conditionally well. That is anticipatory emotion, and a forecast need not be one: a cool anticipated-emotion judgement with flat present affect gives this reading no felt input, so such choices go to the mechanism or to some other present valence—why [P-VS1](/positions/value-in-selection/#p-vs1) names the currency *presently felt*, and why the rows below test it under that reading only.
+Posed as exclusive—either the outcome's *experienced* valence selects, which the evidence refuses, or *anticipated* valence selects through a mechanism-like predictor—the choice is mis-posed, as the parent's [anticipation problem](/topics/valence-and-conscious-selection/#limits-and-open-questions) had gestured. The dread of the appointment and the relish of the meal are occurrent valences at choice—anticipated in their *object*, experienced in their *vehicle*, an instant utility of their own—and the option most congenial to interactionism: selection consults a *[presently felt](/voids/cross-state-void/)* valence, the experienced quality of simulating each outcome, without backward causation or non-phenomenal computation; the forecasting literature then documents an epistemic fact, that felt anticipation at t₁ forecasts the outcome's felt valence at t₂ only conditionally well. That is anticipatory emotion, and a forecast need not be one: a cool anticipated-emotion judgement with flat present affect gives this reading no felt input, so such choices go to the mechanism or to some other present valence—why [P-VS1](/positions/value-in-selection/#p-vs1) names the currency *presently felt*, and why the rows below test it under that reading only.
 
 This softens the dilemma without cancelling the cost, and must not trade on an ambiguity: "currency" can mean what selection is causally *sensitive to* or what it is normatively *for*. In the first sense the candidate is the felt valence of anticipation; in the second, the outcome's experienced valence, which [consciousness-value-connection](/concepts/consciousness-value-connection/) argues constitutes value. The "constitutes value" horn answers the second question where the first was posed—a relocation rather than a division of labour: value-sensitivity moves from the outcome to the present feeling that forecasts it. Whether that feeling selects *as felt*, or a sub-personal predictor selects and the feeling accompanies, is the fork this article cannot close and the value-blind steelman presses.
 

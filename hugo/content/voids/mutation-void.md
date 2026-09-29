@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-04 09:10:36+00:00
+ai_modified: 2026-09-29 14:08:20+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 18:35:43+00:00
-lastmod: 2026-09-04 09:10:36+00:00
+lastmod: 2026-09-29 14:08:20+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ Not all mutations work alike.
 
 Some thoughts undermine the act of thinking them. "I am asleep" is false whenever consciously entertained; "I have no thoughts" is falsified in the having; "I am completely unaware" generates awareness in its formulation. Holding any of these is what defeats it, so the content cannot be stably occupied.
 
-These belong to the family Roy Sorensen calls *blindspots*: propositions that may be true yet cannot be rationally accepted by a particular thinker, the Moore-paradoxical "it is raining but I do not believe it" being canonical (Sorensen, 1988). A blindspot characterises a thinker's epistemic relation to a content rather than any transformation of phenomenal experience—such contents cannot be inhabited and examined at once.
+These belong to the family Roy Sorensen calls *[blindspots](/voids/blindspot-void/)*: propositions that may be true yet cannot be rationally accepted by a particular thinker, the Moore-paradoxical "it is raining but I do not believe it" being canonical (Sorensen, 1988). A blindspot characterises a thinker's epistemic relation to a content rather than any transformation of phenomenal experience—such contents cannot be inhabited and examined at once.
 
 ### Temporal Mutations
 
