@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T02:55:00+00:00
+ai_modified: 2026-09-29T03:25:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-29T03:25:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/three-kinds-of-void]] (plus one-sentence pointer in [[apex/taxonomy-of-voids]])
+- **Original score**: n/a (`scripts/curate.py review` absent; targeted task from optimistic-review 2026-09-29, todo L1440)
+- **Changes**: Added a 169-word paragraph to "Between the Categories" naming the operation-void family that `fusion-void` L78/L106 and `categorical-perception-void` L66/L96 already invoke but no hub defined: content fully lit, an operation on it dark; ten members each with a bare wikilink (fusion, inference, transit, decision, categorical perception, blindspot, causal-impression, cross-state, mirth, taboo), each member's dark operation stated in the member's own terms (no evidential tier upgraded); cross-classified as Occluded at the readout / Unexplorable at the operation. Apex L131: one pointer sentence to the hub section, paid for by two same-paragraph trims (aphantasia gloss already developed in imagery void; "along dimensions orthogonal to" -> "orthogonally to"). Lengths after: hub 2606/3000, apex 4911/5000 (`analyze_length`). Synced; both Hugo copies carry the edits and all ten targets resolve. Editor note: no named-opponent engagement in the added prose, so no reasoning-mode classification applies.
+- **Published**: yes
+
 
 ## 2026-09-29T02:55:00+00:00 - deep-review
 - **Status**: Success

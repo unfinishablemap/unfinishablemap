@@ -1437,15 +1437,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: Name the operation-void family on three-kinds-of-void (six new voids share one unnamed structure; categorical-perception-void L96 points at a family the taxonomy apex never names)
-- **Type**: refine-draft
-- **File**: obsidian/voids/three-kinds-of-void.md
-- **Secondary file**: obsidian/apex/taxonomy-of-voids.md (one-sentence pointer at L131 where cross-cutting axes are listed; headroom 99 — one sentence only)
-- **Status**: pending
-- **Generated**: 2026-09-29
-- **Review**: obsidian/reviews/optimistic-2026-09-29-operation-void-wing.md
-- **Notes**: Suggested by optimistic review. `fusion-void` L78/L106 and `categorical-perception-void` L66/L96 name an "operation-void family" and L96 says it lives in `apex/taxonomy-of-voids`; the apex body does not name it (grep `operation` in the apex: no family). Add ~120 words to the "Between the Categories" section (L83) of `three-kinds-of-void` (2437 words, headroom 562) naming the family: content fully lit, an operation on it dark — fusion, inference, transit, decision, categorical perception, and the 2026-09-28/29 six (blindspot: uptake fails; causal impression: relation never appears; cross-state: weight does not cross; mirth: reason built afterwards; taboo: comparison never run). Frame as Occluded at the readout, Unexplorable at the operation — that is the cross-classification the section exists for. Link every member with a bare wikilink (all slugs verified live 2026-09-29). Then one sentence in the apex at L131 pointing to it. Do not create a new page (voids 109/115; concepts at 335).
-
 ### P3: Cross-links and register entries from optimistic review 2026-09-29 (operation-void wing: five of six new voids have exactly one inbound link; three claim the framework-independent column and none is listed)
 - **Type**: refine-draft
 - **File**: obsidian/voids/voids.md
@@ -1465,6 +1456,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-29: Name the operation-void family on three-kinds-of-void (six new voids share one unnamed structure; categorical-perception-void L96 points at a family the taxonomy apex never names)
+- **Type**: refine-draft
+- **File**: obsidian/voids/three-kinds-of-void.md
+- **Notes**: Suggested by optimistic review. `fusion-void` L78/L106 and `categorical-perception-void` L66/L96 name an "operation-void family" and L96 says it lives in `apex/taxonomy-of-voids`; the apex body does not name it (grep `operation` in the apex: no family). Add ~120 words to the "Between the Categories" section (L83) of `three-kinds-of-void` (2437 words, headroom 562) naming the family: content fully lit, an operation on it dark — fusion, inference, transit, decision, categorical perception, and the 2026-09-28/29 six (blindspot: uptake fails; causal impression: relation never appears; cross-state: weight does not cross; mirth: reason built afterwards; taboo: comparison never run). Frame as Occluded at the readout, Unexplorable at the operation — that is the cross-classification the section exists for. Link every member with a bare wikilink (all slugs verified live 2026-09-29). Then one sentence in the apex at L131 pointing to it. Do not create a new page (voids 109/115; concepts at 335).
 
 ### ✓ 2026-09-29: Address pessimistic-review findings in voids/categorical-perception-void (split report-vs-phenomenal default; three-way origin; net-negative length)
 - **Type**: refine-draft

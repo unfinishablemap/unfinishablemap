@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-08-24 22:16:57+00:00
+ai_modified: 2026-09-29 03:25:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-01 00:18:24+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-08-24 22:16:57+00:00
+lastmod: 2026-09-29 03:25:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -138,7 +138,7 @@ A second major cluster concerns the qualitative character of experience. The [bi
 
 These voids concern aspects of consciousness so fundamental they are invisible in ordinary experience. The [ineffable encounter void](/voids/ineffable-encounter-void/) complicates the cluster: most voids are defined by *absence*, this one by *presence*—an excess of meaning that overwhelms the cognitive apparatus. Consciousness encounters something (felt significance in music, ideas, sacred moments) it registers as genuine knowing yet cannot inspect, the experience dissolving under analytical attention. Traditions with partly shared lineage—Gendlin's felt sense, Otto's numinous, Polanyi's [tacit integration](/voids/tacit-integration-void/), Rosa's resonance—recur on the same structure; grouped by what each actually claims the recurrence is genealogical rather than independent, though dissolution under attention and non-manufacturability resist that sourcing. In its numinous register the void sharpens: numinous experience dismantles the very mechanism needed to assess it.
 
-Three cross-cutting axes redistribute the catalogue along dimensions orthogonal to the four-kinds typology. The [presence/absence axis](/concepts/presence-type-and-absence-type-voids/) sorts voids by the phenomenology of approach: presence-type voids—the [aesthetic](/voids/creative-aesthetic-void/), [surplus](/voids/the-surplus-void/), [silence](/voids/the-silence-void/), and [affective](/voids/affective-void/) voids—register as overwhelm rather than lack, a saturated encounter that dissolves under inspection rather than a gap to map. The [phenomenology-vs-function axis](/concepts/phenomenology-vs-function-axis/) sorts voids by what comes apart at the boundary: the [synesthetic void](/voids/synesthetic-void/) is the cleanest exemplar (Gray 2003—identical qualia from distinct functional roles, and the reverse), and the imagery void's grain-of-function wedge (aphantasic and visualising minds solving rotation by different strategies; Kay, Keogh & Pearson 2024), Strawson's argument for [cognitive phenomenology](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/), and Wegner's I-Spy in the [agency void](/voids/agency-void/) all run the same empirical wedge against identifying phenomenal character with functional role. The **content / capacity / medium-status axis** unifies the [mattering](/voids/mattering-void/), [relevance](/voids/relevance-void/), [noetic-feelings](/voids/noetic-feelings-void/), and [conceptual-scheme](/voids/conceptual-scheme-void/) voids: each names an operation that structures other contents without appearing as content—the eye that cannot see itself seeing, developed in the [medium-status synthesis](/apex/medium-status-voids-in-cognition/).
+Three cross-cutting axes redistribute the catalogue orthogonally to the four-kinds typology. The [presence/absence axis](/concepts/presence-type-and-absence-type-voids/) sorts voids by the phenomenology of approach: presence-type voids—the [aesthetic](/voids/creative-aesthetic-void/), [surplus](/voids/the-surplus-void/), [silence](/voids/the-silence-void/), and [affective](/voids/affective-void/) voids—register as overwhelm rather than lack, a saturated encounter that dissolves under inspection rather than a gap to map. The [phenomenology-vs-function axis](/concepts/phenomenology-vs-function-axis/) sorts voids by what comes apart at the boundary: the [synesthetic void](/voids/synesthetic-void/) is the cleanest exemplar (Gray 2003—identical qualia from distinct functional roles, and the reverse), and the imagery void's grain-of-function wedge (Kay, Keogh & Pearson 2024), Strawson's argument for [cognitive phenomenology](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/), and Wegner's I-Spy in the [agency void](/voids/agency-void/) all run the same empirical wedge against identifying phenomenal character with functional role. The **content / capacity / medium-status axis** unifies the [mattering](/voids/mattering-void/), [relevance](/voids/relevance-void/), [noetic-feelings](/voids/noetic-feelings-void/), and [conceptual-scheme](/voids/conceptual-scheme-void/) voids: each names an operation that structures other contents without appearing as content—the eye that cannot see itself seeing, developed in the [medium-status synthesis](/apex/medium-status-voids-in-cognition/). The operation-void family—content fully lit, an operation on it dark—is a cross-classification rather than an axis, set out under [Between the Categories](/voids/three-kinds-of-void/#between-the-categories).
 
 ### The Access Cluster
 
