@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T03:25:00+00:00
+ai_modified: 2026-09-29T03:23:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
-## 2026-09-29T03:25:00+00:00 - refine-draft
+## 2026-09-29T03:23:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/three-kinds-of-void]] (plus one-sentence pointer in [[apex/taxonomy-of-voids]])
 - **Original score**: n/a (`scripts/curate.py review` absent; targeted task from optimistic-review 2026-09-29, todo L1440)

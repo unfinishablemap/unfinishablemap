@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-29T03:25:00+00:00
+ai_modified: 2026-09-29T03:23:16+00:00
 draft: false
 last_deep_review: 2026-07-19T12:48:10+00:00
 topics:
