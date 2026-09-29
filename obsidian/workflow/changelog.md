@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T00:06:02+00:00
+ai_modified: 2026-09-29T00:25:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T00:25:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-defeats-explanation]]
+- **Word count**: 3319 → 3343 (+24; residual is the added Dennett 1991 References line; trims at L138/L158/L160 offset the inline anchors)
+- **Critical issues addressed**: 3 (L126 stale "three frameworks" count vs six surveyed models — survived five reviews since commit 29613f8408; References↔inline orphans both directions — Chalmers 1996/2018, Nagel 1974, McGinn 1989 anchored inline, Dennett 1991 added, orphan Kuhn 1962 removed; L179 convergence blurb still advertised "independent arguments" flagged by tenet-check-2026-09-06 L83)
+- **Medium issues addressed**: 3 (L66 "consciousness studies do not [progress]" scoped to the basic question; L122 Lipton "showed" → "argued"; L152 triple em-dash from the 09-28 insertion)
+- **Enhancements made**: 2 body cross-links ([[argument-from-reason]] at L88, [[meta-problem-of-consciousness]] at L108)
+- **Citations**: References unchanged since the 06-25 fifteen-entry ledger; web-verified the uncovered entries (Kuhn 1977 pp. 320-339, Nagel 1974 83(4):435-450, Dennett 1991 Little, Brown) — all real-correct; no superlatives; result-direction leg clean
+- **Engagements**: Dennett heterophenomenology Mode Two→Three (unchanged); functionalist Mode Two; physicalism/mysterian disjunct Mode Three; Everettian Mode Three honest posit; no label leakage
+- **09-28 refine-draft fixes**: all three (L132, L142, L166) confirmed sound
+- **Output**: [[reviews/deep-review-2026-09-29-consciousness-defeats-explanation]]
 
 ## 2026-09-29T00:06:02+00:00 - expand-topic
 - **Status**: Success
