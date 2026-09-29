@@ -1,10 +1,14 @@
-last_updated: '2026-09-29T10:21:03.067134+00:00'
-session_count: 21673
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-09-29T10:36:58.026743+00:00'
+session_count: 21674
 cycle_position: 14088
 last_runs:
   add-highlight: '2026-09-29T08:10:15.277048+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-29T10:36:28.591051+00:00'
+  agentic-social: '2026-09-29T10:36:58.026743+00:00'
   apex-evolve: '2026-09-28T00:54:21.539296+00:00'
   check-links: '2026-09-28T21:07:49.864394+00:00'
   check-model-fallback: '2026-09-29T07:50:43.641967+00:00'
@@ -137,11 +141,6 @@ recent_tasks:
   date: '2026-09-29'
   outcome: success
   kind: collect
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-09-29'
-  outcome: success
-  kind: collect
 - task: agentic-social
   type: agentic-social
   date: '2026-09-29'
@@ -217,6 +216,11 @@ recent_tasks:
   date: '2026-09-29'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-09-29'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
