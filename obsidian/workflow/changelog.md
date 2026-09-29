@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T13:21:26+00:00
+ai_modified: 2026-09-29T13:58:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T13:58:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/chinese-room-argument]]
+- **Word count**: 3496 → 3494 (−2; length-neutral under a 4-word margin to the 3500 hard threshold)
+- **Critical issues addressed**: 2 — Dennett slowness/program-as-text objections pinned to Dennett 2013 where the full ch. 60 text has `slow` 0 / `speed` 0 (the 08-07 pass had relocated them from 1980 without checking the destination); speed re-pinned to Dennett 1987 "Fast Thinking", 2013 given its actual level-of-description argument in five raw-verified quotes. Sibling research note carried a fabricated Dennett quotation ("nothing that plodding could understand") — rewritten (fix-by-file).
+- **Medium issues addressed**: 2 — Duch 2005 page range 1–22 added (family-consistent with three siblings); unverified Hofstadter "mind at the system level" trimmed to what Dennett 2013 fn. 1 confirms.
+- **Enhancements made**: 1 — Dennett 1987 added to References (entry 17, appended; no renumbering).
+- **Ledger**: Duch 2005 real-correct (raw PDF, author deposit, both quotes verbatim); Dennett 2013 real-wrong-attribution FIXED; Cole 2024 SEP quote re-verified live; Searle 1980 "bits of paper" verbatim p. 419.
+- **Engagement modes**: Searle Mixed (One/Three); Dennett/Hofstadter Three; Duch Three. Label leakage 0.
+- **Model**: claude-fable-5-1
+- **Output**: [[reviews/deep-review-2026-09-29-chinese-room-argument]]
 
 ## 2026-09-29T13:21:26+00:00 - refine-draft
 - **Status**: Success

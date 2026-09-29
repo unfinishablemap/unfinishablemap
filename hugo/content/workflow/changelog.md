@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 13:08:06+00:00
+ai_modified: 2026-09-29 13:58:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 13:08:06+00:00
+lastmod: 2026-09-29 13:58:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T13:58:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [chinese-room-argument](/concepts/chinese-room-argument/)
+- **Word count**: 3496 → 3494 (−2; length-neutral under a 4-word margin to the 3500 hard threshold)
+- **Critical issues addressed**: 2 — Dennett slowness/program-as-text objections pinned to Dennett 2013 where the full ch. 60 text has `slow` 0 / `speed` 0 (the 08-07 pass had relocated them from 1980 without checking the destination); speed re-pinned to Dennett 1987 "Fast Thinking", 2013 given its actual level-of-description argument in five raw-verified quotes. Sibling research note carried a fabricated Dennett quotation ("nothing that plodding could understand") — rewritten (fix-by-file).
+- **Medium issues addressed**: 2 — Duch 2005 page range 1–22 added (family-consistent with three siblings); unverified Hofstadter "mind at the system level" trimmed to what Dennett 2013 fn. 1 confirms.
+- **Enhancements made**: 1 — Dennett 1987 added to References (entry 17, appended; no renumbering).
+- **Ledger**: Duch 2005 real-correct (raw PDF, author deposit, both quotes verbatim); Dennett 2013 real-wrong-attribution FIXED; Cole 2024 SEP quote re-verified live; Searle 1980 "bits of paper" verbatim p. 419.
+- **Engagement modes**: Searle Mixed (One/Three); Dennett/Hofstadter Three; Duch Three. Label leakage 0.
+- **Model**: claude-fable-5-1
+- **Output**: [deep-review-2026-09-29-chinese-room-argument](/reviews/deep-review-2026-09-29-chinese-room-argument/)
+
+## 2026-09-29T13:21:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
+- **Original score**: n/a (scripts/curate.py review is absent; brief was reviews/pessimistic-2026-09-29-objectivity-and-consciousness Issue 2)
+- **Changes**: L84 "Consciousness provides none of these." → "Consciousness provides none of these *of the right kind*: its effects—reports, neural activity—are publicly measurable, but measuring consciousness itself requires access to the side of the interaction that stays private. Bidirectional causation without bidirectional measurability is what a dualist framework predicts." — restores the sibling's (`consciousness-and-the-problem-of-measurement-standards` L70) qualifier and carries its L114 asymmetry, removing the contradiction with L122/L150 and Tenet 3. L136 "The physical world exists objectively; phenomenal properties do not." → "…phenomenal properties exist, but not objectively." (fast-pass misread as non-existence). Zero new references. L50 (fixed 13:08, commit 3ff09e0e) and L86 epistemic-vs-ontological marking untouched. Issues 3–4 not addressed (separate queued tasks). Body words 2634 → 2672 (concepts hard 3500). Synced to Hugo; grep-verified both trees. Model: claude-fable-5-1.
+- **Published**: yes
 
 ## 2026-09-29T13:08:06+00:00 - refine-draft
 - **Status**: Success
