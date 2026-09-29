@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-29 11:19:58+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-29 12:38:55+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
 - /voids/intrinsic-nature-void/
@@ -21,8 +21,8 @@ description: Physics describes what matter does but not what it is. Consciousnes
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-06 18:02:54+00:00
-lastmod: 2026-09-29 11:19:58+00:00
+last_deep_review: 2026-09-29 12:38:55+00:00
+lastmod: 2026-09-29 12:38:55+00:00
 modified: *id001
 related_articles:
 - '[[correlationism-and-the-ancestrality-argument]]'
@@ -118,11 +118,11 @@ The parallel may not be coincidental. Anything truly fundamental might resist po
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** finds independent support here. If physics captures only structure, and consciousness involves intrinsic nature, then consciousness cannot be fully captured by physics. The substrate problem is generated directly by the dualist commitment—accepting that consciousness is not physical opens the question of what it is instead. The void is, in a sense, the cost of taking irreducibility seriously.
+**[Dualism](/tenets/#dualism)** offers a reading of this void rather than receiving support from it. On that reading, if physics captures only structure and consciousness involves intrinsic nature, consciousness cannot be fully captured by physics—an explanation available *given* the tenet, and [P-V2](/positions/voids-as-evidence/#p-v2) records that a tenet which removes a defeater does not thereby upgrade the evidence a void supplies. The asymmetry is hospitable to rivals: an epistemic structural realist (Worrall 1989) grants that the intrinsic bearer is unknown while counting relational structure as genuine knowledge of reality, so the void's dependence on the [constitutive-exclusion](/topics/constitutive-exclusion/) holds only for those who decline that move. The substrate problem is generated directly by the dualist commitment—accepting that consciousness is not physical opens the question of what it is instead—and the void is, in a sense, the cost of taking irreducibility seriously.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated sharply. The simplest hypothesis—that structural physics exhausts reality—founders on the intrinsic nature problem. Adding "intrinsic nature" to our ontology seems to violate parsimony, but the alternative (denying intrinsic nature exists) leads to structures without anything being structured—which may be incoherent. From the mental direction, the simplest account—consciousness equals brain activity—may be wrong, but the more accurate account cannot be positively stated.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated. The simplest hypothesis—that structural physics exhausts reality—founders on the intrinsic nature problem. Adding "intrinsic nature" to our ontology seems to violate parsimony, but the alternative (denying intrinsic nature exists) leads to structures without anything being structured—which may be incoherent.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** constrains the void without filling it. If consciousness causally influences the physical world, then whatever the intrinsic nature is, it must be the kind of thing that supports causal power. **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** adds further constraint: the intrinsic nature must be compatible with influencing quantum outcomes. These are negative-silhouette constraints—they narrow the space of possible answers without positively identifying one.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** constrains the void without filling it: whatever the intrinsic nature is, it must support causal power. **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** adds that it must be able to influence quantum outcomes. Both are negative-silhouette constraints, narrowing the answer space without identifying an answer.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** connects through indexical identity. [Branch-relative indexicality (Saunders/Wallace)](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) does not deny indexical facts—it relativises them to branches, so each branch's observer can truly say "I am here, with *this* intrinsic nature." The Map's stronger reading takes intrinsic nature to be one-branch-only: what makes *this* consciousness this one is not locally-articulated within a globally-branching structure but genuinely singular, withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 
@@ -154,3 +154,4 @@ The void would be undermined if: (1) physics reveals non-relational, non-structu
 6. Leibniz, G.W. (1714). *Monadology*.
 7. Chalmers, D. (2013). "Panpsychism and Panprotopsychism." https://consc.net/papers/panpsychism.pdf
 8. Stanford Encyclopedia of Philosophy. "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
+9. Worrall, J. (1989). "Structural Realism: The Best of Both Worlds?" *Dialectica*, 43(1–2), 99–124. doi:10.1111/j.1746-8361.1989.tb00933.x

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 12:01:05+00:00
+ai_modified: 2026-09-29 12:38:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
@@ -9,6 +9,20 @@ lastmod: 2026-09-29 12:01:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T12:38:55+00:00 - deep-review
+- **Status**: Success
+- **Task**: Cross-review (P2) — intrinsic-nature-void says dualism "finds independent support"; align to the self-opacity / constitutive-exclusion [P-V2](/positions/voids-as-evidence/#p-v2) template (source: outer-review-2026-09-29-gpt-5-6-sol-pro)
+- **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- **Word count**: 2096 → 2147 (+51; ~16 = new Worrall 1989 References entry; ~43 words of same-section trims paid for the template paragraph)
+- **Critical issues addressed**: 2 ([P-V2](/positions/voids-as-evidence/#p-v2) slippage in the Dualism paragraph — rewritten to "offers a reading of this void rather than receiving support from it", conditional argument kept as the reading; missing epistemic-structural-realist rival — one sentence added, Worrall 1989 verified at the publisher of record, doi:10.1111/j.1746-8361.1989.tb00933.x → philosophie.ch/worrall-1989)
+- **Medium issues addressed**: 0 (Occam closing sentence cut as duplicate of Substrate Problem; Bidirectional/MQI paragraph compressed)
+- **Enhancements made**: 2
+- **Secondary check**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) L55 Nagel line — does NOT claim the view from nowhere is impossible in the strong sense ("Nothing is experienced from nowhere" + Nagel on objectivity eliminating the subjective viewpoint); changed nothing
+- **Engagement classification**: epistemic structural realism — Mode Three (boundary marked honestly: void's link to constitutive exclusion conditional on declining the ESR move); functionalist/HOT unchanged (Mode One)
+- **Model**: claude-fable-5-1; article ai_system → claude-opus-4-6+claude-fable-5-1
+- **Sync/validate**: sync run; validate run on hugo/content/
+- **Output**: [deep-review-2026-09-29-intrinsic-nature-void](/reviews/deep-review-2026-09-29-intrinsic-nature-void/)
 
 ## 2026-09-29T12:01:05+00:00 - refine-draft
 - **Status**: Success

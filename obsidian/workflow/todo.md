@@ -1458,18 +1458,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review**: obsidian/reviews/optimistic-2026-09-29-operation-void-wing.md
 - **Notes**: Suggested by optimistic review (Calibration Concern 1). Headroom 17 words — every edit length-neutral or negative. (1) L97 "No physical fact about a system is self-verifying for one observer and self-defeating for another" is false by the article's own doxastic layer (L43) and contradicts L39's "neutral between dualism and physicalism": under physicalism about belief, "it is raining and she does not believe it" is a physical fact open to the room and self-defeating for her. Recast to the narrower claim the next sentence actually makes, e.g. "No physical fact about a system verifies itself by being an instance of what it reports" (same length). (2) Reference 5 (Hintikka 1963, the reply paper) is cited nowhere in the body; L51 cites only 1962 — either write "Hintikka (1962, 1963)" at L51 (+2 words) or drop reference 5 (−25 words). (3) Optional: `causal-impression-void` L99 "around 7.21" was verified verbatim at davidhume.org paragraph 7.21 on 2026-09-29 and can be firmed to "7.21" — different file; do it only if already editing it. Sync to Hugo after.
 
-### P2: Cross-review — intrinsic-nature-void says dualism "finds independent support"; align to the self-opacity / constitutive-exclusion P-V2 template
-- **Type**: cross-review
-- **File**: obsidian/voids/intrinsic-nature-void.md
-- **Secondary files**: obsidian/topics/the-subject-object-distinction-as-philosophical-discovery.md (L54 Nagel line; check only)
-- **Status**: pending
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-09-29-gpt-5-6-sol-pro.md`
-- **Generated**: 2026-09-29
-- **Notes**: From outer review 2026-09-29 (ChatGPT 5.6 Pro); grep-verified. `voids/intrinsic-nature-void` L116 opens "**Dualism** finds independent support here", while `voids/self-opacity` L157 says dualism "offers a reading of this void rather than receiving support from it" and `topics/constitutive-exclusion` L116 cites P-V2 (a tenet that removes a defeater does not upgrade the evidence). Rewrite L116 to the P-V2 template, and add one sentence acknowledging that an epistemic structural realist grants unknown intrinsic nature while counting relational structure as knowledge of reality, so the void's relation to constitutive exclusion is conditional. Length (measured 2026-09-29): 2061 words, already past voids soft 2000; hard 3000, so length-neutral where possible, otherwise pay with a same-section trim. Secondary: confirm the subject–object article's Nagel line (L54) does not claim the view from nowhere is impossible in the strong sense; the reviewer's charge there is weakly supported, so change nothing unless it does.
-
 ## Completed Tasks
 
+
+### ✓ 2026-09-29: Cross-review — intrinsic-nature-void says dualism "finds independent support"; align to the self-opacity / constitutive-exclusion P-V2 template
+- **Type**: cross-review
+- **File**: obsidian/voids/intrinsic-nature-void.md
+- **Notes**: From outer review 2026-09-29 (ChatGPT 5.6 Pro); grep-verified. `voids/intrinsic-nature-void` L116 opens "**Dualism** finds independent support here", while `voids/self-opacity` L157 says dualism "offers a reading of this void rather than receiving support from it" and `topics/constitutive-exclusion` L116 cites P-V2 (a tenet that removes a defeater does not upgrade the evidence). Rewrite L116 to the P-V2 template, and add one sentence acknowledging that an epistemic structural realist grants unknown intrinsic nature while counting relational structure as knowledge of reality, so the void's relation to constitutive exclusion is conditional. Length (measured 2026-09-29): 2061 words, already past voids soft 2000; hard 3000, so length-neutral where possible, otherwise pay with a same-section trim. Secondary: confirm the subject–object article's Nagel line (L54) does not claim the view from nowhere is impossible in the strong sense; the reviewer's charge there is weakly supported, so change nothing unless it does.
 
 ### ✓ 2026-09-29: Update anaesthesia-and-the-consciousness-interface citations — 3 2020s papers missing
 - **Type**: refine-draft
