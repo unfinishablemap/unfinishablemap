@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T14:46:02+00:00
+ai_modified: 2026-09-29T15:24:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T15:24:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Original score**: n/a (`scripts/curate.py review` absent; brief was reviews/optimistic-2026-09-29-functional-contribution-wing Calibration Concern 1 + todo L1462)
+- **Changes**: Propagated the sibling `topics/consciousness-and-cognitive-distinctiveness` 2026-08-17 retraction (§What the Comparative Pattern Can and Cannot Establish) of the anti-epiphenomenalism modus tollens into the constrain-vs-establish register. L46 opening conditional rescoped from "epiphenomenal byproduct" to conscious processing; L48 "directly support ... tenet—consciousness makes a causal difference" → "consistent with ... conscious access makes a causal difference ... whether phenomenal experience does is [left open](#implications-for-dualism)" (discharges the check-137 L48 locus carried in tenet-check-2026-09-27 L267 and tenet-check-2026-09-28 L209); L147 "supports" → "is consistent with", "consciousness" → "conscious access"; L159 deleted the retracted load inference "If consciousness were epiphenomenal, cognitive load shouldn't selectively impair..."; L169 "strongly challenge epiphenomenalism" → "Their bearing on epiphenomenalism ... turns on which consciousness is meant"; L173/L175 numbered inference now about conscious access; L183 heading "Why the Physicalist Reading Fails" → "Where the Physicalist Reading Stops" (no inbound anchor links) and its "circular" paragraph replaced with the sibling's concession (reductionist-as-broadcast expects the dissociations; accompaniment reading predicts them while leaving experience idle; linked [[consciousness-and-cognitive-distinctiveness#what-the-comparative-pattern-can-and-cannot-establish|comparative audit]]); L187 dropped "The functional evidence shows *that* consciousness (not merely certain neural patterns) enables these capacities"; L193 "does refute the claim that consciousness is causally idle" → "constrains the claim ... without settling it"; L235 reduction inference replaced with same-page anchor to the concession; L239 "directly support ... Consciousness isn't epiphenomenal ... causal role is demonstrated" → "consistent with ... and constrain its rivals ... whether phenomenal experience contributes, the evidence leaves open"; L241 ape-baseline correspondence now piped-linked to the audit and marked as predicted equally by accompaniment/common-cause; L251 "demonstrated causal role suggests" → "causal role of conscious access is consistent with". Access-consciousness functional claims (L117, §What Consciousness Enables, §Blindsight, §What Would Challenge This View) untouched; References ledger untouched; no new references. Engagement with the physicalist/reductionist: Mode Three (framework-boundary marking) — the prior text presented tenet-incompatibility as in-framework refutation; now the boundary is noted as the sibling does. Body words 3473 → 3472 (`analyze_length`, concepts hard 3500). Synced to Hugo; validate clean; "directly support"/"does refute" grep 0 in both trees. ai_system += claude-fable-5-1.
+- **Published**: yes
 
 ## 2026-09-29T14:46:02+00:00 - optimistic-review
 - **Status**: Success
