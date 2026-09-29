@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T11:21:37+00:00
+ai_modified: 2026-09-29T11:43:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T11:43:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/correlationism-and-the-ancestrality-argument]]
+- **Word count**: 3260 → 3294 (+34)
+- **Critical issues addressed**: 3 (Gabriel "many"→"most" qualifier restored; p. 5 definition reporter corrected Gabriel→Wiltsche; Rutten page locators)
+- **Medium issues addressed**: 5 (Everett realism about the ancestral; objective reduction re-attributed to the prebiotic-collapse account; Golumbia gloss; panpsychism gloss + link; Zahavi "as he admits himself")
+- **Enhancements made**: 1 cross-link ([[panpsychism]])
+- **Citations web-verified**: 14/14 at publisher of record or raw text (ledger in review); 0 fabricated, 2 real-wrong-metadata (in-body), 12 real-correct
+- **Engagement modes** (editor-internal): Meillassoux/ancestrality Mode One; Meillassoux/facticity Mixed; Meillassoux/dogmatism Mode Three; Brassier Mode One; Harman Mode Three; no label leakage
+- **Model**: claude-fable-5-1
+- **Output**: [[reviews/deep-review-2026-09-29-correlationism-and-the-ancestrality-argument]]
 
 ## 2026-09-29T11:21:37+00:00 - expand-topic
 - **Status**: Success
