@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-16 15:38:10+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-09-29 13:08:06+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 22:12:06+00:00
-lastmod: 2026-09-16 15:38:10+00:00
+lastmod: 2026-09-29 13:08:06+00:00
 modified: *id001
 related_articles:
 - '[[dualism]]'
@@ -50,7 +50,7 @@ Nagel's *The View From Nowhere* (1986) captured the scientific aspiration: knowl
 
 But consciousness has essential subjective character. "What it is like to be a bat" cannot be understood by learning bat neurology or echolocation physics. We might know *that* bats experience, and predict their behavior, but the phenomenal character—what their sonar *feels like*—remains inaccessible from the outside. No amount of third-person data closes this gap.
 
-Nagel's insight: there is no genuine view from nowhere, only the aspiration toward it. For physical systems (rocks, planets, molecules), this aspiration succeeds—we can describe them without reference to any observer's experience. For consciousness itself, the aspiration becomes blindness. Eliminating the observer eliminates the subject matter. The [constitutive-exclusion](/topics/constitutive-exclusion/) sharpens this: consciousness does not merely observe reality but partly constitutes it, so "objectivity" about consciousness is structurally impossible, not merely difficult.
+Nagel's insight: there is no genuine view from nowhere, only the aspiration toward it. For physical systems (rocks, planets, molecules), the aspiration succeeds—we can describe them without reference to any observer's experience. For consciousness itself, objective description can reach its object but cannot capture it: eliminating the observer eliminates the subject matter. Nagel himself proposed a partial remedy, an "objective phenomenology not dependent on empathy or the imagination" that he granted "would not capture everything" (1974), so the limit he draws concerns what objectivity can capture, not what it can reach. The [constitutive-exclusion](/topics/constitutive-exclusion/) reads that limit as structural rather than methodological: if consciousness does not merely observe reality but partly constitutes it, the uncaptured residue is no artefact of technique awaiting better instruments. That is the Map's reading, licensed by the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet as a coherence claim rather than a derivation; on it, the paradox is structural, not merely difficult.
 
 ## Objectivity Versus Intersubjectivity
 

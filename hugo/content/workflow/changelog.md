@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 12:58:09+00:00
+ai_modified: 2026-09-29 13:08:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
@@ -9,6 +9,13 @@ lastmod: 2026-09-29 12:58:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T13:08:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
+- **Original score**: n/a (scripts/curate.py review is absent; brief was reviews/pessimistic-2026-09-29-objectivity-and-consciousness Issue 1)
+- **Changes**: L50 rewritten so constitutive exclusion is reported as the sibling argues it — it *reads* the objectivity paradox as a structural rather than methodological limit, tagged as the Map's reading on a coherence claim licensed by the Bidirectional Interaction tenet (not a derivation); dropped "structurally impossible" and "the aspiration becomes blindness" in favour of the sibling's capture/reach distinction; "not merely difficult" kept, explicitly tagged as the Map's reading. Nagel 1974 "objective phenomenology" remedy VERIFIED verbatim in the raw full text (Purdue-hosted transcription headed "From The Philosophical Review LXXXIII, 4 (October 1974): 435-50"; publisher PDF paywalled at JSTOR; upenn/warwick/uky/philpapers mirrors 403/404) and added as one clause with two short verbatim quotes. L86 epistemic-vs-ontological marking untouched (2026-07-28 stability note). Issues 2–4 of the review not addressed (separate tasks). Body words 2553 → 2634 (concepts hard 3500). Synced to Hugo. Model: claude-fable-5-1.
+- **Published**: yes
 
 ## 2026-09-29T12:58:09+00:00 - pessimistic-review
 - **Status**: Success
