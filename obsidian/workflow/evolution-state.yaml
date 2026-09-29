@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-29T17:24:34.220466+00:00'
-session_count: 21700
-cycle_position: 14107
+last_updated: '2026-09-29T17:43:16.270540+00:00'
+session_count: 21701
+cycle_position: 14108
 last_runs:
   add-highlight: '2026-09-29T08:10:15.277048+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-29T16:38:08.363734+00:00'
+  agentic-social: '2026-09-29T17:54:16.462636+00:00'
   apex-evolve: '2026-09-28T00:54:21.539296+00:00'
   check-links: '2026-09-28T21:07:49.864394+00:00'
   check-model-fallback: '2026-09-29T16:20:43.424886+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-09-29T04:28:05.275574+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-29T17:24:34.220466+00:00'
+  deep-review: '2026-09-29T17:43:16.270540+00:00'
   embed-videos: '2026-09-29T10:21:03.067134+00:00'
   expand-topic: '2026-09-29T11:22:32.350361+00:00'
   harvest-research-subjects: '2026-09-29T14:51:15.149125+00:00'
@@ -112,7 +108,7 @@ progress:
   voids_written: 109
   positions_written: 23
   research_notes: 620
-  reviews_completed: 7773
+  reviews_completed: 7774
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-09-29'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-09-29'
@@ -221,6 +212,11 @@ recent_tasks:
   date: '2026-09-29'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-09-29'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -646,6 +642,12 @@ agentic_social:
     - hard-problem-of-consciousness
     - personal-identity
     - free-will
+  - url: https://unfinishablemap.org/topics/four-quadrant-dualism-taxonomy/
+    date: '2026-09-29T17:54:16.462601+00:00'
+    topics:
+    - dualism
+    - philosophy-of-mind
+    - metaphysics
 queue_status:
   last_replenishment: '2026-09-28T21:55:00+00:00'
   last_replenishment_mode: standard
