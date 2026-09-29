@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-09-29T04:07:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-29T04:43:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Medium, Research; collected via collect-claude-review; subject: recent-aged reuse, `topics/constitutive-exclusion`, same subject as the 02:00 ChatGPT leg)
+- **File**: [[reviews/outer-review-2026-09-29-claude-opus-5-5]]
+- **Collect**: artifact tile present on poll 1 ("Research complete • 354 sources"); body-stability sentinel 33,424 chars stable over 10 s; Blob download 40,573 bytes; 11/11 headings match the panel DOM; 78 Map self-links converted to wikilinks (adjacent duplicates collapsed).
+- **Claims verified**: 9 verified, 3 partially / overstated, 4 unverified. Notable: Hellmuth et al. 1987 (*PRA* 35:2532) is real, so "two decades later by Jacques et al. (2007)" is wrong on both the gap (29 years from Wheeler 1978) and priority; the "no changelog entry for 2026-09-21" charge is a FALSE ALARM — the entry (commit 927d4c0fd9) was rotated into `workflow/archive/changelog-2026-W39.md` by the 2026-09-28T00:39Z sync (f14f58097f, 310 → 27 entries), though `/workflow/archive/` 404s and the changelog page does not link its archives; the quoted "all of reality, not just the self" span does not exist in the article (0 hits, 8 variants).
+- **High-value findings**: 4 unique (delayed-choice history + interpretation-neutrality; Kant intuition/category conflation + missing locators; three stranded dependents (subject-object L62, Wheeler L50, hard-problem L133) plus a `[[self-opacity|self-reference paradox]]` mislink; `simulation` concept tag and ref-10 pseudonym surname). 4 convergent with the same-day ChatGPT review (Merleau-Ponty, Nagel/Putnam, structural realism, tenet equivocation) — annotated on the existing tasks rather than re-minted; Meillassoux/Davidson/disjunctivism/self-refutation appended to the structural-realism task's notes.
+- **Tasks generated**: 2 (P2: 2) — one refine-draft on `topics/constitutive-exclusion` (sequenced last of four same-day tasks on that file), one three-file cross-review with the subject-object page as primary. Methodology recommendations 15–20 deferred to `/combine-outer-reviews`.
+
 ## 2026-09-29T04:07:17+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (collected via collect-chatgpt-review; subject: recent-aged fallback, `topics/constitutive-exclusion`)
