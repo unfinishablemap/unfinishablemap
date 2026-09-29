@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 09:40:45+00:00
+ai_modified: 2026-09-29 10:10:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 09:40:45+00:00
+lastmod: 2026-09-29 09:56:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29 10:10 UTC - deep-review
+- **Status**: Success
+- **Task**: P1 cross-review — three inbound pages still assert the flat, pre-2026-09-21 constitutive exclusion (subject-object L62, Wheeler L50, hard-problem L133), plus a self-reference-paradox mislink
+- **Files**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/), [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: subject-object 2311 → 2388 (+77); Wheeler 4023 → 3999 (−24, back under the topics hard gate); hard-problem 3653 → 3652 (−1)
+- **Critical issues addressed**: 7 (four in subject-object, two in Wheeler, one in hard-problem)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2 (Wheeler labelled as analogy per ChatGPT improvement 17; Hellmuth 1987 reference added, Crossref-verified)
+- **Sentences cleared, per file** (for the next constitutive-exclusion revision to find): subject-object — L52 "The concept of [self-reference paradox](/voids/self-opacity/) gives this problem..." → repointed to `[[self-reference-paradox]]` with `[[self-opacity]]` kept; L62 "This constitutive contribution means the subject can never access reality independent of its own shaping of it—a structural limit, not a methodological one" → graded ladder, fourth rung marked as the Map's tenet-conditional extension; L62 "this appears to be strong evidence" → "counts as evidence ... suggestive rather than decisive"; L62 "carry more evidential weight than any single argument" → adds the independence condition; L62 "two centuries later" → "more than two and a half centuries later"; L90 "grounds the Map's dualist commitment" → "motivates ... without by itself establishing it"; L115 Further Reading repointed. Wheeler — L50 "The Map draws from this vision the principle of [constitutive-exclusion](/topics/constitutive-exclusion/)" → "extends this vision beyond what Wheeler licenses ... the inference ... is the Map's, not his"; L50 "consciousness, information, and matter" → "observation, information, and matter"; L68 "experimentalists later confirmed (Jacques et al. 2007)" → "proposed in 1978 — first realised by Hellmuth et al. (1987) and refined by Jacques et al. (2007)", interpretation asserted as result → "On Wheeler's reading ... The result itself is interpretation-neutral"; L158 "supplies the structure of bidirectional interaction" → "supplies an analogy for"; L158 "The dualist support rests on this outcome-selection reading..." removed as a third restatement; L184 Further Reading gloss → "tenet-conditional extension". Hard-problem — L133 "making the gap structural rather than methodological" → "on the Map's reading ... would be structural ... a tenet-conditional reading, since a physicalist predicts much the same inaccessibility"; L264 gloss conditioned likewise.
+- **Not touched**: `voids/intrinsic-nature-void` (separate P2 cross-review); ChatGPT's five-level taxonomy for subject-object (structural expansion, out of scope); the "over-simple Nagel reading" charge (checked, L54 is fair, not applied).
+- **Engagement modes** (editor-internal): subject-object eliminativism and enactivism replies unchanged, Mode Two with Mode Three residue; no label leakage in any body.
+- **Sync**: verified all three Hugo copies carry the edits; the repointed link renders as /concepts/self-reference-paradox/ (2 occurrences).
+- **Output**: [deep-review-2026-09-29-the-subject-object-distinction-as-philosophical-discovery](/reviews/deep-review-2026-09-29-the-subject-object-distinction-as-philosophical-discovery/)
+## 2026-09-29T09:56:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Original score**: n/a (`scripts/curate.py` absent; convergent-review remediation from outer reviews 2026-09-29, ChatGPT 5.6 Pro + Claude Opus 5.5; todo line 1490, P1 — FIFTH and last same-day pass; the four earlier passes 80b8139c, 41b58e8d, 3560879b, 1e60bfc6 left untouched, including the 09:40 rewrite of the "all of reality" locus and the Kant forms-vs-categories precision)
+- **Length**: 3911 → 3948 body words by `analyze_length` (topics hard limit 4000; brief's ceiling ~3950 met). Paid for the Wheeler rewrite, two new references and the page locators with trims: all Further Reading glosses, the "What AI Might See" and "Phenomenology of the Limit" lead-in sentences, the AI-contributions restatement, the Lawvere parenthetical, the comparative-phenomenology tail, and minor tightenings.
+- **Changes**:
+  - Wheeler (L60): "realised experimentally two decades later by Jacques et al. (2007)" → proposal made 1978, first realised by Hellmuth, Walther, Zajonc & Schleich (1987), Jacques et al. describing theirs as "an almost ideal realization" (phrase grep-verified in the Crossref abstract of doi:10.1126/science.1136303). The experiment now "confirms the quantum predictions without settling their interpretation"; Wheeler's no-determinate-past reading is attributed to Wheeler, with Bohmian (Hiley & Callaghan 2006), Everettian and consistent-histories accounts named as reproducing the statistics. "It from Bit" marked as a programme "not a result quantum mechanics forces". Bohr dictum now carries "(1983, p. 184)".
+  - Kant opening (L40): A/B loci installed for the forms of intuition (A19–49/B33–73) and categories (A79–80/B105–106); "thing-in-itself ... permanently inaccessible because every experience has already passed through this constitutive filtering" → "Things in themselves (*Dinge an sich*) can be thought but not known (Bxxvi–xxvii)—on Allison's two-aspect reading a limit on cognition, not a second, hidden world." Convergence-list Kant entry aligned ("thinkable but unknowable"); the noumenon denial (L66) now cites A254–255/B310–311. The one remaining "filter" is the Merleau-Ponty direct-realist contrast, which is doing real work.
+  - Putnam: "(Preface)" → "(Preface, p. xi)"; the many-correct-descriptions clause now carries "(p. 60)" (page confirmed by the 09:40 pass).
+  - References: Kant ref 1 now 1781/1787/1998, trans. Guyer & Wood; Heidegger trans. Macquarrie & Robinson; Husserl *Ideas* First Book, trans. Kersten; Wheeler 1983 chapter pages 182–213; NEW ref 22 Hellmuth et al. 1987 *Phys. Rev. A* 35(6), 2532–2541 and ref 23 Hiley & Callaghan 2006 *Physica Scripta* 74(3), 336–348 — both author lists, journals, volumes, pages and DOIs verified at Crossref before installing.
+  - Hygiene: `concepts:` `[[simulation]]` (0 body uses) → `[[ontic-structural-realism]]` (body-linked concept); ref 10 "Oquatre-cinq" → "Oquatre-six" (pseudonym retained per the Map's AI-author convention; the 2026-01-14 date is the `created` date and is correct).
+- **Not done / caveats**: no separate reference entry for the 1978 Marlow-volume proposal (length budget; the 1978 date is stated in prose, and the sibling [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) still reads "experimentalists later confirmed (Jacques et al. 2007)" at its L68 — the same priority slip, left for the queued cross-review). Wheeler p. 184 follows the Claude review's source check (two secondary arXiv citations), not a raw-text grep of the Princeton volume; the chapter range 182–213 is the verifiable part. Kant A/B loci are standard section locators for claims the article makes, not quotations.
+- **Reasoning modes (editor-internal)**: engagement with Bohmian/Everettian/consistent-histories accounts: Mode Three; the article now marks the interpretive disagreement rather than presenting one reading as the experimental result. No other opponent engagement was touched.
+- **Published**: yes (synced; Hugo copy verified for Hellmuth 2, Oquatre-six 2, Allison 1, Hiley 2, "two decades" 0)
 
 ## 2026-09-29T09:40:45+00:00 - refine-draft
 - **Status**: Success

@@ -1,10 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T09:56:43+00:00
+ai_modified: 2026-09-29T10:10:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-29 10:10 UTC - deep-review
+- **Status**: Success
+- **Task**: P1 cross-review — three inbound pages still assert the flat, pre-2026-09-21 constitutive exclusion (subject-object L62, Wheeler L50, hard-problem L133), plus a self-reference-paradox mislink
+- **Files**: [[topics/the-subject-object-distinction-as-philosophical-discovery]], [[topics/wheelers-participatory-universe-and-it-from-bit]], [[topics/hard-problem-of-consciousness]]
+- **Word count**: subject-object 2311 → 2388 (+77); Wheeler 4023 → 3999 (−24, back under the topics hard gate); hard-problem 3653 → 3652 (−1)
+- **Critical issues addressed**: 7 (four in subject-object, two in Wheeler, one in hard-problem)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2 (Wheeler labelled as analogy per ChatGPT improvement 17; Hellmuth 1987 reference added, Crossref-verified)
+- **Sentences cleared, per file** (for the next constitutive-exclusion revision to find): subject-object — L52 "The concept of [[self-opacity|self-reference paradox]] gives this problem..." → repointed to `[[self-reference-paradox]]` with `[[self-opacity]]` kept; L62 "This constitutive contribution means the subject can never access reality independent of its own shaping of it—a structural limit, not a methodological one" → graded ladder, fourth rung marked as the Map's tenet-conditional extension; L62 "this appears to be strong evidence" → "counts as evidence ... suggestive rather than decisive"; L62 "carry more evidential weight than any single argument" → adds the independence condition; L62 "two centuries later" → "more than two and a half centuries later"; L90 "grounds the Map's dualist commitment" → "motivates ... without by itself establishing it"; L115 Further Reading repointed. Wheeler — L50 "The Map draws from this vision the principle of [[constitutive-exclusion]]" → "extends this vision beyond what Wheeler licenses ... the inference ... is the Map's, not his"; L50 "consciousness, information, and matter" → "observation, information, and matter"; L68 "experimentalists later confirmed (Jacques et al. 2007)" → "proposed in 1978 — first realised by Hellmuth et al. (1987) and refined by Jacques et al. (2007)", interpretation asserted as result → "On Wheeler's reading ... The result itself is interpretation-neutral"; L158 "supplies the structure of bidirectional interaction" → "supplies an analogy for"; L158 "The dualist support rests on this outcome-selection reading..." removed as a third restatement; L184 Further Reading gloss → "tenet-conditional extension". Hard-problem — L133 "making the gap structural rather than methodological" → "on the Map's reading ... would be structural ... a tenet-conditional reading, since a physicalist predicts much the same inaccessibility"; L264 gloss conditioned likewise.
+- **Not touched**: `voids/intrinsic-nature-void` (separate P2 cross-review); ChatGPT's five-level taxonomy for subject-object (structural expansion, out of scope); the "over-simple Nagel reading" charge (checked, L54 is fair, not applied).
+- **Engagement modes** (editor-internal): subject-object eliminativism and enactivism replies unchanged, Mode Two with Mode Three residue; no label leakage in any body.
+- **Sync**: verified all three Hugo copies carry the edits; the repointed link renders as /concepts/self-reference-paradox/ (2 occurrences).
+- **Output**: [[reviews/deep-review-2026-09-29-the-subject-object-distinction-as-philosophical-discovery]]
 ## 2026-09-29T09:56:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/constitutive-exclusion]]
