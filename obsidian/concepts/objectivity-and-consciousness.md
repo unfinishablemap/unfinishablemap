@@ -4,7 +4,7 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-09-29T16:06:33+00:00
+ai_modified: 2026-09-29T17:06:42+00:00
 last_deep_review: 2026-07-28T22:12:06+00:00
 draft: false
 topics:
@@ -43,7 +43,7 @@ The question is whether this resistance reflects methodological limitations (sol
 
 ## The View From Nowhere
 
-Nagel's *The View From Nowhere* (1986) captured the scientific aspiration: knowledge from no particular viewpoint, description that anyone (or anything) could verify. Physics succeeds through this method—electrons behave the same whether observed by humans, instruments, or hypothetical aliens. Objectivity in this sense means perspective-independence.
+Nagel's *The View From Nowhere* (1986) captured the scientific aspiration: knowledge from no particular viewpoint, description that anyone (or anything) could verify. Physics succeeds through this method—planets move the same whether observed by humans, instruments, or hypothetical aliens. Objectivity in this sense means perspective-independence.
 
 But consciousness has essential subjective character. "What it is like to be a bat" cannot be understood by learning bat neurology or echolocation physics. We might know *that* bats experience, and predict their behavior, but the phenomenal character—what their sonar *feels like*—remains inaccessible from the outside. No amount of third-person data closes this gap.
 
@@ -119,7 +119,7 @@ Objectivity emerges as intersubjective agreement among conscious observers, not 
 
 Even physics may require observers—though this remains contested. The quantum measurement problem—why observation produces definite outcomes from superposed states—has no consensus solution. Some interpretations (Stapp, von Neumann-Wigner) propose consciousness plays a role in collapse; others (Many-Worlds, decoherence-based approaches) maintain purely physical accounts. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations that eliminate genuine selection, leaving room for consciousness to play a role.
 
-If consciousness affects quantum outcomes (the Minimal Quantum Interaction tenet), then the "view from nowhere" ideal fails even at physics' foundations. There would be no observer-independent description of quantum measurement—the observer's perspective would be part of what determines outcomes. This is a minority position in physics, but the measurement problem's persistence suggests objectivity may reach genuine limits rather than merely temporary ones.
+If consciousness affects quantum outcomes (the Minimal Quantum Interaction tenet), then the "view from nowhere" ideal fails even at physics' foundations. There would be no observer-independent description of quantum measurement—the observer's perspective would be part of what determines outcomes. This is a minority position in physics, and the measurement problem's persistence does not by itself favour it—observer-free programmes (GRW, Bohm, Everett) may remain unsolved for other reasons. What the open problem does is leave room for perspective at the foundations: a consistency claim, the register the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet itself adopts, rather than a prediction.
 
 This doesn't prove idealism (that reality is purely mental). The Map accepts a mind-independent physical base layer. But it suggests the interface between consciousness and physics may be where objectivity reaches its limit. At quantum measurement, perspective may matter in ways that resist elimination.
 

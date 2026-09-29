@@ -1441,15 +1441,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: `concepts/objectivity-and-consciousness` quantum section — L46 electron example is the article's own later counter-case, and L122 "persistence suggests objectivity may reach genuine limits" is a non-sequitur
-
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/objectivity-and-consciousness.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-09-29 (cycle slot), Issue 4
-- **Generated**: 2026-09-29
-- **Notes**: Grep-verified this run. (a) L46: "Physics succeeds through this method—electrons behave the same whether observed by humans, instruments, or hypothetical aliens." The article then argues (L120-124, L148-150) that quantum measurement may be exactly where observer-independence fails; the example pre-commits against the section. Swap for a classical example (planetary motion — L132 already uses it). (b) L122: "This is a minority position in physics, but the measurement problem's persistence suggests objectivity may reach genuine limits rather than merely temporary ones." An unsolved problem is equally consistent with observer-free solutions (GRW, Bohm, Everett) remaining unsolved for other reasons; `tenets.md` L81 frames Tenet 2 as "a *consistency claim* ... rather than a *novel-prediction claim*" and the article should inherit that register: the measurement problem leaves ROOM for perspective at the foundations; it does not SUGGEST it. Prior reviews (2026-06-25, 07-28) certified this section's hedges ("a minority position", "remains contested") — keep every one of them; this task changes one example and one inference only. Do NOT re-open the No-Many-Worlds indexical point at L148 (stability note: MWI indexical brevity settled). Sync obsidian → hugo and grep-verify both trees. See [[reviews/pessimistic-2026-09-29-objectivity-and-consciousness]] Issue 4.
-
 ### P3: Install reciprocal links to `topics/cognitive-integration-and-the-self` from the five sibling articles that already carry its host sentences (3 inbound files for a 3k-word topic that links 15 siblings)
 
 - **Type**: integrate-orphan
@@ -1472,6 +1463,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-29: `concepts/objectivity-and-consciousness` quantum section — L46 electron example is the article's own later counter-case, and L122 "persistence suggests objectivity may reach genuine limits" is a non-sequitur
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/objectivity-and-consciousness.md
+- **Notes**: Grep-verified this run. (a) L46: "Physics succeeds through this method—electrons behave the same whether observed by humans, instruments, or hypothetical aliens." The article then argues (L120-124, L148-150) that quantum measurement may be exactly where observer-independence fails; the example pre-commits against the section. Swap for a classical example (planetary motion — L132 already uses it). (b) L122: "This is a minority position in physics, but the measurement problem's persistence suggests objectivity may reach genuine limits rather than merely temporary ones." An unsolved problem is equally consistent with observer-free solutions (GRW, Bohm, Everett) remaining unsolved for other reasons; `tenets.md` L81 frames Tenet 2 as "a *consistency claim* ... rather than a *novel-prediction claim*" and the article should inherit that register: the measurement problem leaves ROOM for perspective at the foundations; it does not SUGGEST it. Prior reviews (2026-06-25, 07-28) certified this section's hedges ("a minority position", "remains contested") — keep every one of them; this task changes one example and one inference only. Do NOT re-open the No-Many-Worlds indexical point at L148 (stability note: MWI indexical brevity settled). Sync obsidian → hugo and grep-verify both trees. See [[reviews/pessimistic-2026-09-29-objectivity-and-consciousness]] Issue 4.
 
 ### ✓ 2026-09-29: `concepts/objectivity-and-consciousness` L146 attributes the Map's bidirectional-causation rationale to Varela's mutual-constraints method, and presents the self-stultification argument as a parenthetical datum
 - **Type**: refine-draft

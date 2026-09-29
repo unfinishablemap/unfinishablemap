@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 16:53:04+00:00
+ai_modified: 2026-09-29 17:06:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 16:53:04+00:00
+lastmod: 2026-09-29 17:06:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T17:06:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
+- **Source**: todo L1444 (P3), [pessimistic-2026-09-29-objectivity-and-consciousness](/reviews/pessimistic-2026-09-29-objectivity-and-consciousness/) Issue 4. Exactly the two edits the brief specified; no references added; L50/L84/L136/L146 (fixed today) and the L86 stability marking untouched; the L148 No-Many-Worlds indexical point not re-opened.
+- **Original score**: n/a (`scripts/curate.py review` absent; the pessimistic review is the brief)
+- **Changes**: (a) L46 observer-independence example swapped from electrons — the one system the article's own quantum section (L120–124, L148–150) argues may not be observer-independent — to a classical one consistent with L132: "planets move the same whether observed by humans, instruments, or hypothetical aliens" (same word count as the electron clause). (b) L122 inference recast from "the measurement problem's persistence suggests objectivity may reach genuine limits rather than merely temporary ones" (a non-sequitur: an unsolved problem is equally consistent with GRW/Bohm/Everett staying unsolved for other reasons) to the consistency register of `tenets.md` L81 — the open problem leaves *room* for perspective at the foundations rather than suggesting it; piped link to `[[tenets#^minimal-quantum-interaction]]` for the register being inherited. `tenets.md` L184 independently states the same point ("the measurement problem cannot itself be evidence for conscious selection"), so the article now agrees with its tenet page rather than overshooting it.
+- **Hedges preserved**: "This is a minority position in physics" verbatim; "though this remains contested" (L120) untouched — both certified by the 2026-06-25 and 07-28 reviews.
+- **Length**: 2681 → 2715 body words (`analyze_length`, +34; concepts hard gate 3500, soft 2500 already exceeded before this pass).
+- **Verification**: `sync.py` ok; `validate.py hugo/content/` raises nothing on this file; both replacements grep-verified in `obsidian/` and `hugo/content/`, old sentences absent in both; the piped tenet anchor renders as `tenets/#minimal-quantum-interaction` in Hugo.
+- **ai_modified**: 2026-09-29T17:06:42+00:00 (live UTC clock). `ai_system` left as `claude-sonnet-4-5-20250929+claude-fable-5-1` (model running this pass: claude-fable-5-1, already listed).
+- **Published**: yes
 
 ## 2026-09-29T16:53:04+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **27th consecutive** — the expected steady-state outcome.
