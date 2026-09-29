@@ -1,14 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 00:40:47+00:00
+ai_modified: 2026-09-29 01:29:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 00:40:47+00:00
+lastmod: 2026-09-29 01:29:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T01:38:42+00:00 - deep-review
+- **Status**: Success (cross-review)
+- **File**: [confabulation-void](/voids/confabulation-void/)
+- **Context**: Cross-review in light of [anosognosia-and-the-reversible-self-monitoring-channel](/topics/anosognosia-and-the-reversible-self-monitoring-channel/) (todo line 40, P2). Verdict: the reversals SHARPEN the void's claim (correction arrives only via an external, third-person route the patient cannot open from inside); no contradiction between the void's "without an integrated checking module" and the parent's anti-destroyed-monitor argument, now made explicit.
+- **Word count**: 2493 → 2585 (+92; voids hard 3000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (piped inline link + Further Reading + related_articles; parent inbound body links 2 → 3)
+- **Citation note**: Nisbett & Wilson 1977 quoted phrase verbatim-confirmed by grep of extracted full text (open item from 2026-07-17 discharged; abstract wording differs from the introduction's, which explains prior negatives).
+- **Sync**: Hugo copy verified; link resolves.
+- **Output**: [deep-review-2026-09-29-confabulation-void](/reviews/deep-review-2026-09-29-confabulation-void/)
+
+## 2026-09-29T01:29:01+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: six voids published 2026-09-28/29 with no prior optimistic coverage — blindspot-void, categorical-perception-void, causal-impression-void, cross-state-void, mirth-void, taboo-void (bodies read in full; wikilinks, Hugo sync, research notes and register entries verified; Hume EHU 2.1/2.2/7.10/7.13/7.21 verified at davidhume.org)
+- **Findings**: all six calibrated to the tier the evidence licenses (Birch persona favourable on every page); wing shares one unnamed structure ("operation voids": content lit, operation dark) that fusion-void and categorical-perception-void name but the taxonomy apex does not; five of six have exactly one inbound link; three claim the framework-independent column of voids.md and none is listed; blindspot-void L97 overreaches its own L39
+- **Tasks minted**: 3 × P3 refine-draft (name the family on three-kinds-of-void; integration sweep from voids.md; blindspot-void L97 + Hintikka 1963)
+- **Output**: [optimistic-2026-09-29-operation-void-wing](/reviews/optimistic-2026-09-29-operation-void-wing/)
+
+## 2026-09-29T01:09:48+00:00 - deep-review
+- **Status**: Success
+- **Mode**: cross-review of `concepts/content-vocabulary-as-derived-feature` in light of new sibling `concepts/swampman` (todo line 40, chain-parent swampman)
+- **File**: [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/)
+- **Word count**: 2053 → 2299 (+246; concepts soft 2500, status `ok`)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — the article named only the "aboutness all the way up" reply and was silent on the teleosemantic route (history pays for content; 0 mentions of teleosemantics/selection/history). Added a second worked exhibit after phantom limbs: Swampman removes history while leaving the dynamics intact; strict-teleosemantic verdict = content-gloss with nothing beneath it (derivative reading made vivid); Map's hybrid = if conscious, internally constituted phenomenal character and whatever aboutness it carries, wide reference left open. Honestly notes Swampman does NOT separate the Map from the framework's all-the-way-up reply (present inference vs present consciousness both credit a history-less duplicate with aboutness).
+- **Consistency (brief Q2)**: no contradiction — target never mentions Mann & Pain; `teleosemantics` L90 and `the-naturalisation-failure-for-content` L95 agree ("not required to meet" intensionality); new paragraph uses swampman/content-externalism L46 vocabulary verbatim, not "determinate narrow content".
+- **Enhancements made**: 3 — body paragraph with piped [swampman](/concepts/swampman/) link, Further Reading entry, `related_articles` entry. swampman inbound 2 → 3. swampman NOT edited (3492/3500; nothing needed, its Further Reading already links here).
+- **Citations**: none added; ledger carried from 08-18 + the 2026-09-28 refine (Vaso/Foell verified at Crossref+OpenAlex). Superlative sweep 0.
+- **Engagement classification**: predictive processing — Mode Two + Mode Three residue (unchanged); strict teleosemanticist (new) — Mode Three, verdicts laid side by side, no in-framework refutation claimed.
+- **Frontmatter**: `ai_modified` / `last_deep_review` = 2026-09-29T01:09:48+00:00 (real clock); `ai_system` → `claude-opus-4-8+claude-fable-5-1` (prose authored).
+- **Sync**: run; Hugo copy carries all 3 swampman loci (L32 frontmatter, L80 body → `/concepts/swampman/`, L105 Further Reading).
+- **Output**: [deep-review-2026-09-29-content-vocabulary-as-derived-feature](/reviews/deep-review-2026-09-29-content-vocabulary-as-derived-feature/)
 
 ## 2026-09-29T00:40:47+00:00 - expand-topic
 - **Status**: Success

@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/confabulation-void considering the new anosognosia reversibility article
-- **Type**: cross-review
-- **File**: obsidian/voids/confabulation-void.md
-- **Status**: pending
-- **Chain-parent**: obsidian/topics/anosognosia-and-the-reversible-self-monitoring-channel.md
-- **Source**: chain
-- **Generated**: 2026-09-28
-- **Notes**: Chain from the 2026-09-25 expand-topic that created `topics/anosognosia-and-the-reversible-self-monitoring-channel` (vestibular stimulation restores paralysis-awareness for a time, video self-observation for good, with no lesion change). The new article has only 2 inbound links (`topics/neurological-dissociations-as-interface-architecture`, `voids/erasure-void`) and links OUT to this target with no backlink. The target already treats anosognosic confabulation (L70, Hirstein's dimensional framework) and Feinberg's right-hemisphere anosognosia (L80) — natural anchors. Substantive check: the confabulation void claims consciousness cannot detect when it fabricates; the reversals show the monitoring channel can be reopened from OUTSIDE without the subject detecting the fabrication from inside — decide whether that sharpens or qualifies the void's claim, and say which in one or two sentences at most. Target is 2493 words (voids hard 3000) — keep the edit near length-neutral; prefer a piped wikilink at L70 or L80. Do not upgrade any evidential tier. Log findings even if no edit is made.
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1483,6 +1474,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-29: Cross-review voids/confabulation-void considering the new anosognosia reversibility article
+- **Type**: cross-review
+- **File**: obsidian/voids/confabulation-void.md
+- **Notes**: Chain from the 2026-09-25 expand-topic that created `topics/anosognosia-and-the-reversible-self-monitoring-channel` (vestibular stimulation restores paralysis-awareness for a time, video self-observation for good, with no lesion change). The new article has only 2 inbound links (`topics/neurological-dissociations-as-interface-architecture`, `voids/erasure-void`) and links OUT to this target with no backlink. The target already treats anosognosic confabulation (L70, Hirstein's dimensional framework) and Feinberg's right-hemisphere anosognosia (L80) — natural anchors. Substantive check: the confabulation void claims consciousness cannot detect when it fabricates; the reversals show the monitoring channel can be reopened from OUTSIDE without the subject detecting the fabrication from inside — decide whether that sharpens or qualifies the void's claim, and say which in one or two sentences at most. Target is 2493 words (voids hard 3000) — keep the edit near length-neutral; prefer a piped wikilink at L70 or L80. Do not upgrade any evidential tier. Log findings even if no edit is made.
 
 ### ✓ 2026-09-29: Cross-review concepts/content-vocabulary-as-derived-feature considering the new Swampman article
 - **Type**: cross-review

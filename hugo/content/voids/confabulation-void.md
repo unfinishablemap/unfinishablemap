@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-09-26 07:31:10+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-09-29 01:37:29+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[introspection]]'
@@ -10,14 +10,14 @@ concepts:
 - '[[narrative-coherence]]'
 - '[[mysterianism]]'
 created: 2026-05-15
-date: &id001 2026-09-26
+date: &id001 2026-09-29
 description: Human+AI exploration of why consciousness cannot detect when it fabricates
   explanations for its own behaviour, mistaking generated content for veridical self-knowledge.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-17 14:07:48+00:00
-lastmod: 2026-09-26 07:31:10+00:00
+last_deep_review: 2026-09-29 01:37:29+00:00
+lastmod: 2026-09-29 01:37:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -40,6 +40,7 @@ related_articles:
 - '[[non-human-minds-as-void-explorers]]'
 - '[[topics/microphenomenological-interview-method]]'
 - '[[topics/pupillometry-behavioural-channel]]'
+- '[[topics/anosognosia-and-the-reversible-self-monitoring-channel]]'
 title: The Confabulation Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -80,7 +81,7 @@ Several lines of evidence converge to suggest that this void is not merely a dif
 
 **Replication-survival.** Nearly half a century after Nisbett and Wilson, the dissociation between actual causes and reported causes survives across paradigms. The Johansson-Hall *choice blindness* paradigm — in which subjects fluently justify choices they did not in fact make — has been narrowed by 2020–2021 replication work, but the structural finding is *strengthened* rather than weakened. Pupillometry follow-ups show *covert* detection of swapped trials: pupils dilate to the manipulation even when the verbal report does not flag it. The body knows; the verbal channel does not. [The behavioural-channel exhibit](/topics/pupillometry-behavioural-channel/) develops the pupillometric leg of the dissociation as a channel-level finding rather than as evidence of a more accurate readout, calibrated as *contested but real* at the structural grain.
 
-**Lesion convergence.** Schnider's orbitofrontal reality-filter mechanism, Feinberg's right-hemisphere anosognosia, and Gazzaniga's split-brain interpreter triangulate on the same architectural fact: a generative module without an integrated checking module produces confident false content. Different lesions produce different confabulation profiles, supporting a systemic-architecture interpretation rather than a single neural locus.
+**Lesion convergence.** Schnider's orbitofrontal reality-filter mechanism, Feinberg's right-hemisphere anosognosia, and Gazzaniga's split-brain interpreter triangulate on the same architectural fact: a generative module without an integrated checking module produces confident false content. Different lesions produce different confabulation profiles, supporting a systemic-architecture interpretation rather than a single neural locus. The stroke syndrome constrains what "without" means here: [the reversal literature](/topics/anosognosia-and-the-reversible-self-monitoring-channel/) lifts anosognosic denial for a while by vestibular stimulation and for good by third-person video, on an unchanged lesion, while first-person viewing of the paralysed arm leaves it intact. The check is missing from the first-person route rather than from the brain, and the correction arrives only from outside, which sharpens the void's claim rather than qualifying it.
 
 **Healthy-adult continuity.** The same structural feature operates in healthy adults — not as a marginal phenomenon but as the ordinary mode for whole domains: moral judgement (Haidt), choice justification (Johansson and Hall), preference explanation (Wheatley), and causal self-attribution (Bortolotti). Treating confabulation as the *default* mode of self-explanation, with accurate report as the special case, is empirically respectable.
 
@@ -121,6 +122,7 @@ A reflexive implication for the Map's own method is worth marking. The voids cat
 - [agency-void](/voids/agency-void/) — the verification face for action-explanation, the paradigm class
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — the framing under which consciousness participates in its own ignorance
 - [predictive-construction-void](/voids/predictive-construction-void/) — parallel boundary failure in the construct-versus-receive register
+- [anosognosia-and-the-reversible-self-monitoring-channel](/topics/anosognosia-and-the-reversible-self-monitoring-channel/) — the lesion case where the missing check is reopened from outside, by a route the patient cannot open from inside
 - [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — the bodily-channel exhibit demonstrating the verbal-channel/autonomic-channel dissociation as channel-level rather than as evidence of a more accurate readout
 
 ## References

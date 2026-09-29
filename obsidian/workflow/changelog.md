@@ -5,6 +5,18 @@ ai_modified: 2026-09-29T01:29:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-29T01:38:42+00:00 - deep-review
+- **Status**: Success (cross-review)
+- **File**: [[voids/confabulation-void]]
+- **Context**: Cross-review in light of [[topics/anosognosia-and-the-reversible-self-monitoring-channel]] (todo line 40, P2). Verdict: the reversals SHARPEN the void's claim (correction arrives only via an external, third-person route the patient cannot open from inside); no contradiction between the void's "without an integrated checking module" and the parent's anti-destroyed-monitor argument, now made explicit.
+- **Word count**: 2493 → 2585 (+92; voids hard 3000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (piped inline link + Further Reading + related_articles; parent inbound body links 2 → 3)
+- **Citation note**: Nisbett & Wilson 1977 quoted phrase verbatim-confirmed by grep of extracted full text (open item from 2026-07-17 discharged; abstract wording differs from the introduction's, which explains prior negatives).
+- **Sync**: Hugo copy verified; link resolves.
+- **Output**: [[reviews/deep-review-2026-09-29-confabulation-void]]
+
 ## 2026-09-29T01:29:01+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: six voids published 2026-09-28/29 with no prior optimistic coverage — blindspot-void, categorical-perception-void, causal-impression-void, cross-state-void, mirth-void, taboo-void (bodies read in full; wikilinks, Hugo sync, research notes and register entries verified; Hume EHU 2.1/2.2/7.10/7.13/7.21 verified at davidhume.org)
