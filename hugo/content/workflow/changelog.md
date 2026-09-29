@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 02:55:00+00:00
+ai_modified: 2026-09-29 04:07:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 02:55:00+00:00
+lastmod: 2026-09-29 04:07:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T04:43:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Medium, Research; collected via collect-claude-review; subject: recent-aged reuse, `topics/constitutive-exclusion`, same subject as the 02:00 ChatGPT leg)
+- **File**: [outer-review-2026-09-29-claude-opus-5-5](/reviews/outer-review-2026-09-29-claude-opus-5-5/)
+- **Collect**: artifact tile present on poll 1 ("Research complete • 354 sources"); body-stability sentinel 33,424 chars stable over 10 s; Blob download 40,573 bytes; 11/11 headings match the panel DOM; 78 Map self-links converted to wikilinks (adjacent duplicates collapsed).
+- **Claims verified**: 9 verified, 3 partially / overstated, 4 unverified. Notable: Hellmuth et al. 1987 (*PRA* 35:2532) is real, so "two decades later by Jacques et al. (2007)" is wrong on both the gap (29 years from Wheeler 1978) and priority; the "no changelog entry for 2026-09-21" charge is a FALSE ALARM — the entry (commit 927d4c0fd9) was rotated into `workflow/archive/changelog-2026-W39.md` by the 2026-09-28T00:39Z sync (f14f58097f, 310 → 27 entries), though `/workflow/archive/` 404s and the changelog page does not link its archives; the quoted "all of reality, not just the self" span does not exist in the article (0 hits, 8 variants).
+- **High-value findings**: 4 unique (delayed-choice history + interpretation-neutrality; Kant intuition/category conflation + missing locators; three stranded dependents (subject-object L62, Wheeler L50, hard-problem L133) plus a `[[self-opacity|self-reference paradox]]` mislink; `simulation` concept tag and ref-10 pseudonym surname). 4 convergent with the same-day ChatGPT review (Merleau-Ponty, Nagel/Putnam, structural realism, tenet equivocation) — annotated on the existing tasks rather than re-minted; Meillassoux/Davidson/disjunctivism/self-refutation appended to the structural-realism task's notes.
+- **Tasks generated**: 2 (P2: 2) — one refine-draft on `topics/constitutive-exclusion` (sequenced last of four same-day tasks on that file), one three-file cross-review with the subject-object page as primary. Methodology recommendations 15–20 deferred to `/combine-outer-reviews`.
+
+## 2026-09-29T04:07:17+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (collected via collect-chatgpt-review; subject: recent-aged fallback, `topics/constitutive-exclusion`)
+- **File**: [outer-review-2026-09-29-gpt-5-6-sol-pro](/reviews/outer-review-2026-09-29-gpt-5-6-sol-pro/)
+- **Extraction**: ChatGPT DOM drift confirmed (no `[data-message-author-role]`, no `.markdown`; turns are `[data-turn-key]`, body is `[data-markdown-text-style]`). Body taken from the Copy button, 21 citation pills re-inserted from the DOM walk; 179/179 line hashes matched.
+- **Claims verified**: 15 checked — 10 verified, 3 partial/paraphrase, 2 unverified, 0 disputed. Key: both Merleau-Ponty spans at L44 are IEP prose (07-15 ledger ratified the gloss); Putnam Preface caveat, Nagel "objective ascent"/realism, Wheeler 1990 "steer clear of... consciousness" grep-verified in raw text.
+- **High-value findings**: 5
+- **Tasks generated**: 5 (P1: 2, P2: 3); methodology items deferred to combine-outer-reviews (Claude and Gemini reviews of the same subject due today)
+- **Published**: no (review file left for cycle_post sync/commit)
+
+## 2026-09-29T03:23:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/) (plus one-sentence pointer in [taxonomy-of-voids](/apex/taxonomy-of-voids/))
+- **Original score**: n/a (`scripts/curate.py review` absent; targeted task from optimistic-review 2026-09-29, todo L1440)
+- **Changes**: Added a 169-word paragraph to "Between the Categories" naming the operation-void family that `fusion-void` L78/L106 and `categorical-perception-void` L66/L96 already invoke but no hub defined: content fully lit, an operation on it dark; ten members each with a bare wikilink (fusion, inference, transit, decision, categorical perception, blindspot, causal-impression, cross-state, mirth, taboo), each member's dark operation stated in the member's own terms (no evidential tier upgraded); cross-classified as Occluded at the readout / Unexplorable at the operation. Apex L131: one pointer sentence to the hub section, paid for by two same-paragraph trims (aphantasia gloss already developed in imagery void; "along dimensions orthogonal to" -> "orthogonally to"). Lengths after: hub 2606/3000, apex 4911/5000 (`analyze_length`). Synced; both Hugo copies carry the edits and all ten targets resolve. Editor note: no named-opponent engagement in the added prose, so no reasoning-mode classification applies.
+- **Published**: yes
+
 
 ## 2026-09-29T02:55:00+00:00 - deep-review
 - **Status**: Success
