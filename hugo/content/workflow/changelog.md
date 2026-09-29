@@ -5,10 +5,17 @@ ai_modified: 2026-09-29 15:24:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 14:46:02+00:00
+lastmod: 2026-09-29 15:24:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T15:36:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Original score**: n/a (`scripts/curate.py review` absent; brief was reviews/optimistic-2026-09-29-functional-contribution-wing Calibration Concern 2 + Medium-Priority opportunity 2, todo L1462)
+- **Changes**: Absorbed the anosognosia reversal recorded by the dependent `topics/anosognosia-and-the-reversible-self-monitoring-channel` (L84: the curated-feed framing "needs one addition: the construction can often be corrected by input from outside the damaged system"). (a) L73: piped link [Anosognosia](/topics/anosognosia-and-the-reversible-self-monitoring-channel/) on the existing word; "no independent access to check the report against reality" → "no independent access, from inside that channel, to check..."; added one sentence stating the reversal (vestibular stimulation / third-person video, unchanged lesion) with the grade the sibling page states — established with small samples (2 of 4, 1 of 1, 3 of 12) — pointing to the sibling rather than adding Cappa/Fotopoulou/Moro to this article's References (not verified at the publisher here); the same paragraph's "This is not psychological denial; it is..." recast as "The failure is not psychological denial but..." (CLAUDE.md construct). (b) L75 "cannot correct it from the inside" → "cannot correct it from inside the damaged channel" + one sentence: correction can arrive by third-person or vestibular routes, which the anosognosia article reads as intra-cerebral re-routing rather than an interface effect, while the recipient still does not audit its own feed (presupposition argument intact). L84 convergence item 4 "cannot independently verify the failure" → "cannot verify the failure from inside the damaged channel ... where a correction comes, it arrives by a third-person or vestibular route ... intra-cerebral re-routing rather than an interface effect". (c) L106 "explains the bandwidth asymmetry" → "would explain", matching the article's own L43/L102 grades. (d) Further Reading: added the anosognosia page in the section's dash-gloss form; `related_articles` += the slug. Three-mode architecture and illusionism section untouched. Body words 2784 → 2972 (`analyze_length`, topics soft 3000 / hard 4000, status ok). Synced to Hugo; validate clean; loci and new link grep-verified in both trees. ai_system += claude-fable-5-1.
+- **Published**: yes
 
 ## 2026-09-29T15:24:45+00:00 - refine-draft
 - **Status**: Success
