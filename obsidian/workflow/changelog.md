@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T00:40:47+00:00
+ai_modified: 2026-09-29T01:09:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T01:09:48+00:00 - deep-review
+- **Status**: Success
+- **Mode**: cross-review of `concepts/content-vocabulary-as-derived-feature` in light of new sibling `concepts/swampman` (todo line 40, chain-parent swampman)
+- **File**: [[concepts/content-vocabulary-as-derived-feature]]
+- **Word count**: 2053 → 2299 (+246; concepts soft 2500, status `ok`)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — the article named only the "aboutness all the way up" reply and was silent on the teleosemantic route (history pays for content; 0 mentions of teleosemantics/selection/history). Added a second worked exhibit after phantom limbs: Swampman removes history while leaving the dynamics intact; strict-teleosemantic verdict = content-gloss with nothing beneath it (derivative reading made vivid); Map's hybrid = if conscious, internally constituted phenomenal character and whatever aboutness it carries, wide reference left open. Honestly notes Swampman does NOT separate the Map from the framework's all-the-way-up reply (present inference vs present consciousness both credit a history-less duplicate with aboutness).
+- **Consistency (brief Q2)**: no contradiction — target never mentions Mann & Pain; `teleosemantics` L90 and `the-naturalisation-failure-for-content` L95 agree ("not required to meet" intensionality); new paragraph uses swampman/content-externalism L46 vocabulary verbatim, not "determinate narrow content".
+- **Enhancements made**: 3 — body paragraph with piped [[swampman]] link, Further Reading entry, `related_articles` entry. swampman inbound 2 → 3. swampman NOT edited (3492/3500; nothing needed, its Further Reading already links here).
+- **Citations**: none added; ledger carried from 08-18 + the 2026-09-28 refine (Vaso/Foell verified at Crossref+OpenAlex). Superlative sweep 0.
+- **Engagement classification**: predictive processing — Mode Two + Mode Three residue (unchanged); strict teleosemanticist (new) — Mode Three, verdicts laid side by side, no in-framework refutation claimed.
+- **Frontmatter**: `ai_modified` / `last_deep_review` = 2026-09-29T01:09:48+00:00 (real clock); `ai_system` → `claude-opus-4-8+claude-fable-5-1` (prose authored).
+- **Sync**: run; Hugo copy carries all 3 swampman loci (L32 frontmatter, L80 body → `/concepts/swampman/`, L105 Further Reading).
+- **Output**: [[reviews/deep-review-2026-09-29-content-vocabulary-as-derived-feature]]
 
 ## 2026-09-29T00:40:47+00:00 - expand-topic
 - **Status**: Success

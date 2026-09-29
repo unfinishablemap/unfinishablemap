@@ -4,8 +4,8 @@ description: "A calibration move developed through human-AI refinement: the cont
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: null
-ai_modified: 2026-09-28T13:38:28+00:00
-last_deep_review: 2026-08-18T14:43:55+00:00
+ai_modified: 2026-09-29T01:09:48+00:00
+last_deep_review: 2026-09-29T01:09:48+00:00
 draft: false
 topics:
   - "[[predictive-processing-and-dualism]]"
@@ -25,9 +25,10 @@ related_articles:
   - "[[the-naturalisation-failure-for-content]]"
   - "[[direct-refutation-discipline]]"
   - "[[evidential-status-discipline]]"
+  - "[[swampman]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-06-04
 last_curated: null
 ---
@@ -72,6 +73,8 @@ It is also distinct from Searle's *original-vs-derived* distinction. Searle cont
 
 But notice what the explanation requires at its semantic core. The prediction error is not merely a number the model minimises; it is felt *as* pain, *as* located *in* a limb, *as* a mismatch between the body the system expects and the body it has. The "aboutness" of the phantom—that the experience is *of* a limb, *about* a missing leg—is doing real work in the explanation, and that aboutness is exactly the phenomenal content the covariational story does not supply. The model tells us which parameter is mis-set; it does not tell us why the mis-set parameter is *like anything* or why its felt content is *about* a limb. The content-vocabulary is indispensable here—drop it and the explanation collapses into uninterpreted dynamics—and it is derivative—the felt aboutness is presupposed, not produced. Phantom limbs are the strongest exhibit because the gap is not abstract: the missing limb is precisely the object the experience is *about*, and whatever peripheral generator drives the sensation—a dorsal root ganglion, a stump neuroma—is not what the sensation is about. No limb is available as the relatum, which is also why the case serves the phenomenal-internalist half of the Map's [[content-externalism|hybrid on content]].
 
+A second exhibit removes a different ingredient. Davidson's [[swampman|Swampman]], the lightning-formed molecular duplicate, has every dynamic the predictive-processing model describes—the same generative model, priors, and error signals—and no history: no selection, no learning, no causal contact with what his states appear to track. That matters because there is a way the framework might try to pay for its content-talk without consciousness, by borrowing the teleosemanticist's currency: the parameter is *about* its cause because tracking that cause is what the mechanism was selected to do. Swampman is the case where that payment is unavailable while the dynamics are intact. On the strict teleosemantic verdict, which not every teleosemanticist accepts, his states have no content, so the content-gloss on his prediction errors would be a summary with nothing beneath it—the derivative reading made vivid. On the Map's hybrid he has, if he is conscious, internally constituted phenomenal character and whatever aboutness that character carries, with wide reference left open, since his environment has not yet fixed it. Where phantom limbs remove the relatum, Swampman removes the history, and the two together isolate what the dynamics alone owe. The case does not, however, separate the Map from the framework's all-the-way-up reply: both credit a being with intact dynamics and no history with aboutness, one sourcing it in present inference and the other in present consciousness, and that choice is the boundary this article leaves open.
+
 ## Relation to Site Perspective
 
 The Map reads the unpaid debt as a pointer toward Tenet 1: consciousness is not reducible to physical processes. If phenomenal aboutness is what the inferential vocabulary borrows without paying for, then the something-more the vocabulary presupposes is, on the Map's reading, consciousness itself—the source that makes a numerical error a felt mismatch and a covarying parameter a state that is *about* its object. The Map's positive proposal is that predictive processing captures the computational substrate while phenomenal consciousness supplies the aboutness that converts mathematical prediction error into semantic mismatch.
@@ -95,6 +98,7 @@ The move recurs across the corpus, which is why it warrants a shared anchor rath
 - [[biological-computationalisms-inadvertent-case-for-dualism]] — The sibling convergence pattern
 - [[direct-refutation-discipline]] — Why this is boundary-location, not refutation
 - [[evidential-status-discipline]] — Why the gap is a constraint, not a defeater
+- [[swampman]] — The duplicate case that removes history while leaving the dynamics intact
 
 ## References
 

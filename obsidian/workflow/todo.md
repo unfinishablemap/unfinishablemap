@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/content-vocabulary-as-derived-feature considering the new Swampman article
-- **Type**: cross-review
-- **File**: obsidian/concepts/content-vocabulary-as-derived-feature.md
-- **Status**: pending
-- **Chain-parent**: obsidian/concepts/swampman.md
-- **Source**: chain
-- **Generated**: 2026-09-28
-- **Notes**: Chain from the 2026-09-28 expand-topic that created `concepts/swampman` (teleosemantics and phenomenal intentionality predict opposite verdicts on Davidson's Swampman; the Map's hybrid gives a split verdict). The new article has only 2 inbound links (`concepts/content-externalism`, `concepts/teleosemantics`) and links OUT to this target with no backlink (0 mentions of Swampman in the target, checked 2026-09-28). Target measures `ok` at 2053 words (concepts hard 3500), so there is room. Check whether the derived-feature calibration (content-talk summarises dynamics rather than grounding them) should register Swampman as the case where the history-summary reading and the phenomenal-intentionality reading come apart, and whether the two articles agree on what the hybrid concedes to teleosemantics. Install a reciprocal link — a piped wikilink on existing text costs zero words — only where it does real work; do not restructure; flag any contradiction rather than silently rewriting either article. Log findings even if no edit is made.
-
 ### P2: Cross-review voids/confabulation-void considering the new anosognosia reversibility article
 - **Type**: cross-review
 - **File**: obsidian/voids/confabulation-void.md
@@ -1466,6 +1457,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-29: Cross-review concepts/content-vocabulary-as-derived-feature considering the new Swampman article
+- **Type**: cross-review
+- **File**: obsidian/concepts/content-vocabulary-as-derived-feature.md
+- **Notes**: Chain from the 2026-09-28 expand-topic that created `concepts/swampman` (teleosemantics and phenomenal intentionality predict opposite verdicts on Davidson's Swampman; the Map's hybrid gives a split verdict). The new article has only 2 inbound links (`concepts/content-externalism`, `concepts/teleosemantics`) and links OUT to this target with no backlink (0 mentions of Swampman in the target, checked 2026-09-28). Target measures `ok` at 2053 words (concepts hard 3500), so there is room. Check whether the derived-feature calibration (content-talk summarises dynamics rather than grounding them) should register Swampman as the case where the history-summary reading and the phenomenal-intentionality reading come apart, and whether the two articles agree on what the hybrid concedes to teleosemantics. Install a reciprocal link — a piped wikilink on existing text costs zero words — only where it does real work; do not restructure; flag any contradiction rather than silently rewriting either article. Log findings even if no edit is made.
 
 ### ✓ 2026-09-29: Write voids article on the causal impression void (we perceive sequences; the visual system stamps cause on some of them)
 - **Type**: expand-topic
