@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 00:25:55+00:00
+ai_modified: 2026-09-29 00:40:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
@@ -9,6 +9,15 @@ lastmod: 2026-09-29 00:25:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T00:40:47+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Causal Impression Void (voids)
+- **Output**: [causal-impression-void](/voids/causal-impression-void/)
+- **Word count**: 2916 total (analyze_length; voids hard 3000), trimmed from 3017
+- **Based on research**: yes, [voids-causal-impression-void-2026-09-27](/research/voids-causal-impression-void-2026-09-27/)
+- **Seams**: register entry added to [voids](/voids/); pointer + reciprocal link added to [causal-interface](/voids/causal-interface/) (2190 → still under 3000)
+- **Verification**: Rolfs 2013 and Kominsky & Scholl 2020 abstracts verified via Europe PMC; Hume EHU 7.10/7.13/7.26 and the occasionalist parity passage verified at davidhume.org; reference metadata checked via Crossref (Sinclair 2020 corrected to 28(5), 903–922). Michotte, Anscombe verb list and Biran cited via secondary sources and flagged as such; intentional binding not used.
 
 ## 2026-09-29T00:25:55+00:00 - deep-review
 - **Status**: Success

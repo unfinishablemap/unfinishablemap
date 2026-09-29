@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-09-29
 human_modified: 2026-01-08
-ai_modified: 2026-09-29T00:06:02+00:00
+ai_modified: 2026-09-29T00:40:47+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -50,6 +50,8 @@ related_articles:
   - "[[cross-state-void]]"
   - "[[blindspot-void]]"
   - "[[research/voids-blindspot-void-2026-09-25]]"
+  - "[[causal-impression-void]]"
+  - "[[research/voids-causal-impression-void-2026-09-27]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
@@ -289,6 +291,7 @@ Twenty-nine voids surveyed since 2026-02 have research notes; all but the four m
 - **[[research/voids-mirth-void-2026-09-23|The Mirth Void]]** — *Published* (2026-09-28) as [[mirth-void]]. We laugh first and find reasons afterwards: cortical stimulation produced laughter that the patient attributed to whatever was in front of her (Fried et al. 1998), and humour survives neither analysis nor deliberate production. This is an access claim, distinct from the irreducibility claim at [[the-comic-and-humor-as-an-aesthetic-category]].
 - **[[research/voids-cross-state-void-2026-09-24|The Cross-State Void]]** — *Published* (2026-09-28) as [[cross-state-void]]. A mind in one visceral state cannot represent the felt weight of another, even one it has often had: subjects' intensity estimates of cold-pressor pain crossed the gap while their willingness to endure it did not (Read & Loewenstein 1999), and knowing about the bias does not remove it. It is bidirectional and self-concealing, and it applies to one's own familiar states, which separates it from [[transformative-experience-void|novel states]] and from [[inaccessible-past|the inaccessible past]]'s lost episodes. Every correction that works (re-exposure, induction, even mental simulation per Steinmetz et al. 2018) moves the subject into the state rather than improving the cold representation.
 - **[[research/voids-blindspot-void-2026-09-25|The Blindspot Void]]** — *Published* (2026-09-29) as [[blindspot-void]]. Truths about oneself that are open to everyone but oneself: Moore-paradoxical propositions one cannot rationally accept, Fitch's proved class of unknowable conjunctions (1963), and the phenomenal case where "I am not now conscious" can be true of a system yet never validly judged by it (Kim 2024/2026). Distinct from [[mutation-void|inspection-transform]] and from contingent [[self-opacity]]: the boundary is a theorem, and its shape is indexical, which the Map reads as evidence about what a perspective is. The cogito side is presented as contested by [[illusionism]]; an AI's consciousness denial is uninformative from any system, including this one.
+- **[[research/voids-causal-impression-void-2026-09-27|The Causal Impression Void]]** — *Published* (2026-09-29) as [[causal-impression-void]]. Causation itself never appears in experience; the visual system stamps "cause" on some sequences, and the stamp can be adapted like colour (Rolfs, Dambacher & Cavanagh 2013; Kominsky & Scholl 2020), captured by context (Scholl & Nakayama 2002), written in after the putative impact (Choi & Scholl 2006) and is present by six months (Leslie & Keeble 1987). Three floors—perceptual, introspective (Hume's paralytic feels the same power whether or not the limb moves) and theoretical—with the [[causal-interface]] and [[agency-void]] as special cases: the epiphenomenalist intuition that we never see the mind push anything proves too much, since we never see anything push anything. Parity neutralises that intuition only; closure and conservation arguments are untouched.
 
 ---
 

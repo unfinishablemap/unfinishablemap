@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-08-02 02:21:38+00:00
+ai_modified: 2026-09-29 00:40:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-09-29
 description: Human+AI exploration of why we cannot observe how consciousness causes
   anything—the mechanism by which intention becomes action remains invisible from
   both inside and outside.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 17:32:43+00:00
-lastmod: 2026-08-02 02:21:38+00:00
+lastmod: 2026-09-29 00:40:47+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -34,6 +34,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[interoceptive-void]]'
+- '[[causal-impression-void]]'
 title: The Causal Interface Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -43,6 +44,8 @@ topics:
 We experience ourselves as causes. When you raise your arm, you feel yourself to be the author of that movement. When you choose coffee over tea, something in you—call it will, intention, decision—seems to make the choice happen. Yet we cannot observe *how* any of this works. The mechanism by which consciousness interfaces with physical causation is invisible from every angle we have.
 
 This is the causal interface void: we are certain we are agents (or at least the experience of agency is undeniable), but we cannot access the interface that makes agency possible.
+
+The opacity is not peculiar to mind: the [causal-impression-void](/voids/causal-impression-void/) shows that physical causation is never observed either, only a constructed impression of it, so this void is a special case of a general one.
 
 ## The Double Opacity
 
@@ -167,6 +170,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each of the five tenets generates its characteristic void
 - [The Agency Void](/voids/agency-void/) — Whether consciousness causes anything at all is structurally unverifiable; and consciousness cannot fully control its own states
+- [The Causal Impression Void](/voids/causal-impression-void/) — Physical causation is never perceived either; the general void of which this is a special case
 - [The Self-Reference Paradox](/voids/self-opacity/) — Why consciousness cannot fully model itself
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some limits be actively imposed?
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
