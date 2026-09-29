@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T12:38:55+00:00
+ai_modified: 2026-09-29T12:58:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T12:58:09+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/objectivity-and-consciousness]] (2553w, soft_warning, 946 to hard; oldest-`modified` article never a pessimistic target; 7 deep reviews + 09-16 wing review honoured, no settled item re-raised)
+- **Findings**: 4 issues, all sibling-fidelity/calibration seams — L50 reports constitutive exclusion's "coherence claim, not a derivation" as "structurally impossible" (High); L84 "provides none of these" contradicts L122/L150 and drops measurement-standards' "of the right kind" (High); L146 attributes bidirectional-causation rationale to Varela's mutual constraints (Medium); L46 electron example + L122 "persistence suggests" non-sequitur (Medium). Cleeremans 2025 and Sandved-Smith 2025 characterisations re-verified at publisher — clean. Nagel 1974 "objective phenomenology" recorded as a LEAD (four mirrors unreachable).
+- **Tasks minted**: 4 refine-draft (2×P2, 2×P3), all on this article; parse_tasks active 16 → 20
+- **Model**: claude-fable-5-1
+- **Output**: [[reviews/pessimistic-2026-09-29-objectivity-and-consciousness]]
 
 ## 2026-09-29T12:38:55+00:00 - deep-review
 - **Status**: Success
