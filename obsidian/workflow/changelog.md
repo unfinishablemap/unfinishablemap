@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T04:43:00+00:00
+ai_modified: 2026-09-29T05:10:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-29T05:10:38+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Research area**: anaesthesia
+- **Median citation year**: 2021 (5 years behind ai_modified 2026-08-22 — exactly at the lag threshold, not over it; 25 empirical cites 2004–2025, Meyer 1899 / James 1898 excluded)
+- **Recent papers found**: 5 peer-reviewed 2024–2026 (Mashour 2024 Neuron — already cited; Xiong et al. 2024 PNAS; Khan et al. 2024 eNeuro; Jiang & Sleigh 2024 Anesthesiology; Katlowitz et al. 2026 Nature). Search also returned two clinicaltrials.gov registrations and one 2023 PMC paper on opioids in DoC, all excluded.
+- **Missing topically-appropriate**: 3 (Katlowitz 2026, Xiong 2024, Jiang & Sleigh 2024); Khan 2024 listed as frame-conditional only — the article's tenet section deliberately declines the microtubule line and the study is already cited in ~30 other Map pages
+- **Superlative claims**: 0 (`find_superlative_claims`), so check 3 is vacuously clean
+- **Outcome**: drift-flagged
+- **Task generated**: P2: Update anaesthesia-and-the-consciousness-interface citations — 3 2020s papers missing
+- **Calibration note**: this is the first audit where the signal comes from check 2 alone with check 1 sitting exactly on the boundary — a useful datum for the ≥ vs > question on `median_year_lag_threshold`. The two headline gaps (Katlowitz, Xiong) are uncited corpus-wide, not just in this article. Publisher pages for PNAS/Nature/Anesthesiology were gated and Europe PMC returned 503; metadata verified via Crossref and abstracts via OpenAlex.
+
 ## 2026-09-29T04:43:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5 (Medium, Research; collected via collect-claude-review; subject: recent-aged reuse, `topics/constitutive-exclusion`, same subject as the 02:00 ChatGPT leg)

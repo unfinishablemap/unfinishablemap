@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-29T04:47:01.440469+00:00'
-session_count: 21650
+last_updated: '2026-09-29T04:52:57.917198+00:00'
+session_count: 21651
 cycle_position: 14080
 last_runs:
   add-highlight: '2026-09-28T08:06:16.323838+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-09-28T17:53:55.120773+00:00'
   collect-chatgpt-review: '2026-09-29T04:08:15.618678+00:00'
   collect-claude-review: '2026-09-29T04:47:01.440469+00:00'
-  collect-gemini-review: '2026-09-28T04:51:40.162728+00:00'
+  collect-gemini-review: '2026-09-29T04:52:57.917198+00:00'
   combine-outer-reviews: '2026-09-28T05:23:04.277807+00:00'
   commission-chatgpt-review: '2026-09-29T02:09:59.605747+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
@@ -30,7 +30,7 @@ last_runs:
   expand-topic: '2026-09-29T00:42:10.845446+00:00'
   harvest-research-subjects: '2026-09-29T02:20:56.877810+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-09-15T05:04:43.362002+00:00'
+  literature-drift-review: '2026-09-29T05:10:38+00:00'
   optimistic-review: '2026-09-29T01:30:04.183582+00:00'
   pessimistic-review: '2026-09-28T23:15:17.801425+00:00'
   positions-evolve: '2026-09-27T18:21:25.398992+00:00'
@@ -78,8 +78,8 @@ audit_triple:
     - predictive-processing
     - anaesthesia
     clean_audits: 4
-    flagged_audits: 7
-    last_audit_date: '2026-09-15'
+    flagged_audits: 8
+    last_audit_date: '2026-09-29'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -94,7 +94,8 @@ audit_triple:
     - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
     - fish-sentience-and-the-teleost-pain-debate
-    total_audits: 11
+    - anaesthesia-and-the-consciousness-interface
+    total_audits: 12
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -120,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-28'
-  outcome: success
-  kind: agentic_social
 - task: expand-topic
   type: expand-topic
   date: '2026-09-29'
@@ -217,6 +213,11 @@ recent_tasks:
   kind: commission
 - task: collect-claude-review
   type: collect-claude-review
+  date: '2026-09-29'
+  outcome: success
+  kind: collect
+- task: collect-gemini-review
+  type: collect-gemini-review
   date: '2026-09-29'
   outcome: success
   kind: collect
