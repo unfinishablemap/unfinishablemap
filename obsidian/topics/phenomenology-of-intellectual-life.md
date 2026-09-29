@@ -2,9 +2,9 @@
 title: "The Phenomenology of Intellectual Life"
 description: "Intellectual life has irreducible phenomenal character: the work of inference, the click of comprehension, five modes of meaning, and the felt texture of knowing."
 created: 2026-01-22
-modified: 2026-05-22
+modified: 2026-09-29
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-09-29T11:17:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,6 +43,7 @@ concepts:
   - "[[global-workspace-theory]]"
   - "[[evaluative-phenomenal-character]]"
 related_articles:
+  - "[[correlationism-and-the-ancestrality-argument]]"
   - "[[tenets]]"
   - "[[argument-from-reason]]"
   - "[[phenomenology-of-recursive-self-awareness]]"
@@ -182,7 +183,7 @@ Grasping an argument requires unity: premises held together, connection seen, co
 
 If intellectual phenomenology were epiphenomenal — causally inert decoration on underlying computation — then the felt difference between knowing and guessing would be illusion. The more parsimonious view: the phenomenology of intellectual life is what it is *like* to think. The same epiphenomenalism worry recurs on a different substrate in [[quiddity-epiphenomenalism-and-the-contingency-thesis|quiddity epiphenomenalism and the contingency thesis]], where it threatens Russellian monism's grounded quiddities rather than intellectual phenomenology.
 
-**Constitution vs reliable correlation.** A fair critic accepts the phenomenology but asks whether PCT needs the strong claim rather than the weaker thesis that phenomenology reliably co-varies with cognitive achievement. Three considerations push toward constitution. The correlational view leaves the achievement specifiable without reference to phenomenology, reopening the epiphenomenalist embarrassment: the experience could be subtracted while the achievement remained. The tight coupling between phenomenology and competence is explained if the phenomenology partly constitutes the competence; under correlation, it is brute regularity. And under Bidirectional Interaction the phenomenal work of inference does causal work on which states become actual — a thing that does causal work is not plausibly a mere correlate. A correlationist who accepts epiphenomenalism can hold the weaker thesis coherently, at the cost of these explanatory burdens.
+**Constitution vs reliable correlation.** A fair critic accepts the phenomenology but asks whether PCT needs the strong claim rather than the weaker thesis that phenomenology reliably co-varies with cognitive achievement. Three considerations push toward constitution. The correlational view leaves the achievement specifiable without reference to phenomenology, reopening the epiphenomenalist embarrassment: the experience could be subtracted while the achievement remained. The tight coupling between phenomenology and competence is explained if the phenomenology partly constitutes the competence; under correlation, it is brute regularity. And under Bidirectional Interaction the phenomenal work of inference does causal work on which states become actual — a thing that does causal work is not plausibly a mere correlate. A defender of the co-variation thesis who accepts epiphenomenalism can hold it coherently, at the cost of these explanatory burdens; "correlation" here means reliable co-variation, the opposite of the constitutive [[correlationism-and-the-ancestrality-argument|correlationism]] Meillassoux names.
 
 The functionalist argues that "felt difference" just is the difference in functional architecture. David Pitt (2004) argues this does not exhaust the phenomenal character: hearing "bank" as financial institution versus riverbank produces distinct phenomenal states from identical sensory input; people with aphantasia still experience the click of comprehension; understanding "The man ran" differs phenomenally from understanding "The man who saw the woman who chased the dog ran." The difference is structural, not sensory. Deflationary replies (Prinz, Carruthers) reduce the alleged proprietary phenomenology to quasi-sensory vehicles plus functional role; the Map finds the proprietary reading more plausible because the ambiguity and recursion cases hold phonology fixed while comprehension varies, and the structural phenomenology of inferential necessity does not resemble any sensory or motor profile.
 

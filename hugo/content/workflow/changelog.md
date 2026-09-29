@@ -1,15 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 10:10:49+00:00
+ai_modified: 2026-09-29 11:03:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 09:56:43+00:00
+lastmod: 2026-09-29 11:03:18+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-09-29T11:03:18+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Correlationism and the ancestrality argument: Meillassoux's challenge to consciousness-constitutes views (todo line 40, P2, harvested from outer-review-2026-09-29-claude-opus-5-5 §3)
+- **Output**: [correlationism-and-the-ancestrality-argument-2026-09-29](/research/correlationism-and-the-ancestrality-argument-2026-09-29/)
+- **Sources consulted**: 18 (raw-text verified: Brassier 2007 pp. 54–63, Hallward 2008, Zahavi 2016 accepted ms, Wiltsche 2017 proofs, Rutten working paper, Meillassoux 2012 lecture; Crossref-verified metadata for Zahavi, Wiltsche, Muller 2020, Golumbia 2016, Young 2020, Gabriel 2022, Blok 2017, García-Fernández 2026). No [V] quotation from *After Finitude* itself — Continuum text not opened; AF page-locators carried via two agreeing secondaries.
+- **Headline finding**: a minimal-quantum-interaction dualism is neither correlationist nor subjectalist in Meillassoux's own 2012 taxonomy; ancestrality is a shared premise. Live pressure: Brassier 2007 p. 60 (emergence of consciousness as "ontological rupture") on the constitutive-exclusion fourth rung, answerable via [P-Q2](/positions/quantum-interface/#p-q2)/[P-Q9](/positions/quantum-interface/#p-q9) locality; facticity bites only on rung 2 via the "bedrock" wording.
+- **Task chain**: not written by this fork — driver to mint the expand-topic entry (proposed slug `correlationism-and-the-ancestrality-argument`, topics/).
 ## 2026-09-29 10:10 UTC - deep-review
 - **Status**: Success
 - **Task**: P1 cross-review — three inbound pages still assert the flat, pre-2026-09-21 constitutive exclusion (subject-object L62, Wheeler L50, hard-problem L133), plus a self-reference-paradox mislink

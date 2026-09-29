@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-06 14:19:52+00:00
+ai_modified: 2026-09-29 11:19:58+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[panpsychism]]'
 - '[[higher-order-theories]]'
 created: 2026-01-27
-date: &id001 2026-04-28
+date: &id001 2026-09-29
 description: Physics describes what matter does but not what it is. Consciousness
   cannot specify what it is made of. These are the same void viewed from two directions—and
   Russellian monism shows why.
@@ -22,9 +22,10 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 18:02:54+00:00
-lastmod: 2026-09-06 14:19:52+00:00
+lastmod: 2026-09-29 11:19:58+00:00
 modified: *id001
 related_articles:
+- '[[correlationism-and-the-ancestrality-argument]]'
 - '[[voids]]'
 - '[[tenets]]'
 - '[[tenet-generated-voids]]'
@@ -61,7 +62,7 @@ This is not a temporary gap. The method of physics is structural description—[
 
 Kant formalised this limit by distinguishing *phenomena* (the world as it appears) from *noumena* (the world in itself). We can know phenomena because they are structured by our cognitive apparatus, but noumena require transcending our faculties—seeing from nowhere in particular. The concept of noumenon serves as a "limiting concept": we can know *that* noumena exist (as the necessary ground of phenomena) without knowing *what* they are.
 
-This maps directly onto the void. Physical science gives us phenomena—complete relational description. The intrinsic nature grounding these relations lies in the noumenal realm, structurally inaccessible to scientific method. The [constitutive-exclusion](/topics/constitutive-exclusion/) develops the point: our concepts are part of the constitutive contribution consciousness brings to experience, so they cannot step outside themselves to grasp what reality is apart from them.
+This maps directly onto the void. Physical science gives us phenomena—complete relational description. The intrinsic nature grounding these relations lies in the noumenal realm, structurally inaccessible to scientific method. The [constitutive-exclusion](/topics/constitutive-exclusion/) develops the point: our concepts are part of the constitutive contribution consciousness brings to experience, so they cannot step outside themselves to grasp what reality is apart from them. Meillassoux's speculative materialism takes the mathematisable properties to be the in-itself, leaving no such residue to conceal; [correlationism-and-the-ancestrality-argument](/topics/correlationism-and-the-ancestrality-argument/) explains why the Map accepts his realism about structure and ancestral fact while keeping this void open.
 
 ## Consciousness as Exception
 

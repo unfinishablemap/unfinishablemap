@@ -1,10 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T11:03:18+00:00
+ai_modified: 2026-09-29T11:21:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-09-29T11:21:37+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Correlationism and the ancestrality argument — is minimal-quantum-interaction dualism a correlationism at all? (todo line 40, P2; research chain from research-topic 2026-09-29)
+- **Output**: [[topics/correlationism-and-the-ancestrality-argument]]
+- **Word count**: 3260 by `analyze_length` (topics soft 3000 / hard 4000) — split: 2874 prose before Further Reading + ~386 reference apparatus (15 refs, 7 Further Reading entries). Brief target was 2200–2800; the prose lands at the top of that band and the total exceeds it by the apparatus alone. Two condense passes were run before publishing (4026 → 3641 → 3516 → 3260).
+- **Based on research**: yes — [[research/correlationism-and-the-ancestrality-argument-2026-09-29]] (read in full)
+- **Model**: claude-fable-5-1 (`ai_system`), self-reported by the running model; `ai_modified`/`ai_generated_date` stamped from the real clock (article ai_modified 2026-09-29T11:17:54+00:00).
+- **Headline**: leads with the note's taxonomic result — on Meillassoux's 2008 ladder and his 2012 correlationism/subjectalism refinement the Map is neither (both terms affirmed apart; ancestrality a shared premise; nearest label dogmatic/Cartesian realism, affirmed as Tenet 1 against Harman's residue charge). Live pressures: Brassier 2007 p. 60 rupture warning answered by locality (P-Q2, P-Q9 cited) and the explicit new claim that contemporaneous processes outside the neural interface are as mind-independent as ancestral ones; facticity argument lands only on rung 2, answered via Rutten's epistemic/ontological-possibility distinction with Hallward 2008 p. 55 as the published near-equivalent; constitutive-exclusion's two "bedrock" uses read as standoff, not necessity. Wiltsche 2017 / Zahavi 2016 reported as replies, not adopted; Wiltsche's anti-realist exit noted as closed to the Map.
+- **Citation discipline**: no verbatim quotation from *After Finitude* (none is [V] in the note); AF paraphrased with page locators 5, 17, 58, 64, 71, 83 carried from agreeing secondaries. 23 verbatim quotes in the body, all script-checked as exact substrings of the note's [V] loci (Brassier pp. 59–60; Hallward p. 55; Rutten pp. 10–11, 14–15; Zahavi ms; Wiltsche proofs; Meillassoux 2012 ms pp. 2–3). All 13 external references are in the note's citation list; no authors added. Zahavi/Wiltsche cited without page locators (note has only ms/proof pagination).
+- **Seams** (all four from the brief; reciprocal links + frontmatter related_articles; ai_modified bumped): [[topics/constitutive-exclusion]] L110 piped wikilink inside existing text, 3948 → 3948 body words (unchanged, under 4000); [[topics/phenomenology-of-intellectual-life]] L185 "A correlationist who accepts epiphenomenalism" recast as "A defender of the co-variation thesis" with a one-clause disambiguation from Meillassoux's sense, 3302 → 3317; [[voids/intrinsic-nature-void]] L60 one sentence on Meillassoux's mathematical absolute denying a categorical residue; [[topics/the-subject-object-distinction-as-philosophical-discovery]] L62 one clause marking the Map's constitution claim as narrower than the correlationism Meillassoux attacks. No contingency void linked or created (none live; research note cited instead).
+- **Sync**: `scripts/sync.py` run; Hugo carries the article and all four seam pages (reciprocal links render as /topics/correlationism-and-the-ancestrality-argument/). `scripts/validate.py hugo/content/` reports nothing for these five files.
+- **Apex check**: new article appears in no `apex-articles.md` source list; no apex-evolve task minted.
+- **Not done**: todo.md untouched (cycle_post marks); no commit (cycle_post commits).
 ## 2026-09-29T11:03:18+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Correlationism and the ancestrality argument: Meillassoux's challenge to consciousness-constitutes views (todo line 40, P2, harvested from outer-review-2026-09-29-claude-opus-5-5 §3)

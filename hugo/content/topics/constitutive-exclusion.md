@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-09-29 09:56:43+00:00
+ai_modified: 2026-09-29 11:17:54+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -18,9 +18,10 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 23:24:47+00:00
-lastmod: 2026-09-29 09:56:43+00:00
+lastmod: 2026-09-29 11:17:54+00:00
 modified: *id001
 related_articles:
+- '[[correlationism-and-the-ancestrality-argument]]'
 - '[[voids]]'
 - '[[tenets]]'
 - '[[observation-and-measurement-void]]'
@@ -112,7 +113,7 @@ The strongest objections concede the knower's contribution and deny that it excl
 
 **Disjunctivism.** McDowell (1994), the relationalists engaged at [naturalist-relationalism](/concepts/naturalist-relationalism/) and the later Putnam deny the veil the transparency illusion presupposes: perception at its best is the world itself in view. The exclusion need not posit a veil. It claims that the world in view is the world as an embodied perceiver takes it in, which the disjunctivist grants; whether "as taken in" adds a contribution the perceiver cannot subtract lies closer to bedrock than to anything either side has refuted.
 
-**Meillassoux.** *After Finitude* (2008) names the thesis correlationism: access only to the correlation between thinking and being, never to either term apart. His argument from ancestrality—science states facts about a time before any consciousness—is one the Map's own [prebiotic collapse](/concepts/prebiotic-collapse/) account already grants: objective mechanisms fixed determinate outcomes before minds. That realist premise governs the headline. The Map is a realist about pre-conscious physical fact; the constitutive contribution is local, the exclusion concerns access to categorical nature rather than the existence or determinacy of ancestral events, and "consciousness helps constitute reality" cannot mean that ancestral reality awaited a mind. His second argument, that asserting the correlation inescapable already absolutises its facticity, is the self-refutation objection in another dress.
+**Meillassoux.** *After Finitude* (2008) names the thesis correlationism: access only to the correlation between thinking and being, never to either term apart. His [argument from ancestrality](/topics/correlationism-and-the-ancestrality-argument/)—science states facts about a time before any consciousness—is one the Map's own [prebiotic collapse](/concepts/prebiotic-collapse/) account already grants: objective mechanisms fixed determinate outcomes before minds. That realist premise governs the headline. The Map is a realist about pre-conscious physical fact; the constitutive contribution is local, the exclusion concerns access to categorical nature rather than the existence or determinacy of ancestral events, and "consciousness helps constitute reality" cannot mean that ancestral reality awaited a mind. His second argument, that asserting the correlation inescapable already absolutises its facticity, is the self-refutation objection in another dress.
 
 **Self-refutation.** A thesis about the structure of all possible knowing is itself a knowledge claim, and if true can only be a claim about reality-as-constituted. The Map concedes this and claims no exemption: the exclusion is a fallible claim about knowers as they appear to themselves and to one another—about conditions, in Kant's sense, not a report from outside them—and is refutable in the ordinary way. The same concession covers the Map's dualism. If no knowledge escapes the knower's contribution, the claim that consciousness is non-physical and interacts at quantum indeterminacies is as contribution-laden as any physicalist rival, and [self-opacity](/voids/self-opacity/) leaves the dualist's self-knowledge no better placed. Nothing exempts it, which is why the void supplies no support for dualism.
 
