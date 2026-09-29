@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-29T17:56:55.285921+00:00'
-session_count: 21702
-cycle_position: 14108
+last_updated: '2026-09-29T18:09:51.873776+00:00'
+session_count: 21703
+cycle_position: 14109
 last_runs:
   add-highlight: '2026-09-29T08:10:15.277048+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-09-29T14:47:32.167308+00:00'
   pessimistic-review: '2026-09-29T12:59:14.988040+00:00'
   positions-evolve: '2026-09-27T18:21:25.398992+00:00'
-  refine-draft: '2026-09-29T17:08:43.889143+00:00'
+  refine-draft: '2026-09-29T18:09:51.873776+00:00'
   replenish-queue: '2026-09-28T21:44:01.219832+00:00'
   research-topic: '2026-09-29T11:04:13.336949+00:00'
   research-voids: '2026-09-28T21:32:59.498094+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-29'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-09-29'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-09-29'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-29'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -653,33 +653,31 @@ agentic_social:
     - philosophy-of-mind
     - metaphysics
 queue_status:
-  last_replenishment: '2026-09-28T21:55:00+00:00'
+  last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: 'RUN 1033 (2026-09-28 21:5x UTC, driver-invoked: cycle_pick
-    returned queue_empty while count_p0_p2_tasks read 11, all blocked / needs-human).
-    MODE standard. MINTED 8: six expand-topic (voids) from task_chains.pending_articles
-    oldest-first (taboo 09-14, categorical-perception 09-15, mirth 09-23, cross-state
-    09-24, blindspot 09-25, causal-impression 09-27), each content-deduped against
-    live+archive by subject terms (no live void treats any of them; nearest neighbours
-    named as seams in Notes), all six slugs free, voids 103/115 by count_section_files;
-    plus two cross-review chain tasks for 2026-09-25/28 expand-topic outputs with
-    only 2 inbound links each (swampman -> content-vocabulary-as-derived-feature;
-    anosognosia-reversibility -> confabulation-void). The six minted research files
-    were REMOVED from task_chains.pending_articles; assent-void 09-28 and handedness-void
-    09-28 remain there for the next run. Source cap of 3 deliberately exceeded for
-    unconsumed_research per driver instruction (8 notes backed up, LIFO strands the
-    oldest). DECLINED: length_analysis (25 files at hard_warning is the corpus steady
-    state and four NEEDS-HUMAN length-policy entries are already open), positions
-    audit (last ran 2026-09-21, inside the 30-day window), orphan_integration (quality.orphaned_files
-    0), staleness (deep-review has 4 of 24 cycle slots). No blocked NEEDS-HUMAN entry
-    was promoted or re-minted. Driver posts state; this run did not commit.'
+  last_replenishment_note: 'RUN 1034 (2026-09-29 17:4x UTC, driver-invoked: the gate was masked - all 14 active tasks blocked
+      NEEDS-HUMAN while count_p0_p2_tasks read 8). MODE standard. MINTED 6: 2 expand-topic voids
+      from task_chains.pending_articles (assent-void, handedness-void; both removed from pending_articles
+      here; voids 109/115 by count_section_files), 3 expand-topic from unconsumed research with
+      0 live hits on their subject terms and 0 todo mentions (cotard-delusion 09-16 -> concepts;
+      quantum-factorisation-problem 09-25 -> concepts; influxus-physicus 09-17 -> topics; concepts
+      335/360, topics 335/360), 1 P3 deep-review staleness (apex/judging-the-map-as-science, never
+      deep-reviewed, ai_modified 09-07, apex is outside the cycle pool). DECLINED: length_analysis
+      - 28 content files have prose over hard, but every topics/concepts/voids case carries a HUMAN
+      LENGTH DECISION, a veto, or was modified today, and epistemology-of-convergence-arguments
+      (prose 5192/4000) has had condense passes on 05-25, 08-01 and 08-02 that each left it near
+      5900, so a fourth is churn and it needs a human call; positions audit (last_audit_date 2026-09-29);
+      orphan_integration (quality.orphaned_files 0); voids notes dormancy/serial-order/veto (register
+      marks them Surveyed = operator call); research-topic (harvester runs 6h, research-voids is
+      LIFO net-negative with 5 unconsumed voids notes). 11 further unconsumed non-voids notes from
+      09-15..09-24 remain for the next run.'
   last_replenishment_run: 1033
   loop_pickable_open: 8
   needs_replenishment: false
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 16
-  p3_tasks: 6
+  p2_tasks: 13
+  p3_tasks: 7
   replenishment_source_counts:
     chain: 2
     check_tenets: 0
@@ -694,14 +692,11 @@ queue_status:
     positions_register_gap: 0
     promotion_from_p3: 0
     review_spillover: 0
-    staleness: 0
-    unconsumed_research: 6
+    staleness: 1
+    unconsumed_research: 3
 task_chains:
   pending_articles:
-  - research_file: obsidian/research/voids-assent-void-2026-09-28.md
-    target_section: voids
-  - research_file: obsidian/research/voids-handedness-void-2026-09-28.md
-    target_section: voids
+  pending_articles: []
   pending_cross_reviews: []
 tune_system_history:
   no_change_runs:

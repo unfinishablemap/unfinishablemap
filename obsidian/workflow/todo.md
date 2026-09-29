@@ -1441,6 +1441,65 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
+### P2: Write article on The Assent Void — the moment of taking-as-true is causally central and phenomenally absent
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/assent-void.md
+- **Section**: voids
+- **Status**: pending
+- **Source**: chain (task_chains.pending_articles → research-voids 2026-09-28)
+- **Research**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-assent-void-2026-09-28.md
+- **Generated**: 2026-09-29
+- **Notes**: Slug `assent-void` (free — no live or archived file; `assent void`/`assent-void` return 0 live hits across voids/concepts/topics/apex, grep -iF 2026-09-29). Voids measured **109/115** by `count_section_files` 2026-09-29 (re-measure at pick time). Listed in `task_chains.pending_articles` (target_section voids) and NOT yet registered in `voids/voids.md` §Research-Stage Voids — add a *Published* register entry after creation and remove the pending_articles entry. Build angle 1 from the note ("three faces (control, timing, transparency), each with a different modal status … Open by distinguishing it from suspension, decision, and certainty"); the note's angle 2 (Hieronymi's evaluative control) belongs as a section, not a separate page. **Sourcing limits from the note's own Gaps** propagate to the article: Evans (1982) transparency passage "was **not** verified verbatim here. Paraphrase it, or verify it before quoting"; Nadarevic & Erdfelder (2013) abstract not retrieved; Williams 1973 page range unchecked; Ginet (2001) seen only via SEP. Quote nothing the note marks unverified. Voids band 2000/3000/4000 — aim ~1800–2400 body words. Related_articles per the note: [[suspension-void]], [[decision-void]].
+
+### P2: Write article on The Handedness Void — a limit that moved: Kant's hand, the Ozma problem, and the residue after 1957/1964
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/handedness-void.md
+- **Section**: voids
+- **Status**: pending
+- **Source**: chain (task_chains.pending_articles → research-voids 2026-09-28)
+- **Research**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-handedness-void-2026-09-28.md
+- **Generated**: 2026-09-29
+- **Notes**: Slug `handedness-void` (free). Absorption check 2026-09-29: `handedness`, `left-handed`, `chirality` each return **0** live files across voids/concepts/topics/apex, so nothing to fold into. Voids measured **109/115** 2026-09-29 (re-measure; the assent-void task above takes one slot first). Listed in `task_chains.pending_articles`, unregistered in `voids/voids.md` — add a *Published* entry and clear the pending_articles entry. Angle 1 recommended by the note: "Lead with Kant's hand and the Ozma problem, narrate the 1957/1964 closure, then argue for the residue (ostension survives, concept does not). Use it as the calibration exhibit for the whole catalogue: what a *resolved* void looks like, and what 'resolved' fails to mean." **Sourcing limits (note's Gaps)**: "Gardner's own text, Block 1974, Pooley 2003, Takano 1998, Gormley 2008, and Feynman ch. 52 were verified at metadata level only; the article must quote none of them without fetching the primary text"; the Wolf 1973 prevalence figure is second-hand via CMAJ 2016; the Guugu Yimithirr phenomenology question has no source — state it as open, do not answer it. Related per the note: [[language-thought-boundary]], [[embodiment-cognitive-limits]], sisters [[vagueness-void]], [[suspension-void]].
+
+### P2: Write article on Cotard delusion as the self-model channel's existence-report failure
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/cotard-delusion.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: unconsumed_research
+- **Research**: /home/andy/unfin/unfinishablemap/obsidian/research/cotard-delusion-2026-09-16.md
+- **Generated**: 2026-09-29
+- **Notes**: Slug `cotard-delusion` (free). Note is 13 days old and unconsumed: `Cotard` returns **0** live files across topics/concepts/voids/apex/positions (grep -iF 2026-09-29; the note's own corpus grep found the same), no expand task was ever minted (0 todo mentions), not vetoed. Concepts measured **335/360** 2026-09-29 (re-measure). Build the note's angle 1, "Cotard Delusion and the Self-Model's Existence Report" (concepts/, ~1,800–2,400 words): "Lead with the performative datum and the 'reported from somewhere' test; state the Capgras mirror in one paragraph citing the 1992/1993/1994 sequence; give the two-factor prediction and the DP-continuum picture; give Gerrans 2022 as the standing dissent; close with the two-tier verdict (architecture tightened, significance neutral) and Berrios & Luque's Tenet-5 warning." Cross-link as the fourth term of the act / limb / person series in [[capgras-delusion-and-the-affective-recognition-channel]] (which never mentions Cotard) and to [[self-opacity]] / [[self-and-self-consciousness]]. **Note's Gaps propagate**: Charland-Verville 2013, Young & Leafhead 1996, Gennaro 2020, Gerrans 2024 and the Cotard 1880/1882 primaries are all unread — no regional claim, no case-detail quotation, and the neutrality claim must be hedged against the unread higher-order/active-inference chapters. Front-load the neutral verdict.
+
+### P2: Write article on the quantum factorisation problem for consciousness — entanglement is tensor-product-structure-relative, so every entanglement-based unity or individuation claim owes a factorisation
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quantum-factorisation-problem.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: unconsumed_research
+- **Research**: /home/andy/unfin/unfinishablemap/obsidian/research/quantum-factorisation-problem-2026-09-25.md
+- **Generated**: 2026-09-29
+- **Notes**: Slug `quantum-factorisation-problem` (free; British spelling per the note, mention "factorization" once so searches hit both). Unconsumed since 2026-09-25: `factorisation problem` and `factorization problem` both return **0** live files (grep -iF 2026-09-29), 0 todo mentions, not vetoed. Concepts measured **335/360** 2026-09-29 (re-measure; the Cotard task above takes one slot first). Build the note's recommended structure: TPS-relativity lead (ZLL 2004 quote, from the note's verified set only); Level 1 Tegmark/mereology with the Stoica–Soulas dispute marked unresolved; Levels 2–3 IIT exclusion, Gambini & Pullin, Ismael & Schaffer, Georgiev; then **the Map's exposure** — (a) the binding cluster and (b) "the einselection dependence of P-Q1. Point (b) is the finding." Relation to Site Perspective per the note: Tenet 1 both-edged via Stoica; Tenet 2 "needs a *where*, and that is the pairing debt"; Tenet 4 parity risk to the indexical argument; Tenet 5 HSF cannot fix its own subsystems. Keep within the concepts band (2500/3500/5000). **Note's Gaps propagate**: Carroll & Singh 2021, Kabernik 2020, Zanardi 2024, Soulas 2025, Gambini & Pullin 2025, Ismael & Schaffer 2020, Barrett 2014, Georgiev 2020/2021 are abstract-only — anything beyond abstract content is a lead, not a citation; the Ismael & Schaffer "scattered reflections" phrasing is unverified — do not quote it; write "no interactionist treatment located as of 2026-09-25", never "none exists". Follow-ons for the executor to record, not perform: [[post-decoherence-selection-programme]] factorisation booking; [[entanglement-binding-hypothesis]] L86 TPS presupposition; P-SC2 Pairing gap needs a positions-evolve update (register requires a dated Updated note).
+
+### P2: Write article on the eighteenth-century influxus physicus debate — Knutzen, Crusius and the pre-critical Kant as the reversal of the anti-interactionist consensus
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/eighteenth-century-influx-debate.md
+- **Section**: topics
+- **Status**: pending
+- **Source**: unconsumed_research
+- **Research**: /home/andy/unfin/unfinishablemap/obsidian/research/influxus-physicus-debate-2026-09-17.md
+- **Generated**: 2026-09-29
+- **Notes**: Slug `eighteenth-century-influx-debate` (free; note suggested `the-eighteenth-century-influx-debate` — drop the article). Unconsumed since 2026-09-17: `influxus`, `Knutzen`, `Crusius`, `physical influx`, `pre-critical Kant` each return **0** live files (grep -iF 2026-09-29), 0 todo mentions, not vetoed. Topics measured **335/360** 2026-09-29 (re-measure). Note's recommended angle: a **reception history, not a survey of positions** — "Lead with the reversal. Then the four strands of *why* (theological, institutional, redefinitional, not empirical). Then Knutzen's concession as the closing turn"; Tenet 3 gets a historical precedent, Tenet 5 a case where the law-preserving theory lost for reasons unrelated to simplicity. Skip Leibnizian pre-established-harmony background the Map already carries. ⚠️ **The note's central premise is self-flagged as unconfirmed**: "The 'dominant academic position' premise is unconfirmed in those words … Either read Watkins 1998 or weaken the claim" — Watkins 1998 and 1995 are both unread, so the article must state the dominance claim as Lorini/Watkins-reported, not as established; "No Latin primary source was consulted … Every Knutzen sentence here is at one remove"; "The 'Wolff retracted in 1724' claim is unverified and possibly false" — omit it. **Citation trap**: Watkins 2003 cites a second, different "Watkins (1998)" (*Studies in History and Philosophy of Science* 29: 539-560) — do not conflate with the *Perspectives on Science* paper. Secondary hosts the note names for later cross-linking (record, do not edit this pass beyond a reciprocal): [[history-of-the-interaction-problem]] §The Materialist Eclipse (bridge the 250-year jump), [[causal-closure-debate-historical-survey]], [[occasionalism]], [[conservation-laws-and-mental-causation]], [[objections-to-interactionism]].
+
+### P3: Deep review apex/judging-the-map-as-science — never deep-reviewed, 22 days since last edit, unreachable by the cycle's deep-review pool
+- **Type**: deep-review
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/judging-the-map-as-science.md
+- **Section**: apex
+- **Status**: pending
+- **Source**: staleness
+- **Generated**: 2026-09-29
+- **Notes**: `last_deep_review` is absent from the frontmatter (never deep-reviewed); `ai_contribution: 100`; `ai_modified: 2026-09-07T18:48:43+00:00` (22 days, so outside the churn window). The cycle's deep-review pool excludes apex/ (`tools/evolution/deep_review.py`), so only a queue task reaches this file. Length measured 2026-09-29 by `analyze_length`: **4799 body words against apex hard 5000 — headroom 200**; review is length-neutral or negative. It was the subject of two outer reviews on 2026-08-20 (`reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-08-20-claude-opus-5.md`) — read their findings and the resolutions recorded there first, so the review does not re-raise a fenced item or re-open a recorded resolution; no open task targets this file (the only active-section mentions are inside the blocked `positions/methodology-and-calibration` P2's notes). Lenses: calibration of the "science" framing against the positions register's confidence bands, quote fidelity at any verbatim citation, and whether the apex still tracks the topic articles it synthesises after the September refine passes.
+
 ## Completed Tasks
 
 
