@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T03:23:16+00:00
+ai_modified: 2026-09-29T04:07:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-29T04:07:17+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (collected via collect-chatgpt-review; subject: recent-aged fallback, `topics/constitutive-exclusion`)
+- **File**: [[reviews/outer-review-2026-09-29-gpt-5-6-sol-pro]]
+- **Extraction**: ChatGPT DOM drift confirmed (no `[data-message-author-role]`, no `.markdown`; turns are `[data-turn-key]`, body is `[data-markdown-text-style]`). Body taken from the Copy button, 21 citation pills re-inserted from the DOM walk; 179/179 line hashes matched.
+- **Claims verified**: 15 checked — 10 verified, 3 partial/paraphrase, 2 unverified, 0 disputed. Key: both Merleau-Ponty spans at L44 are IEP prose (07-15 ledger ratified the gloss); Putnam Preface caveat, Nagel "objective ascent"/realism, Wheeler 1990 "steer clear of... consciousness" grep-verified in raw text.
+- **High-value findings**: 5
+- **Tasks generated**: 5 (P1: 2, P2: 3); methodology items deferred to combine-outer-reviews (Claude and Gemini reviews of the same subject due today)
+- **Published**: no (review file left for cycle_post sync/commit)
+
 ## 2026-09-29T03:23:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/three-kinds-of-void]] (plus one-sentence pointer in [[apex/taxonomy-of-voids]])
