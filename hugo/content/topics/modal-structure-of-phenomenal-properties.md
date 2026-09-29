@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-08-02 03:04:04+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-29 15:53:35+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[qualia]]'
@@ -26,8 +26,8 @@ description: Possibility, necessity, and conceivability reveal that phenomenal p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-15 08:01:14+00:00
-lastmod: 2026-08-02 03:04:04+00:00
+last_deep_review: 2026-09-29 15:53:35+00:00
+lastmod: 2026-09-29 15:53:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,11 +49,11 @@ Physical properties have tightly constrained modal structures. Water's chemical 
 
 Phenomenal properties break this pattern in three ways:
 
-**Detachability.** Phenomenal properties can be coherently conceived as absent from their physical correlates. The [zombie scenario](/concepts/philosophical-zombies/) separates all physical properties from all phenomenal properties. Unlike the water/H₂O case, learning more about neural correlates doesn't make the separation less conceivable — it makes the gap more vivid.
+**Detachability.** Phenomenal properties can be coherently conceived as absent from their physical correlates. The [zombie scenario](/concepts/philosophical-zombies/) (Chalmers 1996) separates all physical properties from all phenomenal properties. Unlike the water/H₂O case, learning more about neural correlates doesn't make the separation less conceivable — it makes the gap more vivid.
 
 **Variability.** Phenomenal properties can be coherently conceived as varying while physical and functional properties remain fixed. The [inverted spectrum](/concepts/inverted-qualia/) scenario holds function constant while qualitative character changes. No physical property permits this: you cannot hold H₂O fixed while varying its boiling point at standard pressure.
 
-**Epistemic independence.** Complete physical knowledge leaves phenomenal facts undetermined. The [knowledge argument](/concepts/knowledge-argument/) argues that someone who knows every physical fact about colour vision still learns something upon seeing colour for the first time. No physical property has this feature: complete physical knowledge of water tells you everything about water.
+**Epistemic independence.** Complete physical knowledge leaves phenomenal facts undetermined. The [knowledge argument](/concepts/knowledge-argument/) (Jackson 1982) argues that someone who knows every physical fact about colour vision still learns something upon seeing colour for the first time. No physical property has this feature: complete physical knowledge of water tells you everything about water.
 
 ## Kripke's Asymmetry
 
@@ -86,15 +86,15 @@ The standard physicalist response to modal arguments is to deny that conceivabil
 
 This analogy is weaker than it appears. Pre-chemical conceivability of "water without H₂O" reflected genuine ignorance: we didn't know what water was made of. When we learned, the conceivability vanished. But the conceivability of zombies doesn't reflect ignorance — it reflects understanding. As neuroscience catalogues the structural and dynamical properties of the brain in increasing detail, nothing in these descriptions logically entails phenomenal properties. Each new discovery specifies more physical facts while leaving the question of why there is experience entirely open. The type-B physicalist responds that we may simply not yet grasp the a posteriori identity between physical and phenomenal properties — that the connection, like water = H₂O, will prove necessary once understood. But the cases are disanalogous: with water, learning the hidden nature dissolved the conceivability, whereas with consciousness, fuller knowledge of neural correlates makes the absence of entailment more explicit, not less.
 
-Chalmers formalizes the relevant standard with the [conceivability-possibility inference](/concepts/conceivability-possibility-inference/): a scenario is *ideally positively conceivable* if it can be coherently imagined in full detail, not merely if we fail to see a contradiction. Zombies pass this test. We don't merely fail to derive consciousness from physics — we positively grasp a complete physical scenario lacking consciousness, with no hidden incoherence emerging as we fill in detail.
+Chalmers (2002) formalizes the relevant standard with the [conceivability-possibility inference](/concepts/conceivability-possibility-inference/): a scenario is *ideally positively conceivable* if it can be coherently imagined in full detail, not merely if we fail to see a contradiction. Zombies pass this test. We don't merely fail to derive consciousness from physics — we positively grasp a complete physical scenario lacking consciousness, with no hidden incoherence emerging as we fill in detail.
 
 For physical identities, increased understanding collapses apparent conceivability. For phenomenal properties, increased understanding entrenches it. This directional contrast between physical and phenomenal cases gives strong reason to trust that phenomenal conceivability tracks genuine possibility.
 
 ## The Phenomenal Concepts Response
 
-The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) offers the most sophisticated physicalist response to modal arguments. It claims that phenomenal concepts — the concepts we deploy when introspecting experience — are unlike ordinary physical concepts in ways that generate an explanatory gap even if consciousness is physical. The gap is conceptual, not ontological.
+The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) offers the most sophisticated physicalist response to modal arguments. It claims that phenomenal concepts — the concepts we deploy when introspecting experience — are unlike ordinary physical concepts in ways that generate an [explanatory gap](/concepts/explanatory-gap/) (Levine 1983) even if consciousness is physical. The gap is conceptual, not ontological.
 
-Chalmers's "master argument" against this strategy exploits modal structure directly. Consider a zombie: it would have the same brain states and therefore the same conceptual apparatus, including whatever makes phenomenal concepts "special." If that specialness is physically explicable, the zombie has it too — yet the zombie doesn't face a genuine hard problem. The physicalist must then explain why *we* find consciousness puzzling in exactly the way the zombie (mistakenly) does. If phenomenal concepts' specialness is *not* physically explicable, there is a non-physical element in our concepts — and the explanatory gap is real, not merely conceptual.
+Chalmers's (2007) "master argument" against this strategy exploits modal structure directly. Consider a zombie: it would have the same brain states and therefore the same conceptual apparatus, including whatever makes phenomenal concepts "special." If that specialness is physically explicable, the zombie has it too — yet the zombie doesn't face a genuine hard problem. The physicalist must then explain why *we* find consciousness puzzling in exactly the way the zombie (mistakenly) does. If phenomenal concepts' specialness is *not* physically explicable, there is a non-physical element in our concepts — and the explanatory gap is real, not merely conceptual.
 
 The modal structure of the dilemma is precise: either the special feature of phenomenal concepts is modally entailed by physical properties (and zombies have it, making the gap illusory for them too) or it is not (making the gap ontological). No middle ground is available. For the full critical evaluation of how each PCS version fails this dilemma, see the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) page.
 
@@ -108,7 +108,7 @@ This matters modally because it introduces indexical modal facts. The question "
 
 ## Relation to Site Perspective
 
-The modal structure of phenomenal properties provides some of the strongest support for the Map's [foundational commitments](/tenets/).
+The modal structure of phenomenal properties articulates, rather than independently establishes, the Map's [foundational commitments](/tenets/).
 
 **[Dualism](/tenets/#dualism)**: The systematic modal independence of phenomenal from physical properties is the formal backbone of the Map's dualism. Once irreducibility is taken as the Map's framing (argued for elsewhere, not by appeal to the modal structure that articulates it — a circularity the [epistemology of convergence arguments](/topics/epistemology-of-convergence-arguments/) is explicit about avoiding), this independence is what irreducibility *looks like* across possibility and necessity: phenomenal properties detached, varied, and withheld from their physical correlates not through ignorance but through understanding. The convergence of four modal arguments, each targeting a different dimension of the phenomenal-physical relationship, makes that articulation cumulative rather than resting on any single intuition.
 

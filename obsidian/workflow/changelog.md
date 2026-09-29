@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T15:36:14+00:00
+ai_modified: 2026-09-29T15:53:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T15:53:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/modal-structure-of-phenomenal-properties]]
+- **Word count**: 2405 → 2411 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (inline↔References orphan leg discharged for 5 entries; L107 register harmonised with the L36/L109 "framing, not independent evidence" qualifier)
+- **Enhancements made**: 6 (five inline cite tags, one body wikilink to explanatory-gap)
+- **Citations**: Chalmers 2007 DOI, Jackson 1982, Levine 1983 re-verified at Crossref — all real-correct
+- **Engagements**: type-B physicalist Mode Two; illusionist Mode Two; PCS Mixed — unchanged, no label leakage
+- **Model**: claude-fable-5-1
+- **Output**: [[reviews/deep-review-2026-09-29-modal-structure-of-phenomenal-properties]]
 
 ## 2026-09-29T15:36:14+00:00 - refine-draft
 - **Status**: Success
