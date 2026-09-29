@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T05:10:38+00:00
+ai_modified: 2026-09-29T07:14:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-29T07:14:53+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-29
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5-5; gemini abandoned at launch)
+- **Subject**: `topics/constitutive-exclusion` (both legs, recent-aged fallback)
+- **Clusters**: 8 convergent, 12 singleton, 2 divergent (changelog retrieval — adjudicated for ChatGPT; Heidegger/Husserl evidential weight — mild)
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4 — structural-realism/defeaters, tenet-equivocation + lead ladder, delayed-choice/Kant/locators, three-file stranded-dependents cross-review)
+- **Tasks deduplicated**: 0 (the Claude collecting pass had cross-annotated instead of re-minting; 6 tasks had fields rewritten, 2 were already P1)
+- **Adjudication**: the Claude collecting pass's "unique to this review" list was wrong on three items (delayed-choice interpretation, Kant intuition/category conflation, missing page locators) — ChatGPT raised all three in its citation audit without minting them, so the Claude-minted task is convergent and was upgraded. Disputed and excluded: Claude's "no changelog entry for 2026-09-21" (entry is live at `/workflow/archive/changelog-2026-w39/`, HTTP 200) and its quoted span "all of reality, not just the self" (absent from the article).
+- **Methodology**: 3 convergent proposal pairs recorded as dated addenda on standing NEEDS-HUMAN entries (2026-09-07 ledger inheritance — now with a second evidenced instance, the IEP gloss certified "verbatim at PP 453" on 07-15 and inherited "not re-litigated" on 09-10; 2026-08-03 staleness propagation — sixth cycle; 2026-07-25 opponent-parity as a gate before "converged"). No project-doc task minted.
+- **Residual for the operator**: `/workflow/archive/` returns 404 (no section index) and `workflow/changelog.md` does not link its weekly archives, although every weekly page is live — the navigation gap behind Claude's false alarm. Not minted.
+- **Parser check**: 24 active tasks before and after; no headings added; `git diff --stat` touches todo.md, changelog.md and the new synthesis file only (evolution-state.yaml was already dirty on entry).
+- **Output**: [[reviews/outer-review-synthesis-2026-09-29]]
+
 ## 2026-09-29T05:10:38+00:00 - literature-drift-review
 - **Status**: Success
 - **Article**: [[topics/anaesthesia-and-the-consciousness-interface]]
