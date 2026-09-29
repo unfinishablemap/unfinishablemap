@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot access reality in
 created: 2026-03-05
 modified: 2026-09-29
 human_modified:
-ai_modified: 2026-09-29T09:58:00+00:00
+ai_modified: 2026-09-29T09:56:43+00:00
 last_deep_review: 2026-09-10T23:24:47+00:00
 draft: false
 topics:
