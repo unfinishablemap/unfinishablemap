@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-08 16:01:33+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-29 17:41:15+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 concepts: []
 created: 2026-07-07
-date: '2026-08-08'
+date: '2026-09-29'
 draft: false
-lastmod: 2026-08-08 16:01:33+00:00
+lastmod: 2026-09-29 17:41:15+00:00
 related_articles: []
 title: Research Notes - Philosophy of Habit Under Dualism
 ---
@@ -78,8 +78,8 @@ Habit is the philosophical hinge between conscious activity and automatic proces
 - **URL**: https://pubmed.ncbi.nlm.nih.gov/18558860/
 - **Type**: Peer-reviewed review
 - **Key points**:
-  - Habits are structured, chunked action sequences (motor *or* cognitive) elicited by a context/cue; they become "relatively automatic and unconscious."
-  - **Chunking**: the striatum/basal ganglia bind sub-actions into a single unit run as a whole ("action chunking"); task-bracketing activity marks the start and end of a learned routine.
+  - Habits are structured, chunked action sequences (motor *or* cognitive) elicited by a context/cue; once fully acquired they are "performed almost automatically, virtually nonconsciously, allowing attention to be focused elsewhere." (Corrected 2026-09-29: the earlier quoted phrase "relatively automatic and unconscious" is not in the 2008 full text; this is the verbatim definitional sentence.)
+  - **Chunking**: the striatum/basal ganglia bind sub-actions into a single unit run as a whole ("action chunking"); accentuated activity at the beginning and end of a learned routine marks its boundaries (the 2008 review says "boundary-marked"; "task-bracketing" is Graybiel's later term and does not occur in the 2008 text).
   - Habits form via experience-dependent plasticity in basal-ganglia circuits and can outlast the goals that created them.
   - (Companion: A. M. Graybiel & S. T. Grafton, "The Striatum: Where Skills and Habits Meet," *Cold Spring Harb Perspect Biol* 7(8), 2015 — explicitly locates the skill/habit interface.)
 - **Tenet alignment**: Neutral/empirical; supplies the **physical-trace** mechanism (**Tenet 3**). Use carefully — the article must not let the neural story *become* the metaphysics (that would concede Tenet 1). Frame: the basal-ganglia circuit is where the delegated procedure runs; it is the substrate written by conscious calibration, not the origin of the calibrating selection.
@@ -115,7 +115,7 @@ Habit is the philosophical hinge between conscious activity and automatic proces
 - **Type**: Book (contemporary synthesis; Carlisle is Ravaisson's English translator)
 - **Key points**:
   - Habit involves both **receptivity and resistance to change** as basic principles of habit-formation — habit makes us plastic *and* rigid.
-  - The philosophy of habit "anticipates the discoveries of recent neuroscience" and carries **ethical** significance (Aristotle: excellence is a habit; Hume: custom is "the great guide of human life" (*Enquiry* V.i); Proust: "if habit is a second nature, it prevents us from knowing our first").
+  - The philosophy of habit "anticipates the discoveries of recent neuroscience" and carries **ethical** significance (Aristotle: excellence is a habit; Hume: custom is "the great guide of human life" (*Enquiry* V.i); Proust: "if habit is a second nature, it prevents us from knowing our original nature") (Moncrieff, *Cities of the Plain*, 1927 — verified verbatim 2026-09-29; "our first" is the later Kilmartin/Enright revision).
   - Contrasts Spinoza vs. Hume on whether habitual thinking is reliable knowledge.
 - **Tenet alignment**: Neutral/framing; the best single secondary source for structuring the article's history section and its ethical dimension.
 
@@ -162,7 +162,7 @@ Habit is the philosophical hinge between conscious activity and automatic proces
 - **Current state**: Ongoing; the Map sides with the "lowered activity / delegation" reading — decisively relevant to Tenet 1.
 
 ### Does habit free us or imprison us?
-- **Sides**: Habit as enabling (Aristotle's virtue, Hume's "guide of life," frees attention for novelty) vs. habit as ossifying (Proust's "second nature prevents us knowing our first"; addiction as pathological habit).
+- **Sides**: Habit as enabling (Aristotle's virtue, Hume's "guide of human life," frees attention for novelty) vs. habit as ossifying (Proust's "second nature prevents us knowing our original nature"; addiction as pathological habit).
 - **Core disagreement**: The ethical valence of delegation. Carlisle: habit is *both* receptivity and resistance to change.
 - **Current state**: Live; gives the article an ethical/existential dimension the skill cluster lacks.
 

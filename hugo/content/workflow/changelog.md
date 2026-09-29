@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 17:23:39+00:00
+ai_modified: 2026-09-29 17:41:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
@@ -9,6 +9,18 @@ lastmod: 2026-09-29 17:23:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T17:41:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-habit-under-dualism](/topics/philosophy-of-habit-under-dualism/)
+- **Word count**: 2516 → 2591 (+75)
+- **Critical issues addressed**: 3 (Graybiel 2008 "relatively automatic and unconscious" is a paraphrase-as-quote — replaced with the verbatim definitional sentence from the full text; "task-bracketing" is not in the 2008 review, reworded to its "boundary-marking" vocabulary; Proust "knowing our first" is the Kilmartin/Enright revision — corrected to Moncrieff 1927 "knowing our original nature", verified by grep of the raw text)
+- **Medium issues addressed**: 2 (inline-to-References orphans — Graybiel & Grafton 2015, Hume *Enquiry* V.i, Proust *Cities of the Plain* entries added; Aristotle *hexis*/*ethos* conflation)
+- **Enhancements made**: 0
+- **Sibling sweep**: `research/philosophy-of-habit-under-dualism-2026-07-07` corrected in place (Graybiel quote, task-bracketing, Proust ×2, Hume "guide of life" at L161)
+- **Engagements**: Peirce, Merleau-Ponty, Dewey, Malafouris — Mode Three, unchanged from 2026-08-08
+- **Output**: [deep-review-2026-09-29-philosophy-of-habit-under-dualism](/reviews/deep-review-2026-09-29-philosophy-of-habit-under-dualism/)
+
 
 ## 2026-09-29T17:23:39+00:00 - integrate-orphan
 - **Status**: Success (queue task todo.md L1444, P3, `integrate-orphan`; cycle_pick mapped it to deep-review, but no deep-review file was written — this is a link-install pass, not a content review, and the target file was NOT edited)

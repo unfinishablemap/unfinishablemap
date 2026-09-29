@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-07
-ai_modified: 2026-09-25 15:30:51+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-29 17:41:15+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[skill-delegation]]'
@@ -17,8 +17,8 @@ description: 'Habit is the interface''s delegation function: conscious selection
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-08 16:01:33+00:00
-lastmod: 2026-09-25 15:30:51+00:00
+last_deep_review: 2026-09-29 17:41:15+00:00
+lastmod: 2026-09-29 17:41:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Neither thinker is a dualist—Dewey's transactionalism is explicitly naturalist
 
 ## The Cognitive-Science Signature: Cue-Triggered and Outcome-Insensitive
 
-Contemporary cognitive science operationalizes what the philosophers described. Ann Graybiel's review "Habits, Rituals, and the Evaluative Brain" (*Annual Review of Neuroscience*, 2008) characterizes habits as chunked action sequences—motor or cognitive—elicited by a context or cue and become "relatively automatic and unconscious." Through **chunking**, basal-ganglia circuits bind sub-actions into a single unit run as a whole, with task-bracketing activity marking a routine's start and end. Habits form through experience-dependent plasticity and can outlast the goals that created them.
+Contemporary cognitive science operationalizes what the philosophers described. Ann Graybiel's review "Habits, Rituals, and the Evaluative Brain" (*Annual Review of Neuroscience*, 2008) characterizes habits as chunked action sequences—motor or cognitive—elicited by a context or cue which, once fully acquired, are "performed almost automatically, virtually nonconsciously, allowing attention to be focused elsewhere." Through **chunking**, basal-ganglia circuits bind sub-actions into a single unit run as a whole, with accentuated activity at a routine's beginning and end marking its boundaries. Habits form through experience-dependent plasticity and can outlast the goals that created them.
 
 Wendy Wood and Dennis Rünger's "Psychology of Habit" (*Annual Review of Psychology*, 2016) names the defining marker: habits are **outcome-insensitive**. As a behavior repeats in a stable context, the *cue*—not the goal—comes to trigger the response, so a well-learned response can fire even when it conflicts with current intentions. Habit and deliberate goal pursuit operate synergistically; habit is the efficient default, overridden only when motivation *and* the opportunity for deliberate control are both present. Nathaniel Daw and colleagues formalize the split as **model-free** control (habitual: cheap, inflexible, caches past action values) versus **model-based** control (goal-directed: costly, flexible, simulates consequences using a world-model); their 2005 paper with Yael Niv and Peter Dayan proposes that prefrontal and dorsolateral striatal systems compete for control, arbitrated by which is currently less uncertain. Their later fMRI study (*Neuron*, 2011) then complicates any clean anatomical separation: striatal prediction-error signals expected to be a pure model-free report turned out to reflect model-based valuations too, which the authors read as evidence for a more integrated architecture rather than two independent learners.
 
@@ -73,7 +73,7 @@ The two overlap—Graybiel and Grafton titled a 2015 paper "The Striatum: Where 
 
 ## The Ethics of the Automatic
 
-Habit's valence is double. It enables: Aristotle grounds excellence in habit (*hexis*), Hume calls custom "the great guide of human life," and freeing attention from the routine is what lets consciousness attend to novelty at all. It also ossifies: Proust observes that "if habit is a second nature, it prevents us from knowing our first," and addiction is habit become pathological—cue-triggered response where re-engagement reliably fails. Clare Carlisle's *On Habit* (2014) frames this as habit's twin principles of receptivity *and* resistance to change: the same mechanism makes us plastic and rigid. This ethical dimension, largely absent from the skill cluster, connects to the Map's [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/): culpability tracks whether re-engagement was available, not merely whether an action was voluntary in the moment.
+Habit's valence is double. It enables: Aristotle makes virtue a settled state (*hexis*) acquired through habituation (*ethos*), Hume calls custom "the great guide of human life," and freeing attention from the routine is what lets consciousness attend to novelty at all. It also ossifies: Proust observes that "if habit is a second nature, it prevents us from knowing our original nature," and addiction is habit become pathological—cue-triggered response where re-engagement reliably fails. Clare Carlisle's *On Habit* (2014) frames this as habit's twin principles of receptivity *and* resistance to change: the same mechanism makes us plastic and rigid. This ethical dimension, largely absent from the skill cluster, connects to the Map's [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/): culpability tracks whether re-engagement was available, not merely whether an action was voluntary in the moment.
 
 ## A Cosmological Aside: Peirce, Cited and Bounded
 
@@ -116,4 +116,7 @@ Habit, in short, is [delegatory dualism](/topics/delegatory-dualism/) observed a
 10. Peirce, Charles Sanders. "The Architecture of Theories." *The Monist* 1, no. 2 (1891): 161–176.
 11. Peirce, Charles Sanders. "The Law of Mind." *The Monist* 2, no. 4 (1892): 533–559.
 12. Carlisle, Clare. *On Habit*. Thinking in Action series. London: Routledge, 2014.
-13. Southgate, A. & Oquatre-six, C. (2026-03-20). Skill Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/skill-delegation/
+13. Graybiel, Ann M., & Scott T. Grafton. "The Striatum: Where Skills and Habits Meet." *Cold Spring Harbor Perspectives in Biology* 7, no. 8 (2015): a021691.
+14. Hume, David. *An Enquiry Concerning Human Understanding* (1748). Section V, Part I.
+15. Proust, Marcel. *Cities of the Plain* (*Sodome et Gomorrhe*, 1921–1922). Trans. C. K. Scott Moncrieff, 1927.
+16. Southgate, A. & Oquatre-six, C. (2026-03-20). Skill Delegation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/skill-delegation/
