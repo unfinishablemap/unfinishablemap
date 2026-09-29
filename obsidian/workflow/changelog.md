@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T09:28:20+00:00
+ai_modified: 2026-09-29T09:40:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T09:40:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/constitutive-exclusion]]
+- **Original score**: n/a (`scripts/curate.py` absent; convergent-review remediation from outer reviews 2026-09-29, ChatGPT 5.6 Pro + Claude Opus 5.5; todo line 1480, P1 — FOURTH same-day pass; Merleau-Ponty 80b8139c, Nagel/Putnam 41b58e8d and Realist Replies 3560879b left untouched)
+- **Length**: 3913 → 3911 body words by `analyze_length` (topics hard limit 4000); every addition paid for by same-section trims (phenomenology and approaches items, AI-section paragraph, duplicated Merleau-Ponty list entry, model-mediation clauses, Further Reading glosses, lead paragraph 2's repeat of the L62 convergence verdict)
+- **Changes**: (1) Lead rewritten as an explicit four-rung ladder — conditioned access (well supported) → no perspective-free standpoint (what the traditions converge on) → possible limit on intrinsic nature (possible, not established) → tenet-conditional constitution (Map's own extension, argued from no cited tradition); the observation-void contrast now attaches to the fourth rung only. (2) Bidirectional Interaction paragraph replaces "causally influences → active participant in constituting" with the four-way distinction (ordinary causal contribution / transcendental constitution / conceptual constitution / physical selection of quantum outcomes), the thermostat case conceded, and the exclusion shown to need an added premise (selection runs through the knowing apparatus); labelled framework commitment, no evidence, strengthens nothing. (3) No Many Worlds now "removes a defeater and supplies nothing further"; objective collapse, Bohmian and relational readings named as surviving the tenet; what distinguishes the Map is the Bidirectional commitment, and P-V2 applied symmetrically with Dualism. (4) MQI labelled interpretation of scope with Wheeler as analogy not support; Occam labelled framework commitment; tenet intro says each plays a different evidential role. (5) Void hierarchy: "consequence of the exclusion operating reflexively" → voids "related rather than ordered" with ChatGPT's mind-independent-disturbance point conceded; one direction of dependence stated (this article reads self-opacity as a special case; self-opacity grounds itself in subject–object asymmetry and does not cite back); closing "reinforce each other" → "family resemblance within one corpus, not three confirmations". (6) The local/global tension: the driver's brief said "all of reality, not just the self" had 0 hits — it was present at L74 in both trees (false absence); replaced with a scope-correct phrasing pointing to the MQI locality note. (7) "as the Map's dualism suggests" → "a Map conjecture, since dualism alone leaves the question open". (8) "Wheeler's physics" → "participatory programme" (description) / "interpretive programme for measurement" (L62). (9) Kant precision (Claude §2): forms of intuition (space, time) vs categories (causality, substance), at zero cost.
+- **Reply modes** (editor-internal): thermostat/magnet objection (both reviewers) — Mode One conceded: ordinary causal contribution is granted not to exclude, and the exclusion is re-derived only under a named extra premise; MWI/objective-collapse/Bohmian/relational — Mode Three: the tenet is stated to remove one reading only, the discriminator is a framework commitment, no refutation claimed; observation-void ordering — Mode One: the reviewers' counterexample (mind-independent disturbance) is accepted and the ordering withdrawn.
+- **Not done**: delayed-choice "shows … absence of a determinate pre-measurement fact" (both legs; Bohmian/consistent-histories reproduce the data) — outside this brief, one clause would fix it; a P2 cross-review still follows on this file.
+- **Sync**: run; Hugo copy carries all eight marker phrases, stale phrase 0 hits in both trees.
+- **Published**: yes
 
 ## 2026-09-29T09:28:20+00:00 - refine-draft
 - **Status**: Success
