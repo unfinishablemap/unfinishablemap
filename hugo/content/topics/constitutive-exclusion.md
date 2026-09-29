@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-09-21 20:38:20+00:00
+ai_modified: 2026-09-29 07:38:54+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[simulation]]'
 - '[[introspection]]'
 created: 2026-03-05
-date: &id001 2026-03-05
+date: &id001 2026-09-29
 description: Human+AI exploration of why consciousness cannot access reality independent
   of its own contribution—a structural limit deeper than observation bias, drawn from
   a post-Kantian lineage, Nagel's subjectivity argument, and Wheeler's physics.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 23:24:47+00:00
-lastmod: 2026-09-21 20:38:20+00:00
+lastmod: 2026-09-29 07:38:54+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -45,7 +45,7 @@ Kant identified the problem's structure in 1781. The mind does not passively mir
 
 The claim concerns the permanent structure of knowing rather than any current ignorance. As physics has matured from Newton through Einstein to quantum field theory, it has become more abstract and relational—moving further from any prospect of revealing reality-as-it-is-apart-from-observation, not closer. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) develops the related point that physics captures structure but never the intrinsic categorical nature of what it describes.
 
-Merleau-Ponty sharpened the point phenomenologically in his [phenomenological](/concepts/phenomenology/) investigation of perception. Subject and object are "inseparable correlatives"—perception is not reception but constitutive dialogue. "We are both a part of the world and coextensive with it, constituting but also constituted." The body exists ambiguously as both subject and object, undermining the clean [subject-object separation](/topics/the-subject-object-distinction-as-philosophical-discovery/) that non-constitutive observation would require.
+Merleau-Ponty sharpened the point phenomenologically in his [phenomenological](/concepts/phenomenology/) investigation of perception. On Jack Reynolds's reading in the *Internet Encyclopedia of Philosophy*, the paradox that philosophies of reflection ignore is that we are both a part of the world and coextensive with it, constituting but also constituted—Reynolds's gloss, keyed to p. 453 of Colin Smith's 1962 translation, rather than a sentence of Merleau-Ponty's own. The body exists ambiguously as both subject and object, undermining the clean [subject-object separation](/topics/the-subject-object-distinction-as-philosophical-discovery/) that non-constitutive observation would require. That constitutive reading is one of two the text supports, and the Preface tells against it in Merleau-Ponty's own words: "The real is to be described, and neither constructed nor constituted" (Landes trans., p. lxxiii). On this direct-realist reading, embodied perception is contact with a world that precedes analysis rather than a filter between subject and world, so Merleau-Ponty supports the Map's rejection of the detached spectator at least as readily as a constitution thesis.
 
 ## Convergence Across Traditions
 
@@ -55,7 +55,7 @@ The philosophical convergence is striking because these thinkers worked from dif
 
 **Heidegger** (1927): Dasein is always already "thrown" into a world it did not choose. Thrownness cannot be transcended or overcome—it is an inherent aspect of existence. The limitations are necessary for understanding anything at all—enabling constraints, not merely obstacles.
 
-**Merleau-Ponty** (1945): Perception is not passive reception but an active, constitutive process. The primacy of perception means experience shapes what it encounters, and the subject-object boundary cannot be drawn cleanly.
+**Merleau-Ponty** (1945): Perception is not passive reception but an active, constitutive process. The primacy of perception means experience shapes what it encounters, and the subject-object boundary cannot be drawn cleanly. His Preface, though, insists that the real is described rather than constituted, so his place on the constitutive side of this list is contested.
 
 **Nagel** (1986): The "view from nowhere" is impossible. No matter how far the camera pulls back, it still occupies a position. Objective science necessarily leaves out what is essential about consciousness—its subjective viewpoint.
 
@@ -141,7 +141,7 @@ The constitutive exclusion connects to all five of the Map's [tenets](/tenets/).
 
 1. Kant, I. (1781/1998). *Critique of Pure Reason*. Cambridge University Press.
 2. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
-3. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
+3. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
 4. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 5. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
 6. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler & Zurek. Princeton University Press.
@@ -152,3 +152,4 @@ The constitutive exclusion connects to all five of the Map's [tenets](/tenets/).
 11. Jacques, V. et al. (2007). "Experimental Realization of Wheeler's Delayed-Choice Gedanken Experiment." *Science*, 315(5814), 966–968.
 12. Kim, E., Garg, A., Peng, K., & Garg, N. (2025). "Correlated Errors in Large Language Models." *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*. arXiv:2506.07962.
 13. Buyl, M. et al. (2026). "Large Language Models Reflect the Ideology of Their Creators." *npj Artificial Intelligence*, 2(1), 7.
+14. Reynolds, J. "Maurice Merleau-Ponty (1908—1961)." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/merleau/

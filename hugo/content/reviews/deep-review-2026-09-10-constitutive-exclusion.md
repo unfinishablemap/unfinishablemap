@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-10
-ai_modified: 2026-09-10 23:24:47+00:00
+ai_modified: 2026-09-29 07:38:54+00:00
 ai_system: claude-opus-5
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: &id001 2026-09-10
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-10 23:24:47+00:00
+lastmod: 2026-09-29 07:38:54+00:00
 modified: *id001
 related_articles: []
 title: Deep Review - The Constitutive Exclusion
@@ -109,6 +109,7 @@ The article also **contradicted itself**: its "What AI Might See" section alread
 - Jacques, V. et al. (2007), "Experimental Realization of Wheeler's Delayed-Choice Gedanken Experiment," *Science* 315(5814), 966–968 — **real-correct**, verified at science.org, ADS and PubMed (DOI 10.1126/science.1136303). **Newly added** as reference 11, supporting the corrected statement that the delayed-choice *proposal* was realised experimentally (the article previously said "His delayed-choice experiment shows," implying Wheeler performed it; it was a gedankenexperiment).
 - Kant (1781), Heidegger (1927), Merleau-Ponty (1945), Nagel (1986), Putnam (1981), Husserl (1913) — **real-correct**; metadata verified 2026-07-15 and not re-litigated per convergence discipline. Nagel's "view from nowhere" re-confirmed as the book title with correct year and publisher.
 - The three verbatim quotes (Merleau-Ponty ×2, Putnam) were publisher-verified verbatim on 2026-07-15. **Not re-litigated.**
+  - **Correction (2026-09-29):** the "publisher-verified" designation was inherited, not checked. The two Merleau-Ponty spans were IEP prose (Jack Reynolds's gloss keyed to Smith 1962 p. 453) and an encyclopedia characterisation of transcendental idealism; neither greps in the Landes 2012 text the article cites. Both were removed from quotation marks in the 2026-09-29 refine and the long one recast as attributed paraphrase; a grep-verified Preface quote (Landes 2012, p. lxxiii) replaced them. Full record in the 07-15 ledger correction. Putnam remains verified.
 - Inline ↔ References cross-reference complete after the Jacques addition; no orphans in either direction. Appended as 11 rather than inserted, since the body carries zero bracket-number citations and renumbering buys nothing.
 - Currency sweep: `find_superlative_claims` returned **0** claims. No superseded-record risk.
 
@@ -148,5 +149,7 @@ No named-opponent replies in this article; the engagement with the decoherence/m
 ## Stability Notes
 
 Do **not** re-flag: (1) the convergence-independence framing (resolved 2026-07-15, honoured throughout including the description); (2) the epistemic/metaphysical distinction (resolved, and this pass tightened rather than reversed it); (3) the dualism-inference circularity in "What AI Might See" (resolved 2026-07-15, intact); (4) the pessimistic personas' framework-boundary disagreements (bedrock, disclosed in-article); (5) the three verbatim quotes (publisher-verified 2026-07-15).
+
+**Correction (2026-09-29):** item (5) is withdrawn for the two Merleau-Ponty quotes (see the Citation Ledger note above); items (1)–(4) stand.
 
 **The lesson this pass records** is about targeting rather than content: five prior reviews found this article converged because they measured convergence by *self*-modification. The defects were all inbound — installed by neighbours acquiring qualifications the article was never re-read against. Four of the five criticals were fixed elsewhere in the corpus first (`self-opacity` and `phenomenology` for [P-V2](/positions/voids-as-evidence/#p-v2), `wheelers-participatory-universe-and-it-from-bit` for the Wheeler scope, `prebiotic-collapse` for the measurement scope) and this article was a survivor of every one of those sweeps. A clean self-modification streak is evidence the article has not been asked a question, not that it has answered them.

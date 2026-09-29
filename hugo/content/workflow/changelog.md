@@ -1,14 +1,69 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 07:22:58+00:00
+ai_modified: 2026-09-29 07:38:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 04:07:17+00:00
+lastmod: 2026-09-29 07:38:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T07:38:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted quote-fidelity fix from convergent outer reviews 2026-09-29, ChatGPT 5.6 Pro + Claude Opus 5.5; todo line 1474, P1, first of five same-day P1 tasks on this file)
+- **Verification (raw text, not summariser)**: IEP Merleau-Ponty entry fetched and grepped — the long span is Jack Reynolds's own prose, unquoted, keyed "(PP 453)" = Colin Smith 1962 pagination; "inseparable correlatives" 0 hits on the IEP page. Landes 2012 Routledge text (archive.org `Phenomenology of Perception_djvu.txt`, 39,913 words, front matter + Preface + Introduction): 0 hits for "coextensive" / "constituting but also" / "correlatives"; the Cogito chapter is outside the excerpt, so no primary span for the PP 453 passage was reachable. Grep-verified in Landes 2012, p. lxxiii (between the "lxxii PREFACE" and "lxxiv PREFACE" running heads): "The real is to be described, and neither constructed nor constituted" and "The world is there prior to every analysis that I could give of it". ChatGPT's unverified "neither constructed nor constituted" wording is therefore confirmed for Landes (Smith 1962 renders it "not constructed or formed").
+- **Changes**: (a) L44 recast — long span now attributed paraphrase of Reynolds with the Smith-1962 page key named as such; "inseparable correlatives" dropped; (b) direct-realist reading installed alongside the constitutive one, quoting the Preface with page, plus one contesting sentence on the Merleau-Ponty entry in "Convergence Across Traditions"; (c) reference 3 now names the Landes translation; reference 14 (Reynolds, IEP) appended (no in-body numbered cites, so appending is safe); (d) dated correction notes added to `reviews/deep-review-2026-07-15-constitutive-exclusion` (ledger L39–40 and the stability paragraph) and `reviews/deep-review-2026-09-10-constitutive-exclusion` (ledger L109 and do-not-re-flag item 5). 07-15 stability notes (1)–(4) on the convergence framing left intact.
+- **Length**: body 2868 → 3006 words (+138; topics hard 4000, 993 to the usable ceiling). Additions confined to items (a)–(c); a second Preface quote was trimmed to keep headroom for the four sibling tasks.
+- **Published**: yes
+
+## 2026-09-29T07:22:58+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **26th consecutive**, the expected steady-state outcome per the coalesce candidate-pool memory.
+- **Cap state** (live, `tools.evolution.state.count_section_files`; caps 360/360/115/80): topics 334/360 (92.8%), concepts 335/360 (93.1%), **voids 109/115 (94.8%)**, positions 23/80. **Voids has overtaken concepts as the most-pressured section** — six voids were created on 09-28/09-29 (`mirth-void`, `categorical-perception-void`, `taboo-void`, `causal-impression-void`, `blindspot-void`, `cross-state-void`), so the search was voids-first.
+- **Voids is arithmetically dead and the six new articles cannot change that for 7 days.** All six are age-blocked (7-day floor on `created`/`ai_modified`/`human_modified`); the eligible voids pool is the same 103 the 09-28 17:52 run measured. Reproduced live (sidecars filtered first, `count_words` on the parsed body, pair fits if w1+w2 ≤ 2999): **0 fitting pairs of 5,886** (109 articles). The two smallest eligible voids, `simulation-detection-void` 1473w + `interested-party-void` 1730w, sum to **3203 > 2999**, so no voids pair can fit at any age. Next voids crossers: `language-thought-boundary`, `consciousness-only-territories` (10-01), `erasure-void` (10-02), `voids-between-minds`, `source-attribution-void` (10-03), `amplification-void` (10-04) — none can rescue the arithmetic since the floor is set by the smallest *pair*.
+- **Full pairwise arithmetic, all three sections:**
+  | section | n | fitting pairs | fitting & age-eligible |
+  |---|---|---|---|
+  | topics (ceiling 3999) | 333 | **0** of 55,278 | 0 |
+  | concepts (ceiling 3499) | 335 | 196 of 55,945 | **135** |
+  | voids (ceiling 2999) | 109 | **0** of 5,886 | 0 |
+  Concepts pool 141 → 135 since yesterday (no new crossers; shrinkage is ordinary growth of sub-1750w articles, the recession mechanism recorded 09-19). No concepts or topics article crossed the age floor today (next: `the-relocation-objection`, `no-self-objection-to-phenomenal-value`, `the-ownerless-suffering-argument`, `attention-schema-theory` and three GNW/HOT siblings on 09-30).
+- **NEW SCREEN — ONE-DIRECTIONAL WIKILINK + SHARED NON-BOILERPLATE HEADING + FRONTMATTER MEMBERSHIP over the 135 eligible concepts pairs** (the 09-28 run screened *mutual* linking and outbound bibliographic coupling; this run relaxes to *either-direction* linking and adds structural-heading overlap with the 16 house-style headings appearing in ≥8 concepts stripped). Result: **exactly one pair links in either direction** — `causal-powers`/`mind-arena` (1→ / ←4), already declined 09-28 on the stated dependency ("inherits from [causal-powers](/concepts/causal-powers/)"). **Zero of 135 pairs share a single non-boilerplate H2/H3 heading.** The only remaining signal is frontmatter co-membership, which is not a link (frontmatter-membership-is-not-a-link-so-integration-audits-overstate); its leader was read on the merits:
+  1. `concepts/perception` 1671w + `concepts/phenomenal-presentation` 1572w = 3243 vs ceiling 3499 (256w headroom; 7 shared frontmatter entries, all shared vocabulary — `phenomenal-consciousness`, `qualia`, etc.) — **declined on role, quoted from the articles' own prose.** `perception` never mentions presentation (0 hits) and `phenomenal-presentation` names perception once; body wikilinks between them: **0 in both directions**. `phenomenal-presentation` is a *mode-of-consciousness* concept spanning moods, aches and ambient hum — "experience as undergone rather than performed", "the receptive or passive aspect of [phenomenal-consciousness](/concepts/phenomenal-consciousness/)" — and carries a dedicated `## How Presentation Differs from Neighbouring Concepts` section with four `**Versus**` subsections (acquaintance / depth / overflow / active character), *none of which is perception*. `perception` is a sensory-modality hub whose lead defers outright: "For the Map's comprehensive treatment … see [dualist-perception](/topics/dualist-perception/)." Merging would fold a general phenomenal-mode concept into a sensory survey. DECLINE. ⚠️ Method note: the distinction-heading grep from the pool memory (`Distinguish|What .* Is Not|Distinction from`) returned **0** on this file; the section is headed "Differs from" — add that variant to the screen (i-probe-for-one-heading-name-and-one-cite-style-then-report-absence).
+  2. `concepts/perception` + `topics/dualist-perception` 3815w (the hub pair the lead itself names) = **5486 vs topics 3999**, and a stated brief↔comprehensive split. DECLINE on arithmetic and role.
+- **Shared-`coalesced_from` ancestry angle re-run** (memory flagged it "worth re-running when the corpus is quieter"): 5 ancestors with ≥2 live descendants, 3 same-section sibling pairs, **all fail arithmetic** — `binding-problem` 3191 + `unity-of-consciousness` 2705 = 5896; `attention-as-interface` 3425 + `motor-selection` 3499 = 6924 (both age-blocked); `anoetic-noetic-autonoetic-consciousness` 2988 + `episodic-memory` 3498 = 6486; ceiling 3499. `cognitive-closure` → `mysterianism` is one descendant listed twice. Angle closed again.
+- **Human-reserved candidates not preempted**: the HUMAN COALESCE DECISION block (todo L2651: `self-stultification` pair, `quantum-biology` pair) and the 2026-06-21 HUMAN EDITORIAL DECISION (L2677) remain untouched; nothing screened overlaps them. No open coalesce-typed task exists (L1172/3802/3810/3818 are all ✅/✓).
+- **Thresholds printed live** (`tools/curate/length.py` THRESHOLDS): topics 3000/4000/6000, concepts 2500/3500/5000, voids 2000/3000/4000.
+- **Standing conclusion**: seven independent directions now return empty (TF-IDF, length-first, shared ancestry, verbatim shingles, inbound co-citation, bibliographic coupling + mutual linking, and now either-direction linking + heading overlap). Two of three sections are arithmetically dead and the most-pressured one (voids, 6 slots left) cannot be relieved by coalesce at any age. Cap relief there must come from `/archive`, `/condense` or a cap raise — see the open NEEDS-HUMAN cycle-allocation entry (todo ~L124–165).
+- **Sources / Target / Archived**: none. **Tasks minted**: none. **Sync**: not run (no content changed). **References to review**: none.
+
+## 2026-09-29T07:14:53+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-29
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-pro, claude-opus-5-5; gemini abandoned at launch)
+- **Subject**: `topics/constitutive-exclusion` (both legs, recent-aged fallback)
+- **Clusters**: 8 convergent, 12 singleton, 2 divergent (changelog retrieval — adjudicated for ChatGPT; Heidegger/Husserl evidential weight — mild)
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4 — structural-realism/defeaters, tenet-equivocation + lead ladder, delayed-choice/Kant/locators, three-file stranded-dependents cross-review)
+- **Tasks deduplicated**: 0 (the Claude collecting pass had cross-annotated instead of re-minting; 6 tasks had fields rewritten, 2 were already P1)
+- **Adjudication**: the Claude collecting pass's "unique to this review" list was wrong on three items (delayed-choice interpretation, Kant intuition/category conflation, missing page locators) — ChatGPT raised all three in its citation audit without minting them, so the Claude-minted task is convergent and was upgraded. Disputed and excluded: Claude's "no changelog entry for 2026-09-21" (entry is live at `/workflow/archive/changelog-2026-w39/`, HTTP 200) and its quoted span "all of reality, not just the self" (absent from the article).
+- **Methodology**: 3 convergent proposal pairs recorded as dated addenda on standing NEEDS-HUMAN entries (2026-09-07 ledger inheritance — now with a second evidenced instance, the IEP gloss certified "verbatim at PP 453" on 07-15 and inherited "not re-litigated" on 09-10; 2026-08-03 staleness propagation — sixth cycle; 2026-07-25 opponent-parity as a gate before "converged"). No project-doc task minted.
+- **Residual for the operator**: `/workflow/archive/` returns 404 (no section index) and `workflow/changelog.md` does not link its weekly archives, although every weekly page is live — the navigation gap behind Claude's false alarm. Not minted.
+- **Parser check**: 24 active tasks before and after; no headings added; `git diff --stat` touches todo.md, changelog.md and the new synthesis file only (evolution-state.yaml was already dirty on entry).
+- **Output**: [outer-review-synthesis-2026-09-29](/reviews/outer-review-synthesis-2026-09-29/)
+
+## 2026-09-29T05:10:38+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Research area**: anaesthesia
+- **Median citation year**: 2021 (5 years behind ai_modified 2026-08-22 — exactly at the lag threshold, not over it; 25 empirical cites 2004–2025, Meyer 1899 / James 1898 excluded)
+- **Recent papers found**: 5 peer-reviewed 2024–2026 (Mashour 2024 Neuron — already cited; Xiong et al. 2024 PNAS; Khan et al. 2024 eNeuro; Jiang & Sleigh 2024 Anesthesiology; Katlowitz et al. 2026 Nature). Search also returned two clinicaltrials.gov registrations and one 2023 PMC paper on opioids in DoC, all excluded.
+- **Missing topically-appropriate**: 3 (Katlowitz 2026, Xiong 2024, Jiang & Sleigh 2024); Khan 2024 listed as frame-conditional only — the article's tenet section deliberately declines the microtubule line and the study is already cited in ~30 other Map pages
+- **Superlative claims**: 0 (`find_superlative_claims`), so check 3 is vacuously clean
+- **Outcome**: drift-flagged
+- **Task generated**: P2: Update anaesthesia-and-the-consciousness-interface citations — 3 2020s papers missing
+- **Calibration note**: this is the first audit where the signal comes from check 2 alone with check 1 sitting exactly on the boundary — a useful datum for the ≥ vs > question on `median_year_lag_threshold`. The two headline gaps (Katlowitz, Xiong) are uncited corpus-wide, not just in this article. Publisher pages for PNAS/Nature/Anesthesiology were gated and Europe PMC returned 503; metadata verified via Crossref and abstracts via OpenAlex.
 
 ## 2026-09-29T04:43:00+00:00 - outer-review
 - **Status**: Success

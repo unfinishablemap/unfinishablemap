@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T07:22:58+00:00
+ai_modified: 2026-09-29T07:38:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T07:38:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/constitutive-exclusion]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted quote-fidelity fix from convergent outer reviews 2026-09-29, ChatGPT 5.6 Pro + Claude Opus 5.5; todo line 1474, P1, first of five same-day P1 tasks on this file)
+- **Verification (raw text, not summariser)**: IEP Merleau-Ponty entry fetched and grepped — the long span is Jack Reynolds's own prose, unquoted, keyed "(PP 453)" = Colin Smith 1962 pagination; "inseparable correlatives" 0 hits on the IEP page. Landes 2012 Routledge text (archive.org `Phenomenology of Perception_djvu.txt`, 39,913 words, front matter + Preface + Introduction): 0 hits for "coextensive" / "constituting but also" / "correlatives"; the Cogito chapter is outside the excerpt, so no primary span for the PP 453 passage was reachable. Grep-verified in Landes 2012, p. lxxiii (between the "lxxii PREFACE" and "lxxiv PREFACE" running heads): "The real is to be described, and neither constructed nor constituted" and "The world is there prior to every analysis that I could give of it". ChatGPT's unverified "neither constructed nor constituted" wording is therefore confirmed for Landes (Smith 1962 renders it "not constructed or formed").
+- **Changes**: (a) L44 recast — long span now attributed paraphrase of Reynolds with the Smith-1962 page key named as such; "inseparable correlatives" dropped; (b) direct-realist reading installed alongside the constitutive one, quoting the Preface with page, plus one contesting sentence on the Merleau-Ponty entry in "Convergence Across Traditions"; (c) reference 3 now names the Landes translation; reference 14 (Reynolds, IEP) appended (no in-body numbered cites, so appending is safe); (d) dated correction notes added to `reviews/deep-review-2026-07-15-constitutive-exclusion` (ledger L39–40 and the stability paragraph) and `reviews/deep-review-2026-09-10-constitutive-exclusion` (ledger L109 and do-not-re-flag item 5). 07-15 stability notes (1)–(4) on the convergence framing left intact.
+- **Length**: body 2868 → 3006 words (+138; topics hard 4000, 993 to the usable ceiling). Additions confined to items (a)–(c); a second Preface quote was trimmed to keep headroom for the four sibling tasks.
+- **Published**: yes
 
 ## 2026-09-29T07:22:58+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **26th consecutive**, the expected steady-state outcome per the coalesce candidate-pool memory.

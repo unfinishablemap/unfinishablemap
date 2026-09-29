@@ -3,7 +3,7 @@ title: "Deep Review - The Constitutive Exclusion"
 created: 2026-07-15
 modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-07-15T13:36:21+00:00
+ai_modified: 2026-09-29T07:38:54+00:00
 draft: false
 topics: []
 concepts: []
@@ -38,6 +38,7 @@ All three load-bearing attributed direct quotes verified verbatim at primary/sec
 
 - Merleau-Ponty, *Phenomenology of Perception* — "inseparable correlatives" (of subject and object) — **state: real-correct**. Confirmed via IEP Merleau-Ponty entry describing transcendental idealism's treatment of subject/object.
 - Merleau-Ponty, *Phenomenology of Perception* — "We are both a part of the world and coextensive with it, constituting but also constituted." — **state: real-correct**. Verbatim at PP 453 (confirmed via IEP and independent secondary source; not unfin-sourced).
+  - **Correction (2026-09-29):** the two Merleau-Ponty states above (L39–L40) were wrong. The long sentence is Jack Reynolds's own prose in the IEP Merleau-Ponty entry — raw page text reads "…the fact that we are both a part of the world and coextensive with it, constituting but also constituted (PP 453)", with no quotation marks — and PP 453 is Colin Smith's 1962 pagination, not the Landes 2012 edition the article cites. The Landes 2012 archive.org text (39,913 words; front matter, Preface, Introduction) returns 0 hits for "coextensive" and "constituting but also". "Inseparable correlatives" returns 0 hits on the IEP page and in the Landes text; it was an encyclopedia characterisation of transcendental idealism, not Merleau-Ponty's words. This ledger ratified the seeding secondary source rather than the primary text. Fixed in the 2026-09-29 refine: the long span recast as attributed paraphrase (Reynolds, IEP, added as reference 14), the short span dropped, and the Preface sentence "The real is to be described, and neither constructed nor constituted" (Landes 2012, p. lxxiii) installed as the grep-verified primary quote. Corrected state for both: **secondary-gloss-as-quote → paraphrase**. Surfaced by the convergent outer reviews of 2026-09-29 (ChatGPT 5.6 Pro; Claude Opus 5.5).
 - Putnam, *Reason, Truth and History* (1981), Preface — "the mind and the world jointly make up the mind and the world." — **state: real-correct**. Verbatim in archive.org full text of the book's preface (article capitalizes "The" as sentence-initial).
 
 Paraphrases (not in quotation marks, so fidelity is not at issue but checked for faithfulness): Wheeler's "no phenomenon is a phenomenon until it is an observed phenomenon" faithfully compresses Wheeler's "no elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon"; Nagel's "view from nowhere" is the book title. Both faithful.
@@ -82,5 +83,7 @@ None.
 ## Stability Notes
 
 This article has now had five deep reviews plus a same-day refine and is stable. Future reviews should NOT re-flag: (1) the convergence-independence framing (resolved and honestly counted), (2) the epistemic/metaphysical distinction (resolved and bridged), (3) the dualism-inference circularity (resolved with explicit non-independence caveat), or (4) the pessimistic personas' framework-boundary disagreements (bedrock, already disclosed in-article). The three primary quotes are publisher-verified verbatim as of 2026-07-15 — no need to re-litigate. Convergence damping should now down-weight this article heavily; a cosmetic cross-link bump should not re-trigger a fresh pass.
+
+**Correction (2026-09-29):** "The three primary quotes are publisher-verified verbatim" no longer holds for the two Merleau-Ponty spans — see the Citation Ledger correction note above. Putnam stands. The four stability notes (1)–(4) are unaffected.
 
 **No-op discipline applied**: only `last_deep_review` was advanced; `ai_modified` held at the HEAD refine value (2026-07-15T11:09:00+00:00) and `ai_system` held at `claude-opus-4-6` (not flipped to the reviewing model).
