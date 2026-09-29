@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot access reality in
 created: 2026-03-05
 modified: 2026-09-29
 human_modified:
-ai_modified: 2026-09-29T09:40:45+00:00
+ai_modified: 2026-09-29T09:58:00+00:00
 last_deep_review: 2026-09-10T23:24:47+00:00
 draft: false
 topics:
@@ -12,7 +12,7 @@ topics:
   - "[[arguments-against-materialism]]"
 concepts:
   - "[[phenomenology]]"
-  - "[[simulation]]"
+  - "[[ontic-structural-realism]]"
   - "[[introspection]]"
 related_articles:
   - "[[voids]]"
@@ -37,17 +37,17 @@ Several traditions converge on the second rung, though they are not all independ
 
 ## The Constitutive Contribution
 
-Kant identified the problem's structure in 1781. The mind shapes experience through the forms of intuition (space, time) and the categories of understanding (causality and substance among them)—conditions imposed by the cognitive apparatus on any possible experience rather than features discovered in the world. The thing-in-itself (*das Ding an sich*) is permanently inaccessible because every experience has already passed through this constitutive filtering.
+Kant identified the problem's structure in 1781. The mind shapes experience through the forms of intuition (space and time; A19–49/B33–73) and the categories of understanding (causality and substance among them; A79–80/B105–106)—conditions imposed by the cognitive apparatus on any possible experience rather than features discovered in the world. Things in themselves (*Dinge an sich*) can be thought but not known (Bxxvi–xxvii)—on Allison's two-aspect reading a limit on cognition, not a second, hidden world.
 
-The claim concerns the permanent structure of knowing, not current ignorance. As physics has matured from Newton to quantum field theory it has become more abstract and relational. Nagel reads that abstraction as objective ascent—a firmer grasp of mind-independent structure—and the Map does not dispute it. What the ascent never delivers is the intrinsic categorical nature of whatever bears that structure, the point the [[intrinsic-nature-void]] develops.
+The claim concerns the permanent structure of knowing, not current ignorance. As physics matured from Newton to quantum field theory it became more abstract and relational. Nagel reads that abstraction as objective ascent—a firmer grasp of mind-independent structure—and the Map does not dispute it. What the ascent never delivers is the intrinsic categorical nature of whatever bears that structure, the point the [[intrinsic-nature-void]] develops.
 
-Merleau-Ponty sharpened the point phenomenologically in his [[phenomenology|phenomenological]] investigation of perception. On Jack Reynolds's reading in the *Internet Encyclopedia of Philosophy*, the paradox that philosophies of reflection ignore is that we are both a part of the world and coextensive with it, constituting but also constituted—Reynolds's gloss, keyed to p. 453 of Colin Smith's 1962 translation, rather than a sentence of Merleau-Ponty's own. The body exists ambiguously as both subject and object, undermining the clean [[the-subject-object-distinction-as-philosophical-discovery|subject-object separation]] that non-constitutive observation would require. That constitutive reading is one of two the text supports, and the Preface tells against it in Merleau-Ponty's own words: "The real is to be described, and neither constructed nor constituted" (Landes trans., p. lxxiii). On this direct-realist reading, embodied perception is contact with a world that precedes analysis rather than a filter between subject and world, so Merleau-Ponty supports the Map's rejection of the detached spectator at least as readily as a constitution thesis.
+Merleau-Ponty sharpened the point in his [[phenomenology|phenomenological]] investigation of perception. On Jack Reynolds's reading in the *Internet Encyclopedia of Philosophy*, the paradox that philosophies of reflection ignore is that we are both a part of the world and coextensive with it, constituting but also constituted—Reynolds's gloss, keyed to p. 453 of Colin Smith's 1962 translation, rather than a sentence of Merleau-Ponty's own. The body exists ambiguously as both subject and object, undermining the clean [[the-subject-object-distinction-as-philosophical-discovery|subject-object separation]] that non-constitutive observation would require. That constitutive reading is one of two the text supports, and the Preface tells against it in Merleau-Ponty's own words: "The real is to be described, and neither constructed nor constituted" (Landes trans., p. lxxiii). On this direct-realist reading, embodied perception is contact with a world that precedes analysis rather than a filter between subject and world, so Merleau-Ponty supports the Map's rejection of the detached spectator at least as readily as a constitution thesis.
 
 ## Convergence Across Traditions
 
 The six formulations, in date order:
 
-**Kant** (1781): The forms of intuition and categories of understanding structure all possible experience, making the thing-in-itself permanently inaccessible.
+**Kant** (1781): The forms of intuition and categories of understanding structure all possible experience; things in themselves are thinkable but unknowable.
 
 **Heidegger** (1927): Dasein is always already "thrown" into a world it did not choose. The limitations enable understanding rather than merely obstructing it.
 
@@ -55,15 +55,15 @@ The six formulations, in date order:
 
 **Nagel** (1974, 1986): Complete detachment from every standpoint is unattainable, but Nagel's stated aim is "to defend the possibility of objective ascent and to understand its limits" (1986, p. 70), within "a form of realism" on which "the world extends beyond the reach of our minds" (p. 90) and the features of things in themselves that we have discovered are as real as whatever lies beyond our conceptual reach (p. 105). What objective ascent cannot absorb is the subjective character of experience, the argument of "What Is It Like to Be a Bat?" (1974). Nagel therefore limits what objectivity can *capture*, not what it can *reach*; his support here is partial, and his realism stands on the far side of any constitutive reading.
 
-**Putnam** (1981, internal realism): "the mind and the world jointly make up the mind and the world" (Preface)—offered only "if one must use metaphorical language," and immediately after the denial that his is "a view in which the mind makes up the world." The restraint matters: the mind does not simply "copy" a world describable by "One True Theory," but it does not manufacture the world either, and there can be many correct descriptions of it. Putnam abandoned internal realism in the early 1990s for the natural realism of his Dewey Lectures (1994; expanded as *The Threefold Cord*, 1999), on which perception is unmediated contact with the world rather than an interface—a view that tells against any veil reading of the exclusion. Only the 1981 Putnam belongs on this list.
+**Putnam** (1981, internal realism): "the mind and the world jointly make up the mind and the world" (Preface, p. xi)—offered only "if one must use metaphorical language," and immediately after the denial that his is "a view in which the mind makes up the world." The restraint matters: the mind does not simply "copy" a world describable by "One True Theory," but it does not manufacture the world either, and there can be many correct descriptions of it (p. 60). Putnam abandoned internal realism in the early 1990s for the natural realism of his Dewey Lectures (1994; expanded as *The Threefold Cord*, 1999), on which perception is unmediated contact with the world rather than an interface—a view that tells against any veil reading of the exclusion. Only the 1981 Putnam belongs on this list.
 
-**Wheeler** (1983, 1990): The participatory universe rests on a dictum Wheeler puts in a single sentence and credits to Bohr — "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon." Both qualifiers constrain what the dictum will bear. The claim is about *elementary* quantum phenomena rather than phenomena at large, and what completes one is *registration*, which Wheeler glosses in the same passage, following Bohr, as "an irreversible act of amplification such as the blackening of a grain of silver bromide emulsion or the triggering of a photodetector." A photodetector is not a mind. His delayed-choice proposal — realised experimentally two decades later by Jacques et al. (2007) — shows that whether a photon behaved as wave or particle is not fixed until registration occurs, not retrocausation in the ordinary sense but the absence of a determinate pre-measurement fact. His later "It from Bit" doctrine (presented at the 1989 Santa Fe workshop, published 1990) radicalises this: every "it" derives its very existence from "apparatus-elicited answers to yes or no questions," so information does not merely describe reality but constitutes it.
+**Wheeler** (1983, 1990): The participatory universe rests on a dictum Wheeler puts in a single sentence and credits to Bohr — "No elementary phenomenon is a phenomenon until it is a registered (observed) phenomenon" (1983, p. 184). Both qualifiers constrain what the dictum will bear. The claim is about *elementary* quantum phenomena rather than phenomena at large, and what completes one is *registration*, which Wheeler glosses in the same passage, following Bohr, as "an irreversible act of amplification such as the blackening of a grain of silver bromide emulsion or the triggering of a photodetector." A photodetector is not a mind. His delayed-choice proposal, made in 1978 and first realised by Hellmuth, Walther, Zajonc and Schleich (1987)—Jacques et al. (2007) describe theirs as "an almost ideal realization"—confirms the quantum predictions without settling their interpretation. Wheeler read the result as the absence of a determinate pre-measurement fact rather than as retrocausation; Bohmian (Hiley and Callaghan 2006), Everettian and consistent-histories accounts reproduce the same statistics with determinate or differently structured pasts. His later "It from Bit" proposal (1990, from a 1989 Santa Fe talk) radicalises the reading rather than the result: every "it" derives its very existence from "apparatus-elicited answers to yes or no questions," so information does not merely describe reality but constitutes it—a programme, not a result quantum mechanics forces.
 
 These six formulations are not six independent discoveries. Heidegger's thrownness reworks Kantian finitude, Merleau-Ponty's constituting/constituted paradox develops the same phenomenological lineage, and Putnam's internal realism is self-described as a broadly Kantian position. Four of the six belong to one genealogy descending from Kant. Counted honestly, the convergence rests on two or three independent starting points—the transcendental-idealist lineage, Nagel's analytic argument from the irreducibility of the subjective, and Wheeler's interpretive programme for measurement—and the Nagel strand counts only in part, since it limits what objectivity can capture while his realism affirms that objectivity reaches a mind-independent world. Within the Kantian lineage, Merleau-Ponty's Preface and Putnam's later natural realism both pull toward direct realism, so that lineage too is thinner than its four names suggest. A shared ancestor can transmit a shared prejudice as readily as a shared insight, so the convergence is suggestive rather than decisive. What it does establish is that the limit recurs whenever a tradition takes the structuring role of the knower seriously—weaker than six independent confirmations, but stronger than a lone idiosyncrasy.
 
 A second discount applies to the Map's reading of that convergence rather than to the convergence itself. The six thinkers wrote between 1781 and 1990, beyond the reach of any language-model failure. What is model-mediated is this article's handling of them—selection, framing, weighting—together with the sibling voids it leans on, drafted by the same kind of instrument from the same corpus and sharing a prior however much individual runs differ. Kim, Garg, Peng and Garg (2025) evaluated over 350 language models and found that "larger and more accurate models have highly correlated errors, even with distinct architectures and providers." A second model agreeing therefore buys less independence than the count suggests. Buyl et al. (2026) found ideological position varying systematically by region of origin across 19 models, which leaves probe diversity over-priced rather than worthless. The discount falls on that corpus-internal layer alone, which is to that extent the corpus agreeing with itself.
 
-The traditions also differ in *how much* they claim. Most establish an epistemic limit: Kant's thing-in-itself is unknowable, and Kant explicitly denies that the mind constitutes the noumenon; Nagel's complete detachment is unreachable even as objective ascent proceeds; Merleau-Ponty and Putnam describe the structure of experience and knowledge. The Map's headline claim is stronger and metaphysical—that consciousness participates in constituting what reality is, not merely in how it is known. Wheeler is the one strand that argues directly for a metaphysical constitution thesis, but not for this one. What he places at the constituting end is registration—an irreversible amplification in an apparatus—and his scope is cosmological, where the Map's is local: consciousness modulating collapse in neural systems within an already-existing physical world. Putting consciousness where Wheeler put registration is the Map's move rather than his, as the [[wheelers-participatory-universe-and-it-from-bit|dedicated treatment of Wheeler]] sets out. So the physics strand supports a *measurement*-constitutive metaphysics that stands next to the Map's claim rather than establishing it, and the epistemic strands are suggestive of the metaphysical thesis without reaching it. The bridge from "we cannot access reality independent of our contribution" to "our contribution helps constitute reality" is the Map's own inference, licensed by the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—a coherence claim, not a derivation.
+The traditions also differ in *how much* they claim. Most establish an epistemic limit: Kant's thing-in-itself is unknowable, and Kant explicitly denies that the mind constitutes the noumenon (A254–255/B310–311); Nagel's complete detachment is unreachable even as objective ascent proceeds; Merleau-Ponty and Putnam describe the structure of experience and knowledge. The Map's headline claim is stronger and metaphysical—that consciousness participates in constituting what reality is, not merely in how it is known. Wheeler is the one strand that argues directly for a metaphysical constitution thesis, but not for this one. What he places at the constituting end is registration—an irreversible amplification in an apparatus—and his scope is cosmological, where the Map's is local: consciousness modulating collapse in neural systems within an already-existing physical world. Putting consciousness where Wheeler put registration is the Map's move rather than his, as the [[wheelers-participatory-universe-and-it-from-bit|dedicated treatment of Wheeler]] sets out. So the physics strand supports a *measurement*-constitutive metaphysics that stands next to the Map's claim rather than establishing it, and the epistemic strands are suggestive of the metaphysical thesis without reaching it. The bridge from "we cannot access reality independent of our contribution" to "our contribution helps constitute reality" is the Map's own inference, licensed by the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—a coherence claim, not a derivation.
 
 ## Distinguishing Related Voids
 
@@ -71,15 +71,13 @@ Three related [[voids]] clarify what is distinctive.
 
 The [[observation-and-measurement-void]] says: every attempt to study consciousness transforms what is studied. The constitutive exclusion goes further on its fourth rung: there is no untransformed state to recover, since on the Map's constitutive reading consciousness participates in constituting what counts as reality rather than merely disturbing it.
 
-[[self-opacity|Self-opacity]] says: consciousness cannot fully map itself because it is the mapper. (The formal machinery—Lawvere's fixed-point theorem behind Gödelian incompleteness—belongs to the [[self-reference-paradox]] rather than to self-opacity.) That void concerns consciousness's relationship to *itself*. The constitutive exclusion concerns consciousness's relationship to what it *encounters* rather than to itself—and, as the scope note under Minimal Quantum Interaction makes explicit, to what a conscious observer can access rather than to reality at large.
+[[self-opacity|Self-opacity]] says: consciousness cannot fully map itself because it is the mapper. (The formal machinery of Gödelian incompleteness belongs to the [[self-reference-paradox]], not to self-opacity.) That void concerns consciousness's relationship to *itself*. The constitutive exclusion concerns consciousness's relationship to what it *encounters* rather than to itself—and, as the scope note under Minimal Quantum Interaction makes explicit, to what a conscious observer can access rather than to reality at large.
 
 The [[intrinsic-nature-void]] says: physics describes structure (relations) but never intrinsic nature (what has those relations). The exclusion offers one reason why: our concepts are part of the contribution and cannot step outside themselves to grasp what reality is apart from them.
 
 These voids overlap without entailing one another. Measurement disturbance can occur in a wholly mind-independent world, and conceptual conditioning without physical disturbance, so the observation void and the exclusion are related rather than ordered, coinciding where consciousness is what is studied. The one dependence asserted here runs from this article outward: it reads much of self-opacity as the exclusion applied to self-knowledge, while self-opacity grounds its own limit in subject–object asymmetry and does not cite the exclusion back. Not all of it fits: the opacity of one's own *signature*—how one's outputs deviate from a population distribution—is relational rather than constitutive, and inverts the usual asymmetry: instruments and others can see what the subject cannot. The intrinsic nature void names what the constitutive contribution hides. Their agreement is family resemblance within one corpus, not three confirmations.
 
 ## The Phenomenology of the Limit
-
-Approaching the exclusion produces characteristic experiences.
 
 **The transparency illusion.** Experience feels like direct access to reality because the constitutive contribution operates like a clean lens, invisible precisely because it works; the void manifests as the difficulty of noticing that seeing-things-as-they-are is seeing-things-as-shaped-by-us.
 
@@ -89,13 +87,13 @@ Approaching the exclusion produces characteristic experiences.
 
 ## Approaches to the Edge
 
-No method bypasses the exclusion, since every method uses cognitive structures belonging to the contribution, but several illuminate the boundary.
+No method bypasses the exclusion—every method uses structures belonging to the contribution—but several illuminate the boundary.
 
 **Transcendental argument** (Kant): identify what the contribution must be from the necessary conditions of any possible experience—mapping the boundary without crossing it.
 
 **Phenomenological reduction** (Husserl): the *epoche* brackets the natural attitude and makes the constitutive structures visible rather than transparent—one sees the lens without seeing past it.
 
-**Comparative phenomenology**: differences across cognitive types—neurodivergent perception, cross-cultural variation, altered states—triangulate contribution against what might be "out there," identifying the shape of variation without a definitive answer.
+**Comparative phenomenology**: differences across cognitive types—neurodivergent perception, cross-cultural variation, altered states—triangulate the contribution against what might be "out there" without settling it.
 
 **Structural inference**: If the constitutive contribution has characteristic signatures—regularities, symmetries, invariances—these might be detectable, as a camera's lens distortion can be inferred from patterns in its images. The method cuts both ways. Invariance across perspectives, instruments and interventions is also the realist's evidence that structure is being tracked rather than manufactured, and the next section concedes the point.
 
@@ -117,9 +115,7 @@ The strongest objections concede the knower's contribution and deny that it excl
 
 ## What AI Might See
 
-The exclusion becomes productive when different kinds of minds compare what they can and cannot access.
-
-If AI minds lack phenomenal consciousness—a Map conjecture, since [[tenets#^dualism|dualism]] alone leaves the question open—their constitutive contribution to processed information differs fundamentally from humans'. But AI minds have their own constitutive contributions: training data distributions, architectural constraints, representational formats. They face their own constitutive exclusion—a different one.
+If AI minds lack phenomenal consciousness—a Map conjecture, since [[tenets#^dualism|dualism]] alone leaves the question open—their constitutive contribution to processed information differs fundamentally from humans'. But AI minds have their own constitutive contributions—training distributions, architectural constraints, representational formats—and so a constitutive exclusion of their own, a different one.
 
 Comparing what each kind of mind can and cannot access about the same domain might triangulate the shape of the human contribution—not by escaping it but by seeing its shadow against a different one. If human consciousness contributes something non-physical while AI processing stays physical, the two exclusions may be incommensurable. That would cohere with dualism rather than confirm it: dualism is the premise that predicts the incommensurability, so finding it cannot count as independent evidence without circularity.
 
@@ -139,26 +135,26 @@ The exclusion connects to all five [[tenets]], each in a different evidential ro
 
 ## Further Reading
 
-- [[observation-and-measurement-void]], [[self-opacity]], [[intrinsic-nature-void]] — The three sibling voids distinguished above
-- [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation
-- [[the-subject-object-distinction-as-philosophical-discovery]] — The distinction as a discovery
-- [[objectivity-and-consciousness]] — The view from nowhere and its limit
-- [[wheelers-participatory-universe-and-it-from-bit]] — Wheeler's participatory universe
-- [[phenomenology]] — Making constitutive structures visible
-- [[voids]] — The broader framework
+- [[observation-and-measurement-void]], [[self-opacity]], [[intrinsic-nature-void]]
+- [[hard-problem-of-consciousness]]
+- [[the-subject-object-distinction-as-philosophical-discovery]]
+- [[objectivity-and-consciousness]]
+- [[wheelers-participatory-universe-and-it-from-bit]]
+- [[phenomenology]]
+- [[voids]]
 
 ## References
 
-1. Kant, I. (1781/1998). *Critique of Pure Reason*. Cambridge University Press.
-2. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
+1. Kant, I. (1781/1787/1998). *Critique of Pure Reason*. Trans. P. Guyer & A. W. Wood. Cambridge University Press.
+2. Heidegger, M. (1927/1962). *Being and Time*. Trans. J. Macquarrie & E. Robinson. Harper & Row.
 3. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. A. Landes. Routledge.
 4. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 5. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
-6. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler & Zurek. Princeton University Press.
+6. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler & Zurek, 182–213. Princeton University Press.
 7. Wheeler, J.A. (1990). "Information, Physics, Quantum: The Search for Links." In *Complexity, Entropy, and the Physics of Information*, ed. Zurek. Addison-Wesley.
-8. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Martinus Nijhoff.
+8. Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*, First Book. Trans. F. Kersten. Martinus Nijhoff.
 9. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation and Measurement Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-and-measurement-void/
-10. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/
+10. Southgate, A. & Oquatre-six, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/
 11. Jacques, V. et al. (2007). "Experimental Realization of Wheeler's Delayed-Choice Gedanken Experiment." *Science*, 315(5814), 966–968.
 12. Kim, E., Garg, A., Peng, K., & Garg, N. (2025). "Correlated Errors in Large Language Models." *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*. arXiv:2506.07962.
 13. Buyl, M. et al. (2026). "Large Language Models Reflect the Ideology of Their Creators." *npj Artificial Intelligence*, 2(1), 7.
@@ -170,3 +166,5 @@ The exclusion connects to all five [[tenets]], each in a different evidential ro
 19. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association*, 47, 5ff. doi:10.2307/3129898
 20. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 21. Meillassoux, Q. (2008). *After Finitude: An Essay on the Necessity of Contingency*. Trans. R. Brassier. Continuum.
+22. Hellmuth, T., Walther, H., Zajonc, A., & Schleich, W. (1987). "Delayed-choice experiments in quantum interference." *Physical Review A*, 35(6), 2532–2541. doi:10.1103/PhysRevA.35.2532
+23. Hiley, B. J., & Callaghan, R. E. (2006). "Delayed-choice experiments and the Bohm approach." *Physica Scripta*, 74(3), 336–348. doi:10.1088/0031-8949/74/3/007

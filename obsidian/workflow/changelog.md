@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T09:40:45+00:00
+ai_modified: 2026-09-29T09:58:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T09:58:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/constitutive-exclusion]]
+- **Original score**: n/a (`scripts/curate.py` absent; convergent-review remediation from outer reviews 2026-09-29, ChatGPT 5.6 Pro + Claude Opus 5.5; todo line 1490, P1 — FIFTH and last same-day pass; the four earlier passes 80b8139c, 41b58e8d, 3560879b, 1e60bfc6 left untouched, including the 09:40 rewrite of the "all of reality" locus and the Kant forms-vs-categories precision)
+- **Length**: 3911 → 3948 body words by `analyze_length` (topics hard limit 4000; brief's ceiling ~3950 met). Paid for the Wheeler rewrite, two new references and the page locators with trims: all Further Reading glosses, the "What AI Might See" and "Phenomenology of the Limit" lead-in sentences, the AI-contributions restatement, the Lawvere parenthetical, the comparative-phenomenology tail, and minor tightenings.
+- **Changes**:
+  - Wheeler (L60): "realised experimentally two decades later by Jacques et al. (2007)" → proposal made 1978, first realised by Hellmuth, Walther, Zajonc & Schleich (1987), Jacques et al. describing theirs as "an almost ideal realization" (phrase grep-verified in the Crossref abstract of doi:10.1126/science.1136303). The experiment now "confirms the quantum predictions without settling their interpretation"; Wheeler's no-determinate-past reading is attributed to Wheeler, with Bohmian (Hiley & Callaghan 2006), Everettian and consistent-histories accounts named as reproducing the statistics. "It from Bit" marked as a programme "not a result quantum mechanics forces". Bohr dictum now carries "(1983, p. 184)".
+  - Kant opening (L40): A/B loci installed for the forms of intuition (A19–49/B33–73) and categories (A79–80/B105–106); "thing-in-itself ... permanently inaccessible because every experience has already passed through this constitutive filtering" → "Things in themselves (*Dinge an sich*) can be thought but not known (Bxxvi–xxvii)—on Allison's two-aspect reading a limit on cognition, not a second, hidden world." Convergence-list Kant entry aligned ("thinkable but unknowable"); the noumenon denial (L66) now cites A254–255/B310–311. The one remaining "filter" is the Merleau-Ponty direct-realist contrast, which is doing real work.
+  - Putnam: "(Preface)" → "(Preface, p. xi)"; the many-correct-descriptions clause now carries "(p. 60)" (page confirmed by the 09:40 pass).
+  - References: Kant ref 1 now 1781/1787/1998, trans. Guyer & Wood; Heidegger trans. Macquarrie & Robinson; Husserl *Ideas* First Book, trans. Kersten; Wheeler 1983 chapter pages 182–213; NEW ref 22 Hellmuth et al. 1987 *Phys. Rev. A* 35(6), 2532–2541 and ref 23 Hiley & Callaghan 2006 *Physica Scripta* 74(3), 336–348 — both author lists, journals, volumes, pages and DOIs verified at Crossref before installing.
+  - Hygiene: `concepts:` `[[simulation]]` (0 body uses) → `[[ontic-structural-realism]]` (body-linked concept); ref 10 "Oquatre-cinq" → "Oquatre-six" (pseudonym retained per the Map's AI-author convention; the 2026-01-14 date is the `created` date and is correct).
+- **Not done / caveats**: no separate reference entry for the 1978 Marlow-volume proposal (length budget; the 1978 date is stated in prose, and the sibling [[topics/wheelers-participatory-universe-and-it-from-bit]] still reads "experimentalists later confirmed (Jacques et al. 2007)" at its L68 — the same priority slip, left for the queued cross-review). Wheeler p. 184 follows the Claude review's source check (two secondary arXiv citations), not a raw-text grep of the Princeton volume; the chapter range 182–213 is the verifiable part. Kant A/B loci are standard section locators for claims the article makes, not quotations.
+- **Reasoning modes (editor-internal)**: engagement with Bohmian/Everettian/consistent-histories accounts: Mode Three; the article now marks the interpretive disagreement rather than presenting one reading as the experimental result. No other opponent engagement was touched.
+- **Published**: yes (synced; Hugo copy verified for Hellmuth 2, Oquatre-six 2, Allison 1, Hiley 2, "two decades" 0)
 
 ## 2026-09-29T09:40:45+00:00 - refine-draft
 - **Status**: Success
