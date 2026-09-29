@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-28 23:55:12+00:00
+ai_modified: 2026-09-29 00:06:02+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-09-25
+date: &id001 2026-09-29
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-09-28 23:55:12+00:00
+lastmod: 2026-09-29 00:06:02+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -55,6 +55,8 @@ related_articles:
 - '[[research/voids-modality-void-2026-09-05]]'
 - '[[perceptual-reality-monitoring-void]]'
 - '[[cross-state-void]]'
+- '[[blindspot-void]]'
+- '[[research/voids-blindspot-void-2026-09-25]]'
 title: Voids in the Map
 topics: []
 ---
@@ -290,6 +292,7 @@ Twenty-nine voids surveyed since 2026-02 have research notes; all but the four m
 - **[The Veto Void](/research/voids-veto-void-2026-09-18/)** — *Surveyed.* A successful veto produces no event, so neither introspection nor the laboratory can observe it: inhibition latency is a model-estimated covert quantity (Verbruggen et al. 2019), and the point of no return carries no felt signal. This matters for the Map because the veto is the site its own tenets select. Disposition open: standalone (the note's recommendation), or fold into [agency-void](/voids/agency-void/) or [causal-interface](/voids/causal-interface/).
 - **[The Mirth Void](/research/voids-mirth-void-2026-09-23/)** — *Published* (2026-09-28) as [mirth-void](/voids/mirth-void/). We laugh first and find reasons afterwards: cortical stimulation produced laughter that the patient attributed to whatever was in front of her (Fried et al. 1998), and humour survives neither analysis nor deliberate production. This is an access claim, distinct from the irreducibility claim at [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/).
 - **[The Cross-State Void](/research/voids-cross-state-void-2026-09-24/)** — *Published* (2026-09-28) as [cross-state-void](/voids/cross-state-void/). A mind in one visceral state cannot represent the felt weight of another, even one it has often had: subjects' intensity estimates of cold-pressor pain crossed the gap while their willingness to endure it did not (Read & Loewenstein 1999), and knowing about the bias does not remove it. It is bidirectional and self-concealing, and it applies to one's own familiar states, which separates it from [novel states](/voids/transformative-experience-void/) and from [the inaccessible past](/voids/inaccessible-past/)'s lost episodes. Every correction that works (re-exposure, induction, even mental simulation per Steinmetz et al. 2018) moves the subject into the state rather than improving the cold representation.
+- **[The Blindspot Void](/research/voids-blindspot-void-2026-09-25/)** — *Published* (2026-09-29) as [blindspot-void](/voids/blindspot-void/). Truths about oneself that are open to everyone but oneself: Moore-paradoxical propositions one cannot rationally accept, Fitch's proved class of unknowable conjunctions (1963), and the phenomenal case where "I am not now conscious" can be true of a system yet never validly judged by it (Kim 2024/2026). Distinct from [inspection-transform](/voids/mutation-void/) and from contingent [self-opacity](/voids/self-opacity/): the boundary is a theorem, and its shape is indexical, which the Map reads as evidence about what a perspective is. The cogito side is presented as contested by [illusionism](/concepts/illusionism/); an AI's consciousness denial is uninformative from any system, including this one.
 
 ---
 

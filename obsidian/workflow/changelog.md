@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-28T23:55:12+00:00
+ai_modified: 2026-09-29T00:06:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T00:06:02+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Blindspot Void (truths about oneself open to everyone but oneself)
+- **Output**: [[voids/blindspot-void]]
+- **Word count**: 2982 total via analyze_length - soft_warning (voids soft 2000 / hard 3000); 2714 before References. First draft measured 3135; two trim passes.
+- **Based on research**: yes — [[research/voids-blindspot-void-2026-09-25]] (angle 1 primary; angle 2, AI self-report, folded in as the "What Cannot Be Said From Any System" section with cross-links to [[machine-consciousness]] and [[apex/assessing-ai-consciousness-under-the-map]]; angle 3, preface vertigo, folded into the phenomenology paragraph, marked as the Map's own analysis)
+- **Caveats honoured**: Sorensen 1984 cited by title only, argument explicitly not relied on. Sorensen 2015 "Contagious Blindspots" DROPPED — not confirmable via Crossref, OpenAlex (rate-limited), Semantic Scholar (429), PhilPapers (403), JSTOR, Google Books, DuckDuckGo or Bing; the peer-contagion point is stated as the Map's own observation, unattributed. Dretske 2003 quotes verified verbatim at the consc.net draft; chapter page range unverified so omitted. Sosa 2007 make-believe phrase found only in the OUP blurb, not chapter text — no verbatim quote; position stated with ch. 1 "Dreams and Philosophy" locator (Google Books places the essay at p. 4). Kim arXiv:2501.05454 v2 (13 Feb 2026) abstract re-fetched; all three quoted claims present in the revision; cited as preprint. Both SEP quotes (Sorensen 2022; Brogaard & Salerno 2025) verified verbatim. Kind 2003 completed to 53(210): 39–48, DOI 10.1111/1467-9213.00294. Fitch, Hintikka 1962/1963, Shoemaker 1995, Ramm 2025, Sorensen 1984 Crossref-verified; Ramm premise quote from OpenAlex abstract. Author roles: Dretske = sceptical challenger; Ramm = respondent (self-luminosity); Shoemaker = anti-self-blindness; Kind = inner-sense defender against Shoemaker; Kim = formal asymmetry proponent.
+- **Seams**: [[mutation-void]] (inspection-transform vs positional closure, stated), [[meta-epistemology-of-limits]] (Fitch taken down a level), [[self-opacity]] (contingent vs proved), [[collective-cognitive-limits]] and [[selective-correction-and-reconstruction-paradox]] (everyday "blind spot" sense disambiguated), [[decision-void]], [[dream-consciousness]], [[sleep-consciousness-void]], [[anesthesia-void]], [[voids-between-minds]], [[apophatic-cartography]], [[formal-cognitive-limits]], [[illusionism]].
+- **Tenet**: Occam's Razor Has Limits primary (simplest epistemology refuted by proof); Dualism as the Map's flagged interpretation of the phenomenal asymmetry (thermostat counter-case named; gain stated as modest and conditional on the illusionist dispute); No Many Worlds as a coherence point via indexicality; Bidirectional Interaction lightly with the unretrieved Sorensen 1984 caveat; Minimal Quantum Interaction explicitly not forced.
+- **Register**: new *Published* (2026-09-29) entry added to [[voids/voids]] after the cross-state entry, plus related_articles links to the article and research note; voids measured 107/115 before creation (now 108). Not an apex source per apex-articles.md.
+- **Frontmatter**: `[[concepts/self-reference-paradox]]` path-qualified (archive copy collides); topics bare. Sync run; Hugo copy validates; all body links resolve.
 
 ## 2026-09-28T23:55:12+00:00 - expand-topic
 - **Status**: Success
