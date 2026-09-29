@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-08-26 18:19:24.996808+00:00
+ai_modified: 2026-09-29 18:07:56+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 22:26:25+00:00
-lastmod: 2026-08-26 18:19:24.996808+00:00
+lastmod: 2026-09-29 18:07:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ The Map's interpretation of incubation would face difficulty if:
 
 1. **Incubation worked without prior conscious engagement.** If stepping away from a problem encountered only briefly produced the same benefit as stepping away after sustained effort, conscious preparation would be unnecessary. Current evidence: it does not.
 
-2. **Unconscious integration was demonstrated to be extensive.** If complex novel combinations reliably occurred under subliminal conditions, the claimed limits of unconscious processing would be wrong. Current evidence is against this (Zher-Wen & Tsuchiya 2023; Streicher et al. 2025).
+2. **Unconscious integration was demonstrated to be extensive.** If complex novel combinations reliably occurred under subliminal conditions, the claimed limits of unconscious processing would be wrong. Current evidence is against this (Zher-Wen & Yu 2023; Streicher et al. 2025).
 
 3. **Creative benefit appeared without experience.** If sleep periods that generated no experience at all produced the same creative benefits as experienced ones, the phenomenal dimension would be dispensable. The test has to be run on phenomenal reports rather than on sleep-stage labels, which do not track experience closely enough to stand in for it: dreaming occurs during NREM (Siclari et al. 2017), and Löwe et al. (2025) found N2 — a NREM stage — promoting insight relative to waking. Current evidence is accordingly unsettled rather than favourable. Cai et al. (2009) found REM outperforming NREM for creative association, but neither that study nor the sleep-onset work gathered the experience reports that would make the comparison a phenomenal one.
 
@@ -181,4 +181,4 @@ The Map's interpretation of incubation would face difficulty if:
 1. Sio, U. N., & Ormerod, T. C. (2009). Does incubation enhance problem solving? A meta-analytic review. *Psychological Bulletin*, 135(1), 94-120.
 1. Smith, S. M., & Blankenship, S. E. (1991). Incubation and the persistence of fixation in problem solving. *American Journal of Psychology*, 104(1), 61-87.
 1. Wallas, G. (1926). *The Art of Thought*. Harcourt, Brace.
-1. Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.
+1. Zher-Wen, & Yu, R. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114(2), 430-456.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-29 15:24:45+00:00
+ai_modified: 2026-09-29 18:07:56+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:48:49+00:00
-lastmod: 2026-09-29 15:24:45+00:00
+lastmod: 2026-09-29 18:07:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -221,7 +221,7 @@ The three functions consciousness enables might require content NCCs (specific i
 
 The functional necessity of consciousness would be undermined if:
 
-1. **Unconscious integration was demonstrated reliably.** If complex novel combinations could be performed subliminally, the "novel combinations" criterion would fall. Current evidence suggests this has not been achieved (Zher-Wen, 2023).
+1. **Unconscious integration was demonstrated reliably.** If complex novel combinations could be performed subliminally, the "novel combinations" criterion would fall. Current evidence suggests this has not been achieved (Zher-Wen & Yu, 2023).
 
 2. **Blindsight achieved spontaneous action.** If blindsight patients could spontaneously use blind-field information without prompting, consciousness would be less functionally necessary. Current evidence: they cannot.
 
@@ -297,4 +297,4 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
-1. Zher-Wen (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114(2), 430-456.
+1. Zher-Wen, & Yu, R. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114(2), 430-456.

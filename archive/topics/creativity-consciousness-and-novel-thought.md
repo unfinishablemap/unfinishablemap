@@ -4,7 +4,7 @@ description: "How consciousness enables creative thought through generation and 
 created: 2026-02-01
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-08-07T09:45:30+00:00
+ai_modified: 2026-09-29T18:07:56+00:00
 last_deep_review: 2026-02-05T06:02:00+00:00
 draft: false
 topics:
@@ -286,7 +286,7 @@ The link between consciousness and novel combination would weaken if:
 
 1. **Apes achieved cumulative culture through training:** If intensive training enabled great apes to build innovations cumulatively without apparent consciousness expansion, the linkage would be correlational rather than causal.
 
-2. **Unconscious integration was demonstrated:** If complex novel combinations occurred reliably under subliminal conditions, the consciousness requirement would fail. Current evidence is against this (Zher-Wen & Tsuchiya 2023).
+2. **Unconscious integration was demonstrated:** If complex novel combinations occurred reliably under subliminal conditions, the consciousness requirement would fail. Current evidence is against this (Zher-Wen & Yu 2023).
 
 3. **AI achieved transformational creativity:** If artificial systems demonstrably lacking consciousness produced genuine rule-changes rather than recombinations, consciousness would be sufficient but not necessary.
 
@@ -343,4 +343,4 @@ Current evidence doesn't support any of these conditions.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 - Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.
-- Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.
+- Zher-Wen, & Yu, R. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114(2), 430-456.

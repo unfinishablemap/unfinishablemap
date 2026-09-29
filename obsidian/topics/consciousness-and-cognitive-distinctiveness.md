@@ -4,7 +4,7 @@ description: "The ape–human cognitive gap admits three rival readings. The Map
 created: 2026-01-29
 modified: 2026-09-10
 human_modified:
-ai_modified: 2026-09-10T17:08:54+00:00
+ai_modified: 2026-09-29T18:07:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -173,7 +173,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 1. **Great apes achieved cumulative culture** without the explicit metarepresentation the model requires
 2. **Neural complexity alone** explained the cognitive discontinuity through a proportionally dramatic architectural change
 3. **AI produced work guided by something functionally equivalent to "this feels wrong"**—meaning-tracking revision indistinguishable from human creative revision
-4. **Unconscious integration was demonstrated**: complex novel combinations occurring reliably under subliminal conditions (current evidence is against this—Zher-Wen & Tsuchiya, 2023)
+4. **Unconscious integration was demonstrated**: complex novel combinations occurring reliably under subliminal conditions (current evidence is against this—Zher-Wen & Yu, 2023)
 5. **Network switching proved fully automatic**, with DMN/ECN transitions explained entirely by unconscious dynamics
 6. **The discriminating designs came back against the interface reading**—an operation tracking architectural integrity while phenomenal presence varied, or residual selection showing no alignment with phenomenal report ([the designs](#what-would-discriminate))
 
@@ -231,4 +231,4 @@ The consciousness-intelligence-creativity thesis would weaken if:
 1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
 1. Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.
 1. Chen, Q., Kenett, Y.N., et al. (2025). Dynamic switching between brain networks predicts creative ability. *Communications Biology*, 8(1), 54.
-1. Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.
+1. Zher-Wen, & Yu, R. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114(2), 430-456.

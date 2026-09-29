@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23 03:26:00+00:00
-ai_modified: 2026-06-02 16:22:55+00:00
+ai_modified: 2026-09-29 18:07:56+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-07-10'
+date: '2026-09-29'
 draft: false
 human_modified: null
-lastmod: 2026-07-10 00:00:00+00:00
+lastmod: 2026-09-29 18:07:56+00:00
 related_articles: []
 title: Research Notes - Neural Correlates Distinguishing Conscious from Unconscious
   Processing
@@ -190,4 +190,4 @@ Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). "Neural Correlates o
 
 Sergent, C., & Dehaene, S. (2004). "Is Consciousness a Gradual Phenomenon? Evidence for an All-or-None Bifurcation During the Attentional Blink." *Psychological Science*, 15(11), 720-728.
 
-Zher-Wen, Y., & Tsuchiya, N. (2023). "Unconscious Integration: Current Evidence for Integrative Processing Under Subliminal Conditions." *British Journal of Psychology*, 114, 347-368. Available at: https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.12631
+Zher-Wen, & Yu, R. (2023). "Unconscious Integration: Current Evidence for Integrative Processing Under Subliminal Conditions." *British Journal of Psychology*, 114(2), 430-456. Available at: https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.12631 [Corrected 2026-09-29: this entry previously read "Zher-Wen, Y., & Tsuchiya, N. … 114, 347-368"; Crossref and PubMed (36689339) list the authors as Zher-Wen and Rongjun Yu, 114(2), 430-456.]

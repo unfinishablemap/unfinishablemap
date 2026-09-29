@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 17:41:15+00:00
+ai_modified: 2026-09-29 18:07:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 17:23:39+00:00
+lastmod: 2026-09-29 17:41:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T18:07:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
+- **Original score**: n/a (metadata-only citation reconciliation; queue task todo.md L1444, brief reviews/optimistic-2026-09-29-functional-contribution-wing Calibration Concern 3)
+- **Publisher record (re-verified this pass, Crossref + PubMed 36689339)**: DOI 10.1111/bjop.12631 authors are Zher-Wen (mononym) and Rongjun Yu; *British Journal of Psychology* 114(2), 430-456, 2023. Both prior corpus ledgers were wrong: the "Zher-Wen, Y., & Tsuchiya, N. … 114, 347-368" form invented a co-author, an initial and the page range; the "Zher-Wen (2023)" single-author form (ratified "CONFIRMED" by the 2026-06-05 deep review of conscious-vs-unconscious-processing) dropped the real second author.
+- **Changes**: L176 inline "Zher-Wen & Tsuchiya, 2023" → "Zher-Wen & Yu, 2023"; L234 reference → "Zher-Wen, & Yu, R. (2023). … 114(2), 430-456." (host style: hyphenated ranges, no DOI on neighbouring entries). Substantive claim at L176 untouched.
+- **Word count**: 3985 → 3984 (`analyze_length`; topics hard 4000, 15 words headroom)
+- **Sibling sweep (same strings only)**: `topics/incubation-effect-and-unconscious-processing` L136 + L180 (3399 → 3398); `concepts/conscious-vs-unconscious-processing` L221 + L297 gained "& Yu, R." (3472 → 3477, concepts hard 3500); `research/neural-correlates-conscious-unconscious-processing-2026-01-23` L188 corrected in place with a dated annotation; `archive/topics/{consciousness-and-creative-distinctiveness, creativity-consciousness-and-novel-thought, creativity-and-novel-combination}` inline + reference entries (live archive URLs carried the Tsuchiya form). Corpus grep "Zher-Wen" outside reviews/workflow: 7 loci before, 7 after, zero surviving "Tsuchiya" pairings (the research note's annotation quotes the old form deliberately) and zero single-author forms.
+- **ai_system**: unchanged on every host (metadata-only fix). Model running this pass: claude-fable-5-1.
+- **Published**: yes
 
 ## 2026-09-29T17:41:15+00:00 - deep-review
 - **Status**: Success

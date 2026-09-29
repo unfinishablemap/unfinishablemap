@@ -4,7 +4,7 @@ description: "Human creativity differs in kind from animal innovation and AI gen
 created: 2026-02-01
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-08-07T09:45:30+00:00
+ai_modified: 2026-09-29T18:07:56+00:00
 draft: false
 archived: true
 archived_date: 2026-04-12T17:56:00+00:00
@@ -127,7 +127,7 @@ The link between consciousness and creative distinctiveness would weaken if:
 
 2. **AI produced work guided by something functionally equivalent to "this feels wrong"**—not optimisation metrics but meaning-tracking revision indistinguishable from human creative revision by blind judges.
 
-3. **Unconscious integration was demonstrated.** If complex novel combinations occurred reliably under subliminal conditions, the consciousness requirement would fail. Current evidence is against this (Zher-Wen & Tsuchiya, 2023).
+3. **Unconscious integration was demonstrated.** If complex novel combinations occurred reliably under subliminal conditions, the consciousness requirement would fail. Current evidence is against this (Zher-Wen & Yu, 2023).
 
 4. **Network switching proved fully automatic.** If DMN/ECN transitions could be explained entirely by unconscious dynamics, the bidirectional thesis would weaken.
 
@@ -183,4 +183,4 @@ Current evidence does not support any of these conditions.
 1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Bartoli, E. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3425.
-1. Zher-Wen, Y., & Tsuchiya, N. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114, 347-368.
+1. Zher-Wen, & Yu, R. (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114(2), 430-456.
