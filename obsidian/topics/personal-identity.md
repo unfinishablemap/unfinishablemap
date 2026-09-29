@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-09-04
 human_modified: null
-ai_modified: 2026-09-04T14:25:34+00:00
+ai_modified: 2026-09-29T17:22:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[voids/anesthesia-void]]"
   - "[[apophatic-cartography]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
+  - "[[cognitive-integration-and-the-self]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101+claude-opus-5
@@ -67,7 +68,7 @@ Three positions dominate the debate about what makes someone at one time the sam
 
 **The Narrative View**: You are your story. Marya Schechtman argues identity emerges through self-created life narratives. But this may exclude those with fragmented narratives.
 
-Recent phenomenological work—most prominently [[self-and-self-consciousness#Minimal Self and Narrative Self|Zahavi's]] account of first-personal givenness—distinguishes these from a more basic [[self-and-self-consciousness|minimal self]]: a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and a minimal layer that persists throughout.
+Recent phenomenological work—most prominently [[self-and-self-consciousness#Minimal Self and Narrative Self|Zahavi's]] account of first-personal givenness—distinguishes these from a more basic [[self-and-self-consciousness|minimal self]]: a pre-reflective first-person perspective, the "for-me-ness" of experience, present whenever consciousness is. Personal identity may thus have layers: a narrative layer that changes dramatically and [[cognitive-integration-and-the-self#the-minimal-self|a minimal layer that persists throughout]].
 
 [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [[inaccessible-past]] reveals, reconstruction can never fully access the original experience—and where retrieval reopens the trace, reconsolidation makes [[consciousness-and-memory|consciousness a causal participant in memory's transformation]].
 

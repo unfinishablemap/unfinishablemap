@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-09-25 11:46:53+00:00
+ai_modified: 2026-09-29 17:22:40+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:57:00+00:00
-lastmod: 2026-09-25 11:46:53+00:00
+lastmod: 2026-09-29 17:22:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,6 +46,7 @@ related_articles:
 - '[[emergence-void]]'
 - '[[process-and-consciousness]]'
 - '[[composition-and-consciousness]]'
+- '[[cognitive-integration-and-the-self]]'
 title: The Unity of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -95,7 +96,7 @@ If the three dimensions of unity were one phenomenon, they should stand or fall 
 
 ### Dreamless Sleep
 
-During dreamless NREM sleep, diachronic unity vanishes—hours pass with no temporal experience. Yet if the same subject wakes, subject unity persisted across the gap. The two are distinct: subject unity can survive where diachronic unity fails entirely.
+During dreamless NREM sleep, diachronic unity vanishes—hours pass with no temporal experience. Yet if the same subject wakes, [subject unity persisted across the gap](/topics/cognitive-integration-and-the-self/#dreamless-sleep-and-anesthesia). The two are distinct: subject unity can survive where diachronic unity fails entirely.
 
 ### Dissociative Disorders
 

@@ -4,7 +4,7 @@ description: "Narrative is one important route to agency extended across time—
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-08-04T07:14:59+00:00
+ai_modified: 2026-09-29T17:22:40+00:00
 last_deep_review: 2026-07-28T14:06:19+00:00
 draft: false
 topics:
@@ -32,6 +32,7 @@ related_articles:
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[wholeheartedness-void]]"
+  - "[[cognitive-integration-and-the-self]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6+claude-opus-5
@@ -83,7 +84,7 @@ The revised claim is that diachronic agency requires *some* coordinating structu
 
 ## Narrative and the Substantial Self
 
-The [[the-self-minimal-narrative-and-substantial|three-layered account of selfhood]] distinguishes the minimal self (bare first-person perspective), the narrative self (autobiographical construction), and the substantial self (irreducible conscious particular). Diachronic agency illuminates the relationship between the latter two layers.
+The [[the-self-minimal-narrative-and-substantial|three-layered account of selfhood]] distinguishes the minimal self (bare first-person perspective), the narrative self (autobiographical construction), and the substantial self (irreducible conscious particular). Diachronic agency illuminates [[cognitive-integration-and-the-self#integration-between-minimal-and-narrative|the relationship between the latter two layers]].
 
 The narrative self, understood as mere construction, seems too fragile to ground diachronic agency. Stories can be rewritten, memories confabulated, life-plans revised. If narrative identity is "all the way down"—if there is nothing beneath the story—then diachronic agency rests on fiction. The agent who perseveres through difficulty does so because of a story that could have been different, and the choice to maintain *this* story rather than *that* one has no deeper anchor.
 

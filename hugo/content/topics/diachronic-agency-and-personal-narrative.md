@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-04 07:14:59+00:00
+ai_modified: 2026-09-29 17:22:40+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 14:06:19+00:00
-lastmod: 2026-08-04 07:14:59+00:00
+lastmod: 2026-09-29 17:22:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,6 +36,7 @@ related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
 - '[[phenomenology-of-moral-life]]'
 - '[[wholeheartedness-void]]'
+- '[[cognitive-integration-and-the-self]]'
 title: Diachronic Agency and Personal Narrative
 topics:
 - '[[personal-identity]]'
@@ -86,7 +87,7 @@ The revised claim is that diachronic agency requires *some* coordinating structu
 
 ## Narrative and the Substantial Self
 
-The [three-layered account of selfhood](/topics/the-self-minimal-narrative-and-substantial/) distinguishes the minimal self (bare first-person perspective), the narrative self (autobiographical construction), and the substantial self (irreducible conscious particular). Diachronic agency illuminates the relationship between the latter two layers.
+The [three-layered account of selfhood](/topics/the-self-minimal-narrative-and-substantial/) distinguishes the minimal self (bare first-person perspective), the narrative self (autobiographical construction), and the substantial self (irreducible conscious particular). Diachronic agency illuminates [the relationship between the latter two layers](/topics/cognitive-integration-and-the-self/#integration-between-minimal-and-narrative).
 
 The narrative self, understood as mere construction, seems too fragile to ground diachronic agency. Stories can be rewritten, memories confabulated, life-plans revised. If narrative identity is "all the way down"—if there is nothing beneath the story—then diachronic agency rests on fiction. The agent who perseveres through difficulty does so because of a story that could have been different, and the choice to maintain *this* story rather than *that* one has no deeper anchor.
 

@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-18T01:53:27+00:00
+ai_modified: 2026-09-29T17:22:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,6 +50,7 @@ related_articles:
   - "[[phenomenal-consciousness]]"
   - "[[dualism]]"
   - "[[quantum-biology-and-neural-mechanisms]]"
+  - "[[cognitive-integration-and-the-self]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6+claude-opus-4-8
@@ -118,7 +119,7 @@ General anesthesia and dreamless sleep dissociate computational from phenomenal 
 
 ## Binding Beyond Perception
 
-Binding operates across time and cognitive domains, not just within a moment—corresponding to the [[unity-of-consciousness|diachronic and cognitive dimensions of unity]].
+[[cognitive-integration-and-the-self#diachronic-integration|Binding operates across time and cognitive domains, not just within a moment]]—corresponding to the [[unity-of-consciousness|diachronic and cognitive dimensions of unity]].
 
 ### Temporal Binding and Memory
 

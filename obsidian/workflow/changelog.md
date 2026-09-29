@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29T17:06:42+00:00
+ai_modified: 2026-09-29T17:23:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-29T17:23:39+00:00 - integrate-orphan
+- **Status**: Success (queue task todo.md L1444, P3, `integrate-orphan`; cycle_pick mapped it to deep-review, but no deep-review file was written — this is a link-install pass, not a content review, and the target file was NOT edited)
+- **Target**: [[topics/cognitive-integration-and-the-self]] — inbound files outside `reviews/`+`workflow/` (grep, obsidian tree): **4 → 9** (before: `self-and-self-consciousness`, `consciousness-and-integrated-information`, `social-construction-of-self-vs-phenomenal-self`, plus `research/pre-reflective-self-awareness-2026-06-26` which the task's "3" did not count)
+- **Brief**: [[reviews/optimistic-2026-09-29-functional-contribution-wing]] Cross-Linking Suggestions rows 1–5; all five host sentences grep-verified present verbatim at the 2026-09-29 snapshot lines (+0)
+- **Hosts edited** (piped wikilinks over existing words; body word count via `analyze_length` unchanged in every case): (1) `concepts/unity-of-consciousness` L95 "subject unity persisted across the gap" → `#dreamless-sleep-and-anesthesia`, 2705 → 2705; (2) `concepts/binding-problem` L122 "Binding operates across time and cognitive domains, not just within a moment" → `#diachronic-integration`, 3191 → 3191; (3) `topics/vertiginous-question` L82 "**Ownership-based answers**" → `#integration-and-indexical-identity` (section heading; no finer heading exists at the composition-vs-ownership paragraph), 3992 → 3992; (4) `topics/diachronic-agency-and-personal-narrative` L87 — the brief's carrier "three-layered account of selfhood" is ALREADY a piped link to `the-self-minimal-narrative-and-substantial`, so the link was piped over the next clause of the same sentence pair, "the relationship between the latter two layers" → `#integration-between-minimal-and-narrative`, 3442 → 3442; (5) `topics/personal-identity` L71 — "minimal self" is ALREADY piped to `self-and-self-consciousness`, so piped "a minimal layer that persists throughout" (same sentence) → `#the-minimal-self`, 4045 → 4045 (already over the topics 4000 hard line; zero words added)
+- **Anchor dialect**: written in the slugified form (`#dreamless-sleep-and-anesthesia`) rather than heading-text (`#Dreamless Sleep and Anesthesia`) because `count_words` is a whitespace split — a spaced heading-text anchor inside `[[…]]` adds tokens, which would have broken the zero-cost requirement on the two hosts at/over the hard line. `slugify` is idempotent on the slugified form, so Hugo renders identically: `/topics/cognitive-integration-and-the-self/#dreamless-sleep-and-anesthesia`, `#diachronic-integration`, `#integration-and-indexical-identity`, `#integration-between-minimal-and-narrative`, `#the-minimal-self` — all five grep-verified in `hugo/content/`, and all five headings present in the target's Hugo copy (L57/71/93/133/159)
+- **Frontmatter**: `[[cognitive-integration-and-the-self]]` appended to `related_articles` in all five hosts (each list existed and lacked it); `ai_modified: 2026-09-29T17:22:40+00:00` in all five (live UTC clock); `ai_system` unchanged (link-only edits)
+- **Verification**: `sync.py` ok; `validate.py hugo/content/` raises nothing on the five hosts or the target (remaining warnings are pre-existing on unrelated files); links grep-verified in both trees
+- **Model**: claude-fable-5-1
+- **todo.md**: untouched (orchestrator marks L1444). Not committed.
 
 ## 2026-09-29T17:06:42+00:00 - refine-draft
 - **Status**: Success

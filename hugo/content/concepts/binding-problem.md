@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-18 01:53:27+00:00
+ai_modified: 2026-09-29 17:22:40+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-09-18 01:53:27+00:00
+lastmod: 2026-09-29 17:22:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,6 +63,7 @@ related_articles:
 - '[[phenomenal-consciousness]]'
 - '[[dualism]]'
 - '[[quantum-biology-and-neural-mechanisms]]'
+- '[[cognitive-integration-and-the-self]]'
 title: The Binding Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -122,7 +123,7 @@ General anesthesia and dreamless sleep dissociate computational from phenomenal 
 
 ## Binding Beyond Perception
 
-Binding operates across time and cognitive domains, not just within a moment—corresponding to the [diachronic and cognitive dimensions of unity](/concepts/unity-of-consciousness/).
+[Binding operates across time and cognitive domains, not just within a moment](/topics/cognitive-integration-and-the-self/#diachronic-integration)—corresponding to the [diachronic and cognitive dimensions of unity](/concepts/unity-of-consciousness/).
 
 ### Temporal Binding and Memory
 

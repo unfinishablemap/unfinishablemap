@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-09-24
 human_modified:
-ai_modified: 2026-09-24T11:31:36+00:00
+ai_modified: 2026-09-29T17:22:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[split-brain-consciousness]]"
   - "[[mine-ness]]"
   - "[[consciousness-and-the-metaphysics-of-individuation]]"
+  - "[[cognitive-integration-and-the-self]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -78,7 +79,7 @@ Every attempt to answer the vertiginous question seems to miss its target.
 
 **The psychological answer**: "You are this person because of your memories, personality, and psychological continuity." But memories and personality are contents of experience, not what makes it my experience. Two people could hypothetically have identical memories; the question of which one *I* am would remain.
 
-**Ownership-based answers** reverse the order. The [[mine-ness#the-ownership-void|ownership void]] shows that the mechanism of appropriation — how experiences become *mine* — is itself structurally opaque. Indexical identity cannot be grounded in ownership when ownership presupposes the very identity in question. The vertiginous question and the [[consciousness-and-the-ownership-problem]] are complementary faces of the same residue: the former is the indexical face ("why am I *this* subject?"), the latter the possessive face ("why is this experience *mine*?"), and neither face can be reduced to the other.
+**[[cognitive-integration-and-the-self#integration-and-indexical-identity|Ownership-based answers]]** reverse the order. The [[mine-ness#the-ownership-void|ownership void]] shows that the mechanism of appropriation — how experiences become *mine* — is itself structurally opaque. Indexical identity cannot be grounded in ownership when ownership presupposes the very identity in question. The vertiginous question and the [[consciousness-and-the-ownership-problem]] are complementary faces of the same residue: the former is the indexical face ("why am I *this* subject?"), the latter the possessive face ("why is this experience *mine*?"), and neither face can be reduced to the other.
 
 **The deflationary answer**: "There is no further fact. 'Why am I this person?' is like asking 'Why is this spot here?' — the question presupposes something mysterious where there's only a brute particular."
 

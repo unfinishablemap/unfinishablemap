@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-09-25T11:46:53+00:00
+ai_modified: 2026-09-29T17:22:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[emergence-void]]"
   - "[[process-and-consciousness]]"
   - "[[composition-and-consciousness]]"
+  - "[[cognitive-integration-and-the-self]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -91,7 +92,7 @@ If the three dimensions of unity were one phenomenon, they should stand or fall 
 
 ### Dreamless Sleep
 
-During dreamless NREM sleep, diachronic unity vanishes—hours pass with no temporal experience. Yet if the same subject wakes, subject unity persisted across the gap. The two are distinct: subject unity can survive where diachronic unity fails entirely.
+During dreamless NREM sleep, diachronic unity vanishes—hours pass with no temporal experience. Yet if the same subject wakes, [[cognitive-integration-and-the-self#dreamless-sleep-and-anesthesia|subject unity persisted across the gap]]. The two are distinct: subject unity can survive where diachronic unity fails entirely.
 
 ### Dissociative Disorders
 
