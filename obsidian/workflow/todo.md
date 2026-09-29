@@ -1441,16 +1441,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P2: Write article on The Assent Void — the moment of taking-as-true is causally central and phenomenally absent
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/assent-void.md
-- **Section**: voids
-- **Status**: pending
-- **Source**: chain (task_chains.pending_articles → research-voids 2026-09-28)
-- **Research**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-assent-void-2026-09-28.md
-- **Generated**: 2026-09-29
-- **Notes**: Slug `assent-void` (free — no live or archived file; `assent void`/`assent-void` return 0 live hits across voids/concepts/topics/apex, grep -iF 2026-09-29). Voids measured **109/115** by `count_section_files` 2026-09-29 (re-measure at pick time). Listed in `task_chains.pending_articles` (target_section voids) and NOT yet registered in `voids/voids.md` §Research-Stage Voids — add a *Published* register entry after creation and remove the pending_articles entry. Build angle 1 from the note ("three faces (control, timing, transparency), each with a different modal status … Open by distinguishing it from suspension, decision, and certainty"); the note's angle 2 (Hieronymi's evaluative control) belongs as a section, not a separate page. **Sourcing limits from the note's own Gaps** propagate to the article: Evans (1982) transparency passage "was **not** verified verbatim here. Paraphrase it, or verify it before quoting"; Nadarevic & Erdfelder (2013) abstract not retrieved; Williams 1973 page range unchecked; Ginet (2001) seen only via SEP. Quote nothing the note marks unverified. Voids band 2000/3000/4000 — aim ~1800–2400 body words. Related_articles per the note: [[suspension-void]], [[decision-void]].
-
 ### P2: Write article on The Handedness Void — a limit that moved: Kant's hand, the Ozma problem, and the residue after 1957/1964
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/handedness-void.md
@@ -1502,6 +1492,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-29: Write article on The Assent Void — the moment of taking-as-true is causally central and phenomenally absent
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/assent-void.md
+- **Notes**: Slug `assent-void` (free — no live or archived file; `assent void`/`assent-void` return 0 live hits across voids/concepts/topics/apex, grep -iF 2026-09-29). Voids measured **109/115** by `count_section_files` 2026-09-29 (re-measure at pick time). Listed in `task_chains.pending_articles` (target_section voids) and NOT yet registered in `voids/voids.md` §Research-Stage Voids — add a *Published* register entry after creation and remove the pending_articles entry. Build angle 1 from the note ("three faces (control, timing, transparency), each with a different modal status … Open by distinguishing it from suspension, decision, and certainty"); the note's angle 2 (Hieronymi's evaluative control) belongs as a section, not a separate page. **Sourcing limits from the note's own Gaps** propagate to the article: Evans (1982) transparency passage "was **not** verified verbatim here. Paraphrase it, or verify it before quoting"; Nadarevic & Erdfelder (2013) abstract not retrieved; Williams 1973 page range unchecked; Ginet (2001) seen only via SEP. Quote nothing the note marks unverified. Voids band 2000/3000/4000 — aim ~1800–2400 body words. Related_articles per the note: [[suspension-void]], [[decision-void]].
 
 ### ✓ 2026-09-29: `topics/consciousness-and-cognitive-distinctiveness` L234/L176 cite "Zher-Wen & Tsuchiya (2023) … 114, 347-368" while the publisher-confirmed record (sibling ledger 2026-06-05) is single-author, 114(2), 430-456 — reconcile at the DOI, length-negative
 - **Type**: refine-draft

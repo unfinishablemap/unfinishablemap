@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 18:07:56+00:00
+ai_modified: 2026-09-29 18:47:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-29'
-lastmod: 2026-09-29 17:41:15+00:00
+lastmod: 2026-09-29 18:07:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-29T18:47:27+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Assent Void — the moment of taking-as-true is causally central and phenomenally absent (todo.md P2 expand-topic, chain from research-voids 2026-09-28)
+- **Output**: [assent-void](/voids/assent-void/)
+- **Word count**: 2451 by `analyze_length` (voids soft 2000 / hard 3000) — split: 2141 prose before Further Reading + 310 reference apparatus (15 refs, 4 Further Reading entries). Brief target 1800–2400 total; first draft measured 3182 and was condensed in four passes (3182 → 3084 → 2973 → 2791 → 2630 → 2451), dropping the Descartes paragraph (folded into the Timing face), the non-human-minds paragraph and two Further Reading entries.
+- **Based on research**: yes — [voids-assent-void-2026-09-28](/research/voids-assent-void-2026-09-28/) (read in full; angle 1 built, angle 2 — Hieronymi's evaluative control — carried as a section, not a page)
+- **Model**: claude-fable-5-1 (`ai_system`), self-reported by the running model; `ai_modified` 2026-09-29T18:40:14+00:00 and `ai_generated_date` 2026-09-29 stamped from the real clock.
+- **Classification**: framework-independent (stated in the body and in the Relation section under [P-V2](/positions/voids-as-evidence/#p-v2): dualism offers a reading, receives no support). Voids measured 109/115 before creation.
+- **Register**: `voids/voids.md` gained one line under "### Specific Voids" (end of list), one under "## Framework-Independent Voids" (after blindspot-void), and one *Published* entry under "## Research-Stage Voids" (after causal-impression); `ai_modified` bumped. evolution-state.yaml and todo.md untouched.
+- **Citation discipline**: every reference is in the note's citation list or named in its text (Evans). Verified at source this pass: Williams 1973 pp. 136–151 (Crossref, DOI 10.1017/CBO9780511621253.011, added to the reference); Nadarevic & Erdfelder 2013 abstract (PubMed PMID 22972664 — quoted "clearly contradict the Spinozan model but can be explained in terms of the Cartesian model"); Hasson et al. 2005 abstract reconstructed from the raw OpenAlex inverted index (the WebFetch summariser had dropped a "not" — quoted "comprehending a statement may not require believing it"). Quoted from the note's verified abstracts: Gilbert 1991 (×2), Mandelbaum 2014, Hieronymi 2006, Shah & Velleman 2005, Vorms et al. 2022; SEP's rendering of Williams marked as such. Paraphrased, flagged in-text: Evans 1982 (not checked), Hieronymi's intend-at-will line, Descartes Meditation IV. Ginet 2001 cited via SEP as the note does. Contemplative and interpretability material stated as unexamined.
+- **Published**: yes (sync run after this entry)
 
 ## 2026-09-29T18:07:56+00:00 - refine-draft
 - **Status**: Success
