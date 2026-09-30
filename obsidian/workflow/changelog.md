@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T16:24:35+00:00
+ai_modified: 2026-09-30T16:52:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T16:52:30+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update P-AS1 — argument-only, no calibration change
+- **File**: [[positions/ai-substrate-verdicts]]
+- **Source**: [[reviews/pessimistic-2026-09-30-ai-substrate-verdicts]] Issues 1–2 (todo P2, L1453)
+- **Changes (1167 → 1371 body words, positions hard gate 2500)**: *Asserts* gate-class clause rewritten — the continuity failure no longer says the machine evolves "unitarily until a terminal readout" (syndrome extraction is repeated mid-evolution projective measurement; the cited Google 2024 result reports logical error per cycle) and is restated as an ongoing stream of open Born events whose selected outcomes the decoder erases, with "at decision-relevant points" restored from the dependent topic article's own continuity cell; the specificity failure no longer rests on "projects onto a fixed code basis rather than hosting open selection" (basis-fixedness does not separate machine from brain — under P-Q1 the biological basis is the einselected pointer basis, and tenets.md L107 commits to outcome-selection, not context-selection) and is re-keyed to the selected outcome being consumed by the decoder rather than by anything the machine computes. *Would shift if* "a measurement basis not fixed in advance" re-keyed to "collapse events ... whose selected outcome is consumed rather than corrected". Directness pass credited to the un-laundered readout event rather than "the superposition is genuine and live" (P-Q1 does not use maintained coherence). Dated Updated 2026-09-30 line added; Last reviewed 2026-08-20 → 2026-09-30. The "new commitment" branch (requiring basis-openness of an artificial host) was NOT exercised — review and tenets agree the Map does not hold it.
+- **Not touched (sibling tasks)**: L40 calibration line and L42 *Depends on* still name "fixed-basis syndrome projection" / "syndrome extraction onto a fixed code basis" as an engineering premise — true as engineering, no longer the argument; the grade-B rationale task (Issues 6–7, todo L1471) is the natural home for re-keying both together. Issues 3–5, the third bucket, the B/D split and the 2026-09-24 note untouched.
+- **Cascade**: none — no position lists P-AS1 under *Depends on*; the apex funding recommendation in [[apex/assessing-ai-consciousness-under-the-map]] rests on the verdict, which is unchanged.
+- **Sync**: obsidian → hugo run; hugo/content/positions/ai-substrate-verdicts.md grep-verified (old phrasings 0 in Asserts/Would-shift, new ≥1).
+- **Model**: claude-fable-5-1
+
 ## 2026-09-30T16:24:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]] (primary), [[concepts/binding-problem]] (secondary)
