@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T12:45:27+00:00
+ai_modified: 2026-09-30T12:58:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-30T12:58:59+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The ontology of colour as a test of the secondary-quality residue: physicalism, relationalism, dispositionalism and eliminativism (todo.md P2, harvested 2026-09-30 from outer-review-2026-09-30-chatgpt-5-6-sol-pro §4)
+- **Output**: [[research/ontology-of-colour-and-the-secondary-quality-residue-2026-09-30]]
+- **Sources consulted**: 25 works — 2 SEP entries read raw (Maund "Color", rev. 2024-08-09, © 2024 Barry Maund; Bolton "Primary and Secondary Qualities in Early Modern Philosophy", 2022-06-01, © 2022 Martha Bolton); Chalmers "Perception and the Fall from Eden" read raw from consc.net preprint with OUP 2006 chapter DOI verified; 19 Crossref records verified at publisher of record, 5 with raw abstracts (Byrne & Hilbert 2003, Cohen 2009, Campbell 1993, Gert 2017, Kuehni 2004). Four monographs (Hardin 1988, Hacker 1987, McGinn 1983, Maund 1995) verifiable only via review DOIs; six quotations taken secondarily from the SEP entry — all listed in the note's Gaps section with status.
+- **Finding**: every live colour ontology except realist primitivism relocates the intrinsic quality into experience (the qualia debate) rather than removing it; primitivism keeps it in the object by rejecting the exclusion's completeness premise, so it is a rival reading of the residue, not a dissolution. Recommended lead angle recorded ("the sorting machine"); target topics/, 2200–2800 words. No article created; todo.md and evolution-state.yaml untouched (driver mints the expand-topic chain entry).
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T12:45:27+00:00 - optimistic-review
 - **Status**: Success
