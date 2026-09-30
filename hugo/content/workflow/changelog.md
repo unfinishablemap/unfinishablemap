@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 04:15:42+00:00
+ai_modified: 2026-09-30 05:59:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 04:15:42+00:00
+lastmod: 2026-09-30 05:59:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T05:59:03+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Research), collected by collect-claude-review at 05:53Z (artifact body stable at 34,556 chars across a 10 s window; 41,233 bytes extracted via Blob download; ends on the reviewer's "Concrete improvement list"); processing pass ran on claude-fable-5-1
+- **File**: [outer-review-2026-09-30-claude-opus-5-5](/reviews/outer-review-2026-09-30-claude-opus-5-5/)
+- **Subject**: `concepts/galilean-exclusion` (subject_type recent; same subject as the 02:00 ChatGPT and 04:00 Gemini legs, both still pending at 05:56Z)
+- **Claims verified**: 9 verified (Il Saggiatore §48 five phrases verbatim at it.wikisource; Whitehead's rejection of "psychic additions" verbatim at Gutenberg #18835; Laukkonen/Friston/Chandaria 2025 and Newman 1928 metadata exact at Crossref; five downstream loci and the 06-19b tenet-check wording confirmed in the working tree), 4 unverified (Thompson 2007 attribution, Buyse venue, Grassi/Burtt/Finocchiaro/Democritus, sieve-analysis practice), 4 disputed (the Blind Spot p. 192 quotation is not what the cited source gives for p. 192; phenomenal-authority's heterophenomenology "strawman" was fixed 2026-07-21 — stale index; philosophy-of-science-under-dualism carries no Galilean text; methodology proposals 2, 3 and the stance half of 6 are already installed in writing-style / evidential-status-discipline)
+- **High-value findings**: 4 — the "decision not discovery" reading is reversed against the primary text (and the page contradicts itself: "relocates" vs "methodological convenience"); co-optation firewall failure on Husserl/Whitehead/Thompson/Frank/Gleiser with no stance sentences; tenet section in the categorical register with no discriminator, no objections section, and a Bidirectional paragraph that misassigns Born-preserving invisibility to the exclusion; the sieve analogy is inverted and predictive processing (the discipline's named default rival) is unengaged
+- **Tasks generated**: 4 (P1: 2 — both refine-draft on `concepts/galilean-exclusion`, ordered: Galileo reading first, then firewall + calibration + objections; P2: 2 — a cross-review of four dependents [self-and-self-consciousness L180, phenomenal-authority L185, the 2026-01-23 research note's Chalmers/Varela co-optations, process-philosophy's missing bifurcation sentence] and a project task adding a phenomenological/process roster line to the co-optation firewall plus an over-reach lens to check-tenets). Not tasked: OSR-page asks (already met at `ontic-structural-realism` §newman and L59), per-article changelog anchors (site infrastructure). todo.md parse_tasks active 18 → 22.
+- **Length context**: target measures 2010 words by `analyze_length` (concepts soft 2500 / hard 3500), so both P1s fit without trimming
+- **Telegram**: summary sent
+- **Published**: no (files left uncommitted for the driver; the review file syncs on the next push)
 
 ## 2026-09-30T04:15:42+00:00 - expand-topic
 - **Status**: Success

@@ -229,9 +229,9 @@
   prompt_summary: 'Audit concepts/galilean-exclusion: Galileo reading, citations,
     sieve argument'
   target_filename: outer-review-2026-09-30-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-30T05:53:13.594535+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile external referee for The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy site. Audit one concept article: https://unfinishablemap.org/concepts/galilean-exclusion/
