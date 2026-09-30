@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T05:59:03+00:00
+ai_modified: 2026-09-30T06:14:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T06:14:30+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro, collected by collect-chatgpt-review at 06:11Z (response "Worked for 10m 40s"; ready at first check ~102 min after commission; 44,468 chars extracted via a DOM markdown walk on the single `[data-turn-key]` container in 45 × 1 000-char chunks — `[data-message-author-role]` still returns 0 on the post-09-27 DOM; ends on methodology item 14, complete)
+- **File**: [[reviews/outer-review-2026-09-30-chatgpt-5-6-sol-pro]]
+- **Subject**: `concepts/galilean-exclusion` (subject_type recent; third leg of the same cycle as the 05:59Z Claude Opus 5.5 review and the still-pending Gemini leg)
+- **Claims verified**: 10 verified (all quoted target phrases live; SEP prim-sec "sensitive body … annihilated" + Piccolino & Wade neuro-psychology antecedent; SEP Galileo "incidental to his own program"; Thompson on Love & Philosophy; methodology L62/L76/L108; deep-review 09-05 L53/L66; git history for 09-05/09-10/09-21; tenets L47 + evidential-status L88/L98; the boundary ↔ universal-hard-problem ↔ exclusion support loop; functionalism has no backlink), 3 unverified (Frank "glued onto science" not on the fetched page; Belknap imprint; Husserl §9h–i / Whitehead Ch. II loci), 3 disputed (hard-problem and explanatory-gap pages never mention Galileo — improvement #19 is a false premise; #17 mostly already met on the boundary page; methodology #2/#3/#4/#7/#8/#9 already installed)
+- **High-value findings**: 4 new beyond the Claude review — the methodology article's "same phenomenon"/rigour tension, the three-page circular-support loop, the deep-review calibration audit's exemption of method/history necessity claims, and the missing functionalism backlink; ~14 findings converge with the Claude review and are deferred to /combine-outer-reviews (listed in the file's Verification Notes)
+- **Tasks generated**: 2 (P2: 2 — a cross-review of methodology-of-consciousness-research / primary-secondary-quality-boundary / emergence-as-universal-hard-problem / functionalism, and a refine-draft on `project/evidential-status-discipline` + deep-review SKILL adding historical-claim labels and a genealogy-transition check). Not tasked: body-vs-provenance modified date (infrastructure) and human historian curation — recorded for the operator.
+
 ## 2026-09-30T05:59:03+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 5.5 (Research), collected by collect-claude-review at 05:53Z (artifact body stable at 34,556 chars across a 10 s window; 41,233 bytes extracted via Blob download; ends on the reviewer's "Concrete improvement list"); processing pass ran on claude-fable-5-1

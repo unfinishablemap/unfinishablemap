@@ -198,9 +198,9 @@
   prompt_summary: 'Audit concepts/galilean-exclusion: Galileo reading, citations,
     sieve argument'
   target_filename: outer-review-2026-09-30-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-09-30T06:11:33.669226+00:00'
   failure_reason: null
   prompt_text: 'Act as an external reviewer for The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy site. Audit one concept article: https://unfinishablemap.org/concepts/galilean-exclusion/
