@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T14:38:11+00:00
+ai_modified: 2026-09-30T14:52:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T14:52:58+00:00 - refine-draft
+- **Status**: Success (verified no-op — no content change)
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Task**: todo L40 "Adopt attention-as-interface calibration" (topic-concept anchoring audit, 2026-09-30)
+- **Why no-op**: sibling of the altered-states task closed at 14:24:30 (commit ba2eba06). Both were emitted from the same pre-refine snapshot; the exemption installed then (`anchoring_audit_exempt: true`, byte 397, dated comment) already covers the attention-as-interface anchor, and `evaluate_anchoring` re-run at 14:52Z returns []. The task's snapshot metrics (hedge 2.76/kw vs 2.80 target; strong 0.50/kw) are a 0.04/kw lexical gap on a page that calibrates structurally; a second refine would over-hedge, per the sibling-task rule.
+- **Untouched**: article body and frontmatter unchanged since 14:24:30 in both trees.
+- **Model**: claude-fable-5-1
+- **Published**: n/a
+
 ## 2026-09-30T14:38:11+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **28th consecutive** — the expected steady-state outcome.
 - **Cap state** (live, `tools.evolution.state.count_section_files`; caps 360/360/115/80): topics 336/360 (335 real articles — the known sidecar over-count), concepts 335/360, **voids 111/115 (96.5%, most pressured)**.
