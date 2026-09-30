@@ -2,9 +2,9 @@
 title: "Delegatory Causation"
 description: "Bradford Saad's unified mechanism for mental causation: experiences preempt the default causal profile of physical brain states by trumping rather than competing—solving the exclusion problem without overdetermination."
 created: 2026-02-15
-modified: 2026-09-18
+modified: 2026-09-30
 human_modified: null
-ai_modified: 2026-09-27T05:05:56+00:00
+ai_modified: 2026-09-30T13:56:53+00:00
 last_deep_review: 2026-07-18T08:36:00+00:00
 draft: false
 topics:
@@ -37,7 +37,7 @@ related_articles:
   - "[[constitution-vs-causal-work]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-04-18
 last_curated: null
 coalesced_from:
@@ -143,7 +143,7 @@ The reasoning: a neural system approaching a quantum indeterminacy has a probabi
 
 This identification has consequences:
 
-**The counterfactual becomes measurable.** The Born rule is the most precisely confirmed regularity in physics. The default causal profile is no longer merely a philosopher's thought experiment but a physical quantity derivable from the quantum state of the neural system.
+**The counterfactual becomes measurable.** The Born rule is among physics' most thoroughly confirmed regularities ([[sorkin-higher-order-interference|direct tests bound deviations near 10⁻⁴]]). The default causal profile becomes a physical quantity derivable from the quantum state of the neural system.
 
 **Observational closure follows necessarily.** If consciousness selects *within* Born-rule probabilities, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies — and so no [[born-rule-and-the-consciousness-interface|Born-test exposure]], the cost the born-rule article names — because the experience causes what the default profile would have produced statistically. The philosophical constraint Saad imposes by design—no observable violations—coincides with a structural constraint argued to be required of any relativistically consistent probability assignment (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed). The [[consciousness-physics-interface-formalism]] establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally. This very coincidence is what generates the sharpest residual worry: if the experience leaves *no* trace at the ensemble level, [[ensemble-level-epiphenomenalism|is it doing causal work or only riding the distribution physics already fixes]]? Delegation's answer is the trumping route—efficacy is a structural property, not a statistical one—rated honestly there as framework-internal rather than empirically demonstrable.
 

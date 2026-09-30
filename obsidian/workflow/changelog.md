@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T13:22:06+00:00
+ai_modified: 2026-09-30T13:56:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T13:56:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/delegation-meets-quantum-selection]]
+- **Word count**: 2769 → 3096 (+327)
+- **Critical issues addressed**: 5 (misattributed "general interaction problem" to Saad; spliced two-paragraph quotation; L104 contradicted the held-open identity; "most precisely confirmed regularity" overclaim vs the Map's own Sorkin page — propagated to concepts/delegatory-causation L146, length-neutral 3493 → 3490; "measurable" default profile contradicted "never directly observed")
+- **Propagation lens**: observational-closure convergence rescoped to the unconditioned-aggregate branch per tenets L75/L81/L107 (Saad's constraint covers any nomically possible experiment; conditioned branch violates it); improper-mixture actualisation form installed; L108 reports claim aligned to tenets ^tenet-3-standing and the PCS limit; minimality relabelled framework-conditional
+- **Citation ledger**: Saad 2025 real-correct (Crossref + OA full text); Torres Alegre 2025 real-correct, "any nonlinear deviation" corrected to the abstract's "strictly convex or concave deviation from linearity"; orphan check both ways clean
+- **Engagement modes**: Saad — Mode Three (bridge marked as a Map proposal Saad would class as Observational-Closure-violating on the conditioned branch); Everett — Mode Three, posit-dependent
+- **Model**: claude-fable-5-1 (appended to ai_system on both edited articles)
+- **Output**: [[reviews/deep-review-2026-09-30-delegation-meets-quantum-selection]]
 
 ## 2026-09-30T13:22:06+00:00 - expand-topic
 - **Status**: Success
