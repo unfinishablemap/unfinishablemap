@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-07-23 18:15:29+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[process-philosophy]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 10:45:31+00:00
-lastmod: 2026-07-23 18:15:29+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The steelman should press the rival's advantages without flinching. On the stand
 
 It is more parsimonious. One ontological kind is simpler than two. Process monism posits a single category of becoming and derives mind and matter as its aspects; dualism posits two categories and then owes an account of their relation.
 
-It has no interaction problem. The Map's framework must specify an interface—the [quantum opening](/tenets/#minimal-quantum-interaction) at which an irreducible consciousness biases physical outcomes—and must defend that interface against the charge that it is empirically indistinguishable from chance. Process monism owes no such account. If mind and matter are aspects of one process, there is nothing to bridge.
+It has no interaction problem. The Map's framework must specify an interface—the [quantum opening](/tenets/#minimal-quantum-interaction) at which an irreducible consciousness biases physical outcomes—and must defend that interface against the charge that it is empirically indistinguishable from chance—a charge that holds, by construction, under any *unconditioned aggregate* test, leaving a deviation *conditioned* on intention, task or subject as the interface's one live empirical register ([P-Q3](/positions/quantum-interface/#mechanism-debt)). Process monism owes no such account. If mind and matter are aspects of one process, there is nothing to bridge.
 
 It dissolves rather than relocates the hard problem. Dualism takes the explanatory gap as a signpost of irreducibility; process monism removes the gap by denying its far side—there is no non-experiential matter from which experience must somehow emerge. The puzzle the Map treats as ineliminable, the rival treats as an artifact of a false (substance) ontology.
 

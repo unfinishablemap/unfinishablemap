@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-27 09:55:13+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/attention-as-selection-interface/
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:46:49+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -175,7 +175,7 @@ The framework faces serious challenge from rival-framework vindication: precisio
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** — Motor force comes from metabolism, options arise from neural dynamics, and consciousness contributes only bias at the moment of resolution—tilting indeterminate outcomes where physics leaves room. Conservation laws hold because the energy for any selected action is ordinary biological energy.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** — The brain presents options (brain → mind); consciousness selects among them (mind → brain). The epiphenomenalist must explain why evolution built a unified attention-motor system whose self-chosen attention carries a heavier neural signature, if the experience of choosing does nothing.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** — The brain presents improper-mixture components (brain → mind); consciousness actualises one (mind → brain). The epiphenomenalist must explain why evolution built a unified attention-motor system whose self-chosen attention carries a heavier neural signature, if the experience of choosing does nothing.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** — Within MWI, the standard indexical reply is that phenomenology in *this* branch correlates with Born-rule amplitude weight, so effort can in principle have a within-branch causal story even if all options execute somewhere. The convergence model requires a genuine selection; the disagreement with MWI is a tenet commitment honestly noted, not a victory over MWI on its own terms.
 

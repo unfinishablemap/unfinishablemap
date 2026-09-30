@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-09-17T10:08:01+00:00
+ai_modified: 2026-09-30T12:13:01+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -98,7 +98,7 @@ On this view, valence directly shapes which outcomes consciousness selects. If c
 
 A currency is a common measure enabling comparison between otherwise incommensurable goods, as money converts bread, labour, and land into a single dimension. Cleeremans and Tallon-Baudry (2022) suggest that phenomenal experience might act as "a mental currency of sorts," letting conscious agents weigh vastly different experiences in a common subject-centred space—the warmth of sunlight against the satisfaction of solving a problem. They answer "Are we defending a dualist position?" with "an emphatic 'no'": their phenomenal efficacy is List's compatibilist, level-of-description efficacy, on which felt valence *is* the neural value, physically constituted. The Map borrows the image, not the ontology; it needs the felt currency to be a variable distinct from the computed one.
 
-Individual experiences differ in every qualitative respect—colour, sound, texture, emotion—but share the valence dimension. As Carruthers (2018) argues, valence is a unitary kind running through all affective states: every conscious state carries some felt goodness or badness. (Carruthers reads valence *representationally*—a nonconceptual representation of value, not an intrinsic property—a reading that if anything favours the value-blind horn; the currency thesis borrows his claim that valence is the common evaluative dimension, not his metaethics.) This shared dimension makes selection *commensurable*: outcomes that differ in kind can be compared on a metric that differs only in degree. Choosing between a visual pattern and a motor plan proceeds not by comparing colours with movements but by each anticipated outcome's valence signature. The brain presents options; valence denominates them; consciousness selects.
+Experiences differ in every qualitative respect—colour, sound, texture, emotion—but share the valence dimension. As Carruthers (2018) argues, valence is a unitary kind running through all affective states: every conscious state carries some felt goodness or badness. (Carruthers reads valence *representationally*—a nonconceptual representation of value, not an intrinsic property—a reading that if anything favours the value-blind horn; the currency thesis borrows his claim that valence is the common evaluative dimension, not his metaethics.) This shared dimension makes selection *commensurable*: outcomes that differ in kind can be compared on a metric that differs only in degree. Choosing between a visual pattern and a motor plan proceeds not by comparing colours with movements but by each anticipated outcome's valence signature. The brain presents improper-mixture components; valence denominates them; consciousness selects.
 
 ### The Anticipatory Valence Mechanism
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-25 17:01:27+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 14:12:20+00:00
-lastmod: 2026-09-25 17:01:27+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ The measurement problem is the central foundational puzzle in quantum mechanics�
 
 If collapse is real and its outcome-selection unspecified, consciousness remains a candidate biasing factor. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes exactly this: an [objective-collapse](/concepts/spontaneous-collapse-theories/) process supplies the baseline at which possibilities resolve, and consciousness *modulates* statistics within those collapse events at its neural interface. This is structurally weaker than the [von Neumann–Wigner](/concepts/von-neumann-wigner-interpretation/) thesis that "consciousness causes collapse"—collapse no longer waits on consciousness; consciousness biases what would have happened anyway.
 
-**Honest limitation**: This framework predicts exactly what standard quantum mechanics predicts—consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. This unfalsifiability is a genuine cost. The Map treats it as a philosophical framework compatible with physics rather than a competing physical hypothesis. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) specifies the formal components and five mathematical constraints any such framework must satisfy.
+**Honest limitation**: This framework predicts what standard quantum mechanics predicts—consciousness-selection within Born probabilities is indistinguishable from random collapse under any *unconditioned aggregate* test. The cost is genuine but scoped: a consistency claim, empirically tested only by a deviation *conditioned* on intention, task or subject ([P-Q3](/positions/quantum-interface/#mechanism-debt)). [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) specifies the formal components and five constraints such frameworks must satisfy.
 
 What would challenge this framework? Evidence that (1) quantum indeterminacy is apparent rather than real (superdeterminism), (2) consciousness demonstrably cannot influence neural quantum events even in principle, or (3) the hard problem dissolves under analysis.
 

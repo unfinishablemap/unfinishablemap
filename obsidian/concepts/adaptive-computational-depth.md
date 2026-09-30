@@ -4,7 +4,7 @@ description: "Adaptive computational depth—the idea that reality allocates det
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-08-02T11:17:03+00:00
+ai_modified: 2026-09-30T12:13:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[stapp-quantum-mind]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-07-12T16:55:02+00:00
@@ -88,7 +88,7 @@ Adaptive computational depth aligns with each of the Map's [[tenets]] in specifi
 
 ## Epistemological Status
 
-Adaptive computational depth as a framework for dualism inherits the unfalsifiability that characterises consciousness-based interpretations of quantum mechanics. As the [[measurement-problem|measurement problem]] article acknowledges, consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. The value here is conceptual rather than predictive: adaptive depth connects the observer-dependence of quantum mechanics with the Map's commitment to non-computable consciousness. This is a philosophical framework compatible with physics, not a competing physical hypothesis.
+Adaptive computational depth as a framework for dualism inherits the testability cost that characterises consciousness-based interpretations of quantum mechanics. As the [[measurement-problem|measurement problem]] article acknowledges, consciousness-selection within Born probabilities is empirically indistinguishable from random collapse under any *unconditioned aggregate* test—by construction, since the corridor reading leaves the aggregate Born measure intact—though a deviation *conditioned* on intention, task or subject would still test the interface ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). The value here is conceptual rather than predictive: adaptive depth connects the observer-dependence of quantum mechanics with the Map's commitment to non-computable consciousness. This is a consistency claim compatible with physics, not a competing physical hypothesis.
 
 The [[consciousness-selecting-neural-patterns|bandwidth constraint]] on conscious processing (~10 bits/second) is relevant. If consciousness allocates computational depth, it does so at policy level—selecting *domains* of attention, not micromanaging individual quantum events. Every such selection is an [[attentional-economics|allocation of a severely constrained resource]]. This aligns with the Map's broader model: consciousness operates as a coarse-grained selector, and the physical mechanisms handle the details within the selected domain. See [[consciousness-selecting-neural-patterns]] for how this bandwidth constraint shapes the Map's account of [[stapp-quantum-mind|Stapp's quantum Zeno mechanism]].
 

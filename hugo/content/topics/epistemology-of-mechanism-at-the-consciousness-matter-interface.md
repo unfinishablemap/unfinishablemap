@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-08-17 00:56:04+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 13:45:15+00:00
-lastmod: 2026-08-17 00:56:04+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ The epistemology of mechanism at the consciousness-matter interface touches ever
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is itself an epistemological strategy. By constraining the interface to the smallest possible non-physical influence, it makes the problem tractable from the physical side: negative constraints from conservation laws and decoherence timescales progressively narrow the space of candidate mechanisms.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** means the Map cannot settle for epistemic humility about mechanism indefinitely. What the tenet commits to is outcome-selection influence, not the detectability of that influence. On the corridor reading the Map endorses, the selection is constructed to leave the aggregate Born measure intact, so it is by that construction indistinguishable from chance—a framework-boundary feature rather than a near-term test awaiting better equipment. Detectability follows only on [minimum-outside-corridor readings](/concepts/ensemble-level-epiphenomenalism/), where a suppressed deviation from Born statistics would leave a signature. The standing obligation the tenet creates is therefore to produce *discriminating structure*—some specifiable grain at which a selected outcome comes apart from an unselected one—rather than to wait for instruments to improve.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** means the Map cannot settle for epistemic humility about mechanism indefinitely. What the tenet commits to is outcome-selection influence, not the detectability of that influence. On the corridor reading the Map endorses, the selection is constructed to leave the aggregate Born measure intact, so under any *unconditioned aggregate* test it is by that construction indistinguishable from chance—a framework-boundary feature rather than a near-term test awaiting better equipment. Preservation binds only that unconditioned marginal, however: a deviation *conditioned* on intention, task or subject would test the corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt); falsifier (c) of [Tenet 2](/tenets/#minimal-quantum-interaction)), and no such test of the brain-internal corridor has yet run. Unconditioned detectability follows only on [minimum-outside-corridor readings](/concepts/ensemble-level-epiphenomenalism/), where a suppressed deviation from Born statistics would leave a signature. The standing obligation the tenet creates is therefore to produce *discriminating structure*—some specifiable grain at which a selected outcome comes apart from an unselected one—rather than to wait for instruments to improve.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** counsels against abandoning the search because simpler (physicalist, epiphenomenalist) alternatives avoid the specification burden entirely. The Map's fifth tenet implies that epistemic difficulty is not evidence of theoretical failure—and that the apparent simplicity of alternatives may reflect incomplete understanding rather than genuine parsimony.
 

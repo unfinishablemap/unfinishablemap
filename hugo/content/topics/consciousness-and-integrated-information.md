@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-07-29 08:47:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/integrated-information-theory-critique/
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:56:44+00:00
-lastmod: 2026-07-29 08:47:00+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -169,7 +169,7 @@ The [binding problem](/concepts/binding-problem/)—how distributed neural proce
 
 If integration is an activity of consciousness, the question becomes: how does consciousness access distributed neural information and synthesise it into unified experience? The Map's speculative answer points to quantum-mediated selection: consciousness accesses the global state of neural possibilities and selects a coherent pattern from among them. Binding is achieved through selection—the chosen pattern is unified because one act of selection produced it.
 
-This reframing explains why binding breaks down in specific neurological conditions. In simultanagnosia, patients perceive individual objects but cannot integrate them into a unified scene (Coslett & Saffran, 1991). On IIT's view, this reflects reduced phi. On the Map's view, it reflects damage to the neural architecture that presents options to consciousness—the selection mechanism is intact, but the options it receives are impoverished.
+This reframing explains why binding breaks down in specific neurological conditions. In simultanagnosia, patients perceive individual objects but cannot integrate them into a unified scene (Coslett & Saffran, 1991). On IIT's view, this reflects reduced phi. On the Map's view, it reflects damage to the neural architecture that presents improper-mixture components to consciousness—the selector is intact, but the mixture it receives is impoverished.
 
 ## Relation to Site Perspective
 

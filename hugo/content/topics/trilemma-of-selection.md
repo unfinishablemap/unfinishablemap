@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-09-27 09:55:13+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 06:13:05+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,7 +131,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The trilemma derives the need for consciousness to bias outcomes at points of genuine indeterminacy. The smallest possible influence at the decision point—biasing which already-prepared option actualises—is exactly what the tenet specifies. The [Born rule analysis](/topics/born-rule-and-the-consciousness-interface/) specifies what that indeterminacy looks like in quantum mechanics: the Born rule governs the probability distribution over outcomes, but which outcome actualises remains open—precisely the gap where Horn 3's conscious selection operates.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Horn 3 *is* bidirectional interaction. The brain presents options to consciousness (world→mind); consciousness selects among them (mind→world). Without this bidirectionality, we are left with Horns 1 or 2.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Horn 3 *is* bidirectional interaction. The brain presents options to consciousness (world→mind)—improper-mixture components awaiting actualisation, not already-definite alternatives—and consciousness selects among them (mind→world). Without this bidirectionality, we are left with Horns 1 or 2.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Under the many-worlds interpretation, all options actualise in different branches. There is no selection—consciousness merely discovers which branch it occupies. The trilemma presupposes genuine collapse: real alternatives that genuinely compete, with the resolution being a fact about this world rather than about branch indexing. This creates a mutual dependence: the trilemma needs single-outcome quantum mechanics to generate genuine indeterminacy for Horn 3, while the case against many-worlds elsewhere on the Map draws on considerations like the trilemma's. The relationship is one of coherentist mutual support rather than linear derivation—neither argument grounds the other, but they stand or fall together as part of a unified framework. An Everettian who rejects collapse dissolves the trilemma entirely, and the Map acknowledges this as a coherent alternative rather than a position refuted by the trilemma alone.
 

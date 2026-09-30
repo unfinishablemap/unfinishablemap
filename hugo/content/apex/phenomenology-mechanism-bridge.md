@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-27 09:55:13+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
 - topics/motor-control-quantum-zeno
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels are independently grounded; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others, and each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests (see [The Chain as Evidence](#the-chain-as-evidence) below for the artifact-of-method correction). Upstream, the register's [mechanism-debt convention](/positions/quantum-interface/#mechanism-debt) — [P-Q3](/positions/quantum-interface/#p-q3)'s bias-without-deviation dilemma, [P-Q10](/positions/quantum-interface/#p-q10)'s missing toy model — sets the citation grade: the causal-selection thesis is a framework-internal coherence result only, never established mental causation, and this chain inherits that debt rather than discharging it.
+The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents improper-mixture components awaiting actualisation (not already-definite options), through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels are independently grounded; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others, and each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests (see [The Chain as Evidence](#the-chain-as-evidence) below for the artifact-of-method correction). Upstream, the register's [mechanism-debt convention](/positions/quantum-interface/#mechanism-debt) — [P-Q3](/positions/quantum-interface/#p-q3)'s bias-without-deviation dilemma, [P-Q10](/positions/quantum-interface/#p-q10)'s missing toy model — sets the citation grade: the causal-selection thesis is a framework-internal coherence result only, never established mental causation, and this chain inherits that debt rather than discharging it.
 
 <details class="yt-embed" data-video-id="QN1BzLnKy8Y">
 <summary>Video introduction</summary>

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-29 17:22:40+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[qualia]]'
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-09-29 17:22:40+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -189,7 +189,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 **[Dualism](/tenets/#dualism)**: if consciousness is irreducible to physical processes, personal identity cannot be purely physical or functional. A zombie duplicate would share all physical and functional properties yet lack consciousness—and therefore lack *your* identity—showing, on the dualist premise, that identity involves something non-physical: *this* conscious perspective.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: if *this* consciousness makes *these* quantum selections, the selector has a unique causal history a replica could not inherit. But as the [measurement-problem](/concepts/measurement-problem/) article acknowledges, consciousness-selection within Born probabilities is empirically indistinguishable from random collapse—the quantum mechanism is a philosophical framework, not a testable hypothesis. The identity argument doesn't depend on quantum mechanics specifically: any non-physical causal contribution would individuate consciousness through its unique history.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: if *this* consciousness makes *these* quantum selections, the selector has a unique causal history a replica could not inherit. As the [measurement-problem](/concepts/measurement-problem/) article acknowledges, consciousness-selection within Born probabilities is, under any unconditioned aggregate test, indistinguishable from random collapse—a consistency claim testable only in the [conditioned register](/positions/quantum-interface/#mechanism-debt). The identity argument doesn't depend on quantum mechanics: any non-physical causal contribution would individuate consciousness through its unique history.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: because your consciousness influences physical processes rather than merely observing them, your conscious history has causal efficacy. The choices and selections you've performed constitute *your* life in a way no replica—starting its causal contribution from scratch—could inherit.
 

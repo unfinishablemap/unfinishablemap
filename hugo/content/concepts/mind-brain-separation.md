@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-25 15:30:51+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
 - '[[qualia]]'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-28 19:22:00+00:00
-lastmod: 2026-09-25 15:30:51+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ The Unfinishable Map's [tenets](/tenets/) include [dualism](/tenets/#dualism)—
 
 **Bidirectional Interaction**: If consciousness merely received the brain's outputs, the division of faculties would be academic—everything would ultimately be brain. But the evidence suggests consciousness contributes something: the qualitative character, the unity, the subject. And consciousness appears able to direct attention, influencing which neural populations become active.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The division of faculties gains significance from the rejection of many-worlds interpretations. If all quantum outcomes occur in parallel branches, the distinction between what consciousness contributes and what the brain contributes becomes indexical. But the phenomenology of choice—the felt difference between selecting and merely watching—suggests genuine selection occurs. The rendering engine presents options; consciousness actualizes one. The Map's rejection of many-worlds preserves the phenomenological datum: choosing feels like determining which possibility becomes real because it *is* determining which possibility becomes real.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The division of faculties gains significance from the rejection of many-worlds interpretations. If all quantum outcomes occur in parallel branches, the distinction between what consciousness contributes and what the brain contributes becomes indexical. But the phenomenology of choice—the felt difference between selecting and merely watching—suggests genuine selection occurs. The rendering engine presents options—improper-mixture components awaiting actualization, not already-definite alternatives—and consciousness actualizes one. The Map's rejection of many-worlds preserves the phenomenological datum: choosing feels like determining which possibility becomes real because it *is* determining which possibility becomes real.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Materialists argue that "brain produces consciousness" is simpler than "brain filters consciousness." But this judgment depends on assuming the hard problem will eventually be solved. Until neural mechanisms explain why there is something it is like to see red, parsimony arguments rest on hope rather than evidence.
 

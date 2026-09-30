@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-14 05:31:50+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 concepts:
 - '[[integrated-information-theory]]'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 05:08:00+00:00
-lastmod: 2026-06-14 05:31:50+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ The thesis is attractive. It avoids any explanatory gap between physical structu
 
 But the thesis has a consequence the Map finds fatal: if consciousness *is* a physical structure, then consciousness has no causal powers over and above that structure's physical causal powers. The integrated information does what it does because of the physical laws governing its substrate. Adding "and it is conscious" does not change which subsequent state the system enters. Consciousness, on the identity thesis, is something the universe *contains* rather than something a subject *does*. This is [epiphenomenalism](/concepts/epiphenomenalism/) in identity-theoretic dress. (For the full argument, see [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/).)
 
-The standard physicalist rejoinder to this charge is the phenomenal-concept strategy, developed by Loar (1990), Papineau (2002), and Frankish (2016): phenomenal concepts are physically-realised representational states that pick out the very physical states they describe, so reports about experience are causally reliable not because qualia produce them but because the physical state producing the report is the state the report refers to. An identity-theorist reaches for this strategy when answering the epiphenomenalism worry from inside the framework. The structure is consciousness; the structure represents itself; introspective reports are reports the structure makes about its own physical state. There is, on this reply, no separate agent of integration to be missing — the absence of an agent is a feature of the position, and the reliability of reports is secured without invoking non-physical causation.
+The standard physicalist rejoinder to this charge is the phenomenal-concept strategy, developed by Loar (1990), Papineau (2002), and Balog (2012)—the roster [the tenets page](/tenets/#bidirectional-interaction) gives; Frankish's illusionism is a separate reply that denies any phenomenal referent at all: phenomenal concepts are physically-realised representational states that pick out the very physical states they describe, so reports about experience are causally reliable not because qualia produce them but because the physical state producing the report is the state the report refers to. An identity-theorist reaches for this strategy when answering the epiphenomenalism worry from inside the framework. The structure is consciousness; the structure represents itself; introspective reports are reports the structure makes about its own physical state. There is, on this reply, no separate agent of integration to be missing — the absence of an agent is a feature of the position, and the reliability of reports is secured without invoking non-physical causation.
 
 The activity framing does not need to deny this account of reports. Reports about experience can perfectly well be physically caused by the brain states the reports refer to, and the activity framing is consistent with everything the strategy says about how introspective reports arise. What it must deny is the further step from "reports are reliable" to "introspective access to phenomenal character is exhausted by representational structure of phenomenal concepts." On the Map's view, the felt-from-the-inside character of conscious experience is something the substrate's self-representation does not fully deliver: a brain representing its own state is not the same thing as a subject undergoing that state, even when the two are reliably correlated. The in-framework cost the identity-theorist pays for the phenomenal-concept strategy is precisely this collapse of introspective acquaintance onto representational structure; what survives of first-personal access must do so without any contribution from the experience itself. The activity framing locates the disagreement at that cost rather than refuting the strategy on its own terms.
 
@@ -150,6 +150,6 @@ Articles that depend on this distinction without re-deriving it should cite this
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81-108.
 1. Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
-1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Balog, K. (2012). In defense of the phenomenal concept strategy. *Philosophy and Phenomenological Research*, 84(1), 1-23.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 1. Southgate, A. & Oquatre-six, C. (2026-01-27). Consciousness and Integrated Information. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-integrated-information/

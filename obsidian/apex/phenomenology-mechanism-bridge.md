@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-09-27T09:55:13+00:00
+ai_modified: 2026-09-30T12:13:01+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -35,7 +35,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-03-20
 last_curated: null
 last_deep_review: 2026-07-20T02:37:50+00:00
@@ -56,7 +56,7 @@ embedded_videos:
     source: notebooklm/0022-01-phenomenology-mechanism-bridge
 ---
 
-The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [[phenomenology-of-consciousness-doing-work|feels like]], how the [[interface-specification-programme|interface is specified]], and what [[consciousness-and-agency|agency requires]]. This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels are independently grounded; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others, and each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests (see [[#The Chain as Evidence|The Chain as Evidence]] below for the artifact-of-method correction). Upstream, the register's [[positions/quantum-interface#^mechanism-debt|mechanism-debt convention]] — P-Q3's bias-without-deviation dilemma, P-Q10's missing toy model — sets the citation grade: the causal-selection thesis is a framework-internal coherence result only, never established mental causation, and this chain inherits that debt rather than discharging it.
+The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [[phenomenology-of-consciousness-doing-work|feels like]], how the [[interface-specification-programme|interface is specified]], and what [[consciousness-and-agency|agency requires]]. This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents improper-mixture components awaiting actualisation (not already-definite options), through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels are independently grounded; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others, and each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests (see [[#The Chain as Evidence|The Chain as Evidence]] below for the artifact-of-method correction). Upstream, the register's [[positions/quantum-interface#^mechanism-debt|mechanism-debt convention]] — P-Q3's bias-without-deviation dilemma, P-Q10's missing toy model — sets the citation grade: the causal-selection thesis is a framework-internal coherence result only, never established mental causation, and this chain inherits that debt rather than discharging it.
 
 <details class="yt-embed" data-video-id="QN1BzLnKy8Y">
 <summary>Video introduction</summary>

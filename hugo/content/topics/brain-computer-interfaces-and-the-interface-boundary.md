@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-09-25 01:19:57+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -24,7 +24,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:10:20+00:00
-lastmod: 2026-09-25 01:19:57+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ These plasticity findings carry a precise—and limited—evidential load, and i
 
 BCI control requires sensory feedback. Without it, performance degrades catastrophically. Remove visual feedback from a cursor-control BCI, and accuracy drops to near chance. This is not incidental—it reveals something about the architecture of conscious control.
 
-On the Map's account, consciousness selects among neurally represented alternatives through a loop: the brain presents options, consciousness biases selection, the outcome generates sensory consequences, those consequences update the options. The [brain specialness boundary](/topics/brain-specialness-boundary/) article identifies control loop integration as a key constraint—consciousness can only influence systems whose state is neurally represented and whose responses feed back into neural processing.
+On the Map's account, consciousness selects among neurally represented alternatives through a loop: the brain presents options—improper-mixture components awaiting actualisation, not already-definite alternatives—consciousness biases which is actualised, the outcome generates sensory consequences, those consequences reshape the next mixture. The [brain specialness boundary](/topics/brain-specialness-boundary/) article identifies control loop integration as a key constraint—consciousness can only influence systems whose state is neurally represented and whose responses feed back into neural processing.
 
 BCIs satisfy this constraint by *routing through the brain's existing feedback architecture*. Visual cortex processes cursor position. Motor cortex adjusts firing patterns based on the error signal. Consciousness operates within this neural loop exactly as it does for natural movement. The external device is invisible to consciousness—what consciousness "sees" is a cursor that responds to intention, processed through the same visual-motor loop that handles reaching for a cup.
 

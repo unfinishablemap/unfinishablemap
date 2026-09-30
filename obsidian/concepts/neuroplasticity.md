@@ -4,7 +4,7 @@ description: "The brain's ability to reorganize through experience—and what Sc
 created: 2026-01-29
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-27T09:35:54+00:00
+ai_modified: 2026-09-30T12:13:01+00:00
 last_deep_review: 2026-07-16T18:45:00+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-01-29
 last_curated: null
 ---
@@ -53,7 +53,7 @@ Neuroplasticity is uncontroversial as neuroscience. The philosophical question i
 
 The standard materialist account: neural states cause other neural states. Learning produces plasticity because one brain configuration leads to another through physical mechanisms, with consciousness accompanying but not contributing.
 
-The [[interactionist-dualism|interactionist]] account: consciousness can initiate the causal chain. Mental effort—the deliberate direction of attention—shapes which neural patterns are reinforced. The brain presents options; consciousness selects; selection produces plasticity.
+The [[interactionist-dualism|interactionist]] account: consciousness can initiate the causal chain. Mental effort—the deliberate direction of attention—shapes which neural patterns are reinforced. The brain presents options—improper-mixture components awaiting actualisation, not already-definite alternatives; consciousness selects; selection produces plasticity.
 
 Neuroplasticity alone doesn't settle this question. Both accounts accommodate the data. What matters is *which* experiences produce *which* changes—and whether purely physical descriptions capture the causal structure.
 

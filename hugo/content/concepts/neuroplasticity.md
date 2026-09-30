@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-09-27 09:35:54+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[mental-effort]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 18:45:00+00:00
-lastmod: 2026-09-27 09:35:54+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ Neuroplasticity is uncontroversial as neuroscience. The philosophical question i
 
 The standard materialist account: neural states cause other neural states. Learning produces plasticity because one brain configuration leads to another through physical mechanisms, with consciousness accompanying but not contributing.
 
-The [interactionist](/concepts/interactionist-dualism/) account: consciousness can initiate the causal chain. Mental effort—the deliberate direction of attention—shapes which neural patterns are reinforced. The brain presents options; consciousness selects; selection produces plasticity.
+The [interactionist](/concepts/interactionist-dualism/) account: consciousness can initiate the causal chain. Mental effort—the deliberate direction of attention—shapes which neural patterns are reinforced. The brain presents options—improper-mixture components awaiting actualisation, not already-definite alternatives; consciousness selects; selection produces plasticity.
 
 Neuroplasticity alone doesn't settle this question. Both accounts accommodate the data. What matters is *which* experiences produce *which* changes—and whether purely physical descriptions capture the causal structure.
 

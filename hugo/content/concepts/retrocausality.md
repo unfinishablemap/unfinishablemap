@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-09-28 01:22:44+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-30 12:13:01+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[quantum-indeterminacy-free-will]]'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:01:21+00:00
-lastmod: 2026-09-28 01:22:44+00:00
+lastmod: 2026-09-30 12:13:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ Retrocausality connects to all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Retrocausality operates specifically at the quantum level—at measurement events where indeterminacy resolves into definite outcomes. The transactional interpretation makes minimal assumptions: physics already contains time-symmetric equations, and retrocausality follows from taking that symmetry seriously. Consciousness doesn't add exotic causal powers; it participates in quantum processes that already have retrocausal structure. This aligns with the tenet's emphasis on the smallest possible interface.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausality is most directly relevant here. The Libet experiments seemed to threaten bidirectional interaction by showing neural activity precedes conscious awareness. Retrocausality would dissolve this threat—if the retrocausal interpretation is correct. Consciousness can genuinely select outcomes even when its awareness appears "after" the neural preparation—because temporal precedence doesn't establish causal priority when effects can precede causes. The brain presents options; consciousness selects; the selection determines which neural history becomes actual, including the apparent "preparation."
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausality is most directly relevant here. The Libet experiments seemed to threaten bidirectional interaction by showing neural activity precedes conscious awareness. Retrocausality would dissolve this threat—if the retrocausal interpretation is correct. Consciousness can genuinely select outcomes even when its awareness appears "after" the neural preparation—because temporal precedence doesn't establish causal priority when effects can precede causes. The brain presents options—improper-mixture components awaiting actualisation, not already-definite alternatives; consciousness selects; the selection determines which neural history becomes actual, including the apparent "preparation."
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Retrocausality supports single-outcome interpretations. The transactional interpretation produces one actual history, not branching worlds. The handshake between offer and confirmation waves determines which outcome becomes real; there are no equally real alternatives persisting in parallel. This connects to [haecceity](/concepts/haecceity/): the selected history is *this* history, with haecceitistic identity branch-egalitarian models cannot capture. You don't merely find yourself in one branch—you *are* one history, selected through the atemporal transaction. The point does not reach first-personally centred variants, which build the privileged present into the ontology; against those the Map's ground is the separate rejection of modal realism rather than the indexical objection ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
 
