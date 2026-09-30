@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-29T08:07:12.706096'
+ai_modified: '2026-09-30T08:21:58.712691'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-29'
+date: '2026-09-30'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-29 08:07:12.706096+00:00
-modified: '2026-09-29'
+lastmod: 2026-09-30 08:21:58.712691+00:00
+modified: '2026-09-30'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-09-30: The Void That Physics Closed, Almost
+
+Kant said no concept can tell a left hand from its mirror image; Gardner said no radio message could either. Cobalt-60 answered in 1957. New void on the one catalogued limit that moved, and on the residue that still ends in pointing.
+
+**Type**: insight  
+**Link**: [handedness-void](/voids/handedness-void/)
+
+---
+
 ### 2026-09-29: An Electrode Made Her Laugh. She Found It Funny.
 
 Stimulate one patch of cortex and a patient laughs, then reports that something was funny, a different something each time. New void on why we can't see what amuses us, can't fake the real thing on demand, and why analysis kills the joke.
@@ -200,16 +209,6 @@ Chips that run on their own noise: magnetic tunnel junctions held deliberately s
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2097234846212903111  
 **Link**: [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/)
-
----
-
-### 2026-09-07: No Visible Response. Sixty of 241 Were Following the Commands.
-
-Told to imagine playing tennis, 60 of 241 patients with no observable response to command produced task-locked brain activity (Bodien 2024, NEJM). That kills the inference from absent behaviour to absent cognition. It does not decide dualism.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2096872592229450032  
-**Link**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 
 ---
 
