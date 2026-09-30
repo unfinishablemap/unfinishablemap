@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-30 15:56:28+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-09-30 16:24:35+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/phenomenal-binding/
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-09-30 15:56:28+00:00
+lastmod: 2026-09-30 16:24:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ BP2 is the "hard" aspect of binding. When you experience seeing-and-hearing-simu
 
 [Illusionists](/concepts/illusionism/) deny BP2 is genuine: if phenomenal consciousness is a misrepresentation by introspective systems, there is no phenomenal unity beyond information integration.
 
-The Unfinishable Map rejects this. First, the illusionist faces infinite regress: to experience an illusion of unity, something must experience that illusion. If that "something" is just more representations, we have regress or a phenomenal experiencer—exactly what illusionism denies. Second, the argument from reason applies: if judgments about phenomenal unity are merely neural outputs with no phenomenal input, those judgments lack rational grounding. Denying phenomenal unity undermines the very reasoning by which one arrives at the denial.
+The Unfinishable Map declines this at a framework boundary rather than by refutation. First, the illusionist owes an account of the regress: to experience an illusion of unity, something must experience that illusion. If that "something" is just more representations, we have regress or a phenomenal experiencer—exactly what illusionism denies. The illusionist answers that nothing *experiences* the illusion—unity is misrepresented, not undergone—so the regress never starts; the Map does not grant the answer but cannot refute it inside illusionism's terms. Second, the argument from reason presses a constraint: if judgments about phenomenal unity are merely neural outputs with no phenomenal input, their rational grounding needs an account the illusionist has yet to supply. Denying phenomenal unity strains the reasoning by which one arrives at the denial; the Map holds that strain to be illusionism's deepest difficulty, not its defeat (see [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)).
 
 ## Classical Mechanisms and Their Structural Failure
 
@@ -133,7 +133,7 @@ General anesthesia and dreamless sleep dissociate computational from phenomenal 
 
 [Sleep](/concepts/sleep-and-consciousness/) dissociates computational from phenomenal binding. During NREM sleep, the brain performs extensive binding—integrating memories, consolidating details—yet without phenomenal unity. Synchrony operates, integration proceeds, information becomes globally available, but there's no unified experience.
 
-This supports the view that phenomenal unity isn't *produced by* binding operations but *added* by consciousness. Dreaming restores partial unity when the [interface](/concepts/filter-theory/) partially reengages.
+On the Map's reading, phenomenal unity isn't *produced by* binding operations but *added* by consciousness; sleep is compatible with that reading, though a production theorist can equally locate the missing ingredient in whatever NREM binding lacks. Dreaming restores partial unity when the [interface](/concepts/filter-theory/) partially reengages.
 
 ### Language and Cognitive Binding
 
@@ -143,7 +143,7 @@ This supports the view that phenomenal unity isn't *produced by* binding operati
 
 The [division of faculties](/concepts/mind-brain-separation/) suggests phenomenal unity falls on the mental side. On filter/transmission theory, the brain provides feature detection, correct segregation, and integration mechanisms—while consciousness provides the qualitative feel, the subject, and phenomenal unity itself.
 
-This explains binding research's frustrating pattern: BP1 solutions keep being proposed while BP2 remains untouched. Classical mechanisms coordinate separate neural processes, but coordination doesn't produce ontological unity. Phenomenal unity is contributed by consciousness, not constructed by brain processes.
+This explains binding research's frustrating pattern: BP1 solutions keep being proposed while BP2 remains untouched. Classical mechanisms coordinate separate neural processes, and coordination alone has not been shown to produce ontological unity. On the Map's reading, phenomenal unity is contributed by consciousness rather than constructed by brain processes—a commitment the Map owns, not a result the research pattern establishes.
 
 ## The Quantum Hypothesis
 
@@ -209,11 +209,11 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 
 **[Dualism](/tenets/#dualism)**: BP2 is a version of the hard problem. The BP1/BP2 distinction provides precise articulation of the explanatory gap. Neuroscience can solve information binding (BP1) completely without touching phenomenal unity (BP2). There are features of consciousness—unified phenomenology—that physical description cannot capture.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If quantum coherence plays a role in binding, consciousness may operate at the quantum level as the tenet proposes. Quantum collapse provides a mechanism for BP2—binding disparate streams through non-local correlation rather than classical composition. The thalamus may serve as the quantum selection interface.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If quantum coherence plays a role in binding, consciousness may operate at the quantum level as the tenet proposes. Quantum collapse would provide a mechanism for BP2—binding disparate streams through non-local correlation rather than classical composition. The thalamus may serve as the quantum selection interface.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Attention influences what gets bound into unified experience. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely passively reflected neural binding, we couldn't voluntarily control which streams unify. Unified consciousness selects, not merely observes—a single subject choosing among quantum alternatives. Fragmentary consciousness could not exercise coherent causal power (see [agent-causation](/concepts/agent-causation/), [free-will](/topics/free-will/)).
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Attention influences what gets bound into unified experience. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely passively reflected neural binding, our apparent control over which streams unify would be a parallel rather than a cause—an option introspection cannot rule out. On this tenet's reading, unified consciousness would select rather than merely observe—a single subject choosing among quantum alternatives—though the interface argument shows such selection to be available, not yet actual ([Tenet 3's standing](/tenets/#tenet-3-standing)). Fragmentary consciousness could not exercise coherent causal power (see [agent-causation](/concepts/agent-causation/), [free-will](/topics/free-will/)).
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If quantum binding is correct, it requires real collapse. In many-worlds, all possible bindings occur in branching universes. Phenomenal unity appears *globally* definite, not branch-relative. The [indexical argument](/topics/indexical-identity-quantum-measurement/) holds that *this* definite experience requires genuine collapse rather than branch-relative definiteness.
+**[No Many Worlds](/tenets/#no-many-worlds)**: If quantum binding is correct, it requires real collapse. In many-worlds, all possible bindings occur in branching universes. Phenomenal unity appears definite, but felt definiteness is equally available branch-relatively, so the appearance cannot carry the argument. The Map's ground is the [indexical objection](/topics/indexical-identity-quantum-measurement/): nothing in the branching formalism identifies why *this* subject occupies *this* branch—an objection that presupposes a non-deflationary subject, as [Tenet 4](/tenets/#no-many-worlds) notes.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Classical approaches look simpler, but apparent simplicity fails if classical mechanisms cannot in principle produce phenomenal unity. The "simpler" hypothesis (unity emerges from neural coordination) hasn't been shown to work; it's merely hoped to work.
 

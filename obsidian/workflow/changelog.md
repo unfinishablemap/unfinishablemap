@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T16:13:05+00:00
+ai_modified: 2026-09-30T16:24:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T16:24:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]] (primary), [[concepts/binding-problem]] (secondary)
+- **Source**: check-tenets 2026-09-30 run 142, priority row 3 — [[reviews/tenet-check-2026-09-30]] L39/L60/L105/L123/L139/L148/L162/L166
+- **Original score**: n/a (targeted tenet-register fix; `scripts/curate.py` absent)
+- **Changes (Wheeler, 3999 → 3995 body words, topics hard gate 4000)**: L156 Tenet 2 minimality recast from "smallest actually sufficient, not smallest that preserves ensemble statistics" to the empirical-constraint reading (no Born-statistics violation, indistinguishable from chance under any unconditioned aggregate test — tenets L69/L75) and the three-way "live fork" re-ranked so post-decoherence Born-preserving selection is the endorsed path with the other two as fallbacks (tenets L71); paid for by trimming "built into the fabric of reality" and "the specific neural implementation". L160 Tenet 4 reordered: the open indexical question is now the Map's primary ground (with the non-deflationary-subject presupposition noted, tenets L117/L121), Wheeler's untestability/excess grounds are convergent rather than shared-and-supplemented, and "it from bit produces a single answer" is marked as a posit the Map shares with Wheeler, not evidence for collapse (tenets L184 posit 3); the "requires that observation produces a single definite outcome, not a branching" sentence dropped. L142 no-op: the paragraph already self-corrects ("presses on any framework, the Map's included… The Map does not claim immunity"); no residual sentence exempts the Map.
+- **Changes (binding-problem, 3199 → 3364, concepts hard gate 3500; L157 factorisation parenthetical untouched)**: L88 illusionism downgraded from refuted ("rejects… faces infinite regress… undermines the very reasoning") to a framework-boundary constraint — the illusionist's "nothing experiences the illusion" reply is stated, the Map declines it without claiming in-framework refutation, and self-stultification is named as illusionism's deepest difficulty rather than its defeat (tenets L101/L103; links [[topics/self-stultification-as-master-argument]]). L132 and L142 "supports the view" / "is contributed by consciousness, not constructed" recast as "on the Map's reading… compatible with", with the production theorist's parallel accommodation and the "commitment the Map owns, not a result" register (tenets L55/L93). L208 one-word hedge ("would provide"). L210 Tenet 3 moved to the available-not-actual register: "would select rather than merely observe… available, not yet actual" linking `tenets#^tenet-3-standing`; the "we couldn't voluntarily control" introspective-datum claim replaced with the parallel-not-cause option introspection cannot rule out. L212 the anti-MWI ground swapped from felt global definiteness (Family I) to the indexical objection with its non-deflationary-subject scope (tenets L117/L121).
+- **Engagement classification (editor-internal)**: binding-problem engagement with illusionism (Frankish): Mode Three — the regress and argument-from-reason replies are stated as constraints the illusionist owes an answer to, and the boundary is declared honestly rather than dressed as refutation, matching tenets L103's "meets it at a framework boundary".
+- **Sibling greps**: binding-problem — `refut|supports the view|selects|requires genuine collapse|infinite regress|undermines the very|couldn't voluntarily` now hits only L88's "rather than by refutation"; Wheeler — `smallest|shares this rejection|single definite outcome|reinforces this alignment` 0 hits. No "This is not X. It is Y." or "load-bearing" in either file.
+- **Frontmatter**: `ai_modified` = 2026-09-30T16:24:35+00:00 on both; `ai_system` → `claude-opus-4-6+claude-fable-5-1` (Wheeler) and `claude-opus-4-6+claude-opus-4-8+claude-fable-5-1` (binding-problem). todo.md untouched (orchestrator marks the task).
+- **Published**: yes (synced to Hugo; not committed)
+- **Model**: claude-fable-5-1
+
 ## 2026-09-30T16:13:05+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The eighteenth-century influxus physicus debate — Knutzen, Crusius and the pre-critical Kant as the reversal of the anti-interactionist consensus
