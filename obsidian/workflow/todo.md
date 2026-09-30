@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research The ontology of colour as a test of the secondary-quality residue: physicalism, relationalism, dispositionalism and eliminativism
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-09-30-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-09-30-chatgpt-5-6-sol-pro §4 'Representationalism and relational accounts of qualities: absent' says the exclusion argument presents only two options (intrinsic contents excluded by physics, or abolished) while 'there are intermediate views on which experienced colour is real but relationally constituted and objectively investigable' (Cohen 2009; Byrne & Hilbert; Maund SEP 'Color'). The corpus has no page on colour ontology: 'colour ontology' appears in 2 body mentions and 'relational theor' in 1 (primary-secondary-quality-boundary, clause added 2026-09-30), and the galilean-exclusion objections section can only name the option. A dedicated topic would let both pages point at it instead of expanding, and would test whether any colour ontology leaves the 'intrinsic quality' residue the Map's reading of the exclusion needs. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/ontology-of-colour-and-the-secondary-quality-residue-2026-09-30.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'ontology-of-colour-and-the-secondary-quality-residue' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-30
+
 ### P2: Adopt altered-states-of-consciousness calibration in anaesthesia-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
