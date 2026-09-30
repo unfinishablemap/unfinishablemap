@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T10:15:05+00:00
+ai_modified: 2026-09-30T10:31:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-30T10:31:33+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `positions/ai-substrate-verdicts` (P-AS1) — cycle-slot pick, oldest content file never named as a review target (created 2026-08-20; positions sit outside the deep-review pool). Six personas + standard lenses (equivocation, over-reach ladder, reasoning-mode, label leakage: all clean). Eight findings, all grep-verified with line numbers: (1) HIGH — L41 states the gate-class continuity failure as "evolving superpositions unitarily until a terminal readout" in the sentence that invokes syndrome extraction (repeated mid-evolution measurement; the topic article's own cell says "at decision-relevant points", which the register dropped); (2) HIGH — the specificity failure and the L44 shift condition require an open measurement basis, a context-selection feature `tenets.md` L107 disclaims and one the P-Q1 brain fails equally — the working argument is erasure of selected outcomes, not basis-fixedness; (3) MED-HIGH — title "Present quantum-computing hardware" carried by a QEC-specific argument, non-error-corrected hardware unscored (zero NISQ hits across the four cluster files); (4) MED — L44's shift condition is met to the letter by measurement-based / feed-forward computation as built; (5) MED — analog class inherits the gate locality pass by silence while its continuity partial-pass rests on "spatially distributed" selection; (6) MED — "discriminability indirect" names no test; the out-of-sample trigger the 2026-09-14 adjudication accepted as new was never minted; (7) LOW — grade B with no B-not-A rationale (P-AC4 models one); (8) LOW — L33 mis-describes Tenet 2's rationale as "argued entirely from the biological case"; *Last reviewed* stale. Prior-record items (foundational-dependency retrofit, Albash–Lidar qualifier, bootstrap premise, third bucket, B/D split) treated as resolved/stable and not re-raised. Verdict and bands judged correct; the repairs are to the argument.
+- **Tasks minted**: 4 `positions-evolve` (P2 continuity/fixed-basis argument; P2 scope + shift-condition; P3 analog locality; P3 discriminability trigger + grade rationale + L33 wording), all on the reviewed file only; parse_tasks active 25 → 29.
+- **Output**: [[reviews/pessimistic-2026-09-30-ai-substrate-verdicts]]
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T10:15:05+00:00 - cross-review
 - **Status**: Success
