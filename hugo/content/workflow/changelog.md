@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 19:30:21+00:00
+ai_modified: 2026-09-30 19:39:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 19:30:21+00:00
+lastmod: 2026-09-30 19:39:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T19:39:55+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/)
+- **Original score**: not scored (`scripts/curate.py` absent; pessimistic-2026-09-30 Issues 1–4 used as the review)
+- **Source**: todo.md "split the shared Level-1 dependence from the Map-specific Level-2 pairing debt…" (P2, pessimistic-review priority items 1+2 merged); review file `reviews/pessimistic-2026-09-30-quantum-factorisation-problem`
+- **Changes**: (Issue 1) L40 lead and §The Map's Exposure now split the Level 1 system/environment-split dependence (shared with every decoherence-based account, booked for completeness) from the Map-specific Level 2 debt — a paired subject cannot inherit the split from a physics it is not identical with, so the pairing must say *which* split the einselected menu belongs to (whose pointer basis, which subsystem is the subject's); Level 2 is now stated as the page's finding; "runs deeper" → "reaches past"; L100 "a dependency the Map's preferred mechanism had not stated" (false to `concepts/many-worlds` L116–118) → "a dependency [many-worlds](/concepts/many-worlds/) had stated against Everett but the selection programme's apex statement had not booked". (Issue 2) L44 "returns the question to whose access, and so to the observer" → what fixes the algebra is the open question (dynamics/locality on the mereology programme, observer access on the operational reading); L46 circularity charge now conditioned in the sentence that makes it ("If nothing observer-independent fixes the TPS…"), noting the prompting outer review (2026-09-25 ChatGPT L118) granted that locality and interaction structure can privilege divisions. (Issue 3) L78 Tenet 4 parity restated as symmetric — Everettian branches equally factorisation-relative (Stoica 2022), [many-worlds](/concepts/many-worlds/) already concedes the shared dependence, [tenets](/tenets/) locates Tenet 4's standing in the subjecthood posit; L96 duplicate middle sentence cut; "risk"/"new" framing dropped. (Issue 4) L64 no longer says Carroll–Singh's criterion "points away from binding" — Tegmark's recursion named as the mechanism, Carroll–Singh's cross-cut criterion parenthetically marked abstract-derived as one that would isolate a coupled whole; L76 "selects maximally *non*-interacting parts" → "recurses and never stops at a coupled whole". Style: L36 "is not a property… It is a property…" construct replaced with the direct claim. Self-grading touched only at L100 ("adds no evidential support"), where Issue 1's rewrite already landed.
+- **Funding cuts**: L36 construct (−10), L62 Mad-Dog parenthetical trimmed (−8), L68 post-colon search-method clause "a search of the Chalmers–McQueen text for *factori-* returns nothing" cut (−10; review Issue 6 says it comes out of the body either way — the hedged absence claim "never raises the factorisation question as such" stays for the sibling Issues 5–6 task at todo L1510 to re-verify with wider stems), L96 duplicate sentence (−15). analyze_length 3433 → 3496 (concepts hard 3500, gate `>=`; 3 words of headroom remain).
+- **Not touched**: Issues 5 (Stapp locus, L70/L94, ref 22), 6 beyond the method clause, 7 (five-vs-three demands at L50), 8 (L90/L98 intensities) — sibling task.
+- **Model**: claude-fable-5-1 (unchanged `ai_system`).
+- **Published**: yes
 
 ## 2026-09-30T19:30:21+00:00 - pessimistic-review
 - **Status**: Success
