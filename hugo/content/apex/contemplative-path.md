@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-09-18 10:23:45+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
+ai_modified: 2026-09-30 08:01:32+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1
 apex_last_synthesis: 2026-08-03 20:00:07+00:00
 apex_sources:
 - topics/eastern-philosophy-consciousness
@@ -39,7 +39,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:49:16+00:00
-lastmod: 2026-09-18 10:23:45+00:00
+lastmod: 2026-09-30 08:01:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +132,7 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/)—the claim that conscio
 
 Microphenomenology adds a complementary line. Claire Petitmengin's disciplined second-person interview procedure elicits reports below the threshold of casual introspection; its strongest demonstration is continuous, hour-scale premonitory experiences in epileptic patients that subjects did not spontaneously report and third-person measurements did not characterise (Petitmengin, Baulac & Navarro 2006; Petitmengin, Navarro & Le Van Quyen 2007). The authors are careful about what this licenses: they report patient testimony about counter-measures rather than outcome data, and judge prodromes "not specific enough for clinical use". Trained first-person inquiry can nonetheless be *ampliative*, surfacing content that casual introspection and external instruments both miss.
 
-Against reductive materialism, first-person methods prove irreducible. Trained meditators give more reliable, more precise reports—meditation experience predicts introspective accuracy scored against objective psychophysical thresholds (Fox et al. 2012)—and where EEG has been recorded, long-term practitioners show distinctive gamma-synchrony signatures: eight Buddhist adepts generating non-referential compassion produced high-amplitude gamma and long-distance phase synchrony above ten week-trained controls *as a group*, though two controls individually reached the same threshold (Lutz et al. 2004). That study mapped no phenomenological reports onto its neural data; the demonstration that reports can *guide* neural analysis comes from Lutz, Lachaux, Martinerie, and Varela (2002), whose subjects were ordinary volunteers trained to report rather than contemplatives. The trainability result is thus psychophysical rather than neural, and the two Lutz studies' limits run in opposite directions, so the neural half of the case is real but unclosed. The jhana phenomenology sharpens the point: correlates have been identified—disrupted hierarchy, increased entropy—but why should increased entropy correlate with the experience of infinite space, or PCC deactivation feel like equanimity? The [Galilean exclusion](/concepts/galilean-exclusion/) diagnoses the structure: science was founded by excluding subjective quality from its domain, so better measurement refines correlations without bridging to felt experience. Better data yielding more precise *correlations* and no *explanations* is what irreducibility predicts.
+Against reductive materialism, first-person methods prove irreducible. Trained meditators give more reliable, more precise reports—meditation experience predicts introspective accuracy scored against objective psychophysical thresholds (Fox et al. 2012)—and where EEG has been recorded, long-term practitioners show distinctive gamma-synchrony signatures: eight Buddhist adepts generating non-referential compassion produced high-amplitude gamma and long-distance phase synchrony above ten week-trained controls *as a group*, though two controls individually reached the same threshold (Lutz et al. 2004). That study mapped no phenomenological reports onto its neural data; the demonstration that reports can *guide* neural analysis comes from Lutz, Lachaux, Martinerie, and Varela (2002), whose subjects were ordinary volunteers trained to report rather than contemplatives. The trainability result is thus psychophysical rather than neural, and the two Lutz studies' limits run in opposite directions, so the neural half of the case is real but unclosed. The jhana phenomenology sharpens the point: correlates have been identified—disrupted hierarchy, increased entropy—but why should increased entropy correlate with the experience of infinite space, or PCC deactivation feel like equanimity? The [Galilean exclusion](/concepts/galilean-exclusion/) offers a genealogy of the structure: the primitives of mathematical physics were chosen to leave sensible quality out—Galileo relocated it into the sentient body as a tentative posit, and the method's success has traded on the posit since—so better measurement refines correlations within those primitives without bridging to felt experience. The genealogy blocks the inference from the method's silence to the absence of quality; it does not show that no expanded science could close the gap, and it counts no more for dualism than for a physicalist psychophysics. Better data yielding more precise *correlations* and no *explanations* is what irreducibility predicts, though a science still at the correlation stage predicts it too.
 
 ### What the Evidence Favours
 
@@ -204,7 +204,7 @@ The contemplative path illuminates all five tenets.
 
 ## Source Articles
 
-This apex article synthesizes:
+This synthesis draws from:
 - [Eastern Philosophy and Consciousness](/topics/eastern-philosophy-consciousness/) — Buddhism's phenomenology and its tension with dualism
 - [Contemplative Evidence for Consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation data distinguish theories
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer phenomenon and subject-object structure

@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 07:47:47+00:00
+ai_modified: 2026-09-30 08:01:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 07:47:47+00:00
+lastmod: 2026-09-30 08:01:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T08:01:32+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Changed sources**: 9 of 9 since baseline 2026-07-19 (all read; 4 absorbed, 5 verified already consistent) + 2 new voids registered (`voids/assent-void`, `voids/handedness-void`)
+- **Word count**: 4911 → 4909 (`analyze_length`; hard limit 5000 — length-neutral by requirement, after a first pass reached 5178)
+- **What changed**: framework-independent count "roughly fifteen" → "roughly twenty" (voids index now lists 19 bullets, 7 added in September); operation-void family's fixed pairing stated; edge-states gloss brought down to its source's two discounts; compound-failure richness-estimator negative result and the handedness void (the one catalogued limit that moved) absorbed into "The Taxonomy's Own Limits"; assent void into the self-knowledge cluster, conjoint list and the Bidirectional Interaction reading ([P-V2](/positions/voids-as-evidence/#p-v2): removes a defeater, supplies no support); required `## Evidence and Dependency` section installed (was absent); "load-bearing" and two body uses of "apex" removed
+- **Second file**: [contemplative-path](/apex/contemplative-path/) L130 cited the pre-2026-09-30 galilean-exclusion reading ("science was founded by excluding subjective quality"); rewritten to the corrected relocation/posit reading with the symmetric caveat. 4377 → 4453 words. `apex_last_synthesis` left unchanged (single-locus fix).
+- **Stamps**: taxonomy `ai_modified`/`apex_last_synthesis` 2026-09-30T07:57:59+00:00, `ai_system` claude-opus-4-6+claude-fable-5-1; contemplative-path `ai_modified` 2026-09-30T08:01:32+00:00, `ai_system` +claude-fable-5-1
+- **Coverage finding**: 14 of 44 apex articles still lack `## Evidence and Dependency` (was 31 of 38 on 2026-07-29) — no task minted, by the standing 2026-07-29 NEEDS-HUMAN entry's instruction (todo L1254: operator-reserved sequencing; per-article retrofit when a slot touches the article is the accepted mechanism, and this run did that for the taxonomy length-neutrally): (attention-as-causal-bridge, born-preserving-causal-efficacy, cross-modal-capability-division, interface-specification-programme, machine-question, medium-status-voids-in-cognition, mereology-of-mind, minds-without-words, phenomenology-mechanism-bridge, post-decoherence-selection-programme, process-and-consciousness, research-programme-decisions-under-the-map, self-concealing-interface, testing-the-map-from-inside)
+- **Review**: [apex-evolve-2026-09-30-taxonomy-of-voids](/reviews/apex-evolve-2026-09-30-taxonomy-of-voids/)
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T07:47:47+00:00 - check-tenets
 - **Status**: Warnings
