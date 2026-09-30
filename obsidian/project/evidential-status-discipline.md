@@ -2,9 +2,9 @@
 title: "Evidential-Status Discipline"
 description: "A tenet may remove a defeater, but it must not upgrade the evidence level. The discipline installs a five-tier scale — established → strongly supported → realistic possibility → live hypothesis → speculative integration — and the diagnostic test that distinguishes calibration error from bedrock disagreement."
 created: 2026-05-05
-modified: 2026-09-17
+modified: 2026-09-30
 human_modified: null
-ai_modified: 2026-09-17T20:52:27+00:00
+ai_modified: 2026-09-30T10:37:39+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -70,7 +70,7 @@ related_articles:
   - "[[ethics-under-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-05-05
 last_curated: null
 ---
@@ -96,6 +96,8 @@ The discipline distinguishes two registers in which a claim can be supported. Co
 **Evidence register (empirical support).** A claim is supported in the evidence register when positive empirical findings — behavioural, neurological, comparative, theoretical — make the claim more probable than its denial. Evidence-register support is *substantive*: it operates on what the world contains, not on what the framework allows.
 
 The two registers are not interchangeable. Removing a defeater keeps a hypothesis live; it does not supply positive evidence. The slippage occurs when defeater-removal is silently treated as evidence-elevation — when the catalogue moves from "the tenets do not foreclose nematode consciousness" to "nematode consciousness is plausible" without supplying the positive evidence the second claim requires.
+
+**Method and history claims are not exempt (2026-09-30).** The registers above are phrased for empirical claims, and the 2026-09-05 deep review of [[galilean-exclusion]] passed a then-live lead calling the hard problem "structurally inevitable" on the ground that the page's claims were "about method and history". Necessity vocabulary — *inevitable*, *built into*, *cannot in principle*, *because X made them so*, *structurally* — carries the same calibration burden. Every historical or philosophical claim takes one of four editor-internal labels: *documented textual claim* (cite the passage), *contested historiography* (name the rival reading), *Map reconstruction* (say so), *framework-conditional implication* (state the tenet it follows from). Every genealogical argument must also pass a three-item transition check: "origin ⇒ validity", "initial method ⇒ permanent limit" and "past exclusion ⇒ present ontological residue" are each invalid unless a separate premise is supplied and named. The labels are the shared vocabulary of the `check-tenets` over-reach lens, which grades the claim on the compatible / suggestive / discriminating ladder of the [[#Compatibility vs. Support at the Rival-Model Interface|rival-model section]]. Provenance: [[reviews/outer-review-synthesis-2026-09-30]].
 
 ## Constrain vs. Establish
 

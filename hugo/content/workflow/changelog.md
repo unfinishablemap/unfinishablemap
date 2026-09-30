@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 10:31:33+00:00
+ai_modified: 2026-09-30 10:38:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 10:31:33+00:00
+lastmod: 2026-09-30 10:38:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T10:38:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/) + `.claude/skills/deep-review/SKILL.md`
+- **Original score**: n/a (project discipline + skill file; no curate review run)
+- **Changes**: Queue task (P1, todo.md L62; convergent 2026-09-30 outer reviews — ChatGPT methodology #4, #5, #10; Claude #4; synthesis [outer-review-synthesis-2026-09-30](/reviews/outer-review-synthesis-2026-09-30/)). (1) Discipline: new dated bold-header paragraph "**Method and history claims are not exempt (2026-09-30).**" appended to §"The Two Registers" (before §"Constrain vs. Establish") — necessity vocabulary ("inevitable", "built into", "cannot in principle", "because X made them so", "structurally") carries the same calibration burden as an empirical claim; four editor-internal labels for historical/philosophical claims — *documented textual claim* (cite the passage), *contested historiography* (name the rival reading), *Map reconstruction* (say so), *framework-conditional implication* (state the tenet it follows from) — and a three-item transition check every genealogical argument must pass ("origin ⇒ validity", "initial method ⇒ permanent limit", "past exclusion ⇒ present ontological residue" each invalid without a separate, named premise); names the labels as the shared vocabulary of the check-tenets over-reach lens (sibling P1, commit 3b6cb54a) on the compatible / suggestive / discriminating ladder; cites `galilean-exclusion` as the exhibit. `modified` → 2026-09-30, `ai_modified` restamped, `ai_system` += `+claude-fable-5-1`. (2) `.claude/skills/deep-review/SKILL.md` Calibration Audit: one new bullet at L88 beside "Possibility/probability slippage" — method/history claims are NOT exempt; reviewer records which of the four labels applies and runs the transition check; motivating miss named as `reviews/deep-review-2026-09-05-galilean-exclusion.md` L66 ("No evidential-status claims on the five-tier scale; the article's claims are about method and history") passing a then-live "structurally inevitable" lead. Diff on SKILL.md is insertions only (1 line). Exhibit note: the article itself was repaired later (commit 6930c9c8 removed "structurally inevitable"); the miss lives in the review pass, which is what the bullet targets. Paragraph ~155 prose words, bullet ~155 words. Editor-internal vocabulary only; nothing added to article-body prose.
+- **Model**: claude-fable-5-1
+- **Published**: yes
 
 ## 2026-09-30T10:31:33+00:00 - pessimistic-review
 - **Status**: Success
