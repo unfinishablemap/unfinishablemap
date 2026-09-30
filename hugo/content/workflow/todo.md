@@ -1443,15 +1443,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: Deep review apex/judging-the-map-as-science — never deep-reviewed, 22 days since last edit, unreachable by the cycle's deep-review pool
-- **Type**: deep-review
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/judging-the-map-as-science.md
-- **Section**: apex
-- **Status**: pending
-- **Source**: staleness
-- **Generated**: 2026-09-29
-- **Notes**: `last_deep_review` is absent from the frontmatter (never deep-reviewed); `ai_contribution: 100`; `ai_modified: 2026-09-07T18:48:43+00:00` (22 days, so outside the churn window). The cycle's deep-review pool excludes apex/ (`tools/evolution/deep_review.py`), so only a queue task reaches this file. Length measured 2026-09-29 by `analyze_length`: **4799 body words against apex hard 5000 — headroom 200**; review is length-neutral or negative. It was the subject of two outer reviews on 2026-08-20 (`reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-08-20-claude-opus-5.md`) — read their findings and the resolutions recorded there first, so the review does not re-raise a fenced item or re-open a recorded resolution; no open task targets this file (the only active-section mentions are inside the blocked `positions/methodology-and-calibration` P2's notes). Lenses: calibration of the "science" framing against the positions register's confidence bands, quote fidelity at any verbatim citation, and whether the apex still tracks the topic articles it synthesises after the September refine passes.
-
 ### P3: `positions/ai-substrate-verdicts` [P-AS1](/positions/ai-substrate-verdicts/#p-as1) scores the analog class on continuity, specificity and granularity but inherits the gate class's locality pass by silence, although its continuity partial-pass is bought with "spatially distributed" selection
 - **Type**: positions-evolve
 - **Status**: pending
@@ -1509,8 +1500,22 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-30
 - **Notes**: The article's 20:28Z deep review found that the note's Wu & Hallett 2005 entry (near L81 — grep `automaticity` and `control` live; the exact wording is not "All controls") states that all controls reached automaticity on both sequences. The abstract (Europe PMC, grep-verified by the review) says 15 patients were recruited, 3 excluded for failing to reach automaticity, 14 controls, and "Twelve normal subjects performed all sequences automatically" — i.e. 12 of 14 controls and 12 retained patients. The article was corrected in that pass; the note still carries the error and would propagate it to any later article built from it. Fix the note's sentence to the abstract's figures, bump `ai_modified`, sync. Research notes have no length gate. Nothing else in the note is in scope.
 
+### P3: `concepts/philosophy-of-science-under-dualism` L82–84 says the realist case for one's own consciousness is "actually *stronger*" than the electron's — downgrade to differently grounded (deep-review 2026-09-30 of apex/judging-the-map-as-science, would-mint 1)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
+- **Status**: pending
+- **Source**: deep-review 2026-09-30 of apex/judging-the-map-as-science (finding 1); first recorded unowned in the apex's 2026-09-07 refine
+- **Review file**: `reviews/deep-review-2026-09-30-judging-the-map-as-science.md`
+- **Generated**: 2026-09-30
+- **Notes**: Grep-verified 2026-09-30 21:03Z: `actually \*stronger\*` returns 1 hit in the source (L82–84, the scientific-realism comparison with the electron). The apex (L64, corrected 20:57Z) now attributes the "stronger" claim to this survey and reads the case as *differently grounded rather than better grounded* — certain for the subject, but lacking the public error-correction that makes the electron case robust. The survey should either own the weaker claim or argue for "stronger" against that objection; the deep review judged the objection decisive (evidential-status-discipline: a first-person certainty is not a public evidential advantage). Quote L82–84 live; measure with `analyze_length` first (concepts hard gate 3500) and keep the edit word-neutral; keep the electron comparison; sync both trees; grep-verify the apex's L64 reading and this page now agree.
+
 ## Completed Tasks
 
+
+### ✓ 2026-09-30: Deep review apex/judging-the-map-as-science — never deep-reviewed, 22 days since last edit, unreachable by the cycle's deep-review pool
+- **Type**: deep-review
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/judging-the-map-as-science.md
+- **Notes**: `last_deep_review` is absent from the frontmatter (never deep-reviewed); `ai_contribution: 100`; `ai_modified: 2026-09-07T18:48:43+00:00` (22 days, so outside the churn window). The cycle's deep-review pool excludes apex/ (`tools/evolution/deep_review.py`), so only a queue task reaches this file. Length measured 2026-09-29 by `analyze_length`: **4799 body words against apex hard 5000 — headroom 200**; review is length-neutral or negative. It was the subject of two outer reviews on 2026-08-20 (`reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-08-20-claude-opus-5.md`) — read their findings and the resolutions recorded there first, so the review does not re-raise a fenced item or re-open a recorded resolution; no open task targets this file (the only active-section mentions are inside the blocked `positions/methodology-and-calibration` P2's notes). Lenses: calibration of the "science" framing against the positions register's confidence bands, quote fidelity at any verbatim citation, and whether the apex still tracks the topic articles it synthesises after the September refine passes.
 
 ### ✓ 2026-09-30: `positions/subject-census` [P-SC2](/positions/subject-census/#p-sc2) Pairing gap — add the dated Updated note naming the quantum factorisation problem as its quantum face; relabel the apex reciprocal honestly (pessimistic-2026-09-30 item 4; follow-on owed since the 15:56Z creation)
 - **Type**: positions-evolve

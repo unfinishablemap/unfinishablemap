@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 20:57:42+00:00
+ai_modified: 2026-09-30 21:33:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 20:57:42+00:00
+lastmod: 2026-09-30 21:33:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T21:33:27+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the five topic/concept articles created 2026-09-30 with zero prior optimistic coverage — topics/colour-ontology-and-the-secondary-quality-residue, concepts/cotard-delusion, concepts/quantum-factorisation-problem, topics/eighteenth-century-influx-debate, topics/outcome-devaluation-and-dual-task-costs-in-parkinsons (bodies, deep/pessimistic reviews, research-note Gaps sections and inbound body links read; positions/memory-and-autonoesis confirmed live but excluded as a 2026-09-20 positions entry, not a creation-wing member)
+- **Findings**: every page earns *compatible* under the over-reach lens; one live over-reach survives — concepts/quantum-factorisation-problem L90 "both-edged support" / L98 "clean case" against L100 "adds no evidential support", plus L50 "three demands", L60 "coined", L70 Ismael & Schaffer (pessimistic-2026-09-30 Issues 7–8 and two Unsupported-Claims rows, never minted); three influx reciprocals (conservation-laws L47, objections-to-interactionism L65, interactionist-dualism L217) carry anchor text that says the opposite of the target; concepts/pairing-problem links neither the factorisation page nor [P-SC2](/positions/subject-census/#p-sc2); 24 reciprocal loci tabled (15 piped at zero cost); factorisation inbound reads 3 on a bare-slug grep and 5 with path-qualified forms (positions register links `[[concepts/...]]`)
+- **Harvester candidates (not minted)**: Depersonalisation (concepts; 42 mentions, 6 sections, no page); the Revelation thesis (concepts; only the colour article names it); Kant's paralogisms and the Map's subject (topics; 60 Kant pages, 3 paralogism mentions, none about them)
+- **Tasks minted**: none (reports-only per driver brief; ranked list of 4 in the review for the driver to mint: factorisation residuals refine-draft; pairing-problem/quantum-holism/many-worlds + two cross-wing clauses cross-review; Cotard + colour reciprocals refine-draft; influx anchor repairs + Parkinson's hosts cross-review)
+- **Output**: [optimistic-2026-09-30-creation-wing](/reviews/optimistic-2026-09-30-creation-wing/)
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T20:57:42+00:00 - deep-review
 - **Status**: Success
