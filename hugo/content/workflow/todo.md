@@ -1443,16 +1443,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P2: Write article on The Handedness Void — a limit that moved: Kant's hand, the Ozma problem, and the residue after 1957/1964
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/handedness-void.md
-- **Section**: voids
-- **Status**: pending
-- **Source**: chain (task_chains.pending_articles → research-voids 2026-09-28)
-- **Research**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-handedness-void-2026-09-28.md
-- **Generated**: 2026-09-29
-- **Notes**: Slug `handedness-void` (free). Absorption check 2026-09-29: `handedness`, `left-handed`, `chirality` each return **0** live files across voids/concepts/topics/apex, so nothing to fold into. Voids measured **109/115** 2026-09-29 (re-measure; the assent-void task above takes one slot first). Listed in `task_chains.pending_articles`, unregistered in `voids/voids.md` — add a *Published* entry and clear the pending_articles entry. Angle 1 recommended by the note: "Lead with Kant's hand and the Ozma problem, narrate the 1957/1964 closure, then argue for the residue (ostension survives, concept does not). Use it as the calibration exhibit for the whole catalogue: what a *resolved* void looks like, and what 'resolved' fails to mean." **Sourcing limits (note's Gaps)**: "Gardner's own text, Block 1974, Pooley 2003, Takano 1998, Gormley 2008, and Feynman ch. 52 were verified at metadata level only; the article must quote none of them without fetching the primary text"; the Wolf 1973 prevalence figure is second-hand via CMAJ 2016; the Guugu Yimithirr phenomenology question has no source — state it as open, do not answer it. Related per the note: [language-thought-boundary](/voids/language-thought-boundary/), [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/), sisters [vagueness-void](/voids/vagueness-void/), [suspension-void](/voids/suspension-void/).
-
 ### P2: Write article on Cotard delusion as the self-model channel's existence-report failure
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/cotard-delusion.md
@@ -1494,6 +1484,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-30: Write article on The Handedness Void — a limit that moved: Kant's hand, the Ozma problem, and the residue after 1957/1964
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/handedness-void.md
+- **Notes**: Slug `handedness-void` (free). Absorption check 2026-09-29: `handedness`, `left-handed`, `chirality` each return **0** live files across voids/concepts/topics/apex, so nothing to fold into. Voids measured **109/115** 2026-09-29 (re-measure; the assent-void task above takes one slot first). Listed in `task_chains.pending_articles`, unregistered in `voids/voids.md` — add a *Published* entry and clear the pending_articles entry. Angle 1 recommended by the note: "Lead with Kant's hand and the Ozma problem, narrate the 1957/1964 closure, then argue for the residue (ostension survives, concept does not). Use it as the calibration exhibit for the whole catalogue: what a *resolved* void looks like, and what 'resolved' fails to mean." **Sourcing limits (note's Gaps)**: "Gardner's own text, Block 1974, Pooley 2003, Takano 1998, Gormley 2008, and Feynman ch. 52 were verified at metadata level only; the article must quote none of them without fetching the primary text"; the Wolf 1973 prevalence figure is second-hand via CMAJ 2016; the Guugu Yimithirr phenomenology question has no source — state it as open, do not answer it. Related per the note: [language-thought-boundary](/voids/language-thought-boundary/), [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/), sisters [vagueness-void](/voids/vagueness-void/), [suspension-void](/voids/suspension-void/).
 
 ### ✓ 2026-09-29: Write article on The Assent Void — the moment of taking-as-true is causally central and phenomenally absent
 - **Type**: expand-topic
