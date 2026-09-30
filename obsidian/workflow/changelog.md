@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T18:12:44+00:00
+ai_modified: 2026-09-30T18:26:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T18:26:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/eighteenth-century-influx-debate]]
+- **Word count**: 3611 → 3678 (+67; `analyze_length`, topics soft 3000 / hard 4000, status soft_warning both sides, under the 4000 `>=` gate)
+- **Critical issues addressed**: 2 — dominance claim quietly asserted in two sentences: the lead (L33 "the one period ... carried the field") and Tenet 3 paragraph (L93 "prevailed over the most sophisticated ... ever devised") rewritten to the shift-only tier, echoes at description/L83/L87 aligned; Kuehn chapter corrected 2000 → 2001 and to the publisher's title (Crossref 10.1093/0195133056.003.0002), discrepancy with Watkins 2003's reference list disclosed in the entry
+- **Medium issues addressed**: 4 — anchoring task absorbed (todo L40 "Adopt causal-closure calibration": one underdetermination sentence at the dominance locus L39, "may" at the imputability strand L55, "suggests" at the Knutzen→Kant inference L81; `evaluate_anchoring` now returns []; 11 hedges + 1 marker, no padding); Tenet 5 "the four strands above show" → "on the Map's reconstruction, have"; reference metadata (Watkins 1995 issue 49(2), Watkins 2003 DOI + issue, Kant 1992 DOI confirming Walford & Meerbote, Rauscher dated 2005.11.01); frontmatter-only siblings linked
+- **Enhancements made**: 2 links — [[causal-closure]] (piped, Further Reading), [[leibnizs-mill-argument]] (Further Reading); all six host-page anchors and both tenets block anchors (`^bidirectional-interaction`, `^occams-limits`, `^tenet-3-standing`) resolve; six inbound seams untouched
+- **Citation ledger**: 24 quoted spans ≥3 words grep-verified raw — SEP Wolff HTML (rev. 1 Jun 2024), Watkins 2003 UCSD PDF via pdftotext (page headers confirm p. 10 n. 7/n. 9, p. 11), Lorini 2016 Ca' Foscari chapter PDF, Rauscher NDPR HTML — 24/24 verbatim; Crossref real-correct for Watkins 1998 (6(1–2): 136–203), Watkins 2003, Watkins 2005, Kant 1992; Lorini DOI resolves (registered outside Crossref, doi.org content negotiation); Watkins 1995 via PhilPapers; Watkins 1998/1995 remain unread and the page still says so; the second "Watkins (1998)" (SHPS 29) confirmed in Watkins 2003's list, disambiguation kept. Superlative helper: 1 ("ever devised"), re-scoped to "of its day". No inline/References orphans.
+- **Tenet tiers**: Tenet 3 precedent/compatibility only ("That is compatibility, not support", L93); Tenet 5 narrow lesson labelled framework-conditional implication (L95); Tenet 3 standing note contrast (Knutzen "cannot" vs Map "not yet") intact at L97. Method/history labels all four present; transition check passes (origin ⇒ validity blocked at L91/L93). Reasoning-mode §2.6: N/A, no present-day named opponent.
+- **Output**: [[reviews/deep-review-2026-09-30-eighteenth-century-influx-debate]]
+- **Model**: claude-fable-5-1
 ## 2026-09-30T18:12:44+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Outcome devaluation and dual-task costs in Parkinson's disease: which control system fails? (todo P2 L40, chain research-harvest → research-topic 2026-09-30 → expand-topic)
