@@ -1510,16 +1510,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-29
 - **Notes**: `last_deep_review` is absent from the frontmatter (never deep-reviewed); `ai_contribution: 100`; `ai_modified: 2026-09-07T18:48:43+00:00` (22 days, so outside the churn window). The cycle's deep-review pool excludes apex/ (`tools/evolution/deep_review.py`), so only a queue task reaches this file. Length measured 2026-09-29 by `analyze_length`: **4799 body words against apex hard 5000 — headroom 200**; review is length-neutral or negative. It was the subject of two outer reviews on 2026-08-20 (`reviews/outer-review-2026-08-20-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-08-20-claude-opus-5.md`) — read their findings and the resolutions recorded there first, so the review does not re-raise a fenced item or re-open a recorded resolution; no open task targets this file (the only active-section mentions are inside the blocked `positions/methodology-and-calibration` P2's notes). Lenses: calibration of the "science" framing against the positions register's confidence bands, quote fidelity at any verbatim citation, and whether the apex still tracks the topic articles it synthesises after the September refine passes.
 
-### P1: Tenet-check carried ERRORs (checks 140-141, unminted for five reports) — group A: born-rule / brain-internal-born-rule-testing / testing-consciousness-collapse / Tenet-1 fabrication trio
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/brain-internal-born-rule-testing.md; /home/andy/unfin/unfinishablemap/obsidian/topics/testing-consciousness-collapse.md; /home/andy/unfin/unfinishablemap/obsidian/topics/kabbalah-tzimtzum-consciousness-matter.md; /home/andy/unfin/unfinishablemap/obsidian/topics/consciousness-and-collective-phenomena.md; /home/andy/unfin/unfinishablemap/obsidian/concepts/combination-problem.md
-- **Status**: pending
-- **Source**: check-tenets 2026-09-30 (run 142), priority row 1; briefs written in reviews/tenet-check-2026-09-27.md (run 140) §Priority list rows 1-4 and re-verified live in runs 141 and 142
-- **Review file**: `reviews/tenet-check-2026-09-30.md`
-- **Generated**: 2026-09-30
-- **Notes**: Multi-file sweep minted by the driver from the report's priority list (check-tenets is reports-only). Loci as re-verified live 2026-09-30: `born-rule-and-the-consciousness-interface` L110 + L219; `brain-internal-born-rule-testing` L157 + L143/L153/L155; `testing-consciousness-collapse` L179 + L203 + L215; Tenet-1 fabrication sweep `kabbalah-tzimtzum-consciousness-matter` L34/L78/L84, `consciousness-and-collective-phenomena` L162 (wikilink-form: a bare grep false-zeroes it; print the line), `combination-problem` L175. Read the run-140 brief for each file BEFORE editing; each fix must name the CLAIM being corrected against `tenets.md` (L69/L71/L75/L81 for Tenet 2 minimality and falsifiers; L55/L93 for compatibility-vs-evidence), keep calibration markers, and stay length-neutral where the page is within 100 words of its hard line (measure with `tools.curate.length.analyze_length`). Required closing checks: same-file sibling grep for the corrected phrase family in EVERY listed file, and grep the Hugo copy after sync. Report a per-file checklist (file, locus, before -> after) so the driver can confirm no file was dropped.
-
 ### P1: Tenet-check carried ERRORs (checks 140-141) — group B: fabricated-tenet-prediction sweep + Tenet 3 relocated in the quantum wing
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/falsification-roadmap-for-the-interface-model.md
@@ -1576,6 +1566,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-30: Tenet-check carried ERRORs (checks 140-141, unminted for five reports) — group A: born-rule / brain-internal-born-rule-testing / testing-consciousness-collapse / Tenet-1 fabrication trio
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: Multi-file sweep minted by the driver from the report's priority list (check-tenets is reports-only). Loci as re-verified live 2026-09-30: `born-rule-and-the-consciousness-interface` L110 + L219; `brain-internal-born-rule-testing` L157 + L143/L153/L155; `testing-consciousness-collapse` L179 + L203 + L215; Tenet-1 fabrication sweep `kabbalah-tzimtzum-consciousness-matter` L34/L78/L84, `consciousness-and-collective-phenomena` L162 (wikilink-form: a bare grep false-zeroes it; print the line), `combination-problem` L175. Read the run-140 brief for each file BEFORE editing; each fix must name the CLAIM being corrected against `tenets.md` (L69/L71/L75/L81 for Tenet 2 minimality and falsifiers; L55/L93 for compatibility-vs-evidence), keep calibration markers, and stay length-neutral where the page is within 100 words of its hard line (measure with `tools.curate.length.analyze_length`). Required closing checks: same-file sibling grep for the corrected phrase family in EVERY listed file, and grep the Hugo copy after sync. Report a per-file checklist (file, locus, before -> after) so the driver can confirm no file was dropped.
 
 ### ✓ 2026-09-30: `project/evidential-status-discipline` + deep-review — method/history necessity claims ("structurally inevitable", "built into the scientific method") are exempt from the calibration audit, and no check tests genealogy-to-metaphysics transitions
 - **Type**: refine-draft

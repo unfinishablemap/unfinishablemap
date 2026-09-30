@@ -4,7 +4,7 @@ description: "Self-stultification presses hard not just on epiphenomenalism but 
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-08-02T17:45:24+00:00
+ai_modified: 2026-09-30T11:40:49+00:00
 last_deep_review: 2026-07-12T11:16:40+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ related_articles:
   - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-23
 last_curated:
 ---
@@ -188,7 +188,7 @@ The [[anti-correlated-metacognitive-signal]] concept supplies a structural paral
 - [[interactionist-dualism]] — The framework that escapes self-stultification
 - [[dualism]] — Multiple converging arguments including self-stultification
 - [[memory-channel-interface-evidence]] — The cross-state channel hierarchy whose ketamine row is the same dissociation pattern this article's clinical worked exhibit uses
-- [[cross-mechanism-convergence]] — Evidence-pattern type the cross-state row instantiates; explains why the ketamine, dissociative-anaesthesia, and contemplative rows together carry more weight than any single row alone, without licensing tier-upgrade
+- [[cross-mechanism-convergence]] — Evidence-pattern type the ketamine row instantiates; explains why the row gains weight when the same dissociation signature recurs under non-pharmacological perturbations, without licensing tier-upgrade
 - [[anti-correlated-metacognitive-signal]] — The empirical-tier structural analogue: confidence anti-correlated with accuracy in regime R parallels self-stultification's theory-level analogue of confidence anti-correlated with the conditions of its own endorsement
 
 ## References

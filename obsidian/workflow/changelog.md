@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T11:27:21+00:00
+ai_modified: 2026-09-30T11:42:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-30T11:42:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cross-mechanism-convergence]] (+ one backlink label in [[topics/self-stultification-as-master-argument]])
+- **Word count**: 2475 → 2653 (+178; soft band, 847 under hard)
+- **Critical issues addressed**: 3 (stale internal quote of memory-channel L92 reworded 08-07; three-row attribution to the self-stultification page whose only support was that page's backlink description of THIS article — sibling has the ketamine row alone; Class B "phenomenal experience" → "reportable experience" per the apex it cites)
+- **Medium issues addressed**: 5 (memory-hierarchy "five/all five" re-scoped to the sibling's 09-27 narrowing; active-reboot claim re-attached to L95 not L65; direct-refutation near-quote made verbatim + targeted-lesion link; Tenet 5 wording aligned with tenets.md and self-binding applied to the accommodation-cost move; "load-bearing" 5→1)
+- **Citation ledger**: Hu 2023 real-correct (abstract read, result-direction matches); Sarasso 2015 real-correct but References→inline ORPHAN, now cited inline + DOI; Tulving 1985 inline→References orphan, entry added (Crossref 10.1037/h0080017)
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-09-30-cross-mechanism-convergence]]
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T11:27:21+00:00 - refine-draft
 - **Status**: Success

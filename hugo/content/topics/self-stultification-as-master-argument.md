@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-02 17:45:24+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-30 11:40:49+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[self-stultification]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 11:16:40+00:00
-lastmod: 2026-08-02 17:45:24+00:00
+lastmod: 2026-09-30 11:40:49+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -192,7 +192,7 @@ The [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacogniti
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
 - [dualism](/concepts/dualism/) — Multiple converging arguments including self-stultification
 - [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) — The cross-state channel hierarchy whose ketamine row is the same dissociation pattern this article's clinical worked exhibit uses
-- [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/) — Evidence-pattern type the cross-state row instantiates; explains why the ketamine, dissociative-anaesthesia, and contemplative rows together carry more weight than any single row alone, without licensing tier-upgrade
+- [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/) — Evidence-pattern type the ketamine row instantiates; explains why the row gains weight when the same dissociation signature recurs under non-pharmacological perturbations, without licensing tier-upgrade
 - [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/) — The empirical-tier structural analogue: confidence anti-correlated with accuracy in regime R parallels self-stultification's theory-level analogue of confidence anti-correlated with the conditions of its own endorsement
 
 ## References
