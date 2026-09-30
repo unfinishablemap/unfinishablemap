@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-09-25 09:31:00+00:00
+ai_modified: 2026-09-30 15:56:28+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-22 16:17:55+00:00
-lastmod: 2026-09-25 09:31:00+00:00
+lastmod: 2026-09-30 15:56:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ The objection is not fully resolved even so. The gap between laboratory demonstr
 
 A structural constraint sharper than decoherence comes from quantum information theory itself, and the hypothesis owes it a direct answer. Georgiev (2021) argues that the very formalism the structural argument leans on cuts both ways. Whenever a composite quantum state factorizes into a tensor product of subsystem states, those subsystems are separable and dynamically non-interacting—and on the identification of the conscious mind with a non-factorizable quantum state, a tensor-product decomposition would mark not one bound experience but a *split* into independent minds, each confined to its own factor. Crucially, Georgiev shows that quantum coherence within isolated subsystems does not avert this: coherence of an individual subsystem is precisely the regime that preserves separability and non-interaction. Coherence alone, the move the decoherence debate fixates on, would therefore yield separate minds rather than a bound one. The no-go is real, and it constrains the hypothesis at the binding level: holism cannot be assumed merely because quantum states are involved.
 
-The hypothesis's answer is to locate binding in the interaction term rather than in coherence. Georgiev's own analysis supplies the condition: a non-zero interaction Hamiltonian coupling the subsystems is what generates entanglement and sustains the inseparability of the composite state, at the cost of decohering the individual factors. On this reading the requirement for entanglement binding is not isolated coherence but ongoing physical coupling across the candidate substrate—interaction Hamiltonians linking microtubule states across neurons—maintaining a non-factorizable whole that no tensor-product decomposition fits. This reframes what the substrate must deliver: not protected per-subsystem coherence but a persistently coupled, non-separable composite. Whether biological tissue sustains such coupling at the scale phenomenal unity requires is the open empirical question flagged below; the no-go sharpens it rather than settling it, and if the requisite interaction conditions cannot be met in the brain, the separability result stands as a live constraint the hypothesis has not yet discharged.
+The hypothesis's answer is to locate binding in the interaction term rather than in coherence. Georgiev's own analysis supplies the condition: a non-zero interaction Hamiltonian coupling the subsystems is what generates entanglement and sustains the inseparability of the composite state, at the cost of decohering the individual factors. On this reading the requirement for entanglement binding is not isolated coherence but ongoing physical coupling across the candidate substrate—interaction Hamiltonians linking microtubule states across neurons—maintaining a non-factorizable whole that no tensor-product decomposition fits. Which decompositions count as candidates is itself relative to a chosen tensor product structure — the [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/) the hypothesis presupposes rather than settles. This reframes what the substrate must deliver: not protected per-subsystem coherence but a persistently coupled, non-separable composite. Whether biological tissue sustains such coupling at the scale phenomenal unity requires is the open empirical question flagged below; the no-go sharpens it rather than settling it, and if the requisite interaction conditions cannot be met in the brain, the separability result stands as a live constraint the hypothesis has not yet discharged.
 
 ## What the Hypothesis Does Not Explain
 

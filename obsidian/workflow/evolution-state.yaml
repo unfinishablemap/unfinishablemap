@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-30T15:23:09.779969+00:00'
-session_count: 21750
-cycle_position: 14131
+last_updated: '2026-09-30T15:45:42.995136+00:00'
+session_count: 21751
+cycle_position: 14132
 last_runs:
   add-highlight: '2026-09-30T08:25:25.149826+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-09-30T05:02:20.250672+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-09-30T13:58:49.527094+00:00'
+  deep-review: '2026-09-30T15:45:42.995136+00:00'
   embed-videos: '2026-09-30T06:50:57.519602+00:00'
   expand-topic: '2026-09-30T15:17:27.977739+00:00'
   harvest-research-subjects: '2026-09-30T11:07:37.789532+00:00'
@@ -112,7 +112,7 @@ progress:
   voids_written: 111
   positions_written: 23
   research_notes: 622
-  reviews_completed: 7787
+  reviews_completed: 7788
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-09-30'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-30'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-09-30'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-09-30'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/

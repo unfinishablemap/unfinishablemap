@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T15:42:31+00:00
+ai_modified: 2026-09-30T15:56:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T15:56:28+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The quantum factorisation problem — entanglement is tensor-product-structure-relative, so every entanglement-based unity or individuation claim owes a factorisation
+- **Output**: [[concepts/quantum-factorisation-problem]]
+- **Word count**: 3433 (`analyze_length`, concepts soft 2500 / hard 3500, status soft_warning; under the `>=3500` gate with 67 headroom; references ~520 of the total)
+- **Based on research**: yes — [[research/quantum-factorisation-problem-2026-09-25]] (three-level decomposition used as the spine; all 26 quoted spans grep-verified against the note's Key Sources; Cotler et al. paraphrased, not quoted)
+- **Reciprocals**: [[apex/post-decoherence-selection-programme]] piped wikilink over existing L81 text (4993 → 4993, zero added words); [[concepts/entanglement-binding-hypothesis]] one sentence at the "no tensor-product decomposition fits" locus (2994 → 3017); [[concepts/binding-problem]] parenthetical at the non-separability sentence (3191 → 3199)
+- **Gaps carried as hedges**: abstract-only sources marked "(cited from the abstract)" in References; Stapp Zygon metadata cited by DOI only with the unresolved volume/year flagged; Ismael & Schaffer "scattered reflections" not quoted; "no interactionist treatment located as of 2026-09-25"; Georgiev cited only as 2021 per the EBH precedent; Stoica–Soulas uniqueness dispute marked unresolved
+- **Follow-on (not performed)**: P-SC2 Pairing gap should name the quantum factorisation problem as its quantum face — needs a positions-evolve pass with a dated Updated note
+- **Model**: claude-fable-5-1
 ## 2026-09-30T15:42:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/colour-ontology-and-the-secondary-quality-residue]]

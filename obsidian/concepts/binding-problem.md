@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-29T17:22:40+00:00
+ai_modified: 2026-09-30T15:56:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -154,7 +154,7 @@ Quantum entanglement offers something classical physics cannot: genuine holism a
 
 The [[quantum-consciousness|Orch OR hypothesis]] proposes microtubules sustain quantum superpositions that become entangled across neuronal populations, with each collapse event constituting a moment of unified experience. [[stapp-quantum-mind|Stapp's quantum Zeno approach]] proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness participating in determining which configurations become actual through genuinely unified quantum processes.
 
-[[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle—providing the only known physical mechanism that structurally matches phenomenal unity. Process philosophy (Whitehead) understands each quantum collapse event as an "actual occasion"—a moment of experience internally unified rather than assembled from separates (see [[prehension]]).
+[[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle (relative to a chosen factorisation; see the [[quantum-factorisation-problem]])—providing the only known physical mechanism that structurally matches phenomenal unity. Process philosophy (Whitehead) understands each quantum collapse event as an "actual occasion"—a moment of experience internally unified rather than assembled from separates (see [[prehension]]).
 
 ### The Thalamus as Binding Interface
 

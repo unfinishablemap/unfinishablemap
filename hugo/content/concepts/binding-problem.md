@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-29 17:22:40+00:00
+ai_modified: 2026-09-30 15:56:28+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-09-29 17:22:40+00:00
+lastmod: 2026-09-30 15:56:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ Quantum entanglement offers something classical physics cannot: genuine holism a
 
 The [Orch OR hypothesis](/concepts/quantum-consciousness/) proposes microtubules sustain quantum superpositions that become entangled across neuronal populations, with each collapse event constituting a moment of unified experience. [Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/) proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness participating in determining which configurations become actual through genuinely unified quantum processes.
 
-[Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle—providing the only known physical mechanism that structurally matches phenomenal unity. Process philosophy (Whitehead) understands each quantum collapse event as an "actual occasion"—a moment of experience internally unified rather than assembled from separates (see [prehension](/concepts/prehension/)).
+[Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle (relative to a chosen factorisation; see the [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/))—providing the only known physical mechanism that structurally matches phenomenal unity. Process philosophy (Whitehead) understands each quantum collapse event as an "actual occasion"—a moment of experience internally unified rather than assembled from separates (see [prehension](/concepts/prehension/)).
 
 ### The Thalamus as Binding Interface
 
