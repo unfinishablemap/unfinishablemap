@@ -63,6 +63,11 @@ Analyze the content for potential conflicts:
 - Does it dismiss non-physical explanations without argument?
 - Does it treat all philosophical positions as equally valid when tenets take a stance?
 
+#### Check for Over-reach
+Conformity is not the only failure: the 2026-06-19b run passed `concepts/galilean-exclusion` as CLEAN because it conformed to the tenets, while its actual defect was over-reach — a categorical "it is expected" with no discriminator, and anti-dualist sources recruited as witnesses. Flag:
+- A tenet-alignment paragraph (typically "Relation to Site Perspective") that states a datum as *expected*, *predicted* or *supporting* a tenet without naming the rival views that predict it equally. Grade the claim on the ladder in `obsidian/project/evidential-status-discipline.md` §"Compatibility vs. Support at the Rival-Model Interface": **compatible** (the rivals predict it equally — the paragraph may claim no more), **suggestive** (the Map's reading fits better and the paragraph says why), **discriminating** (the paragraph names a feature only the Map's reading entails). The test is the independent-discriminator requirement — anything above *compatible* with no discriminator named is over-reach. Necessity claims about method or history ("structurally inevitable", "built into", "cannot in principle") carry the same burden as empirical claims; do not exempt them as "history".
+- An author on any roster line of `obsidian/project/writing-style.md` §"Don't Conscript Committed Physicalists (the Co-optation Firewall)" — including the phenomenological / process line (Husserl, Whitehead, Varela, Thompson, Frank, Gleiser, Goff) — cited in a tenet paragraph without a one-line statement of the author's actual opposing stance.
+
 ### 3. Classify Issues
 
 For each potential conflict, classify severity:
@@ -70,6 +75,7 @@ For each potential conflict, classify severity:
 - **ERROR**: Direct contradiction of a tenet (e.g., "consciousness is just neurons firing")
 - **WARNING**: Implicit assumption that conflicts (e.g., assumes physicalism without stating it)
 - **NOTE**: Tension that might need clarification (e.g., discusses a position without noting tenet conflict)
+- **Over-reach** findings are always **WARNING**, never ERROR: the page conforms to the tenets, so the first runs of this lens are a survey rather than a fault list. Quote the sentence and state the ladder rung (compatible / suggestive / discriminating) it actually earns.
 
 ### 4. Generate Report
 

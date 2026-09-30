@@ -1,8 +1,8 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-09-17 10:37:47+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-09-30 09:52:37+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: Andy Southgate
 concepts: []
 created: 2026-01-07
@@ -14,7 +14,7 @@ draft: false
 human_modified: 2026-01-07
 last_curated: null
 last_deep_review: 2026-05-17 12:00:00+00:00
-lastmod: 2026-09-17 10:37:47+00:00
+lastmod: 2026-09-30 09:52:37+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'
@@ -214,6 +214,7 @@ A maintained roster of names triggers the firewall. When any of these authors ap
 - **Predictive-processing / active-inference roster:** Anil Seth (controlled hallucination, the beast machine), Andy Clark (predictive processing, the extended mind), Jakob Hohwy (the predictive mind), Karl Friston (the free-energy principle, active inference, Markovian monism). These authors build *physicalist* models of perception and self; their formalism is metaphysically neutral and the Map may adopt its mechanics, but the authors themselves do not endorse — and in Friston's case (Markovian monism) explicitly argue against — the two-sided dualist reading. Cite their findings; engage their conclusions as rivals.
 - **Psychedelic-neuroscience roster:** Robin Carhart-Harris (the entropic brain; REBUS, with Friston). The REBUS and entropic-brain models are physicalist accounts of psychedelic action. The empirical neuroimaging may be cited, but REBUS "maps onto" filter theory only as a *compatible* rival mechanism the evidence does not discriminate in favour of — never as filter theory's confirmation or ally.
 - **Pragmatist / deflationary roster:** John Dewey (transactional experience, warranted assertion — *Logic*, 1938, dismisses interactionism as an insoluble pseudo-problem), Richard Rorty (anti-representationalism; 1965 eliminativism), Huw Price (subject naturalism, global expressivism — *Naturalism Without Mirrors*, 2011; *Expressivism, Pragmatism and Representationalism*, 2013), Cheryl Misak (Peircean convergence account of truth, 1991/2004), Robert Brandom (inferentialism). The characteristic recruitment reads their *method* — inquiry, evaluation, assessment — as needing a phenomenal standpoint they explicitly deny. These authors aim to dissolve the dualism/physicalism dispute rather than take a side in it, so the honest one-line statement must name the dissolution they intend (worked case: [pragmatism](/concepts/pragmatism/)).
+- **Phenomenological / process anti-dualist roster:** Edmund Husserl (transcendental phenomenology — the Galilean diagnosis in the *Crisis*, 1936, §9, indicts psychophysical dualism as a product of the mathematising paradigm, not its correction), Alfred North Whitehead (process monism — refuses "any theory of psychic additions to the object known in perception", *The Concept of Nature*, 1920, ch. II; an interactionist dualism is a bifurcation theory in his sense), Francisco Varela and Evan Thompson (enactivist non-dualism — Thompson's *Mind in Life*, 2007, on the Map's reading, treats resting with the explanatory gap as a brute fact as itself a residual dualism to be overcome), Adam Frank, Marcelo Gleiser and Thompson (*The Blind Spot*, 2024, p. 196, places dualism and panpsychism inside the Blind Spot alongside illusionism), Philip Goff (*Galileo's Error*, 2019, runs the exclusion diagnosis to panpsychism). The characteristic recruitment cites these authors' *diagnosis* — sensible qualities excluded from physics' primitives, the bifurcation of nature, method reified into metaphysics — and lets it stand as support for the Map's *cure*, which every author on the line rejects. Motivating exhibit: [galilean-exclusion](/concepts/galilean-exclusion/), where four of them sat in a Dualism tenet paragraph with no stance sentence and passed three tenet-checks (roster line added 2026-09-30 from the convergent 2026-09-30 outer reviews).
 
 The honest framing is the same as for any named opponent (see *Engaging Opponents* above): state the author's actual framework in natural prose, mark the citation as compatible-with rather than supporting where the evidence does not discriminate, and let the disagreement stand at the framework boundary rather than dressing recruitment as endorsement. The canonical worked fix is [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/), which engages predictive processing and active inference as "the serious computational rival" that "co-opts this article's evidence base most directly" — adopting the mechanics while keeping the hard-problem residue and the authors' opposing metaphysics explicit. The firewall is an accuracy move, not a retraction: the article may still reach its filter or interface conclusion, but it must reach it without conscripting the rival's authors.
 

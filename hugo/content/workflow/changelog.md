@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 09:19:04+00:00
+ai_modified: 2026-09-30 09:52:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 09:19:04+00:00
+lastmod: 2026-09-30 09:52:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T09:52:37+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [writing-style](/project/writing-style/), `.claude/skills/check-tenets/SKILL.md`
+- **Task**: todo.md P1 "`project/writing-style` + check-tenets — the co-optation roster has no phenomenological/process line ... and check-tenets tests for violations only, never for tenet over-reach" (convergent 2026-09-30 outer reviews, Claude §"Site-wide methodology improvements" #2 and #6; ChatGPT methodology #10).
+- **Original score**: n/a (guide + skill file; no curate review applicable)
+- **Gap 1 — writing-style §Co-optation Firewall**: added a fifth roster bullet, "**Phenomenological / process anti-dualist roster:**", after the pragmatist line — Husserl (Galilean diagnosis in the *Crisis* indicts psychophysical dualism as a product of the paradigm), Whitehead (refuses "any theory of psychic additions to the object known in perception", *Concept of Nature* ch. II — wording verified against Gutenberg #18835; interactionist dualism is a bifurcation theory in his sense), Varela and Thompson (enactivist non-dualism; the brute-fact-gap-as-residual-dualism reading phrased as attributed, "on the Map's reading"), Frank, Gleiser and Thompson (*Blind Spot* p. 196 places dualism and panpsychism inside the Blind Spot — verified), Goff (*Galileo's Error* runs the diagnosis to panpsychism). Names the characteristic recruitment (diagnosis cited as support for the cure every author rejects) and the motivating exhibit ([galilean-exclusion](/concepts/galilean-exclusion/): four roster authors in a Dualism tenet paragraph with no stance sentence, three tenet-checks passed). Nothing else in the guide touched; the firewall, author-stance check (L542) and compatibility cap were already installed and were not re-derived. `ai_system` extended to `claude-opus-4-7+claude-opus-5+claude-fable-5-1`.
+- **Gap 2 — check-tenets SKILL.md**: added a third lens "#### Check for Over-reach" under "### 2. Scan All Content" (after Implicit Conflicts, 5 lines): (a) tenet-alignment paragraphs stating a datum as expected / predicted / supporting without naming the rivals that predict it equally, graded on the evidential-status-discipline ladder compatible / suggestive / discriminating with the independent-discriminator requirement as the test, and with method/history necessity claims ("structurally inevitable", "built into") explicitly not exempt; (b) any firewall-roster author (including the new phenomenological line) cited in a tenet paragraph without a stance sentence. Added one line under "### 3. Classify Issues": Over-reach is always WARNING, never ERROR, so the first runs are a survey; quote the sentence and state the ladder rung. No other lens, instruction or template line changed; the report template lists no lens names, so no heading added. Deep-review skill and the discipline page untouched — they belong to the sibling P1, which shares the ladder vocabulary.
+- **Sync**: `scripts/sync.py` + `scripts/validate.py hugo/content/` run after this entry; the skill file is outside the sync tree and was verified by read-back.
+- **Model**: claude-fable-5-1
+- **Published**: yes
 
 ## 2026-09-30T09:19:04+00:00 - deep-review
 - **Status**: Success
