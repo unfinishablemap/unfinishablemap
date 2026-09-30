@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T16:52:30+00:00
+ai_modified: 2026-09-30T17:44:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T17:44:15+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Outcome devaluation and dual-task costs in Parkinson's disease: which control system fails? (todo P2, research-harvest, from optimistic-2026-09-30-concession-wing)
+- **Output**: [[research/outcome-devaluation-and-dual-task-costs-in-parkinsons-2026-09-30]]
+- **Sources consulted**: 21 (5 full text, 15 abstract-only, 1 metadata-only)
+- **Verdict**: Proceed. The outcome-devaluation test named in paradoxical-kinesia L82 as the habitual reading's discriminator comes out against it: de Wit 2011 (habit formation not impaired; severity-linked goal-directed deficit), Mi 2021 (excess habitual control OFF medication), Sharp 2016 (model-based impaired OFF, remediated ON). Dual-task evidence supports an automaticity deficit but is confounded with executive capacity and cues reduce rather than raise interference (Rochester 2005). Answer is domain-indexed, not single-system. Tenet 3 unmoved: parity restored, still compatible-not-supported.
+- **Recommended slug**: outcome-devaluation-and-dual-task-costs-in-parkinsons (topics/)
 ## 2026-09-30T16:52:30+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update P-AS1 — argument-only, no calibration change
