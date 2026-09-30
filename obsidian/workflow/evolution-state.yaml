@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-30T08:05:17.848084+00:00'
-session_count: 21721
+last_updated: '2026-09-30T08:09:29.917538+00:00'
+session_count: 21722
 cycle_position: 14112
 last_runs:
   add-highlight: '2026-09-29T08:10:15.277048+00:00'
@@ -39,10 +39,10 @@ last_runs:
   research-topic: '2026-09-29T11:04:13.336949+00:00'
   research-voids: '2026-09-30T07:31:49.861286+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-09-27T06:37:54.470073+00:00'
+  tune-system: '2026-09-30T08:09:29.917538+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-30T04:17:34.151792+00:00'
+last_git_push: '2026-09-30T08:22:18.149973+00:00'
 last_tweet_date: '2026-09-29'
 content_stats:
   total_files: 297
@@ -112,7 +112,7 @@ progress:
   voids_written: 111
   positions_written: 23
   research_notes: 621
-  reviews_completed: 7779
+  reviews_completed: 7780
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-09-29'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-09-29'
@@ -218,6 +213,11 @@ recent_tasks:
   kind: trigger
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-09-30'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-09-30'
   outcome: success
   kind: trigger
@@ -724,7 +724,14 @@ tune_system_history:
     reason: Still no Tier 1 lever (same four keys absent, grep-verified). Fired 3.3d
       after the 09-24 run. See reviews/system-tune-2026-09-27.
   - date: '2026-09-30'
-    reason: 'Run 2026-09-30 - SIXTEENTH consecutive zero-Tier-1 run (no cadences/overdue_thresholds/locked_settings/weights, grep-verified); fired 3.06d after 09-27 (min-age gate still not enforced on the /loop path). Health: recent_tasks 19/20, failed_tasks empty, critical 0, medium 10; topics 335/360, concepts 335/360, voids 111/115. New since 09-27: 9h Fable usage-limit stall killed an expand-topic fork and delayed two commissions; masked replenish gate fired for real (14 active all blocked, counter 8); Gemini leg 5 cycles without a collected review; coalesce streak 21->27; driver minted 4 check-tenets rows by hand. See reviews/system-tune-2026-09-30.'
+    reason: 'Run 2026-09-30 - SIXTEENTH consecutive zero-Tier-1 run (no cadences/overdue_thresholds/locked_settings/weights,
+      grep-verified); fired 3.06d after 09-27 (min-age gate still not enforced on
+      the /loop path). Health: recent_tasks 19/20, failed_tasks empty, critical 0,
+      medium 10; topics 335/360, concepts 335/360, voids 111/115. New since 09-27:
+      9h Fable usage-limit stall killed an expand-topic fork and delayed two commissions;
+      masked replenish gate fired for real (14 active all blocked, counter 8); Gemini
+      leg 5 cycles without a collected review; coalesce streak 21->27; driver minted
+      4 check-tenets rows by hand. See reviews/system-tune-2026-09-30.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -733,6 +740,13 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-09-30T08:09:14+00:00'
-  last_run_note: 'Run 2026-09-30 - SIXTEENTH consecutive zero-Tier-1 run (no cadences/overdue_thresholds/locked_settings/weights, grep-verified); fired 3.06d after 09-27 (min-age gate still not enforced on the /loop path). Health: recent_tasks 19/20, failed_tasks empty, critical 0, medium 10; topics 335/360, concepts 335/360, voids 111/115. New since 09-27: 9h Fable usage-limit stall killed an expand-topic fork and delayed two commissions; masked replenish gate fired for real (14 active all blocked, counter 8); Gemini leg 5 cycles without a collected review; coalesce streak 21->27; driver minted 4 check-tenets rows by hand. See reviews/system-tune-2026-09-30.'
+  last_run_note: 'Run 2026-09-30 - SIXTEENTH consecutive zero-Tier-1 run (no cadences/overdue_thresholds/locked_settings/weights,
+    grep-verified); fired 3.06d after 09-27 (min-age gate still not enforced on the
+    /loop path). Health: recent_tasks 19/20, failed_tasks empty, critical 0, medium
+    10; topics 335/360, concepts 335/360, voids 111/115. New since 09-27: 9h Fable
+    usage-limit stall killed an expand-topic fork and delayed two commissions; masked
+    replenish gate fired for real (14 active all blocked, counter 8); Gemini leg 5
+    cycles without a collected review; coalesce streak 21->27; driver minted 4 check-tenets
+    rows by hand. See reviews/system-tune-2026-09-30.'
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-09-27.md
