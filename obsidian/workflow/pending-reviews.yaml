@@ -223,3 +223,34 @@
   subject_articles:
   - concepts/galilean-exclusion.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/990a1184-eee9-40bd-86fe-de1fc1788a71
+  commissioned_at: '2026-09-30T04:40:16.786908+00:00'
+  prompt_summary: 'Audit concepts/galilean-exclusion: Galileo reading, citations,
+    sieve argument'
+  target_filename: outer-review-2026-09-30-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile external referee for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy site. Audit one concept article: https://unfinishablemap.org/concepts/galilean-exclusion/
+    (last modified 2026-09-21; search indexes lag, so check https://unfinishablemap.org/workflow/changelog/
+    for recent edits). The article claims that Galileo''s primary/secondary quality
+    distinction in The Assayer was a methodological decision, not a metaphysical discovery;
+    that it made the hard problem structurally inevitable; that a science built on
+    the exclusion faces a structural obstacle when phenomenal quality becomes its
+    target (the sieve analogy); that functionalism admits experience only as third-person
+    data; and that Galileo relocates the excluded residue whereas ontic structural
+    realism, on its strongest reading, abolishes it. It cites Husserl''s Crisis, Whitehead''s
+    bifurcation of nature, Thompson''s Mind in Life, The Blind Spot (Frank, Gleiser
+    and Thompson 2024) and Chalmers 1996. Check the Galileo reading against the primary
+    text, verify each citation and its attached claim, test the sieve analogy for
+    equivocation between method and metaphysics, and judge whether the tenet-alignment
+    section brackets objections protectively. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit galilean-exclusion
+  subject_articles:
+  - concepts/galilean-exclusion.md
+  subject_source: reuse:pending-reviews:outer-review-2026-09-30-chatgpt-5-6-sol-pro.md
