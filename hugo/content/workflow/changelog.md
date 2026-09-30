@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 15:15:51+00:00
+ai_modified: 2026-09-30 15:42:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 15:15:51+00:00
+lastmod: 2026-09-30 15:42:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T15:42:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [colour-ontology-and-the-secondary-quality-residue](/topics/colour-ontology-and-the-secondary-quality-residue/)
+- **Word count**: 2795 → 2888 (+93; `analyze_length`, topics soft 3000 / hard 4000, status ok)
+- **Critical issues addressed**: 3 — SEP subjectivism-split cite moved §2.4 → §1.5 (located raw under the §1.5 body header); Chalmers "neutral on the metaphysics of phenomenal character" narrowed to the preprint's actual neutrality (character-vs-content priority) plus the type-B analogue it allows; "A physicalist critic" (read as a critic who is a physicalist) → "A critic of reductive physicalism" for Pautz
+- **Medium issues addressed**: 6 — method/history register labels installed (L34 "built around" → "paradigm secondary quality"; L52 and L60 prefixed "On the Map's reconstruction/reading"; Galileo-as-eliminativist now cited to Maund 2024 §1.1); McGinn stance clause ("a convert from his own earlier dispositionalism", SEP §2.5); Pautz 2006 paraphrase replaced by the OpenAlex-deposited abstract quotation with stance stated inline
+- **Enhancements made**: 0 new links (all 11 outbound wikilinks, 6 in-page anchors and both tenets block anchors resolve; 5 inbound seams already present, none touched; galilean-exclusion left at 3497/3500)
+- **Citation ledger**: 17 external entries web-verified this run — SEP Color raw HTML (rev. 9 Aug 2024), SEP Bolton raw HTML, consc.net eden.pdf via pdftotext (8/8 Chalmers spans verbatim, fn. 4 and fn. 12 numbering confirmed), Crossref records for all 12 DOIs (all real-correct), Crossref abstracts verbatim for Byrne & Hilbert 2003, Cohen 2009, Campbell 1993, Gert 2017, Kuehni 2004; OpenAlex abstract for Pautz 2006. Zero quotations from metadata-only monographs (Hacker, Hardin, Maund 1995); Johnston Revelation, Cohen p. 24 and Hacker solidity/liquidity remain paraphrases attributed through Maund. Superlative helper: 0. Inline ↔ References: no orphans either way.
+- **Tenet tier**: compatible only (lead L36 and Relation to Site Perspective L92 both name the physicalist-about-experience and primitivist rivals that predict the same sorting; no discriminator claimed). Over-reach lens: WARNING-free.
+- **Reasoning modes**: Campbell/primitivism — Mixed (shared premise conceded, three in-framework costs, residue declared open); Byrne & Hilbert/physicalist theory of experience — Mode Three (sorting takes no side); Cohen's phenomenology reply — Mode Three. No label leakage.
+- **Deferred**: SEP "hybrid" category not put through the sorting question (needs a named proponent verified raw); Chirimuuta absent (chapter DOIs only); Chalmers OUP page locators unestablished (References discloses preprint).
+- **Output**: [deep-review-2026-09-30-colour-ontology-and-the-secondary-quality-residue](/reviews/deep-review-2026-09-30-colour-ontology-and-the-secondary-quality-residue/)
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T15:15:51+00:00 - expand-topic
 - **Status**: Success
