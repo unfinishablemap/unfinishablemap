@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-09-30 08:48:12+00:00
+ai_modified: 2026-09-30 08:54:16+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 09:10:46+00:00
-lastmod: 2026-09-30 08:48:12+00:00
+lastmod: 2026-09-30 08:54:16+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -63,7 +63,7 @@ The claim is best put as a conditional rather than an image. Galilean explanatio
 
 The [explanatory-gap](/concepts/explanatory-gap/) between neural description and felt experience gains sharper diagnosis in this light: more than an empirical problem awaiting research, it reflects a framework of explanation assembled from primitives chosen to leave out the phenomenon now under investigation. Husserl made this argument in *The Crisis of European Sciences* (1936, §9), naming Galileo's "mathematization of nature" — mathematical idealisations substituted for the concrete world of lived experience — and arguing (§9h–i) that the life-world from which the idealisations were built becomes their forgotten meaning-fundament. Husserl's own conclusion runs the other way from the Map's: his remedy is transcendental phenomenology, his subject is the life-world as ground of meaning rather than any neural gap, and a psychophysical dualism of mind set over against mathematised nature is for him a product of the Galilean paradigm, not its correction. Thompson builds on Husserl's critique of objectivism in *Mind in Life* (2007), and with Frank and Gleiser (2024) argues that modern science has come to treat mathematical-physical description as if it exhausted what is objectively real (a paraphrase of a theme running through both books, not a quotation; the Galileo-specific framing is chiefly the later book's). Everything excluded from that description — including experience — then becomes either reducible to physics or scientifically invisible. The *Blind Spot* authors reject the Map's conclusion too: they place naturalistic dualism and panpsychism — "injecting a dualist or panpsychist 'extra ingredient' into an otherwise unchanged and preserved blind-spot worldview" — and illusionism alike within the ambit of the Blind Spot (Frank, Gleiser & Thompson, 2024, p. 196). Their target is the metaphysics reified onto scientific abstraction, not scientific method, which their constructive programme presupposes can be reformed to keep experience in view; their non-dualism is a rival to the Map's reading, not a witness for it.
 
-Whitehead identified the same structural problem from a different angle, naming it the "bifurcation of nature" in *The Concept of Nature* (1920, ch. II, "Theories of the Bifurcation of Nature") — the splitting of reality into the scientifically respectable (mathematical structure) and the dismissed (experienced quality), which he took for an artefact of the Galilean method rather than a discovery, and which [process-philosophy](/concepts/process-philosophy/) was designed to overcome. His remedy is the opposite of a dualism: he refuses "any theory of psychic additions to nature" — greenness furnished by the perceiving mind — because "all our sense-perceptions are in the same boat, and must be treated on the same principle" (Whitehead, 1920, ch. II). A view that relocates quality into a mind is, in his terms, a bifurcation theory; the Map cites him for the diagnosis and counts his process monism among the rivals to its cure.
+Whitehead identified the same structural problem from a different angle, naming it the "bifurcation of nature" in *The Concept of Nature* (1920, ch. II, "Theories of the Bifurcation of Nature") — the splitting of reality into the scientifically respectable (mathematical structure) and the dismissed (experienced quality), which he took for an artefact of the Galilean method rather than a discovery, and which [process-philosophy](/concepts/process-philosophy/) was designed to overcome. His remedy is the opposite of a dualism: he refuses "any theory of psychic additions to the object known in perception" — greenness furnished by the perceiving mind — because "all our sense-perceptions are in the same boat, and must be treated on the same principle" (Whitehead, 1920, ch. II). A view that relocates quality into a mind is, in his terms, a bifurcation theory; the Map cites him for the diagnosis and counts his process monism among the rivals to its cure.
 
 ## Not a Discovery but a Posit
 

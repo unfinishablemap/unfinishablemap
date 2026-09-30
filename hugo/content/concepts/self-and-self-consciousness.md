@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-09-28 10:22:25+00:00
+ai_modified: 2026-09-30 08:54:16+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-09-28 10:22:25+00:00
+lastmod: 2026-09-30 08:54:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,7 +182,7 @@ What persists is not a property or pattern but the bare particular whose for-me-
 
 ## Meta-Hard Problem, Binding, and Testability
 
-Self-consciousness generates a **meta-hard problem**: the [hard problem](/topics/hard-problem-of-consciousness/) asks why physical processes produce experience; self-consciousness asks why we are conscious *of being conscious*. The [Galilean exclusion](/concepts/galilean-exclusion/) makes this stark — a methodology designed to work without subjectivity faces structural impossibility when the target is subjectivity aware of itself.
+Self-consciousness generates a **meta-hard problem**: the [hard problem](/topics/hard-problem-of-consciousness/) asks why physical processes produce experience; self-consciousness asks why we are conscious *of being conscious*. The [Galilean exclusion](/concepts/galilean-exclusion/) sharpens this — a method that leaves subjectivity out is, if experience outruns structure and function, incomplete for subjectivity aware of itself.
 
 The [binding problem](/concepts/binding-problem/) asks how unified experience arises from distributed neural processing. Phenomenal unity and first-person perspective may be two aspects of the same phenomenon — every conscious experience is unified *for* someone. If the brain does not produce consciousness, the problem inverts: consciousness has intrinsic unity, and the brain provides informational content it binds ([minimal consciousness](/concepts/minimal-consciousness/)).
 

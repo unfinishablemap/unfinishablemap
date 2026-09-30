@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-09-28
 human_modified:
-ai_modified: 2026-09-28T10:22:25+00:00
+ai_modified: 2026-09-30T08:54:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -177,7 +177,7 @@ What persists is not a property or pattern but the bare particular whose for-me-
 
 ## Meta-Hard Problem, Binding, and Testability
 
-Self-consciousness generates a **meta-hard problem**: the [[hard-problem-of-consciousness|hard problem]] asks why physical processes produce experience; self-consciousness asks why we are conscious *of being conscious*. The [[galilean-exclusion|Galilean exclusion]] makes this stark — a methodology designed to work without subjectivity faces structural impossibility when the target is subjectivity aware of itself.
+Self-consciousness generates a **meta-hard problem**: the [[hard-problem-of-consciousness|hard problem]] asks why physical processes produce experience; self-consciousness asks why we are conscious *of being conscious*. The [[galilean-exclusion|Galilean exclusion]] sharpens this — a method that leaves subjectivity out is, if experience outruns structure and function, incomplete for subjectivity aware of itself.
 
 The [[binding-problem|binding problem]] asks how unified experience arises from distributed neural processing. Phenomenal unity and first-person perspective may be two aspects of the same phenomenon — every conscious experience is unified *for* someone. If the brain does not produce consciousness, the problem inverts: consciousness has intrinsic unity, and the brain provides informational content it binds ([[minimal-consciousness|minimal consciousness]]).
 

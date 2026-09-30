@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T08:48:12+00:00
+ai_modified: 2026-09-30T08:55:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-30T08:55:16+00:00 - deep-review
+- **Status**: Success (cross-review pass; cycle_pick maps cross-review → deep-review)
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Task**: todo P1 (L62) — bring the pages that inherit galilean-exclusion's contested reading to the REVISED register (after 6930c9c8 and a2eab3ef). Four loci, all quoted live before editing; plus one quote-fidelity splice found in the target while re-verifying the Whitehead quotation.
+- **Changes**: (a) `concepts/self-and-self-consciousness` L180 "makes this stark — a methodology designed to work without subjectivity faces structural impossibility when the target is subjectivity aware of itself" → "sharpens this — a method that leaves subjectivity out is, if experience outruns structure and function, incomplete for subjectivity aware of itself" (same-length swap; explicit conditional inherits the target's §"The claim is best put as a conditional"); (b) `topics/phenomenal-authority-and-first-person-evidence` L185 "The difficulty traces ultimately to the Galilean exclusion" → "The Galilean exclusion shapes the difficulty" (−2; L189 heterophenomenology untouched per the task's stale-charge note); (c) `research/first-person-third-person-methodology-2026-01-23` — Chalmers zombie entry, Neurophenomenology entry, Methodological Dualism debate and Article Direction 2 reworded compatible-with / cite-as-rival (Chalmers's naturalistic dualism leans epiphenomenalist, treats interactionism warily, cited for the modal premise; Varela enactivist non-dualist, "mutual constraint" relates two descriptions of one embodied process), dated bracketed correction note added under Executive Summary; the same-file sibling grep surfaced the Chalmers zombie entry ("parallels Map's minimal quantum interaction"), not in the task's list, and it was corrected in the same family; (d) `concepts/process-philosophy` — one sentence under "Panpsychism vs. Interactionist Dualism": Whitehead's bifurcation critique refuses "any theory of psychic additions to the object known in perception" and would class interactionist dualism as a bifurcation theory; [[galilean-exclusion]] linked (first link from this page); *The Concept of Nature* (1920) added to References; (e) `concepts/galilean-exclusion` L62 — the quotation "any theory of psychic additions to nature" is a splice: Gutenberg #18835 ch. II reads "a refusal to countenance any theory of psychic additions to the object known in perception" (L1080–81); "psychic additions to nature as thus known" (L1444) is Whitehead's statement of the theory he rejects. Corrected to the verbatim form. Declined per the task: `concepts/philosophy-of-science-under-dualism` (no Galilean text).
+- **Gutenberg verification**: re-grepped the scratchpad copy of #18835 myself — 8 hits for "psychic additions"; "any theory of psychic additions to the object known in perception" verbatim across L1080–81; "all our sense-perceptions are in the same boat, and must be treated on the same principle" verbatim at L1499–1501; "psychic additions to nature" occurs only as "psychic additions to nature as thus known" (L1444).
+- **Length** (`tools.curate.length.analyze_length`): self-and-self-consciousness 3538 → 3538 (hard_warning, unchanged); phenomenal-authority 4522 → 4520 (hard_warning); research note 1378 → 1596; process-philosophy 2210 → 2279; galilean-exclusion 3485 → 3489 (soft_warning, under the 3500 hard gate).
+- **Not stamped**: `last_deep_review` on any file — this is a cross-review, archived as `cross-review-*` so it does not enter the deep-review convergence-damping count.
+- **Output**: [[reviews/cross-review-2026-09-30-galilean-exclusion-dependents]]
+- **Model**: claude-fable-5-1
+- **Published**: yes
 
 ## 2026-09-30T08:48:12+00:00 - refine-draft
 - **Status**: Success

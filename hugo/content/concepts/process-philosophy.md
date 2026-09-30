@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-07-17 09:32:48+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-30 08:54:16+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
 - '[[temporal-consciousness]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 09:32:48+00:00
-lastmod: 2026-07-17 09:32:48+00:00
+lastmod: 2026-09-30 08:54:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ Despite affinities, process philosophy sits uneasily with some of the Map's comm
 
 ### Panpsychism vs. Interactionist Dualism
 
-The Map prefers interactionist dualism: consciousness is distinct from matter but interacts with it via quantum indeterminacy. Process philosophy dissolves this distinction—experience *is* the intrinsic nature of actuality, not a separate category interacting with it.
+The Map prefers interactionist dualism: consciousness is distinct from matter but interacts with it via quantum indeterminacy. Process philosophy dissolves this distinction—experience *is* the intrinsic nature of actuality, not a separate category interacting with it. Whitehead's own verdict is explicit: his critique of the [bifurcation of nature](/concepts/galilean-exclusion/) in *The Concept of Nature* (1920, ch. II) refuses "any theory of psychic additions to the object known in perception", and a view that relocates experienced quality into a distinct mind interacting with matter is, in his terms, a bifurcation theory — interactionist dualism included.
 
 This matters practically. The Map's framework explains why rocks lack experience (no interface for consciousness to engage with matter) while brains have it (quantum processes provide that interface). Process philosophy must attribute some experience to rocks—however primitive—which many find counterintuitive.
 
@@ -200,5 +200,6 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 1. Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
 1. Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.
 1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Whitehead, A. N. (1920). *The Concept of Nature*. Cambridge University Press.
 1. Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
 1. Whitehead, A. N. (1933). *Adventures of Ideas*. Macmillan.

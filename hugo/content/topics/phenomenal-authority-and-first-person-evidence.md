@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-24 23:18:30+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-09-30 08:54:16+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/phenomenal-conservatism-and-introspective-evidence/
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:17:48+00:00
-lastmod: 2026-09-24 23:18:30+00:00
+lastmod: 2026-09-30 08:54:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -185,7 +185,7 @@ Rorty (1970) identified incorrigibility as "the mark of the mental." From this h
 
 Most philosophers try to occupy a middle ground — granting real phenomenal authority without dualist commitments. It is tempting to argue that if layer-1 experience is genuinely incorrigible, then phenomenal states possess an epistemic property no physical state has, since physical descriptions are always revisable in principle while phenomenal existence is not. But that inference helps itself to a step it has not earned. An identity theorist can grant that a physical state is known incorrigibly under a first-person mode of presentation while its neurological description stays revisable under another — one referent under two modes of access — and epistemic asymmetry between the modes is not automatically an ontological difference between their referents. Treating incorrigibility as by itself forcing dualism would be an unsupported foundational move. What the moderate actually owes is narrower: an account of *why* a first-person mode confers incorrigibility at all, when no third-person mode of any physical state does. The Map presses that explanatory demand — marking the residual disagreement honestly as a boundary between frameworks — rather than reading ontology off epistemology.
 
-Eliminativism faces [self-stultification](/concepts/self-stultification/). A theorist arguing that phenomenal reports do not reliably indicate phenomenal states must trust their own phenomenal access to the evidential landscape while denying that such access is trustworthy in general — a special case of the [argument-from-reason](/topics/argument-from-reason/). The difficulty traces ultimately to the [Galilean exclusion](/concepts/galilean-exclusion/): consciousness *is* how things seem, and phenomenal reports describe features that the Galilean method deliberately set aside.
+Eliminativism faces [self-stultification](/concepts/self-stultification/). A theorist arguing that phenomenal reports do not reliably indicate phenomenal states must trust their own phenomenal access to the evidential landscape while denying that such access is trustworthy in general — a special case of the [argument-from-reason](/topics/argument-from-reason/). The [Galilean exclusion](/concepts/galilean-exclusion/) shapes the difficulty: consciousness *is* how things seem, and phenomenal reports describe features that the Galilean method deliberately set aside.
 
 ## Methodological Implications
 

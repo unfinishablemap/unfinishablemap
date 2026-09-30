@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-29 17:35:00+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-09-30 08:54:16+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-fable-5-1
 concepts: []
 created: 2026-01-23
 date: &id001 2026-01-23
 draft: false
-lastmod: 2026-01-29 17:35:00+00:00
+lastmod: 2026-09-30 08:54:16+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - First-Person vs Third-Person Methodology in Consciousness
@@ -20,6 +20,8 @@ title: Research Notes - First-Person vs Third-Person Methodology in Consciousnes
 **Key search terms**: first-person/third-person methodology, heterophenomenology, neurophenomenology, explanatory gap, epistemic asymmetry
 
 ## Executive Summary
+
+> *[Correction, 2026-09-30 — reworded in place; original wording in git history.]* Four entries below (the Chalmers zombie entry, the Neurophenomenology entry, the Methodological Dualism debate, and Article Direction 2) conscripted authors for a conclusion they reject. Chalmers does not endorse collapse-interactionism: the naturalistic dualism of *The Conscious Mind* leans epiphenomenalist and treats interactionism warily, so he is cited for the modal premise, not for the Map's causal picture. Varela was an enactivist non-dualist: "mutual constraint" relates two descriptions of one embodied process, not two interacting substances. Both are now cited as compatible-with / rival per the co-optation firewall (`project/writing-style` §Don't Conscript Committed Physicalists). Do not carry "exemplifies", "parallels interactionist dualism" or "Supports Bidirectional Interaction" into new articles.
 
 The first-person vs. third-person methodological divide in consciousness science concerns whether objective third-person methods can capture subjective first-person phenomenology. This tension is central to consciousness studies because consciousness itself has an irreducibly subjective "what it's like" character (Nagel). Three major methodological approaches have emerged: (1) heterophenomenology (Dennett)—treating first-person reports as third-person data while remaining neutral about their ontological status; (2) neurophenomenology (Varela)—integrating rigorous first-person phenomenological investigation with neuroscience through "mutual constraint"; and (3) second-person methods—using empathic intersubjectivity to bridge first- and third-person perspectives. The debate connects directly to the explanatory gap (Levine), the hard problem (Chalmers), and whether methodological limitations reflect genuine ontological gaps. Strong support for the Dualism tenet—phenomenology resists objective reduction not due to scientific immaturity but due to the epistemic asymmetry between subjective experience and objective description.
 
@@ -54,7 +56,7 @@ The first-person vs. third-person methodological divide in consciousness science
 ### Zombie Arguments and Hard Problem (Chalmers)
 - **Source**: Chalmers (1995); SEP "Zombies"
 - **Core idea**: Zombie conceivability reveals logical gap between physical facts (P) and phenomenal facts (Q). Consciousness cannot be logically supervenient—"a logically supervenient property can be detected straightforwardly on the basis of external evidence." Proposes "naturalistic dualism" with laws beyond current sciences.
-- **Tenet alignment**: Strongly aligns with Dualism—parallels Map's minimal quantum interaction
+- **Tenet alignment**: Compatible with Dualism on the modal premise only. Chalmers's naturalistic dualism leans epiphenomenalist and treats interactionism warily; it does not endorse the Map's minimal quantum interaction, which is a separate interactionist filling of the space his laws leave open.
 
 ### Introspection Reliability
 - **Source**: SEP "Introspection"; Routledge Encyclopedia
@@ -67,7 +69,7 @@ The first-person vs. third-person methodological divide in consciousness science
 First-person reports as third-person data—what subjects say establishes a "heterophenomenological world" studied objectively, without committing to phenomenology's ontological reality. **Tenet relation**: Conflicts with Dualism. The Map can use this instrumentally while rejecting eliminativist implications.
 
 ### Neurophenomenology (Varela)
-Rigorous first-person phenomenology integrated with neuroscience through "mutual constraint"—each domain constrains and informs the other. Meditation traditions provide disciplined first-person methodologies. **Tenet relation**: Strongly aligns with Dualism and Bidirectional Interaction. The mutual constraint framework parallels interactionist dualism—methodological bridge without reduction.
+Rigorous first-person phenomenology integrated with neuroscience through "mutual constraint"—each domain constrains and informs the other. Meditation traditions provide disciplined first-person methodologies. **Tenet relation**: Cite as rival, not ally. Varela's programme is enactivist and non-dualist; "mutual constraint" is a methodological bridge between two descriptions of one embodied process, not a causal relation between two substances. Compatible with a dualist first-person channel; supplies no support of its own for Dualism or Bidirectional Interaction.
 
 ### Second-Person Methods (Depraz)
 Empathic intersubjectivity bridges first/third perspectives through interview techniques and embodied empathy. Third-person protocols depend on second-person validations. **Tenet relation**: Neutral to supportive. Acknowledges phenomenology's irreducibility while providing practical bridges.
@@ -90,7 +92,7 @@ Introspection is unreliable: historical failures (Wundt, Titchener), self-observ
 **Sides**: Levine (agnostic): gap may be in our understanding, not nature. Chalmers (dualist): gap in understanding reflects gap in nature. **Map's position**: Epistemic gap provides strong abductive evidence for ontological gap, given decades of failed reductive attempts.
 
 ### Methodological Dualism vs. Ontological Dualism
-**Sides**: Functionalists: need both methods, doesn't entail ontological dualism. Dualists: methodological asymmetry reflects ontological asymmetry. **Status**: Chalmers's "naturalistic dualism" provides middle ground—new natural laws for consciousness-physical interaction. The Map's minimal quantum interaction exemplifies this.
+**Sides**: Functionalists: need both methods, doesn't entail ontological dualism. Dualists: methodological asymmetry reflects ontological asymmetry. **Status**: Chalmers's "naturalistic dualism" provides middle ground—new psychophysical laws beyond current science. The Map's minimal quantum interaction is one interactionist filling of that space, not Chalmers's own: his position leans epiphenomenalist and treats interactionism warily.
 
 ## Historical Timeline
 
@@ -108,7 +110,7 @@ Introspection is unreliable: historical failures (Wundt, Titchener), self-observ
 
 1. **Methodological Asymmetry as Evidence for Ontological Asymmetry**: The persistent need for dual methodologies is best explained by ontological dualism. Irreducibility of first-person methods reflects irreducibility of phenomenal consciousness. Supports Dualism tenet.
 
-2. **Neurophenomenology as Interactionist Framework**: Varela's "mutual constraint" parallels interactionist dualism—phenomenology constrains neuroscience, neuroscience constrains phenomenology. Avoids reductionism and epiphenomenalism. Supports Bidirectional Interaction tenet.
+2. **Neurophenomenology as a Rival Methodology**: Varela's "mutual constraint"—phenomenology constrains neuroscience, neuroscience constrains phenomenology—is an enactivist, non-dualist programme. Cite it as a rival that shares the first-person channel and say what a dualist reading adds; it does not support the Bidirectional Interaction tenet on its own.
 
 3. **The Epistemic-Ontological Gap Inference**: Defend abductive inference from epistemic to ontological gap. Arguments: (a) decades of failed reductions, (b) zombie conceivability shows logical gap, (c) Occam's Razor fails when confronted with irreducible phenomenology. Supports Dualism and Occam's Razor Has Limits tenets.
 
