@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-30
-ai_modified: 2026-09-30 19:39:55+00:00
+ai_modified: 2026-09-30 20:11:18+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Entanglement is defined only relative to a tensor-product factorisa
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-30 19:39:55+00:00
+lastmod: 2026-09-30 20:11:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,9 +69,9 @@ Whether any of this yields a *unique* factorisation is disputed and, as of 2025�
 
 ## Levels 2 and 3: Boundary and Exclusion {#levels-2-3}
 
-The only worked rule for Levels 2 and 3 in the consciousness literature is [IIT](/concepts/integrated-information-theory/)'s exclusion postulate. IIT 4.0 (Albantakis et al. 2023) states that "the exclusion postulate requires that the substrate of consciousness must be constituted of a definite set of units, neither less nor more", and selects among overlapping candidates by maximal existence: "the one that exists is the one that exists the most." This is a genuine answer at Levels 2 and 3, and it is the benchmark any pairing law must match or beat. But IIT's candidates are subsets of a *pre-given* set of units. The unit decomposition is an input, which is Level 1 again — the gap Barrett and Mediano (2019) press in arguing that Φ is not well-defined for general physical systems, and that Barrett (2014) tried to close by formulating IIT over fundamental fields. The quantum generalisation inherits the same given: Zanardi, Tomka and Campos Venuti's (2018) quantum IIT is defined on interacting networks of quantum systems, and Chalmers and McQueen (2022) describe it as covering "networks of finite-dimensional non-relativistic qudits." So the most developed consciousness-collapse model, which must say "which systems can collapse quantum wave functions", adopts a fixed qudit network and never raises the factorisation question as such. Kremnizer and Ranchin's (2015) integrated-information-induced collapse has the same inherited status. (That the author who showed the TPS is observable-relative built quantum IIT on a fixed qudit network is this page's observation, not Zanardi's claim.)
+The only worked rule for Levels 2 and 3 in the consciousness literature is [IIT](/concepts/integrated-information-theory/)'s exclusion postulate. IIT 4.0 (Albantakis et al. 2023) states that "the exclusion postulate requires that the substrate of consciousness must be constituted of a definite set of units, neither less nor more", and selects among overlapping candidates by maximal existence: "the one that exists is the one that exists the most." This is a genuine answer at Levels 2 and 3, the benchmark any pairing law must match or beat. But IIT's candidates are subsets of a *pre-given* set of units. The unit decomposition is an input, Level 1 again — the gap Barrett and Mediano (2019) press in arguing that Φ is not well-defined for general physical systems, and that Barrett (2014) tried to close by formulating IIT over fundamental fields. The quantum generalisation inherits the same given: Zanardi, Tomka and Campos Venuti's (2018) quantum IIT is defined on interacting networks of quantum systems, and Chalmers and McQueen (2022) describe it as covering "networks of finite-dimensional non-relativistic qudits." So the most developed consciousness-collapse model, which must say "which systems can collapse quantum wave functions", takes its subsystems and partitions from a fixed qudit network, whose factorisation is taken as given. Kremnizer and Ranchin's (2015) integrated-information-induced collapse has the same inherited status. (That Zanardi, who showed the TPS is observable-relative, built quantum IIT on a fixed qudit network is this page's observation, not his.)
 
-Three further positions mark out the Level 3 terrain. Gambini and Pullin (2025) propose, from a panprotopsychist starting point, that entanglement *is* the subject-summing solution: "In entangled systems, the properties of individual parts disappear, giving rise to an exponential number of emergent properties and states." On their abstracts, they are the clearest published instance of the move this page audits, and the abstracts do not mention factorisation or nesting; whether the full texts do is unchecked. Ismael and Schaffer (2020) take quantum holism to its metaphysical limit: if nonseparability grounds unity, the maximally unified thing is the cosmos, and the view drifts toward priority monism — the cosmopsychist pressure [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) already names. Georgiev (2021), as [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) already cites him, reads a tensor-product factorisation of the mind's state as a *split* into independent minds. That is a partial Level 3 rule, and a useful one, but it assumes a given TPS and so inherits Level 1 whole. Stapp's quantum interactive dualism answers Level 2 by stipulation: the process acts on the agent's brain, or some part of it, and no factorisation criterion is offered. That stipulation is the Map's own inheritance.
+Three further positions mark out the Level 3 terrain. Gambini and Pullin (2025) propose, from a panprotopsychist starting point, that entanglement *is* the subject-summing solution: "In entangled systems, the properties of individual parts disappear, giving rise to an exponential number of emergent properties and states." On their abstracts, they are the clearest published instance of the move this page audits, and the abstracts do not mention factorisation or nesting; whether the full texts do is unchecked. Ismael and Schaffer (2020) take quantum holism to its metaphysical limit: if nonseparability grounds unity, the maximally unified thing is the cosmos, and the view drifts toward priority monism — the cosmopsychist pressure [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) already names. Georgiev (2021), as [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) already cites him, reads a tensor-product factorisation of the mind's state as a *split* into independent minds. That is a partial Level 3 rule, and a useful one, but it assumes a given TPS and so inherits Level 1 whole. Quantum interactive dualism, as the Map reads Stapp, answers Level 2 by stipulation: the process acts on some part of the agent's brain, and no factorisation criterion is offered. That stipulation is the Map's own inheritance.
 
 ## The Map's Exposure {#map-exposure}
 
@@ -105,14 +105,14 @@ The page's status is a booked constraint: it adds no evidential support to any t
 
 ## Further Reading
 
-- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — the Map's fullest statement of entanglement-based unity
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — the Map's fullest entanglement-unity statement
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — the interaction-Hamiltonian reply to Georgiev
-- [subject-census](/positions/subject-census/) — [P-SC2](/positions/subject-census/#p-sc2), the pairing law the Map owes; this page is its quantum face
-- [boundary-and-projection](/voids/boundary-and-projection/) — the boundary problem, the classical form of Level 2
-- [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — the einselected menu whose factorisation dependence is booked here
-- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — the indexical argument exposed to the Tenet 4 parity risk
-- [combination-problem](/concepts/combination-problem/) — the Level 3 problem in its panpsychist form
-- [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/) — einselection and redundancy as the Map uses them
+- [subject-census](/positions/subject-census/) — [P-SC2](/positions/subject-census/#p-sc2), the pairing law; this page is its quantum face
+- [boundary-and-projection](/voids/boundary-and-projection/) — the classical form of Level 2
+- [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — the einselected menu booked here
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — the indexical argument under Tenet 4 parity
+- [combination-problem](/concepts/combination-problem/) — Level 3, panpsychist form
+- [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/) — einselection and redundancy
 
 ## References
 
@@ -132,11 +132,11 @@ The page's status is a booked constraint: it adds no evidential support to any t
 14. Barrett, A. B. (2014). An integration of integrated information theory with fundamental physics. *Frontiers in Psychology*, 5, 63. https://doi.org/10.3389/fpsyg.2014.00063 (cited from the abstract)
 15. Barrett, A. B., & Mediano, P. A. M. (2019). The Phi measure of integrated information is not well-defined for general physical systems. *Journal of Consciousness Studies*, 26(1–2), 11–20. arXiv:1902.04321 (pages from the arXiv journal reference)
 16. Zanardi, P., Tomka, M., & Campos Venuti, L. (2018). Towards quantum integrated information theory. arXiv:1806.01421 (preprint)
-17. Chalmers, D. J., & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In *Consciousness and Quantum Mechanics* (pp. 11–63). Oxford University Press. https://doi.org/10.1093/oso/9780197501665.003.0002
+17. Chalmers, D. J., & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In *Consciousness and Quantum Mechanics* (pp. 11–63). Oxford University Press. https://doi.org/10.1093/oso/9780197501665.003.0002 (arXiv:2105.02314 searched 2026-09-30: "subsystem" and "partition" mean subsets and cuts of given elements; "factori-" and "decomposition" absent; one "tensor product", of probability distributions)
 18. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889–899. https://doi.org/10.1007/s10701-015-9905-6
 19. Gambini, R., & Pullin, J. (2025). Quantum panprotopsychism and the structure and subject-summing combination problem. *Journal of Consciousness Studies*, 32(7), 7–32. https://doi.org/10.53765/20512201.32.7.007 (cited from the abstract; the quoted sentence is from the sequel, arXiv:2505.11530)
 20. Ismael, J., & Schaffer, J. (2020). Quantum holism: Nonseparability as common ground. *Synthese*, 197(10), 4131–4160. https://doi.org/10.1007/s11229-016-1201-2 (cited from the abstract)
 21. Georgiev, D. D. (2021). Quantum information in neural systems. *Symmetry*, 13(5), 773. https://doi.org/10.3390/sym13050773
-22. Stapp, H. P. Quantum interactive dualism: An alternative to materialism. *Zygon*. https://doi.org/10.1111/j.1467-9744.2005.00762.x (volume, issue, year and page range unresolved between the DOI stem and the Crossref record; cited by DOI only)
+22. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (page range unresolved; Crossref and OpenAlex give 41(3), 2006; Zygon unreachable 2026-09-30; the same-titled *Journal of Consciousness Studies* 12 (2005) is separate)
 23. Southgate, A. & Oquatre-six, C. (2026-01-21). Quantum Holism and Phenomenal Unity. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/
 24. Southgate, A. & Oquatre-six, C. (2026-03-01). The Entanglement Binding Hypothesis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/entanglement-binding-hypothesis/

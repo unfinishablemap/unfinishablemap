@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T19:39:55+00:00
+ai_modified: 2026-09-30T20:11:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T20:11:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-factorisation-problem]]
+- **Original score**: not scored (`scripts/curate.py` absent; pessimistic-2026-09-30 Issues 5–6 used as the review)
+- **Source**: todo.md L1501 "verify the Stapp 'brain of the agent' locus and Zygon metadata at source; re-run the Chalmers–McQueen absence check with wider stems" (P2, pessimistic-review priority item 3); review file `reviews/pessimistic-2026-09-30-quantum-factorisation-problem`
+- **Issue 5 (Stapp, L70 / ref 22)**: Crossref and OpenAlex both resolve doi:10.1111/j.1467-9744.2005.00762.x to Stapp, "Quantum Interactive Dualism: An Alternative to Materialism", *Zygon* 41(3), issued 2006-09-02, no page range in either record; Semantic Scholar's record for the same DOI says *Journal of Consciousness Studies* 12, 2005 — a same-titled 2005 JCS paper is a distinct item, which is where the 2005/2006 confusion comes from. Wiley (403, Cloudflare) and the DOI's new target zygonjournal.org/article/id/13454 (Anubis bot-challenge; one WebFetch, then curl) were both unreachable, so the page range stays unresolved and the "brain of the agent, or some part of it" span was NOT text-verified. The OpenAlex abstract (grep-verifiable) frames the interaction as with "some of the matter in his or her brain", supporting the paraphrase but not the wording. Outcome (c): prose was already unquoted; demoted word-neutrally to "Quantum interactive dualism, as the Map reads Stapp, answers Level 2 by stipulation: the process acts on some part of the agent's brain, and no factorisation criterion is offered" (+2); ref 22 now carries (2006), 41(3), and a note recording the unresolved page range, the two indexer records, the unreachable page and the separate JCS item (−2). L94 untouched (it reads back to the marked Map reading).
+- **Issue 6 (Chalmers–McQueen, L68 / ref 17)**: arXiv:2105.02314 PDF retrieved and grepped (pdftotext): "subsystem" 16 hits, "partition" 9, "tensor product" 1, "decomposition" 0, "factori-" 0. Every subsystem/partition hit is IIT's sense — "A mechanism is a subsystem m of S – that is, a nonempty set of elements of S"; "A partition of a system requires cutting one or more causal connections between its units" — and the one tensor product is of two probability distributions (pA−B), not of Hilbert-space factors. So the stems hit, but only as subsets and cuts of a given element set; branch taken: absence claim dropped and replaced by the bounded positive claim "takes its subsystems and partitions from a fixed qudit network, whose factorisation is taken as given" (+3); method moved into ref 17 as a dated parenthetical (+23).
+- **Funding cuts** (same paragraph and Further Reading only): L68 "and it is the benchmark" → "the benchmark" (−3), "which is Level 1 again" → "Level 1 again" (−2), "the author who showed … not Zanardi's claim" → "Zanardi, who showed … not his" (−2); Further Reading descriptors tightened on seven bullets (−22, no wikilink or target changed; 35 wikilinks before and after). analyze_length 3496 → 3498 (concepts hard 3500, gate `>=`; 1 word of headroom remains).
+- **Sibling grep after edit**: "never raises" 0, "brain of the agent" 0, "some part of it" 0, "as such" 1 (L38, not this task's locus), "as the Map reads Stapp" 1, "taken as given" 1.
+- **Not touched**: Issues 1–4 loci (fixed 19:39Z), 7 (L50), 8 (L90/L98); todo.md; no commit.
+- **Model**: claude-fable-5-1
+- **Published**: yes
+
 ## 2026-09-30T19:39:55+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-factorisation-problem]]
