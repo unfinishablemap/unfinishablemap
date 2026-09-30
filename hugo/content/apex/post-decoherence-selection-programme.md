@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-30 15:56:28+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-09-30 20:38:13+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-07-18 21:02:00+00:00
 apex_sources:
 - concepts/post-decoherence-selection
@@ -29,7 +29,7 @@ concepts:
 - '[[contextual-selection-in-quantum-foundations]]'
 - '[[causal-consistency-constraint]]'
 created: 2026-03-29
-date: &id001 2026-09-25
+date: &id001 2026-09-30
 description: Five components of one speculative architecture—post-decoherence selection,
   quantum Darwinism, contextuality, weak measurement, stochastic amplification—constitute
   a physics research programme for consciousness acting after decoherence.
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:02:00+00:00
-lastmod: 2026-09-30 15:56:28+00:00
+lastmod: 2026-09-30 20:38:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ If consciousness selects, what constrains its choices? Zurek's quantum Darwinism
 
 For the Map's framework, Zurek's results specify three constraints on conscious selection.
 
-The *menu is fixed*. [Einselection determines which states survive environmental monitoring](/concepts/quantum-factorisation-problem/): consciousness cannot select a state the environment would immediately destroy, and the menu comprises the robust, classically distinguishable alternatives that survive—no more, no less. What einselection fixes is the *basis*: the mixture remains improper, and no element of the menu thereby obtains.
+The *menu is fixed*. Einselection determines which states survive environmental monitoring: consciousness cannot select a state the environment would immediately destroy, and the menu comprises the robust, classically distinguishable alternatives that survive—no more, no less. What einselection fixes is the *basis*: the mixture remains improper, and no element of the menu thereby obtains.
 
 The *probabilities are fixed*—by a separate Zurek result: [envariance](/concepts/envariance/) derives the Born weights from entanglement-assisted invariance, not from quantum Darwinism's redundancy analysis (Zurek 2005; [contested](/topics/born-rule-and-the-consciousness-interface/)). If consciousness selects among pointer states, it must respect Born-rule statistics over the long run: consciousness biases individual outcomes without altering aggregate distributions—a conjunction whose conceptual cost the next section confronts directly. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed) sharpens this: under purification, no-signalling forces the Born form for any participant in measurement outcomes, so, if that derivation survives review, the corridor reading inherits Born preservation as a structural rather than auxiliary commitment.
 
@@ -152,7 +152,7 @@ The honest limitation: no experiment has demonstrated the full chain operating e
 
 The five components assemble into a research programme with identified parts, constraints, and gaps—a single architecture, not five independently converging inquiries. A complete theory of post-decoherence conscious selection would need to specify:
 
-**The selection locus.** Where in neural processing does consciousness act on the decohered mixture? The post-decoherence selection concept identifies the gap; einselection specifies that the menu's elements are pointer states; but which pointer states, in which neural structures, at which points in processing—and which POVM, quantum instrument, or coarse-graining mathematically defines the alternatives? The programme names the locus without localising it.
+**The selection locus.** Where in neural processing does consciousness act on the decohered mixture? Post-decoherence selection identifies the gap; einselection makes pointer states the menu; but which pointer states, in which neural structures, at which points in processing—which POVM, quantum instrument, or coarse-graining defines the alternatives, and [relative to which system/environment factorisation](/concepts/quantum-factorisation-problem/)? The programme names the locus without localising it.
 
 **The selection mechanism.** Does consciousness trigger collapse at a moment (standard consciousness-collapse models) or provide a boundary condition that shapes the whole history (the TSVF alternative)? The [forward-in-time conscious selection](/topics/forward-in-time-conscious-selection/) survey catalogues the candidate mechanisms—Penrose-Hameroff Orch OR, Stapp's quantum Zeno, Chalmers-McQueen CSL, von Neumann's movable cut, a post-decoherence relocation of Stapp's Process 1, and a process-philosophical actualisation model—differing on whether they require pre- or post-decoherence quantum coherence and on what additional ontology they commit to. These are different physical pictures with different empirical signatures—and the programme's own *after* owes a temporal debt: when, amid continuous decoherence and the menu's ongoing refresh, does actualisation occur? The programme accommodates the post-decoherence variants but has not determined which is correct—or whether some third option is needed. The deeper fork—whether selection runs forward in time at all, or operates atemporally through a transactional structure—is cost-accounted side by side in [the forward-in-time vs time-symmetric comparison](/topics/forward-in-time-vs-time-symmetric-selection/), which holds both route-families as live alternatives.
 

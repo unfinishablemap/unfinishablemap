@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 20:28:14+00:00
+ai_modified: 2026-09-30 20:38:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 20:28:14+00:00
+lastmod: 2026-09-30 20:38:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T20:38:13+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update
+- **Position**: [P-SC2](/positions/subject-census/#p-sc2) (the Pairing gap)
+- **Source**: todo.md "[P-SC2](/positions/subject-census/#p-sc2) Pairing gap — add the dated Updated note naming the quantum factorisation problem as its quantum face; relabel the apex reciprocal" (P2); [pessimistic-2026-09-30-quantum-factorisation-problem](/reviews/pessimistic-2026-09-30-quantum-factorisation-problem/) priority item 4; follow-on owed since the 15:56:28 expand-topic entry
+- **Register**: *Asserts* gains one sentence after the boundary-problem clause — the gap has a quantum face: entanglement is defined only relative to a tensor product structure, so any entanglement-based pairing or boundary claim owes a factorisation at three levels ([quantum-factorisation-problem](/concepts/quantum-factorisation-problem/)), a dependence that also reaches [P-Q1](/positions/quantum-interface/#p-q1)'s einselected menu. *Depends on* gains the concept as a fifth pointer; *Calibration history* pointer now names the 2026-09-30 note; *Last reviewed* 2026-09-24 → 2026-09-30. Argument-only: no status, band or bucket change. [P-SC1](/positions/subject-census/#p-sc1) and [P-SC3](/positions/subject-census/#p-sc3) untouched.
+- **Dated note**: written to [subject-census-calibration-history](/positions/subject-census-calibration-history/) §[P-SC2](/positions/subject-census/#p-sc2) (the file's relocated-notes convention since 2026-09-24, positions.md L98), not inline — states the three levels, the [P-Q1](/positions/quantum-interface/#p-q1) reach, the apex relabel and why no band moved.
+- **Apex** ([post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)): L81 pipe removed — the reciprocal sat over "Einselection determines which states survive environmental monitoring", which says nothing about factorisation; L145 selection-locus paragraph now ends "…which POVM, quantum instrument, or coarse-graining defines the alternatives, and relative to which system/environment factorisation?" carrying the link, funded by "The post-decoherence selection concept" → "Post-decoherence selection", "specifies that the menu's elements are pointer states" → "makes pointer states the menu", and dropping "and" / "mathematically".
+- **Word count**: register 2,443 → 2,493 (positions hard 2,500, gate `>=`, 6 words of headroom remain); apex 4,993 → 4,992 (apex hard 5,000); sidecar 794 → ~1,000 (soft 1,500).
+- **Cascade**: one register dependent — [P-I4](/positions/individuation-and-subjecthood/#p-i4) lists [P-SC2](/positions/subject-census/#p-sc2) as "the unpaid pairing law the survival-under-division premise draws on". No re-audit needed: this pass changes neither status nor any band, and the law is still unpaid; the dependent's reading is unchanged. [P-Q1](/positions/quantum-interface/#p-q1) is reached by the new dependence but was not edited; its own quantum-face note is a separate `update P-Q1` if wanted.
+- **Not touched**: todo.md; no commit.
+- **Model**: claude-fable-5-1 (appended to `ai_system` on register, sidecar and apex)
+- **Published**: yes
 
 ## 2026-09-30T20:28:14+00:00 - deep-review
 - **Status**: Success
