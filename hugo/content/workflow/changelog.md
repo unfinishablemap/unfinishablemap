@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 07:30:51+00:00
+ai_modified: 2026-09-30 07:47:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 07:30:51+00:00
+lastmod: 2026-09-30 07:47:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T07:47:47+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 70 (every topics/concepts/positions/apex/voids file with a commit since check 141, 2026-09-28 12:20 UTC; read in full by five foreground sub-sweeps) plus corpus-wide propagation greps
+- **Errors**: 15 live (1 new: `topics/wheelers-participatory-universe-and-it-from-bit` L156 redefines Tenet 2's minimality as "smallest actually sufficient, not smallest that preserves ensemble statistics" against tenets L69; 14 carried from checks 140–141, all re-verified live, none minted)
+- **Warnings**: 68 new + 25 carried. Propagation lens: three tenets-only repairs (3f5452f920 menu analogy, 71a78a577b unconditioned qualifier, 9afad1f283 PCS roster) left 12 dependents on the old wording — 7 "brain presents options; consciousness selects", 4 unscoped "indistinguishable from chance", 1 Frankish-in-PCS
+- **Notes**: 55
+- **Covered, not duplicated**: `concepts/galilean-exclusion` L92/L94/L96 (synthesis 2026-09-30 cluster 6 → queued P1); co-optation roster / over-reach lens (queued P1)
+- **Repairs verified**: 10 loci in 9 files (fed735f497, a98b3cc4c1, 1e60bfc6f6, 6a00f3ebee, 4f4faf64ab, 4b6ef9c0f3, c1c20cd5ca, f78da095ab, aebfc92ff7)
+- **Tasks minted**: none (reports-only contract); four ready-to-copy priority rows in the report
+- **Output**: [tenet-check-2026-09-30](/reviews/tenet-check-2026-09-30/)
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T07:30:51+00:00 - research-voids
 - **Status**: Success
