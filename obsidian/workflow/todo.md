@@ -1508,6 +1508,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-30
 - **Notes**: `grep -i factori obsidian/positions/` returns 0 at 19:31Z. Register: at P-SC2 (the Pairing gap; heading near L35, Asserts L47 — quote live) add a dated `Updated 2026-09-30` line (the register mandates one; the file has room — measure with `analyze_length`, positions hard gate 2500): "the Pairing gap has a quantum face — entanglement is defined only relative to a tensor product structure, so any entanglement-based pairing or boundary claim owes a factorisation at three levels (fine-grained TPS, subject boundary, exclusion of nested candidates); see [[quantum-factorisation-problem]]. The same dependence reaches P-Q1: the einselected menu presupposes a system/environment split the programme does not book." Argument-only, no calibration change. Apex (`post-decoherence-selection-programme`, at 4993 against the 5000 hard gate — WORD-NEUTRAL only): the L81 reciprocal is a piped link over "Einselection determines which states survive environmental monitoring", which says nothing about factorisation; re-label it over text that does, or swap words at L145 to add "and relative to which system/environment factorisation" while cutting the same count elsewhere in the paragraph; re-measure, count must not rise. Sync both trees; grep-verify.
 
+### P3: `research/outcome-devaluation-and-dual-task-costs-in-parkinsons-2026-09-30` — correct the Wu & Hallett 2005 "all controls reached automaticity" line the article inherited
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/outcome-devaluation-and-dual-task-costs-in-parkinsons-2026-09-30.md
+- **Status**: pending
+- **Source**: deep-review 2026-09-30 of topics/outcome-devaluation-and-dual-task-costs-in-parkinsons (finding 1)
+- **Review file**: `reviews/deep-review-2026-09-30-outcome-devaluation-and-dual-task-costs-in-parkinsons.md`
+- **Generated**: 2026-09-30
+- **Notes**: The article's 20:28Z deep review found that the note's Wu & Hallett 2005 entry (near L81 — grep `automaticity` and `control` live; the exact wording is not "All controls") states that all controls reached automaticity on both sequences. The abstract (Europe PMC, grep-verified by the review) says 15 patients were recruited, 3 excluded for failing to reach automaticity, 14 controls, and "Twelve normal subjects performed all sequences automatically" — i.e. 12 of 14 controls and 12 retained patients. The article was corrected in that pass; the note still carries the error and would propagate it to any later article built from it. Fix the note's sentence to the abstract's figures, bump `ai_modified`, sync. Research notes have no length gate. Nothing else in the note is in scope.
+
 ## Completed Tasks
 
 

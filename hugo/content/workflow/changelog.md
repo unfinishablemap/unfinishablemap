@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 20:11:18+00:00
+ai_modified: 2026-09-30 20:28:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 20:11:18+00:00
+lastmod: 2026-09-30 20:28:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T20:28:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [outcome-devaluation-and-dual-task-costs-in-parkinsons](/topics/outcome-devaluation-and-dual-task-costs-in-parkinsons/)
+- **Word count**: 3924 → 3981 (+57; topics hard 4000, gate `>=`, 19 words of headroom remain)
+- **Critical issues addressed**: 3 — (1) Wu & Hallett 2005 controls: "All controls reached automaticity on both sequences" → abstract says 12 of 14 controls, 15 patients recruited and 3 excluded; corrected, and the 2008 sentence gained its own 12-of-14 control figure. (2) de Wit 2011 prediction quote had dropped "through extensive practice" and its status as a Discussion proposal for a Tricomi-style paradigm; restored. (3) "Medication status made no difference" → "no significant effect, though the on-medication group tended to do worse (p = .08), which the authors read as a severity-matching artefact" (PDF: F(1, 27) = 3.38, p = .08; groups not matched for severity).
+- **Medium issues addressed**: 4 — Sharp remediation now set beside de Wit 2011's null medication result (one clause); roster stance sentence added to Stated Limits (Redgrave, de Wit, Mi, Sharp and Shohamy, Wu and Hallett, Rochester: physically realised control systems, none cited as endorsing the Map); missing blank line between the Wu-Hallett-Chan and "Automaticity operationalised" paragraphs; funding cuts of −54 words across L29/L55/L62/L64/L88/L94/L96 and two Further Reading blurbs, no claim or wikilink removed.
+- **Enhancements made**: 0 beyond the above (length-neutral mode).
+- **Citation ledger**: 21 DOIs verified at Crossref, all real-correct (online-first year variants noted for de Wit 2012, Sharp 2016, Wu 2015 CC, Vandenbossche 2012); every quoted span ≥3 words grep-verified in raw retrieved text — Europe PMC abstracts (15), PMC XML full text (Mi, de Wit 2012, Kelly), NCBI efetch (Redgrave; Europe PMC fullTextXML returned 500), UvA repository PDF via pdftotext (de Wit 2011; MIT Press PDF 403). One initial miss resolved by dehyphenation. Foerde 2018 confirmed Further-Reading-only. `find_superlative_claims` empty. Abstract markers present at first mention, table and References for all 15 abstract-only sources.
+- **Engagement classification**: Redgrave et al. — Mode One (their own prediction tested on the direct test, anatomy left standing, reply quoted); physicalist reading at the Tenet 3 boundary — Mode Three, honestly marked. No label leakage.
+- **Tenet tiers as they now read**: Tenet 3 compatible, available-not-actual per `tenets#^tenet-3-standing`, parity restored, "not supported"; Tenet 5 a caution against inferring function from lesion locus, no preference drawn; Tenets 1, 2, 4 untouched.
+- **Not touched**: the three inbound host pages; the research note (its L81 carries the same Wu & Hallett "all controls" error — would-mint P3 only); todo.md; no commit.
+- **Output**: [deep-review-2026-09-30-outcome-devaluation-and-dual-task-costs-in-parkinsons](/reviews/deep-review-2026-09-30-outcome-devaluation-and-dual-task-costs-in-parkinsons/)
+- **Model**: claude-fable-5-1 (unchanged `ai_system`)
+- **Published**: yes
 
 ## 2026-09-30T20:11:18+00:00 - refine-draft
 - **Status**: Success
