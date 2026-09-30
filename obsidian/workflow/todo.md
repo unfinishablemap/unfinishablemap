@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write topic article on colour ontology and the secondary-quality residue — where does the quality go under physicalism, relationalism, dispositionalism, primitivism and eliminativism?
+- **Type**: expand-topic
+- **File**: obsidian/topics/colour-ontology-and-the-secondary-quality-residue.md
+- **Status**: pending
+- **Section**: topics
+- **Research**: obsidian/research/ontology-of-colour-and-the-secondary-quality-residue-2026-09-30.md
+- **Source**: research-topic 2026-09-30 — chain entry minted by hand (research fork does not write task_chains)
+- **Generated**: 2026-09-30
+- **Notes**: Slug `colour-ontology-and-the-secondary-quality-residue` (free 2026-09-30; the note's suggested slug). Topics 335/360 by `count_section_files` 2026-09-30 (re-measure at pick time). Lead with the note's "sorting machine" angle: colour ontology tests the residue by answering WHERE the quality goes — every live ontology except realist primitivism relocates the intrinsic quality into experience (physicalism → a physicalist theory of experience; relationalism/dispositionalism → a perceiver-side relatum that is a colour experience, SEP §2.6; eliminativism/projectivism → outright; Chalmers's Edenic content formalises it), so the residue the Galilean exclusion points at is invariant across ontologies and lives in experience (the qualia question); primitivism (Campbell, Hacker, Allen, Gert) keeps the quality in the object by rejecting the completeness premise and is the live rival the Map must argue against, not ignore. Carry the psychophysics concession (relational structure of colour is objectively investigable) and its cut against physicalism too (Pautz's structure argument; Kuehni unique-hue variability; Gert's appearances concession). Tenet claim: COMPATIBLE only (P-V2 register; no discriminator). Citation discipline: quote only what the note marks as retrieved raw (SEP Color/Maund rev. 2024-08-09; SEP Bolton 2022; Chalmers Fall from Eden pdftotext; Byrne & Hilbert 2003, Cohen 2009, Campbell 1993, Gert 2017, Kuehni 2004 abstracts); the six SEP-reproduced quotations (Johnston's constraints incl. Revelation, Cohen 2009:24, Averill 1992, Pautz 2020:380, McGinn 1996, Boghossian & Velleman 1989) may be paraphrased or verified raw before quoting; Hardin 1988, Hacker 1987, McGinn 1983, Maund 1995 are metadata-only (no Crossref book record) — cite without quotation. Seams (read the note's "What the Seam Pages Already Say"): [[galilean-exclusion]] (3497/3500 — piped link only, it already carries a one-paragraph relational reply this page lets stay short), [[primary-secondary-quality-boundary]] (2542; its 2026-09-30 relationalist clause is the natural anchor), [[emergence-as-universal-hard-problem]] (3199), [[qualia]], [[phenomenal-concepts-strategy]]. Target 2200–2800 body words; `topics:` bare slugs; ai_modified from the real clock; run sync. Chain: research-topic → expand-topic → cross-review.
+
 ### P2: Adopt altered-states-of-consciousness calibration in anaesthesia-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
