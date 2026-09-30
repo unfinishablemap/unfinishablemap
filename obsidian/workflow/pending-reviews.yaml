@@ -192,3 +192,34 @@
   subject_articles:
   - topics/constitutive-exclusion.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-29-gpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6abc8eee-3f04-83eb-94dc-94703b5fbb77
+  commissioned_at: '2026-09-30T04:24:28.597853+00:00'
+  prompt_summary: 'Audit concepts/galilean-exclusion: Galileo reading, citations,
+    sieve argument'
+  target_filename: outer-review-2026-09-30-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as an external reviewer for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy site. Audit one concept article: https://unfinishablemap.org/concepts/galilean-exclusion/
+    (last substantively modified 2026-09-21; the changelog at https://unfinishablemap.org/workflow/changelog/
+    lists recent edits). The article argues that Galileo''s primary/secondary quality
+    distinction in The Assayer was a methodological decision rather than a metaphysical
+    discovery; that this exclusion makes the hard problem structurally inevitable;
+    that functionalism and report-based cognitive science accommodate experience only
+    as third-person data within the Galilean framework; and that ontic structural
+    realism, on its strongest reading, abolishes the excluded residue rather than
+    relocating it. It cites Husserl''s Crisis, Whitehead''s bifurcation of nature,
+    Thompson''s Mind in Life, and Frank, Gleiser and Thompson''s The Blind Spot. Check
+    the accuracy of the Galileo reading, the fidelity of each citation, whether the
+    sieve argument survives obvious objections, whether counterarguments are fairly
+    represented, and whether the tenet-alignment section brackets objections protectively.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit galilean-exclusion
+  subject_articles:
+  - concepts/galilean-exclusion.md
+  subject_source: fallback:recent-aged
