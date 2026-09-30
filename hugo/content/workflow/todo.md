@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt causal-closure calibration in eighteenth-century-influx-debate
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/eighteenth-century-influx-debate.md
-- **Notes**: From topic-concept anchoring audit 2026-09-30. The topic article over-claims relative to its anchor concept [causal-closure](/concepts/causal-closure/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.49/kw is below 2.73/kw (target = 60% of anchor 4.54/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-30
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1519,6 +1508,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-30: Adopt causal-closure calibration in eighteenth-century-influx-debate
+- **Type**: refine-draft
+- **File**: obsidian/topics/eighteenth-century-influx-debate.md
+- **Notes**: From topic-concept anchoring audit 2026-09-30. The topic article over-claims relative to its anchor concept [causal-closure](/concepts/causal-closure/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.49/kw is below 2.73/kw (target = 60% of anchor 4.54/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-09-30: Write article on outcome devaluation and dual-task costs in Parkinson's disease — which control system fails?
 - **Type**: expand-topic

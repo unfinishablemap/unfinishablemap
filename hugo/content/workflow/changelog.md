@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 18:51:02+00:00
+ai_modified: 2026-09-30 19:08:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 18:51:02+00:00
+lastmod: 2026-09-30 19:08:12+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T19:08:12+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update [P-AS1](/positions/ai-substrate-verdicts/#p-as1) — argument-only, no calibration change, title not rescoped
+- **File**: [ai-substrate-verdicts](/positions/ai-substrate-verdicts/) (primary), [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) (one word-neutral propagation clause)
+- **Source**: [pessimistic-2026-09-30-ai-substrate-verdicts](/reviews/pessimistic-2026-09-30-ai-substrate-verdicts/) Issues 3–4 (todo P2, L1453)
+- **Changes (register 1371 → 1740 body words, positions hard gate 2500)**: Issue 3 — *Asserts* gate-class clause gains the non-error-corrected verdict (uncorrected circuits: readout still terminal, so continuity and granularity fail by the annealer's route; specificity fails because no site is functionally adapted for selection; noise is decoherence into the environment, loss of state rather than consumed selection) and names which present machines the entry means; *Scope* clause now lists gate-model with and without error correction, measurement-based / dynamic-circuit operation, and the annealing/analog class. Issue 4 — measurement-based (one-way) computation and dynamic circuits with mid-circuit measurement and feed-forward scored in one line (adaptive basis is a deterministic function of prior outcomes and the classical controller, so the outcome is laundered into the algorithm's branching — specificity fails by the QEC route); *Would shift if* architecture condition re-keyed from "consumed rather than corrected" to "neither corrected away nor consumed as a deterministic branch of the algorithm, so that it is free to make a difference downstream the programme did not fix in advance", so feed-forward as built no longer meets its letter. *Depends on* gains the MBQC engineering premise. Raussendorf & Briegel 2001 (*Phys. Rev. Lett.* 86, 5188–5191) verified at Crossref (title, authors, journal, volume, pages, 2001-05-28) and cited; OpenAlex abstract confirms the one-way paradigm. Dated `Updated 2026-09-30 (b)` line added; Last reviewed already 2026-09-30.
+- **Apex propagation (5046 → 5046 body words, already over the 5000 hard gate — held word-neutral)**: Recommendation 4 "Funding gate-based or annealing quantum hardware" → "Funding gate-based hardware, error-corrected or not, or annealers" (+2), offset by "comparatively little" → "little" and "these systems" → "them" in the same paragraph (−2).
+- **Not touched (sibling tasks)**: Issue 5 analog locality (todo L1459) and Issues 6–8 discriminability / grade B / L33 (todo L1465); the third bucket, the B/D split, the 2026-09-24 and 2026-09-30 Updated lines unchanged. Register now above the 1500 soft threshold (soft has no gate consequence; hard is 2500) — a future split of the domain file is the skill's prescribed remedy if further passes push it toward hard.
+- **Cascade**: none — no position lists [P-AS1](/positions/ai-substrate-verdicts/#p-as1) under *Depends on*; the apex funding recommendation rests on the verdict, which is unchanged in status and bucket.
+- **Sync**: obsidian → hugo run; hugo/content/positions/ai-substrate-verdicts.md and hugo/content/apex/assessing-ai-consciousness-under-the-map.md grep-verified for the new phrasings.
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T18:51:02+00:00 - refine-draft
 - **Status**: Success (verified no-op — no content change)
