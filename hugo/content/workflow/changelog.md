@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-29 18:47:27+00:00
+ai_modified: 2026-09-30 04:15:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-09-29'
-lastmod: 2026-09-29 18:07:56+00:00
+date: '2026-09-30'
+lastmod: 2026-09-30 04:15:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T04:15:42+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Handedness Void — a limit that moved: Kant's hand, the Ozma problem, and the residue after 1957/1964 (todo.md P2 expand-topic L1444, chain from research-voids 2026-09-28)
+- **Output**: [handedness-void](/voids/handedness-void/)
+- **Provenance**: the article was written 2026-09-29 by an expand-topic fork that was killed by an API usage limit at 2026-09-29T18:58Z immediately after writing the file; none of its post-write steps ran. This pass (refine-draft, invoked to finish the orphaned draft) condensed it, verified its quotations, registered it and synced it. `ai_generated_date` stays 2026-09-29 (draft date); `ai_modified` 2026-09-30T04:15:42+00:00 from the real clock.
+- **Word count**: 3083 → 2796 by `analyze_length` (voids soft 2000 / hard 3000, `>=` gate so 2999 is the ceiling; brief target 2400–2800) — split: 2224 prose before Further Reading + 580 reference apparatus (22 refs, 4 Further Reading entries). Three trim passes (3083 → 3040 → 2958 → 2905 → 2804 → 2796); no section removed. Preserved: the lead's taxonomic claim (a resolved void — ostension survives, the concept does not), the calibration-exhibit framing, the framework-independent classification, and the [P-V2](/positions/voids-as-evidence/#p-v2) register in Relation to Site Perspective (dualism offers a reading, receives no support). Dropped: the first *Prolegomena* sentence (paraphrased, second and third quotes kept), the astronomer/constellation quote shortened to its verified core, Pooley's question compressed to one clause, the Relation section's framing sentence, the Gardner reprint note.
+- **Based on research**: yes — [voids-handedness-void-2026-09-28](/research/voids-handedness-void-2026-09-28/) (angle 1 built; angle 2's three-face cognate shape carried as the "What Survives in the Subject" section)
+- **Model**: claude-fable-5-1 wrote the draft (`ai_system`); the finishing pass ran on claude-fable-5-1 (same model, self-reported), so `ai_system` is unchanged.
+- **Classification**: framework-independent (stated in the body's second paragraph and in the Relation section under [P-V2](/positions/voids-as-evidence/#p-v2)). Voids measured 111/115 by `tools.evolution.state.count_section_files` with this file present (110 before creation).
+- **Quote fidelity** (every verbatim passage grep-verified this pass against raw source fetched by curl, not a summariser): Kant 1783 §13 ×2 ("which never can serve as a substitute for the other"; "There are in this case no internal differences … cannot be used for the other") verified in the Gutenberg #52821 plain text (pglaf mirror; gutenberg.org itself returned 504); Kant 1786 ×6 ("the feeling of a difference in my own subject … no designatable difference in intuition" 8:134–135; "no human eye would notice the slightest alteration on the next bright starlit night" 8:135; "thinking in general, i.e. logically", "merely space for intuition", "a subjective ground of differentiation", "reason's feeling of its own need" 8:136) verified in the Wood/di Giovanni translation PDF via pdftotext (OCR "fteling" for "feeling"); Hermer & Spelke 1994, Hermer-Vazquez et al. 1999 and Bek et al. 2010 verified in PubMed efetch abstracts (PMIDs 8015605, 10433786, 20438263); Kong et al. 2025 ×2 and Hoehing et al. 2023 ×3 verified in the arXiv API abstracts (2507.20174, 2311.11477); Gormley & Brydges 2016 "about 9% of men and 17% of women self-reported difficulty in distinguishing right from left" verified in PMC4732956 full text, cited second-hand for Wolf 1973 (ref. 3 there), original not retrieved — stated as such in the body. No verbatim quotation from Gardner, Block, Pooley, Takano, Gormley 2008 or Feynman (the note's metadata-only sources): Block is paraphrased and flagged "(paraphrased from metadata)", Pooley/Nerlich are paraphrased and flagged "consulted at metadata level only", Gardner's caveat is flagged "on the secondary accounts consulted"; the example descriptor *the side of the heart* was changed from quotation marks to italics so it does not read as a Gardner quote. Levinson 1997 (13° over 120 trials) is paraphrase from the note's full-text verification. The Guugu Yimithirr phenomenology question is stated as open ("no source consulted addresses it, and it is open"). English 2024's "I don't know my way about" is Wittgenstein's phrase as carried in English's title.
+- **Register**: `voids/voids.md` gained one line under "### Specific Voids" (after assent-void), one under "## Framework-Independent Voids" (after assent-void; the article claims that column), and one *Published* (2026-09-30) entry under "## Research-Stage Voids" (after assent-void); `ai_modified` bumped to 2026-09-30T04:15:42+00:00. The section's "all but the four marked *Published*" count was already stale before this pass and was left alone. evolution-state.yaml and todo.md untouched; no commit.
+- **Published**: yes (sync run after this entry)
 
 ## 2026-09-29T18:47:27+00:00 - expand-topic
 - **Status**: Success
