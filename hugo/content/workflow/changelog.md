@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 14:52:58+00:00
+ai_modified: 2026-09-30 15:15:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 14:52:58+00:00
+lastmod: 2026-09-30 15:15:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T15:15:51+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cotard delusion as the self-model channel's existence-report failure
+- **Output**: [cotard-delusion](/concepts/cotard-delusion/)
+- **Word count**: 3297 (`analyze_length`, concepts hard gate 3500; ~2,650 prose words + Further Reading/References)
+- **Based on research**: yes — [cotard-delusion-2026-09-16](/research/cotard-delusion-2026-09-16/) (Angle 1 built; all 20 references from the note's verified Citations list; every quoted span grep-verified verbatim against the note's Key Sources or the quoted Map page)
+- **Task**: todo.md L1444 "Write article on Cotard delusion as the self-model channel's existence-report failure" (left untouched for cycle_post)
+- **Gaps carried as hedges**: Charland-Verville 2013 dropped entirely (existence only, no regional claim); Young & Leafhead 1996 cited only via McKay & Cipolotti's internalising-style summary; Gennaro 2020 and Gerrans 2024 named as unread and the neutrality verdict held provisional against them; Cotard 1880 characterised only on Berrios & Luque 1995b with the primary flagged unconsulted. Note arithmetic corrected: 55% immortality + 69% existence-denial guarantees co-occurrence in ≥24% of cases, not "over half" — article says "at least a quarter".
+- **Reciprocals**: capgras-delusion-and-the-affective-recognition-channel (Further Reading series extended with the *self* term, 2643→2648); self-model-theory-of-subjectivity (one Further Reading bullet, 1797→1819); self-opacity, self-and-self-consciousness, mine-ness (piped wikilinks over existing prose, zero cost: 3072→3072, 3538→3538, 3496→3496). All five `ai_modified` bumped to 2026-09-30T15:15:21+00:00.
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T14:52:58+00:00 - refine-draft
 - **Status**: Success (verified no-op — no content change)

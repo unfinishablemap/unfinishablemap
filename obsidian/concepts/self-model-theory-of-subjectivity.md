@@ -2,9 +2,9 @@
 title: "Self-Model Theory of Subjectivity"
 description: "A human-AI exposition of Metzinger's SMT—the no-self account on which we have a transparent phenomenal self-model, not a self—and why it presses hardest on the Map's Tenet 4."
 created: 2026-07-11
-modified: 2026-09-24
+modified: 2026-09-30
 human_modified:
-ai_modified: 2026-09-24T07:30:44+00:00
+ai_modified: 2026-09-30T15:15:21+00:00
 last_deep_review: 2026-09-24T07:30:44+00:00
 draft: false
 topics:
@@ -71,6 +71,7 @@ SMT has two close neighbours among the Map's scientific theories. [[attention-sc
 - [[personal-identity]] — What persists if the self is a model
 - [[attention-schema-theory]] — The same transparent-model strategy applied to attention rather than the self
 - [[multiple-drafts-model]] — Dennett's no-audience architecture, of which SMT's no-self is the self-pole analogue
+- [[cotard-delusion]] — The clinical limit case of a self-model reporting its own non-existence, which leaves SMT and the Map's subject undiscriminated
 
 ## References
 

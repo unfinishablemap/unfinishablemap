@@ -2,9 +2,9 @@
 title: "Mine-ness and the Ownership Void"
 description: "Mine-ness is the phenomenal mark by which experience presents as belonging to a subject—separable in pathology, yet its mechanism of appropriation stays opaque."
 created: 2026-02-24
-modified: 2026-08-06
+modified: 2026-09-30
 human_modified:
-ai_modified: 2026-08-24T20:11:23+00:00
+ai_modified: 2026-09-30T15:15:21+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -113,7 +113,7 @@ The recursion is what makes the limit structural rather than merely stubborn. At
 
 **One void or many.** Knappik's challenge has a consequence here. If mine-ness is plural rather than a single global feature, the ownership void is not one void but several: each modality of experience may have its own form of appropriation, each opaque in its own way. The plurality does not dissolve the limit; it multiplies it.
 
-**The body as the densest case.** The body is *mine* in a way no external object is, and bodily disownership—the depersonalised "behind glass" body, somatoparaphrenic limb-disavowal—is among the most vivid disruptions of mine-ness. Yet the [[interoceptive-void]] shows that the body so owned is mostly silent: most visceral state never reaches awareness, and what does arrives summarised. Felt ownership therefore extends over a substrate the subject has almost no access to. The two voids are distinct—one concerns the appropriation relation, the other the body's opacity to awareness—but the densest instance of the first runs over the territory the second maps.
+**The body as the densest case.** The body is *mine* in a way no external object is, and bodily disownership—the depersonalised "behind glass" body, somatoparaphrenic limb-disavowal—is [[cotard-delusion|among the most vivid disruptions of mine-ness]]. Yet the [[interoceptive-void]] shows that the body so owned is mostly silent: most visceral state never reaches awareness, and what does arrives summarised. Felt ownership therefore extends over a substrate the subject has almost no access to. The two voids are distinct—one concerns the appropriation relation, the other the body's opacity to awareness—but the densest instance of the first runs over the territory the second maps.
 
 **Adjacent voids, and what separates them.** The [[self-reference-paradox]] concerns logical structure; the ownership void is phenomenological, about felt belonging rather than formal reflexivity. [[self-opacity|Introspective opacity]] concerns hidden cognitive processes in general; the ownership void concerns one phenomenal feature that is normally present while its ground stays hidden. The [[vertiginous-question|indexical void]] asks why I am *this* consciousness rather than another, and ownership presupposes an answer, since experiences are "mine" only if there is a determinate "me" to own them. Those two mark faces of one mystery: what makes a subject *this* subject, and how experience becomes *its* experience.
 

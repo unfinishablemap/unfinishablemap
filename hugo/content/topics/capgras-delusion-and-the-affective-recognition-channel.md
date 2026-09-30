@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-09-10 14:23:00+00:00
+ai_modified: 2026-09-30 15:15:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -10,7 +10,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[inventory-blindness]]'
 created: 2026-07-10
-date: &id001 2026-07-10
+date: &id001 2026-09-30
 description: A human+AI reading of Capgras delusion as a selective disconnection of
   felt familiarity — evidence consistent with the Map's interface architecture, held
   honestly against the physicalist rival.
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 14:23:00+00:00
-lastmod: 2026-09-10 14:23:00+00:00
+lastmod: 2026-09-30 15:15:21+00:00
 modified: *id001
 related_articles:
 - '[[recognition-void]]'
@@ -98,7 +98,7 @@ This case connects to two of the Map's [tenets](/tenets/).
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — Where selective disconnections across many conditions map the functional anatomy of the mind-brain interface
 - [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) — The wider pattern of phenomenal access reaching a verdict but not the verdict-issuing process
 - [inventory-blindness](/concepts/inventory-blindness/) — Why the damaged channel produces a felt wrongness but no introspective report of what is missing
-- [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) — The same disowning taxonomy one level down: the *act* is disowned there, the *limb* in alien hand, the *person* here
+- [anarchic-hand-and-action-ownership](/topics/anarchic-hand-and-action-ownership/) — The same disowning taxonomy one level down: the *act* is disowned there, the *limb* in alien hand, the *person* here, and the *self* in [cotard-delusion](/concepts/cotard-delusion/)
 - [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/) — A neighbouring pathology of self-explanation, pointed to rather than endorsed as an account of Factor 2
 - [tenets](/tenets/)
 

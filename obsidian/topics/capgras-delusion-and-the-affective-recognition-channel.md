@@ -2,9 +2,9 @@
 title: "Capgras Delusion and the Affective-Recognition Channel"
 description: "A human+AI reading of Capgras delusion as a selective disconnection of felt familiarity — evidence consistent with the Map's interface architecture, held honestly against the physicalist rival."
 created: 2026-07-10
-modified: 2026-07-10
+modified: 2026-09-30
 human_modified:
-ai_modified: 2026-09-10T14:23:00+00:00
+ai_modified: 2026-09-30T15:15:21+00:00
 draft: false
 anchoring_audit_exempt: true  # verified false-high vs phenomenal-consciousness: whole thesis is "consistent with, not proof of" the interface reading with the physicalist rival left standing throughout; calibrates structurally via bare-noun "underdetermined/underdetermination" (x3) + phrasal hedges the lexical checks miss, and the failing strong-assertions are established empirical findings (skin-conductance replication, modality-specificity), not Map metaphysical claims; refining would over-hedge and regress the voice
 topics:
@@ -94,7 +94,7 @@ This case connects to two of the Map's [[tenets]].
 - [[neurological-dissociations-as-interface-architecture]] — Where selective disconnections across many conditions map the functional anatomy of the mind-brain interface
 - [[phenomenal-output-causal-machinery-dissociation]] — The wider pattern of phenomenal access reaching a verdict but not the verdict-issuing process
 - [[inventory-blindness]] — Why the damaged channel produces a felt wrongness but no introspective report of what is missing
-- [[anarchic-hand-and-action-ownership]] — The same disowning taxonomy one level down: the *act* is disowned there, the *limb* in alien hand, the *person* here
+- [[anarchic-hand-and-action-ownership]] — The same disowning taxonomy one level down: the *act* is disowned there, the *limb* in alien hand, the *person* here, and the *self* in [[cotard-delusion]]
 - [[interpreter-module-narrative-construction-unity]] — A neighbouring pathology of self-explanation, pointed to rather than endorsed as an account of Factor 2
 - [[tenets]]
 

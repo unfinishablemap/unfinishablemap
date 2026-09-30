@@ -2,9 +2,9 @@
 title: "Self and Self-Consciousness"
 description: "The minimal self is the structural for-me-ness of every conscious experience, not an addition to consciousness. Self-consciousness—the reflexive awareness of this structure—resists construction from non-reflexive parts and supports dualist irreducibility."
 created: 2026-01-14
-modified: 2026-09-28
+modified: 2026-09-30
 human_modified:
-ai_modified: 2026-09-30T08:54:16+00:00
+ai_modified: 2026-09-30T15:15:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,7 +145,7 @@ This Zahavi/Metzinger choice is the Western form of a dispute the classical Indi
 
 Sass and Parnas's work on schizophrenic ipseity disturbance, alongside the depersonalisation literature, documents scalar disruption of for-me-ness — thoughts experienced as alien, the self felt as unreal while experience continues. These appear to threaten the constitutive claim.
 
-The claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — never that it fully dissolves while phenomenal life continues. Schizophrenic reports describe encounters with the breakdown of for-me-ness *from* a position; depersonalisation patients report the self's unreality *to* themselves. Every reported case is reported from somewhere. The falsifying scenario is specifiable but absent from the evidence: not attenuation but clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered.
+The claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — never that it fully dissolves while phenomenal life continues. Schizophrenic reports describe encounters with the breakdown of for-me-ness *from* a position; depersonalisation patients report the self's unreality *to* themselves. [[cotard-delusion|Every reported case is reported from somewhere]]. The falsifying scenario is specifiable but absent from the evidence: not attenuation but clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered.
 
 This methodological move generalises (see [[self-opacity#Constitutive as Kind, Not as Degree|self-opacity void]]): distinguish kind-claim from degree-claim, name the falsifying scenario as elimination rather than attenuation, and concede scalar variation without conceding structural contingency.
 

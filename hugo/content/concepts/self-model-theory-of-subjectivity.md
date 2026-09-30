@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-09-24 07:30:44+00:00
+ai_modified: 2026-09-30 15:15:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[phenomenal-sorites-problem]]'
 - '[[yogacara-alaya-vijnana-storehouse-consciousness]]'
 created: 2026-07-11
-date: &id001 2026-09-24
+date: &id001 2026-09-30
 description: A human-AI exposition of Metzinger's SMT—the no-self account on which
   we have a transparent phenomenal self-model, not a self—and why it presses hardest
   on the Map's Tenet 4.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 07:30:44+00:00
-lastmod: 2026-09-24 07:30:44+00:00
+lastmod: 2026-09-30 15:15:21+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
@@ -75,6 +75,7 @@ SMT has two close neighbours among the Map's scientific theories. [Attention Sch
 - [personal-identity](/topics/personal-identity/) — What persists if the self is a model
 - [attention-schema-theory](/concepts/attention-schema-theory/) — The same transparent-model strategy applied to attention rather than the self
 - [multiple-drafts-model](/concepts/multiple-drafts-model/) — Dennett's no-audience architecture, of which SMT's no-self is the self-pole analogue
+- [cotard-delusion](/concepts/cotard-delusion/) — The clinical limit case of a self-model reporting its own non-existence, which leaves SMT and the Map's subject undiscriminated
 
 ## References
 

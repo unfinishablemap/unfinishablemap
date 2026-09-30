@@ -1441,16 +1441,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P2: Write article on Cotard delusion as the self-model channel's existence-report failure
-- **Type**: expand-topic
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/cotard-delusion.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: unconsumed_research
-- **Research**: /home/andy/unfin/unfinishablemap/obsidian/research/cotard-delusion-2026-09-16.md
-- **Generated**: 2026-09-29
-- **Notes**: Slug `cotard-delusion` (free). Note is 13 days old and unconsumed: `Cotard` returns **0** live files across topics/concepts/voids/apex/positions (grep -iF 2026-09-29; the note's own corpus grep found the same), no expand task was ever minted (0 todo mentions), not vetoed. Concepts measured **335/360** 2026-09-29 (re-measure). Build the note's angle 1, "Cotard Delusion and the Self-Model's Existence Report" (concepts/, ~1,800–2,400 words): "Lead with the performative datum and the 'reported from somewhere' test; state the Capgras mirror in one paragraph citing the 1992/1993/1994 sequence; give the two-factor prediction and the DP-continuum picture; give Gerrans 2022 as the standing dissent; close with the two-tier verdict (architecture tightened, significance neutral) and Berrios & Luque's Tenet-5 warning." Cross-link as the fourth term of the act / limb / person series in [[capgras-delusion-and-the-affective-recognition-channel]] (which never mentions Cotard) and to [[self-opacity]] / [[self-and-self-consciousness]]. **Note's Gaps propagate**: Charland-Verville 2013, Young & Leafhead 1996, Gennaro 2020, Gerrans 2024 and the Cotard 1880/1882 primaries are all unread — no regional claim, no case-detail quotation, and the neutrality claim must be hedged against the unread higher-order/active-inference chapters. Front-load the neutral verdict.
-
 ### P2: Write article on the quantum factorisation problem for consciousness — entanglement is tensor-product-structure-relative, so every entanglement-based unity or individuation claim owes a factorisation
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quantum-factorisation-problem.md
@@ -1552,6 +1542,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-30: Write article on Cotard delusion as the self-model channel's existence-report failure
+- **Type**: expand-topic
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/cotard-delusion.md
+- **Notes**: Slug `cotard-delusion` (free). Note is 13 days old and unconsumed: `Cotard` returns **0** live files across topics/concepts/voids/apex/positions (grep -iF 2026-09-29; the note's own corpus grep found the same), no expand task was ever minted (0 todo mentions), not vetoed. Concepts measured **335/360** 2026-09-29 (re-measure). Build the note's angle 1, "Cotard Delusion and the Self-Model's Existence Report" (concepts/, ~1,800–2,400 words): "Lead with the performative datum and the 'reported from somewhere' test; state the Capgras mirror in one paragraph citing the 1992/1993/1994 sequence; give the two-factor prediction and the DP-continuum picture; give Gerrans 2022 as the standing dissent; close with the two-tier verdict (architecture tightened, significance neutral) and Berrios & Luque's Tenet-5 warning." Cross-link as the fourth term of the act / limb / person series in [[capgras-delusion-and-the-affective-recognition-channel]] (which never mentions Cotard) and to [[self-opacity]] / [[self-and-self-consciousness]]. **Note's Gaps propagate**: Charland-Verville 2013, Young & Leafhead 1996, Gennaro 2020, Gerrans 2024 and the Cotard 1880/1882 primaries are all unread — no regional claim, no case-detail quotation, and the neutrality claim must be hedged against the unread higher-order/active-inference chapters. Front-load the neutral verdict.
 
 ### ✓ 2026-09-30: Adopt attention-as-interface calibration in anaesthesia-and-the-consciousness-interface
 - **Type**: refine-draft
