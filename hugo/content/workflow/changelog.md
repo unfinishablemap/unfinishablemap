@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 12:13:47+00:00
+ai_modified: 2026-09-30 12:45:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 12:13:47+00:00
+lastmod: 2026-09-30 12:45:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T12:45:27+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the six topic/concept articles created 2026-09-27→29 with zero prior optimistic coverage — topics/paradoxical-kinesia, concepts/diverging-worlds-everettianism, topics/time-bias-and-thank-goodness-thats-over, concepts/process-1-specification-problem, concepts/pudgalavada, topics/correlationism-and-the-ancestrality-argument ("the concession wing": each grades the Map's own reading down against a named rival). Bodies read in full at 03ac5a8eb0; every cited passage grep-verified; Over-reach lens (check 142) applied to all six tenet sections — five earn and claim only *compatible*, correlationism L100 substance gloss carried from check 142 row 4 (not re-minted). Section caps 2026-09-30: topics 335/360, concepts 335/360, voids 111/115.
+- **Findings**: 22 missing reciprocal links (16 fillable by piped wikilink at zero cost); time-bias L102 glosses death-and-consciousness for a temporal-neutrality passage it does not contain; two unwritten subjects recorded for the harvester (Parkinson's outcome-devaluation/dual-task literature; reflexive awareness *svasaṃvedana* concept page); the 2026-02-18 contingency-void research note still unconsumed.
+- **Tasks minted**: 4 × P3 in todo.md (active 26 → 30, verified by parse_tasks): Process-1 reciprocals on six corridor pages (refine-draft); Parfit temporal neutrality on death-and-consciousness + three time-bias reciprocals (refine-draft); contingency void from the banked research note (expand-topic, needs human approval of a voids slot); pudgalavada/diverging-worlds/correlationism reciprocals on ten pages, piped where headroom < 20 (refine-draft).
+- **Output**: [optimistic-2026-09-30-concession-wing](/reviews/optimistic-2026-09-30-concession-wing/)
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T12:13:47+00:00 - refine-draft
 - **Status**: Success
