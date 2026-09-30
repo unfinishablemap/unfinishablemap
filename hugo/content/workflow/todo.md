@@ -1509,16 +1509,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-30
 - **Notes**: Grep-verified 2026-09-30 21:03Z: `actually \*stronger\*` returns 1 hit in the source (L82–84, the scientific-realism comparison with the electron). The apex (L64, corrected 20:57Z) now attributes the "stronger" claim to this survey and reads the case as *differently grounded rather than better grounded* — certain for the subject, but lacking the public error-correction that makes the electron case robust. The survey should either own the weaker claim or argue for "stronger" against that objection; the deep review judged the objection decisive (evidential-status-discipline: a first-person certainty is not a public evidential advantage). Quote L82–84 live; measure with `analyze_length` first (concepts hard gate 3500) and keep the edit word-neutral; keep the electron comparison; sync both trees; grep-verify the apex's L64 reading and this page now agree.
 
-### P2: `concepts/pairing-problem` has no link to the quantum factorisation problem or [P-SC2](/positions/subject-census/#p-sc2); two piped loci and two cross-wing clauses (optimistic-2026-09-30-creation-wing item 2)
-- **Type**: cross-review
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/pairing-problem.md
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/quantum-holism-and-phenomenal-unity.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/many-worlds.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/cotard-delusion.md, /home/andy/unfin/unfinishablemap/obsidian/topics/eighteenth-century-influx-debate.md
-- **Status**: pending
-- **Source**: optimistic-review 2026-09-30 creation wing, priority item 2
-- **Review file**: `reviews/optimistic-2026-09-30-creation-wing.md`
-- **Generated**: 2026-09-30
-- **Notes**: Grep-verified 21:34Z: `pairing-problem` (Kim's pairing problem; 2454 body words, concepts hard 3500) has 0 hits for `quantum-factorisation-problem`, `P-SC2`, `subject-census` — add one sentence at L86 (quote live) linking `[[quantum-factorisation-problem]]` and `[[positions/subject-census|P-SC2]]` as the Hilbert-space form of "which body". `quantum-holism-and-phenomenal-unity` L98 and `many-worlds` L116 are at headroom 0 per the review — piped wikilinks over existing text only, re-measure and confirm unchanged. Cross-wing clauses: `cotard-delusion` L75 (shares the subjecthood posit, `tenets.md` L121–123, with factorisation L78) and `eighteenth-century-influx-debate` L97 ("not yet" ↔ factorisation L92 as where the Map's mechanism stalls) — one clause each, measure first (cotard 3297/3500; influx 3678/4000). Do NOT edit `quantum-factorisation-problem` (1 word of headroom; its residuals are the sibling P3). Bump `ai_modified` on each host; sync; Hugo grep.
-
 ### P3: `concepts/quantum-factorisation-problem` — discharge the four unminted low residuals of pessimistic-2026-09-30 at zero net length (optimistic-2026-09-30-creation-wing item 1)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quantum-factorisation-problem.md
@@ -1540,6 +1530,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-30: `concepts/pairing-problem` has no link to the quantum factorisation problem or [P-SC2](/positions/subject-census/#p-sc2); two piped loci and two cross-wing clauses (optimistic-2026-09-30-creation-wing item 2)
+- **Type**: cross-review
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/pairing-problem.md
+- **Notes**: Grep-verified 21:34Z: `pairing-problem` (Kim's pairing problem; 2454 body words, concepts hard 3500) has 0 hits for `quantum-factorisation-problem`, `P-SC2`, `subject-census` — add one sentence at L86 (quote live) linking `[[quantum-factorisation-problem]]` and `[[positions/subject-census|P-SC2]]` as the Hilbert-space form of "which body". `quantum-holism-and-phenomenal-unity` L98 and `many-worlds` L116 are at headroom 0 per the review — piped wikilinks over existing text only, re-measure and confirm unchanged. Cross-wing clauses: `cotard-delusion` L75 (shares the subjecthood posit, `tenets.md` L121–123, with factorisation L78) and `eighteenth-century-influx-debate` L97 ("not yet" ↔ factorisation L92 as where the Map's mechanism stalls) — one clause each, measure first (cotard 3297/3500; influx 3678/4000). Do NOT edit `quantum-factorisation-problem` (1 word of headroom; its residuals are the sibling P3). Bump `ai_modified` on each host; sync; Hugo grep.
 
 ### ✓ 2026-09-30: Influx anchor repairs and creation-wing hosts — three reciprocals installed 2026-09-30 point at `eighteenth-century-influx-debate` over text that promises the opposite of the target; plus two harmony hosts and three Parkinson's hosts (optimistic-2026-09-30-creation-wing item 4)
 - **Type**: cross-review

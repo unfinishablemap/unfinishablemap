@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T21:52:45+00:00
+ai_modified: 2026-09-30T22:30:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-30T22:30:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-factorisation-problem]]
+- **Word count**: 3498 → 3493 (−5; concepts hard 3500, gate `>=`)
+- **Critical issues addressed**: 6 (Zanardi 2001 quote non-verbatim at source — repaired to the verbatim spans; L91/L99 self-grading vs L101 → "cuts both ways" / "gets a conditional case"; L51 "ran three demands together" → "listed five demands, grouped here into three levels"; L61 "coined the term" → "introduced the name in print, as far as located"; L71 Ismael & Schaffer read in full — cosmos-as-fundamental is theirs (§4.2.2), phenomenal-unity application marked as the Map's extension; L91 "shows that" → "implies that" on a Map inference)
+- **Medium issues addressed**: 3 (Mad-Dog parenthetical removed from L63 and Carroll & Singh 2019 cited at L99 where Hilbert-space fundamentalism is defined, so ref 5 is not orphaned; L65 abstract-derived Carroll–Singh conditional "would" → "might"; Further Reading descriptors trimmed on five bullets, no target changed)
+- **Enhancements made**: 2 (ref 20 upgraded from abstract-only to full text read; Georgiev 2021 split-into-minds reading confirmed at source in arXiv:2105.01410 — no text change)
+- **Citation ledger**: 24 refs; 17 DOIs Crossref-resolved, 16 arXiv abstracts and 6 PDFs grepped; 1 real-wrong-quote (repaired), 23 real-correct; Chalmers & McQueen and Stapp carried from 20:11Z; no superlative claims
+- **Anchoring**: three lexical flags (3 hedges / 2 strong verbs vs post-decoherence-selection, IIT, many-worlds) judged false-high; `anchoring_audit_exempt: true` installed with dated comment (offset 404 bytes); re-run returns []
+- **Engagement modes** (editor-internal): Tegmark/mereology Mode One; IIT exclusion Mode One; Gambini & Pullin Mode Two; Everettian Mixed (Mode Two → Mode Three, routed to the subjecthood posit); Stoica ally, not opponent
+- **Tenet tiers as read**: T1 compatible / framework-conditional; T2 Map reconstruction, no tier; T3 not directly touched; T4 symmetric parity; T5 conditional case — documented dispute, framework-conditional
+- **Integrity**: 24 unique wikilinks unchanged; five `{#…}` anchors intact; inline ↔ References 24/24 both directions
+- **Absorbs**: todo.md P3 "`concepts/quantum-factorisation-problem` — discharge the four unminted low residuals of pessimistic-2026-09-30 at zero net length" (todo.md untouched; orchestrator to close)
+- **Output**: [[reviews/deep-review-2026-09-30-quantum-factorisation-problem]]
+- **Model**: claude-fable-5-1
+
 ## 2026-09-30T21:52:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/pairing-problem]] (primary) plus four secondary hosts — executed as a multi-host refine for the P2 cross-review task "`concepts/pairing-problem` has no link to the quantum factorisation problem or P-SC2" (optimistic-2026-09-30-creation-wing item 2)
