@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 08:55:16+00:00
+ai_modified: 2026-09-30 09:19:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 08:55:16+00:00
+lastmod: 2026-09-30 09:19:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T09:19:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Selection**: cycle-slot, `scripts/deep_review.py next` (score 55, 77 days unreviewed; six prior reviews, 07-15 stability notes read first and honoured). Not on the two-day exclusion list.
+- **Word count**: 4862 → 4623 (−239). Split: prose 4209 → 4021 (topics/ hard 4000 — now at the ceiling), Further Reading 329 → 274, References 324 → 330. Condensed by removing restatement only; no calibration qualifier, hedge or citation cut.
+- **Critical issues addressed**: 5 — (1) References #16 conflated citation: "Active Inference as a Computational Framework for Consciousness, *RPP* 12, 743-765" resolves at Crossref to Vilas, Auksztulewicz & Melloni (*RPP* 13(4):859–878; the locator matches nothing); re-cited to the real Wiese & Friston (2021) *Philosophies* 6(1):18 whose abstract carries the compatible-with-but-not-entailing-representational-realism claim, body sentence rewritten to the abstract, and the same wrong entry + hallucinated key-points block corrected at four loci in `research/predictive-processing-active-inference-dualism-2026-03-19` (dated correction note added); (2) three orphan References (Clark 2013, Clark 2016, Friston 2010) reattached inline — orphan check now 17/17 both directions; (3) tenet propagation: tenets.md now disowns Stapp's Process-1 context-selection, so "the participating-observer role Stapp ascribes" reworded to a cousin with the divergence stated; (4) "tries and fails to close" contradicted the section's undefeated-rival verdict → "on the Map's reading, does not close"; (5) "strongest empirical case for bidirectional causation" conflated organism→world with Tenet 3's mind→brain → reworded.
+- **Citation web-verify ledger** (raw greps: Europe PMC XML, OpenAlex abstracts, Crossref, preprint PDF): Beni 2021 real-correct (quote verbatim at PMC7885977); Friston/Wiese/Hobson 2020 real-correct ("ultimately reducible", "dual information geometry" verbatim at PMC7517007; authors' own "does not entail property dualism" reply is what the promissory-note paragraph engages); Hohwy & Seth 2020 real-correct (verbatim at phimisci 8947); Laukkonen/Friston/Chandaria 2025 real-correct ("seem necessary", "precedes introspection" grep-verified in PsyArXiv v3 full text; publisher page bot-walled); Feldman & Friston 2010, Friston et al. 2013 (precision↔dopamine reading confirmed), Zénon 2019, Gunji 2022 real-correct; Clark/Friston/Wilkinson 2019 metadata real-correct but "qualitative awareness" unretrievable at any raw host (403/202 traps) → quote marks dropped, paraphrase kept. Softened two overclaims not established by their cites: "classical probability *cannot*" → "handle awkwardly"; "Beni's critique *shows*" → "argues".
+- **Medium issues addressed**: 4 — duplicate "unity of perception and action" bullet removed; duplicated beautiful-loop lead-in merged; duplicated "moment of resolution" sentence merged; Minimal Quantum Interaction paragraph now states minimality in the tenet's rules-out sense (no energy injected, Born statistics intact).
+- **Engagement classification (editor-internal)**: Markovian monism — Mode Two; beautiful loop — Mode Two → Mode Three, unchanged; mechanistic rival — mixed, unchanged; compatibilists — re-marked from flat refutation to Mode Three ("a framework-boundary disagreement the Map marks rather than refutes").
+- **Enhancements made**: 2 — Further Reading descriptions tightened (all 22 routing entries kept); Tenet-3 anchor reused in the quantum-Bayesian section.
+- **Anchoring**: no lexical anchoring flag treated as a finding.
+- **Frontmatter**: `ai_modified` and `last_deep_review` = 2026-09-30T09:17:13+00:00 (real clock); `ai_system` += `+claude-fable-5-1` on the article and the research note.
+- **Output**: [deep-review-2026-09-30-predictive-processing-and-dualism](/reviews/deep-review-2026-09-30-predictive-processing-and-dualism/)
+- **Model**: claude-fable-5-1
+- **Published**: yes
 
 ## 2026-09-30T08:55:16+00:00 - deep-review
 - **Status**: Success (cross-review pass; cycle_pick maps cross-review → deep-review)

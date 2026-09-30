@@ -1,9 +1,9 @@
 ---
 title: "Research: Predictive Processing and Active Inference Under Dualism"
 created: 2026-03-19
-modified: 2026-03-19
+modified: 2026-09-30
 human_modified: null
-ai_modified: 2026-03-19T05:18:00+00:00
+ai_modified: 2026-09-30T09:17:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[predictive-processing-consciousness-2026-01-14]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-03-19
 last_curated: null
 ---
@@ -84,14 +84,14 @@ Active inference — the action-oriented extension of predictive processing unde
   - Sympathetic to illusionism: consciousness rooted in meta-representing our own predictions
 - **Tenet alignment**: Conflicts with Tenet 1 — Clark's extended mind thesis distributes cognition, potentially diluting the concentrated interface point that interactionist dualism needs. However, his emphasis on active inference (organisms changing the world to match predictions) describes exactly the kind of top-down causation that the Map's framework requires
 
-### Active Inference as a Computational Framework for Consciousness (Wiese & Friston, 2021)
-- **URL**: https://link.springer.com/article/10.1007/s13164-021-00579-w
-- **Type**: Paper (Review of Philosophy and Psychology)
+### Examining the Continuity between Life and Mind (Wiese & Friston, 2021)
+- **URL**: https://doi.org/10.3390/philosophies6010018
+- **Type**: Paper (*Philosophies*, 6(1), 18)
+- **Correction (2026-09-30)**: this entry previously carried the title and venue of Vilas, Auksztulewicz & Melloni (2022), "Active Inference as a Computational Framework for Consciousness", *Review of Philosophy and Psychology* 13(4), 859–878 (DOI 10.1007/s13164-021-00579-w), under Wiese & Friston's names with a volume/page that matches no record. Re-resolved at Crossref; the key points below now follow the Wiese & Friston abstract.
 - **Key points**:
-  - Active inference as principled foundation for an overarching theory of consciousness
-  - Two contrasting interpretations examined: structural representationalist vs. enactive
-  - Framework is mathematically neutral — can support multiple philosophical interpretations
-  - Sentient behavior depends on brains' implicit use of internal models to predict, infer, and direct action
+  - Argues the free energy principle supports a strong life–mind continuity: every living system can be described *as if* it had representational states
+  - The FEP renders realism about computation and representation compatible with that continuity thesis, but does not entail computational or representational realism
+  - So the same formalism admits both an enactivist (autopoietic, non-representational) reading and a representationalist one
 - **Tenet alignment**: The acknowledged interpretive flexibility is crucial for the Map. If the mathematics supports both representationalist and enactivist readings, it can also support a dualist reading that treats the computational framework as describing the physical side of a two-sided reality
 
 ### Connecting the Free Energy Principle with Quantum Cognition (Gunji, Shinohara & Basios, 2022)
@@ -177,7 +177,7 @@ Active inference — the action-oriented extension of predictive processing unde
 | 2020 | Friston et al., "From Cartesian Duality to Markovian Monism" | Explicit metaphysical position on consciousness from FEP |
 | 2021 | Seth, *Being You* | Popular science treatment, "controlled hallucination" thesis |
 | 2021 | Beni, "A critical analysis of Markovian monism" | Major philosophical challenge to Friston's metaphysics |
-| 2021 | Wiese & Friston, active inference as consciousness framework | Formal proposal, acknowledging interpretive flexibility |
+| 2021 | Wiese & Friston, life–mind continuity under the FEP | FEP compatible with, but not entailing, representational realism |
 | 2022 | Gunji, Shinohara & Basios, free energy and quantum cognition | Mathematical bridge between FEP and quantum probability |
 | 2025 | Seth & Hohwy, PP as basis for neural correlates of consciousness | Mature statement of PP's role in consciousness science |
 | 2025 | "A beautiful loop: active inference theory of consciousness" | Recent synthesis attempt |
@@ -219,4 +219,4 @@ When writing any of these articles, follow `obsidian/project/writing-style.md` f
 - Ramstead, M.J.D., Kirchhoff, M.D., & Friston, K.J. (2020). A tale of two densities: active inference is enactive inference. *Adaptive Behavior*, 28(4), 225-239. https://journals.sagepub.com/doi/10.1177/1059712319862774
 - Seth, A. (2021). *Being You: A New Science of Consciousness*. Dutton.
 - Seth, A. & Hohwy, J. (2020). Predictive processing as a systematic basis for identifying the neural correlates of consciousness. *Philosophy and the Mind Sciences*, 2. https://philosophymindscience.org/index.php/phimisci/article/view/8947
-- Wiese, W. & Friston, K. (2021). Active Inference as a Computational Framework for Consciousness. *Review of Philosophy and Psychology*, 12, 743-765. https://link.springer.com/article/10.1007/s13164-021-00579-w
+- Wiese, W. & Friston, K. J. (2021). Examining the Continuity between Life and Mind: Is There a Continuity between Autopoietic Intentionality and Representationality? *Philosophies*, 6(1), 18. https://doi.org/10.3390/philosophies6010018
