@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T21:39:36+00:00
+ai_modified: 2026-09-30T21:52:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T21:52:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/pairing-problem]] (primary) plus four secondary hosts — executed as a multi-host refine for the P2 cross-review task "`concepts/pairing-problem` has no link to the quantum factorisation problem or P-SC2" (optimistic-2026-09-30-creation-wing item 2)
+- **Original score**: n/a (targeted cross-link install; no `scripts/curate.py review` run — script absent)
+- **Changes**: Host 1 concepts/pairing-problem — one sentence added as a new paragraph in §The Map's Position after "The quantum framework thus addresses both..." (now L120), not at the review's L86: L86 is Bailey/Rasmussen/Van Horn source exposition, and the factorisation debt is the Map's own, so it belongs where the Map claims the interface dissolves the problem; the sentence links `[[quantum-factorisation-problem|quantum factorisation problem]]` as Kim's "which body" question in tensor-product form and `[[positions/subject-census|P-SC2]]` as the answer the Map still owes, compatible-only, no strengthening (2454 → 2528; concepts hard 3500). Host 2 topics/quantum-holism-and-phenomenal-unity L98 — piped `[[quantum-factorisation-problem|chosen tensor-product factorisation]]` over existing words (3999 → 3999, zero cost). Host 3 concepts/many-worlds L116 — piped `[[quantum-factorisation-problem|how you slice the wave function]]` over existing words (3499 → 3499, zero cost). Host 4 concepts/cotard-delusion L75 — one clause after the P-I1 citation naming the same subjecthood posit (tenets.md L121–123) as what the factorisation page's Tenet 4 parity paragraph shows the indexical argument also owes a factorisation for; consistent-with register kept (3297 → 3329). Host 5 topics/eighteenth-century-influx-debate L97 — one clause after "no worked toy model of the coupling exists" naming where the attempt currently stalls per the factorisation page's Tenet 2 paragraph (needs a *where*; einselected menu factorisation-relative until the system/environment split is fixed); "not yet" register kept (3678 → 3714). `ai_modified` bumped on all five hosts at 21:52:22Z; `claude-fable-5-1` appended to `ai_system` on pairing-problem and quantum-holism. `quantum-factorisation-problem` NOT edited (1 word of headroom; residuals are the queued P3). No named-opponent reply touched; no altered-state flag in scope. todo.md untouched (orchestrator marks the task).
+- **Published**: yes
+- **Model**: claude-fable-5-1
+
 ## 2026-09-30T21:39:36+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/conservation-laws-and-mental-causation]] (primary) plus seven secondary hosts — executed as a multi-host refine for the P2 cross-review task "Influx anchor repairs and creation-wing hosts" (optimistic-2026-09-30-creation-wing item 4)

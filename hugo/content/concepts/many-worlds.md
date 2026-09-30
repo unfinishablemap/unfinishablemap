@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-30 11:58:49+00:00
+ai_modified: 2026-09-30 21:52:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 21:12:00+00:00
-lastmod: 2026-09-30 11:58:49+00:00
+lastmod: 2026-09-30 21:52:22+00:00
 modified: *id001
 related_articles:
 - '[[one-world-wager]]'
@@ -117,7 +117,7 @@ When a measurement occurs on MWI, the universe branches—but along which observ
 
 The answer usually invokes decoherence: environmental interaction selects a "pointer basis" of stable, non-interfering states. This explains why we observe cats as alive-or-dead rather than in superpositions.
 
-**The problem**: Decoherence selects bases only approximately and relative to observers. It doesn't yield unique, observer-independent branches. The branch structure—which worlds exist—depends on how you slice the wave function. This seems to make worlds less fundamental than the interpretation requires.
+**The problem**: Decoherence selects bases only approximately and relative to observers. It doesn't yield unique, observer-independent branches. The branch structure—which worlds exist—depends on [how you slice the wave function](/concepts/quantum-factorisation-problem/). This seems to make worlds less fundamental than the interpretation requires.
 
 **Implications**: If branch structure is observer-relative, MWI faces questions similar to [relational interpretations](/concepts/relational-quantum-mechanics/)—but without RQM's explicit embrace of relationality. The Map does not press this as an independent argument: its own [selection programme](/apex/post-decoherence-selection-programme/) relies on the same einselection machinery, so what force remains folds into the indexical demand for one definite outcome ([the wager's honest count](/apex/one-world-wager/)).
 

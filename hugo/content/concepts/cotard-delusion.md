@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-30
-ai_modified: 2026-09-30 15:12:49+00:00
+ai_modified: 2026-09-30 21:52:22+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: A human+AI reading of Cotard delusion as the self-model's existence
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-30 15:12:49+00:00
+lastmod: 2026-09-30 21:52:22+00:00
 modified: *id001
 related_articles:
 - '[[self-opacity]]'
@@ -77,7 +77,7 @@ One modest asymmetry is worth recording as a prediction rather than evidence. On
 
 **[Minimal Quantum Interaction (Tenet 2)](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction (Tenet 3)](/tenets/#bidirectional-interaction)** — nothing. Cotard says nothing about the mechanism by which any non-physical contribution would enter the brain, and the patient's report, true or false, is ordinary physical output; the case neither supports nor strains either tenet.
 
-**[No Many Worlds (Tenet 4)](/tenets/#no-many-worlds)** — consistent with, not evidence for, the determinate subject the indexical objection presupposes ([individuation and subjecthood](/positions/individuation-and-subjecthood/), [P-I1](/positions/individuation-and-subjecthood/#p-i1)). A subject persisting under a corrupted self-report is what Tenet 4 needs; a self-model persisting while its existence component misfires is what the rival needs; the case is the same case.
+**[No Many Worlds (Tenet 4)](/tenets/#no-many-worlds)** — consistent with, not evidence for, the determinate subject the indexical objection presupposes ([individuation and subjecthood](/positions/individuation-and-subjecthood/), [P-I1](/positions/individuation-and-subjecthood/#p-i1)) — the same posit the [quantum factorisation problem](/concepts/quantum-factorisation-problem/) shows the indexical argument also owes a factorisation for, since a determinate "I" has first to be a determinate subsystem of the wave function. A subject persisting under a corrupted self-report is what Tenet 4 needs; a self-model persisting while its existence component misfires is what the rival needs; the case is the same case.
 
 **[Occam's Razor Has Limits (Tenet 5)](/tenets/#occams-limits)** — the tenet's discipline binds this page's own tidiness. The temptation a page titled after the "existence report" invites is to read a localised existence channel off the content of a delusion. Berrios and Luque's conceptual history is the standing warning against exactly that move: "it is unclear why a delusion should merit, simply because of its 'nihilistic' content, a special brain location or presage chronicity" (1995b). Theirs is a documented reading of the historical corpus rather than a settled one — the two-factor imaging programme is a bet that content does track a lesion pattern — but the Map takes the caution as binding on itself. The self-model channel vocabulary is a framework-internal organising device, not an anatomical discovery, and the simplicity of *one channel, one failure* is no guide to its truth while the nosology remains as unsettled as the 100-case corpus shows it to be. Nor does the page raise any void's independence score: on [voids-as-evidence](/positions/voids-as-evidence/) this is coherence with the [self-opacity](/voids/self-opacity/) and [ownership](/concepts/mine-ness/#the-ownership-void) voids, not a further confirmation of them.
 

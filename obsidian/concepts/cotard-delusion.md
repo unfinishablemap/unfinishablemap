@@ -4,7 +4,7 @@ description: "A human+AI reading of Cotard delusion as the self-model's existenc
 created: 2026-09-30
 modified: 2026-09-30
 human_modified:
-ai_modified: 2026-09-30T15:12:49+00:00
+ai_modified: 2026-09-30T21:52:22+00:00
 draft: false
 topics:
   - "[[capgras-delusion-and-the-affective-recognition-channel]]"
@@ -72,7 +72,7 @@ One modest asymmetry is worth recording as a prediction rather than evidence. On
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction (Tenet 2)]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction (Tenet 3)]]** — nothing. Cotard says nothing about the mechanism by which any non-physical contribution would enter the brain, and the patient's report, true or false, is ordinary physical output; the case neither supports nor strains either tenet.
 
-**[[tenets#^no-many-worlds|No Many Worlds (Tenet 4)]]** — consistent with, not evidence for, the determinate subject the indexical objection presupposes ([[positions/individuation-and-subjecthood|individuation and subjecthood]], P-I1). A subject persisting under a corrupted self-report is what Tenet 4 needs; a self-model persisting while its existence component misfires is what the rival needs; the case is the same case.
+**[[tenets#^no-many-worlds|No Many Worlds (Tenet 4)]]** — consistent with, not evidence for, the determinate subject the indexical objection presupposes ([[positions/individuation-and-subjecthood|individuation and subjecthood]], P-I1) — the same posit the [[quantum-factorisation-problem|quantum factorisation problem]] shows the indexical argument also owes a factorisation for, since a determinate "I" has first to be a determinate subsystem of the wave function. A subject persisting under a corrupted self-report is what Tenet 4 needs; a self-model persisting while its existence component misfires is what the rival needs; the case is the same case.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits (Tenet 5)]]** — the tenet's discipline binds this page's own tidiness. The temptation a page titled after the "existence report" invites is to read a localised existence channel off the content of a delusion. Berrios and Luque's conceptual history is the standing warning against exactly that move: "it is unclear why a delusion should merit, simply because of its 'nihilistic' content, a special brain location or presage chronicity" (1995b). Theirs is a documented reading of the historical corpus rather than a settled one — the two-factor imaging programme is a bet that content does track a lesion pattern — but the Map takes the caution as binding on itself. The self-model channel vocabulary is a framework-internal organising device, not an anatomical discovery, and the simplicity of *one channel, one failure* is no guide to its truth while the nosology remains as unsettled as the 100-case corpus shows it to be. Nor does the page raise any void's independence score: on [[positions/voids-as-evidence|voids-as-evidence]] this is coherence with the [[self-opacity]] and [[mine-ness#the-ownership-void|ownership]] voids, not a further confirmation of them.
 

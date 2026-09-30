@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: branch-local indexicality can't supply th
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-09-30T11:58:49+00:00
+ai_modified: 2026-09-30T21:52:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,7 +113,7 @@ When a measurement occurs on MWI, the universe branches—but along which observ
 
 The answer usually invokes decoherence: environmental interaction selects a "pointer basis" of stable, non-interfering states. This explains why we observe cats as alive-or-dead rather than in superpositions.
 
-**The problem**: Decoherence selects bases only approximately and relative to observers. It doesn't yield unique, observer-independent branches. The branch structure—which worlds exist—depends on how you slice the wave function. This seems to make worlds less fundamental than the interpretation requires.
+**The problem**: Decoherence selects bases only approximately and relative to observers. It doesn't yield unique, observer-independent branches. The branch structure—which worlds exist—depends on [[quantum-factorisation-problem|how you slice the wave function]]. This seems to make worlds less fundamental than the interpretation requires.
 
 **Implications**: If branch structure is observer-relative, MWI faces questions similar to [[relational-quantum-mechanics|relational interpretations]]—but without RQM's explicit embrace of relationality. The Map does not press this as an independent argument: its own [[post-decoherence-selection-programme|selection programme]] relies on the same einselection machinery, so what force remains folds into the indexical demand for one definite outcome ([[one-world-wager|the wager's honest count]]).
 

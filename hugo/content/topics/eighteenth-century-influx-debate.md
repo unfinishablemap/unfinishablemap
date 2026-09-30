@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-30
-ai_modified: 2026-09-30 18:26:42+00:00
+ai_modified: 2026-09-30 21:52:22+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 18:26:42+00:00
-lastmod: 2026-09-30 18:26:42+00:00
+lastmod: 2026-09-30 21:52:22+00:00
 modified: *id001
 related_articles:
 - '[[history-of-the-interaction-problem]]'
@@ -98,7 +98,7 @@ The Map reads the episode as evidence about the history of the interaction probl
 
 **For Tenet 5, a narrower lesson than "parsimony fails."** [Occam's Razor Has Limits](/tenets/#occams-limits) holds that simplicity is an unreliable guide to truth when knowledge is incomplete. The tempting reading of the influx debate is that the simpler, law-preserving theory — pre-established harmony, which needs no unexplained causal traffic and no exception to conservation — lost, and that parsimony therefore failed. The Map declines that reading, because the four strands above, on the Map's reconstruction, have harmony losing for reasons that had nothing to do with whether simplicity tracks truth: a theological argument about imputability, a royal edict, and a redefinition of what its rival was claiming. The lesson the Map draws is smaller and more defensible. Which theory a philosophical culture holds is settled, at least sometimes, by pressures orthogonal to the theory's simplicity, so the fact that a community has converged on the more parsimonious option is weak evidence that parsimony was what did the converging — and, by symmetry, the fact that a community has converged on the less parsimonious option is weak evidence that parsimony was overruled by truth. This is a framework-conditional implication: it follows from Tenet 5's premise that the epistemic weight of simplicity depends on the completeness of the surrounding knowledge, and it is offered as an illustration of that premise, not as an independent argument for it. A reader who holds that parsimony is reliable can read the same history as a community failing to apply a good rule.
 
-**On Knutzen's concession and the Map's own debt.** The Map's position differs from Knutzen's at precisely the point where he stopped. The quantum-selection proposal attempts what Knutzen declared could not be attempted: a specification of how the influence works. The Map's [own standing note on Tenet 3](/tenets/#tenet-3-standing) records that the attempt is incomplete — the interface argument shows downward causation to be available, not actual, and no worked toy model of the coupling exists. So the honest comparison is that Knutzen conceded the mechanism could not be distinctly understood, and the Map holds that it has not yet been. The difference between those two claims is the difference between a void the Map maps as unexplorable and one it maps as unexplored, and the Map's wager is on the second.
+**On Knutzen's concession and the Map's own debt.** The Map's position differs from Knutzen's at precisely the point where he stopped. The quantum-selection proposal attempts what Knutzen declared could not be attempted: a specification of how the influence works. The Map's [own standing note on Tenet 3](/tenets/#tenet-3-standing) records that the attempt is incomplete — the interface argument shows downward causation to be available, not actual, and no worked toy model of the coupling exists, and the [quantum factorisation problem](/concepts/quantum-factorisation-problem/) records where the attempt currently stalls: the mechanism needs a *where*, and the einselected menu it would act within is factorisation-relative until the programme says which system/environment split it belongs to. So the honest comparison is that Knutzen conceded the mechanism could not be distinctly understood, and the Map holds that it has not yet been. The difference between those two claims is the difference between a void the Map maps as unexplorable and one it maps as unexplored, and the Map's wager is on the second.
 
 ## Further Reading
 

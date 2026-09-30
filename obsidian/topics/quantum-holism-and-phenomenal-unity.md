@@ -4,7 +4,7 @@ description: "Classical binding coordinates separate processes but cannot make t
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-09-25T11:02:03+00:00
+ai_modified: 2026-09-30T21:52:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-07-30T19:47:42+00:00
@@ -95,7 +95,7 @@ Classical physics provides only external relations. Quantum mechanics provides s
 
 When quantum systems become entangled, they form a whole with properties that neither part possesses individually. The entangled system cannot be decomposed into the states of its components—formally, the joint state is non-separable. On the Map's collapse-realist reading, this non-separability amounts to ontological unity rather than mere correlation; statistical, relational, and Everettian interpretations accept the same non-separability without granting metaphysical oneness, so the step from formalism to "one thing" is an interpretive commitment, not a datum of physics. Neven et al. (2024) hold that "quantum entanglement naturally solves the binding problem," in a proposal "firmly rooted in Everett's 'many worlds' formulation"; the Map borrows the binding role and departs over indexical identity, not unity.
 
-Entanglement also supplies no boundary. It is defined only relative to a chosen tensor-product factorisation (Zanardi, Lidar & Lloyd 2004), and decoherence is itself entanglement with the environment, so nothing in the formalism says why a brain subcomplex rather than brain-plus-environment counts as the unified whole; unconstrained, entanglement-based unity drifts toward cosmopsychism and the [[combination-problem]]. The Map concedes it has no subject-pairing law ([[subject-census]]).
+Entanglement also supplies no boundary. It is defined only relative to a [[quantum-factorisation-problem|chosen tensor-product factorisation]] (Zanardi, Lidar & Lloyd 2004), and decoherence is itself entanglement with the environment, so nothing in the formalism says why a brain subcomplex rather than brain-plus-environment counts as the unified whole; unconstrained, entanglement-based unity drifts toward cosmopsychism and the [[combination-problem]]. The Map concedes it has no subject-pairing law ([[subject-census]]).
 
 This matches phenomenal unity's structure. Experience does not feel assembled from separate quale-atoms and then unified; it comes as a whole from the ground up—the redness of the apple and the sound of music are aspects of *one* experience, not two experiences later bound.
 

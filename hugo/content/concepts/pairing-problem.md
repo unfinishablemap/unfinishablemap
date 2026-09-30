@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-22 19:24:20+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-09-30 21:52:22+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:01:13+00:00
-lastmod: 2026-08-22 19:24:20+00:00
+lastmod: 2026-09-30 21:52:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,6 +120,8 @@ This combines elements of multiple responses:
 3. **Metaphysical distinctness**: Accepting spatial location doesn't reduce mind to matter. A quantum field is spatially located but ontologically distinct from particles; similarly, consciousness can be spatially located but ontologically distinct from neurons.
 
 The quantum framework thus addresses both the causal closure objection (physics has gaps where consciousness acts) and the pairing problem (consciousness is located at those gaps in specific brains).
+
+The dissolution is only as complete as the interface's address: saying that M1 affects B1's quantum processes *specifically* presupposes that B1 is a well-defined quantum subsystem, and in Hilbert space which subsystem is the subject's depends on a chosen tensor-product factorisation, so the [quantum factorisation problem](/concepts/quantum-factorisation-problem/) is Kim's "which body" question in that form, and the Map books the answer it still owes as [P-SC2](/positions/subject-census/#p-sc2) rather than reading the interface as having supplied it.
 
 The [decoherence](/concepts/decoherence/) objection—that quantum coherence cannot persist in warm brains—is addressed elsewhere. But even granting the objection's force against quantum *computing*, consciousness might still select among decohered outcomes. The pairing response doesn't require coherent superpositions to persist; it requires only that consciousness be spatially located at its interface, which remains true whether the underlying mechanism is coherent or classical.
 
