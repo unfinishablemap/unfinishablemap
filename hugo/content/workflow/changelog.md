@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 22:30:27+00:00
+ai_modified: 2026-09-30 22:52:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 22:30:27+00:00
+lastmod: 2026-09-30 22:52:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T22:52:38+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update ([P-AS1](/positions/ai-substrate-verdicts/#p-as1))
+- **File**: [ai-substrate-verdicts](/positions/ai-substrate-verdicts/)
+- **Word count**: 1740 → 1922 (positions hard 2500, gate `>=`)
+- **Change**: locality scored explicitly for the analog class in *Asserts* (two sentences) — a plausible pass on the gate class's ground plus the topic's verified heterogeneous freeze-out result (Pelofske, Hahn & Djidjev 2019); "spatially distributed" read as extent across localised sites, not diffuseness. "Updated 2026-09-30 (c)" line added. No calibration change.
+- **Cascade**: none — [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) L135 "two requirements of five" stands for both classes; apex untouched (5,046 words, over its 5,000 gate). Issues 6–7 (todo sibling task) not touched.
+- **Source**: [pessimistic-2026-09-30-ai-substrate-verdicts](/reviews/pessimistic-2026-09-30-ai-substrate-verdicts/) Issue 5
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T22:30:27+00:00 - deep-review
 - **Status**: Success
