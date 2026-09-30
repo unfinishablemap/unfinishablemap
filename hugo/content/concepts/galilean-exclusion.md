@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-09-30 08:54:16+00:00
+ai_modified: 2026-09-30 10:13:17+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 09:10:46+00:00
-lastmod: 2026-09-30 08:54:16+00:00
+lastmod: 2026-09-30 10:13:17+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -47,7 +47,7 @@ The vocabulary matters. In §48 of *Il Saggiatore* Galileo writes that he cannot
 
 What remains when the relocated qualities are set aside is the mathematical skeleton — particles in motion, describable by geometry and number — and Galileo's insight was that this skeleton is sufficient for physics: you do not need to know what red looks like to predict a wavelength. The relocation was also a research programme rather than a dismissal: the qualities now placed in the sentient body were to be explained by the motions and contacts of the primary ones, a programme Piccolino and Wade (2008) read as anticipating Helmholtz and present-day sensory neuroscience.
 
-Descartes gave a related division a metaphysical architecture: *res extensa* (extended, measurable substance) against *res cogitans* (thinking substance), with experience outside physical description as a matter of ontology. Cartesian dualism had its own roots and is not derivative of Galileo, but it supplied the two-substance framework within which the relocated qualities became a domain of their own. (The terms "primary" and "secondary" qualities are Boyle's, made canonical by Locke.) Galileo's own claim was thus already ontological rather than a methodological convenience — he *relocates* the qualities rather than merely omitting them — but it was a speculative posit, made in passing within an atomist account of heat, and it was Descartes who turned the relocation into a system. The [boundary the exclusion presupposes](/topics/primary-secondary-quality-boundary/) is itself unstable — it admits no clean, non-circular criterion — which is the deeper reason the relocation never amounted to a genuine discovery about qualities.
+Descartes gave a related division a metaphysical architecture: *res extensa* (extended, measurable substance) against *res cogitans* (thinking substance), with experience outside physical description as a matter of ontology. Cartesian dualism had its own roots and is not derivative of Galileo, but it supplied the two-substance framework within which the relocated qualities became a domain of their own. (The terms "primary" and "secondary" qualities are Boyle's, made canonical by Locke.) Galileo's own claim was thus already ontological rather than a methodological convenience — he *relocates* the qualities rather than merely omitting them — but it was a speculative posit, made in passing within an atomist account of heat, and it was Descartes who turned the relocation into a system. The [boundary the exclusion presupposes](/topics/primary-secondary-quality-boundary/) is itself unstable — it admits no clean, non-circular criterion — which, on the Map's synthesis rather than any external finding, is the deeper reason the relocation never amounted to a discovery about qualities.
 
 ## Why the Exclusion Worked
 

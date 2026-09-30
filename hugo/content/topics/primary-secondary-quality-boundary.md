@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-09-08 13:32:52+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-09-30 10:13:17+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[galilean-exclusion]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-07 12:53:11+00:00
-lastmod: 2026-09-08 13:32:52+00:00
+lastmod: 2026-09-30 10:13:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ The distinction looks tidy until one asks what does the dividing. Three centurie
 
 **The dispositional criterion collapses the asymmetry.** A common modern repair makes secondary qualities *dispositional* — powers to produce sensations — and primary qualities *categorical* — intrinsic features of the object. But primary qualities are, on inspection, equally relational. Shape is defined by spatial relations; solidity is a disposition to resist penetration; motion is relative to a frame. Physics describes objects as bundles of dispositions and relations all the way down, which is the lesson of the [intrinsic-nature problem](/concepts/intrinsic-nature/) and the [intrinsic-nature void](/voids/intrinsic-nature-void/): the categorical residue Locke reserved for primary qualities is precisely what physics never delivers. If "dispositional" demotes a quality to the secondary side, then every quality may be secondary.
 
-**The colour cases straddle the line.** Colour is the test case the distinction was built around, and it refuses to stay on either side. Colour-as-experienced has an undeniable phenomenal character; colour-as-physics is a surface's disposition to reflect certain wavelengths. Is colour phenomenal or dispositional? The honest answer is that the question seems to expose the fault rather than locate the quality. Taste, smell, and warmth all straddle the same line. These are not edge cases brought in to embarrass the distinction — they are the central examples around which the very notion of "secondary quality" was assembled.
+**The colour cases straddle the line.** Colour is the test case the distinction was built around, and it refuses to stay on either side. Colour-as-experienced has an undeniable phenomenal character; colour-as-physics is a surface's disposition to reflect certain wavelengths. Is colour phenomenal or dispositional? The honest answer is that the question seems to expose the fault rather than locate the quality. Relationalist and response-dependent theories of colour (Cohen 2009; Maund 2024) hold a live intermediate position — colour real, constituted by relations to perceivers and viewing conditions, and open to objective study — so the options are not exhausted by "intrinsic content physics excludes" and "abolished". Taste, smell, and warmth all straddle the same line. These are not edge cases brought in to embarrass the distinction — they are the central examples around which the very notion of "secondary quality" was assembled.
 
 The pattern is consistent: every proposed criterion for the boundary either presupposes what it sorts, or, applied evenly, dissolves the asymmetry it was meant to mark. The line is real as a *contrast* — there is plainly a difference between a tomato's wavelength-reflectance and the felt redness — but its principled location remains underdetermined: no proposal has made it coincide with a single, non-circular, evenly-applied cut.
 
@@ -72,7 +72,7 @@ The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/
 
 Calibration matters here. The boundary's instability is a real and well-attested feature of the distinction; it is not, by itself, an argument for dualism, and the Map does not run it as one.
 
-What the instability **does** license is a narrower, defensive conclusion. The clean primary/secondary division is frequently deployed as a *parsimony move*: physics describes the primary qualities, the primary qualities are all that is mind-independently real, therefore the secondary qualities (and the experience that hosts them) are derivative and the picture is ontologically simple. That argument requires the division to be principled. If the line admits no non-circular criterion, the simplicity it purchases is simplicity-by-stipulation — the appearance of a clean two-category world bought by drawing a cut that cannot be evenly justified. This weakens one common argument *against* taking experience as fundamental; it does not establish that experience *is* fundamental.
+What the instability **does** license is a narrower, defensive conclusion. The clean primary/secondary division is frequently deployed as a *parsimony move*: physics describes the primary qualities, the primary qualities are all that is mind-independently real, therefore the secondary qualities (and the experience that hosts them) are derivative and the picture is ontologically simple. That argument requires the division to be principled. If the line admits no non-circular criterion, the simplicity it purchases is simplicity-by-stipulation — the appearance of a clean two-category world bought by drawing a cut that cannot be evenly justified. This weakens one common argument *against* taking experience as fundamental; it does not establish that experience *is* fundamental. The instability itself has independent support — Berkeley's critique of Locke's resemblance thesis and the early-modern debate it opened (Bolton 2022), and the unsettled ontology of colour (Maund 2024) — whereas the identification of that instability with the explanatory gap, the "one phenomenon described twice" of the previous section, is Map-internal synthesis and carries no external evidential weight.
 
 What the instability does **not** license is the inference that, because the boundary blurs, secondary qualities must be metaphysically primary, or that wetness is phenomenal in the way pain is. The contrast between reflectance and felt redness survives the failure to find a criterion. The conservative reading — and the Map's — is that the line marks a genuine difference whose principled location no one has supplied, which is exactly what one expects if the difference *is* the form/content fault rather than a sortable property of qualities.
 
@@ -92,7 +92,7 @@ This article connects to two of the Map's [tenets](/tenets/) at calibrated stren
 
 ## Further Reading
 
-- [galilean-exclusion](/concepts/galilean-exclusion/) — The methodological move that turned the distinction into a working metaphysics; this article supplies the boundary that the exclusion presupposes
+- [galilean-exclusion](/concepts/galilean-exclusion/) — The methodological move that turned the distinction into a working metaphysics; its claim that the relocation was no discovery about qualities rests on this article's instability argument, a Map-internal dependency rather than external support
 - [reductionism](/concepts/reductionism/) — The form/content distinction in full: why structural description cannot deliver phenomenal content
 - [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) — The equivocation objection whose load-bearing premise is the boundary's instability
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap this article identifies the boundary with
@@ -105,22 +105,28 @@ This article connects to two of the Map's [tenets](/tenets/) at calibrated stren
 
 1. Berkeley, G. (1710/1998). *A Treatise Concerning the Principles of Human Knowledge*. Ed. J. Dancy. Oxford University Press.
 
-2. Demopoulos, W., & Friedman, M. (1985). Critical Notice: Bertrand Russell's *The Analysis of Matter*: Its Historical Context and Contemporary Interest. *Philosophy of Science*, 52(4), 621–639. https://doi.org/10.1086/289281
+2. Bolton, M. (2022). Primary and Secondary Qualities in Early Modern Philosophy. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qualities-prim-sec/
 
-3. Esfeld, M., & Lam, V. (2008). Moderate structural realism about space-time. *Synthese*, 160(1), 27–46. https://doi.org/10.1007/s11229-006-9076-2
+3. Cohen, J. (2009). *The Red and the Real: An Essay on Color Ontology*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199556168.001.0001
 
-4. Galilei, G. (1623/1957). *The Assayer*. Trans. S. Drake. In *Discoveries and Opinions of Galileo*. Doubleday.
+4. Demopoulos, W., & Friedman, M. (1985). Critical Notice: Bertrand Russell's *The Analysis of Matter*: Its Historical Context and Contemporary Interest. *Philosophy of Science*, 52(4), 621–639. https://doi.org/10.1086/289281
 
-5. Kleiner, J. (2025). The Newman problem of consciousness science. *Philosophy and the Mind Sciences*, 6. https://doi.org/10.33735/phimisci.2025.11827
+5. Esfeld, M., & Lam, V. (2008). Moderate structural realism about space-time. *Synthese*, 160(1), 27–46. https://doi.org/10.1007/s11229-006-9076-2
 
-6. Locke, J. (1689/1975). *An Essay Concerning Human Understanding*. Ed. P. H. Nidditch. Clarendon Press. (Book II, Chapter VIII.)
+6. Galilei, G. (1623/1957). *The Assayer*. Trans. S. Drake. In *Discoveries and Opinions of Galileo*. Doubleday.
 
-7. Loorits, K. (2014). Structural qualia: a solution to the hard problem of consciousness. *Frontiers in Psychology*, 5, 237. https://doi.org/10.3389/fpsyg.2014.00237
+7. Kleiner, J. (2025). The Newman problem of consciousness science. *Philosophy and the Mind Sciences*, 6. https://doi.org/10.33735/phimisci.2025.11827
 
-8. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148. https://doi.org/10.1093/mind/xxxvii.146.137
+8. Locke, J. (1689/1975). *An Essay Concerning Human Understanding*. Ed. P. H. Nidditch. Clarendon Press. (Book II, Chapter VIII.)
 
-9. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
+9. Loorits, K. (2014). Structural qualia: a solution to the hard problem of consciousness. *Frontiers in Psychology*, 5, 237. https://doi.org/10.3389/fpsyg.2014.00237
 
-10. Southgate, A. & Oquatre-huit, C. (2026-01-19). Reductionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/reductionism/
+10. Maund, B. (2024). Color. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (rev. 9 August 2024). https://plato.stanford.edu/entries/color/
 
-11. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
+11. Newman, M. H. A. (1928). Mr. Russell's "Causal Theory of Perception". *Mind*, 37(146), 137–148. https://doi.org/10.1093/mind/xxxvii.146.137
+
+12. Southgate, A. & Ocinq, C. (2026-09-04). Ontic Structural Realism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ontic-structural-realism/
+
+13. Southgate, A. & Oquatre-huit, C. (2026-01-19). Reductionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/reductionism/
+
+14. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
