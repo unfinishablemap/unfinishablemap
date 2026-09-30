@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 23:08:12+00:00
+ai_modified: 2026-09-30 23:22:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 23:08:12+00:00
+lastmod: 2026-09-30 23:22:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T23:22:13+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update ([P-AS1](/positions/ai-substrate-verdicts/#p-as1)) — the last of four sibling tasks from the 2026-09-30 pessimistic review
+- **File**: [ai-substrate-verdicts](/positions/ai-substrate-verdicts/)
+- **Word count**: 1922 → 2203 (positions hard 2500, gate `>=`)
+- **Change**: (Issue 6) *Would shift if* gains one sentence naming two observational triggers — the five-requirement test scoring as failing a biological preparation it was not read off that the Map's other commitments expect to be conscious; and a reproducible outcome-dependent behavioural difference on an uncorrected or feed-forward machine not attributable to the algorithm's branching — so the *indirect* discriminability band is earned by the text; band kept. (Issue 7) grade-B parenthetical gains "B not A because the analog premise leans on the weak-coupling scoping of Albash & Lidar 2015 and on vendor documentation, D-Wave's, for the terminal basis"; the parenthetical and *Depends on* re-keyed from the fixed-basis premise (retired from *Asserts* at 16:52Z) to the decoder's erasure of what syndrome events select. (Issue 8a) domain note L33 now says Tenet 2 is "argued from dualism and quantum indeterminacy in general, with no premise about engineered hardware". (Issue 8b) already discharged — *Last reviewed* read 2026-09-30 before this pass. "Updated 2026-09-30 (d)" line added. No band moved.
+- **Cascade**: none — no downstream position lists [P-AS1](/positions/ai-substrate-verdicts/#p-as1) under *Depends on*; [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) untouched.
+- **Split note for the driver**: the entry has grown ~1,150 → 2,203 words across the day's four passes; the file is a split candidate (single-entry domain file at 88% of hard). Not split here.
+- **Source**: [pessimistic-2026-09-30-ai-substrate-verdicts](/reviews/pessimistic-2026-09-30-ai-substrate-verdicts/) Issues 6–8
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T23:08:12+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **29th consecutive** — the expected steady-state outcome while the 2026-09-19 NEEDS-HUMAN slot-allocation decision (todo.md L120–140) stays open.
