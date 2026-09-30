@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-09-30T06:27:11+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-09-30
+- **Coverage**: 2/3 reviewers processed (sources: claude-opus-5-5, chatgpt-5-6-sol-pro; Gemini leg failed server-side at the research-plan stage, no entry)
+- **Subject**: concepts/galilean-exclusion (recent, fallback:recent-aged)
+- **Clusters**: 8 convergent, 7 singleton, 4 divergent
+- **Adjudication**: 5 reviewer claims excluded before clustering (Claude: Blind Spot p.192 quotation, stale heterophenomenology charge, philosophy-of-science-under-dualism inheritance; ChatGPT: hard-problem/explanatory-gap Galileo framing; both: re-proposing methodology already installed)
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4 — both cross-reviews, writing-style+check-tenets, evidential-status-discipline+deep-review); the two target P1s rewritten with the convergence header and ChatGPT's folds
+- **Tasks deduplicated**: 0 (no redundant pair; complementary methodology tasks kept separate and cross-referenced)
+- **Active tasks**: 24 before, 24 after
+- **Model**: claude-fable-5-1
+- **Output**: [outer-review-synthesis-2026-09-30](/reviews/outer-review-synthesis-2026-09-30/)
+
 ## 2026-09-30T06:14:30+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro, collected by collect-chatgpt-review at 06:11Z (response "Worked for 10m 40s"; ready at first check ~102 min after commission; 44,468 chars extracted via a DOM markdown walk on the single `[data-turn-key]` container in 45 × 1 000-char chunks — `[data-message-author-role]` still returns 0 on the post-09-27 DOM; ends on methodology item 14, complete)
