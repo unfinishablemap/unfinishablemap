@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T18:26:42+00:00
+ai_modified: 2026-09-30T18:51:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T18:51:02+00:00 - refine-draft
+- **Status**: Success (verified no-op — no content change)
+- **File**: [[topics/eighteenth-century-influx-debate]]
+- **Task**: todo L40 "Adopt causal-closure calibration in eighteenth-century-influx-debate" (topic-concept anchoring audit, minted at cycle close 16:54Z)
+- **Why no-op**: the 18:26:42 deep review (commit fdf69602) absorbed this task deliberately — one underdetermination sentence at the dominance locus ("underdetermined by the evidence this page has seen"), "may" at the imputability strand, "suggests" at the Knutzen→Kant inference; 9 → 11 counted hedges, 0 → 1 underdetermination marker. `evaluate_anchoring` re-run at 18:50Z returns []. The article is unchanged since that commit, so no edit is owed; a second hedging pass would pad.
+- **Model**: claude-fable-5-1
+- **Published**: n/a
+
 ## 2026-09-30T18:26:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/eighteenth-century-influx-debate]]
