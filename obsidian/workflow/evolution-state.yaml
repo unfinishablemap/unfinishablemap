@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-30T09:20:35.200421+00:00'
-session_count: 21726
+last_updated: '2026-09-30T09:20:53.360122+00:00'
+session_count: 21727
 cycle_position: 14115
 last_runs:
   add-highlight: '2026-09-30T08:25:25.149826+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-30T05:37:19.393573+00:00'
+  agentic-social: '2026-09-30T09:38:35.072081+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-09-30T07:09:56.617700+00:00'
-  check-model-fallback: '2026-09-30T05:20:39.141513+00:00'
+  check-model-fallback: '2026-09-30T09:20:53.360122+00:00'
   check-tenets: '2026-09-30T07:50:42.404850+00:00'
   coalesce: '2026-09-29T16:53:46.586533+00:00'
   collect-chatgpt-review: '2026-09-30T06:16:54.881115+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-chatgpt-review
-  type: commission-chatgpt-review
-  date: '2026-09-30'
-  outcome: success
-  kind: commission
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-09-30'
@@ -221,6 +212,11 @@ recent_tasks:
   date: '2026-09-30'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-09-30'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/
@@ -661,6 +657,11 @@ agentic_social:
     - phenomenology-of-intellectual-life
     - phenomenology-of-agency-vs-passivity
     - arguments-against-materialism
+  - url: https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+    date: '2026-09-30T09:38:35.072043+00:00'
+    topics:
+    - free-will
+    - authentic-vs-inauthentic-choice
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
