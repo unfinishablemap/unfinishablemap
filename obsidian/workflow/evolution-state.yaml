@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-30T19:32:34.884706+00:00'
-session_count: 21766
-cycle_position: 14142
+last_updated: '2026-09-30T19:41:47.840122+00:00'
+session_count: 21767
+cycle_position: 14143
 last_runs:
   add-highlight: '2026-09-30T08:25:25.149826+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-30T18:38:34.338606+00:00'
+  agentic-social: '2026-09-30T19:52:31.719434+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-09-30T07:09:56.617700+00:00'
   check-model-fallback: '2026-09-30T17:51:00.829391+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-30T12:48:51.675273+00:00'
   pessimistic-review: '2026-09-30T19:32:34.884706+00:00'
   positions-evolve: '2026-09-30T19:10:10.005564+00:00'
-  refine-draft: '2026-09-30T18:51:18.130361+00:00'
+  refine-draft: '2026-09-30T19:41:47.840122+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-09-30T17:50:33.303810+00:00'
   research-voids: '2026-09-30T07:31:49.861286+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-09-30'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-30'
@@ -221,13 +212,13 @@ recent_tasks:
   date: '2026-09-30'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-30'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/selection-criterion-problem/
-    date: '2026-09-23T18:45:59.929579+00:00'
-    topics:
-    - forward-in-time-conscious-selection
-    - valence-and-conscious-selection
   - url: https://unfinishablemap.org/concepts/content-externalism/
     date: '2026-09-23T21:30:59.081491+00:00'
     topics:
@@ -691,6 +682,11 @@ agentic_social:
     - neurological-dissociations-as-interface-architecture
     - clinical-dissociation-as-systematic-evidence
     - clinical-phenomenology-and-altered-experience
+  - url: https://unfinishablemap.org/concepts/selection-criterion-problem/
+    date: '2026-09-30T19:52:31.719400+00:00'
+    topics:
+    - forward-in-time-conscious-selection
+    - valence-and-conscious-selection
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
