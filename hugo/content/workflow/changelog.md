@@ -1,15 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 15:56:28+00:00
+ai_modified: 2026-09-30 16:13:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 15:56:28+00:00
+lastmod: 2026-09-30 16:13:05+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-09-30T16:13:05+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The eighteenth-century influxus physicus debate — Knutzen, Crusius and the pre-critical Kant as the reversal of the anti-interactionist consensus
+- **Output**: [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/)
+- **Word count**: 3611 (`analyze_length`, topics soft 3000 / hard 4000, status soft_warning; under the `>=4000` gate with 388 headroom; body before References ~3,100, references ~500)
+- **Based on research**: yes — [influxus-physicus-debate-2026-09-17](/research/influxus-physicus-debate-2026-09-17/) (Angle 1, reception history; all 24 quoted spans ≥3 words grep-verified against the note's Key Sources; "Wolff retracted in 1724" omitted; Knutzen 1735/1745 same-work question left open; dominance claim worded as reported-by-Watkins/Lorini and explicitly not asserted; Kuehn deflation of Knutzen's influence on Kant stated in §The Pre-Critical Kant; no Latin/German primary consulted — disclosed once in the lead and per-entry in References; unreachable open-access sources (Dyck, Ergo, Pitts, Kant-Studien) and Kuehn's Bloomsbury entry not cited)
+- **Reciprocals**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) one bridge sentence at §The Materialist Eclipse + one clause naming Knutzen at the Régis horn (2983 → 3016, crosses soft 3000, no gate consequence); [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) one sentence at the §Leibniz→§Nineteenth Century seam (3310 → 3347); [occasionalism](/concepts/occasionalism/) one sentence in §Sibling Non-Interactionist Solutions (1814 → 1831); [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) piped wikilink over existing L47 text (3813 → 3813, unchanged, already hard_warning); [objections-to-interactionism](/concepts/objections-to-interactionism/) piped over L65 "Since Leibniz" (2971 → 2971); [interactionist-dualism](/concepts/interactionist-dualism/) piped over L217 "seemed closed for centuries" (3478 → 3478)
+- **Gaps carried as hedges**: Watkins 1998 and 1995 unread (References say so); Watkins 2005 known via Rauscher's NDPR review only; Crusius's freedom motive stated as "the standard account" not checked against the Entwurf; Watkins 1998 p. 183 quoted only through Lorini; Kant 1:410 quoted through Watkins 2003 (Cambridge Edition cited as the source translation)
+- **Model**: claude-fable-5-1
 ## 2026-09-30T15:56:28+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The quantum factorisation problem — entanglement is tensor-product-structure-relative, so every entanglement-based unity or individuation claim owes a factorisation

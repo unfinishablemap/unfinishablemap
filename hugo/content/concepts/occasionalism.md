@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-07-14 22:35:00+00:00
+ai_modified: 2026-09-30 16:12:18+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:11:21+00:00
-lastmod: 2026-07-14 22:35:00+00:00
+lastmod: 2026-09-30 16:12:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ The second objection is the slide toward [epiphenomenalism](/concepts/epiphenome
 
 ## Sibling Non-Interactionist Solutions
 
-Occasionalism belongs to a family of theories that keep the dualist *distinction* while abandoning the causal *link*. Leibniz's **pre-established harmony** packs all coordination into a single creative act: God so constructs each substance that its states unfold by their own law yet correspond exactly to every other's, with no ongoing causal traffic. His two-clocks illustration frames the options as three ways two clocks might stay in agreement—mutual influence (interactionism), a craftsman continually adjusting them (occasionalism, which Leibniz mocks as perpetual miracle), or perfect initial construction (his own harmony). **Psychophysical parallelism** generalises the "two synchronised series, no interaction" picture, with the correlation grounded in God (Leibniz), in one substance under two attributes (Spinoza's dual-aspect reading, the same double-aspect identity Fechner later defended), or left as a bare methodological posit (Wundt). The Spinozist version is the one to watch: it shares vocabulary with the Map's own [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) while reaching the opposite verdict—the Map affirms interaction between the aspects, parallelism denies it. (Note that Leibniz's own metaphysics is a monadology, not Cartesian dualism; pre-established harmony is a solution the dualist tradition borrows, not a dualism Leibniz held.)
+Occasionalism belongs to a family of theories that keep the dualist *distinction* while abandoning the causal *link*. Leibniz's **pre-established harmony** packs all coordination into a single creative act: God so constructs each substance that its states unfold by their own law yet correspond exactly to every other's, with no ongoing causal traffic. His two-clocks illustration frames the options as three ways two clocks might stay in agreement—mutual influence (interactionism), a craftsman continually adjusting them (occasionalism, which Leibniz mocks as perpetual miracle), or perfect initial construction (his own harmony). **Psychophysical parallelism** generalises the "two synchronised series, no interaction" picture, with the correlation grounded in God (Leibniz), in one substance under two attributes (Spinoza's dual-aspect reading, the same double-aspect identity Fechner later defended), or left as a bare methodological posit (Wundt). The Spinozist version is the one to watch: it shares vocabulary with the Map's own [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) while reaching the opposite verdict—the Map affirms interaction between the aspects, parallelism denies it. (Note that Leibniz's own metaphysics is a monadology, not Cartesian dualism; pre-established harmony is a solution the dualist tradition borrows, not a dualism Leibniz held.) Its eighteenth-century fate — displacement by physical influx in the German academy — is traced in [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/).
 
 ## Quantum Occasionalism: The Living Rival
 

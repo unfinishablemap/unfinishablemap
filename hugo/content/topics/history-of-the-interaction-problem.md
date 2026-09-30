@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-17 17:22:49+00:00
+ai_modified: 2026-09-30 16:12:18+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 07:38:57+00:00
-lastmod: 2026-09-17 17:22:49+00:00
+lastmod: 2026-09-30 16:12:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,11 +96,11 @@ Leibniz also transformed the interaction problem from a conceptual puzzle into w
 
 ### What the Debate Reveals
 
-No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the unextendedness of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter. Régis, like Descartes with his primitive notions, kept dualism and genuine causation but sacrificed intelligibility, declaring the interaction real yet incomprehensible. Any attempt to hold all three had to wait for developments in physics none of them could have anticipated—and the Map's own attempt, as its closing acknowledgment concedes, narrows that horn's gap without leaving it.
+No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the unextendedness of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter. Régis, like Descartes with his primitive notions, kept dualism and genuine causation but sacrificed intelligibility, declaring the interaction real yet incomprehensible — the horn [Knutzen](/topics/eighteenth-century-influx-debate/) would occupy a century later. Any attempt to hold all three had to wait for developments in physics none of them could have anticipated—and the Map's own attempt, as its closing acknowledgment concedes, narrows that horn's gap without leaving it.
 
 ## The Materialist Eclipse
 
-The twentieth century brought convergence against dualism. Logical positivism dismissed mind-body problems as pseudo-questions. [Logical behaviourism](/concepts/logical-behaviourism/) denied inner mental states. Identity theory proposed that mental states simply *are* brain states. Functionalism characterised mental states by causal roles. All shared the assumption of [causal-closure](/concepts/causal-closure/): every physical event has sufficient physical causes.
+The eighteenth century first ran the other way — physical influx displaced Leibnizian harmony in the German academy, as [the eighteenth-century influx debate](/topics/eighteenth-century-influx-debate/) traces. The twentieth century brought convergence against dualism. Logical positivism dismissed mind-body problems as pseudo-questions. [Logical behaviourism](/concepts/logical-behaviourism/) denied inner mental states. Identity theory proposed that mental states simply *are* brain states. Functionalism characterised mental states by causal roles. All shared the assumption of [causal-closure](/concepts/causal-closure/): every physical event has sufficient physical causes.
 
 Jaegwon Kim crystallised the problem:
 
