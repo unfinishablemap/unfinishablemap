@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-09-27 15:58:00+00:00
+ai_modified: 2026-09-30 18:12:18+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 21:07:43+00:00
-lastmod: 2026-09-27 15:58:00+00:00
+lastmod: 2026-09-30 18:12:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ The obvious objection is that the "selection layer" is simply further neural com
 
 These models handle routine, well-learned action selection convincingly. Three empirical patterns are harder for them, though none is decisive:
 
-**The self-initiated/externally cued asymmetry.** Parkinson's patients struggle most to initiate self-generated movement, while reflexes and externally cued action are comparatively spared. On the Map's reading, dopamine depletion disables deliberate choice while leaving cue-triggered selection intact, which models that treat all selection uniformly do not predict. That reading is contested. Redgrave et al. (2010) argue that the dopamine loss falls predominantly on the posterior putamen, the territory associated with *habitual* control, so patients lose normal automatic control and are forced onto a comparatively preserved goal-directed mode. Freezing of gait, a breakdown of highly automatic behaviour, fits their account better than a willed-only deficit. Their segregated goal-directed and habitual territories also give dopamine loss a principled, anatomically specific profile inside a neural framework. Both readings accept the asymmetry between self-initiated and cued action; they dispute whether the impaired side is willed choice or habit. The pattern therefore poses a question the Map's reading must answer against a live rival rather than supplying a datum competitive dynamics cannot handle.
+**The self-initiated/externally cued asymmetry.** Parkinson's patients struggle most to initiate self-generated movement, while reflexes and externally cued action are comparatively spared. On the Map's reading, dopamine depletion disables deliberate choice while leaving cue-triggered selection intact, which models that treat all selection uniformly do not predict. That reading is contested. Redgrave et al. (2010) argue that the dopamine loss falls predominantly on the posterior putamen, the territory associated with *habitual* control, so patients lose normal automatic control and are forced onto a comparatively preserved goal-directed mode. Freezing of gait, a breakdown of highly automatic behaviour, fits their account better than a willed-only deficit. Their segregated goal-directed and habitual territories also give dopamine loss a principled, anatomically specific profile inside a neural framework. Both readings accept the asymmetry between self-initiated and cued action; they dispute whether the impaired side is willed choice or habit. The pattern therefore poses a question the Map's reading must answer against a live rival rather than supplying a datum competitive dynamics cannot handle. The outcome-devaluation literature, surveyed in [outcome-devaluation-and-dual-task-costs-in-parkinsons](/topics/outcome-devaluation-and-dual-task-costs-in-parkinsons/), finds goal-directed rather than habitual control impaired in instrumental learning, which removes the rival's behavioural prediction without settling the self-initiated case.
 
 **Deliberate override of learned associations.** Humans can choose against strongly rewarded options—selecting the less-practiced, lower-value action when context demands it. Frank's 2006 model introduced the subthalamic nucleus as a "hold your horses" signal that delays action when conflict is high. But delaying is not the same as selecting: the STN raises the threshold globally, buying time for striatal dynamics to settle, yet what determines which option ultimately wins when two are closely matched remains noise in these models. The Map proposes that what the models attribute to noise is the locus of conscious selection.
 

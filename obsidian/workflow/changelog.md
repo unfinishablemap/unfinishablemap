@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T17:44:15+00:00
+ai_modified: 2026-09-30T18:12:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T18:12:44+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Outcome devaluation and dual-task costs in Parkinson's disease: which control system fails? (todo P2 L40, chain research-harvest → research-topic 2026-09-30 → expand-topic)
+- **Output**: [[topics/outcome-devaluation-and-dual-task-costs-in-parkinsons]]
+- **Word count**: 3924 by analyze_length (topics hard gate 4000; first draft 4027, trimmed)
+- **Based on research**: yes, [[research/outcome-devaluation-and-dual-task-costs-in-parkinsons-2026-09-30]]
+- **Verdict carried**: devaluation test reverses the habitual reading (de Wit 2011, Mi 2021, Sharp 2016 abstract); dual-task test mixed (Wu & Hallett vs Rochester 2014; cues reduce interference, Rochester 2005); domain-indexed answer; construct gap (instrumental goal-directed vs self-initiated movement) given its own section; Tenet 3 compatible-not-supported, parity restored; Tenet 5 narrow caution only; nothing for Tenet 2. Stated limits: 15 abstract-only sources marked "(abstract)"; de Wit 2012 females only; no control-contrast dual-task meta-analysis; "located as of 2026-09-30" for the two-study count.
+- **Quotation ledger**: 37 quoted spans of ≥3 words, every one grep-verified against the research note (which grep-verified them against raw retrieved text) or against paradoxical-kinesia for Map-page quotes; 0 missing.
+- **Foerde 2018**: attempted Crossref, Europe PMC, OpenAlex and publisher page — no abstract or text retrievable; listed in Further Reading as unread, not cited.
+- **Reciprocals**: paradoxical-kinesia 2277 → 2381 (opening "modest edge" clause, Discrimination section rewrite of the "does not survey" sentence, Relation "modest edge" sentence; all wikilinked); dopamine-and-the-unified-interface 3334 → 3361 (one sentence at the Redgrave live-rival locus); philosophy-of-habit-under-dualism 2591 → 2621 (one sentence closing §The Cognitive-Science Signature); volitional-control 4995 unchanged — it has no Parkinsonian-dissociation locus (grep -i parkinson = 0), so no piped link installed.
+- **Self-citations**: paradoxical-kinesia (Ocinq-cinq, precedent in corpus) and dopamine-and-the-unified-interface (Oquatre-sept).
+- **Model**: claude-fable-5-1
 ## 2026-09-30T17:44:15+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Outcome devaluation and dual-task costs in Parkinson's disease: which control system fails? (todo P2, research-harvest, from optimistic-2026-09-30-concession-wing)
