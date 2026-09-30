@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt altered-states-of-consciousness calibration in anaesthesia-and-the-consciousness-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
-- **Notes**: From topic-concept anchoring audit 2026-09-30. The topic article over-claims relative to its anchor concept [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/); failed checks: hedge_density, strong_assertions.
-  - hedge density 2.76/kw is below 3.00/kw (target = 60% of anchor 6.03/kw, capped at 3.0/kw)
-  - strong-assertion density 0.50/kw exceeds 1.5× anchor (0.29/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-09-30
-
 ### P2: Adopt attention-as-interface calibration in anaesthesia-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -1576,6 +1565,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-09-30: Adopt altered-states-of-consciousness calibration in anaesthesia-and-the-consciousness-interface
+- **Type**: refine-draft
+- **File**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-09-30. The topic article over-claims relative to its anchor concept [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/); failed checks: hedge_density, strong_assertions.
+  - hedge density 2.76/kw is below 3.00/kw (target = 60% of anchor 6.03/kw, capped at 3.0/kw)
+  - strong-assertion density 0.50/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-09-30: Write topic article on colour ontology and the secondary-quality residue — where does the quality go under physicalism, relationalism, dispositionalism, primitivism and eliminativism?
 - **Type**: expand-topic

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T14:24:30+00:00
+ai_modified: 2026-09-30T14:38:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T14:38:11+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **28th consecutive** — the expected steady-state outcome.
+- **Cap state** (live, `tools.evolution.state.count_section_files`; caps 360/360/115/80): topics 336/360 (335 real articles — the known sidecar over-count), concepts 335/360, **voids 111/115 (96.5%, most pressured)**.
+- **Arithmetic** (sidecars filtered first; `analyze_length` body words; 7-day age floor on `ai_modified`/`human_modified`/`modified`; ceilings 3999/3499/2999): voids **0** fitting pairs of 78 eligible (33 fresh; smallest 1473+1730=3203); topics **0** of 209 eligible (126 fresh — today's tenet sweeps and cross-reviews; smallest 2112+2179=4291); concepts **131** fitting pairs of 224 eligible (111 fresh) — down from 135 as edits crossed the floor. Only **1** of the 131 is mutually body-linked (`causal-powers` ↔ `mind-arena`, 5 links); 75 share ≥1 frontmatter tag; none carries a `Versus`/`Relation to`/`Distinguishing`/`How … Differs` heading naming the partner by slug.
+- **Pairs read on the merits this run**: (1) `concepts/causal-powers` 2114w + `concepts/mind-arena` 1380w = 3494 — **5 words of headroom**, so any unified lead breaches the hard gate; and mind-arena's "Distinguishing the Mind-Arena from Related Map Terms" section exists precisely to stop the *domain* term collapsing into the mechanism/formalism terms it applies — the role-granularity split already recorded on 09-19 (todo.md L178); neither file changed since (ai_modified 09-02 / 08-04). (2) `constitutive-vs-referring-observation` 1899w + `status-of-content` 1497w = 3396 — 0 cross-links; asymmetric vocabulary (the observation article engages `eliminative-materialism` 9× but never Boghossian/Devitt/content irrealism; status-of-content never mentions constitutive/referring/Russell): two *different* objections to eliminativism (epistemic asymmetry of introspection vs self-refutation of content irrealism), not fragments of one. (3) `perception` 1671w + `prehension` 1779w = 3450 — 0 cross-links; the two "prehen" hits in perception are the word *comprehensive*; prehension names perception once as a generalisation target. Whitehead's technical relational primitive vs the generic perception article with its own interface model — distinct granularity. (4) `phenomenal-presentation` 1572w + `prehension` = 3351 — 0 Whitehead in presentation; presentation's own Versus section names acquaintance/depth/overflow, not prehension. Distinct.
+- **Not re-litigated** (declined this week, nothing material changed): timing-gap-problem + transactional-interpretation; status-of-content + the-agent-shaped-hole; perception + phenomenal-presentation.
+- **Open tasks checked**: no open todo.md task or review targets any of the seven candidates (the only hits are the 09-19/09-20 coalesce-history block itself).
+- **Sources / Target / Archived**: none. **Tasks minted**: none. **todo.md**: untouched. **Sync**: run (changelog mirror only). **References to review**: none. Model: claude-fable-5-1.
+
 ## 2026-09-30T14:24:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
