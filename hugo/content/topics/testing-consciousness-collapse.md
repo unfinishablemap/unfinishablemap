@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-09-25 19:47:37+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-09-30 11:26:23+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/consciousness-collapse-experimental-landscape/
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:16:42+00:00
-lastmod: 2026-09-25 19:47:37+00:00
+lastmod: 2026-09-30 11:26:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -179,9 +179,9 @@ Tier 3 consists of logical arguments constraining which interpretation-packages 
 
 Extended Wigner's friend scenarios show that universal quantum mechanics plus definite conscious experiences produces contradictions — confirmed empirically by Proietti et al. (2019) and sharpened by Bong et al. (2020) and Steane (2025). Many-worlds resolves this parsimoniously; consciousness-collapse resolves it by denying quantum mechanics applies universally to conscious systems — a more expensive move. The argument narrows viable positions without selecting among them empirically.
 
-### Born Rule Derivation as Indirect Evidence
+### Born Rule Derivation as a Constraint
 
-Most attempts to [derive the Born rule](/topics/born-rule-and-the-consciousness-interface/) presuppose an observer. The Deutsch-Wallace decision-theoretic derivation has been criticised for presupposing rational agents whose framework already encodes the probability structure it claims to derive. The persistent difficulty of observer-free derivations constitutes indirect evidence that consciousness is structurally implicated in quantum measurement.
+Most attempts to [derive the Born rule](/topics/born-rule-and-the-consciousness-interface/) presuppose an observer. The Deutsch-Wallace decision-theoretic derivation has been criticised for presupposing rational agents whose framework already encodes the probability structure it claims to derive. The persistent difficulty of observer-free derivations is compatible with, not evidence for, consciousness being structurally implicated in measurement: objective reduction ([prebiotic-collapse](/concepts/prebiotic-collapse/)) supplies baseline definiteness, so the measurement problem cannot itself evidence conscious selection.
 
 These logical constraints ensure consciousness-collapse is a response to genuine theoretical tensions — and that decoherence-only carries its own commitments, typically many-worlds with its attendant indexical problems.
 
@@ -205,7 +205,7 @@ The most promising strategy uses *shielded systems* — cases where collapse mod
 | Quantum-substrate perturbation (Neven et al.) | 2 | Proposed | Would test inverse direction: quantum → consciousness |
 | Attention-based Zeno selection (Stapp) | 2 | Theoretical | No novel predictions; may be permanently indistinguishable |
 | Frauchiger-Renner argument | 3 | Logical | Forces interpretation choice |
-| Born rule observer-dependence | 3 | Logical | Consciousness structurally implicated |
+| Born rule observer-dependence | 3 | Logical | Compatible with conscious involvement; not evidence |
 
 No experiment has yet confirmed or refuted consciousness-collapse specifically. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Kremnizer-Ranchin and Chalmers-McQueen predictions remain the only Tier 2 tests generating quantitative divergences — both requiring measurement of integrated information in quantum systems, which is currently intractable.
 
@@ -217,7 +217,7 @@ The Q-shape prediction is intended to provide this anchor. If Q-shapes prove per
 
 Supporting convergence lines:
 - Failure of objective collapse theories to match observed collapse rates
-- Evidence that decoherence cannot solve the measurement problem
+- Evidence that decoherence cannot solve the measurement problem (a constraint, not support: objective reduction supplies definiteness without consciousness)
 - Discovery of quantum coherence effects in neural systems
 - Quantum-substrate perturbation affecting consciousness without altering classical neural function (Neven et al., 2024)
 - Philosophical arguments that indexical facts require consciousness (see [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/))

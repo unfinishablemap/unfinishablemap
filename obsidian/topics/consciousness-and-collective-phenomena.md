@@ -4,7 +4,7 @@ description: "Groups are not conscious, but collective intentionality requires i
 created: 2026-02-15
 modified: 2026-04-02
 human_modified: null
-ai_modified: 2026-09-26T01:15:56+00:00
+ai_modified: 2026-09-30T11:26:23+00:00
 draft: false
 topics:
   - "[[consciousness-and-social-understanding]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[problem-of-other-minds]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-15
 last_curated: null
 last_deep_review: 2026-09-20T20:42:38+00:00
@@ -159,7 +159,7 @@ An ant colony cannot evaluate whether its pheromone-trail solution is *good* —
 
 ## Relation to Site Perspective
 
-The [[tenets#^dualism|Dualism]] tenet predicts that consciousness should not arise from just any complex system — it requires specific conditions that physics alone cannot explain. The absence of group consciousness despite sophisticated collective intelligence is consistent with this and does not embarrass it: consciousness is not a generic property of complex information processing. The observation does not by itself establish Dualism — a physicalist who locates consciousness in individual brains predicts the same absence — but it is what the Map's framework would lead one to expect. Because consciousness is irreducible to physical processes, the phenomenal shift from I-mode to we-mode cannot be explained purely in terms of neural synchronisation or information sharing between brains. Neural synchronisation may be the physical correlate of we-consciousness, but it does not constitute it.
+The Map's interface model — not the [[tenets#^dualism|Dualism]] tenet, which asserts irreducibility and predicts nothing about which systems host consciousness — leads one to expect that consciousness does not arise from just any complex system: it requires a specific interface that physics alone cannot explain. The absence of group consciousness despite sophisticated collective intelligence is consistent with this and does not embarrass it: consciousness is not a generic property of complex information processing. The observation does not by itself establish Dualism — a physicalist who locates consciousness in individual brains predicts the same absence. Because consciousness is irreducible to physical processes, the phenomenal shift from I-mode to we-mode cannot be explained purely in terms of neural synchronisation or information sharing between brains. Neural synchronisation may be the physical correlate of we-consciousness, but it does not constitute it.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet supplies the framework-internal reason the Map predicts groups are not conscious: consciousness biases quantum-indeterminate outcomes in neural systems, and communication between people operates at the classical level. On this model there is no quantum channel between group members through which collective consciousness could act. The constraint is consistent with — and economically accommodates — the phenomenological structure observed: experiences that feel genuinely collective while remaining individually implemented. What would tell against the model is the discovery of a group-level phenomenal subject distinct from its members, or a physically realised channel of the required kind; absent these, the model is not confirmed so much as left standing.
 

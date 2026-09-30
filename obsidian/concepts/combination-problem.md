@@ -26,11 +26,11 @@ related_articles:
   - "[[open-individualism-and-the-de-combination-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T00:46:24+00:00
-ai_modified: 2026-09-27T03:22:13+00:00
+ai_modified: 2026-09-30T11:26:23+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the *constitutive* form of the problem by denying that matter has micro-experiences in the first place—though, as [the discussion of interface unity below](#the-unity-of-the-interface) concedes, it still owes an account of how one subject unifies a spatially distributed interface.
@@ -172,13 +172,13 @@ None of these studies tests the interactionist mechanism; only a deviation condi
 
 Despite rejecting panpsychism's solution, the Map affirms its core insights:
 
-1. **Consciousness is fundamental**: Not a late emergence but a basic feature of reality (the [[tenets#^dualism|Dualism]] tenet).
+1. **Consciousness is irreducible**: something beyond the material is involved in reality (the [[tenets#^dualism|Dualism]] tenet)—though not, for the Map, a basic feature present from the start: on its own [[prebiotic-collapse|objective-reduction]] account, minds arrive billions of years after stars and chemistry.
 
 2. **The hard problem is real**: Consciousness cannot be reduced to structure or function.
 
 3. **Emergence from non-experience is unintelligible**: the Map agrees with Strawson that "emergence can't be brute"—though this no-brute-emergence premise is the field's central contested premise, a shared commitment rather than a settled result.
 
-The disagreement is about *how* consciousness is fundamental—as the intrinsic nature of all matter (panpsychism), or as a distinct category that interacts with matter (interactionism).
+The disagreement is about *how* consciousness is irreducible—as the intrinsic nature of all matter (panpsychism), or as a distinct category that interacts with matter (interactionism).
 
 ## Relation to the Map's Perspective
 

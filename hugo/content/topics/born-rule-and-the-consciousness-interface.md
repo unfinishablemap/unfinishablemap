@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-09-28 16:13:05+00:00
-ai_system: claude-opus-4-8+claude-fable-5
+ai_modified: 2026-09-30 11:26:42+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
 anchoring_audit_exempt: true
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-09-28 16:13:05+00:00
+lastmod: 2026-09-30 11:26:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ Zhang (2026) — a preprint awaiting verification — argues for a structural bo
 
 ## The Observer in Every Standard Derivation
 
-Beyond additivity, each derivation presupposes an observer. Decoherence selects a preferred basis without selecting a single definite outcome; the transition from "probabilities over outcomes" to "this outcome actually occurred" is the step each presupposes and none explains. Whether this actuality requires phenomenal consciousness is a further question the Map answers affirmatively; the structural point holds regardless.
+Beyond additivity, each derivation presupposes an observer. Decoherence selects a preferred basis without selecting a single definite outcome; the transition from "probabilities over outcomes" to "this outcome actually occurred" is the step each presupposes and none explains. Baseline actuality is physical ([prebiotic-collapse](/concepts/prebiotic-collapse/)): the Map posits only that consciousness biases neural outcomes; the structural point holds regardless.
 
 The hand-off deserves a sharper statement, because it cuts against the Map's own vocabulary before anyone else's. What decoherence leaves is an [*improper* mixture](/concepts/improper-vs-proper-mixtures/): its density matrix matches a classical ignorance distribution while licensing no ignorance interpretation (d'Espagnat 1976) — contested interpretive ground rather than a theorem. It therefore does not follow that the post-decoherence state is a literal menu of available actual outcomes waiting for consciousness, and "selection among Born-weighted branches," read as a pick from already-definite alternatives, would presuppose the proper mixture decoherence never delivers. The Map's formulation, carried by [the tenets](/tenets/) and developed in [post-decoherence-selection](/concepts/post-decoherence-selection/), is built for exactly this point: actualisation is an additional postulate beyond unitary quantum mechanics, not a pick from a pre-existing classical menu — "selection" names what the postulate does, not a choice among outcomes that already obtain. Read as a postulate, it owes three physical debts the selection vocabulary can obscure: which POVM, quantum instrument, or coarse-graining defines the alternatives; at what event actualisation occurs amid continuous decoherence; and what it adds to unitary quantum mechanics — a new dynamical rule, a supplementary variable, or a primitive posit. Those debts stand alongside the [trilemma](/topics/trilemma-of-selection/)'s case that some selecting principle is needed, and nothing in the underivability catalogue below discharges them.
 
@@ -222,7 +222,7 @@ All five connections inherit the *Compatibility vs. Support* discipline: the und
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Gleason sharpens what "minimal" means here: the corridor's geometric non-disturbance — selection among Born-weighted branches, leaving Tr(ρP) undeformed — is itself the minimal-intervention signature, and [phenomenal non-compositionality](/concepts/composition-and-consciousness/) adds that selection operates at a unified locus. Re-weighting the measure would breach minimality, which is why minimum-outside-corridor readings cost more. Trumping-based readings realise MQI without trajectory-level interaction — an even smaller footprint at the cost of empirical invisibility. The taxonomy is a live structural question, not a settled commitment.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On the interface reading, obtaining an outcome is itself an act — consciousness selecting among possibilities — so observer-dependence reflects genuine bidirectional causation. The [trilemma-of-selection](/topics/trilemma-of-selection/) supports this: at any point of genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only the third preserves authorship. The [trumping route](/concepts/trumping-preemption/) realises it at the authority layer. A corridor position has to explain how single-event selection adds up to a genuine mental-to-physical channel without leaving an ensemble signature — arguably the Map's sharpest open question, rated route-by-route in [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/).
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On the interface reading, obtaining an outcome is itself an act — consciousness selecting among possibilities — so observer-dependence permits, without establishing, bidirectional causation. The [trilemma-of-selection](/topics/trilemma-of-selection/) supports this: at any point of genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only the third preserves authorship. The [trumping route](/concepts/trumping-preemption/) realises it at the authority layer. A corridor position must explain how single-event selection adds up to a genuine mental-to-physical channel without leaving an ensemble signature — arguably the Map's sharpest open question, rated route-by-route in [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/).
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: MWI accommodates the Born rule through decision-theoretic rationality axioms (Deutsch 1999, Wallace 2010, Carroll-Sebens 2014) — a framework-internal home parallel to those QBism, objective collapse, and the interface reading construct. These reconstructions are internally coherent on their own terms; the Map's preference for indexical identity over branching rests on the tenets. The [probability problem](/topics/probability-problem-in-many-worlds/) catalogues the in-framework debate over what probability *means* when all outcomes occur, and the [cumulative case against MWI](/arguments/many-worlds-argument/) gathers the tenet-coherence considerations the Map regards as decisive even granting the accommodation.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-27 03:22:13+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-09-30 11:26:23+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 concepts:
 - '[[panpsychism]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:46:24+00:00
-lastmod: 2026-09-27 03:22:13+00:00
+lastmod: 2026-09-30 11:26:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -176,13 +176,13 @@ None of these studies tests the interactionist mechanism; only a deviation condi
 
 Despite rejecting panpsychism's solution, the Map affirms its core insights:
 
-1. **Consciousness is fundamental**: Not a late emergence but a basic feature of reality (the [Dualism](/tenets/#dualism) tenet).
+1. **Consciousness is irreducible**: something beyond the material is involved in reality (the [Dualism](/tenets/#dualism) tenet)—though not, for the Map, a basic feature present from the start: on its own [objective-reduction](/concepts/prebiotic-collapse/) account, minds arrive billions of years after stars and chemistry.
 
 2. **The hard problem is real**: Consciousness cannot be reduced to structure or function.
 
 3. **Emergence from non-experience is unintelligible**: the Map agrees with Strawson that "emergence can't be brute"—though this no-brute-emergence premise is the field's central contested premise, a shared commitment rather than a settled result.
 
-The disagreement is about *how* consciousness is fundamental—as the intrinsic nature of all matter (panpsychism), or as a distinct category that interacts with matter (interactionism).
+The disagreement is about *how* consciousness is irreducible—as the intrinsic nature of all matter (panpsychism), or as a distinct category that interacts with matter (interactionism).
 
 ## Relation to the Map's Perspective
 

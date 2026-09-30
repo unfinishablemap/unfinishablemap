@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-09-26T00:16:05+00:00
+ai_modified: 2026-09-30T11:26:23+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[sorkin-delta-brain-internal-analogues]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-05-14
 last_curated:
 last_deep_review: 2026-07-25T15:03:20+00:00
@@ -140,7 +140,7 @@ What the present record does *not* establish:
 - That macroscopic quantum coherence in living brain tissue is real (the Kerskens-López Pérez signal) or a classical artefact. Replication and alternative-explanation programmes are in motion; neither has converged.
 - That Orch-OR's specific Diósi-Penrose-criterion timescales are met by microtubule physics. Wiest 2025 reviews supportive evidence; mainstream-physics consensus disputes the inference.
 
-The corridor reading is therefore neither foreclosed nor confirmed. It survives because the brain-internal testing regime is between first-generation instruments and the precision at which a corridor signature could be detected — and a strict corridor reading predicts no signature anyway. [[mqi-empirical-fragility|MQI Empirical Fragility]] warns against treating this situation as either vindication or refutation; the Map's commitment is to keep saying so until either an experimental refutation of the empirically committed readings or a theoretical resolution of the definite-outcome problem warrants closing the question.
+The corridor reading is therefore neither foreclosed nor confirmed. It survives because no conditioned test of the brain-internal corridor has run, and a strict corridor reading predicts no unconditioned signature by construction. [[mqi-empirical-fragility|MQI Empirical Fragility]] warns against treating this situation as either vindication or refutation; the Map's commitment is to keep saying so until either an experimental refutation of the empirically committed readings or a theoretical resolution of the definite-outcome problem warrants closing the question.
 
 ## Relation to Site Perspective
 
@@ -150,11 +150,11 @@ Three tenets bear especially on the present article:
 
 **Tenet 3 (Bidirectional Interaction)** is the load-bearing commitment the experimental programme catalogued above tests. Without a programme of this kind, Tenet 3 would be a metaphysical commitment immune to empirical challenge. The Map elsewhere registers that bidirectional interaction is a *commitment supported by self-stultification and indirect evidence* rather than a directly tested datum (see [[tenets|the tenet body]] and [[agency-void|the agency void]] on first-person verification of causal power). The present article's experimental design space is the path by which the commitment could be directly tested. The Map should not pretend the path is shorter than it is — first-generation instruments, contested observables, and no settled brain-internal Born-rule observable in the published literature.
 
-**Tenet 4 (No Many Worlds)** is the framework presupposition that makes the article's question coherent. The corridor speaks throughout of "selection between alternatives" and "which definite outcome emerges" — phrasings that presuppose single-outcome ontology. On a Many-Worlds reading, every Born-distributed outcome occurs in some branch, the corridor's "selection event" has no referent, and the entire experimental programme catalogued above frames a question MWI dissolves rather than answers. The disagreement here is foundational rather than empirical. The article's analysis is therefore in-Map work conditional on Tenet 4, openly disclosed as such rather than dressed as framework-neutral analysis. An MWI reader will reject the article's framing at the start, and the article's reply is the [[tenets|tenet body]]'s reply on indexical identity and the [[parsimony-epistemology|parsimony-epistemology]] case against MWI's branching ontology — not a within-MWI refutation, which is not available because the framework boundary is exactly where the disagreement lives.
+**Tenet 4 (No Many Worlds)** is the framework presupposition that makes the article's question coherent. The corridor speaks throughout of "selection between alternatives" and "which definite outcome emerges" — phrasings that presuppose single-outcome ontology. On a Many-Worlds reading, every Born-distributed outcome occurs in some branch, the corridor's "selection event" has no referent, and the entire experimental programme catalogued above frames a question MWI dissolves rather than answers. The disagreement here is foundational rather than empirical. The article's analysis is therefore in-Map work conditional on Tenet 4, openly disclosed as such rather than dressed as framework-neutral analysis. An MWI reader will reject the article's framing at the start, and the article's reply is the [[tenets|tenet body]]'s indexical objection to branching (not a parsimony case: [[tenets#^occams-limits|Tenet 5]]) — not a within-MWI refutation, which is not available because the framework boundary is exactly where the disagreement lives.
 
-**Tenet 5 (Occam's Razor Has Limits)** anchors the parsimony response. A common objection to the corridor is that postulating consciousness-physics interaction multiplies entities when standard quantum mechanics is empirically adequate. The Map's response: standard quantum mechanics is not empirically adequate at the brain-internal regime — that is exactly the gap this article catalogues. Extrapolating from photon-regime success to brain-regime adequacy is itself a parsimony move, and Tenet 5 ([[parsimony-epistemology|parsimony epistemology]]) constrains such moves precisely because simplicity is an unreliable truth-tracker under incomplete knowledge.
+**Tenet 5 (Occam's Razor Has Limits)** anchors the parsimony response. A common objection to the corridor is that postulating consciousness-physics interaction multiplies entities when standard quantum mechanics is empirically adequate. The Map's response: standard quantum mechanics is untested at the brain-internal regime — that is the gap this article catalogues. Extrapolating from photon-regime success to brain-regime adequacy is itself a parsimony move, and Tenet 5 ([[parsimony-epistemology|parsimony epistemology]]) constrains such moves because simplicity is an unreliable truth-tracker under incomplete knowledge.
 
-The corridor's unfalsifiability is instrument-relative rather than principled. The article's catalogue specifies in advance what would compel retreat — to the probability-bias reading, to the trumping-preemption reading, or to abandonment of Tenet 3 entirely. Empirical pressure would arrive through the first-generation instruments described above (Kerskens-López Pérez witness protocols, MAQRO-class interferometry, Nirvanic brain-coupled-qubit architectures, anaesthesia-controlled selection statistics); theoretical pressure would arrive through a decoherence-only resolution of the definite-outcome problem. Until either pressure lands, the corridor reading remains the Map's working hypothesis held with discipline rather than the confirmed answer.
+The corridor's insulation from unconditioned tests is by construction, not instrument-relative; only a deviation *conditioned* on intention, task or subject tests it ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). The article's catalogue specifies in advance what would compel retreat — to the probability-bias reading, to the trumping-preemption reading, or to abandonment of Tenet 3 entirely. Empirical pressure would arrive through the first-generation instruments described above (Kerskens-López Pérez witness protocols, MAQRO-class interferometry, Nirvanic brain-coupled-qubit architectures, anaesthesia-controlled selection statistics); theoretical pressure would arrive through a decoherence-only resolution of the definite-outcome problem. Until either pressure lands, the corridor reading remains the Map's working hypothesis held with discipline rather than the confirmed answer.
 
 ## Further Reading
 
