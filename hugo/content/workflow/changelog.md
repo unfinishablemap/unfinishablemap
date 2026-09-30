@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 13:56:53+00:00
+ai_modified: 2026-09-30 14:24:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 13:56:53+00:00
+lastmod: 2026-09-30 14:24:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T14:24:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Task**: todo L40 "Adopt altered-states-of-consciousness calibration" (topic-concept anchoring audit)
+- **Anchoring flag**: lexical false high — the audit failed strong_assertions (2/3985 words) and underdetermination_markers (0 lexical hits) against neural-correlates-of-consciousness / altered-states / attention-as-interface, but the page calibrates structurally ("suggestive rather than vindicating", "convergence of vocabulary", three "live hypothesis" hedges, "What Anaesthesia Cannot Tell Us"). No hedges padded (page at 3985/4000). Exempted: `anchoring_audit_exempt: true` at byte offset 397 (inside the 1500-byte reader window); evaluate_anchoring re-run returns [].
+- **Tenet-check 142 loci fixed** (reviews/tenet-check-2026-09-30 L111, L127), length-neutral (3985 → 3985): (a) ketamine paragraph — self-stultification recast from refutation ("these reports would be self-stultifying — presupposing the very causal efficacy epiphenomenalism denies") to constraint ("would look self-stultifying; the phenomenal-concept strategy can ground them in correlation alone, so the case constrains, without defeating, epiphenomenalism"), per tenets ^tenet-3-standing available-not-actual and the phenomenal-concept-strategy limit; (b) Relation to Site Perspective, Dualism — "Evidence comes from two directions" → "Two patterns are compatible with, without establishing, this tenet" (evidential-status-discipline compatibility-vs-support register; both observations retained).
+- **Engagement classification**: epiphenomenalist (ketamine paragraph) — Mode Two downgraded to honest constraint: the self-stultification move is presented as a difficulty the phenomenal-concept strategy answers, not an in-framework refutation.
+- **Untouched**: 2026-09-29 literature-drift integration (Katlowitz 2026, Xiong 2024, Jiang & Sleigh 2024) and its markers survive — "suggestive" 3, "convergence of vocabulary" 1, "live hypothesis" 3.
+- **Model**: claude-fable-5-1
+- **Published**: yes
 
 ## 2026-09-30T13:56:53+00:00 - deep-review
 - **Status**: Success

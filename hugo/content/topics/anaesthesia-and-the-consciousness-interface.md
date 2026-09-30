@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-29 12:01:05+00:00
+ai_modified: 2026-09-30 14:24:30+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+anchoring_audit_exempt: true
 author: null
 coalesced_from:
 - /topics/anesthesia-and-the-filter-argument/
@@ -28,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 12:44:00+00:00
-lastmod: 2026-09-29 12:01:05+00:00
+lastmod: 2026-09-30 14:24:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +81,7 @@ Ketamine, blocking NMDA receptors, produces a radically different pattern. Behav
 
 Xenon and ketamine are both NMDA antagonists, yet xenon extinguishes experience while ketamine preserves it — xenon's broader action on two-pore potassium channels suppresses the phenomenal interface, while ketamine's selective NMDA blockade severs access channels while sparing it. Same primary receptor, opposite phenomenological outcomes: interface components are pharmacologically separable even within a single receptor system. This parallels the [contemplative discovery](/topics/contemplative-practice-as-philosophical-evidence/) that awareness can be distinguished from its contents — the same architectural feature revealed from opposite directions.
 
-Ketamine disrupting access while leaving the phenomenal interface intact fits the [attention-motor architecture](/topics/the-interface-problem/) as a distinct interface layer. It also bears on the [self-stultification problem](/topics/self-stultification-as-master-argument/): patients later reporting vivid ketamine experiences show consciousness kept its causal connection to memory while severed from behavioural output. If consciousness were epiphenomenal during this state, these reports would be [self-stultifying](/concepts/self-stultification/) — presupposing the very causal efficacy epiphenomenalism denies.
+Ketamine disrupting access while sparing the phenomenal interface fits the [attention-motor architecture](/topics/the-interface-problem/) as a distinct layer. For the [self-stultification problem](/topics/self-stultification-as-master-argument/), patients later reporting vivid ketamine experiences show consciousness stayed causally linked to memory while severed from behavioural output. Were consciousness epiphenomenal here, those reports would look [self-stultifying](/concepts/self-stultification/); the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) can ground them in correlation alone, so the case constrains, without defeating, epiphenomenalism.
 
 ### Temporal Binding
 
@@ -144,7 +145,7 @@ Anaesthetic evidence alone cannot distinguish the Map's interactionist interpret
 
 Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in concrete ways.
 
-**[Dualism](/tenets/#dualism)**: Evidence comes from two directions. First, consciousness *persists or intensifies* during severe neural disruption — terminal lucidity, vivid ketamine experiences despite behavioural unresponsiveness; a system losing generative capacity should not produce more consciousness. Second, the hysteresis of neural inertia: identical neural activity levels correspond to different consciousness states depending on transition direction, suggesting consciousness has its own persistence conditions.
+**[Dualism](/tenets/#dualism)**: Two patterns are compatible with, without establishing, this tenet. First, consciousness *persists or intensifies* during severe neural disruption — terminal lucidity, vivid ketamine experiences despite behavioural unresponsiveness; a system losing generative capacity should not produce more consciousness. Second, neural inertia's hysteresis: identical neural activity corresponds to different consciousness states depending on transition direction, suggesting consciousness has its own persistence conditions.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The anaesthetic-microtubule literature (Craddock et al., 2015; Wiest, 2025) bears on this tenet only through the pre-decoherence Orch-OR reading, which the Map currently demotes relative to post-decoherence selection, so it is not recruited here as affirmative support; see [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) and [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/).
 
