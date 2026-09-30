@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Outcome devaluation and dual-task costs in Parkinson's disease: which control system fails?
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-09-30-concession-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-09-30-concession-wing (High Priority) notes that topics/paradoxical-kinesia L82-86 leaves the direction of the Parkinsonian dissociation open with the habitual reading holding only a modest edge, and names the two tests that would move it (outcome-devaluation as the standard behavioural signature of habit; Redgrave et al.'s prediction of dual-task interference) as unrun on the Map. No Map page discusses outcome devaluation in Parkinson's (grep 2026-09-30: only paradoxical-kinesia mentions it, as the gap itself; no research note). A topic article would let the dopamine and kinesia articles point at a result rather than a promissory note. Tenet 3 at its available standing; the honest outcome may be that the habitual reading wins outright. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/outcome-devaluation-and-dual-task-costs-in-parkinsons-2026-09-30.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'outcome-devaluation-and-dual-task-costs-in-parkinsons' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-09-30
+
 ### P2: Adopt causal-closure calibration in eighteenth-century-influx-debate
 - **Type**: refine-draft
 - **Status**: pending
