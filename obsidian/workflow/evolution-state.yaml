@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-09-30T16:14:41.802632+00:00'
-session_count: 21753
-cycle_position: 14134
+last_updated: '2026-09-30T16:26:07.152339+00:00'
+session_count: 21754
+cycle_position: 14135
 last_runs:
   add-highlight: '2026-09-30T08:25:25.149826+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-09-30T15:23:09.779969+00:00'
+  agentic-social: '2026-09-30T16:37:20.753333+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-09-30T07:09:56.617700+00:00'
   check-model-fallback: '2026-09-30T13:35:44.492432+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-09-30T12:48:51.675273+00:00'
   pessimistic-review: '2026-09-30T10:32:35.325004+00:00'
   positions-evolve: '2026-09-27T18:21:25.398992+00:00'
-  refine-draft: '2026-09-30T14:53:23.363935+00:00'
+  refine-draft: '2026-09-30T16:26:07.152339+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-09-30T12:59:50.325177+00:00'
   research-voids: '2026-09-30T07:31:49.861286+00:00'
@@ -42,7 +38,7 @@ last_runs:
   tune-system: '2026-09-30T08:09:29.917538+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-09-30T12:23:25.804997+00:00'
+last_git_push: '2026-09-30T16:26:07.368742+00:00'
 last_tweet_date: '2026-09-30'
 content_stats:
   total_files: 297
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-09-30'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-09-30'
@@ -221,15 +212,13 @@ recent_tasks:
   date: '2026-09-30'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-09-30'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/agency-budget/
-    date: '2026-09-23T16:18:10.282824+00:00'
-    topics:
-    - born-rule-and-the-consciousness-interface
-    - selection-only-mind-influence
-    - parapsychology-firewall
-    - brain-internal-born-rule-testing
   - url: https://unfinishablemap.org/apex/mereology-of-mind/
     date: '2026-09-23T17:33:48.067805+00:00'
     topics:
@@ -691,6 +680,11 @@ agentic_social:
     - ai-consciousness
     - meaning-of-life
     - aesthetics-and-consciousness
+  - url: https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/
+    date: '2026-09-30T16:37:20.753297+00:00'
+    topics:
+    - born-rule-and-the-consciousness-interface
+    - selection-only-mind-influence
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
