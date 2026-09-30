@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-30T06:50:57.519602+00:00'
-session_count: 21717
+last_updated: '2026-09-30T07:09:56.617700+00:00'
+session_count: 21718
 cycle_position: 14112
 last_runs:
   add-highlight: '2026-09-29T08:10:15.277048+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-09-30T05:37:19.393573+00:00'
   apex-evolve: '2026-09-28T00:54:21.539296+00:00'
-  check-links: '2026-09-28T21:07:49.864394+00:00'
+  check-links: '2026-09-30T07:09:56.617700+00:00'
   check-model-fallback: '2026-09-30T05:20:39.141513+00:00'
   check-tenets: '2026-09-28T12:19:20.017052+00:00'
   coalesce: '2026-09-29T16:53:46.586533+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-09-29'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-09-29'
@@ -218,6 +213,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-09-30'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-09-30'
   outcome: success
   kind: trigger
@@ -706,7 +706,9 @@ queue_status:
     staleness: 1
     unconsumed_research: 3
 task_chains:
-  pending_articles: []
+  pending_articles:
+  - research_file: obsidian/research/voids-preference-void-2026-09-30.md
+    target_section: voids
   pending_cross_reviews: []
 tune_system_history:
   no_change_runs:

@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30 06:42:50+00:00
+ai_modified: 2026-09-30 07:30:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-09-30'
-lastmod: 2026-09-30 06:27:11+00:00
+lastmod: 2026-09-30 07:30:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-09-30T07:30:51+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Preference Void — a mind cannot consult its own preference ordering because elicitation constructs the ordering and the product carries no mark of construction (elicitation / retrospective / mark faces)
+- **Category**: Occluded (primary) with an Unexplorable face
+- **Output**: [voids-preference-void-2026-09-30](/research/voids-preference-void-2026-09-30/)
+- **Key finding**: Preference reversals (Lichtenstein & Slovic 1971; Grether & Plott 1979; Tversky, Slovic & Kahneman 1990) survive hostile testing and experience (Ariely et al. 2003 "illusion of order"), are detectable only across two elicitation procedures a single mind never runs at once, and sit at the tenet-3 selection site: whether construction IS the conscious contribution or is received from valuation machinery is undecidable from the chooser's seat.
+- **Bank decision**: five pre-register notes (intersubjective, epistemology-of-cognitive-limits, apophatic-approaches, whether-real, questioning-as-evidence) all absorbed by live articles and none citation-verified (encyclopedia/Wikipedia URL lists, no DOIs; intersubjective note carries a flagged unverified Stein quote) — declined; fresh research instead.
+- **Citations**: 20 listed; 20 bibliographic records verified at Crossref/RePEc/SEP raw page; verbatim quotes from 8 (Slovic 1995, Hsee et al. 1999, Ariely et al. 2003, Warren et al. 2011, Chen & Risen 2010, Sharot et al. 2010, Grüne-Yanoff 2025, Yin et al. 2026, SEP); 5 papers cited on metadata only with content from prior reading, listed in Gaps.
+- **State**: task_chains.pending_articles += voids-preference-void-2026-09-30 (target_section voids) via line-targeted edit; voids 111/115 (gate function)
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T06:42:50+00:00 - refine-draft
 - **Status**: Success
