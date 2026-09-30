@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T19:08:12+00:00
+ai_modified: 2026-09-30T19:30:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T19:30:21+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/quantum-factorisation-problem]] (created 2026-09-30T15:56Z, no prior review; chosen over cotard-delusion and primary-secondary-quality-boundary because it books a constraint on P-Q1 and Tenet 4 and had zero scrutiny)
+- **Output**: [[reviews/pessimistic-2026-09-30-quantum-factorisation-problem]]
+- **Findings**: 2 High (mechanism exposure argued at the shared Level 1 while L100 claims a dependency "not stated" that concepts/many-worlds.md L116-118 already states; ZLL "operationally accessible" read as observer-access at L44/L46/L84, on which the circularity charge rides), 4 Medium (Tenet 4 parity one-sided — symmetric per Stoica 2022 title, many-worlds L118, tenets L121-123; Carroll-Singh cross-cut vs internal entanglement slip at L64/L76; Stapp locus unverified at source per note L133 + writing-style L545; Chalmers-McQueen absence from a one-stem search stated in prose at L68), 2 Low (outer review's five demands rendered as three at L50; self-grading L90/L98 vs L100)
+- **Tasks**: none written to todo.md (reports-only per driver contract); ranked list of 4 in the review — 3 refine-draft on the page (length-neutral required: 3433/3500 hard, 67 headroom), 1 cross-review on apex/post-decoherence-selection-programme L81/L145 piped-link label + positions-evolve on P-SC2
+- **Content modified**: none
+- **Model**: claude-fable-5-1
 ## 2026-09-30T19:08:12+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update P-AS1 — argument-only, no calibration change, title not rescoped
