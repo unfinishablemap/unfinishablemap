@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-24
-ai_modified: 2026-09-27 14:20:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-09-30 11:55:56+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[quantum-interpretations]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 14:20:00+00:00
-lastmod: 2026-09-27 14:20:00+00:00
+lastmod: 2026-09-30 11:55:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ MMI is perhaps the sharpest available test of the Map's [No Many Worlds](/tenets
 
 **Dualism.** MMI is striking evidence for the *plausibility* of [Tenet 1](/tenets/#dualism). Albert and Loewer, analytic philosophers with no dualist agenda, found that taking determinate experience seriously inside unitary quantum mechanics forced them to concede that mental states do not supervene on brain states. That a mind-involving, non-physicalist ontology emerges from the measurement problem under pressure is a point in the Map's favour. But the Map should distinguish its dualism sharply from MMI's: in MMI the mind is a *passive lottery winner*, randomly assigned an outcome (single-mind) or smeared across all outcomes (many-minds). It does nothing.
 
-**Bidirectional Interaction.** This is where MMI and the Map part decisively. Under [Tenet 3](/tenets/#bidirectional-interaction), consciousness *biases* which outcome obtains, modulating the statistics of a real, local collapse. MMI's mind is acausal: it is distributed *over* unitary outcomes, or rides *on* decoherence-fixed ones, rather than selecting *among* them. Zeh's picture, in which each mind is correlated with one decohered branch, is the closest MMI comes to interface language, and even there the correlation is a passive parallelism: Zeh himself notes that only a "dynamically passive parallelism (or epiphenomenalism)" leaves the physical world closed. The Map's distinctive claim—real local collapse, biased by a determinate, persisting self—is the feature that appears to be missing from every MMI variant surveyed here.
+**Bidirectional Interaction.** This is where MMI and the Map part decisively. Under [Tenet 3](/tenets/#bidirectional-interaction), consciousness *biases* which single outcome is realised at a real, local, post-decoherence collapse while leaving the aggregate statistics Born. MMI's mind is acausal: it is distributed *over* unitary outcomes, or rides *on* decoherence-fixed ones, rather than selecting *among* them. Zeh's picture, in which each mind is correlated with one decohered branch, is the closest MMI comes to interface language, and even there the correlation is a passive parallelism: Zeh himself notes that only a "dynamically passive parallelism (or epiphenomenalism)" leaves the physical world closed. The Map's distinctive claim—real local collapse, biased by a determinate, persisting self—is the feature that appears to be missing from every MMI variant surveyed here.
 
 **No Many Worlds.** The indexical objection the Map runs against MWI seems to carry over to MMI largely unchanged. Before measurement there is one you; afterward, on MMI, there are many minds (or one smeared multimind), and nothing in the formalism appears to pick out which of them is the actual continuant "I." The Map reads the felt singularity of being *this* observer anticipating *one* outcome as evidence for a [haecceitistic](/concepts/haecceity/) fact about which experiencer is yours—precisely the fact Lockwood holds there is none of. On this reading MMI relocates the indexical problem rather than closing it: minds-in-the-formalism do not, by themselves, supply the missing further fact. This is a disagreement at the framework boundary, and is honestly noted as such: an MMI theorist who, like Lockwood, takes the "which mind is mine?" question to be ill-formed is not contradicting their own commitments, so the objection presses the question rather than refuting MMI from inside it. The interface model, by contrast, has no superposed-observer term to leave un-minded and no successor-minds to choose among, because on the Map's account collapse is real and local—the same move the Map uses to dissolve the [multi-mind collapse problem](/concepts/multi-mind-collapse-problem/) when multiple observers share an entangled system.
 

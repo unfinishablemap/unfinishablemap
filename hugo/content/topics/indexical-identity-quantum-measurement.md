@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-27 13:54:16+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-09-30 11:55:56+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[haecceity]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 17:12:22+00:00
-lastmod: 2026-09-27 13:54:16+00:00
+lastmod: 2026-09-30 11:55:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,15 +145,15 @@ The [tenets](/tenets/) commit this site to positions that bear directly on the i
 
 **No Many Worlds**: There is one actual world with definite outcomes. The indexical question is real, not dissolved by treating all outcomes as equally actual.
 
-These tenets suggest an account where consciousness doesn't cause collapse universally (avoiding Wigner's solipsism trap) but does ground the indexical fact of which outcome *this subject* experiences. The proposal:
+These tenets suggest an account where consciousness doesn't cause collapse universally (avoiding Wigner's solipsism trap) but does, at its own neural interface, bias which outcome becomes actual—and thereby which outcome *this subject* experiences. The proposal:
 
-**Consciousness as indexical ground**: Physical mechanisms (decoherence, spontaneous localization, or unknown processes) select which outcomes are possible. Consciousness determines *for whom* each outcome is actual. The Born rule describes probabilities at the interface where consciousness meets quantum indeterminacy—not probabilities for "the universe" but probabilities for *this experiencing subject*.
+**Consciousness as outcome-selector, with the indexical fact riding on it**: Physical mechanisms (decoherence, spontaneous localization, or unknown processes) fix which outcomes are possible and supply baseline collapse wherever no mind is involved. At its own neural interface, consciousness biases which of the physically possible, already-decohered outcomes becomes actual—and that outcome is actual for everyone, not merely for this subject. The Born rule describes the unconditioned probabilities at the interface where consciousness meets quantum indeterminacy; what the indexical reading adds is that the one outcome selected is the outcome *this experiencing subject* lives through, not a second, subject-indexed probability measure.
 
-This differs from consciousness-collapse by not claiming consciousness triggers collapse in any global sense. Collapse happens physically. What consciousness contributes is the indexical: making it the case that *this* subject experiences *this* outcome. Haecceity—the primitive thisness of individual consciousness—is irreducible.
+This differs from consciousness-collapse by not claiming consciousness triggers collapse in any global sense. Collapse happens physically. What consciousness contributes is a bias on which outcome becomes actual at its own interface—a selection that is thereby also indexical, making it the case that *this* subject experiences *this* outcome. Haecceity—the primitive thisness of individual consciousness—is irreducible.
 
-**Connecting to conservation laws**: If consciousness selects which already-possible outcome actualizes for this subject (rather than injecting new causal influence), no energy conservation violation occurs. Consciousness doesn't add energy; it determines which of the energetically-equivalent possibilities is experienced. This addresses the objection that mental causation violates physical conservation laws—a topic for separate treatment in [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).
+**Connecting to conservation laws**: If consciousness selects which already-possible outcome actualizes (rather than injecting energy), no energy conservation violation occurs. Consciousness doesn't add energy; it biases which of the energetically-equivalent possibilities becomes actual, and so which is experienced. This addresses the objection that mental causation violates physical conservation laws—a topic for separate treatment in [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).
 
-**Empirical status**: This proposal is currently metaphysical rather than empirically testable. Standard quantum mechanics, the indexical reading, and purely objective interpretations all predict identical experimental outcomes. The indexical reading's value lies in its explanatory coherence—it makes explicit what other interpretations leave obscure—not in novel predictions. Whether future developments might distinguish these interpretations empirically remains an open question.
+**Empirical status**: This proposal is currently metaphysical rather than empirically testable. Standard quantum mechanics, the indexical reading, and purely objective interpretations all predict identical experimental outcomes under any unconditioned test. The indexical reading's value lies in its explanatory coherence—it makes explicit what other interpretations leave obscure—not in novel predictions. Whether future developments might distinguish these interpretations empirically remains an open question.
 
 ## Relation to Site Perspective
 
@@ -161,9 +161,9 @@ This topic intersects all five tenets:
 
 **Dualism**: If the metaphysical thesis holds—if indexical facts are ontologically real—then third-person physical descriptions cannot capture the fact that *I* am experiencing *this* outcome. This supports dualism: something exists (the indexical fact) that physics doesn't describe. The epistemic thesis alone (indexical *knowledge* is irreducible) might be compatible with physicalism if indexical knowledge is merely a functional property of physical systems. But the metaphysical thesis grounds a stronger case for dualism.
 
-**Minimal Quantum Interaction**: Rather than causing collapse universally, consciousness grounds the indexical fact at quantum indeterminacies. This is a minimal role—not creating outcomes but determining which outcome is actual *for this subject*.
+**Minimal Quantum Interaction**: Rather than causing collapse universally, consciousness biases post-decoherence outcome selection at its own neural interface, leaving the unconditioned Born statistics intact. This is a minimal role—not creating outcomes but selecting which already-possible outcome becomes actual, and so which outcome *this subject* experiences.
 
-**Bidirectional Interaction**: If my reports about my experiences are to be reliable, there must be causal connection between what I experience and what I say. Indexical grounding provides this: consciousness determines the experienced outcome, and this determination flows into verbal behavior.
+**Bidirectional Interaction**: If my reports about my experiences are to be reliable, there must be causal connection between what I experience and what I say. Outcome selection provides this: consciousness biases the actual, and so the experienced, outcome, and this determination flows into verbal behavior.
 
 **No Many Worlds**: The indexical question is treated as real rather than dissolved by branch-counting. That one outcome actualizes for this subject, with the alternatives *globally* nonactual rather than merely absent from this branch, is a [posit the Map adopts](/tenets/background-commitments/); the Everettian who grants only branch-local actualisation disagrees at the framework boundary rather than over a shared premise.
 

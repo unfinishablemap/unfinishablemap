@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: branch-local indexicality can't supply th
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-09-27T13:54:16+00:00
+ai_modified: 2026-09-30T11:58:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-08-20T21:12:00+00:00
@@ -157,7 +157,7 @@ These are genuine virtues; the Map rejects MWI not as obviously wrong but as too
 
 MWI also claims to dissolve the [[prebiotic-collapse|prebiotic collapse problem]]—what selected quantum outcomes during 13.8 billion years before consciousness. If all outcomes occur, nothing needed selecting. But the Map's alternative is more conservative: objective reduction handled prebiotic collapse; consciousness modulates collapse only in neural systems.
 
-The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [[qm-interpretations-beyond-many-worlds|comprehensive survey of quantum interpretations]] establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories. One mainstream attempt to keep MWI's no-collapse physics while answering the indexical objection is the [[many-minds-interpretation|Many-Minds Interpretation]], which holds physical reality single and unbranching but multiplies the observer's *minds*; on the Map's reading it relocates rather than dissolves the indexical puzzle—nothing yet picks out which mind is the continuing "I." The interpretive landscape is genuinely open—surveys consistently show deep disagreement (Schlosshauer et al., 2013). The Map's favored hybrid—objective collapse as baseline mechanism plus consciousness modulating statistics within Born-rule limits in neural systems—differs from [[von-neumann-wigner-interpretation|von Neumann–Wigner's]] "consciousness causes collapse" headline: collapse no longer waits on consciousness, and consciousness biases what would have happened anyway.
+The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [[qm-interpretations-beyond-many-worlds|comprehensive survey of quantum interpretations]] establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories. One mainstream attempt to keep MWI's no-collapse physics while answering the indexical objection is the [[many-minds-interpretation|Many-Minds Interpretation]], which holds physical reality single and unbranching but multiplies the observer's *minds*; on the Map's reading it relocates rather than dissolves the indexical puzzle—nothing yet picks out which mind is the continuing "I." The interpretive landscape is genuinely open—surveys consistently show deep disagreement (Schlosshauer et al., 2013). The Map's favored hybrid—objective collapse as baseline mechanism plus consciousness biasing outcomes, Born statistics intact, in neural systems—differs from [[von-neumann-wigner-interpretation|von Neumann–Wigner's]] "consciousness causes collapse" headline: collapse no longer waits on consciousness, and consciousness biases what would have happened anyway.
 
 ## What Would Challenge This View?
 
@@ -183,7 +183,7 @@ MWI conflicts with multiple site commitments:
 
 **Minimal Quantum Interaction**: The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet posits that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum indeterminacies rather than violating conservation laws. MWI eliminates quantum indeterminacy entirely: nothing is undetermined because all outcomes occur. The tenet becomes inapplicable; there's nothing for consciousness to bias.
 
-**Bidirectional Interaction**: The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes—on the Map, by modulating statistics within objective-collapse events rather than triggering collapse itself. MWI denies any such influence: outcomes are determined entirely by unitary evolution, leaving no quantum indeterminacies for consciousness to bias. If MWI is true, [[mental-causation-and-downward-causation|mental causation]] needs a different story. Consciousness becomes either epiphenomenal (accompanying but not affecting the physics) or eliminable (not a genuine category at all).
+**Bidirectional Interaction**: The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes—on the Map, by Born-preserving selection of which outcome is realised within objective-collapse events rather than triggering collapse itself. MWI denies any such influence: unitary evolution determines outcomes entirely, leaving no indeterminacies for consciousness to bias. If MWI is true, [[mental-causation-and-downward-causation|mental causation]] needs a different story. Consciousness becomes either epiphenomenal (accompanying but not affecting the physics) or eliminable (not a genuine category).
 
 **No Many Worlds**: This tenet directly encodes the rejection. The arguments above constitute its rationale. The indexical identity problem, the probability problem, and the failure to explain consciousness motivate rejecting MWI despite its mathematical elegance. Its full registration—support, reach, dependency, and price stated together—is [[one-world-wager|The One-World Wager]].
 

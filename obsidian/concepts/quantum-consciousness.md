@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-09-28T01:22:44+00:00
+ai_modified: 2026-09-30T11:55:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-26T08:33:15+00:00
@@ -49,7 +49,7 @@ Several scientific proposals explain how consciousness might interact with physi
 
 The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. The Map favours [[forward-in-time-conscious-selection|non-retrocausal conscious selection]] — forward-in-time frameworks that avoid the metaphysical costs of backward causation. For how these mechanisms fit the Map's broader research programme, see [[comparing-quantum-consciousness-mechanisms|Comparing Quantum Consciousness Mechanisms]].
 
-**Map position vs. headline reading.** Several mechanisms below were originally formulated under a "consciousness causes collapse" headline (most directly the [[von-neumann-wigner-interpretation|von Neumann–Wigner lineage]]). The Map's thesis is weaker: collapse occurs universally whether or not anyone is conscious—[[spontaneous-collapse-theories|objective-collapse mechanisms]] supply the baseline—and consciousness *modulates* statistics within those events at its own neural interface. The mechanisms here are evaluated as candidate *modulation* mechanisms, not as causes of collapse-as-such. This distinction dissolves the [[prebiotic-collapse|prebiotic]] and [[multi-mind-collapse-problem|multi-observer]] problems without surrendering causal efficacy.
+**Map position vs. headline reading.** Several mechanisms below were formulated under a "consciousness causes collapse" headline (most directly the [[von-neumann-wigner-interpretation|von Neumann–Wigner lineage]]). The Map's thesis is weaker: collapse occurs universally with or without minds—[[spontaneous-collapse-theories|objective-collapse mechanisms]] supply the baseline—and consciousness *biases* which outcome is realised within those events at its own neural interface, leaving aggregate statistics Born. The mechanisms here are candidate *modulation* mechanisms, not causes of collapse-as-such. This distinction dissolves the [[prebiotic-collapse|prebiotic]] and [[multi-mind-collapse-problem|multi-observer]] problems without surrendering causal efficacy.
 
 ## The Quantum Opening
 
@@ -111,7 +111,7 @@ See [[decoherence]] for comprehensive analysis. Two distinct questions arise, an
 
 ### The Philosophical Question: Does Decoherence Close the Quantum Opening?
 
-**Decoherence doesn't eliminate quantum indeterminacy.** Decoherence explains basis selection but not outcome selection. After decoherence, the system remains in a statistical mixture—something must still select which outcome becomes actual. Even if neural tissue is too warm for sustained coherence, the measurement problem remains open, and the philosophical case for consciousness as outcome-selector stands on its own.
+**Decoherence doesn't eliminate quantum indeterminacy.** Decoherence explains basis selection but not outcome selection. After decoherence the system remains in an improper mixture; on the Map's account objective reduction, not decoherence, supplies definiteness. Even without sustained neural coherence, that leaves room for the Map's outcome-selection posit without supplying evidence for it—the agency evidence must carry that burden.
 
 ### The Empirical Question: Can Quantum Mechanisms Operate in Neural Tissue?
 
@@ -169,13 +169,13 @@ The relationship to the Map's [[tenets#^minimal-quantum-interaction|Minimal Quan
 
 The framework could be falsified by:
 
-1. **Definitive closure of neural quantum coherence**—if no protective mechanism maintains coherence at relevant timescales
+1. **Definitive closure of neural quantum coherence**—which would close Orch OR and Zeno but not post-decoherence selection
 2. **Classical sufficiency for consciousness-dependent functions**—if voluntary action, working memory, etc. occur without any quantum-timescale signatures
 3. **Decoherence producing genuine determinism**—if basis selection entails outcome selection
 4. **Dissociation of effort phenomenology from neural selection**—if the willed/cued distinction disappears under better-controlled studies
 5. **Successful illusionism**—a non-circular account of why consciousness *seems* unified without presupposing phenomenality
 
-Each of these possibilities has active research programmes, and none can be ruled out: the framework makes empirical commitments that could be overturned.
+Each has active research programmes, and none can be ruled out: the framework makes empirical commitments that could be overturned.
 
 ## Relation to the Map's Perspective
 

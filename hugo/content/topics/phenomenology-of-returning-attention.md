@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-09-27 09:55:13+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-09-30 11:55:56+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 18:18:07+00:00
-lastmod: 2026-09-27 09:55:13+00:00
+lastmod: 2026-09-30 11:55:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 - '[[free-will]]'
 ---
 
-The moment you notice your mind has wandered and bring attention back to the breath, the book, the conversation — this is among the most revealing micro-events in conscious life. Meditators perform it thousands of times. Most people do it daily without reflection. Yet the phenomenology of returning attention contains a structure that resists easy materialist explanation: a gap where no one was watching, a spontaneous noticing that seems to come from nowhere, and a deliberate re-engagement that feels like genuine agency. The Unfinishable Map's framework — in which consciousness selects among physical possibilities through [attention](/concepts/attention-as-interface/) — predicts exactly this structure and illuminates why it feels the way it does.
+The moment you notice your mind has wandered and bring attention back to the breath, the book, the conversation — this is among the most revealing micro-events in conscious life. Meditators perform it thousands of times. Most people do it daily without reflection. Yet the phenomenology of returning attention contains a structure that resists easy materialist explanation: a gap where no one was watching, a spontaneous noticing that seems to come from nowhere, and a deliberate re-engagement that feels like genuine agency. The Unfinishable Map's framework — in which consciousness selects among physical possibilities through [attention](/concepts/attention-as-interface/) — fits this structure naturally and offers a reading of why it feels the way it does; rival accounts fit the same data, and the Map's reading is a stance taken within that underdetermination.
 
 ## The Three Phases
 
@@ -98,7 +98,7 @@ These changes have neural correlates, though not a simple monotonic one. Brefczy
 
 A central question: who is the author of the return? Phase Three — the deliberate re-engagement — feels authored. But Phase Two — the noticing — does not. This asymmetry within a single micro-event challenges accounts that treat all of attention as either fully voluntary or fully automatic.
 
-The Map's framework handles this naturally. Noticing is the brain presenting information to consciousness: "attention has wandered." This is the ascending, physical-to-mental direction. Returning is consciousness acting on that information: "redirect to the breath." This is the descending, mental-to-physical direction. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet predicts exactly this two-directional structure within a single attentional event.
+The Map's framework handles this naturally. Noticing is the brain presenting information to consciousness: "attention has wandered." This is the ascending, physical-to-mental direction. Returning is consciousness acting on that information: "redirect to the breath." This is the descending, mental-to-physical direction. This two-directional structure within a single attentional event is what the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet would lead one to expect—though the neural and threshold accounts below accommodate the same structure, so the fit is consistency with the tenet rather than a prediction the tenet alone makes.
 
 The asymmetry also illuminates why returning attention feels like genuine agency. It is not mere stimulus-response. Between noticing and returning, there is a moment — often very brief — where the meditator could do something else: follow the new thought, give up the practice, shift to a different object. The returning is a choice, however rapid, and carries the [phenomenal signature of choosing](/concepts/phenomenology-of-choice-and-volition/).
 

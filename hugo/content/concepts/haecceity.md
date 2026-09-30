@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-28 10:22:25+00:00
+ai_modified: 2026-09-30 11:55:56+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:04:17+00:00
-lastmod: 2026-09-28 10:22:25+00:00
+lastmod: 2026-09-30 11:55:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -181,7 +181,7 @@ The haecceitistic framework would be challenged by: (1) a successful illusionist
 
 ## The Map's Commitment
 
-The Map's tenets imply haecceity about conscious subjects: **Dualism** means qualitative physical identity doesn't guarantee conscious identity. **No Many Worlds** requires a fact about which conscious subject I am. **Bidirectional Interaction** means *this* consciousness causally affects *this* brain—a further fact beyond qualitative relations. Together these entail rejecting Parfit's view that personal identity reduces to psychological continuity—a derived commitment, not a separate tenet.
+The Map's tenets presuppose haecceity about conscious subjects rather than imply it: **Dualism** means qualitative physical identity doesn't guarantee conscious identity. **No Many Worlds** draws on a fact about which conscious subject I am—a non-deflationary "I" the Map endorses on independent grounds, not from within the tenet. **Bidirectional Interaction** means *this* consciousness causally affects *this* brain—a further fact beyond qualitative relations. Together these commit the Map to rejecting Parfit's view that personal identity reduces to psychological continuity—a derived commitment, not a separate tenet.
 
 Process haecceitism refines part of what the Map presupposes: personal identity is not pattern identity, and the particularity that makes you *this* subject rather than a qualitative duplicate need not require a permanent soul. Being this conscious subject at a time is a primitive fact—your haecceity—whether that fact attaches to an enduring substance or an impermanent experiential process. The disjunction covers that much and stops there. The No-Many-Worlds argument asks for the further fact that fixes which *future* subject is me, and for that the Map leans on a subject that persists, as [the diagnostic for where the substance commitment enters](/concepts/where-the-substance-commitment-enters/) records.
 

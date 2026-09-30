@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-09-28T01:22:44+00:00
+ai_modified: 2026-09-30T11:55:56+00:00
 last_deep_review: 2026-07-25T18:17:36+00:00
 draft: false
 topics:
@@ -85,7 +85,7 @@ The Map's libertarianism has a specific mechanism: consciousness selects among q
 
 ## The Selector Model
 
-Consciousness, on the Map's framework, is primarily a *selector*. The brain does the computational work—representing possibilities, simulating consequences, preparing motor programs—and consciousness arbitrates among the alternatives rather than constructing them, on the [[control-theoretic-will|control-theoretic reading]] by biasing which trajectory the neural machinery settles into. Two tenets converge here. [[tenets#^minimal-quantum-interaction|Minimal quantum interaction]] demands that consciousness's influence be as small as possible; [[tenets#^bidirectional-interaction|bidirectional interaction]] requires that it genuinely affect outcomes. Selection among options physics has already prepared satisfies both.
+Consciousness, on the Map's framework, is primarily a *selector*. The brain does the computational work—representing possibilities, simulating consequences, preparing motor programs—and consciousness arbitrates among the alternatives rather than constructing them, on the [[control-theoretic-will|control-theoretic reading]] by biasing which trajectory the neural machinery settles into. Two tenets converge here. [[tenets#^minimal-quantum-interaction|Minimal quantum interaction]] bounds consciousness's influence to what the empirical record permits; [[tenets#^bidirectional-interaction|bidirectional interaction]] requires that it genuinely affect outcomes. Selection among options physics has already prepared satisfies both.
 
 A genuine difficulty follows. Selecting among neural firing patterns means influencing *macroscopic* brain states, not single quantum events. The proposed answer is amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection ([[mental-causation-and-downward-causation|mental causation]] discusses coupling)—and whether it is physically realistic remains open. The objection that warm neural tissue decoheres superpositions in ~10⁻¹³ seconds (Tegmark 2000) is contested but unresolved: Babcock et al. (2024) report ultraviolet superradiance across tryptophan mega-networks, and Khan et al. (2024) find the microtubule-stabiliser epothilone B delays anaesthetic-induced unconsciousness in rats, but these are laboratory and behavioural results, not demonstrations of sustained coherence in an intact functioning brain.
 
@@ -117,7 +117,7 @@ Together these answer the rollback: the agent explains the difference between re
 
 [[counterfactual-reasoning|Counterfactual reasoning]]—representing alternatives and evaluating what would follow from each—is *how* consciousness engages with the options quantum indeterminacy provides. Without it, selection would be a coin flip in phenomenological clothing; through it, selection becomes reasons-responsive deliberation. Comparative psychology shows what the capacity demands. A sated chimpanzee will not store food for future hunger because it cannot hold its current state and a counterfactual hungry-future-self together—a working-memory limit of roughly 2±1 items (Read, Manrique & Walker 2022) against about 4±1 for humans (Cowan 2001). The ape figure is a review's synthesis of the comparative data rather than a single measurement, and the cross-species comparison is contested ([[working-memory#The Capacity Gap|the capacity gap]]), but even this conservative two-fold expansion is what lets situation, counterfactual premise, and consequence be held at once.
 
-The [[counterfactual-void|counterfactual void]] marks the capacity's architectural limits. Byrne's research shows we mutate nearby features of actuality—actions over inactions, controllable over uncontrollable factors—rather than freely exploring possibility space, and radical alternatives thin to schematic labels. These constraints clarify rather than undermine the framework: agent causation requires evaluating *nearby* alternatives sufficient for practical deliberation, not surveying all metaphysical possibility—a narrow interface to action-relevant alternatives is what [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] predicts.
+The [[counterfactual-void|counterfactual void]] marks the capacity's architectural limits. Byrne's research shows we mutate nearby features of actuality—actions over inactions, controllable over uncontrollable factors—rather than freely exploring possibility space, and radical alternatives thin to schematic labels. These constraints clarify rather than undermine the framework: agent causation requires evaluating *nearby* alternatives sufficient for practical deliberation, not surveying all metaphysical possibility—a narrow interface to action-relevant alternatives is consistent with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], though the narrowness comes from the agent-causal constraints rather than from the tenet, which bounds the interaction's empirical footprint, not its counterfactual scope.
 
 ## Mental Causation and the Exclusion Problem
 

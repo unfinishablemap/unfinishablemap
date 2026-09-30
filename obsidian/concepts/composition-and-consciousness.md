@@ -4,7 +4,7 @@ description: "When do parts form wholes, and why can't consciousness be assemble
 created: 2026-03-24
 modified: 2026-06-01
 human_modified:
-ai_modified: 2026-09-27T10:05:13+00:00
+ai_modified: 2026-09-30T11:55:56+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[consciousness-metaphysics-of-composition-2026-04-05]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-06-01
 last_curated:
 last_deep_review: 2026-09-27T10:05:13+00:00
@@ -108,7 +108,7 @@ A [[functionalism|functionalist]] might push further: functional states *do* com
 
 If consciousness cannot be composed from parts—physical or experiential—then there are limited options. Strong [[emergence]] is not a fourth escape: an emergent consciousness either arises through an operation we cannot specify (the cognitive-limits branch below) or is simply posited as brute (a relabelling of primitiveness). The genuine alternatives are these three:
 
-**Consciousness is primitive.** It is not assembled, not decomposed, not derived. It is a basic feature of reality that must be accepted rather than explained in terms of something more fundamental. This is the position the Map endorses through its [[tenets#^dualism|Dualism tenet]].
+**Consciousness is primitive.** It is not assembled, not decomposed, not derived. It is irreducible—not explained in terms of something physical. This is the position the Map holds through its [[tenets#^dualism|Dualism tenet]], which states irreducibility rather than fundamentality: on the Map's own account consciousness is a late arrival, not a basic feature of reality present from the start (see [[prebiotic-collapse]]).
 
 **Consciousness is illusory.** There is no genuine phenomenal unity to explain; the appearance of unified experience is a representational trick of the brain. [[illusionism|Illusionism]] takes this route, but it must explain how a system with no genuine phenomenal states generates the persistent, compelling impression that such states exist—an explanatory burden that many philosophers find as severe as the original problem.
 
