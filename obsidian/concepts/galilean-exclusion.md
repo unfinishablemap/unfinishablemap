@@ -4,7 +4,7 @@ description: "How Galileo's relocation of sensible qualities into the sentient b
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-09-30T10:13:17+00:00
+ai_modified: 2026-09-30T13:22:06+00:00
 last_deep_review: 2026-09-05T09:10:46+00:00
 draft: false
 topics:
@@ -83,7 +83,7 @@ The [[consciousness-and-the-authority-of-formal-systems|authority of formal syst
 
 The most direct challenge grants the history and denies the inference. On the [[type-identity-theory|identity theory]] the relocated quality is something physics describes under another concept, not something it left out: one property under two concepts, with the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] explaining why the two feel unbridgeable. The relocation then produced an epistemic gap without an ontological one, and the genealogy, which shows only that the primitives were chosen structurally, cannot tell the two apart; the Map's reply lives in [[arguments-against-materialism|the arguments against materialism]], not in the history.
 
-Representational and relational theories of colour press from the other side. Colour as a relation between surface reflectance and a visual system is a perfectly good scientific target, measured by psychophysics and colorimetry for a century: Galileo's own secondary qualities became scientific objects because relational structure is tractable. The residue the argument can still point to is intrinsic quality — what standing in the relation is like — and the claim here is restricted to it.
+[[colour-ontology-and-the-secondary-quality-residue|Representational and relational theories of colour]] press from the other side. Colour as a relation between surface reflectance and a visual system is a perfectly good scientific target, measured by psychophysics and colorimetry for a century: Galileo's own secondary qualities became scientific objects because relational structure is tractable. The residue the argument can still point to is intrinsic quality — what standing in the relation is like — and the claim here is restricted to it.
 
 [[heterophenomenology|Heterophenomenology]] is a data policy rather than a denial: Dennett treats reports as data about what subjects believe about their experience while suspending judgement on whether the experiences are as believed, a policy neutral between the metaphysical options that answers the genealogy by declining its terms. The eliminative and illusionist replies (Churchland; Frankish's [[illusionism]]) go further: the relocated residue is a misrepresentation. The genealogy does not refute them — a method built to leave quality out would do so whether or not there was quality to leave — so that disagreement stands at the framework boundary and is noted rather than settled here.
 

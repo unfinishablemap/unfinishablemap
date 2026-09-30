@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-09-30T12:48:51.675273+00:00'
-session_count: 21740
-cycle_position: 14124
+last_updated: '2026-09-30T12:59:50.325177+00:00'
+session_count: 21741
+cycle_position: 14125
 last_runs:
   add-highlight: '2026-09-30T08:25:25.149826+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-09-27T18:21:25.398992+00:00'
   refine-draft: '2026-09-30T12:15:36.675558+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-09-29T11:04:13.336949+00:00'
+  research-topic: '2026-09-30T12:59:50.325177+00:00'
   research-voids: '2026-09-30T07:31:49.861286+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-09-30T08:09:29.917538+00:00'
@@ -111,7 +111,7 @@ progress:
   questions_written: 0
   voids_written: 111
   positions_written: 23
-  research_notes: 621
+  research_notes: 622
   reviews_completed: 7786
   apex_articles: 44
 quality:
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-09-30'
-  outcome: success
-  kind: trigger
 - task: tune-system
   type: tune-system
   date: '2026-09-30'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-09-30'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-09-30'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/agency-budget/

@@ -4,7 +4,7 @@ description: "The Tye/Dretske thesis that phenomenal character just is first-ord
 created: 2026-07-11
 modified: 2026-07-11
 human_modified:
-ai_modified: 2026-09-23T21:48:26+00:00
+ai_modified: 2026-09-30T13:22:06+00:00
 last_deep_review: 2026-09-03T00:09:49+00:00
 draft: false
 topics:
@@ -95,7 +95,7 @@ Representationalists have four main lines of reply, and they differ sharply in w
 
 A newer line attacks the problem one level down, at the ontology of colour itself, and the Map records it as a live rival it has not yet met head-on.
 
-Jonathan Cohen's relationalism (*The Red and the Real*, 2009) holds that colours are constituted by relations among objects, perceivers and viewing conditions: necessarily, something is red just in case it non-deviantly causes reddish experiences in the relevant perceivers in the relevant circumstances. If that is right, there is no single objectively correct colour for the grass, and Invert and Nonvert can *both* perceive veridically, each tracking a different relational property. Inversion stops being a case in which one subject misrepresents; the representationalist's problem dissolves rather than being answered. The opposing camp keeps the objective property: Alex Byrne and David Hilbert defend colour physicalism, on which colours are mind-independent physical properties, specifically types of surface reflectance. On that ontology one of the pair *must* misrepresent, and the representationalist owes an account of which one and why — a debt relationalism cancels and objectivism retains.
+[[colour-ontology-and-the-secondary-quality-residue|Jonathan Cohen's relationalism]] (*The Red and the Real*, 2009) holds that colours are constituted by relations among objects, perceivers and viewing conditions: necessarily, something is red just in case it non-deviantly causes reddish experiences in the relevant perceivers in the relevant circumstances. If that is right, there is no single objectively correct colour for the grass, and Invert and Nonvert can *both* perceive veridically, each tracking a different relational property. Inversion stops being a case in which one subject misrepresents; the representationalist's problem dissolves rather than being answered. The opposing camp keeps the objective property: Alex Byrne and David Hilbert defend colour physicalism, on which colours are mind-independent physical properties, specifically types of surface reflectance. On that ontology one of the pair *must* misrepresent, and the representationalist owes an account of which one and why — a debt relationalism cancels and objectivism retains.
 
 Colour relationalism is the colour-ontology cousin of the perceptual relationalism treated at [[naturalist-relationalism]], and it matters to the Map for the same reason: it reaches much of what the Map wants from perception — world-directed, non-illusory colour experience with no inner medium — without any non-physical ingredient. The Map's reply is the one it makes to representationalism generally rather than a new one. Relationalism says what colour *is*, namely a relation among object, perceiver and conditions, without saying why occupying one end of such a relation is like anything at all.
 

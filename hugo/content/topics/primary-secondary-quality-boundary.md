@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-09-30 10:13:17+00:00
+ai_modified: 2026-09-30 13:22:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-07 12:53:11+00:00
-lastmod: 2026-09-30 10:13:17+00:00
+lastmod: 2026-09-30 13:22:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ The distinction looks tidy until one asks what does the dividing. Three centurie
 
 **The dispositional criterion collapses the asymmetry.** A common modern repair makes secondary qualities *dispositional* — powers to produce sensations — and primary qualities *categorical* — intrinsic features of the object. But primary qualities are, on inspection, equally relational. Shape is defined by spatial relations; solidity is a disposition to resist penetration; motion is relative to a frame. Physics describes objects as bundles of dispositions and relations all the way down, which is the lesson of the [intrinsic-nature problem](/concepts/intrinsic-nature/) and the [intrinsic-nature void](/voids/intrinsic-nature-void/): the categorical residue Locke reserved for primary qualities is precisely what physics never delivers. If "dispositional" demotes a quality to the secondary side, then every quality may be secondary.
 
-**The colour cases straddle the line.** Colour is the test case the distinction was built around, and it refuses to stay on either side. Colour-as-experienced has an undeniable phenomenal character; colour-as-physics is a surface's disposition to reflect certain wavelengths. Is colour phenomenal or dispositional? The honest answer is that the question seems to expose the fault rather than locate the quality. Relationalist and response-dependent theories of colour (Cohen 2009; Maund 2024) hold a live intermediate position — colour real, constituted by relations to perceivers and viewing conditions, and open to objective study — so the options are not exhausted by "intrinsic content physics excludes" and "abolished". Taste, smell, and warmth all straddle the same line. These are not edge cases brought in to embarrass the distinction — they are the central examples around which the very notion of "secondary quality" was assembled.
+**The colour cases straddle the line.** Colour is the test case the distinction was built around, and it refuses to stay on either side. Colour-as-experienced has an undeniable phenomenal character; colour-as-physics is a surface's disposition to reflect certain wavelengths. Is colour phenomenal or dispositional? The honest answer is that the question seems to expose the fault rather than locate the quality. [Relationalist and response-dependent theories of colour](/topics/colour-ontology-and-the-secondary-quality-residue/) (Cohen 2009; Maund 2024) hold a live intermediate position — colour real, constituted by relations to perceivers and viewing conditions, and open to objective study, though intermediate on the ontology of colour and silent on the quality — so the options are not exhausted by "intrinsic content physics excludes" and "abolished". Taste, smell, and warmth all straddle the same line. These are not edge cases brought in to embarrass the distinction — they are the central examples around which the very notion of "secondary quality" was assembled.
 
 The pattern is consistent: every proposed criterion for the boundary either presupposes what it sorts, or, applied evenly, dissolves the asymmetry it was meant to mark. The line is real as a *contrast* — there is plainly a difference between a tomato's wavelength-reflectance and the felt redness — but its principled location remains underdetermined: no proposal has made it coincide with a single, non-circular, evenly-applied cut.
 
@@ -98,6 +98,7 @@ This article connects to two of the Map's [tenets](/tenets/) at calibrated stren
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap this article identifies the boundary with
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — How the distinction set the template for excluding subjectivity from science
 - [qualia](/concepts/qualia/) — The secondary qualities themselves, considered as the hard case
+- [colour-ontology-and-the-secondary-quality-residue](/topics/colour-ontology-and-the-secondary-quality-residue/) — The colour-specific expansion: where each colour ontology puts the quality, and why every one but primitivism puts it in experience
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics never delivers the categorical residue Locke reserved for primary qualities
 - [ontic-structural-realism](/concepts/ontic-structural-realism/) — The position that denies there was ever a residue to sort, and so escapes the stipulation charge above; the Newman exchange the Map argues on instead
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-09-30 10:13:17+00:00
+ai_modified: 2026-09-30 13:22:06+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 03:40:32+00:00
-lastmod: 2026-09-30 10:13:17+00:00
+lastmod: 2026-09-30 13:22:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ The obvious counterargument: these are not really the same kind of gap. Consciou
 
 This objection presupposes a clean division between qualitative characters that are "genuinely phenomenal" (consciousness) and those that are "merely descriptive" (everything else). But the boundary between these categories is far less stable than the objection requires.
 
-Consider the case that has troubled philosophers since Locke: secondary qualities. The redness of a ripe tomato is a dispositional property of its surface — a tendency to reflect certain wavelengths. Yet redness-as-experienced has an undeniable phenomenal character. Is colour phenomenal or dispositional? The honest answer is that it is both, or rather that the question exposes a fault line in the very distinction the equivocation objection relies on. Locke's separation of primary and secondary qualities was [an attempt to draw this boundary](/concepts/galilean-exclusion/), and three centuries of debate have not settled where it falls. The [primary/secondary-quality boundary](/topics/primary-secondary-quality-boundary/) gets its own treatment as the fault-line this objection turns on. That the boundary resists a clean criterion has independent support in the Locke–Berkeley debate; that the reason no criterion sorts the qualities is the same reason the explanatory gap opens is Map-internal synthesis, so the clean cut the objection needs is unavailable on the Map's reading rather than by external finding. Taste, smell, and warmth straddle the same line — the central examples around which "qualitative character" was built, not edge cases.
+Consider the case that has troubled philosophers since Locke: secondary qualities. The redness of a ripe tomato is a dispositional property of its surface — a tendency to reflect certain wavelengths. Yet redness-as-experienced has an undeniable phenomenal character. Is [colour phenomenal or dispositional](/topics/colour-ontology-and-the-secondary-quality-residue/)? The honest answer is that it is both, or rather that the question exposes a fault line in the very distinction the equivocation objection relies on. Locke's separation of primary and secondary qualities was [an attempt to draw this boundary](/concepts/galilean-exclusion/), and three centuries of debate have not settled where it falls. The [primary/secondary-quality boundary](/topics/primary-secondary-quality-boundary/) gets its own treatment as the fault-line this objection turns on. That the boundary resists a clean criterion has independent support in the Locke–Berkeley debate; that the reason no criterion sorts the qualities is the same reason the explanatory gap opens is Map-internal synthesis, so the clean cut the objection needs is unavailable on the Map's reading rather than by external finding. Taste, smell, and warmth straddle the same line — the central examples around which "qualitative character" was built, not edge cases.
 
 The case sharpens further with pain. Nociception — the detection of tissue damage — is a straightforwardly dispositional property: certain neural pathways fire, withdrawal behaviours follow. [Phenomenal pain](/topics/pain-consciousness-and-causal-power/) is the felt awfulness of the experience. The equivocation objection needs these to be categorically distinct. But consider: does a fish pulled from water experience phenomenal pain, or merely exhibit nociceptive dispositions? A defender of the clean division might insist the gradient is merely epistemic — we cannot tell where phenomenality begins, but a sharp ontological line could still exist beneath our ignorance. That reply is available, and the cases below do not refute it; they only shift the cost, since a line we can never locate does little argumentative work for an objection that needs the division to be operative. What about an insect recoiling from heat? The question is not merely unanswered but may be unanswerable in principle, because the boundary between "dispositional response" and "phenomenal experience" admits no clean criterion. The harder one looks for the line, the more it resembles a gradient — exactly what one would expect if the explanatory gap is universal rather than confined to a single ontological category.
 
@@ -132,6 +132,7 @@ The hard problem of consciousness, on this view, is the visible tip of a univers
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the hard problem made personal: why the nociception-to-suffering transition exemplifies the universal gap
 - [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/) — The semantic gap as the linguistic analogue of the universal explanatory gap
 - [primary-secondary-quality-boundary](/topics/primary-secondary-quality-boundary/) — Why the primary/secondary cut the equivocation objection relies on admits no clean criterion (externally supported) and why its identification with the gap is Map-internal synthesis
+- [colour-ontology-and-the-secondary-quality-residue](/topics/colour-ontology-and-the-secondary-quality-residue/) — The colour case worked through: every colour ontology except primitivism relocates the quality into experience
 
 ## References
 

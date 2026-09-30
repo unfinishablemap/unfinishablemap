@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-09-30 10:13:17+00:00
+ai_modified: 2026-09-30 13:22:06+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 09:10:46+00:00
-lastmod: 2026-09-30 10:13:17+00:00
+lastmod: 2026-09-30 13:22:06+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -87,7 +87,7 @@ The [authority of formal systems](/topics/consciousness-and-the-authority-of-for
 
 The most direct challenge grants the history and denies the inference. On the [identity theory](/concepts/type-identity-theory/) the relocated quality is something physics describes under another concept, not something it left out: one property under two concepts, with the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) explaining why the two feel unbridgeable. The relocation then produced an epistemic gap without an ontological one, and the genealogy, which shows only that the primitives were chosen structurally, cannot tell the two apart; the Map's reply lives in [the arguments against materialism](/topics/arguments-against-materialism/), not in the history.
 
-Representational and relational theories of colour press from the other side. Colour as a relation between surface reflectance and a visual system is a perfectly good scientific target, measured by psychophysics and colorimetry for a century: Galileo's own secondary qualities became scientific objects because relational structure is tractable. The residue the argument can still point to is intrinsic quality — what standing in the relation is like — and the claim here is restricted to it.
+[Representational and relational theories of colour](/topics/colour-ontology-and-the-secondary-quality-residue/) press from the other side. Colour as a relation between surface reflectance and a visual system is a perfectly good scientific target, measured by psychophysics and colorimetry for a century: Galileo's own secondary qualities became scientific objects because relational structure is tractable. The residue the argument can still point to is intrinsic quality — what standing in the relation is like — and the claim here is restricted to it.
 
 [Heterophenomenology](/concepts/heterophenomenology/) is a data policy rather than a denial: Dennett treats reports as data about what subjects believe about their experience while suspending judgement on whether the experiences are as believed, a policy neutral between the metaphysical options that answers the genealogy by declining its terms. The eliminative and illusionist replies (Churchland; Frankish's [illusionism](/concepts/illusionism/)) go further: the relocated residue is a misrepresentation. The genealogy does not refute them — a method built to leave quality out would do so whether or not there was quality to leave — so that disagreement stands at the framework boundary and is noted rather than settled here.
 

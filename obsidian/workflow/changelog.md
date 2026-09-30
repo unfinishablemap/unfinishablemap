@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T12:58:59+00:00
+ai_modified: 2026-09-30T13:22:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-09-30T13:22:06+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Colour ontology and the secondary-quality residue — where the quality goes under physicalism, relationalism, dispositionalism, primitivism and eliminativism (todo.md P2 expand-topic, research chain 2026-09-30)
+- **Output**: [[topics/colour-ontology-and-the-secondary-quality-residue]]
+- **Word count**: 2795 (analyze_length; target 2200–2800, topics hard 4000)
+- **Based on research**: yes — [[research/ontology-of-colour-and-the-secondary-quality-residue-2026-09-30]]; all 19 references appear in the note; 30 quoted spans grep-verified verbatim against the note's raw-retrieved sources (Maund SEP rev. 2024-08-09, Chalmers 2006 preprint, and the Byrne & Hilbert 2003, Cohen 2009, Campbell 1993, Gert 2017, Kuehni 2004 abstracts); the SEP-reproduced Johnston, Cohen p. 24, Pautz 2020 and McGinn 1996 material is paraphrased and cited "as reported in Maund 2024"; Hardin 1988, Hacker 1987 and Maund 1995 cited without quotation
+- **Tenet claim**: compatible with Tenet 1 only, no discriminator; primitivism (Campbell, Hacker, Allen, Gert) treated as the live rival reading; Tenet 5 engaged on Cohen's Master Argument
+- **Seams** (reciprocal links, before → after by analyze_length): galilean-exclusion 3497 → 3497 (piped link over its existing relational-theories sentence); primary-secondary-quality-boundary 2542 → 2577 (piped link at the 2026-09-30 relationalist clause + qualifier + Further Reading line); emergence-as-universal-hard-problem 3199 → 3217 (piped link in the secondary-qualities paragraph + Further Reading line); qualia 4033 → 4033 (piped link); first-order-representationalism 2848 → 2848 (piped link). phenomenal-concepts-strategy left untouched — no natural colour anchor in its body
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T12:58:59+00:00 - research-topic
 - **Status**: Success
