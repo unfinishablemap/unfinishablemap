@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T20:38:13+00:00
+ai_modified: 2026-09-30T20:57:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T20:57:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/judging-the-map-as-science]]
+- **Word count**: 4799 → 4862 (+63; apex hard 5000, gate `>=`, 137 words of headroom remain; E&D 272 → 245)
+- **Critical issues addressed**: 4 — (1) L63 realism revision attributed the synthesis's "differently grounded" reading to the survey, whose live L82 still says "actually *stronger*": survey's claim and synthesis's reading now separated; (2) L69 attributed the "reads into the situation rather than the data force" sizing to the Kuhn article, which sizes itself only as "illuminating rather than resolving" / "does not prove dualism": marked as this synthesis's; (3) L91 instrument failure carried a "minimum-outside-corridor" clause absent from the measurement source, whose wording is "no publicly accessible causal effects of the right kind": source quoted, corridor point marked as the Map's; (4) L85/L123 headlined "not degenerating" unscoped after the same paragraph found the broader criterion adverse: rescoped in both places, and "reads as" → "partly concedes as" per the-interface-problem L99
+- **Medium issues addressed**: 4 — Negro 2024, Douglas 2009, Levine 1983 cited inline (were References orphans); Chang 2004 removed (orphan here and uncited in the measurement source's body); Kuhn 1977 (*Essential Tension*) added for the weighted-values point, which *Structure* does not carry; "coherent but real" → "coherent, and costly"
+- **Enhancements made**: 1 — Evidence and Dependency trimmed toward the apex-evolve ~200-word contract, all seven support classes kept
+- **Citation ledger**: 11 of 11 verified real-correct (5 DOIs at Crossref: Quine, Fodor, Laudan–Leplin, COGITATE, Negro, Levine; 5 monographs at publisher); COGITATE result-direction leg PASS (abstract quoted in outer-review-2026-08-20-claude-opus-5); superlative helper empty
+- **Source-fidelity ledger**: 4 internal quotations live in both trees; 17 attributed claims checked against live sources, 3 divergences fixed (above); 23 wikilinks and 5 tenet anchors resolve; P-M1/P-M2/P-M4/P-M5 live, 4 IDs cited in "What This Implies for Decisions", `^mechanism-debt` live
+- **Engagement classification**: methodological naturalism — Mode One (circular in its own application); cross-boundary parsimony — Mode Two; underdetermination-as-inertness critic — Mode One; physicalist refusal of the structural diagnosis — Mode Three, marked in E&D; pre-paradigm objection — Mixed. No label leakage
+- **Tenet tiers as they now read**: Dualism — compatible ("consistent with irreducibility… without upgrading it"); MQI — stated commitment, falsifiable in principle, untested, no support claimed; Bidirectional — commitment to influence not detectability, compatible; No MWI — precondition; Occam — normative spine. No roster authors in the tenet paragraphs
+- **Method-and-history labels**: crisis reading = Map reconstruction (now labelled); pre-paradigm/preface = documented textual; Lakatos displacement, Kuhn 1977 values = documented textual; structural-not-technological = Map reconstruction, marked contested; transition check passes
+- **Prior passes reconciled**: pessimistic-2026-08-16 (reference orphans — discharged now; "of the right kind" unpacked as it asked) and pessimistic-2026-09-07 (Issue 1 fold-not-soften — the rescoped headline is the folded form; Issue 4 wording kept, attribution added; Issues 2/3/5/6 verified discharged)
+- **Fenced, untouched**: P-M6 seam bet unregistered by operator decision (todo L227–240); "currently it has not" stands
+- **Would-mint (not written)**: refine-draft `concepts/philosophy-of-science-under-dualism` L82–84 (align "stronger"); P3 refine-draft auxiliary-law budget (raised 08-24 and 09-14, never minted)
+- **Output**: [[reviews/deep-review-2026-09-30-judging-the-map-as-science]]
+- **Model**: claude-fable-5-1 (appended to `ai_system`)
+- **Published**: yes
+
 ## 2026-09-30T20:38:13+00:00 - positions-evolve
 - **Status**: Success
 - **Mode**: update
