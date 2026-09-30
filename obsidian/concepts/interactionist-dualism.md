@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-09-30T16:12:18+00:00
+ai_modified: 2026-09-30T21:39:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -214,7 +214,7 @@ Interactionist dualism faces real challenges: the [[decoherence|decoherence obje
 
 But alternatives face worse problems. [[concepts/epiphenomenalism|Epiphenomenalism]] strains the grounds for believing it. Identity theory cannot explain why there is something it is like to see red. [[concepts/functionalism|Functionalism]] struggles with absent [[qualia]]. Interactionism's puzzles are empirical and may yield to investigation; physicalist puzzles are conceptual and show no sign of resolution.
 
-Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies. Whether correct is open; that it is *coherent* reopens possibilities that [[eighteenth-century-influx-debate|seemed closed for centuries]].
+Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies. Whether correct is open; that it is *coherent* reopens possibilities that [[eighteenth-century-influx-debate|eighteenth-century Germany once revived]].
 
 ## Further Reading
 

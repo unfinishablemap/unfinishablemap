@@ -4,7 +4,7 @@ description: "Neurodegenerative diseases progressively dismantle cognitive facul
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-09-25T01:46:26+00:00
+ai_modified: 2026-09-30T21:39:17+00:00
 last_deep_review: 2026-07-18T13:57:49+00:00
 draft: false
 topics:
@@ -152,6 +152,7 @@ Each of the Map's [[tenets]] bears on neurodegenerative disease, though the evid
 - [[contemplative-pathology-and-interface-malfunction]] — Interface degradation through practice versus disease
 - [[identity-across-transformations]] — How indexical identity persists through radical change
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface that Parkinson's disease disrupts
+- [[outcome-devaluation-and-dual-task-costs-in-parkinsons]] — Which control system dopamine loss disables: goal-directed control in instrumental learning, automaticity in motor performance; the answer is domain-indexed
 - [[testing-consciousness-collapse]] — Can the quantum interaction posited here be tested experimentally?
 
 ## References

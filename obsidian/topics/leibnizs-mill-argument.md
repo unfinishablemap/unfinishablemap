@@ -4,7 +4,7 @@ description: "Leibniz's 1714 thought experiment—walk through an enlarged brain
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-09-17T17:08:26+00:00
+ai_modified: 2026-09-30T21:39:17+00:00
 last_deep_review: 2026-07-18T17:28:01+00:00
 draft: false
 topics:
@@ -138,7 +138,7 @@ Leibniz's Mill supports several of the Map's [[tenets]]:
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The materialist response that experience "just is" the arrangement of parts invokes parsimony: why posit anything beyond the physical? But parsimony cannot close an explanatory gap. If physical description genuinely fails to capture something about experience—something revealed by the mill thought experiment—adding that something to our ontology is not profligacy but intellectual honesty.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Leibniz himself denied mind-body interaction, preferring pre-established harmony. The Map disagrees. But the mill argument is compatible with interactionist dualism: if perception is not reducible to mechanism, it may nonetheless influence mechanism at points where physics leaves outcomes undetermined—precisely the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] the Map proposes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Leibniz himself denied mind-body interaction, preferring pre-established harmony, which [[eighteenth-century-influx-debate|lost ground to physical influx in the German academy within a generation]], for reasons that page records as theological, institutional and redefinitional rather than empirical. The Map disagrees. But the mill argument is compatible with interactionist dualism: if perception is not reducible to mechanism, it may nonetheless influence mechanism at points where physics leaves outcomes undetermined—precisely the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] the Map proposes.
 
 The mill argument is the historical origin of a converging family of anti-materialist arguments: the [[knowledge-argument]], the [[philosophical-zombies|zombie argument]], arguments from [[qualia]], and the [[explanatory-gap]]. Each adds apparatus the mill lacked, which is why their agreement across three centuries still matters. But as the Historical Lineage section conceded, they share the mill's core premise, so theirs is convergence by successive sharpening, not the concordance of independent lines—the discount the Map's [[epistemology-of-convergence-arguments|epistemology of convergence arguments]] demands. The Map takes convergence seriously as an [[phenomenological-evidence#convergence|evidential category]] while refusing to double-count a single intuition dressed in several idioms.
 

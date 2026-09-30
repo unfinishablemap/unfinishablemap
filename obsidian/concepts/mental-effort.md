@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-09-25
 human_modified: null
-ai_modified: 2026-09-25T19:01:07+00:00
+ai_modified: 2026-09-30T21:39:17+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -143,7 +143,7 @@ The framework would face difficulty if: (1) trained observers reported radically
 
 **[[tenets#^dualism|Dualism]]**: If effort is real — not merely what neural computation feels like — consciousness contributes something beyond the physical. The willed/instructed distinction provides neural evidence: something changes in the brain when genuine decision occurs versus mere implementation. That something may be consciousness engaging at the selection point.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Effort engagement is biochemically tracked — Westbrook et al. (2020) show striatal dopamine modulation shifts the cost-benefit weighting that governs willingness to do cognitive work, though the study addresses the decision to exert effort rather than how effort feels. The tenet-relevant claim is not that mental exertion runs on a different energetic currency from physical exertion but that the *selection* operation effort accompanies — choosing among neural patterns the unconscious motor system has prepared — involves information flow through regulatory pathways rather than the bulk energy transfer driving muscle contraction. Consistent with consciousness operating at quantum indeterminacies rather than classical energy injection.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Effort engagement is biochemically tracked — Westbrook et al. (2020) show striatal dopamine modulation shifts the cost-benefit weighting that governs willingness to do cognitive work, though the study addresses the decision to exert effort rather than how effort feels. The Parkinson's devaluation evidence complicates any habit-side reading of that modulation: [[outcome-devaluation-and-dual-task-costs-in-parkinsons|dopamine loss impairs goal-directed control in instrumental learning while sparing habit]], so a dopamine-tracked shift in effort-cost weighting cannot be assigned to the habit system without confronting that result — a finding the Parkinson's page records as compatible with the Map's reading rather than as support for it. The tenet-relevant claim is not that mental exertion runs on a different energetic currency from physical exertion but that the *selection* operation effort accompanies — choosing among neural patterns the unconscious motor system has prepared — involves information flow through regulatory pathways rather than the bulk energy transfer driving muscle contraction. Consistent with consciousness operating at quantum indeterminacies rather than classical energy injection.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The neuroplasticity evidence is *compatible with* downward causation. Across CBT, meditation, and OCD therapy, intentional effort produces neural changes through top-down pathways distinct from pharmacological intervention. The materialist explains this via Hebbian learning; the interactionist as information flowing from mind to matter.
 

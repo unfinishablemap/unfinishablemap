@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-08-06 11:11:23+00:00
+ai_modified: 2026-09-30 21:39:17+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 18:24:00+00:00
-lastmod: 2026-08-06 11:11:23+00:00
+lastmod: 2026-09-30 21:39:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ A second family of solutions preserves the distinctness of mind and body while d
 
 **Avicenna** (Ibn Sīnā, c. 980–1037 CE) developed what may be the most detailed pre-modern account of bidirectional mind-body interaction. His Flying Man thought experiment argues for the soul's independence from the body. The soul has two functional aspects: the **practical intellect** faces downward toward matter, governing bodily actions, while the **theoretical intellect** faces upward toward the Active Intellect, receiving intelligible forms. Bodily states exert a "bottom-up preparing influence," while the soul exerts a "top-down actualizing effect" through the practical intellect's continuous, holistic guidance. The soul governs the body not by pushing matter at a discrete point but by organising bodily processes holistically. In a preprint, Jamali et al. (2019) note the resonance between this picture and quantum approaches to consciousness, where mental influence shapes probability distributions across neural systems rather than acting at isolated spatial points.
 
-**Leibniz's pre-established harmony** belongs here structurally: mind and body never interact at all—God has arranged them to run in perfect parallel. This avoids the interaction problem entirely but at the cost of genuine [mental causation](/concepts/mental-causation-and-downward-causation/). The Map rejects it because if consciousness does not causally influence the physical world, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is violated.
+**Leibniz's pre-established harmony** belongs here structurally: mind and body never interact at all—God has arranged them to run in perfect parallel. This avoids the interaction problem entirely but at the cost of genuine [mental causation](/concepts/mental-causation-and-downward-causation/), and it [lost ground to physical influx in the German academy within a generation](/topics/eighteenth-century-influx-debate/), for reasons that page records as theological, institutional and redefinitional rather than empirical. The Map rejects it because if consciousness does not causally influence the physical world, the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is violated.
 
 **Occasionalism** reaches the same no-interaction verdict by a different route: rather than coordinating mind and body in advance, God does the causal work continuously. Al-Ghazālī (c. 1058–1111) and the Ashʿarite *kalām* tradition denied that the connection between what we call cause and effect is necessary—causal regularity is God's habitual practice, not a power residing in things. Nicolas Malebranche (1638–1715) built the systematic Cartesian version: God moves the arm on the occasion of the volition rather than through it. Leibniz's own two-clocks illustration marks the difference between the two strategies—a craftsman continually adjusting the clocks, against one who builds them so well at the outset that no adjustment is ever needed. Two cautions travel with the position. Steven Nadler (2011) shows it was primarily a doctrine about causation in general, with body-body causation the central case, rather than the ad hoc mind-body patch it is often taught as; and al-Ghazālī should not be filed as an unambiguous global occasionalist, since the Seventeenth Discussion of *The Incoherence of the Philosophers* may defend only the *possibility* of miracles. The Map rejects occasionalism on the same ground as harmony: if God does the causal work, creaturely consciousness does not. The dedicated [occasionalism](/concepts/occasionalism/) article reconstructs the four argument families and the global/local distinction.
 

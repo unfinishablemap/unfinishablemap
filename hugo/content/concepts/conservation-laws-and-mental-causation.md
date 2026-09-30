@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-30 16:12:18+00:00
+ai_modified: 2026-09-30 21:39:17+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 07:40:05+00:00
-lastmod: 2026-09-30 16:12:18+00:00
+lastmod: 2026-09-30 21:39:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ topics:
 - '[[free-will]]'
 ---
 
-The energy conservation objection to [interactionist-dualism](/concepts/interactionist-dualism/) claims that if non-physical consciousness could move matter, energy would be created or destroyed — violating one of physics' most fundamental principles. This objection, [pressed since Leibniz in the 1690s](/topics/eighteenth-century-influx-debate/) (see [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) for the full historical development), has been revitalised by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." The Unfinishable Map holds that this objection fails on two independent grounds: conservation is *conditional* on symmetries that mental causation would break, and consciousness can influence outcomes without transferring energy at all.
+The energy conservation objection to [interactionist-dualism](/concepts/interactionist-dualism/) claims that if non-physical consciousness could move matter, energy would be created or destroyed — violating one of physics' most fundamental principles. This objection, [pressed since Leibniz in the 1690s](/topics/history-of-the-interaction-problem/) and [answered by redefinition in eighteenth-century Germany](/topics/eighteenth-century-influx-debate/), has been revitalised by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." The Unfinishable Map holds that this objection fails on two independent grounds: conservation is *conditional* on symmetries that mental causation would break, and consciousness can influence outcomes without transferring energy at all.
 
 ## The Objection Stated
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-25 01:46:26+00:00
+ai_modified: 2026-09-30 21:39:17+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 13:57:49+00:00
-lastmod: 2026-09-25 01:46:26+00:00
+lastmod: 2026-09-30 21:39:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,6 +156,7 @@ Each of the Map's [tenets](/tenets/) bears on neurodegenerative disease, though 
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Interface degradation through practice versus disease
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that Parkinson's disease disrupts
+- [outcome-devaluation-and-dual-task-costs-in-parkinsons](/topics/outcome-devaluation-and-dual-task-costs-in-parkinsons/) — Which control system dopamine loss disables: goal-directed control in instrumental learning, automaticity in motor performance; the answer is domain-indexed
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Can the quantum interaction posited here be tested experimentally?
 
 ## References

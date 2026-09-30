@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-30 16:12:18+00:00
+ai_modified: 2026-09-30 21:39:17+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:32:31+00:00
-lastmod: 2026-09-30 16:12:18+00:00
+lastmod: 2026-09-30 21:39:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) fr
 
 ### The Objection
 
-[Since Leibniz](/topics/eighteenth-century-influx-debate/), critics argue that mind-body interaction violates conservation of energy and momentum. If mind causally affects body, energy must enter the physical system from outside. Papineau (2001) develops this into an argument for causal closure; Carroll (2016) demands to know what particles a soul is made of.
+Since Leibniz, critics argue that mind-body interaction violates conservation of energy and momentum, an objection that [lost ground to physical influx in eighteenth-century Germany](/topics/eighteenth-century-influx-debate/) before its modern revival. If mind causally affects body, energy must enter the physical system from outside. Papineau (2001) develops this into an argument for causal closure; Carroll (2016) demands to know what particles a soul is made of.
 
 For comprehensive treatment, see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/). The key responses:
 

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T21:33:27+00:00
+ai_modified: 2026-09-30T21:39:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-09-30T21:39:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conservation-laws-and-mental-causation]] (primary) plus seven secondary hosts — executed as a multi-host refine for the P2 cross-review task "Influx anchor repairs and creation-wing hosts" (optimistic-2026-09-30-creation-wing item 4)
+- **Original score**: n/a (targeted cross-link repair; no `scripts/curate.py review` run — script absent)
+- **Changes**: PART A, three anchors installed 16:12Z that sent readers to `eighteenth-century-influx-debate` under words naming the objection's pressing or closure, relabelled over words naming the eighteenth-century reversal: concepts/conservation-laws-and-mental-causation L47 link targets swapped — "pressed since Leibniz in the 1690s" now → `history-of-the-interaction-problem`, and the influx link sits on "answered by redefinition in eighteenth-century Germany" (3813 → 3813, host already at hard_warning, zero cost); concepts/objections-to-interactionism L65 "Since Leibniz" unlinked, one clause added "an objection that [[influx|lost ground to physical influx in eighteenth-century Germany]] before its modern revival" (2971 → 2986); concepts/interactionist-dualism L217 "seemed closed for centuries" → "eighteenth-century Germany once revived" (3478 → 3478, word-neutral). PART B, harmony's fate, one clause each with the influx link: topics/leibnizs-mill-argument L141 (2989 → 3015) and topics/interaction-problem-across-traditions L72 (3803 → 3830) — "lost ground to physical influx in the German academy within a generation, for reasons that page records as theological, institutional and redefinitional rather than empirical"; "dominant" deliberately not written (the influx page marks the dominance question unverified). PART C, hosts for `outcome-devaluation-and-dual-task-costs-in-parkinsons`: topics/consciousness-and-neurodegenerative-disease L155 new Further Reading line beside the dopamine line (3024 → 3046); concepts/motor-selection L104 piped wikilink over the existing words "whether selection or habit fails" (3499 → 3499, zero cost); concepts/mental-effort L146 one sentence after Westbrook 2020 stating that dopamine loss impairs goal-directed control in instrumental learning while sparing habit, so a dopamine-tracked effort-cost shift cannot be assigned to the habit system without confronting that result, recorded as compatible-with rather than support-for the Map's reading (3161 → 3220). `ai_modified` bumped on all eight hosts at 21:39:17Z. No named-opponent reply touched; no altered-state flag in scope. todo.md untouched (orchestrator marks the task).
+- **Published**: yes
+- **Model**: claude-fable-5-1
+
 ## 2026-09-30T21:33:27+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the five topic/concept articles created 2026-09-30 with zero prior optimistic coverage — topics/colour-ontology-and-the-secondary-quality-residue, concepts/cotard-delusion, concepts/quantum-factorisation-problem, topics/eighteenth-century-influx-debate, topics/outcome-devaluation-and-dual-task-costs-in-parkinsons (bodies, deep/pessimistic reviews, research-note Gaps sections and inbound body links read; positions/memory-and-autonoesis confirmed live but excluded as a 2026-09-20 positions entry, not a creation-wing member)

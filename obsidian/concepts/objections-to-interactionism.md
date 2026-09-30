@@ -4,7 +4,7 @@ description: "Six challenges to dualism—pairing, conservation, parsimony, deco
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-09-30T16:12:18+00:00
+ai_modified: 2026-09-30T21:39:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] fr
 
 ### The Objection
 
-[[eighteenth-century-influx-debate|Since Leibniz]], critics argue that mind-body interaction violates conservation of energy and momentum. If mind causally affects body, energy must enter the physical system from outside. Papineau (2001) develops this into an argument for causal closure; Carroll (2016) demands to know what particles a soul is made of.
+Since Leibniz, critics argue that mind-body interaction violates conservation of energy and momentum, an objection that [[eighteenth-century-influx-debate|lost ground to physical influx in eighteenth-century Germany]] before its modern revival. If mind causally affects body, energy must enter the physical system from outside. Papineau (2001) develops this into an argument for causal closure; Carroll (2016) demands to know what particles a soul is made of.
 
 For comprehensive treatment, see [[conservation-laws-and-mental-causation]]. The key responses:
 
