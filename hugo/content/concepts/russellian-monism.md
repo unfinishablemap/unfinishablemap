@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-27 03:22:13+00:00
+ai_modified: 2026-10-01 02:44:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-09-27 03:22:13+00:00
+lastmod: 2026-10-01 02:44:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ This creates space for consciousness. If physics captures only structure, someth
 
 ### Panpsychist Russellian Monism
 
-Galen Strawson, Philip Goff (in earlier work), and others argue that quiddities are phenomenal properties—experience is fundamental and ubiquitous. Every electron has some micro-experience; human consciousness is what micro-experiences look like "from inside" when organized into complex systems. The attraction: this avoids [emergence](/concepts/emergence/). Experience doesn't arise from non-conscious matter; it combines.
+Galen Strawson, Philip Goff (in earlier work, resting on the strong [Revelation](/concepts/revelation-thesis/) thesis), and others argue that quiddities are phenomenal properties—experience is fundamental and ubiquitous. Every electron has some micro-experience; human consciousness is what micro-experiences look like "from inside" when organized into complex systems. The attraction: this avoids [emergence](/concepts/emergence/). Experience doesn't arise from non-conscious matter; it combines.
 
 ### Panprotopsychist Russellian Monism
 

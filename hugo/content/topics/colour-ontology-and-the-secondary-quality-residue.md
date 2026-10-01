@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-30
-ai_modified: 2026-09-30 15:42:31+00:00
+ai_modified: 2026-10-01 02:44:14+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 15:42:31+00:00
-lastmod: 2026-09-30 15:42:31+00:00
+lastmod: 2026-10-01 02:44:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ Cohen holds that "colors are constituted in terms of relations between objects, 
 
 ### Dispositionalism
 
-Colours as "powers to appear in distinctive ways to perceivers (of the right kind), in the right kind of circumstances" (Maund 2024, §2.5) is the form the secondary-quality doctrine originally took; the disposition-versus-causal-basis fork is already at work in Boyle, Locke and Reid (Bolton 2022, §§4.2, 5.2.1, 6.1). Where does the quality go? Into the "appear red" clause: a disposition is individuated by its manifestation, and the manifestation is a colour experience. Johnston (1992) pays openly. His constraints on any account of colour include Revelation — that a standard visual experience fully reveals the intrinsic nature of the colour seen — and Maund records that Johnston concedes dispositionalism has difficulty meeting it "but, he thinks, giving this up is a small price to pay" (Maund 2024, §2.5). On the Map's reconstruction, dispositionalism was the exclusion's first vehicle rather than an alternative to it.
+Colours as "powers to appear in distinctive ways to perceivers (of the right kind), in the right kind of circumstances" (Maund 2024, §2.5) is the form the secondary-quality doctrine originally took; the disposition-versus-causal-basis fork is already at work in Boyle, Locke and Reid (Bolton 2022, §§4.2, 5.2.1, 6.1). Where does the quality go? Into the "appear red" clause: a disposition is individuated by its manifestation, and the manifestation is a colour experience. Johnston (1992) pays openly. His constraints on any account of colour include [Revelation](/concepts/revelation-thesis/) — that a standard visual experience fully reveals the intrinsic nature of the colour seen — and Maund records that Johnston concedes dispositionalism has difficulty meeting it "but, he thinks, giving this up is a small price to pay" (Maund 2024, §2.5). On the Map's reconstruction, dispositionalism was the exclusion's first vehicle rather than an alternative to it.
 
 ### Eliminativism and projectivism
 
@@ -66,7 +66,7 @@ Realist primitivism — Hacker (1987), Campbell (1993), McGinn (1996, a convert 
 
 Set the five answers side by side and a pattern appears that no single theory states, because each is a theory of colour and the pattern concerns experience. Four of five accounts leave the quality in experience — the territory the [qualia](/concepts/qualia/) page maps and the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) contests — and the fifth refuses the relocation by denying the premise that justified it. The intermediate positions the Map's critics have urged on it relocate the residue rather than remove it, relationalism with unusual precision, since the survey makes the phenomenology of visual experience the crucial issue in its contest with irrealism.
 
-The Revelation debate makes the same point from the inside. Byrne and Hilbert (2007) use it against primitivism; its defenders keep a moderate form (as reported in Maund 2024, §§1.4, 2.1). What no party disputes is that a qualitative character is *given* in experience; they disagree about whether the giving is veridical. The residue is common ground and only its address is in dispute. The survey's recorded criticism of primitivism — that its arguments may depend "on a questionable form of the doctrine of Revelation" (Maund 2024, §2.1) — doubts whether the given character licenses a conclusion about objects, not whether there is a given character.
+The [Revelation](/concepts/revelation-thesis/) debate makes the same point from the inside. Byrne and Hilbert (2007) use it against primitivism; its defenders keep a moderate form (as reported in Maund 2024, §§1.4, 2.1). What no party disputes is that a qualitative character is *given* in experience; they disagree about whether the giving is veridical. The residue is common ground and only its address is in dispute. The survey's recorded criticism of primitivism — that its arguments may depend "on a questionable form of the doctrine of Revelation" (Maund 2024, §2.1) — doubts whether the given character licenses a conclusion about objects, not whether there is a given character.
 
 ## Eden as the Formal Statement {#eden}
 

@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-09-25T15:46:47+00:00
+ai_modified: 2026-10-01T02:44:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ The Map appears to avoid both problems. If individual conscious subjects are fun
 
 ### Instability
 
-Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [[philosophical-zombies|zombies]], the [[knowledge-argument|knowledge argument]] — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a parallel conclusion through different reasoning: non-physicalist variants of Russellian monism collapse into dualism, while physicalist variants collapse into standard physicalism. The programme does not break free of the divide it claims to transcend.
+Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [[philosophical-zombies|zombies]], the [[knowledge-argument|knowledge argument]] — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a parallel conclusion through different reasoning: non-physicalist variants of Russellian monism collapse into dualism, while physicalist variants collapse into standard physicalism. The [[revelation-thesis|Revelation]] literature adds a third form of the instability: Majeed (2017) and Lin (2025), both cited here by abstract only, argue that the strong Revelation thesis Goff's argument needs threatens panpsychism as much as physicalism, and that the essence-versus-grounds distinction which rescues the one rescues the other. The programme does not break free of the divide it claims to transcend.
 
 In Cutter's framing, Russellian monism offers no comfortable resting place: one must turn back to physicalism or else march on to [[dualism]] (Cutter 2019). The Map has marched on.
 

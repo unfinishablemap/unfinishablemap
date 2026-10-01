@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-09-02T14:48:31+00:00
+ai_modified: 2026-10-01T02:44:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,7 +138,7 @@ Notably, even the most detailed PCS defence—Balog's 2012 constitutional accoun
 
 The persistence of anti-physicalist intuitions poses a further problem. If PCS is correct—if the gap is merely conceptual—then philosophical education should eventually dissolve it, as understanding molecular motion dissolved vitalist intuitions about the "life force." But consciousness-related intuitions have persisted across centuries of investigation and show no sign of fading among informed philosophers. The gap behaves less like a conceptual confusion and more like a genuine feature of reality.
 
-The most recent moves retreat further. Rather than claim phenomenal concepts give substantive a priori access to their referents, a-posteriori physicalists now argue that such concepts *indicate* their referents—lock onto a physical state—without *revealing* that state's nature, without entailing why it feels as it does (Zhou 2025). This deliberately abandons the older mode-of-presentation machinery in order to keep the referential link. The dualist diagnosis is that the concession is the problem: a concept that indicates a physical state while revealing nothing of why that state is experienced simply restates the explanatory gap as a standing feature of every phenomenal concept, rather than dissolving it. The retreat preserves physicalism's letter at the cost of conceding, for each phenomenal concept individually, exactly the gap PCS set out to close.
+The most recent moves retreat further. Rather than claim phenomenal concepts give substantive a priori access to their referents, a-posteriori physicalists now argue that such concepts *indicate* their referents—lock onto a physical state—without *[[revelation-thesis|revealing]]* that state's nature, without entailing why it feels as it does (Zhou 2025). This deliberately abandons the older mode-of-presentation machinery in order to keep the referential link. The dualist diagnosis is that the concession is the problem: a concept that indicates a physical state while revealing nothing of why that state is experienced simply restates the explanatory gap as a standing feature of every phenomenal concept, rather than dissolving it. The retreat preserves physicalism's letter at the cost of conceding, for each phenomenal concept individually, exactly the gap PCS set out to close.
 
 What seems clear is that PCS proponents accept there's something special about phenomenal concepts. The debate is whether this specialness is itself physically explicable—and by the master argument's dilemma, either answer leaves something resisting physical explanation.
 

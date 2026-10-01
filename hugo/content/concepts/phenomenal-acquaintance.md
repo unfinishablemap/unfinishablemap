@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-02 03:04:04+00:00
+ai_modified: 2026-10-01 02:44:14+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 03:26:19+00:00
-lastmod: 2026-08-02 03:04:04+00:00
+lastmod: 2026-10-01 02:44:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ Higher-order thought theories (Rosenthal, Brown) raise a deeper challenge. On th
 
 The acquaintance theorist's reply: higher-order theories face their own dilemma. If the higher-order representation faithfully represents the first-order state's qualitative character, then qualitative character must be present in the first-order state—and acquaintance occurs there, with the higher-order representation merely noticing it. If instead the higher-order representation *creates* qualitative character absent from the first-order state, then consciousness is constituted by a representation misrepresenting its target—an account that struggles to explain why introspective reports track genuine qualities so reliably.
 
-Representationalists raise a different challenge. If introspection is *transparent*—if attending to your experience of red just is attending to the redness of the object—then acquaintance gives access to represented properties of the world, not intrinsic qualities of experience. [Transparency](/concepts/phenomenal-transparency-opacity-spectrum/) is real as a phenomenological datum. The dualist response: transparency presupposes acquaintance. The reason attending to the experience of red feels like attending to redness is that the qualitative character *of the experience* constitutively involves redness.
+Representationalists raise a different challenge. If introspection is *transparent*—if attending to your experience of red just is attending to the redness of the object—then acquaintance gives access to represented properties of the world, not [intrinsic qualities of experience](/concepts/revelation-thesis/). [Transparency](/concepts/phenomenal-transparency-opacity-spectrum/) is real as a phenomenological datum. The dualist response: transparency presupposes acquaintance. The reason attending to the experience of red feels like attending to redness is that the qualitative character *of the experience* constitutively involves redness.
 
 ## Relation to Site Perspective
 

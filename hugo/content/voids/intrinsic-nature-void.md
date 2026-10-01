@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-29 12:38:55+00:00
+ai_modified: 2026-10-01 02:44:14+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 12:38:55+00:00
-lastmod: 2026-09-29 12:38:55+00:00
+lastmod: 2026-10-01 02:44:14+00:00
 modified: *id001
 related_articles:
 - '[[correlationism-and-the-ancestrality-argument]]'
@@ -78,7 +78,7 @@ The response: neither functional relations nor higher-order representations expl
 
 ### The Panpsychist Inference
 
-For everything external, we know only structure. For consciousness, we seem to know something more—the intrinsic nature of at least one piece of reality. This provides a narrow window: we are acquainted with a handful of phenomenal qualities, while entire categories of [phenomenal contact](/voids/acquaintance-void/) may be structurally closed to minds like ours. This asymmetry drives panpsychist proposals: if consciousness is our only access to intrinsic nature, and intrinsic nature must exist everywhere to ground the relations physics describes, perhaps consciousness is ubiquitous.
+For everything external, we know only structure. For consciousness, we seem to [know something more](/concepts/revelation-thesis/)—the intrinsic nature of at least one piece of reality. This provides a narrow window: we are acquainted with a handful of phenomenal qualities, while entire categories of [phenomenal contact](/voids/acquaintance-void/) may be structurally closed to minds like ours. This asymmetry drives panpsychist proposals: if consciousness is our only access to intrinsic nature, and intrinsic nature must exist everywhere to ground the relations physics describes, perhaps consciousness is ubiquitous.
 
 The Unfinishable Map need not endorse [panpsychism](/concepts/panpsychism/). But the intrinsic nature argument reveals its intellectual seriousness as a principled response to a genuine problem.
 

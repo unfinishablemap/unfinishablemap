@@ -4,7 +4,7 @@ description: "Physics describes what matter does but not what it is. Consciousne
 created: 2026-01-27
 modified: 2026-09-29
 human_modified: null
-ai_modified: 2026-09-29T12:38:55+00:00
+ai_modified: 2026-10-01T02:44:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -74,7 +74,7 @@ The response: neither functional relations nor higher-order representations expl
 
 ### The Panpsychist Inference
 
-For everything external, we know only structure. For consciousness, we seem to know something more—the intrinsic nature of at least one piece of reality. This provides a narrow window: we are acquainted with a handful of phenomenal qualities, while entire categories of [[acquaintance-void|phenomenal contact]] may be structurally closed to minds like ours. This asymmetry drives panpsychist proposals: if consciousness is our only access to intrinsic nature, and intrinsic nature must exist everywhere to ground the relations physics describes, perhaps consciousness is ubiquitous.
+For everything external, we know only structure. For consciousness, we seem to [[revelation-thesis|know something more]]—the intrinsic nature of at least one piece of reality. This provides a narrow window: we are acquainted with a handful of phenomenal qualities, while entire categories of [[acquaintance-void|phenomenal contact]] may be structurally closed to minds like ours. This asymmetry drives panpsychist proposals: if consciousness is our only access to intrinsic nature, and intrinsic nature must exist everywhere to ground the relations physics describes, perhaps consciousness is ubiquitous.
 
 The Unfinishable Map need not endorse [[panpsychism]]. But the intrinsic nature argument reveals its intellectual seriousness as a principled response to a genuine problem.
 

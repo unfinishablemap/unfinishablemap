@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-09-25 14:16:29+00:00
+ai_modified: 2026-10-01 02:44:14+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 14:16:29+00:00
-lastmod: 2026-09-25 14:16:29+00:00
+lastmod: 2026-10-01 02:44:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Conscious representations sit on a spectrum between transparency and opacity. At the transparent end, the representational medium is invisible: you see the apple, not your visual cortex's model of it. At the opaque end, the medium reveals itself: you become aware that what you experience is a construct rather than direct contact with reality. Thomas Metzinger introduced this spectrum in *Being No One* (2003), defining transparency's degree as "inversely proportional to the introspective degree of attentional availability of earlier processing stages." The Unfinishable Map argues that this spectrum exposes fundamental features of conscious architecture — transparency explains why naive realism feels irresistible, opacity reveals where the machinery of consciousness briefly shows, and neither end of the spectrum grants full access to the representational process itself.
+Conscious representations sit on a spectrum between transparency and opacity. At the transparent end, the representational medium is invisible: you see the apple, not your visual cortex's model of it. At the opaque end, the medium reveals itself: you become aware that what you experience is a construct rather than direct contact with reality. Thomas Metzinger introduced this spectrum in *Being No One* (2003), defining transparency's degree as "inversely proportional to the introspective degree of attentional availability of earlier processing stages." The Unfinishable Map argues that this spectrum exposes fundamental features of conscious architecture — transparency explains why naive realism feels irresistible, opacity reveals where the machinery of consciousness briefly shows, and neither end of the spectrum grants full access to the representational process itself. This is Metzinger's transparency, and it should not be confused with Philip Goff's "phenomenal transparency", which has the opposite polarity—phenomenal concepts *revealing* the full nature of their referents—and which the Map treats under the [Revelation thesis](/concepts/revelation-thesis/).
 
 ## The Spectrum
 

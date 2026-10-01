@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-27T03:22:13+00:00
+ai_modified: 2026-10-01T02:44:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ This creates space for consciousness. If physics captures only structure, someth
 
 ### Panpsychist Russellian Monism
 
-Galen Strawson, Philip Goff (in earlier work), and others argue that quiddities are phenomenal properties—experience is fundamental and ubiquitous. Every electron has some micro-experience; human consciousness is what micro-experiences look like "from inside" when organized into complex systems. The attraction: this avoids [[emergence]]. Experience doesn't arise from non-conscious matter; it combines.
+Galen Strawson, Philip Goff (in earlier work, resting on the strong [[revelation-thesis|Revelation]] thesis), and others argue that quiddities are phenomenal properties—experience is fundamental and ubiquitous. Every electron has some micro-experience; human consciousness is what micro-experiences look like "from inside" when organized into complex systems. The attraction: this avoids [[emergence]]. Experience doesn't arise from non-conscious matter; it combines.
 
 ### Panprotopsychist Russellian Monism
 

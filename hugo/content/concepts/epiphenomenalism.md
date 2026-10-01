@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-09-19 09:41:13+00:00
+ai_modified: 2026-10-01 02:44:14+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-09-19 09:41:13+00:00
+lastmod: 2026-10-01 02:44:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -198,7 +198,7 @@ Mental states are defined by their causal roles—epiphenomenal qualia are defin
 
 ### From Panpsychism
 
-Consciousness is fundamental and ubiquitous, built into the causal structure of reality. Cost: accepting that electrons have experiences.
+Consciousness is fundamental and ubiquitous, built into the causal structure of reality. Cost: accepting that electrons have experiences. Goff (2018, abstract) notes a further cost: if introspection reveals the essence of conscious states yet does not reveal them as essentially causal, Revelation is "a source of pressure in direction of epiphenomenalism"—see [Revelation](/concepts/revelation-thesis/).
 
 ## Assessment
 
@@ -243,3 +243,4 @@ The self-stultification problem remains the strongest objection: bare-correlatio
 1. Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
 1. Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1-23.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Goff, P. (2018). "Revelation, Consciousness+ and the Phenomenal Powers View." *Topoi*, 39(5), 1089-1092. https://doi.org/10.1007/s11245-018-9594-9
