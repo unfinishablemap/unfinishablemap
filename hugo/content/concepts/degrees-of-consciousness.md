@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-06 17:22:22+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-10-01 17:17:20+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 09:58:42+00:00
-lastmod: 2026-09-06 17:22:22+00:00
+lastmod: 2026-10-01 17:17:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ Cross-species comparison provides the broadest evidence for degrees. If [*C. ele
 
 ### Clinical Disorders
 
-[Disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) reveal gradation through clinical dissociation. Cognitive motor dissociation — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
+[Disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) reveal gradation through clinical dissociation. [Cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
 
 ## Theoretical Frameworks
 

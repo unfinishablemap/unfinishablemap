@@ -4,7 +4,7 @@ description: "Filter theory reads the brain as transmitting and constraining con
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-09-24T14:46:28+00:00
+ai_modified: 2026-10-01T17:17:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ related_articles:
   - "[[memory-anomalies]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-08-26T16:01:03+00:00
@@ -114,7 +114,7 @@ Advanced meditation produces cessation events—voluntary states with full loss 
 
 ### Covert Consciousness
 
-Around 15% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior (Claassen et al. 2019; Owen et al. 2006). Consciousness persists; only its interface with motor systems is damaged—a channel severed rather than a source extinguished, on the filter reading, though production accounts describe the same dissociation in their own terms. The [[consciousness-disruption-and-the-mind-brain-interface|full spectrum of disorders of consciousness]] tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
+[[covert-consciousness-and-cognitive-motor-dissociation|Around 15% of patients classified as behaviorally unresponsive]] show clear signs of consciousness via neuroimaging—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior (Claassen et al. 2019; Owen et al. 2006). Consciousness persists; only its interface with motor systems is damaged—a channel severed rather than a source extinguished, on the filter reading, though production accounts describe the same dissociation in their own terms. The [[consciousness-disruption-and-the-mind-brain-interface|full spectrum of disorders of consciousness]] tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
 
 ### Dreams
 

@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-09-24T07:45:52+00:00
+ai_modified: 2026-10-01T17:17:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-12T20:10:08+00:00
@@ -108,7 +108,7 @@ This has implications for the [[binding-problem|binding problem]]. IIT claims to
 
 ### What's Unconscious
 
-IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]]—particularly cognitive motor dissociation, where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
+IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]]—particularly [[covert-consciousness-and-cognitive-motor-dissociation|cognitive motor dissociation]], where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
 
 ## The Controversy
 

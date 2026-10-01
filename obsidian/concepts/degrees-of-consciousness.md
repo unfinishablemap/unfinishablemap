@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just kind. Gra
 created: 2026-03-20
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-09-06T17:22:22+00:00
+ai_modified: 2026-10-01T17:17:20+00:00
 last_deep_review: 2026-07-16T09:58:42+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[dream-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-20
 last_curated:
 ---
@@ -79,7 +79,7 @@ Cross-species comparison provides the broadest evidence for degrees. If [[consci
 
 ### Clinical Disorders
 
-[[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]] reveal gradation through clinical dissociation. Cognitive motor dissociation — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
+[[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]] reveal gradation through clinical dissociation. [[covert-consciousness-and-cognitive-motor-dissociation|Cognitive motor dissociation]] — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
 
 ## Theoretical Frameworks
 

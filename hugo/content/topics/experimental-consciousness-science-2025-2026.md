@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-09-16 12:19:02+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-01 17:17:20+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[neural-correlates-of-consciousness]]'
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 10:10:01+00:00
-lastmod: 2026-09-16 12:19:02+00:00
+lastmod: 2026-10-01 17:17:20+00:00
 modified: *id001
 related_articles:
 - '[[filter-theory]]'
@@ -93,7 +93,7 @@ The authors remain physicalists—they argue consciousness emerges from biologic
 
 ## Covert Consciousness in Unresponsive Patients
 
-A 2025 review in *Brain* synthesised evidence that around 25% of patients with disorders of consciousness—a category spanning coma, the vegetative state/unresponsive wakefulness syndrome, and the minimally conscious state—may harbour covert consciousness, awareness without any behavioural expression. The figure traces to a 2024 multinational study of cognitive motor dissociation (Bodien et al., *New England Journal of Medicine*), which found that roughly one in four behaviourally non-responsive patients could wilfully modulate brain activity to commands. New multimodal tools integrating EEG, MRI, PET, and functional near-infrared spectroscopy (fNIRS) are advancing clinical detection of consciousness in unresponsive patients.
+A 2025 review in *Brain* synthesised evidence that around 25% of patients with disorders of consciousness—a category spanning coma, the vegetative state/unresponsive wakefulness syndrome, and the minimally conscious state—may harbour covert consciousness, awareness without any behavioural expression. The figure traces to a 2024 multinational study of [cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) (Bodien et al., *New England Journal of Medicine*), which found that roughly one in four behaviourally non-responsive patients could wilfully modulate brain activity to commands. New multimodal tools integrating EEG, MRI, PET, and functional near-infrared spectroscopy (fNIRS) are advancing clinical detection of consciousness in unresponsive patients.
 
 This finding has direct philosophical significance. If consciousness can persist when the bidirectional causal channel between mind and body is severely damaged, then consciousness is not identical to the observable physical behaviour that physicalist criteria use to detect it. Behavioural absence does not entail experiential absence. The findings point to a correlate/identity distinction at the *behavioural* level: whether behaviour constitutes or merely correlates with consciousness is underdetermined by the evidence, since behavioural criteria cannot adjudicate which relation holds. The same distinction runs through the Map's interpretation of [neural correlates](/concepts/neural-correlates-of-consciousness/) at the neural level, though that broader claim does separate argumentative work that no single behavioural-detection study could settle.
 

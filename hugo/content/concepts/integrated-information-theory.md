@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-09-24 07:45:52+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-01 17:17:20+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 20:10:08+00:00
-lastmod: 2026-09-24 07:45:52+00:00
+lastmod: 2026-10-01 17:17:20+00:00
 modified: *id001
 related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
@@ -111,7 +111,7 @@ This has implications for the [binding problem](/concepts/binding-problem/). IIT
 
 ### What's Unconscious
 
-IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [Disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)—particularly cognitive motor dissociation, where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
+IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [Disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)—particularly [cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/), where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
 
 ## The Controversy
 

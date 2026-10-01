@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T16:55:16+00:00
+ai_modified: 2026-10-01T17:17:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T17:17:56+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Covert consciousness and cognitive motor dissociation — what the figures license (todo L40; research-topic chain, Angle 1)
+- **Output**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]]
+- **Word count**: 2577 by analyze_length (prose incl. numbers table 1973; Further Reading + 25 references 604); topics 338 → 339 of 360
+- **Based on research**: yes, [[research/covert-consciousness-and-cognitive-motor-dissociation-2026-10-01]]
+- **Shape**: lead = one-line canonical statement (15–25% of patients without bedside command-following; ~20% of coma/VS in Bodien; negative test shows nothing; production and interface tied). Anchored sections for sibling deep links: `#the-numbers-and-their-denominators` (Kondziella / Claassen / Bodien / Kazazian / Aubinet / Laigaard, each with denominator + method), `#how-detection-fails`, `#from-activation-to-consciousness`, `#misdiagnosis-is-a-different-finding`, `#the-physicalist-reading-at-full-strength`, `#what-would-discriminate`. Bodien 28/140 and 32/101 labelled as the Map's derivation; Bodien quoted from the author manuscript and labelled so; Aubinet "up to 25%" marked "not a CMD rate"; every quoted span checked against the research note's verified spans; reference status labels carried (full text / abstract / metadata only).
+- **Host condition**: [[topics/consciousness-disruption-and-the-mind-brain-interface]] 4019 → 3895 (−124; hard_warning → soft_warning). "Covert Consciousness: Awareness Without Expression" 328 → 193 words, heading kept (consciousness-and-causal-powers L182 links `#covert-consciousness-awareness-without-expression`); "these patients are not unconscious", "there all along", "25% of 'unconscious' patients retain awareness" and "systematically contaminated" removed; denominator corrected; disconnection concession kept verbatim ("converge on the same anatomy and differ only on what the anatomy does"), which the new page quotes. Discrimination Problem (old L131) and Occam's paragraph (old L183): ~40% re-scoped as consensus-UWS patients found minimally conscious on standardized examination (Schnakers 2009), CMD named separately. Falsifier list (now L158–166) untouched and still coherent; apex identity-across-transformations anchor `#Memory, Sleep, and the Vanishing of Time` unaffected.
+- **Reciprocals** (15, word-neutral piped, counts unchanged): filter-theory L117, experimental-consciousness-science-2025-2026 L92, consciousness-and-causal-powers L180, apex/phenomenology-of-consciousness-doing-work L141, apex/phenomenology-mechanism-bridge L79, apex/identity-across-transformations L119, death-and-consciousness L147, ethics-under-dualism L115, locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply L93, qbism L63, substrate-independence L144, degrees-of-consciousness L82, active-reboot L85, integrated-information-theory L111, clinical-phenomenology-and-altered-experience L145. Skipped: concepts/neural-correlates-of-consciousness (open tasks).
+- **Not done (for the cross-review batches)**: no ledger figures fixed on the 15 pages; locked-in-syndrome L95 still says the detection problem is "developed at length" in the host (repoint to the new page); host L50 lead, L118 functionalism, L172 Dualism ("full conscious function … memory formation") and L174 MQI ("despite widespread cortical damage") overreads left in place. No todo.md / evolution-state writes.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T16:55:16+00:00 - research-topic
 - **Status**: Success

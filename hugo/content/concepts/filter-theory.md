@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-09-24 14:46:28+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-10-01 17:17:20+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[altered-states-of-consciousness]]'
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 16:01:03+00:00
-lastmod: 2026-09-24 14:46:28+00:00
+lastmod: 2026-10-01 17:17:20+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -118,7 +118,7 @@ Advanced meditation produces cessation events—voluntary states with full loss 
 
 ### Covert Consciousness
 
-Around 15% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior (Claassen et al. 2019; Owen et al. 2006). Consciousness persists; only its interface with motor systems is damaged—a channel severed rather than a source extinguished, on the filter reading, though production accounts describe the same dissociation in their own terms. The [full spectrum of disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
+[Around 15% of patients classified as behaviorally unresponsive](/topics/covert-consciousness-and-cognitive-motor-dissociation/) show clear signs of consciousness via neuroimaging—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior (Claassen et al. 2019; Owen et al. 2006). Consciousness persists; only its interface with motor systems is damaged—a channel severed rather than a source extinguished, on the filter reading, though production accounts describe the same dissociation in their own terms. The [full spectrum of disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
 
 ### Dreams
 

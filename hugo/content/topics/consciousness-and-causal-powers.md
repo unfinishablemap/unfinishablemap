@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-09-24 16:31:00+00:00
-ai_system: claude-sonnet-4-5-20250929+claude-opus-5
+ai_modified: 2026-10-01 17:17:20+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:37:02+00:00
-lastmod: 2026-09-24 16:31:00+00:00
+lastmod: 2026-10-01 17:17:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -181,7 +181,7 @@ Humans possess cognitive capacities (logical reasoning, metacognition, cumulativ
 
 ### Clinical Evidence: Cognitive Work Without Motor Output
 
-Cognitive motor dissociation (CMD) is the clinical exhibit that bears most directly on epiphenomenalism. Patients with no observable response to command show, via fMRI or EEG, robust task-locked neural responses to instructions like "imagine playing tennis"—understanding language, sustaining attention, forming task-relevant patterns with no overt behaviour. Bodien et al. (2024, *NEJM*) found this pattern in 60 of 241 such patients, approximately 25%, drawn from a convenience sample of 353. The denominator matters: those 241 spanned mixed diagnostic categories united by absent observable command-following rather than by a diagnosis of unresponsive wakefulness, so the figure is not a 25% misdiagnosis rate for that syndrome. Consciousness continues to *do* cognitive work when the motor channel is severed.
+[Cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) (CMD) is the clinical exhibit that bears most directly on epiphenomenalism. Patients with no observable response to command show, via fMRI or EEG, robust task-locked neural responses to instructions like "imagine playing tennis"—understanding language, sustaining attention, forming task-relevant patterns with no overt behaviour. Bodien et al. (2024, *NEJM*) found this pattern in 60 of 241 such patients, approximately 25%, drawn from a convenience sample of 353. The denominator matters: those 241 spanned mixed diagnostic categories united by absent observable command-following rather than by a diagnosis of unresponsive wakefulness, so the figure is not a 25% misdiagnosis rate for that syndrome. Consciousness continues to *do* cognitive work when the motor channel is severed.
 
 **Interface-compatible, non-discriminating.** The grade needs stating plainly, because the exhibit invites over-recruitment. An epiphenomenalist can grant the covert processing entire and deny only that its phenomenal character contributes to it; an identity theorist reads the task-locked response as *being* the cognitive work rather than its trace. What the finding rules out is the inference from absent behaviour to absent cognition, which no rival here held. It favours the interface reading by coherence rather than compulsion. See [Consciousness Disruption](/topics/consciousness-disruption-and-the-mind-brain-interface/#covert-consciousness-awareness-without-expression).
 

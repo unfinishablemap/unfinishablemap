@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-09-02 20:08:52+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-01 17:16:18+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/disorders-of-consciousness-as-test-cases/
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:05:43+00:00
-lastmod: 2026-09-02 20:08:52+00:00
+lastmod: 2026-10-01 17:16:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,6 +46,7 @@ related_articles:
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[topics/consciousness-and-causal-powers]]'
+- '[[covert-consciousness-and-cognitive-motor-dissociation]]'
 title: Consciousness Disruption and the Mind-Brain Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -93,13 +94,9 @@ DoC cases form a [spectrum](/concepts/degrees-of-consciousness/) that no theory 
 
 ## Covert Consciousness: Awareness Without Expression
 
-The discovery of CMD further complicates the materialist picture. Patients meeting clinical criteria for UWS or MCS show, via fMRI or EEG, robust brain responses to commands like "imagine playing tennis"—responses that appear to involve understanding language, sustaining attention, and forming task-relevant neural patterns—yet produce no behavioural output. The 2024 *New England Journal of Medicine* study (Bodien et al.) found CMD in roughly 25% of behaviourally unresponsive patients previously classified as unconscious by standard assessment.
+Cognitive motor dissociation is a positive response on a task-based fMRI or EEG command-following test in a patient who shows no command-following at the bedside. Bodien et al. (2024) found it in 60 of 241 patients without observable command-following (25%), a denominator that includes minimally conscious patients; among those clinically in coma or the vegetative state the rate is about 20%. Because the tests miss most patients who demonstrably can follow commands, a negative result shows almost nothing. [Covert consciousness and cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) sets out the figures, their denominators and methods, and the inference from neural marker to probable consciousness.
 
-These patients are not unconscious. They are *disconnected*—aware but unable to express that awareness through behaviour. The neural pathways linking consciousness to motor output are damaged, while consciousness itself persists.
-
-This independently undermines the materialist argument. Its logic runs: brain disruption abolishes consciousness, therefore the brain produces it. But CMD suggests apparent abolition is frequently misdiagnosis—the consciousness was there all along, invisible to behavioural assessment. If 25% of "unconscious" patients retain awareness, the evidential base for the production argument is systematically contaminated.
-
-CMD also reveals something about the architecture of the brain-consciousness relationship. Consciousness continues to *do* things at the experiential level—patients understand language, follow instructions, form memories, sustain attention—even when it cannot act on the body. A materialist might respond that the cortical circuits producing consciousness are intact while only motor output pathways are damaged—production continues, expression does not. This is the same disconnection move the production theorist makes for hemispherectomy and the propofol/ketamine split, and it is available here too; the interface account grants it. What it costs is precision: consciousness is no longer produced by "the brain" in any general sense but by specific cortical networks whose identity must be specified independently of the consciousness they supposedly produce. The more tightly the production claim is restricted to a particular network, the harder it becomes to distinguish from an interface account in which that network *mediates* rather than generates awareness—the two readings converge on the same anatomy and differ only on what the anatomy does.
+CMD defeats the inference from absent behaviour to absent experience. It does not show consciousness outrunning its neural basis, since it is detected *by* preserved, task-specific brain activity. A materialist reads CMD as intact consciousness-producing circuits with damaged motor output, the same disconnection move made for hemispherectomy and the propofol/ketamine split, and one the interface account grants. The two readings converge on the same anatomy and differ only on what the anatomy does, so CMD is compatible with the interface reading without discriminating it from production.
 
 ## Anesthesia: Different Drugs, Different Realities
 
@@ -133,7 +130,7 @@ Each theory of consciousness makes predictions about when consciousness should b
 
 ## The Discrimination Problem
 
-The deepest lesson from DoC cases is the *discrimination problem*: we cannot reliably determine from external observation whether consciousness is present. The 40% misdiagnosis rate for UWS reflects something fundamental—behavioural criteria, the only ones available at the bedside, systematically undercount consciousness, and neuroimaging, which reveals awareness behavioural assessment missed, has its own limited sensitivity.
+The deepest lesson from DoC cases is the *discrimination problem*: we cannot reliably determine from external observation whether consciousness is present. Roughly 40% of patients with a consensus UWS diagnosis prove minimally conscious on standardized examination (Schnakers et al., 2009); [cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) shows that even careful assessment misses some patients, and neuroimaging has its own limited sensitivity.
 
 This follows from a structural feature of consciousness: third-person observation cannot access first-person experience. No behavioural or neural data can *prove* consciousness absent. We can prove presence (when patients respond to commands via neuroimaging) but not absence. This is an epistemological asymmetry, not a claim that all unresponsive patients are conscious—but any complete theory must account for it.
 
@@ -185,7 +182,7 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain th
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The temporal gap of anesthesia raises the [indexical identity question](/concepts/haecceity/): why does the same *I* exist before and after the experiential discontinuity? Patients' reports of genuine experiential absence under propofol suggest some intervals genuinely lack conscious experience, and the same indexical subject returns afterward—not merely a similar observer in a related branch.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The 40% misdiagnosis rate for UWS is a cautionary tale for parsimony. The "simpler" assumption—behaviourally unresponsive patients are unconscious—was wrong in a substantial minority of cases. The propofol/ketamine divergence likewise shows the parsimonious behavioural reading failing. Filter and production models each accommodate these data; the lesson is not that parsimony selects the filter reading but that the *simplest* behavioural inference proved unreliable, so simplicity alone cannot adjudicate here.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" bedside assumption—no behaviour, no experience—fails measurably: unstandardized judgement misses minimal consciousness in roughly 40% of consensus UWS diagnoses, and [cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) shows careful examination missing volitional cognition in a minority. The propofol/ketamine divergence likewise shows the parsimonious behavioural reading failing. Filter and production models each accommodate these data; the lesson is not that parsimony selects the filter reading but that the *simplest* behavioural inference proved unreliable, so simplicity alone cannot adjudicate here.
 
 ## Further Reading
 

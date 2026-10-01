@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-13 11:24:58+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-01 17:17:20+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/death-and-consciousness/
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 07:38:23+00:00
-lastmod: 2026-08-13 11:24:58+00:00
+lastmod: 2026-10-01 17:17:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -148,7 +148,7 @@ A tension deserves acknowledgement: Buddhist metaphysics is built on *anattā* (
 
 **The vanishing of time**: Under anesthesia, time vanishes entirely. How does the same subject exist before and after with no connecting experience? Filter theory suggests consciousness loses its temporal anchor when the brain-interface is disrupted. Death might represent permanent disconnection.
 
-**Covert consciousness**: Around 25% of behaviorally unresponsive patients show covert awareness detectable only by task-based fMRI or EEG (Bodien et al., 2024). If our criteria systematically underestimate conscious presence, the dying brain might retain consciousness invisible to observation.
+**[Covert consciousness](/topics/covert-consciousness-and-cognitive-motor-dissociation/)**: Around 25% of behaviorally unresponsive patients show covert awareness detectable only by task-based fMRI or EEG (Bodien et al., 2024). If our criteria systematically underestimate conscious presence, the dying brain might retain consciousness invisible to observation.
 
 **Disconnection syndromes**: Hemispherectomy patients maintain substantially normal conscious lives despite losing half their cortex. If consciousness survives massive neural loss, what happens when all pathways fail?
 

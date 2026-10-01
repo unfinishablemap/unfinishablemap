@@ -4,7 +4,7 @@ description: "Active reboot names a mechanism class where the brain dismantles a
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-08-01T17:24:37+00:00
+ai_modified: 2026-10-01T17:17:20+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-18
 last_curated: null
 last_deep_review: 2026-07-30T02:04:33+00:00
@@ -82,7 +82,7 @@ Anaesthesia is the worked exhibit, but the active-reboot framing potentially ext
 
 **Sleep-wake transitions.** The bistable flip-flop architecture of sleep-wake nuclei extends to anaesthetic state transitions (Saper et al., 2010; Sepúlveda et al., 2019). Whether wake-onset involves an *active* dismantling mechanism analogous to the KCC2 cascade — or whether sleep-wake transitions are better described by neural-inertia-alone — is an open empirical question. The orexinergic system's role in wake maintenance suggests dedicated reopening machinery exists for at least some sleep-wake transitions, but whether the architectural shape parallels the anaesthetic case requires further work.
 
-**Recovery from disorders of consciousness.** Patients emerging from prolonged unconsciousness (vegetative state, minimally conscious state, anoxic coma) are widely described as recovering through characteristic stages rather than by smooth amplitude increase, which would be the structural signature of something more than passive return. The evidence usually cited at this point does not bear on the trajectory: the roughly 40% behavioural-misdiagnosis rate for unresponsive-wakefulness patients (Schnakers et al., 2009) and the detection of covert command-following in a fraction of clinically vegetative patients (Cruse et al., 2011) are detection and diagnostic-accuracy findings, not studies of the recovery sequence. What they do establish is that consciousness can persist behind a disrupted output channel — which cuts in an awkward direction here, since it makes behavioural staging a poor index of the underlying transition and leaves the staged-recovery picture unconfirmed. Whether dedicated reopening mechanisms operate in DoC recovery is an active research area; the parallel to anaesthetic emergence is suggestive but not yet established at the molecular level.
+**Recovery from disorders of consciousness.** Patients emerging from prolonged unconsciousness (vegetative state, minimally conscious state, anoxic coma) are widely described as recovering through characteristic stages rather than by smooth amplitude increase, which would be the structural signature of something more than passive return. The evidence usually cited at this point does not bear on the trajectory: the roughly 40% behavioural-misdiagnosis rate for unresponsive-wakefulness patients (Schnakers et al., 2009) and the detection of [[covert-consciousness-and-cognitive-motor-dissociation|covert command-following]] in a fraction of clinically vegetative patients (Cruse et al., 2011) are detection and diagnostic-accuracy findings, not studies of the recovery sequence. What they do establish is that consciousness can persist behind a disrupted output channel — which cuts in an awkward direction here, since it makes behavioural staging a poor index of the underlying transition and leaves the staged-recovery picture unconfirmed. Whether dedicated reopening mechanisms operate in DoC recovery is an active research area; the parallel to anaesthetic emergence is suggestive but not yet established at the molecular level.
 
 **Re-engagement after deep contemplative states.** Long-duration meditative absorptions, certain psychedelic states, and post-syncope re-engagement involve transitions where consciousness re-enters connected awareness after extended modulation. Whether these involve mechanism-shared active reopening, or whether they are passive returns from a different baseline, is largely uninvestigated empirically. The phenomenological reports of graded re-engagement are at least consistent with the structural shape of an active reboot, though the molecular substrate questions remain open.
 

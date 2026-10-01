@@ -4,7 +4,7 @@ description: "Clinical phenomenology uses psychiatric disruption as natural expe
 created: 2026-03-03
 modified: 2026-10-01
 human_modified: null
-ai_modified: 2026-10-01T01:09:51+00:00
+ai_modified: 2026-10-01T17:17:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[curated-mind]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-04-04
 last_curated: null
 last_deep_review: 2026-07-26T20:22:40+00:00
@@ -142,7 +142,7 @@ It is tempting to stack the dissociation types—ownership, agency, affect, temp
 
 The argument's real load is carried by the cases where selectivity cuts *across* neural organisation, because there the strongest materialist response—that modular experiential disruption merely reflects modular *neural* architecture—loses its grip. These cross-cutting cases are not equally strong, and they should be ranked rather than counted:
 
-- **Cognitive motor dissociation** is the cleanest anomaly. Patients in apparent vegetative states follow commands detectable only by neuroimaging, so experience is preserved where the neural damage profile and the behavioural output both suggest it should be absent. (Even this is best framed as a problem for *behavioural* inference about consciousness rather than a direct refutation of identity theory.)
+- **[[covert-consciousness-and-cognitive-motor-dissociation|Cognitive motor dissociation]]** is the cleanest anomaly. Patients in apparent vegetative states follow commands detectable only by neuroimaging, so experience is preserved where the neural damage profile and the behavioural output both suggest it should be absent. (Even this is best framed as a problem for *behavioural* inference about consciousness rather than a direct refutation of identity theory.)
 - **Dissociative identity disorder** fragments experience on a scale wildly out of proportion to its diffuse, modest neural correlates (see above)—a mismatch of degree, not an absence of neural involvement.
 - **Pain asymbolia** is the weakest of the three and should be handled with care. The sensory/affective dissociation it displays has a reasonably well-mapped substrate—anterior insula and anterior cingulate for the affective dimension, primary and secondary somatosensory cortex for the sensory—so it is, on its face, evidence *of* neural modularity rather than against it. It earns a place here only because the dissociation it produces is between *experiential dimensions* that ordinary report treats as a single felt thing, not because the underlying pathways are shared.
 

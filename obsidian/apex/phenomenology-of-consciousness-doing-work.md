@@ -4,7 +4,7 @@ description: "What does it feel like if consciousness acts on matter? Effort, se
 created: 2026-02-23
 modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-25T18:34:08+00:00
+ai_modified: 2026-10-01T17:17:20+00:00
 last_deep_review: 2026-07-18T19:54:44+00:00
 draft: false
 topics:
@@ -138,7 +138,7 @@ Contemplative evidence also bears on the opacity feature. Buddhist traditions de
 
 ### Cognitive Motor Dissociation: Cognitive Work Without Motor Output
 
-The most vivid current clinical exhibit for the profile is cognitive motor dissociation (CMD). Bodien and colleagues (2024, *NEJM*) found that 60 of 241 patients with no observable response to command — about a quarter, across mixed diagnostic categories — show, on fMRI or EEG, robust task-locked neural responses to instructions such as "imagine playing tennis." They comprehend language, sustain attention across the trial, and generate task-relevant motor-imagery patterns while producing no overt behaviour. The profile's features appear without behavioural expression: sustained imagery, compliance with the instruction, a response that persists, an operation that stays inaccessible. The exhibit's reach needs stating plainly, because it invites over-recruitment. What CMD rules out is the inference from absent behaviour to absent cognition. It does not discriminate against epiphenomenalism: an epiphenomenalist can grant the covert processing entire and deny only that its phenomenal character contributes, and an identity theorist reads the task-locked response as *being* the cognitive work. As [[consciousness-and-causal-powers#clinical-evidence-cognitive-work-without-motor-output|consciousness and causal powers]] grades it, CMD is interface-compatible and non-discriminating — it favours the working-consciousness reading by coherence rather than compulsion.
+The most vivid current clinical exhibit for the profile is [[covert-consciousness-and-cognitive-motor-dissociation|cognitive motor dissociation]] (CMD). Bodien and colleagues (2024, *NEJM*) found that 60 of 241 patients with no observable response to command — about a quarter, across mixed diagnostic categories — show, on fMRI or EEG, robust task-locked neural responses to instructions such as "imagine playing tennis." They comprehend language, sustain attention across the trial, and generate task-relevant motor-imagery patterns while producing no overt behaviour. The profile's features appear without behavioural expression: sustained imagery, compliance with the instruction, a response that persists, an operation that stays inaccessible. The exhibit's reach needs stating plainly, because it invites over-recruitment. What CMD rules out is the inference from absent behaviour to absent cognition. It does not discriminate against epiphenomenalism: an epiphenomenalist can grant the covert processing entire and deny only that its phenomenal character contributes, and an identity theorist reads the task-locked response as *being* the cognitive work. As [[consciousness-and-causal-powers#clinical-evidence-cognitive-work-without-motor-output|consciousness and causal powers]] grades it, CMD is interface-compatible and non-discriminating — it favours the working-consciousness reading by coherence rather than compulsion.
 
 ## The Universal Core
 

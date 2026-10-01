@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-09-30T12:13:01+00:00
+ai_modified: 2026-10-01T17:17:20+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -35,7 +35,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-20
 last_curated: null
 last_deep_review: 2026-07-20T02:37:50+00:00
@@ -76,7 +76,7 @@ Two further findings constrain the deflationary readings without closing them. T
 
 A third line bypasses introspection altogether. Intentional binding — the temporal compression between a voluntary action and its outcome, discovered by Haggard, Clark, and Kalogeras (2002) — provides an implicit measure of agency that does not depend on self-report. The compression occurs for voluntary but not involuntary movements, is reduced when outcomes are unpredictable, and is altered in schizophrenic patients whose comparator mechanisms malfunction. If agency were mere confabulation, an implicit timing effect should not track the integrity of specific causal circuits. As [[volitional-control]] details, the convergence of explicit phenomenology, clinical dissociation, and implicit timing measures triangulates a common architecture rather than a narrative convenience.
 
-A fourth line severs the motor channel entirely. Cognitive motor dissociation — documented by Bodien et al. (2024) in roughly a quarter of behaviourally unresponsive patients — shows robust task-locked neural responses to commands like "imagine playing tennis" in patients with no overt behaviour. Consciousness sustains attention, parses language, and forms task-relevant patterns when nothing reaches the motor output. This is the cleanest available case of conscious work continuing where the behavioural channel is closed: if experience were a downstream report on motor activity, there would be nothing for it to report, yet the cognitive work proceeds. The finding is consistent with — and predicted by — the interactionist reading, though what it discriminates is agency architecture rather than causal direction: comparator, higher-order, and predictive-processing physicalisms accommodate preserved covert cognition equally well.
+A fourth line severs the motor channel entirely. [[covert-consciousness-and-cognitive-motor-dissociation|Cognitive motor dissociation]] — documented by Bodien et al. (2024) in roughly a quarter of behaviourally unresponsive patients — shows robust task-locked neural responses to commands like "imagine playing tennis" in patients with no overt behaviour. Consciousness sustains attention, parses language, and forms task-relevant patterns when nothing reaches the motor output. This is the cleanest available case of conscious work continuing where the behavioural channel is closed: if experience were a downstream report on motor activity, there would be nothing for it to report, yet the cognitive work proceeds. The finding is consistent with — and predicted by — the interactionist reading, though what it discriminates is agency architecture rather than causal direction: comparator, higher-order, and predictive-processing physicalisms accommodate preserved covert cognition equally well.
 
 The phenomenological level provides the first anchor: the experience of agency has a specific, structured, clinically dissociable architecture that resists deflationary reduction.
 

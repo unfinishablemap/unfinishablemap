@@ -4,7 +4,7 @@ description: "QBism interprets quantum states as subjective beliefs, not objecti
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-09-11T01:20:09+00:00
+ai_modified: 2026-10-01T17:17:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[the-agent-shaped-hole]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-28
 last_curated: null
 last_deep_review: 2026-07-09T19:43:00+00:00
@@ -60,7 +60,7 @@ QBism's deepest tension concerns its central concept: the agent.
 
 **The experience presupposition.** For an agent to update beliefs upon measurement, they must have determinate experiences—they must *find* something, not merely exist in correlation with outcomes. QBism takes for granted exactly what the [[hard-problem-of-consciousness]] asks us to explain: why there is something it is like to be an agent at all.
 
-**Consciousness is assumed, not explained.** QBism's agents aren't rocks or thermostats; they're subjects with experiences. The interpretation works only because such subjects exist. But QBism offers no resources for understanding *why* they exist or how experience arises. The difficulty is not merely theoretical: [[experimental-consciousness-science-2025-2026|2025 covert consciousness findings]] show that around 25% of behaviourally non-responsive patients with disorders of consciousness harbour awareness without behavioural expression—demonstrating that agent status cannot be determined by functional or behavioural criteria, exactly the gap QBism's primitive-agent stance leaves open.
+**Consciousness is assumed, not explained.** QBism's agents aren't rocks or thermostats; they're subjects with experiences. The interpretation works only because such subjects exist. But QBism offers no resources for understanding *why* they exist or how experience arises. The difficulty is not merely theoretical: [[experimental-consciousness-science-2025-2026|2025 covert consciousness findings]] show that [[covert-consciousness-and-cognitive-motor-dissociation|around 25% of behaviourally non-responsive patients]] with disorders of consciousness harbour awareness without behavioural expression—demonstrating that agent status cannot be determined by functional or behavioural criteria, exactly the gap QBism's primitive-agent stance leaves open.
 
 ## QBism Versus Other Interpretations
 

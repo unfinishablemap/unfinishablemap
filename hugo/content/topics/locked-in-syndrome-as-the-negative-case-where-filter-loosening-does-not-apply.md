@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-09-08 05:39:37+00:00
-ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
+ai_modified: 2026-10-01 17:17:20+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 18:09:47+00:00
-lastmod: 2026-09-08 05:39:37+00:00
+lastmod: 2026-10-01 17:17:20+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -94,7 +94,7 @@ The concession is recorded here because it is true, and it earns the Map nothing
 Locked-in syndrome is easy to conflate with covert consciousness, and the two must be kept apart. They are opposite epistemic situations.
 
 - **Locked-in syndrome** is a *communication* problem. Consciousness is evident — the patient looks awake, eyes open, vertical gaze intact — and the challenge is to give an obviously aware person a channel to express themselves.
-- **Covert consciousness / cognitive-motor dissociation** is a *detection* problem. The patient appears unresponsive or vegetative, and the challenge is to discover, via neuroimaging, whether anyone is home at all — the Owen tennis-imagery paradigm, and the finding of covert awareness in roughly a quarter of behaviourally unresponsive patients (Bodien et al. 2024).
+- **[Covert consciousness / cognitive-motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/)** is a *detection* problem. The patient appears unresponsive or vegetative, and the challenge is to discover, via neuroimaging, whether anyone is home at all — the Owen tennis-imagery paradigm, and the finding of covert awareness in roughly a quarter of behaviourally unresponsive patients (Bodien et al. 2024).
 
 The detection problem — disorders of consciousness, cognitive-motor dissociation, the neuroimaging tools that probe apparently-unconscious patients — is developed at length in [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) and will not be re-told here. What matters for the present argument is the contrast: in locked-in syndrome consciousness is manifest and output is gone; in covert consciousness both output *and* the ordinary evidence of consciousness are gone, and awareness has to be inferred. Sorted by causal leg, as the [filter-vs-interface distinction](/concepts/filter-vs-interface-distinction/) sorts the whole cluster, the two look alike — in both, expression has failed while experience persists behind it, which is why neither is a filter-loosening case — and the opposition between them is epistemic: whether that persisting experience is evident at the bedside or has to be inferred. The one place the two converge is total locked-in syndrome, where the loss of eye movement removes the last behavioural marker and consciousness must again be inferred from EEG. At that edge the "output-only" description no longer holds cleanly, and the honest thing is to say so.
 
