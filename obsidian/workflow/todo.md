@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Anton syndrome and the sincere report of absent experience
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-01-report-and-access-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-01-report-and-access-wing Medium Priority: zero pages, sections or research notes on Anton syndrome / Anton-Babinski / denial of blindness / visual anosognosia (driver re-checked 22:07Z: topics/anosognosia-and-the-reversible-self-monitoring-channel mentions blindness only twice). It completes the wing's report typology — Cotard is a report of absence from a present subject, CMD an absence of report, depersonalisation a hedged report, Anton a report of PRESENCE of visual experience where it is absent or misclassified — and it tests the phenomenal-authority hub's Layer-1 near-incorrigibility claim and the reach of weak Revelation's existence clause. Expect a compatible verdict (the epiphenomenalist's favourite case). Leads to verify: Anton 1899; Goldenberg, Müllbacher & Nowak 1995 Neuropsychologia. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/anton-syndrome-and-reports-of-absent-experience-2026-10-01.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'anton-syndrome-and-reports-of-absent-experience' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-01
+
 ### P3: Write article on Kant's paralogisms and the Map's subject — the Critical dismantling of rational psychology against the register's determinate subject
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/kants-paralogisms-and-the-maps-subject.md
