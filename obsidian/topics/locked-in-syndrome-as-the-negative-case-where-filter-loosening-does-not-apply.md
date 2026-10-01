@@ -4,7 +4,7 @@ description: "A human+AI negative-case analysis: locked-in syndrome bounds the M
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-10-01T17:17:20+00:00
+ai_modified: 2026-10-01T22:56:34+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -90,9 +90,9 @@ The concession is recorded here because it is true, and it earns the Map nothing
 Locked-in syndrome is easy to conflate with covert consciousness, and the two must be kept apart. They are opposite epistemic situations.
 
 - **Locked-in syndrome** is a *communication* problem. Consciousness is evident — the patient looks awake, eyes open, vertical gaze intact — and the challenge is to give an obviously aware person a channel to express themselves.
-- **[[covert-consciousness-and-cognitive-motor-dissociation|Covert consciousness / cognitive-motor dissociation]]** is a *detection* problem. The patient appears unresponsive or vegetative, and the challenge is to discover, via neuroimaging, whether anyone is home at all — the Owen tennis-imagery paradigm, and the finding of covert awareness in roughly a quarter of behaviourally unresponsive patients (Bodien et al. 2024).
+- **[[covert-consciousness-and-cognitive-motor-dissociation|Covert consciousness / cognitive-motor dissociation]]** is a *detection* problem. The patient appears unresponsive or vegetative, and the challenge is to discover, via neuroimaging, whether anyone is home at all — the Owen tennis-imagery paradigm, and the finding of probable awareness in a quarter of patients [[covert-consciousness-and-cognitive-motor-dissociation#the-numbers-and-their-denominators|without observable command-following]] (Bodien et al. 2024).
 
-The detection problem — disorders of consciousness, cognitive-motor dissociation, the neuroimaging tools that probe apparently-unconscious patients — is developed at length in [[consciousness-disruption-and-the-mind-brain-interface]] and will not be re-told here. What matters for the present argument is the contrast: in locked-in syndrome consciousness is manifest and output is gone; in covert consciousness both output *and* the ordinary evidence of consciousness are gone, and awareness has to be inferred. Sorted by causal leg, as the [[filter-vs-interface-distinction|filter-vs-interface distinction]] sorts the whole cluster, the two look alike — in both, expression has failed while experience persists behind it, which is why neither is a filter-loosening case — and the opposition between them is epistemic: whether that persisting experience is evident at the bedside or has to be inferred. The one place the two converge is total locked-in syndrome, where the loss of eye movement removes the last behavioural marker and consciousness must again be inferred from EEG. At that edge the "output-only" description no longer holds cleanly, and the honest thing is to say so.
+The detection problem — disorders of consciousness, cognitive-motor dissociation, the neuroimaging tools that probe apparently-unconscious patients — is developed at length in [[covert-consciousness-and-cognitive-motor-dissociation]] and will not be re-told here. What matters for the present argument is the contrast: in locked-in syndrome consciousness is manifest and output is gone; in covert consciousness both output *and* the ordinary evidence of consciousness are gone, and awareness has to be inferred. Sorted by causal leg, as the [[filter-vs-interface-distinction|filter-vs-interface distinction]] sorts the whole cluster, the two look alike — in both, expression has failed while experience persists behind it, which is why neither is a filter-loosening case — and the opposition between them is epistemic: whether that persisting experience is evident at the bedside or has to be inferred. The one place the two converge is total locked-in syndrome, where the loss of eye movement removes the last behavioural marker and consciousness must again be inferred from EEG. At that edge the "output-only" description no longer holds cleanly, and the honest thing is to say so.
 
 ## The Value of an Immobile Life
 
