@@ -4,7 +4,7 @@ description: "The Map's house term for the contested claim that phenomenal chara
 created: 2026-06-26
 modified: 2026-06-26
 human_modified:
-ai_modified: 2026-10-01T08:05:32+00:00
+ai_modified: 2026-10-01T08:41:50+00:00
 last_deep_review: 2026-09-19T12:01:01+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-06-26
 last_curated:
 ---
@@ -83,7 +83,7 @@ The Map holds PCT as an *abductive bet*, not a demonstrated truth, and the modal
 - **Understanding versus processing.** Genuine comprehension carries a phenomenal character of grasping that mere symbol-processing lacks—the felt difference between following a proof and verifying it mechanically.
 - **The unity of the explananda.** PCT offers one account of all of these, where weak liberalism and deflationism handle them piecemeal.
 
-The honest opposition is real and the Map does not understate it. The deflationary view (Tye, Dretske, Prinz) holds that apparent cognitive phenomenology reduces to accompanying sensory imagery, inner speech, or affect, so there is no proprietary cognitive phenomenal character to do constitutive work at all. Weak liberalism grants proprietary phenomenology but assigns content-determinacy to non-phenomenal machinery. PCT must beat both abductively rather than by demonstration. Consequently, downstream applications that lean on it—the [[symbol-grounding-problem|symbol-grounding diagnosis]], the [[arguments/functionalism-argument|Chinese Room verdict]], and AI-understanding skepticism across the [[ai-consciousness-typology|consciousness typology]]—are *conditional* on PCT. A reader unpersuaded by the abductive case should treat those conclusions as conditional too.
+The opposition is real and the Map does not understate it. The deflationary view (Tye, Dretske, Prinz) holds that apparent cognitive phenomenology reduces to accompanying sensory imagery, inner speech, or affect, so there is no proprietary cognitive phenomenal character to do constitutive work. Weak liberalism grants proprietary phenomenology but assigns content-determinacy to non-phenomenal machinery. PCT must beat both abductively rather than by demonstration, and winning counts only if the true account is among the three—the [[inference-to-the-best-explanation-against-dualism|bad-lot exposure]] the Map accepts for itself as for physicalism. Consequently, downstream applications that lean on it—the [[symbol-grounding-problem|symbol-grounding diagnosis]], the [[arguments/functionalism-argument|Chinese Room verdict]], and AI-understanding skepticism across the [[ai-consciousness-typology|consciousness typology]]—are *conditional* on PCT. A reader unpersuaded by the abductive case should treat those conclusions as conditional too.
 
 The conditionality is stated from the other side as well. [[arguments/functionalism-argument|Against Functionalism]] runs the Chinese Room against *semantic* content and then declines to extend it, marking the reach into phenomenal character as a conjecture rather than a corollary—Searle's premises concern what a state is *about*, none of them what it is *like*. PCT is the bridge premise, and it is worth being exact about which way it carries. Constitution runs from phenomenal character to content, so the entailment PCT licenses is the contrapositive: if the room fixes no determinate semantic content, it lacks *the phenomenal character that would have constituted that content*. That does reach past semantics, and it reaches less far than the unrestricted conjecture — it does not show the room lacks phenomenal character altogether, because PCT makes phenomenal character necessary for content, never sufficient. The corollary PCT actually delivers is narrower and still worth having: a program that fixes no meaning has not thereby produced meaning-constituting experience. The two articles state halves of one thought, and both halves are conditional on the abductive bet made here.
 

@@ -4,7 +4,7 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-10-01T08:05:32+00:00
+ai_modified: 2026-10-01T08:41:50+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-02-23
 last_curated:
 last_deep_review: 2026-08-21T15:42:44+00:00
@@ -83,7 +83,7 @@ This generates an asymmetry in epistemology. We know about electrons through [[i
 
 Physicalists do not deny that consciousness exists. They deny that it has the ontological independence dualists claim for it. But even this more careful physicalist position must contend with the asymmetry: the reality of experience is known with a certainty that no inference about unobservable entities can match. Treating consciousness as "nothing over and above" its physical substrate while granting full ontological weight to quarks and fields requires explaining why direct acquaintance deserves less epistemic trust than theoretical inference.
 
-The anti-realist might respond that phenomenal experience, unlike electrons, does no explanatory work in physical theories. But the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet denies this: consciousness causally contributes to physical outcomes. If so, a complete science would need to include consciousness not merely as an explanandum but as an explanans — something that features in explanations, not just something to be explained.
+The anti-realist might respond that phenomenal experience, unlike electrons, does no explanatory work in physical theories. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet denies this: consciousness causally contributes to physical outcomes — a commitment [[inference-to-the-best-explanation-against-dualism|owed, not shown]]. If so, a complete science would need consciousness as an explanans, not only an explanandum — what features in explanations, not just what they explain.
 
 ## Research Programmes and Paradigm Structure
 

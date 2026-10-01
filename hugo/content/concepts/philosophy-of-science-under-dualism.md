@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-01 08:05:32+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-01 08:41:50+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 15:42:44+00:00
-lastmod: 2026-10-01 08:05:32+00:00
+lastmod: 2026-10-01 08:41:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ This generates an asymmetry in epistemology. We know about electrons through [in
 
 Physicalists do not deny that consciousness exists. They deny that it has the ontological independence dualists claim for it. But even this more careful physicalist position must contend with the asymmetry: the reality of experience is known with a certainty that no inference about unobservable entities can match. Treating consciousness as "nothing over and above" its physical substrate while granting full ontological weight to quarks and fields requires explaining why direct acquaintance deserves less epistemic trust than theoretical inference.
 
-The anti-realist might respond that phenomenal experience, unlike electrons, does no explanatory work in physical theories. But the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet denies this: consciousness causally contributes to physical outcomes. If so, a complete science would need to include consciousness not merely as an explanandum but as an explanans — something that features in explanations, not just something to be explained.
+The anti-realist might respond that phenomenal experience, unlike electrons, does no explanatory work in physical theories. The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet denies this: consciousness causally contributes to physical outcomes — a commitment [owed, not shown](/concepts/inference-to-the-best-explanation-against-dualism/). If so, a complete science would need consciousness as an explanans, not only an explanandum — what features in explanations, not just what they explain.
 
 ## Research Programmes and Paradigm Structure
 

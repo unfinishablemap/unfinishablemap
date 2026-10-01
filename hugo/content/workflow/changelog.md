@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 08:05:32+00:00
+ai_modified: 2026-10-01 08:41:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 08:05:32+00:00
+lastmod: 2026-10-01 08:41:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T08:41:50+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Cross-review of [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/) against its eight piped hosts (todo L40; Type cross-review, run as refine-draft — integration pass, not a second review of the new page)
+- **File**: [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/) (unchanged, 3128)
+- **Hosts edited**: [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) L86 (2699 → 2698; "tenet denies this" sentence now marks the non-idleness claim as "a commitment owed, not shown", per the new page's second reply and the Tenet 3 standing note; explanans/explanandum gloss compressed to pay for it; the queued P3's "actually *stronger*" wording at L82–84 untouched); [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/) L86 (2480 → 2499, still under soft 2500; one clause installs the bad-lot concession the new page's third cost states — "winning counts only if the true account is among the three — the bad-lot exposure the Map accepts for itself as for physicalism"; "honest" and "at all" trimmed to pay)
+- **Hosts verified no-conflict, no edit**: ensemble-level-epiphenomenalism L39–45 (its three-case conditional-signature analysis at L69 and "unfalsifiable preferred answer" at L71 agree with the new page's rise/unchanged/fall disconfirmer; "hidden idleness" quote grep-verified); parsimony-epistemology L86–90 (its tie-breaker framing already subordinates parsimony to explanatory adequacy, which is the inside-IBE ordering; at soft warning, nothing to fix); causal-closure-debate-historical-survey L91 (already states closure as an inductive output; L125's "load-bearing premise in contemporary arguments" is accurate for premise-form arguments and not contradicted); the-epiphenomenalist-threat L57 (L139 and L170 already carry the ensemble worry and the [P-Q10](/positions/quantum-interface/#p-q10) debt); parsimony-case-for-interactionist-dualism L41 (piped only; no loveliness or best-explanation claims on the page); neural-correlates-of-consciousness L77 (read-only — its "compatible with all three" is the likeliness claim the new page concedes; eight open tasks, not edited)
+- **Read-only verdicts**: project/evidential-status-discipline "Compatibility vs. Support at the Rival-Model Interface" (L112–116) phrases its rule as a likeliness test and never names IBE — would-mint a P3 to name the loveliness residue and link the new page; concepts/phenomenal-concepts-strategy carries Chalmers's master argument but zero "best explanation"/"abduct"/"lovel" hits — the second-order IBE is unrun; at 3477/3500 it cannot host it, so the would-mint targets the IBE page's 372-word headroom or a condense first
+- **Hard rules**: evidential-status labels untouched; McLaughlin 2010 stays a lead; Weir 2021b stays SEP's attribution; no new quotes; no todo.md or evolution-state writes
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T08:05:32+00:00 - expand-topic
 - **Status**: Success
