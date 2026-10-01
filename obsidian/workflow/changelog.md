@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T05:04:02+00:00
+ai_modified: 2026-10-01T07:27:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T07:27:51+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Inference to the best explanation as the physicalist's master argument against dualism (todo.md L40, Source research-harvest, from outer-review-2026-10-01-chatgpt-5-6-sol-pro §5.1)
+- **Output**: [[research/inference-to-the-best-explanation-against-dualism-2026-10-01]]
+- **Sources consulted**: 21 cited (7 full texts retrieved: SEP Abduction/Physicalism/Dualism, Gertler 2020 preprint, Swinburne 2009, two NDPR reviews; 3 abstract-only: Henderson 2014, Lycan 2009, Melnyk 2003 via reviews; 11 metadata-verified leads incl. Harman 1965, Lipton 2004, van Fraassen 1989, McLaughlin 2010, Okasha 2000, Churchland 1985)
+- **Verdict**: dedicated concepts/ page recommended (slug `inference-to-the-best-explanation-against-dualism`; concepts 339/360 by count_section_files at 07:20Z); no candidate host can take a section length-neutrally (philosophy-of-science-under-dualism 2,699, parsimony-epistemology 2,751, both soft-warning)
+- **Analytic answer**: IBE is the form under which closure (an IBE output) and parsimony (an IBE criterion) are both run; the Map reaches the compatible tier on the physicalist's seven explananda and suggestive only on a widened explanandum set contested at bedrock; discriminating unreached while Tenet 3 stands at "available, not actual"
+- **Attribution hazard**: search summariser assigned "Consciousness, Type Physicalism, and IBE" (Phil. Issues 20, 2010) to Melnyk; Crossref/OpenAlex/Semantic Scholar all give Brian P. McLaughlin — recorded in the note
+- **Todo**: L40 task left untouched for cycle_post
+- **Published**: synced to hugo; no commit
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T05:04:02+00:00 - outer-review
 - **Status**: Success
