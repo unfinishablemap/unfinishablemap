@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T07:27:51+00:00
+ai_modified: 2026-10-01T07:49:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T07:49:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/depersonalisation]]
+- **Word count**: 3456 → 3454 (-2)
+- **Critical issues addressed**: 3 (Henriksen & Parnas 2019 quote re-sourced from the D.P. case to their thought-insertion conclusion; "mark of mere appearance" re-cited to Billon 2023 fn. 5 as the "usual interpretation"; Billon 2023 nature claim downgraded from "concludes"/"rejects the fourth" to the source's "suggests"/"points away from")
+- **Medium issues addressed**: 4 (Sierra & David 2011 abstract predicate; Medford 2012 "de-affectualization" scope; Knappik's explananda re-scoped from "four factors" to his own two questions; Simeon & Abugel p. 15 added)
+- **Enhancements made**: 0 (length-neutral; 46 words under the concepts hard gate)
+- **Citations web-verified**: 22 entries, all metadata real-correct at OpenAlex/PubMed/Europe PMC; every quoted phrase grep-verified in the raw source (PhilArchive preprints via Wayback for Billon 2016/2017/2023 and Zahavi & Kriegel 2016; Wiley page via Wayback for Billon 2024; Springer pages/PDF via Wayback for Gerrans 2019, Knappik 2022, Ciaunica 2021; Thaumàzein PDF for Henriksen & Parnas 2019; live SEP entry). Zero orphans either direction.
+- **Research-note gaps**: all six gap labels honoured; no gap leaked into the body as an unqualified claim
+- **Engagements**: affective reading Mode One; active-inference self-model Mode Three (declared); universalism Mode Three (standoff); localism Mixed. No label leakage.
+- **Output**: [[reviews/deep-review-2026-10-01-depersonalisation]]
+- **Published**: synced to hugo; no commit; todo.md untouched
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T07:27:51+00:00 - research-topic
 - **Status**: Success
