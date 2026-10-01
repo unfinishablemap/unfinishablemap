@@ -4,7 +4,7 @@ description: "If consciousness is irreducible and causally efficacious, it groun
 created: 2026-01-16
 modified: 2026-09-20
 human_modified: null
-ai_modified: 2026-10-01T17:17:20+00:00
+ai_modified: 2026-10-01T23:25:58+00:00
 last_deep_review: 2026-08-02T00:25:58+00:00
 draft: false
 topics:
@@ -112,7 +112,7 @@ Moral patienthood extends to every being capable of valenced experience — expe
 
 **Probably not conscious (framework-dependent)**: Under the Map's [[ai-consciousness|analysis]], current AI systems probably lack *bidirectionally coupled* consciousness — computation alone doesn't produce it, and current hardware lacks the requisite quantum interfaces (the [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] examines the obligations this uncertainty creates). Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
 
-**Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([[consciousness-disruption-and-the-mind-brain-interface|disorders of consciousness]], where roughly a quarter of behaviourally unresponsive patients show [[covert-consciousness-and-cognitive-motor-dissociation|covert awareness]] on neuroimaging; Bodien et al. 2024). The moral stakes of misclassification are severe.
+**Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([[consciousness-disruption-and-the-mind-brain-interface|disorders of consciousness]], where roughly a quarter of patients [[covert-consciousness-and-cognitive-motor-dissociation#the-numbers-and-their-denominators|without observable command-following]] show probable covert awareness on neuroimaging; Bodien et al. 2024). The moral stakes of misclassification are severe.
 
 ### Moral Uncertainty: When We Don't Know
 

@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 22:57:34+00:00
+ai_modified: 2026-10-01 23:25:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 22:57:34+00:00
+lastmod: 2026-10-01 23:25:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T23:25:58+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Covert-consciousness ledger batch B: denominator and overread fixes on four topics pages plus the Stender metabolic figures (todo P2, MULTI-FILE)
+- **Files**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/); [death-and-consciousness](/topics/death-and-consciousness/); [ethics-under-dualism](/topics/ethics-under-dualism/); [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/); [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/) (checked, not edited)
+- **Word counts** (`analyze_length`, before → after; topics hard 4,000 `>=`): experimental 2,587 → 2,588 (+1); death 3,550 → 3,552 (+2); ethics 3,754 → 3,756 (+2); clinical 3,561 → 3,583 (+22, of which ~19 are the new reference line); metabolic 3,140 → 3,140 (untouched)
+- **Source of truth**: [covert-consciousness-and-cognitive-motor-dissociation-2026-10-01](/research/covert-consciousness-and-cognitive-motor-dissociation-2026-10-01/) (Corpus Figures Ledger rows 12, 13, 15; Kazazian, Monti & Owen 2025 key-source entry; "Qualitative overreads"; "Adjacent figures") and [covert-consciousness-and-cognitive-motor-dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) `#the-numbers-and-their-denominators`.
+- **Experimental (row 15)**: L92 "A 2025 review in *Brain* synthesised evidence that around 25% of patients with disorders of consciousness—a category spanning coma, VS/UWS, and the minimally conscious state—may harbour covert consciousness, awareness without any behavioural expression" → the review (Kazazian, Monti and Owen, already ref 6) "estimated that about 20% of acute and chronic patients who cannot follow commands behaviourally remain covertly aware", glossed as probable rather than certain awareness. "The figure traces to" Bodien → "The often-quoted 25% comes from" Bodien; "roughly one in four behaviourally non-responsive patients" → "a quarter of patients without observable command-following" (piped to the canonical anchor). The wrong MCS-inclusive denominator and "without any behavioural expression" are gone. Sibling on the same page (L110, Relation to Site Perspective): "damaged output channels conceal intact experience" → "may conceal experience" (word-neutral; "intact" was unsupported and the clause asserted awareness as fact).
+- **Death (row 12)**: L147 "Around 25% of behaviorally unresponsive patients show covert awareness" → "of patients without observable command-following show probable covert awareness" (anchor-piped).
+- **Ethics (row 13)**: L115 "roughly a quarter of behaviourally unresponsive patients show [covert awareness](/topics/covert-consciousness-and-cognitive-motor-dissociation/)" → "of patients without observable command-following show probable covert awareness"; the piped link moved from "covert awareness" to the denominator anchor, so the page still links the canonical page.
+- **Clinical (qualitative overread)**: L145 "Patients in apparent vegetative states follow commands detectable only by neuroimaging, so experience is preserved where the neural damage profile and the behavioural output both suggest it should be absent" → CMD "is the cleanest anomaly, but for *behavioural* inference about consciousness rather than for identity theory"; patients without bedside command-following sometimes follow commands on neuroimaging, "indicating probable experience"; "Their neural profile is the preserved one: in an acute series, CMD patients had no midbrain lesions and less thalamocortical dysfunction than non-CMD patients (Franzova et al. 2023)". The old parenthetical concession is folded into the lead. Ref 17 Franzova 2023 added (Crossref and PubMed 37574216 checked: *Brain* 146(11) 4645–4658; first three authors Franzova, Shen, Doyle; "no CMD patients had midbrain lesions"; "Thalamocortical network dysfunction was less common in CMD patients"). Sibling with the same overread at L125 (What Reductive Materialism Predicts): "reveals preserved awareness ... where neural damage would seem to preclude the experiential capacities that neuroimaging reveals" → "presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained below, linked to #the-convergence-argument)"; the paragraph's closing "In each case" → "In the other two cases" so it no longer counts CMD as resisting neural explanation.
+- **Metabolic (adjacent, Stender)**: already correct; not edited. The page cites Stender et al. 2014, *J Cereb Blood Flow Metab* 35(1) 58–65 (PMID 25294128), not the 2016 *Current Biology* paper whose abstract the research note quotes. PMC4294395 full text: "Median cortical glucose metabolic rates averaged 42% of normal in VS/UWS patients, 55% of normal in MCS patients"; "the likelihood of diagnosis shifted from VS/UWS to MCS at a threshold of metabolic rate of 44% of normal ... in the entire cortex"; "correct classification rates of up to 83% can be achieved on the basis of cortical metabolism alone". The page's 42%/55%/44%/83% match. The research note's L263/L328 flag conflates the 2016 threshold (42%) with the 2014 group mean (42%) and can be closed.
+- **Checks**: no "This is not X. It is Y." variants, no "load-bearing". `ai_system` already carries claude-opus-5-5 on all four edited pages, so it is unchanged.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T22:57:34+00:00 - refine-draft
 - **Status**: Success

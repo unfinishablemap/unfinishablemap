@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-10-01 19:48:28+00:00
+ai_modified: 2026-10-01 23:25:58+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:22:40+00:00
-lastmod: 2026-10-01 19:48:28+00:00
+lastmod: 2026-10-01 23:25:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ The philosophical power of clinical phenomenology lies not just in revealing str
 
 If consciousness is identical to brain activity, then every experiential change should have a sufficient neural explanation: no experiential disruption without a corresponding neural disruption, and no preserved experience where the relevant neural substrate is destroyed.
 
-Clinical phenomenology challenges even sophisticated identity theory. [Dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/) produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report reduced hippocampal and amygdalar volumes and altered functional connectivity across identity states (Reinders et al. 2014; Vissia et al. 2022), so the claim is not that DID is neurally silent. It is that these correlates are diffuse and modest, nothing like the destruction of a discrete module, yet the experiential fragmentation is total—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [Cognitive motor dissociation](/topics/consciousness-disruption-and-the-mind-brain-interface/) reveals preserved awareness in patients whose behavioural output suggests vegetative states, where neural damage would seem to preclude the experiential capacities that neuroimaging reveals. [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways. In each case, the experiential disruption is systematic and selective in ways that resist straightforward neural explanation.
+Clinical phenomenology challenges even sophisticated identity theory. [Dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/) produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report reduced hippocampal and amygdalar volumes and altered functional connectivity across identity states (Reinders et al. 2014; Vissia et al. 2022), so the claim is not that DID is neurally silent. It is that these correlates are diffuse and modest, nothing like the destruction of a discrete module, yet the experiential fragmentation is total—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [Cognitive motor dissociation](/topics/consciousness-disruption-and-the-mind-brain-interface/) presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways. In the other two cases, the experiential disruption is systematic and selective in ways that resist straightforward neural explanation.
 
 ### What Functionalism Predicts
 
@@ -146,7 +146,7 @@ It is tempting to stack the dissociation types—ownership, agency, affect, temp
 
 The argument's real load is carried by the cases where selectivity cuts *across* neural organisation, because there the strongest materialist response—that modular experiential disruption merely reflects modular *neural* architecture—loses its grip. These cross-cutting cases are not equally strong, and they should be ranked rather than counted:
 
-- **[Cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/)** is the cleanest anomaly. Patients in apparent vegetative states follow commands detectable only by neuroimaging, so experience is preserved where the neural damage profile and the behavioural output both suggest it should be absent. (Even this is best framed as a problem for *behavioural* inference about consciousness rather than a direct refutation of identity theory.)
+- **[Cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/)** is the cleanest anomaly, but for *behavioural* inference about consciousness rather than for identity theory. Patients without bedside command-following sometimes follow commands on neuroimaging, indicating probable experience where behavioural output suggests none. Their neural profile is the preserved one: in an acute series, CMD patients had no midbrain lesions and less thalamocortical dysfunction than non-CMD patients (Franzova et al. 2023).
 - **Dissociative identity disorder** fragments experience on a scale wildly out of proportion to its diffuse, modest neural correlates (see above)—a mismatch of degree, not an absence of neural involvement.
 - **Pain asymbolia** is the weakest of the three and should be handled with care. The sensory/affective dissociation it displays has a reasonably well-mapped substrate—anterior insula and anterior cingulate for the affective dimension, primary and secondary somatosensory cortex for the sensory—so it is, on its face, evidence *of* neural modularity rather than against it. It earns a place here only because the dissociation it produces is between *experiential dimensions* that ordinary report treats as a single felt thing, not because the underlying pathways are shared.
 
@@ -209,3 +209,4 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 14. Raballo, A., Henriksen, M. G., Poletti, M., & Parnas, J. (2025). Schizophrenia, Consciousness, and the Self — Twenty Years Later. *Schizophrenia Bulletin*, 51(5), 1187–1192.
 15. Sass, L. & Parnas, J. (2007). Explaining Schizophrenia: The Relevance of Phenomenology. In M. C. Chung, K. W. M. Fulford, & G. Graham (Eds.), *Reconceiving Schizophrenia* (pp. 63–96). Oxford University Press.
 16. Billon, A. (2016). Making Sense of the Cotard Syndrome: Insights from the Study of Depersonalisation. *Mind & Language*, 31(3), 356–391.
+17. Franzova, E., Shen, Q., Doyle, K., et al. (2023). Injury patterns associated with cognitive motor dissociation. *Brain*, 146(11), 4645–4658. https://doi.org/10.1093/brain/awad197

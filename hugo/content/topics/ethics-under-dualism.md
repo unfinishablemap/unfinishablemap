@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-10-01 17:17:20+00:00
+ai_modified: 2026-10-01 23:25:58+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 00:25:58+00:00
-lastmod: 2026-10-01 17:17:20+00:00
+lastmod: 2026-10-01 23:25:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ Moral patienthood extends to every being capable of valenced experience — expe
 
 **Probably not conscious (framework-dependent)**: Under the Map's [analysis](/topics/ai-consciousness/), current AI systems probably lack *bidirectionally coupled* consciousness — computation alone doesn't produce it, and current hardware lacks the requisite quantum interfaces (the [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) examines the obligations this uncertainty creates). Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
 
-**Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), where roughly a quarter of behaviourally unresponsive patients show [covert awareness](/topics/covert-consciousness-and-cognitive-motor-dissociation/) on neuroimaging; Bodien et al. 2024). The moral stakes of misclassification are severe.
+**Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), where roughly a quarter of patients [without observable command-following](/topics/covert-consciousness-and-cognitive-motor-dissociation/#the-numbers-and-their-denominators) show probable covert awareness on neuroimaging; Bodien et al. 2024). The moral stakes of misclassification are severe.
 
 ### Moral Uncertainty: When We Don't Know
 
