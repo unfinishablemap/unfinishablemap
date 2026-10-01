@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-07-31T01:23:25+00:00
+ai_modified: 2026-10-01T08:05:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ The standard parsimony argument against dualism runs: physicalism and dualism ex
 
 ### Precondition 1: Equal Explanatory Adequacy
 
-Parsimony is a tie-breaker between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism — relying on [[causal-closure|causal closure]] — correlates neural activity with reported experience but provides no account of why there is [[qualia|something it is like]] to undergo those processes. The [[explanatory-gap]] is a structural feature of third-person physical description applied to first-person phenomenal reality, formalised by the [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]] (Chalmers 1996): physical facts alone do not entail phenomenal facts.
+Parsimony is a [[inference-to-the-best-explanation-against-dualism|tie-breaker]] between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism — relying on [[causal-closure|causal closure]] — correlates neural activity with reported experience but provides no account of why there is [[qualia|something it is like]] to undergo those processes. The [[explanatory-gap]] is a structural feature of third-person physical description applied to first-person phenomenal reality, formalised by the [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]] (Chalmers 1996): physical facts alone do not entail phenomenal facts.
 
 Type-B physicalists accept the gap but deny it is metaphysical, arguing future progress will close it without revising the ontology. The reply is coherent but does not restore parity: parsimony is synchronic, adjudicating current explanatory credentials rather than promissory notes — were such notes admissible, any underdetermined theory could plead future resolution. Dualism, by contrast, directly explains why physical description cannot capture consciousness; its burden is characterising [[psychophysical-laws|psychophysical laws]], an open problem but not one requiring that the phenomenon be explained away.
 

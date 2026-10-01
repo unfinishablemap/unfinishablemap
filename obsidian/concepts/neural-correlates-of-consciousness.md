@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-09-24T01:45:57+00:00
+ai_modified: 2026-10-01T08:05:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -74,7 +74,7 @@ That consciousness correlates with posterior cortical activity does not mean con
 2. **Emergence**: Consciousness *arises from* neural activity as a higher-level phenomenon
 3. **Interaction**: Consciousness is non-physical but *interacts with* neural activity
 
-NCC findings are compatible with all three.
+NCC findings are [[inference-to-the-best-explanation-against-dualism|compatible with all three]].
 
 ### Interactionism Predicts Correlations
 

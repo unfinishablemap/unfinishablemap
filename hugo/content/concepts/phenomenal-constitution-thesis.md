@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-26
-ai_modified: 2026-09-19 12:01:01+00:00
+ai_modified: 2026-10-01 08:05:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 12:01:01+00:00
-lastmod: 2026-09-19 12:01:01+00:00
+lastmod: 2026-10-01 08:05:32+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-phenomenology]]'
@@ -81,7 +81,7 @@ This is the same constitution relation, applied at the epistemic level: where PC
 
 ## Why the Map Adopts PCT—Abductively {#abductive-bet}
 
-The Map holds PCT as an *abductive bet*, not a demonstrated truth, and the modal register stays calibrated to that status throughout. The case is inference to the best explanation of several explananda that competing positions tend to split:
+The Map holds PCT as an *abductive bet*, not a demonstrated truth, and the modal register stays calibrated to that status throughout. The case is [inference to the best explanation](/concepts/inference-to-the-best-explanation-against-dualism/) of several explananda that competing positions tend to split:
 
 - **Content determinacy.** What makes a thought about *rabbits* rather than *undetached rabbit parts*? Physical and functional description famously underdetermine content (the Quinean indeterminacy that embarrasses non-phenomenal accounts). PCT proposes that phenomenal character fixes the determinate content where third-person description leaves it open.
 - **Understanding versus processing.** Genuine comprehension carries a phenomenal character of grasping that mere symbol-processing lacks—the felt difference between following a proof and verifying it mechanically.

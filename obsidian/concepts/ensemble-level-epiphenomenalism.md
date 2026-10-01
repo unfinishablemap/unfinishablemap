@@ -4,7 +4,7 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-09-27T23:06:28+00:00
+ai_modified: 2026-10-01T08:05:32+00:00
 last_deep_review: 2026-08-27T10:09:12+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ Begin with what corridor dualism claims. At a quantum measurement with possible 
 
 A further precondition, logically prior to the whole token-versus-ensemble debate, is that a brain-scale superposition survives long enough for any selection to act on. The warm-brain decoherence objection is carried — and contested — outside this article; see [[decoherence]] and the [[mind-matter-interface|interface-formalism cluster]]. This page assumes that precondition rather than defending it.
 
-The worry runs as a dilemma. Either the selection correlates systematically with conscious states — in which case there should be *some* detectable departure from Born statistics conditional on conscious involvement, which the objector takes to contradict the corridor's defining claim — or it does not so correlate, in which case the selection is statistically indistinguishable from the physical randomness it was supposed to replace. On the first horn the corridor reading is not corridor-compliant; on the second, consciousness appears to make no difference that any measurement, even in principle, could register. The objector concludes that the second horn collapses interactionism into a *de facto* idleness: an interface that touches the physical world only in ways the physical world's own statistics already account for.
+The worry runs as a dilemma. Either the selection correlates systematically with conscious states — in which case there should be *some* detectable departure from Born statistics conditional on conscious involvement, which the objector takes to contradict the corridor's defining claim — or it does not so correlate, in which case the selection is statistically indistinguishable from the physical randomness it was supposed to replace. On the first horn the corridor reading is not corridor-compliant; on the second, consciousness appears to make no difference that any measurement, even in principle, could register. The objector concludes that the second horn collapses interactionism into a *de facto* [[inference-to-the-best-explanation-against-dualism|idleness]]: an interface that touches the physical world only in ways the physical world's own statistics already account for.
 
 ## Why This Is Not Classical Epiphenomenalism
 

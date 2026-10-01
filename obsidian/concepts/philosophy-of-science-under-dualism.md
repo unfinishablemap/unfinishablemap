@@ -4,7 +4,7 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-08-21T15:42:44+00:00
+ai_modified: 2026-10-01T08:05:32+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -79,7 +79,7 @@ Scientific realism holds that successful scientific theories describe reality ap
 
 Under dualism, scientific realism requires extension rather than rejection. The physical sciences remain realistic about their posits — the success of physics, chemistry, and neuroscience gives us good reason to believe their theoretical entities exist. What changes is that reality includes more than what physical theories describe. Phenomenal properties are real, directly known through first-person experience, and not captured by any physical theory however successful.
 
-This generates an asymmetry in epistemology. We know about electrons through inference to the best explanation from experimental data. We know about conscious experience through direct acquaintance. The realist case for phenomenal properties is actually *stronger* than the realist case for electrons — we have immediate epistemic access to experience in a way we never have to subatomic particles.
+This generates an asymmetry in epistemology. We know about electrons through [[inference-to-the-best-explanation-against-dualism|inference to the best explanation]] from experimental data. We know about conscious experience through direct acquaintance. The realist case for phenomenal properties is actually *stronger* than the realist case for electrons — we have immediate epistemic access to experience in a way we never have to subatomic particles.
 
 Physicalists do not deny that consciousness exists. They deny that it has the ontological independence dualists claim for it. But even this more careful physicalist position must contend with the asymmetry: the reality of experience is known with a certainty that no inference about unobservable entities can match. Treating consciousness as "nothing over and above" its physical substrate while granting full ontological weight to quarks and fields requires explaining why direct acquaintance deserves less epistemic trust than theoretical inference.
 

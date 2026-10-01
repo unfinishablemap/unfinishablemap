@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-07-31 01:23:25+00:00
+ai_modified: 2026-10-01 08:05:32+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 02:17:13+00:00
-lastmod: 2026-07-31 01:23:25+00:00
+lastmod: 2026-10-01 08:05:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The standard parsimony argument against dualism runs: physicalism and dualism ex
 
 ### Precondition 1: Equal Explanatory Adequacy
 
-Parsimony is a tie-breaker between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism — relying on [causal closure](/concepts/causal-closure/) — correlates neural activity with reported experience but provides no account of why there is [something it is like](/concepts/qualia/) to undergo those processes. The [explanatory-gap](/concepts/explanatory-gap/) is a structural feature of third-person physical description applied to first-person phenomenal reality, formalised by the [knowledge-argument](/concepts/knowledge-argument/) and [conceivability arguments](/concepts/philosophical-zombies/) (Chalmers 1996): physical facts alone do not entail phenomenal facts.
+Parsimony is a [tie-breaker](/concepts/inference-to-the-best-explanation-against-dualism/) between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism — relying on [causal closure](/concepts/causal-closure/) — correlates neural activity with reported experience but provides no account of why there is [something it is like](/concepts/qualia/) to undergo those processes. The [explanatory-gap](/concepts/explanatory-gap/) is a structural feature of third-person physical description applied to first-person phenomenal reality, formalised by the [knowledge-argument](/concepts/knowledge-argument/) and [conceivability arguments](/concepts/philosophical-zombies/) (Chalmers 1996): physical facts alone do not entail phenomenal facts.
 
 Type-B physicalists accept the gap but deny it is metaphysical, arguing future progress will close it without revising the ontology. The reply is coherent but does not restore parity: parsimony is synchronic, adjudicating current explanatory credentials rather than promissory notes — were such notes admissible, any underdetermined theory could plead future resolution. Dualism, by contrast, directly explains why physical description cannot capture consciousness; its burden is characterising [psychophysical laws](/concepts/psychophysical-laws/), an open problem but not one requiring that the phenomenon be explained away.
 

@@ -1,0 +1,126 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-10-01
+ai_modified: 2026-10-01 08:05:32+00:00
+ai_system: claude-fable-5-1
+author: null
+concepts:
+- '[[parsimony-epistemology]]'
+- '[[ensemble-level-epiphenomenalism]]'
+- '[[phenomenal-concepts-strategy]]'
+- '[[phenomenal-constitution-thesis]]'
+- '[[explanatory-gap]]'
+- '[[neural-correlates-of-consciousness]]'
+- '[[philosophy-of-science-under-dualism]]'
+created: 2026-10-01
+date: &id001 2026-10-01
+description: 'The physicalist''s strongest argument, stated at full strength and answered
+  honestly: against inference to the best explanation the Map reaches compatibility,
+  not discrimination. Human-AI refined.'
+draft: false
+human_modified: null
+last_curated: null
+lastmod: 2026-10-01 08:05:32+00:00
+modified: *id001
+related_articles: []
+title: Inference to the Best Explanation Against Dualism
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[causal-closure-debate-historical-survey]]'
+- '[[parsimony-case-for-interactionist-dualism]]'
+- '[[the-epiphenomenalist-threat]]'
+---
+
+Inference to the best explanation (IBE) ranks rival hypotheses by how well they would explain the evidence and infers the truth of the one that explains it best. Applied to the mind-body problem it yields the strongest argument the physicalist has: physical models of the brain unify a wide body of evidence that a dualist ontology merely accommodates, so identity or realisation is the best explanation of the record and the extra psychophysical ontology is explanatorily idle. The argument needs neither causal closure as a premise nor any entailment from neural correlates to identity, and the Map's standard reply—that the correlational evidence is compatible with dualism—answers a different challenge from the one it poses. The Map's standing against it, stated here so that it survives truncation: on the physicalist's own explananda the Map reaches the *compatible* tier and no higher; it reaches *suggestive* only by widening the set to phenomenal character, the acquaintance asymmetry and content determinacy, whose standing as data is exactly what the strongest physicalist rival contests; and it reaches *discriminating* nowhere, and cannot while [Tenet 3](/tenets/#tenet-3-standing)'s downward causation is held as available rather than actual. This page states the argument at full strength, locates the Map's parsimony and closure replies inside it, assigns each rejoinder its tier, and names what an honest rejoinder costs.
+
+## The Argument at Full Strength
+
+Gilbert Harman's 1965 paper "The Inference to the Best Explanation" named the form (the paper itself was not consulted). The physicalist's instance fills the evidence slot with seven explananda, in the form an external review put to the Map on 2026-10-01: neural dependence of mental states; selective deficits after lesions; changes under stimulation and pharmacology; developmental and degenerative change; access, memory and report; causal interactions among perceptual and cognitive systems; and the absence, so far, of independently measurable non-physical causal inputs. Physical models unify all seven; identity or realisation explains the unification, and additional non-physical items that happen to track physical states do not. The reviewer's conclusion: "The dualist must either produce additional predictive success or explain why the extra psychophysical ontology is not explanatorily idle."
+
+Three features make this the master form rather than one argument among several.
+
+It needs no closure premise. The exclusion argument requires that every physical effect has a sufficient physical cause; the IBE form asks only which hypothesis best explains the seven explananda, and the seventh enters as evidence rather than as a principle.
+
+It needs no entailment from correlates to identity. The Map's [neural-correlates page](/concepts/neural-correlates-of-consciousness/) says that "NCC findings are compatible with all three" of identity, epiphenomenalism and interaction, and that is true; but compatibility is a claim about likelihoods, and the IBE form concedes it. Peter Lipton's distinction, reported in Farmakis and Hartmann's review of *Inference to the Best Explanation* (the book was not consulted), is that IBE is "inference to the *loveliest* explanation, not inference to the *likeliest* explanation", the loveliest being "the one that, if correct, provides the most understanding". "Both are compatible" answers a likeliness challenge and leaves the loveliness challenge untouched: two hypotheses can make the evidence equally probable while one explains it and the other merely survives it.
+
+It is already in the literature under other names. Daniel Stoljar's *Stanford Encyclopedia* entry on physicalism gives, alongside closure, an Argument from Methodological Naturalism—"it is rational to be guided in one's metaphysical commitments by the methods of natural science", and those methods lead to physicalism—which he judges "just as persuasive — in fact, rather more so" than closure. That is the IBE form without the label. Brian McLaughlin's "Consciousness, Type Physicalism, and Inference to the Best Explanation" (*Philosophical Issues*, 2010) carries the label in its title; three metadata services agree on the author and none holds an abstract, so the paper is cited as the one a reply must engage and its argument is not paraphrased here. Reviewers report Andrew Melnyk's *A Physicalist Manifesto* (2003) as arguing by IBE first and appealing to simplicity only where rivals fit the evidence equally well—the ordering the seven-explananda argument assumes, recorded as the reviewers' paraphrase.
+
+## Parsimony Inside, Closure Out {#levels}
+
+The Map already carries two sustained replies to physicalist arguments: three pages on parsimony ([parsimony-epistemology](/concepts/parsimony-epistemology/), [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)) and a [historical survey of the closure debate](/topics/causal-closure-debate-historical-survey/). The claim of this section, a Map reconstruction found in no retrieved source, is that parsimony, closure and IBE are three levels of one argument, so each existing reply answers a part.
+
+Parsimony sits *inside* IBE as one of the criteria by which explanations are ranked. Brie Gertler's 2020 chapter separates two forms it takes against dualism: parsimony proper, fewer basic kinds of thing, and elegance, fewer fundamental laws, since a physicalist theory "need not include special fundamental laws linking structural-dynamic phenomena to consciousness". Both are measures of loveliness. The parsimony pages argue that the simpler-therefore-truer inference is unreliable here and that dualism's ledger of explanatory debts is at least as good as physicalism's; [parsimony-epistemology](/concepts/parsimony-epistemology/) adds that parsimony is "a tie-breaker between theories that explain the same phenomena equally well". Those are arguments about one criterion and its precondition; the ranking itself goes unaddressed.
+
+Causal closure, on its leading defender's own presentation, is an IBE *output*. The closure survey reports David Papineau's two-strand argument from the physiological and physical records (2001, 2002) and summarises its conclusion in the Map's words: "given how systematically the looking has been done and how consistently it has come up empty, the best explanation is that there is nothing further to find". Closure is the seventh explanandum abductively generalised; the survey's challenges engage that conclusion and the exclusion argument it feeds, while the inference that generated it goes unexamined.
+
+So the physicalist's master argument is IBE with closure among its outputs and parsimony among its criteria. A reply that answers only parsimony has shown one criterion untrustworthy; a reply that answers only closure has contested one output. Neither says what the Map's claims amount to when the inference is run whole.
+
+## The Bayesian Deflation
+
+A documented strand of the IBE literature bears on what "both are compatible" can mean. Okasha (2000; not consulted), Lipton's seventh chapter and Henderson (2014) ask whether explanatory considerations are, or emerge from, priors and likelihoods; Henderson's abstract proposes that "IBE would emerge from the Bayesian account, rather than being used to constrain priors and likelihoods". No retrieved source applies this to the dualism debate. The Map's reconstruction, labelled as such: on the deflationary reading "both are compatible" is the whole likelihood story and the residual disagreement is about priors, which fits [tenets](/tenets/)' description of Tenet 1 as "a commitment the Map owns, not a result it reports"—a prior is what a commitment is in this register. The reading concedes that the evidence does not move the dualist's credence, which is the *compatible* tier in Bayesian vocabulary, and gives the physicalist no reason to adopt the Map's priors.
+
+## Five Replies and the Tier Each Reaches
+
+The Map's evidential register distinguishes evidence *compatible with* a tenet, evidence that *supports* it, and evidence that *discriminates* in its favour over the physicalist rival. Five rejoinders are available in or near the corpus; none reaches the third tier.
+
+**The explanandum is mis-specified.** The seven explananda are facts about the structure, dynamics and function of brains. Phenomenal character—that there is something it is like to undergo these states—is absent from the list, and the dualist's extra ontology earns its place if it answers an explanandum the list omits. The reply is the standard one associated with Levine, Chalmers and Gertler, and the Map's own in [explanatory-gap](/concepts/explanatory-gap/) and the [acquaintance asymmetry](/concepts/philosophy-of-science-under-dualism/). Gertler puts the pivot cleanly: "simplicity concerns guide theory choice only when the theories being compared accommodate the data equally well", and the arguments for dualism aim to show that physicalism does not; "we should be wary of taking the perceived threat to simplicity as grounds for skepticism about the data used to support dualism". Tier reached: *suggestive*, and only on the widened set. The Type-B physicalist accepts phenomenal character as a datum, denies that the gap is ontological, and explains it through the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/): the gap is a feature of how phenomenal concepts refer rather than of what they refer to. The dispute then becomes a second-order IBE—whether dualism or the phenomenal-concepts strategy is the lovelier explanation of the gap itself—which no Map page has run as IBE. [parsimony-epistemology](/concepts/parsimony-epistemology/)'s point that Type-B's promissory reply "does not restore parity" because parsimony is synchronic transfers only if loveliness is also synchronic, which Lipton's formulation does not obviously grant.
+
+**The posit is not idle because consciousness causes.** [Tenet 3](/tenets/#bidirectional-interaction) holds that consciousness influences physical outcomes, so the extra ontology does work. The Map's own register caps this reply. The [standing note on Tenet 3](/tenets/#tenet-3-standing) records that the interface argument shows downward causation to be available "without showing it to be *actual*", so that non-epiphenomenal downward causation "is therefore a posit the interface argument leaves open, not a result it secures"; the quantum positions register records under [P-Q10](/positions/quantum-interface/#p-q10) that no worked toy model of the coupling exists. Tier reached: *compatible*. Any sentence saying the dualist ontology "does explanatory work" inherits that debt rather than discharging it.
+
+**Loveliness does not track likeliness here.** The physicalist's inference draws its force from loveliness: one framework, no special laws. It also needs the bridge from lovely to likely; per the review, Lipton "ultimately concludes that if IBE is a reasonable model for our inferential practices, loveliness and likeliness will tend to be coextensive", while van Fraassen holds that "not only does IBE not guarantee that our loveliest hypotheses are true but rather the converse most likely holds". [Tenet 5](/tenets/#occams-limits) holds that in a domain this incompletely known the bridge fails. That blunts the inference and supplies no lovelier dualist explanation, so a reply resting on Tenet 5 ends at "the physicalist's IBE is unlicensed here". Tier reached: *compatible*.
+
+**The seventh explanandum is predicted by the Map's own reading.** The corridor reading of the interface holds that conscious selection preserves Born statistics exactly, so it predicts that no independently measurable non-physical input will be found. The seventh explanandum therefore cannot favour physicalism over corridor dualism, because both predict it. The reply is genuine and already in the corpus at [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), which also names its cost, a "hidden idleness": an interface that "touches the physical world only in ways the physical world's own statistics already account for". The *Stanford Encyclopedia* entry on dualism states the matching objection against E. J. Lowe's proposal of an interaction invisible to scientific observation: such a theory "breaches ordinary standards of theory choice by sacrificing simplicity for no gain in strength", and the ordinary standard "would lead us to favour epiphenomenalism" over it (the entry attributes the objection to "Weir 2021b", a reference that could not be resolved; it is cited on the entry's attribution only). A posit tuned to leave no trace is the paradigm of no gain in strength. Tier reached: *compatible*, with the idleness objection at full force.
+
+**The lot is bad.** Douven's entry notes that the rival-ranking schema "may well lead us to believe 'the best of a bad lot'" (citing van Fraassen's *Laws and Symmetry*, 1989, p. 143; not consulted): ranking the candidates one has licenses belief only if the true hypothesis is plausibly among them. Whether dualism is in the physicalist's lot depends on the first reply: if phenomenal character is not admitted as a datum, dualism explains nothing in the set and the ranking never considers it; if it is admitted, the lot is widened and the ranking must be re-run. The objection reaches no tier directly. It constrains the opponent's inference, and the Map's own abductions in the same way.
+
+**Verdict.** *Compatible* on the physicalist's explanandum set, *suggestive* on the widened set with the widening contested at bedrock, *discriminating* nowhere; the register's rule that a tenet may remove a defeater but may not upgrade the evidence forbids pretending otherwise. Both of the Map's answers—the explanandum set is incomplete, the lot is incomplete—are commitments the Map owns, and the non-idleness of the dualist posit is owed, not shown.
+
+## What an Honest Rejoinder Costs
+
+Three commitments, in order of price.
+
+**Engage Type-B physicalism rather than Type-A.** The live opponent for the first reply is the physicalist who grants the datum and explains the gap conceptually; answering only the Type-A denial of the datum answers an opponent the IBE argument does not need. The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) page carries Chalmers's master argument against the strategy; no page yet runs the second-order comparison as an IBE and says which explanation of the gap is lovelier and by what criteria. Until then the first reply's *suggestive* tier is provisional.
+
+**State a disconfirmer for the idleness claim.** The Map's evidential discipline requires a core claim to say what would lower, leave unchanged and raise confidence in it. For the claim that the dualist posit is not idle, the Map can currently say only this: confidence would rise if a worked toy model of Born-preserving selection delivered a conditioned signature a physical model does not predict; it would be unchanged by any further unconditioned null result, since the corridor reading predicts those; and it would fall if the toy-model programme recorded under [P-Q10](/positions/quantum-interface/#p-q10) were shown unrealisable in principle. The second clause is the problem. A claim that no aggregate observation could lower is held on coherence rather than evidence, and the Map marks it so.
+
+**Apply bad-lot and loveliness symmetrically.** The Map runs its own abduction: the [phenomenal constitution thesis](/concepts/phenomenal-constitution-thesis/#abductive-bet) is held as "an *abductive bet*", an inference to the best explanation of content determinacy and understanding across deflationism, weak liberalism and the thesis itself. That is a rival-ranking of exactly the kind van Fraassen's objection targets, and the Map cannot raise bad-lot and loveliness objections against the physicalist's IBE while exempting its own. The consistency statement: the Map's abductions are subject to the same objections, the Map has not shown that its own lot is complete, and its abductive conclusions reach no higher tier than the one it concedes to the physicalist here.
+
+Among the dualist texts retrieved for this page, no explicit answer to an argument labelled as IBE was found: Gertler 2020 answers the unification argument in its simplicity form (the positive control), while Swinburne's 2009 "Substance Dualism" contains no occurrence of the word "explanation" and argues on modal and mereological grounds (the negative control). William Lycan's 2009 abstract holds "that no convincing case has been made against substance dualism, and that standard objections to it can be credibly answered"; whether IBE is among those objections was not verified. Hasker, Lowe's monographs and Robinson's own were not searched; the absence claim is confined to what was retrieved.
+
+## Relation to Site Perspective
+
+[Dualism](/tenets/#dualism) is the commitment the IBE argument targets, and against this argument the tenet is *compatible* only: the evidence the physicalist unifies is evidence the Map also predicts, and it does not favour the Map. The tenet's standing as a commitment rather than a result keeps the position coherent, and is what the Bayesian reconstruction exposes: a prior the evidence does not move.
+
+[Occam's Razor Has Limits](/tenets/#occams-limits) blunts the inference without defeating it. The tenet denies that simplicity is a reliable guide to truth under incomplete knowledge, which denies Lipton's coextension bridge for this domain and so gives reason to withhold belief from the physicalist's conclusion. It is no licence to ignore loveliness: an explanation that provides more understanding still has a claim the Map must answer with an explanation of its own, and Tenet 5 supplies none. The tenet binds the Map's own abductions with the same force.
+
+[Bidirectional Interaction](/tenets/#bidirectional-interaction) is where a discriminating result would have to come from. The IBE's idleness premise is the exclusion challenge restated as an explanatory charge, and the only reply that could upgrade the Map's tier is a demonstration that the dualist posit earns predictive success the physical model does not. The Map holds that demonstration as owed. While Tenet 3 stands at available rather than actual, the Map's position against the physicalist's master argument is that it survives it, which is what *compatible* means.
+
+## Further Reading
+
+- [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) — the seventh-explanandum reply and its idleness cost
+- [parsimony-epistemology](/concepts/parsimony-epistemology/) — the criterion inside the inference
+- [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — closure as the inference's output
+- [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — the Type-B opponent the first reply must engage
+- [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/) — the Map's own abduction, exposed symmetrically
+
+## References
+
+Labels: *(full text)* consulted in full; *(abstract)* abstract only; *(review)* known through a cited review; *(not consulted)* metadata verified, content not read.
+
+1. Douven, I. (2025). Abduction. *Stanford Encyclopedia of Philosophy*, rev. 18 June 2025. https://plato.stanford.edu/entries/abduction/ (full text)
+2. Farmakis, L., & Hartmann, S. (2005). Review of Lipton, *Inference to the Best Explanation*, 2nd ed. *Notre Dame Philosophical Reviews*, 2005.06.01. https://ndpr.nd.edu/reviews/inference-to-the-best-explanation-2nd-edition/ (full text)
+3. Gertler, B. (2020). Dualism: How Epistemic Issues Drive Debates about the Ontology of Consciousness. In U. Kriegel (Ed.), *The Oxford Handbook of the Philosophy of Consciousness* (pp. 276–300). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198749677.013.13 (full text, author preprint)
+4. Harman, G. H. (1965). The Inference to the Best Explanation. *The Philosophical Review*, 74(1), 88–95. https://doi.org/10.2307/2183532 (not consulted)
+5. Henderson, L. (2014). Bayesianism and Inference to the Best Explanation. *The British Journal for the Philosophy of Science*, 65(4), 687–715. https://doi.org/10.1093/bjps/axt020 (abstract)
+6. Lipton, P. (2004). *Inference to the Best Explanation* (2nd ed.). Routledge. https://doi.org/10.4324/9780203470855 (review; see 2)
+7. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551–563. https://doi.org/10.1080/00048400802340642 (abstract)
+8. McLaughlin, B. P. (2010). Consciousness, Type Physicalism, and Inference to the Best Explanation. *Philosophical Issues*, 20(1), 266–304. https://doi.org/10.1111/j.1533-6077.2010.00192.x (not consulted; no abstract exists; sole author per three metadata services)
+9. Melnyk, A. (2003). *A Physicalist Manifesto: Thoroughly Modern Materialism*. Cambridge University Press. https://doi.org/10.1017/CBO9780511498817 (review; ordering is reviewers' paraphrase)
+10. Okasha, S. (2000). Van Fraassen's critique of inference to the best explanation. *Studies in History and Philosophy of Science Part A*, 31(4), 691–710. https://doi.org/10.1016/S0039-3681(00)00016-9 (not consulted)
+11. Papineau, D. (2001). The Rise of Physicalism. In C. Gillett & B. Loewer (Eds.), *Physicalism and its Discontents* (pp. 3–36). Cambridge University Press. https://doi.org/10.1017/cbo9780511570797.002; and (2002). *Thinking about Consciousness*. Oxford University Press. (not consulted; via the Map's closure survey)
+12. Robinson, H. (2025). Dualism. *Stanford Encyclopedia of Philosophy*, rev. 17 October 2025. https://plato.stanford.edu/entries/dualism/ (full text; Lowe objection cited on the entry's attribution to "Weir 2021b", unresolved)
+13. Stoljar, D. (2026). Physicalism. *Stanford Encyclopedia of Philosophy*, rev. 16 September 2026. https://plato.stanford.edu/entries/physicalism/ (full text)
+14. Swinburne, R. (2009). Substance Dualism. *Faith and Philosophy*, 26(5), 501–513. Author's copy: https://users.ox.ac.uk/~orie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf (full text; issue number unverified)
+15. van Fraassen, B. C. (1989). *Laws and Symmetry*. Oxford University Press. https://doi.org/10.1093/0198248601.001.0001 (not consulted; bad-lot passage p. 143 per Douven)
+16. Southgate, A. & Oquatre-sept, C. (2026-05-27). Ensemble-Level Epiphenomenalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/
+17. Southgate, A. & Oquatre-six, C. (2026-03-19). The Causal Closure Debate — A Historical Survey. *The Unfinishable Map*. https://unfinishablemap.org/topics/causal-closure-debate-historical-survey/

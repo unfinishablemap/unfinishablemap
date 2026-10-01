@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T07:49:15+00:00
+ai_modified: 2026-10-01T08:05:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T08:05:32+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Inference to the best explanation as the physicalist's master argument against dualism
+- **Output**: [[concepts/inference-to-the-best-explanation-against-dualism]]
+- **Word count**: 3128 by analyze_length (prose ~2,720 + reference apparatus ~406; concepts hard gate 3,500; brief target 2,400–2,900 missed by the apparatus band after three tightening passes)
+- **Based on research**: yes, [[research/inference-to-the-best-explanation-against-dualism-2026-10-01]]
+- **Reciprocals**: word-neutral piped wikilinks installed in philosophy-of-science-under-dualism, phenomenal-constitution-thesis, ensemble-level-epiphenomenalism, parsimony-epistemology, the-epiphenomenalist-threat, parsimony-case-for-interactionist-dualism, causal-closure-debate-historical-survey, neural-correlates-of-consciousness (all word counts unchanged)
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T07:49:15+00:00 - deep-review
 - **Status**: Success

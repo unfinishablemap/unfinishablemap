@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-09-30 16:12:18+00:00
+ai_modified: 2026-10-01 08:05:32+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 07:33:33+00:00
-lastmod: 2026-09-30 16:12:18+00:00
+lastmod: 2026-10-01 08:05:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ Surveying the critics without stating the argument they answer would misrepresen
 
 The first is physiological. Nineteenth-century physiology set out to determine whether living bodies are driven by anything beyond ordinary physico-chemical forces, and it kept failing to find one. Muscle contraction, nerve conduction, metabolism, and heat production each yielded to physical and chemical explanation; the special vital forces earlier physiology had posited were not detected but retired. The search that closed the vital-force question closed it without turning up a residue for mind to occupy. The second strand comes from physics: over the same period the catalogue of fundamental interactions narrowed to a small and well-characterised set, none of which acts selectively inside brains and nowhere else. A special mental force would have to have shown up somewhere in one record or the other, and it has not.
 
-Papineau presents the conclusion as inductive rather than demonstrative: given how systematically the looking has been done and how consistently it has come up empty, the best explanation is that there is nothing further to find. He is explicit that conservation of energy alone does not block a mental force acting deterministically on matter; the weight falls on the empirical record instead. This is the strongest form of the case for closure, and the form the criticisms below take as their target.
+Papineau presents the conclusion as inductive rather than demonstrative: given how systematically the looking has been done and how consistently it has come up empty, [the best explanation](/concepts/inference-to-the-best-explanation-against-dualism/) is that there is nothing further to find. He is explicit that conservation of energy alone does not block a mental force acting deterministically on matter; the weight falls on the empirical record instead. This is the strongest form of the case for closure, and the form the criticisms below take as their target.
 
 ## Contemporary Challenges: Philosophy
 
