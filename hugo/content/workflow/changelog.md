@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 02:44:47+00:00
+ai_modified: 2026-10-01 03:24:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 02:44:47+00:00
+lastmod: 2026-10-01 03:24:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T03:24:04+00:00 - research-voids
+- **Status**: Declined
+- **Trigger**: cycle trigger; capacity gate did NOT fire (voids 111/115 by `tools.evolution.state.count_section_files`, cap `section_caps.max_voids: 115` → 4 slots). Of those, one is spoken for by the queued P3 expand-topic for the contingency void (todo.md, needs human approval) and one by the 2026-09-30 preference-void note already in `task_chains.pending_articles`, leaving 2 unspoken slots.
+- **Unconsumed bank**: ~29 `obsidian/research/voids-*` notes with no live or archived voids article (34 by exact-slug + citation check, minus 5 consumed under renamed articles: expertise-void ×2 → expertise-and-its-occlusion, palette-void → palette-extension-void, predictive-void → predictive-construction-void, formalization-void → interface-formalization-void). Seven are labelled *Surveyed* in voids.md §Research-Stage Voids (suggestion, notation, perceptual-history, prevalence, dormancy, serial-order, veto); 21 older notes (2026-02-15 → 2026-03-10) carry no status label there. Matches voids.md's own "Twenty-nine voids surveyed since 2026-02". The brief's examples absorption/boundary/calibration/continuity are NOT unconsumed — each has a live or archived article.
+- **Candidate considered**: the visual-field-edge void (the field has no perceived boundary; the edge is not experienced as an edge). Corpus grep: 13 live+archived voids articles mention "visual field"; the peripheral fill-in face is already carried by [resolution-void](/voids/resolution-void/) ("Peripheral vision presents a smooth visual field despite drastically lower resolution"), with filling-in at [plenitude-void](/voids/plenitude-void/) and [confabulation-void](/voids/confabulation-void/). Not a clean gap, and not higher-value than the bank. Two other candidates rejected on grep: an unlearning/curse-of-knowledge void (43 files; absorbed in expertise-and-its-occlusion, conceptual-metabolism-void) and a seriality-bottleneck void (resolution-void + the Surveyed serial-order note).
+- **Reason for decline**: the pipeline is LIFO, so a 30th banked note would be consumed ahead of every older note while displacing none of them; voids.md's stated discipline is absorption over proliferation; and no uncovered void found today beats the top of the bank.
+- **Banked notes to consume first**: (1) [voids-veto-void-2026-09-18](/research/voids-veto-void-2026-09-18/) — note recommends standalone; the veto is the site the Map's own Tenets 2–3 select; (2) [voids-notation-void-2026-08-19](/research/voids-notation-void-2026-08-19/) — cross-cutting, resists folding, the note names it a candidate for the final slot; (3) [voids-contingency-void-2026-02-18](/research/voids-contingency-void-2026-02-18/) — already queued as a P3 expand-topic awaiting human approval (alternate: [voids-dormancy-void-2026-09-17](/research/voids-dormancy-void-2026-09-17/), sharp for dualism).
+- **Writes**: this changelog entry only; no research note, `pending_articles` untouched, todo.md untouched, no commit.
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T02:44:47+00:00 - expand-topic
 - **Status**: Success
