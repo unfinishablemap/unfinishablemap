@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-01 17:17:20+00:00
+ai_modified: 2026-10-01 19:48:28+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 apex_last_synthesis: 2026-09-25 18:34:08+00:00
 apex_sources:
@@ -40,7 +40,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:54:44+00:00
-lastmod: 2026-10-01 17:17:20+00:00
+lastmod: 2026-10-01 19:48:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ Two limits keep this in proportion. Every tradition surveyed reports through int
 
 The four features — effort, selection, holding, opacity — form a coherent profile that several lines of inquiry describe from different sides:
 
-**Phenomenological analysis** (choice, agency-passivity) identifies the features from first-person investigation. **Neuroscience** (the willed-instructed attention contrast, LPFC-mediated imagery) supplies third-person correlates that track the phenomenological distinctions. **Evolutionary theory** offers a rationale — a consciousness that does genuine causal work should feel like work — though the [evolutionary case](/topics/evolutionary-case-for-mental-causation/) faces a live co-optimization reply and cannot by itself tell interaction from identity. **Cross-cultural evidence** shows the profile persists across traditions that interpret it radically differently. **Clinical dissociations** (anarchic hand, depersonalisation, thought insertion, parietal stimulation producing intention without movement) show the features coming apart, so the profile comprises separable components rather than one undifferentiated sensation.
+**Phenomenological analysis** (choice, agency-passivity) identifies the features from first-person investigation. **Neuroscience** (the willed-instructed attention contrast, LPFC-mediated imagery) supplies third-person correlates that track the phenomenological distinctions. **Evolutionary theory** offers a rationale — a consciousness that does genuine causal work should feel like work — though the [evolutionary case](/topics/evolutionary-case-for-mental-causation/) faces a live co-optimization reply and cannot by itself tell interaction from identity. **Cross-cultural evidence** shows the profile persists across traditions that interpret it radically differently. **Clinical dissociations** (anarchic hand, depersonalisation, [thought insertion](/concepts/thought-insertion/), parietal stimulation producing intention without movement) show the features coming apart, so the profile comprises separable components rather than one undifferentiated sensation.
 
 The convergence has a carefully calibrated reach. No single line is decisive, a determined physicalist can accommodate each finding, and the lines are less independent than their number suggests: the phenomenological and cross-cultural strands share the introspective instrument. The convergence targets *epiphenomenalism*, which it leaves treating the systematic tracking between felt work and cognitive demand as a brute, primitive regularity — pressure the position owes an answer to, not a refutation. It does not target non-reductive physicalism, the main contemporary opponent, which welcomes mental causation as evidence *for* itself. Whether the profile favours the Map's interactionist account over that rival depends on independent arguments (the explanatory gap, conceivability, the difficulty of reconciling causal closure with genuine mental causation) developed elsewhere in the Map. The profile makes the case that consciousness does cognitive work — a claim dualism and non-reductive physicalism share and epiphenomenalism must explain away. The Map then adds a structural commitment that the work happens at quantum indeterminacies, whose per-trial signature, on the strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction), is bounded by Born-statistics preservation and therefore operationally underdetermined. The position this article supports is the consciousness-does-cognitive-work claim; the position the rest of the Map commits to is the interactionist version of that claim. The layering is the honest characterisation.
 

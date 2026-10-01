@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T19:14:44+00:00
+ai_modified: 2026-10-01T19:48:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T19:48:58+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Thought insertion — what the alien thought keeps (todo P2, research-topic chain: optimistic-review → research-topic → expand-topic)
+- **Output**: [[concepts/thought-insertion]] ("Thought Insertion and What the Alien Thought Keeps")
+- **Word count**: 2,593 by `analyze_length` (prose 2,022 + Further Reading/References 571); concepts soft 2,500 / hard 3,500
+- **Based on research**: yes, [[research/thought-insertion-2026-10-01]] (recommended angle and seven-section outline; Gaps-flagged Patel 2023 and Verdejo 2023 checked at Crossref/OpenAlex, neither used)
+- **Shape**: lead front-loads the verdict (no reading describes a conscious experience without first-personal givenness; mineness is the contested feature; Guillot 2017 split is the spine; kind-claim survives untested; Tenet 1 compatible). Five readings at full strength with Billon's OCD objection and Gallagher's 2007 reply; Billon 2013 presented as defending the Cartesian principle; double dissociation stated as agency-reading-only; physicalist self-model reading at full strength with Frith 2012's concession; kind-claim section cites HPZ 2019 as closest published statement, labels the falsifier conceptual, answers Billon §4.1 in one sentence (the objection defeats the inference and spares the claim).
+- **Sourcing**: 24 references — 7 full text, 9 abstract, 6 metadata, 2 self-citations; access labels carried into References. Every quoted span string-checked against the research note's verified spans. Mellor fragment in the HPZ/Guillot form, marked second-hand; Metzinger and Lane only via Zahavi & Kriegel 2016; no Gallagher 2000 TICS quotation; Gallagher 2015 not cited.
+- **Reciprocals** (word-neutral piped links; counts before → after): consciousness-and-the-ownership-problem 2,951 → 2,951; self-construction-constructor 3,886 → 3,886; phenomenology-of-agency-vs-passivity 3,637 → 3,637; clinical-phenomenology-and-altered-experience 3,561 → 3,561 (on "passivity phenomena"); phenomenology-of-recursive-self-awareness 3,172 → 3,172; phenomenology-of-consciousness-doing-work 4,698 → 4,698. anarchic-hand-and-action-ownership skipped: no existing phrase fits.
+- **Not done (by contract)**: mine-ness, self-and-self-consciousness, self-opacity, cotard-delusion and depersonalisation untouched; the note's Corpus Corrections 2–4 left for the cross-review; no todo.md or evolution-state edits; no commit.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T19:14:44+00:00 - research-topic
 - **Status**: Success

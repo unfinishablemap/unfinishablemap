@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-08-17 06:24:07+00:00
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5+claude-opus-5
+ai_modified: 2026-10-01 19:48:28+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
 apex_last_synthesis: 2026-07-26 22:22:03+00:00
 apex_sources:
 - topics/consciousness-as-perceptual-architect
@@ -37,7 +37,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-22 21:32:06+00:00
-lastmod: 2026-08-17 06:24:07+00:00
+lastmod: 2026-10-01 19:48:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ It is not. In every register, the construction presupposes something it cannot i
 
 In all four cases the structure is identical. A genuine construction—percept, social identity, narrative, world-model—turns out to be content delivered to, and through, an experiential subject who is presupposed by the delivery. The constructor stands outside the series as what the whole series is *for*, rather than figuring within it as one more constructed item.
 
-The constructor is not a single undifferentiated lump, and clinical phenomenology shows it has separable phenomenal features—which sharpens rather than dilutes the argument. [Mine-ness](/concepts/mine-ness/) (the for-me character by which an experience belongs to a subject) and the sense of agency (the character by which a thought or action presents as initiated by that subject) come apart in pathology: schizophrenic thought insertion preserves ownership while disrupting agency—the thought occurs in *my* mind yet feels produced by another—whereas depersonalisation can disrupt ownership while leaving agency intact (Gallagher). The dissociation matters here because each construction still presupposes *both* features as the medium it operates in: even the inserted thought is registered as occurring *to* a subject, and even the depersonalised field is acted within *by* one. Construction can scramble which feature attaches where, but it never supplies a construction that belongs to and is undergone by no one. That is the asymmetry stated at the level of the constructor's own phenomenal anatomy.
+The constructor is not a single undifferentiated lump, and clinical phenomenology shows it has separable phenomenal features—which sharpens rather than dilutes the argument. [Mine-ness](/concepts/mine-ness/) (the for-me character by which an experience belongs to a subject) and the sense of agency (the character by which a thought or action presents as initiated by that subject) come apart in pathology: schizophrenic [thought insertion](/concepts/thought-insertion/) preserves ownership while disrupting agency—the thought occurs in *my* mind yet feels produced by another—whereas depersonalisation can disrupt ownership while leaving agency intact (Gallagher). The dissociation matters here because each construction still presupposes *both* features as the medium it operates in: even the inserted thought is registered as occurring *to* a subject, and even the depersonalised field is acted within *by* one. Construction can scramble which feature attaches where, but it never supplies a construction that belongs to and is undergone by no one. That is the asymmetry stated at the level of the constructor's own phenomenal anatomy.
 
 ## Why the Constructor Cannot Be the Last Construction
 
