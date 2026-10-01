@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 17:54:56+00:00
+ai_modified: 2026-10-01 18:08:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 17:54:56+00:00
+lastmod: 2026-10-01 18:08:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T18:08:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/)
+- **Task**: "Calibrate the IBE page's Type-B reply and apply its bad-lot symmetry to reply 1" (pessimistic-2026-10-01 Priority item 2; Issues 3–5)
+- **Original score**: n/a (`scripts/curate.py` absent); brief taken from [pessimistic-2026-10-01-inference-to-the-best-explanation-against-dualism](/reviews/pessimistic-2026-10-01-inference-to-the-best-explanation-against-dualism/)
+- **Word count**: 3213 → 3301 (+88) by analyze_length; concepts gate 3500 (`>=`), 198 headroom left for the attribution task (≈+28) and the capped second-order paragraph (~150).
+- **Changes**: (a) lead: rival "contests" the widened data → "grants as data and explains through phenomenal concepts"; "*suggestive* only" → "*suggestive*, provisionally, only". (b) reply 1: identity-hypothesis qualifier after "absent from the list". (c) reply 1: deleted the sentence calling Type-B's reply "promissory" (a Type-C description copied from parsimony-epistemology L90); replaced with: Type-B claims to explain the gap now and issues no promissory note, and ranking dualism first on the widened set is itself an IBE over a lot omitting Russellian monism and idealism, exposed to the same bad-lot and loveliness objections. (d) reply 3: Tenet 5 now quoted verbatim from tenets.md ("is not a reliable guide to truth when knowledge is incomplete") and scoped to parsimony and elegance, not unification (a virtue of scope); closing slogan "unlicensed" → "partly unlicensed" to match. (e) Verdict: suggestive against a datum-denier, provisional against Type-B until the second-order comparison runs; list re-punctuated with semicolons. (f) consistency statement: indeterminate "the one it concedes" → the Map's abductions, the phenomenal constitution thesis included, "are blunted exactly as far as the physicalist's". (g) Relation to Site Perspective: coextension denial restricted to "the simplicity component of loveliness".
+- **Untouched by design**: items 1 and 3 (17:53Z sibling refine); item 4 loci (ref 12, L42 Stoljar/Melnyk, L50, the Levine/Chalmers sentence) left for their queued task; McLaughlin 2010 still a lead; evidential-status labels kept. concepts/parsimony-epistemology L90 still describes Type-B as "arguing future progress will close it" and rejects its "promissory notes" (a Type-C description); not edited, out of scope.
+- **Residual noted**: the lead's "explains through phenomenal concepts" spans the whole widened set, but content determinacy is not a phenomenal-concepts explanandum; a later pass may scope it.
+- **Reasoning modes**: Type-B engagement: Mode Three (the second-order comparison is unrun, so the tier is marked provisional, not refuted); Tenet 5 reply: Mode Two narrowed to the simplicity component; no label leakage
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T17:54:56+00:00 - refine-draft
 - **Status**: Success
