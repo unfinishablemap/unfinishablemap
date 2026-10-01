@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 04:14:50+00:00
+ai_modified: 2026-10-01 04:29:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 04:14:50+00:00
+lastmod: 2026-10-01 04:29:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T04:29:17+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Kant's paralogisms and the Map's subject — the Critical dismantling of rational psychology against the register's determinate subject (todo P3, source research-harvest, minted 2026-09-30 from optimistic-2026-09-30-creation-wing)
+- **Output**: [kants-paralogisms-and-the-maps-subject-2026-10-01](/research/kants-paralogisms-and-the-maps-subject-2026-10-01/)
+- **Verdict**: page, not section — `topics/kants-paralogisms-and-the-maps-subject` (topics 338/360); fallback host `topics/consciousness-and-the-metaphysics-of-individuation` (3,143 words, 857 below hard); every other candidate host is at or over its hard gate (personal-identity 4,045; individuation-and-subjecthood 3,938; subject-census 2,493; self-opacity 3,072)
+- **Analytic result**: the Map's subject is posited (tenets L121–123, [P-I2](/positions/individuation-and-subjecthood/#p-i2)), not inferred from the "I think", so it does not commit the paralogism; it is exposed at mine-ness-as-evidence, unity-as-simplicity, and posit (1)'s diachronic clause (A363); the [P-SC1](/positions/subject-census/#p-sc1) subject-index escape is real in principle but promissory on Tenet 3's "available, not actual" standing — compatible on the over-reach ladder
+- **Sources consulted**: 32 citations; full text 6 (Critique in Guyer & Wood and Meiklejohn, Kitcher 2024, Priest 2007 manuscript, Hasker 2012 draft, Lowe 2012 draft); abstract-only 1 (Strawson 1997); summariser-mediated 4 (SEP, two NDPR reviews, IEP); metadata-only 21; unreachable 403/404: Cassam 2021, Zahavi 2021, Marshall 2010, Proops 2010 PhilArchive, Rosefeldt 2016 Academia, Dyck NDPR review, Ameriks MUSE review
+- **Control pairs**: Kant-positive hits in the Hasker and Lowe drafts license the "no paralogism mention" zero for those texts only; Swinburne proxy zero for Kant; one QM+paralogisms search (no hit) — one control, flagged
+- **Brief corrections**: `concepts/personal-identity` is `topics/personal-identity`; `topics/pudgalavada` is `concepts/pudgalavada`; cap counter is `tools.evolution.state.count_section_files`; the todo names a `-2026-09-30` output path, the note is dated 2026-10-01
+- **Published**: synced to hugo; no commit
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T04:14:50+00:00 - commission-gemini-review
 - **Status**: Success
