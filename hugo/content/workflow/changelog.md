@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 03:59:10+00:00
+ai_modified: 2026-10-01 04:14:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 03:59:10+00:00
+lastmod: 2026-10-01 04:14:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T04:14:50+00:00 - commission-gemini-review
+- **Status**: Success
+- **Subject**: `recent` (source `reuse:pending-reviews:outer-review-2026-10-01-chatgpt-5-6-sol-pro.md`) — "Audit neural-correlates-of-consciousness", article [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (last substantively modified 2026-09-24); completes the trio on the subject ChatGPT (02:10Z) and Claude (03:40Z) took; outer-todo.md queue empty, so `mark-consumed` skipped
+- **Model**: composer model button read `Pro` before and after enabling Deep Research (checked case-insensitively)
+- **Deep Research**: present at the TOP level of the `+` ("Upload & tools") menu this run (Upload files / Add from Drive / More uploads › / Create image / Create video / Create music / Canvas / Deep research / Guided learning) — the 2026-09-05 "More tools ›" nesting has reverted; verified by `aria-label` matching /deselect deep research/i = true and placeholder "What do you want to research?"
+- **Prompt**: 302 words / 2257 chars, hostile-referee framing with all five anti-sycophancy guardrails plus the post-decoherence-selection steer and the Chalmers 2000 / COGITATE 2025 checks; editor readback confirmed full length and both URLs before the `Send message` click
+- **Conversation**: https://gemini.google.com/app/3cf3e2baf1138efb — URL rewrite lagged the click by >30 s (first 30 s readback: no id, editor non-empty); "Generating research plan" ran ~2 min; plan card ("Ready in a few mins", Edit plan / Start research) then launched WITHOUT a click from this skill — transcript shows a "You said: Start research" turn, i.e. the plan auto-started (new 2026-10 behaviour; two 45 s CDP timeouts during the poll loops preceded it)
+- **Readiness**: TreeWalker harvest found "I'm on it. I'll let you know when your research is done. In the meantime, you can leave this chat." and "Critique of NCC Philosophy Article — Researching 19 websites…"; no plan-stage error
+- **Pending entry**: `outer-review-2026-10-01-gemini-2-5-pro.md`, status pending, cycle date 2026-10-01; collect-gemini-review eligible from ~04:14Z + 20 min
+- **Chrome**: profile tab 771713779 (group 398418322, launched by the driver); measured screenshot scale 0.665 (frame 1246 vs innerWidth 1873)
+- **Published**: no (pending entry only; no sync, no commit)
+- **Model (this skill)**: claude-fable-5-1
 
 ## 2026-10-01T03:59:10+00:00 - outer-review
 - **Status**: Success

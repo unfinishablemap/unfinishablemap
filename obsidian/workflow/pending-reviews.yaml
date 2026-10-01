@@ -311,3 +311,46 @@
   subject_articles:
   - concepts/neural-correlates-of-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-01-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/3cf3e2baf1138efb
+  commissioned_at: '2026-10-01T04:14:50.718597+00:00'
+  prompt_summary: Hostile referee audit of concepts/neural-correlates-of-consciousness
+    (2020-25 lit, 5+ weaknesses)
+  target_filename: outer-review-2026-10-01-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is "Neural Correlates of Consciousness" at https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
+    on The Unfinishable Map (https://unfinishablemap.org); it claims NCC findings
+    are compatible with identity, emergence, and interaction readings, and the site
+    argues for a non-reductive view of consciousness. It was revised on 2026-09-24;
+    check https://unfinishablemap.org/workflow/changelog/ for recent edits, since
+    search indexes may lag. Do not describe the site''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the article''s empirical
+    claims, citations, counterargument coverage, and logical inferences. The site''s
+    preferred mechanism is selection among already-decohered outcomes; do not spend
+    findings on quantum Zeno, basis control, or macroscopic coherence, which it disclaims.
+    Target the article''s three readings and its falsifiers section. Audit four dimensions:
+    (a) accuracy against the 2020s literature, including its use of Chalmers (2000)
+    on defining an NCC and the 2025 COGITATE adversarial collaboration in Nature;
+    (b) cited results that have been challenged, retracted, replicated, or superseded;
+    (c) framings that assume the site''s commitments rather than arguing for them;
+    (d) untested counterarguments or competing frameworks. End with at least five
+    specific weaknesses. For each, cite at least one peer-reviewed source from 2020-2025
+    that the article omits, contradicts, or mishandles. If you cannot find five weaknesses,
+    state explicitly why none are visible, but the default expectation is that a careful
+    pre-publication audit of a contemporary topic will find five. Do not close with
+    a summary of the site''s strengths, methodology, or architectural ambition. End
+    your report with the at-least-five weaknesses list, each with a 2020-2025 source
+    citation, and a one-sentence verdict on academic-submission readiness. Do not
+    append summary praise.'
+  subject_type: recent
+  subject_title: Audit neural-correlates-of-consciousness
+  subject_articles:
+  - concepts/neural-correlates-of-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-01-chatgpt-5-6-sol-pro.md
