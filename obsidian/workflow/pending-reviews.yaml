@@ -254,3 +254,31 @@
   subject_articles:
   - concepts/galilean-exclusion.md
   subject_source: reuse:pending-reviews:outer-review-2026-09-30-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6abdc0c2-928c-83ed-aa60-2c17c685649c
+  commissioned_at: '2026-10-01T02:10:04.463208+00:00'
+  prompt_summary: Audit neural-correlates-of-consciousness (recent-aged fallback)
+  target_filename: outer-review-2026-10-01-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile external referee for one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy site. Audit https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
+    (last substantively modified 2026-09-24; recent edits are listed at https://unfinishablemap.org/workflow/changelog/).
+    The article argues that correlation is not identity and that NCC findings are
+    compatible with dualism, physicalism, and filter theory. Check: (1) whether its
+    claims are supported, including its use of Chalmers 2000''s NCC definition and
+    the COGITATE 2025 Nature adversarial-collaboration result; (2) citation accuracy
+    and stale references against the current literature; (3) counterargument coverage,
+    especially the strongest physicalist and illusionist replies; (4) tenet-protective
+    bracketing, where the site''s commitments shield the article from evidence; (5)
+    whether its proposed falsifiers are genuine; (6) integration with neighbouring
+    articles on the site. Verify quotes and attributions against the sources. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit neural-correlates-of-consciousness
+  subject_articles:
+  - concepts/neural-correlates-of-consciousness.md
+  subject_source: fallback:recent-aged

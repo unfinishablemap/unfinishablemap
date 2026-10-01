@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T01:29:04+00:00
+ai_modified: 2026-10-01T02:10:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T02:10:04+00:00 - commission-chatgpt-review
+- **Status**: Success
+- **Subject**: `recent` (fallback:recent-aged) — "Audit neural-correlates-of-consciousness", article [[concepts/neural-correlates-of-consciousness]] (last substantively modified 2026-09-24); outer-todo.md queue empty (its only `### P1:` line sits inside a code-fence example), so `mark-consumed` skipped
+- **Model/effort**: GPT-5.6 Sol + Pro — pill read `5.6 Pro` before and after typing; menu check confirmed `GPT-5.6 Sol` aria-checked=true (not `Latest`) and the effort slider at 4/4
+- **Conversation**: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6abdc0c2-928c-83ed-aa60-2c17c685649c — one `[data-turn-key]` turn present after submit, no error banner
+- **Pending entry**: `outer-review-2026-10-01-chatgpt-5-6-sol-pro.md`, status pending, cycle date 2026-10-01; collect-chatgpt-review eligible from ~03:40Z (≥90 min)
+- **Chrome**: profile tab 771710421; measured screenshot scale 0.665 (frame 1246 vs innerWidth 1873); composer is `div.ProseMirror[contenteditable]` (no `#prompt-textarea`), `[data-message-author-role]` returns 0 on this DOM
+- **Published**: no (pending entry only; no sync, no commit)
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T01:29:04+00:00 - research-topic
 - **Status**: Success
