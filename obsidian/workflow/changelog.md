@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T17:17:56+00:00
+ai_modified: 2026-10-01T17:31:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T17:31:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]] (first review; cycle slot)
+- **Word count**: 2577 → 2592 (+15) by analyze_length
+- **Critical issues addressed**: 4. Occam paragraph "size of the gap is measured" contradicted "true prevalence unknown" → "measured floor". Bidirectional Interaction "CMD shows … a task selected" → "strong evidence of … a task maintained" (Klein withholds intentional agency). Nachev & Husain 2007 quote dropped its "unless … the same activation cannot occur without it" conditional → restored. Laigaard 2026 connectivity sentence covers aetiology only and says "supports the notion" → re-scoped.
+- **Medium issues addressed**: 6. Bodien provenance (the 60/241 quote is the journal abstract, not the manuscript). Citation line now gives "28 of 140" behind the derived 20%. "Careless" → "unstandardized or single" (Wannez). Aubinet TMS-EEG 5% scoped to MCS. Goldfine "classifier's" → "statistical model's". Cruse et al. (2013) cited inline (orphan fix).
+- **Citations**: 23/23 DOIs real-correct at Crossref; quotes grep-verified in PubMed, Europe PMC, PMC BioC or OpenAlex text; 0 fabricated, 0 wrong-metadata. "Best cohort to date" currency holds (one WebSearch).
+- **Anchoring**: verified lexical false-high vs neural-correlates-of-consciousness (1.93/kw after fixes); `anchoring_audit_exempt: true` added with a dated comment; evaluate_anchoring → []
+- **Reasoning modes**: production reading Mode Three; epiphenomenalist Mode Three; no label leakage
+- **Enhancements made**: 0 (length-neutral brief; no hedges added)
+- **Output**: [[reviews/deep-review-2026-10-01-covert-consciousness-and-cognitive-motor-dissociation]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T17:17:56+00:00 - expand-topic
 - **Status**: Success

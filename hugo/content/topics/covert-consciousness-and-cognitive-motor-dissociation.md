@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-01 17:10:04+00:00
+ai_modified: 2026-10-01 17:29:51+00:00
 ai_system: claude-opus-5-5
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -18,7 +19,8 @@ description: 'What covert-consciousness figures license: CMD in roughly 15–25%
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-01 17:10:04+00:00
+last_deep_review: 2026-10-01 17:29:51+00:00
+lastmod: 2026-10-01 17:29:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,23 +51,23 @@ Each figure is a proportion of a different population.
 |Aubinet et al. 2025|Behaviourally unresponsive patients, acute or chronic|Umbrella: perturbational complexity, passive EEG, command-following|"up to 25%"; not a CMD rate|
 |Laigaard et al. 2026|Individual-participant meta-analysis: 56 studies, 1,248 patients|Published single-subject fMRI/EEG results|UWS 28.4%, MCS− 38.7%, coma 32.8%; detection rates, not prevalence|
 
-**Bodien et al.** report CMD "in 60 of the 241 participants (25%) without an observable response to commands." The 241 combine 140 patients in coma or the vegetative state with 101 in MCS− (non-reflexive behaviour such as visual tracking, but no command-following), a state already classified as conscious. The 20% and 32% splits are the Map's derivation from the paper's tables (53% of the CMD group was MCS−); the authors do not state them. Its figures and wording are quoted here from the authors' manuscript rather than the published journal text; the manuscript calls the result "5-10 percent higher than previously reported" and gives site frequencies "ranging from 2% to 45%." **Aubinet et al.'s** "up to 25%" pools complexity after a magnetic or electrical pulse, "highly differentiated EEG responses" and command-following, "each of which has been interpreted, to varying degrees, as evidence of consciousness"; the authors would withhold their label "covert consciousness" from MCS−, and two declare a financial interest in a company developing a consciousness-assessment device. **Laigaard et al.** pool published single-subject data, which publication selection plausibly inflates.
+**Bodien et al.** report CMD "in 60 of the 241 participants (25%) without an observable response to commands." The 241 combine 140 patients in coma or the vegetative state with 101 in MCS− (non-reflexive behaviour such as visual tracking, but no command-following), a state already classified as conscious. The 20% and 32% splits are the Map's derivation from the paper's tables (53% of the CMD group was MCS−); the authors do not state them. That sentence is the published abstract's; the other figures and wording come from the authors' manuscript, not the journal text, and the manuscript calls the result "5-10 percent higher than previously reported" and gives site frequencies "ranging from 2% to 45%." **Aubinet et al.'s** "up to 25%" pools complexity after a magnetic or electrical pulse, "highly differentiated EEG responses" and command-following, "each of which has been interpreted, to varying degrees, as evidence of consciousness"; the authors would withhold their label "covert consciousness" from MCS−, and two declare a financial interest in a company developing a consciousness-assessment device. **Laigaard et al.** pool published single-subject data, which publication selection plausibly inflates.
 
-The defensible one-line statement, for citation elsewhere, is: *roughly 15–25% of patients without bedside command-following show command-following on fMRI or EEG, depending on cohort and method (Bodien et al. 2024: 60 of 241, 25%; about 20% among those clinically in coma or the vegetative state); because the tests miss many conscious patients, the true figure is unknown.*
+The defensible one-line statement, for citation elsewhere, is: *roughly 15–25% of patients without bedside command-following show command-following on fMRI or EEG, depending on cohort and method (Bodien et al. 2024: 60 of 241, 25%; 28 of 140, about 20%, among those clinically in coma or the vegetative state); because the tests miss many conscious patients, the true figure is unknown.*
 
 ## How Detection Fails {#how-detection-fails}
 
 Errors run in both directions, unequally.
 
-**False positives.** Cruse et al. (2011) reported that "Three (19%) of 16 patients" in the vegetative state produced reliable bedside EEG responses. Goldfine et al.'s (2013) reanalysis found that the patient data violated the classifier's independence assumptions and that, once this was accounted for, "there is no statistical evidence for task performance in patients"; the original authors replied. Bodien et al.'s methods were "intentionally designed to minimize the potential for a false positive result, which may increase the likelihood of a false negative finding."
+**False positives.** Cruse et al. (2011) reported that "Three (19%) of 16 patients" in the vegetative state produced reliable bedside EEG responses. Goldfine et al.'s (2013) reanalysis found that the patient data violated the statistical model's independence assumptions and that, once this was accounted for, "there is no statistical evidence for task performance in patients"; Cruse et al. (2013) replied. Bodien et al.'s methods were "intentionally designed to minimize the potential for a false positive result, which may increase the likelihood of a false negative finding."
 
-**False negatives.** Of Bodien's 112 patients who *did* follow commands at the bedside, only 43 (38%) responded on fMRI or EEG. Aubinet et al. report that "only 75%–85% of overtly conscious individuals have positive motor imagery tests," and set "the 62% false negative rate of task-based fMRI and/or EEG" against 5% for TMS-EEG. Agreement between fMRI and EEG in Bodien's cohort was a kappa of "0.02-0.04."
+**False negatives.** Of Bodien's 112 patients who *did* follow commands at the bedside, only 43 (38%) responded on fMRI or EEG. Aubinet et al. report that "only 75%–85% of overtly conscious individuals have positive motor imagery tests," and set "the 62% false negative rate of task-based fMRI and/or EEG" against 5% for TMS-EEG in MCS patients. Agreement between fMRI and EEG in Bodien's cohort was a kappa of "0.02-0.04."
 
 A positive result therefore carries real information and a negative one almost none: "Absence of evidence for CMD is not evidence of its absence" (Laigaard et al.). Under designs that suppress false positives, published rates behave more like floors than estimates. That ignorance cuts both ways: it forbids reading a negative scan as absence, and equally forbids asserting any prevalence of hidden awareness.
 
 ## From Activation to Consciousness {#from-activation-to-consciousness}
 
-A positive test shows task-specific brain activity; the step to consciousness is an inference, marked as one since the founding case. Owen et al. (2006) reported a single vegetative patient who, "When asked to imagine playing tennis or moving around her home," activated predicted cortical areas "in a manner indistinguishable from that of healthy volunteers." Nachev and Husain (2007) replied that "the presence of brain activation is not sufficient evidence for the associated behaviour," and that the activation "may therefore have been wholly automatic and unconscious."
+A positive test shows task-specific brain activity; the step to consciousness is an inference, marked as one since the founding case. Owen et al. (2006) reported a single vegetative patient who, "When asked to imagine playing tennis or moving around her home," activated predicted cortical areas "in a manner indistinguishable from that of healthy volunteers." Nachev and Husain (2007) replied that "the presence of brain activation is not sufficient evidence for the associated behaviour" unless "the same activation cannot occur without it," and that the activation "may therefore have been wholly automatic and unconscious."
 
 Shea and Bayne (2010) judged that the standard results suggest some vegetative patients "might indeed be conscious, although they fall short of being demonstrative." Klein (2017) grants the conclusion and withholds more: "Responsive patients are likely still conscious. However, the route to this conclusion does not support attributions of intentional agency." Naccache (2018) argues that the behavioural criteria for the minimally conscious state give certainty about a "cortically mediated state" but not about residual consciousness.
 
@@ -75,14 +77,14 @@ The clinicians' own position is graded. Aubinet et al. write that "someone who p
 
 The roughly 40% misdiagnosis rate, often cited alongside CMD, measures something else. Schnakers et al. (2009) found that "Of the 44 patients diagnosed with VS based on the clinical consensus of the medical team, 18 (41%) were found to be in MCS following standardized assessment with the CRS-R" (the Coma Recovery Scale–Revised, a structured bedside examination). Andrews et al. (1996) judged 17 of 40 patients referred as vegetative (43%) misdiagnosed, noting that "Most of the misdiagnosed patients were blind or severely visually impaired"; Childs et al. (1993) found 37%. Wannez et al. (2017) showed that a single CRS-R examination "led to 36% of misdiagnoses" against a reference built from repeated assessments.
 
-Every one of these errors was caught *by behaviour*: a standardized scale, repetition, or accommodation of blindness. The patients showed minimally conscious behaviours that unstandardized judgement or a single examination missed. The figure measures the unreliability of careless bedside assessment, hence Schnakers et al.'s conclusion that "Standardized neurobehavioral assessment is a more sensitive means of establishing differential diagnosis." It is no evidence of consciousness invisible to behaviour, and it can be neither added to the CMD rates nor substituted for them.
+Every one of these errors was caught *by behaviour*: a standardized scale, repetition, or accommodation of blindness. The figure measures the unreliability of unstandardized or single bedside assessment, hence Schnakers et al.'s conclusion that "Standardized neurobehavioral assessment is a more sensitive means of establishing differential diagnosis." It is no evidence of consciousness invisible to behaviour, and it can be neither added to the CMD rates nor substituted for them.
 
 ## The Physicalist Reading at Full Strength {#the-physicalist-reading-at-full-strength}
 
 The production view reads CMD as consciousness generated by preserved cortical and thalamocortical machinery whose route to the motor system is damaged. At full strength it rests on five points.
 
 1. **Detection is neural.** CMD is defined by task-related neural responses, so every positive case is one in which specific cortical machinery is intact and active; nothing shows consciousness persisting where its neural basis has failed.
-2. **The predictors are neural-integrity predictors.** Detection is likelier after traumatic than anoxic injury and in MCS− than in the vegetative state (38.7% against 28.4%), a gradient Laigaard et al. read as showing that "preserved large-scale cortical connectivity is a key substrate for covert command-following capacity." Among 107 acute patients, Franzova et al. (2023) found that "no CMD patients had midbrain lesions."
+2. **The predictors are neural-integrity predictors.** Detection is likelier after traumatic than anoxic injury and in MCS− than in the vegetative state (38.7% against 28.4%), and Laigaard et al. take the aetiology result to support the notion that "preserved large-scale cortical connectivity is a key substrate for covert command-following capacity." Among 107 acute patients, Franzova et al. (2023) found that "no CMD patients had midbrain lesions."
 3. **The dissociation has its own lesion.** Fernández-Espejo et al. (2015) found selective damage to thalamus–motor-cortex fibres in a covertly aware patient; Franzova et al. implicate failed motor-command integration in the anterior forebrain mesocircuit, with "preserved thalamocortical network function," in CMD patients with subcortical lesions.
 4. **Independent capacity measures converge.** The perturbational complexity index (PCI) picked out 9 of 43 vegetative patients with high complexity (Casarotto et al. 2016), and Aubinet et al. call PCI's roughly 20% "consistent with the incidence of covert command-following." Stender et al. (2016) found that "42% of normal cortical activity represents the minimal energetic requirement for the presence of conscious awareness." Production predicts this triangulation: one variable, preserved thalamocortical integrity, seen through three instruments.
 5. **The production argument never rested on behaviour.** The physicalist does not identify consciousness with motor output, and the anaesthesia, sleep and brain-injury evidence for production is read on neural measures. A contaminated behavioural category leaves that evidence untouched; CMD sharpens it.
@@ -97,11 +99,11 @@ Prevalence data, at any value, are evidentially neutral between the two readings
 
 **[Dualism](/tenets/#dualism).** CMD is compatible with the Map's dualism and does not discriminate it from production. It removes the inference from absent behaviour to absent experience, which no serious rival needs. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) grades the exhibit "interface-compatible, non-discriminating," and stronger uses outrun what the figures license.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** CMD shows cognition proceeding without motor output: a command understood, a task selected and maintained. Whether the phenomenal character of that cognition does causal work is a further question the data do not reach, since an epiphenomenalist can grant the covert processing and deny only that its phenomenal character contributes. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) treats CMD as the clinical exhibit on that question.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** CMD is strong evidence of cognition proceeding without motor output: a command understood and a task maintained. Whether the phenomenal character of that cognition does causal work is a further question the data do not reach, since an epiphenomenalist can grant the covert processing and deny only that its phenomenal character contributes. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) treats CMD as the clinical exhibit on that question.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** No bearing. The data concern macroscopic cortical and thalamocortical integrity, and they associate CMD with preserved rather than widely damaged cortex, so they cannot locate or bound a quantum-level interaction.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** The tenet survives in its narrow epistemic form. The simplest bedside inference, from no behaviour to no experience, is unreliable, and the size of the gap is measured rather than speculative. That differs from a claim that parsimony fails against production, which the data do not show.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** The tenet survives in its narrow epistemic form. The simplest bedside inference, from no behaviour to no experience, is unreliable, and the gap has a measured floor rather than a speculative one. That differs from a claim that parsimony fails against production, which the data do not show.
 
 [ethics-under-dualism](/topics/ethics-under-dualism/) takes up what is owed to patients who are probably conscious but cannot show it.
 
