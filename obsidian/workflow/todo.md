@@ -1520,6 +1520,39 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-30
 - **Notes**: Grep-verified 21:34Z: `cotard` returns 0 in necessary-opacity, phenomenal-quality-void, anosognosia (and per the review in clinical-phenomenology L107 and neurological-dissociations L95) although `cotard-delusion` names each as the insight-retained side — one clause each: the same channel reporting the wrong value of a different variable, existence (measure each host first; necessary-opacity is a void at ~2643/3000). `naturalist-relationalism` L89 states the colour sorting result without linking `[[colour-ontology-and-the-secondary-quality-residue]]` (0 hits; 2358/3500) and its "relationalism" is naive realism, not Cohen's — piped link over "relocation is not dissolution" plus one clause distinguishing Cohen's colour relationalism from naive-realist relationalism. Colour hosts: `aesthetics-and-consciousness` L92, `dualist-perception` L130 (one clause each, measure first), `explanatory-gap` L89 (piped only, headroom 6), a Further Reading line on `hard-problem-of-consciousness` (measure first). Quote each line live; bump `ai_modified` per host; sync; Hugo grep.
 
+### P1: Replace the unrecoverable SEP "Interactionism actually predicts…" quotation in neural-correlates-of-consciousness
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/neural-correlates-of-consciousness.md
+- **Notes**: From outer review 2026-10-01 (ChatGPT 5.6 Sol Pro §4.1), verified at source 2026-10-01: the live SEP *Dualism* entry (160 KB) contains none of "actually predicts", "visual cortex", "vice versa", "support materialism". Article L81 presents the sentence in quotation marks as the SEP's words. The quote entered via `research/neural-correlates-consciousness-2026-01-14` L90 and L170 (the seed, not an independent witness) and was ratified by `pessimistic-2026-03-19-night` L49. Fix: drop the quotation marks and recast L81 as an unquoted paraphrase of the interactionist point (SEP's interactionism section does say mental and physical events causally influence one another, then raises conservation/closure/exclusion), or find the real source and cite it with section; also strip the quotation marks in the research note. Length-neutral. Do not treat the research note or the 03-19 pessimistic review as confirmation.
+- **Review file**: `reviews/outer-review-2026-10-01-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-10-01
+
+### P2: Empirical-precision fixes in neural-correlates-of-consciousness: categorical V4 claim, stale 15% covert-consciousness estimate, unsourced Koch COGITATE reading, Tallis title
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/neural-correlates-of-consciousness.md
+- **Notes**: From outer review 2026-10-01 §4.2/§4.4/§4.9, each locus grep-verified and each cite resolved at Crossref/PubMed. (a) L59 "damage to V4 causes complete loss of color experience (achromatopsia)" — Bouvier & Engel 2006, *Cerebral Cortex* 16(2):183 (doi:10.1093/cercor/bhi096; 92-case meta-analysis) found deficits variable, often incomplete, never colour-only, loci ventral occipitotemporal; soften to severe-but-variable cerebral achromatopsia and cite. (b) L117 "Claassen et al. (2019) and subsequent work report lower estimates (around 15%)" — Bodien et al. 2024 NEJM (doi:10.1056/NEJMoa2400645; 60/241 = 25% CMD, six-centre prospective) is the current anchor; attribute 15% to Claassen alone or update. (c) L63 "Koch read the experiments as favouring a posterior rather than prefrontal locus" has no citation — cite a specific Koch commentary or recast as IIT-aligned commentators. (d) L230 Tallis: indexed title is "Tallis in Wonderland: The Illusion of Illusionism", *Philosophy Now* 161 (2024). Verify at publisher before each edit; length-neutral (article ~3,540 words).
+- **Review file**: `reviews/outer-review-2026-10-01-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-10-01
+
+### P2: Cross-review neural-correlates-of-consciousness against global-workspace-theory, palette-extension-void and conscious-vs-unconscious-processing for substance-level consistency
+- **Type**: cross-review
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/neural-correlates-of-consciousness.md
+- **Notes**: From outer review 2026-10-01 §3/§4.8/§9, three verified cross-page conflicts where the survey article is less calibrated than its specialist neighbours. (a) L63 says GNWT proponents contest COGITATE only "on methodological grounds"; [[global-workspace-theory]] already summarises Naccache et al. 2025 (*Neurosci Conscious* niaf037, doi:10.1093/nc/niaf037: onset ignition 200–800 ms validated, clearly-visible-stimuli design, offset ignition not a core prediction) — import a two-sentence summary and link. (b) L144 "Current stimulation evokes experiences within the subject's existing repertoire" vs [[palette-extension-void]] L50 on Fong et al. 2025 (*Sci Adv*, doi:10.1126/sciadv.adu1052, retinal Oz out-of-gamut colour) — recast the "new colour" falsifier to require cortical stimulation and acknowledge the retinal result (the reviewer mislocated the Map's coverage in observation-and-measurement-void; it is palette-extension-void). (c) L160 vs [[conscious-vs-unconscious-processing]] L185–193, which says the dissociations leave the accompaniment reading intact and "the evidence doesn't distinguish these interpretations" — align the NCC sentence to that calibration. Length-neutral: trade words within the same paragraphs.
+- **Review file**: `reviews/outer-review-2026-10-01-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-10-01
+
+### P2: Replace the bare seeming-regress in neural-correlates-of-consciousness's illusionism section and add the Type-B reply to the opacity-supports-dualism inference
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/neural-correlates-of-consciousness.md
+- **Notes**: From outer review 2026-10-01 §5.2/§6/§9.1, verified: L126 runs the bare regress (the *seeming* must be either phenomenal or need explaining) plus "As Raymond Tallis notes, illusions presuppose experience", while [[illusionism]] L91 already says the bare regress assumes the very phenomenal seeming illusionism denies and presents Frankish's functional-seeming / quasi-phenomenal reply as the strongest defence — the survey must match its specialist child. L156 "This persistent opacity supports Dualism" names only the Type-A reply; grep finds no "Type-B" or "phenomenal concept" — add the phenomenal-concept-strategy reply (ontological identity with permanent conceptual opacity) so the opacity inference is argued, and note Levine 1983 resisted the ontological inference. Apply the direct-refutation discipline. Identify what kind of engagement the issue calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft / deep-review changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Length-neutral: condense the Tallis sentence and the regress fork to fund the additions.
+- **Review file**: `reviews/outer-review-2026-10-01-chatgpt-5-6-sol-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-10-01
+
+
 ## Completed Tasks
 
 

@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T03:40:00+00:00
+ai_modified: 2026-10-01T03:59:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T03:59:10+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (slug `gpt-5-6-sol-pro`), subject `recent` — [[concepts/neural-correlates-of-consciousness]]
+- **File**: [[reviews/outer-review-2026-10-01-chatgpt-5-6-sol-pro]]
+- **Claims verified**: 12 confirmed, 4 disputed/imprecise (no "July deep review" of the article exists — the NCC deep reviews are 2026-03-26/27 and "honest falsifiability conditions" appears in none; out-of-gamut coverage is in palette-extension-void, not observation-and-measurement-void; the Many-Worlds and "intelligible" blockquotes are the reviewer's condensations, not Map text), 2 unverified. Six reviewer-supplied external cites resolved at Crossref/PubMed; the SEP "Interactionism actually predicts…" quote resolved NEGATIVE at the live entry (0 hits for four fragments across 160 KB)
+- **High-value findings**: 5 (unrecoverable SEP quote at L81; categorical V4 claim at L59; stale 15% CMD figure at L117 vs Bodien 2024 NEJM 25%; bare illusionist regress at L126 contradicted by the illusionism article; missing Naccache 2025 GNWT reply already present in the GWT article)
+- **Tasks generated**: 4 (P1: 1, P2: 3) — inserted above `## Completed Tasks`; parse_tasks active count 23 → 27 (first attempt passed a path instead of content and read 5 → 5; recomputed on content)
+- **Links**: `normalize_review_links.py` run; 18 inline Map URLs converted to wikilinks (remaining unfinishablemap.org URLs are in the prompt text)
+- **Review frontmatter**: `outer_review_status: processed`, `## Verification Notes` appended, topics/concepts/description populated; provenance fields preserved
+- **Telegram**: not sent (live-channel step suppressed by driver brief)
+- **Published**: synced to Hugo; no commit
+- **Model**: claude-fable-5-1
+
+## 2026-10-01T03:54:10+00:00 - collect-chatgpt-review
+- **Status**: Success
+- **Target**: [[reviews/outer-review-2026-10-01-chatgpt-5-6-sol-pro]] — subject `recent` ("Audit neural-correlates-of-consciousness", article [[concepts/neural-correlates-of-consciousness]], source `fallback:recent-aged`)
+- **Conversation**: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6abdc0c2-928c-83ed-aa60-2c17c685649c — commissioned 2026-10-01T02:10:04Z, collected at age ~103 min (collect_attempts 0 → entry marked `collected`)
+- **Readiness**: no `[data-testid="stop-button"]`, 0 `.result-streaming`, 2 `[class*="MarkdownRoot"]` (last taken), 1 `[data-turn-key]`; `[data-message-author-role]` and `#prompt-textarea` both absent on this profile (composer is `div.ProseMirror`), as expected since 2026-09-27. Final paragraph is item 30 of the "Changes to the site's methodology" list — a real conclusion, confirmed in a screenshot of the scrolled-to-end page with the post-response action bar visible
+- **Extraction**: js-dom walk of the last MarkdownRoot → Blob download (`~/Downloads/collect-chatgpt-2026-10-01.md`); SHA-256 `8ec538eeee47d13a1b52271e780f34dffde385c0b25beeade6a7ff454a01c11a` identical on page and on disk; 50,164 bytes / 49,740 chars, 506 lines. Prompt text taken from the pending entry (the user turn is not exposed in this DOM)
+- **Model**: `gpt-5-6-sol-pro`; review verdict "Reject in its present form"; 9 numbered sections plus a 30-item improvements list (20 article-specific, 10 methodology)
+- **Next**: outer-review processing invoked inline on the file
+- **Published**: review file synced to Hugo; no commit
+- **Model (this skill)**: claude-fable-5-1
 
 ## 2026-10-01T03:40:00+00:00 - commission-claude-review
 - **Status**: Success
