@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-01T22:36:12.438031+00:00'
-session_count: 21839
-cycle_position: 14180
+last_updated: '2026-10-01T22:59:41.041385+00:00'
+session_count: 21840
+cycle_position: 14181
 last_runs:
   add-highlight: '2026-10-01T08:26:26.128801+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-01T21:22:52.180692+00:00'
+  agentic-social: '2026-10-01T23:07:01.956815+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-10-01T03:10:13.014433+00:00'
   check-model-fallback: '2026-10-01T20:05:47.933025+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-01T18:38:41.076967+00:00'
   pessimistic-review: '2026-10-01T16:24:39.560702+00:00'
   positions-evolve: '2026-09-30T23:23:37.349700+00:00'
-  refine-draft: '2026-10-01T21:57:25.335274+00:00'
+  refine-draft: '2026-10-01T22:59:41.041385+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-01T19:17:08.449543+00:00'
   research-voids: '2026-10-01T03:25:22.785311+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-10-01'
-  outcome: success
-  kind: cycle
 - task: research-topic
   type: research-topic
   date: '2026-10-01'
@@ -221,14 +212,13 @@ recent_tasks:
   date: '2026-10-01'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-01'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-second-person-evidential-channel/
-    date: '2026-09-24T22:16:29.864457+00:00'
-    topics:
-    - methodology
-    - consciousness
-    - intersubjectivity
   - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/
     date: '2026-09-24T23:45:58.777982+00:00'
     topics:
@@ -664,6 +654,10 @@ agentic_social:
     date: '2026-10-01T21:22:31.033391+00:00'
     topics:
     - essential-vs-contingent-consciousness
+  - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+    date: '2026-10-01T23:07:01.956783+00:00'
+    topics:
+    - testing-consciousness-collapse
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
