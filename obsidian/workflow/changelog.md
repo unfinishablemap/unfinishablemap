@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-09-30T23:22:13+00:00
+ai_modified: 2026-10-01T00:14:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T00:14:42+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Depersonalisation as the clinical datum for separable for-me-ness (todo.md P2, source research-harvest, from optimistic-2026-09-30-creation-wing "Depersonalisation (new concept page; harvester)")
+- **Output**: [[research/depersonalisation-2026-09-30]] (9729 body words)
+- **Verdict**: proceed — build `concepts/depersonalisation` (concepts 337/360 at 23:52Z); the six host sections restate the datum and `mine-ness`, the de facto host, is at 3,497/3,500. Two-tier result: architecture claim defensible at level 1 (separability) and contested at level 2 (Billon vs Zahavi), every rival supplies level 3; significance null — Tenet 1 *compatible*, as mine-ness and cotard-delusion hold. Billon 2023 himself concludes mineness "can only be explained in purely neurophysiological ... terms".
+- **Sources consulted**: 42 citations; 11 full texts (Billon 2016/2017/2023/2024, Zahavi & Kriegel 2016, Ciaunica et al. 2021, Knappik 2022, Henriksen & Parnas 2019, Deane et al. 2020, Seth et al. 2012, SEP), 11 abstracts, 20 metadata-only; 37 Crossref records, 17 PubMed lookups. HAL/Springer/Wiley/OUP/PhilPapers blocked; Wayback copies used for the Billon and Zahavi–Kriegel texts.
+- **Citation resolutions**: Billon 2023 = OUP *Self-Experience* chapter (pp. 314–342); Billon 2024 = *Metaphilosophy* 55(1): 3–30 — two works, not an online/print pair. Ciaunica, Charlton & Farmer = *PCS* 20(1): 1–19, online 2020 / issue 2021 — the corpus range "823-842" (mine-ness L176, ownership-void research note, 2026-07-22 Gemini review) is wrong. Hunter, Sierra & David 2004 author order per PubMed (Crossref mis-orders). "Sass & Pienkos 2013" has four authors; its "behind glass"/"two-dimensional" attributions in phenomenal-quality-void are unverified.
+- **Corpus defects to carry into the article**: mine-ness L72 quote drops "my" (Billon 2023: "marks my experiences as mine"); phenomenal-quality-void L96 presents Billon 2024's delusion-or-insight question as open where the paper rejects the insight reading; necessary-opacity L82 "I know I am me" is unsourced; clinical-phenomenology L109 lists Billon 2016's three characters unattributed.
+- **todo.md**: untouched (orchestrator marks). **Sync**: run.
+- **Model**: claude-fable-5-1
 
 ## 2026-09-30T23:22:13+00:00 - positions-evolve
 - **Status**: Success
