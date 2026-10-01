@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T20:38:55+00:00
+ai_modified: 2026-10-01T20:56:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T20:56:54+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Cross-review thought insertion A: make the corpus's double-dissociation claim reading-dependent (todo P2; run as refine-draft, no cross-review skill)
+- **Files**: [[topics/consciousness-and-the-ownership-problem]]; [[project/architecture-vs-significance-two-tier-discount]]; [[research/depersonalisation-2026-09-30]]
+- **Word counts** (`analyze_length`, before → after): consciousness-and-the-ownership-problem 2,951 → 3,189 (+238: ~158 prose, ~76 for four new References; topics soft 3,000 / hard 4,000); architecture-vs-significance-two-tier-discount 3,328 → 3,376 (+48; project/ has no length gate); depersonalisation-2026-09-30 9,631 → 9,764 (+133; research/ is ungated)
+- **Changes**: (1) Ownership-problem L60: the "dissociate clinically in both directions" sentence now opens "On the agency reading of schizophrenic thought insertion"; a new paragraph after it states that the thought-insertion limb holds only on that reading, one of five, citing Martin & Pacherie 2013, Billon 2013, Ratcliffe & Wilkinson 2015 and Guillot 2017 as the thought-insertion page cites them (Guillot's split framed as dividing what the article calls mine-ness into for-me-ness and mineness; both conditions keep the first, lose the second, differ in me-ness). Reciprocal sentence carries the article's single [[concepts/thought-insertion]] link (moved, not duplicated). One sentence keeps the ownership/agency distinction independent of the case: OCD intrusions lack felt agency yet are owned (Billon 2013, p. 296). No "four of five" count asserted. Four References added. (2) Two-tier L67: "The double dissociation is robust" replaced; the thought-insertion limb now reads "on the agency reading (Gallagher), contested by ownership-loss readings (Martin and Pacherie 2013; Guillot 2017)" and states what follows (separability from content gains; separability from agency rests on the agency reading); piped link on the first "Thought insertion". (3) Depersonalisation note L207 rewritten (Billon 2013 defends consciousness-entails-subjectivity; inserted thoughts lack subjectivity and phenomenality, pp. 294, 306) with a dated **Correction (2026-10-01)** bullet; the 2013 Historical Timeline row carried the same error ("Consciousness without subjectivity") and is corrected in the same pass.
+- **Two-tier verdict**: the discipline's argument goes through; the mine-ness exhibit goes through narrowed. Separability from phenomenal content stays architecture-tier (depersonalisation, plus thought insertion on the ownership-loss readings). Separability from agency is now reading-dependent and no longer earns the smaller discount on this evidence, but the exhibit's opening clause ("independently of phenomenal content and of the sense of agency") still asserts it. Left in place per brief (no restructure).
+- **Not touched**: falsifier wording on self-and-self-consciousness, self-opacity, cotard-delusion (task B); the ownership article's "What Would Challenge" L116–118; pre-existing "load-bearing" at two-tier L49/L89.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T20:38:55+00:00 - deep-review
 - **Status**: Success

@@ -1,9 +1,9 @@
 ---
 title: "Research Notes - Depersonalisation as the Clinical Datum for Separable For-Me-Ness"
 created: 2026-09-30
-modified: 2026-09-30
+modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-01T00:14:42+00:00
+ai_modified: 2026-10-01T20:55:47+00:00
 draft: false
 description: "Research note for a concepts/ home page on depersonalisation: what the six Map sections that restate it each assert, the resolved Billon and Ciaunica citations, and how the four rival readings map onto the architecture and significance tiers."
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[comparative-phenomenology-of-meditative-traditions]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-30
 last_curated: null
 ---
@@ -204,7 +204,8 @@ Billon (2013), "Does consciousness entail subjectivity? The puzzle of thought in
 
 ### (b) Billon: lack of subjective character / mineness
 - **Core claim**: experiences continue but lack the phenomenal feature that normally marks them as mine; the "as if" is a "mark of mere appearance"; the condition is non-delusional; the lack can be partial or global; mineness is "a feature of the mode rather than the content".
-- **What "no-subject" means here**: the experience lacks subjective *character*; the subject remains and reports ("make the subject feel as if he is not an 'I'"). Billon's 2013 thought-insertion paper is where he argues consciousness does not entail subjectivity; the 2016/2023 depersonalisation work argues the same for mineness. He is not claiming subjectless experiences float free.
+- **What "no-subject" means here**: the experience lacks subjective *character*; the subject remains and reports ("make the subject feel as if he is not an 'I'"). Billon's 2013 thought-insertion paper defends the principle that consciousness entails subjectivity: inserted thoughts, he argues, lack subjectivity *and* are not phenomenally conscious (Billon 2013, pp. 294, 306). The 2016/2023 depersonalisation work is where he holds that conscious experiences can lack mineness. He is not claiming subjectless experiences float free.
+- **Correction (2026-10-01)**: this entry previously said Billon's 2013 paper "is where he argues consciousness does not entail subjectivity". That reverses the paper, which this note held as metadata only. Read in full for the `research/thought-insertion-2026-10-01` note, it saves the "Cartesian principle" ("If a thought is conscious then it is subjective", p. 293) by denying the inserted thought phenomenality as well as subjectivity (pp. 294, 306). The 2013 row of the Historical Timeline below carried the same error and is corrected with it. Henriksen and Parnas (2019, p. 10) list Billon 2013 among the counterexample authors, the probable source of the misreading; see [[thought-insertion]].
 - **Relation to the two tiers**: the architecture claim at its strongest; the significance claim explicitly closed by Billon himself ("purely neurophysiological ... terms"). Source-role: supporting at levels 1–2, recruited-by at level 4.
 
 ### (c) Active-inference / interoceptive: attenuated self-modelling
@@ -265,7 +266,7 @@ Billon (2013), "Does consciousness entail subjectivity? The puzzle of thought in
 | 2006 / 2009 | Simeon and Abugel; Sierra | The two monographs |
 | 2011 | Sierra and David | Anterior-insula suppressive model |
 | 2012 | Seth, Suzuki and Critchley; Medford; Colombetti and Ratcliffe | Interoceptive presence model; the *Emotion Review* pair |
-| 2013 | Billon, *Phil. Psych.*; Sass, Pienkos, Nelson and Medford | Consciousness without subjectivity (thought insertion); DP vs schizophrenia ipseity comparison |
+| 2013 | Billon, *Phil. Psych.*; Sass, Pienkos, Nelson and Medford | Inserted thoughts neither subjective nor phenomenally conscious, so consciousness still entails subjectivity (thought insertion; corrected 2026-10-01); DP vs schizophrenia ipseity comparison |
 | 2016 | Billon, *Mind & Language*; Zahavi and Kriegel | The three characters; the universalist statement |
 | 2017 | Billon, *EJP*; Guillot; Howell and Thompson | Basic self-awareness; the mineness/for-me-ness/me-ishness distinctions; the sceptics |
 | 2018–2019 | Gerrans, *RPP*; Zahavi reply; Henriksen and Parnas | Affect-first predictive model; universalist replies to the pathology counterexamples |

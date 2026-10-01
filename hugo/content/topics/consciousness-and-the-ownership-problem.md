@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-01 19:48:28+00:00
+ai_modified: 2026-10-01 20:55:47+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[mine-ness]]'
 created: 2026-02-09
-date: &id001 2026-06-21
+date: &id001 2026-10-01
 description: Why does experience belong to anyone? The ownership problem asks what
   makes conscious states mine rather than free-floating—a question physicalism cannot
   answer.
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:45:39+00:00
-lastmod: 2026-10-01 19:48:28+00:00
+lastmod: 2026-10-01 20:55:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,9 @@ Three features make the ownership problem distinctive:
 
 **It is not the self problem.** The [minimal self](/concepts/self-and-self-consciousness/)—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
 
-**It is not the agency problem.** Shaun Gallagher (2000; with Zahavi 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [mine-ness layer](/concepts/mine-ness/) is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. They dissociate clinically in both directions: schizophrenic [thought insertion](/concepts/thought-insertion/) preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else); depersonalisation can disrupt mine-ness while leaving agency intact. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
+**It is not the agency problem.** Shaun Gallagher (2000; with Zahavi 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [mine-ness layer](/concepts/mine-ness/) is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. On the agency reading of schizophrenic thought insertion, the two dissociate clinically in both directions: thought insertion preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else); depersonalisation can disrupt mine-ness while leaving agency intact. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
+
+The thought-insertion limb of that dissociation holds only on the agency reading, one of five in the literature. Ownership-loss readings make the failure of ownership primary and the agency loss its consequence (Martin and Pacherie 2013); Billon (2013) argues that the inserted thought lacks subjectivity and is not phenomenally conscious either; Ratcliffe and Wilkinson (2015) find that "the agency/ownership distinction is unhelpful here"; and on Marie Guillot's (2017) split of what this article calls mine-ness into *for-me-ness*, an experience's first-personal givenness, and *mineness*, its presenting as one's own, both conditions keep the first and lose the second, differing instead in *me-ness*. [The Map's page on thought insertion](/concepts/thought-insertion/) sets out the five readings and argues that none of them describes a conscious thought stripped of first-personal givenness. The distinction between the two layers survives without the case, since obsessional intrusions arrive without felt agency yet patients acknowledge them as their own (Billon 2013, p. 296).
 
 ## Why Physicalism Struggles
 
@@ -169,3 +171,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 1. Sass, L. & Parnas, J. (2003). "Schizophrenia, Consciousness, and the Self." *Schizophrenia Bulletin*, 29(3), 427-444.
 1. Parnas, J., et al. (2005). "EASE: Examination of Anomalous Self-Experience." *Psychopathology*, 38(5), 236-258.
+1. Billon, A. (2013). "Does Consciousness Entail Subjectivity? The Puzzle of Thought Insertion." *Philosophical Psychology*, 26(2), 291-314.
+1. Guillot, M. (2017). "I Me Mine: On a Confusion Concerning the Subjective Character of Experience." *Review of Philosophy and Psychology*, 8(1), 23-53.
+1. Martin, J.-R. & Pacherie, E. (2013). "Out of Nowhere: Thought Insertion, Ownership and Context-Integration." *Consciousness and Cognition*, 22(1), 111-122.
+1. Ratcliffe, M. & Wilkinson, S. (2015). "Thought Insertion Clarified." *Journal of Consciousness Studies*, 22(11-12), 246-269.

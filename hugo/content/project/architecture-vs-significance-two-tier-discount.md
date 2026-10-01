@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-08-01 15:39:59+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-01 20:55:47+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-05-25
-date: &id001 2026-05-25
+date: &id001 2026-10-01
 description: 'A human-AI methodology page naming the two-tier discount: an architectural
   finding inherits a smaller framework-dependence discount than the significance the
   framework reads into it. Iterative calibration toward truth.'
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-25 13:30:00+00:00
-lastmod: 2026-08-01 15:39:59+00:00
+lastmod: 2026-10-01 20:55:47+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -68,7 +68,7 @@ The **significance-tier** claim is the Map's reading: that the inversion indicat
 
 ### Mine-ness: Separability vs. Significance for Dualism
 
-The **architecture-tier** finding is the *separability* of mine-ness — the for-me character of experience can vary independently of phenomenal content and of the sense of agency. The double dissociation is robust: depersonalisation disorder preserves content while degrading ownership (Billon; Ciaunica), thought insertion preserves ownership while disrupting agency (Gallagher). That the for-me tag is a *separable* phenomenal feature rather than identical to the bare having of experience survives translation into Metzinger's self-model framework, into predictive-processing accounts, and into the Map's vocabulary alike. Smaller discount — and the [Knappik caveat](/concepts/mine-ness/#empirical-caveat) (mine-ness may be plural rather than a single global feature) operates *within* the architecture tier without dislodging separability.
+The **architecture-tier** finding is the *separability* of mine-ness — the for-me character of experience can vary independently of phenomenal content and of the sense of agency. Depersonalisation disorder preserves content while degrading ownership (Billon; Ciaunica). [Thought insertion](/concepts/thought-insertion/) preserves ownership while disrupting agency on the agency reading (Gallagher), contested by ownership-loss readings (Martin and Pacherie 2013; Guillot 2017), so that limb of the double dissociation is reading-dependent: on the ownership-loss readings thought insertion degrades ownership with content kept, which adds to the case for separability from content but leaves separability from agency resting on the agency reading. That the for-me tag is a *separable* phenomenal feature rather than identical to the bare having of experience survives translation into Metzinger's self-model framework, into predictive-processing accounts, and into the Map's vocabulary alike. Smaller discount — and the [Knappik caveat](/concepts/mine-ness/#empirical-caveat) (mine-ness may be plural rather than a single global feature) operates *within* the architecture tier without dislodging separability.
 
 The **significance-tier** claim is what the Map reads separability as evidence *for*: that a feature so cleanly dissociable from content points to a subject-pole not reducible to the functional organisation of content-processing — a dualist-friendly reading. That significance is framework-shaped. A Metzingerian grants the separability and reads it as a fact about the phenomenal self-model's architecture, with no dualist consequence. The larger discount on the significance tier is what keeps mine-ness's robust separability finding from being cited as though it had itself established the dualist conclusion.
 
