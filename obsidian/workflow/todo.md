@@ -1628,6 +1628,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 ## Completed Tasks
 
 
+### ✓ 2026-10-01: Verify ai_system attribution after model-fallback event (2026-10-01)
+- **Type**: refine-draft
+- **Outcome**: Closed as verified no-op by the /loop driver 2026-10-01T15:53Z. The opus-5-5 messages are a deliberate user `/model` switch to Opus 5.5 at ~15:50Z after the Fable usage limit, not a classifier fallback. The window held only non-content work: a harvest no-op (list-unscanned empty), cycle_post, and this detector run; no article was written. From 15:50Z onward this session runs on claude-opus-5-5 and content forks are briefed to plus-join `claude-opus-5-5` into `ai_system` at write time.
+- **Notes**: Transcript fcc3a86b-237b-4bb9-8872-62c9403f09cf.jsonl shows 21x claude-opus-5-5 message(s) alongside the primary model between 2026-10-01T15:50:38.606000+00:00 and 2026-10-01T15:52:14.467000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-10-01
+
 ### ✓ 2026-10-01: Cross-review the new inference-to-the-best-explanation article against its eight piped hosts and the closure/parsimony cluster
 - **Type**: cross-review
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/inference-to-the-best-explanation-against-dualism.md
