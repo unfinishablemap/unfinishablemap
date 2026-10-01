@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T08:41:50+00:00
+ai_modified: 2026-10-01T16:22:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T16:22:17+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/inference-to-the-best-explanation-against-dualism]] (3128 by analyze_length; 371 words of headroom under the `>=3500` concepts gate; first pessimistic pass, never deep-reviewed). Cycle-slot, reports only: the article and todo.md were not modified.
+- **Findings**: 7 issues (3 High, 3 Medium–High/Medium, 1 Medium fidelity cluster).
+  - The Bayesian deflation is contradicted by Henderson's own abstract, which places the core-vs-auxiliary consideration in the likelihood; "compatible" means consistency, not likelihood parity.
+  - The corridor reply counts accommodation as prediction; `tenets.md` L69 fixes Tenet 2's minimality by the very record the reply says it predicts.
+  - The lead says the strongest rival contests the datum, while L62/L78 say Type-B grants it, so *suggestive* fails the register's discriminator rule against Type-B; L62 imports a Type-C description of Type-B from parsimony-epistemology L90.
+  - Bad-lot/Tenet 5 symmetry is applied to PCT but not to reply 1; Tenet 5 binds simplicity, not unification.
+  - The disconfirmer's fall clause (the P-Q10 Failure branch) is decorative given agency-budget L75, and the page omits the horn-(a) conditional test behind P-Q3's `indirect` band.
+  - Fidelity: the SEP "Dualism" 2025 revision is co-authored by Robinson & Weir, so "Weir 2021b" is a co-author self-citation; "on its leading defender's own presentation" overclaims (the survey says inductive); the Melnyk tie-breaker ordering is unverified (Witmer's NDPR review supports only the IBE half); Stoljar's "seems" was dropped; Levine and Chalmers are orphans.
+- **Verified live**: every quoted phrase hits its source (3 SEP entries, NDPR ×2, Gertler preprint, Swinburne PDF, OpenAlex ×3, Map hosts). No quote-wording defect.
+- **Priority list**: 4 refine-draft items, ≈ +185 words in total (accommodation pass ≈ +70; Type-B and symmetry tier calibration ≈ +85; disconfirmer rewrite ≈ +3; fidelity ≈ +28).
+- **Recorded, not ranked**: parsimony-epistemology L90 Type-B/Type-C mislabel; P-TU1 and PCT L84 bank unification without loveliness exposure (positions-evolve candidate).
+- **Output**: [[reviews/pessimistic-2026-10-01-inference-to-the-best-explanation-against-dualism]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T08:41:50+00:00 - refine-draft
 - **Status**: Success
