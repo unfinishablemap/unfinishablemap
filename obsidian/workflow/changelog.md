@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T01:00:04+00:00
+ai_modified: 2026-10-01T01:10:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T01:10:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mine-ness]] (primary); [[voids/phenomenal-quality-void]], [[voids/necessary-opacity]], [[topics/clinical-phenomenology-and-altered-experience]] (secondary)
+- **Task**: todo.md P2 "Depersonalisation host defects found by the 2026-09-30 research note" — five citation / quote-fidelity defects across four hosts; source [[research/depersonalisation-2026-09-30]] ("Other corpus defects found", Key Sources for Billon 2016/2023/2024, Ciaunica et al. 2021, Sass et al. 2013)
+- **Original score**: not run (targeted fidelity pass; `scripts/curate.py` absent)
+- **Changes**: (1) mine-ness L176 Ciaunica, Charlton & Farmer: `20, 823-842` → `20(1), 1–19` + DOI 10.1007/s11097-020-09677-z (Crossref-confirmed live: vol 20, issue 1, pp 1–19, online 2020-06-06); only live host carrying 823 — corpus grep confirmed. (2) mine-ness L72 Billon quotation: "marks experiences as mine" → "marks my experiences as mine" (matches the Billon 2023 chapter and Billon 2016, both grep-verified in the research note); paid for by dropping "careful" in the same sentence — 3496 → 3496. (3) phenomenal-quality-void L96: Billon 2024 now reported as answering against the insight reading ("The intuition of reality is correct ... an intuition of substantiality"), with the Map's narrower residue stated as its own; "behind glass" / "two-dimensional" converted to unquoted paraphrase marked as the Map's gloss of the patient-report literature (Sass et al. 2013 body unverified — ScienceDirect 403, not OA per Unpaywall, not in Europe PMC); inline "Sass and Pienkos, 2013" → "Sass et al. (2013)"; References L170 now lists Sass, Pienkos, Nelson & Medford with full title (Crossref-confirmed four authors, 22(2), 430–441). (4) necessary-opacity L82: unsourced quotation "I know I am me" converted to unquoted paraphrase ("retaining the insight that they are nonetheless themselves") — 0 hits for "I am me" and 0 for "insight" in the Ciaunica 2021 full text (Wayback copy of the Springer OA PDF, 10,605 words; control "cracks" 13 hits); "pathology, not liberation" softened to "the clinical result is loss rather than liberation" (+3 words, within the ≤5 budget); its References L196 Ciaunica entry completed to 2021, 20(1), 1–19 (online 2020). (5) clinical-phenomenology L109: the three-feature list now carries "(Billon 2016)" inline and the References gain entry 16, Billon (2016) *Mind & Language* 31(3), 356–391 (Crossref-confirmed via DOI 10.1111/mila.12110).
+- **Lengths** (analyze_length, before → after): mine-ness 3496 → 3496 (gate 3,500); phenomenal-quality-void 2339 → 2425; necessary-opacity 2657 → 2664; clinical-phenomenology 3538 → 3561 (gate 4,000)
+- **Sibling greps** (edited hosts, all 0): "823", "marks experiences as mine", "Sass and Pienkos", "delusion or an insight", "I know I am me"
+- **Not changed**: research note and 2026-07-22 Gemini review still carry 823–842 by design; phenomenal-quality-void's patient phrase "I know it's real but it doesn't feel real" (unflagged by the task; the note accepts it as the DSM-5 Criterion B point); mine-ness L72's unattributed "behind glass" (outside the task, and the host has four words of headroom)
+- **Published**: yes (sync run after this entry)
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T01:00:04+00:00 - expand-topic
 - **Status**: Success

@@ -5,7 +5,7 @@ created: 2026-01-27
 modified: 2026-10-01
 human_modified:
  null
-ai_modified: 2026-10-01T01:00:04+00:00
+ai_modified: 2026-10-01T01:09:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[agency-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-03-28
 last_curated: null
 last_deep_review: 2026-07-06T15:30:56+00:00
@@ -79,7 +79,7 @@ If phenomenal transparency is functionally necessary, what happens when it fails
 
 ### Depersonalisation
 
-In [[depersonalisation|depersonalisation disorder]], the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while maintaining insight ("I know I am me"). The transparency has cracked, and the result is pathology, not liberation. The opacity serves function. The datum's diagnostic structure and its four rival readings are stated once at [[depersonalisation]].
+In [[depersonalisation|depersonalisation disorder]], the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while retaining the insight that they are nonetheless themselves. The transparency has cracked, and the clinical result is loss rather than liberation. The opacity serves function. The datum's diagnostic structure and its four rival readings are stated once at [[depersonalisation]].
 
 ### Psychedelic Evidence
 
@@ -193,7 +193,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 9. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 10. Nagel, Thomas. *The View from Nowhere*. New York: Oxford University Press, 1986.
 11. Sellars, Wilfrid. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* 1 (1956): 253–329.
-12. Ciaunica, A., Charlton, J., & Farmer, H. (2020). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*. https://doi.org/10.1007/s11097-020-09677-z
+12. Ciaunica, A., Charlton, J., & Farmer, H. (2021). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*, 20(1), 1–19 (online 2020). https://doi.org/10.1007/s11097-020-09677-z
 13. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 14. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Acta Biotheoretica*, 69(3), 319-341.
 15. Berke, M. D., Walter-Terrill, R., Jara-Ettinger, J., & Scholl, B. J. (2022). Flexible Goals Require that Inflexible Perceptual Systems Produce Veridical Representations: Implications for Realism as Revealed by Evolutionary Simulations. *Cognitive Science*, 46(10), e13195.

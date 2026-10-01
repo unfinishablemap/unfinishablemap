@@ -4,7 +4,7 @@ description: "Consciousness stamps all experience—whether of present objects o
 created: 2026-02-24
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-01T01:00:04+00:00
+ai_modified: 2026-10-01T01:09:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[plenitude-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-04-05
 last_curated:
 last_deep_review: 2026-06-26T10:37:04+00:00
@@ -93,7 +93,7 @@ There may be a principled reason for the concealment. If each perception carried
 
 ### Depersonalization and Derealization
 
-[[depersonalisation|Depersonalization patients]] report the world appears "behind glass," "two-dimensional" (Sass and Pienkos, 2013). Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) raises whether depersonalization represents a delusion or an insight — were these patients malfunctioning, or seeing through the reality-stamp to something normally concealed? The clinical datum, its four rival readings and the Map's two-tier verdict are stated once at [[depersonalisation]].
+[[depersonalisation|Depersonalization patients]] report the world as if seen behind glass or flattened to two dimensions — the Map's gloss of the patient-report literature that Sass et al. (2013) compare across depersonalization and schizophrenia. Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) asks whether depersonalization is delusion or insight — whether these patients are malfunctioning or seeing through the reality-stamp to something normally concealed — and answers against the insight reading: the ordinary intuition of reality is correct, an intuition of substantiality, and depersonalization is the loss of it rather than a glimpse behind it. What the Map keeps from the exchange is narrower than Billon's substantiality thesis: a reality-stamp that can withdraw while belief stands is a distinct phenomenal quality, whatever it tracks. The clinical datum, its four rival readings and the Map's two-tier verdict are stated once at [[depersonalisation]].
 
 ### Dreams
 
@@ -167,7 +167,7 @@ The phenomenal quality void thesis would require revision if: (1) techniques eme
 7. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective.* Cambridge, MA: MIT Press.
 8. Ratcliffe, M. (2008). *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*. Oxford University Press.
 9. Farennikova, A. (2013). Seeing absence. *Philosophical Studies*, 166(3), 429–454.
-10. Sass, L. & Pienkos, E. (2013). "Anomalous Self-Experience in Depersonalization and Schizophrenia." *Consciousness and Cognition*, 22(2), 430-441.
+10. Sass, L., Pienkos, E., Nelson, B., & Medford, N. (2013). "Anomalous Self-Experience in Depersonalization and Schizophrenia: A Comparative Investigation." *Consciousness and Cognition*, 22(2), 430–441.
 11. Cavedon-Taylor, D. (2017). Touching Voids: On the Varieties of Absence Perception. *Review of Philosophy and Psychology*, 8(2), 355–366.
 12. Limanowski, J. & Friston, K. (2018). "'Seeing the Dark': Grounding Phenomenal Transparency and Opacity in Precision Estimation for Active Inference." *Frontiers in Psychology*, 9, 643.
 13. Lao-Rodríguez, A. B., Przewrocki, K., Perez-Gonzalez, D., Alishbayli, A., Yilmaz, E., Malmierca, M. S., & Englitz, B. (2023). Neuronal responses to omitted tones in the auditory brain. *Science Advances*, 9, eabq8657.

@@ -4,7 +4,7 @@ description: "Clinical phenomenology uses psychiatric disruption as natural expe
 created: 2026-03-03
 modified: 2026-10-01
 human_modified: null
-ai_modified: 2026-10-01T01:00:04+00:00
+ai_modified: 2026-10-01T01:09:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ The philosophical significance is substantial. Our sense of the future as open a
 
 [[depersonalisation|Depersonalization/derealisation disorder]] (DPD) provides a particularly clean philosophical demonstration. Patients maintain insight—they know their experience is altered—which makes their reports especially reliable as phenomenological data. The diagnostic criteria and the four rival readings of what is lost are stated once at [[depersonalisation]].
 
-DPD is consistent with normal experience having at least three global features that can be independently disrupted:
+DPD is consistent with normal experience having at least three global features that can be independently disrupted (Billon 2016):
 
 - **Mineness**: the sense that experiences belong to the subject
 - **Actuality**: the sense that the experienced world is real
@@ -204,3 +204,4 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 13. Vissia, E. M., Lawrence, A. J., Chalavi, S., Giesen, M. E., Draijer, N., Nijenhuis, E. R. S., Aleman, A., Veltman, D. J., & Reinders, A. A. T. S. (2022). Dissociative identity state-dependent working memory in dissociative identity disorder. *BJPsych Open*, 8(3), e82.
 14. Raballo, A., Henriksen, M. G., Poletti, M., & Parnas, J. (2025). Schizophrenia, Consciousness, and the Self — Twenty Years Later. *Schizophrenia Bulletin*, 51(5), 1187–1192.
 15. Sass, L. & Parnas, J. (2007). Explaining Schizophrenia: The Relevance of Phenomenology. In M. C. Chung, K. W. M. Fulford, & G. Graham (Eds.), *Reconceiving Schizophrenia* (pp. 63–96). Oxford University Press.
+16. Billon, A. (2016). Making Sense of the Cotard Syndrome: Insights from the Study of Depersonalisation. *Mind & Language*, 31(3), 356–391.

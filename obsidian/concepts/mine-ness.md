@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-02-24
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-01T01:00:04+00:00
+ai_modified: 2026-10-01T01:09:51+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -38,7 +38,7 @@ related_articles:
   - "[[interoceptive-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-05-19
 last_curated:
 coalesced_from:
@@ -69,7 +69,7 @@ The case for treating mine-ness as a distinct feature rests on its **dissociabil
 
 ### Depersonalisation Disorder
 
-[[depersonalisation|Depersonalisation disorder]] (DPD) is the central piece of evidence. Patients report that experience continues—they see, hear, think, and act—but the experiences feel as though they are happening "behind glass" or to someone else. Alexandre Billon's careful phenomenological work characterises DPD as "the lack of a phenomenal feature that marks experiences as mine." The crucial observation: phenomenal content is preserved, but the for-me character is degraded.
+[[depersonalisation|Depersonalisation disorder]] (DPD) is the central piece of evidence. Patients report that experience continues—they see, hear, think, and act—but the experiences feel as though they are happening "behind glass" or to someone else. Alexandre Billon's phenomenological work characterises DPD as "the lack of a phenomenal feature that marks my experiences as mine." The crucial observation: phenomenal content is preserved, but the for-me character is degraded.
 
 If mine-ness were not separable, DPD would be impossible to describe. The patient could not say "my experiences feel as if they are not mine" because the experiences would either be theirs (in which case mine-ness is intact) or not (in which case they could not be reporting them as their own). The fact that DPD descriptions are coherent—that patients can both *have* the experiences and *report them as alienated*—is itself evidence that mine-ness is a feature distinct from the bare having of experience.
 
@@ -173,7 +173,7 @@ Predictive processing and self-model accounts give elegant, parsimonious explana
 ## References
 
 1. Billon, A. (2023). "What Is It Like to Lack Mineness? Depersonalization as a Probe for the Scope, Nature, and Role of Mineness." In *Self-Experience: Essays on Inner Awareness*. Oxford University Press.
-1. Ciaunica, A., Charlton, J., & Farmer, H. (2021). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*, 20, 823-842.
+1. Ciaunica, A., Charlton, J., & Farmer, H. (2021). "When the Window Cracks: Transparency and the Fractured Self in Depersonalisation." *Phenomenology and the Cognitive Sciences*, 20(1), 1–19. https://doi.org/10.1007/s11097-020-09677-z
 1. Deane, G., Miller, M., & Wilkinson, S. (2020). "Losing Ourselves: Active Inference, Depersonalization, and Meditation." *Frontiers in Psychology*, 11, 539726.
 1. Gallagher, S. (2000). "Philosophical Conceptions of the Self: Implications for Cognitive Science." *Trends in Cognitive Sciences*, 4(1), 14-21.
 1. Gallagher, S. (2012). "Multiple Aspects in the Sense of Agency." *New Ideas in Psychology*, 30(1), 15-31.
