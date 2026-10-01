@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 23:25:58+00:00
+ai_modified: 2026-10-01 23:40:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 23:25:58+00:00
+lastmod: 2026-10-01 23:40:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T23:40:52+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Covert-consciousness ledger batch C: filter-theory, active-reboot and IIT figure fixes (todo P2, MULTI-FILE)
+- **Files**: [filter-theory](/concepts/filter-theory/); [active-reboot](/concepts/active-reboot/); [integrated-information-theory](/concepts/integrated-information-theory/) (all three edited)
+- **Word counts** (`analyze_length`, before → after; concepts hard 3,500 `>=`): filter-theory 3,496 → 3,496 (0); active-reboot 3,196 → 3,308 (+112, of which 62 are the two new reference lines); IIT 3,438 → 3,495 (+57, of which 38 are two new reference lines)
+- **Source of truth**: [covert-consciousness-and-cognitive-motor-dissociation-2026-10-01](/research/covert-consciousness-and-cognitive-motor-dissociation-2026-10-01/) (Corpus Figures Ledger rows 7, 19, 20; "Qualitative overreads" IIT bullet) and [covert-consciousness-and-cognitive-motor-dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) `#the-numbers-and-their-denominators`, `#how-detection-fails`.
+- **Filter-theory (row 7)**: L117 "Around 15% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging—understanding language, following instructions, sustaining attention ... (Claassen et al. 2019; Owen et al. 2006). Consciousness persists; only its interface ... damaged" → "In an acute ICU cohort, 16 of 104 patients without observable command-following [piped to the denominators anchor] showed EEG activation to motor commands (Claassen et al. 2019; Owen et al. 2006 reported a single fMRI case)—a neural marker of probable consciousness that behaviour cannot express. On the filter reading only the motor interface is damaged ...". The 15% is now scoped to Claassen's cohort, Owen carries no percentage, and the persistence claim is attributed to the filter reading. Word-neutral (paragraph 84 → 84).
+- **Active-reboot (row 20)**: L85 Cruse et al. 2011 replaced as the support for covert command-following by Bodien et al. 2024 ("in a fraction of patients who show none at the bedside"); new sentence: Cruse 2011 "did not survive reanalysis [piped to `#how-detection-fails`], which found no patient's result significant under a corrected statistical model (Goldfine et al., 2013)". "What they do establish is that consciousness can persist" → "What these findings do indicate is that consciousness can persist ... (for the imaging cases, a probable inference from a neural marker)". Row 19 (Schnakers ~40%) untouched. Ref 13 Cruse issue 9805 → **9809** after Crossref check (10.1016/S0140-6736(11)61224-5: *Lancet* 378(9809), 2088–2094, Dec 2011), DOI added. New refs 19 Bodien 2024 (Crossref: NEJM 391(7) 598–608) and 20 Goldfine et al. 2013 (Crossref: *Lancet* 381(9863) 289–291). References are in citation order with no in-body numeric cites, so appending renumbers nothing.
+- **IIT (qualitative overread)**: L111 "cognitive motor dissociation, where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story" → "Disorders of consciousness fit this picture: the IIT-inspired perturbational complexity index is high in 9 of 43 vegetative patients (Casarotto et al., 2016), a rate \"consistent with the incidence of covert command-following\" (cognitive motor dissociation, a neural marker of probable consciousness; Aubinet et al., 2025). Patient-level overlap remains unsettled." Aubinet quote verified verbatim in the Europe PMC full text (PMC12677022), which also says "Ongoing experiments seek to clarify the overlap" (hence the last sentence). Casarotto and Aubinet added to References after Crossref checks (*Ann Neurol* 80(5) 718–729; *Brain* 148(12) 4248–4252). No other IIT-page line frames CMD as a tension.
+- **Engagements**: production accounts on filter-theory keep their parity clause (Mode Three: framework-boundary, non-discriminating). No other named-opponent replies changed.
+- **Checks**: no "This is not X. It is Y." variants, no "load-bearing". `ai_system` already carries claude-opus-5-5 on all three pages, so it is unchanged; `ai_modified` bumped from the real clock.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T23:25:58+00:00 - refine-draft
 - **Status**: Success

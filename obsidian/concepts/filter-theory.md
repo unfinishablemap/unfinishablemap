@@ -4,7 +4,7 @@ description: "Filter theory reads the brain as transmitting and constraining con
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-10-01T17:17:20+00:00
+ai_modified: 2026-10-01T23:40:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ Advanced meditation produces cessation events—voluntary states with full loss 
 
 ### Covert Consciousness
 
-[[covert-consciousness-and-cognitive-motor-dissociation|Around 15% of patients classified as behaviorally unresponsive]] show clear signs of consciousness via neuroimaging—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior (Claassen et al. 2019; Owen et al. 2006). Consciousness persists; only its interface with motor systems is damaged—a channel severed rather than a source extinguished, on the filter reading, though production accounts describe the same dissociation in their own terms. The [[consciousness-disruption-and-the-mind-brain-interface|full spectrum of disorders of consciousness]] tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
+In an acute ICU cohort, 16 of 104 patients [[covert-consciousness-and-cognitive-motor-dissociation#the-numbers-and-their-denominators|without observable command-following]] showed EEG activation to motor commands (Claassen et al. 2019; Owen et al. 2006 reported a single fMRI case)—a neural marker of probable consciousness that behaviour cannot express. On the filter reading only the motor interface is damaged—a channel severed rather than a source extinguished—though production accounts describe the same dissociation in their own terms. The [[consciousness-disruption-and-the-mind-brain-interface|full spectrum of disorders of consciousness]] tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
 
 ### Dreams
 

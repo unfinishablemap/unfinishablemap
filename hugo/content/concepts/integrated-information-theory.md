@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-01 17:17:20+00:00
+ai_modified: 2026-10-01 23:40:30+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 20:10:08+00:00
-lastmod: 2026-10-01 17:17:20+00:00
+lastmod: 2026-10-01 23:40:30+00:00
 modified: *id001
 related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
@@ -111,7 +111,7 @@ This has implications for the [binding problem](/concepts/binding-problem/). IIT
 
 ### What's Unconscious
 
-IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [Disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)—particularly [cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/), where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
+IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [Disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) fit this picture: the IIT-inspired perturbational complexity index is high in 9 of 43 vegetative patients (Casarotto et al., 2016), a rate "consistent with the incidence of covert command-following" ([cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/), a neural marker of probable consciousness; Aubinet et al., 2025). Patient-level overlap remains unsettled.
 
 ## The Controversy
 
@@ -241,3 +241,5 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. IIT-Concerned. (2025). What makes a theory of consciousness unscientific? *Nature Neuroscience*, 28, 689-693.
 1. Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.
+1. Casarotto, S., et al. (2016). Stratification of unresponsive patients by an independently validated index of brain complexity. *Annals of Neurology*, 80(5), 718-729. https://doi.org/10.1002/ana.24779
+1. Aubinet, C., et al. (2025). Covert consciousness: what's in a name? *Brain*, 148(12), 4248-4252. https://doi.org/10.1093/brain/awaf349

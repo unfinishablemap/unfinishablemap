@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-10-01T17:17:20+00:00
+ai_modified: 2026-10-01T23:40:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,7 +108,7 @@ This has implications for the [[binding-problem|binding problem]]. IIT claims to
 
 ### What's Unconscious
 
-IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]]—particularly [[covert-consciousness-and-cognitive-motor-dissociation|cognitive motor dissociation]], where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
+IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]] fit this picture: the IIT-inspired perturbational complexity index is high in 9 of 43 vegetative patients (Casarotto et al., 2016), a rate "consistent with the incidence of covert command-following" ([[covert-consciousness-and-cognitive-motor-dissociation|cognitive motor dissociation]], a neural marker of probable consciousness; Aubinet et al., 2025). Patient-level overlap remains unsettled.
 
 ## The Controversy
 
@@ -238,3 +238,5 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. IIT-Concerned. (2025). What makes a theory of consciousness unscientific? *Nature Neuroscience*, 28, 689-693.
 1. Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.
+1. Casarotto, S., et al. (2016). Stratification of unresponsive patients by an independently validated index of brain complexity. *Annals of Neurology*, 80(5), 718-729. https://doi.org/10.1002/ana.24779
+1. Aubinet, C., et al. (2025). Covert consciousness: what's in a name? *Brain*, 148(12), 4248-4252. https://doi.org/10.1093/brain/awaf349
