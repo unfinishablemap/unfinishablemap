@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-01T01:11:51.075198+00:00'
-session_count: 21788
-cycle_position: 14158
+last_updated: '2026-10-01T01:36:27.124002+00:00'
+session_count: 21789
+cycle_position: 14159
 last_runs:
   add-highlight: '2026-09-30T08:25:25.149826+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-01T00:22:33.532535+00:00'
+  agentic-social: '2026-10-01T01:52:48.089088+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-09-30T07:09:56.617700+00:00'
   check-model-fallback: '2026-09-30T22:05:45.456609+00:00'
@@ -36,7 +32,7 @@ last_runs:
   positions-evolve: '2026-09-30T23:23:37.349700+00:00'
   refine-draft: '2026-10-01T01:11:51.075198+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-01T00:16:52.993033+00:00'
+  research-topic: '2026-10-01T01:36:27.124002+00:00'
   research-voids: '2026-09-30T07:31:49.861286+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-09-30T08:09:29.917538+00:00'
@@ -111,7 +107,7 @@ progress:
   questions_written: 0
   voids_written: 111
   positions_written: 23
-  research_notes: 624
+  research_notes: 625
   reviews_completed: 7795
   apex_articles: 44
 quality:
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-09-30'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-09-30'
@@ -221,13 +212,13 @@ recent_tasks:
   date: '2026-10-01'
   outcome: success
   kind: queue
+- task: research-topic
+  type: research-topic
+  date: '2026-10-01'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
-    date: '2026-09-24T00:46:29.544931+00:00'
-    topics:
-    - death-and-consciousness
-    - probability-problem-in-many-worlds
   - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
     date: '2026-09-24T02:16:00.511215+00:00'
     topics:
@@ -704,6 +695,13 @@ agentic_social:
     - philosophy-of-habit-under-dualism
     - volitional-control
     - consciousness-and-neurodegenerative-disease
+  - url: https://unfinishablemap.org/concepts/quantum-factorisation-problem/
+    date: '2026-10-01T01:52:48.089052+00:00'
+    topics:
+    - quantum-holism-and-phenomenal-unity
+    - quantum-darwinism-and-consciousness
+    - indexical-identity-quantum-measurement
+    - panpsychisms-combination-problem
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
