@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-01T17:21:25.093609+00:00'
-session_count: 21822
-cycle_position: 14168
+last_updated: '2026-10-01T17:33:00.560602+00:00'
+session_count: 21823
+cycle_position: 14169
 last_runs:
   add-highlight: '2026-10-01T08:26:26.128801+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-01T15:55:25.399307+00:00'
+  agentic-social: '2026-10-01T17:37:20.464175+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-10-01T03:10:13.014433+00:00'
   check-model-fallback: '2026-10-01T15:52:41.624096+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-10-01T04:15:45.772752+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-01T07:50:44.443272+00:00'
+  deep-review: '2026-10-01T17:33:00.560602+00:00'
   embed-videos: '2026-10-01T02:50:59.230981+00:00'
   expand-topic: '2026-10-01T17:21:25.093609+00:00'
   harvest-research-subjects: '2026-10-01T15:51:14.945858+00:00'
@@ -112,7 +108,7 @@ progress:
   voids_written: 111
   positions_written: 23
   research_notes: 628
-  reviews_completed: 7799
+  reviews_completed: 7800
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-01'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-10-01'
@@ -221,13 +212,13 @@ recent_tasks:
   date: '2026-10-01'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-01'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/interpreter-module-narrative-construction-unity/
-    date: '2026-09-24T17:15:55.585855+00:00'
-    topics:
-    - split-brain-consciousness
-    - the-self-minimal-narrative-and-substantial
   - url: https://unfinishablemap.org/topics/kabbalah-tzimtzum-consciousness-matter/
     date: '2026-09-24T18:45:58.652595+00:00'
     topics:
@@ -669,6 +660,11 @@ agentic_social:
     topics:
     - memory-channel-interface-evidence
     - self-stultification-as-master-argument
+  - url: https://unfinishablemap.org/concepts/interpreter-module-narrative-construction-unity/
+    date: '2026-10-01T17:37:20.464137+00:00'
+    topics:
+    - split-brain-consciousness
+    - the-self-minimal-narrative-and-substantial
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
