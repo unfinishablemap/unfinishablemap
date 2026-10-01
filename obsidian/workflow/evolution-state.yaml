@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-01T18:38:41.076967+00:00'
-session_count: 21827
-cycle_position: 14172
+last_updated: '2026-10-01T19:17:08.449543+00:00'
+session_count: 21828
+cycle_position: 14173
 last_runs:
   add-highlight: '2026-10-01T08:26:26.128801+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-01T17:37:38.497471+00:00'
+  agentic-social: '2026-10-01T19:22:14.494125+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-10-01T03:10:13.014433+00:00'
   check-model-fallback: '2026-10-01T15:52:41.624096+00:00'
@@ -36,7 +32,7 @@ last_runs:
   positions-evolve: '2026-09-30T23:23:37.349700+00:00'
   refine-draft: '2026-10-01T18:09:47.825948+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-01T16:57:36.342456+00:00'
+  research-topic: '2026-10-01T19:17:08.449543+00:00'
   research-voids: '2026-10-01T03:25:22.785311+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-09-30T08:09:29.917538+00:00'
@@ -111,7 +107,7 @@ progress:
   questions_written: 0
   voids_written: 111
   positions_written: 23
-  research_notes: 628
+  research_notes: 629
   reviews_completed: 7801
   apex_articles: 44
 quality:
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-01'
-  outcome: success
-  kind: collect
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-01'
@@ -221,15 +212,13 @@ recent_tasks:
   date: '2026-10-01'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-10-01'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/kabbalah-tzimtzum-consciousness-matter/
-    date: '2026-09-24T18:45:58.652595+00:00'
-    topics:
-    - delegatory-dualism
-    - chinese-philosophy-of-mind
-    - indigenous-australian-philosophy-of-consciousness
-    - cross-traditional-convergence-on-consciousness-irreducibility
   - url: https://unfinishablemap.org/concepts/cessation-versus-plenitude/
     date: '2026-09-24T20:45:58.919520+00:00'
     topics:
@@ -669,6 +658,11 @@ agentic_social:
     topics:
     - split-brain-consciousness
     - the-self-minimal-narrative-and-substantial
+  - url: https://unfinishablemap.org/concepts/active-reboot/
+    date: '2026-10-01T19:22:14.494087+00:00'
+    topics:
+    - anaesthesia-and-the-consciousness-interface
+    - consciousness-disruption-and-the-mind-brain-interface
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
