@@ -1749,6 +1749,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-01
 - **Notes**: The note's Gaps section (~L246, "Unresolved reference") says SEP "Dualism" attributes the Lowe objection ("sacrificing simplicity for no gain in strength") to Weir 2021b but "the bibliography extraction returned only Weir 2021a". That is a false zero: SEP lists an author's later works under "–––" ditto marks, and the entry's bibliography does contain "–––, 2021b, 'Does idealism solve the problem of consciousness?'" (a chapter in Farris & Göcke (eds), *The Routledge Handbook for Idealism and Immaterialism*). Note also that Ralph Weir is the entry's CO-AUTHOR (with Howard Robinson, 2025 revision). Add a dated correction (do not silently rewrite) at ~L246 and at the ~L178 mention if it repeats the "unresolved" framing; keep "not consulted" — whether the chapter contains the Lowe objection is still unverified. The live page concepts/inference-to-the-best-explanation-against-dualism already says this correctly (ref 12, L68). Research notes carry no length gate. `ai_modified` from the real clock; plus-join your model into `ai_system`; changelog before sync; sync.
 
+### P3: Scope philosophy-of-science-under-dualism's "likelihood ratio is one" to programmes whose auxiliaries are fixed
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: deep-review 2026-10-01 22:34Z of concepts/inference-to-the-best-explanation-against-dualism (would-mint)
+- **Generated**: 2026-10-01
+- **Notes**: L104–106 says "Where two programmes are genuinely empirically equivalent they assign the shared evidence the same probability, so the likelihood ratio is one and the posterior odds reproduce the prior odds." The IBE page's Bayesian section now argues (Henderson 2014's abstract, verified at OpenAlex) that how far an explanation depends on its core rather than on auxiliary hypotheses "is reflected in the Bayesian likelihood", so consistency with the same evidence does not by itself make the likelihoods equal — dualism reaches the explananda only through bridge laws fitted to them. Scope the sentence to programmes whose auxiliaries are held fixed (or otherwise qualify "genuinely empirically equivalent"), and link [[inference-to-the-best-explanation-against-dualism|...]] with a piped link over existing words. The page is at the soft band (re-measure with `tools.curate.length.analyze_length`; concepts gate 3,500 `>=`) — keep it to ~+25 words or fund it. A separate queued P3 owns this page's "actually *stronger*" wording — do not touch it. `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync.
+
 ## Completed Tasks
 
 

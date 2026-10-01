@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 21:54:58+00:00
+ai_modified: 2026-10-01 22:34:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 21:54:58+00:00
+lastmod: 2026-10-01 22:34:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T22:34:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/) (first deep review; cycle slot; brief scoped to quote fidelity on spans the 17:53Z/18:08Z/21:54Z refines did not verify, over-reach both directions, label/body agreement, tenet alignment, style bans, links/anchors, anchoring)
+- **Word count**: 3,331 → 3,322 (−9) by `analyze_length`; concepts hard 3,500 `>=`, 177 headroom left for the open P3 second-order IBE paragraph (~150)
+- **Critical issues addressed**: 3. (1) L42 misdescribed the NCC page's "compatible with all three" as identity/epiphenomenalism/interaction; the NCC list (L73–75) is identity/emergence/interaction, fixed. (2) L42 "'Both are compatible' answers a likeliness challenge" was stranded by the 17:53Z "likelihoods → consistency" fix and contradicted L58's likelihood-advantage concession; now "answers neither challenge: consistency falls short of equal likelihood". (3) L70 "built to leave no independently measurable non-physical input" contradicted L82's intention-conditioned rise clause, tenets.md L107 ([P-Q3](/positions/quantum-interface/#p-q3) conditional deviation live) and apex horn (a); now "measurable in aggregate", and "no trace" → "no aggregate trace".
+- **Medium issues addressed**: 6. L82 "at a grain [the analysis] specifies" → "at some grain, as … formalises" (the apex names no grain); lead's widened set drops content determinacy (not a phenomenal-concepts explanandum; body never runs reply 1 on it; double-counts PCT; the 18:08Z residual); L62 "supports" → "*suggestive* of" (discipline L100 ladder; L112 reserves support for discriminators); L64 reply-1 tag gains "provisionally"; L92 Tenet 5 "gives reason to withhold belief" → "lowers the confidence the physicalist's conclusion can claim" (matches "blunts without defeating" and reply 3's "partly unlicensed"); L86 Lycan marked "The materialist" (stance leg).
+- **Low**: Ref 8 "no abstract exists" → "no abstract served" and L44 "holds" → "serves" (S2 reports the abstract field elided by the publisher; Wiley 403); Ref 14 Swinburne issue verified at Crossref, DOI 10.5840/faithphil200926551 added; L84 redundant clause cut (−9).
+- **Citation web-verify**: 16 external works at Crossref/OpenAlex/S2/SEP/NDPR; 15 real-correct, 1 real-wrong-metadata (Swinburne label); 0 fabricated. Fresh-fetched raw-text grep of every unverified quoted span (Farmakis–Hartmann ×4, Gertler ×3, Douven bad-lot, SEP Dualism ×2, Stoljar methodological-naturalism premise, Lycan abstract, Swinburne 0 "expla" with positive controls) plus all Map-internal and tenets.md quotations: 0 verbatim misses; one referent error (Critical 1). (Surname, year) orphans: none either direction. McLaughlin 2010 still a lead.
+- **Tier agreement**: lead, five replies, Verdict, costs and Relation now agree (compatible on the seven; suggestive and provisional on the widened set against Type-B; discriminating nowhere); "accommodates" throughout, no "predicts" claim for the Map.
+- **Anchoring**: flag vs neural-correlates-of-consciousness (hedge_density, underdetermination_markers) confirmed lexical; `anchoring_audit_exempt: true` with dated comment at byte 383; re-run returns [].
+- **Engagements**: physicalist IBE reply 1: Mode Two vs Type-A, Mode Three vs Type-B; reply 2: Mode Three; reply 3: Mode One narrowed to simplicity; reply 4: Mode Three (Lowe/Weir idleness conceded); reply 5: Mode One, symmetric. No label leakage; no banned constructs; no "load-bearing"; all wikilinks and anchors resolve.
+- **Would-mint (not written to todo.md)**: P3 refine-draft philosophy-of-science-under-dualism L104–106 (scope "likelihood ratio is one" to auxiliary-fixed hypotheses; link the IBE page's Bayesian section; ~+25); parsimony-epistemology L90 Type-C description of Type-B still live (dedupe against todo).
+- **Output**: [deep-review-2026-10-01-inference-to-the-best-explanation-against-dualism](/reviews/deep-review-2026-10-01-inference-to-the-best-explanation-against-dualism/)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T21:54:58+00:00 - refine-draft
 - **Status**: Success
