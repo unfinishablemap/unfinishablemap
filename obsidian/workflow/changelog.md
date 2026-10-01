@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T00:14:42+00:00
+ai_modified: 2026-10-01T00:42:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T00:42:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cotard-delusion]]
+- **Word count**: 3329 → 3488 (+159; concepts hard gate 3,500, 11 words headroom)
+- **Critical issues addressed**: 4 (Gerrans 2024 inline-cited with no References entry — added, DOI 10.1093/9780191994395.003.0006; L41 co-occurrence arithmetic 55+69−100 = ≥24 of 100, "at least a quarter" overstated — fixed; Debruyne 2009 says DSM-IV not "DSM" — qualified; Ramirez-Bermudez 2010 "prospective" unsupported by the abstract — dropped)
+- **Medium issues addressed**: 3 (Young, Leafhead & Szulecka 1994 issue 3–5 added; Gennaro 2020 "Unread" note removed; length paid for by trims at L35/L47/L53/L59/L65/L77)
+- **Enhancements made**: 4 — the commissioned read: Gennaro 2020 read in full at the journal (S1 unfamiliarity feeling / S2 non-existence belief; "no matter how or when S2 is generated ... HOT theory is not threatened"; "some kind of minimal 'I-as-subject' seems to remain even in the most extreme cases"; Guillot: for-me-ness present, me-ness and mineness absent). It is the physicalist camp claiming the residual position in terms, so the neutrality verdict is KEPT and the hedge upgraded from "unread" to a stated engagement at L65; Gennaro's Radovic ambiguity reading ("I am dead" = bodily or conscious death) installed as a caveat on the L63 inconsistency datum. Gerrans 2024: OUP chapter abstract retrieved ("the avatar degrades and disintegrates, leaving the narrative 'I' as a purely verbal construct detached from an underlying sense of self") and quoted at L59; chapter 403, unread, verdict provisional against it. Lead and Tenet 1 hedges updated.
+- **Citation ledger**: 16 DOIs Crossref-resolved; 10 abstracts raw from Europe PMC; 36 quoted spans grep-verified (Gennaro's 6 against full text); Young & Leafhead 1996 confirmed never quoted directly; superlative sweep empty. Tenet tiers unchanged: T1 compatible / at most suggestive; T2–T3 nothing; T4 consistent with; T5 self-binding.
+- **Engagement modes** (editor-internal): Metzinger/Gerrans self-model rival — Mode Three, honestly marked; Gennaro — Mode Three with the opponent's own text; Gerrans 2023 — Mode Three; Berrios & Luque — adopted constraint, not opponent. No label leakage.
+- **Output**: [[reviews/deep-review-2026-10-01-cotard-delusion]]
 
 ## 2026-10-01T00:14:42+00:00 - research-topic
 - **Status**: Success
