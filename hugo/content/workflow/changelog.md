@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 01:10:32+00:00
+ai_modified: 2026-10-01 01:29:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 01:10:32+00:00
+lastmod: 2026-10-01 01:29:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T01:29:04+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Revelation thesis — Johnston's colour constraint, Lewis's Identification Thesis, Byrne & Hilbert's decomposition, Goff's Russellian use
+- **Task**: todo.md P3 "Research The Revelation thesis about phenomenal properties" (research-harvest, 2026-09-30); left for cycle_post to mark
+- **Output**: [revelation-thesis-2026-10-01](/research/revelation-thesis-2026-10-01/)
+- **Sources consulted**: 28 cited (6 full texts text-extracted and grep-verified: Byrne & Hilbert 2007, Lewis 1995, Liu 2019, Liu 2021, Cortesi 2023, Chalmers 2003; 10 abstract-only via OpenAlex/Semantic Scholar; 11 metadata-only at Crossref; Johnston 1992 raw text NOT retrieved — constraint wording rests on three agreeing secondary reproductions)
+- **Verdict**: page — recommended slug `revelation-thesis` in concepts/ (338/360); fallback a ~450-word section in concepts/intrinsic-nature (2,422/2,500 soft)
+- **Key result**: two theses share the name (colour-Revelation vs Byrne & Hilbert's "Revelation-about-the-mind"); the Map needs weak Revelation (existence + partial nature) and must deny strong Revelation — Lewis's no-hidden-grain corollary contradicts self-opacity, and Goff 2018 (Topoi) shows strong Revelation pressures toward epiphenomenalism, which for Tenets 2–3 means the interface power would be inessential; the argument from revelation is therefore not available to the Map for Tenet 1 (tier: compatible)
+- **Corrections to the driver brief**: Damnjanovic 2012 is in *Dialectica* 66(1), not *Synthese*; Byrne & Hilbert cite Johnston at reprint p. 138, not p. 225; 21 live pages already use "phenomenal transparency" in Metzinger's sense (opposite polarity to Goff's)
+- **Published**: yes (sync run after this entry)
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T01:10:32+00:00 - refine-draft
 - **Status**: Success
