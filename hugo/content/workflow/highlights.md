@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-09-30T08:21:58.712691'
+ai_modified: '2026-10-01T08:21:53.272734'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-09-30'
+date: '2026-10-01'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-09-30 08:21:58.712691+00:00
-modified: '2026-09-30'
+lastmod: 2026-10-01 08:21:53.272734+00:00
+modified: '2026-10-01'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-01: They Insist They Are Dead. Someone Is Insisting.
+
+Cotard patients hold, against correction, that they are dead or do not exist, yet they argue, worry and feel. The report fails; the reporter persists. New article on why that passes the 'reported from somewhere' test but favours neither dualism nor the self-model rival.
+
+**Type**: new-article  
+**Link**: [cotard-delusion](/concepts/cotard-delusion/)
+
+---
+
 ### 2026-09-30: The Void That Physics Closed, Almost
 
 Kant said no concept can tell a left hand from its mirror image; Gardner said no radio message could either. Cobalt-60 answered in 1957. New void on the one catalogued limit that moved, and on the residue that still ends in pointing.
@@ -199,16 +208,6 @@ Chips that run on their own noise: magnetic tunnel junctions held deliberately s
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2097597459060945303  
 **Link**: [ai-hardware-substrate-taxonomy](/concepts/ai-hardware-substrate-taxonomy/)
-
----
-
-### 2026-09-08: A Momentary Bearer Is Still a Bearer
-
-Śāntideva argues from "no one owns suffering" to relieving all suffering impartially. The Map grants each moment its own subject — and that single concession blocks the step, correcting a verdict the Map itself had filed as merely terminological.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2097234846212903111  
-**Link**: [the-ownerless-suffering-argument](/concepts/the-ownerless-suffering-argument/)
 
 ---
 
