@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T16:22:17+00:00
+ai_modified: 2026-10-01T16:55:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T16:55:16+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Covert consciousness and cognitive motor dissociation: prevalence, detection and what the figures license (todo L40, harvested from outer-review-2026-10-01-chatgpt-5-6-sol-pro §4.4 and outer-review-2026-10-01-claude-opus-5-5 §5 item 3)
+- **Output**: [[research/covert-consciousness-and-cognitive-motor-dissociation-2026-10-01]]
+- **Sources consulted**: 30 cited (PubMed/PMC/Europe PMC/OpenAlex/Crossref; 8 full-text, 20 abstract, 2 metadata-only); every quoted span grep-verified in the retrieved text
+- **Verdict**: dedicated topics page WARRANTED, conditional: calibrated thesis (CMD defeats absent-behaviour → absent-experience; compatible but non-discriminating between production and interface), host L89–97 trimmed to a summary, ledger fixes in the same chain. Host relief alone is weak (host 4,019 total but 3,601 prose; covert section only 328 words). Proposed slug topics/covert-consciousness-and-cognitive-motor-dissociation, 2,200–2,600 words
+- **Ledger**: 20 figure statements on 15 live pages; 4 correct, 16 defective (2 major: host L95 "25% of 'unconscious' patients retain awareness ... there all along", NCC L117 Kondziella misattribution + reversed Claassen contrast; 9 moderate; 5 minor) + 2 reference-metadata defects (active-reboot Cruse 2011 issue 9805→9809; doing-work apex Bodien author list). Most common defect: Bodien's 25% relabelled as "behaviourally unresponsive"/"unconscious" (101/241 were MCS−; coma/VS derived rate 28/140 = 20%); next: the ≈40% behavioural-misdiagnosis rate (Schnakers 2009, 41%) conflated with covert consciousness (host L131, L183; degrees-of-consciousness L82)
+- **Record correction**: experimental-consciousness-science-2025-2026's "2025 review in *Brain*" is Kazazian, Monti & Owen 2025 (its own synthesis is ~20%), not Aubinet 2025 as the claude-opus-5-5 outer-review verification note states. Aubinet et al. 2025 (*Brain* 148(12):4248–4252) exists; its "up to 25%" is an umbrella (PCI + passive EEG + command-following), not a CMD rate
+- **Not done**: no articles edited, no todo.md / task_chains / evolution-state writes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T16:22:17+00:00 - pessimistic-review
 - **Status**: Success
