@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-09-08 12:51:48+00:00
+ai_modified: 2026-10-01 01:00:04+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[dualism]]'
 created: 2026-02-24
-date: &id001 2026-09-04
+date: &id001 2026-10-01
 description: Consciousness stamps all experience—whether of present objects or absent
   ones—with immediacy, realness, and felt character. The mechanism producing this
   phenomenal quality operates identically whether there is a stimulus or not, and
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 10:37:04+00:00
-lastmod: 2026-09-08 12:51:48+00:00
+lastmod: 2026-10-01 01:00:04+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -98,7 +98,7 @@ There may be a principled reason for the concealment. If each perception carried
 
 ### Depersonalization and Derealization
 
-Depersonalization patients report the world appears "behind glass," "two-dimensional" (Sass and Pienkos, 2013). Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) raises whether depersonalization represents a delusion or an insight — were these patients malfunctioning, or seeing through the reality-stamp to something normally concealed?
+[Depersonalization patients](/concepts/depersonalisation/) report the world appears "behind glass," "two-dimensional" (Sass and Pienkos, 2013). Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) raises whether depersonalization represents a delusion or an insight — were these patients malfunctioning, or seeing through the reality-stamp to something normally concealed? The clinical datum, its four rival readings and the Map's two-tier verdict are stated once at [depersonalisation](/concepts/depersonalisation/).
 
 ### Dreams
 

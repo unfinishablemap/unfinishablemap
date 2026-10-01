@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 00:42:41+00:00
+ai_modified: 2026-10-01 01:00:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 00:42:41+00:00
+lastmod: 2026-10-01 01:00:04+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T01:00:04+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Depersonalisation as the clinical datum for separable for-me-ness (todo.md P2, chain research-harvest → research-topic 2026-09-30/10-01 → expand-topic)
+- **Output**: [depersonalisation](/concepts/depersonalisation/)
+- **Word count**: 3456 by analyze_length (incl. 25-entry reference apparatus; concepts hard gate 3,500) — ~2,850 body words before References
+- **Based on research**: yes — [depersonalisation-2026-09-30](/research/depersonalisation-2026-09-30/) (Angle 1, the home-page angle)
+- **Structure**: lead gives DPDR/DPD search terms and the three structural facts (DSM-5 Criterion B "reality testing remains intact" as transcribed; the "as if" sourced to the CDS item via Billon 2016 and NOT to the DSM; perception and cognition intact per Gerrans 2019 abstract), then the two-tier verdict front-loaded; one section per reading — (a) affective/inhibitory (Sierra & Berrios 1998; Sierra & David 2011; Medford 2012; Gerrans 2019), (b) Billon 2016/2017/2023/2024 as the strongest architecture reading closing significance himself ("purely neurophysiological" terms; source-role: supporting at levels 1–2, recruited-by at level 4, stated in prose), (c) active-inference self-model (Seth et al. 2012; Ciaunica et al. 2022; Deane et al. 2020; Ciaunica, Charlton & Farmer 2021 as hybrid) named as the strongest physicalist rival and engaged as rival not ally, (d) Zahavi & Kriegel 2016 universalism and Knappik 2022 localism contesting level 2 only, with the 0-hits note that neither Zahavi & Kriegel 2016 nor Henriksen & Parnas 2019 names depersonalisation. "What the Datum Shows: Two Tiers" applies the four-level dissociation rule explicitly (level 1 documented, level 2 contested, level 3 supplied by every rival, level 4 unreached), names the bridging premise and re-scopes it to a conditional (firewall), and holds compatibility-not-support. Relation to Site Perspective: Tenet 1 COMPATIBLE only (the tier mine-ness and cotard hold); Tenets 2–3 nothing; Tenet 4 consistent-with; Tenet 5 self-binding. Concept four-part format: neutral clinical definition first, Map reading marked as the Map's, rivals at strength, disputed implications separated.
+- **Citation ledger**: 25 references (23 external, 2 self-citations: mine-ness and cotard-delusion). Retrieval status carried from the research note and disclosed in the reference list: full text — Billon 2016/2017/2023/2024, Zahavi & Kriegel 2016, Ciaunica, Charlton & Farmer 2021 (cited 20(1): 1–19, NOT the corpus's 823–842), Knappik 2022 (online 2022, issue 2025), Henriksen & Parnas 2019, Deane et al. 2020, Seth et al. 2012, SEP entry; abstract-only (marked "Abstract." and quoted only from abstracts) — Sierra & Berrios 1998/2000, Sierra et al. 2005, Sierra & David 2011, Hunter, Sierra & David 2004 (PubMed author order), Ciaunica et al. 2022, Gerrans 2019, Medford 2012, Davies & Coltheart 2022; metadata/secondary — DSM-5 and ICD-11 (as transcribed), Simeon & Abugel 2006 (patient report via Billon 2017). Sass, Pienkos, Nelson & Medford 2013 NOT cited (its "behind glass"/"two-dimensional" phrases unverified); Sierra 2009, Colombetti & Ratcliffe 2012, Medford et al. 2005, Billon 2022 omitted. Billon quotations carry no page numbers (preprint via Wayback) and say so. 52 quoted spans ≥3 words, all 52 grep-verified against the research note's raw extracts (script in session). Banned-construction sweep: 0 "This is not X. It is Y.", 0 "load-bearing".
+- **Reciprocals** (piped links only in over-/near-gate hosts; hosts' section restatements untouched — their rewrites are the sibling P2 refine task): mine-ness L70 piped, 3496 → 3496; cotard-delusion L55 re-pointed ("[that page](/concepts/depersonalisation/) carries it … separable [for-me-ness](/concepts/mine-ness/)"), 3488 → 3489 (gate 3,500); clinical-dissociation L86 piped, 4694 → 4694 (already over its 4,000 gate; unchanged); necessary-opacity L82 piped + one pointer sentence, 2643 → 2657; phenomenal-quality-void L96 piped + one pointer sentence, 2322 → 2339; clinical-phenomenology L107 piped + one pointer sentence, 3521 → 3538. `ai_modified` and `modified` bumped on all six hosts.
+- **Apex check**: `apex/apex-articles.md` lists no apex with `concepts/depersonalisation` among its source articles (only an evolution note mentions depersonalization) — no apex-evolve task minted.
+- **Not done here** (left for the sibling refine task per the brief): mine-ness L72 quote-fidelity fix ("marks my experiences as mine"), mine-ness L176 page-range fix, phenomenal-quality-void's Billon 2024 framing and Sass & Pienkos attribution, necessary-opacity's "I know I am me" sourcing.
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T00:42:41+00:00 - deep-review
 - **Status**: Success

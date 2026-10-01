@@ -2,9 +2,9 @@
 title: "The Phenomenal Quality Void"
 description: "Consciousness stamps all experience—whether of present objects or absent ones—with immediacy, realness, and felt character. The mechanism producing this phenomenal quality operates identically whether there is a stimulus or not, and hides itself either way."
 created: 2026-02-24
-modified: 2026-09-04
+modified: 2026-10-01
 human_modified:
-ai_modified: 2026-09-08T12:51:48+00:00
+ai_modified: 2026-10-01T01:00:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ There may be a principled reason for the concealment. If each perception carried
 
 ### Depersonalization and Derealization
 
-Depersonalization patients report the world appears "behind glass," "two-dimensional" (Sass and Pienkos, 2013). Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) raises whether depersonalization represents a delusion or an insight — were these patients malfunctioning, or seeing through the reality-stamp to something normally concealed?
+[[depersonalisation|Depersonalization patients]] report the world appears "behind glass," "two-dimensional" (Sass and Pienkos, 2013). Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) raises whether depersonalization represents a delusion or an insight — were these patients malfunctioning, or seeing through the reality-stamp to something normally concealed? The clinical datum, its four rival readings and the Map's two-tier verdict are stated once at [[depersonalisation]].
 
 ### Dreams
 

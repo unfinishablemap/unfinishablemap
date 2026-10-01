@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-09-28 20:23:00+00:00
+ai_modified: 2026-10-01 01:00:04+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[self-and-self-consciousness]]'
 - '[[metacognition]]'
 created: 2026-01-27
-date: &id001 2026-04-28
+date: &id001 2026-10-01
 description: Consciousness cannot verify whether it accurately represents reality,
   and piercing this opacity destabilises the system that depends on it. The void is
   self-concealing and self-protecting.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 15:30:56+00:00
-lastmod: 2026-09-28 20:23:00+00:00
+lastmod: 2026-10-01 01:00:04+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -82,7 +82,7 @@ If phenomenal transparency is functionally necessary, what happens when it fails
 
 ### Depersonalisation
 
-In depersonalisation disorder, the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while maintaining insight ("I know I am me"). The transparency has cracked, and the result is pathology, not liberation. The opacity serves function.
+In [depersonalisation disorder](/concepts/depersonalisation/), the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while maintaining insight ("I know I am me"). The transparency has cracked, and the result is pathology, not liberation. The opacity serves function. The datum's diagnostic structure and its four rival readings are stated once at [depersonalisation](/concepts/depersonalisation/).
 
 ### Psychedelic Evidence
 

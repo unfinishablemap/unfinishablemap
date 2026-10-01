@@ -2,9 +2,9 @@
 title: "Clinical Dissociation as Systematic Evidence"
 description: "Dissociative disorders—DID, depersonalization, conversion, amnesia—selectively disrupt connectivity between capable processing regions on an intact substrate, a pattern that may favour dualist interface architecture without forcing it."
 created: 2026-03-17
-modified: 2026-06-07
+modified: 2026-10-01
 human_modified:
-ai_modified: 2026-09-25T03:31:54+00:00
+ai_modified: 2026-10-01T01:00:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ The cross-state loss is shallower than "one alter cannot reach another's memorie
 
 ### Depersonalization-Derealization: The Self-Model Channel Goes Silent
 
-Depersonalization-derealization disorder (DPDR) reads like a phenomenological experiment. Patients report that their own thoughts, body, and actions feel unreal or detached—as though observing themselves from outside; the world appears flattened and distant, emotional colouring drained while cognitive processing remains intact. DPDR disconnects what the Map's interface architecture calls the [[neurological-dissociations-as-interface-architecture|self-model ascending channel]]—the component delivering felt ownership and reality. Core sensory and motor processing continue; what vanishes is the felt sense that any of this is happening to *them*.
+[[depersonalisation|Depersonalization-derealization disorder]] (DPDR) reads like a phenomenological experiment. Patients report that their own thoughts, body, and actions feel unreal or detached—as though observing themselves from outside; the world appears flattened and distant, emotional colouring drained while cognitive processing remains intact. DPDR disconnects what the Map's interface architecture calls the [[neurological-dissociations-as-interface-architecture|self-model ascending channel]]—the component delivering felt ownership and reality. Core sensory and motor processing continue; what vanishes is the felt sense that any of this is happening to *them*.
 
 The early account—Sierra and Berrios (1998)—read DPDR as a disconnection between integrative self-representation and emotional processing, consistent with the reduced insula/amygdala activation DPDR patients show while perceptual cortex functions normally. The contemporary account is sharper and, for the dualist reading, more demanding. Seth, Suzuki and Critchley (2012) model conscious presence as successful interoceptive prediction—the felt sense of "this is real, this is mine" is the brain explaining away interoceptive prediction errors—and Ciaunica, Seth, Limanowski, Hesp and Friston (2022) extend this to DPDR specifically: depersonalisation is an *imbalanced precision weighting toward self-related priors*, with impaired attenuation of self-generated signals—an active-inference pathology rather than a channel falling silent.
 

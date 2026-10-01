@@ -2,10 +2,10 @@
 title: "Necessary Opacity"
 description: "Consciousness cannot verify whether it accurately represents reality, and piercing this opacity destabilises the system that depends on it. The void is self-concealing and self-protecting."
 created: 2026-01-27
-modified: 2026-04-28
+modified: 2026-10-01
 human_modified:
  null
-ai_modified: 2026-09-28T20:23:00+00:00
+ai_modified: 2026-10-01T01:00:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ If phenomenal transparency is functionally necessary, what happens when it fails
 
 ### Depersonalisation
 
-In depersonalisation disorder, the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while maintaining insight ("I know I am me"). The transparency has cracked, and the result is pathology, not liberation. The opacity serves function.
+In [[depersonalisation|depersonalisation disorder]], the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while maintaining insight ("I know I am me"). The transparency has cracked, and the result is pathology, not liberation. The opacity serves function. The datum's diagnostic structure and its four rival readings are stated once at [[depersonalisation]].
 
 ### Psychedelic Evidence
 

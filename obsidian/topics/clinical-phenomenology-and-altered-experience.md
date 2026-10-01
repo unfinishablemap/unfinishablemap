@@ -2,9 +2,9 @@
 title: "Clinical Phenomenology and Altered Experience"
 description: "Clinical phenomenology uses psychiatric disruption as natural experiments on consciousness, generating doubly grounded evidence that discriminates between philosophical theories."
 created: 2026-03-03
-modified: 2026-04-04
+modified: 2026-10-01
 human_modified: null
-ai_modified: 2026-07-16T12:07:49+00:00
+ai_modified: 2026-10-01T01:00:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -104,7 +104,7 @@ The philosophical significance is substantial. Our sense of the future as open a
 
 ## Depersonalization and the Components of Experience
 
-Depersonalization/derealisation disorder (DPD) provides a particularly clean philosophical demonstration. Patients maintain insight—they know their experience is altered—which makes their reports especially reliable as phenomenological data.
+[[depersonalisation|Depersonalization/derealisation disorder]] (DPD) provides a particularly clean philosophical demonstration. Patients maintain insight—they know their experience is altered—which makes their reports especially reliable as phenomenological data. The diagnostic criteria and the four rival readings of what is lost are stated once at [[depersonalisation]].
 
 DPD is consistent with normal experience having at least three global features that can be independently disrupted:
 

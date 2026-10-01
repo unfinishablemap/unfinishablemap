@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-07-16 12:07:49+00:00
+ai_modified: 2026-10-01 01:00:04+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[dualism]]'
 created: 2026-03-03
-date: &id001 2026-04-04
+date: &id001 2026-10-01
 description: Clinical phenomenology uses psychiatric disruption as natural experiments
   on consciousness, generating doubly grounded evidence that discriminates between
   philosophical theories.
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:22:40+00:00
-lastmod: 2026-07-16 12:07:49+00:00
+lastmod: 2026-10-01 01:00:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ The philosophical significance is substantial. Our sense of the future as open a
 
 ## Depersonalization and the Components of Experience
 
-Depersonalization/derealisation disorder (DPD) provides a particularly clean philosophical demonstration. Patients maintain insight—they know their experience is altered—which makes their reports especially reliable as phenomenological data.
+[Depersonalization/derealisation disorder](/concepts/depersonalisation/) (DPD) provides a particularly clean philosophical demonstration. Patients maintain insight—they know their experience is altered—which makes their reports especially reliable as phenomenological data. The diagnostic criteria and the four rival readings of what is lost are stated once at [depersonalisation](/concepts/depersonalisation/).
 
 DPD is consistent with normal experience having at least three global features that can be independently disrupted:
 
