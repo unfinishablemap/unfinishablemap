@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 18:36:34+00:00
+ai_modified: 2026-10-01 19:14:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 18:36:34+00:00
+lastmod: 2026-10-01 19:14:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T19:14:44+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Thought insertion and the scope of for-me-ness (todo P2, harvested from optimistic-2026-10-01-report-and-access-wing Priority item 4)
+- **Output**: [thought-insertion-2026-10-01](/research/thought-insertion-2026-10-01/) (10,169 words)
+- **Verdict**: dedicated `concepts/thought-insertion` page WARRANTED, 2,400 words (2,200–2,600); mine-ness (3,496/3,500) cannot absorb it and self-and-self-consciousness is over its gate (3,538/3,500). Concepts 340/360.
+- **Key finding**: Billon 2013 is misdescribed in the corpus (research/depersonalisation-2026-09-30 L207; optimistic review "strongest published counterexample"). His conclusion is compatibilist: inserted thoughts lack subjectivity AND phenomenality, which saves "consciousness entails subjectivity". Billon & Kriegel 2015 then defend subjectivity theories.
+- **Kind-claim (self-and-self-consciousness L148)**: survives. No reading in the literature, including Lane's and Metzinger's, removes thin first-personal givenness. Against the Map: (i) the falsifier cannot be met by any report ("specifiable but absent from the evidence" overstates it); (ii) the claim is safe only on the undisputed thin scope, while the live dispute is mineness, where the Map is a generalist and its own vocabulary (mine-ness L48; depersonalisation's title) conflates the two; (iii) "every reported case is reported from somewhere" is the inner-location inference Billon 2013 §4.1 attacks, unanswered by ZK 2016, H&P 2019 or HPZ 2019 (0 hits for "inner location" or "Cartesian").
+- **Other**: the corpus's agency reading ("ownership preserved") is one of five readings and is contested by Martin & Pacherie 2013, Guillot 2017 (lacks mineness, keeps for-me-ness and me-ness), Ratcliffe & Wilkinson 2015 and Billon. The "robust double dissociation" (two-tier project page L67) depends on that reading. HPZ 2019 ("neither lacking nor unaffected but disturbed") is the uncited primary statement of the Map's kind-claim. Tier: Tenet 1 compatible.
+- **Coinage**: Schneider proposed first-rank symptoms (1939) and did not coin thought insertion (texts from 1810; Jaspers' narrower sense; Heidelberg *Ichstörungen*). The subjectivity/agency split for thought insertion is Graham & Stephens 1994; Gallagher 2000 is the first-order ownership/agency version (Gallagher 2007 says so).
+- **Sources consulted**: 38 cited (7 full text grep-verified, 16 abstract, 15 metadata); Mellor 1970 patient quotation found in four divergent transcriptions.
+- **Not done (by contract)**: no task_chains, todo.md or evolution-state edits; no article edits; no commit.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T18:36:34+00:00 - optimistic-review
 - **Status**: Success
