@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T17:31:14+00:00
+ai_modified: 2026-10-01T17:54:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T17:54:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/inference-to-the-best-explanation-against-dualism]]
+- **Task**: "Make the IBE page say accommodation where it says prediction, and replace its decorative disconfirmer" (pessimistic-2026-10-01 Priority items 1 and 3; Issues 1, 2, 6)
+- **Original score**: n/a (`scripts/curate.py` absent); brief taken from [[reviews/pessimistic-2026-10-01-inference-to-the-best-explanation-against-dualism]]
+- **Word count**: 3128 → 3213 (+85) by analyze_length; concepts gate 3500 (`>=`), 286 headroom left. Overrun on the ≈+73 estimate is Henderson's "given priors" qualifier (+7, kept for fidelity) and a grammatical hinge the review's literal L56 replacement needed.
+- **Changes**: L40 compatibility "likelihoods" → "consistency". L56 "'both are compatible' is the whole likelihood story and the residual disagreement is about priors" → "would be about priors alone only if both hypotheses reached the evidence from their cores; that residual fits…"; "does not move" → "does not raise"; added Henderson's core-vs-auxiliary consideration "reflected in the Bayesian likelihood" and the bridge-laws likelihood-advantage sentence. L68 run-in lead "predicted by" → "accommodated by"; "predicts that no … input will be found" → "is built to leave no … input"; "both predict it" replaced by Tenet 2 fixing its minimality by this record (tenets.md L69), so the explanandum is neutral only toward the fitted corridor variant and still counts against interactionism in general; "genuine" → "coherent". L80 disconfirmer: model-delivered rise clause and P-Q10 Failure-branch fall clause (foreclosed by agency-budget L75) replaced with in-brain intention-conditioned departures from the Born marginal (rise), unconditioned/external random-number-generator nulls (unchanged), well-powered conditional nulls by degrees (fall); states no such test has been run; only the trumping sub-reading held on coherence; "the Map marks it so" dropped. L88 "predicts" → "accommodates", "does not move" → "does not raise".
+- **Verification**: all three Henderson 2014 spans verbatim in the OpenAlex abstract (doi:10.1093/bjps/axt020). Anchor grep `inference-to-the-best-explanation-against-dualism#` and `/#`: 0 hits (24-file slug positive control); the L68 lead is a bold run-in, not a heading, so it carried no anchor.
+- **Untouched by design**: Priority items 2 (L30, L62, L66, L72, L82, L90) and 4 (ref 12, L42, L50, L62) left for their sibling tasks; McLaughlin 2010 still a lead; L84 retrieved-texts sentence kept; evidential-status labels kept.
+- **Reasoning modes**: seventh-explanandum reply vs the physicalist IBE: Mode Three (secures neutrality toward the fitted variant only, marked as such); Bayesian deflation: Map reconstruction, now concedes Henderson's likelihood placement; no label leakage
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T17:31:14+00:00 - deep-review
 - **Status**: Success
