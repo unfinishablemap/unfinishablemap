@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Thought insertion and the scope of for-me-ness
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-01-report-and-access-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-01-report-and-access-wing Priority item 4: no page or research note; nine pages mention it in passing, the deepest a 96-word mine-ness subsection taking only Gallagher's side; no live page lists Billon 2013. Build Billon 2013 vs Zahavi & Kriegel 2016 / Henriksen & Parnas 2019, Gallagher's agency/ownership split as the corpus uses it, and the Frith comparator; state what the case does to self-and-self-consciousness L148's kind-claim and its falsifier — the verdict may go against the Map. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/thought-insertion-2026-10-01.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'thought-insertion' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-01
+
 ### P3: Write article on Kant's paralogisms and the Map's subject — the Critical dismantling of rational psychology against the register's determinate subject
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/kants-paralogisms-and-the-maps-subject.md
@@ -1687,6 +1693,33 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: pessimistic-review 2026-10-01 16:22Z (out-of-list item) + refine-draft 18:08Z confirmation
 - **Generated**: 2026-10-01
 - **Notes**: L90 reads "Type-B physicalists accept the gap but deny it is metaphysical, arguing future progress will close it without revising the ontology", and then answers that reply as a "promissory note". That is Chalmers's Type-C position (the gap closes with future science). Type-B physicalism (Loar, Papineau, Balog) accepts an a posteriori identity and explains the gap NOW through phenomenal concepts, issuing no promissory note — the IBE page now says exactly this ("The Type-B reply claims to explain the gap now and so issues no promissory note", concepts/inference-to-the-best-explanation-against-dualism). Fix L90 so it either relabels the described view as Type-C or redescribes Type-B correctly, and check whether the synchronic-parsimony reply still lands against the correct Type-B view; if it does not, say what parsimony does say against Type-B (the phenomenal-concepts strategy's own posits) rather than leaving a reply aimed at the wrong target. Also check L146 "not merely a promissory account" for the same conflation. Page is at soft warning (re-measure with `tools.curate.length.analyze_length`; concepts gate 3,500 `>=`) — stay word-neutral or negative. Link [[phenomenal-concepts-strategy]] if not already linked in that paragraph. `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync.
+
+### P2: Bring mine-ness's Dualism verdict down to the tier its home page says it holds
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/mine-ness.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-01 18:36Z
+- **Generated**: 2026-10-01
+- **Notes**: obsidian/reviews/optimistic-2026-10-01-report-and-access-wing.md Priority item 1. mine-ness L136 (§Relation to Site Perspective, Dualism) says Dualism "finds direct support in mine-ness's separability" and that the feature "is exactly what dualism predicts" (driver confirmed both 18:40Z), while concepts/depersonalisation L87 says mine-ness holds "compatible with, not evidence for" — the sentence has carried the support claim since creation and the 09-30 creation-wing review repeated the false tier. Apply (a) "finds direct support in" → "is compatible with, [[depersonalisation#what-the-datum-shows-two-tiers|not evidenced by]]," (verify that anchor exists first); (b) "is exactly what dualism predicts:" → "fits dualism, though not uniquely:"; (c) L76 "The window's transparency is its mine-ness" → "On the Map's reading, the window's transparency is its mine-ness" (Ciaunica et al. say what cracks is transparency); (d) fund with L136 "in the first place." → ".". Net +2 words. mine-ness is 3,496 against the 3,500 `>=` gate (headroom 3) — RE-MEASURE; if the net would reach 3,500, find one more word to cut. Also check whether depersonalisation L87's "the tier ... cotard-delusion hold[s]" remains true and report. Use the review's exact sub-item text from its "Priority list". `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync; validate.
+
+### P2: Say which for-me-ness the Map protects on the depersonalisation page and fix the Billon 2013 orphan
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/depersonalisation.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-01 18:36Z
+- **Generated**: 2026-10-01
+- **Notes**: obsidian/reviews/optimistic-2026-10-01-report-and-access-wing.md Priority item 2. (a) After "On the introspective evidence this is a standoff." (~L73) add the review's one sentence placing the Map's [[self-and-self-consciousness#constitutive-as-kind-not-as-degree|kind-claim]] — siding with the universalist about the reporting position and with Billon about the felt feature (verify the anchor exists; +19). (b) ~L69 pipe "transparency" to [[revelation-thesis#two-senses-of-phenomenal-transparency|transparency]] (0; verify anchor). (c) ~L73 cites "Billon's 2013 thought-insertion argument" inline but References has no Billon 2013 (driver confirmed: the only (2013) entry is the DSM-5) — add Billon, A. (2013). Does consciousness entail subjectivity? The puzzle of thought insertion. *Philosophical Psychology*, 26(2), 291–314 — VERIFY title, volume, pages and DOI at Crossref before writing, and label its access status (abstract / full text / metadata) as the page's References do. Net ≈ +36; page is 3,454 (headroom 45) — re-measure. Respect the 10-01 deep review's stability note: the universalist and localist standoffs stay standoffs; (a) only places the Map. Use the review's exact sub-item text from its "Priority list". `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync; validate.
+
+### P3: Install the report-and-access wing's missing reciprocals (covert consciousness ↔ Cotard; Revelation ↔ depersonalisation and the authority layers)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/revelation-thesis.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-01 18:36Z
+- **Generated**: 2026-10-01
+- **Notes**: obsidian/reviews/optimistic-2026-10-01-report-and-access-wing.md Priority item 3. MULTI-FILE: (a) topics/covert-consciousness-and-cognitive-motor-dissociation.md ~L96, after "which no serious rival needs.", add the review's sentence linking [[cotard-delusion]] as CMD's first-person mirror (+26; do not rename any {#...} anchor; keep `anchoring_audit_exempt` and its comment within the first 1,500 bytes; the open P3 "State the production reply to the sub-threshold recall test" edits the same file — batch it if convenient). (b) concepts/revelation-thesis.md ~L71 "Transparency in that sense is experience *hiding* something." → "... *hiding* something, the window that cracks in [[depersonalisation]]." (+6). (c) revelation-thesis ~L75 pipe "existence, some character" to [[phenomenal-authority-and-first-person-evidence#three-layers-of-phenomenal-authority|existence, some character]] (0; verify the anchor). revelation-thesis is 3,462 (headroom 37). Revelation has not been deep-reviewed; if a deep review picks it first it may absorb (b)/(c) — check the changelog and close those parts as done if so. Report per file, and say explicitly if a file was left untouched and why. Use the review's exact sub-item text from its "Priority list". `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync; validate.
 
 ## Completed Tasks
 

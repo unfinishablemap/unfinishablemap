@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T18:08:07+00:00
+ai_modified: 2026-10-01T18:36:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T18:36:34+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: report-and-access wing (cycle slot, reports only): [[concepts/cotard-delusion]] (3,489, headroom 10), [[concepts/depersonalisation]] (3,454, 45), [[concepts/revelation-thesis]] (3,462, 37; never deep-reviewed), [[topics/covert-consciousness-and-cognitive-motor-dissociation]] (2,592, 1,407); `tenets/tenets.md` read in full. Section counts by `count_section_files`: topics 339/360 (338 real + 1 sidecar), concepts 340/360 (brief said 339), voids 111/115.
+- **Consistency verdict**: the four verdicts agree (Tenet 1 compatible / non-discriminating on every page; Cotard "at most suggestive" is idiom, not tier). Revelation (first-person, weak) and CMD (third-person marker) are complementary and converge on tenets.md L93: neither exhibits phenomenal causal power. Two seams at the wing's edge: (1) depersonalisation L87 says mine-ness holds "compatible with, not evidence for", but mine-ness L136 says Dualism "finds direct support" (since creation 2026-05-19; the creation-wing review asserted the same false presence); (2) "for-me-ness" names a lapsable feature (Billon, "partially or globally lacking") and the never-eliminated position (self-and-self-consciousness L148, Cotard); depersonalisation has 0 body links to self-and-self-consciousness.
+- **Cross-link gaps**: depersonalisation↔revelation (transparency's two senses) and covert-consciousness→cotard (absence of report vs report of absence) owed; none of the four links the phenomenal-authority hub's Three Layers. Also found: depersonalisation L73 cites Billon 2013 inline with no References entry.
+- **Expansion candidates**: thought insertion (no page; 9 passing mentions; Billon 2013 unengaged) and Anton's syndrome (zero coverage; one unnamed sentence in voids/erasure-void L52). Anaesthesia/isolated-forearm considered and dropped as covered.
+- **Priority list**: (1) refine-draft mine-ness L136/L76 tier, net +2; (2) refine-draft depersonalisation L73/L69/References, ≈+36; (3) refine-draft CMD L96 + revelation-thesis L71/L75, +26 / +6; (4) research-topic thought-insertion.
+- **Content files modified**: none; todo.md not modified (driver mints from the Priority list)
+- **Output**: [[reviews/optimistic-2026-10-01-report-and-access-wing]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T18:08:07+00:00 - refine-draft
 - **Status**: Success
