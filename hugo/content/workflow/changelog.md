@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 23:40:52+00:00
+ai_modified: 2026-10-01 23:54:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 23:40:52+00:00
+lastmod: 2026-10-01 23:54:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T23:54:19+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Covert-consciousness ledger batch D: qbism, substrate-independence and degrees-of-consciousness (todo P2, MULTI-FILE)
+- **Files**: [substrate-independence](/concepts/substrate-independence/); [qbism](/concepts/qbism/); [degrees-of-consciousness](/concepts/degrees-of-consciousness/) (all three edited)
+- **Word counts** (`analyze_length`, before → after; concepts hard 3,500 `>=`): substrate-independence 3,662 → 3,661 (−1; already over the gate, netted down); qbism 2,424 → 2,443 (+19); degrees-of-consciousness 2,370 → 2,445 (+75, of which ~35 are the new reference line)
+- **Source of truth**: [covert-consciousness-and-cognitive-motor-dissociation-2026-10-01](/research/covert-consciousness-and-cognitive-motor-dissociation-2026-10-01/) (Corpus Figures Ledger rows 16, 17, 18; "What the Figures License") and [covert-consciousness-and-cognitive-motor-dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) `#the-numbers-and-their-denominators`, `#misdiagnosis-is-a-different-finding`, `#the-physicalist-reading-at-full-strength`.
+- **Substrate-independence (row 17)**: L144 "[Recent clinical evidence] strengthens the point: around 25% of behaviourally non-responsive patients with disorders of consciousness harbour covert awareness—consciousness without any behavioural expression. Behavioural absence does not entail experiential absence. The Map rejects the functionalist equation" → "Clinical evidence presses on behaviour alone: brain imaging [piped to the denominators anchor] detects probable consciousness in roughly 15–25% of patients without observable command-following, but does so by reading preserved internal function, which functionalism welcomes. What matters, on the absent qualia argument, is whether ...". The anti-functionalist inference from CMD (a strawman: functionalism is not behaviourism, and CMD is detected by preserved internal function) is withdrawn; the page's case against functionalism is pointed back to its absent-qualia section. The removed `[[experimental-consciousness-science-2025-2026]]` link survives at L82 and in Further Reading.
+- **QBism (row 16)**: L63 "2025 covert consciousness findings show that around 25% of behaviourally non-responsive patients ... harbour awareness without behavioural expression—demonstrating that agent status cannot be determined by functional or behavioural criteria" → "In the best cohort to date, a quarter of patients without observable command-following showed command-following on brain imaging [piped to the denominators anchor], evidence of probable consciousness that bedside behaviour had missed, yet the same imaging tests fail in most patients who can follow commands. Behaviour alone under-detects agents, and no available test settles who is one". The self-undermining "functional criteria" clause is gone (CMD is itself a functional-imaging criterion); the point the page needs (no settled third-person criterion for agenthood) survives on the false-negative asymmetry. "2025" mislabel removed (the cohort is Bodien 2024); the experimental-science link stays in Further Reading.
+- **Degrees-of-consciousness (row 18)**: L82 "patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist" → "patients without observable command-following who nonetheless follow commands on brain imaging — indicates probable consciousness". "The approximately 40% misdiagnosis rate ... reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories" (unsourced; gloss not the source's) → a separate finding [piped to `#misdiagnosis-is-a-different-finding`]: "41% of patients with a consensus vegetative diagnosis proved minimally conscious on a standardized behavioural scale (Schnakers et al. 2009). The source's lesson is that unstandardized clinical judgement errs; this page's further reading, that a boundary so easily misplaced lies on a gradient, is one the data permit without requiring." Reference 11 added (appended; body uses no numeric cross-references).
+- **Crossref (Schnakers 2009)**: 10.1186/1471-2377-9-35 resolves to Schnakers, Vanhaudenhuyse, Giacino, Ventura, Boly, Majerus, Moonen & Laureys, "Diagnostic accuracy of the vegetative and minimally conscious state: Clinical consensus versus standardized neurobehavioral assessment", *BMC Neurology* 9(1), article 35, published 2009-07-21. The Crossref-deposited abstract carries the quoted result verbatim ("Of the 44 patients diagnosed with VS based on the clinical consensus of the medical team, 18 (41%) were found to be in MCS following standardized assessment with the CRS-R") and the conclusion that standardized assessment is "more sensitive". Labelled (abstract).
+- **Engagements**: substrate-independence vs functionalism: the CMD paragraph had substituted a behaviourism-refuting datum for an argument against functionalism; downgraded to a claim against behavioural tests (Turing's), with the functionalism disagreement left to the absent-qualia section (Mode Two there; unchanged). QBism: no named-opponent reply changed.
+- **Checks**: no "This is not X. It is Y." variants, no "load-bearing". `ai_system` already carries claude-opus-5-5 on all three pages, so it is unchanged; `ai_modified` bumped from the real clock (2026-10-01T23:53:50+00:00).
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T23:40:52+00:00 - refine-draft
 - **Status**: Success

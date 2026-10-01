@@ -4,7 +4,7 @@ description: "QBism interprets quantum states as subjective beliefs, not objecti
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-10-01T17:17:20+00:00
+ai_modified: 2026-10-01T23:53:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ QBism's deepest tension concerns its central concept: the agent.
 
 **The experience presupposition.** For an agent to update beliefs upon measurement, they must have determinate experiences—they must *find* something, not merely exist in correlation with outcomes. QBism takes for granted exactly what the [[hard-problem-of-consciousness]] asks us to explain: why there is something it is like to be an agent at all.
 
-**Consciousness is assumed, not explained.** QBism's agents aren't rocks or thermostats; they're subjects with experiences. The interpretation works only because such subjects exist. But QBism offers no resources for understanding *why* they exist or how experience arises. The difficulty is not merely theoretical: [[experimental-consciousness-science-2025-2026|2025 covert consciousness findings]] show that [[covert-consciousness-and-cognitive-motor-dissociation|around 25% of behaviourally non-responsive patients]] with disorders of consciousness harbour awareness without behavioural expression—demonstrating that agent status cannot be determined by functional or behavioural criteria, exactly the gap QBism's primitive-agent stance leaves open.
+**Consciousness is assumed, not explained.** QBism's agents aren't rocks or thermostats; they're subjects with experiences. The interpretation works only because such subjects exist. But QBism offers no resources for understanding *why* they exist or how experience arises. The difficulty is not merely theoretical. In the best cohort to date, a quarter of patients without observable command-following showed [[covert-consciousness-and-cognitive-motor-dissociation#the-numbers-and-their-denominators|command-following on brain imaging]], evidence of probable consciousness that bedside behaviour had missed, yet the same imaging tests fail in most patients who can follow commands. Behaviour alone under-detects agents, and no available test settles who is one—exactly the gap QBism's primitive-agent stance leaves open.
 
 ## QBism Versus Other Interpretations
 

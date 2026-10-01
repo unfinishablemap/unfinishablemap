@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just kind. Gra
 created: 2026-03-20
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-10-01T17:17:20+00:00
+ai_modified: 2026-10-01T23:53:50+00:00
 last_deep_review: 2026-07-16T09:58:42+00:00
 draft: false
 topics:
@@ -79,7 +79,7 @@ Cross-species comparison provides the broadest evidence for degrees. If [[consci
 
 ### Clinical Disorders
 
-[[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]] reveal gradation through clinical dissociation. [[covert-consciousness-and-cognitive-motor-dissociation|Cognitive motor dissociation]] — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
+[[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]] reveal gradation through clinical dissociation. [[covert-consciousness-and-cognitive-motor-dissociation|Cognitive motor dissociation]] — patients without observable command-following who nonetheless follow commands on brain imaging — indicates probable consciousness at degrees invisible to bedside behaviour. A [[covert-consciousness-and-cognitive-motor-dissociation#misdiagnosis-is-a-different-finding|separate finding]] concerns the boundary between vegetative and minimally conscious states: 41% of patients with a consensus vegetative diagnosis proved minimally conscious on a standardized behavioural scale (Schnakers et al. 2009). The source's lesson is that unstandardized clinical judgement errs; this page's further reading, that a boundary so easily misplaced lies on a gradient, is one the data permit without requiring.
 
 ## Theoretical Frameworks
 
@@ -150,3 +150,4 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 8. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
 9. Bayne, T., Hohwy, J., & Owen, A. M. (2016). Are There Levels of Consciousness? *Trends in Cognitive Sciences*, 20(6), 405-413.
 10. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Minimal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/minimal-consciousness/
+11. Schnakers, C., Vanhaudenhuyse, A., Giacino, J., Ventura, M., Boly, M., Majerus, S., Moonen, G., & Laureys, S. (2009). Diagnostic accuracy of the vegetative and minimally conscious state: Clinical consensus versus standardized neurobehavioral assessment. *BMC Neurology*, 9, 35. https://doi.org/10.1186/1471-2377-9-35 (abstract)

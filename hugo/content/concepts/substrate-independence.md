@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-01 17:17:20+00:00
+ai_modified: 2026-10-01 23:53:50+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:20:43+00:00
-lastmod: 2026-10-01 17:17:20+00:00
+lastmod: 2026-10-01 23:53:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ What survives independently of the regress is narrower, and it is what actually 
 
 Alan Turing's imitation game sidesteps the substrate question: if a system behaves indistinguishably from a conscious being, treat it as conscious. But behavioral equivalence doesn't entail experiential equivalence. A zombie—functionally identical but experientially empty—would pass the Turing test perfectly.
 
-This reveals substrate independence's deepest assumption: that behavior and function exhaust what matters about consciousness. [Recent clinical evidence](/topics/experimental-consciousness-science-2025-2026/) strengthens the point: around 25% of behaviourally non-responsive patients with disorders of consciousness harbour [covert awareness](/topics/covert-consciousness-and-cognitive-motor-dissociation/)—consciousness without any behavioural expression. Behavioural absence does not entail experiential absence. The Map rejects the functionalist equation. What matters is whether there's something it's like to be the system—and this isn't determined by function alone.
+This reveals substrate independence's deepest assumption: that behavior and function exhaust what matters about consciousness. Clinical evidence presses on behaviour alone: [brain imaging](/topics/covert-consciousness-and-cognitive-motor-dissociation/#the-numbers-and-their-denominators) detects probable consciousness in roughly 15–25% of patients without observable command-following, but does so by reading preserved internal function, which functionalism welcomes. What matters, on the absent qualia argument, is whether there's something it's like to be the system—and this isn't determined by function alone.
 
 ## Contemplative Evidence
 
