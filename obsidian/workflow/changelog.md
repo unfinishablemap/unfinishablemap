@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T19:48:58+00:00
+ai_modified: 2026-10-01T20:38:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T20:38:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/thought-insertion]]
+- **Word count**: 2,593 → 2,642 (+49) by `analyze_length`; concepts soft 2,500 / hard 3,500. Growth is the critical Lane recalibration; four trims offset part of it.
+- **Critical issues addressed**: 4. (1) Dropped qualifier on Lane: ZK 2016 p. 44 continues "but claims that this has no bearing on the issue of for-me-ness"; the page had used the truncated concession as evidence that Lane grants for-me-ness (L37, L75, L91, L93 fixed). (2) "It survives on uncontested ground" was overstated relative to the page's own L97; now "It survives on shared ground under a disputed name"; the falsifier concession is scoped to the clinical record, with "none yet exist". (3) Anachronism: "Gallagher replies (2007)" to Billon 2013, changed to "Gallagher's earlier answer". (4) References 9 provenance: "content via HPZ 2019" changed to "content via Gallagher 2007"; HPZ discuss Stephens & Graham 1994 (*PPP*), not "Mind and mine".
+- **Medium issues addressed**: 7. Lead numbering clash ("the fifth" became "the remaining one"); L69 "anything first-personal" became "for-me-ness"; L65 "need remove none"; L85 tags "drop out or misfire"; L99 "reportability alone"; Allison-Bolger (surname, year) orphan; Henriksen & Parnas 2019 DataCite DOI 10.13136/thau.v7i0.99 added.
+- **Enhancements made**: 2 (Gallagher 2000 provenance label; reading label italicised as not-a-quotation)
+- **Citation web-verify**: 22 works checked at Crossref, DataCite or PubMed. All 54 quoted body spans were grep-verified against raw full texts or abstracts retrieved this session (Billon 2013 and 2023, ZK 2016, HPZ 2019, H&P 2019, Guillot 2017, Gallagher 2007 and 8 PubMed abstracts); 0 misses.
+- **Engagements**: Gallagher agency reading: Mode One (Billon's OCD objection is internal to it). Lane and Metzinger: Mode Three, honestly reported. Self-model physicalist: Mode Two with a Mode Three residue (gap named, no gap argument). Billon §4.1 against the Map's inference: conceded.
+- **Output**: [[reviews/deep-review-2026-10-01-thought-insertion]]
 
 ## 2026-10-01T19:48:58+00:00 - expand-topic
 - **Status**: Success
