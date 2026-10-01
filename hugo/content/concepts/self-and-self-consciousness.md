@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-09-30 15:15:21+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_modified: 2026-10-01 21:41:29+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/self-and-consciousness/
@@ -31,7 +31,7 @@ concepts:
 - '[[illusionism]]'
 - '[[mine-ness]]'
 created: 2026-01-14
-date: &id001 2026-09-30
+date: &id001 2026-10-01
 description: The minimal self is the structural for-me-ness of every conscious experience,
   not an addition to consciousness. Self-consciousness—the reflexive awareness of
   this structure—resists construction from non-reflexive parts and supports dualist
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-09-30 15:15:21+00:00
+lastmod: 2026-10-01 21:41:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,7 +150,7 @@ This Zahavi/Metzinger choice is the Western form of a dispute the classical Indi
 
 Sass and Parnas's work on schizophrenic ipseity disturbance, alongside the depersonalisation literature, documents scalar disruption of for-me-ness — thoughts experienced as alien, the self felt as unreal while experience continues. These appear to threaten the constitutive claim.
 
-The claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — never that it fully dissolves while phenomenal life continues. Schizophrenic reports describe encounters with the breakdown of for-me-ness *from* a position; depersonalisation patients report the self's unreality *to* themselves. [Every reported case is reported from somewhere](/concepts/cotard-delusion/). The falsifying scenario is specifiable but absent from the evidence: not attenuation but clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered.
+The claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — never that it fully dissolves while phenomenal life continues. Schizophrenic reports describe the breakdown of for-me-ness *from* a position; depersonalisation patients report the self's unreality *to* themselves. [Every reported case is reported from somewhere](/concepts/cotard-delusion/). The falsifier is conceptual against the clinical record, since [no report could meet it](/concepts/thought-insertion/): clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered.
 
 This methodological move generalises (see [self-opacity void](/voids/self-opacity/#constitutive-as-kind-not-as-degree)): distinguish kind-claim from degree-claim, name the falsifying scenario as elimination rather than attenuation, and concede scalar variation without conceding structural contingency.
 

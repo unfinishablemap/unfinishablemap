@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-09-30 15:15:21+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-01 21:41:29+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/unobservable-self/
@@ -26,7 +26,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[mine-ness]]'
 created: 2026-01-14
-date: &id001 2026-09-30
+date: &id001 2026-10-01
 description: Consciousness cannot fully know itself—six thinkers from divergent frameworks,
   empirical psychology, and phenomenology converge on a single void at the heart of
   subjectivity.
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:51:06+00:00
-lastmod: 2026-09-30 15:15:21+00:00
+lastmod: 2026-10-01 21:41:29+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -148,7 +148,7 @@ Clinical evidence shows the subject-object asymmetry varies in strength. Sass an
 
 The resolution mirrors the Map's general treatment of first-personal givenness (see [self-and-self-consciousness](/concepts/self-and-self-consciousness/#constitutive-as-kind-not-as-degree)). The constitutive claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise—not that it fully dissolves while experience continues. Schizophrenic reports describe felt encounters with the breakdown itself; depersonalisation is reported *from* a subjective position even when that position feels unreal. [Every reported case is reported from somewhere](/concepts/cotard-delusion/).
 
-What would undermine the constitutive reading is phenomenal life continuing fully *without* the asymmetry—a clean elimination, not an attenuation. Evidence to date supplies only the latter.
+The falsifier—phenomenal life continuing fully *without* the asymmetry, a clean elimination, not an attenuation—is conceptual against the clinical record, since [no report could meet it](/concepts/thought-insertion/).
 
 ## What Would Challenge This View
 

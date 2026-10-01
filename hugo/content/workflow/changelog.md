@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 21:10:06+00:00
+ai_modified: 2026-10-01 21:42:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-01'
-lastmod: 2026-10-01 21:10:06+00:00
+lastmod: 2026-10-01 21:42:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-01T21:42:03+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Cross-review thought insertion B: relabel the kind-claim falsifier as conceptual on three pages, net-negative (todo P2; run as refine-draft, no cross-review skill)
+- **Files**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/); [self-opacity](/voids/self-opacity/); [cotard-delusion](/concepts/cotard-delusion/)
+- **Word counts** (`analyze_length`, before → after): self-and-self-consciousness 3,538 → 3,537 (−1; concepts hard 3,500, still hard_warning, was already over); self-opacity 3,072 → 3,071 (−1; voids hard 3,000, still hard_warning, was already over); cotard-delusion 3,489 → 3,489 (0; 11 words of headroom kept)
+- **Changes**: (1) Self-and-self-consciousness L148: "The falsifying scenario is specifiable but absent from the evidence: not attenuation but clean elimination — …" now reads "The falsifier is conceptual against the clinical record, since [no report could meet it](/concepts/thought-insertion/): clean elimination — …". The 16-word falsifier span that thought-insertion L96 and cotard-delusion L64 quote is unchanged, and so is the L148 "Clinical variation …" sentence that thought-insertion L90 quotes. Paid for by "describe encounters with the breakdown" → "describe the breakdown" in the same paragraph; the "not attenuation" contrast is dropped here because the paragraph's second sentence already carries it. (2) Self-opacity L147: "What would undermine the constitutive reading is … a clean elimination, not an attenuation. Evidence to date supplies only the latter." now reads "The falsifier—phenomenal life continuing fully *without* the asymmetry, a clean elimination, not an attenuation—is conceptual against the clinical record, since [no report could meet it](/concepts/thought-insertion/)." This keeps the "clean elimination, not an attenuation" wording that pairs the page with self-and-self-consciousness (deep review 2026-04-30). (3) Cotard-delusion L64: "with a specifiable falsifier:" now reads "with a falsifier [no report could meet](/concepts/thought-insertion/):". The quotation stays verbatim against the new self-and-self-consciousness text. Paid for by "as a claim about kind" → "as one about kind" and "to the system's existence" → "to existence".
+- **Tier claims**: unchanged on all three pages. Only the description of the falsifier changed. It is called conceptual against the clinical record, not in every possible case, matching thought-insertion's "Against the clinical record the falsifier is conceptual", so the third-person route that page keeps open stays open. Cotard's "it passes" and the "Passing the test settles less than it appears to" paragraph after it now read consistently with a falsifier that no report could meet. "Uncontested ground" is not used anywhere.
+- **Links**: [thought-insertion](/concepts/thought-insertion/) is piped over the new falsifier phrase at all three loci, adding no words. It is new on each page and gives cotard-delusion a reciprocal for thought-insertion L98.
+- **Reported, not added**: self-and-self-consciousness would benefit from citing Henriksen, Parnas & Zahavi (2019), *Consciousness and Cognition* 74, 102770, as the closest published statement of the kind-claim ("neither lacking nor unaffected but disturbed", per thought-insertion L90). The page is over its gate, so the citation (about 25 words with its References entry) needs a paired trim or a condense pass. The new thought-insertion link already takes readers to HPZ.
+- **Not touched**: self-and-self-consciousness L150 ("name the falsifying scenario as elimination rather than attenuation") and L184 (testability needs reports, which presuppose a reporter) are both still accurate. The pre-existing "load-bearing" at self-and-self-consciousness L70 and the "not uncontested" at cotard-delusion L56 (two-factor theory, unrelated) were left alone.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T21:10:06+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **30th consecutive**, the expected steady-state outcome per the coalesce candidate-pool memory.
