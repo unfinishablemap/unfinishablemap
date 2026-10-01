@@ -282,3 +282,32 @@
   subject_articles:
   - concepts/neural-correlates-of-consciousness.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/bb2ccbcb-b7d3-42c7-b78b-a562b507061f
+  commissioned_at: '2026-10-01T03:40:00.553725+00:00'
+  prompt_summary: Hostile referee audit of neural-correlates-of-consciousness (NCC,
+    COGITATE)
+  target_filename: outer-review-2026-10-01-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy site: https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
+    (about 3,400 words, 22 references, last substantively revised 2026-09-24; see
+    https://unfinishablemap.org/workflow/changelog/ for recent edits, since search
+    indexes may lag). The article argues that correlation is not identity and that
+    NCC findings are compatible with dualism, physicalism, and filter theory. Use
+    Research to check: (1) every empirical and citation claim, including Chalmers
+    2000''s NCC definition and the COGITATE 2025 Nature adversarial collaboration;
+    (2) whether the identity, emergence, and interaction readings and the four stated
+    falsifiers are fairly presented, and whether strong counterarguments are missing;
+    (3) whether the article brackets evidence to protect the site''s tenets; (4) stale
+    or superseded references; (5) integration with neighbouring Map articles. Be severe
+    and specific. Deliver the report as an artifact. End your report with a list of
+    concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit neural-correlates-of-consciousness
+  subject_articles:
+  - concepts/neural-correlates-of-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-01-chatgpt-5-6-sol-pro.md

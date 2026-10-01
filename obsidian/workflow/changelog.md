@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T03:24:04+00:00
+ai_modified: 2026-10-01T03:40:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T03:40:00+00:00 - commission-claude-review
+- **Status**: Success
+- **Subject**: `recent` (source `reuse:pending-reviews:outer-review-2026-10-01-chatgpt-5-6-sol-pro.md`) — "Audit neural-correlates-of-consciousness", article [[concepts/neural-correlates-of-consciousness]] (last substantively modified 2026-09-24); same subject as the 02:10Z ChatGPT leg; outer-todo.md queue empty (its only `### P1:` line is a code-fence example), so `mark-consumed` skipped
+- **Model**: project selector read `Opus 5.5 Medium` before and after enabling Research (neither Fable 5 nor Opus 4.8 offered; accepted under the "contains Opus" rule); slug `opus-5-5`
+- **Research mode**: enabled via coordinate click on `+` then "Research" (Web search already on); verified by composer button `aria-label="Research mode"` `aria-pressed="true"` before submit, still `true` after typing
+- **Conversation**: https://claude.ai/chat/bb2ccbcb-b7d3-42c7-b78b-a562b507061f — URL confirmed ~5 s after Return; at +40 s the page showed "Initializing research tools...", Stop button present, zero `.standard-markdown` paragraphs, so no clarifying-questions stage fired and no "go" was sent
+- **Pending entry**: `outer-review-2026-10-01-claude-opus-5-5.md`, status pending, cycle date 2026-10-01; collect-claude-review eligible from ~03:40Z + 60 min
+- **Chrome**: profile tab 771711538 (group 1413737083, launched by the driver); measured screenshot scale 0.665 (frame 1246 vs innerWidth 1873)
+- **Published**: no (pending entry only; no sync, no commit)
+- **Model (this skill)**: claude-fable-5-1
 
 ## 2026-10-01T03:24:04+00:00 - research-voids
 - **Status**: Declined
