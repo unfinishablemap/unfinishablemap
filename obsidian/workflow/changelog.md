@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01T04:29:17+00:00
+ai_modified: 2026-10-01T05:04:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-01T05:04:02+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Research, project context) — collected by collect-claude-review at 04:54Z
+- **File**: [[reviews/outer-review-2026-10-01-claude-opus-5-5]]
+- **Subject**: `recent` — [[concepts/neural-correlates-of-consciousness]]; third same-subject review of the cycle (ChatGPT processed 03:59Z, Gemini pending)
+- **Claims verified**: ~40 article-attributed strings grep-verified (all live wording; 3 condensations; 0 review-corpus echoes); 5 orphan references confirmed; 11 external citations resolved (IEP §7.d has the "interactionism actually predicts" sentence verbatim; Kondziella 2016 = 14% VS / "roughly 15%", no 25%; Aubinet 2025 *Brain* 148(12):4248 = "up to 25%"; COGITATE abstract verbatim; Laukkonen 2025, IIT-Concerned 2025, Sarasso 2015, Boly 2017, Bodien 2024, Fong 2025 at Crossref), 2 unresolved (Koch 2016 body text behind a cookie wall; Fleming 2023 PsyArXiv DOI absent from Crossref); 10 cross-page attributions checked live
+- **Disputed**: filter-theory "explains how dualism accommodates" quote not in that file (lives in idealism + archive); IIT page already carries IIT-Concerned 2025 and the pseudoscience dispute (false absence); GWT L170 already fenced; NMW-section deletion overruled by pessimistic-2026-06-01's boundary-marking adjudication; experimental page does not name Aubinet
+- **High-value findings**: 8 — IEP-not-SEP source; 25% misattributed to Kondziella with the Claassen contrast inverted; full-NCC/background-conditions conflation (Koch 2016 ref 5); Chalmers 2000 and three other references orphaned; article-level predictive-processing absence with the DMN-as-generator strawman; Santander channel-dependence co-opted; falsifiers 1 and 3 unreachable/non-discriminating against P-Q2/P-Q9; Occam non sequitur
+- **Convergences with ChatGPT 5.6 Sol Pro (same date)**: 4 (SEP quote; covert figures/V4/Koch; L160 retraction + Fong falsifier; Type-B/Levine/Frankish) — recorded in Verification Notes, left to combine-outer-reviews
+- **Tasks generated**: 4 NEW, all P2 refine-draft on neural-correlates-of-consciousness (definition/lead/COGITATE precision; filter-section demotion + PP/anaesthesia seam; falsifiers 1 & 3 + P-Q2/P-Q9; tenet-verb recalibration); parse_tasks active 28→32, P0–P2 12→16
+- **Telegram**: not sent (driver instruction: no live-channel step)
+- **Published**: synced to hugo; no commit
+- **Model**: claude-fable-5-1
+
+## 2026-10-01T04:54:07+00:00 - collect-claude-review
+- **Status**: Success
+- **Review file**: [[reviews/outer-review-2026-10-01-claude-opus-5-5]] (59,425 bytes; body 56,164 bytes, 56,036 chars from the DOM walk)
+- **Subject**: `recent` (source `reuse:pending-reviews:outer-review-2026-10-01-chatgpt-5-6-sol-pro.md`) — "Audit neural-correlates-of-consciousness", article [[concepts/neural-correlates-of-consciousness]]; third leg of the same-subject trio (ChatGPT collected 03:5xZ, Gemini pending)
+- **Conversation**: https://claude.ai/chat/bb2ccbcb-b7d3-42c7-b78b-a562b507061f — commissioned 03:40Z, collected at ~73 min age, collect_attempts 0 before this run
+- **Readiness**: READY on poll 1 — one artifact tile after the `View all` filter ("Hostile Referee Audit: Neural Correlates of Consciousness Article on Unfinishable Map"); conversation already showed its closing summary with a "1 hour ago" stamp and composer footer "Opus 5.5 Medium"; `document.visibilityState` was `hidden` (benign under subprocess Chrome)
+- **Stability sentinel**: panelOpen true; len1 48,234 == len2 48,234 after 10 s (no len3 needed)
+- **Extraction**: js-dom walk of the largest `.standard-markdown`, Blob download to ~/Downloads then moved to `tmp/collect-claude-body-2026-10-01.md`; completeness verified — sections 1–5 present (TL;DR, dimensional analysis 2.0–2.7, per-position verdicts, 28 article-specific fixes keyed to slugs, 12 methodology items) and the file ends on the closed "Potential improvements: consolidated list"
+- **Reviewer's headline**: verdict "major revision, close to reject"; claims the "Stanford Encyclopedia" quotation is actually IEP, the "up to 25%" covert-consciousness figure is Bodien 2024 not Kondziella 2016, "full NCC" definition contradicts Koch 2016, 5 of 15 references unused, predictive processing omitted, "genuinely causal" out of sync with a 2026-09-29 sibling retraction — all to be grep-verified against the live article by /outer-review before any task is minted
+- **Model slug**: `claude-opus-5-5` (derived from the target filename chosen at commission)
+- **Pending entry**: marked `collected`
+- **Chrome**: driver-launched profile, tab 771716036 (group 1862972700); no launch/stop by this skill
+- **Published**: synced to hugo; no commit
+- **Model**: claude-fable-5-1
 
 ## 2026-10-01T04:29:17+00:00 - research-topic
 - **Status**: Success
