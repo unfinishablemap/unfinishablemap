@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T14:52:55+00:00
+ai_modified: 2026-10-02T15:23:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T15:23:06+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Thought insertion: test the per-experience form of the kind-claim and concede the inner-location inference. Pessimistic review 2026-10-02 (reviews/pessimistic-2026-10-02-thought-insertion.md) Priority items 1 and 2, merged because item 1's new sentence points "(below)" to the concession item 2 writes. The review's replacement text was used verbatim; no live sentence had drifted since the review.
+- **File**: [[concepts/thought-insertion]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted review fix
+- **Word count** (`analyze_length` body words, concepts hard 3,500, gate `>=`): 2,642 → 2,801 (+159; the review estimated +91 and +68). Headroom is now 698.
+- **Item 1 (per-experience grain)**:
+  - L92: "**It survives.**" → "**Its global form survives.**". After the existing sentence, added the paragraph's per-experience test. It quotes [[concepts/self-and-self-consciousness]] L74 "no genuinely anonymous experiences exist", re-grepped live at 15:23Z. It names the reportable falsifier, "one conscious episode not given for-me, registered from the patient's other experiences", and states that the Map's reply to Lane rests on the universalists' contextual reading of the reports.
+  - L96: the header only changed, to "**Its global falsifier cannot be met by any report.**". The body is unchanged per the 2026-10-01 deep-review stability note.
+  - L38 lead: "without testing it: its falsifier … faces an unanswered objection," → "without settling it: its global falsifier … its per-experience form survives Lane's contrary reading only if the reports are read in clinical context, … faces an objection the universalist replies leave unanswered,".
+- **Item 2 (access versus phenomenality)**:
+  - L94: "**It survives on shared ground under a disputed name.** Every party grants that the thought is given to the patient alone. …" → "**Its survival turns on a disputed name.** Every party grants that the thought is accessible to the patient alone, the epistemic asymmetry HPZ take as their criterion for surviving for-me-ness. …". The new text adds Billon's reflexive-availability reading. It also adds HPZ's one-way face-value standard (folds in review Issue 6) and "The claim survives on this ground only if the asymmetry is phenomenal, which is the point in dispute."
+  - L98 header: "faces an unanswered objection" → "faces an objection the universalist replies leave unanswered".
+  - L98 final sentence: "The Map's answer is that the objection defeats the inference and spares the claim: … so the kind-claim must rest on the tie between phenomenality and subjectivity that Billon's own solution preserves." → "The Map concedes the inference: … nothing phenomenal. The kind-claim then rests on the Cartesian principle itself, a commitment the case does not support, and Billon keeps that principle only by positing thoughts the patient can report without experiencing them."
+- **Billon 2013 reading**: unchanged. Inserted thoughts lack subjectivity and are not phenomenally conscious, and the page's own voice never treats them as a counterexample. L62 and L92 are untouched.
+- **Engagement modes (editor-internal)**:
+  - Lane: Mode Three plus an honest report. The per-experience contest is now stated as contested, not answered.
+  - Billon §4.1: an honest concession. The kind-claim is now placed as a framework commitment the case does not support (the coherence tier), with no boundary substitution.
+  - HPZ: Mode One. Their own face-value caution is applied to the half of the report they rely on.
+- **Not touched (queued separately)**:
+  - L3 description ("survives untested") and L36 lead ("presented to the patient alone"). Both belong to the P3 item-3 task.
+  - L54, L84, L86 and L104. These belong to the P3 item-4 task.
+- **Dependent carry (reported to the driver, not edited)**:
+  - [[concepts/self-and-self-consciousness]] L146–148: "never" → "not", the per-experience sentence, and the "Schizophrenic reports …" sentence cut. Net −3.
+  - [[concepts/thought-insertion]] L90: its verbatim quote must take "not" in the same commit (±0).
+  - [[concepts/cotard-delusion]] L3, L64 ("and it passes") and L66 ("Passing the test"). Net +2.
+- **Published**: yes. Model: claude-opus-5-5.
 
 ## 2026-10-02T14:52:55+00:00 - refine-draft
 - **Status**: Success
