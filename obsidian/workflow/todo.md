@@ -1921,6 +1921,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Batch with**: the open P3 "Run the second-order IBE against the phenomenal-concepts strategy on the IBE page" (same file); whoever runs that task decides the Type-B tier, so do both in one edit if it is still open.
 - **Notes**: The IBE page's Verdict (L74, text "provisional against the Type-B physicalist until the second-order comparison is run") and L80 ("Until then the first reply's *suggestive* tier is provisional") hold the widened-set reply at a provisional *suggestive* against Type-B. concepts/type-a-type-b-and-type-c-physicalism (§The Map's Tier Against Each Type) gives Type-B *compatible*, lifted to *suggestive* only if a second-order comparison favours dualism by stated criteria. The stricter reading is the P-M1-consistent one: Type-B grants phenomenal character as a datum and accounts for it by identity plus phenomenal concepts, so the widened explanandum does not favour dualism over Type-B until the unrun comparison is run, and an unrun comparison cannot hold a tier even provisionally. Reword L74/L80 so the tier against Type-B reads *compatible* until the second-order comparison is run (e.g. "…against a physicalist who denies the datum; against the Type-B physicalist, *compatible* until the second-order comparison is run"), or, if the second-order IBE has been run and favours dualism by stated criteria, update the Type-B bullet on the Type-A/B/C page instead. Locate targets by text, not line number. Do not touch the page's other tiers. `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync; verify both trees.
 
+### P3: Link the plurality void and manyism to each other (each bears on the other's central claim; zero links either way)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/plurality-void.md
+- **Section**: voids
+- **Status**: pending
+- **Source**: coalesce 2026-10-02 12:53Z (abandonment; cross-section pair 1 dropped as opposed rather than duplicate)
+- **Generated**: 2026-10-02
+- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/concepts/manyism.md
+- **Headroom**: plurality-void 1,244 (1,755/3,000); manyism 1,877 (1,622/3,500), by `analyze_length`.
+- **Caution**: Two files; report each. Do NOT merge them; the coalesce run judged them opponents, not duplicates.
+- **Notes**: voids/plurality-void says we cannot conceive "what it would be like to be us" as a genuinely plural first person (L51). concepts/manyism presents Roelofs' view that many overlapping conscious subjects coexist in one place by sharing experience, and treats it as the strongest constitutive-panpsychist rival on the unity question. Neither page links the other. Install the reciprocal in both directions: at manyism, one sentence noting that experience-sharing posits exactly the plural subjecthood the plurality void finds inconceivable from the inside (whether that tells against manyism or only marks a limit of conception is the open question; state it at that tier, since inconceivability from the inside does not establish impossibility); at plurality-void, a piped link where it discusses plural subjects, naming manyism as the live theory that requires what the void cannot picture. Prefer `[[slug|existing text]]` where an existing phrase fits.
+
 ## Completed Tasks
 
 
