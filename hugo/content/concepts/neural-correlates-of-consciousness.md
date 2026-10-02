@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-02 07:28:26+00:00
+ai_modified: 2026-10-02 07:44:39+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:17:26+00:00
-lastmod: 2026-10-02 07:28:26+00:00
+lastmod: 2026-10-02 07:44:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,11 +92,7 @@ NCC research addresses what David Chalmers calls the "easy problems"—which bra
 
 For interactionist frameworks, NCC research may help locate the *interface* where consciousness and brain interact. If the posterior cortical hot zone is where conscious content emerges, this region might be where consciousness both "reads" physical information and "writes" back (per [Bidirectional Interaction](/tenets/#bidirectional-interaction)). [Quantum consciousness](/concepts/quantum-consciousness/) mechanisms would need to operate at this interface.
 
-### Borrowed Tooling: The Geometric / Feature-Space Description
-
-Some NCC tooling is methodologically appropriable from research programmes whose metaphysics the Map rejects. Włodzisław Duch's [geometric / feature-space programme](/concepts/geometric-model-of-mind/) (Duch 1998, 2022) describes mental states as quasi-stable attractor basins in a multi-dimensional psychological space, mental events as trajectories between attractors, and concepts as topological structure over those trajectories. Empirical loading comes from feature-space matches to similarity-judgment data (the Duch & Naud animal-concept experiment) and from the broader neurocognitive-informatics programme. The framework supplies an intermediate-level correlate-side description — between symbolic AI and pure neural simulation — of how transitions between attractors map onto reportable changes in conscious content.
-
-The Map borrows the empirical tooling without Duch's metaphysical reading of mind as a "shadow" of neurodynamics. That reading is ontologically derivative ([Tenet 1](/tenets/#dualism) rejects it) and structurally compatible with the epiphenomenalism [Tenet 3](/tenets/#bidirectional-interaction) rejects. Per [framework-stage-calibration](/project/framework-stage-calibration/), the borrowing stays at the empirical layer; convergence and divergence are mapped in [the Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/).
+Correlate-side description can also borrow tooling whose metaphysics the Map does not share. Włodzisław Duch's [geometric / feature-space programme](/concepts/geometric-model-of-mind/) (Duch 1998, 2022) models mental states as attractor basins in a psychological feature space; per [framework-stage-calibration](/project/framework-stage-calibration/), the Map borrows it at the empirical layer only, without Duch's reading of mind as a "shadow" of neurodynamics.
 
 ## Memory Systems and NCC Requirements
 
@@ -114,14 +110,16 @@ The hippocampus is essential for [autonoetic consciousness](/concepts/anoetic-no
 
 [Filter theory](/concepts/filter-theory/) proposes that the brain *transmits* consciousness rather than producing it. On this view, NCCs identify where consciousness *interfaces* with neural processes—not where it's generated. James's prism analogy: the prism doesn't produce colors but reveals them by refracting light.
 
-Several findings support this reading:
+Several findings are compatible with this reading; none discriminates it from production:
 
-- **Covert consciousness**: Meta-analyses suggest up to 25% of behaviourally unresponsive patients show neural responses consistent with consciousness (Kondziella et al., 2016; see also [disorders of consciousness as test cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)). This figure is contested—Claassen et al. (2019) and subsequent work report lower estimates (around 15%) under stricter command-following criteria. Even at the lower bound, if awareness persists when its supposed neural basis fails to generate behavioural outputs, consciousness is not identical to those outputs.
-- **Disconnection syndromes**: Brain damage typically produces disconnection rather than destruction—[hemispherectomy patients](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/) retain substantially normal consciousness despite missing half their cortex, and a 2025 study (Santander et al., *PNAS*) found that a near-complete callosotomy patient with only a fraction of posterior callosal fibres intact maintained full interhemispheric integration with no disconnection syndrome—preserved behavioural [unity](/topics/experimental-consciousness-science-2025-2026/).
-- **Psychedelic dissolution**: Psilocybin and other psychedelics dissolve the Default Mode Network—the neural substrate most often identified with the self-model—yet consciousness persists and often *intensifies* (see [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)). If consciousness were generated by these neural patterns, disrupting them should diminish experience, not enhance it.
-- **Anesthetic dissociations**: Propofol and ketamine both produce behavioural unresponsiveness but radically different experiences—near-total extinction versus vivid dissociative states.
+- **Covert consciousness**: Some patients without bedside command-following show command-following on fMRI or EEG, at [rates that vary with cohort and method](/topics/covert-consciousness-and-cognitive-motor-dissociation/#the-numbers-and-their-denominators) (see also [disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)). Detection runs through preserved, task-specific cortical activity, so a positive result tells against inferring absent experience from absent behaviour, not against neural dependence.
+- **Disconnection syndromes**: Brain damage typically produces disconnection rather than destruction—[hemispherectomy patients](/topics/hemispherectomy-and-the-resilience-of-unified-consciousness/) retain substantially normal consciousness despite missing half their cortex.
+- **Psychedelic reorganisation**: Psilocybin desynchronises and reorganises brain networks, the Default Mode Network most strongly (Siegel et al. 2024), while consciousness persists and is often reported as more vivid ([psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)). Production views treat the DMN as a candidate self-model, not the generator of experience, so they expect altered self-experience; the state is also [metabolically expensive](/concepts/filter-theory/#the-psychedelic-paradox), and by filter theory's own reckoning the metabolic data discriminates no better than the imaging.
+- **Anesthetic dissociations**: Propofol and ketamine both produce behavioural unresponsiveness, yet ketamine typically brings vivid dissociative states, and even deep propofol sedation often yields reports of experience on awakening (Bajwa et al. 2025).
 
-These findings form one evidential pattern—*consciousness appearing where a straightforward production reading predicts its diminution*—not four independent confirmations of the transmission reading, and should be counted as one. The same accommodation move is symmetrically available to the production theorist, who treats each case as a localised disruption of a still-intact generator (covert consciousness as preserved generation with severed output; psychedelic intensification as disinhibited cortical generation; callosal integration as a generator needing only a thin posterior channel). The propofol "near-total extinction" the bullet above enrols as support is in fact a case the transmission framing must *accommodate*: the most natural reading of consciousness winking out under propofol is that the brain generates it, and the filter framing handles this only by treating propofol as narrowing the interface toward zero bandwidth (see [anaesthesia and the consciousness interface](/topics/anaesthesia-and-the-consciousness-interface/) and [altered states of consciousness](/concepts/altered-states-of-consciousness/)). Because both framings accommodate the same set by parallel moves, the cluster carries the weight of one underdetermined pattern and cannot honestly be cited as independent confirmation of transmission. NCC data is compatible with either reading; the discriminating work comes from broader theoretical considerations, not a tally of cases.
+These findings form one evidential pattern—*consciousness appearing where a straightforward production reading predicts its diminution*—not four independent confirmations of the transmission reading, and should be counted as one. The same accommodation move is symmetrically available to the production theorist, who treats each case as a localised disruption of a still-intact generator (covert consciousness as preserved generation with severed output; psychedelic intensification as disinhibited cortical generation). Where propofol does abolish reportable experience, the transmission framing must *accommodate* the case: the most natural reading is that the brain generates consciousness, and the filter framing handles this only by treating propofol as narrowing the interface toward zero bandwidth (see [anaesthesia and the consciousness interface](/topics/anaesthesia-and-the-consciousness-interface/#phenomenal-presence), where circuit-level propofol data serves the filter reading no more than its rivals, and [altered states of consciousness](/concepts/altered-states-of-consciousness/)). Because both framings accommodate the same set by parallel moves, the cluster carries the weight of one underdetermined pattern and cannot honestly be cited as independent confirmation of transmission. NCC data is compatible with either reading; the discriminating work comes from broader theoretical considerations, not a tally of cases.
+
+Callosal evidence leans toward production. In Santander et al. (2025), partial-callosotomy patients with as little as 1 cm of splenium intact kept full interhemispheric integration without behavioural disconnection, while complete callosotomy disrupted interhemispheric networks: [unity](/topics/experimental-consciousness-science-2025-2026/) tracks a surviving physical channel. Production also has a candidate mechanism for altered states: Laukkonen, Friston and Chandaria (2025) present their [active-inference theory](/topics/predictive-processing-and-dualism/) as "deeply revealing about altered states, meditation, and the full spectrum of conscious experience", and filter theory offers no prediction that separates the two.
 
 ## The Illusionist Challenge
 
@@ -216,6 +214,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 
 ## References
 
+1. Bajwa, I.J., et al. (2025). A repeated awakening study exploring the capacity of complexity measures to capture dreaming during propofol sedation. *Scientific Reports*, 15, 32746. https://doi.org/10.1038/s41598-025-12695-z (abstract)
 1. Bouvier, S.E., & Engel, S.A. (2006). Behavioral deficits and cortical damage loci in cerebral achromatopsia. *Cerebral Cortex*, 16(2), 183-191. https://doi.org/10.1093/cercor/bhi096 (abstract)
 1. Calef, S. "Dualism and Mind." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/dualism-and-mind/ (full text)
 1. Chalmers, D.J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness* (pp. 17-40). MIT Press. https://consc.net/papers/ncc2.html (full text)
@@ -223,13 +222,13 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39. https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf (author's eprint)
 1. Josipovic, Z. (2019). Nondual Awareness: Consciousness-as-such as Non-representational Reflexivity. *Progress in Brain Research*, 244, 273-298.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17(5), 307-321. https://doi.org/10.1038/nrn.2016.22 (Key Points, abstract)
-1. Kondziella, D., Friberg, C.K., Frokjaer, V.G., Fabricius, M., & Møller, K. (2016). Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*, 87, 485-492.
-1. Claassen, J., et al. (2019). Detection of Brain Activation in Unresponsive Patients with Acute Brain Injury. *New England Journal of Medicine*, 380, 2497-2505.
+1. Laukkonen, R.E., Friston, K.J., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296 (abstract)
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361. https://www.newdualism.org/papers/J.Levine/Levine-PPQ1983.pdf (full text)
 1. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
 1. Duch, W. (2022). Concept Representation and the Geometric Model of Mind. *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
 1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
-1. Santander, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*. https://www.pnas.org/doi/10.1073/pnas.2520190122
+1. Santander, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. https://www.pnas.org/doi/10.1073/pnas.2520190122 (abstract)
+1. Siegel, J.S., et al. (2024). Psilocybin desynchronizes the human brain. *Nature*, 632(8023), 131-138. https://doi.org/10.1038/s41586-024-07624-5 (abstract)
 1. Stanford Encyclopedia of Philosophy. Dualism. https://plato.stanford.edu/entries/dualism/
 1. Tallis, R. (2024). Tallis in Wonderland: The Illusion of Illusionism. *Philosophy Now*, 161, 58-59. https://philosophynow.org/issues/161/The_Illusion_of_Illusionism (full text)
 1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
