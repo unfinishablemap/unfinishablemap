@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-02T14:43:25.188693+00:00'
-session_count: 21894
-cycle_position: 14206
+last_updated: '2026-10-02T14:54:59.504069+00:00'
+session_count: 21895
+cycle_position: 14207
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-02T13:38:24.700367+00:00'
+  agentic-social: '2026-10-02T15:07:31.115114+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-10-01T03:10:13.014433+00:00'
   check-model-fallback: '2026-10-02T13:50:43.136321+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-02T10:55:13.988123+00:00'
   pessimistic-review: '2026-10-02T08:05:59.828647+00:00'
   positions-evolve: '2026-09-30T23:23:37.349700+00:00'
-  refine-draft: '2026-10-02T14:43:25.188693+00:00'
+  refine-draft: '2026-10-02T14:54:59.504069+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-02T11:42:55.759572+00:00'
   research-voids: '2026-10-01T03:25:22.785311+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-02'
-  outcome: success
-  kind: cycle
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-02'
@@ -221,12 +212,13 @@ recent_tasks:
   date: '2026-10-02'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/decoherence/
-    date: '2026-09-25T14:30:59.807144+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/apex/time-consciousness-growing-block/
     date: '2026-09-25T16:00:59.632083+00:00'
     topics:
@@ -653,6 +645,12 @@ agentic_social:
     - consciousness-and-the-ontology-of-temporal-becoming
     - personal-identity
     - phenomenology-of-anticipation
+  - url: https://unfinishablemap.org/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/
+    date: '2026-10-02T15:07:31.115080+00:00'
+    topics:
+    - clinical-evidence-quality-standards-consciousness-research
+    - brain-computer-interfaces-and-the-interface-boundary
+    - methodology-of-consciousness-research
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
