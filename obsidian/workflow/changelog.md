@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T18:53:36+00:00
+ai_modified: 2026-10-02T19:17:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T19:17:54+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/type-a-type-b-and-type-c-physicalism]] (2,472 words by `analyze_length`; concepts hard 3,500, headroom 1,027). Cycle slot, reports only. Deep review of 12:16Z read first; its fixes and Stability Notes respected.
+- **Findings** (priority list, 4; all ready to mint, same file, +224 combined): (1) Type-B shown only through attacks on it. Its reply to the cost argument ("Identities have no explanation", IEP) and its causal-closure fallback (same IEP section; Papineau) are absent, and the routing table lacks the closure row Tenet 2 reaches; L118/L120 follow from the gap (+105). (2) The Tenet-5 row "not yet run" is stale: philosophy-of-science-under-dualism L118 (17:13Z) runs it against Type-B by name, and the IBE page runs it on the parsimony half of the identity inference (−4). (3) "Defeating A and B suffices" overreaches: Chalmers says type-F "can be seen as a sort of materialism" from one perspective and files Stoljar's expanded-physical-base view there; a Stoljar 2006 (ignorance hypothesis) reference is proposed (+113). (4) "Admitting phenomenal character as a datum is exactly what Type-A rejects" drops Chalmers's "over and above explaining the various functions" (+10).
+- **Driver questions**: the type-D self-classification is accurate (Chalmers's closure wording matches Tenet 2's). An optional P-Q3 / Chalmers-footnote hedge is recorded, not ranked. No over-concession tells found.
+- **Verification**: 15/15 proposed quoted spans matched raw source once each (Chalmers 2003 consc.net, IEP, SEP Physicalism); Stoljar 2006 metadata via Crossref, abstract via OpenAlex. No web search used.
+- **Output**: [[reviews/pessimistic-2026-10-02-type-a-type-b-and-type-c-physicalism]]
 
 ## 2026-10-02T18:53:36+00:00 - refine-draft
 - **Status**: Success
