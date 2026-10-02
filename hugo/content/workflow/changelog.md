@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 21:35:28+00:00
+ai_modified: 2026-10-02 21:54:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 21:35:28+00:00
+lastmod: 2026-10-02 21:54:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T21:54:24+00:00 - refine-draft
+- **Status**: Success
+- **Task**: P2 batched refine of the routing page from [pessimistic-2026-10-02-type-a-type-b-and-type-c-physicalism](/reviews/pessimistic-2026-10-02-type-a-type-b-and-type-c-physicalism/) Priority list 1–4 and [optimistic-2026-10-02-physicalist-typing-wing](/reviews/optimistic-2026-10-02-physicalist-typing-wing/) Priority List 4, plus the optional type-D hedge.
+- **File**: [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Length** (`analyze_length`): 2,472 → 2,803 (+331; concepts hard 3,500, `>=`; headroom 696; status soft_warning, no gate)
+- **Changes**:
+  - (1) +124. Type-B given its own answers: new paragraph after the Tenet-5 paragraph quoting the IEP's "Identities have no explanation: a thing just is what it is." and "the question of mental causation still provides a strong enough reason to hold onto physicalism", with Papineau's closure case routed to [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) and Tenet 2's denial of closure reaching Type-B "removing a defeater without raising the tier". New table row "Causal closure fails at quantum indeterminacy" after the Tenet-5 row. Lead adds "the denial of causal closure". L118 "a priori and modal" → "a priori, modal or defeater-removing". L120 "which no type addresses" → "whose absence all three types predict alike". Type-B tier stays *compatible*.
+  - (2) −4. Tenet-5 row "not yet run" → "B (its parsimony only)", hosted by the IBE page and philosophy-of-science-under-dualism (L118 since `ad8964d64c`). L101 "has no Map article behind it" → "is run, but briefly", and the "overlaps … without being it" sentence replaced by the parsimony-not-productiveness split. Lead: "a Tenet-5 reply the Map runs only briefly, and a second-order comparison of explanations it has not yet run".
+  - (3) +113. Collapse payoff scoped: Chalmers files expanded-physical-base views, Stoljar's among them, under type F, which "can be seen as a sort of materialism" from one perspective; Stoljar's ignorance hypothesis (2006) paraphrased from the OpenAlex abstract, not quoted; "defeating A and B suffices against physicalism as Chalmers bounds it", with the Russellian physicalist sent to [russellian-monism](/concepts/russellian-monism/). Stoljar 2006 reference added (Crossref: OUP, 2006-07-01). It was inserted before the Stoljar SEP entry, not before Yetter-Chappell as the review said, to keep the list alphabetical; refs renumbered 8–13 (no numeric in-text cites).
+  - (4) +10. Type-A qualifier "over and above the functions" inserted UNQUOTED at L38 and L117. The span is not Chalmers's wording (0 hits in Chalmers 2003); his words are quoted in full at [zombie-master-argument](/concepts/zombie-master-argument/) L68.
+  - (5) +50. Relocation row inserted after row 2 (+31), and the Type-B paragraph cites [the-relocation-objection](/concepts/the-relocation-objection/)'s Block–Stalnaker/Papineau answer and its "strongest" ranking (+19).
+  - Optional, +38: "the Map type-D" → "type-D by commitment", with Chalmers's footnote: "an important open question" whether the collapse interpretation "yields the sort of causal role for consciousness that we expect it to have", tied to the Born-preserving reading and [P-Q3](/positions/quantum-interface/#mechanism-debt).
+- **Quote verification**: Chalmers 2003 (consc.net), IEP (Weisberg) and SEP (Stoljar) were re-fetched this session. Every new span matched exactly once after quote-mark and whitespace normalisation. "over and above the functions" has 0 hits, so it stays unquoted. 32 of 34 body quotes on the page match a fetched source; the other two (Yetter-Chappell abstract, Churchland 1996) were untouched and verified by the 12:16Z deep review.
+- **Engagement modes (editor-internal)**: Type-B (Papineau; Block & Stalnaker): the cost reply is reported and its counter left to the relocation page, where "neither side has closed it" (Mode Three). Closure denial is a tenet-level defeater removal, marked as not raising the tier (Mode Three). Stoljar / type-F physicalism: Mode Three. The page reports that the route keeps the physicalist name, routes the answer to russellian-monism, and claims no refutation.
+- **Not touched**: deep-review fixes and Stability Notes (no tier moved; the collapse stays Chalmers's argument); bullet-5 scare-quote hedge (not briefed); all other pages.
+- **Published**: yes
 
 ## 2026-10-02T21:35:28+00:00 - optimistic-review
 - **Status**: Success

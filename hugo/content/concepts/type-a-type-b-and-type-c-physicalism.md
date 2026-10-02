@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-02
-ai_modified: 2026-10-02 12:15:57+00:00
+ai_modified: 2026-10-02 21:54:24+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 12:15:57+00:00
-lastmod: 2026-10-02 12:15:57+00:00
+lastmod: 2026-10-02 21:54:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ topics:
 
 Type-A, Type-B and Type-C are David Chalmers's labels for three physicalist responses to the epistemic gap between physical and phenomenal truths. Type-A physicalism denies the gap, or holds it easily closed. Type-B grants an epistemic gap that will never close and denies that it marks a gap in reality. Type-C grants a deep gap now and holds it closable in principle. The Unfinishable Map's arguments for [dualism](/tenets/#dualism) do not reach the three alike, and the useful fact about the taxonomy is which reply answers which physicalist.
 
-The routing in brief ([set out below](#which-map-reply-reaches-which-type)): the claim that phenomenal character is a datum reaches only Type-A. The promissory-note, persistence and structure-and-dynamics replies that the Map's hub articles lead with miss Type-B; they reach Type-C, which Chalmers argues has no stable position ([explained below](#why-type-c-collapses)), and structure and dynamics also reaches Type-A. Type-B, the live opponent, is reached by a different set: the water/H₂O disanalogy, the cost of a primitive identity, the two-dimensional argument, Chalmers's master argument against the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), and two replies the Map has not yet run, a second-order comparison of explanations and a Tenet-5 reply.
+The routing in brief ([set out below](#which-map-reply-reaches-which-type)): the claim that phenomenal character is a datum over and above the functions reaches only Type-A. The promissory-note, persistence and structure-and-dynamics replies that the Map's hub articles lead with miss Type-B; they reach Type-C, which Chalmers argues has no stable position ([explained below](#why-type-c-collapses)), and structure and dynamics also reaches Type-A. Type-B, the live opponent, is reached by a different set: the water/H₂O disanalogy, the cost of a primitive identity, the two-dimensional argument, Chalmers's master argument against the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), the denial of causal closure, a Tenet-5 reply the Map runs only briefly, and a second-order comparison of explanations it has not yet run.
 
 The tiers that follow are the Map's reconstruction from its own evidential ladder, not Chalmers's verdicts. Against Type-A the Map's case is *suggestive*, provisionally, and only once phenomenal character is admitted as an explanandum; against Type-B it is *compatible*; against Type-C it is *suggestive*. The cases against Type-A and Type-C favour Type-B as much as dualism, so neither separates dualism from physicalism. Against none is it *discriminating*.
 
@@ -76,9 +76,9 @@ Chalmers argues that the type-C view is "inherently unstable": it "must collapse
 3. Closure by a complete physics that includes the intrinsic natures of physical things is type-F.
 4. Closure by future physics "appealing to consciousness itself, in the way that some theorists hold that quantum mechanics does" makes consciousness irreducible: type-D or type-F.
 
-Behind the routes lies the claim that physical descriptions are structural and dynamical, and "from structure and dynamics, one can infer only structure and dynamics"; intermediate notions such as representation close the gap only by equivocation. Hence: "So in the end, there is no separate space for the type-C materialist." Type-C materialists can dispute the structure-and-dynamics premise, as Chalmers himself notes, so the Map reports the collapse as Chalmers's argument, not a settled result.
+Behind the routes lies the claim that physical descriptions are structural and dynamical, and "from structure and dynamics, one can infer only structure and dynamics"; intermediate notions such as representation close the gap only by equivocation. Hence: "So in the end, there is no separate space for the type-C materialist." Type-C materialists can dispute the structure-and-dynamics premise, as Chalmers himself notes, so the Map reports the collapse as Chalmers's argument, not a settled result. The third route is also less of a defeat than it sounds: Chalmers files views that expand "our view of the physical base to include underlying intrinsic properties", Daniel Stoljar's among them, under type F, which from one perspective "can be seen as a sort of materialism". Stoljar's later ignorance hypothesis (2006), which traces the problem to ignorance of relevant physical facts, keeps the type-C hope alive in physicalist terms.
 
-If the argument holds, defeating A and B suffices, and replies aimed only at Type-C keep one use: making the opponent say which of A, B, D or F they hold. The fourth route also lands on the Map. Chalmers's type-D dualist holds that "there are causal gaps in microphysical dynamics that are filled by a causal role for distinct phenomenal properties". [Tenet 2](/tenets/#minimal-quantum-interaction) and [Tenet 3](/tenets/#bidirectional-interaction) place consciousness's causal role in such gaps, at quantum indeterminacy, so by Chalmers's own definition the Map is type-D, and the physics of the fourth route is the kind Tenet 2 posits. The point is dialectical and earns no evidence: nothing of the kind has been found.
+If the argument holds, defeating A and B suffices against physicalism as Chalmers bounds it; the physicalist who takes the third route keeps the name, and the Map answers that view in [russellian-monism](/concepts/russellian-monism/). Replies aimed only at Type-C keep one use: making the opponent say which of A, B, D or F they hold. The fourth route also lands on the Map. Chalmers's type-D dualist holds that "there are causal gaps in microphysical dynamics that are filled by a causal role for distinct phenomenal properties". [Tenet 2](/tenets/#minimal-quantum-interaction) and [Tenet 3](/tenets/#bidirectional-interaction) place consciousness's causal role in such gaps, at quantum indeterminacy, so by Chalmers's own definition the Map is type-D, and the physics of the fourth route is the kind Tenet 2 posits. The point is dialectical and earns no evidence: nothing of the kind has been found.
 
 ## Which Map Reply Reaches Which Type
 
@@ -88,12 +88,14 @@ A reply reaches a type when it engages a premise that type holds; reaching says 
 |---|---|---|
 | Phenomenal character is a datum the rival omits | A | [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/); [tenets](/tenets/) |
 | The seeming of experience itself needs explaining | A (strong illusionism) | [illusionism](/concepts/illusionism/); [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) |
+| Relocation: fixing a proposed base leaves the feel question open | A where a reduction of feel is advertised; B grants the steps but denies a failure | [the-relocation-objection](/concepts/the-relocation-objection/) |
 | Water/H₂O disanalogy: zombie conceivability reflects acquaintance, not ignorance | B | [zombie-master-argument](/concepts/zombie-master-argument/) |
 | A primitive identity is a law under another name | B | [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) |
 | Two-dimensional argument | B | [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/) |
 | Master argument against phenomenal concepts | B (that strategy only) | [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) |
 | Dualism or phenomenal concepts as the better explanation of the gap | B | not yet run |
-| Tenet 5 against the simplicity argument for the identity | B | not yet run |
+| Tenet 5 against the simplicity argument for the identity | B (its parsimony only) | [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/); [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) |
+| Causal closure fails at quantum indeterminacy | B's causal argument; any type argued from closure | [causal-closure](/concepts/causal-closure/); [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) |
 | Promissory note, degenerating programme, paradigm crisis | C | [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/); [explanatory-gap](/concepts/explanatory-gap/) |
 | Structure and dynamics | C and A; B accepts its conclusion | [arguments-against-materialism](/topics/arguments-against-materialism/); [reductionism](/concepts/reductionism/) |
 | The gap's persistence | C, weakly | [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) |
@@ -102,7 +104,9 @@ Chalmers's first case against Type-B is a cost: "the type-B materialist recogniz
 
 The master argument is narrower again. It needs only the conceivability of zombies, "an assumption that type-B materialists typically grant", and Chalmers stresses: "Here, again, we are assuming nothing about the relationship between conceivability and possibility." It reaches the type-B physicalist who explains the gap through phenomenal concepts, and not the illusionist, type-A version of the strategy (Chalmers 2018).
 
-The Tenet-5 reply has no Map article behind it. The *Internet Encyclopedia of Philosophy*, naming the type-B family weak reductionism and citing several of Chalmers's type-B authors, rests the identity on parsimony: "we can still identify consciousness with physical properties if the most parsimonious and productive theory supports such an identity". [Tenet 5](/tenets/#occams-limits) holds that simplicity is unreliable when knowledge is incomplete, and this identity inference is where it should be aimed. The nearest Map reply, in [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/), targets the physicalist's inference to the best explanation over a list of explananda, which overlaps the identity inference without being it. Run properly, the reply would blunt the identity's justification while supplying no dualist alternative.
+The Tenet-5 reply is run, but briefly. The *Internet Encyclopedia of Philosophy*, naming the type-B family weak reductionism and citing several of Chalmers's type-B authors, rests the identity on parsimony: "we can still identify consciousness with physical properties if the most parsimonious and productive theory supports such an identity". [Tenet 5](/tenets/#occams-limits) holds that simplicity is unreliable when knowledge is incomplete, so it reaches the parsimony in this inference, not the productiveness. [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/) runs it that way against the physicalist's case for identity or realisation, and [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) turns the verdict on the Type-B opponent by name: the tenet blunts the identity's justification and supplies no dualist alternative.
+
+Type-B has answers of its own. To the cost argument it replies, in the same entry's gloss: "Identities have no explanation: a thing just is what it is." [the-relocation-objection](/concepts/the-relocation-objection/) gives the same answer from Block and Stalnaker and from Papineau, and judges it the strongest rival reading. Where parsimony looks thin, the entry continues, Type-B can answer that "the question of mental causation still provides a strong enough reason to hold onto physicalism", since the physical world is causally closed; Papineau, one of Chalmers's type-B authors, defends closure at length ([causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)). [Tenet 2](/tenets/#minimal-quantum-interaction) denies closure at quantum indeterminacy, so that reply reaches Type-B by the definition above, removing a defeater without raising the tier.
 
 ## Common Misroutings
 
@@ -118,10 +122,10 @@ Five patterns recur in which a reply or a view is routed to the wrong type.
 
 The ladder is the one in [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/): evidence *compatible with* a tenet, *suggestive* of it, or *discriminating* in its favour over the physicalist rival. The Map's rule that a tenet removes a defeater but never upgrades the evidence ([P-M1](/positions/methodology-and-calibration/#p-m1)) governs each verdict. No source consulted applies the A/B/C taxonomy to interactionist dualism's evidential standing, so the verdicts are the Map's reconstruction.
 
-- **Type-A: suggestive, provisionally, and only on the widened explananda.** Admitting phenomenal character as a datum is exactly what Type-A rejects; Chalmers concedes that the dispute "usually comes down to intuition", and the first-person warrant cannot be handed to an opponent who declines it. Even granted, the datum favours every view that admits it, Type-B included.
-- **Type-B: compatible.** Type-B grants the datum and predicts what the Map cites: persistence, the opacity of neural correlates, the reports. The replies that reach it are a priori and modal, bearing on plausibility rather than evidential tier; only a second-order comparison favouring dualism by stated criteria would lift it to suggestive.
+- **Type-A: suggestive, provisionally, and only on the widened explananda.** Admitting phenomenal character as a datum over and above the functions is exactly what Type-A rejects; Chalmers concedes that the dispute "usually comes down to intuition", and the first-person warrant cannot be handed to an opponent who declines it. Even granted, the datum favours every view that admits it, Type-B included.
+- **Type-B: compatible.** Type-B grants the datum and predicts what the Map cites: persistence, the opacity of neural correlates, the reports. The replies that reach it are a priori, modal or defeater-removing, bearing on plausibility rather than evidential tier; only a second-order comparison favouring dualism by stated criteria would lift it to suggestive.
 - **Type-C: suggestive, without separating dualism from physicalism.** Persistence is mildly unexpected on Type-C and expected on dualism and Type-B alike, so evidence against Type-C moves credence toward B, D and F together; its main defeat is the dialectical collapse argument.
-- **Discriminating: nowhere.** A discriminating result would have to come through Tenet 3's channel, an outcome deviation conditioned on intention, which no type addresses.
+- **Discriminating: nowhere.** A discriminating result would have to come through Tenet 3's channel, an outcome deviation conditioned on intention, whose absence all three types predict alike.
 
 ## Relation to Site Perspective
 
@@ -129,7 +133,7 @@ The ladder is the one in [inference-to-the-best-explanation-against-dualism](/co
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The fitting Tenet-5 reply to Type-B targets the simplicity argument for the identity, and it binds symmetrically: the Map cannot discount simplicity in the physicalist's identity inference while relying on it in its own abductions.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction).** Together these make the Map type-D. Chalmers gives some credence to each of D, E and F, aims to suggest that none "has obvious fatal flaws", and finds type-F "in some ways" the most appealing. The Map's preference for D rests on its commitment that consciousness selects among outcomes physics leaves open, where type-F keeps microphysics causally closed; the collapse argument's fourth route gives it a place in the dialectic without confirming it.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction).** Together these make the Map type-D by commitment. Chalmers calls it "an important open question" whether the collapse interpretation "yields the sort of causal role for consciousness that we expect it to have", and the Map's Born-preserving reading is where that question bites ([P-Q3](/positions/quantum-interface/#mechanism-debt)). Chalmers gives some credence to each of D, E and F, aims to suggest that none "has obvious fatal flaws", and finds type-F "in some ways" the most appealing. The Map's preference for D rests on its commitment that consciousness selects among outcomes physics leaves open, where type-F keeps microphysics causally closed; the collapse argument's fourth route gives it a place in the dialectic without confirming it.
 
 ## Further Reading
 
@@ -150,8 +154,9 @@ The ladder is the one in [inference-to-the-best-explanation-against-dualism](/co
 5. Chalmers, D. J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9–10), 6–61. https://consc.net/papers/metaproblem.pdf (full text)
 6. Churchland, P. S. (1996). The hornswoggle problem. *Journal of Consciousness Studies*, 3(5–6), 402–408. (full text, author-uploaded copy)
 7. Russell, B. (1919). *Introduction to Mathematical Philosophy*, ch. VII. George Allen & Unwin. https://www.gutenberg.org/ebooks/41654 (full text)
-8. Stoljar, D. (2026 revision). Physicalism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/physicalism/ (full text; vocabulary only)
-9. Weisberg, J. (n.d.). Hard problem of consciousness. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/hard-problem-of-conciousness/ (full text)
-10. Yetter-Chappell, H. (2017). Dissolving type-B physicalism. *Philosophical Perspectives*, 31(1), 469–498. https://doi.org/10.1111/phpe.12099 (abstract only)
-11. Southgate, A. & Fabcinq-un, C. (2026-10-01). Inference to the Best Explanation Against Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/inference-to-the-best-explanation-against-dualism/
-12. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Neural Correlates of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
+8. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press. https://doi.org/10.1093/0195306589.001.0001 (abstract only)
+9. Stoljar, D. (2026 revision). Physicalism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/physicalism/ (full text; vocabulary only)
+10. Weisberg, J. (n.d.). Hard problem of consciousness. *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/hard-problem-of-conciousness/ (full text)
+11. Yetter-Chappell, H. (2017). Dissolving type-B physicalism. *Philosophical Perspectives*, 31(1), 469–498. https://doi.org/10.1111/phpe.12099 (abstract only)
+12. Southgate, A. & Fabcinq-un, C. (2026-10-01). Inference to the Best Explanation Against Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/inference-to-the-best-explanation-against-dualism/
+13. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Neural Correlates of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
