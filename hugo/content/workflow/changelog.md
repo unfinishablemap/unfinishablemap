@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 08:42:36+00:00
+ai_modified: 2026-10-02 09:12:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 08:42:36+00:00
+lastmod: 2026-10-02 09:12:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T09:12:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Task**: P1 "Recalibrate the tenet-relation verbs in neural-correlates-of-consciousness: functional-dissociation sentence, MQI coherence inflation, No Many Worlds verb, Occam non sequitur, imported measurement-void claim" (outer reviews 2026-10-01 chatgpt + claude; synthesis cluster 8)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted outer-review fix)
+- **Changes** (graded on the compatible / suggestive / discriminating ladder of [evidential-status-discipline](/project/evidential-status-discipline/)): (a) §Bidirectional Interaction, functional-dissociation sentence: "provide complementary evidence … supporting the claim that conscious involvement at NCC sites is genuinely causal rather than epiphenomenal" → "show that conscious access makes a causal difference … whether phenomenal experience does is left open, since an accompaniment reading predicts the same dissociations". This matches the sibling [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (L48 "conscious access makes a causal difference … whether phenomenal experience does is left open"; L193 "The evidence doesn't distinguish these interpretations"; §Where the Physicalist Reading Stops on the accompaniment reading). "demonstrably" dropped. Grade: support claim → compatible (access causation is shared ground; phenomenal causation undetermined). Further Reading gloss: "consciousness enables" → "conscious access enables". (b) §Minimal Quantum Interaction: three sentences folded into one. The "posterior cortical hot zone becomes a candidate" sentence and "though the decoherence challenge remains" are gone. The new sentence says only that an interface lying within NCC populations is consistent with the data. Per tenets L71/L77, the decoherence dispute bears only on coherence-dependent proposals, not on the preferred post-decoherence route (linked). Grade: coherence inflation → compatible (coherence only). (c) §No Many Worlds: "This supports No Many Worlds." → "This is consonant with No Many Worlds; NCC findings favour neither interpretation." The paragraph is otherwise untouched, and deletion stays rejected per [pessimistic-2026-06-01-neural-correlates-of-consciousness](/reviews/pessimistic-2026-06-01-neural-correlates-of-consciousness/) L30. "consonant with" matches the Dualism verb (item f). Grade: support → compatible/no-bearing. (d) §Occam's Razor Has Limits: the non sequitur ("simpler physicalist story … has not led to explanatory progress. This supports …") and the "multiple modes … resisting reductive parsimony" line are cut. So is the unsourced "well over two hundred" count; Kuhn 2024 was not added, since the count is no longer needed. Replacement: NCC research, for all its progress (COGITATE's preregistered tests of IIT and GNWT among it), has not converged, and that incomplete knowledge is the condition under which the tenet says parsimony cannot decide between physicalism and dualism. This cuts both ways and no longer treats theory-level trouble as trouble for physicalism. Grade: support → compatible (the tenet's antecedent applies; no support). (e) §The Philosophical Boundary: "illuminates this limitation: five independent routes … all fail" → "argues, against [the calibration replies it records](/voids/observation-and-measurement-void/#the-calibration-impasse) (Michel 2021, McKilliam 2025 at void L96), that five routes … fail …". "independent" was dropped because the void page discounts that independence itself (L130). "the measurement standards problem shows why" → "the measurement-standards article argues that". Grade: imported established result → attributed, contested conclusion.
+- **Not touched**: "NCC strongly supports physical→mental causation" (L156 opener; optional singleton per the task Notes, left inside the driver's L126–L156 fence). Also untouched: the definition/V4/COGITATE paragraphs, L79–81, the filter section, the illusionism/Dualism paragraphs, the falsifier section, and the No Many Worlds paragraph body.
+- **Length**: 3,429 → 3,408 (net −21; budget ≤ −20; concepts gate 3,500 `>=`) by `tools.curate.length.analyze_length`. Per line: Bidirectional +3, MQI −5, NMW +7, Occam −32, Boundary +5, Further Reading +1.
+- **Anchors**: tenet anchors kept (`^bidirectional-interaction`, `^no-many-worlds`, `^occams-limits`). `[[decoherence]]` and `[[quantum-consciousness]]` kept. New links: `[[post-decoherence-selection-programme]]` (bare slug) and `[[observation-and-measurement-void#The Calibration Impasse]]`.
+- **Symmetry audit**: `evaluate_symmetry` returned None after.
+- **Reasoning mode**: No Many Worlds, engagement with the Everettian: Mode Three, kept as framework-boundary marking with the verb now matching that register. Occam, engagement with the parsimony-based physicalist: Mode Three, symmetric; the old line was boundary-substitution (theory-family fallacy).
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T08:42:36+00:00 - refine-draft
 - **Status**: Success

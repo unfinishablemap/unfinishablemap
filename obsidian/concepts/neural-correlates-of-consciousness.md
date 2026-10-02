@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-10-02T08:42:36+00:00
+ai_modified: 2026-10-02T09:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,25 +153,25 @@ What NCC research *does* reveal is the [[explanatory-gap]]: correlations multipl
 
 ### Bidirectional Interaction
 
-NCC strongly supports physical→mental causation. Top-down effects—attention modulating sensory processing, intention affecting motor preparation—admit of both physicalist and interactionist readings. Covert consciousness findings bear on the inbound interface-or-generator question, counted above as one underdetermined pattern; persistence without output shows nothing about consciousness acting on the brain, so lends [[tenets#^bidirectional-interaction|Bidirectional Interaction]] no support. NCC research also bears on [[topics/free-will]]: if consciousness genuinely selects among superposed neural states (rather than merely accompanying predetermined outcomes), NCC identifies where such selection occurs—though NCC methodology alone cannot make this distinction. [[conscious-vs-unconscious-processing|Functional dissociation studies]] provide complementary evidence: consciousness enables operations—durable information maintenance, novel combinations, spontaneous intentional action—that unconscious processing demonstrably cannot achieve, supporting the claim that conscious involvement at NCC sites is genuinely causal rather than epiphenomenal.
+NCC strongly supports physical→mental causation. Top-down effects—attention modulating sensory processing, intention affecting motor preparation—admit of both physicalist and interactionist readings. Covert consciousness findings bear on the inbound interface-or-generator question, counted above as one underdetermined pattern; persistence without output shows nothing about consciousness acting on the brain, so lends [[tenets#^bidirectional-interaction|Bidirectional Interaction]] no support. NCC research also bears on [[topics/free-will]]: if consciousness genuinely selects among superposed neural states (rather than merely accompanying predetermined outcomes), NCC identifies where such selection occurs—though NCC methodology alone cannot make this distinction. [[conscious-vs-unconscious-processing|Functional dissociation studies]] show that conscious access makes a causal difference, enabling operations—durable information maintenance, novel combinations, spontaneous intentional action—that unconscious processing cannot achieve; whether phenomenal experience does is left open, since an accompaniment reading predicts the same dissociations.
 
 ### Minimal Quantum Interaction
 
-NCC operates at macroscopic scales and neither supports nor challenges quantum-level consciousness effects. If [[quantum-consciousness|quantum mechanisms]] exist, they would occur *within* the neural populations NCC identifies. The posterior cortical hot zone becomes a candidate for where consciousness might influence neural dynamics at quantum scales, though the [[decoherence]] challenge remains.
+NCC operates at macroscopic scales and neither supports nor challenges quantum-level effects: that any [[quantum-consciousness|quantum interface]] lies within the populations NCC identifies is merely consistent with the data, and the [[decoherence]] dispute bears only on coherence-dependent proposals, not on the Map's preferred [[post-decoherence-selection-programme|post-decoherence route]].
 
 ### No Many Worlds
 
-If NCC identifies where consciousness engages neural activity, and consciousness participates in quantum collapse, NCC research locates where quantum selection might occur. Many-worlds would reframe NCC entirely: each branch would have its own complete set of NCCs, and the question of which correlations *I* experience becomes the [[haecceity|indexical identity problem]]—why am I the observer in *this* branch rather than any other? MWI proponents treat this as a biographical fact requiring no special explanation, but for the Map, the irreducibility of first-person perspective (the same irreducibility that makes the hard problem hard) suggests indexical identity is not a trivial matter. This supports [[tenets#^no-many-worlds|No Many Worlds]].
+If NCC identifies where consciousness engages neural activity, and consciousness participates in quantum collapse, NCC research locates where quantum selection might occur. Many-worlds would reframe NCC entirely: each branch would have its own complete set of NCCs, and the question of which correlations *I* experience becomes the [[haecceity|indexical identity problem]]—why am I the observer in *this* branch rather than any other? MWI proponents treat this as a biographical fact requiring no special explanation, but for the Map, the irreducibility of first-person perspective (the same irreducibility that makes the hard problem hard) suggests indexical identity is not a trivial matter. This is consonant with [[tenets#^no-many-worlds|No Many Worlds]]; NCC findings favour neither interpretation.
 
 ### Occam's Razor Has Limits
 
-Surveys of the field count theories of consciousness in the low hundreds—recent landscape mappings tally well over two hundred, though the exact figure depends on how finely models are individuated. IIT and GNWT were both challenged by COGITATE. The "simpler" physicalist story—consciousness just *is* neural activity—has not led to explanatory progress. This supports [[tenets#^occams-limits|Occam's Razor Has Limits]]. Consciousness isn't a uniform phenomenon but multiple modes with distinct neural requirements, resisting reductive parsimony.
+NCC research, for all its progress (COGITATE's preregistered tests of IIT and GNWT among it), has not converged on a theory of consciousness: the incomplete knowledge under which, by [[tenets#^occams-limits|Occam's Razor Has Limits]], parsimony cannot decide between physicalism and dualism.
 
 ## The Philosophical Boundary
 
 NCC research marks a genuine advance in consciousness science, yielding detailed knowledge of which brain regions correlate with conscious experience and powerful methods for testing theories.
 
-Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision but cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[observation-and-measurement-void]] illuminates this limitation: five independent routes to measuring consciousness all fail for structural rather than technical reasons, and the [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] shows why physical measurement cannot be constructed for phenomenal quantities. NCC research operates entirely within the proxy layer.
+Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision but cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[observation-and-measurement-void]] argues, against [[observation-and-measurement-void#The Calibration Impasse|the calibration replies it records]], that five routes to measuring consciousness all fail for structural rather than technical reasons, and the [[consciousness-and-the-problem-of-measurement-standards|measurement-standards article]] argues that physical measurement cannot be constructed for phenomenal quantities. NCC research operates entirely within the proxy layer.
 
 ### How NCC Studies Depend on Report
 
@@ -202,7 +202,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [[witness-consciousness]] — The observer phenomenon and NCCs
 - [[episodic-memory]] — Autonoetic consciousness and hippocampal NCCs
 - [[binding-problem]] — How features bind into one experience
-- [[conscious-vs-unconscious-processing]] — Functional dissociations showing consciousness enables operations unconscious processing cannot
+- [[conscious-vs-unconscious-processing]] — Functional dissociations showing conscious access enables operations unconscious processing cannot
 - [[observation-and-measurement-void]] — Why consciousness resists measurement at every level
 - [[experimental-consciousness-science-2025-2026]] — COGITATE results, split-brain unity, and other 2025-2026 findings bearing on NCC interpretation
 - [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — Geometric / feature-space tooling appropriated for the correlate-side description, with framework-stage-calibration boundaries kept explicit
