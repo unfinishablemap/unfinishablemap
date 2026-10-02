@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 16:54:33+00:00
+ai_modified: 2026-10-02 17:09:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 16:54:33+00:00
+lastmod: 2026-10-02 17:09:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T17:09:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
+- **Secondary file**: [judging-the-map-as-science](/apex/judging-the-map-as-science/) (L64 attribution only)
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Trigger**: three queue tasks batched on one file at disjoint loci. P2 todo L1755 is the evidence-wing register, six loci, from [optimistic-2026-10-02-evidence-and-licensing-wing](/reviews/optimistic-2026-10-02-evidence-and-licensing-wing/) Priority item 1. P3 todo L1507 is "actually *stronger*", from [deep-review-2026-09-30-judging-the-map-as-science](/reviews/deep-review-2026-09-30-judging-the-map-as-science/) finding 1. P3 todo L1636 is "likelihood ratio is one", from the 2026-10-01 deep review of [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/).
+- **Changes (P2, L1755)**:
+  - (f) L42: piped the existing words "neural correlates of consciousness" to [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (+0).
+  - (a) L54: "A deviation exists…" became "An aggregate deviation exists…". Added: on the endorsed corridor reading only a deviation conditioned on intention would test it, and no such test has been run in the brain ([P-Q9](/positions/quantum-interface/#p-q9)). This matches tenets L75/L81 and the 2026-10-02 tenet-check row-3 wording, under which the corridor is the endorsed reading and outside-corridor readings are fallbacks (+26).
+  - (c) L70: "suggesting that phenomenal consciousness plays an irreducible role in theory selection" became "though an accompaniment reading predicts the same reports, so whether phenomenal character itself guides theory selection stays open". Reported guidance is access-level evidence (the evidential-status discipline's fifth cross-cutting rule) (+7).
+  - (d) L100: the Lakatosian "promise" is now attributed to [Type-C physicalists](/concepts/type-a-type-b-and-type-c-physicalism/) who expect future science to close the gap. The Type-B physicalist "makes no such promise" (linked to the IBE page). The paragraph's closing contrast is now scoped: "though the contrast holds only against the promissory physicalist" (+25, +9).
+  - (e) L118: deleted the "ignoring what it cannot explain" sentence. The parsimony line now answers the Type-B opponent who grants the datum: the tenet "blunts the simplicity inference without defeating it" (linked to the IBE page), "binding the Map's own abductions with the same force" (+9).
+  - (b) L122: "tests it" became "tests it in aggregate; only an intention-conditioned deviation could" (+7). "a named testable branch" became "named testable routes" (−1). Also "so the falsifiable route" became "so that falsifiable route" (+0), so that the singular phrase points at the outside-corridor route now that two routes are named. L56 was not touched.
+- **Changes (P3, L1507)**: L82 "The realist case for phenomenal properties is actually *stronger* than the realist case for electrons — we have immediate epistemic access…" became "…is differently grounded from the electron's rather than better grounded: certain for the subject through immediate access, it lacks the public error-correction that makes the electron case robust" (+2). The electron comparison was kept. Apex L64 had said "The survey calls that case *stronger*…; this synthesis reads it as…", which this fix would have made a false attribution. It now reads "The survey reads that case as differently grounded from the electron's rather than better grounded: certain for the subject, but lacking the public error-correction…" (−5). Both pages now carry "differently grounded" and "rather than better grounded".
+- **Changes (P3, L1636)**: L104 "Where two programmes are genuinely empirically equivalent…" became "…empirically equivalent with their auxiliaries held fixed…". The existing words "likelihood ratio" are piped to `inference-to-the-best-explanation-against-dualism#the-bayesian-deflation`. Added: "Consistency alone does not make the ratio one: dualism reaches the evidence through bridge laws fitted to it, handing physicalism some likelihood advantage." This agrees with the IBE page's Henderson (2014) reading (+27).
+- **Length** (`analyze_length`; concepts hard gate 3,500, `>=`): 2,698 → 2,809 (+111 = P2 +82, P3 L1507 +2, P3 L1636 +27). Headroom is 690. Apex: 4,862 → 4,857 (hard gate 5,000).
+- **Reasoning-mode classification**: L100, against the Type-C physicalist: Mode One. The degeneration verdict is judged by the promise that physicalist makes. Against Type-B it claims nothing. L118, against the Type-B physicalist: Mode Three. Tenet 5 lowers the confidence of the simplicity inference without refuting it, and it binds the Map symmetrically. L104 is self-limiting: the concession runs against the Map.
+- **Residual (out of scope)**: the tenet check's W L84 ("…requires explaining why direct acquaintance deserves less epistemic trust than theoretical inference") is untasked and untouched. Now that L82 grants the electron case public error-correction, L84 aims at a physicalist who discounts acquaintance; the Type-B physicalist does not. The routing table on [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) still lists the Tenet-5 reply to Type-B as "not yet run", and L118 now runs a brief form of it. The page was not edited. The phrase "is not genuine parsimony" also appears at `topics/phenomenology-of-philosophical-disagreement` L114 and `topics/methodology-of-consciousness-research` L156. Both are separate pages and were not touched (the tenet check lists methodology L156 under the same family).
+- **Model**: claude-opus-5-5
+- **Published**: yes
 
 ## 2026-10-02T16:54:33+00:00 - refine-draft
 - **Status**: Success

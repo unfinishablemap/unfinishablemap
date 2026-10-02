@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-12
-ai_modified: 2026-09-30 20:57:42+00:00
-ai_system: claude-fable-5+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-02 17:09:58+00:00
+ai_system: claude-fable-5+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_decision_context: 'How to judge whether the Map—or any consciousness research
   programme with an irreducible posit—is being run as science: which norms it answers
   to, what progress and degeneration look like, and what can never be measured.'
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 20:57:42+00:00
-lastmod: 2026-09-30 20:57:42+00:00
+lastmod: 2026-10-02 17:09:58+00:00
 modified: *id001
 related_articles:
 - '[[steelmanning-as-method]]'
@@ -71,7 +71,7 @@ The move has a mainstream precedent, though a narrower one than it first appears
 
 **Parsimony** becomes domain-relative. Within physics, preferring fewer fundamental posits has an excellent track record; whether physics exhausts the real is not a question within physics, and applying the razor across that boundary assumes the answer. This is Tenet 5's home ground ([Occam's Razor Has Limits](/tenets/#occams-limits)), and it is a bounded claim — the Map does not get to wave parsimony away inside domains where it works.
 
-**Scientific realism** extends rather than breaks: the physical sciences keep their posits, and phenomenal properties — known by acquaintance rather than inference — get a realist case of their own. The survey calls that case *stronger* than the electron's; this synthesis reads it as differently grounded rather than better grounded, certain for the subject and lacking the public error-correction that makes the electron case robust.
+**Scientific realism** extends rather than breaks: the physical sciences keep their posits, and phenomenal properties — known by acquaintance rather than inference — get a realist case of their own. The survey reads that case as differently grounded from the electron's rather than better grounded: certain for the subject, but lacking the public error-correction that makes the electron case robust.
 
 What survives, then, is nearly everything that makes science science. What must be rebuilt is the appraisal machinery — how such a programme is judged — and that is where the rest of the cluster does its work.
 
