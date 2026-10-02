@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T16:23:43+00:00
+ai_modified: 2026-10-02T16:45:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T16:45:33+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/altered-states-as-interface-evidence]]
+- **Selection**: The cycle trigger's preferred target was kept. The skill formula ranks it 19th of 43, with all 11 sources changed. The articles above it score high mainly from the stale-`apex_last_synthesis` artifact, and none carries a named defect.
+- **Changed sources**: 11 of 11 since the 2026-08-26 baseline. The two driving changes were `topics/consciousness-disruption-and-the-mind-brain-interface` (10-02 12:45Z and 14:39Z) and `concepts/neural-correlates-of-consciousness` (reworked 10-01 and 10-02). The page is linked in `concepts:`, not in `apex_sources`.
+- **Word count** (`analyze_length`, apex hard gate 5,000, `>=`): 4,807 → 4,874 (+67). Headroom is now 125.
+- **Navigation surfaces**: The description and `apex_thesis` were rewritten to the body's own claim: one pattern that constrains the structure of the coupling, with no decision between filter and production, and the filter reading "preferred by fit, not forced" only in the enhancement cases. The lead's "better organises" was changed to the same wording.
+- **Source recalibrations**: The reboot is now "compatible … but production accounts accommodate it equally" (disruption page). Psychedelics are described as "lowering default-mode activity" rather than "decreasing cortical activity", and the state is noted as metabolically expensive (filter-theory, NCC). Production's explanations are no longer called "piecemeal": the active-inference unifier is noted (NCC). The subtraction framing comes from the disruption page. The Xu 2023 seizure histories were added. Tollock 2025 is now marked "so far a meeting abstract". Coupling-modes' basis and timing control are now "upstream companions and registered fallbacks". The unsupported claim that propofol targets the hot zone "directly" was removed.
+- **Internal consistency**: The Bidirectional paragraph's "Meditation provides the strongest evidence" contradicted Evidence and Dependency; it now says the window "contributes coherence rather than weight". The Occam paragraph no longer claims production "fails to explain" the propofol/ketamine split, and its "not simplicity but evasion" construction was removed.
+- **Quotes checked**: all four quotations of current Map-page text plus two scare quotes; none had drifted. Five attributed paraphrases were also consistent. The stale Source Articles title "Loss of Consciousness and the Mind-Brain Relationship" now reads "Consciousness Disruption and the Mind-Brain Interface".
+- **Evidence and Dependency**: unchanged, and no tier was upgraded.
+- **Residual**: the `apex/apex-articles.md` L403 register Thesis still carries the old overclaiming thesis verbatim, and it is published. The skill does not require register edits on evolve, so it was flagged rather than edited.
+- **Review**: [[reviews/apex-evolve-2026-10-02-altered-states-as-interface-evidence]]
+- **Writes**: the apex, the review archive, and this entry. No todo.md change, no commit.
+- **Model**: claude-opus-5-5
+- **Driver fix (16:47Z)**: [[apex/apex-articles]] register entry for this article updated to match: subtitle now names six states (terminal lucidity was missing) and the Thesis line carries the new calibrated `apex_thesis` in place of the old "convergent evidence … rather than being produced by neural activity" wording.
 
 ## 2026-10-02T16:23:43+00:00 - research-voids
 - **Status**: Success

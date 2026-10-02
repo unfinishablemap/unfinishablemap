@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-09-20T15:01:00+00:00
+ai_modified: 2026-10-02T16:47:30+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 social_eligible: false  # section index, not an article — off-voice for the social network
@@ -16,7 +16,7 @@ related_articles:
   - "[[coalesce-condense-apex-stability]]"
 ai_contribution: 40
 author: Andy Southgate
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-5-5
 ai_generated_date: null
 last_curated: null
 ---
@@ -398,9 +398,9 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Slug**: `altered-states-as-interface-evidence`
 
-**Subtitle**: What meditation, psychedelics, dreaming, hypnagogia, and anaesthesia jointly reveal about the consciousness-brain interface
+**Subtitle**: What meditation, psychedelics, dreaming, hypnagogia, anaesthesia and terminal lucidity jointly reveal about the consciousness-brain interface
 
-**Thesis**: Altered states of consciousness constitute a systematic dataset that maps the architecture of the consciousness-brain interface: each state modulates specific interface components in predictable ways, and the pattern of which consciousness features survive, degrade, or intensify across states provides convergent evidence that consciousness operates through a multi-channel, configurable interface rather than being produced by neural activity.
+**Thesis**: Altered states of consciousness form a systematic dataset in which components of consciousness—phenomenal presence, attention, narrative self, agency, memory, temporal coherence—survive, degrade, or intensify independently of one another; the pattern constrains any account of consciousness-brain coupling to a multi-channel structure, but it counts as one pattern rather than six confirmations and does not by itself decide between filter and production readings; the filter reading is preferred by fit, not forced, only in the cases where experience persists or intensifies as regional neural activity falls.
 
 **Source articles**:
 - topics/psychedelics-and-the-filter-model
