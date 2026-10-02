@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-01 08:05:32+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-02 02:25:46+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:17:26+00:00
-lastmod: 2026-10-01 08:05:32+00:00
+lastmod: 2026-10-02 02:25:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,9 +80,9 @@ That consciousness correlates with posterior cortical activity does not mean con
 
 NCC findings are [compatible with all three](/concepts/inference-to-the-best-explanation-against-dualism/).
 
-### Interactionism Predicts Correlations
+### Interactionism Expects Correlations
 
-If consciousness causally interacts with the brain—as [interactionist-dualism](/concepts/interactionist-dualism/) holds—we would expect tight correlations between mental states and brain states. As the Stanford Encyclopedia notes: "Interactionism actually predicts that mental events are caused by brain events and vice versa, so the fact that perceptions are correlated with activity in the visual cortex does not support materialism over this form of dualism."
+Calef's *Internet Encyclopedia of Philosophy* entry (§7.d) argues that "interactionism actually predicts that mental events are caused by brain events and vice versa", so visual-cortex correlations do not favour materialism. Interactionism expects correlation in general, not its specific pattern ([a likelihood question](/concepts/inference-to-the-best-explanation-against-dualism/)). The [closure objection](/concepts/causal-closure/) the *Stanford Encyclopedia* discusses, that sufficient physical causes leave a mental cause nothing to add, is separate.
 
 ### The Hard Problem Remains
 
@@ -218,6 +218,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 
 ## References
 
+1. Calef, S. "Dualism and Mind." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/dualism-and-mind/ (full text)
 1. Chalmers, D.J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness*. MIT Press.
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.

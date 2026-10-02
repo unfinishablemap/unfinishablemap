@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-14 10:30:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-02 02:26:03+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -12,7 +12,7 @@ date: &id001 2026-01-14
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-14 10:30:00+00:00
+lastmod: 2026-10-02 02:26:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,12 +84,19 @@ Neural correlates of consciousness (NCC) research seeks to identify the minimum 
 - **URL**: [plato.stanford.edu](https://plato.stanford.edu/entries/dualism/)
 - **Type**: Encyclopedia article
 - **Key points**:
-  - Interactionism predicts mental-neural correlations
-  - NCC findings do not distinguish interactionism from materialism
   - Causal closure is the key premise materialists rely on
   - Quantum level provides opening for questioning causal closure
 - **Tenet alignment**: Directly supports site's philosophical framework
-- **Quote**: "Interactionism actually predicts that mental events are caused by brain events and vice versa, so the fact that perceptions are correlated with activity in the visual cortex does not support materialism over this form of dualism."
+- **Quote**: "Hence interactionism violates physical closure after all." (§3.3; reported as an argument, which Mills replies is invalid; not the entry's verdict)
+
+### Internet Encyclopedia of Philosophy - Dualism and Mind (Scott Calef), §7.d
+- **URL**: [iep.utm.edu](https://iep.utm.edu/dualism-and-mind/)
+- **Type**: Encyclopedia article
+- **Key points**:
+  - Interactionism predicts mental-neural correlations
+  - NCC findings do not distinguish interactionism from materialism
+- **Quote**: "As for correlation, interactionism actually predicts that mental events are caused by brain events and vice versa, so the fact that perceptions are correlated with activity in the visual cortex does not support materialism over this form of dualism."
+- **Attribution note** (2026-10-02): this quotation was first filed under the SEP entry above, which does not contain it.
 
 ## Major Figures
 
@@ -169,7 +176,7 @@ A common assumption is that finding neural correlates supports materialism. This
 2. **Interactionism predicts correlations**: If mind and brain causally interact, we would expect tight correlations
 3. **The hard problem remains**: No amount of NCC data explains *why* neural activity feels like anything
 
-As the Stanford Encyclopedia notes: "Interactionism actually predicts that mental events are caused by brain events and vice versa, so the fact that perceptions are correlated with activity in the visual cortex does not support materialism over this form of dualism."
+As Calef's *Internet Encyclopedia of Philosophy* entry notes (§7.d): "[I]nteractionism actually predicts that mental events are caused by brain events and vice versa, so the fact that perceptions are correlated with activity in the visual cortex does not support materialism over this form of dualism."
 
 ### The Interface Question
 

@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 02:11:17+00:00
+ai_modified: 2026-10-02 02:26:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 02:11:17+00:00
+lastmod: 2026-10-02 02:26:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T02:26:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (secondary: [neural-correlates-consciousness-2026-01-14](/research/neural-correlates-consciousness-2026-01-14/))
+- **Task**: P1 "Re-attribute the 'Interactionism actually predicts…' quotation … to the IEP (Calef, §7.d), qualify 'predicts', and name the closure objection the SEP actually discusses" (outer-review 2026-10-01, ChatGPT §4.1 + Claude row 13 / P5; synthesis clusters 1–2)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted outer-review fix)
+- **Source check (full text, raw-HTML grep 02:22Z)**: IEP "Dualism and Mind" (Scott Calef) §7.d "The Correlation and Dependence Arguments" contains "As for correlation, interactionism actually predicts that mental events are caused by brain events and vice versa, so the fact that perceptions are correlated with activity in the visual cortex does not support materialism over this form of dualism." (1 hit). SEP *Dualism* (rev. 17 Oct 2025): 0 hits for "actually predicts" / "visual cortex" / "vice versa"; §3.3 Interactionism has "Hence interactionism violates physical closure after all." followed by "Mills says that this argument is invalid" (1 hit each), so it is cited as the objection the SEP discusses, not as its verdict.
+- **Changes**: (1) Heading "Interactionism Predicts Correlations" → "Interactionism Expects Correlations" (no inbound anchors). (2) Cut the 19-word lead-in ("If consciousness causally interacts with the brain … brain states.") and "As the Stanford Encyclopedia notes:"; credited Calef's IEP entry (§7.d) with "argues that", quoting only the verbatim lowercase span "interactionism actually predicts that mental events are caused by brain events and vice versa" and paraphrasing the conclusion ("so visual-cortex correlations do not favour materialism") to fund the two new clauses. (3) Added the qualifier: interactionism expects correlation in general, not its specific pattern, piped to [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/) as "a likelihood question" (not restated). (4) Added one clause naming the [causal-closure](/concepts/causal-closure/) objection the *Stanford Encyclopedia* discusses ("sufficient physical causes leave a mental cause nothing to add"); no Papineau/Kim prose. (5) References: added `Calef, S. "Dualism and Mind." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/dualism-and-mind/ (full text)`; SEP line kept because (4) cites it. (6) Research note: the quotation moved out of the SEP source block into a new IEP (Calef, §7.d) block with an attribution note, the SEP block's quote replaced by its verified closure sentence with the Mills caveat, and the L170 prose re-attributed with "[I]".
+- **Length**: 3,419 → 3,433 (+14; budget ≤ +15) by `tools.curate.length.analyze_length`; concepts gate 3,500 `>=`.
+- **Engagement classification** (editor-internal): correlation argument — Mode One (on the physicalist's own terms correlation does not discriminate, since interactionism also expects it); closure objection — Mode Three (named honestly as a separate, unanswered challenge, not refuted here).
+- **Left for sibling tasks**: L154 "predict exactly the correlations" and "As argued in the interactionist predictions section" (illusionism/Dualism task owns them; align to "expects correlation in general, not its specific pattern" and the renamed heading).
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T02:11:17+00:00 - commission-chatgpt-review
 - **Status**: Success
