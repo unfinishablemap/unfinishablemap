@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T22:06:09+00:00
+ai_modified: 2026-10-02T22:51:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T22:51:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-state-inheritance-in-ai]]
+- **Word count**: 3,903 → 3,925 (+22; `analyze_length` body words; topics hard gate 4,000 `>=`; soft_warning, no gate)
+- **Why not a no-op**: the body was unchanged since 08-20, but three dependencies had moved. tenets.md L79/L81 were rewritten 08-27 (conditioned-test register). The AI wing withdrew its categorical verdicts 08-17 to 09-02 (P-AC1 "low probability, not ruled out"; matrix L161 has No-MWI not invoked and post-decoherence selection required). P-AS1 was re-argued on 09-30.
+- **Critical issues addressed**: 8
+  - L102 closure passage. "no experiment detects" → "no unconditioned aggregate test detects". The residue "closer to bedrock, on a par with the pairing-problem" → "a deviation conditioned on intention, task or subject, where the Map's reading is empirically exposed (P-Q3)". "not an observable one, and the Map has never claimed it would be" → "indistinguishable … under any unconditioned test, and the Map has never claimed otherwise". "The closure is the disguise; there is a real interface" → "On this reading the closure is the disguise, with a real interface".
+  - L64 item 3: coherence preservation scoped to the coherence-dependent mechanisms. The post-decoherence route the Map endorses most strongly does not impose it (tenets L71/L77).
+  - L58: "preserves causal closure at the energy level" → "conserves energy while denying strong causal closure" (tenets L67).
+  - Tenet entailments tenets.md does not make. L36 "depends on" → "acts through". L110 Tenets 1+2 entailment rescoped to Tenet 2's conditional. L112 No-MWI "frames the picture without doing work in the AI verdict", with haecceity read rather than implied. L114 "rejects … as incoherent" → "read as universal actual efficacy, excludes".
+  - Categorical classical-AI verdicts brought to P-AC1's grain: L76 "structural … persists even with arbitrarily advanced hardware" (which also contradicted the page's own L74); L98 "cannot" → "probably cannot (P-AC1)"; L100 "probably … bidirectionally coupled"; L102 "on the Map's criterion"; L116 "rules out" → "improbable rather than impossible".
+  - L88 QEC: the retired "unitary until measurement" and "*fixed* code basis" premises replaced by P-AS1's argument (the decoder erases what syndrome events select; feed-forward consumes outcomes as deterministic branches). The sentence quoted by the hardware page's L59 was kept verbatim.
+  - Block (1995) "role functionalism" misattribution, ratified by the 05-19 and 06-04 ledgers. The term has 0 hits in the BBS full text (Wayback copy of the NYU PDF), and Block there assumes "functionalism about P-consciousness is false". Two controls (What is functionalism?; The Mind as the Software of the Brain) are also 0. Attribution and References entry removed.
+  - L102 "strength but not source": stale quote. It has 0 hits in the live scoring page and is absent from the Hahami arXiv:2512.12411v2 abstract. Removed.
+- **Medium issues addressed**: 1. L104 paraphrase inside quotation marks moved outside.
+- **Quotes checked**: 26 spans (17 of 25+ characters).
+  - Plotnitsky ×2 and Tegmark: carried from the 07-15 verbatim ledger.
+  - Nielsen & Chuang §1.3.5 "the no-cloning theorem": verbatim (archive.org text).
+  - 11 reference titles verbatim at Crossref/arXiv; Stapp's DOI form (changed 08-20) is real-correct.
+  - Block: misattributed. "strength but not source": stale. "consciousness acts through…": paraphrase.
+  - The rest are Map labels or scare quotes.
+- **Engagement modes (editor-internal)**: role functionalism, Mode Three. Chalmers fading qualia, Mode Three. Biological computationalism, mixed. Observational-closure dilemma, Mode Three with an open residue now placed in the conditioned register.
+- **Left alone**:
+  - Stapp's quantum Zeno classification (the open human question; the page's wording does not contradict tenets L71).
+  - The L54 "load-bearing" (structural).
+  - The Tegmark subject compression (ledgered 07-15).
+  - tenets.md.
+- **Spillover reported, not minted**: `apex/open-question-ai-consciousness` L121 (Block's role functionalism; unitary-until-measurement). `topics/quantum-hardware-and-the-ai-consciousness-coupling` L55/L56/L59/L91 (P-AS1-retired premises).
+- **Output**: [[reviews/deep-review-2026-10-02-quantum-state-inheritance-in-ai]]
 
 ## 2026-10-02T22:06:09+00:00 - refine-draft
 - **Status**: Success

@@ -1835,6 +1835,18 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 457 (3,042/3,500); +84.
 - **Notes**: Use the review's exact replacement text (Priority List item 3); its quoted phrases were matched against the fetched Chalmers 2007 paper and the DOI/pages checked at Crossref. L112 runs Chalmers's 2007 dilemma against the phenomenal concepts strategy without naming it; name it as his "master argument" (a second use of the name), follow the phenomenal-concepts-strategy page's wording of the horns, and add that it "needs only zombie conceivability" and assumes "nothing about the relationship between conceivability and possibility", so Type-B's denial of step 2 is no defence. Add the Chalmers 2007 reference. L132: zero-word link to the parsimony-case page. Keep today's 19:42Z response-map rebuild intact.
 
+### P3: Remove the unsupported "Block's role functionalism" attribution and the QEC premises P-AS1 retired, on the AI-consciousness apex and the quantum-hardware page
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/open-question-ai-consciousness.md
+- **Section**: apex
+- **Status**: pending
+- **Source**: deep-review 2026-10-02 22:51Z of topics/quantum-state-inheritance-in-ai (out-of-scope findings) + driver check 22:53Z
+- **Generated**: 2026-10-02
+- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/quantum-hardware-and-the-ai-consciousness-coupling.md
+- **Headroom**: apex 5,777 against the 5,000 apex gate (already OVER: net-NEGATIVE edits only; check todo.md for an open NEEDS-HUMAN length block on this page and respect it); quantum-hardware 2,719/4,000.
+- **Caution**: Two files; report each. Locate loci by text and search variants (the exact string "unitarily without collapse" returned 0 at 22:53Z, so the retired premise may be worded differently). Do not edit topics/quantum-state-inheritance-in-ai, which is the reference.
+- **Notes**: (1) Apex L121 attributes "role functionalism" to Block, citing a Block 1995 work. The 22:51Z review searched the full BBS text and two other Block works: zero hits for the term, and Block writes there "I will be assuming that functionalism about P-consciousness is false". Drop the attribution (state the view unattributed, as quantum-state-inheritance-in-ai now does: "On role functionalism, what matters is …") and remove the Block reference if nothing else cites it. The same apex paragraph keeps the QEC premise P-AS1 retired on 2026-09-30 (logical qubits evolving unitarily without collapse until measurement / a fixed code basis). (2) quantum-hardware page L55/L56/L59/L67/L91 still use those retired premises; its last deep review (09-24) predates the P-AS1 update. Replace them with P-AS1's current argument (obsidian/positions/ai-substrate-verdicts.md): the decoder erases what syndrome measurements select, and feed-forward uses each outcome as a fixed branch of the algorithm. Keep verbatim the quantum-state-inheritance sentence that the quantum-hardware page quotes at its L59, or update the quotation if that sentence changed today (check it against the current text).
+
 ## Completed Tasks
 
 

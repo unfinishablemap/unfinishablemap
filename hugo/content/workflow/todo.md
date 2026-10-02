@@ -1817,16 +1817,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Caution**: Three files; report each. Archive pages keep their archive notice and URL; change only the quoted span and its framing. Leave obsidian/reviews/ files alone (historical records). Sync copies archive/ into hugo/content/archive/, so check both trees.
 - **Notes**: The phrase "a lower, dynamic level", presented as a quotation about Mullā Ṣadrā's view of soul and body, is in none of its cited sources: zero hits in SEP (Rizvi), Kalin 2010, or Shameli, the source the corpus credits for it. The old wording also made the SOUL the lower level, where every version of the claim makes it the body. The 17:48Z deep review replaced it on the live pages with verified wording: Kalin's "material in its origination and spiritual in its subsistence" (Kalin 2010, pp. 162–163) on the steelman page, and Shameli's "two levels of one existent" on interaction-problem-across-traditions L84. Use the same verified spans (see obsidian/reviews/deep-review-2026-10-02-the-steelman-for-process-monism.md for the source check), or unquote and paraphrase accurately.
 
-### P2: Explanatory-gap L68/L81 still run the gap's persistence against Levine (Type-B) two paragraphs above today's L135 fix
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/explanatory-gap.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-02 21:35Z (obsidian/reviews/optimistic-2026-10-02-physicalist-typing-wing.md, Priority List item 1)
-- **Generated**: 2026-10-02
-- **Headroom**: **6** (3,493/3,500 by `analyze_length`); the item costs +2, leaving 4. Measure before and after; the page must stay ≤ 3,499.
-- **Notes**: Use the review's exact replacement text (Priority List item 1); locate by text. L68 "The persistence suggests the gap may be more than epistemic." → "The persistence tells against a temporary gap, though [Type-B](/concepts/type-a-type-b-and-type-c-physicalism/#common-misroutings) predicts it." L81 "But the persistence of the gap provides evidence for the hard problem." → "But against promissory physicalism, the gap's persistence is evidence for the hard problem." L99: zero-word link from "full argument" to the zombie-master-argument page. Chalmers classes Levine as Type-B (routing page L60); this is the routing page's first listed misrouting. Keep today's L135 wording (refine-draft 18:53Z) intact; confirm the #common-misroutings anchor renders.
-
 ### P3: Philosophy-of-science L84: scope the acquaintance-trust argument to the opponent it binds (the illusionist, not Type-B)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
@@ -1847,8 +1837,25 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 457 (3,042/3,500); +84.
 - **Notes**: Use the review's exact replacement text (Priority List item 3); its quoted phrases were matched against the fetched Chalmers 2007 paper and the DOI/pages checked at Crossref. L112 runs Chalmers's 2007 dilemma against the phenomenal concepts strategy without naming it; name it as his "master argument" (a second use of the name), follow the phenomenal-concepts-strategy page's wording of the horns, and add that it "needs only zombie conceivability" and assumes "nothing about the relationship between conceivability and possibility", so Type-B's denial of step 2 is no defence. Add the Chalmers 2007 reference. L132: zero-word link to the parsimony-case page. Keep today's 19:42Z response-map rebuild intact.
 
+### P3: Remove the unsupported "Block's role functionalism" attribution and the QEC premises [P-AS1](/positions/ai-substrate-verdicts/#p-as1) retired, on the AI-consciousness apex and the quantum-hardware page
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/open-question-ai-consciousness.md
+- **Section**: apex
+- **Status**: pending
+- **Source**: deep-review 2026-10-02 22:51Z of topics/quantum-state-inheritance-in-ai (out-of-scope findings) + driver check 22:53Z
+- **Generated**: 2026-10-02
+- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/quantum-hardware-and-the-ai-consciousness-coupling.md
+- **Headroom**: apex 5,777 against the 5,000 apex gate (already OVER: net-NEGATIVE edits only; check todo.md for an open NEEDS-HUMAN length block on this page and respect it); quantum-hardware 2,719/4,000.
+- **Caution**: Two files; report each. Locate loci by text and search variants (the exact string "unitarily without collapse" returned 0 at 22:53Z, so the retired premise may be worded differently). Do not edit topics/quantum-state-inheritance-in-ai, which is the reference.
+- **Notes**: (1) Apex L121 attributes "role functionalism" to Block, citing a Block 1995 work. The 22:51Z review searched the full BBS text and two other Block works: zero hits for the term, and Block writes there "I will be assuming that functionalism about P-consciousness is false". Drop the attribution (state the view unattributed, as quantum-state-inheritance-in-ai now does: "On role functionalism, what matters is …") and remove the Block reference if nothing else cites it. The same apex paragraph keeps the QEC premise [P-AS1](/positions/ai-substrate-verdicts/#p-as1) retired on 2026-09-30 (logical qubits evolving unitarily without collapse until measurement / a fixed code basis). (2) quantum-hardware page L55/L56/L59/L67/L91 still use those retired premises; its last deep review (09-24) predates the [P-AS1](/positions/ai-substrate-verdicts/#p-as1) update. Replace them with [P-AS1](/positions/ai-substrate-verdicts/#p-as1)'s current argument (obsidian/positions/ai-substrate-verdicts.md): the decoder erases what syndrome measurements select, and feed-forward uses each outcome as a fixed branch of the algorithm. Keep verbatim the quantum-state-inheritance sentence that the quantum-hardware page quotes at its L59, or update the quotation if that sentence changed today (check it against the current text).
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-02: Explanatory-gap L68/L81 still run the gap's persistence against Levine (Type-B) two paragraphs above today's L135 fix
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/explanatory-gap.md
+- **Notes**: Use the review's exact replacement text (Priority List item 1); locate by text. L68 "The persistence suggests the gap may be more than epistemic." → "The persistence tells against a temporary gap, though [Type-B](/concepts/type-a-type-b-and-type-c-physicalism/#common-misroutings) predicts it." L81 "But the persistence of the gap provides evidence for the hard problem." → "But against promissory physicalism, the gap's persistence is evidence for the hard problem." L99: zero-word link from "full argument" to the zombie-master-argument page. Chalmers classes Levine as Type-B (routing page L60); this is the routing page's first listed misrouting. Keep today's L135 wording (refine-draft 18:53Z) intact; confirm the #common-misroutings anchor renders.
 
 ### ✓ 2026-10-02: Type-A/B/C page: give Type-B its own answers and the missing closure row, update the stale Tenet-5 row, scope the Type-C collapse payoff, restore Chalmers's Type-A qualifier
 - **Type**: refine-draft
