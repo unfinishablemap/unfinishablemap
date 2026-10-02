@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-01 01:09:51+00:00
-ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-02 09:51:36+00:00
+ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/ownership-void/
@@ -15,14 +15,14 @@ concepts:
 - '[[introspection]]'
 - '[[mysterianism]]'
 created: 2026-02-24
-date: &id001 2026-10-01
+date: &id001 2026-10-02
 description: Mine-ness is the phenomenal mark by which experience presents as belonging
   to a subject—separable in pathology, yet its mechanism of appropriation stays opaque.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-22 21:12:19+00:00
-lastmod: 2026-10-01 01:09:51+00:00
+lastmod: 2026-10-02 09:51:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The case for treating mine-ness as a distinct feature rests on its **dissociabil
 
 If mine-ness were not separable, DPD would be impossible to describe. The patient could not say "my experiences feel as if they are not mine" because the experiences would either be theirs (in which case mine-ness is intact) or not (in which case they could not be reporting them as their own). The fact that DPD descriptions are coherent—that patients can both *have* the experiences and *report them as alienated*—is itself evidence that mine-ness is a feature distinct from the bare having of experience.
 
-Anna Ciaunica and colleagues describe DPD as a crack in a normally transparent window. The window's transparency is its mine-ness: ordinarily we see *through* it to the world. When it cracks the window becomes partly visible—mine-ness becomes a noticed absence rather than an unnoticed presence, and subjects report a fracture between an "observing self" and an "observed self." The pathology converts a transparent feature into an opaque one without destroying consciousness itself.
+Anna Ciaunica and colleagues describe DPD as a crack in a normally transparent window. On the Map's reading, the window's transparency is its mine-ness: ordinarily we see *through* it to the world. When it cracks the window becomes partly visible—mine-ness becomes a noticed absence rather than an unnoticed presence, and subjects report a fracture between an "observing self" and an "observed self." The pathology converts a transparent feature into an opaque one without destroying consciousness itself.
 
 DPD is also one of the cleanest cases where the [discrimination-problem](/concepts/discrimination-problem/) engages at the *phenomenal-feature level* rather than at the metaphysical-zombie level. The discrimination problem, in its general form, asks whether functional duplicates can differ in their phenomenology. DPD supplies the within-subject version: the same subject, with the same first-order content available, reports the for-me character degraded. The discriminator the framework names — what distinguishes "experience with mine-ness" from "functionally similar processing without mine-ness" — is here visibly *within* the phenomenology, not behind it. That makes separability the crux of the discrimination-problem framework's most tractable application: the level at which a phenomenal feature can be reported as varying while contents are held fixed.
 
@@ -136,7 +136,7 @@ The void is the epistemic residue that remains once the [ownership problem](/top
 
 ### Dualism
 
-The [Dualism](/tenets/#dualism) tenet finds direct support in mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "completely irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition is exactly what dualism predicts: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model in the first place. The ownership void fits the same reading: a feature constitutive of non-physical subjectivity would have no decomposition to inspect, which is why introspection finds a presence and never machinery.
+The [Dualism](/tenets/#dualism) tenet is compatible with, [not evidenced by](/concepts/depersonalisation/#what-the-datum-shows-two-tiers), mine-ness's separability and apparent irreducibility. Zahavi describes for-me-ness as "completely irrelational"—not a relation between an experience and a subject who has it, but a feature constitutive of experience itself. A feature with no internal structure, no constituent parts, and no functional decomposition fits dualism, though not uniquely: a basic property of consciousness that physicalist accounts can describe in their functional shadow but not capture in their phenomenal character. The Map reads mine-ness as one of the clearest cases where the explanatory gap between functional description and phenomenal character is visible. Metzinger can give a beautiful account of why a self-model would be transparent and feel mine; what he cannot give is an account of why there is something it is like to have a transparent self-model. The ownership void fits the same reading: a feature constitutive of non-physical subjectivity would have no decomposition to inspect, which is why introspection finds a presence and never machinery.
 
 ### Bidirectional Interaction
 

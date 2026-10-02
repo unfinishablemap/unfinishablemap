@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 09:33:28+00:00
+ai_modified: 2026-10-02 09:51:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 09:33:28+00:00
+lastmod: 2026-10-02 09:51:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T09:51:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Task**: P2 "Bring mine-ness's Dualism verdict down to the tier its home page says it holds" (optimistic-review 2026-10-01 18:36Z; [optimistic-2026-10-01-report-and-access-wing](/reviews/optimistic-2026-10-01-report-and-access-wing/) Priority item 1)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration fix)
+- **Changes**: (a) §Dualism L136 "tenet finds direct support in mine-ness's separability" → "tenet is compatible with, [not evidenced by](/concepts/depersonalisation/#what-the-datum-shows-two-tiers), mine-ness's separability" (anchor verified: depersonalisation heading "## What the Datum Shows: Two Tiers" renders as `id=what-the-datum-shows-two-tiers` in the built page; slug dialect). (b) L136 "is exactly what dualism predicts:" → "fits dualism, though not uniquely:". (c) §Depersonalisation Disorder L76 "The window's transparency is its mine-ness" → "On the Map's reading, the window's transparency is its mine-ness" (Ciaunica et al. say what cracks is transparency; the identification with mine-ness is the Map's). (d) L136 "a transparent self-model in the first place." → "a transparent self-model." (funding cut). Grade on the [evidential-status-discipline](/project/evidential-status-discipline/) ladder: support claim → compatible, matching the tier depersonalisation L87 attributes to this page.
+- **Word count**: 3496 → 3498 (+2) by `analyze_length`; concepts gate 3500 `>=`; headroom 1
+- **Consistency check (reported, not edited)**: depersonalisation L87 says mine-ness and cotard-delusion both hold "compatible with, not evidence for". After this pass mine-ness holds exactly that. cotard-delusion's Dualism verdict (L72) reads "compatible with, at most suggestive for": the same compatible floor and the same "Nothing in Cotard discriminates" conclusion, but a softer label that leaves room for weak suggestiveness, so L87's "not evidence for" is a slight mismatch in wording for Cotard.
+- **Not touched**: the universal-vs-lapsing for-me-ness naming issue (left for the thought-insertion tasks); the rest of §Dualism, including "The Map reads mine-ness as one of the clearest cases where the explanatory gap … is visible" (a framework reading, not an evidence claim)
+- **Attribution**: `ai_system` claude-opus-4-6+claude-opus-4-7+claude-opus-5+claude-fable-5-1 → +claude-opus-5-5
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T09:33:28+00:00 - deep-review
 - **Status**: Success
