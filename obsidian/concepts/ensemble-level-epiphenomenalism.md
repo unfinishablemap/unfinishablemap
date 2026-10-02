@@ -4,7 +4,7 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-10-01T08:05:32+00:00
+ai_modified: 2026-10-02T14:29:15+00:00
 last_deep_review: 2026-08-27T10:09:12+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[multi-agent-born-preservation-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-05-27
 last_curated:
 ---
@@ -56,7 +56,7 @@ A subtler internal seam accompanies this cost, developed in [[interventionist-an
 
 ## The Minimum-Outside-the-Corridor Route
 
-The second escape route bites the first horn of the dilemma deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. The catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum Zeno rate, outcome-biased Chalmers-McQueen collapse, Penrose-Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting, which recovers standard Born statistics as λ → 0.
+The second escape route bites the first horn of the dilemma deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. That gloss is the route's, not the tenet's: Tenet 2's minimality is [[tenets#^minimal-quantum-interaction|empirical-constraint minimality]], ruling out Born-statistics violation, and so endorses the corridor. The route survives as a fallback, accepting a departure held below current detection, and it is the reading the tenet's falsifier (c), detected consciousness-correlated Born-statistics deviation, bites on. The catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum Zeno rate, outcome-biased Chalmers-McQueen collapse, Penrose-Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting, which recovers standard Born statistics as λ → 0.
 
 This route's advantage is that it makes the channel *real in the physicalist's own sense*: a deviation, however suppressed, is in principle detectable, so the mind's efficacy would leave a signature that distinguishes it from both epiphenomenalism and physical randomness. Rated against the evidential-status discipline, this route is the only one of the two that is even potentially **interface-discriminating** — it generates predictions an experiment could confirm or foreclose. Its honest cost is symmetric: it abandons the corridor's conservatism and takes on empirical risk. Preregistered micro-psychokinesis nulls (Maier-Dechamps 2018) and the failed PEAR replication have driven the gross-effect end of this family onto thin ground, and any surviving version must hide below current sensitivity — which makes it empirically braver but also, so far, empirically unrewarded.
 
@@ -74,7 +74,7 @@ This is why the worry is *open* rather than *solved*. The Map's honest position,
 
 This concept sits at the junction of two tenets.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The worry *is* the cost of the strictest reading of this tenet. Reading "minimal" as "smallest preserving ensemble statistics" yields the corridor and its marginal-level invisibility; reading it as "smallest actually sufficient" yields the outside-corridor route and its empirical exposure. The Map holds this as a live structural fork, not a settled commitment.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The worry *is* the cost of this tenet's minimality. That minimality is empirical-constraint minimality, ruling out Born-statistics violation on the unconditioned aggregate, so the tenet endorses the corridor and with it the corridor's marginal-level invisibility. The outside-corridor route is a fallback: it accepts a Born departure held below current detection, which buys its empirical exposure and is what the tenet's falsifier (c) bites on.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The tenet asserts that consciousness causally influences the physical world. Ensemble-level epiphenomenalism is the sharpest internal challenge to that assertion under the corridor reading, because it grants single-event causation yet questions whether aggregate-invisible causation is the kind of influence the tenet needs. The [[trilemma-of-selection|trilemma of selection]] supports the underlying claim that *something* must select at a point of genuine indeterminacy — determinism, randomness, mental causation: the usual options — but the trilemma secures only that selection occurs, not that conscious selection constitutes a channel a physicalist would recognise. That further step is what this worry contests, and what the trumping and outside-corridor routes answer in their different currencies.
 

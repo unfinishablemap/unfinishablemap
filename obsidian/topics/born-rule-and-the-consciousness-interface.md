@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-09-30T11:26:42+00:00
+ai_modified: 2026-10-02T14:29:15+00:00
 draft: false
 anchoring_audit_exempt: true # 2026-09-02 false-high: 0.03/kw margin is apparatus dilution (2.03/kw over argumentative body); underdetermination structural — "cannot/do not yet adjudicate" 4x, regex-invisible
 topics:
@@ -57,7 +57,7 @@ related_articles:
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-24
 last_curated:
 last_deep_review: 2026-07-19T10:40:24+00:00
@@ -164,7 +164,7 @@ Four families emerge:
 
 **Question-choice dualism (Born-rule-intact).** Stapp's von Neumann reading: consciousness supplies Process 1, which question is put and when; nature answers by the Born rule. It faces no Born dilemma, only a [[process-1-specification-problem|basis dilemma]], and is, by Tenet 2's standard, more minimal than the corridor. The Map does not adopt it as default because question-choice fixes what is asked rather than what happens, and the libertarian account of [[free-will]] the Map favours has the agent bear on which option is realised. That preference is motivated, and the row stays live.
 
-**Minimum-outside-the-corridor dualism (Born-rule-bending).** The corridor is insufficient to produce the observed correlation between intention and outcome, so Minimal Quantum Interaction — read as "smallest interaction actually sufficient" — requires deviation:
+**Minimum-outside-the-corridor dualism (Born-rule-bending).** The corridor is insufficient to produce the observed correlation between intention and outcome, so Minimal Quantum Interaction, read as "smallest interaction actually sufficient" (this family's gloss, not Tenet 2's), requires deviation:
 
 - *Stapp's quantum Zeno.* Rapid conscious attention holds an eigenstate, shifting selection probabilities away from non-conscious outcomes.
 - *Chalmers-McQueen Φ-dependent collapse.* Integration structure, not scalar Φ, gates collapse rate; outcomes stay Born barring unendorsed outcome-biasing.
@@ -194,7 +194,7 @@ Being simultaneously *form-fixed* and *existence-underivable* is a duality the Q
 
 ## What the Map's Minimal Quantum Interaction Commits To
 
-The Minimal Quantum Interaction tenet, strictly read, privileges whichever minimum is *actually sufficient*, which is why the corridor is a working hypothesis (a tenet-level choice held at compatibility grade) rather than a definitional requirement or an evidence-graded conclusion. The corridor, bending, and trumping attitudes remain in tension over cost: the corridor is maximally compatible with existing Born tests, Gleason, and the Torres Alegre steering result, but makes the single-event channel ensemble-invisible (risking [[ensemble-level-epiphenomenalism]] unless trumping is adopted); minimum-outside-corridor readings are empirically distinguishable from physicalism but inherit Gleason's and Torres Alegre's geometric cost; trumping leaves the Born rule orthogonal to the consciousness question. The empirical state cannot adjudicate, since it cannot probe the brain-internal regime at the required precision.
+Tenet 2's minimality is empirical-constraint minimality, ruling out Born-statistics violation on the unconditioned aggregate, so the corridor is the endorsed working hypothesis (a tenet-level choice held at compatibility grade) rather than a definitional requirement or an evidence-graded conclusion. The corridor, bending, and trumping attitudes remain in tension over cost: the corridor is maximally compatible with existing Born tests, Gleason, and the Torres Alegre steering result, but makes the single-event channel ensemble-invisible (risking [[ensemble-level-epiphenomenalism]] unless trumping is adopted); minimum-outside-corridor readings are empirically distinguishable from physicalism but inherit Gleason's and Torres Alegre's geometric cost; trumping leaves the Born rule orthogonal to the consciousness question. The empirical state cannot adjudicate, since it cannot probe the brain-internal regime at the required precision.
 
 ## What This Does Not Establish
 
@@ -214,15 +214,15 @@ All five connections inherit the *Compatibility vs. Support* discipline: the und
 
 **[[tenets#^dualism|Dualism]]**: That no physical framework generates the Born rule's existence without presupposing observers or probability is compatible with the claim that consciousness contributes something ontologically irreducible to measurement, and the unprobed brain-internal conscious-selection regime keeps space open for a non-reducible mental channel rather than closing it ([[completeness-in-physics-under-dualism|structural-ontological gap]]). If the Born rule were tested inside conscious brains and held to triple-slit precision, one degree of freedom for dualism would close — though trumping and corridor variants would survive.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Gleason sharpens what "minimal" means here: the corridor's geometric non-disturbance — selection among Born-weighted branches, leaving Tr(ρP) undeformed — is itself the minimal-intervention signature, and [[composition-and-consciousness|phenomenal non-compositionality]] adds that selection operates at a unified locus. Re-weighting the measure would breach minimality, which is why minimum-outside-corridor readings cost more. Trumping-based readings realise MQI without trajectory-level interaction — an even smaller footprint at the cost of empirical invisibility. The taxonomy is a live structural question, not a settled commitment.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Gleason sharpens what "minimal" means here: the corridor's geometric non-disturbance — selection among Born-weighted branches, leaving Tr(ρP) undeformed — is itself the minimal-intervention signature, and [[composition-and-consciousness|phenomenal non-compositionality]] adds that selection operates at a unified locus. Re-weighting the measure would breach minimality, which is why minimum-outside-corridor readings cost more. Trumping-based readings realise MQI without trajectory-level interaction — an even smaller footprint at the cost of empirical invisibility. Among Born-intact readings the choice stays open.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: On the interface reading, obtaining an outcome is itself an act — consciousness selecting among possibilities — so observer-dependence permits, without establishing, bidirectional causation. The [[trilemma-of-selection]] supports this: at any point of genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only the third preserves authorship. The [[trumping-preemption|trumping route]] realises it at the authority layer. A corridor position must explain how single-event selection adds up to a genuine mental-to-physical channel without leaving an ensemble signature — arguably the Map's sharpest open question, rated route-by-route in [[ensemble-level-epiphenomenalism]].
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: On the interface reading, obtaining an outcome is itself an act — consciousness selecting among possibilities — so observer-dependence permits, without establishing, bidirectional causation. The [[trilemma-of-selection]] adds a heuristic, not a proof: at any point of genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only the third preserves authorship. The [[trumping-preemption|trumping route]] realises it at the authority layer. A corridor position must explain how single-event selection adds up to a genuine mental-to-physical channel without leaving an ensemble signature — arguably the Map's sharpest open question, rated route-by-route in [[ensemble-level-epiphenomenalism]].
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: MWI accommodates the Born rule through decision-theoretic rationality axioms (Deutsch 1999, Wallace 2010, Carroll-Sebens 2014) — a framework-internal home parallel to those QBism, objective collapse, and the interface reading construct. These reconstructions are internally coherent on their own terms; the Map's preference for indexical identity over branching rests on the tenets. The [[probability-problem-in-many-worlds|probability problem]] catalogues the in-framework debate over what probability *means* when all outcomes occur, and the [[many-worlds-argument|cumulative case against MWI]] gathers the tenet-coherence considerations the Map regards as decisive even granting the accommodation.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: MWI accommodates the Born rule through decision-theoretic rationality axioms (Deutsch 1999, Wallace 2010, Carroll-Sebens 2014) — a framework-internal home parallel to those QBism, objective collapse, and the interface reading construct. These reconstructions are internally coherent; the Map's preference for indexical identity over branching rests on the tenets. The [[probability-problem-in-many-worlds|probability problem]] catalogues the in-framework debate over what probability *means* when all outcomes occur, and the [[many-worlds-argument|cumulative case against MWI]] gathers the tenet-coherence considerations the Map regards as decisive even granting the accommodation.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The Born rule gap's interpretation-invariance is compatible with a genuine consciousness-physics boundary, but the cross-framework derivation failure is one motivation among several, not decisive support. Treating "the Born rule has held in every test so far" as universal validity is a case where simplicity is unreliable with incomplete knowledge: the tested regimes are a narrow slice. The symmetric restraint cuts the Map's own way: coherence with the interface reading must not silently convert into empirical confidence over the rivals the pattern equally accommodates.
 
-The empirical question is genuinely open, and the corridor-vs-minimum-outside-corridor distinction is held as a live fork. A reader who takes the catalogue's length as evidential weight reads it against its own discipline: it shows the underivability pattern holds uniformly and that the interface reading has a coherent framework-internal home — not that the reading is adjudicated over the rivals accommodating it equally.
+The empirical question is genuinely open; the corridor is endorsed, with minimum-outside-corridor readings as fallbacks. A reader who takes the catalogue's length as evidential weight reads it against its own discipline: it shows the underivability pattern holds uniformly and that the interface reading has a coherent framework-internal home — not that the reading is adjudicated over the rivals accommodating it equally.
 
 ## Further Reading
 

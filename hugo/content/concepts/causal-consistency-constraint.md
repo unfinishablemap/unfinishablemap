@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-27 23:06:28+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
+ai_modified: 2026-10-02 14:29:15+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
 - '[[consciousness-physics-interface-formalism]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 23:52:46+00:00
-lastmod: 2026-09-27 23:06:28+00:00
+lastmod: 2026-10-02 14:29:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ These qualifications matter because a strong positive derivational result invite
 
 The constraint connects to the Map's [foundational commitments](/tenets/) without being asked to support more than its derivational structure warrants.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The constraint shapes what "minimal" can mean. On the corridor reading, "minimal" is read as smallest interaction preserving ensemble Born statistics, and the constraint shows this reading is causally consistent by construction. On minimum-outside-corridor readings, "minimal" is read as smallest interaction actually sufficient to produce the observed mental-to-physical correlation, and the constraint imposes the additional requirement that whatever deviation is posited must respect no-signalling. The tenet's content is not changed by the constraint; the structural conditions any candidate reading must satisfy become more explicit.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The constraint shapes what "minimal" can mean. The corridor reading, on which "minimal" means smallest interaction preserving ensemble Born statistics, is the one the tenet's empirical-constraint minimality endorses (no Born-statistics violation), and the constraint shows this reading is causally consistent by construction. Minimum-outside-corridor readings, which take "minimal" as smallest interaction actually sufficient to produce the observed mental-to-physical correlation, are fallbacks: they accept a Born departure held below current detection, which the tenet's falsifier (c), direct detection of consciousness-correlated Born deviation, bites on, and the constraint imposes the additional requirement that whatever deviation is posited must respect no-signalling. The tenet's content is not changed by the constraint; the structural conditions any candidate reading must satisfy become more explicit.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The constraint applies to any bidirectional channel between consciousness and the physical world. If a channel modifies measurement statistics in a way that enables signalling, the constraint rules it out. This is not an objection to bidirectional interaction; it is a structural condition the bidirectional channel must respect. The corridor and trumping readings both satisfy the condition; minimum-outside-corridor readings must show they do.
 

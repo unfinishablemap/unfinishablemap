@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-09-27 23:06:28+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-02 14:29:15+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
 - concepts/ensemble-level-epiphenomenalism
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-09-27 23:06:28+00:00
+lastmod: 2026-10-02 14:29:15+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -127,7 +127,7 @@ Rated against the Map's [evidential-status discipline](/project/evidential-statu
 
 ### Route 2: Minimum-outside-the-corridor (efficacy with a signature)
 
-The second route bites the first horn deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**. It is also where the intervention analysis above leads, which makes it the route the Map is likeliest to be pushed toward rather than the exotic option.
+The second route bites the first horn deliberately. A fallback, it glosses "minimal" as "the smallest interaction *actually sufficient*", against the tenet's no-Born-violation constraint, and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**. It is also where the intervention analysis above leads, which makes it the route the Map is likeliest to be pushed toward rather than the exotic option.
 
 Its cost is symmetric and currently unrewarded. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the gross-effect end of this family onto thin ground; any surviving version must hide below current sensitivity. There is a deeper exposure: a departure that buys signalling power would violate no-signalling, and the causal-consistency constraint says the corridor's Born-preservation is exactly what keeps the default reading signalling-safe. A minimum-outside-corridor variant must demonstrate its deviation is signalling-safe — not merely small.
 
@@ -193,7 +193,7 @@ What would *not* count as progress: any move that answers the worry by re-descri
 
 The problem sits at the junction of two tenets and is held there rather than dissolved.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** *is* the source of the dilemma. Read "minimal" as "smallest preserving ensemble statistics" and you get the corridor and its invisibility; read it as "smallest actually sufficient" and you get the outside-corridor route and its empirical exposure. The Map holds this as a live structural fork, not a settled commitment — which is exactly the posture [P-Q2](/positions/quantum-interface/#p-q2) and [P-Q3](/positions/quantum-interface/#p-q3) jointly record.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** *is* the source of the dilemma. Its minimality is the empirical-constraint kind, ruling out Born-statistics violation, so it endorses the corridor and inherits the corridor's invisibility. Outside-corridor readings are fallbacks that accept a Born departure held below current detection, the exposure the tenet's falsifier (c) bites on. [P-Q2](/positions/quantum-interface/#p-q2) and [P-Q3](/positions/quantum-interface/#p-q3) jointly record this posture.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** asserts that consciousness causally influences the physical world. The Born-preserving efficacy problem is the sharpest internal challenge to that assertion, because it grants single-event causation yet questions whether aggregate-invisible causation is the kind of influence the tenet needs. The [trilemma of selection](/topics/trilemma-of-selection/) secures that *something* must select at a point of genuine indeterminacy — determinism, randomness, mental causation: the usual options — but only that selection occurs, not that conscious selection constitutes a channel a physicalist would recognise. That further step is what this problem contests.
 
