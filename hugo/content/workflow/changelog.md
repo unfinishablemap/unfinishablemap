@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 15:23:06+00:00
+ai_modified: 2026-10-02 16:23:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 15:23:06+00:00
+lastmod: 2026-10-02 16:23:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T16:23:43+00:00 - research-voids
+- **Status**: Success
+- **Trigger**: cycle trigger. The capacity gate did not fire: voids is 111/115 by `tools.evolution.state.count_section_files`, cap `section_caps.max_voids: 115`, so 4 slots are free. Two are spoken for: the 2026-09-30 preference note already in `pending_articles`, and the queued P3 expand-topic for the contingency void.
+- **Topic**: The Numbing Void. A mind can calculate that a million deaths are a million times one death and cannot feel it. Felt concern for others plateaus with their number (psychic numbing, scope insensitivity). Part of the plateau is motivated down-regulation, and no subject undergoes the sum.
+- **Category**: Mixed. Unexplorable core (no subject undergoes the sum), Occluded face (proactive emotion regulation), deflationary empirical face (the identified-victim effect is small and fragile, while scope insensitivity survives).
+- **Output**: [voids-numbing-void-2026-10-02](/research/voids-numbing-void-2026-10-02/) (5,533 body words; added to `task_chains.pending_articles` with `target_section: voids` per skill step 8)
+- **Key finding**: The felt plateau has two readings that a mind cannot choose between from inside. On the deficit reading (Slovic 2007), the additive badness is real and feeling fails to track it. On the tracking reading (Lewis 1940: "There is no such thing as a sum of suffering, for no one suffers it"; Taurek 1977), the plateau is right about where suffering is. The only first-person measure available is felt, and felt measures are subject-sized. Cameron & Payne 2011 show part of the plateau is proactive, motivated regulation. Maier et al. 2024 failed to replicate the identified-victim effect, while insensitivity to number survives.
+- **Bank checked first (citation-aware, not slug-only)**: 29 `voids-*` notes have no live or archived voids article, are cited by no live or archived content, and are not registered as Absorbed, Folded or Published. Seven are labelled Surveyed in voids.md (suggestion, notation, perceptual-history, prevalence, dormancy, serial-order, veto), one is pending (preference), one is queued P3 (contingency), and 20 are unlabelled 2026-02/03 notes. None covers the selected subject. The nearest are comparative-phenomenology (no unit of phenomenal measurement: about comparing, not feeling a total) and preference (one bullet on contingent valuation's scope insensitivity).
+- **Candidates considered**: (1) **thought-suppression / ironic process**: dropped, already in agency-void, self-maintained-cognitive-limits, suspension-void and transit-void, plus archived cognitive-aversion and defended-territory. (2) **hermeneutical lacuna (Fricker)**: dropped, already in collective-cognitive-limits, voids-between-minds, language-thought-boundary and question-formation-void. (3) **rule-following (Kripkenstein)**: dropped, quus is already in inference-void and concepts/carrolls-regress. (4) **self-locating / Sleeping Beauty**: dropped, already in concepts/indexical-knowledge-and-identity plus archived self-locating-beliefs. (5) **mind blanking**: dropped, already in mutation-void. (6) **relational complexity (Halford)**: 0 hits, but dropped as adjacent to the 10-01 seriality-bottleneck rejection and to formal-cognitive-limits, which cover working-memory caps. (7) **numbing / felt magnitude of others**: **kept**. It returned 0 live+archive hits for psychic numbing, compassion fade, collapse of compassion, scope insensitivity, Kogut, Fetherstonhaugh, Västfjäll, sum of suffering and Taurek (Libet = 58 live as a positive control). the-quantitative-comprehension-void has 0 lines on suffer/compassion/empath/moral, and the aggregation research notes are about counting minds, not feeling totals.
+- **Sourcing**: WebSearch was exhausted (200/200) before the run, so sources came by direct lookup. Full text was fetched for Slovic 2007, Västfjäll et al. 2014, Maier et al. 2024, Lewis 1940 (two archive.org scans), Sidgwick 1907 and Slovic et al. 2017 (abstract). Abstracts were verified for Cameron & Payne 2011, Hsee & Rottenstreich 2004, Kogut & Ritov 2005a, Lee & Feeley 2016, Butts et al. 2019, Dickert et al. 2015, Piller 2026 and Raiyan 2026 (preprint). Metadata only: Fetherstonhaugh 1997, Kogut & Ritov 2005b, Small et al. 2007, Kavka 1979, Taurek 1977 (OpenAlex). Secondary only: Lifton 1967 (coinage per Slovic) and Szent-Györgyi (unreferenced in Slovic). All quoted spans of 3 or more words were script-checked against the fetched raw text (75 spans, 0 misses apart from titles and the note's own non-quote phrasing, which was since removed).
+- **Disposition**: The note recommends a standalone slot (the structural face is cross-cutting), with a fold into the-quantitative-comprehension-void as the alternative. This is an operator decision, because after this note 3 of the 4 free slots are spoken for.
+- **Writes**: the research note; `task_chains.pending_articles` (+1); this entry. No todo.md change, no commit.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T15:23:06+00:00 - refine-draft
 - **Status**: Success
