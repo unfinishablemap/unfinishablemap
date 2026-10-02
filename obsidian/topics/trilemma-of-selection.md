@@ -4,7 +4,7 @@ description: "At a decision point of genuine indeterminacy the trilemma foregrou
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-09-30T12:13:01+00:00
+ai_modified: 2026-10-02T13:13:06+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[comparing-quantum-consciousness-mechanisms]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-10
 last_curated:
 last_deep_review: 2026-07-15T06:13:05+00:00
@@ -126,9 +126,9 @@ The trilemma connects to each of the five [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The trilemma derives the need for consciousness to bias outcomes at points of genuine indeterminacy. The smallest possible influence at the decision point—biasing which already-prepared option actualises—is exactly what the tenet specifies. The [[born-rule-and-the-consciousness-interface|Born rule analysis]] specifies what that indeterminacy looks like in quantum mechanics: the Born rule governs the probability distribution over outcomes, but which outcome actualises remains open—precisely the gap where Horn 3's conscious selection operates.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Horn 3 *is* bidirectional interaction. The brain presents options to consciousness (world→mind)—improper-mixture components awaiting actualisation, not already-definite alternatives—and consciousness selects among them (mind→world). Without this bidirectionality, we are left with Horns 1 or 2.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Horn 3 *is* bidirectional interaction. The brain presents options to consciousness (world→mind)—improper-mixture components awaiting actualisation, not already-definite alternatives—and consciousness selects among them (mind→world). Without this bidirectionality, we are left with Horns 1 or 2, or with the positions set aside above.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Under the many-worlds interpretation, all options actualise in different branches. There is no selection—consciousness merely discovers which branch it occupies. The trilemma presupposes genuine collapse: real alternatives that genuinely compete, with the resolution being a fact about this world rather than about branch indexing. This creates a mutual dependence: the trilemma needs single-outcome quantum mechanics to generate genuine indeterminacy for Horn 3, while the case against many-worlds elsewhere on the Map draws on considerations like the trilemma's. The relationship is one of coherentist mutual support rather than linear derivation—neither argument grounds the other, but they stand or fall together as part of a unified framework. An Everettian who rejects collapse dissolves the trilemma entirely, and the Map acknowledges this as a coherent alternative rather than a position refuted by the trilemma alone.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Under the many-worlds interpretation, all options actualise in different branches. There is no selection—consciousness merely discovers which branch it occupies. The trilemma presupposes genuine collapse: real alternatives that genuinely compete, with the resolution being a fact about this world rather than about branch indexing. This creates a mutual dependence: the trilemma needs single-outcome quantum mechanics to generate genuine indeterminacy for Horn 3, while the case against many-worlds elsewhere on the Map draws on considerations like the trilemma's. The relationship is logical interdependence, not mutual evidential support—neither argument grounds the other, but they stand or fall together as part of a unified framework. An Everettian who rejects collapse dissolves the trilemma entirely, and the Map acknowledges this as a coherent alternative rather than a position refuted by the trilemma alone.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Determinism (Horn 1) appears simpler—no mysterious selector needed. But simplicity is unreliable when the simpler explanation fails to account for systematic phenomenological evidence. On the trilemma's reading, the "simpler" options carry costs (theatrical deliberation, arbitrary outcomes) that the more complex option (genuine mental causation) avoids.
 

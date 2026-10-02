@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-10-01T02:44:14+00:00
+ai_modified: 2026-10-02T13:13:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[modal-structure-of-phenomenal-properties]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T23:11:05+00:00
@@ -184,13 +184,13 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The Unfinishable Map takes the explanatory gap as evidence that consciousness involves something beyond the physical. PCS is the strongest challenge to this position. Chalmers's master argument suggests PCS relocates rather than dissolves the problem: the specialness of phenomenal concepts must either (a) create a new gap or (b) apply equally to zombies. The persistence of the debate after decades of sophisticated work suggests the gap reflects something real about consciousness, not merely our conceptual limitations.
+**[[tenets#^dualism|Dualism]]**: The Unfinishable Map takes the explanatory gap as evidence that consciousness involves something beyond the physical. PCS is the strongest challenge to this position. Chalmers's master argument suggests PCS relocates rather than dissolves the problem: the specialness of phenomenal concepts must either (a) create a new gap or (b) apply equally to zombies.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If PCS fails and the gap is ontological, consciousness must interact with the physical world somehow. The Map proposes quantum-level selection—consciousness biases quantum outcomes without violating energy conservation. If phenomenal concepts can't be explained purely physically, something non-physical must enter the picture, and quantum indeterminacy provides one proposed entry point. See [[decoherence]] for the challenges this faces.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: PCS assumes that phenomenal concepts merely *represent* brain states without affecting them. But the deployment of phenomenal concepts itself requires causal work—the brain must do something to generate these "direct" or "quotational" concepts. If phenomenal concepts involve consciousness directly grasping its own states (as Loar suggests), this grasping may constitute the kind of downward causation the Map affirms. The concept doesn't just passively represent; consciousness actively apprehends. This active element resists purely bottom-up explanation.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The [[philosophical-zombies|zombie]] thought experiment central to Chalmers's master argument presupposes indexical identity—*I* could have been a zombie, or *this* world could have lacked consciousness. [[haecceity]]—the irreducible thisness of individual perspective—underlies this conceivability intuition. Many-worlds interpretations complicate indexicality: if all outcomes are equally real, "could have been" becomes "which branch." The Map's rejection of many-worlds preserves the zombie intuition in its original force.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The [[philosophical-zombies|zombie]] thought experiment central to Chalmers's master argument can be put indexically—*I* could have been a zombie—but a zombie *world* serves equally, and the argument needs neither indexical identity nor [[haecceity]]. An Everettian grants determinate first-person facts branch-locally, so branching leaves zombie conceivability untouched; Tenet 4 rests on the indexical objection, not on this argument.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: PCS often appeals to parsimony: why posit non-physical properties when the gap might be merely conceptual? But apparent simplicity may reflect ignorance. If the gap persists despite sophisticated attempts to explain it, perhaps the simpler explanation is that physics genuinely cannot capture everything about consciousness. The "conceptual" explanation adds complexity by requiring an account of why phenomenal concepts are so peculiarly unlike other concepts—and this peculiarity itself becomes the new puzzle. Parsimony cuts both ways.
 
