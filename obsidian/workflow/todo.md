@@ -1815,16 +1815,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Caution**: Three files; report each. Archive pages keep their archive notice and URL; change only the quoted span and its framing. Leave obsidian/reviews/ files alone (historical records). Sync copies archive/ into hugo/content/archive/, so check both trees.
 - **Notes**: The phrase "a lower, dynamic level", presented as a quotation about Mullā Ṣadrā's view of soul and body, is in none of its cited sources: zero hits in SEP (Rizvi), Kalin 2010, or Shameli, the source the corpus credits for it. The old wording also made the SOUL the lower level, where every version of the claim makes it the body. The 17:48Z deep review replaced it on the live pages with verified wording: Kalin's "material in its origination and spiritual in its subsistence" (Kalin 2010, pp. 162–163) on the steelman page, and Shameli's "two levels of one existent" on interaction-problem-across-traditions L84. Use the same verified spans (see obsidian/reviews/deep-review-2026-10-02-the-steelman-for-process-monism.md for the source check), or unquote and paraphrase accurately.
 
-### P2: Explanatory-gap L68/L81 still run the gap's persistence against Levine (Type-B) two paragraphs above today's L135 fix
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/explanatory-gap.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-02 21:35Z (obsidian/reviews/optimistic-2026-10-02-physicalist-typing-wing.md, Priority List item 1)
-- **Generated**: 2026-10-02
-- **Headroom**: **6** (3,493/3,500 by `analyze_length`); the item costs +2, leaving 4. Measure before and after; the page must stay ≤ 3,499.
-- **Notes**: Use the review's exact replacement text (Priority List item 1); locate by text. L68 "The persistence suggests the gap may be more than epistemic." → "The persistence tells against a temporary gap, though [[type-a-type-b-and-type-c-physicalism#common-misroutings|Type-B]] predicts it." L81 "But the persistence of the gap provides evidence for the hard problem." → "But against promissory physicalism, the gap's persistence is evidence for the hard problem." L99: zero-word link from "full argument" to the zombie-master-argument page. Chalmers classes Levine as Type-B (routing page L60); this is the routing page's first listed misrouting. Keep today's L135 wording (refine-draft 18:53Z) intact; confirm the #common-misroutings anchor renders.
-
 ### P3: Philosophy-of-science L84: scope the acquaintance-trust argument to the opponent it binds (the illusionist, not Type-B)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
@@ -1847,6 +1837,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-02: Explanatory-gap L68/L81 still run the gap's persistence against Levine (Type-B) two paragraphs above today's L135 fix
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/explanatory-gap.md
+- **Notes**: Use the review's exact replacement text (Priority List item 1); locate by text. L68 "The persistence suggests the gap may be more than epistemic." → "The persistence tells against a temporary gap, though [[type-a-type-b-and-type-c-physicalism#common-misroutings|Type-B]] predicts it." L81 "But the persistence of the gap provides evidence for the hard problem." → "But against promissory physicalism, the gap's persistence is evidence for the hard problem." L99: zero-word link from "full argument" to the zombie-master-argument page. Chalmers classes Levine as Type-B (routing page L60); this is the routing page's first listed misrouting. Keep today's L135 wording (refine-draft 18:53Z) intact; confirm the #common-misroutings anchor renders.
 
 ### ✓ 2026-10-02: Type-A/B/C page: give Type-B its own answers and the missing closure row, update the stale Tenet-5 row, scope the Type-C collapse payoff, restore Chalmers's Type-A qualifier
 - **Type**: refine-draft

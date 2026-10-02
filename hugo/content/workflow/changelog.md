@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 21:54:24+00:00
+ai_modified: 2026-10-02 22:06:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 21:54:24+00:00
+lastmod: 2026-10-02 22:06:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T22:06:09+00:00 - refine-draft
+- **Status**: Success
+- **Task**: P2 from [optimistic-2026-10-02-physicalist-typing-wing](/reviews/optimistic-2026-10-02-physicalist-typing-wing/) Priority List 1: stop running the persistence reply against Levine's Type-B reading.
+- **File**: [explanatory-gap](/concepts/explanatory-gap/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Length** (`analyze_length`): 3,493 → 3,495 (+2; concepts hard 3,500, `>=`; headroom 6 → 4; status soft_warning, no gate)
+- **Changes** (exact review text):
+  - L68, +1: "The persistence suggests the gap may be more than epistemic." → "The persistence tells against a temporary gap, though [Type-B](/concepts/type-a-type-b-and-type-c-physicalism/#common-misroutings) predicts it."
+  - L81, +1: "But the persistence of the gap provides evidence for the hard problem." → "But against promissory physicalism, the gap's persistence is evidence for the hard problem."
+  - L99, 0: "full argument" piped to [zombie-master-argument](/concepts/zombie-master-argument/).
+- **Grounds**: routing page L60 lists Levine among Chalmers's type-B; its "Common Misroutings" first bullet (persistence counted against physicalism as such) is the error these lines carried. L135 wording from the 18:53Z refine ("A promissory (Type-C) physicalist expects …") left intact; "promissory" is glossed there, 54 lines below its first use at L81 (no headroom for an earlier gloss).
+- **Engagement modes (editor-internal)**: Levine / Type-B: Mode Three. Persistence is now marked as something Type-B predicts, so no refutation is claimed. Promissory (Type-C) physicalism: Mode One. The gap's persistence counts against that view's own expectation of closure.
+- **Not touched**: L135, the L177 conditional, all other pages, todo.md.
+- **Published**: yes
 
 ## 2026-10-02T21:54:24+00:00 - refine-draft
 - **Status**: Success

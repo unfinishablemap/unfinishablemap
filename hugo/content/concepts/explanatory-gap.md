@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-02 18:53:36+00:00
+ai_modified: 2026-10-02 22:06:09+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:30:46+00:00
-lastmod: 2026-10-02 18:53:36+00:00
+lastmod: 2026-10-02 22:06:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ His key insight: even if consciousness *is* (identical to) brain activity, physi
 
 Levine initially claimed this gap might be purely epistemic—a limitation of human understanding rather than a fact about reality. Perhaps consciousness is physical, but we lack the conceptual resources to understand how. The gap would be in us, not in nature.
 
-But this modest reading has problems. If the gap is merely epistemic, why does it resist closure? Other explanatory gaps yielded when we found connecting facts; this one has not. The persistence suggests the gap may be more than epistemic.
+But this modest reading has problems. If the gap is merely epistemic, why does it resist closure? Other explanatory gaps yielded when we found connecting facts; this one has not. The persistence tells against a temporary gap, though [Type-B](/concepts/type-a-type-b-and-type-c-physicalism/#common-misroutings) predicts it.
 
 ## Relation to the Hard Problem
 
@@ -81,7 +81,7 @@ The explanatory gap and the hard problem are closely related but distinct:
 
 You could hold that consciousness is physical (denying the metaphysical hard problem) while admitting the explanatory gap (our understanding fails). Levine's original position was roughly this.
 
-But the persistence of the gap provides evidence for the hard problem. If consciousness were *nothing but* physical processes, why would the gap be so resistant? Why can't we see the connection even in principle? This suggests consciousness involves something physical explanation cannot capture—supporting the [Dualism](/tenets/#dualism) tenet.
+But against promissory physicalism, the gap's persistence is evidence for the hard problem. If consciousness were *nothing but* physical processes, why would the gap be so resistant? Why can't we see the connection even in principle? This suggests consciousness involves something physical explanation cannot capture—supporting the [Dualism](/tenets/#dualism) tenet.
 
 ## Thought Experiments
 
@@ -99,7 +99,7 @@ The explanatory gap here: all Mary's physical knowledge didn't explain what seei
 
 Imagine a being whose brain is physically identical to yours but who has no conscious experience—no inner life, no [qualia](/concepts/qualia/), nothing it's like to be them. They behave exactly as you do (because behavior is physically determined) but there's nobody home. This is the [philosophical zombie](/concepts/philosophical-zombies/) thought experiment.
 
-If zombies are even *conceivable*, it suggests that physical facts don't entail experiential facts. The gap between physical description and consciousness is wide enough that you can imagine the physical description being complete while consciousness is absent. Chalmers develops this into a full argument: if zombies are conceivable, they're possible; if they're possible, physicalism is false. The explanatory gap thus becomes evidence for an ontological gap—consciousness involves something beyond physics.
+If zombies are even *conceivable*, it suggests that physical facts don't entail experiential facts. The gap between physical description and consciousness is wide enough that you can imagine the physical description being complete while consciousness is absent. Chalmers develops this into a [full argument](/concepts/zombie-master-argument/): if zombies are conceivable, they're possible; if they're possible, physicalism is false. The explanatory gap thus becomes evidence for an ontological gap—consciousness involves something beyond physics.
 
 ### Inverted Qualia
 
