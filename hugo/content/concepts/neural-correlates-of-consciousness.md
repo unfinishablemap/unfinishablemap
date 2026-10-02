@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-02 07:44:39+00:00
+ai_modified: 2026-10-02 08:42:36+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:17:26+00:00
-lastmod: 2026-10-02 07:44:39+00:00
+lastmod: 2026-10-02 08:42:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,14 +138,14 @@ Where witness-like states do occur, they pose a genuine question for NCC methodo
 
 ## What Would Challenge This View?
 
-The interactionist interpretation would face difficulty if:
+Ordinary NCC data do not discriminate generic interactionism from production, and the Map's commitments keep it so: the default interface preserves Born statistics exactly ([P-Q2](/positions/quantum-interface/#p-q2)) and is self-concealing in the unconditioned aggregate ([P-Q9](/positions/quantum-interface/#p-q9)). Graded for reachability and discrimination:
 
-1. **Computational models predicted first-person reports from neural data alone**—if a complete model of posterior cortical dynamics could predict the specific character of a subject's experience (not just *that* they see colour, but which colour, with what vividness, under what attentional conditions) with no residual variance attributable to non-physical factors. This is achievable in principle with advancing neuroimaging and computational methods.
-2. **NCC manipulation produced arbitrary novel experiences**—not just eliminating or modulating existing experiences, but reliably creating phenomenal states with no evolutionary or experiential precedent (e.g., inducing the experience of a "new colour" via targeted cortical stimulation). Current stimulation evokes experiences within the subject's existing repertoire; generating genuinely novel qualia purely from neural manipulation would suggest the physical substrate is sufficient.
-3. **Filter theory predictions failed**—if severe NCC disruption always eliminated consciousness entirely with no "covert consciousness" phenomena. Current evidence is mixed: covert consciousness findings are contested, and systematic failure of these findings would weaken the transmission interpretation.
-4. **The explanatory gap closed progressively**—if successive NCC discoveries made the connection between neural description and phenomenal character increasingly intelligible (as happened with heat and molecular kinetic energy), even without full closure, the *trend* toward transparency would favour identity over interaction.
+1. **Decoding reaches the noise ceiling.** A neural model would predict which colour a subject reports, and how vividly, up to the reports' test–retest reliability; COGITATE's [content decoding](#the-cogitate-experiment) is a first step. Reachable, not discriminating: a deterministic psychophysical law also yields perfect prediction, so success presses only on deviation-predicting interaction models, not on the Map's default.
+2. **Cortical stimulation induces an out-of-gamut colour.** A [retinal case](/voids/palette-extension-void/) exists; a cortical one is reachable. Not discriminating: interactionism, accepting brain-to-mind causation, also predicts that a new neural state yields a new experience.
+3. **Recall from below every capacity threshold.** Covert consciousness, detected through preserved cortical activity, fits production too, and filter theory's value lies in [pattern coherence, not point predictions](/topics/terminal-lucidity-and-filter-transmission-theory/). [Verified recall from periods below every threshold](/topics/covert-consciousness-and-cognitive-motor-dissociation/#what-would-discriminate) could embarrass production; its absence would press on filter readings letting experience outrun neural support, not on the Map's.
+4. **The explanatory gap closes progressively.** A trend toward transparency, as with heat and molecular motion, would favour identity, but no agreed scale measures it, and persistence decides nothing, since Type-B physicalism [predicts it too](#dualism).
 
-The interactionist should be honest: conditions 1 and 2 are difficult to meet but not structurally impossible. They require empirical advances, not a change in the nature of reality. The article's arguments about the [explanatory-gap](/concepts/explanatory-gap/) suggest these conditions *may* never be met—but "may never" is not "cannot in principle," and the interactionist position must accept genuine empirical risk to remain intellectually serious.
+The Map's exposure lies outside correlational NCC work: in [P-Q9](/positions/quantum-interface/#p-q9)'s conditional channel, untested in the brain, where neural outcomes would track a preregistered intention beyond the measured physical state, something physical closure forbids; and in the mechanism debt behind it: no worked model of selection ([P-Q10](/positions/quantum-interface/#p-q10)), and an open bias-without-deviation challenge ([P-Q3](/positions/quantum-interface/#p-q3)).
 
 ## Relation to the Map's Perspective
 
