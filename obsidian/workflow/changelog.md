@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T18:37:41+00:00
+ai_modified: 2026-10-02T18:53:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T18:53:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/explanatory-gap]]
+- **Original score**: n/a (`scripts/curate.py` absent; brief-driven type-scoping pass)
+- **Source**: todo.md queue task (Type-C scoping of L135); research/type-a-type-b-and-type-c-physicalism-2026-10-02 §Misassignment Register M3. The paragraph had run the Type-C (promissory) persistence reply against physicalism as a whole, contradicting neural-correlates-of-consciousness L142's correct Type-B statement.
+- **Word count**: 3,493 → 3,493 (0; `analyze_length` body words; paragraph 126 → 126; concepts hard 3,500, gate `>=`).
+- **Changes** (L135 only):
+  - "If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts ... The persistent dissatisfaction suggests the identity doesn't hold." → "A promissory (Type-C) physicalist expects the mind-brain identity to prove explanatorily satisfying once we have the facts ... so persistent dissatisfaction counts against that view; Type-B physicalism, holding the identity epistemically primitive, predicts the persistence." Piped link [[type-a-type-b-and-type-c-physicalism]] installed on "promissory (Type-C) physicalist" (0 words for the link).
+  - Duhem-Quine sentence: "physicalists presuppose it can be closed" → "Type-C physicalists presuppose it can be closed"; "what would count as closure" → "what counts as closure".
+  - Opening claim softened: "the gap is not merely in us but in the nature of things" → "the gap may lie not merely in us ...". Once scoped, the persistence argument reaches only Type-C; Type-B grants a permanent gap and locates it in our concepts, so the unhedged ontological claim no longer followed from this paragraph.
+  - Funding cuts (same paragraph): "inadvertently", "own" (Cognitive science's own methodology), "that concede" → "conceding", "creating a" dropped, "its third-person measurements" → "third-person measurement", "the" before "persistent dissatisfaction".
+- **Engagement classification** (editor-internal): Type-C, Mode One (persistence counts against a view that predicts closure, on its own terms; weakly, per the concept page's C3 row). Type-B, Mode Three here: the paragraph now marks that Type-B predicts the persistence and does not claim to refute it. The Type-B replies live in the Phenomenal Concepts section above (L117–121) and in [[type-a-type-b-and-type-c-physicalism]]. No pointer was added because the brief's suggested "below" would have been wrong (that section sits above) and the word budget was 0.
+- **Not touched**: all other sections, per brief.
+- **Published**: yes
 
 ## 2026-10-02T18:37:41+00:00 - refine-draft
 - **Status**: Success

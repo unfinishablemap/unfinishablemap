@@ -1742,17 +1742,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-02
 - **Notes**: MULTI-FILE, report per file. (a) covert-consciousness: L33 "explain them equally well" (driver confirmed live, 2 hits) and "neutral between its own interface reading and production"; L88 "CMD leaves the physicalist reading standing, and matched" — align to IBE's concession that physicalism has a likelihood edge (the interface reading accommodates; it does not match); L82 reciprocal to NCC; the `description` field; UPDATE the `anchoring_audit_exempt` comment's quoted phrases to the new wording and keep it within the first 1,500 bytes; do not rename `{#…}` anchors (five ledger tasks deep-link `#the-numbers-and-their-denominators`). (b) neural-correlates: L51 "fully compatible", L116 "the discriminating work comes from…", L184 "indexes consciousness" → "probable consciousness", L189 "equally with materialism" (driver confirmed live) → "though not equally", L168 reciprocal to philosophy-of-science — NCC has 91 words of headroom (3,408/3,500): use the review's −1 fallback for L51 if needed. (c) IBE L36 reciprocal to covert (0 words). After sync, grep the Hugo output for each new anchor id. Two queued covert P3s (L92, ~L96) are at disjoint loci — batch if convenient. Use the exact replacement text in obsidian/reviews/optimistic-2026-10-02-evidence-and-licensing-wing.md "Priority list" item 3; locate targets by text. Re-measure each file with `tools.curate.length.analyze_length` before and after and print both. `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync; validate.
 
-### P2: Explanatory-gap hub runs a Type-C argument against physicalism generally (L135) — scope it, word-neutral
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/explanatory-gap.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: research-topic 2026-10-02 11:40Z (Misassignment Register M3) + expand-topic 2026-10-02 11:59Z (concepts/type-a-type-b-and-type-c-physicalism)
-- **Generated**: 2026-10-02
-- **Headroom**: **6 words** (3493/3500 by `analyze_length`, 2026-10-02). Every change must be funded by a cut in the same paragraph; measure before and after.
-- **Caution**: Do not touch any other section. Coordinate with the open P3 Cotard/colour-ontology reciprocals task, which lists this file as a secondary host.
-- **Notes**: L135 reads "If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold" and says "physicalists presuppose it can be closed; dualists deny it". Type-B physicalism (Loar, Papineau, Balog; Lycan, Tye, Carruthers as Chalmers classes them) denies that expectation: it holds the identity epistemically primitive and explains the residual gap by phenomenal concepts, so it does not presuppose closure. As written the paragraph is the Type-C reply presented against physicalism as a whole, and it contradicts concepts/neural-correlates-of-consciousness L142, which states the type-B position correctly. This is the hub page that should get the types right. Fix shape (from the research note obsidian/research/type-a-type-b-and-type-c-physicalism-2026-10-02.md §Misassignment Register): "physicalists presuppose" → "promissory (Type-C) physicalists presuppose" or equivalent, and scope the dissatisfaction argument to views that predict closure, funded by cutting words elsewhere in the paragraph. A piped link to concepts/type-a-type-b-and-type-c-physicalism on existing text costs zero words. Verify in both trees after sync.
-
 ### P2: Zombie master argument misdescribes Chalmers's taxonomy and misuses "Type-Q" (L34, L76–82) — override six reviews that ratified it
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/zombie-master-argument.md
@@ -1883,6 +1872,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-02: Explanatory-gap hub runs a Type-C argument against physicalism generally (L135) — scope it, word-neutral
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/explanatory-gap.md
+- **Notes**: L135 reads "If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold" and says "physicalists presuppose it can be closed; dualists deny it". Type-B physicalism (Loar, Papineau, Balog; Lycan, Tye, Carruthers as Chalmers classes them) denies that expectation: it holds the identity epistemically primitive and explains the residual gap by phenomenal concepts, so it does not presuppose closure. As written the paragraph is the Type-C reply presented against physicalism as a whole, and it contradicts concepts/neural-correlates-of-consciousness L142, which states the type-B position correctly. This is the hub page that should get the types right. Fix shape (from the research note obsidian/research/type-a-type-b-and-type-c-physicalism-2026-10-02.md §Misassignment Register): "physicalists presuppose" → "promissory (Type-C) physicalists presuppose" or equivalent, and scope the dissatisfaction argument to views that predict closure, funded by cutting words elsewhere in the paragraph. A piped link to concepts/type-a-type-b-and-type-c-physicalism on existing text costs zero words. Verify in both trees after sync.
 
 ### ✓ 2026-10-02: Adopt the neural-correlates filter calibration on degrees-of-consciousness
 - **Type**: refine-draft
