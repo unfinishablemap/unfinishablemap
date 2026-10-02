@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-02 03:38:12+00:00
+ai_modified: 2026-10-02 14:54:38+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 03:38:12+00:00
-lastmod: 2026-10-02 03:38:12+00:00
+lastmod: 2026-10-02 14:54:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ Trogdon (2017, *Synthese*) draws the distinction that settles the dispute's shap
 
 Philip Goff is a Russellian panpsychist and, latterly, a cosmopsychist; the Map engages his programme as a rival ([russellian-monism](/concepts/russellian-monism/)), and nothing here enlists him. His 2011 paper, from its abstract, charges that the physicalism of Papineau and Loar "departs from common sense in holding that our phenomenal concept of pain is opaque". Its taxonomy (p. 194, as reproduced by Cortesi 2023) grades concepts by how much of their referent's nature they reveal: *transparent* concepts reveal the full nature, *translucent* concepts reveal part, *mildly opaque* concepts reveal only accidental identifying features, and *radically opaque* concepts reveal nothing. In *Consciousness and Fundamental Reality* (2017), as reported in Stoljar's review, ch. 5 states Phenomenal Transparency as the thesis that "phenomenal concepts reveal the complete nature of the conscious states they refer to" (p. 124), and the argument against physicalism is compressed to: we know what pain is through feeling it, so if pain were c-fibres firing we would know that; we do not; so it is not. Goff's Phenomenal Transparency is strong Revelation under another name, and the engine that carries him from anti-physicalism to the Russellian conclusion.
 
-Between 2017 and 2025 the literature turned the engine round. Majeed (2017, abstract) locates the triangle: Lewis's humility thesis has "a potential exception" that requires both "panphenomenalism (contemporary panpsychism)" and "the identification thesis (revelation)" — together they would let acquaintance identify fundamental properties after all. Botin (2023, abstract) presses the challenge on the physicalist wing of the programme: "Russellian physicalism is either committed to an anti-realist and self-defeating view of phenomenal concepts or it is physically unacceptable." Lin (2025, abstract) presses it on the panpsychist wing: if the thesis is true, panpsychism faces a parallel difficulty; Chalmers's strategy of separating the essence of a phenomenal property from its grounds (Lin's "distinction strategy"; Goff makes the same move at p. 198) faces a dilemma — "either it fails to genuinely rescue panpsychism, or it can equally be used to rescue physicalism." Liu (2021) records the state of play neutrally: "It is not always clear whether revelation also rules out Russellian monism".
+Between 2017 and 2025 the literature turned the engine round. Majeed (2017, abstract) locates the triangle: Lewis's humility thesis has "a potential exception" that requires both "panphenomenalism (contemporary panpsychism)" and "the identification thesis (revelation)" — together they would let acquaintance identify fundamental properties after all. Botin (2023, abstract) presses the challenge on the physicalist wing of the programme: "Russellian physicalism is either committed to an anti-realist and self-defeating view of phenomenal concepts or it is physically unacceptable." Lin (2025, abstract) presses it on the panpsychist wing. Starting from the physicalists' point that, if the thesis is true, panpsychism faces a parallel difficulty, Lin argues that Chalmers's strategy of separating the essence of a phenomenal property from its grounds (Lin's "distinction strategy"; Goff makes the same move at p. 198) faces a dilemma — "either it fails to genuinely rescue panpsychism, or it can equally be used to rescue physicalism." Liu (2021) records the state of play neutrally: "It is not always clear whether revelation also rules out Russellian monism".
 
 The most consequential turn, for this corpus, is Goff's own. His 2018 *Topoi* note (abstract; the full text was not read) observes that little attention has been paid to the problem that Revelation is "a source of pressure in the direction of epiphenomenalism, as introspection does not seem to reveal our conscious states as being essentially causal". If feeling pain reveals pain's complete nature, and no causal power is among what is revealed, then causal power is no part of pain's nature. Goff critiques Mørch's phenomenal-powers reply, on which phenomenal character just is a power, and defends a "consciousness+" reply on which the state has more to it than what is revealed — on the Map's reading, a retreat from full to partial Revelation at the point where the full thesis bites.
 

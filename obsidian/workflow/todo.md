@@ -1652,15 +1652,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Re-measured**: 2026-10-02 13:16Z, 3,610 words (was 3,661) after the check-tenets row-1 refine-draft cut 51 (L98 deletion, L184 rescope, L192 No Many Worlds paragraph replaced). Cut at least 111 more to get under the 3,500 gate, or about 160 to reach 3,450. Do not reverse the three tenet fixes.
 - **Notes**: The page is 3,661 words by `tools.curate.length.analyze_length` against the 3,500 concepts gate (`>=`) — split measured at 23:57Z: ~3,119 prose + ~543 Further Reading/References apparatus, so the prose alone is under the gate and the overrun comes from the apparatus plus ~160 words of prose redundancy. Target ≤ 3,450 total. Prefer trimming redundant prose and Further Reading entries that duplicate in-body links over cutting references the body cites; do NOT remove a reference whose (surname, year) appears in the body (orphan check both directions). Leave the L144 covert-consciousness sentence as rewritten at 23:53Z (it is scoped and links `#the-numbers-and-their-denominators`), keep the absent-qualia section the anti-functionalist case now rests on, keep every evidential-status label and tier claim, and do not regress calibration qualifiers (condense passes have dropped "probable"/"on the Map's reading" qualifiers before — diff them). `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync; validate.
 
-### P2: Fix the Majeed/Lin Revelation claim on the Russellian-monism page and add the missing references
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: deep-review 2026-10-02 03:40Z of concepts/revelation-thesis (would-mint)
-- **Generated**: 2026-10-02
-- **Notes**: L68 says "Majeed (2017) and Lin (2025), both cited here by abstract only, argue that the strong Revelation thesis Goff's argument needs threatens panpsychism as much as physicalism" (driver confirmed live 03:43Z). The 03:38Z deep review of concepts/revelation-thesis read Majeed's abstract and found it makes no such claim (it removed the same overclaim from that page and from research/revelation-thesis-2026-10-01.md with dated notes) — cite Lin (2025) alone for the panpsychism-instability point, worded to what Lin's abstract supports, and drop or correct the Majeed attribution. Neither Majeed nor Lin has a References entry on this page (driver confirmed 0): add Lin 2025 with metadata verified at Crossref/PhilPapers and an "(abstract)" label; use the corrected wording on concepts/revelation-thesis as the reference point. Word-neutral or negative (re-measure with `tools.curate.length.analyze_length`; topics gate 4,000 `>=`). `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync.
-
 ### P1: Bring post-decoherence-selection into line with prebiotic-collapse on who actualises the outcome
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/post-decoherence-selection.md
@@ -1923,6 +1914,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-02: Fix the Majeed/Lin Revelation claim on the Russellian-monism page and add the missing references
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
+- **Notes**: L68 says "Majeed (2017) and Lin (2025), both cited here by abstract only, argue that the strong Revelation thesis Goff's argument needs threatens panpsychism as much as physicalism" (driver confirmed live 03:43Z). The 03:38Z deep review of concepts/revelation-thesis read Majeed's abstract and found it makes no such claim (it removed the same overclaim from that page and from research/revelation-thesis-2026-10-01.md with dated notes) — cite Lin (2025) alone for the panpsychism-instability point, worded to what Lin's abstract supports, and drop or correct the Majeed attribution. Neither Majeed nor Lin has a References entry on this page (driver confirmed 0): add Lin 2025 with metadata verified at Crossref/PhilPapers and an "(abstract)" label; use the corrected wording on concepts/revelation-thesis as the reference point. Word-neutral or negative (re-measure with `tools.curate.length.analyze_length`; topics gate 4,000 `>=`). `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync.
 
 ### ✓ 2026-10-02: Tenet-check row 4: carry the covert-consciousness recalibration into four pages' tenet sections
 - **Type**: refine-draft

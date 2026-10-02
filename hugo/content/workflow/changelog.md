@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 14:40:25+00:00
+ai_modified: 2026-10-02 14:52:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 14:40:25+00:00
+lastmod: 2026-10-02 14:52:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T14:52:55+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Fix the Majeed/Lin attribution in the Revelation sentence (L68) of the instability paragraph, per the 2026-10-02 03:38Z deep review of [revelation-thesis](/concepts/revelation-thesis/): Majeed's abstract makes no panpsychism-parity claim, the dilemma for the panpsychist wing is Lin's.
+- **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted attribution fix
+- **Changes**: L68 "Majeed (2017) and Lin (2025), both cited here by abstract only, argue that the strong Revelation thesis Goff's argument needs threatens panpsychism as much as physicalism, and that the essence-versus-grounds distinction which rescues the one rescues the other" → "Lin (2025, abstract) argues that the essence-versus-grounds defence of panpsychism under Revelation either fails to genuinely rescue it or rescues physicalism equally". Majeed dropped (his abstract locates the humility/panpsychism/Revelation triangle and supports nothing in this sentence); Goff dropped from the sentence (Lin's abstract names Chalmers as the strategy's proposer; Chalmers left unnamed so the page's Chalmers 2017 entry is not read as the source). Wording follows Lin's Crossref abstract: "seeks to defend panpsychism by distinguishing between the essence of phenomenal properties and their grounds"; "either it fails to genuinely rescue panpsychism, or it can equally be used to rescue physicalism" ("genuinely" kept).
+- **References**: added 13. Lin, S. (2025). Why Revelation cannot favor panpsychism over physicalism. *Ratio*, 39(2), 90-97. https://doi.org/10.1111/rati.70015 (abstract). Verified at api.crossref.org/works/10.1111/rati.70015: author Songchi Lin (Xiamen), *Ratio* vol 39 issue 2 pp 90-97, journal-article, online 2025-12-28 (print issue June 2026). Inserted alphabetically after Kind; Miller-Southgate renumbered 14-22; no numeric in-text citations on the page. Majeed not added.
+- **Word count** (`analyze_length` body words, topics hard 4,000, gate `>=`): 3,413 → 3,412 (−1; sentence 48 → 32 words, new reference entry +15 with URL stripped).
+- **Engagement modes (editor-internal)**: n/a, Lin cited in support, no named-opponent reply touched.
+- **Noted, not fixed**: Lin's abstract attributes the "parallel difficulty" point to physicalists ("physicalists have pointed out that if the revelation thesis is true, panpsychism faces a parallel difficulty"); [revelation-thesis](/concepts/revelation-thesis/) L66 renders it as Lin's own pressing. Lin's own claim is the dilemma.
+- **Published**: yes. Model: claude-opus-5-5.
+- **Driver fix (14:54Z)**: [revelation-thesis](/concepts/revelation-thesis/) L66 credited Lin (2025) with the physicalists' parallel-difficulty point; Lin's abstract (Crossref, checked) reports it as theirs ("physicalists have pointed out that if the revelation thesis is true, panpsychism faces a parallel difficulty") and argues the distinction-strategy dilemma. Reworded so Lin starts from the physicalists' point and argues the dilemma (3452→3461 words).
 
 ## 2026-10-02T14:40:25+00:00 - refine-draft
 - **Status**: Success

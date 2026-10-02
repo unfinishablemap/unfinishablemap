@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-10-01 02:44:14+00:00
+ai_modified: 2026-10-02 14:52:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 10:55:44+00:00
-lastmod: 2026-10-01 02:44:14+00:00
+lastmod: 2026-10-02 14:52:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ The Map appears to avoid both problems. If individual conscious subjects are fun
 
 ### Instability
 
-Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a parallel conclusion through different reasoning: non-physicalist variants of Russellian monism collapse into dualism, while physicalist variants collapse into standard physicalism. The [Revelation](/concepts/revelation-thesis/) literature adds a third form of the instability: Majeed (2017) and Lin (2025), both cited here by abstract only, argue that the strong Revelation thesis Goff's argument needs threatens panpsychism as much as physicalism, and that the essence-versus-grounds distinction which rescues the one rescues the other. The programme does not break free of the divide it claims to transcend.
+Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a parallel conclusion through different reasoning: non-physicalist variants of Russellian monism collapse into dualism, while physicalist variants collapse into standard physicalism. The [Revelation](/concepts/revelation-thesis/) literature adds a third form of the instability: Lin (2025, abstract) argues that the essence-versus-grounds defence of panpsychism under Revelation either fails to genuinely rescue it or rescues physicalism equally. The programme does not break free of the divide it claims to transcend.
 
 In Cutter's framing, Russellian monism offers no comfortable resting place: one must turn back to physicalism or else march on to [dualism](/concepts/dualism/) (Cutter 2019). The Map has marched on.
 
@@ -178,12 +178,13 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 10. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 11. Kelly, E.F. (2023). Best Way Forward or Unnecessary Detour? *Essentia Foundation* review of Atmanspacher & Rickles (2022), published 27 August 2023.
 12. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
-13. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 137-154. https://doi.org/10.1111/rati.12166
-14. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
-15. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
-16. Pylkkänen, P. (2007). *Mind, Matter and the Implicate Order*. Springer.
-17. Pylkkänen, P. (2025). Real consciousness in a real world: Interactionist monism. *Journal of Consciousness Studies*, 32(5), 62-81. https://doi.org/10.53765/20512201.32.5.062
-18. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
-19. Spinoza, B. (1677). *Ethics*. Published posthumously.
-20. Southgate, A. & Oquatre-six, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
-21. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
+13. Lin, S. (2025). Why Revelation cannot favor panpsychism over physicalism. *Ratio*, 39(2), 90-97. https://doi.org/10.1111/rati.70015 (abstract)
+14. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 137-154. https://doi.org/10.1111/rati.12166
+15. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? Unpublished manuscript (reply to Roelofs's comments on Pautz 2015).
+16. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
+17. Pylkkänen, P. (2007). *Mind, Matter and the Implicate Order*. Springer.
+18. Pylkkänen, P. (2025). Real consciousness in a real world: Interactionist monism. *Journal of Consciousness Studies*, 32(5), 62-81. https://doi.org/10.53765/20512201.32.5.062
+19. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
+20. Spinoza, B. (1677). *Ethics*. Published posthumously.
+21. Southgate, A. & Oquatre-six, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+22. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
