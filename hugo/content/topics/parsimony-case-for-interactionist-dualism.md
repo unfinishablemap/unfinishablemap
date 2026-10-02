@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-10-01 08:05:32+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-02 20:11:12+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[parsimony-epistemology]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:35:17+00:00
-lastmod: 2026-10-01 08:05:32+00:00
+lastmod: 2026-10-02 20:11:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,13 +76,13 @@ What makes the case suggestive rather than dispositive is the *structural* incom
 
 Physicalist accounts that accept the explanatory demand at face value — that there is a fact about why physical processes are accompanied by experience, and that a theory of mind owes an account of it — carry at least one of three debts.
 
-**Brute emergence.** Type-B physicalists accept the [explanatory-gap](/concepts/explanatory-gap/) as epistemic but deny it is metaphysical. Consciousness [strongly emerges](/topics/the-strong-emergence-of-consciousness/) from physical processes, but there is no explanation of why those processes are accompanied by experience — a concession of strong emergence without any mechanism for it. Type-B physicalists frame this as a brute *identity* — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is unexplained and underivable, and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
+**Brute identity.** Type-B physicalists accept the [explanatory-gap](/concepts/explanatory-gap/) as epistemic but deny it is metaphysical. Conscious states *are* physical states, so nothing [strongly emerges](/topics/the-strong-emergence-of-consciousness/); the gap is conceptual, since phenomenal and physical concepts pick out the same states with no a priori route between them. They take the identity to be brute — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is unexplained and underivable, and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
 
 **Error theory.** Illusionists (Frankish, Dennett) deny that phenomenal consciousness exists as it seems. This eliminates the explanatory gap by eliminating the explanandum. But it introduces a different cost: an error theory explaining why every conscious being is systematically mistaken about the most immediate feature of their existence. The theory that experience is illusory must explain why the illusion is universal, stable, and resistant to correction — an explanatory burden at least as heavy as the one it replaces.
 
 **Conceptual gap.** [Mysterians](/concepts/mysterianism/) (McGinn) hold that physicalism is true but human cognition cannot understand how. This concedes that the explanatory gap is real from our perspective while insisting it would dissolve with better concepts. The cost: physicalism's superiority becomes unfalsifiable. If the explanation is in principle beyond our grasp, we cannot evaluate whether it exists.
 
-The three do not exhaust physicalism, and the omission matters. Type-A physicalists — analytic functionalists, along with the representationalist and [higher-order](/concepts/higher-order-theories/) theorists who follow them in treating phenomenal character as constituted by representational or meta-representational structure — reject the demand rather than paying one of these debts. On their account there is no residual question of why the functional or representational facts are accompanied by experience, because occupying the relevant state is what having the experience consists in; the appearance of a further explanandum is a product of how phenomenal concepts refer rather than a gap in the world. Identity theorists who take the identity to be conceptually available make a parallel move. The Map holds that these responses fail, for reasons developed in the [broader case against materialism](/topics/arguments-against-materialism/) and around the [explanatory-gap](/concepts/explanatory-gap/) — but that case has to be argued position by position, and it is not made by observing that these positions decline to appear in the Map's ledger. The three debts describe the cost structure faced by physicalists who grant the demand; the accounting reaches no further than that.
+The three do not exhaust physicalism, and the omission matters. Type-A physicalists — analytic functionalists, along with representationalists such as Dretske and Harman who follow them in treating phenomenal character as constituted by representational structure — reject the demand rather than paying one of these debts; Chalmers classes other representationalists (Lycan, Tye) and the [higher-order](/concepts/higher-order-theories/) theorist Carruthers as [Type-B](/concepts/type-a-type-b-and-type-c-physicalism/). On the Type-A account there is no residual question of why the functional or representational facts are accompanied by experience, because occupying the relevant state is what having the experience consists in; the appearance of a further explanandum is a product of how phenomenal concepts refer rather than a gap in the world. Identity theorists who take the identity to be conceptually available make a parallel move. The Map holds that these responses fail, for reasons developed in the [broader case against materialism](/topics/arguments-against-materialism/) and around the [explanatory-gap](/concepts/explanatory-gap/) — but that case has to be argued position by position, not by noting their absence from the Map's ledger. The three debts describe the cost structure faced by physicalists who grant the demand; the accounting reaches no further than that.
 
 Interactionist dualism avoids all three, and does so while granting the demand rather than dissolving it. It takes consciousness at face value — experience is real, non-physical, and causally efficacious — and adds [psychophysical-laws](/concepts/psychophysical-laws/) connecting mental and physical domains. This is a genuine explanatory cost, and not a single flat question: the laws' domain, form, modality, and origin each need specification (the full enumeration is taken up in the modesty comparison below). What dualism offers over physicalism here is more coherently posed sub-problems — how two acknowledged categories connect, rather than how to derive one category from another its framework lacks resources to contain.
 
@@ -152,7 +152,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — When and why simplicity tracks truth, including hostile witnesses from the materialist camp
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The full philosophical case
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position
-- [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Why "brute emergence" debts amount to strong emergence without mechanism, which dualism supplies
+- [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Strong emergence's irreducibility claim, which the Map shares while supplying a mechanism
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — The broader case
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Why first-person evidence justifies taking consciousness at face value
 - [Tenet: Occam's Razor Has Limits](/tenets/#occams-limits)

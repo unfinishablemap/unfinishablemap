@@ -4,7 +4,7 @@ description: "Leibniz's 1714 thought experiment—walk through an enlarged brain
 created: 2026-02-01
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-02T11:58:46+00:00
+ai_modified: 2026-10-02T20:11:12+00:00
 last_deep_review: 2026-07-18T17:28:01+00:00
 draft: false
 topics:
@@ -108,7 +108,7 @@ The mill's defender answers that the wetness analogy is disanalogous. Wetness *c
 
 **The mistake objection**: Perhaps we are wrong to expect perception to appear as something distinct from the parts. Our intuition that it should might reflect confusion rather than insight. Where, after all, is "computation" when we walk through a computer? We find only transistors, yet computation is real and reducible to physical processes.
 
-The mill's defender finds the computation analogy misleading. Computation is plausibly captured in full by structural description—what makes a process computational can be specified in terms of state transitions and symbol manipulations, with nothing apparently left over. With perception, the defender holds, something is left over: the felt quality, the "what it is like." A complete functional description of color processing—wavelengths detected, neural signals propagated, discriminations made—seems to leave out what red *looks like*. Whether that seeming tracks a real residue is precisely what the physicalist denies, so the disagreement here is the same standoff the knowledge objection reaches. The response concedes the explanatory gap while denying its metaphysical significance. [[illusionism]]—the view that phenomenal consciousness is an illusion—takes this path, but faces the challenge of explaining what generates the illusion and to whom things seem any way at all.
+The mill's defender finds the computation analogy misleading. Computation is plausibly captured in full by structural description—what makes a process computational can be specified in terms of state transitions and symbol manipulations, with nothing apparently left over. With perception, the defender holds, something is left over: the felt quality, the "what it is like." A complete functional description of color processing—wavelengths detected, neural signals propagated, discriminations made—seems to leave out what red *looks like*. Whether that seeming tracks a real residue is precisely what the physicalist denies, so the disagreement here is the same standoff the knowledge objection reaches. [[illusionism|Illusionism]]—the view that phenomenal consciousness is an illusion—presses the objection furthest. Its distinctive strong form denies the explanatory gap outright, which Chalmers (2018) counts as "a version of type-A materialism, on which there is no epistemic gap"; conceding the gap while denying its metaphysical significance fits at most the lower-order variety of weak illusionism, which "is most naturally seen as a sort of type-B materialism about consciousness". The strong form faces the challenge of explaining what generates the illusion and to whom things seem any way at all.
 
 **The knowledge objection**: Our inability to find perception by inspecting parts reflects our limited epistemic position, not an ontological gap. A more complete science might bridge the gap.
 
@@ -160,6 +160,7 @@ The mill argument is the historical origin of a converging family of anti-materi
 
 1. Leibniz, G.W. (1714). *Monadology*. §17.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.

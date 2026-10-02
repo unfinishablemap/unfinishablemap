@@ -1742,18 +1742,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-02
 - **Notes**: MULTI-FILE, report per file. (a) covert-consciousness: L33 "explain them equally well" (driver confirmed live, 2 hits) and "neutral between its own interface reading and production"; L88 "CMD leaves the physicalist reading standing, and matched" — align to IBE's concession that physicalism has a likelihood edge (the interface reading accommodates; it does not match); L82 reciprocal to NCC; the `description` field; UPDATE the `anchoring_audit_exempt` comment's quoted phrases to the new wording and keep it within the first 1,500 bytes; do not rename `{#…}` anchors (five ledger tasks deep-link `#the-numbers-and-their-denominators`). (b) neural-correlates: L51 "fully compatible", L116 "the discriminating work comes from…", L184 "indexes consciousness" → "probable consciousness", L189 "equally with materialism" (driver confirmed live) → "though not equally", L168 reciprocal to philosophy-of-science — NCC has 91 words of headroom (3,408/3,500): use the review's −1 fallback for L51 if needed. (c) IBE L36 reciprocal to covert (0 words). After sync, grep the Hugo output for each new anchor id. Two queued covert P3s (L92, ~L96) are at disjoint loci — batch if convenient. Use the exact replacement text in obsidian/reviews/optimistic-2026-10-02-evidence-and-licensing-wing.md "Priority list" item 3; locate targets by text. Re-measure each file with `tools.curate.length.analyze_length` before and after and print both. `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync; validate.
 
-### P2: Representationalists and higher-order theorists filed wholesale under Type-A; strong emergence put under Type-B; illusionism called Type-B (parsimony-case L75/L81, Leibniz's mill L111)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/parsimony-case-for-interactionist-dualism.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: research-topic 2026-10-02 11:40Z (Misassignment Register M7 + M8) + expand-topic 2026-10-02 11:59Z (concepts/type-a-type-b-and-type-c-physicalism)
-- **Generated**: 2026-10-02
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/leibnizs-mill-argument.md
-- **Headroom**: parsimony-case **78 words** (3921/4000; word-neutral swaps only). leibnizs-mill 984 (3015/4000).
-- **Caution**: Two files. Report the before/after word count and the changed sentence for EACH file; a report that names only one is incomplete.
-- **Notes**: Named-author and named-view misclassifications. **parsimony-case L75**: "Type-B physicalists accept the explanatory-gap as epistemic but deny it is metaphysical. Consciousness strongly emerges from physical processes" — Type-B is an identity view and rejects strong emergence; keep the brute-cost argument that follows (it is the correct reply to Type-B) and fix only the emergence description. **parsimony-case L81**: puts "the representationalist and higher-order theorists who follow them" under Type-A. Chalmers's verified footnote splits them: Dretske and Harman Type-A; Lycan and Tye Type-B; Carruthers "clearly a type-B materialist"; Rosenthal A-or-B. **leibnizs-mill L111**: "The response concedes the explanatory gap while denying its metaphysical significance. illusionism … takes this path" is the Type-B formula; Chalmers 2018 classes strong illusionism as Type-A, which denies the gap. Fix each to the classification Chalmers gives, citing the verified quotations in the research note obsidian/research/type-a-type-b-and-type-c-physicalism-2026-10-02.md §Misassignment Register. Both hosts already carry a piped link to concepts/type-a-type-b-and-type-c-physicalism; leave it.
-
 ### P3: Type-C futurity described under the Type-B label (modal-structure L83, reductionism L152, epistemology L57)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/modal-structure-of-phenomenal-properties.md
@@ -1873,6 +1861,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-02: Representationalists and higher-order theorists filed wholesale under Type-A; strong emergence put under Type-B; illusionism called Type-B (parsimony-case L75/L81, Leibniz's mill L111)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/parsimony-case-for-interactionist-dualism.md
+- **Notes**: Named-author and named-view misclassifications. **parsimony-case L75**: "Type-B physicalists accept the explanatory-gap as epistemic but deny it is metaphysical. Consciousness strongly emerges from physical processes" — Type-B is an identity view and rejects strong emergence; keep the brute-cost argument that follows (it is the correct reply to Type-B) and fix only the emergence description. **parsimony-case L81**: puts "the representationalist and higher-order theorists who follow them" under Type-A. Chalmers's verified footnote splits them: Dretske and Harman Type-A; Lycan and Tye Type-B; Carruthers "clearly a type-B materialist"; Rosenthal A-or-B. **leibnizs-mill L111**: "The response concedes the explanatory gap while denying its metaphysical significance. illusionism … takes this path" is the Type-B formula; Chalmers 2018 classes strong illusionism as Type-A, which denies the gap. Fix each to the classification Chalmers gives, citing the verified quotations in the research note obsidian/research/type-a-type-b-and-type-c-physicalism-2026-10-02.md §Misassignment Register. Both hosts already carry a piped link to concepts/type-a-type-b-and-type-c-physicalism; leave it.
 
 ### ✓ 2026-10-02: Zombie master argument misdescribes Chalmers's taxonomy and misuses "Type-Q" (L34, L76–82) — override six reviews that ratified it
 - **Type**: refine-draft

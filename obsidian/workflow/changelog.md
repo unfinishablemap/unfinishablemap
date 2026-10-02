@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T19:42:06+00:00
+ai_modified: 2026-10-02T20:11:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T20:11:12+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/parsimony-case-for-interactionist-dualism]] (primary); [[topics/leibnizs-mill-argument]] (secondary)
+- **Original score**: n/a (`scripts/curate.py` absent; brief-driven taxonomy correction)
+- **Source**: todo.md queue task (P2, named-author and named-view misclassifications on two pages); research/type-a-type-b-and-type-c-physicalism-2026-10-02 §Misassignment Register M7, M8. Reference wording: [[concepts/type-a-type-b-and-type-c-physicalism]].
+- **Word count** (`analyze_length` body words, topics soft 3,000 / hard 4,000, gate `>=`): parsimony-case 3,921 → 3,924 (+3; headroom 75); leibnizs-mill 3,015 → 3,077 (+62, including a new reference entry; headroom 922). Both remain soft_warning.
+- **Changes, parsimony-case**:
+  - L75 (M7a): label "**Brute emergence.**" → "**Brute identity.**". "Consciousness strongly emerges from physical processes, but there is no explanation of why those processes are accompanied by experience — a concession of strong emergence without any mechanism for it. Type-B physicalists frame this as a brute *identity*" → "Conscious states *are* physical states, so nothing [[the-strong-emergence-of-consciousness|strongly emerges]]; the gap is conceptual, since phenomenal and physical concepts pick out the same states with no a priori route between them. They take the identity to be brute". The brute-cost argument that follows (Chalmers's law-in-disguise cost, routing row B2) is unchanged. The strong-emergence link stays, now marking what Type-B denies.
+  - L81 (M7b): "along with the representationalist and [[higher-order-theories|higher-order]] theorists who follow them in treating phenomenal character as constituted by representational or meta-representational structure" → "along with representationalists such as Dretske and Harman who follow them in treating phenomenal character as constituted by representational structure", plus "; Chalmers classes other representationalists (Lycan, Tye) and the [[higher-order-theories|higher-order]] theorist Carruthers as [[type-a-type-b-and-type-c-physicalism|Type-B]]". "On their account" → "On the Type-A account" (so the pronoun does not bind to the Type-B names). Funded in the same paragraph: "and it is not made by observing that these positions decline to appear in the Map's ledger" → "not by noting their absence from the Map's ledger" (meaning kept; this sentence and the closing "the accounting reaches no further than that" are guards from the 2026-08-03 refine 233c5b24ff, and the closing sentence is untouched). Rosenthal (A or B per Chalmers) is not named.
+  - L151 Further Reading annotation carried the same error: "Why \"brute emergence\" debts amount to strong emergence without mechanism, which dualism supplies" → "Strong emergence's irreducibility claim, which the Map shares while supplying a mechanism" (matches the article's L136).
+  - Piped link to concepts/type-a-type-b-and-type-c-physicalism: the brief said this host already carried one; it did not (0 hits on disk and at HEAD). Installed at zero word cost on the new Type-B attribution, which also points readers to the page that cites the 2003 footnote (this article's references list only Chalmers 1996).
+- **Changes, leibnizs-mill** (M8, L111): "The response concedes the explanatory gap while denying its metaphysical significance. [[illusionism]]—the view that phenomenal consciousness is an illusion—takes this path, but faces the challenge…" → "[[illusionism|Illusionism]]—…—presses the objection furthest. Its distinctive strong form denies the explanatory gap outright, which Chalmers (2018) counts as \"a version of type-A materialism, on which there is no epistemic gap\"; conceding the gap while denying its metaphysical significance fits at most the lower-order variety of weak illusionism, which \"is most naturally seen as a sort of type-B materialism about consciousness\". The strong form faces the challenge…". The weak-illusionism subject stays outside the quotation marks. References gain Chalmers, D. (2018). The meta-problem of consciousness. *JCS* 25(9-10), 6-61 (pages per the research note's publisher header).
+- **Quotations added** (2): both grep-matched exactly once in the research note's verified Chalmers 2018 entry. No other quotation added.
+- **Engagement classification** (editor-internal): Type-B in parsimony-case, Mode Two (the identity is adopted without derivation and functions as a fundamental law; the description is corrected and the reply is unchanged). Strong illusionism in leibnizs-mill, Mode One (the illusion problem arises inside illusionism's own commitments; unchanged).
+- **Not touched**: parsimony-case L136 ("Type-B physicalism accepts irreducibility but supplies no mechanism") is accurate on the article's own definition (non-deducibility) and consistent with the new label. L81's "the appearance of a further explanandum is a product of how phenomenal concepts refer" is attached to Type-A; it is defensible via Chalmers 2018's illusionist ("type-A") phenomenal-concept strategy, so it was left as is.
+- **Out of scope, flagged**: apex/dualism-cartography L115 still summarises the parsimony debts as "(brute emergence, error theory about experience, or in-principle inaccessibility)". It names no type, so it is not a misclassification, but it now lags this article's label.
+- **Published**: yes
 
 ## 2026-10-02T19:42:06+00:00 - refine-draft
 - **Status**: Success
