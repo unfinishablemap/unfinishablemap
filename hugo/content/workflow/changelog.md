@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 02:26:26+00:00
+ai_modified: 2026-10-02 02:58:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 02:26:26+00:00
+lastmod: 2026-10-02 02:58:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T02:58:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Task**: P1 "Illusionism and Dualism sections of neural-correlates-of-consciousness: replace the bare seeming-regress with Frankish's reply, add the Type-B reply to the opacity inference, fix the Tallis reference" (outer-review 2026-10-01, ChatGPT §5.2/§6 + Claude rows 3, 8, 14, §2.3, fix 12; synthesis clusters 2 and 6), plus the Coordination item (L154)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted outer-review fix)
+- **Source checks**: Frankish 2016 author's eprint (keithfrankish.github.io; header confirms *JCS* 23(11-12): 11-39), full-text grep: "A quasi-phenomenal property is a non-phenomenal, physical property (perhaps a complex, gerrymandered one) that introspection typically misrepresents as phenomenal" (quoted span: "that introspection typically misrepresents as phenomenal"); also "it is essential to this approach that the posited introspective representations are not themselves phenomenally conscious ones". Tallis: PDCnet record philnow_2024_0161_0058_0059 gives "Tallis in Wonderland: The Illusion of Illusionism", *Philosophy Now* 161 (April/May 2024), pp. 58-59, no DOI (Crossref does not index *Philosophy Now*); publisher page philosophynow.org/issues/161 full text, tag-stripped with no substitution, contains "Similarly, all illusions presuppose experience." Levine 1983 full text (newdualism.org PDF, OCR): "My purpose in this paper is to transform Kripke's argument from a metaphysical one into an epistemological one."
+- **Changes**: (1) L126: removed the bare "seeming must be phenomenal" regress fork. The paragraph now gives Tallis's objection (verbatim span), says it assumes what illusionists deny, states Frankish's quasi-phenomenal-property reply (verbatim span, which also makes the Frankish reference cited), then gives the Map's objection, aligned with [illusionism](/concepts/illusionism/) L91/§Where the Functional Account Falls Short: no metarepresentational mechanism yet explains introspection's specific structure and qualitative character, least of all where the representing state is itself the candidate experience. The lead sentence now says illusionists hold that phenomenal consciousness only *seems* to exist, replacing "NCC research reveals consciousness *is* nothing more than neural patterns". (2) L128 (optional singleton, ChatGPT §6): "Both camps make the same empirical predictions; the dispute is what correlations *mean*" → "Both camps fit the same first-order correlations; research on introspective mechanisms may yet separate them." (3) L154 (Coordination): "As argued in the interactionist predictions section, both … predict exactly the correlations … cannot distinguish the two frameworks" → both accommodate the correlations "though not equally: interactionism expects correlation in general, not its specific pattern", with the phrase piped to the `#Interactionism Expects Correlations` anchor. This links to the renamed heading, and the likelihood concession matches the IBE page. (4) L156: "V4 damage eliminates color experience" → "impairs" (variable deficits per Bouvier & Engel 2006 as recorded in the definition/V4 task; no reference added here). (5) L156: added Levine's epistemological-only conclusion (which makes the Levine reference cited) and the Type-B reply linked to [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (the gap is predicted to persist because phenomenal and physical concepts can co-refer without the identity becoming transparent). Type-A was kept. "This persistent opacity supports Dualism" → "The Map reads the persistent opacity as consonant with Dualism—a posited stance, conceded by neither physicalist, that stays [provisional](/concepts/inference-to-the-best-explanation-against-dualism/) until dualism is shown to explain the gap better than the Type-B account". Deleted the 16-word "If consciousness were identical … become intelligible" sentence. (6) References: Tallis line completed (column title, issue 161, pp. 58-59, URL, "(full text)"); Frankish and Levine given URLs and access labels ("(author's eprint)", "(full text)").
+- **Length**: 3,433 → 3,441 (+8; budget ≤ +10) by `tools.curate.length.analyze_length`; concepts gate 3,500 `>=`. Per edit: L126 +6, L128 +2, L154 −4, L156 V4 0, L156 opacity −7, refs +11.
+- **Engagement classification** (editor-internal): Tallis/Frankish regress. The old text was boundary-substitution, because it reinstated phenomenal seeming as a premise. It is now mixed: on illusionism's terms the bare regress fails and is conceded; Mode Two follows (the metarepresentational mechanism illusionism owes by its own mechanistic standard is unspecified). Type-A: Mode Three, retained. Type-B / phenomenal-concepts strategy: Mode Three. The Map's reading is a posited stance, provisional until the second-order comparison is run. L154 correlation: Mode One weakened to an honest likelihood concession.
+- **Not touched (owned by sibling P1 tasks)**: definition/lead/L59 V4/COGITATE, the filter-theory section, falsifiers, tenet verbs other than L156, and the L79/L81 heading paragraph.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T02:26:26+00:00 - refine-draft
 - **Status**: Success

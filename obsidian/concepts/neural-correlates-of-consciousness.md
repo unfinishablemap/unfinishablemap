@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-10-02T02:25:46+00:00
+ai_modified: 2026-10-02T02:58:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,9 +123,9 @@ These findings form one evidential pattern—*consciousness appearing where a st
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that NCC research reveals consciousness *is* nothing more than neural patterns—the [[explanatory-gap]] reflects confused concepts, not genuine ontology. But the illusionist faces a regress: if phenomenal consciousness is an "illusion," the *seeming* to have experience must be explained. Either the seeming involves phenomenal properties (relocating rather than eliminating consciousness) or it doesn't (requiring explanation of why non-phenomenal seeming universally produces false beliefs). As Raymond Tallis notes, illusions presuppose experience.
+[[illusionism|Illusionists]] hold that phenomenal consciousness only *seems* to exist, the [[explanatory-gap]] reflecting confused concepts rather than ontology. Raymond Tallis's (2024) objection that "all illusions presuppose experience" assumes the seeming is itself phenomenal, which illusionists deny: Frankish's (2016) *quasi-phenomenal properties* are non-phenomenal physical properties "that introspection typically misrepresents as phenomenal". The Map objects instead that no metarepresentational mechanism yet explains introspection's specific structure and qualitative character, least of all where the representing state is itself the candidate experience.
 
-NCC findings don't favor illusionism over realism. Both camps make the same empirical predictions; the dispute is what correlations *mean*.
+NCC findings don't favor illusionism over realism. Both camps fit the same first-order correlations; research on introspective mechanisms may yet separate them.
 
 ## Contemplative Evidence and NCC
 
@@ -151,9 +151,9 @@ The interactionist should be honest: conditions 1 and 2 are difficult to meet bu
 
 ### Dualism
 
-NCC research does not resolve whether consciousness is physical. As argued in the interactionist predictions section, both physicalism and interactionism predict exactly the correlations NCC research discovers—the data alone cannot distinguish the two frameworks.
+NCC research does not resolve whether consciousness is physical. Both physicalism and interactionism accommodate the correlations, though not equally: interactionism [[#Interactionism Expects Correlations|expects correlation in general]], not its specific pattern.
 
-What NCC research *does* reveal is the [[explanatory-gap]]: correlations multiply, but the connection between neural description and phenomenal character never becomes *transparent*. We can predict that V4 damage eliminates color experience without understanding *why* V4 activity feels like color. This persistent opacity supports [[tenets#^dualism|Dualism]]—though whether the opacity is a genuine datum or an artefact of how the question is framed is itself contested: the Type-A physicalist denies there was ever a real gap to close, reading the unclosed opacity as a feature of philosophical framing rather than of the world. The Map adopts the datum reading as a posited stance, not a point the physicalist concedes (the [[explanatory-gap]] develops this datum-versus-artefact dispute). If consciousness were identical to neural activity, we would expect the identity to eventually become intelligible.
+What NCC research *does* reveal is the [[explanatory-gap]]: correlations multiply, but the connection between neural description and phenomenal character never becomes *transparent*. We can predict that V4 damage impairs color experience without understanding *why* V4 activity feels like color. Levine (1983), who named the gap, drew only an epistemological conclusion from it. The Type-A physicalist denies there was ever a real gap; the Type-B physicalist grants it and predicts it will persist, since, on the [[phenomenal-concepts-strategy|phenomenal-concepts strategy]], phenomenal and physical concepts can co-refer without the identity ever becoming transparent. The Map reads the persistent opacity as consonant with [[tenets#^dualism|Dualism]]—a posited stance, conceded by neither physicalist, that stays [[inference-to-the-best-explanation-against-dualism|provisional]] until dualism is shown to explain the gap better than the Type-B account.
 
 ### Bidirectional Interaction
 
@@ -217,16 +217,16 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 1. Calef, S. "Dualism and Mind." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/dualism-and-mind/ (full text)
 1. Chalmers, D.J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness*. MIT Press.
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39. https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf (author's eprint)
 1. Josipovic, Z. (2019). Nondual Awareness: Consciousness-as-such as Non-representational Reflexivity. *Progress in Brain Research*, 244, 273-298.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Kondziella, D., Friberg, C.K., Frokjaer, V.G., Fabricius, M., & Møller, K. (2016). Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*, 87, 485-492.
 1. Claassen, J., et al. (2019). Detection of Brain Activation in Unresponsive Patients with Acute Brain Injury. *New England Journal of Medicine*, 380, 2497-2505.
-1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
+1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361. https://www.newdualism.org/papers/J.Levine/Levine-PPQ1983.pdf (full text)
 1. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In *Brain-like Computing and Intelligent Information Systems* (Amari & Kasabov, eds.). Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
 1. Duch, W. (2022). Concept Representation and the Geometric Model of Mind. *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
 1. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://www.nature.com/articles/s41586-025-08888-1
 1. Santander, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*. https://www.pnas.org/doi/10.1073/pnas.2520190122
 1. Stanford Encyclopedia of Philosophy. Dualism. https://plato.stanford.edu/entries/dualism/
-1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tallis, R. (2024). Tallis in Wonderland: The Illusion of Illusionism. *Philosophy Now*, 161, 58-59. https://philosophynow.org/issues/161/The_Illusion_of_Illusionism (full text)
 1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
