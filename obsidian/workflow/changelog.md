@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T13:27:55+00:00
+ai_modified: 2026-10-02T14:14:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T14:14:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/integration-as-activity]]
+- **Word count**: 2,959 → 3,076 (+117; `analyze_length` body words; concepts hard 3,500, gate `>=`; ceiling for this pass ~3,100)
+- **Lenses**: quote fidelity (first run), opponent typing against [[type-a-type-b-and-type-c-physicalism]], what moved (09-30 commit 1d5474fd41, IIT host pages, COGITATE follow-ups), style. References not re-swept (07-10 Stability Notes); only changed cites re-verified.
+- **Quotes**: 14 spans; 1 source-attributed. Tononi 2008 "consciousness is one and the same thing as integrated information" is verbatim in the raw publisher PDF, but the page had spliced IIT 4.0's object ("maximally irreducible cause-effect structure—the phi-structure") onto it, and that phrase is absent from 2008, while "one and the same" is absent from IIT 4.0. Re-quoted with its own object; IIT 4.0 identity given unquoted with its own cite. Two Map formulations in quotation marks at L52 de-quoted. 11 others are Map mentions, examples or Whitehead's term; left.
+- **Critical issues addressed**: 7. (1) The 09-30 propagation edit's colon gave Frankish's illusionism the type-B PCS formula, a routing-page misrouting, and left an editor aside ("the roster the tenets page gives") in prose. The PCS formula is reattached to Loar/Papineau/Balog and typed type-B; Frankish is typed type-A; the roster is kept per tenets L103. (2) "without any contribution from the experience itself" was false of Papineau's quotational and Balog's constitutional versions; the reply now reaches them, and the boundary is marked. (3) Tononi quote splice. (4) L46 "no gap to bridge" over-concession / type-A deflation recast as IIT 4.0's stated "explanatory identity" aim. (5) L62 unsupported claim that attention shifts leave IIT's measure unchanged; removed. (6) L100 "cannot" softened to "poor fit". (7) Description claimed the four frameworks converge on the subject-performing discipline, which the body denies; fixed.
+- **Medium issues addressed**: 4: two not-X/it-is-Y constructs (L44, L94); intensifier "load-bearing" (L38; the structural L100 use kept); "theories of consciousness" → "frameworks" (Whitehead). Also: COGITATE tested the *neuronal* workspace version.
+- **Cites**: Balog 2012 (added 09-30) is real-correct at Crossref (PPR 84(1) 1–23). Frankish 2016 was named in the body without a References entry since 09-30; restored (verified 07-10).
+- **What moved**: IIT host pages and today's disruption-page PCI/covert-consciousness edit are consistent with "empirically engageable" / "neither clearly vindicated". COGITATE follow-ups through 2026 (methods commentary, NHP protocol, IIT-vs-PP review) do not change the verdict.
+- **Engagement modes (editor-internal)**: Loar/Papineau/Balog: Mode Three (previously implied Mode One via "in-framework cost" while disclaiming refutation); Frankish: typed and set aside; IIT: Mixed.
+- **Cross-links added**: [[phenomenal-concepts-strategy]], [[type-a-type-b-and-type-c-physicalism]] (both piped on existing text)
+- **Enhancements made**: 2 (explicit opponent typing; faithful dual-formulation of the IIT identity)
+- **Output**: [[reviews/deep-review-2026-10-02-integration-as-activity]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T13:27:55+00:00 - refine-draft
 - **Status**: Success
