@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T02:58:43+00:00
+ai_modified: 2026-10-02T03:09:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T03:09:55+00:00 - commission-claude-review
+- **Status**: Success
+- **Subject**: `site` (source `reuse:pending-reviews:outer-review-2026-10-02-chatgpt-5-6-sol-pro.md`) — "Full-site audit", no subject articles; same subject as the 02:11Z ChatGPT leg (whose own source was `fallback:site-stale-7d`), so `mark-consumed` was skipped
+- **Model**: project selector read `Opus 5.5 Medium` before and after enabling Research; slug `opus-5-5`. The model dropdown, opened read-only and closed with Escape, listed **Fable 5.1** ("For your toughest challenges") with no disabled flag and no "Currently unavailable" text, alongside Opus 5.5 (checked), Sonnet 5.5 and Haiku 4.5. The skill forbids switching the model, so the review ran on the project default, Opus 5.5. Fable 5.1 looks available, but the project default does not return to it on its own
+- **Research mode**: enabled by a coordinate click on `+` and then "Research" (Web search and Memory were already checked). Verified by the composer button `aria-label="Research mode"` `aria-pressed="true"` before typing, and still `true` immediately before submit
+- **Prompt**: 171 words, hostile-referee full-site audit covering novel inferences, argument-architecture weaknesses, tenet coherence, cross-cluster contradictions and citation spot-checks; includes the site and changelog URLs and the required closing line
+- **Conversation**: https://claude.ai/chat/11379e79-f0c4-433c-8a82-b09fa9fa2e59. The URL was confirmed within about 3 s of Return. At +12 s the assistant replied "I'll start the research now..." with a Lead Researcher "Searching for sources" panel and the Stop button present. No clarifying-questions stage appeared, so no "go" was sent
+- **Pending entry**: `outer-review-2026-10-02-claude-opus-5-5.md`, status pending, commissioned_at 2026-10-02T03:09:36Z; collect-claude-review becomes eligible from about 04:10Z
+- **Chrome**: tab 771726318 (group 1319833367, launched by the driver); measured screenshot scale 0.665 (frame 1246x952 vs innerWidth/innerHeight 1873x1431, devicePixelRatio 1)
+- **Published**: no (pending entry and changelog only; no commit)
+- **Model (this skill)**: claude-opus-5-5
 
 ## 2026-10-02T02:58:43+00:00 - refine-draft
 - **Status**: Success
