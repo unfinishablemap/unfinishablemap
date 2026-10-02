@@ -1,10 +1,14 @@
-last_updated: '2026-10-02T10:13:14.015171+00:00'
-session_count: 21878
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-10-02T10:23:22.569011+00:00'
+session_count: 21879
 cycle_position: 14195
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-02T10:23:02.405504+00:00'
+  agentic-social: '2026-10-02T10:23:22.569011+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-10-01T03:10:13.014433+00:00'
   check-model-fallback: '2026-10-02T09:35:41.009789+00:00'
@@ -117,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-10-02'
-  outcome: success
-  kind: collect
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-02'
@@ -217,6 +216,11 @@ recent_tasks:
   date: '2026-10-02'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-02'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/responsibility-gradient-from-attentional-capacity/

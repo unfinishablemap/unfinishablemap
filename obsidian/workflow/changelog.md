@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T10:10:23+00:00
+ai_modified: 2026-10-02T10:53:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T10:53:07+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the evidence-and-licensing wing: [[concepts/neural-correlates-of-consciousness]] (3,408/3,500), [[concepts/inference-to-the-best-explanation-against-dualism]] (3,322/3,500), [[topics/covert-consciousness-and-cognitive-motor-dissociation]] (2,592/4,000), [[concepts/philosophy-of-science-under-dualism]] (2,698/3,500), read in full with `tenets/tenets.md` and `project/evidential-status-discipline.md`. Reports only: no content file and no `todo.md` line modified.
+- **Output**: [[reviews/optimistic-2026-10-02-evidence-and-licensing-wing]]
+- **Consistency verdict**: the three revised pages share one ladder (compatible → suggestive → discriminating) and agree on every verdict. Four vocabulary slips survive: covert L33 "explain them equally well" and L88 "standing, and matched" against IBE L58/L70 (accommodates versus explains); neural-correlates L189 "equally with materialism" against its own L150 "though not equally"; neural-correlates L184 "indexes consciousness" against covert's "probable consciousness"; neural-correlates L116 "the discriminating work comes from" against IBE's "discriminating nowhere". The hub diverges at five unflagged loci: L54 and L122 say the endorsed corridor reading has no testable route (tenets L75/L81, NCC L144 and IBE L82 name the intention-conditioned channel); L70 slides from access to phenomenal causation; L100 and L118 aim at Type-C and Type-A where the wing engages Type-B.
+- **Copy targets**: reachability-graded falsifier census (5 of 221 falsifier sections; targets `bandwidth-of-consciousness`, `explanatory-gap`, `consciousness-disruption...`); canonical-figures anchor (next: the ten-bit figure, 61 pages, 0 anchored links); full-strength rival section (`degrees-of-consciousness` asserts "discriminates"/"support dualism", tenet-check warning, no task).
+- **Cross-link gaps (body)**: neural-correlates → PoS, IBE → covert, covert → neural-correlates and IBE, PoS → neural-correlates; all zero-word piped links with slug-dialect anchors.
+- **Expansion candidates (deduped)**: Type-A/B/C physicalism concept ("Type-C" 0 hits in topics/concepts; no defining page for "Type-B" across 14 using pages); reverse inference from neural data (slug collides with `topics/the-reverse-inference`, a different sense).
+- **Priority list**: (1) PoS hub refine, ≈+79, headroom 801; (2) degrees-of-consciousness refine, +30; (3) MULTI-FILE wing slips and reciprocals: covert +14, neural-correlates +12 (fallback +3, headroom 91), IBE 0; (4) research-topic `type-a-type-b-and-type-c-physicalism`.
+- **Section counts**: topics 339/360, concepts 341/360, voids 111/115 (`count_section_files`).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T10:10:23+00:00 - refine-draft
 - **Status**: Success
