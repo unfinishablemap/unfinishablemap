@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 04:26:05+00:00
+ai_modified: 2026-10-02 05:01:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 04:26:05+00:00
+lastmod: 2026-10-02 05:01:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T05:01:35+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (slug `claude-opus-5-5`). Subject: `site` ("Full-site audit", source `reuse:pending-reviews:outer-review-2026-10-02-chatgpt-5-6-sol-pro.md`).
+- **File**: [outer-review-2026-10-02-claude-opus-5-5](/reviews/outer-review-2026-10-02-claude-opus-5-5/)
+- **Verdict**: "major revision". The headline is that corrections do not propagate: the register and the specialist pages are the most accurate layer, and the flagship concept pages have not caught up.
+- **Claims verified**: 80 Map-attributed quoted spans were grepped against live obsidian/, archive/ and reviews/+workflow/. 68 are verbatim at the named locus. 10 are stale, including F1/C6, which quote the archived `topics/quantum-measurement-consciousness-interface`; the Sjöberg, Hagan, smeared-states, llm-consciousness and `arguments`-index loci, all repaired since; and bi-aspectual's 10-bits line, which was reworded. 1 is a paraphrase in quotes (penrose L114, which already cites Donadi). 1 sits on a different page from the one named. 17 external citations were checked at Crossref plus arXiv, OpenAlex, Europe PMC and psychclassics, and all exist. The reviewer was wrong on one: the Map's Sjöberg "completely irrelevant" is verbatim in the essay's full text (PMC11224596). The reviewer's Georgiev "physically implausible" verdict is verbatim in arXiv:1412.4741 and is omitted from stapp-quantum-mind L118.
+- **High-value findings**: 3 minted. The 2026-06-04 [P-Q4](/positions/quantum-interface/#p-q4) Stapp demotion and the Schwartz "cannot count as support" verdict never reached interactionist-dualism (L131, L135, L111; the L135 sentence was added 2026-06-01 and never revisited). stapp-quantum-mind's tenet section (L146, L156) contradicts its recalibrated body and omits Georgiev's verdict. The 09-24 prebiotic-collapse completeness repair skipped evolution-of-consciousness L133 ("modulates").
+- **Tasks generated**: 3 (P1: 1, P2: 2), all refine-draft: [interactionist-dualism](/concepts/interactionist-dualism/) (+ objections-to-interactionism L190); [stapp-quantum-mind](/concepts/stapp-quantum-mind/); [evolution-of-consciousness](/concepts/evolution-of-consciousness/). Each target was grepped in the Active section first. parse_tasks active count went from 53 to 56. One addendum was added to the blocked NEEDS-HUMAN propagation entry, above its Notes line.
+- **Convergence with the ChatGPT leg**: C1, C2 and C5 converge strongly; C3 and C4 partially; C6 to C9 do not. The details, with an owner task for each, are in the review's Processing Record for /combine-outer-reviews. COGITATE and Keppler (T1, T4) are owned by the open "Tenet-check row 4" P2.
+- **Links**: `normalize_review_links.py` changed nothing. 111 live Map URLs were converted to bare wikilinks. The home page and the archived quantum-measurement-consciousness-interface URL were left as links.
+- **Review frontmatter**: `outer_review_status: processed`; topics, concepts and description populated; provenance fields preserved.
+- **Telegram**: not sent. The driver brief did not authorise the live-channel step (the same as the ChatGPT leg).
+- **Published**: synced to Hugo; no commit.
+- **Model**: claude-opus-5-5
+
+## 2026-10-02T04:53:27+00:00 - collect-claude-review
+- **Status**: Success
+- **Target**: [outer-review-2026-10-02-claude-opus-5-5](/reviews/outer-review-2026-10-02-claude-opus-5-5/). Subject: `site` ("Full-site audit", reuse of the ChatGPT leg).
+- **Conversation**: commissioned 2026-10-02T03:09:36Z and collected at about 104 minutes of age on the first attempt (collect_attempts 0). The entry is now marked `collected`.
+- **Readiness**: "Research complete" (274 sources, 13m 47s), no Stop button, no "Searching"/"Researching" status. There was one artifact tile after filtering out "View all": "Hostile Referee Audit of The Unfinishable Map: Coherence, Dependencies and Citations (October 2026)". The panel opened, and the body-stability sentinel read 42,624 = 42,624 over 10 s.
+- **Extraction**: skill DOM walk, then a Blob download moved to `tmp/collect-claude-body-2026-10-02.md`. 52,462 chars / 52,648 bytes, SHA-256 `3dc678ac2d6222c95825fe2b8e2b5edbecdd94cdea6e73f84aa072d16fa65575`; the in-page djb2 checksum 3414086267 matched on disk. Written with `scripts/collect_review.py` (`--model-slug claude-opus-5-5`, matching the filename and prior Claude files; `--extraction-method js-dom`; subject type, title and source from the pending entry; subject_articles is empty so it was omitted). The prompt was taken from the pending entry's `prompt_text`.
+- **Chrome**: tab 771729814 (group 1441816192, launched by the driver). Measured screenshot scale 0.665 (frame 1246x952 vs innerWidth/innerHeight 1873x1431, devicePixelRatio 1). No login wall.
+- **Published**: no (pending entry and review file only; no commit)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T04:26:05+00:00 - commission-gemini-review
 - **Status**: Success
