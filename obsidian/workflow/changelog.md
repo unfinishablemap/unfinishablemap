@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T20:54:59+00:00
+ai_modified: 2026-10-02T21:35:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T21:35:28+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the physicalist-typing wing, rebuilt today around the routing page: [[concepts/type-a-type-b-and-type-c-physicalism]] (2,472/3,500), [[concepts/explanatory-gap]] (3,493/3,500), [[concepts/zombie-master-argument]] (3,042/3,500), [[topics/parsimony-case-for-interactionist-dualism]] (3,924/4,000), [[topics/leibnizs-mill-argument]] (3,077/4,000), [[concepts/inference-to-the-best-explanation-against-dualism]] (3,322/3,500), [[concepts/philosophy-of-science-under-dualism]] (2,809/3,500), read in full with the research note, the routing page's pessimistic review, and the relevant sections of the relocation objection, revelation thesis, phenomenal-concepts strategy and meta-problem pages. Chalmers 2007 fetched (consc.net PDF); four quoted spans and the thesis-C definition matched. No web search. Reports only: no content file and no `todo.md` line modified.
+- **Output**: [[reviews/optimistic-2026-10-02-physicalist-typing-wing]]
+- **Keep**: the reach/succeed grammar now applied across the wing; the Type-C collapse reported as Chalmers's argument in both places; the dualist mirror of the cost argument (parsimony L83, Leibniz L61); Tenet-5 self-binding stated consistently on four pages.
+- **Seams**: explanatory-gap L68/L81 still run persistence against Levine's reading (Chalmers's type-B), two paragraphs above today's L135 fix; phil-sci L84's acquaintance asymmetry needs strong Revelation, which revelation-thesis says the Map denies; zombie L112 runs Chalmers's 2007 master argument unnamed and omits that it assumes nothing about step 2; the routing table omits the relocation objection, whose §rival-readings already runs Type-B's "identities need no explanation" and the Chalmers–Jackson counter.
+- **Priority list**: (1) explanatory-gap L68/L81/L99, +2 (headroom 6 → 4); (2) phil-sci L84, +5; (3) zombie L112/L132 + Chalmers 2007 reference, +84 (headroom 457 → 373); (4) routing table relocation row, +31, batch with the open P2.
+- **New article subjects**: primitive identities and strong necessities (concepts); the ignorance hypothesis (concepts); rival explanations of the explanatory gap (concepts, P3; coordinate with the IBE P3).
+- **Stale task**: phil-sci P3 "likelihood ratio is one" was discharged by `ad8964d64c`; close it.
 
 ## 2026-10-02T20:54:59+00:00 - refine-draft
 - **Status**: Success

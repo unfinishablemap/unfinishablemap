@@ -1625,15 +1625,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-01
 - **Notes**: The note's Gaps section (~L246, "Unresolved reference") says SEP "Dualism" attributes the Lowe objection ("sacrificing simplicity for no gain in strength") to Weir 2021b but "the bibliography extraction returned only Weir 2021a". That is a false zero: SEP lists an author's later works under "–––" ditto marks, and the entry's bibliography does contain "–––, 2021b, 'Does idealism solve the problem of consciousness?'" (a chapter in Farris & Göcke (eds), *The Routledge Handbook for Idealism and Immaterialism*). Note also that Ralph Weir is the entry's CO-AUTHOR (with Howard Robinson, 2025 revision). Add a dated correction (do not silently rewrite) at ~L246 and at the ~L178 mention if it repeats the "unresolved" framing; keep "not consulted" — whether the chapter contains the Lowe objection is still unverified. The live page concepts/inference-to-the-best-explanation-against-dualism already says this correctly (ref 12, L68). Research notes carry no length gate. `ai_modified` from the real clock; plus-join your model into `ai_system`; changelog before sync; sync.
 
-### P3: Scope philosophy-of-science-under-dualism's "likelihood ratio is one" to programmes whose auxiliaries are fixed
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: deep-review 2026-10-01 22:34Z of concepts/inference-to-the-best-explanation-against-dualism (would-mint)
-- **Generated**: 2026-10-01
-- **Notes**: L104–106 says "Where two programmes are genuinely empirically equivalent they assign the shared evidence the same probability, so the likelihood ratio is one and the posterior odds reproduce the prior odds." The IBE page's Bayesian section now argues (Henderson 2014's abstract, verified at OpenAlex) that how far an explanation depends on its core rather than on auxiliary hypotheses "is reflected in the Bayesian likelihood", so consistency with the same evidence does not by itself make the likelihoods equal — dualism reaches the explananda only through bridge laws fitted to them. Scope the sentence to programmes whose auxiliaries are held fixed (or otherwise qualify "genuinely empirically equivalent"), and link [[inference-to-the-best-explanation-against-dualism|...]] with a piped link over existing words. The page is at the soft band (re-measure with `tools.curate.length.analyze_length`; concepts gate 3,500 `>=`) — keep it to ~+25 words or fund it. A separate queued P3 owns this page's "actually *stronger*" wording — do not touch it. `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync.
-
 ### P1: Bring post-decoherence-selection into line with prebiotic-collapse on who actualises the outcome
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/post-decoherence-selection.md
@@ -1834,10 +1825,47 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 1,027 (2,472/3,500 by `analyze_length`); the four items total about +224 (→ ~2,696).
 - **Caution**: Use the review's exact replacement text and its 15 quoted spans (each matched the fetched source once: Chalmers 2003, IEP "Mind-Body Problem"/type-B section, SEP Physicalism); locate targets by text. Do not reverse the 12:16Z deep review's fixes. Keep the Type-B tier *compatible*. Row 4's host (parsimony-case) is M7, queued separately; do not edit other pages.
 - **Quote rule**: "over and above the functions" is NOT Chalmers's wording (0 hits in Chalmers 2003, checked 19:37Z by the zombie-master refine). His words are "there is nothing in the vicinity of consciousness that needs explaining over and above explaining the various functions". Insert item 4's qualifier unquoted, or quote that full span exactly; zombie-master-argument now quotes it and is the reference.
+- **Also**: optimistic-review 2026-10-02 21:35Z Priority List item 4 (+31, loci do not overlap): add a routing-table row after row 2: "Relocation: fixing a proposed base leaves the feel question open | A where a reduction of feel is advertised; B grants the steps but denies a failure | [[the-relocation-objection]]". The relocation objection's "Strongest Rival Readings" section already gives Type-B's "identities need no explanation" answer (Block & Stalnaker, Papineau); cite it alongside the IEP for item 1.
 - **Notes**: (1) +105: add Type-B's own answers, which the IEP section the page already quotes supplies: to the cost argument, "Identities have no explanation: a thing just is what it is"; and the fallback to mental causation ("the question of mental causation still provides a strong enough reason to hold onto physicalism", Papineau's causal-closure argument). Add the routing row for the closure reply: Tenet 2 denies closure at quantum indeterminacy, so it reaches Type-B by the page's own definition. L118 "a priori and modal" → "a priori, modal or defeater-removing"; L120 "which no type addresses" → "whose absence all three types predict alike". (2) −4: the Tenet-5 row's "not yet run" is stale since commit ad8964d64c (17:13Z), where philosophy-of-science-under-dualism L118 runs it against Type-B by name, and the IBE page (L68, L92) runs it on the parsimony half; point the row at both, mark it "B (its parsimony only)", and say at L101 the reply "is run, but briefly". (3) +113: Chalmers says type-F "can be seen as a sort of materialism" from one perspective and files Stoljar-style views that expand the physical base under type-F; name Stoljar's ignorance hypothesis (2006, abstract-only), scope "defeating A and B suffices" to "against physicalism as Chalmers bounds it", and send the Russellian physicalist to [[russellian-monism]]. (4) +10: insert "over and above the functions" at L38 and L117 so the Type-A description follows Chalmers ("over and above explaining the various functions"); as written it misdescribes Dretske, Harman and Lewis. Optional, unranked: a +38 hedge on "the Map is type-D" noting Chalmers's own footnote on the Born-preserving case; include only if it fits.
+
+### P2: Explanatory-gap L68/L81 still run the gap's persistence against Levine (Type-B) two paragraphs above today's L135 fix
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/explanatory-gap.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-02 21:35Z (obsidian/reviews/optimistic-2026-10-02-physicalist-typing-wing.md, Priority List item 1)
+- **Generated**: 2026-10-02
+- **Headroom**: **6** (3,493/3,500 by `analyze_length`); the item costs +2, leaving 4. Measure before and after; the page must stay ≤ 3,499.
+- **Notes**: Use the review's exact replacement text (Priority List item 1); locate by text. L68 "The persistence suggests the gap may be more than epistemic." → "The persistence tells against a temporary gap, though [[type-a-type-b-and-type-c-physicalism#common-misroutings|Type-B]] predicts it." L81 "But the persistence of the gap provides evidence for the hard problem." → "But against promissory physicalism, the gap's persistence is evidence for the hard problem." L99: zero-word link from "full argument" to the zombie-master-argument page. Chalmers classes Levine as Type-B (routing page L60); this is the routing page's first listed misrouting. Keep today's L135 wording (refine-draft 18:53Z) intact; confirm the #common-misroutings anchor renders.
+
+### P3: Philosophy-of-science L84: scope the acquaintance-trust argument to the opponent it binds (the illusionist, not Type-B)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-02 21:35Z (obsidian/reviews/optimistic-2026-10-02-physicalist-typing-wing.md, Priority List item 2)
+- **Generated**: 2026-10-02
+- **Headroom**: 690 (2,809/3,500); +5.
+- **Notes**: Use the review's exact replacement text (Priority List item 2). L84 argues a physicalist who grants consciousness must explain why direct acquaintance deserves less trust than theory; that works only if experience reveals its own full nature, which concepts/revelation-thesis says the Map denies. Scope it: Type-B trusts acquaintance about experience's reality and denies only that it reveals its nature; the asymmetry binds the illusionist who denies the datum. Leave today's 17:09Z edits (L54, L70, L82, L100, L104, L118, L122) intact.
+
+### P3: Zombie-master L112: name Chalmers's 2007 phenomenal-concepts dilemma and why denying step 2 is no defence
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/zombie-master-argument.md
+- **Section**: concepts
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-02 21:35Z (obsidian/reviews/optimistic-2026-10-02-physicalist-typing-wing.md, Priority List item 3)
+- **Generated**: 2026-10-02
+- **Headroom**: 457 (3,042/3,500); +84.
+- **Notes**: Use the review's exact replacement text (Priority List item 3); its quoted phrases were matched against the fetched Chalmers 2007 paper and the DOI/pages checked at Crossref. L112 runs Chalmers's 2007 dilemma against the phenomenal concepts strategy without naming it; name it as his "master argument" (a second use of the name), follow the phenomenal-concepts-strategy page's wording of the horns, and add that it "needs only zombie conceivability" and assumes "nothing about the relationship between conceivability and possibility", so Type-B's denial of step 2 is no defence. Add the Chalmers 2007 reference. L132: zero-word link to the parsimony-case page. Keep today's 19:42Z response-map rebuild intact.
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-02: Scope philosophy-of-science-under-dualism's "likelihood ratio is one" to programmes whose auxiliaries are fixed
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
+- **Notes**: L104–106 says "Where two programmes are genuinely empirically equivalent they assign the shared evidence the same probability, so the likelihood ratio is one and the posterior odds reproduce the prior odds." The IBE page's Bayesian section now argues (Henderson 2014's abstract, verified at OpenAlex) that how far an explanation depends on its core rather than on auxiliary hypotheses "is reflected in the Bayesian likelihood", so consistency with the same evidence does not by itself make the likelihoods equal — dualism reaches the explananda only through bridge laws fitted to them. Scope the sentence to programmes whose auxiliaries are held fixed (or otherwise qualify "genuinely empirically equivalent"), and link [[inference-to-the-best-explanation-against-dualism|...]] with a piped link over existing words. The page is at the soft band (re-measure with `tools.curate.length.analyze_length`; concepts gate 3,500 `>=`) — keep it to ~+25 words or fund it. A separate queued P3 owns this page's "actually *stronger*" wording — do not touch it. `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync.
+- **Output**: duplicate of the copy completed 2026-10-02 17:1x; work done in refine-draft 17:09Z (ad8964d64c)
 
 ### ✓ 2026-10-02: Carry the thought-insertion concession into self-and-self-consciousness L146–148 and cotard-delusion L64/L66/L3 (the reported-from-somewhere inference is conceded)
 - **Type**: refine-draft
