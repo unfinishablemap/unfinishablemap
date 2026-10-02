@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 19:17:54+00:00
+ai_modified: 2026-10-02 19:42:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 19:17:54+00:00
+lastmod: 2026-10-02 19:42:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T19:42:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Original score**: n/a (`scripts/curate.py` absent; brief-driven taxonomy correction)
+- **Source**: todo.md queue task (P2, Chalmers's taxonomy and the invented "Type-Q"); research/type-a-type-b-and-type-c-physicalism-2026-10-02 §Misassignment Register M5. Reference definitions: [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/).
+- **Word count**: 2,553 → 3,042 (+489; `analyze_length` body words; concepts soft 2,500 / hard 3,500, gate `>=`; headroom 457; status soft_warning, unchanged).
+- **Changes**:
+  - L34 (now L36): "(Chalmers develops this taxonomy primarily in terms of Type-A and Type-B responses; the treatment here adds a third category for completeness — see the Type-Q section for a note on nomenclature.)" → Chalmers's actual labels: physicalist Types A, B and C sorted by what they grant about the epistemic gap, the Quinean Type-Q, nonreductive D, E and F, with links to the response map and [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/). "every major physicalist response maps onto denying a specific step" → "the major physicalist responses map onto denials of specific steps" (Type-Q denies no step).
+  - L60–62: heading "The Physicalist Response Map" → "The Response Map" (it now holds the non-physicalist F row; no inbound anchors found). "Every physicalist must deny at least one premise, and the denials of the three explicit steps appear jointly exhaustive" → physicalists deny step 1 (A, C) or step 2 (B) or reject the framework (Q); denying step 3 is the exit Chalmers leaves to type-F monism.
+  - Type-A: definition now leads with Chalmers's gap formulation and keeps his qualifier verbatim ("there is nothing in the vicinity of consciousness that needs explaining over and above explaining the various functions"). Type-B section untouched; the L72 piped link stays.
+  - New "Type-C Physicalism: Deny Ideal Conceivability" row: closable in principle; prima facie but not ideally conceivable; the collapse into A, B, D or F, reported as Chalmers's argument because sympathisers dispute the structure-and-dynamics premise.
+  - L76–82, the invented Type-Q section, deleted: the note "'Type-Q' is not standard nomenclature. Chalmers's taxonomy covers Type-A and Type-B" (both false), and the gloss "perhaps consciousness supervenes on the physical with metaphysical necessity even across possible worlds" (internally inconsistent: a possible zombie world is a failure of metaphysical supervenience). The position it described (zombies possible, dualist conclusion resisted) recast as "Type-F Monism: Deny Non-Entailment": the two-dimensional argument's premise 3 exit, Russellian monism, which Chalmers counts as nonreductive; the supervenience link is kept in a correct sentence (supervenience on the complete physical truth, not the structural truth). The old cost paragraph was adapted to F rather than discarded; a combination-problem link was added.
+  - New "Type-Q Physicalism: Reject the Framework" row with Chalmers's own Type-Q (Quinean rejection of the conceptual/empirical, a priori/a posteriori and contingent/necessary distinctions) and its inheritance of A, B or C problems.
+  - Dependent loci: 2D section's possibility claim gains "unless the type-F exit above is taken" (Chalmers's premise 3 and conclusion carry the F disjunct); "Hard to Defeat" bullets: "confused" → "confused or, for Type-C, incomplete"; "Denying non-entailment effectively concedes dualism's core claim while clinging to physicalist terminology" → the Type-F route, conceding that structural physics does not entail experience.
+  - References: "Chalmers, D. (2002) ... Blackwell Guide" → 2003, Stich & Warfield, pp. 102–142, DOI 10.1002/9780470998762.ch5, first printed 2002 in Chalmers (ed.), OUP (Crossref metadata per the research note; the in-text "(2002)" now matches the first printing). Frontmatter `concepts:` gains type-a-type-b-and-type-c-physicalism and russellian-monism.
+- **Quotations added** (7; each in the research note AND grep-matched exactly once in the raw consc.net text of Chalmers 2003 fetched 19:37Z): "there is nothing in the vicinity of consciousness that needs explaining over and above explaining the various functions"; "closable in principle"; "are prima facie conceivable (for us now, with our current cognitive processes), but they are not ideally conceivable (under idealized rational reflection)"; "inherently unstable"; "must collapse into a version of type-A materialism, type-B materialism, type-D dualism, or type-F monism"; "there is no separate space for the type-C materialist"; "or type-F monism is true"; "We might call such a view type-Q materialism." The brief's paraphrase "over and above the functions" has 0 hits in the source and was not used as a quote. The P&~Q formula was paraphrased (verifies/satisfies glossed per Chalmers's own definition) to avoid single-tilde strikethrough in Goldmark.
+- **Prior stability notes in error**: the "Type-Q is not standard nomenclature" note, entered 2026-02-23 (commit d595fd6bdd, by `git log -S`), was ratified as good hygiene by deep reviews 2026-02-24, 03-07, 03-30, 05-20 ("Type-Q correctly flagged as non-standard"), 06-02 and 07-09 (listed as a preserved strength), and 07-25 ("Type-Q transparency note — untouched and intact"), pessimistic 2026-07-08 ("good epistemic hygiene"), and optimistic 2026-03-14 and 2026-05-20 (nine reviews; the research note's M5 listed six). Those stability notes were in error: "type-Q materialism" is Chalmers's own 2003 coinage, his taxonomy has A–F plus Q, and the position the note labelled is type-F's. Future reviews should not restore the note.
+- **Engagement classification** (editor-internal): Type-C, Mode One (Chalmers's collapse argument: the view is unstable on its own commitments), with a Mode-Three boundary clause (sympathisers dispute the structure-and-dynamics premise; reported as Chalmers's argument). Type-Q, Mode One (inherits the problems of whichever substantive view it holds). Type-F, Mode Three (not refuted; marked as conceding the step the Map needs and keeping "physical" only terminologically). Type-A and Type-B engagements unchanged.
+- **Not touched**: Type-A cost paragraph, Type-B section, knowledge-argument and Kripke sections, PCS paragraph, Relation to Site Perspective; the pre-existing L102 "load-bearing premise" (a genuine premise-dependency use) left as is.
+- **Published**: yes
 
 ## 2026-10-02T19:17:54+00:00 - pessimistic-review
 - **Status**: Success

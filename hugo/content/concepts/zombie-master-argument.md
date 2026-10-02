@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-02 11:58:46+00:00
+ai_modified: 2026-10-02 19:42:06+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -16,6 +16,8 @@ concepts:
 - '[[phenomenal-acquaintance]]'
 - '[[illusionism]]'
 - '[[qualia]]'
+- '[[type-a-type-b-and-type-c-physicalism]]'
+- '[[russellian-monism]]'
 created: 2026-02-23
 date: &id001 2026-10-02
 description: How the conceivability argument against physicalism functions as a master
@@ -25,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-10-02 11:58:46+00:00
+lastmod: 2026-10-02 19:42:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map treats the [zombie argument](/concepts/philosophical-zombies/) not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [knowledge argument](/concepts/knowledge-argument/), the [explanatory gap](/concepts/explanatory-gap/), and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), showing that every major physicalist response maps onto denying a specific step in the argument's logical chain, and that each denial carries distinctive costs. (Chalmers develops this taxonomy primarily in terms of Type-A and Type-B responses; the treatment here adds a third category for completeness — see the [Type-Q section](#type-q-physicalism-deny-non-entailment) for a note on nomenclature.)
+The Unfinishable Map treats the [zombie argument](/concepts/philosophical-zombies/) not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [knowledge argument](/concepts/knowledge-argument/), the [explanatory gap](/concepts/explanatory-gap/), and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), showing that the major physicalist responses map onto denials of specific steps in the argument's logical chain, and that each denial carries distinctive costs. The labels are his: three physicalist types (A, B and C) sorted by what they grant about the epistemic gap, a Quinean Type-Q that rejects the distinctions the argument is stated in, and three nonreductive views (D, E and F). The [response map below](#the-response-map) follows his assignments; [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) sets out the taxonomy in full.
 
 ## The Logical Architecture
 
@@ -61,13 +63,13 @@ Joseph Levine's [explanatory gap](/concepts/explanatory-gap/) — the persistent
 
 Saul Kripke's argument from *Naming and Necessity* (1980) — that pain cannot be identical to C-fibre firing because we can conceive of C-fibres firing without pain — is a direct precursor. Kripke showed that unlike water/H₂O, where conceivable separation reflects pre-scientific ignorance, the conceivable separation of consciousness from its physical correlates doesn't dissolve with better science. The zombie argument generalises Kripke's point from specific mental states to consciousness as a whole. Kripke himself was cautious about extending the argument to substance dualism, framing the conclusion in narrower terms about type-identity claims for particular mental states; the generalisation to whole-system zombies is Chalmers's contribution rather than Kripke's.
 
-## The Physicalist Response Map
+## The Response Map
 
-The master argument's elegance is that it turns the debate into a decision tree. Every physicalist must deny at least one premise, and the denials of the three explicit steps appear jointly exhaustive — though a response can also sidestep the step-denials entirely, as the ability-hypothesis reply to Mary above does: it blocks the knowledge argument without mapping onto any of the three zombie-denial steps. (The illusionist challenge, by contrast, does land on a step — it is the most developed Type-A denial of conceivability, treated below.)
+The master argument's elegance is that it turns the debate into a decision tree. Physicalists deny the first step (Types A and C) or the second (Type B), or reject the distinctions the steps are stated in (Type Q); denying the third step is the exit Chalmers leaves to type-F monism, which he counts as nonreductive. A response can also sidestep the step-denials entirely, as the ability-hypothesis reply to Mary above does: it blocks the knowledge argument without mapping onto any of the three zombie-denial steps. (The illusionist challenge, by contrast, does land on a step — it is the most developed Type-A denial of conceivability, treated below.)
 
 ### Type-A Physicalism: Deny Conceivability
 
-Type-A physicalists claim zombies aren't genuinely conceivable — that fully understanding the physical facts would reveal consciousness to be analytically entailed. This position implies that the [hard problem](/topics/hard-problem-of-consciousness/) is an illusion produced by confused concepts rather than a genuine metaphysical gap.
+Type-A physicalists deny the epistemic gap, or hold it easily closed. Chalmers marks the type by the view that, on reflection, "there is nothing in the vicinity of consciousness that needs explaining over and above explaining the various functions". Zombies, on this view, aren't genuinely conceivable — fully understanding the physical facts would reveal consciousness to be analytically entailed. This position implies that the [hard problem](/topics/hard-problem-of-consciousness/) is an illusion produced by confused concepts rather than a genuine metaphysical gap.
 
 **Cost**: Type-A physicalism must explain why the conceivability seems so robust. Sustained philosophical analysis over three decades has not produced a widely accepted demonstration that the zombie scenario contains a hidden contradiction. The most developed Type-A position, [illusionism](/concepts/illusionism/) — championed by Keith Frankish and drawing on Dennett — argues that phenomenal consciousness is itself a misrepresentation, and that once this illusion is dispelled, zombie conceivability dissolves. This is a live 2020s programme, not a stalled debate. Frankish's strongest form does not rest on denying that seeming is phenomenal; it offers a positive account on which meta-representational machinery generates the impression of a unified qualitative field, and argues that this bridge — from self-modelling structure to felt unity — need not be regress-vulnerable, since a system can represent its own states as qualitative without any of the representing being phenomenal. The substantive question is whether that bridge can be built where the represented state and the representing state coincide, which is precisely where the analogy to external representation closes; the [illusionism](/concepts/illusionism/#the-meta-representational-bridge-to-felt-unity) page engages this account at full resolution, and the [phenomenal-concepts](/concepts/phenomenal-concepts-strategy/) reversal shows the framework can be turned against itself. The Map's assessment is that the bridge identifies its own explanandum without yet supplying the mechanism illusionism's standards demand — but this is a verdict on a programme still putting moves on the board, not on a defeated one. If consciousness were analytically entailed by physics, we would expect the entailment to become clearer with better understanding, as with water and H₂O; Type-A advocates argue progress is being made, critics contend the gap has not narrowed.
 
@@ -77,19 +79,29 @@ Type-A physicalists claim zombies aren't genuinely conceivable — that fully un
 
 **Cost**: The analogy with water/H₂O breaks down. We learned that water is H₂O through empirical discovery about what "water" refers to — we were ignorant of water's nature. With consciousness, we have [direct acquaintance](/concepts/phenomenal-acquaintance/) with the phenomenon. The conceivability of zombies doesn't reflect ignorance of what consciousness is; it reflects understanding that [qualitative experience](/concepts/qualia/) isn't the kind of thing structural descriptions capture. See [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) for detailed treatment of when conceivability warrants possibility claims.
 
-### Type-Q Physicalism: Deny Non-Entailment
+### Type-C Physicalism: Deny Ideal Conceivability
 
-*Note: "Type-Q" is not standard nomenclature. Chalmers's taxonomy covers Type-A and Type-B; this third category captures a residual position that accepts zombie possibility while resisting the dualist conclusion. The label is used here for taxonomic completeness.*
+Type-C physicalists grant a deep epistemic gap but hold it "closable in principle". Zombies and the like, on Chalmers's statement of the view, "are prima facie conceivable (for us now, with our current cognitive processes), but they are not ideally conceivable (under idealized rational reflection)". Type-C thus denies the first step read as ideal conceivability, the step Type-A denies outright, and it is the physicalist who issues the promissory note that future science will close the gap.
 
-Some physicalists accept zombie possibility but argue it doesn't refute physicalism — perhaps consciousness [supervenes](/concepts/supervenience/) on the physical with metaphysical necessity even across possible worlds. This position is rare because it concedes most of what the dualist needs: that physical description doesn't exhaust reality.
+**Cost**: Chalmers argues that the view is "inherently unstable" and "must collapse into a version of type-A materialism, type-B materialism, type-D dualism, or type-F monism"; in his words, "there is no separate space for the type-C materialist". Type-C sympathisers can dispute the structure-and-dynamics premise behind this [collapse argument](/concepts/type-a-type-b-and-type-c-physicalism/#why-type-c-collapses), so the Map reports it as Chalmers's argument rather than a settled result.
 
-**Cost**: If a physically identical world can lack consciousness, calling consciousness "physical" becomes a terminological choice rather than a substantive claim. The spirit of physicalism — that physics tells the complete story — has been abandoned.
+### Type-F Monism: Deny Non-Entailment
+
+The third step is denied by a view Chalmers counts among the nonreductive options, outside his three materialist types. In the two-dimensional version of the argument ([explained below](#two-dimensional-semantics-and-the-master-argument)), he builds the exit into the third premise: a world that verifies the zombie hypothesis, making it true by its primary intension, also satisfies it, making it true by its secondary intension, "or type-F monism is true". Taking this exit, [Russellian (type-F) monism](/concepts/russellian-monism/) grants that a world matching ours in physics' structural description could lack consciousness, and denies that such a world duplicates the physical facts in full: physics describes structure and dynamics, and the intrinsic natures it leaves out are (proto)phenomenal. Consciousness then [supervenes](/concepts/supervenience/) on the complete physical truth, intrinsic natures included, and fails to supervene on the structural truth that physics states.
+
+**Cost**: The exit concedes the step the Map most needs, that structural physics does not entail experience. If "physical" is stretched to cover the intrinsic natures, calling consciousness physical becomes a terminological choice rather than a substantive claim, and the spirit of physicalism — that physics, as it describes the world, tells the complete story — has been abandoned. The view's own difficulties, chief among them the [combination problem](/concepts/combination-problem/), are taken up on the Russellian-monism page.
+
+### Type-Q Physicalism: Reject the Framework
+
+Type-Q is Chalmers's own label for the Quinean physicalist who rejects the distinctions the argument is stated in — between conceptual and empirical truth, the a priori and the a posteriori, the contingent and the necessary — while holding physicalism true: "We might call such a view type-Q materialism." Such a physicalist denies no single step.
+
+**Cost**: Chalmers argues that the view inherits the problems of whichever type its substantive account resembles: Type-A's if functions are held to explain everything, Type-B's if identities are postulated on the strength of isomorphic connections between physical and conscious states, Type-C's if it awaits novel future explanation.
 
 ## Two-Dimensional Semantics and the Master Argument
 
 Chalmers sharpened the master argument using two-dimensional semantics, distinguishing between *primary intensions* — what a concept picks out given how the actual world turns out — and *secondary intensions* — what it picks out as a matter of metaphysical necessity. The key move: for phenomenal concepts, the primary and secondary intensions coincide. When we think about "pain," what we mean (the qualitative feel) is the same across all possible worlds — there's no gap between how we conceive of pain and what pain is.
 
-This blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. The master argument's claim is that with consciousness no such gap opens: if zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible.
+This blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. The master argument's claim is that with consciousness no such gap opens: if zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible, unless the [type-F exit](#type-f-monism-deny-non-entailment) above is taken.
 
 This coincidence of intensions is the load-bearing premise, and it is exactly what the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) denies — holding that the *appearance* of coincidence is an artefact of how phenomenal concepts represent their referents rather than a feature of consciousness itself. The step is therefore contested rather than settled; the argument's force here is conditional on the coincidence holding, and the [PCS engagement below](#why-the-argument-has-been-hard-to-defeat) takes up that denial directly.
 
@@ -97,9 +109,9 @@ This coincidence of intensions is the load-bearing premise, and it is exactly wh
 
 The master argument has persisted for three decades despite sustained attempts to refute it. The Map reads that persistence as a consequence of the argument's logical structure: each available denial, on this reading, commits the physicalist to something they would prefer to avoid. Physicalists dispute both that reading and how much their preferred response actually concedes, so the costs set out below are the Map's assessment rather than an agreed result:
 
-- **Denying conceivability** requires claiming our conceptual grasp of consciousness is confused — a position that carries its own explanatory burden, since it must account for the widespread and persistent intuition that zombies are conceivable.
+- **Denying conceivability** requires claiming our conceptual grasp of consciousness is confused or, for Type-C, incomplete — a position that carries its own explanatory burden, since it must account for the widespread and persistent intuition that zombies are conceivable.
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.
-- **Denying non-entailment** effectively concedes dualism's core claim while clinging to physicalist terminology.
+- **Denying non-entailment** is the Type-F route, which concedes that structural physics does not entail experience and keeps physicalist terminology, where it keeps it at all, by extending "physical" to natures physics does not describe.
 
 The argument also regenerates against sophisticated responses. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/), which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces a dilemma: either the special cognitive mode is itself phenomenally conscious (generating a new conceivability argument at the meta-level) or it's purely functional (and we can conceive of it without the accompanying phenomenology). The full case — including Fürst's reversal arguing PCS's own framework supports dualism — is developed on that page.
 
@@ -137,7 +149,7 @@ The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#
 
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In T. Gendler & J. Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
-1. Chalmers, D. (2002). "Consciousness and Its Place in Nature." In S. Stich & T. Warfield (eds.), *The Blackwell Guide to Philosophy of Mind*. Blackwell.
+1. Chalmers, D. (2003). "Consciousness and Its Place in Nature." In S. P. Stich & T. A. Warfield (eds.), *The Blackwell Guide to Philosophy of Mind* (pp. 102–142). Blackwell. https://doi.org/10.1002/9780470998762.ch5 (first printed 2002 in D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford University Press)
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
 1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.
