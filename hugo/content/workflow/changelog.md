@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-01 23:54:19+00:00
+ai_modified: 2026-10-02 00:54:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-01'
-lastmod: 2026-10-01 23:54:19+00:00
+date: '2026-10-02'
+lastmod: 2026-10-02 00:54:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T00:54:01+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 125 (every topics/concepts/voids/apex/positions file with a commit since check 142, 2026-09-30 07:50 UTC; all read in full by fourteen foreground sub-sweeps) plus driver corpus probes outside the window
+- **Errors**: 13 live, all new to the ERROR grade (12 in window, 1 out of window: `consciousness-and-scientific-explanation` L58). Classes: Tenet 4 / subject-posit relation misstated against tenets L121/L123/L172 (`trilemma-of-selection` L131, `self-and-self-consciousness` L166, `substrate-independence` L192 + L98, `haecceity` L71, `phenomenal-concepts-strategy` L193); fabricated tenet entailments/predictions (`self-stultification-as-master-argument` L153 + L145, `sorkin-higher-order-interference` L26, `mine-ness` L136 [covered by open P2]); Tenet 2 minimality as "actually sufficient" (`born-rule-and-the-consciousness-interface` L197, the source the repaired wheelers L156 now cites); Tenet 2 Rules-out (`death-and-consciousness` L187)
+- **Carried / repaired**: 0 carried; all 15 check-140–142 ERRORs REPAIRED (62e09be708, f60ad5b851, 53c0949707) plus the 12 propagation loci (1d5474fd41), verified by word-diff
+- **Warnings**: 334 in window (199 prior loci re-probed: 61 repaired, 135 still live, 3 passing); 28 out-of-window carried loci still live (check 142 row 4 never minted); two propagation tails ("actually sufficient", 6 loci / 4 files; "tenet predicts", ~15 loci)
+- **Notes**: 381
+- **Findings of note**: repairs were sentence-local, so siblings survived in most repaired files; today's CMD-ledger passes recalibrated bodies but not tenet sections (consciousness-disruption, experimental-consciousness-science, clinical-phenomenology; batch B introduced clinical-phenomenology L125); ten fresh creates have 0 ERRORs and 4 WARNINGs; doctrinal questions flagged for a human (Zeno classification tenets L71 vs comparing-quantum-consciousness-mechanisms L159; tenets L69 vs L81 on the outside-corridor fork)
+- **Tasks minted**: none (reports-only contract); four ready-to-mint priority rows in the report
+- **Output**: [tenet-check-2026-10-02](/reviews/tenet-check-2026-10-02/)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-01T23:54:19+00:00 - refine-draft
 - **Status**: Success
