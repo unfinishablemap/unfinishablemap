@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-01 02:44:14+00:00
+ai_modified: 2026-10-02 11:58:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-15
-date: &id001 2026-09-27
+date: &id001 2026-10-02
 description: Russellian monism claims quiddities ground consciousness, but faces the
   combination problem, instability between physicalism and dualism, and fragmentation
   into incompatible variants.
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-10-01 02:44:14+00:00
+lastmod: 2026-10-02 11:58:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 ## Relation to the Map's Perspective
 
-**Dualism**: Russellian monism is officially a form of monism—one kind of stuff with different aspects. But its commitment to phenomenal properties irreducible to structure makes it closer to property dualism in practice. Cutter's instability argument makes this explicit: anyone who accepts the anti-physicalist arguments that motivate Russellian monism should accept dualism outright. The Map's [bi-aspectual dualism](/concepts/bi-aspectual-ontology/)—structure and actuality as irreducible aspects that interact causally—is the stable endpoint.
+**Dualism**: Russellian monism is [officially a form of monism](/concepts/type-a-type-b-and-type-c-physicalism/)—one kind of stuff with different aspects. But its commitment to phenomenal properties irreducible to structure makes it closer to property dualism in practice. Cutter's instability argument makes this explicit: anyone who accepts the anti-physicalist arguments that motivate Russellian monism should accept dualism outright. The Map's [bi-aspectual dualism](/concepts/bi-aspectual-ontology/)—structure and actuality as irreducible aspects that interact causally—is the stable endpoint.
 
 **Minimal Quantum Interaction**: the Map proposes consciousness influences quantum outcomes. Russellian monism doesn't specify a mechanism—quiddities are simply "part of" physical reality. The quantum proposal gives concrete content to the mind-matter interface.
 

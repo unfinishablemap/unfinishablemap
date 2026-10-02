@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-09-16 06:35:32+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-02 11:58:46+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - type-identity-theory
@@ -11,7 +11,7 @@ concepts:
 - dualism
 - materialism
 created: 2026-07-12
-date: &id001 2026-07-13
+date: &id001 2026-10-02
 description: How Kripke's modal argument turns rigid designation and a-posteriori
   necessity against mind-brain identity — a framework-relative pillar of the Map's
   anti-materialist case.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 06:35:32+00:00
-lastmod: 2026-09-16 06:35:32+00:00
+lastmod: 2026-10-02 11:58:46+00:00
 modified: *id001
 related_articles:
 - knowledge-argument
@@ -65,7 +65,7 @@ The same footnote blocks the further step the Map takes. "Rejection of the ident
 
 ## The Materialist Reply: Phenomenal Concepts
 
-The leading materialist response accepts almost all of Kripke's apparatus and denies the one claim that pain lacks a contingent mode of presentation. On the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (the a-posteriori or "type-B" physicalist line associated with Loar, Hill, Papineau, Block, and Balog), phenomenal concepts *are* the mode of presentation Kripke says pain lacks. We conceptualise one and the same brain state under two independent concepts — a theoretical concept ("C-fibre firing") and a phenomenal, recognitional concept ("*this* feeling"). The appearance of contingency arises from the conceptual independence of these two concepts, not from any metaphysical distinctness in the properties. So the psychological explanation of the illusion that Kripke declared unavailable for pain *is* available after all — it just lives in the concepts rather than in a distinct property, and "pain is C-fibre firing" can be a necessary a-posteriori identity like the others.
+The leading materialist response accepts almost all of Kripke's apparatus and denies the one claim that pain lacks a contingent mode of presentation. On the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (the a-posteriori or "[type-B](/concepts/type-a-type-b-and-type-c-physicalism/)" physicalist line associated with Loar, Hill, Papineau, Block, and Balog), phenomenal concepts *are* the mode of presentation Kripke says pain lacks. We conceptualise one and the same brain state under two independent concepts — a theoretical concept ("C-fibre firing") and a phenomenal, recognitional concept ("*this* feeling"). The appearance of contingency arises from the conceptual independence of these two concepts, not from any metaphysical distinctness in the properties. So the psychological explanation of the illusion that Kripke declared unavailable for pain *is* available after all — it just lives in the concepts rather than in a distinct property, and "pain is C-fibre firing" can be a necessary a-posteriori identity like the others.
 
 The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) page assesses this reply in detail, including Chalmers's "master argument" dilemma pressing it, and is not restated here. The point for Kripke's argument is that its force rests entirely on the claim that pain has no mode of presentation, and that claim is precisely what remains contested.
 

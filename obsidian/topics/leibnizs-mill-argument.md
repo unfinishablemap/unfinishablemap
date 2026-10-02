@@ -2,9 +2,9 @@
 title: "Leibniz's Mill Argument"
 description: "Leibniz's 1714 thought experiment—walk through an enlarged brain, find only mechanism, never perception. The historical ancestor of the explanatory gap, Mary's Room, and the hard problem."
 created: 2026-02-01
-modified: 2026-02-01
+modified: 2026-10-02
 human_modified:
-ai_modified: 2026-09-30T21:39:17+00:00
+ai_modified: 2026-10-02T11:58:46+00:00
 last_deep_review: 2026-07-18T17:28:01+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[phenomenological-evidence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-02-01
 last_curated:
 ---
@@ -100,7 +100,7 @@ A caution: intuitions have been unreliable guides to physics—we couldn't imagi
 
 ## Materialist Responses
 
-Materialists have offered several lines of response:
+Materialists have offered [[type-a-type-b-and-type-c-physicalism|several lines of response]]:
 
 **The emergence objection**: Perhaps perception is not located in any single part but emerges from the organization of parts. Just as wetness emerges from hydrogen and oxygen atoms though neither is wet individually, [[consciousness]] might emerge from neural organization.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-01 22:32:21+00:00
+ai_modified: 2026-10-02 12:03:02+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -14,15 +14,15 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[philosophy-of-science-under-dualism]]'
 created: 2026-10-01
-date: &id001 2026-10-01
+date: &id001 2026-10-02
 description: 'The physicalist''s strongest argument, stated at full strength and answered
   honestly: against inference to the best explanation the Map reaches compatibility,
-  not discrimination. Human-AI refined.'
+  not discrimination.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 22:32:21+00:00
-lastmod: 2026-10-01 22:32:21+00:00
+lastmod: 2026-10-02 12:03:02+00:00
 modified: *id001
 related_articles: []
 title: Inference to the Best Explanation Against Dualism
@@ -81,7 +81,7 @@ The Map's evidential register distinguishes evidence *compatible with* a tenet, 
 
 Three commitments, in order of price.
 
-**Engage Type-B physicalism rather than Type-A.** The live opponent for the first reply is the physicalist who grants the datum and explains the gap conceptually; answering only the Type-A denial of the datum answers an opponent the IBE argument does not need. The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) page carries Chalmers's master argument against the strategy; no page yet runs the second-order comparison as an IBE and says which explanation of the gap is lovelier and by what criteria. Until then the first reply's *suggestive* tier is provisional.
+**Engage [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) rather than Type-A.** The live opponent for the first reply is the physicalist who grants the datum and explains the gap conceptually; answering only the Type-A denial of the datum answers an opponent the IBE argument does not need. The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) page carries Chalmers's master argument against the strategy; no page yet runs the second-order comparison as an IBE and says which explanation of the gap is lovelier and by what criteria. Until then the first reply's *suggestive* tier is provisional.
 
 **State a disconfirmer for the idleness claim.** The Map's evidential discipline requires a core claim to say what would lower, leave unchanged and raise confidence in it. For the claim that the dualist posit is not idle, the Map can currently say only this: confidence would rise if outcome statistics inside the brain, conditioned on what the subject intends, departed from the Born marginal at some grain, as [the conditional-signature analysis](/apex/born-preserving-causal-efficacy/) formalises; it would be unchanged by unconditioned or external random-number-generator nulls, which the corridor accommodates; and it would fall by degrees as well-powered conditional tests returned null. No such test has been run. On the [trumping reading](/concepts/trumping-preemption/), which relocates efficacy off the statistics altogether, no observation bears at all, so that sub-reading alone is held on coherence rather than evidence.
 

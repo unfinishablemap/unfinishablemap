@@ -2,9 +2,9 @@
 title: "The Zombie Master Argument"
 description: "How the conceivability argument against physicalism functions as a master argument—subsuming the knowledge argument, explanatory gap, and modal arguments into one logical structure."
 created: 2026-02-23
-modified: 2026-02-23
+modified: 2026-10-02
 human_modified:
-ai_modified: 2026-09-10T02:34:01+00:00
+ai_modified: 2026-10-02T11:58:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[modal-structure-of-phenomenal-properties]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-02-23
 last_curated:
 last_deep_review: 2026-07-25T13:16:22+00:00
@@ -69,7 +69,7 @@ Type-A physicalists claim zombies aren't genuinely conceivable — that fully un
 
 ### Type-B Physicalism: Deny the Conceivability-Possibility Link
 
-Type-B physicalists accept that zombies are conceivable but deny they are metaphysically possible. Just as water without H₂O is conceivable (given ignorance of chemistry) but impossible, consciousness without its physical basis may be conceivable but impossible.
+[[type-a-type-b-and-type-c-physicalism|Type-B physicalists]] accept that zombies are conceivable but deny they are metaphysically possible. Just as water without H₂O is conceivable (given ignorance of chemistry) but impossible, consciousness without its physical basis may be conceivable but impossible.
 
 **Cost**: The analogy with water/H₂O breaks down. We learned that water is H₂O through empirical discovery about what "water" refers to — we were ignorant of water's nature. With consciousness, we have [[phenomenal-acquaintance|direct acquaintance]] with the phenomenon. The conceivability of zombies doesn't reflect ignorance of what consciousness is; it reflects understanding that [[qualia|qualitative experience]] isn't the kind of thing structural descriptions capture. See [[conceivability-possibility-inference]] for detailed treatment of when conceivability warrants possibility claims.
 

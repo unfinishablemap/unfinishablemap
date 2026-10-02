@@ -2,9 +2,9 @@
 title: "Neural Correlates of Consciousness"
 description: "Brain activity correlating with conscious experience. Correlation is not identity: NCC findings are compatible with dualism, physicalism, and filter theory."
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-02T09:12:00+00:00
+ai_modified: 2026-10-02T11:58:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,7 +149,7 @@ The Map's exposure lies outside correlational NCC work: in P-Q9's conditional ch
 
 NCC research does not resolve whether consciousness is physical. Both physicalism and interactionism accommodate the correlations, though not equally: interactionism [[#Interactionism Expects Correlations|expects correlation in general]], not its specific pattern.
 
-What NCC research *does* reveal is the [[explanatory-gap]]: correlations multiply, but the connection between neural description and phenomenal character never becomes *transparent*. We can predict that V4 damage impairs color experience without understanding *why* V4 activity feels like color. Levine (1983), who named the gap, drew only an epistemological conclusion from it. The Type-A physicalist denies there was ever a real gap; the Type-B physicalist grants it and predicts it will persist, since, on the [[phenomenal-concepts-strategy|phenomenal-concepts strategy]], phenomenal and physical concepts can co-refer without the identity ever becoming transparent. The Map reads the persistent opacity as consonant with [[tenets#^dualism|Dualism]]—a posited stance, conceded by neither physicalist, that stays [[inference-to-the-best-explanation-against-dualism|provisional]] until dualism is shown to explain the gap better than the Type-B account.
+What NCC research *does* reveal is the [[explanatory-gap]]: correlations multiply, but the connection between neural description and phenomenal character never becomes *transparent*. We can predict that V4 damage impairs color experience without understanding *why* V4 activity feels like color. Levine (1983), who named the gap, drew only an epistemological conclusion from it. The [[type-a-type-b-and-type-c-physicalism|Type-A physicalist]] denies there was ever a real gap; the Type-B physicalist grants it and predicts it will persist, since, on the [[phenomenal-concepts-strategy|phenomenal-concepts strategy]], phenomenal and physical concepts can co-refer without the identity ever becoming transparent. The Map reads the persistent opacity as consonant with [[tenets#^dualism|Dualism]]—a posited stance, conceded by neither physicalist, that stays [[inference-to-the-best-explanation-against-dualism|provisional]] until dualism is shown to explain the gap better than the Type-B account.
 
 ### Bidirectional Interaction
 

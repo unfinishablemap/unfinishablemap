@@ -2,9 +2,9 @@
 title: "Materialism"
 description: "Why physicalism fails to explain consciousness. The explanatory gap, knowledge argument, and zombie conceivability reveal irreducible phenomenal properties."
 created: 2026-01-14
-modified: 2026-01-20
+modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-07-28T15:13:54+00:00
+ai_modified: 2026-10-02T11:58:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[arguments/materialism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-10T19:37:59+00:00
@@ -135,7 +135,7 @@ Physical descriptions are structural and relational. Qualia are neither. Materia
 
 ## The Materialist Response
 
-Materialists are not defenseless. Common responses:
+Materialists are not defenseless. [[type-a-type-b-and-type-c-physicalism|Common responses]]:
 
 ### "Future Science"
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-09-29 15:53:35+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-10-02 11:58:46+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -19,7 +19,7 @@ concepts:
 - '[[phenomenal-acquaintance]]'
 - '[[zombie-master-argument]]'
 created: 2026-02-10
-date: &id001 2026-02-15
+date: &id001 2026-10-02
 description: Possibility, necessity, and conceivability reveal that phenomenal properties
   behave unlike any physical property—supporting dualism through converging modal
   arguments.
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 15:53:35+00:00
-lastmod: 2026-09-29 15:53:35+00:00
+lastmod: 2026-10-02 11:58:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ The physicalist must explain why phenomenal properties exhibit this systematic m
 
 ## Why the Conceivability-Possibility Link Holds
 
-The standard physicalist response to modal arguments is to deny that conceivability entails possibility. Water without H₂O is conceivable (before learning chemistry) yet impossible. Perhaps zombies are similarly conceivable yet impossible.
+The [standard physicalist response](/concepts/type-a-type-b-and-type-c-physicalism/) to modal arguments is to deny that conceivability entails possibility. Water without H₂O is conceivable (before learning chemistry) yet impossible. Perhaps zombies are similarly conceivable yet impossible.
 
 This analogy is weaker than it appears. Pre-chemical conceivability of "water without H₂O" reflected genuine ignorance: we didn't know what water was made of. When we learned, the conceivability vanished. But the conceivability of zombies doesn't reflect ignorance — it reflects understanding. As neuroscience catalogues the structural and dynamical properties of the brain in increasing detail, nothing in these descriptions logically entails phenomenal properties. Each new discovery specifies more physical facts while leaving the question of why there is experience entirely open. The type-B physicalist responds that we may simply not yet grasp the a posteriori identity between physical and phenomenal properties — that the connection, like water = H₂O, will prove necessary once understood. But the cases are disanalogous: with water, learning the hidden nature dissolved the conceivability, whereas with consciousness, fuller knowledge of neural correlates makes the absence of entailment more explicit, not less.
 

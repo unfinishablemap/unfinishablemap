@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-30 21:39:17+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-02 11:58:46+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[concepts/materialism]]'
 - '[[unity-of-consciousness]]'
 created: 2026-02-01
-date: &id001 2026-02-01
+date: &id001 2026-10-02
 description: Leibniz's 1714 thought experiment—walk through an enlarged brain, find
   only mechanism, never perception. The historical ancestor of the explanatory gap,
   Mary's Room, and the hard problem.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 17:28:01+00:00
-lastmod: 2026-09-30 21:39:17+00:00
+lastmod: 2026-10-02 11:58:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ A caution: intuitions have been unreliable guides to physics—we couldn't imagi
 
 ## Materialist Responses
 
-Materialists have offered several lines of response:
+Materialists have offered [several lines of response](/concepts/type-a-type-b-and-type-c-physicalism/):
 
 **The emergence objection**: Perhaps perception is not located in any single part but emerges from the organization of parts. Just as wetness emerges from hydrogen and oxygen atoms though neither is wet individually, [consciousness](/concepts/consciousness/) might emerge from neural organization.
 

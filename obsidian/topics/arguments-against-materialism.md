@@ -2,9 +2,9 @@
 title: "Arguments Against Materialism"
 description: "Multiple independent philosophical arguments converge on the same conclusion: materialism cannot account for consciousness. Exploring why these arguments matter and why materialism persists despite them."
 created: 2026-02-27
-modified: 2026-02-27
+modified: 2026-10-02
 human_modified:
-ai_modified: 2026-09-08T23:19:47+00:00
+ai_modified: 2026-10-02T11:58:46+00:00
 last_deep_review: 2026-07-18T23:36:27+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ related_articles:
   - "[[enactivism-challenge-to-interactionist-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-02-27
 last_curated:
 ---
@@ -52,7 +52,7 @@ The Unfinishable Map takes this convergence seriously. Rather than treating the 
 
 ## The Cumulative Case
 
-The standard materialist strategy is to answer each argument individually. The [[explanatory-gap]] is supposedly just epistemic—a gap in *our understanding*, not in reality. [[philosophical-zombies|Philosophical zombies]] are conceivable but metaphysically impossible. [[knowledge-argument|Mary]] gains new abilities, not new facts. Each argument gets its own rebuttal, and physicalism continues.
+The standard materialist strategy is to [[type-a-type-b-and-type-c-physicalism|answer each argument individually]]. The [[explanatory-gap]] is supposedly just epistemic—a gap in *our understanding*, not in reality. [[philosophical-zombies|Philosophical zombies]] are conceivable but metaphysically impossible. [[knowledge-argument|Mary]] gains new abilities, not new facts. Each argument gets its own rebuttal, and physicalism continues.
 
 This strategy misses the forest for the trees. The tradition of anti-materialist argument stretches back to [[leibnizs-mill-argument|Leibniz's Mill]] (1714)—walk through an enlarged brain and find only mechanism, never perception. Seven or more independent arguments descend from or parallel that insight—the explanatory gap, the knowledge argument, the conceivability argument, arguments from [[qualia]], Kripke's modal argument, Nagel's subjectivity argument, the unity of consciousness, the [[argument-from-reason]], and [[intentionality]]—all arrive at the same conclusion through different routes. A pattern of this kind seems to demand explanation. If materialism were correct, it would be a remarkable coincidence that so many independent lines of reasoning all happen to generate the same false conclusion. The pattern is reinforced by [[concession-convergence]]—physicalist theories themselves narrowing toward dualist-compatible positions through their own defensive modifications, though that narrowing is not independent in the sense this inference requires.
 

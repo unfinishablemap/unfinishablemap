@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-10 02:34:01+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-02 11:58:46+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[philosophical-zombies]]'
@@ -17,7 +17,7 @@ concepts:
 - '[[illusionism]]'
 - '[[qualia]]'
 created: 2026-02-23
-date: &id001 2026-02-23
+date: &id001 2026-10-02
 description: How the conceivability argument against physicalism functions as a master
   argument—subsuming the knowledge argument, explanatory gap, and modal arguments
   into one logical structure.
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-09-10 02:34:01+00:00
+lastmod: 2026-10-02 11:58:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ Type-A physicalists claim zombies aren't genuinely conceivable — that fully un
 
 ### Type-B Physicalism: Deny the Conceivability-Possibility Link
 
-Type-B physicalists accept that zombies are conceivable but deny they are metaphysically possible. Just as water without H₂O is conceivable (given ignorance of chemistry) but impossible, consciousness without its physical basis may be conceivable but impossible.
+[Type-B physicalists](/concepts/type-a-type-b-and-type-c-physicalism/) accept that zombies are conceivable but deny they are metaphysically possible. Just as water without H₂O is conceivable (given ignorance of chemistry) but impossible, consciousness without its physical basis may be conceivable but impossible.
 
 **Cost**: The analogy with water/H₂O breaks down. We learned that water is H₂O through empirical discovery about what "water" refers to — we were ignorant of water's nature. With consciousness, we have [direct acquaintance](/concepts/phenomenal-acquaintance/) with the phenomenon. The conceivability of zombies doesn't reflect ignorance of what consciousness is; it reflects understanding that [qualitative experience](/concepts/qualia/) isn't the kind of thing structural descriptions capture. See [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) for detailed treatment of when conceivability warrants possibility claims.
 

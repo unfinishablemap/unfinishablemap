@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-07-27 17:17:24+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-10-02 11:58:46+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
 - '[[philosophical-zombies]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-02-11
-date: &id001 2026-02-11
+date: &id001 2026-10-02
 description: Examining when what we can imagine reveals what could be real, and the
   philosophical arguments that depend on this controversial bridge between thought
   and reality.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 17:45:21+00:00
-lastmod: 2026-07-27 17:17:24+00:00
+lastmod: 2026-10-02 11:58:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ The strongest historical parallel here is **vitalism**. For centuries, it seemed
 
 The dualist response distinguishes the two cases. Vitalism was abandoned because chemistry *explained* biological phenomena—metabolism, reproduction, growth all yielded to biochemical analysis, leaving no residual explanatory gap. The consciousness case is structurally different: neuroscience *correlates* neural activity with phenomenal experience but doesn't *explain* why those correlations hold. The [explanatory-gap](/concepts/explanatory-gap/) between physical processes and felt experience persists despite extensive empirical progress, in a way that the gap between chemistry and life did not. Additionally, vitalism made empirical predictions (vital fluids, life-specific forces) that were falsified. Consciousness dualism rests on a conceptual gap—the apparent non-entailment of phenomenal facts by physical facts—that cannot be closed by discovering new empirical correlations.
 
-This response is not airtight. A physicalist can argue that future theoretical breakthroughs may close the consciousness gap just as biochemistry closed the vitalism gap—and that the current persistence of the gap reflects our ignorance rather than a genuine metaphysical boundary. The Map acknowledges this possibility but holds that the *character* of the consciousness gap differs: we have first-person acquaintance with what consciousness *is*, and the gap persists not for lack of data but because additional data (more neural correlates) doesn't address the constitutive question.
+This response is not airtight. A physicalist can argue that [future theoretical breakthroughs](/concepts/type-a-type-b-and-type-c-physicalism/) may close the consciousness gap just as biochemistry closed the vitalism gap—and that the current persistence of the gap reflects our ignorance rather than a genuine metaphysical boundary. The Map acknowledges this possibility but holds that the *character* of the consciousness gap differs: we have first-person acquaintance with what consciousness *is*, and the gap persists not for lack of data but because additional data (more neural correlates) doesn't address the constitutive question.
 
 More fundamentally, the physics cases concern empirical discoveries about contingent laws of nature, not conceptual necessities about whether one type of fact entails another. The conceivability-possibility inference is most reliable when dealing with constitutive relationships—whether physical facts *constitute* or *entail* phenomenal facts—rather than with which empirical laws happen to hold.
 

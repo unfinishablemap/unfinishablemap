@@ -2,9 +2,9 @@
 title: "Dualism"
 description: "Dualism holds that consciousness is distinct from physical matter. Eight arguments converge on this conclusion—though not all of them proceed from independent premises."
 created: 2026-01-14
-modified: 2026-03-11
+modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-09-24T15:31:12+00:00
+ai_modified: 2026-10-02T11:58:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ related_articles:
   - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-07-19T19:03:13+00:00
@@ -135,7 +135,7 @@ No single argument establishes dualism conclusively, and the eight are not evide
 
 ## Physicalist Responses and Their Limits
 
-**Type-A Physicalism** denies the hard problem exists beyond the "easy problems"—but must explain why the hard problem *seems* real (the [[meta-problem-of-consciousness|meta-problem]]) without invoking phenomenal properties.
+**[[type-a-type-b-and-type-c-physicalism|Type-A Physicalism]]** denies the hard problem exists beyond the "easy problems"—but must explain why the hard problem *seems* real (the [[meta-problem-of-consciousness|meta-problem]]) without invoking phenomenal properties.
 
 **Type-B Physicalism** accepts the explanatory gap but denies metaphysical implications—consciousness is physical by a posteriori necessity. But this provides no positive account of *how* physical processes generate experience.
 

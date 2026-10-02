@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-07-28 15:13:54+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-02 11:58:46+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[dualism]]'
@@ -22,14 +22,14 @@ concepts:
 - '[[phenomenology]]'
 - '[[eliminative-materialism]]'
 created: 2026-01-14
-date: &id001 2026-01-20
+date: &id001 2026-10-02
 description: Why physicalism fails to explain consciousness. The explanatory gap,
   knowledge argument, and zombie conceivability reveal irreducible phenomenal properties.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 19:37:59+00:00
-lastmod: 2026-07-28 15:13:54+00:00
+lastmod: 2026-10-02 11:58:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ Physical descriptions are structural and relational. Qualia are neither. Materia
 
 ## The Materialist Response
 
-Materialists are not defenseless. Common responses:
+Materialists are not defenseless. [Common responses](/concepts/type-a-type-b-and-type-c-physicalism/):
 
 ### "Future Science"
 

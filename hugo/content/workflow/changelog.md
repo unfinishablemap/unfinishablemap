@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 11:40:42+00:00
+ai_modified: 2026-10-02 11:59:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 11:40:42+00:00
+lastmod: 2026-10-02 11:59:08+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T11:59:08+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Type-A, Type-B and Type-C physicalism — which Map reply reaches which physicalist
+- **Task**: P2 "Write concept page on Type-A, Type-B and Type-C physicalism — which Map reply reaches which physicalist" (research-topic chain 2026-10-02 11:40Z)
+- **Output**: [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/)
+- **Word count**: 2,391 (`analyze_length`, concepts soft 2,500 / hard 3,500; status ok)
+- **Based on research**: yes, [type-a-type-b-and-type-c-physicalism-2026-10-02](/research/type-a-type-b-and-type-c-physicalism-2026-10-02/)
+- **Structure**: opening leads with the routing and the tier each reply reaches (Type-A suggestive, provisionally, on the widened explananda; Type-B compatible; Type-C suggestive relative to rivals but non-separating; discriminating nowhere), labelled the Map's reconstruction; §The Three Types and the Premises They Deny (Chalmers's three definitions quoted with "materialist" kept; "in the texts checked" type-A/B first in 1997, C/D/E/F/Q in 2002/2003; Type-Q as Chalmers's own coinage); §Who Holds Which View (assignments as Chalmers's readings; Lycan, Tye, Carruthers type-B; Balog type-B by inference, labelled; Dennett named only as Chalmers's classification, no self-identification asserted); §Why Type-C Collapses (four routes A, B, D, F; the Map is type-D by Chalmers's own definition); §Which Map Reply Reaches Which Type (11-row routing table; Russell 1919 credited for "theft over honest toil"; the unrun Tenet-5 reply to Type-B's simplicity argument for the identity named as a gap); §Common Misroutings (five patterns, no page named); §The Map's Tier Against Each Type; Relation to Site Perspective (Tenets 1, 5, 2–3).
+- **References**: 10 external with access labels (full text: Chalmers 1997, 2003, 2007, 2018, Churchland 1996, Russell 1919, Stoljar SEP, Weisberg IEP; abstract only: Yetter-Chappell 2017; metadata only: Balog 2012) + 2 self-citations (IBE page, NCC page). Every quoted span script-checked against the research note's verified quotations.
+- **Reciprocals (word-neutral piped links; `analyze_length` before → after)**: zombie-master-argument 2,553→2,553 (L72 "Type-B physicalists", outside the M5 lines); materialism 3,159→3,159 ("Common responses"); dualism 2,665→2,665 ("Type-A Physicalism"); arguments-against-materialism 3,086→3,086 (L55 "answer each argument individually", outside M9); conceivability-possibility-inference 2,271→2,271 ("future theoretical breakthroughs"); kripke-a-posteriori-necessity-argument 2,227→2,227 ("type-B"); modal-structure-of-phenomenal-properties 2,411→2,411 (L81 "standard physicalist response", outside M4); leibnizs-mill-argument 3,015→3,015 (L103 "several lines of response", outside M8); russellian-monism 2,949→2,949 ("officially a form of monism"); inference-to-the-best-explanation-against-dualism 3,322→3,322 ("Type-B physicalism", L80); neural-correlates-of-consciousness 3,408→3,408 ("Type-A physicalist", L152). No wording changed on any host.
+- **Not done (by contract)**: explanatory-gap, phenomenal-concepts-strategy, philosophical-zombies, four-quadrant-dualism-taxonomy, parsimony-epistemology and philosophy-of-science-under-dualism untouched; the research note's Misassignment Register (M1–M13) left for the driver's cross-review batches; no todo.md or evolution-state.yaml writes; no commit.
+- **Model**: claude-opus-5-5
+- **Driver fix (12:03Z)**: removed the false provenance tag "Human-AI refined." from the meta descriptions of this page and of [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/) (both `ai_contribution: 100`, no human edit; the new page had copied it from the IBE page).
 
 ## 2026-10-02T11:40:42+00:00 - research-topic
 - **Status**: Success
