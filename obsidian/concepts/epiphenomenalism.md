@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification bur
 created: 2026-01-09
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-10-01T02:44:14+00:00
+ai_modified: 2026-10-02T03:38:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ coalesced_from:
   - "/concepts/arguments-against-epiphenomenalism/"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-06-21T00:00:00+00:00
@@ -194,7 +194,7 @@ Mental states are defined by their causal roles—epiphenomenal qualia are defin
 
 ### From Panpsychism
 
-Consciousness is fundamental and ubiquitous, built into the causal structure of reality. Cost: accepting that electrons have experiences. Goff (2018, abstract) notes a further cost: if introspection reveals the essence of conscious states yet does not reveal them as essentially causal, Revelation is "a source of pressure in direction of epiphenomenalism"—see [[revelation-thesis|Revelation]].
+Consciousness is fundamental and ubiquitous, built into the causal structure of reality. Cost: accepting that electrons have experiences. Goff (2018, abstract) notes a further cost: if introspection reveals the essence of conscious states yet does not reveal them as essentially causal, Revelation is "a source of pressure in the direction of epiphenomenalism"—see [[revelation-thesis|Revelation]].
 
 ## Assessment
 

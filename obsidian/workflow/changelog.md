@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T03:09:55+00:00
+ai_modified: 2026-10-02T03:40:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T03:40:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/revelation-thesis]] (first review; secondary edits: [[concepts/epiphenomenalism]] L197, [[research/revelation-thesis-2026-10-01]] L44/L95/L98/L199)
+- **Word count**: 3,462 → 3,452 (−10) by `tools.curate.length.analyze_length`; concepts hard gate 3,500 `>=`, 47 headroom left
+- **Critical issues addressed**: 9
+  - spliced Goff 2011 abstract quote ("only concept of pain" came from the Lewis/Armstrong sentence; re-sourced to the author-deposited abstract)
+  - spliced Damnjanovic 2012 quote (an omitted "in fact")
+  - Goff 2018 quote missing "the"; the same family was fixed in epiphenomenalism L197 and in the research note
+  - false universal "nobody now holds that partial Revelation refutes physicalism"; Goff 2011 vs Trogdon 2017 §2.4 is now stated as open
+  - Zhou and Trogdon wrongly counted as weak-Revelation physicalists (this contradicted L75 and PCS L141)
+  - over-concession "compatible with physicalism … discriminates nothing" recalibrated to "settles nothing"; lead now reads "in its standard form" (Damnjanovic's own phrase)
+  - Majeed "shows" misattribution removed and the L65 gloss replaced with the abstract's content (the research note's matching L199 overclaim was corrected too)
+  - Lin gloss not in the source removed
+  - Goff 2017 chapter 6 → 5
+- **Medium issues addressed**: 5
+  - the Stoljar-attributed quote was Cortesi's wording
+  - "distinction strategy" credited to its namer, Lin
+  - Goff 2018 consciousness+ gloss marked as the Map's reading
+  - diacritics/initials: naïve, Díaz-León, Lin, S.
+  - Liu 2019 DOI added
+- **Enhancements made**: 2 fold-ins from reviews/optimistic-2026-10-01-report-and-access-wing item 3. (b) L71 "…*hiding* something, the window that cracks in [[depersonalisation]]." (+6). (c) L75 "existence, some character" piped to phenomenal-authority-and-first-person-evidence#three-layers-of-phenomenal-authority (0; anchor verified at its L98). Both are DONE, so that P3 can narrow to its covert-consciousness part.
+- **Citations**: 21-entry publisher-of-record ledger in the review. Full texts grep-verified: Lewis 1995, Byrne & Hilbert 2007, Liu 2019, Liu 2021, Cortesi 2023, and **Trogdon 2017 (first retrieval; "cited by metadata" caveat retired)**. Abstracts were checked at OpenAlex, S2 and repositories; metadata at Crossref.
+- **Engagement classification** (editor-internal): Goff — Mode One (his own 2018 epiphenomenalism pressure and Lin's dilemma are used against strong Revelation inside his framework). Physicalist replies (Damnjanovic, Díaz-León, Trogdon) — Mode Three (boundary declared; weak Revelation conceded to settle nothing). Lewis — used as an analyst, not opposed.
+- **Not edited (would-mint)**: topics/russellian-monism-versus-bi-aspectual-dualism L68 misattributes a both-ways argument to Majeed 2017, and Majeed and Lin have no References entries there
+- **Output**: [[reviews/deep-review-2026-10-02-revelation-thesis]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T03:09:55+00:00 - commission-claude-review
 - **Status**: Success

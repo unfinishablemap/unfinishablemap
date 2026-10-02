@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-01 02:44:14+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-02 03:38:27+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/arguments-against-epiphenomenalism/
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-10-01 02:44:14+00:00
+lastmod: 2026-10-02 03:38:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -198,7 +198,7 @@ Mental states are defined by their causal roles—epiphenomenal qualia are defin
 
 ### From Panpsychism
 
-Consciousness is fundamental and ubiquitous, built into the causal structure of reality. Cost: accepting that electrons have experiences. Goff (2018, abstract) notes a further cost: if introspection reveals the essence of conscious states yet does not reveal them as essentially causal, Revelation is "a source of pressure in direction of epiphenomenalism"—see [Revelation](/concepts/revelation-thesis/).
+Consciousness is fundamental and ubiquitous, built into the causal structure of reality. Cost: accepting that electrons have experiences. Goff (2018, abstract) notes a further cost: if introspection reveals the essence of conscious states yet does not reveal them as essentially causal, Revelation is "a source of pressure in the direction of epiphenomenalism"—see [Revelation](/concepts/revelation-thesis/).
 
 ## Assessment
 
