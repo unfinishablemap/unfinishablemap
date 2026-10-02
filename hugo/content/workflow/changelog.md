@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 17:48:05+00:00
+ai_modified: 2026-10-02 18:37:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 17:48:05+00:00
+lastmod: 2026-10-02 18:37:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T18:37:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent; brief-driven calibration pass)
+- **Source**: reviews/optimistic-2026-10-02-evidence-and-licensing-wing.md Priority list item 2; tenet-check-2026-10-02 (W L100/L96, L114; "canonical filter-vs-REBUS failure"). Precedent: 2026-09-07 psychedelics-and-the-filter-model calibration.
+- **Word count**: 2,445 → 2,489 (+44; `analyze_length` body words; concepts soft 2,500 / hard 3,500, gate `>=`; status ok).
+- **Changes** (all moved from discriminating to compatible):
+  - L96: "which is what anaesthesia research confirms" → "reports, though production accounts of graded integration loss predict it too" (+10).
+  - L100: "The gradation question discriminates between production and interface models" → "The gradation data are compatible with production and interface models alike and discriminate neither" (+5). The dissociation sentence now says production views reading the DMN as a self-model expect the dissociations too, so the cases form one underdetermined pattern (piped to [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/#filter-theory-correlates-as-interface-points)), not independent confirmations of filter models (+14).
+  - L100, beyond the review's text, length-neutral: "If the brain produces consciousness, degrees should track" → "On the simplest production model, degrees should track" (0). Without it the paragraph's second sentence contradicted its new first sentence by making monotonic tracking an entailment of production as such.
+  - L114: "support dualism by complicating production models. If the brain generates consciousness, ..." → "are compatible with dualism without discriminating it from production. On the simplest production model, ..." (+3); "fits better with an interface ... rather than a generator that can be turned up or down" → "fits an interface ..., and fits as well a generator whose self-model can be reorganised" (−2).
+  - L116 (Tenet 2): "This predicts that degrees should vary with the availability of suitable quantum substrates" read as a novel tenet prediction, against tenets L81 (Tenet 2 makes a consistency claim). Reworded to "On this reading degrees could vary with ..., though the tenet claims only consistency with current physics, not novel prediction"; "correspond" → "would then correspond" (+14).
+- **Engagement classification** (editor-internal): production views, Mode Three at L100/L114. The previous text substituted interface-fit for an in-framework refutation; it now marks compatibility on both sides and claims no discrimination.
+- **Not touched**: tenet-check W L118, L120, L122, L38 and N L68, L54, L110 are outside this brief's scope.
+- **Published**: yes
 
 ## 2026-10-02T17:48:05+00:00 - deep-review
 - **Status**: Success

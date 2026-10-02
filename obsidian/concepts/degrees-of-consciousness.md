@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just kind. Gra
 created: 2026-03-20
 modified: 2026-09-06
 human_modified:
-ai_modified: 2026-10-01T23:53:50+00:00
+ai_modified: 2026-10-02T18:37:41+00:00
 last_deep_review: 2026-07-16T09:58:42+00:00
 draft: false
 topics:
@@ -93,11 +93,11 @@ IIT's prediction is striking: degrees of consciousness extend continuously downw
 
 The Map's [[filter-theory|filter framework]] offers a natural account of degrees. If the brain transmits and constrains consciousness rather than generating it, then variation in the interface explains variation in experience. A well-functioning interface transmits rich, intense, complex experience. A partially disrupted interface (anaesthesia, sleep, brain damage) transmits reduced experience. A fully disrupted interface transmits nothing — not because consciousness ceases to exist, but because its manifestation through physical systems is blocked.
 
-This predicts specific gradation patterns. Interface disruption should produce graded reduction, not sudden disappearance — which is what anaesthesia research confirms. It also predicts that reducing constraint can *increase* experience in some dimensions, as when psychedelics reduce default mode network filtering and produce overwhelming phenomenal intensity — the "reducing valve" opened wider.
+This predicts specific gradation patterns. Interface disruption should produce graded reduction, not sudden disappearance — which is what anaesthesia research reports, though production accounts of graded integration loss predict it too. It also predicts that reducing constraint can *increase* experience in some dimensions, as when psychedelics reduce default mode network filtering and produce overwhelming phenomenal intensity — the "reducing valve" opened wider.
 
 ### Emergence vs. Interface
 
-The gradation question discriminates between production and interface models. If the brain produces consciousness, degrees should track neural complexity in a roughly monotonic fashion — more complexity, more consciousness. But the empirical pattern is more complex. Psychedelics reduce default mode network connectivity and increase neural entropy — markers of reduced large-scale organisation — while intensifying phenomenal experience. Deep meditation reduces cognitive complexity while preserving or intensifying phenomenal clarity. These dissociations between neural organisation and experiential intensity are difficult for straightforward production models but predicted by filter models where reduced constraint can increase transmission.
+The gradation data are compatible with production and interface models alike and discriminate neither. On the simplest production model, degrees should track neural complexity in a roughly monotonic fashion — more complexity, more consciousness. But the empirical pattern is more complex. Psychedelics reduce default mode network connectivity and increase neural entropy — markers of reduced large-scale organisation — while intensifying phenomenal experience. Deep meditation reduces cognitive complexity while preserving or intensifying phenomenal clarity. These dissociations are difficult for a production model that ties intensity to complexity; production views reading the default mode network as a self-model expect them too, so the cases form [[neural-correlates-of-consciousness#filter-theory-correlates-as-interface-points|one underdetermined pattern]], not independent confirmations of filter models.
 
 ## The Lower Bound Problem
 
@@ -111,9 +111,9 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Degrees of consciousness support dualism by complicating production models. If the brain generates consciousness, gradation should correlate straightforwardly with neural complexity. The empirical pattern — where reduced neural activity sometimes produces intensified experience — fits better with an interface that can be opened or narrowed rather than a generator that can be turned up or down.
+**[[tenets#^dualism|Dualism]]**: Degrees of consciousness are compatible with dualism without discriminating it from production. On the simplest production model, gradation should correlate straightforwardly with neural complexity. The empirical pattern — where reduced neural activity sometimes produces intensified experience — fits an interface that can be opened or narrowed, and fits as well a generator whose self-model can be reorganised.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The degree of consciousness may reflect the bandwidth of the quantum interface — how many collapse events per unit time consciousness can influence, or how precisely it can bias outcomes. Higher degrees of consciousness correspond to richer interface engagement; lower degrees to narrower channels. This predicts that degrees should vary with the availability of suitable quantum substrates in neural tissue — and if [[interface-heterogeneity|interface heterogeneity]] holds, the coupling mechanism itself may differ across species, not just its bandwidth.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The degree of consciousness may reflect the bandwidth of the quantum interface — how many collapse events per unit time consciousness can influence, or how precisely it can bias outcomes. Higher degrees of consciousness would then correspond to richer interface engagement; lower degrees to narrower channels. On this reading degrees could vary with the availability of suitable quantum substrates in neural tissue, though the tenet claims only consistency with current physics, not novel prediction — and if [[interface-heterogeneity|interface heterogeneity]] holds, the coupling mechanism itself may differ across species, not just its bandwidth.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences the physical world, the degree of that influence may itself be graded. Intense conscious engagement (deliberate effort, focused attention) may involve more interface events than passive awareness. The [[phenomenology-of-agency-vs-passivity|phenomenology of agency]] supports this: effortful choice feels different from passive observation, suggesting different degrees of causal engagement.
 
