@@ -317,10 +317,15 @@
   prompt_summary: Hostile referee audit of concepts/neural-correlates-of-consciousness
     (2020-25 lit, 5+ weaknesses)
   target_filename: outer-review-2026-10-01-gemini-2-5-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 7
-  last_attempt_at: '2026-10-01T06:53:28.332742+00:00'
-  failure_reason: null
+  last_attempt_at: '2026-10-02T01:23:50.172013+00:00'
+  failure_reason: 'Deep Research turn stalled: at 2026-10-02T01:23Z (~21h after commission,
+    past the 4h cutoff) the page still showed ''Researching 23 websites...'' with
+    a live Stop response button, the last thinking step ''Extracting Document Content
+    for Technical Review'' unchanged since the 2026-10-01T06:53Z attempt, and no h1-bearing
+    report panel (third markdown panel empty, 0 chars); no ''Something went wrong''
+    or other user-facing error line. Not resubmitted.'
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.
     Your remit is to identify weaknesses that would justify rejection or major revision.
