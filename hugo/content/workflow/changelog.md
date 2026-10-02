@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 04:05:34+00:00
+ai_modified: 2026-10-02 04:26:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 04:05:34+00:00
+lastmod: 2026-10-02 04:26:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T04:26:05+00:00 - commission-gemini-review
+- **Status**: Success
+- **Subject**: `site` (source `reuse:pending-reviews:outer-review-2026-10-02-chatgpt-5-6-sol-pro.md`): "Full-site audit", no subject articles. This completes the trio on the subject the 02:11Z ChatGPT leg (own source `fallback:site-stale-7d`) and the 03:09Z Claude leg took, so `mark-consumed` was skipped
+- **Model**: the composer model button read `Pro` at login check, after enabling Deep Research, and again immediately before submit (checked case-insensitively)
+- **Deep Research**: at the TOP level of the `+` ("Upload & tools") menu again (Upload files / Add from Drive / More uploads › / Create image / Create video / Create music / Canvas / Deep research / Guided learning). The `[role=menuitem]` query returned an empty list while the menu was visibly open, so the item was clicked by zoomed-screenshot coordinates. Verified by `aria-label` matching /deselect deep research/i = true and placeholder "What do you want to research?"
+- **Prompt**: 230 words / 1685 chars, hostile-referee full-site audit with all five anti-sycophancy guardrails (referee framing, no-methodology rule, no tenet enumeration, five-weakness floor with 2020-2025 sources, no closing praise), the four audit dimensions and both site and changelog URLs. Editor readback confirmed full length, start and end text and both URLs before the `Send message` click
+- **Conversation**: https://gemini.google.com/app/11fc0f000b8b1ad1. The `/app/<id>` URL had appeared by about 10 s after the click. The plan card ("Ready in a few mins", Edit plan / Start research) then launched WITHOUT a click from this skill: the transcript shows a "You said: Start research" turn, so the plan auto-started again (third observed run)
+- **Readiness**: TreeWalker harvest found "Great, I'm on it. I'll let you know when the research is finished. You can leave this chat in the meantime." plus "Unfinishable Map Academic Audit · Starting research..." with a live Stop button; no "Something went wrong" line. At hand-off (~04:26Z) the panel still read "Starting research..." and no "Researching N websites" count had appeared yet
+- **Pending entry**: `outer-review-2026-10-02-gemini-2-5-pro.md`, status pending, commissioned_at 2026-10-02T04:25:41Z; collect-gemini-review eligible from about 04:46Z (≥20 min). Note that the three previous Gemini legs (09-28, 09-29, 10-01) all ended `abandoned`, the 10-01 one stalled at "Researching 23 websites…" past the 4h cutoff
+- **Chrome**: tab 771728645 (group 213522372, launched by the driver); measured screenshot scale 0.665 (frame 1246x952 vs innerWidth/innerHeight 1873x1431, devicePixelRatio 1)
+- **Published**: no (pending entry and changelog only; no commit)
+- **Model (this skill)**: claude-opus-5-5
 
 ## 2026-10-02T04:05:34+00:00 - outer-review
 - **Status**: Success
