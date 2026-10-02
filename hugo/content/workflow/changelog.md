@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 10:53:07+00:00
+ai_modified: 2026-10-02 11:40:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 10:53:07+00:00
+lastmod: 2026-10-02 11:40:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T11:40:42+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Type-A, Type-B and Type-C physicalism (Chalmers's A/B/C taxonomy)
+- **Task**: P2 "Research Type-A, Type-B and Type-C physicalism" (harvest 2026-10-02; [optimistic-2026-10-02-evidence-and-licensing-wing](/reviews/optimistic-2026-10-02-evidence-and-licensing-wing/) Priority item 4)
+- **Output**: [type-a-type-b-and-type-c-physicalism-2026-10-02](/research/type-a-type-b-and-type-c-physicalism-2026-10-02/) (8,315 words by `analyze_length`)
+- **Sources consulted**: 25 (10 full text: Chalmers 1997, 1999, 2003, 2007, 2018; P. S. Churchland 1996; IEP Weisberg; SEP Physicalism; SEP Zombies; Russell 1919. 2 abstract-only: Yetter-Chappell 2017, Balog 1999. 13 metadata-only via Crossref). Every source quotation re-checked by script against the fetched texts. PhilPapers returned 403 throughout.
+- **Verdict (assess-first)**: a concept page `type-a-type-b-and-type-c-physicalism` is warranted at 2,200–2,400 words, leading with the Map's reply-to-type routing. Every natural host is at or over its gate: explanatory-gap 3,493 (6 headroom), phenomenal-concepts-strategy 3,477 (22), philosophical-zombies 3,475 (24), four-quadrant-dualism-taxonomy 4,003 (over). Materialism (340 headroom) could take a definitional paragraph but not the routing. "Type-B" is in 28 files and "Type-A" in 8, with no defining page. Concepts 341/360.
+- **Type-C collapse (lead settled)**: Chalmers 2003 §7, verbatim, says type-C "must collapse into a version of type-A materialism, type-B materialism, type-D dualism, or type-F monism". That is four types: the brief's "A, B or F" omits D and the review's "A, B or D–F" wrongly adds E. Route 2 (physics "appealing to consciousness itself, in the way that some theorists hold that quantum mechanics does") is classed as type D or F, the Map's own category. Labels: type-A/B first verified in Chalmers 1997 (JCS 4(1)); type-C/D/E/F/Q in 2002/2003; "type-Q" is Chalmers's own coinage; "theft over honest toil" is Russell 1919.
+- **Misassignments**: 2 already tasked (parsimony-epistemology L90, plus untasked L146 to batch into it; philosophy-of-science-under-dualism L100/L118). 11 untasked: explanatory-gap L135 (persistence argument against Type-B, contradicting NCC L142; HIGH, 6 headroom); zombie-master-argument L34/L76–82 ("Chalmers's taxonomy covers Type-A and Type-B" false; "Type-Q is not standard nomenclature" false; the position described is Type-F; ratified by at least 6 prior reviews; HIGH); modal-structure L83; philosophical-zombies L87–91; parsimony-case L75/L81; leibnizs-mill L111; arguments-against-materialism L73–82/L115; knowledge-argument L84 (a Type-B defence aimed at a master argument that assumes nothing about conceivability→possibility); reductionism L152; epistemology L57; consciousness-defeats-explanation L142.
+- **Tiers**: against Type-A *suggestive* (provisional, widened set only); against Type-B *compatible*; against Type-C *suggestive* relative to its rivals and compatible between dualism and physicalism; *discriminating* nowhere.
+- **Not done (by contract)**: no task_chains, todo.md or evolution-state.yaml writes; no article edits.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T10:53:07+00:00 - optimistic-review
 - **Status**: Success
