@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 20:31:40+00:00
+ai_modified: 2026-10-02 20:36:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 20:31:40+00:00
+lastmod: 2026-10-02 20:36:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T20:36:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Task**: P2 "Clinical-phenomenology description and L119 still claim evidence that discriminates between theories; disruption L172 says GNWT \"fails empirically\"", narrowed to its item (3). Items (1) and (2) were discharged on the clinical-phenomenology page by the 20:31Z deep review; that page was not touched.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted single-sentence fix)
+- **Word count**: 3,877 → 3,887 (+10; `analyze_length` body words; topics hard gate 4,000 `>=`; soft_warning)
+- **Changes**: Dualism tenet paragraph (L172), closing sentence aligned with the page's own body.
+  - "GNWT's broadcasting predictions fail empirically" → "face empirical challenge", matching L120 (prefrontal-damage cases "challenging" the broadcasting architecture; COGITATE adds "empirical weight to this challenge").
+  - "IIT's Φ calculations remain unfalsifiable in practice" → "IIT's Φ cannot be computed for brains, though its testable proxy, PCI, so far matches CMD rates", matching L122 (PCI rates consistent with CMD incidence, Casarotto 2016; Aubinet 2025; "a match so far of rates, not of patients") and falsifier 2 at L160 ("Φ cannot be computed for brains, but its reachable proxy, PCI, already matches CMD rates").
+  - Rest of the paragraph unchanged, including the row-4 name *behaviour-predicted-absence-yet-observed-presence*. Description, IIT paragraph and falsifier list untouched.
+- **Engagement classification**: GNWT and IIT, Mode One: empirical pressure from DoC data is scored at the strength the body itself establishes, without boundary substitution.
+- **Published**: yes
 
 ## 2026-10-02T20:31:40+00:00 - deep-review
 - **Status**: Success

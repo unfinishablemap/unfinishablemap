@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-10-02 14:39:41+00:00
+ai_modified: 2026-10-02 20:36:46+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:05:43+00:00
-lastmod: 2026-10-02 14:39:41+00:00
+lastmod: 2026-10-02 20:36:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -173,7 +173,7 @@ The filter/interface interpretation would face serious difficulty if:
 
 The Map's [tenets](/tenets/) converge on consciousness disruption as a domain the dualist-interactionist framework accommodates naturally, though production accounts accommodate the same cases by parallel moves.
 
-**[Dualism](/tenets/#dualism)**: The DoC cases instantiate one evidential pattern—*behaviour-predicted-absence-yet-observed-presence*—rather than three independent confirmations of dualism, and they should be counted as one. The propofol/ketamine divergence shows identical behavioural unresponsiveness correlating with radically different phenomenologies—extinction versus vivid experience. CMD patients follow commands on fMRI or EEG but not at the bedside, indicating [probable consciousness](/topics/covert-consciousness-and-cognitive-motor-dissociation/) behind disrupted motor output. Hemispherectomy patients retain consciousness despite losing half their cortex. These are three expressions of a single signature: consciousness appearing where behavioural or subtraction inference predicts its diminution or absence. The filter theory accommodates the pattern by treating brain states as configuring an interface rather than generating consciousness—but the production theorist accommodates the same cases by parallel moves, treating each as a localised disruption of a still-intact generator (see the [anesthesia](#anesthesia-different-drugs-different-realities) and [brain-damage](#brain-damage-disconnection-rather-than-destruction) sections above). The cluster therefore carries the evidential weight of one pattern, not three, and cannot honestly be cited as multiple independent confirmations; the discriminating work, where it can be done, comes from broader theoretical considerations rather than from a tally of cases. Tested against DoC evidence, GNWT's broadcasting predictions fail empirically and IIT's Φ calculations remain unfalsifiable in practice, while CMD neither strains functionalism nor yet tests higher-order theories.
+**[Dualism](/tenets/#dualism)**: The DoC cases instantiate one evidential pattern—*behaviour-predicted-absence-yet-observed-presence*—rather than three independent confirmations of dualism, and they should be counted as one. The propofol/ketamine divergence shows identical behavioural unresponsiveness correlating with radically different phenomenologies—extinction versus vivid experience. CMD patients follow commands on fMRI or EEG but not at the bedside, indicating [probable consciousness](/topics/covert-consciousness-and-cognitive-motor-dissociation/) behind disrupted motor output. Hemispherectomy patients retain consciousness despite losing half their cortex. These are three expressions of a single signature: consciousness appearing where behavioural or subtraction inference predicts its diminution or absence. The filter theory accommodates the pattern by treating brain states as configuring an interface rather than generating consciousness—but the production theorist accommodates the same cases by parallel moves, treating each as a localised disruption of a still-intact generator (see the [anesthesia](#anesthesia-different-drugs-different-realities) and [brain-damage](#brain-damage-disconnection-rather-than-destruction) sections above). The cluster therefore carries the evidential weight of one pattern, not three, and cannot honestly be cited as multiple independent confirmations; the discriminating work, where it can be done, comes from broader theoretical considerations rather than from a tally of cases. Tested against DoC evidence, GNWT's broadcasting predictions face empirical challenge; IIT's Φ cannot be computed for brains, though its testable proxy, PCI, so far matches CMD rates; and CMD neither strains functionalism nor yet tests higher-order theories.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The bridge from the reboot evidence to a quantum interface is not licensed by the clinical data alone; it holds only on the prior Map commitment that the consciousness-brain coupling is realised at the quantum scale (developed in [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)). Granting that prior, the coordinated reboot is compatible with the brain re-establishing an interface, though production accounts accommodate it equally. CMD, however, does not bound the interface's extent: it is associated with [preserved cortical connectivity and thalamocortical function](/topics/covert-consciousness-and-cognitive-motor-dissociation/#the-physicalist-reading-at-full-strength), not widespread damage (Laigaard et al., 2026; Franzova et al., 2023).
 
