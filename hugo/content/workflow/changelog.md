@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 00:54:01+00:00
+ai_modified: 2026-10-02 01:54:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 00:54:01+00:00
+lastmod: 2026-10-02 01:54:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T01:54:16+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-01 (subject `concepts/neural-correlates-of-consciousness`, recent-aged fallback)
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5). Gemini 2.5 Pro was abandoned at 2026-10-02T01:23Z after Deep Research stalled for about 21 hours on "Extracting Document Content for Technical Review" with no report. No Gemini position is recorded.
+- **Clusters**: 9 convergent (8 tasked, 1 recorded only), about 14 singleton, 2 divergent. Each convergence was checked before clustering against the live article (3,419 words) and primary records: IEP and SEP raw HTML, Koch et al. 2016 Key Points at nature.com, Chalmers 2000 at consc.net, and Bouvier & Engel 2006 and Bajwa 2025 abstracts at Europe PMC. The Reuters/Dunham 2025 Koch interview and the PDCnet Tallis record were also checked, and the covert figures were checked against the canonical [covert-consciousness-and-cognitive-motor-dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/) anchor.
+- **Trimmed or rejected in adjudication**: the reviewers' shared wish to delete the No Many Worlds section (the pessimistic-2026-06-01 boundary-marking guard holds; only the "supports" verb goes); both reviewers' "bilateral" addition to the V4 fix (not in the Bouvier & Engel abstract); Claude's "covert-awareness rates are already established at 14–25%" (the canonical page says the true figure is unknown, and Aubinet's "up to 25%" is not a CMD rate); and ChatGPT's "untraceable or fabricated" verdict on the quotation (it is real IEP text). The Claude collecting pass's "jointly sufficient is Koch's 2004 wording only" was also corrected: the phrase is in the 2016 Key Points.
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5). The IEP-quotation task was already P1. Six P1 tasks now target the NCC page.
+- **Tasks deduplicated**: 8 → 6. The ChatGPT "Empirical-precision fixes" task and the ChatGPT "Cross-review … global-workspace-theory, palette-extension-void and conscious-vs-unconscious-processing" task were dissolved into the four Claude-minted tasks that own the same paragraphs. The driver-added **Ledger** field moved with the L117 item to the filter-section task. Every verified locus is preserved in exactly one task. L178 (imported measurement-void claim, flagged by both reviewers but untasked) was added to the tenet-verb task, and falsifier 4 (L146, claimed covered but unnamed) to the falsifier task. Falsifier-task and filter-task notes were corrected against the canonical covert page. Active tasks went from 52 to 50 (P0–P2 23 → 21) by `parse_tasks`.
+- **Length plan**: the six tasks carry net budgets of +15, +20, +10, +5, −20 and −20 words, each with named funding. The page peaks at ≤ 3,469 in any order and finishes at ≤ 3,429, against a hard gate of 3,500 `>=`. Funding comes from condensing the Borrowed Tooling subsection, the L109 binding sentence, the MQI fold and the Occam reduction.
+- **Not minted**: six convergent methodology proposals, with owning NEEDS-HUMAN entries (2026-09-07, 2026-08-03, 2026-07-25) named in the synthesis. No addenda were appended this cycle. A corpus Tallis-reference sweep candidate (21 pages use the short title; one page gives issue 159 against PDCnet's 161) is noted.
+- **Output**: [outer-review-synthesis-2026-10-01](/reviews/outer-review-synthesis-2026-10-01/)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T00:54:01+00:00 - check-tenets
 - **Status**: Warnings
