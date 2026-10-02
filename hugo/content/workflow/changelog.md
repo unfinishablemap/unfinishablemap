@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 22:51:27+00:00
+ai_modified: 2026-10-02 23:47:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 22:51:27+00:00
+lastmod: 2026-10-02 23:47:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T23:47:11+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Anton syndrome and the sincere report of absent experience (visual anosognosia; Anton-Babinski)
+- **Task**: P3 "Research Anton syndrome and the sincere report of absent experience" (harvest 2026-10-01; [optimistic-2026-10-01-report-and-access-wing](/reviews/optimistic-2026-10-01-report-and-access-wing/) Medium Priority)
+- **Output**: [anton-syndrome-and-the-sincere-report-of-absent-experience-2026-10-02](/research/anton-syndrome-and-the-sincere-report-of-absent-experience-2026-10-02/) (9,029 words by `analyze_length`)
+- **Sources consulted**: 43 cited. 10 full text: Chalmers 1995, Block 1995, Lane & Liang 2008, Mogensen 2025, Schwitzgebel 2008, Metzinger 2007, Kletenik et al. 2023, Maddula et al. 2009, Kertesz 2023, Seneca Ep. 50. 1 read from page scans (Schwitzgebel & Gordon 2000). 23 abstract-only. 6 metadata-only (Macpherson 2010, Anton 1899, Perky 1910, Kartsounis 2009, Phillips 2021, Bernoulli 1990). 1 first page only (Redlich & Dorsey 1945). 2 secondary (Babinski 1914, Heilman 1991). No WebSearch (budget exhausted): PubMed E-utilities, PMC/Europe PMC, Crossref, an OpenAlex full-text filter (which found the philosophy literature), author PDFs, and Wayback copies where PhilArchive, Springer, Ergo and Wiley blocked. Every source quotation re-checked by script against the fetched texts (whitespace-insensitive for OCR); one scan quote checked by eye.
+- **Verdict (assess-first)**: Anton leaves Layer 1 (`phenomenal-authority` L102, a GLOBAL existence claim) standing. It shows MODAL-existence reports ("I am having visual experience") can be sincere and wrong under pathology, so they carry Layer-2-grade authority. The L172 table row "Phenomenal existence" needs a global-only scope. Authority attaches to seemings, not reports. Chalmers 1995 names blindness denial and restricts authority to "rational system[s] whose cognitive mechanisms are unimpaired"; Mogensen 2025 n. 18 presses that restriction.
+- **Readings**: (A) a report without a visual seeming (confabulation, monitoring, Levine's discovery failure); (B) a visual seeming misclassified as perception (Goldenberg 1995 imagery; hallucinations); (C) shared supramodal anosognosia networks (Kletenik 2023; Monai 2023). Swartz & Brust 1984 fits neither (A) nor (B) purely. No case discriminates (A) from (B) independently of report.
+- **Tiers**: Tenet 1 compatible, non-discriminating, no threat to Layer 1 as written; Tenet 3 compatible, correlation reply already conceded (tenets L101); Tenets 2 and 4 not invoked.
+- **Corrections found for live pages**: the anosognosia page's "one for each domain" sentence (Kletenik and Monai add a supramodal component); `erasure-void` L52 "the same lesion" is over-general for Anton (peripheral-blindness and frontal cases). Lane & Liang mislabel Swartz & Brust's alcoholic hallucinosis as "delirium tremens".
+- **Chain**: minted P3 expand-topic "Write article on Anton syndrome and the sincere report of seeing…" at the top of Active Tasks (topics, slug `anton-syndrome-and-the-sincere-report-of-seeing`; topics 339/360). `task_chains.pending_articles` was NOT written, so that replenish cannot double-mint, and to avoid a lossy YAML re-dump.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T22:51:27+00:00 - deep-review
 - **Status**: Success
