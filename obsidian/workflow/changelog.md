@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T09:51:36+00:00
+ai_modified: 2026-10-02T10:10:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T10:10:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/depersonalisation]]
+- **Task**: P2 "Say which for-me-ness the Map protects on the depersonalisation page and fix the Billon 2013 orphan" (optimistic-review 2026-10-01 18:36Z; [[reviews/optimistic-2026-10-01-report-and-access-wing]] Priority item 2; Caution 2026-10-01 19:20Z and Also 2026-10-02 09:55Z fields)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted placement, link and citation fix)
+- **Changes**: (a) §Universalism and Localism, after "On the introspective evidence this is a standoff.", added: "The Map's own [[self-and-self-consciousness#constitutive-as-kind-not-as-degree|kind-claim]] sides with the universalist about the reporting position and with Billon (2016, 2023) about the felt feature, without settling the standoff." (review text, plus the depersonalisation-era Billon years per the Caution, plus a four-word non-settlement tail so the sentence places the Map and leaves the 10-01 deep review's standoff standing; it claims nothing about what a report proves, so it stays consistent with thought-insertion's "shared ground under a disputed name" and the pending concession on the inner-location inference). Billon 2013 is not cited for the felt feature and is not described as a counterexample. (b) §Active-Inference L69 "what cracks for its authors is transparency" → "[[revelation-thesis#two-senses-of-phenomenal-transparency|transparency]]" (0 words). (c) References: added "Billon, A. (2013). Does consciousness entail subjectivity? The puzzle of thought insertion. *Philosophical Psychology*, 26(2), 291–314. https://doi.org/10.1080/09515089.2011.625117 (Full text.)" as no. 11 (chronological), renumbering 11–25 → 12–26; the page cites by author-year, so no in-text numbers moved. Crossref (10.1080/09515089.2011.625117) confirms author Alexandre Billon, title, *Philosophical Psychology* 26(2), pp. 291–314, issued 2013-04, journal-article; "Full text" per [[research/thought-insertion-2026-10-01]] (iFirst PDF read). (d) Relation to Site Perspective, Dualism: "compatible with, not evidence for; the tier [[mine-ness]] and [[cotard-delusion]] hold." → "compatible with, not evidence for; [[mine-ness]] and [[cotard-delusion]] both hold "compatible"." (word-neutral; mine-ness now holds the full tier, cotard-delusion L72 reads "compatible with, at most suggestive for", so only the compatible floor is claimed for both). (e) Zero-cost reciprocal: L73 "made for thought insertion" → "made for [[thought-insertion|thought insertion]]" (thought-insertion links here three times; this page had no body link back).
+- **Not done**: Henriksen, Parnas & Zahavi 2019 not cited here. Item (a) names and places the kind-claim without stating its content, the citation would cost about 25 words against 1 word of headroom, and the open P3 on self-and-self-consciousness installs HPZ 2019 at the kind-claim the new link points to. L73's "answering Billon's 2013 thought-insertion argument" left as written (accurate as a report of what Henriksen and Parnas say they answer).
+- **Engagement**: universalists (Zahavi & Kriegel 2016; Henriksen & Parnas 2019): Mode Three, unchanged; the new sentence marks where the Map stands and claims no in-framework refutation. Localism untouched.
+- **Anchors**: self-and-self-consciousness "## Constitutive as Kind, Not as Degree" and revelation-thesis "## Two senses of phenomenal transparency" both exist; slug dialect used as the task named it.
+- **Word count**: 3454 → 3498 (+44) by `analyze_length`; concepts gate 3500 `>=`; headroom 45 → 1. Breakdown: sentence +25, reference +19, L87 0, pipes 0.
+- **Attribution**: `ai_system` claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5; `modified` 2026-10-02
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T09:51:36+00:00 - refine-draft
 - **Status**: Success
