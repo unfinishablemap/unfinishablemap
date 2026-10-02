@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T17:09:49+00:00
+ai_modified: 2026-10-02T17:48:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T17:48:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-steelman-for-process-monism]]
+- **Secondary file**: [[topics/interaction-problem-across-traditions]] (L84 quote only, family resolution)
+- **Word count**: 2,634 → 2,793 (+159; `analyze_length` body words; topics hard 4,000, gate `>=`; brief ceiling ~2,800). Host 3,830 → 3,834.
+- **Lenses**: what moved (commit 1d5474fd41; today's tenet repairs at tenets L69/L71/L75/L81/L121/L145; new [[type-a-type-b-and-type-c-physicalism]]); opponent typing (first run); raw-source quote fidelity checked on subject as well as predicate (first run); tenet-statement fidelity (tenet-check 2026-10-02 had W L85/L33 and N L89/L87 with no queued row); style.
+- **Critical issues addressed**: 6.
+  - (1) L75: the 09-30 clause was unscoped ("by construction ... the interface's one live empirical register"). It is now scoped to the corridor reading Tenet 2's minimality endorses, with outside-corridor fallbacks named as accepting a sub-detection Born departure. The dash chain is split. Attribution checked; no residue.
+  - (2) L85/L33: "Dualism tenet holds ... in kind, not in degree" misstated tenets L53. Now: irreducibility only, which process monism grants; difference in kind is the Map's further claim from Tenet 1 + Tenet 3.
+  - (3) Opponent typing: the Further Reading gloss on reductionism typed the rival as reductive and was a phantom claim about that page. L85 now types process monism as nonreductive type-F, not physicalism (Chalmers 2003 lists Griffin 1998). L89 gains "though only by giving up the microphysical closure Chalmers builds into type-F", which keeps it consistent with type-A/B/C L128.
+  - (4) L59: "a lower, dynamic level" was absent from SEP, Kalin and Shameli (0 hits each, controls positive), and its subject was inverted (soul for body). Replaced with Kalin's verbatim "material in its origination and spiritual in its subsistence" (pp. 162–163).
+  - (5) L51: Whitehead's Category of the Ultimate comprises creativity, many and one; creativity alone is no longer equated with it.
+  - (6) L89: Tenet 4 does not ground the subject posit (tenets L121). Rewritten so the posit rests on independent grounds and Tenet 4 presupposes it.
+- **Medium issues addressed**: 5.
+  - L87 "economy here is not evidence" → "cannot decide the question" (tenets L145).
+  - Ṣadrā dates aligned to cited SEP and the host page: c. 1571–1636.
+  - Orphan Bodhi 2000 removed.
+  - Not-X/it-is-Y constructions at L37 and L51 removed.
+  - "load-bearing" at L41 → "operative"; L79's repeat of L43 tightened.
+- **Quotes**: all spans checked in raw source (ledger in the review). The two SEP pairs, SN 12.61, the Whitehead spans, and the internal "close to bedrock", "strongest competitor" and "the indexical question is meaningful" are verbatim. One unsourced span was removed. The host's Shameli quote, certified by three earlier reviews, was also absent from Shameli and is replaced with his verbatim "two levels of one existent".
+- **Cites**: Rizvi SEP year added (2009; rev. 2019). Chalmers 2003 (Crossref) and Griffin 1998 added. Kalin 2010 real-correct (Crossref). Nasr 1978 metadata real-correct (OpenLibrary); content unverifiable (dead Google Books index), kept.
+- **Engagement modes (editor-internal)**: Whitehead / process monism: Mixed (boundary-marking primary; combination-problem cost is in-framework, conceded to type-F by Chalmers). Ṣadrā: Mode Three. Buddhist analysis: Mode Three.
+- **Cross-links added**: [[russellian-monism]], [[type-a-type-b-and-type-c-physicalism]], [[tenets#^bidirectional-interaction]]
+- **Left alone**: the research note and two archive copies that carry the Shameli phrase (outside scope; replacement text recorded in the review). No task minted.
+- **Output**: [[reviews/deep-review-2026-10-02-the-steelman-for-process-monism]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T17:09:49+00:00 - refine-draft
 - **Status**: Success

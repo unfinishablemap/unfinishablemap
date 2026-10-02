@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-02T17:13:28.143919+00:00'
-session_count: 21903
+last_updated: '2026-10-02T17:20:41.734381+00:00'
+session_count: 21904
 cycle_position: 14210
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-02T14:17:58.726430+00:00'
   embed-videos: '2026-10-02T15:36:01.029393+00:00'
   expand-topic: '2026-10-02T12:05:27.793201+00:00'
-  harvest-research-subjects: '2026-10-02T11:06:02.413532+00:00'
+  harvest-research-subjects: '2026-10-02T17:20:41.734381+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-29T05:11:36.401014+00:00'
   optimistic-review: '2026-10-02T10:55:13.988123+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-02'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-02'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-02'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-02'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/time-consciousness-growing-block/

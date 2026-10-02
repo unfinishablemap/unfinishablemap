@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-09-30 21:39:17+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-02 17:48:05+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/interaction-problem-in-non-western-philosophy/
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 18:24:00+00:00
-lastmod: 2026-09-30 21:39:17+00:00
+lastmod: 2026-10-02 17:48:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ Non-contact solutions share a strength: they respect the intuition that radicall
 
 A third family argues the interaction problem is self-inflicted—an artifact of treating mind and body as static substances.
 
-**Mulla Ṣadrā** (c. 1571–1636) held that everything undergoes continuous transformation at the level of substance (*al-ḥarakat al-jawhariyyah*). The soul originates as a bodily reality and progressively transforms into an immaterial, spiritual reality—from corporeal faculty, to natural form, to sensible soul, to rational soul, to active intellect. Body is not a separate substance that must somehow interact with the soul; it is "a lower, dynamic level of the soul's existence." There is no gap to bridge because soul and body are grades on a continuum of being.
+**Mulla Ṣadrā** (c. 1571–1636) held that everything undergoes continuous transformation at the level of substance (*al-ḥarakat al-jawhariyyah*). The soul originates as a bodily reality and progressively transforms into an immaterial, spiritual reality—from corporeal faculty, to natural form, to sensible soul, to rational soul, to active intellect. Body is not a separate substance that must somehow interact with the soul; body and soul, as Shameli reports Ṣadrā's view, are "two levels of one existent." There is no gap to bridge because soul and body are grades on a continuum of being.
 
 **Whitehead's [process-philosophy](/concepts/process-philosophy/)** (1929) arrives at a strikingly similar position from entirely different premises. Reality consists of "actual occasions"—momentary experiential events that synthesise their causal inheritance and contribute something novel. Mind and matter are aspects of the same experiential process. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally *is* rather than being metaphysically exceptional.
 
