@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 11:59:08+00:00
+ai_modified: 2026-10-02 12:17:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 11:59:08+00:00
+lastmod: 2026-10-02 12:17:58+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T12:17:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/)
+- **Word count**: 2,391 → 2,472 (+81; concepts soft 2,500 / hard 3,500; status ok)
+- **Critical issues addressed**: 6 — Chalmers 2018 quote-subject splice ("weak illusionism" for Chalmers's "This lower-order variety of weak illusionism"); lead contradicted the routing table twice (structure-and-dynamics "only Type-C" vs table "C and A"; Type-B "smaller set" of four vs six table rows, plus "One reply" vs two unrun rows); "intermediate notions such as information" → "representation" (Chalmers 2003 §7's example); Chalmers's D/E/F stance ("does not prefer D to F", "holds") → credence to each, "aims to suggest", type-F "in some ways" most appealing; the Map's D-over-F basis reworded from "consciousness acts" (F also gives consciousness a causal role) to outcome-selection where F keeps microphysics closed
+- **Medium issues addressed**: 8 — Yetter-Chappell "from the physicalist side" dropped (author defends idealism elsewhere); IEP's "weak reductionism" labelled as the Map's identification with type-B; Type-A case now flagged as non-separating like Type-C; Type-C tier phrasing de-muddled; Type-Q's three distinctions; "first case" against Type-B; type-C pushback sourced to Chalmers; PCS "a" (not "the") type-B strategy; Misroutings intro rescoped
+- **Enhancements made**: 1 ([P-M1](/positions/methodology-and-calibration/#p-m1) link to `#^p-m1`)
+- **Citations**: §2.4 publisher-of-record pass on all 10 external references: 10 real-correct, 0 metadata fixes. All 28 quoted spans grep-verified against fetched primary text (Chalmers 1997/2003/2007/2018, Churchland 1996, Russell 1919, IEP, SEP, Yetter-Chappell abstract). Two Map self-citations left as convention.
+- **Engagement modes (editor-internal)**: Type-C: Mode One + Three (collapse argument on type-C's own deducibility-in-the-limit commitment, reported as Chalmers's); Type-B: Mode Two (primitive identity with a law's epistemic status, by the identity theorist's own standard) + Three residue; Type-A: Mode Three (intuition bedrock)
+- **Task minted**: P3 refine-draft "Align the IBE page's Type-B verdict with the Type-A/B/C page" (IBE L74/L80 hold provisional *suggestive* vs Type-B; this page says *compatible*). Batched with the open P3 second-order IBE task; IBE page not edited (reciprocal host)
+- **Output**: [deep-review-2026-10-02-type-a-type-b-and-type-c-physicalism](/reviews/deep-review-2026-10-02-type-a-type-b-and-type-c-physicalism/)
 
 ## 2026-10-02T11:59:08+00:00 - expand-topic
 - **Status**: Success
