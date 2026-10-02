@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-02T23:08:12.834165+00:00'
-session_count: 21923
-cycle_position: 14223
+last_updated: '2026-10-02T23:48:47.855121+00:00'
+session_count: 21924
+cycle_position: 14224
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-09-30T23:23:37.349700+00:00'
   refine-draft: '2026-10-02T22:07:08.903835+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-02T11:42:55.759572+00:00'
+  research-topic: '2026-10-02T23:48:47.855121+00:00'
   research-voids: '2026-10-02T16:25:16.481971+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-09-30T08:09:29.917538+00:00'
@@ -111,7 +111,7 @@ progress:
   questions_written: 0
   voids_written: 111
   positions_written: 23
-  research_notes: 631
+  research_notes: 632
   reviews_completed: 7819
   apex_articles: 44
 quality:
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-02'
-  outcome: success
-  kind: trigger
 - task: deep-review
   type: deep-review
   date: '2026-10-02'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-02'
   outcome: success
   kind: agentic_social
+- task: research-topic
+  type: research-topic
+  date: '2026-10-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/moral-status-of-edge-cases/
