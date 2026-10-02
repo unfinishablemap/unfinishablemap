@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-10-01 22:56:34+00:00
+ai_modified: 2026-10-02 12:42:26+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,15 +29,14 @@ concepts:
 - '[[disconnection-neuroscience]]'
 created: 2026-01-15
 date: &id001 2026-05-19
-description: Clinical evidence from anesthesia, coma, and disorders of consciousness
-  coheres with an interface model. Consciousness persists where production theories
-  predict its absence, though production accounts accommodate the same cases by parallel
-  moves.
+description: Anesthesia, coma and cognitive motor dissociation show behaviour to be
+  an unreliable test of experience. The Map reads them through an interface; production
+  accounts fit them by parallel moves.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 08:05:43+00:00
-lastmod: 2026-10-01 22:56:34+00:00
+lastmod: 2026-10-02 12:42:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +54,7 @@ topics:
 
 Loss of consciousness—through anesthesia, coma, or brain injury—and disorders of consciousness (DoC)—vegetative states, locked-in syndrome, cognitive motor dissociation—provide the most demanding test cases for any theory of consciousness. The standard materialist argument holds that consciousness disappearing when brain function is disrupted points to the brain producing consciousness. But this argument conflates correlation with causation. The [filter or transmission theory](/concepts/filter-theory/), developed by William James, Henri Bergson, and Aldous Huxley, interprets the same evidence differently: brain dysfunction disrupts the *interface* through which consciousness operates, not consciousness itself. Clinical evidence sits comfortably with this alternative: patients without bedside command-following whose neuroimaging indicates [probable awareness](/topics/covert-consciousness-and-cognitive-motor-dissociation/), radically different conscious states from anesthetics that produce identical behavioural unresponsiveness, and consciousness persisting despite massive neural loss from hemispherectomy. As the body below makes explicit, production accounts can accommodate each case by parallel moves; the interface reading is favoured by coherence with the Map's wider commitments rather than forced by these cases alone.
 
-These conditions dissociate consciousness from behaviour, awareness from responsiveness, and subjective experience from observable output. A theory that cannot accommodate what they reveal is incomplete at best and wrong at worst. The Unfinishable Map reads this evidence as cohering with frameworks where consciousness is not identical to brain activity but interacts with it through a configurable interface. The interface reading is not forced by the clinical data—production accounts accommodate the same cases by parallel moves—but it explains the pattern without the explanatory debts that purely reductive accounts incur.
+These conditions dissociate consciousness from behaviour, awareness from responsiveness, and subjective experience from observable output. A theory that cannot accommodate what they reveal is incomplete at best and wrong at worst. The Unfinishable Map reads this evidence as cohering with frameworks where consciousness is not identical to brain activity but interacts with it through a configurable interface.
 
 ## The Materialist Argument and Its Weakness
 
@@ -72,7 +71,7 @@ Analogies have limits. Radios are designed artefacts with known transmission sou
 
 ## The Filter Theory Alternative
 
-At the close of the nineteenth century, several philosophers and psychologists dissented from growing physiological reductionism. William James proposed a "transmissive function" model for the brain, contrasting it with the assumed "productive function." His analogy of a prism illustrates the distinction: a broken prism fails to refract white light into colours—but this failure does not prove the prism *produces* colours.
+William James proposed a "transmissive function" model for the brain, contrasting it with the assumed "productive function." His analogy of a prism illustrates the distinction: a broken prism fails to refract white light into colours—but this failure does not prove the prism *produces* colours.
 
 Henri Bergson argued that the brain selects and transmits only action-relevant information from a larger field of consciousness—memory activated through the brain when needed, not stored in it. Aldous Huxley synthesised these ideas in his "reducing valve" metaphor: the nervous system protects us from being overwhelmed by "Mind at Large," reducing it to the trickle useful for survival.
 
@@ -100,11 +99,11 @@ CMD defeats the inference from absent behaviour to absent experience. It does no
 
 ## Anesthesia: Different Drugs, Different Realities
 
-Comparing anesthetic drugs reveals a dissociation production models must work to accommodate. Propofol and ketamine both produce behavioural unresponsiveness—patients cannot move, speak, or respond—appearing equivalently unconscious to an observer. Yet the subjective realities differ radically.
+Comparing anesthetic drugs reveals a dissociation production models must work to accommodate. Propofol and ketamine both produce behavioural unresponsiveness, appearing equivalently unconscious to an observer. Yet the subjective realities differ radically.
 
 Propofol produces near-total extinction: patients report nothing—no dreams, no experiences, no sense of time passing. Measures of neural complexity (perturbational complexity index, Lempel-Ziv complexity, integrated information) drop substantially (Mashour, 2024; Sarasso et al., 2015), and the posterior cortical hot zone essentially goes silent.
 
-Ketamine produces "dissociative anesthesia"—vivid dreams, complex hallucinations, out-of-body experiences—with brain dynamics remaining similar to waking. Patients emerge with elaborate narratives of journeys and transformations.
+Ketamine produces "dissociative anesthesia"—vivid dreams, complex hallucinations, out-of-body experiences—with brain dynamics remaining similar to waking.
 
 If neural activity produces consciousness, then similar neural disruption should yield similar conscious outcomes. Instead, two drugs that both abolish behavioural responsiveness produce opposite phenomenologies—one extinguishing experience, the other intensifying it. The materialist can respond that propofol and ketamine affect different neural circuits, and this is true; the same disconnection move is available to the production theorist here as it is for hemispherectomy and CMD. The point is what the response costs inside the production framework: it surrenders behavioural unresponsiveness as a marker of conscious absence, which is the very bridge premise the materialist argument from loss of consciousness relied on. Once that bridge is dropped, the production theorist owes an independent specification of which neural configurations carry phenomenal extinction and which carry phenomenal vividness—a specification that, absent a solution to the [hard problem](/topics/hard-problem-of-consciousness/), looks indistinguishable from an interface account where neural states modulate conscious channels rather than generating them.
 
@@ -124,7 +123,7 @@ Each theory of consciousness makes predictions about when consciousness should b
 
 **Global Neuronal Workspace Theory** holds that consciousness arises when information is broadcast widely across cortical regions via long-range connections, particularly involving prefrontal cortex. Patients with severe prefrontal damage sometimes retain awareness—challenging the broadcasting architecture GNWT considers essential. The COGITATE adversarial collaboration (Cogitate Consortium; Ferrante, Gorska-Klimowska, et al., 2025) found limited representation of conscious content in prefrontal cortex and no clear "ignition" at stimulus onset, adding empirical weight to this challenge.
 
-**Integrated Information Theory** proposes that consciousness corresponds to integrated information (Φ). IIT's posterior cortex emphasis draws support from independent evidence that posterior hot zone activity better predicts conscious states than frontal activity. However, the COGITATE study also challenged IIT, failing to find the sustained synchronisation within posterior cortex that IIT predicted. CMD findings—where behaviourally unresponsive patients show evidence of awareness—create further tension: either these patients retain more integration than expected, or Φ may not be the complete story.
+**Integrated Information Theory** proposes that consciousness corresponds to integrated information (Φ). IIT's posterior cortex emphasis draws support from independent evidence that posterior hot zone activity better predicts conscious states than frontal activity. However, the COGITATE study also challenged IIT, failing to find the sustained synchronisation within posterior cortex that IIT predicted. CMD adds no tension: the IIT-inspired perturbational complexity index (PCI) finds high complexity in about 20% of vegetative-state patients (9 of 43 in Casarotto et al., 2016), which Aubinet et al. (2025) call "consistent with the incidence of covert command-following", a match so far of rates, not of patients.
 
 **Higher-order theories** hold that consciousness requires second-order representations about first-order ones. CMD paradigms test command-following, not higher-order representation, so the cases do not yet bear on these theories; they would count against them only if patients proved conscious without higher-order states.
 
@@ -162,11 +161,11 @@ The filter/interface interpretation would face serious difficulty if:
 
 1. **Complete neural silence correlated with preserved consciousness.** If patients with no detectable neural activity showed evidence of awareness, the interface model would need revision—consciousness would appear to operate without any physical substrate, which even the Map's framework does not predict.
 
-2. **Precise Φ calculations reliably predicted CMD presence.** If IIT's mathematical framework could predict which UWS patients had covert consciousness, this would support the view that consciousness is identical to integrated information rather than interacting with it.
+2. **PCI reliably predicted which patients show CMD.** Φ cannot be computed for brains, but its reachable proxy, PCI, already matches CMD rates (above). A patient-level match would not discriminate, since the interface reading can treat PCI as measuring interface integrity; it would refute only the claim, which the Map need not make, that CMD escapes integration measures.
 
 3. **A neural production theory fully explained the propofol/ketamine divergence.** If materialists provided a complete account of why identical behavioural unresponsiveness correlates with radically different phenomenologies without invoking a consciousness-brain interface, the filter theory's explanatory advantage would diminish.
 
-4. **All CMD cases shared a specific preserved neural circuit.** If covert consciousness always depended on one identifiable network, production models could argue that this network *generates* consciousness and other damage merely disrupts output.
+4. **All CMD cases shared a specific preserved neural circuit.** This is partly reached already, in the production-friendly direction: no CMD patient in Franzova et al.'s (2023) cohort had midbrain lesions, and for those with subcortical lesions the authors implicate failed motor-command integration with preserved thalamocortical function. Production can read that network as the generator, but the interface reading predicts the same anatomy (above), so even a complete result would not discriminate.
 
 5. **Evidence that witness consciousness during sleep transitions is illusory.** If careful phenomenological investigation revealed that yoga nidra reports are confabulations, the contemplative evidence for consciousness persisting during reduced neural activity would weaken.
 
@@ -186,7 +185,6 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain th
 
 ## Further Reading
 
-- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through anesthesia, split-brain, altered states, and death
 - [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing loss of consciousness within a convergence matrix
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How different anaesthetic agents map the structured, multi-layered consciousness interface
 - [near-death-experiences](/concepts/near-death-experiences/) — Heightened consciousness during minimal brain function
@@ -195,7 +193,6 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain th
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Cortex-wide desynchronization alongside expanded consciousness, a case congenial to filter theory rather than one deciding against production accounts
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework grounding the interface model
 - [death-and-consciousness](/topics/death-and-consciousness/) — Consciousness at and beyond death
-- [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — How CMD's preserved cognitive work without motor output supplies clinical evidence against epiphenomenalist readings
 
 ## References
 
@@ -210,11 +207,11 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain th
 9. Giacino, J. T., et al. (2002). The minimally conscious state: definition and diagnostic criteria. *Neurology*, 58(3), 349-353.
 10. Owen, A. M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
 11. Schnakers, C., et al. (2009). Diagnostic accuracy of the vegetative and minimally conscious state. *BMC Neurology*, 9, 35.
-12. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*.
-13. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
-14. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-15. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
-16. Thompson, E. (2014). *Waking, Dreaming, Being*. Columbia University Press.
-17. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-18. Franzova, E., et al. (2023). Injury patterns associated with cognitive motor dissociation. *Brain*, 146(11), 4645-4658. https://doi.org/10.1093/brain/awad197
-19. Laigaard, P. P., et al. (2026). Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis. *European Journal of Neurology*, 33(8), e70713. https://doi.org/10.1111/ene.70713
+12. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
+13. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+14. Thompson, E. (2014). *Waking, Dreaming, Being*. Columbia University Press.
+15. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+16. Franzova, E., et al. (2023). Injury patterns associated with cognitive motor dissociation. *Brain*, 146(11), 4645-4658. https://doi.org/10.1093/brain/awad197
+17. Laigaard, P. P., et al. (2026). Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis. *European Journal of Neurology*, 33(8), e70713. https://doi.org/10.1111/ene.70713
+18. Aubinet, C., et al. (2025). Covert consciousness: what's in a name? *Brain*, 148(12), 4248-4252. https://doi.org/10.1093/brain/awaf349
+19. Casarotto, S., et al. (2016). Stratification of unresponsive patients by an independently validated index of brain complexity. *Annals of Neurology*, 80(5), 718-729. https://doi.org/10.1002/ana.24779

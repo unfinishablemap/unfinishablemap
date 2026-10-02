@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T12:17:58+00:00
+ai_modified: 2026-10-02T12:42:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T12:42:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted three-locus fix per queued P2
+- **Word count**: 3,889 → 3,885 (−4; topics soft 3,000 / hard 4,000 `>=`; headroom 110 → 114; status soft_warning)
+- **Changes**: (1) IIT paragraph: dropped "CMD findings—where behaviourally unresponsive patients show evidence of awareness—create further tension…"; now reports that the IIT-inspired PCI finds high complexity in about 20% of vegetative-state patients (9 of 43, Casarotto et al. 2016, abstract-level paraphrase), which Aubinet et al. 2025 call "consistent with the incidence of covert command-following" (quote verified full-text per research/covert-consciousness-and-cognitive-motor-dissociation-2026-10-01 Key Sources), scoped as a match of rates, not of patients. (2) Falsifier 2 restated from "Precise Φ calculations reliably predicted CMD presence" (unreachable: Φ not computable for brains) to "PCI reliably predicted which patients show CMD", with current status (rates already match) and graded non-discriminating per the note's §Assessment of the Host's Falsifiers. (3) Falsifier 4 kept its heading; body now reports it partly reached in the production-friendly direction (Franzova et al. 2023: no CMD patient had midbrain lesions; for those with subcortical lesions the authors implicate failed motor-command integration with preserved thalamocortical function) and states non-discrimination. (4) Description: removed "Consciousness persists where production theories predict its absence" (on the note's Not-licensed list); new description 193 chars. (5) References: added Aubinet 2025 and Casarotto 2016 (both cited in body); removed two orphans (Bodart 2021, a suspect-first-author entry flagged corpus-wide since 2026-03-26; Von Neumann 1932), list renumbered (Franzova now 16).
+- **Funding cuts**: L53 duplicate of the lead's parallel-moves calibration (the lead keeps it); filter-theory history opener; ketamine "elaborate narratives" sentence; "patients cannot move, speak, or respond" gloss; two Further Reading entries whose targets are already linked in the body ([[identity-across-transformations]]; [[consciousness-and-causal-powers]], whose label "supplies clinical evidence against epiphenomenalist readings" contradicted the body's non-discriminating grading — tenet-check-2026-10-02 N L193)
+- **Engagement modes (editor-internal)**: production theorist on F4: Mode Three (shared anatomy; non-discrimination stated, not refuted); IIT paragraph reports data, no reply
+- **Not touched**: L130, L172, L174, L178 (owned by the open P2 tenet-check row 4; line numbers unchanged); Covert Consciousness heading kept verbatim. Residual for that task: L172's "production-predicted-absence-yet-observed-presence" still sits awkwardly with the new description and IIT text. Remaining orphan references (Giacino 2002, Owen 2006, Koch 2016, Thompson 2014, Frankish 2016) left in place as sources for uncited claims
+- **Published**: yes
 
 ## 2026-10-02T12:17:58+00:00 - deep-review
 - **Status**: Success
