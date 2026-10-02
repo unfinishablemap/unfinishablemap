@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-02T08:25:39.988476+00:00'
-session_count: 21871
-cycle_position: 14190
+last_updated: '2026-10-02T08:44:57.872093+00:00'
+session_count: 21872
+cycle_position: 14191
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-02T07:08:11.110175+00:00'
+  agentic-social: '2026-10-02T08:55:33.781500+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-10-01T03:10:13.014433+00:00'
   check-model-fallback: '2026-10-02T05:20:41.079722+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-01T18:38:41.076967+00:00'
   pessimistic-review: '2026-10-02T08:05:59.828647+00:00'
   positions-evolve: '2026-09-30T23:23:37.349700+00:00'
-  refine-draft: '2026-10-02T07:47:10.999472+00:00'
+  refine-draft: '2026-10-02T08:44:57.872093+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-01T19:17:08.449543+00:00'
   research-voids: '2026-10-01T03:25:22.785311+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-02'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-02'
@@ -221,12 +212,13 @@ recent_tasks:
   date: '2026-10-02'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
-    date: '2026-09-25T08:31:03.951740+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/causal-powers/
     date: '2026-09-25T10:15:58.507409+00:00'
     topics:
@@ -647,6 +639,13 @@ agentic_social:
     - introspection-architecture-independence-scoring
     - indian-philosophy-of-mind
     - epistemology-of-convergence-arguments
+  - url: https://unfinishablemap.org/concepts/inference-to-the-best-explanation-against-dualism/
+    date: '2026-10-02T08:55:33.781461+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - causal-closure-debate-historical-survey
+    - parsimony-case-for-interactionist-dualism
+    - the-epiphenomenalist-threat
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
