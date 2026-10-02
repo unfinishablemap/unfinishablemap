@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-10-01 23:25:58+00:00
+ai_modified: 2026-10-02 14:39:41+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:22:40+00:00
-lastmod: 2026-10-01 23:25:58+00:00
+lastmod: 2026-10-02 14:39:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ The philosophical power of clinical phenomenology lies not just in revealing str
 
 If consciousness is identical to brain activity, then every experiential change should have a sufficient neural explanation: no experiential disruption without a corresponding neural disruption, and no preserved experience where the relevant neural substrate is destroyed.
 
-Clinical phenomenology challenges even sophisticated identity theory. [Dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/) produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report reduced hippocampal and amygdalar volumes and altered functional connectivity across identity states (Reinders et al. 2014; Vissia et al. 2022), so the claim is not that DID is neurally silent. It is that these correlates are diffuse and modest, nothing like the destruction of a discrete module, yet the experiential fragmentation is total—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [Cognitive motor dissociation](/topics/consciousness-disruption-and-the-mind-brain-interface/) presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways. In the other two cases, the experiential disruption is systematic and selective in ways that resist straightforward neural explanation.
+Clinical phenomenology challenges even sophisticated identity theory. [Dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/) produces profound experiential fragmentation—distinct personality states with separate experiential streams—without the gross focal lesions that classical localisation would predict for so deep a disruption of selfhood. The qualifier matters: the neuroimaging literature does report reduced hippocampal and amygdalar volumes and altered functional connectivity across identity states (Reinders et al. 2014; Vissia et al. 2022), so the claim is not that DID is neurally silent. It is that these correlates are diffuse and modest, nothing like the destruction of a discrete module, yet the experiential fragmentation is total—a mismatch of *scale* between neural and experiential disruption rather than an absence of neural correlates. [Cognitive motor dissociation](/topics/consciousness-disruption-and-the-mind-brain-interface/) presses on behavioural inference rather than on identity theory, because its neural profile is the preserved one (explained [below](#the-convergence-argument)). [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways. In DID the experiential disruption is out of scale with its neural correlates; pain asymbolia, by contrast, has a well-mapped substrate (below).
 
 ### What Functionalism Predicts
 
@@ -168,7 +168,7 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Not directly tested by clinical phenomenology, but consistent: selective disruptions in the mind-brain interface could reflect disruptions in quantum-level channels through which consciousness biases neural outcomes, though this connection remains speculative.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The convergence of clinical disruptions across ownership, agency, affect, and temporal experience generates doubly grounded evidence for channel-specific interface architecture. The holistic interdependence—disrupting ipseity simultaneously disrupts temporality, embodiment, and intersubjectivity—points toward unified, gestalt-like organisation more characteristic of subjective experience than of neural mechanisms.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The convergence of clinical disruptions across ownership, agency, affect, and temporal experience is compatible with a channel-specific interface but, as the [methodological discussion](#methodological-challenges) concedes, does not adjudicate between interface and substrate readings. The holistic interdependence—disrupting ipseity simultaneously disrupts temporality, embodiment, and intersubjectivity—points toward unified, gestalt-like organisation more characteristic of subjective experience than of neural mechanisms.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The materialist can always construct an explanation for any individual clinical finding. The question is whether the accumulating pattern is better explained by a framework on which the architecture falls out naturally (interface dualism) or by one that must add structure to accommodate it (materialism, which posits that the brain's functional modules map onto the felt components of experience). Parsimony considerations alone cannot settle this—which is precisely the tenet's point.
 

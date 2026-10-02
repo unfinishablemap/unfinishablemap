@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-10-01T23:25:58+00:00
+ai_modified: 2026-10-02T14:39:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ The finding is more naturally explained if physical connections serve as an *int
 
 In December 2025, Joachim Keppler published a model in *Frontiers in Human Neuroscience* proposing that consciousness arises from the brain's resonant coupling with the quantum electromagnetic zero-point field (ZPF). On this model, cortical microcolumns of approximately 100 neurons couple directly to the ZPF through glutamate-mediated resonance, forming coherence domains where "a large number of molecules vibrate in unison." These domains are "protected by energy gaps, making quantum coherence surprisingly stable in the warm, noisy brain."
 
-Keppler's model addresses the [[decoherence|decoherence objection]]—the standard criticism that quantum coherence cannot survive in warm biological systems. If energy gaps do protect coherence domains from thermal disruption, the usual [[decoherence]] timescale calculations would not apply to these specific structures—though whether such protection actually occurs in cortical tissue remains to be demonstrated. The model is largely theoretical, and empirical predictions that could distinguish it from conventional neuroscience are not yet clearly specified. But it provides a concrete physical mechanism for what the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires: a site where consciousness and quantum physics meet in the brain.
+Keppler's model addresses the [[decoherence|decoherence objection]]—the standard criticism that quantum coherence cannot survive in warm biological systems. If energy gaps do protect coherence domains from thermal disruption, the usual [[decoherence]] timescale calculations would not apply to these specific structures—though whether such protection actually occurs in cortical tissue remains to be demonstrated. The model is largely theoretical, and empirical predictions that could distinguish it from conventional neuroscience are not yet clearly specified. But it provides a concrete physical mechanism for the coherence-dependent fallbacks the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet registers: a site where consciousness and quantum physics could meet in the brain. The tenet's endorsed [[post-decoherence-selection-programme|post-decoherence]] route needs no such protection.
 
 The model is ambiguous about whether the ZPF itself has phenomenal character (a panpsychist or neutral monist reading) or whether consciousness is a separate entity that interfaces via the ZPF (closer to the Map's interactionist dualism). This ambiguity is characteristic of quantum consciousness models generally—the physics constrains the mechanism but underdetermines the metaphysics.
 
@@ -103,13 +103,13 @@ A scoping review of psychedelic neuroscience, also published in 2025, found that
 
 The 2025-2026 experimental landscape aligns with the Map's framework in several ways.
 
-The COGITATE results support the Map's [[tenets#^occams-limits|fifth tenet]]—that Occam's Razor has limits. Neither of the two leading physicalist-adjacent theories made fully correct predictions. The temptation to choose the "simpler" physicalist explanation confronts the reality that these explanations do not yet work. The field's own adversarial methodology has demonstrated that physicalist consciousness theories face unresolved empirical difficulties, not merely philosophical ones.
+The COGITATE results illustrate the condition the Map's [[tenets#^occams-limits|fifth tenet]] names—incomplete knowledge, under which Occam's Razor has limits. Neither of the two leading physicalist-adjacent theories made fully correct predictions. The temptation to choose the "simpler" physicalist explanation confronts the reality that these explanations do not yet work. The field's own adversarial methodology has demonstrated that physicalist consciousness theories face unresolved empirical difficulties, not merely philosophical ones.
 
-The biophoton detection and Keppler's ZPF model provide new candidate mechanisms for the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Both identify quantum-level processes in the brain that could serve as the interface where consciousness biases otherwise indeterminate physical outcomes. Neither is proof that consciousness operates through these mechanisms, but they expand the empirical landscape in which such mechanisms could be tested.
+The biophoton detection and Keppler's ZPF model bear unequally on the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Keppler's model is a candidate site for the coherence-dependent fallbacks the tenet registers, where consciousness would bias otherwise indeterminate physical outcomes; extracranial biophoton detection is a measurement modality whose signal is not yet established as cortical (above). Neither is proof that consciousness operates through a quantum-level mechanism, but they expand the empirical landscape in which such mechanisms could be tested.
 
 The split-brain findings and covert consciousness evidence are more naturally read on the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—where consciousness and its physical substrates relate as interface partners—than on the simplest identity accounts. Minimal connections preserve full unity; damaged output channels may conceal experience. Both patterns are expected if consciousness uses the brain as an instrument rather than being constituted by it; both *constrain* the simplest identity readings without by themselves *establishing* the interface alternative, which the Map advances on the broader weight of its tenets.
 
-The Map interprets these findings not as proof of dualism—no single experiment could establish that—but as convergent evidence that physicalist explanation is incomplete. The hard problem remains unbridged. The dominant theories face empirical challenges. New findings consistently reveal consciousness to be more resilient, more fundamental, and less reducible than physicalist frameworks predict.
+The Map interprets these findings not as proof of dualism—no single experiment could establish that—but as convergent evidence that physicalist explanation is incomplete. The hard problem remains unbridged. The dominant theories face empirical challenges. The new findings are compatible with the Map's framework, but none discriminates the interface model from its physicalist rivals.
 
 ## Further Reading
 

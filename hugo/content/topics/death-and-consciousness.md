@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-01 23:25:58+00:00
+ai_modified: 2026-10-02 14:39:41+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 07:38:23+00:00
-lastmod: 2026-10-01 23:25:58+00:00
+lastmod: 2026-10-02 14:39:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -188,9 +188,9 @@ The Map's openness to survival would face serious difficulty if:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness operates at the quantum level, conservation laws might preserve something. The [decoherence objection](/concepts/decoherence/) applies more strongly post-mortem, but consciousness may act at collapse rather than require sustained coherence. The progressive nature of dying phenomenology may map onto gradual loosening of the quantum interface.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences matter, it has genuine efficacy at stake in death. The [epiphenomenalism](/concepts/epiphenomenalism/) this tenet rejects would make the question moot. Shared death experiences suggest consciousness-to-consciousness interaction may occur outside normal sensory channels when the filtering apparatus is compromised.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences matter, it has genuine efficacy at stake in death. The [epiphenomenalism](/concepts/epiphenomenalism/) this tenet rejects would make the question moot.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Survival of a unique self requires counterfactual exclusion—the fact that *this* consciousness continues and the branching alternatives genuinely do not. A Many-Worlds picture can restate survival branch-locally, but it cannot supply that exclusion: it actualises every possible successor and so leaves "which one is *me*?" without a determinate answer (the identity work this is doing is set out under [the identity problem](#the-identity-problem)). [Haecceity](/concepts/haecceity/) is what might survive, not a reinstantiable pattern. The deeply personal quality of death phenomenology—the dying person's specific relatives, particular life review, individual timing awareness—reinforces that indexical identity matters.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Survival of a unique self requires counterfactual exclusion—the fact that *this* consciousness continues and the branching alternatives genuinely do not. A Many-Worlds picture can restate survival branch-locally, but it cannot supply that exclusion: it actualises every possible successor and so leaves "which one is *me*?" without a determinate answer (the identity work this is doing is set out under [the identity problem](#the-identity-problem)). [Haecceity](/concepts/haecceity/) is what might survive, not a reinstantiable pattern. The personal particularity of death phenomenology is what each branch would also contain; it shows the stakes, not the case.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simplest assumption—consciousness ends with brain function—might be wrong. Convergent themes across radically different dying conditions are a cost that piecemeal dismissal must pay, not a parsimony verdict in the Map's favour: that tenet does not license the posit; it only refuses to let parsimony *veto* it. The unified explanation, if one is warranted, will have to earn its keep on the evidence rather than on simplicity.
 
