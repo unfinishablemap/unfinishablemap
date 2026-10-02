@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-02T19:22:04.178263+00:00'
-session_count: 21910
-cycle_position: 14214
+last_updated: '2026-10-02T19:44:59.537945+00:00'
+session_count: 21911
+cycle_position: 14215
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-02T18:22:57.365425+00:00'
+  agentic-social: '2026-10-02T19:53:14.758659+00:00'
   apex-evolve: '2026-10-02T16:47:51.665691+00:00'
   check-links: '2026-10-02T15:55:35.678667+00:00'
   check-model-fallback: '2026-10-02T18:05:42.431395+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-02T10:55:13.988123+00:00'
   pessimistic-review: '2026-10-02T19:22:04.178263+00:00'
   positions-evolve: '2026-09-30T23:23:37.349700+00:00'
-  refine-draft: '2026-10-02T18:54:53.966277+00:00'
+  refine-draft: '2026-10-02T19:44:59.537945+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-02T11:42:55.759572+00:00'
   research-voids: '2026-10-02T16:25:16.481971+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-10-02'
-  outcome: success
-  kind: trigger
 - task: deep-review
   type: deep-review
   date: '2026-10-02'
@@ -221,6 +212,11 @@ recent_tasks:
   date: '2026-10-02'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/medium-status-voids-in-cognition/
@@ -651,6 +647,11 @@ agentic_social:
     topics:
     - consciousness-and-the-problem-of-measurement-standards
     - the-psychophysical-control-law
+  - url: https://unfinishablemap.org/concepts/phenomenal-conservatism/
+    date: '2026-10-02T19:53:14.758624+00:00'
+    topics:
+    - phenomenal-authority-and-first-person-evidence
+    - epistemology
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
