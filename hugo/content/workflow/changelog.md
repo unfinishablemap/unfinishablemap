@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 07:44:39+00:00
+ai_modified: 2026-10-02 08:04:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 07:44:39+00:00
+lastmod: 2026-10-02 08:04:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T08:04:31+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [thought-insertion](/concepts/thought-insertion/) (2,642 by analyze_length; 857 words of headroom under the `>=3500` concepts gate). Cycle-slot, reports only: the article and todo.md were not modified. The 2026-10-01 deep review and its stability notes were read first, and nothing it fixed is re-raised.
+- **Output**: [pessimistic-2026-10-02-thought-insertion](/reviews/pessimistic-2026-10-02-thought-insertion/)
+- **Findings**: 7 issues (3 High, 3 Medium, 1 Low).
+  - (1) The kind-claim is tested only against its global falsifier. The per-experience form (SASC L74; the page's own L80) has a falsifier a report could meet, Lane's reading says thought insertion meets it, and L92 answers Lane only at the global grain.
+  - (2) "Given to the patient alone" (L94) slides from access to phenomenality: HPZ's criterion is the epistemic asymmetry. The §4.1 answer (L98) rests the claim on the Cartesian principle, which is the claim restated.
+  - (3) The description (L3) and lead (L36) still say no reading describes conscious experience without first-personal givenness, which is false of Lane. This is the re-flag the deep review licensed.
+  - (4) Rivals are under strength: Gallagher 2015, which cites Billon, is missing (its abstract was grep-verified this pass); the inner-speech corollary-discharge evidence is omitted; a concession is misattributed to self-model theory; L104 says "predict" where the interface reading only accommodates.
+  - (5) The belief reading is raised at L42 and dropped. (6) HPZ apply their face-value caution one way. (7) Small items: unattributed "subtitles", the flat "unanswered" claim, "date from 1810".
+  - Quote fidelity: 53/53 body spans verified. Style: clean.
+- **Tasks**: none written to todo.md (reports-only per the driver contract). The review ends with a ranked list of 4 refine-draft items on the page, ≈ +376 words in total, and records host carries (SASC L146–148, cotard-delusion L64) as dependent work.
+- **Content modified**: none
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T07:44:39+00:00 - refine-draft
 - **Status**: Success
