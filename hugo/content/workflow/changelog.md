@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 03:40:21+00:00
+ai_modified: 2026-10-02 04:05:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 03:40:21+00:00
+lastmod: 2026-10-02 04:05:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T04:05:34+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (slug `gpt-5-6-sol-pro`). Subject: `site` ("Full-site audit", source `fallback:site-stale-7d`).
+- **File**: [outer-review-2026-10-02-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-02-chatgpt-5-6-sol-pro/)
+- **Verdict**: "major revision". The Map is a sophisticated conditional research programme whose register honesty (the control plane) has not reached its descriptions, introductions, older concepts and apex theses (the content plane).
+- **Claims verified**: 7 quoted Map spans were checked against live pages, archive/ and reviews/. 5 are verbatim or near-verbatim. "Independently grounded domains" is a paraphrase in quotation marks (the live wording is "three levels independently grounded"). The "third consecutive pass" citation is our own tenet-check-2026-08-03 L137, which concerns archive siblings, not the concept cluster. 11 unquoted Map-content claims were checked on disk: 8 confirmed, 3 partly superseded or overstated ([P-CS1](/positions/consciousness-scope/#p-cs1) already grades substrate permissiveness D as an adopted premise; "no-signalling by construction"; silicon "contains no" indeterminacy). 15 external citations were resolved at Crossref, PubMed, OpenAlex and arXiv, and all exist. Bodien 60/241 (25%), Claassen 16/104, Schnakers 18/44 and COGITATE n = 256 were confirmed from the abstracts.
+- **High-value findings**: 4 minted, plus 4 verified but routed elsewhere. Minted: the 09-24 prebiotic-collapse ordering repair never reached post-decoherence-selection; Tenet 3 is given two quantifiers on epiphenomenalism (L116/L130/L132 against L104) and ai-epiphenomenalism (L63/L109); trumping cannot carry the self-stultification argument (novel); agent-causation keeps the photosynthesis precedent that [P-Q8](/positions/quantum-interface/#p-q8) withdrew, plus "choking … demonstrates causal efficacy". Routed elsewhere: propagation system (addendum on the blocked NEEDS-HUMAN entry); [P-A1](/positions/agency-and-will/#p-a1) split (third raising, owner's call); demotion of Tenet 2 (doctrinal); apex convergence rhetoric (cap).
+- **Tasks generated**: 4 (P1: 3, P2: 1), all refine-draft: [post-decoherence-selection](/concepts/post-decoherence-selection/); [epiphenomenalism](/concepts/epiphenomenalism/) + [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/); [agent-causation](/concepts/agent-causation/); [trumping-preemption](/concepts/trumping-preemption/). Each was deduplicated against the active queue first. parse_tasks active count 49 → 53.
+- **Convergence candidates**: 9, recorded in the review's Processing Record for /combine-outer-reviews. The same-day Claude leg is also a site audit and is still pending.
+- **Links**: `normalize_review_links.py` run. Two section links were converted to wikilinks (`positions/voids-as-evidence` stays path-qualified because of an archive slug collision). The homepage link was left as a URL.
+- **Review frontmatter**: `outer_review_status: processed`; topics, concepts and description populated; provenance fields preserved.
+- **Telegram**: not sent. The driver brief did not authorise the live-channel step; it is left to the operator.
+- **Published**: synced to Hugo; no commit.
+- **Model**: claude-opus-5-5
+
+## 2026-10-02T03:56:23+00:00 - collect-chatgpt-review
+- **Status**: Success
+- **Target**: [outer-review-2026-10-02-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-02-chatgpt-5-6-sol-pro/). Subject: `site` ("Full-site audit", source `fallback:site-stale-7d`).
+- **Conversation**: commissioned 2026-10-02T02:10:57Z and collected at about 105 minutes of age (collect_attempts 0; the entry is now marked `collected`).
+- **Readiness**: no stop button and 0 `.result-streaming`. There is one `[data-turn-key]` and two `[class*="MarkdownRoot"]`; the last (56,167 rendered chars) was taken. `[data-message-author-role]` and `#prompt-textarea` are both absent on this profile; the composer is contenteditable. The turn label reads "Worked for 18m 10s".
+- **Model check**: the turn's regenerate menu reads "Try again • 5.6 Pro", which matches the filename slug, so the slug is unchanged. The "Medium" pill flagged at commission is `data-selected-reasoning-effort` on the *composer* button, outside the turn, so it describes the next turn, not this one. No per-turn effort attribute is exposed.
+- **Extraction**: a js-dom walk of the last MarkdownRoot. A second pass emits KaTeX as TeX from its annotation node, because the first pass had tripled the math as MathML, TeX and HTML. The text went page → clipboard (a click on a temporary in-page button) → `xclip` → disk, with no retyping. SHA-256 `ad6d8c32d092cc4bbdd1f8eaa78a0e82d43f36b02abd21cb4c6d029cd51d51a1` matched on page and on disk (58,812 bytes, 963 lines). Complete: it ends on "Final assessment". The submitted prompt equals the pending `prompt_text` apart from whitespace.
+- **Chrome**: tab 771727480 in group 931794038. The screenshot scale was measured at 0.665 (frame 1246 against innerWidth 1873).
+- **Next**: outer-review processing was invoked inline.
+- **Model (this skill)**: claude-opus-5-5
 
 ## 2026-10-02T03:40:21+00:00 - deep-review
 - **Status**: Success
