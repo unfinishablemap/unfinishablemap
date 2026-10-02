@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-02T13:13:06+00:00
+ai_modified: 2026-10-02T20:54:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,7 +145,7 @@ This Zahavi/Metzinger choice is the Western form of a dispute the classical Indi
 
 Sass and Parnas's work on schizophrenic ipseity disturbance, alongside the depersonalisation literature, documents scalar disruption of for-me-ness — thoughts experienced as alien, the self felt as unreal while experience continues. These appear to threaten the constitutive claim.
 
-The claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — never that it fully dissolves while phenomenal life continues. Schizophrenic reports describe the breakdown of for-me-ness *from* a position; depersonalisation patients report the self's unreality *to* themselves. [[cotard-delusion|Every reported case is reported from somewhere]]. The falsifier is conceptual against the clinical record, since [[thought-insertion|no report could meet it]]: clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered.
+The claim concerns *kind*, not intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — not that it fully dissolves while phenomenal life continues. [[cotard-delusion|Every reported case is reported from somewhere]], though only a reporting position follows. The global falsifier is conceptual against the clinical record, since [[thought-insertion|no report could meet it]]: clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered. Per experience, [[thought-insertion|Lane reads an inserted thought as anonymous]]; the claim survives him only if the reports are read in clinical context.
 
 This methodological move generalises (see [[self-opacity#Constitutive as Kind, Not as Degree|self-opacity void]]): distinguish kind-claim from degree-claim, name the falsifying scenario as elimination rather than attenuation, and concede scalar variation without conceding structural contingency.
 

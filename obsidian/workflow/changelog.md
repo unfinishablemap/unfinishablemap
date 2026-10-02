@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T20:36:46+00:00
+ai_modified: 2026-10-02T20:54:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T20:54:59+00:00 - refine-draft
+- **Status**: Success
+- **Task**: P2 "Carry the thought-insertion concession into self-and-self-consciousness L146–148 and cotard-delusion L64/L66/L3 (the reported-from-somewhere inference is conceded)". Multi-file, one pass.
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Secondary files**: [[concepts/cotard-delusion]], [[concepts/thought-insertion]] (L90 only)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted dependent carry)
+- **Changes**:
+  - [[concepts/self-and-self-consciousness]] L148 (`analyze_length` 3,487 → 3,495; gate 3,500):
+    - "The claim is about *kind*, not uniformity of intensity." → "The claim concerns *kind*, not intensity." (−3)
+    - "destabilise — never that it fully dissolves" → "destabilise — not that it fully dissolves" (±0; matches voids/self-opacity L145)
+    - Cut "Schizophrenic reports describe the breakdown of for-me-ness *from* a position; depersonalisation patients report the self's unreality *to* themselves." (−18; a second reporting-position argument)
+    - After the [[cotard-delusion]] link "Every reported case is reported from somewhere": added ", though only a reporting position follows." (+6). The driver's optional clause was taken because without it the sentence still stands as unqualified support for the conceded inference.
+    - "The falsifier is conceptual" → "The global falsifier is conceptual" (+1)
+    - Appended "Per experience, [[thought-insertion|Lane reads an inserted thought as anonymous]]; the claim survives him only if the reports are read in clinical context." (+22). This deviates from the driver's wording ("…; only reading reports in clinical context answers him.", +17): "answers him" can read as saying the contextual reading succeeds, whereas thought-insertion L38 and L94 hold it contested. The new wording mirrors thought-insertion L38. The Lane clause is piped to thought-insertion (zero words) because this page has no Lane reference entry, and the full Lane 2012 citation lives there.
+  - [[concepts/cotard-delusion]] (3,489 → 3,495):
+    - L3 description: "it passes the Map's reported-from-somewhere test yet stays neutral between" → "it leaves the Map's for-me-ness claim standing but untested, and stays neutral between" (no body cost)
+    - L36 lead verdict. This was outside the driver's list but relies on the same conceded inference, and the truncation-first verdict would otherwise contradict L3 and L64: 'Cotard passes the "reported from somewhere" test — … — but passing it does not discriminate' → 'Cotard's denial is reported from somewhere — … — but that shows only a reporting position and does not discriminate' (+4)
+    - L64: "and it passes: what fails is the report, not the position." → "yet it too cannot meet the falsifier: what fails is the report, not the position." (+4)
+    - L66: "Passing the test settles less than it appears to." → "That settles less than it appears to." (−2)
+  - [[concepts/thought-insertion]] L90 (2,801 → 2,801): in the quotation of self-and-self-consciousness L148, "never" → "not" (±0). The quote was checked byte-identical to its source.
+- **Kept verbatim**: SASC L74 "no genuinely anonymous experiences exist"; "Every reported case is reported from somewhere"; the falsifier span "phenomenal life continuing … lack is registered".
+- **Engagement modes (editor-internal)**: Lane (SASC L148): Mode Three plus an honest report. The per-experience claim is stated as surviving only on a condition, not as answered.
+- **Not touched**:
+  - voids/self-opacity L145: excluded by the task. It still offers "Every reported case is reported from somewhere" as support.
+  - The SASC Indian-schools close: reserved for the open P3 Henriksen, Parnas & Zahavi 2019 trim.
+  - cotard L34 ("hardest available test of a commitment … every reported case is reported from somewhere") and the L83 Further Reading gloss ("the 'reported from somewhere' test Cotard is run against"): neither claims a pass.
+  - cotard L66 "attenuated but never eliminated": this is the interface reading's prediction, not a claim about the record.
+- **Published**: yes. Model: claude-opus-5-5.
 
 ## 2026-10-02T20:36:46+00:00 - refine-draft
 - **Status**: Success

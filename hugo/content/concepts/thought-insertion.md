@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-02 15:23:06+00:00
+ai_modified: 2026-10-02 20:54:59+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 20:37:04+00:00
-lastmod: 2026-10-02 15:23:06+00:00
+lastmod: 2026-10-02 20:54:59+00:00
 modified: *id001
 related_articles:
 - '[[anarchic-hand-and-action-ownership]]'
@@ -91,7 +91,7 @@ The physicalist reading at full strength is Metzinger's [self-model theory](/con
 
 ## What the Case Does to the Map's Kind-Claim
 
-[self-and-self-consciousness](/concepts/self-and-self-consciousness/) states the claim: "Clinical variation shows the asymmetry can attenuate, distort, or destabilise — never that it fully dissolves while phenomenal life continues." Its closest published statement is HPZ's "neither lacking nor unaffected but disturbed".
+[self-and-self-consciousness](/concepts/self-and-self-consciousness/) states the claim: "Clinical variation shows the asymmetry can attenuate, distort, or destabilise — not that it fully dissolves while phenomenal life continues." Its closest published statement is HPZ's "neither lacking nor unaffected but disturbed".
 
 **Its global form survives.** No reading meets the falsifier: Billon's inserted thought lacks phenomenality, Guillot's keeps for-me-ness, and even Lane leaves the patient a first-person perspective. That falsifier concerns a whole phenomenal life. The per-experience form the Map also states, for-me-ness universal and "no genuinely anonymous experiences exist", has a falsifier a report could meet: one conscious episode not given for-me, registered from the patient's other experiences. Lane's reading says thought insertion is that case. With the inner-location inference conceded (below), the Map's reply rests on the universalists' contextual reading of the reports.
 
