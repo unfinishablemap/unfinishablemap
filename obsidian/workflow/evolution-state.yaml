@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-02T13:16:11.914928+00:00'
-session_count: 21888
-cycle_position: 14202
+last_updated: '2026-10-02T13:31:21.236475+00:00'
+session_count: 21889
+cycle_position: 14203
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-02T12:23:36.538936+00:00'
+  agentic-social: '2026-10-02T13:37:58.624243+00:00'
   apex-evolve: '2026-09-30T08:05:17.848084+00:00'
   check-links: '2026-10-01T03:10:13.014433+00:00'
   check-model-fallback: '2026-10-02T09:35:41.009789+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-02T10:55:13.988123+00:00'
   pessimistic-review: '2026-10-02T08:05:59.828647+00:00'
   positions-evolve: '2026-09-30T23:23:37.349700+00:00'
-  refine-draft: '2026-10-02T13:16:11.914928+00:00'
+  refine-draft: '2026-10-02T13:31:21.236475+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-02T11:42:55.759572+00:00'
   research-voids: '2026-10-01T03:25:22.785311+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-02'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-10-02'
@@ -221,13 +212,13 @@ recent_tasks:
   date: '2026-10-02'
   outcome: success
   kind: queue
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-02'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/parfit-reductionism/
-    date: '2026-09-25T13:16:04.878255+00:00'
-    topics:
-    - personal-identity
-    - meaning-of-life
   - url: https://unfinishablemap.org/concepts/decoherence/
     date: '2026-09-25T14:30:59.807144+00:00'
     topics:
@@ -652,6 +643,12 @@ agentic_social:
     - consciousness-and-causal-powers
     - locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply
     - experimental-consciousness-science-2025-2026
+  - url: https://unfinishablemap.org/topics/time-bias-and-thank-goodness-thats-over/
+    date: '2026-10-02T13:37:58.624211+00:00'
+    topics:
+    - consciousness-and-the-ontology-of-temporal-becoming
+    - personal-identity
+    - phenomenology-of-anticipation
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
