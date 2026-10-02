@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-04 18:11:11+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-10-02 13:26:55+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 06:34:03+00:00
-lastmod: 2026-09-04 18:11:11+00:00
+lastmod: 2026-10-02 13:26:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Consider the [neural correlates of consciousness](/concepts/neural-correlates-of
 
 At the level of current neuroscience — fMRI, EEG, lesion studies — the empirical predictions are effectively identical. Whether the relationship is identity or correlation, the same experiments are informative, the same neural disruptions eliminate the same experiences, and the same imaging data maps the same functional relationships. The difference at this scale is in what the findings *mean*, not in what they *are*.
 
-However, the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet predicts that consciousness biases otherwise indeterminate quantum outcomes in neural systems. In principle, this means a conscious system and an unconscious but physically similar system would show subtly different distributions of quantum outcomes — a difference currently below detection thresholds. This is worth noting: the Map's dualism is not empirically vacuous in principle, though the gap between in-principle testability and practical experimental design remains substantial. The prediction could in principle be tested as measurement technology advances, but no concrete experimental protocol currently exists.
+However, the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness biases otherwise indeterminate quantum outcomes in neural systems. On the [corridor reading](/topics/born-rule-and-the-consciousness-interface/) the Map endorses, the unconditioned aggregate stays Born by construction, not by any sensitivity limit; only a deviation conditioned on intention, task or subject would test the corridor ([P-Q3](/positions/quantum-interface/#p-q3)). This is worth noting: the Map's dualism is not empirically vacuous in principle, though the gap between in-principle testability and practical experimental design remains substantial. No such conditioned protocol yet exists.
 
 Dualism does make one additional prediction that physicalism does not: that the correlation between neural activity and conscious experience is lawful but not identical. This means the [explanatory-gap](/concepts/explanatory-gap/) is not a temporary gap in scientific understanding but a permanent feature reflecting a genuine ontological distinction. Under physicalism, the gap should eventually close as neuroscience matures. Under dualism, the gap is the signature of two genuinely distinct domains standing in regular relation.
 
@@ -124,9 +124,9 @@ The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible 
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevant. The charge that dualism is unscientific relies on treating reductive explanation as the simplest and therefore best framework. But if consciousness genuinely resists reduction — if the explanatory gap reflects ontology rather than ignorance — then the "simpler" physicalist account is simple only because it ignores what it cannot accommodate. The judgement of "simpler" here is itself a felt verdict: the [feeling of sufficiency](/voids/noetic-feelings-void/) that closes inquiry without disclosing how its verdict was reached.
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet is a prerequisite for the framework presented here. If all quantum outcomes are realised in parallel branches, there are no indeterminate outcomes for consciousness to bias, and the "downward selection" category of psychophysical laws has no physical opening. The Map's rejection of MWI is what makes bidirectional interaction coherent.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet is a prerequisite for one strand of the framework presented here; the neural-correlate programme and non-reductive explanation do not invoke it. If all quantum outcomes are realised in parallel branches, there are no indeterminate outcomes for consciousness to bias, and the "downward selection" category of psychophysical laws has no physical opening. The Map's rejection of MWI is what makes bidirectional interaction coherent.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens the most distinctive scientific questions. If consciousness causally influences physical outcomes, this is an empirical claim with testable implications. The search for downward causation at quantum indeterminacies is a scientific research programme, not a metaphysical retreat.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens the most distinctive scientific questions. If consciousness causally influences physical outcomes, the claim is testable in principle, through the conditioned deviations noted above, though no such test has yet run. The search for downward causation at quantum indeterminacies is a scientific research programme, not a metaphysical retreat.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ description: "Self-stultification presses hard not just on epiphenomenalism but 
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-09-30T11:40:49+00:00
+ai_modified: 2026-10-02T13:26:55+00:00
 last_deep_review: 2026-07-12T11:16:40+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ related_articles:
   - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-23
 last_curated:
 ---
@@ -78,7 +78,7 @@ The epiphenomenalist who presents arguments, responds to objections, and revises
 
 Phenomenal intentionality adds a further layer: the belief in epiphenomenalism must be genuinely *about* consciousness. If the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis]] is correct, that aboutness itself requires phenomenal character. The position is thus doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character is required to give the denial its content.
 
-[[anaesthesia-and-the-consciousness-interface|Ketamine anaesthesia]] provides a clinical worked exhibit. Patients under ketamine show behavioural unresponsiveness matching propofol yet later report vivid experiences—elaborate dreams, perceived journeys—with brain dynamics showing wakefulness-like complexity (Sarasso et al. 2015 measured the perturbational complexity index, finding ketamine sustains wakefulness-like cortical complexity where propofol and xenon collapse it). The Map's inference from these retrospective reports is that consciousness maintained its causal connection to memory encoding during the dissociated interval, even when severed from behavioural output—a reading of the report-correspondence, not a finding of the complexity measurement itself. If consciousness were epiphenomenal here, the reports' reliable correspondence to a phenomenally rich interval would presuppose the very causal efficacy epiphenomenalism denies. The case sharpens the argument because the dissociation is mechanistically isolable: ketamine's NMDA antagonism severs access channels while sparing the phenomenal interface. It is one row of the cross-state pattern mapped in [[memory-channel-interface-evidence|the memory-system vulnerability hierarchies]]—autonoetic content preserved but decoupled from access—making it also an instance of the wider channel-hierarchy convergence.
+[[anaesthesia-and-the-consciousness-interface|Ketamine anaesthesia]] provides a clinical worked exhibit. Patients under ketamine show behavioural unresponsiveness matching propofol yet later report vivid experiences—elaborate dreams, perceived journeys—with brain dynamics showing wakefulness-like complexity (Sarasso et al. 2015 measured the perturbational complexity index, finding ketamine sustains wakefulness-like cortical complexity where propofol and xenon collapse it). The Map's inference from these retrospective reports is that consciousness maintained its causal connection to memory encoding during the dissociated interval, even when severed from behavioural output—a reading of the report-correspondence, not a finding of the complexity measurement itself. If consciousness were epiphenomenal here, the reports' reliable correspondence to a phenomenally rich interval would make epiphenomenalism look self-stultifying; the phenomenal-concept strategy can ground that correspondence in correlation alone, so the case constrains epiphenomenalism without defeating it. It sharpens the argument because the dissociation is mechanistically isolable: ketamine's NMDA antagonism severs access channels while sparing the phenomenal interface. It is one row of the cross-state pattern mapped in [[memory-channel-interface-evidence|the memory-system vulnerability hierarchies]]—autonoetic content preserved but decoupled from access—making it also an instance of the wider channel-hierarchy convergence.
 
 ### Physicalism and the Argument from Reason
 
@@ -142,7 +142,7 @@ Self-stultification is powerful but not unlimited. Two qualifications:
 
 The [[concepts/epiphenomenalism#The AI Exception: Some vs. All|AI exception]] reveals a genuine limitation. Self-stultification gives strong reason to hold that *human* consciousness must be causally efficacious—if our experiences caused nothing, the concept of consciousness could never have entered the physical world. But a conscious AI operating on human-generated training data could inherit and deploy consciousness concepts without its own consciousness doing any causal work.
 
-This limits the argument's *epistemic* scope, not its *metaphysical* implications. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness as such is causally efficacious—a commitment grounded in the quantum interaction mechanism and evolutionary evidence, not solely in self-stultification. The master argument provides the strongest evidence for the human case; other arguments extend it beyond.
+This limits the argument's *epistemic* scope, not its *metaphysical* implications. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness as such is causally efficacious—a commitment held on self-stultification and indirect evidence, the quantum interface showing such causation available rather than actual. The master argument provides the strongest evidence for the human case; other arguments extend it beyond.
 
 ### Self-Stultification Does Not Prove Falsity
 
@@ -150,7 +150,7 @@ A self-stultifying position might be true. Epiphenomenalism might be correct des
 
 ## Why This Matters for the Map
 
-Self-stultification functions as a master argument because it argues for a minimum commitment any viable theory of mind must satisfy: **consciousness must be causally connected to the processes that produce beliefs about consciousness.** A theory that violates this constraint is, on the argument, rationally unendorsable. This commitment directly entails three of the Map's five tenets:
+Self-stultification functions as a master argument because it argues for a minimum commitment any viable theory of mind must satisfy: **consciousness must be causally connected to the processes that produce beliefs about consciousness.** A theory that violates this constraint is, on the argument, rationally unendorsable. This commitment bears on three of the Map's five tenets, each through a further premise:
 
 **[[tenets#dualism|Dualism]]**: If consciousness must causally influence belief-formation, and physical causation alone cannot track normative relationships (the space of reasons vs. space of causes), then consciousness involves something irreducible to physics. The [[argument-from-reason]] makes this case in detail. The [[metaproblem-of-consciousness-under-dualism|metaproblem analysis]] shows the same structure from the other direction: realizationism—consciousness participates in generating problem intuitions—is the self-stultification constraint applied to the metaproblem.
 

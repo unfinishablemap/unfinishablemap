@@ -4,7 +4,7 @@ description: "The interference-order hierarchy that operationalises 'the Born ru
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-09-30T12:13:01+00:00
+ai_modified: 2026-10-02T13:26:55+00:00
 last_deep_review: 2026-09-02T15:20:11+00:00
 draft: false
 topics:
@@ -18,12 +18,12 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-07-16
 last_curated:
 ---
 
-Sorkin's *quantum measure theory* reframes the Born rule as one rung on a hierarchy of possible probability laws, and it names the exact quantity a laboratory measures to test that rung: the **third-order interference term** I₃, usually reported in normalised form as κ (kappa). Classical (Kolmogorov) probability forbids second-order interference; standard quantum mechanics permits it but forbids the *third* order and everything above it. So "the Born rule holds" becomes the concrete, checkable statement **κ = 0**, and "the Born rule has been tested" becomes a number: κ is bounded below roughly 10⁻² of the pairwise interference in single-photon optics (Sinha et al. 2010) and below ~10⁻⁴ in a five-path interferometer (Kauten et al. 2017). This concept matters to The Unfinishable Map because that bound is the empirical anchor beneath the Map's most-repeated physical claim — that its proposed [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] is measured against a *tested* Born rule — and because the tested regime is a clean external apparatus, not the warm neural tissue a consciousness-interface proposal would need. The bound is real, tightening, and silent about the brain: exactly the shape [[tenets#^occams-limits|Tenet 5]] predicts.
+Sorkin's *quantum measure theory* reframes the Born rule as one rung on a hierarchy of possible probability laws, and it names the exact quantity a laboratory measures to test that rung: the **third-order interference term** I₃, usually reported in normalised form as κ (kappa). Classical (Kolmogorov) probability forbids second-order interference; standard quantum mechanics permits it but forbids the *third* order and everything above it. So "the Born rule holds" becomes the concrete, checkable statement **κ = 0**, and "the Born rule has been tested" becomes a number: κ is bounded below roughly 10⁻² of the pairwise interference in single-photon optics (Sinha et al. 2010) and below ~10⁻⁴ in a five-path interferometer (Kauten et al. 2017). This concept matters to The Unfinishable Map because that bound is the empirical anchor beneath the Map's most-repeated physical claim — that its proposed [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] is measured against a *tested* Born rule — and because the tested regime is a clean external apparatus, not the warm neural tissue a consciousness-interface proposal would need. The bound is real, tightening, and silent about the brain: exactly where [[tenets#^occams-limits|Tenet 5's]] caution against extrapolating a simple result applies.
 
 One caveat rides along from the start and is developed below ([[#reading-a-nonzero-term|"Does a nonzero term mean new physics?"]]): a *measured* nonzero κ need not be a Born-rule violation, because finite-slit looped trajectories produce a small apparent κ entirely within standard quantum mechanics. The clean statement I₃ = 0 is about amplitudes summed over paths, not about raw slit intensities.
 
@@ -73,7 +73,7 @@ The Map reads κ as the measured coordinate beneath three of its tenets, and mar
 
 **Tenet 4 (No Many Worlds) — what makes κ well-defined.** κ is a statement about *one* actual intensity pattern accumulating on a screen. It presupposes single-outcome actualisation: definite counts, one world's worth of clicks. The Map's [[tenets#^no-many-worlds|single-outcome ontology]] is the setting in which the third-order residue is a measured number rather than a branch-relative bookkeeping quantity, so κ and the No-Many-Worlds tenet share the same background posit of objective actualisation.
 
-**Tenet 5 (Occam's Razor Has Limits) — the tested slice.** Every κ bound lives in a clean, engineered multi-path apparatus — single photons (Sinha, Kauten), molecular matter waves, nuclear-spin ensembles. None involves functioning neural tissue, and none operates on the coherence timescale a consciousness-interface proposal would need. The tested κ constrains post-quantum probability *in the tested regime* and is silent on a brain-internal deviation — precisely the [[sorkin-delta-brain-internal-analogues|Sorkin-Δ analogue]] argument that no clean neural counterpart of "blocking a slit" exists. This is the concrete, quantity-level form of Tenet 5's warning that a result's authority does not automatically extend past the slice in which it was earned. The slice is real and expanding (Sinha → Kauten, and now a first collider-timescale constraint on a related linearity observable — see [[#reading-a-nonzero-term|below]]); it is never the whole space.
+**Tenet 5 (Occam's Razor Has Limits) — the tested slice.** Every κ bound lives in a clean, engineered multi-path apparatus — single photons (Sinha, Kauten), molecular matter waves, nuclear-spin ensembles. None involves functioning neural tissue, and none operates on the coherence timescale a pre-decoherence interface proposal would need. The tested κ constrains post-quantum probability *in the tested regime* and is silent on a brain-internal deviation — precisely the [[sorkin-delta-brain-internal-analogues|Sorkin-Δ analogue]] argument that no clean neural counterpart of "blocking a slit" exists. This is the concrete, quantity-level form of Tenet 5's warning that a result's authority does not automatically extend past the slice in which it was earned. The slice is real and expanding (Sinha → Kauten, and now a first collider-timescale constraint on a related linearity observable — see [[#reading-a-nonzero-term|below]]); it is never the whole space.
 
 ## Does a Nonzero Term Mean New Physics? {#reading-a-nonzero-term}
 
