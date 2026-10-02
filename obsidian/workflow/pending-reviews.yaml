@@ -359,3 +359,32 @@
   subject_articles:
   - concepts/neural-correlates-of-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-01-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6abf1238-4638-83ed-813d-325b1c36b0a5
+  commissioned_at: '2026-10-02T02:10:57.991973+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, structure, tenet coherence,
+    contradictions'
+  target_filename: outer-review-2026-10-02-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a rigorous external reviewer and conduct a full-site audit
+    of The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind
+    site built on five tenets: dualism, minimal quantum interaction, bidirectional
+    interaction, rejection of many-worlds, and limits to Occam''s razor. Analyse the
+    site as a whole rather than any single article. Identify: (1) novel insights or
+    inferences that the site''s own commitments imply but it has not yet stated; (2)
+    structural weaknesses in its argument architecture, including dependence on contested
+    empirical claims; (3) tenet-coherence issues, where articles strain against or
+    quietly abandon a tenet; and (4) cross-cluster contradictions between its topics,
+    concepts, voids, positions register and apex syntheses. Verify citations and quotations
+    where you can, and flag any you cannot confirm. Web-search indices lag by a day
+    or two, so consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to see recent edits before judging an article''s current state. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
