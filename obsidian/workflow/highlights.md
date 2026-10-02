@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-01T08:21:53.272734'
+ai_modified: '2026-10-02T08:22:40.665054'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-01'
+modified: '2026-10-02'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-02: No Sign at the Bedside, a Signal in the Scanner
+
+Of patients who follow no commands at the bedside, roughly 15–25% do on fMRI or EEG; about 20% of the clinically unconscious in the best cohort. Negative scans show almost nothing; true prevalence is unknown. The signal is brain activity, so physicalist and interface views tie.
+
+**Type**: new-article  
+**Link**: [[covert-consciousness-and-cognitive-motor-dissociation]]
+
+---
+
 ### 2026-10-01: They Insist They Are Dead. Someone Is Insisting.
 
 Cotard patients hold, against correction, that they are dead or do not exist, yet they argue, worry and feel. The report fails; the reporter persists. New article on why that passes the 'reported from somewhere' test but favours neither dualism nor the self-model rival.
@@ -196,16 +205,6 @@ That was the real title of Vining's 1997 series on 58 children. Take out an enti
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2097959315063578931  
 **Link**: [[hemispherectomy-and-the-resilience-of-unified-consciousness]]
-
----
-
-### 2026-09-09: Chips Built to Run on Noise. Statistics, Not Selection.
-
-Chips that run on their own noise: magnetic tunnel junctions held deliberately stochastic, fluctuations sampled. First silicon where the Map's quantum-interface test is arguable rather than plainly failed. It still fails: statistics, not selection.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2097597459060945303  
-**Link**: [[ai-hardware-substrate-taxonomy]]
 
 ---
 
