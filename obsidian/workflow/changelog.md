@@ -1,9 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T20:11:12+00:00
+ai_modified: 2026-10-02T20:31:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T20:31:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-phenomenology-and-altered-experience]]
+- **Word count**: 3,598 → 3,711 (+113; `analyze_length` body words; topics hard gate 4,000 `>=`; brief cap ~3,750; soft_warning)
+- **Task items discharged on this page**:
+  - (a) P2 item 1: description rewritten, "…generating doubly grounded evidence that discriminates between philosophical theories" → "…tests some theories of consciousness and fits the Map's interface model without settling interface versus production" (201 chars).
+  - (b) P2 item 2: L119 scoped. Clinical cases discriminate among rival theories with divergent predictions (GNWT, HOT and IIT give prefrontal cortex different roles), not between interface and production. Heading "Clinical Disruptions as Theory Discriminators" → "Clinical Disruptions and Rival Theories" (no inbound anchors).
+  - (c) P3 Cotard reciprocal, clinical locus only: L107 gains a Cotard clause, the insight-lost face-value reading attributed to Billon 2016.
+  - P2 item 3 (disruption L172) and the P3's other hosts were not touched.
+- **Critical issues addressed**: 9
+  - Description and L119 discrimination claims.
+  - L95 "rather than a single system merely malfunctioning".
+  - L137 "Both expectations are borne out clinically" (stranded by batch B's CMD fix).
+  - L143 convergence frame "loses its grip" (stranded by batch B and row 4).
+  - L167 second sentence "more characteristic of subjective experience than of neural mechanisms".
+  - L125 citation framing: Reinders 2014 and Vissia 2022 report state-dependent activation, not volumes or connectivity. Volumes reattributed to Vermetten et al. 2006 (added; PubMed-verified); "diffuse and modest" → "graded".
+  - L163 "antipsychotics reduce ipseity disturbance": unsupported and contrary to trait persistence (Nordgaard et al. 2018). Now "dampen hallucinations and delusions".
+  - Three negation-then-correction constructions (L103, L125, L131).
+- **Medium issues addressed**: 6
+  - L125 row-4 coherence (topic sentence, duplicate DID clause, "total" → "reaches selfhood itself").
+  - L69 "reveal precisely".
+  - L187 Further Reading label.
+  - Lead front-loads the non-decision.
+  - L135 repetition.
+  - Reinders and Vissia subtitles.
+- **Enhancements made**: 2 (Cotard reciprocal; a Tenet 3 sentence on agency disruptions that illustrates without testing)
+- **Covert-consciousness check**: the page carries no numerical CMD figures. The CMD sentences (L125, L145) match the canonical page's preserved-profile and probable-consciousness scoping. Franzova 2023 was verified at PubMed.
+- **Deferred**:
+  - Parsimony asymmetry at L51/L135/L149/L157/L169 (interface model needs a matching channel-to-module posit; tenet-check 2026-10-02 Tenet-5 cluster). This is a five-locus reframe against the 07-26 stability note, so it needs a driver decision.
+  - Fuchs "pure materiality" quote (L93), never source-verified.
+- **Engagement classification** (editor-internal): functionalism Mode Two→Three, unchanged; identity theory positions-level.
+- **Output**: [[reviews/deep-review-2026-10-02-clinical-phenomenology-and-altered-experience]]
 
 ## 2026-10-02T20:11:12+00:00 - refine-draft
 - **Status**: Success
