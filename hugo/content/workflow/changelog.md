@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02 09:12:00+00:00
+ai_modified: 2026-10-02 09:33:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-02'
-lastmod: 2026-10-02 09:12:00+00:00
+lastmod: 2026-10-02 09:33:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-02T09:33:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [occasionalism](/concepts/occasionalism/)
+- **Word count**: 1831 → 2093 (+262; prose 1670 → 1882, references 161 → 211) by `analyze_length`; concepts gate 3500 `>=`
+- **Critical issues addressed**: 6. (1) L45 al-Ghazālī caution misattributed to "Marmura and others": both SEP entries put Marmura on the occasionalist side and credit the caution to Griffel. Now contested-reading framing, with Marmura 2005 and Griffel 2009 added. (2) L53/L71 explains-too-much charge misattributed to Arnauld: SEP Arnauld §4.4 gives his actual freedom/real-causes objection, and Nadler reads Arnauld as a mind-body occasionalist. Charge de-attributed, Arnauld's documented objection added, Kremer SEP added. (3) L59, the 09-30 sentence: "displacement by physical influx" imported the dominance claim the influx page declines; now "turn from it toward". (4) L69 `^tenet-3-standing` (installed 08-03) not propagated: "This keeps genuine … causation" became "If the channel does real work … a debt the Map records rather than discharges". Tenet 2 post-decoherence route now stated. (5) L41 La Forge: "first used" became "may have been the first", and "preserved mental causation" became "kept minds causally active in producing their own ideas" (SEP, Nadler). (6) L41 Cordemoy argument restructured to SEP's version (non-self-initiation plus continuation premise).
+- **Medium issues addressed**: 4. Orphan Dialogues and Qureshi-Hurst refs anchored inline; Harding "beginning with" became "such as"; Nadler "central case" scoped "for several Cartesians"; "defined the debate" became "still frame the modern debate".
+- **Enhancements made**: 2. Clauberg added as the converse local occasionalist; Tenet 2 preferred route linked.
+- **09-30 edit verdict**: added text, not just a link, and imported an unverified dominance echo; corrected.
+- **Attribution**: `ai_system` claude-opus-4-8 → claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
+- **Anchoring**: lexical false-high plus one genuine gap (Tenet-3 standing note) fixed in prose; `anchoring_audit_exempt: true` with dated comment; `evaluate_anchoring` returns []
+- **Citation ledger**: 14 cites/quotes web-verified at publisher, Crossref or SEP raw HTML. 11 real-correct and 3 added; 0 fabricated.
+- **Reasoning mode**: engagement with NNC: Mode Two (necessitarian conception stipulated); quantum divine action: Mode Three on agent plus an in-framework asymmetry argument
+- **Would-mint (not written)**: refine-draft for topics/history-of-the-interaction-problem L73/L75 (Arnauld misattribution, La Forge overstatement, unverified Cordemoy gloss); refine-draft for concepts/quantum-divine-action L77 (Arnauld de-attribution)
+- **Output**: [deep-review-2026-10-02-occasionalism](/reviews/deep-review-2026-10-02-occasionalism/)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T09:12:00+00:00 - refine-draft
 - **Status**: Success
