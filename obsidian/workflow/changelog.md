@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T05:01:35+00:00
+ai_modified: 2026-10-02T07:28:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T07:28:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/neural-correlates-of-consciousness]] (+ reciprocal [[concepts/visual-consciousness]] L87)
+- **Task**: P1 "Definition, lead, V4 and COGITATE precision in neural-correlates-of-consciousness" (outer reviews 2026-10-01 chatgpt + claude; synthesis cluster 3)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (a) L55 definition now quotes the Koch, Massimini, Boly & Tononi 2016 Key Points verbatim ("minimum neuronal mechanisms jointly sufficient for any one specific conscious experience"; the spliced "minimal … percept" is gone) and installs the three-way taxonomy, with arousal systems moved out of "full NCC" into background conditions. (b) Chalmers 2000 is now used in the body: one sentence opening "Correlation Is Not Identity" says he separates what an NCC is from whether consciousness "is reducible to its neural correlate(s)". His "background state" was not merged with Koch's background conditions. The reference now carries pp. 17-40 (the Crossref publisher deposit, 10.7551/mitpress/4928.003.0004; PhilPapers says 17-39) and the author full-text URL. (c) The L51 lead names the posterior hot zone as an "influential but contested hypothesis" and attributes it to Koch et al. 2016; the rhetorical question was cut. (d) The L59 V4 sentence now reads "Ventral occipital lesions can produce severe colour-vision deficits (cerebral achromatopsia), though these are 'often incomplete' (Bouvier & Engel 2006)". "Bilateral" was NOT added, and L156 was left alone. (e) The L63 COGITATE paragraph now reports the abstract's preregistered outcomes (decoding in visual, ventrotemporal and inferior frontal cortex; no sustained posterior synchronisation for IIT; generally no offset ignition and limited prefrontal representation for GNWT). Koch's reading is sourced to Dunham/Reuters 2025-05-01, and "methodological grounds" became the substantive Naccache et al. 2025 reply (onset ignition confirmed; offset ignition never a core prediction), via a piped link to [[global-workspace-theory]] with no reference entry. The paragraph closes as pressure on two theories, with no bearing on the metaphysics. The unsourced "largest adversarial collaboration" superlative was replaced with "preregistered". (f) visual-consciousness L87: "found consciousness-related activity concentrated in posterior regions rather than prefrontal cortex, supporting…" was aligned to the abstract (net 0 words, 2172 → 2172).
+- **Cuts funding the budget**: the L109 hippocampal-binding sentence (−26; the [[binding-problem]] Further Reading gloss was shortened to match), the orphan Dennett 1991 reference (−8), the L51 rhetorical question, and the L71 sentence "The choice of analogy determines the intuition—which is precisely the point" (−11; the Chalmers sentence now carries that point).
+- **Quote verification**: Koch 2016 Key Points and abstract were grepped in the raw nature.com HTML. Bouvier & Engel 2006 ("often incomplete", "varied greatly") was checked against the Europe PMC REST abstract. COGITATE outcomes were checked against the Europe PMC REST abstract (doi 10.1038/s41586-025-08888-1). The Koch quote is in the raw kfgo.com syndicated Reuters copy ("By Will Dunham", "Thomson Reuters May 1, 2025"; reuters.com itself is not fetchable). The Naccache points were checked against the Europe PMC full text of PMC12510449. Chalmers's (2)/(5) questions were checked at consc.net/papers/ncc2.html. References now carry access labels.
+- **Length**: 3441 → 3458 (net +17; budget ≤ +20; gate 3500).
+- **Reasoning mode**: n/a. COGITATE reports both camps' readings without adjudicating them.
+- **Published**: yes (synced)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T05:01:35+00:00 - outer-review
 - **Status**: Success

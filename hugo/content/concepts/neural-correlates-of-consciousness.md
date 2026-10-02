@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-02 02:58:43+00:00
+ai_modified: 2026-10-02 07:28:26+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 22:17:26+00:00
-lastmod: 2026-10-02 02:58:43+00:00
+lastmod: 2026-10-02 07:28:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,19 +52,19 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. When you see red, what patterns of brain activity correspond to that experience? This research program, pioneered by Christof Koch and Francis Crick, has yielded significant empirical findings—particularly that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions. Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) is fully compatible with NCC findings.
+Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. This research program, pioneered by Christof Koch and Francis Crick, has produced the influential but contested hypothesis that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions (Koch et al. 2016). Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) is fully compatible with NCC findings.
 
 ## What NCC Research Studies
 
-Koch defines NCC as "the minimal neuronal mechanisms jointly sufficient for any one specific conscious percept." The research distinguishes **content-specific NCC** (neural activity for specific experiences—seeing faces, hearing music) from **full NCC** (neural activity required for consciousness to occur at all, involving brainstem and thalamic arousal systems).
+Koch et al. (2016) define the NCC as "the minimum neuronal mechanisms jointly sufficient for any one specific conscious experience" and distinguish **full NCC** (for experience in general) and **content-specific NCC** from **background conditions** such as arousal systems, which enable consciousness without contributing directly to its content.
 
 ## The Posterior Cortical Hot Zone
 
-One widely reported NCC finding is that conscious perception correlates primarily with activity in posterior cortical regions rather than frontal "executive" regions—though the interpretation remains contested. Lesion studies show damage to V4 causes complete loss of color experience (achromatopsia), while stimulation of posterior cortex evokes experiences directly. No-report paradigms suggest that consciousness-related activity localises to posterior regions; frontal activation may reflect *reporting* consciousness rather than having it. [GNWT proponents](/concepts/global-workspace-theory/) (notably Dehaene and Changeux) dispute this reading, arguing the no-report paradigm inadequately distinguishes consciousness from conscious access. The wider theory landscape splits similarly: [higher-order-theories](/concepts/higher-order-theories/) look prefrontal, [attention-schema-theory](/concepts/attention-schema-theory/) to an attention model in temporoparietal cortex, while [recurrent-processing-theory](/concepts/recurrent-processing-theory/) and [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/) keep the correlate in sensory cortex.
+One widely reported NCC finding is that conscious perception correlates primarily with activity in posterior cortical regions rather than frontal "executive" regions—though the interpretation remains contested. Ventral occipital lesions can produce severe colour-vision deficits (cerebral achromatopsia), though these are "often incomplete" (Bouvier & Engel 2006); stimulation of posterior cortex evokes experiences directly. No-report paradigms suggest that consciousness-related activity localises to posterior regions; frontal activation may reflect *reporting* consciousness rather than having it. [GNWT proponents](/concepts/global-workspace-theory/) (notably Dehaene and Changeux) dispute this reading, arguing the no-report paradigm inadequately distinguishes consciousness from conscious access. The wider theory landscape splits similarly: [higher-order-theories](/concepts/higher-order-theories/) look prefrontal, [attention-schema-theory](/concepts/attention-schema-theory/) to an attention model in temporoparietal cortex, while [recurrent-processing-theory](/concepts/recurrent-processing-theory/) and [attended-intermediate-representations-theory](/concepts/attended-intermediate-representations-theory/) keep the correlate in sensory cortex.
 
 ## The COGITATE Experiment
 
-In April 2025, *Nature* published COGITATE results—the largest adversarial collaboration in consciousness science. IIT predicted sustained synchronised activity in posterior regions; GNWT predicted widespread "ignition" including prefrontal cortex. Neither theory was fully vindicated; the headline result was that the findings were decidedly mixed, with neither theory holding a clear advantage. Koch read the experiments as favouring a posterior rather than a prefrontal locus for the neural footprint of consciousness—a verdict GNWT proponents contest on methodological grounds. The adversarial-collaboration structure of COGITATE is informative about which predictions survived, but its interpretation should not be presented as a settled verdict for either side.
+In April 2025, *Nature* published results from COGITATE, a preregistered adversarial collaboration. IIT predicted sustained synchronised activity in posterior regions; GNWT predicted widespread "ignition" including prefrontal cortex. The tests decoded conscious content in visual, ventrotemporal and inferior frontal cortex but challenged both theories: IIT's sustained posterior synchronisation was missing, and GNWT's predicted offset ignition was generally absent, with limited prefrontal representation of some conscious dimensions. Koch told Reuters the evidence was "decidedly in favor of the posterior cortex" (Dunham 2025); [GNWT's authors reply](/concepts/global-workspace-theory/) that onset ignition was confirmed and offset ignition never a core prediction. Two theories came under pressure; the metaphysics did not move.
 
 ## What NCC Research Cannot Tell Us
 
@@ -72,7 +72,7 @@ Finding neural correlates does not resolve the fundamental questions about consc
 
 ### Correlation Is Not Identity
 
-That consciousness correlates with posterior cortical activity does not mean consciousness *is* that activity. Consider two analogies pointing in opposite directions: digestion correlates with stomach chemistry and arguably *is* that chemistry; but a television picture correlates with electromagnetic signals while being something the signal carries rather than constitutes. The choice of analogy determines the intuition—which is precisely the point. Correlation alone cannot settle which analogy is apt. Three possibilities remain:
+Chalmers (2000) separates what an NCC is from whether consciousness "is reducible to its neural correlate(s)". That consciousness correlates with posterior cortical activity does not mean consciousness *is* that activity. Consider two analogies pointing in opposite directions: digestion correlates with stomach chemistry and arguably *is* that chemistry; but a television picture correlates with electromagnetic signals while being something the signal carries rather than constitutes. Correlation alone cannot settle which analogy is apt. Three possibilities remain:
 
 1. **Identity** (materialism): Consciousness *is* neural activity
 2. **Emergence**: Consciousness *arises from* neural activity as a higher-level phenomenon
@@ -109,8 +109,6 @@ Different memory types have different neural correlate requirements, suggesting 
 | Episodic | Autonoetic | Hippocampus + prefrontal + posterior |
 
 The hippocampus is essential for [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the self-knowing awareness enabling [episodic-memory](/concepts/episodic-memory/). Without it, patients retain [semantic knowledge](/concepts/semantic-memory/) and [procedural skills](/concepts/implicit-memory/) but lose the capacity for mental time travel. This matters for NCC research: the hippocampus isn't the NCC for consciousness generally but for a *specific mode* of consciousness.
-
-The hippocampus also performs binding for both perception and memory: the [binding problem](/concepts/binding-problem/) for consciousness and for episodic memory may be aspects of the same operation.
 
 ## Filter Theory: Correlates as Interface Points
 
@@ -209,7 +207,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity and complexity — what NCCs track at different levels
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon and NCCs
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness and hippocampal NCCs
-- [binding-problem](/concepts/binding-problem/) — How hippocampal binding connects consciousness and memory
+- [binding-problem](/concepts/binding-problem/) — How features bind into one experience
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Functional dissociations showing consciousness enables operations unconscious processing cannot
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why consciousness resists measurement at every level
 - [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) — COGITATE results, split-brain unity, and other 2025-2026 findings bearing on NCC interpretation
@@ -218,12 +216,13 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 
 ## References
 
+1. Bouvier, S.E., & Engel, S.A. (2006). Behavioral deficits and cortical damage loci in cerebral achromatopsia. *Cerebral Cortex*, 16(2), 183-191. https://doi.org/10.1093/cercor/bhi096 (abstract)
 1. Calef, S. "Dualism and Mind." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/dualism-and-mind/ (full text)
-1. Chalmers, D.J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness*. MIT Press.
-1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
+1. Chalmers, D.J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness* (pp. 17-40). MIT Press. https://consc.net/papers/ncc2.html (full text)
+1. Dunham, W. (2025, May 1). Scientists explore where consciousness arises in the brain. *Reuters*. https://kfgo.com/2025/05/01/scientists-explore-where-consciousness-arises-in-the-brain/ (syndicated text)
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39. https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf (author's eprint)
 1. Josipovic, Z. (2019). Nondual Awareness: Consciousness-as-such as Non-representational Reflexivity. *Progress in Brain Research*, 244, 273-298.
-1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
+1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17(5), 307-321. https://doi.org/10.1038/nrn.2016.22 (Key Points, abstract)
 1. Kondziella, D., Friberg, C.K., Frokjaer, V.G., Fabricius, M., & Møller, K. (2016). Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*, 87, 485-492.
 1. Claassen, J., et al. (2019). Detection of Brain Activation in Unresponsive Patients with Acute Brain Injury. *New England Journal of Medicine*, 380, 2497-2505.
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361. https://www.newdualism.org/papers/J.Levine/Levine-PPQ1983.pdf (full text)

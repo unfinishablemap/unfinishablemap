@@ -4,7 +4,7 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-09-25
 human_modified:
-ai_modified: 2026-09-25T00:16:18+00:00
+ai_modified: 2026-10-02T07:28:36+00:00
 last_deep_review: 2026-09-24T21:15:44+00:00
 draft: false
 topics:
@@ -84,7 +84,7 @@ These can dissociate. The [[phenomenal-overflow|overflow argument]] suggests we 
 
 ## Neural Correlates
 
-The [[neural-correlates-of-consciousness|NCC]] for visual consciousness localise primarily to posterior cortical regions, particularly the "posterior cortical hot zone." The 2025 COGITATE experiment found consciousness-related activity concentrated in posterior regions rather than prefrontal cortex, supporting theories that locate visual consciousness near sensory processing rather than in executive regions.
+The [[neural-correlates-of-consciousness|NCC]] for visual consciousness localise primarily to posterior cortical regions, particularly the "posterior cortical hot zone." The 2025 COGITATE experiment decoded conscious content in visual, ventrotemporal and inferior frontal cortex and challenged both integrated information theory and global workspace theory, leaving the posterior-versus-prefrontal dispute open.
 
 Key visual NCC findings:
 
