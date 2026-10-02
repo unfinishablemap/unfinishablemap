@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-30 16:12:18+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-02 16:54:33+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/history-of-interactionist-dualism/
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 07:38:57+00:00
-lastmod: 2026-09-30 16:12:18+00:00
+lastmod: 2026-10-02 16:54:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,9 +74,9 @@ Elisabeth's unanswered question generated an extraordinary range of responses wi
 
 ### Occasionalism
 
-The most influential response came from within the Cartesian camp. **Louis de La Forge** argued from continuous creation that bodies lack independent causal power, though he preserved mental causation. **Géraud de Cordemoy** went further: we never observe causal connections between volitions and actions—only temporal succession. **Nicolas Malebranche** built the most systematic version: God is the only true cause in nature. When a mind wills bodily movement, God moves the body on the occasion of that volition.
+The most influential response came from within the Cartesian camp. **Louis de La Forge** argued from continuous creation that bodies lack independent causal power, though he apparently held that minds produce their own ideas. **Géraud de Cordemoy**, generally read as denying minds causal power too, argued that bodies do not start their own motion, so a non-material first mover must start and continue it. **Nicolas Malebranche** built the most systematic version: God is the only true cause in nature. When a mind wills bodily movement, God moves the body on the occasion of that volition.
 
-**Pierre-Sylvain Régis** and **Antoine Arnauld** resisted. Arnauld argued that dissolving causation into divine intervention explains too much and therefore explains nothing. Régis conceded the interaction is incomprehensible while insisting it is real—an awkward but important position reflecting the intuition that genuine secondary causation matters for science. The dedicated [occasionalism](/concepts/occasionalism/) article reconstructs the four argument families, the global/local distinction, and why the position's modern [quantum-divine-action](/concepts/quantum-divine-action/) descendants are the Map's living foil.
+**Pierre-Sylvain Régis** and **Antoine Arnauld** resisted. Arnauld's objection concerned agency: Malebranche's principle that God does whatever creatures seem to do "destroys the nature of intelligent beings," who would not be free unless they determined their own wills "as real causes" (1685, as translated in Kremer's SEP entry). His target was that global doctrine; Nadler reads him as an occasionalist about mind-body traffic. Régis conceded the interaction is incomprehensible while insisting it is real—an awkward but important position reflecting the intuition that genuine secondary causation matters for science. The dedicated [occasionalism](/concepts/occasionalism/) article reconstructs the four argument families, the global/local distinction, and why the position's modern [quantum-divine-action](/concepts/quantum-divine-action/) descendants are the Map's living foil.
 
 ### Extended Spirit
 
@@ -183,6 +183,7 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 1. Leibniz, G. W. (1695). "New System of the Nature and Communication of Substances." *Journal des savants*.
 1. Leibniz, G. W. (1714). *Monadology*. Trans. R. Latta (1898). Oxford University Press.
 1. Nadler, S. (2011). *Occasionalism: Causation Among the Cartesians*. Oxford University Press.
+1. Kremer, E. (2007, rev. 2021). "Antoine Arnauld." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/arnauld/
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Kim, J. (2011). *Philosophy of Mind*. 3rd edition. Westview Press.
 1. Sherrington, C. S. (1940). *Man on His Nature*. The Gifford Lectures, Edinburgh 1937–38. Cambridge University Press.

@@ -2,14 +2,14 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-02T16:25:16.481971+00:00'
-session_count: 21900
+last_updated: '2026-10-02T16:47:51.665691+00:00'
+session_count: 21901
 cycle_position: 14208
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-02T15:07:51.869545+00:00'
-  apex-evolve: '2026-09-30T08:05:17.848084+00:00'
+  apex-evolve: '2026-10-02T16:47:51.665691+00:00'
   check-links: '2026-10-02T15:55:35.678667+00:00'
   check-model-fallback: '2026-10-02T13:50:43.136321+00:00'
   check-tenets: '2026-10-02T00:56:53.725935+00:00'
@@ -112,7 +112,7 @@ progress:
   voids_written: 111
   positions_written: 23
   research_notes: 631
-  reviews_completed: 7813
+  reviews_completed: 7814
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-02'
-  outcome: success
-  kind: trigger
 - task: research-topic
   type: research-topic
   date: '2026-10-02'
@@ -218,6 +213,11 @@ recent_tasks:
   kind: trigger
 - task: research-voids
   type: research-voids
+  date: '2026-10-02'
+  outcome: success
+  kind: trigger
+- task: apex-evolve
+  type: apex-evolve
   date: '2026-10-02'
   outcome: success
   kind: trigger

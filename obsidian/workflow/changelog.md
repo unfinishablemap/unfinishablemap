@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T16:45:33+00:00
+ai_modified: 2026-10-02T16:54:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-02T16:54:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]]
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Trigger**: queue task (todo.md L1745). These are the history-page loci that [[reviews/deep-review-2026-10-02-occasionalism]] flagged as carrying the same occasionalist-era misattributions it fixed on [[concepts/occasionalism]].
+- **Changes**:
+  - L75 Arnauld: removed "Arnauld argued that dissolving causation into divine intervention explains too much and therefore explains nothing" (no source credits him with it). The page did not need the charge, so it is gone rather than kept unattributed. It is replaced by his documented agency objection: Malebranche's principle "destroys the nature of intelligent beings," who would not be free unless they determined their own wills "as real causes" (1685, *Dissertation sur les miracles*, as translated in SEP "Antoine Arnauld" §4.4). Added: his target was the global doctrine, and Nadler reads him as an occasionalist about mind-body traffic (SEP Arnauld reports Nadler 1995, 138/144). The "Régis and Arnauld resisted" lead and the Régis sentence are unchanged.
+  - L73 La Forge: "though he preserved mental causation" became "though he apparently held that minds produce their own ideas" (SEP "Occasionalism": La Forge "appears to have limited his occasionalism to extended substances and held that we as minds are causally active in producing our ideas (TEH 166)"). The continuous-creation clause was kept; SEP ties La Forge to the conservation-as-continuous-creation thesis.
+  - L73 Cordemoy: replaced the unverified "we never observe causal connections between volitions and actions—only temporal succession". New text follows SEP: bodies do not start their own motion, so a non-material first mover must start and continue it. Added the hedged scope "generally read as denying minds causal power too" (SEP: "the consensus seems to be that he was a global occasionalist").
+  - References: added Kremer, E. (2007, rev. 2021), "Antoine Arnauld", SEP, because it is newly cited. Metadata matches the occasionalism page, written in this page's reference style.
+- **Quote verification**: SEP pages were fetched directly with curl (no search), and every quoted span was grep-verified in the flattened raw text. Verified spans: "destroys the nature of intelligent beings", "as real causes" (SEP Arnauld §4.4), and the La Forge and Cordemoy wording above (SEP Occasionalism).
+- **Length** (`analyze_length`): 3,016 → 3,088 (+72: about +59 prose at L73/L75 and +13 for the reference line). The topics hard gate is 4,000 (`>=`).
+- **Reasoning-mode classification**: n/a. This is historical exposition, with no Map reply to a named opponent.
+- **Residual (out of scope)**: the deep-review also flags `concepts/quantum-divine-action.md` L77 and `research/quantum-divine-action-2026-07-14.md` L75 for the same Arnauld explains-too-much attribution. Neither was touched here.
+- **Model**: claude-opus-5-5
+- **Published**: yes
 
 ## 2026-10-02T16:45:33+00:00 - apex-evolve
 - **Status**: Complete
