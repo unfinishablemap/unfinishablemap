@@ -1810,17 +1810,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Caution**: Three files; report each. Measure each with `analyze_length` first. The reference wording for the ordering is the lead of concepts/post-decoherence-selection (revised 2026-10-03 01:11Z).
 - **Notes**: (1) thoughtful-local-friendliness L77 says consciousness "modulates it rather than starting it", the verb the Map retired on 2026-10-03. Restate it in the ordering post-decoherence-selection now uses: objective reduction fixes occurrence, timing, basis and (absent an interface) the outcome; in interface-grade brains consciousness preempts token selection inside the Born corridor; the combined law is an open [collapse-priority debt](/concepts/prebiotic-collapse/#the-completeness-tension). (2) Chalmers & McQueen: the published version is 2022 (pp. 11–63 per Crossref; the arXiv preprint is 2021). testing-consciousness-collapse L119, L123, L127 (and check L161) and forward-in-time-conscious-selection L101 cite "(2021)". Change to 2022 if the page means the published paper, or make the preprint explicit in the References entry if it means the arXiv version; match the References list either way. topics/comparing-quantum-consciousness-mechanisms L205 was already changed to 2022 by the 02:01Z review.
 
-### P2: Carry the witness-state correction ("must still steer a little") to six pages that still call it awareness without selection
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/witness-consciousness.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: refine-draft 2026-10-03 02:59Z (trumping-preemption P1, synthesis cluster 4 of outer-review-synthesis-2026-10-02; carry on stapp-quantum-mind L100) — six out-of-scope loci reported by that fork
-- **Generated**: 2026-10-03
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/concepts/meditation-and-consciousness-modes.md, /home/andy/unfin/unfinishablemap/obsidian/topics/the-observer-witness-in-meditation.md, /home/andy/unfin/unfinishablemap/obsidian/topics/temporal-consciousness-structure-and-agency.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/phenomenology-of-choice-and-volition.md
-- **Caution**: Five files (six loci); report each separately and measure each with `analyze_length` first (several are near or over their gates: net-neutral or negative there). The source of record is concepts/trumping-preemption "Costs of the Template", fourth cost (02:59Z), and concepts/stapp-quantum-mind L98/L100: a witness state that made no difference to which outcomes become actual could not cause its own reports, which is the self-stultification structure the Map uses against epiphenomenalism. Do not edit those two pages.
-- **Notes**: The witness state is still described as awareness WITHOUT selection on: concepts/witness-consciousness L168 (its reply to the epiphenomenalism worry; the most important locus), L180, L198; concepts/meditation-and-consciousness-modes L135, L139 (L140 already notes that awareness without probing is impossible inside Stapp's framework, which supports the change); topics/the-observer-witness-in-meditation (frontmatter description); topics/temporal-consciousness-structure-and-agency L224; concepts/phenomenology-of-choice-and-volition L137. Restate each as minimal or reduced selection ("with little selection"; the witness must still steer a little, or it could not cause its own reports), matching stapp-quantum-mind L98/L100. Keep each page's phenomenological description of the witness state intact; change only the causal claim.
-
 ### P2: `topics/bergson-and-duration` moves from phenomenological non-spatiality to ontological non-physicality without an argument, and calls the result "independent" support for dualism
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/bergson-and-duration.md
@@ -1904,6 +1893,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-03: Carry the witness-state correction ("must still steer a little") to six pages that still call it awareness without selection
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/witness-consciousness.md
+- **Notes**: The witness state is still described as awareness WITHOUT selection on: concepts/witness-consciousness L168 (its reply to the epiphenomenalism worry; the most important locus), L180, L198; concepts/meditation-and-consciousness-modes L135, L139 (L140 already notes that awareness without probing is impossible inside Stapp's framework, which supports the change); topics/the-observer-witness-in-meditation (frontmatter description); topics/temporal-consciousness-structure-and-agency L224; concepts/phenomenology-of-choice-and-volition L137. Restate each as minimal or reduced selection ("with little selection"; the witness must still steer a little, or it could not cause its own reports), matching stapp-quantum-mind L98/L100. Keep each page's phenomenological description of the witness state intact; change only the causal claim.
 
 ### ✓ 2026-10-03: primitive-identities-and-strong-necessities — apply the 2026-10-03 pessimistic review's four priority fixes (Type-B concessions overstated, "strong necessity" loses "metaphysically possible", identity-or-law considerations overstated, interactionism's second primitive)
 - **Type**: refine-draft

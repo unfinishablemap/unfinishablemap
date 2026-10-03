@@ -1808,17 +1808,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Caution**: Three files; report each. Measure each with `analyze_length` first. The reference wording for the ordering is the lead of concepts/post-decoherence-selection (revised 2026-10-03 01:11Z).
 - **Notes**: (1) thoughtful-local-friendliness L77 says consciousness "modulates it rather than starting it", the verb the Map retired on 2026-10-03. Restate it in the ordering post-decoherence-selection now uses: objective reduction fixes occurrence, timing, basis and (absent an interface) the outcome; in interface-grade brains consciousness preempts token selection inside the Born corridor; the combined law is an open [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]. (2) Chalmers & McQueen: the published version is 2022 (pp. 11–63 per Crossref; the arXiv preprint is 2021). testing-consciousness-collapse L119, L123, L127 (and check L161) and forward-in-time-conscious-selection L101 cite "(2021)". Change to 2022 if the page means the published paper, or make the preprint explicit in the References entry if it means the arXiv version; match the References list either way. topics/comparing-quantum-consciousness-mechanisms L205 was already changed to 2022 by the 02:01Z review.
 
-### P2: `topics/bergson-and-duration` moves from phenomenological non-spatiality to ontological non-physicality without an argument, and calls the result "independent" support for dualism
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/bergson-and-duration.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-10-03-chatgpt-5-6-sol-pro.md` (§12 "Bergson and Duration"; improvement item 29)
-- **Generated**: 2026-10-03
-- **Caution**: 2416 body words, topics hard 4000, so there is room for a qualifying sentence. Keep the exposition of durée. Change only the inferential claims. Do not edit consciousness-as-activity here; its Bergson line (L71) is item (3) of the P2 sibling task.
-- **Notes**: Apply the direct-refutation discipline: name the unsupported step in natural prose and expose no mode labels. L39 (the lead) says that if lived time resists spatial representation, "consciousness does something physics cannot capture—strengthening the case that the hard problem marks a genuine ontological boundary, not merely an explanatory gap. The Map's [[tenets#^dualism|dualism]] gains independent philosophical support." The RSP Dualism paragraph (L131) repeats the move: "if lived time has qualitative features that spatial description cannot capture, then a complete physical description of the brain leaves out something real about the mind". Two steps are unargued. (a) "Spatial description" is equated with "physical description", but physics represents time dynamically, and Bergson's target is a mode of representation. (b) A phenomenological datum is moved to an ontological conclusion. Rewrite so that durée challenges snapshot-based and spatialising reductive strategies and leaves the explanatory gap where the hard-problem arguments put it. The ontological step should rest on those arguments, which Bergson illustrates but does not supply. Drop "independent". Also check L133 ("This creativity is what the Map means by consciousness exercising causal power … makes such causation intelligible") against tenets.md ^tenet-3-standing, which says causal efficacy is available, not shown actual.
-
 ### P2: `concepts/bi-aspectual-ontology` calls the Map's foundational picture "dualism without substances" while the agency cluster takes on a substance-leaning persisting subject, and neither page links the other
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/bi-aspectual-ontology.md
@@ -1891,6 +1880,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-03: `topics/bergson-and-duration` moves from phenomenological non-spatiality to ontological non-physicality without an argument, and calls the result "independent" support for dualism
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/bergson-and-duration.md
+- **Notes**: Apply the direct-refutation discipline: name the unsupported step in natural prose and expose no mode labels. L39 (the lead) says that if lived time resists spatial representation, "consciousness does something physics cannot capture—strengthening the case that the hard problem marks a genuine ontological boundary, not merely an explanatory gap. The Map's [[tenets#^dualism|dualism]] gains independent philosophical support." The RSP Dualism paragraph (L131) repeats the move: "if lived time has qualitative features that spatial description cannot capture, then a complete physical description of the brain leaves out something real about the mind". Two steps are unargued. (a) "Spatial description" is equated with "physical description", but physics represents time dynamically, and Bergson's target is a mode of representation. (b) A phenomenological datum is moved to an ontological conclusion. Rewrite so that durée challenges snapshot-based and spatialising reductive strategies and leaves the explanatory gap where the hard-problem arguments put it. The ontological step should rest on those arguments, which Bergson illustrates but does not supply. Drop "independent". Also check L133 ("This creativity is what the Map means by consciousness exercising causal power … makes such causation intelligible") against tenets.md ^tenet-3-standing, which says causal efficacy is available, not shown actual.
 
 ### ✓ 2026-10-03: Carry the witness-state correction ("must still steer a little") to six pages that still call it awareness without selection
 - **Type**: refine-draft

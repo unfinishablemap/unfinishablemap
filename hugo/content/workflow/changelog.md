@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 12:40:33+00:00
+ai_modified: 2026-10-03 12:53:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 12:40:33+00:00
+lastmod: 2026-10-03 12:53:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T12:53:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bergson-and-duration](/topics/bergson-and-duration/)
+- **Original score**: n/a (targeted inferential fix; `scripts/curate.py` absent)
+- **Review**: [outer-review-2026-10-03-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-03-chatgpt-5-6-sol-pro/) §12 and improvement item 29
+- **Changes**: Only the inferential claims were changed; the exposition of durée is untouched. Two unargued steps were removed: (a) treating spatial description as physical description, although physics describes change through dynamical laws and Bergson's target is a way of representing time; (b) moving from a phenomenological datum to an ontological conclusion. "Independent" was dropped.
+  - Lead (L39): "the same assumption that makes materialism seem plausible—…quantitative, third-person terms" → "an assumption many reductive accounts of mind lean on—…laying its moments side by side as measurable units". "consciousness does something physics cannot capture—strengthening the case that the hard problem … marks a genuine ontological boundary … The Map's dualism gains independent philosophical support" → durée tells against snapshot-based and spatialising reductive strategies, does not reach physical description as such, and leaves the explanatory gap where the hard-problem arguments put it. Bergson illustrates those arguments without supplying them, so he gives dualism "a vivid case rather than a separate route".
+  - Relation to Site Perspective, Dualism (L131): "His arguments from duration support this independently … a complete physical description of the brain leaves out something real" → a narrower claim (spatialising and snapshot reductions leave something out). The analysis "does not show" the physical-description conclusion; the Map takes the ontological step on the hard-problem arguments (zombie conceivability, knowledge argument). "grounding it in quantum mechanics rather than Bergson's vitalism" → "differing on mechanism, looking to quantum indeterminacy rather than Bergson's vitalism", because the old wording grounded dualism itself in QM.
+  - Bidirectional Interaction (L133), checked against tenets.md `^tenet-3-standing`: "This creativity is what the Map means by consciousness exercising causal power. Bergson's framework makes such causation intelligible" equated experienced novelty with causal efficacy. It now reads as a conditional: Bergson shows what the posited causation would be like if it occurs, and makes it intelligible without showing that it occurs. Experienced novelty is compatible with the brain producing it, and the interface argument shows downward causation to be available "without showing it to be [actual](/tenets/#tenet-3-standing)". "Bergson's durée is" → "For Bergson, durée is". No universal-efficacy claim.
+  - Same-move siblings, fixed: L71 "This is why physics, which proceeds by analysis, systematically misses…" (spatial=physical, in the narrator's voice) → "On his account, this is why physics, insofar as it proceeds by analysis, …". L121 "both resist reduction to spatial or computational description" (phenomenology→irreducibility) → "both resist representation as a row of durationless instants". L125 "they resist purely neural explanation since the same brain can produce radically different temporal experiences depending on attentional stance" (phenomenology→anti-neural; the same brain is not in the same state) → "though they do not by themselves show that this structure escapes neural explanation, since a shift in attentional stance is accompanied by a shift in brain state".
+  - Checked and left: L53 and L73 (already attributed to Bergson); L65 (irreversibility exposition); L83 (agent causation "intelligible" only, now consistent with L133); L89 (conditional, Bergson's model); L119 (targets spatialising theories, consistent); L135 (MWI, out of scope); L137 (a simplicity claim, not an ontological inference).
+  - Frontmatter description: "a philosophical foundation for understanding consciousness as irreducible and causally creative" → "a challenge to snapshot-based models of mind that illustrates, but does not supply, the case for dualism" (199 chars).
+  - Words (`analyze_length`): 2,416 → 2,610 (topics hard 4,000).
+  - Engagement with reductive/materialist accounts: Mode One for snapshot and spatialising models, since they fail at the experienced duration they aim to capture. Mode Three for the ontological residue: the page now says the step rests on the hard-problem arguments and does not claim to make it. Epiphenomenalist alternative at L133: Mode Three, intelligibility without actuality.
+  - Not edited: [consciousness-as-activity](/topics/consciousness-as-activity/) (its Bergson line L71 is a sibling P2 task); tenets.md.
+- **Published**: yes
 
 ## 2026-10-03T12:40:33+00:00 - refine-draft
 - **Status**: Success

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-07-17 09:32:48+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-03 12:53:19+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[temporal-consciousness]]'
@@ -16,9 +16,9 @@ concepts:
 - '[[contemplative-epistemology]]'
 created: 2026-02-20
 date: &id001 2026-02-20
-description: Henri Bergson's durée reveals time as qualitative flow rather than spatial
-  measurement—a philosophical foundation for understanding consciousness as irreducible
-  and causally creative.
+description: Henri Bergson's durée presents lived time as qualitative flow rather
+  than spatial measurement—a challenge to snapshot-based models of mind that illustrates,
+  but does not supply, the case for dualism.
 draft: false
 embedded_videos:
 - embedded: 2026-05-03 11:28:31.658378+00:00
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:44:31+00:00
-lastmod: 2026-07-17 09:32:48+00:00
+lastmod: 2026-10-03 12:53:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Henri Bergson argued that Western philosophy systematically misunderstands time by treating it as a spatial medium—moments arrayed like points on a line, measurable, divisible, inert. His concept of *durée* (duration) names what this spatialization obscures: the qualitative, interpenetrating flow of lived experience where past permeates present and each moment carries the whole of what came before. For The Unfinishable Map, Bergson matters because his critique targets the same assumption that makes materialism seem plausible—the assumption that reality can be exhaustively described in quantitative, third-person terms. If Bergson is right that lived time resists spatial representation, then consciousness does something physics cannot capture—strengthening the case that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) marks a genuine ontological boundary, not merely an explanatory gap. The Map's [dualism](/tenets/#dualism) gains independent philosophical support.
+Henri Bergson argued that Western philosophy systematically misunderstands time by treating it as a spatial medium—moments arrayed like points on a line, measurable, divisible, inert. His concept of *durée* (duration) names what this spatialization obscures: the qualitative, interpenetrating flow of lived experience where past permeates present and each moment carries the whole of what came before. For The Unfinishable Map, Bergson matters because his critique targets an assumption many reductive accounts of mind lean on—that lived experience can be exhaustively described by laying its moments side by side as measurable units. If Bergson is right that lived time resists spatial representation, durée tells against reductive strategies that rebuild experience from snapshots or treat its moments as positions on a line. The critique does not reach physical description as such: Bergson's target is a way of representing time, and physics, which describes change through dynamical laws, need not represent time that way. Durée also leaves the explanatory gap where the arguments for the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) put it; whether that gap marks an ontological boundary is for those arguments to settle. Bergson illustrates what they are about without supplying them, so he offers the Map's [dualism](/tenets/#dualism) a vivid case rather than a separate route.
 
 <details class="yt-embed" data-video-id="q-HgvQtumhQ">
 <summary>Video introduction</summary>
@@ -72,7 +72,7 @@ Duration (*durée*) is Bergson's name for time as directly experienced. Its feat
 
 Bergson distinguished two modes of knowing. **Analysis** breaks its object into elements, translates it into general concepts, and reconstructs it from the outside. Analysis spatializes whatever it touches—turning flow into sequence, quality into quantity. **Intuition** grasps its object from within, coinciding with what is unique and inexpressible in it.
 
-Duration, Bergson argued, can only be known through intuition. Any attempt to analyse it—to break it into measurable units—replaces duration with its spatial shadow. This is why physics, which proceeds by analysis, systematically misses what time actually is for a conscious being.
+Duration, Bergson argued, can only be known through intuition. Any attempt to analyse it—to break it into measurable units—replaces duration with its spatial shadow. On his account, this is why physics, insofar as it proceeds by analysis, systematically misses what time actually is for a conscious being.
 
 The claim is not anti-scientific. Bergson acknowledged that spatialized time is essential for prediction, measurement, and practical action. His point is that the scientific representation is a useful abstraction, not a complete description of reality. When philosophers mistake the abstraction for the thing itself, they generate false problems—including the apparent impossibility of free will and the seeming reducibility of consciousness to mechanism.
 
@@ -122,19 +122,19 @@ Bergson's philosophy, eclipsed for decades by analytic philosophy and phenomenol
 
 **The "missing link" in consciousness theories.** Kent and Wittmann (2021) identified experienced duration as "one of the core issues in theories of consciousness." Major theories—IIT, Global Workspace Theory—focus on functional moments of 100-300 milliseconds but cannot explain why experience extends across seconds. Bergson diagnosed this gap a century earlier: theories that spatialize time cannot capture duration.
 
-**The [specious present](/concepts/temporal-consciousness/) corroboration.** The philosophical tradition arrived at Bergson's insight from another direction. E.R. Clay, William James, and Husserl each noted that the experienced present has positive temporal width—the "specious present," now empirically estimated at roughly 300-750 milliseconds of core duration with a broader 2-3 second experiential horizon. Husserl's analysis of *retention* (the just-past lingering in awareness) and *protention* (anticipation of what follows) formalises the same structure Bergson captured with interpenetration: each moment pervaded by what precedes and colours what follows. The specious present names the *fact* that consciousness extends through time; durée names the *qualitative character* of that extension—and both resist reduction to spatial or computational description.
+**The [specious present](/concepts/temporal-consciousness/) corroboration.** The philosophical tradition arrived at Bergson's insight from another direction. E.R. Clay, William James, and Husserl each noted that the experienced present has positive temporal width—the "specious present," now empirically estimated at roughly 300-750 milliseconds of core duration with a broader 2-3 second experiential horizon. Husserl's analysis of *retention* (the just-past lingering in awareness) and *protention* (anticipation of what follows) formalises the same structure Bergson captured with interpenetration: each moment pervaded by what precedes and colours what follows. The specious present names the *fact* that consciousness extends through time; durée names the *qualitative character* of that extension—and both resist representation as a row of durationless instants.
 
 **Process ontology.** The growing interest in process metaphysics—partly through Whitehead, partly through developments in physics—has rehabilitated Bergson's core claim that becoming is more fundamental than being.
 
-**Contemplative corroboration.** [Contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) report systematic variation in temporal phenomenology. In Theravada vipassana, practitioners describe accelerated arising-passing of mental events during insight stages; in deep concentration (*jhāna*), temporal flow appears to slow or suspend entirely. These [reproducible phenomenological observations](/concepts/contemplative-epistemology/) align with Bergson's claim that duration has internal structure accessible to trained attention, and they resist purely neural explanation since the same brain can produce radically different temporal experiences depending on attentional stance.
+**Contemplative corroboration.** [Contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) report systematic variation in temporal phenomenology. In Theravada vipassana, practitioners describe accelerated arising-passing of mental events during insight stages; in deep concentration (*jhāna*), temporal flow appears to slow or suspend entirely. These [reproducible phenomenological observations](/concepts/contemplative-epistemology/) align with Bergson's claim that duration has internal structure accessible to trained attention, though they do not by themselves show that this structure escapes neural explanation, since a shift in attentional stance is accompanied by a shift in brain state.
 
 ## Relation to Site Perspective
 
 Bergson's philosophy aligns with the Map's framework at multiple points while differing on mechanism.
 
-**[Dualism](/tenets/#dualism)**: Bergson argued that consciousness is not reducible to brain states—the brain selects and constrains experience rather than producing it. His arguments from duration support this independently of the standard consciousness debates: if lived time has qualitative features that spatial description cannot capture, then a complete physical description of the brain leaves out something real about the mind. The Map shares this conclusion while grounding it in quantum mechanics rather than Bergson's vitalism.
+**[Dualism](/tenets/#dualism)**: Bergson argued that consciousness is not reducible to brain states—the brain selects and constrains experience rather than producing it. His analysis of duration supports a narrower claim: if lived time has qualitative features that spatialising description cannot capture, reductive accounts that assemble experience from snapshots, or from moments laid side by side, leave something out. The analysis does not show that a complete physical description of the brain omits something real, since physics need not spatialise time and a feature of experience does not by itself settle what experience is. The Map takes that ontological step on other grounds—the [hard-problem](/topics/hard-problem-of-consciousness/) arguments, chiefly [zombie conceivability](/concepts/philosophical-zombies/) and the [knowledge argument](/concepts/knowledge-argument/)—and reads durée as a case those arguments illuminate. It shares Bergson's conclusion while differing on mechanism, looking to quantum indeterminacy rather than Bergson's vitalism.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Bergson's durée is inherently creative—each moment produces genuine novelty. This creativity is what the Map means by consciousness exercising causal power. Bergson's framework makes such causation intelligible: the agent acts from the depth of accumulated experience, not as a mysterious force intervening from outside the natural order.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: For Bergson, durée is inherently creative—each moment produces genuine novelty. If consciousness exercises the causal power the Map posits, Bergson's framework shows what that would be like: the agent acting from the depth of accumulated experience, not as a mysterious force intervening from outside the natural order. The framework makes such causation intelligible; it does not show that such causation occurs. Novelty in experience is compatible with the brain producing that novelty, and the quantum-interface argument shows the Map's downward causation to be available—consistent with physics—without showing it to be [actual](/tenets/#tenet-3-standing).
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Bergson's duration presupposes temporal identity—*this* consciousness carrying *this* past into *this* moment. While each branch in a many-worlds scenario would contain its own continuous experience, the branching itself undermines what makes durée ontologically significant. Interpenetration means the whole past permeates each present moment; but if the past itself branches into incompatible histories, no single durée carries the full weight of what was lived. The unity of temporal identity—the fact that *this* accumulated past uniquely shapes *this* present—loses its ontological privilege when multiplied across branches.
 
