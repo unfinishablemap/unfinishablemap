@@ -3,7 +3,7 @@ title: "Research: Primitive Identities and Strong Necessities"
 created: 2026-10-03
 modified: 2026-10-03
 human_modified: null
-ai_modified: 2026-10-03T08:56:17+00:00
+ai_modified: 2026-10-03T12:12:15+00:00
 draft: false
 description: "Research notes on Chalmers's verdict that Type-B physicalism costs primitive identities or strong necessities: verified definitions, the identities-need-no-explanation exchange, Levine's gappy identities, whether any other case exists, and what the cost does at the Map's tiers."
 topics:
@@ -166,7 +166,7 @@ For the Map: the cost establishes a **parity** result that Type-B largely conced
 - **Key points**:
   - The case-by-case debate is "inevitably inconclusive", and even universal agreement that there are no strong necessities elsewhere would not settle it: "Why shouldn't it still be open to a posteriori physicalists to hold that mind-brain necessities are an exception?"
   - Strong necessities arise from "radically opaque" terms: a term is radically opaque "if and only if it does not reveal any substantive information about its referent"; "Cicero is Tully" is offered as a possible case.
-  - Goff's half: "stress-free modal dualism" defines metaphysical possibility as conceivability under a *transparent* conception, so two modal spaces need no primitive metaphysical modality. Goff, a dualist, uses this to argue *against* physicalism if phenomenal concepts are transparent (Goff 2011).
+  - Goff's half: "stress-free modal dualism" defines metaphysical possibility as conceivability under a *transparent* conception, so two modal spaces need no primitive metaphysical modality. Goff, a panpsychist critic of physicalism, uses this to argue *against* physicalism if phenomenal concepts are transparent (Goff 2011).
   - Papineau's half: "I shall defend strong necessities by arguing that metaphysical modality has nothing to do with conceivability"; modality is "grounded in counterfactual thinking", geared to causal structure. His father/birthplace case argues that de re necessities are not grounded in conceivability.
   - Both report Chalmers's argument against modal dualism as a simplicity argument ("this would lose the simplicity of the uniform explanation").
 - **Tenet alignment**: Papineau's half conflicts with Tenet 1; Goff's half is a dualist route that runs through transparency rather than modal rationalism.

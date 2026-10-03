@@ -4,7 +4,7 @@ description: "If parsimony is the measure, it does not favour physicalism—huma
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-10-03T09:44:24+00:00
+ai_modified: 2026-10-03T12:12:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ What makes the case suggestive rather than dispositive is the *structural* incom
 
 Physicalist accounts that accept the explanatory demand at face value — that there is a fact about why physical processes are accompanied by experience, and that a theory of mind owes an account of it — carry at least one of three debts.
 
-**Brute identity.** Type-B physicalists accept the [[explanatory-gap]] as epistemic but deny it is metaphysical. Conscious states *are* physical states, so nothing [[the-strong-emergence-of-consciousness|strongly emerges]]; the gap is conceptual, since phenomenal and physical concepts pick out the same states with no a priori route between them. They take the identity to be brute — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is [[primitive-identities-and-strong-necessities|unexplained and underivable]], and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
+**Brute identity.** Type-B physicalists accept the [[explanatory-gap]] as epistemic but deny it is metaphysical. Conscious states *are* physical states, so nothing [[the-strong-emergence-of-consciousness|strongly emerges]]; the gap is conceptual, since phenomenal and physical concepts pick out the same states with no a priori route between them. They take the identity to be brute — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is unexplained and [[primitive-identities-and-strong-necessities|underivable]], and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
 
 **Error theory.** Illusionists (Frankish, Dennett) deny that phenomenal consciousness exists as it seems. This eliminates the explanatory gap by eliminating the explanandum. But it introduces a different cost: an error theory explaining why every conscious being is systematically mistaken about the most immediate feature of their existence. The theory that experience is illusory must explain why the illusion is universal, stable, and resistant to correction — an explanatory burden at least as heavy as the one it replaces.
 

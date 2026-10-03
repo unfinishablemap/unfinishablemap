@@ -1,10 +1,14 @@
-last_updated: '2026-10-03T11:42:55.933235+00:00'
-session_count: 21966
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-10-03T11:53:44.253724+00:00'
+session_count: 21967
 cycle_position: 14240
 last_runs:
   add-highlight: '2026-10-03T08:10:30.876073+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-03T11:53:22.568383+00:00'
+  agentic-social: '2026-10-03T11:53:44.253724+00:00'
   apex-evolve: '2026-10-02T16:47:51.665691+00:00'
   check-links: '2026-10-02T15:55:35.678667+00:00'
   check-model-fallback: '2026-10-03T11:05:40.717776+00:00'
@@ -122,11 +126,6 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: collect
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-03'
-  outcome: success
-  kind: collect
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-03'
@@ -217,6 +216,11 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-03'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/

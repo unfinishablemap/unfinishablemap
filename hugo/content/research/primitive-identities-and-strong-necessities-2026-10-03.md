@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-03 08:56:17+00:00
+ai_modified: 2026-10-03 12:12:15+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-10-03 08:56:17+00:00
+lastmod: 2026-10-03 12:12:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -171,7 +171,7 @@ For the Map: the cost establishes a **parity** result that Type-B largely conced
 - **Key points**:
   - The case-by-case debate is "inevitably inconclusive", and even universal agreement that there are no strong necessities elsewhere would not settle it: "Why shouldn't it still be open to a posteriori physicalists to hold that mind-brain necessities are an exception?"
   - Strong necessities arise from "radically opaque" terms: a term is radically opaque "if and only if it does not reveal any substantive information about its referent"; "Cicero is Tully" is offered as a possible case.
-  - Goff's half: "stress-free modal dualism" defines metaphysical possibility as conceivability under a *transparent* conception, so two modal spaces need no primitive metaphysical modality. Goff, a dualist, uses this to argue *against* physicalism if phenomenal concepts are transparent (Goff 2011).
+  - Goff's half: "stress-free modal dualism" defines metaphysical possibility as conceivability under a *transparent* conception, so two modal spaces need no primitive metaphysical modality. Goff, a panpsychist critic of physicalism, uses this to argue *against* physicalism if phenomenal concepts are transparent (Goff 2011).
   - Papineau's half: "I shall defend strong necessities by arguing that metaphysical modality has nothing to do with conceivability"; modality is "grounded in counterfactual thinking", geared to causal structure. His father/birthplace case argues that de re necessities are not grounded in conceivability.
   - Both report Chalmers's argument against modal dualism as a simplicity argument ("this would lose the simplicity of the uniform explanation").
 - **Tenet alignment**: Papineau's half conflicts with Tenet 1; Goff's half is a dualist route that runs through transparency rather than modal rationalism.

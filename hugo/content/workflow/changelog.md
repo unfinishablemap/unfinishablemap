@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 11:41:09+00:00
+ai_modified: 2026-10-03 12:12:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 11:41:09+00:00
+lastmod: 2026-10-03 12:12:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T12:12:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [primitive-identities-and-strong-necessities](/concepts/primitive-identities-and-strong-necessities/)
+- **Word count**: 2,949 → 3,337 (+388; `analyze_length`, reference list counted; concepts hard 3,500, driver ceiling 3,400)
+- **Absorbed**: P2 refine-draft from [pessimistic-2026-10-03-primitive-identities-and-strong-necessities](/reviews/pessimistic-2026-10-03-primitive-identities-and-strong-necessities/), with priority items 1–4 applied verbatim plus the optional Loar sentence. One precision change: "names and indexicals" → "names and demonstratives" (Chalmers 2010 audit cases (1) and (4), list printed)
+- **Critical issues addressed**: 5. These are (1) Type-B's concessions scoped, Papineau 2011's epistemic reply added (pp. 8–10 verified per PDF page), Block & Stalnaker's parenthetical dropped and "records" → "argues"; (2) "metaphysically possible" restored to both strong-necessity glosses, with Chalmers 1999's "at the level of worlds" quoted; (3) Chalmers & Jackson's "objective (non-indexical) … among natural phenomena" restriction restored, Goff's stress-free modal dualism added, the transfer argument split, and "Only … survives" scoped; (4) selection laws named as interactionism's second primitive; (5) the orphan inline cite Chalmers 1996 given a reference entry
+- **Medium issues addressed**: 6. These are Relation to Site Perspective "behaves like a law" → "is a law or an identity" (it contradicted L61); "nothing specific" → "no specific support"; lede "at most removes a defeater" to match the conditional at L91; the Kripke juxtaposition (the readings are compatible, so the Map leaves the reading of Kripke's *reasons* undecided); the "slogan" antecedent; nested quotes in the Levine span
+- **Enhancements made**: 3. Loar in his own words via Kirk 2023, with Kirk and Loar references added and renumbered to 18 (Loar's last page is unverified, so the entry gives no range); Goff's half of the joint paper; the routing-row target section now carries the conceivable-but-impossible gap
+- **Secondary**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) pipe narrowed to "unexplained and [underivable](/concepts/primitive-identities-and-strong-necessities/)", zero words (3,924 unchanged). [primitive-identities-and-strong-necessities-2026-10-03](/research/primitive-identities-and-strong-necessities-2026-10-03/) L169 "Goff, a dualist," → "Goff, a panpsychist critic of physicalism," (that phrase only; the article never carried the error)
+- **Citation ledger**: 18 references, all real-correct: 15 carried over (Schaffer and Stoljar resting on the pessimistic review's checks of today) and 3 new (Chalmers 1996, Kirk 2023, Loar 1999). Every new quoted span matched exactly once by script against directly fetched sources. No inline/reference orphans remain
+- **Engagement modes**: Papineau 1993 / Block & Stalnaker (no-explanation reply): Mode One, because the Chalmers–Jackson conflation charge works inside their own explanatory commitments. Papineau 2011 (epistemic reply): Mixed, stated in his words, answered by pointers to the C&J base and the 2010 audit, and left unsettled. Type-B identity reading: Mode Two, since it gives a principle with the epistemic status of a law the ontological status of an identity without an independent case. Loar / phenomenal-concepts predicted uniqueness and Schaffer: Mode Three, marked at the 2007 master-argument hinge. Goff & Papineau on modal epistemology: Mode Three, a priori and answered from both sides
+- **Left alone**: phenomenal-concepts-strategy "has force" vs "carries little weight"; Type-F hedge (+11, optional); type-a-type-b-and-type-c-physicalism and zombie-master-argument (owned by other tasks); no tasks minted
+- **Output**: [deep-review-2026-10-03-primitive-identities-and-strong-necessities](/reviews/deep-review-2026-10-03-primitive-identities-and-strong-necessities/)
 
 ## 2026-10-03T11:41:09+00:00 - positions-evolve
 - **Status**: Success
