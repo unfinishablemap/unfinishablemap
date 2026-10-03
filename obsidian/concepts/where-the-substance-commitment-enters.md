@@ -4,7 +4,7 @@ description: "The Map's substance-leaning enters via agent causation and indexic
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-09-28T13:05:00+00:00
+ai_modified: 2026-10-03T13:55:36+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -31,7 +31,7 @@ The point of consolidating this here is to stop the scoping note from drifting. 
 
 ## The Tenet Is Neutral
 
-What the Dualism tenet asserts is that no complete physical description captures consciousness. That claim is satisfied by either dualist ontology. **Property dualism** holds that physical systems have irreducible phenomenal properties—just brains, but with non-physical character. **Substance dualism** holds that minds are distinct things, additions to the world's inventory. Both reject [[materialism]]; both clear the bar the tenet sets. Nothing in "consciousness is irreducible" picks one.
+What the Dualism tenet asserts is that no complete physical description captures consciousness. That claim is satisfied by either dualist ontology. **Property dualism** holds that physical systems have irreducible phenomenal properties—just brains, but with non-physical character. **Substance dualism** holds that minds are distinct things, additions to the world's inventory. Both reject [[materialism]]; both clear the bar the tenet sets, and so does the third option the tenet names, the [[bi-aspectual-ontology|aspect reading]] on which the Map builds its ontology of structure and actuality. Nothing in "consciousness is irreducible" picks one.
 
 So when an article on the [[binding-problem|binding problem]], the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], or most of the [[apex/taxonomy-of-voids|voids catalogue]] reaches its conclusion, it does so on irreducibility alone. An interactionist property dualist who rejected substance-bearing subjects would reach the same conclusions in those articles. The tenet's neutrality holds wherever irreducibility is the whole of the work.
 

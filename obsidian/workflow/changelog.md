@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T13:20:35+00:00
+ai_modified: 2026-10-03T13:55:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T13:55:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/bi-aspectual-ontology]]
+- **Secondary file**: [[concepts/where-the-substance-commitment-enters]]
+- **Original score**: n/a (targeted coherence fix; `scripts/curate.py` absent)
+- **Review**: [[reviews/outer-review-2026-10-03-claude-opus-5-5]] §6 "Who performs the activity?", recommendation 16, Verification Notes
+- **Changes**: The page now states how "aspects rather than stuffs" relates to the agency cluster's substance-leaning subject. The open part is marked as an open tension, and neither direction is settled by fiat. All quoted loci were re-verified on disk before editing: bi-aspectual L99/L133/L135, agent-causation L59, where-the-substance L28/L44, and tenets L53/L151/L184.
+  - "Distinguished from Substance Dualism" (L99): "is not substance dualism. It does not posit two substances occupying the same space; it posits two aspects of reality that are irreducible to each other." → "is not substance dualism: it posits two irreducible aspects of one reality, not two substances occupying the same space." This is a budget offset and also removes a "does not X; it Y" construction.
+  - The same section has a new closing paragraph of three sentences. The aspect picture declines a second stuff but says nothing about what makes a subject one subject over time. The agency arguments and the indexical objection to many-worlds need a persisting subject, "substance-leaning though not necessarily Cartesian" (mirrors where-the-substance L44). That subject enters downstream, through [[agent-causation|agent causation]] and indexical identity, not through this ontology or the Dualism tenet, which is neutral among substance, property and aspect readings (tenets L53). The question of whether an aspect can supply that subject any better than a bare property can is left open; the bare-property side is where-the-substance L42's property-only worry. If it cannot, "not substance dualism" is true of the aspect picture but not of the Map as a whole, which fits tenets L184 ("the framework operates substance-dualist", downstream of agent causation). The paragraph links [[where-the-substance-commitment-enters]].
+  - Relation to Site Perspective (L133): "the Map's foundational metaphysical picture, connecting all five tenets." → "… connecting all five tenets without supplying the persisting subject that agency and the indexical objection need (see above)". This lowers the claim. The picture touches every tenet, but the agency warrant under Bidirectional Interaction and the indexical ground of No Many Worlds also rely on Posit One, which this ontology does not supply. "Foundational" is kept, scoped by the new clause.
+  - Dualism paragraph (L135): "This is dualism without substances — aspects rather than stuffs." → "Read this way, the tenet needs no substances — aspects rather than stuffs." This confines the no-substance claim to the tenet reading, so it no longer contradicts the downstream commitment.
+  - where-the-substance-commitment-enters, "The Tenet Is Neutral" (L34): "both clear the bar the tenet sets." → "both clear the bar the tenet sets, and so does the third option the tenet names, the [[bi-aspectual-ontology|aspect reading]] on which the Map builds its ontology of structure and actuality." This adds the reciprocal link and the third option named in tenets L53. The page previously had 0 "aspect" hits.
+  - Reasoning mode: no named-opponent reply was edited. The section's treatment of Descartes stays a framework-boundary distinction.
+  - Not edited: agent-causation (headroom 3), tenets.md, consciousness-as-activity (its performer question is item (9) of its open P1 task).
+  - Words (`analyze_length`): bi-aspectual-ontology 2,834 → 2,947 (concepts hard 3,500); where-the-substance-commitment-enters 1,868 → 1,891.
+- **Published**: yes
 
 ## 2026-10-03T13:20:35+00:00 - optimistic-review
 - **Status**: Success

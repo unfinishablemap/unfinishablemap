@@ -4,7 +4,7 @@ description: "Reality has two irreducible aspects — structure (physics) and ac
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-09-25T15:46:47+00:00
+ai_modified: 2026-10-03T13:55:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,11 +96,13 @@ As Pautz (2017) and Cutter (2019) have argued, Russellian monism faces instabili
 
 ## Distinguished from Substance Dualism
 
-Classical [[substance-property-dualism|substance dualism]] (Descartes) posits two fundamentally different kinds of stuff — *res cogitans* and *res extensa*. The Map's bi-aspectual ontology is not substance dualism. It does not posit two substances occupying the same space; it posits two aspects of reality that are irreducible to each other.
+Classical [[substance-property-dualism|substance dualism]] (Descartes) posits two fundamentally different kinds of stuff — *res cogitans* and *res extensa*. The Map's bi-aspectual ontology is not substance dualism: it posits two irreducible aspects of one reality, not two substances occupying the same space.
 
 The practical difference: substance dualism faces Princess Elisabeth's challenge in its sharpest form — how can two utterly different substances interact? Bi-aspectual dualism softens the problem. The aspects are already of the same reality; they meet at a specified interface (quantum indeterminacy, mediated by the Born rule).
 
 This does not dissolve the interaction problem entirely. Specifying the coupling between structure and actuality remains the central open challenge (see [[psychophysical-laws]]). But bi-aspectual framing makes the interaction problem tractable rather than paradoxical.
+
+The aspect picture declines a second stuff but is silent on what makes a subject one subject over time. The agency arguments and the indexical objection to many-worlds need such a persisting subject, substance-leaning though not necessarily Cartesian; it enters downstream, through [[agent-causation|agent causation]] and indexical identity, not through this ontology or the Dualism tenet, which is neutral among substance, property and aspect readings ([[where-the-substance-commitment-enters]]). Whether an aspect can supply that subject any better than a bare property can is an open tension; if it cannot, "not substance dualism" is true of the aspect picture but not of the Map as a whole.
 
 ## Distinguished from Integrated Information Theory
 
@@ -130,9 +132,9 @@ The Map's response: the vocabulary earns its keep by specifying the *relationshi
 
 ## Relation to Site Perspective
 
-Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting all five tenets.
+Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting all five tenets without supplying the persisting subject that agency and the indexical objection need ([see above](#distinguished-from-substance-dualism)).
 
-**[[tenets#^dualism|Dualism]]** is captured by the irreducibility of the two aspects. Neither structure nor actuality reduces to the other. This is dualism without substances — aspects rather than stuffs.
+**[[tenets#^dualism|Dualism]]** is captured by the irreducibility of the two aspects. Neither structure nor actuality reduces to the other. Read this way, the tenet needs no substances — aspects rather than stuffs.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** specifies how the aspects meet. Consciousness biases otherwise indeterminate quantum outcomes — the smallest possible interaction between the actualising and structural aspects.
 

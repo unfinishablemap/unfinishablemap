@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-09-28 13:05:00+00:00
+ai_modified: 2026-10-03 13:55:36+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 03:41:00+00:00
-lastmod: 2026-09-28 13:05:00+00:00
+lastmod: 2026-10-03 13:55:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,7 +35,7 @@ The point of consolidating this here is to stop the scoping note from drifting. 
 
 ## The Tenet Is Neutral
 
-What the Dualism tenet asserts is that no complete physical description captures consciousness. That claim is satisfied by either dualist ontology. **Property dualism** holds that physical systems have irreducible phenomenal properties—just brains, but with non-physical character. **Substance dualism** holds that minds are distinct things, additions to the world's inventory. Both reject [materialism](/concepts/materialism/); both clear the bar the tenet sets. Nothing in "consciousness is irreducible" picks one.
+What the Dualism tenet asserts is that no complete physical description captures consciousness. That claim is satisfied by either dualist ontology. **Property dualism** holds that physical systems have irreducible phenomenal properties—just brains, but with non-physical character. **Substance dualism** holds that minds are distinct things, additions to the world's inventory. Both reject [materialism](/concepts/materialism/); both clear the bar the tenet sets, and so does the third option the tenet names, the [aspect reading](/concepts/bi-aspectual-ontology/) on which the Map builds its ontology of structure and actuality. Nothing in "consciousness is irreducible" picks one.
 
 So when an article on the [binding problem](/concepts/binding-problem/), the [knowledge argument](/concepts/knowledge-argument/), the [explanatory gap](/concepts/explanatory-gap/), or most of the [voids catalogue](/apex/taxonomy-of-voids/) reaches its conclusion, it does so on irreducibility alone. An interactionist property dualist who rejected substance-bearing subjects would reach the same conclusions in those articles. The tenet's neutrality holds wherever irreducibility is the whole of the work.
 
