@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-03 18:18:15+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-03 23:54:54+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-10-03 18:18:15+00:00
+lastmod: 2026-10-03 23:54:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ topics:
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the [infant you once were](/voids/infant-consciousness/) and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
 
-The Unfinishable Map gives a distinctive answer. The [No Many Worlds](/tenets/#no-many-worlds) tenet's emphasis on indexical identity—that *this* conscious being matters, not just the pattern it instantiates—commits the Map to a view where personal identity is real and significant, not reducible to psychological or biological continuity.
+The Unfinishable Map gives a distinctive answer. The Map posits that *this* conscious being matters, not just the pattern it instantiates—the subject its [No Many Worlds](/tenets/#no-many-worlds) tenet draws on—so personal identity is real and significant, not reducible to psychological or biological continuity.
 
 <details class="yt-embed" data-video-id="Qj-SX6HmanM">
 <summary>Video introduction</summary>
@@ -193,7 +193,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: because your consciousness influences physical processes rather than merely observing them, your conscious history has causal efficacy. The choices and selections you've performed constitute *your* life in a way no replica—starting its causal contribution from scratch—could inherit.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: as [The No Many Worlds Connection](#the-no-many-worlds-connection) argues, on MWI you would be interchangeable with your branching copies; the Map's commitment to definite outcomes and indexical facts is what supports [haecceitistic](/concepts/haecceity/) identity.
+**[No Many Worlds](/tenets/#no-many-worlds)**: as [The No Many Worlds Connection](#the-no-many-worlds-connection) argues, on egalitarian MWI no branch-copy is privileged as you; the tenet's indexical objection draws on the [haecceitistic](/concepts/haecceity/) subject the Map posits rather than supporting it.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: anti-haecceitists might appeal to parsimony—why posit primitive "thisness" when psychological continuity suffices? But parsimony fails when our concepts are inadequate to the phenomenon. That the question "Will I survive?" resists dissolution suggests our concepts may be missing something; the haecceitistic framework honors this puzzlement rather than explaining it away.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-10-02 14:52:55+00:00
+ai_modified: 2026-10-03 23:54:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 10:55:44+00:00
-lastmod: 2026-10-02 14:52:55+00:00
+lastmod: 2026-10-03 23:54:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Russellian monism is compatible with [causal closure](/concepts/causal-closure/)
 
 Because Russellian monism treats consciousness as the intrinsic nature of physical processes rather than a cause acting at measurement, it carries no commitment that would bar any particular quantum interpretation — many-worlds included. The view is interpretation-neutral: it establishes symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, collapse-free interpretations remain available. The Map counts this neutrality as a cost of the Russellian view, given the [No Many Worlds](/tenets/#no-many-worlds) tenet — though the cost falls on the Map's own commitments, not on Russellian monism by its own lights.
 
-This may reveal a divergence in physics, not just metaphysics. The Map *requires* consciousness at collapse: selection among quantum outcomes is how actuality works on its account. Many-worlds eliminates selection by keeping all outcomes, thereby leaving no actualising role for consciousness to play. So the Map's ontology is incompatible with [many-worlds](/tenets/#no-many-worlds), though the rejection itself rests on the indexical objection rather than on that ontology. Russellian monism's interpretation-neutrality, by contrast, suggests it carries no comparable commitment to consciousness as causally active — the commitment the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet demands. A Russellian monist who shares the No-Many-Worlds intuition could of course add a collapse mechanism, but doing so would import exactly the causally active consciousness the identity thesis was meant to avoid needing. The same ontology-excludes-branching structure recurs in [Wheeler's participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/): Wheeler rejected Everett as "too great a load of metaphysical baggage" because an information ontology that produces a single definite bit at measurement leaves no room for branching — the Map's selection ontology likewise excludes branching because a single outcome must be actualised.
+This may reveal a divergence in physics, not just metaphysics. The Map gives consciousness a role in which outcome becomes actual in neural systems, with physical collapse supplying definiteness elsewhere ([prebiotic-collapse](/concepts/prebiotic-collapse/)). Many-worlds keeps all outcomes and so leaves that role no work, though an Everettian can still model branch-relative choice. So the Map's ontology is incompatible with [many-worlds](/tenets/#no-many-worlds), though the rejection itself rests on the indexical objection rather than on that ontology. Russellian monism's interpretation-neutrality, by contrast, suggests it carries no comparable commitment to consciousness as causally active — the commitment the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet demands. A Russellian monist who shares the No-Many-Worlds intuition could of course add a collapse mechanism, but doing so would import exactly the causally active consciousness the identity thesis was meant to avoid needing. The same ontology-excludes-branching structure recurs in [Wheeler's participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/): Wheeler rejected Everett as "too great a load of metaphysical baggage" because an information ontology that produces a single definite bit at measurement leaves no room for branching — the Map's single-outcome posit likewise excludes branching.
 
 ## The Dual-Aspect Tradition: A Tradition That Weakens the Ban on Interaction
 
@@ -160,7 +160,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's preferred framework, with quantum interaction mechanism
 - [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — How the powerful qualities framework offers an alternative to quiddities
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
-- [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's own rejection of many-worlds on ontological grounds, parallel to the Map's selection-ontology case
+- [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's own rejection of many-worlds on ontological grounds, parallel to the Map's single-outcome posit
 - [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) — Keppler's 2025 zero-point-field model is a live empirical instance of this fork, ambiguous between a panpsychist field with phenomenal character and consciousness interfacing via the field
 - [hylomorphic-dualism-and-the-interaction-problem](/topics/hylomorphic-dualism-and-the-interaction-problem/) — A different non-Cartesian rival: where the dual-aspect tradition dissolves interaction by identity of aspects, neo-Aristotelian hylomorphism dissolves it by making mind and body co-principles of one substance — again declining the interaction the Map takes on
 

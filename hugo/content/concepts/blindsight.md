@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-03 17:49:59+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-10-03 23:54:54+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
 - '[[consciousness]]'
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 20:57:28+00:00
-lastmod: 2026-10-03 17:49:59+00:00
+lastmod: 2026-10-03 23:54:54+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -177,13 +177,13 @@ Illusionism must also explain why the illusion-generating mechanism co-locates w
 
 ## Relation to Site Perspective
 
-Blindsight demonstrates that [consciousness](/concepts/consciousness/) and cognitive processing are not identical, supporting [Interactionist Dualism](/concepts/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both cases. What differs is phenomenal awareness.
+Blindsight shows that visual processing can run without [visual consciousness](/concepts/consciousness/), a separability that workspace and higher-order theories predict as readily as [Interactionist Dualism](/concepts/interactionist-dualism/) does; it is compatible with the Map's reading, not evidence against reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both cases. What differs is phenomenal awareness.
 
-The phenomenon also supports [Bidirectional Interaction](/concepts/bidirectional-interaction/). The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. An epiphenomenalist can attribute these functional differences to the physical differences between the geniculostriate and collicular pathways rather than to consciousness itself. But the dualist observes that the functional capacities that track consciousness—flexible reasoning, novel integration, metacognitive access—are precisely those that resist explanation in purely mechanistic terms. The correlation between phenomenal presence and cognitive flexibility is better explained by [consciousness causally contributing to cognition](/concepts/bidirectional-interaction/) than by coincidental alignment between pathway architecture and an epiphenomenal byproduct.
+The phenomenon is also compatible with [Bidirectional Interaction](/concepts/bidirectional-interaction/). The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. An epiphenomenalist can attribute these functional differences to the physical differences between the geniculostriate and collicular pathways rather than to consciousness itself. The capacities that track consciousness here—flexible reasoning, novel integration, metacognitive access—are access functions, and the dualist reads their alignment with phenomenal presence as [consciousness causally contributing to cognition](/concepts/bidirectional-interaction/). The epiphenomenalist's lawful-correlation reply, on which phenomenal presence tracks those pathways without driving them, stays standing; the dissociation does not decide between the two readings.
 
 Blindsight also illuminates the difference between attended and unattended processing. The V1 pathway normally supports [voluntary attention](/concepts/attention-as-interface/)—top-down selection of what enters awareness. The collicular pathway bypasses this attentional interface. If attention is the mechanism through which consciousness influences neural processing (as [Stapp's model](/concepts/stapp-quantum-mind/) proposes), blindsight shows what happens when that mechanism is circumvented: visual information reaches motor systems but doesn't enter the attended, globally broadcast workspace.
 
-Blindsight also connects to [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). If consciousness is not reducible to neural processing patterns, it may involve non-physical properties. The quantum selection hypothesis proposes that conscious states influence which quantum outcomes become actual, biasing neural activity toward flexible reasoning and global integration. Unconscious processing would proceed via classical pathways. This remains highly speculative—there is no direct evidence that quantum effects play a role in the blindsight dissociation—but it illustrates how the framework might accommodate the findings. Under [No Many Worlds](/tenets/#no-many-worlds), this selection is genuine rather than illusory: phenomenal presence or absence is a determinate fact about this world, not a perspectival artifact of branch location.
+Blindsight also connects to [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). If consciousness is not reducible to neural processing patterns, it may involve non-physical properties. The quantum selection hypothesis proposes that conscious states influence which quantum outcomes become actual, biasing neural activity toward flexible reasoning and global integration. Unconscious processing would proceed via classical pathways. This remains highly speculative—there is no direct evidence that quantum effects play a role in the blindsight dissociation—but it illustrates how the framework might accommodate the findings. [No Many Worlds](/tenets/#no-many-worlds) adds only coherence here: phenomenal presence or absence is determinate within any branch, so an Everettian restates the dissociation as readily.
 
 Finally, [Occam's Razor Has Limits](/tenets/#occams-limits) bears on interpretive methodology. Physicalists invoke parsimony to prefer pathway-based explanations over dualist ones, but the simplest available explanation is not always correct in a domain where our conceptual tools may be fundamentally inadequate.
 

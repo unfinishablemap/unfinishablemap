@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-10-03T18:18:15+00:00
+ai_modified: 2026-10-03T23:54:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[open-individualism-and-the-de-combination-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-fable-5
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-02-18
 last_curated:
 last_deep_review: 2026-07-16T01:12:48+00:00
@@ -128,15 +128,15 @@ The individuation problem's status as a genuine void—rather than a merely unso
 
 The individuation question connects to all five of the Map's [[tenets]], but most directly to Dualism and No Many Worlds.
 
-**[[tenets#^dualism|Dualism]]** makes the problem inescapable. If consciousness were identical to brain processes, individuation could piggyback on physical individuation: your consciousness is this consciousness because it is *this* brain's activity. The Map cannot take this route. If consciousness is non-physical, its individuation must appeal to something non-physical—primitive identity, haecceity, or some principle we have not yet articulated. The individuation problem is not an argument against dualism (physicalism faces its own versions through split-brain and fission cases) but it is a commitment dualism must acknowledge rather than evade.
+**[[tenets#^dualism|Dualism]]**, on its substance-leaning reading, makes the problem inescapable. If consciousness were identical to brain processes, individuation could piggyback on physical individuation: your consciousness is this consciousness because it is *this* brain's activity. Bare irreducibility leaves a property dualist free to individuate subjects by their physical bearers; the substance-leaning reading, which enters downstream through agent causation ([[where-the-substance-commitment-enters]]), cannot take that route, and its individuation must appeal to something further—primitive identity, haecceity, or some principle we have not yet articulated. The individuation problem is not an argument against dualism (physicalism faces its own versions through split-brain and fission cases) but it is a commitment dualism must acknowledge rather than evade.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** sharpens the stakes. Under many-worlds, every quantum measurement spawns branches containing versions of every observer. Individuation becomes perspectival—"which one am I?" dissolves because all versions are equally real. The Map's single-world commitment makes individuation a harder but more honest problem: there is exactly one of you, and the question of what makes you *this* one has a determinate (if inaccessible) answer.
+**[[tenets#^no-many-worlds|No Many Worlds]]** sharpens the stakes. Under many-worlds, every quantum measurement spawns branches containing versions of every observer. Individuation becomes perspectival—"which one am I?" dissolves because all versions are equally real. The Map's single-world commitment removes the branch copies, so there is one history in which to be you; that the question of what makes you *this* one has a determinate (if inaccessible) answer is the background posit of a determinate subject ([[tenets/background-commitments]]), which Tenet 4's indexical objection presupposes rather than supplies.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** raises the question of scope. If consciousness biases quantum indeterminacies in the brain, the individuation boundary must determine *which* collapse events belong to *which* subject—the [[indexical-identity-quantum-measurement|indexical gap]] applied to the individuation problem. The unity of a conscious field may depend on which quantum indeterminacies a single consciousness can modulate—a physical constraint on a non-physical boundary that neither pure physics nor pure metaphysics can specify alone.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** suggests that the individuation boundary may be dynamically maintained. If consciousness and brain causally shape each other, the boundary around a subject could be sustained by an ongoing feedback loop rather than fixed by metaphysical fiat. Each interaction reinforces the coupling between *this* consciousness and *this* neural system, progressively deepening the individuation.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies here with full force. The simplest account of individuation—subjects are individuated by bodies—fails. A more complex account is needed, perhaps involving primitives (haecceity, presence) that resist further analysis. The individuation problem is a case where reality's structure exceeds the simplest available description. The [[epistemological-limits-occams-razor|parsimony void]] identifies why this failure may be systematic: if cognitive parsimony bias makes simpler theories *feel* more plausible regardless of their truth, then the felt implausibility of primitive individuation may reflect architectural preference rather than evidential weight.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies defensively, and symmetrically. The simplest account of individuation—subjects are individuated by bodies—is animalism's, which the Map declines at a framework boundary rather than refutes. If a more complex account is needed, it may involve primitives (haecceity, presence) that resist further analysis, and the individuation problem would then be a case where reality's structure exceeds the simplest available description. The [[epistemological-limits-occams-razor|parsimony void]] identifies why simplicity may mislead systematically here: if cognitive parsimony bias makes simpler theories *feel* more plausible regardless of their truth, then the felt implausibility of primitive individuation may reflect architectural preference rather than evidential weight.
 
 ## Further Reading
 

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-03T23:16:11.882881+00:00'
-session_count: 22002
-cycle_position: 14261
+last_updated: '2026-10-03T23:37:04.795206+00:00'
+session_count: 22003
+cycle_position: 14262
 last_runs:
   add-highlight: '2026-10-03T08:10:30.876073+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -32,7 +32,7 @@ last_runs:
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-29T05:11:36.401014+00:00'
   optimistic-review: '2026-10-03T13:22:36.968341+00:00'
-  pessimistic-review: '2026-10-03T10:56:44.221887+00:00'
+  pessimistic-review: '2026-10-03T23:37:04.795206+00:00'
   positions-evolve: '2026-10-03T11:42:55.933235+00:00'
   refine-draft: '2026-10-03T21:56:33.079351+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
@@ -112,7 +112,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 636
-  reviews_completed: 7833
+  reviews_completed: 7834
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-03'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-03'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: queue
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-10-03'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/

@@ -1,10 +1,10 @@
 ---
 title: "Modal Structure of Phenomenal Properties"
-description: "Possibility, necessity, and conceivability reveal that phenomenal properties behave unlike any physical property—supporting dualism through converging modal arguments."
+description: "Possibility, necessity, and conceivability reveal that phenomenal properties behave unlike any physical property—the modal shape of the Map's adopted dualism, not independent proof of it."
 created: 2026-02-10
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-02T11:58:46+00:00
+ai_modified: 2026-10-03T23:54:54+00:00
 last_deep_review: 2026-09-29T15:53:35+00:00
 draft: false
 topics:
@@ -108,11 +108,11 @@ The modal structure of phenomenal properties articulates, rather than independen
 
 **[[tenets#^dualism|Dualism]]**: The systematic modal independence of phenomenal from physical properties is the formal backbone of the Map's dualism. Once irreducibility is taken as the Map's framing (argued for elsewhere, not by appeal to the modal structure that articulates it — a circularity the [[epistemology-of-convergence-arguments|epistemology of convergence arguments]] is explicit about avoiding), this independence is what irreducibility *looks like* across possibility and necessity: phenomenal properties detached, varied, and withheld from their physical correlates not through ignorance but through understanding. The convergence of four modal arguments, each targeting a different dimension of the phenomenal-physical relationship, makes that articulation cumulative rather than resting on any single intuition.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: On the Map's framing, modal structure points to something beyond physics entering the story of consciousness. The question of *where* that entry occurs is a further matter — but the modal arguments narrow the search. If phenomenal properties are modally independent of physical/functional structure, then the interface between them must occur at a point where physical determination runs out. Quantum indeterminacies are the natural candidate: they are where physics itself leaves outcomes open.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The modal profile says nothing about where, or whether, consciousness acts on the physical; modal independence fits epiphenomenalism as well as interaction. Locating any interface at quantum indeterminacies, where physics leaves outcomes open, is a commitment the Map motivates on other grounds, and the modal arguments neither narrow that search nor count against it.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The zombie argument's modal structure has direct implications for causal interaction. If zombies are possible, they make the same verbal reports about consciousness that we do — but from purely physical causes. For *us*, the Map maintains that consciousness genuinely causes our reports. The modal separability of phenomenal from physical properties means that whatever causal contribution consciousness makes is not redundant with physical causation — it adds something the physical story alone does not determine.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The modal arguments neither need nor deliver this tenet. The zombie argument works under bare irreducibility, and modal separability is shared by epiphenomenalism, on which our reports, like a zombie's, have purely physical causes. That consciousness causes our reports is a further commitment argued elsewhere; adding it makes physically identical zombies impossible as a consequence of the stronger theory ([[zombie-master-argument]]), so the relation here is coherence rather than inheritance.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The haecceitistic modal structure of phenomenal properties supports the Map's rejection of many-worlds interpretation. If phenomenal properties have irreducible particularity — if *which* experience occurs is a genuine modal fact — then interpretations that treat all quantum outcomes as equally real undermine this. Under many-worlds, every quantum-mechanically possible outcome is realized in some branch, and the question of which branch is *actual* loses its privileged status. But the [[vertiginous-question|vertiginous question]] — "why am I having *this* experience?" — presupposes exactly such privilege. The haecceitistic modal facts that phenomenal properties generate require a single actual world in which determinate experiences occur, not a proliferating multiverse where every alternative is equally real.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Tenet 4 does no work for modal arguments—determinate phenomenal facts are available branch-relatively, so the profile above survives under many-worlds. The link runs through the [[vertiginous-question|vertiginous question]] instead, a ground drawn from the Map's posited subject rather than from the haecceity of qualia.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Physicalism's parsimony is purchased by ignoring modal evidence. The systematic modal independence of phenomenal properties is not a puzzle to be waved away — it is data. Preferring the "simpler" theory that consciousness reduces to physics requires dismissing the convergent testimony of conceivability, necessity, and epistemic access. The Map's position is that this data should be taken at face value, even at the cost of ontological complexity.
 
