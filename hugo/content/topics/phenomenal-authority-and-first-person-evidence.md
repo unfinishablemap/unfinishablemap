@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-30 08:54:16+00:00
+ai_modified: 2026-10-03 17:49:59+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:17:48+00:00
-lastmod: 2026-09-30 08:54:16+00:00
+lastmod: 2026-10-03 17:49:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -172,7 +172,7 @@ Strict calibration against an independent standard is impossible — the [observ
 
 | Domain | Layer | Husserl Category | Strategies Available | Warranted Trust |
 |--------|-------|-----------------|---------------------|-----------------|
-| Phenomenal existence (that there is something it is like) | First | Apodictic | Acquaintance; self-stultification of denial | Very high |
+| [Global](/topics/anton-syndrome-and-the-sincere-report-of-seeing/) phenomenal existence (that experience occurs at all) | First | Apodictic | Acquaintance; self-stultification of denial | Very high |
 | Attended phenomenal content (what it is like) | Second | Adequate/Assertoric | Process/content, convergence, cross-modal, training | High |
 | Structural features of experience (temporal grain, unity) | Second–Third | Assertoric/Presumptive | Convergence, cross-modal, prediction | Moderate-high |
 | Background and peripheral states | Third | Presumptive | Limited; Schwitzgebel's evidence strongest here | Low |

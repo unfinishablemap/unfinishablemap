@@ -4,7 +4,7 @@ description: "Some observations track independent targets; others constitute the
 created: 2026-04-26
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-07-07T05:26:00+00:00
+ai_modified: 2026-10-03T17:49:59+00:00
 last_deep_review: 2026-07-24T19:45:38+00:00
 draft: false
 topics:
@@ -43,6 +43,8 @@ A **constitutive observation** has an object whose existence is partly constitut
 The phenomenal observer's relation to *the existence of phenomenality* has this structure. The seeming-that-there-is-something-it-is-like-to-be-in-pain is not a report about a state existing independently of its being seemed. The seeming and the being-of-the-phenomenal-state are not separable items between which a referring relation holds. *To be acquainted with phenomenality is, in part, to be undergoing it.* An observer's observation that phenomenality is occurring cannot be wrong about *whether* phenomenality is occurring, because the observation itself is constitutive of the very fact whose existence is at issue.
 
 The distinction is *structural*. It does not turn on the reliability of [[introspection]], the trainability of attention, or the linguistic representations under which experiences are reported. Those concern introspective *judgement*'s accuracy, which can fail, and which the Map elsewhere concedes is fallible. What the constitutive/referring distinction concerns is the metaphysical relation between observation and target — whether the target's existence is independent of the observing, or whether the observing is part of what constitutes the target.
+
+The constitutive claim concerns seemings, not the beliefs and reports a seeming usually produces. [[anton-syndrome-and-the-sincere-report-of-seeing|Anton syndrome]] marks the difference: blind patients sincerely report visual experience, and at that modal grain ("I am having visual experience") the report can be false, either because no visual seeming stands behind it or because imagery is taken for perception. Neither case is a seeming wrong about its own occurrence. Both show that a sincere report does not certify that a seeming is there.
 
 ## Russell's Distinction as Partial Precursor
 

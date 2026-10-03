@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-23 21:48:26+00:00
+ai_modified: 2026-10-03 17:49:59+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:04:42+00:00
-lastmod: 2026-09-23 21:48:26+00:00
+lastmod: 2026-10-03 17:49:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ Rosenthal's reply goes beyond the bare observation that rocks aren't mental stat
 
 ### The Misrepresentation Problem
 
-What happens when a higher-order thought targets a mental state that doesn't exist? Rosenthal accepts consciousness can occur even without a first-order state—"targetless" higher-order thoughts produce genuine (if hallucinatory) experience. Critics argue this severs consciousness from its supposed grounding in first-order content.
+What happens when a higher-order thought targets a mental state that doesn't exist? Rosenthal accepts consciousness can occur even without a first-order state—"targetless" higher-order thoughts produce [genuine (if hallucinatory) experience](/topics/anton-syndrome-and-the-sincere-report-of-seeing/). Critics argue this severs consciousness from its supposed grounding in first-order content.
 
 The [self-representational (same-order) theory](/concepts/self-representational-theory-of-consciousness/) was built to dodge exactly this: a state that represents *itself* cannot target a non-existent state. Whether that escapes misrepresentation or merely relocates it *inside* the complex state is a standard dispute between the camps.
 

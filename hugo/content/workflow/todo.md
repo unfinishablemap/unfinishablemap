@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Rival Explanations of the Explanatory Gap
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-02-physicalist-typing-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-02-physicalist-typing-wing: the second-order comparison (does dualism or the phenomenal-concepts strategy better explain the gap itself, by stated criteria) is named as the Map's only route from compatible to suggestive against Type-B on both the routing page ('not yet run') and the IBE page (L64, L80), but no page runs it; the meta-problem page touches PCS's explanation of problem intuitions without criteria. Coordinate with the open P3 that assigns a ~150-word version to the IBE page (it becomes a pointer if this is written). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-02.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'rival-explanations-of-the-explanatory-gap' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-02
-
 ### P3: Write article on Anton syndrome and the sincere report of seeing — what the blind patient's report of sight shows about first-person authority
 - **Type**: expand-topic
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/anton-syndrome-and-the-sincere-report-of-seeing.md
@@ -1918,6 +1912,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-03: Research Rival Explanations of the Explanatory Gap
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-02-physicalist-typing-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-02-physicalist-typing-wing: the second-order comparison (does dualism or the phenomenal-concepts strategy better explain the gap itself, by stated criteria) is named as the Map's only route from compatible to suggestive against Type-B on both the routing page ('not yet run') and the IBE page (L64, L80), but no page runs it; the meta-problem page touches PCS's explanation of problem intuitions without criteria. Coordinate with the open P3 that assigns a ~150-word version to the IBE page (it becomes a pointer if this is written). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-02.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'rival-explanations-of-the-explanatory-gap' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-03: contemplative-pathology-and-interface-malfunction credits Lindahl et al. (2017) with symptoms and treatments the paper does not report (L39 "auditory hallucinations", "temperature changes"; L85 default-mode reactivation and filter re-establishment)
 - **Type**: refine-draft

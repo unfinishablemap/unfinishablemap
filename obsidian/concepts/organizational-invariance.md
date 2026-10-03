@@ -4,7 +4,7 @@ description: "Chalmers' organizational-invariance principle and the fading- and 
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-08-22T13:57:36+00:00
+ai_modified: 2026-10-03T17:49:59+00:00
 draft: false
 topics:
   - "[[machine-consciousness]]"
@@ -61,7 +61,7 @@ The case bites hardest on [[inverted-qualia|inverted qualia]], which is exactly 
 
 Taken together, the two arguments support *nonreductive functionalism about the distribution of consciousness*: function fixes where experience is and what it is like, even though it does not explain why there is experience at all. The weight of both reductios rests on one hinge—that a rational system cannot be radically mistaken about its own current experience. The objections press on exactly that hinge.
 
-**Introspective reliability.** Eric Schwitzgebel argues that human introspection is already unreliable in ordinary cases—people who disagree about how richly detailed their own experience is cannot all be right—so a subject who failed to notice faded or danced qualia would be surprising rather than absurd, and the reductio dissolves (Schwitzgebel 2010). He adds a sharper point: the dancing-qualia setup is built so as to frustrate the noticing, much as a brain-in-a-vat scenario is built to frustrate the senses by holding their input fixed. If introspection reads from a channel the switch leaves unchanged, failing to register a real change in experience is what one should expect rather than an absurdity.
+**Introspective reliability.** Eric Schwitzgebel argues that human introspection is already unreliable in ordinary cases—people who disagree about how richly detailed their own experience is cannot all be right—so a subject who failed to notice faded or danced qualia would be surprising rather than absurd, and the reductio dissolves (Schwitzgebel 2010). He adds a sharper point: the dancing-qualia setup is built so as to frustrate the noticing, much as a brain-in-a-vat scenario is built to frustrate the senses by holding their input fixed. If introspection reads from a channel the switch leaves unchanged, failing to register a real change in experience is what one should expect rather than an absurdity. Chalmers had already met the clinical form of the objection. In blindness denial, subjects "believe that they are having visual experiences when they likely have none", but such systems are not fully rational: "The plausible claim is not that no system can be massively mistaken about its experiences, but that no rational system whose cognitive mechanisms are unimpaired can be so mistaken" (Chalmers 1995). Mogensen (2025, n. 18) presses back that [[anton-syndrome-and-the-sincere-report-of-seeing|Anton syndrome]] exhibits "something like this profile", so Chalmers owes an account of why an isomorph that failed to notice losing all visual experience is harder to accept than a syndrome that actually occurs.
 
 **Vagueness and holism.** Andreas Mogensen resists the fading argument on ground independent of introspection's reliability, showing that it can be blocked given two assumptions: that consciousness is vague at its boundaries, and that conscious neural activity has a particular kind of holistic structure (Mogensen 2025).
 

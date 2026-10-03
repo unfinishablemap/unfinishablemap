@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-09-23T21:48:26+00:00
+ai_modified: 2026-10-03T17:49:59+00:00
 draft: false
 last_deep_review: 2026-07-25T20:04:42+00:00
 topics:
@@ -66,7 +66,7 @@ Rosenthal's reply goes beyond the bare observation that rocks aren't mental stat
 
 ### The Misrepresentation Problem
 
-What happens when a higher-order thought targets a mental state that doesn't exist? Rosenthal accepts consciousness can occur even without a first-order state—"targetless" higher-order thoughts produce genuine (if hallucinatory) experience. Critics argue this severs consciousness from its supposed grounding in first-order content.
+What happens when a higher-order thought targets a mental state that doesn't exist? Rosenthal accepts consciousness can occur even without a first-order state—"targetless" higher-order thoughts produce [[anton-syndrome-and-the-sincere-report-of-seeing|genuine (if hallucinatory) experience]]. Critics argue this severs consciousness from its supposed grounding in first-order content.
 
 The [[self-representational-theory-of-consciousness|self-representational (same-order) theory]] was built to dodge exactly this: a state that represents *itself* cannot target a non-existent state. Whether that escapes misrepresentation or merely relocates it *inside* the complex state is a standard dispute between the camps.
 

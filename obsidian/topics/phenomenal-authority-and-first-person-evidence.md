@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-09-24
 human_modified:
-ai_modified: 2026-09-30T08:54:16+00:00
+ai_modified: 2026-10-03T17:49:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ Strict calibration against an independent standard is impossible — the [[obser
 
 | Domain | Layer | Husserl Category | Strategies Available | Warranted Trust |
 |--------|-------|-----------------|---------------------|-----------------|
-| Phenomenal existence (that there is something it is like) | First | Apodictic | Acquaintance; self-stultification of denial | Very high |
+| [[anton-syndrome-and-the-sincere-report-of-seeing\|Global]] phenomenal existence (that experience occurs at all) | First | Apodictic | Acquaintance; self-stultification of denial | Very high |
 | Attended phenomenal content (what it is like) | Second | Adequate/Assertoric | Process/content, convergence, cross-modal, training | High |
 | Structural features of experience (temporal grain, unity) | Second–Third | Assertoric/Presumptive | Convergence, cross-modal, prediction | Moderate-high |
 | Background and peripheral states | Third | Presumptive | Limited; Schwitzgebel's evidence strongest here | Low |

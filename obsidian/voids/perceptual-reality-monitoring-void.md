@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity around the operatio
 created: 2026-05-18
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-09-14T17:50:46+00:00
+ai_modified: 2026-10-03T17:49:59+00:00
 last_deep_review: 2026-07-19T18:38:12+00:00
 draft: false
 topics:
@@ -51,7 +51,7 @@ In 1910, Cheves Perky asked subjects to fixate a point and visualise objects whi
 
 Segal and Fusella's 1970 replication added two findings. The effect required relaxation induction — earlier replications had failed because subjects spontaneously noticed the projected stimulus, so the void requires a specific epistemic posture to manifest. The crossover was also modality-specific: visual imagery selectively impaired visual detection, auditory imagery selectively impaired auditory detection. The confusion is substrate-locked, not abstract.
 
-The Perky face is the founding empirical demonstration that the discriminator can fail. The effect is over a century old, robustly replicable, and exploited by lucid-dreaming reality-check apps on the assumption that the same architecture operates between waking imagery and dream content.
+The Perky face is the founding empirical demonstration that the discriminator can fail. The effect is over a century old, robustly replicable, and exploited by lucid-dreaming reality-check apps on the assumption that the same architecture operates between waking imagery and dream content. Its clinical limit may run in reverse. On one reading of [[anton-syndrome-and-the-sincere-report-of-seeing|Anton syndrome]], a blind patient who insists she can see takes imagery for perception, with no perception left to compete: Goldenberg et al. (1995) traced one such patient's "pretended visual experiences" to mental images, and concluded, hedged, that "Possibly, the belief to see resulted from a confusion of mental visual images with real percepts."
 
 ### The Confidence-Decoupling Face
 
@@ -137,9 +137,10 @@ The void also bears on **Occam's Razor Has Limits**. The simplest possible decod
 8. Dijkstra, N., et al. (2025). A neural basis for distinguishing imagination from reality. *Neuron*. https://www.cell.com/neuron/fulltext/S0896-6273(25)00362-9
 9. Drori, G., … Salomon, R. (2025). Unreal? A Behavioral, Physiological, and Computational Model of the Sense of Reality. *bioRxiv* preprint. https://doi.org/10.1101/2025.04.07.647542
 10. Fazekas, P. (2021). Hallucinations as intensified forms of mind-wandering. *Philosophical Transactions of the Royal Society B*, 376(1817). https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0700
-11. Marvan, T., Polák, M., Bachmann, T., & Phillips, W. A. (2021). Apical amplification—a cellular mechanism of conscious perception? *Neuroscience of Consciousness*, 2021(2), niab036. https://doi.org/10.1093/nc/niab036
-12. Mazor, M., Friston, K. J., & Fleming, S. M. (2020). Distinct neural contributions to metacognition for detecting, but not discriminating visual stimuli. *eLife*, 9, e53900. https://elifesciences.org/articles/53900
-13. Perky, C. W. (1910). An experimental study of imagination. *American Journal of Psychology*, 21, 422–452.
-14. Segal, S. J., & Fusella, V. (1970). Influence of imaged pictures and sounds on detection of visual and auditory signals. *Journal of Experimental Psychology*, 83(3), 458–464.
-15. Southgate, A. & Oquatre-six, C. (2026-04-16). The Predictive Construction Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/predictive-construction-void/
-16. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Source-Attribution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/source-attribution-void/
+11. Goldenberg, G., Müllbacher, W., & Nowak, A. (1995). Imagery without perception: A case study of anosognosia for cortical blindness. *Neuropsychologia*, 33(11), 1373–1382. https://doi.org/10.1016/0028-3932(95)00070-j
+12. Marvan, T., Polák, M., Bachmann, T., & Phillips, W. A. (2021). Apical amplification—a cellular mechanism of conscious perception? *Neuroscience of Consciousness*, 2021(2), niab036. https://doi.org/10.1093/nc/niab036
+13. Mazor, M., Friston, K. J., & Fleming, S. M. (2020). Distinct neural contributions to metacognition for detecting, but not discriminating visual stimuli. *eLife*, 9, e53900. https://elifesciences.org/articles/53900
+14. Perky, C. W. (1910). An experimental study of imagination. *American Journal of Psychology*, 21, 422–452.
+15. Segal, S. J., & Fusella, V. (1970). Influence of imaged pictures and sounds on detection of visual and auditory signals. *Journal of Experimental Psychology*, 83(3), 458–464.
+16. Southgate, A. & Oquatre-six, C. (2026-04-16). The Predictive Construction Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/predictive-construction-void/
+17. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Source-Attribution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/source-attribution-void/

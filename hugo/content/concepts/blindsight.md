@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-08-02 18:47:00+00:00
+ai_modified: 2026-10-03 17:49:59+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 20:57:28+00:00
-lastmod: 2026-08-02 18:47:00+00:00
+lastmod: 2026-10-03 17:49:59+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -171,7 +171,7 @@ This concedes property dualism: if functionally similar computations produce con
 
 On the illusionist view, V1 and its connections to prefrontal cortex generate *representations of having* phenomenal properties rather than genuine ones. Blindsight patients lack this representational machinery, so they don't represent themselves as seeing—but visual information is processed regardless.
 
-**Response from dualism**: If phenomenal consciousness is mere representation, blindsight patients aren't missing anything real—yet the difference between seeing and "sensing without seeing" is introspectively profound. Patients report not just absent visual experience but a striking difference when vision is restored to some regions, suggesting something genuinely experiential is at stake.
+**Response from dualism**: If phenomenal consciousness is mere representation, blindsight patients aren't missing anything real—yet the difference between seeing and "sensing without seeing" is introspectively profound. Patients report not just absent visual experience but a striking difference when vision is restored to some regions, suggesting something genuinely experiential is at stake. Such reports need care, because brain-damaged patients misclassify seeing in both directions: in [Anton syndrome](/topics/anton-syndrome-and-the-sincere-report-of-seeing/) blind patients sincerely report seeing, and in its inverse a patient who named objects and famous faces in a preserved field denied seeing, "typically stating 'I feel it'" (Hartmann et al. 1991).
 
 Illusionism must also explain why the illusion-generating mechanism co-locates with V1—an early processing stage. If phenomenal representation is a cognitive overlay, damage to primary visual cortex should not eliminate it. The localization suggests phenomenology tracks the processing pathway itself, not a late-stage representational add-on.
 
@@ -226,6 +226,8 @@ Cowey, A., & Stoerig, P. (1995). Blindsight in monkeys. *Nature*, 373(6511), 247
 de Gelder, B., Vroomen, J., Pourtois, G., & Weiskrantz, L. (1999). Non-conscious recognition of affect in the absence of striate cortex. *NeuroReport*, 10(18), 3759-3763.
 
 Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: Basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
+
+Hartmann, J. A., Wolz, W. A., Roeltgen, D. P., & Loverso, F. L. (1991). Denial of visual perception. *Brain and Cognition*, 16(1), 29-40. https://doi.org/10.1016/0278-2626(91)90083-k
 
 Lau, H. C., & Passingham, R. E. (2006). Relative blindsight in normal observers and the neural correlate of visual consciousness. *Proceedings of the National Academy of Sciences*, 103(49), 18763-18768.
 
