@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T07:01:32+00:00
+ai_modified: 2026-10-03T07:25:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T07:25:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/evolution-of-consciousness]]
+- **Task**: P1 queue task (todo.md ~L1661), cluster 2 of [[reviews/outer-review-synthesis-2026-10-02]]. Carry the prebiotic-collapse completeness repair into the Prebiotic Connection subsection.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Word count**: 3,480 → 3,479 (−1; concepts hard gate 3,500 at `>=`, so headroom goes from 19 to 20).
+- **Changes**:
+  - (a) L133: "Consciousness *modulates* collapse in systems with appropriate neural architecture but doesn't cause it universally" → the ordering sentence copied verbatim from the lead of [[concepts/post-decoherence-selection]] (revised 2026-10-03 01:11Z): "Objective reduction fixes when, where and in which basis every collapse occurs, and which outcome actualizes wherever no interface is present; in an interface-grade brain, consciousness preempts that token selection inside the Born corridor, leaving the unconditioned Born statistics intact." Followed by the sibling's debt sentence with its link, "Which process acts first when both are present is an open [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]". Its ": no combined law has been supplied" tail was dropped for budget. The wording says *unconditioned* statistics, so the intention-conditioned test route of Tenet 2 and P-Q3 stays open.
+  - (b) L133: "(Penrose-style gravitational collapse or GRW spontaneous localization)" → "GRW/CSL spontaneous localization, or Penrose-style gravitational collapse with a free regularisation length, since experiment excluded the parameter-free Diósi–Penrose model ([[positions/quantum-interface#^p-q6|P-Q6]])". The citation goes through the register entry, which carries Donadi et al. (2021). Naming the paper in the text would have needed a 17-word reference entry the budget could not fund.
+  - (c) Funding: deleted "Stars, chemistry, and mutations all had definite outcomes via objective reduction—physical collapse mechanisms created the conditions for life" and "Once brains evolved sufficient complexity, consciousness could interface with neural quantum processes, creating the bidirectional interaction the Map affirms". The first is covered by the ordering sentence's no-interface clause; the second by L135's "how biological evolution produced systems where consciousness could express itself through matter". Also dropped "provides baseline collapse throughout the universe, whether or not minds exist", now carried by "every collapse … wherever no interface is present". L131 trim of a restatement: "poses a distinct question. Prebiotic collapse concerns the *cosmological* timeline:" → "poses a distinct, *cosmological* question:" (−5).
+  - (d) L135: "This dissolves the strong emergence problem" → "The interface view dissolves …" (+2). The paragraph now ends on the debt sentence, so a bare "This" would have read as the debt doing the dissolving.
+  - Not touched: L155 (Process Philosophy) still says "consciousness modulating quantum collapse at neural sites". It was outside this task's locus; the residual is noted here for a later pass.
+- **Published**: yes
 
 ## 2026-10-03T07:01:32+00:00 - combine-outer-reviews
 - **Status**: Success
