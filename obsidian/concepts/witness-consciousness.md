@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-09-28T09:02:00+00:00
+ai_modified: 2026-10-03T12:40:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,11 +102,11 @@ The [[meditation-and-consciousness-modes|meditation literature]] reveals two mod
 | **Active selection** | Effortful, focused | Rapid observation |
 | **Passive witnessing** | Effortless, open | Reduced observation rate |
 
-The mechanism column uses Stapp's Zeno vocabulary, which the [[positions/quantum-interface|positions register]] ranks below [[post-decoherence-selection|post-decoherence selection]] on decoherence-timing grounds (P-Q4 against P-Q1). These are modes consciousness *can adopt*, not essential definitions. When consciousness operates as witness: thoughts slow (less feedback to the brain's option-generation), [[mental-effort|effort]] disappears (no choosing), and the self-narrative quiets (no amplification of "me"-thoughts).
+The mechanism column uses Stapp's Zeno vocabulary, which the [[positions/quantum-interface|positions register]] ranks below [[post-decoherence-selection|post-decoherence selection]] on decoherence-timing grounds (P-Q4 against P-Q1). These are modes consciousness *can adopt*, not essential definitions. When consciousness operates as witness: thoughts slow (less feedback to the brain's option-generation), [[mental-effort|effort]] disappears (little choosing), and the self-narrative quiets (no amplification of "me"-thoughts).
 
 The witness register may also carry a characteristic *affective* signature. [[affective-tone-divergence-across-meditative-traditions|Affective tone divergence across meditative traditions]] reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged, contrasting it with devotional traditions where the interface runs hot on a beloved object. On that reading the flatness of the witness state is the valence-signature of disengaged selection rather than affective poverty—a serious-but-unconfirmed hypothesis, not something the divergence data establishes.
 
-The witness mode extends rather than contradicts [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The capacity for interaction includes the capacity to suspend it—an extension this article proposes; the tenet reads "consciousness is not a passive observer."
+The witness mode extends rather than contradicts [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. The capacity for interaction includes the capacity to reduce it—an extension this article proposes; the tenet reads "consciousness is not a passive observer."
 
 ## Decentering and Minimal Phenomenal Experience
 
@@ -165,7 +165,7 @@ The Map's position would face serious difficulty if: (1) contemplative tradition
 
 **The Regress Objection**: If the witness observes thoughts, what observes the witness? *Response*: The witness is self-luminous (*svayam-prakasha*)—it is the knowing itself. Just as light illuminates without needing a second light, awareness is aware without requiring awareness of that awareness. As the [[witnessing-void]] develops, this resolves the regress ontologically while constituting the void epistemically: the feature that prevents regress also ensures witnessing-as-operation cannot appear as content to itself.
 
-**The Epiphenomenalism Worry**: If the witness only observes, isn't it causally inert? *Response*: Witnessing is one mode among others: consciousness can observe without intervening, but need not always do so. The capacity to hold back—to witness rather than select—matters for [[topics/free-will|libertarian free will]] as much as the ability to initiate action.
+**The Epiphenomenalism Worry**: If the witness only observes, isn't it causally inert? *Response*: The witness selects little, not nothing: it must still steer a little, or it could not cause its own reports—the [[self-stultification]] argument against epiphenomenalism, applied to this state. The capacity to hold back—to witness rather than actively select—matters for [[topics/free-will|libertarian free will]] as much as the ability to initiate action.
 
 **The Reification Concern**: Making the witness an identity recreates the ego. *Response*: The distinction is between *being* a witness and *identifying as* a witness. Witness consciousness is not identity but structure—the irreducible subject-side of experience.
 
@@ -177,11 +177,11 @@ Witness consciousness provides first-person evidence for irreducibility. The wit
 
 ### Minimal Quantum Interaction
 
-The witness mode may represent consciousness at its most minimal interface—observing without the quantum-level influence that attention-as-selection involves. On the Zeno reading, reduced observation rate would be consciousness disengaging from the physical interface while remaining present. This capacity for both intervention and non-intervention strengthens the framework's plausibility.
+The witness mode may represent consciousness at its most minimal interface—observing with little of the quantum-level influence that attention-as-selection involves. On the Zeno reading, reduced observation rate would be consciousness largely disengaging from the physical interface while remaining present. This capacity for both full and minimal intervention strengthens the framework's plausibility.
 
 ### Bidirectional Interaction
 
-Witness consciousness extends the tenet: the capacity for interaction includes the capacity to suspend interaction. [[mental-effort|Mental effort]] accompanies selection; effortlessness accompanies witnessing. The contrast suggests both modes are real—and that the effortful mode involves genuine causal intervention.
+Witness consciousness extends the tenet: the capacity for interaction includes the capacity to reduce interaction. [[mental-effort|Mental effort]] accompanies selection; effortlessness accompanies witnessing. The contrast suggests both modes are real—and that the effortful mode involves genuine causal intervention.
 
 ### No Many Worlds
 
@@ -195,7 +195,7 @@ Eliminating witness consciousness in favor of "brain states modeling brain state
 
 Witness consciousness—observing mental contents without identification—reveals the subject-object structure of experience. The witness cannot become an object; it is the condition for there being objects. This supports irreducibility—consciousness is not identical to any content it can observe—though not, on its own, the two-relata structure interactionism needs.
 
-The witness mode complements rather than contradicts the selection framework: consciousness can select among neural options or observe without selecting; neither capacity exhausts its nature.
+The witness mode complements rather than contradicts the selection framework: consciousness can select among neural options or observe while selecting little; neither capacity exhausts its nature.
 
 What contemplatives discovered through practice, phenomenology articulates through analysis: the difference between being observed and being the observer points beyond physical description.
 

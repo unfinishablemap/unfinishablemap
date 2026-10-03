@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-07-18 06:39:00+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-10-03 12:40:33+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[witness-consciousness]]'
@@ -16,13 +16,14 @@ concepts:
 - '[[philosophical-zombies]]'
 created: 2026-02-05
 date: &id001 2026-02-05
-description: 'What meditation''s witness state reveals about consciousness: that awareness
-  can exist without doing, observation without selection, presence without intervention.'
+description: 'What meditation''s witness state reveals about consciousness: presence
+  with little doing, observation with little selection, yet enough steering to cause
+  its own reports.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 06:50:18+00:00
-lastmod: 2026-07-18 06:39:00+00:00
+lastmod: 2026-10-03 12:40:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

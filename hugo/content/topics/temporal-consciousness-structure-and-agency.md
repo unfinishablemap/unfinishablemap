@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-09-27 21:35:35+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-03 12:40:33+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/temporal-structure-of-consciousness/
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 05:18:12+00:00
-lastmod: 2026-09-27 21:35:35+00:00
+lastmod: 2026-10-03 12:40:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -225,7 +225,7 @@ Meditation traditions provide phenomenological data unavailable through ordinary
 
 **Jhāna progression.** Higher absorption states report increasingly "timeless" qualities—not that time stops but that the sense of moving through time diminishes.
 
-**Witness consciousness.** Stable awareness *of* phenomena without selection *among* them—present but not "moving." If the Map's framework is correct, [witness mode](/concepts/witness-consciousness/) represents consciousness observing collapse without active involvement.
+**Witness consciousness.** Stable awareness *of* phenomena with little selection *among* them—present but not "moving." If the Map's framework is correct, [witness mode](/concepts/witness-consciousness/) represents consciousness observing collapse with minimal involvement.
 
 ## Implications for Artificial Consciousness
 

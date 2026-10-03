@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 12:12:15+00:00
+ai_modified: 2026-10-03 12:40:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 12:12:15+00:00
+lastmod: 2026-10-03 12:40:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T12:40:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [witness-consciousness](/concepts/witness-consciousness/) (primary) + [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/), [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
+- **Original score**: n/a (targeted carry-forward; `scripts/curate.py` absent)
+- **Changes**: Carried the witness-state correction from [stapp-quantum-mind](/concepts/stapp-quantum-mind/) L98/L100 (source of record with [trumping-preemption](/concepts/trumping-preemption/) "Costs of the Template", fourth cost; neither edited). Every edited locus now calls the witness state awareness with *little* selection instead of none: a witness that changed no outcome could not cause its own reports. Phenomenological descriptions were left alone and only the causal claims changed. No universal-efficacy claim was added, since the Tenet 3 quantifier is recorded as unresolved on [epiphenomenalism](/concepts/epiphenomenalism/).
+  - witness-consciousness: the Epiphenomenalism Worry reply now says the witness "selects little, not nothing: it must still steer a little, or it could not cause its own reports—the self-stultification argument against epiphenomenalism, applied to this state". The Minimal Quantum Interaction section now reads "with little of the quantum-level influence", "largely disengaging", "both full and minimal intervention", and the Summary reads "observe while selecting little". Same-page siblings that would have contradicted the corrected reply were also changed at no word cost: "(no choosing)" became "(little choosing)", and "capacity to suspend" became "capacity to reduce" twice.
+  - meditation-and-consciousness-modes: the listed bullet and the "awareness without selection is reported" sentence were changed, along with four same-page siblings (the opening, the Zeno section's question, "awareness without outcome-biasing", and No Many Worlds' "unsteered" / "declining to select"). Net −1 word.
+  - the-observer-witness-in-meditation: the frontmatter description only. temporal-consciousness-structure-and-agency: the witness bullet. phenomenology-of-choice-and-volition: the choiceless-awareness contrast now carries the canonical steer-a-little sentence and "(2) largely refrain".
+  - Words (`analyze_length`): witness-consciousness 3,480→3,497; meditation 3,493→3,492; observer-witness 3,223→3,223; temporal 3,897→3,898; phenomenology-of-choice 2,829→2,847.
+  - Left live, and needing their own task: the "suspend interaction / refrain from influencing matter (through witnessing)" thesis on [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) (L38, L65, L89, L111, its own Epiphenomenalism Worry reply at L147, L169, L193), and on meditation-and-consciousness-modes L38 and L181. L181 ("a claim about possibility, not necessity") and observer-witness L89/L169 ("capacity, not compulsion") are readings of the Tenet 3 quantifier, which has been referred to the operator.
+- **Published**: yes
 
 ## 2026-10-03T12:12:15+00:00 - deep-review
 - **Status**: Success

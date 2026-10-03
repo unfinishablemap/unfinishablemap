@@ -4,7 +4,7 @@ description: "How consciousness constitutes lived temporal structure, how attent
 created: 2026-01-23
 modified: 2026-04-15
 human_modified: null
-ai_modified: 2026-09-27T21:35:35+00:00
+ai_modified: 2026-10-03T12:40:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ related_articles:
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-04-15
 last_curated: null
 last_deep_review: 2026-07-27T05:18:12+00:00
@@ -221,7 +221,7 @@ Meditation traditions provide phenomenological data unavailable through ordinary
 
 **Jhāna progression.** Higher absorption states report increasingly "timeless" qualities—not that time stops but that the sense of moving through time diminishes.
 
-**Witness consciousness.** Stable awareness *of* phenomena without selection *among* them—present but not "moving." If the Map's framework is correct, [[witness-consciousness|witness mode]] represents consciousness observing collapse without active involvement.
+**Witness consciousness.** Stable awareness *of* phenomena with little selection *among* them—present but not "moving." If the Map's framework is correct, [[witness-consciousness|witness mode]] represents consciousness observing collapse with minimal involvement.
 
 ## Implications for Artificial Consciousness
 

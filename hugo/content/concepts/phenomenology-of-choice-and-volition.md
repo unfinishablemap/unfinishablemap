@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-09-26 02:46:20+00:00
+ai_modified: 2026-10-03 12:40:33+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 16:05:00+00:00
-lastmod: 2026-09-26 02:46:20+00:00
+lastmod: 2026-10-03 12:40:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -139,7 +139,7 @@ The core argument does not depend on any specific mechanism. Effort phenomenolog
 
 Meditation practice refines phenomenological discrimination. Advanced meditators describe watching decisions arise before identifying with them — intention appears, followed by a distinct moment of "signing off." Buddhist, Tibetan, and Hindu traditions report convergent findings: the gap between stimulus and response is observable, and intention can be distinguished from the act of endorsing it.
 
-[Choiceless awareness](/concepts/witness-consciousness/) provides a contrast case: options arise and pass without selection. Contemplative reports thus indicate that consciousness can observe without choosing. The agent can (1) select among options, (2) refrain from selecting, (3) choose whether to enter selecting mode — a three-level structure suggesting agency exceeds simple selection. See [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) for the cross-cultural persistence of these structures.
+[Choiceless awareness](/concepts/witness-consciousness/) provides a contrast case: options arise and pass with little selection. Contemplative reports thus indicate that consciousness can observe with minimal choosing; the witness must still steer a little, or it could not cause its own reports. The agent can (1) select among options, (2) largely refrain from selecting, (3) choose whether to enter selecting mode — a three-level structure suggesting agency exceeds simple selection. See [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) for the cross-cultural persistence of these structures.
 
 ## The Illusionist Challenge
 

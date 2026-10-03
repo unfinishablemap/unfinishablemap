@@ -1,10 +1,10 @@
 ---
 title: "The Observer-Witness in Meditation"
-description: "What meditation's witness state reveals about consciousness: that awareness can exist without doing, observation without selection, presence without intervention."
+description: "What meditation's witness state reveals about consciousness: presence with little doing, observation with little selection, yet enough steering to cause its own reports."
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-07-18T06:39:00+00:00
+ai_modified: 2026-10-03T12:40:33+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[witnessing-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-02-05
 last_curated:
 last_deep_review: 2026-07-18T06:50:18+00:00

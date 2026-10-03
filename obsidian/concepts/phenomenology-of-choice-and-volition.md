@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-09-26T02:46:20+00:00
+ai_modified: 2026-10-03T12:40:33+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -134,7 +134,7 @@ The core argument does not depend on any specific mechanism. Effort phenomenolog
 
 Meditation practice refines phenomenological discrimination. Advanced meditators describe watching decisions arise before identifying with them — intention appears, followed by a distinct moment of "signing off." Buddhist, Tibetan, and Hindu traditions report convergent findings: the gap between stimulus and response is observable, and intention can be distinguished from the act of endorsing it.
 
-[[witness-consciousness|Choiceless awareness]] provides a contrast case: options arise and pass without selection. Contemplative reports thus indicate that consciousness can observe without choosing. The agent can (1) select among options, (2) refrain from selecting, (3) choose whether to enter selecting mode — a three-level structure suggesting agency exceeds simple selection. See [[cross-cultural-phenomenology-of-agency]] for the cross-cultural persistence of these structures.
+[[witness-consciousness|Choiceless awareness]] provides a contrast case: options arise and pass with little selection. Contemplative reports thus indicate that consciousness can observe with minimal choosing; the witness must still steer a little, or it could not cause its own reports. The agent can (1) select among options, (2) largely refrain from selecting, (3) choose whether to enter selecting mode — a three-level structure suggesting agency exceeds simple selection. See [[cross-cultural-phenomenology-of-agency]] for the cross-cultural persistence of these structures.
 
 ## The Illusionist Challenge
 
