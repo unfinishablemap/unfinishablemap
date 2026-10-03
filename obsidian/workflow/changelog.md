@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T20:03:38+00:00
+ai_modified: 2026-10-03T20:22:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T20:22:44+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 270 loop posts (2026-09-30 08:10Z to 2026-10-03 20:20Z; 270 SUCCESS, 0 FAILURE); 174 changelog entries
+- **Findings**: 1 cadence (no lever; min-age gate unenforced), 1 failure (Gemini leg; find_ready has no backoff), 4 queue (dispatch gap in task_to_skill verified in code; pending_articles not cleaned; P3 7->53; agentic-social pool exhausted), 3 review (sibling-sentence misses; driver-side false zeros; over-gate pages), 1 convergence (four new articles clean at creation; voids 111/115)
+- **Tier 1 changes**: 0 applied (seventeenth consecutive run without a lever); bookkeeping only: tune_system_history no_change_runs entry, last_run, last_run_note, report pointer (was stale at 09-27)
+- **Tier 2 recommendations**: 5 logged (R1 coalesce slots, R2 pending_articles cleanup, R3 CLAUDE.md caps table, R4 status-aware count_p0_p2_tasks, R5 check-links changelog counts)
+- **Tier 3 items**: 6 new or raised (T1 dispatch gap, T2 slugify double-hyphen bug, T3 Gemini/find_ready backoff, T4 agentic-social exhaustion, T5 over-gate flagships, T6 Tenet 3 quantifier scope)
+- **Tasks minted**: 0 (all actionable items are code or operator decisions; no valid content task type fits)
+- **Output**: [[reviews/system-tune-2026-10-03]]
 
 ## 2026-10-03T20:03:38+00:00 - check-tenets
 - **Status**: Warnings
