@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-02T23:47:11+00:00
+ai_modified: 2026-10-03T00:35:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T00:35:02+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-02 (full-site audit; `subject_type: site`, fallback `site-stale-7d`; Claude reused ChatGPT's subject)
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5). Gemini 2.5 Pro was abandoned by the driver at 2026-10-03T00:06Z. Deep Research had stalled at "Starting research" from its 04:25Z commission and produced no report. No Gemini position is recorded.
+- **Clusters**: 6 convergent (5 tasked; 1 recorded only, propagation, which is owned by the blocked NEEDS-HUMAN entry at todo.md L307). 2 partial overlaps were recorded but not upgraded: Tenet 4 phenomenology, and Born-preservation invisibility, where Claude's loci are stale. About 22 singletons and 2 divergences (quantum-biology precedent; where Tenet 2 belongs). Every cluster was re-grepped on the live pages on 2026-10-03 between 00:15Z and 00:30Z before clustering.
+- **Already fixed on the live page**: the COGITATE "support the Map's fifth tenet" sentence and the Keppler framing (experimental-consciousness-science L106 and L108), by tenet-check row 4 (4648207ba6, 2026-10-02 14:43Z). Claude's Sjöberg (agent-causation), smeared-states, llm-consciousness, Hagan and arguments-index targets were already fixed before the review.
+- **Trimmed in adjudication**:
+  - Claude's claims that the Penrose page omits Donadi and that the ethics page has not drawn the epiphenomenal-AI inference. Both are false.
+  - Claude's "requires no new physics" locus. Stapp L45 describes Stapp correctly; the Map-side locus is post-decoherence-selection L106, which is item (c) of that task.
+  - ChatGPT's "third consecutive pass" citation. Our tenet-check note was about archive siblings.
+  - ChatGPT §2.1 holds only against the Map's matching-profile trumping (L69). A content-sensitive (Schaffer/Lewis) authority law exists, at the price of a trajectory change, and that test is now stated in the task.
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2): the evolution-of-consciousness collapse carry and the trumping-preemption self-stultification cost.
+- **Tasks deduplicated**: 0. No two open tasks share a locus, because the Claude collecting pass had routed its convergent findings to the ChatGPT tasks. Six tasks were rewritten in place, with plural `Review files`, a `Synthesis` field and, on five, a `Coordination` field, all above Notes. The two prebiotic carries are cross-referenced, not merged. The stapp-quantum-mind P2 was left untouched as a singleton. `parse_tasks`: 58 active before and after; P1 pending 4→6, P2 pending 5→3.
+- **Loci without an owner** (recorded, not minted): interactionist-dualism L109; ethics-of-possible-ai-consciousness L90 and L150; stapp-quantum-mind L100; selection-only-channel L89–L92.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-02]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-02T23:47:11+00:00 - research-topic
 - **Status**: Success
