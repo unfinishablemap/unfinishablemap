@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T15:08:11+00:00
+ai_modified: 2026-10-03T15:40:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T15:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/contemplative-epistemology]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from the review's Priority item 4)
+- **Review file**: [[reviews/optimistic-2026-10-03-witness-and-contemplative-modes-wing]] §Priority List item 4
+- **Source re-verified**: Lindahl et al. (2017) checked against the PLOS ONE JATS XML full text (DOI 10.1371/journal.pone.0176239), grep-verified. "Participants were 60 Buddhist meditators … with equal representation (n = 20) across Theravāda, Zen, and Tibetan lineages." Inclusion required "a meditation practice in a Buddhist tradition"; sampling was purposive "deviant case sampling"; the study "intentionally queried experiences that practitioners found unexpected, difficult, distressing, or functionally impairing"; the authors state the results cannot be generalised "to mindfulness-based interventions (MBIs), neither of which were included in our sample." Table 4 (percent of practitioners reporting): "Changes in self-other or self-world boundaries (53%)", "Fear, anxiety, panic or paranoia (82%)". The paper's own introduction documents tradition maps of these states (Zen *makyō*, the Theravāda insight knowledges, Tibetan "signs of progress"). Authors per the XML: Lindahl, Fisher, Cooper, Rosen, Britton.
+- **Changes**:
+  - L95 (§Resistance to Expectation): the "secular mindfulness participants, trained in stress reduction" population, which the source contradicts, is replaced with the real sample (sixty Western Buddhist meditators, 20 each from Theravāda, Zen and Tibetan lineages), the study's query design, and two verified Table 4 figures. "Cessation of discursive thought" and "their programme never mentioned" are dropped. The argument is restated at its true strength: the sample was recruited for challenging experiences, so its percentages are not base rates; and it comes from one family of traditions whose maps anticipate some of these states, so the finding resists expectation at the practitioner level rather than at the tradition level. New link to [[contemplative-pathology-and-interface-malfunction]]. Two departures from the review's text: "their training did not lead them to expect" became "they did not expect" (the paper puts the misfit between practitioner expectations and the tradition's frameworks, not in training), and a base-rate clause was added (deviant-case sampling).
+  - L171 (References): full author list and subtitle, matching the XML and `topics/buddhist-perspectives-on-meaning` ref 1.
+  - L91 (§Progressive Disclosure): the review's conditional check came out positive. "meditation does not fabricate the phenomenological structures it discloses" read as settled, against this page's own "genuine open question" (§Challenges) and modes L151's constructivist caveat. It is narrowed to the Map's reading, with the constructivist alternative marked open and linked to [[meditation-and-consciousness-modes#the-illusionist-challenge]].
+- **Not applied**: X2 (L144 "independent civilisations", +1). It was optional in the review and outside the task brief.
+- **Ledger note**: deep-review 2026-05-29 (and 06-26 and 07-16, which carried it forward) recorded Lindahl as "VERIFIED CLEAN" by paraphrasing the population as "Western Buddhist / secular practitioners". The ledger ratified the reading, not the source. Review files are left unedited as historical records.
+- **Siblings (reported, not edited)**: `archive/concepts/contemplative-epistemology.md` L68 repeats the "Secular mindfulness participants" sentence verbatim. `topics/contemplative-pathology-and-interface-malfunction.md` L39 describes the population correctly (three Western Buddhist traditions), but its taxonomy list names "auditory hallucinations" and "temperature changes", which have 0 hits for "auditory" or "temperature" in the full text. Its L85 cites Lindahl for "deliberate reactivation of default-mode processing" and "re-establishment of the perceptual filters", which have 0 hits for "default mode" or "filter" (the paper reports "grounding" activities only). `topics/buddhist-perspectives-on-meaning.md` L145 is correct ("60 Western practitioners"; "Anhedonia and avolition (18%)" is a real category).
+- **Length**: 2,594 → 2,684 (`analyze_length`; concepts hard 3,500, gate `>=`): L95 +55, L171 +20, L91 +15 = +90 (review budgeted +55; the excess is the L91 narrowing and the base-rate clause). Headroom 905 → 815.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T15:08:11+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **33rd consecutive**, the expected steady state.

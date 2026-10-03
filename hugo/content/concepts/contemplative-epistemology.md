@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-08-19 14:55:00+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-03 15:40:00+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/contemplative-epistemology/
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:54:03+00:00
-lastmod: 2026-08-19 14:55:00+00:00
+lastmod: 2026-10-03 15:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,11 +92,11 @@ When trained meditators describe distinct phenomenal states, neuroimaging confir
 
 ### Progressive Disclosure
 
-Contemplative traditions describe a developmental phenomenology: deeper practice reveals structures invisible at earlier stages. Cessation experiences, jhana states (with documented neural signatures; Hagerty et al. 2013), and the dissolution of subject-object boundaries become accessible only after sustained training. This mirrors how scientific instruments reveal phenomena invisible to the unaided senses—the telescope does not create Jupiter's moons, and meditation does not fabricate the phenomenological structures it discloses.
+Contemplative traditions describe a developmental phenomenology: deeper practice reveals structures invisible at earlier stages. Cessation experiences, jhana states (with documented neural signatures; Hagerty et al. 2013), and the dissolution of subject-object boundaries become accessible only after sustained training. This mirrors how scientific instruments reveal phenomena invisible to the unaided senses—the telescope does not create Jupiter's moons—and the Map reads meditation as likewise disclosing rather than fabricating these structures, though the [constructivist reading](/concepts/meditation-and-consciousness-modes/#the-illusionist-challenge), on which training sharpens a tradition-shaped self-model, remains open.
 
 ### Resistance to Expectation
 
-Practitioners regularly report experiences that contradict their prior beliefs or training framework. Secular mindfulness participants, trained in stress reduction rather than spiritual development, report states—dissolution of body boundaries, cessation of discursive thought, intense affective upheavals—that their programme never mentioned and their prior worldview did not predict (Lindahl et al. 2017). If contemplative reports merely reflected expectation, this pattern would be difficult to explain.
+Practitioners report experiences they did not expect. Lindahl et al. (2017) interviewed sixty Western Buddhist meditators, twenty each from Theravāda, Zen and Tibetan lineages, querying specifically for experiences they found unexpected, difficult or distressing, and catalogued under-reported states, among them changed self-other or self-world boundaries (53%) and fear, anxiety, panic or paranoia (82%). If contemplative reports merely reflected expectation, such reports would be harder to explain. The limits lie in the sample. It was recruited for challenging experiences, so its percentages are not base rates. It was also drawn from one family of traditions, [some of whose maps anticipate these states](/topics/contemplative-pathology-and-interface-malfunction/), so it shows reports resisting expectation at the level of the practitioner rather than of the tradition.
 
 ## Degrees of Reliability
 
@@ -172,7 +172,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 1. Hagerty, M. R., et al. (2013). Case study of ecstatic meditation: fMRI and EEG evidence of self-stimulating a reward system. *Neural Plasticity*, 2013, 653572.
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
 1. Kok, B. E., & Singer, T. (2017). Phenomenological fingerprints of four meditations. *Mindfulness*, 8(1), 218-231.
-1. Lindahl, J. R., et al. (2017). The varieties of contemplative experience. *PLOS One*, 12(5), e0176239.
+1. Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K., & Britton, W. B. (2017). The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists. *PLOS ONE*, 12(5), e0176239.
 1. Milicevic, A., et al. (2025). Consciousness, mindfulness, and introspection: integrating first- and second-person phenomenological inquiry with experimental and EEG data. *Frontiers in Psychology*, 16, 1558453.
 1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
