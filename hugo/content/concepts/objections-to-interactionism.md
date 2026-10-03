@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-30 21:39:17+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-03 03:28:56+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:32:31+00:00
-lastmod: 2026-09-30 21:39:17+00:00
+lastmod: 2026-10-03 03:28:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ The symmetry cuts both ways, and it is worth being honest about its reach. This 
 
 ### Response 2: Selection Not Injection
 
-The Map's primary response: at quantum indeterminacies, consciousness *selects* among possible outcomes without *injecting* energy. All outcomes are already present in the wavefunction with their associated energies. Physics determines that *one* will become actual, with probabilities for each, but doesn't determine *which*. Consciousness selects without energy injection—conservation equations are satisfied for every possible outcome.
+The Map's primary response: at quantum indeterminacies, consciousness *selects* among possible outcomes without *injecting* energy. All outcomes are already present in the wavefunction with their associated energies. Physics determines that *one* will become actual, with probabilities for each, but doesn't determine *which*. Consciousness selects without energy injection—no new dynamical terms enter, and energy is conserved in expectation, as in ordinary collapse.
 
 Quantum entanglement provides precedent: Bell's theorem shows correlations between distant particles that no local hidden-variable theory can reproduce. If physics permits such non-local correlations without energy transfer, conceptual space exists for mind-matter interaction without energy injection.
 
@@ -190,7 +190,7 @@ The strength ratings below distinguish two kinds of response. An *in-framework* 
 
 The objections to interactionism motivate rather than undermine the Map's framework.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet directly addresses the conservation and exclusion objections: consciousness acts where physics is incomplete, selecting among equi-energetic possibilities. No energy injection, no competition with sufficient physical causes.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet directly addresses the conservation and exclusion objections: consciousness acts where physics is incomplete, selecting among possibilities physics already allows. Selection adds no new dynamical terms and conserves energy in expectation, as ordinary collapse does, though the [thermodynamic challenge](/concepts/conservation-laws-and-mental-causation/#extractable-work) for a warm, bath-coupled brain stays open. Selection also avoids competing with sufficient physical causes.
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses parsimony: simplicity is unreliable when knowledge is incomplete.
 

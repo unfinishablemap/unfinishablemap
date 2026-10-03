@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 02:59:38+00:00
+ai_modified: 2026-10-03 03:28:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 02:59:38+00:00
+lastmod: 2026-10-03 03:28:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T03:28:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/); secondary: [objections-to-interactionism](/concepts/objections-to-interactionism/)
+- **Task**: P1 queue task (todo.md L1651), cluster 6 of [outer-review-synthesis-2026-10-02](/reviews/outer-review-synthesis-2026-10-02/). Carry the Stapp demotion and the Schwartz verdict into interactionist-dualism, and narrow its energy claim.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Word count**: interactionist-dualism 3,483 → 3,481 (−2; concepts hard gate 3,500 at `>=`, so headroom goes from 16 to 18). objections-to-interactionism 2,986 → 3,020 (+34; headroom goes from 513 to 479).
+- **Changes (interactionist-dualism)**:
+  - (a) L131: deleted the OCD sentence ("Neuroplasticity research supports this—OCD patients who redirected attention reshaped their brains through mental effort alone"), matching stapp-quantum-mind's "small, unreplicated ... cannot count as support". The same citation now carries Stapp's own account: "Attention chooses which question is put and how often; nature answers by the Born rule (Schwartz, Stapp & Beauregard 2005)". That keeps the reference cited.
+  - (c) L135: "Both share what the Map requires:" → "The Map's own view goes further than Stapp's question-choice:". Stapp declines probability control. The wording avoids implying that Stapp fails a tenet, since comparing-quantum-consciousness-mechanisms says both proposals "satisfy all five tenets".
+  - (b) L135: "Stapp's Zeno model sits naturally inside that preference as a forward-in-time selection account." → "Stapp's Zeno model is a fallback ranked below post-decoherence selection, behind the decoherence-timescale and regime-criterion gates ([P-Q4](/positions/quantum-interface/#p-q4))." The regime-criterion link goes to [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/). Paid for by a trim in the same paragraph: "the full ranking and its four-layer dependency structure are set out in" → "the full ranking is set out in".
+  - (d) L111: "requires no energy injection, addressing the conservation objection" → "adds no new dynamical terms and conserves energy in expectation, as ordinary collapse does—though the thermodynamic challenge for a warm, bath-coupled brain stays open". The phrase "thermodynamic challenge" links to the extractable-work section of [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/).
+  - Demotion siblings: at L119, "The Stapp model articulates this: consciousness operates through rapid observation (quantum Zeno effect), holding desired neural patterns in place." → "Mechanisms are compared below." The old sentence presented the demoted mechanism as the Map's articulation of the quantum response and repeated L131. At L153, deleted "the Zeno effect doesn't require long coherence;". [P-Q4](/positions/quantum-interface/#p-q4) says the decoherence gate cuts hardest against Zeno, and stapp-quantum-mind's Georgiev 2015 paragraph agrees.
+  - Energy sibling at L190: the Objections bullet "Consciousness selects among equal-energy outcomes; no energy added" → "Selection adds no new dynamical terms; energy is conserved in expectation". conservation-laws-and-mental-causation L99 treats equal energy as the simplest case, not the general one.
+  - Optional falsifier (4) at L145: moved from Zeno to Orch OR ("proving anaesthesia works purely through classical mechanisms would count against Orch OR's microtubule account"). stapp-quantum-mind's own falsifier list has no anaesthesia item. This paragraph got shorter by 2 words.
+- **Changes (objections-to-interactionism)**:
+  - L190 (Relation to Site Perspective): "selecting among equi-energetic possibilities. No energy injection, no competition with sufficient physical causes." → "selecting among possibilities physics already allows. Selection adds no new dynamical terms and conserves energy in expectation, as ordinary collapse does, though the thermodynamic challenge for a warm, bath-coupled brain stays open. Selection also avoids competing with sufficient physical causes." Same extractable-work link.
+  - L77 sibling (Response 2: Selection Not Injection): "conservation equations are satisfied for every possible outcome" → "no new dynamical terms enter, and energy is conserved in expectation, as in ordinary collapse".
+- **Consistency**: matches the ordering in post-decoherence-selection: objective reduction normally selects, and consciousness preempts token selection inside the Born corridor. L109 was not touched.
+- **Engagement modes** (editor-internal): n/a. No named-opponent reply was edited. Stapp is a fellow interactionist, so these edits are calibration.
+- **Not edited**: todo.md and stapp-quantum-mind (per brief). interactionist-dualism L201 "no energy injection (consciousness selects among quantum possibilities)" was left standing: it matches the "Selection Without Injection" framing in conservation-laws-and-mental-causation, and the 16-word budget could not cover it. topics/comparing-quantum-consciousness-mechanisms L157 still says Stapp's Zeno model and CSL-IIT "both sit naturally inside this preference", which is the source of the L135 phrase this pass removed. It is out of scope here and may need a later look. The "load-bearing" at interactionist-dualism L181 and objections-to-interactionism L111 is older than this pass.
+- **Published**: yes
 
 ## 2026-10-03T02:59:38+00:00 - refine-draft
 - **Status**: Success
