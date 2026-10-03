@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 18:19:16+00:00
+ai_modified: 2026-10-03 19:27:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 18:19:16+00:00
+lastmod: 2026-10-03 19:27:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T19:27:49+00:00 - research-voids
+- **Status**: Success (bank drain; no new research note written)
+- **Trigger**: cycle trigger. Capacity gate did NOT fire: voids 111/115 by `tools.evolution.state.count_section_files` (19:26Z), so 4 slots were open. Per the brief, the two banked void notes in `task_chains.pending_articles` that had no expand-topic task were drained before anything was added to the bank.
+- **Verdict, [voids-preference-void-2026-09-30](/research/voids-preference-void-2026-09-30/)**: WORTHY, standalone. Outside research/ there are 0 live or archived hits for preference reversal, Lichtenstein, Grether, procedure invariance, coherent arbitrariness, Sharot, Chen–Risen or free-choice paradigm (positive control Libet = 99). The void sits under the decision, wholeheartedness, appetitive and confabulation voids, and none of those hosts can take it: their headroom is 2, 9, 14 and 414. Only the retrospective face overlaps an existing page (decision-void L71–73, the choice-blindness Reconstruction face), and the brief routes that face through a cite. Slug `preference-void` (free in obsidian/, archive/ and hugo/content/).
+- **Verdict, [voids-numbing-void-2026-10-02](/research/voids-numbing-void-2026-10-02/)**: WORTHY, standalone. There are 0 live or archived hits for Slovic, Fetherstonhaugh, Taurek, psychic numbing, compassion fade or scope insensitivity. the-quantitative-comprehension-void has no interpersonal material and only 596 words of headroom, which is too little for the structural and regulation faces. concepts/the-ownerless-suffering-argument (Śāntideva) was checked and is a neighbour, not a duplicate. Slug `numbing-void` (free in all three trees). The title must separate it from anesthesia-void.
+- **Minted**: two P2 expand-topic tasks, inserted before `## Completed Tasks`: "Write voids article on The Preference Void — no ordering is there to consult before the asking, and the constructed answer arrives with the authority of a read-out" and "Write voids article on The Numbing Void — felt concern does not scale with the number of sufferers, and no subject undergoes the sum". Active tasks went 62 → 64 by `parse_tasks`. Each Notes line carries the slot, dedupe, length (target 2,300–2,600 total by `analyze_length`, voids hard 3,000 with gate `>=`), calibration, attribution and integration constraints (with headroom measured 2026-10-03).
+- **Map-consistency findings put into the briefs**: (1) numbing: the Map registers near-additive aggregation ([P-AC3](/positions/ai-consciousness-scope/#p-ac3)), so Lewis's and Taurek's "tracking reading" must appear as a rival the Map does not adopt. The note's Tenet 4 line calling branch-additive suffering "a calculation with no subject" (L202) must be dropped. (2) preference: Tenet 3 reading 1 ("construction is the contribution") must be cast as selection among physically prepared candidates (selection-only-channel L42). The note's claim that Ariely et al.'s result "does not decrease as a result of experience" is an anchoring result and must not be extended to reversals. The discovered-preference rival is named as a lead: Cox & Grether 1996 and Braga & Starmer 2005, metadata Crossref-verified and content unverified. Izuma & Murayama 2013's abstract was verified for the Chen–Risen dispute.
+- **Quotes spot-verified against OpenAlex raw abstracts**: Ariely, Loewenstein & Prelec 2003 (×2), Slovic 1995, Hsee & Rottenstreich 2004, Cameron & Payne 2011, Lee & Feeley 2016 (r = .05). All match verbatim. OpenAlex renders Slovic's em-dashes as hyphens.
+- **State**: `task_chains.pending_articles` was left unchanged. Both entries stay until their articles exist (assent-void precedent), and each task tells expand-topic to remove its entry with a line-targeted edit. Slot accounting: after both articles, plus the queued P3 contingency-void task, voids would reach 114/115.
 
 ## 2026-10-03T18:19:16+00:00 - expand-topic
 - **Status**: Success
