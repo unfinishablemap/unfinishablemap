@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T15:52:30+00:00
+ai_modified: 2026-10-03T16:17:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T16:17:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ignorance-hypothesis]]
+- **Word count**: 2,888 → 2,992 (+104; `analyze_length`, reference list counted; concepts soft 2,500 / hard 3,500, driver ceiling ~3,100)
+- **Critical issues addressed**: 5
+  - L45 triad: the dropped "if there are experiential truths" (ch. 2 abstract) is restored. Without it theses 2 and 3 contradict each other outright.
+  - L50: the "categorical" difference belongs to Russell, not McGinn (Papineau: "Russell's neutral monism adds a positive account of the content of our ignorance"). Now: "neither permanent, as McGinn holds, nor about categorical properties, as Russell held".
+  - L90 Chalmers 2018 subject splice: "holds that the problem intuitions 'concern the phenomenal rather than the physical'" → "grants that a structural conception of the physical is partly responsible for some problem intuitions, but holds that others, including the key intuition that explaining functions does not explain consciousness, 'concern…'" (PDF pp. 32–33).
+  - Tenet 5 parity calibrated to tenets L141 ("could reflect ignorance", "We may not"). Lead: "grant half the view, that we are ignorant" → "grant that half the view may be true". L102: "incompleteness of knowledge … is E2 in substance" → "that knowledge … may be incomplete, is E2 held as a possibility"; "asserts the premise" → "presses the possibility"; "grants E2 as a live hypothesis" → "treats E2 as an open possibility, not a finding". L116: "grants E2" → "leaves E2 open".
+  - L56/L58 consistency: "none of the texts checked files the 2006 hypothesis by letter" contradicted Stoljar 2020a's own filing → "none of his texts checked". "Type-C on every account checked" → "type-C by Chalmers's definition and by Stoljar's own filing".
+- **Medium issues addressed**: 6. Kind's objections were relabelled from "in Stoljar's summary" to the publisher's abstract (×3 plus the reference), because the T&F abstract is third-person ("the author's opening statement"). Papineau "answers that this does not carry over" → "was not persuaded that it extends" (his words: "didn't help me to understand"). "Stoljar's reply" → "Stoljar's reply to objections of this kind" (Papineau relays it against the perspectival objection, not Chalmers's hook). Papineau's quote extended verbatim through "while experiential facts are first-personal, subjective, and perspectival" so that "the latter" has an antecedent. Stoljar 2013 premise-3 denial marked "on one horn of a dilemma". "None has been observed" → "No test for such a deviation has yet run at the neural grain" (tenets L75).
+- **Enhancements made**: 5 zero-word pipes ([[conceivability-possibility-inference]], [[knowledge-argument]], [[explanatory-gap]], [[meta-problem-of-consciousness]], [[hard-problem-of-consciousness]]); McClelland 2020 gains pp. 108–119 from the Cambridge repository record (issue unconfirmed; Ingenta blocked).
+- **Citation ledger**: 14 external references are real-correct except McClelland 2020 (real-wrong-metadata: incomplete; pages added). Two Map self-cites. Every DOI was checked on Crossref. The script matched 42 of 44 quoted spans (20+ characters) against directly fetched sources. The other two are a chapter title (confirmed by Crossref) and the Map's own label. No inline/reference orphans.
+- **Guards 1–9**: all pass (1 and 4 after the fixes above; 2, 7 and the slugs/p. 10 clauses vacuous). Must-nots: all hold. The Q2 sentence is correct against four-quadrant L96/L102 and mechanism-costs L85/L87.
+- **Engagement modes**: Stoljar: Mixed. The conceptual hook (consciousness side) and the precedent disanalogy are Mode One, because they use premises the hypothesis grants. Structure-and-dynamics is Mode Three (a contested bet). "You're not done" is a dialectical limit. Papineau: reported objection, correctly marked as predicted by the hypothesis. Chalmers 2018 / McClelland: neutral exposition. Kind: reported via abstract, with the burden-of-proof objection turned symmetric. No boundary-substitution; label leakage 0.
+- **Left alone**: "Tenet 5's symmetric discipline" applied to testability (low); the routing page L123, four-quadrant L102, philosophical-zombies L67 and P-D1 (owned elsewhere; no other page edited); McClelland's first name not restored; description unchanged. No tasks minted.
+- **Output**: [[reviews/deep-review-2026-10-03-ignorance-hypothesis]]
 
 ## 2026-10-03T15:52:30+00:00 - apex-evolve
 - **Status**: Complete (targeted correction from a P2 queue task, not a synthesis pass)

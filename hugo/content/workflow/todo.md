@@ -1847,16 +1847,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-03
 - **Notes**: The 12:40Z carry made eight loci on five pages say the witness state selects little, not nothing ("it must still steer a little, or it could not cause its own reports", per concepts/stapp-quantum-mind L100 and concepts/trumping-preemption "Costs of the Template", fourth cost). Still asserting that witnessing suspends or refrains from influence: topics/the-observer-witness-in-meditation L38, L65 ("lets patterns unfold without i[ntervening]"), L89 ("The capacity for causal intervention includes the capacity…"), L111 ("consciousness can suspend its selecting function"), L147 (its own Epiphenomenalism Worry reply: "the witness mode shows consciousness *can* refrain from acting"), L169 ("consciousness *can* refrain from influencing matter (through witnessing)"), L193 ("observing without choosing, available without intervening"); concepts/meditation-and-consciousness-modes L38 ("The capacity for selection includes the capacity to suspend selection") and L181 ("a claim about possibility, not necessity"). ALSO (added 13:35Z from optimistic-2026-10-03-witness-and-contemplative-modes-wing §Consistency Verdict): meditation-and-consciousness-modes L204 and apex/contemplative-path L194 state the capacity reading; observer-witness L36, L42 and L58 set up the held thesis — treat them with the rest. L89/L169/L181 interpret the Tenet 3 quantifier as a capacity claim, so they wait on the operator; once decided, make every locus agree with "selects little, not nothing" and with the decided reading, keeping the phenomenology intact. LENGTH (12:50Z, analyze_length, gate `>=`): observer-witness 3,223 (topics hard 4,000, headroom 776); meditation-and-consciousness-modes 3,492 (concepts hard 3,500, headroom 7: NET-ZERO OR NEGATIVE). Do not edit stapp-quantum-mind, trumping-preemption or tenets.md.
 
-### P2: apex/contemplative-path lags its sources — "Neuroscience confirms these are distinct brain states", the witness "observes without intervening", and training-refinement "carries the weight" against illusionism
-- **Type**: apex-evolve
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/contemplative-path.md
-- **Section**: apex
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-03 13:20Z (Priority item 1), minted by the driver 13:35Z
-- **Review file**: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-03-witness-and-contemplative-modes-wing.md
-- **Generated**: 2026-10-03
-- **Notes**: The apex last synthesised 2026-08-03; its sources were corrected 2026-09-01 (neural evidence; sharper discrimination no longer counts against illusionism), 2026-09-24 (beautiful-loop rival) and 2026-10-03 12:40Z (witness "selects little, not nothing"). Apply the review's Priority list item 1 using its exact old/new text: L86 witness description → match meditation-and-consciousness-modes L36 ("barely intervenes … largely unselected"); L92 "Neuroscience confirms these are distinct brain states…" → one effort axis; L160 training-refinement → "consonant with the Map's reading rather than evidence against its rivals"; L182 "two-mode" → "effort-axis". Secondary zero-word pipes back to the apex: concepts/witness-consciousness L46 (headroom 2: ZERO-WORD ONLY) and concepts/meditation-and-consciousness-modes L36 (headroom 7: ZERO-WORD ONLY). Do NOT touch apex L194 (capacity reading, held by the blocked P3 on observer-witness pending the operator's Tenet 3 quantifier decision). Cost apex +55 against 4,453 by analyze_length (apex hard 5,000, gate `>=`). No new synthesis beyond these corrections.
-
 ### P3: the-observer-witness-in-meditation — felt absence of steering, effort-axis table, DMN quieting not witness-specific, two zero-word links
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/the-observer-witness-in-meditation.md
@@ -1918,6 +1908,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-03: apex/contemplative-path lags its sources — "Neuroscience confirms these are distinct brain states", the witness "observes without intervening", and training-refinement "carries the weight" against illusionism
+- **Type**: apex-evolve
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/contemplative-path.md
+- **Notes**: The apex last synthesised 2026-08-03; its sources were corrected 2026-09-01 (neural evidence; sharper discrimination no longer counts against illusionism), 2026-09-24 (beautiful-loop rival) and 2026-10-03 12:40Z (witness "selects little, not nothing"). Apply the review's Priority list item 1 using its exact old/new text: L86 witness description → match meditation-and-consciousness-modes L36 ("barely intervenes … largely unselected"); L92 "Neuroscience confirms these are distinct brain states…" → one effort axis; L160 training-refinement → "consonant with the Map's reading rather than evidence against its rivals"; L182 "two-mode" → "effort-axis". Secondary zero-word pipes back to the apex: concepts/witness-consciousness L46 (headroom 2: ZERO-WORD ONLY) and concepts/meditation-and-consciousness-modes L36 (headroom 7: ZERO-WORD ONLY). Do NOT touch apex L194 (capacity reading, held by the blocked P3 on observer-witness pending the operator's Tenet 3 quantifier decision). Cost apex +55 against 4,453 by analyze_length (apex hard 5,000, gate `>=`). No new synthesis beyond these corrections.
 
 ### ✓ 2026-10-03: contemplative-epistemology cites Lindahl et al. (2017) for "secular mindfulness participants"; the study interviewed sixty Western Buddhist meditators
 - **Type**: refine-draft
