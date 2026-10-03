@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-28T16:13:05+00:00
+ai_modified: 2026-10-03T02:58:52+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-22
 last_curated: null
 last_deep_review: 2026-07-16T22:55:04+00:00
@@ -95,9 +95,9 @@ The [[attention-as-interface|attention as interface hypothesis]] extends Stapp's
 
 ## Two Modes of Consciousness
 
-On the Zeno reading, meditation modulates observation rate: focused attention (high rate) strengthens Zeno selection, while open monitoring (low rate) cultivates non-reactive awareness without selection. Adept meditators can volitionally deactivate the PCC, reporting the shift as a move from "efforting" to "effortless doing" (Garrison et al., 2013).
+On the Zeno reading, meditation modulates observation rate: focused attention (high rate) strengthens Zeno selection, while open monitoring (low rate) cultivates non-reactive awareness with little selection. Adept meditators can volitionally deactivate the PCC, reporting a shift from "efforting" to "effortless doing" (Garrison et al., 2013).
 
-The [[witness-consciousness|witness state]] is consciousness still present but not steering which neural patterns become actual. The reports are consonant, not probative: the [[predictive-processing-and-dualism#The Beautiful-Loop Theory: The Strongest Contemporary Rival|beautiful-loop theory]] predicts them too ([[meditation-and-consciousness-modes|fuller treatment]]).
+The [[witness-consciousness|witness state]] must still steer a little, or it could not cause its own reports. The reports are consonant, not probative: the [[predictive-processing-and-dualism#The Beautiful-Loop Theory: The Strongest Contemporary Rival|beautiful-loop theory]] predicts them too ([[meditation-and-consciousness-modes|fuller treatment]]).
 
 ## Free Will and Self-Forming Actions
 

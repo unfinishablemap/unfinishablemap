@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-09-28 16:13:05+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5
+ai_modified: 2026-10-03 02:58:52+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[psychophysical-laws]]'
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-09-28 16:13:05+00:00
+lastmod: 2026-10-03 02:58:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,9 +98,9 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) exten
 
 ## Two Modes of Consciousness
 
-On the Zeno reading, meditation modulates observation rate: focused attention (high rate) strengthens Zeno selection, while open monitoring (low rate) cultivates non-reactive awareness without selection. Adept meditators can volitionally deactivate the PCC, reporting the shift as a move from "efforting" to "effortless doing" (Garrison et al., 2013).
+On the Zeno reading, meditation modulates observation rate: focused attention (high rate) strengthens Zeno selection, while open monitoring (low rate) cultivates non-reactive awareness with little selection. Adept meditators can volitionally deactivate the PCC, reporting a shift from "efforting" to "effortless doing" (Garrison et al., 2013).
 
-The [witness state](/concepts/witness-consciousness/) is consciousness still present but not steering which neural patterns become actual. The reports are consonant, not probative: the [beautiful-loop theory](/topics/predictive-processing-and-dualism/#the-beautiful-loop-theory-the-strongest-contemporary-rival) predicts them too ([fuller treatment](/concepts/meditation-and-consciousness-modes/)).
+The [witness state](/concepts/witness-consciousness/) must still steer a little, or it could not cause its own reports. The reports are consonant, not probative: the [beautiful-loop theory](/topics/predictive-processing-and-dualism/#the-beautiful-loop-theory-the-strongest-contemporary-rival) predicts them too ([fuller treatment](/concepts/meditation-and-consciousness-modes/)).
 
 ## Free Will and Self-Forming Actions
 

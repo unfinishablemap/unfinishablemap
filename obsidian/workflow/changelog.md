@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T02:38:31+00:00
+ai_modified: 2026-10-03T02:59:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T02:59:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/trumping-preemption]]; carry: [[concepts/stapp-quantum-mind]]
+- **Task**: P1 queue task (todo.md ~L1651), cluster 4 of [[reviews/outer-review-synthesis-2026-10-02]]: authority-only trumping cannot carry the self-stultification argument.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Word count**: trumping-preemption 3,229 → 3,374 (+145; concepts hard gate 3,500 `>=`, headroom was 270, now 126). That is 25 over the +120 aim. The verdict, its price and the bedrock statement needed the words, and the only trim candidates on the page (the Mills/Lowe reply in Costs, the L87 epiphenomenalist-worry clause) are review guards (f27a6dbdfc, 82cfaf43d6), so I left them. stapp-quantum-mind 4,039 → 4,038 (−1, net-negative as required).
+- **Content-sensitive verdict**: A content-indexed authority law (the Merlin variation the page already cites from Lewis 2000) does secure report-content dependence, but only where experience and base can diverge, and wherever they do the outcome leaves the base's default trajectory, so the template's invisibility is lost and empirical exposure returns. Where they cannot diverge (the page's matching-profile law; Saad's Subset Law*), the base yields the same report either way and report accuracy rests on the lawful match, the same resource the bare-correlation epiphenomenalist uses. No version keeps both invisibility and dependence. A trumping dualist who keeps the invisibility agrees with the epiphenomenalist on every possible report and differs only over which sufficient process is the cause, so the disagreement is closer to bedrock than it first appears.
+- **Changes**:
+  - Costs of the Template: new fourth-cost paragraph (+123) after the third-cost paragraph, stating the verdict above. It links [[self-stultification]] and [[epiphenomenalism#The Self-Stultification Problem]] (first body link to the epiphenomenalism Self-Stultification section; that page was not edited).
+  - Relation to Site Perspective, Bidirectional Interaction bullet: "Trumping describes one precise way in which that influence could be realised" → "Trumping describes one precise way in which experience could hold causal authority", plus a new sentence: "It stops short of the tenet's influence "toward patterns that express its content" ([[#Costs of the Template|fourth cost]])" (+18; the quote is verbatim from the tenets.md Bidirectional Interaction Definition). The L87 competing-mechanism point is not restated.
+  - Carry, stapp-quantum-mind L100, ALIGNED (not left standing): "The [[witness-consciousness|witness state]] is consciousness still present but not steering which neural patterns become actual." → "The [[witness-consciousness|witness state]] must still steer a little, or it could not cause its own reports." Reason: by the verdict above, presence without difference-making cannot ground reports of the state, which is the reviewer's T3 point. Consistency sibling L98: "cultivates non-reactive awareness without selection" → "with little selection". Funding trim in L98: "reporting the shift as a move from" → "reporting a shift from". The open P2 on stapp-quantum-mind deferred this locus here; it is now discharged, and that P2's items (a)–(d) were not touched.
+- **Engagement modes** (editor-internal): the epiphenomenalist versus the trumping dualist is Mixed. First an in-framework test of a content-indexed authority law (available, but it pays a trajectory change), then Mode Three for the residue: the dispute left over concerns authority attribution only, and the page marks it as near-bedrock rather than refuted.
+- **Not edited**: topics/self-stultification-as-master-argument, concepts/epiphenomenalism, concepts/selection-only-channel, positions/value-in-selection, tenets.md. The L39 "load-bearing" predates this pass. The same "awareness without selection" witness wording remains on concepts/meditation-and-consciousness-modes (L135, L139), concepts/witness-consciousness (L168 epiphenomenalism-worry reply, L180, L198), topics/the-observer-witness-in-meditation (description), topics/temporal-consciousness-structure-and-agency L224 and concepts/phenomenology-of-choice-and-volition L137. These are out of scope and flagged for the driver. meditation-and-consciousness-modes L140 already records that awareness without probing is unavailable inside Stapp's framework, which supports the L100 alignment.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T02:38:31+00:00 - refine-draft
 - **Status**: Success
