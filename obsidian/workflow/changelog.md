@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T22:44:28+00:00
+ai_modified: 2026-10-03T23:14:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T23:14:29+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Numbing Void
+- **Output**: [[voids/numbing-void]]
+- **Word count**: 2,589 (`analyze_length`, references included; 18 references; voids soft 2,000 / hard 3,000, `soft_warning`, inside the brief's 2,300–2,600 target)
+- **Based on research**: yes, [[research/voids-numbing-void-2026-10-02]] (angle 1, "the sum no one suffers")
+- **Structure**: lead states the result and the two readings; three layers kept separate (magnitude / regulation / structural); "Two Readings, One Instrument" holds the void proper; "Where the Map Stands" sides with the additive, deficit reading on framework grounds (P-AC3 via closed individualism P-I1), keeps Lewis/Taurek's tracking reading as an unadopted, unrefuted rival, and reads P-AC3's "empirical discriminability none" as the void's prediction. Closed individualism is shown to grant Lewis's premise and refuse his inference.
+- **Calibration**: no flat "compassion collapses" (Butts et al. 2019: no significant group-size effect on empathetic concern; helping falls); identifiable-victim effect r = .05 and the failed hypothetical-donation replication stated; Västfjäll "begins at two" flagged fragile; Raiyan 2026 one sentence, "suggestive only". Tenet 1 compatible with no discriminator; the note's Tenet 4 line ("additive branch-count is a calculation with no subject") dropped for a symmetric caution; Tenet 3 kept to deliberate regulation, no universal efficacy claim; Tenet 2 not engaged.
+- **Attribution**: "psychic numbing" credited to Lifton (1967) for rescue workers after Hiroshima, per Slovic 2007's own wording (re-fetched and grepped this run); Slovic credited only with the extension. Szent-Györgyi and Dillard quoted "as quoted by Slovic (2007)". Lewis's phenomenological claim taken, theodicy conclusion declined. Sidgwick parenthesis reading marked as the article's own. Taurek stated in standard form only, Piller 2026 quoted for the restatement. Fetherstonhaugh 1997 and Small 2007 marked "as reported by". Maier et al. cited as 2024 (Crossref issue date) with DOI. Desvousges omitted.
+- **Sources re-verified this run**: Kogut & Ritov 2005a abstract (OpenAlex; "essentially no effect on willingness to contribute"); Hsee & Rottenstreich, Cameron & Payne, Lee & Feeley, Piller abstracts (OpenAlex); Slovic 2007 full text (Lifton, Szent-Györgyi, Dillard, 38,000 shoes passages). Kogut & Ritov 2005b and Slovic et al. 2017 not cited.
+- **Integration**: the-quantitative-comprehension-void 2,403→2,427 (sentence closing the Magnitude paragraph); self-maintained-cognitive-limits 2,617→2,640 (sentence closing §Psychological Defence and Information Avoidance); empathy 2,925→2,954 (sentence in §What Follows and What Does Not); combination-problem 3,044→3,058 (clause after "pile-consciousness"); interested-party-void 1,730→1,732 (Further Reading); voids-between-minds 2,985→2,985 and moral-census-opacity 3,495→3,495 (zero-word pipes on "compassion" and "*numbers*"); cross-state-void skipped (no zero-word locus); voids index catalogue line plus *Published* entry (preference-void entries kept). ethics-of-possible-ai-consciousness, phenomenal-value-realism, positions/ and tenets.md not edited.
+- **State**: numbing-void entry removed from `task_chains.pending_articles` (two-line delete, no YAML redump)
 
 ## 2026-10-03T22:44:28+00:00 - expand-topic
 - **Status**: Success

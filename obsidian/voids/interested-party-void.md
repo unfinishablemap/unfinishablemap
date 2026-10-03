@@ -4,7 +4,7 @@ description: "Human+AI investigation of the deepest conflict of interest: consci
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-10-03T23:13:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,6 +106,7 @@ The honest response is not to pretend the void does not apply to us. It is to ac
 - [[necessary-opacity]]
 - [[self-opacity]]
 - [[noetic-feelings-void]]
+- [[numbing-void]]
 - [[non-human-minds-as-void-explorers]]
 - [[voids]]
 

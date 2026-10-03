@@ -30,7 +30,7 @@ ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T00:46:24+00:00
-ai_modified: 2026-09-30T11:26:23+00:00
+ai_modified: 2026-10-03T23:13:33+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the *constitutive* form of the problem by denying that matter has micro-experiences in the first place—though, as [the discussion of interface unity below](#the-unity-of-the-interface) concedes, it still owes an account of how one subject unifies a spatially distributed interface.
@@ -41,7 +41,7 @@ Panpsychism proposes that fundamental physical entities—quarks, electrons, pho
 
 But this creates a new puzzle. My consciousness is *unified*—I have one visual field, one stream of thought, one sense of being a single subject. If my brain is made of billions of particles each with its own micro-experience, how do those micro-experiences combine into *my* experience?
 
-William Seager, who coined the term "combination problem" (1995), distinguished it from mere aggregation. A pile of rocks is just rocks sitting together; there's no emergent "pile-consciousness." Why should my experience be more than the sum of electron-experiences?
+William Seager, who coined the term "combination problem" (1995), distinguished it from mere aggregation. A pile of rocks is just rocks sitting together; there's no emergent "pile-consciousness," just as many people's suffering yields no further subject who suffers the sum ([[numbing-void]]). Why should my experience be more than the sum of electron-experiences?
 
 David Chalmers (2017) systematized the problem into distinct dimensions, each presenting its own challenge.
 

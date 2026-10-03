@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-20T11:09:48+00:00
+ai_modified: 2026-10-03T23:13:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,7 +90,7 @@ Becker argued "consciousness of death is the primary repression," and civilisati
 
 ### Psychological Defence and Information Avoidance
 
-Defence mechanisms—repression, denial, information avoidance—are well-documented. People deliberately avoid freely available information that might be undesirable (Golman, Hagmann & Loewenstein 2017). Wegner's ironic process research reveals that suppressing a thought requires monitoring for it, activating the very concept, so suppressed thoughts rebound. But cognitive aversion differs—the averted thought doesn't rebound but *substitutes*. What if some blocking is so effective the monitoring process never activates the concept at all? Such thoughts wouldn't rebound—they'd never form. That would be invisible suppression: you wouldn't know what you weren't thinking.
+Defence mechanisms—repression, denial, information avoidance—are well-documented. People deliberately avoid freely available information that might be undesirable (Golman, Hagmann & Loewenstein 2017). Wegner's ironic process research reveals that suppressing a thought requires monitoring for it, activating the very concept, so suppressed thoughts rebound. But cognitive aversion differs—the averted thought doesn't rebound but *substitutes*. What if some blocking is so effective the monitoring process never activates the concept at all? Such thoughts wouldn't rebound—they'd never form. That would be invisible suppression: you wouldn't know what you weren't thinking. Feeling shows the pattern: people expecting a large group's needs to overwhelm them damp their feeling for the group before it arises ([[numbing-void]]).
 
 ## What Gets Defended
 

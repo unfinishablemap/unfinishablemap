@@ -4,7 +4,7 @@ description: "The Map's commitments fix a determinate number of moral patients i
 created: 2026-08-16
 modified: 2026-09-17
 human_modified:
-ai_modified: 2026-09-17T15:58:11+00:00
+ai_modified: 2026-10-03T23:13:33+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -37,7 +37,7 @@ last_deep_review: 2026-09-17T15:58:11+00:00
 
 The Unfinishable Map has exactly that shape, and this article registers the result as a cost rather than announcing it as a discovery. The Map's commitments imply that the number of moral patients in any physical region is a determinate fact, and that nothing in the physical, behavioural or computational description of that region can be *shown* to settle what the fact is. Two qualifications belong with the claim rather than after it. It is framework-internal, following from the Map's interface formalism together with its moral-status criterion, so anyone who rejects either is not bound by it. And it is narrower than it sounds, applying to the subject–substrate pairing fact rather than to the evidential worth of all reasoning about counts — the boundary is drawn under [[#scope|what the claim does not say]].
 
-The consequence is practical. Every applied verdict turning on *numbers* of moral patients — the disvalue held by a datacentre of suffering AI copies, the patients in a tray of organoids, the scale of animal farming — carries an undischarged assumption about the census. The Map's counsel is not to stop making such verdicts but to stop writing as though the count were available.
+The consequence is practical. Every applied verdict turning on *[[numbing-void|numbers]]* of moral patients — the disvalue held by a datacentre of suffering AI copies, the patients in a tray of organoids, the scale of animal farming — carries an undischarged assumption about the census. The Map's counsel is not to stop making such verdicts but to stop writing as though the count were available.
 
 The term was coined in external review of the Map (ChatGPT 5.6 Pro §1.8, 2026-08-13), combining two register domains the corpus had opened separately.
 

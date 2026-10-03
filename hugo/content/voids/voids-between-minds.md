@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-09-26 02:31:18+00:00
+ai_modified: 2026-10-03 23:13:33+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:06:00+00:00
-lastmod: 2026-09-26 02:31:18+00:00
+lastmod: 2026-10-03 23:13:33+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -87,7 +87,7 @@ The asymmetry is first and foremost *epistemic*—about how we know. Whether it 
 
 The voids operate constantly yet typically remain invisible. Evolution equipped us with tools for reading others' mental states—theory of mind, [empathy](/concepts/empathy/), language—that work so well we forget their limits. On the inference model you see the expression and infer the anger; on the direct-perception view of Scheler and Zahavi you see the anger in the face. Either way, the anger is not given to you as its subject lives it. Practical sufficiency reinforces the illusion: this partial access usually suffices for coordination. And language and culture create the impression of shared experience—an agreement that masks the void and, as the social-mechanisms section below documents, is itself partly an artefact of calibration that filters non-standard reports.
 
-Certain moments pierce the invisibility: deep grief at another's suffering (compassion reaches across but cannot close), solipsistic moods, failed communication, and mystical reports of transcending the self-other boundary. The developmental emergence of "theory of mind" around age four is an *achievement*, not a given. The [infant consciousness void](/voids/infant-consciousness/) reveals a further paradox: the most alien "other mind" accessible to you is your own infant self, whose cognitive architecture has been physically demolished through synaptic pruning.
+Certain moments pierce the invisibility: deep grief at another's suffering ([compassion](/voids/numbing-void/) reaches across but cannot close), solipsistic moods, failed communication, and mystical reports of transcending the self-other boundary. The developmental emergence of "theory of mind" around age four is an *achievement*, not a given. The [infant consciousness void](/voids/infant-consciousness/) reveals a further paradox: the most alien "other mind" accessible to you is your own infant self, whose cognitive architecture has been physically demolished through synaptic pruning.
 
 ## Existence: The Other Minds Void
 

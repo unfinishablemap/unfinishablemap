@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-06-03 04:50:28+00:00
+ai_modified: 2026-10-03 23:13:33+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 17:36:22+00:00
-lastmod: 2026-06-03 04:50:28+00:00
+lastmod: 2026-10-03 23:13:33+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,7 +76,7 @@ The three faces named here—architectural cap, transition opacity, output-witho
 
 Above the cardinality floor, the same architecture extends to the human-scale envelope of magnitudes and probabilities, then breaks systematically when quantities leave it.
 
-**Magnitude.** Roughly fifty percent of educated adults, asked to place one million on a number line between one thousand and one billion, put it in the middle—the correct position almost touches one thousand. Beyond a threshold, the brain processes large numbers categorically rather than quantitatively (Resnick et al., 2017). Number-processing systems evolved for counting prey, tracking alliances, and estimating walkable distances—an [evolutionary mismatch](/voids/biological-cognitive-closure/) (Li, van Vugt & Colarelli, 2018) the moment magnitudes leave that envelope. Husserl's "subjective present" extends only seconds (Husserl, 1991); deep time is conceptualised, not lived. Kant's *mathematical sublime* names the phenomenology: mathematical *apprehension* extends to infinity while aesthetic *comprehension* reaches a maximum—we can *think* "a billion light-years" but cannot *intuit* it as a unified whole. The need for metaphor ("if Earth's history were a calendar year...") tracks the limit.
+**Magnitude.** Roughly fifty percent of educated adults, asked to place one million on a number line between one thousand and one billion, put it in the middle—the correct position almost touches one thousand. Beyond a threshold, the brain processes large numbers categorically rather than quantitatively (Resnick et al., 2017). Number-processing systems evolved for counting prey, tracking alliances, and estimating walkable distances—an [evolutionary mismatch](/voids/biological-cognitive-closure/) (Li, van Vugt & Colarelli, 2018) the moment magnitudes leave that envelope. Husserl's "subjective present" extends only seconds (Husserl, 1991); deep time is conceptualised, not lived. Kant's *mathematical sublime* names the phenomenology: mathematical *apprehension* extends to infinity while aesthetic *comprehension* reaches a maximum—we can *think* "a billion light-years" but cannot *intuit* it as a unified whole. The need for metaphor ("if Earth's history were a calendar year...") tracks the limit. Where magnitude meets felt concern for others, the limit turns interpersonal: concern registers that someone suffers and does not scale with how many ([numbing-void](/voids/numbing-void/)).
 
 **Probability.** Kahneman and Tversky identified systematic heuristics—representativeness, availability, anchoring—that distort probabilistic judgement as default cognitive operations (Tversky & Kahneman, 1974). The "law of small numbers" persists among trained researchers (Tversky & Kahneman, 1971); the conjunction fallacy shows narrative coherence trumping logical structure. Gigerenzer and Hoffrage (1995) showed correct Bayesian reasoning roughly triples when problems use natural frequencies rather than percentages—the format available to ancestral minds. *Apophenia*—perceiving meaningful patterns in random data—reflects a disposition toward Type I errors (Haselton & Buss, 2000). Genuine randomness is phenomenologically inaccessible; probability is always translated into frequency, confidence, or expectation for conscious access.
 

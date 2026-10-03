@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-26
-ai_modified: 2026-09-26 06:02:34+00:00
+ai_modified: 2026-10-03 23:13:33+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-26 06:02:34+00:00
-lastmod: 2026-09-26 06:02:34+00:00
+lastmod: 2026-10-03 23:13:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ Two cautions keep this reading calibrated. First, none of the phenomenologists a
 
 The neutral definition gives only other-directedness and a self–other difference. The phenomenological account adds a further point. The inference model misdescribes ordinary social experience, and the unobservability premise behind theory-theory and simulation theory is open to challenge. This is a strong but contested result, and Jacob-style critiques keep it live.
 
-What does *not* follow is dualism. A physicalist can accept all of Stein's descriptions. Two brains are two token systems, so one cannot undergo the other's states. On this view, non-coincidence is simply the numerical distinctness of two organisms, and direct perception is an efficient perceptual system tuned to expressive behaviour. Gallagher develops direct perception inside an enactive, non-dualist framework. The phenomenology is equally at home there.
+What does *not* follow is dualism. A physicalist can accept all of Stein's descriptions. Two brains are two token systems, so one cannot undergo the other's states. On this view, non-coincidence is simply the numerical distinctness of two organisms, and direct perception is an efficient perceptual system tuned to expressive behaviour. Gallagher develops direct perception inside an enactive, non-dualist framework. The phenomenology is equally at home there. The same holds one level up: no one undergoes the sum of many others' states, so felt concern does not scale with how many suffer on either framework ([numbing-void](/voids/numbing-void/)).
 
 The disagreement with that reading lies at the framework boundary; neither side refutes the other on the other's terms. The Map's claim is narrower. If experiences are ontologically individual, as the Dualism tenet holds, then the non-coincidence that empathy displays is what one would expect to find, as a feature of what experiences are and not a limit of our instruments. The physicalist expects it too, and also says I *cannot* undergo the other's states. The difference lies in what the "cannot" is about. For the physicalist it is the impossibility of two token systems being one. What empathy presents is a further thing: another point of view whose for-me-ness is not mine. Why a distinct system should be given *as a subject* at all is the question the [explanatory-gap](/concepts/explanatory-gap/) leaves open, and the Map holds that the dualist explanation fits this *character* of non-coincidence better. This is a judgement about fit, not a demonstration.
 
