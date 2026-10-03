@@ -4,7 +4,7 @@ description: "Type-identity theory holds that mental state-types are brain state
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-08-03T05:01:03+00:00
+ai_modified: 2026-10-03T09:44:24+00:00
 draft: false
 topics:
   - "[[arguments-against-materialism]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[phenomenal-concepts-strategy]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-12
 last_curated:
 last_deep_review: 2026-08-03T05:01:03+00:00
@@ -68,7 +68,7 @@ Type-identity theory is the paradigm reductive materialism that the Map's first 
 
 The substantive objection the Map presses is narrower and does work from inside the debate: the identity is *asserted, not explained*. Naming "pain = C-fibre firing" an identity tells us *that* the neural process and the experience co-occur without remainder—but co-occurrence without remainder is also what a dualist interactionism predicts for the states it says are lawfully coupled. What the label does not supply is any account of *why* that firing is accompanied by experience. Smart's topic-neutral translation, read from the Map's angle, concedes the point structurally: it goes through only because it first drains the phenomenal content from the report, leaving a residue neutral enough to be identified with a brain process. The hard problem is not solved there; it is exported before the identification begins.
 
-The identity theorist has a standing reply: identities are brute, and no identity is *explained*—water is not shown *why* it is H2O, it simply is H2O, so demanding a further "why" of "pain is C-fibre firing" misreads what an identity claim is. But the modal asymmetry drawn above is exactly what stops bruteness from rescuing *this* identity. Paradigm identities look brute-yet-adequate because they can relocate any apparent residue into an appearance/reality gap: "heat is molecular motion" survives its felt contingency by hiving the feeling off into the *sensation* of heat, and that sensation is where the phenomenal character sits. Pain affords no such gap—the appearance of pain just is pain—so there is nowhere to send the phenomenal residue. The identity may be as brute as any other, but with no appearance to absorb the feltness, going brute leaves the explanatory debt exactly where it stood. That is why the demand for explanation is legitimate here even if it would be misplaced for heat or water.
+The identity theorist has a standing reply: identities are brute, and no identity is *explained*—water is not shown *why* it is H2O, it simply is H2O, so demanding a further "why" of "pain is C-fibre firing" misreads what an identity claim is. But the modal asymmetry drawn above is exactly what stops bruteness from rescuing *this* identity. Paradigm identities look brute-yet-adequate because they can relocate any apparent residue into an appearance/reality gap: "heat is molecular motion" survives its felt contingency by hiving the feeling off into the *sensation* of heat, and that sensation is where the phenomenal character sits. Pain affords no such gap—the appearance of pain just is pain—so there is nowhere to send the phenomenal residue. The identity may be as brute as any other, but with no appearance to absorb the feltness, going brute leaves the explanatory debt exactly where it stood. That is why the demand for explanation is legitimate here even if it would be misplaced for heat or water. The wider exchange over whether identities need explaining, and Chalmers's charge that an underivable identity is a law under another name, is set out in [[primitive-identities-and-strong-necessities]].
 
 The parsimony motive meets the Map's fifth tenet directly. Smart and Feigl recommend the identity partly to economise—to eliminate Feigl's danglers and honour Occam. [[parsimony-epistemology|Tenet 5]] answers that simplicity is an unreliable guide where knowledge is incomplete, and consciousness is the standing case of incomplete knowledge. Eliminating the dangler by redescription is not the same as showing there is no dangler; the correlation the identity theory folds into an identity is exactly the phenomenon in need of explanation.
 

@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 09:17:22+00:00
+ai_modified: 2026-10-03 09:44:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 09:17:22+00:00
+lastmod: 2026-10-03 09:44:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T09:44:48+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Primitive identities and strong necessities — the cost Chalmers charges Type-B physicalism, and what it does and does not buy the Map
+- **Output**: [primitive-identities-and-strong-necessities](/concepts/primitive-identities-and-strong-necessities/)
+- **Word count**: 2,949 by `analyze_length` (concepts soft 2,500 / hard 3,500 at `>=`; soft_warning, headroom 550; reference list 15 entries)
+- **Based on research**: yes, [primitive-identities-and-strong-necessities-2026-10-03](/research/primitive-identities-and-strong-necessities-2026-10-03/) (Angle 1, "Two kinds of primitiveness")
+- **Shape**: lede states the verdict quote, both definitions, the parity result, the ontological/epistemic hinge and the unchanged *compatible* tier, then disambiguates from Nida-Rümelin's primitive identity of subjects; sections on ontological vs epistemic primitiveness (Papineau 1993/1998/2011, Block & Stalnaker p. 24, Chalmers & Jackson, Levine's gappy identity), the law-mark premise and parity, strong necessities (weak/strong, SEP derivation/non-derivation, CP- equivalence, coincidence of intensions "inessential"/"not required"), the other-case audit and predicted-uniqueness reply, where the dispute bottoms out, and what the cost buys (symmetric Tenet 5; the six-item not-shown list).
+- **Attribution**: every quotation script-checked against the research note's verified spans. Correction to the note: it calls Goff "a dualist"; he is a panpsychist critic of physicalism (style-guide roster), so the article says so and does not enlist him. Kripke's stance reported as disputed (Chalmers 2003 vs Goff & Papineau); Schaffer at abstract level; Chalmers 2010 and Goff & Papineau marked as quoted from pre-publication versions. Hill & McLaughlin are named only through Chalmers's 1999 reply.
+- **Integration** (word deltas by `analyze_length`): [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) +15 (routing rows "A primitive identity is a law under another name" and "Two-dimensional argument" repointed to the new page, the latter to its Strong Necessities anchor; "a cost" piped; Further Reading line); [the-relocation-objection](/concepts/the-relocation-objection/) +39 (L78 "Papineau (2002)" → "(1993; 2011)", reference 7 replaced by Papineau 1993 and 2011, list renumbered; pointer sentence at L84); [type-identity-theory](/concepts/type-identity-theory/) +26 (pointer sentence at L71; `ai_system` +claude-opus-5-5); [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [explanatory-gap](/concepts/explanatory-gap/) +0 each (zero-word pipes on "unexplained and underivable", "designed to save physicalism", "epistemically primitive").
+- **Not done (by brief)**: zombie-master-argument L102 left for its separate refine task.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T09:17:22+00:00 - deep-review
 - **Status**: Success

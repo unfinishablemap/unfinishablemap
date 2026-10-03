@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-02 13:13:06+00:00
+ai_modified: 2026-10-03 09:44:24+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:11:05+00:00
-lastmod: 2026-10-02 13:13:06+00:00
+lastmod: 2026-10-03 09:44:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ This matters because Fürst doesn't reject the PCS framework. She accepts that p
 
 ### The Ad Hoc Objection
 
-Critics charge that PCS theories are largely ad hoc—designed to save physicalism rather than discovered through independent investigation. Phenomenal concepts are declared to be "exceptional and sui generis," possessing whatever properties are needed to block the anti-physicalist arguments. Each special feature is posited precisely because it would explain the gap if true, not because independent evidence supports it.
+Critics charge that PCS theories are largely ad hoc—[designed to save physicalism](/concepts/primitive-identities-and-strong-necessities/) rather than discovered through independent investigation. Phenomenal concepts are declared to be "exceptional and sui generis," possessing whatever properties are needed to block the anti-physicalist arguments. Each special feature is posited precisely because it would explain the gap if true, not because independent evidence supports it.
 
 This charge has force. Ordinary concepts don't work this way. If phenomenal concepts require a unique theory unlike anything in the rest of cognitive science, the "special" features start to look like symptoms of something genuinely different about consciousness—which is what dualists have been arguing all along.
 

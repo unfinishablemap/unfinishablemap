@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-10-02 20:11:12+00:00
+ai_modified: 2026-10-03 09:44:24+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:35:17+00:00
-lastmod: 2026-10-02 20:11:12+00:00
+lastmod: 2026-10-03 09:44:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ What makes the case suggestive rather than dispositive is the *structural* incom
 
 Physicalist accounts that accept the explanatory demand at face value — that there is a fact about why physical processes are accompanied by experience, and that a theory of mind owes an account of it — carry at least one of three debts.
 
-**Brute identity.** Type-B physicalists accept the [explanatory-gap](/concepts/explanatory-gap/) as epistemic but deny it is metaphysical. Conscious states *are* physical states, so nothing [strongly emerges](/topics/the-strong-emergence-of-consciousness/); the gap is conceptual, since phenomenal and physical concepts pick out the same states with no a priori route between them. They take the identity to be brute — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is unexplained and underivable, and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
+**Brute identity.** Type-B physicalists accept the [explanatory-gap](/concepts/explanatory-gap/) as epistemic but deny it is metaphysical. Conscious states *are* physical states, so nothing [strongly emerges](/topics/the-strong-emergence-of-consciousness/); the gap is conceptual, since phenomenal and physical concepts pick out the same states with no a priori route between them. They take the identity to be brute — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is [unexplained and underivable](/concepts/primitive-identities-and-strong-necessities/), and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
 
 **Error theory.** Illusionists (Frankish, Dennett) deny that phenomenal consciousness exists as it seems. This eliminates the explanatory gap by eliminating the explanandum. But it introduces a different cost: an error theory explaining why every conscious being is systematically mistaken about the most immediate feature of their existence. The theory that experience is illusory must explain why the illusion is universal, stable, and resistant to correction — an explanatory burden at least as heavy as the one it replaces.
 

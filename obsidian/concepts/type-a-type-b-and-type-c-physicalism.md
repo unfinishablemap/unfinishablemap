@@ -4,7 +4,7 @@ description: "Chalmers's three physicalist replies to the explanatory gap, route
 created: 2026-10-02
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-02T21:54:24+00:00
+ai_modified: 2026-10-03T09:44:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,8 +86,8 @@ A reply reaches a type when it engages a premise that type holds; reaching says 
 | The seeming of experience itself needs explaining | A (strong illusionism) | [[illusionism]]; [[meta-problem-of-consciousness]] |
 | Relocation: fixing a proposed base leaves the feel question open | A where a reduction of feel is advertised; B grants the steps but denies a failure | [[the-relocation-objection]] |
 | Water/H₂O disanalogy: zombie conceivability reflects acquaintance, not ignorance | B | [[zombie-master-argument]] |
-| A primitive identity is a law under another name | B | [[parsimony-case-for-interactionist-dualism]] |
-| Two-dimensional argument | B | [[kripke-a-posteriori-necessity-argument]] |
+| A primitive identity is a law under another name | B | [[primitive-identities-and-strong-necessities]] |
+| Two-dimensional argument | B | [[primitive-identities-and-strong-necessities#Strong Necessities]] |
 | Master argument against phenomenal concepts | B (that strategy only) | [[phenomenal-concepts-strategy]] |
 | Dualism or phenomenal concepts as the better explanation of the gap | B | not yet run |
 | Tenet 5 against the simplicity argument for the identity | B (its parsimony only) | [[inference-to-the-best-explanation-against-dualism]]; [[philosophy-of-science-under-dualism]] |
@@ -96,7 +96,7 @@ A reply reaches a type when it engages a premise that type holds; reaching says 
 | Structure and dynamics | C and A; B accepts its conclusion | [[topics/arguments-against-materialism]]; [[reductionism]] |
 | The gap's persistence | C, weakly | [[neural-correlates-of-consciousness]] |
 
-Chalmers's first case against Type-B is a cost: "the type-B materialist recognizes a principle that has the epistemic status of a fundamental law, but gives it the ontological status of an identity", and by requiring primitive bridging principles "it sacrifices much of materialism's spirit". An opponent, he writes, will hold the move "more akin to theft than to honest toil", borrowing without attribution Bertrand Russell's 1919 remark that the advantages of postulating what we want "are the same as the advantages of theft over honest toil".
+Chalmers's first case against Type-B is [[primitive-identities-and-strong-necessities|a cost]]: "the type-B materialist recognizes a principle that has the epistemic status of a fundamental law, but gives it the ontological status of an identity", and by requiring primitive bridging principles "it sacrifices much of materialism's spirit". An opponent, he writes, will hold the move "more akin to theft than to honest toil", borrowing without attribution Bertrand Russell's 1919 remark that the advantages of postulating what we want "are the same as the advantages of theft over honest toil".
 
 The master argument is narrower again. It needs only the conceivability of zombies, "an assumption that type-B materialists typically grant", and Chalmers stresses: "Here, again, we are assuming nothing about the relationship between conceivability and possibility." It reaches the type-B physicalist who explains the gap through phenomenal concepts, and not the illusionist, type-A version of the strategy (Chalmers 2018).
 
@@ -138,6 +138,7 @@ The ladder is the one in [[inference-to-the-best-explanation-against-dualism]]: 
 - [[inference-to-the-best-explanation-against-dualism]] — the tier ladder and the Type-B opponent
 - [[explanatory-gap]] — the gap all three types answer
 - [[conceivability-possibility-inference]] — the link Type-B denies
+- [[primitive-identities-and-strong-necessities]] — the cost Chalmers charges Type-B, and what it buys the Map
 - [[russellian-monism]] — type-F, the two-dimensional argument's exit
 - [[concepts/materialism]] — materialism's varieties and responses
 

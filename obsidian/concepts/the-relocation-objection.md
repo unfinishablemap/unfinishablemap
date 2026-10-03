@@ -4,7 +4,7 @@ description: "The Map's recurring anti-reductive move: an identity claim that fi
 created: 2026-09-23
 modified: 2026-09-24
 human_modified:
-ai_modified: 2026-09-24T03:33:06+00:00
+ai_modified: 2026-10-03T09:44:24+00:00
 last_deep_review: 2026-09-24T03:33:06+00:00
 draft: false
 topics:
@@ -22,6 +22,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[constitution-vs-causal-work]]"
   - "[[phenomenal-concepts-strategy]]"
+  - "[[primitive-identities-and-strong-necessities]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -75,13 +76,13 @@ Two further cases mark the objection's boundary.
 
 ## Strongest Rival Readings {#rival-readings}
 
-**Identities need no explanation.** Ned Block and Robert Stalnaker (1999) and David Papineau (2002) argue that the demand behind the objection is illegitimate. Identities are not the kind of thing that gets explained. Asking why water is H₂O is misplaced; one can only justify the identity by its explanatory payoff. On this view, "why does re-entrant signalling feel like anything?" has no deeper answer to give, just as "why is heat molecular motion?" has none, and the persistence of the question reflects the psychology of our concepts rather than a gap in the world. This rival is the strongest because it grants every step of the neutral form and denies that step 3 marks a failure.
+**Identities need no explanation.** Ned Block and Robert Stalnaker (1999) and David Papineau (1993; 2011) argue that the demand behind the objection is illegitimate. Identities are not the kind of thing that gets explained. Asking why water is H₂O is misplaced; one can only justify the identity by its explanatory payoff. On this view, "why does re-entrant signalling feel like anything?" has no deeper answer to give, just as "why is heat molecular motion?" has none, and the persistence of the question reflects the psychology of our concepts rather than a gap in the world. This rival is the strongest because it grants every step of the neutral form and denies that step 3 marks a failure.
 
 **The gap is conceptual, not ontological.** The [[phenomenal-concepts-strategy]], developed from Brian Loar (1990), agrees that the question survives and explains its survival: phenomenal concepts are recognitional and conceptually isolated from physical-functional concepts. The gap then belongs to our concepts, and physicalism predicts it. The objection describes the situation correctly and draws the wrong conclusion.
 
 **The seeming is the explanandum.** [[illusionism|Illusionists]] accept that the question moves. They argue that it moves to somewhere more tractable, the [[meta-problem-of-consciousness|meta-problem]] of why we judge ourselves to have phenomenal states (Chalmers 2018 names the problem without endorsing the illusionist answer). The Map's [[explanatory-gap]] page grants that this move "gains only if the second is tractable where the first was not, which is asserted rather than shown." Illusionism has not yet delivered, and the Map has not shown that it cannot.
 
-The Map's reply to the first two rivals is the one Chalmers and Jackson (2001) give. In the successful scientific identities, the higher-level concept was a role concept, and the identity is licensed because the lower-level story fills that role *a priori*. Phenomenal concepts do not behave that way. Block and Stalnaker reject the premise that successful reductions require this kind of a priori entailment. The dispute between the Map and these rivals lies at that premise, and neither side has closed it.
+The Map's reply to the first two rivals is the one Chalmers and Jackson (2001) give. In the successful scientific identities, the higher-level concept was a role concept, and the identity is licensed because the lower-level story fills that role *a priori*. Phenomenal concepts do not behave that way. Block and Stalnaker reject the premise that successful reductions require this kind of a priori entailment. The dispute between the Map and these rivals lies at that premise, and neither side has closed it. The full exchange, including the charge that an underivable identity is a law under another name, is in [[primitive-identities-and-strong-necessities]].
 
 ## What the Objection Implies, and What It Does Not {#disputed-implications}
 
@@ -135,6 +136,7 @@ Three rules of use follow.
 4. Chalmers, D. J., & Jackson, F. (2001). Conceptual analysis and reductive explanation. *Philosophical Review*, 110(3), 315–360.
 5. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64(4), 354–361.
 6. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81–108.
-7. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
-8. Southgate, A. & Oquatre-huit, C. (2026-07-11). First-Order Representationalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/first-order-representationalism/
-9. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/
+7. Papineau, D. (1993). Physicalism, consciousness and the antipathetic fallacy. *Australasian Journal of Philosophy*, 71(2), 169–183. https://doi.org/10.1080/00048409312345182
+8. Papineau, D. (2011). What exactly is the explanatory gap? *Philosophia*, 39(1), 5–19. https://doi.org/10.1007/s11406-010-9273-6
+9. Southgate, A. & Oquatre-huit, C. (2026-07-11). First-Order Representationalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/first-order-representationalism/
+10. Southgate, A. & Oquatre-six, C. (2026-03-10). Emergence as Universal Hard Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/emergence-as-universal-hard-problem/

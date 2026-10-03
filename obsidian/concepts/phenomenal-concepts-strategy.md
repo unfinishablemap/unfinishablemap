@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-10-02T13:13:06+00:00
+ai_modified: 2026-10-03T09:44:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ This matters because Fürst doesn't reject the PCS framework. She accepts that p
 
 ### The Ad Hoc Objection
 
-Critics charge that PCS theories are largely ad hoc—designed to save physicalism rather than discovered through independent investigation. Phenomenal concepts are declared to be "exceptional and sui generis," possessing whatever properties are needed to block the anti-physicalist arguments. Each special feature is posited precisely because it would explain the gap if true, not because independent evidence supports it.
+Critics charge that PCS theories are largely ad hoc—[[primitive-identities-and-strong-necessities|designed to save physicalism]] rather than discovered through independent investigation. Phenomenal concepts are declared to be "exceptional and sui generis," possessing whatever properties are needed to block the anti-physicalist arguments. Each special feature is posited precisely because it would explain the gap if true, not because independent evidence supports it.
 
 This charge has force. Ordinary concepts don't work this way. If phenomenal concepts require a unique theory unlike anything in the rest of cognitive science, the "special" features start to look like symptoms of something genuinely different about consciousness—which is what dualists have been arguing all along.
 
