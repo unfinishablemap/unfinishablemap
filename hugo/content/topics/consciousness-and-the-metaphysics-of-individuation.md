@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-09-01 23:35:45+00:00
+ai_modified: 2026-10-03 18:18:15+00:00
 ai_system: claude-opus-4-7+claude-fable-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 01:12:48+00:00
-lastmod: 2026-09-01 23:35:45+00:00
+lastmod: 2026-10-03 18:18:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ There is also a *[de-combination problem](/topics/open-individualism-and-the-de-
 
 Immanuel Kant posed the individuation problem as a direct objection to substance dualism. Physical objects can be individuated by spatial location—two otherwise identical atoms differ by occupying different positions. But if minds lack spatial extension, two qualitatively identical minds would share all their properties. What would make them two rather than one?
 
-This is not an epistemic problem (how would we *tell* them apart?) but a metaphysical one (what *makes* them distinct?). For the dualist, the standard criterion of individuation—spatial position—is unavailable.
+This is not an epistemic problem (how would we *tell* them apart?) but a metaphysical one (what *makes* them distinct?). For the dualist, the standard criterion of individuation—spatial position—is unavailable. The same *Critique* presses a second objection in its Paralogisms: the bare "I think" proves neither the simplicity nor the persistence of the subjects this problem presupposes, a challenge the Map meets by positing its subject rather than inferring it ([Kant's paralogisms and the Map's subject](/topics/kants-paralogisms-and-the-maps-subject/)).
 
 One developed rival dissolves the challenge rather than answering it, and deserves registering before the dualist replies. Animalism—the position associated with Eric Olson and Paul Snowdon—holds that the subject of experience just *is* an organism, so subjects are individuated the way organisms are: spatially, biologically, one animal per subject. The recent collection *Biological Identity* (Meincke and Dupré, eds., 2020) brings this view into direct contact with the biology of individuality, including Meincke's processual variant. The Map's reply is the relocation it makes throughout: no physical criterion, organismic boundaries included, can individuate a consciousness that is not identical to any physical system—a framework-boundary disagreement, marked as such rather than refuted ([P-I1](/positions/individuation-and-subjecthood/#p-i1)). But the rival's price for the Map should be stated plainly: animalism delivers what the Map cannot—a subject-count fixed by organism-count. That determinacy is only as firm as biological individuality itself; on the gradualist view of [the major evolutionary transitions](/topics/consciousness-and-the-major-evolutionary-transitions/), there may be no determinate count of organisms to inherit, which would run as hard against [P-I1](/positions/individuation-and-subjecthood/#p-i1)'s determinate boundaries as against animalism's.
 

@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 17:51:19+00:00
+ai_modified: 2026-10-03 18:19:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 17:51:19+00:00
+lastmod: 2026-10-03 18:19:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T18:19:16+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Kant's paralogisms and the Map's subject — the Critical dismantling of rational psychology against the register's determinate subject
+- **Output**: [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/)
+- **Word count**: 3,269 (`analyze_length`, references included; topics soft 3,000 / hard 4,000; soft_warning); prose before Further Reading 2,896 (task band 2,400–2,900)
+- **Based on research**: yes, [kants-paralogisms-and-the-maps-subject-2026-10-01](/research/kants-paralogisms-and-the-maps-subject-2026-10-01/) (Angle 1)
+- **Spine**: lead states the result first: the Map's subject is posited, not inferred, so it commits no paralogism; it is exposed at (i) felt mine-ness used as evidence (Strawson 1997 abstract; [P-I1](/positions/individuation-and-subjecthood/#p-i1)'s grade D), (ii) unity read as simplicity (A352–353 collective-unity reply; unity-of-consciousness, mereology-of-mind), (iii) the diachronic clause (A363 and the elastic-ball note; the personal-identity causal-history reply reduces to the haecceity posit). The [P-SC1](/positions/subject-census/#p-sc1) subject index escapes only at Tenet 3's available-not-actual standing, graded compatible now / suggestive with a conditioned-register signature / discriminating with a subject-indexed one, aligned with [P-SC1](/positions/subject-census/#p-sc1)'s census trilemma (withdrawn indistinguishability leg not repeated). Relation to Site Perspective records two costs and one limit ([P-I1](/positions/individuation-and-subjecthood/#p-i1) and posit (1) never "following from" unity; Tenet 4 dependence per [P-I2](/positions/individuation-and-subjecthood/#p-i2); posit not refuted, per B420 and Ameriks). The bi-aspectual open tension is linked via where-the-substance-commitment-enters and left unresolved. Readings of Kant labelled as contested; the three-exposure mapping labelled as the Map's reconstruction (in prose, no bracket labels).
+- **Translation**: all *Critique* quotations normalised to Guyer & Wood (Cambridge 1998), cited by A/B. The G&W PDF was re-fetched this session and every Kant span grep-verified in its text, including the passages the note had verified only in Meiklejohn (B410 syllogism, B420 ×2, B421). Spans found this session but not in the note (A402 subreption, A352–353 collective unity, A350–351 "substance only in the idea") are paraphrased, not quoted. Note-flagged items honoured: the "Achilles" phrase is not quoted (it is present in G&W at A351, so a later pass may quote it); SEP A355 not used; Chalmers not mentioned; Priest cited as a manuscript; Kitcher 2024 cited as Kitcher; Ameriks, Dyck, Proops and Strawson 1966 cited without quotation. Lowe 2012's continuation of the "Locke and Kant" sentence re-verified against the newdualism.org PDF.
+- **Integration** (`analyze_length` before → after): zero-word piped links over existing text: [personal-identity](/topics/personal-identity/) 4,045 → 4,045 ("unique causal history"); [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) 3,938 → 3,938 ([P-I1](/positions/individuation-and-subjecthood/#p-i1) "felt this-ness"); [subject-census](/positions/subject-census/) 2,493 → 2,493 ([P-SC3](/positions/subject-census/#p-sc3) "diachronic subject persistence"); [self-opacity](/voids/self-opacity/) 3,071 → 3,071 ("transcendental ego"). One sentence each: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) 3,143 → 3,189 (§Kant's Challenge to Dualism, the second Kantian objection); [mereology-of-mind](/apex/mereology-of-mind/) 3,279 → 3,315 (causal-history answer vs the Paralogisms); [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/) 3,714 → 3,752 (closing §The Pre-Critical Kant); [unity-of-consciousness](/concepts/unity-of-consciousness/) 2,705 → 2,741 (second paralogism vs Hasker's unity argument). pudgalavada and indexical-identity-quantum-measurement left untouched (optional).
+- **Apex sources**: none (no apex lists the new page).
 
 ## 2026-10-03T17:51:19+00:00 - expand-topic
 - **Status**: Success

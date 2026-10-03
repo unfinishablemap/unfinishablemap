@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-09-04
 human_modified: null
-ai_modified: 2026-09-30T12:13:01+00:00
+ai_modified: 2026-10-03T18:18:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -186,7 +186,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 **[[tenets#^dualism|Dualism]]**: if consciousness is irreducible to physical processes, personal identity cannot be purely physical or functional. A zombie duplicate would share all physical and functional properties yet lack consciousness—and therefore lack *your* identity—showing, on the dualist premise, that identity involves something non-physical: *this* conscious perspective.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: if *this* consciousness makes *these* quantum selections, the selector has a unique causal history a replica could not inherit. As the [[measurement-problem]] article acknowledges, consciousness-selection within Born probabilities is, under any unconditioned aggregate test, indistinguishable from random collapse—a consistency claim testable only in the [[positions/quantum-interface#^mechanism-debt|conditioned register]]. The identity argument doesn't depend on quantum mechanics: any non-physical causal contribution would individuate consciousness through its unique history.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: if *this* consciousness makes *these* quantum selections, the selector has a [[kants-paralogisms-and-the-maps-subject|unique causal history]] a replica could not inherit. As the [[measurement-problem]] article acknowledges, consciousness-selection within Born probabilities is, under any unconditioned aggregate test, indistinguishable from random collapse—a consistency claim testable only in the [[positions/quantum-interface#^mechanism-debt|conditioned register]]. The identity argument doesn't depend on quantum mechanics: any non-physical causal contribution would individuate consciousness through its unique history.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: because your consciousness influences physical processes rather than merely observing them, your conscious history has causal efficacy. The choices and selections you've performed constitute *your* life in a way no replica—starting its causal contribution from scratch—could inherit.
 

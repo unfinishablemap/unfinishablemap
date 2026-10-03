@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-10-01 21:41:29+00:00
+ai_modified: 2026-10-03 18:18:15+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:51:06+00:00
-lastmod: 2026-10-01 21:41:29+00:00
+lastmod: 2026-10-03 18:18:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -78,7 +78,7 @@ Six thinkers from divergent frameworks identify the unobservable self. Empirical
 
 ## Six Thinkers, One Limit
 
-**Hume** reported failure: "I never can catch myself at any time without a perception." Introspection yields contents—warmth, colour, desire—but never the one to whom they belong. The *Treatise*'s Appendix conceded the bundle theory could not account for felt unity. **Kant** reframed transcendentally: the "I think" must accompany all representations, yet through it I am conscious only *that* I am, not *what* I am. The transcendental ego cannot appear among the objects it organises.
+**Hume** reported failure: "I never can catch myself at any time without a perception." Introspection yields contents—warmth, colour, desire—but never the one to whom they belong. The *Treatise*'s Appendix conceded the bundle theory could not account for felt unity. **Kant** reframed transcendentally: the "I think" must accompany all representations, yet through it I am conscious only *that* I am, not *what* I am. The [transcendental ego](/topics/kants-paralogisms-and-the-maps-subject/) cannot appear among the objects it organises.
 
 **Sartre** identified the structure phenomenologically: pre-reflective consciousness is self-aware without being self-objectifying, but reflection transforms the awareness it tries to grasp. **Wittgenstein** arrived logically: "The subject does not belong to the world: rather, it is a limit of the world." Nothing in the visual field allows you to infer it is seen by an eye.
 

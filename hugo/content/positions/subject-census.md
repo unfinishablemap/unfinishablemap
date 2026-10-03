@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-03
-ai_modified: 2026-09-30 20:38:13+00:00
+ai_modified: 2026-10-03 18:18:15+00:00
 ai_system: claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ description: 'The Map''s positions on the subject census its interface requires:
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-30 20:38:13+00:00
+lastmod: 2026-10-03 18:18:15+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -71,7 +71,7 @@ Dated update notes, including the 2026-08-24 account of how the [P-SC1](/positio
 - **Status**: live <span id="p-sc3"></span>
 - **Calibration** ([multi-axis](/positions/methodology-and-calibration/#calibration-schema)): credence moderate · external-evidence grade D (the persistence claim is the individuation commitment applied across time; the marker literature that dates phenomenality does not bear on pairing) · structural centrality moderate (Tenet 4's objection concerns which *future* subject is me, so the diachronic half is foundation-bearing) · model maturity programme (no account exists of what establishes or terminates a pairing) · empirical discriminability none · framework-internal only: yes
 - **Asserts**: The Map holds that the same subject is present before and after an interruption of the interface — dreamless sleep, general anaesthesia, and the phenomenologically absent interval that abuts induction and emergence — and that this persistence is a real further fact rather than a convention over successive states or a psychological-continuity relation. It is the diachronic half of the subjecthood posit, held for the same reason as the synchronic half: it is what the agency, survival and No-Many-Worlds treatments presuppose, and it is why the fragmentation cases are read as interface disruption rather than as subject replacement ([P-CS4](/positions/consciousness-scope/#p-cs4)). The limit is registered as firmly as the claim. The Map has no account of *when a channel begins or ends*. The developmental marker literature places phenomenality early ([P-CS3](/positions/consciousness-scope/#p-cs3)), but markers date the appearance of correlates of experience, not the establishment of a pairing, and nothing in the corpus licenses reading one off the other. The same holds at the far end, where the interface reading of brain death leaves open how consciousness manifests without saying whether the pairing terminates. So the Map asserts persistence across the interruptions it can identify, and declines to date the boundaries of the channel it persists through — an entry whose honest content is partly what it refuses to claim.
-- **Depends on**: [P-I1](/positions/individuation-and-subjecthood/#p-i1); [Posit One](/tenets/background-commitments/) (diachronic subject persistence, recorded there as one of three commitments sitting beneath the stated tenets); [P-CS4](/positions/consciousness-scope/#p-cs4) (interruption as interface disruption, not cessation) and [P-CS3](/positions/consciousness-scope/#p-cs3) (marker-based onset of phenomenality — cited as a *distinct* question, not as support); [P-SC2](/positions/subject-census/#p-sc2) (the undated channel is one of that entry's four booked gaps); Tenet 1 ([Dualism](/tenets/#dualism))
+- **Depends on**: [P-I1](/positions/individuation-and-subjecthood/#p-i1); [Posit One](/tenets/background-commitments/) ([diachronic subject persistence](/topics/kants-paralogisms-and-the-maps-subject/), recorded there as one of three commitments sitting beneath the stated tenets); [P-CS4](/positions/consciousness-scope/#p-cs4) (interruption as interface disruption, not cessation) and [P-CS3](/positions/consciousness-scope/#p-cs3) (marker-based onset of phenomenality — cited as a *distinct* question, not as support); [P-SC2](/positions/subject-census/#p-sc2) (the undated channel is one of that entry's four booked gaps); Tenet 1 ([Dualism](/tenets/#dualism))
 - **Argued in**: [personal-identity](/topics/personal-identity/), [identity-across-transformations](/apex/identity-across-transformations/), [death-and-consciousness](/topics/death-and-consciousness/), [sleep-consciousness-void](/voids/sleep-consciousness-void/)
 - **Would shift if**: an account were produced of what establishes and terminates subject–substrate pairing, which would date the channel and discharge part of [P-SC2](/positions/subject-census/#p-sc2); or the marker literature were shown to date *pairing* rather than phenomenality, which would import the developmental evidence directly and raise the external-evidence grade; or the interruption cases were shown to involve genuine phenomenal cessation with a fresh pairing on waking, which would sever persistence from the perspective and cascade to [P-I1](/positions/individuation-and-subjecthood/#p-i1) and to Tenet 4's argument.
 - **Last reviewed**: 2026-08-03

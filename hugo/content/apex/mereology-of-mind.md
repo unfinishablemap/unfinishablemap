@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-09-27 10:20:21+00:00
+ai_modified: 2026-10-03 18:18:15+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-20 17:20:00+00:00
 apex_sources:
@@ -34,7 +34,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:08:06+00:00
-lastmod: 2026-09-27 10:20:21+00:00
+lastmod: 2026-10-03 18:18:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ The convergence is real only after abstraction: van Inwagen reaches organic life
 
 Now turn the arrow around. Grant that there are genuine conscious wholes. What makes any one of them *this* subject, bounded off from every other? As [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) develops, no physical criterion settles the boundary. It is not the boundary of a body (conjoined twins share one; [split-brain patients](/topics/split-brain-consciousness/) may harbour more than one consciousness in a single skull). It is not the boundary of a brain region (no neural threshold cleanly separates one subject from two). It is not the boundary of a causal process, since conversation and shared environments cross between subjects without merging them. Under the Map's [Dualism](/tenets/#dualism) tenet, the hope that a sufficiently detailed neural account would eventually fix the boundary is unavailable in principle: if consciousness is not reducible to physical processes, no physical description can explain why *this* set of experiences belongs to *this* subject.
 
-The space of answers is ancient and, tellingly, still open after three millennia. Daniel Kolak's taxonomy (2004) gives three exhaustive positions: *closed individualism* (each person a distinct bounded subject — common sense, owing an account of the boundary), *empty individualism* (subject boundaries are conventional, the self a useful fiction — gracefully handling fission but clashing with the certainty that *this* subject experiences *this* moment), and *open individualism* (there is one subject appearing as many — inverting the puzzle into why separation *appears* at all). Immanuel Kant's old objection bites hardest here: physical objects are individuated by spatial position, but two qualitatively identical *minds*, lacking extension, would share all their properties — so what makes them two? The dualist's available replies — [primitive thisness](/concepts/haecceity/), Martine Nida-Rümelin's primitive identity (2010), Caspar Hare's irreducible "presence" (2009), individuation by unique causal history — each, on inspection, *names* the boundary rather than explaining it. The causal-history answer is the most promising and least circular, since the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet supplies a real ongoing coupling between *this* consciousness and *this* brain; but it needs a starting point — what individuated the subjects before they began accumulating distinct histories — that it cannot itself provide.
+The space of answers is ancient and, tellingly, still open after three millennia. Daniel Kolak's taxonomy (2004) gives three exhaustive positions: *closed individualism* (each person a distinct bounded subject — common sense, owing an account of the boundary), *empty individualism* (subject boundaries are conventional, the self a useful fiction — gracefully handling fission but clashing with the certainty that *this* subject experiences *this* moment), and *open individualism* (there is one subject appearing as many — inverting the puzzle into why separation *appears* at all). Immanuel Kant's old objection bites hardest here: physical objects are individuated by spatial position, but two qualitatively identical *minds*, lacking extension, would share all their properties — so what makes them two? The dualist's available replies — [primitive thisness](/concepts/haecceity/), Martine Nida-Rümelin's primitive identity (2010), Caspar Hare's irreducible "presence" (2009), individuation by unique causal history — each, on inspection, *names* the boundary rather than explaining it. The causal-history answer is the most promising and least circular, since the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet supplies a real ongoing coupling between *this* consciousness and *this* brain; but it needs a starting point — what individuated the subjects before they began accumulating distinct histories — that it cannot itself provide. The causal-history answer also faces a second Kantian objection, from the Paralogisms: a history handed on through a series of bearers does not show that one subject persisted through it ([Kant's paralogisms and the Map's subject](/topics/kants-paralogisms-and-the-maps-subject/)).
 
 ## The Hinge: The De-Combination Problem
 

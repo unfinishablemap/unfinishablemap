@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-10-01
 human_modified: null
-ai_modified: 2026-10-01T21:41:29+00:00
+ai_modified: 2026-10-03T18:18:15+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -74,7 +74,7 @@ Six thinkers from divergent frameworks identify the unobservable self. Empirical
 
 ## Six Thinkers, One Limit
 
-**Hume** reported failure: "I never can catch myself at any time without a perception." Introspection yields contents—warmth, colour, desire—but never the one to whom they belong. The *Treatise*'s Appendix conceded the bundle theory could not account for felt unity. **Kant** reframed transcendentally: the "I think" must accompany all representations, yet through it I am conscious only *that* I am, not *what* I am. The transcendental ego cannot appear among the objects it organises.
+**Hume** reported failure: "I never can catch myself at any time without a perception." Introspection yields contents—warmth, colour, desire—but never the one to whom they belong. The *Treatise*'s Appendix conceded the bundle theory could not account for felt unity. **Kant** reframed transcendentally: the "I think" must accompany all representations, yet through it I am conscious only *that* I am, not *what* I am. The [[kants-paralogisms-and-the-maps-subject|transcendental ego]] cannot appear among the objects it organises.
 
 **Sartre** identified the structure phenomenologically: pre-reflective consciousness is self-aware without being self-objectifying, but reflection transforms the awareness it tries to grasp. **Wittgenstein** arrived logically: "The subject does not belong to the world: rather, it is a limit of the world." Nothing in the visual field allows you to infer it is seen by an eye.
 

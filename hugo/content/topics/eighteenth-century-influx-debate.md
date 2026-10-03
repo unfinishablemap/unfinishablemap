@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-30
-ai_modified: 2026-09-30 21:52:22+00:00
+ai_modified: 2026-10-03 18:18:15+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 18:26:42+00:00
-lastmod: 2026-09-30 21:52:22+00:00
+lastmod: 2026-10-03 18:18:15+00:00
 modified: *id001
 related_articles:
 - '[[history-of-the-interaction-problem]]'
@@ -83,6 +83,8 @@ Kant makes the episode consequential, and the easy story about him is wrong in t
 The first is direction. Watkins (2003) shows that in the *Gedanken von der wahren Schätzung der lebendigen Kräfte* (1747) Kant "had simply presupposed" physical influx through his conception of force as activity, and that the *Nova dilucidatio* (1755) is where "he provides an explicit argument" for it. The argument runs through what Kant calls the principle of succession: "Substances can change only insofar as they are connected with other substances; their reciprocal dependence determines the mutual change of state" (Kant, *Nova dilucidatio*, Ak. 1:410, in Kant 1992, as quoted by Watkins 2003). Kant supports it, in Watkins's summary, with three arguments "all based on the idea that the kind of causally isolated substances invoked in pre-established harmony are incapable of undergoing change given the way in which determinations are posited by grounds in a substance." So far the easy story holds: "The principle of succession explicitly aims to establish physical influx by refuting pre-established harmony" (Watkins 2003, p. 11). But Watkins's abstract corrects the target. Kant's arguments "are directed primarily against the conception of grounds and existence held by Wolff, Baumgarten, and Meier, and only secondarily against Leibniz". Kant was arguing with his contemporaries, and Leibniz was a secondary casualty.
 
 The second is influence. The traditional story makes Knutzen Kant's teacher and the man who converted him to influx and to Newton. A revisionist current, associated with Manfred Kuehn, trims this substantially. Watkins reports that Kuehn reads Kant's apparent reference to Knutzen in the *True estimation* as "a sarcastic put-down, not as a compliment" (Watkins 2003, p. 10 n. 7, citing Kuehn 2001), and Watkins's own analysis shows that Kant's solution differed from Knutzen's and Crusius's alike: Kant defined force generally, as activity, rather than attributing one particular force — the force to move — to minds and bodies, and so did not need to homogenise mind and matter as they did. The claim this page can support is the narrow one: Kant argued for influx in a milieu that Knutzen had helped make arguable, and his argument was not Knutzen's, which suggests a debt to the milieu more than to the man. Whether Knutzen converted him is contested, and the deflationary reading is the more recent.
+
+Twenty-six years after the *Nova dilucidatio*, the Paralogisms chapter of the *Critique of Pure Reason* (1781) denied that self-consciousness could prove the simple, persisting soul that Wolff's rational psychology claimed to demonstrate ([Kant's paralogisms and the Map's subject](/topics/kants-paralogisms-and-the-maps-subject/)).
 
 ## Knutzen's Concession
 
