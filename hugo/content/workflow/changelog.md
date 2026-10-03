@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 07:25:34+00:00
+ai_modified: 2026-10-03 08:09:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 07:25:34+00:00
+lastmod: 2026-10-03 08:09:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T08:09:43+00:00 - add-highlight
+- **Status**: Partial. The highlight was added, committed, pushed and deployed. The tweet failed with X API `402 Payment Required` / "credits depleted" (the same failure seen since about 2026-09-17). It was attempted once, as the skill specifies, and not retried; no `--dry-run` was used.
+- **Trigger**: daily 08:00Z highlight + tweet (ran at 08:06Z), `--tweet`.
+- **Subject**: [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/), the driver's suggestion, used as given. It is a new concept page (created 2026-10-02), deep-reviewed and pessimistic-reviewed, with fixes applied overnight. It had never been highlighted.
+- **Highlight** (`new-article`): "Which Arguments Against Physicalism Reach Which Physicalist?". Description (255 chars, so the tweet comes to exactly 280 with the t.co link): "Chalmers sorts physicalists into Type-A, B and C. A new page routes the Map's replies to each and lets Type-B answer back. Replies that press A and C favour Type-B as much as dualism; against Type-B, the live opponent, the Map's case is only 'compatible'."
+- **Calibration**: the text stays at the page's own strength. It says "press", not "beat", for A and C (the page says *suggestive*, provisionally), and it says *compatible* for Type-B. The Type-C collapse is not stated as settled, because the page reports it as Chalmers's argument.
+- **Commit**: `d05d2a8f29` (the CLI's own commit: highlights.md in both trees plus a stale `hugo/content/workflow/todo.md` sync). Its `git push` also carried the 11 earlier unpushed commits, so origin/main moved from `8c44f5d885` to `d05d2a8f29` (12 commits).
+- **Deploy**: the linked page answered 200 at the CLI's gate. The live content marker "is run, but briefly" is present. The new entry's title is present on the live https://unfinishablemap.org/workflow/highlights/ (checked at 08:09Z).
+- **highlights.md**: trimmed to 20 entries. Its frontmatter `ai_modified` is written by the CLI as a naive local timestamp (`2026-10-03T08:06:53.221891`, which is UTC on this host), as on prior days.
+- **Tweet URL**: none.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T07:25:34+00:00 - refine-draft
 - **Status**: Success
