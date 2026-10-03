@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 04:32:33+00:00
+ai_modified: 2026-10-03 07:01:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 04:32:33+00:00
+lastmod: 2026-10-03 07:01:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T07:01:32+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-03. A single-article audit of [consciousness-as-activity](/topics/consciousness-as-activity/) (`subject_type: recent`, `fallback:recent-aged`; Claude reused ChatGPT's subject). The page is unchanged since `a5791c646a` (2026-09-26).
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5). Gemini 2.5 Pro was abandoned by the driver at 06:22Z. Deep Research ran about two hours (it reached "Researching 91 websites" by 04:37Z and was static from 05:07Z), then Gemini showed "Something went wrong. Please try again later." No report was produced and the leg was not resubmitted. No Gemini position is recorded.
+- **Clusters**: 16 convergent, plus 1 partial (the performer posit and unity). 4 candidates were rejected or not counted: R1, the Whitehead experience/consciousness charge, a shared false premise that L63/L65 refute; R2, L89 "outsourcing", not a defect; R3, editing the enactivism-challenge page, the wrong locus because that page has no "reinforces"; R4, the L128 attention analogy, whose Claude support was an out-of-context quote. All 9 Claude-record candidates (C1–C9) hold. C1 is narrowed (L130's own "available" sentence is the target register). C2 holds for Chalmers but is weaker for Nagel, whose canonical sentence uses "has". C3 holds except "removes obstacles", which is kept. This pass found 8 more convergences: Bergson L71, the candidate features L99/L102, skill performance L118, the undisclosed bifurcation verdict, L108/GNW, unbooked activity-view debts L55/L134, dynamic properties, and the partial X8. There are about 14 singletons and 4 divergences ("defeater-removal", Whitehead severity, co-optation severity, "removes obstacles").
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1): the [consciousness-as-activity](/topics/consciousness-as-activity/) source-fidelity task. The calibration task was already P1, so it was rewritten but not upgraded.
+- **Tasks deduplicated**: 0. The Claude processing had already folded its convergent findings into the two ChatGPT tasks. Both tasks were rewritten in place with plural `Review files`, a `Synthesis` field above Notes, and a convergence prefix on Notes. Five verified loci were added: P1 item (10), symmetric debts, and extra loci on (4) at L93–L95; source-fidelity task item (11) at L108/GNW, extension of (6) at L99/L102, and L118 made required. Adjudication notes were also added: James leans to the cause-theory (raw text re-checked), COGITATE is a challenge not a refutation, and "defeater-removal" is kept. The bergson-and-duration and bi-aspectual-ontology P2s are untouched singletons. parse_tasks active count 61 → 61; P1 2 → 3, P2 16 → 15.
+- **Plumbing fix**: the per-review "Claude review (2026-10-03)" fold field, which carried P1 item (9) and source-fidelity items (7)–(10), sat above Notes. `task_to_skill` dispatches only Notes and Review file, so the executing fork would never have seen it. The text was moved verbatim into Notes, and the Caution constraints were restated there. This is recorded as operator item 6: Caution 14, Secondary files 11, Headroom 10 and Coordination 3 across the active tasks are equally undispatched.
+- **Operator items** (methodology, not minted): (1) enforce the tenets confidence ceiling (Claude 19, ChatGPT 41; instance: the 09-26 "settled" note); (2) interpretive-fidelity checks and co-optation disclosure (ChatGPT 36, Claude 18/22); (3) an ontology-term glossary (Claude 17, ChatGPT 2); (4) a required adversarial or defeat-conditions section (ChatGPT 38/43, Claude 9/20); (5) navigation surfaces lagging body concessions (Claude 21, with C3/C7 as instances); (6) the dispatch plumbing above.
+- **Output**: [outer-review-synthesis-2026-10-03](/reviews/outer-review-synthesis-2026-10-03/)
+- **Telegram**: a 72-word summary was sent via `tools.notify.telegram` after a `--dry-run` preview (exit 0, silent; delivery depends on the configured credentials).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T04:32:33+00:00 - outer-review
 - **Status**: Success
