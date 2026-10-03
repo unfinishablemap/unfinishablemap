@@ -2,9 +2,9 @@
 title: "Stapp's Quantum Mind Model"
 description: "Mental effort operates through the quantum Zeno effect: rapid attention holds neural patterns against decay, providing a mechanism for mind-matter interaction."
 created: 2026-01-22
-modified: 2026-09-27
+modified: 2026-10-03
 human_modified: null
-ai_modified: 2026-10-03T02:58:52+00:00
+ai_modified: 2026-10-03T11:22:50+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -115,7 +115,7 @@ The most serious challenge: quantum coherence in warm brains should decay far to
 
 **Response**: Several considerations complicate this objection without definitively resolving it. Revised calculations produce longer coherence times (10⁻⁵ seconds), though still contested—Hagan, Hameroff and Tuszynski (2002) argued in this vein that Tegmark's figure rested on an oversimplified microtubule model and that ordered water and a counter-ion Debye layer could screen quantum states, a rebuttal that remains favourable to the quantum-mind programme but has not been independently confirmed. More recently, [[quantum-biology-and-neural-mechanisms|quantum biology]] has found candidate functional quantum effects in warm biological systems—and in 2024, a Nature Communications spin-dynamics *modelling* study argued that the quantum Zeno effect itself could enable magnetosensitivity in tightly bound cryptochrome radical pairs, where tight binding of the radicals within the protein preserves coherence against decoherence. This is a computational proof-of-concept—not an experimental demonstration—that the Zeno mechanism *could* operate in a warm protein microenvironment. It is not a precedent for the kind of state Stapp's model requires: cryptochrome involves spin coherence in a tightly bound two-radical system shielded inside a protein pocket, structurally unlike a delocalised superposition over macroscopic neural firing patterns spanning many neurons, and its microsecond coherence is still some three orders of magnitude short of the millisecond neural timescale.
 
-**Monte Carlo critique**: Georgiev's (2015) Monte Carlo simulations of electron tunnelling in neuronal ion channels challenged whether the Zeno mechanism remains robust beyond the brain decoherence time, concluding that the quantum Zeno effect breaks down once observation intervals exceed that timescale. Crucially, the critique is not a closed refutation: Georgiev leaves a door open by noting that the mechanism could survive if the relevant brain degrees of freedom occupy a *decoherence-free subspace*—a set of states protected from environmental decoherence by a symmetry of the system-environment coupling. That qualifier matters for Stapp's programme, because it converts the decoherence objection from "the Zeno mechanism is impossible in a warm brain" into the narrower and still-open empirical question of whether neural tissue supplies such a protected subspace. The cryptochrome result above shows Zeno can work in a protected biological microenvironment; whether neural firing patterns enjoy analogous protection is unconfirmed, and that, rather than a blanket impossibility, is where the dispute now sits.
+**Monte Carlo critique**: Georgiev's (2015) Monte Carlo simulations of electron tunnelling in neuronal ion-channel voltage sensors found that the quantum Zeno effect breaks down for timescales greater than the brain decoherence time. Generalising to any n-level system, he proved that local projections cannot decrease the von Neumann entropy of the unconditional brain density matrix, and concluded: "The latter theorem establishes that Stapp's model is physically implausible but leaves a door open for future development of quantum mind theories provided the brain has a decoherence-free subspace." The verdict and the door stand together: the model as proposed is implausible, and survives only if the relevant neural degrees of freedom occupy such a subspace—states protected from environmental decoherence by a symmetry of the system-environment coupling. The cryptochrome result above shows Zeno can work in a protected biological microenvironment; whether neural firing patterns enjoy analogous protection is unconfirmed.
 
 Most importantly, decoherence doesn't solve the [[measurement-problem]]: it explains why superpositions appear classical but not why measurements yield *definite* outcomes. Consciousness could bias outcome selection *after* decoherence, at measurement collapse. The [[quantum-measurement-and-consciousness|structural parallel between the measurement problem and the hard problem of consciousness]] suggests these aren't separate puzzles but two faces of the same interface. See [[decoherence]] for detailed treatment.
 
@@ -143,25 +143,25 @@ Perhaps effort phenomenology is just what certain neural computations feel like�
 
 ## Relation to Site Perspective
 
-Stapp's model may be the closest match to The Unfinishable Map's tenets among existing quantum consciousness proposals.
+On question-choice, Stapp's model is the tenets' nearest neighbour among quantum consciousness proposals rather than an implementation of them: it declines the outcome-selection the Map asserts ([[#the-core-mechanism|above]]), and the [[positions/quantum-interface|register]] demotes it (P-Q4).
 
 ### Dualism
 
 The model presupposes consciousness is distinct from neural processing—if consciousness were identical to attention mechanisms, "consciousness observing neural states" would be circular. The model requires a non-physical subject deploying attention as mechanism.
 
-Stapp's framework illuminates why the [[explanatory-gap]] exists. Physical descriptions characterise superpositions; experiential descriptions characterise selection. Physics describes the option space; consciousness determines which possibility actualises. Neither reduces to the other because they're complementary aspects of quantum reality. The model preserves rather than closes the explanatory gap—but renders it intelligible.
+Stapp's framework illuminates why the [[explanatory-gap]] exists. Physical descriptions characterise the option space; experiential descriptions characterise which questions are put to it. Neither reduces to the other because they're complementary aspects of quantum reality. The model preserves rather than closes the explanatory gap—but renders it intelligible.
 
 ### Minimal Quantum Interaction
 
-Stapp's proposal exemplifies minimal interaction. Consciousness doesn't inject energy—it shapes which patterns actualise by observing them. The phenomenology matches: sustained attention feels like work but not like energy expenditure. Mental fatigue differs from physical fatigue—a different currency entirely.
+Stapp's proposal is minimal in its selectional character—no force term, no new dynamics—but its energetic innocence holds only for the idealised isolated system; for the open, thermally coupled brain the back-action cost is unworked ([[#the-measurement-back-action-objection|above]]). Whether it meets the tenet's no-Born-violation clause depends on the contested ensemble reading ([[#the-core-mechanism|above]]).
 
 ### Bidirectional Interaction
 
-The neuroplasticity evidence is *compatible with* downward causation: cognitive-behavioural intervention produced altered brain metabolism in Schwartz's OCD patients. The Map reads this as consistent with information flowing from mind to matter, but the data do not discriminate that reading from the materialist explanation via standard neural mechanisms.
+Schwartz's OCD data are *compatible with* downward causation—cognitive-behavioural intervention altered brain metabolism—but do not discriminate that reading from the materialist explanation via standard neural mechanisms.
 
 ### No Many Worlds
 
-If all quantum outcomes occur in branching universes, what does "effort" select? Effort feels like *determination*—singular selection among alternatives. This phenomenology creates tension with MWI, supporting collapse interpretations where effort genuinely determines outcomes. MWI defenders respond that all experiences feel singular to their subjects; the debate remains open.
+Stapp's model presupposes single outcomes—nature returns one answer per question for the Zeno hold to keep—so it inherits the tenet rather than supporting it.
 
 ### Occam's Razor Has Limits
 

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T10:54:06+00:00
+ai_modified: 2026-10-03T11:22:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T11:22:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/stapp-quantum-mind]]
+- **Original score**: n/a (`scripts/curate.py` absent); task-scoped repair of the tenet section, which still contradicted the body recalibrated on 2026-09-28
+- **Review**: [[reviews/outer-review-2026-10-02-claude-opus-5-5]] §5 T2/T5, §6 C4, §7 item 1, §9 item 2
+- **Changes**: (a) RSP opener "may be the closest match to The Unfinishable Map's tenets" → "On question-choice … the tenets' nearest neighbour … rather than an implementation of them", naming Stapp's refusal of outcome-selection and P-Q4 (matches consciousness-in-smeared-quantum-states L120). (b) Minimal Quantum Interaction "exemplifies minimal interaction. Consciousness doesn't inject energy" plus the fatigue-phenomenology sentences → minimal in its selectional character only; energetic innocence holds only for the idealised isolated system, back-action uncosted for the warm brain (agrees with L66/L124); the Born-violation clause of the tenet is tied to the contested ensemble reading (T2's Born-rule-bending point). Second raising of the check-tenets 2026-09-25 L156 flag, now closed. (c) Georgiev 2015 (L118): adds the n-level entropy theorem and the verbatim verdict ("physically implausible but leaves a door open … decoherence-free subspace"), re-verified by curl of arxiv.org/abs/1412.4741 and an exact-substring check of the abstract; "not a closed refutation" and the impossible→narrow-question reframing removed. (d) No Many Worlds: effort-feels-like-determination paragraph cut (non-evidential by its own concession) → the model presupposes single outcomes and inherits the tenet rather than supporting it. Funding: Dualism's two redundant option-space/selection sentences merged, which also drops "consciousness determines which possibility actualises" (contradicted L64/L66); Bidirectional Interaction tightened with its non-discrimination qualifier kept.
+- **Engagement classification**: Georgiev 2015: Mode Three (verdict conceded, the author's own exception stated, no in-framework rebuttal claimed); MWI: Mode Three (the model presupposes collapse; the phenomenology was not evidence).
+- **Length**: 4,038 → 4,002 by `analyze_length` (−36; concepts hard 3,500 at `>=`, still hard_warning). Per change: L118 −14, L146 +16, L152 −3, L156 +11, L160 −22, L164 −24.
+- **Not touched (by brief)**: L100 witness line, L98 observation rate, Stapp 2004 reference, James ch. 26 quote, tenets.md.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T10:54:06+00:00 - pessimistic-review
 - **Status**: Success
