@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T23:14:29+00:00
+ai_modified: 2026-10-03T23:32:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T23:32:13+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/numbing-void]] (written 23:14Z, `ae426ae081`, not reviewed before; 2,589 by `analyze_length`, of which 2,086 prose to Further Reading; voids hard 3,000 at `>=`, headroom 410), plus the 7 integration seams and the voids index entry from the same commit. Cycle slot, reports only: the article, todo.md and the sibling pages were not edited.
+- **Quote audit**: all 21 quoted spans verbatim (19 external across 11 sources: Slovic 2007 PDF, PLOS XML for Västfjäll, OpenAlex for Hsee & Rottenstreich / Cameron & Payne / Kogut & Ritov 2005a / Lee & Feeley, Semantic Scholar for Butts, Crossref plus the Warwick full text for Maier, Crossref for Piller, the arXiv API for Raiyan, archive.org for Lewis, Gutenberg for Sidgwick III.XIII §3; plus 2 Map self-quotes). The Lifton "rescue workers" correction matches Slovic 2007 verbatim. Lifton's own scan is lending-restricted, so that is unverified at the primary.
+- **Findings**: (1) "Closed individualism ... refuses his inference" overstates P-I1. Lewis and Taurek also count separate sufferers, so the refusal is P-AC3's aggregation step. The same gap sits in P-AC3 itself: it is recorded for positions-evolve and not minted. (2) The "resists knowledge" paragraph cites Small et al.'s debiasing without Maier et al.'s "no support for debiasing", and reads giving as feeling, against the article's own Butts distinction. (3) "One-subject-sized" equivocates between ownership and capacity. "The aggregate exists for calculation" is residue of the dropped line. (4) The empathy and voids-index seams make the structural face the cause of the plateau, and the self-maintained seam upgrades "suggested" to "shows". Driver guard otherwise holds: framework grounds are kept, the tracking reading is left unadopted and unrefuted, and no sentence reads the plateau as evidence on P-AC3.
+- **Priority list**: 4 items, all ready to mint. Items 1–3 go to the same file: +14 / +20 / +17 = +51 (→ 2,640; 359 headroom left), or +90 with optional 3-opt (proportion dominance is an error on both readings). Item 4 touches 4 sibling files and costs 0 here; voids-between-minds is at 2,985/3,000 and takes +2.
+- **Output**: [[reviews/pessimistic-2026-10-03-numbing-void]]
 
 ## 2026-10-03T23:14:29+00:00 - expand-topic
 - **Status**: Success
