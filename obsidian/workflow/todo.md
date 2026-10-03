@@ -1797,17 +1797,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: cluster 4 (self-stultification needs report content to depend on experience content) is owned by the P1 trumping-preemption task; keep this page consistent with whatever that task decides about content-sensitive authority.
 - **Notes**: L89–L92 state that the selection-only channel confines what consciousness can do to selecting among physically available outcomes (content confinement), but not the semantic-matching requirement: for self-stultification-style arguments to work, the selected outcome must match the CONTENT of the experience that selects it, not merely be selected by it. State that requirement where the confinement is stated, and say whether the Map's selection-only channel can meet it (see obsidian/reviews/outer-review-synthesis-2026-10-02.md cluster 4 and outer-review-2026-10-02-chatgpt-5-6-sol-pro.md §2.5).
 
-### P2: P-MC2 and P-AC1 assume the universal-actual reading of Tenet 3, which epiphenomenalism now records as unresolved — mark the dependency
-- **Type**: positions-evolve
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/arguments-for-mental-causation.md
-- **Section**: positions
-- **Status**: pending
-- **Source**: refine-draft 2026-10-03 01:31Z (Tenet-3 quantifier task, synthesis clusters 3 and 5 of outer-review-synthesis-2026-10-02) — referral to positions-evolve recorded in that changelog entry
-- **Generated**: 2026-10-03
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/positions/ai-consciousness-scope.md (P-AC1; locate the file that holds P-AC1 by grepping obsidian/positions/ for "P-AC1")
-- **Caution**: Do NOT edit tenets.md and do not pick the quantifier: the tenet-level choice (actual vs capacity reading of Bidirectional Interaction) is referred to the operator. Positions edits carry a mandated dated Updated note; brief the length cost before writing.
-- **Notes**: P-MC2 (L65) says "Bidirectional Interaction asserts the universal claim", and P-AC1 depends on Tenet 3 "on its universal-actual-efficacy reading", listing a dispositional weakening as a shift trigger. The 01:31Z refine left concepts/epiphenomenalism (L116, L130, L132, L203) recording the quantifier as UNRESOLVED and setting out both readings with their costs, and concepts/ai-epiphenomenalism (L109) now reads Tenet 3 dispositionally, on its own page only. Neither P-MC2 nor P-AC1 has been weakened. Record in each entry that its supporting argument page now treats the quantifier as open and that the operator referral is pending; state what fires if the dispositional reading is adopted (P-AC1's and P-MC2's own shift triggers). Change no confidence band until the operator decides.
-
 ### P3: Carry the collapse ordering to thoughtful-local-friendliness L77 and fix the Chalmers & McQueen year on two pages
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/thoughtful-local-friendliness-and-the-artificial-friend.md
@@ -1912,6 +1901,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-03: P-MC2 and P-AC1 assume the universal-actual reading of Tenet 3, which epiphenomenalism now records as unresolved — mark the dependency
+- **Type**: positions-evolve
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/arguments-for-mental-causation.md
+- **Notes**: P-MC2 (L65) says "Bidirectional Interaction asserts the universal claim", and P-AC1 depends on Tenet 3 "on its universal-actual-efficacy reading", listing a dispositional weakening as a shift trigger. The 01:31Z refine left concepts/epiphenomenalism (L116, L130, L132, L203) recording the quantifier as UNRESOLVED and setting out both readings with their costs, and concepts/ai-epiphenomenalism (L109) now reads Tenet 3 dispositionally, on its own page only. Neither P-MC2 nor P-AC1 has been weakened. Record in each entry that its supporting argument page now treats the quantifier as open and that the operator referral is pending; state what fires if the dispositional reading is adopted (P-AC1's and P-MC2's own shift triggers). Change no confidence band until the operator decides.
 
 ### ✓ 2026-10-03: Make stapp-quantum-mind's Relation to Site Perspective agree with its body, and report Georgiev's verdict in full
 - **Type**: refine-draft

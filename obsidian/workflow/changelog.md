@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T11:22:50+00:00
+ai_modified: 2026-10-03T11:41:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T11:41:09+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: update — [[positions/arguments-for-mental-causation|P-MC2]], [[positions/ai-consciousness-scope|P-AC1]]
+- **Task**: P2 "P-MC2 and P-AC1 assume the universal-actual reading of Tenet 3, which epiphenomenalism now records as unresolved — mark the dependency" (referral in the 01:31Z refine-draft entry below)
+- **Changes, P-MC2**: *Asserts* "Bidirectional Interaction asserts the universal claim" → "Bidirectional Interaction, on the register's actual-efficacy reading, asserts the universal claim" (+5). The flat sentence contradicted its first Argued-in page, concepts/epiphenomenalism L132 ("which the tenet carries is unresolved"). Funding: "The distance is real and stated rather than papered over:" → "The distance is real:" (−6). New Updated 2026-10-03 note: the quantifier is recorded as unresolved there, an operator referral is pending, *Asserts* names the reading used, and adopting the dispositional reading fires the Tenet-3-weakening trigger here and in P-AC1 (+40). Last reviewed 2026-08-02 → 2026-10-03.
+- **Changes, P-AC1**: *Asserts* already conditional ("That exclusion is conditional on the strong reading"), so untouched. New Updated 2026-10-03 note: concepts/epiphenomenalism records the quantifier as unresolved and cites this register for the actual reading; concepts/ai-epiphenomenalism reads it dispositionally on that page alone; the referral is pending; adopting the dispositional reading fires the trigger here and in P-MC2 (+49). Funding: the 2026-08-12 note's restatement of the five channel-test requirements and "four substrate classes" was cut, since *Depends on* still carries both (−13). Last reviewed 2026-08-20 → 2026-10-03.
+- **Calibration**: no band changed in either entry, pending the operator's decision (NEEDS-HUMAN 2026-08-17 in todo.md). *Depends on* and *Would shift if* unchanged in both. tenets.md not edited; quantifier not chosen.
+- **Length** (`analyze_length`; positions hard 2,500 / critical 4,000 at `>=`): arguments-for-mental-causation 3,253 → 3,292 (+39); ai-consciousness-scope 3,040 → 3,076 (+36). Both still hard_warning.
+- **Cascade (none fired; logged, not edited)**: if the operator adopts the dispositional reading, beyond the two triggers, re-audit P-MC3 (*Depends on* "P-MC2 (the universal reading this escape carries)"), the domain intro's foundational-dependency test (L44, "the universal claim Tenet 3 asserts", unqualified), and [[positions/arguments-for-dualism|P-D2]] L59. P-D2 L62 says the universal reading "does no work at this step" and survives either reading.
+- **Owed, not queued**: the 01:31Z referral also asked whether P-MC2's "two gap-closing legs" still transcribe concepts/epiphenomenalism, which now scopes both legs (MQI "says where influence could enter, not that every subject has an interface"; the evolutionary arguments "support efficacy only where selection shaped consciousness"). P-MC2's *Asserts* frames the legs as what the universal reading rests on, which is compatible, but the *Depends on* label "gap-closing" sits awkwardly beside the page's "outruns its support". This is an audit item, outside this task's scope.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T11:22:50+00:00 - refine-draft
 - **Status**: Success
