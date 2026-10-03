@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 00:52:53+00:00
+ai_modified: 2026-10-03 01:11:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 00:52:53+00:00
+lastmod: 2026-10-03 01:11:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T01:11:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Task**: P1 "Bring post-decoherence-selection into line with prebiotic-collapse on who actualises the outcome" (synthesis cluster 2 of [outer-review-synthesis-2026-10-02](/reviews/outer-review-synthesis-2026-10-02/); ChatGPT §5 row 1 and §7.3, Claude N2).
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Ordering stated once** (lead): the Map holds ChatGPT's second ordering, the one [prebiotic-collapse](/concepts/prebiotic-collapse/) L130 already records. Objective reduction fixes when, where and in which basis every collapse occurs, and which outcome actualizes wherever no interface is present. In an interface-grade brain, consciousness preempts that token selection inside the Born corridor, leaving the unconditioned Born statistics intact. The priority between the two processes is linked as an open debt via `[[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]` (the anchor form already used on thoughtful-local-friendliness L81), with no claim to discharge it. The sibling evolution-of-consciousness carry has not run yet; it should reuse this ordering sentence and anchor form.
+- **Changes** (located by text; locus labels as in the task):
+  - (a) L3 description: "This gap in physics is where the Map locates consciousness's causal role" became "On the Map's view, objective reduction normally does it; in interface-grade brains, consciousness preempts that selection." The lead's "central opportunity … precisely where consciousness could act without violating known physics" became the statement that an interpretive gap leaves no dynamical room unless actualization is a real physical event, followed by the ordering.
+  - (b) L104: "the physical formalism terminates at an improper mixture, and something non-physical actualizes the outcome" became: unitary evolution ends at an improper mixture, objective reduction ordinarily actualizes one outcome, and in an interface-grade brain something non-physical preempts that physical selection inside the Born corridor. "Reinforces" became "gives it a physical point of contact".
+  - (c) L106: the "more cleanly than any competing framework" comparison and the "ad hoc … none experimentally confirmed" dismissal are gone. The Map now *adopts* objective reduction, owns its costs (fitted parameters, no confirmation yet) and adds an interface clause; the minimality claim attaches to that clause only. The paragraph now cites the corridor as the reading Tenet 2's empirical-constraint minimality endorses (tenets.md L69/L71), calls outside-corridor readings fallbacks (L81), and says only a deviation conditioned on intention, task or subject could test the corridor ([P-Q3](/positions/quantum-interface/#p-q3)). The hidden-variable sentence is dropped here because L108 and L114 already cover Bohm.
+  - (d) L108: "fail most decisively" became "part from the Map most sharply". "Objective collapse makes consciousness a spectator" became "Objective collapse without an interface clause …", and the paragraph adds that the Map keeps those dynamics as its baseline. The closing sentence is scoped to an interface-grade brain. L114: the rival is "objective collapse without an interface clause". "Failing Dualism and Bidirectional Interaction" became "failing Bidirectional Interaction and leaving Dualism without a physical point of contact", because objective collapse alone does not contradict irreducibility. Consciousness-mediated selection is described as grafted onto an objective-reduction baseline.
+  - (e) L96: "with consciousness modulating rather than initiating" became: consciousness initiates no collapse and, where a brain supplies the interface, preempts the baseline's token selection inside the Born corridor, under a priority law still owed. L116: "consciousness modulates this process locally" became preemption inside the corridor "rather than modulating collapse rates or locations" (Claude N2's first horn). The Completeness Tension link carries the debt: no combined law says which transition acts first or how the ordering is fixed for spacelike-separated events, and a selection that leaves no ensemble signature has not been shown to be causal work rather than invisible authorship (Claude N2's second horn).
+  - Extra locus, same finding: in the Five Families section (L74), "Crucially, objective collapse makes outcome selection a purely physical process" became "Taken alone, …", followed by "The Map adopts it as baseline, adding an interface clause."
+- **Engagement classification** (editor-internal; not in the article): objective collapse is a framework-boundary engagement (Mode Three). The page now rejects only objective collapse without an interface clause, and only relative to Tenet 3, which L114 already frames as a consistency check. The earlier quasi-in-framework dismissal ("ad hoc … none experimentally confirmed") undercut the Map's own baseline and is withdrawn. The Bohm engagement is unchanged (structural: no indeterminacy to select from).
+- **Length** (`analyze_length`): 2,879 → 3,141 (+262; concepts hard gate 3,500 with `>=`, 358 headroom left). Every locus was a replacement; the growth comes from the lead's ordering sentence and the debt statement at L116.
+- **Not touched**: [prebiotic-collapse](/concepts/prebiotic-collapse/) (the source of record), stapp-quantum-mind L45, todo.md.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T00:52:53+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **32nd consecutive**, the expected steady state.
