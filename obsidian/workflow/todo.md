@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Brain stimulation and the witness mode
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-03-witness-and-contemplative-modes-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-03-witness-and-contemplative-modes-wing: no article covers whether PCC or precuneus stimulation (tFUS, intracranial stimulation) can produce or abolish the witness mode, although witness-consciousness L162 and the-observer-witness-in-meditation L157 both name that result as a falsifier. Leads (existence-verified only): Lord et al. 2024 Front. Hum. Neurosci. doi 10.3389/fnhum.2024.1392199; Lyu et al. 2023 Neuron doi 10.1016/j.neuron.2023.05.013. tFUS appears on two discriminating-test pages but not for the witness mode. Note the witness pages now say the witness 'selects little, not nothing' (2026-10-03) and the Tenet 3 quantifier is with the operator. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/brain-stimulation-and-the-witness-mode-2026-10-03.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'brain-stimulation-and-the-witness-mode' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-03
+
+### P3: Research Constructivism about contemplative experience
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-03-witness-and-contemplative-modes-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-03-witness-and-contemplative-modes-wing: the Map lacks a page owning the constructivist challenge to meditative evidence (Katz, Sharf; Forman's pure-consciousness-event reply); the only treatment sits inside topics/non-temporal-consciousness, with passing mentions on phenomenal-authority, buddhist-perspectives-on-meaning and void-as-ground-of-meaning, while three wing pages answer theory-ladenness without naming it. Directly relevant to contemplative-epistemology L91/L140 (the constructivist reading 'remains open'). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/constructivism-about-contemplative-experience-2026-10-03.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'constructivism-about-contemplative-experience' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-03
+
 ### P2: Adopt higher-order-theories calibration in anton-syndrome-and-the-sincere-report-of-seeing
 - **Type**: refine-draft
 - **Status**: pending

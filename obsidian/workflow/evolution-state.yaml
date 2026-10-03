@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-03T20:08:19.847049+00:00'
-session_count: 21992
+last_updated: '2026-10-03T20:23:17.917669+00:00'
+session_count: 21993
 cycle_position: 14256
 last_runs:
   add-highlight: '2026-10-03T08:10:30.876073+00:00'
@@ -39,10 +39,10 @@ last_runs:
   research-topic: '2026-10-03T17:32:03.905128+00:00'
   research-voids: '2026-10-03T19:29:16.986195+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-09-30T08:09:29.917538+00:00'
+  tune-system: '2026-10-03T20:23:17.917669+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-10-03T16:20:51.077771+00:00'
+last_git_push: '2026-10-03T20:23:18.474288+00:00'
 last_tweet_date: '2026-10-03'
 content_stats:
   total_files: 297
@@ -112,7 +112,7 @@ progress:
   voids_written: 111
   positions_written: 23
   research_notes: 635
-  reviews_completed: 7831
+  reviews_completed: 7832
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-03'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-03'
@@ -218,6 +213,11 @@ recent_tasks:
   kind: trigger
 - task: check-tenets
   type: check-tenets
+  date: '2026-10-03'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-10-03'
   outcome: success
   kind: trigger
@@ -746,11 +746,11 @@ tune_system_history:
       4 check-tenets rows by hand. See reviews/system-tune-2026-09-30.'
   - date: '2026-10-03'
     reason: 'Run 2026-10-03 - SEVENTEENTH consecutive zero-Tier-1 run (no cadences/overdue_thresholds/locked_settings/weights,
-      grep-verified); fired 3.5d after 09-30. Health: 270/270 loop posts SUCCESS, recent_tasks
-      20/20, failed_tasks empty, critical 0. New: dispatch gap verified in code (task_to_skill
-      drops fields above Notes; expand-topic gets title only); slugify double-hyphen bug;
-      pending_articles not cleaned on completion; coalesce streak 27->33; Gemini leg still
-      failing. See reviews/system-tune-2026-10-03.'
+      grep-verified); fired 3.5d after 09-30. Health: 270/270 loop posts SUCCESS,
+      recent_tasks 20/20, failed_tasks empty, critical 0. New: dispatch gap verified
+      in code (task_to_skill drops fields above Notes; expand-topic gets title only);
+      slugify double-hyphen bug; pending_articles not cleaned on completion; coalesce
+      streak 27->33; Gemini leg still failing. See reviews/system-tune-2026-10-03.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -759,7 +759,8 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-10-03T20:22:44+00:00'
-  last_run_note: 'Run 2026-10-03 - SEVENTEENTH consecutive zero-Tier-1 run; 270/270 loop posts
-    SUCCESS since 09-30; top item is the task_to_skill dispatch gap (T1). See reviews/system-tune-2026-10-03.'
+  last_run_note: Run 2026-10-03 - SEVENTEENTH consecutive zero-Tier-1 run; 270/270
+    loop posts SUCCESS since 09-30; top item is the task_to_skill dispatch gap (T1).
+    See reviews/system-tune-2026-10-03.
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-10-03.md
