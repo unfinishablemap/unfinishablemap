@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-08-13 09:24:49+00:00
+ai_modified: 2026-10-03 14:44:04+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-13 17:57:17+00:00
-lastmod: 2026-08-13 09:24:49+00:00
+lastmod: 2026-10-03 14:44:04+00:00
 modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
@@ -86,7 +86,7 @@ Q1's authority-law debt has an epistemological counterpart at [phenomenal author
 
 ## Q2: Min-Mind / Max-Physical — The Exclusion Debt {#q2}
 
-Q2 inhabitants — epiphenomenalism (Chalmers' Type-E), textbook property dualism, Stoljar's epistemic physicalism, Bohmian physicalism with thin qualia — keep the mental thin while letting physical ontology expand.
+Q2 inhabitants — epiphenomenalism (Chalmers' Type-E), textbook property dualism, [Stoljar's epistemic physicalism](/concepts/ignorance-hypothesis/) (a physicalist limit case, to which the exclusion debt below does not attach), Bohmian physicalism with thin qualia — keep the mental thin while letting physical ontology expand.
 
 **Causation account.** Under the strict reading — phenomenal properties supervene on a physically complete base — the mind seems to owe *no* causation account at all, because it does no causal work on this reading. This is plausibly the position's distinguishing feature. The cell's debt is therefore not a mechanism debt but what may be characterised as a *bidirectional-interaction* debt: in the Map's framework, this cell is ruled out by Tenet 3. Outside the Map's tenets, Jaegwon Kim's (2005) exclusion argument presses an analogous concern from within physicalism: if the physical base is sufficient, mental properties either overdetermine effects (which physicalists may find costly) or do nothing (which dualists could find evasive). Any Q2 reading that wants to preserve mental causation appears to drift toward Q1 by adding indeterminacy or toward Q4 by enriching the mental side.
 

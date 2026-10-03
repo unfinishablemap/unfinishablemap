@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T14:29:26+00:00
+ai_modified: 2026-10-03T14:44:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T14:44:04+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Ignorance Hypothesis (Stoljar's epistemic view; type-C, not type-F; what Tenet 5 grants it)
+- **Output**: [[concepts/ignorance-hypothesis]]
+- **Word count**: 2,889 (`analyze_length`, references included; concepts soft 2,500 / hard 3,500; soft_warning, under the ~3,000 total ceiling the task set)
+- **Based on research**: yes, [[research/ignorance-hypothesis-2026-10-03]]
+- **Spine**: Stoljar's formulation (OUP introduction abstract, labelled as such) and E1/E2; type-C by Chalmers's own type-C clause, Stoljar's 2020 self-filing and McClelland 2020, with Chalmers's type-F filing confined to Stoljar 2001 (re-verified against the CPN bibliography: "Two conceptions of the physical", *PPR* 62) and the Chalmers type-C filing given "on Stoljar's reading" (2013 n. 29); collapse into F reported as Chalmers's argument, not a filing; why it is the hardest opponent (physical-side, survives every phenomenal-concepts variant, P-D2 selector idle); what does not answer it (acquaintance, "all the physics", persistence, "hard to see how", unfalsifiability with the Tenet 2 "consistency claim" symmetry caution); what reaches it (conceptual hook read on the consciousness side, structure and dynamics with Stoljar's three readings and physical-completeness's "bet", precedent disanalogy via vitalism labelled the Map's use, "you're not done"), all defeater-removal or dialectical under P-M1; Tenet 5 grants E2 and contests E1, with the content-of-ignorance contrast (non-experiential truths versus route-4 selection) labelled the Map's own analysis; tier *compatible*, below the routing page's general Type-C *suggestive*.
+- **Q2**: two sentences flag the four-quadrant entry as a physicalist limit case; the exclusion debt and Tenet-3 ruling do not attach, Tenet 1 is the operative exclusion. The Map label "Stoljar's epistemic physicalism" appears once.
+- **Attribution**: slugs-and-tiles and the "appears possible" reading not used; *John is a number* attributed to Papineau's review; Kind's objections attributed as summarised in Stoljar's 2023 reply abstract; Alter, Bennett, Levine and Gertler cited as existing critiques only, no arguments reported; Stoljar 2015 and Doggett & Stoljar 2010 not cited; Four Kinds cited to the Kriegel volume pp. 17–39 with preprint pagination.
+- **Integration** (`analyze_length` before → after): [[concepts/type-a-type-b-and-type-c-physicalism]] 2,818 → 2,830 (L75 zero-word pipe on "ignorance hypothesis"; Further Reading line; L123 untouched); [[concepts/physical-completeness]] 2,703 → 2,728 (one-sentence pointer closing L90); [[concepts/russellian-monism]] 2,949 → 2,963 (Further Reading line); [[topics/mechanism-costs-dualism-thickness-quadrants]] 3,303 → 3,316 (L85 pipe plus one-clause flag that the exclusion debt does not attach); [[topics/four-quadrant-dualism-taxonomy]] 4,003 → 4,003 (L102 zero-word pipe only); [[apex/dualism-cartography]] 5,185 → 5,185 (L69 zero-word pipe only). Not edited: concepts/mysterianism (optional; no hook phrase a zero-word pipe could carry without mislabelling temporary mysterianism as Stoljar's view), positions/arguments-for-dualism, concepts/knowledge-argument, concepts/explanatory-gap, concepts/philosophical-zombies, concepts/zombie-master-argument, concepts/primitive-identities-and-strong-necessities (linked from Further Reading only).
+- **Apex sources**: none (no apex lists the new page).
 
 ## 2026-10-03T14:29:26+00:00 - deep-review
 - **Status**: Success

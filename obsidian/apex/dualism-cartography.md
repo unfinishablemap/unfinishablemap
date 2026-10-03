@@ -3,7 +3,7 @@ title: "Dualism Cartography"
 created: 2026-06-03
 modified: 2026-06-03
 human_modified: null
-ai_modified: 2026-09-21T13:54:24+00:00
+ai_modified: 2026-10-03T14:44:04+00:00
 draft: false
 topics:
   - "[[dualism]]"
@@ -66,7 +66,7 @@ Dualist positions are usually sorted by the *kind* of mind–matter relation the
 Crossing the extremes gives the four cells:
 
 - **Q1 (min-mind / min-physical):** *"Only what we need, on both sides, and no more."* Bradford Saad's delegatory dualism, minimal interactionism confined to indeterminacy, neutral-monist limit cases.
-- **Q2 (min-mind / max-physical):** *"A thin mental surface over a rich physical world."* Epiphenomenalism, textbook property dualism, Stoljar's epistemic physicalism, Bohmian physics with thin qualia.
+- **Q2 (min-mind / max-physical):** *"A thin mental surface over a rich physical world."* Epiphenomenalism, textbook property dualism, [[ignorance-hypothesis|Stoljar's epistemic physicalism]], Bohmian physics with thin qualia.
 - **Q3 (max-mind / min-physical):** *"A rich mental reality; physics is just how it looks from outside."* Berkeley, Kastrup's analytic idealism, Myers–James subliminal-mind views with lean physics—mostly monist limit cases that illuminate what an adjacent dualism would commit to.
 - **Q4 (max-mind / max-physical):** *"Two rich realms, genuinely distinct, genuinely interacting."* Cartesian substance dualism, hylomorphism, Stapp's quantum interactive dualism, Goff's priority cosmopsychism.
 

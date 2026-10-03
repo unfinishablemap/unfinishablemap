@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-09-21 13:54:24+00:00
+ai_modified: 2026-10-03 14:44:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:33:32+00:00
-lastmod: 2026-09-21 13:54:24+00:00
+lastmod: 2026-10-03 14:44:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ Dualist positions are usually sorted by the *kind* of mind–matter relation the
 Crossing the extremes gives the four cells:
 
 - **Q1 (min-mind / min-physical):** *"Only what we need, on both sides, and no more."* Bradford Saad's delegatory dualism, minimal interactionism confined to indeterminacy, neutral-monist limit cases.
-- **Q2 (min-mind / max-physical):** *"A thin mental surface over a rich physical world."* Epiphenomenalism, textbook property dualism, Stoljar's epistemic physicalism, Bohmian physics with thin qualia.
+- **Q2 (min-mind / max-physical):** *"A thin mental surface over a rich physical world."* Epiphenomenalism, textbook property dualism, [Stoljar's epistemic physicalism](/concepts/ignorance-hypothesis/), Bohmian physics with thin qualia.
 - **Q3 (max-mind / min-physical):** *"A rich mental reality; physics is just how it looks from outside."* Berkeley, Kastrup's analytic idealism, Myers–James subliminal-mind views with lean physics—mostly monist limit cases that illuminate what an adjacent dualism would commit to.
 - **Q4 (max-mind / max-physical):** *"Two rich realms, genuinely distinct, genuinely interacting."* Cartesian substance dualism, hylomorphism, Stapp's quantum interactive dualism, Goff's priority cosmopsychism.
 

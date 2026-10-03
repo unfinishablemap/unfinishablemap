@@ -4,7 +4,7 @@ description: "Chalmers's three physicalist replies to the explanatory gap, route
 created: 2026-10-02
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-03T09:44:24+00:00
+ai_modified: 2026-10-03T14:44:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ Chalmers argues that the type-C view is "inherently unstable": it "must collapse
 3. Closure by a complete physics that includes the intrinsic natures of physical things is type-F.
 4. Closure by future physics "appealing to consciousness itself, in the way that some theorists hold that quantum mechanics does" makes consciousness irreducible: type-D or type-F.
 
-Behind the routes lies the claim that physical descriptions are structural and dynamical, and "from structure and dynamics, one can infer only structure and dynamics"; intermediate notions such as representation close the gap only by equivocation. Hence: "So in the end, there is no separate space for the type-C materialist." Type-C materialists can dispute the structure-and-dynamics premise, as Chalmers himself notes, so the Map reports the collapse as Chalmers's argument, not a settled result. The third route is also less of a defeat than it sounds: Chalmers files views that expand "our view of the physical base to include underlying intrinsic properties", Daniel Stoljar's among them, under type F, which from one perspective "can be seen as a sort of materialism". Stoljar's later ignorance hypothesis (2006), which traces the problem to ignorance of relevant physical facts, keeps the type-C hope alive in physicalist terms.
+Behind the routes lies the claim that physical descriptions are structural and dynamical, and "from structure and dynamics, one can infer only structure and dynamics"; intermediate notions such as representation close the gap only by equivocation. Hence: "So in the end, there is no separate space for the type-C materialist." Type-C materialists can dispute the structure-and-dynamics premise, as Chalmers himself notes, so the Map reports the collapse as Chalmers's argument, not a settled result. The third route is also less of a defeat than it sounds: Chalmers files views that expand "our view of the physical base to include underlying intrinsic properties", Daniel Stoljar's among them, under type F, which from one perspective "can be seen as a sort of materialism". Stoljar's later [[ignorance-hypothesis|ignorance hypothesis]] (2006), which traces the problem to ignorance of relevant physical facts, keeps the type-C hope alive in physicalist terms.
 
 If the argument holds, defeating A and B suffices against physicalism as Chalmers bounds it; the physicalist who takes the third route keeps the name, and the Map answers that view in [[russellian-monism]]. Replies aimed only at Type-C keep one use: making the opponent say which of A, B, D or F they hold. The fourth route also lands on the Map. Chalmers's type-D dualist holds that "there are causal gaps in microphysical dynamics that are filled by a causal role for distinct phenomenal properties". [[tenets#^minimal-quantum-interaction|Tenet 2]] and [[tenets#^bidirectional-interaction|Tenet 3]] place consciousness's causal role in such gaps, at quantum indeterminacy, so by Chalmers's own definition the Map is type-D, and the physics of the fourth route is the kind Tenet 2 posits. The point is dialectical and earns no evidence: nothing of the kind has been found.
 
@@ -140,6 +140,7 @@ The ladder is the one in [[inference-to-the-best-explanation-against-dualism]]: 
 - [[conceivability-possibility-inference]] — the link Type-B denies
 - [[primitive-identities-and-strong-necessities]] — the cost Chalmers charges Type-B, and what it buys the Map
 - [[russellian-monism]] — type-F, the two-dimensional argument's exit
+- [[ignorance-hypothesis]] — Stoljar's type-C view and what the Map grants it
 - [[concepts/materialism]] — materialism's varieties and responses
 
 ## References

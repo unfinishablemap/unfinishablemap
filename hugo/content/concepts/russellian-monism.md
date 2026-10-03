@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-02 11:58:46+00:00
+ai_modified: 2026-10-03 14:44:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-10-02 11:58:46+00:00
+lastmod: 2026-10-03 14:44:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -160,6 +160,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - [combination-problem](/concepts/combination-problem/) — The central challenge for Russellian panpsychism
 - [illusionism](/concepts/illusionism/) — The rival view denying phenomenal properties
 - [mysterianism](/concepts/mysterianism/) — Whether cognitive closure explains the combination problem
+- [ignorance-hypothesis](/concepts/ignorance-hypothesis/) — Stoljar's epistemic view, which treats the Russellian version as one species
 - [reflexive-methodology](/concepts/reflexive-methodology/) — The Map's method: Cutter's instability as its transcendental-recoil instance
 
 ## References

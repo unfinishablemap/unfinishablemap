@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-09-01T13:49:53+00:00
+ai_modified: 2026-10-03T14:44:04+00:00
 draft: false
 topics:
   - dualism
@@ -99,7 +99,7 @@ Q1 is attractive to philosophers who want to keep dualism while paying minimal o
 
 - **Epiphenomenalism (Chalmers' Type-E)**: phenomenal properties float inertly above a complete physical story. Max-physical because physical closure is full; min-mind because the mental carries zero causal weight.
 - **Textbook property dualism**: Jackson's original knowledge-argument stance and some readings of Chalmers' naturalistic dualism treat qualia as real properties supervening on physics, which carries all the ontological weight (see [[substance-property-dualism]]).
-- **Stoljar's epistemic physicalism** (2006): thin mind (no extra ontology beyond the physical) combined with thick physical because there are non-experiential facts we are currently ignorant of. Stoljar's stated aim is to save physicalism.
+- **[[ignorance-hypothesis|Stoljar's epistemic physicalism]]** (2006): thin mind (no extra ontology beyond the physical) combined with thick physical because there are non-experiential facts we are currently ignorant of. Stoljar's stated aim is to save physicalism.
 - **Bohmian physicalism plus thin qualia**: hidden variables carry the weight; phenomenal properties are an epiphenomenal overlay.
 
 Q2 functions as the dialectical default for non-reductive positions in contemporary analytic philosophy of mind — the reflex setting when physicalism feels too strong but full interactionism feels too much. It preserves "intellectual modesty" on the mind-side while allowing full scientific commitment on the physical-side — a combination that feels virtuous in a materialist-leaning discipline. The pull is not merely cultural: physical science has delivered well-tested structure in a way that phenomenal ontology has not, and epistemic weighting can reasonably follow. Many self-described dualists in recent decades sit nearer this quadrant than Q4.
