@@ -1,10 +1,14 @@
-last_updated: '2026-10-03T20:50:38.384641+00:00'
-session_count: 21995
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-10-03T21:07:55.131513+00:00'
+session_count: 21996
 cycle_position: 14256
 last_runs:
   add-highlight: '2026-10-03T08:10:30.876073+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-03T21:07:38.293125+00:00'
+  agentic-social: '2026-10-03T21:07:55.131513+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
   check-links: '2026-10-03T19:09:30.428133+00:00'
   check-model-fallback: '2026-10-03T20:50:38.384641+00:00'
@@ -117,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-03'
-  outcome: success
-  kind: cycle
 - task: expand-topic
   type: expand-topic
   date: '2026-10-03'
@@ -217,6 +216,11 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-03'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
@@ -724,6 +728,8 @@ task_chains:
     target_section: voids
   - research_file: obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md
     target_section: concepts
+  - research_file: obsidian/research/brain-stimulation-and-the-witness-mode-2026-10-03.md
+    target_section: topics
   pending_cross_reviews: []
 tune_system_history:
   no_change_runs:

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T20:22:44+00:00
+ai_modified: 2026-10-03T21:36:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T21:36:23+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Brain stimulation and the witness mode
+- **Output**: [[research/brain-stimulation-and-the-witness-mode-2026-10-03]]
+- **Sources consulted**: 21 cited (8 full text, 11 abstract, 2 metadata-only); about 40 records screened via Europe PMC, NCBI, Crossref, OpenAlex, OSF and the bioRxiv API (0 WebSearch calls; session budget exhausted)
+- **Verdict**: PROCEED (standalone topics/ article, 2,400–3,000 words). Closest approach to the witness-consciousness L162 / observer-witness L157 falsifier is a single intracranial case (Parvizi et al. 2021 = the Vesuna et al. 2020 patient; count once). PCC tFUS trials have not separated from sham on phenomenology (Lord 2024 between-group null; Ehmann 2025 open-label; Lord 2026 abstract only). No result separates the interface reading from production or the beautiful loop, and the falsifier as worded tests training-dependence, which the interface reading does not entail. Tenet 3 quantifier left with the operator.
+- **Chain**: task_chains.pending_articles entry added (target topics); P2 expand-topic minted before `## Completed Tasks` (parse_tasks active 70 → 71)
 
 ## 2026-10-03T20:22:44+00:00 - tune-system
 - **Status**: Success
