@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-30 21:39:17+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-03 01:29:57+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
 - /arguments/interactionist-dualism/
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:47:57+00:00
-lastmod: 2026-09-30 21:39:17+00:00
+lastmod: 2026-10-03 01:29:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ Seven arguments bear on the interactionist conclusion, though not as seven indep
 
 5. **[Intentionality](/concepts/intentionality/)**: Mental states are *about* things; physical states are not intrinsically about anything. No physical account successfully reduces aboutness.
 
-6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [evolutionary evidence](/concepts/consciousness-as-amplifier/) reinforces this: phenomenal valence tracks fitness too precisely to be causally inert.
+6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [evolutionary evidence](/concepts/consciousness-as-amplifier/) reinforces this: phenomenal valence tracks fitness too precisely to have been causally inert wherever selection shaped it.
 
 7. **Quantum Indeterminacy**: Classical physics was deterministic, leaving no room for mental causation. Quantum mechanics is indeterministic—collapse into definite outcomes remains unexplained. Consciousness selecting among undetermined outcomes requires no energy injection, addressing the conservation objection—though *how* a selection biases outcomes without deviating from Born statistics remains the interface's central unpaid debt (see [mechanism debt](/positions/quantum-interface/#mechanism-debt), graded contested).
 
