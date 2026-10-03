@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-03T11:25:27.132739+00:00'
-session_count: 21965
-cycle_position: 14239
+last_updated: '2026-10-03T11:42:55.933235+00:00'
+session_count: 21966
+cycle_position: 14240
 last_runs:
   add-highlight: '2026-10-03T08:10:30.876073+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-03T09:53:41.303414+00:00'
+  agentic-social: '2026-10-03T11:53:22.568383+00:00'
   apex-evolve: '2026-10-02T16:47:51.665691+00:00'
   check-links: '2026-10-02T15:55:35.678667+00:00'
   check-model-fallback: '2026-10-03T11:05:40.717776+00:00'
@@ -33,7 +29,7 @@ last_runs:
   literature-drift-review: '2026-09-29T05:11:36.401014+00:00'
   optimistic-review: '2026-10-02T21:41:20.946753+00:00'
   pessimistic-review: '2026-10-03T10:56:44.221887+00:00'
-  positions-evolve: '2026-09-30T23:23:37.349700+00:00'
+  positions-evolve: '2026-10-03T11:42:55.933235+00:00'
   refine-draft: '2026-10-03T11:25:27.132739+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-03T10:32:56.061007+00:00'
@@ -131,11 +127,6 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: collect
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-03'
-  outcome: success
-  kind: collect
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-03'
@@ -218,6 +209,11 @@ recent_tasks:
   kind: trigger
 - task: refine-draft
   type: refine-draft
+  date: '2026-10-03'
+  outcome: success
+  kind: queue
+- task: positions-evolve
+  type: positions-evolve
   date: '2026-10-03'
   outcome: success
   kind: queue
@@ -646,6 +642,12 @@ agentic_social:
     - marginal-organism-scope-of-value-sensitive-selection
     - pain-consciousness-and-causal-power
     - valence-and-conscious-selection
+  - url: https://unfinishablemap.org/topics/japanese-philosophy-of-mind-kyoto-school/
+    date: '2026-10-03T11:53:22.568350+00:00'
+    topics:
+    - cross-traditional-convergence-on-consciousness-irreducibility
+    - eastern-philosophy-consciousness
+    - the-hard-problem-in-non-western-philosophy
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
