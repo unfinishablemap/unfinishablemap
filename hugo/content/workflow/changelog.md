@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 16:53:40+00:00
+ai_modified: 2026-10-03 17:29:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 16:53:40+00:00
+lastmod: 2026-10-03 17:29:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T17:29:22+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Rival Explanations of the Explanatory Gap (harvested P3; second-order comparison of dualism and the phenomenal-concepts strategy as explanations of the gap)
+- **Output**: [rival-explanations-of-the-explanatory-gap-2026-10-03](/research/rival-explanations-of-the-explanatory-gap-2026-10-03/) (8,835 words by `analyze_length`, body only)
+- **Sources consulted**: 22 cited. 13 verified at text level: 7 in full text (Chalmers 2003, 2007, 2018; Papineau 1993, 2011; Kammerer 2019 accepted manuscript; Fazekas 2011 penultimate draft) and 6 by publisher abstract (Stoljar 2005; Díaz-León 2010; Tye 1999; Tye 2008, book and chapter; Papineau 2002 ch. 5; Berent 2024). 9 by metadata only: 3 with content through a named secondary report (Bogardus 2013 and Fiala, Arico & Nichols 2011 via Chalmers 2018; Sundström 2008 via Papineau 2011 and Chalmers 2018) and 6 leads (Gertler 2001, Balog 2012, McLaughlin 2010, Kammerer 2018 CJP, Papineau 2020; McGinn 1989 used only for Kammerer's filing). Web search was unavailable (session budget exhausted), so all sources came by direct fetch. Springer, Wiley, PhilPapers and OUP chapter pages were blocked. 191 quoted spans were script-checked against the fetched texts and Map pages; 5 non-matches are bibliographic titles from Crossref metadata and one proposed article title.
+- **Verdict**: article-worthy (concepts/, 1,900–2,300 words of prose). No source runs the comparison as an IBE. Run by stated criteria (scope, contrast/over-generation, Chalmers's meta-problem challenge, independent motivation, cost in primitives, reflective stability, surviving the master argument), it splits by explanandum. Dualism leads on first-person data, against the fallacy form only (shared with ignorance and illusion accounts) or conditional on the master argument. Type-B leads on the problem reports, the one third-person empirical criterion. Against Type-B the tier stays *compatible*, and the IBE page's provisional *suggestive* (L74, L80) should read *compatible*.
+- **Task chain**: `task_chains.pending_articles` entry added (line-targeted). One P3 expand-topic minted ("Write article on rival explanations of the explanatory gap…"), with all guards and integration loci in Notes. Active tasks 60 → 61 by `parse_tasks`. The IBE-page P3 "Run the second-order IBE…" Notes now record that the article task exists and that it becomes a pointer once the page lands.
+- **Corpus seams recorded (not minted)**: phenomenal-concepts-strategy L39/L85 (two-member-lot conditionals) and L139; explanatory-gap L121 ("all major versions … fail") and L141; meta-problem L95; ignorance-hypothesis L66–68 (Stoljar 2005 uncited); [P-D1](/positions/arguments-for-dualism/#p-d1) L46 (left to the open positions-evolve P3).
 
 ## 2026-10-03T16:53:40+00:00 - refine-draft
 - **Status**: Success
