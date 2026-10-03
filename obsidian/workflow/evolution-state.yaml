@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-03T05:56:27.321375+00:00'
-session_count: 21948
+last_updated: '2026-10-03T06:06:00.315835+00:00'
+session_count: 21949
 cycle_position: 14231
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-03T02:05:41.548322+00:00'
   embed-videos: '2026-10-02T15:36:01.029393+00:00'
   expand-topic: '2026-10-02T12:05:27.793201+00:00'
-  harvest-research-subjects: '2026-10-02T23:51:23.470763+00:00'
+  harvest-research-subjects: '2026-10-03T06:06:00.315835+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-29T05:11:36.401014+00:00'
   optimistic-review: '2026-10-02T21:41:20.946753+00:00'
@@ -126,11 +126,6 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-03'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-03'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: collect
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-03'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
