@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T13:55:36+00:00
+ai_modified: 2026-10-03T14:10:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T14:10:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/authority-of-form]]
+- **Original score**: n/a (targeted calibration and fidelity fix; `scripts/curate.py` absent)
+- **Review**: [[reviews/deep-review-2026-10-03-carrolls-regress]] section "Apex agreement"
+- **Changes**: The apex now matches concepts/carrolls-regress (not edited) on three points. The regress claim is scoped to the inferentialist reading, the Polanyi quote is verbatim, and the taking gloss is no longer attributed to Engel.
+  - Tenet 5 paragraph (L126): "because here the simplest account has been shown insufficient in the simplest account's own medium. "Inference is rule-following" is defeated by a two-page regress;" → "because here simple accounts fail, or are argued to fail, in their own medium. Carroll's regress shows "inference is rule-following" incomplete on the inferentialist reading;". The opening clause no longer claims the regress has shown anything outright; it now matches the apex's own L122 and the concept page's "argued to be incomplete on the inferentialist reading". "Two-page" was wrong (Mind 4(14), 278–280, three pages). It is replaced by "Carroll's regress" because the paragraph never names Carroll.
+  - L94: Polanyi "we know more than we can tell" → "we can know more than we can tell" (The Tacit Dimension p. 4, verified 2026-10-03). Offset in the same paragraph: "instructive precisely because" → "instructive because".
+  - L66: "What makes a proposition *function as* a rule ... is precisely the taking of the premises as licensing the conclusion—and that taking is what the regress shows no addition of explicit rules can supply." → "On the Map's reading, what makes a proposition *function as* a rule ... is the taking of the premises as licensing the conclusion (Boghossian's *taking condition*), which no addition of explicit rules can supply." Engel is credited only with the relabelling claim, the term "taking" goes to Boghossian, and the no-augmentation claim is labelled as the Map's. Offset: "scopes the charge with care:" → "scopes the charge:".
+  - Reference 3 (Engel): "HAL working paper hal-03675073v1" → "(2016) ... *The Carrollian*, 28, 84–111". The HAL API record is a journal article (docType ART), The Carrollian, 2016, pp. 84–111. Volume 28 comes from concepts/carrolls-regress ref 5; the HAL record has no volume field.
+  - Reasoning mode: engagement with the proof-theoretic deflationist. L66 is mixed: the agent-reasoning limb identifies an unsupported foundational move (the partition helps itself to taking-as), and the calculus limb marks a boundary. L126 had let the inferentialist reading's result stand in for a defeat of the deflationist. It is now boundary-marked by scoping the claim, with no new argument added.
+  - Not changed (reported): unscoped regress claims at L50 and in `apex_thesis` ("No augmentation of explicit rules produces the taking-as ... that is the case against reduction"), L74 ("That much the wing establishes"), L104 ("each a demonstration"), and L118 ("all of them establishing an articulation limit"). L94 "in its epistemic register, establishes" was left because the review accepted it as the concept page's register split. No other "two-page" anywhere in the corpus. Boghossian is now named with no References entry (Boghossian 2014, Philosophical Studies 169(1), 1–18 is carrolls-regress ref 11). Adding it costs +11 words. Polanyi tagline siblings that are out of scope: voids/inference-void L61 (quoted and attributed to "The Logic of Tacit Inference") and voids/tacit-integration-void L107.
+  - Words (`analyze_length`): 4,166 → 4,166 (apex soft 4,000, hard 5,000; soft_warning).
+- **Published**: yes
 
 ## 2026-10-03T13:55:36+00:00 - refine-draft
 - **Status**: Success
