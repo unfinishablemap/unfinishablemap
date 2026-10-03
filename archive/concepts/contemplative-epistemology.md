@@ -4,7 +4,7 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-08-19T14:58:00+00:00
+ai_modified: 2026-10-03T16:53:40+00:00
 last_deep_review: 2026-02-15T11:23:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[the-self-minimal-narrative-and-substantial]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-02-10
 last_curated:
 archived: true
@@ -65,7 +65,7 @@ The convergence claim requires a further qualification. These traditions are not
 
 **Progressive disclosure.** Contemplative traditions describe a developmental phenomenology: deeper practice reveals structures invisible at earlier stages. Cessation experiences, jhana states, and the dissolution of subject-object boundaries become accessible only after sustained training. This mirrors how scientific instruments reveal phenomena invisible to the unaided senses—the telescope doesn't create Jupiter's moons, and meditation doesn't fabricate the phenomenological structures it discloses.
 
-**Resistance to expectation.** Practitioners regularly report experiences that contradict their prior beliefs or training framework. Secular mindfulness participants, trained in stress reduction rather than spiritual development, report states—dissolution of body boundaries, cessation of discursive thought, intense affective upheavals—that their programme never mentioned and their prior worldview did not predict (Lindahl et al., 2017). Conversely, meditators within established traditions encounter phenomena outside their tradition's taxonomy. If contemplative reports merely reflected expectation, this pattern would be difficult to explain.
+**Resistance to expectation.** Practitioners regularly report experiences that contradict their prior beliefs or training framework. Western Buddhist meditators from Theravāda, Zen and Tibetan lineages, interviewed about experiences they found unexpected, difficult or distressing, report states—dissolution of body boundaries, cessation of discursive thought, intense affective upheavals—that they had not anticipated, despite practising within established traditions (Lindahl et al., 2017). If contemplative reports merely reflected expectation, this pattern would be difficult to explain.
 
 ## The Training Requirement
 

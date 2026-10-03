@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 16:17:52+00:00
+ai_modified: 2026-10-03 16:53:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 16:17:52+00:00
+lastmod: 2026-10-03 16:53:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T16:53:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) (secondary: `archive/concepts/contemplative-epistemology.md`)
+- **Original score**: n/a (`scripts/curate.py` absent); attribution-accuracy pass against Lindahl, Fisher, Cooper, Rosen & Britton (2017), PLOS ONE 12(5) e0176239, verified in the publisher's JATS XML full text (Table 4 rebuilt by column using the paper's stated per-domain counts 10/7/13/15/3/6/5 = 59).
+- **Changes**:
+  - L39 taxonomy: "a taxonomy of disturbances … perceptual anomalies (visual distortions, auditory hallucinations), affective disruptions (panic, terror, uncontrollable grief), somatic symptoms (involuntary movements, pain, temperature changes), dissociative disturbances of the sense of self (depersonalisation, derealisation), and cognitive disturbances (thought disruption, impaired executive function)" → the abstract's "taxonomy of 59 meditation-related experiences across 7 domains" with its "valence ranged from very positive to very negative", plus ten verbatim Table 4 category names and percentages, and a sampling caveat (L1227: "the 100% frequency of challenging experiences is an artifact of sampling"). Paper has 0 hits for "auditory", "temperature", "visual distortion", "uncontrollable"; depersonalization is not a Table 4 category (intro literature review only), and derealization is classed Perceptual (7%), not sense of self. The queued premise that "temperature changes" was unsupported was a false absence: Table 4 lists "Thermal changes (37%)", now quoted verbatim. Population (three traditions) kept; "sixty" added (L448).
+  - L41: "They emerge specifically during or after intensive contemplative practice" → onset on retreat for 72%, daily practice for 28% (Table 3 "Practice context").
+  - L85: header "Recovery responds to interface-level intervention" → "practice-level adjustment". Cut "deliberate reactivation of default-mode processing" (0 hits for "default mode"/"default-mode") and the claim that clinicians "emphasise practice-informed grounding" over medication as a sign of coupling-level rather than neurochemical disruption: Table 6 has "Grounding activity (38%)[55%]" but also "Medication (40%)[58%]" and "Psychotherapy or medical treatment (68%)[79%]", and the text says medication was cited as helpful "especially for severe meditation-related difficulties requiring other intensive treatments and hospitalization". The filter clause is kept, labelled as the Map's reading, citing the authors' disclaimer that the influencing factors "should not be taken as a theory or hypothesis about risk factors and remedies … put forth by the authors". The paragraph now ends on the symmetric concession that a production account also accommodates practice-level effects.
+  - Archive L68: "Secular mindfulness participants, trained in stress reduction …" → Western Buddhist meditators from Theravāda, Zen and Tibetan lineages, "interviewed about experiences they found unexpected, difficult or distressing" (L271). The following "Conversely, meditators within established traditions …" sentence is merged in, because once the population was corrected it restated the same group. The archive notice and frontmatter are unchanged apart from `ai_modified`/`ai_system`.
+- **Other Lindahl claims checked**: the L112 reference metadata (authors, title, 12(5), e0176239) is correct. The *dukkha nanas* framing (L39/L43/L45) is not attributed to Lindahl. The paper mentions only "insight knowledges (vipassanā-ñāṇa)" as "particularly challenging, especially in modern Asian sources" and Zen *makyō*, so no change was made.
+- **Engagement modes**: no named-opponent reply edited; the production-theorist clause at L85 is a framework-boundary concession (Mode Three).
+- **Word count** (`analyze_length`): topic 2,208 → 2,361 (+153; topics soft 3,000 / hard 4,000).
+- **Left alone**: pre-existing "load-bearing element" at L83 (structural use).
+- **Published**: yes
 
 ## 2026-10-03T16:17:52+00:00 - deep-review
 - **Status**: Success
