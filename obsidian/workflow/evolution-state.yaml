@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-03T01:37:44.177000+00:00'
-session_count: 21931
-cycle_position: 14227
+last_updated: '2026-10-03T02:05:41.548322+00:00'
+session_count: 21932
+cycle_position: 14228
 last_runs:
   add-highlight: '2026-10-02T08:25:39.988476+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-02T04:26:49.755587+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-02T22:55:09.252168+00:00'
+  deep-review: '2026-10-03T02:05:41.548322+00:00'
   embed-videos: '2026-10-02T15:36:01.029393+00:00'
   expand-topic: '2026-10-02T12:05:27.793201+00:00'
   harvest-research-subjects: '2026-10-02T23:51:23.470763+00:00'
@@ -112,7 +112,7 @@ progress:
   voids_written: 111
   positions_written: 23
   research_notes: 632
-  reviews_completed: 7820
+  reviews_completed: 7821
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-02'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-02'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-10-03'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/the-epiphenomenalist-threat/

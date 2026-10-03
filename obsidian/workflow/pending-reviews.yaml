@@ -453,3 +453,32 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-10-02-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac063c6-02fc-83ed-863c-fc1563bc2d00
+  commissioned_at: '2026-10-03T02:09:32.699446+00:00'
+  prompt_summary: 'Audit consciousness-as-activity: claims, citations, counterarguments,
+    bracketing'
+  target_filename: outer-review-2026-10-03-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external reviewer auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site that argues for interactionist
+    dualism under five stated tenets. The article https://unfinishablemap.org/topics/consciousness-as-activity/
+    was last substantively modified on 2026-09-26, so search engines have had time
+    to re-index it; recent site activity is logged in the changelog at https://unfinishablemap.org/workflow/changelog/.
+    Please audit the article''s claims, citations, counterargument coverage, and integration
+    with surrounding articles. Specifically: verify that cited works exist and actually
+    say what the article attributes to them; flag claims resting on insufficient evidence;
+    identify the strongest counterarguments it misses or under-represents; point out
+    any tenet-protective bracketing, where the article shields its commitments from
+    scrutiny instead of defending them; and note stale references that newer literature
+    has superseded. Follow links to related Map articles where needed to judge consistency.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-as-activity
+  subject_articles:
+  - topics/consciousness-as-activity.md
+  subject_source: fallback:recent-aged
