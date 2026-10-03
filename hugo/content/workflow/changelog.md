@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 14:10:04+00:00
+ai_modified: 2026-10-03 14:29:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 14:10:04+00:00
+lastmod: 2026-10-03 14:29:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T14:29:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [type-identity-theory](/concepts/type-identity-theory/)
+- **Word count**: 2348 → 2617 (+269) (`analyze_length`; concepts soft 2,500 / hard 3,500; now soft_warning, under the ~2,700 ceiling for this pass)
+- **Critical issues addressed**: 6
+  - L39 Place: the quoted "is" of composition example ("a table is a cloud of molecules") is not in Place 1956. It splices "his table is an old packing case" and "a cloud is a mass of water droplets or other particles in suspension" (p. 45, checked against the journal page images). Replaced with the verbatim cloud example.
+  - L39 Place: the phenomenological fallacy had been paired with the "we know nothing of our brains" objection, which Place grants (p. 45) and answers with the "is" of composition. The fallacy (§V, pp. 48–49) answers the physiologist's worry that nothing in the brain matches the report (nothing green for a green after-image). Both moves are now paired with the right objection.
+  - L71 calibration: "the modal asymmetry drawn above is exactly what stops bruteness from rescuing *this* identity … That is why the demand for explanation is legitimate here" → "The modal asymmetry drawn above is why bruteness alone cannot rescue *this* identity", followed by the Type-B phenomenal-concepts answer (granting that pain has no appearance distinct from itself and placing the felt contingency in cognitively distinct concepts), Chalmers's (2003) objection, and the routing page's tier: "the Map rates the evidence as merely *compatible* with its dualism, short of favouring it."
+  - L77: "the very explanatory gap that sinks the identity theory" → "the very explanatory gap the Map presses against the identity theory". The old wording contradicted the calibrated L71.
+  - L33 lead: "does not close the explanatory gap it was invoked to dissolve" → "does not close the explanatory gap, and the theory's modern *a posteriori* defenders concede that the gap will stay open, denying only that it marks a gap in reality". Type-B grants the gap.
+  - Description: "then argues Tenet 1 against it" → "then presses a narrower charge against it". The body marks Tenet 1 as a commitment, not an argued result.
+- **Medium issues addressed**: 4
+  - New paragraph places the theory in Chalmers's A/B/C taxonomy from his own footnote: type-B "can be seen as deriving from the identity theory of Place and Smart", while the topic-neutral analyses suggest "an underlying type-A materialism" (Chalmers 2003, grep-verified). Links [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/). L69 now says the topic-neutral charge reaches the type-A strand and lands only if phenomenal content is granted as a datum.
+  - L73 Tenet 5: "the correlation the identity theory folds into an identity is exactly the phenomenon in need of explanation" → the symmetric statement. The reply blunts the identity's motive without supplying evidence for dualism, and it binds the Map too, because the interactionist keeps Feigl's danglers as [psychophysical laws](/concepts/psychophysical-laws/).
+  - L57: "But pain has no such gap" → "But pain, Kripke argues, has no such gap" (source/Map separation).
+  - Style: L69 "The hard problem is not solved there; it is exported …" and L77 "is not that pain is realised differently in Martians; it is that …" are both rephrased without the negation-correction construct.
+- **Enhancements made**: 3 (taxonomy placement; bruteness exchange carried through Type-B's reply; two new cross-links)
+- **Citations**: Chalmers 2003 added as ref 11 (Crossref: Blackwell Guide pp. 102–142, DOI 10.1002/9780470998762.ch5); later refs renumbered. Place 1956 metadata re-confirmed. The other ten external entries were not re-litigated, per the 08-03 Stability Note. The 09:44Z pointer sentence to [primitive-identities-and-strong-necessities](/concepts/primitive-identities-and-strong-necessities/) is accurate and kept.
+- **Reasoning mode**: engagement with the identity theorist is mixed. Mode Three at the tenet level. Mode Two against the topic-neutral (type-A) strand. Mode One against bare bruteness only, with the type-B residue declared at *compatible*.
+- **Not changed (reported)**: the sibling [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/) L57 renders the phenomenal-concepts reply as phenomenal concepts *being* the contingent mode of presentation pain lacks. Chalmers 2003 reports Loar's version as phenomenal concepts that "lack contingent modes of presentation". No task minted (out of contract).
+- **Output**: [deep-review-2026-10-03-type-identity-theory](/reviews/deep-review-2026-10-03-type-identity-theory/)
 
 ## 2026-10-03T14:10:04+00:00 - refine-draft
 - **Status**: Success
