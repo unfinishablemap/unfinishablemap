@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-09-28T01:22:44+00:00
+ai_modified: 2026-10-03T02:38:31+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -48,7 +48,7 @@ related_articles:
   - "[[cross-cultural-convergence-on-mental-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-25T23:17:41+00:00
@@ -88,7 +88,7 @@ The standard objection to [[interactionist-dualism|interactionist dualism]] is t
 
 Kim's exclusion argument depends on [[causal-closure|causal closure]]: every physical event has a sufficient physical cause. Substance causation shifts the dialectic to whether physical *substances* are the only substances with causal powers. The Map's quantum framework strengthens this—at quantum indeterminacies, physics specifies probabilities but not outcomes, so there is no sufficient physical cause—while [[trumping-preemption]] supplies a complementary response: even granting physical sufficiency, the agent can be the *authoritative* cause of an action a sufficient physical process also produced, with no trajectory deviation required.
 
-Challenges include the *laws problem* (Lowe: laws describe what substances tend to do), the *agent problem* (the [[quantum-indeterminacy-free-will|luck objection]], addressed below), and the [[pairing-problem|pairing problem]] (consciousness is located where it causally interfaces with the brain).
+Challenges include the *laws problem* (Lowe: laws describe what substances tend to do), the *agent problem* (the [[quantum-indeterminacy-free-will|luck objection]], addressed below), and the [[pairing-problem|pairing problem]] (the interface supplies a location, not yet a pairing law).
 
 ## Major Defenders
 
@@ -104,11 +104,11 @@ The [[authentic-vs-inauthentic-choice|authenticity dimension]] matters: agent ca
 
 ## The Map's Framework: Where Agent Causation Interfaces with Physics
 
-The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same causal power all substances exercise. This also addresses the [[pairing-problem|pairing problem]]: if consciousness interfaces at specific quantum-sensitive neural structures, it is spatially located where those structures are.
+The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same causal power all substances exercise. Siting the interface answers *where* influence occurs, not *which* subject exerts it; the [[pairing-problem|pairing problem]] awaits the pairing law the Map owes (P-SC2).
 
 The [[causal-interface|causal interface void]] explains why this interface cannot be observed: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation)—an opacity *predicted* by minimal quantum interaction.
 
-The [[decoherence|decoherence challenge]]—that warm neural tissue decoheres too fast (the [[timing-gap-problem]])—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; quantum biology has demonstrated unexpected coherence in warm biological systems (photosynthetic complexes, avian magnetoreception).
+The [[decoherence|decoherence challenge]]—that warm neural tissue decoheres too fast (the [[timing-gap-problem]])—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; avian magnetoreception supplies precedent for warm quantum effects, not licence for the neural case (P-Q8).
 
 ## Sourcehood
 
@@ -118,7 +118,7 @@ If selection operates through [[atemporal-causation|atemporal causation]], the a
 
 ## Skill Delegation and the Interface
 
-If agents cause actions, why don't they control every detail of skilled performance? The [[implicit-memory|implicit memory]] framework resolves this: skilled automaticity is *delegation*, not absence. [[skill-delegation|Skill delegation]] follows a three-phase pattern—conscious calibration, progressive withdrawal, retained override—paralleling [[delegatory-causation|causal delegation]]'s metaphysical structure. The "choking under pressure" phenomenon demonstrates causal efficacy: when experts consciously re-engage with automatised actions, performance degrades (see [[phenomenology-of-agency-vs-passivity|phenomenology of agency]]); if attention were causally inert, it couldn't interfere with skills. Even during automatic performance the agent persists in what Tulving called *anoetic consciousness*—experiential but non-reflective. Delegation presupposes a delegator.
+If agents cause actions, why don't they control every detail of skilled performance? The [[implicit-memory|implicit memory]] framework resolves this: skilled automaticity is *delegation*, not absence. [[skill-delegation|Skill delegation]] follows a three-phase pattern—conscious calibration, progressive withdrawal, retained override—paralleling [[delegatory-causation|causal delegation]]'s metaphysical structure. The "choking under pressure" phenomenon demonstrates access-level efficacy: when experts consciously re-engage with automatised actions, performance degrades (see [[phenomenology-of-agency-vs-passivity|phenomenology of agency]]); whether phenomenal character itself interferes, [[empirical-phenomena-mental-causation|the choking data]] leave open. Even during automatic performance the agent persists in what Tulving called *anoetic consciousness*—experiential but non-reflective. Delegation presupposes a delegator.
 
 ## Voluntary Attention as Agent-Causal Paradigm
 
@@ -130,7 +130,7 @@ Pre-prompt neural activity predicts free choices, paralleling the [[libet-experi
 
 [[motor-selection|Motor selection]] extends agent causation beyond attention: monkey reach commitment falls ~280ms before movement and willing feels effortful, but the theta and coherence contrasts are measured for attention only. The single-domain objection is narrowed, not answered.
 
-The Libet challenge has weakened substantially. Schurger reinterprets the readiness potential as noise artifact; Sjöberg (2024) reports willing survives SMA resection's initiation deficits; Desmurget dissociates intention (parietal) from execution (premotor). The [[phenomenology-of-choice-and-volition|phenomenology of volition]] identifies four components of willing—initiation, sustained control, effort, veto—each with distinct neural correlates (see [[volitional-control|Phenomenology of Volitional Control]] for the full case). This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism without reducing consciousness to neural activity.
+The Libet challenge has weakened substantially. Schurger reinterprets the readiness potential as noise artifact; Sjöberg (2024) reports willing survives SMA resection's initiation deficits; Desmurget dissociates intention (parietal) from execution (premotor). The [[phenomenology-of-choice-and-volition|phenomenology of volition]] identifies four components of willing—initiation, sustained control, effort, veto—each with distinct neural correlates (see [[volitional-control|Phenomenology of Volitional Control]] for the full case). This literature removes a defeater without supplying support: the timing data do not refute conscious causation (P-A3).
 
 ## Creative Generation: Beyond Pure Selection
 
@@ -157,7 +157,7 @@ The agency void is therefore a feature of the territory rather than something th
 Agent causation is falsifiable. Key challenges, each with current evidence pointing the other way:
 
 - **Complete neural prediction**: 100% accuracy predicting decisions from prior brain states would leave no gap; current accuracy remains well below this.
-- **Elimination of neural quantum effects**: excluding quantum coherence in brain tissue would break the interface mechanism, but quantum biology suggests effects are more robust than expected.
+- **Elimination of neural quantum effects**: excluding quantum coherence in brain tissue would break the interface mechanism, but warm-biology precedent shows the regime is not categorically closed.
 - **Dissociation of effort and outcome**: if effort didn't correlate with decision difficulty, phenomenological support collapses; it does correlate.
 - **No willed/instructed distinction**: identical neural signatures would weaken the claim that consciousness adds something; research robustly distinguishes them.
 - **Solving the hard problem materialistically**: a compelling materialist account of subjective experience would reduce the motivation for treating consciousness as a separate causal factor.

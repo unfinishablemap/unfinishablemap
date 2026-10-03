@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 02:01:20+00:00
+ai_modified: 2026-10-03 02:38:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 02:01:20+00:00
+lastmod: 2026-10-03 02:38:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T02:38:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Task**: P1 queue task (todo.md L1651), cluster 6 of [outer-review-synthesis-2026-10-02](/reviews/outer-review-synthesis-2026-10-02/): four calibration overreaches on the agent-causation page.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven pass)
+- **Word count**: 3,493 → 3,496 (+3; concepts hard gate 3,500 `>=`, headroom was 6, now 3). I did not add the likelihood-comparison section the reviewer proposed, because the page has no room for it.
+- **Changes**:
+  - (a) L111, decoherence paragraph: "quantum biology has demonstrated unexpected coherence in warm biological systems (photosynthetic complexes, avian magnetoreception)" → "avian magnetoreception supplies precedent for warm quantum effects, not licence for the neural case ([P-Q8](/positions/quantum-interface/#p-q8))" (+1). Photosynthesis is dropped per [P-Q8](/positions/quantum-interface/#p-q8)'s 2026-07-30 narrowing (Duan et al. 2017).
+  - (a, sibling found in this pass) L160, "What Would Challenge" bullet: "but quantum biology suggests effects are more robust than expected" → "but warm-biology precedent shows the regime is not categorically closed" (0). This was the same support-for-precedent drift that [P-Q8](/positions/quantum-interface/#p-q8) names.
+  - (b) L121, choking: "demonstrates causal efficacy … if attention were causally inert, it couldn't interfere with skills" → "demonstrates access-level efficacy … whether phenomenal character itself interferes, [the choking data](/topics/empirical-phenomena-mental-causation/) leave open" (0). This matches the scope set in topics/empirical-phenomena-mental-causation L109 and the concession in concepts/skill-delegation. The piped link adds no words.
+  - (c) L107, pairing: "This also addresses the pairing problem: if consciousness interfaces at specific quantum-sensitive neural structures, it is spatially located where those structures are" → "Siting the interface answers *where* influence occurs, not *which* subject exerts it; the pairing problem awaits the pairing law the Map owes ([P-SC2](/positions/subject-census/#p-sc2))" (+1).
+  - (c, sibling) L91, challenges list: "(consciousness is located where it causally interfaces with the brain)" → "(the interface supplies a location, not yet a pairing law)" (0).
+  - (d) L133, Libet: "This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism without reducing consciousness to neural activity" → "This literature removes a defeater without supplying support: the timing data do not refute conscious causation ([P-A3](/positions/agency-and-will/#p-a3))" (+1). The Sjöberg (2024) wording and its reference were left as they were.
+- **Engagement modes** (editor-internal): Kim/pairing: Mode Three. The reply now records an owed pairing law rather than claiming the problem is addressed. Libet/Soon: Mode One, defeater removal only, using the Schurger, Sjöberg and Desmurget critiques internal to the timing literature.
+- **Not edited**: L65 "The commitment is load-bearing here" was already on the page before this pass and was not touched. It is arguably a structural use. The open P3 for mine-ness/pudgalavada reciprocals is left to its own task.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T02:01:20+00:00 - deep-review
 - **Status**: Success
