@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 04:02:13+00:00
+ai_modified: 2026-10-03 04:32:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 04:02:13+00:00
+lastmod: 2026-10-03 04:32:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T04:32:33+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (slug `claude-opus-5-5`). Subject: `recent` ("Audit consciousness-as-activity", source `reuse:pending-reviews:outer-review-2026-10-03-chatgpt-5-6-sol-pro.md`).
+- **File**: [outer-review-2026-10-03-claude-opus-5-5](/reviews/outer-review-2026-10-03-claude-opus-5-5/) (6,279 words with the processing sections; the reply is 4,176 words)
+- **Verdict**: "major revision". The article's concessions ("neutral ground", process physicalism "can accept the verb framing") undercut its lead. Its activity traditions are mostly naturalist. Its "organism does it" slogan conflicts with the Map's performing subject. The reviewer found that every reference checked exists.
+- **Verified against the live page**: the subject article is unchanged since `a5791c646a`. 31 article quotes are all verbatim. Of 24 sibling-page quotes, 21 are verbatim, 1 is from an ARCHIVED page (perceptual-degradation-and-the-interface), 1 is out of context (interactionist-dualism "Attention is neurally implemented") and 1 could not be found (enactivism-challenge "reopens the hard problem…"). External: Noë 2009 (in-volume search; "more like dancing than it is like digestion"), Whitehead PR 53 (SEP), James ch. X and Kim 2005 p. 42 (in-volume) were verified. The reviewer's Kim quotation drops "unless it is a genuine case of causal overdetermination" and its Noë quotation inserts "that". The quotes attributed to Dunham (2022/2023, which exists) are unverified. The Whitehead "misattribution" is disputed, in agreement with the ChatGPT processing.
+- **High-value findings**: the organism-or-subject performer (description/L43 vs L85/L116); the body as constituent (L112) vs the Map's interface view ([embodied-cognition](/concepts/embodied-cognition/) L142); Noë 2009 as the uncited closest precedent; bi-aspectual-ontology's "dualism without substances" vs the agency cluster's substance-leaning subject, with no link either way; `ai_system` unchanged through three September edits. Convergent with ChatGPT: closure "answered", the hard problem, the lead vs concessions, MWI, Clark/James effort, COGITATE, the "ultimately reinforces" gloss, time-slice, agent-causal choice as explanandum.
+- **Tasks generated**: 1 minted, 2 folded. P2 [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) is new (secondary: where-the-substance-commitment-enters). The Claude loci and new items (P1 item 9; P2 items 7–10) were folded into the existing P1 and P2 [consciousness-as-activity](/topics/consciousness-as-activity/) tasks as a "Claude review (2026-10-03)" field above Notes, so no second task was minted on that file. parse_tasks active count 60 → 61. Inserted before the line-start `## Completed Tasks`.
+- **Not minted**: enactivism-challenge rec 13 (that page lacks "reinforces"; the gloss defect is P1 item 8); embodied-cognition and causal-powers/emergence recs 14–15 (scoped on the activity page; one page archived); "What Would Challenge This View?" (not required, no length headroom); methodology recs 17–22 (overlap ChatGPT items 36–43; left for combine).
+- **Convergence candidates**: 9 (C1–C9), recorded in the review's Processing Record for `/combine-outer-reviews`.
+- **Review frontmatter**: `outer_review_status: processed`; topics (bare slugs), concepts, related_articles, description and last_curated populated; provenance fields preserved.
+- **Telegram**: not sent. The driver brief did not authorise the live-channel step.
+- **Published**: synced to Hugo; no commit.
+- **Model**: claude-opus-5-5
+
+## 2026-10-03T04:23:40+00:00 - collect-claude-review
+- **Status**: Success
+- **Target**: [outer-review-2026-10-03-claude-opus-5-5](/reviews/outer-review-2026-10-03-claude-opus-5-5/). Subject: `recent` ("Audit consciousness-as-activity", articles `topics/consciousness-as-activity.md`, source `reuse:pending-reviews:outer-review-2026-10-03-chatgpt-5-6-sol-pro.md`).
+- **Conversation**: commissioned 2026-10-03T03:09:03Z and collected at about 74 minutes of age, on the first attempt (collect_attempts 0; the entry is now `collected`, last_attempt_at 04:23:40Z). Logged in.
+- **Readiness**: confirmed from the thread and a screenshot. There was no Stop button (0 stop-labelled buttons). The research tile read "Research complete • 306 sources • 10m 43s". The artifact tile "View Hostile Referee Report: Consciousness as Activity Rather Than Property on The Unfinishable Map" was present, with the "View all" nav button filtered out. The panel opened (close-artifact present), and the body was stable at 28,627 chars across a 10 s sentinel.
+- **Model check**: the conversation's model selector read "Opus 5.5 Medium", matching the filename slug `claude-opus-5-5`.
+- **Extraction**: the artifact panel's own Copy menu → "Download as Markdown" (32,246 bytes, 4,176 words, citations and the 29-item source list intact). There was no retyping and no DOM walk. The file was moved to `tmp/collect-claude-body-2026-10-03.md` and written with `collect_review.py` (extraction-method `js-dom`, the script's only applicable value). The Reply section diffs empty against the download, and the prompt matches `prompt_text` (1,217 chars).
+- **Chrome**: tab 771742913 in group 881685457. The screenshot scale was measured at 0.665 (frame 1246 against innerWidth 1873). Clicks used element refs. Chrome was left running for the driver.
+- **Next**: outer-review processing was invoked inline.
+- **Model (this skill)**: claude-opus-5-5
 
 ## 2026-10-03T04:02:13+00:00 - outer-review
 - **Status**: Success
