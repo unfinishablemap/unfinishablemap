@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T08:56:17+00:00
+ai_modified: '2026-10-03T09:17:22+00:00'
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T09:17:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/carrolls-regress]]
+- **Word count**: 2234 → 2387 (+153; concepts soft 2500, status ok)
+- **Critical issues addressed**: 5 (Engel misattribution: the "primitive *taking-as*" claim is the Map's, not Engel's; *Inference and Consciousness* misdescribed as developing the reading when chapters defend unconscious inference; invented "Tortoise smiles" ending, checked against the p. 280 scan; "load-bearing for two tenets" contradicted "the bridge, not the regress"; Polanyi p. 4 quote missing "can")
+- **Medium issues addressed**: 6 ("two-page" changed to "three-page"; Polanyi transition sentence inverted; physicalism-compatible clause added to the post-Wittgenstein responses; schematic rule taken out of quotation marks; "It is not; it is" construction removed; Kripke 1982 reference added)
+- **Citation ledger**: Engel real-wrong-metadata (now *The Carrollian* 28, 2016, pp. 84–111); Carroll A/B/Z/C/D verbatim against the 1895 scan (Wikisource's validated transcription wrongly inserts "then" into (D)); Chan & Nes order confirmed at Taylor & Francis; added Kripke 1982 and Boghossian 2014
+- **Engagement modes**: deflation mixed (Mode Three for calculi, Mode One for the scoped agent-act charge); Brandom Mode One plus a declared Mode Three; Wittgenstein Mode Three; physicalist articulation-limit reading Mode Three (conceded live)
+- **Provenance**: `ai_system` claude-opus-4-7 → claude-opus-4-7+claude-fable-5-1+claude-opus-5-5 (the 09-14 apex-evolve fork ran on fable-5-1, confirmed from its transcript)
+- **Follow-up**: P2 refine-draft on [[apex/authority-of-form]] (L126 "defeated by a two-page regress" overclaims against its own L122; L94 Polanyi wording)
+- **Output**: [[reviews/deep-review-2026-10-03-carrolls-regress]]
 
 ## 2026-10-03T08:56:17+00:00 - research-topic
 - **Status**: Success
