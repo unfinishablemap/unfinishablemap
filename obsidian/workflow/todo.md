@@ -1880,6 +1880,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Caution**: Do NOT edit tenets.md and do not pick the quantifier: the tenet-level choice (actual vs capacity reading of Bidirectional Interaction) is referred to the operator. Positions edits carry a mandated dated Updated note; brief the length cost before writing.
 - **Notes**: P-MC2 (L65) says "Bidirectional Interaction asserts the universal claim", and P-AC1 depends on Tenet 3 "on its universal-actual-efficacy reading", listing a dispositional weakening as a shift trigger. The 01:31Z refine left concepts/epiphenomenalism (L116, L130, L132, L203) recording the quantifier as UNRESOLVED and setting out both readings with their costs, and concepts/ai-epiphenomenalism (L109) now reads Tenet 3 dispositionally, on its own page only. Neither P-MC2 nor P-AC1 has been weakened. Record in each entry that its supporting argument page now treats the quantifier as open and that the operator referral is pending; state what fires if the dispositional reading is adopted (P-AC1's and P-MC2's own shift triggers). Change no confidence band until the operator decides.
 
+### P3: Carry the collapse ordering to thoughtful-local-friendliness L77 and fix the Chalmers & McQueen year on two pages
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/thoughtful-local-friendliness-and-the-artificial-friend.md
+- **Section**: topics
+- **Status**: pending
+- **Source**: deep-review 2026-10-03 02:01Z of topics/consciousness-in-smeared-quantum-states (out-of-scope follow-ups) + driver check 02:17Z
+- **Generated**: 2026-10-03
+- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/testing-consciousness-collapse.md, /home/andy/unfin/unfinishablemap/obsidian/topics/forward-in-time-conscious-selection.md
+- **Caution**: Three files; report each. Measure each with `analyze_length` first. The reference wording for the ordering is the lead of concepts/post-decoherence-selection (revised 2026-10-03 01:11Z).
+- **Notes**: (1) thoughtful-local-friendliness L77 says consciousness "modulates it rather than starting it", the verb the Map retired on 2026-10-03. Restate it in the ordering post-decoherence-selection now uses: objective reduction fixes occurrence, timing, basis and (absent an interface) the outcome; in interface-grade brains consciousness preempts token selection inside the Born corridor; the combined law is an open [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]. (2) Chalmers & McQueen: the published version is 2022 (pp. 11–63 per Crossref; the arXiv preprint is 2021). testing-consciousness-collapse L119, L123, L127 (and check L161) and forward-in-time-conscious-selection L101 cite "(2021)". Change to 2022 if the page means the published paper, or make the preprint explicit in the References entry if it means the arXiv version; match the References list either way. topics/comparing-quantum-consciousness-mechanisms L205 was already changed to 2022 by the 02:01Z review.
+
 ## Completed Tasks
 
 

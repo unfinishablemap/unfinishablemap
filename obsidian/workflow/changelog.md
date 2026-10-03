@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T01:31:17+00:00
+ai_modified: 2026-10-03T02:01:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T02:01:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-in-smeared-quantum-states]]; also [[topics/comparing-quantum-consciousness-mechanisms]] (family-resolution citation fix only)
+- **Word count**: 3,065 → 3,245 (+180; topics hard gate 4,000 `>=`, headroom 755). Sibling 4,005 → 4,005 (year-only fix).
+- **Critical issues addressed**: 7. (1) The lead outran the L124 concession and the collapse ordering ("determinacy is not incidental but causal—consciousness participates in resolving quantum indeterminacy"). It now states the Map's ordering, with objective reduction fixing timing and basis and consciousness preempting the outcome selection in interface-grade brains, and says determinacy alone does not establish that role. (2) L110 "whether consciousness itself resolves the superposition or … objective reduction has already done so and consciousness modulates which outcome" → the ordering plus the [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]. (3) L108 "if consciousness is what resolves superposition" → "a conscious friend's outcome is absolute". (4) Chalmers & McQueen gloss: "establishes … viable … especially since simple versions face difficulties from quantum Zeno considerations" → "they argue that simple versions … are falsified by the quantum Zeno effect but that more complex versions remain compatible with the empirical evidence" (the arXiv abstract's own words). (5) "what Albert and Loewer call the 'determinate-experience problem'" (L52, L90): the coinage cannot be certified. A&L 1988 is closed-access; the research note's source, Loewer's "Strange Bedfellows", has 0 hits and uses "determinate consciousness condition"; SEP has "determinate-record problem". Quote-boundary correction at both loci; the substantive attribution is kept. (6) The Stapp quote "interactive dualism similar to that of Descartes" is verbatim in Stapp's QID paper and absent from *Mindful Universe* (Google Books search-within, 3 volume ids, controls passed). Added Stapp (2006) *Zygon* 41(3) to References plus an inline year. (7) Chalmers & McQueen OUP chapter (2021) → (2022), pp. 11-63 (Crossref), here and on comparing-quantum-consciousness-mechanisms L205.
+- **Medium issues addressed**: 6. Thoughtful-LF consistency: the conditional is scoped to coupled, selecting consciousness, and the page notes that the AI-friend experiment bears on the Map only if the friend is conscious in that sense. L116: consciousness "initiates no collapse". L120: Tenet 2 corridor clause added, and the microtubule evidence is scoped to coherence-dependent mechanisms. Koch stance is now Map-labelled. Neven "early experimental stages" → "so far untested". L100 "explaining it away" → "securing it by splitting the observer".
+- **Enhancements made**: 4. Removed four "X is not Y; it is Z" constructions (L54, L66, L70, L78). Two offsetting trims (−37). Completed the Beshkar reference (DOI). New cross-links to thoughtful-LF `#why-an-unconscious-friend` and prebiotic-collapse `#the-completeness-tension`.
+- **Engagement modes** (editor-internal): Dennett: Mode Three with a light Mode Two. Tegmark: Mixed. MWI/many-minds: Mode Three; the 09-07 Tenet 4 wording is kept verbatim.
+- **Quotes**: 26 spans ≥25 chars, of which 21 are frontmatter YAML strings. Of the 5 body spans: 1 verbatim (C&M, re-grepped), 1 verbatim at a source missing from References (Stapp, source added), 2 uncertifiable coinages (de-quoted), 1 rhetorical question in the Map's own voice.
+- **Out of scope, not edited**: [[topics/thoughtful-local-friendliness-and-the-artificial-friend]] L77 still says consciousness "modulates it rather than starting it" (pre-ordering verb).
+- **Output**: [[reviews/deep-review-2026-10-03-consciousness-in-smeared-quantum-states]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T01:31:17+00:00 - refine-draft
 - **Status**: Success
