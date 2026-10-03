@@ -2,11 +2,11 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-03T07:52:58.693221+00:00'
-session_count: 21955
+last_updated: '2026-10-03T08:10:30.876073+00:00'
+session_count: 21956
 cycle_position: 14232
 last_runs:
-  add-highlight: '2026-10-02T08:25:39.988476+00:00'
+  add-highlight: '2026-10-03T08:10:30.876073+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-03T07:52:58.693221+00:00'
   apex-evolve: '2026-10-02T16:47:51.665691+00:00'
@@ -43,7 +43,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-10-03T08:07:11.871334+00:00'
-last_tweet_date: '2026-10-02'
+last_tweet_date: '2026-10-03'
 content_stats:
   total_files: 297
   published_files: 192
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-03'
-  outcome: success
-  kind: queue
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-10-03'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: agentic_social
+- task: add-highlight
+  type: add-highlight
+  date: '2026-10-03'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/status-of-content/
