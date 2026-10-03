@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 19:27:49+00:00
+ai_modified: 2026-10-03 20:03:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 19:27:49+00:00
+lastmod: 2026-10-03 20:03:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T20:03:38+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 104 (every topics/concepts/voids/apex/positions file with a commit since 2026-10-02T01:00Z): 103 read in full by fifteen foreground read-only sub-sweeps, plus the `apex/apex-articles` index checked on its one window hunk. Driver corpus probes outside the window.
+- **Errors**: 13 new, 0 carried. **All 13 check-143 ERRORs REPAIRED** (bb10bcc4fd, 3d17421391, 26907f3404, 4648207ba6, c8dda17e31; confirmed from each diff). New ERRORs by class:
+  - Tenet 4 / subject posit, against tenets L121/L123/L125/L145/L172: `personal-identity` L193, `consciousness-and-the-metaphysics-of-individuation` L133, `modal-structure-of-phenomenal-properties` L115, `blindsight` L183, `interaction-problem-across-traditions` L98, `russellian-monism-versus-bi-aspectual-dualism` L102.
+  - Tenets given predictions, rulings or roles they lack: `agent-causation` L109, `arguments-against-materialism` L105, `comparing-quantum-consciousness-mechanisms` L178, `bi-aspectual-ontology` L145, `contemplative-epistemology` L142.
+  - Tenet 1 misstated: `materialism` L150, `contemplative-pathology-and-interface-malfunction` L91.
+- **Warnings**: about 255 in 67 files. Of the check-143 WARNING loci in window files, about 41 are REPAIRED and about 91 STILL LIVE, mostly never minted. Check 142 row 4 is unminted for a third check. The "tenet predicts" tail is still live, with three new loci (`bidirectional-interaction` L107, `causal-interface` L158, `functionalism` L164). The "actually sufficient" tail is closed.
+- **Notes**: about 320
+- **Findings of note**:
+  - The five new articles (primitive-identities, ignorance-hypothesis, type-A/B/C, anton-syndrome, kants-paralogisms) are NOTE-only: 0 ERRORs, 0 WARNINGs.
+  - Today's calibration passes fixed their targets but left siblings live: stapp L120; bi-aspectual L145/L75; bergson L135/L137; contemplative-path L116 plus five 10-02 loci; contemplative-pathology Relation section; born-rule L74, the "live branch" wording row 3 prohibited; born-preserving L123 tail.
+  - The witness carry (091a82dd6c) asserts "must still steer a little, or it could not cause its own reports" flat, against tenets L101 (WARNING, register only).
+  - f98805bb45 did NOT choose a Tenet 3 quantifier.
+- **Operator items** (recorded, not graded):
+  - Tenet 3 quantifier: the witness carry, contemplative-path L86 and [P-MC2](/positions/arguments-for-mental-causation/#p-mc2) L3/L44/L65 take or default to one side. New loci are listed for todo L1834.
+  - Bi-aspectual aspects-vs-subject tension.
+  - Zeno classification is still open.
+  - tenets L55 credits the explanatory-gap article with "captures something" and "running to bedrock"; neither phrase is on that page.
+- **Tasks minted**: none (reports-only contract). Four ready-to-mint priority rows are in the report: (1) refine-draft, Tenet 4 / subject, six files; (2) refine-draft, Tenet 2 predictions and rulings plus row-3 residue, five files; (3) refine-draft, Tenets 1/3/5 roles, four files; (4) positions-evolve, [P-I1](/positions/individuation-and-subjecthood/#p-i1) L55 and [P-MC2](/positions/arguments-for-mental-causation/#p-mc2) L69.
+- **Output**: [tenet-check-2026-10-03](/reviews/tenet-check-2026-10-03/)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T19:27:49+00:00 - research-voids
 - **Status**: Success (bank drain; no new research note written)
