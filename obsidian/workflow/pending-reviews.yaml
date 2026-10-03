@@ -482,3 +482,33 @@
   subject_articles:
   - topics/consciousness-as-activity.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9d4a8e55-39ff-4897-82ae-80e540c2388d
+  commissioned_at: '2026-10-03T03:09:03.785454+00:00'
+  prompt_summary: 'Hostile-referee audit of consciousness-as-activity: cites, counterargs,
+    bracketing'
+  target_filename: outer-review-2026-10-03-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy-of-mind site that argues for interactionist
+    dualism under five stated tenets. The article is https://unfinishablemap.org/topics/consciousness-as-activity/,
+    which recasts consciousness as an activity the organism does rather than a property
+    the brain has. Search indexes lag by a day or two, so check https://unfinishablemap.org/workflow/changelog/
+    for recent edits before judging its current state. Use Research to: (1) verify
+    that each cited work exists and says what the article attributes to it, spot-checking
+    quotations against primary sources; (2) flag claims resting on thin or contested
+    evidence; (3) identify the strongest counterarguments and competing frameworks
+    it misses or under-represents; (4) point out tenet-protective bracketing, where
+    it shields its commitments from scrutiny instead of defending them; (5) check
+    consistency with the related Map articles it links. Be severe and specific, quote
+    the passages you criticise, and deliver the report as an artifact. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-as-activity
+  subject_articles:
+  - topics/consciousness-as-activity.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-03-chatgpt-5-6-sol-pro.md
