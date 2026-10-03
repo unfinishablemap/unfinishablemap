@@ -45,17 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: research-harvest
 - **Generated**: 2026-10-03
 
-### P2: Adopt higher-order-theories calibration in anton-syndrome-and-the-sincere-report-of-seeing
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/anton-syndrome-and-the-sincere-report-of-seeing.md
-- **Notes**: From topic-concept anchoring audit 2026-10-03. The topic article over-claims relative to its anchor concept [higher-order-theories](/concepts/higher-order-theories/); failed checks: hedge_density, strong_assertions.
-  - hedge density 1.76/kw is below 3.00/kw (target = 60% of anchor 6.88/kw, capped at 3.0/kw)
-  - topic uses 2 strong-assertion verbs (0.59/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-03
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -2000,6 +1989,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-03: Adopt higher-order-theories calibration in anton-syndrome-and-the-sincere-report-of-seeing
+- **Type**: refine-draft
+- **File**: obsidian/topics/anton-syndrome-and-the-sincere-report-of-seeing.md
+- **Notes**: From topic-concept anchoring audit 2026-10-03. The topic article over-claims relative to its anchor concept [higher-order-theories](/concepts/higher-order-theories/); failed checks: hedge_density, strong_assertions.
+  - hedge density 1.76/kw is below 3.00/kw (target = 60% of anchor 6.88/kw, capped at 3.0/kw)
+  - topic uses 2 strong-assertion verbs (0.59/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-10-03: Adopt blindsight calibration in anton-syndrome-and-the-sincere-report-of-seeing
 - **Type**: refine-draft

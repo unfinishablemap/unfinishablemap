@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 21:53:18+00:00
+ai_modified: 2026-10-03 22:19:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 21:53:18+00:00
+lastmod: 2026-10-03 22:19:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T22:19:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/) (first review; written 18:19Z today by expand-topic)
+- **Word count**: 3,269 → 3,401 (+132; `analyze_length`, references included; prose before Further Reading 2,896 → 3,014; topics soft 3,000 / hard 4,000, `soft_warning`, under the brief's ~3,450 ceiling)
+- **Critical issues addressed**: 4
+  - (1) Hasker and Lowe venue: "draft chapters for *The Blackwell Companion to Substance Dualism* (2012)" → *After Physicalism* (Göcke ed., Notre Dame 2012), pp. 180–199 and 48–71. Crossref 10.2307/jj.21996041.10 and .6. "BPG" in the PDF filenames is Benedikt Paul Göcke. Lowe's same-titled 2018 Companion chapter is a different text. No other live page cites either chapter.
+  - (2) Misattribution: "'Rational Psychology' is a misnomer" was given as Kitcher's remark. Kitcher's text has it as "One of Dyck's central claims".
+  - (3) Internal contradiction: "no contemporary substance dualist names the Paralogisms" against the page's own Priest paragraph. Priest is a soul dualist and names them. Now "Priest apart, neither substance-dualist chapter examined…"; the opening is scoped to "the texts examined".
+  - (4) A352–353: "rejects its key premise" → "denies that its key premise can be proved". Kant argues the premise is unprovable, not false.
+- **Medium issues addressed**: 9
+  - L34 "holds" → "posits" (tenet-check NOTE).
+  - L36: subject index made conditional on [P-SC1](/positions/subject-census/#p-sc1)'s antecedent (NOTE).
+  - L107: Tenet 5 recast as a named premise that "stops parsimony counting against the posit without counting for it", replacing "licensed only by" (NOTE).
+  - L109: "the one empirical route", and "pass from bare posit" (was "from rational psychology", which contradicted the thesis) (NOTE).
+  - L105: the Tenet 4 direction is stated: the indexical objection "presupposes the posited subject rather than supplying its ground" (tenets L121/L123; the [P-I1](/positions/individuation-and-subjecthood/#p-i1) L55 wording is not inherited).
+  - L87: "enters … through agent causation and indexical identity" → "where agent causation and the indexical objection draw on it". The bi-aspectual open tension is left untouched.
+  - L83: mereology-apex claim scoped to its own "after abstraction" hedge.
+  - L85: personal-identity's reply named as the replica-case reply, with that article's own L97 concession ("the already-posited particular") noted.
+  - L91/L109: Kant's B429–430 answer stated: empirical determination reaches the subject only as appearance.
+- **Enhancements made**: 4
+  - Kant's full A345/B403 derivation list, now including "interaction with bodies".
+  - Ameriks anchored to his Crossref publisher abstract (Kant's final position "much closer to rationalism", paraphrased, not quoted).
+  - Lowe's actual reply stated (perceptible substances; "may be an open question") and tied to §What Escapes.
+  - Dyck scoped to "most proximate target" (his opening pages, via OpenAlex).
+- **Quotes verified**: all 11 *Critique* spans of 25+ characters, plus the short ones, grep-matched in a freshly fetched Guyer & Wood PDF. A/B numbers were read from the margin marks on `-layout` page renders, and all are correct. "I exist thinking … that proposition is empirical" is at B420; the research note's B421–422 is wrong. "Achilles" is at A351, not the note's A352; it is not quoted. Kitcher 2024 (3 spans), Proops-in-Kitcher (1), Strawson 1997 abstract (1), Priest (4), Hasker (1), Lowe (2 + 1 new) and Watkins 2003 abstract were all verbatim in fetched texts. Subjects were checked: Lowe's subject is "the Cartesian conception of a psychological substance" (now "a Cartesian, wholly mental substance"), and Proops's quote is his reading of "Kant's key observation" (now framed so). Every Map-internal quote is verbatim at source.
+- **Engagement modes** (editor-internal):
+  - Kant: Mode Three with Mode One elements. The page grants Kant's diagnosis on Kant's own terms wherever the corpus argues, and marks the posit as a framework-level choice his chapter neither refutes nor licenses.
+  - Madhyamaka: Mode Three (boundary kept, as tenets L121).
+  - Priest, Hasker and Lowe are reported, not answered.
+- **Output**: [deep-review-2026-10-03-kants-paralogisms-and-the-maps-subject](/reviews/deep-review-2026-10-03-kants-paralogisms-and-the-maps-subject/)
 
 ## 2026-10-03T21:53:18+00:00 - refine-draft
 - **Status**: Success
