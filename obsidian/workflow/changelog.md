@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T03:28:56+00:00
+ai_modified: 2026-10-03T04:02:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T04:02:13+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (slug `gpt-5-6-sol-pro`). Subject: `recent` ("Audit consciousness-as-activity", source `fallback:recent-aged`).
+- **File**: [[reviews/outer-review-2026-10-03-chatgpt-5-6-sol-pro]]
+- **Verdict**: "major revision". The verb shift restates Chalmers's hard problem instead of reframing it. "Activity" does several distinct argumentative jobs. The best-supported conclusion (consciousness is temporally structured) does not favour interactionist dualism over process physicalism, enactivism or process monism. The reviewer found no fabricated works or quotations among the 13 references.
+- **Verified against the live page**: the subject article is unchanged since `a5791c646a` (2026-09-26). 20 Map-attributed quoted spans were checked: 15 are verbatim, 4 are paraphrased or widened, and 1 points to the wrong locus. The splice is "real causal work", where tenets L95 has "real work"/"genuine causal work". The disputed one is the Whitehead "consciousness all the way down" warning: the page already says *experience* all the way down (L65). The hedge was dropped from the enactivism page's L78. The §11.5 list is credited to the changelog but comes from `positions/methodology-and-calibration` P-M5. 9 external sources were checked: Chalmers 1995 (raw HTML), Clark 2013 (OpenAlex abstract: "hierarchical generative model"), James *Principles* ch. XI ("resultant or a force", Gutenberg raw text), COGITATE 2025 (PubMed: n = 256, no offset ignition), Singhal & Srinivasan 2021, Hung, Wu & Shimojo 2020, and the Thompson précis ("extra ingredient"). All match.
+- **High-value findings**: the interface is said to have "answered" closure (L87, L130), but tenets ^tenet-3-standing (since 2026-08-03) says available, not actual. MWI "reinforces indexical identity" (L132), but tenets L123 says a process-treated subject *weakens* the indexical objection. Agent-causal selection appears among the data (L53). The page says the hard problem "presupposes the property framework" (L49), but Chalmers and the Map's own hard-problem page (L94, L119) pose it about processing. The page says "exactly two families" (L47). The lead's "wrong category" claim is undercut by the page's own process-identity concession. The page says quantum measurement is "closing on precisely this point", where the linked page says only "resonates". The Further Reading gloss contradicts the body (L147 against L116). There are source slips (Clark, James on effort, Bergson). Extensionalism is asserted flatly, against the Map's own temporal-consciousness L102. The 2011 GNW picture is presented without the COGITATE result. The candidate features have no passive or unconscious controls. Bergson-and-duration makes a phenomenology-to-ontology slide (L39, L131).
+- **Tasks generated**: 3 (P1: 1, P2: 2), all refine-draft. They are a consolidated calibration pass on [[topics/consciousness-as-activity]] (P1), a source-fidelity/currency/counterexample pass on the same file (P2, one editor pass preferred), and [[topics/bergson-and-duration]] (P2). Each was deduplicated against the active queue first. parse_tasks active count 57 → 60. The tasks were inserted before the line-start `## Completed Tasks` heading, with absolute File paths and all fields above Notes.
+- **Stability-note override**: the 09-26 deep review's "closure wording … settled" and its "effort … tolerated" note are overridden in the tasks' Caution lines, with reasons. The tenets paragraph predates that review.
+- **Not minted**: items already addressed on the live page (whirlpool/dancing caveats, James/Whitehead divergence, process-identity concession); self-application of the agent-shaped hole and the process-apex bridge (partly addressed or capped); methodology items 36–43 (the "bedrock exempt" instance is handled inside P1).
+- **Convergence candidates**: 7, recorded in the review's Processing Record. The same-day Claude leg audits the same article and is still pending.
+- **Links**: `normalize_review_links.py` dry-run made no changes. Map citation URLs were kept as markdown links, not converted to wikilinks, to keep the reply verbatim.
+- **Review frontmatter**: `outer_review_status: processed`; topics (bare slugs), concepts, related_articles and description populated; provenance fields preserved.
+- **Telegram**: not sent. The driver brief did not authorise the live-channel step; it is left to the operator.
+- **Published**: synced to Hugo; no commit.
+- **Model**: claude-opus-5-5
+
+## 2026-10-03T03:53:58+00:00 - collect-chatgpt-review
+- **Status**: Success
+- **Target**: [[reviews/outer-review-2026-10-03-chatgpt-5-6-sol-pro]]. Subject: `recent` ("Audit consciousness-as-activity", articles `topics/consciousness-as-activity.md`, source `fallback:recent-aged`).
+- **Conversation**: commissioned 2026-10-03T02:09:32Z and collected at about 104 minutes of age (collect_attempts 0; the entry is now marked `collected`).
+- **Readiness**: no Stop button and 0 `.result-streaming`. The turn's action bar (Copy, Rate, Share, Read aloud, Regenerate) had rendered, and the body ends on improvement item 43. There is one `[data-turn-key]`; `[data-message-author-role]` and `#prompt-textarea` are both absent (the composer is contenteditable). Logged in.
+- **Model check**: the turn's regenerate menu reads "Try again • 5.6 Pro", which matches the filename slug. The "Medium" pill seen at commission belongs to the next turn's composer.
+- **Extraction**: the page's own Copy button, with `navigator.clipboard.write` intercepted (text/plain 52,888 chars + text/html), then a page Blob download to disk (`~/Downloads/unfin-collect-2026-10-03-chatgpt.json`). There was no retyping. SHA-256 `53be253109d90c7a67a2ba6f4c46a64ee8251781f8e73f1fe04a2fef16a7f811` matched on page and on disk. The file differs only by `collect_review.py` Map-link anchor normalisation (24 lines, diff-verified with anchors masked). The submitted prompt equals the pending `prompt_text`.
+- **Chrome**: tab 771740500 in group 2128397411. The screenshot scale was measured at 0.665 (frame 1246 against innerWidth 1873).
+- **Next**: outer-review processing was invoked inline.
+- **Model (this skill)**: claude-opus-5-5
 
 ## 2026-10-03T03:28:56+00:00 - refine-draft
 - **Status**: Success
