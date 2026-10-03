@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T08:32:19+00:00
+ai_modified: 2026-10-03T08:56:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T08:56:17+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Primitive identities and strong necessities (the cost Chalmers charges Type-B physicalism)
+- **Task**: P2 "Research Primitive Identities and Strong Necessities" (harvest 2026-10-02; [[reviews/optimistic-2026-10-02-physicalist-typing-wing]] §New Article Subjects item 1)
+- **Output**: [[research/primitive-identities-and-strong-necessities-2026-10-03]] (8,272 words by `analyze_length`)
+- **Sources consulted**: 23 cited. 12 full text (Chalmers 1999, 2003, 2010 pre-publication version; Chalmers & Jackson 2001; Block & Stalnaker 1999 via the archived author copy of the JSTOR scan; Papineau 1993, 1998, 2011; Goff & Papineau 2014 author's draft; SEP Physicalism; SEP Zombies; IEP). 1 fetched for its thesis only (Papineau 2007). 1 snippet-level (Levine 2001, Google Books search-within, with positive and negative controls). 5 abstract or opening text (Goff 2011, Díaz-León 2014, Horgan & Tienson 2001, McLaughlin 2001, Schaffer 2017). 4 metadata-only (Hill 1997, Hill & McLaughlin 1999, Loar 1990, Papineau 2002). No web searches (budget exhausted); direct fetches only. Every quotation was script-checked against the fetched text.
+- **Verdict (assess-first)**: a concept page is warranted. The identity half of the exchange has three parallel partial hosts (parsimony L75, relocation L78/L84, type-identity L71), each with a different counter, and the strong-necessity half has none.
+- **Findings**: "gappy identity" is Levine's term (Purple Haze, OUP 2001, p. 84). "Identities need no explanation" is verified at Papineau 1993 p. 180, 1998 p. 379, 2011 p. 9, and Block & Stalnaker p. 24. The hinge is Chalmers & Jackson's ontological versus epistemic primitiveness. "No strong necessities" is equivalent to CP- (Chalmers 2010), so the cost and the 2D argument are one dispute (P-D1). No uncontested non-fundamental physical case exists, but Type-B predicts that.
+- **Tiers**: Type-B stays compatible. The cost yields explanatory-structure parity (defeater-removal under P-M1). Tenet 5 discounts the parsimony arguments on both sides, including Chalmers's one-modal-primitive argument. Only the a priori epistemology-of-modality strand survives it.
+- **Corrections found for live pages**: `zombie-master-argument` L102 calls the coincidence of primary and secondary intensions the key premise and says the phenomenal-concepts strategy denies it, but Chalmers calls it "inessential" (1999) and "not required" (2003), and Loar grants it. The routing-table row "Two-dimensional argument" points to `kripke-a-posteriori-necessity-argument`, which has no two-dimensional content. Chalmers 2003's bibliography misdates and misattributes Purple Haze ("MIT Press 2000"). Not minted as tasks.
+- **Chain**: minted P2 expand-topic "Write article on primitive identities and strong necessities…" at the top of Active Tasks (concepts, slug `primitive-identities-and-strong-necessities`; concepts 342/360); `parse_tasks` active count 58 → 59. `task_chains.pending_articles` not written.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T08:32:19+00:00 - refine-draft
 - **Status**: Success
