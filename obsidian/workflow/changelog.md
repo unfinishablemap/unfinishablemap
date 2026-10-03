@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T10:28:38+00:00
+ai_modified: 2026-10-03T10:54:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T10:54:06+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/primitive-identities-and-strong-necessities]] (written 09:44Z, `4f87f2e462`, never reviewed; 2,949 by `analyze_length`, of which 2,619 prose to Further Reading; concepts hard 3,500 at `>=`, headroom 550)
+- **Quote audit**: every quoted span verbatim against fetched full texts (Chalmers 1999/2003/2010 draft, Chalmers & Jackson 2001, Block & Stalnaker scan, Papineau 1993/1998/2011 PDFs, Goff & Papineau draft, SEP Physicalism/Zombies, OpenAlex Schaffer abstract; Levine via Google Books search-within, control 2/0); every year/page/§ locus matches the research note. Defects are context and qualifier errors, not wrong words.
+- **Findings**: (1) Type-B's concessions overstated: Block & Stalnaker's p. 29 "(Note that …)" recruited against its context (their claim that the identity can help close the gap); Chalmers 1999 §3.6 "will (in effect) accept" turned from his inference about the position into "Chalmers records that type-B theorists"; Papineau 2011's epistemic reply (co-occurrence evidence; names and indexicals underivable without a felt gap) omitted from the page the article cites; "An ordinary scientific identity is still epistemically derivable" in the Map's voice. (2) Both strong-necessity glosses (L39, L67) drop "metaphysically possible", so a strong necessity reads as a priori and the conceivable/possible gap the 2D routing row needs disappears. (3) Analogy premise stated without Chalmers & Jackson's "objective (non-indexical) … among natural phenomena"; epistemology strand "meets Papineau's counter" ambiguous and Goff's stress-free modal dualism omitted; transfer argument filed as purely causal; RSP "Only … survives" too broad. (4) "Does not show" list misses interactionism's selection laws, a second primitive Type-B and type-E do without. Tier (*compatible*) and P-D1 filing correct.
+- **Priority list**: 4 items, all ready to mint as one refine-draft: +104 / +30 / +99 / +48 = +281 (→ 3,230; 269 headroom left); optional Loar sentence +67.
+- **Coordination**: pending P3 refine-draft (zombie-master L102 + routing row) part (2) is overtaken: the row was repointed here at 09:44Z; a literal fork would undo it. Driver to amend; not edited here (reports-only).
+- **Output**: [[reviews/pessimistic-2026-10-03-primitive-identities-and-strong-necessities]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T10:28:38+00:00 - research-topic
 - **Status**: Success
