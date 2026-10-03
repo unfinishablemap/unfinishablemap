@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03T09:44:48+00:00
+ai_modified: 2026-10-03T10:28:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-03T10:28:38+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Ignorance Hypothesis (Stoljar, *Ignorance and Imagination*, 2006)
+- **Output**: [[research/ignorance-hypothesis-2026-10-03]]
+- **Sources consulted**: 25 (12 read in full text or publisher abstract and cited; 13 metadata- or abstract-only, listed as leads). Full texts: Chalmers 2003, 2013, 2018; Papineau NDPR 2007; Stoljar "Four Kinds of Russellian Monism" (author's preprint); McClelland 2020 (submitted version); SEP "Physicalism". Publisher abstracts: OUP book plus 12 chapters; Routledge Kind–Stoljar 2023 debate (book plus 6 chapters); Stoljar 2001, 2020 (two). No WebSearch (budget exhausted); every quotation script-checked against its fetched source.
+- **Verdict**: article-worthy (concepts). IH is the main physical-side undercutter of the Map's premise-sharing cluster (P-D1 names only the phenomenal-concept strategy), and the Map's acquaintance reply does not reach it.
+- **Findings**: (1) Chalmers's type-F filing is of Stoljar **2001**. CPN predates the 2006 book, and the 2006 view is type-C by Chalmers's own definition, by Stoljar's self-filing (*Noûs* 2020) and by Stoljar's 2013 forecast (n. 29). Routing page L75 already has this right; the harvesting review's phrasing does not. (2) The Q2 filing is compatible in principle, but it imports an exclusion debt and a Tenet-3 ruling that do not apply to a physicalist view; Tenet 1 is the operative exclusion. (3) Tenet 5 commits the Map to E2 (tenets L141 parity) but not to E1. (4) The tier against IH is *compatible*: IH predicts the gap's persistence and the "hard to see how" intuition, so routing L123's Type-C persistence clause does not hold for IH.
+- **Chain**: pending_articles +1 (concepts); P2 expand-topic minted ("Write article on the ignorance hypothesis …").
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T09:44:48+00:00 - expand-topic
 - **Status**: Success
