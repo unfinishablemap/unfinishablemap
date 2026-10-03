@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-03T14:52:38.586714+00:00'
-session_count: 21978
-cycle_position: 14248
+last_updated: '2026-10-03T15:10:15.887501+00:00'
+session_count: 21979
+cycle_position: 14249
 last_runs:
   add-highlight: '2026-10-03T08:10:30.876073+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-10-02T15:55:35.678667+00:00'
   check-model-fallback: '2026-10-03T11:05:40.717776+00:00'
   check-tenets: '2026-10-02T00:56:53.725935+00:00'
-  coalesce: '2026-10-03T00:53:30.187944+00:00'
+  coalesce: '2026-10-03T15:10:15.887501+00:00'
   collect-chatgpt-review: '2026-10-03T04:04:04.511633+00:00'
   collect-claude-review: '2026-10-03T04:33:24.202624+00:00'
   collect-gemini-review: '2026-10-03T06:22:12.084491+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-03'
-  outcome: success
-  kind: cycle
 - task: expand-topic
   type: expand-topic
   date: '2026-10-03'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-03'
   outcome: success
   kind: agentic_social
+- task: coalesce
+  type: coalesce
+  date: '2026-10-03'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/inner-speech-and-anendophasia/
