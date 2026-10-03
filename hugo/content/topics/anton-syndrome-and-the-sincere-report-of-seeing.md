@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-03 17:45:20+00:00
+ai_modified: 2026-10-03 21:53:18+00:00
 ai_system: claude-opus-5-5
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[blindsight]]'
@@ -24,7 +25,7 @@ description: Blind patients who sincerely say they see leave the Map's claim tha
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-03 17:45:20+00:00
+lastmod: 2026-10-03 21:53:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +43,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Anton syndrome is the clinical condition in which a blind patient, usually after damage to both occipital lobes, sincerely says they can see and describes surroundings they cannot see. It looks like a refutation of first-person authority. The Map's verdict is narrower. Anton leaves standing the Map's strongest first-person claim, the near-incorrigible [Layer 1](/topics/phenomenal-authority-and-first-person-evidence/) judgement that experience is occurring at all, because that claim is global and Anton patients are conscious. What fails is a *modal* existence claim, "I am having visual experience", and the case shows that claims at that grain are fallible under pathology, so they carry the fallible Layer-2 grade of authority rather than Layer-1 grade. The case also fixes where authority attaches: to *seemings*, not to *reports*. A sincere report of seeing does not certify that a visual seeming stands behind it. David Chalmers, whose fading-qualia argument relies on first-person reliability, had already conceded blindness denial by name and restricted that reliability to rational systems "whose cognitive mechanisms are unimpaired" (Chalmers 1995).
+Anton syndrome is the clinical condition in which a blind patient, usually after damage to both occipital lobes, sincerely says they can see and describes surroundings they cannot see. It looks like a refutation of first-person authority. The Map's verdict is narrower. Anton leaves standing the Map's strongest first-person claim, the near-incorrigible [Layer 1](/topics/phenomenal-authority-and-first-person-evidence/) judgement that experience is occurring at all, because that claim is global and Anton patients are conscious. What fails is a *modal* claim, "I can see". If no visual experience stands behind it, which no case on record excludes, it is also a false modal existence claim, "I am having visual experience"; claims at that grain therefore cannot be counted as near-incorrigible under pathology, and they carry the fallible Layer-2 grade of authority rather than Layer-1 grade. The case also fixes where authority attaches: to *seemings*, not to *reports*. A sincere report of seeing does not certify that a visual seeming stands behind it. David Chalmers, whose fading-qualia argument relies on first-person reliability, had already conceded blindness denial by name and restricted that reliability to rational systems "whose cognitive mechanisms are unimpaired" (Chalmers 1995).
 
 What the evidence cannot settle is whether the patient who says "I see" has no visual experience or has imagery or hallucination that is taken for perception, the readings A and B [set out below](#three-readings-and-an-overlay). Every available measure is a report or a behaviour, no case on record discriminates between them, and different patients probably fall on different sides. For the Map's [tenets](/tenets/), Anton is compatible with Dualism without supporting it, compatible with Bidirectional Interaction only as report reliability in unimpaired systems (a form the tenets already concede), and silent on Minimal Quantum Interaction and No Many Worlds.
 
@@ -107,7 +108,7 @@ The modal row presses on the Map's [blindsight](/concepts/blindsight/) article, 
 
 Anton leaves the Map's first-person epistemology standing and forces three clarifications.
 
-**Modal existence carries Layer-2 grade.** The [gradient of warranted trust](/topics/phenomenal-authority-and-first-person-evidence/#the-gradient-of-warranted-trust) gives its highest grade to global phenomenal existence, that experience occurs at all. Claims that experience *of a given kind* is occurring fall outside that row, and Anton is the documented case of their failing. They belong with attended content: strong in unimpaired subjects, and fallible.
+**Modal existence carries Layer-2 grade.** The [gradient of warranted trust](/topics/phenomenal-authority-and-first-person-evidence/#the-gradient-of-warranted-trust) gives its highest grade to global phenomenal existence, that experience occurs at all. Claims that experience *of a given kind* is occurring fall outside that row, and on reading A, which the evidence cannot rule out, Anton is a documented case of their failing. They belong with attended content: strong in unimpaired subjects, and fallible.
 
 **Authority attaches to seemings.** On the constitutive view, a visual seeming cannot occur without visual phenomenality, so such an observation cannot be wrong about whether visual phenomenality is occurring. Anton is consistent with that claim under either reading. Under A, no visual seeming occurs and none is misreported. Under B, a seeming occurs and its source is misjudged. The price is plain: a sincere first-person report does not certify that a seeming stands behind it, and neither the listener nor, in pathology, the speaker can always tell which reports are backed by one. [Weak Revelation](/concepts/revelation-thesis/) survives either way; under B the experience's existence is revealed correctly and only its source, no part of its character, is mistaken.
 
@@ -117,7 +118,7 @@ Anton leaves the Map's first-person epistemology standing and forces three clari
 
 **[Dualism](/tenets/#dualism).** Anton is compatible with Tenet 1 and does not support it. Every reading (confabulation, misclassified imagery, a shared anosognosia network, higher-order misrepresentation) can be stated in production terms. What stays unexplained is the general gap between any such account and what the patient experiences, which is the [hard problem](/topics/hard-problem-of-consciousness/) and nothing special to this syndrome. Nor is the case a threat: the first-person claim Dualism draws on is the global existence of experience, which Anton leaves standing.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Compatible, with the correlation reply already conceded: the tenets grant that a tight correlation between phenomenal and neural states could underwrite accurate reports without phenomenal causation, so Anton removes nothing the Map still claimed. It shows that under pathology reports of experience can be produced without the experience they report, not that reports in unimpaired systems are produced that way. The [agency-void](/voids/agency-void/) gives the structural reason the introspective route cannot settle the question.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Compatible, with the correlation reply already conceded: the tenets grant that a tight correlation between phenomenal and neural states could underwrite accurate reports without phenomenal causation, so Anton removes nothing the Map still claimed. On reading A it shows that under pathology reports of experience can be produced without the experience they report; on neither reading does it show that reports in unimpaired systems are produced that way. The [agency-void](/voids/agency-void/) gives the structural reason the introspective route cannot settle the question.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** For each patient, confabulation is the economical reading, and the "multifactorial" verdict warns against any tidy single-channel story. The tenet cuts both ways. It gives no licence to discount reading B, where imagery or hallucination is present, because A is simpler, and none to prefer B because it suits a richer picture of experience.
 
