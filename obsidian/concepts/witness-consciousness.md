@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-10-03T12:40:33+00:00
+ai_modified: 2026-10-03T15:52:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ last_deep_review: 2026-07-12T14:04:40+00:00
 
 Witness consciousness—Sanskrit *sakshi*, the "seer" or "observer"—refers to a mode of awareness that observes mental contents without identifying with them. Thoughts, sensations, and emotions arise and pass; the witness remains unchanged, a pure awareness that perceives without participating. This concept, central to Advaita Vedanta and other contemplative traditions, carries significant implications for understanding the subject-object structure of consciousness: it supports the [[tenets#^dualism|irreducibility]] of consciousness to its contents, though not the two-relata structure [[tenets#^bidirectional-interaction|interactionism]] needs.
 
-The witness concept suggests consciousness is not identical to its contents. If you can observe a thought as an object, then "you"—the observer—are distinct from that thought. This structural feature of experience, accessible through introspection and meditation, provides phenomenological evidence for the irreducibility of consciousness to mental content. Contemplative traditions constitute millennia of systematic first-person investigation—disciplined phenomenological method predating Husserl.
+The witness concept suggests consciousness is not identical to its contents. If you can observe a thought as an object, then "you"—the observer—are distinct from that thought. This structural feature of experience, accessible through introspection and meditation, provides phenomenological evidence for the irreducibility of consciousness to mental content. Contemplative traditions constitute [[contemplative-path|millennia of systematic first-person investigation]]—disciplined phenomenological method predating Husserl.
 
 ## The Witness in Contemplative Traditions
 

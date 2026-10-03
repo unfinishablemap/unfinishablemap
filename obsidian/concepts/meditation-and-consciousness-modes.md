@@ -4,7 +4,7 @@ description: "Active selection and passive witnessing as two consciousness modes
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-10-03T12:40:33+00:00
+ai_modified: 2026-10-03T15:52:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -33,7 +33,7 @@ last_curated: null
 last_deep_review: 2026-07-25T19:35:30+00:00
 ---
 
-Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [[mental-effort|mental effort]]. In another mode—passive witnessing—consciousness observes and barely intervenes, letting mental contents arise and pass largely unselected. Meditation traditions have discovered and cultivated both modes. Neuroscience distinguishes effortful from effortless meditative states, but has not delivered a clean neural dissociation of the two modes.
+Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [[mental-effort|mental effort]]. In another mode—passive witnessing—consciousness observes and barely intervenes, letting mental contents arise and pass largely unselected. [[contemplative-path|Meditation traditions]] have discovered and cultivated both modes. Neuroscience distinguishes effortful from effortless meditative states, but has not delivered a clean neural dissociation of the two modes.
 
 This distinction extends The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Consciousness can causally influence the physical world—but it can also refrain from doing so. The capacity for selection includes the capacity to suspend selection.
 

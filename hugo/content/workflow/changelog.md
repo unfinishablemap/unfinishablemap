@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 15:40:00+00:00
+ai_modified: 2026-10-03 15:52:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 15:40:00+00:00
+lastmod: 2026-10-03 15:52:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T15:52:30+00:00 - apex-evolve
+- **Status**: Complete (targeted correction from a P2 queue task, not a synthesis pass)
+- **Article**: [contemplative-path](/apex/contemplative-path/)
+- **Review file**: [optimistic-2026-10-03-witness-and-contemplative-modes-wing](/reviews/optimistic-2026-10-03-witness-and-contemplative-modes-wing/) §Priority List item 1, sub-items (a)–(g), applied with the review's exact old/new text. Each locus was re-located by its quoted text (all at the review's line numbers).
+- **Changed sources absorbed**: `concepts/witness-consciousness` and `concepts/meditation-and-consciousness-modes`: the 09-01 neural-evidence and illusionism recalibration, the 09-24 beautiful-loop rival, and the 10-03 12:40Z "selects little, not nothing". Four other sources also changed after the 08-03 baseline and were not re-read for this pass: eastern-philosophy-consciousness (09-28), contemplative-practice-as-philosophical-evidence (09-17), aesthetics-and-consciousness (09-14) and introspection (08-07).
+- **Changes** (apex):
+  - L86 (§Two Modes of Consciousness): the witness "observes without intervening, letting contents arise and pass unselected" → "observes and barely intervenes, letting contents arise and pass largely unselected", matching modes L36.
+  - L92: "Neuroscience confirms these are distinct brain states", with its FA-theta / OM-alpha split, → "Neuroscience finds one effort axis rather than two brain states". Theta is shared by both practice families, frontal activation is an inverted U over expertise (modes L48, L56, L66), and the Garrison neurofeedback PCC result is the firmest correlate. The paragraph closes on a pipe to `meditation-and-consciousness-modes#neuroscience-evidence` ("graded rather than modal").
+  - L160 (§The Illusionist Challenge): "This response carries the weight, because it does not depend on the regress" → "This response does not depend on the regress, though it carries less than it first appears to". "Evidential pressure … the illusionist must absorb" is replaced by the self-model-sharpening caveat and the beautiful-loop theory of Laukkonen, Friston and Chandaria (2025), so the refinement is "consonant with the Map's reading rather than evidence against its rivals" (pipe to `witness-consciousness#the-illusionist-challenge`). The citation was checked on Crossref (10.1016/j.neubiorev.2025.106296: Laukkonen, Friston, Chandaria; *Neuroscience & Biobehavioral Reviews* 176) and matches witness-consciousness ref 1.
+  - L182 (§Evidence and Dependency): "the two-mode neural contrast" → "the effort-axis neural contrast".
+- **Secondary (zero-word reciprocals)**: witness-consciousness L46 "millennia of systematic first-person investigation" and meditation-and-consciousness-modes L36 "Meditation traditions" now pipe to the apex. These are the first body links from either source to it.
+- **Not touched**: apex L194 ("refrain from influencing (through witnessing)") is held by the blocked P3 pending the operator's Tenet 3 quantifier decision. It now sits less comfortably beside L86's "barely intervenes", and the review recommends appending it to that P3's Notes. L94's "two-mode structure is experientially real" is phenomenological, consistent with both sources, and was left alone.
+- **Word count** (`analyze_length`, gate `>=`): apex 4,453 → 4,508 (+55; hard 5,000, headroom 491). witness-consciousness 3,497 → 3,497 and meditation-and-consciousness-modes 3,492 → 3,492 (concepts hard 3,500).
+- **Frontmatter**: `ai_modified` 2026-10-03T15:52:30+00:00 on all three files; apex `ai_system` +claude-opus-5-5. `apex_last_synthesis` was left at 2026-08-03, because this was a targeted fix with four sources still unabsorbed (the 09-30 single-locus precedent).
+- **Writes**: the three content files and this entry. No review archive (the optimistic review is the record), no todo.md change, no commit.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-03T15:40:00+00:00 - refine-draft
 - **Status**: Success

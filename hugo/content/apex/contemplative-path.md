@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-09-30 08:01:32+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-10-03 15:52:30+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-08-03 20:00:07+00:00
 apex_sources:
 - topics/eastern-philosophy-consciousness
@@ -39,7 +39,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 23:49:16+00:00
-lastmod: 2026-09-30 08:01:32+00:00
+lastmod: 2026-10-03 15:52:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,13 +88,13 @@ The philosophical significance is considerable, and so is its limit. If consciou
 
 ### Two Modes of Consciousness
 
-[Contemplative traditions distinguish two fundamental modes](/concepts/meditation-and-consciousness-modes/). In selection mode, consciousness engages the brain through attention, choosing among competing patterns and holding desired states stable through effort; in witness mode, it observes without intervening, letting contents arise and pass unselected.
+[Contemplative traditions distinguish two fundamental modes](/concepts/meditation-and-consciousness-modes/). In selection mode, consciousness engages the brain through attention, choosing among competing patterns and holding desired states stable through effort; in witness mode, it observes and barely intervenes, letting contents arise and pass largely unselected.
 
 The phenomenology is vivid. Selection feels effortful, sustained concentration requiring continuous re-engagement as attention drifts; witnessing feels effortless, awareness persisting without work. The transition is not subtle—you can feel the shift from directing to observing.
 
 Buddhist meditation taxonomy maps the progression precisely. The Theravāda jhāna sequence runs from first jhāna, retaining active thought (*vitakka*, *vicāra*), to fourth jhāna's *upekkhā* (equanimity), where active engagement fades entirely; the Tibetan nine stages of *śamatha* track the same arc; Zen's *shikantaza* ("just sitting") is radical witness mode. Three traditions, one progression, [mapped in detail elsewhere](/topics/comparative-phenomenology-of-meditative-traditions/).
 
-Neuroscience confirms these are distinct brain states. Focused attention meditation shows frontal theta oscillations and dorsolateral prefrontal activation; open monitoring shows posterior cingulate deactivation and increased alpha; a neurofeedback study matched reports of "undistracted awareness" and "not efforting" to measurable PCC deactivation. The phenomenology tracks real neural differences.
+Neuroscience finds one effort axis rather than two brain states. Theta rises in both practice families, and frontal activation follows an inverted U over expertise, indexing how hard the practitioner is working rather than which mode is running; the firmest correlate is a neurofeedback study matching reports of "undistracted awareness" and "not efforting" to posterior cingulate deactivation. The phenomenology tracks a real neural difference, [graded rather than modal](/concepts/meditation-and-consciousness-modes/#neuroscience-evidence).
 
 The Map interprets this through the quantum Zeno mechanism—selection as rapid observation events holding patterns stable, witnessing as a reduced observation rate letting patterns evolve. The mechanism is speculative; the phenomenology is not. Whatever explains it—the strongest physicalist derivation of the two-mode arc, precision-reduction in a predictive hierarchy, is engaged under cessation below—the two-mode structure is experientially real, and its graduated character across traditions makes selection and witnessing modes on a continuum rather than binary opposites.
 
@@ -162,7 +162,7 @@ Three responses bear on the contemplative case, each with limitations the Map ac
 
 **The regress, and what it does not settle.** For contemplative experience to be illusory, something must experience the illusion. Taken bare the move proves nothing: it assumes the seeming is itself phenomenal, which illusionists deny, and a representational system need not instantiate what it represents. What survives is narrower: the illusionist has traded "why are there qualia?" for "why does introspection *seem* to disclose them?", and the trade gains only if the second question is tractable where the first was not. Dennett's heterophenomenology marks the middle path—take first-person reports seriously as data about what subjects believe, without treating them as veridical descriptions of non-physical properties.
 
-**Training refines rather than dissolves.** This response carries the weight, because it does not depend on the regress. If contemplative phenomenology were fabricated, extended practice should expose it, as understanding dissolves other cognitive errors. Instead practice *refines* access: the distinctions between choosing and observing, between effort and effortlessness, grow *clearer* with training rather than resolving into recognition that there was nothing there. An illusionist can reply that what improves is the fidelity of quasi-phenomenal self-representation, not access to anything phenomenal—making this evidential pressure rather than proof, but pressure the illusionist must absorb.
+**Training refines rather than dissolves.** This response does not depend on the regress, though it carries less than it first appears to. If contemplative phenomenology were fabricated, extended practice should expose it, as understanding dissolves other cognitive errors. Instead practice *refines* access: the distinctions between choosing and observing, between effort and effortlessness, grow *clearer* with training rather than resolving into recognition that there was nothing there. An illusionist can reply that what improves is the fidelity of quasi-phenomenal self-representation, not access to anything phenomenal—a self-model trained on a tradition's vocabulary sharpens whether or not it tracks anything, and the beautiful-loop theory of Laukkonen, Friston and Chandaria (2025) predicts exactly this pattern—so the refinement is [consonant with the Map's reading rather than evidence against its rivals](/concepts/witness-consciousness/#the-illusionist-challenge).
 
 **The convergence problem.** The illusionist must still explain why investigation across the traditions surveyed above—distinct lineages, opposed metaphysical commitments—produced converging structural descriptions of an experience that should have dissolved under scrutiny. Where theory-ladenness predicts artefacts diverging across frameworks, convergence despite theoretical disagreement favours discovery, though all introspection shares one instrument. It is bounded twice over: it holds on *structural* features—impermanence, the witness, the two modes, the jhāna sequence—but not on affective tone, which [diverges sharply across traditions](/topics/affective-tone-divergence-across-meditative-traditions/); and it is convergence on what is found, not on what it means, the Kyoto reading taking the same territory somewhere the Map does not. What it supports is a shared structural phenomenology, not a single total one.
 
@@ -184,7 +184,7 @@ None of these has been demonstrated. The evidence remains substantial, though mu
 
 ## Evidence and Dependency
 
-The descriptive core is externally evidenced and survives the Map's collapse: the two-mode neural contrast, the jhāna imaging, the lucid-dreaming signatures, the prodrome result, and the trainability finding are published work a physicalist can accept entire. The cross-tradition structural convergence is independently argued, needing only that the traditions differed in lineage and metaphysics—a historical claim, not a tenet.
+The descriptive core is externally evidenced and survives the Map's collapse: the effort-axis neural contrast, the jhāna imaging, the lucid-dreaming signatures, the prodrome result, and the trainability finding are published work a physicalist can accept entire. The cross-tradition structural convergence is independently argued, needing only that the traditions differed in lineage and metaphysics—a historical claim, not a tenet.
 
 The inferential moves are where the dependency sits. That persistent correlation-without-explanation marks an ontological boundary rather than a young science is inherited from Tenets 1 and 5. Reading neuroplastic change as downward causation is inherited from Tenet 3, and by the admission above the plasticity evidence does not discriminate. The quantum Zeno gloss on the two modes is inherited from Tenet 2 and carries no independent weight—the phenomenology would look the same without it. Process haecceitism is imported from the Map's treatment of [identity across transformations](/apex/identity-across-transformations/) and is mutually coherent only: no contemplative tradition asserts it. The one line running the other way, the Kyoto reading of pure experience, is externally sourced and cuts against the witness argument; it is counted here rather than absorbed.
 

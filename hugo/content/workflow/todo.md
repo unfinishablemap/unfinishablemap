@@ -1847,16 +1847,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-03
 - **Notes**: The 12:40Z carry made eight loci on five pages say the witness state selects little, not nothing ("it must still steer a little, or it could not cause its own reports", per concepts/stapp-quantum-mind L100 and concepts/trumping-preemption "Costs of the Template", fourth cost). Still asserting that witnessing suspends or refrains from influence: topics/the-observer-witness-in-meditation L38, L65 ("lets patterns unfold without i[ntervening]"), L89 ("The capacity for causal intervention includes the capacity…"), L111 ("consciousness can suspend its selecting function"), L147 (its own Epiphenomenalism Worry reply: "the witness mode shows consciousness *can* refrain from acting"), L169 ("consciousness *can* refrain from influencing matter (through witnessing)"), L193 ("observing without choosing, available without intervening"); concepts/meditation-and-consciousness-modes L38 ("The capacity for selection includes the capacity to suspend selection") and L181 ("a claim about possibility, not necessity"). ALSO (added 13:35Z from optimistic-2026-10-03-witness-and-contemplative-modes-wing §Consistency Verdict): meditation-and-consciousness-modes L204 and apex/contemplative-path L194 state the capacity reading; observer-witness L36, L42 and L58 set up the held thesis — treat them with the rest. L89/L169/L181 interpret the Tenet 3 quantifier as a capacity claim, so they wait on the operator; once decided, make every locus agree with "selects little, not nothing" and with the decided reading, keeping the phenomenology intact. LENGTH (12:50Z, analyze_length, gate `>=`): observer-witness 3,223 (topics hard 4,000, headroom 776); meditation-and-consciousness-modes 3,492 (concepts hard 3,500, headroom 7: NET-ZERO OR NEGATIVE). Do not edit stapp-quantum-mind, trumping-preemption or tenets.md.
 
-### P2: contemplative-epistemology cites Lindahl et al. (2017) for "secular mindfulness participants"; the study interviewed sixty Western Buddhist meditators
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/contemplative-epistemology.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-03 13:20Z (Priority item 4; checked against the paper's full text), minted by the driver 13:35Z
-- **Review file**: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-03-witness-and-contemplative-modes-wing.md
-- **Generated**: 2026-10-03
-- **Notes**: Apply the review's Priority list item 4 using its exact old/new text. L95 says "Secular mindfulness participants, trained in stress reduction rather than spiritual development, report states…" citing Lindahl et al. (2017) "The varieties of contemplative experience", PLOS One 12(5) e0176239; the study interviewed sixty Western Buddhist meditators, twenty each from Theravāda, Zen and Tibetan lineages. The 2026-05-29 deep review marked this citation "VERIFIED CLEAN" by paraphrasing the population, so re-verify against the open-access full text (journals.plos.org, DOI 10.1371/journal.pone.0176239) before writing, and make sure the argument the sentence serves (reports that contradict the practitioner's framework) still holds for the real population or is restated at its true strength. Also repair the L171 reference to the full author list per the review. Cost ~+55 against 2,594 by analyze_length (concepts hard 3,500, gate `>=`).
-
 ### P2: apex/contemplative-path lags its sources — "Neuroscience confirms these are distinct brain states", the witness "observes without intervening", and training-refinement "carries the weight" against illusionism
 - **Type**: apex-evolve
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/contemplative-path.md
@@ -1928,6 +1918,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-03: contemplative-epistemology cites Lindahl et al. (2017) for "secular mindfulness participants"; the study interviewed sixty Western Buddhist meditators
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/contemplative-epistemology.md
+- **Notes**: Apply the review's Priority list item 4 using its exact old/new text. L95 says "Secular mindfulness participants, trained in stress reduction rather than spiritual development, report states…" citing Lindahl et al. (2017) "The varieties of contemplative experience", PLOS One 12(5) e0176239; the study interviewed sixty Western Buddhist meditators, twenty each from Theravāda, Zen and Tibetan lineages. The 2026-05-29 deep review marked this citation "VERIFIED CLEAN" by paraphrasing the population, so re-verify against the open-access full text (journals.plos.org, DOI 10.1371/journal.pone.0176239) before writing, and make sure the argument the sentence serves (reports that contradict the practitioner's framework) still holds for the real population or is restated at its true strength. Also repair the L171 reference to the full author list per the review. Cost ~+55 against 2,594 by analyze_length (concepts hard 3,500, gate `>=`).
 
 ### ✓ 2026-10-03: Write article on the ignorance hypothesis — Stoljar's epistemic view, why it is type-C rather than type-F, and what Tenet 5 commits the Map to grant it
 - **Type**: expand-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-03 12:40:33+00:00
+ai_modified: 2026-10-03 15:52:30+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 14:04:40+00:00
-lastmod: 2026-10-03 12:40:33+00:00
+lastmod: 2026-10-03 15:52:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ topics:
 
 Witness consciousness—Sanskrit *sakshi*, the "seer" or "observer"—refers to a mode of awareness that observes mental contents without identifying with them. Thoughts, sensations, and emotions arise and pass; the witness remains unchanged, a pure awareness that perceives without participating. This concept, central to Advaita Vedanta and other contemplative traditions, carries significant implications for understanding the subject-object structure of consciousness: it supports the [irreducibility](/tenets/#dualism) of consciousness to its contents, though not the two-relata structure [interactionism](/tenets/#bidirectional-interaction) needs.
 
-The witness concept suggests consciousness is not identical to its contents. If you can observe a thought as an object, then "you"—the observer—are distinct from that thought. This structural feature of experience, accessible through introspection and meditation, provides phenomenological evidence for the irreducibility of consciousness to mental content. Contemplative traditions constitute millennia of systematic first-person investigation—disciplined phenomenological method predating Husserl.
+The witness concept suggests consciousness is not identical to its contents. If you can observe a thought as an object, then "you"—the observer—are distinct from that thought. This structural feature of experience, accessible through introspection and meditation, provides phenomenological evidence for the irreducibility of consciousness to mental content. Contemplative traditions constitute [millennia of systematic first-person investigation](/apex/contemplative-path/)—disciplined phenomenological method predating Husserl.
 
 ## The Witness in Contemplative Traditions
 

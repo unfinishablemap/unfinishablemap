@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-03 12:40:33+00:00
+ai_modified: 2026-10-03 15:52:30+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 19:35:30+00:00
-lastmod: 2026-10-03 12:40:33+00:00
+lastmod: 2026-10-03 15:52:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [mental effort](/concepts/mental-effort/). In another mode—passive witnessing—consciousness observes and barely intervenes, letting mental contents arise and pass largely unselected. Meditation traditions have discovered and cultivated both modes. Neuroscience distinguishes effortful from effortless meditative states, but has not delivered a clean neural dissociation of the two modes.
+Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [mental effort](/concepts/mental-effort/). In another mode—passive witnessing—consciousness observes and barely intervenes, letting mental contents arise and pass largely unselected. [Meditation traditions](/apex/contemplative-path/) have discovered and cultivated both modes. Neuroscience distinguishes effortful from effortless meditative states, but has not delivered a clean neural dissociation of the two modes.
 
 This distinction extends The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Consciousness can causally influence the physical world—but it can also refrain from doing so. The capacity for selection includes the capacity to suspend selection.
 
