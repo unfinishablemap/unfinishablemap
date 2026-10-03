@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 12:53:19+00:00
+ai_modified: 2026-10-03 13:20:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 12:53:19+00:00
+lastmod: 2026-10-03 13:20:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T13:20:35+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the witness and contemplative-modes wing after the 12:40Z "selects little, not nothing" carry: [witness-consciousness](/concepts/witness-consciousness/) (3,497/3,500), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) (3,492/3,500), [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) (3,223/4,000), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) (2,847/3,500), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) (3,884/4,000), [contemplative-epistemology](/concepts/contemplative-epistemology/) (2,594/3,500), [contemplative-path](/apex/contemplative-path/) (4,453/5,000), [witnessing-void](/voids/witnessing-void/) (2,260/3,000), all read in full, with the blocked P3 and the Tenet 3 NEEDS-HUMAN entry. Lindahl et al. 2017 full text fetched (PLOS XML) and grep-verified; Crossref existence checks on two stimulation leads. Reports only: no content file and no `todo.md` line modified.
+- **Output**: [optimistic-2026-10-03-witness-and-contemplative-modes-wing](/reviews/optimistic-2026-10-03-witness-and-contemplative-modes-wing/)
+- **Keep**: the witness reply grounded in self-stultification (witness L168); meditation-modes' effort/selection four-cell grid (L112), its three declined evidence upgrades (L46, L110, L124) and its Sāṅkhya parity argument (L98); the witnessing void's self-applied [P-V1](/positions/voids-as-evidence/#p-v1) discount (L99); "consonant, not probative" against the beautiful-loop rival.
+- **Consistency verdict**: "selects little" reads consistently across the five carried pages. Two capacity-reading loci are missing from the blocked P3's list (modes L204, apex L194); recommend appending them, plus observer-witness L36/L42/L58, which frame the held thesis. Ten loci on nine pages outside the wing still call the witness non-selecting (leads only). The apex (`apex_last_synthesis` 2026-08-03) predates the 2026-09-01 and 2026-09-24 source corrections and still states a two-mode neural dissociation (L92) and training-refinement as the reply that "carries the weight" against illusionism (L160).
+- **Defect found**: contemplative-epistemology L95 attributes Lindahl et al. (2017) to "Secular mindfulness participants, trained in stress reduction"; the study interviewed sixty Western Buddhist meditators (20 each Theravāda, Zen, Tibetan). The 2026-05-29 deep review's "VERIFIED CLEAN" paraphrased the population.
+- **Priority list**: (1) apex L86/L92/L160/L182 + zero-word apex reciprocals from witness L46 and modes L36, apex +55; (2) observer-witness L44/L50/L52/L60–63/L83 + modes L52 "feels no" (0), +28; (3) choice-and-volition L151 +15 and contemplative-practice L109/L157/L167/L221 +16 (headroom 115 → 99), "consonant, not probative"; (4) contemplative-epistemology L95/L171 Lindahl repair, +55.
+- **New article subjects**: brain stimulation and the witness mode (topics; Lord et al. 2024 tFUS to PCC, Lyu et al. 2023 precuneus; existence-verified leads); constructivism about contemplative experience, Katz/Sharf/Forman (concepts; only treatment is inside non-temporal-consciousness).
 
 ## 2026-10-03T12:53:19+00:00 - refine-draft
 - **Status**: Success
