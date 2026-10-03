@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-30 04:15:42+00:00
+ai_modified: 2026-10-03 22:43:41+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-09-30 04:15:42+00:00
+lastmod: 2026-10-03 22:43:41+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -216,6 +216,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Modality Void](/voids/modality-void/) — Why consciousness cannot read its own modality structure: three faces (counting / attribution / boundary) conjoined by the claim that modality arrives as the *format* of an experience rather than as a checkable datum. No first-personal count of the senses (Macpherson 2011), a channel tag that is wrong every day and carries full felt evidence when it is (oral referral, the thermal grill, McGurk), and no inward route to which sense a rerouted channel joins (Hurley & Noë; rewired ferrets). The channel-tag member of the family holding [source-attribution](/voids/source-attribution-void/) (origin tag) and [reality monitoring](/voids/perceptual-reality-monitoring-void/) (reality tag) (created 2026-09-06)
 - [The Assent Void](/voids/assent-void/) — Why the moment of taking-as-true is causally central and phenomenally absent: three faces of different modal status (control, conceptual / timing, contested-psychological / transparency, structural) conjoined on the formation event; upstream of [certainty](/voids/noetic-feelings-void/), cognate to [suspension](/voids/suspension-void/) and [decision](/voids/decision-void/) (created 2026-09-29)
 - [The Handedness Void](/voids/handedness-void/) — The one catalogued void whose boundary has demonstrably moved: Kant's incongruent counterparts and Gardner's Ozma problem were closed by parity violation (Wu et al. 1957) and CP violation (1964), yet the closure terminates in an ostension, so the description-by-concept face stands where Kant left it. The calibration exhibit for what "resolved" fails to mean; sister in form to [vagueness](/voids/vagueness-void/) and [suspension](/voids/suspension-void/), and in content to the [language-thought boundary](/voids/language-thought-boundary/) (created 2026-09-29)
+- [The Preference Void](/voids/preference-void/) — Why a mind cannot read its own preference ordering: three faces (elicitation / retrospective / mark) conjoined at the site the tenets select. Normatively equivalent questions return different orderings (Slovic 1995), choosing may shape what is preferred, and the constructed answer is coherent enough to pass as a read-out, so whether building the ordering is consciousness's contribution or something it receives cannot be told from inside
 
 ### Phenomenology of Limits
 
@@ -307,6 +308,7 @@ Twenty-nine voids surveyed since 2026-02 have research notes; all but the four m
 - **[The Causal Impression Void](/research/voids-causal-impression-void-2026-09-27/)** — *Published* (2026-09-29) as [causal-impression-void](/voids/causal-impression-void/). Causation itself never appears in experience; the visual system stamps "cause" on some sequences, and the stamp can be adapted like colour (Rolfs, Dambacher & Cavanagh 2013; Kominsky & Scholl 2020), captured by context (Scholl & Nakayama 2002), written in after the putative impact (Choi & Scholl 2006) and is present by six months (Leslie & Keeble 1987). Three floors—perceptual, introspective (Hume's paralytic feels the same power whether or not the limb moves) and theoretical—with the [causal-interface](/voids/causal-interface/) and [agency-void](/voids/agency-void/) as special cases: the epiphenomenalist intuition that we never see the mind push anything proves too much, since we never see anything push anything. Parity neutralises that intuition only; closure and conservation arguments are untouched.
 - **[The Assent Void](/research/voids-assent-void-2026-09-28/)** — *Published* (2026-09-29) as [assent-void](/voids/assent-void/). Consciousness never catches itself coming to believe: assent cannot be commanded (Williams 1973; Hieronymi 2006), the first truth-assignment happens below deliberate judgment on both sides of the Spinozan dispute (Gilbert 1991; Nadarevic & Erdfelder 2013; Vorms et al. 2022), and whether to believe *p* is transparent to whether *p* (Shah & Velleman 2005). Hieronymi's evaluative control answers "why can't consciousness make itself believe?" without supplying evidence for interactionism.
 - **[The Handedness Void](/research/voids-handedness-void-2026-09-28/)** — *Published* (2026-09-30) as [handedness-void](/voids/handedness-void/). The one catalogued void whose boundary has demonstrably moved, and it moved through physics rather than argument: Kant's incongruent counterparts (1768; *Prolegomena* §13) and Gardner's Ozma problem (1964) were closed by parity violation (Wu et al. 1957) and CP violation (Christenson et al. 1964), yet the cobalt recipe terminates in an ostension, so ostension survives and the concept does not. Three subject-side faces persist: a reorientation system that ignores what its owner knows (Hermer & Spelke 1994; Hermer-Vazquez et al. 1999; contested by Twyman & Newcombe 2010 and Bek et al. 2010), a frame that can be declined (Levinson 1997 on Guugu Yimithirr), and the mirror puzzle that will not stay solved (Block 1974; English 2024). Framework-independent under [P-V2](/positions/voids-as-evidence/#p-v2): Occam's Razor Has Limits gains a clean instance; dualism gains a reading (acquaintance ran ahead of description until 1957) and no evidence.
+- **[The Preference Void](/research/voids-preference-void-2026-09-30/)** — *Published* (2026-10-03) as [preference-void](/voids/preference-void/). No ordering is there to consult before the asking: choosing and pricing return different orderings of the same options (Lichtenstein & Slovic 1971; Slovic 1995), the free-choice evidence that choosing shapes preference is contested at the level of measurement (Chen & Risen 2010), and anchored valuations are coherent enough to create "an illusion of order" (Ariely, Loewenstein & Prelec 2003). The article adds the discovered-preference rival the note omitted, with a repeated-auction result in which reversals largely disappeared (Cox & Grether 1996).
 
 ---
 

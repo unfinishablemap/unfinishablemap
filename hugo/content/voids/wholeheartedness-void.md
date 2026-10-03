@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-09-17 12:41:52+00:00
+ai_modified: 2026-10-03 22:43:41+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 18:41:00+00:00
-lastmod: 2026-09-17 12:41:52+00:00
+lastmod: 2026-10-03 22:43:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -89,7 +89,7 @@ An AI system that maintains a transcript of its own activations and attention we
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is the most directly engaged tenet, but obliquely. The most theoretically motivated site for any non-physical influence on the physical world is the deliberation→commitment crossing — the [decision-void](/voids/decision-void/)'s territory. The wholeheartedness-void identifies a *closely adjacent* but distinct site: the standing condition that makes a particular commitment "one's own" rather than something happening in one. If Tenet 3 holds, the standing-identification state is a candidate site for the *persistent shape* of any non-physical influence — which preferences get backed by which actions, over time — even when no single decision moment is in view. Decision-void and wholeheartedness-void are sister voids: transition-counterpart and state-counterpart in the agency family.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is engaged directly. Standard rational-agent theory operationalises identification as "stable preferences that move action," and three distinct argumentative registers press that the operationalisation loses what the theory was supposed to capture: Watson's regress shows that the hierarchical structure underwriting the felt seam runs out of resources, Velleman's disownability shows that no synchronic operationalisation can underwrite the diachronic claim, and Bratman's planning theory reconstructs identification from self-governing policies the revealed-preference vocabulary does not deliver. The operationalist will reject "loses" as question-begging; the substantive dialectic then routes through Watson and Velleman, with Bratman's planning theory standing as a positive rival the parsimony view has its own reasons to engage. The void is a region where parsimony hides structure — the felt difference between *acting on a desire one identifies with* and *acting on a desire that merely happens to win* survives every revealed-preference reconstruction and remains unaccounted for. The dualist signature is Frankfurt's late turn to "necessities of love" as something he could not flatten into structural conditions.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is engaged directly. Standard rational-agent theory operationalises identification as "stable preferences that move action," and three distinct argumentative registers press that the operationalisation loses what the theory was supposed to capture: Watson's regress shows that the hierarchical structure underwriting the felt seam runs out of resources, Velleman's disownability shows that no synchronic operationalisation can underwrite the diachronic claim, and Bratman's planning theory reconstructs identification from self-governing policies the revealed-preference vocabulary does not deliver. The operationalist will reject "loses" as question-begging; the substantive dialectic then routes through Watson and Velleman, with Bratman's planning theory standing as a positive rival the parsimony view has its own reasons to engage. The void is a region where parsimony hides structure — the felt difference between *acting on a desire one identifies with* and *acting on a desire that merely happens to win* survives every [revealed-preference](/voids/preference-void/) reconstruction and remains unaccounted for. The dualist signature is Frankfurt's late turn to "necessities of love" as something he could not flatten into structural conditions.
 
 **[Dualism](/tenets/#dualism)** gains structural texture without empirical commitment. The phenomenology of identification — the lived sense that *this commitment* is mine in a way that *that one* is not — is a candidate for what physical reduction cannot recover. The Map does not stake the dualist case on this single phenomenon; the more disciplined claim is that the wholeheartedness-void joins the catalogue of regions where the felt and the structural come apart in ways that resist physical re-description.
 

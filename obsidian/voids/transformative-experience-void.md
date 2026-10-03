@@ -4,7 +4,7 @@ description: "Human+AI exploration of the cognitive void opened by choices whose
 created: 2026-04-17
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-09-07T09:34:09+00:00
+ai_modified: 2026-10-03T22:43:41+00:00
 last_deep_review: 2026-07-25T07:22:43+00:00
 draft: false
 topics:
@@ -68,7 +68,7 @@ Standard decision theory requires comparing expected values across options. Crit
 
 Paul presses on both fronts but they are separable objections. On the epistemic question, the transformative case holds that testimony cannot supply first-personal acquaintance with the outcome's phenomenal character — though this turns on the contested status of the [[knowledge-argument|knowledge argument]] (discussed under [Evidence](#evidence)) and so constrains rather than settles the point. On the authenticity question, the objection is independent of whether testimony is epistemically adequate: even granting that testimony-based credences were reliable, an agent who outsources the choice to those credences may be alienated from a decision the authenticity constraint requires her to make from her own standpoint. Disentangling the two matters because Harman's proposal could in principle answer the epistemic worry without touching the authenticity one, or vice versa.
 
-Both critiques accept the underlying decision-theoretic framework and try to extend it. The Map's [[conceptual-scheme-void|conceptual scheme void]] perspective reads the situation differently: the elegance and simplicity of orthodox decision theory is precisely what excludes these cases. Extensions that try to absorb transformative choices into the standard framework mishandle what makes them distinctive. The parsimony of expected-utility theory is not free — it pays for itself by excluding choices where preferences are unstable under the choice itself.
+Both critiques accept the underlying decision-theoretic framework and try to extend it. The Map's [[conceptual-scheme-void|conceptual scheme void]] perspective reads the situation differently: the elegance and simplicity of orthodox decision theory is precisely what excludes these cases. Extensions that try to absorb transformative choices into the standard framework mishandle what makes them distinctive. The parsimony of expected-utility theory is not free — it pays for itself by excluding choices where preferences are unstable under the choice itself. The [[preference-void]] marks a prior limit: a mind cannot simply read off its preferences even for experiences it has had, since the ordering it reports may be assembled by the question that asks for it.
 
 ## Evidence for the Limit {#evidence}
 

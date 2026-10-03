@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-09-29 01:37:29+00:00
+ai_modified: 2026-10-03 22:43:41+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 01:37:29+00:00
-lastmod: 2026-09-29 01:37:29+00:00
+lastmod: 2026-10-03 22:43:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -83,7 +83,7 @@ Several lines of evidence converge to suggest that this void is not merely a dif
 
 **Lesion convergence.** Schnider's orbitofrontal reality-filter mechanism, Feinberg's right-hemisphere anosognosia, and Gazzaniga's split-brain interpreter triangulate on the same architectural fact: a generative module without an integrated checking module produces confident false content. Different lesions produce different confabulation profiles, supporting a systemic-architecture interpretation rather than a single neural locus. The stroke syndrome constrains what "without" means here: [the reversal literature](/topics/anosognosia-and-the-reversible-self-monitoring-channel/) lifts anosognosic denial for a while by vestibular stimulation and for good by third-person video, on an unchanged lesion, while first-person viewing of the paralysed arm leaves it intact. The check is missing from the first-person route rather than from the brain, and the correction arrives only from outside, which sharpens the void's claim rather than qualifying it.
 
-**Healthy-adult continuity.** The same structural feature operates in healthy adults — not as a marginal phenomenon but as the ordinary mode for whole domains: moral judgement (Haidt), choice justification (Johansson and Hall), preference explanation (Wheatley), and causal self-attribution (Bortolotti). Treating confabulation as the *default* mode of self-explanation, with accurate report as the special case, is empirically respectable.
+**Healthy-adult continuity.** The same structural feature operates in healthy adults — not as a marginal phenomenon but as the ordinary mode for whole domains: moral judgement (Haidt), choice justification (Johansson and Hall), preference explanation (Wheatley; the [preference-void](/voids/preference-void/) adds that the preference explained may itself be built in the asking), and causal self-attribution (Bortolotti). Treating confabulation as the *default* mode of self-explanation, with accurate report as the special case, is empirically respectable.
 
 ## The Phenomenology
 

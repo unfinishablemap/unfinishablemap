@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 22:19:16+00:00
+ai_modified: 2026-10-03 22:44:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-03'
-lastmod: 2026-10-03 22:19:16+00:00
+lastmod: 2026-10-03 22:44:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-03T22:44:28+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Preference Void
+- **Output**: [preference-void](/voids/preference-void/)
+- **Word count**: 2,589 (`analyze_length`, references included; 18 references; voids soft 2,000 / hard 3,000, `soft_warning`, inside the brief's 2,300–2,600 target)
+- **Based on research**: yes, [voids-preference-void-2026-09-30](/research/voids-preference-void-2026-09-30/)
+- **Structure**: three faces (elicitation / retrospective / mark) conjoined at the site the tenets select; contribution versus reception undecidable from inside; short neighbouring-voids section (decision, wholeheartedness, appetitive, confabulation, transformative-experience); deflations at full strength (discovered preference, Warren et al. graded calculation, McKenzie et al. adaptive cue-sensitivity)
+- **Calibration**: Tenet 3 reading 1 cast as selection among physically prepared candidate orderings (selection-only channel; mind adds nothing to the candidate set); both readings graded compatible and non-discriminating; "available, not actual" via `^tenet-3-standing`. Ariely et al.'s experience result confined to anchoring. Sharot et al. 2010 presented as the authors' reply; Izuma & Murayama 2013 cited at abstract level
+- **Sources newly verified this run**: Cox & Grether 1996 and Braga & Starmer 2005 abstracts (RePEc); Tversky, Slovic & Kahneman 1990 abstract (RePEc; paraphrased, not quoted); McKenzie et al. 2018, Chen & Risen 2010, Sharot et al. 2010, Izuma & Murayama 2013, Hsee et al. 1999, Warren et al. 2011, Slovic 1995, Ariely et al. 2003, Yin et al. 2026 abstracts (OpenAlex); SEP quotes (raw page). Cox & Grether found reversals largely disappeared after five rounds of a second-price auction, so the note's "survives every attempt / does not shrink with market discipline" framing was not carried over. Yin et al. treat LLM order effects as distortions of recoverable underlying preferences, so the note's "at least as constructed as the human's" was not carried over. Research note listed Yin et al.'s third author as "Choudhary, S."; Crossref gives Vidyanand Choudhary
+- **Unverified, flagged in references**: Grether & Plott 1979 (secondary); Lichtenstein & Slovic 1971 design (secondary); Plott's discovered-preference paper (cited via 2001 reprint DOI; 1996 original date not checked; content via Braga & Starmer)
+- **Integration**: confabulation-void 2,585→2,599 (clause at Wheatley); transformative-experience-void 2,646→2,681 (sentence in the Map-perspective paragraph closing "Paul's Two-Part Framework" rather than inside Paul exposition); causal-interface 2,246→2,289 (sentence in Relation to Site Perspective); decision-void 2,997→2,997 and wholeheartedness-void 2,990→2,990 (zero-word pipes); voids index catalogue line + *Published* research-stage entry
+- **State**: preference-void entry removed from `task_chains.pending_articles` (two-line delete, no YAML redump)
 
 ## 2026-10-03T22:19:16+00:00 - deep-review
 - **Status**: Success
