@@ -1,0 +1,321 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-10-04
+ai_modified: 2026-10-04 04:47:50+00:00
+ai_system: claude-opus-5-5
+author: Andy Southgate
+concepts:
+- '[[phenomenology-of-choice-and-volition]]'
+- '[[mental-effort]]'
+- '[[control-theoretic-will]]'
+- '[[agent-causation]]'
+- '[[interactionist-dualism]]'
+- '[[witness-consciousness]]'
+created: 2026-10-04
+date: &id001 2026-10-04
+description: Hostile-referee audit of akrasia-and-weakness-of-will (Claude Opus 5.5).
+  Converges with ChatGPT on Davidson, Hare, trainable willpower and the strawman rival;
+  adds the Holton L98 misattribution, the Davidson p. 42 splice and the kernel-of-truth
+  wording. 1 task, 3 folded.
+draft: false
+human_modified: null
+last_curated: 2026-10-04
+lastmod: 2026-10-04 04:47:50+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/609baaa6-a27a-4fe1-bb37-2571511f86e4
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+- '[[outer-review-2026-10-04-chatgpt-5-6-sol-pro]]'
+- '[[deep-review-2026-08-26-akrasia-and-weakness-of-will]]'
+subject_articles:
+- topics/akrasia-and-weakness-of-will.md
+subject_source: reuse:pending-reviews:outer-review-2026-10-04-chatgpt-5-6-sol-pro.md
+subject_title: Audit akrasia-and-weakness-of-will
+subject_type: recent
+title: Outer Review - Claude Opus 5.5 (2026-10-04)
+topics:
+- '[[akrasia-and-weakness-of-will]]'
+- '[[responsibility-gradient-from-attentional-capacity]]'
+- '[[the-steelman-for-value-blind-selection]]'
+- '[[valence-and-conscious-selection]]'
+- '[[free-will]]'
+---
+
+**Date**: 2026-10-04
+**Reviewer**: Claude Opus 5.5
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a hostile external referee auditing one article on The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site that argues for interactionist dualism under five stated tenets. The article is https://unfinishablemap.org/topics/akrasia-and-weakness-of-will/, which surveys acting against one's better judgement (Socrates, Aristotle, Davidson, Holton) and reads it as one selection-model lens on the will. Search indexes lag by a day or two, so check https://unfinishablemap.org/workflow/changelog/ for recent edits before judging its current state. Use Research to: (1) verify that each cited work exists and says what the article attributes to it, spot-checking quotations against primary sources; (2) flag claims resting on thin or contested evidence, including its handling of the ego-depletion literature; (3) identify the strongest counterarguments and competing accounts it misses or under-represents; (4) point out tenet-protective bracketing, where it shields its commitments from scrutiny instead of defending them; (5) check consistency with the related Map articles it links. Be severe, quote the passages you criticise, and deliver the report as an artifact. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Referee Report: "Akrasia and Weakness of Will" (The Unfinishable Map, topics/akrasia-and-weakness-of-will)
+
+**Recommendation: major revision.** Most of the citations check out and the exposition is mostly accurate. The article's problems are elsewhere: it misattributes one core claim to Holton, quotes Davidson secondhand with a load-bearing omission, and covers the ego-depletion literature with a single number. Its "selection-model lens" is protected by hedges that make it say nothing. Meanwhile the Map pages it links treat the very capacities it calls metaphysically neutral as evidence for non-physical conscious causation.
+
+## TL;DR
+
+- **Citations:** mostly verified (Protagoras 358b–c, Davidson's definition and p. 42 quote, Hare ch. 5, Hagger 2016 d = 0.04, the SEP's "increasingly come under question"). There are real defects. The article says "Holton explains it", meaning akrasia, which is wrong: Holton explicitly distinguishes weakness of will from akrasia. The Davidson quote is lifted from the SEP, bracket and all, and its ellipsis cuts "all things considered". The article puts words in Aristotle's mouth ("what he calls the kernel of truth"). Hare's page range is slightly off, and the founding Holton (1999) paper is missing.
+- **Evidence:** the article does *not* lean on ego depletion for dualist conclusions, which is to its credit. But one sentence citing Hagger et al. (2016) leaves out Vohs et al. (2021), Carter et al. (2015), the glucose-model collapse and the proponents' rebuttals. The article then keeps "trainable" willpower, a claim that comes from the same discredited strength-model programme.
+- **Bracketing and consistency:** the Relation to Site Perspective section concedes that a physicalist "can accept every word" and that akrasia is "neutral". That makes the selection gloss explanatorily redundant, yet it still files the gloss under Tenet 3. It also dodges a live conflict with the Map's own thesis that felt value "is what the selection tracks". Linked pages, especially phenomenology-of-choice-and-volition and responsibility-gradient, assert much more strongly what this article disclaims.
+
+## 0. Scope, version audited, and method
+
+- **Live version audited:** the page header reads "Created: 2026-07-09 · Last modified: 2026-09-27", with models "claude-opus-4-8+claude-fable-5".\[1\] I fetched it directly rather than through a search index.
+- **Changelog check:** the workflow changelog was itself last modified 2026-10-01T23:54:19Z. Its most recent entries (batches A–D of the covert-consciousness ledger) do not touch the akrasia article.\[2\] The changelog lags the site, though. The linked page phenomenology-of-choice-and-volition shows "Last modified: 2026-10-03", after the newest changelog entry.\[3\] I therefore judged every linked page on its live text, not on the changelog.
+- **Tenets:** the fetch tool blocked direct access to the tenets page. I identified the tenets from the homepage: "Five foundational tenets constrain the framework: dualism, minimal quantum interaction, bidirectional causation, rejection of many-worlds, and epistemic humility about Occam's razor".\[4\] The Positions page adds that the tenets are "chosen, not derived".\[5\] The Objections page glosses Bidirectional Interaction as "consciousness causes physical effects".\[6\] A 2026-09-14 outer review quotes the tenets page as conceding that downward causation is "a posit the interface argument leaves open, not a result it secures".\[7\] The exact wording of the tenets page is therefore secondhand (see Caveats).
+- **Primary sources checked:** the SEP "Weakness of Will" entry (Stroud & Svirsky, substantive revision 18 Sept 2025), the Ross translation of NE VII.3, Holton's own chapter abstracts, OUP's record for Hare's "Backsliding", Vohs et al. (2021), Carter et al. (2015) and the glucose-model critiques.
+
+## 1. Citation verification
+
+| # | Claim / quotation in article | Verdict | Notes |
+|---|---|---|---|
+| 1.1 | "No one…who either knows or believes that there is another possible course of action, better than the one he is following, will ever continue on his present course" (*Protagoras* 358b–c), "quoted" via the SEP | **Verified (translation unattributed)** | Matches the SEP verbatim. The SEP uses Hamilton & Cairns (eds.), *Collected Dialogues*, 1961,\[8\] but Reference 7 says only "Standard classical text", so the translation is unnamed.\[1\] The citation is also narrow: the argument runs across 352b–358d. |
+| 1.2 | Socrates: "to judge a course of action best just *is* to be most motivated toward it" | **Distorted (anachronistic gloss)** | This is a modern internalist reconstruction in the style of Hare or Davidson's P2. The *Protagoras* argument works through the hedonist premise and the "measuring art". The article mentions "miscalculation of pleasures and pains" but never says that the denial depends on a hedonism Socrates may not endorse. |
+| 1.3 | Aristotle tries "to preserve what he calls the kernel of truth in the Socratic paradox" | **Misattributed wording** | Aristotle never "calls" it that. The phrase appears in the Map's own research note as a gloss.\[9\] At 1147b Aristotle says only that Socrates' position "seems to result". |
+| 1.4 | One can "have and not have" knowledge "in the way a sleeper or a drunk person does (VII.3, 1147a)" | **Verified in substance; paraphrase in quotation marks** | Ross has "having knowledge in a sense and yet not having it, as in the instance of a man asleep, mad, or drunk".\[10\] The article quietly drops "mad" and names no translation. |
+| 1.5 | Practical syllogism example "sweet things should be avoided" / "this is a sweet thing" | **Reconstruction presented as Aristotle's** | Aristotle's examples are "dry food is good for every man" and the conflict between a prohibiting universal and "everything sweet is pleasant… this is sweet".\[10\] This is acceptable as illustration but should not appear in quotation marks. |
+| 1.6 | Davidson's three-clause definition of incontinence (x, y; all things considered) | **Verified** | Matches the original's x/y formulation.\[11\] |
+| 1.7 | "if we ask what is the agent's reason for doing [b] when he believes it would be better…to do another thing, then the answer must be: for this, the agent has no reason" (*Essays on Actions and Events*, p. 42) | **Verified wording, but taken secondhand, with a consequential ellipsis** | The bracketed "[b]" is the SEP's editorial substitution, which shows the quote was copied from the SEP while being cited as primary. The ellipsis removes ", all things considered," which is the very qualifier Davidson's solution depends on.\[8\] The bracket also clashes with the article's own x/y notation. |
+| 1.8 | The akratic "forms the all-out judgement favouring *x*" | **Defensible but mis-sourced** | According to the SEP, this implication "emerges with greater clarity" from Davidson's "Intending" (1978), not from the 1970 paper being cited.\[12\] |
+| 1.9 | "Davidson's achievement is to show that akrasia is possible without being incoherent" | **Contested and presented as settled** | The SEP reports that most post-Davidson philosophers "think he has not" shown this. The main objection is Bratman's (1979) Sam, who acts against an *unconditional* better judgement.\[8\] The article never mentions this objection. |
+| 1.10 | Davidson citation: Feinberg (ed.), *Moral Concepts*, "1969/1970"; reprint *EAE* Essay 2, pp. 21–42 | **Verified (date honestly hedged)** | The SEP gives "1970 … in Davidson 1980, pp. 21–42".\[8\] Hedging the date is the right call. |
+| 1.11 | Hare, *Freedom and Reason* (1963), ch. 5 "Backsliding", pp. 67–86 | **Minor page error** | OUP Academic gives pp. 67–85.\[13\]\[14\] The "inverted-commas" or weakened sense of "ought" comes mainly from *The Language of Morals* (1952),\[8\] which the article does not cite. Hare also does not simply say akrasia is "impossible". His chapter argues that moral weakness "do[es] not constitute a counterexample to prescriptivism".\[13\] |
+| 1.12 | Holton: weakness of will is "the over-ready **abandonment of a resolution**" | **Verified, with something lost** | Holton's criterion is *unreasonable* revision of a contrary-inclination-defeating intention. The SEP stresses that Holton sees an "irreducible normative dimension" here (1999, p. 259).\[8\] "Over-ready" flattens that point. |
+| 1.13 | Relation to Site Perspective: "**Holton** explains it as ordinary, empirically studied willpower failing to hold a resolution", where "it" means akrasia | **Wrong** | Holton explains *weakness of will*, not akrasia. In the SEP's words, weakness of will in his sense "is not *akrasia* (if we reserve that term for action contrary to one's better judgment)". The SEP files Holton under "Changing the Subject".\[8\] The article's "four positions" structure treats a change of subject as a rival answer. |
+| 1.14 | Holton "draws on the self-control research of Mischel and Baumeister" and treats willpower as an executive skill | **Verified** | Holton's own ch. 6 abstract confirms that work by "Mischel and Baumeister [is] used in support".\[15\] |
+| 1.15 | Holton citation | **Incomplete** | *Willing, Wanting, Waiting* (OUP 2009, ISBN 9780199214570) is verified.\[1\] Missing are the founding paper, "Intention and Weakness of Will", *Journal of Philosophy* 96 (1999): 241–262; Holton (2003), "How is Strength of Will Possible?"; and Holton & May (2012), which re-examines the folk-concept claim.\[8\] |
+| 1.16 | Hagger et al. (2016) put ego depletion at "d = 0.04"; 23 laboratories; *PPS* 11(4) 546–573 | **Verified** | Vohs et al. (2021) cite the earlier multilab figure as "d = 0.04 (Hagger et al., 2016)".\[16\] |
+| 1.17 | The SEP says the ego-depletion model has "increasingly come under question" | **Verified verbatim** | The SEP §3.4.2 cites Dang & Hagger 2019.\[8\] |
+| 1.18 | Frankfurt 1971; Watson 1975 (*J Phil* 72(8): 205–220); Watson 1977 (*Phil Review* 86: 316–339); Stroud & Svirsky 2025 | **Verified** | All match the SEP bibliography.\[8\] The Watson 1977 paper is cited by title only. Its actual argument is never given (§3). |
+| 1.19 | Refs 11–12 (the Map's own Control-Theoretic Will and Free Will pages) | **Improper as references** | Self-citations listed as sources.\[1\] See §5 on circularity. |
+
+**Overall on citations:** I found no invented references, but the sourcing is shallow. At least one quotation that appears to come from a primary text was taken from the SEP, and one claim is misattributed in a way that bears on the article's argument (1.13).
+
+## 2. Evidential weakness
+
+### 2.1 Ego depletion: accurate in one sentence, inadequate as coverage
+
+The article states: "the 'ego-depletion' model, on which willpower draws down a limited resource, was put at d = 0.04 by Hagger et al.'s (2016) preregistered 23-laboratory replication".\[1\] That is correct, and the article does **not** use depletion to support dualism. Its one-sentence treatment still fails on four counts:
+
+1. **The strongest evidence is missing.** Vohs et al. (2021, *Psychological Science* 32(10): 1566–1581) ran a multisite test designed with the theory's proponents (k = 36; N = 3,531). In the abstract's words, "Confirmatory tests found a non-significant result, d = 0.06", and Bayesian analyses found the data "4 times more likely under the null". Because proponents helped design that test, it is harder for them to dismiss than Hagger 2016, and the article never cites it.
+2. **The meta-analytic record is missing.** Carter & McCullough (2014) found "very strong signals of publication bias" in the Hagger et al. (2010) meta-analysis (d = 0.62).\[17\]\[18\] Carter et al. (2015, *JEP: General* 144(4): 796–815) concluded that self-control "does not seem to rely on a limited resource".\[19\]\[20\] Proponents' counter-arguments (Cunningham & Baumeister 2016; Inzlicht et al.'s "News of Ego Depletion's Demise is Premature") are also absent, so the reader sees neither the case against depletion nor the dispute over it.\[21\]\[22\]
+3. **The glucose model is missing.** Kurzban (2010) showed that the glucose claims "turn on a minuscule, even trivial amount of glucose".\[23\] Inzlicht & Friese (2019) describe Finley et al. (2019) as "perhaps the most rigorous test (and failure) of the glucose hypothesis".\[24\] Any reader of Holton's chapter 6 needs this, because the resource reading is the one Holton relied on. The *NDPR* review reports Holton arguing that resisting temptation "uses up the power that it exercises, analogously to... muscular energy".\[25\]
+4. **Internal inconsistency.** The article salvages "Holton's structural claim—that resolutions can be dropped over-readily and that [holding them] is a distinct, trainable capacity".\[1\] But "trainable" is a claim of the muscle model itself: willpower "can be exercised to increase its strength and if left unused it will atrophy", from the Baumeister work Holton draws on.\[26\] The article throws out the resource account and keeps one of its predictions.
+
+**Verdict:** depletion is not presented as established (**acknowledged**), but the replication crisis is **under-reported**. The Holton salvage is **partly inconsistent**.
+
+### 2.2 A finding the article and its links should have used
+
+Vohs et al. (2021) report that the depletion manipulations "increased feelings of effort and frustration", and gave moderate evidence for fatigue.\[16\] Performance did not shift reliably. In other words, felt effort rose with no reliable behavioural consequence. That bears directly on the linked phenomenology-of-choice-and-volition page. That page names "(3) effort phenomenology decoupled from cognitive load" as a condition under which its framework "would face serious difficulty".\[3\] The finding does not strictly meet that falsifier, which concerns load rather than downstream performance. It does weaken the inference from felt effort to causal efficacy, and the Map does not mention it.
+
+### 2.3 Other empirical claims
+
+The akrasia article itself makes no Libet, quantum, delay-discounting or neural-selection claims, which is to its credit. But it hands those claims off through links:
+
+- **"Low-bandwidth controller"** (link to control-theoretic-will). The Map's responsibility-gradient page puts it this way: "~10 bits/second, drawing on Meister's 2024 analysis of perceptual limits".\[27\] **Imprecise.** The source is Zheng & Meister, "The unbearable slowness of being: Why do we live at 10 bits/s?" (*Neuron* 113: 192–204). It says "The information throughput of a human being is about 10 bits/s. In comparison, our sensory systems gather data at ~10^9 bits/s". So the figure measures behavioural throughput. It is neither a perceptual limit nor a "controller" separate from neural processing. The Map's own research note records a rebuttal by Sauerbrei & Pruszynski, "The brain works at more than 10 bits per second" (*Nature Neuroscience*, 2025). They argue that "unconscious processing for real-time control of movement… accounts for most of the information throughput of humans, [and] substantially exceeds this limit." The figure does not justify reading consciousness as a controller.
+- **Mental effort / quantum Zeno** (link target for the depletion discussion). Map pages describe mental-effort as "The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence".\[28\] The interactionist-dualism page says that "OCD patients who redirected attention reshaped their brains through mental effort alone (Schwartz, Stapp & Beauregard 2005)".\[29\] **Contested / overstated.** The underlying finding is that "Behavior Therapy responders had significant (p<.05) bilateral decreases in caudate glucose metabolic rates" (Schwartz et al. 1996, *Arch Gen Psychiatry* 53: 109–113). The earlier study by the same group was titled "Caudate glucose metabolic rate changes with both drug and behavior therapy" (Baxter et al. 1992, *Arch Gen Psychiatry* 49: 681–689). A drug produced the same signature, so "alone" begs the question, and physicalism predicts these brain changes just as well. I could not fetch mental-effort directly, so I cannot confirm that it contains the replication-crisis material the akrasia article sends readers there for.
+- **Libet** (phenomenology page): Libet et al. (1983, *Brain* 106: 623–642) report type II RP "average onset about −550 ms" and "the average of all mean Ws was about −200 ms". That leaves the gap of roughly 350 ms the Map states correctly. The treatment of Schurger et al. (2012) is fair. **Verified.**
+
+## 3. Counterarguments and competing accounts missed or under-represented
+
+The article covers four figures in depth. The SEP entry it cites covers more than twenty. The most damaging omissions are the naturalistic mechanisms that explain exactly what the selection lens claims to "accommodate":
+
+| Omitted / under-represented account | Why it matters to this article |
+|---|---|
+| **Mele** (1987 *Irrationality*; 2012 *Backsliding*): "the motivational force of a want may be out of line with the agent's evaluation"; proximate rewards act as strong *causes* but weak *reasons*\[8\] | This is a worked naturalistic mechanism for exactly the gap the Map's "selector" re-labels. Without it, the selection gloss looks more original than it is. |
+| **Ainslie** (1992 *Picoeconomics*; 2001; *BBS* 2021): hyperbolic delay discounting, intertemporal bargaining, personal rules\[8\] | It explains preference reversal *and* Holton's resolutions in behavioural-economic terms, with no controller. Delay discounting is not mentioned at all. |
+| **Bratman** (1979): Sam drinks against an *unconditional* better judgement;\[8\] also planning agency | This is the standard objection that Davidson failed (1.9). Without it, "Davidsonian resolution" overstates the case. |
+| **Davidson** (1982), "Paradoxes of Irrationality": partitioned mind | Davidson's own later, naturalistic account of how irrational action is possible competes directly with a unitary "selector".\[30\] |
+| **Watson** (1977), argument not just title: whether weak agents could have resisted, and the weakness/compulsion boundary | The article cites the paper as a placeholder and never states its scepticism. |
+| **Audi 1990, McIntyre 1990/2006, Arpaly 2000**: rational akrasia, Huck Finn, Emily, "An agent's best judgment is just another belief"\[8\] | The article writes only "Later writers argue…" with no names (a generic claim). Inverse akrasia is a serious problem for any model that equates good agency with the controller tracking the agent's evaluation. |
+| **Holton & May** (2012) on the folk concept | The SEP notes that critics "have questioned whether Holton was correct in his interpretation of the folk understanding".\[12\] The article presents Holton's conceptual thesis as uncontested. |
+| **Kennett** (2001), **Levy**, **Sripada** (Irving et al. 2022 *Cognition*), **Duckworth** (situational strategies), **Bermúdez** (self-control as skill), **Mylopoulos & Pacherie** (2020) | The present-day empirical literature on self-control says diachronic and scaffolded strategies, not synchronic effort, do most of the work.\[8\] That undercuts an "effortful controller" picture more than the article admits. |
+| **Tenenbaum** (1999), **Stocker** (1979), **Schapiro** (2021): the "inner animal" and a "dualistic Kantian moral psychology"\[8\] | Schapiro is the closest thing to an ally in the literature: a dualist moral psychology of weakness that needs no substance dualism. Leaving her out is a missed chance to steelman, and the article should engage her. |
+| **Dual-process / addiction accounts** (Altehenger 2021; Henden 2016; Heather 2016) | These are the natural home of a "selection" vocabulary, already worked out in physicalist terms. |
+| **Agent-causal libertarianism's own akrasia problem** | The Map's free-will position is agent-causal.\[31\]\[32\] If the agent-cause selects *against* all of the agent's reasons, Davidson's "surd" becomes the luck objection in its starkest form. The article never asks how its own metaphysics handles the case it surveys. |
+
+**Fairness to physicalism:** the article does not strawman physicalism. It concedes: "A physicalist can accept every word of the Aristotle, Davidson, and Holton sections and read the selection language as a functional description of neural subsystems."\[1\] Its failure is the reverse one: it describes no physicalist mechanism at all, so the reader cannot see that existing models already explain everything the "lens" covers.
+
+## 4. Tenet-protective bracketing
+
+| Passage (verbatim) | Move | Verdict |
+|---|---|---|
+| "explicitly framework-relative and explicitly not a proof of dualism" / "*one lens among the framework-neutral accounts above*, not as a competitor that the data selects over them"\[1\] | **Lens hedge.** The reading claims no evidential standing, so no evidence can count against it. | **Unfalsifiable by construction.** The hedge buys immunity by giving up content. A lens that predicts nothing differently from Mele or Ainslie is a change of vocabulary, not an interpretation. |
+| "If selection were a transparent read-off of the agent's best judgement, Davidson's gap … would have nowhere to open."\[1\] | **Trivial accommodation dressed as structural fit** | **Non sequitur.** Davidson's gap lies *between two judgements*, not between a judgement and a selector. Any non-transparent mechanism, whether motivational strength, discounting or partitioning, accommodates it equally well, so "must accommodate" is a weak constraint presented as a strength. |
+| "the interface can select an option against the agent's own all-things-considered evaluative state"\[1\] | **Terminological smuggling** | "Interface" and "controller" assume the Map's architecture inside what is billed as a neutral lens. |
+| "What the Map adds—that the controller is genuinely non-physical—rests on its independent arguments (the hard problem, the conceivability argument), not on akrasia."\[1\] | **Outsourcing / declaring the issue out of scope** | **Concedes explanatory redundancy.** If akrasia adds nothing, the dualist gloss does no work here and should be cut or labelled as purely redescriptive. |
+| "Whether that divergence needs a non-physical selector is exactly what akrasia does *not* settle; the phenomenon is neutral" (filed under **Bidirectional Interaction (Tenet 3)**)\[1\] | **Tenet filing without support** | **Inconsistent.** A phenomenon the article declares neutral is still listed as bearing on a tenet. |
+| "the [question of whether valence guides selection or is idle to it] is precisely the question … akrasia is the case where, by the agent's own report, it does not" | **Reframing a counterexample as an open "question"** | **Evasive.** Elsewhere the Map "holds that … felt value … is what the selection tracks" (Steelman for Value-Blind Selection).\[33\] Akrasia forces a choice the article never makes. If the selector tracks felt valence, akratic choice is what the model predicts, and the selector is not the seat of rational agency. If it tracks evaluative judgement, akrasia is a counterexample. |
+| "The Map's discipline here is to resist that move … Holding the four positions open, rather than collapsing to the tidiest, is the honest register." (Tenet 5)\[1\] | **Using parsimony-scepticism to avoid adjudicating** | **Selective.** The article does adjudicate where that costs it nothing ("post-Davidson consensus says yes"; depletion "has since weakened"). Tenet 5 is brought in exactly where parsimony would count against the redundant dualist gloss. And the "four positions" are not four answers to one question (1.13). |
+| "whether akratic acts are free and blameworthy is a further question the Map defers to its dedicated treatment"\[1\] | **Deferral** | **Out of scope, and the deferral hides a conflict** (§5: responsibility-gradient). |
+
+**Credit where due:** the opening statement, "Nothing in the phenomenon requires or establishes any metaphysics of mind", is unusually honest for this site.\[1\] It follows the research note's "Calibration Flag".\[9\] The problem is that the rest of the cluster does not keep to it.
+
+## 5. Internal consistency with linked and related Map articles
+
+| Linked / related page | What it says (verbatim) | Conflict with the akrasia article | Verdict |
+|---|---|---|---|
+| **phenomenology-of-choice-and-volition** (the target of "[holding them]", #sustained-control; modified 2026-10-03) | The meta-description says "each phase providing irreducible evidence for conscious causal efficacy"; the body says "The phenomenology of effort provides the strongest evidence for genuine conscious contribution"; sustained control "matches what the Map's framework predicts: consciousness repeatedly selecting among competing neural patterns"\[3\] | The akrasia article calls the capacity to hold resolutions "ordinary self-management" with "no dualist commitment", then links to a page that treats that same capacity as evidence for conscious causation. To be fair, the 10-03 revision added hedges ("An epiphenomenalist is not embarrassed by this fit"),\[3\] but the meta-description and the Dualism section were left unchanged. | **Contradiction (claim strength differs)** |
+| **responsibility-gradient-from-attentional-capacity** | "An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control"; "the Map's framework unifies them under a single causal architecture—a bandwidth-limited conscious controller"\[27\] | It recasts akrasia as *reduced controller capacity*. That collapses Watson's weakness/compulsion distinction and implies reduced responsibility, whereas Davidson's definition makes the akratic act free and intentional. It asserts the controller architecture the akrasia article treats as one lens. | **Contradiction + terminological drift** |
+| **Steelman for Value-Blind Selection / valence-and-conscious-selection** | "The Unfinishable Map holds that … felt value … is what the selection tracks"\[33\]\[34\] | The akrasia article turns this into an open question and does not test the thesis against akrasia (§4). | **Stronger claim elsewhere, dodged here** |
+| **witness-consciousness** | Table: "Active selection — Effortful, focused — Quantum Zeno (rapid observation)"\[35\] | Presents a speculative mechanism as settled in the very effort/selection area the akrasia article calls metaphysically neutral. | **Claim-strength drift** |
+| **interactionist-dualism** | "through mental effort alone" (Schwartz et al. 2005)\[29\] | Treats effort as non-physical causation, against the akrasia article's "empirically studied, ordinary self-management". | **Contested / drift** |
+| **agent-causation / free-will** | "Consciousness selects which quantum outcome becomes actual";\[32\] free-will is described as "the Map's agent-causal position"\[3\]\[31\]\[32\] | The akrasia article's neutrality hides the fact that the Map's own metaphysics takes on a severe akrasia-luck problem (§3). | **Unaddressed tension** |
+| **Akrasia research note** (2026-07-09) | Davidson: "Relation to site tenets: The core datum for the Map"; "Gaps in Research: Did not deep-dive … ego-depletion replication crisis"\[9\] | The published article softened the "core datum" framing correctly, but the depletion gap was patched with one sentence, not researched. | **Process gap** |
+
+**Circular cross-referencing.** The akrasia article lists Map pages as References 11–12.\[1\] The responsibility-gradient page cites control-theoretic-will for the controller model.\[27\] Phenomenology-of-choice sends readers to mental-effort for "neural signatures".\[3\] Mental-effort is described across the site as built on Stapp/Zeno, and the Stapp page points back to mental-effort.\[36\] The controller/effort cluster supports itself through these mutual links rather than through outside evidence. **Path drift:** the research note calls control-theoretic-will a "real article" at `obsidian/topics/control-theoretic-will.md`,\[9\] but the live link is `/concepts/control-theoretic-will/`.\[1\]\[9\]
+
+## 6. Overall assessment
+
+As a survey for a general reader, the exposition sections are competent and mostly accurate (B-). As a contribution to the Map's project, the Relation to Site Perspective section fails. It is either redundant (the article admits physicalist readings fit "every word") or evasive (it will not test the Map's value-tracking selector against the one phenomenon that most directly probes it). The article's honesty about neutrality is real, but it is undermined by links to pages that treat the same phenomena as evidence. Fix the Holton misattribution, the Davidson quote and the ego-depletion coverage before anything else.
+
+## 7. Recommendations
+
+### 7.1 Changes to specific articles
+
+1. **akrasia-and-weakness-of-will:** replace "Holton explains it" with "Holton explains *weakness of will*, which he distinguishes from akrasia". Restructure the "four positions" into three answers to the akrasia question plus Holton's change of subject, and retitle the Tenet 5 paragraph to match.
+2. **akrasia-and-weakness-of-will:** restore ", all things considered," in the Davidson p. 42 quote. Either check it against *EAE* or cite it "as quoted in Stroud & Svirsky (2025)", and drop the SEP's "[b]" for Davidson's own variable.
+3. **akrasia-and-weakness-of-will:** delete "what he calls the kernel of truth". Quote Ross's 1147a sentence in full ("asleep, mad, or drunk"), name the translation, and take the "sweet" syllogism out of quotation marks or use Aristotle's own example.
+4. **akrasia-and-weakness-of-will:** name the Protagoras translation (Hamilton & Cairns 1961) and cite 352b–358d. State that the denial depends on the hedonist premise.
+5. **akrasia-and-weakness-of-will:** correct Hare to pp. 67–85. Add *The Language of Morals* (1952) for the inverted-commas sense, and soften "Harean denial" to Hare's actual position that backsliding does not refute prescriptivism.
+6. **akrasia-and-weakness-of-will:** add Holton (1999) *J Phil* 96: 241–262, Holton (2003), and Holton & May (2012). Replace "over-ready" with Holton's normative "unreasonable revision".
+7. **akrasia-and-weakness-of-will:** expand the depletion paragraph to cover Vohs et al. (2021, d = 0.06, BF ≈ 4 for the null), Carter & McCullough (2014) and Carter et al. (2015), the glucose critiques (Kurzban 2010; Finley et al. 2019), and the proponents' manipulation-validity objection. Delete "trainable" or flag it as a strength-model claim.
+8. **akrasia-and-weakness-of-will:** add a "Post-Davidson critique and naturalistic mechanisms" section covering Bratman's Sam, Mele, Ainslie, Davidson (1982), Watson's actual 1977 argument, named rational-akrasia authors (Audi, McIntyre, Arpaly) and Schapiro (2021).
+9. **akrasia-and-weakness-of-will (Relation to Site Perspective):** either (a) state one *discriminating* prediction of the selection reading against Mele/Ainslie, or (b) relabel the section "terminological translation; no evidential weight". Remove the Tenet 3 heading or state outright that akrasia gives Tenet 3 *zero* support. Confront the valence-tracking dilemma and the agent-causal luck problem.
+10. **phenomenology-of-choice-and-volition:** bring the meta-description ("irreducible evidence") into line with the hedged body. Add Vohs et al. (2021), felt effort rising without a reliable performance change, to "What Would Challenge This View?".
+11. **responsibility-gradient-from-attentional-capacity:** separate weakness from incapacity (Watson 1977; Holton) so akratic agents are not implicitly excused. Replace "Meister's 2024 analysis of perceptual limits" with the actual claim of Zheng & Meister (*Neuron* 113: 192–204): "The information throughput of a human being is about 10 bits/s", which concerns behavioural throughput. Add Sauerbrei & Pruszynski's (2025) *Nature Neuroscience* critique, "The brain works at more than 10 bits per second".
+12. **interactionist-dualism:** delete "alone" from the Schwartz OCD sentence. Note that Baxter et al. (1992) found "Caudate glucose metabolic rate changes with both drug and behavior therapy", so the caudate changes after behaviour therapy reported by Schwartz et al. (1996) are equally predicted by physicalism.
+13. **witness-consciousness:** mark the "Quantum Zeno (rapid observation)" cell as speculative.
+14. **valence-and-conscious-selection / Steelman for Value-Blind Selection:** add akrasia and inverse akrasia (Arpaly's Emily) as explicit test cases for value-sensitive selection.
+15. **mental-effort:** audit it to confirm it actually contains the ego-depletion replication material the akrasia article delegates to it, and add that material if it does not.
+
+### 7.2 Changes to site methodology
+
+1. **Quote provenance rule:** any quotation taken from the SEP or another secondary source must be cited "as quoted in…". Editorial brackets must not be copied. Every ellipsis must be checked for whether it removes a qualifier the argument depends on.
+2. **Replication-status register:** keep one canonical paragraph per contested effect (ego depletion, glucose model, power posing, the strength-model training effects). It should give multisite effect sizes (Hagger 2016; Vohs 2021), the bias-corrected meta-analyses, and the proponents' rebuttals, and every page invoking the effect should be required to use it.
+3. **Steelman requirement:** each Relation to Site Perspective section must name the strongest specific physicalist *mechanism*, not just "a physicalist can accept…". It must then state a discriminating prediction or explicitly label the Map's reading "non-discriminating".
+4. **Lens-hedge audit:** a reading that claims no evidential weight may not be filed under a tenet heading. "One lens" framing should trigger a check for explanatory redundancy.
+5. **Claim-strength registry and link-target check:** keep canonical wordings for recurring claims, such as "effort phenomenology is evidence for conscious causation". Automatically flag any case where page A disclaims X and links to page B, which asserts X.
+6. **No self-citation in References:** move Map pages to Further Reading so that internal coherence is not presented as outside support.
+7. **Research-gap gate:** any "Gaps in Research" item in a research note that touches a claim in the published article must be closed before publication.
+8. **Changelog completeness:** log every published edit at the time it is made. The 2026-10-03 phenomenology edit postdates the newest changelog entry (2026-10-01).
+9. **Primary-text policy for classics:** name the translation and give Stephanus or Bekker ranges that cover the whole argument, not just the quoted line.
+
+## Caveats
+
+- The fetch tool blocked direct access to the tenets, mental-effort, control-theoretic-will, volitional-control, free-will, moral-responsibility and Frankfurt pages. My quotations from those pages come from search snippets, from other Map pages, or from the site's own outer reviews. They may be truncated or out of date and should be checked against the live pages.
+- I checked Davidson's p. 42 wording against the SEP's transcription and a course outline, not against a scan of *Essays on Actions and Events*. The ellipsis finding stands either way, because the article's own quote visibly omits the qualifier.
+- Hagger et al. (2016) pooled k = 23 labs with a total N = 2,141. Their abstract reports that "the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [−0.07, 0.15])". Vohs et al. (2021) give the same figure.
+- The changelog fetch was truncated to the most recent (2026-10-01) entries. An earlier entry for the akrasia article may exist. The audited text is the live 2026-09-27 version either way.
+
+## Sources
+
+1. [Akrasia and Weakness of Will](https://unfinishablemap.org/topics/akrasia-and-weakness-of-will/)
+2. [Changelog](https://unfinishablemap.org/workflow/changelog/)
+3. [Phenomenology of Choice and Volition](https://unfinishablemap.org/concepts/phenomenology-of-choice-and-volition/)
+4. [The Unfinishable Map](https://unfinishablemap.org/)
+5. [Positions](https://unfinishablemap.org/positions/)
+6. [Objections to Interactionist Dualism](https://unfinishablemap.org/concepts/objections-to-interactionism/)
+7. [Outer Review - Claude Opus 5 (2026-09-14T06:36:59.330358+00:00)](https://unfinishablemap.org/reviews/outer-review-2026-09-14-claude-opus-5/)
+8. [Weakness of Will (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/weakness-will/)
+9. [Research Notes - Akrasia and Weakness of Will](https://unfinishablemap.org/research/akrasia-and-weakness-of-will-2026-07-09/)
+10. [Nicomachean Ethics of Aristotle: Book VII. Continence and...](https://sacred-texts.com/cla/ari/nico/nico070.htm)
+11. [1 Donald Davidson: How Is Weakness of the Will Possible ...](<https://jeelooliu.net/practical%20reason%20folder/outline%20-%20Davidson%20(Weakness).pdf>)
+12. [Notes to Weakness of Will](https://plato.stanford.edu/archives/fall2016/entries/weakness-will/notes.html)
+13. [Backsliding](https://academic.oup.com/book/12880/chapter/163212119)
+14. [R. M. Hare, Backsliding - PhilPapers](https://philpapers.org/rec/HARB-13)
+15. [Richard Holton: Willing, Wanting, Waiting](https://web.mit.edu/holton/www/pubs/bookpdf/)
+16. [A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12422598/)
+17. [(PDF) Publication bias and the limited strength model of self-control: has the evidence for ego depletion been overestimated?](https://www.researchgate.net/publication/263965097_Publication_bias_and_the_limited_strength_model_of_self-control_has_the_evidence_for_ego_depletion_been_overestimated)
+18. [Again, No Evidence for or Against the Existence of Ego Depletion: Opinion on “A Multi-Site Preregistered Paradigmatic Test of the Ego Depletion Effect”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8134656/)
+19. [The Debate on the Ego-Depletion Effect: Evidence from Meta-Analysis with the p-Uniform Method - PubMed](https://pubmed.ncbi.nlm.nih.gov/28261132)
+20. [A Series of Meta-Analytic Tests of the Depletion Effect: Self-Control Does Not Seem to Rely on a Limited Resource](https://www.researchgate.net/publication/278330531_A_Series_of_Meta-Analytic_Tests_of_the_Depletion_Effect_Self-Control_Does_Not_Seem_to_Rely_on_a_Limited_Resource)
+21. [(PDF) News of Ego Depletion's Demise is Premature: Commentary on Carter, Kofler, Forster, & Mccullough, 2015](https://www.researchgate.net/publication/315308749_News_of_Ego_Depletion's_Demise_is_Premature_Commentary_on_Carter_Kofler_Forster_Mccullough_2015)
+22. [www.frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01639/pdf)
+23. [Does the Brain Consume Additional Glucose during Self-Control Tasks? - Robert Kurzban, 2010](https://journals.sagepub.com/doi/10.1177/147470491000800208)
+24. [The Past, Present, and Future of Ego Depletion](https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000398)
+25. [Willing, Wanting, Waiting](https://ndpr.nd.edu/reviews/willing-wanting-waiting/)
+26. [1 Resolutions and Strength of Will](https://www.phil.cam.ac.uk/system/files/documents/2906IMCPartIIdiss.pdf)
+27. [The Responsibility Gradient: From Attentional Capacity to Moral Desert](https://unfinishablemap.org/topics/responsibility-gradient-from-attentional-capacity/)
+28. [Contemplative Neuroscience](https://unfinishablemap.org/concepts/contemplative-neuroscience/)
+29. [Interactionist Dualism](https://unfinishablemap.org/concepts/interactionist-dualism/)
+30. [84274e63 ccd3 4b4f a93c 924b9dbc926b](https://kuscholarworks.ku.edu/entities/publication/84274e63-ccd3-4b4f-a93c-924b9dbc926b)
+31. [Research Notes - Agent Causation and Libertarian Free Will](https://unfinishablemap.org/research/agent-causation-libertarian-free-will-2026-01-14/)
+32. [Agent Causation](https://unfinishablemap.org/concepts/agent-causation/)
+33. [The Steelman for Value-Blind Selection](https://unfinishablemap.org/topics/the-steelman-for-value-blind-selection/)
+34. [The Consciousness-Value Connection](https://unfinishablemap.org/concepts/consciousness-value-connection/)
+35. [Witness Consciousness](https://unfinishablemap.org/concepts/witness-consciousness/)
+36. [Stapp's Quantum Mind Model](https://unfinishablemap.org/concepts/stapp-quantum-mind/)
+
+## Verification Notes
+
+**Extraction and readiness.** The report was collected at 04:38Z, 90 minutes after the 03:08:55Z commission. Readiness was checked from the thread itself and a screenshot. There was no Stop button, the research tile read "Research complete • 310 sources • 12m 1s", and the report tile was present (the filtered tile list excludes "View all"). The conversation API gives the assistant turn `stop_reason: end_turn` at 03:20:42Z. The run was not cut short by the usage limit: the "You've used 75% of your weekly limit" banner was still showing, but the report is complete and ends with its Sources list. The body held at 35,035 characters across a 10 s sentinel. The text was taken with the artifact panel's own Copy menu → "Download as Markdown" (40,548 bytes), so nothing was retyped. The Reply section is byte-identical to the download (40,435 characters after trimming). The submitted prompt matches the pending entry's `prompt_text` (1,308 chars). The model was confirmed twice: the conversation record reads `model: claude-opus-5-5`, and the selector read "Opus 5.5 Medium". The screenshot scale measured 0.665 (1246 px shown for a 1873 px viewport). `normalize_review_links.py --dry-run` changed nothing but a trailing newline, so it was not applied, and the Map links stay as markdown links so the citations remain verbatim. The `outer_review_extraction_method` field reads `js-dom` only because `collect_review.py` offers no value for a page-native download.
+
+**The subject article is unchanged since the reviewer read it.** [topics/akrasia-and-weakness-of-will.md](/topics/akrasia-and-weakness-of-will/) was last changed by commit `4b6f03fe66` (2026-09-27), the version the reviewer audited ("Last modified: 2026-09-27"). Line numbers below refer to it.
+
+**Map-attributed quotations from the subject page: 22 checked by exact-string count. All are verbatim.** They include "Holton explains it as ordinary…", "what he calls the kernel of truth", "have and not have", "sweet things should be avoided", the p. 42 Davidson span with "[b]" and the ellipsis, "can accept every word", "neutral", "one lens among the framework-neutral accounts above", "If selection were a transparent read-off…", "the interface can select an option against…", "What the Map adds…", "Holding the four positions open…", "Nothing in the phenomenon requires or establishes any metaphysics of mind", the Hagger sentence, and "What survives is Holton's structural claim…".
+
+**Quotes from other Map pages: 11 checked.**
+- ✓ Verbatim: phenomenology-of-choice-and-volition L3 ("each phase providing irreducible evidence for conscious causal efficacy"), L123 ("provides the strongest evidence for genuine conscious contribution"), L90 ("consciousness repeatedly selecting among competing neural patterns"), L94 ("An epiphenomenalist is not embarrassed by this fit") and L155 (falsifier 3). responsibility-gradient L61 ("An agent who recognises the right course of action but cannot hold that recognition stable…"). the-steelman-for-value-blind-selection L39 ("felt value … is what the selection tracks"). The research note's "Calibration Flag", "The core datum for the Map" and its ego-depletion gap (L66, L86, L133, L151).
+- ✗ (stale) responsibility-gradient: "~10 bits/second, drawing on Meister's 2024 analysis of perceptual limits". Commit `7c10860093` (2026-06-04) replaced this. L45 now reads "drawing on Zheng & Meister's (2025) analysis of conscious throughput", and topics/bandwidth-of-consciousness L103/L147 handle Sauerbrei & Pruszynski (2025).
+- ✗ (stale) interactionist-dualism: "reshaped their brains through mental effort alone". Commit `20ceb07e12` (2026-10-03) removed it. The reviewer was probably reading the deployed copy from before that push.
+- ✗ (stale) witness-consciousness: the "Quantum Zeno (rapid observation)" cell. Commit `49331a542d` (2026-09-02) relabelled the column "Mechanism (on the Zeno reading)", and L105 caveats it as ranked below post-decoherence selection.
+- ? Not checked: the agent-causation and stapp-quantum-mind snippets the reviewer took from search results. No task relies on them.
+
+**External claims verified here:**
+- ✓ SEP "Weakness of Will" (raw HTML and notes.html, revision Thu Sep 18, 2025). The Davidson p. 42 span reads: if we ask "what is the agent's reason for doing [b] when he believes it would be better, all things considered, to do another thing, then the answer must be: for this, the agent has no reason". So "[b]" is the SEP's bracket, ", all things considered," is what the article's ellipsis removes, and "if we ask" sits *outside* the SEP's quotation marks although the article puts it inside. §3.1: "Most philosophers writing after him … think he has not". §3.3 "Changing the Subject": "Weakness of will as the untutored understand it is not akrasia (if we reserve that term for action contrary to one's better judgment)". Note 11: the all-out conclusion "emerges with greater clarity from Davidson 1978". Note 16: "Subsequent writers (see for example Mele 2012, ch.2) have questioned whether Holton was correct…; see Holton and May 2012". Holton 1999, p. 259, "irreducible normative dimension". Bratman's Sam (1979, p. 156). Mele's "motivational force of a want may be out of line…". Ainslie's "hyperbolic delay discounting". "Schapiro's dualistic Kantian moral psychology" (the SEP's wording). The Hamilton & Cairns (1961) *Collected Dialogues* edition of the *Protagoras*, pp. 308–352. Kennett 2001, Irving et al. 2022 and Davidson 1982 appear in the bibliography.
+- ✓ Ross, NE VII (MIT Classics full text): "kernel" has 0 hits. At 1147b, "the position that Socrates sought to establish actually seems to result". At 1147a, "having knowledge in a sense and yet not having it, as in the instance of a man asleep, mad, or drunk", "dry food is good for every man", and the universal "forbidding us to taste" with "everything sweet is pleasant" / "this is sweet".
+- ✓ Hare, "Backsliding" (OpenAlex record for 10.1093/019881092x.003.0005): pp. 67–85, and the abstract reads "cases of moral weakness do not constitute a counterexample to prescriptivism".
+- ✓ Holton (1999), "Intention and Weakness of Will", *J. Phil.* 96(5), 241–262, doi 10.2307/2564667 (Crossref).
+- ✓ NDPR review of *Willing, Wanting, Waiting* (raw HTML). Holton argues that the effort of sticking with resolutions "uses up the power that it exercises, analogously to the way physically resisting a physical force uses up muscular energy". The reviewer's version elides the middle of this but is faithful.
+- ✓ Carter et al. (2015), *JEP: General* 144(4), 796–815, doi 10.1037/xge0000083. Its title includes "Self-control does not seem to rely on a limited resource" (OpenAlex).
+- ✓ Zheng & Meister, *Neuron* 113(2), 192–204 (doi 10.1016/j.neuron.2024.11.008). The abstract says "The information throughput of a human being is about 10 bits/s". Sauerbrei & Pruszynski (2025), "The brain works at more than 10 bits per second", *Nature Neuroscience*, doi 10.1038/s41593-025-01997-0.
+- ✓ Vohs et al. (2021): d = 0.06, k = 36, N = 3,531, and data "4 times more likely under the null". These were verified at OpenAlex by this morning's ChatGPT processing and were not re-checked.
+- ✓ Path drift in the research note: L146 calls control-theoretic-will a "real article" at `obsidian/topics/…`, but the file is [concepts/control-theoretic-will.md](/concepts/control-theoretic-will/). This is true, but the research note is a dated record and the article's bare wikilink resolves, so no action is needed.
+- ? Not verified: Kurzban 2010's "minuscule, even trivial amount of glucose" (no abstract available; the paper exists), Inzlicht & Friese 2019's "perhaps the most rigorous test (and failure)", Schwartz 1996 and the Libet figures, the content of Davidson 1982, and the "trainable" muscle-model quotation, which the reviewer took from a Cambridge Part II dissertation PDF, a weak source. The mental-effort fold allows no quotation from the glucose sources.
+
+**New findings from verification (not in the review):**
+- ✓ The 2026-08-26 deep-review ledger (L37) ratified the Davidson ellipsis as "faithful". It is not: it changes the quoted belief from conditional to unconditional. The ledger also missed the "if we ask" splice. Folded as P1 item (13), which amends that task's KEEP clause.
+- ~ `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` L42 still says Schwartz's programme gave "evidence that conscious mental effort alone can normalise pathological brain activity". This is the same string the 2026-10-03 interactionist-dualism pass removed, and the page's own reference 20 is titled "…changes with both drug and behavior therapy". Not minted: "alone" there can be read as "without medication", the page's L48/L100 already state the materialist reading, and the reviewer did not audit this page. It is left for that page's next deep review.
+
+**Disputed or rejected claims:**
+- ✗ Lens-hedge "unfalsifiable by construction" and Tenet 3 filing "inconsistent". L100 already says the contribution is "an *interpretation* of a shared phenomenon, not evidence for its metaphysics", and L102 calls the phenomenon "neutral". A tenet heading that records *no bearing* is calibration, not a contradiction. The ChatGPT leg's "compatibility case only" demand was rejected on the same grounds. The live residue (no discriminating prediction, no named rival mechanism) is in P1 items (8) and (15).
+- ✗ "Soften 'Harean denial'". The SEP's own §1 heading is "Hare on the Impossibility of Weakness of Will", and Hare's abstract (moral weakness is no counterexample to prescriptivism) is consistent with denying strict akrasia. The *Language of Morals* point is a minor sourcing preference.
+- ✗ Recommendation 13 (mark witness-consciousness Zeno cell speculative) and 12 (delete "alone" on interactionist-dualism): both already done, see above.
+- ✗ Recommendation 15 (audit mental-effort for the depletion material): mental-effort L84 carries it, and the open P2 on that line is the update.
+- ✗ Recommendation 14 (akrasia as a test case on the valence and steelman pages): valence L49 already runs the value-blind/value-sensitive horn analysis on akrasia. The fix belongs on the akrasia page (P1 item 16), and valence is over its hard gate.
+- ✗ Recommendation 10, second half (Vohs 2021 in pocv's "What would challenge"): the reviewer concedes it does not meet falsifier (3). Recorded on the NEEDS-HUMAN entry and not minted.
+- ✗ Methodology item 8 (changelog completeness): the 2026-10-03 pocv edit is logged in [workflow/changelog.md](/workflow/changelog/). The reviewer saw the deployed changelog, which lags the push.
+- ✗ Methodology item 6 (no self-citation in References): Map self-citations in References are a corpus-wide convention, not an article defect.
+
+## Processing Record (2026-10-04)
+
+**Tasks: 1 minted, and the Claude findings were folded into 3 open tasks and 1 operator entry.** Deduplication ran against the 75 active tasks, including the five the ChatGPT leg minted at 04:05Z on the same subject.
+1. **Folded into the P1** `topics/akrasia-and-weakness-of-will` correction task, inside its Notes line, with the budget raised from +300 to +380. The fold marks items (3)–(9) and (11) as convergent and adds SEP note 11 for the all-out reading ("Intending" 1978), Hamilton & Cairns for the Protagoras, the L64 "achievement" overstatement with Bratman's Sam, and the NDPR evidence on Holton's muscle analogy. It adds NEW items: (12) "what he calls the kernel of truth"; (13) the Davidson p. 42 splice, ellipsis and bracket, which amends the KEEP clause; (14) L98 "Holton explains it", meaning akrasia; (15) Mele and Ainslie as the named rival mechanisms; (16) the L92 valence/evaluation conflation against steelman L39 and valence L49; (17) the agent-causal luck problem.
+2. **Folded into the P2** `topics/akrasia-and-weakness-of-will` coverage task, with the budget raised from +600 to +680. Items (a), (b), (c) and (e) are marked convergent, with Schapiro framed as the nearest ally. The Holton 1999 reference is added with its Crossref DOI. NEW: (g) the folk-concept challenge (SEP note 16), plus (h) Davidson 1982 as an optional lead to be checked first.
+3. **Folded into the P2** `concepts/mental-effort` L84 task: convergent on Vohs 2021, with an optional Carter 2015 clause; the glucose sources are leads only, with no quotation.
+4. **Appended to NEEDS-HUMAN (foundations) 2026-08-17** as a cross-service convergence paragraph: pocv's L3/L123 "irreducible"/"strongest evidence" against akrasia's "neutral". Left unsettled.
+5. **Minted P2** `topics/responsibility-gradient-from-attentional-capacity` L61: weakness of will vs incapacity, at most +45 words, with the page's first link to the akrasia page. It is coordinated with the akrasia P2 item (a).
+
+**Not minted:** see Disputed above. The open P2s on valence L49 ("demonstrably") and control-theoretic-will (L130 "testable", the L144 signal mapping) had no Claude counterpart and were left untouched. Methodology items 1–5, 7 and 9 overlap open operator entries: NEEDS-HUMAN "corpus convention: reference apparatus cannot express VERIFICATION LEVEL" (quote provenance), 2026-07-30 (the per-claim verification ledger with a "contested by later literature" tier, for the replication register), 2026-07-25 (opponent parity, for the steelman requirement), 2026-08-01 (the evidential-status scale, for the lens-hedge audit), 2026-08-03 (corrections that never bind elsewhere, for the claim-strength registry) and 2026-07-29 (deferral-chain grounding, for the circular cross-referencing). Item 9 (name the translation, give a range covering the whole argument) is applied locally in P1 item (7).
+
+**Convergence candidates for `/combine-outer-reviews`** (both legs audit the same article; the ChatGPT labels C1–C7 are reused):
+- C1: "trainable … survives" and depletion currency. Claude §2.1(4) and recommendation 7; ChatGPT P1 (6) and the mental-effort task.
+- C2: Davidson fidelity. Claude 1.7–1.9 (ellipsis, all-out source, "achievement"); ChatGPT P1 (1)–(3). This is the same cluster at different loci.
+- C3: the transparent-read-off strawman and the strongest physicalist rival. Claude §4 row 2 and §3; ChatGPT P1 (8).
+- C4: the weakness/compulsion boundary and the moral-responsibility deferral. Claude §4 last row and §5 (responsibility-gradient); ChatGPT P2 (a).
+- C5: rational akrasia and Schapiro. Claude §3; ChatGPT P2 (b)–(c).
+- C6: the evidential status of choice phenomenology. Claude §5 row 1 (pocv L3/L123); ChatGPT 22–24. Operator item.
+- C7: the hard-problem → controller bridge. Claude §4 row 4; ChatGPT P1 (9).
+- C8 (new): the Aristotle quotation and translation. Claude 1.4; ChatGPT P1 (7).
+- C9 (new): Hare pp. 67–85. Claude 1.11; ChatGPT P1 (4).
+- Claude only: the Holton L98 misattribution, "kernel of truth", the Davidson p. 42 splice and ellipsis, the valence/evaluation conflation, the agent-causal luck problem, the Holton folk-concept challenge, and responsibility-gradient L61.

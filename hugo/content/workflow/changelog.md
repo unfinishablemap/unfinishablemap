@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 04:05:09+00:00
+ai_modified: 2026-10-04 04:48:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 04:05:09+00:00
+lastmod: 2026-10-04 04:48:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T04:48:25+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (slug `claude-opus-5-5`; the conversation record reads `model: claude-opus-5-5` and the selector read "Opus 5.5 Medium"). Subject: `recent` ("Audit akrasia-and-weakness-of-will", source `reuse:pending-reviews:outer-review-2026-10-04-chatgpt-5-6-sol-pro.md`).
+- **File**: [outer-review-2026-10-04-claude-opus-5-5](/reviews/outer-review-2026-10-04-claude-opus-5-5/) (8,131 words including the processing sections; the reply is 5,567 words)
+- **Verdict**: "major revision". The citations mostly check out, with no invented references. The defects: L98 "Holton explains it" (meaning akrasia), though the SEP files Holton under "Changing the Subject"; the Davidson p. 42 quote taken from the SEP with its "[b]" bracket and an ellipsis that removes ", all things considered,"; and Aristotle's "kernel of truth", which is not in Ross. The depletion coverage is one sentence, and the selection lens is redundant by its own concession.
+- **Verified against the live page**: the subject has been unchanged since 4b6f03fe66 (2026-09-27). 22 Map-attributed spans are verbatim by exact-string count. External checks: SEP raw text and notes.html (§3.1 "think he has not", §3.3 "is not akrasia", note 11 "emerges with greater clarity from Davidson 1978", note 16 Holton & May 2012); Ross NE VII (0 hits for "kernel"); OpenAlex Hare 67–85 and its abstract; Crossref Holton 1999 (10.2307/2564667); NDPR on Holton's muscle analogy; Carter 2015; Zheng & Meister; Sauerbrei & Pruszynski 2025.
+- **New finding from verification**: the 2026-08-26 ledger ratified the Davidson ellipsis as "faithful". It is not: it turns a conditional judgement into an unconditional one, and "if we ask" was spliced inside the quotation marks.
+- **Rejected or already addressed**: three sibling-page quotes are stale (responsibility-gradient "Meister's 2024 … perceptual limits", fixed 2026-06-04; interactionist-dualism "mental effort alone", fixed 2026-10-03; witness-consciousness Zeno cell, fixed 2026-09-02). Also rejected: the lens-hedge and Tenet 3 filing charges (already disclaimed at L100–L102), softening "Harean denial", the mental-effort audit (L84 already carries the material), changelog completeness (deploy lag), and the self-citation convention.
+- **Tasks**: 1 minted, 3 folded. Minted: P2 [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) L61, weakness of will vs incapacity (+45). Folded into the Notes of the open ChatGPT-leg tasks: the P1 akrasia correction (budget +300 → +380; convergent items marked; NEW items 12–17: kernel of truth, the Davidson splice, ellipsis and bracket, which amends the KEEP clause, L98 Holton, Mele/Ainslie, the L92 valence/evaluation conflation, agent-causal luck); the P2 akrasia coverage task (+600 → +680; Holton 1999 reference, the folk-concept challenge, Davidson 1982 as a lead); and the P2 [mental-effort](/concepts/mental-effort/) task (convergent on Vohs 2021, optional Carter 2015).
+- **Operator item**: pocv L3 "irreducible evidence" and L123, against akrasia's "neutral", were appended to NEEDS-HUMAN (foundations) 2026-08-17 as cross-service convergence with ChatGPT items 22–24. Not settled.
+- **Convergence candidates**: C1–C7 confirmed from the Claude side, plus C8 (the Aristotle quotation and translation) and C9 (Hare 67–85), for `/combine-outer-reviews`.
+- **Review frontmatter**: `outer_review_status: processed`. Topics (bare slugs), concepts, related_articles and description are populated; provenance fields are preserved.
+- **Telegram**: summary sent (737 chars; exit 0), linking https://unfinishablemap.org/reviews/outer-review-2026-10-04-claude-opus-5-5/ (live after the next deploy).
+- **Published**: synced to Hugo; no commit.
+- **Model**: claude-opus-5-5
+
+## 2026-10-04T04:48:25+00:00 - collect-claude-review
+- **Status**: Success
+- **Target**: [outer-review-2026-10-04-claude-opus-5-5](/reviews/outer-review-2026-10-04-claude-opus-5-5/). Subject: `recent` ("Audit akrasia-and-weakness-of-will", articles `topics/akrasia-and-weakness-of-will.md`, source `reuse:pending-reviews:outer-review-2026-10-04-chatgpt-5-6-sol-pro.md`).
+- **Conversation**: https://claude.ai/chat/609baaa6-a27a-4fe1-bb37-2571511f86e4, commissioned 2026-10-04T03:08:55Z and collected at about 90 minutes of age (collect_attempts 0; the entry is now marked `collected`).
+- **Readiness**: the research tile read "Research complete • 310 sources • 12m 1s". There was no Stop button, and the report tile "View Referee Report: Akrasia and Weakness of Will on The Unfinishable Map" was present (the filtered tile list excludes "View all"). The API gives the assistant turn `stop_reason: end_turn` at 03:20:42Z. The "75% of your weekly limit" banner was showing, but the research was not cut short. The body held at 35,035 characters across a 10 s stability sentinel.
+- **Model check**: the conversation record reads `model: claude-opus-5-5`, and the selector read "Opus 5.5 Medium". This matches the filename slug.
+- **Extraction**: the artifact panel's own Copy menu → "Download as Markdown" (40,548 bytes, moved to `tmp/collect-claude-body-2026-10-04.md`). There was no retyping. The Reply section is byte-identical to the download.
+- **Chrome**: tab 771757621 in group 755745709. The screenshot scale was measured at 0.665 (frame 1246 against innerWidth 1873).
+- **Next**: outer-review processing was invoked inline (entry above).
+- **Model (this skill)**: claude-opus-5-5
 
 ## 2026-10-04T04:05:09+00:00 - outer-review
 - **Status**: Success

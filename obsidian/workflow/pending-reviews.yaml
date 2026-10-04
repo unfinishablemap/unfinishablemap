@@ -586,9 +586,9 @@
   prompt_summary: 'Hostile-referee audit of akrasia-and-weakness-of-will: cites, counterargs,
     bracketing'
   target_filename: outer-review-2026-10-04-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-04T04:38:45.241386+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile external referee auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophy-of-mind site that argues for interactionist
