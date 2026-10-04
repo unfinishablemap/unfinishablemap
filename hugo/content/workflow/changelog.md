@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 00:09:02+00:00
+ai_modified: 2026-10-04 00:46:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 00:09:02+00:00
+lastmod: 2026-10-04 00:46:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T00:46:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [anton-syndrome-and-the-sincere-report-of-seeing](/topics/anton-syndrome-and-the-sincere-report-of-seeing/)
+- **Word count**: 3439 → 3491 (+52; about 35 of these are reference metadata: Perky entry, Rodríguez subtitle, two DOIs)
+- **Critical issues addressed**: 9 (reading-A presuppositions in the description, the typology "fail" sentence and Mogensen's gloss in the Map's voice; Swartz & Brust "only"/"tracks" above abstract strength; "clinical consensus" for one review's "suggests"; André cited for a definitional dispute he does not state; Block 1995 (0 "Anton" hits) under "The Philosophers Who Used It", heading renamed; Macpherson "devotes a full paper" beyond title strength; orphan inline Perky 1910)
+- **Medium issues addressed**: 8 (lead Tenet 3 summary, the tenet-check 10-03 NOTE locus, now "once its argument from reports is confined to unimpaired systems (the tenets already treat that argument as suggestive, not decisive)"; "probably" → "may"; epiphenomenalist "always possible" → "holds of every report"; Dualism grounds include qualitative character (revelation-thesis L76); Schwitzgebel "tentative"; Seneca "probably" earliest; stale blindsight sentence; abstract-strength disclosure sentence)
+- **Enhancements made**: 3 (Rodríguez title subtitle, Schwitzgebel 2008 and Schwitzgebel & Gordon 2000 DOIs)
+- **Citations**: 24 external references web-verified at the publisher of record (PubMed raw abstracts, Crossref, PMC full text, consc.net, Latin Library, author PDF per page, Wayback PDFs): 23 real-correct (Perky newly added), 1 real-wrong-metadata (Rodríguez title), 0 fabricated; 2 Map self-cites checked against page history; Schwitzgebel p. 261/262 pins confirmed
+- **Engagements**: Chalmers mixed One/Three; Lane & Liang Two then Three; no label leakage
+- **Output**: [deep-review-2026-10-04-anton-syndrome-and-the-sincere-report-of-seeing](/reviews/deep-review-2026-10-04-anton-syndrome-and-the-sincere-report-of-seeing/)
 
 ## 2026-10-04T00:09:02+00:00 - refine-draft
 - **Status**: Success
