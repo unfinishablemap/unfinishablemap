@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-03T08:06:53.221891'
+ai_modified: '2026-10-04T08:08:40.525059'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-03'
+modified: '2026-10-04'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-04: Kant's Paralogisms Meet the Map's Posited Subject
+
+Kant held that the bare 'I think' proves no simple, persisting soul. A new page argues the Map's route differs: it posits its subject rather than inferring it. It stays exposed wherever it argues from felt unity, felt mine-ness or continuity of memory.
+
+**Type**: new-article  
+**Link**: [[kants-paralogisms-and-the-maps-subject]]
+
+---
+
 ### 2026-10-03: Which Arguments Against Physicalism Reach Which Physicalist?
 
 Chalmers sorts physicalists into Type-A, B and C. A new page routes the Map's replies to each and lets Type-B answer back. Replies that press A and C favour Type-B as much as dualism; against Type-B, the live opponent, the Map's case is only 'compatible'.
@@ -194,16 +203,6 @@ A dubbed syllable heard as a third sound. Some people fall for it on every trial
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2099408941289472054  
 **Link**: [[fusion-void]]
-
----
-
-### 2026-09-11: Treated Once. Cut Again Later. Still Two Heads.
-
-A brief chemical pulse reset planarian flatworms' bioelectric circuit. Some regenerated two-headed — and kept doing so in later cuts, with no further treatment. The new body plan sits in cell voltage; polarity-gene expression is unchanged. A memory nobody calls experience.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2098321557562994863  
-**Link**: [[basal-and-bioelectric-cognition]]
 
 ---
 
