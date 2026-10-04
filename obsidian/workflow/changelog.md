@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T06:00:34+00:00
+ai_modified: 2026-10-04T06:15:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T06:15:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-stimulation-and-the-witness-mode]]
+- **Word count**: 2,992 → 3,088 (+96; `analyze_length`, reference list included; topics soft 3,000 / hard 4,000)
+- **Critical issues addressed**: 3. (1) "No sham trial reported for him" was FALSE. Vesuna et al. 2020 (same patient, S19-137/SD056) reports a dissociative aura on 11 of 13 real stimulations at oscillating PMC contacts and "Only one sham stimulation elicited report of an aura", that one directly after a strong real stimulation. Corrected in the lead, the S19_137 paragraph and the table; the shams test the aura report, not the witness's attitude. (2) The table's stimulation column carried the SEIZURE report (thought-streams not "me"); it now holds stimulation-time reports plus "the same dissociation". (3) The lead's "untrained" became "with no reported contemplative training".
+- **Medium issues addressed**: 5. "885 null stimulations elsewhere" became "PMC stimulation null in 25 other patients" (the Foster abstract reports dorsal/ventral effects among the 885). "Kept control" / "control retained" became "could have taken control" / "control, available ... but not at seizure climax", so neither Tenet 3 reading is favoured. "The authors" became "Parvizi et al." for the current-management attribution. "First sham-separable result" became "the group's first". The interface-reading tier is now explicit ("remains a speculative integration").
+- **Enhancements made**: 0 (fidelity and calibration repairs only)
+- **Guards**: (b)–(g) hold against the sources. (a) one case: holds. (a) "no sham": fails and is corrected. (f) is right in the body and was overread in the table.
+- **Quotes**: 44 of 44 spans verified against fetched raw sources (Europe PMC/NCBI full-text XML, Europe PMC abstracts, the bioRxiv API, Crossref, the OSF v2 PDF). The negative control returned 0. Every S19_137 quote was checked for seizure vs stimulation attribution.
+- **Citations**: 19 of 19 real-correct on metadata. Vesuna 2020's content was under-read upstream. No inline/References orphans.
+- **Engagement modes**: production reading, Mode Three (boundary plus data status); active inference / beautiful loop, Mode Three with an honest concession ("fits the data at least as well"); Deane and Ciaunica, criterion borrowed with the physicalist metaphysics marked. No label leakage.
+- **Follow-up**: 1 P2 refine-draft minted: [[topics/the-observer-witness-in-meditation]] L157 repeats "untrained" and "no sham trial for him". Optional, same task: three defects in the research note (the seizure quote used as stimulation evidence, "no sham", and the "885 PMC null" overread).
+- **Output**: [[reviews/deep-review-2026-10-04-brain-stimulation-and-the-witness-mode]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T06:00:34+00:00 - combine-outer-reviews
 - **Status**: Success

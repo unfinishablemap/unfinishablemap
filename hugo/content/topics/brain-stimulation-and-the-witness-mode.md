@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-04 01:32:59+00:00
+ai_modified: 2026-10-04 06:12:28+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,8 @@ description: Can stimulating the brain produce the meditative witness mode? One 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-04 01:32:59+00:00
+last_deep_review: 2026-10-04 06:12:28+00:00
+lastmod: 2026-10-04 06:12:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +38,7 @@ topics:
 - '[[clinical-dissociation-as-systematic-evidence]]'
 ---
 
-Brain stimulation has not produced the meditative witness mode, in which awareness observes thoughts and sensations without identifying with them. The Unfinishable Map names that result as a test: two of its articles say its reading of the witness would face difficulty if stimulation could create or eliminate the mode independent of contemplative development. As of 2026, one intracranial case comes close on structure: an untrained epilepsy patient, stimulated in posteromedial cortex, felt pulled out of "the pilot's chair" while still seeing "all the gauges". He is one patient, with no sham trial reported for him. The focused-ultrasound trials aimed at the posterior cingulate cortex (PCC) have not separated from sham on phenomenology. And no result discriminates the Map's interface reading from a production reading or from the beautiful-loop theory, partly because the falsifier tests whether the witness depends on training, and the interface reading does not entail that dependence. [What Each Reading Predicts](#what-each-reading-predicts) explains why that is a cost.
+Brain stimulation has not produced the meditative witness mode, in which awareness observes thoughts and sensations without identifying with them. The Unfinishable Map names that result as a test: two of its articles say its reading of the witness would face difficulty if stimulation could create or eliminate the mode independent of contemplative development. As of 2026, one intracranial case comes close on structure: an epilepsy patient with no reported contemplative training, stimulated in posteromedial cortex, felt pulled out of "the pilot's chair" while still seeing "all the gauges". He is one patient; only one of his sham stimulations drew a report of the state, and no one measured his attitude toward it. The focused-ultrasound trials aimed at the posterior cingulate cortex (PCC) have not separated from sham on phenomenology. And no result discriminates the Map's interface reading from a production reading or from the beautiful-loop theory, partly because the falsifier tests whether the witness depends on training, and the interface reading does not entail that dependence. [What Each Reading Predicts](#what-each-reading-predicts) explains why that is a cost.
 
 ## What the Falsifier Asks {#falsifier}
 
@@ -53,7 +54,7 @@ Transcranial focused ultrasound (tFUS) reaches midline targets without surgery, 
 
 **Ehmann et al. (2025)** gave two PCC-suppressive sessions to experienced meditators on a ten-day silent retreat. The study is open-label, and its authors say it "cannot support causal inferences regarding the effects of tFUS on meditative development". Daily state nondual awareness rose steadily across the retreat, but scores "did not differ" on the first sonication day (p = .40), showed a trend on the second (p = .06), and fell modestly in the days after the second session (p = .027). Interviews on stimulation days included what the authors summarise as "reduced identification with and solidification of mental phenomena", the nearest any tFUS study comes to witness language. The themes "Effortlessness" and "Spaciousness" sit in a table of themes "Independent of Stimulation Day" and cannot be credited to the ultrasound.
 
-**Lord et al. (2026, preprint, abstract)** is the first sham-separable result: in 24 meditation-naive participants on a two-week mindfulness course, active (n = 16) against sham (n = 8) tFUS decoupled the DMN from the central executive network. The phenomenological link is a within-group correlation with "self-reported acceptance". The participants were in contemplative training, so the result is not independent of it, and acceptance is not a witness report.
+**Lord et al. (2026, preprint, abstract)** is the group's first sham-separable result: in 24 meditation-naive participants on a two-week mindfulness course, active (n = 16) against sham (n = 8) tFUS decoupled the DMN from the central executive network. The phenomenological link is a within-group correlation with "self-reported acceptance". The participants were in contemplative training, so the result is not independent of it, and acceptance is not a witness report.
 
 The programme's own target is equanimity, "an open and nonreactive attitude toward all sensory experiences" (Lord et al. 2025, abstract), not the witness, and a 2024 review finds that "Prior NIBS-meditation research has predominantly targeted frontal and parietal cortices" (Abellaneda-Pérez et al. 2024, abstract). That tFUS alters DMN connectivity is a live hypothesis resting on one sham-separable preprint. That it raises mindfulness, equanimity or nondual awareness beyond sham has not been shown.
 
@@ -67,16 +68,16 @@ Where stimulation here does produce something, it is usually bodily. Anterior pr
 
 Parvizi et al. (2021) report patient S19_137, a man in his twenties whose seizures began in the right dorsal PCC. He is the same patient briefly reported in Vesuna et al. (2020), so there is one case, not two. In seizures he was "an observer of an active, internalized experience over which I have little control", hearing parts of his brain talk: "I stopped considering them 'me'". The seizures also brought spatial disorientation and fear.
 
-Stimulation at 50 Hz of the seizure zone and of its left-hemisphere counterpart "induced a subjectively similar state, reproducibly". He said: "I got pulled out of the chair, the pilot's chair, but I could still see all the gauges", and called it "a nice version of the seizure, cleaner". Vesuna et al. describe the left-hemisphere stimulation as "without the negative valence of an impending seizure". Unlike at seizure climax, "if I wanted to take control, I could have", which the authors attribute to careful management of the current. Temporal, insular and medial frontal sites "did not reproduce any signs of auras". No sham trial is reported for him; across the programme, sham stimulation gave "an overall Type I error rate of 6.9%" and no complex reports (Fox & Parvizi 2021). The authors frame the state as depersonalisation.
+Stimulation at 50 Hz of the seizure zone and of its left-hemisphere counterpart "induced a subjectively similar state, reproducibly". He said: "I got pulled out of the chair, the pilot's chair, but I could still see all the gauges", and called it "a nice version of the seizure, cleaner". Vesuna et al. describe the left-hemisphere stimulation as "without the negative valence of an impending seizure". Unlike at seizure climax, "if I wanted to take control, I could have", which Parvizi et al. attribute to careful management of the current. Temporal, insular and medial frontal sites "did not reproduce any signs of auras". Vesuna et al. also ran sham stimulations on him: stimulation at contacts that oscillated during his spontaneous auras "evoked a dissociative aura 11 out of 13 times", while "only one sham stimulation elicited report of an aura", and that one followed a strong real stimulation. Across the programme, sham stimulation gave "an overall Type I error rate of 6.9%" and no complex reports (Fox & Parvizi 2021). Parvizi et al. frame the seizure state as depersonalisation, and the shams tested the aura report, not the witness's attitude.
 
 | Clause | S19_137 under stimulation | Met? |
 |---|---|---|
-| Witness structure | Reproduced the seizure state of hearing thought-streams as not "me" | On structure |
+| Witness structure | Pulled from "the pilot's chair", still seeing "all the gauges"; "the same dissociation" as his seizures | On structure |
 | Created by stimulation | Reproducible at two sites; other sites negative | For him |
 | Without training | None reported | By absence of report |
-| "Arbitrarily" | One epileptogenic network; 885 null stimulations elsewhere | No |
+| "Arbitrarily" | One epileptogenic network; PMC stimulation null in 25 other patients | No |
 | Witness attitude | Valence better than seizure; non-reactivity unmeasured | Undetermined |
-| Sham for this patient | None reported | No |
+| Sham for this patient | One aura report across his shams, after a strong real stimulation | For the aura, not the attitude |
 
 The case approaches the falsifier on structure and falls short on generality and attitude. Its line about retained control bears on whether [Tenet 3](/tenets/#bidirectional-interaction) requires that consciousness actually steer or only that steering be available; the Map has not settled that, and this article draws no inference from the case either way.
 
@@ -86,13 +87,13 @@ The case approaches the falsifier on structure and falls short on generality and
 
 Active-inference accounts locate it in control: "whereas depersonalization is expressly characterized as resulting from a critical loss of inferred control, selflessness in the context of meditative practices is marked by a significant gain in control" (Deane, Miller & Wilkinson 2020). Ciaunica et al. (2022, abstract) model depersonalisation as "I am an embodied perceiver, but I am not in control of my perception", close to the pilot pulled from his chair. Both are physicalist models; the Map borrows their criterion, not their metaphysics.
 
-The falsifier needs the witness profile: non-identification together with retained control, non-reactivity and clarity. The depersonalisation profile has the same detachment with control lost and the experience estranged. S19_137 straddles the line: he kept control and found the state cleaner, but non-reactivity was never measured. The Map's two falsifier sentences name no profile and should be read as requiring the witness profile against sham.
+The falsifier needs the witness profile: non-identification together with retained control, non-reactivity and clarity. The depersonalisation profile has the same detachment with control lost and the experience estranged. S19_137 straddles the line: he said he could have taken control and found the state cleaner, but non-reactivity was never measured. The Map's two falsifier sentences name no profile and should be read as requiring the witness profile against sham.
 
 ## What Each Reading Predicts {#what-each-reading-predicts}
 
 **Production.** The witness mode is a neural configuration, such as PCC deactivation with DMN–executive decoupling. Recreate it and the mode follows, whatever the training. The prediction is sham-separable, dose-dependent witness phenomenology in naive participants. The connectivity half has one preprint; the phenomenology half has a null and an uncontrolled study.
 
-**Active inference and the beautiful loop.** Witness-like states reflect lowered precision on self-related priors. The [beautiful-loop theory](/topics/predictive-processing-and-dualism/#the-beautiful-loop-theory-the-strongest-contemporary-rival) (Laukkonen, Friston & Chandaria 2025), as the Map characterises it, models minimal phenomenal experience as maximal epistemic depth over a near-empty model. This family fits the data well: PCC suppression lowers the weight on self-related priors, and S19_137's control retained under stimulation but lost at seizure climax is the axis Deane et al. use.
+**Active inference and the beautiful loop.** Witness-like states reflect lowered precision on self-related priors. The [beautiful-loop theory](/topics/predictive-processing-and-dualism/#the-beautiful-loop-theory-the-strongest-contemporary-rival) (Laukkonen, Friston & Chandaria 2025), as the Map characterises it, models minimal phenomenal experience as maximal epistemic depth over a near-empty model. This family fits the data well: PCC suppression lowers the weight on self-related priors, and S19_137's control, available under stimulation but not at seizure climax, sits on the axis Deane et al. use.
 
 **The Map's interface reading.** Consciousness selects among neurally prepared options, and in the witness mode it "selects little, not nothing" ([witness-consciousness](/concepts/witness-consciousness/)). Stimulation changes the menu. Suppressing sticky self-referential candidates leaves less to select, so witnessing gets easier; disrupting the control channel could leave observation without effective steering. The reading absorbs an induced witness-like state and an abolished one alike.
 
@@ -106,7 +107,7 @@ It would not separate the three readings, since each permits an instruction × s
 
 ## Where the Evidence Stands {#status}
 
-For creation, one case has come in and it is too thin to decide anything. For elimination, nothing has come in. For both, a serious countermodel stands, since active inference fits the data at least as well. The Map's reading of the witness is unrefuted and untested by stimulation, which is weaker than having survived a test. Stimulation creating or abolishing the witness mode independent of training has not been shown, and the interface reading stays as speculative as it was.
+For creation, one case has come in and it is too thin to decide anything. For elimination, nothing has come in. For both, a serious countermodel stands, since active inference fits the data at least as well. The Map's reading of the witness is unrefuted and untested by stimulation, which is weaker than having survived a test. Stimulation creating or abolishing the witness mode independent of training has not been shown, and the interface reading remains a speculative integration.
 
 ## Relation to Site Perspective
 
