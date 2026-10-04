@@ -551,3 +551,32 @@
   subject_articles:
   - topics/consciousness-as-activity.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-03-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac1b52c-a250-83eb-9f15-45ff83af873f
+  commissioned_at: '2026-10-04T02:10:40.047711+00:00'
+  prompt_summary: 'Audit akrasia-and-weakness-of-will: claims, citations, counterargs,
+    bracketing'
+  target_filename: outer-review-2026-10-04-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external reviewer auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy site that argues for interactionist
+    dualism under five stated tenets. The article https://unfinishablemap.org/topics/akrasia-and-weakness-of-will/
+    was last substantively modified on 2026-09-27, so search engines have had time
+    to re-index it; recent site activity is logged in the changelog at https://unfinishablemap.org/workflow/changelog/.
+    Please audit the article''s claims, citations, counterargument coverage, and integration
+    with surrounding articles. Specifically: verify that cited works exist and actually
+    say what the article attributes to them; flag claims resting on insufficient evidence;
+    identify the strongest counterarguments it misses or under-represents; point out
+    any tenet-protective bracketing, where the article shields its commitments from
+    scrutiny instead of defending them; and note stale references that newer literature
+    has superseded. Follow links to related Map articles where needed to judge consistency.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit akrasia-and-weakness-of-will
+  subject_articles:
+  - topics/akrasia-and-weakness-of-will.md
+  subject_source: fallback:recent-aged
