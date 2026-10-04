@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 12:01:23+00:00
+ai_modified: 2026-10-04 12:09:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 12:01:23+00:00
+lastmod: 2026-10-04 12:09:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T12:09:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted single-clause fix
+- **Source**: P2 queue task from [deep-review-2026-10-04-brain-stimulation-and-the-witness-mode](/reviews/deep-review-2026-10-04-brain-stimulation-and-the-witness-mode/) (Headline; S19_137 quote table)
+- **Changes**: L157 condition (3), one clause. Old: "in a single untrained epilepsy patient, with no sham trial for him, while ultrasound". New: "in a single epilepsy patient with no reported contemplative training; only one of his sham stimulations drew a report of the state, and his non-reactivity was never measured, while ultrasound". Two defects fixed: (1) "no sham trial for him" was false. Vesuna et al. (2020, PMC7553818; Methods "participant number S19-137/SD056") ran shams on him: "Only one sham stimulation elicited report of an aura; this one report followed a real stimulation that had elicited a strong aura." Grep-verified in the NCBI BioC full text (the PMC HTML was CAPTCHA-walled and the Europe PMC fullTextXML returned a 500). The sham checks the aura report only, so the new text does not claim a sham control for the witness. (2) "untrained" asserted what Parvizi et al. (2021) only fail to report, so it now reads "no reported contemplative training". "Non-reactivity" is the article's own named witness feature (L48). It replaces the brief's "his attitude toward it" because he did volunteer a valence ("cleaner"). "Reproducibly" is kept: the Parvizi 2021 abstract says stimulation "induced a subjectively similar state, reproducibly". The seizure quote ("I stopped considering them 'me'") was not imported.
+- **Held loci**: untouched (L36, L38, L42, L58, L65, L89, L111, L147, L169, L193; Tenet 3 quantifier NEEDS-HUMAN 2026-08-17). The S19_137 control quote was not used. The two open P3 tasks on this file were not worked.
+- **Length** (`analyze_length`): 3,256 → 3,272 (+16; budget +25; topics soft 3,000, hard 4,000; status soft_warning, as before)
+- **Research note**: [brain-stimulation-and-the-witness-mode-2026-10-03](/research/brain-stimulation-and-the-witness-mode-2026-10-03/) has 11 minimal corrections, each marked "[Corrected 2026-10-04: …]". (a) The seizure quote was presented as stimulation evidence: Executive Summary item 1 and the S19_137 table "Witness structure" cell. (b) Sham: Executive Summary item 1, the table "Sham control" row (Met? "No" → "For the aura, not the attitude"), the Gaps in Research S19_137 bullet, and a pointer added to the Parvizi Key Sources line. (c) Foster & Parvizi 2017 "885 … null": the Key Sources entry, Executive Summary item 1, Key Debates, the S19_137 table "Arbitrarily" row and the Historical Timeline row. The 885 include dorsal and ventral non-PMC sites that "reliably produced somatomotor or visual effects"; the null is for "sites within the boundaries of PMC" (Europe PMC abstract, verified). Nothing else in the note was rewritten.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T12:01:23+00:00 - deep-review
 - **Status**: Success

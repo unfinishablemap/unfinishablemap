@@ -3,7 +3,7 @@ title: "Research Notes - Brain Stimulation and the Witness Mode"
 created: 2026-10-03
 modified: 2026-10-03
 human_modified:
-ai_modified: 2026-10-03T21:36:23+00:00
+ai_modified: 2026-10-04T12:09:34+00:00
 draft: false
 description: "Research note on whether PCC, precuneus or DMN stimulation can produce or abolish the witness mode. One epilepsy case comes close to the Map's stated falsifier; the ultrasound trials do not; no result yet separates the interface reading from its rivals."
 topics:
@@ -40,7 +40,7 @@ last_curated: null
 
 Four findings should travel with the article:
 
-1. **The closest the literature comes to the stated falsifier is one intracranial case, not the ultrasound trials.** In a single epilepsy patient (Parvizi et al. 2021, the same patient briefly reported in Vesuna et al. 2020), 50-Hz stimulation of the posteromedial cortex reproducibly induced a state he described as being "pulled out of the pilot's chair" while still seeing "all the gauges". He said he "stopped considering them 'me'" of his own thought-streams, and he reported that during stimulation "if I wanted to take control, I could have." By the Map's own definition, observing mental contents without identifying with them, this meets the structure of the witness. The patient had no reported contemplative training. It falls short of "arbitrarily" creating the mode. There is one patient with an epileptogenic posteromedial network and no reported sham trial for him. Across 885 stimulations in 25 other patients, posteromedial stimulation produced nothing reportable (Foster & Parvizi 2017).
+1. **The closest the literature comes to the stated falsifier is one intracranial case, not the ultrasound trials.** In a single epilepsy patient (Parvizi et al. 2021, the same patient briefly reported in Vesuna et al. 2020), 50-Hz stimulation of the posteromedial cortex reproducibly induced a state he described as being "pulled out of the pilot's chair" while still seeing "all the gauges". He reported that during stimulation "if I wanted to take control, I could have." [Corrected 2026-10-04: an earlier version also cited "stopped considering them 'me'" here as a stimulation report. Parvizi et al. (2021) give that line as seizure phenomenology; for stimulation they report "a subjectively similar state" and the pilot's-chair description above.] By the Map's own definition, observing mental contents without identifying with them, this meets the structure of the witness. The patient had no reported contemplative training. It falls short of "arbitrarily" creating the mode. There is one patient with an epileptogenic posteromedial network, sham-checked for the aura report only. [Corrected 2026-10-04: this read "no reported sham trial for him". Vesuna et al. (2020), reporting the same patient (Methods: "participant number S19-137/SD056"), ran shams: "Only one sham stimulation elicited report of an aura; this one report followed a real stimulation that had elicited a strong aura." No witness-profile measure was taken.] Across 885 stimulations in 25 other patients, stimulation of sites within posteromedial cortex produced nothing reportable (Foster & Parvizi 2017). [Corrected 2026-10-04: this read "posteromedial stimulation produced nothing reportable" across all 885; sites just outside PMC produced effects.]
 2. **The ultrasound programme has not shown the witness mode, or even a sham-separable mindfulness effect.** Lord et al. (2024) found DMN connectivity reductions within the active group, but the active-vs-sham contrast was null for both connectivity and phenomenology. The sham group's mindfulness also rose, and blinding was imperfect (11/15 active vs 3/15 sham guessed "stimulation"). Ehmann et al. (2025), in experienced meditators on retreat, is open-label and says itself that it "cannot support causal inferences". Its one day-level quantitative test found no reliable sonication-day rise in state nondual awareness. Lord et al. (2026, preprint, abstract only) reports a sham-separable network effect (16 active vs 8 sham) in meditation-naive trainees. Its phenomenological link is a within-group correlation with "acceptance", not witness reports.
 3. **The witness/depersonalisation boundary decides how any stimulation result is read.** DSM-5 depersonalisation is defined partly as "being an outside observer" of one's thoughts. A preregistered survey found meditation-triggered and other-triggered depersonalisation-like states did not differ on the Cambridge Depersonalisation Scale. They differed in valence, non-judging and non-reactivity (Pons et al. 2026). The active-inference literature places the difference on inferred control: lost in depersonalisation, gained in meditative selflessness (Deane, Miller & Wilkinson 2020). A stimulation finding bears on the witness mode only if it specifies which profile it induced. The two falsifier sentences on the Map do not say.
 4. **No existing or straightforwardly designable stimulation result separates the interface reading from production or the beautiful loop.** The falsifier as worded tests whether the witness mode depends on training. The interface reading does not entail that dependence. If stimulation thins the neurally prepared menu, a consciousness that selects little would witness more easily. So a stimulation-induced witness mode would not refute the interface reading, and its absence would not confirm it. Under P-M1 the stimulation literature leaves the Map's reading of the witness at *speculative integration*. The falsifier sentences overstate their test-power and should say so.
@@ -90,7 +90,7 @@ Four findings should travel with the article:
 
 #### Foster & Parvizi (2017), *Neurology* 88(7): 685–691 — [A]
 - **URL**: https://doi.org/10.1212/wnl.0000000000003607 (PMC5317378. The PMC record carries the abstract only.)
-- **Key points**: 885 stimulations in 25 patients. "we found no observable behavioral or subjectively reported effects when sites within the boundaries of PMC were electrically perturbed". This held even at sites shown to respond during autobiographical recall. The authors conclude that some theories of PMC/DMN contribution to awareness "require cautious re-examination."
+- **Key points**: 885 stimulations in 25 patients. [Corrected 2026-10-04: not all 885 were PMC sites: "EBS of regions immediately dorsal or ventral to the PMC reliably produced somatomotor or visual effects". The null below is for PMC sites only, and the abstract does not say how many of the 885 those were.] "we found no observable behavioral or subjectively reported effects when sites within the boundaries of PMC were electrically perturbed". This held even at sites shown to respond during autobiographical recall. The authors conclude that some theories of PMC/DMN contribution to awareness "require cautious re-examination."
 - **Tenet alignment**: Neutral. This is the base rate. Posteromedial stimulation usually does nothing reportable, which is why "arbitrarily create" is far from met.
 
 #### Fox, Shi, Baek, Raccah, Foster, Saha, Margulies, Kucyi & Parvizi (2020), *Nature Human Behaviour* 4(10): 1039–1052 — [F]
@@ -109,7 +109,7 @@ Four findings should travel with the article:
 - **Key points**:
   - Seizure phenomenology: he was "an observer of an active, internalized experience over which I have little control". Also: "The other parts of my brain that were talking—I stopped considering them 'me'". Seizures also brought loss of spatial orientation, and he "would express a sense of fear or dread for not knowing his position in space".
   - Stimulation: 50-Hz stimulation of the seizure zone, and of the homotopic left PMC, reproduced the state. "I got pulled out of the cockpit…or I got pulled out of the chair, the pilot's chair, but I could still see all the gauges". He called it "a nice version of the seizure, cleaner". The key difference from seizure climax: during stimulation "if I wanted to take control, I could have."
-  - Site specificity as an internal control: "stimulation of the medial or lateral temporal lobes, insula, or MFC did not reproduce any signs of auras". No sham trial for this patient is reported in the article.
+  - Site specificity as an internal control: "stimulation of the medial or lateral temporal lobes, insula, or MFC did not reproduce any signs of auras". No sham trial for this patient is reported in the article. [Corrected 2026-10-04: Vesuna et al. (2020) do report shams for him; see §Executive Summary item 1.]
   - The authors frame the state as DSM-5 depersonalisation ("being an outside observer with respect to one's thoughts"), not as a contemplative state.
   - **Same patient as Vesuna et al. (2020)**: "While this case was briefly mentioned as part of a recent publication on optogenetic work in mice". Count it once.
 - **Tenet alignment**: Bears directly on the falsifier (see §The S19_137 case). Compatible with every reading considered here.
@@ -191,7 +191,7 @@ Four findings should travel with the article:
 - **Current state**: Unresolved, and the Map's two falsifier sentences take no side. An article must say which profile counts as "the witness mode" before saying whether any result meets the falsifier.
 
 ### Does posteromedial stimulation do anything reportable at all?
-- **Sides**: Foster & Parvizi (2017): 885 stimulations, null. Fox et al. (2020): the default network's elicitation rate is 21%, with effects rarer and more complex up the hierarchy. Parvizi et al. (2021), Lyu et al. (2023) and Parvizi et al. (2026): specific sites, defined by connectivity, produce self-dissociative or bodily-self effects.
+- **Sides**: Foster & Parvizi (2017): null at PMC sites across 885 stimulations [Corrected 2026-10-04: was "885 stimulations, null"; sites just outside PMC produced effects]. Fox et al. (2020): the default network's elicitation rate is 21%, with effects rarer and more complex up the hierarchy. Parvizi et al. (2021), Lyu et al. (2023) and Parvizi et al. (2026): specific sites, defined by connectivity, produce self-dissociative or bodily-self effects.
 - **Current state**: Reportable effects are site- and connectivity-specific and rare. Stimulation cannot "arbitrarily" produce anything in this region with current methods.
 
 ## The S19_137 Case Against the Map's Falsifier
@@ -200,12 +200,12 @@ Four findings should travel with the article:
 
 | Clause of the falsifier | S19_137 under stimulation | Met? |
 |---|---|---|
-| Witness structure: observing contents without identifying with them | "I stopped considering them 'me'"; still seeing "all the gauges" | Structurally yes, by the Map's own definition |
+| Witness structure: observing contents without identifying with them | Pulled out of "the pilot's chair", still seeing "all the gauges" [Corrected 2026-10-04: this cell cited "I stopped considering them 'me'", which is seizure phenomenology, not a stimulation report] | Structurally yes, by the Map's own definition |
 | Created by stimulation | 50-Hz, seizure zone and homotopic contralateral PMC, reproducible; other sites negative | Yes, for this patient |
 | Independent of contemplative development | No training reported | Yes (absence of report only) |
-| "Arbitrarily" | One patient with an epileptogenic PMC network; 885 null stimulations in 25 others | No |
+| "Arbitrarily" | One patient with an epileptogenic PMC network; PMC stimulation null in 25 others [Corrected 2026-10-04: was "885 null stimulations"; the 885 include effective sites just outside PMC] | No |
 | Witness attitude: equanimity, non-reactivity | Valence improved over the seizure ("cleaner"); non-reactivity unmeasured | Undetermined |
-| Sham control for this patient | None reported (programme-level sham false-positive rate 6.9%, none complex) | No |
+| Sham control for this patient | One aura report across his shams, after a strong real stimulation (Vesuna et al. 2020); no witness-profile measure (programme-level sham false-positive rate 6.9%, none complex) [Corrected 2026-10-04: was "None reported" and "No"] | For the aura, not the attitude |
 
 The fair summary: the case is a near-approach on structure and a non-approach on generality and attitude. L157's "remains unshown" is defensible, but it understates the matter. One documented case bears on the witness mode specifically, and the Map does not cite it.
 
@@ -235,7 +235,7 @@ This mirrors [[sham-controlled-neurofeedback-and-the-consciousness-comparator]] 
 | 2004 | Lou et al., TMS over medial parietal cortex | Causal role in retrieving self-judgments; self-processing, not witness |
 | 2013 | Garrison et al., PCC neurofeedback | Reports of "effortless" awareness track PCC; the self-regulation direction |
 | 2014 | Herbet et al., PCC-connectivity stimulation | Loss of external connectedness; dream report |
-| 2017 | Foster & Parvizi | 885 PMC stimulations, no reportable effects |
+| 2017 | Foster & Parvizi | 885 stimulations; no reportable effects at PMC sites [Corrected 2026-10-04: was "885 PMC stimulations"; adjacent non-PMC sites produced effects] |
 | 2019 | Natu et al. | PCC stimulation impairs encoding |
 | 2020 | Fox et al.; Vesuna et al.; Deane, Miller & Wilkinson | Default network 21% elicitation; PMC rhythm in dissociation; active-inference contrast of depersonalisation and meditative selflessness |
 | 2021 | Parvizi et al. (S19_137); Fox & Parvizi (sham fidelity) | Stimulation reproduces an "outside observer" state; sham false positives 6.9% |
@@ -294,7 +294,7 @@ Section count: `topics` 341/360 by `tools.evolution.state.count_section_files` (
 - **No WebSearch.** The session budget was spent before this task, and all discovery ran through Europe PMC. Possible misses: TMS-EEG studies of meditators, tDCS paired with open-monitoring practice, deep-brain-stimulation case reports, and conference abstracts.
 - **Full texts not read**: Lyu et al. 2023 (Cloudflare), Lord et al. 2026 (bioRxiv 429/1015), Parvizi et al. 2026 (preprint), Foster & Parvizi 2017 (PMC record abstract-only), Herbet et al. 2014, Lou et al. 2004, Natu et al. 2019, Ciaunica et al. 2022, Lord et al. 2025, Abellaneda-Pérez et al. 2024. The phenomenological outcome measures and blinding check of Lord et al. 2026 are unknown.
 - **Ehmann et al. 2025 byline**: Crossref and Europe PMC list the third author as "Cook E"; the OSF v2 PDF lists "Erica N. Lord". It is probably the same person, but the article should take the byline from the version it cites. Figure 5's stimulation-day theme percentages were not extractable from the PDF text.
-- **S19_137**: The article reports no sham stimulation for this patient, and no standardised phenomenology instrument. Whether his network was typical cannot be known from one case.
+- **S19_137**: Parvizi et al. (2021) report no sham stimulation for this patient and no standardised phenomenology instrument. Vesuna et al. (2020) do report shams for him, checking the aura report only. [Corrected 2026-10-04: this said only that "the article reports no sham stimulation", which read as a gap in the evidence.] Whether his network was typical cannot be known from one case.
 - **The witness/depersonalisation boundary in the contemplative literature**: Lindahl & Britton's interview work on meditation-related changes in sense of self could not be confirmed at Crossref in this pass and is **not** cited. A later pass should verify it.
 - **No study measured witness-specific outcomes** (non-identification with thoughts, retained clarity, non-reactivity) under stimulation with a sham arm. This is the central empirical gap, and the article should state it rather than fill it.
 - The beautiful-loop paper itself was not re-read. Its characterisation here relies on existing Map pages.
