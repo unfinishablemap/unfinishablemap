@@ -4,7 +4,7 @@ description: "Consciousness trying to know itself faces structural obstacles—f
 created: 2026-03-23
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-08-19T15:24:39+00:00
+ai_modified: 2026-10-04T10:17:55+00:00
 last_deep_review: 2026-07-25T14:03:17+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ related_articles:
   - "[[voids-self-reference-paradox-2026-01-14]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-fable-5
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-03-23
 last_curated:
 coalesced_from:
@@ -115,7 +115,7 @@ The same shape recurs in multiple voids, each supplying a different substrate to
 
 **The predictive construction void.** Examining whether a given experience is perception or prediction must use the same predictive apparatus under investigation; embedded cognition has no outside vantage. The inspection also risks mutating what it inspects—the predictive setting is updated by attending to it, moving weak toward strong form.
 
-**Self-opacity.** The observer cannot observe itself observing. [[self-opacity]] identifies this as a convergence point for six thinkers (Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker) sharing almost no premises.
+**Self-opacity.** The observer cannot observe itself observing. [[self-opacity]] identifies this as a convergence point for six thinkers (Hume, Kant, Sartre, Wittgenstein, Metzinger, [[immunity-to-error-through-misidentification|Shoemaker]]) sharing almost no premises.
 
 **The mutation void.** Pre-attentive experience, spontaneous emotion, dream content, meditative emptiness—each appears to transform under the inspection meant to characterise it. The [[mutation-void]] advances the strongest version of the strong form: that the transformation is *constitutive* rather than contingent. That reading is the void's organising hypothesis, not an established result—it turns on distinguishing genuine phenomenological mutation from report-level contamination, a line the established evidence does not yet draw, so the constitutive claim is held at the hypothesis tier.
 

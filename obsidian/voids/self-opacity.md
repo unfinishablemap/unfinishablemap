@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-10-01
 human_modified: null
-ai_modified: 2026-10-03T18:18:15+00:00
+ai_modified: 2026-10-04T10:17:55+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -78,7 +78,7 @@ Six thinkers from divergent frameworks identify the unobservable self. Empirical
 
 **Sartre** identified the structure phenomenologically: pre-reflective consciousness is self-aware without being self-objectifying, but reflection transforms the awareness it tries to grasp. **Wittgenstein** arrived logically: "The subject does not belong to the world: rather, it is a limit of the world." Nothing in the visual field allows you to infer it is seen by an eye.
 
-**Metzinger** translates this into neuroscience: the phenomenal self is the content of a "transparent self-model"—a representation the system cannot recognise as representation. We experience *being* ourselves rather than *having a representation of* ourselves. **Shoemaker** identifies the absence through immunity to error through misidentification: you cannot introspect and wonder *whose* experience this is—because the self is not encountered as an object during introspection at all.
+**Metzinger** translates this into neuroscience: the phenomenal self is the content of a "transparent self-model"—a representation the system cannot recognise as representation. We experience *being* ourselves rather than *having a representation of* ourselves. **Shoemaker** identifies the absence through [[immunity-to-error-through-misidentification|immunity to error through misidentification]]: you cannot introspect and wonder *whose* experience this is—because the self is not encountered as an object during introspection at all.
 
 For all their differences, these traditions converge: wherever consciousness encounters itself, it finds contents rather than the container.
 

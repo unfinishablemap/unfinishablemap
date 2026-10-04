@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-02-24
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-02T09:51:36+00:00
+ai_modified: 2026-10-04T10:17:55+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -79,7 +79,7 @@ DPD is also one of the cleanest cases where the [[discrimination-problem]] engag
 
 ### Thought Insertion
 
-In schizophrenic thought insertion, patients report thoughts occurring "in their mind" that "belong to someone else." This is the reverse dissociation from DPD. Agency is disrupted (someone else seems to have produced the thought) while ownership is preserved (the thought is still occurring in *this* stream of consciousness). The patient says: "this thought occurs in my mind but I did not produce it." If agency and ownership were the same feature, the thought would either feel produced-by-and-belonging-to the patient or produced-by-and-belonging-to someone else. The actual phenomenology—mine but not authored—shows the features are separable.
+In schizophrenic thought insertion, patients report thoughts occurring "in their mind" that "[[immunity-to-error-through-misidentification|belong to someone else]]." This is the reverse dissociation from DPD. Agency is disrupted (someone else seems to have produced the thought) while ownership is preserved (the thought is still occurring in *this* stream of consciousness). The patient says: "this thought occurs in my mind but I did not produce it." If agency and ownership were the same feature, the thought would either feel produced-by-and-belonging-to the patient or produced-by-and-belonging-to someone else. The actual phenomenology—mine but not authored—shows the features are separable.
 
 ### Contemplative Dissolution
 

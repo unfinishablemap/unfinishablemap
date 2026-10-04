@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-01 20:55:47+00:00
+ai_modified: 2026-10-04 10:21:32+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:45:39+00:00
-lastmod: 2026-10-01 20:55:47+00:00
+lastmod: 2026-10-04 10:21:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ This is what the phenomenological tradition has long maintained. Husserl argued 
 
 [Phenomenological psychiatry](/topics/clinical-phenomenology-and-altered-experience/) provides clinical evidence for ownership as primitive. In depersonalization, the sense of mine-ness is stripped from experience while the experience itself persists — demonstrating that ownership is a separable structural feature, not an artefact of cognitive processing. The ipseity disturbance model of schizophrenia reveals a deeper disruption: Sass and Parnas show that normally tacit self-processes become alien objects of observation (*hyperreflexivity*) while simultaneously ceasing to function as the inhabited medium of selfhood (*diminished self-affection*). What is lost is not merely a feeling of ownership but the pre-reflective structure through which experiences are given as one's own — a finding validated empirically through the Examination of Anomalous Self-Experience (EASE) instrument, which confirms self-disorders as a core feature of the schizophrenia spectrum that predicts future onset in at-risk populations. The [ownership void](/concepts/mine-ness/#the-ownership-void) explores why these disruptions reveal ownership's absence without revealing ownership's ground — the mechanism of appropriation hides from introspection because introspection is itself already owned.
 
-If ownership is primitive, it cannot be decomposed into non-ownership components. This connects to [indexical knowledge](/concepts/indexical-knowledge-and-identity/): knowledge expressible only as "I," "here," "now" resists translation into impersonal terms, and ownership is the experiential ground of that irreducibility. Any theory that analyses consciousness entirely in terms of information processing, functional organisation, or physical structure will miss ownership, because none of these ingredients is inherently first-personal. You can specify every detail of how a system processes information without specifying *whose* information processing it is.
+If ownership is primitive, it cannot be decomposed into non-ownership components. This connects to [indexical knowledge](/concepts/indexical-knowledge-and-identity/): knowledge expressible only as "I," "here," "now" resists translation into impersonal terms, and ownership is the experiential ground of that irreducibility. Any theory that analyses consciousness entirely in terms of information processing, functional organisation, or physical structure will miss ownership, because none of these ingredients is inherently first-personal. You can specify every detail of how a system processes information without specifying *whose* information processing it is. Taken alone, though, that omission is no evidence that ownership is non-physical: first-person self-ascription identifies its subject by no criteria, so an impersonal description would omit "whose" even if the subject were an embodied person, as identification-free bodily self-ascriptions show ([immunity to error through misidentification](/concepts/immunity-to-error-through-misidentification/); Child 2026).
 
 This does not mean ownership is mysterious in the sense of being beyond all understanding. It means ownership is foundational—a basic feature that other things are explained *in terms of*, rather than something requiring explanation in more basic terms. Charge is a primitive property of electrons; ownership may be a primitive property of conscious states.
 
@@ -127,7 +127,7 @@ None of these challenges has been met. The first faces the hard problem in a new
 
 The ownership problem supports and is illuminated by the Map's foundational commitments.
 
-**[Dualism](/tenets/#dualism)**: If consciousness is irreducible to physical processes, ownership is a feature of the non-physical aspect of reality. Physical descriptions cannot capture who experiences what, because "who" is not a physical category. Ownership is part of what makes consciousness irreducible—not just the existence of experience but its first-personal belonging exceeds what physics can describe.
+**[Dualism](/tenets/#dualism)**: If consciousness is irreducible to physical processes, ownership is a feature of the non-physical aspect of reality. Physical descriptions omit who experiences what, an omission [first-person reference](/concepts/immunity-to-error-through-misidentification/) predicts on any metaphysics. On the Map's reading, ownership is part of what makes consciousness irreducible—not just the existence of experience but its first-personal belonging exceeds what physics can describe.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Causal efficacy requires owned experience. Unowned consciousness—if such a thing were coherent—could not act, choose, or influence outcomes, because there would be no agent to do the acting. The ownership problem explains why the Map requires a genuine subject behind every conscious choice: without ownership, bidirectional interaction has no anchor.
 
@@ -175,3 +175,4 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 1. Guillot, M. (2017). "I Me Mine: On a Confusion Concerning the Subjective Character of Experience." *Review of Philosophy and Psychology*, 8(1), 23-53.
 1. Martin, J.-R. & Pacherie, E. (2013). "Out of Nowhere: Thought Insertion, Ownership and Context-Integration." *Consciousness and Cognition*, 22(1), 111-122.
 1. Ratcliffe, M. & Wilkinson, S. (2015). "Thought Insertion Clarified." *Journal of Consciousness Studies*, 22(11-12), 246-269.
+1. Child, W. (2026). "Wittgenstein and Immunity to Error Through Misidentification." *Philosophy*, First View, 1-23. https://doi.org/10.1017/s0031819126101557

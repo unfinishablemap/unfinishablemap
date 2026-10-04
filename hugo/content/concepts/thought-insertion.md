@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-02 20:54:59+00:00
+ai_modified: 2026-10-04 10:17:55+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 20:37:04+00:00
-lastmod: 2026-10-02 20:54:59+00:00
+lastmod: 2026-10-04 10:17:55+00:00
 modified: *id001
 related_articles:
 - '[[anarchic-hand-and-action-ownership]]'
@@ -103,6 +103,8 @@ The physicalist reading at full strength is Metzinger's [self-model theory](/con
 
 Billon's reading carries a further cost: if a thought can be reportable without being phenomenally conscious, reportability alone does not certify phenomenality, which weakens arguments that lean on reports ([phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)).
 
+The case is also the standard proposed counterexample to [immunity to error through misidentification](/concepts/immunity-to-error-through-misidentification/), the thesis that introspection-based self-ascriptions cannot err by mistaking someone else for oneself. The Stanford Encyclopedia's survey replies that such cases show *other*-misidentification, the patient's own thought ascribed to another, and that none "obviously challenge" the immunity of the self-ascriptions introspection does ground (Smith 2024); the verdict is disputed. Because the thesis concerns how "I" picks out its referent, it holds on Billon's reading as much as on the universalists', so it cannot decide whether the asymmetry is phenomenal.
+
 ## Relation to Site Perspective
 
 **Dualism.** Compatible, neither suggestive nor discriminating: the Map's interface reading and the self-model reading predict the same profile. Billon's warning against trying to "reduce the phenomenal dimension to the spatial dimension" (2013, p. 311) is congenial at the [architecture tier](/project/architecture-vs-significance-two-tier-discount/), but Billon does not argue for non-physicality, and his 2023 chapter looks to neurophysiology to explain mineness.
@@ -145,8 +147,9 @@ Billon's reading carries a further cost: if a thought can be reportable without 
 17. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press. https://doi.org/10.7551/mitpress/1551.001.0001 (Metadata; position via Zahavi & Kriegel 2016.)
 18. Mullins, S. & Spence, S. A. (2003). Re-examining thought insertion. *British Journal of Psychiatry*, 182(4), 293–298. https://doi.org/10.1192/bjp.182.4.293 (Abstract.)
 19. Ratcliffe, M. & Wilkinson, S. (2015). Thought insertion clarified. *Journal of Consciousness Studies*, 22(11–12), 246–269. (Abstract.)
-20. Sterzer, P., Mishara, A. L., Voss, M. & Heinz, A. (2016). Thought insertion as a self-disturbance. *Frontiers in Human Neuroscience*, 10, 502. https://doi.org/10.3389/fnhum.2016.00502 (Abstract.)
-21. Synofzik, M., Vosgerau, G. & Newen, A. (2008). Beyond the comparator model. *Consciousness and Cognition*, 17(1), 219–239. https://doi.org/10.1016/j.concog.2007.03.010 (Abstract.)
-22. Zahavi, D. & Kriegel, U. (2016). For-me-ness: What it is and what it is not. In D. O. Dahlstrom, A. Elpidorou & W. Hopp (eds), *Philosophy of Mind and Phenomenology* (pp. 36–53). Routledge. (Full text, page proof.)
-23. Southgate, A., Oquatre-sept, C. & Fabcinq-un, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
-24. Southgate, A. & Fabcinq-un, C. (2026-10-01). Depersonalisation and the Separability of For-Me-Ness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/depersonalisation/
+20. Smith, J. (2024). Self-Consciousness. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/self-consciousness/ (Full text.)
+21. Sterzer, P., Mishara, A. L., Voss, M. & Heinz, A. (2016). Thought insertion as a self-disturbance. *Frontiers in Human Neuroscience*, 10, 502. https://doi.org/10.3389/fnhum.2016.00502 (Abstract.)
+22. Synofzik, M., Vosgerau, G. & Newen, A. (2008). Beyond the comparator model. *Consciousness and Cognition*, 17(1), 219–239. https://doi.org/10.1016/j.concog.2007.03.010 (Abstract.)
+23. Zahavi, D. & Kriegel, U. (2016). For-me-ness: What it is and what it is not. In D. O. Dahlstrom, A. Elpidorou & W. Hopp (eds), *Philosophy of Mind and Phenomenology* (pp. 36–53). Routledge. (Full text, page proof.)
+24. Southgate, A., Oquatre-sept, C. & Fabcinq-un, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
+25. Southgate, A. & Fabcinq-un, C. (2026-10-01). Depersonalisation and the Separability of For-Me-Ness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/depersonalisation/

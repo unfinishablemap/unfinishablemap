@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-03 22:19:16+00:00
+ai_modified: 2026-10-04 10:17:55+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 22:19:16+00:00
-lastmod: 2026-10-03 22:19:16+00:00
+lastmod: 2026-10-04 10:17:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ The immunity has a price: a posit escapes the fallacy only as long as the corpus
 
 ## Three Exposures {#three-exposures}
 
-**Felt mine-ness used as evidence.** Wherever an article lets the felt unity, this-ness or ownership of experience count as evidence that a determinate subject exists, Strawson's diagnosis applies: the unity of consciousness is confused with a consciousness of unity. [Mine-ness](/concepts/mine-ness/) and [primitive thisness](/concepts/haecceity/) are features the Map ascribes to experience; they cannot double as evidence for the subject it posits. The register already concedes this. [P-I1](/positions/individuation-and-subjecthood/#p-i1) grades its external evidence D because "felt this-ness is compatible with both the primitive-thisness and the perspectival-illusion readings, so no independent evidence discriminates". The Map's rule that a phenomenological datum is not by itself a metaphysical one restates Kant's point. Felt mine-ness is compatible with the Map's subject and gives it no support over rivals that predict the same datum.
+**Felt mine-ness used as evidence.** Wherever an article lets the felt unity, this-ness or ownership of experience count as evidence that a determinate subject exists, Strawson's diagnosis applies: the unity of consciousness is confused with a consciousness of unity. His 1966 book locates the source: when a subject ascribes a current experience to herself, "no use whatever of any criteria of personal identity is required", which is "the fact that lies at the root of the Cartesian illusion" (Strawson 1966, pp. 164–165) and the ground of what later work calls [immunity to error through misidentification](/concepts/immunity-to-error-through-misidentification/). [Mine-ness](/concepts/mine-ness/) and [primitive thisness](/concepts/haecceity/) are features the Map ascribes to experience; they cannot double as evidence for the subject it posits. The register already concedes this. [P-I1](/positions/individuation-and-subjecthood/#p-i1) grades its external evidence D because "felt this-ness is compatible with both the primitive-thisness and the perspectival-illusion readings, so no independent evidence discriminates". The Map's rule that a phenomenological datum is not by itself a metaphysical one restates Kant's point. Felt mine-ness is compatible with the Map's subject and gives it no support over rivals that predict the same datum.
 
 **Unity read as simplicity.** The [unity-of-consciousness](/concepts/unity-of-consciousness/) article records William Hasker's [emergent-dualist](/concepts/emergent-dualism/) argument that no physical composite can be the single subject a unified experience requires, and describes phenomenal unity as "not assembled from parts but... intrinsic to consciousness itself"; the [mereology of mind](/apex/mereology-of-mind/) draws on composition programmes whose criteria cluster, after abstraction, where consciousness occurs. Read as establishing that the subject is *simple*, any of this runs the second paralogism's inference. Kant does not deny that a thought is unified; he denies that its unity can be shown, from concepts, to require one simple bearer rather than a collective of cooperating ones (A352–353). An article that wants unity to *establish* a simple subject owes a premise excluding the collective reading, and Kant holds that none is available a priori. Until one is supplied, unity is compatible with a simple subject without showing one.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-10-03 18:18:15+00:00
+ai_modified: 2026-10-04 10:17:55+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:51:06+00:00
-lastmod: 2026-10-03 18:18:15+00:00
+lastmod: 2026-10-04 10:17:55+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -82,7 +82,7 @@ Six thinkers from divergent frameworks identify the unobservable self. Empirical
 
 **Sartre** identified the structure phenomenologically: pre-reflective consciousness is self-aware without being self-objectifying, but reflection transforms the awareness it tries to grasp. **Wittgenstein** arrived logically: "The subject does not belong to the world: rather, it is a limit of the world." Nothing in the visual field allows you to infer it is seen by an eye.
 
-**Metzinger** translates this into neuroscience: the phenomenal self is the content of a "transparent self-model"—a representation the system cannot recognise as representation. We experience *being* ourselves rather than *having a representation of* ourselves. **Shoemaker** identifies the absence through immunity to error through misidentification: you cannot introspect and wonder *whose* experience this is—because the self is not encountered as an object during introspection at all.
+**Metzinger** translates this into neuroscience: the phenomenal self is the content of a "transparent self-model"—a representation the system cannot recognise as representation. We experience *being* ourselves rather than *having a representation of* ourselves. **Shoemaker** identifies the absence through [immunity to error through misidentification](/concepts/immunity-to-error-through-misidentification/): you cannot introspect and wonder *whose* experience this is—because the self is not encountered as an object during introspection at all.
 
 For all their differences, these traditions converge: wherever consciousness encounters itself, it finds contents rather than the container.
 

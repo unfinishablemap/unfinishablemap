@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-09-07T23:11:56+00:00
+ai_modified: 2026-10-04T10:17:55+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-02-13
 last_curated:
 last_deep_review: 2026-07-27T20:39:01+00:00
@@ -109,7 +109,7 @@ Science aspires to describe reality from no particular perspective—Thomas Nage
 
 ## Indexical Identity and Personal Identity
 
-The question "what makes me the same person over time?" traditionally concerns criteria of identity—psychological continuity, physical continuity, or both. But indexical knowledge raises a prior question: what makes me *this* person right now?
+The question "what makes me the same person over time?" traditionally concerns criteria of identity—psychological continuity, physical continuity, or both. But indexical knowledge raises a prior question: what makes me *this* person right now? First-person self-ascription uses no such criteria at all, which is why it enjoys [[immunity-to-error-through-misidentification|immunity to error through misidentification]]; since every account of the first person predicts that immunity, it cannot by itself answer the prior question.
 
 Pattern-identity theories (following [[parfit-reductionism|Parfit]]) hold that personal identity consists in patterns of psychological continuity. But indexical facts resist pattern reduction. Two people could hypothetically share all psychological patterns (through perfect copying), yet there would be a fact about which one is me. The indexical "I" picks out something that patterns alone don't determine.
 

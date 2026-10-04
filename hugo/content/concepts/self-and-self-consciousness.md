@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-10-02 20:54:59+00:00
+ai_modified: 2026-10-04 10:17:55+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-10-02 20:54:59+00:00
+lastmod: 2026-10-04 10:17:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The Map adopts Dan Zahavi's phenomenological minimal self in preference to Thoma
 
 ## Minimal Self and Narrative Self
 
-Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal self** is pre-reflective first-person consciousness — present whenever consciousness is present, requiring no self-reflection. On the phenomenological account, this "for-me-ness" is necessary (no genuinely anonymous experiences exist), non-observational, and non-narrative. The **narrative self** is constructed through self-interpretation, shaped by culture and memory; it presupposes the minimal self ([cognitive integration and the self](/topics/cognitive-integration-and-the-self/)).
+Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal self** is pre-reflective first-person consciousness — present whenever consciousness is present, requiring no self-reflection. On the phenomenological account, this "for-me-ness" is necessary (no genuinely anonymous experiences exist), [non-observational](/concepts/immunity-to-error-through-misidentification/), and non-narrative. The **narrative self** is constructed through self-interpretation, shaped by culture and memory; it presupposes the minimal self ([cognitive integration and the self](/topics/cognitive-integration-and-the-self/)).
 
 | Layer | What It Is | Relation to Consciousness |
 |-------|-----------|---------------------------|

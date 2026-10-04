@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-02T20:54:59+00:00
+ai_modified: 2026-10-04T10:17:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ The Map adopts Dan Zahavi's phenomenological minimal self in preference to Thoma
 
 ## Minimal Self and Narrative Self
 
-Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal self** is pre-reflective first-person consciousness — present whenever consciousness is present, requiring no self-reflection. On the phenomenological account, this "for-me-ness" is necessary (no genuinely anonymous experiences exist), non-observational, and non-narrative. The **narrative self** is constructed through self-interpretation, shaped by culture and memory; it presupposes the minimal self ([[cognitive-integration-and-the-self|cognitive integration and the self]]).
+Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal self** is pre-reflective first-person consciousness — present whenever consciousness is present, requiring no self-reflection. On the phenomenological account, this "for-me-ness" is necessary (no genuinely anonymous experiences exist), [[immunity-to-error-through-misidentification|non-observational]], and non-narrative. The **narrative self** is constructed through self-interpretation, shaped by culture and memory; it presupposes the minimal self ([[cognitive-integration-and-the-self|cognitive integration and the self]]).
 
 | Layer | What It Is | Relation to Consciousness |
 |-------|-----------|---------------------------|

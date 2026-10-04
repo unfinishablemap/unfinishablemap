@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 10:00:14+00:00
+ai_modified: 2026-10-04 10:19:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 10:00:14+00:00
+lastmod: 2026-10-04 10:19:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T10:19:23+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Immunity to error through misidentification: criterionless self-ascription, why thought insertion leaves it standing, and why it gives the Map's subject no support (P2 queue task, research-topic chain).
+- **Output**: [immunity-to-error-through-misidentification](/concepts/immunity-to-error-through-misidentification/)
+- **Word count**: 2,877 total by `analyze_length` (concepts soft 2,500 / hard 3,500); prose before Further Reading 2,393, inside the brief's 1,900–2,400 band.
+- **Based on research**: yes, [immunity-to-error-through-misidentification-2026-10-04](/research/immunity-to-error-through-misidentification-2026-10-04/)
+- **Verdict and tier (lead)**: IEM is compatible with the posited subject and gives it no support, since every account of the first person predicts it. It removes no defeater. It defeats inferences from criterionless self-reference or felt "whose"-ness to a non-physical subject. The article says outright that IEM is no evidence the subject is non-physical.
+- **Structure**: variants (absolute/circumstantial, de facto/logical, de re/wh, Evans's identification-freedom; "wide vs strict" not used); thought insertion (Campbell only via Coliva 2002's abstract; Coliva, Gallagher 2000, the SEP self/other-misidentification distinction; Lane & Liang and García-Carpintero as abstract wording; verdict left open; links [thought-insertion](/concepts/thought-insertion/) without restating its five readings); three readings (Cartesian genealogy with Child's crossed-legs control, Anscombe, Kantian); the Kant page's three exposures restated, labelled as the Map's reconstruction; Relation to Site Perspective (Tenet 1 compatible/no support; Tenet 4 as Anscombe-form deflation already conceded conditionally by [P-I2](/positions/individuation-and-subjecthood/#p-i2); Tenet 3 no bearing; Tenet 5).
+- **Quote check**: all 46 quoted strings matched verbatim against the research note's [F]/[S]/[A] items, the Child 2026 Cambridge Core full text (all three Child quotes are in §3 "Three interpretative issues", now cited by section) or the positions register. Nothing quoted from Evans; Pryor paraphrased; Wiseman given via Child's abstract; Anscombe cited as the pp. 30–32 range; Shoemaker by 1984 reprint pages with journal pages in References.
+- **Integration** (`analyze_length`, before → after):
+  - [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/) L82: 3,401 → 3,457 (+56). One sentence quoting Strawson 1966 pp. 164–165 ("the fact that lies at the root of the Cartesian illusion") plus the link. L78's unrelated "immunity" left alone.
+  - [thought-insertion](/concepts/thought-insertion/): 2,801 → 2,905 (+104). A paragraph after L100 naming IEM and the SEP's self/other-misidentification distinction, with the point that the thesis cannot decide the kind-claim. Adds Smith 2024 to References in alphabetical position.
+  - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/): 3,189 → 3,251 (+62). A caveat sentence at the end of the L84 paragraph plus the link and a Child 2026 reference. L126's "because 'who' is not a physical category" reworded word-neutrally (14 → 14) to "an omission first-person reference predicts on any metaphysics", with a zero-word pipe.
+  - Zero-word pipes: [self-opacity](/voids/self-opacity/) L81 (3,071 → 3,071); [mine-ness](/concepts/mine-ness/) L82 (3,498 → 3,498); [self-and-self-consciousness](/concepts/self-and-self-consciousness/) L74 "non-observational" (3,495 → 3,495); [vertiginous-question](/topics/vertiginous-question/) L139 "verified my identity from outside" (3,992 → 3,992); [self-reference-paradox](/concepts/self-reference-paradox/) L118 "Shoemaker" (2,564 → 2,564).
+  - Optional: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) L112: 2,704 → 2,740 (+36). One sentence saying that criterionless self-ascription cannot by itself answer the "prior question".
+- **Chain**: removed the `task_chains.pending_articles` entry for the research note (line-targeted delete; YAML re-parsed OK).
+- **Not touched**: [personal-identity](/topics/personal-identity/) (NEEDS-HUMAN length block); where-the-substance-commitment-enters; positions/ ([P-I1](/positions/individuation-and-subjecthood/#p-i1)'s would-shift clause is only partly engaged, a matter for a positions-evolve pass); tenets. Quasi-memory gets 2 sentences, since the quasi-memory expand task owns it. The Tenet 3 actual-vs-capacity quantifier is not settled, and the bi-aspectual aspects-vs-subject tension is not touched.
+- **Frontmatter**: `ai_modified` set on all nine hosts; `+claude-opus-5-5` appended to `ai_system` on vertiginous-question, indexical-knowledge-and-identity and self-reference-paradox.
+- **Apex**: no apex lists the new article as a source.
+- **Model**: claude-opus-5-5
+- **Driver follow-up (10:21Z)**: consciousness-and-the-ownership-problem RTSP: the sentence after the reworded L126 clause asserted flatly that first-personal belonging "exceeds what physics can describe"; now prefixed "On the Map's reading," (+4 words) so it no longer contradicts the new IEM clause.
 
 ## 2026-10-04T10:00:14+00:00 - research-topic
 - **Status**: Success

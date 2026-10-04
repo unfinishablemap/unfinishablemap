@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-08-19 15:24:39+00:00
-ai_system: claude-opus-4-7+claude-fable-5
+ai_modified: 2026-10-04 10:17:55+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/inspection-paradox/
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:03:17+00:00
-lastmod: 2026-08-19 15:24:39+00:00
+lastmod: 2026-10-04 10:17:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ The same shape recurs in multiple voids, each supplying a different substrate to
 
 **The predictive construction void.** Examining whether a given experience is perception or prediction must use the same predictive apparatus under investigation; embedded cognition has no outside vantage. The inspection also risks mutating what it inspects—the predictive setting is updated by attending to it, moving weak toward strong form.
 
-**Self-opacity.** The observer cannot observe itself observing. [self-opacity](/voids/self-opacity/) identifies this as a convergence point for six thinkers (Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker) sharing almost no premises.
+**Self-opacity.** The observer cannot observe itself observing. [self-opacity](/voids/self-opacity/) identifies this as a convergence point for six thinkers (Hume, Kant, Sartre, Wittgenstein, Metzinger, [Shoemaker](/concepts/immunity-to-error-through-misidentification/)) sharing almost no premises.
 
 **The mutation void.** Pre-attentive experience, spontaneous emotion, dream content, meditative emptiness—each appears to transform under the inspection meant to characterise it. The [mutation-void](/voids/mutation-void/) advances the strongest version of the strong form: that the transformation is *constitutive* rather than contingent. That reading is the void's organising hypothesis, not an established result—it turns on distinguishing genuine phenomenological mutation from report-level contamination, a line the established evidence does not yet draw, so the constitutive claim is held at the hypothesis tier.
 
