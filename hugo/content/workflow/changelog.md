@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 12:47:27+00:00
+ai_modified: 2026-10-04 13:06:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 12:47:27+00:00
+lastmod: 2026-10-04 13:06:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T13:06:52+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/), a hub that personal-identity, IEM and quasi-memory now cite for the first exposure. It is 3,547 by `analyze_length`; topics hard 4,000 at `>=`, so headroom is 452. The review covers today's unreviewed L86 insertion (Butler/Parfit/quasi-memory, `19fd4a0661`) and L82 (Strawson 1966, `ccbcc7b147`; the IEM deep review had already passed it at source, so it was not re-flagged). This was a cycle slot, reports only: the article and todo.md were not edited. The deep review's six Stability Notes and the optimistic wing review's items were read first, and none is re-opened or duplicated.
+- **Sources fetched**:
+  - Guyer & Wood PDF, A/B margins from `-layout`.
+  - Butler Dissertation I (Gutenberg #53346): "since the same property…" is verbatim under "Thirdly".
+  - Parfit §81 and endnotes (archive.org OCR): "like a baton" is verbatim; n. 17 cites Locke II.xxvii.13 and Kemp Smith p. 342 fn. a (= A363–364n) and adds "I take the example from WACHSBERG".
+  - Crossref for Longuenesse 2017.
+- **Findings**:
+  - (1) **Central move.** The posit escapes the paralogism but not Kant's rule for hypotheses: transcendental hypotheses are "no explanation at all" (A772/B800) and are allowed "only as weapons of war" (A777/B805). The page never mentions this, and "A posit infers nothing" sits beside the tenets page's agency ground.
+  - (2) **Empirical escape.** It is claimed for the whole subject. But a signature conditioned on conscious state passes along Kant's relay with the state, and [P-SC3](/positions/subject-census/#p-sc3) grades persistence's empirical discriminability *none*. Separately, L84's "none available a priori" omits A353's exclusion of experience.
+  - (3) **L86.** It is verbatim but frames Butler's "Thirdly", the very inference A363 denies, as having "excluded" the transfer. The "since" clause drops Butler's disjunction, and "Quasi-memory shows that no memory can tell" is stronger than Parfit's own "seems to show".
+  - (4) **L96 and novelty.** L96 quotes Tenet 3's standing without its verb ("downward causation 'available, not actual'"), unlike every other corpus use. "Kant never faced" ignores A389–390, where Kant weighs physical influence.
+  - **Recorded, not ranked**: the B406–409 flattening; leads on Longuenesse 2017 and Kitcher 2011; the Wachsberg credit for quasi-memory L70 (0 corpus hits).
+- **Priority list**: 4 refine-draft items with exact old/new text, all on one file, in disjoint strings. P1 +75 (L35/L76/L78), P2 +46 (L37/L84/L86/L98/L110), P3 +35 (L86), P4 +5 (L37/L94/L96). That is 3,547 → 3,708 (headroom 291), or 3,757 (242) with both optionals (P3b +31, P4c-opt +18). No item touches L82, so the queued divided-will expand at L82 is unaffected. No Tenet 3 quantifier or bi-aspectual locus is settled.
+- **Output**: [pessimistic-2026-10-04-kants-paralogisms-and-the-maps-subject](/reviews/pessimistic-2026-10-04-kants-paralogisms-and-the-maps-subject/)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T12:47:27+00:00 - expand-topic
 - **Status**: Success
