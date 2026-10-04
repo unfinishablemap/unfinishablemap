@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 01:32:59+00:00
+ai_modified: 2026-10-04 01:50:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 01:32:59+00:00
+lastmod: 2026-10-04 01:50:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T01:50:17+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the subject and individuation wing after the new Kant page and the 23:54Z Tenet 4 refine: [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/) (3,401/4,000), [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) (2,952/3,500), [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) (1,891/3,500), [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) (3,246/4,000), [personal-identity](/topics/personal-identity/) (4,043/4,000, NEEDS-HUMAN block), [haecceity](/concepts/haecceity/) (3,464/3,500), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) (3,412/4,000), [individuation-and-subjecthood](/positions/individuation-and-subjecthood/) (3,938; critical 4,000); secondary [emergent-dualism](/concepts/emergent-dualism/) (2,146/3,500).
+- **Output**: [optimistic-2026-10-04-subject-and-individuation-wing](/reviews/optimistic-2026-10-04-subject-and-individuation-wing/)
+- **Keep**: the Kant page's "posited, not inferred" thesis and its three-grade ladder (compatible / suggestive / discriminating); [P-I1](/positions/individuation-and-subjecthood/#p-i1)'s grade D; personal-identity L97 "the already-posited particular"; haecceity L171 "posited outright"; where-the-substance L56 (the common root may not be counted twice); bi-aspectual L105 recorded open.
+- **Consistency verdict**: the Tenet 4/subject relation matches tenets L123 on every wing page except indexical L143 (minor; "The indexical question is real" given as tenet content) and the already-queued [P-I1](/positions/individuation-and-subjecthood/#p-i1) L55. Bi-aspectual L105/L135/L137 are byte-identical since 13:55Z. No wing page fixes a Tenet 3 quantifier; indexical L141/L163 ("our reports must involve causal flow") are held for the operator, not minted.
+- **Defect found**: personal-identity L93/L105 argues haecceity from its seeming and says this "shifts the burden", the move the Kant page's first exposure diagnoses; it contradicts [P-I1](/positions/individuation-and-subjecthood/#p-i1) grade D and the article's own L155.
+- **Priority list**: (1) personal-identity L105/L93, −3 (net-negative; 4,043 → 4,040); (2) indexical L143 "Its indexical objection presupposes…" +5 and L153 zero-word pipe to Kant #what-escapes; (3) where-the-substance: an "Inferred subject" failure mode after L71, plus a Further Reading entry, +76; (4) zero-word pipes from haecceity L171 ("posited outright") and emergent-dualism L50 ("Kant") into the Kant page.
+- **New article subjects**: immunity to error through misidentification (concepts; Shoemaker 1968 Crossref-verified; thought-insertion has 0 hits); quasi-memory and the circularity objection (concepts; SEP credits Penelhum 1970 and Shoemaker 1970, while inaccessible-past L63 says "Parfit's"); Kant's practical postulates and the Map's posits (topics; 0 live hits).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T01:32:59+00:00 - expand-topic
 - **Status**: Success
