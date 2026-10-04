@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T14:46:46+00:00
+ai_modified: 2026-10-04T15:09:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T15:09:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/kants-paralogisms-and-the-maps-subject]]
+- **Review file**: [[reviews/pessimistic-2026-10-04-kants-paralogisms-and-the-maps-subject]] (§Priority list items 1–4, one editor pass)
+- **Original score**: n/a (`scripts/curate.py` is absent; the pessimistic review's Priority list governs)
+- **Word count**: 3,583 → 3,811 (+228) by `analyze_length` (topics hard 4,000, gate `>=`; headroom 188; status soft_warning; driver ceiling 3,850). Core items +173, optionals +55.
+- **Changes**:
+  - **1 (+75)**: L76 "A posit infers nothing" scoped to the "I think" ("this defective inference"). L78's first sentence was kept byte-identical, and Kant's rule for transcendental hypotheses was appended: they explain nothing in nature (A772/B800, unquoted paraphrase), and the verbatim "only as weapons of war, not for grounding a right but only for defending it" (A777/B805, subject "Hypotheses"). The posit may answer a dogmatic denial; its explanatory use parts from Kant at the framework boundary. Lead: "survives the critique" → "survives the Paralogisms".
+  - **2 (+46)**: the empirical escape is scoped to individuation. L84 adds "or from experience (A353)". L86's Lowe clause now reads "cannot yet borrow it", because a state-tracking signature passes along the relay, and it cites P-SC3 "empirical discriminability *none*". L98 "a posit whose individuation could become…"; L110 "in its individuation though not its persistence"; lead "the subject's individuation would be determined". The three grades, "compatible" and "the escape is real but promissory" are unchanged.
+  - **3a (+35)**: Butler "excluded this transfer by premise", with his second horn restored; "Kant denies that inference at A363, and the elastic balls treat the transfer as conceivable". Parfit citation sentence fixed ("Parfit, citing Locke and Kant, imagines…"). "Quasi-memory shows…" → "If quasi-memory is coherent, as the Map accepts, …" (the quasi-memory page's own lead says the Map accepts its coherence). The quasi-memory link is kept.
+  - **3b, optional, taken (+37)**: Parfit's §81 conclusion, paraphrased and unquoted. The Map's other reason is worded "agent causation's need for a persisting subject", matching the tenets L76 ground and today's divided-will deep review, in place of the review's bare "agency". It states a need and makes no claim that conscious causation is actual, so the Tenet 3 quantifier stays unsettled. Indexicality is not cited.
+  - **4a (+13, review budgeted +1)**: the page's quoted "available, not actual" is not verbatim in tenets.md, so the dash clause now quotes tenets.md L95 with an ellipsis: the interface argument "shows Tenet 3's downward causation to be *available* … without showing it to be *actual*". The epistemic reading is restored and the quantifier is not settled.
+  - **4b/4c (+4)**: "takes a form Kant never considered" (lead) and "in a form Kant never faced" (L94).
+  - **4c, optional, taken (+18)**: names A389–390 (physical influence and its two rivals, one subreption).
+- **Source verification**: the G&W PDF text cached from the 10-03 deep review was re-grepped. A772/B800, A777/B805, A353 and A389–390 are all verbatim at the stated margins. Parfit §81 was checked against the quasi-memory concept page's quote at L70. The quotations from tenets.md L95 are exact.
+- **Engagement modes** (editor-internal):
+  - Kant's rule for hypotheses: Mode Three. The boundary is marked honestly and not dressed as escape.
+  - Parfit's §81 conclusion: Mode Three. The answer is framework-internal, a posited ground rather than a refutation.
+  - Butler: exposition, now framed as the inference A363 denies.
+- **Guards**: L82 (IEM and divided-will sentences) and L88 are byte-identical. The bi-aspectual tension is left open. The Tenet 3 quantifier is not settled. There is no "This is not X. It is Y." and no "load-bearing".
+- **Published**: yes
 
 ## 2026-10-04T14:46:46+00:00 - deep-review
 - **Status**: Success
