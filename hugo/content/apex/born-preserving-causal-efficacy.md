@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-10-02 14:29:15+00:00
+ai_modified: 2026-10-04 00:09:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-10-02 14:29:15+00:00
+lastmod: 2026-10-04 00:09:02+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -93,7 +93,7 @@ Everything hangs on the gap between the two. Born-preservation constrains the le
 
 **The trilemma.** Three cases exhaust the possibilities, and the Map is committed to one of them:
 
-- **(a) The conditionals differ.** If P(O | do(C), X) departs from q for some specifiable X, then in-principle signatures exist — conditioned on intentions, tasks, subjects, or context. The corollary is sharp: the empirical tests that bear on the Map are *conditional residual-structure* tests, not generic Born-frequency tests. This is where the corridor's empirical exposure sits, none of it yet measured. Intention-to-RNG micro-psychokinesis only resembles such a test: its RNG is external, so the Map's brain-locality scope ([brain-interface-boundary](/concepts/brain-interface-boundary/)) predicts its nulls on either horn — the largest 12,571 participants, Bayes factor ≈10 for no effect (Maier et al. 2018) — and they bear only on PEAR-style external psychokinesis. The brain-internal corridor is untested at every grain, including those no instruction reproduces (spontaneous, task-embedded, or value-laden states).
+- **(a) The conditionals differ.** If P(O | do(C), X) departs from q for some specifiable X, then in-principle signatures exist — conditioned on intentions, tasks, subjects, or context. The corollary is sharp: the empirical tests that bear on the Map are *conditional residual-structure* tests, not generic Born-frequency tests. This is where the corridor's empirical exposure sits, none of it yet measured. Intention-to-RNG micro-psychokinesis only resembles such a test: its RNG is external, so the Map's brain-locality scope ([brain-interface-boundary](/concepts/brain-interface-boundary/)) accommodates its nulls on either horn — the largest 12,571 participants, Bayes factor ≈10 for no effect (Maier et al. 2018) — and they bear only on PEAR-style external psychokinesis. The brain-internal corridor is untested at every grain, including those no instruction reproduces (spontaneous, task-embedded, or value-laden states).
 - **(b) The conditionals never differ, at any grain.** If no specifiable conditioning ever separates P from q, the selector makes no empirically identifiable difference at any scale. This is the epiphenomenalism horn in its exact form — consciousness leaving no distributional trace under any partition of the data.
 - **(c) The conditionals differ but always cancel in the marginal.** If some contexts bias toward an outcome yet the marginal stays Born-exact, other contexts must bias away by precisely the compensating amount. This horn is not free: it requires a *cancellation or balancing law* the framework would have to state and motivate, not merely assert.
 
@@ -127,7 +127,7 @@ Rated against the Map's [evidential-status discipline](/project/evidential-statu
 
 ### Route 2: Minimum-outside-the-corridor (efficacy with a signature)
 
-The second route bites the first horn deliberately. A fallback, it glosses "minimal" as "the smallest interaction *actually sufficient*", against the tenet's no-Born-violation constraint, and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**. It is also where the intervention analysis above leads, which makes it the route the Map is likeliest to be pushed toward rather than the exotic option.
+The second route bites the first horn deliberately. A fallback, it glosses "minimal" as "the smallest interaction *actually sufficient*", against the tenet's no-Born-violation constraint, and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**.
 
 Its cost is symmetric and currently unrewarded. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the gross-effect end of this family onto thin ground; any surviving version must hide below current sensitivity. There is a deeper exposure: a departure that buys signalling power would violate no-signalling, and the causal-consistency constraint says the corridor's Born-preservation is exactly what keeps the default reading signalling-safe. A minimum-outside-corridor variant must demonstrate its deviation is signalling-safe — not merely small.
 

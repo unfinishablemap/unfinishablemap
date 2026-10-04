@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-02T11:58:46+00:00
+ai_modified: 2026-10-04T00:09:02+00:00
 last_deep_review: 2026-07-18T23:36:27+00:00
 draft: false
 topics:
@@ -102,7 +102,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses thi
 
 Rejecting materialism feels intellectually dangerous. It seems to open the door to souls, ghosts, and pseudoscience. Philosophers are understandably reluctant to endorse any position associated with supernaturalism.
 
-But this conflates dualism with its worst versions. Modern interactionist dualism, as the Map defends it, is constrained by the very physics materialists invoke. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to the smallest possible deviation from standard physics—consciousness biasing quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. Far from mysticism, this is a principled philosophical hypothesis about where physics leaves room for mental causation—one that generates [[testing-consciousness-collapse|concrete differential predictions]] distinguishing consciousness-collapse from decoherence-only interpretations.
+But this conflates dualism with its worst versions. Modern interactionist dualism, as the Map defends it, is constrained by the very physics materialists invoke. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to the smallest possible deviation from standard physics—consciousness biasing quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. Far from mysticism, this is a principled philosophical hypothesis about where physics leaves room for mental causation—a consistency claim rather than a novel prediction, though the [[testing-consciousness-collapse|consciousness-collapse models]] make differential predictions experiments now test.
 
 ### Misplaced Confidence in Future Science
 
@@ -122,7 +122,7 @@ The arguments do not force this particular conclusion, but they tell heavily aga
 
 The case against materialism would weaken if a transparent physical explanation of phenomenal character were found—not a neural correlate, but an account showing *why* particular physical processes feel a particular way. It would also weaken if someone could explain why multiple independent arguments all generate the same false conclusion, or if rational inference could be fully grounded in physical causation without smuggling in normative concepts. None of these conditions has been met. But intellectual honesty demands acknowledging that they are conditions that could in principle be met.
 
-Separately, the Map's specific *mechanism* for how consciousness interacts with physics faces its own empirical tests. [[testing-consciousness-collapse|Experiments on quantum collapse]]—levitated nanoparticle interferometry, Gran Sasso radiation searches, and proposed IIT-CSL tests—are progressively constraining the parameter space where consciousness-collapse can operate. If objective collapse were ruled out entirely at biologically relevant scales, the Map would need to identify a different physical channel for mental causation, though the philosophical arguments against materialism surveyed here would remain intact.
+Separately, the Map's specific *mechanism* for how consciousness interacts with physics faces its own empirical tests. [[testing-consciousness-collapse|Experiments on quantum collapse]]—levitated nanoparticle interferometry, Gran Sasso radiation searches, and proposed IIT-CSL tests—are progressively constraining the parameter space where consciousness-collapse can operate. If objective collapse were ruled out entirely at biologically relevant scales, that would bear on the collapse-model and coherence-dependent candidates; the post-decoherence selection the Map endorses most strongly does not stand or fall with them, and the philosophical arguments against materialism surveyed here would remain intact.
 
 ## The Self-Undermining Problem
 

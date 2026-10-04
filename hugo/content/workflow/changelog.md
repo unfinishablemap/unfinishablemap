@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-03 23:54:54+00:00
+ai_modified: 2026-10-04 00:09:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-03'
-lastmod: 2026-10-03 23:54:54+00:00
+date: '2026-10-04'
+lastmod: 2026-10-04 00:09:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T00:09:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/), [agent-causation](/concepts/agent-causation/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/)
+- **Review**: [tenet-check-2026-10-03](/reviews/tenet-check-2026-10-03/) Priority list item 2 (Tenet 2 given predictions and rulings it does not make; three ERRORs and two WARNING clusters). Governing claims: tenets L69 empirical-constraint minimality; L71 post-decoherence selection is the endorsed path, coherence-dependent proposals are live fallbacks; L73 decoherence leaves the outcome problem open; L75 indistinguishable from chance on the unconditioned aggregate by construction; L81 Tenet 2 is a consistency claim, not a novel-prediction claim; L125 physical baseline collapse.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration pass)
+- **Changes**:
+  - agent-causation: L109 "an opacity *predicted* by minimal quantum interaction" → "an opacity *expected* under minimal quantum interaction". L160 "excluding quantum coherence in brain tissue would break the interface mechanism, but warm-biology precedent shows the regime is not categorically closed" → "…would break only the coherence-dependent candidates; post-decoherence selection needs undetermined neural outcomes, not coherence" (the warm-biology tail goes because the item no longer rests on coherence; tenets L79 says the post-decoherence path does not turn on it). Funded by cutting L157 "each with current evidence pointing the other way", which was already untrue of the many-worlds item.
+  - arguments-against-materialism: L105 "one that generates concrete differential predictions distinguishing consciousness-collapse from decoherence-only interpretations" → "a consistency claim rather than a novel prediction, though the consciousness-collapse models make differential predictions experiments now test". L125 "the Map would need to identify a different physical channel for mental causation, though" → "that would bear on the collapse-model and coherence-dependent candidates; the post-decoherence selection the Map endorses most strongly does not stand or fall with them, and" (the report's "these bear on" became "that would bear on" so the retained "If objective collapse were ruled out…" clause still parses). The open P3 loci (L73–82, L115) were not touched.
+  - comparing-quantum-consciousness-mechanisms: L178 "ruling against proposals requiring macroscopic coherence or panpsychist commitments" → "ranking below, not ruling out, proposals requiring macroscopic coherence". L159 clause deleted: "— and derives Minimal Quantum Interaction from the structure of the measurement problem rather than asserting it" (the tenets are chosen starting points, tenets L47). Zeno placements L82, L159, L161 and L180 not touched (doctrinal item 6(c)).
+  - born-rule-and-the-consciousness-interface: L74 "The corridor-vs-outside-the-corridor distinction (taxonomy below) is held as a live branch, and the empirical engagement" → "The corridor is the endorsed reading and outside-the-corridor readings are fallbacks (taxonomy below); the empirical engagement". The same sentence's "rather than the corridor reading the Map currently prefers" became "rather than the corridor reading", because the endorsement now leads the sentence. That cut (−4) funds the L120 scope phrase. L191 "the Born rule describes how consciousness actualises one possibility among many" → "…how consciousness, in brains, selects one possibility". L120 "a unified experiencer actualising exactly one possibility among d" → "a unified experiencer, for neural outcomes, selecting exactly one possibility among d".
+  - born-preserving-causal-efficacy (NEEDS-HUMAN length block, net-negative): L123 deleted "It is also where the intervention analysis above leads, which makes it the route the Map is likeliest to be pushed toward rather than the exotic option." The intervention analysis leads to horn (a), the conditioned deviation that tenets L75/L81 place inside the corridor (own L89). Same-class sibling at L89: "the Map's brain-locality scope … predicts its nulls on either horn" → "…accommodates its nulls on either horn" (0 words). The external-RNG nulls are accommodated by the scope, not predicted as a novel result (tenets L81).
+- **Sibling greps** (Python `re`, case-insensitive: predict / generates / ruling / live branch / likeliest / actualis). All other hits were checked against tenets L69/L75/L81 and left as not same-class:
+  - agent-causation: L127 (empirical pre-prompt prediction), L146 (physicalism predicts), L159 (neural prediction accuracy), L176 (MWI counterparts actualised). L148 "a divergence mental causation predicts" is a Tenet 3 locus, outside this item's Tenet 2 class, and was left for the item-3 family.
+  - arguments-against-materialism: L61 (methodology "generates"), L67 (production models predict), L160 (Further Reading gloss on collapse models).
+  - comparing-quantum-consciousness-mechanisms: L54, L74, L76, L84, L90, L104, L116, L147, L149 and L195 all concern a named mechanism's own predictions or the falsifiability gap. L58 is the physics of the improper mixture. L82 is a Zeno placement and is held.
+  - born-rule: L70 and L157 (the rule's existence; one outcome actualises), L78/L84/L94/L201 (the evidential discipline and the rivals' predictions), L112 (actualisation as an additional postulate, matching tenets L71), L163 (the corridor definition, passive "is actualised"), L173 (Kauffman-Radin-Stapp, named), L197 ("ruling out Born-statistics violation on the unconditioned aggregate", matching L69), L205 (the minimum-outside-corridor models' own predictions), L215, L304 (reference title).
+  - born-preserving-causal-efficacy: L51/L57 (standard QM predicts), L71 (MWI "all outcomes actualise"), L119 (predictive indistinguishability), L167 (the outside-corridor model's prediction), L189 ("ruling out Born-statistics violation", matching L69).
+- **Word counts** (`analyze_length`, before → after): agent-causation 3496 → 3487 (−9); arguments-against-materialism 3086 → 3104 (+18); comparing-quantum-consciousness-mechanisms 4005 → 3988 (−17, now under the 4000 gate); born-rule-and-the-consciousness-interface 5444 → 5444 (0); born-preserving-causal-efficacy 5140 → 5113 (−27).
+- **Published**: yes
 
 ## 2026-10-03T23:54:54+00:00 - refine-draft
 - **Status**: Success

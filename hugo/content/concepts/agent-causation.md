@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-03 02:38:31+00:00
+ai_modified: 2026-10-04 00:09:02+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-10-03 02:38:31+00:00
+lastmod: 2026-10-04 00:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ The [authenticity dimension](/topics/authentic-vs-inauthentic-choice/) matters: 
 
 The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same causal power all substances exercise. Siting the interface answers *where* influence occurs, not *which* subject exerts it; the [pairing problem](/concepts/pairing-problem/) awaits the pairing law the Map owes ([P-SC2](/positions/subject-census/#p-sc2)).
 
-The [causal interface void](/voids/causal-interface/) explains why this interface cannot be observed: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation)—an opacity *predicted* by minimal quantum interaction.
+The [causal interface void](/voids/causal-interface/) explains why this interface cannot be observed: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation)—an opacity *expected* under minimal quantum interaction.
 
 The [decoherence challenge](/concepts/decoherence/)—that warm neural tissue decoheres too fast (the [timing-gap-problem](/concepts/timing-gap-problem/))—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; avian magnetoreception supplies precedent for warm quantum effects, not licence for the neural case ([P-Q8](/positions/quantum-interface/#p-q8)).
 
@@ -157,10 +157,10 @@ The agency void is therefore a feature of the territory rather than something th
 
 ## What Would Challenge This View?
 
-Agent causation is falsifiable. Key challenges, each with current evidence pointing the other way:
+Agent causation is falsifiable. Key challenges:
 
 - **Complete neural prediction**: 100% accuracy predicting decisions from prior brain states would leave no gap; current accuracy remains well below this.
-- **Elimination of neural quantum effects**: excluding quantum coherence in brain tissue would break the interface mechanism, but warm-biology precedent shows the regime is not categorically closed.
+- **Elimination of neural quantum effects**: excluding quantum coherence in brain tissue would break only the coherence-dependent candidates; post-decoherence selection needs undetermined neural outcomes, not coherence.
 - **Dissociation of effort and outcome**: if effort didn't correlate with decision difficulty, phenomenological support collapses; it does correlate.
 - **No willed/instructed distinction**: identical neural signatures would weaken the claim that consciousness adds something; research robustly distinguishes them.
 - **Solving the hard problem materialistically**: a compelling materialist account of subjective experience would reduce the motivation for treating consciousness as a separate causal factor.

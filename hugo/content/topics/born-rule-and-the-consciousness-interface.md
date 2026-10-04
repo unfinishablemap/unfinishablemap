@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-10-02 14:29:15+00:00
+ai_modified: 2026-10-04 00:09:02+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 10:40:24+00:00
-lastmod: 2026-10-02 14:29:15+00:00
+lastmod: 2026-10-04 00:09:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ The Born rule — quantum mechanics' prescription that measurement probabilities
 
 The Unfinishable Map reads this persistent *existence*-underivability — an expressive limit on physics's *formalism*, not itself an ontological fact — as one motivation for the *metaphysical* claim that the Born rule marks a real boundary of physical description; that inferential step is carried by tenet-coherence, not by the underivability pattern. The Map develops it primarily as an *interface reading* — the rule governs how consciousness encounters quantum indeterminacy — and admits a parallel [trumping reading](/concepts/trumping-preemption/) ([delegatory-causation](/concepts/delegatory-causation/)) on which consciousness is authoritative over trajectories the formalism already describes. Both make underivability expected; so do QBism, objective-collapse programmes, modal interpretations, and hidden-variable accounts. The compatibility is genuine; the discrimination is open.
 
-A separate empirical question runs alongside the theoretical one: **no published experiment directly probes the Born rule inside living neural tissue during a conscious act of selection** — a regime where the relevant precision is unavailable and where the Map proposes a non-trivial effect. The corridor-vs-outside-the-corridor distinction ([taxonomy below](#corridor-taxonomy)) is held as a live branch, and the empirical engagement, when it comes, will target mechanism-committed sub-readings rather than the corridor reading the Map currently prefers — an asymmetry owned in *What Negative Results Would and Would Not Foreclose* below.
+A separate empirical question runs alongside the theoretical one: **no published experiment directly probes the Born rule inside living neural tissue during a conscious act of selection** — a regime where the relevant precision is unavailable and where the Map proposes a non-trivial effect. The corridor is the endorsed reading and outside-the-corridor readings are fallbacks ([taxonomy below](#corridor-taxonomy)); the empirical engagement, when it comes, will target mechanism-committed sub-readings rather than the corridor reading — an asymmetry owned in *What Negative Results Would and Would Not Foreclose* below.
 
 ## Compatibility vs. Support
 
@@ -123,7 +123,7 @@ The hand-off deserves a sharper statement, because it cuts against the Map's own
 
 **[Zurek's envariance](/concepts/envariance/)** (2005) appeals to symmetries of entangled states. Barnum (2003) showed a natural generalisation of its auxiliary assumption yields the Born rule itself; Schlosshauer-Fine (2005) diagnose an assumed state-probability link; Mertens & van Wezel (2023) showed envariance does not necessitate it for all measurements.
 
-**QBism** (DeBrota et al. 2021) makes the observer central by design, so an agent-centred theory predicting the failure of observer-independent derivation is doing what it should. The [pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) reading treats this normativity as the structural surface of a dualist interface QBism declines to posit; the disagreement is over what the agent *is*, not over whether the Born rule presupposes one — both agree it does. QBism withholds the non-physical substrate on grounds of minimal ontology, the Map posits it on grounds of cross-corpus tenet-coherence, claiming it independently explains the SIC-geometric (d+1)/−1/d form QBism leaves as brute coherence. The how-sketch: that deformation measures the gap between an unperformed reference SIC and the single actualised outcome, and the interface reading already posits a unified experiencer actualising exactly one possibility among d ([phenomenal non-compositionality](/concepts/composition-and-consciousness/)) — so the coefficients' dimension-d non-classicality is the structural trace of d-dimensional indeterminacy meeting a one-outcome locus. That explanation-by-substrate is not an in-framework refutation; the disagreement is framework-boundary, not resolvable from Born-rule data alone.
+**QBism** (DeBrota et al. 2021) makes the observer central by design, so an agent-centred theory predicting the failure of observer-independent derivation is doing what it should. The [pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) reading treats this normativity as the structural surface of a dualist interface QBism declines to posit; the disagreement is over what the agent *is*, not over whether the Born rule presupposes one — both agree it does. QBism withholds the non-physical substrate on grounds of minimal ontology, the Map posits it on grounds of cross-corpus tenet-coherence, claiming it independently explains the SIC-geometric (d+1)/−1/d form QBism leaves as brute coherence. The how-sketch: that deformation measures the gap between an unperformed reference SIC and the single actualised outcome, and the interface reading already posits a unified experiencer, for neural outcomes, selecting exactly one possibility among d ([phenomenal non-compositionality](/concepts/composition-and-consciousness/)) — so the coefficients' dimension-d non-classicality is the structural trace of d-dimensional indeterminacy meeting a one-outcome locus. That explanation-by-substrate is not an in-framework refutation; the disagreement is framework-boundary, not resolvable from Born-rule data alone.
 
 **Masanes-Galley-Müller** (2019) derives the Born rule from quantum postulates plus finite-dimensionality, but operational axioms presuppose definite outcomes, relocating observer-dependence without removing it.
 
@@ -194,7 +194,7 @@ Four strands are alive in 2025-2026; none isolates Born-rule violation as the me
 
 ## Why Underivability Matters for Consciousness-Collapse
 
-If the Born rule's *existence* could be derived from physics alone, the conceptual space for consciousness at the measurement interface would narrow. That it cannot, despite a century of effort, leaves the [interface reading](/concepts/quantum-probability-consciousness/) open: on it, the Born rule describes how consciousness actualises one possibility among many — [without injecting energy](/concepts/conservation-laws-and-mental-causation/); [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) makes Born preservation the first of five non-negotiable coupling constraints, and the [delegation-selection bridge](/topics/delegation-meets-quantum-selection/) identifies the Born distribution with Saad's "default causal profile" in [causal delegation](/concepts/delegatory-causation/). The [trumping reading](/concepts/trumping-preemption/) locates the same openness at the authority layer instead, and each rival builds its own framework-internal home.
+If the Born rule's *existence* could be derived from physics alone, the conceptual space for consciousness at the measurement interface would narrow. That it cannot, despite a century of effort, leaves the [interface reading](/concepts/quantum-probability-consciousness/) open: on it, the Born rule describes how consciousness, in brains, selects one possibility — [without injecting energy](/concepts/conservation-laws-and-mental-causation/); [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) makes Born preservation the first of five non-negotiable coupling constraints, and the [delegation-selection bridge](/topics/delegation-meets-quantum-selection/) identifies the Born distribution with Saad's "default causal profile" in [causal delegation](/concepts/delegatory-causation/). The [trumping reading](/concepts/trumping-preemption/) locates the same openness at the authority layer instead, and each rival builds its own framework-internal home.
 
 Being simultaneously *form-fixed* and *existence-underivable* is a duality the QBist normative reading and the objective-collapse calibration accommodate too; the interface reading offers a *natural* home, not a unique one. Tonetto locates the meeting point: quantum mechanics provides "statistical closure with outcome-level openness" — structurally complete yet ontologically partial, and that partiality is the Born rule gap ([completeness analysis](/topics/completeness-in-physics-under-dualism/)).
 

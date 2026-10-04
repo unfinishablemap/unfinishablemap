@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-10-03T02:01:20+00:00
+ai_modified: 2026-10-04T00:09:02+00:00
 last_deep_review: 2026-07-19T03:28:47+00:00
 draft: false
 topics:
@@ -156,7 +156,7 @@ The Map's [[tenets|tenets]] state that it "does not commit to any specific mecha
 
 The ordering follows directly from the [[#the-post-decoherence-gap|post-decoherence gap]] and the decoherence divide:
 
-1. **Post-decoherence selection** (preferred). Consciousness biases which element of the *already-decohered* improper mixture becomes actual. This sidesteps the [[timing-gap-problem|timing gap]] entirely — it requires no quantum coherence to survive at neural timescales — and derives [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] from the structure of the measurement problem rather than asserting it. [[post-decoherence-selection-programme|The post-decoherence selection programme]] is the Map's most developed synthesis and the strongest path it currently endorses. Stapp's Zeno model and CSL-IIT both sit naturally inside this preference, because both can be read as forward-in-time selection acting on (or near) the decohered mixture rather than on fragile superpositions.
+1. **Post-decoherence selection** (preferred). Consciousness biases which element of the *already-decohered* improper mixture becomes actual. This sidesteps the [[timing-gap-problem|timing gap]] entirely — it requires no quantum coherence to survive at neural timescales. [[post-decoherence-selection-programme|The post-decoherence selection programme]] is the Map's most developed synthesis and the strongest path it currently endorses. Stapp's Zeno model and CSL-IIT both sit naturally inside this preference, because both can be read as forward-in-time selection acting on (or near) the decohered mixture rather than on fragile superpositions.
 
 2. **Stapp's quantum Zeno model** and **CSL-IIT hybrids** (co-preferred fallbacks). Both satisfy all five tenets and operate through discrete events or modified dynamics rather than sustained coherence. They rank just below the post-decoherence framing because each carries a specific additional debt the bare post-decoherence move avoids: Stapp's literal-Zeno reading commits to attention-rate-dependent signatures it has not yet exhibited brain-internally, and CSL-IIT's consciousness-modulation component is currently untestable. Where they can be read as implementations *of* post-decoherence selection, the Map treats them as allies rather than rivals.
 
@@ -175,7 +175,7 @@ The tenet-level "no commitment" lives at Layer 3 and below; the preference lives
 
 ## Relation to Site Perspective
 
-The Map's [[tenets]] do not commit to a single mechanism, and this comparison explains why agnosticism is warranted. The [[#the-post-decoherence-gap|post-decoherence gap]] explains where the constraints bite: [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] locates consciousness's causal role at the point where decoherence prepares pointer states but does not select among them — ruling against proposals requiring macroscopic coherence or panpsychist commitments. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires genuine causation, not mere correlation. [[tenets#^no-many-worlds|No Many Worlds]] requires real collapse.
+The Map's [[tenets]] do not commit to a single mechanism, and this comparison explains why agnosticism is warranted. The [[#the-post-decoherence-gap|post-decoherence gap]] explains where the constraints bite: [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] locates consciousness's causal role at the point where decoherence prepares pointer states but does not select among them — ranking below, not ruling out, proposals requiring macroscopic coherence. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires genuine causation, not mere correlation. [[tenets#^no-many-worlds|No Many Worlds]] requires real collapse.
 
 Within these constraints, the [[#preference-ordering|preference ordering]] above places post-decoherence selection first, with Stapp's Zeno model and consciousness-modulated spontaneous collapse as co-preferred fallbacks — all three [[forward-in-time-conscious-selection|non-retrocausal conscious selection]] frameworks acting forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict. These may be complementary rather than competing: Stapp describes *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides baseline collapse dynamics. The [[coupling-modes]] framework — basis control, timing control, probability control — specifies what integration would require.
 
