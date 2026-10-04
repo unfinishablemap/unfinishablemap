@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T07:25:17+00:00
+ai_modified: 2026-10-04T07:59:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T07:59:04+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Quasi-memory and the circularity objection to memory criteria
+- **Output**: [[research/quasi-memory-and-the-circularity-objection-2026-10-04]]
+- **Sources consulted**: 28. Full text, grep-verified (7): Butler 1736 (Gutenberg), Locke II.xxvii.13 (Gutenberg), Reid 1785 (Woozley ed.), Parfit 1984 §§80–81 with notes, Slors 2001 (Radboud OA), SEP *Personal Identity*, SEP *Memory*. Google Books snippets (3): Shoemaker 1970, Penelhum 1970, McDowell 1997. Abstract-level (9): Roache 2006/2016, Buford 2009, Collins 1997, Northoff 2000, Bernecker 2009, Dranseika 2020, Schechtman 1994, Nichols 2017. Via Parfit (1): Evans 1982. Metadata only (8). No WebSearch (session budget exhausted).
+- **Coiner verdict**: "quasi-memory" is Shoemaker's term (1970, "as I shall use the term"). Parfit 1984 credits him (p. 516 n. 13, "I follow SHOEMAKER (2)"), and McDowell and Slors agree. Penelhum 1970 reached the same idea in the same year as "retrocognition" (pp. 85, 88), with no cross-citation; Parfit spread the term. SEP *Personal Identity* cites Penelhum 1970 without a bibliography entry, and SEP *Memory*'s list is alphabetical. The live misattributions are `voids/inaccessible-past` L63 ("Parfit's 'quasi-memory'") and `archive/voids/past-self-void` L96.
+- **Verdict**: article-worthy as a standalone concepts page (concepts 344/360). Quasi-memory is compatible with the Map's posited subject and gives it no support. P-I4 commits the Map to quasi-memory's coherence, while the coherence critics (McDowell) argue from an anti-Cartesian subject. It defeats `topics/personal-identity` L101's "marking a memory as genuinely *yours*". Also found: Priority item 5 of `reviews/outer-review-2026-05-10-claude-opus-4-7` (parfit-reductionism should engage quasi-memory) was never tasked, and it states the dialectic backwards.
+- **Chain**: `task_chains.pending_articles` entry added by line-targeted insert. P2 expand-topic task minted before `## Completed Tasks` (active tasks 75 → 76 by `parse_tasks`; P0–P2 15 → 16).
+- **Length**: note 3,481 words by `analyze_length` (research hard 3,500).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T07:25:17+00:00 - refine-draft
 - **Status**: Success
