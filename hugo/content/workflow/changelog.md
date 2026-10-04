@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 02:37:34+00:00
+ai_modified: 2026-10-04 03:44:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 02:37:34+00:00
+lastmod: 2026-10-04 03:44:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T03:44:01+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Immunity to error through misidentification
+- **Output**: [immunity-to-error-through-misidentification-2026-10-04](/research/immunity-to-error-through-misidentification-2026-10-04/)
+- **Sources consulted**: 30 (full text grep-verified: SEP Self-Consciousness and two supplements, Wittgenstein *Blue Book*, Strawson *Bounds of Sense* pp. 164–166, Anscombe "The First Person", Child 2026; Google Books snippets: Shoemaker 1968/1970; page images: Pryor 1999 pp. 271–273; abstract-level: Coliva 2002, Lane & Liang 2011, Wiseman 2019, McGlynn 2020, Bermúdez 2018, Coliva & Palmira 2024, García-Carpintero 2024, Longuenesse 2017 and 2012; metadata-only: the rest). No WebSearch: the session budget was exhausted, so retrieval was by direct fetch.
+- **Verdict**: article-worthy as a standalone concepts page (concepts 344/360). IEM is compatible with the Map's posited subject and gives it no support. It is a defeater for the ownership page's L84/L126 inference from the absence of "whose" in physical description to non-physicality. Strawson 1966 pp. 164–165 ("the fact that lies at the root of the Cartesian illusion") now verbatim for the Kant page's first exposure.
+- **Chain**: `task_chains.pending_articles` entry added; P2 expand-topic task minted (active tasks 70 → 71 by `parse_tasks`).
+- **Length**: note 3,456 words by `analyze_length` (research hard 3,500).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T02:37:34+00:00 - refine-draft
 - **Status**: Success
