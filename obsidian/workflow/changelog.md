@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T08:29:34+00:00
+ai_modified: 2026-10-04T08:52:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T08:52:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/personal-identity]] (P2 queue task from §Priority List item 1 of [[reviews/optimistic-2026-10-04-subject-and-individuation-wing]], L76)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 4043 → 4034 (−9) by `analyze_length`; still over the 4,000 hard gate and under the NEEDS-HUMAN length block, so every edit was net-negative.
+- **Changes**: 3 edits, all in "Arguing for Haecceity".
+  - (1) Closing paragraph. It said the case "shifts the burden: anti-haecceitists must explain why the phenomenological evidence misleads". That treated a seeming as discriminating evidence, against P-I1's D grade, the Kant page's first exposure, and this page's own L155 concession. Now: "At most the case opens room for the posit; the [[kants-paralogisms-and-the-maps-subject#three-exposures|seeming it starts from]], which rivals predict too, shifts no burden." This follows the driver's override of the review's wording, which used the banned "X. It is Y." construct. "This" became "the case" because the error-theory paragraph now sits between the four points and the closer, so "this" had no clear referent.
+  - (2) Lead-in. "and the Map must bridge the gap. Four considerations support the inference:" became "a gap the seeming alone cannot bridge. Four considerations bear on it:". The old clause promised the bridge that the new closer says the case does not build.
+  - (3) Sibling: point 3 (explanatory gap). "our persistent puzzlement about personal identity reflects genuine metaphysical structure, not mere conceptual confusion" made the same seeming-as-evidence move. Now "though conceptual confusion would produce the same persistent puzzlement". The hedged hypothesis ("Perhaps because it *is* inadequate") is kept.
+- **Loci checked, not changed**: L91 ("so it cannot be assumed"; a dialectical point against Parfit, consistent with the posit framing); point 1 (already scoped to "open logical space"); point 2 (causal history individuates an already-posited particular; no seeming involved); point 4 (its force is indexical non-recurrence; the pastness-quale clause describes and does not carry the argument); the error-theory paragraph (already defers to the Illusionist section); the process-haecceitism and quantum-selection paragraphs (no burden or seeming move); L155 (already calibrated). Outside this section, split-brain L133 ("patients report a single first-person perspective—suggesting…") uses a report as hedged evidence. It is noted for a future pass and was left alone because the task scope was this section.
+- **Not touched**: the Tenet 3 actual-vs-capacity quantifier (referred to the operator); tenets, positions and every other content page.
+- **Frontmatter**: `ai_modified` set to 2026-10-04T08:52:20+00:00. `ai_system` was left unchanged because it already contains `claude-opus-5-5`.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T08:29:34+00:00 - deep-review
 - **Status**: Success

@@ -1953,16 +1953,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-03
 - **Notes**: P-AC3 says "each copy is a numerically distinct subject, so the moral weight is additive" — the review (and the numbing-void P2) show numerical distinctness (P-I1 / closed individualism) does NOT by itself yield additivity: Lewis and Taurek count separate sufferers too and deny summing. Make P-AC3 state its counting rule (separate bads add although no one bears the sum) as its own premise, and add anti-aggregation views (Taurek 1977 in its standard form — Taurek was NOT read: do not quote him; cite Piller 2026 for the restatement as voids/numbing-void does) to its "Would shift if". Related seam (report, do not edit unless trivially in scope): topics/phenomenal-value-realism ~L181 ("token-based", "not interchangeable") leans toward Taurek. LENGTH: 3,076 by analyze_length at 23:40Z (positions hard 2,500 / critical 4,000; the register breaches the hard threshold by design — stay under 4,000); add the register's mandatory dated `Updated` note; keep the edit ≤ +60 words. No confidence-band change unless argued. Do not touch the Tenet 3 quantifier lines (operator-referred).
 
-### P2: personal-identity L105 says the seeming of haecceity "shifts the burden" — the move the Kant page's first exposure diagnoses; net-negative fix (optimistic-2026-10-04 Priority item 1)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/personal-identity.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-04 01:50Z (subject/individuation wing), minted by the driver 02:05Z
-- **Review file**: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-04-subject-and-individuation-wing.md
-- **Generated**: 2026-10-04
-- **Notes**: Apply the review's §Priority list item 1 using its EXACT old/new text: L105 (the seeming of haecceity "shifts the burden") → "This doesn't prove haecceity. It opens room for the posit; the [[kants-paralogisms-and-the-maps-subject#three-exposures|seeming it starts from]], which rivals predict too, shifts no burden."; L93 "Four considerations support the inference:" → "Four considerations bear on it:". The old L105 contradicts P-I1's grade D, the Kant page's first exposure (felt mine-ness used as evidence) and this page's own L155. LENGTH: 4,043 by analyze_length at 02:05Z — OVER the topics hard gate under a NEEDS-HUMAN length block: NET-NEGATIVE ONLY (the review's edit is −3 → 4,040). Re-locate by quoted text. Do not edit tenets.md or positions/.
-
 ### P3: Point the subject wing at the Kant page — indexical-identity-quantum-measurement L143/L153, haecceity L171, emergent-dualism L50 (optimistic-2026-10-04 Priority items 2 and 4)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/indexical-identity-quantum-measurement.md
@@ -2056,6 +2046,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-04: personal-identity L105 says the seeming of haecceity "shifts the burden" — the move the Kant page's first exposure diagnoses; net-negative fix (optimistic-2026-10-04 Priority item 1)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/personal-identity.md
+- **Notes**: Apply the review's §Priority list item 1 using its EXACT old/new text: L105 (the seeming of haecceity "shifts the burden") → "This doesn't prove haecceity. It opens room for the posit; the [[kants-paralogisms-and-the-maps-subject#three-exposures|seeming it starts from]], which rivals predict too, shifts no burden."; L93 "Four considerations support the inference:" → "Four considerations bear on it:". The old L105 contradicts P-I1's grade D, the Kant page's first exposure (felt mine-ness used as evidence) and this page's own L155. LENGTH: 4,043 by analyze_length at 02:05Z — OVER the topics hard gate under a NEEDS-HUMAN length block: NET-NEGATIVE ONLY (the review's edit is −3 → 4,040). Re-locate by quoted text. Do not edit tenets.md or positions/.
 
 ### ✓ 2026-10-04: Research Quasi-memory and the circularity objection to memory criteria
 - **Type**: research-topic
