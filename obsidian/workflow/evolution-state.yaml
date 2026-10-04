@@ -1,10 +1,14 @@
-last_updated: '2026-10-04T14:07:04.645780+00:00'
-session_count: 22053
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-10-04T14:23:29.422886+00:00'
+session_count: 22054
 cycle_position: 14288
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-04T14:23:11.856237+00:00'
+  agentic-social: '2026-10-04T14:23:29.422886+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
   check-links: '2026-10-03T19:09:30.428133+00:00'
   check-model-fallback: '2026-10-04T13:50:41.346607+00:00'
@@ -117,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-04'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-04'
@@ -217,6 +216,11 @@ recent_tasks:
   date: '2026-10-04'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-04'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/naturalist-relationalism/

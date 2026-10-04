@@ -1,9 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T14:06:05+00:00
+ai_modified: 2026-10-04T14:46:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T14:46:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-divided-will]]
+- **Word count**: 2,986 → 3,055 (+69) by `analyze_length` (topics soft 3,000 / hard 4,000; status ok → soft_warning; the brief's ceiling was about 3,200).
+- **Critical issues addressed**: 4
+  - O2 was scored "against" the selector although its auxiliary was called independently motivated. Added: fallibility alone does not predict choice-specific lapses.
+  - L114 gave indexicality as an independent ground for the posit, contradicting tenets L121/L123. Now: agent causation's need for a persisting subject, as the tenets page names, rather than felt unity.
+  - L112 asserted "divided control" as a fact about akrasia. Now: "what partitioned models read as divided control".
+  - The lead's "the one discriminating result in the literature" became "his own scoring backed by two small independent studies, … this survey found".
+- **Medium issues addressed**: 7
+  - The McClure vs Kable & Glimcher "disputed:" framing was removed, per the guard.
+  - A Korsgaard source/Map clause was added: the Map does not deflate phenomenal unity.
+  - Levy p. 67: the subject was moved outside the quotes.
+  - Steward became the nearest move "whose text was checked here", and the objection now "stands unanswered here" (Franklin 2015 is unread).
+  - Ainslie "physicalist" became "write as naturalists".
+  - Keren & Schul: "reject" became "challenge".
+  - O4/O5 universals were hedged.
+- **Metadata fixes**:
+  - Davidson 1982 reprint pp. 169–187 → 169–188 (OUP chapter doi).
+  - Hofmeyr et al. 2011: the subtitle was restored.
+  - Inline "(1980, p. 42)" → "(1970; 1980 reprint, p. 42)".
+- **Web-verify**: a full per-cite ledger is in the review.
+  - Google Books search-within was used, with a positive control on each of six volumes. Davidson 1970 and 1982, Ainslie, Korsgaard, Levy (pp. 44, 66, 67, 153) and Steward (pp. 16, 147, 161) are all verified, subjects included. Steward's p. 161 subject is "it", meaning weakness of will.
+  - Abstract quotes were checked via OpenAlex/PubMed and all verified.
+  - Franklin 2015: metadata only, since its text was unreachable. WebSearch is exhausted at 200/200.
+- **Engagement modes** (editor-internal):
+  - Davidson: mixed. The redescription charge is in-framework; the rest is boundary.
+  - Ainslie: Mode One on the evidence (his own table; two small independent studies).
+  - Levy: Mode Three. The objection is stated at full strength and left unanswered.
+  - Korsgaard: rival framing, adopted at the boundary.
+  - Mele: conceded.
+- **Guards**: all attribution guards hold. The Tenet 3 quantifier is not settled, the bi-aspectual tension is left open, and the P-SC2 pointer is one sentence, marked speculative. The tenets.md quotation is exact.
+- **Seams** (not edited):
+  - unity-of-consciousness L145 asserts divided control as fact. Minted a P3 refine-draft (+3 words), confirmed live (grep -c 1; introduced c594e8d50c; never repaired).
+  - Clean: Kant L82 (consistent with pessimistic-2026-10-04, whose Priority items do not touch L82), interpreter-module, control-theoretic-will, philosophy-of-habit, and the free-will, mental-effort, split-brain and akrasia pipes.
+  - agent-causation L101's "contrastively explicable" pipe delivers its topic but lands on the section arguing the reply fails. Recorded only.
+- **Output**: [[reviews/deep-review-2026-10-04-the-divided-will]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T14:06:05+00:00 - refine-draft
 - **Status**: Success
