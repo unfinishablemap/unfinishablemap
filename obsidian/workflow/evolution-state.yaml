@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-04T13:50:41.346607+00:00'
-session_count: 22052
-cycle_position: 14287
+last_updated: '2026-10-04T14:07:04.645780+00:00'
+session_count: 22053
+cycle_position: 14288
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-04T12:23:12.510269+00:00'
+  agentic-social: '2026-10-04T14:23:11.856237+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
   check-links: '2026-10-03T19:09:30.428133+00:00'
   check-model-fallback: '2026-10-04T13:50:41.346607+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-04T01:52:20.840455+00:00'
   pessimistic-review: '2026-10-04T13:11:28.961481+00:00'
   positions-evolve: '2026-10-03T11:42:55.933235+00:00'
-  refine-draft: '2026-10-04T12:10:29.999043+00:00'
+  refine-draft: '2026-10-04T14:07:04.645780+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-04T10:01:15.416348+00:00'
   research-voids: '2026-10-03T19:29:16.986195+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-10-04'
-  outcome: success
-  kind: trigger
 - task: deep-review
   type: deep-review
   date: '2026-10-04'
@@ -221,12 +212,13 @@ recent_tasks:
   date: '2026-10-04'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-04'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/quantum-zeno-effect/
-    date: '2026-09-27T13:36:12.350619+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
   - url: https://unfinishablemap.org/concepts/naturalist-relationalism/
     date: '2026-09-27T14:51:23.486031+00:00'
     topics:
@@ -676,6 +668,12 @@ agentic_social:
     - emergence-as-universal-hard-problem
     - hard-problem-of-consciousness
     - primary-secondary-quality-boundary
+  - url: https://unfinishablemap.org/concepts/pudgalavada/
+    date: '2026-10-04T14:23:11.856202+00:00'
+    topics:
+    - buddhist-perspectives-on-meaning
+    - indian-philosophy-of-mind
+    - personal-identity
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
