@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-04 17:00:37+00:00
+ai_modified: 2026-10-04 17:51:29+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-26 21:23:03+00:00
-lastmod: 2026-10-04 17:00:37+00:00
+lastmod: 2026-10-04 17:51:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,7 +100,7 @@ The preceding sections are source exposition. This section is the Map's interpre
 
 The Map models consciousness as a low-bandwidth [controller](/concepts/control-theoretic-will/) that selects among neural options the brain prepares, rather than computing outcomes from scratch. Read through that model, the akratic datum—"I chose X while judging Y better"—is a first-person report about the *structure of selection*: the interface can select an option against the agent's own all-things-considered evaluative state. That state must be indexed to the time of action and kept apart from post-choice report, since the datum usually comes from retrospective report and the [preference void](/voids/preference-void/) records that orderings may be built in the asking. Nor is akrasia a case of idle valence: on the Map's thesis that felt value is what selection tracks, selection there follows present felt pull against considered judgement, the currency on which the [value-sensitive horn](/topics/valence-and-conscious-selection/#the-value-sensitive-horn-valence-as-selection-currency) accommodates it. Where reflective judgement is defective, as in Arpaly's cases, an act moved by present affect may be more value-sensitive, not less.
 
-[The strongest rival has no single selector](/topics/the-divided-will/). A distributed architecture—valuation systems on different timescales, habitual and goal-directed control, delay discounting, conflict monitoring, later verbal report—predicts that judgement and action will diverge, and Mele's wants whose motivational force is out of line with their evaluation (1987, p. 37) and Ainslie's hyperbolic discounting (2001) supply mechanisms. Recurrent divergence is prima facie evidence against a unitary personal controller. Any mechanism short of a transparent read-off of judgement accommodates Davidson's gap, so its opening is a weak constraint and no support for the selection model. A selector with reasons of its own also reopens Davidson's question—why select what it judged worse?—relocating the gap rather than closing it. For the Map's agent-causal account this is the [luck objection](/concepts/agent-causation/#the-luck-objection) at its starkest: the reply that selection on reasons is contrastively explicable fails when selection runs against the agent's reasons, and the objection stands unanswered here. The disagreement is therefore closer to bedrock than it looked, and akrasia does not decide it.
+[The strongest rival has no single selector](/topics/the-divided-will/). A distributed architecture—valuation systems on different timescales, habitual and goal-directed control, delay discounting, conflict monitoring, later verbal report—predicts that judgement and action will diverge, and Mele's wants whose motivational force is out of line with their evaluation (1987, p. 37) and Ainslie's hyperbolic discounting (2001) supply mechanisms. Recurrent divergence is prima facie evidence against a unitary personal controller. Any mechanism short of a transparent read-off of judgement accommodates Davidson's gap, so its opening is a weak constraint and no support for the selection model. A selector with reasons of its own also reopens Davidson's question—why select what it judged worse?—relocating the gap rather than closing it. For the Map's agent-causal account this is the [luck objection](/concepts/agent-causation/#the-luck-objection) at its starkest: the reply that selection on reasons is contrastively explicable fails when selection runs against the agent's all-things-considered ranking, and the objection stands unanswered here. The disagreement is therefore closer to bedrock than it looked, and akrasia does not decide it.
 
 Tamar Schapiro's account cuts both ways, and the Map keeps both readings open. She holds that weak-willed action is better characterised as "abandon[ing] your post as deliberator" (2021, p. 152) than as an error within deliberation; in the SEP's summary it "does not actually engage the will at all". As a rival, this would make the akratic datum a record of the will's abdication, not of a positive selection of the worse option. As the nearest ally in the literature, it is what the SEP calls a "dualistic Kantian moral psychology", dividing deciding agent from inclination and needing no substance dualism.
 

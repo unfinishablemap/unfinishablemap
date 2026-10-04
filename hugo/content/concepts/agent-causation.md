@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-04 13:32:59+00:00
+ai_modified: 2026-10-04 17:51:29+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-10-04 13:32:59+00:00
+lastmod: 2026-10-04 17:51:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ Challenges include the *laws problem* (Lowe: laws describe what substances tend 
 
 The central challenge: if indeterminism leaves outcomes undetermined, nothing about the agent explains which choice occurs. Mele's version: in two identical worlds where the agent chooses differently, what explains the difference? Nothing—it's luck.
 
-Agent-causal libertarians respond that the agent *does* explain the difference through exercising causal power. The [full response](/concepts/quantum-indeterminacy-free-will/) turns on four points: (1) active choosing differs fundamentally from passive reception of random outcomes; (2) choosing feels effortful, while lucky events don't feel like achievements (see [mental-effort](/concepts/mental-effort/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)); (3) consciousness selects based on reasons, making selection [contrastively explicable](/topics/the-divided-will/#luck-objection); (4) if [selection is atemporal](/concepts/retrocausality/), the prior state is part of what consciousness selected. The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive.
+Agent-causal libertarians respond that the agent *does* explain the difference through exercising causal power. The [full response](/concepts/quantum-indeterminacy-free-will/) turns on four points: (1) active choosing differs fundamentally from passive reception of random outcomes; (2) choosing feels effortful, while lucky events don't feel like achievements (see [mental-effort](/concepts/mental-effort/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)); (3) consciousness selects on reasons, making [non-akratic](/topics/the-divided-will/#luck-objection) selection contrastively explicable; (4) if [selection is atemporal](/concepts/retrocausality/), the prior state is part of what consciousness selected. The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive.
 
 The [authenticity dimension](/topics/authentic-vs-inauthentic-choice/) matters: agent causation is fully engaged in authentic choice and attenuated in scripted behavior—suggesting variable engagement rather than uniform operation.
 

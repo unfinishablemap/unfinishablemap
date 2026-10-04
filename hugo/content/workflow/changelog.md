@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 17:35:10+00:00
+ai_modified: 2026-10-04 17:51:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 17:35:10+00:00
+lastmod: 2026-10-04 17:51:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T17:51:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Also edited**: [agent-causation](/concepts/agent-causation/), [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/)
+- **Source**: P2 queue task from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` §Priority List item 2 (all three parts applied with the review's exact text; targets located by quoted text, each occurring once)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted fix
+- **Changes** (the akratic exception to the contrastive-explicability reply, at its three statements):
+  - (a) QIFW Reasons-Guided Selection: "making selection contrastively explicable in a way randomness is not" → "making [non-akratic](/topics/the-divided-will/#luck-objection) selection contrastively explicable in a way randomness is not". This is the canonical luck page's first link to the-divided-will.
+  - (b) agent-causation point (3): "consciousness selects based on reasons, making selection [contrastively explicable](/topics/the-divided-will/#luck-objection)" → "consciousness selects on reasons, making [non-akratic](/topics/the-divided-will/#luck-objection) selection contrastively explicable". The pipe moves from the claim to its exception, so the inverted "but see" becomes an explicit scope. Word-neutral.
+  - (c) akrasia luck paragraph: "fails when selection runs against the agent's reasons" → "fails when selection runs against the agent's all-things-considered ranking". This replaces the "all reasons" reading (the akratic has a reason for x and none for x-rather-than-y; the-divided-will L103, Davidson 1970 n. 25).
+- **Consistency**: all three now match apex/consciousness-and-agency L114 ("selection runs against the agent's own all-things-considered ranking, and the Map leaves that case open"). The luck objection stays open for akrasia; no reply added.
+- **Not touched**: agent-causation point (2); QIFW L118–120 (felt effort, K17, operator); akrasia L82 zero-word pipe and Further Reading line from the 17:00Z self-control expand; the Tenet 3 quantifier (NEEDS-HUMAN 2026-08-17).
+- **Recorded, not minted**: QIFW still states the reasons reply without akratic scope at L103 (comparison table, "Contrastive explanation | … | The agent's reasons") and L136 (summary, "The agent's *reasons* supply contrastive explanation that pure chance lacks"). L126 now carries the scope and QIFW headroom is 8, so any fix must be word-neutral.
+- **Engagement**: luck objection (Levy/Mele line) against the agent-causal reply: Mode Three for the akratic case (left open), scoped by link to the-divided-will.
+- **Length**: `analyze_length` QIFW 3,490 → 3,491 (concepts hard 3,500; headroom 8); agent-causation 3,487 → 3,487 (headroom 12); akrasia 3,619 → 3,620 (topics hard 4,000; headroom 379). The akrasia baseline is 3,619, not the review's 3,598, because the 17:00Z expand added lines.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T17:35:10+00:00 - deep-review
 - **Status**: Success

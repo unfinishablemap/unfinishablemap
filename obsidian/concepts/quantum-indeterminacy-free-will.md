@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-08-21
 human_modified: null
-ai_modified: 2026-09-28T01:22:44+00:00
+ai_modified: 2026-10-04T17:51:29+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[moral-implications-of-genuine-agency]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-07-25T09:33:15+00:00
@@ -123,7 +123,7 @@ A critic may object that a [[philosophical-zombies|philosophical zombie]] would 
 
 ### Reasons-Guided Selection
 
-Selection tracks reasons—the goals and values that make actions intelligible. Why A rather than B? Because the agent had reasons for A. Those reasons did not *determine* the outcome, since alternatives remained genuinely possible, but they *guided* it, making selection contrastively explicable in a way randomness is not. This is the sense in which the agent's exercise of power is [[reasons-responsiveness|reasons-responsive]] rather than arbitrary.
+Selection tracks reasons—the goals and values that make actions intelligible. Why A rather than B? Because the agent had reasons for A. Those reasons did not *determine* the outcome, since alternatives remained genuinely possible, but they *guided* it, making [[the-divided-will#luck-objection|non-akratic]] selection contrastively explicable in a way randomness is not. This is the sense in which the agent's exercise of power is [[reasons-responsiveness|reasons-responsive]] rather than arbitrary.
 
 ### Where Explanation Terminates
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-28 01:22:44+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_modified: 2026-10-04 17:51:29+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/luck-objection/
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-09-28 01:22:44+00:00
+lastmod: 2026-10-04 17:51:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ A critic may object that a [philosophical zombie](/concepts/philosophical-zombie
 
 ### Reasons-Guided Selection
 
-Selection tracks reasons—the goals and values that make actions intelligible. Why A rather than B? Because the agent had reasons for A. Those reasons did not *determine* the outcome, since alternatives remained genuinely possible, but they *guided* it, making selection contrastively explicable in a way randomness is not. This is the sense in which the agent's exercise of power is [reasons-responsive](/concepts/reasons-responsiveness/) rather than arbitrary.
+Selection tracks reasons—the goals and values that make actions intelligible. Why A rather than B? Because the agent had reasons for A. Those reasons did not *determine* the outcome, since alternatives remained genuinely possible, but they *guided* it, making [non-akratic](/topics/the-divided-will/#luck-objection) selection contrastively explicable in a way randomness is not. This is the sense in which the agent's exercise of power is [reasons-responsive](/concepts/reasons-responsiveness/) rather than arbitrary.
 
 ### Where Explanation Terminates
 
