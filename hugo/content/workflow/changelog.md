@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 15:09:37+00:00
+ai_modified: 2026-10-04 16:02:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 15:09:37+00:00
+lastmod: 2026-10-04 16:02:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T16:02:43+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Self-control as skill and scaffolding (P3, harvested from `reviews/outer-review-2026-10-04-claude-opus-5-5.md` §3)
+- **Output**: [self-control-as-skill-and-scaffolding-2026-10-04](/research/self-control-as-skill-and-scaffolding-2026-10-04/) (5,333 words by `analyze_length`)
+- **Sources consulted**: 37 cited. Full text was fetched for the SEP "Weakness of Will" (rev. 2025-09-18) and Bermúdez 2021 (Europe PMC). Kennett 2001 and Ainslie 2001 were checked by Google Books search-within with positive controls. The rest come from Crossref, OpenAlex, Semantic Scholar and PubMed abstracts and metadata. WebSearch was exhausted (200/200).
+- **Verdict**: article-worthy as `concepts/self-control-as-skill-and-scaffolding` (concepts 346/360). The literature *relocates* synchronic conscious control to a developmental foundation and an emergency reserve (Bermúdez: "explanatory primacy" vs "practical prevalence"). It fits skill-delegation's shape as framework-internal coherence only. It costs the effort-as-evidence argument.
+- **Key findings**:
+  - The reviewer's "do most of the work" upgrades the SEP's "may be more effective".
+  - Its "Sripada (Irving et al. 2022 *Cognition*)" concludes that "synchronic regulation is the sole difference maker in the folk concept of self-control".
+  - Kennett defends synchronic self-control.
+  - The Synthese skill model is by **J. P.** Bermúdez, not J. L. Bermúdez.
+  - Verified counterweights: Milyavskaya et al. 2021 (inhibition similarly effective); Hennecke et al. 2019.
+  - mental-effort L72 ("only selection explains") overstates; the note records it as a seam and does not mint a task for it.
+- **Chain**: one P2 expand-topic minted before `## Completed Tasks` (`parse_tasks` active 71 → 72). A `task_chains.pending_articles` entry was added by a line-targeted insert (2-line diff).
 
 ## 2026-10-04T15:09:37+00:00 - refine-draft
 - **Status**: Success
