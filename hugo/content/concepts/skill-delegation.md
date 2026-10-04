@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-18 16:23:41+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-04 17:00:37+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 12:45:43+00:00
-lastmod: 2026-09-18 16:23:41+00:00
+lastmod: 2026-10-04 17:00:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ As skill develops, consciousness gradually releases control. The advanced beginn
 
 Critically, withdrawal is *selective*. An expert driver monitors road conditions while delegating gear changes and steering adjustments. Consciousness retreats from execution details while maintaining strategic oversight. The [attention interface](/concepts/attention-as-interface/) narrows its engagement without disconnecting entirely.
 
-This progressive withdrawal makes sense under the Map's framework: the low-bandwidth [quantum interface](/tenets/#minimal-quantum-interaction) need not continuously engage once procedural systems are calibrated. Consciousness selects among alternatives where genuine choice is required and delegates the rest.
+This progressive withdrawal makes sense under the Map's framework: the low-bandwidth [quantum interface](/tenets/#minimal-quantum-interaction) need not continuously engage once procedural systems are calibrated. Consciousness selects among alternatives where genuine choice is required and delegates the rest. [Self-control can show the same three phases](/concepts/self-control-as-skill-and-scaffolding/): on one skill model, experts lean on chosen situations, if-then plans and habits, keeping effortful in-the-moment control for learning and emergencies, a pattern a physical planner fits equally well.
 
 ### Phase 3: Retained Override Capacity
 
@@ -156,6 +156,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [mental-effort](/concepts/mental-effort/) — Why effortful engagement during learning tracks genuine conscious contribution
 - [motor-selection](/concepts/motor-selection/) — Skill delegation in the motor domain specifically
 - [embodied-cognition](/concepts/embodied-cognition/) — The challenge from embodied approaches and the interface response
+- [self-control-as-skill-and-scaffolding](/concepts/self-control-as-skill-and-scaffolding/) — The same calibration, withdrawal and override pattern in the strategy and skill literature on self-control
 
 ## References
 

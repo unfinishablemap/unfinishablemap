@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-10-03 12:40:33+00:00
+ai_modified: 2026-10-04 17:00:37+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 16:05:00+00:00
-lastmod: 2026-10-03 12:40:33+00:00
+lastmod: 2026-10-04 17:00:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -185,6 +185,7 @@ The framework would face serious difficulty if: (1) trained introspectors report
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Invariants of volitional experience across cultures
 - [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) — The broader case for consciousness doing work
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The full case for conscious causal efficacy
+- [self-control-as-skill-and-scaffolding](/concepts/self-control-as-skill-and-scaffolding/) — What the skill literature implies for reading felt effort as evidence of conscious contribution
 
 ## References
 

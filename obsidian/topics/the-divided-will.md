@@ -4,7 +4,7 @@ description: "Davidson's partition, Ainslie's bargaining interests and multiple-
 created: 2026-10-04
 modified: 2026-10-04
 human_modified:
-ai_modified: 2026-10-04T14:46:46+00:00
+ai_modified: 2026-10-04T17:00:37+00:00
 last_deep_review: 2026-10-04T14:46:46+00:00
 draft: false
 topics:
@@ -137,6 +137,7 @@ Speculatively, if partitions were themselves subjects, intrapersonal conflict wo
 - [[split-brain-consciousness]] — Unity of agency against unity of experience in divided brains
 - [[kants-paralogisms-and-the-maps-subject]] — Why felt unity cannot serve as evidence for the Map's subject
 - [[positions/agency-and-will]] — The Map's agent-causal commitments
+- [[self-control-as-skill-and-scaffolding]] — Ainslie's personal rules as one self-control strategy among four, with their costs, beside the skill models
 
 ## References
 

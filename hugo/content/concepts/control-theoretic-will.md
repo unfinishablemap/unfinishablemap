@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-04 13:32:39+00:00
+ai_modified: 2026-10-04 17:00:37+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:45:23+00:00
-lastmod: 2026-10-04 13:32:39+00:00
+lastmod: 2026-10-04 17:00:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -149,7 +149,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 **Akratic signal mapping.** In [akrasia](/topics/akrasia-and-weakness-of-will/), selection reportedly diverges from the agent's all-things-considered evaluation. One candidate: that judgement is the reference signal, which prepared action reaches threshold is the controlled variable, present felt pull is the disturbance, phenomenal experience of both is the feedback, and the selection mechanism is the actuator. A controller should not drive the plant off its own setpoint, so either felt pull is a [second reference](/topics/valence-and-conscious-selection/#the-value-sensitive-horn-valence-as-selection-currency) it tracks at action time (a refusal) or its authority fails against that particular pull (a failure). A [distributed architecture](/topics/the-divided-will/) predicts the divergence with no single controller, where a unitary one only accommodates it. The mapping is open, as is whether any reading needs a non-physical controller.
 
-**Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. Schwartz & Begley (2002) document how directed mental effort produces measurable neuroplastic changes in OCD patients, suggesting the controller can reshape the plant it governs. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
+**Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. [Self-control research](/concepts/self-control-as-skill-and-scaffolding/) points to one such shift: skilled agents move from correcting disturbances as they arise to removing them at source through chosen situations and plans, as any low-bandwidth controller should, physical or not. Schwartz & Begley (2002) document how directed mental effort produces measurable neuroplastic changes in OCD patients, suggesting the controller can reshape the plant it governs. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
 
 **Observability limits.** Not all brain states are accessible to consciousness—most neural processing is unconscious. In control terms, the system is only partially observable. What determines which states are observable (and therefore controllable) may be a fundamental architectural question about the mind-brain interface.
 
@@ -170,6 +170,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [wholeheartedness-void](/voids/wholeheartedness-void/) — What "stable preferences that move action" leaves out: the felt seam of identification the control frame cannot recover
 - [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/) — When selection diverges from the agent's own better judgement
 - [the-divided-will](/topics/the-divided-will/) — Partitioned and distributed architectures that predict akratic divergence with no single controller
+- [self-control-as-skill-and-scaffolding](/concepts/self-control-as-skill-and-scaffolding/) — Skilled self-control as a shift from correcting disturbances to removing them, a fit that does not discriminate a non-physical controller
 
 ## References
 

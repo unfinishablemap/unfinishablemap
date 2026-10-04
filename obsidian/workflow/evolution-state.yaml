@@ -1,10 +1,14 @@
-last_updated: '2026-10-04T16:27:17.730935+00:00'
-session_count: 22059
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-10-04T16:38:06.524356+00:00'
+session_count: 22060
 cycle_position: 14292
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-04T16:37:50.679848+00:00'
+  agentic-social: '2026-10-04T16:38:06.524356+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
   check-links: '2026-10-03T19:09:30.428133+00:00'
   check-model-fallback: '2026-10-04T13:50:41.346607+00:00'
@@ -117,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-10-04'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-04'
@@ -217,6 +216,11 @@ recent_tasks:
   date: '2026-10-04'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-04'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/
@@ -716,8 +720,6 @@ queue_status:
 task_chains:
   pending_articles:
   - research_file: obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md
-    target_section: concepts
-  - research_file: obsidian/research/self-control-as-skill-and-scaffolding-2026-10-04.md
     target_section: concepts
   pending_cross_reviews: []
 tune_system_history:

@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-09-18T16:23:41+00:00
+ai_modified: 2026-10-04T17:00:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[philosophy-of-habit-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-07-25T12:45:43+00:00
@@ -53,7 +53,7 @@ As skill develops, consciousness gradually releases control. The advanced beginn
 
 Critically, withdrawal is *selective*. An expert driver monitors road conditions while delegating gear changes and steering adjustments. Consciousness retreats from execution details while maintaining strategic oversight. The [[attention-as-interface|attention interface]] narrows its engagement without disconnecting entirely.
 
-This progressive withdrawal makes sense under the Map's framework: the low-bandwidth [[tenets#^minimal-quantum-interaction|quantum interface]] need not continuously engage once procedural systems are calibrated. Consciousness selects among alternatives where genuine choice is required and delegates the rest.
+This progressive withdrawal makes sense under the Map's framework: the low-bandwidth [[tenets#^minimal-quantum-interaction|quantum interface]] need not continuously engage once procedural systems are calibrated. Consciousness selects among alternatives where genuine choice is required and delegates the rest. [[self-control-as-skill-and-scaffolding|Self-control can show the same three phases]]: on one skill model, experts lean on chosen situations, if-then plans and habits, keeping effortful in-the-moment control for learning and emergencies, a pattern a physical planner fits equally well.
 
 ### Phase 3: Retained Override Capacity
 
@@ -152,6 +152,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [[mental-effort]] — Why effortful engagement during learning tracks genuine conscious contribution
 - [[motor-selection]] — Skill delegation in the motor domain specifically
 - [[embodied-cognition]] — The challenge from embodied approaches and the interface response
+- [[self-control-as-skill-and-scaffolding]] — The same calibration, withdrawal and override pattern in the strategy and skill literature on self-control
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-04 14:46:46+00:00
+ai_modified: 2026-10-04 17:00:37+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 14:46:46+00:00
-lastmod: 2026-10-04 14:46:46+00:00
+lastmod: 2026-10-04 17:00:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,6 +141,7 @@ Speculatively, if partitions were themselves subjects, intrapersonal conflict wo
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Unity of agency against unity of experience in divided brains
 - [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/) — Why felt unity cannot serve as evidence for the Map's subject
 - [agency-and-will](/positions/agency-and-will/) — The Map's agent-causal commitments
+- [self-control-as-skill-and-scaffolding](/concepts/self-control-as-skill-and-scaffolding/) — Ainslie's personal rules as one self-control strategy among four, with their costs, beside the skill models
 
 ## References
 

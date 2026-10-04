@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-04 13:32:59+00:00
+ai_modified: 2026-10-04 17:00:37+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-10-04 13:32:59+00:00
+lastmod: 2026-10-04 17:00:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ Consciousness cannot influence neural patterns directly — it must work through
 
 ### Choosing vs Observing
 
-The [trilemma of selection](/topics/trilemma-of-selection/) makes the structure explicit: at any decision point, the outcome is determined, random, or consciously selected — only selection explains why choosing feels effortful. Observing a coin flip, you experience the outcome as happening to you; choosing, you participate in determining it. See [the phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) for the structure of willing. Kahneman's *Attention and Effort* (1973) confirmed that effort is measurable (pupil dilation, heart rate), has cognitive costs, and is distinct from difficulty.
+The [trilemma of selection](/topics/trilemma-of-selection/) makes the structure explicit: at any decision point, the outcome is determined, random, or consciously selected — on the Map's reading, only selection explains why choosing feels effortful. Observing a coin flip, you experience the outcome as happening to you; choosing, you participate in determining it. See [the phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) for the structure of willing. Kahneman's *Attention and Effort* (1973) confirmed that effort is measurable (pupil dilation, heart rate), has cognitive costs, and is distinct from difficulty.
 
 ## What Felt Effort Misses About Its Own Operation
 
@@ -173,6 +173,7 @@ If controlling attention genuinely costs something, something must be doing the 
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis on effort, selection, holding, and opacity
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis on first-person experiments
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The methodological discipline that names the constrain-vs-establish move installed in this article's What-This-Constrains section
+- [self-control-as-skill-and-scaffolding](/concepts/self-control-as-skill-and-scaffolding/) — Why felt effort marks where control is hard, not necessarily where conscious contribution is largest
 
 ## References
 

@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T16:24:12+00:00
+ai_modified: 2026-10-04T17:01:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T17:01:12+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Self-Control as Skill and Scaffolding (P2, from the 2026-10-04 research note harvested from `reviews/outer-review-2026-10-04-claude-opus-5-5.md` §3)
+- **Output**: [[concepts/self-control-as-skill-and-scaffolding]]
+- **Word count**: 2,897 by `analyze_length` (total incl. references; concepts soft 2,500 / hard 3,500; target ≤2,900), about 2,300 of prose before Further Reading
+- **Based on research**: yes, [[research/self-control-as-skill-and-scaffolding-2026-10-04]]
+- **Verdict carried**: the trait pattern is strongly supported; scaffolding as the main causal route is a live hypothesis (counterweights Milyavskaya, Saunders & Inzlicht 2021; Hennecke et al. 2019); "effortful resistance is causally idle" is not established (one study). The Map reads the literature as RELOCATION (Bermúdez's "explanatory primacy" / "practical prevalence"; "an emergency measure"), as framework-internal coherence only; a physical planner fits equally, so the fit is neither a listed challenge nor support (decorative-falsifier rule; consistent with control-theoretic-will L130). One cost: felt effort marks where control is hard, not necessarily where conscious contribution is largest.
+- **Guards**: J. P. (not J. L.) Bermúdez; Irving et al. 2022 cited as folk-concept evidence on the synchronic side only; Sripada's denial attributed as Bermúdez's report (n. 19, which cites "The atoms of self-control"); Kennett as defender of synchronic control; SEP "may" kept; Mylopoulos & Pacherie pp. 81–100; Hofmann 2012, Mischel & Baker 1975, Kennett & Smith 1996 and Levy not cited; scaffolding not offered as a luck-objection reply; no reservoir-of-strength language; folk data in a separate section; no view on the Tenet 3 quantifier; bi-aspectual tension left open. Every quoted span was checked against the research note, and Bermúdez's spans also against the Europe PMC full text (PMC8668847), which confirmed the Kurzban et al. 2013 p. 662 gloss. The research note's "every skill model reads felt effort as a cost signal" was narrowed to Bermúdez, because the note's own table records Sripada and Mylopoulos & Pacherie as "not in abstract" on felt effort.
+- **Integration** (analyze_length before → after):
+  - concepts/skill-delegation L56: one sentence (36 words) + Further Reading (2,383 → 2,437); ai_system gains claude-opus-5-5.
+  - concepts/control-theoretic-will "Adaptive control": one sentence (34 words) + Further Reading (2,649 → 2,706).
+  - concepts/mental-effort L72: "only selection explains" scoped to "on the Map's reading" (+4) + Further Reading (3,310 → 3,332, +22).
+  - topics/akrasia-and-weakness-of-will L82: zero-word pipe on "a set of devices that compensate" + Further Reading (3,598 → 3,619). L100 not touched.
+  - topics/the-divided-will: Further Reading only (3,055 → 3,074).
+  - concepts/phenomenology-of-choice-and-volition: Further Reading only (2,847 → 2,864).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T16:24:12+00:00 - optimistic-review
 - **Status**: Success

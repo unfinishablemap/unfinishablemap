@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-10-03T12:40:33+00:00
+ai_modified: 2026-10-04T17:00:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -180,6 +180,7 @@ The framework would face serious difficulty if: (1) trained introspectors report
 - [[cross-cultural-phenomenology-of-agency]] — Invariants of volitional experience across cultures
 - [[phenomenology-of-consciousness-doing-work]] — The broader case for consciousness doing work
 - [[consciousness-and-causal-powers]] — The full case for conscious causal efficacy
+- [[self-control-as-skill-and-scaffolding]] — What the skill literature implies for reading felt effort as evidence of conscious contribution
 
 ## References
 

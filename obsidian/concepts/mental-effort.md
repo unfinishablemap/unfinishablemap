@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-10-04
 human_modified: null
-ai_modified: 2026-10-04T13:32:59+00:00
+ai_modified: 2026-10-04T17:00:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -69,7 +69,7 @@ Consciousness cannot influence neural patterns directly — it must work through
 
 ### Choosing vs Observing
 
-The [[trilemma-of-selection|trilemma of selection]] makes the structure explicit: at any decision point, the outcome is determined, random, or consciously selected — only selection explains why choosing feels effortful. Observing a coin flip, you experience the outcome as happening to you; choosing, you participate in determining it. See [[phenomenology-of-choice-and-volition|the phenomenology of choice]] for the structure of willing. Kahneman's *Attention and Effort* (1973) confirmed that effort is measurable (pupil dilation, heart rate), has cognitive costs, and is distinct from difficulty.
+The [[trilemma-of-selection|trilemma of selection]] makes the structure explicit: at any decision point, the outcome is determined, random, or consciously selected — on the Map's reading, only selection explains why choosing feels effortful. Observing a coin flip, you experience the outcome as happening to you; choosing, you participate in determining it. See [[phenomenology-of-choice-and-volition|the phenomenology of choice]] for the structure of willing. Kahneman's *Attention and Effort* (1973) confirmed that effort is measurable (pupil dilation, heart rate), has cognitive costs, and is distinct from difficulty.
 
 ## What Felt Effort Misses About Its Own Operation
 
@@ -170,6 +170,7 @@ If controlling attention genuinely costs something, something must be doing the 
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis on effort, selection, holding, and opacity
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis on first-person experiments
 - [[evidential-status-discipline]] — The methodological discipline that names the constrain-vs-establish move installed in this article's What-This-Constrains section
+- [[self-control-as-skill-and-scaffolding]] — Why felt effort marks where control is hard, not necessarily where conscious contribution is largest
 
 ## References
 
