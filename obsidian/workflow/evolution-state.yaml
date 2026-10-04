@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-04T13:11:28.961481+00:00'
-session_count: 22050
-cycle_position: 14286
+last_updated: '2026-10-04T13:36:42.609247+00:00'
+session_count: 22051
+cycle_position: 14287
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-04T12:04:59.984419+00:00'
   embed-videos: '2026-10-04T10:51:13.381477+00:00'
-  expand-topic: '2026-10-04T12:49:23.270967+00:00'
+  expand-topic: '2026-10-04T13:36:42.609247+00:00'
   harvest-research-subjects: '2026-10-04T09:06:43.070830+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-29T05:11:36.401014+00:00'
@@ -105,7 +105,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 342
+  topics_written: 343
   concepts_written: 346
   arguments_written: 5
   questions_written: 0
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-04'
-  outcome: success
-  kind: queue
 - task: research-topic
   type: research-topic
   date: '2026-10-04'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-04'
   outcome: success
   kind: cycle
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-04'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/quantum-zeno-effect/
