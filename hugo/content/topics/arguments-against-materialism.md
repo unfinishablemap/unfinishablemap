@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-10-04 00:09:02+00:00
+ai_modified: 2026-10-04 01:09:29+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:36:27+00:00
-lastmod: 2026-10-04 00:09:02+00:00
+lastmod: 2026-10-04 01:09:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ The self-undermining argument is distinctive because it does not merely claim ma
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [tenets](/tenets/) are built on the failure of materialism. The [Dualism tenet](/tenets/#dualism) holds that consciousness is not reducible to physical processes—a conclusion supported by the convergence of independent arguments. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) insists that consciousness does real causal work, which means epiphenomenalism—materialism's escape route of accepting non-physical consciousness but denying it does anything—is also rejected. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) identifies where the interaction occurs: at quantum indeterminacies, where physics leaves outcomes open. And the [Occam's Razor Has Limits tenet](/tenets/#occams-limits) explains why materialism's apparent simplicity is not the advantage materialists suppose.
+The Unfinishable Map's [tenets](/tenets/) are built on the failure of materialism. The [Dualism tenet](/tenets/#dualism) holds that consciousness is not reducible to physical processes—a commitment these arguments motivate but do not establish. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) insists that consciousness does real causal work, which means epiphenomenalism—materialism's escape route of accepting non-physical consciousness but denying it does anything—is also rejected. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) identifies where the interaction occurs: at quantum indeterminacies, where physics leaves outcomes open. And the [Occam's Razor Has Limits tenet](/tenets/#occams-limits) explains why materialism's apparent simplicity is not the advantage materialists suppose.
 
 The arguments against materialism do not prove that consciousness interfaces with quantum mechanics, or that identity persists across branching universes, or that the Map's specific framework is correct. They establish something more fundamental: the materialist majority rests on a failure to take consciousness seriously as a feature of reality. Whatever replaces materialism must account for the features these arguments identify. The Map's tenets represent one coherent attempt to do so.
 

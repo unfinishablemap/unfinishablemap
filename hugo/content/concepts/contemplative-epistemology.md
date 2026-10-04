@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-10-03 15:40:00+00:00
+ai_modified: 2026-10-04 01:09:29+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:54:03+00:00
-lastmod: 2026-10-03 15:40:00+00:00
+lastmod: 2026-10-04 01:09:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,11 +141,11 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Contemplative epistemology provides the epistemic foundation for the Map's dualism. If first-person methods yield genuine knowledge about consciousness, and that knowledge reveals features—[qualia](/concepts/qualia/), phenomenal unity, the explanatory gap—that third-person methods cannot capture, then consciousness has properties irreducible to the physical. The epistemic gap supports the metaphysical gap. Honesty requires noting that contemplative methods also generate the strongest evidence *against* a substantial self—the convergent finding across traditions that the narrative ego is constructed. The Map's resolution distinguishes the constructed narrative self from the irreducible [witness](/concepts/witness-consciousness/) that persists when the ego dissolves (see [the three-layered self](/topics/the-self-minimal-narrative-and-substantial/)), but this is a philosophical interpretation of the data, not something the data forces.
+**[Dualism](/tenets/#dualism)**: Contemplative epistemology supplies evidence the Map's dualism draws on, not its foundation. If first-person methods yield genuine knowledge about consciousness, and that knowledge reveals features—[qualia](/concepts/qualia/), phenomenal unity, the explanatory gap—that third-person methods cannot capture, then consciousness has properties third-person description leaves out. The Map reads those properties as irreducible to the physical, though moving from an epistemic gap to a metaphysical one is the step the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) contests. Honesty requires noting that contemplative methods also generate the strongest evidence *against* a substantial self—the convergent finding across traditions that the narrative ego is constructed. The Map's resolution distinguishes the constructed narrative self from the irreducible [witness](/concepts/witness-consciousness/) that persists when the ego dissolves (see [the three-layered self](/topics/the-self-minimal-narrative-and-substantial/)), but this is a philosophical interpretation of the data, not something the data forces.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Contemplative training produces measurable neural changes (documented by [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)) that enhance observational capacity, which in turn reveals phenomenological structures invisible to untrained attention. Within the Map's framework, this loop illustrates what bidirectional interaction predicts: conscious attention reshaping the neural substrate that supports it. The "observer transforms the observed" problem—often cited as a liability—is at minimum *consistent* with bidirectional interaction, even if it does not independently establish it.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Contemplative training produces measurable neural changes (documented by [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)) that enhance observational capacity, which in turn reveals phenomenological structures invisible to untrained attention. Within the Map's framework, this loop is what bidirectional interaction would lead one to expect—conscious attention reshaping the neural substrate that supports it—though physical learning theories expect the same plasticity (see [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)). The "observer transforms the observed" problem—often cited as a liability—is at minimum *consistent* with bidirectional interaction, even if it does not independently establish it.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing contemplative evidence as "merely subjective" may reflect the false parsimony this tenet warns against. The Fox study's logarithmic experience gradient—correlational, as the scope note above records—suggests that apparent unreliability diagnoses the untrained default, not a fundamental limit. Two millennia of systematic contemplative investigation across independent civilisations have produced convergent structural findings about consciousness. Discarding this evidence because it does not conform to third-person methodology is not simplicity—it is the loss of data available from no other source.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing contemplative evidence as "merely subjective" may reflect the false parsimony this tenet warns against. The Fox study's logarithmic experience gradient—correlational, as the scope note above records—suggests that apparent unreliability diagnoses the untrained default, not a fundamental limit. Two millennia of systematic contemplative investigation across independent civilisations have produced convergent structural findings about consciousness. Discarding this evidence because it does not conform to third-person methodology buys no simplicity; it loses data available from no other source.
 
 ## Further Reading
 

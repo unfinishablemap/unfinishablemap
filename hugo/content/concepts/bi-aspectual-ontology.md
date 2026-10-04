@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-10-03 13:55:36+00:00
+ai_modified: 2026-10-04 01:09:29+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 23:26:00+00:00
-lastmod: 2026-10-03 13:55:36+00:00
+lastmod: 2026-10-04 01:09:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The Map's position sounds similar to dual-aspect monism but differs on a point t
 
 Spinoza held that Thought and Extension are two attributes of a single substance (God/Nature). Scholars characterise these attributes as "explanatorily self-contained" with a conceptual barrier between them — physical changes must be explained by physical items, ideas by other ideas (Spinoza 1677; cf. Della Rocca 2008). Mental events track physical events not because they interact but because both express the same underlying substance. There is no causal interaction between attributes — by design.
 
-The Map rejects this parallelism. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) requires that consciousness causally select among physical outcomes. If mental and physical aspects merely run in parallel without interaction, consciousness becomes [epiphenomenal](/concepts/epiphenomenalism/) — unable to account for our ability to discuss and report on our own experience. The Map rejects [causal closure](/concepts/causal-closure/) at quantum indeterminacies precisely to avoid this outcome.
+The Map rejects this parallelism. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) requires that consciousness causally select among physical outcomes. If mental and physical aspects merely run in parallel without interaction, consciousness becomes [epiphenomenal](/concepts/epiphenomenalism/), and our reports about experience would be reliable only in virtue of the parallel — a reply the Map judges to rest on a contested premise rather than one it can refute ([Tenet 3](/tenets/#bidirectional-interaction)). The Map rejects [causal closure](/concepts/causal-closure/) at quantum indeterminacies precisely to avoid this outcome.
 
 ### Pauli-Jung Complementarity
 
@@ -146,7 +146,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is presupposed here rather than derived: the tenet rests on the indexical objection, and single actuality is the [background posit](/tenets/background-commitments/) this ontology inherits from it. Many-worlds, keeping all outcomes, leaves actuality no role.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological commitment. A bi-aspectual ontology is more complex than pure physicalism. But physicalism achieves its simplicity by treating the hard problem as a problem to be dissolved rather than a boundary to be respected. The additional complexity reflects the Map's commitment to treating consciousness as ontologically fundamental — a commitment motivated by the hard problem's resistance to structural resolution, not by a preference for complexity.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** keeps the ontology's extra weight from counting against it, and no further. A bi-aspectual ontology is more complex than pure physicalism, but where knowledge is this incomplete simplicity decides neither for nor against either picture; the added complexity answers to the hard problem's resistance to structural resolution, not to a preference for complexity.
 
 ## Further Reading
 

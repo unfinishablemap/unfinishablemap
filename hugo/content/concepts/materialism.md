@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-02 11:58:46+00:00
+ai_modified: 2026-10-04 01:09:29+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 19:37:59+00:00
-lastmod: 2026-10-02 11:58:46+00:00
+lastmod: 2026-10-04 01:09:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -150,11 +150,11 @@ Problem: past scientific progress explained phenomena by showing *how* they foll
 
 Dualism doesn't explain consciousness either—it just posits a soul or mental substance and leaves the hard problem equally unsolved. If materialism is stuck with mystery, so is everyone else.
 
-Problem: the Map doesn't claim to *explain* consciousness. The [Dualism](/tenets/#dualism) tenet holds that consciousness is fundamental, not derived from anything else. Materialism claims consciousness derives from the physical—and must explain how. Dualism makes no such claim—but it does face its own explanatory burden.
+Problem: the Map doesn't claim to *explain* consciousness. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes. Materialism claims consciousness derives from the physical—and must explain how. Dualism makes no such claim—but it does face its own explanatory burden.
 
-The interaction problem is genuine and serious. If consciousness is ontologically distinct from the physical, how does it causally engage with neural processes? Descartes located the interaction at the pineal gland, but no anatomical site resolves the conceptual difficulty: causal relations between categorically different substances lack any model or precedent in our experience. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases otherwise undetermined quantum outcomes—but this specifies *where* interaction occurs, not *how* a non-physical entity exerts causal influence on physical systems. The "how" remains genuinely open.
+The interaction problem is genuine and serious. If consciousness is ontologically distinct from the physical, how does it causally engage with neural processes? Descartes located the interaction at the pineal gland, but no anatomical site resolves the conceptual difficulty: causal relations between categorically different relata lack any model or precedent in our experience. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases otherwise undetermined quantum outcomes—but this specifies *where* interaction occurs, not *how* a non-physical entity exerts causal influence on physical systems. The "how" remains genuinely open.
 
-What the Map maintains is that the interaction problem and the hard problem are not symmetrical. The hard problem asks materialism to do something its own framework rules out: derive subjective experience from objective description. The interaction problem asks dualism to explain a causal relationship between two kinds of substance—difficult, but not the same as explaining how one kind of thing secretly *is* another kind of thing. Causal relations between unlike relata are common (gravity acts between masses and spacetime geometry); what would count as a satisfactory mechanism for mental causation is unclear, but the request is intelligible. In contrast, no one has articulated what would even count as a materialist derivation of experience from non-experiential properties. The asymmetry is not that dualism escapes criticism, but that the two problems differ in kind.
+What the Map maintains is that the interaction problem and the hard problem are not symmetrical. The hard problem asks materialism to do something its own framework rules out: derive subjective experience from objective description. The interaction problem asks dualism to explain a causal relationship between two irreducible kinds—difficult, but not the same as explaining how one kind of thing secretly *is* another kind of thing. Causal relations between unlike relata are common (gravity acts between masses and spacetime geometry); what would count as a satisfactory mechanism for mental causation is unclear, but the request is intelligible. In contrast, no one has articulated what would even count as a materialist derivation of experience from non-experiential properties. The asymmetry is not that dualism escapes criticism, but that the two problems differ in kind.
 
 ### "Phenomenal Concepts"
 
@@ -176,7 +176,7 @@ Process philosophy (Whitehead), [panpsychism](/concepts/panpsychism/), and [idea
 
 Materialism is the Map's primary opponent. Understanding its failure motivates the [tenet framework](/tenets/):
 
-**[dualism](/concepts/dualism/)** is accepted because materialism fails. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. Consciousness must be something beyond the physical. See [dualism](/concepts/dualism/) for the positive case.
+**[dualism](/concepts/dualism/)** is the Map's chosen response to materialism's failures as the Map judges them. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. The Map takes consciousness to be something beyond the physical—a commitment it owns rather than a result it reports. See [dualism](/concepts/dualism/) for the positive case.
 
 **Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/concepts/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 
@@ -184,7 +184,7 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 **Occam's Razor Has Limits** explains why materialism's apparent simplicity is misleading. [Parsimony epistemology](/concepts/parsimony-epistemology/) shows that "simplicity" fragments into competing dimensions—ontological, syntactic, and explanatory—that yield contradictory verdicts.
 
-The [full case against parsimony](/arguments/epistemological-limits-of-occams-razor/) shows that the precondition for applying Occam's Razor—theories of equal explanatory power—is unmet in the consciousness debate, and that scientific parsimony's justifications don't transfer to metaphysical theory choice. Materialism seems simpler because it ignores what it cannot explain.
+The [full case against parsimony](/arguments/epistemological-limits-of-occams-razor/) shows that the precondition for applying Occam's Razor—theories of equal explanatory power—is unmet in the consciousness debate, and that scientific parsimony's justifications don't transfer to metaphysical theory choice. Materialism seems simpler because it ignores what it cannot explain; the same limit bars parsimony from counting in dualism's favour.
 
 **No Many Worlds** matters here because the [many-worlds interpretation](/concepts/many-worlds/) of quantum mechanics is often presented as supporting materialism by eliminating the need for consciousness at collapse. If all outcomes occur in branching universes, no selection is needed—and thus no role for consciousness. The Map's objection turns on an indexical question: with all branches equally real, what makes *this* branch the one I experience? It would be question-begging to assert that this question is simply as hard as the hard problem, because a version of it—*why am I this person rather than another?*—arises for every theory, dualism included. The Oxford Everettians (Simon Saunders, David Wallace) meet it head-on: branching, they argue, generates *self-locating uncertainty* that personal-identity theory handles much as ordinary indexical questions are handled, with no need to single out one branch as metaphysically privileged.
 
