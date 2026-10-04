@@ -39,6 +39,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Partitioned and distributed minds as rivals to a unitary selector
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-10-04-claude-opus-5-5.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Both 2026-10-04 outer reviews of akrasia say the strongest objection is missing: recurrent judgement/action divergence may count AGAINST a single personal controller (ChatGPT §3.1, 'The Map needs to show that a personal selector explains this fragmentation better than a distributed architecture rather than merely being compatible with it'). Claude §3 names the worked naturalistic rivals the Map never engages: Davidson's own 'Paradoxes of Irrationality' (1982) partitioned mind (0 corpus hits), Ainslie's picoeconomics and hyperbolic discounting with intertemporal bargaining (1 passing mention), and multiple-systems/dual-process accounts. A dedicated page would give the Map's selection vocabulary its strongest rival and test whether any discriminating prediction exists; the akrasia refine tasks can only gesture at it within their word budgets. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector-2026-10-04.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-04
+
+### P3: Research Self-control as skill and scaffolding
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-10-04-claude-opus-5-5.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Claude 2026-10-04 §3: 'The present-day empirical literature on self-control says diachronic and scaffolded strategies, not synchronic effort, do most of the work', naming Kennett (2001), Sripada (Irving et al. 2022 Cognition), Duckworth's situational strategies, Bermúdez's skill model and Mylopoulos & Pacherie (2020) - all absent or near-absent from the corpus (Kennett, Duckworth-situational, skill-model 0 hits). ChatGPT's coverage task lists the same SEP 2025-09 skill-model material as optional. This undercuts an 'effortful controller' picture across mental-effort, volitional control and akrasia pages, and needs one concept home those pages can link rather than each re-deriving it. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/self-control-as-skill-and-scaffolding-2026-10-04.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'self-control-as-skill-and-scaffolding' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-04
+
 ### P3: Research Kant's practical postulates and the Map's posits
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-04-subject-and-individuation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04-subject-and-individuation-wing: 0 live hits for 'practical postulate'; no page joins Kant's postulates (freedom, immortality, God: undemonstrable, attached to the moral law, extending no theoretical cognition) to the Map's openly held posits (persisting subject, single-outcome actualisation, global exclusion) and Tenet 5 as a named premise; the 10-03 Kant deep review deferred a 30-word version for lack of room. The Map's subject posit, unlike Kant's postulates, might gain empirical determination through the subject index. Leads: Critique of Practical Reason, Dialectic, 'On the postulates of pure practical reason in general' (Akademie 5:132 is a lead; verify); topics/kants-paralogisms-and-the-maps-subject L108; tenets/background-commitments. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/kants-practical-postulates-and-the-maps-posits-2026-10-04.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'kants-practical-postulates-and-the-maps-posits' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1955,16 +1967,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-03
 - **Notes**: [P-AC3](/positions/ai-consciousness-scope/#p-ac3) says "each copy is a numerically distinct subject, so the moral weight is additive" — the review (and the numbing-void P2) show numerical distinctness ([P-I1](/positions/individuation-and-subjecthood/#p-i1) / closed individualism) does NOT by itself yield additivity: Lewis and Taurek count separate sufferers too and deny summing. Make [P-AC3](/positions/ai-consciousness-scope/#p-ac3) state its counting rule (separate bads add although no one bears the sum) as its own premise, and add anti-aggregation views (Taurek 1977 in its standard form — Taurek was NOT read: do not quote him; cite Piller 2026 for the restatement as voids/numbing-void does) to its "Would shift if". Related seam (report, do not edit unless trivially in scope): topics/phenomenal-value-realism ~L181 ("token-based", "not interchangeable") leans toward Taurek. LENGTH: 3,076 by analyze_length at 23:40Z (positions hard 2,500 / critical 4,000; the register breaches the hard threshold by design — stay under 4,000); add the register's mandatory dated `Updated` note; keep the edit ≤ +60 words. No confidence-band change unless argued. Do not touch the Tenet 3 quantifier lines (operator-referred).
 
-### P2: personal-identity L105 says the seeming of haecceity "shifts the burden" — the move the Kant page's first exposure diagnoses; net-negative fix (optimistic-2026-10-04 Priority item 1)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/personal-identity.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-04 01:50Z (subject/individuation wing), minted by the driver 02:05Z
-- **Review file**: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-04-subject-and-individuation-wing.md
-- **Generated**: 2026-10-04
-- **Notes**: Apply the review's §Priority list item 1 using its EXACT old/new text: L105 (the seeming of haecceity "shifts the burden") → "This doesn't prove haecceity. It opens room for the posit; the [seeming it starts from](/topics/kants-paralogisms-and-the-maps-subject/#three-exposures), which rivals predict too, shifts no burden."; L93 "Four considerations support the inference:" → "Four considerations bear on it:". The old L105 contradicts [P-I1](/positions/individuation-and-subjecthood/#p-i1)'s grade D, the Kant page's first exposure (felt mine-ness used as evidence) and this page's own L155. LENGTH: 4,043 by analyze_length at 02:05Z — OVER the topics hard gate under a NEEDS-HUMAN length block: NET-NEGATIVE ONLY (the review's edit is −3 → 4,040). Re-locate by quoted text. Do not edit tenets.md or positions/.
-
 ### P3: Point the subject wing at the Kant page — indexical-identity-quantum-measurement L143/L153, haecceity L171, emergent-dualism L50 (optimistic-2026-10-04 Priority items 2 and 4)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/indexical-identity-quantum-measurement.md
@@ -2058,6 +2060,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-04: personal-identity L105 says the seeming of haecceity "shifts the burden" — the move the Kant page's first exposure diagnoses; net-negative fix (optimistic-2026-10-04 Priority item 1)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/personal-identity.md
+- **Notes**: Apply the review's §Priority list item 1 using its EXACT old/new text: L105 (the seeming of haecceity "shifts the burden") → "This doesn't prove haecceity. It opens room for the posit; the [seeming it starts from](/topics/kants-paralogisms-and-the-maps-subject/#three-exposures), which rivals predict too, shifts no burden."; L93 "Four considerations support the inference:" → "Four considerations bear on it:". The old L105 contradicts [P-I1](/positions/individuation-and-subjecthood/#p-i1)'s grade D, the Kant page's first exposure (felt mine-ness used as evidence) and this page's own L155. LENGTH: 4,043 by analyze_length at 02:05Z — OVER the topics hard gate under a NEEDS-HUMAN length block: NET-NEGATIVE ONLY (the review's edit is −3 → 4,040). Re-locate by quoted text. Do not edit tenets.md or positions/.
 
 ### ✓ 2026-10-04: Research Quasi-memory and the circularity objection to memory criteria
 - **Type**: research-topic
