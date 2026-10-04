@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T10:36:17+00:00
+ai_modified: 2026-10-04T11:25:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T11:25:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/control-theoretic-will]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted two-locus fix plus one sibling
+- **Source**: P2 queue task from [[reviews/outer-review-2026-10-04-chatgpt-5-6-sol-pro]] §2.8 and §5 "Control-Theoretic Will", improvements 20–21
+- **Changes**:
+  1. RTSP Dualism (L130): "concrete and testable" → "concrete and functionally testable", plus one sentence: the operations, the stability analysis and the degradation patterns "would come out the same under a physical controller, and no current prediction separates a non-physical controller from a physical one: the Map owes that test and does not yet have it" (register of [[topics/volitional-control]] L108–L112 and [[voids/preference-void]] L111). The discriminator option was not taken: the only candidate locus is the table's actuator row, where P-Q2 makes the unconditioned marginal non-discriminating by construction and P-Q3 rates conditional structure only "indirect", so no observation could be stated honestly at this page's level. Same paragraph, §2.8: "gives reason to treat the controller as ontologically separate" → "gives reason to treat consciousness as ontologically separate" (the hard problem supports non-reduction, not controllership; 0 words), and "looks like" → "would look like".
+  2. L144: the akrasia sentence moved out of "Stability conditions" into a new open question, "**Akratic signal mapping.**" (116 words). Candidate mapping: all-things-considered judgement = reference signal; which prepared action reaches threshold = controlled variable; present felt pull = disturbance; phenomenal experience of both = feedback; selection mechanism = actuator. Why a controller would leave its setpoint: on this mapping it should not, so either felt pull is a second reference tracked at action time (a refusal; zero-word pipe to the valence page's value-sensitive horn) or its authority fails against that particular pull (a failure; candidate-relative, no general-strength language). A distributed architecture predicts the divergence that a unitary controller only accommodates. "is the paradigm case where the controller's selection diverges" → "selection reportedly diverges". The 2026-07-09 guard ("whether that divergence needs a non-physical controller is exactly what akrasia leaves open") is kept as "The mapping is open, as is whether any reading needs a non-physical controller." The moral-responsibility sentence stays at the end of "Stability conditions", where its failure/refusal pair now feeds the mapping.
+  3. Sibling overclaim, RTSP Occam (L138): "complexity that earns its keep" credited the non-physical controller with stability that any controller supplies, against the page's own L122 concession. Rewritten: "a physical controller supplies that stability too, so stability does not pay for the posit. The tenet's work is narrower: it blocks dismissing the posit on grounds of simplicity alone."
+- **Sibling loci checked, unchanged**: description frontmatter (no testability claim); lead L33–L35 ("interpretive lens"; "could make the Map's claims more precise" claims precision, not testability); L102 stability analysis ("may be interpretable", hedged and functional); L104 degradation modes (true as a functional claim, and now named as functional in the Dualism paragraph); L118, L122, L126 (already calibrated).
+- **Length** (`analyze_length`): 2,497 → 2,634 (+137; budget +150; concepts soft 2,500, hard 3,500; status now soft_warning, 866 below hard)
+- **Engagement classification**: physicalist adopter of the framing (RTSP Dualism): Mode Three; the framework boundary is noted, and no in-framework refutation is claimed. Distributed-architecture rival (new L144 paragraph): Mode Three; the rival is credited with predicting what a unitary controller only accommodates, and the question is left open.
+- **Not touched**: the Tenet 3 actual-vs-capacity quantifier (referred to the operator; no claim that all consciousness is causally efficacious). L124 still says the controller-distinctness commitment "comes from" the independent arguments for dualism; that is consistent with the revised L130 but stronger, and is left for a later pass. `the-divided-will` is not linked (it does not exist). Ainslie is not cited (budget; the akrasia page carries Ainslie 2001).
+- **Frontmatter**: `ai_modified` set; `+claude-opus-5-5` appended to `ai_system`
+- **Model**: claude-opus-5-5
+- **Published**: yes
 
 ## 2026-10-04T10:36:17+00:00 - refine-draft
 - **Status**: Success

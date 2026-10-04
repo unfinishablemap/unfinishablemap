@@ -1982,16 +1982,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-04
 - **Notes**: Apply the review's §Priority list item 3 using its exact text: a third failure mode after L71 — an article argues from felt unity, felt mine-ness or memory to the persisting subject, whereas the subject is posited, not inferred (the Kant page's "posited, not inferred" verdict and its three exposures) — plus a Further Reading entry for topics/kants-paralogisms-and-the-maps-subject (which cites this page twice and gets nothing back). Cost +76 (1,891 → ~1,967; concepts hard 3,500, gate `>=`). Do NOT resolve the bi-aspectual "aspects vs persisting subject" open tension this page links to (operator-referred); the new failure mode is about inference, not about which ontology supplies the subject. Do not edit concepts/bi-aspectual-ontology or tenets.md.
 
-### P2: `topics/valence-and-conscious-selection` L49 still says akratic selection "demonstrably diverges" — the akrasia page dropped "demonstrably" on 2026-08-26 and the correction never reached here (length-neutral; the file is over its hard gate)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/valence-and-conscious-selection.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: outer-review
-- **Review file**: /home/andy/unfin/unfinishablemap/obsidian/reviews/outer-review-2026-10-04-chatgpt-5-6-sol-pro.md
-- **Generated**: 2026-10-04
-- **Notes**: From outer review 2026-10-04 (ChatGPT 5.6 Pro, §5 "Valence and the Mechanism of Conscious Selection"; improvement 18). Verified on disk: L49 reads "selection there demonstrably diverges from the agent's considered evaluation". The phrase entered on 2026-07-09 with the akrasia expand-topic cross-link (git log -S). deep-review-2026-08-26-akrasia-and-weakness-of-will softened the source page's matching "demonstrably" to "by the agent's own report", because that article's Socratic section treats the datum's reality as contested. The correction never reached this page. Strict akrasia is *reported* as a divergence. Whether the considered evaluation was still held at action time is disputed: Holton's judgement shift, and constructed preferences (see [preference-void](/voids/preference-void/)). Replace "demonstrably" with wording at the source page's level, such as "by the agent's own report" or "reportedly". LENGTH: analyze_length gives 4,341 words against a topics hard limit of 4,000. The file is already over its gate, so this edit must be net ≤ 0 words; if the new phrase is longer, trim a redundant clause in the same paragraph. Leave the rest of L49 intact. Its value-blind/value-sensitive horn analysis already covers the present-felt-pull reading the reviewer asks for. Touch no other locus. Run scripts/sync.py.
-
 ### P2: `concepts/control-theoretic-will` L130 says the framing makes dualist interaction "concrete and testable" without any test a physical controller would fail, and its akrasia open question (L144) never maps the control signals
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/control-theoretic-will.md
@@ -2054,6 +2044,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-04: `topics/valence-and-conscious-selection` L49 still says akratic selection "demonstrably diverges" — the akrasia page dropped "demonstrably" on 2026-08-26 and the correction never reached here (length-neutral; the file is over its hard gate)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/valence-and-conscious-selection.md
+- **Notes**: From outer review 2026-10-04 (ChatGPT 5.6 Pro, §5 "Valence and the Mechanism of Conscious Selection"; improvement 18). Verified on disk: L49 reads "selection there demonstrably diverges from the agent's considered evaluation". The phrase entered on 2026-07-09 with the akrasia expand-topic cross-link (git log -S). deep-review-2026-08-26-akrasia-and-weakness-of-will softened the source page's matching "demonstrably" to "by the agent's own report", because that article's Socratic section treats the datum's reality as contested. The correction never reached this page. Strict akrasia is *reported* as a divergence. Whether the considered evaluation was still held at action time is disputed: Holton's judgement shift, and constructed preferences (see [preference-void](/voids/preference-void/)). Replace "demonstrably" with wording at the source page's level, such as "by the agent's own report" or "reportedly". LENGTH: analyze_length gives 4,341 words against a topics hard limit of 4,000. The file is already over its gate, so this edit must be net ≤ 0 words; if the new phrase is longer, trim a redundant clause in the same paragraph. Leave the rest of L49 intact. Its value-blind/value-sensitive horn analysis already covers the present-felt-pull reading the reviewer asks for. Touch no other locus. Run scripts/sync.py.
 
 ### ✓ 2026-10-04: Write article on immunity to error through misidentification — criterionless self-ascription, why thought insertion leaves it standing, and why it gives the Map's subject no support
 - **Type**: expand-topic

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-07-16 12:07:49+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-04 11:25:59+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:45:23+00:00
-lastmod: 2026-07-16 12:07:49+00:00
+lastmod: 2026-10-04 11:25:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,7 +131,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The Map's dualism is not derived from the control-theoretic framing but is *expressed through* it. The independent case for dualism (the hard problem, conceivability arguments, the explanatory gap) gives reason to treat the controller as ontologically separate from the plant. Control theory then specifies what this separation looks like in practice: a low-bandwidth, feedback-dependent regulatory relationship. The framing makes dualist interaction concrete and testable without itself being the argument for dualism.
+**[Dualism](/tenets/#dualism)**: The Map's dualism is not derived from the control-theoretic framing but is *expressed through* it. The independent case for dualism (the hard problem, conceivability arguments, the explanatory gap) gives reason to treat consciousness as ontologically separate from the plant. Control theory then specifies what this separation would look like in practice: a low-bandwidth, feedback-dependent regulatory relationship. The framing makes dualist interaction concrete and functionally testable without itself being the argument for dualism. The operations, the stability analysis and the degradation patterns above would come out the same under a physical controller, and no current prediction separates a non-physical controller from a physical one: the Map owes that test and does not yet have it.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Control theory naturally accommodates minimal intervention. A well-designed controller uses the smallest signal necessary to maintain desired behaviour. The ~10 bits/second bandwidth is not a limitation to be lamented but a design feature consistent with minimal coupling—consciousness exerts just enough influence to steer, no more.
 
@@ -139,13 +139,15 @@ Conflating the model with the ontology would be a category error—treating a us
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Control presupposes that the controller's output makes a difference—that selecting option A rather than B produces different outcomes. Under many-worlds, both outcomes occur; the control signal has no genuine effect. Real control requires real selection among genuinely exclusive alternatives.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Adding a controller to the brain's dynamics increases ontological complexity. But control theory demonstrates that systems without adequate control are unstable, oscillatory, or chaotic. The added complexity of a controller produces the stability and purposiveness that characterise conscious behaviour—complexity that earns its keep.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Adding a non-physical controller to the brain's dynamics increases ontological complexity. Control theory shows that systems without adequate control are unstable, oscillatory, or chaotic, but a physical controller supplies that stability too, so stability does not pay for the posit. The tenet's work is narrower: it blocks dismissing the posit on grounds of simplicity alone.
 
 ## Open Questions
 
 **Formal specification.** What exactly is the control law? The Map identifies the controller's existence and its bandwidth, but the mapping from phenomenal states to control outputs—the psychophysical control law—remains unspecified. [The psychophysical control law](/topics/the-psychophysical-control-law/) explores candidates, but none has been formalised in control-theoretic terms.
 
-**Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? [Akrasia](/topics/akrasia-and-weakness-of-will/)—acting against one's own better judgement—is the paradigm case where the controller's selection diverges from the agent's all-things-considered evaluative state, though whether that divergence needs a non-physical controller is exactly what akrasia leaves open. This connects to [moral responsibility](/concepts/attentional-economics/#implications-for-moral-responsibility)—control failures may carry different moral weight than control refusals.
+**Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? This connects to [moral responsibility](/concepts/attentional-economics/#implications-for-moral-responsibility)—control failures may carry different moral weight than control refusals.
+
+**Akratic signal mapping.** In [akrasia](/topics/akrasia-and-weakness-of-will/), selection reportedly diverges from the agent's all-things-considered evaluation. One candidate: that judgement is the reference signal, which prepared action reaches threshold is the controlled variable, present felt pull is the disturbance, phenomenal experience of both is the feedback, and the selection mechanism is the actuator. A controller should not drive the plant off its own setpoint, so either felt pull is a [second reference](/topics/valence-and-conscious-selection/#the-value-sensitive-horn-valence-as-selection-currency) it tracks at action time (a refusal) or its authority fails against that particular pull (a failure). A distributed architecture predicts the divergence with no single controller, where a unitary one only accommodates it. The mapping is open, as is whether any reading needs a non-physical controller.
 
 **Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. Schwartz & Begley (2002) document how directed mental effort produces measurable neuroplastic changes in OCD patients, suggesting the controller can reshape the plant it governs. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
 
