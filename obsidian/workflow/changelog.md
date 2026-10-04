@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T12:09:34+00:00
+ai_modified: 2026-10-04T12:47:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T12:47:27+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Quasi-memory and the circularity objection — Butler's objection, Shoemaker's reply, and why memory cannot certify the Map's posited subject
+- **Output**: [[concepts/quasi-memory-and-the-circularity-objection]]
+- **Word count**: 3,143 total by `analyze_length` (concepts soft 2,500 / hard 3,500; status soft_warning); prose before Further Reading 2,630 (target 2,200–2,700)
+- **Based on research**: yes, [[research/quasi-memory-and-the-circularity-objection-2026-10-04]]
+- **Map position**: compatible, no support either way. The Map posits its subject, so quasi-memory removes no premise it uses, but memory cannot certify which subject had an experience. The Map is committed to coherence via P-I4 ("full quasi-memories", Parfit p. 295), labelled the Map's reconstruction. The coherence critics (McDowell, Nichols) favour an embodied or animal subject. The aspect versus persisting-subject tension is left open.
+- **Quote verification**: Butler and Locke quotes grep-verified against Gutenberg #53346 and #10615 (Locke II.xxvii.13 is §15 there). Parfit §§80–81 grep-verified against archive.org OCR (`reasons-and-persons-derek-parfit_202601`). This settled the subject of "is a separable belief": "a belief that, unless they are delusions, they are about our own experiences". It also added the §81 sentences "cannot in fact be distinguished…" and "Unless we have other reasons…", cited by section because that ebook carries no print pagination. Shoemaker, Penelhum and McDowell: only the note's [S] spans. Abstract-level [A] items are attributed as abstracts. Evans is paraphrased via Parfit n. 15. Correction to the research note's Butler entry: the non-transfer premise appears twice in Dissertation I, once on plants and once in "Thirdly".
+- **Guards**: "quasi-memory" is credited as Shoemaker's term. Penelhum is credited with "retrocognition" only, and no 1970 priority is asserted. The article never says "Parfit's quasi-memory", "Parfit introduced", "coined" or attributes "q-memory". McDowell p. 375 is not quoted. Parfit p. 222 is framed as Parfit's statement of a reading. The direction is stated: a memory criterion *need not* presuppose identity. The article never presents felt mine-ness or the pastness quale as evidence. It makes no Tenet 3 quantifier claim. It contains no "This is not X. It is Y." construction and no "load-bearing". `topics:` holds bare slugs and is non-empty.
+- **Integration** (`analyze_length` before → after):
+  - voids/inaccessible-past L63: 2,786 → 2,792. The phrase "Parfit's 'quasi-memory'" now reads "quasi-memory, Shoemaker's term (1970), which Parfit made central", with a link on "quasi-memory".
+  - topics/personal-identity L101: 4,034 → 4,033. "marking a memory as genuinely *yours*" became a piped link on "presenting a memory as *yours*". Nothing else on the page changed.
+  - topics/kants-paralogisms-and-the-maps-subject L86: 3,457 → 3,547. A 59-word insertion covers Butler's non-transfer premise and Parfit's relay with n. 17, plus a link. Butler and Parfit were added as refs 12–13 and the self-cites renumbered 14–15.
+  - concepts/parfit-reductionism after L41: 2,371 → 2,532. A 133-word paragraph covers §80's reply to Butler and the Map's acceptance of coherence. Butler and Shoemaker 1970 were added to the references. This discharges outer-review-2026-05-10-claude-opus-4-7 Priority item 5.
+  - Zero-word piped links: phenomenology-of-memory-and-the-self L127 (3,996), mine-ness L124 (3,498), and immunity-to-error-through-misidentification L44 and L98 (2,925; no other change).
+  - archive/voids/past-self-void L96: "introduced" became "took up Shoemaker's".
+  - positions/ was not edited; P-I4's coherence dependence is left to positions-evolve.
+- **Task chain**: the quasi-memory entry was removed from task_chains.pending_articles by a line-targeted delete, and the YAML parses.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T12:09:34+00:00 - refine-draft
 - **Status**: Success

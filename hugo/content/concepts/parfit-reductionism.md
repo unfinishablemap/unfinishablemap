@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-20 23:49:37+00:00
+ai_modified: 2026-10-04 12:46:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 23:49:37+00:00
-lastmod: 2026-09-20 23:49:37+00:00
+lastmod: 2026-10-04 12:46:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,6 +42,8 @@ This view, developed primarily in *Reasons and Persons* (1984), transformed phil
 Parfit distinguishes the *persistence question* (what conditions make a person at t1 identical with a person at t2?) from the *question of what matters* (what grounds our practical concerns about identity?).
 
 His reductionist answer: personal identity consists in physical and psychological continuity, with no additional entity whose persistence constitutes identity. His surprising further claim: identity itself isn't what matters. What matters is Relation R—psychological connectedness and continuity with any cause. If someone has your memories, intentions, and character through some unusual process, they have what matters, even if technical identity fails.
+
+Parfit answers Joseph Butler's objection that memory presupposes identity and so cannot constitute it (§80). Following Sydney Shoemaker (1970), he defines [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/): an apparent memory causally dependent "in the right kind of way" on someone's past experience, of which ordinary memories are "a sub-class". Since its continuity "does not presuppose personal identity, it may be part of what constitutes personal identity" (1984, p. 222). The Map accepts that quasi-memory is coherent: on its own reconstruction, its verdict that a copy is a new subject needs the copy's accurate apparent memories to be quasi-memories rather than memories. What it rejects is the further step, that such continuity is what identity consists in. Memory, on the Map's reading, is evidence of identity, and evidence that cannot tell a persisting subject from a relay of subjects.
 
 Parfit supports this through thought experiments—teletransportation, fission, gradual neural replacement—designed to show identity is less determinate than we assume. If your brain hemispheres are transplanted into two bodies and both are psychologically continuous with you, any answer about which is "you" seems arbitrary. If your neurons are replaced one by one with silicon, no non-arbitrary threshold for identity failure presents itself.
 
@@ -164,6 +166,8 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 ## References
 
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+1. Butler, J. (1736). Of Personal Identity. Dissertation I, appended to *The Analogy of Religion*.
+1. Shoemaker, S. (1970). Persons and Their Pasts. *American Philosophical Quarterly*, 7(4), 269–285.
 1. Parfit, D. (1995). "The Unimportance of Identity." In *Identity*, ed. H. Harris. Oxford University Press.
 1. Swinburne, R. (1984). "Personal Identity: The Dualist Theory." In *Personal Identity*, eds. Shoemaker & Swinburne.
 1. Chisholm, R. (1976). *Person and Object*. Open Court.

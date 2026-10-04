@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-09-17 20:48:08+00:00
+ai_modified: 2026-10-04 12:46:21+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 22:56:00+00:00
-lastmod: 2026-09-17 20:48:08+00:00
+lastmod: 2026-10-04 12:46:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,7 +127,7 @@ De Brigard (2024) presses a challenge sharper than either test. He argues that a
 
 ## Mineness: synchronic feature or diachronic identity-ground?
 
-The earlier sections move from synchronic mineness—for-me-ness built into each present experience—to diachronic claims about a self persisting *through* remembering. Lane (2012), Guillot (2017), and Howell and Thompson (2017) argue from inside the phenomenological tradition that for-me-ness is too thin to ground numerical identity across experiences.
+The earlier sections move from synchronic mineness—for-me-ness built into each present experience—to diachronic claims about [a self persisting *through* remembering](/concepts/quasi-memory-and-the-circularity-objection/). Lane (2012), Guillot (2017), and Howell and Thompson (2017) argue from inside the phenomenological tradition that for-me-ness is too thin to ground numerical identity across experiences.
 
 The weak claim—every experience is given in the first-person mode—is Zahavian. The strong claim—the same numerically identical subject has all of *these* experiences and not others—is a metaphysical thesis the phenomenology underdetermines. The No-Many-Worlds inference requires the strong claim: bare for-me-ness is satisfied trivially across Everettian branches; the objection bites only if there is a fact about which for-someone is *me*.
 

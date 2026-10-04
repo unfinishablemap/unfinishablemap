@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-09-04
 human_modified: null
-ai_modified: 2026-10-04T08:52:20+00:00
+ai_modified: 2026-10-04T12:46:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,7 +98,7 @@ The starting point is phenomenological: introspection reveals what seems like ir
 
 3. **The explanatory gap**: Why does reductionism seem inadequate? Perhaps because it *is* inadequate—though conceptual confusion would produce the same persistent puzzlement.
 
-4. **The past-self argument**: The [[inaccessible-past]] reveals that we cannot access past conscious states, only reconstruct them from traces. Lossiness is not itself the argument—an informational account promises nothing about preservation, since information is routinely compressed, corrupted, or overwritten. The force lies in indexical non-recurrence: no stored fidelity delivers *numerical recurrence*, because yesterday's experience was undergone from an indexical position that does not come round twice, and the "pastness quale" marking a memory as genuinely *yours* registers that position without reproducing it. What memory cannot restage is *undergoing* rather than *representing*—the haecceity claim in temporal form.
+4. **The past-self argument**: The [[inaccessible-past]] reveals that we cannot access past conscious states, only reconstruct them from traces. Lossiness is not itself the argument—an informational account promises nothing about preservation, since information is routinely compressed, corrupted, or overwritten. The force lies in indexical non-recurrence: no stored fidelity delivers *numerical recurrence*, because yesterday's experience was undergone from an indexical position that does not come round twice, and the "pastness quale" [[quasi-memory-and-the-circularity-objection|presenting a memory as *yours*]] registers that position without reproducing it. What memory cannot restage is *undergoing* rather than *representing*—the haecceity claim in temporal form.
 
 **The error theory worry**: Could the sense of haecceity be a cognitive illusion? The usual reply—that a seeming requires a subject to whom it seems—is weaker than it looks; [[#the-illusionist-challenge|The Illusionist Challenge]] below explains why.
 

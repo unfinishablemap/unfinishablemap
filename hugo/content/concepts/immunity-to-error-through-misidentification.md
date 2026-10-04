@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-04 12:01:23+00:00
+ai_modified: 2026-10-04 12:46:21+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 12:01:23+00:00
-lastmod: 2026-10-04 12:01:23+00:00
+lastmod: 2026-10-04 12:46:21+00:00
 modified: *id001
 related_articles:
 - '[[self-opacity]]'
@@ -45,7 +45,7 @@ In the *Blue Book* (dictated 1933–34), Wittgenstein distinguished "two differe
 
 Shoemaker (1968) gave the thesis its name and canonical form. One cannot be mistaken in saying "I feel pain" because, "although I do know of someone that feels pain, I am mistaken in thinking that person to be myself" (p. 8). The reason is that no identification takes place: my use of "I" "is not due to my having identified as myself something" of which the predicate holds (p. 9), and self-awareness "does not involve what I have called 'being presented to oneself as an object'" (p. 15). He also distinguished "absolute" from merely "circumstantial" immunity (p. 8).
 
-Memory is the contested case. Shoemaker (1970) allowed memory judgements only "de facto immunity to error through misidentification" (p. 46). Shoemaker's quasi-memory, a memory-like state whose source could in principle be another person's experience, shows why: the immunity holds only because our memories in fact derive from our own pasts. Strawson had already counted "directly remembered" states as self-ascribed without criteria (1966, p. 165), and Evans, as García-Carpintero's (2024) abstract records, disputed Shoemaker's restriction. For the non-contingent kind, Annalisa Coliva (2002) speaks of self-ascriptions that are "logically IEM".
+Memory is the contested case. Shoemaker (1970) allowed memory judgements only "de facto immunity to error through misidentification" (p. 46). Shoemaker's [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/), a memory-like state whose source could in principle be another person's experience, shows why: the immunity holds only because our memories in fact derive from our own pasts. Strawson had already counted "directly remembered" states as self-ascribed without criteria (1966, p. 165), and Evans, as García-Carpintero's (2024) abstract records, disputed Shoemaker's restriction. For the non-contingent kind, Annalisa Coliva (2002) speaks of self-ascriptions that are "logically IEM".
 
 James Pryor (1999) distinguished several sorts of misidentification. In paraphrase: *de re* misidentification runs through a false identity belief about a particular object ("that person is me"); *wh*-misidentification runs through knowing only that someone or other is F and wrongly taking oneself to be the one. The Stanford Encyclopedia adds that immunity to wh-misidentification entails ordinary IEM but not conversely, so it "might legitimately be considered the more fundamental notion", as Pryor considers it (Smith 2024).
 
@@ -99,7 +99,7 @@ The Map's [Kant article](/topics/kants-paralogisms-and-the-maps-subject/) finds 
 
 **Unity read as simplicity.** Anscombe's "ten thinkers thinking in unison" is Kant's collective-bearer objection to the second paralogism (A352–353) put in the first person. Guaranteed self-reference, like the unity of a thought, cannot by itself show whether one thinker is in view or many thinking together.
 
-**The diachronic clause.** Because quasi-memory leaves memory only de facto immune, the immunity cannot certify that a remembering subject is the one who had the remembered experience. The Cartesian horn of Anscombe's dilemma yields at most "a stretch of" an ego. Neither reaches the persistence the Map's [first background posit](/tenets/background-commitments/) asserts.
+**The diachronic clause.** Because [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/) leaves memory only de facto immune, the immunity cannot certify that a remembering subject is the one who had the remembered experience. The Cartesian horn of Anscombe's dilemma yields at most "a stretch of" an ego. Neither reaches the persistence the Map's [first background posit](/tenets/background-commitments/) asserts.
 
 The Kant article's verdict stands: the Map *posits* its subject rather than inferring it, and IEM bears only on inferences. What IEM adds is a precise list of the arguments the posit must forgo.
 

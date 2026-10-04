@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-02-24
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-04T10:17:55+00:00
+ai_modified: 2026-10-04T12:46:21+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -121,7 +121,7 @@ The void is the epistemic residue that remains once the [[consciousness-and-the-
 
 ## What Mine-ness is Not
 
-**Mine-ness is not personal identity over time.** Personal identity asks what makes tomorrow's person the same as today's. Mine-ness operates within a single moment: the feature by which this present experience is mine *now*. The two come apart cleanly. A patient with severe dissociative identity might have intact mine-ness in each moment while diachronic identity is fractured. Conversely, a being with continuous personal identity could lose mine-ness during a depersonalised episode and recover it later.
+**Mine-ness is not personal identity over time.** Personal identity asks what makes tomorrow's person the same as today's. Mine-ness operates within a single moment: the feature by which this present experience is mine *now*. [[quasi-memory-and-the-circularity-objection|The two come apart cleanly]]. A patient with severe dissociative identity might have intact mine-ness in each moment while diachronic identity is fractured. Conversely, a being with continuous personal identity could lose mine-ness during a depersonalised episode and recover it later.
 
 **Mine-ness is not the sense of bodily ownership.** Bodily ownership—the sense that *this body* or *this limb* is mine, manipulable via the rubber hand illusion and similar paradigms—is a *sub-type* of mine-ness applied to the bodily domain. Mine-ness as a general phenomenal feature extends to thoughts, perceptions, and memories that have no bodily location.
 

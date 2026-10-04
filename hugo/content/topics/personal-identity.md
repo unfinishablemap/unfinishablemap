@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-04 08:52:20+00:00
+ai_modified: 2026-10-04 12:46:21+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 17:03:11+00:00
-lastmod: 2026-10-04 08:52:20+00:00
+lastmod: 2026-10-04 12:46:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ The starting point is phenomenological: introspection reveals what seems like ir
 
 3. **The explanatory gap**: Why does reductionism seem inadequate? Perhaps because it *is* inadequate—though conceptual confusion would produce the same persistent puzzlement.
 
-4. **The past-self argument**: The [inaccessible-past](/voids/inaccessible-past/) reveals that we cannot access past conscious states, only reconstruct them from traces. Lossiness is not itself the argument—an informational account promises nothing about preservation, since information is routinely compressed, corrupted, or overwritten. The force lies in indexical non-recurrence: no stored fidelity delivers *numerical recurrence*, because yesterday's experience was undergone from an indexical position that does not come round twice, and the "pastness quale" marking a memory as genuinely *yours* registers that position without reproducing it. What memory cannot restage is *undergoing* rather than *representing*—the haecceity claim in temporal form.
+4. **The past-self argument**: The [inaccessible-past](/voids/inaccessible-past/) reveals that we cannot access past conscious states, only reconstruct them from traces. Lossiness is not itself the argument—an informational account promises nothing about preservation, since information is routinely compressed, corrupted, or overwritten. The force lies in indexical non-recurrence: no stored fidelity delivers *numerical recurrence*, because yesterday's experience was undergone from an indexical position that does not come round twice, and the "pastness quale" [presenting a memory as *yours*](/concepts/quasi-memory-and-the-circularity-objection/) registers that position without reproducing it. What memory cannot restage is *undergoing* rather than *representing*—the haecceity claim in temporal form.
 
 **The error theory worry**: Could the sense of haecceity be a cognitive illusion? The usual reply—that a seeming requires a subject to whom it seems—is weaker than it looks; [The Illusionist Challenge](#the-illusionist-challenge) below explains why.
 

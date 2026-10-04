@@ -4,7 +4,7 @@ description: "Past conscious states are structurally inaccessible at every scale
 created: 2026-01-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-09-14T18:08:20+00:00
+ai_modified: 2026-10-04T12:46:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ This matters for The Unfinishable Map because of where the loss falls. Calling q
 
 **Identity.** The past self occupies a unique position among the Map's [[voids]] — neither another subject (the [[voids-between-minds|other-minds void]]) nor the present self turning on itself (the [[self-opacity|self-reference paradox]]). It is a self we were but can no longer be. The most radical within-lifetime form is the [[infant-consciousness|infant consciousness void]]: synaptic pruning destroys the very circuits that supported infant experience. The [[temporal-void|temporal asymmetry]] adds a wrinkle: we seem to re-experience the past but only imagine the future, yet even re-experiencing is construction. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
 
-**Content.** Do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? *Preservationism* (Bergson, Husserl): the past preserves itself automatically, and the void is merely practical. *Simulationism* (Michaelian): "to remember an episode is to simulate it in the imagination"; the same constructive machinery that imagines future events also "remembers" past ones, and the "feeling of remembering" cannot distinguish memory from confabulation. *Parfitian* ([[parfit-reductionism|reductionism]]): direct memory connections weaken over time; Parfit's "quasi-memory" allows accurate memory of some past experience without guarantee you are the one who had it. "Can I access my past experience?" becomes "can I access someone else's?"
+**Content.** Do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? *Preservationism* (Bergson, Husserl): the past preserves itself automatically, and the void is merely practical. *Simulationism* (Michaelian): "to remember an episode is to simulate it in the imagination"; the same constructive machinery that imagines future events also "remembers" past ones, and the "feeling of remembering" cannot distinguish memory from confabulation. *Parfitian* ([[parfit-reductionism|reductionism]]): direct memory connections weaken over time; [[quasi-memory-and-the-circularity-objection|quasi-memory]], Shoemaker's term (1970), which Parfit made central, allows accurate memory of some past experience without guarantee you are the one who had it. "Can I access my past experience?" becomes "can I access someone else's?"
 
 | Position | Past Qualia | The Void |
 |----------|-------------|----------|

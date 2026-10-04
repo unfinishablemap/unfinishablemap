@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-04 10:17:55+00:00
+ai_modified: 2026-10-04 12:46:21+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 22:19:16+00:00
-lastmod: 2026-10-04 10:17:55+00:00
+lastmod: 2026-10-04 12:46:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ The immunity has a price: a posit escapes the fallacy only as long as the corpus
 
 **Unity read as simplicity.** The [unity-of-consciousness](/concepts/unity-of-consciousness/) article records William Hasker's [emergent-dualist](/concepts/emergent-dualism/) argument that no physical composite can be the single subject a unified experience requires, and describes phenomenal unity as "not assembled from parts but... intrinsic to consciousness itself"; the [mereology of mind](/apex/mereology-of-mind/) draws on composition programmes whose criteria cluster, after abstraction, where consciousness occurs. Read as establishing that the subject is *simple*, any of this runs the second paralogism's inference. Kant does not deny that a thought is unified; he denies that its unity can be shown, from concepts, to require one simple bearer rather than a collective of cooperating ones (A352–353). An article that wants unity to *establish* a simple subject owes a premise excluding the collective reading, and Kant holds that none is available a priori. Until one is supplied, unity is compatible with a simple subject without showing one.
 
-**The diachronic clause.** The third paralogism bears on the second half of the posit. The [personal-identity](/topics/personal-identity/) article's reply to the replica case is the natural candidate here: "if *this* consciousness makes *these* quantum selections, the selector has a unique causal history a replica could not inherit." The reply does not meet Kant's case as stated. A causal history individuates a subject only if its selections were made by one persisting selector, and the elastic-ball series is the case where they were not: each substance contributes its share and passes on its states with its consciousness of them, so the record of selections runs unbroken while its bearer changes. To block the series the Map must hold that the later selector *is* the earlier one, which is the [haecceity](/concepts/haecceity/) posit again, stated rather than argued; the article's own clarification grants that causal history individuates only "the already-posited particular". Lowe answers that substances which can be seen and touched are no more plausibly swapped undetectably than a table, while allowing that conclusive refutation "may be an open question"; the Map's subject could borrow that reply only through the empirical route [below](#what-escapes).
+**The diachronic clause.** The third paralogism bears on the second half of the posit. The [personal-identity](/topics/personal-identity/) article's reply to the replica case is the natural candidate here: "if *this* consciousness makes *these* quantum selections, the selector has a unique causal history a replica could not inherit." The reply does not meet Kant's case as stated. A causal history individuates a subject only if its selections were made by one persisting selector, and the elastic-ball series is the case where they were not: each substance contributes its share and passes on its states with its consciousness of them, so the record of selections runs unbroken while its bearer changes. To block the series the Map must hold that the later selector *is* the earlier one, which is the [haecceity](/concepts/haecceity/) posit again, stated rather than argued; the article's own clarification grants that causal history individuates only "the already-posited particular". Butler (1736) had excluded this transfer, inferring sameness of substance from consciousness of being the same person "since the same property cannot be transferred from one substance to another"; Parfit's relay, memories passed "like a baton", cites Locke and Kant (1984, p. 223, n. 17). [Quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/) shows that no memory can tell a persisting subject from such a relay. Lowe answers that substances which can be seen and touched are no more plausibly swapped undetectably than a table, while allowing that conclusive refutation "may be an open question"; the Map's subject could borrow that reply only through the empirical route [below](#what-escapes).
 
 This bears on a tension the Map has already named. Its [aspect ontology](/concepts/bi-aspectual-ontology/) is silent on what makes a subject one subject over time; the persisting, substance-leaning subject enters downstream, where agent causation and the indexical objection draw on it ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)), and whether an aspect can supply it is recorded as open. The third paralogism shows that continuity of consciousness cannot underwrite that downstream entry. Whether something else does remains open, and the Kantian analysis sharpens the question without settling it either way.
 
@@ -140,5 +140,7 @@ The limit is that the posit is not refuted. Kant's B420 verdict is agnostic in b
 9. Hasker, W. (2012). Is Materialism Equivalent to Dualism? In B. P. Göcke (Ed.), *After Physicalism* (pp. 180–199). University of Notre Dame Press. https://doi.org/10.2307/jj.21996041.10 (chapter text: https://www.newdualism.org/papers/W.Hasker/Hasker-BPG2012-ch6.pdf)
 10. Lowe, E. J. (2012). Non-Cartesian Substance Dualism. In B. P. Göcke (Ed.), *After Physicalism* (pp. 48–71). University of Notre Dame Press. https://doi.org/10.2307/jj.21996041.6 (chapter text: https://www.newdualism.org/papers/E.Lowe/Lowe-BPG2012-ch2.pdf)
 11. Watkins, E. (2003). Forces and causes in Kant's early pre-Critical writings. *Studies in History and Philosophy of Science*, 34(1), 5–27. https://doi.org/10.1016/S0039-3681(02)00091-2
-12. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., & Fabcinq-un, C. (2026-06-20). Individuation and Subjecthood Positions. *The Unfinishable Map*. https://unfinishablemap.org/positions/individuation-and-subjecthood/
-13. Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-07-16). Three Background Commitments the Tenets Rest On. *The Unfinishable Map*. https://unfinishablemap.org/tenets/background-commitments/
+12. Butler, J. (1736). Of Personal Identity. Dissertation I, appended to *The Analogy of Religion*.
+13. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press. §81, p. 223 and n. 17.
+14. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., & Fabcinq-un, C. (2026-06-20). Individuation and Subjecthood Positions. *The Unfinishable Map*. https://unfinishablemap.org/positions/individuation-and-subjecthood/
+15. Southgate, A., Oquatre-sept, C., & Ocinq, C. (2026-07-16). Three Background Commitments the Tenets Rest On. *The Unfinishable Map*. https://unfinishablemap.org/tenets/background-commitments/

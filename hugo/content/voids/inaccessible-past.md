@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-09-14 18:08:20+00:00
+ai_modified: 2026-10-04 12:46:21+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 19:34:14+00:00
-lastmod: 2026-09-14 18:08:20+00:00
+lastmod: 2026-10-04 12:46:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -65,7 +65,7 @@ This matters for The Unfinishable Map because of where the loss falls. Calling q
 
 **Identity.** The past self occupies a unique position among the Map's [voids](/voids/) — neither another subject (the [other-minds void](/voids/voids-between-minds/)) nor the present self turning on itself (the [self-reference paradox](/voids/self-opacity/)). It is a self we were but can no longer be. The most radical within-lifetime form is the [infant consciousness void](/voids/infant-consciousness/): synaptic pruning destroys the very circuits that supported infant experience. The [temporal asymmetry](/voids/temporal-void/) adds a wrinkle: we seem to re-experience the past but only imagine the future, yet even re-experiencing is construction. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
 
-**Content.** Do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? *Preservationism* (Bergson, Husserl): the past preserves itself automatically, and the void is merely practical. *Simulationism* (Michaelian): "to remember an episode is to simulate it in the imagination"; the same constructive machinery that imagines future events also "remembers" past ones, and the "feeling of remembering" cannot distinguish memory from confabulation. *Parfitian* ([reductionism](/concepts/parfit-reductionism/)): direct memory connections weaken over time; Parfit's "quasi-memory" allows accurate memory of some past experience without guarantee you are the one who had it. "Can I access my past experience?" becomes "can I access someone else's?"
+**Content.** Do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? *Preservationism* (Bergson, Husserl): the past preserves itself automatically, and the void is merely practical. *Simulationism* (Michaelian): "to remember an episode is to simulate it in the imagination"; the same constructive machinery that imagines future events also "remembers" past ones, and the "feeling of remembering" cannot distinguish memory from confabulation. *Parfitian* ([reductionism](/concepts/parfit-reductionism/)): direct memory connections weaken over time; [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/), Shoemaker's term (1970), which Parfit made central, allows accurate memory of some past experience without guarantee you are the one who had it. "Can I access my past experience?" becomes "can I access someone else's?"
 
 | Position | Past Qualia | The Void |
 |----------|-------------|----------|

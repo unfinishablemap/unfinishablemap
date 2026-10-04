@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-08-06 01:12:25+00:00
+ai_modified: 2026-10-04 12:46:21+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 archive_reason: Coalesced into The Inaccessible Past
 archived: true
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-02 08:53:00+00:00
-lastmod: 2026-08-06 01:12:25+00:00
+lastmod: 2026-10-04 12:46:21+00:00
 modified: *id001
 original_path: /voids/past-self-void/
 related_articles:
@@ -96,7 +96,7 @@ This parallels the [intrinsic nature void](/voids/intrinsic-nature-void/): physi
 
 Derek Parfit's analysis of personal identity sharpens the void. Psychological continuity—the overlapping chain of memories, beliefs, intentions—comes in degrees. Direct memory connections fade with time; you may have no direct memory connection to yourself at age five, only chains of connections through intermediate selves.
 
-Parfit introduced "quasi-memory": the concept of having an accurate memory of some past experience without this guaranteeing you are the one who had the experience. You cannot be certain that any memory is genuinely *your* memory of *your* experience. Memory provides evidence of past experience but not identity with the experiencer.
+Parfit took up Shoemaker's "quasi-memory": the concept of having an accurate memory of some past experience without this guaranteeing you are the one who had the experience. You cannot be certain that any memory is genuinely *your* memory of *your* experience. Memory provides evidence of past experience but not identity with the experiencer.
 
 If memory connections constitute personal identity, and memory connections weaken over time, then identity itself weakens. The past self becomes not merely inaccessible but increasingly *other*. Parfit concluded that personal identity is not "what matters"—what matters is psychological continuity, which can exist without strict numerical identity.
 
