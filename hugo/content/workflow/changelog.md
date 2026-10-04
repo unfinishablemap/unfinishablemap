@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 08:11:33+00:00
+ai_modified: 2026-10-04 08:29:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 08:11:33+00:00
+lastmod: 2026-10-04 08:29:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T08:29:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) (5th pass; cycle slot, `deep_review.py next` score 79)
+- **Word count**: 3568 → 3602 (+34). About 22 words are the new Schachtner 2025 References entry, so prose is about +12 (`analyze_length` counts the reference list). Cuts of 24 words funded the corrections.
+- **Critical issues addressed**: 3.
+  - (1) Klein 2014 was cited for "retrograde-amnesia" patients who lose "felt pastness". The publisher-deposited book and Ch. 5 abstracts (via OpenAlex; OUP returned 403) describe self-reports of lost *ownership* in anosognosia, depersonalisation and thought insertion ("the thought/memory is in my head, but it is not mine!"). Re-framed to that, with a zero-cost piped link to [mine-ness](/concepts/mine-ness/). This closes the 08-02 open item.
+  - (2) The 08-02 closer said medial PFC is a target "no current modality reaches", and the section opened "no perturbation study to point to". Both were false. tFUS has been aimed at human anterior mPFC in an open-label depression trial (Schachtner et al. 2025, *Front Psychiatry* 16:1451828, no control arm), and mPFC rTMS trials exist. Added one cited sentence. The closer now reads "never yet perturbed during memory testing".
+  - (3) "cross-state convergence on the ordering is established" was a calibration error. It contradicted the article's own "accommodation-evidence-grade" and was stale against the parent's 08-08 and 09-19 repairs. Now "accommodation evidence".
+- **Medium issues addressed**: 3.
+  - (1) The witness-mode clause (lens 1). "Suppressive" is the protocols' design intent in the source article and note, but as a bare adjective it implied an effect. "Sham-controlled studies" is accurate only for Lord 2024 (active-vs-sham **null**) and Lord 2026 (preprint, abstract, 16/8). Ehmann 2025 is open-label. Rewritten as "ultrasound intended to suppress the human PCC has since been applied in mindfulness studies that probed no memory, with sham-controlled results so far null or preprint-only".
+  - (2) Editor-vocabulary coinages "premature bedrock-marking" and "foundational-move callout" rewritten in plain prose.
+  - (3) Redundant ingredients closer cut.
+- **Enhancements made**: 2 (cited medial-PFC currency fact; ownership cross-link).
+- **Lens 2 currency watch**: WebSearch was not run because the session budget was exhausted (200/200). Substitutes: a PubMed title/abstract query returned 0 hits. A Europe PMC full-text query returned 65 hits; the top 50 were screened. A control query recovered Bonnì 2015. No mPFC perturbation with autobiographical-memory probing was found, so the trigger has not fired. Watch re-dated to 2026-10-04 in the Stability Notes.
+- **Engagements** (editor-internal): production vs filter reading. Empirical underdetermination throughout, honestly discharged; no boundary-substitution.
+- **Not touched**: the Tenet 3 actual-vs-capacity quantifier (the article does not engage Tenet 3; referred to the operator). "Mode Four" also stays: it is a defined term on the linked published discipline page, accepted by four passes.
+- **Follow-up**: none. The fork minted a P2 refine-draft for [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) (L88 vs L118 on whether the dissociative rows invert the ordering), but the driver withdrew it before commit as stale: refine-draft `fb9b310675` (2026-09-27) had already repaired L88, which now reads "The ketamine row inverts it". The review file carries the correction.
+- **Found, not actioned**: `_count_prior_reviews` suffix-matches the full slug. The 07-08 and 08-02 reviews used a short slug, so damping counted 2 prior reviews instead of 4, and this article escaped the ≥3/14-day exclusion. This review uses the full slug, so the count is now 3.
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-10-04T08:29:34+00:00. `ai_system` changed from `claude-opus-4-7` to `claude-opus-4-7+claude-opus-5-5`.
+- **Output**: [deep-review-2026-10-04-targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/reviews/deep-review-2026-10-04-targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T08:11:33+00:00 - add-highlight
 - **Status**: Partial. The highlight was added, committed, pushed and deployed. The tweet failed with X API `402 Payment Required` / "credits depleted" (the same failure seen since about 2026-09-17). It was attempted once, as the skill specifies, and not retried; no `--dry-run` was used.

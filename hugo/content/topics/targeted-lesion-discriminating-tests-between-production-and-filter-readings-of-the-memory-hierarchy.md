@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-04 01:30:16+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-04 08:29:34+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -22,8 +22,8 @@ description: 'Human+AI design-space inquiry: which focal-lesion or focal-stimula
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-02 07:36:36+00:00
-lastmod: 2026-10-04 01:30:16+00:00
+last_deep_review: 2026-10-04 08:29:34+00:00
+lastmod: 2026-10-04 08:29:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,8 +60,6 @@ Third, an *expected ordering under each prediction* stated in advance. The produ
 
 Fourth, a *replication channel* across mechanism-distinct perturbations — focal lesion, focal stimulation (TMS, transcranial focused ultrasound), pharmacological focal blockade — so that the dissociation pattern is not artefactual to one technique. Recent transcranial focused-ultrasound work in non-human primates (Verhagen et al. 2019) demonstrates offline neuromodulation at cortical targets earlier surface TMS could not reach reliably, and the same modality has begun delivering subcortical targeting in humans in disorders-of-consciousness pilot work (Cain et al. 2021); the autonoetic-target version, with multi-channel concurrent probing, has not yet been attempted.
 
-The four ingredients are independently challenging; their combination has not yet been delivered.
-
 ## Existing Approximations and Why They Fall Short
 
 The clinical literature contains several near-discriminating cases. None appears decisive, but each may constrain the design space.
@@ -78,7 +76,7 @@ H.M. (Henry Molaison, after his death) is the paradigmatic case of bilateral hip
 
 H.M. sits at the boundary of the discriminating test because his lesion was substantial (bilateral medial temporal lobectomy) rather than narrowly focal. Both readings absorb the case easily: extensive bilateral damage to a region required for episodic encoding should produce this profile on the production reading; substantial bilateral blockade of the autonoetic-channel-routing substrate should sever the channel on the filter reading.
 
-The discriminator would require H.M.-like deficits from a *narrower* lesion that hits only one autonoetic-supporting region while sparing others — and a *finer-grained* probing that distinguishes residual autonoetic capacity (if any) from semantic substitution. Some retrograde-amnesia cases approximate this: patients who lose the *felt pastness* of remote memories while retaining their propositional content (Klein 2014); functional imaging in healthy subjects localises autobiographical ecphory to lateral and medial prefrontal areas (Markowitsch et al. 2003). The autonoetic-without-pastness signature is suggestive; whether it might be the discriminator's predicted residue would depend on which substrate routing path the filter reading would assign to felt-pastness specifically — and that assignment seems itself underdetermined by the data currently available, so the case cannot yet decide between the readings.
+The discriminator would require H.M.-like deficits from a *narrower* lesion that hits only one autonoetic-supporting region while sparing others — and a *finer-grained* probing that distinguishes residual autonoetic capacity (if any) from semantic substitution. Self-report cases approximate the finer probing: patients who find a thought or memory in their head but not theirs, its [felt ownership](/concepts/mine-ness/) lost and its content intact (Klein 2014); functional imaging in healthy subjects localises autobiographical ecphory to lateral and medial prefrontal areas (Markowitsch et al. 2003). The content-without-ownership signature is suggestive; whether it might be the discriminator's predicted residue would depend on which substrate routing path the filter reading would assign to felt ownership specifically — and that assignment seems itself underdetermined by the data currently available, so the cases cannot yet decide between the readings.
 
 ### Semantic Dementia as the Inverse Case
 
@@ -114,17 +112,17 @@ The design space is structured by which region-pair dissociations would, if achi
 
 The medial prefrontal cortex is implicated in self-referential processing, autobiographical-memory retrieval, and the default-mode-network operations the autonoetic-channel literature treats as the substrate route for re-experiencing (Conway 2005; Andrews-Hanna et al. 2014). The lateral prefrontal cortex is implicated in semantic retrieval and executive control. Focal perturbation of medial PFC sparing lateral PFC should, on either reading, preferentially impair autonoetic re-experiencing while leaving semantic recognition intact. The discriminator is whether the autonoetic deficit takes the *channel-down* form predicted by the filter reading (autonoetic essentially unavailable, with semantic substitution where autonoetic content is requested) or the *channel-degraded* form predicted by the production reading (autonoetic available but degraded in proportion to the substrate damage).
 
-Unlike the other two pairings, this one has no perturbation study to point to. Stimulation work on the autobiographical-retrieval network has concentrated on laterally and posteriorly accessible nodes, and medial prefrontal cortex sits beyond the reliable depth and focality of standard figure-of-eight TMS coils. The channel-state versus channel-degradation distinction has therefore not been tested at this target by any modality, which makes the pairing the least tractable of the three despite its theoretical centrality.
+Stimulation work on the autobiographical-retrieval network has concentrated on laterally and posteriorly accessible nodes, and medial prefrontal cortex sits beyond the reliable depth and focality of standard figure-of-eight TMS coils. Focused ultrasound has since been aimed at anterior medial PFC, but in an open-label depression trial that did not probe memory (Schachtner et al. 2025). The channel-state versus channel-degradation distinction has therefore not been tested at this target by any modality, which makes the pairing the least tractable of the three despite its theoretical centrality.
 
 ### Precuneus / Posterior Cingulate vs. Lateral Parietal Association
 
-The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. Continuous theta-burst TMS to the precuneus has been shown to modulate source-memory retrieval (Bonnì et al. 2015), but not yet as a channel-state-versus-degradation discriminator. Transcranial focused ultrasound may bring the depth and selectivity this target needs within reach (Verhagen et al. 2019; Cain et al. 2021), and suppressive ultrasound has since been aimed at the human PCC in sham-controlled studies of mindfulness rather than memory ([brain-stimulation-and-the-witness-mode](/topics/brain-stimulation-and-the-witness-mode/)), though the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
+The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. Continuous theta-burst TMS to the precuneus has been shown to modulate source-memory retrieval (Bonnì et al. 2015), but not yet as a channel-state-versus-degradation discriminator. Transcranial focused ultrasound may bring the depth and selectivity this target needs within reach (Verhagen et al. 2019; Cain et al. 2021), and ultrasound intended to suppress the human PCC has since been applied in mindfulness studies that probed no memory, with sham-controlled results so far null or preprint-only ([brain-stimulation-and-the-witness-mode](/topics/brain-stimulation-and-the-witness-mode/)); the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
 
 ### Anterior Thalamic Nuclei vs. Mediodorsal Thalamus
 
-The anterior thalamic nuclei are differentially implicated in episodic memory through the Papez circuit, with Korsakoff's syndrome and other diencephalic-amnesia cases as the clinical anchor (Aggleton and Brown 1999). The mediodorsal thalamus is differentially implicated in executive and semantic functions. Focal perturbation of anterior thalamic nuclei sparing mediodorsal thalamus is the kind of focal subcortical target focused ultrasound has begun to make accessible: human anterior-nucleus focused-ultrasound ablation has since been delivered in a phase 1 epilepsy trial (Krishna et al. 2023), demonstrating that the anterior nucleus is now a reachable focal target in humans — though the ablative-thalamotomy modality supplies the focal-lesion ingredient rather than the reversible neuromodulation a within-subject discriminator would prefer. The subcortical target is small enough that the spatial-selectivity requirement is more likely to be met than in cortical-pairs cases.
+The anterior thalamic nuclei are differentially implicated in episodic memory through the Papez circuit, with Korsakoff's syndrome and other diencephalic-amnesia cases as the clinical anchor (Aggleton and Brown 1999). The mediodorsal thalamus is differentially implicated in executive and semantic functions. Focal perturbation of anterior thalamic nuclei sparing mediodorsal thalamus is the kind of focal subcortical target focused ultrasound has begun to make accessible: human anterior-nucleus focused-ultrasound ablation has since been delivered in a phase 1 epilepsy trial (Krishna et al. 2023), making the anterior nucleus a demonstrated human focal target — though the ablative-thalamotomy modality supplies the focal-lesion ingredient rather than the reversible neuromodulation a within-subject discriminator would prefer. The subcortical target is small enough that the spatial-selectivity requirement is more likely to be met than in cortical-pairs cases.
 
-These three pairings are candidate-rich rather than exhaustive, selected because functional-neuroimaging convergence on the autonoetic role of the named regions makes the design specifiable — not because the perturbation technology can yet deliver all three. It cannot: the pairings run from a demonstrated human focal target to one no current modality reaches.
+These three pairings are candidate-rich rather than exhaustive, selected because functional-neuroimaging convergence on the autonoetic role of the named regions makes the design specifiable — not because the perturbation technology has delivered all three: the pairings run from a demonstrated human focal target to one never yet perturbed during memory testing.
 
 ## The Animal-Model Variant
 
@@ -132,9 +130,9 @@ Optogenetic and chemogenetic tools in non-human animal models (Tye and Deisserot
 
 ## Honouring the Evidential-Status Discipline
 
-The design space is a stage-appropriate residue at the catalogue's current developmental stage. The [framework-stage calibration](/project/framework-stage-calibration/) for the present discriminator is "named-but-not-yet-tested": the test structure is specified clearly enough that future empirical work could deliver it, but the available evidence does not yet discriminate the rival readings. The [evidential-status discipline](/project/evidential-status-discipline/)'s constrain-vs-establish distinction is operative — existing approximations *constrain* both readings (channel-separability is established; cross-state convergence on the ordering is established) without *establishing* the substrate-vs-channel discriminator.
+The design space is a stage-appropriate residue. The [framework-stage calibration](/project/framework-stage-calibration/) for the present discriminator is "named-but-not-yet-tested": the test structure is specified clearly enough that future empirical work could deliver it, but the available evidence does not yet discriminate the rival readings. The [evidential-status discipline](/project/evidential-status-discipline/)'s constrain-vs-establish distinction is operative — existing approximations *constrain* both readings (channel-separability is established; the cross-state ordering is accommodation evidence) without *establishing* the substrate-vs-channel discriminator.
 
-The [direct-refutation discipline](/project/direct-refutation-discipline/)'s Mode Four (empirical underdetermination) is the honest discharge. Naming what would discriminate the readings prevents the residue from collapsing into premature bedrock-marking — the dispute appears empirically undetermined at the resolution present techniques can deliver, not metaphysically irresolvable. Future work at higher spatial resolution, with better cross-channel measurement, and across replication channels could move the dispute toward in-framework refutation or a foundational-move callout against an unsupported substrate-channel assumption.
+The [direct-refutation discipline](/project/direct-refutation-discipline/)'s Mode Four (empirical underdetermination) is the honest discharge. Naming what would discriminate the readings prevents the residue from being declared bedrock prematurely — the dispute appears empirically undetermined at the resolution present techniques can deliver, not metaphysically irresolvable. Future work at higher spatial resolution, with better cross-channel measurement, and across replication channels could move the dispute toward refutation on one reading's own terms or expose an unearned substrate-channel assumption.
 
 The catalogue should not characterise the present state as a draw between equally-supported readings. Both absorb the present evidence, and the [mechanism-costs cartography](/topics/mechanism-costs-dualism-thickness-quadrants/) for the broader cross-state convergence suggests the filter reading pays less per case at the architectural layer while production pays more in per-case accommodation. Neither the convergence nor the cost-comparison amounts to a discriminating empirical test.
 
@@ -180,6 +178,7 @@ The article engages three of the Map's tenets at the methodology layer rather th
 1. Markowitsch, H. J., Vandekerckhove, M. M., Lanfermann, H., & Russ, M. O. (2003). Engagement of lateral and medial prefrontal areas in the ecphory of sad and happy autobiographical memories. *Cortex*, 39(4–5), 643–665.
 1. Roth, B. L. (2016). DREADDs for neuroscientists. *Neuron*, 89(4), 683–694.
 1. Scoville, W. B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. *Journal of Neurology, Neurosurgery, and Psychiatry*, 20(1), 11–21.
+1. Schachtner, J. N., Dahill-Fuchel, J. F., Allen, K. E., et al. (2025). Transcranial focused ultrasound targeting the default mode network for the treatment of depression. *Frontiers in Psychiatry*, 16, 1451828. https://doi.org/10.3389/fpsyt.2025.1451828
 1. Snowden, J. S., Goulding, P. J., & Neary, D. (1989). Semantic dementia: A form of circumscribed cerebral atrophy. *Behavioural Neurology*, 2(3), 167–182. https://doi.org/10.1155/1989/124043
 1. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
