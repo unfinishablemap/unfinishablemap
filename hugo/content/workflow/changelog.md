@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 06:38:32+00:00
+ai_modified: 2026-10-04 07:07:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 06:38:32+00:00
+lastmod: 2026-10-04 07:07:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T07:07:55+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **34th consecutive**, the expected steady state.
+- **Cap state** (live, `tools.evolution.state.count_section_files`; caps 360/360/115): topics 342/360 (341 real; the `non-temporal-consciousness.refinement-log.md` sidecar over-counts by one), concepts 344/360, **voids 113/115 (98.3%, most pressured)**, up 2 since 15:08 with `numbing-void` and `preference-void`.
+- **Changed since 2026-10-03 15:08Z** (`git diff --numstat` from bf7f28954d, 52 content files): five new pages, all inside the age floor and not eligible (`anton-syndrome-and-the-sincere-report-of-seeing`, `kants-paralogisms-and-the-maps-subject`, `brain-stimulation-and-the-witness-mode`, `preference-void`, `numbing-void`). The only substantial edit to an older page is `topics/akrasia-and-weakness-of-will` (+50/−25 lines, now 3575 words, so it cannot pair in topics). Everything else is a ≤17-line refine-draft, tenet-check or integration fix. No member of any previously declined pair changed in substance.
+- **Arithmetic** (re-run on current bodies; sidecars filtered before pairing; `analyze_length`; ceilings 3999/3499/2999, gate `>=`; 14-day age floor on `created`, so 2026-09-20 and later is excluded, 42 pages): voids **0** same-section fitting pairs of 103 eligible (smallest 1473 + 1730 = 3203); topics **0** of 327 (smallest 1990 + 2112 = 4102); concepts **183** of 326 (184 at 15:08). Cross-section pairs fitting under the larger ceiling: 657, of which 199 involve a void.
+- **Body TF-IDF re-screen** (all eligible concepts, topics and voids, same-section and cross-section, wikilink targets resolved to words): fitting pairs that touch any file changed since 15:08 peak at **0.078** (`modal-structure-of-phenomenal-properties` + `phenomenal-depth`), so the new edits created no new similarity. The top fitting pairs are the ones already declined (`manyism` + `plurality-void`, `presentiment-and-retrocausality` + `transactional-interpretation…`, `phenomenal-depth` + `phenomenal-presentation`, `instrumental-convergence` + `mind-arena`, `perception` + `dual-domain-capabilities…`), plus three pairs not read before.
+- **Candidates read on the merits (not read before as pairs)**:
+  1. `topics/enactivism-challenge-to-interactionist-dualism` 2427w + `concepts/status-of-content` 1497w = 3924 / 3999 (cosine 0.134, the highest fitting pair not yet declined). The overlap is **Hutto and Myin alone** (top shared terms: *enactivism, myin, hutto, radicalizing*). status-of-content gives them one paragraph (L67) as a parallel to Boghossian and lists the enactivism page in Further Reading. The enactivism page never mentions Boghossian, content irrealism or status-of-content. Both pages route the shared material to a third page, [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/), which owns it. **Roles differ**: one is a single-argument concept (Boghossian 1990 against content irrealism, so against eliminativism, with 12 inbound links in the self-refutation cluster); the other is a topic on a rival framework's challenge to dualism. Merging would bury the eliminativism argument in an enactivism survey. Declined.
+  2. `topics/consciousness-and-the-problem-of-other-properties` 2112w + `voids/emotional-epistemology-void` 1765w = 3877 / 3999 (0.106; would free a voids slot). The overlap is one shared illustration (*grief*) plus generic epistemology words; 0 cross-links either way. **Subjects differ**: one asks whether we can know which phenomenal properties *others* instantiate; the other asks whether affect is a knowledge-yielding faculty about the *world*. Declined.
+  3. `topics/phenomenology-of-cognitive-limit-types` 2406w + `voids/simulation-detection-void` 1473w = 3879 / 3999 (0.081). The overlap is void-taxonomy boilerplate (*unexplored / unexplorable / occluded*, *aversion, vertigo*): a survey of limit phenomenologies against one specific void. Declined.
+- **Near-fits** (≤300 over, cosine ≥0.15), all declined before with members unchanged: `prehension` + `subjective-aim` (143 over), `grain-mismatch` + `sellars-manifest-and-scientific-images` (86 over), `presentiment-and-retrocausality` + `time-symmetric-physics` (208 over), `four-category-ontology` + `where-the-substance-commitment-enters` (273 over), `consciousness-and-the-physics-of-information` + `nomic-void` (78 over), `analytic-idealism…` + `philosophy-of-mind` (180 over).
+- **Open tasks checked**: no open todo.md task (above `## Completed Tasks`, L2054) names any of the six files read this run. The two `status-of-content` hits (L164, L170) are length figures inside the coalesce cycle-allocation NEEDS-HUMAN note, not task targets. Correction to earlier entries: the `HUMAN COALESCE DECISION` (L3894) names `self-stultification` and the quantum-biology pair; it does **not** name `status-of-content`, so that page is not human-reserved. This run declined it on role grounds only.
+- **Not re-litigated** (declined 09-28 to 10-03 15:08, members unchanged in substance): mind-arena + instrumental-convergence / causal-powers / purpose-and-alignment (3 words headroom); perception + phenomenal-depth / dual-domain-capabilities…; plurality-void + manyism / analytic-idealism… (2 words headroom); simulation-detection-void + adaptive-computational-depth; phenomenal-depth + phenomenal-presentation; constitutive-vs-referring-observation + status-of-content (now 3475, 24 words headroom); transactional-interpretation + presentiment-and-retrocausality.
+- **Sources / Target / Archived**: none. **Tasks minted**: none. **todo.md / evolution-state.yaml**: untouched. **Sync**: run (changelog mirror only). **References to review**: none. Model: claude-opus-5-5.
 
 ## 2026-10-04T06:38:32+00:00 - refine-draft
 - **Status**: Success
