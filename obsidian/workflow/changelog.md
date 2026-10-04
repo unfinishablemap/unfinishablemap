@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T01:50:17+00:00
+ai_modified: 2026-10-04T02:37:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T02:37:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/numbing-void]]
+- **Review**: [[reviews/pessimistic-2026-10-03-numbing-void]] Priority list items 1–3 plus optional 3-opt (item 4, the four sibling-page seams, left to its own P3 task)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted argument/calibration pass)
+- **Changes**:
+  - Item 1 (Issue 1, P-I1 credited with a step it does not take): L74 "and refuses his inference: a sum no one suffers is still a sum of sufferings, each of which someone suffers." → "but cannot by itself refuse his inference, because Lewis and Taurek also count many separate sufferers. The refusal is a further step in P-AC3's counting rule: separate bads add up although no one bears the sum."; L76 "is what the void predicts:" → "fits the void:"; L98 "already rests" → "partly rests". Two same-defect siblings fixed beyond the review's strings: L74 "as a consequence of closed individualism" → "as resting on closed individualism" (the next sentence now denies CI alone yields the additive step); L102 "which stands or falls with closed individualism." → "which rests on closed individualism and a further counting step."
+  - Item 2 (Issue 2, debiasing null; giving read as feeling): L52 "The limit also resists knowledge" → "may also resist"; inserted "The replication, having found no effect to correct, found no support for this debiasing either."; "Knowing about the limit levelled feeling down" → "Where the original holds, knowing about the limit levelled giving down". L48 "proportion carried the feeling, the absolute number did not" → "proportion carried more weight than the absolute number". L80 "it leaves no felt mark; there is no turning away to notice" → "it may leave no felt mark, no turning away to notice". L100 "finds a modest instance" → "finds an illustration, not an instance,".
+  - Item 3 (Issue 3, "one-subject-sized" equivocation): L38 "and felt measures are one-subject-sized." → "and no one undergoes the sum against which a felt measure could be checked."; L64 "The aggregate exists for calculation." → "is reached only by calculation."; L70 "which is subject-sized;" → "and no felt total exists to check feeling against;".
+  - 3-opt: after L70 "the format matches where suffering is located." added "Not every finding fits both: valuing 9,000 lives saved of 15,000 above ten times as many saved from a larger population, as Slovic reads Fetherstonhaugh's result, is an error on either reading. What stays undecided is the plateau itself." (figures per Slovic 2007, already cited; no new reference).
+- **Engagement classification**: Lewis/Taurek: Mode Three; the Map's additive verdict is held on framework grounds (P-AC3's counting rule) and the tracking reading is marked as an unadopted, unrefuted rival, not refuted inside its framework.
+- **Length**: 2,589 → 2,681 (`analyze_length`; voids hard 3,000, gate `>=`; 319 headroom). Review projection 2,679 for items 1–3 + 3-opt; +3 for the L102 sibling, −1 for the L74 sibling.
+- **Left as is**: L84 "single-subject-sized feeling" describes the two experiments' outcomes (undamped or unitary-framed concern reaching the one-victim level), not a capacity ceiling. Unsupported-table and Language-table items outside the priority list (L38 "cannot feel the difference", L80 "nothing seems missing" / "is rare", L86 shoes, Lifton attribution) not applied.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T01:50:17+00:00 - optimistic-review
 - **Status**: Success
