@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-09-30T11:55:56+00:00
+ai_modified: 2026-10-04T17:06:47+00:00
 last_deep_review: 2026-07-25T18:17:36+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-24
 last_curated: null
 
@@ -111,7 +111,7 @@ Second, selection carries the [[phenomenology-of-choice-and-volition|phenomenolo
 
 Third, selection shows distinctive neural signatures. Willed attention carries greater frontal theta and frontoparietal coherence than instructed attention (untested for movement), and neural populations commit to a selected action roughly 280 ms before movement onset—signatures consistent with consciousness engaging at the selection stage, though they do not by themselves establish it. Neurosurgical stimulation adds a dissociation: one area produces conscious intention *without* movement, another movement *without* any feeling of intending. Deciding is neurally separable from execution, as a selector operating at the interface rather than in downstream motor circuits would predict.
 
-Together these answer the rollback: the agent explains the difference between replays because the agent *selected* for reasons, with phenomenal engagement, through mechanisms that distinguish selection from reception. Reasons-guided selection, though, requires the capacity to represent alternatives before choosing.
+Together these answer the rollback: the agent explains the difference between replays because the agent *selected* for reasons, with phenomenal engagement, through mechanisms that distinguish selection from reception. The first feature does not reach [[the-divided-will#luck-objection|akrasia]], where selection runs against the agent's own all-things-considered ranking, and the Map leaves that case open. Reasons-guided selection, though, requires the capacity to represent alternatives before choosing.
 
 ## Counterfactual Reasoning and Deliberation
 
@@ -149,7 +149,7 @@ That residue is contested from the opposite flank too. Pereboom (2014) argues th
 
 The [[consciousness-value-connection|consciousness-value connection]] grounds candidacy for moral *patienthood*—who can be harmed—directly; moral *agency* requires the further capacities agent causation presupposes—control over conduct, access to reasons, a genuine range of options, competence to recognise what is at stake—which infants, most animals, and any minimally-phenomenal subject lack. Consciousness is necessary for that standing without conferring it, and the asymmetry helps, because patienthood grounds obligations toward beings who cannot be held responsible. Under agent causation the connection becomes practical: agents act *for the sake of* value because they are acquainted with it through experience.
 
-Retribution becomes intelligible: the wrongdoer exercised causal power to harm when they could have caused good. Mitigation has limits, since prior causes influenced but did not determine, and character responsibility follows because character is partly self-created—cultivating attentional skill is itself an exercise of agency. That agents act against their own better judgment—[[akrasia-and-weakness-of-will|weakness of will]]—fits the selector model as a lapse in selection rather than evidence against it: by the agent's own report, the selector failed to enforce what deliberation endorsed—one lens on the will, not a proof. The [[moral-implications-of-genuine-agency|full moral implications]] extend to obligation, moral luck, and the demands genuine agency places on moral theory.
+Retribution becomes intelligible: the wrongdoer exercised causal power to harm when they could have caused good. Mitigation has limits, since prior causes influenced but did not determine, and character responsibility follows because character is partly self-created—cultivating attentional skill is itself an exercise of agency. That agents report acting against their own better judgment—[[akrasia-and-weakness-of-will|weakness of will]], a datum the Socratic tradition contests—gives the selector model no support: [[the-divided-will|distributed architectures]] predict the divergence, which a single selector only accommodates—one lens on the will, not a proof. The [[moral-implications-of-genuine-agency|full moral implications]] extend to obligation, moral luck, and the demands genuine agency places on moral theory.
 
 ## Synthesis
 

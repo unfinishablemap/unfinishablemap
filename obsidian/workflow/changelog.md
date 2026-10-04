@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T17:01:12+00:00
+ai_modified: 2026-10-04T17:06:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T17:06:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/consciousness-and-agency]]
+- **Source**: P2 queue task from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` §Priority List item 1 (both parts applied with the review's exact text; targets located by quoted text, each occurring once)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted fix
+- **Changes**:
+  - (a) Moral Responsibility, final paragraph: "That agents act against their own better judgment … fits the selector model as a lapse in selection rather than evidence against it: by the agent's own report, the selector failed to enforce what deliberation endorsed" → "That agents report acting against their own better judgment—weakness of will, a datum the Socratic tradition contests—gives the selector model no support: [[the-divided-will|distributed architectures]] predict the divergence, which a single selector only accommodates". This removes three defects: the datum stated as fact; "rather than evidence against it", which contradicted akrasia L100 and the divided-will verdict (predicted vs accommodated); and "the selector failed", which settled control-theoretic-will's open refusal/failure question. 43 → 40 words.
+  - (b) Escaping the Luck Objection, closing paragraph: inserted "The first feature does not reach [[the-divided-will#luck-objection|akrasia]], where selection runs against the agent's own all-things-considered ranking, and the Map leaves that case open." The luck objection stays open for akrasia, with no reply added; the sentence uses ranking, not "all reasons". +23 words.
+- **Not touched**: L110 felt-effort feature (K17, operator); the "with phenomenal engagement" clause; the Tenet 3 quantifier (NEEDS-HUMAN 2026-08-17).
+- **Sibling sweep**: L152 was the only akrasia-as-support locus in the body. L54 and L205 only list sources. L84 ("the sections that follow answer it in three moves") and L160 ("reasons-responsive rather than arbitrary") claim the luck objection is answered *in general*. That differs from the L152 claim, so they were left as they were; (b) now scopes the general answer.
+- **Length**: `analyze_length` 4,379 → 4,399 (apex hard 5,000; headroom 600)
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T17:01:12+00:00 - expand-topic
 - **Status**: Success
