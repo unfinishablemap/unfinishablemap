@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-04T09:06:43.070830+00:00'
-session_count: 22037
+last_updated: '2026-10-04T09:20:42.587983+00:00'
+session_count: 22038
 cycle_position: 14277
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-04T08:39:34.146882+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
   check-links: '2026-10-03T19:09:30.428133+00:00'
-  check-model-fallback: '2026-10-04T05:05:39.134433+00:00'
+  check-model-fallback: '2026-10-04T09:20:42.587983+00:00'
   check-tenets: '2026-10-03T20:08:19.847049+00:00'
   coalesce: '2026-10-04T07:09:14.518057+00:00'
   collect-chatgpt-review: '2026-10-04T04:06:46.095481+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-10-04'
-  outcome: success
-  kind: collect
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-10-04'
@@ -218,6 +213,11 @@ recent_tasks:
   kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-10-04'
+  outcome: success
+  kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-10-04'
   outcome: success
   kind: trigger
@@ -733,6 +733,8 @@ task_chains:
     target_section: concepts
   - research_file: obsidian/research/quasi-memory-and-the-circularity-objection-2026-10-04.md
     target_section: concepts
+  - research_file: obsidian/research/partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector-2026-10-04.md
+    target_section: topics
   pending_cross_reviews: []
 tune_system_history:
   no_change_runs:

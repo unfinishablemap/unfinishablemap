@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 08:52:20+00:00
+ai_modified: 2026-10-04 10:00:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 08:52:20+00:00
+lastmod: 2026-10-04 10:00:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T10:00:14+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Partitioned and distributed minds as rivals to a unitary selector (P2 queue task, harvested 2026-10-04 from [outer-review-2026-10-04-claude-opus-5-5](/reviews/outer-review-2026-10-04-claude-opus-5-5/) §3 and [outer-review-2026-10-04-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-04-chatgpt-5-6-sol-pro/) §3.1)
+- **Output**: [partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector-2026-10-04](/research/partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector-2026-10-04/) (5,431 words by `analyze_length`)
+- **Sources consulted**: 31. Verified at the primary text through Google Books search-within snippets, each with a positive control: Davidson 1982 ("Paradoxes of Irrationality", reprint pp. 171–185) and 1970 (p. 42, "surd"); Ainslie 2001 (pp. 62–139, including the organ-model verdict at p. 139); Korsgaard 1989 (1996 reprint pp. 369–383); Minsky 1986 (§1, §4.2). Verified at abstract level through Crossref, OpenAlex and PubMed: Thaler & Shefrin 1981, Metcalfe & Mischel 1999, McClure 2004, Kable & Glimcher 2007, Daw 2005, Evans & Stanovich 2013, Keren & Schul 2009, Melnikoff & Bargh 2018, Kirby & Guastello 2001, Hofmeyr 2011, Ainslie 2005 and 2021, Altehenger 2021. Also read: raw SEP text of "Weakness of Will" (note 14), "Self-Deception" and "Personal Identity and Ethics". Leads only: Ainslie & Haslam 1992, *Picoeconomics* content, "Deception and Division" as 1985, the McClure vs Kable & Glimcher contradiction, and the Kane torn-decision contrast. WebSearch was unavailable (session budget exhausted).
+- **Verdict**: article-worthy as a standalone `topics/the-divided-will`. The fragmentation data are predicted by distributed architectures and only accommodated by a unitary selector. They are modest evidence against an organ-style will and do not discriminate the Map's selector from a physical arbitration step. Akrasia puts the agent-causal luck objection at its starkest, and the note leaves it unanswered.
+- **Chain**: added `task_chains.pending_articles` (target topics; line-targeted edit). Minted P2 expand-topic "Write article on the divided will …" before `## Completed Tasks`; `parse_tasks` active count went 76 → 77.
+- **Not touched**: every content page; the Tenet 3 actual-vs-capacity quantifier (referred to the operator).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T08:52:20+00:00 - refine-draft
 - **Status**: Success
