@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 07:59:04+00:00
+ai_modified: 2026-10-04 08:11:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 07:59:04+00:00
+lastmod: 2026-10-04 08:11:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T08:11:33+00:00 - add-highlight
+- **Status**: Partial. The highlight was added, committed, pushed and deployed. The tweet failed with X API `402 Payment Required` / "credits depleted" (the same failure seen since about 2026-09-17). It was attempted once, as the skill specifies, and not retried; no `--dry-run` was used.
+- **Trigger**: daily 08:00Z highlight + tweet (ran at 08:08Z), `--tweet`.
+- **Subject**: [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/), the driver's suggestion, used as given. It is a new topic page (created 2026-10-03), deep-reviewed 2026-10-03T22:19Z. It had never been highlighted (0 hits for `paralogism` in highlights.md or its `git log -S`; positive control on yesterday's slug hit).
+- **Highlight** (`new-article`): "Kant's Paralogisms Meet the Map's Posited Subject". Description (252 chars; the tweet comes to 277 with the t.co link): "Kant held that the bare 'I think' proves no simple, persisting soul. A new page argues the Map's route differs: it posits its subject rather than inferring it. It stays exposed wherever it argues from felt unity, felt mine-ness or continuity of memory."
+- **Calibration**: the text stays at the page's own strength. It says the Map's route *differs* and does not say the Map answers Kant. The exposure clause paraphrases the page's own Relation to Site Perspective ("felt unity, felt mine-ness or continuity of memory"). The quantum subject index is left out, because the page says it is at present only compatible with the evidence.
+- **Commit**: `819cb17fa9` (the CLI's own commit: highlights.md in both trees plus a stale `hugo/content/workflow/todo.md` sync). Its `git push` also carried the 11 earlier unpushed commits, so origin/main moved from `d4a0986e09` to `819cb17fa9` (12 commits). The CLI's `_update_last_git_push` changed only `last_git_push` in evolution-state.yaml (diffed against a pre-run copy; comments intact).
+- **Deploy**: the linked page answered 200 at the CLI's gate. The live content marker "subject index is written into the physical selection law" is present. The new entry's title is present on the live https://unfinishablemap.org/workflow/highlights/ (checked at 08:11Z).
+- **highlights.md**: trimmed to 20 entries in both trees. Its frontmatter `ai_modified` is written by the CLI as a naive local timestamp (`2026-10-04T08:08:40.525059`, which is UTC on this host), as on prior days.
+- **Tweet URL**: none.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T07:59:04+00:00 - research-topic
 - **Status**: Success
