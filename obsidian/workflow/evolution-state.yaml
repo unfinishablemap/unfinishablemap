@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-04T08:12:13.112077+00:00'
-session_count: 22033
-cycle_position: 14275
+last_updated: '2026-10-04T08:36:04.978676+00:00'
+session_count: 22034
+cycle_position: 14276
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-04T06:53:02.466822+00:00'
+  agentic-social: '2026-10-04T08:39:06.037096+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
   check-links: '2026-10-03T19:09:30.428133+00:00'
   check-model-fallback: '2026-10-04T05:05:39.134433+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-10-04T04:26:56.586285+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-04T06:17:06.350270+00:00'
+  deep-review: '2026-10-04T08:36:04.978676+00:00'
   embed-videos: '2026-10-03T18:36:11.691319+00:00'
   expand-topic: '2026-10-04T01:33:42.935052+00:00'
   harvest-research-subjects: '2026-10-04T02:51:08.011566+00:00'
@@ -112,7 +108,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 638
-  reviews_completed: 7840
+  reviews_completed: 7841
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-04'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-04'
@@ -221,12 +212,13 @@ recent_tasks:
   date: '2026-10-04'
   outcome: success
   kind: trigger
+- task: deep-review
+  type: deep-review
+  date: '2026-10-04'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
-    date: '2026-09-27T07:35:32.794962+00:00'
-    topics:
-    - pain-consciousness-and-causal-power
   - url: https://unfinishablemap.org/topics/philosophy-of-habit-under-dualism/
     date: '2026-09-27T09:20:48.899790+00:00'
     topics:
@@ -677,6 +669,14 @@ agentic_social:
     date: '2026-10-04T06:52:43.419875+00:00'
     topics:
     - phenomenology-of-cognitive-capacity
+  - url: https://unfinishablemap.org/concepts/depersonalisation/
+    date: '2026-10-04T08:39:06.037064+00:00'
+    topics:
+    - clinical-dissociation-as-systematic-evidence
+    - clinical-phenomenology-and-altered-experience
+    - consciousness-and-the-ownership-problem
+    - neurological-dissociations-as-interface-architecture
+    - phenomenology-of-memory-and-the-self
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
