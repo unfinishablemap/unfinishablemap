@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 11:36:57+00:00
+ai_modified: 2026-10-04 12:01:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 11:36:57+00:00
+lastmod: 2026-10-04 12:01:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T12:01:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [immunity-to-error-through-misidentification](/concepts/immunity-to-error-through-misidentification/)
+- **Word count**: 2,877 → 2,925 (+48; `analyze_length`, includes the reference list; concepts soft 2,500 / hard 3,500; length-neutral mode, budget ~3,100)
+- **Critical issues addressed**: 4. (1) Strawson p. 166 subject splice: "Kant's insight ... explains" → the criterionless-self-ascription fact explains, which Kant "sees clearly". (2) SEP wh-IEM overstatement: "has been treated as the more fundamental notion" → the SEP's "might legitimately be considered", as Pryor considers it. (3) Invented Strawson-vs-Shoemaker memory disagreement → the documented Evans dispute (García-Carpintero 2024 abstract). (4) Unsourced "most discussed counterexample" (×2).
+- **Medium issues addressed**: 9. Coliva "abstract" → "opening paragraph" (×3); SEP "actual cases"; SEP fantasy-case contrast; García-Carpintero paraphrase; Wiseman position from her abstract; Anscombe's "endless" qualifier restored; Child "plainly a body" → "embodied person" (×2); Gallagher subtitle added; SEP supplements named.
+- **Calibration**: Anscombe horn "strongest case" scoped to the three readings; L61 separation made conditional on the self/other reply; Tenet 5 "stops" → "denies that ... settles"; [P-I1](/positions/individuation-and-subjecthood/#p-i1) "on independent grounds" restored. Lead "IEM is no evidence that the subject is non-physical" intact; Tenet 3 "No bearing" kept, quantifier untouched; §(4) labelled as the Map's reconstruction.
+- **Attribution guards (a)–(i)**: all PASS ((f) vacuous: Coliva 2006 not cited).
+- **Citation ledger**: 17 sources plus 2 Map self-cites; all quotes grep-verified against raw sources (archive.org OCR, Cambridge Core, the SEP, OpenAlex/Semantic Scholar, Google Books [S]). One partial (Shoemaker p. 15 join). Unfetched: the Guttenplan and APQ journal page ranges.
+- **Engagement classification**: Lane & Liang 2011 / Campbell 1999 (IEM dissent): Mode Three, with the dispute reported at full strength and the verdict open; the Map takes no side. No physicalist opponent is replied to; the article concedes IEM gives the posit no support.
+- **Seams**: kants-paralogisms L82 PASS (Strawson quotes verbatim, subject correct); thought-insertion L102 PASS (Smith 2024 = Joel Smith SEP, correct); ownership-problem L84 caveat, L126 reword and Child 2026 reference PASS; indexical-knowledge-and-identity L112 DEFECT (dropped grounds-relativity qualifier) → P2 refine-draft minted; zero-word piped links PASS.
+- **Enhancements made**: 3 (reference corrections)
+- **Output**: [deep-review-2026-10-04-immunity-to-error-through-misidentification](/reviews/deep-review-2026-10-04-immunity-to-error-through-misidentification/)
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T11:36:57+00:00 - refine-draft
 - **Status**: Success
