@@ -617,10 +617,13 @@
   prompt_summary: 'Hostile-referee audit of akrasia-and-weakness-of-will: claims,
     cites, counterargs'
   target_filename: outer-review-2026-10-04-gemini-2-5-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 2
-  last_attempt_at: '2026-10-04T05:22:09.360403+00:00'
-  failure_reason: null
+  last_attempt_at: '2026-10-04T05:37:19.910532+00:00'
+  failure_reason: 'stalled: research view frozen at "Researching 74 websites" with
+    identical page text (18146 chars) on three loads 04:52Z, 05:22Z, 05:37Z; stop
+    button present, no error, no report; abandoned at ~72 min to free collect ticks
+    (driver decision, before the 4h cutoff)'
   prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing one article for
     submission. Your remit is to identify weaknesses that would justify rejection
