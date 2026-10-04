@@ -4,7 +4,7 @@ description: "Active selection and passive witnessing as two consciousness modes
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-10-03T15:52:30+00:00
+ai_modified: 2026-10-04T01:30:16+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -69,7 +69,7 @@ FA meditation trains the interface: the meditator practices selecting where atte
 
 ### Open Monitoring (OM) Meditation
 
-OM meditation—non-reactive awareness of whatever arises—cultivates passive witnessing. The meditator does not select a focus; all contents are equally received. Its firmest correlate is the posterior cingulate deactivation Garrison et al. tie to reported effortlessness, with alpha-theta harmonicity below rest (Rodriguez-Larios et al., 2020); DMN deactivation, though real, is meditation-general (Brewer et al., 2011).
+OM meditation—non-reactive awareness of whatever arises—cultivates passive witnessing. The meditator does not select a focus; all contents are equally received. Its firmest correlate is the [[brain-stimulation-and-the-witness-mode|posterior cingulate deactivation]] Garrison et al. tie to reported effortlessness, with alpha-theta harmonicity below rest (Rodriguez-Larios et al., 2020); DMN deactivation, though real, is meditation-general (Brewer et al., 2011).
 
 ### The Alpha-Theta Distinction
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-03 15:52:30+00:00
+ai_modified: 2026-10-04 01:30:16+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 19:35:30+00:00
-lastmod: 2026-10-03 15:52:30+00:00
+lastmod: 2026-10-04 01:30:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ FA meditation trains the interface: the meditator practices selecting where atte
 
 ### Open Monitoring (OM) Meditation
 
-OM meditation—non-reactive awareness of whatever arises—cultivates passive witnessing. The meditator does not select a focus; all contents are equally received. Its firmest correlate is the posterior cingulate deactivation Garrison et al. tie to reported effortlessness, with alpha-theta harmonicity below rest (Rodriguez-Larios et al., 2020); DMN deactivation, though real, is meditation-general (Brewer et al., 2011).
+OM meditation—non-reactive awareness of whatever arises—cultivates passive witnessing. The meditator does not select a focus; all contents are equally received. Its firmest correlate is the [posterior cingulate deactivation](/topics/brain-stimulation-and-the-witness-mode/) Garrison et al. tie to reported effortlessness, with alpha-theta harmonicity below rest (Rodriguez-Larios et al., 2020); DMN deactivation, though real, is meditation-general (Brewer et al., 2011).
 
 ### The Alpha-Theta Distinction
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-09-27 16:40:00+00:00
+ai_modified: 2026-10-04 01:30:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 16:40:00+00:00
-lastmod: 2026-09-27 16:40:00+00:00
+lastmod: 2026-10-04 01:30:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ The gap is real only if the production reading genuinely forbids what the filter
 
 The experiment has five ingredients. The first three are shared with the substrate-state design; the last two are what make it direction-dependent.
 
-**A reversible, focal, repeatable perturbation.** Unlike a lesion, the perturbation must be switchable so that one subject can be probed in both the closing and the reopening phase. Transcranial focused ultrasound is the candidate modality: Verhagen et al. (2019) showed that forty seconds of repetitive ultrasound to a medial frontal target in macaques changed regional activation and altered how selectively that region interacted with the rest of the brain for up to two hours, reversibly and without tissue damage — and the same modality has reached human subcortical targets in disorders-of-consciousness pilot work (Cain et al. 2021). The reversibility is the design's enabling feature: it supplies the *reopening* phase a lesion cannot.
+**A reversible, focal, repeatable perturbation.** Unlike a lesion, the perturbation must be switchable so that one subject can be probed in both the closing and the reopening phase. Transcranial focused ultrasound is the candidate modality: Verhagen et al. (2019) showed that forty seconds of repetitive ultrasound to a medial frontal target in macaques changed regional activation and altered how selectively that region interacted with the rest of the brain for up to two hours, reversibly and without tissue damage — and the same modality has reached human subcortical targets in disorders-of-consciousness pilot work (Cain et al. 2021) and the human posterior cingulate in sham-controlled pilot work ([brain-stimulation-and-the-witness-mode](/topics/brain-stimulation-and-the-witness-mode/)). The reversibility is the design's enabling feature: it supplies the *reopening* phase a lesion cannot.
 
 **A high-cost target channel.** The perturbation should preferentially load the autonoetic channel — which, on the design's working assumption, swings most in recovery order and so carries the largest predicted direction effect — by targeting a region the autobiographical-retrieval literature implicates in re-experiencing while sparing the regions that route noetic recognition. The targeting rests on a posited spatial dissociation between re-experiencing and recognition substrates that the design takes as a working assumption rather than an established fact; the assumed selectivity is itself a precondition the experiment must check, not a result it can presume.
 

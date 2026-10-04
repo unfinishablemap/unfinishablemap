@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-02 10:10:23+00:00
+ai_modified: 2026-10-04 01:30:16+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 07:47:30+00:00
-lastmod: 2026-10-02 10:10:23+00:00
+lastmod: 2026-10-04 01:30:16+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-quality-void]]'
@@ -39,7 +39,7 @@ topics:
 - '[[consciousness-and-the-ownership-problem]]'
 ---
 
-Depersonalisation — in the clinical manuals *depersonalization/derealization disorder* (DPDR; DSM-5 300.6, ICD-11 6B66), in much of the philosophical literature *depersonalisation disorder* (DPD) — is a persistent or recurrent alteration in which one's own thoughts, feelings, body and actions, or the world around one, are experienced as unreal, detached, or observed from outside. Three structural facts make it the clinical datum the Map cites more often than any other. Insight is retained: DSM-5 Criterion B requires that "reality testing remains intact" (as transcribed from the manual by secondary sources), so the patient who feels unreal knows she is not. Reports take an "as if" form — the Cambridge Depersonalisation Scale item "Parts of my body feel as if they didn't belong to me" (Sierra & Berrios 2000, as quoted in Billon 2016) is representative — and that preface belongs to the phenomenological tradition and the scale, not to the diagnostic text. And perception and cognition are otherwise intact: the patient sees, remembers, reasons and acts normally while the feeling that any of it is hers, or real, has drained away.
+Depersonalisation — in the clinical manuals *depersonalization/derealization disorder* (DPDR; DSM-5 300.6, ICD-11 6B66), in much of the philosophical literature *depersonalisation disorder* (DPD) — is a persistent or recurrent alteration in which one's own thoughts, feelings, body and actions, or the world around one, are experienced as unreal, detached, or [observed from outside](/topics/brain-stimulation-and-the-witness-mode/). Three structural facts make it the clinical datum the Map cites more often than any other. Insight is retained: DSM-5 Criterion B requires that "reality testing remains intact" (as transcribed from the manual by secondary sources), so the patient who feels unreal knows she is not. Reports take an "as if" form — the Cambridge Depersonalisation Scale item "Parts of my body feel as if they didn't belong to me" (Sierra & Berrios 2000, as quoted in Billon 2016) is representative — and that preface belongs to the phenomenological tradition and the scale, not to the diagnostic text. And perception and cognition are otherwise intact: the patient sees, remembers, reasons and acts normally while the feeling that any of it is hers, or real, has drained away.
 
 The Map's verdict on this datum runs on two tiers, as it does for [Cotard delusion](/concepts/cotard-delusion/). At the *architecture* tier, depersonalisation establishes that something normally bound to experience can come apart from experiential content without damage to the substrate that delivers the content; whether that something is a single phenomenal feature of for-me-ness (the Map's reading, shared with Billon), emotional colouring, a form of awareness, the transparency of self-consciousness, or a bundle of local self-relations is the [contested question below](#four-readings-of-what-comes-apart). At the *significance* tier the result is null: no reading on the table discriminates dualism from physicalism, two of the readings are fully specified physicalist mechanisms, and the philosopher whose work the Map leans on hardest suggests that what is missing "can only be explained in purely neurophysiological" terms. This page states the datum once so that the Map's six other treatments of it can point here rather than restate it.
 

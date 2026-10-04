@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-25
-ai_modified: 2026-09-27 09:35:54+00:00
+ai_modified: 2026-10-04 01:30:16+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 07:40:00+00:00
-lastmod: 2026-09-27 09:35:54+00:00
+lastmod: 2026-10-04 01:30:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The sham-equivalence finding is strongly supported for the conditions and outcom
 
 The result also enters a debit. Deliberate effort aimed at a specific rhythm left that rhythm unchanged even when the effort was contingently reinforced: power in the trained band did not change after training in the Schabus trial (Schabus 2018), and in Maaz et al. (2026) alpha rose over the session whether or not participants were trying to regulate it. That counts against reading the [neuroplasticity](/concepts/neuroplasticity/) article's selection claim as targeted self-directed change, in which effort picks a neural pattern and the pattern follows. Tenet 3's general claim, that consciousness causally influences the physical world, is untouched, since neither result shows effort to be idle, only that it did not reach the pattern it was aimed at.
 
-The trials also correct a tempting overstatement. Articles that cite neurofeedback studies of self-regulation, such as the Garrison et al. (2013) study discussed in [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/), should not take the clinical neurofeedback literature as backing for mind changing brain. Where that literature is well controlled, it shows that learning to move a signal and benefiting clinically come apart.
+The trials also correct a tempting overstatement. Articles that cite neurofeedback studies of self-regulation, such as the Garrison et al. (2013) study discussed in [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/), should not take the clinical neurofeedback literature as backing for mind changing brain. Where that literature is well controlled, it shows that learning to move a signal and benefiting clinically come apart. The complementary direction, exogenous stimulation of the posterior cingulate rather than learned self-regulation of it, meets the same sham problem: ultrasound aimed there has not separated from sham on phenomenology ([brain-stimulation-and-the-witness-mode](/topics/brain-stimulation-and-the-witness-mode/)).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The expectancy reading is the more economical one, since it uses factors every clinical trial already has to control for. Parsimony still does not choose between the readings here, because the simpler account depends on a classification the data do not fix. Thibault, Lifshitz and Raz list effort among the placebo factors, and an interactionist lists it as the treatment. Two questions are bundled in that disagreement. Whether effort carries the benefit is empirical, and the design above could decide it. Whether effort, if it does carry the benefit, should be filed as a "placebo" factor or as the treatment is classificatory, a choice about which arm counts as the control, and no trial settles it. The Map's position is to wait for the design on the first question rather than let simplicity settle it, and to treat the second as a matter of classification rather than evidence.
 

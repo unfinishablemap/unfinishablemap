@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T01:09:29+00:00
+ai_modified: 2026-10-04T01:32:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T01:32:59+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Brain stimulation and the witness mode — what PCC/precuneus stimulation has and has not shown, the one intracranial near-approach to the Map's falsifier (patient S19_137), and why no result yet separates the interface reading from production or the beautiful loop
+- **Output**: [[topics/brain-stimulation-and-the-witness-mode]]
+- **Word count**: 2,992 (`analyze_length`, status ok; topics soft 3,000 / hard 4,000). Prose ~2,150 + references/further reading ~840.
+- **Based on research**: yes, [[research/brain-stimulation-and-the-witness-mode-2026-10-03]]
+- **Quote verification**: every quoted string in the article string-matched against raw source text this session (Europe PMC / NCBI full-text XML for Parvizi 2021, Lord 2024, Pons 2026, Deane 2020, Fox 2020, Fox & Parvizi 2021, Vesuna 2020; Europe PMC abstracts for Foster 2017, Lyu 2023, Herbet 2014, Lou 2004, Ciaunica 2022, Lord 2025, Abellaneda-Pérez 2024; bioRxiv API abstract for Lord 2026; Crossref abstract for Parvizi 2026; OSF v2 PDF for Ehmann 2025). One correction to the research note's S19_137 table: "I stopped considering them 'me'" and "an observer of an active, internalized experience" describe his SEIZURES; stimulation "induced a subjectively similar state, reproducibly" (the article says so). The authors attribute his retained control under stimulation to careful current management — recorded. Natu et al. 2019 dropped for length. Added Fox 2020's own mitigation of the false-negative caveat and Pons 2026's "most in both groups described them as mixed" qualifier.
+- **Guards honoured**: S19_137 counted once (Parvizi 2021 = Vesuna 2020 patient), no sham for him; Lord 2024 between-group null for connectivity and phenomenology, sham mindfulness also rose, blinding 11/15 vs 3/15; Ehmann 2025 open-label, "cannot support causal inferences", NADA-S p = .40 / .06 / .027, Effortlessness and Spaciousness "Independent of Stimulation Day"; third author per the OSF v2 PDF (Lord, E. N.) with the Crossref "Cook, E." noted; Lord 2026 abstract-only, 16 vs 8, participants in training, within-group correlation with acceptance; Lyu 2023 kept outside the PCC/DMN story; Foster & Parvizi 885/25 null as base rate; Fox 2020 21%. Witness/depersonalisation boundary named (DSM-5 via Parvizi; Pons CDS null; Deane control lost vs gained); falsifier read as requiring the witness profile against sham. Interface reading stated as accommodating both outcomes (a cost); falsifier said to test training-dependence. Tenet 3 quantifier NOT settled — S19_137's control line recorded without inference. No Minimal Quantum Interaction claim. Tier ladder kept out of article prose.
+- **Integration** (before → after, `analyze_length`): [[topics/the-observer-witness-in-meditation]] L157 condition (3) — "remains unshown" clause replaced by a two-sentence S19_137 near-approach + link, 3,223 → 3,256 (held loci untouched); [[concepts/witness-consciousness]] L162 zero-word pipe on "neurostimulation", 3,497 → 3,497; [[concepts/meditation-and-consciousness-modes]] L72 zero-word pipe on "posterior cingulate deactivation", 3,492 → 3,492; [[concepts/depersonalisation]] L37 zero-word pipe on "observed from outside" (outside the L43 DSM quotation), 3,498 → 3,498; [[topics/sham-controlled-neurofeedback-and-the-consciousness-comparator]] L89 one sentence (exogenous stimulation as the complement of learned self-regulation), 3,291 → 3,322; optional reciprocals [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] L116, 3,548 → 3,568, and [[topics/direction-dependent-discriminating-test-design]] L56, 2,464 → 2,474. Apex contemplative-path not edited (apex-evolve's domain).
+- **State**: removed the brain-stimulation entry from `evolution-state.yaml` `task_chains.pending_articles` (line-targeted two-line delete; YAML re-parsed OK).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T01:09:29+00:00 - refine-draft
 - **Status**: Success

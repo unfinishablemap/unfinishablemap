@@ -4,7 +4,7 @@ description: "Human+AI design-space inquiry: which focal-lesion or focal-stimula
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-08-02T07:36:36+00:00
+ai_modified: 2026-10-04T01:30:16+00:00
 last_deep_review: 2026-08-02T07:36:36+00:00
 draft: false
 topics:
@@ -113,7 +113,7 @@ Unlike the other two pairings, this one has no perturbation study to point to. S
 
 ### Precuneus / Posterior Cingulate vs. Lateral Parietal Association
 
-The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. Continuous theta-burst TMS to the precuneus has been shown to modulate source-memory retrieval (Bonnì et al. 2015), but not yet as a channel-state-versus-degradation discriminator. Transcranial focused ultrasound may bring the depth and selectivity this target needs within reach (Verhagen et al. 2019; Cain et al. 2021), though the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
+The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. Continuous theta-burst TMS to the precuneus has been shown to modulate source-memory retrieval (Bonnì et al. 2015), but not yet as a channel-state-versus-degradation discriminator. Transcranial focused ultrasound may bring the depth and selectivity this target needs within reach (Verhagen et al. 2019; Cain et al. 2021), and suppressive ultrasound has since been aimed at the human PCC in sham-controlled studies of mindfulness rather than memory ([[brain-stimulation-and-the-witness-mode]]), though the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
 
 ### Anterior Thalamic Nuclei vs. Mediodorsal Thalamus
 

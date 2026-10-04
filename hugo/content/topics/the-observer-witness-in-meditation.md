@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-10-03 12:40:33+00:00
+ai_modified: 2026-10-04 01:30:16+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 06:50:18+00:00
-lastmod: 2026-10-03 12:40:33+00:00
+lastmod: 2026-10-04 01:30:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ This challenge deserves serious weight. If advanced practice reveals the witness
 
 ### What Would Challenge This View?
 
-The dualist interpretation of the witness would face difficulty if: (1) neural correlates proved sufficient to fully predict and explain all phenomenological features of witnessing, leaving no explanatory residue; (2) advanced contemplatives across traditions consistently reported that deep practice reveals the witness as illusion rather than transcending it; or (3) brain stimulation could artificially generate or eliminate the witness mode independent of any contemplative development, suggesting it is merely a brain state rather than a mode of consciousness. None of these conditions has been decisively demonstrated—condition (3) is complicated by an active brain-stimulation literature modulating the DMN and PCC, whose bearing on the witness mode specifically remains unshown—but specifying them clarifies what evidence would matter.
+The dualist interpretation of the witness would face difficulty if: (1) neural correlates proved sufficient to fully predict and explain all phenomenological features of witnessing, leaving no explanatory residue; (2) advanced contemplatives across traditions consistently reported that deep practice reveals the witness as illusion rather than transcending it; or (3) brain stimulation could artificially generate or eliminate the witness mode independent of any contemplative development, suggesting it is merely a brain state rather than a mode of consciousness. None of these conditions has been decisively demonstrated, but specifying them clarifies what evidence would matter. Condition (3) has one near-approach on structure: posteromedial stimulation reproducibly induced an observer-of-his-own-thoughts state in a single untrained epilepsy patient, with no sham trial for him, while ultrasound aimed at the PCC has not separated from sham on phenomenology; [brain-stimulation-and-the-witness-mode](/topics/brain-stimulation-and-the-witness-mode/) weighs the case and asks whether such a state is the witness or depersonalisation.
 
 ## Relation to Site Perspective
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-03 15:52:30+00:00
+ai_modified: 2026-10-04 01:30:16+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 14:04:40+00:00
-lastmod: 2026-10-03 15:52:30+00:00
+lastmod: 2026-10-04 01:30:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -162,7 +162,7 @@ This supports the [No Many Worlds](/tenets/#no-many-worlds) tenet. Many-worlds w
 
 ## What Would Challenge This View?
 
-The Map's position would face serious difficulty if: (1) contemplative traditions reported radically different phenomenologies, weakening claims to a universal structure; (2) neurostimulation could arbitrarily create or eliminate the witness mode independent of contemplative development; (3) advanced contemplatives consistently reported that deep practice *dissolves* the witness distinction as illusion rather than transcending it; or (4) functional explanations could satisfy practitioners that their experience is fully explained without phenomenal remainder.
+The Map's position would face serious difficulty if: (1) contemplative traditions reported radically different phenomenologies, weakening claims to a universal structure; (2) [neurostimulation](/topics/brain-stimulation-and-the-witness-mode/) could arbitrarily create or eliminate the witness mode independent of contemplative development; (3) advanced contemplatives consistently reported that deep practice *dissolves* the witness distinction as illusion rather than transcending it; or (4) functional explanations could satisfy practitioners that their experience is fully explained without phenomenal remainder.
 
 ## Challenges and Responses
 
