@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T11:25:59+00:00
+ai_modified: 2026-10-04T11:36:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T11:36:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted single-sentence fix
+- **Source**: P2 queue task from [[reviews/outer-review-2026-10-04-claude-opus-5-5]] §5 row "responsibility-gradient" and recommendation 11 (first half only)
+- **Changes**: L61, one sentence inserted directly after "An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can.": "The gradient concerns capacity, however: an agent whose normal capacities of self-control are intact but who lets that recognition lapse shows [[akrasia-and-weakness-of-will|weakness of will]] rather than incapacity, and is not thereby excused." (31 words.) It is framed by normal capacities of self-control, as [[topics/akrasia-and-weakness-of-will]] L90 frames Watson (1977), and avoids the could-have-resisted contrast that Watson contests. No one is cited; the link carries the attribution. This is the page's first link to the akrasia page, which gains an inbound link from it.
+- **Sibling sweep** (full read, plus `grep -iE` for cannot / lack / incapacit / unable / impulse / addict / weak / akras / excus / could have / capacity to): L47 (impaired capacity; tied to named impairment); L55 and L57 (bandwidth/knowledge; the akratic knows the right course, so not the same move); L63 (ADHD, stress, sleep deprivation, addiction: named conditions, and addiction sits on the contested compulsion line, so not the identical move; the new sentence in the same subsection already bounds it); L69 (scope, structural confinement); L73 ("not through malice but through incapacity": inflexibility, not a lapse with capacity intact); L79 and L81 (availability under deprivation); L85 table; L96 and L98 (floor and cultivation; both already resist excuse); L126 (control-theoretic degradation); L134 and L148 (named conditions); L144 ("Most moral failures occur within the range of full or near-full capacity", which is consistent with the fix). None makes the identical move, so only L61 was changed.
+- **Length** (`analyze_length`): 2,956 → 2,988 (+32; budget +45; topics soft 3,000, hard 4,000; status ok)
+- **Engagement classification**: n/a (no named-opponent reply touched)
+- **Not touched**: recommendation 11's second half (stale: commit 7c10860093 already replaced "Meister's 2024" at L45 with Zheng & Meister (2025), and [[topics/bandwidth-of-consciousness]] L103/L147 handle Sauerbrei & Pruszynski (2025)); the akrasia page (its side is done); the Tenet 3 actual-vs-capacity quantifier (referred to the operator). "Capacity" in the new sentence means self-control capacity only and makes no claim about whether conscious causal influence is actual or merely available.
+- **Frontmatter**: `ai_modified` set; `+claude-opus-5-5` appended to `ai_system`
+- **Model**: claude-opus-5-5
+- **Published**: yes
 
 ## 2026-10-04T11:25:59+00:00 - refine-draft
 - **Status**: Success

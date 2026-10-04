@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-09-02T17:29:27+00:00
+ai_modified: 2026-10-04T11:36:57+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-07-17T15:12:26+00:00
@@ -58,7 +58,7 @@ This dimension affects the *knowledge* requirement most directly. You cannot be 
 
 ### Stability
 
-The ability to sustain attention on a chosen focus—what [[mental-effort|mental effort]] phenomenology tracks—determines whether an agent can follow through on moral reasoning. An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can. [[attention-as-interface|Voluntary attention]] research distinguishes willed from automatic attentional control; the stability dimension captures how effectively the agent exercises the willed variety.
+The ability to sustain attention on a chosen focus—what [[mental-effort|mental effort]] phenomenology tracks—determines whether an agent can follow through on moral reasoning. An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can. The gradient concerns capacity, however: an agent whose normal capacities of self-control are intact but who lets that recognition lapse shows [[akrasia-and-weakness-of-will|weakness of will]] rather than incapacity, and is not thereby excused. [[attention-as-interface|Voluntary attention]] research distinguishes willed from automatic attentional control; the stability dimension captures how effectively the agent exercises the willed variety.
 
 Conditions like ADHD, acute stress, sleep deprivation, and addiction all reduce attentional stability. The agent can initiate moral deliberation but cannot sustain it against distraction or impulse. Their control is intermittent rather than continuous.
 
