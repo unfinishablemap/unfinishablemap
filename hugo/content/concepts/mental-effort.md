@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-04 07:25:17+00:00
+ai_modified: 2026-10-04 13:32:59+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-10-04 07:25:17+00:00
+lastmod: 2026-10-04 13:32:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ Naccache and colleagues (2005) report a patient with a left mesio-frontal lesion
 
 ### Depletion
 
-A preregistered 23-laboratory replication of the ego-depletion effect found d=0.04, 95% CI [−0.07, 0.15] (Hagger et al., 2016; N=2,141). A larger proponent-led test found d=0.06, with data four times likelier under the null (Vohs et al., 2021; N=3,531): in its standard paradigm the resource model failed. Yet a 30–40-minute antisaccade manipulation yielded d=0.31–0.35 across 14 samples, its authors proposing that replicability "may hinge on the intensity of the manipulation" (Dang et al., 2025). That supports an effect, not the resource model: the process account [below](#modulation) predicts the decrement too. The felt-drained sense survives; reading it as a unitary-resource gauge does not.
+A preregistered 23-laboratory replication of the ego-depletion effect found d=0.04, 95% CI [−0.07, 0.15] (Hagger et al., 2016; N=2,141). A larger proponent-led test found d=0.06, with data four times likelier under the null (Vohs et al., 2021; N=3,531): in its standard paradigm the resource model failed. Yet a 30–40-minute antisaccade manipulation yielded d=0.31–0.35 across 14 samples, its authors proposing that replicability "may hinge on the intensity of the manipulation" (Dang et al., 2025). That supports an effect, not the resource model: the process account [below](#modulation) predicts the decrement too. The felt-drained sense survives; reading it as a [unitary-resource gauge](/topics/the-divided-will/#the-organ-model-test) does not.
 
 ### Modulation
 

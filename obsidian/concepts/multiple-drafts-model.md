@@ -4,7 +4,7 @@ description: "Dennett's Multiple Drafts Model rejects the Cartesian Theater. The
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-08-21T23:40:00+00:00
+ai_modified: 2026-10-04T13:32:59+00:00
 draft: false
 topics:
   - "[[eliminative-materialism]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[positions/quantum-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-12
 last_curated:
 last_deep_review: 2026-08-21T23:40:00+00:00
@@ -76,6 +76,7 @@ The Map's other main argument, by contrast, is a framework-boundary one — the 
 - [[unity-of-consciousness]] — The "narrator" response, and why it marks a framework boundary rather than refuting the model
 - [[falsification-roadmap-for-the-interface-model]] — Where the Map's framework does take on empirical risk, in contrast to the non-empirical residue commitment
 - [[positions/quantum-interface]] — The register entry that keeps the in-principle discriminability question open, and why conceding it would cost the Map a band
+- [[the-divided-will]] — Partitioned and distributed models of the will, which explain choice with no single selector
 
 ## References
 

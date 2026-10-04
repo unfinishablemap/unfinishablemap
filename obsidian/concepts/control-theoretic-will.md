@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-10-04T11:25:59+00:00
+ai_modified: 2026-10-04T13:32:39+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -143,7 +143,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 **Stability conditions.** Under what parameter ranges does the consciousness-brain control loop remain stable? Can pathological conditions (addiction, compulsion, dissociation) be modelled as specific instabilities? This connects to [[attentional-economics#Implications for Moral Responsibility|moral responsibility]]—control failures may carry different moral weight than control refusals.
 
-**Akratic signal mapping.** In [[akrasia-and-weakness-of-will|akrasia]], selection reportedly diverges from the agent's all-things-considered evaluation. One candidate: that judgement is the reference signal, which prepared action reaches threshold is the controlled variable, present felt pull is the disturbance, phenomenal experience of both is the feedback, and the selection mechanism is the actuator. A controller should not drive the plant off its own setpoint, so either felt pull is a [[valence-and-conscious-selection#the-value-sensitive-horn-valence-as-selection-currency|second reference]] it tracks at action time (a refusal) or its authority fails against that particular pull (a failure). A distributed architecture predicts the divergence with no single controller, where a unitary one only accommodates it. The mapping is open, as is whether any reading needs a non-physical controller.
+**Akratic signal mapping.** In [[akrasia-and-weakness-of-will|akrasia]], selection reportedly diverges from the agent's all-things-considered evaluation. One candidate: that judgement is the reference signal, which prepared action reaches threshold is the controlled variable, present felt pull is the disturbance, phenomenal experience of both is the feedback, and the selection mechanism is the actuator. A controller should not drive the plant off its own setpoint, so either felt pull is a [[valence-and-conscious-selection#the-value-sensitive-horn-valence-as-selection-currency|second reference]] it tracks at action time (a refusal) or its authority fails against that particular pull (a failure). A [[the-divided-will|distributed architecture]] predicts the divergence with no single controller, where a unitary one only accommodates it. The mapping is open, as is whether any reading needs a non-physical controller.
 
 **Adaptive control.** Does the controller's strategy change with experience? Meditation and attention training suggest it does—the controller becomes more efficient. Schwartz & Begley (2002) document how directed mental effort produces measurable neuroplastic changes in OCD patients, suggesting the controller can reshape the plant it governs. Adaptive control theory provides frameworks for modelling how a controller improves over time while maintaining stability.
 
@@ -165,6 +165,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [[near-perfect-adaptation-and-control-theoretic-competency-without-experience]] — the mirror-image use of control theory: where this article runs the analogy *toward* consciousness, that concept uses the same primitive to show what robust regulation *fails to entail*
 - [[wholeheartedness-void]] — What "stable preferences that move action" leaves out: the felt seam of identification the control frame cannot recover
 - [[akrasia-and-weakness-of-will]] — When selection diverges from the agent's own better judgement
+- [[the-divided-will]] — Partitioned and distributed architectures that predict akratic divergence with no single controller
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Habit is the interface's delegation function: conscious selection 
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-09-30T18:12:18+00:00
+ai_modified: 2026-10-04T13:32:59+00:00
 draft: false
 topics:
   - "[[delegatory-dualism]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[consciousness-and-skill-acquisition]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-07-07
 last_curated:
 last_deep_review: 2026-09-29T17:41:15+00:00
@@ -56,7 +56,7 @@ Neither thinker is a dualist—Dewey's transactionalism is explicitly naturalist
 
 Contemporary cognitive science operationalizes what the philosophers described. Ann Graybiel's review "Habits, Rituals, and the Evaluative Brain" (*Annual Review of Neuroscience*, 2008) characterizes habits as chunked action sequences—motor or cognitive—elicited by a context or cue which, once fully acquired, are "performed almost automatically, virtually nonconsciously, allowing attention to be focused elsewhere." Through **chunking**, basal-ganglia circuits bind sub-actions into a single unit run as a whole, with accentuated activity at a routine's beginning and end marking its boundaries. Habits form through experience-dependent plasticity and can outlast the goals that created them.
 
-Wendy Wood and Dennis Rünger's "Psychology of Habit" (*Annual Review of Psychology*, 2016) names the defining marker: habits are **outcome-insensitive**. As a behavior repeats in a stable context, the *cue*—not the goal—comes to trigger the response, so a well-learned response can fire even when it conflicts with current intentions. Habit and deliberate goal pursuit operate synergistically; habit is the efficient default, overridden only when motivation *and* the opportunity for deliberate control are both present. Nathaniel Daw and colleagues formalize the split as **model-free** control (habitual: cheap, inflexible, caches past action values) versus **model-based** control (goal-directed: costly, flexible, simulates consequences using a world-model); their 2005 paper with Yael Niv and Peter Dayan proposes that prefrontal and dorsolateral striatal systems compete for control, arbitrated by which is currently less uncertain. Their later fMRI study (*Neuron*, 2011) then complicates any clean anatomical separation: striatal prediction-error signals expected to be a pure model-free report turned out to reflect model-based valuations too, which the authors read as evidence for a more integrated architecture rather than two independent learners. Parkinson's disease is the disease case of the outcome-insensitivity marker: direct devaluation and slips-of-action tests find habit expression intact or dominant in patients while outcome-sensitive control weakens with severity ([[outcome-devaluation-and-dual-task-costs-in-parkinsons]]).
+Wendy Wood and Dennis Rünger's "Psychology of Habit" (*Annual Review of Psychology*, 2016) names the defining marker: habits are **outcome-insensitive**. As a behavior repeats in a stable context, the *cue*—not the goal—comes to trigger the response, so a well-learned response can fire even when it conflicts with current intentions. Habit and deliberate goal pursuit operate synergistically; habit is the efficient default, overridden only when motivation *and* the opportunity for deliberate control are both present. Nathaniel Daw and colleagues formalize the split as **model-free** control (habitual: cheap, inflexible, caches past action values) versus **model-based** control (goal-directed: costly, flexible, simulates consequences using a world-model); their 2005 paper with Yael Niv and Peter Dayan proposes that prefrontal and dorsolateral striatal systems compete for control, [[the-divided-will|arbitrated]] by which is currently less uncertain. Their later fMRI study (*Neuron*, 2011) then complicates any clean anatomical separation: striatal prediction-error signals expected to be a pure model-free report turned out to reflect model-based valuations too, which the authors read as evidence for a more integrated architecture rather than two independent learners. Parkinson's disease is the disease case of the outcome-insensitivity marker: direct devaluation and slips-of-action tests find habit expression intact or dominant in patients while outcome-sensitive control weakens with severity ([[outcome-devaluation-and-dual-task-costs-in-parkinsons]]).
 
 These findings are empirical, not metaphysical. They supply the mechanism of the physical trace and an experimental signature of re-engagement without settling what consciousness is—a point the Map is careful to preserve.
 
@@ -96,6 +96,7 @@ Habit, in short, is [[delegatory-dualism|delegatory dualism]] observed at its mo
 - [[delegation-meets-quantum-selection]] — the delegation function habit invokes, formalised as a loop through the physical world
 - [[one-structure-three-vocabularies]] — the same delegation structure read across coherence, prepared-option, and Born-rule registers
 - [[interface-friction]] — habit as the low-friction delegated extreme of the interface's friction gradient
+- [[the-divided-will]] — arbitration between controllers as a selection step with no selector, and what that means for the Map's unitary selector
 
 ## References
 

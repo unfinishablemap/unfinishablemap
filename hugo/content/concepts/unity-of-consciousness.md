@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-10-03 18:18:15+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-04 13:32:39+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/phenomenal-unity/
@@ -37,7 +37,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:57:00+00:00
-lastmod: 2026-10-03 18:18:15+00:00
+lastmod: 2026-10-04 13:32:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,7 +146,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 
 **Minimal Quantum Interaction**: Quantum entanglement is the one domain in physics where joint states are non-separable (relative to a chosen division into subsystems). If consciousness interacts with the brain at the quantum level through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), entanglement offers a physical correlate whose structure mirrors phenomenal unity's resistance to decomposition.
 
-**Bidirectional Interaction**: [Bidirectional interaction](/tenets/#bidirectional-interaction) requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection, which phenomenal unity supplies. Whether the subject also *persists* across time is a further commitment, downstream of [agent causation](/concepts/agent-causation/) in the Map's agency cluster rather than entailed by the Dualism tenet, which stays neutral between substance and property readings; see [where the substance commitment enters](/concepts/where-the-substance-commitment-enters/).
+**Bidirectional Interaction**: [Bidirectional interaction](/tenets/#bidirectional-interaction) requires a unified agent. If consciousness were fragmented—many separate micro-experiences with no encompassing unity—there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection, and phenomenal unity does not by itself supply one: in [akrasia](/topics/akrasia-and-weakness-of-will/) a unified field coexists with divided control, which [partitioned and distributed models of the will](/topics/the-divided-will/) predict. Whether the subject also *persists* across time is a further commitment, downstream of [agent causation](/concepts/agent-causation/) in the Map's agency cluster rather than entailed by the Dualism tenet, which stays neutral between substance and property readings; see [where the substance commitment enters](/concepts/where-the-substance-commitment-enters/).
 
 **No Many Worlds**: Phenomenal unity appears indexically definite—*this* experience is unified, not merely unified-in-some-branch. Branch-relative accounts also count each branch's experience unified, so rejecting MWI adds nothing to unity; the [No Many Worlds tenet](/tenets/#no-many-worlds) secures only indexical identity—whose unified experience this is.
 

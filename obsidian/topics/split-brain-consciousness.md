@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-08-18T21:17:37+00:00
+ai_modified: 2026-10-04T13:32:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[clinical-dissociation-as-systematic-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-20T02:12:20+00:00
@@ -75,7 +75,7 @@ The 2017 University of Amsterdam research adds another layer: split-brain patien
 
 A critical distinction: neural synchronization (what fMRI measures) is not the same as [[unity-of-consciousness|phenomenal unity]]. The former is a neural correlate; the latter is what the [[hard-problem-of-consciousness|hard problem]] insists cannot be read directly off neural data. Still, the convergence of synchronization, behavioral coordination, and patient reports is stronger evidence for preserved experiential unity than any single source alone.
 
-Schechter and Bayne (2021) press a rebuttal the resilience reading must answer. Pinto's experiments show the patient responding as a single organism — pointing with either hand, or answering verbally, to stimuli in either field — but this establishes a unity of *agency*, not a unity of *experience*. A single agent behaving coherently is compatible with two phenomenal streams whose outputs are coordinated, plausibly through subcortical cross-cueing that lets one hemisphere's processing steer the other's response without the two sharing a phenomenal field. The sharper test is co-consciousness: split-brain subjects can perceive two stimuli separately yet, on the classical findings, cannot reliably judge them same-or-different *together* — the comparative operation that would require both to be present to one experiencing subject. Whether Pinto's data are better read as unity of agency or unity of experience is, Schechter and Bayne argue, still open. The distinction bears directly on the interface reading developed below: agency-unity is what a coordinated substrate would produce whether or not the phenomenal subject is single, so the resilience argument earns its dualist conclusion only at the experience level — precisely where the evidence stays underdetermined.
+Schechter and Bayne (2021) press a rebuttal the resilience reading must answer. Pinto's experiments show the patient responding as a single organism — pointing with either hand, or answering verbally, to stimuli in either field — but this establishes a unity of *agency*, not a unity of *experience*. A single agent behaving coherently is compatible with two phenomenal streams whose outputs are coordinated, plausibly through subcortical cross-cueing that lets one hemisphere's processing steer the other's response without the two sharing a phenomenal field. The sharper test is co-consciousness: split-brain subjects can perceive two stimuli separately yet, on the classical findings, cannot reliably judge them same-or-different *together* — the comparative operation that would require both to be present to one experiencing subject. Whether Pinto's data are better read as unity of agency or unity of experience is, Schechter and Bayne argue, still open. The distinction bears directly on the interface reading developed below: [[the-divided-will|agency-unity]] is what a coordinated substrate would produce whether or not the phenomenal subject is single, so the resilience argument earns its dualist conclusion only at the experience level — precisely where the evidence stays underdetermined.
 
 ## Three Dimensions of Unity
 

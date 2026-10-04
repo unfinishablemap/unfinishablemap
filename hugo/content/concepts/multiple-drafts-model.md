@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-08-21 23:40:00+00:00
-ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
+ai_modified: 2026-10-04 13:32:59+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - heterophenomenology
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 23:40:00+00:00
-lastmod: 2026-08-21 23:40:00+00:00
+lastmod: 2026-10-04 13:32:59+00:00
 modified: *id001
 related_articles:
 - '[[heterophenomenology]]'
@@ -85,6 +85,7 @@ The Map's other main argument, by contrast, is a framework-boundary one — the 
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The "narrator" response, and why it marks a framework boundary rather than refuting the model
 - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — Where the Map's framework does take on empirical risk, in contrast to the non-empirical residue commitment
 - [quantum-interface](/positions/quantum-interface/) — The register entry that keeps the in-principle discriminability question open, and why conceding it would cost the Map a band
+- [the-divided-will](/topics/the-divided-will/) — Partitioned and distributed models of the will, which explain choice with no single selector
 
 ## References
 

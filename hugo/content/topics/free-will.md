@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-09-28 01:22:44+00:00
+ai_modified: 2026-10-04 13:32:59+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-09-28 01:22:44+00:00
+lastmod: 2026-10-04 13:32:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ The strongest case that free will is incompatible with determinism—shared by h
 
 The **[luck objection](/concepts/quantum-indeterminacy-free-will/)** is the strongest challenge to libertarian free will: if choices aren't determined by prior causes, what explains them? The Map's response is [agent-causal](/concepts/agent-causation/): the agent *as persisting substance* directly causes choices, ontologically prior to any events. The agent's exercise of causal power *is* the explanation—irreducible to any prior event sequence.
 
-That says *who* settles the outcome, not why it went one way. Van Inwagen's rollback presses the contrastive question: replay the same agent in the same state and, if the choice is open, some replays yield A and others B. The agent's reasons make A intelligible when A occurs, but the reasons for B were present in every replay too, so they cannot explain the difference between replays. The Map's answer is that the settling is the agent's and nothing more basic accounts for it—a primitive whose modal structure is owed rather than supplied. [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) develops the reply and [event-causal-libertarianism](/topics/event-causal-libertarianism/) gives Kane's.
+That says *who* settles the outcome, not why it went one way. Van Inwagen's rollback presses [the contrastive question](/topics/the-divided-will/#luck-objection): replay the same agent in the same state and, if the choice is open, some replays yield A and others B. The agent's reasons make A intelligible when A occurs, but the reasons for B were present in every replay too, so they cannot explain the difference between replays. The Map's answer is that the settling is the agent's and nothing more basic accounts for it—a primitive whose modal structure is owed rather than supplied. [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) develops the reply and [event-causal-libertarianism](/topics/event-causal-libertarianism/) gives Kane's.
 
 Three lines of evidence fit genuine agent causation:
 

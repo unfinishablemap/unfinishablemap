@@ -1,14 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 13:06:52+00:00
+ai_modified: 2026-10-04 13:35:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 13:06:52+00:00
+lastmod: 2026-10-04 13:35:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T13:35:45+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The divided will — partitioned and distributed rivals to the Map's selector, Ainslie's organ-model test, and why akrasia sharpens the luck objection
+- **Output**: [the-divided-will](/topics/the-divided-will/)
+- **Word count**: 2,986 total by `analyze_length` (topics soft 3,000 / hard 4,000; status ok; target 2,600–3,000). Prose before Further Reading is 2,493, Further Reading 83 and References 410. Topics section was 342 by `count_section_files` before the write.
+- **Based on research**: yes, [partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector-2026-10-04](/research/partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector-2026-10-04/)
+- **Map position**: non-discriminating, with framework-internal coherence only. The lead says that the fragmentation data (O1–O5) are predicted by partitioned and distributed architectures and only accommodated by a unitary selector. They are modest evidence against an organ-style will and do not discriminate between the selector and physical arbitration. Tenet 5 blocks a parsimony dismissal and never counts in the selector's favour. The luck objection is left unanswered, as on the akrasia page.
+- **Inclusions**:
+  - (1) The candidate-selection trilemma: rubber-stamp ≈ [P-Q3](/positions/quantum-interface/#p-q3), surd relocated, or medium rather than explanation.
+  - (2) Interface relocation is always available, so it discriminates nothing (split-brain L78 quoted).
+  - (3) The selector is "candidate-relative … never a faculty of general strength".
+  - (4) The luck objection at full strength, left unanswered.
+  - (5) Korsgaard's practical unity as the rival framing. The cost: unity of agency gives the posit no support.
+- **Attribution guards**:
+  - "Surd" is credited to Davidson 1970 p. 42, and n. 25 is quoted. Davidson 1982's non-homuncular p. 185 is quoted, and the battlefield picture is not attributed.
+  - Ainslie's p. 125 table and p. 139 verdict are framed as advocacy. Kirby & Guastello and Hofmeyr et al. are given as [A] abstracts, with "If replicated", at the live-hypothesis tier. No Bratman/resolute-choice classing.
+  - McClure and Kable & Glimcher: each abstract's own claim only.
+  - The akratic selects against the all-things-considered ranking, not "all reasons".
+  - The Kane contrast was omitted as unverified. Nothing is quoted from *Picoeconomics*, Elster or Schelling.
+  - Every quote is ≤25 words.
+- **Doctrine guards**:
+  - Felt unity, ownership and co-present pulls are never presented as evidence.
+  - The Tenet 3 quantifier is not settled: "takes no view on how widely conscious selection operates", and tenets.md is quoted exactly ("a posit the interface argument leaves open, not a result it secures").
+  - The bi-aspectual tension is left open. The [P-SC2](/positions/subject-census/#p-sc2) pointer is one sentence, marked "Speculatively".
+  - No "This is not X. It is Y."; no "load-bearing". `topics:` holds 5 bare slugs.
+- **Gap search** (agent-causal reply). WebSearch was exhausted (200/200), so OpenAlex and Google Books search-within were used, each with a positive control (Korsgaard 1996 on OpenAlex; "present luck" on Levy).
+  - Verified [S]: Levy, *Hard Luck* (OUP 2011), pp. 44, 66, 67, 153, including "Far from being paradigmatically free actions, akratic actions are lucky actions" (p. 153). Steward, *A Metaphysics for Freedom* (OUP 2012), pp. 16, 147, 161: weakness of will "might nevertheless be essential to the very existence of such an agent", the nearest agent-side move; the article argues it explains the capacity, not the occasion.
+  - Located by title and metadata only: Franklin, "Agent-Causation, Explanation, and Akrasia: A Reply to Levy's *Hard Luck*", *Crim. Law & Phil.* 9(4): 753–770, 2015, doi 10.1007/s11572-013-9274-1. The abstract was elided at Crossref, OpenAlex and S2, and Springer and PhilPapers were blocked. The article says so and does not rely on it.
+  - O'Connor and Clarke: the Google Books ISBN lookups 404'd, so they were not checked.
+- **Integration** (`analyze_length` before → after):
+  - topics/akrasia-and-weakness-of-will: 3,575 → 3,598. Pipe on "The strongest rival has no single selector" (0 words) plus one Further Reading line.
+  - concepts/control-theoretic-will: 2,634 → 2,649. Pipe on "distributed architecture" in the L146 Akratic signal mapping paragraph plus one Further Reading line.
+  - concepts/unity-of-consciousness L145: 2,741 → 2,764. The text "which phenomenal unity supplies" became "and phenomenal unity does not by itself supply one: in akrasia a unified field coexists with divided control, which partitioned and distributed models of the will predict", with links.
+  - topics/kants-paralogisms-and-the-maps-subject L82: 3,547 → 3,583. A 36-word sentence on felt unity of agency was appended at the end of L82. L76/78/84/86/96/98–110 are untouched for the queued P2.
+  - concepts/interpreter-module-narrative-construction-unity: 2,222 → 2,278. One sentence after "Only the former follows from the evidence." plus one Further Reading line.
+  - concepts/multiple-drafts-model: 1,927 → 1,944. Further Reading line.
+  - topics/philosophy-of-habit-under-dualism: 2,621 → 2,643. Pipe on "arbitrated" (Daw et al.) plus one Further Reading line.
+  - Zero-word pipes: split-brain-consciousness L78 "agency-unity" (3,841); agent-causation L101 "contrastively explicable" (3,487); free-will "the contrastive question" (3,997); mental-effort "unitary-resource gauge" (3,310).
+  - Not edited: valence-and-conscious-selection, positions/agency-and-will, outcome-devaluation (no natural phrase) and the optional diachronic, frankfurt and event-causal pages.
+- **Apex check**: the-divided-will is not a listed apex source.
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T13:06:52+00:00 - pessimistic-review
 - **Status**: Success

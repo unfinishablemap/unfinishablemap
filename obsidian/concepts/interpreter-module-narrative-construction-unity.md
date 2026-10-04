@@ -4,7 +4,7 @@ description: "Gazzaniga's left-hemisphere interpreter confabulates reasons for a
 created: 2026-07-16
 modified: 2026-07-16
 human_modified:
-ai_modified: 2026-08-04T06:54:00+00:00
+ai_modified: 2026-10-04T13:32:59+00:00
 last_deep_review: 2026-08-04T06:54:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[steelmanning-as-method]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-16
 last_curated:
 ---
@@ -60,7 +60,7 @@ The Map's interpretation — marked as the Map's, not as a neutral reading of th
 
 The interpreter data establish the first decisively. They do not reach the second, and the reason is structural. The interpreter *narrates already-conscious contents*. In the chicken-claw case, the false story about the chicken shed presupposes that the pointing, the seeing of the shovel, and the felt puzzlement are already present as experiences for a subject — the interpreter is explaining experiences it finds already given, not conjuring the experiencing. A mechanism that operates on conscious contents cannot, by that same operation, account for their being conscious in the first place. It arrives too late.
 
-So the confabulation of a false *reason* leaves untouched the unity of the *field* over which the reason is confabulated. The illusionist argument equivocates between unreliability of the narrated author and non-existence of the experiencing subject. Only the former follows from the evidence.
+So the confabulation of a false *reason* leaves untouched the unity of the *field* over which the reason is confabulated. The illusionist argument equivocates between unreliability of the narrated author and non-existence of the experiencing subject. Only the former follows from the evidence. What the distinction protects is the unity of the field, not unity of control: whether one locus *selects* is a separate question, and on it [[the-divided-will|partitioned and distributed models of the will]] predict data that a single selector only accommodates.
 
 This is a [[direct-refutation-discipline|possibility-not-proof result]]. The Map does not claim the interpreter data prove that phenomenal unity is fundamental. It claims they are equally consistent with two hypotheses — that the interpreter *constructs* phenomenal unity, and that it *narrates over* a unity already phenomenally present — and therefore cannot decide against the second. The metaphysical conclusion the illusionist draws is under-determined by the evidence marshalled for it (see [[evidential-status-discipline]]).
 
@@ -94,6 +94,7 @@ This keeps the Map on the right side of its own evidential rules. The conclusion
 - [[illusionism]] — the position the interpreter is marshalled to support.
 - [[unity-of-consciousness]] — the phenomenal unity the interpreter is claimed to construct.
 - [[anarchic-hand-and-action-ownership]] — the mirror case: felt authorship withheld from a movement rather than fabricated for one.
+- [[the-divided-will]] — the will's counterpart: partitioned and distributed models of choice with no single selector.
 
 ## References
 

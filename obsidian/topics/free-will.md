@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-28T01:22:44+00:00
+ai_modified: 2026-10-04T13:32:59+00:00
 last_deep_review: 2026-07-11T04:20:00+00:00
 draft: false
 topics:
@@ -91,7 +91,7 @@ The strongest case that free will is incompatible with determinism—shared by h
 
 The **[[quantum-indeterminacy-free-will|luck objection]]** is the strongest challenge to libertarian free will: if choices aren't determined by prior causes, what explains them? The Map's response is [[agent-causation|agent-causal]]: the agent *as persisting substance* directly causes choices, ontologically prior to any events. The agent's exercise of causal power *is* the explanation—irreducible to any prior event sequence.
 
-That says *who* settles the outcome, not why it went one way. Van Inwagen's rollback presses the contrastive question: replay the same agent in the same state and, if the choice is open, some replays yield A and others B. The agent's reasons make A intelligible when A occurs, but the reasons for B were present in every replay too, so they cannot explain the difference between replays. The Map's answer is that the settling is the agent's and nothing more basic accounts for it—a primitive whose modal structure is owed rather than supplied. [[quantum-indeterminacy-free-will]] develops the reply and [[event-causal-libertarianism]] gives Kane's.
+That says *who* settles the outcome, not why it went one way. Van Inwagen's rollback presses [[the-divided-will#luck-objection|the contrastive question]]: replay the same agent in the same state and, if the choice is open, some replays yield A and others B. The agent's reasons make A intelligible when A occurs, but the reasons for B were present in every replay too, so they cannot explain the difference between replays. The Map's answer is that the settling is the agent's and nothing more basic accounts for it—a primitive whose modal structure is owed rather than supplied. [[quantum-indeterminacy-free-will]] develops the reply and [[event-causal-libertarianism]] gives Kane's.
 
 Three lines of evidence fit genuine agent causation:
 

@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-10-04
 human_modified: null
-ai_modified: 2026-10-04T07:25:17+00:00
+ai_modified: 2026-10-04T13:32:59+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -81,7 +81,7 @@ Naccache and colleagues (2005) report a patient with a left mesio-frontal lesion
 
 ### Depletion
 
-A preregistered 23-laboratory replication of the ego-depletion effect found d=0.04, 95% CI [−0.07, 0.15] (Hagger et al., 2016; N=2,141). A larger proponent-led test found d=0.06, with data four times likelier under the null (Vohs et al., 2021; N=3,531): in its standard paradigm the resource model failed. Yet a 30–40-minute antisaccade manipulation yielded d=0.31–0.35 across 14 samples, its authors proposing that replicability "may hinge on the intensity of the manipulation" (Dang et al., 2025). That supports an effect, not the resource model: the process account [[#modulation|below]] predicts the decrement too. The felt-drained sense survives; reading it as a unitary-resource gauge does not.
+A preregistered 23-laboratory replication of the ego-depletion effect found d=0.04, 95% CI [−0.07, 0.15] (Hagger et al., 2016; N=2,141). A larger proponent-led test found d=0.06, with data four times likelier under the null (Vohs et al., 2021; N=3,531): in its standard paradigm the resource model failed. Yet a 30–40-minute antisaccade manipulation yielded d=0.31–0.35 across 14 samples, its authors proposing that replicability "may hinge on the intensity of the manipulation" (Dang et al., 2025). That supports an effect, not the resource model: the process account [[#modulation|below]] predicts the decrement too. The felt-drained sense survives; reading it as a [[the-divided-will#the-organ-model-test|unitary-resource gauge]] does not.
 
 ### Modulation
 
