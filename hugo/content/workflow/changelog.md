@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 13:35:45+00:00
+ai_modified: 2026-10-04 14:06:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 13:35:45+00:00
+lastmod: 2026-10-04 14:06:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T14:06:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Original score**: n/a (single-defect targeted fix; `scripts/curate.py` absent)
+- **Source**: P2 queue task from [deep-review-2026-10-04-immunity-to-error-through-misidentification](/reviews/deep-review-2026-10-04-immunity-to-error-through-misidentification/) (seam lens, finding at L135).
+- **Changes**: L112, word-neutral scope repair of a dropped qualifier introduced by expand-topic commit ccbcc7b147. "First-person self-ascription uses no such criteria at all, which is why it enjoys immunity to error through misidentification" became "Introspective self-ascription uses no such criteria at all, ...". The universal was false: IEM is relative to grounds, and self-ascriptions made on observation or testimony use criteria and can misidentify (Wittgenstein's "use as object"; SEP "Self-Consciousness" §2.3). "Introspective" matches the IEM article's own lead ("That introspective self-ascription is immune is the field's standard view"). The calibrated second clause ("since every account of the first person predicts that immunity, it cannot by itself answer the prior question") is unchanged.
+- **Paragraph check**: the other two sentences of the L112 paragraph (the persistence-criteria sentence and the "prior question" sentence) make no claim about self-ascription or immunity, so they carry no matching universal. The article's other "first-person" hit (L108, "the first-person dimension of indexical knowledge") is outside the paragraph and makes no IEM claim. Untouched.
+- **Word count**: 2,740 to 2,740 by `analyze_length` (concepts soft 2,500 / hard 3,500; soft_warning, unchanged).
+- **Not done**: no other pages edited; the Tenet 3 quantifier was not settled.
+- **Published**: yes
 
 ## 2026-10-04T13:35:45+00:00 - expand-topic
 - **Status**: Success
