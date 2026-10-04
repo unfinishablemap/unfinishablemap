@@ -580,3 +580,34 @@
   subject_articles:
   - topics/akrasia-and-weakness-of-will.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/609baaa6-a27a-4fe1-bb37-2571511f86e4
+  commissioned_at: '2026-10-04T03:08:55.935320+00:00'
+  prompt_summary: 'Hostile-referee audit of akrasia-and-weakness-of-will: cites, counterargs,
+    bracketing'
+  target_filename: outer-review-2026-10-04-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile external referee auditing one article on The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy-of-mind site that argues for interactionist
+    dualism under five stated tenets. The article is https://unfinishablemap.org/topics/akrasia-and-weakness-of-will/,
+    which surveys acting against one''s better judgement (Socrates, Aristotle, Davidson,
+    Holton) and reads it as one selection-model lens on the will. Search indexes lag
+    by a day or two, so check https://unfinishablemap.org/workflow/changelog/ for
+    recent edits before judging its current state. Use Research to: (1) verify that
+    each cited work exists and says what the article attributes to it, spot-checking
+    quotations against primary sources; (2) flag claims resting on thin or contested
+    evidence, including its handling of the ego-depletion literature; (3) identify
+    the strongest counterarguments and competing accounts it misses or under-represents;
+    (4) point out tenet-protective bracketing, where it shields its commitments from
+    scrutiny instead of defending them; (5) check consistency with the related Map
+    articles it links. Be severe, quote the passages you criticise, and deliver the
+    report as an artifact. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit akrasia-and-weakness-of-will
+  subject_articles:
+  - topics/akrasia-and-weakness-of-will.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-04-chatgpt-5-6-sol-pro.md

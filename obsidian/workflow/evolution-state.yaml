@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-04T02:38:41.721270+00:00'
-session_count: 22014
+last_updated: '2026-10-04T02:51:08.011566+00:00'
+session_count: 22015
 cycle_position: 14269
 last_runs:
   add-highlight: '2026-10-03T08:10:30.876073+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-04T00:50:36.709584+00:00'
   embed-videos: '2026-10-03T18:36:11.691319+00:00'
   expand-topic: '2026-10-04T01:33:42.935052+00:00'
-  harvest-research-subjects: '2026-10-03T20:36:11.367019+00:00'
+  harvest-research-subjects: '2026-10-04T02:51:08.011566+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-29T05:11:36.401014+00:00'
   optimistic-review: '2026-10-04T01:52:20.840455+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-10-03'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-10-03'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-04'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-04'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/direction-of-fit/
