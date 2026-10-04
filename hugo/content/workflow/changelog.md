@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 07:07:55+00:00
+ai_modified: 2026-10-04 07:25:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 07:07:55+00:00
+lastmod: 2026-10-04 07:25:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T07:25:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Task**: P1 (upgraded from P2 by synthesis cluster K1): bring the stale "The strength-resource model collapsed under preregistration" (Depletion subsection, L84) up to date. Reviews: [outer-review-2026-10-04-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-04-chatgpt-5-6-sol-pro/), [outer-review-2026-10-04-claude-opus-5-5](/reviews/outer-review-2026-10-04-claude-opus-5-5/); synthesis [outer-review-synthesis-2026-10-04](/reviews/outer-review-synthesis-2026-10-04/).
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Word count** (`analyze_length`, reference list included): 3,220 → 3,310 (+90 of +90; concepts hard 3,500, gate `>=`).
+- **Changes**: the Depletion paragraph now carries both directions of the record. Hagger 2016 (d = 0.04, CI [−0.07, 0.15], N = 2,141) is kept. Vohs et al. 2021, the proponent-led multisite test, is added (d = 0.06, data four times likelier under the null, N = 3,531), followed by "in its standard paradigm the resource model failed". Dang et al. 2025 is added (30–40-min antisaccade manipulation, d = 0.31–0.35 across 14 samples, with the authors' verbatim proposal that replicability "may hinge on the intensity of the manipulation"). A synthesis guard is added: the Dang result "supports an effect, not the resource model", because the process account (the page's Modulation subsection) predicts the decrement too. The closing claim is narrowed to "The felt-drained sense survives; reading it as a unitary-resource gauge does not". It replaces "its supposed referent … appears not to exist as advertised". Two references were added with DOIs. `modified` and `ai_modified` were bumped.
+- **Sources verified**: Crossref metadata for all four papers (Vohs 2021, *Psych Sci* 32(10) 1566–1581, 128 authors; Dang 2025, *J Pacific Rim Psych* 19, article 18344909251386084; Carter 2015, *JEP:G* 144(4) 796–815, Carter/Kofler/Forster/McCullough; Hagger 2016, *PPS* 11(4) 546–573). OpenAlex abstracts were reconstructed for all four, and every figure and the one quoted span were grep-matched. "Proponent-led": the lead author Vohs co-authored "The Strength Model of Self-Control" (Baumeister, Vohs & Tice 2007, doi 10.1111/j.1467-8721.2007.00534.x), and Muraven is on the author list.
+- **Dropped for budget**: the optional Friese 2017 clause, which the akrasia page already carries (L82), so the two pages stay consistent with no duplication. Also dropped was the optional Carter 2015 clause, whose verified span ("very little evidence that the depletion effect is a real phenomenon, at least when assessed with the methods most frequently used in the laboratory") is ready for a future pass. Nothing was quoted from Kurzban 2010 or Finley 2019. The Holton discussion is not duplicated.
+- **Not used**: Vohs 2021's exploratory moderator (the effect was larger for participants who reported more fatigue) is in the abstract but did not fit.
+- **Sibling carry (not edited, out of scope)**: three pages still state the depletion record as Hagger 2016 alone with "collapsed" or "does not exist as advertised" wording: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/) L132, [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) L90 and [agency-void](/voids/agency-void/) L132. [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/) L113 already gives a two-sided reading (Hagger, Vohs, Dang 2021) that agrees with this edit.
+- **Reasoning mode**: n/a (no named-opponent reply changed). **Altered-state symmetry**: n/a.
+- **Published**: yes. Model: claude-opus-5-5.
 
 ## 2026-10-04T07:07:55+00:00 - coalesce
 - **Status**: Abandoned (reasoned decline, no merge). **34th consecutive**, the expected steady state.

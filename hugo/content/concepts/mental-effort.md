@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-30 21:39:17+00:00
+ai_modified: 2026-10-04 07:25:17+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,14 +24,14 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[concepts/cognitive-phenomenology]]'
 created: 2026-01-14
-date: &id001 2026-09-25
+date: &id001 2026-10-04
 description: Why controlling attention feels like work—and what this widely-shared
   phenomenology reveals about consciousness influencing matter.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-09-30 21:39:17+00:00
+lastmod: 2026-10-04 07:25:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ Naccache and colleagues (2005) report a patient with a left mesio-frontal lesion
 
 ### Depletion
 
-Hagger and colleagues (2016) ran a preregistered 23-laboratory replication of the ego-depletion effect (N=2,141) and reported d=0.04, 95% CI [−0.07, 0.15] — straddling zero. The strength-resource model collapsed under preregistration. The felt-drained sense survives; its supposed referent — a unitary depleting resource — appears not to exist as advertised.
+A preregistered 23-laboratory replication of the ego-depletion effect found d=0.04, 95% CI [−0.07, 0.15] (Hagger et al., 2016; N=2,141). A larger proponent-led test found d=0.06, with data four times likelier under the null (Vohs et al., 2021; N=3,531): in its standard paradigm the resource model failed. Yet a 30–40-minute antisaccade manipulation yielded d=0.31–0.35 across 14 samples, its authors proposing that replicability "may hinge on the intensity of the manipulation" (Dang et al., 2025). That supports an effect, not the resource model: the process account [below](#modulation) predicts the decrement too. The felt-drained sense survives; reading it as a unitary-resource gauge does not.
 
 ### Modulation
 
@@ -176,6 +176,7 @@ If controlling attention genuinely costs something, something must be doing the 
 
 ## References
 
+1. Dang, J., et al. (2025). Revisiting ego depletion: Evidence from multi-lab collaborations. *Journal of Pacific Rim Psychology*, 19. https://doi.org/10.1177/18344909251386084
 1. Hagger, M.S., Chatzisarantis, N.L.D., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
 1. Howard, E.E., Edwards, S.G., & Bayliss, A.P. (2016). Physical and mental effort disrupts the implicit sense of agency. *Cognition*, 157, 114-125.
 1. Inzlicht, M. & Schmeichel, B.J. (2012). What is ego depletion? Toward a mechanistic revision of the resource model of self-control. *Perspectives on Psychological Science*, 7(5), 450-463.
@@ -194,5 +195,6 @@ If controlling attention genuinely costs something, something must be doing the 
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*, 28, 1365-1366.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Vohs, K.D., et al. (2021). A multisite preregistered paradigmatic test of the ego-depletion effect. *Psychological Science*, 32(10), 1566-1581. https://doi.org/10.1177/0956797621989733
 1. Westbrook, A., et al. (2020). Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work. *Science*, 367(6484), 1362-1366.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
