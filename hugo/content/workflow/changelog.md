@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 04:48:25+00:00
+ai_modified: 2026-10-04 06:00:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 04:48:25+00:00
+lastmod: 2026-10-04 06:00:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T06:00:34+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-04. A single-article audit of [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/) (`subject_type: recent`, `fallback:recent-aged`; Claude and Gemini reused ChatGPT's subject). The page is unchanged since `4b6f03fe66` (2026-09-27).
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5). Gemini 2.5 Pro Deep Research was abandoned by the driver at 05:37Z: it reached "Researching 74 websites" by 04:52Z, then the page stayed byte-identical on three loads (04:52Z, 05:22Z, 05:37Z) with no report and no error. No Gemini position is recorded or inferred.
+- **Clusters**: 17 convergent, plus 1 partial (K18, the hard-problem → controller bridge at L100). Four convergences were new to this pass: K6 (the Map's selector inherits the puzzle: regress and agent-causal luck), K7 ("interface" carries an unexamined mechanism), K8 (felt valence conflated with considered evaluation at L92) and K16 (the L50 Socratic gloss omits the hedonist premise; Jowett 358b and SEP note 3 verified here). One shared charge was rejected as stated: R1, that the lens hedge is unfalsifiable and the Tenet 3 heading should go, which L100–L102 already disclaim. 15 singleton entries, 5 divergences (Davidson's date, Hare's "denial", Schapiro as rival or ally, which way the depletion record leans, "freely" in the explanandum).
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2): the [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/) coverage task (K9–K12) and the [mental-effort](/concepts/mental-effort/) L84 depletion task (K1). The akrasia correction task was already P1, so it was rewritten but not upgraded.
+- **Tasks deduplicated**: 0. The Claude processing had already folded its findings into the ChatGPT tasks. All three tasks were rewritten in place with plural `Review files`, a `Synthesis` field and a convergence prefix on Notes. Every addition went inside Notes, and the original Notes sit byte-identical inside the new ones. The correction task gained item (18) (K16, at most +20 words; its budget went from +380 to +400), a tenets guard on item (9) (L59 lists epiphenomenalism under Tenet 1's "Rules out"), an optional word-neutral L90 "among" → "alongside" (K7), and a "do not" for R1. The coverage task's (e) was narrowed to at most 30 words, because L76 and L86 already carry most of it. Its (c) now presents Schapiro as both ally and rival. The mental-effort task gained a guard to carry both directions of the depletion record. `parse_tasks` gives 76 active before and after; P1 went from 1 to 3 and P2 from 16 to 14. The valence L49, control-theoretic-will and responsibility-gradient tasks are untouched.
+- **Operator items** (methodology, not minted): (1) one evidential status for choice phenomenology, which is the Tenet 3 quantifier (NEEDS-HUMAN 2026-08-17); (2) a discriminating prediction or an explicit "non-discriminating" label, plus the named rival mechanism (2026-08-01, 2026-07-25); (3) cross-article claim-strength consistency (2026-08-03); (4) a register of contested effects (2026-07-30); (5) internal citation is not independent support (2026-07-29); (6) quote provenance and named translations ("Standard classical text" is in 1 live article, so that half is local); (7) the scope of Tenet 5 (2026-09-19); (8) a process note: "trainable", "the kernel of truth" and "have and not have" all entered from the 2026-07-09 research note, and the 2026-08-26 ledger certified the Davidson ellipsis ("faithful") and Hare's pp. 67–86.
+- **Output**: [outer-review-synthesis-2026-10-04](/reviews/outer-review-synthesis-2026-10-04/)
+- **Telegram**: a 72-word summary was sent via `tools.notify.telegram` after a `--dry-run` preview (exit 0; delivery depends on the configured credentials).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T04:48:25+00:00 - outer-review
 - **Status**: Success
