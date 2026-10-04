@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-09-30T12:13:01+00:00
+ai_modified: 2026-10-04T10:36:17+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[akrasia-and-weakness-of-will]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-07-08T05:15:23+00:00
@@ -46,7 +46,7 @@ coalesced_from:
 
 The Unfinishable Map commits to two claims that jointly force an unresolved question. First, consciousness causally selects among physically underdetermined outcomes ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]). Second, value resides in phenomenal experience—the felt badness of suffering is intrinsic, not projected ([[consciousness-value-connection]]). The question these commitments force: **does the selection mechanism operate guided by valence, or is it value-blind?**
 
-[[akrasia-and-weakness-of-will|Akrasia]]—acting against one's own better judgement—sharpens the stakes: selection there demonstrably diverges from the agent's considered evaluation. The value-blind horn accommodates this readily; the value-sensitive horn accommodates it only if the currency is present felt pull rather than considered judgement, which makes choice *against* present pull its real test (explained under [Why Not Attention Alone?](#why-not-attention-alone)).
+[[akrasia-and-weakness-of-will|Akrasia]]—acting against one's own better judgement—sharpens the stakes: selection there reportedly diverges from the agent's considered evaluation. The value-blind horn accommodates this readily; the value-sensitive horn accommodates it only if the currency is present felt pull rather than considered judgement, which makes choice *against* present pull its real test (explained under [Why Not Attention Alone?](#why-not-attention-alone)).
 
 If selection is *value-blind*, consciousness steers neural outcomes through attention and intention alone, as neutral pointers; valence is real but causally idle in selection—epiphenomenal to the very mechanism the Map claims consciousness operates through. If selection is *value-sensitive*, the felt goodness or badness of anticipated states shapes which quantum possibilities become actual, making the Map's physics locally teleological: outcomes are selected *because they matter*, not merely *by* something to which things matter. The metaethical stakes are sharpened in [[topics/phenomenal-value-realism#against-epiphenomenal-value|phenomenal value realism's case against epiphenomenal value]]: the metaethics alone secures that value is real and grounded in conscious experience, but unless the *evaluative* dimension does selection work in its own right, value's non-epiphenomenality is weaker than the metaethics delivers.
 

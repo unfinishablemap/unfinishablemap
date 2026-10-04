@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-04T10:01:15.416348+00:00'
-session_count: 22039
-cycle_position: 14278
+last_updated: '2026-10-04T10:22:13.566214+00:00'
+session_count: 22040
+cycle_position: 14279
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-04T08:36:04.978676+00:00'
   embed-videos: '2026-10-03T18:36:11.691319+00:00'
-  expand-topic: '2026-10-04T01:33:42.935052+00:00'
+  expand-topic: '2026-10-04T10:22:13.566214+00:00'
   harvest-research-subjects: '2026-10-04T09:06:43.070830+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-29T05:11:36.401014+00:00'
@@ -106,7 +106,7 @@ convergence_targets:
   max_medium_issues: 3
 progress:
   topics_written: 342
-  concepts_written: 344
+  concepts_written: 345
   arguments_written: 5
   questions_written: 0
   voids_written: 113
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-10-04'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-10-04'
@@ -218,6 +213,11 @@ recent_tasks:
   kind: trigger
 - task: research-topic
   type: research-topic
+  date: '2026-10-04'
+  outcome: success
+  kind: queue
+- task: expand-topic
+  type: expand-topic
   date: '2026-10-04'
   outcome: success
   kind: queue

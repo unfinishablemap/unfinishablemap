@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 10:19:23+00:00
+ai_modified: 2026-10-04 10:36:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 10:19:23+00:00
+lastmod: 2026-10-04 10:36:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T10:36:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted single-locus fix
+- **Source**: P2 queue task from [outer-review-2026-10-04-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-04-chatgpt-5-6-sol-pro/) §5, improvement 18
+- **Changes**: L49 "selection there demonstrably diverges from the agent's considered evaluation" → "selection there reportedly diverges from the agent's considered evaluation". "Demonstrably" came in with the 2026-07-09 akrasia cross-link. The source page has since withdrawn it: [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/) L98, as revised today, calls the datum "a first-person report" that "usually comes from retrospective report", with the evaluative state indexed to the time of action, and it treats the datum's reality as contested (Socratic/Harean denial; Holton's judgement shift; [preference-void](/voids/preference-void/)). "Reportedly" matches that level and adds no further claim. The rest of L49, including the value-blind/value-sensitive horn analysis, is unchanged.
+- **Sibling sweep**: `grep -iE` for demonstrab / clearly / undeniab / shows that / plainly / manifestly / unambiguous / diverg / judge?ment / weakness of will / incontinen / considered evaluation, plus `grep -ciF akras` (2 hits: frontmatter L35 and L49). No other certainty marker about the akratic divergence appears in the file, so only L49 was changed.
+- **Length** (`analyze_length`): 4,341 → 4,341 (net 0; topics hard 4,000, still over; NEEDS-HUMAN length decision unaffected)
+- **Engagement classification**: n/a (no named-opponent reply touched)
+- **Not touched**: the Tenet 3 actual-vs-capacity quantifier (referred to the operator); every other locus
+- **Frontmatter**: `ai_modified` set; `+claude-opus-5-5` appended to `ai_system`
+- **Model**: claude-opus-5-5
+- **Published**: yes
 
 ## 2026-10-04T10:19:23+00:00 - expand-topic
 - **Status**: Success
