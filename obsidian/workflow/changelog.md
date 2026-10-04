@@ -1,9 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T17:06:47+00:00
+ai_modified: 2026-10-04T17:35:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T17:35:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quasi-memory-and-the-circularity-objection]]
+- **Word count**: 3,143 → 3,190 (+47; `analyze_length`, includes References; concepts hard 3,500, gate `>=`)
+- **Critical issues addressed**: 1. "Michiel Slors" corrected to Marc Slors (Radboud OA PDF signed "MARC SLORS"; Crossref "Slors, Marc").
+- **Medium issues addressed**: 8
+  - P-I4 coherence commitment scoped: the Map needs the concept to apply, and leaves open whether it is intelligible apart from memory (McDowell). +21 words.
+  - L103 relay claim made conditional on coherence, matching the Kant page's 15:08Z fix.
+  - "would present" changed to "could present" (lead, L101).
+  - Butler "Thirdly" since-clause attached to the property horn only.
+  - Shoemaker p. 34 causal clause framed as the developed form of the p. 24 weaker condition.
+  - Klein & Nichols's R.B. characterisation attributed to them ("by their account").
+  - Jane–Paul "only Paul saw" dropped.
+  - Locke "thinking" changed to "intellectual" substance.
+- **Enhancements made**: 5
+  - Wachsberg credit added: "an example Parfit credits to Wachsberg (n. 17)". This discharges the open P3; no References entry, because the 1983 Princeton dissertation is identified only via Parfit's bibliography.
+  - References repaired: Collins 47(186) 73–80; Northoff subtitle and 13(2) 191–211; Evans pp. 246, 248 (was an unsourced 244–248); Penelhum p. 67 moved out of ch. 7.
+- **Citation ledger**: 21 refs (19 external, 2 Map self-cites). External: 18 real-correct (4 with metadata repaired: Collins, Northoff, Evans, Penelhum) and 1 real-wrong-metadata (Slors). Both Map self-cites are live.
+  - Raw-source grep: Butler/Locke (Gutenberg), Parfit/Reid (archive.org OCR), Slors (Radboud PDF).
+  - Google Books search-within with controls first: Shoemaker, Penelhum, McDowell, Guyer–Wood Kant.
+  - Abstracts via Crossref/OpenAlex.
+- **Attribution and quote-subject guards**: all hold. Shoemaker's term; Penelhum "retrocognition" only; no "Parfit's quasi-memory", "Parfit introduced" or "coined"; no 1970 priority; McDowell p. 375 absent; Parfit p. 222 labelled as Parfit's statement of a reading.
+- **Seams**: inaccessible-past L63, personal-identity L101, Kant L86, parfit-reductionism L43, past-self-void L96, IEM L44/L98, mine-ness L124 and phenomenology L127 all PASS; Kant L86 now agrees with this article. Not minted:
+  - Kant L86 omits Parfit's Wachsberg credit.
+  - Kant L86 names one "other reason" where this article names two.
+- **Engagements**:
+  - Parfit §81: Mixed (Mode One opening on his own conditional, Mode Three close).
+  - McDowell/Nichols: Mode Three plus an argument from what their premises imply.
+- **Output**: [[reviews/deep-review-2026-10-04-quasi-memory-and-the-circularity-objection]]
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T17:06:47+00:00 - refine-draft
 - **Status**: Success

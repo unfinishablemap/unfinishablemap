@@ -1984,16 +1984,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-04
 - **Notes**: concepts/mental-effort L84 now reports the ego-depletion record in both directions: Hagger et al. 2016 (23 labs, N=2,141, d=0.04, CI [−0.07, 0.15]); Vohs et al. 2021 Psych. Sci. 32(10) 1566–1581 doi 10.1177/0956797621989733 (proponent-led, k=36, N=3,531, d=0.06, data ~4× likelier under the null); Dang et al. 2025 J. Pacific Rim Psychology 19 doi 10.1177/18344909251386084 (30–40 min antisaccade, 14 samples, N=2,078, d=0.31–0.35; replicability "may hinge on the intensity of the manipulation") — an effect, not a rescue of the resource model. Three pages still cite only Hagger 2016 with "collapsed"/"indistinguishable from zero"/"not as advertised" framing: (1) /home/andy/unfin/unfinishablemap/obsidian/apex/testing-the-map-from-inside.md L132 (4,335/5,000, headroom 664): add Vohs 2021 and Dang 2025 in one or two sentences, or point to [[mental-effort]]; (2) /home/andy/unfin/unfinishablemap/obsidian/apex/attention-as-causal-bridge.md L90 (5,108 — OVER apex hard 5,000 by 109: WORD-NEUTRAL OR NEGATIVE ONLY; prefer a zero-word pipe to [[mental-effort]] plus trimming an over-strong clause); (3) /home/andy/unfin/unfinishablemap/obsidian/voids/agency-void.md L132 (3,257 — OVER voids hard 3,000 by 258: WORD-NEUTRAL OR NEGATIVE ONLY). Match mental-effort L84's calibration exactly (standard paradigm failed; intensity-dependent effect possible; neither restores the unitary-resource model). apex/phenomenal-output-causal-machinery-dissociation L113 already gives a two-sided reading — leave it. Re-verify any figure against mental-effort L84 (already source-verified 07:25Z). Measure each file with analyze_length before/after (gate `>=`).
 
-### P3: `concepts/quasi-memory-and-the-circularity-objection` ~L70 — Parfit's relay example is credited without his own source ("I take the example from WACHSBERG", 1984 p. 223 n. 17)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quasi-memory-and-the-circularity-objection.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-04 13:06Z (Kant page review, recorded-not-ranked), minted by the driver 13:15Z
-- **Review file**: /home/andy/unfin/unfinishablemap/obsidian/reviews/pessimistic-2026-10-04-kants-paralogisms-and-the-maps-subject.md
-- **Generated**: 2026-10-04
-- **Notes**: Parfit 1984 p. 223 n. 17 says "I take the example from WACHSBERG" for the relay/baton case; the quasi-memory article (written 2026-10-04 12:47Z) credits the relay to Parfit with no mention, and "Wachsberg" has 0 corpus hits. Add a short attribution clause (at most +12 words) where the article introduces the relay, e.g. "(an example Parfit takes from Wachsberg)". Do NOT add a References entry for Wachsberg unless the work is identified and verified at source (title, year, venue); otherwise cite only through Parfit's note. FIRST check whether a deep review of this article has already added the credit (grep -ci wachsberg); if so, close this task with no edit. LENGTH: 3,143 by analyze_length at 12:47Z (concepts hard 3,500, gate >=). Set ai_modified (UTC, unquoted); changelog before sync; run scripts/sync.py and verify the hugo copy.
-
 ### P3: `concepts/unity-of-consciousness` L145 says "in akrasia a unified field coexists with divided control" — asserts the partitioned reading as fact; the source page now says "what partitioned models read as divided control"
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/unity-of-consciousness.md
@@ -2037,6 +2027,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-04: `concepts/quasi-memory-and-the-circularity-objection` ~L70 — Parfit's relay example is credited without his own source ("I take the example from WACHSBERG", 1984 p. 223 n. 17)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quasi-memory-and-the-circularity-objection.md
+- **Notes**: Parfit 1984 p. 223 n. 17 says "I take the example from WACHSBERG" for the relay/baton case; the quasi-memory article (written 2026-10-04 12:47Z) credits the relay to Parfit with no mention, and "Wachsberg" has 0 corpus hits. Add a short attribution clause (at most +12 words) where the article introduces the relay, e.g. "(an example Parfit takes from Wachsberg)". Do NOT add a References entry for Wachsberg unless the work is identified and verified at source (title, year, venue); otherwise cite only through Parfit's note. FIRST check whether a deep review of this article has already added the credit (grep -ci wachsberg); if so, close this task with no edit. LENGTH: 3,143 by analyze_length at 12:47Z (concepts hard 3,500, gate >=). Set ai_modified (UTC, unquoted); changelog before sync; run scripts/sync.py and verify the hugo copy.
+- **Output**: Discharged by deep-review 2026-10-04 17:35Z (reviews/deep-review-2026-10-04-quasi-memory-and-the-circularity-objection.md): relay now introduced as 'an example Parfit credits to Wachsberg (n. 17)', credited only through Parfit's note; no References entry (Wachsberg 1983 Princeton PhD unverifiable at source).
 
 ### ✓ 2026-10-04: `apex/consciousness-and-agency` L152 says akrasia "fits the selector model … rather than evidence against it" and L114 states the reasons reply with no akratic exception — align with the-divided-will's verdict (optimistic-2026-10-04 agency wing, Priority item 1)
 - **Type**: refine-draft
