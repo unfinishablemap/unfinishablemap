@@ -2,9 +2,9 @@
 title: "The Preference Void"
 description: "Human+AI exploration of why a mind cannot read its own preference ordering: the asking builds the answer, and the built answer arrives with all the authority of a read-out."
 created: 2026-10-03
-modified: 2026-10-03
+modified: 2026-10-04
 human_modified: null
-ai_modified: 2026-10-03T22:41:32+00:00
+ai_modified: 2026-10-04T06:37:22+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[apex/conjunction-coalesce]]"
   - "[[non-human-minds-as-void-explorers]]"
+  - "[[akrasia-and-weakness-of-will]]"
   - "[[research/voids-preference-void-2026-09-30]]"
 ai_contribution: 100
 author: null
@@ -61,7 +62,7 @@ Grether and Plott (1979) are reported to have set out to explain the effect away
 
 The second face runs backward. The [[decision-void]]'s reconstruction face records that manipulated choices can shift later preferences; the question here is whether choosing shapes preference in general, and whether anyone can tell. For decades the free-choice paradigm (rate, choose, re-rate) seemed to show choosers coming to like what they picked. Chen and Risen (2010) proved that the paradigm registers such spreading "even if people's preferences remain perfectly stable", because ratings measure preference imperfectly and choices carry information the ratings missed. Sharot, Velasquez and Dolan (2010) replied with a blind choice "that could not be guided by preexisting preferences", and found that "preferences were altered after participants made a blind choice, but not after a computer dictated the decision". That was the authors' reply, and it did not settle the matter. Izuma and Murayama (2013) simulated how the classic design manufactures change out of measurement noise, meta-analysed the effect after addressing the flaw, and concluded that the conventional paradigm should be avoided and past findings re-established empirically.
 
-Outside observers still argue about measurement. The chooser has none: the preference and the memory of the choice arrive together, and the preference carries no timestamp.
+Outside observers still argue about measurement. The chooser has none: the preference and the memory of the choice arrive together, and the preference carries no timestamp. Strict [[akrasia-and-weakness-of-will|akrasia]] is usually diagnosed from a later report of having judged the other option better; that report is itself an elicitation, so the ordering used to diagnose the lapse may have been built in the asking.
 
 ### Mark
 

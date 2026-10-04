@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-03 22:41:32+00:00
+ai_modified: 2026-10-04 06:37:22+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -9,14 +9,14 @@ concepts:
 - '[[selection-only-channel]]'
 - '[[philosophy-of-mind]]'
 created: 2026-10-03
-date: &id001 2026-10-03
+date: &id001 2026-10-04
 description: 'Human+AI exploration of why a mind cannot read its own preference ordering:
   the asking builds the answer, and the built answer arrives with all the authority
   of a read-out.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-03 22:41:32+00:00
+lastmod: 2026-10-04 06:37:22+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -33,6 +33,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[apex/conjunction-coalesce]]'
 - '[[non-human-minds-as-void-explorers]]'
+- '[[akrasia-and-weakness-of-will]]'
 - '[[research/voids-preference-void-2026-09-30]]'
 title: The Preference Void
 topics:
@@ -65,7 +66,7 @@ Grether and Plott (1979) are reported to have set out to explain the effect away
 
 The second face runs backward. The [decision-void](/voids/decision-void/)'s reconstruction face records that manipulated choices can shift later preferences; the question here is whether choosing shapes preference in general, and whether anyone can tell. For decades the free-choice paradigm (rate, choose, re-rate) seemed to show choosers coming to like what they picked. Chen and Risen (2010) proved that the paradigm registers such spreading "even if people's preferences remain perfectly stable", because ratings measure preference imperfectly and choices carry information the ratings missed. Sharot, Velasquez and Dolan (2010) replied with a blind choice "that could not be guided by preexisting preferences", and found that "preferences were altered after participants made a blind choice, but not after a computer dictated the decision". That was the authors' reply, and it did not settle the matter. Izuma and Murayama (2013) simulated how the classic design manufactures change out of measurement noise, meta-analysed the effect after addressing the flaw, and concluded that the conventional paradigm should be avoided and past findings re-established empirically.
 
-Outside observers still argue about measurement. The chooser has none: the preference and the memory of the choice arrive together, and the preference carries no timestamp.
+Outside observers still argue about measurement. The chooser has none: the preference and the memory of the choice arrive together, and the preference carries no timestamp. Strict [akrasia](/topics/akrasia-and-weakness-of-will/) is usually diagnosed from a later report of having judged the other option better; that report is itself an elicitation, so the ordering used to diagnose the lapse may have been built in the asking.
 
 ### Mark
 
