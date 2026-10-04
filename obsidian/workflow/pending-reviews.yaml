@@ -557,9 +557,9 @@
   prompt_summary: 'Audit akrasia-and-weakness-of-will: claims, citations, counterargs,
     bracketing'
   target_filename: outer-review-2026-10-04-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-04T03:54:06.732236+00:00'
   failure_reason: null
   prompt_text: 'You are an external reviewer auditing one article on The Unfinishable
     Map (https://unfinishablemap.org), a philosophy site that argues for interactionist

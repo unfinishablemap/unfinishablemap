@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 03:44:01+00:00
+ai_modified: 2026-10-04 04:05:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 03:44:01+00:00
+lastmod: 2026-10-04 04:05:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T04:05:09+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (slug `gpt-5-6-sol-pro`; the regenerate menu read "Try again • 5.6 Pro"). Subject: `recent` ("Audit akrasia-and-weakness-of-will", source `fallback:recent-aged`).
+- **File**: [outer-review-2026-10-04-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-04-chatgpt-5-6-sol-pro/) (8,348 words including the processing sections; the reply is 6,498 words)
+- **Verdict**: "retain after major revision". The article is strongest where it limits its ambitions. Its defects are a Davidson definition error, an unsupported "distinct, trainable capacity … survives" claim, a transparent-read-off strawman in the RTSP, and agency-wing pages that give choice phenomenology inconsistent evidential status.
+- **Verified against the live page**: the subject has been unchanged since 4b6f03fe66 (2026-09-27), and the Hugo copy matches. About 20 Map-attributed spans are verbatim. Four are compressed but faithful, and none is fabricated. External checks: SEP raw text (Davidson "reason to do b rather than a", Schapiro, Gorman, Arpaly/McIntyre, rev. 2025-09-18); Crossref (Hare ch. 5 = pp. 67–85, which overturns the 2026-08-26 ledger's 67–86); OpenAlex/PubMed abstracts (Friese 2017, Dang 2025, Vohs 2021, Hagger 2026); MIT Ross NE VII (impetuosity/weakness, Neoptolemus, strong-headed). New in verification: the article's quoted "have and not have" (L58) is in neither Ross nor the SEP.
+- **Rejected or already addressed**: regularising Davidson's date to 1970 (the hedge is deliberate), the alleged Volitional Control inconsistency (different axes), the compatibility-only cataloguing (L100–L102 already say this), "freely and knowingly" (standard in the definition of strict akrasia), and Hare's ability clause (already at L52).
+- **Tasks generated**: 5 (P1: 1, P2: 4). P1 [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/) correction pass (+300 budget). P2 akrasia coverage (compulsion boundary, rational akrasia, Schapiro, Aristotle, Holton normativity, Preference Void reciprocal; +600). P2 [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) L49 "demonstrably" (net ≤0; file 4,341/4,000). P2 [mental-effort](/concepts/mental-effort/) L84 depletion currency (+90). P2 [control-theoretic-will](/concepts/control-theoretic-will/) L130 "testable" and the L144 signal mapping (+150). Active tasks went from 70 to 75 by `parse_tasks`; all were inserted before `## Completed Tasks`.
+- **Operator item**: improvements 22–24, harmonising choice phenomenology as evidence across free-will L66, pocv L56/L161, akrasia L102 and preference-void L111, depend on the Tenet 3 quantifier. They were appended as a dated re-raise to the NEEDS-HUMAN (foundations) 2026-08-17 entry and left unsettled.
+- **Not minted**: methodology items 23, 25, 28 and 29 are covered by open NEEDS-HUMAN entries (2026-08-01, 2026-09-19, 2026-07-30, 2026-08-03). Items 5, 19, 24 and 27 are folded or declined (see the review's Processing Record).
+- **Convergence candidates**: 7 (C1–C7), for the same-day Claude leg and `/combine-outer-reviews`.
+- **Review frontmatter**: `outer_review_status: processed`. Topics (bare slugs), concepts, related_articles and description are populated; provenance fields are preserved.
+- **Telegram**: not sent. The driver brief did not authorise the live-channel step.
+- **Published**: synced to Hugo; no commit.
+- **Model**: claude-opus-5-5
+
+## 2026-10-04T03:54:06+00:00 - collect-chatgpt-review
+- **Status**: Success
+- **Target**: [outer-review-2026-10-04-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-04-chatgpt-5-6-sol-pro/). Subject: `recent` ("Audit akrasia-and-weakness-of-will", articles `topics/akrasia-and-weakness-of-will.md`, source `fallback:recent-aged`).
+- **Conversation**: commissioned 2026-10-04T02:10:40Z and collected at about 103 minutes of age (collect_attempts 0; the entry is now marked `collected`).
+- **Readiness**: no Stop button and 0 `.result-streaming`. The turn's action bar (Copy, Rate, Share, Read aloud, Regenerate) had rendered, and the body ends on improvement item 30 with a changelog citation, a final answer rather than a thinking panel. There is one `[data-turn-key]`; `[data-message-author-role]` and `#prompt-textarea` are absent (the composer is contenteditable). Logged in.
+- **Model check**: the turn's regenerate menu reads "Try again • 5.6 Pro", which matches the filename slug. The "Medium" pill belongs to the next turn's composer.
+- **Extraction**: the page's own Copy button, with `navigator.clipboard.write` intercepted (text/plain 50,502 chars + text/html 64,202), then a page Blob download (`~/Downloads/unfin-collect-2026-10-04-chatgpt.json`). There was no retyping. SHA-256 `1c53b648160c07aed61a07d4a2f58d24dc320acacae849f278210501a86a0e8a` matched on page and on disk. The written body equals the payload except for collect_review's link-label normalisation; the prompt was taken from the pending entry's `prompt_text`.
+- **Chrome**: tab 771755128 in group 438444772. The screenshot scale was measured at 0.665 (frame 1246 against innerWidth 1873).
+- **Next**: outer-review processing was invoked inline (entry above).
+- **Model (this skill)**: claude-opus-5-5
 
 ## 2026-10-04T03:44:01+00:00 - research-topic
 - **Status**: Success
