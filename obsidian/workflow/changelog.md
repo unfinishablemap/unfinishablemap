@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04T16:02:43+00:00
+ai_modified: 2026-10-04T16:24:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-04T16:24:12+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the agency and akrasia wing after today's divided-will article and the akrasia follow-ups: [[topics/the-divided-will]] (3,055/4,000), [[topics/akrasia-and-weakness-of-will]] (3,598/4,000), [[concepts/control-theoretic-will]] (2,649/3,500), [[topics/responsibility-gradient-from-attentional-capacity]] (2,988/4,000), [[topics/valence-and-conscious-selection]] (4,341, over its gate), [[concepts/mental-effort]] (3,310/3,500), [[concepts/agent-causation]] (3,487/3,500), [[topics/free-will]] (3,997/4,000). Seams read: [[apex/consciousness-and-agency]], [[concepts/quantum-indeterminacy-free-will]], [[positions/agency-and-will]], [[concepts/frankfurt-hierarchical-mesh-theory-of-the-will]].
+- **Output**: [[reviews/optimistic-2026-10-04-agency-and-akrasia-wing]]
+- **Keep**: the divided-will's predict/accommodate verdict, its candidate-selection trilemma and its symmetric Tenet 5; akrasia L112 (classification before desert); control-theoretic-will L130/L138 (no prediction separates a physical controller); responsibility-gradient L61 (weakness against incapacity by normal capacities); valence L127 (the horn names its refuter); mental-effort L84/L88 (two-sided depletion record, process models filed on the materialist side).
+- **Consistency verdict**: the posit's ground (agent causation's need for a persisting subject) holds on every wing page, and no page argues from felt unity. Defects: akrasia L100 "against the agent's reasons" (should be the all-things-considered ranking); apex/consciousness-and-agency L152 says akrasia "fits the selector model … rather than evidence against it" and reads the report as a selector failure; the luck reply is stated as answered with no akratic exception at QIFW L126, agent-causation L101, apex L114 and P-A2; responsibility-gradient L96/L128/L156 settle the Tenet 3 quantifier ("as long as the agent experiences anything at all—some control … persists"). Felt effort is still used as evidence on six pages; the inventory is recorded for NEEDS-HUMAN 2026-08-17 (K17) and not ranked.
+- **Priority list**: (1) apex/consciousness-and-agency L152 rewrite (−3) and an L114 akratic-exception sentence (+23); (2) the luck reply's akratic exception at QIFW L126 (+1, the page's first link to the divided-will), agent-causation L101 (0, the pipe moved to "non-akratic") and akrasia L100 ranking (+1); (3) responsibility-gradient: a quantifier-neutral floor at L96/L128/L156 (−5), the L152 Dualism paragraph anchored to practical unity (+2), an L61 zero-word pipe to the organ test, and an optional L134 physical-controller concession (+17); (4) positions-evolve: P-A2 Asserts scoped for akrasia (+14) with a dated note (+46). Unranked: four zero-word reciprocals (valence L49, frankfurt L68, control-theoretic-will L144, the-divided-will L103).
+- **New article subjects**: anticipatory feeling and time preference, i.e. whether the felt currency is hyperbolic (topics; Loewenstein 1987, Berns et al. 2006 and Story et al. 2013 confirmed on Crossref); self-deception and the divided mind (topics; Davidson 1986, Mele 2001); addiction between compulsion and choice (topics; Holton & Berridge 2013, Heyman 2009); Steward's agency incompatibilism (topics; cited only by the divided-will); epistemic akrasia and holding an unsupported posit (concepts; Horowitz 2014).
+- **Model**: claude-opus-5-5
 
 ## 2026-10-04T16:02:43+00:00 - research-topic
 - **Status**: Success
