@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 17:51:29+00:00
+ai_modified: 2026-10-04 18:38:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-04'
-lastmod: 2026-10-04 17:51:29+00:00
+lastmod: 2026-10-04 18:38:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-04T18:38:07+00:00 - coalesce
+- **Status**: Abandoned (reasoned decline, no merge). **35th consecutive**, the expected steady state.
+- **Cap state** (live, `tools.evolution.state.count_section_files`; caps 360/360/115): topics 343/360 (342 real; the `non-temporal-consciousness.refinement-log.md` sidecar over-counts by one), concepts 347/360, **voids 113/115 (98.3%, still the most pressured)**. Concepts +3 and topics +1 since 07:07, all from today's four expand-topic pages.
+- **Changed since 07:07Z** (`git diff --numstat e29117aec4`, 35 content files): four new pages, all inside the 14-day age floor and not eligible (`concepts/immunity-to-error-through-misidentification`, `concepts/quasi-memory-and-the-circularity-objection`, `topics/the-divided-will`, `concepts/self-control-as-skill-and-scaffolding`). Every edit to an older page is ≤30 changed lines. The largest are `kants-paralogisms-and-the-maps-subject` (+16/−14, age-floored), `targeted-lesion-…` (+11/−12, 3602w), `control-theoretic-will` (+10/−6, 2706w), `thought-insertion` (+9/−6, created 10-01, age-floored) and `mental-effort` (+7/−4, 3332w). The others are ≤5-line refine-draft, pipe or Further Reading edits. No member of any previously declined pair changed in substance.
+- **Arithmetic** (re-run on current bodies; sidecars filtered before pairing; `analyze_length`; ceilings 3999/3499/2999, gate `>=`; age floor on `created` excludes 2026-09-20 and later, now 46 pages): voids **0** same-section fitting pairs of 103 eligible (smallest 1473 + 1730 = 3203); topics **0** of 327 (smallest 1990 + 2112 = 4102); concepts **182** of 326 (183 at 07:07). Strictly cross-section pairs fitting under the larger ceiling: 474, of which 199 involve a void. (The 07:07 figure of 657 matches 474 + 183, so it appears to have included the same-section concepts pairs.)
+- **Re-screen of changed members**: only one changed older page has any length-feasible partner. That page is `concepts/multiple-drafts-model` (1944w), and its edit was a single Further Reading line plus frontmatter. Its best fitting pair has body TF-IDF cosine **0.045** (`+ status-of-content`). Every other changed member is too long to pair with the shortest eligible page in its own section or in a cross-section pairing (for example `control-theoretic-will` 2706 + `mind-arena` 1380 = 4086 > 3499). No near-fit within 300 words touching a changed file reaches cosine 0.12. Today's edits created no new candidates.
+- **Global top fitting pairs** (this run's screen): the same set 07:07 reported. All but two were declined before with members unchanged (`manyism` + `plurality-void`, `phenomenal-depth` + `phenomenal-presentation`, `enactivism-challenge…` + `status-of-content`, `presentiment-and-retrocausality` + `transactional-interpretation…`, `dual-domain-capabilities…` + `perception`, `mind-arena` + `purpose-and-alignment` / `instrumental-convergence` / `causal-powers`, `other-properties` + `emotional-epistemology-void`, `analytic-idealism…` + `plurality-void`, `adaptive-computational-depth` + `simulation-detection-void`, `perception` + `phenomenal-depth`, `phenomenology-of-cognitive-limit-types` + `simulation-detection-void`). The two not found among earlier declines were screened on title, description, cross-links and shared terms. Neither frees a voids slot.
+  1. `topics/co-optimization-reply-to-the-correlation-problem` 2244w + `concepts/phenomenal-depth` 1475w = 3719 / 3999 (cosine 0.090). The overlap is one shared case citation, pain asymbolia (*Berthier, Starkstein, sensory-limbic disconnection*). There are 0 cross-links either way. One page is a single-argument topic on physicalism's answer to why valence tracks fitness; the other is a general concept of layered phenomenal richness. Declined on role and subject.
+  2. `concepts/phenomenal-presentation` + `concepts/sellars-manifest-and-scientific-images` = 3294 / 3499 (cosine 0.089). The overlap is one shared Sellars citation (*Empiricism and the Philosophy of Mind*, Minnesota Studies). There are 0 cross-links either way. One page is the passive felt background of experience; the other is the meta-framework the Map assumes about the two images. Declined on subject. (`sellars-manifest…` was declined with `grain-mismatch` on 10-01.)
+- **Open tasks**: not checked, because no merge was proposed.
+- **Sources / Target / Archived**: none. **Tasks minted**: none. **todo.md / evolution-state.yaml**: untouched. **Sync**: run (changelog mirror only). **References to review**: none. Model: claude-opus-5-5.
 
 ## 2026-10-04T17:51:29+00:00 - refine-draft
 - **Status**: Success
