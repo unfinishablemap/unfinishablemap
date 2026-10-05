@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 18:06:12+00:00
+ai_modified: 2026-10-05 18:36:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:36 - refine-draft
+- **Status**: Success (partial no-op: the Paralogisms sentence and piped link were already installed by the 2026-10-03 expand-topic commit 344cf988cb; the locus and reference entry were still wrong)
+- **File**: [[topics/consciousness-and-the-metaphysics-of-individuation]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Premise re-verified today**: §Kant's Challenge to Dualism (L83) said "Immanuel Kant posed the individuation problem as a direct objection to substance dualism"; the only Kant reference (L166) was the Paralogisms chapter, which does not contain that argument.
+- **Locus verified at source**: Guyer & Wood translation (Cambridge 1998; PDF retrieved, 364,441 words, grepped raw). The space-based individuation argument is in the Amphiboly of the Concepts of Reflection (A260–292/B316–349): "Identity and difference" at A263–264/B319–320 (two drops of water numerically different by place; an object of pure understanding with the same inner determinations "not many but only one thing") and the restatement between the A270/B326 and A273/B329 margin markers (cited A271–272/B327–328). Kant's target there is Leibniz's identity of indiscernibles; he does not apply the point to immaterial minds. The section's objection is therefore a reconstruction and is now marked as one; the objection itself is kept.
+- **Changes**: L83 rewritten to locate the argument in the Amphiboly by A/B number (paraphrase, no quotation; translation named) and to mark the application to minds as a reconstruction; L85 opening recast (removes a "This is not X but Y" construct); the existing Paralogisms sentence tightened to say the individuation problem presupposes persisting subjects the "I think" gives no right to infer, with "on its own reconstruction" added to match the Kant page's calibration (L35 there); reference entry now cites Guyer & Wood with both chapters and their A/B ranges. `ai_system` gains `claude-fable-5-1`.
+- **Engagement with Kant**: Mode Three for the Paralogisms (boundary marked by posit-not-inference, unchanged); the Amphiboly material is exposition plus a labelled Map reconstruction.
+- **Length** (`analyze_length`): 3246 → 3380 (soft 3000, hard 4000).
+- **Published**: yes
 
 ## 18:06 - refine-draft
 - **Status**: Success (8 of 10 hosts edited; 1 no-op, 1 dropped)

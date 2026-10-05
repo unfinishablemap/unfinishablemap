@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-10-03T23:54:54+00:00
+ai_modified: 2026-10-05T18:36:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[open-individualism-and-the-de-combination-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-18
 last_curated:
 last_deep_review: 2026-07-16T01:12:48+00:00
@@ -80,9 +80,9 @@ There is also a *[[open-individualism-and-the-de-combination-problem|de-combinat
 
 ## Kant's Challenge to Dualism
 
-Immanuel Kant posed the individuation problem as a direct objection to substance dualism. Physical objects can be individuated by spatial location—two otherwise identical atoms differ by occupying different positions. But if minds lack spatial extension, two qualitatively identical minds would share all their properties. What would make them two rather than one?
+The individuation problem can be pressed against substance dualism from materials in Immanuel Kant's first *Critique*, though the passage that supplies them targets Leibniz rather than the dualist. In the Amphiboly of the Concepts of Reflection, Kant argues against Leibniz's identity of indiscernibles that appearances are individuated by spatial location: two drops of water alike in every inner determination are numerically different because they are intuited in different places at the same time, whereas an object of pure understanding presented with the same inner determinations is one thing and not many (A263–264/B319–320, restated at A271–272/B327–328; cited by A/B number from the Guyer–Wood translation). Applying this to minds is a reconstruction, a step Kant does not take in that passage: if minds lack spatial extension, two qualitatively identical minds would share all their properties. What would make them two rather than one?
 
-This is not an epistemic problem (how would we *tell* them apart?) but a metaphysical one (what *makes* them distinct?). For the dualist, the standard criterion of individuation—spatial position—is unavailable. The same *Critique* presses a second objection in its Paralogisms: the bare "I think" proves neither the simplicity nor the persistence of the subjects this problem presupposes, a challenge the Map meets by positing its subject rather than inferring it ([[kants-paralogisms-and-the-maps-subject|Kant's paralogisms and the Map's subject]]).
+The problem is metaphysical rather than epistemic: it asks what *makes* such minds distinct, where the epistemic question asks only how we would *tell* them apart. For the dualist, the standard criterion of individuation—spatial position—is unavailable. The same *Critique* presses a second objection in its Paralogisms: the individuation problem presupposes persisting subjects, and the bare "I think" gives the dualist no right to infer their simplicity or their persistence—a challenge the Map answers, on its own reconstruction, by positing its subject rather than inferring it ([[kants-paralogisms-and-the-maps-subject|Kant's paralogisms and the Map's subject]]).
 
 One developed rival dissolves the challenge rather than answering it, and deserves registering before the dualist replies. Animalism—the position associated with Eric Olson and Paul Snowdon—holds that the subject of experience just *is* an organism, so subjects are individuated the way organisms are: spatially, biologically, one animal per subject. The recent collection *Biological Identity* (Meincke and Dupré, eds., 2020) brings this view into direct contact with the biology of individuality, including Meincke's processual variant. The Map's reply is the relocation it makes throughout: no physical criterion, organismic boundaries included, can individuate a consciousness that is not identical to any physical system—a framework-boundary disagreement, marked as such rather than refuted ([[positions/individuation-and-subjecthood|P-I1]]). But the rival's price for the Map should be stated plainly: animalism delivers what the Map cannot—a subject-count fixed by organism-count. That determinacy is only as firm as biological individuality itself; on the gradualist view of [[consciousness-and-the-major-evolutionary-transitions|the major evolutionary transitions]], there may be no determinate count of organisms to inherit, which would run as hard against P-I1's determinate boundaries as against animalism's.
 
@@ -163,7 +163,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 ## References
 
 1. James, W. (1890). *The Principles of Psychology*, Chapter VI ("The Mind-Stuff Theory").
-1. Kant, I. (1781/1787). *Critique of Pure Reason*, "Paralogisms of Pure Reason."
+1. Kant, I. (1998). *Critique of Pure Reason* (P. Guyer & A. W. Wood, Trans.). Cambridge University Press. (Original work published 1781/1787.) "On the Amphiboly of the Concepts of Reflection", A260–292/B316–349 (identity and difference: A263–264/B319–320, A271–272/B327–328); "The Paralogisms of Pure Reason", A341–405/B399–432.
 1. Scotus, J. D. (c. 1300). *Ordinatio* II, d.3, part 1.
 1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
