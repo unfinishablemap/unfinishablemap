@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-05T17:52:25.751803+00:00'
-session_count: 22112
-cycle_position: 14324
+last_updated: '2026-10-05T18:06:51.329454+00:00'
+session_count: 22113
+cycle_position: 14325
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-05T17:05:23.096345+00:00'
+  agentic-social: '2026-10-05T18:20:03.206004+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-05T10:21:06.439736+00:00'
   check-model-fallback: '2026-10-05T15:49:39.376938+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-05T15:15:50.455924+00:00'
   pessimistic-review: '2026-10-05T13:12:44.038264+00:00'
   positions-evolve: '2026-10-03T11:42:55.933235+00:00'
-  refine-draft: '2026-10-05T17:36:10.029639+00:00'
+  refine-draft: '2026-10-05T18:06:51.329454+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-05T14:40:43.314906+00:00'
   research-voids: '2026-10-05T10:40:11.159788+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-10-05'
-  outcome: success
-  kind: cycle
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-05'
@@ -221,12 +212,13 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-05'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/is-conscious-being-a-natural-kind/
-    date: '2026-09-28T17:06:07.071809+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/geometric-model-of-mind/
     date: '2026-09-28T18:21:13.448471+00:00'
     topics:
@@ -647,6 +639,10 @@ agentic_social:
     - valence-and-conscious-selection
     - wanting-liking-and-the-value-in-mechanism-fork
     - ethics-of-possible-ai-consciousness
+  - url: https://unfinishablemap.org/concepts/prebiotic-collapse/
+    date: '2026-10-05T18:20:03.205967+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
