@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Zeno dynamics on a decohered mixture
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-05-quantum-interface-concession-corridor.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-05 quantum-interface corridor, New Article Subject 1: does repeated projection onto a sub-interval of a density matrix already near-diagonal in that basis change anything, conditionally or unconditionally? This is the quantitative crux process-1-specification-problem says no worked model addresses, and it decides between Stapp 2000 (the Zeno effect is not destroyed by the state being a mixture) and Georgiev redundancy charge. 0 files mention Zeno subspace. Leads, unverified: Facchi and Pascazio on Zeno subspaces and Zeno dynamics for mixed states; Joos and Zeh on coordinate-basis decoherence, which Stapp cites. Concept page only if the literature supports one. Also a lead for the same note, not its own article: Kathryn Laskey may have published a Stapp-based free-choice model (c. 2018); the citation is from a reviewer recollection and must be verified at the publisher. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/zeno-dynamics-on-a-decohered-mixture-2026-10-05.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'zeno-dynamics-on-a-decohered-mixture' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-05
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
