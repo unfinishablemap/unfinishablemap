@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 09:50:15+00:00
+ai_modified: 2026-10-05 16:50:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:50 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched)
+- **Cap state** (live count, sidecars and index files excluded): voids 113/115 (98.3%), concepts 347/360 (96.4%), topics 342/360 (95.0%). Searched in that pressure order, then cross-section.
+- **Method**: 14-day age floor on `ai_modified`/`created` first (eligible: voids 5 length-feasible pairs only; topics 176 articles; concepts 176 articles), then TF-IDF on discriminative body terms (2-8% document frequency; Further Reading, References and house-style section headings stripped), with length feasibility screened on prose and confirmed on `analyze_length` totals. `.refinement-log` sidecars excluded before pairing.
+- **Voids**: best pair overall `fusion-void` + `modality-void` at 0.262, carries a distinction heading and sums to 4487 against the 3000 hard threshold. Only 5 length-feasible pairs exist, all involving `simulation-detection-void`, best score 0.081. No candidate.
+- **Topics**: 39 length-feasible pairs, best 0.153 (`the-cognitive-immune-system-and-immunological-selfhood` + `the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question`, different organ systems). Every pair above 0.34 sums to 4900+ against the 4000 hard threshold.
+- **Concepts, two pairs read on the merits and declined**:
+  1. `prehension` (1779) + `subjective-aim` (1863), score 0.379 — two distinct Whitehead technical terms in a data/synthesiser relation; `subjective-aim` states the occasion "inherits data from its predecessors through [[prehension]]" and that subjective aim "is what guides this synthesis". Merged `analyze_length` total 3642 exceeds the 3500 hard threshold; 43 and 40 inbound files respectively.
+  2. `time-symmetric-physics` (2217) + `transactional-interpretation-of-quantum-mechanics` (1759), score 0.343 — genus and one of its three species (the former gives TI one subsection beside TSVF and Price). Merged total 3976 exceeds 3500.
+- **Cross-section**: the top ten (0.47-0.64) are all concept-page-versus-topic-that-applies-it pairs (e.g. `concepts/biological-computationalism` + `topics/biological-computationalisms-inadvertent-case-for-dualism`), dropped per the role-granularity rule.
+- **Shared `coalesced_from` ancestry**: three of four sibling pairs are inside the age floor; the fourth (`anoetic-noetic-autonoetic-consciousness` + `episodic-memory`) sums to 6486.
+- **Note for operator**: voids is two slots from cap and coalescing cannot relieve it; relief has to come from archival or a cap change.
 
 ## 16:35 - refine-draft
 - **Status**: Success (2 of 2 body loci and 2 of 2 reference entries applied with the review's exact text; every old string matched exactly once)
