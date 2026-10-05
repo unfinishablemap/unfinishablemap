@@ -5,6 +5,18 @@ ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 16:22 - deep-review
+- **Status**: Success
+- **File**: [[topics/jain-philosophy-of-mind]]
+- **Word count**: 2557 → 2739 (+182; soft 3000)
+- **Critical issues addressed**: 5. (1) Balcerowicz 2020 reference title was wrong and had been installed by the 2026-07-16 review: "Anekāntavāda" → "Jain Epistemology," *Brill's Encyclopedia of Jainism*, 837–856 (author's publication list; the only web confirmation of the old title was our own review page). (2) Balcerowicz's reading was inverted: the article had him render anekantavada as "relativity"; his text says "no relativism of our knowledge is implied in the theory." (3) Dharmakirti was credited with the self-application objection; his is the curd-and-camel collapse-of-distinctions argument, the self-application charge is Śaṅkara's. (4) Johnson 1995 flattened: his thesis is that passion-based bondage is a later systematisation over an earlier activity-based view. (5) "radicalized partial perspectives" attributed to Gorisse is not her wording; replaced with the verbatim "the erroneous radicalization of a perspective."
+- **Medium issues addressed**: 5 ("seven truth-values" → "seven modes of predication"; "independent" dropped from the lead; Tenet 5 reading now notes classical Jaina authors held one standpoint complete; "oldest extant Jaina treatise in Sanskrit"; Further Reading label).
+- **Enhancements made**: 2
+- **Verification**: all Gorisse quotations and the three Balcerowicz fragments grep-verified in raw source text. Johnson's thesis and the Dharmakirti and Śaṅkara objections rest on secondary confirmation only; primary texts not read.
+- **Also touched**: `research/jain-philosophy-of-mind-2026-07-10` (dated correction line under the Balcerowicz entry).
+- **Reasoning mode (editor record)**: no named-opponent reply in the article.
+- **Output**: [[reviews/deep-review-2026-10-05-jain-philosophy-of-mind]]
+
 ## 16:05 - refine-draft
 - **Status**: Success (2 of 2 body loci and 2 of 2 reference entries applied with the review's exact text)
 - **File**: [[topics/forward-in-time-conscious-selection]]

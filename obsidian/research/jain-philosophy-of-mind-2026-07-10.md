@@ -148,4 +148,5 @@ When writing the article, follow obsidian/project/writing-style.md for:
 - Johnson, W. J. *Harmless Souls: Karmic Bondage and Religious Change in Early Jainism with Special Reference to Umasvati and Kundakunda*. Delhi: Motilal Banarsidass, 1995. ISBN 8120813090 — VERIFIED (year 1995).
 - Wiley, Kristi L. *Historical Dictionary of Jainism*. Lanham, MD: Scarecrow Press, 2004 — VERIFIED.
 - Balcerowicz, Piotr. Studies on Jain epistemology / anekantavada (Brill, 2020; author PDFs at balcerowicz.eu) — VERIFIED (specialist author page).
+  - **Correction 2026-10-05 (deep review, full text read):** the work at balcerowicz2020c.pdf is the entry "Jain Epistemology," *Brill's Encyclopedia of Jainism* (2020), 837–856. Balcerowicz renders *anekantavada* as "multiplexity of reality" and states that "no relativism of our knowledge is implied in the theory"; the "relativity" gloss above is not his. Dharmakirti's objection is the curd-and-camel collapse-of-distinctions argument; the self-application charge is Śaṅkara's.
 - Jayandra Soni — recognized Jain-epistemology scholar; specific work UNVERIFIED this session (pin a title before citing).
