@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-10-04 13:32:59+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-05 12:06:31+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[illusionism]]'
@@ -16,8 +16,8 @@ description: Gazzaniga's left-hemisphere interpreter confabulates reasons for ac
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-04 06:54:00+00:00
-lastmod: 2026-10-04 13:32:59+00:00
+last_deep_review: 2026-10-05 12:06:31+00:00
+lastmod: 2026-10-05 12:06:31+00:00
 modified: *id001
 related_articles:
 - '[[split-brain-consciousness]]'
@@ -29,7 +29,7 @@ topics:
 - '[[the-self-minimal-narrative-and-substantial]]'
 ---
 
-The **left-hemisphere interpreter** is Michael Gazzaniga and Joseph LeDoux's term for a language-dominant brain system that spontaneously constructs plausible causal stories for behaviour whose real drivers it cannot access. In split-brain patients, the verbally competent left hemisphere confabulates reasons for actions initiated by the mute right hemisphere — the canonical chicken-claw/snow-shovel demonstration. The interpreter anchors the strongest naturalistic case that the felt unity of the self is a retrospective story rather than a metaphysically unified subject.
+The **left-hemisphere interpreter** is the name for a language-dominant brain system, identified in Michael Gazzaniga and Joseph LeDoux's split-brain work, that spontaneously constructs plausible causal stories for behaviour whose real drivers it cannot access. In split-brain patients, the verbally competent left hemisphere confabulates reasons for actions initiated by the mute right hemisphere — the canonical chicken-claw/snow-shovel demonstration. The interpreter anchors the strongest naturalistic case that the felt unity of the self is a retrospective story rather than a metaphysically unified subject.
 
 The Unfinishable Map takes that case seriously and builds it at full strength. The Map's discriminating response — stated here so it survives being read alone — is that the interpreter data decisively establish that our narrated authorship of reasons is unreliable, yet they do not touch the phenomenal unity of the present moment, because the interpreter operates on contents that are, by hypothesis, already conscious. This is a distinction the evidence under-determines, not a proof that unity is fundamental. The interpreter argument does not refute a genuinely unified experiencer; it also does not, on its own, establish one.
 
@@ -64,7 +64,7 @@ The Map's interpretation — marked as the Map's, not as a neutral reading of th
 
 The interpreter data establish the first decisively. They do not reach the second, and the reason is structural. The interpreter *narrates already-conscious contents*. In the chicken-claw case, the false story about the chicken shed presupposes that the pointing, the seeing of the shovel, and the felt puzzlement are already present as experiences for a subject — the interpreter is explaining experiences it finds already given, not conjuring the experiencing. A mechanism that operates on conscious contents cannot, by that same operation, account for their being conscious in the first place. It arrives too late.
 
-So the confabulation of a false *reason* leaves untouched the unity of the *field* over which the reason is confabulated. The illusionist argument equivocates between unreliability of the narrated author and non-existence of the experiencing subject. Only the former follows from the evidence. What the distinction protects is the unity of the field, not unity of control: whether one locus *selects* is a separate question, and on it [partitioned and distributed models of the will](/topics/the-divided-will/) predict data that a single selector only accommodates.
+So the confabulation of a false *reason* leaves untouched the unity of the *field* over which the reason is confabulated. The illusionist argument equivocates between unreliability of the narrated author and non-existence of the experiencing subject. Only the former follows from the evidence. What the distinction protects is the unity of the field, not unity of control: whether one locus *selects* is a separate question, and on it [partitioned and distributed models of the will](/topics/the-divided-will/) predict the preference-reversal and lapse data that a single selector only accommodates, while on confabulation itself the comparison is roughly even.
 
 This is a [possibility-not-proof result](/project/direct-refutation-discipline/). The Map does not claim the interpreter data prove that phenomenal unity is fundamental. It claims they are equally consistent with two hypotheses — that the interpreter *constructs* phenomenal unity, and that it *narrates over* a unity already phenomenally present — and therefore cannot decide against the second. The metaphysical conclusion the illusionist draws is under-determined by the evidence marshalled for it (see [evidential-status-discipline](/project/evidential-status-discipline/)).
 

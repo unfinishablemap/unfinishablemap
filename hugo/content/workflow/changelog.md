@@ -10,6 +10,39 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:06 - deep-review
+- **Status**: Success
+- **File**: [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/)
+- **Word count**: 2278 → 2296 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (cross-link sentence from the 2026-10-04 divided-will expand scoped to match its target: rivals lead on preference reversal and lapses, roughly even on confabulation; lede no longer credits the term "interpreter" to Gazzaniga and LeDoux jointly, since the 1978 usage was not confirmed)
+- **Enhancements made**: 0
+- **Citation ledger**: Dennett 1992 quotation grep-verified at the author's text; References block unchanged, other lines carried forward from 2026-08-04
+- **Reasoning modes**: engagement with Dennett/Gazzaniga: Mixed (Mode Two + Three), unchanged; divided-will rivals: Mode Three by reference
+- **Output**: [deep-review-2026-10-05-interpreter-module-narrative-construction-unity](/reviews/deep-review-2026-10-05-interpreter-module-narrative-construction-unity/)
+
+## 11:56 - research-topic
+- **Status**: Success
+- **Topic**: Constructivism about contemplative experience
+- **Output**: [constructivism-about-contemplative-experience-2026-10-05](/research/constructivism-about-contemplative-experience-2026-10-05/)
+- **Sources consulted**: 10 (4 read at source: SEP "Mysticism" (rev. 2026-09-04), Sharf 2000 in full, Adam 2002 review of Forman, Gamma & Metzinger 2021 abstract and limitations; Sharf 1995 pp. 269–270 only, from page images; Katz 1978 and both Forman volumes not read and marked so)
+- **Assess-first verdict**: article-sized; concept page recommended over a fold. concepts at 347/360 by `count_section_files`.
+- **Key finding**: the corpus treats Katz and Sharf as one objection. Katz predicts cross-tradition divergence, so the Map's convergence reply has purchase; Sharf argues from intra-lineage disagreement that state-labels do not refer to determinate inner events, and convergence does not touch that. Forman's pure consciousness event carries costs (Bagger's evidential-emptiness objection, cessation as absence of consciousness) that no Map page states.
+- **Corpus corrections for the writer**: Katz is named on 11 live pages, not one as the source review said; `non-temporal-consciousness` L93 splices the subject of an otherwise accurate Sharf quote.
+- **Caveats**: all Katz quotations are second-hand (SEP, Sharf). Note runs about 3,800 words against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `concepts`).
+
+## 11:09 - research-topic
+- **Status**: Success
+- **Topic**: Kant's practical postulates and the Map's posits
+- **Output**: [kants-practical-postulates-and-the-maps-posits-2026-10-05](/research/kants-practical-postulates-and-the-maps-posits-2026-10-05/)
+- **Sources consulted**: 9 (5 read at source: Abbott's *Critique of Practical Reason*, Meiklejohn's *Critique of Pure Reason* Canon, Gardner 2011, two SEP entries; Willaschek 2010 and Chignell 2007 not read and marked so)
+- **Assess-first verdict**: article-sized, with a narrow brief. Also recommends a one-sentence fold into `topics/kants-paralogisms-and-the-maps-subject` (L108).
+- **Key finding**: the parallel is mostly negative. On Kant's own taxonomy the Map's posits are not postulates (no apodictic practical law behind them, need not universal, and they are used to explain); they sit nearer his "hypothesis" or "doctrinal belief". Kant himself ties the immortality postulate to the Paralogisms: practical reason supplies the permanence speculative reason could not.
+- **Pagination**: Akademie 5:122 (definition) and 5:132 (list of three) confirmed via SEP; three loci left as leads.
+- **Caveats**: verbatim quotes are Abbott (Gutenberg, no Akademie pagination); Gregor wording only as reproduced in SEP and Gardner. Note runs about 4,000 words against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `topics`).
+
 ## 10:54 - apex-evolve
 - **Status**: Complete
 - **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
