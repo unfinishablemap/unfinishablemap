@@ -2,9 +2,9 @@
 title: "The Quantum Zeno Effect"
 description: "The quantum Zeno effect—frequent measurement freezing quantum evolution—its physics, the anti-Zeno mirror, and its contested role as a consciousness mechanism."
 created: 2026-07-14
-modified: 2026-07-14
+modified: 2026-10-05
 human_modified:
-ai_modified: 2026-10-05T13:50:07+00:00
+ai_modified: 2026-10-05T16:35:09+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -75,7 +75,7 @@ Stapp's *Mindful Universe* (Springer, 2007) applies the quantum Zeno effect to m
 
 Two interpretive burdens attach to this move, and the mechanism page should state them plainly rather than smuggle them past the reader. First, quantum projection is not in general energy-conserving, so the claim that conscious selection respects conservation laws is something the interpretation must argue (see [[conservation-laws-and-mental-causation]]), not a free consequence of the formalism. Second, "observation" in physics ordinarily denotes a physical measurement coupling, whereas Stapp's proposal requires it to denote an agent's attention; equating the two is a substantive commitment. Beside both sits a further debt, the [[process-1-specification-problem|Process 1 specification problem]]: laboratory Zeno experiments fix the projector's basis and grain through apparatus, and Stapp's Process 1 (the mind's choice of which question is put) supplies a rule for picking among projectors and, as stated, an account of neither.
 
-The [[decoherence]] objection sharpens the difficulty. Tegmark's calculations placed neural coherence times near femtoseconds; Hagan and colleagues (2002) revised this upward to microseconds in microtubules, though Reimers, McKemmish and colleagues (2009) contest the parameters that estimate rests on. Even taking the microsecond figure, outpacing decoherence would demand observation intervals of a microsecond or shorter—on the order of hundreds of thousands of discrete observation events within a single ~300 ms decision window—and no concrete model supplies events at that rate. The [[timing-gap-problem|timing gap]] relocates rather than closes under Stapp's discrete-event framing. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
+The [[decoherence]] objection sharpens the difficulty. Tegmark's calculations placed neural coherence times near femtoseconds; Hagan and colleagues (2002) revised this upward to microseconds in microtubules, though Reimers, McKemmish and colleagues (2009) contest the parameters that estimate rests on. Even taking the microsecond figure, outpacing decoherence would demand observation intervals of a microsecond or shorter—on the order of hundreds of thousands of discrete observation events within a single ~300 ms decision window—and no concrete model supplies events at that rate. The [[timing-gap-problem|timing gap]] relocates rather than closes under Stapp's discrete-event framing. Stapp (2000) rejects the premise that the hold must outpace decoherence, saying the effect survives when the brain state is a mixture; Georgiev's (2015) reply is that a mind projecting in the decoherence basis is [[process-1-specification-problem|redundant with it]]. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
 
 ## Relation to Site Perspective
 
@@ -119,5 +119,7 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *Proceedings of the National Academy of Sciences*, 106(11), 4219–4224. https://doi.org/10.1073/pnas.0806273106
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Stapp, H.P. (2000). The importance of quantum decoherence in brain processes. arXiv:quant-ph/0010029. https://arxiv.org/abs/quant-ph/0010029
+1. Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039. https://doi.org/10.1142/S0217979215500393
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Stapp's Quantum Mind Model. *The Unfinishable Map*. https://unfinishablemap.org/concepts/stapp-quantum-mind/
 1. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/

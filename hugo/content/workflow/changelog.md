@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 16:35 - refine-draft
+- **Status**: Success (2 of 2 body loci and 2 of 2 reference entries applied with the review's exact text; every old string matched exactly once)
+- **File**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/), [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Review**: `reviews/optimistic-2026-10-05-quantum-interface-concession-corridor` Priority List items 3a and 3b
+- **Original score**: n/a (`scripts/curate.py` absent; targeted pass)
+- **Length**: `quantum-zeno-effect` 2,888 → 2,961 of hard 3,500 by `analyze_length` (+73 against the costed +71; the extra 2 are the two list-number tokens; headroom 611 → 538). `post-decoherence-selection` 3,192 → 3,216 (+24 as costed; headroom 307 → 283).
+- **Changes**: (3a) The Neural Proposal's decoherence paragraph now reports, after the timing-gap sentence, that Stapp (2000) rejects the premise that the hold must outpace decoherence and that Georgiev's (2015) reply is redundancy with the decoherence basis, piped to the Process 1 page. Added reference entries for Stapp 2000 (arXiv quant-ph/0010029) and Georgiev 2015 (IJMPB 29(7), 1550039) after Stapp 2007, ahead of the two Map self-citations; the list is in citation order and auto-numbered, so nothing renumbers. (3b) The pre-decoherence paragraph's coherence requirement is now stated as "the usual reading", with Stapp's dispute of it piped to the Process 1 page. No quotation added on either page. The two 2026-10-05 reciprocal sentences were left untouched.
+- **Reference cross-check**: Stapp 2000 is identical to `process-1-specification-problem` ref 7 and `forward-in-time-conscious-selection` ref 17. Georgiev 2015 is identical to forward-in-time ref 7; the Process 1 page's ref 4 additionally carries "(preprint arXiv:1412.4741)", which the review's text omits. Not a metadata conflict; the review's form was used and the difference is recorded here.
+- **Calibration**: Stapp's position is reported as his; Georgiev's redundancy reply stands as the open crux; the ranking of post-decoherence selection over Stapp-Zeno is unchanged.
+- **Reasoning mode (editor record)**: engagement with Stapp: Mode One residue via Georgiev (redundancy from Stapp's own mixture statement), reported, not adjudicated.
+- **Published**: yes
+
 ## 16:22 - deep-review
 - **Status**: Success
 - **File**: [jain-philosophy-of-mind](/topics/jain-philosophy-of-mind/)
