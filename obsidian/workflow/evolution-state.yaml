@@ -1,10 +1,14 @@
-last_updated: '2026-10-05T08:57:46.228224+00:00'
-session_count: 22076
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-10-05T09:05:12.291346+00:00'
+session_count: 22077
 cycle_position: 14301
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-05T09:04:52.740584+00:00'
+  agentic-social: '2026-10-05T09:05:12.291346+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
   check-links: '2026-10-03T19:09:30.428133+00:00'
   check-model-fallback: '2026-10-05T07:19:40.644467+00:00'
@@ -117,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-04'
-  outcome: success
-  kind: trigger
 - task: research-topic
   type: research-topic
   date: '2026-10-04'
@@ -217,6 +216,11 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-05'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/philosophy-of-time/
@@ -689,6 +693,8 @@ task_chains:
   - research_file: obsidian/research/anticipatory-feeling-and-time-preference-2026-10-05.md
     target_section: topics
   - research_file: obsidian/research/self-deception-and-the-divided-mind-2026-10-05.md
+    target_section: topics
+  - research_file: obsidian/research/addiction-between-compulsion-and-choice-2026-10-05.md
     target_section: topics
   pending_cross_reviews: []
 tune_system_history:

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Addiction between compulsion and choice
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 3: akrasia makes classification precede desert and the responsibility gradient lists addiction under stability, yet no page says where addiction falls (13 live pages mention it, none at length). Map stake: incentive sensitization against the selection reading. Leads to verify at source: Holton & Berridge 2013 (doi 10.1093/acprof:oso/9780199862580.003.0012), Heyman 2009 (doi 10.4159/9780674053991), Gorman 2019/2023. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/addiction-between-compulsion-and-choice-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'addiction-between-compulsion-and-choice' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-05
-
 ### P2: Research Agency incompatibilism: Steward's settlers
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 4: Steward's agent-involving, explicitly non-dualist libertarianism answers 'who settles?' as the Map does but denies the settler must be non-physical; she is cited only by the-divided-will. Lead: Steward, A Metaphysics for Freedom (OUP 2012, doi 10.1093/acprof:oso/9780199552054.001.0001); pp. 16, 147, 161 verified at source by the 2026-10-04 deep review. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/agency-incompatibilism-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'agency-incompatibilism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2028,6 +2022,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: Research Addiction between compulsion and choice
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 3: akrasia makes classification precede desert and the responsibility gradient lists addiction under stability, yet no page says where addiction falls (13 live pages mention it, none at length). Map stake: incentive sensitization against the selection reading. Leads to verify at source: Holton & Berridge 2013 (doi 10.1093/acprof:oso/9780199862580.003.0012), Heyman 2009 (doi 10.4159/9780674053991), Gorman 2019/2023. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/addiction-between-compulsion-and-choice-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'addiction-between-compulsion-and-choice' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-05: Research Self-deception and the divided mind
 - **Type**: research-topic

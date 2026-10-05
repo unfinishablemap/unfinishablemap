@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 08:27:42+00:00
+ai_modified: 2026-10-05 09:30:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:30 - research-topic
+- **Status**: Success
+- **Topic**: Addiction between compulsion and choice
+- **Output**: [[research/addiction-between-compulsion-and-choice-2026-10-05]]
+- **Task**: harvested from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` (New Article Subject 3); target `topics/`, intended slug `addiction-between-compulsion-and-choice`.
+- **Sources consulted**: 11 cited. Read at source: Holton & Berridge 2013 (publisher proof PDF; opening, self-control section and conclusion read through, middle sections by keyword), Heyman 2013 and Pickard 2017 in full text, Henden et al. 2013 and Levy 2014 in part. Gorman 2023 and Watson 2004 at abstract level. Heyman 2009, Sripada 2018 and 2022, Wallace 1999 not reached (metadata only).
+- **Finding for the expand step**: no source read defends literal irresistibility, so the akrasia page's weakness/compulsion binary has little to apply to in addiction; Levy's judgement-shift is the hard case for the selection reading. Holton & Berridge and Levy both lean on ego depletion. The chapter's running head reverses its title ("Between Choice and Compulsion"), and Pickard cites it that way.
+- **Length**: about 3,350 words against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `topics`).
 
 ## 09:10 - research-topic
 - **Status**: Success
