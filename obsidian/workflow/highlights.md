@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-04T08:08:40.525059'
+ai_modified: '2026-10-05T08:04:49.891507'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-04'
+modified: '2026-10-05'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-05: The Divided Will: Five Rivals to a Single Chooser
+
+New article tests the Map's single conscious selector against five rival models of a divided will, from Davidson's partitioned mind to Ainslie's bargaining interests. The verdict: the rivals predict the data on weakness of will, and nothing found supports the selector.
+
+**Type**: new-article  
+**Link**: [[the-divided-will]]
+
+---
+
 ### 2026-10-04: Kant's Paralogisms Meet the Map's Posited Subject
 
 Kant held that the bare 'I think' proves no simple, persisting soul. A new page argues the Map's route differs: it posits its subject rather than inferring it. It stays exposed wherever it argues from felt unity, felt mine-ness or continuity of memory.
@@ -193,16 +202,6 @@ Sophie Gibb's double prevention: a mental event causes nothing. It stops a secon
 **Type**: refinement  
 **Tweet**: https://x.com/unfinishablemap/status/2099779068686180850  
 **Link**: [[causal-exclusion-argument]]
-
----
-
-### 2026-09-14: Some People Never Hear the McGurk Illusion
-
-A dubbed syllable heard as a third sound. Some people fall for it on every trial, some never, and the split holds for a year (r = 0.91). Nothing in experience marks which perceiver you are: the weights that fuse your senses are spent making the percept.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2099408941289472054  
-**Link**: [[fusion-void]]
 
 ---
 
