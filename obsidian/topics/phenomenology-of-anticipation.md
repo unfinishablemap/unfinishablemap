@@ -4,7 +4,7 @@ description: "Protention—the forward-directed structure of present experience�
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-09-24T16:30:00+00:00
+ai_modified: 2026-10-05T12:35:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -163,6 +163,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [[temporal-consciousness]] — The specious present, Husserl's tripartite structure, and Bergson's durée
 - [[temporal-consciousness-structure-and-agency]] — How consciousness and time depend on each other
 - [[temporal-void]] — Why protention and retention differ in phenomenal weight
+- [[time-bias-and-thank-goodness-thats-over|Time-bias and "Thank goodness that's over"]] — Relief at a finished pain, and whether caring more about the future than the past is rational
 - [[prospective-memory]] — Deliberate future simulation and episodic future thinking
 - [[surprise-prediction-error-and-consciousness]] — How felt surprise resists reduction to prediction error
 - [[phenomenology-of-choice-and-volition]] — How anticipatory consciousness enables deliberation

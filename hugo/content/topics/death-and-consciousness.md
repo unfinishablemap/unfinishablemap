@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-02 14:39:41+00:00
+ai_modified: 2026-10-05 12:35:41+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 07:38:23+00:00
-lastmod: 2026-10-02 14:39:41+00:00
+lastmod: 2026-10-05 12:35:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,6 +77,8 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) does load-bearing work here,
 [Parfit's reductionism](/concepts/parfit-reductionism/) treats death as merely the ending of a pattern: on his account the prospect should come to seem less distressing, more like an ordinary loss of consciousness than the annihilation of a deep self. Since there's no deep self that persists, there's no deep self that is destroyed.
 
 **Why the Map rejects this**: The liberating conclusion follows *only if* reductionism is true. If *you* are a particular conscious subject whose [haecceity](/concepts/haecceity/) can't be replicated, then death destroys something unique and irreplaceable. This explains the asymmetry we feel between our own death (irreversible loss of this subject) and a replica's creation (a new subject, however similar). On Parfit's view, these should feel equivalent. That they don't reveals something about our pre-theoretical grasp of identity.
+
+Parfit offers a second consolation that this reply does not touch, because it rests on temporal neutrality rather than on reductionism. He argues that the bias towards the future is bad for us (a claim he separates from the question of whether the bias is irrational) and that temporal neutrality would improve our attitude to ageing and death: "As our life passes, we should have less and less to look forward to, but more and more to look backward to" (1984, 175). Meghan Sullivan's *Time Biases* (2018) develops temporal neutrality as a thesis about prudential rationality, requiring indifference about *when* goods and bads are scheduled. Nothing in this line of thought requires denying a deep self. A subject with an unrepeatable haecceity could be temporally neutral, and the ending of that subject would remain the loss described above; what neutrality would change is how much the part of a life already lived counts beside the part remaining. The Map's rejection of the reductionist consolation therefore leaves the neutrality-based one standing as a separate question, and on that question the Map takes no firm position. Whether [future-bias is rational](/topics/time-bias-and-thank-goodness-thats-over/) is treated on its own page, which accepts the felt relief at a finished pain as a datum and leaves the normative issue open.
 
 ### The Illusionist Challenge
 
@@ -233,6 +235,7 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 1. Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *PNAS*, 106(11), 4219-4224.
+1. Sullivan, M. (2018). *Time Biases: A Theory of Rational Planning and Personal Persistence*. Oxford University Press.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*.
 1. Teresi, J.A., Ramirez, M., Ellis, J., et al. (2023). Reports about paradoxical lucidity from health care professionals: A pilot study. *Journal of Gerontological Nursing*, 49(1), 18-26.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.

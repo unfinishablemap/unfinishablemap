@@ -4,7 +4,7 @@ description: "A-theory versus B-theory, presentism, eternalism, and the growing 
 created: 2026-01-16
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T00:24:14+00:00
+ai_modified: 2026-10-05T12:35:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ Contemporary philosophers respond in two ways:
 
 **A-theorists** accept that time requires the A-series but deny McTaggart's paradox shows genuine contradiction. The indexical nature of tense (like "here" for space) doesn't generate contradiction—it just marks perspective.
 
-**B-theorists** accept McTaggart's argument against the A-series but deny time requires it. The B-series alone suffices. Tensed language is convenient but reducible to tenseless relations plus indexical reference.
+**B-theorists** accept McTaggart's argument against the A-series but deny time requires it. The B-series alone suffices. Tensed language is convenient but [[time-bias-and-thank-goodness-thats-over|reducible to tenseless relations plus indexical reference]].
 
 ## The Three Main Ontological Positions
 

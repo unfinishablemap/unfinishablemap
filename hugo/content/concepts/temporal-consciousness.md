@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-08-08 17:26:00+00:00
+ai_modified: 2026-10-05 12:35:41+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -63,7 +63,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:08:52+00:00
-lastmod: 2026-08-08 17:26:00+00:00
+lastmod: 2026-10-05 12:35:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -214,6 +214,7 @@ Temporal consciousness connects to all five tenets:
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full treatment of time, collapse, and agency
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series and the growing block position
+- [Time-bias and "Thank goodness that's over"](/topics/time-bias-and-thank-goodness-thats-over/) — Prior's relief argument: what the felt pastness of a finished pain can and cannot show about time
 - [smoothness-and-continuity](/voids/smoothness-and-continuity/) — The smoothness problem and why consciousness cannot determine its own temporal grain
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why temporal extension is constitutive if consciousness is activity
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice

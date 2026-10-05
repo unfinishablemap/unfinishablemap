@@ -1448,15 +1448,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: Add Parfit's temporal-neutrality consolation to death-and-consciousness (making time-bias L102 true) and reciprocate time-bias-and-thank-goodness-thats-over from philosophy-of-time, phenomenology-of-anticipation and temporal-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/death-and-consciousness.md
-- **Also**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-time.md, /home/andy/unfin/unfinishablemap/obsidian/topics/phenomenology-of-anticipation.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/temporal-consciousness.md
-- **Source**: optimistic-review 2026-09-30 (optimistic-2026-09-30-concession-wing)
-- **Generated**: 2026-09-30
-- **Notes**: Suggested by optimistic review. See optimistic-2026-09-30-concession-wing.md §Calibration Concerns (1) and §Medium Priority "Temporal neutrality on the death page". time-bias L102 glosses "[[death-and-consciousness]] — where temporal neutrality bears on ageing and death", but death-and-consciousness (grep 2026-09-30: 0 hits for "temporal neutral", "future-bias", "look forward to") never discusses it; its Parfit section (L71–75, "Parfit's 'Liberating' View of Death") rejects the reductionist consolation and never meets the separate neutrality-based one (Parfit 1984, p. 175, quoted at time-bias L57: "As our life passes, we should have less and less to look forward to, but more and more to look backward to"; Sullivan 2018 at time-bias L61), which does not depend on reductionism. Add one paragraph there with a [[time-bias-and-thank-goodness-thats-over]] link; keep the normative abstention the time-bias deep review marks as deliberate (do not say the Map endorses or rejects temporal neutrality). Then one piped/short reciprocal on each of the three sibling pages (philosophy-of-time already lists Prior 1967 at L248; the other two are named in time-bias frontmatter/Further Reading with no link back). Headroom 2026-09-30 (analyze_length): death-and-consciousness 449 (hard 4000), philosophy-of-time 310, phenomenology-of-anticipation 597, temporal-consciousness 512 — re-measure first. Sync to hugo and check the Hugo copies.
-
 ### P3: Write voids article on the contingency void from the banked 2026-02-18 research note
 - **Type**: expand-topic
 - **Status**: pending
@@ -1986,6 +1977,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: Add Parfit's temporal-neutrality consolation to death-and-consciousness (making time-bias L102 true) and reciprocate time-bias-and-thank-goodness-thats-over from philosophy-of-time, phenomenology-of-anticipation and temporal-consciousness
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/death-and-consciousness.md
+- **Notes**: Suggested by optimistic review. See optimistic-2026-09-30-concession-wing.md §Calibration Concerns (1) and §Medium Priority "Temporal neutrality on the death page". time-bias L102 glosses "[[death-and-consciousness]] — where temporal neutrality bears on ageing and death", but death-and-consciousness (grep 2026-09-30: 0 hits for "temporal neutral", "future-bias", "look forward to") never discusses it; its Parfit section (L71–75, "Parfit's 'Liberating' View of Death") rejects the reductionist consolation and never meets the separate neutrality-based one (Parfit 1984, p. 175, quoted at time-bias L57: "As our life passes, we should have less and less to look forward to, but more and more to look backward to"; Sullivan 2018 at time-bias L61), which does not depend on reductionism. Add one paragraph there with a [[time-bias-and-thank-goodness-thats-over]] link; keep the normative abstention the time-bias deep review marks as deliberate (do not say the Map endorses or rejects temporal neutrality). Then one piped/short reciprocal on each of the three sibling pages (philosophy-of-time already lists Prior 1967 at L248; the other two are named in time-bias frontmatter/Further Reading with no link back). Headroom 2026-09-30 (analyze_length): death-and-consciousness 449 (hard 4000), philosophy-of-time 310, phenomenology-of-anticipation 597, temporal-consciousness 512 — re-measure first. Sync to hugo and check the Hugo copies.
 
 ### ✓ 2026-10-05: Reciprocal integration of process-1-specification-problem on the six corridor pages it corrects (quantum-zeno-effect, post-decoherence-selection, selection-criterion-problem, ensemble-level-epiphenomenalism, agency-budget L97, von-neumann-wigner-interpretation)
 - **Type**: refine-draft

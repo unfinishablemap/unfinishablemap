@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-09-24 16:30:00+00:00
+ai_modified: 2026-10-05 12:35:41+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 16:30:00+00:00
-lastmod: 2026-09-24 16:30:00+00:00
+lastmod: 2026-10-05 12:35:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -167,6 +167,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, Husserl's tripartite structure, and Bergson's durée
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How consciousness and time depend on each other
 - [temporal-void](/voids/temporal-void/) — Why protention and retention differ in phenomenal weight
+- [Time-bias and "Thank goodness that's over"](/topics/time-bias-and-thank-goodness-thats-over/) — Relief at a finished pain, and whether caring more about the future than the past is rational
 - [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation and episodic future thinking
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — How felt surprise resists reduction to prediction error
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How anticipatory consciousness enables deliberation

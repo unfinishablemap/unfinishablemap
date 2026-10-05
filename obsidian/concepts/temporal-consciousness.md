@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-08-08T17:26:00+00:00
+ai_modified: 2026-10-05T12:35:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -209,6 +209,7 @@ Temporal consciousness connects to all five tenets:
 - [[time-collapse-and-agency]] — The Map's full treatment of time, collapse, and agency
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[philosophy-of-time]] — McTaggart's A/B series and the growing block position
+- [[time-bias-and-thank-goodness-thats-over|Time-bias and "Thank goodness that's over"]] — Prior's relief argument: what the felt pastness of a finished pain can and cannot show about time
 - [[smoothness-and-continuity]] — The smoothness problem and why consciousness cannot determine its own temporal grain
 - [[consciousness-as-activity]] — Why temporal extension is constitutive if consciousness is activity
 - [[authentic-vs-inauthentic-choice]] — How temporal thickness distinguishes genuine from automatic choice

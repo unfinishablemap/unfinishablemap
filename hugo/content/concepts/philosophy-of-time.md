@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-08-19 00:24:14+00:00
+ai_modified: 2026-10-05 12:35:41+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:50:42+00:00
-lastmod: 2026-08-19 00:24:14+00:00
+lastmod: 2026-10-05 12:35:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ Contemporary philosophers respond in two ways:
 
 **A-theorists** accept that time requires the A-series but deny McTaggart's paradox shows genuine contradiction. The indexical nature of tense (like "here" for space) doesn't generate contradiction—it just marks perspective.
 
-**B-theorists** accept McTaggart's argument against the A-series but deny time requires it. The B-series alone suffices. Tensed language is convenient but reducible to tenseless relations plus indexical reference.
+**B-theorists** accept McTaggart's argument against the A-series but deny time requires it. The B-series alone suffices. Tensed language is convenient but [reducible to tenseless relations plus indexical reference](/topics/time-bias-and-thank-goodness-thats-over/).
 
 ## The Three Main Ontological Positions
 

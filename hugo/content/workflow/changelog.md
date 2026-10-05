@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:36 - refine-draft
+- **Status**: Success
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/) (four-file task; also [philosophy-of-time](/concepts/philosophy-of-time/), [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/), [temporal-consciousness](/concepts/temporal-consciousness/))
+- **Original score**: not scored (`scripts/curate.py` absent; targeted integration pass from `reviews/optimistic-2026-09-30-concession-wing` Calibration Concern 1 / Medium Priority "Temporal neutrality on the death page")
+- **Premise re-verified**: body counts (frontmatter stripped) of "temporal neutral", "future-bias", "look forward to" and the `time-bias-and-thank-goodness-thats-over` slug were 0/0/0/0 on all four files before editing; none was a no-op, none dropped.
+- **Changes**: death-and-consciousness gains one paragraph closing the Parfit section: Parfit's neutrality-based consolation (quotation and "(1984, 175)" citation copied exactly from the time-bias page, with his bad-for-us / irrational separation kept), Sullivan 2018's temporal neutrality, the observation that the consolation does not depend on reductionism so the existing rejection does not reach it, and a piped link to the time-bias page. The Map's normative abstention is kept ("takes no firm position"); the existing rejection of the reductionist consolation is untouched. Sullivan 2018 added to the reference list in alphabetical position (metadata copied from the time-bias page); Parfit 1984 was already listed. Reciprocals: philosophy-of-time, zero-word pipe on "reducible to tenseless relations plus indexical reference" (the B-theorist claim Prior's argument targets); phenomenology-of-anticipation and temporal-consciousness, one Further Reading entry each (no existing body phrase fitted a pipe).
+- **Engagement classification**: engagement with Parfit (neutrality consolation): Mode Three; the paragraph marks the question as separate and open, with no claim of refutation.
+- **Length** (analyze_length, before → after / hard): death-and-consciousness 3533 → 3762 / 4000; philosophy-of-time 3189 → 3189 / 3500; phenomenology-of-anticipation 3402 → 3427 / 4000; temporal-consciousness 2987 → 3012 / 3500.
+- **Published**: yes
+
 ## 12:22 - refine-draft
 - **Status**: Success
 - **File**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/) (six-file reciprocal-integration task; also [post-decoherence-selection](/concepts/post-decoherence-selection/), [selection-criterion-problem](/concepts/selection-criterion-problem/), [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), [agency-budget](/concepts/agency-budget/), [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/))
