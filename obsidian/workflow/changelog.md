@@ -5,6 +5,20 @@ ai_modified: 2026-10-05 20:50:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 21:22 - refine-draft
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source**: [[reviews/tenet-check-2026-10-05]] §Errors, comparing-quantum-consciousness-mechanisms L161 (Tenet 3), with the three sibling loci it names
+- **Premise re-verified today**: all four quoted targets occurred exactly once and were live; the article had zero occurrences of "Process 1", "context-selection" and the specification-problem slug. Not a no-op.
+- **Changes**: (1) Stapp "Tenet alignment: Strong. Satisfies all five tenets" → "Strong on four", with Bidirectional Interaction qualified: Stapp places the mind's influence in Process 1 and leaves the outcome to nature, the context-selection route the tenets page registers without adopting; one piped link to the Process 1 specification problem page installed. The tenets wording is paraphrased, not quoted: the task's "would weaken this tenet" is not a contiguous string on the tenets page ("would weaken outcome-selection to context-setting and thereby weaken this tenet"). (2) Table cell for Stapp "Strong (all five)" → "Strong (four; Tenet 3 qualified)"; the CSL-IIT cell is unchanged. (3) Preference-ordering item 1: Stapp no longer folded into post-decoherence outcome-selection; "Stapp states his mechanism on that mixture too, but it sets the question where this path selects the outcome". (4) Item 2: "Both satisfy all five tenets and operate through discrete events or modified dynamics rather than sustained coherence" → CSL-IIT five, Stapp four; "Neither is offered as needing sustained coherence", with Georgiev (2015, already in the reference list) calling a mind projecting in the decoherence basis redundant. Coherence-independence is reported as the authors' claim; nothing in the Map's voice says Stapp's mechanism must outpace decoherence or is free of a timing requirement, per [[research/zeno-dynamics-on-a-decohered-mixture-2026-10-05]]. No new citation.
+- **Offsetting trims (length)**: the tenet glosses in the Stapp alignment list; "Where they can be read as implementations of post-decoherence selection, the Map treats them as allies rather than rivals" folded into item 1 as "The Map treats both as allies, not rivals"; "Both errors collapse a layer."; "The full picture may require elements from several." (the complementarity point survives in Relation to Site Perspective); the preference-ordering caveat sentence tightened with "not an empirical result" kept; "directly"; "acting forward in time" after "non-retrocausal".
+- **Engagement classification**: Georgiev on Stapp: Mode Three for the Map (it reports an open dispute inside Stapp's framework and takes no side).
+- **Length**: 3988 → 3997 words (topics hard 4000; headroom 2). Any further addition to this article needs a condense first.
+- **Not done, flagged**: the Stapp "Decoherence vulnerability: Low" paragraph and its table cell still say in the Map's voice that the model "requires only discrete observation events, not sustained coherence" and that decoherence "resets the state without invalidating the mechanism". Outside the four loci and unaffordable at this headroom; it should be attributed to Stapp and re-rated against the research note. The Relation to Site Perspective sentence "Stapp describes *how* consciousness modulates collapse" is a smaller instance.
+- **ai_system**: `claude-fable-5-1` plus-joined.
+- **Published**: yes
+
 ## 21:08 - deep-review
 - **Status**: Success
 - **File**: [[concepts/naturalist-relationalism]]
