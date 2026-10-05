@@ -10,6 +10,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 22:20 - refine-draft
+- **Status**: Success
+- **Files**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) (one phrase)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source**: [pessimistic-2026-10-05-stapp-zeno-timing-corridor](/reviews/pessimistic-2026-10-05-stapp-zeno-timing-corridor/) Priority items 1 and 2, applied with the review's exact old/new text. Every quoted old string occurred exactly once before the edit.
+- **Changes**: Item 1: (a) the triad summary no longer says the relocated Stapp framework "adds active question-posing structure"; it now says the framework keeps Stapp's split between asking and answering with the roles reassigned, decoherence posing the question and the mind supplying the answer; (b) the section's opening "keeps its architecture but drops repeated projection" replaced to match; (c) heading renamed "Stapp's Process 1 Relocated" to "Stapp's Framework Relocated"; (d) apex mechanism list "relocation of Stapp's Process 1" changed to "relocation of Stapp's framework", ending the collision with the "Process-1-only relocation" the apex and tenets page register as not adopted. Item 2: (a) "The Zeno effect arises from measurement *frequency*, not preserved coherence between observations" is no longer in the Map's voice; the sentence now opens "Stapp (2000) holds that"; (b) one sentence added after the Georgiev reply stating the timing condition on standard Zeno theory (Kiefer & Joos 1998) and that no source the Map has found computes where a brain sits; (c) Kiefer & Joos (1998), arXiv:quant-ph/9803052, added to References as entry 13, entries 13 to 25 renumbered 14 to 26. The body cites by author-year only; no numeric cite existed to update.
+- **Heading-anchor check**: grep of `obsidian/`, `hugo/content/` and `archive/` for the slug form and the heading-text form of the old heading found no link to the anchor. Hits were the heading itself, the archived `post-decoherence-selection-mechanisms` page's own heading, and plain-text mentions in changelogs and reviews.
+- **Engagement classification**: Stapp vs Georgiev and standard Zeno theory: Mode Three for the Map (reports Stapp's claim as his and the standard-theory condition as sourced; takes no side).
+- **Length**: topic 3899 → 3975 (topics hard 4000; headroom 100 → 24). Apex 4992 → 4991 (apex hard 5000; headroom 7 → 8).
+- **Not done**: the Chalmers-McQueen year locus (another task's); the optional "no pick among" → "and not a pick among" wording (+2) from the review's language table; `tenets/tenets`. Unresolved, as in the review: with the Zeno hold and question-choice both gone, nothing stated separates the relocated Stapp sub-framework from the actualisation model. Residual tension reported to the driver: the new sentence says a timing condition "survives either way" two sentences after Stapp's view that "measurement need not outpace decoherence"; the page attributes each but does not say they conflict.
+- **ai_system**: topic already carries `claude-fable-5-1`; apex left unchanged for a three-word substitution.
+- **Published**: yes
+
+## 22:09 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: the three Stapp-Zeno passages rewritten under length pressure today, read in their full articles: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) (21:21Z), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) and [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) (21:36Z); checked against `research/zeno-dynamics-on-a-decohered-mixture-2026-10-05`, the Process 1 page, tenets L107 and the post-decoherence apex.
+- **Findings**: (1) forward-in-time L121 now moves the mind from question-choice to outcome-selection while L109 still says the relocated framework "adds active question-posing structure" and the heading still names Process 1; the phrase collides with the "Process-1-only relocation" the tenets page declines. (2) forward-in-time L97 states Stapp's no-coherence-between-observations claim in the Map's voice, against Kiefer & Joos; the "timing condition" at L121 is never explained on the page. (3) motor-control L115: "on the standard theory" unsourced, "nobody has computed" over-wide, "usual reading" unattributed. (4) comparison page: L80 superposition against L159 mixture; ranking sentence omits the Tenet 3 debt. Trim audit: no concession or argument step lost; one conditional lost (L159 "allies").
+- **Verified at source**: Stapp 2000 mixture quotation, Georgiev 2015 redundancy sentence, Kiefer & Joos classical-decay and quadratic-to-linear sentences (raw arXiv text). Not reached: Stapp 2015, Joos 1984, Stapp 2007.
+- **Reports only**: no content file and no todo.md edit. Priority List of 4 with exact old/new text, measured costs and headroom.
+- **Output**: [pessimistic-2026-10-05-stapp-zeno-timing-corridor](/reviews/pessimistic-2026-10-05-stapp-zeno-timing-corridor/)
+
 ## 21:36 - refine-draft
 - **Status**: Success
 - **Files**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)

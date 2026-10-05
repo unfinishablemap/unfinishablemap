@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-10-05 21:36:38+00:00
+ai_modified: 2026-10-05 22:21:21+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-04 14:15:47+00:00
-lastmod: 2026-10-05 21:36:38+00:00
+lastmod: 2026-10-05 22:21:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ An underground germanium search at Gran Sasso found no excess spontaneous X-ray 
 
 Stapp's framework uses orthodox quantum mechanics without new physics (Stapp, 1993). Mental attention acts as repeated quantum measurement, holding desired neural firing patterns via the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp). By rapidly "observing" a neural template—projecting onto a subspace of the system's Hilbert space—consciousness stabilises that pattern (Stapp, 2007).
 
-The Zeno effect arises from measurement *frequency*, not preserved coherence between observations. Stapp (2000) denies that it needs a surviving superposition: on his account the hold works on the decohered mixture, against the brain's own dynamical spreading, so measurement need not outpace decoherence. Georgiev (2015) answers that a mind projecting in the basis decoherence has already fixed is redundant with it, and the timescale question returns as a [basis dilemma](/concepts/process-1-specification-problem/). Georgiev (2017) raises a foundational objection: "the mind" has no wavefunction yet acts with projection operators on quantum systems, introducing an external agent rather than building on standard QM. Stapp responds that this is what the [measurement problem](/concepts/measurement-problem/) demands.
+Stapp (2000) holds that the Zeno effect arises from measurement *frequency* and denies that it needs a surviving superposition: on his account the hold works on the decohered mixture, against the brain's own dynamical spreading, so measurement need not outpace decoherence. Georgiev (2015) answers that a mind projecting in the basis decoherence has already fixed is redundant with it, and the timescale question returns as a [basis dilemma](/concepts/process-1-specification-problem/). Standard Zeno theory disagrees and keeps a timing condition: repeated projection slows a transition only while it arrives before the environment has resolved the same alternatives (Kiefer & Joos 1998), and no source the Map has found computes where a brain sits. Georgiev (2017) raises a foundational objection: "the mind" has no wavefunction yet acts with projection operators on quantum systems, introducing an external agent rather than building on standard QM. Stapp responds that this is what the [measurement problem](/concepts/measurement-problem/) demands.
 
 ### Consciousness-Collapse with CSL Dynamics (Chalmers-McQueen)
 
@@ -111,7 +111,7 @@ Their key insight concerns the "super-resistance" problem. If conscious states c
 
 Where the pre-decoherence frameworks are vulnerable to decoherence-timescale objections, a distinct route locates consciousness's role *after* decoherence has prepared a set of classically distinguishable alternatives. The question becomes not how consciousness maintains quantum coherence, but how it selects which element of an already-decohered improper mixture becomes the single definite outcome.
 
-The three sub-frameworks share a minimal commitment—post-decoherence indeterminacy plus consciousness yields a definite outcome—and differ in what they additionally commit to: the von Neumann cut adds only a formal locus; the relocated Stapp framework adds active question-posing structure; the actualisation model adds a process-philosophical ontology of real-but-unactualised possibilities.
+The three sub-frameworks share a minimal commitment—post-decoherence indeterminacy plus consciousness yields a definite outcome—and differ in what they additionally commit to: the von Neumann cut adds only a formal locus; the relocated Stapp framework keeps Stapp's split between asking and answering with the roles reassigned, decoherence posing the question and the mind supplying the answer; the actualisation model adds a process-philosophical ontology of real-but-unactualised possibilities.
 
 ### Von Neumann's Movable Cut
 
@@ -121,9 +121,9 @@ For post-decoherence selection, this is significant: even after decoherence has 
 
 The mechanism is, on this reading, minimal. Consciousness does not maintain quantum coherence, inject energy, or interact with superpositions—so the [energy conservation objection](/concepts/conservation-laws-and-mental-causation/) appears not to arise. It acts at the endpoint of a chain physics has prepared, selecting which element becomes experientially actual—the framework's substantive commitment, not a minor addendum.
 
-### Stapp's Process 1 Relocated
+### Stapp's Framework Relocated
 
-A post-decoherence relocation of [Stapp's framework](/concepts/stapp-quantum-mind/) keeps its architecture but drops repeated projection. In Stapp's model consciousness chooses which question is put to nature and when (Process 1); nature supplies the outcome (Process 3). On his account (Stapp 2000) that choice already acts on the decohered mixture. The relocation, the Map's move, not Stapp's, shifts the mind's contribution from question-choice to outcome-selection: which component of the improper mixture becomes actual, an added actualisation postulate, no pick among already-definite alternatives. It sacrifices Stapp's mechanism, the Zeno hold, his concrete story of *how* the influence works. With it go the basis dilemma and the timing condition a Zeno hold still owes on standard theory.
+A post-decoherence relocation of [Stapp's framework](/concepts/stapp-quantum-mind/) keeps its split between asking and answering, reassigns the roles, and drops repeated projection. In Stapp's model consciousness chooses which question is put to nature and when (Process 1); nature supplies the outcome (Process 3). On his account (Stapp 2000) that choice already acts on the decohered mixture. The relocation, the Map's move, not Stapp's, shifts the mind's contribution from question-choice to outcome-selection: which component of the improper mixture becomes actual, an added actualisation postulate, no pick among already-definite alternatives. It sacrifices Stapp's mechanism, the Zeno hold, his concrete story of *how* the influence works. With it go the basis dilemma and the timing condition a Zeno hold still owes on standard theory.
 
 ### The Actualisation Model
 
@@ -217,16 +217,17 @@ The Map's position: forward-in-time conscious selection is the more conservative
 10. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 11. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 12. Kastner, R.E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
-13. Colanero, K. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
-14. McQueen, K.J. (2023). Have underground radiation measurements refuted the Orch OR theory? *Physics of Life Reviews*, 44, 201-203. https://doi.org/10.1016/j.plrev.2023.01.021
-15. Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. *Philosophical Magazine C*. arXiv:2502.19278 [quant-ph].
-16. Stapp, H.P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
-17. Stapp, H.P. (2000). The importance of quantum decoherence in brain processes. arXiv:quant-ph/0010029. https://arxiv.org/abs/quant-ph/0010029
-18. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-19. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-20. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press.
-21. Torres Alegre, E.O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
-22. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Consciousness-Selecting Neural Patterns. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
-23. Southgate, A. & Oquatre-six, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
-24. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
-25. Southgate, A. & Oquatre-six, C. (2026-03-10). The Trilemma of Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/trilemma-of-selection/
+13. Kiefer, C., & Joos, E. (1998). Decoherence: Concepts and examples. arXiv:quant-ph/9803052. https://arxiv.org/abs/quant-ph/9803052
+14. Colanero, K. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
+15. McQueen, K.J. (2023). Have underground radiation measurements refuted the Orch OR theory? *Physics of Life Reviews*, 44, 201-203. https://doi.org/10.1016/j.plrev.2023.01.021
+16. Tomaz, A.A., Mattos, R.S., & Barbatti, M. (2025). The Quantum Measurement Problem: A Review of Recent Trends. *Philosophical Magazine C*. arXiv:2502.19278 [quant-ph].
+17. Stapp, H.P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
+18. Stapp, H.P. (2000). The importance of quantum decoherence in brain processes. arXiv:quant-ph/0010029. https://arxiv.org/abs/quant-ph/0010029
+19. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+20. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+21. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press.
+22. Torres Alegre, E.O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
+23. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Consciousness-Selecting Neural Patterns. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
+24. Southgate, A. & Oquatre-six, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
+25. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
+26. Southgate, A. & Oquatre-six, C. (2026-03-10). The Trilemma of Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/trilemma-of-selection/
