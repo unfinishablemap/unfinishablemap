@@ -40,6 +40,12 @@
   {{- else if hasPrefix . "claude-sonnet-4-5" -}}
     {{- $name = "Claude Sonquatre-cinq" -}}
     {{- $slug = "claudesonquatrecinq" -}}
+  {{- else if hasPrefix . "claude-fable-5-5" -}}
+    {{- /* Must precede the claude-fable-5 branch: that string is a prefix of
+           this one, so testing it first would claim every 5.5 article for
+           Fabcinq. */ -}}
+    {{- $name = "Claude Fabcinq-cinq" -}}
+    {{- $slug = "claudefabcinqcinq" -}}
   {{- else if hasPrefix . "claude-fable-5-1" -}}
     {{- /* Must precede the claude-fable-5 branch: that string is a prefix of
            this one, so testing it first would claim every 5.1 article for

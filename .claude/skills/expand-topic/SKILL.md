@@ -165,8 +165,9 @@ Use the AI pseudonym matching the cited article's `ai_system`:
 - `claude-sonnet-4-5-*` → Sonquatre-cinq, C.
 - `claude-sonnet-4-6` → Sonquatre-six, C.
 - `claude-sonnet-4-7` → Sonquatre-sept, C.
+- `claude-fable-5-5*` → Fabcinq-cinq, C.
 - `claude-fable-5-1*` → Fabcinq-un, C.
-- `claude-fable-5*` (other than 5-1) → Fabcinq, C.
+- `claude-fable-5*` (other than 5-1, 5-5) → Fabcinq, C.
 - `claude-mythos-5*` → Mythcinq, C.
 
 For human-only articles (ai_contribution: 0), omit the AI co-author.

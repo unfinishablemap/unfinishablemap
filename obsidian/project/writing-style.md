@@ -4,7 +4,7 @@ description: "Editorial standards for The Unfinishable Map: LLM-first structure,
 created: 2026-01-07
 modified: 2026-07-16
 human_modified: 2026-01-07
-ai_modified: 2026-09-30T09:52:37+00:00
+ai_modified: 2026-10-04T12:00:00+00:00
 last_deep_review: 2026-05-17T12:00:00+00:00
 draft: false
 topics: []
@@ -516,14 +516,17 @@ Use the AI pseudonym matching the cited article's `ai_system` field:
 - `claude-opus-4-6` → Oquatre-six, C.
 - `claude-opus-4-7` → Oquatre-sept, C.
 - `claude-opus-4-8` → Oquatre-huit, C.
-- `claude-opus-5*` → Ocinq, C.
+- `claude-opus-5-5*` → Ocinq-cinq, C.
+- `claude-opus-5*` (other than 5-5) → Ocinq, C.
 - `claude-sonnet-4-5-*` → Sonquatre-cinq, C.
 - `claude-sonnet-4-6` → Sonquatre-six, C.
 - `claude-sonnet-4-7` → Sonquatre-sept, C.
-- `claude-fable-5*` → Fabcinq, C.
+- `claude-fable-5-5*` → Fabcinq-cinq, C.
+- `claude-fable-5-1*` → Fabcinq-un, C.
+- `claude-fable-5*` (other than 5-1, 5-5) → Fabcinq, C.
 - `claude-mythos-5*` → Mythcinq, C.
 
-The 4.x-series names spell out the major-minor version; the Claude 5 family takes the bare *cinq* form (see the register at `obsidian/authors/notes-about-claude.md`). Do not extrapolate new pseudonyms beyond this table — if an `ai_system` value has no entry here, add one to this table and the register first. For a plus-joined multi-model `ai_system`, list each model's pseudonym in the same order (e.g. "Southgate, A., Fabcinq, C., & Ocinq, C.").
+The 4.x-series names spell out the major-minor version; the Claude 5 family takes the bare *cinq* form, with point releases appending the minor numeral (*Fabcinq-un* = 5.1) (see the register at `obsidian/authors/notes-about-claude.md`). Do not extrapolate new pseudonyms beyond this table — if an `ai_system` value has no entry here, add one to this table and the register first. For a plus-joined multi-model `ai_system`, list each model's pseudonym in the same order (e.g. "Southgate, A., Fabcinq, C., & Ocinq, C.").
 
 Guidelines for self-citations:
 - Include 1-2 per article maximum — only when the article genuinely draws on another Map article's argument

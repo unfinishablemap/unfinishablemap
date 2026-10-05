@@ -649,3 +649,34 @@
   subject_articles:
   - topics/akrasia-and-weakness-of-will.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-04-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac34b1c-8330-83ed-ad93-536bce543fe0
+  commissioned_at: '2026-10-05T07:01:10.655079+00:00'
+  prompt_summary: 'Audit egocentric-presentism: claims, citations, counterarguments,
+    integration'
+  target_filename: outer-review-2026-10-05-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as an independent, sceptical outer reviewer for The Unfinishable
+    Map (https://unfinishablemap.org), a philosophy-of-mind site built on five dualist
+    tenets. Audit one article in depth: https://unfinishablemap.org/concepts/egocentric-presentism/
+    which was last substantively modified on 2026-09-28. Browse the live page and
+    the articles it links to. Because search indexes lag, also consult the site changelog
+    at https://unfinishablemap.org/workflow/changelog/ for recent activity. Assess:
+    (1) whether its claims about Caspar Hare''s egocentric presentism and related
+    work (perspectival realism, Fine''s fragmentalism, Lewis and Perry on indexicals,
+    Many-Worlds self-location) are accurate and fairly attributed, checking each citation
+    and any quotation against the primary source; (2) which serious counterarguments
+    are missing or handled too quickly; (3) where the article protects the site''s
+    tenets by bracketing or hedging rather than by argument; (4) stale or missing
+    references from the 2020s literature; (5) how well it integrates with neighbouring
+    articles, and any inconsistencies between them. Distinguish clearly between verified
+    errors and matters of judgement. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit egocentric-presentism
+  subject_articles:
+  - concepts/egocentric-presentism.md
+  subject_source: fallback:recent-aged
