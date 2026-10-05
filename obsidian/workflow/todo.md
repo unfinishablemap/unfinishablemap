@@ -1448,9 +1448,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: Write voids article on the contingency void from the banked 2026-02-18 research note
+### P3: NEEDS-HUMAN (voids slot) — write voids article on the contingency void from the banked 2026-02-18 research note
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: needs-human
+- **Blocked-by**: human-decision — voids is at 113/115 (count_section_files, 2026-10-05 14:50Z); this article would take one of the last two slots. Four banked voids notes now compete for them (contingency, dormancy, serial-order, veto) plus today's grammar-void note; choose which, if any, get a slot, or raise max_voids. Picked by the loop 2026-10-05 and diverted by the driver, not executed.
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-contingency-void-2026-02-18.md
 - **Target section**: voids
 - **Source**: optimistic-review 2026-09-30 (optimistic-2026-09-30-concession-wing)
