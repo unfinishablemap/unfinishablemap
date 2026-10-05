@@ -5,6 +5,13 @@ ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 10:54 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenal-variation-within-a-species]]
+- **Changed sources**: 11
+- **Word count**: 4086 → 4009 (narrative body; `analyze_length` total 4970 → 4971)
+- **Review**: [[reviews/apex-evolve-2026-10-05-phenomenal-variation-within-a-species]]
+
 ## 10:40 - research-voids
 - **Status**: Success
 - **Topic**: The Grammar Void (tacit linguistic competence: a reliable verdict with a closed ground)

@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 10:54 - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Changed sources**: 11
+- **Word count**: 4086 → 4009 (narrative body; `analyze_length` total 4970 → 4971)
+- **Review**: [apex-evolve-2026-10-05-phenomenal-variation-within-a-species](/reviews/apex-evolve-2026-10-05-phenomenal-variation-within-a-species/)
+
+## 10:40 - research-voids
+- **Status**: Success
+- **Topic**: The Grammar Void (tacit linguistic competence: a reliable verdict with a closed ground)
+- **Category**: Mixed (first-personally Unexplorable; third-personally still being Explored; no Occluded reading supported)
+- **Output**: [voids-grammar-void-2026-10-05](/research/voids-grammar-void-2026-10-05/)
+- **Key finding**: Speakers' acceptability verdicts replicate at 98% on clear English textbook cases (Sprouse & Almeida 2012) while the speaker cannot state what produces them and linguistics has not agreed what does; whether anything rule-like exists in the mind to be inaccessible is contested (Chomsky, Stich, Devitt, Searle), so the void may shrink to ordinary opacity of brain processing.
+- **Tenet reading**: Occam's Razor Has Limits gains an instance; dualism gains a constraint (the syntactic computation is not consciousness's contribution) and no support. No Minimal Quantum Interaction or No Many Worlds connection found.
+- **Coverage check before selection**: zero hits in `voids/` and `research/voids-*` for "subdoxastic", "linguistic intuition", "acceptability judg", "tacit knowledge of"; one passing native-speaker sentence in `voids/expertise-and-its-occlusion`.
+- **Caveats**: Chomsky, Devitt, Rey, Evans, Berko, Karmiloff-Smith and Reber are represented through abstracts and secondary sources only (listed under Gaps); verbatim quotes are limited to Stich, Searle, Dienes & Scott, Sprouse & Almeida, Linzen & Oseki and Hu & Levy.
+- **Capacity**: voids 113/115 by `count_section_files` at run time. A standalone article would spend one of the last two slots; the note also sets out a fold option (expertise-and-its-occlusion, noetic-feelings-void, language-thought-boundary).
+- **Chain**: `task_chains.pending_articles` entry added (target `voids`).
+
 ## 09:50 - refine-draft
 - **Status**: Success
 - **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)

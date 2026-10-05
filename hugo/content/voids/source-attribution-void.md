@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-09-26 08:16:44+00:00
+ai_modified: 2026-10-05 10:53:27+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:58:25+00:00
-lastmod: 2026-09-26 08:16:44+00:00
+lastmod: 2026-10-05 10:53:27+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -154,7 +154,7 @@ Three implications follow for how the Map thinks about the first person:
 - [interface-formalization-void](/voids/interface-formalization-void/) — The interface does not present its own operations
 - [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) — Expertise-induced amnesia as a special case: one's own past performance as unattributable source
 - [imagery-void](/voids/imagery-void/) — Companion limit at the imagination side: imagery's fidelity, vividness, and presence are unverifiable from inside
-- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: reality-monitoring spread as one of four within-species divergence classes
+- [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — The apex synthesis: reality-monitoring spread as one of five within-species divergence classes
 - [source-attribution-divergence](/topics/source-attribution-divergence/) — The topic-tier explainer: empirical signatures of the within-species spread this void treats apophatically
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia as a single phenomenon viewed from three angles: the concrete-phenomenon exhibits of the source-monitoring architecture this void treats abstractly
 - [decision-void](/voids/decision-void/) — The deliberation→commitment moment as the specific application: surface features of the outcome stand in for the inaccessible event of choosing

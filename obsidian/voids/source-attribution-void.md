@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-09-26
 human_modified:
-ai_modified: 2026-09-26T08:16:44+00:00
+ai_modified: 2026-10-05T10:53:27+00:00
 last_deep_review: 2026-07-15T22:58:25+00:00
 draft: false
 topics:
@@ -150,7 +150,7 @@ Three implications follow for how the Map thinks about the first person:
 - [[interface-formalization-void]] — The interface does not present its own operations
 - [[expertise-and-its-occlusion]] — Expertise-induced amnesia as a special case: one's own past performance as unattributable source
 - [[imagery-void]] — Companion limit at the imagination side: imagery's fidelity, vividness, and presence are unverifiable from inside
-- [[phenomenal-variation-within-a-species]] — The apex synthesis: reality-monitoring spread as one of four within-species divergence classes
+- [[phenomenal-variation-within-a-species]] — The apex synthesis: reality-monitoring spread as one of five within-species divergence classes
 - [[source-attribution-divergence]] — The topic-tier explainer: empirical signatures of the within-species spread this void treats apophatically
 - [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia as a single phenomenon viewed from three angles: the concrete-phenomenon exhibits of the source-monitoring architecture this void treats abstractly
 - [[decision-void]] — The deliberation→commitment moment as the specific application: surface features of the outcome stand in for the inaccessible event of choosing
