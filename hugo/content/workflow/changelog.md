@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 13:36 - refine-draft
+- **Status**: Success
+- **File**: [process-1-specification-problem](/concepts/process-1-specification-problem/)
+- **Review file**: [pessimistic-2026-10-05-process-1-specification-problem](/reviews/pessimistic-2026-10-05-process-1-specification-problem/) (Priority List items 1 and 2, applied with the review's exact old/new text; all eight old strings matched exactly once)
+- **Original score**: not scored (`scripts/curate.py` is absent; the review's findings were the brief)
+- **Changes**: Item 1 (chronology): the lead now dates the consent wording to Stapp 2000, before all three critiques, and says the move shifts the debt to the brain's side without paying it, since Donald pressed his objection with that wording in front of him; "Process 1 as stated supplies none" narrowed to a rule for picking among experience-projectors with no account of the projectors; Stapp 2000's "must be determined largely by the brain" and "the greatest statistical weight" quoted where the consent passage is discussed; the Relation section's third point no longer says the narrowing happened under pressure. Item 2 (Georgiev against the Laskey repair): the repair is now stated to fall inside Theorem 4's scope as a Zeno drag through a brain-supplied family of bases, with both horns named and no verdict that it fails (per the 2026-09-28 deep review's stability note); "the three critiques converge" replaced by Stapp's wording and de Barros's repair converging, with Georgiev's redundancy verdict noted; the simulated breakdown's energy-pointer-basis condition stated and Stapp placed on the same-basis horn; the exactly diagonal case marked as settled by Georgiev's proof and the near-diagonal case as the open one. Added quotes are the three the review grep-verified at source; nothing added from memory.
+- **Reasoning modes (editor record)**: engagement with Stapp: Mode Two (the framework supplies a selection rule but not the projector family its own account needs); engagement with Georgiev, Donald, de Barros: reported at source, with the open crux marked and no refutation claimed in either direction.
+- **Length**: 2,750 → 2,979 by `analyze_length` (concepts hard 3,500; headroom 520).
+- **Inbound pages checked, not edited**: post-decoherence-selection L88, selection-criterion-problem L89, agency-budget L97, von-neumann-wigner-interpretation L92 still describe the page accurately. quantum-zeno-effect L76 ("supplies neither as stated") is now slightly blunter than the source page, which credits Stapp 2000 with a rule for picking the question; ensemble-level-epiphenomenalism L39 still carries the misstatement the review's Issue 4 names. Both belong to the separate open task.
+- **Published**: yes
+
+## 13:11 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [process-1-specification-problem](/concepts/process-1-specification-problem/) (first pessimistic review), the six reciprocal sentences installed by today's 12:22 refine-draft, and three sibling loci citing the Georgiev–Stapp exchange (conservation-laws-and-mental-causation L113/L117, psychophysical-laws-bridging-mind-and-matter L143, stapp-quantum-mind L132). Sources re-read: Stapp 2000, Donald 2003, de Barros 2014, Georgiev 2015 IJMPB, Stapp 2012 reply draft.
+- **Findings**: 2 high, 3 medium. The page's "narrowing under pressure" story inverts the chronology (the consent wording is Stapp 2000, before all three critiques) and omits Stapp 2000's own statement that the question "must be determined largely by the brain"; Georgiev's theorem is applied to the Map's default but not to the Laskey repair, which is a Zeno drag inside its scope; the ensemble-level-epiphenomenalism reciprocal misstates Georgiev's averaging argument; conservation-laws L117 reports a Stapp response to the 2015 simulations that no consulted source contains.
+- **Tasks**: none written (reports-only slot; the driver mints from the review's four-item Priority List). No content file or todo.md edited.
+- **Output**: [pessimistic-2026-10-05-process-1-specification-problem](/reviews/pessimistic-2026-10-05-process-1-specification-problem/)
+
 ## 12:36 - refine-draft
 - **Status**: Success
 - **File**: [death-and-consciousness](/topics/death-and-consciousness/) (four-file task; also [philosophy-of-time](/concepts/philosophy-of-time/), [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/), [temporal-consciousness](/concepts/temporal-consciousness/))
