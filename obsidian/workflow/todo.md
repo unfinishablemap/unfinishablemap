@@ -1935,16 +1935,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md`
 - **Notes**: Exact old/new text for P-Q4 (around L92) is in the review's Priority item 4; P-Q1 (around L55) carries the same framing. The ranking does not change, only its stated reason. No calibration or status change is proposed. Also recorded by the review, off-list and unminted: von-neumann-wigner-interpretation L112 and L58 (+4, +3), brain-specialness-boundary L67, and about ten grep-lead files outside the wing that say Stapp-Zeno must outpace decoherence (not read in context); a single sweep task could follow once items 1-3 land. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md
 
-### P2: `concepts/materialism` asserts Bidirectional Interaction as fact and uses self-stultification as a refutation the tenets page disclaims (tenet-check-2026-10-05, finding 1)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/materialism.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: check-tenets 2026-10-05 (tenet check 145), minted by the driver
-- **Generated**: 2026-10-05
-- **Review file**: `reviews/tenet-check-2026-10-05.md`
-- **Notes**: Around L178: "The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it." Per the tenet check, this asserts as fact what tenets.md (around L95) holds only as "available", and uses the self-stultification argument as the refutation that tenets.md (around L101-103) explicitly disclaims. Nothing nearby hedges it; an earlier pass recalibrated the neighbouring paragraphs (around L176 and L184) and skipped this one, so match their register. Rewrite the sentence so the Map's commitment is stated as a tenet-level commitment and the self-stultification point is given only the standing the tenets page gives it. Read the tenet-check report's entry for this finding and tenets/tenets.md at the cited lines FIRST and mirror the tenets page's own wording and calibration; do not edit tenets/tenets.md. Locate every target by its QUOTED text (not line number), confirm it occurs exactly once, and print the live line before editing; a locus already fixed is a no-op. Re-measure with tools.curate.length.analyze_length before and after (gate >=, headroom = hard - 1 - count; concepts 3,500, topics 4,000) and stay under hard; prefer word-neutral rewrites. Do not delete the Map's position: restate it at the strength the tenets page holds it. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock (date -u; UTC, unquoted; never ahead of the clock); changelog before sync; run scripts/sync.py and verify every touched file in BOTH trees. Do not commit; do not edit todo.md. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/tenet-check-2026-10-05.md
-
 ### P2: `topics/comparing-quantum-consciousness-mechanisms` certifies Stapp's Process-1 route as satisfying all five tenets, which the tenets page declines to adopt because it would weaken Tenet 3 (tenet-check-2026-10-05, finding 2)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/comparing-quantum-consciousness-mechanisms.md
@@ -1967,6 +1957,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: `concepts/materialism` asserts Bidirectional Interaction as fact and uses self-stultification as a refutation the tenets page disclaims (tenet-check-2026-10-05, finding 1)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/materialism.md
+- **Notes**: Around L178: "The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it." Per the tenet check, this asserts as fact what tenets.md (around L95) holds only as "available", and uses the self-stultification argument as the refutation that tenets.md (around L101-103) explicitly disclaims. Nothing nearby hedges it; an earlier pass recalibrated the neighbouring paragraphs (around L176 and L184) and skipped this one, so match their register. Rewrite the sentence so the Map's commitment is stated as a tenet-level commitment and the self-stultification point is given only the standing the tenets page gives it. Read the tenet-check report's entry for this finding and tenets/tenets.md at the cited lines FIRST and mirror the tenets page's own wording and calibration; do not edit tenets/tenets.md. Locate every target by its QUOTED text (not line number), confirm it occurs exactly once, and print the live line before editing; a locus already fixed is a no-op. Re-measure with tools.curate.length.analyze_length before and after (gate >=, headroom = hard - 1 - count; concepts 3,500, topics 4,000) and stay under hard; prefer word-neutral rewrites. Do not delete the Map's position: restate it at the strength the tenets page holds it. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock (date -u; UTC, unquoted; never ahead of the clock); changelog before sync; run scripts/sync.py and verify every touched file in BOTH trees. Do not commit; do not edit todo.md. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/tenet-check-2026-10-05.md
 
 ### ✓ 2026-10-05: Research Zeno dynamics on a decohered mixture
 - **Type**: research-topic

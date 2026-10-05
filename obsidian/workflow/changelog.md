@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 20:28:00+00:00
+ai_modified: 2026-10-05 20:50:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:50 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/materialism]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source**: [[reviews/tenet-check-2026-10-05]] §Errors, materialism L178 (Tenet 3)
+- **Premise re-verified today**: the quoted sentence occurred exactly once and was still live; not a no-op.
+- **Changes**: one sentence in the Bidirectional Interaction paragraph of "Relation to the Map's Perspective". "The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it." now states the rejection as a tenet-level commitment, has the Map *hold* that consciousness influences physical outcomes, and gives the discussion point the standing `tenets.md` gives it (evidence against epiphenomenalism and its deepest difficulty, not its refutation), with a pointer to `tenets#^tenet-3-standing`. Position retained; `tenets.md` not edited.
+- **Engagement classification**: epiphenomenalism: Mode Three; the previous wording dressed a framework-boundary commitment as an in-framework refutation, and the rewrite downgrades the language to match the tenets page.
+- **Length**: 3187 → 3211 words (concepts hard 3500; headroom 288).
+- **Sibling grep (report only)**: "couldn't even discuss" has no other hit in topics/concepts/apex/voids. Flat self-defeat wording against epiphenomenalism with no hedge in the paragraph remains at dualism L154, reflexive-methodology L65 and L73, delegatory-causation L49, falsification-roadmap-for-the-interface-model L111, consciousness-only-territories L102; passed to the driver.
+- **Published**: yes
 
 ## 20:28 - research-topic
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-04 01:09:29+00:00
+ai_modified: 2026-10-05 20:50:10+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 19:37:59+00:00
-lastmod: 2026-10-04 01:09:29+00:00
+lastmod: 2026-10-05 20:50:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -178,7 +178,7 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 **[dualism](/concepts/dualism/)** is the Map's chosen response to materialism's failures as the Map judges them. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. The Map takes consciousness to be something beyond the physical—a commitment it owns rather than a result it reports. See [dualism](/concepts/dualism/) for the positive case.
 
-**Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/concepts/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
+**Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/concepts/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The Map rejects this move as a tenet-level commitment: it holds that consciousness causally influences physical outcomes, and takes our ability to discuss experience as evidence against the alternative and its deepest difficulty, though not its refutation ([Tenet 3's standing](/tenets/#tenet-3-standing)).
 
 **Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
 
