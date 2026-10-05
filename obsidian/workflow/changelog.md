@@ -5,6 +5,17 @@ ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 11:09 - research-topic
+- **Status**: Success
+- **Topic**: Kant's practical postulates and the Map's posits
+- **Output**: [[research/kants-practical-postulates-and-the-maps-posits-2026-10-05]]
+- **Sources consulted**: 9 (5 read at source: Abbott's *Critique of Practical Reason*, Meiklejohn's *Critique of Pure Reason* Canon, Gardner 2011, two SEP entries; Willaschek 2010 and Chignell 2007 not read and marked so)
+- **Assess-first verdict**: article-sized, with a narrow brief. Also recommends a one-sentence fold into `topics/kants-paralogisms-and-the-maps-subject` (L108).
+- **Key finding**: the parallel is mostly negative. On Kant's own taxonomy the Map's posits are not postulates (no apodictic practical law behind them, need not universal, and they are used to explain); they sit nearer his "hypothesis" or "doctrinal belief". Kant himself ties the immortality postulate to the Paralogisms: practical reason supplies the permanence speculative reason could not.
+- **Pagination**: Akademie 5:122 (definition) and 5:132 (list of three) confirmed via SEP; three loci left as leads.
+- **Caveats**: verbatim quotes are Abbott (Gutenberg, no Akademie pagination); Gregor wording only as reproduced in SEP and Gardner. Note runs about 4,000 words against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `topics`).
+
 ## 10:54 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/phenomenal-variation-within-a-species]]
