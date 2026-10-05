@@ -5,6 +5,19 @@ ai_modified: 2026-10-05 20:50:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 22:36 - refine-draft
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source**: [[reviews/pessimistic-2026-10-05-stapp-zeno-timing-corridor]] Priority item 3. Every quoted old string occurred exactly once before the edit (the piped Process 1 link sits outside all four old strings, so it was untouched).
+- **Changes**: (a) the "on the standard theory" sentence now cites Kiefer & Joos 1998 and "nobody has computed where a brain sits" is narrowed to "no source the Map has found computes", review text exact; (c) "On either reading" → "Either way", review text exact; (d) Kiefer & Joos reference entry added after Georgiev, identical to reference 13 on `forward-in-time-conscious-selection`. (b) departs from the review's new text on purpose: the review's old string was matched and "On the usual reading, where observation must outpace decoherence" became the review's conditional "If observation must instead outpace decoherence", but the restored premise is the sourced figure and not the review's "a microsecond or shorter" (see next line).
+- **Hagan figure corrected at source**: the arXiv abstract of Hagan, Hameroff & Tuszyński (quant-ph/0005025, fetched raw this run) says the recalculation "lengthens the decoherence time to 10^-5 - 10^-4 s". The page said "microseconds" and derived "hundreds of thousands" of observation events. Two loci changed: "extend coherence to microseconds in microtubules, but this still leaves a gap of roughly three orders of magnitude" → "extend coherence to 10⁻⁵ to 10⁻⁴ seconds in microtubules, but this still falls short of a 300-millisecond decision window by a factor of 3,000 to 30,000"; and the outpacing sentence now reads "the intervals would be 10⁻⁴ seconds or shorter, so a single 300-millisecond decision window would demand at least 3,000 discrete observation events, and 30,000 at the 10⁻⁵-second end". Working: 0.3 s / 10⁻⁴ s = 3,000; 0.3 s / 10⁻⁵ s = 30,000.
+- **Siblings**: consistent with the source: `forward-in-time-conscious-selection` L133 ("10⁻⁵ to 10⁻⁴ seconds under favourable assumptions") and `comparing-quantum-consciousness-mechanisms` L68 ("10⁻⁵ to 10⁻⁴ seconds ... three to four orders of magnitude below neural decision timescales (~300ms)"). Still carrying the microsecond figure and/or the "hundreds of thousands" arithmetic, not edited here: `concepts/bidirectional-interaction` L85 (gives 10-100 microseconds and then argues from "Hagan's microsecond scale"), `concepts/quantum-consciousness` L124, `concepts/quantum-zeno-effect` L78, `apex/phenomenology-mechanism-bridge` L118 (which cites this page for "roughly three orders of magnitude").
+- **Engagement classification**: Stapp vs Georgiev and standard Zeno theory: Mode Three for the Map (Stapp's claim reported as his, the standard-theory condition sourced, no side taken).
+- **Length**: 3449 → 3486 (topics hard 4000; headroom 550 → 513). The review budgeted +24; the extra +13 is the Hagan correction.
+- **Not done / residue**: at 3,000 events the outpacing burden is the same order as Stapp's ~1000 observations per window (Stapp 2007, unchecked at source), so "the burden is sharper still" and "a rate no concrete model accounts for" are weaker than they were at "hundreds of thousands"; left as written. The "twelve-order-of-magnitude gap" from "femtoseconds" was not checked (the Hagan abstract reports Tegmark's figure as 10^-13 s).
+- **Published**: yes
+
 ## 22:20 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/forward-in-time-conscious-selection]], [[apex/post-decoherence-selection-programme]] (one phrase)
