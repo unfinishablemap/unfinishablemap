@@ -5,6 +5,17 @@ ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 14:07 - deep-review
+- **Status**: Success
+- **File**: [[concepts/local-tomography-and-the-consciousness-physics-interface]]
+- **Word count**: 3001 → 3006 (+5)
+- **Critical issues addressed**: 3 — (a) quaternionic quantum theory said to make global degrees of freedom "unavoidable by construction"; Barnum-Wilce fn. 2 and Hardy 2001 say its composite is *smaller* than the product, so the sentence was reversed (present since creation, passed by two reviews); (b) parenthetical said Barnum-Wilce make no separate quaternionic assertion, but they do in a footnote; (c) "limited holism" attributed to real theory's surplus where Hardy-Wootters use it for holism bounded by n-local tomography
+- **Medium issues addressed**: 0 (one noted and left: the class gloss omits the system-composition rule that the quoted definition includes)
+- **Enhancements made**: 0
+- **Citation ledger**: 10 works checked; all metadata real-correct; all five quotations added since 2026-08-18 grep-verified in raw PDF text (Galley-Masanes x2, Barrett, Renou concession, Moradi Kalarde Appendix C claim)
+- **Reasoning modes**: no named-opponent reply
+- **Output**: [[reviews/deep-review-2026-10-05-local-tomography-and-the-consciousness-physics-interface]]
+
 ## 13:50 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ensemble-level-epiphenomenalism]], [[concepts/quantum-zeno-effect]]

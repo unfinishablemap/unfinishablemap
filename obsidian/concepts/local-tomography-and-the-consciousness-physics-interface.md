@@ -2,9 +2,9 @@
 title: "Local Tomography and the Consciousness-Physics Interface"
 description: "A human-AI account of local tomography — the axiom that a composite's state is fixed by local measurements — its failure regimes, and why the brain-substrate interface may be a candidate for that failure."
 created: 2026-07-16
-modified: 2026-09-25
+modified: 2026-10-05
 human_modified:
-ai_modified: 2026-09-25T14:46:35+00:00
+ai_modified: 2026-10-05T14:07:14+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -17,10 +17,10 @@ related_articles:
   - "[[completeness-in-physics-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-07-16
 last_curated:
-last_deep_review: 2026-08-18T10:31:30+00:00
+last_deep_review: 2026-10-05T14:07:14+00:00
 ---
 
 **Local tomography** (equivalently *tomographic locality*) is the axiom that the state of a composite system is completely determined by the statistics of *local* measurements on its parts, together with the correlations between those local outcomes. Complex quantum mechanics satisfies it; real and quaternionic quantum theories do not. The axiom matters to the Map because, for theories that keep quantum theory's pure states and reversible dynamics, it is one of two structural principles — purification is the other — either of which forces the Born-rule constraint the Map leans on at the consciousness-physics interface. Inside that class, local tomography would have to fail *and* purification fail with it before the constraint formally reopened, so the axiom's failure is necessary rather than sufficient; outside it the axiom forces nothing on its own, as boxworld — locally tomographic, no-signalling, and not Born-ruled — shows. Whether local tomography holds across a physical/non-physical composite is unknown and untested — so the [[#the-interface-question|interface reading below]] is a Map open question that *sharpens* Tenet 2, not evidence for it. That status is part of the claim, not a footnote to it.
@@ -41,15 +41,15 @@ What makes local tomography interesting is that it is not universal. It has conc
 
 ## What Failure Looks Like
 
-When local tomography fails, a composite has a **global degree of freedom** — a component of the joint state that no product of local effects can read out. The state carries more information than any amount of separate local measurement on A and on B can recover; that surplus is accessible only through genuinely *joint* measurements across the parts.
+When local tomography fails by excess, a composite has a **global degree of freedom** — a component of the joint state that no product of local effects can read out. The state carries more information than any amount of separate local measurement on A and on B can recover; that surplus is accessible only through genuinely *joint* measurements across the parts.
 
-The cleanest concrete model is **real-vector-space quantum theory** — quantum mechanics rebuilt over the real numbers instead of the complex ones. Hardy and Wootters (2012) proved that it fails local tomography, but only barely: "real-vector-space quantum theory, while not locally tomographic, is bilocally tomographic." A theory is *bilocally* (2-locally) tomographic if pairwise-joint statistics on pairs of components suffice to fix the state, even though single-component statistics do not. Real quantum theory is therefore *more holistic* than complex quantum theory. Hardy and Wootters name this residual "limited holism," and the amount of holism is precisely the gap between d_AB and d_A · d_B.
+The cleanest concrete model is **real-vector-space quantum theory** — quantum mechanics rebuilt over the real numbers instead of the complex ones. Hardy and Wootters (2012) proved that it fails local tomography, but only barely: "real-vector-space quantum theory, while not locally tomographic, is bilocally tomographic." A theory is *bilocally* (2-locally) tomographic if pairwise-joint statistics on pairs of components suffice to fix the state, even though single-component statistics do not. Real quantum theory is therefore *more holistic* than complex quantum theory. Hardy and Wootters call holism bounded in this way "limited holism," and the amount of holism is precisely the gap between d_AB and d_A · d_B.
 
-**Quaternionic quantum theory** fails in the opposite direction: its natural tensor product is the wrong size to even define the product effects a locally-tomographic composite needs. Global degrees of freedom are then unavoidable by construction.
+**Quaternionic quantum theory** fails in the opposite direction: its natural tensor product is the wrong size to even define the product effects a locally-tomographic composite needs. Its composite has *fewer* parameters than the product of its parts', so what fails there is the product structure itself, with no surplus of global degrees of freedom.
 
-Barnum and Wilce (2014) turn these failures into a near-characterisation. In "Local tomography and the Jordan structure of quantum theory," they show that "orthodox finite-dimensional complex quantum mechanics with superselection rules is the only non-signaling probabilistic theory" in which individual systems have Jordan-algebraic structure, composites are locally tomographic, and at least one system is a qubit. Local tomography is thus close to a *defining* axiom for complex quantum theory among the natural alternatives: choosing local tomography is very nearly choosing complex quantum mechanics, and any theory that departs from complex quantum mechanics is, almost by construction, a candidate for the axiom's failure. (Their theorem does not itself tabulate which alternative theories fail; the real-quantum failure is Hardy and Wootters', and quaternionic failure follows as a consequence of the uniqueness result rather than as a separate Barnum-Wilce assertion.)
+Barnum and Wilce (2014) turn these failures into a near-characterisation. In "Local tomography and the Jordan structure of quantum theory," they show that "orthodox finite-dimensional complex quantum mechanics with superselection rules is the only non-signaling probabilistic theory" in which individual systems have Jordan-algebraic structure, composites are locally tomographic, and at least one system is a qubit. Local tomography is thus close to a *defining* axiom for complex quantum theory among the natural alternatives: choosing local tomography is very nearly choosing complex quantum mechanics, and any theory that departs from complex quantum mechanics is, almost by construction, a candidate for the axiom's failure. (Their theorem does not itself tabulate which alternative theories fail; the real-quantum failure is Hardy and Wootters', and the quaternionic difficulty appears only in a footnote crediting earlier work.)
 
-The lesson is that local-tomography failure is not a pathology or a logical strain. Real quantum theory is a consistent theory that reproduces all bipartite Bell correlations; it simply posits that genuine holistic degrees of freedom exist. Failure is exotic only in the narrow sense that ordinary laboratory composites appear to obey complex quantum mechanics.
+Local-tomography failure is no pathology. Real quantum theory is consistent and reproduces all bipartite Bell correlations; it simply posits genuine holistic degrees of freedom. Failure is exotic only in the narrow sense that ordinary laboratory composites appear to obey complex quantum mechanics.
 
 ## Is Local Tomography a Fact About Nature?
 
