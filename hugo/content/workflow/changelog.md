@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 18:36:34+00:00
+ai_modified: 2026-10-05 20:28:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-05'
-lastmod: 2026-10-05 18:36:34+00:00
+lastmod: 2026-10-05 20:28:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:28 - research-topic
+- **Status**: Success
+- **Topic**: Zeno dynamics on a decohered mixture
+- **Output**: [zeno-dynamics-on-a-decohered-mixture-2026-10-05](/research/zeno-dynamics-on-a-decohered-mixture-2026-10-05/)
+- **Sources consulted**: 16 (9 arXiv full texts grep-verified; Home & Whitaker 1997, Joos 1984, Joos & Zeh 1985 and both Laskey 2018 papers at metadata/abstract level only)
+- **Finding**: standard Zeno theory holds for mixed states and multi-dimensional projectors (confinement, not freezing) and is an unconditional, non-selective effect, so Stapp's "makes no difference at all" is right about the state. It operates only inside the quadratic window; once the environment resolves inside from outside the leak is a rate and repeated projection changes nothing (Kiefer & Joos), which is Georgiev's redundancy regime. Stapp's equation (4) omits the environment during the interval. Where a brain sits between regimes is uncomputed. Note's own two-state derivation: rate ratio 1 − (1 − e^−x)/x, x = γτ, checked numerically.
+- **Laskey lead**: verified. *Journal of Cognitive Science* 19(2), 125–163 (2018), DOI 10.17791/jcs.2018.19.2.125; abstract has the brain generating the templates. Bears on the Process 1 page's private-communication credit.
+- **Assessment**: warrants a short concepts/ article (347/360 by count_section_files; no host page has the headroom). Added to task_chains.pending_articles (target concepts).
+- **Correction to brief**: Stapp 2000 cites Zurek, not Joos & Zeh; the Joos–Zeh citation is in the 2012 reply.
+
+## 19:40 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 114 (every file in topics/ concepts/ apex/ voids/ tenets/ project/ changed since 2026-10-03T20:08Z; 7 new articles read in full)
+- **Errors**: 4 (materialism L178, comparing-quantum-consciousness-mechanisms L161, forward-in-time-conscious-selection L121, mental-effort L94 carried)
+- **Warnings**: 21 loci in 18 files
+- **Notes**: today's Tenet 4 concessions to the diverging-worlds reading and the Stapp (2000) reporting are calibrated; no content file or todo.md edited
+- **Output**: [tenet-check-2026-10-05](/reviews/tenet-check-2026-10-05/)
 
 ## 19:06 - refine-draft
 - **Status**: Success
