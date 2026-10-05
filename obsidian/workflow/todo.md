@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Self-deception and the divided mind
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 2: self-deception is akrasia's doxastic twin and Davidson built the partition for both; no live article. Map stake: partition against Mele's deflation, and the verification limit (P-A4) applied to belief. Leads to verify at source: Davidson 'Deception and Division' (doi 10.1093/0198237545.003.0013), Mele Self-Deception Unmasked 2001 (doi 10.1515/9781400823970), SEP 'Self-Deception'. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/self-deception-and-the-divided-mind-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'self-deception-and-the-divided-mind' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-05
-
 ### P2: Research Addiction between compulsion and choice
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 3: akrasia makes classification precede desert and the responsibility gradient lists addiction under stability, yet no page says where addiction falls (13 live pages mention it, none at length). Map stake: incentive sensitization against the selection reading. Leads to verify at source: Holton & Berridge 2013 (doi 10.1093/acprof:oso/9780199862580.003.0012), Heyman 2009 (doi 10.4159/9780674053991), Gorman 2019/2023. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/addiction-between-compulsion-and-choice-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'addiction-between-compulsion-and-choice' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2034,6 +2028,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: Research Self-deception and the divided mind
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 2: self-deception is akrasia's doxastic twin and Davidson built the partition for both; no live article. Map stake: partition against Mele's deflation, and the verification limit (P-A4) applied to belief. Leads to verify at source: Davidson 'Deception and Division' (doi 10.1093/0198237545.003.0013), Mele Self-Deception Unmasked 2001 (doi 10.1515/9781400823970), SEP 'Self-Deception'. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/self-deception-and-the-divided-mind-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'self-deception-and-the-divided-mind' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-05: Research Anticipatory feeling and time preference: is the felt currency hyperbolic?
 - **Type**: research-topic

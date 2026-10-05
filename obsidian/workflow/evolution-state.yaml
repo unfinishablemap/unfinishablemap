@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-05T08:28:08.485268+00:00'
-session_count: 22074
-cycle_position: 14299
+last_updated: '2026-10-05T08:41:01.023125+00:00'
+session_count: 22075
+cycle_position: 14300
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-04T04:26:56.586285+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-04T17:39:29.756018+00:00'
+  deep-review: '2026-10-05T08:41:01.023125+00:00'
   embed-videos: '2026-10-04T10:51:13.381477+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
   harvest-research-subjects: '2026-10-05T07:04:56.271783+00:00'
@@ -112,7 +112,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 641
-  reviews_completed: 7846
+  reviews_completed: 7847
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-04'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-04'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-05'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
@@ -693,6 +693,8 @@ task_chains:
   - research_file: obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md
     target_section: concepts
   - research_file: obsidian/research/anticipatory-feeling-and-time-preference-2026-10-05.md
+    target_section: topics
+  - research_file: obsidian/research/self-deception-and-the-divided-mind-2026-10-05.md
     target_section: topics
   pending_cross_reviews: []
 tune_system_history:

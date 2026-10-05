@@ -5,6 +5,16 @@ ai_modified: 2026-10-05 08:27:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 09:10 - research-topic
+- **Status**: Success
+- **Topic**: Self-deception and the divided mind
+- **Output**: [[research/self-deception-and-the-divided-mind-2026-10-05]]
+- **Task**: harvested from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` (New Article Subject 2); target `topics/`, intended slug `self-deception-and-the-divided-mind`.
+- **Sources consulted**: 11 cited. Read at source: raw SEP "Self-Deception" (rev. 2023); Davidson "Deception and Division" and Mele *Self-Deception Unmasked* at Google Books snippet level; Mele 1997 and von Hippel & Trivers 2011 abstracts. Pears 1984 reached only through a quotation in Mele; Sartre not sourced.
+- **Finding for the expand step**: the SEP's quoted 'psychological exotica' (attributed to Mele 2001) reads "mental exotica" in Mele's book index and 1997 abstract. "Deception and Division" has two first printings (LePore & McLaughlin 1985; Elster 1986), which resolves the date lead left open on 2026-10-04.
+- **Length**: 3,596 words against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `topics`).
+
 ## 08:40 - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-control-as-skill-and-scaffolding]]
