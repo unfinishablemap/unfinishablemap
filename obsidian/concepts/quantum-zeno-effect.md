@@ -4,7 +4,7 @@ description: "The quantum Zeno effect—frequent measurement freezing quantum ev
 created: 2026-07-14
 modified: 2026-10-05
 human_modified:
-ai_modified: 2026-10-05T16:35:09+00:00
+ai_modified: 2026-10-05T23:23:56+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[timing-gap-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-07-14
 last_curated:
 last_deep_review: 2026-08-21T16:42:28+00:00
@@ -75,7 +75,7 @@ Stapp's *Mindful Universe* (Springer, 2007) applies the quantum Zeno effect to m
 
 Two interpretive burdens attach to this move, and the mechanism page should state them plainly rather than smuggle them past the reader. First, quantum projection is not in general energy-conserving, so the claim that conscious selection respects conservation laws is something the interpretation must argue (see [[conservation-laws-and-mental-causation]]), not a free consequence of the formalism. Second, "observation" in physics ordinarily denotes a physical measurement coupling, whereas Stapp's proposal requires it to denote an agent's attention; equating the two is a substantive commitment. Beside both sits a further debt, the [[process-1-specification-problem|Process 1 specification problem]]: laboratory Zeno experiments fix the projector's basis and grain through apparatus, and Stapp's Process 1 (the mind's choice of which question is put) supplies a rule for picking among projectors and, as stated, an account of neither.
 
-The [[decoherence]] objection sharpens the difficulty. Tegmark's calculations placed neural coherence times near femtoseconds; Hagan and colleagues (2002) revised this upward to microseconds in microtubules, though Reimers, McKemmish and colleagues (2009) contest the parameters that estimate rests on. Even taking the microsecond figure, outpacing decoherence would demand observation intervals of a microsecond or shorter—on the order of hundreds of thousands of discrete observation events within a single ~300 ms decision window—and no concrete model supplies events at that rate. The [[timing-gap-problem|timing gap]] relocates rather than closes under Stapp's discrete-event framing. Stapp (2000) rejects the premise that the hold must outpace decoherence, saying the effect survives when the brain state is a mixture; Georgiev's (2015) reply is that a mind projecting in the decoherence basis is [[process-1-specification-problem|redundant with it]]. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
+The [[decoherence]] objection sharpens the difficulty. Tegmark's calculations placed neural coherence times near femtoseconds; Hagan and colleagues (2002) revised this upward to 10⁻⁵ to 10⁻⁴ seconds in microtubules, though Reimers, McKemmish and colleagues (2009) contest the parameters that estimate rests on. Even taking the revised figure, outpacing decoherence would demand observation intervals of 10⁻⁴ seconds or shorter—at least 3,000 discrete observation events within a single ~300 ms decision window, and 30,000 at the 10⁻⁵-second end. The lower figure is the same order as the ~1,000 observations per window that Stapp's own modelling assumes (Stapp 2007), but that number is a modelling assumption rather than an independent prediction, and no concrete model supplies events at either rate. The [[timing-gap-problem|timing gap]] relocates rather than closes under Stapp's discrete-event framing. Stapp (2000) rejects the premise that the hold must outpace decoherence, saying the effect survives when the brain state is a mixture; Georgiev's (2015) reply is that a mind projecting in the decoherence basis is [[process-1-specification-problem|redundant with it]]. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
 
 ## Relation to Site Perspective
 

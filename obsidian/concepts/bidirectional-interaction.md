@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-09-19T17:35:42+00:00
+ai_modified: 2026-10-05T23:23:56+00:00
 last_deep_review: 2026-07-30T21:01:20+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-01-23
 last_curated:
 ---
@@ -82,7 +82,7 @@ For detailed specification of how phenomenal properties map to physical paramete
 
 ### The Timing Challenge
 
-A persistent objection concerns timescales: Tegmark (2000) calculated quantum [[decoherence]] at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [[timing-gap-problem|timing gap]], a mismatch of twelve orders of magnitude. Hagan, Hameroff and Tuszyński (2002) disputed Tegmark's superposition sites and separation distances, obtaining 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. But Reimers et al. (2009) and McKemmish et al. (2009) contest the parameters that revision rests on: citing Hagan as a settled rebuttal of Tegmark would be selective citation, the dispute is live, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The quantum Zeno mechanism needs no sustained coherence, operating instead through discrete observation events—but this sharpens the burden rather than easing it. Outpacing decoherence even at Hagan's microsecond scale requires observation intervals of a microsecond or shorter, so a single 300ms window would demand hundreds of thousands of events; Stapp's ~1000 observations per window (Stapp 2007) is a modelling assumption rather than an independent prediction, and no concrete model supplies events at the required rate. The gap relocates rather than closes. See [[quantum-neural-timing-constraints]] for the full timing hierarchy and [[decoherence|the decoherence article]] for the range of responses to the objection.
+A persistent objection concerns timescales: Tegmark (2000) calculated quantum [[decoherence]] at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [[timing-gap-problem|timing gap]], a mismatch of twelve orders of magnitude. Hagan, Hameroff and Tuszyński (2002) disputed Tegmark's superposition sites and separation distances, obtaining 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. But Reimers et al. (2009) and McKemmish et al. (2009) contest the parameters that revision rests on: citing Hagan as a settled rebuttal of Tegmark would be selective citation, the dispute is live, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The quantum Zeno mechanism needs no sustained coherence, operating instead through discrete observation events—but this sharpens the burden rather than easing it. Outpacing decoherence at Hagan's scale requires observation intervals of 100 microseconds or shorter, so a single 300ms window would demand 3,000 to 30,000 events; Stapp's ~1000 observations per window (Stapp 2007) is of the lower figure's order but is a modelling assumption rather than an independent prediction, and no concrete model supplies events at the required rate. The gap relocates rather than closes. See [[quantum-neural-timing-constraints]] for the full timing hierarchy and [[decoherence|the decoherence article]] for the range of responses to the objection.
 
 ## Empirical Support
 

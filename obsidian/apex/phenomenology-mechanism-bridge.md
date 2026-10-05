@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-10-05T19:05:49+00:00
+ai_modified: 2026-10-05T23:23:56+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -115,7 +115,7 @@ Stapp's quantum Zeno framework provides a candidate mechanism specifically for m
 
 This closes the loop with Level Two: the brain generates competing plans in parallel, the basal ganglia set thresholds, and consciousness stabilises one plan through attentional observation, biasing the competition where physics leaves outcomes undetermined. The ~10 bits/second bandwidth of conscious processing (Zheng & Meister 2025, sharpening the disparity Nørretranders 1998 popularised at ~16 bits/s) matches policy-level selection — choosing "reach for the glass," not directing individual motor neurons.
 
-Honest gaps remain. Tegmark's calculations placed neural coherence times at femtoseconds — twelve orders of magnitude short of conscious timescales — while the most favourable revised estimates (Hagan et al. 2002) reach microseconds in microtubules, narrowing the gap to roughly three orders of magnitude from the millisecond timescales of neural competition. [[motor-control-quantum-zeno|Consciousness and Motor Selection]] details how Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence — roughly 1,000 microsecond-scale observations within a 300ms decision window would suffice — but no concrete model yet demonstrates such rates.
+Honest gaps remain. Tegmark's calculations placed neural coherence times at femtoseconds — twelve orders of magnitude short of conscious timescales — while the most favourable revisions (Hagan et al. 2002) reach 10⁻⁵ to 10⁻⁴ seconds in microtubules, still 3,000 to 30,000 times short of a 300ms decision window. [[motor-control-quantum-zeno|Consciousness and Motor Selection]] details how Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence — 3,000 to 30,000 observations per window, not the ~1,000 Stapp assumes (Stapp 2007) — and no concrete model demonstrates such rates.
 
 Here the chain inherits a distinction that materially limits the damage. As [[consciousness-and-causal-powers]] sets out, the Map's commitment is layered: *phenomenal biasing* — that felt qualities enter the causal story in a way sub-personal computational role does not exhaust — is the architecture-level claim, while quantum Zeno selection is one *candidate implementation* of that architecture. The decoherence gap is a constraint on the Zeno candidate, not on the architecture. If the gap proves unbridgeable, an alternative implementation would carry the load; phenomenal biasing itself does not stand or fall with microtubule coherence. This is the framework's most serious empirical vulnerability at the implementation tier, though the chain's central commitment does not rest on it. See [[amplification-mechanisms-consciousness-physics]] for six proposed mechanisms addressing the quantum-to-macroscopic gap. The Map's [[framework-stage-calibration|framework-stage calibration discipline]] frames Stapp's quantum Zeno proposal as a *proto-model* at the pre-Keplerian stage — a candidate specification awaiting the founding measurements that would convert it from speculative mechanism into inferable law — rather than a Newton-analogue theory awaiting refinement.
 

@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-09-30T11:55:56+00:00
+ai_modified: 2026-10-05T23:23:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ Orch OR locates quantum effects in neuronal microtubules. The proposal: tubulin 
 
 These findings form part of a broader [[quantum-biology-and-neural-consciousness|convergence of independent evidence lines]] that strengthens the cumulative case even where individual lines remain inconclusive.
 
-**Challenge**: The [[decoherence|decoherence objection]] remains the most serious obstacle. The objection assumes biological systems are too warm and wet for quantum effects; Tegmark calculated coherence times of 10⁻¹³ seconds, too short for neural relevance. Proposed protective mechanisms challenge this—hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, ordered cytoplasm—and on Hagan et al.'s theoretical estimates extend coherence to 10⁻⁵ seconds, though these assume near-perfect thermal shielding, an assumption most condensed matter physicists regard as optimistic. Even granted, **10⁻⁵ seconds remains four to five orders of magnitude shorter than neural decisions (~300ms)**—the [[timing-gap-problem|timing gap]] is reduced but not eliminated for mechanisms requiring sustained coherence. See [[quantum-neural-timing-constraints]] for the full timing analysis.
+**Challenge**: The [[decoherence|decoherence objection]] remains the most serious obstacle. The objection assumes biological systems are too warm and wet for quantum effects; Tegmark calculated coherence times of 10⁻¹³ seconds, too short for neural relevance. Proposed protective mechanisms challenge this—hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, ordered cytoplasm—and on Hagan et al.'s theoretical estimates extend coherence to 10⁻⁵–10⁻⁴ seconds, though these assume near-perfect thermal shielding, an assumption most condensed matter physicists regard as optimistic. Even granted, **10⁻⁵ seconds remains four to five orders of magnitude shorter than neural decisions (~300ms)**—the [[timing-gap-problem|timing gap]] is reduced but not eliminated for mechanisms requiring sustained coherence. See [[quantum-neural-timing-constraints]] for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 
@@ -121,7 +121,7 @@ Even granting that the measurement problem leaves room for consciousness, specif
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the *sustained-coherence* requirement because each event is instantaneous. But discrete mechanisms still require coherent states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]] for five distinct mechanisms spanning this spectrum.
 
-**The Zeno alternative.** **A critical assumption** underlies Stapp's version: observations must remain effective despite intervening decoherence. Each observation "resets" the quantum state; the accumulated effect biases outcomes. But outpacing decoherence at Hagan's microsecond scale requires observation intervals of a microsecond or shorter—hundreds of thousands of events per 300ms window, not the ~1000 Stapp estimates (Stapp 2007), which is a modelling assumption rather than an independent prediction. No concrete model supplies events at that rate, so the timing gap relocates rather than closes. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with the picture, but the neural case remains undemonstrated.
+**The Zeno alternative.** **A critical assumption** underlies Stapp's version: observations must remain effective despite intervening decoherence. Each observation "resets" the quantum state; the accumulated effect biases outcomes. But outpacing decoherence at Hagan's revised scale requires observation intervals of 10⁻⁴ seconds or shorter—3,000 to 30,000 events per 300ms window, the lower figure the same order as Stapp's ~1000 (Stapp 2007), a modelling assumption, not an independent prediction. No concrete model supplies events at either rate, so the timing gap relocates rather than closes. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with the picture, but the neural case remains undemonstrated.
 
 ## What These Theories Share
 
