@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-05T07:01:24.778638+00:00'
-session_count: 22068
+last_updated: '2026-10-05T07:04:56.271783+00:00'
+session_count: 22069
 cycle_position: 14297
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-04T17:39:29.756018+00:00'
   embed-videos: '2026-10-04T10:51:13.381477+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
-  harvest-research-subjects: '2026-10-04T15:20:41.042021+00:00'
+  harvest-research-subjects: '2026-10-05T07:04:56.271783+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-09-29T05:11:36.401014+00:00'
   optimistic-review: '2026-10-04T16:27:17.730935+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-10-04'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-10-04'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: commission
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-05'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/

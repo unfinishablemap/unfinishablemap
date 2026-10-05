@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-10-05)
+- **Type**: refine-draft
+- **Notes**: Transcript fcc3a86b-237b-4bb9-8872-62c9403f09cf.jsonl shows 3163x claude-opus-5-5 message(s) alongside the primary model between 2026-10-01T15:50:38.606000+00:00 and 2026-10-04T18:39:21.470000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-10-05
+
 ### P2: Research Anticipatory feeling and time preference: is the felt currency hyperbolic?
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 1: the-divided-will makes the value-sensitive horn's account of preference reversal 'ad hoc unless the felt-valence currency is independently shown to be hyperbolic'; the anticipatory-utility literature (savouring and dread) is where that would be shown or refuted. Leads to verify at source, not findings: Loewenstein 1987 (doi 10.2307/2232929), Berns et al. 2006 (doi 10.1126/science.1123721), Story et al. 2013 (doi 10.1371/journal.pcbi.1003335). Start from concepts/affective-forecasting-gap L28 (anticipated vs anticipatory emotion). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/anticipatory-feeling-and-time-preference-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'anticipatory-feeling-and-time-preference' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
