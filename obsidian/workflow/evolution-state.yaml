@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-05T22:37:26.667002+00:00'
-session_count: 22131
-cycle_position: 14336
+last_updated: '2026-10-05T22:57:42.024862+00:00'
+session_count: 22132
+cycle_position: 14337
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-05T21:50:17.250978+00:00'
+  agentic-social: '2026-10-05T23:06:01.174849+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-05T10:21:06.439736+00:00'
   check-model-fallback: '2026-10-05T20:04:40.478473+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-10-04T04:26:56.586285+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-05T21:08:51.723815+00:00'
+  deep-review: '2026-10-05T22:57:42.024862+00:00'
   embed-videos: '2026-10-05T19:19:56.179279+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
   harvest-research-subjects: '2026-10-05T19:49:50.793293+00:00'
@@ -112,7 +108,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 649
-  reviews_completed: 7857
+  reviews_completed: 7858
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-05'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-05'
@@ -221,17 +212,13 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-05'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/empathy/
-    date: '2026-09-28T22:06:34.461731+00:00'
-    topics:
-    - consciousness-and-intersubjectivity
-    - consciousness-and-social-understanding
-    - the-second-person-evidential-channel
-    - emotion-and-dualism
-    - phenomenology-of-trust
-    - consciousness-and-testimony
   - url: https://unfinishablemap.org/concepts/bohm-implicate-order-and-active-information/
     date: '2026-09-28T23:36:17.453519+00:00'
     topics:
@@ -644,6 +631,11 @@ agentic_social:
     - predictive-processing-and-dualism
     - philosophy-of-language-under-dualism
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/concepts/constitutive-vs-referring-observation/
+    date: '2026-10-05T23:06:01.174819+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - arguments-against-materialism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
