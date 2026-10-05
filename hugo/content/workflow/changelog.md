@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 16:05 - refine-draft
+- **Status**: Success (2 of 2 body loci and 2 of 2 reference entries applied with the review's exact text)
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Review**: `reviews/optimistic-2026-10-05-quantum-interface-concession-corridor` Priority List item 2
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-locus pass)
+- **Length**: 3,830 → 3,899 of hard 4,000 by `analyze_length` (+69 against the costed +67; the extra 2 are the two new list-number tokens, which the review's per-entry costs did not include; headroom 169 → 100).
+- **Changes**: (a) "Quantum Zeno Selection (Stapp)": the two sentences saying the Zeno effect "can only stabilise a superposition that still exists" and that Stapp "therefore requires measurement frequency to exceed the decoherence rate" replaced by Stapp 2000's own denial (the hold works on the decohered mixture, against the brain's dynamical spreading) and Georgiev 2015's redundancy answer, piped to `process-1-specification-problem` as the basis dilemma (first link from this page to that one). (b) "Stapp's Process 1 Relocated": one sentence added saying that, since Stapp already states the original on a mixture, what the relocation drops is the repeated projection and the basis dilemma with it. Both old strings matched exactly once before editing. No quotation was added; both insertions are paraphrase.
+- **References**: added Georgiev 2015 (*IJMPB* 29(7), 1550039) as new 7 and Stapp 2000 (arXiv:quant-ph/0010029) as new 17. Renumbering: 1–6 unchanged; old 7–15 → 8–16; old 16–23 → 18–25. The body cites by author and year only (no numbered in-text cites, checked by regex), so nothing repoints. Metadata cross-check against `process-1-specification-problem`: Stapp 2000 is identical to its reference 7; Georgiev 2015 is its reference 4 (not 8, which is Stapp's 2012 reply) and agrees except that the Process 1 entry carries a trailing "(preprint arXiv:1412.4741)" the review's text omits. Review text used as given.
+- **Calibration**: Stapp's position reported as his ("denies", "on his account"); no verdict. Georgiev's redundancy reply stands as the answer and the open crux lives on the Process 1 page. "Georgiev (2017)" and the Chalmers-McQueen locus (owned by another open task) untouched; section heading "Three Pre-Decoherence Frameworks" and the lead left for a deep review, as the review directs.
+- **Reasoning mode (editor record)**: engagement with Stapp: report of his own stated position, no refutation claimed either way; engagement with Georgiev: in-framework reply reported at source, crux left open.
+- **Published**: yes
+
 ## 15:20 - refine-draft
 - **Status**: Success (3 of 3 loci applied with the review's exact text)
 - **File**: [process-1-specification-problem](/concepts/process-1-specification-problem/)
