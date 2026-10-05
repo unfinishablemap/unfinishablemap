@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-10-05 18:05:55+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-10-05 21:08:00+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
@@ -17,8 +17,8 @@ description: Naive realism, the strongest non-dualist rival in perception, holds
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-12 18:30:32+00:00
-lastmod: 2026-10-05 18:05:55+00:00
+last_deep_review: 2026-10-05 21:08:00+00:00
+lastmod: 2026-10-05 21:08:00+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -70,7 +70,7 @@ The argument from illusion runs: a white wall under yellow light looks yellow; t
 
 Brewer's reply denies the principle by giving "looks" an objective reading. An object *thinly looks* F, on his account, when it has the appropriate **visually relevant similarities** to paradigm examples of F, from the perceiver's viewpoint and in the circumstances of perception—similarities in such things as the way light is reflected from the objects in question and the physical processes underlying vision that handle the resulting stimuli (Brewer 2011). The white wall under yellow light genuinely has visually relevant similarities to paradigm yellow things under standard light. So it "looks yellow" without any inner yellow item existing anywhere. Illusion becomes a fact about the object-in-its-conditions, not evidence for a mental intermediary.
 
-Ian Phillips extends this to the charge that naive realism is "hopelessly out of touch with vision science" (Phillips 2016). His abstract grants the complaint its due and offers a "partial reply," arguing that "careful reflection on a simple, empirically grounded model of illusion reveals heterodox ways of thinking about familiar illusions which are quite congenial to the naïve realist" (Phillips 2016). On the Müller-Lyer—two equal lines that look unequal because of their arrowhead fins—the relationalist reading treats the figure as bearing visually relevant similarities to genuinely unequal configurations, similarities that capture attention in context, rather than as an inner misrepresentation of length. This is the relationalist who most directly answers the vision-science objection, and so the version a serious critique must engage.
+Ian Phillips extends this to the charge that naive realism is "hopelessly out of touch with vision science" (Phillips 2016). His abstract grants the complaint its due and offers a "partial reply," arguing that "careful reflection on a simple, empirically grounded model of illusion reveals heterodox ways of thinking about familiar illusions which are quite congenial to the naïve realist" (Phillips 2016). On the Müller-Lyer—two equal lines that look unequal because of their arrowhead fins—Phillips doubts the depth-cue hypothesis Brewer took over from Richard Gregory while keeping Brewer's general approach, and sketches two readings. On one, the fins make global features of the whole figure more salient than the length of the shaft, and those global features are ones the display actually has. On the other, context shifts which visually relevant similarities are perceptually natural. Neither posits an inner misrepresentation of length. Phillips leaves open which reading, if either, fits which illusion, and grants that some cases plausibly need a disjunctivist treatment. This is the relationalist who most directly answers the vision-science objection, and so the version a serious critique must engage.
 
 ### Hallucination and disjunctivism
 
@@ -96,7 +96,7 @@ The Map's leverage is not that relationalism fails on its own terms. It is that 
 
 **The causal argument.** A subjectively matching hallucination can be produced by the same proximate brain state as a veridical perception. If identical proximate causes yield identical proximate effects, there should be a common mental element shared by the two cases—precisely the Common Kind Claim disjunctivism must deny. This remains the most pressing objection to disjunctivism, and no consensus resolves it.
 
-**The naturalist-internal verdict.** The Map does not have to import dualist premises to find relationalism's treatment of error contested. Byrne and Green, in "Whither Naïve Realism?" (2023), argue that illusions are the best proving ground for naive realism against representationalism—and that the two leading relationalist treatments of illusion, Fish's and Brewer's objective-looks account, both fail; their companion paper sketches a representational alternative. Since representationalism is itself a non-dualist view, this is an attack from *within* the naturalist family. The relationalist's handling of error is disputed even among its naturalist neighbours, which the Map can note without claiming the dispute for dualism.
+**The naturalist-internal verdict.** The Map does not have to import dualist premises to find relationalism's treatment of error contested. Byrne and Green, in "Whither Naïve Realism?" (2023), argue that illusions are the best proving ground for naive realism against representationalism—and that two leading relationalist treatments of illusion, Fish's and Brewer's objective-looks account, both fail; their companion paper assesses a third and sketches a representational alternative. Since representationalism is itself a non-dualist view, this is an attack from *within* the naturalist family. The relationalist's handling of error is disputed even among its naturalist neighbours, which the Map can note without claiming the dispute for dualism.
 
 ## Relation to Site Perspective
 
@@ -120,12 +120,12 @@ The Map's own position is a **hybrid indirect realism**: the phenomenal interfac
 
 1. Brewer, B. (2011). *Perception and Its Objects*. Oxford University Press.
 2. Byrne, A. & Green, E.J. (2023). Whither Naïve Realism? – I. *Philosophical Perspectives* 37:49–68. https://doi.org/10.1111/phpe.12180
-3. Byrne, A. & Green, E.J. (2025). Whither Naïve Realism? – II. In O. Beck & F. Masrour (eds.), *The Relational View of Perception: New Philosophical Essays*. Routledge.
+3. Byrne, A. & Green, E.J. (2025). Whither Naïve Realism? – II. In O. Beck & F. Masrour (eds.), *The Relational View of Perception: New Philosophical Essays*, 183–207. Routledge.
 4. Campbell, J. (2002). *Reference and Consciousness*. Oxford University Press.
 5. Fish, W. (2009). *Perception, Hallucination, and Illusion*. Oxford University Press.
-6. Logue, H. & Raleigh, T. (2025). What Can the Naïve Realist Say about Total Hallucinations? Riding the New Relationalist Wave. In O. Beck & F. Masrour (eds.), *The Relational View of Perception: New Philosophical Essays*. Routledge.
+6. Logue, H. & Raleigh, T. (2025). What Can the Naïve Realist Say about Total Hallucinations? Riding the New Relationalist Wave. In O. Beck & F. Masrour (eds.), *The Relational View of Perception: New Philosophical Essays*, 316–342. Routledge.
 7. Martin, M.G.F. (2004). The Limits of Self-Awareness. *Philosophical Studies* 120:37–89.
 8. Martina, G. (2024). Lessons from Blur. *Erkenntnis* 89(8):3229–3246. https://doi.org/10.1007/s10670-023-00675-6
-9. Phillips, I. (2016). Naïve Realism and the Science of Illusion. *Philosophical Topics* 44(2). https://ora.ox.ac.uk/objects/uuid:4ac0d71c-001c-4db4-86d1-bd3062eaf465
+9. Phillips, I. (2016). Naïve Realism and the Science of (Some) Illusions. *Philosophical Topics* 44(2):353–380. https://doi.org/10.5840/philtopics201644227. Accepted manuscript, titled "Naïve Realism and the Science of Illusion": https://ora.ox.ac.uk/objects/uuid:4ac0d71c-001c-4db4-86d1-bd3062eaf465
 10. Snowdon, P. (1980). Perception, Vision and Causation. *Proceedings of the Aristotelian Society* 81:175–192.
 11. Southgate, A. & Oquatre-six, C. (2026-02-16). Dualist Perception. *The Unfinishable Map*. https://unfinishablemap.org/topics/dualist-perception/

@@ -3,9 +3,9 @@ ai_contribution: 100
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-06-16
-date: '2026-06-16'
+date: '2026-10-05'
 draft: false
-lastmod: 2026-06-16 00:00:00+00:00
+lastmod: 2026-10-05 00:00:00+00:00
 related_articles: []
 title: Research Notes - Naturalist Relationalism as a Non-Dualist Rival in Perception
 ---
@@ -130,7 +130,7 @@ Naturalist relationalism (a.k.a. naive realism, the relational view, Brewer's Ob
 - Internet Encyclopedia of Philosophy, "Disjunctivism." https://iep.utm.edu/disjunctivism/
 - Brewer, Bill (2011). *Perception and Its Objects*. Oxford University Press. (The Object View; Inconsistent Triad; objective looks.) Review: https://academic.oup.com/mind/article-abstract/130/517/299/5637829 ; précis: https://philpapers.org/rec/BRETOV
 - Campbell, John (2002). *Reference and Consciousness*. Oxford University Press. (Relational view.)
-- Phillips, Ian (2016). "Naïve Realism and the Science of Illusion." *Philosophical Topics* 44(2). https://ora.ox.ac.uk/objects/uuid:4ac0d71c-001c-4db4-86d1-bd3062eaf465 (PDF: http://www.ianbphillips.com/uploads/2/2/9/4/22946642/naive_realism_and_the_science_of_illusion.pdf)
+- Phillips, Ian (2016). "Naïve Realism and the Science of (Some) Illusions." *Philosophical Topics* 44(2):353–380 (published title; the ORA accepted manuscript is titled "Naïve Realism and the Science of Illusion"). https://ora.ox.ac.uk/objects/uuid:4ac0d71c-001c-4db4-86d1-bd3062eaf465 (PDF: http://www.ianbphillips.com/uploads/2/2/9/4/22946642/naive_realism_and_the_science_of_illusion.pdf)
 - Byrne, Alex & Green, E.J. (2023). "Whither Naïve Realism? – I." *Philosophical Perspectives* 37:49–68. https://onlinelibrary.wiley.com/doi/10.1111/phpe.12180 ; PhilArchive: https://philarchive.org/rec/BYRWNR
 - Martina, Giulia (2024). "Lessons from Blur." *Erkenntnis* 89(8):3229–3246. https://link.springer.com/article/10.1007/s10670-023-00675-6 ; PhilArchive: https://philarchive.org/rec/MARLFB-4
 - Logue, Heather (et al.), "Naïve Realism and the Relationality of Phenomenal Character." *Topoi*. https://link.springer.com/article/10.1007/s11245-023-09953-y ; PhilArchive: https://philarchive.org/archive/LOCNRA

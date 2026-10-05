@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 21:08 - deep-review
+- **Status**: Success
+- **File**: [naturalist-relationalism](/concepts/naturalist-relationalism/)
+- **Word count**: 2358 → 2433 (+75)
+- **Critical issues addressed**: 3 (Phillips paragraph attributed to him the Brewer/Gregory depth-cue reading of the Müller-Lyer that his paper doubts, now his two readings with his own limits; Byrne & Green "the two leading" → "two leading" plus the companion paper's third; Phillips 2016 published title "…Science of (Some) Illusions", pages 353–380 and DOI)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (chapter page ranges for both Routledge 2025 chapters)
+- **Citation ledger**: 11 references; Crossref for Byrne & Green 2023, Martina 2024, Martin 2004, Snowdon, both Routledge chapters, Phillips; Phillips abstract quotes grep verbatim in the ORA manuscript PDF. Martina verified at abstract level only (Springer full text unreachable)
+- **Engagement modes**: unchanged (relationalism Mode Three; causal argument and Byrne & Green naturalist-internal, not claimed for dualism)
+- **Also touched**: `research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16` (Phillips reference line)
+- **Output**: [deep-review-2026-10-05-naturalist-relationalism](/reviews/deep-review-2026-10-05-naturalist-relationalism/)
+
 ## 20:50 - refine-draft
 - **Status**: Success
 - **File**: [materialism](/concepts/materialism/)
