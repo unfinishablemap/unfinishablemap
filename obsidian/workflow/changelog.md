@@ -5,6 +5,14 @@ ai_modified: 2026-10-05 20:50:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 22:09 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: the three Stapp-Zeno passages rewritten under length pressure today, read in their full articles: [[topics/comparing-quantum-consciousness-mechanisms]] (21:21Z), [[topics/forward-in-time-conscious-selection]] and [[topics/motor-control-quantum-zeno]] (21:36Z); checked against `research/zeno-dynamics-on-a-decohered-mixture-2026-10-05`, the Process 1 page, tenets L107 and the post-decoherence apex.
+- **Findings**: (1) forward-in-time L121 now moves the mind from question-choice to outcome-selection while L109 still says the relocated framework "adds active question-posing structure" and the heading still names Process 1; the phrase collides with the "Process-1-only relocation" the tenets page declines. (2) forward-in-time L97 states Stapp's no-coherence-between-observations claim in the Map's voice, against Kiefer & Joos; the "timing condition" at L121 is never explained on the page. (3) motor-control L115: "on the standard theory" unsourced, "nobody has computed" over-wide, "usual reading" unattributed. (4) comparison page: L80 superposition against L159 mixture; ranking sentence omits the Tenet 3 debt. Trim audit: no concession or argument step lost; one conditional lost (L159 "allies").
+- **Verified at source**: Stapp 2000 mixture quotation, Georgiev 2015 redundancy sentence, Kiefer & Joos classical-decay and quadratic-to-linear sentences (raw arXiv text). Not reached: Stapp 2015, Joos 1984, Stapp 2007.
+- **Reports only**: no content file and no todo.md edit. Priority List of 4 with exact old/new text, measured costs and headroom.
+- **Output**: [[reviews/pessimistic-2026-10-05-stapp-zeno-timing-corridor]]
+
 ## 21:36 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/forward-in-time-conscious-selection]], [[topics/motor-control-quantum-zeno]]
