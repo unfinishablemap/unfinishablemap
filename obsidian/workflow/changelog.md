@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 09:40:00+00:00
+ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:50 - refine-draft
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Review**: `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` Priority List item 3, applied with its exact old/new strings (each old string confirmed to occur exactly once before replacement).
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from review)
+- **Changes**: (a) Floor neutralised on the Tenet 3 quantifier at three loci: "The gradient has a floor" paragraph and the control-theoretic floor paragraph now state the floor as a conditional on the capacity for conscious selection and leave open whether every subject of experience retains it (following `topics/the-divided-will` "takes no view on how widely conscious selection operates"); Minimal Quantum Interaction paragraph drops "without reaching zero". No reading chosen; the NEEDS-HUMAN (foundations) 2026-08-17 quantifier and the bi-aspectual tension are untouched. (b) Dualism paragraph rewritten so the gradient no longer claims for dualism what a physicalist grading and Korsgaard's practical unity supply; links `the-divided-will#practical-unity`. (c) Stability: zero-word pipe on "rather than incapacity" to `the-divided-will#the-organ-model-test`. (d) Optional item applied: Standard-compatibilism paragraph concedes a physical controller would unify the conditions equally; links `control-theoretic-will#analogy-model-and-ontology`.
+- **Reasoning mode**: engagement with standard compatibilism (Fischer and Ravizza): Mode Three after (d); the unification claim is no longer presented as favouring a conscious controller. Engagement with the physicalist in the Dualism paragraph: Mode Three; the difference is what the graded agent is, marked as the Map's reading.
+- **Length**: 2,988 → 3,002 (`analyze_length`; topics soft 3,000, hard 4,000). Core (a)-(c) is −3; (d) is +17 and tips the page 2 words past soft.
+- **Residual (not edited, outside item 3)**: "they remain a subject of experience, a genuine agent" (Why Attention Grounds Responsibility), "The agent hasn't ceased to exist as controller" (Control-Theoretic Interpretation) and "it does not eliminate selection itself" (Hard determinism) still lean toward the every-subject-selects reading; left for the driver to consider adding to the NEEDS-HUMAN entry.
+- **Published**: yes
 
 ## 09:40 - research-topic
 - **Status**: Success

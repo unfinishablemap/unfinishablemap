@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-04 11:36:57+00:00
+ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 15:12:26+00:00
-lastmod: 2026-10-04 11:36:57+00:00
+lastmod: 2026-10-05 09:50:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ This dimension affects the *knowledge* requirement most directly. You cannot be 
 
 ### Stability
 
-The ability to sustain attention on a chosen focus—what [mental effort](/concepts/mental-effort/) phenomenology tracks—determines whether an agent can follow through on moral reasoning. An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can. The gradient concerns capacity, however: an agent whose normal capacities of self-control are intact but who lets that recognition lapse shows [weakness of will](/topics/akrasia-and-weakness-of-will/) rather than incapacity, and is not thereby excused. [Voluntary attention](/concepts/attention-as-interface/) research distinguishes willed from automatic attentional control; the stability dimension captures how effectively the agent exercises the willed variety.
+The ability to sustain attention on a chosen focus—what [mental effort](/concepts/mental-effort/) phenomenology tracks—determines whether an agent can follow through on moral reasoning. An agent who recognises the right course of action but cannot hold that recognition stable against competing impulses exercises less control than one who can. The gradient concerns capacity, however: an agent whose normal capacities of self-control are intact but who lets that recognition lapse shows [weakness of will](/topics/akrasia-and-weakness-of-will/) [rather than incapacity](/topics/the-divided-will/#the-organ-model-test), and is not thereby excused. [Voluntary attention](/concepts/attention-as-interface/) research distinguishes willed from automatic attentional control; the stability dimension captures how effectively the agent exercises the willed variety.
 
 Conditions like ADHD, acute stress, sleep deprivation, and addiction all reduce attentional stability. The agent can initiate moral deliberation but cannot sustain it against distraction or impulse. Their control is intermittent rather than continuous.
 
@@ -97,7 +97,7 @@ These five dimensions combine to produce an agent's *effective attentional capac
 
 Two crucial features prevent this gradient from collapsing into excuse-making.
 
-**The gradient has a floor.** As long as consciousness operates at all—as long as the agent remains a subject of experience capable of any selection whatsoever—some responsibility persists. The Map's framework entails that even severely impaired attentional capacity retains a kernel of agency. Complete absence of responsibility requires complete absence of conscious selection.
+**The gradient has a floor.** As long as the agent remains capable of any conscious selection whatsoever, some responsibility persists, so complete absence of responsibility requires complete absence of that capacity. Whether every subject of experience retains it, however impaired, depends on how widely conscious selection operates, which the Map leaves open.
 
 **Capacity for cultivation is itself subject to desert.** An agent who chronically neglects their attentional capacities—refusing training, choosing substances that impair attention, avoiding self-knowledge—bears *upstream responsibility* for the diminished capacity that later reduces their downstream desert. The [attentional-economics](/concepts/attentional-economics/) framework identifies attention training as metaphysically agency-enhancing. Neglecting this capacity is itself a moral matter.
 
@@ -129,13 +129,13 @@ The cultivation principle means the gradient is temporally extended. Responsibil
 
 When a controller operates with degraded parameters, its authority over the plant diminishes predictably. The plant's own dynamics—unconscious neural processing, habitual responses, reflexive reactions—take over to a greater degree. The agent hasn't ceased to exist as controller, but their effective control has been reduced.
 
-This interpretation clarifies why the gradient has a floor: total loss of control would require complete disconnection of the controller from the plant, which corresponds to loss of consciousness entirely. As long as any feedback loop remains—as long as the agent experiences anything at all—some control, however minimal, persists.
+This interpretation locates the gradient's floor: total loss of control would require complete disconnection of the controller from the plant. Whether that happens only with loss of consciousness, so that any experience at all carries some control, is the same open question about how widely conscious selection operates.
 
 ## Against Binary Responsibility
 
 The dominant alternatives to graded responsibility are both unsatisfying within the Map's framework.
 
-**Standard compatibilism** holds that agents are responsible if they act on reasons they endorse. Sophisticated versions—notably Fischer and Ravizza's (1998) reasons-responsiveness theory—already accept that responsiveness comes in degrees, yielding graded responsibility. The Map's framework agrees with this grading but identifies what compatibilism leaves unexplained: *why* conditions as diverse as fatigue, poverty, and ADHD all diminish responsibility through the same mechanism. The answer is that they all narrow the attentional channel through which consciousness exercises genuine selection. Compatibilist accounts catalogue the conditions that reduce responsiveness; the Map's framework unifies them under a single causal architecture—a bandwidth-limited conscious controller whose effective authority degrades predictably when its parameters are constrained.
+**Standard compatibilism** holds that agents are responsible if they act on reasons they endorse. Sophisticated versions—notably Fischer and Ravizza's (1998) reasons-responsiveness theory—already accept that responsiveness comes in degrees, yielding graded responsibility. The Map's framework agrees with this grading but identifies what compatibilism leaves unexplained: *why* conditions as diverse as fatigue, poverty, and ADHD all diminish responsibility through the same mechanism. The answer is that they all narrow the attentional channel through which consciousness exercises genuine selection. Compatibilist accounts catalogue the conditions that reduce responsiveness; the Map's framework unifies them under a single causal architecture—a bandwidth-limited controller whose effective authority degrades predictably when its parameters are constrained. A [physical controller](/concepts/control-theoretic-will/#analogy-model-and-ontology) would unify them equally, so the unification is no reason to prefer a conscious one.
 
 **Hard determinism** eliminates responsibility entirely, treating all attentional variation as just another link in the causal chain. But this denies what the Map affirms—and what Kane (1996) argues from a libertarian perspective: that consciousness genuinely selects among open possibilities, and that this selection constitutes authorship. Attentional capacity modulates the scope of selection; it does not eliminate selection itself.
 
@@ -153,11 +153,11 @@ The moral implications extend in both directions. Where most discussions of grad
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The responsibility gradient presupposes an irreducible conscious agent whose attentional capacity is a genuine causal factor, not a neural side-effect. Without dualism, variations in attentional capacity are just variations in brain states, and the question of how much the *agent* (as distinct from their brain) can be held responsible does not arise.
+**[Dualism](/tenets/#dualism)**: The Map reads the gradient as grading an irreducible conscious agent rather than a brain state. The gradient does not need that reading: a physicalist grades responsibility by the same capacities, and [practical unity](/topics/the-divided-will/#practical-unity) supplies the agent being graded without the posit. Dualism changes what the graded agent is, not whether the gradient applies.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The gradient specifies that consciousness exercises causal power through attention, and that the scope of this power varies. Bidirectional interaction is not all-or-nothing; it operates within the bandwidth constraints of the attentional channel.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The ~10 bits/second bandwidth limit reflects the minimality of conscious influence. The gradient's dimensions describe how various conditions further constrain an already-minimal channel. Under severe attentional impairment, the minimal interaction approaches its lower bound without reaching zero.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The ~10 bits/second bandwidth limit reflects the minimality of conscious influence. The gradient's dimensions describe how various conditions further constrain an already-minimal channel. Under severe attentional impairment, the minimal interaction approaches its lower bound.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Graded responsibility requires that one outcome actually obtains, though the objection needs locating carefully, because it does not touch the gradient. Under many-worlds, every quantum-indeterminate choice produces branches containing every possible outcome—the agent both attended well and attended poorly across the branching structure. An Everettian can still grant the agent a branch-local history of having chosen, and can grant the gradient entire: attentional capacity varies, is measurable in-branch, and grades responsibility branch-locally exactly as described above. What branching cannot grant is the counterfactual exclusion desert requires—the lapse was never the rejection of a genuinely unrealised alternative, since the attention the agent failed to muster was mustered by a counterpart elsewhere. Desert needs alternatives genuinely rejected, not merely routed to another branch. The disagreement is therefore not about whether responsibility comes in degrees but about whether desert attaches at any point on the scale. That the unchosen be globally nonactual is a [posit the Map adopts](/tenets/background-commitments/) rather than a result the gradient delivers, and the disagreement sits at the framework boundary. Given the posit, the gradient's moral weight rests where this article has placed it—one choice, one outcome, one agent who must live with the consequences.
 

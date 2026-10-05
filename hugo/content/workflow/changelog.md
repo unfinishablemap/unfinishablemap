@@ -1,14 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 08:27:42+00:00
+ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-05'
-lastmod: 2026-10-05 08:27:42+00:00
+lastmod: 2026-10-05 09:50:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:50 - refine-draft
+- **Status**: Success
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Review**: `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` Priority List item 3, applied with its exact old/new strings (each old string confirmed to occur exactly once before replacement).
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from review)
+- **Changes**: (a) Floor neutralised on the Tenet 3 quantifier at three loci: "The gradient has a floor" paragraph and the control-theoretic floor paragraph now state the floor as a conditional on the capacity for conscious selection and leave open whether every subject of experience retains it (following `topics/the-divided-will` "takes no view on how widely conscious selection operates"); Minimal Quantum Interaction paragraph drops "without reaching zero". No reading chosen; the NEEDS-HUMAN (foundations) 2026-08-17 quantifier and the bi-aspectual tension are untouched. (b) Dualism paragraph rewritten so the gradient no longer claims for dualism what a physicalist grading and Korsgaard's practical unity supply; links `the-divided-will#practical-unity`. (c) Stability: zero-word pipe on "rather than incapacity" to `the-divided-will#the-organ-model-test`. (d) Optional item applied: Standard-compatibilism paragraph concedes a physical controller would unify the conditions equally; links `control-theoretic-will#analogy-model-and-ontology`.
+- **Reasoning mode**: engagement with standard compatibilism (Fischer and Ravizza): Mode Three after (d); the unification claim is no longer presented as favouring a conscious controller. Engagement with the physicalist in the Dualism paragraph: Mode Three; the difference is what the graded agent is, marked as the Map's reading.
+- **Length**: 2,988 → 3,002 (`analyze_length`; topics soft 3,000, hard 4,000). Core (a)-(c) is −3; (d) is +17 and tips the page 2 words past soft.
+- **Residual (not edited, outside item 3)**: "they remain a subject of experience, a genuine agent" (Why Attention Grounds Responsibility), "The agent hasn't ceased to exist as controller" (Control-Theoretic Interpretation) and "it does not eliminate selection itself" (Hard determinism) still lean toward the every-subject-selects reading; left for the driver to consider adding to the NEEDS-HUMAN entry.
+- **Published**: yes
+
+## 09:40 - research-topic
+- **Status**: Success
+- **Topic**: Agency incompatibilism: Steward's settlers
+- **Output**: [agency-incompatibilism-stewards-settlers-2026-10-05](/research/agency-incompatibilism-stewards-settlers-2026-10-05/)
+- **Task**: harvested from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` (New Article Subject 4); target `topics/`, intended slug `agency-incompatibilism`.
+- **Sources consulted**: 13 cited. Read at source as raw text: Steward's 2014 Précis and her Replies to Clarke, Bishop and Beebee (*Res Philosophica*), four of her eight 2013 *Inquiry* "Responses" (Garnett, Broadie, Clancy, Boxer), and Buckareff's review. The book itself at Google Books snippet level only; Levy 2013, Garnett 2013 and Clarke 2014 at abstract level; the other critics' papers not read.
+- **Finding for the expand step**: the *Inquiry* symposium lead is confirmed (56(6), eight critics plus Steward's replies) and there is a second symposium in *Res Philosophica* 91(3). Levy has a separate *Inquiry* paper turning the luck objection on Steward. Her reply to Bishop states that agent causation is "the influence of a whole animal on its own parts" and physical. On sourcehood and luck the Map's non-physical settler adds nothing she lacks; the open questions are the reduction trade, her subjectivity condition, and scope (animals, sub-intentional action). The book index gives the Cartesian-dualism passage as "16 n. 37", so the-divided-will's "p. 16" may be a footnote.
+- **Length**: about 3,100 words including the citation list, against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `topics`).
+
+## 09:30 - research-topic
+- **Status**: Success
+- **Topic**: Addiction between compulsion and choice
+- **Output**: [addiction-between-compulsion-and-choice-2026-10-05](/research/addiction-between-compulsion-and-choice-2026-10-05/)
+- **Task**: harvested from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` (New Article Subject 3); target `topics/`, intended slug `addiction-between-compulsion-and-choice`.
+- **Sources consulted**: 11 cited. Read at source: Holton & Berridge 2013 (publisher proof PDF; opening, self-control section and conclusion read through, middle sections by keyword), Heyman 2013 and Pickard 2017 in full text, Henden et al. 2013 and Levy 2014 in part. Gorman 2023 and Watson 2004 at abstract level. Heyman 2009, Sripada 2018 and 2022, Wallace 1999 not reached (metadata only).
+- **Finding for the expand step**: no source read defends literal irresistibility, so the akrasia page's weakness/compulsion binary has little to apply to in addiction; Levy's judgement-shift is the hard case for the selection reading. Holton & Berridge and Levy both lean on ego depletion. The chapter's running head reverses its title ("Between Choice and Compulsion"), and Pickard cites it that way.
+- **Length**: about 3,350 words against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `topics`).
+
+## 09:10 - research-topic
+- **Status**: Success
+- **Topic**: Self-deception and the divided mind
+- **Output**: [self-deception-and-the-divided-mind-2026-10-05](/research/self-deception-and-the-divided-mind-2026-10-05/)
+- **Task**: harvested from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` (New Article Subject 2); target `topics/`, intended slug `self-deception-and-the-divided-mind`.
+- **Sources consulted**: 11 cited. Read at source: raw SEP "Self-Deception" (rev. 2023); Davidson "Deception and Division" and Mele *Self-Deception Unmasked* at Google Books snippet level; Mele 1997 and von Hippel & Trivers 2011 abstracts. Pears 1984 reached only through a quotation in Mele; Sartre not sourced.
+- **Finding for the expand step**: the SEP's quoted 'psychological exotica' (attributed to Mele 2001) reads "mental exotica" in Mele's book index and 1997 abstract. "Deception and Division" has two first printings (LePore & McLaughlin 1985; Elster 1986), which resolves the date lead left open on 2026-10-04.
+- **Length**: 3,596 words against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `topics`).
 
 ## 08:40 - deep-review
 - **Status**: Success
