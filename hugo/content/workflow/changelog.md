@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 23:35 - refine-draft
+
+- **Task**: covert-consciousness-and-cognitive-motor-dissociation — production reply to the sub-threshold recall test
+- **Status**: completed (inline by the driver)
+- **Changes**: §What Would Discriminate gains a third caveat: production can read sub-threshold recall as the capacity measures missing consciousness; TMS-EEG misses about 5% of MCS patients (Aubinet et al. 2025, already cited). Anchors unchanged.
+
 ## 23:25 - refine-draft
 - **Status**: Success
 - **Files**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/) (L78), [bidirectional-interaction](/concepts/bidirectional-interaction/) (L85), [quantum-consciousness](/concepts/quantum-consciousness/) (L75, L124), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/) (L118)

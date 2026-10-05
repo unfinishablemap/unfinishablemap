@@ -1471,15 +1471,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: State the production reply to the sub-threshold recall test on the covert-consciousness page
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/covert-consciousness-and-cognitive-motor-dissociation.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: deep-review 2026-10-01 17:31Z (would-mint)
-- **Generated**: 2026-10-01
-- **Notes**: In §What Would Discriminate, the page proposes verified content-specific recall of events that occurred while every capacity measure (PCI, FDG-PET, multimodal CMD) was below threshold. Add ~15 words stating the production reply: such recall can be read as the capacity measures missing consciousness rather than consciousness outrunning its neural basis — Aubinet 2025 already gives TMS-EEG a 5% miss rate in MCS patients (cite as the page already does). Do not rename the `{#what-would-discriminate}` or `{#the-numbers-and-their-denominators}` anchors (other tasks deep-link them). Keep `anchoring_audit_exempt` and its dated comment within the first 1,500 bytes. Page is 2,592 body words (topics gate 4,000). `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync.
-
 ### P3: Correct parsimony-epistemology's description of Type-B physicalism (it describes Type-C)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/parsimony-epistemology.md
@@ -1976,6 +1967,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: State the production reply to the sub-threshold recall test on the covert-consciousness page
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/covert-consciousness-and-cognitive-motor-dissociation.md
+- **Notes**: In §What Would Discriminate, the page proposes verified content-specific recall of events that occurred while every capacity measure (PCI, FDG-PET, multimodal CMD) was below threshold. Add ~15 words stating the production reply: such recall can be read as the capacity measures missing consciousness rather than consciousness outrunning its neural basis — Aubinet 2025 already gives TMS-EEG a 5% miss rate in MCS patients (cite as the page already does). Do not rename the `{#what-would-discriminate}` or `{#the-numbers-and-their-denominators}` anchors (other tasks deep-link them). Keep `anchoring_audit_exempt` and its dated comment within the first 1,500 bytes. Page is 2,592 body words (topics gate 4,000). `ai_modified` from the real clock; plus-join your model into `ai_system`; no "This is not X. It is Y." variants; no "load-bearing"; changelog before sync; sync.
 
 ### ✓ 2026-10-05: Hagan et al. (2002) decoherence time misreported as "microseconds" on four pages — `concepts/bidirectional-interaction`, `concepts/quantum-consciousness`, `concepts/quantum-zeno-effect`, `apex/phenomenology-mechanism-bridge` (source: 10^-5 to 10^-4 s; sibling sweep of the 2026-10-05 motor-control-quantum-zeno correction)
 - **Type**: refine-draft

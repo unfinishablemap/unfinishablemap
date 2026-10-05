@@ -4,7 +4,7 @@ description: "What covert-consciousness figures license: CMD in roughly 15–25%
 created: 2026-10-01
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-01T17:29:51+00:00
+ai_modified: 2026-10-05T23:35:14+00:00
 last_deep_review: 2026-10-01T17:29:51+00:00
 draft: false
 anchoring_audit_exempt: true  # 2026-10-01 verified lexical false-high vs neural-correlates-of-consciousness: hedge density low because the page reports measured figures; calibration is structural (lead: production and interface "explain them equally well"; "evidentially neutral" at any prevalence; physicalist reading "standing, and matched"; positive test = "strong evidence of probable consciousness"; true prevalence "unknown"). Deep review fixed two real sentence-level calibration gaps (BI "shows", Occam "size measured") instead of adding hedges.
@@ -25,7 +25,7 @@ related_articles:
   - "[[ethics-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-01
 last_curated:
 ---
@@ -89,7 +89,7 @@ The Map's reply is limited. Each fact is also what an interface damaged on its o
 
 ## What Would Discriminate {#what-would-discriminate}
 
-Prevalence data, at any value, are evidentially neutral between the two readings. A discriminating test needs a criterion of consciousness independent of the neural capacity measures. One candidate is verified, content-specific recall after recovery of events that occurred while every capacity measure (complexity, metabolism, multimodal CMD testing) was far below threshold. Production predicts no such residual; a filter reading on which experience can outrun its neural support predicts some. Two caveats apply. Because command-following tests miss most conscious patients, recall after a merely negative CMD test is expected on both views; only recall below the capacity thresholds would carry weight. And the Map's own commitment to minimal interaction forecasts little or no detectable residual, so the design could embarrass production without confirming the interface.
+Prevalence data, at any value, are evidentially neutral between the two readings. A discriminating test needs a criterion of consciousness independent of the neural capacity measures. One candidate is verified, content-specific recall after recovery of events that occurred while every capacity measure (complexity, metabolism, multimodal CMD testing) was far below threshold. Production predicts no such residual; a filter reading on which experience can outrun its neural support predicts some. Three caveats apply. Because command-following tests miss most conscious patients, recall after a merely negative CMD test is expected on both views; only recall below the capacity thresholds would carry weight. Even then production can reply that the capacity measures missed consciousness rather than that consciousness outran its neural basis; TMS-EEG itself misses about 5% of MCS patients (Aubinet et al. 2025). And the Map's own commitment to minimal interaction forecasts little or no detectable residual, so the design could embarrass production without confirming the interface.
 
 ## Relation to Site Perspective
 
