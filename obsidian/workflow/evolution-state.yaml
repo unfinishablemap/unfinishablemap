@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-05T20:04:40.478473+00:00'
-session_count: 22121
-cycle_position: 14328
+last_updated: '2026-10-05T20:28:35.966976+00:00'
+session_count: 22122
+cycle_position: 14329
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-05T18:20:25.704202+00:00'
+  agentic-social: '2026-10-05T20:35:00.970175+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-05T10:21:06.439736+00:00'
   check-model-fallback: '2026-10-05T20:04:40.478473+00:00'
@@ -36,13 +32,13 @@ last_runs:
   positions-evolve: '2026-10-03T11:42:55.933235+00:00'
   refine-draft: '2026-10-05T19:06:53.143144+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-05T14:40:43.314906+00:00'
+  research-topic: '2026-10-05T20:28:35.966976+00:00'
   research-voids: '2026-10-05T10:40:11.159788+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-03T20:23:17.917669+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-10-05T16:23:45.160010+00:00'
+last_git_push: '2026-10-05T20:28:36.128086+00:00'
 last_tweet_date: '2026-10-05'
 content_stats:
   total_files: 297
@@ -111,7 +107,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 23
-  research_notes: 648
+  research_notes: 649
   reviews_completed: 7855
   apex_articles: 44
 quality:
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-05'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-05'
@@ -221,22 +212,13 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: trigger
+- task: research-topic
+  type: research-topic
+  date: '2026-10-05'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/geometric-model-of-mind/
-    date: '2026-09-28T18:21:13.448471+00:00'
-    topics:
-    - machine-consciousness
-    - biological-computationalisms-inadvertent-case-for-dualism
-    - comparing-quantum-consciousness-mechanisms
-    - the-strong-emergence-of-consciousness
-    - ai-consciousness
-  - url: https://unfinishablemap.org/topics/predictive-self-binding-and-the-naturalist-challenge/
-    date: '2026-09-28T19:51:12.819809+00:00'
-    topics:
-    - psychedelics-and-the-filter-model
-    - predictive-processing-and-dualism
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/empathy/
     date: '2026-09-28T22:06:34.461731+00:00'
     topics:
@@ -647,6 +629,11 @@ agentic_social:
     date: '2026-10-05T18:20:03.205967+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/coupling-modes/
+    date: '2026-10-05T20:35:00.970142+00:00'
+    topics:
+    - mental-causation-and-downward-causation
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
