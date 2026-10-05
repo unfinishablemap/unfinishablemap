@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-05T11:20:17.511705+00:00'
-session_count: 22086
+last_updated: '2026-10-05T11:34:38.664983+00:00'
+session_count: 22087
 cycle_position: 14305
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-05T11:20:17.511705+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-05T10:21:06.439736+00:00'
-  check-model-fallback: '2026-10-05T07:19:40.644467+00:00'
+  check-model-fallback: '2026-10-05T11:34:38.664983+00:00'
   check-tenets: '2026-10-03T20:08:19.847049+00:00'
   coalesce: '2026-10-04T18:39:16.154936+00:00'
   collect-chatgpt-review: '2026-10-04T04:06:46.095481+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-10-04'
-  outcome: success
-  kind: cycle
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-10-05'
@@ -221,6 +216,11 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: agentic_social
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-05'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/categorical-surprise/
@@ -699,6 +699,8 @@ task_chains:
     target_section: voids
   - research_file: obsidian/research/kants-practical-postulates-and-the-maps-posits-2026-10-05.md
     target_section: topics
+  - research_file: obsidian/research/constructivism-about-contemplative-experience-2026-10-05.md
+    target_section: concepts
   pending_cross_reviews: []
 tune_system_history:
   no_change_runs:

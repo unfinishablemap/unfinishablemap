@@ -5,6 +5,17 @@ ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 11:56 - research-topic
+- **Status**: Success
+- **Topic**: Constructivism about contemplative experience
+- **Output**: [[research/constructivism-about-contemplative-experience-2026-10-05]]
+- **Sources consulted**: 10 (4 read at source: SEP "Mysticism" (rev. 2026-09-04), Sharf 2000 in full, Adam 2002 review of Forman, Gamma & Metzinger 2021 abstract and limitations; Sharf 1995 pp. 269–270 only, from page images; Katz 1978 and both Forman volumes not read and marked so)
+- **Assess-first verdict**: article-sized; concept page recommended over a fold. concepts at 347/360 by `count_section_files`.
+- **Key finding**: the corpus treats Katz and Sharf as one objection. Katz predicts cross-tradition divergence, so the Map's convergence reply has purchase; Sharf argues from intra-lineage disagreement that state-labels do not refer to determinate inner events, and convergence does not touch that. Forman's pure consciousness event carries costs (Bagger's evidential-emptiness objection, cessation as absence of consciousness) that no Map page states.
+- **Corpus corrections for the writer**: Katz is named on 11 live pages, not one as the source review said; `non-temporal-consciousness` L93 splices the subject of an otherwise accurate Sharf quote.
+- **Caveats**: all Katz quotations are second-hand (SEP, Sharf). Note runs about 3,800 words against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `concepts`).
+
 ## 11:09 - research-topic
 - **Status**: Success
 - **Topic**: Kant's practical postulates and the Map's posits
