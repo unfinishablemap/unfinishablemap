@@ -1462,7 +1462,8 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/inference-to-the-best-explanation-against-dualism.md
 - **Section**: concepts
-- **Status**: pending
+- **Status**: blocked
+- **Blocked-by**: task — the P3 expand-topic "Write article on rival explanations of the explanatory gap" (concepts/rival-explanations-of-the-explanatory-gap.md, not yet written as of 2026-10-05 19:00Z). Its research note already ran this comparison; once the article lands this task reduces to the one-sentence pointer in the note's Corpus Seams item 2. Picked 2026-10-05 and deferred by the driver so a 300-word paragraph is not written and then cut. Unblock (Status back to pending) when the article exists.
 - **Source**: cross-review 2026-10-01 08:41Z (the page's own first cost names this as unrun)
 - **Generated**: 2026-10-01
 - **Budget**: Updated 2026-10-01 17:57Z. The page is now 3,213 words (286 headroom under the 3,500 `>=` gate) after the accommodation/disconfirmer refine. Two queued sibling P2s from the same pessimistic review need about +85 (Type-B calibration) and +28 (attribution), leaving roughly 170. The "≤300 words" in Notes below no longer fits: cap the paragraph at ~150 words, or fund the excess by condensing elsewhere on the page in the same edit, and re-measure before and after.
