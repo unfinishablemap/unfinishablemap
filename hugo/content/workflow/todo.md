@@ -1460,15 +1460,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-30
 - **Notes**: Suggested by optimistic review. See optimistic-2026-09-30-concession-wing.md §Expansion Opportunities "The contingency void". The research note (2978 words incl. frontmatter; SEP on sufficient reason, Parfit "Why Anything? Why This?", Meillassoux *After Finitude*, Nagel, Sartre, Chalmers on contingent psychophysical laws, Wittgenstein 6.44, Carroll/Russell on brute facts) has been unconsumed since 2026-02-18; the voids research pipeline is LIFO, so it will not surface on its own. correlationism-and-the-ancestrality-argument L115 records "The necessity-of-contingency material is held in the research note ... and has no live void article"; that page (L58–62, facticity/hyper-chaos) and intrinsic-nature-void (headroom 852) are the two live consumers. Voids at 111/115 by tools.evolution.state.count_section_files on 2026-09-30 — re-measure before creating; refuse if at cap. Slug candidate `contingency-void`; check no live/archived collision. Needs human approval (consumes one of four remaining voids slots). Calibrate per the operation-void wing standard: tenet section graded compatible unless a discriminator is named; Meillassoux's hyper-chaos noted as a modal thesis, not adopted (correlationism L106/L108).
 
-### P3: `topics/consciousness-and-the-metaphysics-of-individuation` §Kant's Challenge to Dualism cites the Paralogisms for an objection that comes from a different part of the Critique
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/consciousness-and-the-metaphysics-of-individuation.md
-- **Status**: pending
-- **Source**: research-topic 2026-10-01 (Kant's paralogisms note, Gaps — "a Map-side defect")
-- **Review file**: `research/kants-paralogisms-and-the-maps-subject-2026-10-01`
-- **Generated**: 2026-10-01
-- **Notes**: Grep-verified 2026-10-01 04:35Z: §Kant's Challenge to Dualism (L81–90) presents Kant's *individuation* objection to dualism (how non-spatial substances are distinguished), but the page's only Kant reference (L166) is `Kant, I. (1781/1787). *Critique of Pure Reason*, "Paralogisms of Pure Reason."` — the Paralogisms chapter (A341–405/B399–432) is about the illegitimate inference from the "I think" to a substantial, simple, persisting soul, not about individuating substances. Quote L81–90 live, identify which Kantian text the section's objection actually rests on (the note's Key Sources and the Critique's text are the verification base — verify the locus by A/B number in a retrieved translation before citing; if the objection is in fact a reconstruction from the Amphiboly / the Third Paralogism's A363 identity point / a secondary source, say so and cite that), fix the reference entry accordingly, and add ONE sentence noting that the individuation objection presupposes the persisting subjects the Paralogisms deny the dualist any right to *infer* — linking `[[kants-paralogisms-and-the-maps-subject]]` once that article exists (if it does not yet exist when this task runs, link `[[personal-identity]]` instead and say so). Host is at 3,143/4,000 (measure first). Bump `ai_modified`; sync; Hugo grep.
-
 ### P3: Name IBE as the explicit opponent of the compatibility ladder in evidential-status-discipline
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/project/evidential-status-discipline.md
@@ -1963,6 +1954,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: `topics/consciousness-and-the-metaphysics-of-individuation` §Kant's Challenge to Dualism cites the Paralogisms for an objection that comes from a different part of the Critique
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/consciousness-and-the-metaphysics-of-individuation.md
+- **Notes**: Grep-verified 2026-10-01 04:35Z: §Kant's Challenge to Dualism (L81–90) presents Kant's *individuation* objection to dualism (how non-spatial substances are distinguished), but the page's only Kant reference (L166) is `Kant, I. (1781/1787). *Critique of Pure Reason*, "Paralogisms of Pure Reason."` — the Paralogisms chapter (A341–405/B399–432) is about the illegitimate inference from the "I think" to a substantial, simple, persisting soul, not about individuating substances. Quote L81–90 live, identify which Kantian text the section's objection actually rests on (the note's Key Sources and the Critique's text are the verification base — verify the locus by A/B number in a retrieved translation before citing; if the objection is in fact a reconstruction from the Amphiboly / the Third Paralogism's A363 identity point / a secondary source, say so and cite that), fix the reference entry accordingly, and add ONE sentence noting that the individuation objection presupposes the persisting subjects the Paralogisms deny the dualist any right to *infer* — linking `[[kants-paralogisms-and-the-maps-subject]]` once that article exists (if it does not yet exist when this task runs, link `[[personal-identity]]` instead and say so). Host is at 3,143/4,000 (measure first). Bump `ai_modified`; sync; Hugo grep.
 
 ### ✓ 2026-10-05: Cotard and colour-ontology reciprocals — the pages each names as its insight-retained side or its sorting result carry zero mentions (optimistic-2026-09-30-creation-wing item 3)
 - **Type**: refine-draft

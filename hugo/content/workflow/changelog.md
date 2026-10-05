@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 18:50 - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Premise re-verified today** (body-only, frontmatter stripped, `grep -ciF`): "inference to the best explanation" 0, "loveliness" 0, "inference-to-the-best-explanation-against-dualism" 0, "Lipton" 0, "likeliness" 0. Not a no-op.
+- **Changes**: one dated paragraph added to §Compatibility vs. Support at the Rival-Model Interface, after the independent-discriminator paragraph and before the floated-candidate paragraph. It names IBE as the opponent form a compatibility verdict leaves open, pipes a link to the concepts page, and tells a reviewer what to do: flag a passage that offers compatibility as the reply to an IBE-form objection, record the objection as open, state whether the compatibility is bare consistency or predictive parity, and point to the IBE page. Existing ladder wording untouched. One Further Reading line added; references 21 (Farmakis & Hartmann 2005) and 22 (Lipton 2004) appended, copied from the IBE page with its access labels.
+- **Deviation from the task wording**: the task asked for "compatibility verdicts answer a likeliness challenge". The IBE page retired that sentence on 2026-10-01 (deep review, Critical 2) in favour of "answers neither challenge: consistency falls short of equal likelihood". The paragraph follows the page as it now stands: consistency alone answers neither; predictive parity levels likeliness and leaves loveliness open.
+- **Attribution**: Lipton's distinction is attributed via Farmakis and Hartmann's review, as the IBE page verified it; no Lipton quotation or page number added. The page's calibration is kept (*compatible* and no higher on the physicalist's explananda, *discriminating* nowhere; loveliness challenge stated as unanswered).
+- **Engagement modes**: none changed; no named-opponent reply edited.
+- **Published**: yes
+
 ## 18:36 - refine-draft
 - **Status**: Success (partial no-op: the Paralogisms sentence and piped link were already installed by the 2026-10-03 expand-topic commit 344cf988cb; the locus and reference entry were still wrong)
 - **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
