@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-10-05T16:05:18+00:00
+ai_modified: 2026-10-05T21:36:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ related_articles:
   - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-04-30
 last_curated: null
 last_deep_review: 2026-09-04T14:15:47+00:00
@@ -118,7 +118,7 @@ The mechanism is, on this reading, minimal. Consciousness does not maintain quan
 
 ### Stapp's Process 1 Relocated
 
-A post-decoherence relocation of [[stapp-quantum-mind|Stapp's framework]] preserves its architecture while abandoning its timing vulnerability. Stapp's model holds that consciousness selects which question nature answers (Process 1) and nature responds with a definite outcome (Process 3). In the relocated version, Process 1 operates on the decohered mixture rather than on quantum superpositions, selecting which element of the already-prepared alternatives becomes actual. The relocation sacrifices Stapp's specific mechanism—the Zeno effect on neural superpositions, a concrete physical story about *how* selection works—but preserves his philosophical architecture and gains immunity to the strongest empirical objection against the original. Since Stapp already states the original on a mixture, what the relocation drops is the repeated projection, and the basis dilemma goes with it.
+A post-decoherence relocation of [[stapp-quantum-mind|Stapp's framework]] keeps its architecture but drops repeated projection. In Stapp's model consciousness chooses which question is put to nature and when (Process 1); nature supplies the outcome (Process 3). On his account (Stapp 2000) that choice already acts on the decohered mixture. The relocation, the Map's move, not Stapp's, shifts the mind's contribution from question-choice to outcome-selection: which component of the improper mixture becomes actual, an added actualisation postulate, no pick among already-definite alternatives. It sacrifices Stapp's mechanism, the Zeno hold, his concrete story of *how* the influence works. With it go the basis dilemma and the timing condition a Zeno hold still owes on standard theory.
 
 ### The Actualisation Model
 
@@ -172,7 +172,7 @@ The Map's framework is compatible with both retrocausal and forward-in-time sele
 
 The [[tenets#^dualism|Dualism]] tenet is served because post-decoherence selection, on the Map's reading, requires something beyond the physical formalism: physics produces the improper mixture but, on this reading, not the definite outcome. A deflationary reading that takes the mixture to settle the outcome on its own is coherent with rather than evidenced by the same formalism, so the dualist gloss is a commitment the Map adds, not one the physics compels (the [[possibility-probability-slippage|possibility/probability slippage]] discipline names this coherent-with-versus-evidenced-by boundary).
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet finds its strongest expression in the post-decoherence variant. Pre-decoherence models require consciousness to maintain coherence against environmental pressure; post-decoherence selection asks consciousness only to choose among the pointer-basis alternatives [[quantum-darwinism-and-consciousness|quantum Darwinism]] has already prepared, within Born statistics. The strict [[selection-only-mind-influence|selection-only reading]] supplies information-theoretic signatures: a per-event ceiling of log₂(N) bits, a Born-rule-preserving rate that vanishes at the ensemble scale, and content-confinement to the brain-generated candidate set.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet finds its strongest expression in the post-decoherence variant. On the usual reading (Stapp dissents), pre-decoherence models require consciousness to maintain coherence against environmental pressure; post-decoherence selection asks consciousness only to choose among the pointer-basis alternatives [[quantum-darwinism-and-consciousness|quantum Darwinism]] has already prepared, within Born statistics. The strict [[selection-only-mind-influence|selection-only reading]] supplies information-theoretic signatures: a per-event ceiling of log₂(N) bits, a Born-rule-preserving rate that vanishes at the ensemble scale, and content-confinement to the brain-generated candidate set.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is enacted: the brain presents decohered alternatives (world-to-mind); consciousness selects among them (mind-to-world). This two-way traffic is instantiated by the framework's construction rather than derived from the post-decoherence opening—the separability of consciousness from the brain that lets the presentation-and-selection traffic occur is the dualist commitment the framework is built on, not a result the improper mixture forces. The [[trilemma-of-selection|trilemma of selection]] argues that, given that commitment, directed resolution of genuine indeterminacy is the only framework preserving authorship—neither determinism nor randomness can deliver it. The asymmetry between third-person measurability of commitment-relevant signal and first-person opacity of the closing-itself—catalogued as the [[decision-void]]—is what an interface doing causal work at a primitive seam predicts: the cause cannot be observed from inside the system whose cause it is.
 

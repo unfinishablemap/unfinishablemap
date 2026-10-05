@@ -5,6 +5,19 @@ ai_modified: 2026-10-05 20:50:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 21:36 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/forward-in-time-conscious-selection]], [[topics/motor-control-quantum-zeno]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source**: [[reviews/tenet-check-2026-10-05]] §Errors, forward-in-time-conscious-selection L121 (Tenets 2 and 3) with its two in-scope siblings; calibrated against `research/zeno-dynamics-on-a-decohered-mixture-2026-10-05` (Executive Summary, The Four Questions).
+- **Premise re-verified today**: all three quoted targets occurred exactly once and were live. Not a no-op.
+- **Changes**: (a) forward-in-time "Stapp's Process 1 Relocated" paragraph rewritten to say one thing: Process 1 is the choice of which question is put and when, nature supplies the outcome; on Stapp's own account (Stapp 2000) the choice already acts on the decohered mixture; the relocation is the Map's move, shifting the mind's contribution from question-choice to outcome-selection on the improper mixture (actualisation postulate, no pick among already-definite alternatives); what is dropped is the Zeno hold, and with it the basis dilemma and the timing condition a Zeno hold still owes on standard theory. Removed: "rather than on quantum superpositions", "the Zeno effect on neural superpositions", "gains immunity to the strongest empirical objection against the original". (b) same file, Minimal Quantum Interaction paragraph: "Pre-decoherence models require…" scoped with "On the usual reading (Stapp dissents)". (c) motor-control-quantum-zeno decoherence paragraph: the "requires only that observation events outpace decoherence" attribution replaced by Stapp's 2000 position (quotation copied from `concepts/process-1-specification-problem`), reported as his, with Georgiev's (2015) redundancy reply as the open crux; a sentence that on the standard theory repeated observation adds something only while it arrives before the environment resolves the same alternatives, and that nobody has computed where a brain sits; the hundreds-of-thousands-of-events burden kept, conditioned on the usual reading. Added Stapp (2000) and Georgiev (2015) to that article's reference list, metadata copied from forward-in-time's list.
+- **Engagement classification**: Georgiev vs Stapp: Mode Three for the Map in both files (reports an open dispute, takes no side; neither "must outpace decoherence" nor "free of any timing requirement" is stated in the Map's voice).
+- **Length**: forward-in-time 3899 → 3899 (topics hard 4000; headroom 100); motor-control-quantum-zeno 3338 → 3445 (headroom 554).
+- **Not done**: `tenets/tenets.md` L71 (operator's); the Chalmers-McQueen year locus in forward-in-time (another task's); the wider "only rapid observation events" sweep the tenet-check names.
+- **ai_system**: `claude-fable-5-1` plus-joined on both files.
+- **Published**: yes
+
 ## 21:22 - refine-draft
 - **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
