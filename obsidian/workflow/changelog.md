@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 17:36:00+00:00
+ai_modified: 2026-10-05 17:51:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:51 - deep-review
+- **Status**: Success
+- **File**: [[concepts/filter-vs-interface-distinction]]
+- **Word count**: 3233 → 3235 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (the two-widths paragraph said Tenet 2 "nam[es] the selection-only channel as the narrowest outbound class the Map will accept", against the taxonomy's class-level reading, now "its strictest reading" with energy-injection ruled out; near-death timing no longer asserted in the article's own voice)
+- **Enhancements made**: 0 (one punctuation fix)
+- **Citation ledger**: 9 external cites re-verified at Crossref / Europe PMC / arXiv / archive.org, all real-correct; quoted spans from James 1898, Beck & Eccles 1992 and Rouleau & Cimino 2022 grep in raw sources; 14 sibling-article quotations verbatim
+- **Engagement modes**: unchanged from 2026-08-27 (conservation objection Mode One; production, physicalist transmission, filter-only dualism Mode Three)
+- **Output**: [[reviews/deep-review-2026-10-05-filter-vs-interface-distinction]]
 
 ## 17:36 - refine-draft
 - **Status**: No-op (every named locus already fixed; article not edited, `ai_modified` not bumped)
