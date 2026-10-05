@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-04 15:08:52+00:00
+ai_modified: 2026-10-05 18:37:28+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 22:19:16+00:00
-lastmod: 2026-10-04 15:08:52+00:00
+lastmod: 2026-10-05 18:37:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -123,7 +123,7 @@ The limit is that the posit is not refuted. Kant's B420 verdict is agnostic in b
 - [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/) — the pre-Critical Kant and the Wolffian milieu
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — the unity argument for dualism
 - [mine-ness](/concepts/mine-ness/) and [haecceity](/concepts/haecceity/) — the features the subject posit relies on
-- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — Kant's separate individuation objection
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The separate individuation objection, reconstructed from Kant's Amphiboly
 - [mereology-of-mind](/apex/mereology-of-mind/) — composition, partition and the individuation boundary
 - [self-opacity](/voids/self-opacity/) — why the subject resists being caught in its own view
 

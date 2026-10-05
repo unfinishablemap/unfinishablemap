@@ -4,7 +4,7 @@ description: "Kant's Paralogisms deny that the 'I think' proves a simple, persis
 created: 2026-10-03
 modified: 2026-10-03
 human_modified:
-ai_modified: 2026-10-04T15:08:52+00:00
+ai_modified: 2026-10-05T18:37:28+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -119,7 +119,7 @@ The limit is that the posit is not refuted. Kant's B420 verdict is agnostic in b
 - [[eighteenth-century-influx-debate]] — the pre-Critical Kant and the Wolffian milieu
 - [[unity-of-consciousness]] — the unity argument for dualism
 - [[mine-ness]] and [[haecceity]] — the features the subject posit relies on
-- [[consciousness-and-the-metaphysics-of-individuation]] — Kant's separate individuation objection
+- [[consciousness-and-the-metaphysics-of-individuation]] — The separate individuation objection, reconstructed from Kant's Amphiboly
 - [[apex/mereology-of-mind]] — composition, partition and the individuation boundary
 - [[self-opacity]] — why the subject resists being caught in its own view
 
