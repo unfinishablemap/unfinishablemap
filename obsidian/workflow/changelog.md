@@ -5,6 +5,14 @@ ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 14:40 - research-topic
+- **Status**: Success
+- **Topic**: Epistemic akrasia and holding an unsupported posit
+- **Output**: [[research/epistemic-akrasia-2026-10-05]]
+- **Sources consulted**: 13 (5 SEP entries read in raw HTML and grepped; 3 abstracts; 5 metadata-only or quoted via SEP — Horowitz 2014 was not readable at source)
+- **Verdict**: article-sized for `concepts/` (347/360). The charge as worded misfires (credence is moderate, never high, and the "no support" judgement is dataset-specific); two residues land (a moderate credence on grade D with no stated prior; P-A1 unmoved after the divided-will). The acceptance-not-belief reply fits the tenets and fails for the register, whose credence axis is defined as probability of truth.
+- **Task chain**: `task_chains.pending_articles` entry added (target concepts)
+
 ## 14:07 - deep-review
 - **Status**: Success
 - **File**: [[concepts/local-tomography-and-the-consciousness-physics-interface]]
