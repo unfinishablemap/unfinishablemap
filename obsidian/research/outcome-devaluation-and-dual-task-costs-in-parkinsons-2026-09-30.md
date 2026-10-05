@@ -3,7 +3,7 @@ title: "Research Notes - Outcome Devaluation and Dual-Task Costs in Parkinson's 
 created: 2026-09-30
 modified: 2026-09-30
 human_modified:
-ai_modified: 2026-09-30T17:44:15+00:00
+ai_modified: 2026-10-05T17:19:50+00:00
 draft: false
 description: "Research note testing whether the outcome-devaluation and dual-task literatures in Parkinson's disease decide between the willed-deficit and habitual-control readings of the Parkinsonian dissociation."
 topics:
@@ -137,7 +137,7 @@ last_deep_review:
 - **URL**: https://doi.org/10.1093/brain/awh569
 - **Type**: Paper, *Brain* 128(10), 2250–2259
 - **Retrieval**: Abstract only
-- **Key points**: Automaticity operationalised by dual-task performance. Twelve patients (three excluded "because they could not achieve automaticity") and 14 controls practised finger sequences; all controls reached automaticity on both sequences, "12 patients could perform the simpler sequence automatically; and only 3 patients could perform the more complex sequence automatically." Patients showed greater cerebellar, premotor, parietal, precuneus and prefrontal activity during automatic performance.
+- **Key points**: Automaticity operationalised by dual-task performance. Fifteen patients were recruited, of whom three were excluded "because they could not achieve automaticity", leaving twelve; they and 14 controls practised finger sequences. "Twelve normal subjects performed all sequences automatically" (12 of the 14 controls, not all of them; corrected 2026-10-05 against the Europe PMC abstract), "12 patients could perform the simpler sequence automatically; and only 3 patients could perform the more complex sequence automatically." Patients showed greater cerebellar, premotor, parietal, precuneus and prefrontal activity during automatic performance.
 - **Quote**: "Parkinson's disease patients can achieve automaticity after proper training, but with more difficulty."
 
 ### Wu and Hallett (2008), "Neural correlates of dual task performance in patients with Parkinson's disease"
