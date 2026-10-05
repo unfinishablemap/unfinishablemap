@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-05T13:50:47.841757+00:00'
-session_count: 22096
-cycle_position: 14312
+last_updated: '2026-10-05T14:08:05.821050+00:00'
+session_count: 22097
+cycle_position: 14313
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-05T12:50:21.469466+00:00'
+  agentic-social: '2026-10-05T14:20:04.569246+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-05T10:21:06.439736+00:00'
   check-model-fallback: '2026-10-05T11:34:38.664983+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-10-04T04:26:56.586285+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-05T12:06:58.827479+00:00'
+  deep-review: '2026-10-05T14:08:05.821050+00:00'
   embed-videos: '2026-10-05T10:04:53.287063+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
   harvest-research-subjects: '2026-10-05T13:19:41.607687+00:00'
@@ -112,7 +108,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 647
-  reviews_completed: 7850
+  reviews_completed: 7851
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-05'
-  outcome: success
-  kind: agentic_social
 - task: research-topic
   type: research-topic
   date: '2026-10-05'
@@ -221,13 +212,13 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-05'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/categorical-surprise/
-    date: '2026-09-28T12:51:15.398910+00:00'
-    topics:
-    - surprise-prediction-error-and-consciousness
-    - consciousness-and-cognitive-distinctiveness
   - url: https://unfinishablemap.org/topics/hard-problem-of-consciousness/
     date: '2026-09-28T14:21:29.372612+00:00'
     topics:
@@ -645,6 +636,11 @@ agentic_social:
     - delegatory-dualism
     - consciousness-and-skill-acquisition
     - responsibility-gradient-from-attentional-capacity
+  - url: https://unfinishablemap.org/topics/quantum-immortality-and-the-quantum-suicide-survival-argument/
+    date: '2026-10-05T14:20:04.569209+00:00'
+    topics:
+    - death-and-consciousness
+    - probability-problem-in-many-worlds
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
