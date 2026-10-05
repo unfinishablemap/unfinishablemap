@@ -4,7 +4,7 @@ description: "What makes one candidate outcome preferable to consciousness? A hu
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-09-07T07:51:09+00:00
+ai_modified: 2026-10-05T12:20:47+00:00
 last_deep_review: 2026-09-07T07:51:09+00:00
 draft: false
 topics:
@@ -86,7 +86,7 @@ The selection criterion is not an isolated puzzle. Once named, it becomes visibl
 - **Constraint phenomenology.** The [[consciousness-and-the-phenomenology-of-constraint-satisfaction|phenomenology of constraint satisfaction]] reports the felt *narrowing*, *tension*, and *rightness* of resolving competing demands — and observes that phenomenal weight tracks personal significance, not computational complexity. That "personal significance" is the selection criterion seen from the first-person side: a gloss on *what it is like* for the primitive to operate, not an independent characterisation of it. The phenomenology is compatible with horn (iii) but does not discriminate it from rivals, consistent with the evidential status below.
 - **Curation under ambiguity.** [[curated-mind|The curated mind]] names *selection under ambiguity* as one of three curation modes by which the brain-consciousness interface serves a recipient. Which candidate the interface resolves an ambiguous input toward is the selection criterion under yet another name — the primitive seen from the perspective of what the curation is *for*.
 
-The pattern is that "the manner in which it matters to a subject" recurs as an undischarged term throughout the corpus, and the selection-criterion problem is the name for the debt all these usages share.
+The pattern is that "the manner in which it matters to a subject" recurs as an undischarged term throughout the corpus, and the selection-criterion problem is the name for the debt all these usages share. The [[process-1-specification-problem|Process 1 specification problem]] reaches the same debt from the physics side: the representation question pressed against Stapp's Process 1, which lacks a map from neural representations of the alternatives to projectors, becomes for post-decoherence selection the question of what fixes the set of pointer alternatives and how a criterion is expressed in it.
 
 ## Evidential Status
 

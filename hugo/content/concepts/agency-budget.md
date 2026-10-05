@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-09-18 10:59:02+00:00
+ai_modified: 2026-10-05 12:20:47+00:00
 ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 10:59:02+00:00
-lastmod: 2026-09-18 10:59:02+00:00
+lastmod: 2026-10-05 12:20:47+00:00
 modified: *id001
 related_articles:
 - '[[apex/born-preserving-causal-efficacy]]'
@@ -97,7 +97,7 @@ One dependency should be flagged rather than asserted. The per-context form of t
 
 **The non-equilibrium reading.** Real ensemble-level agency requires leaving quantum equilibrium, and exact equilibrium means a zero statistical budget. This is [Valentini's programme](/topics/quantum-non-equilibrium-and-the-contingency-of-the-born-rule/) read adversarially rather than as a thesis about consciousness, and its value to the Map is that it prices the fall-back the Map keeps open — a minimum *outside* the corridor is not statistically free.
 
-**The question-choice reading.** Agency's budget might live in which measurement is made and when, rather than in which outcome occurs, leaving Born statistics untouched by construction. The Map has registered this alternative without adopting it, since relocating influence to context-setting weakens outcome-selection. Nothing found in the literature computes whether basis-choice and outcome-choice bandwidths add, trade off, or interact.
+**The question-choice reading.** Agency's budget might live in which measurement is made and when, rather than in which outcome occurs, leaving Born statistics untouched by construction. The Map has registered this alternative without adopting it, since relocating influence to context-setting weakens outcome-selection. The reading also carries an open [specification debt](/concepts/process-1-specification-problem/) over what fixes the basis and grain of the measurement chosen. Nothing found in the literature computes whether basis-choice and outcome-choice bandwidths add, trade off, or interact.
 
 ## What the Budget Does Not Establish {#what-it-does-not-establish}
 

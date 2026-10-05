@@ -1448,15 +1448,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: Reciprocal integration of process-1-specification-problem on the six corridor pages it corrects (quantum-zeno-effect, post-decoherence-selection, selection-criterion-problem, ensemble-level-epiphenomenalism, agency-budget L97, von-neumann-wigner-interpretation)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quantum-zeno-effect.md
-- **Also**: /home/andy/unfin/unfinishablemap/obsidian/concepts/post-decoherence-selection.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/selection-criterion-problem.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/ensemble-level-epiphenomenalism.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/agency-budget.md, /home/andy/unfin/unfinishablemap/obsidian/concepts/von-neumann-wigner-interpretation.md
-- **Source**: optimistic-review 2026-09-30 (optimistic-2026-09-30-concession-wing)
-- **Generated**: 2026-09-30
-- **Notes**: Suggested by optimistic review. See optimistic-2026-09-30-concession-wing.md §Expansion Opportunities (High Priority, first item) and the cross-link table. On 2026-09-30 none of the six pages contains `[[process-1-specification-problem` (grep-verified) although the article names each as a carrier of the question-choice reading or its costs: L39 (Zeno apparatus supplies basis/grain/map; Process 1 supplies none), L81 (post-decoherence selection escapes the basis horn, meets the unconditional-statistics horn = ensemble-level-epiphenomenalism; the representation gap becomes the selection-criterion-problem), L85 (agency-budget L97 "The question-choice reading" carries the reading), von-neumann-wigner has two "Process 1" mentions. One reciprocal sentence per page, piped where possible. Headroom measured 2026-09-30 by tools.curate.length.analyze_length (hard 3500): quantum-zeno-effect 659, post-decoherence-selection 620, selection-criterion-problem 893, ensemble-level-epiphenomenalism 1087, agency-budget 906, von-neumann-wigner-interpretation 639 — re-measure before editing. EXCLUDED by design: born-rule-and-the-consciousness-interface L165 ("fixes what is asked rather than what happens") is hard_warning (−1446) and operator-blocked; do not open it. Edit all six or record which were dropped and why; sync to hugo and check the Hugo copies.
-
 ### P3: Add Parfit's temporal-neutrality consolation to death-and-consciousness (making time-bias L102 true) and reciprocate time-bias-and-thank-goodness-thats-over from philosophy-of-time, phenomenology-of-anticipation and temporal-consciousness
 - **Type**: refine-draft
 - **Status**: pending
@@ -1995,6 +1986,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: Reciprocal integration of process-1-specification-problem on the six corridor pages it corrects (quantum-zeno-effect, post-decoherence-selection, selection-criterion-problem, ensemble-level-epiphenomenalism, agency-budget L97, von-neumann-wigner-interpretation)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quantum-zeno-effect.md
+- **Notes**: Suggested by optimistic review. See optimistic-2026-09-30-concession-wing.md §Expansion Opportunities (High Priority, first item) and the cross-link table. On 2026-09-30 none of the six pages contains `[[process-1-specification-problem` (grep-verified) although the article names each as a carrier of the question-choice reading or its costs: L39 (Zeno apparatus supplies basis/grain/map; Process 1 supplies none), L81 (post-decoherence selection escapes the basis horn, meets the unconditional-statistics horn = ensemble-level-epiphenomenalism; the representation gap becomes the selection-criterion-problem), L85 (agency-budget L97 "The question-choice reading" carries the reading), von-neumann-wigner has two "Process 1" mentions. One reciprocal sentence per page, piped where possible. Headroom measured 2026-09-30 by tools.curate.length.analyze_length (hard 3500): quantum-zeno-effect 659, post-decoherence-selection 620, selection-criterion-problem 893, ensemble-level-epiphenomenalism 1087, agency-budget 906, von-neumann-wigner-interpretation 639 — re-measure before editing. EXCLUDED by design: born-rule-and-the-consciousness-interface L165 ("fixes what is asked rather than what happens") is hard_warning (−1446) and operator-blocked; do not open it. Edit all six or record which were dropped and why; sync to hugo and check the Hugo copies.
 
 ### ✓ 2026-10-05: Research Constructivism about contemplative experience
 - **Type**: research-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-09-04 13:55:39+00:00
+ai_modified: 2026-10-05 12:20:47+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-23 11:46:24+00:00
-lastmod: 2026-09-04 13:55:39+00:00
+lastmod: 2026-10-05 12:20:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ Henry Stapp developed what is arguably the most sophisticated successor to the v
 
 Stapp's approach differs from von Neumann–Wigner in where it locates consciousness within the formalism. Wigner's framing pictures consciousness as collapsing the wave function from a position the Schrödinger equation does not include; Stapp's consciousness acts at the "Heisenberg choice" (Process 1 in von Neumann's formalism)—selecting which question to pose to nature—a step the formalism explicitly leaves unspecified. The contrast is real but narrower than it sounds. Stapp's question-selection is still a non-physical influence on physics; it just enters at the question-selection step rather than at the collapse step. The honest description is that Stapp locates consciousness *within the existing von Neumann formalism* rather than as an external addition to it.
 
-Whether this preserves [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) more strongly than Wigner's framing depends on how minimality is measured. If minimality counts the *amount* of non-physical influence (how much probability mass is shifted), Stapp and Wigner may be on a par. If it counts the *location* of the influence (whether the formalism must be modified or only inhabited), the Process-1 placement has the edge: an interpretation that lives at Process 1 leaves the Schrödinger dynamics and the Born rule intact, a genuine virtue for theoretical conservativeness even if not strictly for minimality.
+Whether this preserves [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) more strongly than Wigner's framing depends on how minimality is measured. If minimality counts the *amount* of non-physical influence (how much probability mass is shifted), Stapp and Wigner may be on a par. If it counts the *location* of the influence (whether the formalism must be modified or only inhabited), the Process-1 placement has the edge: an interpretation that lives at Process 1 leaves the Schrödinger dynamics and the Born rule intact, a genuine virtue for theoretical conservativeness even if not strictly for minimality. The placement has a price of its own: Born-consistent projection is the case the basis dilemma against Stapp's model is built for, and what fixes the projector is the open [Process 1 specification problem](/concepts/process-1-specification-problem/).
 
 That conservativeness virtue is one the Map **acknowledges but does not adopt**. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet commits the Map to influence over *which outcome* becomes actual, not merely over which measurement the brain performs; a Process-1-only relocation is registered there as an alternative the Map could take but declines, because letting consciousness select only the *question* (context) and leaving the *answer* to nature would weaken outcome-selection to context-setting and thereby weaken the tenet. The path the Map endorses most strongly is *post-decoherence outcome selection*—selecting which outcome becomes actual from the improper reduced-state mixture left after decoherence completes, an additional actualisation postulate rather than a pick from a pre-existing classical menu of already-definite alternatives—which buys back much of Stapp's coherence-survival economy without surrendering outcome-selection to the Heisenberg choice; see [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) for the flagship statement of that path and [the tenets' outcome-vs-context choice](/tenets/#bidirectional-interaction) for where the commitment is fixed. The Stapp lineage is therefore preserved here as the historically sharpest successor to von Neumann–Wigner and a useful contrast pole, not as the placement the Map favours.
 

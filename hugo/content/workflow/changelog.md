@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:22 - refine-draft
+- **Status**: Success
+- **File**: [quantum-zeno-effect](/concepts/quantum-zeno-effect/) (six-file reciprocal-integration task; also [post-decoherence-selection](/concepts/post-decoherence-selection/), [selection-criterion-problem](/concepts/selection-criterion-problem/), [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), [agency-budget](/concepts/agency-budget/), [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/))
+- **Original score**: not scored (`scripts/curate.py` absent; targeted link-integration pass)
+- **Premise re-verified**: body count of `process-1-specification-problem` was 0 on all six before editing (frontmatter stripped); none was a no-op, none dropped.
+- **Changes**: one reciprocal sentence per page pointing at [process-1-specification-problem](/concepts/process-1-specification-problem/), each stating only what that page says of the host and keeping its concession calibration (no refutation claimed). quantum-zeno-effect 2840 → 2875 (projector basis/grain supplied by apparatus in the laboratory, by neither in Process 1 as stated); post-decoherence-selection 3141 → 3189 (escapes the basis dilemma, meets the unconditional-statistics point; also gains its first body link to ensemble-level-epiphenomenalism); selection-criterion-problem 2606 → 2658 (representation question in a different form); ensemble-level-epiphenomenalism 2474 → 2499 (second horn's printed counterpart; trimmed to stay under soft 2500); agency-budget 2593 → 2612 (piped "specification debt" in the question-choice paragraph); von-neumann-wigner-interpretation 2860 → 2894 (Process-1 placement has a price; piped). Critics are not named in the host sentences because none of the six carries Donald, Georgiev or de Barros in its References.
+- **Excluded by design**: `born-rule-and-the-consciousness-interface` (hard_warning, operator-blocked) not opened.
+- **Reasoning modes**: no named-opponent reply added or altered.
+- **Published**: yes
+
 ## 12:06 - deep-review
 - **Status**: Success
 - **File**: [interpreter-module-narrative-construction-unity](/concepts/interpreter-module-narrative-construction-unity/)

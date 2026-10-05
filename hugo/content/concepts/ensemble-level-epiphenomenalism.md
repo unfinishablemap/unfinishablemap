@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-02 14:29:15+00:00
+ai_modified: 2026-10-05 12:20:47+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:09:12+00:00
-lastmod: 2026-10-02 14:29:15+00:00
+lastmod: 2026-10-05 12:20:47+00:00
 modified: *id001
 related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
@@ -40,7 +40,7 @@ Begin with what corridor dualism claims. At a quantum measurement with possible 
 
 A further precondition, logically prior to the whole token-versus-ensemble debate, is that a brain-scale superposition survives long enough for any selection to act on. The warm-brain decoherence objection is carried — and contested — outside this article; see [decoherence](/concepts/decoherence/) and the [interface-formalism cluster](/concepts/mind-matter-interface/). This page assumes that precondition rather than defending it.
 
-The worry runs as a dilemma. Either the selection correlates systematically with conscious states — in which case there should be *some* detectable departure from Born statistics conditional on conscious involvement, which the objector takes to contradict the corridor's defining claim — or it does not so correlate, in which case the selection is statistically indistinguishable from the physical randomness it was supposed to replace. On the first horn the corridor reading is not corridor-compliant; on the second, consciousness appears to make no difference that any measurement, even in principle, could register. The objector concludes that the second horn collapses interactionism into a *de facto* [idleness](/concepts/inference-to-the-best-explanation-against-dualism/): an interface that touches the physical world only in ways the physical world's own statistics already account for.
+The worry runs as a dilemma. Either the selection correlates systematically with conscious states — in which case there should be *some* detectable departure from Born statistics conditional on conscious involvement, which the objector takes to contradict the corridor's defining claim — or it does not so correlate, in which case the selection is statistically indistinguishable from the physical randomness it was supposed to replace. On the first horn the corridor reading is not corridor-compliant; on the second, consciousness appears to make no difference that any measurement, even in principle, could register. The objector concludes that the second horn collapses interactionism into a *de facto* [idleness](/concepts/inference-to-the-best-explanation-against-dualism/): an interface that touches the physical world only in ways the physical world's own statistics already account for. The second horn has a printed counterpart aimed at Stapp's Zeno model ([Process 1 specification problem](/concepts/process-1-specification-problem/)): averaging Born-consistent collapses over outcomes returns the density matrix decoherence already gave.
 
 ## Why This Is Not Classical Epiphenomenalism
 

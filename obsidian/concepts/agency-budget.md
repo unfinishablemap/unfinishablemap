@@ -4,7 +4,7 @@ description: "How much selection survives exact Born-rule preservation: a coupli
 created: 2026-08-16
 modified: 2026-08-16
 human_modified:
-ai_modified: 2026-09-18T10:59:02+00:00
+ai_modified: 2026-10-05T12:20:47+00:00
 last_deep_review: 2026-09-18T10:59:02+00:00
 draft: false
 topics:
@@ -94,7 +94,7 @@ One dependency should be flagged rather than asserted. The per-context form of t
 
 **The non-equilibrium reading.** Real ensemble-level agency requires leaving quantum equilibrium, and exact equilibrium means a zero statistical budget. This is [[quantum-non-equilibrium-and-the-contingency-of-the-born-rule|Valentini's programme]] read adversarially rather than as a thesis about consciousness, and its value to the Map is that it prices the fall-back the Map keeps open — a minimum *outside* the corridor is not statistically free.
 
-**The question-choice reading.** Agency's budget might live in which measurement is made and when, rather than in which outcome occurs, leaving Born statistics untouched by construction. The Map has registered this alternative without adopting it, since relocating influence to context-setting weakens outcome-selection. Nothing found in the literature computes whether basis-choice and outcome-choice bandwidths add, trade off, or interact.
+**The question-choice reading.** Agency's budget might live in which measurement is made and when, rather than in which outcome occurs, leaving Born statistics untouched by construction. The Map has registered this alternative without adopting it, since relocating influence to context-setting weakens outcome-selection. The reading also carries an open [[process-1-specification-problem|specification debt]] over what fixes the basis and grain of the measurement chosen. Nothing found in the literature computes whether basis-choice and outcome-choice bandwidths add, trade off, or interact.
 
 ## What the Budget Does Not Establish {#what-it-does-not-establish}
 

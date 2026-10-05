@@ -4,7 +4,7 @@ description: "Post-decoherence selection is whatever actualizes one outcome from
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-10-03T01:11:13+00:00
+ai_modified: 2026-10-05T12:20:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ Established quantum consciousness proposals—Stapp's quantum Zeno mechanism and
 
 The Map's post-decoherence selection proposal sidesteps this objection entirely. If consciousness acts on the already-decohered mixture—fixing which single outcome the improper mixture resolves to—the decoherence timescale becomes irrelevant. Consciousness operates not on fragile quantum superpositions but on the robust, classically distinguishable branch structure that decoherence has already prepared. That structure supplies distinguishable candidate outcomes without settling any of them as the actual one; the point of contact is the actualization itself, not a choice among pre-decided actualities. The companion topic article [[forward-in-time-conscious-selection]] catalogues the candidate mechanisms (pre-decoherence variants from Penrose-Hameroff, Stapp, and Chalmers-McQueen alongside the post-decoherence path) and shows why the post-decoherence variant is the Map's strongest version of the forward-in-time strategy.
 
-The metaphysical advantage is significant: immunity to the strongest empirical objection against quantum consciousness theories. The epistemological cost is equally significant: post-decoherence selection is harder to falsify. Pre-decoherence models make predictions about coherence maintenance in biological tissue that experiments could in principle test. Post-decoherence models sit mostly at the interpretive level—the gap between formalism and outcome—where empirical access is indirect, though not absent: their need for absolute outcomes, [[#absolute-outcomes-and-the-local-friendliness-theorem|explained below]], exposes them in principle to extended Wigner's-friend experiments, so their insulation from test is partial.
+The metaphysical advantage is significant: immunity to the strongest empirical objection against quantum consciousness theories. The epistemological cost is equally significant: post-decoherence selection is harder to falsify. Pre-decoherence models make predictions about coherence maintenance in biological tissue that experiments could in principle test. Post-decoherence models sit mostly at the interpretive level—the gap between formalism and outcome—where empirical access is indirect, though not absent: their need for absolute outcomes, [[#absolute-outcomes-and-the-local-friendliness-theorem|explained below]], exposes them in principle to extended Wigner's-friend experiments, so their insulation from test is partial. A second cost is set out in [[process-1-specification-problem|Process 1 specification problem]]: choosing no basis and repeating no projection, the proposal escapes the basis dilemma pressed against Stapp's Zeno model, but a selection running at the Born rate leaves the unconditional density matrix where decoherence left it, the worry carried as [[ensemble-level-epiphenomenalism]].
 
 ## Absolute Outcomes and the Local Friendliness Theorem
 
