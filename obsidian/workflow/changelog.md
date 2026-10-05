@@ -5,6 +5,18 @@ ai_modified: 2026-10-05 09:50:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 15:20 - refine-draft
+- **Status**: Success (3 of 3 loci applied with the review's exact text)
+- **File**: [[concepts/process-1-specification-problem]]
+- **Review**: `reviews/optimistic-2026-10-05-quantum-interface-concession-corridor` Priority List item 1
+- **Original score**: n/a (`scripts/curate.py` absent; targeted three-locus pass)
+- **Length**: 2,979 → 3,086 of hard 3,500 by `analyze_length` (+107 as costed; headroom 520 → 413).
+- **Changes**: (a) "What Process 1 Leaves Unsaid": added Stapp 2000's own statement that the Zeno effect "is not destroyed by the fact that" the brain state "is a mixture: that makes no difference at all" because it "originates not in interference effects" (reference 7, already listed; "the brain state" stands outside the quotation marks for the source's S(t)b). (b) Same paragraph: added Georgiev's formal no-wavefunction objection as quoted in Stapp's 2012 reply, with Stapp's answer; this gives the `stapp-quantum-mind` "remains open" pipe a target that discusses the objection (that page not edited). (c) Georgiev section: "narrower than its title" → "narrower than the \"no-go\" label suggests" (Theorem 4 has no title). Each old string confirmed to occur exactly once before editing.
+- **References**: none added. The new text cites Georgiev 2012 (reference 3), Stapp 2000 (reference 7) and Stapp 2012 (reference 8), all already listed; the review's text does not cite the 2017 book, so no entry was needed and none invented.
+- **Calibration**: Stapp's position reported as his; no verdict added. Georgiev's redundancy reply remains the stated open crux in "Stapp's Concession and the Open Crux", untouched. The 2012 quotation in (b) is from the LBL draft and is covered by the existing draft-not-print parenthesis and reference 8's note; no claim that print differs was carried forward.
+- **Reasoning mode (editor record)**: engagement with Georgiev: unchanged, in-framework (his theorem and Stapp's reply reported at source, crux left open); engagement with Stapp: report of his own stated position, no refutation claimed either way.
+- **Published**: yes
+
 ## 14:52 - refine-draft
 - **Status**: Success (7 of 10 files edited; 3 dropped for want of an honest anchor)
 - **File**: [[concepts/mine-ness]] (first of a ten-file reciprocal-link task from `reviews/optimistic-2026-09-30-concession-wing` §Cross-Linking Suggestions)

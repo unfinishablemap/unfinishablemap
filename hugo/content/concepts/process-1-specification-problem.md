@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-28
-ai_modified: 2026-10-05 13:35:30+00:00
+ai_modified: 2026-10-05 15:20:03+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-28 17:26:20+00:00
-lastmod: 2026-10-05 13:35:30+00:00
+lastmod: 2026-10-05 15:20:03+00:00
 modified: *id001
 related_articles:
 - '[[apex/post-decoherence-selection-programme]]'
@@ -38,7 +38,7 @@ None of this refutes Process 1, and this page claims no refutation. Georgiev's t
 
 ## What Process 1 Leaves Unsaid
 
-In von Neumann's scheme as Stapp reads it, Process 1 is the choice of which yes/no question to ask, Process 2 is Schrödinger evolution, and nature's answer follows a statistical rule. Stapp's quantum Zeno mechanism (see [quantum-zeno-effect](/concepts/quantum-zeno-effect/) and [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) has the mind ask the same question rapidly enough to hold a chosen neural pattern against the brain's own spreading. In his 2012 reply to Georgiev's decoherence critique (Georgiev 2012) he calls the Process 1 postulates "neither novel nor mine", identifying them with the Copenhagen experimenter's free choice.
+In von Neumann's scheme as Stapp reads it, Process 1 is the choice of which yes/no question to ask, Process 2 is Schrödinger evolution, and nature's answer follows a statistical rule. Stapp's quantum Zeno mechanism (see [quantum-zeno-effect](/concepts/quantum-zeno-effect/) and [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) has the mind ask the same question rapidly enough to hold a chosen neural pattern against the brain's own spreading. The model was built to survive decoherence, not to outrun it: Stapp's 2000 reply to Tegmark says the Zeno effect "is not destroyed by the fact that" the brain state "is a mixture: that makes no difference at all", because it "originates not in interference effects". In his 2012 reply to Georgiev's decoherence critique (Georgiev 2012) he calls the Process 1 postulates "neither novel nor mine", identifying them with the Copenhagen experimenter's free choice. The same reply calls "profoundly incorrect" Georgiev's formal objection, which it quotes as denying that von Neumann's formulation has minds "which do not possess their own wave functions, or density matrices, but can interact with other physical objects"; Stapp's answer is that von Neumann's final placement of the cut puts the observer's experience above the quantum description by design.
 
 This leaves three things unspecified. A projection operator has a *basis* (which observable), a *grain* (how fine a partition of that observable's spectrum), and, if it is the mind's rather than the laboratory's, a *map* from whatever the brain represents as the alternatives to the operator applied. Laboratory Zeno experiments supply all three through apparatus. Process 1 as stated supplies a rule for picking among experience-projectors, quoted below, and no account of the projectors themselves. The three critiques below are three ways of arguing that the answer to "who does?" cannot be "the mind alone".
 
@@ -64,7 +64,7 @@ Two consequences matter here. First, collapse does not help. "Both collapse and 
 
 Georgiev leaves one door open, a decoherence-free subspace in which unitaries "hide" the initial state and later restore it, which he calls "admittedly speculative"; the question then becomes why a subspace of the brain escapes decoherence.
 
-The theorem's scope is narrower than its title. It assumes projections that are *brain-local* and *Born-consistent*. It says nothing against a model that bends Born weights, and nothing against a model that does not rely on repeated projection at all.
+The theorem's scope is narrower than the "no-go" label suggests. It assumes projections that are *brain-local* and *Born-consistent*. It says nothing against a model that bends Born weights, and nothing against a model that does not rely on repeated projection at all.
 
 ## Stapp's Concession and the Open Crux
 
