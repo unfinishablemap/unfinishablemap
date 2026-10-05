@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 18:36:34+00:00
+ai_modified: 2026-10-05 19:40:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:40 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 114 (every file in topics/ concepts/ apex/ voids/ tenets/ project/ changed since 2026-10-03T20:08Z; 7 new articles read in full)
+- **Errors**: 4 (materialism L178, comparing-quantum-consciousness-mechanisms L161, forward-in-time-conscious-selection L121, mental-effort L94 carried)
+- **Warnings**: 21 loci in 18 files
+- **Notes**: today's Tenet 4 concessions to the diverging-worlds reading and the Stapp (2000) reporting are calibrated; no content file or todo.md edited
+- **Output**: [[reviews/tenet-check-2026-10-05]]
 
 ## 19:06 - refine-draft
 - **Status**: Success
