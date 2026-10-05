@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-05T10:04:53.287063+00:00'
-session_count: 22081
+last_updated: '2026-10-05T10:21:06.439736+00:00'
+session_count: 22082
 cycle_position: 14304
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-05T09:05:12.291346+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
-  check-links: '2026-10-03T19:09:30.428133+00:00'
+  check-links: '2026-10-05T10:21:06.439736+00:00'
   check-model-fallback: '2026-10-05T07:19:40.644467+00:00'
   check-tenets: '2026-10-03T20:08:19.847049+00:00'
   coalesce: '2026-10-04T18:39:16.154936+00:00'
@@ -121,11 +121,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-04'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-04'
@@ -218,6 +213,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-05'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-10-05'
   outcome: success
   kind: trigger
@@ -698,6 +698,8 @@ task_chains:
     target_section: topics
   - research_file: obsidian/research/agency-incompatibilism-stewards-settlers-2026-10-05.md
     target_section: topics
+  - research_file: obsidian/research/voids-grammar-void-2026-10-05.md
+    target_section: voids
   pending_cross_reviews: []
 tune_system_history:
   no_change_runs:
