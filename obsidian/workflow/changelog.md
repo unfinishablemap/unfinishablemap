@@ -5,6 +5,19 @@ ai_modified: 2026-10-05 20:50:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 22:55 - deep-review
+- **Status**: Success
+- **File**: [[concepts/no-self-objection-to-phenomenal-value]]
+- **Previous review**: [[reviews/deep-review-2026-08-27-no-self-objection-to-phenomenal-value]] (39 days; delta since = one rescoped sentence at §Value without an owner + one `concepts:` entry; References unchanged)
+- **Word count**: 3495 → 3495 (±0; concepts hard 3500, strict length-neutral — an intermediate 3505 `hard_warning` was trimmed back with in-article repetitions)
+- **Critical issues addressed**: 1 — §Implications credited Tenet 1 with positing a "subject-side of experience"; the tenet posits irreducibility and is neutral on bearers (`tenets.md` L53). The sibling `the-ownerless-suffering-argument` installed exactly this scoping on 2026-09-23 (`da6c8eae68`) without it propagating here. Now reads: Tenet 1 "supplies the locus's irreducibility, not its existence ... identifying the locus with the subject-side of experience is the Map's commitment rather than the tenet's".
+- **Medium issues addressed**: 2 — Albahari "writing from within Buddhism" → "working from Buddhist sources"; Zahavi 2011 gloss made specific ("against Albahari's and Dreyfus's objections"), which closes the prior review's open verification item (chapter abstract reached via the MPG EVA mirror; OUP/PhilPapers still 403).
+- **Citations**: References unchanged, so the 2026-08-27 16-DOI ledger stands; quotation-bearing entries re-grepped at raw source this pass: Coseru 2012 (5/5 phrases verbatim after tag-stripping — plain `grep -F` on the raw HTML false-zeros three of them), Metzinger 2020 (4/4 verbatim in `pdftotext` of the current `download/8960/8538` PDF; the prior `download/46/26` path now 404s). Superlative sweep empty.
+- **Enhancements made**: 3 (tenet scoping, Zahavi specificity, Albahari standpoint); 6 repetition trims to pay for them, each a restatement of a point made earlier in the same article.
+- **Engagement classification** (unchanged): Metzinger/MPE Mixed (Mode One then Three); Parfit Mode Three; Siderits/Hidalgo Mode One; Alweiss Mode Three; diachronic-welfare objector Mode Three.
+- **Residue**: diachronic mattering still unengaged (by design, no headroom); page sits at 3495/3500 so any future cross-link install must be paid for inline.
+- **Output**: [[reviews/deep-review-2026-10-05-no-self-objection-to-phenomenal-value]]
+
 ## 22:36 - refine-draft
 - **Status**: Success
 - **File**: [[topics/motor-control-quantum-zeno]]
