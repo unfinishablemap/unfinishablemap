@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 13:50 - refine-draft
+- **Status**: Success
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), [quantum-zeno-effect](/concepts/quantum-zeno-effect/)
+- **Review file**: [pessimistic-2026-10-05-process-1-specification-problem](/reviews/pessimistic-2026-10-05-process-1-specification-problem/) (Priority List item 4, exact old/new text; each old string matched exactly once)
+- **Original score**: not scored (`scripts/curate.py` is absent; the review's findings were the brief)
+- **Changes**: (a) `ensemble-level-epiphenomenalism` L39: "returns the density matrix decoherence already gave" → "returns the density matrix a no-collapse account predicts" (+1; 2,502 → 2,503). Georgiev's averaging point compares collapse with no-collapse descriptions of the mind's projections; the two matrices coincide only when the mind's basis is the pointer basis. (b) `quantum-zeno-effect` L76: "Behind both" → "Beside both" (0). (c) Same sentence, added by the driver after commit 60e61a75 corrected the Process 1 page: "supplies neither as stated" → "supplies a rule for picking among projectors and, as stated, an account of neither" (+10; 2,878 → 2,888), mirroring the Process 1 page L39 ("a rule for picking among experience-projectors ... and no account of the projectors themselves"). No new quotation. (d) `post-decoherence-selection` L88 checked and left unchanged: "leaves the unconditional density matrix where decoherence left it" is said of a Born-rate selection among pointer outcomes, where it is correct, and matches the Process 1 page L81.
+- **Engagement classification**: none changed; the edits correct a report of Georgiev and of Stapp, not a reply to either.
+- **Published**: yes
+
 ## 13:36 - refine-draft
 - **Status**: Success
 - **File**: [process-1-specification-problem](/concepts/process-1-specification-problem/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-10-05 12:20:47+00:00
+ai_modified: 2026-10-05 13:50:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 16:42:28+00:00
-lastmod: 2026-10-05 12:20:47+00:00
+lastmod: 2026-10-05 13:50:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ A mature adjacent literature characterises bath spectral densities for warm biom
 
 Stapp's *Mindful Universe* (Springer, 2007) applies the quantum Zeno effect to mind and brain. On his reading, a chosen neural template exists as a state that would naturally evolve and dissipate; rapid repeated conscious "observation"—attention—holds it stable, biasing which template crosses the threshold for action without injecting energy, by selecting among existing potentialities rather than adding force. This is distinct from his earlier "Quantum Interactive Dualism" writings (LBNL 2005 / *Zygon* 2006); the Zeno mechanism as the Map uses it traces to the 2007 book.
 
-Two interpretive burdens attach to this move, and the mechanism page should state them plainly rather than smuggle them past the reader. First, quantum projection is not in general energy-conserving, so the claim that conscious selection respects conservation laws is something the interpretation must argue (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)), not a free consequence of the formalism. Second, "observation" in physics ordinarily denotes a physical measurement coupling, whereas Stapp's proposal requires it to denote an agent's attention; equating the two is a substantive commitment. Behind both sits a further debt, the [Process 1 specification problem](/concepts/process-1-specification-problem/): laboratory Zeno experiments fix the projector's basis and grain through apparatus, and Stapp's Process 1 (the mind's choice of which question is put) supplies neither as stated.
+Two interpretive burdens attach to this move, and the mechanism page should state them plainly rather than smuggle them past the reader. First, quantum projection is not in general energy-conserving, so the claim that conscious selection respects conservation laws is something the interpretation must argue (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)), not a free consequence of the formalism. Second, "observation" in physics ordinarily denotes a physical measurement coupling, whereas Stapp's proposal requires it to denote an agent's attention; equating the two is a substantive commitment. Beside both sits a further debt, the [Process 1 specification problem](/concepts/process-1-specification-problem/): laboratory Zeno experiments fix the projector's basis and grain through apparatus, and Stapp's Process 1 (the mind's choice of which question is put) supplies a rule for picking among projectors and, as stated, an account of neither.
 
 The [decoherence](/concepts/decoherence/) objection sharpens the difficulty. Tegmark's calculations placed neural coherence times near femtoseconds; Hagan and colleagues (2002) revised this upward to microseconds in microtubules, though Reimers, McKemmish and colleagues (2009) contest the parameters that estimate rests on. Even taking the microsecond figure, outpacing decoherence would demand observation intervals of a microsecond or shorter—on the order of hundreds of thousands of discrete observation events within a single ~300 ms decision window—and no concrete model supplies events at that rate. The [timing gap](/concepts/timing-gap-problem/) relocates rather than closes under Stapp's discrete-event framing. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
 
