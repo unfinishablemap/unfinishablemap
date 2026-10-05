@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-04 18:38:07+00:00
+ai_modified: 2026-10-05 08:27:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:27 - research-topic
+- **Status**: Success
+- **Topic**: Anticipatory feeling and time preference: is the felt currency hyperbolic?
+- **Output**: [[research/anticipatory-feeling-and-time-preference-2026-10-05]]
+- **Task**: harvested from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` (New Article Subject 1); target `topics/`, intended slug `anticipatory-feeling-and-time-preference`.
+- **Sources consulted**: 17 cited. 8 read as raw artefacts (Loewenstein 1987 and 1996, Story et al. 2013, Berns et al. 2006, Harris 2012 in full; Ainslie 2017, Iigaya et al. 2016, Kim & Zauberman 2009 in part); 9 abstract-only. 6 web searches.
+- **Headline finding**: the test the-divided-will sets ("independently shown to be hyperbolic") has never been run. No study fits functional forms to a felt anticipatory measure. The models assume exponential rise (Loewenstein 1987; Story 2013) or constant dread (Berns 2006), and Story et al. set the hyperbolic form aside in so many words, saying the dread-augmented function depends "little on the precise shape of the basic discounting function".
+- **The test is also mis-specified**: reversal needs non-stationarity, and a proximity-weighted anticipation term supplies it with exponential components. Loewenstein derives "reverse time inconsistency"; Harris (Study 4, N = 193, hypothetical shocks) reports a dread-driven reversal as the modal pattern (76% of the 103 who took 40 V now over 36 V in a week reversed with 24 weeks interposed), with the classic hyperbolic-direction reversal at 6%.
+- **Split verdict for the Map**: on aversive outcomes a felt currency derives expedited pain, which hyperbolic outcome valuation only accommodates. On appetitive outcomes savouring favours delay, so the akratic reversal must come from impatience or visceral craving (Loewenstein 1996; Hardisty & Weber 2020), with no measured curve. The favourable asymmetry attaches to a felt currency and gives nothing to a unitary selector; Iigaya et al. (2020) put anticipatory utility in vmPFC.
+- **Quote verification**: every quotation marked verbatim was script-matched against the raw text (62 quoted strings checked; the unmatched ones are abstract quotations checked against API output, plus one Harris range that was cut back because the PDF text layer has an unreadable glyph before the lower bound). Loewenstein 1987 quotations are whitespace-normalised from an OCR layer and flagged as such.
+- **Task-lead correction**: the "2004 reprint" doi 10.1515/9781400829118-029 is the 1996 OBHDP paper (65(3), 272–292, doi 10.1006/obhd.1996.0028) reprinted as ch. 26 of *Advances in Behavioral Economics*; the 1996 original was the one read.
+- **Not reached**: Frederick et al. 2002 and Loewenstein et al. 2001 beyond abstracts (image-only scans); Hardisty & Weber full text; the philosophical time-bias literature; any cue-versus-delay experiment testing Loewenstein's 1996 contrast. All listed in the note's Gaps section.
+- **Chain**: `task_chains.pending_articles` entry added (target_section topics). Suggested follow-up beyond the expand-topic: a one-sentence correction to the-divided-will §accommodation.
 
 ## 07:55 - refine-draft
 - **Status**: Success

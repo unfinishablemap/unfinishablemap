@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Anticipatory feeling and time preference: is the felt currency hyperbolic?
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 1: the-divided-will makes the value-sensitive horn's account of preference reversal 'ad hoc unless the felt-valence currency is independently shown to be hyperbolic'; the anticipatory-utility literature (savouring and dread) is where that would be shown or refuted. Leads to verify at source, not findings: Loewenstein 1987 (doi 10.2307/2232929), Berns et al. 2006 (doi 10.1126/science.1123721), Story et al. 2013 (doi 10.1371/journal.pcbi.1003335). Start from concepts/affective-forecasting-gap L28 (anticipated vs anticipatory emotion). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/anticipatory-feeling-and-time-preference-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'anticipatory-feeling-and-time-preference' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-05
-
 ### P2: Research Self-deception and the divided mind
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 2: self-deception is akrasia's doxastic twin and Davidson built the partition for both; no live article. Map stake: partition against Mele's deflation, and the verification limit (P-A4) applied to belief. Leads to verify at source: Davidson 'Deception and Division' (doi 10.1093/0198237545.003.0013), Mele Self-Deception Unmasked 2001 (doi 10.1515/9781400823970), SEP 'Self-Deception'. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/self-deception-and-the-divided-mind-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'self-deception-and-the-divided-mind' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2040,6 +2034,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: Research Anticipatory feeling and time preference: is the felt currency hyperbolic?
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 1: the-divided-will makes the value-sensitive horn's account of preference reversal 'ad hoc unless the felt-valence currency is independently shown to be hyperbolic'; the anticipatory-utility literature (savouring and dread) is where that would be shown or refuted. Leads to verify at source, not findings: Loewenstein 1987 (doi 10.2307/2232929), Berns et al. 2006 (doi 10.1126/science.1123721), Story et al. 2013 (doi 10.1371/journal.pcbi.1003335). Start from concepts/affective-forecasting-gap L28 (anticipated vs anticipatory emotion). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/anticipatory-feeling-and-time-preference-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'anticipatory-feeling-and-time-preference' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-05: Verify ai_system attribution after model-fallback event (2026-10-05)
 - **Type**: refine-draft
