@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-02-24
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-04T12:46:21+00:00
+ai_modified: 2026-10-05T14:52:08+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -83,7 +83,7 @@ In schizophrenic thought insertion, patients report thoughts occurring "in their
 
 ### Contemplative Dissolution
 
-Buddhist *anattā* (no-self) practice systematically searches for the owner of experience and fails to find it. Each element of experience—body, sensation, perception, mental formations, consciousness—is examined, and for each the sense of "mine" is found to be impermanent and unfixable. Across many traditions—Theravāda insight meditation, certain Advaita Vedānta witness practices, varieties of Zen—advanced practitioners report states in which experience continues without a felt sense of "someone experiencing it." Unlike DPD, this is usually described as peaceful or liberating. The [[comparative-phenomenology-of-meditative-traditions]] article surveys the cross-cultural data.
+Buddhist *anattā* (no-self) practice systematically searches for [[pudgalavada|the owner of experience]] and fails to find it. Each element of experience—body, sensation, perception, mental formations, consciousness—is examined, and for each the sense of "mine" is found to be impermanent and unfixable. Across many traditions—Theravāda insight meditation, certain Advaita Vedānta witness practices, varieties of Zen—advanced practitioners report states in which experience continues without a felt sense of "someone experiencing it." Unlike DPD, this is usually described as peaceful or liberating. The [[comparative-phenomenology-of-meditative-traditions]] article surveys the cross-cultural data.
 
 The contemplative evidence reinforces the depersonalisation evidence: mine-ness can fade while consciousness continues. Deane, Miller and Wilkinson bring the two approaches under one description using the active inference framework—the self emerges from a "temporally deep generative model," and both DPD and advanced meditation involve its dissolution, by involuntary collapse in the first case and deliberate relaxation in the second. The contemplative data also add something new: the loss of mine-ness is not intrinsically aversive. The same structural absence produces terror when entered involuntarily and equanimity when entered deliberately. This affective dissociation suggests that the *valence* attached to mine-ness's presence or absence is a separate feature again, layered on top of mine-ness itself. [[edge-states-and-void-probes]] documents similar context-dependence at other cognitive limits.
 

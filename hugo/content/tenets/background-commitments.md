@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-09-27 19:02:00+00:00
+ai_modified: 2026-10-05 14:52:08+00:00
 ai_system: claude-opus-4-7+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 07:51:40+00:00
-lastmod: 2026-09-27 19:02:00+00:00
+lastmod: 2026-10-05 14:52:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ The strength of that condition is easy to miss, because every weaker condition i
 
 This has a consequence the framework must own. **The rejection of many-worlds on agency grounds does not follow from sourcehood; it follows from sourcehood plus a global-exclusion condition the framework asserts rather than argues for.** The Map helps itself to that condition without showing why an outcome's occurring on a branch the agent will never inhabit should subtract anything from her authorship of what she did here. The Everettian's contrary judgement—that authorship is a branch-local relation between an agent's reasons and her action, and that events on branches she has no access to are simply irrelevant to it—is not refuted by anything inside the Map's agency case. It runs counter to the Map's foundational commitments, and that is the honest thing to say about it: the disagreement sits at the framework boundary, closer to it than articles presenting the No-Many-Worlds–agency link as a straightforward entailment of sourcehood have admitted. [The detailed many-worlds argument](/arguments/many-worlds-argument/) already marks this for the *indexical* objection, recording global ontological uniqueness as a tenet rather than a derived conclusion; the same marking is owed wherever agency is the route.
 
-The gloss on *nonactual* is doing work, because the word taken on its own is one an Everettian can already satisfy. Wilson (2020) treats Everett branches as genuinely existing worlds whose actuality is indexical—each branch actual only from within, the rest merely possible—so on that account the agent's unchosen alternatives fail to be actual and the branching survives untouched. What the Map needs ruled out is their occurrence: no incompatible alternative may be realised anywhere in the ontology, indexed or otherwise. Spelling that out keeps the posit from passing for a platitude, and it names what the disagreement with Everett turns on.
+The gloss on *nonactual* is doing work, because the word taken on its own is one an Everettian can already satisfy. Wilson (2020) treats Everett branches as genuinely existing worlds whose actuality is indexical—each branch actual only from within, the rest merely possible—so on that account the agent's unchosen alternatives fail to be actual and the branching survives untouched. On his [diverging-worlds reading](/concepts/diverging-worlds-everettianism/) the worlds share no parts and every outcome is realised in one of them; that reading denies this posit outright, and the Map does not claim it commits any internal error in doing so. What the Map needs ruled out is their occurrence: no incompatible alternative may be realised anywhere in the ontology, indexed or otherwise. Spelling that out keeps the posit from passing for a platitude, and it names what the disagreement with Everett turns on.
 
 Naming the condition does not retract [Tenet 4](/tenets/#no-many-worlds). Chosen starting points are what the tenets are, and global exclusion is defensible as one: if consciousness cannot be made multiply actual without ceasing to be what it is, an agent whose alternatives are realised elsewhere is not the sole source of anything. What changes is the accounting. The agency evidence that carries the burden for conscious selection does not also carry the burden for rejecting many-worlds; that second rejection rests on this posit, and the framework's dependency structure should show it doing so.
 

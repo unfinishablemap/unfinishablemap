@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-09-11 01:20:09+00:00
+ai_modified: 2026-10-05 14:52:08+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 14:26:14+00:00
-lastmod: 2026-09-11 01:20:09+00:00
+lastmod: 2026-10-05 14:52:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ These related views hold that reality is fundamentally neither mental nor physic
 
 ## The Map's Position: Dualist and Mind-Centric
 
-The Map's [interactionist dualism](/concepts/interactionist-dualism/) is mind-centric without being idealist. It takes consciousness as irreducible (with idealism, against physicalism) while insisting that physical reality exists distinctly (with common sense, against idealism).
+The Map's [interactionist dualism](/concepts/interactionist-dualism/) is mind-centric without being idealist. It takes consciousness as irreducible (with idealism, against physicalism) while insisting that physical reality exists distinctly (with common sense, against idealism). On Meillassoux's definitions, as the Map applies them to itself, analytic idealism is a *subjectalism* that absolutises thought, and the Map is neither that nor a correlationism: consciousness interacts with the physical world and does not constitute it ([correlationism and the ancestrality argument](/topics/correlationism-and-the-ancestrality-argument/)).
 
 This requires accepting two fundamental categories: consciousness and physical reality. Critics call this ontologically extravagant. The Map's response draws on the [limits of Occam's Razor](/tenets/#occams-limits): apparent simplicity may reflect ignorance rather than truth. The history of science includes cases where the simpler theory turned out to be incomplete — atoms seemed unnecessary until they weren't, curved spacetime seemed extravagant until it explained Mercury's orbit. (It also includes cases where the simpler theory won. The point is not that complexity always prevails, but that parsimony alone is unreliable as a guide to truth.)
 

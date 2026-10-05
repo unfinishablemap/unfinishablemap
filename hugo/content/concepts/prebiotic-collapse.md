@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-24 14:01:07+00:00
+ai_modified: 2026-10-05 14:52:08+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:09:01+00:00
-lastmod: 2026-09-24 14:01:07+00:00
+lastmod: 2026-10-05 14:52:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ topics:
 
 If consciousness participates in quantum collapse, what determined outcomes before conscious observers existed? Star formation, chemical reactions, genetic mutations—all required definite quantum outcomes billions of years before the first mind. This "prebiotic collapse" problem challenges any framework linking consciousness to measurement. The Unfinishable Map's resolution separates two claims: collapse is real (per the [No Many Worlds](/tenets/#no-many-worlds) tenet), but consciousness doesn't *cause* collapse universally—it *interfaces* with collapse in neural systems. Objective reduction provides the baseline; consciousness modulates rather than initiates.
 
-This approach preserves prebiotic cosmology while maintaining the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness affects physical outcomes in brains, without requiring cosmic consciousness for early-universe selection.
+This approach [preserves prebiotic cosmology](/topics/correlationism-and-the-ancestrality-argument/) while maintaining the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness affects physical outcomes in brains, without requiring cosmic consciousness for early-universe selection.
 
 ## Two Distinct Timeline Questions
 

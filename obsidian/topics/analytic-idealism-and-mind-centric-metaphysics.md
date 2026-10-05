@@ -4,7 +4,7 @@ description: "Mapping the landscape of mind-first ontologies—from Kastrup's an
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-09-11T01:20:09+00:00
+ai_modified: 2026-10-05T14:52:08+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ These related views hold that reality is fundamentally neither mental nor physic
 
 ## The Map's Position: Dualist and Mind-Centric
 
-The Map's [[interactionist-dualism|interactionist dualism]] is mind-centric without being idealist. It takes consciousness as irreducible (with idealism, against physicalism) while insisting that physical reality exists distinctly (with common sense, against idealism).
+The Map's [[interactionist-dualism|interactionist dualism]] is mind-centric without being idealist. It takes consciousness as irreducible (with idealism, against physicalism) while insisting that physical reality exists distinctly (with common sense, against idealism). On Meillassoux's definitions, as the Map applies them to itself, analytic idealism is a *subjectalism* that absolutises thought, and the Map is neither that nor a correlationism: consciousness interacts with the physical world and does not constitute it ([[correlationism-and-the-ancestrality-argument|correlationism and the ancestrality argument]]).
 
 This requires accepting two fundamental categories: consciousness and physical reality. Critics call this ontologically extravagant. The Map's response draws on the [[tenets#^occams-limits|limits of Occam's Razor]]: apparent simplicity may reflect ignorance rather than truth. The history of science includes cases where the simpler theory turned out to be incomplete — atoms seemed unnecessary until they weren't, curved spacetime seemed extravagant until it explained Mercury's orbit. (It also includes cases where the simpler theory won. The point is not that complexity always prevails, but that parsimony alone is unreliable as a guide to truth.)
 

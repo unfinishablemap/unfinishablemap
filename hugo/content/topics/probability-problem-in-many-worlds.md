@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-09-04 20:43:11+00:00
+ai_modified: 2026-10-05 14:52:08+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 22:59:41+00:00
-lastmod: 2026-09-04 20:43:11+00:00
+lastmod: 2026-10-05 14:52:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +114,7 @@ Saunders (2021) revisited branch-counting, proposing a *state-dependent* rule th
 
 Vaidman (1998) proposed a different approach: between measurement and observation, an agent genuinely doesn't know which branch they occupy. This window of ignorance provides a foothold for probability as rational credence about self-location—the kind of [self-locating knowledge](/concepts/indexical-knowledge-and-identity/) that Lewis's Two Gods scenario shows cannot be derived from impersonal facts.
 
-Saunders (2010) and Sebens and Carroll (2018) developed this foothold into the strongest existing reply to the indexical objection—that self-locating uncertainty presupposes a fact about *which* branch is "mine," and on MWI there is no such fact since every branch contains an equally real successor. Saunders relativises indexicality to branches: *de se* attribution localises across branches just as across times and places. The pre-measurement question "which outcome will I see?" then becomes the ordinary self-locating question "which of my successors is doing the asking?"—the same uncertainty as not knowing what time it is on waking. Sebens and Carroll turn this into a formal derivation: their epistemic separability principle (ESP-QM) holds that "an agent's self-locating credences should depend only on the quantum state of the relevant part of the multiverse," and from ESP-QM together with symmetry constraints they derive the Born rule as the uniquely rational way to apportion self-locating credence. If the reply works, the indexical objection is answered on MWI's own terms.
+[Saunders (2010)](/concepts/diverging-worlds-everettianism/) and Sebens and Carroll (2018) developed this foothold into the strongest existing reply to the indexical objection—that self-locating uncertainty presupposes a fact about *which* branch is "mine," and on MWI there is no such fact since every branch contains an equally real successor. Saunders relativises indexicality to branches: *de se* attribution localises across branches just as across times and places. The pre-measurement question "which outcome will I see?" then becomes the ordinary self-locating question "which of my successors is doing the asking?"—the same uncertainty as not knowing what time it is on waking. Sebens and Carroll turn this into a formal derivation: their epistemic separability principle (ESP-QM) holds that "an agent's self-locating credences should depend only on the quantum state of the relevant part of the multiverse," and from ESP-QM together with symmetry constraints they derive the Born rule as the uniquely rational way to apportion self-locating credence. If the reply works, the indexical objection is answered on MWI's own terms.
 
 ### Why Self-Locating Uncertainty Fails
 

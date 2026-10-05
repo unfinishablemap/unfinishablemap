@@ -4,7 +4,7 @@ description: "Jainism is a substance-pluralist dualism: infinitely many eternal 
 created: 2026-07-10
 modified: 2026-07-10
 human_modified:
-ai_modified: 2026-07-16T05:39:41+00:00
+ai_modified: 2026-10-05T14:52:08+00:00
 last_deep_review: 2026-07-16T05:39:41+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ This article expounds the tradition on its own terms first—its two substances,
 
 ## Jiva and Ajiva: Two Everlasting Substances
 
-The Jaina world divides without remainder into the living and the non-living. *Jiva*—soul, self, living substance—is intrinsically conscious. *Ajiva* covers everything else: *pudgala* (matter), the media of motion and rest, space, and time. Gorisse characterises the resulting metaphysics as "an atomist and dualist conception of the world," resting on categories that are everlasting, uncreated, coexisting, and independent (Gorisse 2023). Neither substance produces the other; neither reduces to the other.
+The Jaina world divides without remainder into the living and the non-living. *Jiva*—soul, self, living substance—is intrinsically conscious. *Ajiva* covers everything else: *pudgala* (matter), the media of motion and rest, space, and time. The word is a false friend across traditions: the Buddhist [[pudgalavada|Pudgalavāda]] schools used *pudgala* for the person, which they held to be real, where Jain usage reserves it for matter. Gorisse characterises the resulting metaphysics as "an atomist and dualist conception of the world," resting on categories that are everlasting, uncreated, coexisting, and independent (Gorisse 2023). Neither substance produces the other; neither reduces to the other.
 
 What makes a *jiva* a *jiva* is *chetana*, consciousness—more technically *upayoga*, the activity of experience, which subdivides into *jnana* (determinate cognition) and *darshana* (indeterminate perception). In Gorisse's rendering, "the defining characteristic of the self is experience (*upayoga*)" (Gorisse 2023). This is a strong claim about the essence of the soul: consciousness is not an emergent add-on that matter acquires at sufficient complexity but the very definition of the substance. Matter can obscure, weigh down, and obstruct the soul's innate cognitive power—Jaina texts hold that every liberated soul is in principle omniscient—but matter can never manufacture consciousness, because consciousness belongs to a different substance-category altogether.
 

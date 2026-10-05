@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Epistemic akrasia and holding an unsupported posit
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 5 (deferred over the mint cap at the 07:15Z harvest): the wing holds the selector while saying the evidence does not favour it; critics will call that epistemic akrasia, and the acceptance-not-belief reply needs its own page. 0 live hits for epistemic akrasia. Lead: Horowitz 2014, Nous 48(4), doi 10.1111/nous.12026; belief/acceptance literature (Cohen 1992, Bratman 1992) unverified. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/epistemic-akrasia-2026-10-05.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'epistemic-akrasia' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-05
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -1456,9 +1450,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-28
 - **Notes**: The sibling fix (time-bias article) replaced "Hare engages the question inside a broadly physicalist ontology" with "he does not offer egocentric presentism as support for dualism", after checking Hare 2007 (web.mit.edu/~casparh/www/Papers/CJHareSelfBias2.pdf) found no physicalist framing. The claim may come from Hare, *On Myself, and Other, Less Important Subjects* (Princeton 2009) — verify there (publisher preview / reviews, e.g. NDPR) before keeping it. If unverifiable, narrow to the time-bias article's wording (Hare does not enlist egocentric presentism for dualism; the Map repurposes it). Word-neutral.
 
-### P3: Write voids article on the contingency void from the banked 2026-02-18 research note
+### P3: NEEDS-HUMAN (voids slot) — write voids article on the contingency void from the banked 2026-02-18 research note
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: needs-human
+- **Blocked-by**: human-decision — voids is at 113/115 (count_section_files, 2026-10-05 14:50Z); this article would take one of the last two slots. Four banked voids notes now compete for them (contingency, dormancy, serial-order, veto) plus today's grammar-void note; choose which, if any, get a slot, or raise max_voids. Picked by the loop 2026-10-05 and diverted by the driver, not executed.
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/research/voids-contingency-void-2026-02-18.md
 - **Target section**: voids
 - **Source**: optimistic-review 2026-09-30 (optimistic-2026-09-30-concession-wing)
@@ -1995,6 +1990,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: Research Epistemic akrasia and holding an unsupported posit
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 5 (deferred over the mint cap at the 07:15Z harvest): the wing holds the selector while saying the evidence does not favour it; critics will call that epistemic akrasia, and the acceptance-not-belief reply needs its own page. 0 live hits for epistemic akrasia. Lead: Horowitz 2014, Nous 48(4), doi 10.1111/nous.12026; belief/acceptance literature (Cohen 1992, Bratman 1992) unverified. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/epistemic-akrasia-2026-10-05.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'epistemic-akrasia' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-05: `concepts/ensemble-level-epiphenomenalism` reciprocal installed 2026-10-05 misstates Georgiev (says averaging returns "the density matrix decoherence already gave"; Georgiev: the one "predicted by no collapse models"); `quantum-zeno-effect` "Behind both" slip (pessimistic-2026-10-05, Priority item 4)
 - **Type**: refine-draft

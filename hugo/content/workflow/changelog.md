@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:52 - refine-draft
+- **Status**: Success (7 of 10 files edited; 3 dropped for want of an honest anchor)
+- **File**: [mine-ness](/concepts/mine-ness/) (first of a ten-file reciprocal-link task from `reviews/optimistic-2026-09-30-concession-wing` §Cross-Linking Suggestions)
+- **Original score**: n/a (`scripts/curate.py` absent; link-only pass)
+- **Premise re-verified**: all ten source bodies had 0 hits of their target slug before editing (frontmatter excluded).
+- **Pipes (zero words; analyze_length unchanged)**: `mine-ness` L86 "the owner of experience" → `pudgalavada` (3498→3498, headroom 1); `probability-problem-in-many-worlds` L112 "Saunders (2010)" → `diverging-worlds-everettianism` (same chapter the target treats; 3981→3981); `prebiotic-collapse` L42 "preserves prebiotic cosmology" → `correlationism-and-the-ancestrality-argument` (3606→3606, still hard_warning).
+- **Sentences**: `jain-philosophy-of-mind` L39 *pudgala* disambiguation, matter in Jain usage vs the person in Pudgalavāda (2527→2557); `background-commitments` Posit Three, Wilson paragraph: the diverging-worlds reading denies the posit and the Map claims no internal error against it (1763→1801); `one-world-wager` L54: the diverging reading denies "before a measurement there is one of you", fission-shaped argument conceded not to reach it (4164→4206); `analytic-idealism-and-mind-centric-metaphysics` Map's Position: subjectalism placement, marked as the Map's own application of Meillassoux's definitions (2242→2285).
+- **Dropped (pipe-only pages with no phrase that refers to the target)**: `witness-consciousness` (headroom 2; L121 names reflexive/subjectless awareness, which `pudgalavada` explicitly does not assess); `agent-causation` (headroom 12; no Vasubandhu or Buddhist mention, and "disappearing-agent objection" / "Nyāya" would mislabel the target; felt-effort loci and the "non-akratic" pipe untouched); `vertiginous-question` (headroom 7; L161 states the fission picture and has no words for divergence). Each needs one sentence, so each waits on a condense.
+- **Engagement classification**: none changed; the three new sentences on diverging-worlds and correlationism report concessions and framework-boundary placements already made on the target pages.
+- **Published**: yes
+
+## 14:40 - research-topic
+- **Status**: Success
+- **Topic**: Epistemic akrasia and holding an unsupported posit
+- **Output**: [epistemic-akrasia-2026-10-05](/research/epistemic-akrasia-2026-10-05/)
+- **Sources consulted**: 13 (5 SEP entries read in raw HTML and grepped; 3 abstracts; 5 metadata-only or quoted via SEP — Horowitz 2014 was not readable at source)
+- **Verdict**: article-sized for `concepts/` (347/360). The charge as worded misfires (credence is moderate, never high, and the "no support" judgement is dataset-specific); two residues land (a moderate credence on grade D with no stated prior; [P-A1](/positions/agency-and-will/#p-a1) unmoved after the divided-will). The acceptance-not-belief reply fits the tenets and fails for the register, whose credence axis is defined as probability of truth.
+- **Task chain**: `task_chains.pending_articles` entry added (target concepts)
+
 ## 14:07 - deep-review
 - **Status**: Success
 - **File**: [local-tomography-and-the-consciousness-physics-interface](/concepts/local-tomography-and-the-consciousness-physics-interface/)
