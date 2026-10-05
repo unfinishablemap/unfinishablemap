@@ -675,6 +675,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Status**: pending
 - **Source**: outer-review (2026-08-17 ChatGPT 5.6 Pro full-site audit, §§3.4/3.5 + section-4 quantifier-conflict row — the reviewer's single highest-priority article recommendation)
 - **Generated**: 2026-08-17
+- **Addendum 2026-10-05**: `topics/responsibility-gradient-from-attentional-capacity` — the floor wording at three loci was neutralised on the quantifier (commit eeb7dc81; optimistic-2026-10-04 agency wing, Priority item 3). Three further sentences on that page still lean toward the "every subject of experience selects" reading and were deliberately left for this decision: "they remain a subject of experience, a genuine agent" (Why Attention Grounds Responsibility); "The agent hasn't ceased to exist as controller" (Control-Theoretic Interpretation); "it does not eliminate selection itself" (hard determinism paragraph). Add them to the consumer-side sweep once the quantifier is chosen.
 - **Notes**: **ESCALATED BY THE DRIVER RATHER THAN EXECUTED, for two independent reasons.** The task was picked as a P2 `refine-draft` and assessed; it is not executable by automation as scoped.
 
   **REASON 1 — `obsidian/tenets/` is operator territory.** Standing convention: tenet content is reported and recommended on, never patched by the loop.
