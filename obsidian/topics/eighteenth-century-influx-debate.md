@@ -4,7 +4,7 @@ description: "How German academic philosophy turned from pre-established harmony
 created: 2026-09-30
 modified: 2026-09-30
 human_modified:
-ai_modified: 2026-10-03T18:18:15+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-30
 last_curated:
 last_deep_review: 2026-09-30T18:26:42+00:00

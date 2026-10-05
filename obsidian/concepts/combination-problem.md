@@ -26,11 +26,11 @@ related_articles:
   - "[[open-individualism-and-the-de-combination-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T00:46:24+00:00
-ai_modified: 2026-10-03T23:13:33+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James identified this as the central difficulty of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the *constitutive* form of the problem by denying that matter has micro-experiences in the first place—though, as [the discussion of interface unity below](#the-unity-of-the-interface) concedes, it still owes an account of how one subject unifies a spatially distributed interface.

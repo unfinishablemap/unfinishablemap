@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-03 14:44:04+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-05 07:51:58+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-completeness]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-04 00:56:48+00:00
-lastmod: 2026-10-03 14:44:04+00:00
+lastmod: 2026-10-05 07:51:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

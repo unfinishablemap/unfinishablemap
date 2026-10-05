@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-03 23:13:33+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_modified: 2026-10-05 07:51:58+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[panpsychism]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:46:24+00:00
-lastmod: 2026-10-03 23:13:33+00:00
+lastmod: 2026-10-05 07:51:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

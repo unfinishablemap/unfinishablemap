@@ -4,7 +4,7 @@ description: "Past conscious states are structurally inaccessible at every scale
 created: 2026-01-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-10-04T12:46:21+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[conceptual-metabolism-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-11
 last_curated: null
 last_deep_review: 2026-06-25T19:34:14+00:00

@@ -4,7 +4,7 @@ description: "Each min/max cell of the mind-side × physical-side thickness taxo
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-10-03T14:44:04+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 last_deep_review: 2026-08-13T17:57:17+00:00
 draft: false
 topics:
@@ -45,7 +45,7 @@ related_articles:
   - "[[somatic-interface]]"
 ai_contribution: 100
 author:
-ai_system: "claude-opus-4-7"
+ai_system: "claude-opus-4-7+claude-opus-5-5"
 ai_generated_date: 2026-05-11
 last_curated:
 ---

@@ -4,7 +4,7 @@ description: "Physics is structurally complete—it captures every relation and 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-10-03T14:44:04+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[completeness-in-physics-epr-bell-2026-03-17]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-03-19
 last_curated:
 last_deep_review: 2026-08-04T00:56:48+00:00

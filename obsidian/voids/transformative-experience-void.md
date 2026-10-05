@@ -4,7 +4,7 @@ description: "Human+AI exploration of the cognitive void opened by choices whose
 created: 2026-04-17
 modified: 2026-08-27
 human_modified:
-ai_modified: 2026-10-03T22:43:41+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 last_deep_review: 2026-07-25T07:22:43+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[inaccessible-past]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-04-17
 last_curated:
 embedded_videos:

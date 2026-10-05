@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-10-03T23:13:33+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-04-17
 last_curated: null
 last_deep_review: 2026-06-26T13:02:07+00:00

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-10-03 18:18:15+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-10-05 07:51:58+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 apex_last_synthesis: 2026-06-20 17:20:00+00:00
 apex_sources:
 - topics/consciousness-and-the-metaphysics-of-composition
@@ -34,7 +34,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 00:08:06+00:00
-lastmod: 2026-10-03 18:18:15+00:00
+lastmod: 2026-10-05 07:51:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

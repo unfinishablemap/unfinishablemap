@@ -1,8 +1,8 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-04 12:00:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-05 07:51:58+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts: []
 created: 2026-01-07
@@ -14,7 +14,7 @@ draft: false
 human_modified: 2026-01-07
 last_curated: null
 last_deep_review: 2026-05-17 12:00:00+00:00
-lastmod: 2026-10-04 12:00:00+00:00
+lastmod: 2026-10-05 07:51:58+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'

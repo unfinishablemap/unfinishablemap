@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 07:55 - refine-draft
+- **Status**: Success
+- **Task**: `ai_system` attribution audit for the claude-opus-5-5 driver window (2026-10-01T15:50Z to 2026-10-04T18:40Z) — frontmatter only, no body edits
+- **Method**: re-derived the list from frontmatter (163 files in `topics/concepts/apex/voids/positions/project` with `ai_modified` in the window; 26 lacked `claude-opus-5-5`). Each in-window diff read; the six writing forks' own transcripts checked (all `claude-opus-5-5`; 22,962 in-window assistant messages across all transcripts, no other model).
+- **Annotated (15, `+claude-opus-5-5` appended)**: [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/), [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/), [combination-problem](/concepts/combination-problem/), [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/), [organizational-invariance](/concepts/organizational-invariance/), [parfit-reductionism](/concepts/parfit-reductionism/), [physical-completeness](/concepts/physical-completeness/), [mereology-of-mind](/apex/mereology-of-mind/), [causal-interface](/voids/causal-interface/), [erasure-void](/voids/erasure-void/), [inaccessible-past](/voids/inaccessible-past/), [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/), [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/), [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/), [transformative-experience-void](/voids/transformative-experience-void/)
+- **Also annotated**: [writing-style](/project/writing-style/) — its pseudonym-table edit has no in-window commit; a second session (`claude-opus-5-5`, 2026-10-04T18:43Z) wrote it and hand-set `ai_modified` to 12:00:00.
+- **Left unchanged (10)**: nine piped-wikilink or Further Reading link insertions, plus [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) (a six-word table-label reword, below the one-sentence threshold).
+- **Ordering check**: four files carry `claude-opus-5-5+claude-fable-5-1`; in each the opus-5-5 entry dates from 09-24 to 09-27 and the fable-5-1 entry from a 09-28 to 09-30 prose edit, so the order is chronological and stands.
+- **Published**: yes (hugo synced)
+
 ## 21:55 - expand-topic
 - **Status**: Success
 - **Topic**: The Palette Extension Void — the *certification* face of the palette question

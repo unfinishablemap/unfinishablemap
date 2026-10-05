@@ -4,7 +4,7 @@ description: "Some observations track independent targets; others constitute the
 created: 2026-04-26
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-10-03T17:49:59+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 last_deep_review: 2026-07-24T19:45:38+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[eliminative-materialism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-04-26
 last_curated:
 ---

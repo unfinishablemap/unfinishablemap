@@ -4,7 +4,7 @@ description: "Parfit claims identity is just pattern continuity with no further 
 created: 2026-01-17
 modified: 2026-09-20
 human_modified: null
-ai_modified: 2026-10-04T12:46:21+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-17
 last_curated: null
 last_deep_review: 2026-09-20T23:49:37+00:00

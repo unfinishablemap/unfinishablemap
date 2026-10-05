@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot observe how consciousness ca
 created: 2026-01-31
 modified: 2026-09-29
 human_modified: null
-ai_modified: 2026-10-03T22:43:41+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 last_deep_review: 2026-07-19T17:32:43+00:00
 draft: false
 topics:
@@ -32,7 +32,7 @@ related_articles:
   - "[[causal-impression-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-31
 last_curated: null
 ---

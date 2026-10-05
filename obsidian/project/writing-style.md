@@ -4,7 +4,7 @@ description: "Editorial standards for The Unfinishable Map: LLM-first structure,
 created: 2026-01-07
 modified: 2026-07-16
 human_modified: 2026-01-07
-ai_modified: 2026-10-04T12:00:00+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 last_deep_review: 2026-05-17T12:00:00+00:00
 draft: false
 topics: []
@@ -19,7 +19,7 @@ related_articles:
   - "[[reviews/outer-review-synthesis-2026-08-06]]"
 ai_contribution: 80
 author: Andy Southgate
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-07
 last_curated: null
 ---

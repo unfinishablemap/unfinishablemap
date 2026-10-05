@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity around the operatio
 created: 2026-05-18
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-10-03T17:49:59+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 last_deep_review: 2026-07-19T18:38:12+00:00
 draft: false
 topics:
@@ -32,7 +32,7 @@ related_articles:
   - "[[non-human-minds-as-void-explorers]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-05-18
 last_curated:
 ---

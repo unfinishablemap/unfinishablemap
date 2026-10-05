@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-10-03 17:49:59+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-05 07:51:58+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[concepts/functionalism]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-22 13:57:36+00:00
-lastmod: 2026-10-03 17:49:59+00:00
+lastmod: 2026-10-05 07:51:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

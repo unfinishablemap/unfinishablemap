@@ -4,7 +4,7 @@ description: "Chalmers' organizational-invariance principle and the fading- and 
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-10-03T17:49:59+00:00
+ai_modified: 2026-10-05T07:51:58+00:00
 draft: false
 topics:
   - "[[machine-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[organizational-invariance-fading-dancing-qualia-2026-07-11]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-12
 last_curated:
 last_deep_review: 2026-08-22T13:57:36+00:00
