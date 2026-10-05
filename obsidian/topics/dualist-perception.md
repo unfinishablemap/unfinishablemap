@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-09-20T10:09:00+00:00
+ai_modified: 2026-10-05T18:05:55+00:00
 last_deep_review: 2026-09-15T02:34:21+00:00
 draft: false
 topics:
@@ -127,7 +127,7 @@ Under physicalism, these debates unfold within a single ontological layer. Duali
 
 ### The Problem of Perceptual Qualities
 
-If [[qualia]] are irreducible, then perceptual qualities — colours, sounds, tastes — are not identical with physical properties of objects or with neural activation patterns. The Map's position: perceptual qualities are constituted at the [[mind-matter-interface]] between physical processing and conscious experience. Colour is real — genuinely experienced, with determinate qualitative character — but its reality is phenomenal rather than physical. The banana's yellowness appears to be a property of the experience, not of the surface reflectance, yet it is no less real for that.
+If [[qualia]] are irreducible, then perceptual qualities — colours, sounds, tastes — are not identical with physical properties of objects or with neural activation patterns. The Map's position: perceptual qualities are constituted at the [[mind-matter-interface]] between physical processing and conscious experience. Colour is real — genuinely experienced, with determinate qualitative character — but its reality is phenomenal rather than physical. The banana's yellowness appears to be a property of the experience, not of the surface reflectance, yet it is no less real for that. Four of five live colour ontologies also leave the quality in experience, on [[colour-ontology-and-the-secondary-quality-residue|the Map's reading of that literature]], a sorting compatible with this position that gives it no independent support.
 
 ### Perception as Active Constitution
 

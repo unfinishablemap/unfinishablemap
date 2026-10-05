@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-09-20 10:09:00+00:00
+ai_modified: 2026-10-05 18:05:55+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-15 02:34:21+00:00
-lastmod: 2026-09-20 10:09:00+00:00
+lastmod: 2026-10-05 18:05:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,7 +131,7 @@ Under physicalism, these debates unfold within a single ontological layer. Duali
 
 ### The Problem of Perceptual Qualities
 
-If [qualia](/concepts/qualia/) are irreducible, then perceptual qualities — colours, sounds, tastes — are not identical with physical properties of objects or with neural activation patterns. The Map's position: perceptual qualities are constituted at the [mind-matter-interface](/concepts/mind-matter-interface/) between physical processing and conscious experience. Colour is real — genuinely experienced, with determinate qualitative character — but its reality is phenomenal rather than physical. The banana's yellowness appears to be a property of the experience, not of the surface reflectance, yet it is no less real for that.
+If [qualia](/concepts/qualia/) are irreducible, then perceptual qualities — colours, sounds, tastes — are not identical with physical properties of objects or with neural activation patterns. The Map's position: perceptual qualities are constituted at the [mind-matter-interface](/concepts/mind-matter-interface/) between physical processing and conscious experience. Colour is real — genuinely experienced, with determinate qualitative character — but its reality is phenomenal rather than physical. The banana's yellowness appears to be a property of the experience, not of the surface reflectance, yet it is no less real for that. Four of five live colour ontologies also leave the quality in experience, on [the Map's reading of that literature](/topics/colour-ontology-and-the-secondary-quality-residue/), a sorting compatible with this position that gives it no independent support.
 
 ### Perception as Active Constitution
 

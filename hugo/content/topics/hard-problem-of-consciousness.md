@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-09-29 10:10:49+00:00
+ai_modified: 2026-10-05 18:05:55+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -61,7 +61,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 10:10:49+00:00
-lastmod: 2026-09-29 10:10:49+00:00
+lastmod: 2026-10-05 18:05:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -256,6 +256,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 ### On the Map
 - [dualism](/concepts/dualism/) — Foundational overview: what dualism claims, main varieties, and converging arguments
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
+- [Colour ontology and the secondary-quality residue](/topics/colour-ontology-and-the-secondary-quality-residue/) — Where each theory of colour puts the intrinsic quality; it inherits from this page, rather than supplies, the conclusion that the residue survives physicalist treatment
 - [materialism](/concepts/materialism/) — Why physicalist explanations fail
 - [Against Materialism](/arguments/materialism-argument/) — Focused argument from hard problem, zombies, and quantum indeterminacy
 - [substrate-independence](/concepts/substrate-independence/) — Why the hard problem motivates substrate skepticism without entailing it

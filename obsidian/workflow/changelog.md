@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 17:51:19+00:00
+ai_modified: 2026-10-05 18:06:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:06 - refine-draft
+- **Status**: Success (8 of 10 hosts edited; 1 no-op, 1 dropped)
+- **File**: [[concepts/naturalist-relationalism]] (ten-host reciprocal task from `optimistic-2026-09-30-creation-wing`, cross-link table)
+- **Premise re-verified today** (body-only grep, frontmatter stripped): `cotard` 0 in `necessary-opacity`, `phenomenal-quality-void`, `anosognosia-and-the-reversible-self-monitoring-channel`, `neurological-dissociations-as-interface-architecture`; 3 in `clinical-phenomenology-and-altered-experience` (L107 already carries the piped link with Billon's reading, so no-op). Colour slug 0 in all five colour hosts.
+- **Cotard reciprocals** (`analyze_length` before → after): `voids/necessary-opacity` 2664 → 2670, "is the insight-lost complement" at the depersonalisation paragraph; `voids/phenomenal-quality-void` 2425 → 2444, insight-lost complement with the *as if* dropped "on the majority reading"; `topics/anosognosia-and-the-reversible-self-monitoring-channel` 3052 → 3071, parenthesis at "delivering fabricated data"; `topics/neurological-dissociations-as-interface-architecture` 3448 → 3467, one sentence after "fabricated data about body state". Each states only the relation `cotard-delusion` L56/L64 asserts, marked as the Map's reading; no citation added.
+- **Colour reciprocals**: `concepts/naturalist-relationalism` 2358 → 2358, pipe over "relocation is not dissolution" only; `topics/aesthetics-and-consciousness` 3391 → 3403, one clause after the Byrne and Hilbert sentence; `topics/dualist-perception` 3815 → 3846, one sentence at the colour paragraph keeping the target's "compatible, no independent support" tier; `topics/hard-problem-of-consciousness` 3652 → 3685, Further Reading line.
+- **Cohen clause not installed**: `colour-ontology-and-the-secondary-quality-residue` never mentions naive realism (grep "naive": 0) and so does not draw the Cohen / naive-realist distinction; per the task rule the pipe went in alone. The disambiguation would have to be written on the colour page first.
+- **Dropped**: `concepts/explanatory-gap` (3495, headroom 4, pipe only). Its one colour phrase, Mary's "everything physical about color vision", names vision science rather than the ontology of colour; no existing phrase refers to the target, so no link was forced.
+- **Engagement modes**: none changed; no named-opponent reply was edited.
+- **Published**: yes
 
 ## 17:51 - deep-review
 - **Status**: Success

@@ -5,7 +5,7 @@ created: 2026-01-27
 modified: 2026-10-01
 human_modified:
  null
-ai_modified: 2026-10-01T01:09:51+00:00
+ai_modified: 2026-10-05T18:05:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ If phenomenal transparency is functionally necessary, what happens when it fails
 
 ### Depersonalisation
 
-In [[depersonalisation|depersonalisation disorder]], the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while retaining the insight that they are nonetheless themselves. The transparency has cracked, and the clinical result is loss rather than liberation. The opacity serves function. The datum's diagnostic structure and its four rival readings are stated once at [[depersonalisation]].
+In [[depersonalisation|depersonalisation disorder]], the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while retaining the insight that they are nonetheless themselves; [[cotard-delusion|Cotard delusion]] is the insight-lost complement. The transparency has cracked, and the clinical result is loss rather than liberation. The opacity serves function. The datum's diagnostic structure and its four rival readings are stated once at [[depersonalisation]].
 
 ### Psychedelic Evidence
 

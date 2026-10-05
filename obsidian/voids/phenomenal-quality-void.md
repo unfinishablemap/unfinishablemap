@@ -4,7 +4,7 @@ description: "Consciousness stamps all experience—whether of present objects o
 created: 2026-02-24
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-01T01:09:51+00:00
+ai_modified: 2026-10-05T18:05:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ There may be a principled reason for the concealment. If each perception carried
 
 ### Depersonalization and Derealization
 
-[[depersonalisation|Depersonalization patients]] report the world as if seen behind glass or flattened to two dimensions — the Map's gloss of the patient-report literature that Sass et al. (2013) compare across depersonalization and schizophrenia. Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. Billon (2024) asks whether depersonalization is delusion or insight — whether these patients are malfunctioning or seeing through the reality-stamp to something normally concealed — and answers against the insight reading: the ordinary intuition of reality is correct, an intuition of substantiality, and depersonalization is the loss of it rather than a glimpse behind it. What the Map keeps from the exchange is narrower than Billon's substantiality thesis: a reality-stamp that can withdraw while belief stands is a distinct phenomenal quality, whatever it tracks. The clinical datum, its four rival readings and the Map's two-tier verdict are stated once at [[depersonalisation]].
+[[depersonalisation|Depersonalization patients]] report the world as if seen behind glass or flattened to two dimensions — the Map's gloss of the patient-report literature that Sass et al. (2013) compare across depersonalization and schizophrenia. Visual acuity is normal — what is absent is not perceptual content but its quality of mattering. The reality-feeling has withdrawn while givenness persists. Patients report: "I know it's real but it doesn't feel real" — demonstrating that reality-feeling is independent of belief. [[cotard-delusion|Cotard delusion]] is the insight-lost complement: the form in which, on the majority reading, the *as if* is dropped. Billon (2024) asks whether depersonalization is delusion or insight — whether these patients are malfunctioning or seeing through the reality-stamp to something normally concealed — and answers against the insight reading: the ordinary intuition of reality is correct, an intuition of substantiality, and depersonalization is the loss of it rather than a glimpse behind it. What the Map keeps from the exchange is narrower than Billon's substantiality thesis: a reality-stamp that can withdraw while belief stands is a distinct phenomenal quality, whatever it tracks. The clinical datum, its four rival readings and the Map's two-tier verdict are stated once at [[depersonalisation]].
 
 ### Dreams
 

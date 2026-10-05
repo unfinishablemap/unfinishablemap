@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-10-01 01:09:51+00:00
+ai_modified: 2026-10-05 18:05:55+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 15:30:56+00:00
-lastmod: 2026-10-01 01:09:51+00:00
+lastmod: 2026-10-05 18:05:55+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -82,7 +82,7 @@ If phenomenal transparency is functionally necessary, what happens when it fails
 
 ### Depersonalisation
 
-In [depersonalisation disorder](/concepts/depersonalisation/), the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while retaining the insight that they are nonetheless themselves. The transparency has cracked, and the clinical result is loss rather than liberation. The opacity serves function. The datum's diagnostic structure and its four rival readings are stated once at [depersonalisation](/concepts/depersonalisation/).
+In [depersonalisation disorder](/concepts/depersonalisation/), the normally invisible self-model becomes visible. Patients experience themselves as unreal, as observers of their own actions, disconnected from their bodies, while retaining the insight that they are nonetheless themselves; [Cotard delusion](/concepts/cotard-delusion/) is the insight-lost complement. The transparency has cracked, and the clinical result is loss rather than liberation. The opacity serves function. The datum's diagnostic structure and its four rival readings are stated once at [depersonalisation](/concepts/depersonalisation/).
 
 ### Psychedelic Evidence
 

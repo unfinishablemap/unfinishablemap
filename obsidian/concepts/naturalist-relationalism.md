@@ -4,7 +4,7 @@ description: "Naive realism, the strongest non-dualist rival in perception, hold
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-07-12T18:30:32+00:00
+ai_modified: 2026-10-05T18:05:55+00:00
 last_deep_review: 2026-07-12T18:30:32+00:00
 draft: false
 topics:
@@ -86,7 +86,7 @@ The contemporary debate is live and unsettled. The Routledge volume *The Relatio
 
 The Map's leverage is not that relationalism fails on its own terms. It is that the position pays for its directness in coin that, by the Map's lights, leaves the central explanandum untouched. Four pressure points matter.
 
-**The felt-from-inside residue.** This is the deepest. Relationalism relocates qualitative character into a perceiver–world relation, but relocation is not dissolution. Granting that the tomato's redness is a constituent of the relation, the question survives: why is standing in that relation *like something* for the subject? A relation can hold—a planet can orbit a star, a key can fit a lock—without anyone's experiencing it from within. Relationalism specifies the relata and the relation; it does not specify why the relation has an interior aspect at all. This is the [[hard-problem-of-consciousness|hard problem]] reappearing at the joint of the relation, and on the Map's reading relationalism has changed the address of the difficulty without paying it off.
+**The felt-from-inside residue.** This is the deepest. Relationalism relocates qualitative character into a perceiver–world relation, but [[colour-ontology-and-the-secondary-quality-residue|relocation is not dissolution]]. Granting that the tomato's redness is a constituent of the relation, the question survives: why is standing in that relation *like something* for the subject? A relation can hold—a planet can orbit a star, a key can fit a lock—without anyone's experiencing it from within. Relationalism specifies the relata and the relation; it does not specify why the relation has an interior aspect at all. This is the [[hard-problem-of-consciousness|hard problem]] reappearing at the joint of the relation, and on the Map's reading relationalism has changed the address of the difficulty without paying it off.
 
 **The deflation of failure cases.** The negative-disjunctivist account of hallucination buys direct contact at the price of a phenomenology of failure that is nearly contentless—hallucination as a state defined only by what it cannot be told apart from. Where perception fails, the relationalist's resources thin out exactly where the Map finds the interface most visible. The [[perceptual-failure-and-the-interface|degradation cases]]—blur, eigengrau, Charles Bonnet imagery—are, on the Map's reading, the diagnostic moments; an account that treats their phenomenal character as derivative or negative is straining against its hardest data.
 

@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-09-29
 human_modified:
-ai_modified: 2026-09-29T10:10:49+00:00
+ai_modified: 2026-10-05T18:05:55+00:00
 draft: false
 topics:
   - "[[metaproblem-of-consciousness-under-dualism]]"
@@ -253,6 +253,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 ### On the Map
 - [[dualism]] — Foundational overview: what dualism claims, main varieties, and converging arguments
 - [[explanatory-gap]] — Levine's formulation and physicalist responses
+- [[colour-ontology-and-the-secondary-quality-residue|Colour ontology and the secondary-quality residue]] — Where each theory of colour puts the intrinsic quality; it inherits from this page, rather than supplies, the conclusion that the residue survives physicalist treatment
 - [[concepts/materialism]] — Why physicalist explanations fail
 - [[arguments/materialism-argument|Against Materialism]] — Focused argument from hard problem, zombies, and quantum indeterminacy
 - [[substrate-independence]] — Why the hard problem motivates substrate skepticism without entailing it

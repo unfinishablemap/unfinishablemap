@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-25
-ai_modified: 2026-10-03 17:49:59+00:00
+ai_modified: 2026-10-05 18:05:55+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 01:32:00+00:00
-lastmod: 2026-10-03 17:49:59+00:00
+lastmod: 2026-10-05 18:05:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ The two findings fit together. If information about the paralysis is processed a
 
 Three readings of anosognosia need to be kept apart.
 
-**The destroyed-monitor reading.** The lesion removes the capacity to register the deficit. Parts of the Map's corpus lean this way: the ascending self-model channel "delivering fabricated data", or the claim that "the capacity to evaluate one's own cognition is gone" (the latter stated for primary anosognosia in dementia). For the stroke syndrome the reversals count against this reading, in the patients who reverse. A capacity that a video restores at a single viewing, on a lesion with no time to change, was not removed. (That the restoration then *lasted* is weaker evidence, since most cases resolve within weeks anyway.) Spontaneous resolution within a week (Vocat et al. 2010) is consistent with this but weaker evidence, because the tissue is recovering at the same time.
+**The destroyed-monitor reading.** The lesion removes the capacity to register the deficit. Parts of the Map's corpus lean this way: the ascending self-model channel "delivering fabricated data" (the channel that, on the Map's reading, reports the wrong value of a different variable, existence, in [Cotard delusion](/concepts/cotard-delusion/)), or the claim that "the capacity to evaluate one's own cognition is gone" (the latter stated for primary anosognosia in dementia). For the stroke syndrome the reversals count against this reading, in the patients who reverse. A capacity that a video restores at a single viewing, on a lesion with no time to change, was not removed. (That the restoration then *lasted* is weaker evidence, since most cases resolve within weeks anyway.) Spontaneous resolution within a week (Vocat et al. 2010) is consistent with this but weaker evidence, because the tissue is recovering at the same time.
 
 **The misreporting-channel reading.** The information reaches some level of processing but the route that normally carries it to explicit self-report is disrupted, and another route can carry it instead. Fotopoulou's own account belongs here, and it is *intra-cerebral*. Right-hemisphere damage impairs updating of the first-person body representation, while "judgements relying on 3rd-person and off-line self-observation may be spared in some patients and may facilitate 1st person awareness" (Fotopoulou et al. 2009). The spared route is a different set of brain processes, those that judge a seen body from outside, and it feeds back into the first-person model. Nothing in this account goes beyond neuroscience.
 
