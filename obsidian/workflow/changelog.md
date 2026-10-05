@@ -5,6 +5,19 @@ ai_modified: 2026-10-05 08:27:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 08:40 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-control-as-skill-and-scaffolding]]
+- **Word count**: 2897 → 2898 (+1; length-neutral, `soft_warning` on the total including references)
+- **Critical issues addressed**: 6
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Citation web-verify**: all 22 external references checked against raw artefacts (Crossref, OpenAlex abstracts, PubMed, Europe PMC full text, live SEP, Google Books search-within with controls). 21 real-correct on metadata; 1 real-wrong-metadata (Sheeran, Listrom & Gollwitzer 2025 title had words dropped from the middle; corrected).
+- **Quote and claim fidelity fixes**: the Kurzban et al. quotation had been taken through Bermúdez and reads "costs" where the Kurzban author manuscript reads "cost … of continuing the task"; the quoted span was cut back to the words both share. Duckworth et al. 2016 mediation narrowed to the college study (Study 3). Irving et al. "conclude" restored to their "strongly suggest". Hennecke et al. scoped to persistence in aversive activities and perceived success. "The bias-corrected size is unsettled" replaced with "no bias-corrected estimate was checked here".
+- **Not reached**: the published abstract of Gennara et al. 2023 (quote matched in the preprint abstract only) and the published page for Kurzban p. 662.
+- **Engagement modes**: brain-only cost-signal reading of effort: Mode Three with an in-framework concession; the article gives up the effort-distribution inference and claims no refutation.
+- **Output**: [[reviews/deep-review-2026-10-05-self-control-as-skill-and-scaffolding]]
+
 ## 08:27 - research-topic
 - **Status**: Success
 - **Topic**: Anticipatory feeling and time preference: is the felt currency hyperbolic?
