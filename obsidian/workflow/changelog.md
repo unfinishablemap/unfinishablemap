@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 09:30:00+00:00
+ai_modified: 2026-10-05 09:40:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:40 - research-topic
+- **Status**: Success
+- **Topic**: Agency incompatibilism: Steward's settlers
+- **Output**: [[research/agency-incompatibilism-stewards-settlers-2026-10-05]]
+- **Task**: harvested from `reviews/optimistic-2026-10-04-agency-and-akrasia-wing.md` (New Article Subject 4); target `topics/`, intended slug `agency-incompatibilism`.
+- **Sources consulted**: 13 cited. Read at source as raw text: Steward's 2014 Précis and her Replies to Clarke, Bishop and Beebee (*Res Philosophica*), four of her eight 2013 *Inquiry* "Responses" (Garnett, Broadie, Clancy, Boxer), and Buckareff's review. The book itself at Google Books snippet level only; Levy 2013, Garnett 2013 and Clarke 2014 at abstract level; the other critics' papers not read.
+- **Finding for the expand step**: the *Inquiry* symposium lead is confirmed (56(6), eight critics plus Steward's replies) and there is a second symposium in *Res Philosophica* 91(3). Levy has a separate *Inquiry* paper turning the luck objection on Steward. Her reply to Bishop states that agent causation is "the influence of a whole animal on its own parts" and physical. On sourcehood and luck the Map's non-physical settler adds nothing she lacks; the open questions are the reduction trade, her subjectivity condition, and scope (animals, sub-intentional action). The book index gives the Cartesian-dualism passage as "16 n. 37", so the-divided-will's "p. 16" may be a footnote.
+- **Length**: about 3,100 words including the citation list, against a 2,500 target.
+- **Chain**: `task_chains.pending_articles` entry added (target `topics`).
 
 ## 09:30 - research-topic
 - **Status**: Success

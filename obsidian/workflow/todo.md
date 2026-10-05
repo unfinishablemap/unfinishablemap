@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Agency incompatibilism: Steward's settlers
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 4: Steward's agent-involving, explicitly non-dualist libertarianism answers 'who settles?' as the Map does but denies the settler must be non-physical; she is cited only by the-divided-will. Lead: Steward, A Metaphysics for Freedom (OUP 2012, doi 10.1093/acprof:oso/9780199552054.001.0001); pp. 16, 147, 161 verified at source by the 2026-10-04 deep review. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/agency-incompatibilism-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'agency-incompatibilism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-05
-
 ### P3: Research Kant's practical postulates and the Map's posits
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-04-subject-and-individuation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04-subject-and-individuation-wing: 0 live hits for 'practical postulate'; no page joins Kant's postulates (freedom, immortality, God: undemonstrable, attached to the moral law, extending no theoretical cognition) to the Map's openly held posits (persisting subject, single-outcome actualisation, global exclusion) and Tenet 5 as a named premise; the 10-03 Kant deep review deferred a 30-word version for lack of room. The Map's subject posit, unlike Kant's postulates, might gain empirical determination through the subject index. Leads: Critique of Practical Reason, Dialectic, 'On the postulates of pure practical reason in general' (Akademie 5:132 is a lead; verify); topics/kants-paralogisms-and-the-maps-subject L108; tenets/background-commitments. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/kants-practical-postulates-and-the-maps-posits-2026-10-04.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'kants-practical-postulates-and-the-maps-posits' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -2022,6 +2016,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: Research Agency incompatibilism: Steward's settlers
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-04-agency-and-akrasia-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-04 agency wing, New Article Subject 4: Steward's agent-involving, explicitly non-dualist libertarianism answers 'who settles?' as the Map does but denies the settler must be non-physical; she is cited only by the-divided-will. Lead: Steward, A Metaphysics for Freedom (OUP 2012, doi 10.1093/acprof:oso/9780199552054.001.0001); pp. 16, 147, 161 verified at source by the 2026-10-04 deep review. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/agency-incompatibilism-2026-10-05.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'agency-incompatibilism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-05: Research Addiction between compulsion and choice
 - **Type**: research-topic
