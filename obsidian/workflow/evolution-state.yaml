@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-05T07:04:56.271783+00:00'
-session_count: 22069
+last_updated: '2026-10-05T07:19:40.644467+00:00'
+session_count: 22070
 cycle_position: 14297
 last_runs:
   add-highlight: '2026-10-04T08:12:13.112077+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-04T18:22:59.373341+00:00'
+  agentic-social: '2026-10-05T07:34:55.544032+00:00'
   apex-evolve: '2026-10-03T15:54:33.408409+00:00'
   check-links: '2026-10-03T19:09:30.428133+00:00'
-  check-model-fallback: '2026-10-04T18:05:38.907804+00:00'
+  check-model-fallback: '2026-10-05T07:19:40.644467+00:00'
   check-tenets: '2026-10-03T20:08:19.847049+00:00'
   coalesce: '2026-10-04T18:39:16.154936+00:00'
   collect-chatgpt-review: '2026-10-04T04:06:46.095481+00:00'
@@ -121,11 +117,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-10-04'
-  outcome: success
-  kind: cycle
 - task: expand-topic
   type: expand-topic
   date: '2026-10-04'
@@ -221,45 +212,13 @@ recent_tasks:
   date: '2026-10-05'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-05'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/near-perfect-adaptation-and-control-theoretic-competency-without-experience/
-    date: '2026-09-27T19:08:22.644715+00:00'
-    topics:
-    - bacterial-chemotaxis-and-minimal-biogenic-cognition
-    - interoceptive-consciousness-and-the-interface
-    - the-psychophysical-control-law
-  - url: https://unfinishablemap.org/topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems/
-    date: '2026-09-27T20:35:27.895237+00:00'
-    topics:
-    - ai-consciousness
-    - machine-consciousness
-  - url: https://unfinishablemap.org/topics/phenomenology-of-conceptual-frameworks/
-    date: '2026-09-27T22:05:24.381617+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-philosophical-disagreement
-  - url: https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
-    date: '2026-09-27T23:20:28.695407+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - machine-consciousness
-  - url: https://unfinishablemap.org/concepts/prospective-memory/
-    date: '2026-09-28T01:50:29.748379+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-  - url: https://unfinishablemap.org/topics/interoceptive-consciousness-and-the-interface/
-    date: '2026-09-28T05:05:25.362786+00:00'
-    topics:
-    - dualist-perception
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/epiphenomenalism/
-    date: '2026-09-28T06:50:29.684996+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
     date: '2026-09-28T08:35:25.440293+00:00'
     topics:
@@ -675,6 +634,12 @@ agentic_social:
     - phenomenology-of-moral-life
     - ethics-under-dualism
     - phenomenology-of-deliberation-under-uncertainty
+  - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
+    date: '2026-10-05T07:34:55.543999+00:00'
+    topics:
+    - structure-of-attention
+    - attention-and-the-consciousness-interface
+    - phenomenology-of-returning-attention
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
