@@ -1458,15 +1458,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-30
 - **Notes**: Suggested by optimistic review. See optimistic-2026-09-30-concession-wing.md §Expansion Opportunities "The contingency void". The research note (2978 words incl. frontmatter; SEP on sufficient reason, Parfit "Why Anything? Why This?", Meillassoux *After Finitude*, Nagel, Sartre, Chalmers on contingent psychophysical laws, Wittgenstein 6.44, Carroll/Russell on brute facts) has been unconsumed since 2026-02-18; the voids research pipeline is LIFO, so it will not surface on its own. correlationism-and-the-ancestrality-argument L115 records "The necessity-of-contingency material is held in the research note ... and has no live void article"; that page (L58–62, facticity/hyper-chaos) and intrinsic-nature-void (headroom 852) are the two live consumers. Voids at 111/115 by tools.evolution.state.count_section_files on 2026-09-30 — re-measure before creating; refuse if at cap. Slug candidate `contingency-void`; check no live/archived collision. Needs human approval (consumes one of four remaining voids slots). Calibrate per the operation-void wing standard: tenet section graded compatible unless a discriminator is named; Meillassoux's hyper-chaos noted as a modal thesis, not adopted (correlationism L106/L108).
 
-### P3: `concepts/quantum-factorisation-problem` — discharge the four unminted low residuals of pessimistic-2026-09-30 at zero net length (optimistic-2026-09-30-creation-wing item 1)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quantum-factorisation-problem.md
-- **Status**: pending
-- **Source**: optimistic-review 2026-09-30 creation wing, priority item 1 (residuals of pessimistic-2026-09-30-quantum-factorisation-problem Issues 7–8)
-- **Review file**: `reviews/optimistic-2026-09-30-creation-wing.md`
-- **Generated**: 2026-09-30
-- **Notes**: File is at **3498 body words against the concepts hard gate 3500 (`analyze_length`, gate `>=`) — ONE word of headroom**; every edit must be word-neutral or negative, funded by moving the L62 "Mad-Dog Everettianism" parenthetical into reference 5. Grep-verified 21:34Z (4 hits): L90 "receives both-edged support" → "cuts both ways"; L98 "gets a clean case" → "gets a conditional case" (both against L100 "adds no evidential support" — the page currently grades itself three ways); L50 "ran three demands together" → "listed five demands, grouped here into three levels" (the outer review's five demands were rendered as three without saying so); L60 "coined the term" → "introduced the name in print, as far as located" (unsupported coinage claim); L70 mark the cosmos-unity reading of Ismael & Schaffer as "on the Map's extension of their view" (abstract-only source). Quote each line live; sibling grep; re-measure after each edit and finish ≤3499; sync; Hugo grep. Already-fixed Issues 1–6 loci must not be touched.
-
 ### P3: Cotard and colour-ontology reciprocals — the pages each names as its insight-retained side or its sorting result carry zero mentions (optimistic-2026-09-30-creation-wing item 3)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/naturalist-relationalism.md
@@ -1981,6 +1972,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: `concepts/quantum-factorisation-problem` — discharge the four unminted low residuals of pessimistic-2026-09-30 at zero net length (optimistic-2026-09-30-creation-wing item 1)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quantum-factorisation-problem.md
+- **Notes**: File is at **3498 body words against the concepts hard gate 3500 (`analyze_length`, gate `>=`) — ONE word of headroom**; every edit must be word-neutral or negative, funded by moving the L62 "Mad-Dog Everettianism" parenthetical into reference 5. Grep-verified 21:34Z (4 hits): L90 "receives both-edged support" → "cuts both ways"; L98 "gets a clean case" → "gets a conditional case" (both against L100 "adds no evidential support" — the page currently grades itself three ways); L50 "ran three demands together" → "listed five demands, grouped here into three levels" (the outer review's five demands were rendered as three without saying so); L60 "coined the term" → "introduced the name in print, as far as located" (unsupported coinage claim); L70 mark the cosmos-unity reading of Ismael & Schaffer as "on the Map's extension of their view" (abstract-only source). Quote each line live; sibling grep; re-measure after each edit and finish ≤3499; sync; Hugo grep. Already-fixed Issues 1–6 loci must not be touched.
 
 ### ✓ 2026-10-05: `research/outcome-devaluation-and-dual-task-costs-in-parkinsons-2026-09-30` — correct the Wu & Hallett 2005 "all controls reached automaticity" line the article inherited
 - **Type**: refine-draft

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 16:50:24+00:00
+ai_modified: 2026-10-05 17:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:36 - refine-draft
+- **Status**: No-op (every named locus already fixed; article not edited, `ai_modified` not bumped)
+- **File**: [[concepts/quantum-factorisation-problem]]
+- **Length**: 3493 body words (`analyze_length`) against the concepts hard gate 3500 (`>=`), 6 words of headroom; unchanged by this pass.
+- **Finding**: the five residuals of `pessimistic-2026-09-30-quantum-factorisation-problem` (Issues 7 and 8 plus two Unsupported Claims rows) were discharged by the deep-review commit `5ba2b3d6e7` (2026-09-30T22:30Z), about an hour after the task's 21:34Z grep. `git log -S` shows that commit removing each old phrase. Live text: L92 "cuts both ways"; L100 "gets a conditional case" (L102 "adds no evidential support" now consistent with both); L52 "listed five demands, grouped here into three levels"; L62 "introduced the name in print, as far as located"; L72 "on the Map's extension to phenomenal unity, the maximally unified subject is the cosmos". The Mad-dog Everettianism parenthetical is already out of the body and lives only in reference 5, dated 2019 (L100 cites Carroll & Singh 2019; the 2021 citations at L64 and L76 are the separate *Quantum mereology* paper, reference 6, correctly dated).
+- **Sibling grep** (topics, concepts, apex, voids, positions, tenets, archive): no other page claims a coiner for the factorisation problem; no other page cites Ismael & Schaffer 2020 (the Ismael hits elsewhere are Ismael 2025 on Wheeler); "both-edged support", "gets a clean case" and "ran three demands together" have zero hits outside reviews and changelog archives.
+- **Hugo**: `hugo/content/concepts/quantum-factorisation-problem.md` carries all five corrected phrases and none of the old ones; no sync needed.
+- **Issues 1-6 loci**: untouched.
+- **Published**: yes (no change)
 
 ## 16:50 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched)
