@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-01 17:17:20+00:00
+ai_modified: 2026-10-05 19:05:49+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-17 01:05:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:10:00+00:00
-lastmod: 2026-10-01 17:17:20+00:00
+lastmod: 2026-10-05 19:05:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ Production accounts here inherit Theseus's paradox: consciousness resumes gradua
 
 The [anaesthesia time-gap section](/topics/consciousness-disruption-and-the-mind-brain-interface/#memory-sleep-and-the-vanishing-of-time) presses that question hardest. The subject who returns is recognisably *this* subject. Production accounts accommodate that recognition by appeal to brain-state-continuity—the same neural substrate resumes the same patterns—but this is the wrong grain. It predicts the qualitative similarity we observe behaviourally; it does not predict why the returning subject is *this* one rather than a qualitatively identical replacement. The teletransporter replica has full brain-state-continuity with the original, yet intuition resists the identification, and the anaesthesia case is structurally identical. Interface theories predict indexical identity directly from continuity of the interface-bearing substrate—the same consciousness reconnects because it never went anywhere. The anaesthesia evidence remains compatible with production accounts that treat brain-state-continuity as sufficient for indexical identity, though such accounts then owe an explanation of why the teletransporter intuition is mistaken. The time-gap is a haecceity exhibit, not a proof.
 
-Clinical findings from [loss of consciousness and disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) sharpen this reading. Different anesthetics produce identical behavioural unresponsiveness yet radically different phenomenologies—propofol's near-total extinction of experience versus ketamine's vivid dissociative dreams—which would be impossible if behavioural absence were a reliable index of conscious absence. [Cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/), present in roughly a quarter of patients classified as unresponsive in a 2024 *New England Journal of Medicine* study, reveals consciousness that persists with full cognitive function even when the interface to motor behaviour is entirely severed. Identity survives invisibly across these gaps: the CMD patient who emerges into communication turns out to have been themselves all along. [Dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/) presents the inverse pattern—fragmented self-expression on a structurally intact, integrated substrate—yet points the same way: the experiencing subject persists beneath the fragmentation. These three findings instantiate one evidential pattern—production-predicted absence yet observed presence—and should be counted once, not three times.
+Clinical findings from [loss of consciousness and disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) sharpen this reading. Different anesthetics produce identical behavioural unresponsiveness yet radically different phenomenologies—propofol's near-total extinction of experience versus ketamine's vivid dissociative dreams—which would be impossible if behavioural absence were a reliable index of conscious absence. [Cognitive motor dissociation](/topics/covert-consciousness-and-cognitive-motor-dissociation/), found in [about a quarter of patients without observable command-following](/topics/covert-consciousness-and-cognitive-motor-dissociation/#the-numbers-and-their-denominators) in a 2024 *New England Journal of Medicine* cohort, indicates probable consciousness—sustained, task-specific cognition read from a neural marker—where no command-following reaches the bedside. On that reading identity survives invisibly across these gaps: the CMD patient who emerges into communication would, if the inference holds, have been themselves throughout. [Dissociative identity disorder](/topics/clinical-dissociation-as-systematic-evidence/) presents the inverse pattern—fragmented self-expression on a structurally intact, integrated substrate—yet points the same way: the experiencing subject persists beneath the fragmentation. These three findings instantiate one evidential pattern—production-predicted absence yet observed presence—and should be counted once, not three times.
 
 Filter theory's explanatory scope is also its vulnerability: as a bare interpretation of correlation, every pattern of consciousness-brain covariation is compatible with it, so correlation data alone cannot discriminate it from production. That is a limit on this evidence rather than permanent immunity — the Map's [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) holds that the mechanism-committed readings of the quantum tenets do generate testable predictions. What filter theory supplies *here* is a coherent account of identity persistence rather than a test of it.
 

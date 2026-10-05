@@ -5,6 +5,17 @@ ai_modified: 2026-10-05 18:36:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 19:06 - refine-draft
+- **Status**: Success
+- **Files**: [[apex/identity-across-transformations]], [[apex/phenomenology-mechanism-bridge]], [[apex/phenomenology-of-consciousness-doing-work]] (three-file task; covert-consciousness figures ledger rows 11, 10, 9)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Premise re-verified today**: all three loci were still live as the ledger recorded them; none was a no-op. Anchor `#the-numbers-and-their-denominators` confirmed as an explicit heading id on the canonical page and in the built HTML.
+- **identity-across-transformations** (row 11, moderate): "present in roughly a quarter of patients classified as unresponsive ... reveals consciousness that persists with full cognitive function even when the interface to motor behaviour is entirely severed" became a piped link to the numbers table scoped to "patients without observable command-following", with "indicates probable consciousness" read from a neural marker. The following sentence ("turns out to have been themselves all along") is now conditional on the inference, since the research note lists "there all along" as unlicensed. 4,414 to 4,415 words (gate 5,000).
+- **phenomenology-mechanism-bridge** (row 10, minor): denominator relabelled "patients without observable command-following" with the same piped link; "in patients with no overt behaviour" became "with no overt response" (MCS-minus patients show non-reflexive overt behaviour); "consistent with — and predicted by — the interactionist reading" trimmed to "consistent with", matching the sentence's own closing concession of non-discrimination. 4,995 to 4,989 words.
+- **phenomenology-of-consciousness-doing-work** (row 9): body left as is (correct). Reference 1 author list corrected against the Crossref record for 10.1056/NEJMoa2400645 (39 authors): authors four to six are Bonhomme, A.; Carmona, J.; Chatelle, C. — the entry had Bonhomme, V.; Schiff, N.D.; Claassen, J. (Claassen is 25th, Schiff 39th). Six named authors kept. 4,698 to 4,698 words.
+- **Reasoning mode**: no named-opponent reply edited.
+- **Published**: yes
+
 ## 18:50 - refine-draft
 - **Status**: Success
 - **File**: [[project/evidential-status-discipline]]

@@ -1460,20 +1460,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-09-30
 - **Notes**: Suggested by optimistic review. See optimistic-2026-09-30-concession-wing.md §Expansion Opportunities "The contingency void". The research note (2978 words incl. frontmatter; SEP on sufficient reason, Parfit "Why Anything? Why This?", Meillassoux *After Finitude*, Nagel, Sartre, Chalmers on contingent psychophysical laws, Wittgenstein 6.44, Carroll/Russell on brute facts) has been unconsumed since 2026-02-18; the voids research pipeline is LIFO, so it will not surface on its own. correlationism-and-the-ancestrality-argument L115 records "The necessity-of-contingency material is held in the research note ... and has no live void article"; that page (L58–62, facticity/hyper-chaos) and intrinsic-nature-void (headroom 852) are the two live consumers. Voids at 111/115 by tools.evolution.state.count_section_files on 2026-09-30 — re-measure before creating; refuse if at cap. Slug candidate `contingency-void`; check no live/archived collision. Needs human approval (consumes one of four remaining voids slots). Calibrate per the operation-void wing standard: tenet section graded compatible unless a discriminator is named; Meillassoux's hyper-chaos noted as a modal thesis, not adopted (correlationism L106/L108).
 
-### P3: Name IBE as the explicit opponent of the compatibility ladder in evidential-status-discipline
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/project/evidential-status-discipline.md
-- **Section**: project
-- **Status**: pending
-- **Source**: cross-review 2026-10-01 08:41Z of concepts/inference-to-the-best-explanation-against-dualism
-- **Generated**: 2026-10-01
-- **Notes**: The "Compatibility vs. Support at the Rival-Model Interface" section (around L112–116) phrases the rule as a likeliness test ("fits both predictions → compatibility") and never names inference to the best explanation; the loveliness challenge the new IBE page isolates (Lipton 2004: "both are compatible" answers likeliness, not loveliness) is invisible to it. Add one short paragraph to that section stating that compatibility verdicts answer a likeliness challenge, naming IBE as the explicit opponent form, and linking [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/). Project docs carry no length gate. Keep the ladder's existing wording; add, do not rewrite. `ai_modified` from the real clock; changelog before sync; sync.
-
 ### P3: Run the second-order IBE against the phenomenal-concepts strategy on the IBE page
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/inference-to-the-best-explanation-against-dualism.md
 - **Section**: concepts
-- **Status**: pending
+- **Status**: blocked
+- **Blocked-by**: task — the P3 expand-topic "Write article on rival explanations of the explanatory gap" (concepts/rival-explanations-of-the-explanatory-gap.md, not yet written as of 2026-10-05 19:00Z). Its research note already ran this comparison; once the article lands this task reduces to the one-sentence pointer in the note's Corpus Seams item 2. Picked 2026-10-05 and deferred by the driver so a 300-word paragraph is not written and then cut. Unblock (Status back to pending) when the article exists.
 - **Source**: cross-review 2026-10-01 08:41Z (the page's own first cost names this as unrun)
 - **Generated**: 2026-10-01
 - **Budget**: Updated 2026-10-01 17:57Z. The page is now 3,213 words (286 headroom under the 3,500 `>=` gate) after the accommodation/disconfirmer refine. Two queued sibling P2s from the same pessimistic review need about +85 (Type-B calibration) and +28 (attribution), leaving roughly 170. The "≤300 words" in Notes below no longer fits: cap the paragraph at ~150 words, or fund the excess by condensing elsewhere on the page in the same edit, and re-measure before and after.
@@ -1954,6 +1946,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-05: Name IBE as the explicit opponent of the compatibility ladder in evidential-status-discipline
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/project/evidential-status-discipline.md
+- **Notes**: The "Compatibility vs. Support at the Rival-Model Interface" section (around L112–116) phrases the rule as a likeliness test ("fits both predictions → compatibility") and never names inference to the best explanation; the loveliness challenge the new IBE page isolates (Lipton 2004: "both are compatible" answers likeliness, not loveliness) is invisible to it. Add one short paragraph to that section stating that compatibility verdicts answer a likeliness challenge, naming IBE as the explicit opponent form, and linking [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/). Project docs carry no length gate. Keep the ladder's existing wording; add, do not rewrite. `ai_modified` from the real clock; changelog before sync; sync.
 
 ### ✓ 2026-10-05: `topics/consciousness-and-the-metaphysics-of-individuation` §Kant's Challenge to Dualism cites the Paralogisms for an objection that comes from a different part of the Critique
 - **Type**: refine-draft

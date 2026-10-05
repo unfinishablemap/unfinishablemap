@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-01 19:48:28+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-10-05 19:05:49+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-09-25 18:34:08+00:00
 apex_sources:
 - topics/phenomenology-of-agency-vs-passivity
@@ -40,7 +40,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:54:44+00:00
-lastmod: 2026-10-01 19:48:28+00:00
+lastmod: 2026-10-05 19:05:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -197,7 +197,7 @@ This synthesis draws on:
 ## References
 
 1. Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
-1. Bodien, Y.G., Allanson, J., Cardone, P., Bonhomme, V., Schiff, N.D., Claassen, J. et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391, 598-608.
+1. Bodien, Y.G., Allanson, J., Cardone, P., Bonhomme, A., Carmona, J., Chatelle, C. et al. (2024). Cognitive motor dissociation in disorders of consciousness. *New England Journal of Medicine*, 391, 598-608.
 1. Dawes, A. J. et al. (2020). A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia. *Scientific Reports*, 10, 10022.
 1. Driskell, J. E., Copper, C. & Moran, A. (1994). Does mental practice enhance performance? *Journal of Applied Psychology*, 79(4), 481-492.
 1. Feltz, D. L. & Landers, D. M. (1983). The effects of mental practice on motor skill learning and performance: A meta-analysis. *Journal of Sport Psychology*, 5(1), 25-57.
