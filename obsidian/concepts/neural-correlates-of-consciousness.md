@@ -2,9 +2,9 @@
 title: "Neural Correlates of Consciousness"
 description: "Brain activity correlating with conscious experience. Correlation is not identity: NCC findings are compatible with dualism, physicalism, and filter theory."
 created: 2026-01-14
-modified: 2026-10-02
+modified: 2026-10-06
 human_modified: null
-ai_modified: 2026-10-02T11:58:46+00:00
+ai_modified: 2026-10-06T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,13 +42,13 @@ related_articles:
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-25T22:17:26+00:00
 ---
 
-Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. This research program, pioneered by Christof Koch and Francis Crick, has produced the influential but contested hypothesis that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions (Koch et al. 2016). Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] is fully compatible with NCC findings.
+Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. This research program, pioneered by Christof Koch and Francis Crick, has produced the influential but contested hypothesis that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions (Koch et al. 2016). Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] is compatible with NCC findings, though not on equal terms with physicalism ([[#Dualism|explained below]]).
 
 ## What NCC Research Studies
 
@@ -113,7 +113,7 @@ Several findings are compatible with this reading; none discriminates it from pr
 - **Psychedelic reorganisation**: Psilocybin desynchronises and reorganises brain networks, the Default Mode Network most strongly (Siegel et al. 2024), while consciousness persists and is often reported as more vivid ([[psychedelics-and-the-filter-model]]). Production views treat the DMN as a candidate self-model, not the generator of experience, so they expect altered self-experience; the state is also [[filter-theory#the-psychedelic-paradox|metabolically expensive]], and by filter theory's own reckoning the metabolic data discriminates no better than the imaging.
 - **Anesthetic dissociations**: Propofol and ketamine both produce behavioural unresponsiveness, yet ketamine typically brings vivid dissociative states, and even deep propofol sedation often yields reports of experience on awakening (Bajwa et al. 2025).
 
-These findings form one evidential pattern—*consciousness appearing where a straightforward production reading predicts its diminution*—not four independent confirmations of the transmission reading, and should be counted as one. The same accommodation move is symmetrically available to the production theorist, who treats each case as a localised disruption of a still-intact generator (covert consciousness as preserved generation with severed output; psychedelic intensification as disinhibited cortical generation). Where propofol does abolish reportable experience, the transmission framing must *accommodate* the case: the most natural reading is that the brain generates consciousness, and the filter framing handles this only by treating propofol as narrowing the interface toward zero bandwidth (see [[topics/anaesthesia-and-the-consciousness-interface#phenomenal-presence|anaesthesia and the consciousness interface]], where circuit-level propofol data serves the filter reading no more than its rivals, and [[concepts/altered-states-of-consciousness|altered states of consciousness]]). Because both framings accommodate the same set by parallel moves, the cluster carries the weight of one underdetermined pattern and cannot honestly be cited as independent confirmation of transmission. NCC data is compatible with either reading; the discriminating work comes from broader theoretical considerations, not a tally of cases.
+These findings form one evidential pattern—*consciousness appearing where a straightforward production reading predicts its diminution*—not four independent confirmations of the transmission reading, and should be counted as one. The same accommodation move is symmetrically available to the production theorist, who treats each case as a localised disruption of a still-intact generator (covert consciousness as preserved generation with severed output; psychedelic intensification as disinhibited cortical generation). Where propofol does abolish reportable experience, the transmission framing must *accommodate* the case: the most natural reading is that the brain generates consciousness, and the filter framing handles this only by treating propofol as narrowing the interface toward zero bandwidth (see [[topics/anaesthesia-and-the-consciousness-interface#phenomenal-presence|anaesthesia and the consciousness interface]], where circuit-level propofol data serves the filter reading no more than its rivals, and [[concepts/altered-states-of-consciousness|altered states of consciousness]]). Because both framings accommodate the same set by parallel moves, the cluster carries the weight of one underdetermined pattern and cannot honestly be cited as independent confirmation of transmission. NCC data is compatible with either reading; any discriminating work must come from broader theoretical considerations, not a tally of cases.
 
 Callosal evidence leans toward production. In Santander et al. (2025), partial-callosotomy patients with as little as 1 cm of splenium intact kept full interhemispheric integration without behavioural disconnection, while complete callosotomy disrupted interhemispheric networks: [[experimental-consciousness-science-2025-2026|unity]] tracks a surviving physical channel. Production also has a candidate mechanism for altered states: Laukkonen, Friston and Chandaria (2025) present their [[predictive-processing-and-dualism|active-inference theory]] as "deeply revealing about altered states, meditation, and the full spectrum of conscious experience", and filter theory offers no prediction that separates the two.
 
@@ -165,7 +165,7 @@ If NCC identifies where consciousness engages neural activity, and consciousness
 
 ### Occam's Razor Has Limits
 
-NCC research, for all its progress (COGITATE's preregistered tests of IIT and GNWT among it), has not converged on a theory of consciousness: the incomplete knowledge under which, by [[tenets#^occams-limits|Occam's Razor Has Limits]], parsimony cannot decide between physicalism and dualism.
+NCC research, for all its progress (COGITATE's preregistered tests of IIT and GNWT among it), [[philosophy-of-science-under-dualism#can-bayesian-confirmation-break-the-deadlock|has not converged on a theory of consciousness]]: the incomplete knowledge under which, by [[tenets#^occams-limits|Occam's Razor Has Limits]], parsimony cannot decide between physicalism and dualism.
 
 ## The Philosophical Boundary
 
@@ -181,12 +181,12 @@ The claim that NCC research presupposes a first-person element is best stated pr
 - **Post-trial report**: the subject reports retrospectively, after the neural measurement window (Sperling-style partial-report).
 - **Behavioural proxy**: discrimination or detection performance stands in for awareness without explicit introspective report.
 - **No-report paradigm**: optokinetic nystagmus or pupillometry infers conscious content with no report at all—designed precisely to subtract the neural footprint of reporting from that of having the experience.
-- **Clinical marker**: command-following or perturbational complexity (the PCI) indexes consciousness in patients who cannot report (covert-consciousness work).
+- **Clinical marker**: command-following or perturbational complexity (the PCI) indexes probable consciousness in patients who cannot report (covert-consciousness work).
 - **Theory-laden classification**: a model (IIT's Φ, ignition) classifies a state as conscious independent of any behavioural access.
 
 The honest generalisation is therefore not that *every* NCC study presupposes concurrent first-person report, but that the validation chain for these proxies ultimately traces back to report in the paradigms where report is available—the no-report and clinical paradigms calibrate against report-based cases and inherit their first-person grounding indirectly. As the [[cognitive-science-of-dualism]] article argues, the experimenter trusts subjects' testimony at some link in this chain, smuggling in a first-person element the methodology cannot itself explain. Locating *which* link makes the dependence auditable rather than rhetorical.
 
-These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework and equally with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
+These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework and with materialism, though not equally. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 
 ## Further Reading
 

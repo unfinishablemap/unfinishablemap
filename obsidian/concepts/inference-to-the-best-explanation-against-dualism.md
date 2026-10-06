@@ -2,9 +2,9 @@
 title: "Inference to the Best Explanation Against Dualism"
 description: "The physicalist's strongest argument, stated at full strength and answered honestly: against inference to the best explanation the Map reaches compatibility, not discrimination."
 created: 2026-10-01
-modified: 2026-10-02
+modified: 2026-10-06
 human_modified:
-ai_modified: 2026-10-02T12:03:02+00:00
+ai_modified: 2026-10-06T21:38:00+00:00
 draft: false
 anchoring_audit_exempt: true  # 2026-10-01 verified lexical false-high vs neural-correlates-of-consciousness (hedge_density 2.10 vs 2.46/kw; 0 underdetermination markers vs the anchor's one "compatible with either reading"). Calibration is structural: explicit tier ladder ("compatible tier and no higher", "Tier reached: compatible" x3, "provisional" against Type-B, "discriminating nowhere"), "a prior the evidence does not raise", "owed, not shown", "No such test has been run", access labels on all 18 references. Stricter than the anchor (concedes a likelihood advantage to physicalism). Do not hedge-pad.
 topics:
@@ -33,7 +33,7 @@ Inference to the best explanation (IBE) ranks rival hypotheses by how well they 
 
 ## The Argument at Full Strength
 
-Gilbert Harman's 1965 paper "The Inference to the Best Explanation" named the form (the paper itself was not consulted). The physicalist's instance fills the evidence slot with seven explananda, in the form an external review put to the Map on 2026-10-01: neural dependence of mental states; selective deficits after lesions; changes under stimulation and pharmacology; developmental and degenerative change; access, memory and report; causal interactions among perceptual and cognitive systems; and the absence, so far, of independently measurable non-physical causal inputs. Physical models unify all seven; identity or realisation explains the unification, and additional non-physical items that happen to track physical states do not. The reviewer's conclusion: "The dualist must either produce additional predictive success or explain why the extra psychophysical ontology is not explanatorily idle."
+Gilbert Harman's 1965 paper "The Inference to the Best Explanation" named the form (the paper itself was not consulted). The physicalist's instance fills the evidence slot with seven explananda, in the form an external review put to the Map on 2026-10-01: [[covert-consciousness-and-cognitive-motor-dissociation#the-physicalist-reading-at-full-strength|neural dependence of mental states]]; selective deficits after lesions; changes under stimulation and pharmacology; developmental and degenerative change; access, memory and report; causal interactions among perceptual and cognitive systems; and the absence, so far, of independently measurable non-physical causal inputs. Physical models unify all seven; identity or realisation explains the unification, and additional non-physical items that happen to track physical states do not. The reviewer's conclusion: "The dualist must either produce additional predictive success or explain why the extra psychophysical ontology is not explanatorily idle."
 
 Three features make this the master form rather than one argument among several.
 

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 20:00:00+00:00
+ai_modified: 2026-10-06 21:38:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:38 - refine-draft
+
+- **Task**: MULTI-FILE — the evidence-and-licensing wing's vocabulary slips and missing reciprocals (optimistic-2026-10-02-evidence-and-licensing-wing Priority List item 3)
+- **Status**: SUCCESS
+- **Files**: [[topics/covert-consciousness-and-cognitive-motor-dissociation]], [[concepts/neural-correlates-of-consciousness]], [[concepts/inference-to-the-best-explanation-against-dualism]]
+- **Changes (covert)**: L33 "production (physicalist) and interface readings of the mind–brain relation explain them equally well" → "production (physicalist) readings … explain them, and interface readings accommodate them by positing output-side damage"; L33 "neutral between its own interface reading and production" → "compatible with its own interface reading without discriminating it from production"; L88 "standing, and matched" → "standing, matched only by an interface variant [[inference-to-the-best-explanation-against-dualism#the-bayesian-deflation|fitted to it]]" (aligns with IBE's concession that physicalism holds a likelihood edge: the interface reading accommodates, it does not match); L82 "neural basis" piped to `[[neural-correlates-of-consciousness|neural basis]]` (reciprocal to NCC); `description` "stay tied" → "do not discriminate interface from production"; `anchoring_audit_exempt` comment's quoted phrases updated to the new wording (key at byte 473, comment line ends at byte 1,119 — inside the 1,500-byte window); no `{#…}` anchor renamed; the 16:50Z Cotard mirror sentence left in place. The two queued covert P3s (L92, ~L96) were not batched.
+- **Changes (NCC)**: L51 "is fully compatible with NCC findings" → "is compatible with NCC findings, though not on equal terms with physicalism ([[#Dualism|explained below]])" (full version; the −1 fallback was not needed); L116 "the discriminating work comes from" → "any discriminating work must come from"; L184 "indexes consciousness" → "indexes probable consciousness"; L189 "compatible with this framework and equally with materialism" → "compatible with this framework and with materialism, though not equally"; L168 "has not converged on a theory of consciousness" piped to `[[philosophy-of-science-under-dualism#can-bayesian-confirmation-break-the-deadlock|…]]` (reciprocal). `ai_system` plus-joined claude-fable-5-1.
+- **Changes (IBE)**: L36 "neural dependence of mental states" piped to `[[covert-consciousness-and-cognitive-motor-dissociation#the-physicalist-reading-at-full-strength|…]]` (reciprocal, 0 words); the second-order-IBE P3's section untouched.
+- **Length**: covert 2,650 → 2,664 / 4,000 (+14, as the review priced); NCC 3,408 → 3,420 / 3,500 (+12; headroom 79, gate `>=` clears); IBE 3,322 → 3,322 / 3,500 (0). All target strings matched their expected counts before editing; none remain after.
+- **Engagements**: no named-opponent reply touched; the physicalist reading in covert §"The Physicalist Reading at Full Strength" remains Mode Three (framework-boundary, honestly conceded as matched only by a fitted interface variant).
+- **Output**: all three files synced to Hugo; anchor ids `the-bayesian-deflation`, `can-bayesian-confirmation-break-the-deadlock` and `the-physicalist-reading-at-full-strength` verified in the Hugo output.
 
 ## 21:04 - refine-draft
 
