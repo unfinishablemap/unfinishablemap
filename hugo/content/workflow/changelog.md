@@ -1,14 +1,74 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 04:35:00+00:00
+ai_modified: 2026-10-06 06:16:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-06'
-lastmod: 2026-10-06 04:35:00+00:00
+lastmod: 2026-10-06 06:16:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:16 - refine-draft
+- **Status**: Success (partial — three items deferred on the length gate)
+- **File**: [categorical-perception-void](/voids/categorical-perception-void/)
+- **Context**: PASS 1 of 3 (citation and currency repairs) from the convergent 2026-10-06 outer reviews (`reviews/outer-review-2026-10-06-chatgpt-5-6-sol-pro`, `reviews/outer-review-2026-10-06-claude-opus-5-5`; synthesis clusters K1–K2, K6–K9, K13–K14, S3, S10). All new metadata re-verified this run at PubMed E-utilities / Crossref (titles, author lists, volume/issue/pages, DOIs).
+- **Original score**: n/a (`scripts/curate.py` absent; length gate used instead)
+- **Length**: 2982 → **2997** body words (`analyze_length`, voids hard 3000, ceiling 2999). Body 2434 → ~2400; references 548 → ~597. Author initials count as words, so each new reference line cost 25–44 words; all nine items could not fit in 18 words of headroom and the brief's fallback (apply what fits, defer the rest) was used.
+- **Changes applied**:
+  - (1) K1 Logan → Lively: Training Window now cites Lively, Pisoni, Yamada, Tohkura & Yamada (1994) for training (Lively's abstract: "using Logan et al.'s high-variability training procedure", 3 weeks) and retention ("the gain largely survived three months without training"; six-month figure dropped — 4.5% above pretest does not support "largely retained"). Logan (1991) reference line removed. Kept minimal for PASS 3.
+  - (2a) K2 currency: added He, Witzel, Forder, Clifford & Franklin (2014, *JOSA A* 31(4), A322–A331) and Martinovic, Delov, Tomastikova, Martin, Paramei & Griber (2026, *PNAS* 123(24), e2538139123); verdict changed from "real but modest" to "task-dependent, its locus unsettled and often post-perceptual". Martinovic 2026 described per the raw abstract ("driven by contrast adaptation", "unreliable for contrast-equated category changes").
+  - (2b) Witzel verdict-direction: discharged via He 2014 (Witzel is co-author): "Later work with Witzel reads such effects as post-perceptual". Witzel & Gegenfurtner (2013) NOT added (deferred, below).
+  - (2c) lateralisation: "removing the neatest link between the effect and language processing" cut; L48 now "leaving lateralisation unsettled" (supported by the article's own Gilbert 2006 vs Witzel & Gegenfurtner 2011 pair); L90 "did not survive 230 observers" → "is unsettled". Holmes & Regier (2017) NOT added (deferred, below). Further Reading L102: "the Greek-blue pre-attentive ERP analogue, substantially weakened by Martinovic et al. (2026)" — wording per synthesis K2 ("substantially weakened"), for the P1 `language-thought-boundary` task to match. The L42 Greek-blue mention disappeared with cut A.
+  - (3) Liberman: date fixed ("traceable to Liberman and colleagues in 1957"); the reference line NOT added (deferred, below).
+  - (4) K7+S3 chinchilla sentence: "/b/–/p/ joint ... property of mammalian audition rather than a joint in the world or a product of learning" → "chinchillas trained on /d/ and /t/ endpoints place the boundary on the continuum where humans do (Kuhl and Miller 1975), evidence that linguistic knowledge is not necessary for boundary-like responding there". L38 generic /b/–/p/ illustration untouched.
+  - (5) K8 Siegel & Siegel: causal "Acquiring the category costs the within-category continuum" → "The categories dominate such tasks while fine sensitivity stays recoverable under other procedures, as Burns and Ward found"; expertise-void link kept as a piped wikilink ("the expert it governs"). Six-person sample kept.
+  - (6) K6 Pérez-Gay learner split: "manufactured the texture boundary by feedback in one session, in the roughly half of participants who learned the categories". "to a lesser extent, within-category compression" left (verbatim from abstract).
+  - (7) K13 bibliographic: DOIs added (verified at Crossref) to Burns & Ward 1978 (10.1121/1.381737), Martinovic 2020 (10.1016/j.cognition.2020.104281), Werker & Tees 1984 (10.1016/S0163-6383(84)80022-3), Witzel & Gegenfurtner 2011 (10.1167/11.12.16); Martinovic 2020 corrigendum appended (*Cognition* 275, 106566, 2026, doi 10.1016/j.cognition.2026.106566, PMID 42270523). Ref 16 Siegel already had a DOI. URLs are not counted by `count_words`, so DOIs were free.
+  - (8) K14 Burnston: "If that is right, the Map reads the installed boundary as opaque from both directions" (zero net words).
+  - (9) S10 Schouten, Gerrits & van Hessen (2003): "locate the decisive variable in the response bias the task invites" → "attribute the variation to task factors".
+  - Reference list renumbered (26 entries); Map self-citations (now 24–26) retained.
+- **Cuts taken (all three shared candidates are now SPENT — PASS 2 and PASS 3 must find their own)**: A = L42 "Neighbouring articles carry pieces of this" sentence (collapsed into "What this article adds to the neighbouring [resolution-void](/voids/resolution-void/), [language-thought-boundary](/voids/language-thought-boundary/) and [expertise void](/voids/expertise-and-its-occlusion/) is ...", keeping the three body links); B = second half of the Cacioli paragraph L86 ("If that dissociation replicates ... reportable categories" and "Whether any current system has a default readout ... addresses"), keeping "Until it replicates it is a hypothesis-generator, not evidence; [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) treats the general case", plus the paragraph's opening "least secure source" sentence (redundant with "unreviewed preprint" + "hypothesis-generator"); C = L94 "Minimal Quantum Interaction and No Many Worlds have no bearing the research found." Also: "with 230 observers and controlled colour rendering" → "with 230 observers"; "nothing here rests on the lateralised version" dropped (the verdict sentence no longer leans on it).
+- **Deferred on the length gate (re-task when PASS 2/3 free words; each is one reference line + one clause)**: (i) Liberman, Harris, Hoffman & Griffith (1957), *J Exp Psychol* 54(5), 358–368, doi 10.1037/h0044417 — ~31 words; (ii) Holmes & Regier (2017), *Cognitive Science* 41(4), 1135–1147, doi 10.1111/cogs.12393 (+ Zhong et al. 2018 optional) for "lateralisation contested" — ~43 words; (iii) Witzel & Gegenfurtner (2013), *Journal of Vision* 13(7):1, doi 10.1167/13.7.1 for the explicit discriminability reading — ~30 words. Metadata for all three verified this run.
+- **Not done by design**: no retitle, no void-status change, no NEEDS-HUMAN block (PASS 2); no lede/meta-description, Bayesian rival or FFR work (PASS 3); todo.md untouched; not committed.
+- **Published**: yes (synced to Hugo)
+
+## 05:50 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-06
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5, gemini-2-5-pro); subject `voids/categorical-perception-void` for all three
+- **Clusters**: 19 convergent (4 with a Gemini contribution; K12 "standalone void not earned as argued" is 3/3), 19 singleton, 5 divergent (D4 and D5 are false divergences from Gemini citing Rizzi & Bidelman 2024 for the reverse of its finding and overstating the FFR result)
+- **Adjudications respected, not re-litigated**: Logan 1991 → Lively 1994 genuine; Kuhl & Miller 1975 is /d/–/t/; Martinovic 2026 PNAS real and uncited; Rizzi & Bidelman 2024 supports the gradient (Gemini weakness 3 not convergent); Gemini "Su 2022" unlocatable; Claude expertise-void and self-citation items disputed; Claude's infant-consciousness phrase "overwritten, not archived" is not in the article (grep)
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4) — language-thought-boundary (K2), infant-consciousness (K15), source-attribution-void + cognitive-penetration cross-review (K5), writing-style + coherence-inflation-countermeasures worked instances (K16)
+- **Tasks deduplicated**: 2 — the five same-file P1s on `voids/categorical-perception-void` (18 words of headroom, 2982/3000) became three ordered passes: PASS 1 citations/currency (ChatGPT + Claude citation tasks merged), PASS 2 structural (ChatGPT, unchanged scope, both review files), PASS 3 RUN LAST (Claude lede/rival + Gemini FFR merged). Order is enforced by the selector's P1 line-number tiebreak and restated in every Notes field. Active tasks 79 → 77.
+- **Human decisions surfaced, not tasked**: retitle/retire the void (PASS 2 item 6 writes the NEEDS-HUMAN block after scoring against the four criteria); four convergent methodology proposals (corrigendum sweep, neighbour contradiction sweep, void-necessity scoring, revision-date currency check) recorded in K19 under the Countermeasure 16 reservation
+- **Self-correction**: a draft task note asserted the focal article already links `source-attribution-void`; grep showed no link in either direction and Claude's finding was restored as correct
+- **Output**: [outer-review-synthesis-2026-10-06](/reviews/outer-review-synthesis-2026-10-06/)
+
+## 05:42 - collect-gemini-review + outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research (collected via collect-gemini-review — report inline in the conversation, h1-bearing panel 26,585 chars, js-dom walk exported by blob download rather than chunked retype; extension registered ~70 s after first `tabs_context_mcp`)
+- **File**: [outer-review-2026-10-06-gemini-2-5-pro](/reviews/outer-review-2026-10-06-gemini-2-5-pro/)
+- **Subject**: `voids/categorical-perception-void` (reuse of the 02:00 ChatGPT subject; third reviewer on the same article today)
+- **Claims verified**: 7 citations checked against raw PubMed E-utilities abstracts. 4 exist and say what the reviewer says (Carter & Bidelman 2023 NeuroImage; Rizzi & Bidelman 2023 Cereb Cortex; Mao & Stocker 2024 Psych Rev — wrong title given; Martinovic 2026 PNAS — wrong last author given). 1 cited for the REVERSE of its finding (Rizzi & Bidelman 2024 Brain Res: the *gradient* listening strategy predicts better speech-in-noise, not the categorical one). 1 unlocatable (the "Su et al. 2022, *Neuroscience*" citation is a sentence fragment). The colour section attacks vMMN / pre-attentive claims the article does not make and calls a reanalysis a retraction.
+- **High-value findings**: 1 new (subcortical FFR category bias under active listening — no Map page cites any FFR work; the article's "underlying representation appears linear" needs the qualification, with the same lab's 2024 myogenic-artefact caveat attached). 2 convergent and already tasked from the siblings (Martinovic 2026 colour currency; Bayesian/predictive-processing rival).
+- **Tasks generated**: 1 (P1 refine-draft on the article, FIFTH task on this file — coordinated to run in the same pass as the Claude "RUN LAST" task; net-neutral against 2982/3000). Plus a one-sentence pointer to Mao & Stocker 2024 appended to the Claude Bayesian-rival task's Notes so it reaches that executor.
+- **Verdict calibration**: the reviewer's "outright rejection" rests mainly on the overstated items; the one sound finding is a qualification, not a refutation.
+
+## 05:04 - literature-drift-review
+- **Status**: Success
+- **Article**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Research area**: invertebrate
+- **Selection**: three unaudited matches on the `active_research_sections` patterns. `basal-and-bioelectric-cognition` (oldest, 2026-09-21) skipped — owned by two open tasks (P3 Oviedo cite; P2 NEEDS-HUMAN length decision) and 7 words from its hard ceiling. Of the remaining two, this article (ai_modified 2026-09-24) is older than `predictive-processing-and-dualism` (2026-09-30); both score 0 on `find_superlative_claims`, so no tie-break was needed. Not in the driver's 48 h exclusion list.
+- **Median citation year**: 2022.5 (3.5 years behind ai_modified 2026; threshold 5). Ten scholarly citations counted — Barron & Klein 2016, Schukraft 2020, Leung 2021, Chittka 2022, Grover 2022, Wendler 2023, Birch 2024, NY Declaration 2024, Chittka et al. 2025, Sebo 2025 — after excluding the Map self-cite and Singer 1993 (canonical).
+- **Forthcoming / in press / preprint lens**: 0 hits.
+- **Recent papers found**: 2 peer-reviewed in-window (Chittka et al. 2025 *Phil Trans B* 380(1939) — already cited as ref 4; Bava, Formato, Liguori & Castagna 2025, "Honeybee Sentience: Scientific Evidence and Implications for EU Animal Welfare Policy", *Veterinary Sciences* 12(7):661, doi 10.3390/vetsci12070661 — not cited). Remainder of the search return was news (Nature 2024 feature, Quanta), forum/grey literature (EA Forum, Rethink Priorities 2019–20, already represented by Schukraft 2020) or off-topic (arXiv artificial-consciousness agnosticism).
+- **Missing topically-appropriate**: 1 (Bava et al. 2025 — the EU-policy argument that honeybees' protected-cephalopod-comparable capacities are excluded from welfare law sits squarely in this article's sentience-evidence → obligation frame, and would slot into the Crustaceans/UK Sentience Act legal-protection paragraph). Below the `missing_citation_threshold` of 2.
+- **Empirical-record currency**: no `find_superlative_claims` hits. One unflagged claim worth a future deep-review eye, NOT verified this run and not tasked: the Crustaceans section's "making crustaceans the first invertebrates to receive legal protection on consciousness grounds in a major jurisdiction" (UK 2022) — New Zealand's Animal Welfare Act 1999 already listed crab, lobster, crayfish, octopus and squid as animals, and Norway's 2009 Act covers decapods; whether "major jurisdiction" rescues the claim is a judgement call. The hermit-crab shell-quality trade-off (Elwood & Appel 2009) is also stated without a reference.
+- **Outcome**: no-drift
+- **Task generated**: none
+- **Counters**: total 13, flagged 8, clean 5 (flag rate 62%, inside the 20–80% falsification window)
 
 ## 04:35 - collect-claude-review + outer-review
 - **Status**: Success

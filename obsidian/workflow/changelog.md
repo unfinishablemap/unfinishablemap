@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 05:50:00+00:00
+ai_modified: 2026-10-06 06:16:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:16 - refine-draft
+- **Status**: Success (partial — three items deferred on the length gate)
+- **File**: [[voids/categorical-perception-void]]
+- **Context**: PASS 1 of 3 (citation and currency repairs) from the convergent 2026-10-06 outer reviews (`reviews/outer-review-2026-10-06-chatgpt-5-6-sol-pro`, `reviews/outer-review-2026-10-06-claude-opus-5-5`; synthesis clusters K1–K2, K6–K9, K13–K14, S3, S10). All new metadata re-verified this run at PubMed E-utilities / Crossref (titles, author lists, volume/issue/pages, DOIs).
+- **Original score**: n/a (`scripts/curate.py` absent; length gate used instead)
+- **Length**: 2982 → **2997** body words (`analyze_length`, voids hard 3000, ceiling 2999). Body 2434 → ~2400; references 548 → ~597. Author initials count as words, so each new reference line cost 25–44 words; all nine items could not fit in 18 words of headroom and the brief's fallback (apply what fits, defer the rest) was used.
+- **Changes applied**:
+  - (1) K1 Logan → Lively: Training Window now cites Lively, Pisoni, Yamada, Tohkura & Yamada (1994) for training (Lively's abstract: "using Logan et al.'s high-variability training procedure", 3 weeks) and retention ("the gain largely survived three months without training"; six-month figure dropped — 4.5% above pretest does not support "largely retained"). Logan (1991) reference line removed. Kept minimal for PASS 3.
+  - (2a) K2 currency: added He, Witzel, Forder, Clifford & Franklin (2014, *JOSA A* 31(4), A322–A331) and Martinovic, Delov, Tomastikova, Martin, Paramei & Griber (2026, *PNAS* 123(24), e2538139123); verdict changed from "real but modest" to "task-dependent, its locus unsettled and often post-perceptual". Martinovic 2026 described per the raw abstract ("driven by contrast adaptation", "unreliable for contrast-equated category changes").
+  - (2b) Witzel verdict-direction: discharged via He 2014 (Witzel is co-author): "Later work with Witzel reads such effects as post-perceptual". Witzel & Gegenfurtner (2013) NOT added (deferred, below).
+  - (2c) lateralisation: "removing the neatest link between the effect and language processing" cut; L48 now "leaving lateralisation unsettled" (supported by the article's own Gilbert 2006 vs Witzel & Gegenfurtner 2011 pair); L90 "did not survive 230 observers" → "is unsettled". Holmes & Regier (2017) NOT added (deferred, below). Further Reading L102: "the Greek-blue pre-attentive ERP analogue, substantially weakened by Martinovic et al. (2026)" — wording per synthesis K2 ("substantially weakened"), for the P1 `language-thought-boundary` task to match. The L42 Greek-blue mention disappeared with cut A.
+  - (3) Liberman: date fixed ("traceable to Liberman and colleagues in 1957"); the reference line NOT added (deferred, below).
+  - (4) K7+S3 chinchilla sentence: "/b/–/p/ joint ... property of mammalian audition rather than a joint in the world or a product of learning" → "chinchillas trained on /d/ and /t/ endpoints place the boundary on the continuum where humans do (Kuhl and Miller 1975), evidence that linguistic knowledge is not necessary for boundary-like responding there". L38 generic /b/–/p/ illustration untouched.
+  - (5) K8 Siegel & Siegel: causal "Acquiring the category costs the within-category continuum" → "The categories dominate such tasks while fine sensitivity stays recoverable under other procedures, as Burns and Ward found"; expertise-void link kept as a piped wikilink ("the expert it governs"). Six-person sample kept.
+  - (6) K6 Pérez-Gay learner split: "manufactured the texture boundary by feedback in one session, in the roughly half of participants who learned the categories". "to a lesser extent, within-category compression" left (verbatim from abstract).
+  - (7) K13 bibliographic: DOIs added (verified at Crossref) to Burns & Ward 1978 (10.1121/1.381737), Martinovic 2020 (10.1016/j.cognition.2020.104281), Werker & Tees 1984 (10.1016/S0163-6383(84)80022-3), Witzel & Gegenfurtner 2011 (10.1167/11.12.16); Martinovic 2020 corrigendum appended (*Cognition* 275, 106566, 2026, doi 10.1016/j.cognition.2026.106566, PMID 42270523). Ref 16 Siegel already had a DOI. URLs are not counted by `count_words`, so DOIs were free.
+  - (8) K14 Burnston: "If that is right, the Map reads the installed boundary as opaque from both directions" (zero net words).
+  - (9) S10 Schouten, Gerrits & van Hessen (2003): "locate the decisive variable in the response bias the task invites" → "attribute the variation to task factors".
+  - Reference list renumbered (26 entries); Map self-citations (now 24–26) retained.
+- **Cuts taken (all three shared candidates are now SPENT — PASS 2 and PASS 3 must find their own)**: A = L42 "Neighbouring articles carry pieces of this" sentence (collapsed into "What this article adds to the neighbouring [[resolution-void]], [[language-thought-boundary]] and [[expertise-and-its-occlusion|expertise void]] is ...", keeping the three body links); B = second half of the Cacioli paragraph L86 ("If that dissociation replicates ... reportable categories" and "Whether any current system has a default readout ... addresses"), keeping "Until it replicates it is a hypothesis-generator, not evidence; [[non-human-minds-as-void-explorers]] treats the general case", plus the paragraph's opening "least secure source" sentence (redundant with "unreviewed preprint" + "hypothesis-generator"); C = L94 "Minimal Quantum Interaction and No Many Worlds have no bearing the research found." Also: "with 230 observers and controlled colour rendering" → "with 230 observers"; "nothing here rests on the lateralised version" dropped (the verdict sentence no longer leans on it).
+- **Deferred on the length gate (re-task when PASS 2/3 free words; each is one reference line + one clause)**: (i) Liberman, Harris, Hoffman & Griffith (1957), *J Exp Psychol* 54(5), 358–368, doi 10.1037/h0044417 — ~31 words; (ii) Holmes & Regier (2017), *Cognitive Science* 41(4), 1135–1147, doi 10.1111/cogs.12393 (+ Zhong et al. 2018 optional) for "lateralisation contested" — ~43 words; (iii) Witzel & Gegenfurtner (2013), *Journal of Vision* 13(7):1, doi 10.1167/13.7.1 for the explicit discriminability reading — ~30 words. Metadata for all three verified this run.
+- **Not done by design**: no retitle, no void-status change, no NEEDS-HUMAN block (PASS 2); no lede/meta-description, Bayesian rival or FFR work (PASS 3); todo.md untouched; not committed.
+- **Published**: yes (synced to Hugo)
 
 ## 05:50 - combine-outer-reviews
 - **Status**: Success
