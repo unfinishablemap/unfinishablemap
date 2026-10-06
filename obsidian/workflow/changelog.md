@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 02:01:00+00:00
+ai_modified: 2026-10-06 02:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:36 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched; the expected steady-state outcome)
+- **Pool movement since the 2026-10-05 16:50 sweep: ZERO.** `git log --since=2026-10-05T16:50Z --diff-filter=ADR` over topics/, concepts/, voids/, apex/, positions/ and archive/ returns nothing; all intervening commits edited existing pages. Cap state (`count_section_files`): voids 113/115, concepts 347/360, topics 343/360 (gate figure; 342 real articles — the known sidecar over-count), positions 23/80.
+- **Method**: re-ran yesterday's `sweep_coalesce.py` unchanged apart from the clock (14-day floor now 2026-09-22 on `ai_modified`/`created`; `.refinement-log` sidecars and section index files excluded before pairing; TF-IDF on discriminative body terms, 2–8% document frequency, reference apparatus and house-style headings stripped). Eligible after the floor: voids 68, topics 173, concepts 171. Then re-screened feasibility on `analyze_length` TOTALS rather than prose.
+- **Result — ranking identical to yesterday, every section.** Top pairs by section: voids `fusion-void`+`modality-void` 0.262 (sum 4487 vs 3000, carries a distinction heading); topics `interoceptive-consciousness-and-the-interface`+`thermal-consciousness-and-the-interface` 0.435 (sum 7025 vs 4000); concepts `atemporal-causation`+`time-symmetric-physics` 0.519 (sum 5699 vs 3500, distinction heading). The two concepts pairs read on the merits yesterday — `prehension`+`subjective-aim` (0.379, 3642) and `time-symmetric-physics`+`transactional-interpretation-of-quantum-mechanics` (0.343, 3976) — remain the top prose-feasible pairs and still exceed the 3500 hard threshold on totals; not re-read.
+- **Feasible on `analyze_length` totals**: voids **0** pairs, topics **0** pairs, concepts **119** pairs — best `grain-mismatch`+`phenomenal-presentation` at 0.144 (sum 3435, leaving 65 words of headroom under 3500), then 0.096 and below. 0.144 is background-level similarity for this corpus (real overlap sits at 0.34+); nothing to read.
+- **Cross-section top 10** (0.635 down to 0.454) are all concept-vs-applying-topic pairs (`biological-computationalism` / `biological-computationalisms-inadvertent-case-for-dualism`, `selection-only-channel` / `selection-only-mind-influence`, …) — excluded by rule, and every one sums well over any section's hard threshold.
+- **Shared `coalesced_from` ancestry**: unchanged — four sibling pairs inside the age floor; `anoetic-noetic-autonoetic-consciousness`+`episodic-memory` sums 6486.
+- **Note for operator**: voids is two slots from cap and no length-feasible voids pair exists; relief has to come from archival or a cap change. The next sweep need not run before the pool moves (a new article, an archival, or an age-floor crossing of the biology/Whitehead clusters).
 
 ## 02:01 - refine-draft
 - **Status**: Success
