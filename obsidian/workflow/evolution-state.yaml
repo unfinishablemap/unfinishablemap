@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-06T07:44:25.501045+00:00'
-session_count: 22163
+last_updated: '2026-10-06T07:50:02.506907+00:00'
+session_count: 22164
 cycle_position: 14352
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-06T06:27:49.569858+00:00'
-  embed-videos: '2026-10-05T19:19:56.179279+00:00'
+  embed-videos: '2026-10-06T07:50:02.506907+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
   harvest-research-subjects: '2026-10-06T02:20:21.641563+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-chatgpt-review
-  type: commission-chatgpt-review
-  date: '2026-10-06'
-  outcome: success
-  kind: commission
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-06'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-06'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-10-06'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-normative-force/
