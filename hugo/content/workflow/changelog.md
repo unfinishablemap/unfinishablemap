@@ -4,11 +4,26 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-05 20:50:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-05'
-lastmod: 2026-10-05 20:50:35+00:00
+date: '2026-10-06'
+lastmod: 2026-10-06 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:00 - refine-draft
+
+- **Task**: optimistic-2026-10-05 today-changed-pages wing, Priority items 1-3 (inline by the driver)
+- **Status**: completed
+- **Changes**: death-and-consciousness L77 gloss reworded (neutrality is an attitude thesis: "how one regards the part of a life already lived"); responsibility-gradient L152 "the posit" -> "that posit"; scale-types-for-phenomenal-quantities L65 zero-word pipe to [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/). All 0 words.
+
+## 23:59 - optimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: the **today's-changed-pages wing** — the ten pages changed on 2026-10-05 that no review had covered: `apex/phenomenal-variation-within-a-species` (apex-evolve 10:54Z; 4,971/5,000, 28 words headroom), `topics/death-and-consciousness` (temporal-neutrality paragraph), `topics/responsibility-gradient-from-attentional-capacity` (floor repair), `concepts/interpreter-module-narrative-construction-unity` and `concepts/filter-vs-interface-distinction` (deep-reviewed today, both declared converged), `tenets/background-commitments` + `apex/one-world-wager` (matched diverging-worlds concessions), `topics/jain-philosophy-of-mind`, `topics/analytic-idealism-and-mind-centric-metaphysics`, `project/evidential-status-discipline` (IBE paragraph; human-reserved doc).
+- **Output**: [optimistic-2026-10-05-today-changed-pages-wing](/reviews/optimistic-2026-10-05-today-changed-pages-wing/)
+- **Headline — the fork's own synthesis paragraph in the apex is verified, not a defect.** Its "no *rational, unimpaired* system can be so mistaken" tracks Chalmers' own sentence in *Absent Qualia, Fading Qualia, Dancing Qualia* ("no rational system whose cognitive mechanisms are unimpaired can be so mistaken"; consc.net, 23:55Z) more closely than the host article does. All three carried-over citations check at Crossref (Stevenson & Case 2005, Arshamian & Larsson 2014, Jordan et al. 2010); the Arshamian full text supports the olfactory near-aphantasia reading; the Parfit 1984, 175 span matches McMahan's quotation of it. The IBE paragraph does not contradict its ladder (it states "the ladder is unchanged") and is lens-shaped, not a gate.
+- **Yield (4 items, all word-neutral or zero-cost)**: (1) `death-and-consciousness` L77 gloss "how much the part of a life already lived **counts**" reads as a welfare claim neither Parfit nor Sullivan makes — "how one regards ..." (+0); (2) `responsibility-gradient` L152 "without the posit" has no antecedent — "that posit" (+0), fenced away from the three operator-held quantifier sentences at L47/L126/L136; (3) piped reciprocal from `scale-types-for-phenomenal-quantities` L65 (7 words headroom) to the apex that now rests on it; (4) reciprocal from `descriptive-experience-sampling` (0 mentions, 604 headroom).
+- **Blocked, for the rider ledger**: `arguments/many-worlds-argument` L59/L83 still state the fission premise without the diverging-worlds concession installed today on two dependents; file is at hard_warning under a NEEDS-HUMAN length entry whose rider already holds zero-word fixes.
+- **New article subjects**: none (deduped against live + `research/`; olfactory imagery is covered by `imagery-void`).
 
 ## 23:35 - refine-draft
 

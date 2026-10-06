@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-05 09:50:15+00:00
+ai_modified: 2026-10-05 23:59:45+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 15:12:26+00:00
-lastmod: 2026-10-05 09:50:15+00:00
+lastmod: 2026-10-05 23:59:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,7 +153,7 @@ The moral implications extend in both directions. Where most discussions of grad
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The Map reads the gradient as grading an irreducible conscious agent rather than a brain state. The gradient does not need that reading: a physicalist grades responsibility by the same capacities, and [practical unity](/topics/the-divided-will/#practical-unity) supplies the agent being graded without the posit. Dualism changes what the graded agent is, not whether the gradient applies.
+**[Dualism](/tenets/#dualism)**: The Map reads the gradient as grading an irreducible conscious agent rather than a brain state. The gradient does not need that reading: a physicalist grades responsibility by the same capacities, and [practical unity](/topics/the-divided-will/#practical-unity) supplies the agent being graded without that posit. Dualism changes what the graded agent is, not whether the gradient applies.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The gradient specifies that consciousness exercises causal power through attention, and that the scope of this power varies. Bidirectional interaction is not all-or-nothing; it operates within the bandwidth constraints of the attentional channel.
 

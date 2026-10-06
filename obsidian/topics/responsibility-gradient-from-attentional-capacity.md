@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-10-05T09:50:15+00:00
+ai_modified: 2026-10-05T23:59:45+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -149,7 +149,7 @@ The moral implications extend in both directions. Where most discussions of grad
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The Map reads the gradient as grading an irreducible conscious agent rather than a brain state. The gradient does not need that reading: a physicalist grades responsibility by the same capacities, and [[the-divided-will#practical-unity|practical unity]] supplies the agent being graded without the posit. Dualism changes what the graded agent is, not whether the gradient applies.
+**[[tenets#^dualism|Dualism]]**: The Map reads the gradient as grading an irreducible conscious agent rather than a brain state. The gradient does not need that reading: a physicalist grades responsibility by the same capacities, and [[the-divided-will#practical-unity|practical unity]] supplies the agent being graded without that posit. Dualism changes what the graded agent is, not whether the gradient applies.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The gradient specifies that consciousness exercises causal power through attention, and that the scope of this power varies. Bidirectional interaction is not all-or-nothing; it operates within the bandwidth constraints of the attentional channel.
 
