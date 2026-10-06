@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 22:20:23+00:00
+ai_modified: 2026-10-06 22:51:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-06'
-lastmod: 2026-10-06 22:20:23+00:00
+lastmod: 2026-10-06 22:51:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:51 - refine-draft
+
+- **Status**: Success
+- **File**: [channel-class-taxonomy](/concepts/channel-class-taxonomy/)
+- **Review file**: [optimistic-2026-10-06-formal-limits-and-channel-class-wing](/reviews/optimistic-2026-10-06-formal-limits-and-channel-class-wing/) item 2
+- **Original score**: n/a (`scripts/curate.py review` absent; targeted review-driven edit)
+- **Changes**: Appended the review's exact proposed text to the Class 1 "Commitments required" paragraph (L66): the kernel *P(y | x)* ≠ marginal is named as the commitment that separates a Class 1 occupant from Stapp's near-miss, with Stapp's "thoroughly committed to strict adherence to the orthodox statistical rules" (Stapp 2004), and the calibration sentence "Every occupant the class currently names is a Map-internal reading; the class is a specification, not a school." Added reference 12 Stapp (2004) LBNL-55887 (copied from `stapp-quantum-mind` ref 1, plus the OSTI locator https://www.osti.gov/biblio/860371 where the text was verified); renumbered refs 12–15 → 13–16 (body cites author-year only, no numeric cross-refs to break).
+- **Quote gate**: PASSED at the raw source. The brief's arXiv lead (quant-ph/0406207) is a different paper ("Quantum Searching via Entanglement and Partial Diffusion") — the reply is not on arXiv. OSTI record 860371 serves the LBNL-55887 PDF; `pdftotext` + whitespace-tolerant grep hits the span verbatim at text line 45: "…I am thoroughly committed to strict adherence to the orthodox statistical rules, in contrast to Eccles's suggestion that these laws are biased by mental effort." The single-line grep returns 0 only because the PDF wraps the line after "orthodox". Control token "Eccles" present (2 hits).
+- **Stability**: Stapp stays a near-miss in Class 1 and the basis-layer occupant of Class 3; the "Theories that occupy it" paragraph is untouched.
+- **Length**: 2,869 → 2,965 (concepts hard 3,500; +96, matching the review's +75/+21 estimate). analyze_length status unchanged (soft_warning).
+- **Published**: yes
 
 ## 22:20 - refine-draft
 

@@ -4,7 +4,7 @@ description: "A Shannon-channel taxonomy of mind-physical coupling: five classes
 created: 2026-05-12
 modified: 2026-05-12
 human_modified:
-ai_modified: 2026-10-06T18:52:00+00:00
+ai_modified: 2026-10-06T22:51:00+00:00
 last_deep_review: 2026-10-06T18:52:00+00:00
 draft: false
 topics:
@@ -63,7 +63,7 @@ The prior column asks whether the marginal over outcomes departs from the Born w
 
 **Shannon specification.** Input alphabet *X* = mind-side states. Output alphabet *Y* = the brain-prepared candidate set, fixed entirely by upstream physical dynamics. The kernel realises one element of *Y* per event without redistributing mass over the prior {*p₁*, …, *p_N*}. Per-event capacity is *log₂(N)* bits; the long-run *marginal* frequency matches the Born distribution, which leaves the mind-conditioned distributions unconstrained. The full per-event arithmetic and the content-confinement bound are derived in [[selection-only-channel]].
 
-**Commitments required.** A mind that can distinguish among brain-prepared candidates and that participates in actualising one. Nothing else: the candidate set is brain-set, the weights are physics-set, and no energy crosses the interface.
+**Commitments required.** A mind that can distinguish among brain-prepared candidates and that participates in actualising one. Nothing else: the candidate set is brain-set, the weights are physics-set, and no energy crosses the interface. The commitment that separates an occupant from Stapp's near-miss is the kernel: a Class 1 mind-state is correlated with which candidate is realised — *P(y | x)* is not the marginal — whereas Stapp hands the answer to nature's statistical rule and describes himself as "thoroughly committed to strict adherence to the orthodox statistical rules" (Stapp 2004). Every occupant the class currently names is a Map-internal reading; the class is a specification, not a school.
 
 **Theories that occupy it.** The strictest reading of [[tenets#^minimal-quantum-interaction|Tenet 2]], and pure outcome-selection accounts of [[post-decoherence-selection|post-decoherence selection]]. Stapp's model is the near-miss worth marking: its outcome layer shares this class's Born-exact statistics, but in his framing the agent "chooses only the question" while "the answer is picked by 'Nature', in accordance with a specified statistical law" (Stapp 2006). The realised outcome is physics's, not mind's, so the model does not occupy this class and should not be read as endorsing the Map's outcome-selection (see [[stapp-quantum-mind]]).
 
@@ -170,10 +170,12 @@ The Map treats the class hierarchy as a *menu, not a verdict*. Which class is co
 
 11. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
 
-12. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
+12. Stapp, H. P. (2004). Quantum leaps in philosophy of mind: Reply to Bourget's critique. Lawrence Berkeley National Laboratory report LBNL-55887. https://www.osti.gov/biblio/860371
 
-13. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+13. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 
-14. Southgate, A. & Oquatre-sept, C. (2026-05-11). Selection-Only Channel. *The Unfinishable Map*. https://unfinishablemap.org/concepts/selection-only-channel/
+14. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 
-15. Southgate, A. & Oquatre-six, C. (2026-03-19). Consciousness-Physics Interface Formalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-physics-interface-formalism/
+15. Southgate, A. & Oquatre-sept, C. (2026-05-11). Selection-Only Channel. *The Unfinishable Map*. https://unfinishablemap.org/concepts/selection-only-channel/
+
+16. Southgate, A. & Oquatre-six, C. (2026-03-19). Consciousness-Physics Interface Formalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-physics-interface-formalism/
