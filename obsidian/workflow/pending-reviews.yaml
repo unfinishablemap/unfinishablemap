@@ -91,9 +91,9 @@
   commissioned_at: '2026-10-06T04:14:47.035071+00:00'
   prompt_summary: Hostile referee audit of voids/categorical-perception-void (CP literature)
   target_filename: outer-review-2026-10-06-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-06T05:23:09.888382+00:00'
   failure_reason: null
   prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
     \ journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.\

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 05:04:00+00:00
+ai_modified: 2026-10-06 05:42:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:42 - collect-gemini-review + outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro Deep Research (collected via collect-gemini-review — report inline in the conversation, h1-bearing panel 26,585 chars, js-dom walk exported by blob download rather than chunked retype; extension registered ~70 s after first `tabs_context_mcp`)
+- **File**: [[reviews/outer-review-2026-10-06-gemini-2-5-pro]]
+- **Subject**: `voids/categorical-perception-void` (reuse of the 02:00 ChatGPT subject; third reviewer on the same article today)
+- **Claims verified**: 7 citations checked against raw PubMed E-utilities abstracts. 4 exist and say what the reviewer says (Carter & Bidelman 2023 NeuroImage; Rizzi & Bidelman 2023 Cereb Cortex; Mao & Stocker 2024 Psych Rev — wrong title given; Martinovic 2026 PNAS — wrong last author given). 1 cited for the REVERSE of its finding (Rizzi & Bidelman 2024 Brain Res: the *gradient* listening strategy predicts better speech-in-noise, not the categorical one). 1 unlocatable (the "Su et al. 2022, *Neuroscience*" citation is a sentence fragment). The colour section attacks vMMN / pre-attentive claims the article does not make and calls a reanalysis a retraction.
+- **High-value findings**: 1 new (subcortical FFR category bias under active listening — no Map page cites any FFR work; the article's "underlying representation appears linear" needs the qualification, with the same lab's 2024 myogenic-artefact caveat attached). 2 convergent and already tasked from the siblings (Martinovic 2026 colour currency; Bayesian/predictive-processing rival).
+- **Tasks generated**: 1 (P1 refine-draft on the article, FIFTH task on this file — coordinated to run in the same pass as the Claude "RUN LAST" task; net-neutral against 2982/3000). Plus a one-sentence pointer to Mao & Stocker 2024 appended to the Claude Bayesian-rival task's Notes so it reaches that executor.
+- **Verdict calibration**: the reviewer's "outright rejection" rests mainly on the overstated items; the one sound finding is a qualification, not a refutation.
 
 ## 05:04 - literature-drift-review
 - **Status**: Success
