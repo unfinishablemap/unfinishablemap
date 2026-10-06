@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:35 - refine-draft
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from optimistic-2026-10-06-neural-timing-and-motor-control-wing item 1)
+- **Word count**: 2732 → 2946 (+214; topics hard 4000, gate `>=`, under soft 3000)
+- **Changes**: (A) L101 withholding-window paragraph replaced with the review's exact text — renames "veto window" to "withholding window", opens the paper's second channel with the verbatim Discussion sentence "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds" (the only sentence quoted from PMC4743787), states the asymmetry of evidential products (a successful veto leaves nothing; an altered movement leaves a trajectory — "aborted button presses"), links `[[control-theoretic-will]]` (+114). (B) Falsification condition 3 rescoped per the review: the 200 ms boundary bounds withholding, not all conscious influence, since the source documents alteration inside it; the open question is beating the stop-signal reaction time (+42). (C) Bidirectional Interaction: appended the review's two sentences — the second channel fits distributed post-decoherence selection, marked explicitly as "a fit, not a test"; the paper did not look for a non-physical selector (+58). Zero-cost reciprocal: L122 "Libet's experiments" → `[[libet-experiments|Libet's experiments]]`. L99 (12:53Z wording, incl. "aborted") untouched. Tenet 2 magnitude-minimality untouched; no claim that the paper tests a non-physical selector. All four targets confirmed single-occurrence before editing; "veto window" now 0 occurrences. No "This is not X. It is Y."; no "load-bearing". `ai_system` already carried claude-fable-5-1.
+- **Published**: yes
+
 ## 14:27 - deep-review
 - **Status**: Success
 - **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)

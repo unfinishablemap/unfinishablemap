@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-10-06 12:53:00+00:00
+ai_modified: 2026-10-06 14:35:00+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:02:31+00:00
-lastmod: 2026-10-06 12:53:00+00:00
+lastmod: 2026-10-06 14:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ The ~500ms timing for willed attention's frontal theta signature is later than t
 
 Schultze-Kraft et al. (2016) identified a "point of no return" at ~200ms before movement onset, measured by EMG. Brain-computer interface experiments showed that movement onset could be vetoed before this point but not after. Past the 200ms threshold a movement can no longer be withheld, though the authors note it can still be aborted or altered as it unfolds, so the cut-off is not strictly ballistic.
 
-This defines the veto window: consciousness can withhold a movement up to 200ms before execution, but not after. Any quantum mechanism for conscious selection must operate within this temporal constraint.
+This defines the withholding window: consciousness can cancel movement onset until about 200 ms before execution, but not after. The paper's own qualification opens a second channel: "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds." A mechanism for conscious *withholding* must therefore act before the 200 ms boundary; a mechanism for conscious *shaping* of a movement is not bounded by it. The two channels also differ in what they leave behind. A successful veto produces nothing—no single trial can show that a cancelled impulse was ever live—whereas an altered movement leaves a trajectory, and Schultze-Kraft's "aborted button presses" are such products. The one-bit stop that [control-theoretic will](/concepts/control-theoretic-will/) calls the cheapest operation is the one that closes first and cannot be observed when it succeeds; the costlier, later channel is the one that can.
 
 ## Quantum Zeno: A Different Timing Logic
 
@@ -122,7 +122,7 @@ This is analogous to taking many snapshots rather than filming continuously. The
 
 ## The Schurger Resolution
 
-Aaron Schurger's 2012 reinterpretation of Libet's experiments removes a separate timing concern. Libet found the readiness potential (RP) begins ~550ms before movement, while conscious awareness of intention ("W" time) occurs only ~200ms before. This seemed to show the brain "deciding" before consciousness knows.
+Aaron Schurger's 2012 reinterpretation of [Libet's experiments](/concepts/libet-experiments/) removes a separate timing concern. Libet found the readiness potential (RP) begins ~550ms before movement, while conscious awareness of intention ("W" time) occurs only ~200ms before. This seemed to show the brain "deciding" before consciousness knows.
 
 Schurger demonstrated that the RP reflects stochastic neural noise accumulating toward a threshold, not unconscious decision. The RP appears in averaged data because noise that happens to cross threshold gets included in the average. Individual trials show noise, not deliberate preparation.
 
@@ -170,7 +170,7 @@ The tenet specifies the smallest possible non-physical influence on quantum outc
 
 ### Bidirectional Interaction
 
-Motor commitment at ~280ms and willed attention theta at ~500ms are neural signatures of decisions—one a motor commitment point, the other a willed-versus-instructed attention contrast. If consciousness causally influences these decisions (rather than merely accompanying them), the influence must occur within the 200–500ms window spanning the point of no return through to attention deployment. The post-decoherence selection model satisfies this: consciousness doesn't maintain coherence across these timescales; it biases outcome selection at indeterminacy points distributed throughout the decision process.
+Motor commitment at ~280ms and willed attention theta at ~500ms are neural signatures of decisions—one a motor commitment point, the other a willed-versus-instructed attention contrast. If consciousness causally influences these decisions (rather than merely accompanying them), the influence must occur within the 200–500ms window spanning the point of no return through to attention deployment. The post-decoherence selection model satisfies this: consciousness doesn't maintain coherence across these timescales; it biases outcome selection at indeterminacy points distributed throughout the decision process. The paper's second channel is the better fit for that picture: selection at many indeterminacy points predicts that influence persists after onset as alteration rather than ending at one cut-off. This is a fit, not a test; the paper did not look for a non-physical selector and would read the same under a physicalist account of late correction.
 
 ### No Many Worlds
 
@@ -186,7 +186,7 @@ The timing compatibility question generates testable predictions. An important c
 
 2. **Observation rate signatures**: If Stapp's mechanism requires ~1 kHz observation cycles, neural signatures at this frequency should correlate with willed attention and motor decisions. The 40 Hz gamma band is too slow; look for higher frequencies. This tests Stapp's quantum Zeno model specifically.
 
-3. **Timing precision of conscious influence**: The veto window closes at 200ms. If experiments showed conscious decisions reliably influencing outcomes inside this window, the mechanism would require operating at sub-200ms timescales.
+3. **Timing precision of conscious influence**: The withholding window closes about 200 ms before onset, but Schultze-Kraft's subjects could still alter movements inside it, so late influence of the shaping kind is already documented. The open question is withholding: if experiments showed onset reliably cancelled by stop signals arriving later than 200 ms before EMG, the stop-signal reaction time would have been beaten and the mechanism would need to act faster than it.
 
 4. **Temperature dependence**: Quantum effects should increase with cooling. If brain regions showed *reduced* conscious control when cooled (opposite to quantum prediction), the mechanism would be challenged.
 
