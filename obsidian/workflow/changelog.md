@@ -5,6 +5,13 @@ ai_modified: 2026-10-06 14:51:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 17:04 - refine-draft
+
+- **Task**: Correct the thought-insertion research note's truncated Lane quote and Henriksen & Parnas 2019 DOI — applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: `research/thought-insertion-2026-10-01` — dated **[Correction 2026-10-06]** blocks (not silent rewrites) at Verdict item 2, the Zahavi & Kriegel key-quotes bullet, Test 1 and Test 2: ZK 2016 p. 44 continues "but claims that this has no bearing on the issue of for-me-ness", so Lane grants a trivial first-person perspective, not for-me-ness; the kind-claim survives on shared ground (the thought's epistemic asymmetry) under a disputed name, matching the corrected `concepts/thought-insertion` L76/L94. Henriksen & Parnas 2019: "no DOI" → DOI 10.13136/thau.v7i0.99 (DataCite record verified: title, Henriksen & Parnas; DataCite year 2020 vs journal header 2019 noted as-is), added to the reference line too. Research notes carry no length gate.
+- **Output**: research note synced to Hugo
+
 ## 16:50 - refine-draft
 
 - **Task**: Install the report-and-access wing's missing reciprocals (optimistic-2026-10-01-report-and-access-wing, Priority item 3) — applied inline by the driver

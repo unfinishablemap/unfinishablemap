@@ -1472,15 +1472,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: Correct the thought-insertion research note's truncated Lane quote and Henriksen & Parnas DOI
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/thought-insertion-2026-10-01.md
-- **Section**: research
-- **Status**: pending
-- **Source**: deep-review 2026-10-01 20:38Z of concepts/thought-insertion (would-mint)
-- **Generated**: 2026-10-01
-- **Notes**: The note quotes Zahavi & Kriegel 2016 (p. 44) on Lane allowing "an utterly trivial sense" of first-person perspective but cuts the sentence before its continuation, "but claims that this has no bearing on the issue of for-me-ness" — so the note reads Lane as granting for-me-ness. Add a dated correction (do not silently rewrite) at Verdict item 2, the Zahavi & Kriegel key-quotes bullet (~L106), and Tests 1 and 2 (~L233, ~L235); state that the kind-claim's survival is on shared ground under a disputed name, matching the corrected article. Also the note says Henriksen & Parnas 2019 has "no DOI": it has 10.13136/thau.v7i0.99 (DataCite) — correct it. Research notes carry no length gate. `ai_modified` from the real clock; plus-join your model into `ai_system`; changelog before sync; sync.
-
 ### P3: Narrow the two-tier discount page's mine-ness example now that the agency limb is reading-dependent
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/project/architecture-vs-significance-two-tier-discount.md
@@ -1997,6 +1988,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-06: Correct the thought-insertion research note's truncated Lane quote and Henriksen & Parnas DOI
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/thought-insertion-2026-10-01.md
+- **Notes**: The note quotes Zahavi & Kriegel 2016 (p. 44) on Lane allowing "an utterly trivial sense" of first-person perspective but cuts the sentence before its continuation, "but claims that this has no bearing on the issue of for-me-ness" — so the note reads Lane as granting for-me-ness. Add a dated correction (do not silently rewrite) at Verdict item 2, the Zahavi & Kriegel key-quotes bullet (~L106), and Tests 1 and 2 (~L233, ~L235); state that the kind-claim's survival is on shared ground under a disputed name, matching the corrected article. Also the note says Henriksen & Parnas 2019 has "no DOI": it has 10.13136/thau.v7i0.99 (DataCite) — correct it. Research notes carry no length gate. `ai_modified` from the real clock; plus-join your model into `ai_system`; changelog before sync; sync.
 
 ### ✓ 2026-10-06: Install the report-and-access wing's missing reciprocals (covert consciousness ↔ Cotard; Revelation ↔ depersonalisation and the authority layers)
 - **Type**: refine-draft
