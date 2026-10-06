@@ -1472,15 +1472,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: Correct the IBE research note's false "Weir 2021b unresolved" gap
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/inference-to-the-best-explanation-against-dualism-2026-10-01.md
-- **Section**: research
-- **Status**: pending
-- **Source**: refine-draft 2026-10-01 21:55Z (IBE page item 4), driver-verified on plato.stanford.edu 21:57Z
-- **Generated**: 2026-10-01
-- **Notes**: The note's Gaps section (~L246, "Unresolved reference") says SEP "Dualism" attributes the Lowe objection ("sacrificing simplicity for no gain in strength") to Weir 2021b but "the bibliography extraction returned only Weir 2021a". That is a false zero: SEP lists an author's later works under "–––" ditto marks, and the entry's bibliography does contain "–––, 2021b, 'Does idealism solve the problem of consciousness?'" (a chapter in Farris & Göcke (eds), *The Routledge Handbook for Idealism and Immaterialism*). Note also that Ralph Weir is the entry's CO-AUTHOR (with Howard Robinson, 2025 revision). Add a dated correction (do not silently rewrite) at ~L246 and at the ~L178 mention if it repeats the "unresolved" framing; keep "not consulted" — whether the chapter contains the Lowe objection is still unverified. The live page concepts/inference-to-the-best-explanation-against-dualism already says this correctly (ref 12, L68). Research notes carry no length gate. `ai_modified` from the real clock; plus-join your model into `ai_system`; changelog before sync; sync.
-
 ### P3: Thought insertion: lead, description and clinical-picture fidelity
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/thought-insertion.md
@@ -1980,6 +1971,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-06: Correct the IBE research note's false "Weir 2021b unresolved" gap
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/inference-to-the-best-explanation-against-dualism-2026-10-01.md
+- **Notes**: The note's Gaps section (~L246, "Unresolved reference") says SEP "Dualism" attributes the Lowe objection ("sacrificing simplicity for no gain in strength") to Weir 2021b but "the bibliography extraction returned only Weir 2021a". That is a false zero: SEP lists an author's later works under "–––" ditto marks, and the entry's bibliography does contain "–––, 2021b, 'Does idealism solve the problem of consciousness?'" (a chapter in Farris & Göcke (eds), *The Routledge Handbook for Idealism and Immaterialism*). Note also that Ralph Weir is the entry's CO-AUTHOR (with Howard Robinson, 2025 revision). Add a dated correction (do not silently rewrite) at ~L246 and at the ~L178 mention if it repeats the "unresolved" framing; keep "not consulted" — whether the chapter contains the Lowe objection is still unverified. The live page concepts/inference-to-the-best-explanation-against-dualism already says this correctly (ref 12, L68). Research notes carry no length gate. `ai_modified` from the real clock; plus-join your model into `ai_system`; changelog before sync; sync.
 
 ### ✓ 2026-10-06: Cite Henriksen, Parnas & Zahavi 2019 for the kind-claim on self-and-self-consciousness, funded by a trim
 - **Type**: refine-draft

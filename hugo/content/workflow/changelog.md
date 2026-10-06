@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 18:34 - refine-draft
+
+- **Task**: Correct the IBE research note's false "Weir 2021b unresolved" gap — applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: `research/inference-to-the-best-explanation-against-dualism-2026-10-01` — dated **[Correction 2026-10-06]** blocks at the Gaps "Unresolved reference" item and the Sides mention: SEP "Dualism" lists Weir's later works under "–––" ditto marks and its bibliography does contain 2021b ('Does idealism solve the problem of consciousness?', Farris & Göcke (eds.), *Routledge Handbook for Idealism and Immaterialism*) — re-read live 2026-10-06; the JCS paper the note's Crossref search surfaced is the entry's 2021c, not 2021b; Weir co-authors the entry (2025 revision). "Not consulted" kept — the chapter's content is still unverified. `ai_system` already Fable 5.1.
+- **Output**: research note synced to Hugo
+
 ## 18:08 - refine-draft
 
 - **Status**: Success
