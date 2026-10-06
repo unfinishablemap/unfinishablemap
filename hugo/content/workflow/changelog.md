@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:13 - deep-review
+- **Status**: Success
+- **File**: [source-attribution-divergence](/topics/source-attribution-divergence/)
+- **Word count**: 4020 → 4122 (+102; prose 3436 → 3451 (+15, length-neutral), apparatus 584 → 671 (+87, three reference entries)). Prose remains under the 4000 hard gate; `analyze_length` total reads 4115 hard_warning.
+- **Critical issues addressed**: 2 — (1) false-absence claim: §Empirical Signatures said "no located study measures" the imagery-vividness/source-accuracy covariance; Dobson & Markham 1993 (BJP 84:111–118), Bainbridge et al. 2021 (Cortex 135:159–172) and Pauly-Takacs et al. 2025 (C&C 133:103888) do, all verified at Crossref/OpenAlex with direction legs; (2) the Typology bullet predicted reality-monitoring "erosion from both directions" with an uncited aphantasic-end mechanism; the located record is asymmetric (vividness costs source accuracy; aphantasics make fewer or no more false memories), so the bullet, the lead's last sentence and the What-People-Report "both directions" line now state the measured asymmetry.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (imagery signature now reports a real asymmetric finding rather than an open question; Dawes 2020 kept on the self-report side of the firewall as the 2026-08-02 revision placed it)
+- **§2.4 ledger**: trigger = References modified by `0050e95de3`. Johansson et al. 2006 real-correct (DOI 10.1016/j.concog.2006.09.004); the 26% per-trial figure confirmed in raw text of Johansson's 2006 Lund thesis kappa ("no more than 26% of the manipulated trials were detected"). Three new entries real-correct. 2026-07-10 ledger stands for the unchanged entries. Superlative sweep: zero.
+- **Engagement modes** (editor-internal): functionalist — Mode Two (option 2's unpaid bill) + Mode Three (cluster-level residue underdetermined); unchanged from 2026-08-02.
+- **Trims for neutrality**: four redundancies cut (cohort-labels clause duplicated from lead; "asymmetry is real … honestly noted" sentence; "relitigation belongs at the apex" clause; interface-reading closing clause). Stability notes from 2026-08-02 all honoured; no re-upgrade.
+- **Published**: yes (sync run; `Pauly-Takacs` grepped in hugo/content)
+- **Output**: [deep-review-2026-10-06-source-attribution-divergence](/reviews/deep-review-2026-10-06-source-attribution-divergence/)
+
 ## 11:53 - refine-draft
 - **Status**: Success
 - **Files**: [haecceity](/concepts/haecceity/) AND [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) (two-file task; both edited, both re-measured)
