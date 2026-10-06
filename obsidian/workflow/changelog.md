@@ -5,6 +5,20 @@ ai_modified: 2026-10-06 07:08:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 07:22 - refine-draft
+- **Status**: Success
+- **File**: [[voids/language-thought-boundary]]
+- **Context**: Convergent outer reviews 2026-10-06 (ChatGPT §8 item 14; Claude §6 item 16; synthesis cluster K2, P2→P1). Target located by quoted text ("register the difference pre-attentively", once); body grep for "Martinovic" was 0 before the pass. Sibling Martinovic sentences read first: `voids/categorical-perception-void` L48/L102 and `topics/consciousness-and-language-interface` L104; reference metadata copied from the void page's entry 14 and reformatted to this page's quoted-title style.
+- **Original score**: n/a (`scripts/curate.py` absent; length gate used instead)
+- **Changes**:
+  - L49 old: "Greek speakers name *ble* (dark blue) and *ghalazio* (light blue) as separate colours, and their brains register the difference pre-attentively more strongly than English speakers' do (Thierry et al. 2009)." New: "...as separate colours; the influential report that their brains register the difference pre-attentively (Thierry et al. 2009) has been substantially weakened by Martinovic et al. (2026), who re-ran the paradigm and found the early response driven by contrast adaptation, not category." Uses the synthesis's fixed phrase so the three pages agree. Kuuk Thaayorre sentence untouched (independent).
+  - L51 "substantial empirical support" NOT downgraded: its example is Japanese object categorisation, not colour; the colour strand at L49 now reads as contested and so no longer counts toward that support.
+  - References: appended entry 15, Martinovic et al. (2026) *PNAS* 123(24): e2538139123, doi 10.1073/pnas.2538139123. He et al. (2014) not added — budget did not allow the optional clause.
+  - Cuts to pay (named): "—something is left behind" (Grandin paragraph); "not only does thought exceed language, but the acquisition of language may make the pre-linguistic mode of thought" → "thought exceeds language, and acquiring language may make the pre-linguistic mode"; "Distinguishing them from inside is difficult—perhaps impossible. Without accessing the content, you cannot determine which type of limit you're facing." → "...—perhaps impossible—without access to the content itself."; "This creates asymmetries worth investigating" → "Asymmetries worth investigating".
+  - Length (`analyze_length`, body): 2959 before → 3018 after additions → 2998 after cuts (voids hard 3000; ceiling 2999).
+  - No "This is not X. It is Y."; no "load-bearing" (grep 0). ai_system already carried claude-fable-5-1.
+- **Published**: yes (synced)
+
 ## 07:08 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-language-interface]]

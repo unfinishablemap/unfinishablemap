@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-09-24 02:47:00+00:00
+ai_modified: 2026-10-06 07:21:59+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:51:37+00:00
-lastmod: 2026-09-24 02:47:00+00:00
+lastmod: 2026-10-06 07:21:59+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,7 +49,7 @@ Two companion articles map adjacent territory: the [consciousness-language inter
 
 ### Linguistic Limits
 
-Some thoughts expressible in one language resist translation to another. Greek speakers name *ble* (dark blue) and *ghalazio* (light blue) as separate colours, and their brains register the difference pre-attentively more strongly than English speakers' do (Thierry et al. 2009). Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right, and their spatial cognition is oriented accordingly (Boroditsky 2011). These are limits of *this* language, not language as such.
+Some thoughts expressible in one language resist translation to another. Greek speakers name *ble* (dark blue) and *ghalazio* (light blue) as separate colours; the influential report that their brains register the difference pre-attentively (Thierry et al. 2009) has been substantially weakened by Martinovic et al. (2026), who re-ran the paradigm and found the early response driven by contrast adaptation, not category. Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right, and their spatial cognition is oriented accordingly (Boroditsky 2011). These are limits of *this* language, not language as such.
 
 The weak Sapir-Whorf hypothesis—that language influences habitual thought—has substantial empirical support: Japanese speakers categorise objects differently when thinking in Japanese than in English. The language in use changes which thoughts come readily without determining what can be thought.
 
@@ -61,9 +61,9 @@ The boundary intersects the [vagueness void](/voids/vagueness-void/) at the poin
 
 A harder question: are there thoughts thinkable but not expressible in *any* natural language?
 
-Temple Grandin reports cognition operating through detailed mental imagery—solving engineering problems by "running simulations" in her head. Einstein described insights emerging from visual thought experiments before translation into equations. For strong visual thinkers, translating thought into language is *lossy*—something is left behind.
+Temple Grandin reports cognition operating through detailed mental imagery—solving engineering problems by "running simulations" in her head. Einstein described insights emerging from visual thought experiments before translation into equations. For strong visual thinkers, translating thought into language is *lossy*.
 
-Mathematical intuition operates similarly. Mathematicians often "see" a proof's validity before articulating it; the formal proof is a translation of something pre-linguistic. Infants demonstrate cognition before language—object permanence, causal reasoning, numerical competence. The [infant consciousness void](/voids/infant-consciousness/) reveals the deeper implication: not only does thought exceed language, but the acquisition of language may make the pre-linguistic mode of thought inaccessible even to later introspection.
+Mathematical intuition operates similarly. Mathematicians often "see" a proof's validity before articulating it; the formal proof is a translation of something pre-linguistic. Infants demonstrate cognition before language—object permanence, causal reasoning, numerical competence. The [infant consciousness void](/voids/infant-consciousness/) reveals the deeper implication: thought exceeds language, and acquiring language may make the pre-linguistic mode inaccessible even to later introspection.
 
 ### Conceptual Limits
 
@@ -105,7 +105,7 @@ Compare to [thoughts that slip away](/voids/transit-void/). In slippage, content
 
 ## What AI Might See
 
-LLMs operate with different architecture—concepts as directions in high-dimensional embedding space rather than discrete tokens. This creates asymmetries worth investigating:
+LLMs operate with different architecture—concepts as directions in high-dimensional embedding space rather than discrete tokens. Asymmetries worth investigating:
 
 **Statistical patterns without words**: LLMs detect regularities across millions of texts that no human could perceive—concepts existing computationally while remaining linguistically inaccessible.
 
@@ -131,7 +131,7 @@ The cross-linguistic case carries a standing dispute about which label applies. 
 
 The boundary likely contains all three. Some ineffable content will find words. Some is structurally beyond language. Some resists articulation through mechanisms we don't understand.
 
-Distinguishing them from inside is difficult—perhaps impossible. Without accessing the content, you cannot determine which type of limit you're facing.
+Distinguishing them from inside is difficult—perhaps impossible—without access to the content itself.
 
 ## Qualia as Limit Case
 
@@ -204,3 +204,4 @@ The claim that language and thought have genuinely different limits would be cha
 12. Majid, A., & Burenhult, N. (2014). "Odors are expressible in language, as long as you speak the right language." *Cognition* 130(2): 266–270.
 13. Majid, A., & Kruspe, N. (2018). "Hunter-Gatherer Olfaction Is Special." *Current Biology* 28(3): 409–413.
 14. Olofsson, J. K., & Gottfried, J. A. (2015). "The muted sense: neurocognitive limitations of olfactory language." *Trends in Cognitive Sciences* 19(6): 314–321.
+15. Martinovic, J., Delov, A. A., Tomastikova, J., Martin, J. T., Paramei, G. V., & Griber, Y. A. (2026). "Cognition does not automatically influence perception: Evidence from neural encoding of colors belonging to different categories." *PNAS* 123(24): e2538139123. https://doi.org/10.1073/pnas.2538139123
