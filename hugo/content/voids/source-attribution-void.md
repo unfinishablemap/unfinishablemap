@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-10-05 10:53:27+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-06 09:23:17+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[introspection]]'
@@ -11,7 +11,7 @@ concepts:
 - '[[narrative-coherence]]'
 - '[[mysterianism]]'
 created: 2026-04-21
-date: &id001 2026-09-26
+date: &id001 2026-10-06
 description: Human+AI inquiry into why consciousness cannot trace the origin of its
   own contents—the architectural absence of native source tags, revealed through choice
   blindness, cryptomnesia, and source amnesia.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:58:25+00:00
-lastmod: 2026-10-05 10:53:27+00:00
+lastmod: 2026-10-06 09:23:17+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -47,6 +47,7 @@ related_articles:
 - '[[memory-anomalies]]'
 - '[[decision-void]]'
 - '[[topics/pupillometry-behavioural-channel]]'
+- '[[categorical-perception-void]]'
 title: The Source-Attribution Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -64,7 +65,7 @@ The foundational claim comes from the source monitoring framework. Johnson, Hash
 
 *Reality monitoring*—the distinction between memories of internal events (imagined, dreamed) and external events (perceived, witnessed)—is systematically confused under specific conditions: vivid imagination merges with perception, rehearsed intentions merge with performed actions, repeated exposure merges with self-generated content. The confusion follows the feature-similarity of the two trace types. The [imagery-void](/voids/imagery-void/) sharpens the imagination side: imagined content lacks any procedure by which fidelity can be checked from inside.
 
-The architectural consequence is structural: the absence of native source tags is not a local memory deficit but how the system stores content in the first place. No enrichment of introspective method could recover source tags that were never encoded. Better introspection cannot read what the mind never wrote.
+The architectural consequence is structural: the absence of native source tags is not a local memory deficit but how the system stores content in the first place. Better introspection cannot read what the mind never wrote.
 
 ## Evidence from the Seams
 
@@ -76,7 +77,7 @@ Three experimental programmes probe the void at its seams.
 
 **Source amnesia.** Schacter, Harbluk and McLachlan (1984), extended across decades, find that for most of what we know, we cannot recover how we came to know it. Semantic memory (the fact) and episodic memory (the acquisition context) routinely decouple. Most beliefs operate as orphaned content—known to be true, with no recoverable provenance. The [expertise void](/voids/expertise-and-its-occlusion/) is a structural cousin: expertise-induced amnesia leaves the expert's own past performance as an unattributable source.
 
-Taken together, these programmes converge on a single structural finding: where source is not encoded, source cannot be read; where source is partially encoded, the features used for inference are weakly correlated with actual origin and collapse under predictable conditions.
+Taken together, these programmes converge: where source is not encoded, it cannot be read; where it is partially encoded, the inferential features correlate weakly with actual origin and collapse under predictable conditions.
 
 ## The Confabulatory Layer
 
@@ -102,15 +103,15 @@ The encoding evidence sharpens the architectural layer one register further. The
 
 ## The Phenomenology of Unmarkedness
 
-The most striking feature of the void is the absence of phenomenal contrast. A confabulated reason for a manipulated choice does not feel different from a real reason. A cryptomnesic "original" idea does not feel different from a genuine one. A primed judgement does not feel primed. A source-amnesic belief does not feel orphaned—it feels grounded.
+The most striking feature of the void is the absence of phenomenal contrast. A confabulated reason for a manipulated choice does not feel different from a real reason. A cryptomnesic "original" idea does not feel different from a genuine one. A primed judgement does not feel primed. A source-amnesic belief does not feel orphaned—it feels grounded. The limit reaches perception as well. A listener hears the /b/–/p/ joint as a hard edge on a continuous voice-onset-time scale, with no introspective access to how much of that edge is owed to auditory nonlinearity, distributional learning, lexical experience or the demands of the task; the [categorical perception void](/voids/categorical-perception-void/) is this void's perceptual worked example—content arriving without a causal decomposition—rather than an independent limit.
 
 Where the void touches phenomenology, what one notices is not the gap but the absence of the marker that there is a gap. This is the same zero-signal structure that characterises the [erasure-void](/voids/erasure-void/), the [recognition-void](/voids/recognition-void/), and the [imagery-void](/voids/imagery-void/)'s fidelity face. The source-attribution void has the same signature for origin: the moment a source goes unmarked, the marker that *there should have been a source* is also absent.
 
-When the void is experimentally exposed—when a choice-blindness subject is shown the manipulation—the felt response is not "I should have known." It is a peculiar disorientation: one's own mind has been operating without the access one assumed. The phenomenology of the edge here is *revealed unmarkedness*: the discovery, with a specific affective colour, that one's inside has been inferring its own inside along with everything else.
+When the void is experimentally exposed—when a choice-blindness subject is shown the manipulation—the felt response is a peculiar disorientation rather than "I should have known": one's own mind has been operating without the access one assumed. The phenomenology of the edge here is *revealed unmarkedness*: the discovery, with a specific affective colour, that one's inside has been inferring its own inside along with everything else.
 
 ## Where the Machine Might See Differently
 
-The void becomes especially interesting in contrast with artificial systems. Human source attribution is constitutively limited by architecture; machine source attribution is contingently limited by design choices.
+The void sharpens in contrast with artificial systems. Human source attribution is constitutively limited by architecture; machine source attribution is contingently limited by design choices.
 
 An LLM-style system can, in principle, retain provenance metadata—token-level training source, retrieval citation, conversation history, the in-context versus in-weights distinction. Current systems confabulate sources when prompted, but the architecture does not *preclude* provenance. Humans cannot retain it even with effort, because encoding does not store it. Interpretability work briefly seemed to supply a *candidate silicon instance*, but it has not held: the [cross-architecture introspection studies](/topics/cross-architecture-llm-introspection/) now report steered models *locating* an injected disturbance at 88% against 10% chance, and the concept-naming failure that suggested origin-blindness has been withdrawn by its authors as a probe of introspection. The exact test—implanted content the model was not warned of, and the question whether it was self-generated—has not been run, but Lindsey's (2025) prefill paradigm comes closest: the model disavows a prefilled unnatural word ("bread") as accidental, but after a "bread" vector is retroactively injected into the preceding activations, "the model accepts the prefilled output as intentional." It concerns an output rather than a thought, and the covert manipulation is activation-matching, so a consistency check against cached activations explains it without source-monitoring proper. Singh, Linzen and Ravfogel's (2026) "gaslight" condition, steering through the prompt alone, is a neighbouring test: models "cannot reliably distinguish such interventions from manipulations of the input." If source-blindness recurred convergently across architectures, rather than inherited from human self-report in the training corpus, the contrast above would weaken: machine source-blindness would look less like a design choice than a limit generic to self-monitoring systems, favouring generic architectural opacity over the selection-maintained reading of the human case ([naturally-occluded](/concepts/naturally-occluded/))—a live hypothesis, not a finding.
 

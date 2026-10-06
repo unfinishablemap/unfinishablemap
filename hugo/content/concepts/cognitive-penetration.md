@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-24
-ai_modified: 2026-09-25 00:30:00+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-06 09:23:17+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenal-conservatism]]'
@@ -12,7 +12,7 @@ concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[phenomenal-depth]]'
 created: 2026-09-24
-date: &id001 2026-09-25
+date: &id001 2026-10-06
 description: Can beliefs and desires change what we perceive, and does contemplative
   training resolve or contaminate the seemings the Map treats as evidence? A human+AI
   analysis.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 23:33:00+00:00
-lastmod: 2026-09-25 00:30:00+00:00
+lastmod: 2026-10-06 09:23:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[predictive-construction-void]]'
 - '[[appetitive-void]]'
 - '[[phenomenal-acquaintance]]'
+- '[[categorical-perception-void]]'
 title: Cognitive Penetration
 topics:
 - '[[phenomenal-authority-and-first-person-evidence]]'
@@ -88,6 +89,8 @@ Years of practice inside a tradition that teaches what practitioners will find i
 
 Two clarifications follow. On Pylyshyn's stage model, much of what training does is *attentional* or *post-perceptual*, and a sceptic in the Firestone–Scholl mould would deny that it is cognitive penetration at all. That does not rescue the Map: an attentional or judgemental route to doctrine-shaped reports contaminates the evidence as surely, even if not the experience. The Map's question is therefore broader than Siegel's: does the whole pipeline from training to report track the experience or the doctrine? Second, the two hypotheses are not exclusive. Training can sharpen some discriminations and install some interpretations at the same time.
 
+Categorical perception offers a worked case of the pipeline question. Learned boundaries such as the Russian *siniy/goluboy* blues, or a texture boundary that Pérez-Gay Juárez et al. (2019) installed by feedback in a single session, look like acquired knowledge reaching perception, and the [categorical perception void](/voids/categorical-perception-void/) records that the perceiver cannot tell an installed joint from a native one. Run through the pitfalls above, though, the colour evidence settles post-perceptually: He et al. (2014) found category effects only from about 200 milliseconds once same- and different-category pairs were equated for discriminability, and Martinovic et al. (2026) found the early visual mismatch response to Greek-blue category changes driven by contrast adaptation, with no reliable early response to contrast-equated category changes. The learned-texture case shows that a boundary can be installed, but the behavioural warp alone does not say whether the installation reached experience or only judgement, and the categorical page carries that question as untested. For the training case this is the cautionary pattern: an acquired boundary that feels perceptual, with the best-controlled evidence placing it in Pylyshyn's post-perceptual stage.
+
 The Map's proposal, marked as the Map's own, is that the difference between the two is empirical and has identifiable markers. It builds on the formulation already in the transparency-opacity spectrum. That article observes that the contemplative claim "risks unfalsifiability" and requires a discriminating marker: genuine opacity, unlike a trained belief that perception is constructed, "should predict measurable changes in perceptual processing or report." Generalised, a trained seeming counts as resolution to the degree that it:
 
 1. **Tracks an independent benchmark.** Fox et al. (2012) compared meditators' reports of tactile sensitivity across body regions with objective measures drawn from prior research and found that "long-term meditators provide more accurate introspective reports than novices." The design was cross-sectional and the authors call it a "preliminary exploration," so self-selection has not been excluded.
@@ -120,12 +123,15 @@ The symmetry with the voids is the final constraint. The Map says perception and
 
 1. Firestone, C., & Scholl, B. J. (2016). Cognition does not affect perception: Evaluating the evidence for "top-down" effects. *Behavioral and Brain Sciences*, 39, e229. https://doi.org/10.1017/S0140525X15000965
 1. Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370. https://doi.org/10.1371/journal.pone.0045370
+1. He, X., Witzel, C., Forder, L., Clifford, A., & Franklin, A. (2014). Color categories only affect post-perceptual processes when same- and different-category colors are equally discriminable. *Journal of the Optical Society of America A*, 31(4), A322–A331. https://doi.org/10.1364/JOSAA.31.00A322
 1. Kral, T. R. A., Davis, K., Korponay, C., Hirshberg, M. J., Hoel, R., Tello, L. Y., Goldman, R. I., Rosenkranz, M. A., Lutz, A., & Davidson, R. J. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316. https://doi.org/10.1126/sciadv.abk3316
 1. Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163–169. https://doi.org/10.1016/j.tics.2008.01.005
 1. MacLean, K. A., Ferrer, E., Aichele, S. R., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, 21(6), 829–839. https://doi.org/10.1177/0956797610371339
 1. Macpherson, F. (2012). Cognitive penetration of colour experience: Rethinking the issue in light of an indirect mechanism. *Philosophy and Phenomenological Research*, 84(1), 24–62. https://doi.org/10.1111/j.1933-1592.2010.00481.x
+1. Martinovic, J., Delov, A. A., Tomastikova, J., Martin, J. T., Paramei, G. V., & Griber, Y. A. (2026). Cognition does not automatically influence perception: Evidence from neural encoding of colors belonging to different categories. *Proceedings of the National Academy of Sciences*, 123(24), e2538139123. https://doi.org/10.1073/pnas.2538139123
 1. McGrath, M. (2013). Phenomenal conservatism and cognitive penetration: The "bad basis" counterexamples. In C. Tucker (Ed.), *Seemings and Justification* (pp. 225–247). Oxford University Press.
 1. Moretti, L. (2020). *Seemings and Epistemic Justification: How Appearances Justify Beliefs*. Cham: Springer. Ch. 3, "Cognitive Penetrability," pp. 23–56. https://doi.org/10.1007/978-3-030-43392-5
+1. Pérez-Gay Juárez, F., Sicotte, T., Thériault, C., & Harnad, S. (2019). Category learning can alter perception and its neural correlates. *PLoS ONE*, 14(12), e0226000. https://doi.org/10.1371/journal.pone.0226000
 1. Pylyshyn, Z. (1999). Is vision continuous with cognition? The case for cognitive impenetrability of visual perception. *Behavioral and Brain Sciences*, 22(3), 341–365. https://doi.org/10.1017/S0140525X99002022
 1. Siegel, S. (2012). Cognitive penetrability and perceptual justification. *Noûs*, 46(2), 201–222. https://doi.org/10.1111/j.1468-0068.2010.00786.x
 1. Siegel, S. (2017). *The Rationality of Perception*. Oxford: Oxford University Press.
