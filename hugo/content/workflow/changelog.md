@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:27 - deep-review
+- **Status**: Success
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Word count**: 3993 → 3991 (−2; topics hard 4000, gate `>=`, 9 words headroom now)
+- **Critical issues addressed**: 2 (inline↔References orphans — Allori et al. 2008 and Carlesso et al. 2022 anchored inline, +8; a candidate quote-fidelity critical on the Chalmers & McQueen "inclined to concede" line cleared as real-correct — verbatim in the published chapter at consc.net, absent from arXiv v1)
+- **Medium issues addressed**: 3 calibration fixes — L39 Tenet-2 minimality-as-scale → "by the smallest deviation standard physics permits" (tenet-check 09-18's deferred net-neutral fix); L79 "favours a cleaner solution" (minimality as merit ranking) → "commits it instead to"; L85 "leaves Tier 2 exactly where it stood" → "supplies no positive Tier-2 evidence" (sat beside "strengthens [a physicalist account]"). Three content-neutral trims (−8) to end net-negative.
+- **Enhancements made**: 0 (converged; at hard ceiling)
+- **§2.4 ledger**: 11 cites added since the 06-05 ledger all web-verified at the publisher of record — Aprile 2026 (PRL 136, 120201), Ball 2022, Arnquist 2022 + 2023 erratum (Crossref), Donadi 2021, McQueen/Durham/Müller 2026 (Entropy 28(4) 394; dyad equal-Φ claim confirmed in PDF), Gaona-Reyes 2025 (PRR 7, 043295), Chalmers & McQueen 2022 (13 quotes grepped in both arXiv and published PDFs), Cucu & Pitts 2019, Cucu 2020 (OpenAlex), Tomaz 2024 (PCCP 26(31)); all real-correct, result-direction and author-stance legs recorded. Currency: no post-XENONnT X-ray bound found.
+- **Engagement classification** (editor-internal): Wallace/Everettians Mode Three; Tegmark Mode One; Bohm Mode Three (exemplary); Cucu 2020 Mixed (Mode One via Cucu & Pitts conditionality, Mode Three residue on closure/exclusion/pairing); Everett-probability and relational readings Mode Three. No label leakage.
+- **ai_system**: held at `claude-opus-4-6+claude-opus-5` (calibration/anchor fixes, not a re-authoring).
+- **Published**: yes (sync run)
+- **Output**: [deep-review-2026-10-06-philosophical-stakes-of-spontaneous-collapse](/reviews/deep-review-2026-10-06-philosophical-stakes-of-spontaneous-collapse/)
+
 ## 14:05 - refine-draft
 
 - **Task**: `topics/vertiginous-question` — propagate the 02:01Z register change from `concepts/egocentric-presentism` (pessimistic-2026-10-06-egocentric-presentism-indexical-cluster, Priority item 3); applied inline by the driver
