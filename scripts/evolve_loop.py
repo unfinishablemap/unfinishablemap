@@ -1430,8 +1430,8 @@ Examples:
     parser.add_argument(
         "--push-interval",
         type=int,
-        default=14400,
-        help="Minimum seconds between git pushes (default: 14400 = 4 hours)",
+        default=21600,
+        help="Minimum seconds between git pushes (default: 21600 = 6 hours)",
     )
     parser.add_argument(
         "--max-iterations",

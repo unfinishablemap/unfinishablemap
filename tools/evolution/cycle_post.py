@@ -446,7 +446,7 @@ def main() -> int:
         emit("info", f"committed: {commit_hash} (auto({args.skill}): {commit_info})")
 
     # --- Validate + push if wall-clock interval has elapsed ----------------
-    # Mirrors evolve_loop.py's push check (every iteration, 4h default).
+    # Mirrors evolve_loop.py's push check (every iteration, 6h default).
     # Mutates state.last_git_push on success; saved with state below.
     try:
         push_if_due(state)

@@ -29,8 +29,8 @@ from tools.evolution.log_event import emit
 REPO_ROOT = Path(__file__).parent.parent.parent
 
 # Default push interval — mirrors evolve_loop.py --push-interval default
-# (14400s = 4h). Overridable via UNFIN_PUSH_INTERVAL_SECONDS.
-DEFAULT_PUSH_INTERVAL_SECONDS = 14400
+# (21600s = 6h). Overridable via UNFIN_PUSH_INTERVAL_SECONDS.
+DEFAULT_PUSH_INTERVAL_SECONDS = 21600
 
 AGENT_AUTHOR = "unfinishablemap.org Agent <agent@unfinishablemap.org>"
 
