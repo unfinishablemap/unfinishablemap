@@ -5,6 +5,17 @@ ai_modified: 2026-10-06 07:08:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 10:14 - deep-review
+- **Status**: Success
+- **File**: [[concepts/degrees-of-consciousness]]
+- **Word count**: 2489 → 2528 (+39 total; References +55, Further Reading −15, prose −16)
+- **Critical issues addressed**: 5 (uncited "most rigorous current" PCI superlative + propofol over-specification → Casali 2013 rescoped; unsupported "propofol sharp transitions"/"xenon graded dimming" → Sarasso 2015 contrast; NY Declaration "probably" → quoted "at least a realistic possibility" with the shading inference marked as the Map's; lead "levels" → "states" against the Bayne/Hohwy/Owen paragraph; five orphan References given inline cites)
+- **Medium issues addressed**: 0 (Sleep/psychedelic DMN claims left uncited — hosted with sources in `dream-consciousness` / `default-mode-network`)
+- **Enhancements made**: 2 (Casali 2013 + Sarasso 2015 added to References; Dualism tenet paragraph tightened to point at the body pattern)
+- **Web-verify**: Bodien 2024 (Crossref author order), Metzinger 2020 (Crossref pp. 1-44), Schnakers 2009 (PubMed verbatim "18 (41%)"), Casali 2013 (PubMed), Sarasso 2015 (Crossref), NY Declaration (live NYU text) — all real-correct; no fabrication
+- **Carry-forward**: `topics/anaesthesia-and-the-consciousness-interface` L97 holds the same uncited PCI sentence; sources already in its References
+- **Output**: [[reviews/deep-review-2026-10-06-degrees-of-consciousness]]
+
 ## 10:01 - refine-draft
 - **Status**: Success (partial — six reference lines deferred on the length gate)
 - **File**: [[voids/categorical-perception-void]]

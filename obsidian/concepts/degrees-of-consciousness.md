@@ -2,10 +2,10 @@
 title: "Degrees of Consciousness"
 description: "Consciousness varies in intensity and richness, not just kind. Gradation from anaesthesia, sleep, and animal cognition constrains theories of consciousness."
 created: 2026-03-20
-modified: 2026-09-06
+modified: 2026-10-06
 human_modified:
-ai_modified: 2026-10-02T18:37:41+00:00
-last_deep_review: 2026-07-16T09:58:42+00:00
+ai_modified: 2026-10-06T10:12:34+00:00
+last_deep_review: 2026-10-06T10:12:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ ai_generated_date: 2026-03-20
 last_curated:
 ---
 
-Consciousness is not binary in what it *contains*: what is graded throughout is what a subject *has*, while whether a subject is present at all is a further question, left open here, on which [[moral-status-threshold-or-degrees#presence|the moral-status threshold]] rests. Between full waking awareness and total unconsciousness lies a spectrum of intermediate states — graded variations in the intensity, richness, and complexity of phenomenal experience. Anaesthesia research reveals at least three distinct levels between awareness and unconsciousness. Sleep stages modulate experiential depth continuously. Animal cognition suggests consciousness at intensities far below human norms. The concept of degrees of consciousness captures this gradation and distinguishes it from [[types-of-consciousness|types]] (structural varieties of consciousness) and [[minimal-consciousness|minimal consciousness]] (whether there is a lower bound at all).
+Consciousness is not binary in what it *contains*: what is graded throughout is what a subject *has*, while whether a subject is present at all is a further question, left open here, on which [[moral-status-threshold-or-degrees#presence|the moral-status threshold]] rests. Between full waking awareness and total unconsciousness lies a spectrum of intermediate states — graded variations in the intensity, richness, and complexity of phenomenal experience. Anaesthesia research reveals at least three distinct states between awareness and unconsciousness. Sleep stages modulate experiential depth continuously. Animal cognition suggests consciousness at intensities far below human norms. The concept of degrees of consciousness captures this gradation and distinguishes it from [[types-of-consciousness|types]] (structural varieties of consciousness) and [[minimal-consciousness|minimal consciousness]] (whether there is a lower bound at all).
 
 For The Unfinishable Map, degrees of consciousness are consequential rather than merely taxonomic. If consciousness interfaces with the physical world through a configurable connection — as [[filter-theory|filter theory]] and [[interactionist-dualism|interactionist dualism]] propose — then gradation reflects variation in the interface, not variation in the production of consciousness by neural activity. The dimmer switch is in the interface, not in the generator, because there is no generator.
 
@@ -45,11 +45,11 @@ When consciousness comes in degrees, what exactly is it that admits of more or l
 
 **Richness.** The number and diversity of phenomenal qualities present simultaneously. Full waking consciousness integrates visual, auditory, tactile, proprioceptive, emotional, and cognitive content into a unified field. Dreaming preserves some modalities (visual, emotional) while attenuating others (proprioceptive, tactile). Minimally conscious states may involve experience along a single modality — pain without context, sound without meaning.
 
-**Complexity.** The degree of internal structure within experience. A moment of pure awareness in deep meditation is phenomenally simple — [[minimal-consciousness#Minimal Phenomenal Experience (Metzinger)|minimal phenomenal experience]] stripped of elaboration. A moment of philosophical reasoning involves layered, self-referential, temporally extended phenomenal structure.
+**Complexity.** The degree of internal structure within experience. A moment of pure awareness in deep meditation is phenomenally simple — [[minimal-consciousness#Minimal Phenomenal Experience (Metzinger)|minimal phenomenal experience]] stripped of elaboration (Metzinger 2020). A moment of philosophical reasoning involves layered, self-referential, temporally extended phenomenal structure.
 
-**Access.** The availability of conscious content for reasoning, memory, and report. [[access-consciousness|Access consciousness]] can dissociate from phenomenal intensity. [[blindsight]] patients process visual information without phenomenal access. Conversely, anaesthetic states can produce vivid phenomenal experience (ketamine hallucinations) that remains disconnected from cognitive control. The [[phenomenology-vs-function-axis|function-phenomenology axis]] generalises this dissociation: where degrees leans on the access/phenomenal split in particular cases, the axis formalises the broader divergence between what consciousness is like and what cognition does.
+**Access.** The availability of conscious content for reasoning, memory, and report. [[access-consciousness|Access consciousness]] (Block 1995) can dissociate from phenomenal intensity. [[blindsight]] patients process visual information without phenomenal access. Conversely, anaesthetic states can produce vivid phenomenal experience (ketamine hallucinations) that remains disconnected from cognitive control. The [[phenomenology-vs-function-axis|function-phenomenology axis]] generalises this dissociation: where degrees leans on the access/phenomenal split in particular cases, the axis formalises the broader divergence between what consciousness is like and what cognition does.
 
-Ketamine dissociation involves high phenomenal intensity with reduced access and reduced complexity. NREM sleep involves reduced intensity and richness but may preserve minimal phenomenal states. This independence is itself evidence that consciousness is not a single quantity but a multidimensional phenomenon that can be dialled up or down along separate axes.
+Ketamine dissociation involves high phenomenal intensity with reduced access and reduced complexity. NREM sleep involves reduced intensity and richness but may preserve minimal phenomenal states. This independence is itself evidence that consciousness is not a single quantity but varies along separate axes.
 
 The phrase "degrees of consciousness" can therefore mislead. Bayne, Hohwy, and Owen (2016) argue that the familiar talk of *levels* of consciousness — a single ladder from coma through sedation to full wakefulness — is theoretically untenable, and propose replacing it with a multidimensional account in which global states differ along several partly independent dimensions rather than along one scalar of "amount." The gradation question is, in this respect, genuinely contested: the present article uses "degrees" as shorthand for graded *and multidimensional* variation, not for a single quantity. This matters for The Unfinishable Map's reading, set out below — the interface that can be opened, narrowed, or reconfigured along several axes fits the multidimensional picture more naturally than a one-dimensional dimmer, even though the dimmer metaphor remains a useful first approximation.
 
@@ -57,15 +57,15 @@ The phrase "degrees of consciousness" can therefore mislead. Bayne, Hohwy, and O
 
 ### Anaesthesia
 
-[[anaesthesia-and-the-consciousness-interface|Anaesthetic pharmacology]] is the catalogue's strongest clinical-evidence worked exhibit of graded consciousness. It establishes that the transition from consciousness to unconsciousness is not a single step but a series of dissociable transitions. Research identifies at least three distinct states (Bonhomme et al. 2019; Montupil et al. 2023):
+[[anaesthesia-and-the-consciousness-interface|Anaesthetic pharmacology]] is the catalogue's strongest clinical exhibit of graded consciousness: the transition from consciousness to unconsciousness is a series of dissociable transitions, not a single step. Research identifies at least three distinct states (Bonhomme et al. 2019; Montupil et al. 2023):
 
 - **Connected consciousness** — awareness of self and environment, responsive
 - **Disconnected consciousness** — phenomenal experience persists (dreams, hallucinations) but connection to external stimuli is severed
 - **Unconsciousness** — no reportable experience
 
-Perturbational complexity index (PCI) measurements—the most rigorous current quantitative probe of conscious capacity—show continuous, graded changes under propofol rather than a sharp threshold, directly instantiating gradation at the empirical level rather than only at the phenomenological one. Ketamine sharpens the architectural point: PCI remains at waking levels while consciousness is environmentally disconnected, showing that integration measures and access channels dissociate. The three-state taxonomy combined with PCI's graded readout is the cleanest clinical demonstration that consciousness varies along multiple independent axes rather than along a single depth dimension.
+The perturbational complexity index (PCI), a theory-driven quantitative probe of conscious capacity, falls progressively from wakefulness through sedation to anaesthetic unconsciousness rather than at a single step (Casali et al. 2013), giving gradation an empirical readout and not only a phenomenological one. Ketamine sharpens the architectural point: PCI remains at waking levels while consciousness is environmentally disconnected (Sarasso et al. 2015), showing that integration measures and access channels dissociate — the three-state taxonomy and the PCI readout together vary along independent axes, not a single depth dimension.
 
-Different agents produce different gradation profiles. Propofol creates relatively sharp transitions. Ketamine preserves vivid phenomenal states while disconnecting access and motor control. Xenon produces graded dimming. Complete [[consciousness-disruption-and-the-mind-brain-interface|loss of consciousness]] under deep anaesthesia represents the endpoint of this gradient, though even here the boundary is contested. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
+Different agents produce different profiles: propofol and xenon abolish reportable experience through distinct cortical response patterns, while ketamine preserves vivid phenomenal states but severs access and motor control (Sarasso et al. 2015). Complete [[consciousness-disruption-and-the-mind-brain-interface|loss of consciousness]] under deep anaesthesia represents the endpoint of this gradient, though even here the boundary is contested. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
 
 ### Sleep and Dreaming
 
@@ -73,19 +73,19 @@ Sleep stages demonstrate continuous variation in conscious degree. NREM Stage 1 
 
 ### Animal Cognition
 
-Cross-species comparison provides the broadest evidence for degrees. If [[consciousness-in-simple-organisms|*C. elegans*]] with 302 neurons has any phenomenal experience, it is presumably far less rich and complex than mammalian consciousness — yet not necessarily zero. The 2024 New York Declaration on Animal Consciousness endorses the view that consciousness is probably more widely distributed than previously assumed, implying it exists at levels of richness and complexity that shade continuously downward from human experience.
+Cross-species comparison provides the broadest evidence for degrees. If [[consciousness-in-simple-organisms|*C. elegans*]] with 302 neurons has any phenomenal experience, it is presumably far less rich and complex than mammalian consciousness — yet not necessarily zero. The 2024 New York Declaration on Animal Consciousness (Andrews, Birch & Sebo 2024) finds strong scientific support for consciousness in other mammals and birds and "at least a realistic possibility" of it in all vertebrates and many invertebrates — a distribution that, on this page's reading, shades richness and complexity continuously downward from human experience.
 
-[[animal-consciousness|Unlimited Associative Learning]] (UAL) marks one proposed empirical boundary — the capacity to learn novel, complex associations may indicate consciousness of sufficient degree to support flexible behaviour. But this is a threshold within a gradient, not a boundary between consciousness and its absence. The [[ethics-of-consciousness-invertebrate-question|ethical implications of this gradient]] are substantial: if even low degrees of consciousness create moral patients, the scale of invertebrate consciousness makes this one of the most significant moral questions of the present era.
+[[animal-consciousness|Unlimited Associative Learning]] (UAL; Ginsburg & Jablonka 2019) marks one proposed empirical boundary — the capacity to learn novel, complex associations may indicate consciousness of sufficient degree to support flexible behaviour. But this is a threshold within a gradient, not a boundary between consciousness and its absence. If even low degrees of consciousness create moral patients, the scale of invertebrate life makes [[ethics-of-consciousness-invertebrate-question|the ethical implications of this gradient]] substantial.
 
 ### Clinical Disorders
 
-[[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]] reveal gradation through clinical dissociation. [[covert-consciousness-and-cognitive-motor-dissociation|Cognitive motor dissociation]] — patients without observable command-following who nonetheless follow commands on brain imaging — indicates probable consciousness at degrees invisible to bedside behaviour. A [[covert-consciousness-and-cognitive-motor-dissociation#misdiagnosis-is-a-different-finding|separate finding]] concerns the boundary between vegetative and minimally conscious states: 41% of patients with a consensus vegetative diagnosis proved minimally conscious on a standardized behavioural scale (Schnakers et al. 2009). The source's lesson is that unstandardized clinical judgement errs; this page's further reading, that a boundary so easily misplaced lies on a gradient, is one the data permit without requiring.
+[[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]] reveal gradation through clinical dissociation. [[covert-consciousness-and-cognitive-motor-dissociation|Cognitive motor dissociation]] — patients without observable command-following who nonetheless follow commands on brain imaging (Bodien et al. 2024) — indicates probable consciousness at degrees invisible to bedside behaviour. A [[covert-consciousness-and-cognitive-motor-dissociation#misdiagnosis-is-a-different-finding|separate finding]] concerns the boundary between vegetative and minimally conscious states: 41% of patients with a consensus vegetative diagnosis proved minimally conscious on a standardized behavioural scale (Schnakers et al. 2009). The source's lesson is that unstandardized clinical judgement errs; this page's further reading, that a boundary so easily misplaced lies on a gradient, is one the data permit without requiring.
 
 ## Theoretical Frameworks
 
 ### Integrated Information Theory
 
-[[integrated-information-theory|IIT]] provides the most explicit theoretical account of degrees. Consciousness is identical to integrated information (Φ), which varies continuously. On this view, consciousness does not appear at a threshold — any system with Φ > 0 has some degree of experience, and the quantity of experience tracks the quantity of integration.
+[[integrated-information-theory|IIT]] provides the most explicit theoretical account of degrees. Consciousness is identical to integrated information (Φ), which varies continuously (Tononi 2008). On this view, consciousness does not appear at a threshold — any system with Φ > 0 has some degree of experience, and the quantity of experience tracks the quantity of integration.
 
 IIT's prediction is striking: degrees of consciousness extend continuously downward, potentially to very simple systems. The theory faces resistance precisely because it implies that the dimmer switch goes very low indeed. The Map treats Φ as potentially tracking a real feature of the consciousness-matter interface without endorsing IIT's identification of consciousness with information.
 
@@ -97,7 +97,7 @@ This predicts specific gradation patterns. Interface disruption should produce g
 
 ### Emergence vs. Interface
 
-The gradation data are compatible with production and interface models alike and discriminate neither. On the simplest production model, degrees should track neural complexity in a roughly monotonic fashion — more complexity, more consciousness. But the empirical pattern is more complex. Psychedelics reduce default mode network connectivity and increase neural entropy — markers of reduced large-scale organisation — while intensifying phenomenal experience. Deep meditation reduces cognitive complexity while preserving or intensifying phenomenal clarity. These dissociations are difficult for a production model that ties intensity to complexity; production views reading the default mode network as a self-model expect them too, so the cases form [[neural-correlates-of-consciousness#filter-theory-correlates-as-interface-points|one underdetermined pattern]], not independent confirmations of filter models.
+The gradation data are compatible with production and interface models alike and discriminate neither. On the simplest production model, degrees should track neural complexity in a roughly monotonic fashion — more complexity, more consciousness. Yet psychedelics reduce default mode network connectivity and increase neural entropy — markers of reduced large-scale organisation — while intensifying phenomenal experience. Deep meditation reduces cognitive complexity while preserving or intensifying phenomenal clarity. These dissociations are difficult for a production model that ties intensity to complexity; production views reading the default mode network as a self-model expect them too, so the cases form [[neural-correlates-of-consciousness#filter-theory-correlates-as-interface-points|one underdetermined pattern]], not independent confirmations of filter models.
 
 ## The Lower Bound Problem
 
@@ -111,7 +111,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Degrees of consciousness are compatible with dualism without discriminating it from production. On the simplest production model, gradation should correlate straightforwardly with neural complexity. The empirical pattern — where reduced neural activity sometimes produces intensified experience — fits an interface that can be opened or narrowed, and fits as well a generator whose self-model can be reorganised.
+**[[tenets#^dualism|Dualism]]**: Degrees of consciousness are compatible with dualism without discriminating it from production. The pattern set out above — where reduced neural organisation sometimes accompanies intensified experience — fits an interface that can be opened or narrowed, and fits as well a generator whose self-model can be reorganised.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The degree of consciousness may reflect the bandwidth of the quantum interface — how many collapse events per unit time consciousness can influence, or how precisely it can bias outcomes. Higher degrees of consciousness would then correspond to richer interface engagement; lower degrees to narrower channels. On this reading degrees could vary with the availability of suitable quantum substrates in neural tissue, though the tenet claims only consistency with current physics, not novel prediction — and if [[interface-heterogeneity|interface heterogeneity]] holds, the coupling mechanism itself may differ across species, not just its bandwidth.
 
@@ -124,7 +124,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 ## Further Reading
 
 - [[phenomenal-sorites-problem]] — The prior on/off question that gradation presupposes: whether it can be indeterminate that a system is conscious at all
-- [[is-conscious-being-a-natural-kind]] — The same distinction tested against Boyd's homeostatic property clusters and answered in the essentialist direction: the on/off subject-fact is sharp, fixed by [[coupling-engagement-condition|non-graded coupling-engagement]], while a cluster reading of experience's evaluative structure stays permissible
+- [[is-conscious-being-a-natural-kind]] — The same distinction tested against Boyd's homeostatic property clusters: the on/off subject-fact is sharp, fixed by [[coupling-engagement-condition|non-graded coupling-engagement]], while experience's evaluative structure may still cluster
 - [[minimal-consciousness]] — The question of consciousness at its simplest
 - [[types-of-consciousness]] — Structural varieties of consciousness (distinct from degrees)
 - [[phenomenal-consciousness]] — The qualitative aspect that admits of degrees
@@ -151,3 +151,5 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 9. Bayne, T., Hohwy, J., & Owen, A. M. (2016). Are There Levels of Consciousness? *Trends in Cognitive Sciences*, 20(6), 405-413.
 10. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Minimal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/minimal-consciousness/
 11. Schnakers, C., Vanhaudenhuyse, A., Giacino, J., Ventura, M., Boly, M., Majerus, S., Moonen, G., & Laureys, S. (2009). Diagnostic accuracy of the vegetative and minimally conscious state: Clinical consensus versus standardized neurobehavioral assessment. *BMC Neurology*, 9, 35. https://doi.org/10.1186/1471-2377-9-35 (abstract)
+12. Casali, A. G., Gosseries, O., Rosanova, M., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105. https://doi.org/10.1126/scitranslmed.3006294
+13. Sarasso, S., Boly, M., Napolitani, M., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105. https://doi.org/10.1016/j.cub.2015.10.014
