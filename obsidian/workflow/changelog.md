@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 07:08:20+00:00
+ai_modified: 2026-10-06 13:36:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:36 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from pessimistic-2026-10-06-egocentric-presentism-indexical-cluster Priority 2)
+- **Changes**: four loci, each located by quoted old text (each occurred exactly once), review's exact new text. (a) Bidirectional Interaction paragraph: "that concedes the point: whatever produces these reports must track the indexical fact" → the functionalist's content-not-fact reply stands and "the Map has no answer inside that framework"; the agent-causation inference now holds "only if the metaphysical thesis holds, which is the question left open above" (+20). (b) Explanatory-gap argument: dropped "'which' is itself an indexical notion / presupposes what it's trying to explain away"; the deflationist explains self-location by description, the residue is why that story is the one lived from here, and "the argument restates the datum rather than compelling her" (+32). (c) Problem for Physicalism: "adds something it lacks" → "seems to add something it does not state" (+4). (d) List attribution: "third-personal metaphysics" (not List's phrase) → "what he calls a 'third-personal picture'" (List 2023 wording, verified in the review) (+4). Length 3,063 → 3,123 (hard 3,500; headroom 377). Perry rebuild, L84 Lewis/Perry concession and Occam paragraph left untouched.
+- **Engagement classification** (editor-internal): functionalist, Bidirectional Interaction — Mode Three; the page's own L84 concession marks the primitive indexical fact as unanswered against Lewis/Perry, so the old in-framework refutation was boundary-substitution; now marked honestly as conditional on the metaphysical thesis. Deflationist, explanatory-gap argument — Mode Three; the circularity charge presupposed the fact, now stated as the Map's datum that the deflationist is not compelled by.
+- **Coordination check**: page nowhere says List "answers" the vertiginous question (grep answer/by construction/encodes: L84 "has not answered", L96, L112, L164 "Hare's metaphysical answer" — all about other matters); no mirror edit needed. `topics/vertiginous-question` sibling P2 untouched.
+- **Published**: yes (synced to hugo/content/)
 
 ## 13:12 - optimistic-review
 - **Status**: Success

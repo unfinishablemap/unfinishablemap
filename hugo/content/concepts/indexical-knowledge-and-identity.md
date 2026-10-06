@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-10-06 01:23:51+00:00
+ai_modified: 2026-10-06 13:36:25+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 20:39:01+00:00
-lastmod: 2026-10-06 01:23:51+00:00
+lastmod: 2026-10-06 13:36:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,19 +93,19 @@ The difference matters for consciousness. If only the epistemic thesis holds, in
 
 The Unfinishable Map's position requires the metaphysical thesis. Three arguments support it:
 
-**The [explanatory-gap](/concepts/explanatory-gap/) argument**: If self-locating knowledge were merely a way of representing impersonal facts, we should be able to explain *why* this mode of representation exists in purely impersonal terms. But the attempt seems circular. To explain why a system has self-locating representations, we need to specify *which* system—and "which" is itself an indexical notion. The explanatory project presupposes what it's trying to explain away.
+**The [explanatory-gap](/concepts/explanatory-gap/) argument**: If self-locating knowledge were merely a way of representing impersonal facts, we should be able to explain *why* this mode of representation exists in purely impersonal terms. But the attempt seems circular. To explain why a system has self-locating representations, we need to specify *which* system. A deflationist can do that by description, and so explain self-location in general; what the description leaves unaddressed is why that general story is the one being lived from here. The deflationist replies that nothing further needs explaining, and the argument restates the datum rather than compelling her.
 
 **The phenomenological argument**: The immediacy of self-locating knowledge suggests it tracks something real. You don't infer "I exist" from impersonal premises—the knowledge is given directly. If indexical facts were merely modes of access to impersonal facts, the knowledge should feel derivative. Instead, it has a directness suggesting it is not derived from anything more basic.
 
 **The counterfactual argument**: If there were only impersonal facts, the question "why am I *this* subject?" would be meaningless or trivially answered. But the question feels meaningful and non-trivial—the [vertiginous-question](/topics/vertiginous-question/) marks the cognitive boundary where this question confronts its own inexplicability. If the question is coherent, what would make its answer true or false? Impersonal facts alone don't seem sufficient; something must ground the indexical.
 
-Christian List argues that irreducible indexical facts provide evidence against "third-personal metaphysics"—any picture treating reality as fully describable without indexicals. If physics describes the universe in context-free terms yet self-locating knowledge adds something physics doesn't contain, then physics is incomplete as an account of what exists.
+Christian List argues that irreducible indexical facts provide evidence against what he calls a "third-personal picture"—any picture treating reality as fully describable without indexicals. If physics describes the universe in context-free terms yet self-locating knowledge adds something physics doesn't contain, then physics is incomplete as an account of what exists.
 
 ## The Problem for Physicalism
 
 Physics aims to describe reality in context-independent terms—particle positions, field strengths, causal laws. Indexical facts challenge this. Physics tells you what exists and how things relate, but not *which* of those things you are or *where* you stand in the causal network.
 
-A complete physical description of the universe would specify every brain, every neural pattern, every conscious experience (if consciousness is physical). But would it tell you which brain is yours? The description treats all brains equally: no brain is privileged as "the one I am," and the indexical fact that *this* brain is mine adds something it lacks.
+A complete physical description of the universe would specify every brain, every neural pattern, every conscious experience (if consciousness is physical). But would it tell you which brain is yours? The description treats all brains equally: no brain is privileged as "the one I am," and the indexical fact that *this* brain is mine seems to add something it does not state.
 
 This connects to the [knowledge-argument](/concepts/knowledge-argument/). Frank Jackson's (1982) Mary knows all physical facts about colour vision but lacks what the Map calls phenomenal indexical knowledge of *what it is like* to see red. The gap between her pre-release and post-release knowledge is precisely the gap between impersonal and phenomenal indexical knowledge.
 
@@ -157,7 +157,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Indexical knowledge that *I* experience *this* outcome presupposes a fact about which outcome is mine. Many-worlds denies such facts by making all outcomes equally real. The Map rejects many-worlds partly because indexical identity seems meaningful in ways branch-egalitarian readings cannot accommodate. Consciousness tracking one definite trajectory suggests genuine selection, not branching into all possibilities.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reports of indexical knowledge—"I see red," "this hurts," "I am here"—are physical events. If indexical knowledge were epiphenomenal, these reports would be causally disconnected from the knowledge itself. A functionalist might respond that physical states carrying indexical representational content suffice to explain this, but that concedes the point: whatever produces these reports must track the indexical fact, not merely the impersonal state of affairs. The reliability of first-person reports suggests [causal influence](/concepts/agent-causation/) flowing from consciousness to physical outcomes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reports of indexical knowledge—"I see red," "this hurts," "I am here"—are physical events. If indexical knowledge were epiphenomenal, these reports would be causally disconnected from the knowledge itself. A functionalist will respond that physical states carrying indexical representational *content* suffice to explain this, and the Map has no answer inside that framework: the reply concedes that the reports track indexical content, which the functionalist already grants, not an indexical *fact*. The reliability of first-person reports therefore suggests [causal influence](/concepts/agent-causation/) flowing from consciousness to physical outcomes only if the metaphysical thesis holds, which is the question left open above.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Eliminating indexical facts seems parsimonious—fewer kinds of facts, simpler ontology. But Perry's case shows that the parsimony has to be paid for: the impersonal description cannot explain why learning "I am making a mess" changes behaviour when "John Perry is making a mess" does not. Lewis's self-ascription account and Perry's belief-state account pay for it without adding facts to the world, so the razor cuts against the metaphysical thesis only if those accounts succeed—which is the question at issue, not a result the razor can presuppose.
 
