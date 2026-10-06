@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 02:36:00+00:00
+ai_modified: 2026-10-06 03:35:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:35 - research-topic
+- **Status**: Success
+- **Topic**: Subjective facts and the metaphysical problem of other minds: first-person realism without a privileged subject
+- **Output**: [[research/subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06]]
+- **Sources consulted**: 16 (5 read in full — Builes 2024, Merlo 2016, Merlo 2021, Lipman 2023 Ergo, Kinkaid 2025; 4 abstract-only; Hare 2009 and Fine 2005 not read)
+- **Findings**: The task's framing is inverted — in the literature "first-person realism" names the privileged-perspective family (Builes: "one's own first-person perspective on the world is metaphysically privileged in some way"); the egalitarian option (Fine's nonstandard realism, Lipman's standpoint pluralism, Kinkaid 2025) is a wing of it, and Merlo 2021 is an *inegalitarian* statement of the problem (parity, multiplicity), not the egalitarian source. Metadata correction: Lipman "Subjective Facts about Consciousness" is Ergo 10 (2023), doi 10.3998/ergo.4649 — the PQ 75(3) 1026 reference in the task is List's quadrilemma paper. Assessed article-sized (both candidate hosts full; topics 343/360); `task_chains.pending_articles` entry added, target topics.
+- **Access note**: PhilPapers/PhilArchive, Wiley and Ergo all 403 to direct fetch; full texts obtained via Wayback Machine snapshots and the Cambridge OA PDF.
 
 ## 02:36 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched; the expected steady-state outcome)
