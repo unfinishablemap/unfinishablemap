@@ -5,6 +5,18 @@ ai_modified: 2026-10-06 20:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 20:37 - deep-review
+- **Status**: Success
+- **File**: [[concepts/constitutive-vs-referring-observation]]
+- **Word count**: 1978 → 2056 (+78; 82% of 2500 soft)
+- **Critical issues addressed**: 1 — the Anton paragraph inserted by expand-topic on 10-03 (commit ee3e18c2a4) misstated the source's two readings: it put reading B (imagery taken for perception) under the existence claim "I am having visual experience", which the Anton article (L44/L111) says fails only under reading A. Rewritten at both grains; closing sentence now ties the case to seeming-not-report authority.
+- **Medium issues addressed**: 3 — tenet-check 2026-10-03 W(low) L77 ("Tenet 5 was formulated to identify" → "the use of parsimony as a decisive argument that Tenet 5 rules out"); N L83 (Map's structural-relation argument marked as an extension of Tenet 5, not the tenet itself); N L81 ("supports Tenet 1 structurally" now reads "defends a premise the dualist case needs, and is not evidence for the tenet").
+- **Enhancements made**: 0 beyond the above; sixth pass, five prior convergence notes all still hold.
+- **Engagements**: eliminativist/illusionist/Frankish/Rosenthal/Kriegel — Mode Three, declines refutation; introspection-as-theory-laden move — Mode Two touch. Unchanged.
+- **Citations**: References block unedited since 06-01 primary-source verification; ledger carried in the review file; the new paragraph adds no citation (clinical claims carried by the linked Anton article, web-verified 10-04).
+- **ai_system**: plus-joined claude-fable-5-1 (prose rewritten).
+- **Output**: [[reviews/deep-review-2026-10-06-constitutive-vs-referring-observation]]
+
 ## 20:19 - refine-draft
 
 - **Task**: `concepts/thought-insertion` L106 and L84 (pessimistic-2026-10-06-for-me-ness-mine-ness-edits, item 2) — applied inline by the driver with the review's exact text

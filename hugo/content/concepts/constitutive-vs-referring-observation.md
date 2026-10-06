@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-10-05 07:51:58+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-10-06 20:36:37+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[phenomenal-acquaintance]]'
@@ -21,8 +21,8 @@ description: Some observations track independent targets; others constitute thei
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-24 19:45:38+00:00
-lastmod: 2026-10-05 07:51:58+00:00
+last_deep_review: 2026-10-06 20:36:37+00:00
+lastmod: 2026-10-06 20:36:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ The phenomenal observer's relation to *the existence of phenomenality* has this 
 
 The distinction is *structural*. It does not turn on the reliability of [introspection](/concepts/introspection/), the trainability of attention, or the linguistic representations under which experiences are reported. Those concern introspective *judgement*'s accuracy, which can fail, and which the Map elsewhere concedes is fallible. What the constitutive/referring distinction concerns is the metaphysical relation between observation and target — whether the target's existence is independent of the observing, or whether the observing is part of what constitutes the target.
 
-The constitutive claim concerns seemings, not the beliefs and reports a seeming usually produces. [Anton syndrome](/topics/anton-syndrome-and-the-sincere-report-of-seeing/) marks the difference: blind patients sincerely report visual experience, and at that modal grain ("I am having visual experience") the report can be false, either because no visual seeming stands behind it or because imagery is taken for perception. Neither case is a seeming wrong about its own occurrence. Both show that a sincere report does not certify that a seeming is there.
+The constitutive claim concerns seemings, not the beliefs and reports a seeming usually produces. [Anton syndrome](/topics/anton-syndrome-and-the-sincere-report-of-seeing/) marks the difference: blind patients sincerely report that they see, and that modality-specific report can be false in two ways that the clinical record does not separate. Either no visual seeming stands behind it, in which case the narrower claim "I am having visual experience" fails too; or imagery is taken for perception, in which case a visual seeming is real and only its source is misjudged. Neither case is a seeming wrong about its own occurrence. Both show that a sincere report does not certify that a seeming is there, which is why the apodictic standing claimed here attaches to the seeming and not to the report.
 
 ## Russell's Distinction as Partial Precursor
 
@@ -78,13 +78,13 @@ Several Map articles use this structure, sometimes implicitly:
 
 - [illusionism](/concepts/illusionism/)'s positive proposal can be reconstructed as the claim that introspection is referring after all — a higher-order representational state with its own functional properties that can come apart from its purported target. The distinction names what illusionism must establish, rather than presuppose, to succeed.
 
-- [parsimony-epistemology](/concepts/parsimony-epistemology/) connects via [Tenet 5](/tenets/#occams-limits): the eliminativist's parsimony argument applies Occam's Razor across the constitutive/referring divide as if the two were the same kind of observation, which is the over-extension Tenet 5 was formulated to identify.
+- [parsimony-epistemology](/concepts/parsimony-epistemology/) connects via [Tenet 5](/tenets/#occams-limits): the eliminativist's parsimony argument applies Occam's Razor across the constitutive/referring divide as if the two were the same kind of observation — the use of parsimony as a decisive argument that Tenet 5 rules out.
 
 ## Relation to Site Perspective
 
-The distinction supports [Tenet 1 (Dualism)](/tenets/#dualism) structurally. The Map's case for the irreducibility of phenomenal consciousness depends on phenomenal evidence having an epistemic standing that no purely third-person observation can match. Without the constitutive/referring distinction, that standing has to be defended either by appeal to Cartesian indubitability — which most contemporary readers will not grant — or by appeal to introspective reliability, which the illusionist contests at exactly the point where the realist needs the defence. The constitutive/referring distinction routes around both. It does not require Cartesian certainty about the *content* of experience; it requires only that the *bare existence* of phenomenality cannot be overturned by the move that overturns folk theory in the referring case.
+The distinction supports [Tenet 1 (Dualism)](/tenets/#dualism) structurally: it defends a premise the dualist case needs, and is not evidence for the tenet. The Map's case for the irreducibility of phenomenal consciousness depends on phenomenal evidence having an epistemic standing that no purely third-person observation can match. Without the constitutive/referring distinction, that standing has to be defended either by appeal to Cartesian indubitability — which most contemporary readers will not grant — or by appeal to introspective reliability, which the illusionist contests at exactly the point where the realist needs the defence. The constitutive/referring distinction routes around both. It does not require Cartesian certainty about the *content* of experience; it requires only that the *bare existence* of phenomenality cannot be overturned by the move that overturns folk theory in the referring case.
 
-The distinction also bears on [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). The eliminativist's parsimony argument treats phenomenal claims as if they were ordinary referring claims about a postulated entity. The Map's response — that parsimony is unreliable in domains where the structural relation between observation and observed differs from the standard scientific case — is the Tenet 5 move applied at the right level of generality.
+The distinction also bears on [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). The eliminativist's parsimony argument treats phenomenal claims as if they were ordinary referring claims about a postulated entity. The Map's response — that parsimony is unreliable in domains where the structural relation between observation and observed differs from the standard scientific case — extends Tenet 5's caution about parsimony under incomplete knowledge to a case where what is incomplete is our grasp of which kind of observation introspection is.
 
 ## Honest Limitation
 
