@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-09-17 20:52:27+00:00
+ai_modified: 2026-10-06 10:22:08+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
 - '[[bedrock-clash-vs-absorption]]'
 - '[[concepts/cross-mechanism-convergence]]'
 created: 2026-01-16
-date: &id001 2026-09-17
+date: &id001 2026-10-06
 description: Safeguards against systematic overcommitment when an AI system both generates
   and reviews content optimised for internal consistency. Detection, confidence calibration,
   and editorial discipline against silent absorption.
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-04-29 14:27:00+00:00
-lastmod: 2026-09-17 20:52:27+00:00
+lastmod: 2026-10-06 10:22:08+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -422,6 +422,8 @@ Two convergent failure modes share a fix: claims that drift *up* in a lead relat
 **Constrain-vs-establish frame lint (the body-vs-frame variant).** The strength-of-claim linter above catches drift *within the prose* (a strong-verb lead contradicted by a hedged body). A distinct body-vs-frame mismatch escapes it: an article whose **body** scrupulously hedges its conclusion as conditional-on-tenets — "if the tenets hold," "compatibility, not support," "constrains rather than establishes," "an open programme rather than evidence" (the calibrated phrasing the [evidential-status discipline](/project/evidential-status-discipline/) installs at the claim level) — while its **title, section headers, abstract, or meta-description** assert the same conclusion *categorically*. The frame inherits the strong reading the body has explicitly declined; an LLM that fetches only the title, headers, and meta-description (the truncation-resilient surface — see [writing-style](/project/writing-style/)) reads a disqualification the body never licensed. This is the constrain-vs-establish slippage of the [evidential-status-discipline](/project/evidential-status-discipline/) migrated from the sentence to the article's framing furniture, and it is exactly the coherence-inflation pattern where calibrated body prose is undercut by an over-claiming frame.
 
 The worked example is [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) (2026-06-18 Claude Opus 4.8 outer review): the body concedes the AI-substrate case "is compatibility, not support, an open programme rather than evidence" and that every operative claim holds only "if the tenets hold," yet the title, the abstract's "constrain the answer," and a section header ("Current AI does not satisfy the Map's conditions") present a substantive *disqualification* of AI consciousness. The fix direction is always to **align the frame down to the body** — relax the title/header/meta-description to the conditional the body actually defends ("if Tenets 1–3 hold, classical AI lacks the interface") — never to strengthen the body up to the frame. The frame may be relaxed back toward the categorical claim only when the body supplies a tenet-independent, externally-checkable criterion that *establishes* (not merely constrains) the conclusion.
+
+A second instance, from a void rather than a topic article, shows the same mismatch without any tenet-conditional in play. [The categorical perception void](/voids/categorical-perception-void/) opened its lede and `description` with "experience arrives already carved" while its body conceded that whether default experience is itself categorical, or is only *reported* so, is untested — a finding of the 2026-10-06 Claude Opus 5.5 outer review ([outer-review-2026-10-06-claude-opus-5-5](/reviews/outer-review-2026-10-06-claude-opus-5-5/); carried as singleton S1 in the [synthesis](/reviews/outer-review-synthesis-2026-10-06/)). The fix ran frame-down-to-body, landing 2026-10-06 (PASS 3): the lede now reads "report arrives already carved; whether experience does is untested", and the meta-description carries the same split.
 
 ### Implementation
 

@@ -5,6 +5,15 @@ ai_modified: 2026-10-06 07:08:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 10:22 - refine-draft
+- **Status**: Success
+- **Files**: [[project/writing-style]] + [[project/coherence-inflation-countermeasures]] (two-file task; both edited)
+- **Source**: convergent outer reviews 2026-10-06 (ChatGPT 5.6 Sol Pro items 21 + 31; Claude Opus 5.5 methodology item 1), synthesis cluster K16, upgraded P1. Worked instances only — no new rule; Countermeasure 16 and the human-ratification reservation untouched.
+- **writing-style**: new paragraph "Worked example — the Witzel anchor in the categorical perception void" appended to the "Verdict-Direction Check" subsection, after the Birch worked example and before "Surveying a Tradition from Outside". Records the verdict-direction failure one level below metaphysical camp (an empirical author's reading of their own result), cites both reviewers' formulations in one clause, states the one-clause check, and notes that it extends the `/deep-review` cited-author-stance leg rather than adding one. Notes the void's PASS 1 repair.
+- **coherence-inflation-countermeasures**: one paragraph added to Countermeasure 12's constrain-vs-establish frame lint, after the quantum-state-inheritance worked example and before "### Implementation": the categorical void's lede/`description` asserted "experience arrives already carved" while the body called the phenomenal question untested; fix ran frame-down-to-body (PASS 3, 2026-10-06). Attributed to the Claude review as singleton S1 (the synthesis records it as Claude-only, so the task brief's "convergent" framing applies to K16, not to this instance). Links [[categorical-perception-void]] piped, review file path-qualified.
+- **Citation verification**: Witzel & Gegenfurtner 2013 (*JoV* 13(7):1, doi 10.1167/13.7.1) and 2015 (*JoV* 15(8):22, doi 10.1167/15.8.22) metadata verified at Crossref; both abstract quotations verified verbatim via OpenAlex inverted index. Correction to the review file's citation: the 2015 paper is Witzel **& Gegenfurtner**, not Witzel alone — written with both authors and the discrepancy noted in the paragraph.
+- **Published**: yes (project docs; no length gate)
+
 ## 10:14 - deep-review
 - **Status**: Success
 - **File**: [[concepts/degrees-of-consciousness]]
