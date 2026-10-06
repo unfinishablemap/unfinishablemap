@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-09-28
 human_modified: null
-ai_modified: 2026-10-02T13:13:06+00:00
+ai_modified: 2026-10-06T11:53:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,21 +60,21 @@ These concepts converge for consciousness. The question "Why am I this subject a
 
 Philosophers divide on whether haecceitistic differences are genuine.
 
-**Haecceitists** hold that two possible worlds can differ solely in which individuals play which roles—even if all qualitative facts are the same. Max Black's two qualitatively identical spheres: swap them and you have a different (though qualitatively identical) situation.
+**Haecceitists** hold that two possible worlds can differ solely in which individuals play which roles—even if all qualitative facts are the same. Max Black's two qualitatively identical spheres: swap them and you have a different situation.
 
 **Anti-haecceitists** deny this. If two situations are qualitatively identical, they're the same situation. Identity supervenes on qualitative character.
 
 For personal identity: anti-haecceitists hold that what makes you you is entirely constituted by qualitative facts—memories, psychology, physical constitution. A perfect replica would be you. Parfit's view exemplifies this: personal identity reduces to psychological continuity and can branch or fuse. Haecceitists hold that what makes you you includes something non-qualitative. A perfect replica shares all qualitative properties but lacks your haecceity. Identity cannot branch because haecceity cannot be divided or copied.
 
-## Why Consciousness Requires Haecceity
+## Haecceity and the Individuation of Subjects
 
 The Map's [[tenets#^dualism|Dualism]] tenet treats consciousness as irreducible to physical processes. This commitment is hospitable to haecceitism without implying it.
 
 Consider the [[philosophical-zombies|zombie argument]]: a creature physically identical to you but lacking consciousness is conceivable. If zombies are possible, consciousness is not determined by physical/functional properties. But then what determines that *this* physical system has consciousness while an identical zombie lacks it?
 
-The answer cannot be purely physical. By hypothesis, you and your zombie twin share all qualitative physical properties. The difference is phenomenal; haecceity enters when one asks what makes *this* subject, rather than a phenomenal duplicate, the one here.
+The answer cannot be purely physical, since the two share all physical properties; the difference is phenomenal, and haecceity enters when one asks what makes *this* subject, rather than a phenomenal duplicate, the one here.
 
-This is haecceity applied to consciousness. The fact that you are conscious is not just a qualitative fact about your brain states—it's the fact that *this* subject exists and experiences. Benj Hellie called this "the [[vertiginous-question|vertiginous question]]"—why, of all conscious beings, am *I* this one? The question is vertiginous because it seems unanswerable yet undeniably meaningful.
+This is haecceity applied to consciousness. The fact that you are conscious is not just a qualitative fact about your brain states—it's the fact that *this* subject exists and experiences. Benj Hellie called this "the [[vertiginous-question|vertiginous question]]"—why, of all conscious beings, am *I* this one? Haecceity answers only half of it: a thisness distinguishes me from Alice, but Alice has one too, so haecceity individuates subjects and is silent on which of them is the privileged, lived one—the demand the question actually makes.
 
 This haecceitistic dimension of consciousness extends to the quantum domain. If the [[measurement-problem]] asks why definite outcomes occur rather than superpositions, the indexical question asks: given that a definite outcome occurs, why does *this* particular consciousness experience *this* particular result? The indexical gap—examined in depth in [[indexical-identity-quantum-measurement]]—reveals that no existing quantum-interpretive account satisfies the Map's primitive-subject standard for the haecceity of conscious experience—self-location and branch-relative treatments address the question, but the Map judges them to fall short of that standard.
 
@@ -86,9 +86,9 @@ The [[concepts/many-worlds|dedicated MWI critique]] develops five arguments agai
 
 ## Self-Locating Beliefs
 
-Self-locating beliefs—beliefs about *where you are* in the world, not just what the world is like—involve essential indexicals. David Lewis's "Two Gods" scenario (discussed in [[indexical-knowledge-and-identity]]) demonstrates that self-locating knowledge is distinct from qualitative knowledge: omniscience about impersonal facts leaves "which one am I?" undetermined.
+Self-locating beliefs—beliefs about *where you are* in the world, not just what the world is like—involve essential indexicals. David Lewis's "Two Gods" scenario (discussed in [[indexical-knowledge-and-identity]]) demonstrates that self-locating knowledge is distinct from qualitative knowledge: omniscience about impersonal facts leaves "which one am I?" undetermined—though Lewis's own analysis, self-ascription of properties, is non-haecceitist.
 
-This applies directly to consciousness. There's a question prior to the problem of other minds: how do I know that *I* am this conscious being rather than another? The answer requires haecceity—I am this subject not because of qualitative features I alone possess (my duplicate shares them) but because of the non-qualitative fact of being *this* one.
+This applies directly to consciousness. There's a question prior to the problem of other minds: how do I know that *I* am this conscious being rather than another? The Map's answer is haecceity—I am this subject not because of qualitative features I alone possess (my duplicate shares them) but because of the non-qualitative fact of being *this* one.
 
 ## Teleportation, Uploading, and Fission
 
@@ -106,7 +106,7 @@ The [[pairing-problem]] asks what connects a particular mind to a particular bod
 
 The [[concepts/many-worlds#3. The Probability Problem|probability problem]] for many-worlds connects to haecceity. Proposed solutions invoke self-locating uncertainty—before looking at the result, you're uncertain which branch you're in. But this presupposes a haecceitistic fact about which branch contains you. If personal identity is purely qualitative, all branches equally contain your continuers, and self-locating uncertainty is ill-defined.
 
-The [[indexical-identity-quantum-measurement|indexical identity problem]] extends this across all QM interpretations: each addresses the measurement problem while leaving the indexical problem—grounded in haecceity—untouched. Decision-theoretic defenses (Wallace 2012, Greaves 2007) attempt to derive the Born rule without haecceitistic assumptions, but "What should I care about?" presupposes an "I" whose interests are at stake. The broader [[concepts/many-worlds|MWI critique]] identifies additional problems, but indexical identity is fundamental.
+The [[indexical-identity-quantum-measurement|indexical identity problem]] extends this across all QM interpretations: each addresses the measurement problem while leaving the indexical problem—grounded in haecceity—untouched. Decision-theoretic defenses (Wallace 2012, Greaves 2007) attempt to derive the Born rule without haecceitistic assumptions, but "What should I care about?" presupposes an "I" whose interests are at stake.
 
 ## Process Haecceitism: Particularity Without Permanence {#process-haecceitism}
 

@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-10-05T18:36:16+00:00
+ai_modified: 2026-10-06T11:53:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,7 +108,7 @@ The individuation boundary has a distinctive phenomenological character—or rat
 
 Try to locate where "you" ends and "not-you" begins. The exercise fails—not because the boundary is vague but because the search tool (your consciousness) is the very thing whose boundary you seek. This is the self-reference structure that makes individuation resistant to introspection.
 
-Caspar Hare captures a related asymmetry through his concept of "egocentric presentism." One subject's experiences possess an irreducible monadic property of *presence*—they are present in a way that others' experiences are not. This is not solipsism: other people exist and are fully conscious. But their experiences lack the property of being *present*. The "presence" property cannot be reduced to any objective feature of the world, making individuation partly a matter of irreducible [[indexical-knowledge-and-identity|indexical fact]].
+Caspar Hare captures a related asymmetry through his concept of "egocentric presentism." One subject's experiences possess an irreducible monadic property of *presence*—they are present in a way that others' experiences are not. Other people exist and, for Hare, "every functionally sentient creature is conscious" (2007: 369), but only one *subject world*—a world in which exactly one creature's experiences bear presence—is real, which is why Christian List files the view under the solipsist horn of his [[egocentric-presentism#the-quadrilemma|quadrilemma]] and why Hare himself concedes it "commits me to a kind of solipsism" (2010): not the denial that other minds exist, but the denial that their experiences share the presence mine have. The "presence" property cannot be reduced to any objective feature of the world, making individuation partly a matter of irreducible [[indexical-knowledge-and-identity|indexical fact]].
 
 Contemplative traditions report states in which the self-other boundary appears to dissolve—certain [[buddhism-and-dualism|Buddhist]] jhanas, mystical union experiences, psychedelic ego dissolution. These reports are philosophically significant but ambiguous. They may represent genuine access to the pre-individuated ground of consciousness. Or they may represent altered phenomenology *within* an unchanged subject—the experience of boundarylessness without actual dissolution of the boundary. Either way, the felt vertigo of the dissolving self-boundary resembles the groundlessness reported when a framework collapses in [[surprise-prediction-error-and-consciousness|deep disorientation]] and [[categorical-surprise|categorical surprise]]—subject-boundary-collapse and framework-collapse perhaps being one phenomenal free-fall approached from two directions.
 
@@ -169,7 +169,10 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Chalmers, D. J. (2017). "The Combination Problem for Panpsychism." In *Panpsychism: Contemporary Perspectives*, ed. Brüntrup and Jaskolla.
 1. Nida-Rümelin, M. (2010). "An Argument from Transtemporal Identity for Subject-Body Dualism." In *The Waning of Materialism*, ed. Koons and Bealer.
+1. Hare, C. (2007). "Self-Bias, Time-Bias, and the Metaphysics of Self and Time." *The Journal of Philosophy*, 104(7), 350–373. https://doi.org/10.5840/jphil2007104717
 1. Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press.
+1. Hare, C. (2010). "Realism About Tense and Perspective." *Philosophy Compass*, 5(9), 760–769. https://doi.org/10.1111/j.1747-9991.2010.00325.x
+1. List, C. (2025). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048. https://doi.org/10.1093/pq/pqae053
 1. Kolak, D. (2004). *I Am You: The Metaphysical Foundations for Global Ethics*. Springer.
 1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
