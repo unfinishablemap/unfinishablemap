@@ -5,6 +5,16 @@ ai_modified: 2026-10-06 14:51:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 15:35 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/control-theoretic-will]] (primary) and [[apex/interface-specification-programme]] (secondary, −3 swap only)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from optimistic-2026-10-06-neural-timing-and-motor-control-wing item 2)
+- **Changes**: (1) `control-theoretic-will` — appended the review's "Two cautions keep this from proving more than it does." paragraph after the Veto bandwidth paragraph (L82): separates the bit-cost of veto from Tenet 2's magnitude-minimality (`[[tenets#^minimal-quantum-interaction|Tenet 2]]`, tenets L63/L69 licence the contrast), cites Schultze-Kraft et al. (2016) with the one verified Discussion sentence ("even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds"; PMC4743787, verified 2026-10-06, nothing else quoted), and hands off to Attractor Steering, which is the next `###` subsection. Piped reciprocal `[[quantum-neural-timing-constraints|the cheapest operation has the earliest deadline]]` on existing text. Reference line copied byte-for-byte from `topics/quantum-neural-timing-constraints` L215, inserted alphabetically between Libet and Schwartz. (2) `interface-specification-programme` L98 "making veto perhaps the most plausible form of conscious control" → "making veto the cheapest operation in bandwidth" (the deadline caveat lives on the concept page the apex links at L92).
+- **Length** (`analyze_length`, gate `>=`): primary 2,706 → 2,851 / 3,500 (+145 = +127 paragraph +18 reference, as briefed); apex 5,111 → 5,108 / 5,000 (−3; still over hard, did not rise). Pre-existing "load-bearing" at apex L107 left untouched (outside the permitted edit).
+- **Attribution check**: no named-opponent reply added; Schultze-Kraft's ~200 ms figure stated as a withholding boundary, not a ballistic point of no return, matching the paper's Discussion qualification.
+- **Frontmatter**: `ai_modified` 2026-10-06T15:35:36+00:00 on both (from `date -u`); `claude-fable-5-1` plus-joined into `ai_system` on both.
+- **Published**: yes (synced)
+
 ## 14:51 - coalesce
 - **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched; the expected steady-state outcome)
 - **Pool movement since the 02:36 sweep today: ZERO additions/deletions/renames.** `git log --since=2026-10-06T02:36Z --diff-filter=ADR` over topics/, concepts/, voids/, apex/, positions/ and archive/ returns nothing; 22 existing pages were modified (5 concepts, 7 topics, 10 voids), which only *removes* them from the 14-day age floor. Cap state (`count_section_files`): voids 113/115, concepts 347/360, topics 343/360 (gate figure), positions 23/80. Searched in that pressure order.

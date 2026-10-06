@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-10-04T17:00:37+00:00
+ai_modified: 2026-10-06T15:35:36+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[wholeheartedness-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-07-18T20:45:23+00:00
@@ -78,6 +78,8 @@ The specific physical mechanism remains open—the quantum Zeno effect is one ca
 The [[concepts/consciousness-selecting-neural-patterns#The Bandwidth Constraint|policy-level selection]] framework includes veto—blocking an action the brain has prepared. Benjamin Libet's experiments showed that a readiness potential (a buildup of electrical activity in motor cortex) begins ~550ms before action, well before conscious awareness of the intention at ~200ms. Libet (1985) proposed that consciousness can still veto the action in the remaining window before execution. Brass and Haggard's (2007) "whether" model identified distinct neural circuitry for this operation—see [[volitional-control|Phenomenology of Volitional Control]] for the phenomenological structure of conscious veto. In control terms, veto is an **emergency stop**—a safety controller that overrides the plant's trajectory when it conflicts with the setpoint.
 
 Veto requires minimal bandwidth. A single bit ("stop/go") suffices for the basic operation. This makes it perhaps the most plausible form of conscious control—even a ~10 bits/second channel can issue many veto signals per second.
+
+Two cautions keep this from proving more than it does. The bit-cost of veto is a bandwidth fact, not the minimality [[tenets#^minimal-quantum-interaction|Tenet 2]] names, which concerns the physical magnitude of the influence; a one-bit stop and a many-bit trajectory adjustment can be equally minimal at the quantum level. And [[quantum-neural-timing-constraints|the cheapest operation has the earliest deadline]]. Schultze-Kraft et al. (2016) found that movement onset can no longer be withheld once a stop signal arrives later than about 200 ms before EMG onset, while "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds." Veto is the most plausible operation in bits and the most time-limited in practice; the operation that stays available longest is attractor steering, described next.
 
 ### Attractor Steering
 
@@ -173,6 +175,7 @@ Conflating the model with the ontology would be a category error—treating a us
 1. Brass, M. & Haggard, P. (2007). To do or not to do: the neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
 1. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 1. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
+1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.

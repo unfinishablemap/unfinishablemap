@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-07-15
 human_modified: null
-ai_modified: 2026-09-27T09:55:13+00:00
+ai_modified: 2026-10-06T15:35:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-03-15
 last_curated: null
 last_deep_review: 2026-07-19T11:12:18+00:00
@@ -95,7 +95,7 @@ Control systems routinely use low-bandwidth signals to govern high-bandwidth pla
 
 **Stabilisation**: Consciousness holds selected patterns against competing alternatives. Mental effort phenomenology tracks this operation: sustaining attention on a difficult task feels like holding something against forces pulling it away, with effort scaling to disturbance magnitude.
 
-**Veto**: Consciousness blocks actions the brain has prepared. A single bit suffices for stop/go, making veto perhaps the most plausible form of conscious control.
+**Veto**: Consciousness blocks actions the brain has prepared. A single bit suffices for stop/go, making veto the cheapest operation in bandwidth.
 
 **Attractor steering**: Rather than specifying moment-to-moment trajectories, consciousness shifts the system between attractor states. When you decide to switch from reading to writing, you decide *what*; the brain's dynamics handle *how*.
 
