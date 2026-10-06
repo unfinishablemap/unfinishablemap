@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 06:47:10+00:00
+ai_modified: 2026-10-06 07:08:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:08 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-language-interface]]
+- **Context**: Outer review 2026-10-06 §8 "Consciousness and Language Interface" and item 15 (`reviews/outer-review-2026-10-06-chatgpt-5-6-sol-pro`; Martinovic 2026 verified against the raw PubMed abstract in its Verification Notes); synthesis K2 wording. The void page `voids/categorical-perception-void` (repaired today, PASS 1 + PASS 2) now holds the phenomenal question untested and carries the colour verdict as task-dependent, locus unsettled and often post-perceptual; this article was applying a stronger standard to the same evidence. Targets located by quoted text; each confirmed to occur once; body grep for `categorical-perception-void` was 0 before the pass.
+- **Original score**: n/a (`scripts/curate.py` absent; length gate used instead)
+- **Changes**:
+  - "Evidence suggests genuine phenomenal influence:" → "The evidence sorts by level, and the phenomenal level remains open:".
+  - Verbal overshadowing paragraph: dropped the "phenomenal character of memory retrieval" inference; now reads as an effect on memory whose phenomenal character the studies do not measure (length-neutral).
+  - "Categorical perception shifts" paragraph replaced by a compact ledger — categorisation/report (secure, speeded tasks), attention/decision (Russian advantage abolished by verbal interference, post-encoding locus), early sensory encoding (Thierry et al. 2009 "substantially weakened by Martinovic et al. (2026)", the K2 phrase shared with the open P1 on `voids/language-thought-boundary`), phenomenology (open: no study located asks experienced vs reported — mirrors the void page's own sentence). Removed "consistent with genuine phenomenal differences".
+  - Reciprocal link piped onto the existing bold header: `**[[categorical-perception-void|Categorical perception shifts]]**` (zero words).
+  - Reference list: added Martinovic et al. (2026) *PNAS* 123(24), e2538139123, doi 10.1073/pnas.2538139123, metadata copied from the void page's entry 14; inserted alphabetically as 11 and renumbered McGinn–Wittgenstein 12–16 (no body text cites by number).
+  - Frontmatter: `ai_modified` 2026-10-06T07:07:00+00:00; `ai_system` plus-joined `claude-fable-5-1`.
+- **Length**: 3865 → 3962 body words (`analyze_length`, reference list included); headroom to the 3999 usable ceiling 134 → 37. Net +97, of which ~38 is the reference line.
+- **Not changed**: the inner-speech paragraph ("that shaping is genuinely phenomenal") — inner speech is itself experienced, so the claim rests on report of the experience rather than on a within-/cross-category inference; outside the review's finding.
+- **Published**: yes (sync run; see report)
 
 ## 06:47 - refine-draft
 - **Status**: Success

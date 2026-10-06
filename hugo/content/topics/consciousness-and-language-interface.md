@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-09-10 08:47:24+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-06 07:07:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/consciousness-and-language-interface/
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:22:39+00:00
-lastmod: 2026-09-10 08:47:24+00:00
+lastmod: 2026-10-06 07:07:00+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -101,11 +101,11 @@ Although separable, language genuinely shapes phenomenal experience when the two
 
 The weak Sapir-Whorf hypothesis—that language influences habitual thought—has empirical support, though effect sizes are often modest and some findings have faced replication challenges. Russian speakers, who have distinct words for light blue (*goluboy*) and dark blue (*siniy*), show faster discrimination at the boundary between these colours than English speakers in some paradigms. Kuuk Thaayorre speakers of Australia, who use cardinal directions rather than left/right, maintain constant spatial orientation that English speakers lack.
 
-Does this influence extend to phenomenal consciousness, or merely to categorisation and attention? Evidence suggests genuine phenomenal influence:
+Does this influence extend to phenomenal consciousness, or only to categorisation and attention? The evidence sorts by level, and the phenomenal level remains open:
 
-**Verbal overshadowing.** Describing a face interferes with subsequent recognition—not merely with recall, but potentially with the phenomenal character of memory retrieval. The act of verbalising appears to transform the stored representation, making it more categorical and less richly detailed.
+**Verbal overshadowing.** Describing a face interferes with subsequent recognition: verbalising appears to make the stored representation more categorical and less richly detailed. That is an effect on memory; whether retrieval then *feels* different is not what these studies measure.
 
-**Categorical perception shifts.** Colour perception near linguistic boundaries differs from perception away from boundaries. Cross-linguistic studies suggest that speakers of different languages show measurably different perceptual responses at the boundaries their language marks, consistent with genuine phenomenal differences.
+**[Categorical perception shifts](/voids/categorical-perception-void/).** Colour effects at linguistic boundaries come apart by level. Categorisation and report: the speeded advantages above. Attention and decision: the Russian advantage disappears under verbal interference, which places it after encoding. Early sensory encoding: the pre-attentive ERP case (Thierry et al. 2009) has been substantially weakened by Martinovic et al. (2026), who re-ran the paradigm and found the early response driven by contrast adaptation, with no reliable signal for contrast-equated category changes. Phenomenology: open—no study located asks whether a within- or cross-category difference is experienced rather than reported.
 
 **Inner speech and experience.** [Inner speech](/concepts/introspection/)—the internal voice that accompanies reflection—is intermittent rather than a continuous soundtrack. [Descriptive experience sampling](/concepts/descriptive-experience-sampling/) of randomly cued moments finds it present in roughly a quarter of them, with wide variation between individuals (Heavey & Hurlburt 2008). Where it occurs it structures experience temporally and sequentially, and that shaping is genuinely phenomenal. Where it does not—the majority of sampled moments—thought often proceeds as *unsymbolized thinking*, explicit differentiated thought experienced without words or images (Hurlburt & Akhter 2008). Wordless thought is the ordinary case rather than a meditative achievement.
 
@@ -292,8 +292,9 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 8. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
 9. Lind, A. (2025). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
 10. Low, P. et al. (2012). "The Cambridge Declaration on Consciousness." Francis Crick Memorial Conference.
-11. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-12. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-13. Nedergaard, J.S.K. & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
-14. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
-15. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
+11. Martinovic, J., Delov, A. A., Tomastikova, J., Martin, J. T., Paramei, G. V., & Griber, Y. A. (2026). "Cognition does not automatically influence perception: Evidence from neural encoding of colors belonging to different categories." *PNAS*, 123(24), e2538139123. https://doi.org/10.1073/pnas.2538139123
+12. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+13. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+14. Nedergaard, J.S.K. & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
+15. Sacks, O. (1985). *The Man Who Mistook His Wife for a Hat*. Summit Books.
+16. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
