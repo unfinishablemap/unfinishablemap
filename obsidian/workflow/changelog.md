@@ -5,6 +5,16 @@ ai_modified: 2026-10-06 14:51:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 17:19 - refine-draft
+
+- **Status**: Success
+- **File**: [[project/architecture-vs-significance-two-tier-discount]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from the 2026-10-01 20:56Z cross-review carry-forward)
+- **Changes**: L67 mine-ness exhibit rebuilt. The opening clause no longer claims mine-ness varies "independently of phenomenal content and of the sense of agency"; it now claims independence from content plus persistence where felt agency is absent. Separability from content keeps both supports (DPD; thought insertion on the ownership-loss readings). The agency limb is rebuilt on a reading-independent case: Billon 2013 p. 296 (obsessional intrusions with "radical" passivity are "really theirs"; ordinary unbidden thoughts are owned with "no sense of agency") — grep-verified in the raw iFirst PDF (Wayback copy the research note names; 12,569 words; the sentence sits on iFirst p. 6 = print 296 by the note's +290 rule; control hit on the title). Gallagher's reply (2007, per the note's full-text read) is stated as locating the unbidden/inserted difference at a second-order level, not as denying the owned-without-agency profile. The page now says what the evidence no longer earns: the smaller discount covers separability from content and ONE-WAY separability from agency, not a double dissociation; the reverse direction (agency retained while mine-ness degrades) is read off depersonalisation elsewhere in the corpus and this page's architecture-tier claim does not rest on it. References: added Billon 2013, Guillot 2017, Martin & Pacherie 2013 (all three were cited inline at L67 since 2026-10-01 but absent from the list). `ai_system` plus-joined claude-fable-5-1.
+- **Brief error noted**: the brief said `research/thought-insertion-2026-10-01` does NOT record the p. 296 passage; it does (L81 and L180), already with the page number. The raw-source check was still run.
+- **Reported, not edited** (driver to mint a sibling task): "depersonalisation ... leaving agency intact" is live at `topics/consciousness-and-the-ownership-problem` L60, `concepts/self-and-self-consciousness` L86, `apex/self-construction-constructor` L86, each attributed to Gallagher. The active-inference reading in `research/depersonalisation-2026-09-30` L105/L213 (Ciaunica et al. 2022: DPD is explained via the hypothesis "I am an embodied perceiver, but I am not in control of my perception"; patients "may believe that 'another agent' is controlling their thoughts, perceptions or actions") makes DPD a disturbance of felt control as well as ownership, so "leaving agency intact" needs qualifying ("can leave the sense of initiation intact on the Gallagher-style reading, though active-inference accounts describe a disturbed sense of control") — and the double-dissociation framing those three loci carry loses its second limb with it.
+- **Published**: yes
+
 ## 17:04 - refine-draft
 
 - **Task**: Correct the thought-insertion research note's truncated Lane quote and Henriksen & Parnas 2019 DOI — applied inline by the driver

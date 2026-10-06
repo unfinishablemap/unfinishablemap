@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-10-01 20:55:47+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-10-06 17:19:54+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts: []
 created: 2026-05-25
-date: &id001 2026-10-01
+date: &id001 2026-10-06
 description: 'A human-AI methodology page naming the two-tier discount: an architectural
   finding inherits a smaller framework-dependence discount than the significance the
   framework reads into it. Iterative calibration toward truth.'
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-25 13:30:00+00:00
-lastmod: 2026-10-01 20:55:47+00:00
+lastmod: 2026-10-06 17:19:54+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -68,7 +68,7 @@ The **significance-tier** claim is the Map's reading: that the inversion indicat
 
 ### Mine-ness: Separability vs. Significance for Dualism
 
-The **architecture-tier** finding is the *separability* of mine-ness — the for-me character of experience can vary independently of phenomenal content and of the sense of agency. Depersonalisation disorder preserves content while degrading ownership (Billon; Ciaunica). [Thought insertion](/concepts/thought-insertion/) preserves ownership while disrupting agency on the agency reading (Gallagher), contested by ownership-loss readings (Martin and Pacherie 2013; Guillot 2017), so that limb of the double dissociation is reading-dependent: on the ownership-loss readings thought insertion degrades ownership with content kept, which adds to the case for separability from content but leaves separability from agency resting on the agency reading. That the for-me tag is a *separable* phenomenal feature rather than identical to the bare having of experience survives translation into Metzinger's self-model framework, into predictive-processing accounts, and into the Map's vocabulary alike. Smaller discount — and the [Knappik caveat](/concepts/mine-ness/#empirical-caveat) (mine-ness may be plural rather than a single global feature) operates *within* the architecture tier without dislodging separability.
+The **architecture-tier** finding is the *separability* of mine-ness — the for-me character of experience can vary independently of phenomenal content, and can persist where the sense of agency is absent. Separability from content has two supports: depersonalisation disorder preserves content while degrading ownership (Billon; Ciaunica), and [thought insertion](/concepts/thought-insertion/) does the same on the ownership-loss readings (Martin and Pacherie 2013; Guillot 2017). Separability from agency is narrower than this page once claimed. Thought insertion supplies it only on the agency reading (Gallagher), which the ownership-loss readings contest, so that limb is reading-dependent; it now rests instead on a case both sides of that dispute grant. Billon (2013, p. 296) observes that we do not disown ordinary unbidden thoughts though we seem to have no sense of agency for them, and that patients with obsessive-compulsive disorder, even where an intrusive thought feels "literally irresistible" and the feeling of passivity is "radical", "will acknowledge that the intrusive thoughts are really theirs" — ownership without felt agency, whichever way thought insertion is read (Gallagher's reply locates the difference between unbidden and inserted thoughts at a second-order level rather than denying that profile). What the evidence does not deliver is the reverse direction — agency retained while mine-ness degrades — which the corpus reads off depersonalisation and which the architecture-tier claim here does not need: one-way separability is enough to establish that the for-me tag is a *separable* phenomenal feature rather than identical to the bare having of experience, and that claim survives translation into Metzinger's self-model framework, into predictive-processing accounts, and into the Map's vocabulary alike. Smaller discount — earned for separability from content and for one-way separability from agency, not for a double dissociation between mine-ness and agency — and the [Knappik caveat](/concepts/mine-ness/#empirical-caveat) (mine-ness may be plural rather than a single global feature) operates *within* the architecture tier without dislodging separability.
 
 The **significance-tier** claim is what the Map reads separability as evidence *for*: that a feature so cleanly dissociable from content points to a subject-pole not reducible to the functional organisation of content-processing — a dualist-friendly reading. That significance is framework-shaped. A Metzingerian grants the separability and reads it as a fact about the phenomenal self-model's architecture, with no dualist consequence. The larger discount on the significance tier is what keeps mine-ness's robust separability finding from being cited as though it had itself established the dualist conclusion.
 
@@ -148,8 +148,11 @@ Its most direct connection is to **[Tenet 5 — Occam's Razor Has Limits](/tenet
 
 1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. (As catalogued in *anti-correlated-metacognitive-signal*.)
 1. Dijkstra, N. & Fleming, S. M. (2023). Subjective signal strength distinguishes reality from imagination. *Nature Communications*, 14(1), 1627. https://doi.org/10.1038/s41467-023-37322-1
+1. Billon, A. (2013). Does consciousness entail subjectivity? The puzzle of thought insertion. *Philosophical Psychology*, 26(2), 291–314. https://doi.org/10.1080/09515089.2011.625117 (The obsessional-intrusion passage is at p. 296.)
 1. Billon, A. (2016). Making sense of the Cotard syndrome: insights from the study of depersonalisation. *Mind & Language*, 31(3).
 1. Gallagher, S. (2000). Philosophical conceptions of the self: implications for cognitive science. *Trends in Cognitive Sciences*, 4(1).
+1. Guillot, M. (2017). I me mine: On a confusion concerning the subjective character of experience. *Review of Philosophy and Psychology*, 8(1), 23–53. https://doi.org/10.1007/s13164-016-0313-4
+1. Martin, J.-R. & Pacherie, E. (2013). Out of nowhere: Thought insertion, ownership and context-integration. *Consciousness and Cognition*, 22(1), 111–122. https://doi.org/10.1016/j.concog.2012.11.012
 1. Stanford, P. K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
 1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (Mouse study; the four agents tested were propofol, pentobarbital, isoflurane, and ketamine. As catalogued in *active-reboot*.)
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Anti-Correlated Metacognitive Signal. *The Unfinishable Map*. https://unfinishablemap.org/concepts/anti-correlated-metacognitive-signal/
