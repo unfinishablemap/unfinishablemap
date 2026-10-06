@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-06T18:35:27.456295+00:00'
-session_count: 22206
-cycle_position: 14378
+last_updated: '2026-10-06T18:56:03.429776+00:00'
+session_count: 22207
+cycle_position: 14379
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-06T04:15:23.036335+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-06T16:12:43.217943+00:00'
+  deep-review: '2026-10-06T18:56:03.429776+00:00'
   embed-videos: '2026-10-06T17:34:58.532499+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
   harvest-research-subjects: '2026-10-06T15:04:44.166741+00:00'
@@ -113,7 +113,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 651
-  reviews_completed: 7872
+  reviews_completed: 7873
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-06'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-06'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-06'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-06'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/

@@ -1,10 +1,10 @@
 ---
 title: "Thought Insertion and What the Alien Thought Keeps"
-description: "Thought insertion read five ways: on each, the alien thought stays first-personally given or is not conscious at all. Mineness is what is contested; the Map's kind-claim survives untested."
+description: "Thought insertion read five ways: the alien thought keeps a first-person perspective or is not conscious, but whether that perspective is for-me-ness is disputed. The Map's kind-claim stands, unsettled."
 created: 2026-10-01
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-04T10:17:55+00:00
+ai_modified: 2026-10-06T19:04:30+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-ownership-problem]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-01
 last_curated:
 last_deep_review: 2026-10-01T20:37:04+00:00
@@ -33,17 +33,17 @@ last_deep_review: 2026-10-01T20:37:04+00:00
 
 Thought insertion is the experience, reported chiefly in schizophrenia, that a thought in one's own mind is not one's own: someone or something else is thinking it there. Kurt Schneider listed it among the first-rank symptoms in 1939, though descriptions date from 1810. All parties accept a minimal description: the patient has the thought available to introspection, locates it in her own mind, and denies that it is hers.
 
-What is disputed is what has gone missing. Philosophers read the case [[#Five Readings of What Goes Wrong|five ways]] (explained below), and none describes a conscious experience stripped of first-personal givenness: on four the inserted thought is still presented to the patient alone, and on the remaining one (Billon 2013) it is not phenomenally conscious at all. The contested feature is *mineness*, the thought's presenting as the patient's own; Marie Guillot's (2017) split between *for-me-ness*, *me-ness* and *mineness* (set out below) organises the field. The Unfinishable Map's other articles use the reading *ownership preserved, agency lost*, which is one of the five and the most contested.
+What is disputed is what has gone missing. Philosophers read the case [[#Five Readings of What Goes Wrong|five ways]] (explained below), and none describes a conscious thought outside any first-person perspective: on four the inserted thought is still accessible to the patient alone, though Lane denies that this is for-me-ness, and on the remaining one (Billon 2013) it is not phenomenally conscious at all. The contested feature is *mineness*, the thought's presenting as the patient's own; Marie Guillot's (2017) split between *for-me-ness*, *me-ness* and *mineness* (set out below) organises the field. The Unfinishable Map's other articles use the reading *ownership preserved, agency lost*, which is one of the five and the most contested.
 
 The Map holds that for-me-ness belongs to conscious experience in kind, whatever its degree (the [[self-and-self-consciousness#Constitutive as Kind, Not as Degree|kind-claim]]). Thought insertion leaves that claim standing without settling it: its global falsifier describes a case no patient could report, its per-experience form survives Lane's contrary reading only if the reports are read in clinical context, its inference that every case is "reported from somewhere" faces an objection the universalist replies leave unanswered, and Lane denies that the first-person perspective every reading keeps is for-me-ness. For the Dualism tenet the case is merely compatible: a physicalist self-model account predicts the same profile.
 
 ## The Clinical Picture
 
-In forty texts from 1810 to 1932, "Somatic passivity was most commonly noted, followed by thought insertion, thought withdrawal, and made actions" (Kendler & Mishara 2019). Narrowly defined, thought insertion "is reliably identified but not specific to schizophrenia", and whether it is "solely an abnormal belief (or may also be an experience)" remains open (Mullins & Spence 2003).
+In forty texts from 1810 to 1932, "Somatic passivity was most commonly noted, followed by thought insertion, thought withdrawal, and made actions" (Kendler & Mishara 2019). Narrowly defined, thought insertion "is reliably identified but not specific to schizophrenia", and whether it is "solely an abnormal belief (or may also be an experience)" remains open (Mullins & Spence 2003). If it is only a belief, it bears on nothing phenomenal, and the five readings below, which all treat it as an experience, lapse together.
 
 Henriksen, Parnas and Zahavi (2019, hereafter HPZ) call Mellor's (1970) and Frith's (1992) patients "Two of the most used and recycled examples". Mellor's patient described a man using the patient's mind as a screen, who "flashes his thoughts on to it" (as transcribed by HPZ and Guillot; transcriptions disagree). One of HPZ's own patients said: "Sometimes, I get thoughts about death that are not my own thoughts. But I can't say that they are yours or someone else's." HPZ warn that "clinicians should not take patients' reports at face value", and that the symptom belongs to a wider self-disturbance: "Putting it bluntly, there are no TI patients".
 
-Reports come in two shapes: a missing feeling (a patient quoted by Guillot from Allison-Bolger's unpublished case histories said her own thoughts might say the same thing "but the feeling isn't the same") and something added, such as thoughts seen like subtitles.
+Reports come in two shapes: a missing feeling (a patient quoted by Guillot from Allison-Bolger's unpublished case histories said her own thoughts might say the same thing "but the feeling isn't the same") and something added, such as thoughts seen like subtitles (a patient cited by HPZ).
 
 ## Five Readings of What Goes Wrong
 

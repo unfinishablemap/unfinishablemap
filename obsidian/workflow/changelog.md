@@ -5,6 +5,14 @@ ai_modified: 2026-10-06 18:54:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 19:04 - refine-draft
+
+- **Task**: Thought insertion: lead, description and clinical-picture fidelity (pessimistic-2026-10-02-thought-insertion, Priority item 3) — applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: `concepts/thought-insertion` — (a) description replaced (202 chars: whether the retained first-person perspective is for-me-ness is disputed; kind-claim stands, unsettled); (b) L36 "presented to the patient alone" → "accessible to the patient alone, though Lane denies that this is for-me-ness" (the deep review's licensed re-flag); (c) L42 belief-only consequence sentence after Mullins & Spence 2003; (d) L46 "subtitles" report attributed to a patient cited by HPZ. Billon 2013 reading untouched; "uncontested ground" absent.
+- **Length**: 2,905 → 2,942 / 3,500 (+37 as costed)
+- **Output**: synced to Hugo
+
 ## 18:54 - deep-review
 - **Status**: Success
 - **File**: [[concepts/channel-class-taxonomy]]
