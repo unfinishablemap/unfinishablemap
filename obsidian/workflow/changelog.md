@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 04:35:00+00:00
+ai_modified: 2026-10-06 05:04:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:04 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Research area**: invertebrate
+- **Selection**: three unaudited matches on the `active_research_sections` patterns. `basal-and-bioelectric-cognition` (oldest, 2026-09-21) skipped — owned by two open tasks (P3 Oviedo cite; P2 NEEDS-HUMAN length decision) and 7 words from its hard ceiling. Of the remaining two, this article (ai_modified 2026-09-24) is older than `predictive-processing-and-dualism` (2026-09-30); both score 0 on `find_superlative_claims`, so no tie-break was needed. Not in the driver's 48 h exclusion list.
+- **Median citation year**: 2022.5 (3.5 years behind ai_modified 2026; threshold 5). Ten scholarly citations counted — Barron & Klein 2016, Schukraft 2020, Leung 2021, Chittka 2022, Grover 2022, Wendler 2023, Birch 2024, NY Declaration 2024, Chittka et al. 2025, Sebo 2025 — after excluding the Map self-cite and Singer 1993 (canonical).
+- **Forthcoming / in press / preprint lens**: 0 hits.
+- **Recent papers found**: 2 peer-reviewed in-window (Chittka et al. 2025 *Phil Trans B* 380(1939) — already cited as ref 4; Bava, Formato, Liguori & Castagna 2025, "Honeybee Sentience: Scientific Evidence and Implications for EU Animal Welfare Policy", *Veterinary Sciences* 12(7):661, doi 10.3390/vetsci12070661 — not cited). Remainder of the search return was news (Nature 2024 feature, Quanta), forum/grey literature (EA Forum, Rethink Priorities 2019–20, already represented by Schukraft 2020) or off-topic (arXiv artificial-consciousness agnosticism).
+- **Missing topically-appropriate**: 1 (Bava et al. 2025 — the EU-policy argument that honeybees' protected-cephalopod-comparable capacities are excluded from welfare law sits squarely in this article's sentience-evidence → obligation frame, and would slot into the Crustaceans/UK Sentience Act legal-protection paragraph). Below the `missing_citation_threshold` of 2.
+- **Empirical-record currency**: no `find_superlative_claims` hits. One unflagged claim worth a future deep-review eye, NOT verified this run and not tasked: the Crustaceans section's "making crustaceans the first invertebrates to receive legal protection on consciousness grounds in a major jurisdiction" (UK 2022) — New Zealand's Animal Welfare Act 1999 already listed crab, lobster, crayfish, octopus and squid as animals, and Norway's 2009 Act covers decapods; whether "major jurisdiction" rescues the claim is a judgement call. The hermit-crab shell-quality trade-off (Elwood & Appel 2009) is also stated without a reference.
+- **Outcome**: no-drift
+- **Task generated**: none
+- **Counters**: total 13, flagged 8, clean 5 (flag rate 62%, inside the 20–80% falsification window)
 
 ## 04:35 - collect-claude-review + outer-review
 - **Status**: Success
