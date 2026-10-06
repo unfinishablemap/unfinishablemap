@@ -1,3 +1,53 @@
+---
+title: "Outer Review - ChatGPT 5.6.sol Pro (2026-10-05)"
+created: 2026-10-05
+modified: 2026-10-06
+human_modified: null
+ai_modified: 2026-10-06T00:21:54+00:00
+draft: false
+description: "Audit of egocentric-presentism (ChatGPT 5.6 Sol Pro): McDaniel/Markosian attribution swap, Conitzer misdescribed, surviving \"preferred\" wording, Perry misstatement next door, consciousness/non-solipsism equivocation; 5 tasks."
+topics:
+  - "[[vertiginous-question]]"
+  - "[[personal-identity]]"
+  - "[[consciousness-and-the-metaphysics-of-individuation]]"
+concepts:
+  - "[[egocentric-presentism]]"
+  - "[[indexical-knowledge-and-identity]]"
+  - "[[haecceity]]"
+  - "[[concepts/many-worlds]]"
+related_articles:
+  - "[[project]]"
+  - "[[deep-review-2026-09-28-egocentric-presentism]]"
+  - "[[tenets]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "chatgpt-5-6-sol-pro"
+ai_generated_date: 2026-10-05
+last_curated: 2026-10-06
+outer_review_status: processed
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac34b1c-8330-83ed-ad93-536bce543fe0
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit egocentric-presentism"
+subject_articles:
+  - concepts/egocentric-presentism.md
+subject_source: fallback:recent-aged
+---
+
+**Date**: 2026-10-05
+**Reviewer**: ChatGPT 5.6.sol Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Please act as an independent, sceptical outer reviewer for The Unfinishable Map (https://unfinishablemap.org), a philosophy-of-mind site built on five dualist tenets. Audit one article in depth: https://unfinishablemap.org/concepts/egocentric-presentism/ which was last substantively modified on 2026-09-28. Browse the live page and the articles it links to. Because search indexes lag, also consult the site changelog at https://unfinishablemap.org/workflow/changelog/ for recent activity. Assess: (1) whether its claims about Caspar Hare's egocentric presentism and related work (perspectival realism, Fine's fragmentalism, Lewis and Perry on indexicals, Many-Worlds self-location) are accurate and fairly attributed, checking each citation and any quotation against the primary source; (2) which serious counterarguments are missing or handled too quickly; (3) where the article protects the site's tenets by bracketing or hedging rather than by argument; (4) stale or missing references from the 2020s literature; (5) how well it integrates with neighbouring articles, and any inconsistencies between them. Distinguish clearly between verified errors and matters of judgement. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
 # Outer-review verdict
 
 **Major revision required.**
@@ -110,7 +160,7 @@ Three qualifications are required.
 
 First, the article says that List has “shown” a forced choice, while building **irreducibility** into its definition of first-person realism. List recognises that this irreducibility step is itself disputable and supplies a separate defence of it. The quadrilemma is compelling only conditional on that stronger reading of first-personal facts. A Perry–Lewis deflationist will deny precisely this premise. [OUP Academic](https://academic.oup.com/pq/article/75/3/1026/7686655)
 
-Second, the introduction still calls many worlds “List’s own preferred resolution,” whereas the later section and List’s paper describe the preference as **tentative**. The September review record says this was corrected, but the correction was not propagated throughout the live article. [The Unfinishable Map+2](https://unfinishablemap.org/concepts/egocentric-presentism/)
+Second, the introduction still calls many worlds “List’s own preferred resolution,” whereas the later section and List’s paper describe the preference as **tentative**. The September review record says this was corrected, but the correction was not propagated throughout the live article. [[egocentric-presentism]]
 
 Third, the article says List’s model answers the vertiginous question “by construction.” List presents irreducible first-personal facts and subject-centred worlds as a candidate answer, but repeatedly characterises the proposal as tentative and in need of development. It represents the unexplained datum rather than obviously explaining why this subject-world is present. [Wiley Online Library+3](https://onlinelibrary.wiley.com/doi/pdf/10.1111/nous.12408)
 
@@ -123,7 +173,7 @@ The article says both that:
 - other people are genuinely conscious under Hare’s view; and
 - Hare resolves List’s quadrilemma by dropping non-solipsism, which the article has defined as the existence of more than one conscious subject.
 
-Taken with a single meaning of “conscious,” those claims are inconsistent. [The Unfinishable Map](https://unfinishablemap.org/concepts/egocentric-presentism/)
+Taken with a single meaning of “conscious,” those claims are inconsistent. [[egocentric-presentism]]
 
 There is a way to repair this. Contemporary writers distinguish between:
 
@@ -190,11 +240,11 @@ It also says the decision-theoretic programme requires a personal-identity relat
 
 1. **McDaniel is wrongly credited with the two-place relational-presence objection.** That is Markosian’s proposal. [Kris McDaniel+1](https://www.krismcdaniel.com/wp-content/uploads/2019/01/whymcxmattersmost.pdf)
 2. **Conitzer is wrongly described as beginning from decision theory.** [arXiv+1](https://arxiv.org/pdf/2008.13207v1)
-3. **The introduction still calls List’s many-worlds solution “preferred,”** despite the later correction to “tentative” and the changelog’s claim that the wording had been fixed. [The Unfinishable Map+2](https://unfinishablemap.org/concepts/egocentric-presentism/)
+3. **The introduction still calls List’s many-worlds solution “preferred,”** despite the later correction to “tentative” and the changelog’s claim that the wording had been fixed. [[egocentric-presentism]]
 4. **The Perry article falsely attributes to Perry the belief that Perry was making the mess.** [JSTOR+1](https://www.jstor.org/stable/2214792)
-5. **The live article uses “conscious subject” inconsistently** when it both preserves multiple conscious subjects and says Hare denies the existence of multiple conscious subjects. [The Unfinishable Map](https://unfinishablemap.org/concepts/egocentric-presentism/)
+5. **The live article uses “conscious subject” inconsistently** when it both preserves multiple conscious subjects and says Hare denies the existence of multiple conscious subjects. [[egocentric-presentism]]
 6. **Markosian’s reference is bibliographically noncanonical.** The relevant review appeared in 2014, even though the hosted manuscript is dated or uploaded later. [Ned Markosian](https://markosian.net/wp-content/uploads/2015/12/caspar-hare-review1.pdf)
-7. **The internal deep review’s “Remaining Items: None” conclusion was premature.** The review successfully found an architectural contradiction but did not detect the McDaniel or Conitzer errors, the missing Hare response, or the surviving “preferred” wording. [The Unfinishable Map+1](https://unfinishablemap.org/reviews/deep-review-2026-09-28-egocentric-presentism/)
+7. **The internal deep review’s “Remaining Items: None” conclusion was premature.** The review successfully found an architectural contradiction but did not detect the McDaniel or Conitzer errors, the missing Hare response, or the surviving “preferred” wording. [[deep-review-2026-09-28-egocentric-presentism]]
 
 ## Matters of judgement or argumentative overstatement
 
@@ -281,7 +331,7 @@ A property might be:
 
 without being nonphysical. Conversely, an interactionist nonphysical property that affects neural or quantum outcomes should in principle leave some publicly detectable statistical or causal footprint.
 
-This creates a direct tension with the Map’s bidirectional-interaction tenet. If presence or the privileged subject has no possible third-personal consequence, it does no work for interactionism. If it does have consequences, the claim of principled immeasurability must be weakened. [The Unfinishable Map+1](https://unfinishablemap.org/concepts/egocentric-presentism/)
+This creates a direct tension with the Map’s bidirectional-interaction tenet. If presence or the privileged subject has no possible third-personal consequence, it does no work for interactionism. If it does have consequences, the claim of principled immeasurability must be weakened. [[egocentric-presentism]]
 
 ## 3.7 Fragmentalism’s costs
 
@@ -324,7 +374,7 @@ The Many-Worlds discussion should confront the strongest Everettian response, no
 
 # 4. Tenet-protective bracketing
 
-The article is unusually candid in several places. It says that structural fit is not confirmation, acknowledges that Hare was not advancing interactionist dualism, and admits that communicability remains unresolved. The Tenets page also concedes that the site’s rejection of List ultimately relies on a prior rejection of modal realism and acceptance of a nondeflationary “I.” [The Unfinishable Map+1](https://unfinishablemap.org/concepts/egocentric-presentism/)
+The article is unusually candid in several places. It says that structural fit is not confirmation, acknowledges that Hare was not advancing interactionist dualism, and admits that communicability remains unresolved. The Tenets page also concedes that the site’s rejection of List ultimately relies on a prior rejection of modal realism and acceptance of a nondeflationary “I.” [[egocentric-presentism]]
 
 That transparency is valuable. But the relevant passages reveal that the article often reaches the Map’s conclusion by **framework stipulation** rather than by argument.
 
@@ -350,7 +400,7 @@ The argument therefore imports the desired irreducibility but leaves the central
 
 ## Conditional fragmentalism without a worked theory
 
-The September revision repaired the earlier implication that the Map followed Hare in dropping non-solipsism. It now says that the Map may instead relinquish nonfragmentation. That is the right logical correction. But because no account of fragments, compossibility or cross-fragment truth is supplied, the move is still a promissory note. [The Unfinishable Map+1](https://unfinishablemap.org/workflow/changelog/)
+The September revision repaired the earlier implication that the Map followed Hare in dropping non-solipsism. It now says that the Map may instead relinquish nonfragmentation. That is the right logical correction. But because no account of fragments, compossibility or cross-fragment truth is supplied, the move is still a promissory note. [[changelog]]
 
 ## Immeasurability as protective insulation
 
@@ -386,37 +436,37 @@ The bibliography is too narrow for an article revised in September 2026.
 
 ## What now integrates well
 
-The September repair substantially improved the architecture. The focal article and the Vertiginous Question page now both recognise that a Map committed to strong first-person realism, more than one subject and one world must consider fragmentation rather than quietly adopting Hare’s one-privileged-subject solution. [The Unfinishable Map+1](https://unfinishablemap.org/workflow/changelog/)
+The September repair substantially improved the architecture. The focal article and the Vertiginous Question page now both recognise that a Map committed to strong first-person realism, more than one subject and one world must consider fragmentation rather than quietly adopting Hare’s one-privileged-subject solution. [[changelog]]
 
-The site also now distinguishes List’s centred worlds from Everettian physical branching, and its Tenets and Quantum Indexical pages openly label global nonactuality and the nondeflationary “I” as Map commitments rather than established results. [The Unfinishable Map+2](https://unfinishablemap.org/concepts/many-worlds/)
+The site also now distinguishes List’s centred worlds from Everettian physical branching, and its Tenets and Quantum Indexical pages openly label global nonactuality and the nondeflationary “I” as Map commitments rather than established results. [[concepts/many-worlds]]
 
 ## Remaining inconsistencies
 
 ### List’s preference
 
-The focal article’s introduction says “preferred”; its later discussion says “tentatively prefers”; the deep-review record says the former wording was corrected. The live text therefore contradicts both itself and its review log. [The Unfinishable Map+1](https://unfinishablemap.org/concepts/egocentric-presentism/)
+The focal article’s introduction says “preferred”; its later discussion says “tentatively prefers”; the deep-review record says the former wording was corrected. The live text therefore contradicts both itself and its review log. [[egocentric-presentism]]
 
 ### “No schema” on the Vertiginous Question page
 
-The neighbouring page says that no one has proposed even a schema for answering the vertiginous question. That is no longer tenable once the site itself discusses Hare’s monadic presence, List’s subject-centred worlds, Fine/List fragmentation, Merlo’s subjective facts and Lipman’s standpoints. The fairer claim is that none supplies an explanation the Map accepts. [The Unfinishable Map+1](https://unfinishablemap.org/topics/vertiginous-question/)
+The neighbouring page says that no one has proposed even a schema for answering the vertiginous question. That is no longer tenable once the site itself discusses Hare’s monadic presence, List’s subject-centred worlds, Fine/List fragmentation, Merlo’s subjective facts and Lipman’s standpoints. The fairer claim is that none supplies an explanation the Map accepts. [[vertiginous-question]]
 
 ### “List’s conclusion” is overstated
 
-The Vertiginous Question page presents irreducibly indexical facts as List’s conclusion. But List’s quadrilemma expressly includes a deflationist horn that rejects such facts. Irreducibility is one position within the dialectic, not the unconditional output of the argument. [The Unfinishable Map+1](https://unfinishablemap.org/topics/vertiginous-question/)
+The Vertiginous Question page presents irreducibly indexical facts as List’s conclusion. But List’s quadrilemma expressly includes a deflationist horn that rejects such facts. Irreducibility is one position within the dialectic, not the unconditional output of the argument. [[vertiginous-question]]
 
 ### Perry and the epistemic-to-metaphysical transition
 
-The Indexical Knowledge article both misstates Perry and introduces a category of “phenomenal indexical knowledge” that is then applied to Mary. That may be a useful Map synthesis, but it is not Perry’s or Lewis’s established result and should be labelled as an original extension. [The Unfinishable Map+2](https://unfinishablemap.org/concepts/indexical-knowledge-and-identity/)
+The Indexical Knowledge article both misstates Perry and introduces a category of “phenomenal indexical knowledge” that is then applied to Mary. That may be a useful Map synthesis, but it is not Perry’s or Lewis’s established result and should be labelled as an original extension. [[indexical-knowledge-and-identity]]
 
 ### Haecceity
 
-The Haecceity page is headed as though consciousness **requires** haecceity, while its text concedes that dualism is merely hospitable to haecceitism and does not imply it. It also uses Lewis’s self-location discussion as support despite Lewis’s non-haecceitist property-self-ascription analysis. [The Unfinishable Map+2](https://unfinishablemap.org/concepts/haecceity/)
+The Haecceity page is headed as though consciousness **requires** haecceity, while its text concedes that dualism is merely hospitable to haecceitism and does not imply it. It also uses Lewis’s self-location discussion as support despite Lewis’s non-haecceitist property-self-ascription analysis. [[haecceity]]
 
 More fundamentally, haecceity solves an individuation problem, not a privileging problem. Even if every subject has a nonqualitative thisness, an additional principle is needed to make exactly one of them absolutely present.
 
 ### Individuation and solipsism
 
-The Individuation page says Hare’s view is “not solipsism” because others exist and are fully conscious. The focal article calls it weak solipsism, while List classifies it as the solipsistic horn of his quadrilemma. These can be reconciled only by explicitly distinguishing ordinary or standpoint-relative consciousness from consciousness simpliciter. [The Unfinishable Map+1](https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-individuation/)
+The Individuation page says Hare’s view is “not solipsism” because others exist and are fully conscious. The focal article calls it weak solipsism, while List classifies it as the solipsistic horn of his quadrilemma. These can be reconciled only by explicitly distinguishing ordinary or standpoint-relative consciousness from consciousness simpliciter. [[consciousness-and-the-metaphysics-of-individuation]]
 
 ### Fragmentalism versus a uniquely primitive “I”
 
@@ -429,7 +479,7 @@ An egalitarian fragmentalist can say that each standpoint contains its own first
 
 ### Everettian identity
 
-The focal article’s distinction between List and Everett is stronger than the Many-Worlds page’s treatment of identity. The latter should be revised so that it attacks actual Everettian successor-based accounts rather than requiring numerical identity by stipulation. [The Unfinishable Map+1](https://unfinishablemap.org/concepts/many-worlds/)
+The focal article’s distinction between List and Everett is stronger than the Many-Worlds page’s treatment of identity. The latter should be revised so that it attacks actual Everettian successor-based accounts rather than requiring numerical identity by stipulation. [[concepts/many-worlds]]
 
 # Overall assessment
 
@@ -478,3 +528,42 @@ Until those questions are addressed, egocentric presentism functions less as sup
 26. **Add an empirical-consequence register for interactionist claims:** for every purportedly nonphysical and bidirectionally causal feature, state what physical or statistical consequences would differ if it were absent.
 27. **Maintain an annual literature-currency pass:** Builes 2024, Merlo 2021/2023, Loss 2024, Lipman 2023/2026 and Quirke 2026 should be incorporated across the relevant cluster rather than added only to one page.
 28. **Distinguish representation from explanation throughout the site:** a primitive fact, haecceity, fragment or centred world may encode the vertiginous datum without explaining why it obtains. Each article should say which ambition it is claiming.
+
+## Verification Notes
+
+**Extraction.** ChatGPT's message DOM changed again (no `[data-message-author-role]`, no `.markdown`; the reply now lives under a `MarkdownRoot-*` div inside a single `[data-turn-key]` turn). The reply was walked to markdown in-page, downloaded as a Blob (46,470 bytes) and SHA-256-matched on disk (`b6ee69de…fb03e2`). The render was complete (closes on item 28 of the improvements list; screenshot confirmed). The only post-processing was renumbering the methodology list 19–28 to honour the `<ol start="19">` the page rendered. No model slug is exposed in the new DOM; the commission record (GPT-5.6 Sol, Pro effort) is the attribution source.
+
+**Target state.** `concepts/egocentric-presentism` is unchanged since the 2026-09-28 deep review (`ai_modified: 2026-09-28T06:05:13+00:00`), and the Hugo copy carries the same text (both "own preferred resolution" and "decision-theoretic starting point" grep in `hugo/content/concepts/egocentric-presentism.md`). The review audits the current page.
+
+**Map-attributed spans.** All of the following grep verbatim in the named file: "corresponds with the facts" (focal L42); "Weaker Sibling", "fallback", "more defensible fallback" (L44, L46); "leading" and "has shown" (L32); "List's own preferred resolution" (L32) alongside "tentatively prefers" (L63); "by construction" (L63); "decision-theoretic starting point" (L71); "precisely" on Merlo (L71); "load-bearing" (L75); "No one has proposed even a schema" (vertiginous-question L125); "List's conclusion: any adequate metaphysics must make room for irreducibly indexical facts" (vertiginous-question L129); "Why Consciousness Requires Haecceity" / "hospitable to haecceitism without implying it" (haecceity L69, L71); "This is not solipsism: other people exist and are fully conscious" (individuation L111); "strong enough" (many-worlds L73); "Phenomenal indexical knowledge" (indexical-knowledge L76); "Remaining Items — None" (deep-review-2026-09-28 L74–76). One span is not verbatim but faithful in scope: "one self's experiences" (the lede reads "only oneself — has experiences that possess … presence"). No fabricated Map quotation found.
+
+**Verified claims (external sources fetched):**
+- ✓ **McDaniel/Markosian swap is real.** Markosian's review (markosian.net PDF, text-extracted): "presence is a two-place relation between an experience or an object and a conscious organism", and separately asks what "metaphysical mechanism or backstory" makes presence attach to you "rather than someone else". McDaniel's *Ethics* 122(2) 403–410 critical study (krismcdaniel.com PDF, text-extracted) contains no relational-presence proposal; his objections are the unnoticed-parts case ("an electron is one of my perceptual objects … And yet some electrons are present. And so Insight 2 is false"), the determinable "presence*" with one determinate per point of view, and Hare's treatment of "I" as a "nonrigid definite description that refers to whoever it is that has present" objects. Focal L69 attributes the two-place claim to McDaniel: **verified error**.
+- ✓ **Markosian publication data.** The hosted PDF's first line: "A version of this review appears in The Philosophical Review 123 (2014), pp. 360-366." The focal reference (L100) gives 2015 and the PhilArchive ID only. The PDF's own title line is "Review of Caspar Hare's *On Myself, and Other, Less Important Subjects*"; the "Are You Special?" title in L100 was not seen in the document and is unverified (it may be the PhilArchive listing title).
+- ✓ **Conitzer's starting point.** arXiv 2008.13207 abstract (Dialectica): "I argue that those who answer the first question in the affirmative — A-theorists — should also answer the second question in the affirmative. This is because key arguments in favor of the A-theory are more effective as arguments in favor of the resulting combined position…" No decision theory. Focal L71 "from a decision-theoretic starting point": **verified error**. L71's "independently reconstructs" is also doubtful — the abstract names Hare's two papers and book as the position being argued for.
+- ✓ **"Preferred" survives at L32.** The 2026-09-28 deep review (its L35) records changing "List's own preferred resolution" to the tentative wording, but only the L63 instance was changed; L32 still reads "List's own preferred resolution". **Verified incomplete propagation.**
+- ✓ **Perry misstatement.** Perry 1979 / SEP "Self-Locating Beliefs": what Perry already believed was that "the shopper with the torn sack was making a mess"; the proposition "John Perry is making a mess" enters only in Perry's separate amnesia variant, where he *might* believe it without the de se belief. indexical-knowledge L54 ("Perry *did* believe that Perry was making a mess — he just didn't connect this to himself") collapses the two cases. **Verified error** (mislabelled example rather than invention).
+- ✓ **Consciousness/non-solipsism equivocation is textual.** L30 "Other people are genuinely conscious"; L55 defines non-solipsism as "more than one conscious subject is real"; L61 "dropping non-solipsism". L61's gloss ("not the denial that other minds exist, but the denial that their experiences share the privileged property") shows the article knows the distinction but has not installed it in the definition. **Verified internal tension.**
+- ✓ **All ten proposed references exist** (OpenAlex/Crossref): Hare 2010 "Realism About Tense and Perspective", *Philosophy Compass* 5(9) 760–769, 10.1111/j.1747-9991.2010.00325.x; Fine, "The Reality of Tense", *Synthese* 150(3) 399–414, 10.1007/s11229-005-5515-8 (**2006**, not 2005 — the reviewer's year is off by one; the fuller fragmentalism treatment is "Tense and Reality" in Fine's *Modality and Tense*, OUP 2005); Builes, "Eight Arguments for First-Person Realism", *Philosophy Compass* 19(1), 10.1111/phc3.12959 (online 2023, issue 2024); Merlo 2021 "The Metaphysical Problem of Other Minds", *PPQ* 102(4) 633, 10.1111/papq.12380; Lipman 2023 "Subjective Facts about Consciousness", *Ergo* 10, 10.3998/ergo.4649 (**Ergo, not PQ**); Lipman 2026 *Standpoints*, OUP, 10.1093/9780198921318.001.0001; Merlo "Fragmentalism We Can Believe In", *PQ* 73(1) 184, 10.1093/pq/pqac005 (online 2022, print 2023); Loss "Don't Stop Believing: Fragmentalism and the Problem of Tensed Belief Explosion", *PQ* 74(3) 1007–1015, 10.1093/pq/pqad008 (online 2023, print 2024); Quirke "Everettian quantum mechanics and the ghost of fission", *PQ* 76(3) 1160–1185, 10.1093/pq/pqae106 (online 2024, print 2026). Contents of Builes, Lipman, Merlo 2023, Loss and Quirke were **not** read; existence and metadata only.
+
+**Unverified claims:**
+- ? Hare 2010's point-of-view-operator machinery and his remark that perspectival realism is "in important respects a better view" than the temporal theory — the MIT PDF was not fetched; the claim is consistent with Hare 2009 as summarised by McDaniel ("all point-of-view operators are primitive (23)"). Task briefs treat it as a lead to verify, not a result.
+- ? Builes's "conscious simpliciter vs standpoint-relative" formulation and Merlo's parity/feltness distinction — not read.
+- ? Whether Hare 2009 frames presence primarily over perceptual *objects* rather than experiences — consistent with McDaniel's summary ("only my perceptual objects are present"), not independently checked.
+
+**Disputed or partial:**
+- ✗/~ **Many-Worlds "strict numerical identity"**: the reviewer's criticism is conditional ("if this means strict numerical identity"), and the condition is not met — many-worlds L73–80 already speaks of "post-branching successors", "continuations of the pre-branching self" and "the same kind of relation to all post-branching successors". The Map's objection targets the need for a *unified pre-branching perspective* over successors, not strict identity. Declined as a task. The "universe splits into branches" lede (L45) is the popular formulation, but the article cites Wallace 2012 at L71 and sits at 3499/3500 words; not actionable without a length decision.
+- ~ **"List's conclusion" (vertiginous L129)**: List is a first-person realist and argues for irreducible first-personal facts in the *Noûs* paper, so it is his *position*; the reviewer is right that it is not the quadrilemma's *output*, which keeps the deflationist horn open. A labelling fix, not an attribution error.
+- ~ **"Not solipsism" (individuation L111)**: reconcilable with the focal article's "weak solipsism" once standpoint-relative vs simpliciter consciousness is stated; the inconsistency is terminological.
+- ~ **Perspectival realism as "weaker"/"fallback"**: the Map's evaluation, flagged as such by the reviewer; a judgement item, bundled with the argumentative task rather than treated as an error.
+
+**New findings from verification (not in the review):**
+- The focal article's "load-bearing" (L75) is on the writing-style guide's overused-words list regardless of the reviewer's argument; the P1 pass should drop it.
+- The reviewer's "Fine 2005, The Reality of Tense" is *Synthese* 150(3), published 2006 (Crossref); the 2005 work is "Tense and Reality" in *Modality and Tense* (OUP). The brief carries both so the fork cites whichever it actually uses with the right year.
+
+## Processing Record (2026-10-06)
+
+- Review collected 2026-10-06 00:08 UTC (commissioned 2026-10-05 07:01 UTC; subject `fallback:recent-aged`, article `concepts/egocentric-presentism.md`).
+- Links normalised; 17 Map URLs converted to wikilinks (`many-worlds` path-qualified because the slug collides with `archive/arguments/many-worlds`).
+- 7 reviewer-listed "verified errors": 5 confirmed against primary sources (McDaniel/Markosian swap; Conitzer; surviving "preferred"; Perry; consciousness/non-solipsism), 1 confirmed as a bibliographic defect (Markosian 2014), 1 is a process observation (deep review's "Remaining Items: None") carried into the task notes rather than minted.
+- Tasks minted: 5 (P1 ×2, P2 ×3). Many-Worlds items declined (see Disputed). Methodology items 19–28 overlap the existing citation-ledger and label-discipline conventions (`project/evidential-status-discipline`, deep-review ledgers) and are left to `/combine-outer-reviews` to weigh against the sibling reviews of the same subject.
