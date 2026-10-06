@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: `positions/moral-status` P-MS1 still cites Chalmers' Vulcan as "(forthcoming" — the Lee & Pautz volume shipped 2026-09-03
+- **Type**: positions-evolve
+- **File**: obsidian/positions/moral-status.md
+- **Status**: pending
+- **Source**: deep-review 2026-10-06 of topics/ethics-under-dualism
+- **Generated**: 2026-10-06
+- **Notes**: L55 "Chalmers' Vulcan (forthcoming; Shepherd 2024 takes it up)" → "(2026; …)". Verified: *The Importance of Being Conscious* (Lee & Pautz eds., OUP, ISBN 9780198872924) published 3 Sept 2026; Chalmers "Sentience and Moral Status" is ch. 1, pp. 25–40 (Google Books TOC, volume id v18EEgAAQBAJ). The three live articles carrying the cite (`topics/ethics-under-dualism`, `concepts/sentientism`, `concepts/consciousness-value-connection`) were corrected in the same pass; the register was left for this skill because it mandates a dated calibration-history note. Metadata-only — no band, dependency or shift-condition changes. `positions/moral-status-calibration-history.md` L40 also has "Kriegel (forthcoming)" → "(2026)" (same volume, ch. 3).
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md

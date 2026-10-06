@@ -2,9 +2,9 @@
 title: "The Consciousness-Value Connection"
 description: "The Map's foundational claim that consciousness is necessary for value: without experience, nothing can matter. Argued from a premise rivals dispute."
 created: 2026-02-02
-modified: 2026-09-06
+modified: 2026-10-06
 human_modified:
-ai_modified: 2026-09-06T02:59:45+00:00
+ai_modified: 2026-10-06T01:44:15+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -127,7 +127,7 @@ If consciousness grounds value, non-conscious systems have no intrinsic value an
 
 A superintelligent AI lacking phenomenal consciousness has no moral status, whatever its cognitive sophistication; an animal with modest cognition but genuine phenomenal experience has moral status no amount of information-processing can match.
 
-The question shifts from "Is it intelligent?" to "Is there something it is like to be it?" Chalmers' philosophical Vulcan (forthcoming) — conscious but wholly without affect, the case Shepherd (2024) takes up — clears that bar while having nothing that could go well or badly for it: the commitment holds, if at all, for valenced experience rather than experience as such.
+The question shifts from "Is it intelligent?" to "Is there something it is like to be it?" Chalmers' philosophical Vulcan (2026) — conscious but wholly without affect, the case Shepherd (2024) takes up — clears that bar while having nothing that could go well or badly for it: the commitment holds, if at all, for valenced experience rather than experience as such.
 
 The [[apex/moral-architecture-of-consciousness#Value Lives in Experience|moral architecture apex extends this connection with an indexical-token claim]]: *this* token experience matters, not just experiences-of-this-type. The distinction constrains how copies, uploads and replicas figure in moral accounting—on a type reading, qualitatively identical replicas would multiply value; on a token reading, no particular token's moral status is redundant with that of identical tokens elsewhere. This is the route by which the [[tenets#^no-many-worlds|No Many Worlds]] tenet enters value theory (see below).
 
@@ -216,4 +216,4 @@ Each entry is marked with the role it plays here. *Contrary authority* means the
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39. — Contrary authority.
 1. Kammerer, F. (2019). "The Normative Challenge for Illusionist Views of Consciousness." *Ergo*, 6. DOI: 10.3998/ergo.12405314.0006.032 — Contrary authority; the source of the normative challenge pressed here.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press. — Background.
-1. Chalmers, D. J. (forthcoming). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious*. Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf — The Vulcan case; argues that affective sentientism is false.
+1. Chalmers, D. J. (2026). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious* (pp. 25–40). Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf — The Vulcan case; argues that affective sentientism is false.

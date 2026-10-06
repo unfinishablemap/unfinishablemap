@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-20 15:01:00+00:00
+ai_modified: 2026-10-06 01:44:15+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[no-self-objection-to-phenomenal-value]]'
 - '[[illusionism]]'
 created: 2026-09-06
-date: &id001 2026-09-06
+date: &id001 2026-10-06
 description: Human-AI inquiry splitting global from local experience requirements
   on welfare, testing the Map's value premise against Lin, Lee and the experience
   machine.
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-06 16:01:55+00:00
-lastmod: 2026-09-20 15:01:00+00:00
+lastmod: 2026-10-06 01:44:15+00:00
 modified: *id001
 related_articles:
 - '[[positions/moral-status]]'
@@ -57,7 +57,7 @@ Lin's reply is that the datum does not need the requirement: a theory of goods o
 
 Lee says the question was malformed. "The phenomenal theory is logically independent of both experientialism and anti-experientialism" (2025): a theory of subjects does not stand or fall with a theory of goods, though van der Deijl, Lin, Bradford and Kriegel, on Lee's reading, all assume it does. His analogy: "only entities bound by a gravitational force have weight, weight is determined by mass, yet even entities that aren't bound by a gravitational force have mass" (2025).
 
-On the order of explanation the Map takes the one Kriegel calls natural — "it's very natural to derive one's view on who the wellbeing subjects are from one's view on what wellbeing consists in" (Kriegel forthcoming, quoted in Lee 2025) — because [P-MS1](/positions/moral-status/#p-ms1) is *derived* from [P-VS3](/positions/value-in-selection/#p-vs3). Lee reverses it: a good must "affect whatever property makes x a welfare subject", so the subject theory explains experientialism (2025). The reversal would immunise [P-MS1](/positions/moral-status/#p-ms1)'s necessity direction against Lin at a price: [P-MS1](/positions/moral-status/#p-ms1) would become a first-order welfare thesis no longer downstream of the value premise, and the register's "numbered last, logically first" ordering would have to record the change. That is a decision the positions register owes.
+On the order of explanation the Map takes the one Kriegel calls natural — "it's very natural to derive one's view on who the wellbeing subjects are from one's view on what wellbeing consists in" (Kriegel 2026, quoted in Lee 2025) — because [P-MS1](/positions/moral-status/#p-ms1) is *derived* from [P-VS3](/positions/value-in-selection/#p-vs3). Lee reverses it: a good must "affect whatever property makes x a welfare subject", so the subject theory explains experientialism (2025). The reversal would immunise [P-MS1](/positions/moral-status/#p-ms1)'s necessity direction against Lin at a price: [P-MS1](/positions/moral-status/#p-ms1) would become a first-order welfare thesis no longer downstream of the value premise, and the register's "numbered last, logically first" ordering would have to record the change. That is a decision the positions register owes.
 
 ## The Experience Machine {#experience-machine}
 
@@ -119,7 +119,7 @@ The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-
 5. Hawkins, J. (2015). "The Experience Machine and the Experience Requirement." *The Routledge Handbook of Philosophy of Well-Being*. Routledge.
 6. Kagan, S. (2019). *How to Count Animals, more or less*. Oxford University Press.
 7. Kraut, R. (2018). *The Quality of Life: Aristotle Revised*. Oxford University Press.
-8. Kriegel, U. (forthcoming). "The Value of Consciousness to the One Who Has It." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious*. Oxford University Press.
+8. Kriegel, U. (2026). "The Value of Consciousness to the One Who Has It." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious* (ch. 3, from p. 61). Oxford University Press.
 9. Lee, A. Y. (2025). "Consciousness Makes Things Matter." *Philosophers' Imprint*, 25. DOI: 10.3998/phimp.1956
 10. Lin, E. (2016). "How to Use the Experience Machine." *Utilitas*, 28(3), 314–332. DOI: 10.1017/S0953820815000424
 11. Lin, E. (2017). "Against Welfare Subjectivism." *Noûs*, 51(2), 354–377.

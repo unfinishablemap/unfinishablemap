@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-05 20:50:35+00:00
+ai_modified: 2026-10-06 01:44:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:44 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Word count**: 3757 → 3808 (+51 total; prose 3360 → 3359, length-neutral; apparatus +52 for three References entries and a page range)
+- **Critical issues addressed**: 2 — (1) Chalmers "Sentience and Moral Status" cited as *forthcoming* a month after Lee & Pautz (eds.), *The Importance of Being Conscious* shipped (OUP, 3 Sept 2026); Google Books search-within gives ch. 1 pp. 25–40, and p. 31 carries the verbatim "affective sentientism is false" the article paraphrases. Corrected here and propagated to `concepts/sentientism`, `concepts/consciousness-value-connection` (ref + inline) and the same volume's Kriegel chapter in `topics/the-experience-requirement-on-well-being` (ref + inline). (2) Frankfurt / Fischer & Ravizza / Wolf added 09-07 as bare name-drops — years added inline, Crossref-verified References entries added (Frankfurt 1971 *J. Phil.* 68(1): 5–20; Fischer & Ravizza 1998 CUP; Wolf 1990 OUP).
+- **Medium issues addressed**: 3 — Relation-section "illusionist challenge fails" vs body "not a refutation either way" (now "turned back at the framework boundary rather than refuted"); "autonomy concerns impossible for biological consciousness" overstated against the linked enhancement article; modal slip in simulation ethics. Paid for by trimming the third restatement of the AI-interface point after the table and the doubled "individual arguments / individual pillars" sentence.
+- **Enhancements made**: 0 (prose over the topics soft threshold for the first time — 2992 on 08-02, 3360 now — so no expansion)
+- **Engagement modes**: Chalmers Mode Three (bullet bitten, honestly); compatibilists Mixed; illusionism Mixed and now consistent across both passages. Chalmers attribution grep-verified in the 7,375-word preprint text.
+- **Cross-link check**: every anchor added since 08-02 resolves and its installed claim matches its target (P-MS1, cvc#Implications, covert-consciousness denominators, ai-consciousness L153 wording).
+- **Remaining**: `positions/moral-status.md` L55 still says "(forthcoming" — positions-evolve job (register needs a dated note); archived original still carries the 15–20% figure; Street gap human-deferred.
+- **Frontmatter**: ai_modified and last_deep_review 2026-10-06T01:44:15+00:00; ai_system already carried claude-fable-5-1. Sibling files bumped ai_modified.
+- **Output**: [[reviews/deep-review-2026-10-06-ethics-under-dualism]]
 
 ## 01:24 - refine-draft
 - **Status**: Success

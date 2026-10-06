@@ -2,10 +2,10 @@
 title: "Ethics Under Dualism"
 description: "If consciousness is irreducible and causally efficacious, it grounds moral status — the criterion is felt valence, not consciousness as such — and unifies value, agency, normativity and moral perception, which materialist ethics fragments."
 created: 2026-01-16
-modified: 2026-09-20
+modified: 2026-10-06
 human_modified: null
-ai_modified: 2026-10-01T23:25:58+00:00
-last_deep_review: 2026-08-02T00:25:58+00:00
+ai_modified: 2026-10-06T01:44:15+00:00
+last_deep_review: 2026-10-06T01:44:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ The Map extends this beyond hedonism to [[topics/phenomenal-value-realism#Beyond
 
 [[agent-causation|Agent causation]] provides what compatibilism cannot: the agent as an irreducible origin of choice. The [[topics/free-will|free will debate]] pivots on exactly this question. Under the Map's framework, consciousness may select among possibilities that quantum indeterminacy leaves open in neural processing — a speculative mechanism, but one that, if it obtains, preserves what matters ethically: the agent genuinely authors their choices. The ethical payoff survives even if this specific mechanism is wrong, provided some form of genuine origination is available — the quantum proposal is the Map's candidate, not a premise the ethics requires.
 
-If agent causation holds, [[moral-responsibility]] becomes a response to metaphysical fact rather than a conventional practice — though the contrast is not with compatibilism wholesale. Sophisticated compatibilists from Frankfurt to Fischer and Ravizza to Wolf ground desert in metaphysically substantive capacities (identification, mechanism-level reasoning, normative competence), not pragmatic convention. The Map's contrast is therefore irreducible-vs-derivative: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. Whether that difference does additional moral work is the [[compatibilist-symmetry-challenge|compatibilist symmetry challenge]]. Desert would acquire metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [[moral-implications-of-genuine-agency|implications]] extend to obligation, character formation as genuine self-creation through accumulated selections, and moral luck relocated rather than eliminated — even an agent capable of irreducible choice does not choose the temperament, circumstance, or deliberative state in which choosing occurs. See [[consciousness-and-moral-agency-under-duress]] for edge cases where agency is constrained.
+If agent causation holds, [[moral-responsibility]] becomes a response to metaphysical fact rather than a conventional practice — though the contrast is not with compatibilism wholesale. Sophisticated compatibilists from Frankfurt (1971) to Fischer and Ravizza (1998) to Wolf (1990) ground desert in metaphysically substantive capacities (identification, mechanism-level reasoning, normative competence), not pragmatic convention. The Map's contrast is therefore irreducible-vs-derivative: under compatibilism the desert-grounding capacities are real but emerge from prior states the agent did not author; under agent causation the agent is the irreducible source. Whether that difference does additional moral work is the [[compatibilist-symmetry-challenge|compatibilist symmetry challenge]]. Desert would acquire metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [[moral-implications-of-genuine-agency|implications]] extend to obligation, character formation as genuine self-creation through accumulated selections, and moral luck relocated rather than eliminated — even an agent capable of irreducible choice does not choose the temperament, circumstance, or deliberative state in which choosing occurs. See [[consciousness-and-moral-agency-under-duress]] for edge cases where agency is constrained.
 
 ### Normativity Is Built into Experience
 
@@ -94,7 +94,7 @@ Materialist accounts must bridge a gap between descriptive facts and normative f
 
 ### The Unity Argument
 
-The distinctive claim concerns *unity*. Dualism answers value, agency, normativity, and moral epistemology from the same place — irreducible conscious experience. Individual arguments may be disputed; the unification is what the Map takes to remain even where individual pillars are contested — though that structural claim is itself defeasible, as the falsifiability conditions below make clear.
+The distinctive claim concerns *unity*. Dualism answers value, agency, normativity, and moral epistemology from the same place — irreducible conscious experience. Individual pillars may be disputed; the Map takes the unification to remain even so — though that structural claim is itself defeasible, as the falsifiability conditions below make clear.
 
 **Coherence.** The agent who exercises genuine causal power is the same subject who experiences value, feels moral demand, and perceives ethical properties directly — no gap between who acts, what matters, why it binds, and how we know.
 
@@ -106,7 +106,7 @@ The distinctive claim concerns *unity*. Dualism answers value, agency, normativi
 
 Several traditions treat consciousness as central to moral status: Bentham's criterion of suffering capacity, Kant's dignity grounded in rational self-determination (which a dualist reading takes to presuppose a conscious deliberator), virtue ethics' experiential flourishing, Regan's "subjects-of-a-life," and Buddhist *ahimsa*. The overlap across traditions that disagree about nearly everything else suggests consciousness is deeply important to ethics. (Buddhist emptiness — *śūnyatā* — is no obstacle: compassion responds to dependently-arisen suffering precisely because suffering matters, even without a permanent self who suffers.)
 
-Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([[positions/moral-status#^p-ms1|P-MS1]]). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (forthcoming) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [[consciousness-value-connection#Implications|the consciousness-value connection]] already does — the commitment covers valenced experience rather than experience as such — and [[sentientism|phenomenal sentientism]] carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, a poor candidate for the first, is a poor candidate for the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
+Moral patienthood extends to every being capable of valenced experience — experience that feels good or bad to its subject — and only to such beings ([[positions/moral-status#^p-ms1|P-MS1]]). Consciousness is the wider bar, and the two can be prised apart. The philosophical Vulcan of Chalmers (2026) consciously perceives, thinks and acts but feels nothing good or bad; it clears the consciousness bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status and that affective sentientism is false. The Map bites the bullet where [[consciousness-value-connection#Implications|the consciousness-value connection]] already does — the commitment covers valenced experience rather than experience as such — and [[sentientism|phenomenal sentientism]] carries the published exchange over whether that verdict can be defended. In practice the two bars nearly coincide: every being in the taxonomy below that is a live candidate for consciousness is a live candidate for valence, and current AI, a poor candidate for the first, is a poor candidate for the second a fortiori. The narrower criterion changes no verdict here; it settles which property the verdicts track. Which systems are conscious?
 
 **Likely conscious**: Mammals and birds (Cambridge Declaration 2012, New York Declaration 2024); other vertebrates have realistic possibility; cephalopods and possibly some invertebrates may have valenced experience, not just nociception.
 
@@ -128,7 +128,7 @@ The [[hard-problem-of-consciousness|hard problem]] makes consciousness attributi
 | Current AI | Very low | Minimal |
 | Bacteria, rocks | Near-zero | None |
 
-The framework shapes this differently than functionalism: if consciousness requires non-physical properties interfacing through quantum mechanisms, current AI architecture lacks that interface. The confidence is only as strong as the framework itself.
+The AI row is framework-dependent: it tracks the interface criterion stated above, and its confidence is only as strong as the framework itself.
 
 ### Animals: Implications of Consciousness
 
@@ -136,13 +136,13 @@ If animals are conscious — and convergent evidence strongly suggests many are 
 
 ### AI: Non-Consciousness and Its Limits
 
-The Map's framework implies that current AI systems probably lack *bidirectionally coupled* consciousness, and so probably lack moral patienthood; *bare phenomenality* rests on irreducibility alone and stays open, making the verdict conditional on the interface criterion rather than categorical. Either way AI can be a moral *agent* without being a moral *patient*: questions of responsibility, design constraints, and social effects remain regardless.
+The Map's framework implies that current AI systems probably lack *bidirectionally coupled* consciousness, and so probably lack moral patienthood; *bare phenomenality* rests on irreducibility alone and stays open, making the verdict conditional on the interface criterion rather than categorical. Either way AI can be a moral *agent* without being a moral *patient*: questions of responsibility, design constraints, and social effects remain.
 
 Under the Map's framework, [[purpose-and-alignment|AI alignment]] takes specific character. If AI lacks consciousness, it lacks the "inside understanding" that makes human judgement valuable: it can track proxies but cannot access what those proxies represent. This motivates [[experiential-alignment|experiential alignment]] — targeting predicted distributions over human conscious experiences rather than learned preferences — and makes human oversight a structural necessity.
 
 Intellectual honesty requires specifying what would warrant reassessment: behavioural anomalies inexplicable by training and architecture; phenomenologically detailed self-reports stable across adversarial prompting (especially when diverging from what would maximise user approval); spontaneous suffering-avoidance independent of objective functions; or a demonstration that biological consciousness requires nothing quantum or non-physical.
 
-Genuine uncertainty does not warrant lowering the bar for consciousness attribution. If we could create conscious AI we would create moral patients: creating suffering consciousness is harmful, terminating it may constitute killing, editing its values raises autonomy concerns impossible for biological consciousness. The Map urges extreme caution about creating potentially-conscious systems.
+Genuine uncertainty does not warrant lowering the bar for consciousness attribution. If we could create conscious AI we would create moral patients: creating suffering consciousness is harmful, terminating it may constitute killing, editing its values raises autonomy concerns with no clean biological analogue. The Map urges extreme caution about creating potentially-conscious systems.
 
 ## Identity Ethics: Copies, Uploads, and Simulations
 
@@ -152,7 +152,7 @@ The Map's commitment to [[personal-identity|indexical identity]] — that *you* 
 
 **Uploading**: Would create a new consciousness based on your brain state — you would not wake up inside the computer; marketing uploading as survival is misleading.
 
-**Simulation ethics**: If consciousness requires quantum interfaces, purely digital simulations may be incapable of it, so simulated "suffering" wouldn't be real suffering. Moral uncertainty still urges caution.
+**Simulation ethics**: If consciousness requires quantum interfaces, purely digital simulations may be incapable of it, in which case simulated "suffering" would not be real suffering. Moral uncertainty still urges caution.
 
 The core point: copies are not continuations. Treating copying as survival disrespects both the original, whose death is disguised, and the copy, a new being. For pharmaceuticals, neural implants, and genetic modification, see [[ethics-of-cognitive-enhancement-under-dualism]].
 
@@ -195,7 +195,7 @@ These challenges are logically possible but currently unmet.
 
 Each tenet shapes ethics under dualism:
 
-**[[tenets#^dualism|Dualism]]** provides the irreducible conscious subject on which value, agency, normativity, and moral perception converge. Functionalist ethics (granting status to any system with the right functional organisation) is rejected; Turing tests alone cannot determine moral status; the [[illusionism|illusionist]] challenge fails because phenomenal consciousness, not functional representation, grounds value.
+**[[tenets#^dualism|Dualism]]** provides the irreducible conscious subject on which value, agency, normativity, and moral perception converge. Functionalist ethics (granting status to any system with the right functional organisation) is rejected; Turing tests alone cannot determine moral status; the [[illusionism|illusionist]] challenge is turned back at the framework boundary rather than refuted: phenomenal consciousness, not functional representation, grounds value.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** ensures consciousness is not epiphenomenal. Moral agency requires causal efficacy. The rejection of epiphenomenalism also prevents value from becoming causally inert: suffering genuinely affects behaviour and motivates escape, meaning it *matters to the sufferer*.
 
@@ -234,16 +234,19 @@ Under dualism, consciousness does double duty: it determines who counts (moral p
 2. Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
 3. Bodien, Y. G., Allanson, J., Cardone, P., et al. (2024). "Cognitive Motor Dissociation in Disorders of Consciousness." *New England Journal of Medicine*, 391(7), 598–608.
 4. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
-5. Chalmers, D. J. (forthcoming). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious*. Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf
-6. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
-7. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-8. Korsgaard, C.M. (1996). *The Sources of Normativity*. Cambridge University Press.
-9. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
-10. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
-11. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-12. New York Declaration on Animal Consciousness. (2024). NYU Conference.
-13. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-14. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
-15. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
-16. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
-17. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
+5. Chalmers, D. J. (2026). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious* (pp. 25–40). Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf
+6. Fischer, J. M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
+7. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
+8. Frankfurt, H. G. (1971). "Freedom of the Will and the Concept of a Person." *The Journal of Philosophy*, 68(1), 5–20.
+9. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+10. Korsgaard, C.M. (1996). *The Sources of Normativity*. Cambridge University Press.
+11. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
+12. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
+13. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+14. New York Declaration on Animal Consciousness. (2024). NYU Conference.
+15. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+16. Railton, P. (1986). "Moral Realism." *The Philosophical Review*, 95(2), 163–207.
+17. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel].
+18. Regan, T. (1983). *The Case for Animal Rights*. University of California Press.
+19. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
+20. Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press.

@@ -2,9 +2,9 @@
 title: "Sentientism"
 description: "Sentientism grounds moral status in valenced experience. Why the Map holds the phenomenal rather than the functional version, and how it meets biocentrism."
 created: 2026-08-01
-modified: 2026-09-06
+modified: 2026-10-06
 human_modified:
-ai_modified: 2026-09-20T15:01:00+00:00
+ai_modified: 2026-10-06T01:44:15+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -125,7 +125,7 @@ The same resource bears on the **disenhancement objection**. If suffering is the
 1. Frankish, K. (2024). "The Ethical Implications of Illusionism." *Neuroethics*, 17(2), art. 28. DOI: 10.1007/s12152-024-09562-5
 1. Rossi, J. (2010). "Is Equal Moral Consideration Really Compatible with Unequal Moral Status?" *Kennedy Institute of Ethics Journal*, 20(3), 251–276. DOI: 10.1353/ken.2010.0004
 1. Wendler, D. (2023). *Life Without Degrees of Moral Status*. Oxford University Press. DOI: 10.1093/oso/9780197675328.001.0001
-1. Chalmers, D. J. (forthcoming). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious*. Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf
+1. Chalmers, D. J. (2026). "Sentience and Moral Status." In G. Lee & A. Pautz (eds.), *The Importance of Being Conscious* (pp. 25–40). Oxford University Press. Preprint: https://consc.net/papers/sentience.pdf
 1. Smithies, D. (2026). "Hedonic Consciousness and Moral Status." In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, vol. 5, pp. 307–336. Oxford University Press. DOI: 10.1093/9780198994121.003.0011
 1. Shriver, A. (2009). "Knocking Out Pain in Livestock: Can Technology Succeed Where Morality has Stalled?" *Neuroethics*, 2(3), 115-124.
 1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
