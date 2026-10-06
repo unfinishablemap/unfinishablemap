@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-09-10 11:23:06+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-10-06 23:21:26+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/reductionism/
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:56:56+00:00
-lastmod: 2026-09-10 11:23:06+00:00
+lastmod: 2026-10-06 23:21:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,7 +153,7 @@ Dennett's own view, however, is that consciousness *can* be explained functional
 
 ## Why the Asymmetry Matters
 
-Materialists have a standard reply: reductionism about consciousness is simply incomplete, and future science will close the gap, just as it closed gaps for temperature and heredity. Be patient.
+[Type-C materialists](/concepts/type-a-type-b-and-type-c-physicalism/) have a standard reply: reductionism about consciousness is incomplete, and future science will close the gap, just as it closed gaps for temperature and heredity. Be patient.
 
 The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) reframes this patience as misplaced: the pattern of competing theories, persistent anomalies, and loosening methodological standards in consciousness studies matches Kuhn's description of a paradigm in crisis, not a programme making steady progress.
 

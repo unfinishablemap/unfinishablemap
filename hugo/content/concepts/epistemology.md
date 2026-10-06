@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-07-29 07:23:07+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-06 23:21:26+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[dualism]]'
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:48:41+00:00
-lastmod: 2026-07-29 07:23:07+00:00
+lastmod: 2026-10-06 23:21:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ The Map argues that epistemological assumptions do more to determine conclusions
 
 Standard epistemology asks what we can know, how beliefs are justified, and where understanding runs out; in most domains those questions stay in the background. Consciousness is different: the object of study is accessible only from the first person, yet a methodological preference for third-person evidence has shaped much of analytic philosophy of mind. The resulting tension runs through every major debate in the field.
 
-The [explanatory-gap](/concepts/explanatory-gap/) is fundamentally an epistemological observation: physical descriptions, however complete, do not entail phenomenal descriptions. Whether this gap reflects a genuine ontological divide (as [dualism](/concepts/dualism/) holds) or merely a limitation in our current concepts (as Type-B physicalists argue) depends on prior epistemological commitments about what counts as adequate explanation. The [knowledge-argument](/concepts/knowledge-argument/) presses the same point from the other side: if physical knowledge is not exhaustive knowledge, the epistemological assumptions of physicalism are too narrow. The argument is contested rather than settled: Alter (2023) mounts a book-length defence four decades on, concluding disjunctively that either standard physicalism is false or it gives way to Russellian monism.
+The [explanatory-gap](/concepts/explanatory-gap/) is fundamentally an epistemological observation: physical descriptions, however complete, do not entail phenomenal descriptions. Whether this gap reflects a genuine ontological divide (as [dualism](/concepts/dualism/) holds) or merely a limitation in our concepts (as Type-B physicalists argue) depends on prior epistemological commitments about what counts as adequate explanation. The [knowledge-argument](/concepts/knowledge-argument/) presses the same point from the other side: if physical knowledge is not exhaustive knowledge, the epistemological assumptions of physicalism are too narrow. The argument is contested rather than settled: Alter (2023) mounts a book-length defence four decades on, concluding disjunctively that either standard physicalism is false or it gives way to Russellian monism.
 
 ## Two Epistemic Channels
 

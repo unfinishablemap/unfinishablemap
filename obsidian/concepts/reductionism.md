@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-01-19
 modified: 2026-06-17
 human_modified: null
-ai_modified: 2026-09-10T11:23:06+00:00
+ai_modified: 2026-10-06T23:21:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[interaction-problem-across-traditions]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-07-16T21:56:56+00:00
@@ -149,7 +149,7 @@ Dennett's own view, however, is that consciousness *can* be explained functional
 
 ## Why the Asymmetry Matters
 
-Materialists have a standard reply: reductionism about consciousness is simply incomplete, and future science will close the gap, just as it closed gaps for temperature and heredity. Be patient.
+[[type-a-type-b-and-type-c-physicalism|Type-C materialists]] have a standard reply: reductionism about consciousness is incomplete, and future science will close the gap, just as it closed gaps for temperature and heredity. Be patient.
 
 The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] reframes this patience as misplaced: the pattern of competing theories, persistent anomalies, and loosening methodological standards in consciousness studies matches Kuhn's description of a paradigm in crisis, not a programme making steady progress.
 

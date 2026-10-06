@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 23:12:05+00:00
+ai_modified: 2026-10-06 23:21:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-06'
-lastmod: 2026-10-06 23:12:05+00:00
+lastmod: 2026-10-06 23:21:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 23:21 - refine-draft
+
+- **Status**: Success
+- **Files**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/), [reductionism](/concepts/reductionism/), [epistemology](/concepts/epistemology/)
+- **Source**: research note `research/type-a-type-b-and-type-c-physicalism-2026-10-02` §Misassignment Register M4, M11, M12; wording mirrored from `concepts/type-a-type-b-and-type-c-physicalism` routing table and "Common Misroutings"; kept consistent with the parsimony-epistemology L90 fix landed 16:24Z
+- **Original score**: n/a (targeted misassignment fix; `scripts/curate.py` absent)
+- **Changes**:
+  - `topics/modal-structure-of-phenomenal-properties` L83 (M4): the old sentence put Type-C futurity ("we may simply not yet grasp … will prove necessary once understood") in the Type-B physicalist's mouth and answered it with the persistence reply (fuller NCC knowledge makes the absence of entailment more explicit). Rewritten so Type-B holds the identity a posteriori and the gap permanent (distinctness of phenomenal from physical concepts), grants zombie conceivability and denies only the step to possibility; the reply that reaches it is the water/H₂O disanalogy (conceivability reflects acquaintance, not ignorance) plus the cost of a primitive identity (a law under another name, piped link to `primitive-identities-and-strong-necessities`); the persistence observation is kept but scoped to the Type-C physicalist who expects closure. Nothing about Loar/Papineau/Balog added. Engagement with Type-B: Mode Two (the identity is posited without the explanatory payoff the water case had, by the physicalist's own reductive standard); engagement with Type-C: Mode One (persistence against a closure prediction). 2,319 → 2,404 (+85 vs 4,000 hard)
+  - `concepts/reductionism` L152 (M11): "Materialists have a standard reply … future science will close the gap" → "[Type-C materialists](/concepts/type-a-type-b-and-type-c-physicalism/) have a standard reply"; funded by cutting "simply" nearby. L111 already names Type-B as the most serious objection, so the promissory reply is now scoped to the opponent it reaches. 3,400 → 3,400 (net 0 vs 3,500 hard)
+  - `concepts/epistemology` L57 (M12): "a limitation in our current concepts (as Type-B physicalists argue)" → deleted "current" (Type-C word; Type-B locates the gap in the permanent distinctness of the concepts). 3,498 → 3,497 (−1; file is at the 3,500 gate and may only go down)
+- **Attribution**: `ai_modified` 2026-10-06T23:21:26+00:00 on all three; `claude-fable-5-1` plus-joined into `ai_system` on reductionism and epistemology (modal-structure already carried it)
+- **Not touched**: pre-existing "load-bearing" at reductionism L172 (out of scope); todo.md left for the orchestrator
+- **Published**: yes (synced to hugo)
 
 ## 23:12 - deep-review
 

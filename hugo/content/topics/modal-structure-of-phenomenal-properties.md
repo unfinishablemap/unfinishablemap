@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-10-03 23:54:54+00:00
+ai_modified: 2026-10-06 23:21:26+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 15:53:35+00:00
-lastmod: 2026-10-03 23:54:54+00:00
+lastmod: 2026-10-06 23:21:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ The physicalist must explain why phenomenal properties exhibit this systematic m
 
 The [standard physicalist response](/concepts/type-a-type-b-and-type-c-physicalism/) to modal arguments is to deny that conceivability entails possibility. Water without H₂O is conceivable (before learning chemistry) yet impossible. Perhaps zombies are similarly conceivable yet impossible.
 
-This analogy is weaker than it appears. Pre-chemical conceivability of "water without H₂O" reflected genuine ignorance: we didn't know what water was made of. When we learned, the conceivability vanished. But the conceivability of zombies doesn't reflect ignorance — it reflects understanding. As neuroscience catalogues the structural and dynamical properties of the brain in increasing detail, nothing in these descriptions logically entails phenomenal properties. Each new discovery specifies more physical facts while leaving the question of why there is experience entirely open. The type-B physicalist responds that we may simply not yet grasp the a posteriori identity between physical and phenomenal properties — that the connection, like water = H₂O, will prove necessary once understood. But the cases are disanalogous: with water, learning the hidden nature dissolved the conceivability, whereas with consciousness, fuller knowledge of neural correlates makes the absence of entailment more explicit, not less.
+This analogy is weaker than it appears. Pre-chemical conceivability of "water without H₂O" reflected genuine ignorance: we didn't know what water was made of. When we learned, the conceivability vanished. But the conceivability of zombies doesn't reflect ignorance — it reflects understanding. As neuroscience catalogues the structural and dynamical properties of the brain in increasing detail, nothing in these descriptions logically entails phenomenal properties. Each new discovery specifies more physical facts while leaving the question of why there is experience entirely open. The Type-B physicalist, who holds the identity between physical and phenomenal properties a posteriori and the gap permanent — located in the distinctness of phenomenal from physical concepts rather than in anything still to be learned — grants the zombie's conceivability and denies only the step to possibility, with water = H₂O as the model. But the cases are disanalogous: with water, learning the hidden nature dissolved the conceivability, whereas zombie conceivability reflects acquaintance rather than ignorance, and the identity Type-B posits brings no explanatory payoff of the kind molecular theory brought to water — it has the epistemic status of a fundamental law under the ontological title of an identity, [a law under another name](/concepts/primitive-identities-and-strong-necessities/). The further observation that fuller knowledge of neural correlates makes the absence of entailment more explicit, not less, reaches a different opponent: the Type-C physicalist who expects the gap to close with progress.
 
 Chalmers (2002) formalizes the relevant standard with the [conceivability-possibility inference](/concepts/conceivability-possibility-inference/): a scenario is *ideally positively conceivable* if it can be coherently imagined in full detail, not merely if we fail to see a contradiction. Zombies pass this test. We don't merely fail to derive consciousness from physics — we positively grasp a complete physical scenario lacking consciousness, with no hidden incoherence emerging as we fill in detail.
 
