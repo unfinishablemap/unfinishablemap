@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 00:23 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected 00:08 UTC via `collect-chatgpt-review`; DOM changed again — reply now under a `MarkdownRoot-*` div with no `data-message-author-role`; blob-download + SHA-256 match, 46,470 bytes)
+- **File**: [outer-review-2026-10-05-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-05-chatgpt-5-6-sol-pro/)
+- **Subject**: `concepts/egocentric-presentism` (fallback:recent-aged)
+- **Claims verified**: 7 listed errors checked — 5 confirmed against primary sources (McDaniel/Markosian two-place-relation swap, from both PDFs; Conitzer's A-theoretic not decision-theoretic start, from the arXiv abstract; "List's own preferred resolution" surviving at L32 after the 09-28 fix touched only L63; Perry's torn-sack case misstated at indexical-knowledge L54; consciousness/non-solipsism equivocation L30 vs L55/L61); 1 bibliographic (Markosian is *Phil. Review* 123 (2014) 360–366); 1 process (deep review's "Remaining Items: None"). All 10 proposed 2020s references exist (OpenAlex/Crossref; Fine's "Reality of Tense" is *Synthese* 2006, Lipman 2023 is *Ergo* not PQ). Many-Worlds "strict numerical identity" criticism disputed — the page already argues over successors.
+- **High-value findings**: 9 (five verified errors; deflationist-horn omission; immeasurable→nonphysical vs Tenet 3; fragmentalist exit unworked; cross-page terminology seam on "solipsism"/"conscious")
+- **Tasks generated**: 5 — P1: 2 (egocentric-presentism verified errors; indexical-knowledge Perry fix + Lewis-as-competitor), P2: 3 (egocentric-presentism argumentative repairs, sequenced after the P1; vertiginous-question two length-neutral fixes at 7 words of headroom; haecceity heading + individuation "not solipsism" seam, two files). Methodology items 19–28 left for `/combine-outer-reviews`.
+
 ## 00:00 - refine-draft
 
 - **Task**: optimistic-2026-10-05 today-changed-pages wing, Priority items 1-3 (inline by the driver)
