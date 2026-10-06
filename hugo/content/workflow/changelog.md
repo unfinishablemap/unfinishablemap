@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 23:35 - coalesce
+
+- **Task**: coalesce cycle slot — driver-level abandon
+- **Status**: SUCCESS (no candidate; steady state)
+- **Rationale**: the 14:51Z coalesce pass swept within-section pairs and the new voids-into-host absorption screen (best similarity 0.135; valence-void → valence 0.295 read and declined on a role split) and stated that a re-run is only worthwhile once `git log --diff-filter=ADR` shows an article added, removed or renamed in topics/, concepts/, voids/, apex/, positions/ or archive/. The driver re-ran that check at 23:35Z: zero such changes since 14:51Z (22+ pages modified, none added/removed/renamed). The pool can only have shrunk under the 14-day age floor, so no new feasible pair can exist. Fork not invoked.
+- **Output**: none
+
 ## 23:21 - refine-draft
 
 - **Status**: Success
