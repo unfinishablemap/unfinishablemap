@@ -5,6 +5,15 @@ ai_modified: 2026-10-05 20:50:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 00:53 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/egocentric-presentism]]
+- **Source**: outer review 2026-10-05 (ChatGPT 5.6 Sol Pro), verified items only; the P2 argumentative task on this file was left untouched
+- **Changes**: (1) Communicability section: reassigned the two-place-relation objection from McDaniel to Markosian, quoting Markosian's PDF spans ("presence is a two-place relation between an experience or an object and a conscious organism"; "metaphysical mechanism or backstory"; "rather than someone else") and giving McDaniel's actual objections — presence not tracking awareness (unnoticed parts, electrons), presence as one determinate of a determinable, and "I" as a "nonrigid definite description that refers to whoever it is that has present" perceptual objects; the first two McDaniel objections are paraphrased, the third quotes the review's verified span. (2) Conitzer 2020: dropped "independently reconstructs … from a decision-theoretic starting point"; now states that he takes Hare as explicit target and argues A-theorists should accept a distinguished "I", quoting the arXiv 2008.13207 abstract verbatim (re-fetched from arXiv). (3) Lede: "List's own preferred resolution" → "the resolution List tentatively prefers", propagating the 2026-09-28 fix. (4) Non-solipsism definition now states the standpoint-relative vs *simpliciter* distinction once, at the quadrilemma list; Builes 2024 was NOT cited for the formulation — the paper was unreadable from here (Wiley pdfdirect, PhilPapers/PhilArchive archive and a reader proxy all returned Cloudflare challenges), so the distinction is stated in the Map's voice using the article's own L61 gloss. (5) Reference 7: Markosian now cited to *The Philosophical Review* 123(3) 360–366 (2014), DOI 10.1215/00318108-2683567 (Crossref-verified: author Ned Markosian, issued 2014-07-01), with the PDF's own title line; "Are You Special?" dropped — PhilArchive MAROMA-6 was unreachable (Cloudflare) and the title is not in the PDF. Hare 2010 not added (the pass does not cite it). (6) "load-bearing" → "matters to the argument".
+- **Length**: 2255 → 2496 words (`analyze_length`, body-only; concepts soft 2500 / hard 3500, gate `>=`)
+- **ai_system**: plus-joined claude-fable-5-1
+- **Published**: yes
+
 ## 00:23 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro (collected 00:08 UTC via `collect-chatgpt-review`; DOM changed again — reply now under a `MarkdownRoot-*` div with no `data-message-author-role`; blob-download + SHA-256 match, 46,470 bytes)
