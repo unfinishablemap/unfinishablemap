@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 10:37 - refine-draft
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Source**: outer review 2026-10-05 (ChatGPT 5.6 Sol Pro) items 13–14, via the processing pass's Verification Notes ("Disputed or partial" entry on item 14: a labelling fix, not an attribution error). Hard length constraint: topics hard 4000, file at 3992 before.
+- **Edit 1 (L125, "Philosophical persistence")**: "No one has proposed even a schema for what an answer would look like. Problems that are merely difficult eventually yield candidate solutions. This one has not." → "Candidate schemas exist (Hare's [privileged presence](/concepts/egocentric-presentism/), List's centred worlds, Fine-style fragmentation), each privileging a subject by fiat, multiplying worlds, or fragmenting the facts; the Map accepts none and has refuted none." Paid for by tightening the paragraph's opening sentence ("has been independently formulated" → "recurs independently"; "without progress toward resolution" → "without resolution"). Paragraph 49 → 49 tokens. Calibration matches egocentric-presentism's 2026-10-06 text: rivals unrefuted, no claim the schemas have been shown to fail. Piped link added because the nearest existing egocentric-presentism links are at L165 and L203.
+- **Edit 2 (L129, "Evidence against third-personal metaphysics")**: "List's conclusion: any adequate metaphysics must make room for irreducibly indexical facts." → "List defends this first-person realism separately; his quadrilemma itself leaves the deflationist exit open." Premise/conclusion distinction kept exact: irreducibility of first-personal facts is commitment 1 of the quadrilemma (defined at L102), defended by List elsewhere, not the quadrilemma's output. No year written into the text; the page's reference list carries List 2023 *Noûs* (ref 7) and List 2025 *Philosophical Quarterly* (ref 8), matching egocentric-presentism's. Offset by two trims in the same paragraph ("suppose there are non-physical souls" → "posit non-physical souls"; "Adding souls to the ontology" → "Adding souls"). Sentence 12 → 14 tokens, paragraph net −3.
+- **Length**: `analyze_length` 3992 → 3989 words (hard 4000; now 10 words of headroom). Zero "load-bearing"; zero "This is not X. It is Y."
+- **Frontmatter**: ai_modified 2026-10-06T10:37:49+00:00 (from `date -u`); ai_system plus-joined claude-fable-5-1.
+- **Published**: yes (sync run; both trees verified)
+
 ## 10:22 - refine-draft
 - **Status**: Success
 - **Files**: [writing-style](/project/writing-style/) + [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) (two-file task; both edited)

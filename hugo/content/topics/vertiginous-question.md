@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-10-04 10:17:55+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-10-06 10:37:49+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /voids/indexical-void/
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 15:24:00+00:00
-lastmod: 2026-10-04 10:17:55+00:00
+lastmod: 2026-10-06 10:37:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,11 +125,11 @@ Hellie named the question "vertiginous" for good reason. Attending genuinely to 
 
 Several convergent lines suggest the indexical void marks a real cognitive boundary rather than a merely unsolved problem.
 
-**Philosophical persistence.** The question has been independently formulated across centuries and traditions — Scotus, Nagel, Nagai, Hellie, Roberts, List — without progress toward resolution. No one has proposed even a schema for what an answer would look like. Problems that are merely difficult eventually yield candidate solutions. This one has not.
+**Philosophical persistence.** The question recurs independently across centuries and traditions — Scotus, Nagel, Nagai, Hellie, Roberts, List — without resolution. Candidate schemas exist (Hare's [privileged presence](/concepts/egocentric-presentism/), List's centred worlds, Fine-style fragmentation), each privileging a subject by fiat, multiplying worlds, or fragmenting the facts; the Map accepts none and has refuted none.
 
 **Structural circularity.** Any answer must use the "I" whose existence it explains. The explanandum appears in the explanans. This is not practical difficulty but logical structure.
 
-**Evidence against third-personal metaphysics.** If reality is fully describable in third-person physical terms, there should be no irreducible first-person facts. But the vertiginous question concerns exactly such a fact. "Why am I this person?" is not answerable by describing what physical systems exist and how they're arranged. The first-person indexical "I" picks out something that third-person physics cannot capture. Naïve dualism fares no better: suppose there are non-physical souls. The question "Why is *this* soul mine?" remains. Adding souls to the ontology doesn't explain why I am associated with one soul rather than another. List's conclusion: any adequate metaphysics must make room for irreducibly indexical facts.
+**Evidence against third-personal metaphysics.** If reality is fully describable in third-person physical terms, there should be no irreducible first-person facts. But the vertiginous question concerns exactly such a fact. "Why am I this person?" is not answerable by describing what physical systems exist and how they're arranged. The first-person indexical "I" picks out something that third-person physics cannot capture. Naïve dualism fares no better: posit non-physical souls. The question "Why is *this* soul mine?" remains. Adding souls doesn't explain why I am associated with one soul rather than another. List defends this first-person realism separately; his quadrilemma itself leaves the deflationist exit open.
 
 **The temporal analogy.** Vincent Conitzer observed that arguments for the A-theory of time (the present is metaphysically special) parallel arguments for the indexical privilege of "I." Both involve indexical facts that resist reduction to non-indexical description. If temporal indexicality and personal indexicality share a common structure, the resistance to explanation may run deeper than either problem alone. The [connection between indexical identity and quantum measurement](/topics/indexical-identity-quantum-measurement/) develops this thread further: if collapse selects *this* outcome from many possibilities, and consciousness selects *this* viewpoint, the two selections may share a common structure.
 
