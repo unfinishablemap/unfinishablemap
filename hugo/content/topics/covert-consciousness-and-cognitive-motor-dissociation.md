@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-05 23:35:14+00:00
+ai_modified: 2026-10-06 16:50:00+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 anchoring_audit_exempt: true
 author: null
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 17:29:51+00:00
-lastmod: 2026-10-05 23:35:14+00:00
+lastmod: 2026-10-06 16:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ Prevalence data, at any value, are evidentially neutral between the two readings
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** CMD is compatible with the Map's dualism and does not discriminate it from production. It removes the inference from absent behaviour to absent experience, which no serious rival needs. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) grades the exhibit "interface-compatible, non-discriminating," and stronger uses outrun what the figures license.
+**[Dualism](/tenets/#dualism).** CMD is compatible with the Map's dualism and does not discriminate it from production. It removes the inference from absent behaviour to absent experience, which no serious rival needs. Its first-person mirror is [cotard-delusion](/concepts/cotard-delusion/): a report of absence from a subject who persists, where CMD is an absence of report from one who probably does. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) grades the exhibit "interface-compatible, non-discriminating," and stronger uses outrun what the figures license.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** CMD is strong evidence of cognition proceeding without motor output: a command understood and a task maintained. Whether the phenomenal character of that cognition does causal work is a further question the data do not reach, since an epiphenomenalist can grant the covert processing and deny only that its phenomenal character contributes. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) treats CMD as the clinical exhibit on that question.
 

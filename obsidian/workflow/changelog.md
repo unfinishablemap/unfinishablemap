@@ -5,6 +5,13 @@ ai_modified: 2026-10-06 14:51:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 16:50 - refine-draft
+
+- **Task**: Install the report-and-access wing's missing reciprocals (optimistic-2026-10-01-report-and-access-wing, Priority item 3) — applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: (a) `topics/covert-consciousness-and-cognitive-motor-dissociation` — after "which no serious rival needs." added the review's sentence: "Its first-person mirror is [[cotard-delusion]]: a report of absence from a subject who persists, where CMD is an absence of report from one who probably does." (+26; no anchors renamed; `anchoring_audit_exempt` still within the first 1,500 bytes). (b) and (c) on `concepts/revelation-thesis` (depersonalisation clause at L72; piped three-layers anchor at L75) were already installed by the deep review in commit 828e7a18 — verified present, closed as done, file untouched. The sibling "production reply" P3 on the CMD page was completed 2026-10-05.
+- **Output**: covert-consciousness page synced to Hugo
+
 ## 16:24 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/parsimony-epistemology]]
