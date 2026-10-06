@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 05:42:00+00:00
+ai_modified: 2026-10-06 05:50:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:50 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-06
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5, gemini-2-5-pro); subject `voids/categorical-perception-void` for all three
+- **Clusters**: 19 convergent (4 with a Gemini contribution; K12 "standalone void not earned as argued" is 3/3), 19 singleton, 5 divergent (D4 and D5 are false divergences from Gemini citing Rizzi & Bidelman 2024 for the reverse of its finding and overstating the FFR result)
+- **Adjudications respected, not re-litigated**: Logan 1991 → Lively 1994 genuine; Kuhl & Miller 1975 is /d/–/t/; Martinovic 2026 PNAS real and uncited; Rizzi & Bidelman 2024 supports the gradient (Gemini weakness 3 not convergent); Gemini "Su 2022" unlocatable; Claude expertise-void and self-citation items disputed; Claude's infant-consciousness phrase "overwritten, not archived" is not in the article (grep)
+- **Tasks upgraded**: 4 (P3→P2: 0, P2→P1: 4) — language-thought-boundary (K2), infant-consciousness (K15), source-attribution-void + cognitive-penetration cross-review (K5), writing-style + coherence-inflation-countermeasures worked instances (K16)
+- **Tasks deduplicated**: 2 — the five same-file P1s on `voids/categorical-perception-void` (18 words of headroom, 2982/3000) became three ordered passes: PASS 1 citations/currency (ChatGPT + Claude citation tasks merged), PASS 2 structural (ChatGPT, unchanged scope, both review files), PASS 3 RUN LAST (Claude lede/rival + Gemini FFR merged). Order is enforced by the selector's P1 line-number tiebreak and restated in every Notes field. Active tasks 79 → 77.
+- **Human decisions surfaced, not tasked**: retitle/retire the void (PASS 2 item 6 writes the NEEDS-HUMAN block after scoring against the four criteria); four convergent methodology proposals (corrigendum sweep, neighbour contradiction sweep, void-necessity scoring, revision-date currency check) recorded in K19 under the Countermeasure 16 reservation
+- **Self-correction**: a draft task note asserted the focal article already links `source-attribution-void`; grep showed no link in either direction and Claude's finding was restored as correct
+- **Output**: [[reviews/outer-review-synthesis-2026-10-06]]
 
 ## 05:42 - collect-gemini-review + outer-review
 - **Status**: Success
