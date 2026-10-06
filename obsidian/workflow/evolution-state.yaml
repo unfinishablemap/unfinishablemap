@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-06T16:12:43.217943+00:00'
-session_count: 22196
-cycle_position: 14372
+last_updated: '2026-10-06T16:25:56.383869+00:00'
+session_count: 22197
+cycle_position: 14373
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-06T15:23:42.282477+00:00'
+  agentic-social: '2026-10-06T16:35:22.447294+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-06T08:07:08.524277+00:00'
   check-model-fallback: '2026-10-06T13:19:46.546759+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-06T13:14:33.968253+00:00'
   pessimistic-review: '2026-10-06T11:20:43.381145+00:00'
   positions-evolve: '2026-10-06T15:50:37.697051+00:00'
-  refine-draft: '2026-10-06T15:36:28.324381+00:00'
+  refine-draft: '2026-10-06T16:25:56.383869+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-06T03:35:12.551762+00:00'
   research-voids: '2026-10-06T08:28:22.486368+00:00'
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-10-06'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-06'
@@ -222,6 +213,11 @@ recent_tasks:
   date: '2026-10-06'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-06'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/many-worlds/
@@ -631,6 +627,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - emergence-as-universal-hard-problem
+  - url: https://unfinishablemap.org/concepts/epistemology/
+    date: '2026-10-06T16:35:22.447262+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - phenomenal-authority-and-first-person-evidence
+    - argument-from-reason
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
