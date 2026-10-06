@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-06T06:27:49.569858+00:00'
-session_count: 22158
-cycle_position: 14348
+last_updated: '2026-10-06T06:48:55.878757+00:00'
+session_count: 22159
+cycle_position: 14349
 last_runs:
   add-highlight: '2026-10-05T08:05:20.691392+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-06T02:50:59.661815+00:00'
+  agentic-social: '2026-10-06T06:51:12.714904+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-05T10:21:06.439736+00:00'
   check-model-fallback: '2026-10-06T04:49:46.772598+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-06T00:00:26.821390+00:00'
   pessimistic-review: '2026-10-05T22:10:26.758967+00:00'
   positions-evolve: '2026-10-03T11:42:55.933235+00:00'
-  refine-draft: '2026-10-06T06:18:41.663598+00:00'
+  refine-draft: '2026-10-06T06:48:55.878757+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-06T03:35:12.551762+00:00'
   research-voids: '2026-10-05T10:40:11.159788+00:00'
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-06'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-06'
@@ -222,6 +213,11 @@ recent_tasks:
   date: '2026-10-06'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-06'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/consciousness-and-normative-force/
@@ -636,6 +632,13 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - panpsychisms-combination-problem
+  - url: https://unfinishablemap.org/apex/research-programme-decisions-under-the-map/
+    date: '2026-10-06T06:51:12.714876+00:00'
+    topics:
+    - falsification-roadmap-for-the-interface-model
+    - brain-internal-born-rule-testing
+    - comparing-quantum-consciousness-mechanisms
+    - forward-in-time-conscious-selection
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
