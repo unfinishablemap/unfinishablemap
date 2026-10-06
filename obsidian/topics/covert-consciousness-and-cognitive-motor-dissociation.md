@@ -93,7 +93,7 @@ Prevalence data, at any value, are evidentially neutral between the two readings
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** CMD is compatible with the Map's dualism and does not discriminate it from production. It removes the inference from absent behaviour to absent experience, which no serious rival needs. Its first-person mirror is [[cotard-delusion]]: a report of absence from a subject who persists, where CMD is an absence of report from one who probably does. [[consciousness-and-causal-powers]] grades the exhibit "interface-compatible, non-discriminating," and stronger uses outrun what the figures license.
+**[[tenets#^dualism|Dualism]].** CMD is compatible with the Map's dualism and does not discriminate it from production. It removes the inference from absent behaviour to absent experience, which no serious rival needs. Its first-person mirror is [[cotard-delusion|Cotard delusion]]: a report of absence from a subject who persists, where CMD is an absence of report from one who probably does. [[consciousness-and-causal-powers]] grades the exhibit "interface-compatible, non-discriminating," and stronger uses outrun what the figures license.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** CMD is strong evidence of cognition proceeding without motor output: a command understood and a task maintained. Whether the phenomenal character of that cognition does causal work is a further question the data do not reach, since an epiphenomenalist can grant the covert processing and deny only that its phenomenal character contributes. [[consciousness-and-causal-powers]] treats CMD as the clinical exhibit on that question.
 
