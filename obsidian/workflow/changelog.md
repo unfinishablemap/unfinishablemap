@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 04:00:00+00:00
+ai_modified: 2026-10-06 04:35:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:35 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Research; collected via collect-claude-review — artifact panel, body stable at 39343 chars across a 10 s window, js-dom walk → Blob download 44971 bytes)
+- **File**: [[reviews/outer-review-2026-10-06-claude-opus-5-5]]
+- **Subject**: voids/categorical-perception-void (reuse of the 02:00 ChatGPT subject — second of the day's reviewers on the same article)
+- **Claims verified**: 14 checked against PubMed E-utilities, OpenAlex and Crossref records — Kuhl & Miller 1975 alveolar (/da/–/ta/) with labials only in Kuhl & Miller 1978; Holmes & Regier 2017 and Zhong 2018 lateralised colour CP; Witzel & Gegenfurtner 2011 abstract (article's paraphrase accurate), W&G 2013 and Witzel 2015 (stance non-perceptual); Pérez-Gay Juárez 2019 abstract; McMurray 2022 both quotes verbatim; Lively 1994; Feldman, Griffiths & Morgan 2009; Laukkonen, Friston & Chandaria 2025 verbatim; Carney 1977; Miyawaki 1975 and Werker & Logan 1985 metadata.
+- **Disputed**: 4 reviewer errors — "within-category compression not in the abstract" (it is, verbatim); expertise-void "thesis mismatch" (the page's primary face is headed "The One-Way Door"; reviewer could not read it); index placement (already under Framework-Independent Voids); "move self-citations" (site convention). Two overstated — W&G "inverts his position" (true of the programme, not the 2011 paper), "did not survive" (contested, not dead).
+- **High-value findings**: 6 new beyond the sibling review — Kuhl & Miller phoneme pair wrong; lateralisation contested not dead; Witzel verdict-direction failure; lede/meta-description assert the phenomenal claim the body calls untested (Countermeasure 12 instance); "Training Window" built on an admitted no-source claim; Bayesian/PP rival (FGM 2009, Laukkonen 2025) never built and Dualism paragraph strawmans physicalism.
+- **Tasks generated**: 3 (P1: 2 on the focal article — citation-precision paired with the sibling citation task, structural ordered LAST of four; P2: 1 on writing-style + coherence-inflation-countermeasures worked examples). Ten overlapping findings deliberately NOT re-minted (Logan→Lively, Liberman 1957, colour currency, chinchilla inference, Siegel causal, "default" ambiguity, Toscano architecture, provenance→source-attribution, infant reversibility, Thierry qualifier) — convergent with the 04:00 ChatGPT tasks and pessimistic 2026-09-28; flagged for /combine-outer-reviews.
+- **Methodology**: items 21 and 23 already exist (verdict-direction check; Countermeasure 12) — recorded as worked instances; 24–30 left to the synthesis pass (Countermeasure 16 reservation).
 
 ## 04:00 - outer-review
 - **Status**: Success
