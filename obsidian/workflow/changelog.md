@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 21:54:00+00:00
+ai_modified: 2026-10-06 22:20:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:20 - refine-draft
+
+- **Status**: Success
+- **File**: [[topics/self-reference-and-the-limits-of-physical-description]] (primary) + [[apex/authority-of-form]] (dependent, propagated)
+- **Review file**: [[reviews/optimistic-2026-10-06-formal-limits-and-channel-class-wing]] item 1
+- **Original score**: n/a (`scripts/curate.py` absent; review-driven targeted edit)
+- **Changes**: (1) Primary — inserted the review's exact new paragraph ("Two gap-arguments run through this article, and the model–reality distinction keeps them apart…") between the causal-closure paragraph (ending "causal closure is formally unjustified.") and "Even at the model level, incompleteness has real consequences." It states that the undecidability leg (spectral gap; every proof conceals an infinity; finite systems remain decidable) answers Feferman's "could conceivably be complete as such" at the level of frameworks only, and that the Tonetto outcome-level leg is the one that reaches a finite brain. Feferman phrase re-quoted from L62 (verbatim, verified 16:12Z), not re-sourced. (2) Apex dependent — after the FIRST "the spectral gap is undecidable" (the "A removed defeater is not evidence." paragraph, L90) appended " (a result about models carrying infinite idealisations, not about any finite brain)"; L102 occurrence left untouched. Lead (L48) and Occam paragraph (L138) unchanged. Tonetto quote untouched per deep-review stability notes. No new wikilinks. No "This is not X. It is Y." / "load-bearing" introduced.
+- **Length**: primary 3,055 → 3,167 / hard 4,000 (soft_warning, +112 exactly as priced); apex 4,166 → 4,178 / hard 5,000 (soft_warning, +12).
+- **Engagement classification**: no named-opponent reply added; the new paragraph is a scope statement on the Map's own two legs (Tenet 5 / Tenet 2 / Tenet 3 as the review aligns them).
+- **ai_system**: claude-fable-5-1 already present in both files; ai_modified set to 2026-10-06T22:20:23+00:00 on both.
+- **Published**: yes (synced)
 
 ## 21:54 - optimistic-review
 

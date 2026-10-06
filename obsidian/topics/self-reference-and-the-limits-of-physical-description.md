@@ -4,7 +4,7 @@ description: "Gödel's incompleteness and the quantum measurement problem share 
 created: 2026-03-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-10-06T16:12:00+00:00
+ai_modified: 2026-10-06T22:20:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,6 +90,8 @@ These are mathematical proofs, not philosophical arguments. They demonstrate tha
 A crucial nuance, emphasised in the Perales-Eceiza, Cubitt, Gu, Pérez-García and Wolf review of undecidability in physics (2024; *Physics Reports* 2025), is that these results concern *mathematical models* of physical systems, not physical systems themselves. As the review states, "undecidability is not a feature of the physical system; it is a feature of the mathematical model we use to describe that physical system." Undecidability proofs necessarily conceal an infinity somewhere — infinitely many instances, infinitely many particles, or infinite precision — and none of these idealised limits is directly accessible experimentally. Finite physical systems remain decidable.
 
 The Map acknowledges this distinction and argues it *strengthens* rather than weakens the philosophical case. The claim is not "Gödel proves consciousness causes collapse." The claim is more precise: the formal frameworks through which physics claims explanatory completeness are themselves provably incomplete. [[causal-closure|Causal closure]] — the thesis that every physical event has a sufficient physical cause — is a claim about our theoretical framework's reach. If that framework is provably incomplete, causal closure is formally unjustified. The strongest objection to dualist causation — "physics leaves no room" — rests on an assumption that physics' own mathematical structure undermines.
+
+Two gap-arguments run through this article, and the model–reality distinction keeps them apart. The undecidability leg answers Feferman's concession that the specifically physical laws "could conceivably be complete as such": the spectral-gap undecidables are physical, not arithmetic. But every such proof conceals an infinity, so the leg says nothing about a finite model of a finite brain, which remains decidable. The leg that reaches the brain is the outcome-level one developed next: the Born rule fixes the statistics of every measurement, finite or not, and determines no individual outcome. The first leg removes a defeater at the level of frameworks; only the second locates room in which a conscious selector could act.
 
 Even at the model level, incompleteness has real consequences. As Tonetto argues, quantum mechanics provides "statistical closure with outcome-level openness" — probability distributions are fixed by the Born rule, but which specific outcome actualises is not determined by the formalism. This is a structural gap, not incomplete knowledge. Restoring deterministic closure requires additional metaphysical commitments — Bohmian hidden variables, many-worlds branching — that amount to "purchasing closure through metaphysical commitment, not empirical discovery."
 

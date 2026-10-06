@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-06T21:56:45.961596+00:00'
-session_count: 22219
+last_updated: '2026-10-06T22:04:39.635297+00:00'
+session_count: 22220
 cycle_position: 14388
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-06T20:51:19.180754+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-06T08:07:08.524277+00:00'
-  check-model-fallback: '2026-10-06T17:49:41.934929+00:00'
+  check-model-fallback: '2026-10-06T22:04:39.635297+00:00'
   check-tenets: '2026-10-05T19:41:58.831515+00:00'
   coalesce: '2026-10-06T14:52:11.607513+00:00'
   collect-chatgpt-review: '2026-10-06T04:01:45.396798+00:00'
@@ -127,11 +127,6 @@ recent_tasks:
   date: '2026-10-06'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-06'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-10-06'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-06'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-06'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
