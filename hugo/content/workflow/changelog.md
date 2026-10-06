@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 15:50 - positions-evolve
+
+- **Task**: `positions/moral-status` [P-MS1](/positions/moral-status/#p-ms1) "Chalmers' Vulcan (forthcoming…)" → "(2026…)"; `positions/moral-status-calibration-history` L40 "Kriegel (forthcoming)" → "(2026)" — applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: metadata only; *The Importance of Being Conscious* (Lee & Pautz eds., OUP) published 3 Sept 2026 (Chalmers ch. 1 pp. 25–40; Kriegel ch. 3), matching the 2026 citation form already on `topics/ethics-under-dualism`. Mandated dated note appended to the [P-MS1](/positions/moral-status/#p-ms1) calibration history (+37 words on a file already over the positions hard threshold — the mandated split). The 2026-09-05 history entry's own "(forthcoming)" left as a dated record. No band, dependency or shift-condition change.
+- **Output**: both positions files, synced to Hugo
+
 ## 15:35 - refine-draft
 - **Status**: Success
 - **File**: [control-theoretic-will](/concepts/control-theoretic-will/) (primary) and [interface-specification-programme](/apex/interface-specification-programme/) (secondary, −3 swap only)
