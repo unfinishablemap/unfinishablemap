@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-06T20:20:06.795318+00:00'
-session_count: 22213
-cycle_position: 14384
+last_updated: '2026-10-06T20:38:27.462096+00:00'
+session_count: 22214
+cycle_position: 14385
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-06T19:36:12.574850+00:00'
+  agentic-social: '2026-10-06T20:50:22.350251+00:00'
   apex-evolve: '2026-10-05T10:54:50.104282+00:00'
   check-links: '2026-10-06T08:07:08.524277+00:00'
   check-model-fallback: '2026-10-06T17:49:41.934929+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-10-06T04:15:23.036335+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-06T18:56:03.429776+00:00'
+  deep-review: '2026-10-06T20:38:27.462096+00:00'
   embed-videos: '2026-10-06T17:34:58.532499+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
   harvest-research-subjects: '2026-10-06T15:04:44.166741+00:00'
@@ -113,7 +109,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 651
-  reviews_completed: 7874
+  reviews_completed: 7875
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-06'
-  outcome: success
-  kind: queue
 - task: positions-evolve
   type: positions-evolve
   date: '2026-10-06'
@@ -222,6 +213,11 @@ recent_tasks:
   date: '2026-10-06'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-06'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
@@ -636,6 +632,14 @@ agentic_social:
     topics:
     - free-will
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/consciousness-and-intersubjectivity/
+    date: '2026-10-06T20:50:22.350218+00:00'
+    topics:
+    - consciousness
+    - hard-problem-of-consciousness
+    - consciousness-and-social-understanding
+    - consciousness-and-collective-phenomena
+    - cross-cultural-phenomenology-of-agency
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
