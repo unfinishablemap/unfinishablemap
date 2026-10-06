@@ -1986,14 +1986,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-05-today-changed-pages-wing.md`
 - **Notes**: The apex synthesis phenomenal-variation-within-a-species (re-synthesised 2026-10-05) draws on this page, which has 0 body mentions of it; headroom about 604 (concepts hard 3,500). Install ONE piped wikilink `[[phenomenal-variation-within-a-species|existing words]]` on a phrase that genuinely refers to what the apex covers (within-species variation in experience, or the limits of cross-subject comparison), zero words preferred; if no phrase fits, one short sentence stating only what the apex says about DES (read the apex's DES passage first and mirror its calibration — the apex notes experience sampling cannot establish absence at zero). FIRST grep the body for the apex slug (frontmatter membership is not a link); a no-op if already linked. The driver applied the review's items 1-3 inline on 2026-10-05 (death-and-consciousness L77, responsibility-gradient L152, scale-types L65 pipe). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock (date -u; UTC, unquoted); changelog before sync; run scripts/sync.py and verify both trees (link resolves, zero `[[` in the hugo body). Do not commit; do not edit todo.md.
 
-### P2: `voids/resolution-void` L67 — "Below the JND, distinctions vanish from consciousness entirely. There is no experience of 'almost seeing a difference.' The boundary is categorical" — a psychometric point on a probabilistic function is not a phenomenal cut-off (outer-review 2026-10-06)
-- **Type**: refine-draft
-- **File**: obsidian/voids/resolution-void.md
-- **Review file**: `reviews/outer-review-2026-10-06-chatgpt-5-6-sol-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-10-06
-- **Notes**: From outer review 2026-10-06 §8 and item 18. L65 correctly defines the JND as "the minimum stimulus change detectable at least half the time"; L67 then treats it as a hard phenomenal border with "no intermediate state". A threshold defined at 50% detection is by construction a point on a probabilistic function that varies with criterion, attention, adaptation and procedure, and the categorical-perception literature the sibling void now carries (Gerrits & Schouten 2004; Schouten, Gerrits & van Hessen 2003) shows graded sensitivity and criterion effects around exactly such boundaries. Rewrite L67 so the floor is a region of declining detection probability, keep the priming/sub-threshold sentence (it survives unchanged), and check that L69's metamer paragraph ("entire scene-states collapse into one percept") does not re-import the binary. Pipe a link to `[[categorical-perception-void|…]]` on existing text if none is nearby. **Length measured 2026-10-06: 2545 body words against voids hard 3000 — 454 words; the pass should still be roughly neutral.** Sync Hugo. Update `ai_modified`.
-
 ### P3: positions-evolve — `positions/consciousness-scope` L77 still says "phoneme pruning, the demolished hardware" after the 2026-10-06 infant-consciousness recalibration
 - **Type**: positions-evolve
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/consciousness-scope.md
@@ -2054,6 +2046,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-06: `voids/resolution-void` L67 — "Below the JND, distinctions vanish from consciousness entirely. There is no experience of 'almost seeing a difference.' The boundary is categorical" — a psychometric point on a probabilistic function is not a phenomenal cut-off (outer-review 2026-10-06)
+- **Type**: refine-draft
+- **File**: obsidian/voids/resolution-void.md
+- **Notes**: From outer review 2026-10-06 §8 and item 18. L65 correctly defines the JND as "the minimum stimulus change detectable at least half the time"; L67 then treats it as a hard phenomenal border with "no intermediate state". A threshold defined at 50% detection is by construction a point on a probabilistic function that varies with criterion, attention, adaptation and procedure, and the categorical-perception literature the sibling void now carries (Gerrits & Schouten 2004; Schouten, Gerrits & van Hessen 2003) shows graded sensitivity and criterion effects around exactly such boundaries. Rewrite L67 so the floor is a region of declining detection probability, keep the priming/sub-threshold sentence (it survives unchanged), and check that L69's metamer paragraph ("entire scene-states collapse into one percept") does not re-import the binary. Pipe a link to `[[categorical-perception-void|…]]` on existing text if none is nearby. **Length measured 2026-10-06: 2545 body words against voids hard 3000 — 454 words; the pass should still be roughly neutral.** Sync Hugo. Update `ai_modified`.
 
 ### ✓ 2026-10-06: Terminology seam across `concepts/haecceity` (L69 heading "Why Consciousness Requires Haecceity" vs L71 "hospitable … without implying it"; individuation ≠ privileging) and `topics/consciousness-and-the-metaphysics-of-individuation` (L111 "This is not solipsism") — BOTH files, LENGTH-NEUTRAL (outer-review 2026-10-05)
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-09-27T09:55:13+00:00
+ai_modified: 2026-10-06T12:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-24
 last_curated: null
 last_deep_review: 2026-07-25T18:02:31+00:00
@@ -41,7 +41,7 @@ Understanding the debate requires distinguishing timescales that differ by many 
 | Revised microtubule | 10⁻⁵–10⁻⁴ s (10–100 μs) | Coherence in microtubule interior | Hameroff 2014 |
 | Mesoscopic coherent domains | 10⁻³–10⁻² s (1–10 ms) | Network effects (predicted) | Perry 2025 |
 | Gamma cycle | ~25 ms (40 Hz) | Neural binding oscillation | Crick & Koch 1990 |
-| Point of no return | ~200 ms | Motor action becomes ballistic | Schultze-Kraft 2016 |
+| Point of no return | ~200 ms | Movement onset can no longer be withheld | Schultze-Kraft 2016 |
 | Motor commitment | ~280 ms | Neural decision signature in PMd | Thura & Cisek 2014 |
 | Frontal theta (willed attention) | ~500 ms | Theta power increase during willed attention | Rajan et al. 2019 |
 | Readiness potential | ~550 ms | Pre-movement neural signal | Libet 1983 |
@@ -96,9 +96,9 @@ The ~500ms timing for willed attention's frontal theta signature is later than t
 
 ### Point of No Return
 
-Schultze-Kraft (2016) identified a "point of no return" at ~200ms before EMG onset. Brain-computer interface experiments showed that movements could be vetoed before this point but not after. Once neural activity crosses the 200ms threshold, execution becomes "ballistic"—no longer subject to conscious override.
+Schultze-Kraft et al. (2016) identified a "point of no return" at ~200ms before movement onset, measured by EMG. Brain-computer interface experiments showed that movement onset could be vetoed before this point but not after. Past the 200ms threshold a movement can no longer be withheld, though the authors note it can still be aborted or altered as it unfolds, so the cut-off is not strictly ballistic.
 
-This defines the veto window: consciousness can influence motor outcomes up to 200ms before execution, but not after. Any quantum mechanism for conscious selection must operate within this temporal constraint.
+This defines the veto window: consciousness can withhold a movement up to 200ms before execution, but not after. Any quantum mechanism for conscious selection must operate within this temporal constraint.
 
 ## Quantum Zeno: A Different Timing Logic
 

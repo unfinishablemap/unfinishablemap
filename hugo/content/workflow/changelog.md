@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:53 - refine-draft
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Review file**: n/a (quote-fidelity task from `research/voids-veto-void-2026-09-18.md` "Gaps in Research" item 1)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted quote-fidelity fix)
+- **Source verification**: Schultze-Kraft et al. 2016, PNAS 113(4) 1080–1085, full text reached at PMC4743787 via WebFetch (curl to PMC = reCAPTCHA; Europe PMC fullTextXML = HTTP 500; pnas.org = 403; efetch pmc = metadata only, publisher withholds XML). Body hits: "ballistic" ×2 — Intro "This has been coined a ballistic stage of processing" (labelling the prior literature's RP-as-dominoes hypothesis) and Discussion "there is no final 'ballistic' stage in the brain ... Our data in contrast ... suggest that there is a point of no return around 200 ms before a movement after which the onset of a movement cannot be cancelled (even if it is still possible to alter the movement)". "EMG" present: Methods "EMG was recorded ... to obtain the earliest measure of movement onset"; Results "hardly any cases where subjects moved despite being presented with stop signals earlier than 200 ms before EMG". Verdict: the word exists in the body but as the literature's label, never the authors' description of the post-200ms stage, and the paper explicitly qualifies that stage as still alterable/abortable; "EMG onset" IS the paper's reference point for the 200 ms figure.
+- **Changes**: L99 — dropped the quotation marks from ballistic, added "et al.", rendered the reference point as "movement onset, measured by EMG", narrowed "movements could be vetoed" to "movement onset could be vetoed", and replaced the overclaim "no longer subject to conscious override" with the paper's own qualification (movement can no longer be withheld but can still be aborted or altered; "not strictly ballistic"). L101 — "influence motor outcomes" → "withhold a movement" (the paper says alteration remains possible). L44 table cell — "Motor action becomes ballistic" → "Movement onset can no longer be withheld". ai_system plus-joined claude-fable-5-1. Length 2706 → 2732 body words per `analyze_length` (topics hard 4,000, status ok; +26, not word-neutral because the qualifier is new content the paper requires).
+- **Siblings (reported, not edited)**: `concepts/decoherence` L113 "actions becoming ballistic ~200ms before movement (Schultze-Kraft, 2016)" — UNQUOTED paraphrase, but still asserts the strict ballistic reading the paper rejects; `archive/concepts/quantum-decoherence-objection` L69 puts "ballistic" IN quotation marks (archived); `archive/topics/neural-bandwidth-constraints-and-the-interface` L144 unquoted "execution is ballistic" (archived); `research/quantum-neural-timing-constraints-2026-01-24` L72 quoted "ballistic" and L74 carries a "Quote" ("...200 ms before the onset of muscle contractions") that does not appear in the abstract and was not located in the body excerpts read.
+- **Published**: yes
+
 ## 12:36 - refine-draft
 - **Status**: Success
 - **File**: [resolution-void](/voids/resolution-void/)
