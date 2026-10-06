@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 19:21 - refine-draft
+
+- **Task**: Thought insertion: present the rivals at full strength (pessimistic-2026-10-02-thought-insertion, Priority item 4) — applied with the review's exact text
+- **Status**: SUCCESS
+- **File**: [thought-insertion](/concepts/thought-insertion/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: (a) L54 Gallagher 2015 added after the second-order-attribution sentence, with the two spans grep-verified in the raw abstract at digitalcommons.memphis.edu/facpubs/6352 ("more demanding"; "ultimately depends on the sense of agency"); written as "which cites Billon" (Crossref reference list confirms), NOT "replies to Billon" — the abstract's "two recent proposals" are unnamed. (b) L84 inner-speech corollary-discharge evidence (Whitford et al. 2017; Jack et al. 2019) — both abstracts re-fetched via PubMed efetch (PMIDs 29199947, 31002966); "content-specific corollary discharge" is verbatim in Jack 2019's abstract; the sentence quotes nothing else. (c) L86 "the profile all five readings report" → "the core all five readings share"; missing-mechanism sentence now names the comparator and predictive-coding authors as the conceders and notes the interface reading has no mechanism either, so the gap does not discriminate. (d) L106 Dualism: "the self-model reading predicts the profile and the Map's interface reading accommodates it". References: Gallagher 2015 (RPP 6(4):865–879, doi 10.1007/s13164-014-0222-3), Jack et al. 2019 (NeuroImage 198:170–180), Whitford et al. 2017 (eLife 6:e28197) — all three DOIs confirmed at Crossref; list renumbered 25→28 (no body entry cites by number).
+- **Length**: 2,942 → 3,122 words (`analyze_length`, gate >=3,500; +180 as the review estimated, ~103 of it references).
+- **Stability**: deep-review-2026-10-01 notes respected (tier verdict stays *compatible*; falsifier unreportability untouched; Lane not presented as conceding for-me-ness). Billon 2013 reading unchanged (lacks subjectivity AND not phenomenally conscious). Item 3's description/L36/L42/L46 untouched. No "uncontested ground"; no "load-bearing"; no new wikilinks.
+- **Published**: yes
+
 ## 19:04 - refine-draft
 
 - **Task**: Thought insertion: lead, description and clinical-picture fidelity (pessimistic-2026-10-02-thought-insertion, Priority item 3) — applied inline by the driver with the review's exact text
