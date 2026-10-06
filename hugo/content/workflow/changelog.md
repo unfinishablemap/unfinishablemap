@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:05 - refine-draft
+
+- **Task**: `topics/vertiginous-question` — propagate the 02:01Z register change from `concepts/egocentric-presentism` (pessimistic-2026-10-06-egocentric-presentism-indexical-cluster, Priority item 3); applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: L163 "answers it by construction:" → "answers it with a primitive first-personal fact:" (+3; "by construction" has 0 hits in List's texts); L189 "which *answers* the question by privileging one present per subject" → "which *keeps* the first-personal fact by privileging one present per subject" (+1). The two pages now agree that List's centred-worlds picture encodes the datum rather than explaining it. 10:37Z fixes untouched.
+- **Length**: 3,989 → 3,993 / 4,000 (topics hard; gate >=)
+- **Output**: `obsidian/topics/vertiginous-question.md`, synced to Hugo
+
 ## 13:36 - refine-draft
 - **Status**: Success
 - **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
