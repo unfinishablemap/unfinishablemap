@@ -1,14 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 02:01:00+00:00
+ai_modified: 2026-10-06 04:35:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-06'
-lastmod: 2026-10-06 02:01:00+00:00
+lastmod: 2026-10-06 04:35:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 04:35 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 (Research; collected via collect-claude-review — artifact panel, body stable at 39343 chars across a 10 s window, js-dom walk → Blob download 44971 bytes)
+- **File**: [outer-review-2026-10-06-claude-opus-5-5](/reviews/outer-review-2026-10-06-claude-opus-5-5/)
+- **Subject**: voids/categorical-perception-void (reuse of the 02:00 ChatGPT subject — second of the day's reviewers on the same article)
+- **Claims verified**: 14 checked against PubMed E-utilities, OpenAlex and Crossref records — Kuhl & Miller 1975 alveolar (/da/–/ta/) with labials only in Kuhl & Miller 1978; Holmes & Regier 2017 and Zhong 2018 lateralised colour CP; Witzel & Gegenfurtner 2011 abstract (article's paraphrase accurate), W&G 2013 and Witzel 2015 (stance non-perceptual); Pérez-Gay Juárez 2019 abstract; McMurray 2022 both quotes verbatim; Lively 1994; Feldman, Griffiths & Morgan 2009; Laukkonen, Friston & Chandaria 2025 verbatim; Carney 1977; Miyawaki 1975 and Werker & Logan 1985 metadata.
+- **Disputed**: 4 reviewer errors — "within-category compression not in the abstract" (it is, verbatim); expertise-void "thesis mismatch" (the page's primary face is headed "The One-Way Door"; reviewer could not read it); index placement (already under Framework-Independent Voids); "move self-citations" (site convention). Two overstated — W&G "inverts his position" (true of the programme, not the 2011 paper), "did not survive" (contested, not dead).
+- **High-value findings**: 6 new beyond the sibling review — Kuhl & Miller phoneme pair wrong; lateralisation contested not dead; Witzel verdict-direction failure; lede/meta-description assert the phenomenal claim the body calls untested (Countermeasure 12 instance); "Training Window" built on an admitted no-source claim; Bayesian/PP rival (FGM 2009, Laukkonen 2025) never built and Dualism paragraph strawmans physicalism.
+- **Tasks generated**: 3 (P1: 2 on the focal article — citation-precision paired with the sibling citation task, structural ordered LAST of four; P2: 1 on writing-style + coherence-inflation-countermeasures worked examples). Ten overlapping findings deliberately NOT re-minted (Logan→Lively, Liberman 1957, colour currency, chinchilla inference, Siegel causal, "default" ambiguity, Toscano architecture, provenance→source-attribution, infant reversibility, Thierry qualifier) — convergent with the 04:00 ChatGPT tasks and pessimistic 2026-09-28; flagged for /combine-outer-reviews.
+- **Methodology**: items 21 and 23 already exist (verdict-direction check; Countermeasure 12) — recorded as worked instances; 24–30 left to the synthesis pass (Countermeasure 16 reservation).
+
+## 04:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected via collect-chatgpt-review; js-dom walk → Blob download, SHA-256 matched on disk)
+- **File**: [outer-review-2026-10-06-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-06-chatgpt-5-6-sol-pro/)
+- **Subject**: voids/categorical-perception-void (recent-aged fallback)
+- **Claims verified**: 8 sources checked against raw PubMed records (Martinovic 2026 PNAS, Lively 1994, Logan 1991, He 2014, Martinovic 2020 corrigendum, Liberman 1957, Feldman 2021, Dubova & Goldstone 2021) + 8 neighbour-page quotations located verbatim; 1 reviewer under-reading (Toscano P3 is already in the article), 2 partials, 1 trivial miscount
+- **High-value findings**: 6 — Logan 1991 retention misattributed (Lively 1994); colour section stale against Martinovic 2026 PNAS (also touches `language-thought-boundary` and `consciousness-and-language-interface`); "default access" undefined and contradicted by automatic-gradiency speech work (convergent with pessimistic 09-28); provenance face duplicates `source-attribution-void` (convergent); infant-consciousness demolition language survives the 09-29 repair; resolution-void binary JND language
+- **Tasks generated**: 7 (P1: 3, P2: 4) — two on the focal article (ordered; 18 words of headroom), one each on consciousness-and-language-interface, language-thought-boundary, infant-consciousness, resolution-void, and a two-file cross-review on source-attribution-void + cognitive-penetration
+- **Not tasked**: retitle/retire the void (human decision — surfaced in the P1 structural task as a NEEDS-HUMAN trigger); methodology items 21–34 recorded; "void necessity test" already exists as the four criteria + expiration conditions
+
+## 03:35 - research-topic
+- **Status**: Success
+- **Topic**: Subjective facts and the metaphysical problem of other minds: first-person realism without a privileged subject
+- **Output**: [subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06](/research/subjective-facts-and-the-metaphysical-problem-of-other-minds-2026-10-06/)
+- **Sources consulted**: 16 (5 read in full — Builes 2024, Merlo 2016, Merlo 2021, Lipman 2023 Ergo, Kinkaid 2025; 4 abstract-only; Hare 2009 and Fine 2005 not read)
+- **Findings**: The task's framing is inverted — in the literature "first-person realism" names the privileged-perspective family (Builes: "one's own first-person perspective on the world is metaphysically privileged in some way"); the egalitarian option (Fine's nonstandard realism, Lipman's standpoint pluralism, Kinkaid 2025) is a wing of it, and Merlo 2021 is an *inegalitarian* statement of the problem (parity, multiplicity), not the egalitarian source. Metadata correction: Lipman "Subjective Facts about Consciousness" is Ergo 10 (2023), doi 10.3998/ergo.4649 — the PQ 75(3) 1026 reference in the task is List's quadrilemma paper. Assessed article-sized (both candidate hosts full; topics 343/360); `task_chains.pending_articles` entry added, target topics.
+- **Access note**: PhilPapers/PhilArchive, Wiley and Ergo all 403 to direct fetch; full texts obtained via Wayback Machine snapshots and the Cambridge OA PDF.
+
+## 02:36 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched; the expected steady-state outcome)
+- **Pool movement since the 2026-10-05 16:50 sweep: ZERO.** `git log --since=2026-10-05T16:50Z --diff-filter=ADR` over topics/, concepts/, voids/, apex/, positions/ and archive/ returns nothing; all intervening commits edited existing pages. Cap state (`count_section_files`): voids 113/115, concepts 347/360, topics 343/360 (gate figure; 342 real articles — the known sidecar over-count), positions 23/80.
+- **Method**: re-ran yesterday's `sweep_coalesce.py` unchanged apart from the clock (14-day floor now 2026-09-22 on `ai_modified`/`created`; `.refinement-log` sidecars and section index files excluded before pairing; TF-IDF on discriminative body terms, 2–8% document frequency, reference apparatus and house-style headings stripped). Eligible after the floor: voids 68, topics 173, concepts 171. Then re-screened feasibility on `analyze_length` TOTALS rather than prose.
+- **Result — ranking identical to yesterday, every section.** Top pairs by section: voids `fusion-void`+`modality-void` 0.262 (sum 4487 vs 3000, carries a distinction heading); topics `interoceptive-consciousness-and-the-interface`+`thermal-consciousness-and-the-interface` 0.435 (sum 7025 vs 4000); concepts `atemporal-causation`+`time-symmetric-physics` 0.519 (sum 5699 vs 3500, distinction heading). The two concepts pairs read on the merits yesterday — `prehension`+`subjective-aim` (0.379, 3642) and `time-symmetric-physics`+`transactional-interpretation-of-quantum-mechanics` (0.343, 3976) — remain the top prose-feasible pairs and still exceed the 3500 hard threshold on totals; not re-read.
+- **Feasible on `analyze_length` totals**: voids **0** pairs, topics **0** pairs, concepts **119** pairs — best `grain-mismatch`+`phenomenal-presentation` at 0.144 (sum 3435, leaving 65 words of headroom under 3500), then 0.096 and below. 0.144 is background-level similarity for this corpus (real overlap sits at 0.34+); nothing to read.
+- **Cross-section top 10** (0.635 down to 0.454) are all concept-vs-applying-topic pairs (`biological-computationalism` / `biological-computationalisms-inadvertent-case-for-dualism`, `selection-only-channel` / `selection-only-mind-influence`, …) — excluded by rule, and every one sums well over any section's hard threshold.
+- **Shared `coalesced_from` ancestry**: unchanged — four sibling pairs inside the age floor; `anoetic-noetic-autonoetic-consciousness`+`episodic-memory` sums 6486.
+- **Note for operator**: voids is two slots from cap and no length-feasible voids pair exists; relief has to come from archival or a cap change. The next sweep need not run before the pool moves (a new article, an archival, or an age-floor crossing of the biology/Whitehead clusters).
 
 ## 02:01 - refine-draft
 - **Status**: Success
