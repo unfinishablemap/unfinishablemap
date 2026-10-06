@@ -5,6 +5,14 @@ ai_modified: 2026-10-06 20:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 21:04 - refine-draft
+
+- **Task**: Fix the Arnauld attribution on quantum-divine-action and the Marmura seed in the non-interactionist-dualisms research note — applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: (1) `concepts/quantum-divine-action` L77 "This is Arnauld's classical *explains-too-much* charge in modern dress" → "This is the classical *explains-too-much* charge against occasionalism in modern dress" (word-neutral; no source credits Arnauld with the charge — his documented objection is that occasionalism "destroys the nature of intelligent beings, who would not be free if they did not, as real causes, form in themselves the determination of their will", verbatim at SEP Arnauld §4.4, and Nadler reads him as a mind-body occasionalist; the charge itself stays, matching concepts/occasionalism L53). (2) `research/non-interactionist-dualisms-2026-07-12` L42 — dated **[Correction 2026-10-06]** (not a silent rewrite): the co-possible / secondary-causality caution belongs to Griffel (with Perler, Rudolph; Moad 2023), while Marmura held al-Ghazālī "never deviated from occasionalism" (SEP Al-Ghazālī); this line seeded the inverted attribution fixed by deep-review-2026-10-02-occasionalism; Arnauld warning added so neither attribution re-seeds. `ai_modified` added to the note (it had none); `ai_system` plus-joined on both files.
+- **Length**: quantum-divine-action 2,877 → 2,877 / 3,500
+- **Output**: both files synced to Hugo
+
 ## 20:37 - deep-review
 - **Status**: Success
 - **File**: [[concepts/constitutive-vs-referring-observation]]

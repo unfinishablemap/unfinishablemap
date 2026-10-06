@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-08-07 19:01:31+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-06 21:04:30+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[occasionalism]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-07 19:01:31+00:00
-lastmod: 2026-08-07 19:01:31+00:00
+lastmod: 2026-10-06 21:04:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ The distinction that organises the rest of this page is between objections the M
 
 7. **Theodicy.** If God determines quantum outcomes—including the mutations behind cancers and the events behind natural disasters—God bears direct responsibility for natural evil. Qureshi-Hurst and Bennett press exactly this against NIODA's extensive agency over evolution and genetics. A creaturely selective channel does not universalize responsibility this way.
 8. **The deism-versus-occasionalism dilemma.** Too little divine action collapses toward deism (an absentee God); too much—Plantinga's "all collapses," Murphy's "every event"—collapses toward [occasionalism](/concepts/occasionalism/), God as the sole true cause, erasing creaturely causation. QDA at universal scope must thread a needle a selective channel sidesteps.
-9. **The scope / Born-statistics explosion.** This is Arnauld's classical *explains-too-much* charge in modern dress. If God sets *every* outcome, the observed Born statistics become brute divine habit rather than something explained, and the specificity of nature dissolves into one universal will. A selective, local biasing of a few events does not incur this explosion.
+9. **The scope / Born-statistics explosion.** This is the classical *explains-too-much* charge against occasionalism in modern dress. If God sets *every* outcome, the observed Born statistics become brute divine habit rather than something explained, and the specificity of nature dissolves into one universal will. A selective, local biasing of a few events does not incur this explosion.
 
 ### What the ledger does not settle
 

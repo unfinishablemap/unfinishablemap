@@ -3,7 +3,8 @@ title: Research Notes - Non-Interactionist Dualisms (Occasionalism, Parallelism,
 created: 2026-07-12
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
+ai_modified: 2026-10-06T21:04:30+00:00
 ---
 
 # Research: Non-Interactionist Dualisms — Occasionalism, Psychophysical Parallelism, and Pre-Established Harmony
@@ -39,7 +40,7 @@ This note surveys the three historical dualist theories that accept a real mind�
 - **Key points**:
   - The Seventeenth Discussion is the *locus classicus* for the occasionalist critique of causality: "the connection between what is habitually believed to be a cause and what is habitually believed to be an effect is not necessary."
   - The fire-and-cotton example: when fire contacts cotton, God (directly or through the mediation of angels) creates the burning; the fire is not the true agent.
-  - Scholarly caveat (Marmura and others): the chapter's internal structure offers *more than one* solution — thoroughgoing occasionalism is one reading, but a constrained secondary-causality reading is also present. Do not present al-Ghazālī as unambiguously occasionalist.
+  - Scholarly caveat (Marmura and others): the chapter's internal structure offers *more than one* solution — thoroughgoing occasionalism is one reading, but a constrained secondary-causality reading is also present. Do not present al-Ghazālī as unambiguously occasionalist. **[Correction 2026-10-06: attribution inverted. Per SEP *Occasionalism* (Lee, rev. 2019) the co-possible / secondary-causality caution belongs to Griffel (2007; 2009 pp. 147–73), with Perler and Rudolph, and Moad 2023; Marmura argued the opposite — SEP *Al-Ghazālī* (Griffel): "In Marmura's view, al-Ghazālī never deviated from occasionalism" (Marmura 1965, 183; 1981, 97; 2005, 145–52). This line seeded the inverted attribution on concepts/occasionalism (fixed by deep-review-2026-10-02-occasionalism). Separately: no source credits Arnauld with the explains-too-much charge; his documented objection to Malebranche is that occasionalism "destroys the nature of intelligent beings" (SEP Arnauld §4.4), and Nadler reads him as a mind-body occasionalist — do not re-seed either attribution.]**
 - **Tenet alignment**: Conflicts with Tenet 3. Historical antecedent showing the "God is the only cause" move predates Malebranche by ~six centuries.
 - **Quote (flagged — reproduced via secondary source; Marmura translation)**: the fire/cotton passage is often quoted as God being "the one who enacts the burning by creating blackness in the cotton … and making it cinder or ashes." Treat as reported; verify against Michael Marmura's translation (Brigham Young University Press) before quoting.
 
