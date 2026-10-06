@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 03:35:00+00:00
+ai_modified: 2026-10-06 04:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected via collect-chatgpt-review; js-dom walk → Blob download, SHA-256 matched on disk)
+- **File**: [[reviews/outer-review-2026-10-06-chatgpt-5-6-sol-pro]]
+- **Subject**: voids/categorical-perception-void (recent-aged fallback)
+- **Claims verified**: 8 sources checked against raw PubMed records (Martinovic 2026 PNAS, Lively 1994, Logan 1991, He 2014, Martinovic 2020 corrigendum, Liberman 1957, Feldman 2021, Dubova & Goldstone 2021) + 8 neighbour-page quotations located verbatim; 1 reviewer under-reading (Toscano P3 is already in the article), 2 partials, 1 trivial miscount
+- **High-value findings**: 6 — Logan 1991 retention misattributed (Lively 1994); colour section stale against Martinovic 2026 PNAS (also touches `language-thought-boundary` and `consciousness-and-language-interface`); "default access" undefined and contradicted by automatic-gradiency speech work (convergent with pessimistic 09-28); provenance face duplicates `source-attribution-void` (convergent); infant-consciousness demolition language survives the 09-29 repair; resolution-void binary JND language
+- **Tasks generated**: 7 (P1: 3, P2: 4) — two on the focal article (ordered; 18 words of headroom), one each on consciousness-and-language-interface, language-thought-boundary, infant-consciousness, resolution-void, and a two-file cross-review on source-attribution-void + cognitive-penetration
+- **Not tasked**: retitle/retire the void (human decision — surfaced in the P1 structural task as a NEEDS-HUMAN trigger); methodology items 21–34 recorded; "void necessity test" already exists as the four criteria + expiration conditions
 
 ## 03:35 - research-topic
 - **Status**: Success
