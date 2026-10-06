@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 22:51:30+00:00
+ai_modified: 2026-10-06 23:12:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:12 - deep-review
+
+- **Status**: Success
+- **File**: [[concepts/quantum-divine-action]]
+- **Word count**: 2879 → 2923 (+44, all References; prose 2451 → 2453 vs 2500 soft — length-neutral)
+- **Critical issues addressed**: 2 — (1) series dates "(1990s–2002)" → "(1993–2001)" per Russell's own bibliography (1993/1995/1998/1999/2001); (2) the quantum-to-mutation amplification pathway was credited to Ellis as a "concrete pathway" he "explores"; Ellis 2001 lists mutation among amplifier examples, the dedicated defence is Russell 1998 "Special Providence and Genetic Mutation" (EMB 191–223) — the proposal Qureshi-Hurst & Bennett 2021 actually target at objection 2. Rewritten, Russell 1998 added as ref 5 (refs 5–13 → 6–14; no in-body numeric markers). The 08-07 "consistent with Russell's chapter (Ellis 2001: 259–62)" clearance cited Russell's general-providence / bulk-quantum-state pages, not mutation.
+- **Medium issues addressed**: 1 — objection 4's "only non-physics-facing item" (true when the column had four rows) tightened to "turns on neither physics nor its interpretation", true of all six. Offsets: two restating sentences cut (L87 "agree here almost word for word", L89 "Simplicity does not track truth…").
+- **Lens**: raw-source quote verification. Russell's Oxford Handbook chapter (austral.edu.ar host now 404; fetched the Wayback OUP PDF, 10,324 words) — "must not be based on epistemic gaps", "without sufficient prior conditions, constraints, or causes" / "seems to violate the principle of sufficient reason", the Wildman "deep structures of nature" span, "Tracy explores the option", the self-contradictory-tetralemma reply: all verbatim. Plantinga 2008 full text re-grepped: "without in any way ''violating'' the created natures" verbatim; abstract supports the "cannot even define intervention" claim; "all collapse-outcomes … caused by God" supports "tends toward all collapses". Crossref re-pinned all four DOIs + Wildman 2004 (DOI 10.1080/1474670042000196612). Qureshi-Hurst & Bennett 2021 abstract: result-direction faithful at objections 2 and 7. Superlative sweep empty.
+- **Engagement classification**: unchanged — selective (Tracy-style) QDA: Mode Three, stated; Murphy/Plantinga: Mixed (Mode One at objection 1 and the mind-conditioned-test point, Mode Three residue). No label leakage.
+- **Carry-forward**: 2026-10-06 refine-draft (Arnauld → "classical charge against occasionalism") read against `concepts/occasionalism` L53 — additive-safe. No sweep withdrawals on this file.
+- **Enhancements made**: 1 (objection 2's critique now has its named target in the article)
+- **Output**: [[reviews/deep-review-2026-10-06-quantum-divine-action]]
 
 ## 22:51 - refine-draft
 
