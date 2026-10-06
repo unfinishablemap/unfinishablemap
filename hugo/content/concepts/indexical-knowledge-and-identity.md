@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-10-04 14:06:05+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-06 01:23:51+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/indexical-facts/
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 20:39:01+00:00
-lastmod: 2026-10-04 14:06:05+00:00
+lastmod: 2026-10-06 01:23:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,9 +53,9 @@ Indexical knowledge is knowledge expressible only through context-dependent term
 
 ## Perry's Essential Indexical
 
-John Perry's 1979 paper established the modern framework. Perry follows a trail of sugar through a supermarket, intending to find the careless shopper. He knows "someone with a torn bag is making a mess." Then he realises: *I am making the mess*. The impersonal belief and the indexical belief describe the same state of affairs, yet only the indexical belief prompts him to check his own cart.
+John Perry's 1979 paper established the modern framework. Perry follows a trail of sugar through a supermarket, seeking the shopper with the torn sack to tell him he is making a mess. In his own words: "I believed at the outset that the shopper with a torn sack was making a mess. And I was right. But I didn't believe that I was making a mess." The description was true of Perry all along—the shopper *was* Perry—yet only when he came to believe *I am making a mess* did he stop and look in his own cart.
 
-The motivational difference is the clue. If "I am making the mess" were merely another way of representing "Perry is making the mess," then someone who already believed the latter should act accordingly. But Perry *did* believe that Perry was making a mess—he just didn't connect this to himself. The indexical belief adds something the third-person description lacks: a link between the proposition and the subject's capacity to act.
+The motivational difference is the clue, and the case holds three things apart. There is the extensional fact (the shopper with the torn sack is John Perry); there is the belief Perry already held, that the shopper with the torn sack is making a mess; and there is the self-ascription he lacked, *I am making a mess*. Substituting a name for the description does not close the gap. Had Perry explained himself in the manner of de Gaulle, "I came to believe that John Perry is making a mess," the report "would no longer have explained why I stopped and looked in my own cart. To explain that I would have to add, 'and I believe that I am John Perry,' bringing in the indexical again." Nor does a *de re* belief, of John Perry, that he is making a mess suffice: in Perry's mirror variant he spots his own reflection, takes it for the culprit, and holds exactly that belief about himself while accelerating in pursuit. What the indexical belief adds is the recognition of the messy shopper "not merely as the shopper with the torn sack, or the man in the mirror, but as me"—a link between the content and the subject's capacity to act.
 
 Perry's conclusion: some beliefs are essentially indexical. They cannot be replaced by any set of impersonal beliefs without loss. The "I" in "I am making the mess" is not eliminable in favour of a name, description, or coordinate.
 
@@ -71,13 +71,13 @@ This self-locating knowledge requires something beyond omniscience about the wor
 
 ## Three Grades of Indexical Knowledge
 
-Not all indexical knowledge is alike. Drawing on the distinctions in the literature, three grades can be usefully distinguished:
+Not all indexical knowledge is alike. Three grades can be usefully distinguished; the first two draw on distinctions in the literature, the third is the Map's own extension of them:
 
 **Perspectival knowledge** is the weakest grade. Knowing "it is raining here" rather than "it is raining in London" involves an indexical, but the content is readily translatable. Most spatial and temporal indexicals fall into this category.
 
 **Self-locating knowledge** is stronger. Lewis's Two Gods each know every impersonal fact yet cannot determine which god they are. The knowledge "I am the mountain god" cannot be derived from any impersonal description. This is where the distinction between [epistemic and metaphysical theses](#from-epistemic-to-metaphysical) (explained below) becomes critical.
 
-**Phenomenal indexical knowledge** is the strongest grade. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [knowledge-argument](/concepts/knowledge-argument/). Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)—direct experiential contact with qualitative character. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience, making it a [consciousness-only territory](/voids/consciousness-only-territories/) inaccessible to systems lacking phenomenal experience.
+**Phenomenal indexical knowledge** is the strongest grade, and a Map synthesis rather than a category found in Perry or Lewis. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [knowledge-argument](/concepts/knowledge-argument/). Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)—direct experiential contact with qualitative character. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience, making it a [consciousness-only territory](/voids/consciousness-only-territories/) inaccessible to systems lacking phenomenal experience.
 
 These grades are cumulative. Phenomenal indexical knowledge includes self-locating knowledge, which in turn includes perspectival knowledge. But each stronger grade adds something the weaker grades lack.
 
@@ -85,7 +85,7 @@ These grades are cumulative. Phenomenal indexical knowledge includes self-locati
 
 The philosophical significance turns on a crucial distinction:
 
-**The epistemic thesis**: Indexical knowledge is cognitively irreducible. No amount of impersonal information generates the belief "I am this person." Perry's case and Lewis's Two Gods establish this convincingly. Even philosophers sceptical of indexical *facts* generally accept that indexical *knowledge* has distinctive cognitive and motivational properties.
+**The epistemic thesis**: Indexical knowledge is cognitively irreducible. No amount of impersonal information generates the belief "I am this person." Perry's case and Lewis's Two Gods establish this convincingly—and establish only this. Lewis's own treatment of the gods, in the same 1979 paper, analyses knowledge *de se* as the self-ascription of properties: what the mountain god lacks is a self-ascribed property, not a fact missing from the complete impersonal description. Perry likewise locates the difference in the believer's *belief state* rather than in what is believed. Both accounts are serious deflationary competitors to the metaphysical thesis rather than allies of it, and the Map has not answered them; the arguments below open the case for the stronger thesis rather than close it. Even philosophers sceptical of indexical *facts* generally accept that indexical *knowledge* has distinctive cognitive and motivational properties.
 
 **The metaphysical thesis**: Indexical knowledge tracks ontologically real indexical facts—features of reality that impersonal description cannot capture. A deflationist might grant that indexical *beliefs* are cognitively special while insisting the *world* contains only impersonal facts.
 
@@ -107,7 +107,7 @@ Physics aims to describe reality in context-independent terms—particle positio
 
 A complete physical description of the universe would specify every brain, every neural pattern, every conscious experience (if consciousness is physical). But would it tell you which brain is yours? The description treats all brains equally: no brain is privileged as "the one I am," and the indexical fact that *this* brain is mine adds something it lacks.
 
-This connects to the [knowledge-argument](/concepts/knowledge-argument/). Frank Jackson's (1982) Mary knows all physical facts about colour vision but lacks phenomenal indexical knowledge of *what it is like* to see red. The gap between her pre-release and post-release knowledge is precisely the gap between impersonal and phenomenal indexical knowledge.
+This connects to the [knowledge-argument](/concepts/knowledge-argument/). Frank Jackson's (1982) Mary knows all physical facts about colour vision but lacks what the Map calls phenomenal indexical knowledge of *what it is like* to see red. The gap between her pre-release and post-release knowledge is precisely the gap between impersonal and phenomenal indexical knowledge.
 
 Science aspires to describe reality from no particular perspective—Thomas Nagel's "view from nowhere." But consciousness *is* perspective. The first-person dimension of indexical knowledge resists incorporation into the objective picture. The limitation is structural, not practical.
 
@@ -159,7 +159,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reports of indexical knowledge—"I see red," "this hurts," "I am here"—are physical events. If indexical knowledge were epiphenomenal, these reports would be causally disconnected from the knowledge itself. A functionalist might respond that physical states carrying indexical representational content suffice to explain this, but that concedes the point: whatever produces these reports must track the indexical fact, not merely the impersonal state of affairs. The reliability of first-person reports suggests [causal influence](/concepts/agent-causation/) flowing from consciousness to physical outcomes.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Eliminating indexical facts seems parsimonious—fewer kinds of facts, simpler ontology. But Perry's case shows this parsimony fails: the impersonal description cannot explain why learning "I am making the mess" changes behaviour when "Perry is making the mess" does not. Simplicity that cannot account for the most familiar features of cognition is inadequate.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Eliminating indexical facts seems parsimonious—fewer kinds of facts, simpler ontology. But Perry's case shows that the parsimony has to be paid for: the impersonal description cannot explain why learning "I am making a mess" changes behaviour when "John Perry is making a mess" does not. Lewis's self-ascription account and Perry's belief-state account pay for it without adding facts to the world, so the razor cuts against the metaphysical thesis only if those accounts succeed—which is the question at issue, not a result the razor can presuppose.
 
 ## Further Reading
 
