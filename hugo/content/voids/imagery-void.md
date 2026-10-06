@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-08-20 16:26:44+00:00
+ai_modified: 2026-10-06 06:27:32+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 19:46:22+00:00
-lastmod: 2026-08-20 16:26:44+00:00
+lastmod: 2026-10-06 06:27:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -81,7 +81,7 @@ The void is not a philosopher's construction. Three empirical anchors hold it in
 
 **The Würzburg School (c. 1900–1915).** Külpe, Ach, Bühler, Marbe, and Watt used "systematic experimental introspection" on quick categorization tasks and discovered that subjects could name a fruit—say, "apple"—swiftly without reporting any image of an apple. They posited *Bewußtseinslagen* (conscious sets), *Bewußtheiten* (awarenesses), and *Gedanken* (thoughts) as alleged non-imagistic conscious contents. Wundt called the studies "sham experiments"; the controversy helped end introspection as a respectable scientific method and ushered in behaviorism. The discovery was effectively forgotten for nearly a century.
 
-**The aphantasia rediscovery (2015 onward).** Zeman's clinical case "MX" in 2010 reopened the territory Würzburg closed. The post-2015 literature has produced behavioral signatures (skin conductance, autobiographical memory differences), neural correlates, task-strategy differences, and a 2025 *Mind & Language* exchange debating whether aphantasics have *unconscious* imagery (Nanay 2025; Scholz 2025). A 2026 *Brains Blog* post on the unconscious-imagery question summarised the state of the art with characteristic honesty: "we still don't know."
+**The aphantasia rediscovery (2015 onward).** Zeman's clinical case "MX" in 2010 reopened the territory Würzburg closed. The post-2015 literature has produced behavioral signatures (skin conductance, autobiographical memory differences), neural correlates, task-strategy differences, and a 2025 *Mind & Language* exchange debating whether aphantasics have *unconscious* imagery (Nanay 2025; Scholz 2025). Andrea Blomkvist's April 2025 *Brains Blog* commentary on the unconscious-imagery question summarised the evidence with characteristic honesty: "we still don't know."
 
 The Würzburg-aphantasia recurrence is itself evidence the void is structural rather than methodological. The same phenomenon surfaces twice across a century with the same controversy structure, under different vocabularies and instruments. The territory keeps producing this shape because the shape is real.
 

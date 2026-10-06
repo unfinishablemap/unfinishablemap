@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 06:27 - deep-review
+- **Status**: Success
+- **File**: [aphantasia](/topics/aphantasia/)
+- **Word count**: 2699 → 2759 (+60)
+- **Critical issues addressed**: 5 (Galton sample "one hundred Royal Society fellows" → 100 men / 19 FRS / 172 Charterhouse boys; spliced Galton quote "I have no power of visualising" → respondent 95's "No power of visualising"; Kay et al. 2024 inline quote "slower but more accurately" → abstract-verbatim "slower, but more accurate responses than controls"; dropped "favoured" qualifier and misdescribed angular-disparity signature in § Cognitive Equivalence; *Brains Blog* "we still don't know" mis-dated 2026 → Blomkvist, 1 April 2025, added as reference #14)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2
+- **Propagation**: `voids/imagery-void.md` L80 carried the same 2026 mis-date (inherited from `research/voids-imagery-void-2026-04-28.md` L226); corrected in place, `ai_modified` bumped only
+- **Engagement classification**: generic functionalism (option 2): Mode Three — boundary marked honestly, cumulative wedge offered as pressure not refutation
+- **Note**: fifth pass; only delta since 08-01 was one Further Reading link. Four prior ledgers certified quoted strings by provenance ("drawn from primary sources") without grepping raw text; this pass grepped Galton (psychclassics), Kay (OpenAlex abstract) and the Blomkvist page and found all four defects there
+- **Output**: [deep-review-2026-10-06-aphantasia](/reviews/deep-review-2026-10-06-aphantasia/)
+
 ## 06:16 - refine-draft
 - **Status**: Success (partial — three items deferred on the length gate)
 - **File**: [categorical-perception-void](/voids/categorical-perception-void/)

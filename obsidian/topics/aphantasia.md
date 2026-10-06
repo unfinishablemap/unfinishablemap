@@ -4,8 +4,8 @@ description: "Human+AI exploration of aphantasia—the absence of voluntary ment
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-08-04T03:15:23+00:00
-last_deep_review: 2026-08-01T22:45:13+00:00
+ai_modified: 2026-10-06T06:27:32+00:00
+last_deep_review: 2026-10-06T06:27:32+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[source-attribution-divergence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-05-08
 last_curated:
 embedded_videos:
@@ -62,7 +62,7 @@ At the opposite end of the spectrum, hyperphantasics describe imagery "as vivid 
 
 ## A Brief History
 
-**Galton (1880).** The first systematic survey of mental imagery polled one hundred Royal Society fellows and a wider non-scientific sample, asking subjects to picture their breakfast table and rate its vividness, colour, and detail. Galton was looking for uniformity. He found a spectrum running from confident absence ("I have no power of visualising") to "perfectly distinct" presence with full colour. Notably, the scientific cohort skewed toward weak imagery while the general sample skewed toward strong imagery, prompting Galton's now-famous, and likely overdrawn, conjecture that abstract thought might suppress visualisation.
+**Galton (1880).** The first systematic survey of mental imagery polled 100 adult men—nineteen of them Fellows of the Royal Society, and at least half "distinguished in science or in other fields of intellectual work"—together with 172 Charterhouse schoolboys, asking respondents to picture their breakfast table and rate its vividness, colour, and detail. Galton was looking for uniformity. He found a spectrum running from confident absence (respondent 95: "No power of visualising") to "perfectly distinct" presence with full colour. Notably, the scientific cohort skewed toward weak imagery while the general sample skewed toward strong imagery, prompting Galton's now-famous, and likely overdrawn, conjecture that abstract thought might suppress visualisation.
 
 **The Würzburg School (c. 1900–1915).** Külpe, Marbe, Bühler, Ach, and Watt used "systematic experimental introspection" on rapid categorisation tasks and found that subjects could name a fruit—say, "apple"—swiftly without reporting any imagistic content. They posited *imageless thought* as a real category and gave it taxonomic structure (*Bewußtseinslagen*, *Bewußtheiten*, *Gedanken*). Wundt called the studies "sham experiments." The controversy helped end introspection as a respectable scientific method and ushered in behaviourism, which simply took the question off the table. The Würzburg observation was effectively forgotten for nearly a century.
 
@@ -76,7 +76,7 @@ The post-2010 literature has converged on several signatures that make aphantasi
 
 **Skin conductance to scary stories.** Wicken, Keogh, and Pearson (2021) found that aphantasics show significantly attenuated skin conductance responses while reading frightening text passages, compared with vivid imagers. The autonomic system is responding (or not) to something imagery-shaped that diverges across the spectrum independent of self-report.
 
-**Mental rotation.** [Kay, Keogh & Pearson (2024)](https://www.sciencedirect.com/science/article/pii/S1053810024000618) report that aphantasics perform classical mental rotation tasks "slower but more accurately" than control imagers. Both groups exhibit the standard linear relation between angular disparity and response time, but aphantasics use analytic, feature-based strategies while imagers use object-based mental rotation. The authors conclude that "visual imagery is not crucial for successful performance in classical mental rotation tasks, as alternative strategies can be effectively utilised in the absence of holistic mental representations."
+**Mental rotation.** [Kay, Keogh & Pearson (2024)](https://www.sciencedirect.com/science/article/pii/S1053810024000618) report that on classical mental rotation tasks aphantasics gave "slower, but more accurate responses than controls." Both groups exhibit the standard linear relation between angular disparity and response time, but aphantasics favour analytic, feature-based strategies while imagers generally favour object-based mental rotation. The authors conclude that "visual imagery is not crucial for successful performance in classical mental rotation tasks, as alternative strategies can be effectively utilised in the absence of holistic mental representations."
 
 **Vividness independent of fidelity.** Larner (2024) and earlier work find that self-reported vividness is largely independent of perceptual or memory precision. Hyperphantasics, despite reporting near-photographic imagery, do not in general show better fidelity to remembered targets. Confidence in imagery is poorly calibrated to its accuracy because the only available calibration tool is the imagery itself.
 
@@ -88,7 +88,7 @@ These signatures show that something imagery-shaped is happening differently acr
 
 ## Cognitive Equivalence and the Function Gap
 
-The most philosophically charged finding is the cognitive near-equivalence. Aphantasics do most of what imagers do. They recognise faces, recall scenes, plan routes, navigate, perform mental arithmetic, write fiction, paint, and—as Kay et al. show—solve mental rotation problems matching the standard angular-disparity signature of object-based rotation. They achieve task-level functional equivalence by alternative means.
+The most philosophically charged finding is the cognitive near-equivalence. Aphantasics do most of what imagers do. They recognise faces, recall scenes, plan routes, navigate, perform mental arithmetic, write fiction, paint, and—as Kay et al. show—solve mental rotation problems while reproducing the standard angular-disparity signature, despite favouring analytic rather than object-based strategies. They achieve task-level functional equivalence by alternative means.
 
 This sets up the central wedge. If two minds perform demonstrably the same cognitive task with phenomenally divergent inner content, three options open:
 
@@ -100,7 +100,7 @@ Each option is metaphysically loaded. Option 1 makes phenomenal imagery a candid
 
 Preston Lennon's "Aphantasia and Conscious Thought" (2023) adds a consideration that cuts across all three. If aphantasics have conscious thought without sensory imagery, the phenomenology of thought is not exhausted by sensory content—which is direct empirical pressure toward the liberal side of the [[cognitive-phenomenology-and-the-irreducibility-of-thought|cognitive phenomenology]] dispute. Lennon's further suggestion is diagnostic rather than probative: the dispute itself may turn on interpersonal variation in imagery, with each side introspecting a genuinely different architecture and generalising from its own case. Conservatives can still redescribe aphantasic thought as residual inner speech, so the pressure is real without being decisive.
 
-The [[imagery-void|imagery void]] gives the abstract structural treatment of why this trichotomy cannot be settled from inside the imager's perspective. The 2025 *Mind & Language* exchange between Bence Nanay and Christian Scholz takes a different route, asking whether aphantasics have *unconscious* imagery: imagery-shaped neural activity that does the cognitive work imagers consciously experience. Nanay (2025) argues the predictive-processing framework supports this reading; Scholz (2025) argues that the unconscious-imagery hypothesis stretches the concept of imagery beyond useful definition. As of 2026, the dispute remains open—a 2026 *Brains Blog* summary of the state of the art described it with characteristic honesty: "we still don't know."
+The [[imagery-void|imagery void]] gives the abstract structural treatment of why this trichotomy cannot be settled from inside the imager's perspective. The 2025 *Mind & Language* exchange between Bence Nanay and Christian Scholz takes a different route, asking whether aphantasics have *unconscious* imagery: imagery-shaped neural activity that does the cognitive work imagers consciously experience. Nanay (2025) argues the predictive-processing framework supports this reading; Scholz (2025) argues that the unconscious-imagery hypothesis stretches the concept of imagery beyond useful definition. As of 2026, the dispute remains open. Andrea Blomkvist's April 2025 *Brains Blog* commentary, surveying the empirical evidence on both sides, put the state of play in its title with characteristic honesty: "Unconscious imagery in aphantasia? Spoiler: we still don't know" (Blomkvist 2025).
 
 ## Why Single-Species Variation Matters
 
@@ -148,7 +148,8 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 11. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
 12. Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*, 40(3), 333–340. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
 13. Scholz, C. O. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*, 40(3), 317–324. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560
-14. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
-15. Mental Imagery. *Stanford Encyclopedia of Philosophy* (first published 2021; substantive revision 12 January 2026). https://plato.stanford.edu/entries/mental-imagery/
-16. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
-17. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Phenomenology-vs-Function Axis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-vs-function-axis/
+14. Blomkvist, A. (2025, 1 April). Unconscious imagery in aphantasia? Spoiler: we still don't know. *The Brains Blog*. https://philosophyofbrains.com/2025/04/01/unconscious-imagery-in-aphantasia-spoiler-we-still-dont-know.aspx
+15. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
+16. Mental Imagery. *Stanford Encyclopedia of Philosophy* (first published 2021; substantive revision 12 January 2026). https://plato.stanford.edu/entries/mental-imagery/
+17. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
+18. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Phenomenology-vs-Function Axis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-vs-function-axis/
