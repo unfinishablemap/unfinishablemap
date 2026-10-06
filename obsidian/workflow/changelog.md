@@ -5,6 +5,13 @@ ai_modified: 2026-10-06 20:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 20:04 - refine-draft
+
+- **Task**: `project/architecture-vs-significance-two-tier-discount` L67 — attach each limb to its own conclusion (pessimistic-2026-10-06-for-me-ness-mine-ness-edits, item 1) — applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: (a) the one-way-separability clause now concludes that the for-me tag is distinct from the sense of agency, with the content limb carrying the "distinct from the bare having of experience" claim (+8); (b) "ownership without felt agency" → "ownership (acknowledged in judgement; felt, on Gallagher's account) without felt agency" (+7). Billon p. 296 spans and the Knappik clause untouched; the 17:19Z one-way-separability conclusion stays.
+- **Output**: synced to Hugo (project doc, ungated)
+
 ## 20:00 - pessimistic-review
 - **Status**: Success (reports only; no content or todo edits)
 - **Content reviewed**: today's for-me-ness / mine-ness edits read together — `concepts/thought-insertion` (19:04Z, 19:21Z), `concepts/self-and-self-consciousness` (18:08Z), `project/architecture-vs-significance-two-tier-discount` (17:19Z), `research/thought-insertion-2026-10-01` (17:04Z) — plus the untouched `concepts/mine-ness` §Thought Insertion they now depend on

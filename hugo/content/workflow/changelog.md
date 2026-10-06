@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 18:54:00+00:00
+ai_modified: 2026-10-06 20:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-06'
-lastmod: 2026-10-06 18:54:00+00:00
+lastmod: 2026-10-06 20:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:04 - refine-draft
+
+- **Task**: `project/architecture-vs-significance-two-tier-discount` L67 — attach each limb to its own conclusion (pessimistic-2026-10-06-for-me-ness-mine-ness-edits, item 1) — applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: (a) the one-way-separability clause now concludes that the for-me tag is distinct from the sense of agency, with the content limb carrying the "distinct from the bare having of experience" claim (+8); (b) "ownership without felt agency" → "ownership (acknowledged in judgement; felt, on Gallagher's account) without felt agency" (+7). Billon p. 296 spans and the Knappik clause untouched; the 17:19Z one-way-separability conclusion stays.
+- **Output**: synced to Hugo (project doc, ungated)
+
+## 20:00 - pessimistic-review
+- **Status**: Success (reports only; no content or todo edits)
+- **Content reviewed**: today's for-me-ness / mine-ness edits read together — `concepts/thought-insertion` (19:04Z, 19:21Z), `concepts/self-and-self-consciousness` (18:08Z), `project/architecture-vs-significance-two-tier-discount` (17:19Z), `research/thought-insertion-2026-10-01` (17:04Z) — plus the untouched `concepts/mine-ness` §Thought Insertion they now depend on
+- **Verified**: Gallagher 2015 spans re-fetched raw from the Memphis repository abstract (both inside one sentence; "cites Billon" confirmed at Crossref); HPZ p. 7 via the 10-01 deep-review ledger; the 18:08Z trims strand nothing (grep across obsidian/ + archive/, 20 inbound anchors all intact)
+- **Findings**: two-tier L67 attaches the content limb's conclusion ("rather than identical to the bare having of experience") to the agency limb's OCD evidence, and Billon's "will acknowledge" is an ownership judgement, not the phenomenal tag; thought-insertion L106 says self-model *predicts* / interface *accommodates* and in the same line "neither suggestive nor discriminating", and no corpus page states an interface reading of thought insertion; self-and-self-consciousness L148 quotes HPZ's verdict in the indicative where thought-insertion L94/L98 calls it the point in dispute; mine-ness L82 still states the agency reading as "the actual phenomenology" with a constructed patient quote and no `[[thought-insertion]]` link; L84 "forward-model signal for thought" generalises inner-speech evidence
+- **Priority list**: 4 items (two-tier L67 +15; thought-insertion L106/L84 +13 of 377; self-and-self-consciousness L148 +4 of 13; mine-ness L82 +1 of 1). The "leaving agency intact" inconsistency is left to the queued P3 (todo L1944); the for-me-ness/mineness vocabulary collision is flagged for the human, not minted
+- **Output**: [pessimistic-2026-10-06-for-me-ness-mine-ness-edits](/reviews/pessimistic-2026-10-06-for-me-ness-mine-ness-edits/)
 
 ## 19:21 - refine-draft
 
