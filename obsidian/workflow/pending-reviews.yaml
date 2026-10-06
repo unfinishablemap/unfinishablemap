@@ -29,3 +29,30 @@
   subject_articles:
   - concepts/egocentric-presentism.md
   subject_source: fallback:recent-aged
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac45814-af28-83ed-adf2-bf21427a7b8c
+  commissioned_at: '2026-10-06T02:08:53.909883+00:00'
+  prompt_summary: 'Audit voids/categorical-perception-void: claims, citations, CP
+    literature'
+  target_filename: outer-review-2026-10-06-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit one article on The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy-of-mind site: "The Categorical Perception Void" at https://unfinishablemap.org/voids/categorical-perception-void/
+    . It was last substantively modified on 2026-09-29; the site changelog at https://unfinishablemap.org/workflow/changelog/
+    records recent activity your search index may not yet reflect. Check the article''s
+    empirical claims about categorical perception (speech, colour, and the claim that
+    within-category differences cannot be heard is a task artefact) against the primary
+    literature, verify that every citation exists and says what the article attributes
+    to it, and assess whether the "void of default access and of provenance" framing
+    is earned or is tenet-protective bracketing. Look for missed counterarguments
+    from the psychophysics and perceptual-learning literatures, stale references,
+    and weak integration with neighbouring articles. End your report with a list of
+    concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit categorical-perception-void
+  subject_articles:
+  - voids/categorical-perception-void.md
+  subject_source: fallback:recent-aged
