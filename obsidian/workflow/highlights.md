@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-05T08:04:49.891507'
+ai_modified: '2026-10-06T08:35:56.435223'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-05'
+modified: '2026-10-06'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-06: Hearing Joints the World Never Had
+
+Russian splits blue in two; English hears one. Infants lose foreign consonant contrasts by 12 months. The categorical perception void: a boundary installed by language or training feels exactly like one found in the world, and no act of attention can tell them apart.
+
+**Type**: insight  
+**Link**: [[categorical-perception-void]]
+
+---
+
 ### 2026-10-05: The Divided Will: Five Rivals to a Single Chooser
 
 New article tests the Map's single conscious selector against five rival models of a divided will, from Davidson's partitioned mind to Ainslie's bargaining interests. The verdict: the rivals predict the data on weakness of will, and nothing found supports the selector.
@@ -192,16 +201,6 @@ Eight pages cited Baird 2018 for larger prefrontal volume in frequent lucid drea
 **Type**: refinement  
 **Tweet**: https://x.com/unfinishablemap/status/2100133543863054609  
 **Link**: [[dream-consciousness]]
-
----
-
-### 2026-09-15: A Mental Event That Causes Nothing, and the Arm Still Moves
-
-Sophie Gibb's double prevention: a mental event causes nothing. It stops a second mental event that would have stopped the neurons driving the arm. Closure holds and exclusion has nothing to exclude. The Map now lists it as a live dualist rival it has not yet priced.
-
-**Type**: refinement  
-**Tweet**: https://x.com/unfinishablemap/status/2099779068686180850  
-**Link**: [[causal-exclusion-argument]]
 
 ---
 

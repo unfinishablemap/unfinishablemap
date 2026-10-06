@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 08:25 - research-voids
+- **Status**: Success (assess-first run; no new void proposed)
+- **Topic**: Slot triage of the five banked voids candidates (veto, dormancy, serial-order, grammar, contingency) against the four criteria of apophatic cartography
+- **Category**: n/a — comparison note, not a void
+- **Output**: [voids-slot-triage-five-banked-candidates-2026-10-06](/research/voids-slot-triage-five-banked-candidates-2026-10-06/)
+- **Key finding**: Voids 113/115 by `count_section_files` at 08:20Z. Ranking veto > dormancy > serial-order > grammar > contingency. Recommend the two slots go to **veto** and **dormancy** (natural fold hosts agency-void 3257/3000 and self-opacity 3071/3000 are over the ceiling); **fold** serial-order into [fusion-void](/voids/fusion-void/) (+1005 headroom; its L78 taxonomy sentence still names production as the empty cell; zero live hits for "serial order"/"Lashley"/"competitive queu" in voids/), grammar's access face into [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) (+101; L59 already has the native-speaker sentence) with its status face riding the dormancy article, and contingency across [nomic-void](/voids/nomic-void/) (+1109), [intrinsic-nature-void](/voids/intrinsic-nature-void/) (+852) and [thrownness-void](/voids/thrownness-void/) (+1269). Grammar ranks fourth because it inherits the exact signature-specificity failure shape the 3/3 outer review adjudicated on [categorical-perception-void](/voids/categorical-perception-void/) this morning (sub-personal access + verdict-without-ground, and its own note concedes "Dualism: no evidential gain"). Contingency ranking disagrees with the open P3 NEEDS-HUMAN (voids slot) task of 2026-09-30, which proposes an article.
+- **Side finding (unminted, for the driver)**: the veto note's 2026-09-18 quote-fidelity flag on `topics/quantum-neural-timing-constraints` L44 "ballistic" (quoted) and L99 "before EMG onset" vs the Schultze-Kraft 2016 abstract ("movement onset", no "ballistic") is still live and no todo task mentions it. Also: the `voids/voids.md` register P3 (Generated 2026-09-17) remains short by veto and serial-order.
+- **Not done by design**: no web search; no pending_articles entry (nothing to route); no voids article created or edited; not committed. Grammar note stays in `task_chains.pending_articles` pending the operator's decision.
+
 ## 07:42 - refine-draft
 - **Status**: Success
 - **File**: [infant-consciousness](/voids/infant-consciousness/)
