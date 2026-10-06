@@ -5,6 +5,14 @@ ai_modified: 2026-10-06 07:08:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 11:19 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: `concepts/egocentric-presentism` (3439/3500) and `concepts/indexical-knowledge-and-identity` (3063/3500) after the overnight outer-review repair passes, with consistency checks against `topics/vertiginous-question` (3989/4000) and secondary `voids/infant-consciousness` (2395/3000)
+- **Sources read in full**: Hare 2007 *J. Phil.* (JSTOR scan), Hare 2010 (MIT preprint), List 2023 *Noûs* (LSE author PDF), List 2025 *PQ* (OUP OA). Unreached: Hare 2009, Werker & Logan 1985, Builes 2024.
+- **Findings**: (1) egocentric-presentism's 02:01Z temporal-analogue section attributes the moving-spotlight pairing to Hare; Hare 2007 §IV.C (p. 369) draws the *presentist*/fictionalist analogy and Hare 2010 never mentions egocentric presentism. (2) The 00:53Z non-solipsism gloss ("conscious relative to their own standpoints ... each can truly say") is the relational reading Hare 2007 p. 372 repudiates and is not List's rationale (others conscious "in some third-personal and functionalist sense"; one subject world real); an open P2 (todo L1987) would propagate it. (3) L32 conditional is tautologous and its "binds only those who grant it" gloss is false on List 2025. (4) "weak version of metaphysical solipsism" is Wikipedia wording in quotation marks (grep 0 in Hare 2007/2010). (5) indexical-knowledge L156 claims an in-framework refutation of the functionalist that presupposes the metaphysical thesis the page concedes open; L92/L104 likewise. (6) vertiginous-question L163/L189 still say List "answers" where the sibling now says "encodes". (7) infant-consciousness Werker & Logan gloss slightly outruns the only source read.
+- **Priority List**: 4 items, all with once-occurring old text and measured word costs (EP pass net +46 against 60 headroom, with three named cuts).
+- **Output**: [[reviews/pessimistic-2026-10-06-egocentric-presentism-indexical-cluster]]
+
 ## 10:37 - refine-draft
 - **Status**: Success
 - **File**: [[topics/vertiginous-question]]
