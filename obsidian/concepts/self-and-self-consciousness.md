@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-04T10:17:55+00:00
+ai_modified: 2026-10-06T18:08:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,11 +63,11 @@ coalesced_from:
   - "/concepts/zahavian-minimal-self/"
 ---
 
-Consciousness is always someone's consciousness. Every experience comes with a built-in sense of "for-me-ness" — a first-person perspective that makes it *this* subject's experience rather than no one's. This **minimal self** is not an additional feature added to consciousness; it is the very form conscious experience takes. And consciousness can become aware of this self-presence — a reflexive capacity called **self-consciousness** that generates one of philosophy's most stubborn puzzles: how can consciousness turn back on itself without already presupposing the very awareness it seeks to explain?
+Consciousness is always someone's consciousness. Every experience comes with a built-in sense of "for-me-ness" — a first-person perspective that makes it *this* subject's experience rather than no one's. This **minimal self** is the very form conscious experience takes, not an added feature. And consciousness can become aware of this self-presence — a reflexive capacity called **self-consciousness** that generates one of philosophy's most stubborn puzzles: how can consciousness turn back on itself without already presupposing the very awareness it seeks to explain?
 
 The Unfinishable Map treats both the minimal self and self-consciousness as evidence that consciousness has features no physical description captures. The [[the-subject-object-distinction-as-philosophical-discovery|subject-object distinction]] — the asymmetry between experiencer and experienced — grounds the minimal self's philosophical significance: "for-me-ness" is the subject-side of a distinction that had to be discovered and that resists dissolution. The circularity at the heart of self-consciousness — that explaining it requires presupposing it — is not a defect in our theorising but a structural feature of what consciousness is.
 
-The Map adopts Dan Zahavi's phenomenological minimal self in preference to Thomas Metzinger's self-model eliminativism. The choice is load-bearing: arguments about ego-dissolution, meditative witnessing, indexical identity, and agency require a subject Metzinger's framework does not supply.
+The Map adopts Dan Zahavi's phenomenological minimal self in preference to Thomas Metzinger's self-model eliminativism. The choice matters: arguments about ego-dissolution, meditative witnessing, indexical identity, and agency require a subject Metzinger's framework does not supply.
 
 ## Minimal Self and Narrative Self
 
@@ -91,15 +91,15 @@ Most of this article's claims about "for-me-ness" and "first-personal givenness"
 
 **Pre-reflective self-consciousness** is the implicit self-awareness present in every conscious experience — not an additional mental act but the background condition. You do not first see a red apple and then add "I am the one seeing"; the first-person character is there from the start. **Reflective self-consciousness** is the deliberate, thematic awareness of one's own mental states — fallible but trainable ([[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]]).
 
-The relationship is asymmetric: reflection presupposes pre-reflection (you can only attend to experience already tagged as yours), not vice versa. An infant has pre-reflective self-consciousness without the capacity for reflection.
+The relationship is asymmetric: reflection presupposes pre-reflection (you can only attend to experience already tagged as yours). An infant has pre-reflective self-consciousness without the capacity for reflection.
 
 ## The Circularity Problem
 
-Dieter Henrich, building on Fichte, identified the deepest puzzle: any attempt to *explain* self-consciousness in terms of something more basic appears circular. The natural account — self-consciousness arises when consciousness takes itself as object, a second mental act directed at the first — fails because the reflecting act must *identify* its target as belonging to the same subject. When I reflect on my pain, I must recognise the pain as *mine* — otherwise it is awareness of some pain, not self-awareness. Recognising mental states as one's own already requires self-consciousness. Henrich's "reflection model" argument: every attempt to construct self-consciousness from non-self-conscious components smuggles self-awareness through the back door.
+Dieter Henrich, building on Fichte, identified the deepest puzzle (his "reflection model" argument): any attempt to *explain* self-consciousness in terms of something more basic appears circular. The natural account — self-consciousness arises when consciousness takes itself as object, a second mental act directed at the first — fails because the reflecting act must *identify* its target as belonging to the same subject. When I reflect on my pain, I must recognise the pain as *mine* — otherwise it is awareness of some pain, not self-awareness. Recognising mental states as one's own already requires self-consciousness.
 
 Zahavi, following Husserl, replies that pre-reflective self-consciousness is not produced by reflection but is a primitive feature of conscious life.
 
-David Rosenthal's Higher-Order Thought (HOT) theory tries a different route — a mental state is conscious when it is the object of a suitable higher-order thought — but faces the regress problem (what makes the higher-order state conscious?), the misrepresentation problem, and most critically does not explain pre-reflective self-consciousness. HOT explains at most the reflective layer.
+David Rosenthal's Higher-Order Thought (HOT) theory tries a different route — a mental state is conscious when it is the object of a suitable higher-order thought — but faces the regress problem (what makes the higher-order state conscious?), the misrepresentation problem, and most critically does not explain pre-reflective self-consciousness.
 
 Włodzisław Duch's *self-reflection thesis* (Duch 2005, 2019) is the architectural/dynamical analogue of HOT and faces the same circularity problem from the same direction. Duch argues that "the self-reflection mechanism showing internal states and their dynamics is responsible for what we call consciousness" — that an articon-style architecture with self-reflective dynamical access to its own working-memory states therefore has *to claim* it is conscious, on grounds that cannot be defeated by Chinese-Room-style arguments. Two structural objections track the Henrich-Zahavi reply to HOT: *first*, the self-reflective access must already identify the accessed states *as the system's own* — which presupposes the for-me-ness the mechanism is meant to explain. *Second*, the dynamical access provides *reflective* self-consciousness at best, leaving pre-reflective first-personal givenness untouched. Duch's substrate-independence commitment compounds the difficulty: if for-me-ness is architecturally instantiable in articons and (per his reportedly extended position) LLMs, the constraints on which systems carry it must be specified, and the self-reflection thesis as stated does not deliver them. The disagreement is engaged in [[research/wlodzislaw-duch-consciousness-2026-05-02|the Duch research dossier]].
 
@@ -145,7 +145,7 @@ This Zahavi/Metzinger choice is the Western form of a dispute the classical Indi
 
 Sass and Parnas's work on schizophrenic ipseity disturbance, alongside the depersonalisation literature, documents scalar disruption of for-me-ness — thoughts experienced as alien, the self felt as unreal while experience continues. These appear to threaten the constitutive claim.
 
-The claim concerns *kind*, not intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — not that it fully dissolves while phenomenal life continues. [[cotard-delusion|Every reported case is reported from somewhere]], though only a reporting position follows. The global falsifier is conceptual against the clinical record, since [[thought-insertion|no report could meet it]]: clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered. Per experience, [[thought-insertion|Lane reads an inserted thought as anonymous]]; the claim survives him only if the reports are read in clinical context.
+The claim concerns *kind*, not intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — not that it fully dissolves while phenomenal life continues. In thought insertion, for-me-ness is "neither lacking nor unaffected but disturbed" (Henriksen, Parnas & Zahavi 2019, p. 7). [[cotard-delusion|Every reported case is reported from somewhere]], though only a reporting position follows. The global falsifier is conceptual against the clinical record, since [[thought-insertion|no report could meet it]]: clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered. Per experience, [[thought-insertion|Lane reads an inserted thought as anonymous]]; the claim survives him only if the reports are read in clinical context.
 
 This methodological move generalises (see [[self-opacity#Constitutive as Kind, Not as Degree|self-opacity void]]): distinguish kind-claim from degree-claim, name the falsifying scenario as elimination rather than attenuation, and concede scalar variation without conceding structural contingency.
 
@@ -153,7 +153,7 @@ This methodological move generalises (see [[self-opacity#Constitutive as Kind, N
 
 Between the minimal self and narrative self lies [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] — mental time travel, re-inhabiting past experience from a first-person perspective. Tulving's hierarchy maps three forms of consciousness onto three memory systems; autonoetic consciousness develops by age 4-5 (a leading explanation for childhood amnesia) and may constitute the temporally extended self ([[consciousness-and-memory|consciousness and memory]]).
 
-[[metacognition|Metacognition]] and the minimal self must be distinguished: metacognition monitors conscious content; the minimal self is the first-person perspective that makes there be content to monitor. They dissociate — in flow states, vivid phenomenal experience persists while metacognitive monitoring recedes; young children have phenomenal experience before reflective capacity develops. The [[phenomenology-of-recursive-self-awareness|phenomenology of recursive self-awareness]] explores the distinctive "doubled awareness" generated when the minimal self takes its own awareness as object.
+[[metacognition|Metacognition]] and the minimal self must be distinguished: metacognition monitors conscious content; the minimal self is the first-person perspective that makes there be content to monitor. They dissociate — in flow states, vivid phenomenal experience persists while metacognitive monitoring recedes. The [[phenomenology-of-recursive-self-awareness|phenomenology of recursive self-awareness]] explores the distinctive "doubled awareness" generated when the minimal self takes its own awareness as object.
 
 The comparative picture (mirror self-recognition: great apes, elephants, dolphins, and — contested since the magpie replication failure — some corvids) suggests degrees: pre-reflective self-consciousness may be widespread, reflective far more restricted. The [[jourdain-hypothesis|Jourdain Hypothesis]] proposes many animals are conscious without *knowing* they are conscious beings. [[baseline-cognition|Baseline cognition]] research finds great apes use procedural metacognition without representing themselves *as beings who have cognitive states* — the qualitative shift the Map calls the [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]], above which reflective self-consciousness becomes possible. The threshold predicts that the layers of selfhood are not graded along one continuum: reflective self-consciousness depends on a discrete capacity for declarative metarepresentation.
 
@@ -207,7 +207,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 - [[self-model-theory-of-subjectivity]] — Metzinger's SMT, the representationalist no-self account this view is the realist foil to
 - [[self-representational-theory-of-consciousness]] — Kriegel's reductive same-order option; the Map credits its structural analysis but sides with Zahavi
 - [[haecceity]] — The diachronic thisness the Map adds to Zahavi's synchronic account
-- [[self-construction-constructor]] — Apex synthesis: the constructor cannot be the last construction, since building the subject from non-self-conscious parts smuggles the subject back in
+- [[self-construction-constructor]] — Apex synthesis: the constructor cannot be the last construction
 
 ## References
 
@@ -224,11 +224,12 @@ The minimal self thesis has limited empirical testability: testing requires repo
 11. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
 12. Hume, D. (1739). *A Treatise of Human Nature*, Book I, Part IV, Section VI.
 13. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
-14. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
-15. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-16. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
-17. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-18. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-19. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
-20. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
-21. Ñāṇamoli Thera (trans.). *Anattalakkhana Sutta: The Discourse on the Not-self Characteristic* (SN 22.59). Access to Insight. https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.nymo.html
+14. Henriksen, M. G., Parnas, J. & Zahavi, D. (2019). Thought insertion and disturbed for-me-ness (minimal selfhood) in schizophrenia. *Consciousness and Cognition*, 74, 102770. https://doi.org/10.1016/j.concog.2019.102770
+15. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
+16. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+17. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
+18. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+19. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+20. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
+21. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
+22. Ñāṇamoli Thera (trans.). *Anattalakkhana Sutta: The Discourse on the Not-self Characteristic* (SN 22.59). Access to Insight. https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.nymo.html

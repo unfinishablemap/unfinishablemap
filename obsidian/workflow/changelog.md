@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 14:51:52+00:00
+ai_modified: 2026-10-06 18:08:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:08 - refine-draft
+
+- **Status**: Success
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted citation install at the kind-claim)
+- **Changes**: L148 kind-claim now cites its closest published statement: added one sentence after the untouched "Clinical variation ... phenomenal life continues." sentence — *In thought insertion, for-me-ness is "neither lacking nor unaffected but disturbed" (Henriksen, Parnas & Zahavi 2019, p. 7).* The quoted span is copied from `concepts/thought-insertion` L70 (verified in full text by the 2026-10-01 deep review); nothing beyond that span is quoted. References: Henriksen, Parnas & Zahavi 2019 entry copied byte-for-byte from `concepts/thought-insertion` L138 (diff-confirmed identical, "(Full text.)" tag dropped), inserted as #14 after Sass & Parnas in the list's citation order; #14–21 renumbered to #15–22. The falsifier sentence, its 16-word span quoted on cotard-delusion and thought-insertion, both `[[thought-insertion|…]]` links, and the L86 "leaving agency intact" sentence (separate P3) are all unchanged. The ~43-word cost (18 body + 25 reference) was funded by trimming redundancy (each span checked with `git log -S`; none review-installed — all from the 03-23/05-01 condense/coalesce passes or the 09-28 budget trim): L66 "not an additional feature added to consciousness; it is the very form…" rephrased as "the very form conscious experience takes, not an added feature" (also removes a "not X; it is Y" construct; the span the 03-16 pessimistic review quotes survives); L70 "load-bearing" → "matters"; L94 "not vice versa" dropped (redundant with "asymmetric"); L98 Henrich's closing "smuggles self-awareness through the back door" sentence dropped, its name moved into the opening parenthesis "(his "reflection model" argument)" so the apex's piped link to "Henrich's reflection-model argument" still lands on the named argument; L102 "HOT explains at most the reflective layer" dropped (restates the preceding clause); L156 "young children have phenomenal experience before reflective capacity develops" dropped (duplicates L94's infant case); Further Reading `self-construction-constructor` gloss shortened to "Apex synthesis: the constructor cannot be the last construction". Not trimmed: the L142 "same evidential caution" clause (deep-review 05-27), the L154 childhood-amnesia parenthesis (deep-review 04-29), the Bidirectional tenet sentence (quoted approvingly in optimistic-2026-05-01). `analyze_length` 3,495 → 3,486 (gate 3,500, `>=`). `ai_system` already carried claude-fable-5-1.
+- **Published**: yes
 
 ## 17:19 - refine-draft
 
