@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 13:36:56+00:00
+ai_modified: 2026-10-06 14:51:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:51 - coalesce
+- **Status**: Abandoned (reasoned decline — no merge, nothing archived, no content files touched; the expected steady-state outcome)
+- **Pool movement since the 02:36 sweep today: ZERO additions/deletions/renames.** `git log --since=2026-10-06T02:36Z --diff-filter=ADR` over topics/, concepts/, voids/, apex/, positions/ and archive/ returns nothing; 22 existing pages were modified (5 concepts, 7 topics, 10 voids), which only *removes* them from the 14-day age floor. Cap state (`count_section_files`): voids 113/115, concepts 347/360, topics 343/360 (gate figure), positions 23/80. Searched in that pressure order.
+- **Within-section result is determined without re-running**: the 02:36 sweep found voids **0** and topics **0** pairs feasible on `analyze_length` totals, and a pool that has only shrunk cannot create a feasible pair; the concepts best remains ≤0.144 (background similarity — real overlap sits at 0.34+). Not re-litigated.
+- **New direction this run — voids-into-host absorption** (the 2026-08-06 `voids/ownership-void` → `concepts/mine-ness` precedent, which freed a voids slot; never screened by the 02:36 run, whose cross-section top 10 was all concept-vs-applying-topic). Same TF-IDF method, `.refinement-log` sidecars and index files excluded first, 64 age-eligible voids × 340 age-eligible concept/topic hosts, feasibility on the HOST section's hard threshold using totals. Result: 127 pairs feasible on totals, best **0.135** (`emotional-epistemology-void` → `topics/consciousness-and-the-problem-of-other-properties`), then 0.115 (`plurality-void` → `concepts/manyism`) and below — background level, nothing to read. Every high-similarity void→host pair sums far over its host's hard threshold: `capability-division-problem` → `concepts/capability-division-in-vision` 0.491 (5962 vs 3500), `ineffable-encounter-void` → `concepts/presence-type-and-absence-type-voids` 0.402 (4857), `interoceptive-void` → `topics/interoceptive-consciousness-and-the-interface` 0.351 (6497, distinction heading).
+- **One pair read on the merits and declined — `voids/valence-void` (2043) → `concepts/valence` (1932), 0.295, the only pair in the gap** (prose-feasible, totals 3975 vs 3500 hard). Age floor passes (void `ai_modified` 2026-06-05, concept 2026-09-06); no open todo task names either file; no 2026-10 review targets either (the 10-04 cycle's 17 "valence" hits are the akrasia audit). Declined on a role split both pages state in their own prose: the concept covers what valence is, the two competing accounts, causal work and moral status; the void covers why valence's inexplicability is structurally irresolvable, carries its own `## Distinct from Affective, Mood, and Mattering Voids` heading, and each page cites the other with a one-line role description (`valence.md` L61: "The [[valence-void]] examines this inexplicability as a structurally irresolvable cognitive limit"). 0.295 is under the 0.34 real-overlap floor; a merge would have to shed ~500 words of two distinct reference lists and import void-template sections (Phenomenology of the Void, What the Void Reveals) into a concept page that 72 files link to for the concept itself (29 link to the void). Not redundancy.
+- **Coordination**: no Hugo sync needed (no source change). `sweep_voids_absorb.py` sits in the session scratchpad beside `sweep_coalesce.py`; both are re-runnable, but a re-run is only worth it after `--diff-filter=A` shows a new article in voids or a host section.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 14:35 - refine-draft
 - **Status**: Success
