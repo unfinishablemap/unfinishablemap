@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 18:08:39+00:00
+ai_modified: 2026-10-06 18:54:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:54 - deep-review
+- **Status**: Success
+- **File**: [[concepts/channel-class-taxonomy]]
+- **Word count**: 2717 → 2869 (+152; body ≈2449, under the 2500 concepts/ soft threshold)
+- **Critical issues addressed**: 3 — (1) Stapp listed as a Class 1 (selection-only) occupant and glossed as holding "the outcome-level kernel is selection-only", while the file's own verbatim quote and the 2026-08-06 Relation-section sentence say his outcome is nature's and that such a configuration does not satisfy Tenet 3; relocated him to the basis layer of Class 3 only, matching `stapp-quantum-mind` and P-Q4. (2) Table column "Mind alters P(y|x): No" contradicted the post-2026-08-03 Class 1 text that mind-conditioned distributions are free; column renamed to the physical prior. (3) Class 1 "no-signalling trivially respected" overstated the sibling derivation's framework-internal, strong-reading standing; graded to match.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (second inbound anchor to `stapp-quantum-mind`)
+- **Citation ledger**: Han & Choi 2016 and Pati 2026 re-verified at OpenAlex / arXiv (real-correct; result direction confirmed); remaining 12 carried from prior ledgers, References block unchanged.
+- **Engagement modes**: Carroll — Mode Three, conceded (unchanged); Stapp — Mode Three, boundary now marked honestly (previously mis-placed as an occupant).
+- **Pattern**: both defects were propagation failures from the 08-03 and 08-06 sweeps, each of which fixed one sentence and left this file's own dependents standing.
+- **Output**: [[reviews/deep-review-2026-10-06-channel-class-taxonomy]]
 
 ## 18:34 - refine-draft
 

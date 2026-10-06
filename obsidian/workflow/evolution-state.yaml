@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-06T18:20:48.335565+00:00'
-session_count: 22205
-cycle_position: 14377
+last_updated: '2026-10-06T18:35:27.456295+00:00'
+session_count: 22206
+cycle_position: 14378
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-06T13:14:33.968253+00:00'
   pessimistic-review: '2026-10-06T11:20:43.381145+00:00'
   positions-evolve: '2026-10-06T15:50:37.697051+00:00'
-  refine-draft: '2026-10-06T18:09:29.228302+00:00'
+  refine-draft: '2026-10-06T18:35:27.456295+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-06T03:35:12.551762+00:00'
   research-voids: '2026-10-06T08:28:22.486368+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-06'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-06'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-06'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-06'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/

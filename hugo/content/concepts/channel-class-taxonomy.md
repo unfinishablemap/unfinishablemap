@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-08-06 00:58:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-06 18:52:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[selection-only-channel]]'
@@ -21,8 +21,8 @@ description: 'A Shannon-channel taxonomy of mind-physical coupling: five classes
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-02 16:32:00+00:00
-lastmod: 2026-08-06 00:58:00+00:00
+last_deep_review: 2026-10-06 18:52:00+00:00
+lastmod: 2026-10-06 18:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ In Shannon's framework a channel is fully specified by an input alphabet *X*, an
 
 A channel class is then defined by which structural elements mind is permitted to alter. Five canonical classes can be distinguished (Table below; technical detail in the sections that follow):
 
-| Class | Mind alters input alphabet | Mind alters output alphabet | Mind alters P(y\|x) | Mind selects realised outcome | Energy transferred |
+| Class | Mind alters input alphabet | Mind alters output alphabet | Mind reweights the physical prior {p_i} | Mind selects realised outcome | Energy transferred |
 |---|---|---|---|---|---|
 | Selection-only | No | No | No | Yes | No |
 | Probability-bias | No | No | Yes | Yes | No |
@@ -60,7 +60,7 @@ A channel class is then defined by which structural elements mind is permitted t
 | Candidate-generation | Possibly | Yes | Yes | Yes | No (in quantum versions) |
 | Energy-injection | Possibly | Yes | Yes | Yes | Yes |
 
-The ordering is not strictly one-dimensional — basis-choice and probability-bias are siblings, not ancestors — but the table's left-to-right direction tracks "how much physical structure mind is licensed to alter," and the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is graded by the same direction.
+The prior column asks whether the marginal over outcomes departs from the Born weights; the mind-conditioned kernel *P(y | x)* may depend on *x* in every class, including selection-only, where only the marginal is pinned. The outcome column is class-level: Stapp's own model fills only the basis layer of Class 3 and leaves the outcome to physics (see Class 3 below). The ordering is not strictly one-dimensional — basis-choice and probability-bias are siblings, not ancestors — but the table's left-to-right direction tracks "how much physical structure mind is licensed to alter," and the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is graded by the same direction.
 
 ## Class 1: Selection-Only
 
@@ -68,9 +68,9 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Commitments required.** A mind that can distinguish among brain-prepared candidates and that participates in actualising one. Nothing else: the candidate set is brain-set, the weights are physics-set, and no energy crosses the interface.
 
-**Theories that occupy it.** The strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction); the channel-theoretic version of Stapp's outcome-level commitment when read without the basis-choice layer above it (in Stapp's framing the agent "chooses only the question" while "the answer is picked by 'Nature', in accordance with a specified statistical law", Stapp 2006 — at the outcome level, selection without deviation from Born statistics); pure outcome-selection accounts of [post-decoherence selection](/concepts/post-decoherence-selection/).
+**Theories that occupy it.** The strictest reading of [Tenet 2](/tenets/#minimal-quantum-interaction), and pure outcome-selection accounts of [post-decoherence selection](/concepts/post-decoherence-selection/). Stapp's model is the near-miss worth marking: its outcome layer shares this class's Born-exact statistics, but in his framing the agent "chooses only the question" while "the answer is picked by 'Nature', in accordance with a specified statistical law" (Stapp 2006). The realised outcome is physics's, not mind's, so the model does not occupy this class and should not be read as endorsing the Map's outcome-selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)).
 
-**Conservation laws and no-signalling.** All conservation laws are satisfied without qualification: no energy, momentum, or charge is transferred. The no-signalling theorem is trivially respected — Born-rule preservation across many trials is the channel's defining constraint (Han & Choi 2016). Second-order interference is preserved by construction (Sorkin 1994). The class is the cleanest member of the formalism's [five-constraint corridor](/concepts/consciousness-physics-interface-formalism/).
+**Conservation laws and no-signalling.** All conservation laws are satisfied without qualification: no energy, momentum, or charge is transferred. The no-signalling theorem is respected on the strong reading of Born preservation — exact in every publicly conditionable context, not merely in the pooled histogram — which is the reading the channel needs, since a mind-state that could label trials from outside would function as a measurement setting (Han & Choi 2016; the reading is argued in [selection-only-channel](/concepts/selection-only-channel/)). That compatibility is framework-internal rather than automatic. Second-order interference is preserved by construction (Sorkin 1994). The class is the cleanest member of the formalism's [five-constraint corridor](/concepts/consciousness-physics-interface-formalism/).
 
 ## Class 2: Probability-Bias
 
@@ -88,9 +88,9 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Commitments required.** A mind that can choose *what question is asked* of the brain's quantum state — which observable, which preferred basis, which decoherence channel — without choosing the answer to that question. The basis layer changes the candidate set; the outcome layer respects Born statistics within it.
 
-**Theories that occupy it.** Stapp's quantum mind model, particularly his "Process 1" framework (Stapp 1993, 2007; see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)). Stapp is explicit that mind's role is basis-choice combined with timing control (quantum Zeno effect) and that the outcome-level kernel is selection-only. [coupling-modes](/concepts/coupling-modes/)'s "basis control" mode is this class viewed from the phenomenological side.
+**Theories that occupy it.** Stapp's quantum mind model, particularly his "Process 1" framework (Stapp 1993, 2007; see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)). Stapp is explicit that mind's role is basis-choice combined with timing control (quantum Zeno effect), and equally explicit that the answer within the chosen basis is nature's, returned by the orthodox statistical rule: his model fills this class's basis layer while leaving its outcome layer to physics. [coupling-modes](/concepts/coupling-modes/)'s "basis control" mode is this class viewed from the phenomenological side.
 
-**Conservation laws and no-signalling.** Conservation laws are preserved at the outcome layer for any chosen basis (Born statistics hold within *Y_B*). The basis-choice layer is where subtlety enters. If mind can choose any basis at will, the no-signalling theorem becomes interpretation-dependent: in single-system contexts the basis choice is harmless, but in EPR-style entangled contexts a free basis choice on one wing could in principle correlate measurement outcomes on the other (Han & Choi 2016). Stapp's defence is that basis-choice is local to the observer's brain and does not act on remote entangled partners; this is a substantive commitment, not a derivation. This class can look like the natural home of the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, but what makes the class distinctive is not what the tenet commits to. Mind shaping the option space while physics determines outcomes within it is context-setting; the tenet commits to influence over which outcome becomes actual, and registers a Process-1 / context-selection relocation as an alternative the Map acknowledges but does not adopt. What satisfies Tenet 3 in this class is the outcome layer it shares with selection-only, rather than the basis layer stacked above it.
+**Conservation laws and no-signalling.** Conservation laws are preserved at the outcome layer for any chosen basis (Born statistics hold within *Y_B*). The basis-choice layer is where subtlety enters. If mind can choose any basis at will, the no-signalling theorem becomes interpretation-dependent: in single-system contexts the basis choice is harmless, but in EPR-style entangled contexts a free basis choice on one wing could in principle correlate measurement outcomes on the other (Han & Choi 2016). Stapp's defence is that basis-choice is local to the observer's brain and does not act on remote entangled partners; this is a substantive commitment, not a derivation. This class can look like the natural home of the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, but what makes the class distinctive is not what the tenet commits to. Mind shaping the option space while physics determines outcomes within it is context-setting; the tenet commits to influence over which outcome becomes actual, and registers a Process-1 / context-selection relocation as an alternative the Map acknowledges but does not adopt. What satisfies Tenet 3 in this class is the outcome layer it shares with selection-only, rather than the basis layer stacked above it — and that outcome layer is the one Stapp's own model does not claim.
 
 ## Class 4: Candidate-Generation
 
@@ -108,7 +108,7 @@ The ordering is not strictly one-dimensional — basis-choice and probability-bi
 
 **Commitments required.** A mind that does *work* on the physical system in the thermodynamic sense — the picture associated with classical Cartesian dualism and with any "force field" caricature of mental causation. The class is largely the historical default of the energy-conservation objection (Leibniz onward); it is the class against which Carroll's "what particles is that soul made of?" challenge is correctly aimed (Carroll 2011).
 
-**Theories that occupy it.** No major contemporary dualist theory occupies this class. It is preserved here for definitional contrast: the position the [conservation-laws](/concepts/conservation-laws-and-mental-causation/) argument refutes, and the foil against which the previous four classes earn their explanatory point. The Map's [interactionist dualism](/concepts/interactionist-dualism/) explicitly forbids occupying it.
+**Theories that occupy it.** No major contemporary dualist theory occupies this class. It is preserved here for definitional contrast: the position the [conservation-laws](/concepts/conservation-laws-and-mental-causation/) argument refutes. The Map's [interactionist dualism](/concepts/interactionist-dualism/) explicitly forbids occupying it.
 
 **Conservation laws and no-signalling.** Energy and momentum conservation are violated by construction. Local continuity equations fail at the interface. The no-signalling theorem is at risk in entangled contexts because energy transfer typically tracks measurable physical quantities. This is the class quantum foundations rule out by the five-constraint corridor (see [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)).
 
