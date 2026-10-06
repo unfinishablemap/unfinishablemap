@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 20:19 - refine-draft
+
+- **Task**: `concepts/thought-insertion` L106 and L84 (pessimistic-2026-10-06-for-me-ness-mine-ness-edits, item 2) — applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: (a) Dualism verdict relabelled: "Compatible, neither suggestive nor discriminating" → "Compatible, with the edge, such as it is, to the rival: the self-model reading predicts the profile and the Map's interface reading only accommodates it, neither supplying a mechanism." (+11; predicts/accommodates kept per pessimistic-2026-10-02 item 4(d); tier verdict stays *compatible*; lead's "merely compatible" untouched). (b) L84 forward-model sentence scoped to inner speech: "A forward-model signal exists for one kind of thought" (+2).
+- **Length**: 3,122 → 3,135 / 3,500
+- **Output**: synced to Hugo
+
 ## 20:04 - refine-draft
 
 - **Task**: `project/architecture-vs-significance-two-tier-discount` L67 — attach each limb to its own conclusion (pessimistic-2026-10-06-for-me-ness-mine-ness-edits, item 1) — applied inline by the driver with the review's exact text

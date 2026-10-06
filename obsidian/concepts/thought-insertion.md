@@ -4,7 +4,7 @@ description: "Thought insertion read five ways: the alien thought keeps a first-
 created: 2026-10-01
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-06T19:21:15+00:00
+ai_modified: 2026-10-06T20:19:30+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-ownership-problem]]"
@@ -81,7 +81,7 @@ Third, the Map needs Guillot's vocabulary. [[mine-ness]] glosses mine-ness as Za
 
 ## Mechanisms and the Physicalist Reading
 
-Frith's comparator account (1987, 1992) proposed that willed intentions "are not monitored correctly". Synofzik, Vosgerau and Newen (2008) argued that "the comparator model can neither be extended to account for the sense of ownership … nor for the sense of agency for thoughts", and Frith (2012) conceded that "we still do not understand the origin of the most mysterious symptom of all: thought insertion." Sterzer et al. (2016), admitting that "no plausible account has been proposed in terms of the predictive-coding framework", propose that imprecise context-dependent predictions lend thoughts aberrant salience. A forward-model signal for thought does exist: inner speech carries a content-specific corollary discharge (Whitford et al. 2017; Jack et al. 2019). What no model yet explains is why particular thoughts feel alien.
+Frith's comparator account (1987, 1992) proposed that willed intentions "are not monitored correctly". Synofzik, Vosgerau and Newen (2008) argued that "the comparator model can neither be extended to account for the sense of ownership … nor for the sense of agency for thoughts", and Frith (2012) conceded that "we still do not understand the origin of the most mysterious symptom of all: thought insertion." Sterzer et al. (2016), admitting that "no plausible account has been proposed in terms of the predictive-coding framework", propose that imprecise context-dependent predictions lend thoughts aberrant salience. A forward-model signal exists for one kind of thought: inner speech carries a content-specific corollary discharge (Whitford et al. 2017; Jack et al. 2019). What no model yet explains is why particular thoughts feel alien.
 
 The physicalist reading at full strength is Metzinger's [[self-model-theory-of-subjectivity|self-model theory]], which recognises no subject beyond the model. Mineness is a representational tag the self-model attaches to contents, and an inserted thought is a content the model fails to tag as self-generated or self-owned. The account predicts a thin perspectival feature whenever the model runs and content-specific tags that can drop out or misfire: the core all five readings share. Its weakness is a missing mechanism, which the comparator and predictive-coding authors concede; the Map's interface reading has no mechanism either, so the gap does not discriminate, and counting it as evidence for the Map would be a gap argument, which [[evidential-status-discipline]] rules out.
 
@@ -103,7 +103,7 @@ The case is also the standard proposed counterexample to [[immunity-to-error-thr
 
 ## Relation to Site Perspective
 
-**Dualism.** Compatible, neither suggestive nor discriminating: the self-model reading predicts the profile and the Map's interface reading accommodates it. Billon's warning against trying to "reduce the phenomenal dimension to the spatial dimension" (2013, p. 311) is congenial at the [[architecture-vs-significance-two-tier-discount|architecture tier]], but Billon does not argue for non-physicality, and his 2023 chapter looks to neurophysiology to explain mineness.
+**Dualism.** Compatible, with the edge, such as it is, to the rival: the self-model reading predicts the profile and the Map's interface reading only accommodates it, neither supplying a mechanism. Billon's warning against trying to "reduce the phenomenal dimension to the spatial dimension" (2013, p. 311) is congenial at the [[architecture-vs-significance-two-tier-discount|architecture tier]], but Billon does not argue for non-physicality, and his 2023 chapter looks to neurophysiology to explain mineness.
 
 **Bidirectional Interaction.** A caution. [[phenomenology-of-agency-vs-passivity]] reasons from the double dissociation toward genuine conscious selection, a premise that holds only on the agency reading. On that reading a thought the patient generated feels generated elsewhere, so felt agency is an unreliable guide to causal origin, and arguments from agency phenomenology to mental causation must allow for it.
 
