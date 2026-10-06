@@ -5,6 +5,18 @@ ai_modified: 2026-10-06 14:51:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 16:12 - deep-review
+- **Status**: Success
+- **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
+- **Word count**: 2948 → 3055 (+107; ~60 of it reference metadata — DOI, book venue, live URLs, subtitle; status ok → soft_warning at 102% of 3000, hard gate 4000)
+- **Critical issues addressed**: 2 — (1) Feferman's "undecidables are arithmetic, not physical" point was cited to the wrong work (1995 *Psyche* Penrose critique, installed by the 2026-05-26 review); it is in his 2006 IAS Gödel-Centenary lecture replying to Dyson/Hawking — now quoted verbatim and re-referenced. (2) The "2024 review of undecidability in physics" quote, carried unattributed through eight reviews, is Perales-Eceiza, Cubitt, Gu, Pérez-García & Wolf, arXiv:2410.16532 → *Physics Reports* 1138 (2025); quote grep-verified, reference added, list renumbered 15–19.
+- **Medium issues addressed**: 1 — Hawking quotes normalised to the hawking.org.uk transcript ("self referencing"; "either inconsistent or incomplete" — no comma); DAMTP URL is a 404, live URL installed.
+- **Enhancements made**: 2 — Dourdent's Springer 2021 book venue; Tonetto's full subtitle. Chalmers "false culprit" grep-verified at consc.net. Tonetto remains the one quotation not raw-grepped (PhilArchive Cloudflare 403 to fetch/curl/OAI; abstract-level confirmation via search index) — carried in Remaining Items.
+- **Engagement modes**: Hawking loose-metaphor Mode One via Franzén/Feferman (now quoting Feferman's own correction); Chalmers/Aaronson Mode One; Szangolies co-optation Mode Three (firewall intact, label-leak grep clean).
+- **Process finding**: the carried "lacks attribution — not re-flagged per no-oscillation" note was convergence discipline carrying a defect; the arXiv ID had been in `research/godel-measurement-problem-analogy-2026-03-17.md` L45 since March.
+- **Frontmatter**: `ai_modified` / `last_deep_review` 2026-10-06T16:12:00+00:00; `ai_system` → `claude-opus-4-6+claude-fable-5-1`.
+- **Output**: [[reviews/deep-review-2026-10-06-self-reference-and-the-limits-of-physical-description]]
+
 ## 15:50 - positions-evolve
 
 - **Task**: `positions/moral-status` P-MS1 "Chalmers' Vulcan (forthcoming…)" → "(2026…)"; `positions/moral-status-calibration-history` L40 "Kriegel (forthcoming)" → "(2026)" — applied inline by the driver

@@ -4,7 +4,7 @@ description: "Gödel's incompleteness and the quantum measurement problem share 
 created: 2026-03-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-09-14T16:04:35+00:00
+ai_modified: 2026-10-06T16:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,10 +31,10 @@ related_articles:
   - "[[cross-domain-void-comparison]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-07-16T10:28:27+00:00
+last_deep_review: 2026-10-06T16:12:00+00:00
 coalesced_from:
   - "/topics/self-reference-and-the-limits-of-physical-description/"
   - "/topics/godel-measurement-problem-analogy/"
@@ -59,7 +59,7 @@ The Gödel-quantum connection has been drawn at three distinct levels, and confl
 
 ### Loose Metaphor
 
-Stephen Hawking argued in "Gödel and the End of Physics" (2002) that physical theories are "self-referencing, like in Gödel's theorem" and therefore should be expected to be "either inconsistent, or incomplete." This captures a genuine intuition — physics aims to describe all of reality while being part of that reality — but lacks formal rigour. Torkel Franzén's *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse* (2005) rightly criticises such extensions: Gödel's theorems concern provability within axiom systems capable of encoding arithmetic, not "limits" in general. Feferman sharpened this: any undecidable propositions in a physical theory might concern only its arithmetic content (whether certain equations have integer solutions) rather than anything physically meaningful. The Map treats loose metaphors as suggestive but unreliable.
+Stephen Hawking argued in "Gödel and the End of Physics" (2002) that a physical theory is "self referencing, like in Gödel's theorem" and should therefore be expected to be "either inconsistent or incomplete." This captures a genuine intuition — physics aims to describe all of reality while being part of that reality — but lacks formal rigour. Torkel Franzén's *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse* (2005) rightly criticises such extensions: Gödel's theorems concern provability within axiom systems capable of encoding arithmetic, not "limits" in general. Feferman (2006) sharpened this against Dyson and Hawking: a formal system containing arithmetic and physical notions will have undecidable propositions, but they are "propositions of higher arithmetic", which "tells us nothing about the specifically physical laws encapsulated in S, which could conceivably be complete as such." The Map treats loose metaphors as suggestive but unreliable.
 
 ### Structural Parallel
 
@@ -87,7 +87,7 @@ These are mathematical proofs, not philosophical arguments. They demonstrate tha
 
 ## The Model-Reality Distinction
 
-A crucial nuance, emphasised in a 2024 review of undecidability in physics, is that these results concern *mathematical models* of physical systems, not physical systems themselves. As the review states: "Undecidability is not a feature of the physical system; it is a feature of the mathematical model we use to describe that physical system." Undecidability proofs typically require infinite idealisations — infinite particles, infinite precision, or infinite instances. Finite physical systems remain decidable.
+A crucial nuance, emphasised in the Perales-Eceiza, Cubitt, Gu, Pérez-García and Wolf review of undecidability in physics (2024; *Physics Reports* 2025), is that these results concern *mathematical models* of physical systems, not physical systems themselves. As the review states, "undecidability is not a feature of the physical system; it is a feature of the mathematical model we use to describe that physical system." Undecidability proofs necessarily conceal an infinity somewhere — infinitely many instances, infinitely many particles, or infinite precision — and none of these idealised limits is directly accessible experimentally. Finite physical systems remain decidable.
 
 The Map acknowledges this distinction and argues it *strengthens* rather than weakens the philosophical case. The claim is not "Gödel proves consciousness causes collapse." The claim is more precise: the formal frameworks through which physics claims explanatory completeness are themselves provably incomplete. [[causal-closure|Causal closure]] — the thesis that every physical event has a sufficient physical cause — is a claim about our theoretical framework's reach. If that framework is provably incomplete, causal closure is formally unjustified. The strongest objection to dualist causation — "physics leaves no room" — rests on an assumption that physics' own mathematical structure undermines.
 
@@ -156,18 +156,19 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 1. Aaronson, S. (2006). "Lecture 10.5: Penrose." *Quantum Computing Since Democritus*. https://www.scottaaronson.com/democritus/lec10.5.html
 2. Chalmers, D. (1995). "Minds, Machines, and Mathematics." *Psyche*, 2(9).
 3. Cubitt, T.S., Perez-Garcia, D., & Wolf, M.M. (2015). "Undecidability of the spectral gap." *Nature*, 528, 207–211.
-4. Dourdent, H. (2020). "A Quantum Gödelian Hunch." arXiv:2005.04274.
-5. Feferman, S. (1995). "Penrose's Gödelian Argument." *Psyche*, 2(7).
+4. Dourdent, H. (2020). "A Quantum Gödelian Hunch." arXiv:2005.04274. Published in A. Aguirre, Z. Merali & D. Sloan (eds.), *Undecidability, Uncomputability, and Unpredictability*, Springer, 2021.
+5. Feferman, S. (2006). "The nature and significance of Gödel's incompleteness theorems." Lecture, Institute for Advanced Study Gödel Centenary Program, 17 November 2006. https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf
 6. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
 7. Franzén, T. (2005). *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse*. A K Peters.
 8. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173–198.
-9. Hawking, S. (2002). "Gödel and the End of Physics." Lecture, Dirac Centennial Celebration.
+9. Hawking, S. (2002). "Gödel and the End of Physics." Lecture, Dirac Centennial Celebration, Cambridge. https://www.hawking.org.uk/in-words/lectures/godel-and-the-end-of-physics
 10. Landsman, K. (2020). "Indeterminism and Undecidability." arXiv:2003.03554.
 11. Lucas, J.R. (1961). "Minds, Machines and Gödel." *Philosophy*, 36(137), 112–127.
 12. Masanes, L., Galley, T., & Müller, M. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Communications*, 10, 1361.
 13. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 14. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
-15. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48, 1669–1697.
-16. Tonetto, B. "What Physics Actually Closes." PhilArchive. https://philarchive.org/rec/TONWPA
-17. Southgate, A. & Oquatre-six, C. (2026-03-28). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/
-18. Southgate, A. & Oquatre-six, C. (2026-02-24). Consciousness and the Authority of Formal Systems. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/
+15. Perales-Eceiza, Á., Cubitt, T., Gu, M., Pérez-García, D., & Wolf, M.M. (2025). "Undecidability in physics: a review." *Physics Reports*, 1138, 1–29. arXiv:2410.16532 (2024). https://doi.org/10.1016/j.physrep.2025.06.004
+16. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48, 1669–1697.
+17. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+18. Southgate, A. & Oquatre-six, C. (2026-03-28). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/
+19. Southgate, A. & Oquatre-six, C. (2026-02-24). Consciousness and the Authority of Formal Systems. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/
