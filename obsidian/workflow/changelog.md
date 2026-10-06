@@ -5,6 +5,13 @@ ai_modified: 2026-10-06 07:08:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 13:12 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: neural-timing and motor-control wing after the 12:53Z Schultze-Kraft correction — `topics/quantum-neural-timing-constraints` (2,732/4,000), `concepts/control-theoretic-will` (2,706/3,500), `concepts/decoherence` (3,475/3,500), `concepts/libet-experiments` (3,440/3,500), `topics/bandwidth-of-consciousness` (4,156, over hard), `voids/agency-void` (3,257, over hard), `apex/interface-specification-programme` L90–104 (5,111, over hard), `apex/testing-the-map-from-inside` L164–170, `research/voids-veto-void-2026-09-18`. `motor-control-quantum-zeno` read as neighbour only (reviewed 10-05). Schultze-Kraft 2016 full text re-read at PMC4743787 with a neutral sentence-list prompt: "If the stop signal occurs later than 200 ms before EMG onset, the subject cannot avoid moving" / "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds" — today's L99 wording confirmed, including "aborted".
+- **Yield**: four priced items. (1) timing page L101 + falsification 3 + L170: state the two channels (withhold onset ≤~200 ms, silent when it succeeds; alter/cancel after onset, leaves a trajectory) and rescope the universal "any quantum mechanism … must operate within this constraint" — +214 against headroom 1,267. (2) `control-theoretic-will` L80: the one-bit veto is bandwidth-minimal, not Tenet 2's magnitude-minimal (`tenets` L67), and the cheapest operation has the earliest deadline — +145 against 793; apex L98 swap −3. (3) the two live sibling loci the 12:53Z fix reported: `decoherence` L113 "actions becoming ballistic" +10 against 24; `libet-experiments` L91 +57 against 59 (zero slack, re-measure). (4) expand `voids/veto-void` from the unconsumed note with the alter channel as fifth counterweight — half-answers the note's Tenet-2 sting (minimal does not entail evidentially silent); voids measured 113/115 via `tools.evolution.state.count_section_files` (CLAUDE.md's 99/100 is stale). Birch concern (not praise): L101 and falsification 3 are scoped wider than their source; Process-fit and Birch converge on the same paragraph.
+- **Not done**: reports-only run — no content or todo.md edits; tasks not minted.
+- **Output**: [[reviews/optimistic-2026-10-06-neural-timing-and-motor-control-wing]]
+
 ## 12:53 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-neural-timing-constraints]]
