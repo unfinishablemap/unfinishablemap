@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-09-19 22:38:00+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-06 12:36:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[qualia]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:42:50+00:00
-lastmod: 2026-09-19 22:38:00+00:00
+lastmod: 2026-10-06 12:36:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -68,9 +68,9 @@ Buddhist contemplative traditions arrived at a parallel insight through differen
 
 Psychophysics has spent two centuries mapping the just noticeable difference (JND) — the minimum stimulus change detectable at least half the time. Weber's Law (1834) established that this threshold is proportional to stimulus intensity: we detect the same *ratio* of change regardless of magnitude.
 
-Below the JND, distinctions vanish from consciousness entirely. There is no experience of "almost seeing a difference." The boundary is categorical: perception or non-perception, with no intermediate state. Yet priming experiments demonstrate that the brain detects and responds to stimuli that consciousness cannot discriminate — sub-threshold information influences behaviour without entering awareness. The discrimination floor is real, and what lies beneath it is not nothing. It is everything consciousness discards.
+The floor this defines is a region rather than a line. A threshold fixed at 50% detection is by construction one point on a psychometric function — detection probability rising smoothly with the size of the difference — and where that point falls shifts with response criterion, attention, adaptation and the procedure used to measure it. The [categorical perception void](/voids/categorical-perception-void/) carries the sharpest demonstration: the same vowel continuum yields categorical discrimination under one task and graded discrimination under another (Gerrits & Schouten 2004), with the variation traced to task factors rather than to the stimuli (Schouten, Gerrits & van Hessen 2003). Distinctions therefore do not vanish from consciousness at a border; detection thins out across a band in which a difference is sometimes seen and sometimes missed, and no measurement has located a phenomenal wall beneath that band. Yet priming experiments demonstrate that the brain detects and responds to stimuli that consciousness cannot discriminate — sub-threshold information influences behaviour without entering awareness. The discrimination floor is real, however blurred its edge, and what lies beneath it is everything consciousness discards.
 
-Metamers carry that point from single dimensions up to whole scenes. Freeman & Simoncelli (2011) synthesised "novel forms of visual metamers, stimuli that differ physically but look the same," from a model averaging V1 responses in receptive fields that grow with eccentricity; the same model "also explains deficits of peripheral vision known as crowding." Balas, Nakano & Rosenholtz (2009) name the structure directly, studying the "equivalence classes" of a summary-statistic model — the sets of stimuli mapping to one representation. Below the JND a single dimension collapses; here entire scene-states collapse into one percept, and again nothing marks the collapse. The floor is less a line along one axis than a partition of the world into classes consciousness cannot tell apart from inside.
+Metamers carry that point from single dimensions up to whole scenes. Freeman & Simoncelli (2011) synthesised "novel forms of visual metamers, stimuli that differ physically but look the same," from a model averaging V1 responses in receptive fields that grow with eccentricity; the same model "also explains deficits of peripheral vision known as crowding." Balas, Nakano & Rosenholtz (2009) name the structure directly, studying the "equivalence classes" of a summary-statistic model — the sets of stimuli mapping to one representation. Where the JND tracks discriminability fading along a single dimension, here entire scene-states merge into one percept, and again nothing marks the merger. The floor is less a line along one axis than a partition of the world into classes consciousness cannot tell apart from inside — a partition whose class boundaries, like the JND, are drawn at a chosen level of discrimination performance rather than at a phenomenal wall.
 
 Ensemble coding also supplies the mechanism that the compression ratio quantified above leaves unexplained. Balas et al. propose that the visual system locally represents peripheral stimuli by "the joint statistics of responses of cells sensitive to different position, phase, orientation, and scale" — a pooled summary rather than an item list, a format that Whitney & Yamanashi Leib's (2018) review finds "defines foundational limits on cognition, memory, and behavior" across both low-level visual features and high-level social information. The million-to-one discard is then a change of representational format rather than a channel shedding bits at random: statistics survive, individuals do not. It is also why the discard issues no receipt — a pooled representation renders as populated visual space, so the compression presents itself as detail rather than as loss. [The plenitude void](/voids/plenitude-void/) takes up the format question directly.
 
@@ -121,10 +121,12 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 5. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.
 6. Von Rospatt, A. (1995). *The Buddhist Doctrine of Momentariness*. Stuttgart: Franz Steiner Verlag.
 7. Weber, E. H. (1834). *De pulsu, resorptione, auditu et tactu: Annotationes anatomicae et physiologicae*. Leipzig: Koehler.
-8. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Berlin: Springer.
-9. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. New York: Viking Press.
-10. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
-11. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
-12. Freeman, J. & Simoncelli, E. P. (2011). Metamers of the ventral stream. *Nature Neuroscience* 14(9): 1195–1201.
-13. Balas, B., Nakano, L., & Rosenholtz, R. (2009). A summary-statistic representation in peripheral vision explains visual crowding. *Journal of Vision* 9(12):13.
-14. Whitney, D. & Yamanashi Leib, A. (2018). Ensemble Perception. *Annual Review of Psychology* 69: 105–129.
+8. Gerrits, E., & Schouten, M. E. H. (2004). Categorical perception depends on the discrimination task. *Perception & Psychophysics*, 66(3), 363–376. https://doi.org/10.3758/BF03194885
+9. Schouten, B., Gerrits, E., & van Hessen, A. (2003). The end of categorical perception as we know it. *Speech Communication*, 41(1), 71–80. https://doi.org/10.1016/S0167-6393(02)00094-8
+10. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Berlin: Springer.
+11. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. New York: Viking Press.
+12. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
+13. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
+14. Freeman, J. & Simoncelli, E. P. (2011). Metamers of the ventral stream. *Nature Neuroscience* 14(9): 1195–1201.
+15. Balas, B., Nakano, L., & Rosenholtz, R. (2009). A summary-statistic representation in peripheral vision explains visual crowding. *Journal of Vision* 9(12):13.
+16. Whitney, D. & Yamanashi Leib, A. (2018). Ensemble Perception. *Annual Review of Psychology* 69: 105–129.

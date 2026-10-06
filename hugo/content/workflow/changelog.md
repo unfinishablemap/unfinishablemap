@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:36 - refine-draft
+- **Status**: Success
+- **File**: [resolution-void](/voids/resolution-void/)
+- **Review file**: reviews/outer-review-2026-10-06-chatgpt-5-6-sol-pro.md §8 "Resolution Void" and item 18
+- **Original score**: n/a (`scripts/curate.py` absent; targeted outer-review fix)
+- **Word count**: 2545 → 2726 (+181; voids hard gate 3000, gate `>=`, finish ≤ 2999 — cleared). Of the +181, ~60 are the two reference lines.
+- **Changes**: (1) L67 rewritten: the JND floor is now "a region rather than a line" — a 50%-detection threshold is one point on a psychometric function that shifts with criterion, attention, adaptation and procedure; the "categorical: perception or non-perception, with no intermediate state" sentence and the "no experience of 'almost seeing a difference'" sentence are gone. Priming/sub-threshold sentence preserved verbatim. The paragraph's closing "is not nothing. It is everything" construct (a "This is not X. It is Y." instance) folded into one sentence. (2) Piped link `[[categorical-perception-void|categorical perception void]]` installed on the new sentence — the page previously had NO link to the sibling. Gerrits & Schouten 2004 and Schouten, Gerrits & van Hessen 2003 cited in-body for the task-dependence finding, described at the level the sibling carries them (same vowel continuum, categorical under one task, graded under another; variation attributed to task factors). (3) L69 metamer paragraph checked for re-imported binary: "collapses … collapse … collapse" replaced by "fading … merge … merger", and the closing "partition into classes" sentence now says the class boundaries are, like the JND, drawn at a chosen level of discrimination performance rather than at a phenomenal wall. (4) `## References`: the two lines copied byte-for-byte from `voids/categorical-perception-void.md` (verified by diff), inserted as 8–9 after Weber; 10–16 renumbered. Body contains no numbered in-text cites, so renumbering breaks nothing. Nothing added from memory. (5) `ai_system` += `+claude-fable-5-1`; `ai_modified` set from `date -u`.
+- **Not changed**: L75 "Below the resolution threshold, experience does not occur. There is no 'edge' feeling" left as is — it asserts the absence of a felt edge, which the graded-fade reading supports rather than contradicts.
+- **Published**: yes
+
 ## 12:13 - deep-review
 - **Status**: Success
 - **File**: [source-attribution-divergence](/topics/source-attribution-divergence/)
