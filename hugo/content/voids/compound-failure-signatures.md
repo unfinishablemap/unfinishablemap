@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-08-17 23:55:25+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-06 07:42:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /voids/compound-cognitive-limits/
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 14:11:05+00:00
-lastmod: 2026-08-17 23:55:25+00:00
+lastmod: 2026-10-06 07:42:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -90,7 +90,7 @@ The extrapolation from attention-task interference to epistemic-limit interactio
 
 ### Three Modes of Compound Interaction
 
-**Superadditive interference.** The [self-reference paradox](/voids/self-opacity/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access; neither route remains open in the compound case. The [infant consciousness void](/voids/infant-consciousness/) provides a paradigm case: language barrier, absent self-concept, and demolished neural hardware interact superadditively, producing inaccessibility no single barrier predicts.
+**Superadditive interference.** The [self-reference paradox](/voids/self-opacity/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access; neither route remains open in the compound case. The [infant consciousness void](/voids/infant-consciousness/) provides a paradigm case: language barrier, absent self-concept, and reorganised neural architecture interact superadditively, producing inaccessibility no single barrier predicts.
 
 **Mutual reinforcement.** The [recursion-void](/voids/recursion-void/)—metacognitive depth bounded around fifth-order intentionality (Dunbar, 1998)—limits our ability to *think about* other limits, creating a self-defending structure. McGinn (1989) identified multiple problems subject to [cognitive closure](/concepts/mysterianism/) but never systematically asked what their *interaction* produces. That a philosopher can list multiple closures without investigating their compound effect is itself a symptom.
 

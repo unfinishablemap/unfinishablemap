@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-09-30 07:57:59+00:00
+ai_modified: 2026-10-06 07:42:00+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 apex_last_synthesis: 2026-09-30 07:57:59+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-09-30 07:57:59+00:00
+lastmod: 2026-10-06 07:42:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -162,7 +162,7 @@ Different voids do not merely mark different locations in cognitive space—they
 
 Six primary signatures recur: self-referential limits produce **self-refutation** (Wittgenstein's *Tractatus*); conceptual limits produce **aporia** (equally plausible yet inconsistent premises); introspective limits produce **construction mistaken for observation**; pattern-matching limits produce **systematic illusion** (misperception resisting correction even after detection); expressive limits produce **ineffability**; meta-cognitive limits produce **epistemic vertigo**. Two more complete the inventory. The ineffable encounter void adds **dissolution under attention**, the diagnostic signature for [presence-type voids](/concepts/presence-type-and-absence-type-voids/)—where absence-type voids produce the phenomenology of reaching and not finding, presence-type voids produce having-had-and-lost. The [erasure void](/voids/erasure-void/) adds **silent erasure**: the inventory of self is revised downward without notification, the zero-signal failure mode against which other signatures become visible as signals.
 
-These signatures rarely appear in isolation. Overlapping limits produce qualitatively different phenomenology through **superadditive interference**, **mutual reinforcement**, and **emergent occlusion**. The [infant consciousness void](/voids/infant-consciousness/) is the paradigm case: language barrier, absent self-concept, and demolished neural hardware interact superadditively, producing inaccessibility no single barrier predicts.
+These signatures rarely appear in isolation. Overlapping limits produce qualitatively different phenomenology through **superadditive interference**, **mutual reinforcement**, and **emergent occlusion**. The [infant consciousness void](/voids/infant-consciousness/) is the paradigm case: language barrier, absent self-concept, and reorganised neural architecture interact superadditively, producing inaccessibility no single barrier predicts.
 
 Some voids prove *conjoint* rather than merely interacting—the [agency](/voids/agency-void/), [assent](/voids/assent-void/), [voids-between-minds](/voids/voids-between-minds/), [erasure](/voids/erasure-void/), [suspension](/voids/suspension-void/), [imagery](/voids/imagery-void/), [vagueness](/voids/vagueness-void/), and [common-knowledge](/voids/common-knowledge-void/) voids and the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) are multi-face voids whose joint structure does work no single face could. The [conjunction-coalesce](/apex/conjunction-coalesce/) discipline preserves these as single entries with the seam between faces visible, since the seam encodes the claim. The seam adds evidential weight only after two discounts: origin-class scoring (a genuine prior-article coalesce, a creation-time cognate and a retroactive classification are not equally independent merger events) and [common-cause / null-model](/project/common-cause-null/) discounting, since a template-bearing pipeline yielding template-conformant seams is what the null predicts. Net of both, the seam pattern is a case base, not an empirical base, matching [the conjunction-coalesce synthesis's own downgrade](/apex/conjunction-coalesce/#what-the-count-is-worth).
 
