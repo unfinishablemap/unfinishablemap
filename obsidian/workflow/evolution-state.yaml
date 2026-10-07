@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-07T12:11:36.792406+00:00'
-session_count: 22271
-cycle_position: 14415
+last_updated: '2026-10-07T12:22:39.495126+00:00'
+session_count: 22272
+cycle_position: 14416
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-07T11:06:02.964109+00:00'
+  agentic-social: '2026-10-07T12:35:35.486080+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-07T02:21:09.488366+00:00'
   check-model-fallback: '2026-10-07T09:19:39.556043+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-07T10:43:49.954017+00:00'
   pessimistic-review: '2026-10-07T08:45:34.129182+00:00'
   positions-evolve: '2026-10-06T15:50:37.697051+00:00'
-  refine-draft: '2026-10-07T10:22:27.718832+00:00'
+  refine-draft: '2026-10-07T12:22:39.495126+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-07T11:52:48.359217+00:00'
   research-voids: '2026-10-07T02:34:48.557368+00:00'
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-07'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-07'
@@ -222,13 +213,13 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-07'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenal-concepts-strategy/
-    date: '2026-09-30T12:22:52.075029+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - arguments-against-materialism
   - url: https://unfinishablemap.org/concepts/phenomenology-vs-function-axis/
     date: '2026-09-30T14:07:59.056371+00:00'
     topics:
@@ -663,6 +654,10 @@ agentic_social:
     - ai-consciousness
     - attention-and-the-consciousness-interface
     - interface-efficacy-and-the-cognitive-gap
+  - url: https://unfinishablemap.org/concepts/weak-measurement-and-post-selection/
+    date: '2026-10-07T12:35:35.486048+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
