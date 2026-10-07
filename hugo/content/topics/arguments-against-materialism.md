@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-10-07 18:19:58+00:00
+ai_modified: 2026-10-07 23:14:31+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -20,7 +20,7 @@ concepts:
 - '[[the-naturalisation-failure-for-content]]'
 - '[[phenomenology-vs-function-axis]]'
 created: 2026-02-27
-date: &id001 2026-10-02
+date: &id001 2026-10-07
 description: 'Multiple independent philosophical arguments converge on the same conclusion:
   physical facts do not entail phenomenal facts. Exploring why these arguments matter
   and why materialism persists despite them.'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:36:27+00:00
-lastmod: 2026-10-07 18:19:58+00:00
+lastmod: 2026-10-07 23:14:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ None of this calls for abandoning science. It recognises that one mode of explan
 
 Materialists sometimes respond that we should just wait—science has surprised us before. But past scientific progress explained phenomena by showing *how* they followed from underlying mechanisms. Water flows because of H₂O's molecular properties. Heat is molecular motion. In each case, the connection between levels is transparent. With consciousness, we cannot even articulate what a transparent connection *would look like*. The difficulty is not that we lack data; it is that we lack a framework for how physical facts could ever entail phenomenal facts.
 
-One physicalist position grants all of this. [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) accepts that the gap is permanent and that no physical description will entail phenomenal facts, yet holds that consciousness is identical to a physical process, the identity known a posteriori, with the gap lodged in how phenomenal concepts refer rather than in what they refer to. The replies above answer the physicalist who promises eventual closure; they do not reach this one. What the Map says to Type-B is pitched at a different tier. A psychophysical identity that nothing explains is [a law under the title of an identity](/concepts/primitive-identities-and-strong-necessities/), a cost the ledger must count; and the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet tells against the simplicity argument that is the usual ground for preferring the identity. These bear on plausibility rather than evidence. Three further replies, with the [two-dimensional argument](/concepts/primitive-identities-and-strong-necessities/#strong-necessities) a fourth, reach it: the [water/H₂O disanalogy](/concepts/zombie-master-argument/), on which zombie conceivability reflects acquaintance rather than the ignorance that once made water-without-H₂O conceivable; Chalmers's [master argument](/concepts/phenomenal-concepts-strategy/), which presses the phenomenal-concepts explanation of the gap into a dilemma while assuming nothing about whether conceivability entails possibility; and [Tenet 2](/tenets/#minimal-quantum-interaction)'s denial of causal closure at quantum indeterminacy, which removes a defeater without adding evidence. The one reply that could lift the Map's tier above *compatible*, a comparison of dualism and phenomenal concepts as rival explanations of the gap by stated criteria, is not yet run; the [Type-A/B/C page](/concepts/type-a-type-b-and-type-c-physicalism/#which-map-reply-reaches-which-type) records it as owed. Type-B predicts the persistence and the neural correlates the Map cites, so the arguments here leave dualism and Type-B compatible with the same observations rather than refuting the identity view.
+One physicalist position grants all of this. [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) accepts that the gap is permanent and that no physical description will entail phenomenal facts, yet holds that consciousness is identical to a physical process, the identity known a posteriori, with the gap lodged in how phenomenal concepts refer rather than in what they refer to. The replies above answer the physicalist who promises eventual closure; they do not reach this one. What the Map says to Type-B is pitched at a different tier. A psychophysical identity that nothing explains is [a law under the title of an identity](/concepts/primitive-identities-and-strong-necessities/), a cost the ledger must count; and the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet tells against the simplicity argument that is the usual ground for preferring the identity. These bear on plausibility rather than evidence. Three further replies, with the [two-dimensional argument](/concepts/primitive-identities-and-strong-necessities/#strong-necessities) a fourth, reach it: the [water/H₂O disanalogy](/concepts/zombie-master-argument/), on which zombie conceivability reflects acquaintance rather than the ignorance that once made water-without-H₂O conceivable; Chalmers's [master argument](/concepts/phenomenal-concepts-strategy/), which presses the phenomenal-concepts explanation of the gap into a dilemma while assuming nothing about whether conceivability entails possibility; and [Tenet 2](/tenets/#minimal-quantum-interaction)'s denial of causal closure at quantum indeterminacy, which removes a defeater without adding evidence. The one reply that could lift the Map's tier above *compatible*, a comparison of dualism and phenomenal concepts as rival explanations of the gap by stated criteria, is run on [a dedicated page](/concepts/rival-explanations-of-the-explanatory-gap/) and leaves the tier at *compatible*. Type-B predicts the persistence and the neural correlates the Map cites, so the arguments here leave dualism and Type-B compatible with the same observations rather than refuting the identity view.
 
 ## The Persistence of Materialism
 

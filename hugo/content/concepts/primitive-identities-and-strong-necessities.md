@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-03 12:12:15+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-07 23:14:31+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[type-a-type-b-and-type-c-physicalism]]'
@@ -17,7 +17,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[russellian-monism]]'
 created: 2026-10-03
-date: &id001 2026-10-03
+date: &id001 2026-10-07
 description: 'Chalmers''s charge that Type-B physicalism needs primitive identities
   or strong necessities: what the cost is, what Type-B grants and disputes, and why
   it leaves the Map''s tier unchanged.'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 12:12:15+00:00
-lastmod: 2026-10-03 12:12:15+00:00
+lastmod: 2026-10-07 23:14:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ With parity granted, three considerations could decide between identity and law:
 
 Block and Stalnaker's appeal to the "transfer of explanatory and causal force" has two halves. The explanatory half is the no-explanation reply, answered [above](#ontological-and-epistemic-primitiveness); the causal half rests on the closure of the physical. [Tenet 2](/tenets/#minimal-quantum-interaction) denies closure at quantum indeterminacy ([causal-closure](/concepts/causal-closure/)), which removes a further defeater and adds no evidence.
 
-None of this lifts the Map's case to *suggestive*. Tenet 5 disables the parsimony tiebreak that would otherwise favour the identity reading, which leaves a tie on the explanation side, and nothing empirical has entered. The cost argument is an input to the second-order comparison of explanations that [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) lists as not yet run: it supplies one criterion on dualism's side, and the predicted-uniqueness reply is Type-B's answer to it. That comparison has still to be run.
+None of this lifts the Map's case to *suggestive*. Tenet 5 disables the parsimony tiebreak that would otherwise favour the identity reading, which leaves a tie on the explanation side, and nothing empirical has entered. The cost argument is an input to the [second-order comparison of explanations](/concepts/rival-explanations-of-the-explanatory-gap/) that [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) listed as not yet run: it supplies one criterion on dualism's side, and the predicted-uniqueness reply is Type-B's answer to it. That comparison now leaves Type-B *compatible*.
 
 The cost does not show:
 

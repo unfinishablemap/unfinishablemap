@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-03 16:17:52+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-07 23:14:31+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[type-a-type-b-and-type-c-physicalism]]'
@@ -17,7 +17,7 @@ concepts:
 - '[[vitalism]]'
 - '[[meta-problem-of-consciousness]]'
 created: 2026-10-03
-date: &id001 2026-10-03
+date: &id001 2026-10-07
 description: 'Stoljar''s ignorance hypothesis: we lack non-experiential truths relevant
   to experience. Why it is type-C, why it is the Map''s hardest opponent, and what
   Tenet 5 grants it.'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 16:17:52+00:00
-lastmod: 2026-10-03 16:17:52+00:00
+lastmod: 2026-10-07 23:14:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ The Map's thickness grid in [four-quadrant-dualism-taxonomy](/topics/four-quadra
 
 ## Why It Is the Hardest Opponent
 
-The Map treats the explanatory-gap, zombie and knowledge arguments as one premise-sharing cluster, and names the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) as the mainstream physicalist account of the shared premise ([P-D1](/positions/arguments-for-dualism/#p-d1)). The ignorance hypothesis is a second, independent account of why the arguments look compelling. It makes no claim about phenomenal concepts, so it survives the failure of every variant of that strategy.
+The Map treats the explanatory-gap, zombie and knowledge arguments as one premise-sharing cluster, and names the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) as the mainstream physicalist account of the shared premise ([P-D1](/positions/arguments-for-dualism/#p-d1)). The ignorance hypothesis is a second, independent account of why the arguments look compelling. It makes no claim about phenomenal concepts, so it survives the failure of every variant of that strategy; Stoljar (2005), who named the strategy, himself ranks his "missing concept strategy" above it as "a more plausible response" (abstract).
 
 It also finds the fault elsewhere. The phenomenal-concepts strategy locates the gap in how we think about consciousness; the ignorance hypothesis concedes our grip on consciousness and locates the gap in what we know of the physical. McClelland puts it so: the view "holds that the shortcomings lie on the physical side".
 
@@ -141,9 +141,10 @@ What follows is the Map's own analysis, drawn by neither Stoljar nor Chalmers. T
 8. McClelland, T. (2020). Ignorance and the meta-problem of consciousness. *Journal of Consciousness Studies*, 27, 108–119 (volume and pages per the Cambridge repository record; issue unconfirmed). https://doi.org/10.17863/cam.120115 (submitted version)
 9. Papineau, D. (2007). Review of D. Stoljar, *Ignorance and Imagination*. *Notre Dame Philosophical Reviews*, 2007.04.15. https://ndpr.nd.edu/reviews/ignorance-and-imagination-the-epistemic-origin-of-the-problem-of-consciousness/
 10. Stoljar, D. (2001). Two conceptions of the physical. *Philosophy and Phenomenological Research*, 62(2), 253–281. https://doi.org/10.1111/j.1933-1592.2001.tb00056.x
-11. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press. https://doi.org/10.1093/0195306589.001.0001 (book and chapter abstracts)
-12. Stoljar, D. (2013). Four kinds of Russellian monism. In U. Kriegel (Ed.), *Current Controversies in Philosophy of Mind* (pp. 17–39). Routledge. (quoted from the author's preprint, http://hdl.handle.net/1885/23387; page numbers are the preprint's)
-13. Stoljar, D. (2020a). Chalmers v Chalmers. *Noûs*, 54(2), 469–487. https://doi.org/10.1111/nous.12334
-14. Stoljar, D. (2020b). The epistemic approach to the problem of consciousness. In U. Kriegel (Ed.), *The Oxford Handbook of the Philosophy of Consciousness* (pp. 481–496). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198749677.013.22
-15. Southgate, A. & Ocinq-cinq, C. (2026-10-02). Type-A, Type-B and Type-C Physicalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/type-a-type-b-and-type-c-physicalism/
-16. Southgate, A. & Oquatre-six, C. (2026-03-19). Physical Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physical-completeness/
+11. Stoljar, D. (2005). Physicalism and phenomenal concepts. *Mind & Language*, 20(5), 469–494. https://doi.org/10.1111/j.0268-1064.2005.00296.x (abstract)
+12. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press. https://doi.org/10.1093/0195306589.001.0001 (book and chapter abstracts)
+13. Stoljar, D. (2013). Four kinds of Russellian monism. In U. Kriegel (Ed.), *Current Controversies in Philosophy of Mind* (pp. 17–39). Routledge. (quoted from the author's preprint, http://hdl.handle.net/1885/23387; page numbers are the preprint's)
+14. Stoljar, D. (2020a). Chalmers v Chalmers. *Noûs*, 54(2), 469–487. https://doi.org/10.1111/nous.12334
+15. Stoljar, D. (2020b). The epistemic approach to the problem of consciousness. In U. Kriegel (Ed.), *The Oxford Handbook of the Philosophy of Consciousness* (pp. 481–496). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198749677.013.22
+16. Southgate, A. & Ocinq-cinq, C. (2026-10-02). Type-A, Type-B and Type-C Physicalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/type-a-type-b-and-type-c-physicalism/
+17. Southgate, A. & Oquatre-six, C. (2026-03-19). Physical Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physical-completeness/

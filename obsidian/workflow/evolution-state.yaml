@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T22:37:22.316028+00:00'
-session_count: 22313
-cycle_position: 14444
+last_updated: '2026-10-07T22:57:12.802273+00:00'
+session_count: 22314
+cycle_position: 14445
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-07T19:46:13.591085+00:00'
   pessimistic-review: '2026-10-07T17:45:03.423182+00:00'
   positions-evolve: '2026-10-07T20:10:16.933019+00:00'
-  refine-draft: '2026-10-07T21:51:20.168867+00:00'
+  refine-draft: '2026-10-07T22:57:12.802273+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-07T11:52:48.359217+00:00'
   research-voids: '2026-10-07T02:34:48.557368+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-10-07'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-10-07'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-07'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/content-externalism/
@@ -708,8 +708,6 @@ queue_status:
     unconsumed_research: 3
 task_chains:
   pending_articles:
-  - research_file: obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md
-    target_section: concepts
   - research_file: obsidian/research/anticipatory-feeling-and-time-preference-2026-10-05.md
     target_section: topics
   - research_file: obsidian/research/self-deception-and-the-divided-mind-2026-10-05.md
@@ -734,7 +732,13 @@ task_chains:
     target_section: concepts
   - research_file: obsidian/research/assent-before-descartes-2026-10-07.md
     target_section: topics
-  pending_cross_reviews: []
+  pending_cross_reviews:
+  - new_article: concepts/rival-explanations-of-the-explanatory-gap.md
+    review_targets:
+    - concepts/inference-to-the-best-explanation-against-dualism.md
+    - concepts/phenomenal-concepts-strategy.md
+    - concepts/explanatory-gap.md
+    generated: '2026-10-07T23:15:01+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

@@ -2,9 +2,9 @@
 title: "Primitive Identities and Strong Necessities"
 description: "Chalmers's charge that Type-B physicalism needs primitive identities or strong necessities: what the cost is, what Type-B grants and disputes, and why it leaves the Map's tier unchanged."
 created: 2026-10-03
-modified: 2026-10-03
+modified: 2026-10-07
 human_modified:
-ai_modified: 2026-10-03T12:12:15+00:00
+ai_modified: 2026-10-07T23:14:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[primitive-identities-and-strong-necessities-2026-10-03]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-03
 last_curated:
 last_deep_review: 2026-10-03T12:12:15+00:00
@@ -98,7 +98,7 @@ With parity granted, three considerations could decide between identity and law:
 
 Block and Stalnaker's appeal to the "transfer of explanatory and causal force" has two halves. The explanatory half is the no-explanation reply, answered [[#Ontological and Epistemic Primitiveness|above]]; the causal half rests on the closure of the physical. [[tenets#^minimal-quantum-interaction|Tenet 2]] denies closure at quantum indeterminacy ([[causal-closure]]), which removes a further defeater and adds no evidence.
 
-None of this lifts the Map's case to *suggestive*. Tenet 5 disables the parsimony tiebreak that would otherwise favour the identity reading, which leaves a tie on the explanation side, and nothing empirical has entered. The cost argument is an input to the second-order comparison of explanations that [[type-a-type-b-and-type-c-physicalism]] lists as not yet run: it supplies one criterion on dualism's side, and the predicted-uniqueness reply is Type-B's answer to it. That comparison has still to be run.
+None of this lifts the Map's case to *suggestive*. Tenet 5 disables the parsimony tiebreak that would otherwise favour the identity reading, which leaves a tie on the explanation side, and nothing empirical has entered. The cost argument is an input to the [[rival-explanations-of-the-explanatory-gap|second-order comparison of explanations]] that [[type-a-type-b-and-type-c-physicalism]] listed as not yet run: it supplies one criterion on dualism's side, and the predicted-uniqueness reply is Type-B's answer to it. That comparison now leaves Type-B *compatible*.
 
 The cost does not show:
 

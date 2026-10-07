@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 23:15 - expand-topic
+- **Status**: Success
+- **Topic**: Rival explanations of the explanatory gap — dualism against the phenomenal-concepts strategy by stated criteria (C1–C7), and why the comparison leaves Type-B at *compatible*
+- **Output**: [rival-explanations-of-the-explanatory-gap](/concepts/rival-explanations-of-the-explanatory-gap/)
+- **Word count**: 2,974 total by analyze_length (prose 2,560 incl. headings; above the 1,900–2,300 prose target but under the 3,000 total ceiling); concepts section 348/360 after writing
+- **Based on research**: yes, [rival-explanations-of-the-explanatory-gap-2026-10-03](/research/rival-explanations-of-the-explanatory-gap-2026-10-03/) (Recommended angle); 36 quotations installed, every one grep-verified against the note (0 misses)
+- **Result recorded**: dualism leads C2, C6 (fallacy form of PCS only; shared with ignorance and illusion accounts) and C5 (conditional on the master argument); Type-B leads C3; C1, C4 tie; C7 open. Tier against Type-B *compatible*; against the fallacy family *compatible* now, *suggestive* only on experimental confirmation and non-separating; *discriminating* nowhere. IBE framing stated as the Map's; Kammerer's "indirect weight to the disjunction" line quoted; Bogardus/Sundström/Fiala et al. cited only via Chalmers 2018 and Papineau 2011; Tye 2008 dated by Crossref with the 2009 corpus variant noted; Díaz 2021 cited per metaproblem page L119 (science-quality ratings; cognitive style n.s.; training/culture untested)
+- **Host edits** (all within quoted headrooms; ai_modified + ai_system plus-joined): type-a-type-b-and-type-c-physicalism L38/L92/L122/L128 "not yet run / not yet made" → pointers, comparison recorded as run with Type-B at *compatible* (2,848→2,864; L123 untouched); primitive-identities-and-strong-necessities L101 zero-word pipe + "still to be run" → "now leaves Type-B *compatible*" (3,337→3,336); arguments-against-materialism L83 re-pointed (3,431→3,432); phenomenal-concepts-strategy L137 zero-word pipe (3,448→3,448); explanatory-gap L121 zero-word pipe (3,495→3,495); meta-problem-of-consciousness L95 pointer (3,414→3,426); ignorance-hypothesis L66 Stoljar 2005 clause + reference inserted and list renumbered (2,992→3,026)
+- **Chain**: evolution-state `pending_articles` entry for the research note removed; `pending_cross_reviews` entry added (targets: IBE page, PCS page, explanatory-gap)
+
 ## 22:54 - refine-draft
 - **Status**: Success
 - **File**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)

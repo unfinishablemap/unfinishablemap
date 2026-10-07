@@ -2,9 +2,9 @@
 title: "The Phenomenal Concepts Strategy"
 description: "Physicalism's best response to the explanatory gap: the puzzle is in our concepts, not reality. Chalmers's master argument exposes a dilemma PCS has not stably escaped."
 created: 2026-01-15
-modified: 2026-01-20
+modified: 2026-10-07
 human_modified: null
-ai_modified: 2026-10-03T09:44:24+00:00
+ai_modified: 2026-10-07T23:14:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[modal-structure-of-phenomenal-properties]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T23:11:05+00:00
@@ -134,7 +134,7 @@ The result is double-edged, and the Map records it as such rather than treating 
 
 The phenomenal concepts strategy remains contested. A 2020 PhilPapers survey found 62% of philosophers consider the hard problem genuine, 30% do not. PCS has not achieved consensus, but neither have anti-physicalist arguments.
 
-Notably, even the most detailed PCS defence—Balog's 2012 constitutional account—concedes that the debate reaches a standoff. PCS does not compel anti-physicalists to abandon their position, nor do anti-physicalist arguments compel PCS defenders to abandon theirs. This concession from PCS's strongest advocate is significant: physicalism's best strategy for explaining the gap cannot claim victory even on its own terms.
+Notably, even the most detailed PCS defence—Balog's 2012 constitutional account—concedes that the debate reaches a standoff. PCS does not compel anti-physicalists to abandon their position, nor do anti-physicalist arguments compel PCS defenders to abandon theirs. This concession from PCS's strongest advocate is significant: [[rival-explanations-of-the-explanatory-gap|physicalism's best strategy for explaining the gap]] cannot claim victory even on its own terms.
 
 The persistence of anti-physicalist intuitions poses a further problem. If PCS is correct—if the gap is merely conceptual—then philosophical education should eventually dissolve it, as understanding molecular motion dissolved vitalist intuitions about the "life force." But consciousness-related intuitions have persisted across centuries of investigation and show no sign of fading among informed philosophers. The gap behaves less like a conceptual confusion and more like a genuine feature of reality.
 

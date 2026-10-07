@@ -2,9 +2,9 @@
 title: "The Meta-Problem of Consciousness"
 description: "Why do we think consciousness is hard to explain? Chalmers' meta-problem shifts focus from experience itself to our reports and intuitions about experience."
 created: 2026-02-09
-modified: 2026-02-15
+modified: 2026-10-07
 human_modified:
-ai_modified: 2026-10-01T02:44:14+00:00
+ai_modified: 2026-10-07T23:14:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[metaproblem-of-consciousness-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-09-11T22:54:33+00:00
@@ -92,7 +92,7 @@ Non-illusionist physicalists—those who accept phenomenal consciousness as real
 
 The [[phenomenal-concepts-strategy|phenomenal concepts strategy]] offers one route: we possess special concepts for consciousness that don't connect transparently to physical concepts, creating an *apparent* gap even when no real gap exists. Problem intuitions would then arise from our conceptual architecture rather than from the nature of consciousness.
 
-But this raises a further meta-problem: if consciousness is physical, why did evolution equip us with ways of thinking about it that make it seem non-physical? The phenomenal concepts strategy postpones rather than dissolves the explanatory burden. If phenomenal concepts exist because they help us navigate genuinely phenomenal reality, they become evidence *for* that reality rather than an explanation of why it seems to exist.
+But this raises a further meta-problem: if consciousness is physical, why did evolution equip us with ways of thinking about it that make it seem non-physical? The phenomenal concepts strategy postpones rather than dissolves the explanatory burden. If phenomenal concepts exist because they help us navigate genuinely phenomenal reality, they become evidence *for* that reality rather than an explanation of why it seems to exist. The Map's [[rival-explanations-of-the-explanatory-gap|comparison of rival explanations]] scores the meta-problem challenge for Type-B.
 
 That objection remains contested. Botin (2024) grants that orthodox Russellian and type-B physicalism both fail the meta-problem, but argues that an a posteriori Russellian version of the phenomenal concepts strategy survives it, so physicalists need not retreat to illusionism. If that holds, a third position sits between the two set against each other above: a physicalist realist can grant phenomenal properties are real and still decline the dualist's conclusion.
 

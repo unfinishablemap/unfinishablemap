@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-02
-ai_modified: 2026-10-07 19:22:27+00:00
+ai_modified: 2026-10-07 23:14:31+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[russellian-monism]]'
 - '[[parsimony-epistemology]]'
 created: 2026-10-02
-date: &id001 2026-10-02
+date: &id001 2026-10-07
 description: 'Chalmers''s three physicalist replies to the explanatory gap, routed
   to the Map arguments that actually reach each: Type-B is the live opponent and Type-C
   collapses.'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 12:15:57+00:00
-lastmod: 2026-10-07 19:22:27+00:00
+lastmod: 2026-10-07 23:14:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ topics:
 
 Type-A, Type-B and Type-C are David Chalmers's labels for three physicalist responses to the epistemic gap between physical and phenomenal truths. Type-A physicalism denies the gap, or holds it easily closed. Type-B grants an epistemic gap that will never close and denies that it marks a gap in reality. Type-C grants a deep gap now and holds it closable in principle. The Unfinishable Map's arguments for [dualism](/tenets/#dualism) do not reach the three alike, and the useful fact about the taxonomy is which reply answers which physicalist.
 
-The routing in brief ([set out below](#which-map-reply-reaches-which-type)): the claim that phenomenal character is a datum over and above the functions reaches only Type-A. The promissory-note, persistence and structure-and-dynamics replies that the Map's hub articles lead with miss Type-B; they reach Type-C, which Chalmers argues has no stable position ([explained below](#why-type-c-collapses)), and structure and dynamics also reaches Type-A. Type-B, the live opponent, is reached by a different set: the water/H₂O disanalogy, the cost of a primitive identity, the two-dimensional argument, Chalmers's master argument against the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), the denial of causal closure, a Tenet-5 reply the Map runs only briefly, and a second-order comparison of explanations it has not yet run.
+The routing in brief ([set out below](#which-map-reply-reaches-which-type)): the claim that phenomenal character is a datum over and above the functions reaches only Type-A. The promissory-note, persistence and structure-and-dynamics replies that the Map's hub articles lead with miss Type-B; they reach Type-C, which Chalmers argues has no stable position ([explained below](#why-type-c-collapses)), and structure and dynamics also reaches Type-A. Type-B, the live opponent, is reached by a different set: the water/H₂O disanalogy, the cost of a primitive identity, the two-dimensional argument, Chalmers's master argument against the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), the denial of causal closure, a Tenet-5 reply the Map runs only briefly, and a [second-order comparison of explanations](/concepts/rival-explanations-of-the-explanatory-gap/) that leaves the tier unchanged.
 
 The tiers that follow are the Map's reconstruction from its own evidential ladder, not Chalmers's verdicts. Against Type-A the Map's case is *suggestive*, provisionally, and only once phenomenal character is admitted as an explanandum; against Type-B it is *compatible*; against Type-C it is *suggestive*. The cases against Type-A and Type-C favour Type-B as much as dualism, so neither separates dualism from physicalism. Against none is it *discriminating*.
 
@@ -93,7 +93,7 @@ A reply reaches a type when it engages a premise that type holds; reaching says 
 | A primitive identity is a law under another name | B | [primitive-identities-and-strong-necessities](/concepts/primitive-identities-and-strong-necessities/) |
 | Two-dimensional argument | B | [primitive-identities-and-strong-necessities](/concepts/primitive-identities-and-strong-necessities/#strong-necessities) |
 | Master argument against phenomenal concepts | B (that strategy only) | [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) |
-| Dualism or phenomenal concepts as the better explanation of the gap | B | not yet run |
+| Dualism or phenomenal concepts as the better explanation of the gap | B | [rival-explanations-of-the-explanatory-gap](/concepts/rival-explanations-of-the-explanatory-gap/) |
 | Tenet 5 against the simplicity argument for the identity | B (its parsimony only) | [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/); [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) |
 | Causal closure fails at quantum indeterminacy | B's causal argument; any type argued from closure | [causal-closure](/concepts/causal-closure/); [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) |
 | Promissory note, degenerating programme, paradigm crisis | C | [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/); [explanatory-gap](/concepts/explanatory-gap/) |
@@ -123,13 +123,13 @@ Five patterns recur in which a reply or a view is routed to the wrong type.
 The ladder is the one in [inference-to-the-best-explanation-against-dualism](/concepts/inference-to-the-best-explanation-against-dualism/): evidence *compatible with* a tenet, *suggestive* of it, or *discriminating* in its favour over the physicalist rival. The Map's rule that a tenet removes a defeater but never upgrades the evidence ([P-M1](/positions/methodology-and-calibration/#p-m1)) governs each verdict. No source consulted applies the A/B/C taxonomy to interactionist dualism's evidential standing, so the verdicts are the Map's reconstruction.
 
 - **Type-A: suggestive, provisionally, and only on the widened explananda.** Admitting phenomenal character as a datum over and above the functions is exactly what Type-A rejects; Chalmers concedes that the dispute "usually comes down to intuition", and the first-person warrant cannot be handed to an opponent who declines it. Even granted, the datum favours every view that admits it, Type-B included.
-- **Type-B: compatible.** Type-B grants the datum and predicts what the Map cites: persistence, the opacity of neural correlates, the reports. The replies that reach it are a priori, modal or defeater-removing, bearing on plausibility rather than evidential tier; only a second-order comparison favouring dualism by stated criteria would lift it to suggestive.
+- **Type-B: compatible.** Type-B grants the datum and predicts what the Map cites: persistence, the opacity of neural correlates, the reports. The replies that reach it are a priori, modal or defeater-removing, bearing on plausibility rather than evidential tier; only a second-order comparison favouring dualism by stated criteria would lift it to suggestive, and that comparison, [now run](/concepts/rival-explanations-of-the-explanatory-gap/), splits by explanandum and does not favour dualism, so Type-B stays *compatible*.
 - **Type-C: suggestive, without separating dualism from physicalism; against the ignorance hypothesis, compatible.** Persistence is mildly unexpected on Type-C, except the [ignorance hypothesis](/concepts/ignorance-hypothesis/), which sets no timetable and so predicts it, and expected on dualism and Type-B alike, so evidence against closure-soon Type-C moves credence toward B, D and F together; its main defeat is the dialectical collapse argument.
 - **Discriminating: nowhere.** A discriminating result would have to come through Tenet 3's channel, an outcome deviation conditioned on intention, whose absence all three types predict alike.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** The tenet's rationale names illusionism, a Type-A view, and cites the gap's failure to close, which presses Type-C; it does not name Type-B. Against the opponent who grants the datum and explains the gap conceptually, Tenet 1 stands as a commitment rather than a result, and the Map's case lives in the cost and modal arguments and a second-order comparison not yet made.
+**[Dualism](/tenets/#dualism).** The tenet's rationale names illusionism, a Type-A view, and cites the gap's failure to close, which presses Type-C; it does not name Type-B. Against the opponent who grants the datum and explains the gap conceptually, Tenet 1 stands as a commitment rather than a result, and the Map's case lives in the cost and modal arguments; the [second-order comparison](/concepts/rival-explanations-of-the-explanatory-gap/), now made, leaves it there.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The fitting Tenet-5 reply to Type-B targets the simplicity argument for the identity, and it binds symmetrically: the Map cannot discount simplicity in the physicalist's identity inference while relying on it in its own abductions.
 
