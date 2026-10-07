@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 07:13:43+00:00
+ai_modified: 2026-10-07 07:26:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 07:13:43+00:00
+lastmod: 2026-10-07 07:26:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:26 - deep-review
+- **Status**: Success
+- **File**: [manyism](/concepts/manyism/)
+- **Word count**: 1670 → 1924 (+254; 77% of concepts soft 2500, status ok)
+- **Critical issues addressed**: 3 — (1) the "In his words" Roelofs quotation ("there's nothing wrong with 'manyism'…") is absent from the cited AJP paper (pdftotext of the author's copy: 0 hits for "nothing wrong"/"slightly different"/"one place"); it is Roelofs's lukeroelofs.com summary, which the research note had recorded and the article compressed away — replaced with the paper's verbatim "there is nothing implausible about there being, for 'each of us', multiple overlapping conscious subjects in one spot" (Roelofs 2024); (2) coiner misattribution — "Manyism is Luke Roelofs' name for…" when the paper says the label "has come to be called 'manyism'" and credits Simon 2017: 451 ("solutions … according to which every candidate is an experiencer"); lead rewritten, Simon 2017 cited (Crossref-verified, quoted via Roelofs since Wiley/PhilPapers 403); Google Books search-within-volume confirms *Combining Minds* has 0 occurrences of "manyism" (control "slightly different" hit); (3) "shut in its own skin" (07-18 repair) was correct James wording but unattributed — now "in William James's phrase, 'shut in its own skin, windowless' (James 1890)", grep-verified at psychclassics p.160.
+- **Medium issues addressed**: 3 — Roelofs's own conditional ("if two subjects can share experiences, then there is nothing implausible about manyism", verbatim §3) installed, so the article's intelligibility-burden pressure is shown to be his declared hinge; the paper's opponents named (Unger, Zimmerman, Simon use Too-Many-Minds as an argument for substance dualism; piped to [substance dualism](/concepts/substance-property-dualism/)) with a Relation-section sentence declining that inference for the Map (single-subject case rests on unity as primitive, not candidate-counting — a calibration guard against borrowing the problem as evidence); "(Harris)" → "(Annaka Harris)".
+- **Enhancements made**: 2 cross-links (substance-property-dualism new; unity-of-consciousness second piped use). 10-07 plurality-void reciprocal read against voids/plurality-void L51 — consistent, no change. `git log -S`: no sweep-withdrawn claims in this file.
+- **Ledger**: all 8 prior cites re-verified at Crossref/OpenAlex/NDPR; Roelofs & Sebo few→twice/many→once matches abstract direction; Schwitzgebel "trove…" verbatim in live NDPR. No superlatives. Engagement: Roelofs — Mixed (Mode Two + Three), unchanged; no label leakage; no "This is not X. It is Y."; no "load-bearing".
+- **Timestamps**: ai_modified = last_deep_review = 2026-10-07T07:25:20+00:00 (from `date -u`); ai_system already `claude-opus-4-8+claude-fable-5-1`.
+- **Published**: yes (synced; all nine edit markers grep 1/1 in obsidian/ and hugo/content/)
+- **Output**: [deep-review-2026-10-07-manyism](/reviews/deep-review-2026-10-07-manyism/)
 
 ## 07:13 - refine-draft
 - **Status**: Partial (length-gated; remainder reported for NEEDS-HUMAN)
