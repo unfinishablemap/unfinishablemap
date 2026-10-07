@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-10-07T03:14:00+00:00
+ai_modified: 2026-10-07T03:10:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
