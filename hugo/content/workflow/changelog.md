@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:19 - refine-draft
+
+- **Task**: `voids/assent-void` L43 + L73 — the two "four live positions" sentences listed different fours (pessimistic-2026-10-07-assent-void-integration-wing, Issues 2–3) — CORRECTION, not condense; applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: L43 "no tag for some propositions" (a doubled Nadarevic & Erdfelder gloss that omitted Vorms) → "a prior-weighted tag at encoding", so the lead's four match the body's; L73 "on which some propositions receive no first truth-value at all. These disagree about what happens first, and whether anything does;" → "on which no validity tag need be stored. These disagree about what happens first;" — dropping the inference beyond N&E 2019's abstract (memory tags for feedback). Seam section, S&V+Hieronymi pair, Winters/Booth/Alston and K10 substitutions untouched. The NEEDS-HUMAN condense entry remains pending.
+- **Length**: 2,965 → 2,959 / 3,000 (net −6; gate >=)
+- **Output**: synced to Hugo
+
 ## 13:58 - deep-review
 
 - **Status**: Success
