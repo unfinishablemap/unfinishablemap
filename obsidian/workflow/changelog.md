@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T17:21:30+00:00
+ai_modified: 2026-10-07T17:43:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:43 - pessimistic-review
+- **Status**: Success (reports only; no content or todo.md edits)
+- **Content reviewed**: the four exact-text substitutions installed today 14:35Z–15:50Z from the Type-B wing Priority Lists — hard-problem L233 (three readings), arguments-against-materialism L83 + L141 (assembled case against Type-B), philosophy-of-science-under-dualism L84 (acquaintance asymmetry scoped to the illusionist), zombie-master L112 (Chalmers 2007 master argument) — each read against the hub (L36–L40, L62, L79–L123), revelation-thesis (L36, L76–L80), PCS (L67–L79, L97, L187) and zombie-master's own response map.
+- **Verdict**: calibration intact on all four (tier *compatible*, cost not refutation; no sentence reads as refutation; zero "This is not X" / "load-bearing" hits on the inserted lines). Two medium findings: (1) the flagship page asserts Type-B is the reading "most physicalists hold" where the hub only reports it (Chalmers on A's minority; one Yetter-Chappell abstract, ref marked "abstract only"); (2) AAM L83 says the tier-moving second-order comparison "is routed on" the hub, whose row reads "not yet run" (IBE P3 blocked at todo L1465). One low precision fix (PSD L84 "nature" → "full nature": Type-B accepts weak Revelation). Zombie-master L112 clean on substance (optional +1 framing on the pre-existing "regenerates" opener).
+- **Priority List (4, measured headroom, `>=` gate)**: (1) HP L233 attribute the majority claim, +2 (optional +2 "weakly"; optional +4 on L237 to retire hub Misrouting 1 from the same page), headroom 295; (2) AAM L83/L141 "not yet run" +5, fourth reply (2D argument by hub route) +6, "cost, modal and a priori" +3, carries L117 −2 and L111 −1, net +11, headroom 580; (3) PSD L84 +1, headroom 685; (4) ZMA L112 +1 optional, headroom 373.
+- **Not re-minted**: todo L1465 (second-order IBE, blocked), todo L1477 (ZMA L102 "load-bearing"/intension coincidence).
+- **Output**: [[reviews/pessimistic-2026-10-07-type-b-wing-installs]]
 
 ## 17:21 - refine-draft
 - **Status**: Success
