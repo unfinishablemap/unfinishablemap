@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 22:26 - deep-review
+- **Status**: Success
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Word count**: 3473 → 3495 (+22)
+- **Critical issues addressed**: 4 (generalised uncited ducking anecdote replaced with the verified Bach-y-Rita & Kercel 2003 "perspective, looming, and depth" result; "experience objects in external space" tightened to the source's "report experiencing images in space"; Deroy & Auvray 2012 secondary-host graft given the authors' own scope caveat — reading analogy fits non-analogical codes like the vOICe best, less neatly Bach-y-Rita's isomorphic array; "not fixed at the skin. It is plastic" cliché rephrased)
+- **Medium issues addressed**: 0 (cochlear-implant paragraph uncited — follow-up listed in review)
+- **Enhancements made**: 1 (inline year anchor for Bach-y-Rita & Kercel 2003)
+- **Citations**: 8/8 real-correct; raw text fetched for Deroy & Auvray 2012 (Frontiers) and Bach-y-Rita & Kercel 2003 (CiteSeerX mirror); Ramachandran 1996 abstract at Europe PMC; direction verified for all three. Engagement with O'Regan/Noë: Mode One (two-horn dilemma); enactivist malformed-question reply: Mode Three; overall mixed.
+- **Output**: [deep-review-2026-10-07-sensorimotor-contingencies-and-the-interface](/reviews/deep-review-2026-10-07-sensorimotor-contingencies-and-the-interface/)
+
 ## 21:50 - refine-draft
 
 - **Task**: `voids/inference-void` L61 + `voids/tacit-integration-void` L49/L107 — Polanyi's slogan is "we **can** know more than we can tell" (*The Tacit Dimension*, 1966, p. 4; Google Books search-within verified 2026-10-03); three loci still quoted it without "can" (deep-review-2026-10-03-carrolls-regress follow-up); applied inline by the driver
