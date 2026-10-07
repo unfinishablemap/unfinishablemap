@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T06:21:23.170986+00:00'
-session_count: 22249
+last_updated: '2026-10-07T06:42:28.876891+00:00'
+session_count: 22250
 cycle_position: 14400
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-10-07T06:08:46.725650+00:00'
   collect-claude-review: '2026-10-07T05:49:12.910983+00:00'
   collect-gemini-review: '2026-10-06T05:29:34.139563+00:00'
-  combine-outer-reviews: '2026-10-06T05:50:25.973520+00:00'
+  combine-outer-reviews: '2026-10-07T06:42:28.876891+00:00'
   commission-chatgpt-review: '2026-10-07T03:54:56.199735+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-08-09T02:20:28.577463+00:00'
   commission-claude-review: '2026-10-07T04:12:57.228188+00:00'
@@ -113,7 +113,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 651
-  reviews_completed: 7883
+  reviews_completed: 7884
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-07'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-07'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: agentic_social
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-10-07'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/

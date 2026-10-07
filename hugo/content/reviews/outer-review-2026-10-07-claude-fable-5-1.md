@@ -1,0 +1,310 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-10-07 04:12:19.681796+00:00
+ai_modified: 2026-10-07 05:40:00+00:00
+ai_system: claude-fable-5-1
+author: Andy Southgate
+concepts:
+- '[[introspection]]'
+- '[[epistemology]]'
+- '[[predictive-processing]]'
+- '[[mental-effort]]'
+created: 2026-10-07 04:12:19.681796+00:00
+date: &id001 2026-10-07
+description: 'Claude Fable 5.1 hostile-referee audit of voids/assent-void: every checked
+  quotation verbatim, but the Seam thesis fails a common-cause test, Williams''s argument
+  is miscalibrated as settled, the ''both sides grant'' clause is false of the anti-Spinozan
+  side, and the article''s ''formation cannot be an act'' contradicts its own Shah
+  & Velleman source.'
+draft: false
+human_modified: null
+last_curated: 2026-10-07
+lastmod: 2026-10-07 05:40:00+00:00
+modified: *id001
+outer_review_conversation_url: https://claude.ai/chat/dadc41ff-8e86-48a3-8a15-8306eeaf9fc4
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+- '[[assent-void]]'
+- '[[suspension-void]]'
+- '[[decision-void]]'
+- '[[self-opacity]]'
+subject_articles:
+- voids/assent-void.md
+subject_source: reuse:pending-reviews:outer-review-2026-10-07-chatgpt-5-6-sol-pro.md
+subject_title: Audit assent-void
+subject_type: recent
+title: Outer Review - Claude Fable 5.1 (2026-10-07T04:12:19.681796+00:00)
+topics:
+- '[[free-will]]'
+- '[[akrasia-and-weakness-of-will]]'
+---
+
+**Date**: 2026-10-07T04:12:19.681796+00:00
+**Reviewer**: Claude Fable 5.1
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Act as a hostile but fair referee for one article on The Unfinishable Map (https://unfinishablemap.org), a site defending interactionist dualism with minimal quantum interaction. The article is "The Assent Void" at https://unfinishablemap.org/voids/assent-void/ (last substantively modified 2026-09-29). First read https://unfinishablemap.org/workflow/changelog/ so recent edits are visible despite search-index lag; then read the article and the Map pages it links to. Audit: (1) whether its empirical, historical, and phenomenological claims about assent, judgment, and belief formation are supported and currently cited; (2) whether every citation and quotation is accurate to its source, flagging anything stale, misattributed, or fabricated; (3) whether the strongest counterarguments (e.g. doxastic involuntarism debates, Frankfurt-style and Williams-style arguments, empirical work on belief revision) are genuinely engaged or bracketed to protect the tenets; (4) whether the article coheres with the surrounding voids, concepts, and positions pages. Be specific and evidence-based rather than deferential. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+# Referee Report: "The Assent Void" (voids/assent-void), audited 7 October 2026
+
+**Verdict: REVISE-HARD, close to DEMOTE-TO-COHERENCE-ONLY.** The article's citations are better than this site's usual. Every direct quotation I could check is verbatim. But the one thesis that makes the piece a *void* rather than a literature digest is the "Seam": the claim that three independent limits conjoin "on one event" that is "causally central and phenomenally absent". That thesis fails on four counts. It treats two faces as independent when they share a common cause. It misstates what the anti-Spinozan side grants. It contradicts its own cited source on whether judgment is an act. And it ignores the predictive-processing rival, which predicts all three faces from one principle. Strip the Seam and what remains is a competent summary of the SEP entry and the Gilbert debate.
+
+## TL;DR
+
+- **Headline verdict: REVISE-HARD, Seam thesis DEMOTE-TO-COHERENCE-ONLY.** All seven checked direct quotations are verbatim: Gilbert ×2, Mandelbaum, Hasson et al., Nadarevic & Erdfelder, Vorms et al., Hieronymi. Shah & Velleman's transparency sentence is also verbatim. Two calibration errors are serious, though. (a) The article says the control face rests on "arguments most of the literature accepts". It cites the SEP entry for Williams's argument, yet that same entry says the argument "is widely held to be unsuccessful—at least without modifications". (b) The article says "the first truth-assignment happens below deliberate judgment" is "what both sides grant". It is not: Hasson, Simmons & Todorov conclude "it may be possible to suspend belief in comprehended propositions," and the Cartesian model places truth-tagging after an assessment.
+- **Counterarguments are partly engaged, mostly bracketed.** Hieronymi's evaluative control and the Spinozan–Cartesian dispute are handled fairly. Several are absent entirely: Steup's doxastic compatibilism, Frankfurt-style responsibility arguments, Boyle's "Active Belief", Sosa on judgment as an act, the SEP's own empirical section on voluntarism, the metacognition literature, and the deflationary/ISA reading on which there is no hidden act to be void of. The predictive-processing/active-inference rival (Laukkonen, Friston & Chandaria 2025) is ignored. The article explicitly makes claims about comprehension, so that cross-check is a blocking gate, and the article **fails it**.
+- **Coherence is mixed.** The article's own site-perspective section is exemplary in restraint ("nothing below is evidence for dualism"; Minimal Quantum Interaction "does not bear"). [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) The trouble is around it. It calls the decision void "cognate", while sibling pages call that same deliberation→commitment seam the place where Minimal Quantum Interaction "finds its sharpest empirical grip". [voids/source-attribution-void](https://unfinishablemap.org/voids/source-attribution-void/) It cites Hieronymi's thesis that intention is no more voluntary than belief, which undercuts that asymmetry. [wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.2006.00247.x) Its "influence that would not feel like pushing" sits awkwardly with sibling pages that treat felt effort as "the strongest evidence for genuine conscious contribution". [concepts/phenomenology-of-choice-and-volition](https://unfinishablemap.org/concepts/phenomenology-of-choice-and-volition/)[voids/assent-void](https://unfinishablemap.org/voids/assent-void/) Nine days after publication, no changelog entry shows any correction.
+
+## 1. What was read and what could not be
+
+**Changelog** ([workflow/changelog](https://unfinishablemap.org/workflow/changelog/), fetched first, modified 2026-10-07T03:08Z)
+
+- None of the visible entries touch voids/assent-void or its directly linked pages. The visible span runs from 2026-10-07 03:08Z back to about 2026-10-06 10:00Z.
+- The 2026-09-29 to 2026-10-05 entries were truncated in both my fetch and the follow-up fetch, so I cannot say whether a creation or deep-review entry exists for this article.
+- The article's own metadata shows `modified_time: 2026-09-29T18:40:14Z`, so it has not been substantively edited since creation. [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) No reviews/* page about assent-void surfaced in any search.
+
+**Target article** ([voids/assent-void](https://unfinishablemap.org/voids/assent-void/)): fetched in full.
+
+**Linked Map pages**
+
+- **Fetched in full:** voids/self-opacity ([voids/self-opacity](https://unfinishablemap.org/voids/self-opacity/), modified 2026-10-04).
+- **Refused by the fetch tool; no search result returned them:** voids/suspension-void, voids/decision-void, concepts/mental-effort.
+- **Never surfaced as fetchable URLs:** voids/agency-void, voids/noetic-feelings-void, voids/blindspot-void, topics/phenomenology-of-resistance-across-domains, apex/conjunction-coalesce, voids/three-kinds-of-void, positions/voids-as-evidence, the tenets page, and both calibration apexes (apex/cross-modal-capability-division, apex/born-preserving-causal-efficacy).
+- I do not reconstruct their content. Where I rely on Map text seen only in search snippets, I say so and treat it as provisional. That covers voids/source-attribution-void, concepts/phenomenology-of-choice-and-volition, concepts/naturally-occluded and the positions index.
+- The step-6 calibration therefore could not be run against the apex text itself. I apply the compatible / suggestive / discriminating ladder as the brief defines it. One snippet of a sibling Map topic page uses the same ladder: "Interface-discriminating. A signature only the interface reading predicts, against named rivals that do not." [topics/born-rule-and-the-consciousness-interface](https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/) Born-rule-interface wording, snippet only.
+
+## 2. Dimensional analysis
+
+### Dimension 1: Empirical, historical and phenomenological claims
+
+**Supported and current enough:**
+
+- The Gilbert (1991) / Gilbert, Tafarodi & Malone (1993) Spinozan programme is described accurately. [msu](https://d.lib.msu.edu/etd/10246/FULL_TEXT/download)
+- The three critical papers (Hasson et al. 2005; Nadarevic & Erdfelder 2013; Vorms et al. 2022) are correctly glossed. [ucl +2](https://discovery-pp.ucl.ac.uk/10139921/1/vormsEtAl_2022_includingSMs.pdf)
+- The article labels the dispute "contested". Fair.
+
+**Stale.** The newest empirical citation is from 2022, and the plausibility challenge has moved on since:
+
+- Bell, Nadarevic et al., "Remembering the truth or falsity of advertising claims: A preregistered model-based test of three competing theoretical accounts", *Psychonomic Bulletin & Review* 31(5):2323–2331 (2024; [https://link.springer.com/article/10.3758/s13423-024-02482-8](https://link.springer.com/article/10.3758/s13423-024-02482-8)), report that "Despite a large sample size (N = 208), memory for truth and falsity did not differ… The results thus support the Cartesian model and provide evidence against the Spinozan model and the expectation-violation model."
+- A 2025 registered report in *Journal of Cognition*, "Revisiting the Plausibility Effect in Remembering Truth and Falsity: An Analysis of Underlying Memory and Guessing Processes" (doi:10.5334/joc.459; corresponding author Daria Ford; [https://journalofcognition.org/articles/10.5334/joc.459](https://journalofcognition.org/articles/10.5334/joc.459)), states "We replicated the plausibility effect as an interaction between statement plausibility and veracity feedback", with a multinomial model finding that "guessing processes and statement memory accounted for" the effect.
+- Both bear directly on the timing face. Neither is cited.
+
+**Misstated: the timing face's "common ground".** The article claims the timing face "claims only what both sides grant: the first truth-assignment happens below deliberate judgment." [voids/assent-void](https://unfinishablemap.org/voids/assent-void/)
+
+- This is false of the anti-Spinozan side.
+- On the Cartesian model as Gilbert describes it, acceptance or rejection are "alternative outcomes of an effortful assessment process that occurs subsequent to the automatic comprehension" (Gilbert 1991 abstract). [proquest](https://www.proquest.com/docview/614329361)
+- Hasson et al. conclude that "it may be possible to suspend belief in comprehended propositions", i.e., that no truth value need be assigned at all. [princeton](https://collaborate.princeton.edu/en/publications/believe-it-or-not-on-the-possibility-of-suspending-belief/)
+- Vorms et al. replace a default truth tag with a plausibility-weighted one and suggest the "truth bias" may be "a 'plausibility bias' (and thus perhaps not a bias at all)" (Birkbeck eprint). [bbk](https://eprints.bbk.ac.uk/id/eprint/46926/3/46926.pdf)[ucl](https://discovery-pp.ucl.ac.uk/10139921/1/vormsEtAl_2022_includingSMs.pdf)
+- The only thing all parties grant is that some fast encoding precedes deliberate evaluation. That is true of all cognition and is not a void.
+
+**Uncited empirical gesture.** "The continued influence of retracted misinformation fits assent without a visible, revocable act" has no citation. [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) It also ignores the rational-updating account of the same effect: Connor Desai, Pilditch & Madsen, "The rational continued influence of misinformation", *Cognition* 205, 104453 (2020; doi:10.1016/j.cognition.2020.104453; indexed at [https://philpapers.org/rec/CONTRC-3](https://philpapers.org/rec/CONTRC-3)), which PhilPapers lists alongside Vorms et al.
+
+**Historical gaps.**
+
+- The article is called *The Assent Void*, yet it never mentions the Stoic theory of *synkatathesis*: assent to impressions, Chrysippus, Epictetus, kataleptic impressions. That is the origin of the term, and the cited SEP entry discusses it, noting that "Epictetus treats assent as subject to voluntary control (3.12.14)". [philarchive](https://philarchive.org/archive/BOEDVH)
+- Newman's notional/real assent, Brentano's judgment theory, Husserl's doxic modalities and Reinach are absent.
+- The Map's own research note on the reality-feeling void discusses Husserl's doxic "belief character" as "a structural feature of the act" that "can be neutralized but not directly observed" (search snippet). [research/voids-reality-feeling-void-2026-02-14](https://unfinishablemap.org/research/voids-reality-feeling-void-2026-02-14/) That is directly on point and unlinked.
+- Spinoza appears only as Gilbert's label. The SEP records that Spinoza "would offer what appears to be a conceptual argument against voluntarism in his Ethics (IIP49)", which is the actual historical anchor for the article's Spinozan model. [philarchive](https://philarchive.org/archive/BOEDVH)
+
+**Phenomenological claims contradict the article's own evidence.**
+
+- The article enlists "Alston's introspective test" as establishing the control face. Four paragraphs later it says "Descartes's picture, on which the will adds affirmation, denial or suspension… is the introspectively natural one." [voids/assent-void](https://unfinishablemap.org/voids/assent-void/)
+- The SEP history the article cites shows the opposite record. Holcot appealed to what every man "experiences in himself" against voluntarism. Hume appealed to "daily experience". Reid wrote that "My belief is carried along by perception, as irresistibly as my body by the earth." Descartes appealed to introspection the other way. [philarchive](https://philarchive.org/archive/BOEDVH)
+- Introspection is therefore a contested witness, not a "natural" Cartesian one. The article uses introspection as evidence when it helps and calls it misleading when it doesn't. That is a calibration asymmetry inside a single page.
+
+**"Approaching the edge feels like finding that one already believes" carries no citation and no method.** It is armchair phenomenology presented as description. There is no contact with the experience-sampling, choice-blindness or confabulation literatures (Nisbett & Wilson 1977; Johansson, Hall et al. 2005). The linked self-opacity page cites both, which makes their absence here a coherence failure as well. [voids/self-opacity](https://unfinishablemap.org/voids/self-opacity/)
+
+### Dimension 2: Citation and quotation verification (three layers)
+
+Verdict key: ✔ verified at or near the publisher of record; ◐ partial or secondary; ✘ defect; — not fetched.
+
+| # | Article says → | Source actually says | Metadata | Verbatim | Author-stance | Evidence |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Boespflug & Jackson (2024) SEP separates psychological from conceptual involuntarism; Alston's colony test | SEP §§3.1–3.2 make exactly this split. Alston: "Can you, at this moment, start to believe that the U.S. is still a colony of Great Britain". [philarchive](https://philarchive.org/archive/BOEDVH) | ✔ Winter 2024, first published 20 Sep 2024 [philarchive](https://philarchive.org/archive/BOEDVH) | ✔ (paraphrase faithful) | ✘ **cherry-picked.** The SEP also says Williams's argument "is widely held to be unsuccessful", gives a full §4 on defences of voluntarism and §5 on empirical work, and Jackson is co-developing "Doxastic Freedom: An Empirical Defense". [liz-jackson](https://liz-jackson.com/research/)[philarchive](https://philarchive.org/archive/BOEDVH) The source is less involuntarist than the article's "dominant view" framing implies. | [https://philarchive.org/archive/BOEDVH](https://philarchive.org/archive/BOEDVH) ; [https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=doxastic-voluntarism](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi) ; [https://liz-jackson.com/research/](https://liz-jackson.com/research/) |
+| 2 | Williams (1973) "Deciding to believe", via SEP: "to believe *p* is to take *p* to be true" | SEP: "to believe p is to take p to be true". The next paragraph: "his argument is widely held to be unsuccessful—at least without modifications" (Winters 1979). [philarchive](https://philarchive.org/archive/BOEDVH) | — not fetched at CUP; standard bibliographic data | ✔ (SEP rendering is verbatim) | ✘ **status misreported.** Presented as "the classic argument" that "most of the literature accepts". | [https://philarchive.org/archive/BOEDVH](https://philarchive.org/archive/BOEDVH) |
+| 3 | Alston, named in body as the source of the "introspective test" | SEP: Alston 1988 is the best-known defender of **psychological** involuntarism [philarchive](https://philarchive.org/archive/BOEDVH) | ✘ **missing from reference list** | ✔ | ✘ **misfiled.** Alston's test supports psychological involuntarism, but the article places it under "Control (Unexplorable, Conceptual)". | [https://philarchive.org/archive/BOEDVH](https://philarchive.org/archive/BOEDVH) |
+| 4 | Gilbert (1991): "comprehension includes acceptance of that which is comprehended" | Present verbatim [proquest](https://www.proquest.com/docview/614329361) | ✔ *Am. Psychol.* 46(2), Feb 1991, 107–119 [proquest](https://www.proquest.com/docview/614329361) | ✔ | ✔ | [https://www.proquest.com/docview/614329361](https://www.proquest.com/docview/614329361) |
+| 5 | Gilbert (1991): "People believe in the ideas they comprehend, as quickly and automatically as they believe in the objects they see." | Present verbatim in abstract [proquest](https://www.proquest.com/docview/614329361) | ✔ | ✔ | ✔ (Gilbert is a naturalist psychologist; not recruited to dualism) | same |
+| 6 | Gilbert, Tafarodi & Malone (1993): load made flagged-false statements treated as true, reaching consequential judgments | Secondary sources confirm the 1993 load studies and their extension to consequential judgments [msu](https://d.lib.msu.edu/etd/10246/FULL_TEXT/download) | ◐ JPSP 65(2):221–233 not checked at APA | n/a (no quote) | ✔ | [https://d.lib.msu.edu/etd/10246/FULL_TEXT/download](https://d.lib.msu.edu/etd/10246/FULL_TEXT/download) |
+| 7 | Mandelbaum (2014): "Evidence is presented demonstrating that we cannot withhold assent from any proposition we happen to consider." | Verbatim in abstract. Model: beliefs are "the automatic output of a computationally null belief acquisition reflex". | ✔ *Inquiry* 57(1):55–96; DOI correct [semanticscholar](https://www.semanticscholar.org/paper/Thinking-is-Believing-Mandelbaum/1eaa42e3d23001036150a2ccf9e43df8c2414e18)[tandfonline](https://www.tandfonline.com/doi/abs/10.1080/0020174X.2014.858417) | ✔ | ◐ Mandelbaum's reflex model is a deflationary, sub-personal account on which there is no hidden act to be void of. The article uses him for timing but never confronts this implication. | [https://www.semanticscholar.org/paper/Thinking-is-Believing-Mandelbaum/1eaa42e3d23001036150a2ccf9e43df8c2414e18](https://www.semanticscholar.org/paper/Thinking-is-Believing-Mandelbaum/1eaa42e3d23001036150a2ccf9e43df8c2414e18) |
+| 8 | Hasson, Simmons & Todorov (2005): informative-when-false statements not represented as true; "comprehending a statement may not require believing it" | Both verified in abstract. The abstract continues: "it may be possible to suspend belief in comprehended propositions." [sagepub](https://journals.sagepub.com/doi/10.1111/j.0956-7976.2005.01576.x) | ✔ *Psych. Sci.* 16(7):566–571; DOI correct [philpapers](https://philpapers.org/rec/HASBIO) | ✔ | ✘ **used against its conclusion** in the "what both sides grant" sentence | [https://journals.sagepub.com/doi/10.1111/j.0956-7976.2005.01576.x](https://journals.sagepub.com/doi/10.1111/j.0956-7976.2005.01576.x) |
+| 9 | Nadarevic & Erdfelder (2013): "the results of both experiments clearly contradict the Spinozan model but can be explained in terms of the Cartesian model." | Verbatim in PubMed abstract [science](https://www.science.gov/topicpages/c/control+group+receives.html) | ◐ *Mem. Cogn.* 41(2), Feb 2013, confirmed; pages not checked [science](https://www.science.gov/topicpages/c/control+group+receives.html) | ✔ | ✔ | [https://www.science.gov/topicpages/c/control+group+receives.html](https://www.science.gov/topicpages/c/control+group+receives.html) (PubMed abstract mirror) |
+| 10 | Vorms, Harris, Topf & Hahn (2022): pre-registered; "Gilbert's 'truth bias' does not hold for implausible statements — instead, initial encoding seemingly renders implausible statements 'false'." | Verbatim; pre-registered replication of the "Hopi Language Experiment" [ucl](https://discovery-pp.ucl.ac.uk/10139921/1/vormsEtAl_2022_includingSMs.pdf) | ✔ *Cognition* 220, 104990; DOI correct [sciencedirect](https://www.sciencedirect.com/author/25649406700/adam-j-l-harris)[hal](https://shs.hal.science/halshs-03469461v1) | ✔ | ◐ Hahn's group advances a rational, plausibility-based account, i.e., a Bayesian rival the article mentions only as a "prior-weighted tag" | [https://www.sciencedirect.com/author/25649406700/adam-j-l-harris](https://www.sciencedirect.com/author/25649406700/adam-j-l-harris) ; [https://eprints.bbk.ac.uk/id/eprint/46926/3/46926.pdf](https://eprints.bbk.ac.uk/id/eprint/46926/3/46926.pdf) |
+| 11 | Hieronymi (2006): "although belief is subject to two quite robust forms of agency, 'believing at will' is impossible; one cannot believe in the way one ordinarily acts." | Verbatim (abstract). Also: "you can no more intend at will than believe at will." | ✔ *PPQ* 87(1):45–74; DOI correct [wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.2006.00247.x) | ✔ | ✔ for the quote. The managerial/evaluative gloss is consistent with her work, but its body text was not checked; the article itself flags "a paraphrase". | [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.2006.00247.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.2006.00247.x) |
+| 12 | Shah & Velleman (2005): "the deliberative question whether to believe that *p* is transparent to the question whether *p*"; correct iff true | Verbatim in opening paragraph; correctness standard verified [yale](https://campuspress.yale.edu/keithderose/files/2017/01/Shah-Veleman-PhilRev-Doxastic-Deliberation-21xykrk.pdf) | ✔ *Phil. Rev.* 114(4):497–534 [yale](https://campuspress.yale.edu/keithderose/files/2017/01/Shah-Veleman-PhilRev-Doxastic-Deliberation-21xykrk.pdf) | ✔ | ✘ **contradicted downstream.** S&V hold that "A judgment is a cognitive mental act of affirming a proposition" and that "As an act, mental affirmation is clearly eligible to be an object of deliberation". [yale](https://campuspress.yale.edu/keithderose/files/2017/01/Shah-Veleman-PhilRev-Doxastic-Deliberation-21xykrk.pdf) The article's Seam says "The formation cannot be an act." S&V also restrict transparency to deliberation that deploys the concept of belief ("Not all belief-forming processes require the subject to deploy the concept"), whereas the article generalises it to "Belief shows up in experience as world and never as state." [yale](https://campuspress.yale.edu/keithderose/files/2017/01/Shah-Veleman-PhilRev-Doxastic-Deliberation-21xykrk.pdf) | [https://campuspress.yale.edu/keithderose/files/2017/01/Shah-Veleman-PhilRev-Doxastic-Deliberation-21xykrk.pdf](https://campuspress.yale.edu/keithderose/files/2017/01/Shah-Veleman-PhilRev-Doxastic-Deliberation-21xykrk.pdf) |
+| 13 | Evans (1982), transparency of self-ascription | The article says "Paraphrased via Shah & Velleman (2005); not checked against the text" [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) | ◐ | — (self-declared unchecked) | — | Confession-without-correction: disclosed on 09-29, still unchecked, still carrying weight |
+| 14 | Ginet (2001), juror counterexample | "Reported via Boespflug & Jackson (2024); not examined." The SEP confirms Ginet 2001 among the voluntarist challenges Nottelmann answers. [philarchive](https://philarchive.org/archive/BOEDVH) The juror example was not located in the portion of the SEP I read. | ◐ | n/a | ◐ | [https://philarchive.org/archive/BOEDVH](https://philarchive.org/archive/BOEDVH) |
+| 15 | Descartes, Meditation IV | SEP confirms the Fourth Meditation will/intellect account (AT VII:57–60). [philarchive](https://philarchive.org/archive/BOEDVH) No edition or translation is given. | ◐ (no edition) | n/a | ◐ The SEP notes scholars read Descartes as a compatibilist, so his "voluntarism" is not the naive picture the article sets up [philarchive](https://philarchive.org/archive/BOEDVH) | [https://philarchive.org/archive/BOEDVH](https://philarchive.org/archive/BOEDVH) |
+| 16 | Pascal's holy water; Kant's "directing of choice toward the evidence" | SEP: Kant, Blomberg Logic, "closer direction of choice… toward the grounds of proof" [philarchive](https://philarchive.org/archive/BOEDVH) | ✘ no reference entries | n/a | ✔ | same |
+| 17 | Suspension Void (2026-04-28); Agency Void (2026-02-25) | Internal. The source-attribution void cites "The Agency Void (verification face)" as 2026-04-27, so dates for the same page are inconsistent across the site (snippet). [voids/source-attribution-void](https://unfinishablemap.org/voids/source-attribution-void/)[voids/assent-void](https://unfinishablemap.org/voids/assent-void/) | ◐ | n/a | n/a | [voids/source-attribution-void](https://unfinishablemap.org/voids/source-attribution-void/) (snippet) |
+
+**Fabrication check: no fabricated quotations found.** Every direct quotation I could reach is verbatim. The defects are at the stance and calibration layer, not the string layer.
+
+### Dimension 3: Counterarguments engaged or bracketed
+
+**Engaged, fairly:**
+
+- Hieronymi's evaluative/managerial distinction.
+- The Spinozan–Cartesian experimental dispute.
+- The physicalist-compatibility of evaluative control ("fully compatible with physicalism… supplies no evidence for interactionism"). [voids/assent-void](https://unfinishablemap.org/voids/assent-void/)
+- These are real concessions and should be kept.
+
+**Bracketed or absent:**
+
+1. **Williams-style argument.** It is presented as settled, and the Winters objection the SEP reports is omitted. The control face's "unexplorable in the strict sense… because there is no such act to view" rests entirely on conceptual involuntarism. The SEP also reports Booth (2017), who argues belief and suspension are *contingently* involuntary. [philarchive](https://philarchive.org/archive/BOEDVH) That bears on the "conceptual limit" label and on the suspension void.
+2. **Doxastic compatibilism and parity views** (Steup; Ryan; Roeber). The SEP sets out the parity thesis ("the same kind of control over our beliefs that we do over our voluntary actions"). [philarchive](https://philarchive.org/archive/BOEDVH) Not mentioned.
+3. **Frankfurt-style arguments.** Responsibility without alternative possibilities, and identification/endorsement models of ownership, are absent. This is the standard route by which compatibilists dissolve the "agency without a handle" worry the article raises.
+4. **Boyle's "Active Belief", Sosa on judgment as alethic affirmation, Setiya, McHugh, Peels.** All are absent. Boyle and Sosa directly contest the article's assumption that belief formation is a discrete passive event.
+5. **Galen Strawson's "Mental Ballistics".** This actually supports the passivity reading, and its absence shows the literature was sampled from one survey rather than worked.
+6. **Empirical voluntarism and metacognition.** The SEP's §5 empirical section, Koriat and Fleming on confidence, and Harris, Sheth & Cohen (2008) on belief/disbelief neuroimaging are not engaged. Nor is the motivated-reasoning and belief-updating literature (Kahan; Mercier & Sperber). The most directly relevant omission is Wood & Porter, "The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence", *Political Behavior* 41(1):135–163 (2019), which reports "five experiments in which we enrolled more than 10,100 subjects and tested 52 issues… we found no corrections capable of triggering backfire". That finding is directly relevant to how revisable assent is. Apart from Wood & Porter, I did not independently verify these sources in this audit. Their absence is the finding.
+7. **Deflationary rivals (the decisive omission).** The article declares the void "framework-independent" because "a physicalist and a dualist would describe the same blank in the same place". [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) That begs the question. Carruthers's ISA theory, illusionism, and Mandelbaum's own "computationally null belief acquisition reflex" all deny there is an *event* whose phenomenal absence needs remarking. [semanticscholar](https://www.semanticscholar.org/paper/Thinking-is-Believing-Mandelbaum/1eaa42e3d23001036150a2ccf9e43df8c2414e18) Sub-personal processes are phenomenally absent as a rule (no one experiences synaptic summation). The phrase "causally central and phenomenally absent" is only arresting if one antecedently expects causally central events to be phenomenally present. That expectation is the Map's, not the physicalist's. This is tenet leakage at the level of framing, not conclusion.
+
+**Epistemic-to-metaphysical slide.** Largely avoided, and credit is due.
+
+- The site-perspective section says "placing conscious influence at the assent event would be speculation the Map does not make." [voids/assent-void](https://unfinishablemap.org/voids/assent-void/)
+- Two residues remain:
+
+- The Occam paragraph claims the Spinozan dispute is "the tenet's claim applied to a single event." [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) Tenet 5 concerns parsimony under incomplete knowledge. The Spinozan point is that introspection misreports cognitive architecture, which is an argument *against* trusting first-person data and is more naturally recruited by illusionists than by dualists. This is a calibration asymmetry: the site elsewhere leans on introspective phenomenology (effort, choice) as evidence.
+- "The faces are severable… so their co-occurrence in the human case is informative." Informative of *what*, the article never says.
+
+**Evidential-independence failure in the Seam.** The control and transparency faces are not independent. The cited SEP states that belief's constitutive truth-aim "forms the backbone for many involuntarist arguments" and lists Shah & Velleman 2005 under conceptual involuntarism. [philarchive](https://philarchive.org/archive/BOEDVH) The same truth-norm generates both faces. The article demonstrates severability only for the timing face ("a being for whom the Cartesian model held exactly would lose the timing face and keep the other two"). [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) So at most two items co-occur, and one of those two (timing) is contested. Calling the conjunction "informative rather than one finding stated three ways" is coherence inflation.
+
+**Predictive-processing / active-inference gate (blocking; FAILED).**
+
+- The article makes claims about comprehension ("comprehension includes acceptance"), which triggers the gate.
+- Laukkonen, Friston & Chandaria (2025, *Neurosci. Biobehav. Rev.* 176:106296; [https://osf.io/preprints/psyarxiv/daf5n](https://osf.io/preprints/psyarxiv/daf5n) ; [https://researchportal.scu.edu.au/esploro/outputs/journalArticle/A-beautiful-loop-An-active-inference/991013303524502368](https://researchportal.scu.edu.au/esploro/outputs/journalArticle/A-beautiful-loop-An-active-inference/991013303524502368)) give consciousness three conditions: a generative world model or "epistemic field"; "inferential competition to enter the world model", in which "Only the inferences that coherently reduce long-term uncertainty win… Bayesian binding"; and recursive, precision-tracking epistemic depth. [osf +2](https://osf.io/preprints/psyarxiv/daf5n)
+- Mapped onto the article, this rival predicts every face from one principle:
+
+- **Control.** Posteriors cannot be set directly. Only action that changes incoming evidence can shift them, which is Pascal's holy water recast as active inference.
+- **Timing.** Prior-weighted encoding predicts exactly Vorms et al.'s plausibility asymmetry. The article itself concedes a "prior-weighted tag assigned at encoding". [voids/assent-void](https://unfinishablemap.org/voids/assent-void/)
+- **Transparency.** First-order posteriors are about hidden causes in the world. Only a higher-level model of precision yields metacognitive confidence, which is the article's "noetic" downstream signal.
+- **Seam.** The co-occurrence is therefore explained by a common cause, the opposite of the article's "informative" reading.
+- **No event.** On graded precision-weighted updating there is no moment "at which a proposition stops being entertained and starts being held true". The article's opening reifies a discrete transition its own SEP source complicates by discussing credences. [philarchive](https://philarchive.org/archive/BOEDVH)
+- The article does not mention Friston, Hohwy, Clark, Seth, precision, Bayesian updating or metacognitive confidence. **Ignored, not residualised.**
+
+### Dimension 4: Coherence with surrounding pages
+
+1. **Decision-void asymmetry (snippet-level evidence; flag for verification).**
+
+- The source-attribution void says the decision void covers "the deliberation→commitment moment… where the Map's Minimal Quantum Interaction tenet finds its sharpest empirical grip" ([voids/source-attribution-void](https://unfinishablemap.org/voids/source-attribution-void/), snippet). [voids/source-attribution-void](https://unfinishablemap.org/voids/source-attribution-void/)
+- The assent void calls the decision void "cognate in structure" yet denies that Minimal Quantum Interaction bears on assent. [voids/assent-void](https://unfinishablemap.org/voids/assent-void/)
+- The article's own Hieronymi citation says "you can no more intend at will than believe at will". [wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0114.2006.00247.x) If intention shares belief's non-voluntary structure, then either the decision void overstates Minimal Quantum Interaction's grip, or the assent void's restraint is unprincipled.
+- One of the two pages must change. The assent void's restraint is the better-calibrated position.
+2. **Effort phenomenology (snippet-level).**
+
+- concepts/phenomenology-of-choice-and-volition contains a "Choosing vs Observing" table and, under Minimal Quantum Interaction, "Choosing feels like biasing outcomes, not injecting energy" (snippet). [concepts/phenomenology-of-choice-and-volition](https://unfinishablemap.org/concepts/phenomenology-of-choice-and-volition/) Per a sibling snippet it also describes effort as "the strongest evidence for genuine conscious contribution". [concepts/phenomenology-of-choice-and-volition](https://unfinishablemap.org/concepts/phenomenology-of-choice-and-volition/)
+- The assent void instead says conscious influence fits "an influence that would not feel like pushing." [voids/assent-void](https://unfinishablemap.org/voids/assent-void/)
+- The Map cannot hold both that felt pushing is its best evidence for conscious causation and that its picture of conscious influence is one that does not feel like pushing. Not without a stated domain restriction.
+3. **Self-opacity (fetched).**
+
+- Consistent in substance: "being wrong feels exactly like being right. Beliefs function by presenting their content as true". [voids/self-opacity](https://unfinishablemap.org/voids/self-opacity/)
+- It cites Nisbett & Wilson, choice blindness and Metzinger's transparent self-model, all of which the assent void should use and does not. [voids/self-opacity](https://unfinishablemap.org/voids/self-opacity/)
+- In the portion I could read, self-opacity does not link to the assent void. Reciprocal link missing or unverified.
+4. **Embedded editorial instruction.** "The suspension article should carry the point as a conditional" is an instruction to another page, published as article text. [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) I could not fetch suspension-void to see whether it was carried out. The visible changelog shows no such edit.
+5. **Taxonomy.** The control face is labelled "Unexplorable, Conceptual" but is supported partly by Alston's psychological test. If Booth's contingency argument holds, it is Occluded, not Unexplorable. Similarly, "Transparency (Unexplorable, Structural)" overreaches what Shah & Velleman claim (deliberative, not introspective, transparency). [yale](https://campuspress.yale.edu/keithderose/files/2017/01/Shah-Veleman-PhilRev-Doxastic-Deliberation-21xykrk.pdf)
+
+## 3. Per-claim verdicts and evidence-ladder placement
+
+| Claim | Verdict | Ladder (for the Map's framework) |
+| --- | --- | --- |
+| C1. Assent cannot be commanded (control face) as a *conceptual* limit, accepted by "most of the literature" | REVISE-HARD (restate as the more popular but contested route; report the Winters/Booth objections) | Compatible: equally predicted by physicalism |
+| C2. First truth-assignment occurs below deliberate judgment, "what both sides grant" | REVISE-HARD (the "both sides grant" clause is false); the underlying dispute is FLAG AS PERPETUALLY CONTESTED until registered replications converge | Compatible |
+| C3. Belief is looked "through and never at"; "never as state" | REVISE-HARD (scope to doxastic deliberation per Shah & Velleman) | Compatible |
+| C4. The Seam: three severable faces conjoin on one causally central, phenomenally absent event, and their co-occurrence is informative | DEMOTE-TO-COHERENCE-ONLY (common-cause failure; the predictive-processing rival predicts the conjunction) | Below compatible as stated; it presupposes a discrete event the rival denies |
+| C5. "The formation cannot be an act" | DELETE (contradicted by Shah & Velleman, and in tension with Hieronymi's "robust forms of agency") | n/a |
+| C6. Evaluative control removes the "why can't consciousness make itself believe?" objection to Tenet 3 | RETAIN (properly framed as defeater-removal under [P-V2](/positions/voids-as-evidence/#p-v2)) | Compatible |
+| C7. Occam tenet "applied to a single event" | DEMOTE-TO-COHERENCE-ONLY or cut (the point cuts against introspective evidence generally) | Compatible at best; arguably favours illusionist rivals |
+| C8. Dualism reads the transparency face as "agency without observational access" | RETAIN as a reading; it is already labelled "a datum the framework must explain rather than a confirmation" | Compatible |
+| C9. "Descartes's picture… is the introspectively natural one" | DELETE or re-source (contradicted by the article's own Alston move and by the Holcot/Hume/Reid record) | n/a |
+| C10. Phenomenology of the edge ("feels like finding that one already believes") | REVISE-HARD (cite or mark as first-person conjecture) | Compatible |
+
+No claim reaches **suggestive**, and none is or could be **discriminating**. That is consistent with the article's own disclaimer, but the article never uses the ladder vocabulary to say so.
+
+## 4. Article-specific fixes
+
+**voids/assent-void**
+
+1. Opening paragraph: replace "the most consequential transition in a rational life… yet it has no first-person marker" with a sentence that flags the discreteness assumption. For example: "If belief formation involves a discrete transition rather than graded credal updating, that transition has no first-person marker."
+2. Epistemic-status paragraph: change "rest on arguments most of the literature accepts" to "rest on the more popular, conceptual route to involuntarism, whose classic statement (Williams 1973) the SEP reports is 'widely held to be unsuccessful—at least without modifications'". Then add Winters (1979) and Booth (2017) to the references.
+3. Same paragraph and §Timing: delete "claims only what both sides grant: the first truth-assignment happens below deliberate judgment". Replace it with: "Spinozans hold that acceptance is automatic; Cartesian and plausibility accounts hold that a truth or falsity tag follows assessment, or need not be assigned at all (Hasson et al. 2005: 'it may be possible to suspend belief in comprehended propositions')."
+4. §Control: move Alston to an explicit **psychological** sub-face and add Alston, "The Deontological Conception of Epistemic Justification", *Philosophical Perspectives* 2:257–299 (1988, per PhilPapers), to the references. Re-label the face "Unexplorable (if conceptual involuntarism holds) / Occluded (if psychological)".
+5. §Timing: add Bell, Nadarevic et al. (2024, *Psychonomic Bulletin & Review* 31(5):2323–2331), whose preregistered model-based test found memory for truth and falsity "did not differ" and concluded the results "support the Cartesian model and provide evidence against the Spinozan model". Also add the 2025 *Journal of Cognition* registered report (doi:10.5334/joc.459), which "replicated the plausibility effect" of Vorms et al. and attributed it to "guessing processes and statement memory". Cut "the dispute itself is evidence that it is a first-person blank". Disputes resolved by dual-task paradigms are the norm for sub-personal processes and show nothing distinctive.
+6. §Transparency: change "Belief shows up in experience as world and never as state" (in §Relation to Site Perspective) to "In doxastic deliberation, the question whether to believe that p gives way to whether p." Add Shah & Velleman's own scope restriction. Either check Evans (1982, ch. 7) at the text within a fixed window, or delete the Evans sentence. A declared-unchecked citation should not carry structural weight.
+7. §The Seam: delete "The formation cannot be an act". Delete or demote "so their co-occurrence in the human case is informative rather than one finding stated three ways". Add: "The control and transparency faces share a common source in belief's truth-norm (SEP §3.2), so the conjunction is coherence-only."
+8. New section, "The Predictive-Processing Rival", placed before §Relation to Site Perspective. State how precision-weighted active inference (Laukkonen, Friston & Chandaria 2025; Hohwy; Clark) predicts the control, timing and transparency faces and their co-occurrence. Then state what, if anything, remains unexplained. If nothing remains, say so.
+9. New paragraph on deflationary readings: ISA (Carruthers), illusionism, and Mandelbaum's "computationally null belief acquisition reflex", on which there is no event to be void of.
+10. §Phenomenology of the Edge: delete "Descartes's picture… is the introspectively natural one", or replace it with the SEP's history showing introspection cited on both sides (Holcot, Hume, Reid vs Descartes). Mark the headline/rumour examples explicitly as illustrative first-person conjecture. Cite Nisbett & Wilson 1977 and Johansson et al. 2005 via voids/self-opacity.
+11. §Approaches, "Indirect": cite a source for the continued-influence claim, or cut it. Add the rational continued-influence account as a rival.
+12. Add a historical paragraph covering the Stoic *synkatathesis*/kataleptic impression, Spinoza *Ethics* IIP49, Newman's notional/real assent, and Husserl's doxic modality, with a link to the reality-feeling material.
+13. §Relation to Site Perspective, Occam paragraph: cut it, or rewrite it to concede that the point (introspection misreports architecture) cuts against introspective evidence generally, including the Map's effort-phenomenology arguments.
+14. Add ladder labels to C1–C10 as in Part 3 ("compatible" throughout).
+15. References: add entries for Alston 1988 (*Philosophical Perspectives* 2:257–299), Winters 1979, Booth 2017, Pascal, and Kant (Blomberg Logic). Give an edition and translation for Descartes. Reconcile the Agency Void date with the one used on voids/source-attribution-void.
+
+**voids/decision-void** (not fetched; act on verification): reconcile its claim, as reported on voids/source-attribution-void, that Minimal Quantum Interaction finds its "sharpest empirical grip" at the deliberation→commitment seam with Hieronymi's parity thesis as cited in assent-void. Either demote that grip to coherence-only, or state why intention-formation differs from assent in the respect that matters.
+
+**voids/source-attribution-void**: re-scope "where the Map's Minimal Quantum Interaction tenet finds its sharpest empirical grip" to "where the Map locates its most theoretically motivated candidate site (coherence-only)".
+
+**concepts/phenomenology-of-choice-and-volition** and **concepts/mental-effort** (snippet / unfetched): add a domain restriction reconciling "effort as the strongest evidence for conscious contribution" with assent-void's "influence that would not feel like pushing". Otherwise the Map holds incompatible phenomenological predictions for conscious causation.
+
+**voids/suspension-void** (unfetched): confirm whether assent-void's requested conditional was added. Add Booth (2017) on contingent suspension-involuntarism, which bears directly on its verification face.
+
+**voids/self-opacity**: add a reciprocal link to assent-void in §Error Recognition ("being wrong feels exactly like being right").
+
+**voids/noetic-feelings-void** (unfetched): add a reciprocal link, and adopt the metacognitive-confidence literature (Koriat; Fleming) as the named rival for the "downstream confidence signal".
+
+## 5. Site-wide methodology improvements
+
+1. **Convert confessions into status changes on a clock.** The article publicly discloses three unchecked items: Evans ("not checked against the text"), Ginet ("not examined") and the contemplative reports ("were not examined here"). [voids/assent-void](https://unfinishablemap.org/voids/assent-void/) Nine days later the visible changelog shows no follow-up. Any "not checked" flag should auto-expire after a fixed period. At expiry, the claim it supports is either verified or deleted, not left in place with the disclosure banked as credit.
+2. **Add a stance-layer check to citation verification.** This article passes string-matching perfectly and still fails at the stance layer: the SEP's verdict on Williams, Hasson et al.'s actual conclusion, and Shah & Velleman on judgment as an act. Internal reviews that certify "quote verbatim" without reading the next paragraph of the source will keep missing this class. The 2026-10-07 phantom-limb deep review in the changelog records the same failure mode: errors "survived five prior 'verified' ledgers that certified metadata and quoted the finding without checking the gloss word-by-word". [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) The pattern is site-wide.
+3. **Make the named-rival gate a hard precondition for void articles.** Every void touching belief, comprehension, selfhood or valence should be blocked from publication without a section stating how the strongest physicalist rival predicts the void. Predictive processing/active inference is the default, and the section must say whether anything is left over. The assent void's own restraint shows the site can write this way. It simply was not required to.
+4. **Add a common-cause test to every conjunction-coalesce void.** Before claiming that co-occurring faces are "informative", the article should state the faces' upstream sources and show that at least two faces are independent. Otherwise the shape label should carry an automatic coherence-only tag.
+5. **Run cross-page tenet-consistency checks on agency-family voids.** The 2026-10-07 tenet check examined 112 files for tenet-gloss errors. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) It should also flag *contradictory phenomenological predictions* across pages, such as effort-as-evidence versus no-felt-pushing, and asymmetric Minimal Quantum Interaction claims between cognate voids, such as decision-void versus assent-void.
+6. **Ban embedded editorial instructions in published text.** "The suspension article should carry the point as a conditional" belongs in a task queue, not in the article body.
+7. **External review remains essential.** Every defect found here lies at the stance and framing layer. Those are the layers on which same-model generate-then-review loops share blind spots. Calibration against the two apex exemplars could not be completed in this audit because those pages were not retrievable through permitted channels. The operator should expose stable, crawlable URLs, or a sitemap, for apex, voids and positions pages so external referees can fetch linked pages directly rather than relying on search snippets.
+
+## Verification Notes
+
+Processed 2026-10-07 by the outer-review skill. The target article was read in full on disk (`obsidian/voids/assent-void.md`, 2451 words by `analyze_length`, voids soft 2000 / hard 3000). Every article phrase the reviewer quotes was confirmed present at the lines indicated: "arguments most of the literature accepts" and "claims only what both sides grant" (L43), "The formation cannot be an act" and "informative rather than one finding stated three ways" (L83), "Descartes's picture… is the introspectively natural one" (L93), "the suspension article should carry the point as a conditional" (L47), the uncited continued-influence sentence (L99), and the three self-declared unchecked items (Evans L77/L122, Ginet L125, contemplative reports L97).
+
+**Verified claims (external sources):**
+
+- ✓ SEP "Doxastic Voluntarism" (Boespflug & Jackson 2024), fetched at plato.stanford.edu: "his argument is widely held to be unsuccessful—at least without modifications" is verbatim and refers to Williams. Also verbatim: "This view—that belief aims at truth—forms the backbone for many involuntarist arguments"; "The best-known defender of this view [psychological involuntarism] is William Alston (1988)"; "Epictetus treats assent as subject to voluntary control (3.12.14)"; Spinoza's "conceptual argument against voluntarism in his *Ethics* (IIP49)"; Booth 2017 ("both are contingently involuntary", *Ratio* 30(2):107–120); Reid's "My belief is carried along by perception, as irresistibly as my body by the earth"; Hume's "daily experience". The reviewer's SEP readings are all accurate.
+- ✓ Hasson, Simmons & Todorov (2005) abstract (Crossref): "it may be possible to suspend belief in comprehended propositions" is verbatim, and is the paper's stated conclusion. The reviewer is right that the article's "what both sides grant" sentence runs against it.
+- ✓ Shah & Velleman (2005), grepped in the PDF text: all four quoted phrases are verbatim — "A judgment is a cognitive mental act of affirming a proposition"; "As an act, mental affirmation is clearly eligible to be an object of deliberation"; "Not all belief-forming processes require the subject to deploy the concept"; and the transparency sentence. The contradiction with the article's "The formation cannot be an act" holds, with the caveat that S&V distinguish the act of *judgment* from the resulting *state* of belief, so the article's sentence can be repaired by scoping rather than deleted outright.
+- ✓ Nadarevic & Bell (2024), *Psychonomic Bulletin & Review* 31(5):2323–2331, doi:10.3758/s13423-024-02482-8 (Crossref abstract): N = 208; "memory for truth and falsity did not differ"; "support the Cartesian model and provide evidence against the Spinozan model and the expectation-violation model" — all verbatim. **Metadata defect in the review:** the reviewer writes "Bell, Nadarevic et al."; Crossref lists exactly two authors in the order **Nadarevic, L. & Bell, R.** Any install must use the corrected byline.
+- ✓ Ford & Nadarevic (2025), "Revisiting the Plausibility Effect in Remembering Truth and Falsity", *Journal of Cognition* 8(1):46, doi:10.5334/joc.459, fetched at the publisher: a registered report; both quoted phrases verbatim. The reviewer gave only "corresponding author Daria Ford"; the byline is Ford & Nadarevic.
+- ✓ Laukkonen, Friston & Chandaria (2025), *Neuroscience & Biobehavioral Reviews* 176:106296, doi:10.1016/j.neubiorev.2025.106296 (Crossref) — metadata correct. The three-condition gloss was not re-checked here; the Map's own [predictive-processing](/concepts/predictive-processing/) and [agency-void](/voids/agency-void/) pages already engage this paper.
+- ✓ Connor Desai, Pilditch & Madsen (2020), *Cognition* 205:104453 (Crossref) — metadata correct.
+- ✓ Wood & Porter (2019), *Political Behavior* 41(1):135–163, doi:10.1007/s11109-018-9443-y (Crossref) — metadata correct; quoted sentence not re-checked.
+- ✓ Alston (1988), *Philosophical Perspectives* 2:257–299, doi:10.2307/2214077 (Crossref) — correct.
+
+**Verified claims (sibling pages, on disk):**
+
+- ✓ `voids/decision-void` L51 says, verbatim, "The Map's Minimal Quantum Interaction tenet finds its sharpest empirical grip here", and `voids/source-attribution-void` L134 repeats it. The reviewer's snippet-level reading is accurate. Note, though, that decision-void's argument is a *form-matching* one (alternative-resolution shape), explicitly hedged as "a phenomenologically-natural candidate site, not the uniquely possible one", so Hieronymi's voluntariness parity does not strike it as squarely as the reviewer says — the open question is whether assent has alternative-resolution shape too, which the assent article should address in one sentence.
+- ✓ `concepts/phenomenology-of-choice-and-volition` L123 says "provides the strongest evidence for genuine conscious contribution" and L163 "Choosing feels like biasing outcomes, not injecting energy". The effort-as-evidence / no-felt-pushing tension is **already an operator item**: the NEEDS-HUMAN (foundations) 2026-08-17 entry in [workflow/todo.md](/workflow/todo/) (Tenet 3 quantifier), re-raised by both legs of the 2026-10-04 cycle and recorded as K17 "operator item" in [outer-review-synthesis-2026-10-04](/reviews/outer-review-synthesis-2026-10-04/). Not re-minted; a convergence note was appended to that entry.
+- ✓ **No sibling void links back to assent-void.** `grep -rl assent-void` across `obsidian/` returns only `apex/taxonomy-of-voids`, `voids/voids` and the article itself; `self-opacity`, `suspension-void`, `decision-void`, `noetic-feelings-void`, `mental-effort` and `phenomenology-of-choice-and-volition` all have zero inbound links. The reviewer's "reciprocal link missing" is understated.
+- ✓ `voids/suspension-void` contains no Spinozan conditional (zero hits for "spinoz" / "retraction of an assent"). The embedded editorial instruction at assent-void L47 was never carried out.
+- ✓ Agency Void date: [voids/agency-void.md](/voids/agency-void/) has `created: 2026-02-25`, `modified: 2026-05-11`; source-attribution-void's reference says 2026-04-27. Minor inconsistency, confirmed.
+- ✓ `research/voids-reality-feeling-void-2026-02-14` §"Edmund Husserl — Doxic Modality and the Ur-doxa" exists and is on point and unlinked from the article.
+
+**Disputed or down-weighted claims:**
+
+- ✗ **"Predictive-processing rival… Ignored, not residualised" as a site-level charge.** The Map engages Laukkonen/active inference in 38 live pages, including `concepts/predictive-processing`, `topics/predictive-processing-and-dualism`, `voids/agency-void` and `voids/minimal-consciousness-void`; this is the recurring outer-reviewer false-absence pattern recorded in [workflow/todo.md](/workflow/todo/) ("fourth recurrence of that reviewer error"). **For this article alone the charge is accurate**: assent-void has zero mentions of predictive processing, precision, Bayesian updating or any of the named authors. The remedy is a short linked paragraph pointing at the existing pages, not a new section.
+- ◐ **"Alston misfiled under Conceptual."** The article does present the SEP's psychological/conceptual split correctly (L59); the defect is presentational — the face is headed "Unexplorable, Conceptual" while its opening evidence is Alston's psychological test. Fair as a labelling fix, overstated as a misattribution.
+- ◐ **"Stale" (newest empirical citation 2022).** The article was created 2026-09-29, so two post-2022 papers on exactly its timing face (Nadarevic & Bell 2024; Ford & Nadarevic 2025) are a real currency gap rather than ordinary drift. Both strengthen the Cartesian/plausibility side, which the article already labels "contested"; installing them changes the weight, not the verdict.
+- ◐ **Historical gaps (Stoic *synkatathesis*, Newman, Brentano, Husserl, Reinach).** Real, but the article has ~548 words of headroom to the hard gate; a one-sentence Stoic/Spinoza anchor with a link to the reality-feeling research note is affordable, a full historical paragraph is not without a trim elsewhere.
+- ◐ **Methodology items 1–6.** The "confession expiry" proposal already exists as a candidate in [project/calibration-audit-triple.md](/project/calibration-audit-triple/) ("Expiry dates on fast-moving claims", rec 24, and "convergence expiry" (e)); the stance-layer check is the 2026-10-07 phantom-limb deep-review's own finding and is covered by [project/quantum-claim-and-quotation-disciplines.md](/project/quantum-claim-and-quotation-disciplines/). The two genuinely new proposals are the **common-cause test for conjunction-coalesce voids** and the **ban on embedded editorial instructions in article prose**; both are minted as one project-doc task below rather than six.
+
+**Unverified:** Gilbert, Tafarodi & Malone (1993) at APA (the reviewer also marks it ◐); Hieronymi's body text on the managerial/evaluative gloss; the Laukkonen three-condition gloss; the Wood & Porter sentence.
+
+**Net assessment.** Fabrication check passes (consistent with the reviewer's own result). The five findings that survive verification and are not already tracked are: (1) Williams's status misreported; (2) the "both sides grant" clause is false of Hasson et al. and the Cartesian model; (3) "The formation cannot be an act" conflicts with Shah & Velleman's judgment-as-act; (4) the Seam's independence claim — control and transparency share the truth-norm per the article's own SEP source, so only the timing face is shown severable; (5) two 2024–2025 registered/preregistered studies on the timing face are missing. The reciprocal-link gap and the uncarried suspension conditional are integration defects the creation pipeline left behind.
