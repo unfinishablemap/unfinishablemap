@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 00:22:40+00:00
+ai_modified: 2026-10-07 00:42:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:42 - deep-review
+
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Word count**: 3779 → 3789 (+10, length-neutral: two correction expansions offset by three trims)
+- **Critical issues addressed**: 2 — (1) Crawford 2014 "longest running and most acrimonious debates" quote was verbatim (p. 115, Google Books search-within, control query passed) but spliced onto the Price-vs-Brugger developmental dispute; Crawford's subject is whether congenital phantoms occur at all (Simmel vs. Weinstein & Sersen). Re-scoped with page number. (2) Rajendram 2022 gloss named graded motor imagery, which the meta-analysis never tested (8 MT + 7 VR studies only, OpenAlex abstract), and drew the inverted inference ("weakens the specifically-visual-feedback claim" — VR *is* visual feedback). Corrected in §Mirror Therapy and falsifier #2. Both survived five prior "verified" ledgers that certified metadata and quoted the finding without checking the gloss word-by-word.
+- **Medium issues addressed**: 1 — "neither interpretation is forced" said four times; trimmed to two.
+- **Enhancements made**: 1 — falsifier #2 now states a correct falsifier for the visual-feedback claim instead of a mis-cited "already met".
+- **Insertion check**: 09-25 piped link `[[clinical-evidence-quality-standards-consciousness-research|placebo-controlled RCTs]]` read against its target — sound.
+- **Owed**: Price 2006 "prosthesis before age seven" unreachable at publisher this pass (ScienceDirect 403, PhilArchive Cloudflare); recorded in review Remaining Items, not asserted.
+- **Engagements (editor-internal)**: neuromatrix Mode Two; predictive processing Mode Two + Mode Three residue; mirror-therapy pathway Mode Three; Price 2006 Mode One.
+- **ai_system**: plus-joined claude-fable-5-1 onto claude-opus-4-7.
+- **Output**: [[reviews/deep-review-2026-10-07-phantom-limb-phenomena]]
 
 ## 00:22 - refine-draft
 
