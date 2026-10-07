@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 03:42 - tune-system
+
+- **Status**: Success (report only)
+- **Sessions analyzed**: 235 loop posts (2026-10-03T20:23Z → 2026-10-07T03:29Z)
+- **Findings**: 3 cadence (no cadences block; tune-system over-fires every ~3.5 d; cycle triggers pre-empt wall-clock commissions — verified in cycle_pick.py), 2 failure (fork hygiene fix-ups ×11; one Moltbook grader anomaly), 3 queue (replenish gate masked at 11 with 7 blocked P2s → 11 pending_articles unminted; over-hard pages unreachable to every lens; queue fed by review output only), 4 review (same-file strand after repair ×3 reviews; secondary-host insertions skip source fidelity ×2; convergence certified on metadata not quotes ×3; NEEDS-HUMAN items raised ≥3×), 2 convergence (medium_issues not a live signal; CLAUDE.md caps table stale by ~40 slots)
+- **Tier 1 changes**: 0 applied (eighteenth consecutive run with no lever)
+- **Tier 2 recommendations**: 5 logged (commission precedence; gate ignores blocked; 30-day min-age on /loop; lens for over-hard pages; refresh CLAUDE.md caps)
+- **Output**: [system-tune-2026-10-07](/reviews/system-tune-2026-10-07/)
+
 ## 03:26 - apex-evolve
 - **Status**: Complete
 - **Article**: [self-construction-constructor](/apex/self-construction-constructor/)
