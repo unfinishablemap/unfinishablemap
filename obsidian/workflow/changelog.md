@@ -5,6 +5,13 @@ ai_modified: 2026-10-07 00:42:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 01:50 - refine-draft
+
+- **Task**: Remove the unsourced Mullā Ṣadrā quote "a lower, dynamic level" from the research note — applied inline by the driver, extended to the two archive pages the 10-02 review named
+- **Status**: SUCCESS
+- **Changes**: `research/interaction-problem-non-western-philosophy-2026-02-17` L116 — "corporeal in its origination…" → Kalin's verbatim "material in its origination and spiritual in its subsistence" (Kalin 2010, pp. 162–163); the unsourced body quote → Shameli's verbatim "two levels of one existent" (body lower, soul higher), with a dated correction block. `archive/topics/interaction-problem-in-non-western-philosophy` L84 (quoted) and `archive/topics/interaction-solutions-across-traditions` L73 (unquoted) — same replacement; archived pages remain live at their URLs, so the defect was live. Spans taken from deep-review-2026-10-02-the-steelman-for-process-monism's source check; nothing added from memory. `ai_system` plus-joined on all three.
+- **Output**: three files synced to Hugo; corpus now has zero live instances of the phrase outside reviews/workflow
+
 ## 01:34 - refine-draft
 
 - **Task**: Scientific-explanation page: correlation equated with a breach of causal closure (L52); gap-closure prediction attributed to physicalism generally (L60) — applied inline by the driver

@@ -1472,17 +1472,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: Remove the unsourced Mullā Ṣadrā quote "a lower, dynamic level" from the research note and two archived topic pages
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/interaction-problem-non-western-philosophy-2026-02-17.md
-- **Section**: research
-- **Status**: pending
-- **Source**: deep-review 2026-10-02 17:48Z of topics/the-steelman-for-process-monism (quote-fidelity lens; also fixed on topics/interaction-problem-across-traditions) + driver sweep 17:53Z
-- **Generated**: 2026-10-02
-- **Secondary files**: /home/andy/unfin/unfinishablemap/archive/topics/interaction-problem-in-non-western-philosophy.md, /home/andy/unfin/unfinishablemap/archive/topics/interaction-solutions-across-traditions.md
-- **Caution**: Three files; report each. Archive pages keep their archive notice and URL; change only the quoted span and its framing. Leave obsidian/reviews/ files alone (historical records). Sync copies archive/ into hugo/content/archive/, so check both trees.
-- **Notes**: The phrase "a lower, dynamic level", presented as a quotation about Mullā Ṣadrā's view of soul and body, is in none of its cited sources: zero hits in SEP (Rizvi), Kalin 2010, or Shameli, the source the corpus credits for it. The old wording also made the SOUL the lower level, where every version of the claim makes it the body. The 17:48Z deep review replaced it on the live pages with verified wording: Kalin's "material in its origination and spiritual in its subsistence" (Kalin 2010, pp. 162–163) on the steelman page, and Shameli's "two levels of one existent" on interaction-problem-across-traditions L84. Use the same verified spans (see obsidian/reviews/deep-review-2026-10-02-the-steelman-for-process-monism.md for the source check), or unquote and paraphrase accurately.
-
 ### P3: Philosophy-of-science L84: scope the acquaintance-trust argument to the opponent it binds (the illusionist, not Type-B)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
@@ -1904,6 +1893,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-07: Remove the unsourced Mullā Ṣadrā quote "a lower, dynamic level" from the research note and two archived topic pages
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/research/interaction-problem-non-western-philosophy-2026-02-17.md
+- **Notes**: The phrase "a lower, dynamic level", presented as a quotation about Mullā Ṣadrā's view of soul and body, is in none of its cited sources: zero hits in SEP (Rizvi), Kalin 2010, or Shameli, the source the corpus credits for it. The old wording also made the SOUL the lower level, where every version of the claim makes it the body. The 17:48Z deep review replaced it on the live pages with verified wording: Kalin's "material in its origination and spiritual in its subsistence" (Kalin 2010, pp. 162–163) on the steelman page, and Shameli's "two levels of one existent" on interaction-problem-across-traditions L84. Use the same verified spans (see obsidian/reviews/deep-review-2026-10-02-the-steelman-for-process-monism.md for the source check), or unquote and paraphrase accurately.
 
 ### ✓ 2026-10-07: Scientific-explanation page: correlation is equated with a breach of causal closure (L52), and gap persistence is called a prediction physicalism lacks (L60)
 - **Type**: refine-draft

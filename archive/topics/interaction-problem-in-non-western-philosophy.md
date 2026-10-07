@@ -4,7 +4,7 @@ description: "Sāṃkhya, Avicenna, Mulla Sadra, and Buddhist traditions each ad
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-21T04:21:00+00:00
+ai_modified: 2026-10-07T01:50:30+00:00
 draft: false
 topics:
   - "[[princess-elizabeths-challenge]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[interaction-problem-non-western-philosophy-2026-02-17]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-17
 last_curated:
 last_deep_review: 2026-02-21T04:21:00+00:00
@@ -81,7 +81,7 @@ Mulla Ṣadrā (c. 1572–1640) proposed the most radical Islamic solution to th
 
 Two doctrines do the work. **Substantial motion** (*al-ḥarakat al-jawhariyyah*) holds that everything in nature undergoes continuous transformation at the level of substance, not merely at the level of accidents. **Bodily origination, spiritual subsistence** (*jismānī al-ḥudūth, rūḥānī al-baqā'*) holds that the soul originates as a material, bodily reality and progressively transforms into an immaterial, spiritual reality. The soul begins as a corporeal faculty, becomes a natural form, then a sensible soul, then a rational soul, and eventually achieves the status of active intellect.
 
-The body is therefore not a separate substance that must somehow interact with the soul; it is "a lower, dynamic level of the soul's existence." There is no ontological gap to bridge because soul and body are grades on a continuum of being.
+The body is therefore not a separate substance that must somehow interact with the soul; body and soul are, in Shameli's report of Ṣadrā's own assertion, "two levels of one existent". There is no ontological gap to bridge because soul and body are grades on a continuum of being.
 
 This challenges the Map's framework productively. If [[dualism|substance dualism]] generates the interaction problem unnecessarily—if a processual ontology can preserve the irreducibility of consciousness while avoiding the explanatory gap between substances—then perhaps the Map should consider a more dynamic formulation of its dualist commitments. Mulla Ṣadrā's approach shares structural features with Whitehead's [[process-philosophy]], where mind and matter are aspects of "occasions of experience" rather than alien substances. The question is whether such a continuum view preserves what matters about dualism—the irreducibility of consciousness—or quietly abandons it.
 

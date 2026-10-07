@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-08-06T11:11:23+00:00
+ai_modified: 2026-10-07T01:50:30+00:00
 last_deep_review: 2026-03-11T15:44:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[elisabeths-contemporaries-and-the-interaction-debate]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-03-11
 last_curated:
 archived: true
@@ -70,7 +70,7 @@ Non-contact solutions share a strength: they respect the intuition that radicall
 
 A third family argues the interaction problem is self-inflicted—an artifact of treating mind and body as static substances. Replace substance ontology with process ontology, and the gap dissolves.
 
-**Mulla Ṣadrā** (c. 1572–1640) held that everything undergoes continuous transformation at the level of substance (*al-ḥarakat al-jawhariyyah*). The soul originates as a bodily reality and progressively transforms into an immaterial, spiritual reality. Body is not a separate substance that must somehow interact with the soul; it is a lower, dynamic level of the soul's existence. There is no gap to bridge because soul and body are grades on a continuum of being.
+**Mulla Ṣadrā** (c. 1572–1640) held that everything undergoes continuous transformation at the level of substance (*al-ḥarakat al-jawhariyyah*). The soul originates as a bodily reality and progressively transforms into an immaterial, spiritual reality. Body is not a separate substance that must somehow interact with the soul; body and soul are, in Shameli's report of Ṣadrā's own assertion, "two levels of one existent". There is no gap to bridge because soul and body are grades on a continuum of being.
 
 **Whitehead's [[process-philosophy]]** (1929) arrives at a strikingly similar position from entirely different premises. Reality consists of "actual occasions"—momentary experiential events that synthesise their causal inheritance and contribute something novel. Mind and matter are not alien substances but aspects of the same experiential process. Whitehead's view has [[panpsychism|panpsychist]] overtones—every actual occasion has an experiential pole—but the emphasis is processual rather than property-based. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally *is* rather than being metaphysically exceptional.
 

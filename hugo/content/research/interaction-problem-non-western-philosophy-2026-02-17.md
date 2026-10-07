@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-05 00:07:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-07 01:50:30+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts: []
 created: 2026-02-17
@@ -10,7 +10,7 @@ date: &id001 2026-02-17
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-03-05 00:07:00+00:00
+lastmod: 2026-10-07 01:50:30+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism-2026-01-06]]'
@@ -115,7 +115,7 @@ Mulla Sadra argued the interaction problem arises from treating soul and body as
 
 1. **Substantial Motion**: Everything undergoes continuous substantial transformation. Existence is perpetual becoming, not static being.
 
-2. **Bodily Origination, Spiritual Subsistence**: The soul originates as a material, bodily reality and progressively transforms into an immaterial, spiritual reality -- "corporeal in its origination and spiritual in its subsistence." The body is "a lower, dynamic level of the soul's existence."
+2. **Bodily Origination, Spiritual Subsistence**: The soul originates as a material, bodily reality and progressively transforms into an immaterial, spiritual reality -- "material in its origination and spiritual in its subsistence" (Kalin 2010, pp. 162–163, verbatim). Body and soul are, in Shameli's report of Ṣadrā's own assertion, "two levels of one existent" — the body the lower, the soul the higher. **[Correction 2026-10-07: the earlier wording quoted the body as "a lower, dynamic level of the soul's existence" — a phrase found in none of the cited sources (SEP, Kalin 2010, Shameli) and one that made the soul, not the body, the lower level; replaced with the spans verified in deep-review-2026-10-02-the-steelman-for-process-monism.]**
 
 **Strengths**: Genuinely dissolves the interaction problem through ontological continuity; anticipates Whitehead's process philosophy; accommodates gradual development of mental capacities.
 
