@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 10:07 - refine-draft
+- **Status**: Success
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Source**: tenet-check-2026-10-07 Error 1 (L123) + Warning 2 (L39, L49, L79); todo L1895
+- **Word count**: 3991 → 3998 (hard 4000, gate >=; headroom was 8, now 2)
+- **Error 1 (L123, Bidirectional Interaction)**: removed "The Map concedes the point rather than denying it … conservation fails locally wherever mental influence operates", which attributed the Noether horn to the Map against Tenet 2's Definition (tenets.md L65 "without injecting energy or violating conservation laws", L69, L85). Rewritten so (a) Born preservation and conservation are separate ledgers; (b) the spontaneous radiation/heating is credited to the collapse dynamics "minds or no minds", separating GRW/CSL's own heating from mind-caused non-conservation; (c) mental selection is kept on the energy-neutral horn ("selection among outcomes the collapse law already weights injects nothing") pinned to the Minimal Quantum Interaction definition; (d) the Noether reply (Cucu & Pitts 2019) is retained as "open to dualists but sits in tension with that definition", with the conservation article cited as weighing both horns. Cucu (2020) sentence kept verbatim.
+- **Warning 2**: L39 "by the smallest deviation standard physics permits" → "by the smallest deviation from standard quantum mechanics that could permit it" (L65's direction). L49 "This is the framework the Map's Minimal Quantum Interaction tenet requires" and L79 "The Map's Minimal Quantum Interaction tenet commits it instead to …" → both re-pinned on "the Map's prebiotic-collapse resolution ([No Many Worlds](/tenets/#no-many-worlds))" (tenets.md L125), since L71 says Tenet 2 commits to no mechanism. The 10-06 deep review's L85 fix ("supplies no positive Tier-2 evidence") is untouched; its L39/L79 fixes are superseded by these.
+- **Restatement trims to pay for the above (−45)**: L49 "Neither theory contains the law, neither needs it, and confirming either theory would not supply it" folded into the preceding sentence (the confirmation point survives at L85 and L121); L45 "and the mechanism is blind"; L53 "which remains compatible with no-collapse interpretations too" (made at L87/L89); L39 "therefore … throughout" and "experimentally" (L85 lede keeps it); L121 "and only the substrate" (restated by the paragraph's last sentence); L99 "Its standing in the register is specific:" → "In the register".
+- **Engagement classification** (editor-internal): Cucu (2020)/Cucu & Pitts (2019) on conservation — Mode Three on the Noether horn (framework-boundary, honestly marked as in tension with Tenet 2) and Mode One on the selection horn (the heating is GRW/CSL's own on the physicalist's terms).
+- **Published**: yes
+
 ## 09:59 - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/) (secondary: [phenomenology-of-resistance-across-domains-2026-04-06](/research/phenomenology-of-resistance-across-domains-2026-04-06/))
