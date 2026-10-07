@@ -158,9 +158,9 @@
   commissioned_at: '2026-10-07T04:12:19.681796+00:00'
   prompt_summary: Hostile-referee audit of voids/assent-void (Fable 5.1, Research)
   target_filename: outer-review-2026-10-07-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-07T05:24:11.913493+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for one article on The Unfinishable
     Map (https://unfinishablemap.org), a site defending interactionist dualism with

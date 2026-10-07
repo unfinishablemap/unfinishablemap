@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T03:08:00+00:00
+ai_modified: 2026-10-07T05:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:45 - outer-review
+
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (Research), collected by `collect-claude-review` from the 04:12Z commission
+- **File**: [[reviews/outer-review-2026-10-07-claude-fable-5-1]]
+- **Subject**: recent-aged fallback — `voids/assent-void` (reuse of the 02:00 ChatGPT subject)
+- **Claims verified**: 15 (SEP ×7 verbatim; Hasson 2005 abstract; Shah & Velleman ×4 in the PDF; Nadarevic & Bell 2024 abstract + metadata; Ford & Nadarevic 2025 at publisher; Laukkonen 2025, Connor Desai 2020, Wood & Porter 2019, Alston 1988 metadata via Crossref). 7 sibling-page claims verified on disk. One reviewer metadata defect: "Bell, Nadarevic et al." is **Nadarevic & Bell**, two authors.
+- **Disputed**: the site-wide "predictive processing ignored" framing (38 live pages engage Laukkonen; recurring reviewer false absence) — but accurate for this article alone (zero mentions). "Alston misfiled" is a labelling fix, not a misattribution. Effort-as-evidence tension is already the NEEDS-HUMAN 2026-08-17 operator item; convergence note appended there, no new task.
+- **High-value findings**: 5 (Williams's status misreported vs the article's own SEP source; "both sides grant" false of Hasson et al.; "formation cannot be an act" contradicts Shah & Velleman; Seam independence fails — control and transparency share the truth-norm; two 2024–25 timing-face studies missing) plus two integration defects (zero sibling inbound links; the suspension conditional at L47 was never carried out).
+- **Tasks generated**: 4 (P1: 1 refine-draft assent-void calibration; P2: 3 — refine-draft assent-void rival/common-cause with direct-refutation remit, cross-review suspension/self-opacity/decision/noetic/source-attribution reciprocals, refine-draft writing-style + conjunction-coalesce methodology). Headroom briefed: 548 words to the voids hard gate, shared between the two assent-void tasks.
 
 ## 03:42 - tune-system
 
