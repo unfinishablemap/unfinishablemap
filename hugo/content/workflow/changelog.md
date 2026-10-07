@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 23:38 - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) and [explanatory-gap](/concepts/explanatory-gap/)
+- **Source**: todo P3 from [rival-explanations-of-the-explanatory-gap-2026-10-03](/research/rival-explanations-of-the-explanatory-gap-2026-10-03/) §Corpus Seams items 4–5, now that [rival-explanations-of-the-explanatory-gap](/concepts/rival-explanations-of-the-explanatory-gap/) exists (second-order comparison run; Type-B stays *compatible*; a PCS failure leaves the ignorance and illusion accounts standing — Kammerer's "indirect weight to the disjunction")
+- **Original score**: n/a (`scripts/curate.py` absent; targeted seam fix)
+- **Changes** (per-sentence `count_words`, old → new):
+  - PCS L39 (12 → 15): "If PCS fails, the explanatory gap points to something genuinely beyond physics." → "A PCS failure points beyond physics only once the [ignorance](/concepts/ignorance-hypothesis/) and [illusion](/concepts/illusionism/) accounts fail too." Funded in the lead paragraph L37 (38 → 35: "Rather than denying that … PCS locates" → "PCS grants that … but locates"; dropped the redundant "it claims," since the sentence is already PCS's). Lead block net 0.
+  - PCS L85 (21 → 25): "…the gap isn't just in how we think: something in consciousness itself resists physical explanation." → "…the conceptual diagnosis goes with it, yet [ignorance](/concepts/ignorance-hypothesis/) and [illusion](/concepts/illusionism/) accounts still compete with dualism to explain the gap." Funded in L83 (15 → 8: dropped "—a feature of our concepts, not of reality", stated twice above). Section net −3.
+  - PCS L139 (69 → 69): the persistence paragraph no longer concludes "a genuine feature of reality"; it now says persistence proves less than it seems, tells only against conceptual-confusion diagnoses and the closure-expecting [Type-C reading](/concepts/type-a-type-b-and-type-c-physicalism/), and is predicted by Type-B otherwise, the ignorance hypothesis and illusionism alike, so it is consonant with the Map's dualism rather than evidence for it (matches type-a-type-b-and-type-c-physicalism L122–123, ignorance-hypothesis L80, hard-problem L233, rival-explanations L73). L189 left as is: already conditioned on "and the gap is ontological", consistent with the new L39/L85.
+  - explanatory-gap L121 (19 → 19): "For a detailed analysis of why all major versions of this strategy fail, see …" → "For why the Map judges every major version open to the master argument, see …" (aligns with PCS L79 "has not closed the debate"). No second rival-explanations link added in that paragraph.
+  - explanatory-gap L141 (36 → 36): "…tips the balance toward dualism as the better working hypothesis." → "…supports dualism as the Map's working hypothesis, Type-B [remaining compatible](/concepts/rival-explanations-of-the-explanatory-gap/)." "partially independent arguments" ([P-D1](/positions/arguments-for-dualism/#p-d1) premise-sharing) kept.
+- **Calibration**: none of the five rewrites reads as refutation or lifts the Type-B tier above *compatible*.
+- **Length** (`analyze_length`, concepts hard 3,500, gate `>=`): phenomenal-concepts-strategy 3,448 → 3,445 (headroom 54); explanatory-gap 3,495 → 3,495 (headroom 4). "load-bearing" at PCS L97 is pre-existing untouched text in the Carruthers–Veillet paragraph, where it names the feature the reply depends on.
+- **Not edited**: tenets.md, type-a-type-b-and-type-c-physicalism, rival-explanations-of-the-explanatory-gap, todo.md.
+- **Published**: yes (sync run; both trees verified)
+
 ## 23:15 - expand-topic
 - **Status**: Success
 - **Topic**: Rival explanations of the explanatory gap — dualism against the phenomenal-concepts strategy by stated criteria (C1–C7), and why the comparison leaves Type-B at *compatible*

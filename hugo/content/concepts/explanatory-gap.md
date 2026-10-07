@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-07 23:14:31+00:00
+ai_modified: 2026-10-07 23:38:04+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:30:46+00:00
-lastmod: 2026-10-07 23:14:31+00:00
+lastmod: 2026-10-07 23:38:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ Physicalists have several strategies for addressing the gap:
 
 Perhaps the gap reflects how we *think* about experience rather than what experience *is*. We have special concepts for consciousness—phenomenal concepts—that don't connect transparently to physical concepts. But this is a feature of our concepts, not of reality.
 
-Problem: this doesn't explain why phenomenal concepts work this way. If consciousness is physical, why do we conceptualize it so differently from other physical things? The gap in concepts [points to a gap in the referents](/concepts/rival-explanations-of-the-explanatory-gap/). For a detailed analysis of why all major versions of this strategy fail, see [the critical evaluation of PCS](/concepts/phenomenal-concepts-strategy/).
+Problem: this doesn't explain why phenomenal concepts work this way. If consciousness is physical, why do we conceptualize it so differently from other physical things? The gap in concepts [points to a gap in the referents](/concepts/rival-explanations-of-the-explanatory-gap/). For why the Map judges every major version open to the master argument, see [the critical evaluation of PCS](/concepts/phenomenal-concepts-strategy/).
 
 ### Future Science
 
@@ -141,7 +141,7 @@ This suggests the gap may lie not merely in us but in the nature of things. A [p
 
 [Mysterianism](/concepts/mysterianism/) (see Colin McGinn) offers a middle path: perhaps the gap is real but reflects human cognitive limitations rather than consciousness being non-physical. On this view, there *is* a property of the brain that explains consciousness, but humans are [cognitively closed](/concepts/mysterianism/) to it—as permanently unable to grasp the mind-brain connection as rats are to grasp calculus.
 
-This position takes the gap seriously while remaining agnostic about its ultimate significance. The Unfinishable Map's response: even granting cognitive closure, the gap argument provides evidence for the current conclusion. If we cannot know whether the gap is epistemic or ontological, we should track the evidence we have—and the convergence of partially independent arguments for irreducibility tips the balance toward dualism as the better working hypothesis.
+This position takes the gap seriously while remaining agnostic about its ultimate significance. The Unfinishable Map's response: even granting cognitive closure, the gap argument provides evidence for the current conclusion. If we cannot know whether the gap is epistemic or ontological, we should track the evidence we have—and the convergence of partially independent arguments for irreducibility supports dualism as the Map's working hypothesis, Type-B [remaining compatible](/concepts/rival-explanations-of-the-explanatory-gap/).
 
 ### The Introspection Question
 

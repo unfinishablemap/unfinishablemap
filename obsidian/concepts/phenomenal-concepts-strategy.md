@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-10-07
 human_modified: null
-ai_modified: 2026-10-07T23:14:31+00:00
+ai_modified: 2026-10-07T23:38:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,9 +34,9 @@ coalesced_from:
   - "/topics/phenomenal-concepts-as-materialist-response/"
 ---
 
-The phenomenal concepts strategy (PCS) is the most sophisticated physicalist response to the [[explanatory-gap|explanatory gap]]. Rather than denying that consciousness seems puzzling, PCS locates the puzzle in our *concepts*, not in reality. The gap between physical descriptions and conscious experience, it claims, reflects how we think about experience—not something non-physical in experience itself.
+The phenomenal concepts strategy (PCS) is the most sophisticated physicalist response to the [[explanatory-gap|explanatory gap]]. PCS grants that consciousness seems puzzling but locates the puzzle in our *concepts*, not in reality. The gap between physical descriptions and conscious experience reflects how we think about experience—not something non-physical in experience itself.
 
-If PCS fails, the explanatory gap points to something genuinely beyond physics.
+A PCS failure points beyond physics only once the [[ignorance-hypothesis|ignorance]] and [[illusionism|illusion]] accounts fail too.
 
 ## The Core Idea
 
@@ -80,9 +80,9 @@ The argument has not closed the debate, and the Map does not present it as havin
 
 ## Why the Debate Matters
 
-PCS is the test case for whether physicalism can accommodate the intuitions driving dualism. If PCS succeeds, the [[explanatory-gap]] becomes merely epistemic—a feature of our concepts, not of reality. The arguments from [[qualia]], Mary's Room, and zombies would lose their force.
+PCS is the test case for whether physicalism can accommodate the intuitions driving dualism. If PCS succeeds, the [[explanatory-gap]] becomes merely epistemic. The arguments from [[qualia]], Mary's Room, and zombies would lose their force.
 
-If PCS fails—as Chalmers's master argument suggests—the gap isn't just in how we think: something in consciousness itself resists physical explanation.
+If PCS fails—as Chalmers's master argument suggests—the conceptual diagnosis goes with it, yet [[ignorance-hypothesis|ignorance]] and [[illusionism|illusion]] accounts still compete with dualism to explain the gap.
 
 ## Responses to the Master Argument
 
@@ -136,7 +136,7 @@ The phenomenal concepts strategy remains contested. A 2020 PhilPapers survey fou
 
 Notably, even the most detailed PCS defence—Balog's 2012 constitutional account—concedes that the debate reaches a standoff. PCS does not compel anti-physicalists to abandon their position, nor do anti-physicalist arguments compel PCS defenders to abandon theirs. This concession from PCS's strongest advocate is significant: [[rival-explanations-of-the-explanatory-gap|physicalism's best strategy for explaining the gap]] cannot claim victory even on its own terms.
 
-The persistence of anti-physicalist intuitions poses a further problem. If PCS is correct—if the gap is merely conceptual—then philosophical education should eventually dissolve it, as understanding molecular motion dissolved vitalist intuitions about the "life force." But consciousness-related intuitions have persisted across centuries of investigation and show no sign of fading among informed philosophers. The gap behaves less like a conceptual confusion and more like a genuine feature of reality.
+The persistence of anti-physicalist intuitions proves less than it seems. If the gap were conceptual confusion, education should dissolve it, as molecular biology dissolved vitalism; consciousness-related intuitions have persisted for centuries among informed philosophers. That tells only against such confusion diagnoses and the closure-expecting [[type-a-type-b-and-type-c-physicalism|Type-C reading]]: Type-B otherwise, the [[ignorance-hypothesis|ignorance hypothesis]] and [[illusionism|illusionism]] all predict persistence, so it is consonant with the Map's dualism rather than evidence for it.
 
 The most recent moves retreat further. Rather than claim phenomenal concepts give substantive a priori access to their referents, a-posteriori physicalists now argue that such concepts *indicate* their referents—lock onto a physical state—without *[[revelation-thesis|revealing]]* that state's nature, without entailing why it feels as it does (Zhou 2025). This deliberately abandons the older mode-of-presentation machinery in order to keep the referential link. The dualist diagnosis is that the concession is the problem: a concept that indicates a physical state while revealing nothing of why that state is experienced simply restates the explanatory gap as a standing feature of every phenomenal concept, rather than dissolving it. The retreat preserves physicalism's letter at the cost of conceding, for each phenomenal concept individually, exactly the gap PCS set out to close.
 
