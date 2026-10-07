@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 08:55:56+00:00
+ai_modified: 2026-10-07 09:10:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 08:55:56+00:00
+lastmod: 2026-10-07 09:10:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:10 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/) (primary); [noetic-feelings-void](/voids/noetic-feelings-void/), [assent-void](/voids/assent-void/) (secondary)
+- **Task**: P2 cross-review (outer-review 2026-10-07 ChatGPT 5.6 Sol Pro §6, §9 "Resistance Void" / "Noetic Feelings", improvements 17–18). Three files; no todo.md edit; no commit.
+- **Original score**: n/a (`scripts/curate.py` absent; cross-review with findings verified on disk)
+- **Changes**:
+  - (a) Resistance article, Epistemic Resistance paragraph: one sentence appended distinguishing the felt frustration of a failed *revision* of a standing belief (what the article records) from the unfelt stability mechanism and from initial *acquisition*, with a piped `[[assent-void|assent void]]` link; the assent void's "nothing to push on" is stated as the formation case, an absence rather than a pushback. Neither page's phenomenology demoted. 3054 → 3117 words (topics gate 4000).
+  - (a) assent-void Evaluative Control paragraph: "trying to believe at will feels like finding nothing to push on rather than effortful failure" → "forming a belief at will feels like finding nothing to push on"; "has the same source" replaced by the acquisition/revision split ("felt pushback when a standing belief is dropped on command is failed *revision*, a different case from formation"). Net −1 words on that paragraph.
+  - (b) noetic-feelings-void family-list framing sentence now carries the four-way taxonomy — pre-judgment evidence / constitutive feeling of judging (Smithies 2026) / accompanying conviction / post-judgment confidence; FOR line reclassified as a "pre-judgment fluency signal", confidence line as a "post-[judgment](/voids/assent-void/) reliability estimate (Koriat 2000)". The 07:40Z reciprocal link to assent-void was reused, not duplicated. Net zero paid for by wording-only tightenings inside the same section (framing sentence, obviousness line, Loev "precisely", Arango-Muñoz "where this family adjoins" → "with", resemblance "as well"/"simply"); the Arango-Muñoz absorption content (669254d9d8) left intact. 3688 → 3687 words (voids gate 3000, remains hard_warning).
+  - (b) assent-void L51: "upstream of it … not the confidence signal that later reports" → "upstream of post-judgment confidence; whether a feeling of rightness or conviction is downstream of assent or constitutive of it is the classification the [noetic-feelings-void](/voids/noetic-feelings-void/) draws" (+3). Further Reading entry: "the confidence signal downstream of assent" → "the feelings downstream of assent or constitutive of it, as classified there" (+5). The page no longer declares every noetic feeling downstream by definition (reviewer §6); the case split lives in the noetic void. assent-void total 2955 → 2963 (gate 3000; the NEEDS-HUMAN condense is still pending; nothing else on the page changed).
+  - Smithies 2026 cited inline only (verified on Crossref: "Belief as a Feeling of Conviction", *The Nature of Belief*, doi:10.1093/9780197744208.003.0011); **no reference line added** to noetic-feelings-void under the net-zero rule — the reference is absent and owed. Fleming omitted (Koriat 2000 already in the list carries post-judgment confidence) to avoid a second unreferenced cite.
+  - Engagement classification (editor-internal): Smithies' constitutive-conviction rival is engaged by honest boundary-marking — the assent void defers the downstream/constitutive classification to the noetic void rather than refuting the constitutive reading; no in-framework refutation claimed.
+  - Frontmatter: `ai_modified` 2026-10-07T09:10:15+00:00 on all three; `ai_system` on the resistance article plus-joined to `claude-opus-4-7+claude-fable-5-1`.
+- **Published**: yes
 
 ## 08:55 - refine-draft
 - **Status**: Success

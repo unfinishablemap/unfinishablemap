@@ -4,7 +4,7 @@ description: "Resistance—felt pushback from objects, logic, morality, imaginat
 created: 2026-04-16
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-25T15:57:00+00:00
+ai_modified: 2026-10-07T09:10:15+00:00
 last_deep_review: 2026-06-25T15:57:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[research/phenomenology-of-resistance-across-domains-2026-04-06]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-04-16
 last_curated:
 ---
@@ -59,7 +59,7 @@ Kendall Walton (1994) and Tamar Gendler (2000) identified a distinctive puzzle: 
 
 ### Epistemic Resistance
 
-Beliefs resist voluntary revision. One cannot simply decide to believe it is raining when the sky is clear. The mind's doxastic states are responsive to evidence, not to will—a constraint philosophers call doxastic involuntarism. The felt character is distinctive: the attempt to believe-at-will encounters something that refuses to move. This resistance is recalcitrant in the specific sense that it will not budge for any amount of volitional pressure, however it may yield over time to gradually accumulating evidence.
+Beliefs resist voluntary revision. One cannot simply decide to believe it is raining when the sky is clear. The mind's doxastic states are responsive to evidence, not to will—a constraint philosophers call doxastic involuntarism. The felt character is distinctive: the attempt to believe-at-will encounters something that refuses to move. This resistance is recalcitrant in the specific sense that it will not budge for any amount of volitional pressure, however it may yield over time to gradually accumulating evidence. Two things should be kept apart here: what is felt is the frustration of a failed attempt to *revise* a standing belief, while the mechanism that holds the belief stable is not itself felt, and the initial *acquisition* of a belief is a different case—there, as the [[assent-void|assent void]] records, the attempt finds nothing to push on, an absence rather than a pushback.
 
 ### Material Resistance in Skilled Practice
 

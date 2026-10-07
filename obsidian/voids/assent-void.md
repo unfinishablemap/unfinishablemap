@@ -4,7 +4,7 @@ description: "Human+AI exploration of the moment a proposition becomes held true
 created: 2026-09-29
 modified: 2026-10-07
 human_modified: null
-ai_modified: 2026-10-07T08:54:49+00:00
+ai_modified: 2026-10-07T09:10:15+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -48,7 +48,7 @@ The [[suspension-void]] concerns *withholding*: consciousness cannot verify, sus
 
 The [[decision-void]] concerns practical commitment, the collapse of deliberation into a choice to *act*; assent is doxastic commitment, taking a proposition to be true. Hieronymi, discussed below, argues that intention and belief share one non-voluntary structure, so the two voids are cognate; but the decision void's latency face rests on readiness-potential studies with no doxastic analogue, and its closure face concerns the end of weighing options rather than the assignment of a truth-value.
 
-Certainty is the *feeling* that accompanies a belief once held, the felt rightness the [[noetic-feelings-void]] catalogues. The assent void is upstream of it: the formation event, not the confidence signal that later reports on its product.
+Certainty is the *feeling* that accompanies a belief once held. The assent void is upstream of post-judgment confidence; whether a feeling of rightness or conviction is downstream of assent or constitutive of it is the classification the [[noetic-feelings-void|noetic feelings void]] draws.
 
 ## Three Faces, One Void
 
@@ -88,7 +88,7 @@ One rival predicts the pattern: on [[predictive-processing|predictive processing
 
 The obvious objection to the control face is that it leaves believers passive. Hieronymi (2006) distinguishes **managerial control**, in which one acts on an attitude as an object (Pascal's holy water), from **evaluative control**, in which one controls an attitude by changing one's answer to the question it embodies: belief answers "is *p* true?", and to revise the answer is to revise the belief; "In answering the question positively, one has already, therein, believed." On her account evaluative control is genuine agency and the ordinary way beliefs and intentions come and go, but it is not voluntary in the way action is and involves no awareness of the attitude as the thing controlled; intention, she argues, has the same structure (a paraphrase).
 
-Evaluative control is agency exercised *through* the transparency face: one acts on one's beliefs by attending to the world, the only direction attention can go. It takes no handle on its object and produces no experience of pushing, which is why trying to believe at will feels like finding nothing to push on rather than effortful failure. Contrast [[mental-effort]], where attention *can* be pushed and the pushing is felt; the [[phenomenology-of-resistance-across-domains|resistance article]]'s observation that a belief resists being dropped on command has the same source.
+Evaluative control is agency exercised *through* the transparency face: one acts on one's beliefs by attending to the world, the only direction attention can go. It takes no handle on its object and produces no experience of pushing, so forming a belief at will feels like finding nothing to push on. Contrast [[mental-effort]], where attention *can* be pushed and the pushing is felt; the [[phenomenology-of-resistance-across-domains|resistance article]]'s felt pushback when a standing belief is dropped on command is failed *revision*, a different case from formation.
 
 ## Phenomenology of the Edge
 
@@ -115,7 +115,7 @@ The void's arguments are framework-independent, turning on the concept of belief
 - [[suspension-void]] — withholding, where the timing face has its sharpest consequence
 - [[decision-void]] — practical commitment, cognate in structure
 - [[agency-void]] — agency without observational access, in general form
-- [[noetic-feelings-void]] — the confidence signal downstream of assent
+- [[noetic-feelings-void]] — the feelings downstream of assent or constitutive of it, as classified there
 
 ## References
 

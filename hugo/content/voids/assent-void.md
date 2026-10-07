@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-10-07 08:54:49+00:00
+ai_modified: 2026-10-07 09:10:15+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: 'Human+AI exploration of the moment a proposition becomes held true
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-07 08:54:49+00:00
+lastmod: 2026-10-07 09:10:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -52,7 +52,7 @@ The [suspension-void](/voids/suspension-void/) concerns *withholding*: conscious
 
 The [decision-void](/voids/decision-void/) concerns practical commitment, the collapse of deliberation into a choice to *act*; assent is doxastic commitment, taking a proposition to be true. Hieronymi, discussed below, argues that intention and belief share one non-voluntary structure, so the two voids are cognate; but the decision void's latency face rests on readiness-potential studies with no doxastic analogue, and its closure face concerns the end of weighing options rather than the assignment of a truth-value.
 
-Certainty is the *feeling* that accompanies a belief once held, the felt rightness the [noetic-feelings-void](/voids/noetic-feelings-void/) catalogues. The assent void is upstream of it: the formation event, not the confidence signal that later reports on its product.
+Certainty is the *feeling* that accompanies a belief once held. The assent void is upstream of post-judgment confidence; whether a feeling of rightness or conviction is downstream of assent or constitutive of it is the classification the [noetic feelings void](/voids/noetic-feelings-void/) draws.
 
 ## Three Faces, One Void
 
@@ -92,7 +92,7 @@ One rival predicts the pattern: on [predictive processing](/concepts/predictive-
 
 The obvious objection to the control face is that it leaves believers passive. Hieronymi (2006) distinguishes **managerial control**, in which one acts on an attitude as an object (Pascal's holy water), from **evaluative control**, in which one controls an attitude by changing one's answer to the question it embodies: belief answers "is *p* true?", and to revise the answer is to revise the belief; "In answering the question positively, one has already, therein, believed." On her account evaluative control is genuine agency and the ordinary way beliefs and intentions come and go, but it is not voluntary in the way action is and involves no awareness of the attitude as the thing controlled; intention, she argues, has the same structure (a paraphrase).
 
-Evaluative control is agency exercised *through* the transparency face: one acts on one's beliefs by attending to the world, the only direction attention can go. It takes no handle on its object and produces no experience of pushing, which is why trying to believe at will feels like finding nothing to push on rather than effortful failure. Contrast [mental-effort](/concepts/mental-effort/), where attention *can* be pushed and the pushing is felt; the [resistance article](/topics/phenomenology-of-resistance-across-domains/)'s observation that a belief resists being dropped on command has the same source.
+Evaluative control is agency exercised *through* the transparency face: one acts on one's beliefs by attending to the world, the only direction attention can go. It takes no handle on its object and produces no experience of pushing, so forming a belief at will feels like finding nothing to push on. Contrast [mental-effort](/concepts/mental-effort/), where attention *can* be pushed and the pushing is felt; the [resistance article](/topics/phenomenology-of-resistance-across-domains/)'s felt pushback when a standing belief is dropped on command is failed *revision*, a different case from formation.
 
 ## Phenomenology of the Edge
 
@@ -119,7 +119,7 @@ The void's arguments are framework-independent, turning on the concept of belief
 - [suspension-void](/voids/suspension-void/) — withholding, where the timing face has its sharpest consequence
 - [decision-void](/voids/decision-void/) — practical commitment, cognate in structure
 - [agency-void](/voids/agency-void/) — agency without observational access, in general form
-- [noetic-feelings-void](/voids/noetic-feelings-void/) — the confidence signal downstream of assent
+- [noetic-feelings-void](/voids/noetic-feelings-void/) — the feelings downstream of assent or constitutive of it, as classified there
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-10-07 07:40:51+00:00
+ai_modified: 2026-10-07 09:10:15+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:29:17+00:00
-lastmod: 2026-10-07 07:40:51+00:00
+lastmod: 2026-10-07 09:10:15+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -80,21 +80,21 @@ The feelings are transparent in a treacherous sense: they do not present themsel
 
 ## The Family of Noetic Feelings
 
-Noetic feelings—also called epistemic or metacognitive feelings—form a functionally integrated family. Each member gates a distinct cognitive operation while sharing the same opacity pattern:
+Noetic feelings—also called epistemic or metacognitive feelings—form one family, in four relations to judgment: pre-judgment evidence, constitutive feeling of judging (Smithies 2026), accompanying conviction, and post-judgment confidence. Each gates one operation under one opacity pattern:
 
 - **Feeling of knowing (FOK)** — sense that a currently-inaccessible answer is known. Gates retrieval persistence.
-- **Feeling of rightness (FOR)** — sense that an intuitive answer is correct. Gates engagement of analytic thought.
+- **Feeling of rightness (FOR)** — pre-judgment fluency signal that an answer is correct. Gates analytic thought.
 - **Feeling of familiarity** — sense that a stimulus has been encountered before. Gates recognition.
 - **Tip of the tongue** — sense that a specific item is imminent. Gates search strategy.
 - **Feeling of understanding** — sense that an explanation has landed. Gates explanatory inquiry.
-- **Feeling of obviousness** — sense that a claim is self-evident. Gates whether a question ever arises.
+- **Feeling of obviousness** — sense that a claim is self-evident. Gates whether a question arises.
 - **Feeling of coherence** — sense that disparate elements fit together. Gates pattern-acceptance.
-- **Feeling of confidence** — sense that a [judgment](/voids/assent-void/) is reliable. Gates commitment to action.
+- **Feeling of confidence** — post-[judgment](/voids/assent-void/) reliability estimate (Koriat 2000). Gates action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
-Loev calls these "mild affective experiences" whose felt character "tends to elude us" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. Arango-Muñoz (2019) marks the seam where this family adjoins the cognitive-phenomenology question: noetic feelings concern the *accessibility* of a verdict consciousness cannot audit, while cognitive phenomenology concerns whether the thinking the verdict gates has a proprietary phenomenal kind at all—an ontology-of-the-phenomenal question (see [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)) that the boundary between the two does not settle. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [inference void](/voids/inference-void/); further upstream sits the [relevance void](/voids/relevance-void/), which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [decision-void](/voids/decision-void/). The [shared signature of the quantitative comprehension void](/voids/the-quantitative-comprehension-void/#a-shared-signature-multiple-faces) names the same output-without-operation shape outside the affective family.
+Loev calls these "mild affective experiences" whose felt character "tends to elude us" because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. Arango-Muñoz (2019) marks the seam with the cognitive-phenomenology question: noetic feelings concern the *accessibility* of a verdict consciousness cannot audit, while cognitive phenomenology concerns whether the thinking the verdict gates has a proprietary phenomenal kind at all—an ontology-of-the-phenomenal question (see [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)) that the boundary between the two does not settle. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [inference void](/voids/inference-void/); further upstream sits the [relevance void](/voids/relevance-void/), which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [decision-void](/voids/decision-void/). The [shared signature of the quantitative comprehension void](/voids/the-quantitative-comprehension-void/#a-shared-signature-multiple-faces) names the same output-without-operation shape outside the affective family.
 
-Felt resemblance plausibly belongs to the family as well: two things simply *look alike*, a verdict that gates categorisation and analogy while the respects and weights that produced it are selected in the act of comparison and never delivered with it (Tversky 1977; see [the similarity void research](/research/voids-similarity-void-2026-08-27/)).
+Felt resemblance plausibly belongs to the family: two things *look alike*, a verdict that gates categorisation and analogy while the respects and weights that produced it are selected in the act of comparison and never delivered with it (Tversky 1977; see [the similarity void research](/research/voids-similarity-void-2026-08-27/)).
 
 ## How the Feelings Are Produced
 
