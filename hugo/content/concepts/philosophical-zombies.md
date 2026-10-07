@@ -97,7 +97,7 @@ Chalmers's two-dimensional version of the argument closes the water escape. "Wat
 
 Some physicalists argue that phenomenal concepts are "special"—they pick out physical properties through a distinctive cognitive mode that explains why the zombie scenario seems conceivable even though consciousness is physical.
 
-**Challenges:** This strategy either doesn't explain enough (why is the cognitive difference so profound?) or explains too much (it would make *any* identity claim vulnerable to conceivability arguments). See [the critical evaluation of PCS](/concepts/phenomenal-concepts-strategy/) for Chalmers's master argument showing why no version of this strategy succeeds.
+**Challenges:** This strategy either doesn't explain enough (why is the cognitive difference so profound?) or explains too much (it would make *any* identity claim vulnerable to conceivability arguments). See [the critical evaluation of PCS](/concepts/phenomenal-concepts-strategy/) for Chalmers's master argument pressing every version of this strategy.
 
 ## Zombies and Functionalism
 
