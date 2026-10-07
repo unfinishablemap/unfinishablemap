@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-10-07 07:39:50+00:00
+ai_modified: 2026-10-07 13:19:30+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:41:34+00:00
-lastmod: 2026-10-07 07:39:50+00:00
+lastmod: 2026-10-07 13:19:30+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -59,7 +59,7 @@ The void exhibits the [conjunction-coalesce](/apex/conjunction-coalesce/) struct
 
 ### Verification (Unexplorable)
 
-From inside, "I am withholding judgment" closely resembles "I have not yet decided" and "I have quietly decided but decline to acknowledge it." Subtle dispositional differences exist—a felt collapse of attention in the having-decided case, an active *return-to-it* tag in postponement, leaking preference in the felt weighting of options—but these candidate first-person tests are heuristics drawn from the same machinery that produces noetic feelings of rightness. They feel like tests; their reliability is precisely what is in question. The [assent void](/voids/assent-void/) sharpens this face conditionally. On Gilbert's and Mandelbaum's Spinozan model, comprehension includes acceptance, so "suspension" is always the retraction of an assent already given; the evidence is contested, though, and the rival model of optional, context-dependent tagging, on which some propositions receive no truth-value, makes untagged representations a countermodel to any universal first-assignment thesis. Behavioural tests work but require third-party access; predictive consequences emerge only later. While suspension is in progress, the inspection that would check it engages the same machinery whose neutrality is in question—the structural position the [agency-void](/voids/agency-void/) catalogues for causal self-attribution and the [decision-void](/voids/decision-void/)'s closure face for the deliberation→commitment moment. The felt act of holding back is the suspension face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): phenomenal access reaches the suspension-feeling but not the operations that produce it.
+From inside, "I am withholding judgment" closely resembles "I have not yet decided" and "I have quietly decided but decline to acknowledge it." Subtle dispositional differences exist—a felt collapse of attention in the having-decided case, an active *return-to-it* tag in postponement, leaking preference in the felt weighting of options—but these candidate first-person tests are heuristics drawn from the same machinery that produces noetic feelings of rightness. They feel like tests; their reliability is precisely what is in question. The [assent void](/voids/assent-void/) sharpens this face conditionally. On Gilbert's and Mandelbaum's Spinozan model, comprehension includes acceptance, so "suspension" is always the retraction of an assent already given; the evidence is contested, though: the load results that contradict the Spinozan model replace it with optional, context-dependent tagging, a memory-for-feedback model that leaves an untagged statement's doxastic status unstated. Behavioural tests work but require third-party access; predictive consequences emerge only later. While suspension is in progress, the inspection that would check it engages the same machinery whose neutrality is in question—the structural position the [agency-void](/voids/agency-void/) catalogues for causal self-attribution and the [decision-void](/voids/decision-void/)'s closure face for the deliberation→commitment moment. The felt act of holding back is the suspension face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): phenomenal access reaches the suspension-feeling but not the operations that produce it.
 
 The verification face is *Unexplorable* in the sense the [three-kinds typology](/voids/three-kinds-of-void/) reserves for limits that resist mapping by their own architecture. One does not lack data; one lacks the capacity to interpret data without using the resource being measured.
 

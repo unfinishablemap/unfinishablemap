@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 13:19 - refine-draft
+
+- **Task**: `voids/suspension-void` L58 — the 07:39Z "countermodel" clause over-reads Nadarevic & Erdfelder 2019 (pessimistic-2026-10-07-assent-void-integration-wing, Issue 2) — applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: "the rival model of optional, context-dependent tagging, on which some propositions receive no truth-value, makes untagged representations a countermodel to any universal first-assignment thesis" → "the load results that contradict the Spinozan model replace it with optional, context-dependent tagging, a memory-for-feedback model that leaves an untagged statement's doxastic status unstated" — stating only what the Europe PMC abstract licenses (tags are memory representations of feedback; the flexible model says nothing about an untagged statement's doxastic status). No parenthetical cite added (reference absent on this page; citation lives on the linked assent-void). Gilbert/Mandelbaum conditional and the assent-void link kept.
+- **Length**: 2,996 → 2,996 / 3,000 (net 0; gate >=)
+- **Output**: synced to Hugo
+
 ## 13:04 - refine-draft
 
 - **Task**: `voids/decision-void` L84 — the 07:40Z reconciliation does not hold as written (pessimistic-2026-10-07-assent-void-integration-wing, Issue 1) — applied inline by the driver with the review's exact text
