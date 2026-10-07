@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 07:00:26+00:00
+ai_modified: 2026-10-07 07:13:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 07:00:26+00:00
+lastmod: 2026-10-07 07:13:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:13 - refine-draft
+- **Status**: Partial (length-gated; remainder reported for NEEDS-HUMAN)
+- **File**: [assent-void](/voids/assent-void/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted outer-review install, not a general refine)
+- **Task**: P1 "assent-void — the Seam fails a common-cause test and names no rival" (todo.md L39–L48; convergent 2026-10-07 outer reviews, synthesis clusters K4, K5, K11; driver RESCOPE 07:02Z to substitution-only, net ≤ 0)
+- **Measured**: 2,956 → **2,955** words (`tools.curate.length.analyze_length`, voids hard gate 3,000, gate `>=`; net −1). A full install of findings (a)–(d) measured **3,195** on a scratch copy (+239), so the install was cut to what the non-guard budget could carry. No 07:00Z review-installed guard touched (four-position sentence, S&V+Hieronymi pair, Winters/Booth/Alston, timing studies, K10 substitutions all verbatim).
+- **Installed**:
+  - (a) **Common cause → coherence-only** (Seam): the severability/"informative rather than one finding stated three ways" sentence replaced by: control and transparency descend from belief's truth-norm (the SEP's "backbone" of involuntarist arguments, under which it lists Shah & Velleman); only timing is shown severable, and timing is contested; "The conjunction is coherence, not confirmation." Opening last sentence and the L55 shape sentence re-pointed to the Seam ("the Seam section weighs their conjunction"; "with the qualification the Seam section records") so neither still asserts informativeness.
+  - (b) **Named rival, linked not rebuilt** (new Seam paragraph, no new reference line): [predictive processing](/concepts/predictive-processing/) — precision-weighted updating yields all three faces from one principle and, being graded, leaves no discrete transition; "if it holds no event remains"; the Map's case (whether such a loop feels like anything) pointed to [the dualism article](/topics/predictive-processing-and-dualism/), which already carries Laukkonen, Friston & Chandaria (2025) and marks that disagreement as framework-boundary.
+  - (c) **Discreteness assumption** conditioned in the opening ("If belief formation is a discrete transition rather than graded credal updating, the moment … has no first-person marker"). **Deflationary concession** installed by rewriting the L103 framework-independence sentence (which the Claude review said begged the question): arguments framework-independent, framing not — Mandelbaum's "computationally null belief acquisition reflex" (verbatim, OpenAlex abstract) is sub-personal, sub-personal processes are phenomenally absent as a rule, the absence "arrests only on the Map's expectation, not the physicalist's, that a causally central event be felt". Reuses the existing Mandelbaum reference.
+  - **Occam paragraph**: rewritten to the reviewer's fix-13 concession form (introspection misreporting architecture "cuts against introspective evidence generally, the Map's effort-phenomenology arguments included"), net −24 — the concession paid for itself.
+- **Budget cuts (non-guard, substitution-level)**: duplicate framework-independence clause at L43 (−8); "Its subject is the refusal of assent; this article's is its occurrence" (−12); Moore example parenthetical, carried by [blindspot-void](/voids/blindspot-void/) (−10); "the asymmetry between voluntary attention and involuntary assent is informative" (−11); "which would not feel like pushing" duplicate (−6); control modal-standing pair compressed (−4); restraint sentence at L105 tightened (−5); Further Reading descriptions (−5); single-word trims (−6).
+- **NOT installed — carried for NEEDS-HUMAN (condense-first)**, with the wording that was drafted and measured:
+  1. **Smithies (2026) felt-event rival + reference line** (~+30 prose, +26 ref): *"Smithies (2026) denies the absence instead: belief is "a disposition to feel convinced of a proposition's truth" (verbatim, Crossref abstract; Declan Smithies, ch. 11, *The Nature of Belief*, doi:10.1093/9780197744208.003.0011, issued 2026-04-01), so assent can be involuntary and yet felt, and the control face alone does not deliver phenomenal absence."* Reference: `Smithies, D. (2026). Belief as a feeling of conviction. In J. Lewis-Jong & E. Schwitzgebel (Eds.), *The Nature of Belief* (ch. 11). Oxford University Press. https://doi.org/10.1093/9780197744208.003.0011`
+  2. **"What survives either" sentence** (~+40), which only makes sense once Smithies is in: *"The two rivals exclude each other, and both deny the article's unfelt event. What survives either is the transparency structure (conviction, where felt, is felt as world rather than as state) and the control face's modal claim; what survives neither is an inference from involuntary to unfelt, which this article does not make: its claim is that no first-person marker of the formation has been found."*
+  3. **Laukkonen 2025 reference line** (+24) with the in-text citation `(Laukkonen, Friston & Chandaria 2025)` in the PP sentence: `Laukkonen, R.E., Friston, K.J. & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296` — currently carried by the linked page only.
+  4. **Singh/Crowe 2026 "contested" clause** at the Booth sentence (+~15 prose, +~50 refs): *"…and Booth (2017) argues that belief is only contingently involuntary, while Singh (2026) and Crowe (2026) defend forms of direct doxastic voluntarism."*
+  5. Optional synkatathesis / Spinoza IIP49 sentence (+~40): skipped per driver.
+  Total remainder ≈ +225 words; the page cannot carry it without a condense pass on reviewed prose.
+- **Engagement classification (editor-internal)**: predictive-processing rival — Mode Three, framework-boundary: the article concedes the rival predicts all three faces and refers the dispute to the dualism article's "does the loop feel" argument rather than claiming an in-framework refutation. Deflationary/Mandelbaum — Mode Three with a concession: the "phenomenally absent" framing is marked as the Map's expectation, not refuted within the physicalist's. Common-cause finding — accepted outright (no opponent; the Seam's own claim is withdrawn to coherence-only).
+- **Verification**: Mandelbaum phrase verified verbatim in the OpenAlex abstract; Smithies quote verified verbatim at Crossref (not installed); SEP "backbone" per synthesis K4 fetch. No "This is not X. It is Y."; no "load-bearing"; no mode labels in body.
+- **Published**: yes (synced)
 
 ## 07:00 - refine-draft
 - **Status**: Success
