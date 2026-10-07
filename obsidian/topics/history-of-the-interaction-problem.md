@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-10-02T16:54:33+00:00
+ai_modified: 2026-10-07T13:56:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,10 +34,10 @@ related_articles:
   - "[[sherrington-dualist-lineage]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-07-25T07:38:57+00:00
+last_deep_review: 2026-10-07T13:56:30+00:00
 coalesced_from:
   - "/topics/history-of-interactionist-dualism/"
   - "/topics/princess-elizabeths-challenge/"
@@ -92,11 +92,11 @@ Leibniz also transformed the interaction problem from a conceptual puzzle into w
 
 ### What the Debate Reveals
 
-No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the unextendedness of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter. Régis, like Descartes with his primitive notions, kept dualism and genuine causation but sacrificed intelligibility, declaring the interaction real yet incomprehensible — the horn [[eighteenth-century-influx-debate|Knutzen]] would occupy a century later. Any attempt to hold all three had to wait for developments in physics none of them could have anticipated—and the Map's own attempt, as its closing acknowledgment concedes, narrows that horn's gap without leaving it.
+No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the unextendedness of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter. Régis, like Descartes with his primitive notions, kept dualism and genuine causation but sacrificed intelligibility, declaring the interaction real yet incomprehensible — the horn [[eighteenth-century-influx-debate|Knutzen]] would occupy in the next century. Any attempt to hold all three had to wait for developments in physics none of them could have anticipated—and the Map's own attempt, as its closing acknowledgment concedes, narrows that horn's gap without leaving it.
 
 ## The Materialist Eclipse
 
-The eighteenth century first ran the other way — physical influx displaced Leibnizian harmony in the German academy, as [[eighteenth-century-influx-debate|the eighteenth-century influx debate]] traces. The twentieth century brought convergence against dualism. Logical positivism dismissed mind-body problems as pseudo-questions. [[logical-behaviourism|Logical behaviourism]] denied inner mental states. Identity theory proposed that mental states simply *are* brain states. Functionalism characterised mental states by causal roles. All shared the assumption of [[causal-closure]]: every physical event has sufficient physical causes.
+The eighteenth century first ran the other way — physical influx gained ground against Leibnizian harmony in the German academy, as [[eighteenth-century-influx-debate|the eighteenth-century influx debate]] traces. The twentieth century brought convergence against dualism. Logical positivism dismissed mind-body problems as pseudo-questions. [[logical-behaviourism|Logical behaviourism]] denied inner mental states. Identity theory proposed that mental states simply *are* brain states. Functionalism characterised mental states by causal roles. All shared the assumption of [[causal-closure]]: every physical event has sufficient physical causes.
 
 Jaegwon Kim crystallised the problem:
 
@@ -107,7 +107,7 @@ Jaegwon Kim crystallised the problem:
 
 Kim also formalised Elisabeth's intuition into the [[pairing-problem]]: causal relations require spatial relations to pair cause with effect, so a non-spatial mind cannot be paired with any particular body. The modern causal closure argument is the further descendant of Elisabeth's puzzle—transforming her question about mechanism into what appeared to be an airtight logical argument against interaction.
 
-The eclipse had documented dissent inside neuroscience itself. Charles Sherrington—who coined "synapse" and shared the 1932 Nobel Prize—closed his career with *Man on His Nature* (1940), arguing that natural science resolves the world into forms of energy and looks in vain for mind among them: two ultimates, related by bare correlation, with no basis for a mechanism. That was an agnostic limit-claim, not an interaction theory. His own students converted it into one. Wilder Penfield's cortical-stimulation series grounded a [[penfield-interactionist-dualism|clinical case for an interacting mind]] (*The Mystery of the Mind*, 1975), and John Eccles built mechanisms for interaction, ending in the Beck–Eccles proposal (1992) that mental influence biases the probability of synaptic vesicle release through quantum tunnelling, injecting no energy. The [[sherrington-dualist-lineage|Sherrington lineage article]] traces the gradient—agnostic pole, clinical middle, quantum terminus—and its governing caution: the lineage is provenance, never an authority count, since eminence in synaptic physiology settles no metaphysics. What it establishes is continuity. The tradition that mechanised the synapse carried Elisabeth's question through the eclipse and delivered it, in increasingly mechanistic form, to the quantum opening.
+The eclipse had documented dissent inside neuroscience itself. Charles Sherrington—who coined "synapse" and shared the 1932 Nobel Prize—closed his career with *Man on His Nature* (1940), arguing that natural science resolves the world into forms of energy and looks in vain for mind among them: two ultimates whose relation science knows only as gross correlation. That was an agnostic limit-claim, not an interaction theory. His own students converted it into one. Wilder Penfield's cortical-stimulation series grounded a [[penfield-interactionist-dualism|clinical case for an interacting mind]] (*The Mystery of the Mind*, 1975), and John Eccles built mechanisms for interaction, ending in the Beck–Eccles proposal (1992) that mental influence biases the probability of synaptic vesicle release through quantum tunnelling, injecting no energy. The [[sherrington-dualist-lineage|Sherrington lineage article]] traces the gradient—agnostic pole, clinical middle, quantum terminus—and its governing caution: the lineage is provenance, never an authority count, since eminence in synaptic physiology settles no metaphysics. What it establishes is continuity. The tradition that mechanised the synapse carried Elisabeth's question through the eclipse and delivered it, in increasingly mechanistic form, to the quantum opening.
 
 ## The Quantum Opening
 

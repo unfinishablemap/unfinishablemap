@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T12:22:00+00:00
+ai_modified: 2026-10-07T13:58:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:58 - deep-review
+
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]]
+- **Word count**: 3088 → 3089 (+1; length-neutral, soft_warning)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 — all in post-07-25 insertions: (1) L99 secondary-host sentence "influx *displaced* Leibnizian harmony" overstated the linked influx article, which declines the dominance claim → "gained ground against"; (2) L95 "Knutzen ... a century later" vs Régis 1690 / Knutzen 1735–45 → "in the next century"; (3) L110 Sherrington bridge glossed *Man on His Nature* (1940) with the 1947-foreword "no basis for a mechanism" claim the lineage article exists to disentangle → gloss now tracks the verified 1940 "gross correlation" sentence
+- **Enhancements made**: 0 (converged core untouched)
+- **Quote ledger**: every quoted phrase raw-grep-verified — three Elisabeth quotes in Shapiro 2007 (Google Books search-within, control passed), Arnauld in the live SEP Kremer entry, both Broad 1925 phrases in the Internet Archive OCR (pp. 106–108), Stencil's three labels in the DOAJ raw abstract (JMP now bot-walled); Beck & Eccles 1992 direction confirmed at PubMed (probability of vesicular emission increased by quantal selection)
+- **Reasoning modes**: historical survey, no named living opponent in-frame — N/A; label grep clean
+- **ai_system**: plus-joined claude-fable-5-1
+- **Output**: [[reviews/deep-review-2026-10-07-history-of-the-interaction-problem]]; synced to Hugo
 
 ## 13:19 - refine-draft
 
