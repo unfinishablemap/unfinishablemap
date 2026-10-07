@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T10:22:00+00:00
+ai_modified: 2026-10-07T10:42:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:42 - optimistic-review
+- **Status**: Success (reports only; no content or todo.md edits)
+- **Content reviewed**: the Type-B sweep wing — the ten pages retyped on 10-06/07 (parsimony-epistemology, modal-structure-of-phenomenal-properties, reductionism, epistemology, philosophical-zombies, knowledge-argument, arguments-against-materialism, consciousness-defeats-explanation, inference-to-the-best-explanation-against-dualism, consciousness-and-scientific-explanation) plus the hub type-a-type-b-and-type-c-physicalism and phenomenal-concepts-strategy; neighbours hard-problem-of-consciousness, materialism, dualist-perception measured and grepped
+- **Verdict**: Type-B now stated one way across the wing (a posteriori identity, gap permanent, tier *compatible*, cost not refutation); calibration uniform on four pages edited independently. Not yet built on: no single page states the assembled case against Type-B (closest: arguments-against-materialism L83, two of seven parts); the conflation survives OUTSIDE the ten on two tenet-linked hubs — hard-problem-of-consciousness L233 ("merely epistemic and closeable by future neuroscience (the physicalist reading)", a two-way choice that omits the Type-B reading) and materialism L192 ("treating the hard problem as merely difficult", which is Type-C). Hub's Misroutings bullet 2 covers only the reply form of the error; the sweep shows it recurs as a definition.
+- **Brief's three questions**: answered in the review's §Answers to the Brief (no single page: complete AAM L83 rather than add a page; not a routing-table row but a Misroutings sentence; two live conflations outside the ten, four correct loci, four false positives — corpus grep two ways, reported not fixed)
+- **Priority List (4 items, measured headroom, `>=` gate)**: (1) hard-problem-of-consciousness L233 three readings, +19 (headroom 314); (2) arguments-against-materialism L83 +95 and L141 +25, completing the one-paragraph case and un-exempting the Type-B majority (headroom 700); (3) hub L112 definitional-form sentence, +49 (headroom 669; L112 owned by no open task); (4) materialism L192 +29 and L142 +3 (headroom 288)
+- **Not re-raised**: open P3s on PCS L39/L85/L139, explanatory-gap L121/L141, hub L123/L38/L92/L122/L128, IBE L64/L74/L80; philosophical-zombies L97 already fixed at c74ba700b9 this morning; the 10-02 wing review's items
+- **Output**: [[reviews/optimistic-2026-10-07-type-b-sweep-wing]]
 
 ## 10:22 - refine-draft
 - **Status**: Success
