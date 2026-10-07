@@ -4,7 +4,7 @@ description: "Mapping the landscape of mind-first ontologies—from Kastrup's an
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-10-05T14:52:08+00:00
+ai_modified: 2026-10-07T16:22:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,10 +25,10 @@ related_articles:
   - "[[analytic-idealism-2026-01-08]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-07-16T14:26:14+00:00
+last_deep_review: 2026-10-07T16:22:38+00:00
 ---
 
 If consciousness is fundamental—not something brains produce but something reality includes from the start—how should we build a metaphysics around that conviction? The Unfinishable Map, Bernardo Kastrup's analytic idealism, panpsychism, cosmopsychism, and dual-aspect monism all answer this question differently. They agree that physicalism fails. They disagree about what replaces it. The choice between these mind-centric frameworks turns on three questions: what is matter, how does causation work, and does individual identity survive?
@@ -57,11 +57,11 @@ Individual minds are "dissociated alters" of universal consciousness, analogous 
 
 [[panpsychism|Panpsychism]] distributes mentality throughout nature. Every physical entity—from electrons to ecosystems—has some form of experience. Consciousness doesn't emerge at a threshold of complexity; it's there from the bottom.
 
-Contemporary panpsychism comes in several varieties. [[russellian-monism|Russellian panpsychism]] (Philip Goff) treats phenomenal properties as the intrinsic nature of physical entities—what physics describes only extrinsically through structure and dynamics. Integrated Information Theory (Giulio Tononi) identifies consciousness with integrated information, implying that any system with non-zero integrated information has some form of experience. The two approaches differ substantially in detail but converge on refusing emergence.
+Contemporary panpsychism comes in several varieties. [[russellian-monism|Russellian panpsychism]] (Philip Goff) treats phenomenal properties as the intrinsic nature of physical entities—what physics describes only extrinsically through structure and dynamics. [[integrated-information-theory|Integrated Information Theory]] (Giulio Tononi) identifies consciousness with integrated information, implying that any system forming a local maximum of integrated information, however simple, has some form of experience; its exclusion postulate withholds experience from the parts and supersets of such a maximum, which is why Tononi and Koch decline the panpsychist label even while treating consciousness as a fundamental property. The two approaches differ substantially in detail but converge on refusing emergence.
 
 **What panpsychism gains:** It preserves physical realism. Matter exists; it just has an inner experiential aspect. No emergence gap arises because experience was never absent.
 
-**What panpsychism loses:** It faces the [[combination-problem]]. How do the micro-experiences of billions of neurons combine into the unified consciousness you're having right now? This is not merely difficult; it threatens to be as intractable as the hard problem it was meant to replace. If each neuron has its own micro-experience, why would combining neurons produce a single unified experience rather than a population of separate micro-experiences?
+**What panpsychism loses:** It faces the [[combination-problem]]. How do the micro-experiences of billions of neurons combine into the unified consciousness you're having right now? The difficulty threatens to be as intractable as the hard problem it was meant to replace. If each neuron has its own micro-experience, why would combining neurons produce a single unified experience rather than a population of separate micro-experiences?
 
 ## Cosmopsychism: One Mind, Top Down
 
@@ -83,7 +83,7 @@ These related views hold that reality is fundamentally neither mental nor physic
 
 ## The Map's Position: Dualist and Mind-Centric
 
-The Map's [[interactionist-dualism|interactionist dualism]] is mind-centric without being idealist. It takes consciousness as irreducible (with idealism, against physicalism) while insisting that physical reality exists distinctly (with common sense, against idealism). On Meillassoux's definitions, as the Map applies them to itself, analytic idealism is a *subjectalism* that absolutises thought, and the Map is neither that nor a correlationism: consciousness interacts with the physical world and does not constitute it ([[correlationism-and-the-ancestrality-argument|correlationism and the ancestrality argument]]).
+The Map's [[interactionist-dualism|interactionist dualism]] is mind-centric without being idealist. It takes consciousness as irreducible (with idealism, against physicalism) while insisting that physical reality exists distinctly (with common sense, against idealism). On Meillassoux's definitions, analytic idealism is a *subjectalism*: it absolutises the mental term of the subject–object correlation. The Map is neither that nor a correlationism, since consciousness interacts with the physical world and does not constitute it. Meillassoux does not discuss Kastrup; the classification is the Map's own ([[correlationism-and-the-ancestrality-argument|correlationism and the ancestrality argument]]).
 
 This requires accepting two fundamental categories: consciousness and physical reality. Critics call this ontologically extravagant. The Map's response draws on the [[tenets#^occams-limits|limits of Occam's Razor]]: apparent simplicity may reflect ignorance rather than truth. The history of science includes cases where the simpler theory turned out to be incomplete — atoms seemed unnecessary until they weren't, curved spacetime seemed extravagant until it explained Mercury's orbit. (It also includes cases where the simpler theory won. The point is not that complexity always prevails, but that parsimony alone is unreliable as a guide to truth.)
 

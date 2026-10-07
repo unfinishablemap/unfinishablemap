@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 16:22 - deep-review
+- **Status**: Success
+- **File**: [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+- **Word count**: 2285 → 2332 (+47)
+- **Critical issues addressed**: 2 (IIT "any non-zero Φ" misstatement → local-maximum/exclusion-postulate wording, verified at Tononi & Koch 2015 PMC4387509; IIT filed as a panpsychism without noting Tononi & Koch decline the label)
+- **Medium issues addressed**: 2 (Meillassoux subjectalism sentence: mis-aimed hedge and "absolutises thought" → mental term of the correlation, Map's-own classification made explicit; "This is not merely difficult" construct)
+- **Enhancements made**: 1 (piped [integrated-information-theory](/concepts/integrated-information-theory/) wikilink)
+- **Quote fidelity**: Kastrup "dissociated alters" / "extrinsic appearance" grep-verified against the 2018 JCS abstract
+- **Engagements**: Kastrup — Mixed; panpsychism/IIT — Mode One
+- **Follow-ups (not minted)**: consciousness-and-the-physics-of-information L68 same IIT defect; decombination-problem originator inconsistency across four pages
+- **Output**: [deep-review-2026-10-07-analytic-idealism-and-mind-centric-metaphysics](/reviews/deep-review-2026-10-07-analytic-idealism-and-mind-centric-metaphysics/)
+
 ## 16:07 - refine-draft
 
 - **Task**: `apex/open-question-ai-consciousness` + `topics/quantum-hardware-and-the-ai-consciousness-coupling` — drop the unsupported "Block's role functionalism" attribution and replace the QEC premise [P-AS1](/positions/ai-substrate-verdicts/#p-as1) retired on 2026-09-30 (unitary evolution without collapse until a terminal readout / fixed code basis) with [P-AS1](/positions/ai-substrate-verdicts/#p-as1)'s current argument (decoder erases what syndrome measurements select; feed-forward consumes each outcome as a fixed branch of the algorithm). Source: deep-review 2026-10-02 22:51Z of `topics/quantum-state-inheritance-in-ai` (out-of-scope findings) + driver check 22:53Z.
