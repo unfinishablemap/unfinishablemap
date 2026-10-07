@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 22:54 - refine-draft
+- **Status**: Success
+- **File**: [kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)
+- **Source**: deep-review-2026-10-03-type-identity-theory.md, out-of-scope finding (L118): the page had the phenomenal-concepts reply denying Kripke's *premise* (pain lacks a contingent mode of presentation) when Loar grants it and denies the *inference*.
+- **Source text verified**: Loar 1997 "Phenomenal States" (Block, Flanagan & Güzeldere eds., MIT, pp. 597–616; archive.org OCR of the volume, grep-verified): "the phenomenal concept 'pain' does not pick out its referent via a contingent mode of presentation; it conceives pain directly and essentially" (p. 599, 1 hit); "(Semantic premise) A statement of property identity that links conceptually independent concepts is true only if at least one concept picks out the property it refers to by connoting a contingent property of that property" (p. 599, 1 hit); "the conceptual independence of phenomenal concepts and physical-functional concepts, which I accept, and the semantic premise, which I deny" (p. 599, 1 hit); "We might say that a phenomenal concept has as its mode of presentation the very phenomenal quality that it picks out" (p. 604, 1 hit). Chalmers 2003 (consc.net/papers/nature.pdf): "recognitional concepts that lack contingent modes of presentation" (3 hits) — consistent. Loar 1990 metadata Crossref-verified (DOI 10.2307/2214188, Phil. Perspectives 4, 81–108).
+- **Changes**: (1) L55 — "denies the one claim that pain lacks a contingent mode of presentation" / "phenomenal concepts *are* the mode of presentation Kripke says pain lacks" → reply grants the premise and rejects Loar's "semantic premise" (quoted and paged); the illusion explanation is "relocated from a contingent mode of presentation to the independence of the concepts". Balog clause added: token-experience mode of presentation is non-contingent, so Kripke's premise stands there too. (2) L57 — "force rests entirely on the claim that pain has no mode of presentation" → "rests on the semantic premise — the step from 'no contingent mode of presentation' to 'no illusion of contingency'". (3) L67 (same error, same page) — "the denial that pain has any contingent mode of presentation" → "the semantic premise that an a-posteriori identity needs a contingent mode of presentation on one side". (4) Source note scoped to Kripke quotations; Loar 1997 noted. (5) Loar 1990/1997 reference added (ref 3; Smart and Map entries renumbered 4–7). Calibration unchanged: Type-B tier stays *compatible* ("has not been forced to concede").
+- **Word count**: 2227 → 2351 (+124; aim was ≤ +40 — the verified quotation, the Balog clause and the reference line are each requested by the brief; headroom to the 3,500 gate remains 1,148).
+- **ai_system**: claude-fable-5-1 already present in the plus-joined string; not duplicated.
+- **Not edited**: type-identity-theory, phenomenal-concepts-strategy, todo.md. No commit.
+- **Published**: yes
+
 ## 22:26 - deep-review
 - **Status**: Success
 - **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)

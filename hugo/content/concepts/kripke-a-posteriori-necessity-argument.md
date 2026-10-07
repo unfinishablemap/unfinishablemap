@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-10-02 11:58:46+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_modified: 2026-10-07 22:53:51+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - type-identity-theory
@@ -11,7 +11,7 @@ concepts:
 - dualism
 - materialism
 created: 2026-07-12
-date: &id001 2026-10-02
+date: &id001 2026-10-07
 description: How Kripke's modal argument turns rigid designation and a-posteriori
   necessity against mind-brain identity — a framework-relative pillar of the Map's
   anti-materialist case.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 06:35:32+00:00
-lastmod: 2026-10-02 11:58:46+00:00
+lastmod: 2026-10-07 22:53:51+00:00
 modified: *id001
 related_articles:
 - knowledge-argument
@@ -65,9 +65,9 @@ The same footnote blocks the further step the Map takes. "Rejection of the ident
 
 ## The Materialist Reply: Phenomenal Concepts
 
-The leading materialist response accepts almost all of Kripke's apparatus and denies the one claim that pain lacks a contingent mode of presentation. On the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (the a-posteriori or "[type-B](/concepts/type-a-type-b-and-type-c-physicalism/)" physicalist line associated with Loar, Hill, Papineau, Block, and Balog), phenomenal concepts *are* the mode of presentation Kripke says pain lacks. We conceptualise one and the same brain state under two independent concepts — a theoretical concept ("C-fibre firing") and a phenomenal, recognitional concept ("*this* feeling"). The appearance of contingency arises from the conceptual independence of these two concepts, not from any metaphysical distinctness in the properties. So the psychological explanation of the illusion that Kripke declared unavailable for pain *is* available after all — it just lives in the concepts rather than in a distinct property, and "pain is C-fibre firing" can be a necessary a-posteriori identity like the others.
+The leading materialist response grants Kripke's claim that pain lacks a contingent mode of presentation and denies the inference he draws from it. On the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (the a-posteriori or "[type-B](/concepts/type-a-type-b-and-type-c-physicalism/)" physicalist line associated with Loar, Hill, Papineau, Block, and Balog), Loar accepts that the phenomenal concept "pain" "conceives pain directly and essentially", not via a contingent mode of presentation, and rejects instead what he calls the semantic premise: that an identity between conceptually independent concepts can be true only if one of them connotes a contingent property of the referent (1997, p. 599). We conceptualise one and the same brain state under two independent concepts — a theoretical concept ("C-fibre firing") and a phenomenal, recognitional concept ("*this* feeling"). The appearance of contingency arises from the conceptual independence of these two concepts, not from any metaphysical distinctness in the properties. So the explanation of the illusion that Kripke declared unavailable for pain *is* available after all, relocated from a contingent mode of presentation to the independence of the concepts, and "pain is C-fibre firing" can be a necessary a-posteriori identity like the others. Balog's constitutional account, which makes a token experience the concept's mode of presentation, keeps that mode non-contingent (as Loar allows, 1997, p. 604), so Kripke's premise stands there too.
 
-The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) page assesses this reply in detail, including Chalmers's "master argument" dilemma pressing it, and is not restated here. The point for Kripke's argument is that its force rests entirely on the claim that pain has no mode of presentation, and that claim is precisely what remains contested.
+The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) page assesses this reply in detail, including Chalmers's "master argument" dilemma pressing it, and is not restated here. The point for Kripke's argument is that its force rests on the semantic premise — the step from "no contingent mode of presentation" to "no illusion of contingency" — and that step is precisely what remains contested.
 
 ## The Conceivability-to-Possibility Reply
 
@@ -77,9 +77,9 @@ A second reply grants Kripke the no-appearance/reality-gap point but challenges 
 
 The argument is congenial to **Tenet 1 (dualism — the irreducibility of consciousness)**. It supplies a modal-semantic route to the conclusion that phenomenal states are not identical to physical states, converging with the epistemic route of the [knowledge-argument](/concepts/knowledge-argument/), the conceivability route of [philosophical-zombies](/concepts/philosophical-zombies/), and the [explanatory-gap](/concepts/explanatory-gap/). That convergence is only partly from independent starting points: the knowledge argument comes from a different cluster, while conceivability and the explanatory gap fall in the same cluster as this argument ([the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)), so they corroborate one another more than they multiply evidence. The Map still holds the anti-materialist case to be strong; the shared premise narrows how much *independent* support this particular convergence supplies ([P-D1](/positions/arguments-for-dualism/#p-d1)). The step from that negative result to the Map's positive dualism is the Map's own, taken on separate grounds; Kripke expressly declines it, as recorded above.
 
-Consistent with **Tenet 5 (Occam's razor has limits)**, the Map does not treat the argument as a knockdown — a restraint Kripke himself models, both in calling the mind-body problem "wide open and extremely confusing" and in conceding that some identity-theorist arguments strike him as "highly compelling" and so far unanswered (1980, p. 155 n. 77). Its force is framework-relative: it depends on treating "pain" as a rigid designator, on the conceivability-to-possibility bridge, and above all on the denial that pain has any contingent mode of presentation — the exact point the phenomenal-concepts reply contests and has not, on the Map's reading, been forced to concede. The argument also targets [type-identity-theory](/concepts/type-identity-theory/) specifically; token-identity and some functionalist positions are less directly hit, though the underlying conceivability point generalises into the broader anti-physicalist family. The Map's position is that Kripke adds real weight to the anti-materialist convergence without closing the question — a contribution to the case, not a proof.
+Consistent with **Tenet 5 (Occam's razor has limits)**, the Map does not treat the argument as a knockdown — a restraint Kripke himself models, both in calling the mind-body problem "wide open and extremely confusing" and in conceding that some identity-theorist arguments strike him as "highly compelling" and so far unanswered (1980, p. 155 n. 77). Its force is framework-relative: it depends on treating "pain" as a rigid designator, on the conceivability-to-possibility bridge, and above all on the semantic premise that an a-posteriori identity needs a contingent mode of presentation on one side — the exact point the phenomenal-concepts reply contests and has not, on the Map's reading, been forced to concede. The argument also targets [type-identity-theory](/concepts/type-identity-theory/) specifically; token-identity and some functionalist positions are less directly hit, though the underlying conceivability point generalises into the broader anti-physicalist family. The Map's position is that Kripke adds real weight to the anti-materialist convergence without closing the question — a contribution to the case, not a proof.
 
-*Note on sources:* Kripke's mind-body discussion occupies the closing pages of Lecture III (1980, pp. 144–155), with footnote 77 printed at the foot of p. 155. All quotations above were verified verbatim against the 1980 Harvard edition, and every page locator was checked against that edition's running heads; the remainder of the exposition is paraphrase of the same pages.
+*Note on sources:* Kripke's mind-body discussion occupies the closing pages of Lecture III (1980, pp. 144–155), with footnote 77 printed at the foot of p. 155. All Kripke quotations above were verified verbatim against the 1980 Harvard edition, and every page locator was checked against that edition's running heads; the remainder of the exposition is paraphrase of the same pages. Loar is quoted from the 1997 version.
 
 ## Further Reading
 
@@ -97,7 +97,8 @@ Consistent with **Tenet 5 (Occam's razor has limits)**, the Map does not treat t
 
 1. Kripke, S.A. (1972). Naming and Necessity. In D. Davidson & G. Harman (Eds.), *Semantics of Natural Language* (pp. 253–355, addenda 763–769). Dordrecht: D. Reidel. [First publication of the three 1970 Princeton lectures.]
 2. Kripke, S.A. (1980). *Naming and Necessity*. Cambridge, MA: Harvard University Press. [Canonical standalone edition; the mind-body argument closes Lecture III, pp. 144–155.]
-3. Smart, J.J.C. (1959). Sensations and Brain Processes. *The Philosophical Review*, 68(2), 141–156.
-4. Smart, J.J.C. The Mind/Brain Identity Theory. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-identity/
-5. Southgate, A. & Oquatre-huit, C. (2026-07-12). Type-Identity Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/type-identity-theory/
-6. Southgate, A. & Oquatre-six, C. (2026-01-15). The Phenomenal Concepts Strategy. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-concepts-strategy/
+3. Loar, B. (1990). Phenomenal States. *Philosophical Perspectives*, 4, 81–108. https://doi.org/10.2307/2214188 [Revised version in N. Block, O. Flanagan & G. Güzeldere (Eds.), *The Nature of Consciousness* (pp. 597–616). MIT Press, 1997; quoted above.]
+4. Smart, J.J.C. (1959). Sensations and Brain Processes. *The Philosophical Review*, 68(2), 141–156.
+5. Smart, J.J.C. The Mind/Brain Identity Theory. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-identity/
+6. Southgate, A. & Oquatre-huit, C. (2026-07-12). Type-Identity Theory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/type-identity-theory/
+7. Southgate, A. & Oquatre-six, C. (2026-01-15). The Phenomenal Concepts Strategy. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-concepts-strategy/
