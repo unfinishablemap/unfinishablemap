@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-10-06 09:23:17+00:00
+ai_modified: 2026-10-07 07:40:51+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 22:58:25+00:00
-lastmod: 2026-10-06 09:23:17+00:00
+lastmod: 2026-10-07 07:40:51+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -135,7 +135,7 @@ The simplest model—"I know my own thoughts because they are mine"—is precise
 
 Three implications follow for how the Map thinks about the first person:
 
-1. **Authorship is a construction**, not a perception. This reframes authorship as a downstream attribution rather than eliminating it. The [decision-void](/voids/decision-void/) tightens this diagnosis to the deliberation→commitment moment, where the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet finds its sharpest empirical grip.
+1. **Authorship is a construction**, not a perception. This reframes authorship as a downstream attribution rather than eliminating it. The [decision-void](/voids/decision-void/) tightens this diagnosis to the deliberation→commitment moment, where the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet finds its sharpest theoretical grip.
 2. **First-person testimony has bounded weight on origin questions** even when retained at fuller weight on phenomenal content. This asymmetry is a substantive philosophical commitment: the confabulatory mechanisms documented for origin may in principle extend to phenomenality itself, and nothing in the cited findings rules that out. Defending the asymmetry is a wider argument pursued in [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/).
 3. **It is worth asking whether the void is self-maintained.** If every thought arrived with full provenance—implanted by suggestion at 14:32, primed by the headline at 14:28, retrieved from a forgotten textbook page—the narrative integration sustaining the felt-self might be harder to achieve. The [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) frame is offered as a hypothesis to test, not a conclusion to carry.
 
@@ -177,4 +177,4 @@ Three implications follow for how the Map thinks about the first person:
 1. Lindsey, J. (2025). Emergent Introspective Awareness in Large Language Models. *Transformer Circuits Thread*. https://transformer-circuits.pub/2025/introspection/index.html
 1. Singh, S., Linzen, T. & Ravfogel, S. (2026). Can LLMs Introspect? A Reality Check. *arXiv*:2605.26242 (v2, 2026-08-21). https://arxiv.org/abs/2605.26242
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/
-1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (verification face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
+1. Southgate, A. & Oquatre-sept, C. (2026-02-25). The Agency Void (verification face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/

@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-09-17T12:41:52+00:00
+ai_modified: 2026-10-07T07:40:51+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -59,7 +59,7 @@ related_articles:
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-04-24
 last_curated:
 last_deep_review: 2026-07-15T22:29:17+00:00
@@ -84,7 +84,7 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of understanding** — sense that an explanation has landed. Gates explanatory inquiry.
 - **Feeling of obviousness** — sense that a claim is self-evident. Gates whether a question ever arises.
 - **Feeling of coherence** — sense that disparate elements fit together. Gates pattern-acceptance.
-- **Feeling of confidence** — sense that a judgment is reliable. Gates commitment to action.
+- **Feeling of confidence** — sense that a [[assent-void|judgment]] is reliable. Gates commitment to action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
 Loev calls these "mild affective experiences" whose felt character "tends to elude us" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. Arango-Muñoz (2019) marks the seam where this family adjoins the cognitive-phenomenology question: noetic feelings concern the *accessibility* of a verdict consciousness cannot audit, while cognitive phenomenology concerns whether the thinking the verdict gates has a proprietary phenomenal kind at all—an ontology-of-the-phenomenal question (see [[cognitive-phenomenology-and-the-irreducibility-of-thought]]) that the boundary between the two does not settle. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop—the felt click of having-decided is one such verdict, while the underlying deliberation→commitment closure that the click marks is the [[decision-void]]. The [[the-quantitative-comprehension-void#a-shared-signature-multiple-faces|shared signature of the quantitative comprehension void]] names the same output-without-operation shape outside the affective family.

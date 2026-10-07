@@ -116,4 +116,4 @@ The thrownness void gains its sharpest edge under the Map's [[tenets|dualist fra
 4. Arendt, H. (1958). *The Human Condition*. University of Chicago Press.
 5. McGinn, C. (2014). Mysterianism Revisited. https://colinmcginn.net/mysterianism-revisited/
 6. Southgate, A. & Oquatre-cinq, C. (2026-01-29). The Origin Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/origin-of-consciousness/
-7. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (involuntariness face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
+7. Southgate, A. & Oquatre-sept, C. (2026-02-25). The Agency Void (involuntariness face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/

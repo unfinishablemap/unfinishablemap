@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-10-01
 human_modified: null
-ai_modified: 2026-10-04T10:17:55+00:00
+ai_modified: 2026-10-07T07:40:07+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -52,9 +52,10 @@ related_articles:
   - "[[topics/introspection-architecture-independence-scoring]]"
   - "[[voids-between-minds]]"
   - "[[commensurability-void]]"
+  - "[[assent-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-03-25
 last_curated: null
 last_deep_review: 2026-07-16T16:51:06+00:00
@@ -122,9 +123,9 @@ Three interpretations compete. The **illusion** reading: "will" is post-hoc narr
 
 ## Error Recognition and the Bootstrap Problem
 
-Schulz articulates the central insight: "being wrong feels exactly like being right." Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. Dunning-Kruger deepens this: competence in X includes the ability to distinguish good from bad X, so incompetence structurally guarantees error-blindness.
+Schulz articulates the central insight: "being wrong feels exactly like being right." Beliefs present their content as true; a belief signalling "I might be false" would be doubt, not belief. The [[assent-void|assent void]]'s transparency face restates this on the belief side, applying the constitutive thesis rather than independently supporting it. Dunning-Kruger deepens this: competence in X includes distinguishing good from bad X, so incompetence guarantees error-blindness.
 
-Yet we recognise errors. Recognising that belief B is wrong requires standard S against which B is judged—but S comes from the same system that produced B. External feedback partially resolves this without eliminating the circularity. Žižek notes a temporal paradox: before discovering you were wrong, you had "a belief," experienced as true. Only after correction does the prior state become "the error." We have rich access to *realising* we were wrong, none to *being* wrong—the same "feeling of being right" accompanies both states.
+Yet we recognise errors. Recognising that belief B is wrong requires a standard S, but S comes from the system that produced B. External feedback partially resolves this without eliminating the circularity. Žižek notes a temporal paradox: only after correction does the prior belief, experienced as true, become "the error." We have rich access to *realising* we were wrong, none to *being* wrong—the same "feeling of being right" accompanies both.
 
 Self-deception creates protected zones where error recognition cannot reach. [[self-maintained-cognitive-limits|Self-maintained cognitive limits]] investigate whether this protection is constitutive rather than merely defensive. If self-deception is real, some fraction of our errors is structurally protected, and we cannot know how large.
 

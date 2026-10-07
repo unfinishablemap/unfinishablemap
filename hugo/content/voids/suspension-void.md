@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-07-16 23:41:34+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-07 07:39:50+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 concepts:
 - '[[introspection]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 23:41:34+00:00
-lastmod: 2026-07-16 23:41:34+00:00
+lastmod: 2026-10-07 07:39:50+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[inference-void]]'
 - '[[agency-void]]'
 - '[[decision-void]]'
+- '[[assent-void]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[tenet-generated-voids]]'
@@ -58,7 +59,7 @@ The void exhibits the [conjunction-coalesce](/apex/conjunction-coalesce/) struct
 
 ### Verification (Unexplorable)
 
-From inside, "I am withholding judgment" closely resembles "I have not yet decided" and "I have quietly decided but decline to acknowledge it." Subtle dispositional differences exist—a felt collapse of attention in the having-decided case, an active *return-to-it* tag in postponement, leaking preference in the felt weighting of options—but these candidate first-person tests are heuristics drawn from the same machinery that produces noetic feelings of rightness. They feel like tests; their reliability is precisely what is in question. Behavioural tests work but require third-party access; predictive consequences emerge only later. While suspension is in progress, the inspection that would check it engages the same machinery whose neutrality is in question—the structural position the [agency-void](/voids/agency-void/) catalogues for causal self-attribution and the [decision-void](/voids/decision-void/)'s closure face for the deliberation→commitment moment. The felt act of holding back is the suspension face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): phenomenal access reaches the suspension-feeling but not the operations that produce it.
+From inside, "I am withholding judgment" closely resembles "I have not yet decided" and "I have quietly decided but decline to acknowledge it." Subtle dispositional differences exist—a felt collapse of attention in the having-decided case, an active *return-to-it* tag in postponement, leaking preference in the felt weighting of options—but these candidate first-person tests are heuristics drawn from the same machinery that produces noetic feelings of rightness. They feel like tests; their reliability is precisely what is in question. The [assent void](/voids/assent-void/) sharpens this face conditionally. On Gilbert's and Mandelbaum's Spinozan model, comprehension includes acceptance, so "suspension" is always the retraction of an assent already given; the evidence is contested, though, and the rival model of optional, context-dependent tagging, on which some propositions receive no truth-value, makes untagged representations a countermodel to any universal first-assignment thesis. Behavioural tests work but require third-party access; predictive consequences emerge only later. While suspension is in progress, the inspection that would check it engages the same machinery whose neutrality is in question—the structural position the [agency-void](/voids/agency-void/) catalogues for causal self-attribution and the [decision-void](/voids/decision-void/)'s closure face for the deliberation→commitment moment. The felt act of holding back is the suspension face of the [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/): phenomenal access reaches the suspension-feeling but not the operations that produce it.
 
 The verification face is *Unexplorable* in the sense the [three-kinds typology](/voids/three-kinds-of-void/) reserves for limits that resist mapping by their own architecture. One does not lack data; one lacks the capacity to interpret data without using the resource being measured.
 
@@ -90,7 +91,7 @@ None of the three faces alone establishes the void. Verification alone names a f
 
 Independent traditions arriving at the same paradox can be suggestive territorial evidence only after three alternatives are addressed. **Shared lineage**: Husserl read Pyrrho, Heidegger read Husserl, Keats encountered Stoic suspension through Hazlitt—the four are not historically independent. **Shared conceptual confusion**: convergent paradoxes can indicate convergent error (Frege, Russell, and Tarski's self-reference paradoxes indict a treatment of reference, not a territory). **Selection bias**: pragmatist treatments (Peirce, James, Dewey), Mādhyamika emptiness analysis, Confucian *zhōng*, and Wittgensteinian quietism each treat suspension differently and would not all register as instances of the structure named here.
 
-The defensible residual claim is narrower: the three-faced structure (verification ⊕ capacity ⊕ action) is more granular than shared lineage alone predicts, and pragmatist and Mādhyamika divergence—dilutive of universality—*sharpens* the structural signal where the four selected traditions agree, since content-level disagreement makes structural agreement harder to dismiss as shared confusion. The convergence is suggestive, not conclusive.
+The defensible residual claim is narrower: the three-faced structure (verification ⊕ capacity ⊕ action) is more granular than shared lineage alone predicts, and pragmatist and Mādhyamika divergence—dilutive of universality—*sharpens* the structural signal where the four selected traditions agree, since content-level disagreement makes structural agreement harder to dismiss as shared confusion.
 
 **Pyrrho.** Suspension is a *consequence* of skill, not a willed act. The Pyrrhonist cultivates the *agōgē*—disciplined equipollent arguments—and *epochē* arrives (*Outlines* I.10); aiming directly would constitute the assenting that *epochē* withholds.
 
@@ -113,8 +114,6 @@ Three empirical strands corroborate the philosophical traditions.
 **External scaffolding ubiquity.** Every domain that has tried to improve suspension has converged on external aids: checklists, time-outs, devil's-advocate roles, pre-mortems, registered protocols, second opinions. If internal suspension were reliably willable, these would be redundant; their ubiquity testifies to inside-the-mind unreliability and the need for prosthesis.
 
 ## Phenomenology of the Edge
-
-What approaching the edge of suspension feels like:
 
 **The pull toward closure.** Felt as relief upon arriving at a verdict, mild anxiety while held open. The verdict-feeling is rewarding regardless of correctness; closure provides cognitive analgesia. The [noetic register](/voids/noetic-feelings-void/) turns suspension's bounds into hedonic terrain—the analgesia is felt, the warrant for the verdict is not.
 
