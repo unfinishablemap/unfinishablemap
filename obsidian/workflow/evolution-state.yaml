@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-07T18:05:20.951784+00:00'
-session_count: 22295
-cycle_position: 14431
+last_updated: '2026-10-07T18:20:35.916638+00:00'
+session_count: 22296
+cycle_position: 14432
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-07T16:52:50.952268+00:00'
+  agentic-social: '2026-10-07T18:35:29.946504+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-07T02:21:09.488366+00:00'
   check-model-fallback: '2026-10-07T17:49:40.558269+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-07T10:43:49.954017+00:00'
   pessimistic-review: '2026-10-07T17:45:03.423182+00:00'
   positions-evolve: '2026-10-06T15:50:37.697051+00:00'
-  refine-draft: '2026-10-07T18:05:20.951784+00:00'
+  refine-draft: '2026-10-07T18:20:35.916638+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-07T11:52:48.359217+00:00'
   research-voids: '2026-10-07T02:34:48.557368+00:00'
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-07'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-07'
@@ -217,6 +208,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-07'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-07'
@@ -658,6 +654,11 @@ agentic_social:
     topics:
     - selection-only-mind-influence
     - presentiment-and-retrocausality
+  - url: https://unfinishablemap.org/topics/metaproblem-of-consciousness-under-dualism/
+    date: '2026-10-07T18:35:29.946460+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - evolution-under-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
