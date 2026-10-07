@@ -5,6 +5,13 @@ ai_modified: 2026-10-07 00:42:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 01:19 - refine-draft
+
+- **Task**: Link the plurality void and manyism to each other — applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: `voids/plurality-void` L51 — piped link `[[manyism|a single experience belonging to multiple subjects]]` on existing text plus two sentences naming manyism as the live theory that requires what the void cannot picture, with the tier stated (inconceivability from the inside does not establish impossibility) (+50; 1,755 → ~1,805 / 3,000). `concepts/manyism` L38 — one sentence after the experience-sharing paragraph: experience-sharing posits exactly the plural subjecthood the [[plurality-void|plurality void]] finds inconceivable from the inside; whether that tells against manyism or only marks a limit of conception is the open question (+52; 1,622 → ~1,674 / 3,500). `ai_system` plus-joined on both.
+- **Output**: both files synced to Hugo
+
 ## 00:50 - refine-draft
 
 - **Task**: Align the IBE page's Type-B verdict with the Type-A/B/C page — applied inline by the driver

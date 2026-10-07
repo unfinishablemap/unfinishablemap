@@ -4,7 +4,7 @@ description: "Consciousness appears constitutively singular—we cannot conceive
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-07-18T19:04:11+00:00
+ai_modified: 2026-10-07T01:19:30+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[boundary-and-projection]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-07-18T19:04:11+00:00
@@ -48,7 +48,7 @@ Approaching the plurality void produces a distinctive experience. Attempt to ima
 
 What happens is recursive collapse. Every attempt to hold two perspectives folds back into one perspective imagining another. You can rapidly switch between imagined viewpoints—now seeing from here, now seeing from there—but the switching confirms the singularity it tries to escape. The oscillation between perspectives demonstrates that you remain one subject throughout.
 
-Try harder and a different phenomenon emerges: conceptual emptiness. The phrase "what it would be like to be us"—not two separate yous, but a genuinely plural first person—fails to refer to anything. The pronoun has no phenomenological content. "We" in ordinary usage means multiple singular perspectives coordinating; the "we" that the plurality void targets would be a single experience belonging to multiple subjects, and that concept collapses on inspection.
+Try harder and a different phenomenon emerges: conceptual emptiness. The phrase "what it would be like to be us"—not two separate yous, but a genuinely plural first person—fails to refer to anything. The pronoun has no phenomenological content. "We" in ordinary usage means multiple singular perspectives coordinating; the "we" that the plurality void targets would be [[manyism|a single experience belonging to multiple subjects]], and that concept collapses on inspection. Roelofs' manyism is the live theory that requires exactly what the void cannot picture: on his view many overlapping subjects share one token experience. Whether the void's inconceivability from the inside tells against manyism or only marks a limit of conception is open; inconceivability does not establish impossibility.
 
 Some report approaching the idea of consciousness merging triggers something like existential vertigo—the intuition that losing singularity would mean losing *everything*, since everything one is seems organised around being one.
 

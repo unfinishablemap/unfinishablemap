@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-17
-ai_modified: 2026-07-18 01:16:22+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-10-07 01:19:30+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[panpsychism]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:16:22+00:00
-lastmod: 2026-07-18 01:16:22+00:00
+lastmod: 2026-10-07 01:19:30+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-the-metaphysics-of-individuation]]'
@@ -39,7 +39,7 @@ The combination problem asks how billions of micro-subjects (electrons, particle
 
 Roelofs' manyism takes the second horn and embraces it. In his words, "there's nothing wrong with 'manyism'—the idea that many overlapping, slightly different, conscious subjects exist in one place." The micro-subjects do *not* vanish into the composite; the composite does not replace them. Both exist, overlapping, with the composite subject *sharing* the very experiences its parts have.
 
-The engine that makes this intelligible is **experience-sharing**: the claim that a single token experience can be had by more than one subject. Roelofs develops this through the idea that the unity of consciousness can hold *between* distinct subjects, not only within one (Roelofs 2016). His recurring analogy is that consciousness combines roughly the way mass combines—a composite's mass is not a new thing replacing its parts' masses but is constituted by them. If experiences can be shared rather than fused, the subject-summing problem dissolves: there is no need for micro-experiences to disappear into a macro-experience, because the same experience can be had by part and whole at once.
+The engine that makes this intelligible is **experience-sharing**: the claim that a single token experience can be had by more than one subject. Roelofs develops this through the idea that the unity of consciousness can hold *between* distinct subjects, not only within one (Roelofs 2016). His recurring analogy is that consciousness combines roughly the way mass combines—a composite's mass is not a new thing replacing its parts' masses but is constituted by them. If experiences can be shared rather than fused, the subject-summing problem dissolves: there is no need for micro-experiences to disappear into a macro-experience, because the same experience can be had by part and whole at once. Experience-sharing thereby posits exactly the plural subjecthood that the [plurality void](/voids/plurality-void/) finds inconceivable from the inside—a single experience belonging to multiple subjects; whether that inconceivability tells against manyism or only marks a limit of conception is the open question, since inconceivability from the inside does not establish impossibility.
 
 Within one human head, this implies not one mind but anywhere from two (the person plus the brain) to trillions (via the Problem of the Many—the indefinitely many slightly-different aggregates that have equal claim to constitute "you").
 
