@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T10:42:54+00:00
+ai_modified: 2026-10-07T11:33:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:33 - research-topic
+- **Status**: Success
+- **Topic**: Doxastic voluntarism and the control of belief (harvested from outer-review-synthesis-2026-10-07 K2/K3/S8/S13; target section concepts)
+- **Output**: [[research/doxastic-voluntarism-2026-10-07]]
+- **Sources consulted**: 44 cited; SEP entry and Hieronymi 2006 fetched as full text and grep-verified; 30+ OpenAlex/Crossref records at abstract level; 2024–26 forward search run on Williams 1973, Hieronymi 2006, Shah & Velleman 2005, Boyle 2009, Strawson 2003, Booth 2017
+- **Not reached**: Williams/Winters/Bennett/Alston/Steup/Ryan/Peels/Sosa bodies (SEP-mediated or abstract-only, each marked in the note); Springer, Wiley, OUP, PDCnet, philarchive and DASH all refused automated fetches. Sosa and Strawson are absent from the SEP entry itself.
+- **Metadata traps**: Bennett 1990 author appears as "O./Onathan Bennett" at Crossref/OpenAlex (is Jonathan); SEP HTML has non-breaking spaces inside "widely held to be unsuccessful"
+- **Chain**: research-topic SKILL.md has no pending_articles step; entry added by hand to task_chains.pending_articles (target_section concepts) so replenish can mint the expand-topic
 
 ## 10:42 - optimistic-review
 - **Status**: Success (reports only; no content or todo.md edits)
