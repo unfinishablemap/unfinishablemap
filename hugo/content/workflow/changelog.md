@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 15:50 - refine-draft
+
+- **Task**: `concepts/zombie-master-argument` L112 + L132 + References — name Chalmers's 2007 master argument against the phenomenal concepts strategy and say why it reaches Type-B (optimistic-2026-10-02-physicalist-typing-wing, Priority 3); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: (a) L112: the unnamed dilemma → Chalmers (2007)'s "master argument" (a second use of the name), horns per the PCS page's gloss, plus the two verbatim spans — "an assumption that type-B materialists typically grant" and "we are assuming nothing about the relationship between conceivability and possibility" — so denying step 2 is no defence; Carruthers and Veillet's reply added to the pointer. Both spans re-verified this run by grep against the consc.net PDF (1 hit each). (b) L132: zero-word piped link to `topics/parsimony-case-for-interactionist-dualism`. (c) References: Chalmers 2007 entry (OUP, pp. 167–194, DOI as on the Duhem–Quine page) inserted before Jackson. Response map (L62–94) untouched.
+- **Length**: 3,042 → 3,126 / 3,500 (+84, as the review predicted; gate >=)
+- **Output**: synced to Hugo
+
 ## 15:05 - refine-draft
 
 - **Task**: `concepts/philosophy-of-science-under-dualism` L84 — scope the acquaintance-trust asymmetry to the opponent it binds (optimistic-2026-10-02-physicalist-typing-wing, Priority 2); applied inline by the driver with the review's exact text

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-02 19:42:06+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-07 15:50:17+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[philosophical-zombies]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-10-02 19:42:06+00:00
+lastmod: 2026-10-07 15:50:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ The master argument has persisted for three decades despite sustained attempts t
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.
 - **Denying non-entailment** is the Type-F route, which concedes that structural physics does not entail experience and keeps physicalist terminology, where it keeps it at all, by extending "physical" to natures physics does not describe.
 
-The argument also regenerates against sophisticated responses. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/), which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces a dilemma: either the special cognitive mode is itself phenomenally conscious (generating a new conceivability argument at the meta-level) or it's purely functional (and we can conceive of it without the accompanying phenomenology). The full case — including Fürst's reversal arguing PCS's own framework supports dualism — is developed on that page.
+The argument also regenerates against sophisticated responses. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/), which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces what Chalmers (2007) calls a "master argument" against it, a second use of the name: if a zombie lacking the strategy's key features is conceivable, those features are not physically explicable; if it is not, zombies have the features too, so they cannot explain an epistemic situation zombies do not share. The argument needs only zombie conceivability, "an assumption that type-B materialists typically grant", and "we are assuming nothing about the relationship between conceivability and possibility", so denying step 2 is no defence against it. The full case — including Carruthers and Veillet's reply and Fürst's reversal arguing PCS's own framework supports dualism — is developed on that page.
 
 ## Relation to Site Perspective
 
@@ -133,7 +133,7 @@ This ordering invites an objection: if the completed framework makes physically-
 
 ### Occam's Razor
 
-The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). Physicalists often appeal to parsimony: why posit something beyond the physical? The master argument's response is that parsimony cannot override logical non-entailment. If the physical facts don't necessitate the phenomenal facts, adding consciousness to the ontology isn't an optional extravagance — it's a recognition of what the argument concludes to.
+The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits). Physicalists often appeal to [parsimony](/topics/parsimony-case-for-interactionist-dualism/): why posit something beyond the physical? The master argument's response is that parsimony cannot override logical non-entailment. If the physical facts don't necessitate the phenomenal facts, adding consciousness to the ontology isn't an optional extravagance — it's a recognition of what the argument concludes to.
 
 ## Further Reading
 
@@ -150,6 +150,7 @@ The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In T. Gendler & J. Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
 1. Chalmers, D. (2003). "Consciousness and Its Place in Nature." In S. P. Stich & T. A. Warfield (eds.), *The Blackwell Guide to Philosophy of Mind* (pp. 102–142). Blackwell. https://doi.org/10.1002/9780470998762.ch5 (first printed 2002 in D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford University Press)
+1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge* (pp. 167–194). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
 1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.

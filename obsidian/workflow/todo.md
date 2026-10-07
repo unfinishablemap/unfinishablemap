@@ -1474,16 +1474,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: Zombie-master L112: name Chalmers's 2007 phenomenal-concepts dilemma and why denying step 2 is no defence
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/zombie-master-argument.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-02 21:35Z (obsidian/reviews/optimistic-2026-10-02-physicalist-typing-wing.md, Priority List item 3)
-- **Generated**: 2026-10-02
-- **Headroom**: 457 (3,042/3,500); +84.
-- **Notes**: Use the review's exact replacement text (Priority List item 3); its quoted phrases were matched against the fetched Chalmers 2007 paper and the DOI/pages checked at Crossref. L112 runs Chalmers's 2007 dilemma against the phenomenal concepts strategy without naming it; name it as his "master argument" (a second use of the name), follow the phenomenal-concepts-strategy page's wording of the horns, and add that it "needs only zombie conceivability" and assumes "nothing about the relationship between conceivability and possibility", so Type-B's denial of step 2 is no defence. Add the Chalmers 2007 reference. L132: zero-word link to the parsimony-case page. Keep today's 19:42Z response-map rebuild intact.
-
 ### P3: Remove the unsupported "Block's role functionalism" attribution and the QEC premises P-AS1 retired, on the AI-consciousness apex and the quantum-hardware page
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/open-question-ai-consciousness.md
@@ -1956,6 +1946,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-07: Zombie-master L112: name Chalmers's 2007 phenomenal-concepts dilemma and why denying step 2 is no defence
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/zombie-master-argument.md
+- **Notes**: Use the review's exact replacement text (Priority List item 3); its quoted phrases were matched against the fetched Chalmers 2007 paper and the DOI/pages checked at Crossref. L112 runs Chalmers's 2007 dilemma against the phenomenal concepts strategy without naming it; name it as his "master argument" (a second use of the name), follow the phenomenal-concepts-strategy page's wording of the horns, and add that it "needs only zombie conceivability" and assumes "nothing about the relationship between conceivability and possibility", so Type-B's denial of step 2 is no defence. Add the Chalmers 2007 reference. L132: zero-word link to the parsimony-case page. Keep today's 19:42Z response-map rebuild intact.
 
 ### ✓ 2026-10-07: Philosophy-of-science L84: scope the acquaintance-trust argument to the opponent it binds (the illusionist, not Type-B)
 - **Type**: refine-draft
