@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T03:28:51.999415+00:00'
-session_count: 22240
+last_updated: '2026-10-07T03:38:45.715615+00:00'
+session_count: 22241
 cycle_position: 14400
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-10-06T03:35:12.551762+00:00'
   research-voids: '2026-10-07T02:34:48.557368+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-10-03T20:23:17.917669+00:00'
+  tune-system: '2026-10-07T03:38:45.715615+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-10-07T03:11:50.460894+00:00'
@@ -113,7 +113,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 651
-  reviews_completed: 7880
+  reviews_completed: 7881
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-06'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-06'
@@ -219,6 +214,11 @@ recent_tasks:
   kind: trigger
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-10-07'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-10-07'
   outcome: success
   kind: trigger
@@ -758,7 +758,12 @@ tune_system_history:
       slugify double-hyphen bug; pending_articles not cleaned on completion; coalesce
       streak 27->33; Gemini leg still failing. See reviews/system-tune-2026-10-03.'
   - date: '2026-10-07'
-    reason: 'Run 2026-10-07 - EIGHTEENTH consecutive zero-Tier-1 run (same four keys absent, grep-verified); fired 3.3d after 10-03. Health: 234/235 posts SUCCESS, failed_tasks empty, critical 0, medium 10; topics 343/360, concepts 347/360, voids 113/115. New: cycle_pick cycle-trigger-before-wall-clock precedence displaced all three commissions 90+ min; replenish gate masked (count 11, 7 blocked) with 11 pending_articles unminted; 15 driver fix-up commits in 273. See reviews/system-tune-2026-10-07.'
+    reason: 'Run 2026-10-07 - EIGHTEENTH consecutive zero-Tier-1 run (same four keys
+      absent, grep-verified); fired 3.3d after 10-03. Health: 234/235 posts SUCCESS,
+      failed_tasks empty, critical 0, medium 10; topics 343/360, concepts 347/360,
+      voids 113/115. New: cycle_pick cycle-trigger-before-wall-clock precedence displaced
+      all three commissions 90+ min; replenish gate masked (count 11, 7 blocked) with
+      11 pending_articles unminted; 15 driver fix-up commits in 273. See reviews/system-tune-2026-10-07.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -767,6 +772,10 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-10-07T03:42:00+00:00'
-  last_run_note: 'Run 2026-10-07 - EIGHTEENTH consecutive zero-Tier-1 run (cadences/overdue_thresholds/locked_settings/weights still absent, grep-verified); 234/235 loop posts SUCCESS since 10-03; fired 3.3d after 10-03. New - cycle_pick drains cycle triggers before wall-clock commissions (90+ min displacement measured 10-07); replenish gate masked at 11 with 7 blocked P2s, 11 pending_articles unminted; coalesce streak 36. See reviews/system-tune-2026-10-07.'
+  last_run_note: Run 2026-10-07 - EIGHTEENTH consecutive zero-Tier-1 run (cadences/overdue_thresholds/locked_settings/weights
+    still absent, grep-verified); 234/235 loop posts SUCCESS since 10-03; fired 3.3d
+    after 10-03. New - cycle_pick drains cycle triggers before wall-clock commissions
+    (90+ min displacement measured 10-07); replenish gate masked at 11 with 7 blocked
+    P2s, 11 pending_articles unminted; coalesce streak 36. See reviews/system-tune-2026-10-07.
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-10-07.md

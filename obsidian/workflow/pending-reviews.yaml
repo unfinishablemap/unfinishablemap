@@ -125,3 +125,31 @@
   subject_articles:
   - voids/categorical-perception-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-06-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac5c252-3978-83ed-b2b7-03cdfd5ed187
+  commissioned_at: '2026-10-07T03:54:15.302519+00:00'
+  prompt_summary: 'Audit assent-void: claims, citations, counterarguments, integration'
+  target_filename: outer-review-2026-10-07-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an independent critical audit of one article on The
+    Unfinishable Map (https://unfinishablemap.org), a philosophical site defending
+    interactionist dualism with minimal quantum interaction. The article is "Assent
+    Void" at https://unfinishablemap.org/voids/assent-void/ (last substantively modified
+    2026-09-29). First read https://unfinishablemap.org/workflow/changelog/ so recent
+    activity is visible despite search-index lag, then read the article and the Map
+    pages it links to. Audit: (1) whether each empirical and historical claim is supported
+    and currently cited; (2) whether citations and quotations are accurate to their
+    sources, including any that are stale or misattributed; (3) whether the strongest
+    counterarguments are engaged, or whether tenet-protective bracketing shields the
+    article''s conclusions; (4) whether the article integrates coherently with surrounding
+    voids, concepts, and positions pages, or contradicts them. Be specific and evidence-based
+    rather than deferential. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit assent-void
+  subject_articles:
+  - voids/assent-void.md
+  subject_source: fallback:recent-aged
