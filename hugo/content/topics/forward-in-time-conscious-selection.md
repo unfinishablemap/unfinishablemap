@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-10-05 22:21:21+00:00
+ai_modified: 2026-10-07 17:21:30+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-04 14:15:47+00:00
-lastmod: 2026-10-05 22:21:21+00:00
+lastmod: 2026-10-07 17:21:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Stapp (2000) holds that the Zeno effect arises from measurement *frequency* and 
 
 ### Consciousness-Collapse with CSL Dynamics (Chalmers-McQueen)
 
-Chalmers and McQueen (2021) develop the [von Neumann-Wigner](/concepts/von-neumann-wigner-interpretation/) tradition—consciousness causes collapse—with previously lacking mathematical rigour, combining a formal theory of consciousness (IIT supplies the structural framework, though the argument generalises) with continuous spontaneous localisation (CSL) collapse dynamics.
+Chalmers and McQueen (2022) develop the [von Neumann-Wigner](/concepts/von-neumann-wigner-interpretation/) tradition—consciousness causes collapse—with previously lacking mathematical rigour, combining a formal theory of consciousness (IIT supplies the structural framework, though the argument generalises) with continuous spontaneous localisation (CSL) collapse dynamics.
 
 Their key insight concerns the "super-resistance" problem. If conscious states cannot enter superposition, the quantum Zeno effect prevents transitions *between* conscious states—any transition would require passing through a superposition of old and new—and consciousness could never re-emerge from dreamless sleep or anaesthesia. The solution: replace instantaneous projection with gradual CSL-style collapse. Superpositions of conscious states decay smoothly toward definite states, avoiding Zeno freezing while preserving consciousness as collapse trigger.
 
@@ -205,7 +205,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 
 ## References
 
-1. Chalmers, D.J. & McQueen, K.J. (2021). Consciousness and the collapse of the wave function. arXiv:2105.02314.
+1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics* (pp. 11–63). Oxford University Press.
 2. Derakhshani, M., Diósi, L., Laubenstein, M., Piscicchia, K., & Curceanu, C. (2022). At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory. *Physics of Life Reviews*, 42, 8-14. https://doi.org/10.1016/j.plrev.2022.05.004
 3. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
 4. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74-78. https://doi.org/10.1038/s41567-020-1008-4

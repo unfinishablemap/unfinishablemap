@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-09-30 11:26:23+00:00
+ai_modified: 2026-10-07 17:21:30+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 14:16:42+00:00
-lastmod: 2026-09-30 11:26:23+00:00
+lastmod: 2026-10-07 17:21:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,15 +121,15 @@ Tier 2 distinguishes consciousness-collapse from objective collapse models that 
 
 Kremnizer and Ranchin (2015) constructed the first formal CSL variant where the collapse operator depends on [integrated information](/concepts/integrated-information-theory/) (Φ). Systems exceeding a Φ threshold undergo spontaneous localisation; systems below it remain in superposition.
 
-**Testable prediction:** Chalmers and McQueen (2021) identify quantum computer experiments as the most promising platform: a circuit with high integrated feedback should lose coherence faster than a physically identical circuit with modular, feedforward architecture. The circuits share mass, temperature, and environmental coupling — differing only in information architecture. Any divergence in collapse rates would implicate information integration specifically.
+**Testable prediction:** Chalmers and McQueen (2022) identify quantum computer experiments as the most promising platform: a circuit with high integrated feedback should lose coherence faster than a physically identical circuit with modular, feedforward architecture. The circuits share mass, temperature, and environmental coupling — differing only in information architecture. Any divergence in collapse rates would implicate information integration specifically.
 
 **Current status:** Not yet testable — requires measuring Φ in quantum systems — but quantum computer platforms are approaching the regime where variable-Φ circuits could be constructed. This is the closest Tier 2 prediction to experimental reach. It instantiates one minimum-outside-corridor reading of the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet — a branch the Map registers as a live fall-back but does not endorse ([quantum-interface](/positions/quantum-interface/) [P-Q2](/positions/quantum-interface/#p-q2)), since Φ-indexed collapse rates would deviate from the aggregate Born statistics the endorsed corridor reading preserves exactly.
 
-**Limitation:** The *equal-Phi problem* (Chalmers & McQueen, 2021): scalar Φ alone would allow superpositions of distinct conscious states with equal Φ to persist — motivating the Q-shape extension below.
+**Limitation:** The *equal-Phi problem* (Chalmers & McQueen, 2022): scalar Φ alone would allow superpositions of distinct conscious states with equal Φ to persist — motivating the Q-shape extension below.
 
 ### Consciousness-Structure-Dependent Collapse Rates (Chalmers-McQueen)
 
-Chalmers and McQueen (2021) extend the Kremnizer-Ranchin approach: collapse rates depend on the distance between Q-shapes (IIT 4.0's characterisation of experience) rather than scalar Φ alone, resolving the equal-Phi problem.
+Chalmers and McQueen (2022) extend the Kremnizer-Ranchin approach: collapse rates depend on the distance between Q-shapes (IIT 4.0's characterisation of experience) rather than scalar Φ alone, resolving the equal-Phi problem.
 
 **What to look for:** Two systems with identical mass, environmental coupling, and scalar Φ but different information-integration structures should exhibit different collapse timescales.
 
@@ -163,7 +163,7 @@ Tegmark (2000) calculates that quantum coherence in neural tissue decoheres with
 
 The objection is decisive against models requiring sustained quantum coherence in neural tissue — Penrose-Hameroff orchestrated reduction, for instance, must explain how microtubule coherence survives the warm, wet brain environment. Hagan, Hameroff, and Tuszyński (2002) contest Tegmark's estimate for that specific case, calculating microtubule decoherence times of 10⁻⁵ to 10⁻⁴ seconds once the superposition separation distance, charge distribution, and dielectric assumptions are corrected — eight to nine orders of magnitude above Tegmark's figure, though still far short of perceptual timescales. But the Map's framework operates through [post-decoherence-selection](/concepts/post-decoherence-selection/), which sidesteps the timescale problem entirely. Consciousness does not need to maintain or exploit quantum coherence; it acts *after* decoherence has already produced the classical-looking mixture, selecting which outcome becomes actual from the improper mixture that decoherence leaves behind. Tegmark's calculation constrains when coherence vanishes — it says nothing about what happens to the resulting mixture.
 
-The Phi-threshold and Q-shape predictions (Kremnizer-Ranchin and Chalmers-McQueen) reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2021) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
+The Phi-threshold and Q-shape predictions (Kremnizer-Ranchin and Chalmers-McQueen) reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2022) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
 
 What Tegmark's result *does* constrain is the timing window. If coherence vanishes in 10⁻¹³ seconds, any consciousness-dependent selection must operate on the post-decoherence state within the neural processing timescale (~10⁻³ to 10⁻¹ seconds) — comfortably slower than decoherence but fast enough for perceptual binding. This is precisely the regime post-decoherence selection inhabits.
 
@@ -263,7 +263,7 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 3. Bassi, A., Dorato, M. & Ulbricht, H. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
 4. Bong, K. W., et al. (2020). "A strong no-go theorem on the Wigner's friend paradox." *Nature Physics*, 16, 1199–1205.
 5. Carlesso, M. & Donadi, S. (2025). "Spontaneous Collapse Models." *arXiv:2508.18822*.
-6. Chalmers, D.J. & McQueen, K.J. (2021). "Consciousness and the Collapse of the Wave Function." *arXiv:2105.02314*.
+6. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics* (pp. 11–63). Oxford University Press. Preprint: arXiv:2105.02314 (2021).
 7. Curceanu, C., Diósi, L., et al. (2022). "At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory." *Physics of Life Reviews*.
 8. Fein, Y.Y., et al. (2019). "Quantum superposition of molecules beyond 25 kDa." *Nature Physics*, 15, 1242–1245.
 9. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.

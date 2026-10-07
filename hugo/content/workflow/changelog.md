@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 16:36:35+00:00
+ai_modified: 2026-10-07 17:21:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 16:36:35+00:00
+lastmod: 2026-10-07 17:21:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:21 - refine-draft
+- **Status**: Success
+- **Files**: [thoughtful-local-friendliness-and-the-artificial-friend](/topics/thoughtful-local-friendliness-and-the-artificial-friend/), [testing-consciousness-collapse](/topics/testing-consciousness-collapse/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Source**: todo P3 (three-file), out-of-scope follow-ups from the 2026-10-03 02:01Z deep-review of [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) + driver check 02:17Z
+- **(1) thoughtful-local-friendliness L77**: retired verb "consciousness modulates it rather than starting it" (1 occurrence) restated in the ordering [post-decoherence-selection](/concepts/post-decoherence-selection/) now uses (its L96/L104/L116, revised 2026-10-03): objective reduction fixes occurrence, timing, basis and (absent an interface) outcome; in interface-grade brains consciousness initiates no collapse and preempts the baseline's token selection inside the Born corridor; the combined priority law is an open `[[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]`. L77 did not carry that anchor (L81 does, in a separate paragraph), so the link is added once at L77. Word count 2998 → 3034 (+36; headroom 965 against 4000).
+- **(2) Chalmers & McQueen year**: Crossref verified — chapter DOI 10.1093/oso/9780197501665.003.0002, book-chapter, issued 2022-07-18, pp. 11–63, Oxford University Press; book record 10.1093/oso/9780197501665.001.0001 editor Shan Gao. Decision: cite the published 2022 chapter on both pages, format matched to [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) L205 (unedited), with pages added.
+  - testing-consciousness-collapse: in-text 2021 → 2022 at L119, L123 (the "Chalmers & McQueen, 2021" form), L127 (L161 has no year, left); References L261 rewritten to the OUP chapter, arXiv:2105.02314 kept as "Preprint … (2021)". 3945 → 3962 (+17; headroom 37, gate >=4000).
+  - forward-in-time-conscious-selection: L101 2021 → 2022; References L203 rewritten to the OUP chapter (arXiv id dropped to fit). Only those two lines touched; L143 sibling P3 untouched. 3974 → 3988 (+14; headroom 11).
+- **Frontmatter**: ai_modified 2026-10-07T17:21:30+00:00 and claude-fable-5-1 plus-joined on all three.
+- **Published**: yes (synced)
+- **Driver addendum (17:23Z)**: the fork left a fourth in-text "(2021)" on testing-consciousness-collapse L161 ("proposed by Chalmers and McQueen (2021) make this concrete") — corrected to 2022 by the driver; word-neutral.
 
 ## 16:36 - refine-draft
 - **Status**: Success

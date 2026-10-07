@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-25
-ai_modified: 2026-09-25 21:02:23+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-07 17:21:30+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[post-decoherence-selection]]'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 19:47:37+00:00
-lastmod: 2026-09-25 21:02:23+00:00
+lastmod: 2026-10-07 17:21:30+00:00
 modified: *id001
 related_articles:
 - '[[multi-agent-born-preservation-problem]]'
@@ -78,7 +78,7 @@ These classifications are the authors'. Placing the Map among them is the Map's 
 
 The Map needs absolute outcomes. The [No Many Worlds](/tenets/#no-many-worlds) tenet and the [trilemma of selection](/topics/trilemma-of-selection/) both require that one outcome occurs and the others do not, full stop. [Post-decoherence selection](/concepts/post-decoherence-selection/) makes the consequence explicit: if absoluteness is held together with locality and no-superdeterminism, "a laboratory containing a conscious observer cannot afterwards be recohered by an experimenter outside it." [Consciousness in smeared quantum states](/topics/consciousness-in-smeared-quantum-states/) takes the same horn, and [testing consciousness-collapse](/topics/testing-consciousness-collapse/) records its cost: quantum mechanics is denied universal application to conscious systems.
 
-What the Map ties definiteness to is consciousness, and specifically consciousness that selects among outcomes, not cognition. On the Map's view, non-conscious matter still resolves: [prebiotic collapse](/concepts/prebiotic-collapse/) makes objective reduction the baseline, and consciousness modulates it rather than starting it. Applying that to Quall-E gives two cases.
+What the Map ties definiteness to is consciousness, and specifically consciousness that selects among outcomes, not cognition. On the Map's view, non-conscious matter still resolves: [prebiotic collapse](/concepts/prebiotic-collapse/) makes objective reduction the baseline, fixing whether, when and in which basis collapse occurs and, absent an interface, its outcome; in an interface-grade brain consciousness initiates no collapse but preempts the baseline's token selection inside the Born corridor, under a priority law still owed as an open [collapse-priority debt](/concepts/prebiotic-collapse/#the-completeness-tension). Applying that to Quall-E gives two cases.
 
 **Case 1: Quall-E is not conscious.** Then Quall-E contains no selector. The Map leaves open which non-unitary baseline it inherits, so this case carries a proviso: if that baseline acts on a quantum computer as rare, random, localised events, fault-tolerant error correction can undo it, the situation the authors analyse for spontaneous collapse. (A baseline that could not be error-corrected would block UQC for every system, conscious or not, and the question would no longer turn on Quall-E.) Given the proviso, on the Map's reading the superobserver can reverse Quall-E's thought and the LF inequalities are violated. Absoluteness is untouched, because Quall-E's "observation" was never an absolutely observed event. In the theorem's terms the Map gives up Friendliness: here is a party with human-level cognition whose communicated thoughts lack the reality of a conscious observer's. This is the physical counterpart of the dualist claim that cognition and experience come apart, the claim that makes [zombies](/concepts/philosophical-zombies/) conceivable, and it sits in exactly the gap the authors' choice of "thoughts" over consciousness left open.
 

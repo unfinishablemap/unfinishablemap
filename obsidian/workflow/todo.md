@@ -1474,17 +1474,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: Carry the collapse ordering to thoughtful-local-friendliness L77 and fix the Chalmers & McQueen year on two pages
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/thoughtful-local-friendliness-and-the-artificial-friend.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: deep-review 2026-10-03 02:01Z of topics/consciousness-in-smeared-quantum-states (out-of-scope follow-ups) + driver check 02:17Z
-- **Generated**: 2026-10-03
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/testing-consciousness-collapse.md, /home/andy/unfin/unfinishablemap/obsidian/topics/forward-in-time-conscious-selection.md
-- **Caution**: Three files; report each. Measure each with `analyze_length` first. The reference wording for the ordering is the lead of concepts/post-decoherence-selection (revised 2026-10-03 01:11Z).
-- **Notes**: (1) thoughtful-local-friendliness L77 says consciousness "modulates it rather than starting it", the verb the Map retired on 2026-10-03. Restate it in the ordering post-decoherence-selection now uses: objective reduction fixes occurrence, timing, basis and (absent an interface) the outcome; in interface-grade brains consciousness preempts token selection inside the Born corridor; the combined law is an open [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]. (2) Chalmers & McQueen: the published version is 2022 (pp. 11–63 per Crossref; the arXiv preprint is 2021). testing-consciousness-collapse L119, L123, L127 (and check L161) and forward-in-time-conscious-selection L101 cite "(2021)". Change to 2022 if the page means the published paper, or make the preprint explicit in the References entry if it means the arXiv version; match the References list either way. topics/comparing-quantum-consciousness-mechanisms L205 was already changed to 2022 by the 02:01Z review.
-
 ### P3: Fix the two-dimensional-argument error at zombie-master L102, which calls the intension coincidence "load-bearing" (Chalmers: inessential)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/zombie-master-argument.md
@@ -1934,6 +1923,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-07: Carry the collapse ordering to thoughtful-local-friendliness L77 and fix the Chalmers & McQueen year on two pages
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/thoughtful-local-friendliness-and-the-artificial-friend.md
+- **Notes**: (1) thoughtful-local-friendliness L77 says consciousness "modulates it rather than starting it", the verb the Map retired on 2026-10-03. Restate it in the ordering post-decoherence-selection now uses: objective reduction fixes occurrence, timing, basis and (absent an interface) the outcome; in interface-grade brains consciousness preempts token selection inside the Born corridor; the combined law is an open [[prebiotic-collapse#the-completeness-tension|collapse-priority debt]]. (2) Chalmers & McQueen: the published version is 2022 (pp. 11–63 per Crossref; the arXiv preprint is 2021). testing-consciousness-collapse L119, L123, L127 (and check L161) and forward-in-time-conscious-selection L101 cite "(2021)". Change to 2022 if the page means the published paper, or make the preprint explicit in the References entry if it means the arXiv version; match the References list either way. topics/comparing-quantum-consciousness-mechanisms L205 was already changed to 2022 by the 02:01Z review.
 
 ### ✓ 2026-10-07: State selection-only-channel's semantic-matching requirement alongside its content confinement (L89–L92)
 - **Type**: refine-draft

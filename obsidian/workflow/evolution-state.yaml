@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T16:52:50.952268+00:00'
-session_count: 22290
+last_updated: '2026-10-07T17:04:48.469352+00:00'
+session_count: 22291
 cycle_position: 14428
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-07T16:25:31.172314+00:00'
   embed-videos: '2026-10-07T15:20:03.003174+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
-  harvest-research-subjects: '2026-10-07T10:50:54.294883+00:00'
+  harvest-research-subjects: '2026-10-07T17:04:48.469352+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-06T05:08:50.275068+00:00'
   optimistic-review: '2026-10-07T10:43:49.954017+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-07'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-07'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: agentic_social
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-07'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/cotard-delusion/
