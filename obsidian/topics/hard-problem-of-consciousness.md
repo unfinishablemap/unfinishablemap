@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-09-29
 human_modified:
-ai_modified: 2026-10-05T18:05:55+00:00
+ai_modified: 2026-10-07T14:35:01+00:00
 draft: false
 topics:
   - "[[metaproblem-of-consciousness-under-dualism]]"
@@ -78,7 +78,7 @@ related_articles:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-01-06
 last_curated:
 last_deep_review: 2026-09-29T10:10:49+00:00
@@ -230,7 +230,7 @@ This supports the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet
 
 ## What Would Challenge This View?
 
-The claim that the hard problem is genuine would be challenged by: (1) successful reduction—deriving felt quality from neural descriptions explanatorily, not merely correlationally; (2) predictive functionalism—reliably predicting which computations yield which qualia and explaining *why*; (3) illusionism without regress—explaining the "illusion" of phenomenal consciousness without generating a new meta-level gap; (4) confirmed substrate independence—demonstrating phenomenal experience in silicon (though verification would face its own hard problem); (5) framework-dependence—showing that the problem arises only under specific ontological assumptions, as [[the-hard-problem-in-non-western-philosophy|Chinese philosophical traditions]] suggest by never generating the gap within their holistic ontology. The persistent non-occurrence of (1)–(4) over decades provides inductive support for the gap's reality, though (5) remains a live conceptual challenge. Whether the gap is permanent and ontological (the dualist reading) or merely epistemic and closeable by future neuroscience (the physicalist reading) is itself underdetermined by the evidence: the same correlations are compatible with both framings, and which reading one adopts turns on prior commitments about what an adequate explanation requires.
+The claim that the hard problem is genuine would be challenged by: (1) successful reduction—deriving felt quality from neural descriptions explanatorily, not merely correlationally; (2) predictive functionalism—reliably predicting which computations yield which qualia and explaining *why*; (3) illusionism without regress—explaining the "illusion" of phenomenal consciousness without generating a new meta-level gap; (4) confirmed substrate independence—demonstrating phenomenal experience in silicon (though verification would face its own hard problem); (5) framework-dependence—showing that the problem arises only under specific ontological assumptions, as [[the-hard-problem-in-non-western-philosophy|Chinese philosophical traditions]] suggest by never generating the gap within their holistic ontology. The persistent non-occurrence of (1)–(4) over decades provides inductive support for the gap's reality, though (5) remains a live conceptual challenge. Whether the gap is permanent and ontological (the dualist reading), permanent but conceptual (the [[type-a-type-b-and-type-c-physicalism|Type-B physicalist]] reading, which most physicalists hold), or closeable by future neuroscience (the Type-C reading) is itself underdetermined by the evidence: the same correlations are compatible with all three framings, and which reading one adopts turns on prior commitments about what an adequate explanation requires. The persistence cited above tells against the third reading only.
 
 ## Why This Matters
 

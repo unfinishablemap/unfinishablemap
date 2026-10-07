@@ -5,6 +5,14 @@ ai_modified: 2026-10-07T13:58:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 14:35 - refine-draft
+
+- **Task**: `topics/hard-problem-of-consciousness` L233 — give the gap its three readings, not two (optimistic-2026-10-07-type-b-sweep-wing, Priority 1); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: the two-way choice "dualist reading" vs "physicalist reading … closeable by future neuroscience" (Type-B's adjective with Type-C's prediction) → three readings: dualist / permanent-but-conceptual Type-B (piped link to the Type-A/B/C hub — the page's first link to it; "which most physicalists hold" kept, resting on hub L62's Yetter-Chappell and Chalmers reports) / Type-C closeable; "both framings" → "all three"; closing sentence added: "The persistence cited above tells against the third reading only." Grounds hub L111/L123. Calibration unchanged (compatible tier; cost argument, not refutation).
+- **Length**: 3,685 → 3,704 / 4,000 (gate >=)
+- **Output**: synced to Hugo
+
 ## 14:19 - refine-draft
 
 - **Task**: `voids/assent-void` L43 + L73 — the two "four live positions" sentences listed different fours (pessimistic-2026-10-07-assent-void-integration-wing, Issues 2–3) — CORRECTION, not condense; applied inline by the driver with the review's exact text
