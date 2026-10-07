@@ -1472,18 +1472,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: Replies aimed at the wrong type under a Type-B heading (philosophical-zombies L87–91, knowledge-argument L84) — word-neutral
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophical-zombies.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: research-topic 2026-10-02 11:40Z (Misassignment Register M6 + M10) + expand-topic 2026-10-02 11:59Z (concepts/type-a-type-b-and-type-c-physicalism)
-- **Generated**: 2026-10-02
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/concepts/knowledge-argument.md
-- **Headroom**: philosophical-zombies **24** (3475/3500); knowledge-argument **8** (3491/3500). Word-neutral swaps funded by cuts in the same paragraph.
-- **Caution**: Two files. Report the changed sentence and before/after count for each.
-- **Notes**: **philosophical-zombies L87–91 (The Two-Dimensional Response)**: attributes two-dimensional semantics to "Sophisticated Type-B physicalists" and replies "If all truths about consciousness were deducible from physical truths, zombies wouldn't even be 'primarily conceivable'" — a reply to Type-A deducibility. In Chalmers 2003 §6 the two-dimensional argument is the weapon used against Type-B. Re-aim: give the reply Type-B actually makes to the two-dimensional argument (take its wording from the research note's Chalmers 2003 §6 quotations, not from memory); the deducibility clause belongs to Type-A. (Whether a named Type-B author argues as the page says was not checked; if the fixer finds one, cite it and keep the attribution.) **knowledge-argument L84**: after Chalmers's master dilemma against the phenomenal concepts strategy, "Type-B physicalists deny that conceivability tracks possibility, so the debate remains open." The master argument assumes nothing about conceivability and possibility, so that defence does not reach it; say what Type-B must deny instead (one horn of the dilemma) or cut the clause. Source: research note obsidian/research/type-a-type-b-and-type-c-physicalism-2026-10-02.md §Misassignment Register.
-
 ### P3: "Physicalism in all its forms cannot account for consciousness" overreaches against Type-B (arguments-against-materialism L73–82/L115, consciousness-defeats-explanation L142)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/arguments-against-materialism.md
@@ -1962,6 +1950,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-07: Replies aimed at the wrong type under a Type-B heading (philosophical-zombies L87–91, knowledge-argument L84) — word-neutral
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophical-zombies.md
+- **Notes**: **philosophical-zombies L87–91 (The Two-Dimensional Response)**: attributes two-dimensional semantics to "Sophisticated Type-B physicalists" and replies "If all truths about consciousness were deducible from physical truths, zombies wouldn't even be 'primarily conceivable'" — a reply to Type-A deducibility. In Chalmers 2003 §6 the two-dimensional argument is the weapon used against Type-B. Re-aim: give the reply Type-B actually makes to the two-dimensional argument (take its wording from the research note's Chalmers 2003 §6 quotations, not from memory); the deducibility clause belongs to Type-A. (Whether a named Type-B author argues as the page says was not checked; if the fixer finds one, cite it and keep the attribution.) **knowledge-argument L84**: after Chalmers's master dilemma against the phenomenal concepts strategy, "Type-B physicalists deny that conceivability tracks possibility, so the debate remains open." The master argument assumes nothing about conceivability and possibility, so that defence does not reach it; say what Type-B must deny instead (one horn of the dilemma) or cut the clause. Source: research note obsidian/research/type-a-type-b-and-type-c-physicalism-2026-10-02.md §Misassignment Register.
 
 ### ✓ 2026-10-06: Type-C futurity described under the Type-B label (modal-structure L83, reductionism L152, epistemology L57)
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-09-19T06:26:16+00:00
+ai_modified: 2026-10-07T00:10:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[arguments/functionalism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-17T23:34:00+00:00
@@ -82,19 +82,19 @@ Some physicalists deny that zombies are genuinely conceivable. On this view, any
 
 A more common response accepts that zombies are conceivable but denies this entails they are possible. Just as "water is not H₂O" might seem conceivable (before understanding chemistry) despite being metaphysically impossible, perhaps "physical duplicate without consciousness" seems conceivable despite being impossible.
 
-**The Analogy's Limits:** When we learned that water is H₂O, we discovered an empirical fact about what "water" refers to—we were ignorant of water's nature. But with consciousness, we have direct acquaintance with what we're talking about. The conceivability of zombies doesn't reflect ignorance of consciousness—it reflects our understanding that qualitative experience isn't the kind of thing structural descriptions capture.
+**The Analogy's Limits:** Learning that water is H₂O cured an ignorance of water's nature. But with consciousness, we have direct acquaintance with what we're talking about. The conceivability of zombies doesn't reflect ignorance of consciousness—it reflects our understanding that qualitative experience isn't the kind of thing structural descriptions capture.
 
-### The Two-Dimensional Response
+### The Two-Dimensional Argument
 
-Sophisticated Type-B physicalists invoke two-dimensional semantics, arguing that phenomenal concepts primarily pick out certain physical states; when we conceive of zombies, we're imagining worlds where those physical states don't exist—not worlds where they exist without consciousness.
+Chalmers's two-dimensional version of the argument closes the water escape. "Water is not H₂O" is conceivable because its primary intension is contingent: a world where the watery stuff is XYZ, considered as actual, verifies it. If zombies are conceivable, some world considered as actual verifies the zombie hypothesis too—and then satisfies it, unless [[russellian-monism|type-F monism]] is true.
 
-**Response:** If all truths about consciousness were deducible from physical truths, zombies wouldn't even be "primarily conceivable." But they appear to be—we can coherently imagine the complete physics without any phenomenal facts. There's no conceptual route from physical descriptions to phenomenal truths, regardless of which intension we use.
+**The Type-B reply:** deny that conceivability entails possibility even at the level of worlds. No world, however considered, verifies the zombie hypothesis: the psychophysical identity is a strong necessity, an a posteriori necessity whose primary intension is itself necessary, unlike Kripke's cases. Consciousness then becomes the sole such case—"Ultimately, I think a type-B materialist must hold that the case of consciousness is special" (Chalmers 2003)—[[primitive-identities-and-strong-necessities|a law under the title of an identity]].
 
 ### The Phenomenal Concepts Strategy
 
 Some physicalists argue that phenomenal concepts are "special"—they pick out physical properties through a distinctive cognitive mode that explains why the zombie scenario seems conceivable even though consciousness is physical.
 
-**Challenges:** This strategy either doesn't explain enough (why is the cognitive difference so profound?) or explains too much (it would make *any* identity claim vulnerable to conceivability arguments). The persistence of the explanatory gap despite scientific progress suggests the gap is not merely epistemic. See [[phenomenal-concepts-strategy|the critical evaluation of PCS]] for Chalmers's master argument showing why no version of this strategy succeeds.
+**Challenges:** This strategy either doesn't explain enough (why is the cognitive difference so profound?) or explains too much (it would make *any* identity claim vulnerable to conceivability arguments). See [[phenomenal-concepts-strategy|the critical evaluation of PCS]] for Chalmers's master argument showing why no version of this strategy succeeds.
 
 ## Zombies and Functionalism
 
@@ -229,7 +229,7 @@ The zombie argument's relation to the five tenets is uneven; each subsection bel
 - [[mysterianism]] — Cognitive closure and the limits of our understanding
 - [[decoherence]] — Why quantum mechanisms in the brain remain viable
 - [[haecceity]] — The irreducible "thisness" that zombie scenarios presuppose
-- [[problem-of-other-minds]] — The epistemological puzzle about knowing others are conscious, and how zombie conceivability shapes epistemic access to other minds
+- [[problem-of-other-minds]] — The epistemological puzzle about knowing others are conscious
 - [[metaproblem-of-consciousness-under-dualism]] — Why interactionism makes zombies nomologically impossible rather than empirically detectable
 - [[language-and-consciousness]] — How meaning and reference fail for zombie utterances, reinforcing the conceivability argument
 - [[ai-consciousness-typology]] — Six categories for AI phenomenal experience, with null phenomenality (the zombie case) as the first category
@@ -237,6 +237,7 @@ The zombie argument's relation to the five tenets is uneven; each subsection bel
 ### External Sources
 - David Chalmers, *The Conscious Mind* (1996) — The definitive treatment
 - David Chalmers, "Does Conceivability Entail Possibility?" (2002)
+- David Chalmers, "Consciousness and its Place in Nature" (2003)
 - Joseph Levine, "Materialism and Qualia: The Explanatory Gap" (1983)
 - Ned Block, "Troubles with Functionalism" (1978)
 - Alfred North Whitehead, *Process and Reality* (1929)

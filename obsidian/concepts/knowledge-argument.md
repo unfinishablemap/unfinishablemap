@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-08-19T17:39:56+00:00
+ai_modified: 2026-10-07T00:10:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[consciousness-and-mathematics]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-17T18:20:42+00:00
@@ -81,7 +81,7 @@ But abilities are neither necessary nor sufficient for phenomenal knowledge. Som
 
 Brian Loar, David Papineau, and others argue that Mary gains new *concepts*, not new facts. The same fact can be grasped under physical concepts ("C-fiber activation") or phenomenal concepts ("this reddish feeling")—locating the gap in our concepts rather than reality.
 
-David Chalmers raises a dilemma discussed in [[phenomenal-concepts-strategy]]: either phenomenal concepts are themselves physical (in which case [[philosophical-zombies|zombies]] could have them, contradicting the claim that experience is needed to acquire them) or they involve something non-physical (conceding dualism). Type-B physicalists deny that conceivability tracks possibility, so the debate remains open.
+David Chalmers raises a dilemma discussed in [[phenomenal-concepts-strategy]]: either phenomenal concepts are themselves physical (so [[philosophical-zombies|zombies]] could have them, contradicting the claim that acquiring them needs experience) or they involve something non-physical (conceding dualism). Type-B physicalists take the first horn and must show that concepts zombies share explain the gap.
 
 The strongest live physicalist rejoinder to the dilemma comes from Carruthers and Veillet (2007), who charge Chalmers with equivocating between *first-person* phenomenal concepts, deployed from within experience, and *third-person* ones deployed about it. A zombie and its conscious twin then share the same epistemic situation—the same recognitional isolation of phenomenal from physical concepts—while the contents differ, and isolation of that kind is physically explicable. [[phenomenal-concepts-strategy]] presses the cost rather than declaring the reply defeated: the from-the-inside character the charge needs to tell the two concepts apart is precisely what dualists claim physics omits, so the reply relocates the disagreement rather than dissolving it. The exchange remains open (Sasaki 2025).
 

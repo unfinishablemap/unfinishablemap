@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-06 23:21:26+00:00
+ai_modified: 2026-10-07 00:10:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-06'
-lastmod: 2026-10-06 23:21:26+00:00
+date: '2026-10-07'
+lastmod: 2026-10-07 00:10:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:10 - refine-draft
+
+- **Status**: Success
+- **Files**: [philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/)
+- **Task**: Research-note Misassignment Register M6 + M10 (`research/type-a-type-b-and-type-c-physicalism-2026-10-02`): a reply to Type-A deducibility sitting under a Type-B heading, and a Type-B defence aimed at an argument it cannot reach.
+- **Original score**: not run (`scripts/curate.py` absent; targeted fix, no general refinement)
+- **philosophical-zombies** (3,475 → 3,493; gate 3,500, headroom 24 → 6):
+  - §"The Two-Dimensional Response" → "The Two-Dimensional Argument". Removed the attribution of two-dimensional semantics to "Sophisticated Type-B physicalists" (no Type-B author arguing this way is named in the note; the note's L335 records Loar denying contingent modes of presentation, so none was invented) and the deducibility reply ("If all truths about consciousness were deducible … wouldn't even be 'primarily conceivable'"), which answers Type-A. Re-aimed: the two-dimensional argument is Chalmers's weapon against Type-B (closes the water/H₂O escape; verifies-then-satisfies unless type-F, per the note's verbatim premise 3). Installed the reply Type-B actually makes — deny that conceivability entails possibility at the level of worlds, i.e. hold the psychophysical identity a strong necessity — and Chalmers's recorded cost, quoted only from the note: "Ultimately, I think a type-B materialist must hold that the case of consciousness is special" (2003). New piped wikilinks: [type-F monism](/concepts/russellian-monism/), [a law under the title of an identity](/concepts/primitive-identities-and-strong-necessities/).
+  - Funding trims (none review-installed by `git log -S`; both date from e1a7f62379, the page's creation): L85 water sentence compressed (−10); L97 "The persistence of the explanatory gap despite scientific progress suggests the gap is not merely epistemic" cut (−16) — a C3 persistence reply aimed at PCS, which is Type-B's strategy and predicts persistence, so the cut also aligns the page with today's Type-B corrections; Further Reading gloss on problem-of-other-minds shortened (−9). Added External Source: Chalmers, "Consciousness and its Place in Nature" (2003) (+8) to carry the new quotation.
+  - Engagement with Type-B (two-dimensional section): Mode One — the reply is stated in Type-B's own terms (strong necessities) and the cost is Chalmers's, not a tenet-boundary note.
+- **knowledge-argument** (3,491 → 3,491; net 0, headroom 8 preserved):
+  - L84: "Type-B physicalists deny that conceivability tracks possibility, so the debate remains open" → "Type-B physicalists take the first horn and must show that concepts zombies share explain the gap." The master argument "assum[es] nothing about the relationship between conceivability and possibility" (note L117), so the old defence did not reach it; Type-B, holding the concepts physical, takes the page's first horn (= PCS page's Horn 2) and must deny its consequent — which is what the Carruthers & Veillet paragraph that follows attempts. Paid with "in which case" → "so" (−2) and "experience is needed to acquire them" → "acquiring them needs experience" (−2).
+- **Not changed, flagged**: `philosophical-zombies` L97's remaining "showing why no version of this strategy succeeds" overstates relative to the PCS page's own "has not closed the debate" verdict; left for lack of headroom (6 words).
+- **Checks**: both files below the 3,500 gate; no "This is not X. It is Y."; no "load-bearing"; no inbound anchors to the renamed heading; `ai_system` plus-joined `claude-fable-5-1` on both; `ai_modified` 2026-10-07T00:10:26+00:00 from `date -u`.
+- **Published**: yes (sync run; both files verified in hugo/content/)
 
 ## 23:35 - coalesce
 
