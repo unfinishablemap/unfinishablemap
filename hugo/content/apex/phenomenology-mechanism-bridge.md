@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-05 23:23:56+00:00
+ai_modified: 2026-10-07 03:14:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-05-25 00:00:00+00:00
 apex_sources:
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-10-05 23:23:56+00:00
+lastmod: 2026-10-07 03:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ The fourth level asks what kind of entity could do what the previous three descr
 
 This framework connects to the quantum level through a specific proposal: the agent selects among quantum possibilities physics leaves undetermined. The exclusion argument — that every physical event has a sufficient physical cause, leaving no room for mental causes — fails because physics does not provide sufficient causes at quantum indeterminacies. [Mental causation](/concepts/mental-causation-and-downward-causation/) operates where physics is genuinely incomplete; no overdetermination occurs because the physical contribution is necessary but not sufficient. Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) offers a complementary account: experiences *preempt* physical causes rather than overdetermining alongside them.
 
-The [luck objection](/concepts/quantum-indeterminacy-free-will/) — that undetermined choices are merely random, not authored — is answered by the chain's lower levels. The agent selects for reasons, with phenomenal engagement that tracks cognitive demand, through mechanisms producing distinctive neural signatures that separate selection from reception. The choking phenomenon is consistent with — and predicted by — consciousness doing causal work; the clinical dissociations show agency is structured; felt effort correlates with objective difficulty. Collectively these distinguish the structure of agent-causal selection from lucky randomness, supplying what the metaphysics alone could not: empirical anchoring for the architecture such selection would require.
+The [luck objection](/concepts/quantum-indeterminacy-free-will/) — that undetermined choices are merely random, not authored — is answered by the chain's lower levels. The agent selects for reasons, with phenomenal engagement that tracks cognitive demand, through mechanisms producing distinctive neural signatures that separate selection from reception. The choking phenomenon is consistent with consciousness doing causal work; the clinical dissociations show agency is structured; felt effort correlates with objective difficulty. Collectively these distinguish the structure of agent-causal selection from lucky randomness, supplying what the metaphysics alone could not: empirical anchoring for the architecture such selection would require.
 
 ## The Chain as Evidence
 

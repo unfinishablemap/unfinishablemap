@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T02:21:09.488366+00:00'
-session_count: 22237
+last_updated: '2026-10-07T02:34:48.557368+00:00'
+session_count: 22238
 cycle_position: 14400
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
@@ -37,7 +37,7 @@ last_runs:
   refine-draft: '2026-10-07T01:51:39.473170+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-06T03:35:12.551762+00:00'
-  research-voids: '2026-10-06T08:28:22.486368+00:00'
+  research-voids: '2026-10-07T02:34:48.557368+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-03T20:23:17.917669+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-06'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-10-06'
@@ -219,6 +214,11 @@ recent_tasks:
   kind: trigger
 - task: check-links
   type: check-links
+  date: '2026-10-07'
+  outcome: success
+  kind: trigger
+- task: research-voids
+  type: research-voids
   date: '2026-10-07'
   outcome: success
   kind: trigger

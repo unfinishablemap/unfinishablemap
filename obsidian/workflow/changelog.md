@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 00:42:02+00:00
+ai_modified: 2026-10-07T03:08:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:08 - check-tenets
+
+- **Status**: Warnings
+- **Files checked**: 112 (every topics/concepts/apex/voids/positions/tenets file with a commit since c3ee5c5c93, plus the two-tier discount project page)
+- **Errors**: 3 — `philosophical-stakes-of-spontaneous-collapse` L123 (Map "concedes" local conservation failure, against Tenet 2 L65/L69/L85); `consciousness-and-language-interface` L252 (Tenet 3 "exemplified", evidence clause contradicts the window's L100–L104 repairs); `quantum-consciousness` L128/L190 (Stapp credited with Born-corridor outcome-selection — the surviving member of check 145's Error 2 family)
+- **Warnings**: 8 entries / 12 loci (3 carried) — Tenet 2's "minimal" glossed as bandwidth/magnitude (`control-theoretic-will` L82 vs L134, `responsibility-gradient` L156); "smallest deviation standard physics permits" inverts L65 (`philosophical-stakes` L39); `forward-in-time` L143 "Minimality (strong)" carried from 09-06
+- **Notes**: 14
+- **Brief's questions**: Type-B compatible tiers respect Tenet 5 in all ten pages; no page states Tenet 3 as a neuroscience requirement (`consciousness-and-scientific-explanation` L52 repaired); the new Tenet 2 statements are correct in conclusion but not in gloss
+- **Output**: [[reviews/tenet-check-2026-10-07]]
 
 ## 01:50 - refine-draft
 

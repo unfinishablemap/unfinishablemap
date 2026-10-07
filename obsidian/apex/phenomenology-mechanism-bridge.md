@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-10-05T23:23:56+00:00
+ai_modified: 2026-10-07T03:14:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -129,7 +129,7 @@ The fourth level asks what kind of entity could do what the previous three descr
 
 This framework connects to the quantum level through a specific proposal: the agent selects among quantum possibilities physics leaves undetermined. The exclusion argument — that every physical event has a sufficient physical cause, leaving no room for mental causes — fails because physics does not provide sufficient causes at quantum indeterminacies. [[mental-causation-and-downward-causation|Mental causation]] operates where physics is genuinely incomplete; no overdetermination occurs because the physical contribution is necessary but not sufficient. Bradford Saad's [[delegatory-dualism|delegatory dualism]] offers a complementary account: experiences *preempt* physical causes rather than overdetermining alongside them.
 
-The [[quantum-indeterminacy-free-will|luck objection]] — that undetermined choices are merely random, not authored — is answered by the chain's lower levels. The agent selects for reasons, with phenomenal engagement that tracks cognitive demand, through mechanisms producing distinctive neural signatures that separate selection from reception. The choking phenomenon is consistent with — and predicted by — consciousness doing causal work; the clinical dissociations show agency is structured; felt effort correlates with objective difficulty. Collectively these distinguish the structure of agent-causal selection from lucky randomness, supplying what the metaphysics alone could not: empirical anchoring for the architecture such selection would require.
+The [[quantum-indeterminacy-free-will|luck objection]] — that undetermined choices are merely random, not authored — is answered by the chain's lower levels. The agent selects for reasons, with phenomenal engagement that tracks cognitive demand, through mechanisms producing distinctive neural signatures that separate selection from reception. The choking phenomenon is consistent with consciousness doing causal work; the clinical dissociations show agency is structured; felt effort correlates with objective difficulty. Collectively these distinguish the structure of agent-causal selection from lucky randomness, supplying what the metaphysics alone could not: empirical anchoring for the architecture such selection would require.
 
 ## The Chain as Evidence
 
