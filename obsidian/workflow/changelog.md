@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T19:06:19+00:00
+ai_modified: 2026-10-07T20:08:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:05 - positions-evolve
+
+- **Task**: update `positions/arguments-for-dualism` P-D1 (todo P3): the second "Would shift if" condition named only the phenomenal concept strategy as "the mainstream account of *why* the arguments share a premise", overstating what a PCS failure would remove. Per research/ignorance-hypothesis-2026-10-03 §Corpus Seams item 7 and §Tier calibration, Stoljar's epistemic view is a second account that faults the physical side and survives every PCS variant failing.
+- **Status**: SUCCESS
+- **Changes**: L50 second condition now reads "or both physicalist accounts of *why* the arguments share a premise were shown to fail — the phenomenal concept strategy in all its variants, and Stoljar's [[ignorance-hypothesis|epistemic view]], which faults our knowledge of the physical rather than phenomenal concepts" (Stoljar's own term; piped to the new concept article). Mandated dated note added at L51; *Last reviewed* → 2026-10-07. No band move; Asserts and Calibration untouched. Funded inside P-D1 only: P-M2 parenthetical compressed, per-cluster link piped, "the physicalist statement" → "one physicalist statement" in *Depends on*; aesthetics clause in *Argued in* tightened; two consequence parentheticals in *Would shift if* de-cleft; 2026-09-18 note compressed. 2,495 → 2,497 against the positions gate 2,500. ai_system plus-joined claude-fable-5-1.
+- **Cascade**: none required — P-D1 is a dependency of P-D2 and P-MC1, but neither cites the shift condition, and the Asserts is unchanged. Audit-mode item for later: the P-D1 Calibration parenthetical (grade B) still names only the phenomenal concept strategy as "the mainstream physicalist statement" of the shared premise; a grade-justification edit was out of this task's scope.
+- **Output**: `obsidian/positions/arguments-for-dualism.md`, synced to Hugo
 
 ## 19:22 - refine-draft
 - **Status**: Success
