@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:50 - refine-draft
+
+- **Task**: `topics/arguments-against-materialism` L83 + L141 — complete the one-paragraph case against Type-B and stop exempting the majority from the majority (optimistic-2026-10-07-type-b-sweep-wing, Priority 2); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: (a) L83, after "These bear on plausibility rather than evidence.": three further replies that reach Type-B (the zombie-master water/H₂O disanalogy; Chalmers's master argument, assuming nothing about conceivability→possibility; Tenet 2's defeater-removal "without adding evidence") plus the one reply that could lift the tier — the second-order comparison — piped to the hub's `#which-map-reply-reaches-which-type` section (re-point to `concepts/rival-explanations-of-the-explanatory-gap` when that expand-topic lands). (b) L141: "the materialist majority, Type-B aside, rests on a failure to take consciousness seriously" → the positions that deny or defer the datum fail to take it seriously; the Type-B majority, which grants it, is met by the cost and modal arguments above rather than by this charge. L99 and L109–L113 untouched. Grounds hub L88–L94, L101, L105, L122. Calibration unchanged (compatible tier).
+- **Length**: 3,299 → 3,419 / 4,000 (+120, as the review predicted; gate >=)
+- **Output**: synced to Hugo
+
 ## 14:35 - refine-draft
 
 - **Task**: `topics/hard-problem-of-consciousness` L233 — give the gap its three readings, not two (optimistic-2026-10-07-type-b-sweep-wing, Priority 1); applied inline by the driver with the review's exact text
