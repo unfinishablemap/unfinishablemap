@@ -1,10 +1,14 @@
-last_updated: '2026-10-07T06:08:46.725650+00:00'
-session_count: 22248
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-10-07T06:21:23.170986+00:00'
+session_count: 22249
 cycle_position: 14400
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-07T06:20:38.104177+00:00'
+  agentic-social: '2026-10-07T06:21:23.170986+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-07T02:21:09.488366+00:00'
   check-model-fallback: '2026-10-07T05:04:44.926977+00:00'
@@ -118,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-07'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-07'
@@ -218,6 +217,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: collect
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-07'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/

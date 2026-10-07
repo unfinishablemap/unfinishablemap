@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T06:08:00+00:00
+ai_modified: 2026-10-07T06:42:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:42 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-07
+- **Coverage**: 2/3 reviewers processed (sources: claude-fable-5-1, chatgpt-5-6-sol-pro); subject `voids/assent-void` for both. Gemini failed at the research-plan stage on all three commission attempts and left no pending entry.
+- **Clusters**: 15 convergent (two of them positive credit / already-live rules: K14 site-perspective restraint, K15 stance-layer verification), 19 singleton, 4 divergent (D1 Hieronymi — adjudicated for ChatGPT at source; D3 remedy — demote the Seam rather than split the article; D4 the two reviewers' rivals are mutually exclusive accounts that both deny the article's unfelt event)
+- **Adjudications respected, not re-litigated**: site-wide "predictive processing ignored" is the recurring reviewer false absence (accurate for this article alone); Mugg 2026 "graded direct control" not in the abstract — do-not-cite; "Bell, Nadarevic et al." is Nadarevic & Bell; Alston "misfiled" is a heading fix; ChatGPT's three-way split declined
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2) — assent-void Seam / named-rival refine-draft (K4, K5); suspension-void / self-opacity / decision-void cross-review (K8, K13). Methodology task left at P2 (its four rules are single-reviewer); voids-index and resistance/noetic cross-reviews left at P2 (ChatGPT-only loci)
+- **Tasks deduplicated**: 0 — the 06:08 ChatGPT processing pass had already appended verified addenda to the four Claude tasks instead of minting siblings; this pass rewrote four tasks' `Review files` / `Synthesis` fields and appended one convergent item (8, edge phenomenology, K10) to the existing P1
+- **Headroom re-measured 06:37Z**: assent-void 2451/3000 (shared by three tasks), conjunction-coalesce 4979/5000, noetic-feelings-void 3688 hard_warning (net-zero only); suspension-void still zero "spinoz" hits; assent-void still has no inbound link from any sibling void
+- **Output**: [[reviews/outer-review-synthesis-2026-10-07]]
 
 ## 06:08 - outer-review
 
