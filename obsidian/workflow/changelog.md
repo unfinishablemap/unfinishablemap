@@ -5,6 +5,14 @@ ai_modified: 2026-10-07T13:58:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 15:05 - refine-draft
+
+- **Task**: `concepts/philosophy-of-science-under-dualism` L84 — scope the acquaintance-trust asymmetry to the opponent it binds (optimistic-2026-10-02-physicalist-typing-wing, Priority 2); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: the sentence demanding that a physicalist who grants consciousness explain "why direct acquaintance deserves less epistemic trust than theoretical inference" assumed strong Revelation, which `concepts/revelation-thesis` says the Map denies. Replaced: the Type-B physicalist (new piped link to the hub) trusts acquaintance fully on experience's reality and denies only that it reveals experience's nature; pressing further needs strong Revelation (linked), which the Map itself denies; the asymmetry binds the illusionist (linked) who denies the datum. The 2026-10-02 17:09Z edits (L54, L70, L82, L100, L104, L118, L122) untouched.
+- **Length**: 2,809 → 2,814 / 3,500 (+5, as the review predicted; gate >=)
+- **Output**: synced to Hugo
+
 ## 14:50 - refine-draft
 
 - **Task**: `topics/arguments-against-materialism` L83 + L141 — complete the one-paragraph case against Type-B and stop exempting the majority from the majority (optimistic-2026-10-07-type-b-sweep-wing, Priority 2); applied inline by the driver with the review's exact text
