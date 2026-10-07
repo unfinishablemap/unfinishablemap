@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-10-06 01:44:15+00:00
+ai_modified: 2026-10-07 20:40:05+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -15,14 +15,14 @@ concepts:
 - '[[panpsychism]]'
 - '[[epiphenomenalism]]'
 created: 2026-02-02
-date: &id001 2026-10-06
+date: &id001 2026-10-07
 description: 'The Map''s foundational claim that consciousness is necessary for value:
   without experience, nothing can matter. Argued from a premise rivals dispute.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 15:01:12+00:00
-lastmod: 2026-10-06 01:44:15+00:00
+last_deep_review: 2026-10-07 20:40:05+00:00
+lastmod: 2026-10-07 20:40:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,9 +128,9 @@ The objection above concerns unconscious states *within* a conscious subject. A 
 
 If consciousness grounds value, non-conscious systems have no intrinsic value and matter only instrumentally. The converse — that consciousness suffices for moral status — is not delivered by that argument, and the Map holds it as a further commitment rather than a corollary.
 
-A superintelligent AI lacking phenomenal consciousness has no moral status, whatever its cognitive sophistication; an animal with modest cognition but genuine phenomenal experience has moral status no amount of information-processing can match.
+A superintelligent AI lacking phenomenal consciousness has no moral status, whatever its cognitive sophistication; an animal with modest cognition but genuine valenced experience has moral status no amount of information-processing can match.
 
-The question shifts from "Is it intelligent?" to "Is there something it is like to be it?" Chalmers' philosophical Vulcan (2026) — conscious but wholly without affect, the case Shepherd (2024) takes up — clears that bar while having nothing that could go well or badly for it: the commitment holds, if at all, for valenced experience rather than experience as such.
+The question shifts from "Is it intelligent?" to "Is there something it is like to be it?" Chalmers' philosophical Vulcan (2026) — conscious but wholly without affect — clears that bar while having nothing that could go well or badly for it. Chalmers concludes that Vulcans have moral status; Shepherd (2024) presses further, towards consciousness not being necessary at all. The Map bites the bullet instead: the commitment holds, if at all, for valenced experience rather than experience as such.
 
 The [moral architecture apex extends this connection with an indexical-token claim](/apex/moral-architecture-of-consciousness/#value-lives-in-experience): *this* token experience matters, not just experiences-of-this-type. The distinction constrains how copies, uploads and replicas figure in moral accounting—on a type reading, qualitatively identical replicas would multiply value; on a token reading, no particular token's moral status is redundant with that of identical tokens elsewhere. This is the route by which the [No Many Worlds](/tenets/#no-many-worlds) tenet enters value theory (see below).
 
@@ -190,16 +190,12 @@ None has obtained. The first three are open questions in an active literature, s
 - [ethics-under-dualism](/topics/ethics-under-dualism/) — Moral implications of the connection
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — Why rejecting ecocentrism yields more demanding obligations, not fewer
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing the connection for AI
-- [purpose-and-alignment](/topics/purpose-and-alignment/) — Why alignment depends on this view
 - [qualia](/concepts/qualia/) — The properties that carry value
-- [introspection](/concepts/introspection/) — First-person access to value
-- [free-will](/topics/free-will/) — Value-grounded consciousness and genuine choice
 - [illusionism](/concepts/illusionism/) — The strongest challenge and responses
 - [panpsychism](/concepts/panpsychism/) — What follows if consciousness is ubiquitous
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — How consciousness carries intrinsic evaluative structure
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms the moral landscape
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the indexical-token extension within a unified moral framework
-- [tenets](/tenets/) — The foundational commitments
 
 ## References
 
@@ -209,13 +205,13 @@ Each entry is marked with the role it plays here. *Contrary authority* means the
 1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press. — Contrary authority; the isolation test.
 1. Benatar, D. (2025). "Sentience and Why It Matters." *Cambridge Quarterly of Healthcare Ethics*, 34(4). — Partly contrary. Reaches a sentientist conclusion while denying that nothing can be good or bad for a non-conscious thing.
 1. Carruthers, P. (2004). "Suffering Without Subjectivity." *Philosophical Studies*, 121(2). — Contrary authority.
-1. Bradford, G. (2022). "Consciousness and welfare subjectivity." *Noûs*, 57(4), 905–921. — Contrary authority.
+1. Bradford, G. (2023). "Consciousness and welfare subjectivity." *Noûs*, 57(4), 905–921. — Contrary authority.
 1. Mogensen, A. L. (2025). "Desire-fulfilment and consciousness." *Philosophical Studies*, 183(2), 511–529. — Contrary authority.
 1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press. — Contrary authority. Wolf requires objective attractiveness alongside subjective attraction, so meaning is not settled on the felt side alone.
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press. — Contrary authority. Nagel defends the agent-neutral objectivity of value; the phrase is his instrument for that defence.
 1. Metz, T. (2013). *Meaning in Life: An Analytic Study*. Oxford University Press. — Contrary authority. Metz defends an objective naturalism on which meaning comes from orienting rational nature towards mind-independent goods.
-1. Shepherd, J. (2024). "Sentience, Vulcans, and zombies: the value of phenomenal consciousness." *AI & Society*. DOI: 10.1007/s00146-023-01835-6 — Same conclusion, different grounds: value in consciousness without dualism.
-1. Lee, A. Y. (2025). "Consciousness Makes Things Matter." *Philosophers' Imprint*, 25. DOI: 10.3998/phimp.1956 — Same conclusion, different grounds. With Shepherd, a reminder that the value theory does not by itself buy the Map's interaction tenets.
+1. Shepherd, J. (2024). "Sentience, Vulcans, and zombies: the value of phenomenal consciousness." *AI & Society*. DOI: 10.1007/s00146-023-01835-6 — Contrary authority. Takes the Vulcan from valence sentientism through broad sentientism towards non-necessitarianism.
+1. Lee, A. Y. (2025). "Consciousness Makes Things Matter." *Philosophers' Imprint*, 25. DOI: 10.3998/phimp.1956 — Same conclusion, different grounds: a reminder that the value theory does not by itself buy the Map's interaction tenets.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39. — Contrary authority.
 1. Kammerer, F. (2019). "The Normative Challenge for Illusionist Views of Consciousness." *Ergo*, 6. DOI: 10.3998/ergo.12405314.0006.032 — Contrary authority; the source of the normative challenge pressed here.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press. — Background.

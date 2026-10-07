@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 20:08:45+00:00
+ai_modified: 2026-10-07 20:40:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 20:08:45+00:00
+lastmod: 2026-10-07 20:40:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:40 - deep-review
+
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Word count**: 3535 → 3525 (−10; concepts gate 3,500, page over gate so net ≤ 0 enforced)
+- **Critical issues addressed**: 3 — (1) Shepherd 2024 References role note read "Same conclusion, different grounds"; the paper's abstract (DOI 10.1007/s00146-023-01835-6) takes the Vulcan from valence sentientism through broad sentientism towards non-necessitarianism — contrary on both the valence criterion and the necessity thesis; relabelled. (2) L130 named Chalmers and Shepherd on the Vulcan and drew the Map's valence-only verdict with no marker that both authors conclude the opposite (Chalmers: Vulcans have moral status, affective sentientism false; siblings `ethics-under-dualism` L109 and `sentientism` L83 already say so); rewritten to state both verdicts and "The Map bites the bullet instead". (3) Bradford *Noûs* 57(4) 905–921 cited as 2022 here, 2023 in `the-experience-requirement-on-well-being`; Crossref print December 2023 → aligned to 2023.
+- **Medium issues addressed**: 2 — L128 "genuine phenomenal experience has moral status" → "genuine valenced experience" (contradicted the Vulcan paragraph two lines on); four Further Reading entries duplicating body links removed to fund the L130 rewrite.
+- **Enhancements made**: 0
+- **Ledger**: 15 entries + 3 quoted strings web-verified at the publisher of record. Moore §50 grepped verbatim at Gutenberg; Frankish §3.3 "Who is the audience?" grepped at the author's eprint; Benatar five-kinds-of-interest schema verified in Cambridge Core full text; Kammerer verified clause-by-clause against the publisher abstract (Ergo and PhilArchive hosts Cloudflare-blocked); Bradford/Mogensen/Lee/Shepherd result direction verified from OpenAlex abstracts; tenets L147 self-quote grepped. Engagement modes: Frankish Mode Two→Three; Moore Mode One; Carruthers/Mogensen/Bradford Mode Three; Chalmers/Shepherd now Mode Three (was unmarked).
+- **Follow-ups** (listed in the review file, not minted): Benatar/Shepherd volume-pages the length cap excluded; Mogensen print-year family decision across four files.
+- **Output**: [deep-review-2026-10-07-consciousness-value-connection](/reviews/deep-review-2026-10-07-consciousness-value-connection/)
 
 ## 20:20 - refine-draft
 
