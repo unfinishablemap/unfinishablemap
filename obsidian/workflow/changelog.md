@@ -5,6 +5,14 @@ ai_modified: 2026-10-07T17:43:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 18:19 - refine-draft
+
+- **Task**: `topics/arguments-against-materialism` L83 + L141 (+ L111/L117 carries) — state the second-order comparison's status, count the replies the hub counts, attribute the majority (pessimistic-2026-10-07-type-b-wing-installs, Priority 2); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: (a) L83 "is routed on the Type-A/B/C page" → "is not yet run; the Type-A/B/C page records it as owed" (hub L92 row "not yet run"; the second-order IBE P3 stays blocked). (b) L83 "Three further replies reach it" → "…, with the two-dimensional argument a fourth, reach it" (piped to primitive-identities-and-strong-necessities#Strong Necessities, the hub's own route). (c) L141 "the Type-B majority … cost and modal arguments" → "Type-B, the reported majority, … cost, modal and a priori arguments" (hub L121 triad; the master argument is a priori). (d) L117 "as the previous section noted" → "as noted above". (e) L111 "The most common defence" → "A common defence". L99 and L109–L113 otherwise untouched; calibration unchanged (compatible tier).
+- **Length**: 3,419 → 3,431 / 4,000 (+12; gate >=)
+- **Output**: synced to Hugo
+
 ## 18:05 - refine-draft
 
 - **Task**: `topics/hard-problem-of-consciousness` L233 + L237 — attribute the Type-B majority claim and scope the "paradigm in crisis" verdict (pessimistic-2026-10-07-type-b-wing-installs, Priority 1, required + both optionals); applied inline by the driver with the review's exact text
