@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 00:50 - refine-draft
+
+- **Task**: Align the IBE page's Type-B verdict with the Type-A/B/C page — applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: `concepts/inference-to-the-best-explanation-against-dualism` — Verdict: "provisional against the Type-B physicalist until the second-order comparison is run" → "against the Type-B physicalist, *compatible* until the second-order comparison is run and favours dualism by stated criteria"; §What an Honest Rejoinder Costs: "Until then the first reply's *suggestive* tier is provisional" → the *suggestive* tier reaches only the physicalist who denies the datum; against Type-B it stands at *compatible* (piped anchor to the taxonomy page's §The Map's Tier Against Each Type), since an unrun comparison cannot hold a tier even provisionally. Matches the taxonomy page's Type-B bullet (compatible; lifted to suggestive only by a second-order comparison favouring dualism by stated criteria). Other tiers untouched. `ai_system` already Fable 5.1.
+- **Length**: 3,322 → ~3,345 / 3,500
+- **Output**: synced to Hugo
+
 ## 00:42 - deep-review
 
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-06 21:38:00+00:00
+ai_modified: 2026-10-07 00:50:30+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 22:32:21+00:00
-lastmod: 2026-10-06 21:38:00+00:00
+lastmod: 2026-10-07 00:50:30+00:00
 modified: *id001
 related_articles: []
 title: Inference to the Best Explanation Against Dualism
@@ -75,13 +75,13 @@ The Map's evidential register distinguishes evidence *compatible with* a tenet, 
 
 **The lot is bad.** Douven's entry notes that the rival-ranking schema "may well lead us to believe 'the best of a bad lot'" (citing van Fraassen's *Laws and Symmetry*, 1989, p. 143; not consulted): ranking the candidates one has licenses belief only if the true hypothesis is plausibly among them. Whether dualism is in the physicalist's lot depends on the first reply: if phenomenal character is not admitted as a datum, dualism explains nothing in the set and the ranking never considers it; if it is admitted, the lot is widened and the ranking must be re-run. The objection reaches no tier directly. It constrains the opponent's inference, and the Map's own abductions in the same way.
 
-**Verdict.** *Compatible* on the physicalist's explanandum set; *suggestive* on the widened set against a physicalist who denies the datum, and provisional against the Type-B physicalist until the second-order comparison is run; *discriminating* nowhere. The register's rule that a tenet may remove a defeater but may not upgrade the evidence forbids pretending otherwise. Both of the Map's answers—the explanandum set is incomplete, the lot is incomplete—are commitments the Map owns, and the non-idleness of the dualist posit is owed, not shown.
+**Verdict.** *Compatible* on the physicalist's explanandum set; *suggestive* on the widened set against a physicalist who denies the datum; against the Type-B physicalist, *compatible* until the second-order comparison is run and favours dualism by stated criteria; *discriminating* nowhere. The register's rule that a tenet may remove a defeater but may not upgrade the evidence forbids pretending otherwise. Both of the Map's answers—the explanandum set is incomplete, the lot is incomplete—are commitments the Map owns, and the non-idleness of the dualist posit is owed, not shown.
 
 ## What an Honest Rejoinder Costs
 
 Three commitments, in order of price.
 
-**Engage [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) rather than Type-A.** The live opponent for the first reply is the physicalist who grants the datum and explains the gap conceptually; answering only the Type-A denial of the datum answers an opponent the IBE argument does not need. The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) page carries Chalmers's master argument against the strategy; no page yet runs the second-order comparison as an IBE and says which explanation of the gap is lovelier and by what criteria. Until then the first reply's *suggestive* tier is provisional.
+**Engage [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) rather than Type-A.** The live opponent for the first reply is the physicalist who grants the datum and explains the gap conceptually; answering only the Type-A denial of the datum answers an opponent the IBE argument does not need. The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) page carries Chalmers's master argument against the strategy; no page yet runs the second-order comparison as an IBE and says which explanation of the gap is lovelier and by what criteria. Until then the first reply's *suggestive* tier reaches only the physicalist who denies the datum; against Type-B it stands at *compatible*, as the [Type-A/B/C page](/concepts/type-a-type-b-and-type-c-physicalism/#the-maps-tier-against-each-type) records, since an unrun comparison cannot hold a tier even provisionally.
 
 **State a disconfirmer for the idleness claim.** The Map's evidential discipline requires a core claim to say what would lower, leave unchanged and raise confidence in it. For the claim that the dualist posit is not idle, the Map can currently say only this: confidence would rise if outcome statistics inside the brain, conditioned on what the subject intends, departed from the Born marginal at some grain, as [the conditional-signature analysis](/apex/born-preserving-causal-efficacy/) formalises; it would be unchanged by unconditioned or external random-number-generator nulls, which the corridor accommodates; and it would fall by degrees as well-powered conditional tests returned null. No such test has been run. On the [trumping reading](/concepts/trumping-preemption/), which relocates efficacy off the statistics altogether, no observation bears at all, so that sub-reading alone is held on coherence rather than evidence.
 
