@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-06T08:35:56.435223'
+ai_modified: '2026-10-07T08:05:24.880568'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-06'
+modified: '2026-10-07'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-07: Try, Right Now, to Believe America Is Still a Colony
+
+Belief will not take orders: try, right now, to believe the US is still a British colony. And by the time you feel yourself weighing a claim, lab evidence suggests you may already have accepted it. The assent void: becoming convinced leaves no first-person trace.
+
+**Type**: insight  
+**Link**: [[assent-void]]
+
+---
+
 ### 2026-10-06: Hearing Joints the World Never Had
 
 Russian splits blue in two; English hears one. Infants lose foreign consonant contrasts by 12 months. The categorical perception void: a boundary installed by language or training feels exactly like one found in the world, and no act of attention can tell them apart.
@@ -191,16 +200,6 @@ Adding a rule to 'if P then Q' never makes you infer Q, and no formal system gro
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2100496861169614889  
 **Link**: [[authority-of-form]]
-
----
-
-### 2026-09-16: We Said Lucid Dreamers Have Bigger Frontal Lobes. The Paper Said No.
-
-Eight pages cited Baird 2018 for larger prefrontal volume in frequent lucid dreamers and "practice shapes structure". That result is Filevich 2015. Baird 2018 tried to replicate it and found no structural difference. All eight now say so.
-
-**Type**: refinement  
-**Tweet**: https://x.com/unfinishablemap/status/2100133543863054609  
-**Link**: [[dream-consciousness]]
 
 ---
 
