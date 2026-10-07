@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-07T15:05:23.343631+00:00'
-session_count: 22283
+last_updated: '2026-10-07T15:20:03.003174+00:00'
+session_count: 22284
 cycle_position: 14424
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-07T14:05:57.285858+00:00'
+  agentic-social: '2026-10-07T15:35:31.198721+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-07T02:21:09.488366+00:00'
   check-model-fallback: '2026-10-07T13:35:03.674784+00:00'
@@ -26,7 +22,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-07T13:58:42.920819+00:00'
-  embed-videos: '2026-10-07T02:05:02.918128+00:00'
+  embed-videos: '2026-10-07T15:20:03.003174+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
   harvest-research-subjects: '2026-10-07T10:50:54.294883+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -127,11 +123,6 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-07'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-10-07'
@@ -222,22 +213,13 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-10-07'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenology-vs-function-axis/
-    date: '2026-09-30T14:07:59.056371+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-life/
-    date: '2026-09-30T15:22:30.158917+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - epistemic-advantages-of-dualism
-    - ai-consciousness
-    - meaning-of-life
-    - aesthetics-and-consciousness
   - url: https://unfinishablemap.org/concepts/ensemble-level-epiphenomenalism/
     date: '2026-09-30T16:37:20.753297+00:00'
     topics:
@@ -667,6 +649,11 @@ agentic_social:
     topics:
     - ai-consciousness
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/agent-teleology/
+    date: '2026-10-07T15:35:31.198689+00:00'
+    topics:
+    - free-will
+    - evolution-under-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
