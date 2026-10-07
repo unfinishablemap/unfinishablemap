@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 01:34 - refine-draft
+
+- **Task**: Scientific-explanation page: correlation equated with a breach of causal closure (L52); gap-closure prediction attributed to physicalism generally (L60) — applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: `concepts/consciousness-and-scientific-explanation` — (1) L52: systematic relation stated as compatible with closure (epiphenomenalism and parallelism keep both); the breach-of-closure clause re-stated as the Map's further commitment ([Tenet 3](/tenets/#bidirectional-interaction)), not a requirement of neuroscience. (2) L60: the gap-closure prediction scoped to promissory / [Type-C physicalism](/concepts/type-a-type-b-and-type-c-physicalism/); added that Type-B also predicts a permanent gap (explained by the distinctness of phenomenal from physical concepts), so gap persistence leaves dualism and Type-B compatible — consistent with the routing table and neural-correlates-of-consciousness L142 and with the day's other Type-B corrections. `ai_system` plus-joined.
+- **Length**: 2,484 → ~2,560 / 3,500
+- **Output**: synced to Hugo
+
 ## 01:19 - refine-draft
 
 - **Task**: Link the plurality void and manyism to each other — applied inline by the driver

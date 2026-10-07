@@ -1474,18 +1474,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: Link the plurality void and manyism to each other (each bears on the other's central claim; zero links either way)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/plurality-void.md
-- **Section**: voids
-- **Status**: pending
-- **Source**: coalesce 2026-10-02 12:53Z (abandonment; cross-section pair 1 dropped as opposed rather than duplicate)
-- **Generated**: 2026-10-02
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/concepts/manyism.md
-- **Headroom**: plurality-void 1,244 (1,755/3,000); manyism 1,877 (1,622/3,500), by `analyze_length`.
-- **Caution**: Two files; report each. Do NOT merge them; the coalesce run judged them opponents, not duplicates.
-- **Notes**: voids/plurality-void says we cannot conceive "what it would be like to be us" as a genuinely plural first person (L51). concepts/manyism presents Roelofs' view that many overlapping conscious subjects coexist in one place by sharing experience, and treats it as the strongest constitutive-panpsychist rival on the unity question. Neither page links the other. Install the reciprocal in both directions: at manyism, one sentence noting that experience-sharing posits exactly the plural subjecthood the plurality void finds inconceivable from the inside (whether that tells against manyism or only marks a limit of conception is the open question; state it at that tier, since inconceivability from the inside does not establish impossibility); at plurality-void, a piped link where it discusses plural subjects, naming manyism as the live theory that requires what the void cannot picture. Prefer `[[slug|existing text]]` where an existing phrase fits.
-
 ### P3: Scientific-explanation page: correlation is equated with a breach of causal closure (L52), and gap persistence is called a prediction physicalism lacks (L60)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/consciousness-and-scientific-explanation.md
@@ -1929,6 +1917,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-07: Link the plurality void and manyism to each other (each bears on the other's central claim; zero links either way)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/plurality-void.md
+- **Notes**: voids/plurality-void says we cannot conceive "what it would be like to be us" as a genuinely plural first person (L51). concepts/manyism presents Roelofs' view that many overlapping conscious subjects coexist in one place by sharing experience, and treats it as the strongest constitutive-panpsychist rival on the unity question. Neither page links the other. Install the reciprocal in both directions: at manyism, one sentence noting that experience-sharing posits exactly the plural subjecthood the plurality void finds inconceivable from the inside (whether that tells against manyism or only marks a limit of conception is the open question; state it at that tier, since inconceivability from the inside does not establish impossibility); at plurality-void, a piped link where it discusses plural subjects, naming manyism as the live theory that requires what the void cannot picture. Prefer `[[slug|existing text]]` where an existing phrase fits.
 
 ### ✓ 2026-10-07: Align the IBE page's Type-B verdict with the Type-A/B/C page (provisional "suggestive" vs "compatible")
 - **Type**: refine-draft

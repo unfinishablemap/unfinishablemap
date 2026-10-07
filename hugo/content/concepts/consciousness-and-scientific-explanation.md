@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-02 13:26:55+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-10-07 01:34:30+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 06:34:03+00:00
-lastmod: 2026-10-02 13:26:55+00:00
+lastmod: 2026-10-07 01:34:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ This charge conflates two distinct claims. The first is that consciousness canno
 
 ## What Neuroscience Explains Under Dualism
 
-Under dualism, neuroscience explains exactly what it explains under physicalism: the neural processes that correlate with, enable, and constrain conscious experience. Nothing about the empirical programme of neuroscience requires that consciousness *be* a neural process. It requires only that consciousness and neural processes be systematically related — that the [causal closure](/concepts/causal-closure/) of physics is not absolute, or at minimum that non-physical influence operates within the gaps that physics itself leaves open.
+Under dualism, neuroscience explains exactly what it explains under physicalism: the neural processes that correlate with, enable, and constrain conscious experience. Nothing about the empirical programme of neuroscience requires that consciousness *be* a neural process. It requires only that consciousness and neural processes be systematically related, and systematic relation is compatible with the [causal closure](/concepts/causal-closure/) of physics: epiphenomenalism and parallelism keep closure and the correlations both. That closure is not absolute, or at minimum that non-physical influence operates within the gaps physics itself leaves open, is the Map's further commitment ([Tenet 3](/tenets/#bidirectional-interaction)), not something neuroscience requires.
 
 Consider the [neural correlates of consciousness](/concepts/neural-correlates-of-consciousness/) (NCCs). NCC research identifies which neural activity patterns are present when specific experiences occur — which regions activate during visual awareness, which oscillatory patterns accompany attention, which disruptions eliminate consciousness entirely. This research is valuable under any metaphysics. Under physicalism, NCCs are (or constitute) consciousness. Under dualism, NCCs are the physical conditions that correlate with consciousness — the interface through which mind and brain connect.
 
@@ -60,7 +60,7 @@ At the level of current neuroscience — fMRI, EEG, lesion studies — the empir
 
 However, the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness biases otherwise indeterminate quantum outcomes in neural systems. On the [corridor reading](/topics/born-rule-and-the-consciousness-interface/) the Map endorses, the unconditioned aggregate stays Born by construction, not by any sensitivity limit; only a deviation conditioned on intention, task or subject would test the corridor ([P-Q3](/positions/quantum-interface/#p-q3)). This is worth noting: the Map's dualism is not empirically vacuous in principle, though the gap between in-principle testability and practical experimental design remains substantial. No such conditioned protocol yet exists.
 
-Dualism does make one additional prediction that physicalism does not: that the correlation between neural activity and conscious experience is lawful but not identical. This means the [explanatory-gap](/concepts/explanatory-gap/) is not a temporary gap in scientific understanding but a permanent feature reflecting a genuine ontological distinction. Under physicalism, the gap should eventually close as neuroscience matures. Under dualism, the gap is the signature of two genuinely distinct domains standing in regular relation.
+Dualism does make one prediction that promissory physicalism does not: that the correlation between neural activity and conscious experience is lawful but not identical, so the [explanatory-gap](/concepts/explanatory-gap/) is a permanent feature reflecting a genuine ontological distinction rather than a temporary gap in scientific understanding. Under [Type-C physicalism](/concepts/type-a-type-b-and-type-c-physicalism/), the gap should eventually close as neuroscience matures. Under dualism, the gap is the signature of two genuinely distinct domains standing in regular relation. The prediction does not separate dualism from physicalism generally: Type-B physicalism also predicts a permanent gap and explains it by the distinctness of phenomenal from physical concepts, so gap persistence leaves dualism and Type-B compatible with the same record.
 
 ## Non-Reductive Explanation as Legitimate Science
 
