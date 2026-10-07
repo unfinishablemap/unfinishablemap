@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T01:51:39.473170+00:00'
-session_count: 22235
+last_updated: '2026-10-07T02:05:02.918128+00:00'
+session_count: 22236
 cycle_position: 14400
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-07T00:43:24.226662+00:00'
-  embed-videos: '2026-10-06T17:34:58.532499+00:00'
+  embed-videos: '2026-10-07T02:05:02.918128+00:00'
   expand-topic: '2026-10-04T17:03:10.648829+00:00'
   harvest-research-subjects: '2026-10-06T21:19:45.078174+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-06'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-06'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-10-07'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
