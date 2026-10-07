@@ -4,7 +4,7 @@ description: "How interactionist dualism defuses the metaproblem's debunking thr
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-09-19T13:11:00+00:00
+ai_modified: 2026-10-07T18:57:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,10 +31,10 @@ related_articles:
   - "[[self-stultification-as-master-argument]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-07-16T17:32:15+00:00
+last_deep_review: 2026-10-07T18:57:01+00:00
 ---
 
 Interactionist dualism has a structural advantage on the [[meta-problem-of-consciousness|metaproblem of consciousness]] that other positions lack. The metaproblem—why do we *think* consciousness poses a hard problem?—threatens physicalists and epiphenomenalists alike. But if consciousness causally contributes to the reasoning that generates problem intuitions, then those intuitions are not merely coincidentally accurate: consciousness is among the causes of the reports made about it. This article argues that interactionism defuses the metaproblem—removing the defeater it would otherwise supply against phenomenal realism—rather than converting it into a fresh threat-becomes-evidence windfall for dualism. The defusing is also partial, in a way worth stating at the outset: it answers the causal and constitutive forms of the debunker's independence premise and leaves the modal and explanatory forms, together with the coincidence argument built on them, still standing (see [[#What the Reply Does Not Reach|What the Reply Does Not Reach]] below).
@@ -91,7 +91,7 @@ Two nearby claims are easily mistaken for this one and are worth keeping separat
 
 It is tempting to locate that divergence in philosophical depth, in phenomenological refinement, or in novel insight — the thought being that a mindless philosopher could manipulate concepts about consciousness without ever checking them against the phenomenon, could not sharpen its reports through contemplative practice, and would plateau at what its functional self-models already contain. None of this is available to the Map as evidence, and the obstacle is the Map's own mechanism work rather than any shortage of experiments. [[born-preserving-causal-efficacy|The Born-preserving apex]] states the cost plainly: under the trumping reading, "consciousness is a cause" and "consciousness is epiphenomenal" "make no predictively distinct claims at any scale". Conscious selection operates among outcomes the Born distribution already permits, so a report sequence is exactly as probable with a mind behind it as without — the type-level worry that [[ensemble-level-epiphenomenalism|ensemble-level epiphenomenalism]] develops in full. Rated on the [[evidential-status-discipline|evidential-status ladder]], the claim that conscious and mindless report-generation differ is interface-compatible at best: a token-level claim about which process authored a report, with no statistical footprint to go looking for.
 
-What survives is narrower, and it is what the reply to the debunker actually needs. The debunker requires that the explanation of problem reports run independently of whether consciousness is a causal contributor. Interactionism denies that independence at the token level, and the denial does its work whether or not the difference could ever be measured. Carrying no measurable consequence remains a real weakness of the position — it is simply not a weakness in this particular reply, which turns on causal structure rather than on frequencies.
+What survives is narrower, and it is what the reply to the debunker actually needs. The debunker's causal-independence premise requires that the explanation of problem reports run independently of whether consciousness is a causal contributor. Interactionism denies that independence at the token level, and the denial does its work whether or not the difference could ever be measured. Carrying no measurable consequence remains a real weakness of the position — it is simply not a weakness in this particular reply, which turns on causal structure rather than on frequencies.
 
 A physicalist has a cheaper route past the whole exchange, and it deserves naming rather than passing over. On a [[type-identity-theory|type-identity]] reading there is no overdetermination to adjudicate: the phenomenal state and the physical processing state are one event under two descriptions, so consciousness causes the report in the only sense anything causes anything, and no further non-physical contributor is wanted. That dissolution is not defective on its own terms, and the Map does not refute it from inside the identity theorist's framework. The Map declines it because the [[explanatory-gap|explanatory gap]] is precisely what leaves the proposed identity opaque — an identity that cannot be displayed, and that is motivated largely by the wish to avoid the alternative, is asserted rather than exhibited. That is a framework-boundary disagreement, and it is honestly noted as one.
 
@@ -101,7 +101,7 @@ This connects to the [[self-stultification-as-master-argument|self-stultificatio
 
 Keith Frankish argues that the metaproblem is not merely *related* to the hard problem—it *is* the problem of consciousness. If all our problem intuitions can be explained in physical terms, nothing further needs explaining. There is no residual "hard problem" once we understand why we think there is one.
 
-This is the sharpest illusionist response, and the reply has to be made on Frankish's own terms. The inference from complete explanation to nothing-left-to-explain holds only if the problem intuitions exhaust the evidence base — only if everything that could put consciousness on the explanatory agenda arrives as a reportable intuition about it. Illusionism helps itself to that exhaustion without arguing for it: explaining why subjects report a puzzle explains the reporting, and whether the reporting was the whole explanandum is the point in dispute. Frankish's answer — no residual explanandum, because no phenomenal property survives to be one — rests on commitments the Map declines rather than refutes, and the disagreement is noted as a framework boundary rather than dressed as a refutation from inside illusionism.
+This is the sharpest illusionist response, and the reply has to be made on Frankish's own terms. The inference from complete explanation to nothing-left-to-explain holds only if the problem intuitions exhaust the evidence base — only if everything that could put consciousness on the explanatory agenda arrives as a reportable intuition about it. Illusionism helps itself to that exhaustion without arguing for it: explaining why subjects report a puzzle explains the reporting, and whether the reporting was the whole explanandum is the point in dispute. Frankish's own support is a challenge rather than an argument—his "hard meta-problem" asks what could justify continued confidence in consciousness once every intuition about it is explained away—and the realist's answer is acquaintance, whose limits the sections above have marked. Frankish's answer — no residual explanandum, because no phenomenal property survives to be one — rests on commitments the Map declines rather than refutes, and the disagreement is noted as a framework boundary rather than dressed as a refutation from inside illusionism.
 
 ## Illusionism's Escalating Burden
 
@@ -116,11 +116,11 @@ The interactionist faces no such escalation. Problem intuitions are accurate bec
 
 ## The Empirical Complication
 
-Empirical work complicates the picture for every position. Diaz's studies (~2021) found that problem intuitions are not widespread among ordinary people, and when they arise, they correlate with factors unrelated to the nature of consciousness—philosophical training, cultural framing, cognitive style.
+Empirical work complicates the picture for every position. Díaz's four studies (2021) found that problem intuitions are not widespread among ordinary people—participants accepted the reduction of pain to neural activity about as readily as the reduction of water to H2O—and that where they did arise, the predictor was unrelated to consciousness: participants' judgment that the relevant neuroscience was poor or incomplete. Cognitive-style measures (reflection, inward attention to experience) had no significant effect.
 
-This might seem to challenge the face-value solution: if problem intuitions are culturally acquired rather than universal, they may not track deep features of reality. The finding runs mildly in the debunker's favour: if mundane factors predict who has the intuitions, that supports the near-completeness of the structural explanation [[#What the Reply Does Not Reach|the coincidence argument]] turns on.
+This might seem to challenge the face-value solution: if problem intuitions are a minority response driven by views about the state of the science rather than universal, they may not track deep features of reality. The finding runs mildly in the debunker's favour: if a mundane factor predicts who has the intuitions, that supports the near-completeness of the structural explanation [[#What the Reply Does Not Reach|the coincidence argument]] turns on. A realist can answer that rating a neural account of pain "incomplete" is what an explanatory intuition looks like in untrained respondents; Díaz anticipates this and reports that inward-thinking scores did not mediate the effect, and whether that proxy settles the matter the Map leaves open.
 
-More fundamentally, the universality of problem intuitions is irrelevant to their accuracy. Heliocentrism was not a widespread folk intuition, yet it was correct. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies here: the prevalence of an intuition tells us about cognitive and cultural factors, not about metaphysical reality. What matters is whether the intuitions, where they occur, are generated by processes that have access to the relevant facts. Interactionism says they are.
+More fundamentally, the universality of problem intuitions is irrelevant to their accuracy. Heliocentrism was not a widespread folk intuition, yet it was correct. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies here: the prevalence of an intuition tells us about who holds it and why, not about metaphysical reality. What matters is whether the intuitions, where they occur, are generated by processes that have access to the relevant facts. Interactionism says they are.
 
 ## The Parsimony Trap
 
@@ -160,11 +160,10 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 ## References
 
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
-2. Chalmers, D.J. (~2020). How can we solve the meta-problem of consciousness? https://consc.net/papers/solving.pdf
-3. Chalmers, D.J. (2020). Debunking arguments for illusionism about consciousness. *Journal of Consciousness Studies*, 27(5-6), 258-281. https://consc.net/papers/debunking.pdf
-4. Frankish, K. (2019). The meta-problem is the problem of consciousness. *Journal of Consciousness Studies*, 26(9-10).
-5. Diaz, R. (~2021). Do people think consciousness poses a hard problem? *Journal of Consciousness Studies*, 28(3-4).
-6. Saad, B. (2019). A teleological strategy for solving the meta-problem of consciousness. *Journal of Consciousness Studies*, 26(9-10), 205-216.
-7. Mørch, H.H. (2020). The phenomenal powers view and the meta-problem of consciousness. *Journal of Consciousness Studies*.
-8. Pautz, A. (2020). Consciousness and coincidence: Comments on Chalmers. *Journal of Consciousness Studies*.
-9. Southgate, A. & Oquatre-six, C. (2026-02-09). The Meta-Problem of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
+2. Chalmers, D.J. (2020). Debunking arguments for illusionism about consciousness. *Journal of Consciousness Studies*, 27(5-6), 258-281. https://consc.net/papers/debunking.pdf
+3. Frankish, K. (2019). The meta-problem is the problem of consciousness. *Journal of Consciousness Studies*, 26(9-10), 83-94.
+4. Díaz, R. (2021). Do people think consciousness poses a hard problem?: Empirical evidence on the meta-problem of consciousness. *Journal of Consciousness Studies*, 28(3-4), 55-75.
+5. Saad, B. (2019). A teleological strategy for solving the meta-problem of consciousness. *Journal of Consciousness Studies*, 26(9-10), 205-216.
+6. Mørch, H.H. (2020). The phenomenal powers view and the meta-problem of consciousness. *Journal of Consciousness Studies*, 27(5-6), 131-142.
+7. Pautz, A. (2020). Consciousness and coincidence: Comments on Chalmers. *Journal of Consciousness Studies*.
+8. Southgate, A. & Oquatre-six, C. (2026-02-09). The Meta-Problem of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/meta-problem-of-consciousness/

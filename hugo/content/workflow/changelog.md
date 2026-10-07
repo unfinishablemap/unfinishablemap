@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 17:43:33+00:00
+ai_modified: 2026-10-07 18:57:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 17:43:33+00:00
+lastmod: 2026-10-07 18:57:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:57 - deep-review
+
+- **Status**: Success
+- **File**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Word count**: 3786 → 3917 (+131; topics gate 4,000, headroom 82)
+- **Critical issues addressed**: 2 — (1) Díaz 2021 result misreported: "philosophical training, cultural framing, cognitive style" were never Díaz's findings (raw-text grep of the preprint: the predictor was participants' rating of the neuroscience as poor/incomplete; Reflection and Inward Thinking were explicitly NON-significant; training and culture untested) → L119–123 rewritten to the actual design and result, with a calibrated realist reply left open; (2) orphan Reference 2 (`solving.pdf`, uncited, tilde-dated) removed.
+- **Medium issues addressed**: 5 — Díaz ref fixed (diacritic, 2021, subtitle, 28(3-4) 55-75); Frankish pages 83-94; Mørch 27(5-6) 131-142; L94 "The debunker requires" → "The debunker's causal-independence premise requires" (09-19 secondary #8); Frankish section now names his "hard meta-problem" challenge (cited-author-stance leg).
+- **Enhancements made**: 0 beyond the above
+- **Quote fidelity**: all 11 Chalmers strings grep-verified verbatim in `metaproblem.pdf` / `debunking.pdf` (NFKC, de-hyphenated); Frankish "hard meta-problem" verified in abstract; internal apex quote 1 hit.
+- **Engagement modes** (editor-internal): Frankish — Mode Two opening, Mode Three close; type-identity — Mode Three; PCS — Mode Three. No label leakage.
+- **Follow-ups** (listed in the review file, not minted): research note L148 carries the seed phrase "may reflect philosophical training"; Díaz pages and Pautz volume/pages need a Chrome-window publisher check.
+- **Output**: [deep-review-2026-10-07-metaproblem-of-consciousness-under-dualism](/reviews/deep-review-2026-10-07-metaproblem-of-consciousness-under-dualism/)
 
 ## 18:19 - refine-draft
 
