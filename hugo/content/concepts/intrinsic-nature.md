@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-01 02:44:14+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-07 19:22:27+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[russellian-monism]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 00:00:00+00:00
-lastmod: 2026-10-01 02:44:14+00:00
+lastmod: 2026-10-07 19:22:27+00:00
 modified: *id001
 related_articles:
 - '[[intrinsic-nature-void]]'
@@ -45,7 +45,7 @@ The distinction matters because physics appears constitutively unable to reach i
 
 Russell drew the distinction sharply in *The Analysis of Matter*: physics tells us about the structure of the physical world—the pattern of relations among its parts—but is silent about the intrinsic character of whatever stands in those relations. "The physical world is only known as regards certain abstract features of its space-time structure," Russell wrote; the intrinsic character is left open. Eddington put it as a contrast between the "world of shadows" that physics symbolises and the unknown reality the symbols stand for.
 
-The core observation is robust and not a temporary gap in knowledge. As physics has matured it has become *more* abstract and relational, not less. Quantum field theory and general relativity are triumphs of structural description; they specify the relations among quantities with extraordinary precision while saying nothing about the intrinsic nature of what is so related. A complete future physics, on this view, would be a complete account of structure—and still silent on intrinsic nature, because that silence is a feature of the method, not a deficit of current theory.
+The core observation is robust across physics as practised. As physics has matured it has become *more* abstract and relational, not less. Quantum field theory and general relativity are triumphs of structural description; they specify the relations among quantities with extraordinary precision while saying nothing about the intrinsic nature of what is so related. A complete future physics, on this view, would be a complete account of structure—and still silent on intrinsic nature, because that silence is a feature of the method, not a deficit of current theory. That permanence is a claim about the *method* of physics rather than a theorem—[physical completeness](/concepts/physical-completeness/) calls it a bet on the method-claim, not a proof—and the [ignorance hypothesis](/concepts/ignorance-hypothesis/) is the physicalist view that bets the other way.
 
 This is worth stating carefully, because it is the premise that many Map articles build on without re-deriving it. Physics describes:
 

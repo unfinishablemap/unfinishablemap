@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-10-07T00:10:26+00:00
+ai_modified: 2026-10-07T19:22:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ The zombie argument proceeds in three steps:
 
 The conceivability claim rests on the [[explanatory-gap|explanatory gap]]. Physical descriptions—however complete—characterize structure and dynamics: how things are arranged, how they move, how information flows. But subjective experience has a qualitative character: there is *something it is like* to see red, taste coffee, feel pain. This qualitative character seems not to be entailed by any structural description. The [[the-surplus-void]] sharpens this: conscious experience delivers phenomenal richness far beyond what any functional role requires—every aspect of qualitative experience is surplus to function, which is precisely what zombie conceivability formalises.
 
-When we conceive of zombies, we are not merely failing to see some hidden necessity due to ignorance. We are positively grasping a coherent scenario: all the physics, none of the experience. The zombie brain processes information, responds to stimuli, produces behavior—all explainable in physical terms. The absence of accompanying experience doesn't make the physical story incoherent; it just makes it incomplete.
+When we conceive of zombies, we are not merely failing to see some hidden necessity due to ignorance. We positively grasp a coherent scenario: all the physics, none of the experience—all the *known* physics, the [[ignorance-hypothesis|ignorance hypothesis]] replies. The zombie brain processes information, responds to stimuli, produces behavior—all explainable in physical terms. The absence of accompanying experience doesn't make the physical story incoherent; it just makes it incomplete.
 
 Contrast this with other conceivability failures. We cannot coherently conceive of a round square or of water that isn't H₂O (once we understand what water is). The more we understand, the more the conceivability vanishes. With zombies, from the dualist perspective, the opposite happens: the more we understand physical processes, the clearer it becomes that structural and dynamic descriptions don't logically require accompanying experience. Type-A physicalists dispute this—they maintain that a sufficiently detailed physical description would reveal consciousness as conceptually entailed. The Map holds that the persistent failure to close this gap after decades of neuroscience supports the dualist reading. But the gap's evidential status is itself part of what is in dispute: the Type-A physicalist denies there was ever a real gap to close, reading the "persistent failure" as an artefact of philosophical framing—a datum reported by those primed to experience it and largely absent from neuroscientific practice—rather than a genuine explanandum. The Map adopts the datum interpretation as a posited stance, not as a point the physicalist concedes.
 

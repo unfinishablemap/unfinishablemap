@@ -4,7 +4,7 @@ description: "Chalmers's three physicalist replies to the explanatory gap, route
 created: 2026-10-02
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-03T14:44:04+00:00
+ai_modified: 2026-10-07T19:22:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[type-a-type-b-and-type-c-physicalism-2026-10-02]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-02
 last_curated:
 last_deep_review: 2026-10-02T12:15:57+00:00
@@ -120,7 +120,7 @@ The ladder is the one in [[inference-to-the-best-explanation-against-dualism]]: 
 
 - **Type-A: suggestive, provisionally, and only on the widened explananda.** Admitting phenomenal character as a datum over and above the functions is exactly what Type-A rejects; Chalmers concedes that the dispute "usually comes down to intuition", and the first-person warrant cannot be handed to an opponent who declines it. Even granted, the datum favours every view that admits it, Type-B included.
 - **Type-B: compatible.** Type-B grants the datum and predicts what the Map cites: persistence, the opacity of neural correlates, the reports. The replies that reach it are a priori, modal or defeater-removing, bearing on plausibility rather than evidential tier; only a second-order comparison favouring dualism by stated criteria would lift it to suggestive.
-- **Type-C: suggestive, without separating dualism from physicalism.** Persistence is mildly unexpected on Type-C and expected on dualism and Type-B alike, so evidence against Type-C moves credence toward B, D and F together; its main defeat is the dialectical collapse argument.
+- **Type-C: suggestive, without separating dualism from physicalism; against the ignorance hypothesis, compatible.** Persistence is mildly unexpected on Type-C, except the [[ignorance-hypothesis|ignorance hypothesis]], which sets no timetable and so predicts it, and expected on dualism and Type-B alike, so evidence against closure-soon Type-C moves credence toward B, D and F together; its main defeat is the dialectical collapse argument.
 - **Discriminating: nowhere.** A discriminating result would have to come through Tenet 3's channel, an outcome deviation conditioned on intention, whose absence all three types predict alike.
 
 ## Relation to Site Perspective

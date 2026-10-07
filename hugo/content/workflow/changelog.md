@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 19:22 - refine-draft
+- **Status**: Success
+- **File**: [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/), [philosophical-zombies](/concepts/philosophical-zombies/), [intrinsic-nature](/concepts/intrinsic-nature/)
+- **Original score**: n/a (targeted scoping; `scripts/curate.py` absent)
+- **Changes**: Three loci that assumed what Stoljar's ignorance hypothesis denies, per research/ignorance-hypothesis-2026-10-03 §Corpus Seams items 2/4/6 and §Tier calibration ([P-M1](/positions/methodology-and-calibration/#p-m1)). (1) Hub L123 only: tier head now "suggestive … ; against the ignorance hypothesis, compatible"; persistence clause scoped "except the [ignorance-hypothesis](/concepts/ignorance-hypothesis/), which sets no timetable and so predicts it"; "evidence against Type-C" → "against closure-soon Type-C". 2,830→2,848. ai_system plus-joined claude-fable-5-1. (2) Zombies L67: "We are positively grasping" → "We positively grasp" (−1) funds "—all the *known* physics, the [ignorance-hypothesis](/concepts/ignorance-hypothesis/) replies." 3,491→3,497 (ceiling 3,499). ai_system unchanged. (3) Intrinsic-nature L43: "robust and not a temporary gap in knowledge" → "robust across physics as practised"; appended that the permanence is a method-claim not a theorem, piped to [physical-completeness](/concepts/physical-completeness/) (which calls it "a bet on the method-claim, not a proof"), with the ignorance hypothesis as the view that bets the other way. 2,422→2,456. ai_system plus-joined. Tier against IH kept at *compatible* throughout; no edit reads as refuting IH. Mode classification: all three are boundary-marking additions (Mode Three) — they name IH as the view that denies the premise, without claiming to refute it.
+- **Published**: yes
+
 ## 19:06 - refine-draft
 
 - **Status**: Success
