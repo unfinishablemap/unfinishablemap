@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 13:58:00+00:00
+ai_modified: 2026-10-07 16:36:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 13:58:00+00:00
+lastmod: 2026-10-07 16:36:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:36 - refine-draft
+- **Status**: Success
+- **File**: [selection-only-channel](/concepts/selection-only-channel/)
+- **Source**: todo P3 minted 2026-10-03 from [outer-review-synthesis-2026-10-02](/reviews/outer-review-synthesis-2026-10-02/) "Loci without an owner" (ChatGPT §2.5, cluster 4)
+- **Word count**: 2836 → 3019 (+183; headroom 481 against 3500)
+- **Changes**: one paragraph added after the Holevo-ceiling paragraph in "Content-Confinement" stating the semantic-matching requirement that confinement leaves open — (a) the candidate set must contain the matching report (confinement, already stated) and (b) the experience's content must fix *which* candidate is realised, "report content varies with experiential content, base held fixed". Says plainly what the channel delivers: it is the locus where the dependence would live (selection is the one point an outcome leaves the base's default trajectory), and it *can* carry a content-indexed law because within-context conditionals are free under marginal Born preservation; but the channel class does not supply the law. Calibration stated by piping, not restating: Tenet 3's "toward patterns that express its content" is the posit; the register's `#^mechanism-debt` ([P-Q3](/positions/quantum-interface/#p-q3), [P-Q10](/positions/quantum-interface/#p-q10)) carries it as framework-internal with no worked model. Where the matching report already carries Born weight near one, accuracy rests on the lawful match, consistent with trumping-preemption's fourth cost and epiphenomenalism's "Self-Stultification Problem".
+- **Consistency**: aligned with [trumping-preemption](/concepts/trumping-preemption/) "Costs of the Template" fourth cost (commit 76fc2bbbc5); no edits to trumping-preemption, self-stultification, epiphenomenalism or tenets.
+- **Links added**: [self-stultification](/concepts/self-stultification/) (#Application to Epiphenomenalism), [trumping-preemption](/concepts/trumping-preemption/) (#Costs of the Template), [quantum-interface](/positions/quantum-interface/) (#^mechanism-debt), [epiphenomenalism](/concepts/epiphenomenalism/) (#The Self-Stultification Problem); heading-text anchor dialect matched to trumping-preemption's own links.
+- **Engagements**: none new (no named opponent; the paragraph marks a Map-internal posit honestly as a posit)
+- **Published**: yes
 
 ## 16:22 - deep-review
 - **Status**: Success
