@@ -153,3 +153,32 @@
   subject_articles:
   - voids/assent-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/dadc41ff-8e86-48a3-8a15-8306eeaf9fc4
+  commissioned_at: '2026-10-07T04:12:19.681796+00:00'
+  prompt_summary: Hostile-referee audit of voids/assent-void (Fable 5.1, Research)
+  target_filename: outer-review-2026-10-07-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for one article on The Unfinishable
+    Map (https://unfinishablemap.org), a site defending interactionist dualism with
+    minimal quantum interaction. The article is "The Assent Void" at https://unfinishablemap.org/voids/assent-void/
+    (last substantively modified 2026-09-29). First read https://unfinishablemap.org/workflow/changelog/
+    so recent edits are visible despite search-index lag; then read the article and
+    the Map pages it links to. Audit: (1) whether its empirical, historical, and phenomenological
+    claims about assent, judgment, and belief formation are supported and currently
+    cited; (2) whether every citation and quotation is accurate to its source, flagging
+    anything stale, misattributed, or fabricated; (3) whether the strongest counterarguments
+    (e.g. doxastic involuntarism debates, Frankfurt-style and Williams-style arguments,
+    empirical work on belief revision) are genuinely engaged or bracketed to protect
+    the tenets; (4) whether the article coheres with the surrounding voids, concepts,
+    and positions pages. Be specific and evidence-based rather than deferential. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit assent-void
+  subject_articles:
+  - voids/assent-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-07-chatgpt-5-6-sol-pro.md
