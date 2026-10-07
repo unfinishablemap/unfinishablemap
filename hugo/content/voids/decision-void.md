@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-10
-ai_modified: 2026-10-07 07:40:35+00:00
+ai_modified: 2026-10-07 13:04:30+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 21:16:31+00:00
-lastmod: 2026-10-07 07:40:35+00:00
+lastmod: 2026-10-07 13:04:30+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -85,7 +85,7 @@ None of the three faces alone establishes the void. Closure without latency woul
 
 ## Distinguishing Sibling Voids
 
-The [agency-void](/voids/agency-void/) catalogues involuntariness and unverifiability on agency in general; the Decision Void targets a specific moment within agency—the deliberation→commitment crossing—and an agent could in principle have full agency-verification and still face it. The [noetic-feelings-void](/voids/noetic-feelings-void/) concerns the unauditable felt verdicts gating cognition; the "felt click" of having-decided is itself a noetic-feelings phenomenon, but the Decision Void claims the *closing-process* is occluded, not merely the felt verdict that follows. The [transit-void](/voids/transit-void/) concerns crossings generally; the Decision Void is one specific transit, distinguished by what the deliberation→commitment crossing involves: the *resolution* of a multi-option field. The [assent void](/voids/assent-void/) (doxastic commitment) resolves logically to true, false or suspended, but lacks the phenomenal form the candidate-site argument requires: assent presents as evidence coming down, not as a crossing among live alternatives, and its first assignment may precede felt judgment; Hieronymi's parity of believing and intending at will concerns voluntariness, which the argument never invoked.
+The [agency-void](/voids/agency-void/) catalogues involuntariness and unverifiability on agency in general; the Decision Void targets a specific moment within agency—the deliberation→commitment crossing—and an agent could in principle have full agency-verification and still face it. The [noetic-feelings-void](/voids/noetic-feelings-void/) concerns the unauditable felt verdicts gating cognition; the "felt click" of having-decided is itself a noetic-feelings phenomenon, but the Decision Void claims the *closing-process* is occluded, not merely the felt verdict that follows. The [transit-void](/voids/transit-void/) concerns crossings generally; the Decision Void is one specific transit, distinguished by what the deliberation→commitment crossing involves: the *resolution* of a multi-option field. The [assent void](/voids/assent-void/) (doxastic commitment) resolves logically to true, false or suspended, but ranks lower by phenomenological fit: its alternatives are given as ways the world might be, not as options for the agent, so settling reads as evidence coming down rather than as a choice taken; its first assignment, like the decision's, may precede felt judgment, a parallel rather than a difference.
 
 It is sister to the [suspension-void](/voids/suspension-void/) and the [inference-void](/voids/inference-void/): suspension cannot be performed without invoking the capacity it brackets; inference cannot be made explicit without invoking the inference-licence that makes it inferential; decision cannot be observed without invoking the decision-machinery that produces the observation.
 

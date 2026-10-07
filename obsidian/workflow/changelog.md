@@ -5,6 +5,14 @@ ai_modified: 2026-10-07T12:22:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 13:04 - refine-draft
+
+- **Task**: `voids/decision-void` L84 — the 07:40Z reconciliation does not hold as written (pessimistic-2026-10-07-assent-void-integration-wing, Issue 1) — applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: the sentence's "crossing vs evidence coming down" asymmetry (denied by the page's own closure face at L60/L112) and its Hieronymi-concerns-voluntariness dismissal are replaced with the weaker asymmetry that survives: assent ranks lower by phenomenological fit because its alternatives are given as ways the world might be, not options for the agent; the first-assignment latency is marked as a parallel with decision, not a difference. Agrees with assent-void L95/L111. L52 "sharpest theoretical grip" untouched.
+- **Length**: 2,991 → 2,997 / 3,000 (+6 as costed; gate >=)
+- **Output**: synced to Hugo
+
 ## 12:50 - coalesce
 
 - **Task**: coalesce cycle slot — driver-level abandon
