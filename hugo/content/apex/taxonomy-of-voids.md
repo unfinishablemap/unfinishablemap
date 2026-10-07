@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-06 07:42:00+00:00
+ai_modified: 2026-10-07 08:54:49+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 apex_last_synthesis: 2026-09-30 07:57:59+00:00
 apex_sources:
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-10-06 07:42:00+00:00
+lastmod: 2026-10-07 08:54:49+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -128,7 +128,7 @@ The hundred-plus voids sort into domains by *where* in cognitive space they occu
 
 ### The Self-Knowledge Cluster
 
-The densest cluster surrounds the mind's attempt to examine itself. The [unobservable self](/voids/self-opacity/)—the subject that cannot become its own object—anchors it, surrounded by [introspective opacity](/voids/self-opacity/), the [calibration and observation voids](/voids/observation-and-measurement-void/) (introspection has no independent standard and every method transforms what it studies), the [self-reference paradox](/voids/self-opacity/), and the [witnessing-void](/voids/witnessing-void/). The [assent void](/voids/assent-void/) adds the formation of belief itself: it cannot be commanded, it is over before judging seems to begin, and any inward look at it is redirected to the world. These reinforce each other into [compound cognitive limits](/voids/compound-failure-signatures/)—emergent failure modes no single void predicts—because the instrument and the object are the same: we are beings whose architecture includes systematic opacity about its own operations.
+The densest cluster surrounds the mind's attempt to examine itself. The [unobservable self](/voids/self-opacity/)—the subject that cannot become its own object—anchors it, surrounded by [introspective opacity](/voids/self-opacity/), the [calibration and observation voids](/voids/observation-and-measurement-void/) (introspection has no independent standard and every method transforms what it studies), the [self-reference paradox](/voids/self-opacity/), and the [witnessing-void](/voids/witnessing-void/). The [assent void](/voids/assent-void/) adds the formation of belief itself: on the dominant view it cannot be commanded, on contested evidence it is over before judging seems to begin, and any inward look at it is redirected to the world. These reinforce each other into [compound cognitive limits](/voids/compound-failure-signatures/)—emergent failure modes no single void predicts—because the instrument and the object are the same: we are beings whose architecture includes systematic opacity about its own operations.
 
 Nested within it, a five-void *introspection-architecture* sub-cluster names distinct mechanisms of the introspector's bounded access to its own substrate—the [narrative](/voids/narrative-void/), [source-attribution](/voids/source-attribution-void/), [noetic-feelings](/voids/noetic-feelings-void/), [confabulation](/voids/confabulation-void/), and [perceptual reality-monitoring](/voids/perceptual-reality-monitoring-void/) voids. [The introspection-architecture void cluster](/apex/introspection-architecture-void-cluster/) develops these, naming their shared signature: phenomenal output without operation, felt rightness calibrated to the verdict rather than the world.
 
@@ -164,7 +164,7 @@ Six primary signatures recur: self-referential limits produce **self-refutation*
 
 These signatures rarely appear in isolation. Overlapping limits produce qualitatively different phenomenology through **superadditive interference**, **mutual reinforcement**, and **emergent occlusion**. The [infant consciousness void](/voids/infant-consciousness/) is the paradigm case: language barrier, absent self-concept, and reorganised neural architecture interact superadditively, producing inaccessibility no single barrier predicts.
 
-Some voids prove *conjoint* rather than merely interacting—the [agency](/voids/agency-void/), [assent](/voids/assent-void/), [voids-between-minds](/voids/voids-between-minds/), [erasure](/voids/erasure-void/), [suspension](/voids/suspension-void/), [imagery](/voids/imagery-void/), [vagueness](/voids/vagueness-void/), and [common-knowledge](/voids/common-knowledge-void/) voids and the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) are multi-face voids whose joint structure does work no single face could. The [conjunction-coalesce](/apex/conjunction-coalesce/) discipline preserves these as single entries with the seam between faces visible, since the seam encodes the claim. The seam adds evidential weight only after two discounts: origin-class scoring (a genuine prior-article coalesce, a creation-time cognate and a retroactive classification are not equally independent merger events) and [common-cause / null-model](/project/common-cause-null/) discounting, since a template-bearing pipeline yielding template-conformant seams is what the null predicts. Net of both, the seam pattern is a case base, not an empirical base, matching [the conjunction-coalesce synthesis's own downgrade](/apex/conjunction-coalesce/#what-the-count-is-worth).
+Some voids prove *conjoint* rather than merely interacting—the [agency](/voids/agency-void/), [voids-between-minds](/voids/voids-between-minds/), [erasure](/voids/erasure-void/), [suspension](/voids/suspension-void/), [imagery](/voids/imagery-void/), [vagueness](/voids/vagueness-void/), and [common-knowledge](/voids/common-knowledge-void/) voids and the [cardinality floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) are multi-face voids whose joint structure does work no single face could. The [conjunction-coalesce](/apex/conjunction-coalesce/) discipline preserves these as single entries with the seam between faces visible, since the seam encodes the claim. The seam adds evidential weight only after two discounts: origin-class scoring (a genuine prior-article coalesce, a creation-time cognate and a retroactive classification are not equally independent merger events) and [common-cause / null-model](/project/common-cause-null/) discounting, since a template-bearing pipeline yielding template-conformant seams is what the null predicts. Net of both, the seam pattern is a case base, not an empirical base, matching [the conjunction-coalesce synthesis's own downgrade](/apex/conjunction-coalesce/#what-the-count-is-worth).
 
 The specificity matters: were every void to produce the same generic failure, the taxonomy would collapse into unfalsifiable mysticism, and different signatures are evidence that it tracks real structure ([limit-type phenomenology](/topics/phenomenology-of-cognitive-limit-types/) maps each to its felt quality). [Apophatic cartography](/voids/apophatic-cartography/) makes signature specificity one of [four criteria](/concepts/apophatic-cartography-four-criteria/)—with structured persistence, cross-observer convergence, and framework independence—for treating failure as data about genuine limits rather than current ignorance, bounded as *calibration* rather than *proof*.
 

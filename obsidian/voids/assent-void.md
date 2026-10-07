@@ -4,7 +4,7 @@ description: "Human+AI exploration of the moment a proposition becomes held true
 created: 2026-09-29
 modified: 2026-10-07
 human_modified: null
-ai_modified: 2026-10-07T07:13:03+00:00
+ai_modified: 2026-10-07T08:54:49+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -52,7 +52,7 @@ Certainty is the *feeling* that accompanies a belief once held, the felt rightne
 
 ## Three Faces, One Void
 
-The void has the [[apex/conjunction-coalesce|conjunction-coalesce]] shape of the suspension, decision and agency voids, with the qualification the Seam section records. In the [[three-kinds-of-void|three-kinds]] vocabulary of the [[voids]] index, transparency is unexplorable in principle, timing is occluded in fact, and control is one or the other depending on which involuntarism holds.
+The void borrows the [[apex/conjunction-coalesce|three-face layout]] of the suspension, decision and agency voids; the Seam section finds two sources only. In the [[three-kinds-of-void|three-kinds]] vocabulary of the [[voids]] index, transparency is unexplorable in principle, timing is occluded in fact, and control is one or the other depending on which involuntarism holds.
 
 ### Control (Unexplorable if Conceptual Involuntarism Holds; Occluded if Only Psychological)
 

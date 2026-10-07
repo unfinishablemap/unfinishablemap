@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-10-07 08:23:23+00:00
+ai_modified: 2026-10-07 08:54:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 apex_last_synthesis: 2026-09-08 01:00:19+00:00
 apex_sources:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 16:09:07+00:00
-lastmod: 2026-10-07 08:23:23+00:00
+lastmod: 2026-10-07 08:54:49+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
@@ -224,7 +224,7 @@ A weaker, conditional connection runs to **[Dualism](/tenets/#dualism)**: *if* d
 
 ## Source Articles
 
-This synthesis draws on the following Unfinishable Map articles, its formal source ledger: every internal source appears here with its canonical URL, and no separate reference list is maintained.
+This synthesis's source ledger: every internal source appears here with its canonical URL; no separate reference list is maintained.
 
 - [The Agency Void](/voids/agency-void/) (2026-04-27) — The cleanest coalesce: passive and skeptical limits in conjunction. https://unfinishablemap.org/voids/agency-void/
 - [The Voids Between Minds](/voids/voids-between-minds/) (2026-04-19) — Three-way conjunction of existence, encounter, and sharing. https://unfinishablemap.org/voids/voids-between-minds/
@@ -234,6 +234,8 @@ This synthesis draws on the following Unfinishable Map articles, its formal sour
 - [The Imagery Void](/voids/imagery-void/) (2026-04-28) — Fidelity / inter-subjective / function-phenomenology faces. https://unfinishablemap.org/voids/imagery-void/
 - [The Vagueness Void](/voids/vagueness-void/) (2026-04-30) — Sorites / introspective / higher-order faces with a reflexive seam. https://unfinishablemap.org/voids/vagueness-void/
 - [The Wholeheartedness Void](/voids/wholeheartedness-void/) (2026-05-11) — Regress / disownability / ambivalence-detection; second modal-categorical exemplar. https://unfinishablemap.org/voids/wholeheartedness-void/
+- [The Decision Void](/voids/decision-void/) — Cognate outside the exemplar six: closure / latency / reconstruction. https://unfinishablemap.org/voids/decision-void/
+- [The Assent Void](/voids/assent-void/) — Candidate, seam test pending: two faces share one source. https://unfinishablemap.org/voids/assent-void/
 - [The Transit Void](/voids/transit-void/) (coalesced 2026-07-06) — The discipline's boundary case: six sub-voids merged into three faces under one in-flight-access architecture. https://unfinishablemap.org/voids/transit-void/
 - [The Thrownness Void](/voids/thrownness-void/) — Cluster candidate: inaccessibility of the founding moment. https://unfinishablemap.org/voids/thrownness-void/
 - [The Temporal Void](/voids/temporal-void/) — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry. https://unfinishablemap.org/voids/temporal-void/
