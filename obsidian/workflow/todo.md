@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Assent before Descartes: Stoic synkatathesis, Augustine and Spinoza on belief and will
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-10-07.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-10-07 K11 (both reviewers): the assent void never mentions the Stoic theory of synkatathesis that is the origin of its term, cites Descartes bare, and omits the Augustinian/medieval and Spinozan (Ethics IIP49) tradition; a full historical treatment was ruled not affordable on the void page. synkatathesis appears in only one live article (a neoplatonism page) and no topic covers the history of assent. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/assent-before-descartes-2026-10-07.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'assent-before-descartes' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-07
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -2032,6 +2026,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-07: Research Assent before Descartes: Stoic synkatathesis, Augustine and Spinoza on belief and will
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-10-07.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-10-07 K11 (both reviewers): the assent void never mentions the Stoic theory of synkatathesis that is the origin of its term, cites Descartes bare, and omits the Augustinian/medieval and Spinozan (Ethics IIP49) tradition; a full historical treatment was ruled not affordable on the void page. synkatathesis appears in only one live article (a neoplatonism page) and no topic covers the history of assent. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/assent-before-descartes-2026-10-07.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'assent-before-descartes' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-07: Research Doxastic voluntarism and the control of belief
 - **Type**: research-topic

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T11:33:00+00:00
+ai_modified: 2026-10-07T11:52:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:52 - research-topic
+- **Status**: Success
+- **Topic**: Assent before Descartes: Stoic synkatathesis, Augustine and Spinoza on belief and will (harvested from outer-review-synthesis-2026-10-07 K11; target section topics; history only — the contemporary debate is in research/doxastic-voluntarism-2026-10-07)
+- **Output**: [[research/assent-before-descartes-2026-10-07]]
+- **Sources consulted**: 22 cited; 11 primary texts fetched as public-domain full text and every quotation grep-verified (Cicero *Academica* II Yonge, Gellius 7.2 Rolfe, Epictetus 3.12 Higginson + Long *Encheiridion*/Discourses, Augustine *De Praed. Sanct.* 2.5 + *De Spir. et Litt.* 31.54, Aquinas ST II-II q.2, Descartes Med. IV Veitch, Spinoza Ethics IIP48–49 Elwes, Newman *Grammar of Assent*, James *Will to Believe*); three SEP entries (doxastic-voluntarism §2, stoicism, skepticism-ancient) raw; Blackson 2025, Boespflug 2023, Goulet-Cazé 2011 at abstract level; Piché 2017 snippet-only
+- **Key finds**: Cicero 2.37–38 pairs "wholly in our own power" with "the mind, too, must yield to what is evident" (the ancestor of evaluative control); Holcot (c. 1333, per SEP/Boespflug) states both the Alston test and the Williams contradiction argument; Spinoza's "Spinozan model" anchor is the IIP49 scholium (boy and horse), not the corollary; Epictetus 3.12.14 is about testing impressions, with Blackson 2025 disputing the SEP's voluntarist reading
+- **Not reached**: Scotus (no source reached — omit or fetch); Gilbert 1991 PDF (403/HTML); Cicero *De Fato*; Sextus primary; Husserl not re-fetched (cross-referenced to the 02-14 reality-feeling note by brief)
+- **Chain**: research-topic SKILL.md has no pending_articles step; entry appended by targeted text insert to task_chains.pending_articles (target_section topics); todo.md untouched; nothing committed
 
 ## 11:33 - research-topic
 - **Status**: Success
