@@ -4,7 +4,7 @@ description: "Consistent (decoherent) histories: an observer-free, no-collapse, 
 created: 2026-07-09
 modified: 2026-07-09
 human_modified:
-ai_modified: 2026-07-18T12:46:00+00:00
+ai_modified: 2026-10-07T23:49:59+00:00
 draft: false
 topics:
   - "[[qm-interpretations-beyond-many-worlds]]"
@@ -53,7 +53,7 @@ The **single-framework rule** enforces the *Incompatibility* principle. In *Cons
 
 Griffiths reads all this **realistically**: there is one world with definite, framework-relative properties, and the multiplicity of frameworks is like the multiplicity of coordinate systems, not a multiplicity of worlds. No framework is privileged, and on his view that is a feature, not a defect—demanding a privileged one merely imports the classical unicity assumption CH rejects.
 
-## The Dowker–Kent Set-Selection Critique
+## The Dowker–Kent Set-Selection Critique {#the-dowker-kent-set-selection-critique}
 
 The canonical objection is Dowker and Kent (1996), which built on their earlier result (Dowker & Kent 1995) that the consistency criterion alone cannot recover the standard predictions and retrodictions of quasiclassical physics. Reviewing the Griffiths, Omnès, and Gell-Mann–Hartle formulations and classifying the consistent sets, they argue that the formalism treats all consistent families "democratically" and supplies no criterion selecting a preferred one. With no law of nature fixing the framework, there is no way to compute *unconditional* probabilities for specific histories—probabilities are always conditional on a framework chosen from outside the physics. They further argue that Omnès' characterization of "true" statements is defective and press difficulties for the Gell-Mann–Hartle reading. Their conclusion: CH must be *supplemented* by some set-selection principle before it can serve as a fundamental theory capable of unconditional predictions. This became Kent's **set-selection problem**.
 

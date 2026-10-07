@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-09-02 20:08:52+00:00
+ai_modified: 2026-10-07 23:49:59+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:22:25+00:00
-lastmod: 2026-09-02 20:08:52+00:00
+lastmod: 2026-10-07 23:49:59+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism]]'
@@ -71,7 +71,7 @@ Can higher-level entities possess causal powers not reducible to the powers of t
 
 **Reductive views** hold that all causal powers ultimately reduce to fundamental physical powers. Higher-level talk of powers is convenient shorthand, but the real causal work happens at the micro-level. Consciousness might *seem* to possess powers, but these reduce to neural powers, which reduce to chemical powers, which reduce to quantum field powers.
 
-The Map's commitment to [bidirectional interaction](/concepts/interactionist-dualism/#bidirectional-interaction) requires rejecting full reduction. If consciousness can select among quantum outcomes in neural systems, then phenomenal states possess causal powers that are not simply sums of physical powers. This doesn't require violating microphysical laws—consciousness operates *within* the space of quantum indeterminacy—but it does require that mental properties bring something causally novel to the table.
+The Map's commitment to [bidirectional interaction](/tenets/#bidirectional-interaction) requires rejecting full reduction. If consciousness can select among quantum outcomes in neural systems, then phenomenal states possess causal powers that are not simply sums of physical powers. This doesn't require violating microphysical laws—consciousness operates *within* the space of quantum indeterminacy—but it does require that mental properties bring something causally novel to the table.
 
 ## Relation to Site Perspective
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-10-06 16:24:19+00:00
+ai_modified: 2026-10-07 23:49:59+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 02:17:13+00:00
-lastmod: 2026-10-06 16:24:19+00:00
+lastmod: 2026-10-07 23:49:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,11 +96,11 @@ Two physicalist replies grant the gap. The Type-C reply holds that future progre
 
 ### Precondition 2: A Single Dimension of Simplicity
 
-When the three dimensions of simplicity [described above](#Three%20Dimensions%20of%20Simplicity) yield contradictory verdicts, "the simpler theory" is undefined. The standard argument silently selects ontological parsimony and ignores the dimensions where physicalism fares worse — a choice that determines the conclusion, not rigorous reasoning.
+When the three dimensions of simplicity [described above](#three-dimensions-of-simplicity) yield contradictory verdicts, "the simpler theory" is undefined. The standard argument silently selects ontological parsimony and ignores the dimensions where physicalism fares worse — a choice that determines the conclusion, not rigorous reasoning.
 
 ### Precondition 3: Domain-Appropriate Application
 
-Even if the first two preconditions were met, parsimony would need epistemic warrant in the relevant domain. As [Huemer's four accounts](#Four%20Accounts%20of%20Why%20Parsimony%20Works) demonstrate, none of the standard justifications extends to metaphysical theory choice. A deeper worry runs beneath the domain question: the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) gives formal grounds to doubt that the cognitive system *generating* simplicity intuitions tracks truth at all, since natural selection tunes perception to fitness rather than veridicality — a debunker that cuts equally against dualist intuitions, as [the concept page concedes and answers](/concepts/fitness-beats-truth/#contestation-and-limits). The live alternative is mathematical-structural parsimony (Tegmark, Deutsch): elegance of fundamental formalism as a guide to metaphysical truth. But that proposal presupposes a unified formalism across competing metaphysics — exactly what is disputed when physicalists and dualists disagree on whether consciousness belongs in the formalism at all.
+Even if the first two preconditions were met, parsimony would need epistemic warrant in the relevant domain. As [Huemer's four accounts](#four-accounts-of-why-parsimony-works) demonstrate, none of the standard justifications extends to metaphysical theory choice. A deeper worry runs beneath the domain question: the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) gives formal grounds to doubt that the cognitive system *generating* simplicity intuitions tracks truth at all, since natural selection tunes perception to fitness rather than veridicality — a debunker that cuts equally against dualist intuitions, as [the concept page concedes and answers](/concepts/fitness-beats-truth/#contestation-and-limits). The live alternative is mathematical-structural parsimony (Tegmark, Deutsch): elegance of fundamental formalism as a guide to metaphysical truth. But that proposal presupposes a unified formalism across competing metaphysics — exactly what is disputed when physicalists and dualists disagree on whether consciousness belongs in the formalism at all.
 
 ### Why the Triple Failure Matters
 
@@ -140,7 +140,7 @@ The [von Neumann-Wigner interpretation](/concepts/von-neumann-wigner-interpretat
 
 ## Swinburne's Reversal
 
-Richard Swinburne offers a provocative inversion: in certain respects, dualism is *simpler* than physicalism. Physicalism's need to explain how consciousness arises from physical processes has generated the proliferation of incompatible theories [catalogued above](#Three%20Dimensions%20of%20Simplicity) to bridge the [explanatory-gap](/concepts/explanatory-gap/), the proliferation itself evidence of explanatory strain. Dualism takes consciousness at face value, requiring [psychophysical laws](/concepts/psychophysical-laws/) but not needing to explain consciousness away.
+Richard Swinburne offers a provocative inversion: in certain respects, dualism is *simpler* than physicalism. Physicalism's need to explain how consciousness arises from physical processes has generated the proliferation of incompatible theories [catalogued above](#three-dimensions-of-simplicity) to bridge the [explanatory-gap](/concepts/explanatory-gap/), the proliferation itself evidence of explanatory strain. Dualism takes consciousness at face value, requiring [psychophysical laws](/concepts/psychophysical-laws/) but not needing to explain consciousness away.
 
 Ontological parsimony still favours physicalism; Swinburne's reversal claims that on explanatory adequacy — the dimension he takes to be most relevant to consciousness — dualism has the advantage, a contention the [positive parsimony case](/topics/parsimony-case-for-interactionist-dualism/) develops systematically rather than a verdict this page reaches. A deeper self-referential problem haunts the question, explored by the [parsimony void](/voids/epistemological-limits-occams-razor/): judging whether parsimony is reliable requires parsimony-independent access to the truth — the very thing under dispute.
 
@@ -164,7 +164,7 @@ Each is an active research programme; the argument is conditional on the present
 
 The Map's fifth tenet — [Occam's Razor Has Limits](/tenets/#occams-limits) — is grounded directly in parsimony epistemology. The tenet does not reject parsimony wholesale; it identifies the conditions under which parsimony loses epistemic force and argues that the consciousness debate satisfies them. [Metaontological deflationism](/concepts/composition-question-rivals/#metaontological-deflationism) is the limiting case of distrusting simplicity-as-tiebreaker — dissolving the existence dispute as shallow rather than merely preferring the leaner ontology — a move the fifth tenet resists where consciousness is at stake.
 
-One standard objection to [interactionist-dualism](/concepts/interactionist-dualism/) is parsimony-based: physicalism posits fewer substance types, therefore prefer it. Parsimony is not the whole of the physicalist case, and not every physicalist position rests on it. Eliminativism and illusionism dispute that there is first-person phenomenal data of the relevant kind to explain; reductive phenomenal realism, [phenomenal-concept strategies](/concepts/phenomenal-concepts-strategy/), representationalism, and nonreductive physicalism accept the first-person data as genuine and contest instead the Map's specification of its content and metaphysical implications, a division [the epistemology page](/concepts/epistemology/#epistemic-assumptions-that-determine-conclusions) sets out in detail. The parsimony argument engages only the part of that field which grants the data and then reaches for simplicity as a tie-breaker. Even there it rests on the three preconditions [examined above](#The%20Triple%20Failure%20in%20Consciousness), each of which fails under scrutiny and has been conceded in part by materialists themselves.
+One standard objection to [interactionist-dualism](/concepts/interactionist-dualism/) is parsimony-based: physicalism posits fewer substance types, therefore prefer it. Parsimony is not the whole of the physicalist case, and not every physicalist position rests on it. Eliminativism and illusionism dispute that there is first-person phenomenal data of the relevant kind to explain; reductive phenomenal realism, [phenomenal-concept strategies](/concepts/phenomenal-concepts-strategy/), representationalism, and nonreductive physicalism accept the first-person data as genuine and contest instead the Map's specification of its content and metaphysical implications, a division [the epistemology page](/concepts/epistemology/#epistemic-assumptions-that-determine-conclusions) sets out in detail. The parsimony argument engages only the part of that field which grants the data and then reaches for simplicity as a tie-breaker. Even there it rests on the three preconditions [examined above](#the-triple-failure-in-consciousness), each of which fails under scrutiny and has been conceded in part by materialists themselves.
 
 When the preconditions for applying a principle are unmet, invoking it is a category error. The question must be settled on other grounds: explanatory power, phenomenological evidence, the [knowledge argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/philosophical-zombies/), and the coherence of the broader theoretical framework. On those grounds, the Map argues, dualism prevails. The [positive parsimony case](/topics/parsimony-case-for-interactionist-dualism/) goes further, arguing that once all dimensions of simplicity are counted parsimony itself favours interactionist dualism; that is its contention, not a conclusion drawn here. This page's claim stays defensive, as the fifth tenet requires: parsimony lacks the standing to settle the question in either direction.
 

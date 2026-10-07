@@ -4,7 +4,7 @@ description: "Causal powers are intrinsic capacities of properties to produce ef
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-02T20:08:52+00:00
+ai_modified: 2026-10-07T23:49:59+00:00
 draft: false
 topics:
   - "[[consciousness-and-causal-powers]]"
@@ -68,7 +68,7 @@ Can higher-level entities possess causal powers not reducible to the powers of t
 
 **Reductive views** hold that all causal powers ultimately reduce to fundamental physical powers. Higher-level talk of powers is convenient shorthand, but the real causal work happens at the micro-level. Consciousness might *seem* to possess powers, but these reduce to neural powers, which reduce to chemical powers, which reduce to quantum field powers.
 
-The Map's commitment to [[interactionist-dualism#^bidirectional-interaction|bidirectional interaction]] requires rejecting full reduction. If consciousness can select among quantum outcomes in neural systems, then phenomenal states possess causal powers that are not simply sums of physical powers. This doesn't require violating microphysical laws—consciousness operates *within* the space of quantum indeterminacy—but it does require that mental properties bring something causally novel to the table.
+The Map's commitment to [[tenets#^bidirectional-interaction|bidirectional interaction]] requires rejecting full reduction. If consciousness can select among quantum outcomes in neural systems, then phenomenal states possess causal powers that are not simply sums of physical powers. This doesn't require violating microphysical laws—consciousness operates *within* the space of quantum indeterminacy—but it does require that mental properties bring something causally novel to the table.
 
 ## Relation to Site Perspective
 

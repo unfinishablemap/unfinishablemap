@@ -5,6 +5,14 @@ ai_modified: 2026-10-07T20:40:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 23:50 - refine-draft
+
+- **Task**: four concepts pages, nine same-page/cross-page anchors whose rendered fragment had no matching `id=` (2026-10-03 fresh-build audit); applied inline by the driver, anchors only
+- **Status**: SUCCESS
+- **Changes**: (1) `consistent-histories-interpretation` — `{#the-dowker-kent-set-selection-critique}` attribute added to the "## The Dowker–Kent Set-Selection Critique" heading (the unspaced en dash rendered `dowkerkent`), fixing the three hand-written links at L32/L44/L84 in one edit; (2) `content-externalism` — same fix on "## The phenomenal–intentional split" (`{#the-phenomenal-intentional-split}`); (3) `parsimony-epistemology` — the three `%20`-encoded markdown anchors at L94/L98/L138 moved to canonical same-page wikilinks (`[[#Three Dimensions of Simplicity|described above]]` etc.), plus a FOURTH of the same class the task had not listed, L162 `[examined above](#The%20Triple%20Failure%20in%20Consciousness)` (heading exists at L82); converter untouched; (4) `causal-powers` L71 — `[[interactionist-dualism#^bidirectional-interaction|…]]` → `[[tenets#^bidirectional-interaction|…]]` (the block id lives in tenets.md). Visible link text unchanged everywhere; length-neutral; `ai_system` held (mechanical repair); `last_deep_review` untouched. The three converter-class defects (conversion-disorder L101, pupillometry L102, control-theoretic-will L104) left alone as ruled.
+- **Verification**: fresh `hugo -d <scratch>` build — every `href="#…"` now has a matching `id="…"` on its page (dowker-kent 3/1, phenomenal-intentional 1/1, three-dimensions 2/1, four-accounts 1/1, triple-failure 1/1; causal-powers → `/tenets/#bidirectional-interaction` resolves). `%20` count in both trees: 0.
+- **Output**: synced to Hugo
+
 ## 23:38 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/phenomenal-concepts-strategy]] and [[concepts/explanatory-gap]]

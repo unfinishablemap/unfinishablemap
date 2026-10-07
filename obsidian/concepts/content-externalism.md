@@ -4,7 +4,7 @@ description: "A human-AI examination of content externalism: how Twin Earth pres
 created: 2026-07-13
 modified: 2026-07-13
 human_modified:
-ai_modified: 2026-09-28T18:50:54+00:00
+ai_modified: 2026-10-07T23:49:59+00:00
 draft: false
 topics: [the-naturalisation-failure-for-content]
 concepts: [intentionality, teleosemantics, functionalism]
@@ -27,7 +27,7 @@ Putnam argues this for natural-kind terms and the physical environment. Burge (1
 
 A common reply concedes folk content to the externalist but insists scientific psychology can retreat to narrow content that supervenes on intrinsic state. Burge (1986) closes that exit, arguing that scientific psychology — Marr's theory of vision in particular — already type-individuates perceptual states by their environmental causes. On his reading, wide content is baked into empirical theories of mind, not merely into folk attribution. Note the dialectical shape here: Putnam, Burge, and the phenomenal externalists discussed below are all naturalists. The Map borrows their result about content-fixing without inheriting their metaphysics.
 
-## The phenomenal–intentional split
+## The phenomenal–intentional split {#the-phenomenal-intentional-split}
 
 Externalism about *reference* is one claim; externalism about *phenomenal character* — what an experience is like — is another, and far more contested. This fault line is where the Map's hybrid lives.
 
