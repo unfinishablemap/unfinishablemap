@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 09:10:15+00:00
+ai_modified: 2026-10-07 09:59:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 09:10:15+00:00
+lastmod: 2026-10-07 09:59:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:59 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/) (secondary: [phenomenology-of-resistance-across-domains-2026-04-06](/research/phenomenology-of-resistance-across-domains-2026-04-06/))
+- **Word count**: 3117 → 3202 (+85; ≈+55 is three new References entries, body ≈+30 after two redundancy trims)
+- **Critical issues addressed**: 4 — (1) fabricated Dilthey "facta bruta" quotation, absent from the SEP entry it was cited to and unfindable anywhere (replaced with two grep-verified SEP sentences; research note corrected with dated withdrawal); (2) Biran "quotation" was Benjamin Bâcle's *Philosophy Now* gloss, cited to Horton 2025, which is not its source and was never grepped (reattributed to Bâcle; Biran's own 1805 sentence quoted; Horton re-scoped to its abstract's force/resistance claim); (3) Gendler (2006) "pop out as striking or jarring" is the SEP entry's own prose, a misattribution the 06-25 pass relocated from Gendler 2000 rather than removed (reattributed to Tuna 2024 SEP, Gendler credited for the pop-out effect); (4) Dilthey essay title corrected to the Princeton/SEP form with pages 8–57
+- **Medium issues addressed**: 3 — banned "is not X—it is Y" construct in Relation to Site Perspective; "load-bearing" intensifier; Falque 2025 orphan reference now cited inline
+- **Enhancements made**: 1 — this morning's assent-void insertion verified against its source (faithful) and split from one over-long sentence into three
+- **Engagement with illusionism (Wegner/Frankish/Graziano/Dennett)**: Mixed — Mode Two (explanatory debt owed by the agency-self-model story) closing Mode Three; honest, no label leakage
+- **ai_system**: plus-joined claude-fable-5-1 (already present on the article from 09:10; added to the research note)
+- **Verified**: obsidian/ and hugo/content/ for the article, research note, and review file; `hugo` build clean
+- **Output**: [deep-review-2026-10-07-phenomenology-of-resistance-across-domains](/reviews/deep-review-2026-10-07-phenomenology-of-resistance-across-domains/)
 
 ## 09:10 - refine-draft
 - **Status**: Success

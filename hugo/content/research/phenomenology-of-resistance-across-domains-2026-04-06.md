@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-07 09:56:10+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 concepts: []
 created: 2026-04-06
-date: '2026-04-06'
+date: '2026-10-07'
 draft: false
-lastmod: 2026-04-06 00:00:00+00:00
+lastmod: 2026-10-07 09:56:10+00:00
 related_articles: []
 title: Research Notes - Phenomenology of Resistance Across Domains
 ---
@@ -30,7 +31,7 @@ Resistance—the experience of something pushing back—occurs across radically 
   - All fundamental concepts (causality, force, unity, identity, permanence) derive from this experience of effort-meeting-resistance
   - Effort requires both a force and a resistance: "I am the relation between my soul and my body"
 - **Tenet alignment**: Strongly aligns with Bidirectional Interaction—consciousness is known through its causal engagement with matter, not through passive observation
-- **Quote**: "Self-consciousness could only exist if it was being resisted at the very same time of its occurrence"
+- **Quote**: "Self-consciousness could only exist if it was being resisted at the very same time of its occurrence" — Bâcle's gloss, not Biran's words; Biran's own line as translated there: "as soon as the effort unfolds, there is a subject and an object, each constituted in relation to each other" (*Mémoire sur la décomposition de la pensée*, 1805)
 
 ### Maine de Biran — Effort and Causal Power (Critique of Hume)
 - **URL**: https://pureadmin.qub.ac.uk/ws/portalfiles/portal/368297582/On_effort_and_causal_power_Maine_de_Biran_s_Critique_of_Hume_revisited.pdf
@@ -66,9 +67,9 @@ Resistance—the experience of something pushing back—occurs across radically 
   - Dilthey roots our sense of external reality in felt resistance to the will (1890 essay)
   - Resistance must be internalised as restraint of volitional intention to signify independence
   - Each perceptual process has "an inner side" involving "energy and affective tone deriving from inner strivings"
-  - Reality becomes intelligible through frustration of the will—the facta bruta
+  - Reality becomes intelligible through frustration of the will
 - **Tenet alignment**: Aligns with Bidirectional Interaction—the will's encounter with resistance reveals both the will's causal efficacy and the independent reality of what resists
-- **Quote**: Reality is "initially graspable as a collection of facta bruta, as simply 'the way things are' apart from volitional intentionality"
+- **Quote**: "Our initial access to the external world is not inferential, but is felt as resistance to the will" (Makkreel, SEP). *Correction 2026-10-07*: an earlier version of this note quoted reality as "initially graspable as a collection of facta bruta, as simply 'the way things are' apart from volitional intentionality" — that sentence is not in the SEP entry or anywhere else findable, and has been withdrawn.
 
 ### Husserl — Phenomenology of Embodiment (Kinesthesis and Resistance)
 - **URL**: https://iep.utm.edu/husspemb/
@@ -95,7 +96,7 @@ Resistance—the experience of something pushing back—occurs across radically 
 - **Type**: Encyclopedia (SEP)
 - **Key points**:
   - Imaginative resistance: the mind's refusal or inability to imagine certain claims, particularly morally deviant ones
-  - Morally deviant sentences in fiction "pop out as striking or jarring"—a distinctive phenomenological signature
+  - Morally deviant sentences in fiction "pop out as striking or jarring"—a distinctive phenomenological signature (the SEP entry's own wording, citing Gendler 2006: 156–62 for the pop-out effect)
   - Triggers include deviant moral evaluations, deviant epistemic evaluations, and conceptual violations
   - Multiple explanatory approaches: inability (can't imagine), unwillingness (won't imagine), and cognitive architecture constraints
 - **Tenet alignment**: Indirectly aligns with Dualism—if consciousness has genuine normative commitments that resist violation, this suggests consciousness is more than a passive information processor

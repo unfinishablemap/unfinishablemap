@@ -4,8 +4,8 @@ description: "Resistance—felt pushback from objects, logic, morality, imaginat
 created: 2026-04-16
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-10-07T09:10:15+00:00
-last_deep_review: 2026-06-25T15:57:00+00:00
+ai_modified: 2026-10-07T09:58:37+00:00
+last_deep_review: 2026-10-07T09:58:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -39,7 +39,7 @@ The Unfinishable Map proposes that this common signature is philosophically sign
 
 ## Six Domains of Resistance
 
-Resistance comes in at least six recognisably distinct modes, each with its own phenomenological character. The six domains differ genuinely in what they resist and how the pushback feels; what matters philosophically is that each mode exhibits the same core structure—directed effort encountering constraint—while the object of resistance varies.
+Resistance comes in at least six recognisably distinct modes, each with its own phenomenological character and its own object.
 
 ### Physical Resistance
 
@@ -55,11 +55,11 @@ Moral obligation pushes back against competing desires with what Maurice Mandelb
 
 ### Imaginative Resistance
 
-Kendall Walton (1994) and Tamar Gendler (2000) identified a distinctive puzzle: readers can imagine wildly counterfactual fictional scenarios (dragons, wizards, parallel histories) yet stumble when fiction asks them to accept morally deviant evaluations as correct within the story. A story can state that torturing a child for fun was the right thing to do, and the mind does not simply comply. According to Gendler (2006), morally deviant sentences in fiction "pop out as striking or jarring"—they have "an odd 'feel' that other sentences don't have." The resistance is phenomenological, not merely inferential: the imagination refuses, or can only pretend to comply.
+Kendall Walton (1994) and Tamar Gendler (2000) identified a distinctive puzzle: readers can imagine wildly counterfactual fictional scenarios (dragons, wizards, parallel histories) yet stumble when fiction asks them to accept morally deviant evaluations as correct within the story. A story can state that torturing a child for fun was the right thing to do, and the mind does not simply comply. The *Stanford Encyclopedia* entry states the phenomenological puzzle this way: the morally deviant sentence "pops out as striking or jarring" and "has an odd 'feel' that the other sentences in the story don't" (Tuna 2024, pointing to Gendler 2006 on the pop-out effect). The resistance is phenomenological, not merely inferential: the imagination refuses, or can only pretend to comply.
 
 ### Epistemic Resistance
 
-Beliefs resist voluntary revision. One cannot simply decide to believe it is raining when the sky is clear. The mind's doxastic states are responsive to evidence, not to will—a constraint philosophers call doxastic involuntarism. The felt character is distinctive: the attempt to believe-at-will encounters something that refuses to move. This resistance is recalcitrant in the specific sense that it will not budge for any amount of volitional pressure, however it may yield over time to gradually accumulating evidence. Two things should be kept apart here: what is felt is the frustration of a failed attempt to *revise* a standing belief, while the mechanism that holds the belief stable is not itself felt, and the initial *acquisition* of a belief is a different case—there, as the [[assent-void|assent void]] records, the attempt finds nothing to push on, an absence rather than a pushback.
+Beliefs resist voluntary revision. One cannot simply decide to believe it is raining when the sky is clear. The mind's doxastic states are responsive to evidence, not to will—a constraint philosophers call doxastic involuntarism. The felt character is distinctive: the attempt to believe-at-will encounters something that refuses to move. This resistance is recalcitrant in the specific sense that it will not budge for any amount of volitional pressure, however it may yield over time to gradually accumulating evidence. Two things should be kept apart here. What is felt is the frustration of a failed attempt to *revise* a standing belief; the mechanism that holds the belief stable is not itself felt. And the initial *acquisition* of a belief is a different case: there, as the [[assent-void|assent void]] records, the attempt finds nothing to push on—an absence rather than a pushback.
 
 ### Material Resistance in Skilled Practice
 
@@ -73,13 +73,13 @@ A single integrative thread runs through the philosophical literature on resista
 
 Biran argued that self-consciousness does not arise from passive introspection—from the mind simply noticing itself. It arises from the encounter between volitional effort and something that resists that effort. Before there is any "I" distinct from the world, there is a primitive fact: a striving meets a pushback, and in that encounter the distinction between agent and object is born.
 
-According to Biran, "self-consciousness could only exist if it was being resisted at the very same time of its occurrence" (as quoted in Horton 2025). Our fundamental concepts—causality, force, identity, permanence—derive, on this view, from this originating experience of effort-meeting-resistance. The first-person knowledge of causation is not inferred from observed regularities (as Hume supposed) but given directly in the phenomenology of acting against constraint.
+In Benjamin Bâcle's gloss, "self-consciousness could only exist if it was being resisted at the very same time of its occurrence – by the body, or by an external object" (Bâcle 2019); Biran's own formulation, from the *Mémoire sur la décomposition de la pensée* (1805), is that "as soon as the effort unfolds, there is a subject and an object, each constituted in relation to each other" (as translated in Bâcle 2019). Effort involves both a force and a resistance, which is why Biran can say that the self *is* the relation between soul and body (Horton 2025, drawing on Falque 2025). Our fundamental concepts—causality, force, identity, permanence—derive, on this view, from this originating experience of effort-meeting-resistance. The first-person knowledge of causation is not inferred from observed regularities (as Hume supposed) but given directly in the phenomenology of acting against constraint.
 
-Wilhelm Dilthey, in his 1890 essay on the origin of our belief in the reality of the external world, extended this thread. For Dilthey, reality is "initially graspable as a collection of facta bruta, as simply 'the way things are' apart from volitional intentionality" (Makkreel's reconstruction of Dilthey, Stanford Encyclopedia of Philosophy). What persuades us that anything exists outside us is the experience of our will being thwarted. If nothing ever resisted, there would be no phenomenological purchase for the distinction between self and world at all.
+Wilhelm Dilthey, in his 1890 essay on the origin of our belief in the reality of the external world, extended this thread. In Makkreel's reconstruction, for Dilthey "our initial access to the external world is not inferential, but is felt as resistance to the will," and that resistance "must be internalized as a restraint of a volitional intention for it to signify the existence of something independent" (Makkreel 2020). What persuades us that anything exists outside us is the experience of our will being thwarted. If nothing ever resisted, there would be no phenomenological purchase for the distinction between self and world at all.
 
 Husserl, in his analyses of kinesthesis in *Ideas II*, located resistance at the heart of how the lived body (*Leib*) becomes aware of itself as body in a world. Merleau-Ponty developed this further, showing that the body's pre-reflective encounter with resistance in motor action precedes both intellectualist and empiricist construals of perception. These thinkers did not unify resistance across all six domains—that integration remains a gap in the literature—but they established that resistance in the narrow embodied sense is phenomenologically primary, not secondary to perception or cognition.
 
-The Biranian tradition is thus a narrow but load-bearing thread: resistance is not merely one phenomenon among many but the structural feature through which the self/world distinction becomes available at all.
+The Biranian tradition is thus a narrow but indispensable thread: resistance is not merely one phenomenon among many but the structural feature through which the self/world distinction becomes available at all.
 
 ## Common Signatures
 
@@ -91,7 +91,7 @@ Second, and more narrowly, **graded yielding**. In four domains—physical, mate
 
 Third, and with the same caveat, **asymmetric temporality**. In the four effortful domains, resistance is encountered in the present while its yielding unfolds across time: sustained effort gradually accomplishes what a single surge cannot. This is as true of the sculptor's chisel as of the attempt to change one's own belief, as true of motor learning as of overcoming a moral aversion. Logical and imaginative resistance do not share this temporal structure in the same way. The logical "no" and the imaginative "jar" are typically simultaneous with the attempt rather than eroded by it—what shifts over time is one's conceptual framing or one's willingness to engage, not the resistance itself.
 
-What the six domains uniformly share, then, is directedness-meeting-constraint. The finer-grained features—graded yielding and sustained temporal structure—recur robustly across four domains (physical, material, moral, epistemic) but not across all six. A unified phenomenology of resistance can therefore offer two claims of different strength. The weaker claim—that every case of resistance involves a directed consciousness meeting what is not under its immediate control—holds universally but supplies only limited inferential weight: any cognitive-effort phenomenon fits it at this level of abstraction. The stronger claim—that resistance has the structure of effort-over-time against a graded counterforce—holds for a robust subset that still includes the four domains where consciousness most plausibly acts on something external to itself. For the Map's purposes, the stronger claim is the relevant one: interface friction is modelled on the effortful-resistance signature, not on the binary-refusal or jarring-admission varieties. Logical and imaginative resistance belong in the broader phenomenology of constraint, but they are probably not variants of the same effort-encounter that the Biranian thread is tracking.
+A unified phenomenology of resistance can therefore offer two claims of different strength. The weaker claim—that every case of resistance involves a directed consciousness meeting what is not under its immediate control—holds universally but supplies only limited inferential weight: any cognitive-effort phenomenon fits it at this level of abstraction. The stronger claim—that resistance has the structure of effort-over-time against a graded counterforce—holds for a robust subset that still includes the four domains where consciousness most plausibly acts on something external to itself. For the Map's purposes, the stronger claim is the relevant one: interface friction is modelled on the effortful-resistance signature, not on the binary-refusal or jarring-admission varieties. Logical and imaginative resistance belong in the broader phenomenology of constraint, but they are probably not variants of the same effort-encounter that the Biranian thread is tracking.
 
 ## The Deflationary Challenge
 
@@ -109,7 +109,7 @@ This article does not settle the debate between realist and illusionist readings
 
 ## Relation to Site Perspective
 
-The Map's own concept of [[interface-friction]] is, on the reading proposed here, one instance of a broader phenomenon. Friction at the mind-brain interface is a special case of resistance: consciousness directing neural selection encounters the constraints of bandwidth, decoherence timing, and coupling imprecision. The cross-domain view suggests that this interface friction is not an anomaly requiring a special explanation—it is what Biran and Dilthey taught us to expect wherever consciousness is directed at something it does not simply generate from itself.
+The Map's own concept of [[interface-friction]] is, on the reading proposed here, one instance of a broader phenomenon. Friction at the mind-brain interface is a special case of resistance: consciousness directing neural selection encounters the constraints of bandwidth, decoherence timing, and coupling imprecision. On the cross-domain view, interface friction is what Biran and Dilthey taught us to expect wherever consciousness is directed at something it does not simply generate from itself, rather than an anomaly requiring a special explanation.
 
 **[[tenets#^dualism|Dualism]]**: The cross-domain unity of resistance phenomenology is more naturally explained on a dualist ontology than on a strict materialism. If consciousness is one thing and the domains it encounters (physical objects, logical necessities, moral demands, fictional propositions, evidential states, material affordances) are genuinely distinct kinds of "other," then a common resistance signature across these domains is exactly what we should expect: a single consciousness meeting six different kinds of not-consciousness. Materialism has to explain why a physical system generates the *same* phenomenal signature for encounters with its own internal constraints, with external objects, and with abstract or normative entities that have no obvious physical location.
 
@@ -134,8 +134,9 @@ One tension deserves explicit acknowledgement. Merleau-Ponty, the phenomenologis
 
 ## References
 
+1. Bâcle, B. (2019). Maine de Biran (1766–1824). *Philosophy Now*, 133. https://philosophynow.org/issues/133/Maine_de_Biran_1766-1824
 1. Dennett, D. C. (2017). *From Bacteria to Bach and Back: The Evolution of Minds*. W. W. Norton.
-1. Dilthey, W. (1890/2010). Contributions to the Solution of the Question of the Origin of Our Belief in the Reality of the External World. In *Understanding the Human World: Selected Works*, Vol. II. Trans. Makkreel & Rodi. Princeton University Press.
+1. Dilthey, W. (1890/2010). The Origin of Our Belief in the Reality of the External World and Its Justification. In *Understanding the Human World: Selected Works*, Vol. II (pp. 8–57). Eds. Makkreel & Rodi. Princeton University Press.
 1. Falque, E. (2025). *Spiritualism and Phenomenology: The Case of Maine de Biran*. Trans. S. Horton. Cascade Books (Wipf and Stock).
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Gendler, T. S. (2000). The Puzzle of Imaginative Resistance. *Journal of Philosophy*, 97(2), 55–81.
@@ -144,8 +145,10 @@ One tension deserves explicit acknowledgement. Merleau-Ponty, the phenomenologis
 1. Heidegger, M. (1927/1962). *Being and Time*. Trans. Macquarrie & Robinson. Harper & Row.
 1. Horton, S. (2025). Alienation and Self-Knowledge in Maine de Biran. *Journal for Continental Philosophy of Religion*, 7(1), 66–88.
 1. Husserl, E. (1952/1989). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*. Trans. Rojcewicz & Schuwer. Kluwer.
+1. Makkreel, R. (2020). Wilhelm Dilthey. *Stanford Encyclopedia of Philosophy* (Fall 2020 revision). https://plato.stanford.edu/entries/dilthey/
 1. Mandelbaum, M. (1955). *The Phenomenology of Moral Experience*. Free Press.
 1. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Trans. Smith. Routledge.
+1. Tuna, E. H. (2024). Imaginative Resistance. *Stanford Encyclopedia of Philosophy* (Fall 2024 revision). https://plato.stanford.edu/entries/imaginative-resistance/
 1. Walton, K. (1994). Morals in Fiction and Fictional Morality. *Proceedings of the Aristotelian Society*, Supp. Vol. 68, 27–50.
 1. Wegner, D. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Interface Friction. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-friction/
