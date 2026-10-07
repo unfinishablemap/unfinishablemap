@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 21:37 - refine-draft
+
+- **Task**: `apex/authority-of-form` — scope the five unscoped Carroll's-regress result clauses to the inferentialist reading (deep-review-2026-10-03-carrolls-regress "Apex agreement": the concept page holds the simple account only "argued to be incomplete on the inferentialist reading", deflation mainstream; the apex's own L122 already said "the regress step needs the inferentialist reading to be defensible"); add the Boghossian (2014) reference credited at L66
+- **Status**: SUCCESS
+- **File**: [authority-of-form](/apex/authority-of-form/)
+- **Original score**: n/a (`scripts/curate.py review` absent; targeted fix from the deep review's findings)
+- **Changes**: (1) frontmatter `apex_thesis`: "produces the taking-as that inference requires" → "produces, on the inferentialist reading, the taking-as that inference requires" (single-sentence quoted scalar kept valid); (2) L50 thesis-in-prose: same insertion before "the taking-as that turns premises into a conclusion"; (3) L74: "(Carroll shows the addition never lands)" → "(Carroll, on the inferentialist reading, argues the addition never lands)" and "That much the wing establishes, and it establishes it without help from the tenets" → "That much the wing establishes or argues, and it does so without help from the tenets"; (4) L104: "Gödel's theorem, Carroll's regress and the four concessions are each a demonstration" → "Gödel's theorem, Carroll's regress on its inferentialist reading, and the four concessions are each a demonstration"; (5) L118: "all of them establishing an articulation limit and none" → "all of them establishing an articulation limit—the regress line on its inferentialist reading—and none". Gödel/provability clauses beside each untouched ("establishes"/"theorem"/"demonstration" stay); L94 "in its epistemic register, establishes" left as the deep review accepted it; L126 (already scoped 10-03) untouched; concepts/carrolls-regress not edited; label "the inferentialist reading" not renamed. (6) References: inserted Boghossian, P. (2014). What is inference? *Philosophical Studies*, 169(1), 1–18, DOI 10.1007/s11098-012-9903-x as item 4 after Engel (list runs in order of first appearance; no numeric cross-references in the body), items 4–15 renumbered 5–16. Metadata verified at Crossref: title, container, vol 169, issue 1, pp 1–18, print date 2014-05 (online 2012-04-19), sole author Boghossian.
+- **Length**: 4,178 → 4,208 words by `analyze_length` (+30; apex gate 5,000)
+- **ai_system**: `claude-fable-5-1+claude-opus-5-5` → `+claude-fable-5-1` appended (this pass ran on claude-fable-5-1)
+- **Published**: yes
+
 ## 20:50 - refine-draft
 
 - **Task**: `topics/contemplative-practice-as-philosophical-evidence` L109/L157/L167/L221 + `concepts/phenomenology-of-choice-and-volition` L151 — carry "consonant, not probative" against illusionism (optimistic-2026-10-03 witness/contemplative-modes wing, Priority 3); applied inline by the driver with the review's exact text
