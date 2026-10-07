@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 18:57:01+00:00
+ai_modified: 2026-10-07 19:06:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 18:57:01+00:00
+lastmod: 2026-10-07 19:06:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 19:06 - refine-draft
+
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Source**: todo P3 from research note `research/primitive-identities-and-strong-necessities-2026-10-03` Corpus Seams item 1 (its verified-quote ledger L92–L110)
+- **Word count**: 3126 → 3216 (+90; concepts gate 3,500, headroom 283)
+- **Quote verification** (consc.net author's versions, `pdftotext`/HTML-stripped, flattened, `grep -ciF`): "while I accept this observation, it is inessential to the argument" — modality.html 1 hit (modality.pdf is a 6-page/8,101-word file that does not contain §3; 0 hits there). "This claim is not required for the argument to go through, but it is plausible and makes things more straightforward" — nature.pdf 1 / nature.html 1. "the only hope for the type-B materialist" — nature.pdf 1 / nature.html 1 (full sentence: "…is to deny the central thesis (ii)"). Loar clause (b): Chalmers 1999 §3.4 (position between the §3.4 and §3.5 headings), "Loar appeals to two facts about phenomenal concepts: they are (a) recognitional concepts that (b) express the same property that they refer to … noting that phenomenal concepts have the same primary and secondary intension".
+- **Changes** (Two-Dimensional Semantics section only; response map L62–94, L112, L132 untouched):
+  - Para 1: "The key move: for phenomenal concepts, the primary and secondary intensions coincide. When we think about "pain," … there's no gap …" → "For phenomenal concepts, Chalmers observes, the primary and secondary intensions plausibly coincide: when we think about "pain," … so there is no gap …. He counts this a simplifying observation, "inessential to the argument" (1999, §3.1) and "not required for the argument to go through" (2003, §6)."
+  - Para 2 opener: "This blocks the standard Type-B escape." → "If it holds, this blocks the standard Type-B escape." (water/H₂O contrast retained as what coincidence buys when it holds).
+  - Para 3 rewritten: dropped "load-bearing premise" and the claim that the phenomenal-concepts strategy denies coincidence. Now names the real load (step from primary conceivability to primary possibility; thesis that a conceivable statement is verified by some centred world), the Type-B resistance (positing strong necessities, piped link `[[primitive-identities-and-strong-necessities#Strong Necessities|strong necessities]]` — first link to that page from this article), the "only hope" quote (2003, §6), and PCS's actual move (explains the epistemic gap via the special nature of phenomenal concepts; Loar grants coincidence, 1999 §3.4). Pointer to "Why the Argument Has Been Hard to Defeat" kept. Calibration kept at *compatible*: "remains contested", no refutation language.
+- **References**: added Chalmers (1999) "Materialism and the Metaphysics of Modality", *PPR* 59(2), 473–496, DOI 10.2307/2653685 (chronological slot between 1996 and 2002). Chalmers 2003 was already listed.
+- **Published**: yes
 
 ## 18:57 - deep-review
 

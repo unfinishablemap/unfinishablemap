@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-07 15:50:17+00:00
+ai_modified: 2026-10-07 19:06:19+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-10-07 15:50:17+00:00
+lastmod: 2026-10-07 19:06:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,11 +99,11 @@ Type-Q is Chalmers's own label for the Quinean physicalist who rejects the disti
 
 ## Two-Dimensional Semantics and the Master Argument
 
-Chalmers sharpened the master argument using two-dimensional semantics, distinguishing between *primary intensions* — what a concept picks out given how the actual world turns out — and *secondary intensions* — what it picks out as a matter of metaphysical necessity. The key move: for phenomenal concepts, the primary and secondary intensions coincide. When we think about "pain," what we mean (the qualitative feel) is the same across all possible worlds — there's no gap between how we conceive of pain and what pain is.
+Chalmers sharpened the master argument using two-dimensional semantics, distinguishing between *primary intensions* — what a concept picks out given how the actual world turns out — and *secondary intensions* — what it picks out as a matter of metaphysical necessity. For phenomenal concepts, Chalmers observes, the primary and secondary intensions plausibly coincide: when we think about "pain," what we mean (the qualitative feel) is the same across all possible worlds, so there is no gap between how we conceive of pain and what pain is. He counts this a simplifying observation, "inessential to the argument" (1999, §3.1) and "not required for the argument to go through" (2003, §6).
 
-This blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. The master argument's claim is that with consciousness no such gap opens: if zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible, unless the [type-F exit](#type-f-monism-deny-non-entailment) above is taken.
+If it holds, this blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. The master argument's claim is that with consciousness no such gap opens: if zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible, unless the [type-F exit](#type-f-monism-deny-non-entailment) above is taken.
 
-This coincidence of intensions is the load-bearing premise, and it is exactly what the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) denies — holding that the *appearance* of coincidence is an artefact of how phenomenal concepts represent their referents rather than a feature of consciousness itself. The step is therefore contested rather than settled; the argument's force here is conditional on the coincidence holding, and the [PCS engagement below](#why-the-argument-has-been-hard-to-defeat) takes up that denial directly.
+The weight falls on the second step: the move from primary conceivability to primary possibility, Chalmers's thesis that a conceivable statement is verified by some centred world. A Type-B physicalist who grants conceivability can resist only by positing [strong necessities](/concepts/primitive-identities-and-strong-necessities/#strong-necessities); denying that thesis is "the only hope for the type-B materialist" (2003, §6). The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) is the main attempt to make such resistance principled: it explains the epistemic gap by the special nature of phenomenal concepts, and need not deny the coincidence — Loar's version grants that phenomenal concepts have the same primary and secondary intension (1999, §3.4). Whether that explanation avoids special pleading remains contested; the [PCS engagement below](#why-the-argument-has-been-hard-to-defeat) takes it up directly.
 
 ## Why the Argument Has Been Hard to Defeat
 
@@ -148,6 +148,7 @@ The master argument also supports [Tenet 5 (Occam's Razor Has Limits)](/tenets/#
 ## References
 
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+1. Chalmers, D. (1999). "Materialism and the Metaphysics of Modality." *Philosophy and Phenomenological Research*, 59(2), 473–496. https://doi.org/10.2307/2653685
 1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In T. Gendler & J. Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
 1. Chalmers, D. (2003). "Consciousness and Its Place in Nature." In S. P. Stich & T. A. Warfield (eds.), *The Blackwell Guide to Philosophy of Mind* (pp. 102–142). Blackwell. https://doi.org/10.1002/9780470998762.ch5 (first printed 2002 in D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford University Press)
 1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge* (pp. 167–194). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
