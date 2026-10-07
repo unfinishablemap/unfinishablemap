@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T09:59:07+00:00
+ai_modified: 2026-10-07T10:22:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:22 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-consciousness]]
+- **Source**: tenet-check-2026-10-07 Error 3 (L128 + L190) + Warning 6 (L60, carried from check 09-28); todo L1895
+- **Word count**: 3705 → 3694 (hard 3500, gate >=; page was OVER hard, so net <= 0 required — landed −11)
+- **Original score**: n/a (targeted tenet-attribution fix; `scripts/curate.py` absent)
+- **Changes**:
+  - L128 "What These Theories Share": the shared "physical role" commitment no longer credits all three with Born-corridor outcome biasing; now reads "inside physics rather than causing collapse from outside it—Orch OR and Fisher bias which outcome occurs within the Born distribution, whereas Stapp's Process 1 sets which question is put and leaves the answer to nature". Matches `channel-class-taxonomy` L68 (Stapp "does not occupy" the selection class), `stapp-quantum-mind` L64, and the page's own L132 "basis and timing control". Last survivor of check 145's Error 2 family (comparing L161 repaired 10-05).
+  - L190 "Relation to the Map's Perspective": "Orch OR, Stapp, and the other mechanisms … are all compatible" → "Orch OR, Fisher, and the other mechanisms … are compatible with these tenets; [[stapp-quantum-mind|Stapp's]] question-setting route is registered rather than adopted" (piped wikilink).
+  - L60 Tenet 4 gloss: "The core objection: MWI makes consciousness epiphenomenal." → the indexical objection is named as the tenet's primary objection (per tenets.md L117 "the argument that carries the tenet's weight"), with the selects-nothing / Bidirectional Interaction conflict demoted to "a further cost".
+  - Paying trims (restatement only; each `git log -S`-checked — deep-review/condense/refine provenance, none review-installed): L81 Stapp pointer's contents list ("including phenomenology of effort, Schwartz's neuroplasticity research, and meditation evidence…", 2026-01-25 condense); L122 trailing "See [[quantum-biology-and-neural-mechanisms]] for five distinct mechanisms…" (same link survives at L190 and Further Reading); L144 "Coordinating separate neurons doesn't make them one thing." (restates "fail at BP2"); L146 "The structural match is precise: experience comes unified rather than assembled from separate quale-atoms." (restates the prior sentence); L158 "These proposals are contested but engage real physics." (restates L48/L156).
+  - Not touched: Note 14 (L75 "four to five orders of magnitude" vs L124's widened estimate; L124 "outpace decoherence" vs Stapp's recorded dispute) — out of this task's scope and the page has no length headroom; left for a separate task.
+  - `ai_system` already carried claude-fable-5-1; `ai_modified` set from `date -u`.
+- **Published**: yes (sync run)
 
 ## 10:07 - refine-draft
 - **Status**: Success

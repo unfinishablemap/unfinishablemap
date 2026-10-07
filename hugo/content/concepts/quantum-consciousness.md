@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-05 23:23:56+00:00
+ai_modified: 2026-10-07 10:21:08+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:33:15+00:00
-lastmod: 2026-10-05 23:23:56+00:00
+lastmod: 2026-10-07 10:21:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ The quantum opening addresses [mental causation](/concepts/mental-causation-and-
 
 The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. **An important caveat**: this gap may be epistemic rather than ontological—future physics could close it without invoking consciousness. Interpretations like QBism and relational quantum mechanics dissolve the measurement problem without Many Worlds. The Map's position is that collapse is a real physical event requiring a selector, but this is a philosophical commitment, not a settled result. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [structural parallel between the measurement problem and the hard problem](/topics/quantum-measurement-and-consciousness/)—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface. A further constraint sharpens the point: consciousness appears constitutively definite, unable to enter the indeterminate states that characterise superposition. This [definiteness constraint](/topics/consciousness-in-smeared-quantum-states/) means the selector never follows the brain into indeterminacy—it resolves the brain's superposed possibilities from outside them.
 
-The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative where all outcomes occur in branching universes. See [many-worlds](/concepts/many-worlds/) for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [Bidirectional Interaction](/tenets/#bidirectional-interaction).
+The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative where all outcomes occur in branching universes. See [many-worlds](/concepts/many-worlds/) for five arguments against MWI. The tenet's primary objection is indexical—why am I *this* branch rather than another?—a question the branching framework leaves open. A further cost: if all outcomes occur, consciousness selects nothing and merely finds itself in a branch, which conflicts with [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
 ## Orchestrated Objective Reduction (Orch OR)
 
@@ -81,7 +81,7 @@ These findings form part of a broader [convergence of independent evidence lines
 
 **Proponent**: Henry Stapp (physicist, Lawrence Berkeley Lab)
 
-See [stapp-quantum-mind](/concepts/stapp-quantum-mind/) for comprehensive treatment including phenomenology of effort, Schwartz's neuroplasticity research, and meditation evidence for two modes of consciousness.
+See [stapp-quantum-mind](/concepts/stapp-quantum-mind/) for comprehensive treatment.
 
 Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zeno effect states that repeatedly "observing" a quantum system can "freeze" its evolution. The proposal: different neural firing patterns exist in superposition; mental effort acts as repeated quantum observations; this holds desired patterns stable, biasing which becomes actual.
 
@@ -122,13 +122,13 @@ Even granting that the measurement problem leaves room for consciousness, specif
 
 **Biology exploits quantum effects, but the neural case is unproven.** [Avian magnetoreception](/concepts/radical-pair-magnetoreception/) (spin coherence) and enzyme catalysis (tunnelling) exploit quantum effects in warm biological systems. Photosynthetic energy transfer no longer belongs on that list: Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
 
-**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the *sustained-coherence* requirement because each event is instantaneous. But discrete mechanisms still require coherent states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
+**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the *sustained-coherence* requirement because each event is instantaneous. But discrete mechanisms still require coherent states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected.
 
 **The Zeno alternative.** **A critical assumption** underlies Stapp's version: observations must remain effective despite intervening decoherence. Each observation "resets" the quantum state; the accumulated effect biases outcomes. But outpacing decoherence at Hagan's revised scale requires observation intervals of 10⁻⁴ seconds or shorter—3,000 to 30,000 events per 300ms window, the lower figure the same order as Stapp's ~1000 (Stapp 2007), a modelling assumption, not an independent prediction. No concrete model supplies events at either rate, so the timing gap relocates rather than closes. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with the picture, but the neural case remains undemonstrated.
 
 ## What These Theories Share
 
-Despite differences, these theories share several commitments (none yet empirically established): consciousness plays a **physical role**, biasing which outcomes occur within the Born distribution rather than causing collapse from outside physics; **the interface is at quantum indeterminacies**, where physics is genuinely undetermined; **no energy is added** (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)); and **Many Worlds is rejected**, collapse being real and outcomes genuinely selected.
+Despite differences, these theories share several commitments (none yet empirically established): consciousness plays a **physical role** inside physics rather than causing collapse from outside it—Orch OR and Fisher bias which outcome occurs within the Born distribution, whereas Stapp's Process 1 sets which question is put and leaves the answer to nature; **the interface is at quantum indeterminacies**, where physics is genuinely undetermined; **no energy is added** (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)); and **Many Worlds is rejected**, collapse being real and outcomes genuinely selected.
 
 All are compatible with [adaptive computational depth](/concepts/adaptive-computational-depth/)—the principle that reality need not maintain maximum detail everywhere, concentrating determination where consciousness attends.
 
@@ -144,9 +144,9 @@ The Map resolves both through **objective reduction with consciousness modulatio
 
 ## Entanglement and the Binding Problem
 
-The [binding problem](/concepts/binding-problem/) has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [binding-problem](/concepts/binding-problem/) for why classical approaches structurally cannot produce phenomenal unity.
+The [binding problem](/concepts/binding-problem/) has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. See [binding-problem](/concepts/binding-problem/) for why classical approaches structurally cannot produce phenomenal unity.
 
-Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: experience comes unified rather than assembled from separate quale-atoms.
+Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level.
 
 **Empirical status**: Zero-lag gamma synchrony is often presented as a challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize without measurable time lag, while direct neural transmission takes >5 ms. Baum (2024), in a non-peer-reviewed preprint, argues this requires quantum non-locality, classical signal propagation being unable to achieve zero-lag synchrony. The peer-reviewed literature refutes that premise: two populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite long delays (Vicente et al. 2008), so the synchrony is classically explicable and is no evidence for entanglement binding—see [the calibrated assessment](/concepts/zero-lag-gamma-synchrony-and-the-quantum-binding-argument/). Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep. Warren's formal comment (Warren 2023) argues the paper provides no evidence for the entanglement reading—only that living tissue is complex, multicompartmental, and imprecisely characterised by MRI—so this single-lab, formally disputed result does not corroborate entanglement binding pending independent replication. A 2025 twin study (Escolà-Gascón 2025) is sometimes cited as behavioural evidence that entanglement affects implicit learning; the Map cites it as neither support nor neutral evidence. Taken at face value, the paper's own thesis is anomalous anticipation of future, unpredictable stimuli with claimed correlations exceeding the Tsirelson bound—precognition-scale, content-importing psi—and the [parapsychology firewall](/topics/parapsychology-firewall/) places any large, lawlike, or content-importing effect on the *disconfirming* side of the Map's ledger, so a successful replication would count against the Map's interface, not for it. No replication hedge changes which side of the firewall those claims sit on. See [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) for detailed treatment.
 
@@ -158,7 +158,7 @@ Quantum entanglement is different—entangled systems form genuinely unified who
 
 **Serious proposals** make specific testable predictions, respect conservation laws, engage with mainstream physics, and acknowledge empirical challenges.
 
-**"Quantum woo"** uses "quantum" as a magic word, claims consciousness affects macroscopic objects at will, ignores decoherence, and makes unfalsifiable claims. These proposals are contested but engage real physics.
+**"Quantum woo"** uses "quantum" as a magic word, claims consciousness affects macroscopic objects at will, ignores decoherence, and makes unfalsifiable claims.
 
 For the Map this demarcation has a *structural* rather than merely reputational basis: the very effects that mark woo — minds reliably biasing macroscopic systems — are precisely what the [parapsychology firewall](/topics/parapsychology-firewall/) shows the Minimal Quantum Interaction tenet forbids, so spectacular psi would disconfirm the Map rather than vindicate it.
 
@@ -190,7 +190,7 @@ The Map's tenets require:
 4. **No Many Worlds**: Collapse is real; indexical identity matters. Quantum theories require genuine collapse.
 5. **Occam's Razor Has Limits**: "Consciousness is just brain activity" isn't true if brain activity can't explain selection.
 
-Orch OR, Stapp, and the other mechanisms in [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) are all compatible. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
+Orch OR, Fisher, and the other mechanisms in [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) are compatible with these tenets; [Stapp's](/concepts/stapp-quantum-mind/) question-setting route is registered rather than adopted. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
 
 The Map's position is strong emergentism that specifies its mechanism: consciousness causes physical effects by determining what physics leaves undetermined, transforming [mental causation](/concepts/mental-causation-and-downward-causation/) from philosophical puzzle into precise proposal. The [selection laws](/concepts/psychophysical-laws/) concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
 
