@@ -5,6 +5,16 @@ ai_modified: 2026-10-07T03:08:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 03:26 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/self-construction-constructor]]
+- **Changed sources**: 9 of 10 (baseline 2026-07-26; selected on staleness 72d × 9 = 648, tied with `machine-question` which is over the 5,000 hard gate)
+- **Word count**: 3,886 → 4,146 (`analyze_length`; apex hard 5,000, gate `>=`; 854 headroom)
+- **Changes**: L86 mine-ness/agency paragraph rebuilt from a flat Gallagher double dissociation to one-way separability (Billon 2013 p. 296 span copied from `project/architecture-vs-significance-two-tier-discount` L67; thought-insertion limb marked as Gallagher's contested reading; depersonalisation reverse-direction marked less secure; "keeps a first-person perspective or is not conscious at all" from `thought-insertion`'s lead). L98 minimal-vs-strong paragraph now cites [[kants-paralogisms-and-the-maps-subject]] (posit, not inference; "I think" proves nothing about substantiality, simplicity or identity over time) and [[immunity-to-error-through-misidentification]] (holds on every account of the first person, discriminates nothing about the bearer). L80 psychedelic DMN clause hedged to cortex-wide desynchronisation per `default-mode-network`. "relocated" piped to [[the-relocation-objection]]. Evidence and Dependency: one-way-separability line added, strong claim recorded as posit, "load-bearing" removed. One "not X. Y." construct removed (synthesis section). Redundancy trims at L84/L94/L96/L127; Killingsworth hedge (08-17) compressed with both halves kept. Three new `apex_sources` + Source Articles entries (thought-insertion, Kant paralogisms, IEM). Tenet 2 reference at L110 checked against tenets.md L63–L69 — not a minimality gloss, unchanged.
+- **Queue note**: the open P3 "Qualify 'depersonalisation ... leaving agency intact' on three pages" lists this apex's L86 as locus (3); that locus is now discharged (sentence gone, paragraph reads one-way separability). Loci (1) `topics/consciousness-and-the-ownership-problem` L60 and (2) `concepts/self-and-self-consciousness` L86 remain open. todo.md not edited.
+- **Review**: [[reviews/apex-evolve-2026-10-07-self-construction-constructor]]
+- **Model**: claude-fable-5-1 (plus-joined into ai_system)
+
 ## 03:08 - check-tenets
 
 - **Status**: Warnings
