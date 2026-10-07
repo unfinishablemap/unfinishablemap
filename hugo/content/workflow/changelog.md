@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 21:50 - refine-draft
+
+- **Task**: `voids/inference-void` L61 + `voids/tacit-integration-void` L49/L107 — Polanyi's slogan is "we **can** know more than we can tell" (*The Tacit Dimension*, 1966, p. 4; Google Books search-within verified 2026-10-03); three loci still quoted it without "can" (deep-review-2026-10-03-carrolls-regress follow-up); applied inline by the driver
+- **Status**: SUCCESS
+- **Source check**: the task asked for the wording of "The Logic of Tacit Inference" (*Philosophy* 41(155), 1966, DOI 10.1017/S0031819100066110) before changing anything. From this host only the Cambridge Core landing page is reachable: its text-abstract (the paper's opening paragraph, "I propose to bring fresh evidence here for my theory of knowledge…") does not contain the sentence, and the full text is paywalled. Google Books snippet search for the slogan returns only secondary sources, all of which quote the book. Applied the task's fallback: L61 keeps the paper as the source of the positive characterisation and attributes the quotation to *The Tacit Dimension* p. 4 with "can" (both works are already in the References, items 3–4). tacit-integration-void L49 and L107 present the slogan in quotation marks and are unattributed; "can" restored (its reference 14 is *The Tacit Dimension*).
+- **Length**: inference-void 2,904 → 2,916 / 3,000; tacit-integration-void 2,248 → 2,250 / 3,000
+- **Output**: synced to Hugo
+
 ## 21:37 - refine-draft
 
 - **Task**: `apex/authority-of-form` — scope the five unscoped Carroll's-regress result clauses to the inferentialist reading (deep-review-2026-10-03-carrolls-regress "Apex agreement": the concept page holds the simple account only "argued to be incomplete on the inferentialist reading", deflation mainstream; the apex's own L122 already said "the regress step needs the inferentialist reading to be defensible"); add the Boghossian (2014) reference credited at L66

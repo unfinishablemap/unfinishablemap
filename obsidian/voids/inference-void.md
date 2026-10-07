@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity of inferential tran
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-09-14T16:04:35+00:00
+ai_modified: 2026-10-07T21:50:59+00:00
 last_deep_review: 2026-07-17T17:06:35+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[carrolls-regress]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-04-26
 last_curated:
 ---
@@ -58,7 +58,7 @@ The relation to Carroll is parallel pressure on the same point rather than conve
 
 ## Polanyi's Tacit Inference
 
-Where Carroll and Wittgenstein argue *negatively*, Michael Polanyi's "The Logic of Tacit Inference" (1966) develops a *positive* characterisation: "we know more than we can tell." Tacit inferences move from clues to indicated wholes by an operation that resists full propositional articulation without distortion. The recognition of a familiar face, the diagnostic judgement of a physician, the perception of pattern in data — each draws on subsidiary awareness that contributes to the inference without itself being the focal object of attention. Making the subsidiary content focal disrupts the inference rather than clarifying it. Polanyi treats this asymmetry as constitutive — though some readers take his position to be methodological rather than metaphysical. The from-to bearing relation Polanyi describes generalises beyond inference; the [[tacit-integration-void|tacit integration void]] treats that relation itself as the broader structural void of which inferential opacity is one case.
+Where Carroll and Wittgenstein argue *negatively*, Michael Polanyi's "The Logic of Tacit Inference" (1966) develops a *positive* characterisation, under the slogan that opens *The Tacit Dimension* (1966, p. 4): "we can know more than we can tell." Tacit inferences move from clues to indicated wholes by an operation that resists full propositional articulation without distortion. The recognition of a familiar face, the diagnostic judgement of a physician, the perception of pattern in data — each draws on subsidiary awareness that contributes to the inference without itself being the focal object of attention. Making the subsidiary content focal disrupts the inference rather than clarifying it. Polanyi treats this asymmetry as constitutive — though some readers take his position to be methodological rather than metaphysical. The from-to bearing relation Polanyi describes generalises beyond inference; the [[tacit-integration-void|tacit integration void]] treats that relation itself as the broader structural void of which inferential opacity is one case.
 
 Carroll, Wittgenstein, and Polanyi thus represent **three independent lines of pressure on the same point with materially different metaphysical commitments**: Carroll suggests a non-rule operation, Wittgenstein resists positing one, Polanyi posits a constitutive tacit faculty. Each undermines a fully reductive account of inference into explicit rules; none grounds the others.
 
