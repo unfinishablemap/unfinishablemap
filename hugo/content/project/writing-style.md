@@ -1,12 +1,12 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-10-06 10:22:08+00:00
+ai_modified: 2026-10-07 08:23:23+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts: []
 created: 2026-01-07
-date: &id001 2026-07-16
+date: &id001 2026-10-07
 description: 'Editorial standards for The Unfinishable Map: LLM-first structure, named-anchor
   summaries, evidential calibration, section-specific length guidelines, AI pseudonym
   table, and the disciplines that keep human-AI collaboration honest.'
@@ -14,7 +14,7 @@ draft: false
 human_modified: 2026-01-07
 last_curated: null
 last_deep_review: 2026-05-17 12:00:00+00:00
-lastmod: 2026-10-06 10:22:08+00:00
+lastmod: 2026-10-07 08:23:23+00:00
 modified: *id001
 related_articles:
 - '[[project-brief]]'
@@ -285,6 +285,8 @@ The following terms are editor-vocabulary and **must not appear in article prose
 
 If an editorial pass introduces any of these into article prose, the next review pass treats them as critical issues and rewrites the passage in natural philosophical language preserving the substance.
 
+The same rule covers editor *instructions*: a note telling another page what it should say goes in `workflow/todo.md` or the creating skill's integration chain, never in article prose, because an instruction published as body text is neither a task nor a link and no process is routed to carry it out. The article may state the *dependency* ("if this model is right, the suspension void's verification face sharpens") but not the *instruction* ("the suspension article should carry the point as a conditional"). [The assent void](/voids/assent-void/) is the worked instance: it published the second form as body text on 2026-09-29, and nine days later nothing had carried it anywhere.
+
 ### Medium-Neutral Language
 
 Content should transfer naturally to other formats: video narration, podcasts, audio readouts, quoted fragments, academic citations. Avoid phrasing tied to the web medium.
@@ -356,6 +358,8 @@ If you cannot cite a verifiable source for a claim about someone's views, refram
 ### Citation Aging in Fast-Moving Empirical Fields
 
 Neuroscience moves faster than philosophy. A neuroimaging generalization that rested on a single-site BOLD-fMRI study in 2014 is unlikely to survive the 2024-2026 mega-analyses without revision. Articles that build empirical claims on pre-2020 single-site neuroimaging — DMN suppression under psychedelics, attentional networks in meditation, frontal activity in working memory — must pair the historical citation with the latest available review, meta-analysis, or mega-analysis, and the article's prose must reflect any revision the modern synthesis introduces. The rule is targeted at neuroimaging because the field's 2010s replication and precision-mapping turbulence makes pre-2020 single-site studies particularly aged; analogous discipline applies wherever a claim leans on a single-site empirical result from a fast-moving field. See [evidential-status-discipline](/project/evidential-status-discipline/) for how the compatibility-vs-support distinction governs what an updated citation can do for a tenet-coherent reading.
+
+The same aging reaches any empirical or philosophical dispute an argument rests on, so each such source is forward-searched (Crossref cited-by, OpenAlex) before publication to find later work by the same authors or replies to them: the 2026-09-28 research note behind [the assent void](/voids/assent-void/) cited Nadarevic & Erdfelder 2013 as the authors' last word on the Spinozan model while Nadarevic & Erdfelder 2019, Nadarevic & Bell 2024 and Ford & Nadarevic 2025 all existed.
 
 ## LLM Optimization
 
@@ -675,6 +679,9 @@ Before publishing, verify:
 - [ ] Language is medium-neutral (no "click here", vague time references)
 - [ ] Internal wikilinks are framed as integration, never as independent evidence (external-evidence vs Map-integration discipline)
 - [ ] Any claim that a falsifier has not been met states its basis and distinguishes the three negative states (nothing has come in / live countermodel stands / evidence too thin to decide)
+- [ ] No instructions to other pages in article prose — a dependency may be stated; the instruction goes in `workflow/todo.md` or the creating skill's integration chain
+- [ ] Each source the argument rests on has been forward-searched (Crossref cited-by / OpenAlex) for later work by the same authors or replies to them
+- [ ] Universal quantifiers ("never", "any believer", "whatever the substrate") are scope-checked against the cases actually argued — a conclusion stated for all believers does not rest on arguments about human deliberation alone
 
 **Additional checks for concept articles:**
 - [ ] Four-part structure present: neutral definition first, Map interpretation marked as the Map's, strongest rival interpretations, disputed implications separated

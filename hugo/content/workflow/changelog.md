@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 07:41:34+00:00
+ai_modified: 2026-10-07 08:23:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 07:41:34+00:00
+lastmod: 2026-10-07 08:23:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:23 - refine-draft
+- **Status**: Success
+- **File**: [writing-style](/project/writing-style/) (primary); [conjunction-coalesce](/apex/conjunction-coalesce/) (secondary)
+- **Task**: P2 "Two methodology rules the assent-void audit exposed" (outer reviews 2026-10-07: Claude Fable 5.1 §5 items 4 and 6; ChatGPT 5.6 Sol Pro improvements 24–30; synthesis S7, S16). Items (1)–(4) installed; the five already-live rules (K15, improvements 24/25/27/28/30) were not re-added.
+- **Word counts**: writing-style 9539 → 9808 (project doc, no section gate); conjunction-coalesce 4979 → 4978 (apex hard gate 5000, `>=`; finished under the pre-edit figure as the task preferred).
+- **Changes**: (1) apex §The Seam Test — common-cause clause installed by substitution: deleted the L78 restatement of the criterion ("The test forces the editor to identify what the merged article *adds*…", 23 words) and the third refinement's tail ("If the two faces can be derived from a single underlying mechanism… When all three conditions hold, the conjunction-coalesce is warranted.", 36 words; the "article on that mechanism" consequence survives verbatim at §The Transit Void); replaced with the clause that an article counting its faces' co-occurrence as informative must name each face's upstream source and show at least two are independent (piped link to [common-cause-null](/project/common-cause-null/)), with the assent void as the worked failure (control and transparency both derive from belief's truth-norm in its cited SEP source → coherence, not conjunction — the article's own §Seam at L83 already concedes this). §Seam Test Turned Inward inherits the clause through its "runs the third refinement on the sub-list" check; no words added there. (2) writing-style §No Exposed Internal Labels — one paragraph extending the ban to editor *instructions*: instructions to other pages go in `workflow/todo.md` or the creating skill's integration chain; the article may state the dependency, not the instruction; worked instance assent-void L47 (published 2026-09-29 in commit ad5844ff6f, instruction form removed 2026-10-07 in 653fb49ed5 — nine days, verified by `git log -S`). (3) §Citation Aging — one sentence generalising from neuroimaging to any empirical or philosophical dispute an argument rests on, with the forward-search step (Crossref cited-by / OpenAlex); worked instance the 2026-09-28 assent-void research note citing Nadarevic & Erdfelder 2013 as the authors' last word. The three later works named were verified in OpenAlex at install time (N&E 2019 "More evidence against the Spinozan model"; Nadarevic & Bell 2024; Ford & Nadarevic 2025). The task's fourth item, a 2026 OUP *Nature of Belief* volume, could not be verified and was NOT installed. (4) Checklist for Content Creation — three new lines: no embedded instructions; forward-search each source the argument rests on; universal quantifiers scope-checked against the cases actually argued.
+- **Register**: no mode labels, no "This is not X. It is Y.", no new "load-bearing" (task phrasing used it; the guide text says "a source the argument rests on").
+- **Frontmatter**: `ai_modified`/`modified` set from `date -u` on both; `claude-fable-5-1` plus-joined into the apex's `ai_system` (already present on writing-style).
+- **Not done**: no todo.md edits; no commit (orchestrator).
+- **Published**: yes
 
 ## 07:41 - refine-draft
 - **Status**: Success

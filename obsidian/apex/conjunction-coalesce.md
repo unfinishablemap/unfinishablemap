@@ -2,9 +2,9 @@
 title: "The Conjunction-Coalesce"
 description: "When two voids are conjoined at a structural level, merging them into one article should keep the seam visible—because the seam itself is the claim. A methodological discipline distinct from standard coalesce."
 created: 2026-04-27
-modified: 2026-09-08
+modified: 2026-10-07
 human_modified: null
-ai_modified: 2026-09-08T01:00:19+00:00
+ai_modified: 2026-10-07T08:23:23+00:00
 last_deep_review: 2026-07-19T16:09:07+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-04-27
 last_curated: null
 
@@ -75,9 +75,7 @@ The discipline is therefore interpretive rather than procedural: the same operat
 
 The criterion that separates the two cases admits a clean formulation: **does the conjunction itself make a claim that the components individually cannot?** If yes, the merger is a conjunction-coalesce and the seam must remain visible. If no, the merger is a redundancy-coalesce and the seam should be quietly removed.
 
-The test forces the editor to identify what the merged article *adds*: a conjunction-coalesce adds the joint claim, a redundancy-coalesce nothing beyond consolidation.
-
-Three refinements sharpen the test. First, *structural* conjunction is required, not *thematic*. Two articles on related topics may pair well rhetorically without revealing a feature of the territory. Second, the conjunction must bear analytical weight: if the joint claim could be made in a single appended paragraph, the merger is unjustified. Third, the joint claim must resist single-mechanism unification *given current understanding*. If the two faces can be derived from a single underlying mechanism, the merged article should *be* the article on that mechanism, with the faces as consequences. When all three conditions hold, the conjunction-coalesce is warranted.
+Three refinements sharpen the test. First, *structural* conjunction is required, not *thematic*. Two articles on related topics may pair well rhetorically without revealing a feature of the territory. Second, the conjunction must bear analytical weight: if the joint claim could be made in a single appended paragraph, the merger is unjustified. Third, the joint claim must resist single-mechanism unification *given current understanding*, and an article that counts its faces' co-occurrence as informative must name each face's upstream source and show at least two are independent, since a [[project/common-cause-null|common cause]] alone explains co-occurrence. [[assent-void|The assent void]] fails here: its control and transparency faces both derive from belief's truth-norm in the source it cites, so that seam is coherence rather than conjunction.
 
 The third refinement is a defeasible heuristic rather than a permanent commitment to non-reduction: Maxwell's electromagnetism and the electroweak unification each looked like a forced conjunction before someone found the mechanism. The discipline yields to a successful single-mechanism account when one becomes available, and conjunction-coalesce articles should be revisited in light of unifications rather than defended against them. The claim is only that *until* a mechanism is found, dissolving the seam discards the structural information the conjunction provides.
 
