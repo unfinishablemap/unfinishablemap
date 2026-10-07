@@ -1472,18 +1472,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: 2026-10-02 23:53Z — the harvester minted P3 "Research Rival Explanations of the Explanatory Gap" (slug rival-explanations-of-the-explanatory-gap, concepts/), which would run this comparison at article length. If that article exists when this task is picked, reduce this task to a one-sentence pointer from the IBE page to it rather than a ~150-word compact version.
 - **Notes**: The page's "What an Honest Rejoinder Costs" first cost says no page yet runs the second-order inference: dualism vs. the phenomenal-concepts strategy as rival explanations of the explanatory gap, with stated loveliness criteria. concepts/phenomenal-concepts-strategy sits at 3,477/3,500 and cannot host it (zero hits there for "best explanation", "abduct", "lovel"). The IBE page has 372 words of headroom (3,128/3,500 by analyze_length, `>=` gate) — write a compact paragraph (≤300 words) under that section or as a sub-section, stating the criteria, the verdict tier it reaches (expect suggestive at most; the data-status of the gap is contested at bedrock), and what would move it. Chalmers's master argument against the strategy lives on the PCS page L67–85 — link, do not restate. Cite only sources already in the page's References with their status labels; McLaughlin 2010 stays a LEAD. No "This is not X. It is Y." variants; no "load-bearing". `ai_modified` from the real clock; changelog before sync; sync; validate. 2026-10-03 17:30Z: the research note /home/andy/unfin/unfinishablemap/obsidian/research/rival-explanations-of-the-explanatory-gap-2026-10-03.md has run this comparison (it splits by explanandum and leaves Type-B at *compatible*), and a P3 expand-topic 'Write article on rival explanations of the explanatory gap…' now exists, so once concepts/rival-explanations-of-the-explanatory-gap.md lands, reduce this task to the one-sentence pointer suggested in the note's §Corpus Seams item 2.
 
-### P3: "Physicalism in all its forms cannot account for consciousness" overreaches against Type-B (arguments-against-materialism L73–82/L115, consciousness-defeats-explanation L142)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/arguments-against-materialism.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: research-topic 2026-10-02 11:40Z (Misassignment Register M9 + M13) + expand-topic 2026-10-02 11:59Z (concepts/type-a-type-b-and-type-c-physicalism)
-- **Generated**: 2026-10-02
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/consciousness-defeats-explanation.md
-- **Headroom**: arguments-against-materialism 913 (3086/4000); consciousness-defeats-explanation 656 (3343/4000).
-- **Caution**: Two files. Leave the L55 piped link to concepts/type-a-type-b-and-type-c-physicalism in place. Report each file separately.
-- **Notes**: **arguments-against-materialism**: §Why Materialism Cannot Close the Gap (L73–82) runs the Type-C replies, and L115 concludes that "physicalism—in all its forms from reductive identity theory to eliminativism to illusionism—cannot account for consciousness". Type-B agrees materialism cannot close the gap and claims to account for consciousness by identity; the page's only Type-B engagement (L55) answers it by the convergence pattern alone. Add one short paragraph giving the Type-B reply and the Map's answer at its real tier (compatibility; Tenet 5 against the simplicity argument for the identity), and scope L115 to what the page has shown. **consciousness-defeats-explanation L142**: "Physicalism must instead either treat the failure as temporary … or, with the mysterian, as permanent but epistemic." The main occupant of "permanent but epistemic" is Type-B, and Chalmers reclassifies the mysterian (McGinn) as Type-F. Name Type-B there and drop or correct the mysterian attribution. Source: research note obsidian/research/type-a-type-b-and-type-c-physicalism-2026-10-02.md §Misassignment Register.
-
 ### P3: Align the IBE page's Type-B verdict with the Type-A/B/C page (provisional "suggestive" vs "compatible")
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/inference-to-the-best-explanation-against-dualism.md
@@ -1950,6 +1938,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-07: "Physicalism in all its forms cannot account for consciousness" overreaches against Type-B (arguments-against-materialism L73–82/L115, consciousness-defeats-explanation L142)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/arguments-against-materialism.md
+- **Notes**: **arguments-against-materialism**: §Why Materialism Cannot Close the Gap (L73–82) runs the Type-C replies, and L115 concludes that "physicalism—in all its forms from reductive identity theory to eliminativism to illusionism—cannot account for consciousness". Type-B agrees materialism cannot close the gap and claims to account for consciousness by identity; the page's only Type-B engagement (L55) answers it by the convergence pattern alone. Add one short paragraph giving the Type-B reply and the Map's answer at its real tier (compatibility; Tenet 5 against the simplicity argument for the identity), and scope L115 to what the page has shown. **consciousness-defeats-explanation L142**: "Physicalism must instead either treat the failure as temporary … or, with the mysterian, as permanent but epistemic." The main occupant of "permanent but epistemic" is Type-B, and Chalmers reclassifies the mysterian (McGinn) as Type-F. Name Type-B there and drop or correct the mysterian attribution. Source: research note obsidian/research/type-a-type-b-and-type-c-physicalism-2026-10-02.md §Misassignment Register.
 
 ### ✓ 2026-10-07: Replies aimed at the wrong type under a Type-B heading (philosophical-zombies L87–91, knowledge-argument L84) — word-neutral
 - **Type**: refine-draft

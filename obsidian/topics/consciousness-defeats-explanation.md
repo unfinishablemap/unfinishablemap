@@ -4,7 +4,7 @@ description: "Six major models of explanation all fail for consciousness—not a
 created: 2026-02-18
 modified: 2026-09-29
 human_modified: null
-ai_modified: 2026-09-29T00:25:55+00:00
+ai_modified: 2026-10-07T00:22:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,7 +139,7 @@ The pattern matters more than any individual breakdown. Every model of explanati
 
 Three interpretations present themselves. The first: consciousness is harder than other problems, and the tools will eventually engage. The second: consciousness is a different *kind* of problem — one that tools calibrated for physical theories cannot adjudicate. The third, associated with [[mysterianism|mysterian]] philosophers (McGinn 1989), is that human cognitive architecture lacks the conceptual resources to solve the mind-body problem. The [[closure-types-void|closure-types distinction]] sharpens the third reading: the failure could reflect *representational* closure (our concept-forming procedures cannot frame a true theory) or *psychological* closure (the concepts are reachable but cannot be assembled). From within, the two are [[epistemology-of-limit-knowledge|indistinguishable]] — and the pattern of failure documented above is compatible with either.
 
-The Map finds the second reading most illuminating. Dualism offers a candidate explanation for the systematic failure: these are tools calibrated for one ontological domain being applied to another. Physicalism must instead either treat the failure as temporary — a promissory note with no expiration date — or, with the mysterian, as permanent but epistemic. The [[the-convergence-argument-for-dualism|convergence of independent failures]] strengthens the case: if the tools failed for different reasons, the pattern would be noise. Their convergence on a single boundary suggests a genuine feature of reality.
+The Map finds the second reading most illuminating. Dualism offers a candidate explanation for the systematic failure: these are tools calibrated for one ontological domain being applied to another. Physicalism must instead either treat the failure as temporary — a promissory note with no expiration date — or, with the [[type-a-type-b-and-type-c-physicalism|Type-B physicalist]], as permanent but epistemic, lodged in how phenomenal concepts refer rather than in what exists. The mysterian's closure reading is a different position: Chalmers's [[type-a-type-b-and-type-c-physicalism#Who Holds Which View|taxonomy]] files McGinn under type-F monism, outside physicalism. The [[the-convergence-argument-for-dualism|convergence of independent failures]] strengthens the case: if the tools failed for different reasons, the pattern would be noise. Their convergence on a single boundary suggests a genuine feature of reality.
 
 Progress under these conditions takes a different form: the honest adoption of frameworks and the rigorous exploration of their consequences. The Map takes this approach explicitly. Its [[tenets]] are chosen starting points that shape inquiry rather than results inquiry has produced. A framework that can accommodate more of what we know — including what we know through introspection — is better than one that must explain away its most recalcitrant data.
 

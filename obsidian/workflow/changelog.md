@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 00:10:26+00:00
+ai_modified: 2026-10-07 00:22:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:22 - refine-draft
+
+- **Status**: Success
+- **Files**: [[topics/arguments-against-materialism]], [[topics/consciousness-defeats-explanation]]
+- **Task**: Research-note Misassignment Register M9 + M13 (`research/type-a-type-b-and-type-c-physicalism-2026-10-02` L234 onward): a Type-C-only section concluding against physicalism "in all its forms", and the mysterian standing in for Type-B as the occupant of "permanent but epistemic".
+- **Original score**: not run (`scripts/curate.py` absent; targeted fix, no general refinement)
+- **arguments-against-materialism** (3,104 → 3,297; gate 4,000, headroom 895 → 702):
+  - §Why Materialism Cannot Close the Gap: new closing paragraph (after "we lack a framework for how physical facts could ever entail phenomenal facts") giving the Type-B reply in the routing-table wording — a posteriori identity, gap permanent, lodged in how phenomenal concepts refer rather than in what they refer to — and stating that the section's structure-and-dynamics and no-wait replies answer the closure-promising physicalist and do not reach it. The Map's answer at its real tier: the primitive-identity cost (piped `[[primitive-identities-and-strong-necessities|a law under the title of an identity]]`), Tenet 5 against the simplicity argument for the identity (piped `[[tenets#^occams-limits|…]]`), and the compatibility verdict (Type-B predicts the persistence and the correlates the Map cites). No named Type-B authors added. New piped wikilink to `[[type-a-type-b-and-type-c-physicalism|Type-B physicalism]]`.
+  - L115 (now L117) conclusion: "physicalism—in all its forms from reductive identity theory to eliminativism to illusionism—cannot account for consciousness" → "no form of physicalism … has explained consciousness: none shows how physical facts entail phenomenal facts, and the Type-B physicalist who concedes this and posits a bare identity meets a cost argument rather than a refutation". Scoped to what the page shows.
+  - The driver's second "cannot account for consciousness" occurrence was the frontmatter `description`; re-scoped to L49's own wording ("physical facts do not entail phenomenal facts") so the meta description no longer carries the overreach the body dropped. Zero occurrences of the phrase remain in the file.
+  - Engagement with Type-B (new paragraph): Mode Two for the primitive-identity cost (the identity is posited without the explanatory derivability the physicalist's own scientific identities have), Mode Two for the Tenet-5 move (it targets the simplicity inference, which the Map's own abductions are bound by too), with the compatibility sentence as honest Mode Three boundary-marking. Existing engagement with Type-C in L75–81: Mode One (persistence and structure-and-dynamics against a closure prediction), now labelled as such by the new paragraph's "the physicalist who promises eventual closure".
+- **consciousness-defeats-explanation** (3,343 → 3,375; gate 4,000, headroom 656 → 624):
+  - L142: "or, with the mysterian, as permanent but epistemic" → "or, with the [[type-a-type-b-and-type-c-physicalism|Type-B physicalist]], as permanent but epistemic, lodged in how phenomenal concepts refer rather than in what exists. The mysterian's closure reading is a different position: Chalmers's [[type-a-type-b-and-type-c-physicalism#Who Holds Which View|taxonomy]] files McGinn under type-F monism, outside physicalism." The McGinn → type-F reclassification is carried by the research note (L185, Chalmers 2003 footnote) and by the concept page's §Who Holds Which View; no new citation added to this page's reference list, and nothing quoted beyond the note. L140's "third interpretation" (mysterian closure) is left as is; the fix only stops L142 counting it as physicalism's second option.
+- **Not changed, flagged**: `arguments-against-materialism` L139 ("the materialist majority rests on a failure to take consciousness seriously as a feature of reality") is a Type-A-shaped verdict applied to the majority; Type-B takes the datum seriously. Out of this task's scope; a one-clause scoping would fit the remaining headroom.
+- **Checks**: both files below the 4,000 gate; no "This is not X. It is Y."; no "load-bearing"; all new wikilinks piped and targets verified on disk (`concepts/type-a-type-b-and-type-c-physicalism.md` with `## Who Holds Which View` at L58, `concepts/primitive-identities-and-strong-necessities.md`, `tenets#^occams-limits`); `ai_system` plus-joined `claude-fable-5-1` on arguments-against-materialism (consciousness-defeats-explanation already carried it); `ai_modified` 2026-10-07T00:22:40+00:00 from `date -u` on both.
+- **Published**: yes (sync run; both files verified in hugo/content/)
 
 ## 00:10 - refine-draft
 

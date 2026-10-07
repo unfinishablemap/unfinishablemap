@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-10-04 01:09:29+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-07 00:22:40+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[concepts/materialism]]'
@@ -22,13 +22,13 @@ concepts:
 created: 2026-02-27
 date: &id001 2026-10-02
 description: 'Multiple independent philosophical arguments converge on the same conclusion:
-  materialism cannot account for consciousness. Exploring why these arguments matter
+  physical facts do not entail phenomenal facts. Exploring why these arguments matter
   and why materialism persists despite them.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:36:27+00:00
-lastmod: 2026-10-04 01:09:29+00:00
+lastmod: 2026-10-07 00:22:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,6 +84,8 @@ None of this calls for abandoning science. It recognises that one mode of explan
 
 Materialists sometimes respond that we should just wait—science has surprised us before. But past scientific progress explained phenomena by showing *how* they followed from underlying mechanisms. Water flows because of H₂O's molecular properties. Heat is molecular motion. In each case, the connection between levels is transparent. With consciousness, we cannot even articulate what a transparent connection *would look like*. The difficulty is not that we lack data; it is that we lack a framework for how physical facts could ever entail phenomenal facts.
 
+One physicalist position grants all of this. [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/) accepts that the gap is permanent and that no physical description will entail phenomenal facts, yet holds that consciousness is identical to a physical process, the identity known a posteriori, with the gap lodged in how phenomenal concepts refer rather than in what they refer to. The replies above answer the physicalist who promises eventual closure; they do not reach this one. What the Map says to Type-B is pitched at a different tier. A psychophysical identity that nothing explains is [a law under the title of an identity](/concepts/primitive-identities-and-strong-necessities/), a cost the ledger must count; and the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet tells against the simplicity argument that is the usual ground for preferring the identity. These bear on plausibility rather than evidence. Type-B predicts the persistence and the neural correlates the Map cites, so the arguments here leave dualism and Type-B compatible with the same observations rather than refuting the identity view.
+
 ## The Persistence of Materialism
 
 If the arguments against materialism are this strong, why does it remain the dominant position in academic philosophy of mind? The 2020 PhilPapers survey found roughly 52% of professional philosophers accept or lean toward physicalism.
@@ -116,7 +118,7 @@ The most common defence of materialism may be the least philosophical: the convi
 
 ## What the Arguments Actually Show
 
-The arguments against materialism are sometimes characterised as proving dualism. They do not. What they show is that physicalism—in all its forms from reductive identity theory to [eliminativism](/topics/eliminative-materialism/) to [illusionism](/concepts/illusionism/)—cannot account for consciousness. [Eliminativism](/topics/eliminative-materialism/) is the limit case: it shows what physicalism commits to if pursued consistently, since denying that there is anything for physicalism to explain is the cleanest exit from the explanatory gap. The cumulative case appears to force a choice between this elimination and the recognition that the failure to reduce is itself evidence for irreducibility.
+The arguments against materialism are sometimes characterised as proving dualism. They do not. What they show is that no form of physicalism—from reductive identity theory to [eliminativism](/topics/eliminative-materialism/) to [illusionism](/concepts/illusionism/)—has explained consciousness: none shows how physical facts entail phenomenal facts, and the Type-B physicalist who concedes this and posits a bare identity meets a cost argument rather than a refutation, as the previous section noted. [Eliminativism](/topics/eliminative-materialism/) is the limit case: it shows what physicalism commits to if pursued consistently, since denying that there is anything for physicalism to explain is the cleanest exit from the explanatory gap. The cumulative case appears to force a choice between this elimination and the recognition that the failure to reduce is itself evidence for irreducibility.
 
 This leaves the question open. If consciousness is not reducible to the physical, what is it? Several options exist: substance dualism, property dualism, [panpsychism](/concepts/panpsychism/), [idealism](/concepts/idealism/), neutral monism. For a systematic comparison of these [mind-centric frameworks](/topics/analytic-idealism-and-mind-centric-metaphysics/), see the comparative survey. The Map's [tenets](/tenets/) make a specific commitment: [interactionist-dualism](/concepts/interactionist-dualism/), where consciousness is irreducible and causally efficacious, interacting with the physical world at quantum indeterminacies.
 
@@ -140,7 +142,7 @@ The self-undermining argument is distinctive because it does not merely claim ma
 
 The Unfinishable Map's [tenets](/tenets/) are built on the failure of materialism. The [Dualism tenet](/tenets/#dualism) holds that consciousness is not reducible to physical processes—a commitment these arguments motivate but do not establish. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) insists that consciousness does real causal work, which means epiphenomenalism—materialism's escape route of accepting non-physical consciousness but denying it does anything—is also rejected. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) identifies where the interaction occurs: at quantum indeterminacies, where physics leaves outcomes open. And the [Occam's Razor Has Limits tenet](/tenets/#occams-limits) explains why materialism's apparent simplicity is not the advantage materialists suppose.
 
-The arguments against materialism do not prove that consciousness interfaces with quantum mechanics, or that identity persists across branching universes, or that the Map's specific framework is correct. They establish something more fundamental: the materialist majority rests on a failure to take consciousness seriously as a feature of reality. Whatever replaces materialism must account for the features these arguments identify. The Map's tenets represent one coherent attempt to do so.
+The arguments against materialism do not prove that consciousness interfaces with quantum mechanics, or that identity persists across branching universes, or that the Map's specific framework is correct. They establish something more fundamental: the materialist majority, Type-B aside, rests on a failure to take consciousness seriously as a feature of reality. Whatever replaces materialism must account for the features these arguments identify. The Map's tenets represent one coherent attempt to do so.
 
 ## Further Reading
 
