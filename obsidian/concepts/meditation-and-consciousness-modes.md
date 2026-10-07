@@ -4,7 +4,7 @@ description: "Active selection and passive witnessing as two consciousness modes
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-10-04T01:30:16+00:00
+ai_modified: 2026-10-07T20:20:46+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-25T19:35:30+00:00
@@ -49,7 +49,7 @@ The neural evidence is narrower than a mode-specific signature. Concentration en
 
 ### Passive Witnessing
 
-In passive witnessing, consciousness observes mental contents—thoughts, sensations, emotions—without engaging with them. The observer does not select, judge, or intervene. Contents arise and pass like clouds crossing the sky.
+In passive witnessing, consciousness observes mental contents—thoughts, sensations, emotions—without engaging with them. The observer feels no selecting, judging, or intervening. Contents arise and pass like clouds crossing the sky.
 
 This mode has its own distinct phenomenology. Advanced meditators describe "effortless awareness," "open presence," or what Sanskrit tradition calls *sakshi*—the witness-self: attention broadly distributed rather than focal, contents received without preference.
 

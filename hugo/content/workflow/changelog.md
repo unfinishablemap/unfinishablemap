@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 20:20 - refine-draft
+
+- **Task**: `topics/the-observer-witness-in-meditation` L44/L50/L52/L60–L63/L83 + `concepts/meditation-and-consciousness-modes` L52 — retire the pre-09-01 neural signature and mark the felt absence of steering (optimistic-2026-10-03 witness/contemplative-modes wing, Priority 2); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: observer-witness L50 "Presence without intervention … What's absent is the doing: no selecting…" → "Presence with little intervention … the felt doing: no sense of selecting…" (the page's own description says "yet enough steering to cause its own reports"); table L60–L63: "Brain Signature" column → "Neural Correlate (effort axis)", "Frontal theta, ACC activation" → "PCC active with reported "efforting"", reduced-rate row → "PCC deactivated with reported effortlessness; alpha–theta convergence"; L83 DMN quieting marked meditation-general (Brewer et al. 2011 found it in concentration practice; piped to meditation-and-consciousness-modes#passive-witnessing); L44 *sakshi* piped to witness-consciousness (the topic's first prose link to its concept page); L52 Garrison 2013 piped to sham-controlled-neurofeedback-and-the-consciousness-comparator (reciprocal). Meditation-modes L52 "does not select, judge, or intervene" → "feels no selecting, judging, or intervening" (zero-word; matches L36 "barely intervenes" and L187 "felt absence of steering"). Held loci L36/L38/L42/L58/L65/L89/L111/L147/L169/L193 untouched (blocked P3, Tenet 3 quantifier decision).
+- **Length**: observer-witness 3,272 → 3,300 / 4,000 (+28); meditation-modes 3,492 → 3,492 / 3,500 (zero-word)
+- **Output**: synced to Hugo
+
 ## 20:05 - positions-evolve
 
 - **Task**: update `positions/arguments-for-dualism` [P-D1](/positions/arguments-for-dualism/#p-d1) (todo P3): the second "Would shift if" condition named only the phenomenal concept strategy as "the mainstream account of *why* the arguments share a premise", overstating what a PCS failure would remove. Per research/ignorance-hypothesis-2026-10-03 §Corpus Seams item 7 and §Tier calibration, Stoljar's epistemic view is a second account that faults the physical side and survives every PCS variant failing.

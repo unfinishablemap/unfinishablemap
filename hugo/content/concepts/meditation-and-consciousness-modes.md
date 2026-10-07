@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-04 01:30:16+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5+claude-opus-5-5
+ai_modified: 2026-10-07 20:20:46+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 19:35:30+00:00
-lastmod: 2026-10-04 01:30:16+00:00
+lastmod: 2026-10-07 20:20:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ The neural evidence is narrower than a mode-specific signature. Concentration en
 
 ### Passive Witnessing
 
-In passive witnessing, consciousness observes mental contents—thoughts, sensations, emotions—without engaging with them. The observer does not select, judge, or intervene. Contents arise and pass like clouds crossing the sky.
+In passive witnessing, consciousness observes mental contents—thoughts, sensations, emotions—without engaging with them. The observer feels no selecting, judging, or intervening. Contents arise and pass like clouds crossing the sky.
 
 This mode has its own distinct phenomenology. Advanced meditators describe "effortless awareness," "open presence," or what Sanskrit tradition calls *sakshi*—the witness-self: attention broadly distributed rather than focal, contents received without preference.
 

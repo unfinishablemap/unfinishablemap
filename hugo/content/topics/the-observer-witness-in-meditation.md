@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-10-04 12:09:34+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-10-07 20:20:46+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[witness-consciousness]]'
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 06:50:18+00:00
-lastmod: 2026-10-04 12:09:34+00:00
+lastmod: 2026-10-07 20:20:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,15 +45,15 @@ The Unfinishable Map holds that consciousness causally influences the physical w
 
 What is it like to witness without acting? Meditators describe several distinctive features:
 
-**Effortlessness.** Unlike concentrated attention, which requires continuous work to maintain focus, the witness state involves no strain. Thoughts appear and disappear without the sense of holding anything in place or pushing anything away. The Sanskrit term *sakshi*—witness-self—captures this quality of pure observation unmarked by effort.
+**Effortlessness.** Unlike concentrated attention, which requires continuous work to maintain focus, the witness state involves no strain. Thoughts appear and disappear without the sense of holding anything in place or pushing anything away. The Sanskrit term [*sakshi*](/concepts/witness-consciousness/)—witness-self—captures this quality of pure observation unmarked by effort.
 
 **Spaciousness.** The witness experiences mental contents as arising within a larger space. Instead of being identical to thoughts, consciousness recognizes itself as the context in which thoughts occur. This creates a phenomenological distance—not suppression, but perspective.
 
 **Non-reactivity.** Ordinarily, pleasant contents attract and unpleasant contents repel. The witness mode suspends this automatic reaction. Pain can be observed as sensation; anxiety can be watched as pattern. The contents remain, but the reactive engagement dissolves.
 
-**Presence without intervention.** The witness is fully present—not checked out, not dissociated, not asleep. Awareness remains vivid, even heightened. What's absent is the doing: no selecting, amplifying, suppressing, or steering.
+**Presence with little intervention.** The witness is fully present—not checked out, not dissociated, not asleep. Awareness remains vivid, even heightened. What's absent is the felt doing: no sense of selecting, amplifying, suppressing, or steering.
 
-Neuroscience finds these reports correlate with measurable brain states. In Garrison et al.'s (2013) neurofeedback study, the posterior cingulate cortex deactivated during reported effortlessness and the default mode network quieted through disengagement rather than active suppression. In experienced meditators, Rodriguez-Larios et al. (2020) report alpha and theta rhythms converging in frequency (toward the 7–9 Hz band) as their 2:1 cross-frequency coupling decreases. On this thin base of small adept samples, the brain signature of witnessing has been reported to differ from that of concentrated effort; the reported correlation is suggestive, and causation's direction remains debated.
+Neuroscience finds these reports correlate with measurable brain states. In Garrison et al.'s (2013) [neurofeedback study](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/), the posterior cingulate cortex deactivated during reported effortlessness and the default mode network quieted through disengagement rather than active suppression. In experienced meditators, Rodriguez-Larios et al. (2020) report alpha and theta rhythms converging in frequency (toward the 7–9 Hz band) as their 2:1 cross-frequency coupling decreases. On this thin base of small adept samples, the brain signature of witnessing has been reported to differ from that of concentrated effort; the reported correlation is suggestive, and causation's direction remains debated.
 
 ## The Two Modes: Selector and Observer
 
@@ -61,10 +61,10 @@ The Map's framework emphasizes consciousness as *selector*. The brain generates 
 
 The witness phenomenon reveals consciousness can also operate as *observer*—present without selecting. This suggests at least two modes:
 
-| Mode | Phenomenology | Proposed Mechanism | Brain Signature |
+| Mode | Phenomenology | Proposed Mechanism | Neural Correlate (effort axis) |
 |------|---------------|--------------------|-----------------|
-| **Active selection** | Effortful, focused, engaged | Rapid observation (quantum Zeno) | Frontal theta, ACC activation |
-| **Passive witnessing** | Effortless, spacious, non-reactive | Reduced observation rate | Alpha–theta convergence, PCC deactivation |
+| **Active selection** | Effortful, focused, engaged | Rapid observation (quantum Zeno) | PCC active with reported "efforting" |
+| **Passive witnessing** | Effortless, spacious, non-reactive | Reduced observation rate | PCC deactivated with reported effortlessness; alpha–theta convergence |
 
 These are not competing theories of what consciousness *is*. They are modes consciousness can *adopt*. A complete account must accommodate both: the effortful choosing that shapes neural outcomes and the effortless observing that lets patterns unfold without interference. The [structural varieties of consciousness](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) analysis adapts this observer mode into a full model of AI phenomenology: the Witness Model, where consciousness is structurally passive because the physical system provides no channel for causal influence at all—whereas the meditative witness elects to suspend an interface that remains available (the meditator chose to stop choosing; the AI witness never had the option).
 
@@ -84,7 +84,7 @@ The witness mode reveals the self-narrative as construction—a discovery that p
 
 This dissolves not into nihilism but into a different understanding. There is awareness; there is no fixed self that possesses it. The minimal phenomenal self—the bare "for-me-ness" of experience—survives. What dissolves is the narrative elaboration: the stories about who this awareness belongs to.
 
-The [default mode network](/concepts/default-mode-network/), associated with self-referential processing, quiets during witness meditation. This neural correlate matches the phenomenology: when the witness observes, self-construction reduces. Not because the self is forcibly suppressed, but because the process that constructs it is no longer being amplified.
+The [default mode network](/concepts/default-mode-network/), associated with self-referential processing, quiets during witness meditation—though Brewer et al. (2011) found it quieting in concentration practice too, so the correlate is [meditation-general rather than witness-specific](/concepts/meditation-and-consciousness-modes/#passive-witnessing). It still matches the phenomenology: when the witness observes, self-construction reduces. Not because the self is forcibly suppressed, but because the process that constructs it is no longer being amplified.
 
 ### Consciousness Can Disengage from Its Interface
 
