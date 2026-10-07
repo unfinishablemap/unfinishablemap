@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-08-27 18:10:03+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-07 12:08:46+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 archive_reason: Coalesced into Consciousness Disruption and the Mind-Brain Interface
 archived: true
 archived_date: 2026-03-30 12:30:00+00:00
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-23 04:22:00+00:00
-lastmod: 2026-08-27 18:10:03+00:00
+lastmod: 2026-10-07 12:08:46+00:00
 modified: *id001
 original_path: /topics/disorders-of-consciousness-as-test-cases/
 related_articles:
@@ -69,7 +69,7 @@ DoC cases create two problems. First, CMD patients lack behavioural output—the
 
 Global Neuronal Workspace Theory (GNWT) holds that consciousness arises when information is "broadcast" widely across cortical regions via long-range connections, particularly involving prefrontal cortex. Information that remains locally processed is unconscious; information that enters the global workspace becomes conscious.
 
-DoC cases challenge GNWT in specific ways. Patients with severe prefrontal damage sometimes retain awareness—their injury disrupts the broadcasting architecture GNWT considers essential. Conversely, some UWS patients show preserved long-range connectivity without evident awareness. The COGITATE adversarial collaboration (Melloni et al., published in *Nature*, 2025)—which tested healthy participants, not DoC patients—found limited representation of conscious content in prefrontal cortex and no clear "ignition" at stimulus onset, challenging GNWT's core predictions. DoC patients with preserved posterior activity but disrupted frontal connectivity—who nonetheless show CMD-based evidence of awareness—add clinical weight to this challenge.
+DoC cases challenge GNWT in specific ways. Patients with severe prefrontal damage sometimes retain awareness—their injury disrupts the broadcasting architecture GNWT considers essential. Conversely, some UWS patients show preserved long-range connectivity without evident awareness. The COGITATE adversarial collaboration (Melloni et al., published in *Nature*, 2025)—which tested healthy participants, not DoC patients—found limited prefrontal representation of certain dimensions of conscious content and a general lack of "ignition" at stimulus offset, challenging GNWT's core predictions. DoC patients with preserved posterior activity but disrupted frontal connectivity—who nonetheless show CMD-based evidence of awareness—add clinical weight to this challenge.
 
 ### Integrated Information Theory
 

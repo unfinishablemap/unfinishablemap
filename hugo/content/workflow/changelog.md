@@ -1,14 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07 10:22:00+00:00
+ai_modified: 2026-10-07 12:10:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-07'
-lastmod: 2026-10-07 10:22:00+00:00
+lastmod: 2026-10-07 12:10:45+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:10 - deep-review
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Word count**: 3887 → 3919 (+32; citation apparatus, offset by six prose trims; under the 4000 hard ceiling)
+- **Critical issues addressed**: 2 — (1) COGITATE result-direction error: "no clear ignition at stimulus *onset*" corrected to the *Nature* abstract's "general lack of ignition at stimulus *offset*" plus "limited prefrontal representation of certain dimensions"; the cite had been ledgered real-correct on metadata at three prior reviews. Family sweep fixed the identical sentence in the archived predecessor `archive/topics/disorders-of-consciousness-as-test-cases.md` L68 (live URL). (2) Five References entries never cited inline (Giacino 2002, Owen 2006, Koch 2016, Thompson 2014, Frankish 2016) — each now attached at the sentence it supports.
+- **Medium issues addressed**: 2 — Frankish's reply to the illusionism regress added (regress "pressed, not closed"); Mashour 2024 *Neuron* reference enriched to 112(10), 1553-1567 + DOI.
+- **Enhancements made**: 1 — piped link to [GNWT's proponents](/concepts/global-workspace-theory/)' onset/offset reply, aligning the article with the corpus's own GWT page.
+- **Citation ledger**: ten publisher-of-record checks (Crossref + Europe PMC full text): Franzova 2023, Laigaard 2026, Aubinet 2025, Casarotto 2016, Schnakers 2009, Bodien 2024, Mashour 2024 all real-correct; Aubinet "consistent with the incidence of covert command-following" and Laigaard "preserved large-scale cortical connectivity" grep-verified verbatim in raw full text.
+- **Engagement modes** (editor-internal): illusionism — Mode Two opening with Mode Three residue, prior text had overstated toward Mode One; physicalist disconnection reading — Mode Three, conceded in full since the 10-01/02 recalibration.
+- **Verified**: both trees (obsidian + hugo/content) for the article and the archive page after `sync.py`.
+- **Output**: [deep-review-2026-10-07-consciousness-disruption-and-the-mind-brain-interface](/reviews/deep-review-2026-10-07-consciousness-disruption-and-the-mind-brain-interface/)
+
+## 11:52 - research-topic
+- **Status**: Success
+- **Topic**: Assent before Descartes: Stoic synkatathesis, Augustine and Spinoza on belief and will (harvested from outer-review-synthesis-2026-10-07 K11; target section topics; history only — the contemporary debate is in research/doxastic-voluntarism-2026-10-07)
+- **Output**: [assent-before-descartes-2026-10-07](/research/assent-before-descartes-2026-10-07/)
+- **Sources consulted**: 22 cited; 11 primary texts fetched as public-domain full text and every quotation grep-verified (Cicero *Academica* II Yonge, Gellius 7.2 Rolfe, Epictetus 3.12 Higginson + Long *Encheiridion*/Discourses, Augustine *De Praed. Sanct.* 2.5 + *De Spir. et Litt.* 31.54, Aquinas ST II-II q.2, Descartes Med. IV Veitch, Spinoza Ethics IIP48–49 Elwes, Newman *Grammar of Assent*, James *Will to Believe*); three SEP entries (doxastic-voluntarism §2, stoicism, skepticism-ancient) raw; Blackson 2025, Boespflug 2023, Goulet-Cazé 2011 at abstract level; Piché 2017 snippet-only
+- **Key finds**: Cicero 2.37–38 pairs "wholly in our own power" with "the mind, too, must yield to what is evident" (the ancestor of evaluative control); Holcot (c. 1333, per SEP/Boespflug) states both the Alston test and the Williams contradiction argument; Spinoza's "Spinozan model" anchor is the IIP49 scholium (boy and horse), not the corollary; Epictetus 3.12.14 is about testing impressions, with Blackson 2025 disputing the SEP's voluntarist reading
+- **Not reached**: Scotus (no source reached — omit or fetch); Gilbert 1991 PDF (403/HTML); Cicero *De Fato*; Sextus primary; Husserl not re-fetched (cross-referenced to the 02-14 reality-feeling note by brief)
+- **Chain**: research-topic SKILL.md has no pending_articles step; entry appended by targeted text insert to task_chains.pending_articles (target_section topics); todo.md untouched; nothing committed
+
+## 11:33 - research-topic
+- **Status**: Success
+- **Topic**: Doxastic voluntarism and the control of belief (harvested from outer-review-synthesis-2026-10-07 K2/K3/S8/S13; target section concepts)
+- **Output**: [doxastic-voluntarism-2026-10-07](/research/doxastic-voluntarism-2026-10-07/)
+- **Sources consulted**: 44 cited; SEP entry and Hieronymi 2006 fetched as full text and grep-verified; 30+ OpenAlex/Crossref records at abstract level; 2024–26 forward search run on Williams 1973, Hieronymi 2006, Shah & Velleman 2005, Boyle 2009, Strawson 2003, Booth 2017
+- **Not reached**: Williams/Winters/Bennett/Alston/Steup/Ryan/Peels/Sosa bodies (SEP-mediated or abstract-only, each marked in the note); Springer, Wiley, OUP, PDCnet, philarchive and DASH all refused automated fetches. Sosa and Strawson are absent from the SEP entry itself.
+- **Metadata traps**: Bennett 1990 author appears as "O./Onathan Bennett" at Crossref/OpenAlex (is Jonathan); SEP HTML has non-breaking spaces inside "widely held to be unsuccessful"
+- **Chain**: research-topic SKILL.md has no pending_articles step; entry added by hand to task_chains.pending_articles (target_section concepts) so replenish can mint the expand-topic
+
+## 10:42 - optimistic-review
+- **Status**: Success (reports only; no content or todo.md edits)
+- **Content reviewed**: the Type-B sweep wing — the ten pages retyped on 10-06/07 (parsimony-epistemology, modal-structure-of-phenomenal-properties, reductionism, epistemology, philosophical-zombies, knowledge-argument, arguments-against-materialism, consciousness-defeats-explanation, inference-to-the-best-explanation-against-dualism, consciousness-and-scientific-explanation) plus the hub type-a-type-b-and-type-c-physicalism and phenomenal-concepts-strategy; neighbours hard-problem-of-consciousness, materialism, dualist-perception measured and grepped
+- **Verdict**: Type-B now stated one way across the wing (a posteriori identity, gap permanent, tier *compatible*, cost not refutation); calibration uniform on four pages edited independently. Not yet built on: no single page states the assembled case against Type-B (closest: arguments-against-materialism L83, two of seven parts); the conflation survives OUTSIDE the ten on two tenet-linked hubs — hard-problem-of-consciousness L233 ("merely epistemic and closeable by future neuroscience (the physicalist reading)", a two-way choice that omits the Type-B reading) and materialism L192 ("treating the hard problem as merely difficult", which is Type-C). Hub's Misroutings bullet 2 covers only the reply form of the error; the sweep shows it recurs as a definition.
+- **Brief's three questions**: answered in the review's §Answers to the Brief (no single page: complete AAM L83 rather than add a page; not a routing-table row but a Misroutings sentence; two live conflations outside the ten, four correct loci, four false positives — corpus grep two ways, reported not fixed)
+- **Priority List (4 items, measured headroom, `>=` gate)**: (1) hard-problem-of-consciousness L233 three readings, +19 (headroom 314); (2) arguments-against-materialism L83 +95 and L141 +25, completing the one-paragraph case and un-exempting the Type-B majority (headroom 700); (3) hub L112 definitional-form sentence, +49 (headroom 669; L112 owned by no open task); (4) materialism L192 +29 and L142 +3 (headroom 288)
+- **Not re-raised**: open P3s on PCS L39/L85/L139, explanatory-gap L121/L141, hub L123/L38/L92/L122/L128, IBE L64/L74/L80; philosophical-zombies L97 already fixed at c74ba700b9 this morning; the 10-02 wing review's items
+- **Output**: [optimistic-2026-10-07-type-b-sweep-wing](/reviews/optimistic-2026-10-07-type-b-sweep-wing/)
 
 ## 10:22 - refine-draft
 - **Status**: Success

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T11:52:00+00:00
+ai_modified: 2026-10-07T12:10:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:10 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Word count**: 3887 → 3919 (+32; citation apparatus, offset by six prose trims; under the 4000 hard ceiling)
+- **Critical issues addressed**: 2 — (1) COGITATE result-direction error: "no clear ignition at stimulus *onset*" corrected to the *Nature* abstract's "general lack of ignition at stimulus *offset*" plus "limited prefrontal representation of certain dimensions"; the cite had been ledgered real-correct on metadata at three prior reviews. Family sweep fixed the identical sentence in the archived predecessor `archive/topics/disorders-of-consciousness-as-test-cases.md` L68 (live URL). (2) Five References entries never cited inline (Giacino 2002, Owen 2006, Koch 2016, Thompson 2014, Frankish 2016) — each now attached at the sentence it supports.
+- **Medium issues addressed**: 2 — Frankish's reply to the illusionism regress added (regress "pressed, not closed"); Mashour 2024 *Neuron* reference enriched to 112(10), 1553-1567 + DOI.
+- **Enhancements made**: 1 — piped link to [[global-workspace-theory|GNWT's proponents]]' onset/offset reply, aligning the article with the corpus's own GWT page.
+- **Citation ledger**: ten publisher-of-record checks (Crossref + Europe PMC full text): Franzova 2023, Laigaard 2026, Aubinet 2025, Casarotto 2016, Schnakers 2009, Bodien 2024, Mashour 2024 all real-correct; Aubinet "consistent with the incidence of covert command-following" and Laigaard "preserved large-scale cortical connectivity" grep-verified verbatim in raw full text.
+- **Engagement modes** (editor-internal): illusionism — Mode Two opening with Mode Three residue, prior text had overstated toward Mode One; physicalist disconnection reading — Mode Three, conceded in full since the 10-01/02 recalibration.
+- **Verified**: both trees (obsidian + hugo/content) for the article and the archive page after `sync.py`.
+- **Output**: [[reviews/deep-review-2026-10-07-consciousness-disruption-and-the-mind-brain-interface]]
 
 ## 11:52 - research-topic
 - **Status**: Success
