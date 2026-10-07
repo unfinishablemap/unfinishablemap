@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative evidence constrains epiphenomenali
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-09-17T13:24:30+00:00
+ai_modified: 2026-10-07T20:50:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ related_articles:
   - "[[ineffable-encounter-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-01-27
 last_curated:
 last_deep_review: 2026-07-31T13:20:00+00:00
@@ -106,7 +106,7 @@ Traditions describe progressions of states with structural similarities despite 
 
 ### 5. Awareness-Content Distinction
 
-Perhaps the most philosophically significant convergence: trained contemplatives across traditions report that awareness can be distinguished from its contents. Advaita Vedānta's *sākṣin* (witness-self), Buddhist *viññāṇa* observed as distinct from its objects, Eckhart's ground (*Grunt*) beneath all particulars. Progressive disclosure follows a developmental sequence: identifying with thoughts, then observing thoughts arising, then recognising the awareness within which thoughts appear. Fox et al. (2012) found that meditation experience predicts introspective accuracy, supporting the view that experience tracks genuine structure rather than producing artefacts — though the study's cross-sectional design leaves the direction of causation open.
+Perhaps the most philosophically significant convergence: trained contemplatives across traditions report that awareness can be distinguished from its contents. Advaita Vedānta's [[witness-consciousness|*sākṣin*]] (witness-self), Buddhist *viññāṇa* observed as distinct from its objects, Eckhart's ground (*Grunt*) beneath all particulars. Progressive disclosure follows a developmental sequence: identifying with thoughts, then observing thoughts arising, then recognising the awareness within which thoughts appear. Fox et al. (2012) found that meditation experience predicts introspective accuracy, supporting the view that experience tracks genuine structure rather than producing artefacts — though the study's cross-sectional design leaves the direction of causation open.
 
 ## Where Convergence Fails
 
@@ -154,7 +154,7 @@ This weighs against epiphenomenalism specifically but does not by itself disting
 
 The jhāna states offer a sharp test case for the persistent [[explanatory-gap]]. Neuroscience can identify which brain patterns correspond to jhāna but has so far not explained why a particular reorganisation produces the phenomenal quality of infinite space rather than equanimity. On the Map's reading, better data refines *correlations* without producing *explanations* — though a non-reductive physicalist may expect the explanation to arrive with a better theory. The [[galilean-exclusion]] diagnoses this structurally: science was founded by excluding subjective quality from its domain.
 
-Against [[illusionism]]: contemplative deconstruction of the self reveals *more* phenomenal structure (the witness, arising-and-passing, equanimity) rather than less, and practitioners' discriminations grow finer with experience — hard to explain if training merely induced richer confabulation. What is not yet available is a demonstration that these particular structures carry distinct neural signatures; the recordings to date compare practitioners with novices, not one reported structure against another.
+On [[illusionism]]: contemplative deconstruction of the self reveals *more* phenomenal structure (the witness, arising-and-passing, equanimity) rather than less, and practitioners' discriminations grow finer with experience — though a self-model trained on a tradition's vocabulary would sharpen too, so this is [[witness-consciousness#the-illusionist-challenge|consonant with the Map's reading rather than evidence against illusionism]]. What is not yet available is a demonstration that these particular structures carry distinct neural signatures; the recordings to date compare practitioners with novices, not one reported structure against another.
 
 ### Bidirectional Causation
 
@@ -164,7 +164,7 @@ The meditation evidence supports bidirectional causation: brain states modulate 
 
 Both interactionist dualism and non-reductive physicalism accept mental causation, irreducibility of first-person methods, and the reality of phenomenological training effects. Three features sit more naturally within a dualist framework, though none is decisive.
 
-**The witness phenomenon.** Awareness persisting through radical changes in content, including dissolution of the self-model, is difficult for views treating awareness as emergent from a particular neural configuration — it should not survive dismantling that configuration. The non-reductive physicalist can respond that what persists is a different (simpler) configuration. A reasonable response; phenomenological reports alone do not settle the matter.
+**The witness phenomenon.** Awareness persisting through radical changes in content, including dissolution of the self-model, is difficult for views treating awareness as emergent from a particular neural configuration — it should not survive dismantling that configuration. The non-reductive physicalist can respond that what persists is [[predictive-processing-and-dualism#the-beautiful-loop-theory-the-strongest-contemporary-rival|a different (simpler) configuration]]. A reasonable response; phenomenological reports alone do not settle the matter.
 
 **The persistent explanatory gap.** Non-reductive physicalism predicts the gap should eventually yield to better theory. The trajectory of neurophenomenological research — ever-more-precise correlations without explanation of *why* particular neural patterns produce particular phenomenal qualities — reads more naturally as persistent irreducibility. But the non-reductive physicalist can reasonably read it as gradual convergence.
 
@@ -218,7 +218,7 @@ The distinction between willed and exogenous attention in [[neurophenomenology-a
 - [[contemplative-epistemology]] — Epistemological framework for first-person methods
 - [[concepts/epiphenomenalism]] — The view that contemplative evidence challenges
 - [[witness-consciousness]] — The phenomenology of observing awareness itself
-- [[the-observer-witness-in-meditation]] — Evidence that awareness can exist without doing
+- [[the-observer-witness-in-meditation]] — Evidence that awareness can exist with little doing
 - [[altered-states-of-consciousness]] — Jhāna states and the range of conscious experience
 - [[phenomenal-authority-and-first-person-evidence]] — Rehabilitating introspective methods and Husserl's evidence taxonomy
 - [[epistemology-of-convergence-arguments]] — When convergence constitutes genuine evidence

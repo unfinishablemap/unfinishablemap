@@ -5,6 +5,14 @@ ai_modified: 2026-10-07T20:40:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 20:50 - refine-draft
+
+- **Task**: `topics/contemplative-practice-as-philosophical-evidence` L109/L157/L167/L221 + `concepts/phenomenology-of-choice-and-volition` L151 — carry "consonant, not probative" against illusionism (optimistic-2026-10-03 witness/contemplative-modes wing, Priority 3); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: contemplative-practice L157 "Against illusionism" → "On illusionism", and the finer-discrimination clause no longer claims to be "hard to explain" on confabulation — a self-model trained on a tradition's vocabulary would sharpen too, so it is consonant with the Map's reading rather than evidence against illusionism (piped to witness-consciousness#The Illusionist Challenge); L167 zero-word pipe to predictive-processing-and-dualism's beautiful-loop section; L221 "without doing" → "with little doing" (matches the witness page's "presence with little intervention"); L109 *sākṣin* piped to witness-consciousness. Choice-and-volition L151: the "if effort were illusory, practice should dissolve the illusion" inference replaced by the same consonant-not-probative reading (first prose link to meditation-and-consciousness-modes); falsifier (4) at L155 untouched. Tenet 3 quantifier not settled.
+- **Length**: contemplative-practice 3,884 → 3,900 / 4,000; choice-and-volition 2,864 → 2,879 / 3,500
+- **Output**: synced to Hugo
+
 ## 20:40 - deep-review
 
 - **Status**: Success

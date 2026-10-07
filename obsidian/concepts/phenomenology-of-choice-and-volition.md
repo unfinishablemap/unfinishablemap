@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-10-04T17:00:37+00:00
+ai_modified: 2026-10-07T20:50:23+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-22
 last_curated:
 last_deep_review: 2026-09-21T16:05:00+00:00
@@ -148,7 +148,7 @@ Wegner's evidence comes from cases where agency attribution goes wrong — autom
 
 Mele's critique adds that the Libet paradigm tests spontaneous wrist flicking — bearing little resemblance to genuine voluntary action involving deliberation, reasons, and competing considerations. What subjects become aware of may be an urge to flex, not a decision already made.
 
-If choosing were passive reception of randomly determined outcomes, it would be unclear why deliberation *presents itself* as costly — attentional, emotional, temporal — rather than merely incurring neural costs unfelt. The [[quantum-indeterminacy-free-will|luck objection]] compounds this: why does choosing feel like achievement while lucky outcomes don't? And if effort were illusory, extended contemplative practice should dissolve the illusion. Instead, meditators report *clearer* discrimination between effortful and effortless states.
+If choosing were passive reception of randomly determined outcomes, it would be unclear why deliberation *presents itself* as costly — attentional, emotional, temporal — rather than merely incurring neural costs unfelt. The [[quantum-indeterminacy-free-will|luck objection]] compounds this: why does choosing feel like achievement while lucky outcomes don't? Extended contemplative practice also yields *clearer* discrimination between effortful and effortless states rather than dissolving it—though a self-model trained on a tradition's vocabulary would sharpen too, so this is [[meditation-and-consciousness-modes#the-illusionist-challenge|consonant with the Map's reading rather than probative]].
 
 ## What Would Challenge This View?
 
