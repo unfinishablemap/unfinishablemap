@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T05:04:44.926977+00:00'
-session_count: 22246
+last_updated: '2026-10-07T05:49:12.910983+00:00'
+session_count: 22247
 cycle_position: 14400
 last_runs:
   add-highlight: '2026-10-06T08:36:43.675193+00:00'
@@ -15,7 +15,7 @@ last_runs:
   check-tenets: '2026-10-07T03:11:49.827218+00:00'
   coalesce: '2026-10-06T23:35:07.010472+00:00'
   collect-chatgpt-review: '2026-10-06T04:01:45.396798+00:00'
-  collect-claude-review: '2026-10-06T04:35:41.251468+00:00'
+  collect-claude-review: '2026-10-07T05:49:12.910983+00:00'
   collect-gemini-review: '2026-10-06T05:29:34.139563+00:00'
   combine-outer-reviews: '2026-10-06T05:50:25.973520+00:00'
   commission-chatgpt-review: '2026-10-07T03:54:56.199735+00:00'
@@ -113,7 +113,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 651
-  reviews_completed: 7881
+  reviews_completed: 7882
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-06'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-07'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: trigger
+- task: collect-claude-review
+  type: collect-claude-review
+  date: '2026-10-07'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/

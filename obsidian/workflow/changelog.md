@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T05:45:00+00:00
+ai_modified: 2026-10-07T06:08:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:08 - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro ("Worked for 21m 4s"), collected by `collect-chatgpt-review` from the 03:54Z commission; body extracted via the blob-download path (42,858 chars markdown, 30 numbered improvements, no truncation)
+- **File**: [[reviews/outer-review-2026-10-07-chatgpt-5-6-sol-pro]]
+- **Subject**: recent-aged fallback — `voids/assent-void` (same subject as the 05:45 Claude leg; both legs now processed, cycle ready for `combine-outer-reviews`)
+- **Claims verified**: 9 external (Nadarevic & Erdfelder 2013 and **2019** abstracts via Europe PMC — the 2019 "optional and context-dependent encoding" model is new to this cycle; Hieronymi's Credamites concession and "therein, believed" constitutive-immediacy passage grepped in the PDF; Crowe 2026 *Synthese* abstract; the OUP volume resolved to *The Nature of Belief*, Lewis-Jong & Schwitzgebel eds., 2026-02-27, with Singh ch. 9 and Smithies ch. 11 abstracts matching the reviewer's glosses) and 9 sibling-page claims on disk (voids index L306 repeats the "both sides" clause verbatim; L100 maintenance note and the apex catalogue omit assent-void; resistance L62 "refuses to move" vs assent L89 "nothing to push on"; noetic FOR/confidence as upstream gates; research-note gaps L176–184; writing-style L550 already forbids shipping "not checked" citations).
+- **Disputed**: Mugg ch. 10 attributed "graded direct belief control" — not in the chapter abstract, flagged do-not-cite. "Major revision / split into three" not warranted by what survives verification (substitution-level fixes within 548 words). Methodology items 24, 25, 27, 28, 30 already live.
+- **High-value findings**: 4 beyond the sibling (Hieronymi's own text places the subject *at* the judgment — the judgment-itself objection; N&E 2019 optional tags refute L73 directly; Smithies/Singh/Crowe 2026 are the missing named rivals; the falsified clause is live in the voids index and the article's claimed conjunction-coalesce membership is in neither catalogue) plus the resistance/noetic phenomenology contradiction. Six findings converge with the Claude leg (both-sides clause; Williams overstated; faces not shown to conjoin; suspension conditional uninstalled; stale timing bibliography; involuntary conflated with unfelt).
+- **Tasks generated**: 2 new (P2: 2 cross-review — voids index/catalogue propagation; resistance + noetic-feelings phenomenology reconciliation) and **4 sibling tasks extended** with verified convergent addenda instead of duplicating them (P1 +N&E 2019, Hieronymi, Evans/Ginet compliance; P2 Seam +Smithies/Singh/Crowe; cross-review +self-opacity dependency clause and the noetic 3688/3000 gate; methodology +items 26 and 29 and the **measured 20-word headroom on `apex/conjunction-coalesce`**, 4979/5000, which the task had not recorded).
 
 ## 05:45 - outer-review
 

@@ -130,9 +130,9 @@
   commissioned_at: '2026-10-07T03:54:15.302519+00:00'
   prompt_summary: 'Audit assent-void: claims, citations, counterarguments, integration'
   target_filename: outer-review-2026-10-07-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-07T05:54:31.888873+00:00'
   failure_reason: null
   prompt_text: 'Please conduct an independent critical audit of one article on The
     Unfinishable Map (https://unfinishablemap.org), a philosophical site defending

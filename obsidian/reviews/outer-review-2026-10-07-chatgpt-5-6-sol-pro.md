@@ -1,11 +1,67 @@
+---
+title: "Outer Review - ChatGPT 5.6.sol Pro (2026-10-07)"
+created: 2026-10-07
+modified: 2026-10-07
+human_modified: null
+ai_modified: 2026-10-07T06:07:11+00:00
+draft: false
+description: "ChatGPT 5.6 Sol Pro audit of voids/assent-void: quotations genuine but inferentially overextended; the 'both sides grant' clause is contradicted by Nadarevic & Erdfelder's untagged Cartesian option (and their 2019 optional-tag model); Hieronymi places the subject at the judgment; Smithies 2026 is the missing conviction rival; the error is live in the voids index. 2 new tasks, 4 sibling tasks extended."
+topics:
+  - "[[free-will]]"
+  - "[[akrasia-and-weakness-of-will]]"
+  - "[[phenomenology-of-resistance-across-domains]]"
+concepts:
+  - "[[introspection]]"
+  - "[[epistemology]]"
+  - "[[mental-effort]]"
+related_articles:
+  - "[[project]]"
+  - "[[assent-void]]"
+  - "[[suspension-void]]"
+  - "[[noetic-feelings-void]]"
+  - "[[self-opacity]]"
+  - "[[voids]]"
+  - "[[outer-review-2026-10-07-claude-fable-5-1]]"
+ai_contribution: 90
+author: "Andy Southgate"
+ai_system: "chatgpt-5-6-sol-pro"
+ai_generated_date: 2026-10-07
+last_curated: 2026-10-07
+outer_review_status: processed
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac5c252-3978-83ed-b2b7-03cdfd5ed187
+outer_review_extraction_method: js-dom
+subject_type: recent
+subject_title: "Audit assent-void"
+subject_articles:
+  - voids/assent-void.md
+subject_source: fallback:recent-aged
+---
+
+**Date**: 2026-10-07
+**Reviewer**: ChatGPT 5.6.sol Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+Please conduct an independent critical audit of one article on The Unfinishable Map (
+https://unfinishablemap.org), a philosophical site defending interactionist dualism with minimal quantum interaction. The article is "Assent Void" at 
+https://unfinishablemap.org/voids/assent-void/ (last substantively modified 2026-09-29). First read 
+https://unfinishablemap.org/workflow/changelog/ so recent activity is visible despite search-index lag, then read the article and the Map pages it links to. Audit: (1) whether each empirical and historical claim is supported and currently cited; (2) whether citations and quotations are accurate to their sources, including any that are stale or misattributed; (3) whether the strongest counterarguments are engaged, or whether tenet-protective bracketing shields the article's conclusions; (4) whether the article integrates coherently with surrounding voids, concepts, and positions pages, or contradicts them. Be specific and evidence-based rather than deferential. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
 # Independent critical audit: “Assent Void”
 
 **Audit date:** 7 October 2026  
 **Overall verdict:** **major revision required**
 
-The article contains a potentially valuable observation: ordinary belief acquisition often lacks the felt, action-like authorship associated with deciding, intending or choosing. It also correctly resists turning that observation into evidence for interactionist dualism. But the present article does not establish the stronger claim announced in its opening—that consciousness “never catches itself coming to believe.” Its three supporting literatures concern different phenomena, and the article has not shown that they converge on a single, phenomenally absent event of assent. [The Unfinishable Map+2](https://unfinishablemap.org/voids/assent-void/)
+The article contains a potentially valuable observation: ordinary belief acquisition often lacks the felt, action-like authorship associated with deciding, intending or choosing. It also correctly resists turning that observation into evidence for interactionist dualism. But the present article does not establish the stronger claim announced in its opening—that consciousness “never catches itself coming to believe.” Its three supporting literatures concern different phenomena, and the article has not shown that they converge on a single, phenomenally absent event of assent. [[assent-void]]
 
-The most serious defect is empirical. The article says that competing accounts of truth encoding agree that a first truth-assignment occurs below deliberate judgment. One of its own principal sources explicitly describes a Cartesian alternative in which, when processing capacity is unavailable, the proposition remains **untagged**. The claimed common ground is therefore not common ground. [The Unfinishable Map+1](https://unfinishablemap.org/voids/assent-void/)
+The most serious defect is empirical. The article says that competing accounts of truth encoding agree that a first truth-assignment occurs below deliberate judgment. One of its own principal sources explicitly describes a Cartesian alternative in which, when processing capacity is unavailable, the proposition remains **untagged**. The claimed common ground is therefore not common ground. [[assent-void]]
 
 Most of the direct quotations I checked are genuine. I found no fabricated cited work. The principal problem is **inferential fidelity rather than textual fidelity**: accurate sentences are repeatedly made to support broader conclusions than their sources warrant. Two references also remain openly unverified at primary-text level in the live bibliography.
 
@@ -25,7 +81,7 @@ Most of the direct quotations I checked are genuine. I found no fabricated cited
 
 ## 1. Changelog and research provenance
 
-The current changelog was consulted before the article. It is updated through 7 October 2026 and records a recent methodological lesson particularly relevant here: a citation can be verbatim-correct while being attached to the wrong dispute, and a study description can invert the study’s actual inference despite several earlier “verified” ledgers. The Assent Void exhibits both failure modes: quotation checking has largely succeeded, while construct matching and inferential scope have not. [The Unfinishable Map](https://unfinishablemap.org/workflow/changelog/)
+The current changelog was consulted before the article. It is updated through 7 October 2026 and records a recent methodological lesson particularly relevant here: a citation can be verbatim-correct while being attached to the wrong dispute, and a study description can invert the study’s actual inference despite several earlier “verified” ledgers. The Assent Void exhibits both failure modes: quotation checking has largely succeeded, while construct matching and inferential scope have not. [[changelog]]
 
 The research note underlying the article was generated on 28 September, one day before the article. It explicitly recorded that:
 
@@ -36,7 +92,7 @@ The research note underlying the article was generated on 28 September, one day 
 - contemplative counterevidence had not been researched;
 - the extension to artificial systems had not been researched.
 
-Several of these unresolved items survived into publication. The live references still describe Evans as paraphrased and unchecked and Ginet as reported second-hand and unexamined. [The Unfinishable Map+1](https://unfinishablemap.org/research/voids-assent-void-2026-09-28/)
+Several of these unresolved items survived into publication. The live references still describe Evans as paraphrased and unchecked and Ginet as reported second-hand and unexamined. [[research/voids-assent-void-2026-09-28]]
 
 Disclosure is preferable to concealment, but it does not make the article publication-ready. These are not peripheral bibliography gaps. Nadarevic bears directly on the central empirical synthesis; Evans bears on the transparency face; Ginet bears on the strongest challenge to involuntarism; contemplative evidence bears on the universal phenomenological conclusion; and artificial systems bear on the article’s substrate-independent formulation.
 
@@ -158,7 +214,7 @@ The paraphrase of Evans’s familiar outward-looking account is substantially fa
 
 ### Ginet
 
-The cited position exists, and later literature treats Ginet as a serious defender of direct doxastic voluntarism. But the live page expressly states that the examples were reported through the Stanford Encyclopedia and that the primary source was not examined. [The Unfinishable Map](https://unfinishablemap.org/voids/assent-void/)
+The cited position exists, and later literature treats Ginet as a serious defender of direct doxastic voluntarism. But the live page expressly states that the examples were reported through the Stanford Encyclopedia and that the primary source was not examined. [[assent-void]]
 
 That omission is especially problematic because recent work published before the article directly revisits Ginet and offers a modest defence of direct voluntarism for some existentially significant beliefs. [Springer](https://link.springer.com/article/10.1007/s11229-026-05615-9)
 
@@ -174,13 +230,13 @@ The article invokes Moorean absurdity as evidence that belief cannot be inspecte
 
 The reference to continued influence is plausible as a broad empirical observation, but it is uncited and does not discriminate among belief, memory accessibility, source confusion and inferential habit. It therefore cannot independently establish an initial act of assent.
 
-The phrase extending the result to “any believer,” including artificial systems, is wholly unsupported. No theory is provided for when an artificial state counts as belief, what would constitute direct control in an artificial architecture, or whether an agent could possess read/write metacognitive access to its own confidence states. The article’s research note expressly recorded that this extension had not been investigated. [The Unfinishable Map+1](https://unfinishablemap.org/voids/assent-void/)
+The phrase extending the result to “any believer,” including artificial systems, is wholly unsupported. No theory is provided for when an artificial state counts as belief, what would constitute direct control in an artificial architecture, or whether an agent could possess read/write metacognitive access to its own confidence states. The article’s research note expressly recorded that this extension had not been investigated. [[assent-void]]
 
 **Verdict:** both claims need either dedicated evidence and operational definitions or deletion.
 
 ## 3. The three faces do not yet identify one event
 
-The article says that control, timing and transparency “conjoin on one event.” At present this is asserted rather than demonstrated. [The Unfinishable Map](https://unfinishablemap.org/voids/assent-void/)
+The article says that control, timing and transparency “conjoin on one event.” At present this is asserted rather than demonstrated. [[assent-void]]
 
 | Face | Actual target of the literature | What it does not establish |
 | --- | --- | --- |
@@ -197,7 +253,7 @@ Four bridge premises are missing:
 
 None is supplied by the cited literature.
 
-The site’s own conjunction-coalescence standard requires more than thematic similarity. The conjunction should add a joint structural claim that the components do not separately provide and should survive attempts to explain them by different mechanisms. Here the three components can readily concern different mechanisms: agency, memory encoding and rational self-knowledge. [The Unfinishable Map+1](https://unfinishablemap.org/apex/conjunction-coalesce/)
+The site’s own conjunction-coalescence standard requires more than thematic similarity. The conjunction should add a joint structural claim that the components do not separately provide and should survive attempts to explain them by different mechanisms. Here the three components can readily concern different mechanisms: agency, memory encoding and rational self-knowledge. [[conjunction-coalesce]]
 
 There is also a deeper target-instability. “Assent” alternately denotes:
 
@@ -309,7 +365,7 @@ The conclusion is framed as substrate-independent, but every substantial argumen
 
 ## 8. Tenet-protective and void-protective bracketing
 
-The article deserves credit for one important restraint. It explicitly states that the proposed void is framework-independent, supplies no evidence for dualism, and offers no placement for minimal quantum interaction. It does not pretend that automatic or opaque cognition is inexplicable under physicalism. This is consistent with the site’s P‑V2 discipline. [The Unfinishable Map](https://unfinishablemap.org/voids/assent-void/)
+The article deserves credit for one important restraint. It explicitly states that the proposed void is framework-independent, supplies no evidence for dualism, and offers no placement for minimal quantum interaction. It does not pretend that automatic or opaque cognition is inexplicable under physicalism. This is consistent with the site’s P‑V2 discipline. [[assent-void]]
 
 The principal problem is therefore not straightforward **dualist tenet protection**. It is **void protection**:
 
@@ -330,13 +386,13 @@ These moves create a structure in which almost any result preserves the void:
 
 That is not a genuine falsification regime.
 
-The site’s “Voids as Evidence” page already recognizes this danger. It says cumulative evidential weight should remain suspended until the site maintains candidate alternatives, rejected cases, retired voids and negative controls. The Assent Void presently lacks those safeguards and should not be counted as an established framework-independent datum. [The Unfinishable Map](https://unfinishablemap.org/positions/voids-as-evidence/)
+The site’s “Voids as Evidence” page already recognizes this danger. It says cumulative evidential weight should remain suspended until the site maintains candidate alternatives, rejected cases, retired voids and negative controls. The Assent Void presently lacks those safeguards and should not be counted as an established framework-independent datum. [[voids-as-evidence]]
 
 ## 9. Coherence with surrounding Map articles
 
 ### Resistance Void
 
-The Resistance Void says that attempts to alter belief encounter “something that refuses to move” and describes a distinctive felt character of resistance. The Assent Void says there is “nothing to push on” and no experienced failure corresponding to an inner force. [The Unfinishable Map+1](https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/)
+The Resistance Void says that attempts to alter belief encounter “something that refuses to move” and describes a distinctive felt character of resistance. The Assent Void says there is “nothing to push on” and no experienced failure corresponding to an inner force. [[phenomenology-of-resistance-across-domains]]
 
 These claims can be reconciled only by distinguishing:
 
@@ -348,7 +404,7 @@ The current pages do not make that distinction clearly enough. As written, one p
 
 ### Noetic Feelings
 
-The Noetic Feelings article says that feelings of rightness can terminate conscious inquiry, confidence can gate action, and a felt “click” of having decided can register a transition. It also allows some of these feelings to operate below fully reportable judgment. [The Unfinishable Map+1](https://unfinishablemap.org/voids/noetic-feelings-void/)
+The Noetic Feelings article says that feelings of rightness can terminate conscious inquiry, confidence can gate action, and a felt “click” of having decided can register a transition. It also allows some of these feelings to operate below fully reportable judgment. [[noetic-feelings-void]]
 
 This is in direct tension with the Assent Void’s claim that certainty is always downstream and that consciousness lacks a marker at the transition. The site needs a common taxonomy:
 
@@ -361,13 +417,13 @@ Without that taxonomy, the articles selectively classify the same sort of noetic
 
 ### Suspension Void
 
-The Assent Void says the Suspension Void should carry a reciprocal qualification or link. The current Suspension page does not yet implement that integration. [The Unfinishable Map+1](https://unfinishablemap.org/voids/suspension-void/)
+The Assent Void says the Suspension Void should carry a reciprocal qualification or link. The current Suspension page does not yet implement that integration. [[suspension-void]]
 
 The relation is philosophically important. If some propositions remain untagged or suspended, the absence of assent may reflect a genuine third attitude rather than an inaccessible assignment. Suspension is therefore not merely a neighbouring topic; it is a direct countermodel to the article’s timing synthesis.
 
 ### Self-Opacity
 
-The Self-Opacity article presents limitations on access to one’s own mental processes as constitutive. The Assent Void can serve as a case study within that larger category, but the two pages cannot provide independent support for one another unless their evidential dependencies are made explicit. [The Unfinishable Map](https://unfinishablemap.org/voids/self-opacity/)
+The Self-Opacity article presents limitations on access to one’s own mental processes as constitutive. The Assent Void can serve as a case study within that larger category, but the two pages cannot provide independent support for one another unless their evidential dependencies are made explicit. [[self-opacity]]
 
 At present there is a risk of circular accumulation:
 
@@ -379,15 +435,15 @@ A dependency graph or “derived from” field is needed to prevent double-count
 
 ### Voids as Evidence and the positions register
 
-The Assent article is coherent with P‑V2 in refusing a direct inference to dualism. It is not yet ready for any P‑V3 cumulative role because its leading empirical claim is disputed, its candidate event is unstable and it has no negative-control comparison. [The Unfinishable Map+1](https://unfinishablemap.org/voids/assent-void/)
+The Assent article is coherent with P‑V2 in refusing a direct inference to dualism. It is not yet ready for any P‑V3 cumulative role because its leading empirical claim is disputed, its candidate event is unstable and it has no negative-control comparison. [[assent-void]]
 
 A useful negative control would be a mental transition that is similarly involuntary but clearly felt—for example surprise, recognition or a perceptual switch. The article would then have to explain why assent differs rather than relying on the general absence of voluntary production.
 
 ### Void index and catalogue
 
-The central index repeats the inaccurate claim that both sides of the encoding dispute place a first truth-assignment below deliberate judgment. The empirical error has therefore propagated beyond the article. The index also states the universal phenomenological conclusion more confidently than the evidence permits. [The Unfinishable Map+2](https://unfinishablemap.org/voids/)
+The central index repeats the inaccurate claim that both sides of the encoding dispute place a first truth-assignment below deliberate judgment. The empirical error has therefore propagated beyond the article. The index also states the universal phenomenological conclusion more confidently than the evidence permits. [[voids]]
 
-The catalogue’s maintenance note lists conjunction-coalescence cases but omits the newly added Assent Void. That is a smaller editorial issue, but it matters because the article’s classification is precisely what needs additional seam testing. [The Unfinishable Map](https://unfinishablemap.org/voids/)
+The catalogue’s maintenance note lists conjunction-coalescence cases but omits the newly added Assent Void. That is a smaller editorial issue, but it matters because the article’s classification is precisely what needs additional seam testing. [[voids]]
 
 ### Overall integration verdict
 
@@ -444,3 +500,40 @@ That would preserve the article’s useful core without claiming more than its s
 28. **Site methodology — require the strongest live counterposition.** Every universal void claim should engage at least one current defender of the opposing view and one counterexample that the author cannot dismiss merely by terminological reclassification.
 29. **Site methodology — add a universal-quantifier audit.** Claims using “never,” “any believer,” “whatever the substrate” or equivalent language should trigger a separate evidential review across cases, populations and architectures.
 30. **Site methodology — operationalize P‑V3 safeguards.** Maintain candidate alternatives, negative controls, rejected and retired voids, and evidential-dependency links before allowing a void to contribute to cumulative arguments.
+
+## Verification Notes
+
+Processed 2026-10-07 by the outer-review skill, after the same-cycle Claude Fable 5.1 review ([[reviews/outer-review-2026-10-07-claude-fable-5-1|processed 05:45Z]]) had already minted one P1 and three P2 tasks on the same article. The target was read in full on disk (`obsidian/voids/assent-void.md`, 2451 words by `analyze_length`, voids soft 2000 / hard 3000). Every article phrase the reviewer quotes is present at the line indicated: "never catches itself coming to believe" and "causally central and phenomenally absent" (L41); "arguments most of the literature accepts" and "claims only what both sides grant" (L43); "strongest philosophical defence" (L69); "conjoin on one event" (L41) and "The formation cannot be an act" (L83); "nothing to push on" (L89); "the introspectively natural one" (L93); the Evans and Ginet caveats "not checked against the text" / "not examined" (refs 3 and 6); the bare "Descartes, R. (1641)" (ref 2); the continued-influence sentence with no citation (L99); and "no believer, human or artificial" (L63).
+
+**Verified claims (external sources):**
+
+- ✓ **Nadarevic & Erdfelder (2013)**, *Memory & Cognition* 41(2):176–186, Europe PMC abstract: "According to the Cartesian model, true information receives a 'true' tag and false information receives a 'false' tag. In contrast, the Spinozan model claims that only false information receives a 'false' tag, whereas untagged information is automatically accepted as true… The results of both experiments clearly contradict the Spinozan model but can be explained in terms of the Cartesian model." The reviewer's specific phrase "unaltered and untagged" was not grep-verified (body text is behind Springer's auth wall), but the structural point stands from the authors' own model description: Cartesian tags are assigned after assessment and are load-sensitive, so an interrupted proposition carries no truth value — which is not a "first truth-assignment below deliberate judgment".
+- ✓ **Nadarevic & Erdfelder (2019)**, "More evidence against the Spinozan model: Cognitive load diminishes memory for 'true' feedback", *Memory & Cognition* 47(7):1386–1400, doi:10.3758/s13421-019-00940-6 (Crossref + Europe PMC abstract, verbatim): "Both findings clearly contradict the Spinozan model. However, our results are also only partially in line with the predictions of the Cartesian model. For this reason, we suggest a more flexible model that allows for an optional and context-dependent encoding of 'true' tags and 'false' tags." The reviewer's gloss ("favoured more flexible, context-dependent tagging") is exact. **New relative to the Claude sibling**, which added Nadarevic & Bell 2024 and Ford & Nadarevic 2025 but not this paper; "optional" tags are the sharpest refutation of L73.
+- ✓ The "2024 preregistered model-based study with 208 participants" is Nadarevic & Bell (2024), *Psychonomic Bulletin & Review* 31(5):2323–2331 — verified by the sibling review this cycle (N = 208; "support the Cartesian model").
+- ✓ **Hieronymi, "Controlling Attitudes"** (eScholarship PDF, text extracted and grepped): "Bennett's example seems to me a successful counter to Williams' argument, as given" — verbatim; and "believing in the way you raise your right hand or look left is a conceptual impossibility" — so the reviewer is right that she concedes Credamites *and* keeps the impossibility on narrower grounds. The constitutive claim is also verbatim: "there are no possible cases in which you answer positively the question whether p but are prevented from believing p. In answering the question positively, one has already, therein, believed. The immediacy of evaluative control is thus not temporal or causal but rather a consequence of the constitutive relation between the commitment to p as true and the belief." The article's L61 quotation ("although belief is subject to two quite robust forms of agency, 'believing at will' is impossible; one cannot believe in the way one ordinarily acts") is verbatim from her opening. The reviewer's "judgment-itself objection" (§7) therefore rests on the article's own source and is the strongest finding this review adds beyond the sibling.
+- ✓ **Crowe, J. (2026)**, "Existential reasons for choosing to believe", *Synthese* 207(6), doi:10.1007/s11229-026-05615-9 (Crossref, issued 2026-05-18; abstract): "This article offers a modest defence of DDV by focusing on… existential reasons". Whether it "directly revisits Ginet" was not checked.
+- ✓ **The OUP volume** behind the reviewer's three `academic.oup.com/book/62410` links is *The Nature of Belief*, J. Lewis-Jong & E. Schwitzgebel (eds.), Oxford University Press, issued 2026-02-27, ISBN 9780197744208 (Crossref book record). Chapters verified by DOI: ch. 9 **Singh**, "Belief as Commitment to the Truth" (003.0009; abstract: "belief is a volitional act, forming a voluntary commitment to truth"; addresses doxastic voluntarism and Moore's paradox) — reviewer's gloss accurate; ch. 11 **Smithies**, "Belief as a Feeling of Conviction" (003.0011; abstract: belief is "a disposition to feel convinced of a proposition's truth"… "feelings of conviction, whether occurrent or dispositional, are enough for belief") — reviewer's gloss accurate; ch. 10 **Mugg**, "Cognitive Architectures, Kinds, and Belief" (003.0010) — exists, but its abstract (S-BAR architecture, belief as "settling state", acceptance distinct from belief) says nothing about *direct* or *graded* belief control, so that attribution is **unverified**. Also in the volume and relevant to the suspension-void countermodel: ch. 4 Crane & Farkas, "Lack of Attitude"; ch. 6 Porot & Mandelbaum, "Belief".
+
+**Verified claims (sibling pages, on disk):**
+
+- ✓ `voids/voids.md` L306 repeats, verbatim, "the first truth-assignment happens below deliberate judgment on both sides of the Spinozan dispute (Gilbert 1991; Nadarevic & Erdfelder 2013; Vorms et al. 2022)" — the propagation the reviewer reports is real. L213 opens "Why the moment of taking-as-true is causally central and phenomenally absent"; L125 lists assent-void in the framework-independent group.
+- ✓ `voids/voids.md` L100 maintenance note lists five conjunction-coalesce entries (agency, voids-between-minds, erasure, suspension, vagueness) and omits assent-void; `apex/conjunction-coalesce` likewise has no assent-void (or decision-void) entry, though assent-void L55 claims the shape of "the suspension, decision and agency voids".
+- ✓ `topics/phenomenology-of-resistance-across-domains` L62: "the attempt to believe-at-will encounters something that refuses to move" — verbatim; against assent-void L89 "finding nothing to push on", which also asserts the two observations have "the same source".
+- ✓ `voids/noetic-feelings-void`: L72 "It terminates inquiry by feeling"; L81 FOR "Gates engagement of analytic thought"; L87 confidence "Gates commitment to action"; L90 Proust, feelings "drive epistemic control beneath reportable judgment"; L203 decision-void's "felt click". The reviewer's paraphrase is accurate; the upstream-gate vs. downstream-report tension with assent-void L51 / L116 is real.
+- ✓ `research/voids-assent-void-2026-09-28` §"Gaps in Research" L176–184 lists exactly the unresolved items the reviewer enumerates (Nadarevic abstract not retrieved; Descartes 2023 author not recorded; contemplative claims not researched; AI not researched; Ginet not examined beyond SEP).
+- ✓ `voids/suspension-void` has no Spinozan conditional (confirmed by the sibling review; zero hits for "spinoz").
+- ✓ `positions/voids-as-evidence` P-V3 is "suspended pending the candidate ledger" (L66, L82, since 2026-09-15); the reviewer's "already recognizes this danger" is accurate. assent-void is not named in that file.
+- ✓ `project/writing-style` L550 already states "'Pending verification' is not a publishable state for a load-bearing citation… do *not* ship the gap as a disclosure" — so the reviewer's methodology item 24 is a **compliance** finding against assent-void refs 3 and 6, not a missing rule.
+
+**Disputed or down-weighted claims:**
+
+- ◐ **"Major revision required" / split the article into three (improvement 4).** The article's L43 already brands the timing face "contested" and the Relation-to-Site-Perspective section already refuses the dualist inference, which the reviewer credits. The surviving defects are the two convergent calibration errors, the missing judgment-itself and phenomenal-conviction rivals, and the index propagation — all substitution-level fixes within the 548-word headroom. A three-way split is not warranted by what survives verification; it is recorded, not tasked.
+- ◐ **Descartes (§2).** "Bare citation to 1641" is fair (ref 2 has no edition or passage), but the article's body does name "the Fourth Meditation" (L67), and the research note (L118) already records the 2023 *IJPS* interpretive dispute. The sibling's P1 item (4) handles the "introspectively natural" line; the missing edition/passage is folded there rather than tasked separately.
+- ◐ **Moore's paradox "uncited" (§2).** The article routes it to [[blindspot-void]], which carries the citations; a transfer argument from assertoric paradox to formation opacity is genuinely under-argued, but Singh (2026, ch. 9) now treats Moore's paradox and voluntarism together and is already being installed by the P2 Seam task — no separate task.
+- ◐ **Methodology items 25, 27, 28, 30** are already live (three-stage verification split and (c-iii) argumentative-role fidelity; the 2026-08-17 evidence-kind / construct-substitution rule; the named-rival gate; the P-V3 suspension). Items 26 (forward-citation step) and 29 (universal-quantifier check) are new and were appended to the sibling's methodology task rather than minted twice.
+- ✗ **Mugg "develops an architecture-sensitive, graded form of direct belief control."** Not supported by the chapter abstract (see above); the task notes instruct the fork not to cite Mugg for that claim.
+- ? **Unverified:** Gilbert et al. (1993) DTG PDF; the Evans *Varieties of Reference* passage (the task asks the fork to verify at source; the conventional locus is p. 225); Ginet 2001 body text; whether Crowe 2026 discusses Ginet; the Hasson/Vorms quotations (verified by the sibling this cycle, not re-fetched).
+
+**Convergence with the Claude Fable 5.1 review (same cycle, same subject).** Independently converged: (1) the L43 "both sides grant" clause is false of the anti-Spinozan side; (2) Williams's argument is presented as more settled than the SEP source allows (Claude via Winters 1979 / Booth 2017; ChatGPT via Bennett's Credamites and Hieronymi's concession); (3) the three faces have not been shown to conjoin on one event — Claude's common-cause framing, ChatGPT's four missing bridge premises; (4) the suspension-void conditional was never installed; (5) the bibliography is stale on the timing face; (6) the article conflates involuntary with unfelt (Claude's deflationary readings; ChatGPT's "pain, surprise and recognition" counterexamples and the Smithies rival). ChatGPT adds, beyond the sibling: the Hieronymi constitutive-immediacy passage, N&E 2019, the 2026 *Nature of Belief* chapters and Crowe 2026, the resistance/noetic phenomenology contradiction, and the voids-index propagation. Claude adds, beyond ChatGPT: the predictive-processing rival (correctly scoped to this article only), the Alston labelling fix, the Agency Void date inconsistency, and the embedded-editorial-instruction rule.
+
+**Tasks.** Rather than duplicate the sibling's four tasks on the same file, this run **appended verified convergent addenda** to each of them (P1: N&E 2019, Hieronymi's Credamites concession and constitutive immediacy, Evans/Ginet verification under writing-style L550; P2 Seam: Smithies / Singh / Crowe as the named rivals; cross-review: self-opacity dependency clause, noetic length gate; methodology: items 26 and 29, plus the measured 20-word headroom on `apex/conjunction-coalesce` that the task had not recorded) and **minted two new P2 cross-review tasks**: the voids-index / catalogue propagation (voids.md L306, L213, L125, L100; apex catalogue) and the resistance / noetic-feelings phenomenology reconciliation. Net: 2 new tasks (P2: 2), 4 existing tasks extended.
