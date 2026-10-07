@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T08:08:26.550367+00:00'
-session_count: 22256
-cycle_position: 14404
+last_updated: '2026-10-07T08:24:52.658125+00:00'
+session_count: 22257
+cycle_position: 14405
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-06T21:56:45.961596+00:00'
   pessimistic-review: '2026-10-06T20:01:22.587204+00:00'
   positions-evolve: '2026-10-06T15:50:37.697051+00:00'
-  refine-draft: '2026-10-07T07:43:20.143921+00:00'
+  refine-draft: '2026-10-07T08:24:52.658125+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-06T03:35:12.551762+00:00'
   research-voids: '2026-10-07T02:34:48.557368+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-10-07'
-  outcome: success
-  kind: trigger
 - task: research-voids
   type: research-voids
   date: '2026-10-07'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-07'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/

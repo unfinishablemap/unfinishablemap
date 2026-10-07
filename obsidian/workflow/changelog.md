@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T08:23:47+00:00
+ai_modified: 2026-10-07T08:43:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:41 - pessimistic-review
+- **Status**: Success (reports only; no content or todo.md edits)
+- **Content reviewed**: this morning's assent-void integration wing read as one set — voids/assent-void (07:00Z + 07:13Z), voids/suspension-void (07:39Z), voids/decision-void (07:40Z), voids/self-opacity (07:40Z), apex/conjunction-coalesce (08:23Z). Lengths measured with analyze_length: assent 2,955 (condense pending, substitutions only), decision 2,991 (headroom 8), suspension 2,996 (headroom 3), self-opacity 3,071 (over hard), apex 4,978 (headroom 21).
+- **Findings**: (1) decision-void L84's new reconciliation claims decision "presents as a crossing among live alternatives" while the page's own closure face (L60, L112) says the crossing is not a phenomenal episode; "its first assignment may precede felt judgment" is the latency face offered as a disanalogy; Hieronymi's parity is structural, not only about voluntariness. (2) Nadarevic & Erdfelder 2019 abstract (Europe PMC, verified): a memory-tag model for truth-value *feedback* that leaves untagged status unstated — suspension-void L58 ("some propositions receive no truth-value … countermodel to any universal first-assignment thesis") and assent-void L73 ("no first truth-value at all … whether anything does") over-read it; the suspension sentence was ratified from the ChatGPT review, not the source. (3) assent-void L43 and L73 list different four positions (L43 doubles N&E, omits Vorms's prior-weighted tag); the open P2 at todo L40 prescribes the same defective four for voids index L306. (4) taxonomy-of-voids L157 still lists assent among conjoint voids "whose joint structure does work no single face could" against apex L78 / assent L83 "coherence, not conjunction" — routed to the open P2, not a new task. (5) self-opacity L126 names the constitutive thesis as the assent transparency face's source; the shared source is belief's truth-directedness. Apex's two deleted restatements stranded nothing (no quotes outside changelog/historical review; both inbound anchors resolve; "article on that mechanism" survives at L116).
+- **Priority list (cap 4)**: decision-void L84 (+6 ≤ 8) · suspension-void L58 (net 0) · assent-void L43+L73 (net −6, substitutions) · self-opacity L126 (net −2). Exact old/new text in the review file.
+- **Output**: [[reviews/pessimistic-2026-10-07-assent-void-integration-wing]]
 
 ## 08:23 - refine-draft
 - **Status**: Success
