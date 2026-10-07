@@ -5,6 +5,14 @@ ai_modified: 2026-10-07T17:43:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 18:05 - refine-draft
+
+- **Task**: `topics/hard-problem-of-consciousness` L233 + L237 — attribute the Type-B majority claim and scope the "paradigm in crisis" verdict (pessimistic-2026-10-07-type-b-wing-installs, Priority 1, required + both optionals); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: L233 "which most physicalists hold" → "reported as the majority physicalist view" (the hub L62 quotes Yetter-Chappell's abstract and Chalmers's "distinct minority" remark; the flagship page now reports rather than asserts); L233 closing sentence → "tells against the third reading only, and weakly" (hub routing row "C, weakly"; L123 "mildly unexpected on Type-C"); L237 "marks physicalism as a paradigm in crisis" → "marks the physicalism that expects closure as a paradigm in crisis" (hub Misrouting 1: persistence counts against Type-C, not physicalism as such). No reference added; calibration unchanged (compatible tier).
+- **Length**: 3,704 → 3,712 / 4,000 (+8; gate >=)
+- **Output**: synced to Hugo
+
 ## 17:43 - pessimistic-review
 - **Status**: Success (reports only; no content or todo.md edits)
 - **Content reviewed**: the four exact-text substitutions installed today 14:35Z–15:50Z from the Type-B wing Priority Lists — hard-problem L233 (three readings), arguments-against-materialism L83 + L141 (assembled case against Type-B), philosophy-of-science-under-dualism L84 (acquaintance asymmetry scoped to the illusionist), zombie-master L112 (Chalmers 2007 master argument) — each read against the hub (L36–L40, L62, L79–L123), revelation-thesis (L36, L76–L80), PCS (L67–L79, L97, L187) and zombie-master's own response map.

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-07T17:45:03.423182+00:00'
-session_count: 22293
+last_updated: '2026-10-07T17:49:40.558269+00:00'
+session_count: 22294
 cycle_position: 14430
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-07T16:52:50.952268+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-07T02:21:09.488366+00:00'
-  check-model-fallback: '2026-10-07T13:35:03.674784+00:00'
+  check-model-fallback: '2026-10-07T17:49:40.558269+00:00'
   check-tenets: '2026-10-07T03:11:49.827218+00:00'
   coalesce: '2026-10-07T12:50:03.819783+00:00'
   collect-chatgpt-review: '2026-10-07T06:08:46.725650+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-10-07'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-07'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-07'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-07'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/cotard-delusion/

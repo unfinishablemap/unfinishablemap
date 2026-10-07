@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-10-07 14:35:01+00:00
+ai_modified: 2026-10-07 18:05:00+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -61,7 +61,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 10:10:49+00:00
-lastmod: 2026-10-07 14:35:01+00:00
+lastmod: 2026-10-07 18:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -233,11 +233,11 @@ This supports the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet
 
 ## What Would Challenge This View?
 
-The claim that the hard problem is genuine would be challenged by: (1) successful reduction—deriving felt quality from neural descriptions explanatorily, not merely correlationally; (2) predictive functionalism—reliably predicting which computations yield which qualia and explaining *why*; (3) illusionism without regress—explaining the "illusion" of phenomenal consciousness without generating a new meta-level gap; (4) confirmed substrate independence—demonstrating phenomenal experience in silicon (though verification would face its own hard problem); (5) framework-dependence—showing that the problem arises only under specific ontological assumptions, as [Chinese philosophical traditions](/topics/the-hard-problem-in-non-western-philosophy/) suggest by never generating the gap within their holistic ontology. The persistent non-occurrence of (1)–(4) over decades provides inductive support for the gap's reality, though (5) remains a live conceptual challenge. Whether the gap is permanent and ontological (the dualist reading), permanent but conceptual (the [Type-B physicalist](/concepts/type-a-type-b-and-type-c-physicalism/) reading, which most physicalists hold), or closeable by future neuroscience (the Type-C reading) is itself underdetermined by the evidence: the same correlations are compatible with all three framings, and which reading one adopts turns on prior commitments about what an adequate explanation requires. The persistence cited above tells against the third reading only.
+The claim that the hard problem is genuine would be challenged by: (1) successful reduction—deriving felt quality from neural descriptions explanatorily, not merely correlationally; (2) predictive functionalism—reliably predicting which computations yield which qualia and explaining *why*; (3) illusionism without regress—explaining the "illusion" of phenomenal consciousness without generating a new meta-level gap; (4) confirmed substrate independence—demonstrating phenomenal experience in silicon (though verification would face its own hard problem); (5) framework-dependence—showing that the problem arises only under specific ontological assumptions, as [Chinese philosophical traditions](/topics/the-hard-problem-in-non-western-philosophy/) suggest by never generating the gap within their holistic ontology. The persistent non-occurrence of (1)–(4) over decades provides inductive support for the gap's reality, though (5) remains a live conceptual challenge. Whether the gap is permanent and ontological (the dualist reading), permanent but conceptual (the [Type-B physicalist](/concepts/type-a-type-b-and-type-c-physicalism/) reading, reported as the majority physicalist view), or closeable by future neuroscience (the Type-C reading) is itself underdetermined by the evidence: the same correlations are compatible with all three framings, and which reading one adopts turns on prior commitments about what an adequate explanation requires. The persistence cited above tells against the third reading only, and weakly.
 
 ## Why This Matters
 
-If physical explanation cannot reach consciousness, the scientific worldview is incomplete in a fundamental way. This doesn't mean abandoning science—it means recognising that methods that explain mechanism may not work for explaining experience. Consciousness may be irreducible not because it's supernatural, but because reduction is the wrong tool. The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) argues that the hard problem's persistence across theoretical generations — together with the proliferation of competing theories and the loosening of methodological standards — marks physicalism as a paradigm in crisis.
+If physical explanation cannot reach consciousness, the scientific worldview is incomplete in a fundamental way. This doesn't mean abandoning science—it means recognising that methods that explain mechanism may not work for explaining experience. Consciousness may be irreducible not because it's supernatural, but because reduction is the wrong tool. The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) argues that the hard problem's persistence across theoretical generations — together with the proliferation of competing theories and the loosening of methodological standards — marks the physicalism that expects closure as a paradigm in crisis.
 
 ## Open Problems for the Map's Framework
 
