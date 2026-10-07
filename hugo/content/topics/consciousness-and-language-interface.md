@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-10-06 07:07:00+00:00
+ai_modified: 2026-10-07 12:21:40+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 18:22:39+00:00
-lastmod: 2026-10-06 07:07:00+00:00
+lastmod: 2026-10-07 12:21:40+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -95,7 +95,7 @@ The honest assessment: LLMs do not *confirm* separability, but they are what a d
 
 ## Language Shaping Consciousness
 
-Although separable, language genuinely shapes phenomenal experience when the two interact.
+Although separable, language shapes how experience is categorised, attended to, and remembered when the two interact; whether it reaches the phenomenal level is sorted case by case below.
 
 ### The Sapir-Whorf Influence
 
@@ -129,11 +129,11 @@ The shaping is real but not total:
 
 ## Consciousness Seeking Expression
 
-The interface runs the other direction too. Conscious states generate pressure toward linguistic articulation—not merely awaiting capture but actively pressing toward expression.
+The interface runs the other direction too. Conscious states generate pressure toward linguistic articulation.
 
 ### The Urge to Express
 
-Intense experiences—overwhelming beauty, profound grief, sudden insight—generate pressure toward expression. People write poetry, compose music, and create art under pressure from conscious states that demand articulation. This pressure is itself phenomenal: the felt need to say something, the frustration when words fail, the relief when expression succeeds.
+Intense experiences—overwhelming beauty, profound grief, sudden insight—generate pressure toward expression. This pressure is itself phenomenal: the felt need to say something, the frustration when words fail, the relief when expression succeeds.
 
 ### How Expression Transforms Experience
 
@@ -171,7 +171,7 @@ Conversely, those who do experience inner speech report significant phenomenolog
 
 Under interactionist dualism, inner speech is best understood as consciousness using language as an interface tool. Consciousness generates intentions, attends to problems, and experiences qualitative states. Language provides a representational format that structures these activities—breaking problems into sequential steps, enabling self-monitoring through explicit self-directed statements, and formatting thoughts for potential communication.
 
-This is a use-relation, not a constitution-relation. Consciousness uses language the way a sculptor uses a chisel: the tool shapes the output and constrains what can be achieved, but the creative impulse and qualitative judgement originate elsewhere.
+Consciousness uses language the way a sculptor uses a chisel: the tool shapes the output and constrains what can be achieved, but the creative impulse and qualitative judgement originate elsewhere.
 
 McGinn's cognitive closure thesis deepens this point. If our conceptual apparatus is constitutionally limited—evolved for survival rather than metaphysical insight—then language's failure to capture consciousness reflects a structural limitation rather than a deficiency of *this* language or *current* vocabulary: the tool cannot fully represent what lies outside its domain. The ineffability of qualia is not a problem to be solved by better words but a boundary marker between the linguistic and the phenomenal.
 
@@ -253,11 +253,11 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 
 **[Dualism](/tenets/#dualism)** predicts that consciousness should be separable from any physical capacity, language included. The evidence reviewed appears to support this prediction. The constitutive view—that language partially generates consciousness—sits uncomfortably with dualism because it ties a non-physical phenomenon to a physical capacity. The Map rejects this: language shapes how consciousness operates but does not constitute what consciousness is. The systematic gap between phenomenal experience and linguistic expression further supports irreducibility. Wittgenstein's private language argument challenges this reasoning—if purely private mental content cannot ground meaningful language, perhaps the "inexpressible" is not deep but confused. The Map responds that consciousness need not be *linguistically private* to be *ontologically irreducible*—our language *about* consciousness is socially constituted, but consciousness itself is not thereby reducible to the social or the physical.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is exemplified at the interface. Consciousness shapes language: phenomenal states generate pressure toward expression, shape word choice, and guide articulation. Language shapes consciousness: verbal overshadowing transforms perception, categorical perception shifts experience, and inner speech structures thought. Consciousness also selects among neural states involved in language production—biasing which thoughts get articulated and how—while language provides representational structure that consciousness uses for self-monitoring and deliberation.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: on the Map's reading, the interface is where both directions run. Consciousness shapes language: phenomenal states generate pressure toward expression, shape word choice, and guide articulation. Language shapes consciousness: verbal overshadowing alters what memory stores (whether retrieval then *feels* different is unmeasured), categorical perception shifts categorisation and attention with its phenomenal level open, and inner speech, where present, structures thought. The downward direction is posited rather than observed. The Map reads consciousness as selecting among neural states in language production—biasing which thoughts get articulated and how—but each finding here is equally readable by the epiphenomenalist as a physical process with a phenomenal shadow. Tenet 3's standing is [available rather than actual](/tenets/#tenet-3-standing), and this page inherits that debt. Language meanwhile provides representational structure that consciousness uses for self-monitoring and deliberation.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises the question of where the interface operates physically. If consciousness influences the brain at quantum decision points, linguistic articulation may be downstream of this influence—the quantum selection propagating through neural networks into motor systems that produce speech. Conscious speech involves selecting particular words from among alternatives, emphasising particular meanings, and modulating tone and timing. If consciousness biases quantum-level neural indeterminacies, language production is one domain where this influence manifests.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises the question of where the interface operates physically. If consciousness influences the brain at quantum decision points, linguistic articulation may be downstream of this influence—the quantum selection propagating through neural networks into motor systems that produce speech. If consciousness biases quantum-level neural indeterminacies, language production is one domain where this influence manifests.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies to the interface itself. The simple view might hold that language straightforwardly expresses consciousness. The actual relationship is complex: bidirectional, lossy, partially structured, and partially chaotic. This complexity resists simplification.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies to the interface itself. The simple view might hold that language straightforwardly expresses consciousness. The actual relationship is complex: bidirectional, lossy, partially structured, and partially chaotic.
 
 ## Further Reading
 

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T12:10:45+00:00
+ai_modified: 2026-10-07T12:22:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:22 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-language-interface]]
+- **Source**: tenet-check-2026-10-07 Error 2 (L252) + Note 2 (L94); todo L1895
+- **Original score**: n/a (targeted tenet repair; curate.py review tool absent)
+- **Word count**: 3962 → 3993 (+31; topics hard 4000, gate >=, clears by 7)
+- **Changes**: (1) L252 Tenet 3 paragraph: "is exemplified at the interface" → "on the Map's reading, the interface is where both directions run"; evidence clause rewritten to match the 2026-10-05 repairs at L100–L104 (verbal overshadowing = memory effect, retrieval-feel unmeasured; categorical perception = categorisation/attention with phenomenal level open; inner speech retained — page supports it at L106 "that shaping is genuinely phenomenal"); downward causation now "posited rather than observed", with the epiphenomenalist counter (each finding equally readable as a physical process with a phenomenal shadow) and the standing debt piped as `[[tenets#^tenet-3-standing|available rather than actual]]` (tenets.md L95: available, not actual). (2) L94 section lead: "genuinely shapes phenomenal experience" → "shapes how experience is categorised, attended to, and remembered … whether it reaches the phenomenal level is sorted case by case below" (Note 2 residue). (3) Five trims to pay for the additions, none argument-bearing: L170 "This is a use-relation, not a constitution-relation." (banned "not X but Y" construct; the H3 already states it); L128 "—not merely awaiting capture but actively pressing toward expression"; L132 poetry/music/art illustration; L254 MQI word-selection sentence (now covered in the Tenet 3 paragraph); L257 "This complexity resists simplification."
+- **Engagement**: epiphenomenalist counter in the Tenet 3 paragraph: Mode Three; the page notes the framework-boundary disagreement honestly (no discriminator on this page) rather than claiming to refute within the epiphenomenalist's framework.
+- **Not touched**: MQI paragraph's conditional "If consciousness biases quantum-level neural indeterminacies" (already conditional); Dualism and Occam paragraphs apart from the trim.
+- **Sync**: obsidian + hugo verified
+- **Published**: yes
 
 ## 12:10 - deep-review
 - **Status**: Success
