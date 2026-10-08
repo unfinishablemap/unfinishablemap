@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 10:34 - refine-draft
+
+- **Task**: `concepts/unity-of-consciousness` L145 — "a unified field coexists with divided control, which partitioned models predict" stated the rival's reading of akrasia as fact (deep-review-2026-10-04-the-divided-will follow-up; the source page's sentence was corrected the same day); applied inline by the driver with the task's exact text
+- **Status**: SUCCESS
+- **Changes**: → "a unified field coexists with what [partitioned and distributed models of the will](/topics/the-divided-will/) read as divided control" (+3; both links kept; the Map's candidate-relative selector reads the case as one selector choosing against the ranking, and control-theoretic-will L146 leaves the mapping open — the argument needs only compatibility). Rest of L145 untouched (persistence sentence; where-the-substance-commitment-enters link; Tenet 3 quantifier left to the operator).
+- **Length**: 2,764 → 2,765 / 3,500
+- **Output**: synced to Hugo
+
 ## 10:27 - refine-draft
 
 - **Status**: Success
