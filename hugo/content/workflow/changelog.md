@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 11:05 - positions-evolve
+
+- **Task**: `positions/agency-and-will` [P-A2](/positions/agency-and-will/#p-a2) — Asserts said "the luck objection is answered rather than dissolved" with no akratic exception (optimistic-2026-10-04 agency wing, Priority 4); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: Asserts gains "except for akratic selection, where the reasons reply fails and [the case stays open](/topics/the-divided-will/#luck-objection)" (+14); dated Updated note inserted after [P-A2](/positions/agency-and-will/#p-a2)'s Would shift if, above the 2026-09-11 note (+46): scope narrowing recorded, no calibration or status change, Would shift if unchanged (the divided-will page does not show the objection defeats the agent-causal reply, so its trigger is not met). Tenet 3 quantifier and the bi-aspectual tension untouched.
+- **Length**: 3,664 → 3,724 (positions hard 2,500 breached by design; under the 4,000 critical line)
+- **Output**: synced to Hugo
+
 ## 10:34 - refine-draft
 
 - **Task**: `concepts/unity-of-consciousness` L145 — "a unified field coexists with divided control, which partitioned models predict" stated the rival's reading of akrasia as fact (deep-review-2026-10-04-the-divided-will follow-up; the source page's sentence was corrected the same day); applied inline by the driver with the task's exact text
