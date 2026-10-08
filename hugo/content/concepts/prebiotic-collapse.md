@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-05 14:52:08+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-08 08:35:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/collapse-before-minds/
@@ -24,12 +24,12 @@ concepts:
 created: 2026-01-16
 date: &id001 2026-02-05
 description: How quantum wave functions collapsed before conscious observers existed.
-  Objective reduction provides baseline collapse; consciousness modulates.
+  Objective reduction provides baseline collapse; consciousness preempts outcomes.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 03:09:01+00:00
-lastmod: 2026-10-05 14:52:08+00:00
+lastmod: 2026-10-08 08:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,7 +112,7 @@ Moreover, MWI eliminates the causal role for consciousness entirely: outcomes oc
 
 The cosmic microwave background (CMB) preserves inflation-stretched quantum fluctuations as definite structure from about 380,000 years after the Big Bang, and the tunnelling rates of stellar fusion are measured and reproducible. Wheeler could read this record as retrocausal selection; the more conservative reading is objective collapse long before minds. That reading is what the Map's one-world framework *requires*, not interpretation-neutral evidence for it: Everettian branch-relative definiteness predicts the same record.
 
-## The Map's Position: Objective Reduction with Consciousness Modulation
+## The Map's Position: Objective Reduction with Interface Preemption
 
 The Map separates two claims that often get conflated:
 
@@ -122,11 +122,11 @@ The Map separates two claims that often get conflated:
 
 But (2) does not entail that consciousness is *universally required* for collapse. Objective reduction—Penrose-style gravity-induced collapse, GRW spontaneous localization, or some yet-unknown mechanism—provides the baseline: collapse happens throughout the universe, before and beyond minds, through physical processes.
 
-What consciousness adds is *modulation*. Where collapse interfaces with neural processing—particularly where the [selection of neural patterns](/concepts/consciousness-selecting-neural-patterns/) matters for behavior—consciousness biases which outcomes become actual, an application of [adaptive computational depth](/concepts/adaptive-computational-depth/) to collapse: baseline resolution everywhere, deeper determination where minds engage. The quantum Zeno effect (via [attention](/concepts/attention-as-interface/)) lets consciousness prolong certain superpositions, selecting *within* an already-collapsing physics rather than sourcing the collapse.
+What consciousness adds is *preemption*. Where collapse interfaces with neural processing—particularly where the [selection of neural patterns](/concepts/consciousness-selecting-neural-patterns/) matters for behavior—consciousness biases which outcomes become actual, an application of [adaptive computational depth](/concepts/adaptive-computational-depth/) to collapse: baseline resolution everywhere, deeper determination where minds engage. Consciousness initiates no collapse; via [attention](/concepts/attention-as-interface/) it preempts the outcome, selecting *within* an already-collapsing physics rather than sourcing the collapse.
 
 ### The Completeness Tension
 
-This picture owes an honest debt. If objective reduction is *outcome-complete*—if collapse noise fixes definite stellar, chemical, and mutational outcomes with Born statistics and no observers required—then the same physical process is outcome-complete inside the brain too. Modulation then faces a dilemma. Either it shifts which outcome the noise would otherwise have fixed, perturbing the Born statistics and becoming detectable—breaching [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and contradicting the very completeness that let objective reduction handle the prebiotic timeline—or it leaves the distribution untouched, in which case the noise already selected and the modulation does no work. The dilemma also has a dynamical form, a *collapse-priority problem*: a worked model needs two transition processes—physical reduction and conscious selection—and must say which acts first, whether selection can delay reduction or alter its rate or outcome, and how the ordering is fixed for spacelike-separated events. No combined law has been supplied; the debt is open. It is also why, once objective reduction secures definiteness, the measurement problem cannot itself count as evidence for conscious selection ([objective single-outcome actualization](/tenets/background-commitments/)).
+This picture owes an honest debt. If objective reduction is *outcome-complete*—if collapse noise fixes definite stellar, chemical, and mutational outcomes with Born statistics and no observers required—then the same physical process is outcome-complete inside the brain too. Modulation then faces a dilemma. Either it shifts which outcome the noise would otherwise have fixed, perturbing the Born statistics and becoming detectable—breaching [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and contradicting the very completeness that let objective reduction handle the prebiotic timeline—or it leaves the distribution untouched, in which case the noise already selected and the modulation does no work. The dilemma also has a dynamical form, a *collapse-priority debt*: a worked model needs two transition processes—physical reduction and conscious selection—and must say which acts first, whether selection can delay reduction or alter its rate or outcome, and how the ordering is fixed for spacelike-separated events. No combined law has been supplied; the debt is open. It is also why, once objective reduction secures definiteness, the measurement problem cannot itself count as evidence for conscious selection ([objective single-outcome actualization](/tenets/background-commitments/)).
 
 This is the **bias-without-deviation dilemma** the apex [post-decoherence selection programme](/apex/post-decoherence-selection-programme/#the-bias-without-deviation-dilemma-open) names its sharpest conceptual liability, and that [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) tracks as the strongest live challenge to the interface.
 

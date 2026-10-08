@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-10-07T17:21:30+00:00
+ai_modified: 2026-10-08T08:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ related_articles:
   - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-fable-5-1
 ai_generated_date: 2026-04-30
 last_curated: null
 last_deep_review: 2026-09-04T14:15:47+00:00
@@ -152,7 +152,7 @@ Five considerations favour forward-in-time over retrocausal selection, varying i
 
 ## The Prebiotic Constraint
 
-Any consciousness-mediated selection mechanism must address the [[prebiotic-collapse|prebiotic collapse problem]]: stars formed and chemistry proceeded for billions of years before any conscious observers existed. Forward-in-time selection handles this through objective reduction with consciousness modulation: physical mechanisms ([[spontaneous-collapse-theories|spontaneous localisation]] or gravitational collapse) provide baseline selection throughout the universe; consciousness interfaces only where neural systems present the right substrate.
+Any consciousness-mediated selection mechanism must address the [[prebiotic-collapse|prebiotic collapse problem]]: stars formed and chemistry proceeded for billions of years before any conscious observers existed. Forward-in-time selection handles this through objective reduction with interface preemption: physical mechanisms ([[spontaneous-collapse-theories|spontaneous localisation]] or gravitational collapse) fix collapse and outcome universe-wide; consciousness preempts outcomes only where neural systems present the right substrate.
 
 The most parsimonious reading is not two competing collapse mechanisms but one collapse dynamics with a special case. Spontaneous localisation drives outcomes everywhere; in neural substrates—where the localisation rate is too slow to settle the fast, finely-poised states a brain cycles through—consciousness biases *which* element the same collapse process delivers, within Born statistics. Consciousness on this reading does not add a second route to definiteness; it shapes the existing one at a substrate the baseline dynamics under-determines. That keeps the type-count at one mechanism with a conditional modulation term, rather than two. The honest residue is that the modulation term still has to be posited—it is a substrate-conditional addition to the baseline, and a critic may reasonably count the addition as a second mechanism. The framing reduces the parsimony cost; it does not erase it.
 

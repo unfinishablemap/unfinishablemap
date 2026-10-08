@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 08:35 - refine-draft
+
+- **Task**: `concepts/prebiotic-collapse` L112/L122/L126 + three zero-word riders — the anchor page of the "collapse-priority debt" still stated the pre-10-03 ordering in the section the anchor points into (optimistic-2026-10-08 collapse-ordering wing, Priority 1); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: prebiotic-collapse — heading "Objective Reduction with Consciousness Modulation" → "…with Interface Preemption" (no live page deep-linked the old anchor); "What consciousness adds is *modulation*" → "*preemption*"; the Zeno sentence that gave consciousness a timing role → "Consciousness initiates no collapse; via attention it preempts the outcome, selecting *within* an already-collapsing physics rather than sourcing the collapse" (the quoted span thoughtful-local-friendliness L81 cites preserved verbatim); "collapse-priority problem" → "collapse-priority debt" so the anchor lands on the carriers' name; description likewise. L130 and L158's quoted tenets-level label untouched. Riders: post-decoherence-selection L47 and evolution-of-consciousness L133 "Which process acts first…" → "What secures that ordering…"; evolution-of-consciousness L155 "modulating quantum collapse" → "preempting token selection"; forward-in-time L155 "objective reduction with consciousness modulation … provide baseline selection throughout the universe; consciousness interfaces only" → "…with interface preemption … fix collapse and outcome universe-wide; consciousness preempts outcomes only". Calibration unchanged (preemption stays a posit under mechanism debt).
+- **Length**: prebiotic-collapse 3,606 → 3,605 (over the 3,500 gate; net −1); post-decoherence-selection 3,216 → 3,216; evolution-of-consciousness 3,479 → 3,479; forward-in-time 3,988 → 3,988 (all zero-word)
+- **Output**: synced to Hugo
+
 ## 08:31 - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)

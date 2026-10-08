@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-10-05 16:35:09+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-08 08:35:00+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 09:40:00+00:00
-lastmod: 2026-10-05 16:35:09+00:00
+lastmod: 2026-10-08 08:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Post-decoherence selection is whatever process actualizes one definite outcome from the classical-looking mixture that decoherence produces. [Decoherence](/concepts/decoherence/) suppresses quantum interference and selects a preferred basis of pointer states, but it does not explain why a single outcome obtains rather than the mixture persisting. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this programme by showing how environmental redundancy makes pointer states objectively accessible—yet even this fuller account leaves the outcome gap intact. As Schlosshauer (2004) is explicit, decoherence does not solve the measurement problem: once the preferred basis is selected and interference suppressed, the system is still described by a mixture, and the usual probability rules of quantum theory must still be applied to extract a single observed outcome. This residual *problem of outcomes* is an interpretive gap, which leaves no dynamical room for a new cause unless actualization is a real physical event. The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) takes it to be one and holds a single ordering: objective reduction fixes when, where and in which basis every collapse occurs, and which outcome actualizes wherever no interface is present; in an interface-grade brain, consciousness preempts that token selection inside the Born corridor, leaving the unconditioned Born statistics intact. Which process acts first when both are present is an open [collapse-priority debt](/concepts/prebiotic-collapse/#the-completeness-tension): no combined law has been supplied. Post-decoherence selection names the locus where the Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets meet physics.
+Post-decoherence selection is whatever process actualizes one definite outcome from the classical-looking mixture that decoherence produces. [Decoherence](/concepts/decoherence/) suppresses quantum interference and selects a preferred basis of pointer states, but it does not explain why a single outcome obtains rather than the mixture persisting. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this programme by showing how environmental redundancy makes pointer states objectively accessible—yet even this fuller account leaves the outcome gap intact. As Schlosshauer (2004) is explicit, decoherence does not solve the measurement problem: once the preferred basis is selected and interference suppressed, the system is still described by a mixture, and the usual probability rules of quantum theory must still be applied to extract a single observed outcome. This residual *problem of outcomes* is an interpretive gap, which leaves no dynamical room for a new cause unless actualization is a real physical event. The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) takes it to be one and holds a single ordering: objective reduction fixes when, where and in which basis every collapse occurs, and which outcome actualizes wherever no interface is present; in an interface-grade brain, consciousness preempts that token selection inside the Born corridor, leaving the unconditioned Born statistics intact. What secures that ordering when both are present is an open [collapse-priority debt](/concepts/prebiotic-collapse/#the-completeness-tension): no combined law has been supplied. Post-decoherence selection names the locus where the Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets meet physics.
 
 ## The Gap Decoherence Leaves
 
