@@ -5,6 +5,14 @@ ai_modified: 2026-10-08T12:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 12:35 - refine-draft
+
+- **Task**: `voids/self-maintained-cognitive-limits` L195 — Tenet 3 stated as demonstrated ("practices that resist aversion demonstrate causal efficacy") with no epiphenomenalist counter (tenet-check-2026-10-08 Error 1); applied inline by the driver with the report's exact replacement
+- **Status**: SUCCESS
+- **Changes**: the Bidirectional Interaction bullet now reads the downward causation as the Map's reading, gives the epiphenomenalist's counter (the maintaining and the aversion-resisting practices as sub-personal processes with a phenomenal shadow), and marks the causal reading as a posit whose standing is available rather than actual (piped to tenets#^tenet-3-standing, which exists). Same grade and register as check 146's Error 2 repair.
+- **Length**: 2,642 → 2,667 / 3,000
+- **Output**: synced to Hugo
+
 ## 12:00 - check-tenets
 
 - **Status**: Warnings (1 Error)

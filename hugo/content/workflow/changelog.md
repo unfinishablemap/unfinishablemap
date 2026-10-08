@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08 10:27:00+00:00
+ai_modified: 2026-10-08 12:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-08'
-lastmod: 2026-10-08 10:27:00+00:00
+lastmod: 2026-10-08 12:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:35 - refine-draft
+
+- **Task**: `voids/self-maintained-cognitive-limits` L195 — Tenet 3 stated as demonstrated ("practices that resist aversion demonstrate causal efficacy") with no epiphenomenalist counter (tenet-check-2026-10-08 Error 1); applied inline by the driver with the report's exact replacement
+- **Status**: SUCCESS
+- **Changes**: the Bidirectional Interaction bullet now reads the downward causation as the Map's reading, gives the epiphenomenalist's counter (the maintaining and the aversion-resisting practices as sub-personal processes with a phenomenal shadow), and marks the causal reading as a posit whose standing is available rather than actual (piped to tenets#^tenet-3-standing, which exists). Same grade and register as check 146's Error 2 repair.
+- **Length**: 2,642 → 2,667 / 3,000
+- **Output**: synced to Hugo
+
+## 12:00 - check-tenets
+
+- **Status**: Warnings (1 Error)
+- **Files checked**: 82 (every live file in topics/concepts/apex/voids/positions committed since 2026-10-07 ~04:00Z, base b761e8e7a8)
+- **Errors**: 1 — `voids/self-maintained-cognitive-limits` L195 (Tenet 3 stated as demonstrated)
+- **Warnings**: 7 entries, 14 loci — split-brain L54/L122/L186 and clinical-dissociation L151/L141 (tier words above the pages' own *compatible*); language-interface L250; forward-in-time L155/L157 (preemption without the collapse-priority debt over a paragraph on the retired reading); zombies L209 (Tenet 5 one-way, "reflects" for "could reflect"); bandwidth-as-minimality on neurological-dissociations L197 and psychophysical-laws L206; contemplative-practice L59/L173/L197 (carried from 09-18)
+- **Notes**: 6
+- **Clean**: 68 of 82, including the new `rival-explanations-of-the-explanatory-gap` and its dependents, the collapse-ordering carriers other than forward-in-time, and the [P-I1](/positions/individuation-and-subjecthood/#p-i1)/[P-I2](/positions/individuation-and-subjecthood/#p-i2) dependents
+- **Output**: [tenet-check-2026-10-08](/reviews/tenet-check-2026-10-08/)
+- Reports only: no content file or todo.md edited; not committed.
 
 ## 11:21 - refine-draft
 

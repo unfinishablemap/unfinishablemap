@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-10-08T01:20:32+00:00
+ai_modified: 2026-10-08T12:35:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 ai_generated_date: 2026-04-17
 last_curated: null
 last_deep_review: 2026-06-26T13:02:07+00:00
@@ -192,7 +192,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 
 ## Relation to Site Perspective
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is most directly implicated. Self-maintained limits mean consciousness exercises downward causation over its own cognitive architecture—bidirectional interaction at its most intimate. An [[concepts/epiphenomenalism|epiphenomenal]] consciousness could not actively maintain anything; practices that resist aversion demonstrate causal efficacy in the other direction.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is most directly implicated. On the Map's reading, self-maintained limits are consciousness exercising downward causation over its own cognitive architecture—bidirectional interaction at its most intimate. An [[concepts/epiphenomenalism|epiphenomenal]] consciousness could not actively maintain anything, but the epiphenomenalist reads the maintaining, and the practices that resist aversion, as sub-personal processes with a phenomenal shadow; the causal reading is a posit whose standing is [[tenets#^tenet-3-standing|available rather than actual]].
 
 **[[tenets#^dualism|Dualism]]** gains support: if consciousness is merely what brains do, the notion of consciousness having interests in its own ignorance becomes incoherent—no agent has stakes in the outcome. Self-maintenance requires a subject capable of agency within its own epistemic domain. Content-specific slippage adds a second connection—if thoughts about consciousness slip more reliably than equally abstract thoughts about mathematics, the asymmetry suggests such thoughts approach something exceeding physical description.
 
