@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T04:50:00+00:00
+ai_modified: 2026-10-08T05:12:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:12 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-08
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1); subject `topics/clinical-dissociation-as-systematic-evidence` for both. Gemini failed at the research-plan stage on both commission attempts (same hang as 2026-10-07).
+- **Clusters**: 11 convergent (8 already carried by the P1; 3 recorded-only after adjudication — changelog traceability was a prompt artefact, Janet L60 already hedged, the L141 discriminator one-liner is a correlated omission the test article's L42–44 answers), 9 singleton, 4 divergent (Marsh L82 resolved for Claude on the live text; the "loose family" reply at L127 is a live disagreement; Seth 2012 grade words; Reinders 2003 n unverified at abstract level)
+- **Adjudication before clustering**: every locus re-printed from the live article at 05:05Z; sibling loci (`degrees-of-consciousness` L96 already hedged 10-02, `split-brain-consciousness` L54/L110/L152 live, neuro-dissociations L50/L193 live, conversion L67, apex `description:` recalibrated 10-02, test article L42–44) and both processing passes' Verification Notes respected, not re-litigated
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1) — `project/evidential-status-discipline` absence-ladder / source-type rule (ChatGPT 42/44/45/48 = Claude 12/13/17, same exhibits). The target P1 stays P1 and gains a three-item synthesis addendum for the convergent loci neither pass carried in (L68 fixed-order stated as fact, L141 "paid once at the tenet level", L106 FND nosology). Neuro-dissociations, split-brain and positions-evolve P2s left at P2 (single-reviewer loci)
+- **Tasks deduplicated**: 0 (the Claude pass had already amended the ChatGPT tasks instead of minting siblings)
+- **Human decision recorded, not minted**: the retitle both reviewers propose ("…as a Constraint on Interface Models") — URL change with inbound links; body-level recalibration (P1 item 9) carries the substance. No condense proposed (4,694/4,000 standing human length decision)
+- **Output**: [[reviews/outer-review-synthesis-2026-10-08]]
 
 ## 04:50 - outer-review
 - **Status**: Success
