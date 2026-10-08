@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-09-05 19:27:00+00:00
+ai_modified: 2026-10-08 01:40:28+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[valence]]'
 - '[[predictive-processing]]'
 created: 2026-02-15
-date: &id001 2026-05-18
+date: &id001 2026-10-08
 description: Pain asymbolia dissociates nociceptive sensation from affective suffering,
   straining accounts that make unpleasantness intrinsic to nociceptive processing.
 draft: false
@@ -24,8 +24,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/S_adBVpON7g
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 20:26:40+00:00
-lastmod: 2026-09-05 19:27:00+00:00
+last_deep_review: 2026-10-08 01:40:28+00:00
+lastmod: 2026-10-08 01:40:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ The condition reveals that what ordinary language calls "pain" is not a single p
 
 **Affective-motivational**: the *awfulness*—the [phenomenal valence](/concepts/valence/) that makes pain intrinsically aversive and drives protective behaviour. When this dimension is abolished, the [selection currency](/topics/valence-and-conscious-selection/) that would normally prioritise avoidance over competing goals is lost. This layer is abolished in asymbolia. It is usually assigned to the anterior insula, the anterior cingulate cortex, and their connections to limbic structures.
 
-The dissociation is not a graded reduction: asymbolia patients do not report mild discomfort where they should feel agony, but no affective dimension at all. The sensory information arrives; the suffering does not. This separation—however it is ultimately classified—argues against accounts that treat pain's unpleasantness as an intrinsic property of nociceptive processing itself.
+The dissociation is not a graded reduction of the kind analgesia produces: asymbolia patients do not report mild discomfort where they should feel agony. Berthier et al. record emotional responses to painful stimuli that were "absent or inadequate", with no affective dimension at all in the clearest cases. The sensory information arrives; the suffering does not. This separation—however it is ultimately classified—argues against accounts that treat pain's unpleasantness as an intrinsic property of nociceptive processing itself.
 
 How cleanly it separates is itself contested, and the Map should not lean on a pristine one-variable reading. Griffith and Kind (2024) argue that pain asymbolia is *not pain*: what these patients retain, on their analysis, is not a genuine pain sensation stripped of its unpleasantness but a residual sensory-discriminative capacity that no longer qualifies as pain at all. If they are right, the condition does not exhibit an intact pain minus its affective layer—it exhibits the collapse of the composite into a non-pain remnant, and the "intact sensation, missing suffering" description overstates what is retained. Duval and Klein (2025) reply that asymbolia is probably still pain, so the classificatory question is live rather than settled. Either way, the disciplined claim is narrower than a surgical dissociation: asymbolia shows that pain's sensory-discriminative and affective-motivational dimensions can come apart far enough to strain any account that makes the unpleasantness intrinsic to nociceptive processing—not that it delivers a clean single-variable experiment isolating felt awfulness with everything else held fixed.
 
@@ -109,7 +109,7 @@ Asymbolia gains additional significance when paired with complementary condition
 
 **[Phantom limb pain](/topics/phantom-limb-phenomena/)** presents an approximate inverse dissociation: affective suffering without peripheral tissue damage at the felt location. Patients experience burning, crushing, or stabbing sensations in limbs that no longer exist. The affective-motivational dimension is fully present—phantom pain hurts terribly—even though the nociceptive signalling originates from reorganised central and stump neural activity rather than from the phantom site itself. The dissociation is between felt location and actual tissue state, not between suffering and all physical causation.
 
-**Hypnotic analgesia** indicates that top-down conscious processes can preferentially suppress pain's affective dimension while preserving sensory detection. Rainville et al. (1999) found that hypnotic suggestions targeting unpleasantness modulate anterior cingulate activity while preserving primary somatosensory responses—a pattern resembling asymbolia, though the reduction is typically partial, so the parallel is a graded approximation.
+**Hypnotic analgesia** indicates that top-down conscious processes can preferentially suppress pain's affective dimension while preserving sensory detection. Rainville et al. (1997) used PET to show that hypnotic suggestions altering unpleasantness without changing perceived intensity modulate anterior cingulate activity while leaving primary somatosensory activation unaltered, and Rainville et al. (1999) showed psychophysically that unpleasantness ratings can be shifted largely independently of intensity ratings—a pattern resembling asymbolia, though the reduction is typically partial, so the parallel is a graded approximation.
 
 Together, these dissociations show that pain's dimensions can be modulated separately—sensation without suffering, suffering without local tissue damage, affect suppressed while sensation persists. The phenomenal architecture of pain is not monolithic, and behaviour tracks the affective dimension.
 
@@ -148,6 +148,7 @@ Together, these dissociations show that pain's dimensions can be modulated separ
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. Griffith, T. & Kind, A. (2024). "Pain Asymbolia is Not Pain." *Philosophy of Science*, 91(3), 561–578. https://doi.org/10.1017/psa.2023.167
 1. Klein, C. (2015). "What Pain Asymbolia Really Shows." *Mind*, 124(494), 493–516. https://doi.org/10.1093/mind/fzu185
+1. Rainville, P., Duncan, G. H., Price, D. D., Carrier, B., & Bushnell, M. C. (1997). "Pain Affect Encoded in Human Anterior Cingulate But Not Somatosensory Cortex." *Science*, 277(5328), 968–971. https://doi.org/10.1126/science.277.5328.968
 1. Rainville, P., Carrier, B., Hofbauer, R. K., Bushnell, M. C., & Duncan, G. H. (1999). "Dissociation of Sensory and Affective Dimensions of Pain Using Hypnotic Modulation." *Pain*, 82(2), 159–171.
 1. Rubins, J. L. & Friedman, E. D. (1948). "Asymbolia for Pain." *Archives of Neurology and Psychiatry*, 60(6), 554–573.
 1. Geschwind, N. (1965). "Disconnexion Syndromes in Animals and Man." *Brain*, 88(2), 237–294.

@@ -5,6 +5,16 @@ ai_modified: 2026-10-08T00:36:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 01:40 - deep-review
+- **Status**: Success
+- **File**: [[concepts/pain-asymbolia]]
+- **Word count**: 2889 → 2968 (+79)
+- **Critical issues addressed**: 1 (ACC-not-S1 PET result was credited to Rainville et al. 1999 *Pain*, a psychophysics-only paper; it is Rainville et al. 1997 *Science* — sentence split so each paper carries its own finding, 1997 entry added to References; prior ledgers had certified the 1999 metadata without the result-direction leg)
+- **Medium issues addressed**: 1 ("no affective dimension at all" re-scoped to Berthier's verbatim "absent or inadequate")
+- **Enhancements made**: 0 (no new cross-links; four post-07-16 quotes — Feinstein 2016, Klein 2015, Gerrans 2020, Gerrans 2024 — grep-verified verbatim at PMC / ANU portal / Frontiers / Europe PMC)
+- **Engagements**: Klein/Gerrans self-model reading: Mode Three (recorded, not adopted; bridge routed to constitution-vs-causal-work); no new named-opponent replies
+- **Output**: [[reviews/deep-review-2026-10-08-pain-asymbolia]]
+
 ## 01:20 - refine-draft
 
 - **Task**: numbing-void integration seams on four pages (pessimistic-2026-10-03-numbing-void, Priority 4); applied inline by the driver with the review's exact text, after the 2026-10-04 numbing-void refine
