@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T10:27:00+00:00
+ai_modified: 2026-10-08T12:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:00 - check-tenets
+
+- **Status**: Warnings (1 Error)
+- **Files checked**: 82 (every live file in topics/concepts/apex/voids/positions committed since 2026-10-07 ~04:00Z, base b761e8e7a8)
+- **Errors**: 1 — `voids/self-maintained-cognitive-limits` L195 (Tenet 3 stated as demonstrated)
+- **Warnings**: 7 entries, 14 loci — split-brain L54/L122/L186 and clinical-dissociation L151/L141 (tier words above the pages' own *compatible*); language-interface L250; forward-in-time L155/L157 (preemption without the collapse-priority debt over a paragraph on the retired reading); zombies L209 (Tenet 5 one-way, "reflects" for "could reflect"); bandwidth-as-minimality on neurological-dissociations L197 and psychophysical-laws L206; contemplative-practice L59/L173/L197 (carried from 09-18)
+- **Notes**: 6
+- **Clean**: 68 of 82, including the new `rival-explanations-of-the-explanatory-gap` and its dependents, the collapse-ordering carriers other than forward-in-time, and the P-I1/P-I2 dependents
+- **Output**: [[reviews/tenet-check-2026-10-08]]
+- Reports only: no content file or todo.md edited; not committed.
 
 ## 11:21 - refine-draft
 
