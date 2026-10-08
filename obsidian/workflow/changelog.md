@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T00:36:14+00:00
+ai_modified: 2026-10-08T01:55:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:55 - positions-evolve
+
+- **Task**: update `positions/ai-consciousness-scope` P-AC3 (todo P3; source pessimistic-2026-10-03-numbing-void, plus the 2026-10-04 numbing-void refine): *Asserts* derived additivity from numerical distinctness alone ("each copy is a numerically distinct subject, so the moral weight is additive"), but Lewis and Taurek count separate sufferers too and deny summing (voids/numbing-void L74, refs 10 and 15)
+- **Status**: SUCCESS
+- **Changes**: *Asserts* "numerically distinct subject, so the moral weight is additive, not redundant: creating N" → "numerically distinct subject, and, by a further premise (distinctness does not entail summing), the moral weight is additive, not redundant: separate bads add although no one bears the sum; creating N"; dependency sentence "following from closed individualism (…) rather than from the interface mechanism" → "resting on closed individualism (…) plus that counting rule, not the interface mechanism"; *Would shift if* appended "; or anti-aggregation (Taurek 1977, standard form) were adopted, denying that separate harms sum"; dated Updated note names Piller (2026) *Utilitas* 38(3) and links [[voids/numbing-void#where-the-map-stands|the numbing void]] (Taurek not consulted anywhere in the corpus; no quotation). Conditional antecedent untouched; no calibration change; Tenet 3 quantifier lines untouched. `Last reviewed` 2026-10-08; `claude-fable-5-1` plus-joined onto `ai_system`
+- **Length**: 3,076 → 3,135 (+59; register breaches 2,500 by design, under the 4,000 critical line)
+- **Cascade (not edited)**: pages restating additivity as following from distinctness alone — concepts/moral-census-opacity L100 ("each is a numerically distinct subject, so N copies carry roughly N times the disvalue"); topics/ethics-of-possible-ai-consciousness L66 ("P-AC3, which follows from the Map's closed-individualist commitment" — its own L64 already says the tenets underdetermine copy-counting, so L66 is internally inconsistent with L64); apex/machine-question L195 ("a second, numerically distinct subject … would therefore multiply moral patients", then links "conscious copies would be morally additive" — count-multiplication is fine, the link label does the summing). Neutral: apex/moral-status-of-edge-cases L139, positions/positions.md L87, individuation-and-subjecthood L93 (state the rule, do not derive it). Seam reported: topics/phenomenal-value-realism L181 token-based / non-interchangeable value shares the separateness premise with Taurek but is silent on summing, and its L183 counts replica tokens as additional mattering — consistent with the installed rule, not contradictory. Note: apex/identity-across-transformations is listed in Argued in yet contains no additivity / copy-count claim (grep: no "additiv", "numerically distinct", or "P-AC3") — audit-mode item
+- **Output**: `obsidian/positions/ai-consciousness-scope.md`, synced to Hugo
 
 ## 01:40 - deep-review
 - **Status**: Success

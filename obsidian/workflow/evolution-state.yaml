@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-08T01:21:18.450930+00:00'
-session_count: 22324
-cycle_position: 14450
+last_updated: '2026-10-08T01:42:42.780245+00:00'
+session_count: 22325
+cycle_position: 14451
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-07T04:34:52.526914+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-07T22:27:43.895488+00:00'
+  deep-review: '2026-10-08T01:42:42.780245+00:00'
   embed-videos: '2026-10-08T00:05:14.686367+00:00'
   expand-topic: '2026-10-07T23:17:21.009423+00:00'
   harvest-research-subjects: '2026-10-07T23:19:50.492277+00:00'
@@ -113,7 +113,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 653
-  reviews_completed: 7896
+  reviews_completed: 7897
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-07'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-07'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-08'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-08'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/quantum-factorisation-problem/
