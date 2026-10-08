@@ -213,3 +213,35 @@
   subject_articles:
   - topics/clinical-dissociation-as-systematic-evidence.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/b385cca2-9870-42e5-a7a4-9ac442634c1e
+  commissioned_at: '2026-10-08T03:10:12.707823+00:00'
+  prompt_summary: 'Audit clinical-dissociation-as-systematic-evidence: claims, citations,
+    counterargs'
+  target_filename: outer-review-2026-10-08-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please act as a hostile but fair academic referee for one article\
+    \ on The Unfinishable Map (https://unfinishablemap.org), a dualist consciousness\
+    \ research programme. Audit clinical-dissociation-as-systematic-evidence: claims,\
+    \ citations, counterargs. The article is https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/\
+    \ \u2014 read the live page directly rather than relying on search-index copies,\
+    \ and consult https://unfinishablemap.org/workflow/changelog/ for very recent\
+    \ edits that your web index may not yet reflect. Examine: (1) whether the clinical\
+    \ literature on dissociation (depersonalisation, DID, dissociative amnesia, anaesthesia-related\
+    \ dissociation) is characterised accurately and whether the cited works say what\
+    \ the article claims; (2) whether treating these cases as systematic evidence\
+    \ for interactionist dualism is a non sequitur, and what the strongest physicalist\
+    \ and predictive-processing readings of the same data are; (3) internal consistency\
+    \ with the site's five tenets and its positions register; (4) overclaims, missing\
+    \ qualifiers, and empirical claims now out of date. Be concrete: quote the sentence\
+    \ you object to and say what a defensible replacement would be. End your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
+  subject_type: recent
+  subject_title: Audit clinical-dissociation-as-systematic-evidence
+  subject_articles:
+  - topics/clinical-dissociation-as-systematic-evidence.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-08-chatgpt-5-6-sol-pro.md
