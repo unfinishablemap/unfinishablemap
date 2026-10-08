@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 06:11 - deep-review
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Selection**: skill selector; top three candidates (emergent-dualism, rival-explanations-of-the-explanatory-gap, consistent-histories-interpretation) excluded by the driver's today/yesterday-edit and open-task rules. Ninth review, first since the 2026-09-05 consolidated rewrite added five references and two verbatim Cleeremans & Tallon-Baudry quotes that no review had read.
+- **Word count**: 4,341 → 4,338 (−3; over the 4,000 topics gate, net ≤ 0 honoured)
+- **Critical issues addressed**: 2 — (1) L63 stale internal quote: `"lacks a developed mechanism specifying how the mental variable connects to physical selection"` is absent from the live `psychophysical-laws` (it was a singularised splice of the pre-coalesce `selection-laws.md` L88; three 2026 reviews certified the quotation marks around a paraphrase) → now quotes the live table/prose: development `"Low"`, `"no quantum-level mechanisms have been proposed"`; (2) L101 Carruthers dropped qualifier: his "all affective states" was colon-spliced into "every conscious state carries some felt goodness or badness" → `the currency thesis extends this to every conscious state` (the extension marked as the Map's, representational reading preserved per the 07-08 stability note).
+- **Medium issues addressed**: 1 — L117 "This framework is well-developed" contradicted L81 "Neither is *worked*" / L188 "only as far as candidate mechanisms"; trimmed to "It connects to Stapp's physics; why add valence?" (−5, the length offset).
+- **Enhancements made**: 0
+- **Web-verify ledger**: 13/13 References entries publisher-verified (Crossref DOI tuples; Europe PMC full text for Cleeremans & Tallon-Baudry 2022 — "a mental currency of sorts", "Are we defending a dualist position?", "an emphatic 'no'" and the List 2019 compatibilism gloss all verbatim; OpenAlex/Europe PMC abstracts for Dabney 2020, Levy & Glimcher 2012, Krajbich 2010, Hayden & Niv 2021, Zheng & Meister 2025; Frontiers full text for Sripada 2026 — learning-phase/meta-level currency gloss faithful). Direction checked on every empirical cite; zero wrong-metadata, zero fabricated, zero superseded superlatives; orphan check clean both ways. Register summaries ([P-Q4](/positions/quantum-interface/#p-q4), [P-Q10](/positions/quantum-interface/#p-q10), [P-VS2](/positions/value-in-selection/#p-vs2)) and the co-optimization / pain-asymbolia dependency glosses grep-verified against their live sources.
+- **Engagements** (editor-internal): Cleeremans & Tallon-Baudry — Mode Three (ontology stated in their words); Hayden & Niv — Mode One via Sripada; mechanism-sufficient rivals — Mode Three, declared; co-optimization epiphenomenalist — Mode Two (unexplained psychophysical necessity). No label leakage.
+- **Follow-ups (not minted)**: archived predecessors `archive/topics/value-blind-vs-value-sensitive-selection.md` L52 and `archive/topics/valence-as-selection-currency.md` L95 still carry the retired quote; left untouched as frozen URL-preservers.
+- **Output**: [deep-review-2026-10-08-valence-and-conscious-selection](/reviews/deep-review-2026-10-08-valence-and-conscious-selection/)
+- **Published**: yes (synced)
+
 ## 05:27 - refine-draft
 - **Status**: Success
 - **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)

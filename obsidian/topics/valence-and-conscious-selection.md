@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-10-04T10:36:17+00:00
+ai_modified: 2026-10-08T06:11:21+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -35,10 +35,10 @@ related_articles:
   - "[[akrasia-and-weakness-of-will]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-07-08T05:15:23+00:00
+last_deep_review: 2026-10-08T06:11:21+00:00
 coalesced_from:
   - "/topics/value-blind-vs-value-sensitive-selection/"
   - "/topics/valence-as-selection-currency/"
@@ -60,7 +60,7 @@ Three commitments intersect to force the fork:
 
 **Value is phenomenal.** The [[consciousness-value-connection]] holds that value requires consciousness. [[topics/phenomenal-value-realism|Phenomenal value realism]] goes further: some phenomenal properties just *are* value properties. The felt badness of pain constitutes badness; it is not a representation of badness.
 
-**Valence is listed as a candidate mental variable.** The [[psychophysical-laws#The Coupling Problem|selection laws article]] lists valence alongside attention, intention, and effort as candidates for the mental side of the coupling law, but notes that valence "lacks a developed mechanism specifying how the mental variable connects to physical selection"—precisely the gap the fork exposes.
+**Valence is listed as a candidate mental variable.** The [[psychophysical-laws#The Coupling Problem|selection laws article]] lists valence alongside attention, intention, and effort as candidates for the mental side of the coupling law, but rates the valence coupling's development "Low" and records that "no quantum-level mechanisms have been proposed" for it—precisely the gap the fork exposes.
 
 If valence is a real phenomenal property that grounds value, and if consciousness causally selects outcomes, then either valence participates in selection or it doesn't. There is no third option within the Map's framework.
 
@@ -98,7 +98,7 @@ On this view, valence directly shapes which outcomes consciousness selects. If c
 
 A currency is a common measure enabling comparison between otherwise incommensurable goods, as money converts bread, labour, and land into a single dimension. Cleeremans and Tallon-Baudry (2022) suggest that phenomenal experience might act as "a mental currency of sorts," letting conscious agents weigh vastly different experiences in a common subject-centred space—the warmth of sunlight against the satisfaction of solving a problem. They answer "Are we defending a dualist position?" with "an emphatic 'no'": their phenomenal efficacy is List's compatibilist, level-of-description efficacy, on which felt valence *is* the neural value, physically constituted. The Map borrows the image, not the ontology; it needs the felt currency to be a variable distinct from the computed one.
 
-Experiences differ in every qualitative respect—colour, sound, texture, emotion—but share the valence dimension. As Carruthers (2018) argues, valence is a unitary kind running through all affective states: every conscious state carries some felt goodness or badness. (Carruthers reads valence *representationally*—a nonconceptual representation of value, not an intrinsic property—a reading that if anything favours the value-blind horn; the currency thesis borrows his claim that valence is the common evaluative dimension, not his metaethics.) This shared dimension makes selection *commensurable*: outcomes that differ in kind can be compared on a metric that differs only in degree. Choosing between a visual pattern and a motor plan proceeds not by comparing colours with movements but by each anticipated outcome's valence signature. The brain presents improper-mixture components; valence denominates them; consciousness selects.
+Experiences differ in every qualitative respect—colour, sound, texture, emotion—but share the valence dimension. Carruthers (2018) argues that valence is a unitary kind running through all affective states; the currency thesis extends this to every conscious state. (Carruthers reads valence *representationally*—a nonconceptual representation of value, not an intrinsic property—a reading that if anything favours the value-blind horn; the currency thesis borrows his claim that valence is the common evaluative dimension, not his metaethics.) This shared dimension makes selection *commensurable*: outcomes that differ in kind can be compared on a metric that differs only in degree. Choosing between a visual pattern and a motor plan proceeds not by comparing colours with movements but by each anticipated outcome's valence signature. The brain presents improper-mixture components; valence denominates them; consciousness selects.
 
 ### The Anticipatory Valence Mechanism
 
@@ -114,7 +114,7 @@ This claim about what selection is denominated in faces mechanism-sufficient riv
 
 ### Why Not Attention Alone?
 
-The [[attention-as-interface|attention-as-interface]] framework proposes that consciousness acts through attention, stabilising neural patterns via mechanisms like the quantum Zeno effect. This framework is well-developed and connects to Stapp's physics. Why add valence?
+The [[attention-as-interface|attention-as-interface]] framework proposes that consciousness acts through attention, stabilising neural patterns via mechanisms like the quantum Zeno effect. It connects to Stapp's physics; why add valence?
 
 Attention specifies *where* consciousness acts—which neural patterns receive observation—but not *why* one target rather than another. "Whatever attention lands on" would be arbitrary, but arbitrariness has more than one alternative: a selector can be structured by intentions, commitments, learned policies or reasons, none of them a felt scalar, and the value-free camp in decision neuroscience holds that choice needs no cardinal common currency at all—heuristics and directly learned action policies suffice (Hayden & Niv 2021). "Without valence, arbitrary" is a false dichotomy, and the Map withdraws it. What remains is the argument the currency tradition itself runs against the same critics: policies and heuristics are themselves value-selected, so the currency reappears at the learning phase or at the level that chooses which policy to follow (Sripada 2026).
 
