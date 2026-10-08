@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T09:55:00+00:00
+ai_modified: 2026-10-08T10:27:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:27 - refine-draft
+
+- **Status**: Success
+- **Files**: [[apex/testing-the-map-from-inside]], [[apex/attention-as-causal-bridge]], [[voids/agency-void]]
+- **Original score**: n/a (targeted calibration fix; `scripts/curate.py` absent)
+- **Changes**: ego-depletion record recalibrated to the two-sided reading of [[concepts/mental-effort]] L84 (figures re-verified against that line, no fresh fetch): standard paradigm failed (Hagger 2016 d=0.04, CI [−0.07, 0.15], N=2,141; Vohs 2021 proponent-led d=0.06, N=3,531, data ~4× likelier under null) while an intensity-dependent effect remains possible (Dang 2025, 30–40-min antisaccade, 14 samples, d=0.31–0.35); neither restores the unitary-resource model. One-sided wording ("indistinguishable from zero … does not exist as advertised"; "collapsed the strength-resource model"; "collapsing the unitary-resource model"; Occam-section "collapsed (Hagger 2016)") removed. (1) testing-the-map-from-inside L132: Vohs + Dang added inline in the page's cite format, 4,335 → 4,387 (+52, ≤ +70 brief). (2) attention-as-causal-bridge L90: Hagger sentence rewritten two-sided; paid by dropping the redundant "Recent work complicates…" opener and "in structurally distinct ways" (the later "simplest identity" sentence carries that point); 5,108 → 5,108 (net 0, no reference lines added). (3) agency-void L132 + L162: Depletion clause rewritten two-sided with Vohs/Dang inline; zero-word pipe [[mental-effort|Three dissociations]] installed (page previously had no mental-effort link); paid by trimming "gating signals", "a separable construction" → "separable", "sub-personal" (Modulation), "exactly"/"what it grants access to is", and the repeat Hagger cite at L162; 3,257 → 3,257 (net 0). Vohs/Dang carry no ledger entries on pages 2 and 3 (over-gate; the piped mental-effort page holds both entries at its L196/L177). ai_system plus-joined with claude-fable-5-1 on all three.
+- **Published**: yes
 
 ## 09:55 - deep-review
 

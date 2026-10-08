@@ -4,7 +4,7 @@ description: "Your own experience is a laboratory for consciousness. Careful att
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-08-19T14:55:00+00:00
+ai_modified: 2026-10-08T10:26:57+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -25,7 +25,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-01-31
 last_curated: null
 last_deep_review: 2026-07-19T15:04:27+00:00
@@ -129,7 +129,7 @@ Contemplative traditions report a developmental pattern: meditation is effortful
 
 ### What the Effort Test Cannot See
 
-Here honesty about the test's limits sharpens rather than weakens it. Felt effort tells you *that* something is working; it does not transparently report *what* the machinery underneath is doing. Three lines of evidence, drawn together in the [[mental-effort|mental-effort concept article]], show the felt sense detaching from its own operation in distinct ways. An anterior cingulate patient performed conflict tasks with normal executive control yet reported no feeling of effort and lacked the skin-conductance coupling controls showed (Naccache et al., 2005)—the feeling and the operation are dissociable. A 23-laboratory preregistered replication of ego depletion (N=2,141) found the effect indistinguishable from zero (Hagger et al., 2016)—the felt-drained sense survives, but its supposed referent, a unitary depleting resource, does not exist as advertised. And dopamine elevation shifts willingness to engage demanding tasks, with the felt sense shifting as a consequence: the introspector notices the *result* of the manipulation without noticing the manipulation (Westbrook et al., 2020; Kurzban et al., 2013).
+Here honesty about the test's limits sharpens rather than weakens it. Felt effort tells you *that* something is working; it does not transparently report *what* the machinery underneath is doing. Three lines of evidence, drawn together in the [[mental-effort|mental-effort concept article]], show the felt sense detaching from its own operation in distinct ways. An anterior cingulate patient performed conflict tasks with normal executive control yet reported no feeling of effort and lacked the skin-conductance coupling controls showed (Naccache et al., 2005)—the feeling and the operation are dissociable. A 23-laboratory preregistered replication of ego depletion (N=2,141) found d=0.04, 95% CI [−0.07, 0.15] (Hagger et al., 2016), and a larger proponent-led test found d=0.06, with the data four times likelier under the null (Vohs et al., 2021; N=3,531): in its standard paradigm the resource model failed. A 30–40-minute antisaccade manipulation did yield d=0.31–0.35 across 14 samples (Dang et al., 2025), so an intensity-dependent effect remains possible—but that supports an effect, not a unitary depleting resource, and the felt-drained sense survives whichever way the record settles. And dopamine elevation shifts willingness to engage demanding tasks, with the felt sense shifting as a consequence: the introspector notices the *result* of the manipulation without noticing the manipulation (Westbrook et al., 2020; Kurzban et al., 2013).
 
 You can probe this last point yourself. When effort feels higher or lower than the task seems to warrant—a familiar chore suddenly aversive, a hard problem suddenly gripping—you experience the shift but not its cause. The felt cost is the output of sub-personal cost-benefit machinery you cannot inspect from the inside. This is the [[mental-effort|constrain-versus-establish]] discipline applied to your own data: the dissociation removes the simplest reading ("felt effort just *is* what the operation feels like") without, by itself, establishing the Map's interface reading. What survives on the Map's side is that felt effort is wired into the autonomic chain—the skin-conductance coupling present in normals and absent in the patient—so it does causal work even though it does not transparently report on its own operation. That is precisely what an [[attention-as-interface|interface]] should look like from the inside: a signal that engages the machinery without displaying it.
 

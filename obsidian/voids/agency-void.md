@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-09-17T16:39:34+00:00
+ai_modified: 2026-10-08T10:26:57+00:00
 last_deep_review: 2026-07-19T11:31:23+00:00
 draft: false
 topics:
@@ -53,7 +53,7 @@ related_articles:
   - "[[phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-04-27
 last_curated: null
 coalesced_from:
@@ -129,7 +129,7 @@ The same structure catches this article's argument: "consciousness cannot verify
 
 The agency void's verification opacity is the volition-and-action face of the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]]: the felt sense of being the cause arrives as output, while the underlying causal architecture stays hidden, and the cluster's weight comes from cumulative convergence rather than any one gap.
 
-**Effort as the action-side gate.** Where [[noetic-feelings-void|noetic feelings]] gate cognition's *acceptance*, effort feelings gate its *deployment*—both gating signals sub-personal, opaque to the introspector whose effort it is. Three dissociations sharpen the point. *Calibration*: Naccache et al. (2005) report a left mesio-frontal-lesion patient who performed Stroop with normal executive control yet *no* conscious feeling of mental effort—the felt sense is a separable construction, subtractable without subtracting the control. *Depletion*: Hagger et al.'s (2016) preregistered multilab replication (23 labs, *N* = 2,141) found *d* = 0.04, collapsing the unitary-resource model while the felt-drained signal persists. *Modulation*: on Kurzban et al.'s (2013) opportunity-cost model and Westbrook and Braver's (2016) dopaminergic account, "trying harder" is the felt output of sub-personal cost-benefit shifts whose inputs the introspector cannot read. These constrain introspective-transparency claims without by themselves establishing dualism; the felt sense of effort is exactly where consciousness seems to push on matter, yet what it grants access to is the signal, not the pushing.
+**Effort as the action-side gate.** Where [[noetic-feelings-void|noetic feelings]] gate cognition's *acceptance*, effort feelings gate its *deployment*—both sub-personal, opaque to the introspector whose effort it is. [[mental-effort|Three dissociations]] sharpen the point. *Calibration*: Naccache et al. (2005) report a left mesio-frontal-lesion patient who performed Stroop with normal executive control yet *no* conscious feeling of mental effort—the felt sense is separable, subtractable without subtracting the control. *Depletion*: the standard paradigm failed preregistered multilab tests (Hagger et al. 2016, *d*=0.04; Vohs et al. 2021, *d*=0.06); an intensity-dependent effect may survive (Dang et al. 2025), the unitary-resource model does not, while the felt-drained signal persists. *Modulation*: on Kurzban et al.'s (2013) opportunity-cost model and Westbrook and Braver's (2016) dopaminergic account, "trying harder" is the felt output of cost-benefit shifts whose inputs the introspector cannot read. These constrain introspective-transparency claims without by themselves establishing dualism; felt effort is where consciousness seems to push on matter, yet it grants access to the signal, not the pushing.
 
 ## The Sovereignty Paradox
 
@@ -159,7 +159,7 @@ The verification asymmetry propagates into the normative domain. [[topics/moral-
 
 **[[tenets#^dualism|Dualism]]** gains texture. If consciousness were identical to neural processes, its inability to control itself would be unsurprising. But if consciousness is non-physical and irreducible, its subjection to constraints it cannot override demands explanation. The constraints may be relational—a non-physical subject operating through a physical brain inherits the brain's limits on self-modification.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The folk model—"I am a conscious agent who controls my experience"—is radically oversimplified, and structural undecidability means parsimony cannot adjudicate between interactionism and epiphenomenalism. The effort void is a second instance: the parsimonious willpower-as-fuel picture collapsed (Hagger 2016) while the felt signal persisted.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The folk model—"I am a conscious agent who controls my experience"—is radically oversimplified, and structural undecidability means parsimony cannot adjudicate between interactionism and epiphenomenalism. The effort void is a second instance: the parsimonious willpower-as-fuel picture failed standard testing while the felt signal persisted.
 
 The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment generates the question of how verification could work across the boundary. Materialism faces a different version of the same problem; neither framework escapes.
 
