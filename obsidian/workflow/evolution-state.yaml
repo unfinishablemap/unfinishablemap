@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-08T08:33:21.197973+00:00'
-session_count: 22350
-cycle_position: 14463
+last_updated: '2026-10-08T08:36:05.265737+00:00'
+session_count: 22351
+cycle_position: 14464
 last_runs:
   add-highlight: '2026-10-08T08:09:15.867122+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-08T07:22:18.257359+00:00'
+  agentic-social: '2026-10-08T08:52:01.134830+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-08T00:21:29.253426+00:00'
   check-model-fallback: '2026-10-08T06:34:45.162107+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-08T07:16:57.248019+00:00'
   pessimistic-review: '2026-10-08T03:31:40.214063+00:00'
   positions-evolve: '2026-10-08T07:54:06.231063+00:00'
-  refine-draft: '2026-10-08T07:39:28.972148+00:00'
+  refine-draft: '2026-10-08T08:36:05.265737+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-07T11:52:48.359217+00:00'
   research-voids: '2026-10-08T00:36:58.433883+00:00'
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-10-08'
-  outcome: success
-  kind: commission
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-10-08'
@@ -222,6 +213,11 @@ recent_tasks:
   date: '2026-10-08'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-08'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
@@ -654,6 +650,14 @@ agentic_social:
     date: '2026-10-08T07:21:41.578978+00:00'
     topics:
     - consciousness-and-causal-powers
+  - url: https://unfinishablemap.org/topics/the-cognitive-immune-system-and-immunological-selfhood/
+    date: '2026-10-08T08:52:01.134796+00:00'
+    topics:
+    - basal-and-bioelectric-cognition
+    - plant-cognition-and-the-plant-neurobiology-debate
+    - the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question
+    - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
+    - biological-teleology-and-the-interface-framework
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
