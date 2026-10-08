@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-10-05 18:50:33+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-10-08 06:20:40+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-fable-5-1
 author: null
 concepts: []
 created: 2026-05-05
-date: &id001 2026-10-05
+date: &id001 2026-10-08
 description: A tenet may remove a defeater, but it must not upgrade the evidence level.
   The discipline installs a five-tier scale — established → strongly supported → realistic
   possibility → live hypothesis → speculative integration — and the diagnostic test
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-10 18:31:00+00:00
-lastmod: 2026-10-05 18:50:33+00:00
+lastmod: 2026-10-08 06:20:40+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -282,6 +282,8 @@ When an article uses clinical or anomaly dissociations as evidence — Klein & N
 Evidence for any one level does not automatically count as evidence for the next. Klein & Nichols establishes separability and contributes to phenomenological reality; it underdetermines mechanistic independence (which several functional accounts can supply — Gentry 2021 develops a self-attentional model expressly to occupy that level) and does not by itself establish metaphysical irreducibility. The same chain applies to Capgras (preserved recognition vs. felt familiarity), blindsight (visual discrimination vs. visual phenomenology), and alien-hand cases (preserved motor control vs. felt agency).
 
 The discipline at this level is *don't collapse the chain*. An article that treats Klein & Nichols as evidence for primitive mineness has skipped two levels; an article that treats blindsight as evidence for the irreducibility of visual phenomenology has skipped at least one. The fix is to identify which level the evidence actually establishes and let subsequent levels carry their own argumentative weight — in natural prose, with the chain implicit but the inferences staged honestly.
+
+**Absence ladder and source type (2026-10-08).** An intact-substrate premise names its rung — focal destructive lesion, conventional-MRI abnormality, group-level structural difference, microstructural/neurochemical/connectivity change, physical cause — denying only what its evidence reaches; clinical default: "no focal destructive lesion sufficient to explain the symptom". [The clinical flagship](/topics/clinical-dissociation-as-systematic-evidence/) walked from "no gross destructive lesion" via "no atrophy" (false for DID: Dimitrova et al.) to "the substrate stays whole". A finding's citation must be a type that generates it (experiment, case series, systematic/narrative review, theoretical model, scale-development paper): Sierra & Berrios 1998, a model, stood in for Phillips et al. 2001 (n=6 fMRI); the [source-access ledger](#the-source-role-table-and-tenet-transfer-ledger) records access, not type. Record a cited author's mechanism before citing against production views (Staniloiu & Markowitsch 2014's "mnestic block" is production-side); verbatim quotation does not certify inference (Marsh et al. 2021, "may be available for retrieval"). A tier-lowering body edit closes only once title, `description:`, tables, Further-Reading and linking-page glosses match: that body reached "neither reading is forced"; description, table column and apex gloss kept the old tier, apex recalibrated 2026-10-02.
 
 ### MWI-Specific Review Checklist
 

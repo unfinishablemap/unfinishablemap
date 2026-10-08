@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 06:21 - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Source**: todo.md P1 (convergent 2026-10-08 outer reviews: ChatGPT 5.6 Sol Pro §3 items 42/44/45/48 = Claude Fable 5.1 §5 items 12/13/17; synthesis 2026-10-08). Methodology note recording a verified failure — not a governance proposal, no NEEDS-HUMAN entry filed.
+- **Original score**: n/a (project ledger; no curate review)
+- **Changes**: one dated sub-paragraph, **Absence ladder and source type (2026-10-08)**, inserted at L281 after the closing paragraph of "### Dissociation Arguments Must Separate Four Levels" and before "### MWI-Specific Review Checklist". (a) the absence ladder — an intact-substrate premise names its rung (focal destructive lesion / conventional-MRI abnormality / group-level structural difference / microstructural-neurochemical-connectivity change / physical cause) and denies only the rung its evidence reaches; clinical default "no focal destructive lesion sufficient to explain the symptom"; exhibit the clinical-dissociation walk "no gross destructive lesion" → "no atrophy" (false for DID, Dimitrova et al.) → "the substrate stays whole", repaired 2026-10-08. (b) source-type labelling — citation type must be able to generate the finding (exhibit Sierra & Berrios 1998 model standing in for Phillips et al. 2001 n=6 fMRI); cross-referenced to the source-access ledger as recording access, not type; Claude's stance-layer check folded in as one clause (Staniloiu & Markowitsch 2014 "mnestic block" is production-side); verbatim quotation does not certify inference (Marsh et al. 2021 "may be available for retrieval"). (c) body-downgrade propagation — title, description, tables, Further-Reading and linking-page glosses diffed against the new tier before the edit closes; exhibit the clinical-dissociation description/table/apex gloss lag after the 2026-10-02 apex recalibration.
+- **Word count**: 22,192 → 22,372 (+180 by `analyze_length`; project/ carries no section gate — the brief's ≤ 180 cap honoured exactly)
+- **Frontmatter**: `ai_modified` 2026-10-08T06:20:40+00:00; `ai_system` +claude-fable-5-1 appended; `modified` 2026-10-08
+- **Not done**: no edit to todo.md or any content article; no commit (orchestrator)
+- **Published**: yes (sync both trees)
+
 ## 06:11 - deep-review
 - **Status**: Success
 - **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
