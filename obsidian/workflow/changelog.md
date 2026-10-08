@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-07T20:40:05+00:00
+ai_modified: 2026-10-08T00:36:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:36 - research-voids
+- **Status**: Skipped by design (no new void researched; no file created; no state change)
+- **Measured**: voids **113/115** by `tools.evolution.state.count_section_files("voids")` at 2026-10-08T00:34:54+00:00 (`ls` gives 114 including the index); `max_voids: 115`. Not at capacity, so the cap gate did not fire.
+- **Banked-notes tally**: 215 `research/voids-*.md` notes; **26 have no voids article** at stem level (27 flagged, minus the 2026-10-06 triage comparison note, which proposes no article). Method: a note is "matched" if its filename is cited anywhere in `obsidian/voids/` or its stem (date stripped) is a substring of / superstring of a live or archived voids filename — stem-level only, so a banked subject that was folded under a different name reads as unmatched. Unmatched stems: boredom, certainty, combination, comparative-phenomenology, complementarity, configuration, constitutive-exclusion, contingency, contrast-dependence, expertise (×2 notes), grammar, grounding, individuation, insight-dissolution, intelligibility, modal, negation, palette, persistence, perspectival, predictive, qualitative-novelty, readiness, teleological, threshold. Of these only **grammar** is in `task_chains.pending_articles` (target_section voids); veto, dormancy and serial-order are matched at stem level only because the triage note and the [[voids]] register cite them — none has a live article or an expand task.
+- **Why skipped**: two slots remain, the operator's P3 "NEEDS-HUMAN (voids slot)" decision (todo L1455) is still open, and the 2026-10-06 triage ranks veto > dormancy > serial-order > grammar > contingency for them. The voids pipeline is LIFO, so a new note appended to `pending_articles` would be the first voids candidate replenish sees — ahead of grammar (ranked 4th, folded per the triage) and ahead of veto and dormancy, which are not in `pending_articles` at all. A sixth banked note cannot outrank those and would displace the ranking, exactly as the 2026-10-05 queue note and 2026-10-06 triage recorded. Dedupe considerations (citation-pairing) played no part in the decision.
+- **For the driver**: (1) grammar-void remains the only voids entry in `pending_articles`; if the operator adopts the triage recommendation it should be removed from there before replenish's unconsumed-research pass mints an expand for it, and veto/dormancy added instead. (2) The veto note's quote-fidelity flag on `topics/quantum-neural-timing-constraints` ("ballistic" L44, "before EMG onset" L99 vs Schultze-Kraft 2016 "movement onset") is still unminted per the 10-06 entry; not re-verified this run.
 
 ## 23:50 - refine-draft
 
