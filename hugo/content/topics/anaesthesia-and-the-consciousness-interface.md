@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-30 14:24:30+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-08 15:50:09+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-fable-5-1
 anchoring_audit_exempt: true
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 12:44:00+00:00
-lastmod: 2026-09-30 14:24:30+00:00
+lastmod: 2026-10-08 15:50:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ Production and transmission theories make identical predictions in normal cases;
 
 Bonhomme et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. Connected consciousness detected by the isolated forearm technique occurs in roughly 5% of patients immediately after tracheal intubation — far above the 0.1–0.2% incidence of awareness with explicit recall. Disconnected consciousness involves vivid dreaming while environmental access is severed; in some protocols nearly all unresponsive participants recalled dreaming on emergence.
 
-Perturbational complexity index (PCI) measurements show continuous, graded changes under propofol rather than a sharp threshold. A progressively constricted filter produces this kind of graded narrowing; a generator powering down might too, but the qualitative differences between agents — propofol silence versus ketamine vividness at equivalent behavioural depths — are harder to reconcile with one mechanism at different power levels. Ketamine is often read as challenging integrated information theory, but that inverts it: consciousness is present under ketamine, so waking-level PCI is what IIT predicts, and Sarasso et al. (Tononi and Casali among its authors) present it as the measure succeeding. IIT tracks integration, not environmental connectedness — Bonhomme et al.'s separate component. Filter theory reads the dissociation as a blocked access channel: a rival reading, not a refutation.
+Perturbational complexity index (PCI) falls gradually across agents from wakefulness through sedation to anaesthesia (Casali et al. 2013). A progressively constricted filter produces this kind of graded narrowing; a generator powering down might too, but the qualitative differences between agents — propofol silence versus ketamine vividness at equivalent behavioural depths — are harder to reconcile with one mechanism at different power levels. Ketamine is often read as challenging integrated information theory, but that inverts it: consciousness is present under ketamine, so waking-level PCI is what IIT predicts, and Sarasso et al. (Tononi and Casali among its authors) present it as the measure succeeding. IIT tracks integration, not environmental connectedness — Bonhomme et al.'s separate component. Filter theory reads the dissociation as a blocked access channel: a rival reading, not a refutation.
 
 The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity in severely deteriorated brains is a paradox for production theory. Xu et al. (2023) recorded gamma-coupling surges in two of four comatose patients during ventilator withdrawal, but attribute these to global hypoxia; none survived to report an experience. Parnia et al. (2023) found 11 of 28 interviewed survivors (11 of 567 arrests) reported experiences suggestive of consciousness, and recorded normal EEG activity 35–60 minutes into CPR. Filter theory reads reduced filtering as letting more through, though the hypoxic reading keeps this suggestive. The broader pattern of [consciousness persisting under extreme metabolic constraint](/topics/consciousness-under-extreme-metabolic-constraint/) reinforces this, and selective channel disruption could supply the controlled variation [consciousness-collapse experiments](/topics/testing-consciousness-collapse/) need.
 

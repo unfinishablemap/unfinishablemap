@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 15:50 - refine-draft
+- **Status**: Success (driver inline)
+- **Task**: `topics/anaesthesia-and-the-consciousness-interface` L97 — propofol-specific PCI "sharp threshold" claim rescoped to match the corrected sibling sentence on `concepts/degrees-of-consciousness` L66 (deep-review-2026-10-06)
+- **Changes**: "PCI measurements show continuous, graded changes under propofol rather than a sharp threshold" → "PCI falls gradually across agents from wakefulness through sedation to anaesthesia (Casali et al. 2013)". +2 words (3,985 → 3,987; gate 4,000). Casali 2013 already in References (#168); Sarasso 2015 contrast at L69 untouched. No other propofol-specific PCI claim on the page (grep PCI/propofol).
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
 ## 15:35 - positions-evolve
 - **Status**: Success (driver inline)
 - **Task**: `positions/consciousness-scope` L77 scope-context label still said "phoneme pruning, the demolished hardware" after the 2026-10-06 `voids/infant-consciousness` recalibration
