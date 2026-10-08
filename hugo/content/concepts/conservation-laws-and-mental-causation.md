@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-30 21:39:17+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_modified: 2026-10-08 11:21:51+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/conservation-laws-and-mind/
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 07:40:05+00:00
-lastmod: 2026-09-30 21:39:17+00:00
+lastmod: 2026-10-08 11:21:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,13 +114,13 @@ An innocent selector must therefore satisfy conditions stronger than preservatio
 
 ### Stapp's Quantum Zeno Mechanism
 
-Henry Stapp's [framework](/concepts/stapp-quantum-mind/) makes selection concrete using orthodox quantum mechanics (von Neumann-Lüders projection). The quantum Zeno effect — where repeated observation of a system holds it in its current state — provides the mechanism. Mental attention acts as rapid observation, prolonging desired neural configurations against decoherence. The mind does not push neurons; it sustains particular quantum states through attentional "probing."
+Henry Stapp's [framework](/concepts/stapp-quantum-mind/) makes selection concrete using orthodox quantum mechanics (von Neumann-Lüders projection). The quantum Zeno effect — where repeated observation of a system holds it in its current state — provides the mechanism. Mental attention acts as rapid observation (attentional "probing"), prolonging desired neural configurations against dynamical spreading rather than pushing neurons.
 
-Stapp's approach requires no speculative new physics. The Zeno effect is experimentally confirmed, and the proposal merely identifies consciousness as a source of the observations that produce it in neural tissue.
+Stapp's approach requires no speculative new physics: the Zeno effect is experimentally confirmed.
 
-The limitations are real. Georgiev's Monte Carlo simulations challenge whether the Zeno effect operates on the timescales required. Stapp responds that these simulations oversimplify the quantum system, but consensus has not emerged.
+The limitations are real. Georgiev's (2015) simulations lose the effect past the decoherence time unless mind and environment share a basis; Stapp's rejoinder claims a proof to the contrary, and the [exchange is unresolved](/concepts/process-1-specification-problem/).
 
-A second limitation is thermodynamic. The no-energy-cost accounting holds for idealised projective measurement of an isolated system; the brain is open and thermally coupled, and frequent measurement of a bath-coupled quantum system is thermodynamically active—it drives system and bath out of thermal equilibrium, with temperature and entropy shifting as a function of observation rate alone (Erez et al. 2008), and stabilising a state against decoherence carries a formalisable energetic cost (Elouard et al. 2017). This measurement back-action objection is developed in [stapp-quantum-mind](/concepts/stapp-quantum-mind/). Its upshot for this article: conservation compliance cannot be inherited from the selection framework wholesale—it must be audited mechanism by mechanism, and for the Zeno mechanism specifically that audit is open. The bare selection channel—biasing which already-decohered outcome actualises, with no repeated measurement holding a state against the bath—is not touched by this objection.
+A second limitation is thermodynamic. The no-energy-cost accounting holds for idealised projective measurement of an isolated system; the brain is open and thermally coupled, and frequent measurement of a bath-coupled quantum system is thermodynamically active—it drives system and bath out of thermal equilibrium, with temperature and entropy shifting as a function of observation rate alone (Erez et al. 2008), and stabilising a state against decoherence carries a formalisable energetic cost (Elouard et al. 2017). This measurement back-action objection is developed in [stapp-quantum-mind](/concepts/stapp-quantum-mind/). Its upshot here: conservation compliance cannot be inherited from the selection framework wholesale—it must be audited mechanism by mechanism, and for the Zeno mechanism specifically that audit is open. The bare selection channel—biasing which already-decohered outcome actualises, with no repeated measurement holding a state against the bath—is not touched by this objection.
 
 ### Beck-Eccles Exocytosis Model
 
@@ -219,6 +219,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1), 95-121. arXiv:1909.13643.
 1. Elouard, C., Herrera-Martí, D. A., Clusel, M., & Auffèves, A. (2017). "The role of quantum measurement in stochastic thermodynamics." *npj Quantum Information*, 3, 9.
 1. Erez, N., Gordon, G., Nest, M., & Kurizki, G. (2008). "Thermodynamic control by frequent quantum measurements." *Nature*, 452(7188), 724–727.
+1. Georgiev, D. D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B*, 29(7), 1550039. arXiv:1412.4741.
 1. Georgiev, D. D., & Glazebrook, J. F. (2014). "Quantum interactive dualism: From Beck and Eccles tunneling model of exocytosis to molecular biology of SNARE zipping." *Biomedical Reviews*, 25, 15-24.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 1. Jarzynski, C. (1997). "Nonequilibrium Equality for Free Energy Differences." *Physical Review Letters*, 78(14), 2690-2693.

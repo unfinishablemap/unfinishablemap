@@ -4,7 +4,7 @@ description: "If consciousness is distinct, laws must bridge mind and matter. Ch
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-09-20T20:24:34+00:00
+ai_modified: 2026-10-08T11:21:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[psychophysical-coupling-law-mechanisms-2026-01-23]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-02-07
 last_curated:
 last_deep_review: 2026-07-16T02:31:00+00:00
@@ -140,7 +140,7 @@ The quantum Zeno effect provides amplification: rapid repeated observation preve
 
 **Supporting evidence**: Jeffrey Schwartz's OCD research showed that patients using mindful attention to resist compulsions produced measurable changes in caudate nucleus activation through directed mental effort. Willed attention produces different frontal-parietal activation patterns than reflexive attention; meditation documents neural connectivity changes from sustained attention training. However, these findings are compatible with both interpretations: the evidence does not adjudicate between Stapp's selection mechanism and a physicalist neuroplasticity account, and no prediction from the Zeno model has yet been identified that *only* Stapp's mechanism explains.
 
-**The decoherence objection**: Georgiev's (2015) Monte Carlo simulations showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time. If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
+**The decoherence objection**: Georgiev's (2015) Monte Carlo simulations showed the quantum Zeno effect breaks down beyond the brain decoherence time when the environment decoheres in a basis other than the mind's. If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
 
 **The post-decoherence reading**: Post-decoherence selection is the Map's leading candidate, not a fallback (P-Q4: "Stapp's quantum Zeno mechanism is currently demoted relative to post-decoherence selection"). It locates consciousness's role in [[forward-in-time-conscious-selection|outcome determination]] after decoherence has selected preferred bases. The price: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three discriminators have been proposed—systematic bias aligned with attentional goals, temporal correlation with reportable phenomenal states, and intervention asymmetry—but none is currently testable. The honest assessment: the specific version of Stapp's mechanism may not work, and the preferred candidate does not yet generate discriminating predictions.
 
