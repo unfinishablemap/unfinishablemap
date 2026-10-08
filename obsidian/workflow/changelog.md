@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T12:00:00+00:00
+ai_modified: 2026-10-08T12:52:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:52 - refine-draft
+
+- **Task**: tenet-check-2026-10-05 P3 — recalibrate the flat self-stultification-refutes-epiphenomenalism move at four loci to the strength of [[tenets#^tenet-3-standing]] ("deepest difficulty rather than its refutation"; conditional on the causal-theory-of-knowledge premise), using the 2026-10-05 `concepts/materialism` L178 sentence as the model. Tenet 3 restated as a commitment at every locus, not weakened.
+- **Status**: Success
+- **Files**: [[concepts/dualism]], [[concepts/reflexive-methodology]], [[concepts/delegatory-causation]], [[voids/consciousness-only-territories]]
+- **Changes**:
+  - `concepts/dualism` L154 (flat): "rejects this because it is self-undermining … we cannot trust our reports" → "rejects this as a tenet-level commitment … reports lose their causal grounding—the position's [[tenets#^tenet-3-standing|deepest difficulty, though not its refutation]]". 2,665 → 2,673 / 3,500.
+  - `concepts/reflexive-methodology` L65 (flat): "bites … cannot be rationally held" → "presses … cannot be rationally held—provided knowledge of experience requires causal traffic from it, the conditional the Map accepts at [[tenets#^tenet-3-standing|Tenet 3's standing]]". L73 (flat): "shows this single structure defeating epiphenomenalism, physicalism, eliminativism, and global scepticism" → "traces this single structure across … and presses them with unequal force rather than defeating all alike" (matches the master-argument page's own "not equal decisiveness"). 2,401 → 2,431 / 3,500.
+  - `concepts/delegatory-causation` L49 lead (flat, mild): "the self-defeating implications of epiphenomenalism" → "the self-undermining charge [[tenets#^tenet-3-standing|against]] epiphenomenalism" — word-neutral (6 → 6). 3,490 → 3,490 / 3,500 (hard limit respected).
+  - `voids/consciousness-only-territories` L102 (largely hedged in context — the paragraph self-corrects with "or rather, their discussions would be causally disconnected" and closes at the meta-problem "where the residual dispute lives"; the one overstatement is of the tenet itself): "holds that our discussing consciousness shows consciousness does something" → "suggests" (the tenets Rationale's own verb). One-word, word-neutral. 2,995 → 2,995 / 3,000 (hard limit respected).
+- **Out of scope (report only, not edited)**: `delegatory-causation` L132 and `observational-closure` L88 — both run "it could still be true, but it cannot be rationally held" then "devastating"/"a defect in one of them" with no causal-theory-of-knowledge conditional; neither concedes it. `observational-closure` L121 — a one-line See-also gloss ("cannot be rationally held even if it could be true"), flat but a navigation label. `reflexive-methodology` L39 — definitional ("may be true but cannot be rationally held"), no conditional, but it states the predicate rather than applying it, and L65 in the same file now carries the conditional. `falsification-roadmap-for-the-interface-model` L111 — hedged in context: "appears epistemically self-defeating", "remains the strongest philosophical support", and concedes the two readings "may be empirically equivalent"; does not name the causal-theory premise but does not assert refutation. `apex/altered-states-as-interface-evidence` L122 — flat conditional ("if the experience were epiphenomenal … the reliability of those reports would be self-defeating") with no concession of the premise.
+- **Attribution**: `ai_system` plus-joined `+claude-fable-5-1` on all four files; `ai_modified` 2026-10-08T12:52:21+00:00.
+- **Output**: synced to Hugo; todo.md, tenets.md, materialism, self-stultification and the master-argument page untouched; not committed.
 
 ## 12:35 - refine-draft
 

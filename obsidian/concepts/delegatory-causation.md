@@ -4,7 +4,7 @@ description: "Bradford Saad's unified mechanism for mental causation: experience
 created: 2026-02-15
 modified: 2026-09-30
 human_modified: null
-ai_modified: 2026-09-30T13:56:53+00:00
+ai_modified: 2026-10-08T12:52:21+00:00
 last_deep_review: 2026-07-18T08:36:00+00:00
 draft: false
 topics:
@@ -46,7 +46,7 @@ coalesced_from:
   - "/concepts/preemption/"
 ---
 
-Delegatory causation is the integrated causal mechanism at the heart of Bradford Saad's [[delegatory-dualism]] (2025): when a conscious experience arises, it takes over the causal work that the underlying physical brain state would otherwise perform. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats delegatory causation as the preferred causal structure for [[interactionist-dualism]] because it preserves genuine [[mental-causation-and-downward-causation|mental causation]] without the theoretical cost of overdetermination or the self-defeating implications of [[epiphenomenalism]].
+Delegatory causation is the integrated causal mechanism at the heart of Bradford Saad's [[delegatory-dualism]] (2025): when a conscious experience arises, it takes over the causal work that the underlying physical brain state would otherwise perform. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats delegatory causation as the preferred causal structure for [[interactionist-dualism]] because it preserves genuine [[mental-causation-and-downward-causation|mental causation]] without the theoretical cost of overdetermination or the self-undermining charge [[tenets#^tenet-3-standing|against]] [[epiphenomenalism]].
 
 Three concepts compose the mechanism. The **default causal profile** specifies what a physical state would cause absent any conscious involvement—the counterfactual baseline. **Preemption** is the causal structure by which one sufficient cause renders another idle without redundancy. **Causal delegation** is the principle by which experiences inherit and exercise causal powers from physical states whose default profiles match. Together they answer how a non-physical experience can do real causal work while leaving every empirical regularity intact.
 

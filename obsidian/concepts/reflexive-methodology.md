@@ -4,7 +4,7 @@ description: "The Map's argumentative move: take a rival framework's own criteri
 created: 2026-07-07
 modified: 2026-07-07
 human_modified:
-ai_modified: 2026-08-12T20:10:19+00:00
+ai_modified: 2026-10-08T12:52:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-07-07
 last_curated:
 last_deep_review: 2026-08-12T20:10:19+00:00
@@ -62,7 +62,7 @@ This instance, unlike the closure and Cutter instances that follow, is not fully
 
 ### Causal Closure — Circularity and Self-Stultification
 
-The [[causal-closure|causal-closure]] argument against dualism confronts a formulation dilemma of its own making. Read strongly enough to exclude mental causation, closure simply presupposes physicalism, so the argument against dualism becomes circular — it assumes what it means to prove. Read weakly enough to avoid begging the question, it no longer excludes mental causation and loses its force. The Map does not smuggle in dualism here; it holds the closure argument to its own requirement for a non-circular, non-vacuous statement and finds none available. Self-stultification then bites the [[concepts/epiphenomenalism|epiphenomenalism]] that strong closure forces: if consciousness causes nothing, beliefs about consciousness are causally disconnected from experience, and the closure theorist's own position cannot be rationally held.
+The [[causal-closure|causal-closure]] argument against dualism confronts a formulation dilemma of its own making. Read strongly enough to exclude mental causation, closure simply presupposes physicalism, so the argument against dualism becomes circular — it assumes what it means to prove. Read weakly enough to avoid begging the question, it no longer excludes mental causation and loses its force. The Map does not smuggle in dualism here; it holds the closure argument to its own requirement for a non-circular, non-vacuous statement and finds none available. Self-stultification then presses the [[concepts/epiphenomenalism|epiphenomenalism]] that strong closure forces: if consciousness causes nothing, beliefs about consciousness are causally disconnected from experience, and the closure theorist's own position cannot be rationally held—provided knowledge of experience requires causal traffic from it, the conditional the Map accepts at [[tenets#^tenet-3-standing|Tenet 3's standing]].
 
 ### Russellian Monism — The Instability Recoil
 
@@ -70,7 +70,7 @@ The [[causal-closure|causal-closure]] argument against dualism confronts a formu
 
 ### Self-Stultification As Deployed — Retorsion
 
-When the rival's avowed standard is *rational justification itself*, the reflexive move deploys self-stultification, and its root is retorsive. The eliminativist who *asserts* there are no beliefs, the epiphenomenalist who *reports* their conviction, perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates. The [[self-stultification-as-master-argument|master argument]] shows this single structure defeating epiphenomenalism, physicalism, eliminativism, and global scepticism, each severing a different strand connecting consciousness to justification. Here the method borrows the property: reflexive methodology is the procedure, self-stultification the defect it exhibits in the rival.
+When the rival's avowed standard is *rational justification itself*, the reflexive move deploys self-stultification, and its root is retorsive. The eliminativist who *asserts* there are no beliefs, the epiphenomenalist who *reports* their conviction, perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates. The [[self-stultification-as-master-argument|master argument]] traces this single structure across epiphenomenalism, physicalism, eliminativism, and global scepticism, each of which severs a different strand connecting consciousness to justification, and presses them with unequal force rather than defeating all alike. Here the method borrows the property: reflexive methodology is the procedure, self-stultification the defect it exhibits in the rival.
 
 ## Three Guardrails
 

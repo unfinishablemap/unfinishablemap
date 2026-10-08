@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-09-30 13:56:53+00:00
+ai_modified: 2026-10-08 12:52:21+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 08:36:00+00:00
-lastmod: 2026-09-30 13:56:53+00:00
+lastmod: 2026-10-08 12:52:21+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -50,7 +50,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Delegatory causation is the integrated causal mechanism at the heart of Bradford Saad's [delegatory-dualism](/topics/delegatory-dualism/) (2025): when a conscious experience arises, it takes over the causal work that the underlying physical brain state would otherwise perform. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats delegatory causation as the preferred causal structure for [interactionist-dualism](/concepts/interactionist-dualism/) because it preserves genuine [mental causation](/concepts/mental-causation-and-downward-causation/) without the theoretical cost of overdetermination or the self-defeating implications of [epiphenomenalism](/concepts/epiphenomenalism/).
+Delegatory causation is the integrated causal mechanism at the heart of Bradford Saad's [delegatory-dualism](/topics/delegatory-dualism/) (2025): when a conscious experience arises, it takes over the causal work that the underlying physical brain state would otherwise perform. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats delegatory causation as the preferred causal structure for [interactionist-dualism](/concepts/interactionist-dualism/) because it preserves genuine [mental causation](/concepts/mental-causation-and-downward-causation/) without the theoretical cost of overdetermination or the self-undermining charge [against](/tenets/#tenet-3-standing) [epiphenomenalism](/concepts/epiphenomenalism/).
 
 Three concepts compose the mechanism. The **default causal profile** specifies what a physical state would cause absent any conscious involvement—the counterfactual baseline. **Preemption** is the causal structure by which one sufficient cause renders another idle without redundancy. **Causal delegation** is the principle by which experiences inherit and exercise causal powers from physical states whose default profiles match. Together they answer how a non-physical experience can do real causal work while leaving every empirical regularity intact.
 
