@@ -10,6 +10,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 03:36 - refine-draft
+- **Status**: Success
+- **File**: [rival-explanations-of-the-explanatory-gap](/concepts/rival-explanations-of-the-explanatory-gap/)
+- **Source**: [pessimistic-2026-10-08-rival-explanations-of-the-explanatory-gap](/reviews/pessimistic-2026-10-08-rival-explanations-of-the-explanatory-gap/) Issues 1, 2(a)(b), 3, 4, 5(a)(b), 6 and §Length trims (a)(b); all ten old strings located by quoted text, each confirmed to occur exactly once; applied verbatim as the review gave them.
+- **Original score**: no numeric score (pessimistic review; Lenses 1–3, 6 clean; six gloss-level issues)
+- **Changes**: (1) Register paragraph: PCS now "the commonest of them by his own account rather than the only one" — Kammerer's abstract "One of the most common strategies" (research note L155, 1 hit); no longer contradicts [P-D1](/positions/arguments-for-dualism/#p-d1) L46 / ignorance-hypothesis L66. (2a) Discriminate section: erosion-under-reflection prediction reattributed "on Kammerer's reading of them". (2b) C6: added Papineau's "a very seductive fallacy" (2011, p. 16; note L141, 1 hit) and that a reflection-resistant fallacy would blunt the criterion. (3) C3: deleted ", with training and culture untested" — not on the cited metaproblem page (0 hits for training/culture). (4) C3: Type-B's no-further-posit pass distinguished from the isolation form's stipulative C2 pass (brains producing the reports is settled). (5a) E2 restored "many of"; (5b) E6 restored "plausibly justified with something approaching Cartesian certainty" and "a strong intuition" (note L113, 1 hit each). (6) Lot: "and he concludes for a physicalism of one of those kinds". Trims: C2 dropped the second Bloom quotation after "seems to overgeneralize" (note 2 hits, retained quotation unchanged); Explananda paraphrased Papineau's call for experiment (p. 17). Every "whose criterion / whose scoring" attribution survives.
+- **Calibration**: unchanged — lead result statement untouched in substance; *compatible* against Type-B; fallacy family *compatible* now / *suggestive* only on experimental confirmation and non-separating; *discriminating* nowhere; [P-M1](/positions/methodology-and-calibration/#p-m1) defeater-removal raises no tier. Issues 2(b) and 4 weaken rather than strengthen the dualist reading.
+- **Reasoning-mode**: engagement with Type-B/PCS: mixed — in-framework argument on shared criteria (Mode One) with honest boundary-marking on the Map-side inputs (Tenet 5 discount, [P-M1](/positions/methodology-and-calibration/#p-m1)); unchanged by this pass.
+- **Length**: 2,974 → 3,007 by `analyze_length` (gate 3,500 `>=`; headroom 492); review projected 3,008.
+- **Not touched**: todo.md, the research note, host pages (explanatory-gap L121 and PCS L137 have their own P3).
+- **Published**: yes
+
+## 03:29 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: `concepts/rival-explanations-of-the-explanatory-gap` (fresh create 23:06Z; 2,974/3,500, prose 2,560) against its research note and the seven integration hosts (hub L38/L92/L122/L128, primitive-identities L101, AAM L83, PCS L137, explanatory-gap L121, meta-problem L95, ignorance-hypothesis L66)
+- **Clean**: 36/36 quotations grep in the note under letters+digits normalisation, all page labels match (Chalmers 2018 ×13, Papineau ×5, Kammerer ms. ×5), no splices; all nine attribution guards hold; every tier word agrees with the brief and hub L117–L123; style/frontmatter clean; "Run the second-order IBE" P3 still `blocked` with its condition met (flip Status, do not mint)
+- **Findings**: (1) L105 "rather than the mainstream statement of it" inverts Kammerer's abstract ("One of the most common strategies") and contradicts [P-D1](/positions/arguments-for-dualism/#p-d1) L46 / ignorance-hypothesis L66; (2) L83 states Kammerer's erosion-under-reflection premise as the fallacy theorists' own prediction and L73 leaves Papineau's "very seductive fallacy" (p. 16) unused; (3) L69 "with training and culture untested" attributed to metaproblem L119, which does not say it; (4) C3 "no further posit" vs C2 "passes by construction" asymmetry unexplained; (5) L45 drops Chalmers's "many of" / "plausibly" / "strong intuition"; (6) L61 subject mismatch; hosts: PCS L137 anchor "physicalism's best strategy" and explanatory-gap L121 flat "points to a gap in the referents" both assert what the target page scores as a standoff
+- **Priority List (cap 4, exact old/new in file)**: (1) P2 article, net +34 with two attribution-free trims, headroom 525 → 491; (2) P3 explanatory-gap L121 net +2, headroom 4 → 2; (3) P3 PCS L137 +6, headroom 54 → 48; (4) P3 optional prim L101 (+3) and meta-problem L95 (+10)
+- **Output**: [pessimistic-2026-10-08-rival-explanations-of-the-explanatory-gap](/reviews/pessimistic-2026-10-08-rival-explanations-of-the-explanatory-gap/)
+
 ## 02:50 - refine-draft
 
 - **Task**: Kant-page reciprocals and Tenet 4 bullet on three pages (optimistic-2026-10-04 subject-and-individuation wing, Priority items 2 and 4); applied inline by the driver with the review's exact text
