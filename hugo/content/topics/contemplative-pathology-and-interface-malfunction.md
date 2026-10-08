@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-04 01:09:29+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-10-08 16:17:03+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[interface-friction]]'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 21:29:16+00:00
-lastmod: 2026-10-04 01:09:29+00:00
+lastmod: 2026-10-08 16:17:03+00:00
 modified: *id001
 related_articles:
 - '[[attention-and-the-consciousness-interface]]'
@@ -55,7 +55,7 @@ The pathology emerges when this modification destabilises the coupling rather th
 
 **Temporal binding disruption** manifests as the perception of time fragmenting or stopping. Practitioners report experience breaking into disconnected moments without the normal sense of temporal flow. This parallels the temporal fragmentation that volatile anaesthetics produce, but the mechanism is reversed: rather than chemicals disrupting neural oscillatory coherence from outside, sustained meditative attention on moment-to-moment arising disrupts the temporal binding from within.
 
-**Content-access dissociation** appears as depersonalisation and derealisation — experience continues but feels unowned, unreal, or observed from a distance. The practitioner retains phenomenal presence but loses the normal sense that experience belongs to them. This resembles what ketamine produces pharmacologically: preserved phenomenal content without normal access channels.
+**Content-access dissociation** appears as [depersonalisation and derealisation](/topics/clinical-dissociation-as-systematic-evidence/) — experience continues but feels unowned, unreal, or observed from a distance. The practitioner retains phenomenal presence but loses the normal sense that experience belongs to them. This resembles what ketamine produces pharmacologically: preserved phenomenal content without normal access channels.
 
 **Phenomenal flooding** occurs when ordinary perceptual filters weaken. Practitioners report overwhelming sensory vividness, synesthetic blending, or awareness of normally unconscious processes (heartbeat, digestion, muscular micro-adjustments). If the brain functions partly as a filter constraining consciousness — as the reducing-valve hypothesis (Huxley, 1954, developing Bergson's earlier formulation) suggests and as [multiple lines of evidence support](/concepts/altered-states-of-consciousness/) — then contemplative practice may loosen this filter faster than the system can accommodate.
 

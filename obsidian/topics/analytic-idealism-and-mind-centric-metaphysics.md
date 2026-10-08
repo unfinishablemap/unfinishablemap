@@ -4,7 +4,7 @@ description: "Mapping the landscape of mind-first ontologies—from Kastrup's an
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-10-07T16:22:38+00:00
+ai_modified: 2026-10-08T16:17:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[analytic-idealism-2026-01-08]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-fable-5-1
 ai_generated_date: 2026-02-22
 last_curated:
 last_deep_review: 2026-10-07T16:22:38+00:00
@@ -47,7 +47,7 @@ One family sits deliberately outside this taxonomy. Epistemic mind-centrality—
 
 Bernardo Kastrup's [[idealism|analytic idealism]] takes the strongest possible position: universal phenomenal consciousness is the sole ontological primitive. Everything reduces to patterns of excitation within this consciousness. What we call "matter" is the extrinsic appearance of mental processes—the way consciousness looks from outside a dissociation boundary.
 
-Individual minds are "dissociated alters" of universal consciousness, analogous to personalities in dissociative identity disorder. The brain doesn't generate consciousness; it is how a localised mental process appears from an external perspective.
+Individual minds are "dissociated alters" of universal consciousness, analogous to personalities in [[clinical-dissociation-as-systematic-evidence|dissociative identity disorder]]. The brain doesn't generate consciousness; it is how a localised mental process appears from an external perspective.
 
 **What idealism gains:** The hard problem dissolves. If consciousness is all there is, there's no gap between physical and phenomenal because there's nothing non-mental to bridge from. Parsimony favours one ontological category over two.
 

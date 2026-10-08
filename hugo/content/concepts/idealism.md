@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-08-18 21:17:37+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-08 16:17:03+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/idealism/
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-03 13:49:46+00:00
-lastmod: 2026-08-18 21:17:37+00:00
+lastmod: 2026-10-08 16:17:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ The Map accepts the hard problem's force and avoids it via dualism—consciousne
 
 How does one consciousness become many? Kastrup's answer: dissociation.
 
-Dissociative identity disorder (DID) demonstrates that a single psyche can split into apparently separate personalities, each with its own experiences and memories. Analytic idealism proposes something similar at cosmic scale: universal consciousness dissociates into individual minds.
+[Dissociative identity disorder (DID)](/topics/clinical-dissociation-as-systematic-evidence/) demonstrates that a single psyche can split into apparently separate personalities, each with its own experiences and memories. Analytic idealism proposes something similar at cosmic scale: universal consciousness dissociates into individual minds.
 
 This explains why minds share basic structure, why communication is possible, and why physical laws are uniform ("matter" is how universal consciousness constrains its own dissociations).
 

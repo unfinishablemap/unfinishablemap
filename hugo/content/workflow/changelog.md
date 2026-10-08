@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 16:17 - refine-draft
+- **Status**: Success (driver inline)
+- **Task**: `topics/neurological-dissociations-as-interface-architecture` L171 — unconsciousness / disconnected / connected consciousness taxonomy credited to "Mashour and colleagues" with no reference (optimistic-2026-10-08-clinical-dissociation-wing item 6)
+- **Changes**: now "Sanders and colleagues (2012)" with the reference added — Sanders, Tononi, Laureys & Sleigh (2012), Unresponsiveness ≠ unconsciousness, *Anesthesiology* 116(4):946–959 (PMID 22314293; the fork fetched the record). +2 body words plus the reference line; 3,516 → re-measured below.
+- **Output**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+
+## 16:17 - refine-draft
+- **Status**: Success (driver inline, zero-word)
+- **Task**: five piped reciprocals from optimistic-2026-10-08-clinical-dissociation-wing items 1a–1d
+- **Changes**: `concepts/idealism` L73 "Dissociative identity disorder (DID)" and `topics/analytic-idealism-and-mind-centric-metaphysics` L50 "dissociative identity disorder" now pipe to `topics/clinical-dissociation-as-systematic-evidence` (the cheapest answer to the Claude outer-review's Kastrup/DID underdetermination singleton); `topics/contemplative-pathology-and-interface-malfunction` L55 "depersonalisation and derealisation" → flagship (reciprocal of flagship L127/L168); `project/architecture-vs-significance-two-tier-discount` L41 → flagship, and flagship L127 "earns the *architecture* while leaving its dualist *significance* to be argued separately" → the two-tier page (neither previously linked the other). Zero words on every host; flagship stays at 4,694.
+- **Output**: the five files above
+
+## 16:15 - optimistic-review
+- **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
+- **Content reviewed**: the 2026-10-08 clinical-dissociation outer-review wing after its 05:19Z–07:54Z repairs — `topics/clinical-dissociation-as-systematic-evidence` (4,694/4,000, OVER, operator-held), `topics/neurological-dissociations-as-interface-architecture` (3,516), `topics/split-brain-consciousness` (3,898), `positions/consciousness-scope` [P-CS4](/positions/consciousness-scope/#p-cs4) and `positions/individuation-and-subjecthood` [P-I3](/positions/individuation-and-subjecthood/#p-i3), `project/evidential-status-discipline` L281 — read against the 2/3 synthesis and both underlying reviews
+- **Findings**: tier vocabulary agrees verbatim across flagship L64 / discipline L281 / [P-CS4](/positions/consciousness-scope/#p-cs4) ("no focal destructive lesion sufficient to explain the symptom"; compatible, discriminating neither); seven repaired passages named as strengths. Six actionable items, none duplicating the open P3s or the NEEDS-HUMAN length entry: zero-word piped reciprocals on the two Kastrup pages (`concepts/idealism` L73, `analytic-idealism…` L50), the two-tier-discount pair and `contemplative-pathology` L55; `concepts/direction-of-interface-change` L49 still carries the "reconnection rather than re-grown" amnesia claim retired this morning (+19); `research/metacognitive-access-versus-retention-2026-09-16.md` is an unconsumed harvester note with no task-chain entry (expand → concepts); research mints for ketamine/retrosplenial dissociation and the autonoetic-first ordering review; neurological L171 credits the three-states taxonomy to "Mashour and colleagues" (unreferenced) where `anesthesia-void` credits Montupil 2023 — the source is Sanders, Tononi, Laureys & Sleigh 2012 *Anesthesiology* 116(4):946–959 (PMID 22314293, fetched). Reinders 2003 n still unresolved at abstract level.
+- **Output**: [optimistic-2026-10-08-clinical-dissociation-wing](/reviews/optimistic-2026-10-08-clinical-dissociation-wing/)
+
 ## 15:50 - refine-draft
 - **Status**: Success (driver inline)
 - **Task**: `topics/anaesthesia-and-the-consciousness-interface` L97 — propofol-specific PCI "sharp threshold" claim rescoped to match the corrected sibling sentence on `concepts/degrees-of-consciousness` L66 (deep-review-2026-10-06)

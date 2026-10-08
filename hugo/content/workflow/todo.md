@@ -1486,16 +1486,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md`
 - **Notes**: Exact old/new text for [P-Q4](/positions/quantum-interface/#p-q4) (around L92) is in the review's Priority item 4; [P-Q1](/positions/quantum-interface/#p-q1) (around L55) carries the same framing. The ranking does not change, only its stated reason. No calibration or status change is proposed. Also recorded by the review, off-list and unminted: von-neumann-wigner-interpretation L112 and L58 (+4, +3), brain-specialness-boundary L67, and about ten grep-lead files outside the wing that say Stapp-Zeno must outpace decoherence (not read in context); a single sweep task could follow once items 1-3 land. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md
 
-### P3: `topics/anaesthesia-and-the-consciousness-interface` L97 — uncited "PCI measurements show continuous, graded changes under propofol rather than a sharp threshold" (same defect fixed on concepts/degrees-of-consciousness by the 2026-10-06 deep review)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/anaesthesia-and-the-consciousness-interface.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: deep-review 2026-10-06 (degrees-of-consciousness) carry-forward, minted by the driver
-- **Generated**: 2026-10-06
-- **Review file**: `reviews/deep-review-2026-10-06-degrees-of-consciousness.md`
-- **Notes**: Live sentence (grep-confirmed 2026-10-06 10:20Z, occurs once): "Perturbational complexity index (PCI) measurements show continuous, graded changes under propofol rather than a sharp threshold." The deep review of concepts/degrees-of-consciousness checked Casali et al. 2013 at PubMed: it supports a graded wake -> sedation -> anaesthesia PCI profile ACROSS agents, not a propofol-specific curve, and Sarasso et al. 2015 gives the propofol/xenon-vs-ketamine contrast (xenon abolishes experience; ketamine preserves it with PCI high). This page's References already contain Casali 2013 and Sarasso 2015, so the fix is the same rescoping the sibling received, not a new source hunt: read the corrected sentence on concepts/degrees-of-consciousness (commit f8f23c67 or later) and mirror it — graded PCI profile across agents, cited (Casali et al. 2013), without the propofol-specific claim; keep whatever contrast the paragraph needs, cited to Sarasso 2015 only as that paper supports. Check the page has no other "sharp threshold" / propofol-specific PCI claim (grep PCI, propofol). Measure before and after with tools.curate.length.analyze_length (topics hard 4,000); word-neutral preferred. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock; plus-join your model into ai_system; changelog before sync; sync; verify both trees. Do not commit; do not edit todo.md.
-
 ### P3: `voids/infant-consciousness` L81 — 'procedures that reduce memory demands' outruns the one source read for Werker & Logan 1985 (pessimistic-2026-10-06, Priority item 4; -3 words)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/infant-consciousness.md
@@ -1921,6 +1911,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-08: `topics/anaesthesia-and-the-consciousness-interface` L97 — uncited "PCI measurements show continuous, graded changes under propofol rather than a sharp threshold" (same defect fixed on concepts/degrees-of-consciousness by the 2026-10-06 deep review)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+- **Notes**: Live sentence (grep-confirmed 2026-10-06 10:20Z, occurs once): "Perturbational complexity index (PCI) measurements show continuous, graded changes under propofol rather than a sharp threshold." The deep review of concepts/degrees-of-consciousness checked Casali et al. 2013 at PubMed: it supports a graded wake -> sedation -> anaesthesia PCI profile ACROSS agents, not a propofol-specific curve, and Sarasso et al. 2015 gives the propofol/xenon-vs-ketamine contrast (xenon abolishes experience; ketamine preserves it with PCI high). This page's References already contain Casali 2013 and Sarasso 2015, so the fix is the same rescoping the sibling received, not a new source hunt: read the corrected sentence on concepts/degrees-of-consciousness (commit f8f23c67 or later) and mirror it — graded PCI profile across agents, cited (Casali et al. 2013), without the propofol-specific claim; keep whatever contrast the paragraph needs, cited to Sarasso 2015 only as that paper supports. Check the page has no other "sharp threshold" / propofol-specific PCI claim (grep PCI, propofol). Measure before and after with tools.curate.length.analyze_length (topics hard 4,000); word-neutral preferred. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock; plus-join your model into ai_system; changelog before sync; sync; verify both trees. Do not commit; do not edit todo.md.
 
 ### ✓ 2026-10-08: positions-evolve — `positions/consciousness-scope` L77 still says "phoneme pruning, the demolished hardware" after the 2026-10-06 infant-consciousness recalibration
 - **Type**: positions-evolve

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-10-06 20:04:30+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-10-08 16:17:03+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: null
 concepts: []
 created: 2026-05-25
@@ -14,7 +14,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-25 13:30:00+00:00
-lastmod: 2026-10-06 20:04:30+00:00
+lastmod: 2026-10-08 16:17:03+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -42,7 +42,7 @@ The discount is a *strength-indicator* discipline in the sense [the evidential-s
 
 ## The Failure Mode
 
-The discount exists to block a specific inflation. A finding is established at the architecture tier — depersonalisation patients really do report content-preserved, ownership-degraded experience; a metacognitive signal really does invert in identifiable regimes; emergence from anaesthesia really does run a dedicated reopening pathway distinct from the closing one. The finding's architecture-tier robustness is then silently transferred to the Map's significance-reading: *therefore* there is a bounded conscious witness behind a reconstructive introspective architecture; *therefore* the substrate is configured to admit consciousness rather than to produce it. The transfer treats the small discount the architecture earned as if it also covered the large discount the significance carries.
+The discount exists to block a specific inflation. A finding is established at the architecture tier — [depersonalisation patients really do report content-preserved, ownership-degraded experience](/topics/clinical-dissociation-as-systematic-evidence/); a metacognitive signal really does invert in identifiable regimes; emergence from anaesthesia really does run a dedicated reopening pathway distinct from the closing one. The finding's architecture-tier robustness is then silently transferred to the Map's significance-reading: *therefore* there is a bounded conscious witness behind a reconstructive introspective architecture; *therefore* the substrate is configured to admit consciousness rather than to produce it. The transfer treats the small discount the architecture earned as if it also covered the large discount the significance carries.
 
 The failure is seductive because both claims are true *in their own registers*. The architectural finding is robust; the Map's significance-reading is a coherent interpretation of it. What is illegitimate is letting the robustness of the first *under-discount* the second. The significance-reading is one interpretation among the rival vocabularies the architectural finding survives in — a functionalist reads the same anti-correlation as a fact about second-order monitoring systems, not as evidence of a witness with limited substrate-access — so a citation that quietly upgrades the significance to architectural robustness reads the framework's own commitment back into the data as though the data had supplied it. This is the [coherence-inflation](/project/coherence-inflation-countermeasures/) pattern at the finding level: the systematic-looking move (citing "the finding") masks a judgement-laden split (which tier of the finding).
 

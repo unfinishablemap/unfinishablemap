@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-08 05:27:16+00:00
-ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-10-08 16:17:03+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/clinical-dissociation-as-systematic-evidence/
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 16:33:11+00:00
-lastmod: 2026-10-08 05:27:16+00:00
+lastmod: 2026-10-08 16:17:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ Across all four conditions, the same structural logic repeats:
 
 Each condition selectively disrupts connectivity between otherwise capable processing regions—the individual systems retain their capacity while the functional connection between them fails.
 
-The convergence across disconnection types may be the most suggestive evidence, but it has to be read at the right tier. The Map's own [common-cause discipline](/project/common-cause-null/) requires screening the converging routes for a shared upstream cause before counting them as independent confirmations, and a candidate is visible: predictive processing reframes three of these windows—conversion as an aberrantly precise motor prior, DPDR as altered interoceptive precision-weighting, dissociative amnesia (where it holds) as inhibited retrieval—as *precision-weighting pathologies* in one active-inference framework. If a single mechanism generates the converging routes, the convergence reads one upstream architecture several times and the [compound signature](/topics/epistemology-of-convergence-arguments/) loses most of its force. The honest reply is partial: "precision-weighting" is a loose family, not one mechanism—retrieval-suppression, interoceptive precision-imbalance, and an overactive motor prior are different enough that the shared label is a resemblance, and DID's cross-state access failure resists the precision framing altogether. The routes' residual independence is weaker than four-fold. [Contemplative pathology](/topics/contemplative-pathology-and-interface-malfunction/) and [pharmacological dissociation](/voids/anesthesia-void/) add further routes that do not reduce to the precision-weighting family, so their agreement on one channel taxonomy retains some [compound-signature](/topics/epistemology-of-convergence-arguments/#compound-signatures-convergence-without-a-shared-mechanism) structure—but the reach is discounted: the signature earns the *architecture* while leaving its dualist *significance* to be argued separately.
+The convergence across disconnection types may be the most suggestive evidence, but it has to be read at the right tier. The Map's own [common-cause discipline](/project/common-cause-null/) requires screening the converging routes for a shared upstream cause before counting them as independent confirmations, and a candidate is visible: predictive processing reframes three of these windows—conversion as an aberrantly precise motor prior, DPDR as altered interoceptive precision-weighting, dissociative amnesia (where it holds) as inhibited retrieval—as *precision-weighting pathologies* in one active-inference framework. If a single mechanism generates the converging routes, the convergence reads one upstream architecture several times and the [compound signature](/topics/epistemology-of-convergence-arguments/) loses most of its force. The honest reply is partial: "precision-weighting" is a loose family, not one mechanism—retrieval-suppression, interoceptive precision-imbalance, and an overactive motor prior are different enough that the shared label is a resemblance, and DID's cross-state access failure resists the precision framing altogether. The routes' residual independence is weaker than four-fold. [Contemplative pathology](/topics/contemplative-pathology-and-interface-malfunction/) and [pharmacological dissociation](/voids/anesthesia-void/) add further routes that do not reduce to the precision-weighting family, so their agreement on one channel taxonomy retains some [compound-signature](/topics/epistemology-of-convergence-arguments/#compound-signatures-convergence-without-a-shared-mechanism) structure—but the reach is discounted: the signature [earns the *architecture* while leaving its dualist *significance* to be argued separately](/project/architecture-vs-significance-two-tier-discount/).
 
 ## What the Dualist Reading Adds — and What It Does Not
 
