@@ -182,3 +182,34 @@
   subject_articles:
   - voids/assent-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-07-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac6fb0d-e004-83eb-b414-71e2e155fa45
+  commissioned_at: '2026-10-08T02:09:30+00:00'
+  prompt_summary: 'Audit clinical-dissociation-as-systematic-evidence: claims, citations,
+    counterargs'
+  target_filename: outer-review-2026-10-08-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Act as an external referee for The Unfinishable Map, a philosophy\
+    \ site defending interactionist dualism with minimal quantum interaction. The\
+    \ article https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/\
+    \ was last substantively modified 2026-10-01 (\u22657 days ago, so search engines\
+    \ have had time to re-index). Audit its claims, citations, counterargument coverage,\
+    \ and integration with surrounding articles. Look for insufficient evidence, missed\
+    \ counterarguments, tenet-protective bracketing, and stale references. The site\
+    \ changelog is at https://unfinishablemap.org/workflow/changelog/; the site root\
+    \ is https://unfinishablemap.org. Please fetch the article and the changelog directly\
+    \ rather than relying on search-index snapshots, since recent edits may not yet\
+    \ be indexed. Verify every named clinical study and quotation against the primary\
+    \ literature on dissociation, depersonalisation, and dissociative identity disorder,\
+    \ noting any misattribution or overreach, and check whether the article's dualist\
+    \ reading survives the strongest physicalist and predictive-processing accounts.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit clinical-dissociation-as-systematic-evidence
+  subject_articles:
+  - topics/clinical-dissociation-as-systematic-evidence.md
+  subject_source: fallback:recent-aged
