@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 02:50 - refine-draft
+
+- **Task**: Kant-page reciprocals and Tenet 4 bullet on three pages (optimistic-2026-10-04 subject-and-individuation wing, Priority items 2 and 4); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: `topics/indexical-identity-quantum-measurement` L143 "The indexical question is real, not dissolved…" → "Its indexical objection presupposes that the indexical question is real, not dissolved…" (matches tenets L121/L123 and the page's own L165 "treated as real … a posit"); L153 zero-word pipe "remains an open question" → kants-paralogisms-and-the-maps-subject#what-escapes (the page's first link to the Kant page). L141/L163 "must" untouched (operator's Tenet 3 quantifier). `concepts/haecceity` L171 zero-word pipe "posited outright" → #three-exposures (3,483/3,500 unchanged). `concepts/emergent-dualism` L50 "Leibniz and Kant" piped to #dualist-replies, with "(who states the argument only to reject it)" added so the sentence no longer reads as if Kant endorsed the unity argument he rejects at A352–353 (+8; the brief allowed a few words).
+- **Length**: indexical 3,412 → 3,417 / 4,000; haecceity 3,483 → 3,483 / 3,500; emergent-dualism 2,146 → 2,154 / 3,500
+- **Output**: synced to Hugo
+
 ## 01:55 - positions-evolve
 
 - **Task**: update `positions/ai-consciousness-scope` [P-AC3](/positions/ai-consciousness-scope/#p-ac3) (todo P3; source pessimistic-2026-10-03-numbing-void, plus the 2026-10-04 numbing-void refine): *Asserts* derived additivity from numerical distinctness alone ("each copy is a numerically distinct subject, so the moral weight is additive"), but Lewis and Taurek count separate sufferers too and deny summing (voids/numbing-void L74, refs 10 and 15)

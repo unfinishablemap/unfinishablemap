@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-30 11:55:56+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-10-08 02:50:21+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: null
 concepts:
 - '[[haecceity]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 17:12:22+00:00
-lastmod: 2026-09-30 11:55:56+00:00
+lastmod: 2026-10-08 02:50:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ The [tenets](/tenets/) commit this site to positions that bear directly on the i
 
 **Bidirectional Interaction**: Consciousness causally influences the physical world. Our reports about conscious experience must involve causal flow from mind to matter.
 
-**No Many Worlds**: There is one actual world with definite outcomes. The indexical question is real, not dissolved by treating all outcomes as equally actual.
+**No Many Worlds**: There is one actual world with definite outcomes. Its indexical objection presupposes that the indexical question is real, not dissolved by treating all outcomes as equally actual.
 
 These tenets suggest an account where consciousness doesn't cause collapse universally (avoiding Wigner's solipsism trap) but does, at its own neural interface, bias which outcome becomes actual—and thereby which outcome *this subject* experiences. The proposal:
 
@@ -153,7 +153,7 @@ This differs from consciousness-collapse by not claiming consciousness triggers 
 
 **Connecting to conservation laws**: If consciousness selects which already-possible outcome actualizes (rather than injecting energy), no energy conservation violation occurs. Consciousness doesn't add energy; it biases which of the energetically-equivalent possibilities becomes actual, and so which is experienced. This addresses the objection that mental causation violates physical conservation laws—a topic for separate treatment in [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).
 
-**Empirical status**: This proposal is currently metaphysical rather than empirically testable. Standard quantum mechanics, the indexical reading, and purely objective interpretations all predict identical experimental outcomes under any unconditioned test. The indexical reading's value lies in its explanatory coherence—it makes explicit what other interpretations leave obscure—not in novel predictions. Whether future developments might distinguish these interpretations empirically remains an open question.
+**Empirical status**: This proposal is currently metaphysical rather than empirically testable. Standard quantum mechanics, the indexical reading, and purely objective interpretations all predict identical experimental outcomes under any unconditioned test. The indexical reading's value lies in its explanatory coherence—it makes explicit what other interpretations leave obscure—not in novel predictions. Whether future developments might distinguish these interpretations empirically [remains an open question](/topics/kants-paralogisms-and-the-maps-subject/#what-escapes).
 
 ## Relation to Site Perspective
 

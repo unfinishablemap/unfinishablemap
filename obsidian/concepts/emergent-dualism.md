@@ -4,7 +4,7 @@ description: "William Hasker's emergent dualism: the conscious self is a genuine
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-07-19T11:07:26+00:00
+ai_modified: 2026-10-08T02:50:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[emergence-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-07-12
 last_curated:
 last_deep_review: 2026-07-19T11:07:26+00:00
@@ -47,7 +47,7 @@ Hasker's field analogy carries the intuition. A magnet generates a magnetic fiel
 
 ## The Unity-of-Consciousness Argument
 
-The engine driving Hasker toward a *substance* rather than mere properties is the [[unity-of-consciousness|unity-of-consciousness]] (UOC) argument, which he traces to Leibniz and Kant. The argument runs roughly as follows. A conscious experience is genuinely unified: when you see a red apple while hearing a voice, there is one experience that encompasses both, had by one experiencer. But a physical brain is a *composite*—a vast manifold of parts, constantly being replaced, many rather than one. Nothing that is a mere aggregate of many parts can *be* the single, unified subject that a unified experience requires. Therefore the subject of experience is not the composite brain, nor any set of properties distributed across it, but a non-composite substance.
+The engine driving Hasker toward a *substance* rather than mere properties is the [[unity-of-consciousness|unity-of-consciousness]] (UOC) argument, which he traces to Leibniz and [[kants-paralogisms-and-the-maps-subject#dualist-replies|Kant]] (who states the argument only to reject it). The argument runs roughly as follows. A conscious experience is genuinely unified: when you see a red apple while hearing a voice, there is one experience that encompasses both, had by one experiencer. But a physical brain is a *composite*—a vast manifold of parts, constantly being replaced, many rather than one. Nothing that is a mere aggregate of many parts can *be* the single, unified subject that a unified experience requires. Therefore the subject of experience is not the composite brain, nor any set of properties distributed across it, but a non-composite substance.
 
 Crucially, the UOC argument is what forces the step from properties to substance. If unity required only that certain properties be co-instantiated, an emergent-property view might suffice. Hasker's contention is that co-instantiated properties borne by a manifold still leave you with a manifold, not a single subject—so unity demands a genuinely new, simple *bearer*. This is where emergent dualism parts company with every view that stops at emergent properties.
 
