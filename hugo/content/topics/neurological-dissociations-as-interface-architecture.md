@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-05 18:05:55+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-08 06:50:11+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -17,8 +17,8 @@ concepts:
 created: 2026-03-10
 date: &id001 2026-03-10
 description: Blindsight, anosognosia, alien hand syndrome, and other dissociations
-  each disconnect a specific interface component—together mapping the functional anatomy
-  of the mind-brain channel.
+  each sever a separable channel—mapping a multi-channel structure that interface
+  and functionalist readings share.
 draft: false
 embedded_videos:
 - embedded: 2026-05-03 11:28:31.695888+00:00
@@ -28,7 +28,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 09:15:10+00:00
-lastmod: 2026-10-05 18:05:55+00:00
+lastmod: 2026-10-08 06:50:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ topics:
 
 The Unfinishable Map discusses neurological dissociations individually—[blindsight](/concepts/blindsight/) here, [pain-asymbolia](/concepts/pain-asymbolia/) there, [split-brain](/topics/split-brain-consciousness/) elsewhere—but the pattern they form collectively has not been drawn out. Each dissociation disconnects a specific component of the mind-brain interface. Taken together, they map the interface's functional anatomy: ascending channels that deliver sensory content to consciousness, descending channels through which consciousness acts on the body, a self-model channel that reports the system's own state, and bilateral connections that maintain unity across hemispheres. The dissociation pattern is more informative than any single case because it reveals which components are separable—and therefore which are architecturally distinct.
 
-This matters for the Map's framework. If consciousness were identical to neural processing, neurological damage should degrade consciousness uniformly—more damage, less mind. Instead, dissociations produce selective disconnections: processing continues but consciousness loses access to it, or consciousness issues commands the body does not execute. The selectivity arguably points to an interface with distinct, separable channels rather than an identity between mind and brain—though, as the closing sections note, the dissociations may be read in more than one way.
+This matters for the Map's framework. Dissociations show consciousness decomposing along separable lines: processing continues but consciousness loses access to it, or consciousness issues commands the body does not execute. The selectivity establishes that whatever connects mind to brain is articulated rather than monolithic. Whether the separable pieces are functional subsystems whose coupling constitutes consciousness, or channels linking an already-unified consciousness to the brain, is the question the closing sections take up; the dissociations fit both readings.
 
 <details class="yt-embed" data-video-id="cSU9xQDKiW4">
 <summary>Video introduction</summary>
@@ -194,7 +194,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The dissociation pattern is the Map's strongest empirical argument for a genuine interface between mind and brain. Selective disconnections between consciousness and processing are what dualism predicts. Identity theory predicts uniform degradation; the clinical evidence shows structured disconnection instead.
+**[Dualism](/tenets/#dualism)**: The dissociation pattern constrains the architecture without establishing the tenet. Selective disconnections are what an interface would show, and equally what a developed functionalism predicts, since separable subsystems fail separably on either reading; the clinical evidence settles that the coupling is multi-channel, whichever account of the coupling is right. The interface reading contributes coherence—one vocabulary for the lesion, pharmacological, and psychogenic routes—rather than discrimination, the grade the Map's [altered-states synthesis](/apex/altered-states-as-interface-evidence/) assigns its parallel evidence.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The ascending and descending channels fit the tenet's picture: on the interface reading, sensory content, affect, and self-model are delivered upward, motor selections flow downward, and alien hand syndrome and blindsight show that each direction's channel can fail independently. Fit, however, is the honest grade—not confirmation. Four claims come apart here: that experience depends on brain function (every dissociation shows this); that the directional channels are functionally separable (the double dissociations establish this); that consciousness causes physical events; and that such causation is nonphysical. The dissociations secure the first two claims strongly and cannot secure the last two—as the body's closing analysis concedes, a functionalist reading of the same separable channels predicts the identical phenomenology, so the inference stays compatibility-grade for the tenet, not vindication-grade. What the clinical pattern supplies is the anatomy a bidirectional interface would need, each direction independently severable; the case that consciousness actually exercises the descending direction rests on the Map's agency arguments ([motor selection](/concepts/motor-selection/), [consciousness and agency](/apex/consciousness-and-agency/)), not on the dissociation evidence alone.
 
@@ -202,7 +202,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The diagnostic power of dissociations depends on each case being a definite fact—this patient lost this channel, revealing this architectural feature. Under many-worlds interpretations, quantum events during brain development and injury produce branches with different neural configurations, and the interface architecture described here would be one branch-relative arrangement among countless alternatives. The Map reads dissociations as revealing the structure of a single mind-brain interface; that reading assumes the patient's condition is a determinate fact about one world, not an indexical perspective within a branching totality.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The interface architecture is not simple. Six independently failable channels, attentional gating, bilateral unity maintenance—this is complex machinery. A simpler model (identity theory) fails to account for the dissociation pattern. The actual structure of mind-brain interaction is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The interface architecture is not simple. Six independently failable channels, attentional gating, bilateral unity maintenance—this is complex machinery. A one-channel model, whichever metaphysics it serves, fails to account for the dissociation pattern; a developed functionalism and the interface reading both pay for the extra structure. The actual structure of mind-brain coupling is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here.
 
 ## Further Reading
 
