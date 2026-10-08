@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-10-03
 human_modified: null
-ai_modified: 2026-10-03T11:22:50+00:00
+ai_modified: 2026-10-08T14:25:22+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-22
 last_curated: null
 last_deep_review: 2026-07-16T22:55:04+00:00
@@ -113,7 +113,7 @@ This framework avoids standard objections: the selection is *not random* (the qu
 
 The most serious challenge: quantum coherence in warm brains should decay far too quickly (Tegmark calculated 10⁻¹³ seconds) for the Zeno mechanism to operate at neural timescales (milliseconds). This is the [[timing-gap-problem]]—a twelve-order-of-magnitude mismatch between decoherence and neural decision timing.
 
-**Response**: Several considerations complicate this objection without definitively resolving it. Revised calculations produce longer coherence times (10⁻⁵ seconds), though still contested—Hagan, Hameroff and Tuszynski (2002) argued in this vein that Tegmark's figure rested on an oversimplified microtubule model and that ordered water and a counter-ion Debye layer could screen quantum states, a rebuttal that remains favourable to the quantum-mind programme but has not been independently confirmed. More recently, [[quantum-biology-and-neural-mechanisms|quantum biology]] has found candidate functional quantum effects in warm biological systems—and in 2024, a Nature Communications spin-dynamics *modelling* study argued that the quantum Zeno effect itself could enable magnetosensitivity in tightly bound cryptochrome radical pairs, where tight binding of the radicals within the protein preserves coherence against decoherence. This is a computational proof-of-concept—not an experimental demonstration—that the Zeno mechanism *could* operate in a warm protein microenvironment. It is not a precedent for the kind of state Stapp's model requires: cryptochrome involves spin coherence in a tightly bound two-radical system shielded inside a protein pocket, structurally unlike a delocalised superposition over macroscopic neural firing patterns spanning many neurons, and its microsecond coherence is still some three orders of magnitude short of the millisecond neural timescale.
+**Response**: Several considerations complicate this objection without definitively resolving it. Revised calculations produce longer coherence times (10⁻⁵–10⁻⁴ seconds), though still contested—Hagan, Hameroff and Tuszynski (2002) argued in this vein that Tegmark's figure rested on an oversimplified microtubule model and that ordered water and a counter-ion Debye layer could screen quantum states, a rebuttal that remains favourable to the quantum-mind programme but has not been independently confirmed. More recently, [[quantum-biology-and-neural-mechanisms|quantum biology]] has found candidate functional quantum effects in warm biological systems—and in 2024, a Nature Communications spin-dynamics *modelling* study argued that the quantum Zeno effect itself could enable magnetosensitivity in tightly bound cryptochrome radical pairs, where tight binding of the radicals within the protein preserves coherence against decoherence. This is a computational proof-of-concept—not an experimental demonstration—that the Zeno mechanism *could* operate in a warm protein microenvironment. It is not a precedent for the kind of state Stapp's model requires: cryptochrome involves spin coherence in a tightly bound two-radical system shielded inside a protein pocket, structurally unlike a delocalised superposition over macroscopic neural firing patterns spanning many neurons, and its microsecond coherence is still some three orders of magnitude short of the millisecond neural timescale.
 
 **Monte Carlo critique**: Georgiev's (2015) Monte Carlo simulations of electron tunnelling in neuronal ion-channel voltage sensors found that the quantum Zeno effect breaks down for timescales greater than the brain decoherence time. Generalising to any n-level system, he proved that local projections cannot decrease the von Neumann entropy of the unconditional brain density matrix, and concluded: "The latter theorem establishes that Stapp's model is physically implausible but leaves a door open for future development of quantum mind theories provided the brain has a decoherence-free subspace." The verdict and the door stand together: the model as proposed is implausible, and survives only if the relevant neural degrees of freedom occupy such a subspace—states protected from environmental decoherence by a symmetry of the system-environment coupling. The cryptochrome result above shows Zeno can work in a protected biological microenvironment; whether neural firing patterns enjoy analogous protection is unconfirmed.
 

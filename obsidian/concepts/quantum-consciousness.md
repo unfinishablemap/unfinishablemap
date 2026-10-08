@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-10-07T10:21:08+00:00
+ai_modified: 2026-10-08T14:25:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ Orch OR locates quantum effects in neuronal microtubules. The proposal: tubulin 
 
 These findings form part of a broader [[quantum-biology-and-neural-consciousness|convergence of independent evidence lines]] that strengthens the cumulative case even where individual lines remain inconclusive.
 
-**Challenge**: The [[decoherence|decoherence objection]] remains the most serious obstacle. The objection assumes biological systems are too warm and wet for quantum effects; Tegmark calculated coherence times of 10⁻¹³ seconds, too short for neural relevance. Proposed protective mechanisms challenge this—hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, ordered cytoplasm—and on Hagan et al.'s theoretical estimates extend coherence to 10⁻⁵–10⁻⁴ seconds, though these assume near-perfect thermal shielding, an assumption most condensed matter physicists regard as optimistic. Even granted, **10⁻⁵ seconds remains four to five orders of magnitude shorter than neural decisions (~300ms)**—the [[timing-gap-problem|timing gap]] is reduced but not eliminated for mechanisms requiring sustained coherence. See [[quantum-neural-timing-constraints]] for the full timing analysis.
+**Challenge**: The [[decoherence|decoherence objection]] remains the most serious obstacle. The objection assumes biological systems are too warm and wet for quantum effects; Tegmark calculated coherence times of 10⁻¹³ seconds, too short for neural relevance. Proposed protective mechanisms challenge this—hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, ordered cytoplasm—and on Hagan et al.'s theoretical estimates extend coherence to 10⁻⁵–10⁻⁴ seconds, though these assume near-perfect thermal shielding, an assumption most condensed matter physicists regard as optimistic. Even granted, **10⁻⁵–10⁻⁴ seconds remains 3,000 to 30,000 times shorter than neural decisions (~300ms)**—the [[timing-gap-problem|timing gap]] is reduced but not eliminated for mechanisms requiring sustained coherence. See [[quantum-neural-timing-constraints]] for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 
@@ -119,9 +119,9 @@ Even granting that the measurement problem leaves room for consciousness, specif
 
 **Biology exploits quantum effects, but the neural case is unproven.** [[radical-pair-magnetoreception|Avian magnetoreception]] (spin coherence) and enzyme catalysis (tunnelling) exploit quantum effects in warm biological systems. Photosynthetic energy transfer no longer belongs on that list: Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. [[quantum-biology-and-neural-mechanisms|Quantum biology]] establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [[decoherence-and-macroscopic-superposition]] for the experimental evidence that the quantum-classical boundary keeps receding.
 
-**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the *sustained-coherence* requirement because each event is instantaneous. But discrete mechanisms still require coherent states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected.
+**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the *sustained-coherence* requirement because each event is instantaneous, though each still needs a quantum state to act on.
 
-**The Zeno alternative.** **A critical assumption** underlies Stapp's version: observations must remain effective despite intervening decoherence. Each observation "resets" the quantum state; the accumulated effect biases outcomes. But outpacing decoherence at Hagan's revised scale requires observation intervals of 10⁻⁴ seconds or shorter—3,000 to 30,000 events per 300ms window, the lower figure the same order as Stapp's ~1000 (Stapp 2007), a modelling assumption, not an independent prediction. No concrete model supplies events at either rate, so the timing gap relocates rather than closes. Denton et al.'s modelling of biological Zeno effects in cryptochrome is consistent with the picture, but the neural case remains undemonstrated.
+**The Zeno alternative.** If Stapp's observations must outpace decoherence, Hagan's revised scale demands 3,000 to 30,000 events per 300ms window, the lower figure the same order as Stapp's ~1000 (Stapp 2007), itself a modelling assumption. Stapp (2000) rejects that premise, holding that the effect survives when the brain state is a mixture; Georgiev (2015) replies that a mind projecting in the decoherence basis is [[process-1-specification-problem|redundant with it]]—the open crux. On either reading no concrete model supplies the events; the timing gap relocates rather than closes.
 
 ## What These Theories Share
 
@@ -246,6 +246,7 @@ The Map's position is strong emergentism that specifies its mechanism: conscious
 1. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences USA*, 114(32), 8493-8498. https://doi.org/10.1073/pnas.1702261114
 1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40. doi:10.1016/j.csbj.2025.03.001
 1. Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
+1. Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
 1. Hagan, S. et al. (2002). Quantum computation in brain microtubules. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
@@ -253,6 +254,7 @@ The Map's position is strong emergentism that specifies its mechanism: conscious
 1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
 1. Player, T. C. & Hore, P. J. (2018). Posner qubits: spin dynamics of entangled Ca₉(PO₄)₆ molecules and their role in neural processing. *Journal of the Royal Society Interface*, 15(147), 20180494.
+1. Stapp, H.P. (2000). The importance of quantum decoherence in brain processes. arXiv:quant-ph/0010029.
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.

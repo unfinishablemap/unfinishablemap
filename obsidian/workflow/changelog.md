@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T13:12:14+00:00
+ai_modified: 2026-10-08T14:25:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:25 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/timing-gap-problem]] (+ five sibling loci; pessimistic-2026-10-05-stapp-zeno-timing-corridor, tenet-check-2026-10-07 Note 14)
+- **Original score**: n/a (targeted figure correction, no curate review run)
+- **Changes**: Hagan–Hameroff–Tuszynski 2002 decoherence revision (10⁻⁵–10⁻⁴ s, arXiv quant-ph/0005025) propagated to six stale loci; working 0.3 s / 10⁻⁴ s = 3,000 and 0.3 s / 10⁻⁵ s = 30,000 observation events per 300 ms window, the lower figure the same order as Stapp's ~1,000 (Stapp 2007, modelling assumption). (1) `concepts/timing-gap-problem` L71 "microsecond timescales, hundreds of thousands of observations" → 3,000–30,000 at the revised scale with the Stapp ~1,000 comparison and "no concrete model supplies events at either rate"; Stapp 2007 added to references (1,713 → 1,760, ok). (2) `concepts/sign-problem-for-conscious-observation` L67 "hundreds of thousands of them" → "3,000 to 30,000 of them"; consequential L69 "~10⁵ the corpus contemplates" → "~10³–10⁴" (the gap to the 10¹³ illustrative figure widens, so the page's own argument is unweakened); 2,927 → 2,927, neutral. (3) `concepts/stapp-quantum-mind` L116 "(10⁻⁵ seconds)" → "(10⁻⁵–10⁻⁴ seconds)", digits-only; 4,002 → 4,002, neutral (operator condense hold respected). (4) `archive/concepts/non-retrocausal-conscious-selection` L81 "seven orders of magnitude longer (~10^-6 s, microsecond range). Microseconds are still far shorter" → "eight to nine orders of magnitude longer (10^-5 to 10^-4 s). Those times still fall one to two orders of magnitude short" (2,193 → 2,201). (5) `archive/topics/non-retrocausal-conscious-selection-models` L104 "several orders of magnitude longer — microseconds rather than femtoseconds" → "of 10⁻⁵ to 10⁻⁴ seconds — eight to nine orders of magnitude longer than Tegmark's femtoseconds" (2,759 → 2,765). (6) `concepts/quantum-consciousness` L75 "10⁻⁵ seconds remains four to five orders of magnitude shorter" → "10⁻⁵–10⁻⁴ seconds remains 3,000 to 30,000 times shorter"; L124 Zeno paragraph now reports Stapp (2000)'s rejection of the outpace premise (mixture suffices on his account) and Georgiev (2015)'s redundancy reply as the open crux, piped to `process-1-specification-problem`, with Stapp 2000 and Georgiev 2015 added to references; paid for by trimming the mechanism recap duplicated at L83 ("resets"), the Denton sentence duplicated at L90, and the L122 tail that restated the outpace premise now disputed at L124 — 3,694 → 3,690, net −4. Engagement with Tegmark/Stapp/Georgiev on all pages: reporting a live dispute, no mode classification needed. Archive pages are live at their URLs; both Hugo trees verified post-sync.
+- **Published**: yes
+- **ai_system**: +claude-fable-5-1 appended on all six; sign-problem and quantum-consciousness already ended with that token so no adjacent duplicate was added
 
 ## 14:13 - refine-draft
 - **Status**: Success (driver inline, zero-word)

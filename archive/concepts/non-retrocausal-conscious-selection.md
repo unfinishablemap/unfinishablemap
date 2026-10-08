@@ -4,7 +4,7 @@ description: "Three frameworks for consciousness selecting quantum outcomes forw
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-09-27T16:06:15+00:00
+ai_modified: 2026-10-08T14:25:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[non-retrocausal-conscious-selection-2026-03-07]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-03-07
 last_curated:
 last_deep_review: 2026-03-07T23:22:00+00:00
@@ -78,7 +78,7 @@ Though all three are forward-in-time, they assign consciousness different causal
 
 Four conditions must hold:
 
-**Macroscopic superpositions of neural states must exist.** This is the crux. If decoherence destroys all neural superpositions before consciousness can act on them, there is nothing to select among. Tegmark (2000) calculated femtosecond (~10^-13 s) decoherence times for neural superpositions, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters — arguing he used ion-channel rather than microtubule-interior conditions — and obtained estimates seven orders of magnitude longer (~10^-6 s, microsecond range). Microseconds are still far shorter than neural processing timescales (~milliseconds), so a gap remains. A 2025 *Frontiers in Human Neuroscience* study proposes coherence domains involving approximately 10^11 glutamate molecules, with energy gaps protecting against thermal decoherence. The empirical question remains open but the trend is toward longer coherence times than skeptics predicted.
+**Macroscopic superpositions of neural states must exist.** This is the crux. If decoherence destroys all neural superpositions before consciousness can act on them, there is nothing to select among. Tegmark (2000) calculated femtosecond (~10^-13 s) decoherence times for neural superpositions, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters — arguing he used ion-channel rather than microtubule-interior conditions — and obtained estimates eight to nine orders of magnitude longer (10^-5 to 10^-4 s). Those times still fall one to two orders of magnitude short of neural processing timescales (~milliseconds), so a gap remains. A 2025 *Frontiers in Human Neuroscience* study proposes coherence domains involving approximately 10^11 glutamate molecules, with energy gaps protecting against thermal decoherence. The empirical question remains open but the trend is toward longer coherence times than skeptics predicted.
 
 **Consciousness must be able to bias collapse outcomes.** All three frameworks develop this philosophically and mathematically, but none demonstrates it empirically. This is the central speculative commitment.
 

@@ -4,7 +4,7 @@ description: "The 10¹²-fold mismatch between quantum decoherence and neural de
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-09-21T15:54:37+00:00
+ai_modified: 2026-10-08T14:25:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-02-10
 last_curated:
 last_deep_review: 2026-07-25T09:52:35+00:00
@@ -68,7 +68,7 @@ Different quantum consciousness proposals face the timing gap differently (see [
 
 **Orch OR** requires sustained quantum coherence in microtubules until gravitational self-collapse occurs. This makes Orch OR highly vulnerable to the timing gap because the mechanism depends on coherence persisting long enough for objective reduction. Perry (2025) has proposed mesoscopic coherent domains with predicted coherence times of 1-10 milliseconds, which would bring quantum timescales into contact with neural oscillations, but this prediction awaits experimental verification.
 
-**[[stapp-quantum-mind|Stapp's quantum Zeno approach]]** avoids sustained coherence requirements. The quantum Zeno effect operates through discrete, repeated observation events rather than through maintaining a coherent state over time. Each observation is instantaneous; the effect accumulates through rapid repetition. If each observation cycle operates at microsecond timescales, hundreds of thousands of observations would fit within a 300-millisecond decision window. Denton et al. (2024) modelled Zeno-mediated coherence protection in cryptochrome proteins—a computational study rather than an experimental demonstration—providing a biological precedent for this mechanism (see the [[quantum-zeno-effect]] for the calibrated framing and the earlier Kominis precedent). The Zeno approach also predicts that sustained attention should feel effortful—a phenomenological signature consistent with the repetitive observation the mechanism requires (see [[mental-effort]]).
+**[[stapp-quantum-mind|Stapp's quantum Zeno approach]]** avoids sustained coherence requirements. The quantum Zeno effect operates through discrete, repeated observation events rather than through maintaining a coherent state over time. Each observation is instantaneous; the effect accumulates through rapid repetition. At Hagan et al.'s revised 10⁻⁵ to 10⁻⁴ second scale, outpacing decoherence requires 3,000 to 30,000 observations per 300-millisecond decision window—the lower figure the same order as the ~1,000 per window that Stapp's own modelling assumes (Stapp 2007), a modelling assumption rather than an independent prediction—and no concrete model supplies events at either rate. Denton et al. (2024) modelled Zeno-mediated coherence protection in cryptochrome proteins—a computational study rather than an experimental demonstration—providing a biological precedent for this mechanism (see the [[quantum-zeno-effect]] for the calibrated framing and the earlier Kominis precedent). The Zeno approach also predicts that sustained attention should feel effortful—a phenomenological signature consistent with the repetitive observation the mechanism requires (see [[mental-effort]]).
 
 This escape is narrower than it looks, because the observation rate faces a *second* threshold that the decoherence-time comparison does not capture. Being in the Zeno regime at all requires the measurement interval to be short relative to the environment's *correlation* time, not its decoherence time, and the two are distinct quantities. Where the interval is merely comparable to the correlation time, frequent measurement accelerates decay rather than suppressing it—so raising the observation rate does not by itself buy the stabilising side of the effect. Whether a microsecond-scale interval clears that separate bar for warm neural tissue is unknown; no neural correlation time has been measured or computed. The [[sign-problem-for-conscious-observation|sign problem]] develops what this costs the Map's mechanism, and the [[quantum-zeno-effect]] page carries the physics.
 
@@ -117,6 +117,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant here: t
 1. Müller, H.J., & Rabbitt, P.M.A. (1989). "Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption." *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Perry, A.L. (2025). "Quantum coherence in neural microtubules: A refined & testable framework for understanding gamma oscillation generation." *SSRN* (preprint).
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). "Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention." *Cerebral Cortex*, 29(7), 2832-2843.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Swift, M. W., Van de Walle, C. G., & Fisher, M.P.A. (2018). "Posner molecules: From atomic structure to nuclear spins." *Physical Chemistry Chemical Physics*, 20(18), 12373-12380.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
 1. Thura, D., & Cisek, P. (2014). "Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making." *Neuron*, 81(6), 1401-1416.

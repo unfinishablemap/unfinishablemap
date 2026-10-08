@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-09-19 20:16:41+00:00
+ai_modified: 2026-10-08 14:25:22+00:00
 ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-19 20:16:41+00:00
-lastmod: 2026-09-19 20:16:41+00:00
+lastmod: 2026-10-08 14:25:22+00:00
 modified: *id001
 related_articles:
 - '[[anti-zeno-effect-and-sign-of-conscious-observation-2026-08-05]]'
@@ -68,9 +68,9 @@ The corpus has never had to distinguish these, because it has been reading "mini
 
 ## Why Discrete Observation Does Not Escape It {#discrete-observation}
 
-The [timing gap](/concepts/timing-gap-problem/) discussion treats Stapp's discrete-observation framing (Stapp 2007) as avoiding the coherence requirement: each observation is instantaneous, and hundreds of thousands of them would fit inside a 300-millisecond decision window. That move addresses the wrong threshold. The requirement for *being in the Zeno regime* is set by the bath correlation time, not the decoherence time, and raising the observation rate buys nothing unless the interval clears that separate bar.
+The [timing gap](/concepts/timing-gap-problem/) discussion treats Stapp's discrete-observation framing (Stapp 2007) as avoiding the coherence requirement: each observation is instantaneous, and 3,000 to 30,000 of them would fit inside a 300-millisecond decision window. That move addresses the wrong threshold. The requirement for *being in the Zeno regime* is set by the bath correlation time, not the decoherence time, and raising the observation rate buys nothing unless the interval clears that separate bar.
 
-An illustrative scale makes the size of the problem visible, with a caveat attached that should travel with the number. The thermal correlation time ħ/k_BT at body temperature (310 K) is roughly 25 femtoseconds. **This is arithmetic performed for the Map, not a measured or published neural parameter**, and no such parameter exists in the literature. If that scale were even approximately right, the Zeno condition would demand observation intervals below ~10⁻¹⁴ s — on the order of 10¹³ discrete events across a 300 ms window rather than the ~10⁵ the corpus contemplates. The qualitative conclusion survives whatever the true figure turns out to be: the regime condition re-imposes a timescale requirement of the same order as the one the discrete-event framing was meant to escape.
+An illustrative scale makes the size of the problem visible, with a caveat attached that should travel with the number. The thermal correlation time ħ/k_BT at body temperature (310 K) is roughly 25 femtoseconds. **This is arithmetic performed for the Map, not a measured or published neural parameter**, and no such parameter exists in the literature. If that scale were even approximately right, the Zeno condition would demand observation intervals below ~10⁻¹⁴ s — on the order of 10¹³ discrete events across a 300 ms window rather than the ~10³–10⁴ the corpus contemplates. The qualitative conclusion survives whatever the true figure turns out to be: the regime condition re-imposes a timescale requirement of the same order as the one the discrete-event framing was meant to escape.
 
 The biological precedent does not close the gap either, and the mismatch is not the one the corpus usually flags. Denton and colleagues' 2024 modelling of cryptochrome radical pairs states that "The manifestation of quantum Zeno dynamics in this case is performed by virtue of the spin-selective recombination reaction of the radical pair." The measurement there is a fast physical decay channel producing projection as a side effect — no observer required. Stapp's model needs an observation that is *not* merely another physical coupling, since a physical coupling would decohere the state rather than protect it. The one warm-biology precedent the Map holds for Zeno dynamics illustrates the reading of "observation" that Stapp's proposal cannot use.
 

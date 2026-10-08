@@ -4,7 +4,7 @@ description: "Three forward-in-time frameworks propose consciousness selects amo
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-04-28T09:09:00+00:00
+ai_modified: 2026-10-08T14:25:22+00:00
 last_deep_review: 2026-04-28T09:09:00+00:00
 draft: false
 archived: true
@@ -34,7 +34,7 @@ related_articles:
   - "[[von-neumann-wigner-interpretation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-03-18
 last_curated:
 ---
@@ -101,7 +101,7 @@ Pre-decoherence versions of non-retrocausal selection stand or fall on whether m
 
 The evidence has shifted substantially since Tegmark's original calculation:
 
-**Corrected decoherence estimates.** Hagan et al. (2002) challenged Tegmark's model parameters and obtained corrected decoherence times several orders of magnitude longer — microseconds rather than femtoseconds. However, these revised estimates are themselves contested: critics argue that Hagan et al. made optimistic assumptions about microtubule isolation from the thermal environment, and no independent group has replicated their results. If microtubule dynamics operate at faster timescales than Tegmark assumed, coherence times of 10⁻⁷ seconds might suffice for selection — but whether they do remains an open empirical question.
+**Corrected decoherence estimates.** Hagan et al. (2002) challenged Tegmark's model parameters and obtained corrected decoherence times of 10⁻⁵ to 10⁻⁴ seconds — eight to nine orders of magnitude longer than Tegmark's femtoseconds. However, these revised estimates are themselves contested: critics argue that Hagan et al. made optimistic assumptions about microtubule isolation from the thermal environment, and no independent group has replicated their results. If microtubule dynamics operate at faster timescales than Tegmark assumed, coherence times of 10⁻⁷ seconds might suffice for selection — but whether they do remains an open empirical question.
 
 **Biological quantum effects.** Quantum coherence has been confirmed in biological systems at physiological temperatures: avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. A 2026 Princeton study provided computational confirmation of the underlying model. These results demonstrate that evolution can sustain quantum effects in warm biological systems, though a gap remains between spin coherence in specialised receptor proteins and the macroscopic neural superpositions non-retrocausal selection requires.
 
