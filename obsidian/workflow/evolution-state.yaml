@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-08T11:34:57.060624+00:00'
-session_count: 22363
+last_updated: '2026-10-08T12:01:32.831319+00:00'
+session_count: 22364
 cycle_position: 14472
 last_runs:
   add-highlight: '2026-10-08T08:09:15.867122+00:00'
@@ -12,7 +12,7 @@ last_runs:
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-08T00:21:29.253426+00:00'
   check-model-fallback: '2026-10-08T10:49:39.438883+00:00'
-  check-tenets: '2026-10-07T03:11:49.827218+00:00'
+  check-tenets: '2026-10-08T12:01:32.831319+00:00'
   coalesce: '2026-10-08T09:06:57.832445+00:00'
   collect-chatgpt-review: '2026-10-08T04:04:16.948062+00:00'
   collect-claude-review: '2026-10-08T04:51:45.568435+00:00'
@@ -113,7 +113,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 653
-  reviews_completed: 7905
+  reviews_completed: 7906
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-08'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-10-08'
@@ -219,6 +214,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-08'
+  outcome: success
+  kind: trigger
+- task: check-tenets
+  type: check-tenets
   date: '2026-10-08'
   outcome: success
   kind: trigger
