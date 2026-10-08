@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T08:31:25+00:00
+ai_modified: 2026-10-08T09:06:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:06 - coalesce
+
+- **Task**: coalesce cycle slot — candidate search, abandon
+- **Status**: SUCCESS (no candidate; steady state, 40th consecutive abandon)
+- **Rationale**: full pairwise scan (sidecars filtered first; 30-day age floor; body-only words; affordable = both bodies summed under the section gate). Live/aged: topics 342/327, concepts 348/326, voids 113/103. Affordable pairs: topics **0**, voids **0** (unchanged from the last run), concepts 161 (140 with any tag/link overlap). Top concepts pair `phenomenal-depth` + `phenomenal-presentation` (sum 3,048, one mutual link, 7 shared tags) inverts on inspection: `phenomenal-presentation` L54 carries a `**Versus [[phenomenal-depth]].**` boundary paragraph (depth = layered structure within a presented state; presentation = the mode of givenness) — a deliberately differentiated sibling. Every other top-12 pair (`perception`+`phenomenal-depth`, `phenomenal-depth`+`philosophy-of-mind`, `+valence`, `+functional-seeming`, …) has **zero body wikilinks in either direction**; the apparent overlap is frontmatter tag membership plus shared outbound hub links (qualia, phenomenal-overflow, tenets), which is not a link. The three pairs the driver excluded were not re-examined. Fork not invoked; nothing merged.
+- **Output**: none
 
 ## 08:35 - refine-draft
 
