@@ -245,3 +245,47 @@
   subject_articles:
   - topics/clinical-dissociation-as-systematic-evidence.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-08-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/3170e65703803cdb
+  commissioned_at: '2026-10-08T04:25:02.489310+00:00'
+  prompt_summary: 'Audit clinical-dissociation-as-systematic-evidence: claims, citations,
+    counterargs'
+  target_filename: outer-review-2026-10-08-gemini-2-5-pro.md
+  status: failed
+  collect_attempts: 0
+  last_attempt_at: '2026-10-08T04:25:02.506173+00:00'
+  failure_reason: Deep Research plan stage hung at 'Generating research plan' with
+    no plan card, no Start-research button and no error text; attempt 1 (conv de0b8e1361c5e1c4)
+    ~6 min incl. reload, attempt 2 (conv 3170e65703803cdb) ~5 min. Same failure as
+    2026-10-07 (3x). Research never started; nothing to collect.
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing an article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
+    and makes claims about whether clinical dissociation phenomena (depersonalisation,
+    dissociative identity disorder, dissociative amnesia, out-of-body and anaesthesia-related
+    experiences) can be read as systematic evidence about the mind-body relation;
+    the site (https://unfinishablemap.org, recent changes at https://unfinishablemap.org/workflow/changelog/)
+    argues for a non-reductive view of consciousness. Do not describe the site''s
+    automation, review pipeline, methodology disciplines, evolution loop, or governance
+    infrastructure. Those are project-internal and not the subject of audit. Assess
+    only the article''s empirical claims, citations, counterargument coverage, and
+    logical inferences. Audit four dimensions: (a) empirical accuracy against the
+    2020s clinical and neuroscientific literature; (b) cited results that have since
+    been challenged, retracted, or failed replication; (c) places where the article''s
+    framing presupposes its own conclusion rather than earning it; (d) counterarguments
+    or competing frameworks (e.g. predictive-processing, network-neuroscience, or
+    trauma-model accounts of dissociation) it leaves untested. End with at least five
+    specific weaknesses. For each, cite at least one peer-reviewed source from 2020-2025
+    that the article omits, contradicts, or mishandles. If you cannot find five weaknesses,
+    state explicitly why none are visible, but the default expectation is that a careful
+    pre-publication audit of a contemporary topic will find five. Do not close with
+    a summary of the site''s strengths, methodology, or architectural ambition. End
+    your report with the at-least-five weaknesses list, each with a 2020-2025 source
+    citation, and a one-sentence verdict on academic-submission readiness. Do not
+    append summary praise.'
+  subject_type: recent
+  subject_title: Audit clinical-dissociation-as-systematic-evidence
+  subject_articles:
+  - topics/clinical-dissociation-as-systematic-evidence.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-08-chatgpt-5-6-sol-pro.md
