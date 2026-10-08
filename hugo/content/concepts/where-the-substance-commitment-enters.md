@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-03 13:55:36+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-08 09:35:25+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[substance-property-dualism]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 03:41:00+00:00
-lastmod: 2026-10-03 13:55:36+00:00
+lastmod: 2026-10-08 09:35:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,6 +74,8 @@ The practical test for any Map article is a single question: **does the argument
 
 The diagnostic exposes two failure modes. **Substance-leaning leakage**: an attention, memory, animal-, or machine-consciousness article absorbs the persisting-subject reading from neighbouring agency articles although its own inference does not need it. **Silent inheritance**: an article writes "the Dualism tenet commits us to a substance-bearing agent," collapsing the two layers and importing a stronger commitment than the tenet earns. Both are corrected the same way—scope the claim to what its local argument actually requires, and cite this page when the scoping is non-obvious.
 
+A third failure concerns support rather than scope. **Inferred subject**: an article argues from felt unity, felt mine-ness or continuity of memory to the persisting subject either home needs, the inference [Kant's paralogisms](/topics/kants-paralogisms-and-the-maps-subject/#three-exposures) diagnose. The subject is [posited](/tenets/background-commitments/) rather than inferred, so the correction is to cite the posit instead of arguing for it from self-consciousness.
+
 ## Relation to Site Perspective
 
 This page is a precision tool for [Tenet 1 (Dualism)](/tenets/#dualism). It keeps the tenet's neutrality between substance and property dualism intact while making the agency cluster's substance-leaning explicit and locating its true source.
@@ -91,6 +93,7 @@ The lean also interacts with [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occam
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Where bare interactionism suffices and where the agent-causal pairing pulls in the substance reading
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How irreducible authorship in the moral arguments inherits the lean from the agency cluster
 - [background-commitments](/tenets/background-commitments/) — Posit One, the determinate-and-persisting subject that both homes inherit from, and the two components they inherit separately
+- [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/) — Why the persisting subject is posited rather than inferred from self-consciousness, and where the corpus stays exposed
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — The indexical argument itself, and why branch-relative properties leave "which branch am I on?" without a fact to track
 - [tenets](/tenets/) — The agency-cluster paragraph and the tenet-dependency matrix that this page localises
 - [pudgalavada](/concepts/pudgalavada/) — The Buddhist Personalist person, the nearest Buddhist precedent for this persisting subject, and which classical refutations reach it

@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 09:35 - refine-draft
+
+- **Task**: `concepts/where-the-substance-commitment-enters` — install "posited, not inferred" as a third failure mode in the canonical diagnostic, plus a Further Reading reciprocal to the Kant page (optimistic-2026-10-04 subject-and-individuation wing, Priority 3); applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: new paragraph after the "Both are corrected the same way…" paragraph (L71): **Inferred subject** — an article argues from felt unity, felt mine-ness or memory continuity to the persisting subject either home needs, the inference Kant's paralogisms diagnose (piped to kants-paralogisms-and-the-maps-subject#three-exposures); the subject is posited (tenets/background-commitments, Posit One) rather than inferred, so the correction is to cite the posit. Further Reading gains the Kant page, which cites this page twice. The bi-aspectual "aspects vs persisting subject" tension (operator-referred) untouched; the new mode is about inference, not which ontology supplies the subject.
+- **Length**: 1,891 → 1,967 / 3,500
+- **Output**: synced to Hugo
+
 ## 09:20 - refine-draft
 
 - **Task**: `concepts/inference-to-the-best-explanation-against-dualism` — "Run the second-order IBE" P3, reduced (per research/rival-explanations §Corpus Seams item 2) to the pointer now that concepts/rival-explanations-of-the-explanatory-gap exists (written 2026-10-07 23:15Z); applied inline by the driver
