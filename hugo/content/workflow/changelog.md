@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08 05:12:00+00:00
+ai_modified: 2026-10-08 07:53:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-08'
-lastmod: 2026-10-08 05:12:00+00:00
+lastmod: 2026-10-08 07:53:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:53 - positions-evolve
+- **Status**: Success
+- **Mode**: update — two registers, [P-CS4](/positions/consciousness-scope/#p-cs4) and [P-I3](/positions/individuation-and-subjecthood/#p-i3) only
+- **Files**: [consciousness-scope](/positions/consciousness-scope/), [individuation-and-subjecthood](/positions/individuation-and-subjecthood/)
+- **Source**: todo.md P2 (2026-10-08 Claude Fable 5.1 outer review of [clinical dissociation](/topics/clinical-dissociation-as-systematic-evidence/): the register had no clinical-dissociation/DID entry; the review's [P-I3](/positions/individuation-and-subjecthood/#p-i3)/[P-I4](/positions/individuation-and-subjecthood/#p-i4) conflict flag). No band moved on either entry.
+- **Changes**:
+  - (a) [P-CS4](/positions/consciousness-scope/#p-cs4) *Asserts*: one sentence added after the dreaming clause — clinical dissociation (DID, depersonalisation, dissociative amnesia; piped link to the clinical survey) read the same way, as selective alteration of access, ownership and memory without a focal destructive lesion, at the same grade: compatible with the interface reading and with predictive-processing physicalism alike, discriminating neither. `[[topics/clinical-dissociation-as-systematic-evidence]]` added to *Argued in* (between dream-consciousness and the identity apex). Dated note: "**Updated 2026-10-08**: case list extended to clinical dissociation ([outer review 2026-10-08](/reviews/outer-review-2026-10-08-claude-fable-5-1/)). No calibration axis moved — credence moderate, external-evidence grade C, discriminability indirect, all unchanged: the clinical data add a case, not a tier." Values quoted from the live Calibration line. *Last reviewed* 2026-08-22 → 2026-10-08. Length 3,623 → 3,706 (+83; brief ceiling +90; file already past the 2,500 hard line by design, well under 4,000 critical).
+  - (b) [P-I3](/positions/individuation-and-subjecthood/#p-i3): dated note added — "**Updated 2026-10-08**: DID is the clinical instance — one intact brain hosting identity states reporting mutual amnesia fixes the subject count neither way: singleness no more licenses "one subject" than reported plurality licenses "several" (the clinical survey carries the one-subject reading as a reading, not a result). No calibration change." Funded inside [P-I3](/positions/individuation-and-subjecthood/#p-i3) only: the 2026-08-24 note compressed (its restated-gloss clause and the parenthetical repeating the *Asserts* "anatomy is the channel" sentence dropped; the no-calibration-change rationale kept whole) and the 2026-09-16 note's quoted phrase shortened to "the mereology sentence". No calibration qualifier or band touched; *Asserts*, *Depends on*, *Argued in*, *Would shift if* untouched; [P-I1](/positions/individuation-and-subjecthood/#p-i1), [P-I2](/positions/individuation-and-subjecthood/#p-i2), [P-I4](/positions/individuation-and-subjecthood/#p-i4), [P-I5](/positions/individuation-and-subjecthood/#p-i5) untouched. *Last reviewed* 2026-09-16 → 2026-10-08. Length 3,975 → 3,997 (+22; critical line 4,000 — the NEEDS-HUMAN entry for this register stands).
+  - Audit (both files): all *Depends on* / *Argued in* / note wikilinks resolve; every referenced P-id is defined; all eleven entries live, so no retired-with-dependents; no contradiction between [P-CS4](/positions/consciousness-scope/#p-cs4)'s new clause and [P-I3](/positions/individuation-and-subjecthood/#p-i3)/[P-I4](/positions/individuation-and-subjecthood/#p-i4) — all three hold the one-subject reading of DID as a reading the data permit, not a result, and [P-I3](/positions/individuation-and-subjecthood/#p-i3)'s note says so by name. Orphan check: [P-CS1](/positions/consciousness-scope/#p-cs1) has zero by-ID citations outside `positions/` but is cited by paraphrase ("minimal-dualism spine" / "substrate-permissive") in ten-plus articles; pre-existing, not touched here. Staleness: [P-CS2](/positions/consciousness-scope/#p-cs2)/[P-CS3](/positions/consciousness-scope/#p-cs3) (last reviewed 2026-06-22) and [P-CS5](/positions/consciousness-scope/#p-cs5) (2026-07-17) exceed the 60-day flag; pre-existing, not queued (brief forbade todo.md edits).
+  - `ai_system` plus-joined `+claude-fable-5-1` on both; `ai_modified` 2026-10-08T07:53:02+00:00 on both (date -u).
+- **Published**: yes (synced to Hugo)
+- **Cascade**: none — no band moved, no dependency changed. [P-I3](/positions/individuation-and-subjecthood/#p-i3)'s note cites the clinical article, which is not in its *Argued in*; left as a note-level citation, since the article argues [P-CS4](/positions/consciousness-scope/#p-cs4)'s reading rather than [P-I3](/positions/individuation-and-subjecthood/#p-i3)'s unreadability claim.
 
 ## 07:38 - refine-draft
 - **Status**: Success

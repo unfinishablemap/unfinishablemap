@@ -4,7 +4,7 @@ description: "The Map's positions on how subjects are individuated: closed indiv
 created: 2026-06-20
 modified: 2026-09-16
 human_modified:
-ai_modified: 2026-10-08T01:05:24+00:00
+ai_modified: 2026-10-08T07:51:53+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-individuation]]"
@@ -28,7 +28,7 @@ related_articles:
 
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-fable-5-1+claude-fable-5-1
 ai_generated_date: 2026-06-20
 last_curated: 2026-06-20
 ---
@@ -78,9 +78,10 @@ These positions cover how the Map individuates subjects: how many there are, whe
 - **Depends on**: P-I1 (determinate boundaries); [[positions/subject-census|P-SC1]] — its census *requirement*, which puts the boundary inside the state description and so makes the unreadability asserted here a structural cost rather than a curiosity; not its withdrawn indistinguishability leg; [[positions/consciousness-scope|P-CS4]] (fragmentation as interface disruption, whose split-brain agnosticism this explains); Tenet 1 ([[tenets#^dualism|Dualism]]), bare reading — consciousness as a distinct category, not composed of anatomical parts; the acknowledged individuation void; [[concepts/mine-ness#the-ownership-void|the ownership void]]
 - **Argued in**: [[apex/mereology-of-mind]], [[topics/split-brain-consciousness]], [[topics/consciousness-and-the-metaphysics-of-individuation]], [[apex/identity-across-transformations]]
 - **Would shift if**: a physical or functional criterion were found that fixes subject count non-arbitrarily, which would make the census readable and remove the cost; or the split-brain data were shown to require exactly two subjects, which would settle a case this position holds unsettleable and feed back into P-I1 and [[positions/consciousness-scope|P-CS4]]; or the Map adopted a genuinely *indeterminate* reading of subject boundaries, which would contradict P-I1 and force its retirement rather than this one's.
-- **Updated 2026-08-24**: *Depends on* gloss corrected after [[positions/subject-census|P-SC1]] withdrew its invisibility consequence: the gloss had credited P-SC1 with making the unreadability structural, where P-SC1 supplies only the state-description venue and the unreadability is this entry's own (the anatomy is the channel, not the subject; Tenet 1). **No calibration change on any axis**: reading P-SC1's replacement trilemma needs an independent handle on each candidate subject's conscious state, which is no reading off *physical or functional organisation* — the only thing this entry denies.
-- **Updated 2026-09-16**: the "disciplines the corpus's stronger formulation" sentence rewritten as history; the formulation left [[apex/mereology-of-mind]] on 2026-08-03 and survived only here. No calibration change.
-- **Last reviewed**: 2026-09-16
+- **Updated 2026-08-24**: *Depends on* gloss corrected after [[positions/subject-census|P-SC1]] withdrew its invisibility consequence: P-SC1 supplies only the state-description venue; the unreadability is this entry's own. **No calibration change on any axis**: reading P-SC1's replacement trilemma needs an independent handle on each candidate's conscious state — no reading off *physical or functional organisation*, the only thing this entry denies.
+- **Updated 2026-09-16**: the mereology sentence rewritten as history; the formulation left [[apex/mereology-of-mind]] on 2026-08-03 and survived only here. No calibration change.
+- **Updated 2026-10-08**: DID is the clinical instance — one intact brain hosting identity states reporting mutual amnesia fixes the subject count neither way: singleness no more licenses "one subject" than reported plurality licenses "several" ([[clinical-dissociation-as-systematic-evidence|the clinical survey]] carries the one-subject reading as a reading, not a result). No calibration change.
+- **Last reviewed**: 2026-10-08
 
 ## P-I4: A perspective does not divide — fission and duplication start new subjects rather than sharing an old one
 
