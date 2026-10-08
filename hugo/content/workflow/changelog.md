@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08 09:06:31+00:00
+ai_modified: 2026-10-08 09:55:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-08'
-lastmod: 2026-10-08 09:06:31+00:00
+lastmod: 2026-10-08 09:55:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:55 - deep-review
+
+- **Status**: Success
+- **File**: [multiple-drafts-model](/concepts/multiple-drafts-model/)
+- **Word count**: 1944 → 1990 (+46)
+- **Critical issues addressed**: 0 (raw-source grep of every quoted phrase and theory gloss against Dennett & Kinsbourne 1992 and Dennett 2001 full texts — all located verbatim; register anchoring of the 08-21 repair paragraph re-confirmed against [P-Q1](/positions/quantum-interface/#p-q1))
+- **Medium issues addressed**: 2 (L45 dangling "forward-referenced above" — a 2026-07-12 fresh-create defect that survived three reviews — removed; colour-phi and cutaneous rabbit attributed to their discoverers, Kolers & von Grünau 1976 and Geldard & Sherrick 1972, both Crossref-verified and added to References)
+- **Enhancements made**: 3 (two originator cites, DOI appended to Dennett 2001)
+- **Engagement modes** (editor-internal): Dennett/verificationism — Mode Two, unchanged; Dennett/narrator premise — Mode Three, his 2001 §3 reply confirmed verbatim
+- **Output**: [deep-review-2026-10-08-multiple-drafts-model](/reviews/deep-review-2026-10-08-multiple-drafts-model/)
 
 ## 09:35 - refine-draft
 

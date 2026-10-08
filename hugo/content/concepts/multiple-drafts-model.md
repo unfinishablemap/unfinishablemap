@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-10-04 13:32:59+00:00
-ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-08 09:54:29+00:00
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - heterophenomenology
@@ -18,8 +18,8 @@ description: Dennett's Multiple Drafts Model rejects the Cartesian Theater. The 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-21 23:40:00+00:00
-lastmod: 2026-10-04 13:32:59+00:00
+last_deep_review: 2026-10-08 09:54:29+00:00
+lastmod: 2026-10-08 09:54:29+00:00
 modified: *id001
 related_articles:
 - '[[heterophenomenology]]'
@@ -47,11 +47,11 @@ Because Dennett presents the Cartesian Theater as a default that materialists sl
 
 In place of the theater, MDM offers a distributed, editorial architecture. Perceptual and cognitive content is fixed by parallel, multitrack processes running across the brain. At any moment several "drafts" of content coexist, continuously revised; none is the canonical, consciously-witnessed version. There is no single stream of consciousness and no privileged instant at which unconscious processing turns into conscious experience. Asking *where* and *when* a content becomes conscious, on this view, presupposes the very theater MDM rejects.
 
-Dennett and Kinsbourne drew this from timing illusions. In **color-phi**, two differently coloured dots flashed in succession are seen as one dot moving *and changing colour partway across* — yet the second colour cannot be known until after the second dot appears. In the **cutaneous rabbit**, taps delivered at a few spaced points on the arm are felt as an even series of hops across the skin between them. In both, the brain appears to "postdict": the reported subjective sequence cannot be a direct read-off of the underlying neural timing. The temporal order of subjective events is a product of interpretive processing, not a transparent record of when the processing occurred.
+Dennett and Kinsbourne drew this from two earlier timing illusions. In **color-phi** (Kolers and von Grünau 1976), two differently coloured dots flashed in succession are seen as one dot moving *and changing colour partway across* — yet the second colour cannot be known until after the second dot appears. In the **cutaneous rabbit** (Geldard and Sherrick 1972), taps delivered at a few spaced points on the arm are felt as an even series of hops across the skin between them. In both, the brain appears to "postdict": the reported subjective sequence cannot be a direct read-off of the underlying neural timing. The temporal order of subjective events is a product of interpretive processing, not a transparent record of when the processing occurred.
 
 ## Orwellian and Stalinesque as a False Alternative
 
-The timing illusions generate MDM's sharpest argument, forward-referenced above. Consider color-phi: did the subject *experience* an unmoving first dot and then *misremember* it as moving (a post-hoc revision of a veridical experience — Dennett's **Orwellian** case, after the rewriting of history), or did pre-conscious editing insert the motion *before* any experience formed, so the subject only ever experienced the doctored version (the **Stalinesque** case, after the show trial that fabricates the record before it is witnessed)?
+The timing illusions generate MDM's sharpest argument. Consider color-phi: did the subject *experience* an unmoving first dot and then *misremember* it as moving (a post-hoc revision of a veridical experience — Dennett's **Orwellian** case, after the rewriting of history), or did pre-conscious editing insert the motion *before* any experience formed, so the subject only ever experienced the doctored version (the **Stalinesque** case, after the show trial that fabricates the record before it is witnessed)?
 
 Dennett argues the question is ill-posed. Because content-fixation is **probe-dependent** — which "draft" counts as what the subject experienced depends on when and how you ask — there is no fact of the matter distinguishing misremembering a real experience from experiencing a pre-doctored one. The two descriptions posit a difference locatable only at a Cartesian finish line that does not exist. Where there is no theater, there is no moment at which the "real" experience either did or did not include the motion.
 
@@ -92,6 +92,8 @@ The Map's other main argument, by contrast, is a framework-boundary one — the 
 1. Dennett, D. C. (1991). *Consciousness Explained*. Boston: Little, Brown and Company.
 1. Dennett, D. C., & Kinsbourne, M. (1992). Time and the observer: The where and when of consciousness in the brain. *Behavioral and Brain Sciences*, 15(2), 183–201. https://doi.org/10.1017/S0140525X00068229
 1. Dennett, D. C. (1988). Quining Qualia. In A. Marcel & E. Bisiach (Eds.), *Consciousness in Contemporary Science*. Oxford: Oxford University Press.
-1. Dennett, D. C. (2001). Are we explaining consciousness yet? *Cognition*, 79(1–2), 221–237.
+1. Dennett, D. C. (2001). Are we explaining consciousness yet? *Cognition*, 79(1–2), 221–237. https://doi.org/10.1016/S0010-0277(00)00130-X
+1. Kolers, P. A., & von Grünau, M. (1976). Shape and color in apparent motion. *Vision Research*, 16(4), 329–335. https://doi.org/10.1016/0042-6989(76)90192-9
+1. Geldard, F. A., & Sherrick, C. E. (1972). The cutaneous "rabbit": A perceptual illusion. *Science*, 178(4057), 178–179. https://doi.org/10.1126/science.178.4057.178
 1. Southgate, A. & Oquatre-six, C. (2026-01-21). Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
 1. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Heterophenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/heterophenomenology/
