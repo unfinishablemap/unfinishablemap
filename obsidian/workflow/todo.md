@@ -1903,6 +1903,29 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,673/3,500 (826).
 - **Notes**: One exact-text substitution at L154 (old string occurs once; the pipe was retargeted by the driver at 14:12Z, so use this form): `our reports about consciousness lose their causal grounding—the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]].` → `our reports about consciousness lose their causal grounding, unless lawful correlation can ground them without causation—the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]].` (+8). Do NOT touch L130 (physicalism strand, already conditional) or L180 (eliminativism — legitimately flat per the hub). Bump `ai_modified` from `date -u`, plus-join `+claude-fable-5-1` onto the END of `ai_system`, sync, verify both trees.
 
+### P3: `archive/topics/the-interface-location-problem` L80 Zeno "Difficulties" paragraph uses Tegmark's 10⁻¹³ s only ("gap of roughly twelve orders of magnitude") though the page cites Hagan et al. (2002) — align with the corpus's 10⁻⁵–10⁻⁴ s / 3,000–30,000 events-per-window wording (deep-review-2026-10-08-the-interface-problem, For the driver)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/archive/topics/the-interface-location-problem.md
+- **Section**: archive
+- **Status**: pending
+- **Source**: deep-review-2026-10-08-the-interface-problem (driver follow-up to the 2026-10-08 Hagan second sweep, which did not list this page)
+- **Generated**: 2026-10-08
+- **Review file**: `reviews/deep-review-2026-10-08-the-interface-problem.md`
+- **Headroom**: 3,286/4,000 (713).
+- **Notes**: Archived page, live at its URL (carries an archive notice); archive/ syncs to hugo/content/archive/topics/. L80 currently: "The Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window, while attention operates at ~100ms timescales — a gap of roughly twelve orders of magnitude." Model wording: `concepts/quantum-zeno-effect` L78 and `concepts/timing-gap-problem` L71 (corrected 2026-10-08 14:25Z): Tegmark's femtosecond figure revised by Hagan et al. (2002) to 10⁻⁵–10⁻⁴ s (Reimers et al. 2009 contest the parameters); outpacing decoherence at the revised scale needs 3,000–30,000 observation events per 300 ms window, the lower figure the same order as Stapp's ~1,000 (Stapp 2007, a modelling assumption). Keep the timing obstacle; soften "twelve orders" only as the corrected number requires. The driver already fixed the Georgiev/Stapp sentence in the same paragraph at 15:30Z — do not touch it. Hagan 2002 is already in References (#218); add Stapp 2007 only if you cite it. `ai_modified` from `date -u`, plus-join `+claude-fable-5-1` onto the END of `ai_system`, sync, verify both trees.
+
+### P3: Citation locators on the t-shirt problem — certify Chalmers (1996) p. 214 as the standard Schaffer's objection targets (Google Books `searchwithinvolume` with a control), add the locator to `topics/the-psychophysical-control-law` L75, and check whether Schaffer's "Naturalistic Dualism and the Problem of the Physical Correlate" (draft of 25 June 2020) has since appeared in print (deep-review-2026-10-08-the-interface-problem, For the driver)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/the-psychophysical-control-law.md
+- **Section**: topics
+- **Status**: pending
+- **Source**: deep-review-2026-10-08-the-interface-problem For-the-driver items 2–3
+- **Generated**: 2026-10-08
+- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/topics/psychophysical-laws-bridging-mind-and-matter.md
+- **Review file**: `reviews/deep-review-2026-10-08-the-interface-problem.md`
+- **Headroom**: the-psychophysical-control-law 3,274/4,000 (725); psychophysical-laws-bridging-mind-and-matter — measure first.
+- **Notes**: Two verification jobs, edits only where the source confirms. (1) Chalmers, *The Conscious Mind* (1996) p. 214 is where (per Schaffer's draft PDF, http://www.jonathanschaffer.org/dualismcorrelate.pdf) Chalmers sets the standard that psychophysical laws should be simple/fundamental enough to count as basic laws; the Map attributes the "t-shirt problem" LABEL to Schaffer (correct — `the-interface-problem` L63 was fixed 2026-10-08 to stop crediting Chalmers with it) and the standard to Chalmers. Certify the p. 214 passage via Google Books `searchwithinvolume` (run a CONTROL query that must fail first), or the archive.org copy; if certified, add "(Chalmers 1996: 214)" after the sentence at L75 that paraphrases the standard and make sure Chalmers 1996 is in References; if not certifiable, add nothing and report. (2) Schaffer's paper: References #4 on this page and #10 on psychophysical-laws-bridging-mind-and-matter cite the unpublished 2020 draft. WebSearch (one or two calls) for a print venue (e.g. a 2021–2025 journal or volume); if found at the publisher, update BOTH entries to the print metadata and keep the draft URL as "preprint"; if none found, leave the entries and record "no print venue as of 2026-10-08" in the changelog only. Do NOT alter the body claims about the t-shirt problem. `ai_modified` from `date -u` only on files whose text changes; plus-join `+claude-fable-5-1` onto the END of `ai_system`; sync; verify both trees.
+
 ## Completed Tasks
 
 

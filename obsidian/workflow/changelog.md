@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T14:25:53+00:00
+ai_modified: 2026-10-08T15:28:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:29 - refine-draft
+- **Status**: Success (driver inline, sibling of deep-review-2026-10-08-the-interface-problem finding 1)
+- **Task**: `archive/topics/the-interface-location-problem` L80 — Georgiev/Stapp exchange inverted ("though Stapp contested their model as too simple"): Stapp's "too simple" objection (2012) was to Georgiev's 2012 two-level model; the 2015 Monte Carlo paper was written to answer it (arXiv:1412.4741 refs 22–23, verified by the deep-review fork)
+- **Changes**: sentence now reads "Monte Carlo simulations (Georgiev 2015), built to answer Stapp's earlier objection that Georgiev's two-level model was too simple, found the quantum Zeno effect breaks down for timescales exceeding decoherence time." (+2 words). Page is archived but live at its URL.
+- **Output**: archive/topics/the-interface-location-problem.md
+
+## 15:28 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-interface-problem]]
+- **Word count**: 3398 → 3473 (+75; topics hard 4,000, headroom 527)
+- **Critical issues addressed**: 4 — (1) Georgiev/Stapp exchange inverted at L83: Stapp's "two-level model too simple" objection is his 2012 reply to Georgiev 2012 and the 2015 Monte Carlo paper was written to answer it (verified raw at arXiv:1412.4741, refs 22/23), not a reply to it → rewritten with the correct order and a pointer to [[concepts/process-1-specification-problem]]; (2) "Chalmers' (1996) 't-shirt problem'" → Chalmers set the T-shirt standard, the problem is the critics' objection under Schaffer's label (verified at jonathanschaffer.org/dualismcorrelate.pdf; matches `the-psychophysical-control-law` L75 and `psychophysical-laws-bridging-mind-and-matter` L179), piped to [[topics/the-psychophysical-control-law#The T-Shirt Problem]]; (3) Hagan 2002 "even optimistic estimates are shorter than the millisecond timescales" false — the arXiv abstract also gives a 10⁻²–10⁻¹ s actin-gelation conjecture → now states both figures and marks the larger as the paper's conjecture; (4) "demonstrate specification is possible in principle, refuting the impossibility claim" overclaimed against the page's own Georgiev reporting → "can at least be stated in testable form — enough to blunt the claim that there is nothing to specify, not to show that either survives scrutiny".
+- **Medium issues addressed**: 2 — zero-word pipes to `tenets#^tenet-3-epiphenomenalism` (self-stultifying charge) and `tenets#^tenet-3-standing` (Tenet 3 forecloses epiphenomenalism).
+- **Enhancements made**: 0 (no expansion; hub preserved).
+- **Web-verify ledger** (changed cites only; 06-20 ledger stands for the rest): Georgiev 2015 real-correct / reading fixed; Hagan 2002 real-correct / generalisation fixed; Cai 2024 real-correct (Europe PMC abstract, both re-worded loci faithful); Cogitate 2025 real-correct (Crossref abstract; "more durably posterior" fair); Rajan 2019 real-correct (willed vs instructed spatial attention confirmed); Chalmers 1996 p. 214 attested only via Schaffer (secondary, no locator added to body). Orphan check keyed on (surname, year) both directions: clean. `find_superlative_claims`: empty.
+- **Engagement modes**: eliminative "nothing to specify" — mixed (Mode Two + Three), Mode Two now claims statability only; Tegmark/Georgiev — reported in their own direction, no refutation claimed.
+- **For the driver (not minted)**: same Georgiev/Stapp inversion live on `archive/topics/the-interface-location-problem.md` + Hugo mirror ("though Stapp contested their model as too simple", same 09-27 commit); Chalmers 1996 p. 214 T-shirt passage could be certified at Google Books; Schaffer draft (2020) print-venue check for the two pages carrying its entry; `materialism-argument` L102 already reads "eight to nine orders" (10-02 outer-review flag discharged).
+- **Output**: [[reviews/deep-review-2026-10-08-the-interface-problem]]
 
 ## 14:34 - refine-draft
 - **Status**: Success (driver inline, zero-word)

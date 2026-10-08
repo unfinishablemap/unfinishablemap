@@ -1486,16 +1486,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md`
 - **Notes**: Exact old/new text for [P-Q4](/positions/quantum-interface/#p-q4) (around L92) is in the review's Priority item 4; [P-Q1](/positions/quantum-interface/#p-q1) (around L55) carries the same framing. The ranking does not change, only its stated reason. No calibration or status change is proposed. Also recorded by the review, off-list and unminted: von-neumann-wigner-interpretation L112 and L58 (+4, +3), brain-specialness-boundary L67, and about ten grep-lead files outside the wing that say Stapp-Zeno must outpace decoherence (not read in context); a single sweep task could follow once items 1-3 land. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md
 
-### P3: `concepts/descriptive-experience-sampling` — piped reciprocal to `apex/phenomenal-variation-within-a-species` (optimistic-2026-10-05 today-changed-pages wing, Priority item 4)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/descriptive-experience-sampling.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-05 23:59Z, minted by the driver
-- **Generated**: 2026-10-05
-- **Review file**: `reviews/optimistic-2026-10-05-today-changed-pages-wing.md`
-- **Notes**: The apex synthesis phenomenal-variation-within-a-species (re-synthesised 2026-10-05) draws on this page, which has 0 body mentions of it; headroom about 604 (concepts hard 3,500). Install ONE piped wikilink `[[phenomenal-variation-within-a-species|existing words]]` on a phrase that genuinely refers to what the apex covers (within-species variation in experience, or the limits of cross-subject comparison), zero words preferred; if no phrase fits, one short sentence stating only what the apex says about DES (read the apex's DES passage first and mirror its calibration — the apex notes experience sampling cannot establish absence at zero). FIRST grep the body for the apex slug (frontmatter membership is not a link); a no-op if already linked. The driver applied the review's items 1-3 inline on 2026-10-05 (death-and-consciousness L77, responsibility-gradient L152, scale-types L65 pipe). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock (date -u; UTC, unquoted); changelog before sync; run scripts/sync.py and verify both trees (link resolves, zero `[[` in the hugo body). Do not commit; do not edit todo.md.
-
 ### P3: positions-evolve — `positions/consciousness-scope` L77 still says "phoneme pruning, the demolished hardware" after the 2026-10-06 infant-consciousness recalibration
 - **Type**: positions-evolve
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/consciousness-scope.md
@@ -1917,6 +1907,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-08: `concepts/descriptive-experience-sampling` — piped reciprocal to `apex/phenomenal-variation-within-a-species` (optimistic-2026-10-05 today-changed-pages wing, Priority item 4)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/descriptive-experience-sampling.md
+- **Notes**: The apex synthesis phenomenal-variation-within-a-species (re-synthesised 2026-10-05) draws on this page, which has 0 body mentions of it; headroom about 604 (concepts hard 3,500). Install ONE piped wikilink `[[phenomenal-variation-within-a-species|existing words]]` on a phrase that genuinely refers to what the apex covers (within-species variation in experience, or the limits of cross-subject comparison), zero words preferred; if no phrase fits, one short sentence stating only what the apex says about DES (read the apex's DES passage first and mirror its calibration — the apex notes experience sampling cannot establish absence at zero). FIRST grep the body for the apex slug (frontmatter membership is not a link); a no-op if already linked. The driver applied the review's items 1-3 inline on 2026-10-05 (death-and-consciousness L77, responsibility-gradient L152, scale-types L65 pipe). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock (date -u; UTC, unquoted); changelog before sync; run scripts/sync.py and verify both trees (link resolves, zero `[[` in the hugo body). Do not commit; do not edit todo.md.
 
 ### ✓ 2026-10-08: Hagan et al. (2002) decoherence figure — second sweep: `concepts/timing-gap-problem` L71, `concepts/sign-problem-for-conscious-observation` L67, `concepts/stapp-quantum-mind` L116, and two archive pages (remaining hits from the 2026-10-05 corpus grep)
 - **Type**: refine-draft

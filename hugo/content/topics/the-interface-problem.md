@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-09-28 16:13:05+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-08 15:26:20+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/the-interface-location-problem/
@@ -26,15 +26,15 @@ concepts:
 - '[[pairing-problem]]'
 - '[[valence]]'
 created: 2026-02-09
-date: &id001 2026-05-18
+date: &id001 2026-10-08
 description: Where does consciousness meet the brain, and how does conscious state
   map to physical selection? The two faces of the central open challenge for The Unfinishable
   Map's interactionist framework.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-17 14:40:04+00:00
-lastmod: 2026-09-28 16:13:05+00:00
+last_deep_review: 2026-10-08 15:26:20+00:00
+lastmod: 2026-10-08 15:26:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ topics:
 
 If consciousness influences the physical world by biasing quantum outcomes in the brain — as The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds — two distinct questions must be answered. *Where* in the brain does the interface operate? *How* do conscious states map quantitatively to physical selections? These are the two faces of the interface problem, and together they constitute the most significant open challenge facing the Map's interactionist framework.
 
-The questions are logically independent but evidentially interlocked. The Map can say *that* consciousness acts on matter ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), *where* (at quantum indeterminacies), and *through what architecture* ([the attention-motor interface](/topics/attention-and-the-consciousness-interface/)). What remains is the precise location and the lawful mapping from phenomenal properties to physical selections — Chalmers' (1996) "t-shirt problem": no psychophysical laws compact enough to fit on a t-shirt. The problem descends from [Princess Elisabeth's challenge](/topics/history-of-the-interaction-problem/) to Descartes.
+The questions are logically independent but evidentially interlocked. The Map can say *that* consciousness acts on matter ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), *where* (at quantum indeterminacies), and *through what architecture* ([the attention-motor interface](/topics/attention-and-the-consciousness-interface/)). What remains is the precise location and the lawful mapping from phenomenal properties to physical selections — the "t-shirt problem", the label [Schaffer](/topics/the-psychophysical-control-law/#the-t-shirt-problem) gives the objection that psychophysical laws will never meet the standard Chalmers (1996) set for them: basic laws simple enough to fit on a T-shirt. The problem descends from [Princess Elisabeth's challenge](/topics/history-of-the-interaction-problem/) to Descartes.
 
 The Map's position has evolved. Initial agnosticism among four candidate sites has been reframed as *constrained pluralism* — the interface operates through the attention-motor architecture, with molecular-level quantum effects providing the substrate. All four sites remain; microtubules are demoted, not excluded. The specification half remains open, with two partial accounts and three qualitative sketches.
 
@@ -80,11 +80,11 @@ Candidate sites differ in experimental predictions, [decoherence](/concepts/deco
 
 ### Microtubules (Orch OR)
 
-Penrose and Hameroff propose consciousness interfaces through quantum computations in microtubules — cylindrical protein structures within neurons. On Orchestrated Objective Reduction, tubulin proteins exist in superposition, with consciousness selecting which pattern collapses at ~40 events/second, in concert with gamma-band synchrony. A 2024 epothilone B study found microtubule-stabilising drugs delayed anaesthetic-induced unconsciousness in rats — consistent with Orch OR though also explicable through non-quantum microtubule function. Hagan et al. (2002) proposed revised decoherence estimates of 10⁻⁵–10⁻⁴ seconds, though Tegmark (2000) and others contend the original calculations stand. Even optimistic estimates are shorter than the millisecond timescales of neural processes; Penrose's reliance on gravitational self-collapse introduces physics beyond the standard model.
+Penrose and Hameroff propose consciousness interfaces through quantum computations in microtubules — cylindrical protein structures within neurons. On Orchestrated Objective Reduction, tubulin proteins exist in superposition, with consciousness selecting which pattern collapses at ~40 events/second, in concert with gamma-band synchrony. A 2024 epothilone B study found microtubule-stabilising drugs delayed anaesthetic-induced unconsciousness in rats — consistent with Orch OR though also explicable through non-quantum microtubule function. Hagan et al. (2002) proposed revised decoherence estimates of 10⁻⁵–10⁻⁴ seconds, though Tegmark (2000) and others contend the original calculations stand. Even the revised figure falls short of the millisecond timescales of neural processes; the paper's further actin-gelation extension to 10⁻²–10⁻¹ s would reach them, but is offered there as a conjecture. Penrose's reliance on gravitational self-collapse introduces physics beyond the standard model.
 
 ### Ion Channels (Stapp/Schwartz)
 
-Stapp proposes consciousness operates through quantum effects at ion channels — narrow protein pores (under 1 nm at their narrowest) where quantum uncertainty applies. Schwartz, Stapp, and Beauregard (2005) argue channel structure makes contemporary physical theory necessary for analysing brain dynamics. Stapp's quantum Zeno mechanism: consciousness holds desired channel states through repeated observation. Schwartz's OCD neuroplasticity research shows directed attention reshapes neural circuits, without establishing quantum involvement. The decisive difficulty: the Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window while attention operates at ~100ms — a [gap of twelve orders of magnitude](/concepts/timing-gap-problem/). Georgiev's (2015) Monte Carlo simulations found the effect breaks down beyond decoherence time, though Stapp replied that a two-state model is inadequate to the brain.
+Stapp proposes consciousness operates through quantum effects at ion channels — narrow protein pores (under 1 nm at their narrowest) where quantum uncertainty applies. Schwartz, Stapp, and Beauregard (2005) argue channel structure makes contemporary physical theory necessary for analysing brain dynamics. Stapp's quantum Zeno mechanism: consciousness holds desired channel states through repeated observation. Schwartz's OCD neuroplasticity research shows directed attention reshapes neural circuits, without establishing quantum involvement. The decisive difficulty: the Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window while attention operates at ~100ms — a [gap of twelve orders of magnitude](/concepts/timing-gap-problem/). Georgiev's (2015) Monte Carlo simulations — built to answer Stapp's earlier objection that Georgiev's two-level model was too simple to represent the brain — found the effect breaks down beyond decoherence time; the exchange, including Stapp's rejoinder, is traced in [process-1-specification-problem](/concepts/process-1-specification-problem/).
 
 ### Cortical Microcolumns
 
@@ -138,7 +138,7 @@ Different sites imply different families of viable mappings. **Microtubules** ad
 
 ## The Critic's Strongest Objection
 
-The strongest critic's objection: if consciousness influences physical outcomes there must be specifiable laws; no such laws exist despite decades of effort; the difficulty is best explained by there being nothing to specify. The Map's responses: consciousness science is young (serious empirical work dates to the 1990s) — though this risks indefinite deferral. Stapp's and Eccles' models demonstrate specification is possible in principle, refuting the *impossibility* claim. The alternative is worse on the framework's own terms: under [epiphenomenalism](/concepts/epiphenomenalism/), beliefs about consciousness appear causally disconnected from it — though Chalmers (1996) and Robinson (2004) loosen the self-stultifying charge by separating phenomenal from semantic content. Specification difficulty is evidence of complexity, not nonexistence (turbulence, protein folding, the genotype-phenotype map all resist easy formula).
+The strongest critic's objection: if consciousness influences physical outcomes there must be specifiable laws; no such laws exist despite decades of effort; the difficulty is best explained by there being nothing to specify. The Map's responses: consciousness science is young (serious empirical work dates to the 1990s) — though this risks indefinite deferral. Stapp's and Eccles' models show that a specification can at least be stated in testable form — enough to blunt the claim that there is nothing to specify, not to show that either survives scrutiny. The alternative is worse on the framework's own terms: under [epiphenomenalism](/concepts/epiphenomenalism/), beliefs about consciousness appear causally disconnected from it — though Chalmers (1996) and Robinson (2004) loosen [the self-stultifying charge](/tenets/#tenet-3-epiphenomenalism) by separating phenomenal from semantic content. Specification difficulty is evidence of complexity, not nonexistence (turbulence, protein folding, the genotype-phenotype map all resist easy formula).
 
 The Newton analogy has limits: Newton had precise measurements and a mathematical law; the specification problem has neither. The honest comparison is pre-Keplerian — a research programme awaiting its founding measurements rather than a mature science awaiting refinement. Stapp's and Eccles' partial accounts are proto-models, not laws. What the framework can claim are the analogues of Tycho's measurements — the bandwidth constraint (Zheng & Meister 2025), the Born-rule causal-consistency result (Torres Alegre), the theta-band willed-attention signatures (Rajan et al. 2019) — together with constraint structures (the [coupling-modes taxonomy](/concepts/coupling-modes/), the [five formal constraints](/concepts/consciousness-physics-interface-formalism/)) of the kind that precede laws. Together they are the scaffolding from which a Kepler's law might one day be inferred. This calibration is articulated at project level in [framework-stage-calibration](/project/framework-stage-calibration/). The biological analogy is more apt: genotype-to-phenotype involves regulatory networks and developmental contingency, though biological relationships remain physical and the usual tools may not apply if the interface involves non-physical variables.
 
@@ -160,7 +160,7 @@ The interface problem sits at the intersection of the Map's philosophical commit
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** requires consciousness to act at quantum indeterminacies. Constrained pluralism narrows this: at indeterminacies *within the attention-motor architecture*, at sites involved in *threshold-crossing events*. The tenet limits where to look, but the subtlety of quantum effects makes detection difficult — trading empirical accessibility for theoretical elegance.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains qualified support from dopamine research. The dissociation Cai et al. report — mice whose fast dopamine transients are knocked out still move spontaneously but pursue reward with less vigour, while depletion or receptor blockade does disrupt movement initiation — is a cognitive-functional finding consistent with the framework's distinction between neural computation and conscious selection, without itself establishing that distinction. The broader empirical case for the tenet — placebo's content-specific physiological direction and choking's mode-specific skill disruption — is developed at [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/), establishing the explanandum the location/specification programme attempts to mechanise. The tenet also forecloses retreat to epiphenomenalism when specification turns out to be hard: it demands consciousness make a physical difference, which demands the difference be specifiable.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains qualified support from dopamine research. The dissociation Cai et al. report — mice whose fast dopamine transients are knocked out still move spontaneously but pursue reward with less vigour, while depletion or receptor blockade does disrupt movement initiation — is a cognitive-functional finding consistent with the framework's distinction between neural computation and conscious selection, without itself establishing that distinction. The broader empirical case for the tenet — placebo's content-specific physiological direction and choking's mode-specific skill disruption — is developed at [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/), establishing the explanandum the location/specification programme attempts to mechanise. [The tenet](/tenets/#tenet-3-standing) also forecloses retreat to epiphenomenalism when specification turns out to be hard: it demands consciousness make a physical difference, which demands the difference be specifiable.
 
 **[Dualism](/tenets/#dualism)** creates the specification problem: two ontologically distinct domains must be lawfully related. The cost of taking dualism seriously is accepting a mapping burden physicalism avoids. **[No Many Worlds](/tenets/#no-many-worlds)** is essential because specification only makes sense if there is genuine selection — under MWI all outcomes occur and there is nothing to specify. **[Occam's Razor Has Limits](/tenets/#occams-limits)** counsels patience: if consciousness genuinely influences matter, the difficulty reflects the problem's depth, not the theory's failure.
 

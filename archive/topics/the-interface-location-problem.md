@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain? Four candidate sites exis
 created: 2026-02-09
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-09-27T16:06:15+00:00
+ai_modified: 2026-10-08T15:29:57+00:00
 draft: false
 last_deep_review: 2026-04-11T04:56:00+00:00
 topics:
@@ -32,7 +32,7 @@ related_articles:
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-09
 last_curated:
 coalesced_from:
@@ -77,7 +77,7 @@ Henry Stapp proposes that consciousness operates through quantum effects at ion 
 
 **Strengths.** Ion channels are uncontroversially quantum-mechanical at their narrowest points. The proposal connects directly to synaptic function — whether a neuron fires depends on which channels open. Stapp's quantum Zeno mechanism provides a specific account of how consciousness might hold desired channel states through repeated observation. Schwartz's OCD neuroplasticity evidence demonstrates that directed mental effort (attention) can systematically reshape neural circuits, though this evidence establishes only that attention affects neural structure, not that quantum mechanisms are involved.
 
-**Difficulties.** The Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window, while attention operates at ~100ms timescales — a gap of roughly twelve orders of magnitude. Monte Carlo simulations (Georgiev 2015) found the quantum Zeno effect breaks down for timescales exceeding decoherence time in simplified models, though Stapp contested their model as too simple. The mechanism for coordinating individual ion channel quantum events into coherent macroscopic decisions remains unspecified.
+**Difficulties.** The Zeno mechanism requires observation within the ~10⁻¹³ s decoherence window, while attention operates at ~100ms timescales — a gap of roughly twelve orders of magnitude. Monte Carlo simulations (Georgiev 2015), built to answer Stapp's earlier objection that Georgiev's two-level model was too simple, found the quantum Zeno effect breaks down for timescales exceeding decoherence time. The mechanism for coordinating individual ion channel quantum events into coherent macroscopic decisions remains unspecified.
 
 ### Cortical Microcolumns
 
