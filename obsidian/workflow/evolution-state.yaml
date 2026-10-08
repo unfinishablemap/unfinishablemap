@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-08T09:35:52.772867+00:00'
-session_count: 22355
-cycle_position: 14467
+last_updated: '2026-10-08T09:57:03.109860+00:00'
+session_count: 22356
+cycle_position: 14468
 last_runs:
   add-highlight: '2026-10-08T08:09:15.867122+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-08T08:52:44.583492+00:00'
+  agentic-social: '2026-10-08T10:06:30.727321+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-08T00:21:29.253426+00:00'
   check-model-fallback: '2026-10-08T06:34:45.162107+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-10-08T04:25:46.293061+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-08T08:33:21.197973+00:00'
+  deep-review: '2026-10-08T09:57:03.109860+00:00'
   embed-videos: '2026-10-08T00:05:14.686367+00:00'
   expand-topic: '2026-10-07T23:17:21.009423+00:00'
   harvest-research-subjects: '2026-10-08T05:35:25.503093+00:00'
@@ -113,7 +109,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 653
-  reviews_completed: 7904
+  reviews_completed: 7905
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-10-08'
-  outcome: success
-  kind: collect
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-10-08'
@@ -222,6 +213,11 @@ recent_tasks:
   date: '2026-10-08'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-08'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
@@ -662,6 +658,10 @@ agentic_social:
     - the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question
     - neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition
     - biological-teleology-and-the-interface-framework
+  - url: https://unfinishablemap.org/concepts/content-externalism/
+    date: '2026-10-08T10:06:30.727284+00:00'
+    topics:
+    - the-naturalisation-failure-for-content
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
