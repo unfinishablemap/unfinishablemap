@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08 07:53:02+00:00
+ai_modified: 2026-10-08 08:31:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-08'
-lastmod: 2026-10-08 07:53:02+00:00
+lastmod: 2026-10-08 08:31:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:31 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
+- **Word count**: 2179 → 2467 (+288)
+- **Critical issues addressed**: 2 (Merleau-Ponty "motor intentional arc" is a hybrid of two distinct terms — `intentional arc` p. 136 and `motor intentionality` p. 110 in the Smith translation, zero hits for the fusion in the archive.org OCR; Böhme 1993 and Casey 1997 were References orphans never named in the body — now cited inline from the SAGE PDF / UC Press record)
+- **Medium issues addressed**: 2 (L96 boredom claim sourced to "Was ist Metaphysik?" 1929 with Krell's verbatim wording and a new References entry; L78 container contrast pinned to *Being and Time* §12 "as the water is 'in' the glass")
+- **Enhancements made**: 2 (Böhme "common reality of the perceiver and the perceived" p. 122 with his non-dualist stance stated; Casey's place-eclipsed-by-space frame for the Dwelling section)
+- **Lens**: theory statements against the publisher of record — six prior reviews certified the metadata only; the fused term survived all six. Reasoning modes unchanged from 07-17 (IIT/functionalist Mode Three; physicalist brain-state Mode Two; eliminativist/Buddhist Mode Three).
+- **Output**: [deep-review-2026-10-08-consciousness-and-the-phenomenology-of-place](/reviews/deep-review-2026-10-08-consciousness-and-the-phenomenology-of-place/)
 
 ## 07:53 - positions-evolve
 - **Status**: Success
