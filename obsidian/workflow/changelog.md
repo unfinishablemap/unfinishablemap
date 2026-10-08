@@ -5,6 +5,14 @@ ai_modified: 2026-10-08T09:06:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 09:20 - refine-draft
+
+- **Task**: `concepts/inference-to-the-best-explanation-against-dualism` — "Run the second-order IBE" P3, reduced (per research/rival-explanations §Corpus Seams item 2) to the pointer now that concepts/rival-explanations-of-the-explanatory-gap exists (written 2026-10-07 23:15Z); applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: L64 "which no Map page has run as IBE" → run on the dedicated page, splits by explanandum, does not favour dualism (first link from this page to it); L74 verdict "*compatible* until the second-order comparison is run and favours dualism by stated criteria" → "*compatible*, the second-order comparison having been run and left the tier there"; L80 "no page yet runs the second-order comparison … since an unrun comparison cannot hold a tier even provisionally" → the comparison has been run and splits by explanandum, favouring neither side overall; the *suggestive* tier still reaches only the datum-denying physicalist; against Type-B *compatible* per the Type-A/B/C page. Calibration unchanged (compatible; P-M1 — nothing rises).
+- **Length**: 3,354 → 3,352 / 3,500
+- **Output**: synced to Hugo
+
 ## 09:06 - coalesce
 
 - **Task**: coalesce cycle slot — candidate search, abandon

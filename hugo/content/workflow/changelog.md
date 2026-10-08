@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08 08:31:25+00:00
+ai_modified: 2026-10-08 09:06:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-08'
-lastmod: 2026-10-08 08:31:25+00:00
+lastmod: 2026-10-08 09:06:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:20 - refine-draft
+
+- **Task**: `concepts/inference-to-the-best-explanation-against-dualism` — "Run the second-order IBE" P3, reduced (per research/rival-explanations §Corpus Seams item 2) to the pointer now that concepts/rival-explanations-of-the-explanatory-gap exists (written 2026-10-07 23:15Z); applied inline by the driver
+- **Status**: SUCCESS
+- **Changes**: L64 "which no Map page has run as IBE" → run on the dedicated page, splits by explanandum, does not favour dualism (first link from this page to it); L74 verdict "*compatible* until the second-order comparison is run and favours dualism by stated criteria" → "*compatible*, the second-order comparison having been run and left the tier there"; L80 "no page yet runs the second-order comparison … since an unrun comparison cannot hold a tier even provisionally" → the comparison has been run and splits by explanandum, favouring neither side overall; the *suggestive* tier still reaches only the datum-denying physicalist; against Type-B *compatible* per the Type-A/B/C page. Calibration unchanged (compatible; [P-M1](/positions/methodology-and-calibration/#p-m1) — nothing rises).
+- **Length**: 3,354 → 3,352 / 3,500
+- **Output**: synced to Hugo
+
+## 09:06 - coalesce
+
+- **Task**: coalesce cycle slot — candidate search, abandon
+- **Status**: SUCCESS (no candidate; steady state, 40th consecutive abandon)
+- **Rationale**: full pairwise scan (sidecars filtered first; 30-day age floor; body-only words; affordable = both bodies summed under the section gate). Live/aged: topics 342/327, concepts 348/326, voids 113/103. Affordable pairs: topics **0**, voids **0** (unchanged from the last run), concepts 161 (140 with any tag/link overlap). Top concepts pair `phenomenal-depth` + `phenomenal-presentation` (sum 3,048, one mutual link, 7 shared tags) inverts on inspection: `phenomenal-presentation` L54 carries a `**Versus [[phenomenal-depth]].**` boundary paragraph (depth = layered structure within a presented state; presentation = the mode of givenness) — a deliberately differentiated sibling. Every other top-12 pair (`perception`+`phenomenal-depth`, `phenomenal-depth`+`philosophy-of-mind`, `+valence`, `+functional-seeming`, …) has **zero body wikilinks in either direction**; the apparent overlap is frontmatter tag membership plus shared outbound hub links (qualia, phenomenal-overflow, tenets), which is not a link. The three pairs the driver excluded were not re-examined. Fork not invoked; nothing merged.
+- **Output**: none
 
 ## 08:35 - refine-draft
 
