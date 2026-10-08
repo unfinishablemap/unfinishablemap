@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-09-17 17:58:00+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-10-08 14:34:59+00:00
+ai_system: claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[introspection]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-17 17:58:00+00:00
-lastmod: 2026-09-17 17:58:00+00:00
+lastmod: 2026-10-08 14:34:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ Skill is treated as acquired across sampling days rather than possessed at the s
 
 ## What Sampling Has Found {#findings}
 
-Heavey and Hurlburt (2008) collected ten randomly identified moments from each of thirty participants drawn from a stratified sample of college students. Five phenomena recurred: inner speech, inner seeing, unsymbolized thinking, feelings, and sensory awareness. Each occurred in approximately one quarter of sampled moments. Frequencies varied widely across individuals; there were no significant gender differences; and higher frequencies of inner speech were associated with lower levels of psychological distress.
+Heavey and Hurlburt (2008) collected ten randomly identified moments from each of thirty participants drawn from a stratified sample of college students. Five phenomena recurred: inner speech, inner seeing, unsymbolized thinking, feelings, and sensory awareness. Each occurred in approximately one quarter of sampled moments. Frequencies [varied widely across individuals](/apex/phenomenal-variation-within-a-species/); there were no significant gender differences; and higher frequencies of inner speech were associated with lower levels of psychological distress.
 
 **Unsymbolized thinking** is the method's most distinctive positive finding — "the experience of an explicit, differentiated thought that does not include the experience of words, images, or any other symbols" (Hurlburt & Akhter 2008). The authors argue it is a distinct phenomenon rather than an incompletely formed inner speech or a vague image, and note that many people, including many professional students of consciousness, believe such an experience impossible.
 

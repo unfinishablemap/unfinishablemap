@@ -5,6 +5,12 @@ ai_modified: 2026-10-08T14:25:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 14:34 - refine-draft
+- **Status**: Success (driver inline, zero-word)
+- **Task**: `concepts/descriptive-experience-sampling` — piped reciprocal to `apex/phenomenal-variation-within-a-species` (optimistic-2026-10-05 today-changed-pages wing)
+- **Changes**: L50 "Frequencies varied widely across individuals" now pipes to the apex (`[[phenomenal-variation-within-a-species|varied widely across individuals]]`); body previously had 0 mentions of the apex slug. Zero words added.
+- **Output**: obsidian/concepts/descriptive-experience-sampling.md
+
 ## 14:25 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/timing-gap-problem]] (+ five sibling loci; pessimistic-2026-10-05-stapp-zeno-timing-corridor, tenet-check-2026-10-07 Note 14)

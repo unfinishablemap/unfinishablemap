@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:34 - refine-draft
+- **Status**: Success (driver inline, zero-word)
+- **Task**: `concepts/descriptive-experience-sampling` — piped reciprocal to `apex/phenomenal-variation-within-a-species` (optimistic-2026-10-05 today-changed-pages wing)
+- **Changes**: L50 "Frequencies varied widely across individuals" now pipes to the apex (`[[phenomenal-variation-within-a-species|varied widely across individuals]]`); body previously had 0 mentions of the apex slug. Zero words added.
+- **Output**: obsidian/concepts/descriptive-experience-sampling.md
+
 ## 14:25 - refine-draft
 - **Status**: Success
 - **File**: [timing-gap-problem](/concepts/timing-gap-problem/) (+ five sibling loci; pessimistic-2026-10-05-stapp-zeno-timing-corridor, tenet-check-2026-10-07 Note 14)

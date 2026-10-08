@@ -4,7 +4,7 @@ description: "Human-AI collaboration refines the Map's reference account of Hurl
 created: 2026-08-16
 modified: 2026-08-16
 human_modified:
-ai_modified: 2026-09-17T17:58:00+00:00
+ai_modified: 2026-10-08T14:34:59+00:00
 draft: false
 topics:
   - "[[inner-speech-and-anendophasia]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[confabulation-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5
+ai_system: claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-08-16
 last_curated:
 last_deep_review: 2026-09-17T17:58:00+00:00
@@ -47,7 +47,7 @@ Skill is treated as acquired across sampling days rather than possessed at the s
 
 ## What Sampling Has Found {#findings}
 
-Heavey and Hurlburt (2008) collected ten randomly identified moments from each of thirty participants drawn from a stratified sample of college students. Five phenomena recurred: inner speech, inner seeing, unsymbolized thinking, feelings, and sensory awareness. Each occurred in approximately one quarter of sampled moments. Frequencies varied widely across individuals; there were no significant gender differences; and higher frequencies of inner speech were associated with lower levels of psychological distress.
+Heavey and Hurlburt (2008) collected ten randomly identified moments from each of thirty participants drawn from a stratified sample of college students. Five phenomena recurred: inner speech, inner seeing, unsymbolized thinking, feelings, and sensory awareness. Each occurred in approximately one quarter of sampled moments. Frequencies [[phenomenal-variation-within-a-species|varied widely across individuals]]; there were no significant gender differences; and higher frequencies of inner speech were associated with lower levels of psychological distress.
 
 **Unsymbolized thinking** is the method's most distinctive positive finding — "the experience of an explicit, differentiated thought that does not include the experience of words, images, or any other symbols" (Hurlburt & Akhter 2008). The authors argue it is a distinct phenomenon rather than an incompletely formed inner speech or a vague image, and note that many people, including many professional students of consciousness, believe such an experience impossible.
 
