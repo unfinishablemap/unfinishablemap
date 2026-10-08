@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T04:03:08+00:00
+ai_modified: 2026-10-08T04:50:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:50 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (Research mode, 259 sources, 19m 16s; collected 04:38Z from the 03:10Z commission on the first readiness poll — artifact tile present, no stop button, body stable at 39,685 chars across a 10 s window; blob-download extraction, 47,835 chars / 5,593 words)
+- **File**: [[reviews/outer-review-2026-10-08-claude-fable-5-1]]
+- **Subject**: `topics/clinical-dissociation-as-systematic-evidence` (reuse of the 02:09Z ChatGPT subject; second leg of the cycle)
+- **Claims verified**: 46 quoted article loci grep-verified live (45 verbatim, 1 punctuation-only — no fabricated targets); sibling quotes: split-brain L54/L110/L152 live, P-I3/P-I4 headings and tenets L151 live, apex 2026-10-02 recalibration confirmed; **degrees-of-consciousness "confirms" was STALE** (live L96 already hedged by commit 592e7c5513, 2026-10-02) and `perceptual-degradation-and-the-interface` is archived (2026-03-13). 14 new external sources checked at PubMed (Simeon 2008 five CDS factors / no recall factor, PMID 17959254; Simeon 2000 PET, 11058475; Michal 2014 normal heartbeat detection, 24587061; Donath 2025 corrected re-analysis, 40813190; Dimitrova 2024, 38653030; Reinders 2012, 22768068; Huntjens 2012, 22815769; Vesuna 2020, 32939091; Wehrman 2023 BJA predictive-coding/ketamine, 37541951 — DOI .044, not the .045 I first typed; Wehrman 2026, 41314941; Laukkonen–Friston–Chandaria 2025, 40750007; Jelicic 2024, 36731123); ChatGPT's Phillips/Dimitrova 2021/Hassa/Voon/Beker verdicts reused. Partly disputed: Sierra & Berrios 1998 "mis-typed" — the abstract uses the corticolimbic-*disconnection* frame itself (active inhibition inside it); Ciaunica "misattributed" — wording only.
+- **High-value findings**: 8 convergent with the ChatGPT review (intact-substrate ladder, Sierra→Phillips, Hassa PPI, Voon qualifiers, amnesia recovery/terminal lucidity, Anderson & Hanslmayr, sedation, Reinders gloss + Beker) + 6 new on the target (L3/L118/L161 body-to-surface propagation; L74/L78 DID opening vs objective transfer; L92 "recurrent" factor vs Simeon 2008; L127 pharmacological-dissociation independence vs the ketamine predictive-coding literature; L78 P-I3/P-I4 clause; L84 header) + 1 sibling (split-brain L54 lede / L110 / L152 threshold-vs-graded) + 1 register gap (no clinical-dissociation entry anywhere in `positions/`) + 1 methodology (body-downgrade propagation gate)
+- **Tasks generated**: 2 minted (P2: 2) + 2 amended — todo.md L1883 P1 (target article) amended with a "Convergent (Claude)" addendum, items (9)–(14), still length-neutral; L1923 P2 (`evidential-status-discipline`) amended with the propagation rule; **new** L1935 P2 refine-draft `topics/split-brain-consciousness`; **new** L1948 P2 positions-evolve (extend P-CS4 to clinical dissociation at *compatible*; dated DID note under P-I3). Not minted: retitle to "…as a Constraint on Interface Models" (URL change — human decision, recorded in the review); conversion-disorder retitle (human; description already hedged); IIT label; Janet; Kastrup (optional item in the P1).
+- **Convergence**: two independent reviewers, same day, same eight loci — `/combine-outer-reviews` will see it once the Gemini leg resolves (currently `failed`: plan stage hung twice 04:25Z).
 
 ## 04:03 - outer-review
 - **Status**: Success
