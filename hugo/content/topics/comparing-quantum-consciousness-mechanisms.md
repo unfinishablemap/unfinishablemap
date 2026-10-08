@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-08 13:23:13+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-10-08 13:53:12+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 03:28:47+00:00
-lastmod: 2026-10-08 13:23:13+00:00
+lastmod: 2026-10-08 13:53:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 ## Stapp's Quantum Zeno Model: Attention as Observation
 
-Henry Stapp proposes that consciousness operates through orthodox quantum mechanics. Multiple neural firing patterns exist in superposition; mental effort acts as repeated quantum observation, exploiting the Zeno effect to hold desired patterns stable. No new physics is required — the mechanism uses standard von Neumann quantum mechanics with the observer-system boundary placed within the brain.
+Henry Stapp proposes that consciousness operates through orthodox quantum mechanics. Multiple neural firing patterns coexist as alternatives; mental effort acts as repeated quantum observation, exploiting the Zeno effect to hold desired patterns stable. No new physics is required — it uses standard von Neumann quantum mechanics with the observer-system boundary placed within the brain.
 
 **Decoherence vulnerability: Low (Stapp); contested.** Stapp holds discrete observations, not sustained coherence, suffice: ~1000 per 300ms (Stapp 2007), a modelling assumption, not an independent prediction. Zeno confinement survives mixing, but only inside the short quadratic window before the environment resolves the alternatives; beyond it observation changes nothing (Georgiev 2015). Where brains sit is uncomputed. The 2024 cryptochrome Zeno effect modelling (Denton et al.) provides a biological precedent, though in [magnetoreception](/concepts/radical-pair-magnetoreception/) rather than neural decision-making.
 
@@ -160,9 +160,9 @@ The Map's [tenets](/tenets/) state that it "does not commit to any specific mech
 
 The ordering follows from the [post-decoherence gap](#the-post-decoherence-gap) and the decoherence divide:
 
-1. **Post-decoherence selection** (preferred). Consciousness biases which element of the *already-decohered* improper mixture becomes actual. This sidesteps the [timing gap](/concepts/timing-gap-problem/) entirely — it requires no quantum coherence to survive at neural timescales. [The post-decoherence selection programme](/apex/post-decoherence-selection-programme/) is the Map's most developed synthesis and the strongest path it currently endorses. CSL-IIT sits naturally inside this preference, read as forward-in-time selection on (or near) the decohered mixture. Stapp states his mechanism on that mixture too, but it sets the question where this path selects the outcome. The Map treats both as allies, not rivals.
+1. **Post-decoherence selection** (preferred). Consciousness biases which element of the *already-decohered* improper mixture becomes actual. This sidesteps the [timing gap](/concepts/timing-gap-problem/) entirely — it requires no quantum coherence to survive at neural timescales. [The post-decoherence selection programme](/apex/post-decoherence-selection-programme/) is the Map's most developed synthesis and the strongest path it currently endorses. CSL-IIT sits naturally inside this preference, read as forward-in-time selection on (or near) the decohered mixture. Stapp states his mechanism on that mixture too, but it sets the question where this path selects the outcome. Read as implementations of this path, both are allies.
 
-2. **Stapp's quantum Zeno model** and **CSL-IIT hybrids** (co-preferred fallbacks). CSL-IIT satisfies all five tenets; Stapp's model four, with Tenet 3 qualified above. Neither is offered as needing sustained coherence, though Georgiev (2015) calls a mind projecting in the decoherence basis redundant. They rank just below the post-decoherence framing because each carries a specific additional debt the bare post-decoherence move avoids: Stapp's literal-Zeno reading commits to attention-rate-dependent signatures it has not yet exhibited brain-internally, and CSL-IIT's consciousness-modulation component is currently untestable.
+2. **Stapp's quantum Zeno model** and **CSL-IIT hybrids** (co-preferred fallbacks). CSL-IIT satisfies four outright (MQI only on its fallback reading, [P-Q2](/positions/quantum-interface/#p-q2)); Stapp's model four. Neither claims to need sustained coherence, though Georgiev (2015) calls Stapp's projection in the decoherence basis redundant. They rank just below the post-decoherence framing because each carries an additional debt the bare post-decoherence move avoids: Stapp's literal-Zeno reading owes the Tenet 3 qualification and attention-rate-dependent signatures not yet exhibited brain-internally, and CSL-IIT's consciousness-modulation component is currently untestable.
 
 3. **Orch OR** (live but dispreferred). Penrose-Hameroff's gravitational collapse in microtubules is the most empirically active proposal — growing anaesthetic and superradiance evidence, a shrinking parameter space — but it sits uneasily with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and stakes everything on the contested decoherence-timescale dispute. It is dispreferred not because it is refuted but because it pays the highest tenet-fit cost; should its microtubule-coherence evidence consolidate, the ordering would update.
 

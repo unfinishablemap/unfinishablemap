@@ -5,6 +5,12 @@ ai_modified: 2026-10-08T13:12:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 13:53 - refine-draft
+- **Status**: Success
+- **Task**: `topics/comparing-quantum-consciousness-mechanisms` — pessimistic-2026-10-05 item 4 (L80/L161 Stapp wording) plus the 13:23Z L161 carry
+- **Changes**: L80 "exist in superposition" → "coexist as alternatives"; L161 tenet count now "CSL-IIT satisfies four outright (MQI only on its fallback reading, P-Q2); Stapp's model four" (consistent with L114/L141); Georgiev (2015) now "calls Stapp's projection ... redundant"; Stapp's literal-Zeno debt now "owes the Tenet 3 qualification and attention-rate-dependent signatures"; lost condition restored on the allies sentence ("Read as implementations of this path, both are allies"). Three word trims (L80 "it uses", L161 "an additional debt", "Neither claims to need") keep the page net 0 at 3,994 (gate 4,000). Did not touch the sibling-owned L82/L132/L180 loci.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md
+
 ## 13:23 - refine-draft
 
 - **Status**: Success
