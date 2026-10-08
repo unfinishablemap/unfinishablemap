@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 13:23 - refine-draft
+
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Task**: todo P3 (L1487) — Stapp "Decoherence vulnerability: Low" paragraph/table cell in the Map's voice; plus the 2026-10-08 Carry substitutions (L180/L110/L114). Sibling P3 (L80/L159–161) untouched.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from task brief + `research/zeno-dynamics-on-a-decohered-mixture-2026-10-05`)
+- **Word count**: 3,997 → 3,994 (topics gate 4,000 `>=`; net −3)
+- **Changes** (old → new, `count_words`):
+  1. L82 head "**Decoherence vulnerability: Low.** The model requires only discrete observation events … Georgiev's Monte Carlo critique (2015) questions re-engagement effectiveness at biological decoherence rates." → "**Decoherence vulnerability: Low (Stapp); contested.** Stapp holds discrete observations, not sustained coherence, suffice … Zeno confinement survives mixing, but only inside the short quadratic window before the environment resolves the alternatives; beyond it observation changes nothing (Georgiev 2015). Where brains sit is uncomputed." (56 → 54). Low-vulnerability claim now attributed to Stapp; timing condition stated in its surviving (quadratic-window) form, neither "must outpace decoherence" nor "no timing requirement"; Georgiev regime named; brain's regime left open. Denton sentence unchanged.
+  2. L132 scientific table Stapp cell "Low" → "Low (Stapp); contested" (row 11 → 13; paid for by item 1's −2).
+  3. L180 "These may be complementary rather than competing: Stapp describes *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides baseline collapse dynamics." → "They are not simply complementary: Stapp's attentional holding would alter collapse timing, which the Map's ordering assigns to objective reduction ([P-Q4](/positions/quantum-interface/#p-q4))." (25 → 21; Carry text, supersedes the 10-07 addendum wording). Checked against [P-Q2](/positions/quantum-interface/#p-q2) (Born-exact corridor default; "minimum-outside-the-corridor" fall-back) and [P-Q4](/positions/quantum-interface/#p-q4) (Stapp demoted).
+  4. L110 "— a form of [post-decoherence-selection](/concepts/post-decoherence-selection/) —" → "— rate modulation, not [post-decoherence-selection](/concepts/post-decoherence-selection/) —" (6 → 6).
+  5. L114 "**Tenet alignment: Strong.** Satisfies all five tenets: … modulation rather than creation of collapse ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction))," → "**Tenet alignment: Partial.** Satisfies four outright: … rate modulation only on [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)'s fallback reading ([P-Q2](/positions/quantum-interface/#p-q2))," (20 → 20); the following enumeration (BI, NMW, Occam) still reads correctly as the remaining three of "four outright".
+  6. Consistency (not in brief): L141 philosophical table CSL-IIT cell "Strong (all five)" → "Partial (MQI fallback, [P-Q2](/positions/quantum-interface/#p-q2))" (row 9 → 10) so the table agrees with item 5. The Stapp cell "Strong (four; Tenet 3 qualified)" and the 10-05 qualifications at L86/L141/L159 are untouched.
+- **Residue** (for the sibling P3, which owns that sentence): L161 "CSL-IIT satisfies all five tenets; Stapp's model four" now disagrees with L114/L141 and should read that CSL-IIT satisfies four outright with MQI only on the fallback reading ([P-Q2](/positions/quantum-interface/#p-q2)).
+- **Calibration**: nothing rose; "modelling assumption, not an independent prediction" retained; Georgiev 2015 already in References, no new citation.
+- **Published**: yes (synced)
+
 ## 13:12 - deep-review
 
 - **Status**: Success

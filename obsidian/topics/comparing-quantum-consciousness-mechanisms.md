@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-10-05T21:21:44+00:00
+ai_modified: 2026-10-08T13:23:13+00:00
 last_deep_review: 2026-07-19T03:28:47+00:00
 draft: false
 topics:
@@ -79,7 +79,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 Henry Stapp proposes that consciousness operates through orthodox quantum mechanics. Multiple neural firing patterns exist in superposition; mental effort acts as repeated quantum observation, exploiting the Zeno effect to hold desired patterns stable. No new physics is required — the mechanism uses standard von Neumann quantum mechanics with the observer-system boundary placed within the brain.
 
-**Decoherence vulnerability: Low.** The model requires only discrete observation events, not sustained coherence. Stapp estimates ~1000 observations per 300ms (Stapp 2007), though this is a modelling assumption rather than an independent prediction. Decoherence between observations resets the state without invalidating the mechanism — though Georgiev's Monte Carlo critique (2015) questions re-engagement effectiveness at biological decoherence rates. The 2024 cryptochrome Zeno effect modelling (Denton et al.) provides a biological precedent, though in [[radical-pair-magnetoreception|magnetoreception]] rather than neural decision-making.
+**Decoherence vulnerability: Low (Stapp); contested.** Stapp holds discrete observations, not sustained coherence, suffice: ~1000 per 300ms (Stapp 2007), a modelling assumption, not an independent prediction. Zeno confinement survives mixing, but only inside the short quadratic window before the environment resolves the alternatives; beyond it observation changes nothing (Georgiev 2015). Where brains sit is uncomputed. The 2024 cryptochrome Zeno effect modelling (Denton et al.) provides a biological precedent, though in [[radical-pair-magnetoreception|magnetoreception]] rather than neural decision-making.
 
 **Phenomenological fit: Strong (accommodative).** The model accommodates what attention feels like: sustained effort, continuous re-engagement, fatigue. William James observed that "sustained voluntary attention is a repetition of successive efforts" — precisely the Zeno phenomenology. Willed attention requires conscious observation (high Zeno rate); automatic processes proceed without it. Schwartz's neuroplasticity findings — OCD patients reshaping circuits through directed effort — are consistent with this picture. However, Stapp began with James's phenomenology and identified a quantum mechanism that could be interpreted to match it — this is accommodation of known phenomena, not a novel prediction derived independently from the theory. Classical neuroscience accounts (prefrontal sustained firing, anterior cingulate conflict monitoring, executive resource depletion) explain the same phenomenological features without quantum supplementation.
 
@@ -107,11 +107,11 @@ Matthew Fisher proposes that phosphorus-31 nuclear spins in Posner molecules (Ca
 
 Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousness frameworks (particularly [[integrated-information-theory|Integrated Information Theory]]). Physical collapse operates universally as baseline; consciousness *modulates* collapse parameters based on integrated information structure. In Chalmers and McQueen's formulation, superpositions involving different Q-shapes (IIT qualia space structures) are inherently unstable: collapse rate scales with Q-shape distance between superposed states — though this coupling is postulated, not derived.
 
-**Decoherence vulnerability: Not applicable.** Collapse occurs through modification of the Schrödinger equation itself. Consciousness modulates an already-occurring process — a form of [[post-decoherence-selection]] — sidestepping the decoherence objection entirely.
+**Decoherence vulnerability: Not applicable.** Collapse occurs through modification of the Schrödinger equation itself. Consciousness modulates an already-occurring process — rate modulation, not [[post-decoherence-selection]] — sidestepping the decoherence objection entirely.
 
 **Phenomenological fit: Weak.** If Q-shape distance modulates collapse, consciousness is most effective in highly integrated systems whose superposed states differ structurally. But, like Fisher's proposal, the model provides no account of effortful attention, the willed/automatic distinction, or the temporal grain of experience — it explains *where* consciousness acts without explaining *what it feels like*.
 
-**Tenet alignment: Strong.** Satisfies all five tenets: ontologically distinct consciousness ([[tenets#^dualism|Dualism]]), modulation rather than creation of collapse ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]), causal influence ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]), real collapse ([[tenets#^no-many-worlds|No Many Worlds]]), and necessary complexity ([[tenets#^occams-limits|Occam's Razor Has Limits]]). The prebiotic collapse problem is solved by the physical baseline.
+**Tenet alignment: Partial.** Satisfies four outright: ontologically distinct consciousness ([[tenets#^dualism|Dualism]]), rate modulation only on [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]'s fallback reading (P-Q2), causal influence ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]), real collapse ([[tenets#^no-many-worlds|No Many Worlds]]), and necessary complexity ([[tenets#^occams-limits|Occam's Razor Has Limits]]). The prebiotic collapse problem is solved by the physical baseline.
 
 **Empirical status: Constrained.** The underlying physics makes falsifiable predictions, and parameter space is shrinking. But the consciousness modulation component remains untestable — we cannot yet measure whether Q-shape distance correlates with collapse dynamics.
 
@@ -129,7 +129,7 @@ The Map's relationship to Duch is *convergent-conclusion-opposite-reasoning*: bo
 
 | Criterion | Orch OR | Stapp Zeno | Fisher | CSL-IIT Hybrid |
 |-----------|---------|------------|--------|----------------|
-| Decoherence vulnerability | High (moderate with QBIT) | Low | Very low | N/A |
+| Decoherence vulnerability | High (moderate with QBIT) | Low (Stapp); contested | Very low | N/A |
 | Empirical evidence | Growing, contested | Indirect, consistent | Early stage | Physical part constrained |
 | Falsifiability | Moderate (shrinking space) | Moderate (accommodations classically explicable) | Good | Split (physics yes, consciousness no) |
 
@@ -138,7 +138,7 @@ The Map's relationship to Duch is *convergent-conclusion-opposite-reasoning*: bo
 | Criterion | Orch OR | Stapp Zeno | Fisher | CSL-IIT Hybrid |
 |-----------|---------|------------|--------|----------------|
 | Phenomenological fit | Partial | Strong (accommodative) | Weak | Weak |
-| Tenet alignment | Mixed (MQI conflict) | Strong (four; Tenet 3 qualified) | Partial (dualism unclear) | Strong (all five) |
+| Tenet alignment | Mixed (MQI conflict) | Strong (four; Tenet 3 qualified) | Partial (dualism unclear) | Partial (MQI fallback, P-Q2) |
 
 ## What the Comparison Reveals
 
@@ -177,7 +177,7 @@ The tenet-level "no commitment" lives at Layer 3 and below; the preference lives
 
 The Map's [[tenets]] do not commit to a single mechanism, and this comparison explains why agnosticism is warranted. The [[#the-post-decoherence-gap|post-decoherence gap]] explains where the constraints bite: [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] locates consciousness's causal role at the point where decoherence prepares pointer states but does not select among them — ranking below, not ruling out, proposals requiring macroscopic coherence. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires genuine causation, not mere correlation. [[tenets#^no-many-worlds|No Many Worlds]] requires real collapse.
 
-Within these constraints, the [[#preference-ordering|preference ordering]] above places post-decoherence selection first, with Stapp's Zeno model and consciousness-modulated spontaneous collapse as co-preferred fallbacks — all three [[forward-in-time-conscious-selection|non-retrocausal conscious selection]] frameworks. Tenet compatibility is a philosophical preference, not a scientific verdict. These may be complementary rather than competing: Stapp describes *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides baseline collapse dynamics. The [[coupling-modes]] framework — basis control, timing control, probability control — specifies what integration would require.
+Within these constraints, the [[#preference-ordering|preference ordering]] above places post-decoherence selection first, with Stapp's Zeno model and consciousness-modulated spontaneous collapse as co-preferred fallbacks — all three [[forward-in-time-conscious-selection|non-retrocausal conscious selection]] frameworks. Tenet compatibility is a philosophical preference, not a scientific verdict. They are not simply complementary: Stapp's attentional holding would alter collapse timing, which the Map's ordering assigns to objective reduction (P-Q4). The [[coupling-modes]] framework — basis control, timing control, probability control — specifies what integration would require.
 
 The Map's position: *some* quantum consciousness mechanism exists, constrained by the tenets; the Map prefers the post-decoherence framing on fit. Which one is in fact correct remains genuinely open. The diversity of viable candidate mechanisms also raises the question of [[interface-heterogeneity]]—whether different conscious systems couple through different mechanisms rather than a single universal one.
 
