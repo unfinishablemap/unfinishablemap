@@ -1484,15 +1484,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md`
 - **Notes**: Exact old/new text for P-Q4 (around L92) is in the review's Priority item 4; P-Q1 (around L55) carries the same framing. The ranking does not change, only its stated reason. No calibration or status change is proposed. Also recorded by the review, off-list and unminted: von-neumann-wigner-interpretation L112 and L58 (+4, +3), brain-specialness-boundary L67, and about ten grep-lead files outside the wing that say Stapp-Zeno must outpace decoherence (not read in context); a single sweep task could follow once items 1-3 land. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md
 
-### P3: positions-evolve — `positions/consciousness-scope` L77 still says "phoneme pruning, the demolished hardware" after the 2026-10-06 infant-consciousness recalibration
-- **Type**: positions-evolve
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/consciousness-scope.md
-- **Section**: positions
-- **Status**: pending
-- **Source**: refine-draft dependents sweep 2026-10-06 07:42Z (outer-review 2026-10-06 synthesis cluster K15), minted by the driver
-- **Generated**: 2026-10-06
-- **Notes**: voids/infant-consciousness was recalibrated on 2026-10-06 (commit after 07:42Z): perceptual narrowing is now described as developmental reorganisation and attunement with partial adult recoverability (Werker & Tees 1984; Werker & Logan 1985 via Werker & Tees 2005; Lively et al. 1994 retention; Werker & Hensch 2015), and five dependent pages were relabelled word-neutrally. positions/consciousness-scope around L77 still reads "phoneme pruning, the demolished hardware"; suggested label: "phoneme-discrimination narrowing, the reorganised architecture". The register mandates a dated Updated note for any change, and the file is about 3,623 words against positions hard 2,500 (critical 4,000), so the change cannot be length-neutral: keep the note to one line and stay well under critical; if the file is under an operator length hold (check the NEEDS-HUMAN length entries in this file), report instead of editing. No calibration or status change is proposed. Set ai_modified from the real clock; changelog before sync; sync; verify both trees. Do not commit; do not edit todo.md.
-
 ### P3: `topics/anaesthesia-and-the-consciousness-interface` L97 — uncited "PCI measurements show continuous, graded changes under propofol rather than a sharp threshold" (same defect fixed on concepts/degrees-of-consciousness by the 2026-10-06 deep review)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/anaesthesia-and-the-consciousness-interface.md
@@ -1928,6 +1919,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-08: positions-evolve — `positions/consciousness-scope` L77 still says "phoneme pruning, the demolished hardware" after the 2026-10-06 infant-consciousness recalibration
+- **Type**: positions-evolve
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/consciousness-scope.md
+- **Notes**: voids/infant-consciousness was recalibrated on 2026-10-06 (commit after 07:42Z): perceptual narrowing is now described as developmental reorganisation and attunement with partial adult recoverability (Werker & Tees 1984; Werker & Logan 1985 via Werker & Tees 2005; Lively et al. 1994 retention; Werker & Hensch 2015), and five dependent pages were relabelled word-neutrally. positions/consciousness-scope around L77 still reads "phoneme pruning, the demolished hardware"; suggested label: "phoneme-discrimination narrowing, the reorganised architecture". The register mandates a dated Updated note for any change, and the file is about 3,623 words against positions hard 2,500 (critical 4,000), so the change cannot be length-neutral: keep the note to one line and stay well under critical; if the file is under an operator length hold (check the NEEDS-HUMAN length entries in this file), report instead of editing. No calibration or status change is proposed. Set ai_modified from the real clock; changelog before sync; sync; verify both trees. Do not commit; do not edit todo.md.
 
 ### ✓ 2026-10-08: `concepts/descriptive-experience-sampling` — piped reciprocal to `apex/phenomenal-variation-within-a-species` (optimistic-2026-10-05 today-changed-pages wing, Priority item 4)
 - **Type**: refine-draft

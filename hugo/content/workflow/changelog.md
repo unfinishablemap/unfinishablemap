@@ -10,6 +10,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 15:35 - positions-evolve
+- **Status**: Success (driver inline)
+- **Task**: `positions/consciousness-scope` L77 scope-context label still said "phoneme pruning, the demolished hardware" after the 2026-10-06 `voids/infant-consciousness` recalibration
+- **Changes**: label now "phoneme-discrimination narrowing, the reorganised architecture"; one-line dated Updated note added under the P-CS entry (bands unmoved, no status change). Length hold in todo.md is on `apex/assessing-ai-consciousness-under-the-map`, not this file.
+- **Output**: obsidian/positions/consciousness-scope.md
+
 ## 15:29 - refine-draft
 - **Status**: Success (driver inline, sibling of deep-review-2026-10-08-the-interface-problem finding 1)
 - **Task**: `archive/topics/the-interface-location-problem` L80 — Georgiev/Stapp exchange inverted ("though Stapp contested their model as too simple"): Stapp's "too simple" objection (2012) was to Georgiev's 2012 two-level model; the 2015 Monte Carlo paper was written to answer it (arXiv:1412.4741 refs 22–23, verified by the deep-review fork)

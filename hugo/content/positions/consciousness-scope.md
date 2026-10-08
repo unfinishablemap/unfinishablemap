@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-10-08 07:51:53+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-08 15:35:02+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[minimal-consciousness]]'
@@ -19,7 +19,7 @@ description: 'The Map''s positions on where consciousness reaches in biological 
 draft: false
 human_modified: null
 last_curated: 2026-06-22
-lastmod: 2026-10-08 07:51:53+00:00
+lastmod: 2026-10-08 15:35:02+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -79,9 +79,10 @@ The organising idea is the **minimal-dualism spine**. The Map's [tenet-dependenc
 - **Asserts**: The Map holds that human phenomenal consciousness is most likely present early in development — plausibly by 3–4 months of age and possibly before birth — on the same marker-convergence reasoning that governs the animal case ([P-CS2](/positions/consciousness-scope/#p-cs2)), and that the *capacity* for experience does not wait on language, autobiographical memory, or reportability. The position is a scope claim within the minimal-dualism spine: pre-linguistic and developing brains are admissible bearers of experience under the spine's neutrality premise ([P-CS1](/positions/consciousness-scope/#p-cs1)), and the developmental-neuroscience marker literature (Bayne, Frohlich, Cusack, Moser & Naci 2023, *Trends in Cognitive Sciences*; Passos-Ferreira 2024, *Neuron*) supplies the current empirical constraints the spine should be built on. The Map takes these as *correlate-based current best estimates*, not settled onset facts: the marker method identifies when the relevant correlates appear, onset estimates have moved earlier as the markers have been refined, so the position commits to *early emergence on present evidence* rather than to a specific timestamp. The moderate band reflects genuine and unresolved scientific debate about the exact threshold and about which markers are load-bearing before birth.
 - **Depends on**: [P-CS1](/positions/consciousness-scope/#p-cs1) (substrate-permissive spine); [P-CS2](/positions/consciousness-scope/#p-cs2) (marker-convergence reasoning, shared method); Tenet 1 (bare reading); the infant-marker literature (Bayne et al. 2023; Passos-Ferreira 2024) as current empirical constraint; [evidential-status-discipline](/project/evidential-status-discipline/)
 - **Argued in**: [animal-consciousness](/topics/animal-consciousness/) — its developmental paragraph quotes Bayne et al. 2023 for the onset claim directly
-- **Scope-context in**: [infant-consciousness](/voids/infant-consciousness/) — the void *presupposes* early infant phenomenality ("a conscious being without language, self-concept, or autobiographical memory") and argues its adult *inaccessibility*: autonoetic emergence at four to six, phoneme pruning, the demolished hardware. It carries no marker or onset content, so it bears on what follows from this position, not on the grounds for it.
+- **Scope-context in**: [infant-consciousness](/voids/infant-consciousness/) — the void *presupposes* early infant phenomenality ("a conscious being without language, self-concept, or autobiographical memory") and argues its adult *inaccessibility*: autonoetic emergence at four to six, phoneme-discrimination narrowing, the reorganised architecture. It carries no marker or onset content, so it bears on what follows from this position, not on the grounds for it.
 - **Would shift if**: the developmental marker literature converged on a substantially later onset (which would push emergence toward post-natal or post-linguistic stages); or a marker now treated as evidence of early experience were shown to track non-conscious processing (which would lower confidence and could move the estimate later); or the underlying correlate-vs-constituent reading shifted such that markers were taken to constitute consciousness, which would sharpen the onset claim and could raise confidence.
 - **Updated 2026-09-11**: [infant-consciousness](/voids/infant-consciousness/) re-labelled out of *Argued in* — it presupposes early phenomenality and argues its inaccessibility, not the onset. Bands unmoved.
+- **Updated 2026-10-08**: scope-context label aligned with the 2026-10-06 [infant-consciousness](/voids/infant-consciousness/) recalibration — perceptual narrowing as reorganisation with partial adult recoverability, not demolished hardware. Bands unmoved.
 - **Last reviewed**: 2026-06-22
 
 ## P-CS4: In fragmentation cases the interface is disrupted, not consciousness itself
