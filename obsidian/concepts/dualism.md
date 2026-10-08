@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-08T12:52:21+00:00
+ai_modified: 2026-10-08T14:12:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ related_articles:
   - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-07-19T19:03:13+00:00
@@ -151,7 +151,7 @@ If mind and matter are distinct, how do they relate?
 
 **[[interactionist-dualism|Interactionism]]**: Mind and body causally interact. This is the Map's position, specified in the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
-**[[concepts/epiphenomenalism]]**: Body affects mind, but not vice versa. The Map rejects this as a tenet-level commitment: if consciousness causes nothing, our reports about consciousness lose their causal grounding—the position's [[tenets#^tenet-3-standing|deepest difficulty, though not its refutation]].
+**[[concepts/epiphenomenalism]]**: Body affects mind, but not vice versa. The Map rejects this as a tenet-level commitment: if consciousness causes nothing, our reports about consciousness lose their causal grounding—the position's [[tenets#^tenet-3-epiphenomenalism|deepest difficulty, though not its refutation]].
 
 **Parallelism**: Mind and body run in parallel without causal connection. This faces similar problems to epiphenomenalism.
 

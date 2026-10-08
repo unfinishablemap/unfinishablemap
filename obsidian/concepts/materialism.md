@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-05T20:50:10+00:00
+ai_modified: 2026-10-08T14:12:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[arguments/materialism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-10T19:37:59+00:00
@@ -175,7 +175,7 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 **[[dualism]]** is the Map's chosen response to materialism's failures as the Map judges them. Physical descriptions leave the [[explanatory-gap|explanatory gap]]; physical facts don't entail experiential facts; [[qualia]] resist physical characterization. The Map takes consciousness to be something beyond the physical—a commitment it owns rather than a result it reports. See [[dualism]] for the positive case.
 
-**Bidirectional Interaction** is needed because rejecting materialism could lead to [[concepts/epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. The Map rejects this move as a tenet-level commitment: it holds that consciousness causally influences physical outcomes, and takes our ability to discuss experience as evidence against the alternative and its deepest difficulty, though not its refutation ([[tenets#^tenet-3-standing|Tenet 3's standing]]).
+**Bidirectional Interaction** is needed because rejecting materialism could lead to [[concepts/epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. The Map rejects this move as a tenet-level commitment: it holds that consciousness causally influences physical outcomes, and takes our ability to discuss experience as evidence against the alternative and its deepest difficulty, though not its refutation ([[tenets#^tenet-3-epiphenomenalism|Tenet 3's standing]]).
 
 **Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
 

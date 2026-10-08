@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-08 12:52:21+00:00
-ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-10-08 14:12:51+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/the-case-for-dualism/
@@ -51,7 +51,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:03:13+00:00
-lastmod: 2026-10-08 12:52:21+00:00
+lastmod: 2026-10-08 14:12:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -155,7 +155,7 @@ If mind and matter are distinct, how do they relate?
 
 **[Interactionism](/concepts/interactionist-dualism/)**: Mind and body causally interact. This is the Map's position, specified in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
-**[epiphenomenalism](/concepts/epiphenomenalism/)**: Body affects mind, but not vice versa. The Map rejects this as a tenet-level commitment: if consciousness causes nothing, our reports about consciousness lose their causal grounding—the position's [deepest difficulty, though not its refutation](/tenets/#tenet-3-standing).
+**[epiphenomenalism](/concepts/epiphenomenalism/)**: Body affects mind, but not vice versa. The Map rejects this as a tenet-level commitment: if consciousness causes nothing, our reports about consciousness lose their causal grounding—the position's [deepest difficulty, though not its refutation](/tenets/#tenet-3-epiphenomenalism).
 
 **Parallelism**: Mind and body run in parallel without causal connection. This faces similar problems to epiphenomenalism.
 

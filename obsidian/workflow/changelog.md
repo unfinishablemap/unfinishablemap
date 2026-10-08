@@ -5,6 +5,17 @@ ai_modified: 2026-10-08T13:12:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 14:13 - refine-draft
+- **Status**: Success (driver inline, zero-word)
+- **Task**: anchor repair from pessimistic-2026-10-08-self-stultification-calibration-wing operator note — `tenets.md` "deepest difficulty for epiphenomenalism rather than its refutation" paragraph (L101) had no block anchor, so every epiphenomenalism-charge pipe landed on the mechanism-debt paragraph (`^tenet-3-standing`, L95)
+- **Changes**: added `^tenet-3-epiphenomenalism` to tenets L101; retargeted the four pipes that cite that paragraph — `concepts/dualism` L154, `concepts/materialism` L178, `concepts/delegatory-causation` L49, `concepts/reflexive-methodology` L65 — at zero word cost. The 20+ pipes labelled "Tenet 3's standing" / "available rather than actual" correctly target `^tenet-3-standing` and were left alone. Queued second-sweep task's Notes updated to the new anchor and given the review's Priority 1 carry (delegatory L136/L182, net 0); three P3s minted (reflexive-methodology L93/L73, self-stultification hub L147–149, dualism L154).
+- **Output**: obsidian/tenets/tenets.md, obsidian/concepts/dualism.md, obsidian/concepts/materialism.md, obsidian/concepts/delegatory-causation.md, obsidian/concepts/reflexive-methodology.md, obsidian/workflow/todo.md
+
+## 14:11 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Wing review of the four self-stultification calibration installs of commit f9ec4dcaca (`concepts/dualism` L154, `concepts/reflexive-methodology` L65/L73, `concepts/delegatory-causation` L49, `voids/consciousness-only-territories` L102) against the hubs `concepts/self-stultification`, `topics/self-stultification-as-master-argument` and tenets ^tenet-3-standing. Installs mutually consistent and at tenets grade. Four priority items, all residue one sentence from the repairs: delegatory-causation L136 "eliminates epiphenomenalism" + L182 "cannot" (both net 0; fold into the queued P3 second-sweep task that owns L132 on this 9-word file); reflexive-methodology L93 "establishes the causal efficacy" (+1) and L73 retorsion sentence un-hedged (+14, mirror master-argument L131/L133); hub self-stultification L147-149 "extraordinary coincidence" mischaracterises the bare-correlation reply tenets L100 calls the epiphenomenalist's best (+2, Jackson common-cause attribution flagged for publisher check); dualism L154 hedge-by-assertion (+8, optional). Operator note: ^tenet-3-standing is on the mechanism-debt paragraph (tenets L95), not the "deepest difficulty rather than its refutation" paragraph (L100, unanchored) that five pipes promise. Reports only; no todo.md, article or sync.
+- **Output**: [[reviews/pessimistic-2026-10-08-self-stultification-calibration-wing]]
+
 ## 13:53 - refine-draft
 - **Status**: Success
 - **Task**: `topics/comparing-quantum-consciousness-mechanisms` — pessimistic-2026-10-05 item 4 (L80/L161 Stapp wording) plus the 13:23Z L161 carry
