@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-07T08:05:24.880568'
+ai_modified: '2026-10-08T08:05:46.177027'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-07'
+modified: '2026-10-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-08: Who Explains the Explanatory Gap Better? A Seven-Criterion Scorecard
+
+New article runs dualism against the phenomenal-concepts strategy as rival explanations of the explanatory gap, scored on seven stated criteria. Dualism leads on contrast and reflective stability; physicalism wins the one empirical test. Verdict: a standoff.
+
+**Type**: new-article  
+**Link**: [[rival-explanations-of-the-explanatory-gap]]
+
+---
+
 ### 2026-10-07: Try, Right Now, to Believe America Is Still a Colony
 
 Belief will not take orders: try, right now, to believe the US is still a British colony. And by the time you feel yourself weighing a claim, lab evidence suggests you may already have accepted it. The assent void: becoming convinced leaves no first-person trace.
@@ -190,16 +199,6 @@ Quanta said GRW's original collapse parameters survived 'by a whisker' in 2022. 
 
 **Type**: refinement  
 **Link**: [[philosophical-stakes-of-spontaneous-collapse]]
-
----
-
-### 2026-09-17: Logic Compels. That Still Doesn't Prove Dualism.
-
-Adding a rule to 'if P then Q' never makes you infer Q, and no formal system grounds its own authority. A new synthesis says that blocks reduction—and equally blocks the Map from reading formal limits as proof of a non-physical mind.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2100496861169614889  
-**Link**: [[authority-of-form]]
 
 ---
 
