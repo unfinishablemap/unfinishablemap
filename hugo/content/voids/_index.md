@@ -1,8 +1,8 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-07 08:54:49+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-10-08 01:20:32+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-10-07 08:54:49+00:00
+lastmod: 2026-10-08 01:20:32+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -217,7 +217,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Assent Void](/voids/assent-void/) — Why the moment of taking-as-true is causally central and phenomenally absent: three faces of different modal status (control, conceptual on the dominant view / timing, contested / transparency, structural) meeting on the formation event; upstream of [certainty](/voids/noetic-feelings-void/), laid out like [suspension](/voids/suspension-void/) and [decision](/voids/decision-void/) (created 2026-09-29)
 - [The Handedness Void](/voids/handedness-void/) — The one catalogued void whose boundary has demonstrably moved: Kant's incongruent counterparts and Gardner's Ozma problem were closed by parity violation (Wu et al. 1957) and CP violation (1964), yet the closure terminates in an ostension, so the description-by-concept face stands where Kant left it. The calibration exhibit for what "resolved" fails to mean; sister in form to [vagueness](/voids/vagueness-void/) and [suspension](/voids/suspension-void/), and in content to the [language-thought boundary](/voids/language-thought-boundary/) (created 2026-09-29)
 - [The Preference Void](/voids/preference-void/) — Why a mind cannot read its own preference ordering: three faces (elicitation / retrospective / mark) conjoined at the site the tenets select. Normatively equivalent questions return different orderings (Slovic 1995), choosing may shape what is preferred, and the constructed answer is coherent enough to pass as a read-out, so whether building the ordering is consciousness's contribution or something it receives cannot be told from inside
-- [The Numbing Void](/voids/numbing-void/) — Why felt concern does not scale with the number of sufferers, and why no feeling could: a magnitude face (valuation by feeling "nearly a step function of scope", Hsee & Rottenstreich 2004), an occluded regulation face (feeling for groups damped before it arises, Cameron & Payne 2011) and a structural face (no one undergoes the sum, Lewis 1940). Felt magnitude cannot decide between deficit and tracking readings of the plateau; the Map's additive verdict rests on closed individualism, not on feeling. Psychic numbing toward numbers, distinct from the pharmacological [anesthesia-void](/voids/anesthesia-void/) (created 2026-10-03)
+- [The Numbing Void](/voids/numbing-void/) — Why felt concern does not scale with the number of sufferers, and why no one feels the sum: a magnitude face (valuation by feeling "nearly a step function of scope", Hsee & Rottenstreich 2004), an occluded regulation face (feeling for groups damped before it arises, Cameron & Payne 2011) and a structural face (no one undergoes the sum, Lewis 1940). Felt magnitude cannot decide between deficit and tracking readings of the plateau; the Map's additive verdict rests on closed individualism and its counting rule, not on feeling. Psychic numbing toward numbers, distinct from the pharmacological [anesthesia-void](/voids/anesthesia-void/) (created 2026-10-03)
 
 ### Phenomenology of Limits
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-10-05 07:51:58+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-08 01:20:32+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /voids/defended-territory/
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 13:02:07+00:00
-lastmod: 2026-10-05 07:51:58+00:00
+lastmod: 2026-10-08 01:20:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -93,7 +93,7 @@ Becker argued "consciousness of death is the primary repression," and civilisati
 
 ### Psychological Defence and Information Avoidance
 
-Defence mechanisms—repression, denial, information avoidance—are well-documented. People deliberately avoid freely available information that might be undesirable (Golman, Hagmann & Loewenstein 2017). Wegner's ironic process research reveals that suppressing a thought requires monitoring for it, activating the very concept, so suppressed thoughts rebound. But cognitive aversion differs—the averted thought doesn't rebound but *substitutes*. What if some blocking is so effective the monitoring process never activates the concept at all? Such thoughts wouldn't rebound—they'd never form. That would be invisible suppression: you wouldn't know what you weren't thinking. Feeling shows the pattern: people expecting a large group's needs to overwhelm them damp their feeling for the group before it arises ([numbing-void](/voids/numbing-void/)).
+Defence mechanisms—repression, denial, information avoidance—are well-documented. People deliberately avoid freely available information that might be undesirable (Golman, Hagmann & Loewenstein 2017). Wegner's ironic process research reveals that suppressing a thought requires monitoring for it, activating the very concept, so suppressed thoughts rebound. But cognitive aversion differs—the averted thought doesn't rebound but *substitutes*. What if some blocking is so effective the monitoring process never activates the concept at all? Such thoughts wouldn't rebound—they'd never form. That would be invisible suppression: you wouldn't know what you weren't thinking. Feeling may show the pattern: people expecting a large group's needs to overwhelm them can damp their feeling for the group before it arises ([numbing-void](/voids/numbing-void/)).
 
 ## What Gets Defended
 
