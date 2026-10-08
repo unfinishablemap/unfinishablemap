@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T01:55:09+00:00
+ai_modified: 2026-10-08T04:03:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:03 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected 03:52Z from the 02:09Z commission; `data-talvt-turn-state: complete`; blob-download extraction, 7,143 words, no blocked chunks)
+- **File**: [[reviews/outer-review-2026-10-08-chatgpt-5-6-sol-pro]]
+- **Subject**: `topics/clinical-dissociation-as-systematic-evidence` (recent-aged fallback; the "2026-10-01 substantive modification" in the prompt was a wikilink-only insertion from the `depersonalisation` expand-topic)
+- **Claims verified**: 34 quoted article loci grep-verified live (all present — no fabricated targets); 13 external sources checked at PubMed (Sierra & Berrios 1998 = theoretical model; Phillips 2001 = the n=6 fMRI source, reduced insula AND occipito-temporal; Hassa 2017 = undirected PPI; Voon 2010 Granger significant for happy faces only; Dimitrova 2021, Vissia 2022, Beker 2024, Zheng 2025, Modesti 2022, Campbell 2022, Cui 2026 all real with the stated samples; Anderson & Hanslmayr 2014 real and absent from the reference list; Staniloiu & Markowitsch 2014 is a Review)
+- **High-value findings**: 8 on the target (intact-substrate ladder; Sierra→Phillips attribution; direction language; amnesia recovery overclaim; dangling citation; sedation-not-anaesthesia; Reinders rCBF-as-connectivity gloss; "fully specified" grade words) + 1 sibling (neuro-dissociations L50/L193 uniform-degradation foil) + 1 methodology (absence ladder / source-type labelling)
+- **Partly disputed**: Marsh 2021 ownership objection already handled by the 2026-09-17 refine (L82 "on the meta-memory reading they discuss"); the targeted-lesion discriminator objection misreads the test article, which does state divergent ordering predictions; changelog-traceability complaint is a non-defect
+- **Tasks generated**: 3 (P1: 1, P2: 2) — todo.md L1883 (target article, length-neutral with a named trim list; 4,694/4,000 standing human length decision), L1904 (`neurological-dissociations-as-interface-architecture`), L1916 (`project/evidential-status-discipline`). Not minted: memory-channel ordering downgrade (research-grade; article over hard ceiling), subject-individuation framework, and the remaining methodology items (overlap with five open NEEDS-HUMAN methodology entries)
+- **Sibling legs**: Claude Fable 5.1 pending (commissioned 03:10Z, same subject); Gemini leg not yet commissioned this cycle
 
 ## 03:36 - refine-draft
 - **Status**: Success

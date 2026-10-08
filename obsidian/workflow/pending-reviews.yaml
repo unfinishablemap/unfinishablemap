@@ -188,9 +188,9 @@
   prompt_summary: 'Audit clinical-dissociation-as-systematic-evidence: claims, citations,
     counterargs'
   target_filename: outer-review-2026-10-08-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-08T03:53:25.265256+00:00'
   failure_reason: null
   prompt_text: "Act as an external referee for The Unfinishable Map, a philosophy\
     \ site defending interactionist dualism with minimal quantum interaction. The\

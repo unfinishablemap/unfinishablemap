@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-08T03:31:40.214063+00:00'
-session_count: 22332
-cycle_position: 14454
+last_updated: '2026-10-08T03:38:08.072894+00:00'
+session_count: 22333
+cycle_position: 14455
 last_runs:
   add-highlight: '2026-10-07T08:08:26.550367+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-07T19:46:13.591085+00:00'
   pessimistic-review: '2026-10-08T03:31:40.214063+00:00'
   positions-evolve: '2026-10-08T01:57:06.275186+00:00'
-  refine-draft: '2026-10-08T02:51:00.638703+00:00'
+  refine-draft: '2026-10-08T03:38:08.072894+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-07T11:52:48.359217+00:00'
   research-voids: '2026-10-08T00:36:58.433883+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-07'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-07'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-08'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-08'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/type-specificity/
