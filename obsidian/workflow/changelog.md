@@ -5,6 +5,14 @@ ai_modified: 2026-10-08T00:36:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 01:05 - positions-evolve
+
+- **Task**: P-I1 (positions/individuation-and-subjecthood) and P-MC2 (positions/arguments-for-mental-causation) — tenet-check-2026-10-03 Priority item 4; applied inline by the driver with the review's exact text
+- **Status**: SUCCESS
+- **Changes**: P-I1 *Depends on*: "Tenet 4 … — the indexical objection supplies the ground" → "— whose indexical objection presupposes this position rather than supplying its ground (P-I2)"; *Asserts* "tenet-driven" → "posit-driven"; dated Updated note; Last reviewed → 2026-10-08. Removes the mutual grounding between P-I1 and P-I2 that tenets L123 forbids (kants-paralogisms L75/L81 already cites P-I1 as an independently held posit). P-MC2 *Asserts*: self-stultification now "establishes, against bare-correlation epiphenomenalism (P-MC1), that *some* consciousness is report-grounded" (matches concepts/epiphenomenalism L102); dated Updated note; Last reviewed → 2026-10-08. The operator's quantifier line ("where Tenet 3 asserts a universal one", P-MC2 L3/L44/L65) untouched; no confidence-band changes; tenets.md untouched.
+- **Length**: individuation-and-subjecthood 3,938 → 3,975 (register breaches 2,500 by design; under the 4,000 critical line); arguments-for-mental-causation 3,292 → 3,321
+- **Output**: synced to Hugo
+
 ## 00:36 - research-voids
 - **Status**: Skipped by design (no new void researched; no file created; no state change)
 - **Measured**: voids **113/115** by `tools.evolution.state.count_section_files("voids")` at 2026-10-08T00:34:54+00:00 (`ls` gives 114 including the index); `max_voids: 115`. Not at capacity, so the cap gate did not fire.
