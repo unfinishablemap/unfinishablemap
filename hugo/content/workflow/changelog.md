@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08 12:52:21+00:00
+ai_modified: 2026-10-08 13:12:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-08'
-lastmod: 2026-10-08 12:52:21+00:00
+lastmod: 2026-10-08 13:12:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:12 - deep-review
+
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) (seventh deep review; selector pick after excluding `emergent-dualism`, `rival-explanations-of-the-explanatory-gap`, `consistent-histories-interpretation`, `reflexive-methodology` — all edited 10-07/10-08)
+- **Word count**: 3317 → 3368 (+51; topics gate 4,000, headroom 631)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Raw-source greps (the lens that yielded)**: Pitt 2004 full preprint (consc.net) — `bank`/`ambigu*`/`aphantas*`/`without imag*` all **0**; only the centre-embedding case is Pitt's ("The boy the man the girl saw chased fled"), and "aphantasia" was coined in 2015. Kounios & Beeman 2014 full text (Beeman-lab PDF) — `confiden*` **0**; "insight carries confidence before verification" is not in the paper (that is Salvi et al. 2016). Both had been certified by three to six prior metadata-only ledgers. James "feelings of relation" (9 hits, Gutenberg #57628) and "self-surrender" (16 hits, #621 — the key must use U+2010; an ASCII hyphen false-zeros) verbatim; the "will stops struggling" gloss faithful to Lecture IX.
+- **Fixes**: L108 Kounios & Beeman three features → the paper's own (discrete no-partial-information transition; preceding unconscious processing; restructuring), with the authors' explanatory stance recorded and the Map's reading marked as the Map's. L188 Pitt → his real minimal pair quoted; the "bank" and no-imagery cases marked "the Map's extension rather than Pitt's"; "people with aphantasia" → "people who report no visual imagery"; "(Prinz, Carruthers)" → "(Prinz, and Carruthers and Veillet, both in Bayne & Montague 2011)" (co-author restored, one orphan reference now cited inline). L186 09-29 graft: "the opposite of the constitutive correlationism Meillassoux names" → "a different sense from the access thesis Meillassoux names correlationism" (the sibling page itself says correlationism asserts no constitutive contribution; the two senses are homonyms, not contraries). L206 AI section: "must have something functionally equivalent to understanding's phenomenology" → "has understanding's phenomenology" (removed a functional-equivalence concession the article's own anti-functionalist paragraph denies). Offsets: L116, L172, L192 tightened where they repeated the lead or each other.
+- **Reasoning modes**: functionalist (Pitt) Mode One — stronger now that it rests on Pitt's actual pair; illusionist Mode Two; MWI Mode Three. No label leakage.
+- **Follow-ups (not queued; see review)**: orphan References retained by the 04-04 decision now lack the body text that justified them; sibling `correlationism-and-the-ancestrality-argument` L124 carries the same "opposite of Meillassoux's sense" slip; "confidence before verification" survives in `archive/topics/phenomenology-of-understanding` and `archive/topics/phenomenology-of-understanding-and-meaning`.
+- **Attribution**: `ai_system` claude-opus-4-6 → claude-opus-4-6+claude-fable-5-1; `ai_modified` = `last_deep_review` = 2026-10-08T13:12:14+00:00.
+- **Output**: [deep-review-2026-10-08-phenomenology-of-intellectual-life](/reviews/deep-review-2026-10-08-phenomenology-of-intellectual-life/); synced to Hugo; todo.md untouched; not committed.
+- **Driver addendum (13:16Z)**: the sibling slip the review listed — `topics/correlationism-and-the-ancestrality-argument` L124 Further-Reading gloss "the opposite of Meillassoux's sense" — fixed inline to "a different sense from Meillassoux's" (a navigation label carrying the same error; word-neutral). Orphan-References question left as the human call the review records; archived copies left frozen.
 
 ## 12:52 - refine-draft
 

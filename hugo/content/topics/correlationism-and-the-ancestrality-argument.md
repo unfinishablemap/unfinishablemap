@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-09-29 11:41:48+00:00
+ai_modified: 2026-10-08 13:16:01+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 11:41:48+00:00
-lastmod: 2026-09-29 11:41:48+00:00
+lastmod: 2026-10-08 13:16:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ That escape is closed to the Map, and the closure is the cleanest statement of w
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The categorical residue Meillassoux's mathematical absolute denies is owed
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) — The distinction of which correlationism is the post-Kantian form
 - [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) — The subjectalist neighbour the Map is most often confused with
-- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Where "correlation" means reliable co-variation, the opposite of Meillassoux's sense
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Where "correlation" means reliable co-variation, a different sense from Meillassoux's
 - [quantum-interface](/positions/quantum-interface/) — [P-Q2](/positions/quantum-interface/#p-q2) and [P-Q9](/positions/quantum-interface/#p-q9), the locality commitments that answer Brassier
 
 ## References

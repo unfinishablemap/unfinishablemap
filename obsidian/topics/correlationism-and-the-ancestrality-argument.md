@@ -4,7 +4,7 @@ description: "Human-AI inquiry placing minimal-quantum-interaction dualism on Me
 created: 2026-09-29
 modified: 2026-09-29
 human_modified:
-ai_modified: 2026-09-29T11:41:48+00:00
+ai_modified: 2026-10-08T13:16:01+00:00
 draft: false
 topics:
   - "[[constitutive-exclusion]]"
@@ -121,7 +121,7 @@ That escape is closed to the Map, and the closure is the cleanest statement of w
 - [[intrinsic-nature-void]] — The categorical residue Meillassoux's mathematical absolute denies is owed
 - [[the-subject-object-distinction-as-philosophical-discovery]] — The distinction of which correlationism is the post-Kantian form
 - [[analytic-idealism-and-mind-centric-metaphysics]] — The subjectalist neighbour the Map is most often confused with
-- [[phenomenology-of-intellectual-life]] — Where "correlation" means reliable co-variation, the opposite of Meillassoux's sense
+- [[phenomenology-of-intellectual-life]] — Where "correlation" means reliable co-variation, a different sense from Meillassoux's
 - [[positions/quantum-interface]] — P-Q2 and P-Q9, the locality commitments that answer Brassier
 
 ## References
