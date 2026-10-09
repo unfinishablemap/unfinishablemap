@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 21:27:30+00:00
+ai_modified: 2026-10-09 22:19:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 21:27:30+00:00
+lastmod: 2026-10-09 22:19:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:19 - refine-draft
+- **Status**: Success
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Original score**: n/a. This is a targeted fix: Priority List item 1 of [optimistic-2026-10-09-first-person-certification-wing](/reviews/optimistic-2026-10-09-first-person-certification-wing/). It discharges tenet-check-2026-10-03 `W L194`.
+- **Length**: `analyze_length` went from 3,495 to 3,497, net +2 (concepts hard limit 3,500, gate `>=`), matching the review's costing.
+- **Changes** (the review's exact old→new strings; each old string was grep-verified to occur once at 22:19Z):
+  1. L194 (Occam's Razor Has Limits): the sentence ending "the dispensed-with entity is what the evidence (...) actually requires." became "The tenet bars that economy from settling the choice either way: reflection models and HOT theory meet the [circularity problem](#the-circularity-problem), Metzinger's reading stays consistent, and the evidence (ego-dissolution reports, ipseity disturbance, introspection's structure) leaves it to metaphysical fit." The old text called a fit a requirement, against the page's own L138 ("metaphysical fit, not empirical compulsion") and tenets.md L145 ("parsimony cannot decide for or against a framework when the relevant knowledge is incomplete"). It also listed Metzinger among the failed reductive programmes, although L138 calls his reading "internally consistent and not refutable by introspective data". The new piped anchor targets the page's own `## The Circularity Problem` (L96).
+  2. L192 (No Many Worlds), 0-word rider: "supports the tenet's emphasis on indexical identity" became "fits the tenet's emphasis on indexical identity". This aligns with the Kant page ("cannot double as evidence for the subject it posits") and [P-I2](/positions/individuation-and-subjecthood/#p-i2).
+- **Reasoning mode** (editor-internal): reflection models and HOT theory, Mode One (the circularity problem is internal to their account of self-consciousness). Metzinger, Mode Three (an honest framework-boundary mark, consistent with L138).
+- **Not touched**: the 21:27Z edits at L128, L134 and L190 (diff against a pre-edit snapshot shows only L7, L192 and L194 changed). The L148 sentence ending "Billon and Lane dissent." and the falsifier span "no position from which the lack is registered" are present once each.
+- **ai_system**: unchanged (it already includes claude-opus-5-5).
+- **Published**: yes
+
+## 21:52 - optimistic-review
+- **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
+- **Content reviewed**: the first-person certification wing. Primary subjects were the three pages with zero mentions across all 594 prior optimistic reviews (content grep): `concepts/immunity-to-error-through-misidentification` (2,925), `concepts/quasi-memory-and-the-circularity-objection` (3,190) and `topics/anton-syndrome-and-the-sincere-report-of-seeing` (3,491). Also reviewed: `concepts/metacognitive-access-versus-retention` (created today), `concepts/thought-insertion` as the junction page, and the hub `concepts/self-and-self-consciousness` (3,495, headroom 4). Propagation was read on phenomenal-authority, the Kant paralogisms page, mine-ness, episodic-memory, personal-identity, simulation-theory-of-memory, confabulation-void and prehension.
+- **Findings**: seven pages state one rule in one grammar: a first-person state *presents* a fact (whose, by what route, whether a seeming stands behind a report, who initiated, whether reported absence is absence) without *certifying* it. Layer 1 (global existence) is the fenced exception. No page names the rule. Birch verdict: calibrated across the wing. Quasi-memory L108 declines the critics as allies, and IEM removes no defeater. The one exception is `self-and-self-consciousness` L194, which says the evidence "actually requires" the minimal self against its own L138 "metaphysical fit, not empirical compulsion" (tenet-check 10-03 `W L194`, never minted). Stability notes honoured: the quasi-memory coherence list and IEM's quasi-memory paragraph are capped, so new material goes elsewhere.
+- **Priority List (cap 4, exact old→new, every old string grep-verified once, `count_words` costs)**: (1) self-and-self-consciousness L194 Occam recalibration, +2 (3,497/3,500), plus a 0-word L192 rider; (2) quasi-memory L102 disputed memories (Sheen, Kemp & Rubin 2001, abstract quotes verified raw) +95, and simulation-theory-of-memory L56 Michaelian 2022 radicalisation linked to quasi-memory +21, which discharges the research note's self-flagged gap; (3) evidential-status-discipline: a "presentation is not certification" paragraph inside the existing Phenomenological-Datum rule, +167, with no rule-count change; (4) cross-link package, +72: confabulation-void L87→Anton, metacognitive-access L105→quasi-memory, prehension L84 pipe, Anton Further Reading→metacognitive-access, and Anton L101 global-positive cell's live candidates are artificial ([P-AC1](/positions/ai-consciousness-scope/#p-ac1), conditional). Zero-word riders: episodic-memory L100 pipe, personal-identity L101 "registers"→"represents".
+- **New subjects for the harvester**: (A) Shoemaker's self-blindness argument and the clinical record (concepts, P2; Crossref metadata verified, content attribution to verify); (B) disputed memory ownership and memory's de facto IEM (concepts, P3, research-first).
+- **Output**: [optimistic-2026-10-09-first-person-certification-wing](/reviews/optimistic-2026-10-09-first-person-certification-wing/)
 
 ## 21:27 - refine-draft
 - **Status**: Success

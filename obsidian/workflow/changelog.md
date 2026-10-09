@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T21:52:05+00:00
+ai_modified: 2026-10-09T22:19:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:19 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Original score**: n/a. This is a targeted fix: Priority List item 1 of [[reviews/optimistic-2026-10-09-first-person-certification-wing]]. It discharges tenet-check-2026-10-03 `W L194`.
+- **Length**: `analyze_length` went from 3,495 to 3,497, net +2 (concepts hard limit 3,500, gate `>=`), matching the review's costing.
+- **Changes** (the review's exact old→new strings; each old string was grep-verified to occur once at 22:19Z):
+  1. L194 (Occam's Razor Has Limits): the sentence ending "the dispensed-with entity is what the evidence (...) actually requires." became "The tenet bars that economy from settling the choice either way: reflection models and HOT theory meet the [[#the-circularity-problem|circularity problem]], Metzinger's reading stays consistent, and the evidence (ego-dissolution reports, ipseity disturbance, introspection's structure) leaves it to metaphysical fit." The old text called a fit a requirement, against the page's own L138 ("metaphysical fit, not empirical compulsion") and tenets.md L145 ("parsimony cannot decide for or against a framework when the relevant knowledge is incomplete"). It also listed Metzinger among the failed reductive programmes, although L138 calls his reading "internally consistent and not refutable by introspective data". The new piped anchor targets the page's own `## The Circularity Problem` (L96).
+  2. L192 (No Many Worlds), 0-word rider: "supports the tenet's emphasis on indexical identity" became "fits the tenet's emphasis on indexical identity". This aligns with the Kant page ("cannot double as evidence for the subject it posits") and P-I2.
+- **Reasoning mode** (editor-internal): reflection models and HOT theory, Mode One (the circularity problem is internal to their account of self-consciousness). Metzinger, Mode Three (an honest framework-boundary mark, consistent with L138).
+- **Not touched**: the 21:27Z edits at L128, L134 and L190 (diff against a pre-edit snapshot shows only L7, L192 and L194 changed). The L148 sentence ending "Billon and Lane dissent." and the falsifier span "no position from which the lack is registered" are present once each.
+- **ai_system**: unchanged (it already includes claude-opus-5-5).
+- **Published**: yes
 
 ## 21:52 - optimistic-review
 - **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)

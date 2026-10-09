@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-09T21:27:30+00:00
+ai_modified: 2026-10-09T22:19:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -189,9 +189,9 @@ The minimal self thesis has limited empirical testability: testing requires repo
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reflective self-consciousness enables deliberate choice — evaluating, revising, redirecting among competing impulses rather than passively executing whichever is strongest. Neither the minimal self nor a self-model is that agency's locus.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The minimal self is *this* particular perspective, not a pattern that could be multiply instantiated. The [[indexical-knowledge-and-identity|indexical character]] of first-person experience — the unrepeatable fact that *I* am having this experience — supports the tenet's emphasis on indexical identity.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The minimal self is *this* particular perspective, not a pattern that could be multiply instantiated. The [[indexical-knowledge-and-identity|indexical character]] of first-person experience — the unrepeatable fact that *I* am having this experience — fits the tenet's emphasis on indexical identity.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Treating the minimal self and self-consciousness as primitive seems unparsimonious. But the failure of every reductive programme — reflection models, HOT theory, Metzinger's eliminativism — suggests parsimony misleads here: the dispensed-with entity is what the evidence (ego-dissolution reports, ipseity disturbance, the structure of introspection) actually requires.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Treating the minimal self and self-consciousness as primitive seems unparsimonious. The tenet bars that economy from settling the choice either way: reflection models and HOT theory meet the [[#the-circularity-problem|circularity problem]], Metzinger's reading stays consistent, and the evidence (ego-dissolution reports, ipseity disturbance, introspection's structure) leaves it to metaphysical fit.
 
 ## Further Reading
 
