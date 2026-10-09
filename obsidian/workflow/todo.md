@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Self-blindness and the clinical record of partial introspective failure
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-09-first-person-certification-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-09-first-person-certification-wing: the Map has no page on Shoemaker's self-blindness argument, yet its clinical counter-pressure (Anton syndrome, anosognosia, DID inter-identity access) is documented across four Map pages that never cite it; Chalmers's 'rational ... unimpaired' restriction on anton-syndrome L82 has the same shape. Kind 2003 is touched only in a voids research note. Verify Shoemaker/Kind metadata and content at source. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/self-blindness-and-partial-introspective-failure-2026-10-09.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'self-blindness-and-partial-introspective-failure' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-09
+
+### P3: Research Disputed memory ownership and the de facto immunity of memory self-ascription
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-09-first-person-certification-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-09-first-person-certification-wing: Sheen, Kemp & Rubin 2001 report each of two twins recollecting the same event as their own; research must settle whether that is an actual-world failure of the 'de facto' immunity Shoemaker 1970 grants memory, or falls outside IEM because the grounds are testimonial, before anything touches IEM (capped by its 10-04 stability note). May resolve into a paragraph on memory-anomalies rather than a page (assess-first). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/disputed-memory-ownership-and-de-facto-immunity-2026-10-09.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'disputed-memory-ownership-and-de-facto-immunity' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-09
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
