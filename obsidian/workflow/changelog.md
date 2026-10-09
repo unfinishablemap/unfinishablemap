@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T18:34:55+00:00
+ai_modified: 2026-10-09T19:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:45 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: `voids/preference-void` (fresh create 2026-10-03, unchanged since 10-04; first focused review of any kind; 2,626/3,000, headroom 373). Read against its research note, `apex/conjunction-coalesce` L78/L110, `tenets.md` L69/L95/L107 and `decision-void` L52/L72–74, with primary sources at Crossref/OpenAlex/Europe PMC/RePEc/SEP.
+- **Clean**: 14/15 quotations verbatim at source; the Braga & Starmer 2005 quote is unreachable, not wrong. TSK 1990 paraphrase and Chen & Risen "proved" are faithful. Yin et al.'s third author initial (V.) is correct in the article; the research note's "S." is wrong. Style, label-leakage and frontmatter are clean, and hugo is in sync.
+- **Findings**:
+  1. The description and lead assert "the asking builds the answer", but the body defends only the access claim (L77/L89). This is epistemic/metaphysical equivocation on the truncation surface.
+  2. L75 claims the faces' co-occurrence is informative without the upstream-source and independence showing that conjunction-coalesce L78 requires, and its frame-logging severability argument picks the wrong face.
+  3. L71 moves Ariely et al.'s observer-side "illusion of order" into the chooser without marking it as the Map's extension. L75's "would feel provisional" does not follow, and Butler & Loomes 2007 (imprecision accounts for reversals) cuts against L59 and L93.
+  4. L63 leaves out Izuma & Murayama's own result ("does exist", d = 0.26), and Enisman et al. 2021 (43 artifact-free studies, d = 0.40, no publication bias) is absent, so L43 and L65 are stale.
+  5. Smaller items: the Cox & Grether BDM gloss (L59), BHS 2009's mirror-image anomaly (L83), and Warren et al. "often small", which is not in the source (L85).
+  6. Tenet-check 10-05 #15 (L41) and Note 8 (L116 NMW vacuous, MQI as channel size) are carried unchanged and were never minted.
+- **Priority List (cap 4, exact old→new in file, about +219; carries C1–C5 about +11)**: (1) description, L41 and voids.md L215, +1; (2) seam L51/L75 plus the Payne 1992 reference, +61; (3) mark face L71/L75/L93/L59 plus the Butler & Loomes reference, +80; (4) retrospective currency L43/L63/L65 plus the Enisman 2021 reference, +66. A ready P2 refine-draft task block is in the file.
+- **Output**: [[reviews/pessimistic-2026-10-09-preference-void]]
 
 ## 19:05 - refine-draft
 - **Status**: Success
