@@ -5,6 +5,16 @@ ai_modified: 2026-10-08T15:28:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 11:51 - research-topic
+- **Status**: Success
+- **Topic**: Cross-conditional stability of the autonoetic-first vulnerability ordering (harvested from optimistic-2026-10-08-clinical-dissociation-wing Expansion 5; ChatGPT outer-review items 29/32–33; synthesis cluster 10)
+- **Output**: [[research/autonoetic-first-vulnerability-ordering-2026-10-09]]
+- **Sources consulted**: 36 cited; every DOI resolved at Crossref; abstracts read raw from PubMed or Europe PMC; Tulving 2002 read in the Annual Reviews PDF (vulnerability sentence is on p. 5, not in the abstract); Wheeler, Stuss & Tulving 1997 read in the Rotman PDF; Ribot 1882 read in the Internet Archive full text (p. 203); all quotations grep-verified
+- **Verdict**: "episodic recollection is the most fragile memory capacity" is established, with exceptions (Tulving 2002 p. 5; Markowitsch & Staniloiu 2023; Curran 1993; Bisby 2010). The noetic-before-anoetic step is contested. The fixed five-condition ordering is the Map's own conjecture: no cross-condition review was found, hemispherectomy has no tier data, terminal lucidity has no channel-order data, and the dissociative rows track self-relatedness. The three-tier order's antecedent is Ribot's 1881 law of regression, whose inverse-order recovery corollary is the symmetric prediction the Map's recovery-asymmetry argument denies
+- **Key finds**: a third asserting page (`consciousness-disruption-and-the-mind-brain-interface` L138) attributes the ordering to Tulving; `discrimination-problem` L86 says "semantic-last" (should be anoetic) and lists "dementia"; "autonoetic" carries four senses across the memory-channel table (encoding, autobiographical retrieval, ownership, recognition); memory-channel L69 vs L112 disagree on whether content is internal to the autonoetic mode; memory-channel L122 and targeted-lesion L80 disagree on what the filter reading predicts for semantic dementia
+- **Assess-first**: standalone concepts/ article DECLINED (it would duplicate memory-channel-interface-evidence). The note gives length-neutral refine-draft replacements: memory-channel net 0, clinical-dissociation L68 net 0 (NEEDS-HUMAN item (15) no longer needs the ceiling decision), consciousness-disruption +16 of 80 headroom, discrimination-problem −1, two dependents at 0. Every OLD string was confirmed unique in the live file
+- **Chain**: no `task_chains.pending_articles` entry added (article declined); todo.md untouched; nothing committed
+
 ## 16:17 - refine-draft
 - **Status**: Success (driver inline)
 - **Task**: `topics/neurological-dissociations-as-interface-architecture` L171 — unconsciousness / disconnected / connected consciousness taxonomy credited to "Mashour and colleagues" with no reference (optimistic-2026-10-08-clinical-dissociation-wing item 6)
