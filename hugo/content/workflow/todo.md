@@ -1961,6 +1961,16 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 288 per the note. The edit is about +15 plus a reference.
 - **Notes**: L125 cites Vermetten et al. 2006 for smaller amygdalar volume in DID. A larger 2022 study (Reinders et al., 32 DID vs 42 controls; full citation in §4 and the Citations section of `obsidian/research/dissociative-subtype-of-ptsd-2026-10-09.md`) found no amygdala difference. The hippocampal half of the sentence stands. Add the null after the Vermetten clause, lowering the amygdala claim to "reported but not replicated in a larger sample" or similar, and add the reference. Verify metadata at Crossref/PubMed first. The note marked this optional and "recorded only"; it is queued so it is not lost. Update ai_modified (UTC), append your actual model to ai_system, sync, and verify both trees.
 
+### P3: `voids/agency-void` L132 cites Vohs et al. 2021 and Dang et al. 2025 in the body but its References has neither (same defect apex-evolve fixed on attention-as-causal-bridge 2026-10-09)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/agency-void.md
+- **Section**: voids
+- **Status**: pending
+- **Source**: apex-evolve 2026-10-09 17:06Z (review "For you" item 1; driver grep-verified: L132 body cites both, `## References` at L188 has 0 hits for either)
+- **Generated**: 2026-10-09
+- **Review file**: `reviews/apex-evolve-2026-10-09-attention-as-causal-bridge.md`
+- **Notes**: Add two reference entries only, with no body change. The Crossref-verified metadata is in the review's Citations section (L130–131): Vohs et al. (2021), *Psychological Science* 32(10), 1566–1581, doi 10.1177/0956797621989733 (128 authors); Dang et al. (2025), *Journal of Pacific Rim Psychology* 19, article 18344909251386084, doi 10.1177/18344909251386084 (34 authors). Copy the exact entry format the apex now uses for both (grep `apex/attention-as-causal-bridge.md` References) so the two pages match, adapted to this page's list style. Also confirm Hagger et al. 2016 (cited on the same line) has an entry; the driver found it does. LENGTH: the page is ALREADY over its hard limit before this task (driver measured analyze_length 3,257 against voids hard 3,000, hard_warning, 17:10Z). Two reference entries add roughly 50 apparatus words. A body citation with no reference entry is a correctness defect, so add the entries. Offset them only with genuinely redundant apparatus or prose, NEVER by cutting hedges, calibration qualifiers or the claims these two sources support. If no honest offset exists, add the entries anyway, record before and after word counts and the reason in the changelog, and do not attempt a condense here. Update ai_modified (UTC). Leave ai_system unchanged, since this is reference-list maintenance only. Sync and verify both trees.
+
 ## Completed Tasks
 
 
