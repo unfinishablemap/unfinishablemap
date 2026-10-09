@@ -1,14 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 13:20:40+00:00
+ai_modified: 2026-10-09 14:27:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 13:20:40+00:00
+lastmod: 2026-10-09 14:27:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:27 - deep-review
+- **Status**: Success
+- **File**: [rival-explanations-of-the-explanatory-gap](/concepts/rival-explanations-of-the-explanatory-gap/)
+- **Word count**: 3,006 → 3,046 (+40; soft_warning before and after, under the 3,500 hard limit; length-neutral offsets −21)
+- **Critical issues addressed**: 4. (1) C3 over-conceded to Type-B. Chalmers 2018 pp. 36–38 presses the meta-problem challenge on biological and other physicalist theories ("will share our intuitions", p. 37), and the article's p. 42 quotation had dropped "(or even on a biological or quantum picture)". The quotation is restored, the Type-B sentence is calibrated, and C3 still favours Type-B. C1 and Relation/Dualism "without remainder" were aligned. (2) Kammerer's conclusion was overstated: he points physicalists to the two families "as well as to other potential alternatives" (ms. p. 22). (3) "the most typical example" is ms. p. 7, not p. 8. (4) Kammerer's family ordinals were reversed.
+- **Medium issues addressed**: 1. L105 "the commonest of them" became Kammerer's own "quite mainstream" (ms. p. 7).
+- **Enhancements made**: 3 (the three trims).
+- **Citation web-verify**: 15 external references, every quotation grepped against the raw source with page labels (Chalmers 2007/2018, Papineau 2011, Kammerer ms., Fazekas draft), Crossref metadata for all 13 DOIs, and Díaz 2021 pages from the Bern repository. 0 fabricated; 2 pin/fidelity defects fixed.
+- **Engagement**: Papineau/fallacy accounts (C2, C6): Mode One, since over-generation is Papineau's own test and reflective stability is in-framework psychology. PCS (C5, C7): Mode Two with Mode Three residue; "this feature … will be doing the explanatory work" names the unearned move, and the tier is held. Type-B on C3: concession, now calibrated to the criterion-author's own terms.
+- **ai_system**: left at `claude-fable-5-1+claude-fable-5-1` (minor fixes).
+- **Output**: [deep-review-2026-10-09-rival-explanations-of-the-explanatory-gap](/reviews/deep-review-2026-10-09-rival-explanations-of-the-explanatory-gap/)
+
+## 14:08 - research-topic
+- **Status**: Success
+- **Topic**: The dissociative subtype of PTSD and the overmodulation model (harvested from the 2026-10-08 optimistic review of the clinical-dissociation wing, items 2–3)
+- **Output**: [dissociative-subtype-of-ptsd-2026-10-09](/research/dissociative-subtype-of-ptsd-2026-10-09/)
+- **Sources consulted**: 56 cited: 6 read in full text or as a verbatim passage, 45 by abstract, 2 by metadata, 2 by title, and DSM-5 through two transcriptions. All metadata was checked at PubMed, Crossref or OpenAlex.
+- **Verdict**: recommends expand-topic `concepts/dissociative-subtype-of-ptsd` (concepts 349/360). No section host is viable: `concepts/depersonalisation` has 1 word of headroom and the flagship is OVER. The page's verdict runs against the Map: the overmodulation and defence-cascade account is the worked form of the flagship's "affective-salience physicalism" and takes the trauma-selectivity point off the interface reading (constrains, does not establish). The specifier has held as a latent class. The 2010 mechanism is weaker: no reliable autonomic signature, regions vary, resting-state profile is hyperconnectivity, and treatment moderation is null.
+- **Trauma confound**: every DID patient in Dimitrova et al. 2023 had current or remitted PTSD, and the controls were trauma-free (verified in the full text). PTSD-only patients also show smaller hippocampi, and DA/DID patients without PTSD did not. The group-level rung stands; DID-specificity is not established. A standalone +~45-word qualifier is proposed for `concepts/metacognitive-access-versus-retention` L131, with no contradiction of that page.
+- **Todo**: none written (orchestrator marks the task).
 
 ## 13:34 - refine-draft
 - **Status**: Success
