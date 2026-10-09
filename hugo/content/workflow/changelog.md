@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 22:56:53+00:00
+ai_modified: 2026-10-09 23:04:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 22:56:53+00:00
+lastmod: 2026-10-09 23:04:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 23:04 - refine-draft
+- **Status**: Success
+- **File**: [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/)
+- **Original score**: n/a (targeted single-locus fix; `scripts/curate.py` absent)
+- **Review**: [optimistic-2026-10-07-type-b-sweep-wing](/reviews/optimistic-2026-10-07-type-b-sweep-wing/), Priority List item 3.
+- **Changes**: L112 bullet "Future progress in Type-B's mouth." — old text confirmed to occur exactly once; appended the review's two sentences verbatim: the futurity error "also occurs as a definition" (a sentence in which Type-B "hopes", "expects" or "does not yet grasp" the identity, or in which one "physicalist reading" is at once merely epistemic and closeable, has given Type-B Type-C's content), and "The tell is tense; Type-B expects nothing of the gap." The inner quotation marks are scare quotes on the Map's own former wording, not citations. Grounds: the four definitional loci repaired on 10-06/07 (parsimony-epistemology L90, modal-structure L83, reductionism L152, epistemology L57). No other line touched; the Stoljar P3 (L123) and the rival-explanations expand-topic's integration loci (L38/L92/L122/L128) left for their own tasks. No new wikilinks. Calibration unchanged: the Map's tier against Type-B stays *compatible*; the bullet is a routing diagnostic, not a refutation.
+- **Length**: `analyze_length` 2,864 → 2,913 (+49, matching the review's +49); concepts hard 3,500, headroom 586; status soft_warning (unchanged).
+- **Published**: yes
 
 ## 22:55 - deep-review
 - **Status**: Success

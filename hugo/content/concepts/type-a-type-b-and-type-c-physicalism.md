@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-02
-ai_modified: 2026-10-07 23:14:31+00:00
+ai_modified: 2026-10-09 23:04:27+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[russellian-monism]]'
 - '[[parsimony-epistemology]]'
 created: 2026-10-02
-date: &id001 2026-10-07
+date: &id001 2026-10-09
 description: 'Chalmers''s three physicalist replies to the explanatory gap, routed
   to the Map arguments that actually reach each: Type-B is the live opponent and Type-C
   collapses.'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 12:15:57+00:00
-lastmod: 2026-10-07 23:14:31+00:00
+lastmod: 2026-10-09 23:04:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ Type-B has answers of its own. To the cost argument it replies, in the same entr
 Five patterns recur in which a reply or a view is routed to the wrong type.
 
 - **Persistence counted against physicalism as such.** Type-B predicts that the gap will persist; only Type-C expects it to close. [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) states the point correctly: persistence decides nothing between dualism and Type-B.
-- **Future progress in Type-B's mouth.** The promise of eventual closure belongs to Type-C. Type-B locates the gap in the permanent distinctness of phenomenal and physical concepts, so a promissory-note reply aimed at Type-B misses.
+- **Future progress in Type-B's mouth.** The promise of eventual closure belongs to Type-C. Type-B locates the gap in the permanent distinctness of phenomenal and physical concepts, so a promissory-note reply aimed at Type-B misses. The error also occurs as a definition: a sentence in which Type-B "hopes", "expects" or "does not yet grasp" the identity, or in which one "physicalist reading" is at once merely epistemic and closeable, has given Type-B Type-C's content. The tell is tense; Type-B expects nothing of the gap.
 - **The Type-B defence aimed at the master argument.** Denying that conceivability entails possibility answers the zombie argument; it leaves untouched an argument that assumes nothing about that link.
 - **Illusionism given the Type-B formula.** Strong illusionism denies the gap and is Type-A; granting the gap while denying its metaphysical weight describes at most the lower-order variety of weak illusionism.
 - **Zombie possibility without dualism filed as physicalism.** Granting that zombies are possible while denying that this refutes physicalism rejects the conceivability argument's third premise, the exit Chalmers's two-dimensional argument leaves to type-F monism, one of his nonreductive views.
