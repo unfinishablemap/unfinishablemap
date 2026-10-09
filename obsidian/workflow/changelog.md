@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T18:29:00+00:00
+ai_modified: 2026-10-09T18:34:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:34 - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-internal-born-rule-testing]]
+- **Original score**: n/a (targeted fix; optimistic-2026-10-06-formal-limits-and-channel-class-wing, Expansion Opportunity 3)
+- **Changes**: replaced the L66 Class-1 span ("The mind sees the prior distribution…" through "…the no-signalling constraint forbids.") with the review's exact L99 text. The quoted current text was grep-verified to occur exactly once before the swap. The stranded "is satisfied trivially" now reads "is satisfied, no-signalling only on the strong per-context reading argued in [[selection-only-channel|selection-only channel]]". This matches selection-only-channel L76/L127, which grades no-signalling as framework-internal rather than by construction, and the 18:52Z (10-06) deep review that removed the same claim from channel-class-taxonomy. The fix-by-file string sibling is now closed, with 0 "trivially" left on the page. The review's other substitutions were also applied: "that physics specifies" was dropped, "that an observer could read off" became "readable off", and "a signalling channel the no-signalling constraint forbids" became "a forbidden signalling channel". The new link is piped and is the page's 4th `selection-only-channel` occurrence (zero-word pipe kept per brief). Nothing else on the page was changed. The L106 "Honest assessment" paragraph was already hedged and was left alone.
+- **Length**: 3,996 → 3,996, net 0 (`analyze_length`; topics hard 4,000, gate `>=`; headroom 3). The review priced the edit at −1, and the pipe's two-word display text adds back that one word.
+- **Engagement classification**: none (no named-opponent reply touched; Han and Choi 2016 sentence unchanged).
+- **Published**: yes
 
 ## 18:29 - deep-review
 - **Status**: Success

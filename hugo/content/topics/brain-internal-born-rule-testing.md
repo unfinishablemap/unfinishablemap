@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-09-30 11:26:23+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-09 18:34:36+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[selection-only-channel]]'
@@ -30,7 +30,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:03:20+00:00
-lastmod: 2026-09-30 11:26:23+00:00
+lastmod: 2026-10-09 18:34:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ Making the corridor empirically superfluous requires more than a single null res
 
 ## What the Corridor Is
 
-The corridor reading holds that consciousness selects which definite outcome emerges from the post-decoherence mixture without redistributing probability mass over alternatives — single-event selection without ensemble signature. It is the strictest reading of Tenet 2 in the [channel-class taxonomy](/concepts/channel-class-taxonomy/): Class 1, the [selection-only channel](/concepts/selection-only-channel/). The mind sees the prior distribution {p₁, …, p_N} that physics specifies, picks among the alternatives, and long-run frequency converges to the Born distribution exactly. The five-constraint corridor — conservation, no-signalling, second-order interference preservation, decoherence consistency, and Born compliance — is satisfied trivially. The trade-off is severe: Han and Choi (2016) derive the Born rule from a strengthened relativistic-causality condition, and on their condition probability assignments that deviate from the Born rule would enable superluminal signalling. A strictly Born-compliant selection channel therefore transmits no ensemble-level information — any redistribution of probability mass that an observer could read off the long-run statistics would, on their causality condition, open a signalling channel the no-signalling constraint forbids.
+The corridor reading holds that consciousness selects which definite outcome emerges from the post-decoherence mixture without redistributing probability mass over alternatives — single-event selection without ensemble signature. It is the strictest reading of Tenet 2 in the [channel-class taxonomy](/concepts/channel-class-taxonomy/): Class 1, the [selection-only channel](/concepts/selection-only-channel/). The mind sees the prior distribution {p₁, …, p_N}, picks among the alternatives, and long-run frequency converges to the Born distribution exactly. The five-constraint corridor — conservation, no-signalling, second-order interference preservation, decoherence consistency, and Born compliance — is satisfied, no-signalling only on the strong per-context reading argued in [selection-only channel](/concepts/selection-only-channel/). The trade-off is severe: Han and Choi (2016) derive the Born rule from a strengthened relativistic-causality condition, and on their condition probability assignments that deviate from the Born rule would enable superluminal signalling. A strictly Born-compliant selection channel therefore transmits no ensemble-level information — any redistribution of probability mass readable off the long-run statistics would, on their causality condition, open a forbidden signalling channel.
 
 A reading slightly outside the corridor — *probability-bias* — admits a small per-event deviation ε. Probability-bias channels reweight {pᵢ} to {pᵢ′} subject to Σpᵢ′ = 1. The empirical ceiling from RNG meta-analysis is roughly ε ≈ 10⁻⁴ (Bösch et al. 2006), tightened toward the null at typical scales by preregistered Bayesian work (Maier & Dechamps 2018). The corridor is what survives categorical commitment to no deviation; probability-bias is what survives if the empirical ceiling permits a non-zero ε at sub-RNG-detection levels brain-internally.
 
