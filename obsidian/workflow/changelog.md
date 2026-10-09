@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T12:21:35+00:00
+ai_modified: 2026-10-09T12:51:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:51 - refine-draft
+- **Status**: Success
+- **File**: [[topics/memory-channel-interface-evidence]]
+- **Original score**: n/a (`scripts/curate.py` absent; task-directed calibration)
+- **Task**: Calibrate the autonoetic-first vulnerability ordering from a Map thesis stated as fact to a conjecture with exceptions (first face only), per [[research/autonoetic-first-vulnerability-ordering-2026-10-09]] §7.
+- **Changes**: The §7 edits B, B2, D, E, G, H, I and the frontmatter description were installed verbatim. Each OLD string was re-grepped at count 1 before replacement, and all matched, so none needed re-deriving. Body delta: +14 −11 +2 +3 −11 +2 +1 = 0. Optional J (+8, L118: the dissociative rows separate "self-related access rather than one tier") was installed, offset by removing the redundant clause ", and is refuted by the cross-state data" at L118 (−7) and the duplicate `clinical-dissociation-as-systematic-evidence` pointer at L112 (−3; the same link with more detail follows at L114). One 0-word addition beyond §7: L158 "degrade in a stable order" → "recurring", so the closing summary no longer restates the "stable" claim that edit D retracted. Every edit lowers or holds the tier.
+- **Skipped**: Curran et al. 1993 and Morgan et al. 2004 (~25 words each with reference). There is no honest ~50-word offset within the first face without cutting cross-links, references, the accommodation framing or the second face. Morgan's doses were subanaesthetic, which does not match the row's anaesthetic "disconnected state", so a correct insertion would need a dose caveat and cost more.
+- **Length**: `analyze_length` 4,542 → 4,540 (hard_warning, apparatus artefact per the 2026-08-08 stability note; length did not grow).
+- **Preserved**: the accommodation-not-prediction framing; the recovery-asymmetry face; the zero-word piped link `[[metacognitive-access-versus-retention|compartmentalises autonoetic access]]` at L112. The deferred L120–122 vs targeted-lesion L80 semantic-dementia disagreement was not touched.
+- **Engagement**: binary on/off production theory at L118, Mode One (the theory predicts uniform loss, so selectivity defeats it on its own terms); the trim removed a redundant verdict and did not change the mode.
+- **Published**: yes
 
 ## 12:42 - deep-review
 - **Status**: Success
