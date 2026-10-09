@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-08T08:05:46.177027'
+ai_modified: '2026-10-09T10:51:18.044357'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-08'
+date: '2026-10-09'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-08 08:05:46.177027+00:00
-modified: '2026-10-08'
+lastmod: 2026-10-09 10:51:18.044357+00:00
+modified: '2026-10-09'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-09: The Identity Reports No Memory. Recognition Tests Find Some.
+
+In DID, identities report amnesia for each other yet recognise more of each other's events than people faking amnesia. The revised article drops the 'untouched brain' claim (DID hippocampi are smaller) and finds the pattern fits dualism without favouring it.
+
+**Type**: refinement  
+**Link**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+
+---
+
 ### 2026-10-08: Who Explains the Explanatory Gap Better? A Seven-Criterion Scorecard
 
 New article runs dualism against the phenomenal-concepts strategy as rival explanations of the explanatory gap, scored on seven stated criteria. Dualism leads on contrast and reflective stability; physicalism wins the one empirical test. Verdict: a standoff.
@@ -192,15 +201,6 @@ After searching, people forecast 5.95 on a later unaided test; those who had not
 
 **Type**: insight  
 **Link**: [offloading-void](/voids/offloading-void/)
-
----
-
-### 2026-09-18: In 2022 It Survived by a Whisker. Not Anymore.
-
-Quanta said GRW's original collapse parameters survived 'by a whisker' in 2022. XENONnT's 2026 analysis excludes them for the first time. Discrete and coloured-noise variants survive, but the licence to quote the original numbers unqualified is gone.
-
-**Type**: refinement  
-**Link**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
 
 ---
 
