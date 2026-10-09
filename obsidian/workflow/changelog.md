@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-08T15:28:30+00:00
+ai_modified: 2026-10-09T12:21:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:22 - expand-topic
+- **Status**: Success
+- **Topic**: Metacognitive access versus retention: the four-level discipline (retention, performance-level use, metacognitive access, felt ownership) across DID, anosognosia, dissociative amnesia, depersonalisation and patient R.B. (optimistic-2026-10-08-clinical-dissociation-wing Expansion 3; synthesis cluster 7)
+- **Output**: [[concepts/metacognitive-access-versus-retention]]
+- **Word count**: 3,084 by `analyze_length` (prose ~2,357 + reference apparatus ~727; 23 numbered refs); soft_warning, under the 3,500 hard limit. Headroom re-measured before writing: concepts 348/360.
+- **Based on research**: yes — [[research/metacognitive-access-versus-retention-2026-09-16]]; consistent with [[research/autonoetic-first-vulnerability-ordering-2026-10-09]] §3–5 (DID "reported severed; objectively transferred"; fugue loses facts with events; the four senses of "autonoetic" kept apart in a dedicated section)
+- **New since the note**: Beker et al. 2024 (PMID 39541721; corrigendum CPR 119:102594) and Donath et al. 2025 (PMID 40813190). Donath was READ in the accepted manuscript (PsyArXiv 10.31234/osf.io/f8r2t_v2; the Groningen PDF returned 403). Its direction is toward TRANSFER: corrected meta-analyses "find no reliable objective evidence of inter-identity amnesia". Limits stated in the body: an author overlap with the primary studies, and no Beker reply found (Crossref/OpenAlex). Also added Dimitrova et al. 2024 ("inter-identity avoidance") and Dimitrova et al. 2023 (group-level hippocampal rung).
+- **Verification**: every DOI resolved at Crossref; abstracts read raw from PubMed or Europe PMC. Marsh 2021 full text was read via Europe PMC: analysed n = 12/14; the "not possible to determine" sentence and the search/ownership-belief account come from the Discussion. Schacter et al. 1988 pp. 242–278 was confirmed in Schacter's own 1990 reference list (JCEN 12(1):155–178), and the DICE quotations come from that 1990 PDF. All 26 quotations were grep-verified against the saved raw texts. DROPPED: Nelson & Narens 1990, because Narens's co-authorship and the volume number could not be confirmed at the publisher (Crossref and OpenAlex list Nelson only; ScienceDirect 403). The monitoring/control terms are used without attribution. Kong et al. 2008 and Vadillo et al. 2020 were verified, then cut for length. Nardone 2007 was not used. Klein & Nichols 2012 is paraphrased only (PhilArchive 403).
+- **Source roles (editor-internal)**: Huntjens 2003/2006/2012, Marsh 2021 and Donath 2025 support transfer, on metamemory accounts that are cognitive and production-side. Beker 2024 is mixed. Dimitrova 2024 is a control/avoidance rival. Fotopoulou 2010 and Moro 2011 are intra-cerebral re-representation rivals. Kikuchi 2010 ("memory repression", prefrontal inhibition) is a production-side rival. Schacter 1988/1990 (DICE, a physical CAS, "merely ... shorthand") is a shared explanandum. Farah 1993 (degraded representation) and Shanks 2017 (report reliability) are defeaters. Mangiulli 2022 is a sceptic on level 1. Dienes & Perner 1999 is a neutral scaffold. Calibration: bare Tenet 1 only, compatible and not supporting; interface reading confined to levels 3–4 beside its intra-cerebral rivals; absence-ladder rungs and source types used verbatim.
+- **Integration**: five zero-word piped reciprocals, with the word count unchanged on each page. Flagship L82 "[[metacognitive-access-versus-retention|supporting transfer]]" (4,694→4,694); mine-ness "orthogonal dimension" (3,498→3,498); metacognition "current conscious access" (3,541→3,541); anti-correlated-metacognitive-signal "a separately generated signal" (3,289→3,289); memory-channel L112 "compartmentalises autonoetic access" (4,542→4,542). The page was registered in `task_chains.pending_cross_reviews` with 5 targets. It is not an apex source.
+- **Bearing on NEEDS-HUMAN (10b)**: Donath 2025 now lives on this page, reachable from the flagship's Beker sentence by the L82 link. The flagship itself still does not cite Donath; whether that discharges (10b) is the operator's call. The todo was not edited.
 
 ## 11:51 - research-topic
 - **Status**: Success

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-09T11:27:44.732390+00:00'
-session_count: 22385
-cycle_position: 14484
+last_updated: '2026-10-09T11:57:07.267692+00:00'
+session_count: 22386
+cycle_position: 14485
 last_runs:
   add-highlight: '2026-10-09T10:54:21.873778+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-08T15:35:22.488371+00:00'
   refine-draft: '2026-10-08T15:50:28.404909+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-07T11:52:48.359217+00:00'
+  research-topic: '2026-10-09T11:57:07.267692+00:00'
   research-voids: '2026-10-08T00:36:58.433883+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-07T03:38:45.715615+00:00'
@@ -112,7 +112,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 23
-  research_notes: 653
+  research_notes: 654
   reviews_completed: 7910
   apex_articles: 44
 quality:
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-08'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-08'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-09'
   outcome: success
   kind: agentic_social
+- task: research-topic
+  type: research-topic
+  date: '2026-10-09'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/covert-consciousness-and-cognitive-motor-dissociation/
@@ -718,6 +718,14 @@ task_chains:
     - concepts/phenomenal-concepts-strategy.md
     - concepts/explanatory-gap.md
     generated: '2026-10-07T23:15:01+00:00'
+  - new_article: concepts/metacognitive-access-versus-retention.md
+    review_targets:
+    - topics/clinical-dissociation-as-systematic-evidence.md
+    - topics/memory-channel-interface-evidence.md
+    - topics/anosognosia-and-the-reversible-self-monitoring-channel.md
+    - concepts/mine-ness.md
+    - concepts/metacognition.md
+    generated: '2026-10-09T12:21:00+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

@@ -4,7 +4,7 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-05T16:42:25+00:00
+ai_modified: 2026-10-09T12:20:33+00:00
 last_deep_review: 2026-09-05T16:42:25+00:00
 draft: false
 topics:
@@ -69,7 +69,7 @@ The third case is what an anti-correlated metacognitive signal denotes. It is th
 
 ## The Acute-State Regime {#acute-states}
 
-Rebouillat's regime is built in a laboratory. A second family arrives unbuilt, driven by a physiological variable rather than an experimental manipulation, and reproduces the architecture: the felt sense of one's own impairment behaves as a separately generated signal that can decouple from, or run opposite to, the state it reports.
+Rebouillat's regime is built in a laboratory. A second family arrives unbuilt, driven by a physiological variable rather than an experimental manipulation, and reproduces the architecture: the felt sense of one's own impairment behaves as [[metacognitive-access-versus-retention|a separately generated signal]] that can decouple from, or run opposite to, the state it reports.
 
 The clearest case is alcohol's descending limb. At equal blood alcohol concentration on the descending rather than the ascending limb, willingness to drive rose by a weighted mean of 207% while driving performance was 96% worse and inhibitory control 30% worse (Holland and Ferner, 2017). Same concentration, opposite sign: the felt signal tracks the derivative of the state, not its level. The review's own caveat travels with it: several minor measures improved on the descending limb, and results for several domains were inconsistent between studies.
 

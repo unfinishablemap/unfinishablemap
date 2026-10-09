@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-09-27 14:20:28+00:00
+ai_modified: 2026-10-09 12:20:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-08 23:17:52+00:00
-lastmod: 2026-09-27 14:20:28+00:00
+lastmod: 2026-10-09 12:20:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +114,7 @@ What the episodes do establish is that the substrate has continued to degrade th
 
 ### Dissociative States: Selectivity Without Substrate Damage
 
-Dissociative states decouple the channels without any structural substrate damage ([full picture here](/topics/clinical-dissociation-as-systematic-evidence/)). **Dissociative amnesia** selectively severs autobiographical (autonoetic) access while semantic knowledge, procedural skill, and working memory remain intact — the patient drives and works but cannot recall who they are. **Dissociative identity disorder** compartmentalises autonoetic access *between* alter states, each with its own autobiographical timeline, while semantic and procedural memory transfer freely; Reinders et al. (2003) imaged the difference, reporting distinct regional cerebral blood-flow patterns for two senses of self in one brain. **Depersonalisation-derealisation** is unusually diagnostic: autonoetic content is present but the felt *ownership* is missing — the channel is on, the *mine-ness* it normally carries decoupled — suggesting autonoetic experience has internal structure (content plus mine-ness plus pastness) that can dissociate, the multi-channel reading's prediction one level deeper than the three-tier hierarchy itself.
+Dissociative states decouple the channels without any structural substrate damage ([full picture here](/topics/clinical-dissociation-as-systematic-evidence/)). **Dissociative amnesia** selectively severs autobiographical (autonoetic) access while semantic knowledge, procedural skill, and working memory remain intact — the patient drives and works but cannot recall who they are. **Dissociative identity disorder** [compartmentalises autonoetic access](/concepts/metacognitive-access-versus-retention/) *between* alter states, each with its own autobiographical timeline, while semantic and procedural memory transfer freely; Reinders et al. (2003) imaged the difference, reporting distinct regional cerebral blood-flow patterns for two senses of self in one brain. **Depersonalisation-derealisation** is unusually diagnostic: autonoetic content is present but the felt *ownership* is missing — the channel is on, the *mine-ness* it normally carries decoupled — suggesting autonoetic experience has internal structure (content plus mine-ness plus pastness) that can dissociate, the multi-channel reading's prediction one level deeper than the three-tier hierarchy itself.
 
 The dissociative rows are the hierarchy's hardest test for production theories: with no substrate damage, the selectivity must be explained at the level of *connectivity between intact regions* — what the filter reading describes as channel architecture, and what a sophisticated production reading must concede consciousness depends on. The concession locates the disagreement over what kind of relationship that connectivity *is*, rather than over the evidence. These geometries are developed at full resolution, with the DID sociocognitive caveat, in [the clinical-dissociation article](/topics/clinical-dissociation-as-systematic-evidence/).
 

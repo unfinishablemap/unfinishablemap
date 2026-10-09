@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-02-24
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-05T14:52:08+00:00
+ai_modified: 2026-10-09T12:20:33+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -55,7 +55,7 @@ Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awarenes
 
 Three clarifications keep the concept from sliding into adjacent notions:
 
-**Mine-ness is not the content of experience.** The content of seeing red is *red*. The content of remembering Paris is *Paris*. Mine-ness is the orthogonal dimension: that this seeing and this remembering present themselves as the seeing and remembering *of a subject*. Two qualitatively identical phenomenal states can differ in whether they carry the mine-ness tag, as depersonalisation will illustrate.
+**Mine-ness is not the content of experience.** The content of seeing red is *red*. The content of remembering Paris is *Paris*. Mine-ness is the [[metacognitive-access-versus-retention|orthogonal dimension]]: that this seeing and this remembering present themselves as the seeing and remembering *of a subject*. Two qualitatively identical phenomenal states can differ in whether they carry the mine-ness tag, as depersonalisation will illustrate.
 
 **Mine-ness is not the sense of agency.** Agency is the sense that "I am the initiator" of an action or thought. Ownership is the sense that "this is happening in my experience." Shaun Gallagher's analysis distinguishes the two and shows they come apart in pathology: in schizophrenic thought insertion, agency is lost (someone else seems to be producing the thought) while ownership is preserved (the thought still occurs in the patient's mind). The reverse dissociation appears in depersonalisation, where ownership can fade while ordinary agency remains intact. These are independent phenomenal features with independent grounds.
 

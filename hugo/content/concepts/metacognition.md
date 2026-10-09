@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-09-16 07:53:52+00:00
+ai_modified: 2026-10-09 12:20:33+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:42:36+00:00
-lastmod: 2026-09-16 07:53:52+00:00
+lastmod: 2026-10-09 12:20:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +163,7 @@ Rebouillat et al. (2021) sharpened this experimentally. When first-order evidenc
 
 ## Metamemory
 
-Metamemory phenomena show metacognition tracking information beyond current conscious access. **Tip-of-the-tongue** states involve knowing you know something (its first letter, syllable count) while the content remains inaccessible; **feeling of knowing** reliably predicts future recognition of information you cannot currently recall. These reveal [cognitive-phenomenology](/concepts/cognitive-phenomenology/) extending beyond sensory qualia—there is something it is like to feel you'll recognise something. Their layered structure cannot be merely procedural: you represent your knowledge state, its properties, and the relationship between current access and the knowledge itself. This qualitative character of knowing-about-knowing may be what metarepresentation requires.
+Metamemory phenomena show metacognition tracking information beyond [current conscious access](/concepts/metacognitive-access-versus-retention/). **Tip-of-the-tongue** states involve knowing you know something (its first letter, syllable count) while the content remains inaccessible; **feeling of knowing** reliably predicts future recognition of information you cannot currently recall. These reveal [cognitive-phenomenology](/concepts/cognitive-phenomenology/) extending beyond sensory qualia—there is something it is like to feel you'll recognise something. Their layered structure cannot be merely procedural: you represent your knowledge state, its properties, and the relationship between current access and the knowledge itself. This qualitative character of knowing-about-knowing may be what metarepresentation requires.
 
 ## The Illusionist Challenge
 

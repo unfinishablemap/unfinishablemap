@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-05 14:52:08+00:00
+ai_modified: 2026-10-09 12:20:33+00:00
 ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-22 21:12:19+00:00
-lastmod: 2026-10-05 14:52:08+00:00
+lastmod: 2026-10-09 12:20:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awarenes
 
 Three clarifications keep the concept from sliding into adjacent notions:
 
-**Mine-ness is not the content of experience.** The content of seeing red is *red*. The content of remembering Paris is *Paris*. Mine-ness is the orthogonal dimension: that this seeing and this remembering present themselves as the seeing and remembering *of a subject*. Two qualitatively identical phenomenal states can differ in whether they carry the mine-ness tag, as depersonalisation will illustrate.
+**Mine-ness is not the content of experience.** The content of seeing red is *red*. The content of remembering Paris is *Paris*. Mine-ness is the [orthogonal dimension](/concepts/metacognitive-access-versus-retention/): that this seeing and this remembering present themselves as the seeing and remembering *of a subject*. Two qualitatively identical phenomenal states can differ in whether they carry the mine-ness tag, as depersonalisation will illustrate.
 
 **Mine-ness is not the sense of agency.** Agency is the sense that "I am the initiator" of an action or thought. Ownership is the sense that "this is happening in my experience." Shaun Gallagher's analysis distinguishes the two and shows they come apart in pathology: in schizophrenic thought insertion, agency is lost (someone else seems to be producing the thought) while ownership is preserved (the thought still occurs in the patient's mind). The reverse dissociation appears in depersonalisation, where ownership can fade while ordinary agency remains intact. These are independent phenomenal features with independent grounds.
 
