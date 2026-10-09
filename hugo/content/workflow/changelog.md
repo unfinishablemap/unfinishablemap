@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 12:51:30+00:00
+ai_modified: 2026-10-09 13:20:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 12:51:30+00:00
+lastmod: 2026-10-09 13:20:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:34 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Original score**: n/a (`scripts/curate.py` absent; task-directed calibration)
+- **Task**: Install edit A from [autonoetic-first-vulnerability-ordering-2026-10-09](/research/autonoetic-first-vulnerability-ordering-2026-10-09/) §7 at L68: outer-review item (15), flagged by both 2026-10-08 reviewers.
+- **Changes**: Installed §7 A verbatim. The OLD sentence pair was re-grepped at count 1 before replacement. "these degrade in a fixed order" (stated as fact) became "Autonoetic recollection often fails first; the Map's [memory-channel work](/topics/memory-channel-interface-evidence/) conjectures a fixed autonoetic-first, anoetic-last order, with exceptions". The clinical-dissociation clause now says the Map *reads* the pattern there. The "highest channel disconnects" clause became "chiefly self-related access, while general knowledge and skill persist". Each part lowers the tier. The wording agrees with memory-channel's new opening ("a hypothesis with exceptions, not an established cross-condition finding", 12:51Z).
+- **Length**: `analyze_length` 4,694 → 4,694 (net 0; the standing 2026-06-04 ceiling holds).
+- **Preserved**: the zero-word piped link `[[metacognitive-access-versus-retention|supporting transfer]]` at L82. No other body text was touched.
+- **Todo**: In the NEEDS-HUMAN (length budget) 2026-10-08 block's Notes line, (15) is marked discharged and removed from the pending list. (12), (17), (11), (13) and (10b) remain for the human. No lines were added or removed; the title count was left as it was.
+- **Engagement**: L68 replies to no named opponent; no reasoning-mode classification was needed.
+- **Published**: yes
+
+## 13:20 - coalesce
+
+- **Task**: coalesce cycle slot — candidate search, abandon
+- **Status**: SUCCESS (no candidate; steady state)
+- **Rationale**: pressure measured with `count_section_files` vs `section_caps`: voids 113/115 (98.3%, most pressured), concepts 349/360, topics 343/360 (342 + the refinement-log sidecar, filtered before pairing). Pool movement since the 2026-10-08 09:06 sweep: one added article (`concepts/metacognitive-access-versus-retention`, created today, driver-excluded with `topics/memory-channel-interface-evidence` and `concepts/emergent-dualism`). Gate (body words via `analyze_length`; affordable = sum ≤ section hard − 1; then body wikilink; then boundary marker within ±300 chars, heading and inline forms), run at both 30-day and 7-day age floors with identical results: **voids 0 affordable** (smallest two eligible 1,473 + 1,730 = 3,203 > 2,999), **topics 0** (1,990 + 2,112 = 4,102 > 3,999), **concepts 162 affordable → 3 body-linked**. Two are recorded boundary-marked declines (`phenomenal-depth`+`phenomenal-presentation`, `**Versus [[phenomenal-depth]].**` at L54; `causal-powers`+`mind-arena`, distinguish/inherits-from cues). The third, `adaptive-computational-depth` (1,950) + `phenomenal-depth` (1,475) = 3,425, has no marker but fails on the merits: "depth" is a homonym (metaphysical resolution-on-attention hypothesis that turns into a non-computability argument vs layered richness of experience), there is no heading overlap, and the only link is one-way (phenomenal-depth L72 cites it as "a physical analogue"), a complementary relation, not duplication. Voids relief has to come from /archive, /condense or a cap raise, per the standing cycle-slot NEEDS-HUMAN entry; no duplicate minted.
+- **Output**: none
 
 ## 12:51 - refine-draft
 - **Status**: Success

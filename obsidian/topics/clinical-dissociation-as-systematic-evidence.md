@@ -2,9 +2,9 @@
 title: "Clinical Dissociation as Systematic Evidence"
 description: "Dissociative disorders—DID, depersonalisation, conversion, amnesia—selectively alter access, ownership, memory and motor control without a focal lesion, through decreased coupling in three and increased coupling in conversion; a pattern compatible with a dualist interface architecture without favouring it over predictive-processing physicalism."
 created: 2026-03-17
-modified: 2026-10-08
+modified: 2026-10-09
 human_modified:
-ai_modified: 2026-10-09T12:20:33+00:00
+ai_modified: 2026-10-09T13:34:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[personal-identity]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-07-18T16:33:11+00:00
@@ -65,7 +65,7 @@ This is the hardest intact-substrate test a theory of consciousness can face. In
 
 ### The Tulving Channels as Scaffolding
 
-The argument uses Endel Tulving's three-mode framework only as scaffolding ([[anoetic-noetic-autonoetic-consciousness|developed at the concept tier]]): *anoetic* consciousness accompanying procedural skill, *noetic* semantic memory's feeling of knowing, *autonoetic* episodic memory's re-inhabited past. Across most consciousness disruptions these degrade in a fixed order—autonoetic first, anoetic last. Clinical dissociation is the case where that ordering appears *without a lesion to drive it*: the highest, most reconstruction-intensive channel is the one that disconnects, compartmentalises, or unbinds, while the lower channels carry on.
+The argument uses Endel Tulving's three-mode framework only as scaffolding ([[anoetic-noetic-autonoetic-consciousness|developed at the concept tier]]): *anoetic* consciousness accompanying procedural skill, *noetic* semantic memory's feeling of knowing, *autonoetic* episodic memory's re-inhabited past. Autonoetic recollection often fails first; the Map's [[memory-channel-interface-evidence|memory-channel work]] conjectures a fixed autonoetic-first, anoetic-last order, with exceptions. Clinical dissociation is where the Map reads that pattern *without a lesion to drive it*: what disconnects, compartmentalises, or unbinds is chiefly self-related access, while general knowledge and skill persist.
 
 ## Four Clinical Windows
 
