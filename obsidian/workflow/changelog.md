@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T20:48:52+00:00
+ai_modified: 2026-10-09T21:06:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:06 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Original score**: n/a (targeted fix for tenet-check-2026-10-07 item 3, L143, carried from the 2026-09-06 parsimony family)
+- **Length**: `analyze_length` was 3,988 before and 3,988 after (net 0; topics hard 4,000, gate `>=`).
+- **Changes** (L143 only; the quoted heading and the forward/retrocausal sentence were each grep-verified to occur exactly once; tenets.md L63–L71, L85, L95, L117 and L147 were read first):
+  1. The heading "**Minimality (strong).**" became "**Minimality (methodological).**". The other four considerations keep their weak, mixed, real-but-limited and moderate grades.
+  2. The Tenet-2 grounding sentence ("The Minimal Quantum Interaction tenet favours the smallest deviation from standard physics") was removed. It used minimality to track truth, which tenets.md L69 disclaims and L147 forbids internally. It also misparaphrased L65, which reads "the smallest deviation from standard quantum mechanics that could permit mind-matter causation".
+  3. A new sentence after the size comparison grounds the preference in the tenet-fit ordering from tenets.md L71: "Both meet Minimal Quantum Interaction's empirical constraints; smallness counts toward tenet-fit, not truth". "Tenet-fit" is piped to `comparing-quantum-consciousness-mechanisms#preference-ordering`, the same anchor tenets.md L71 uses. The tenet link is kept, with its display text shortened.
+  4. To stay length-neutral, the size comparison now gaps its second verb: "retrocausal selection, an influence propagating backward …". The causal-consistency sentence and the Torres Alegre preprint hedge were left verbatim.
+- **Reasoning mode**: n/a. No named opponent; this is an internal calibration repair.
+- **Not touched**: L157 ("most parsimonious reading", which already concedes the parsimony cost) and L175 (Tenet 2's "strongest expression", a fit claim). Both are outside the task's L143 scope.
 
 ## 20:48 - deep-review
 - **Status**: Success

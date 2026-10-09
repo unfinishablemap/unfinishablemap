@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-10-08 08:35:00+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1+claude-fable-5-1
+ai_modified: 2026-10-09 21:05:55+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/non-retrocausal-conscious-selection-models/
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-04 14:15:47+00:00
-lastmod: 2026-10-08 08:35:00+00:00
+lastmod: 2026-10-09 21:05:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ A more thoroughgoing dissent (Duch 2005, 2019) reads the same decoherence facts 
 
 Five considerations favour forward-in-time over retrocausal selection, varying in strength.
 
-**Minimality (strong).** The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) favours the smallest deviation from standard physics. Forward-in-time selection requires one intervention at one moment; retrocausal selection requires an influence propagating backward through an entire causal history. The [causal consistency constraint](/concepts/causal-consistency-constraint/) sharpens what "minimal" means for the post-decoherence variant: selection-only coupling preserves Born statistics by construction, so the relativistic-causality requirement Torres Alegre (2025) — a recent arXiv preprint, not yet independently confirmed — argues any participant in measurement outcomes must respect is satisfied without further argument.
+**Minimality (methodological).** Forward-in-time selection requires one intervention at one moment; retrocausal selection, an influence propagating backward through an entire causal history. Both meet [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)'s empirical constraints; smallness counts toward [tenet-fit](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering), not truth. The [causal consistency constraint](/concepts/causal-consistency-constraint/) sharpens what "minimal" means for the post-decoherence variant: selection-only coupling preserves Born statistics by construction, so the relativistic-causality requirement Torres Alegre (2025) — a recent arXiv preprint, not yet independently confirmed — argues any participant in measurement outcomes must respect is satisfied without further argument.
 
 **Phenomenological fit (weak).** Conscious experience presents itself as choosing among present possibilities, but this is non-conclusive: MWI satisfies it (each branch instantiates a choice), and so does epiphenomenalism. At best a tie-breaker.
 
