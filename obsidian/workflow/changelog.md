@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T13:20:40+00:00
+ai_modified: 2026-10-09T14:08:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:08 - research-topic
+- **Status**: Success
+- **Topic**: The dissociative subtype of PTSD and the overmodulation model (harvested from the 2026-10-08 optimistic review of the clinical-dissociation wing, items 2–3)
+- **Output**: [[research/dissociative-subtype-of-ptsd-2026-10-09]]
+- **Sources consulted**: 56 cited: 6 read in full text or as a verbatim passage, 45 by abstract, 2 by metadata, 2 by title, and DSM-5 through two transcriptions. All metadata was checked at PubMed, Crossref or OpenAlex.
+- **Verdict**: recommends expand-topic `concepts/dissociative-subtype-of-ptsd` (concepts 349/360). No section host is viable: `concepts/depersonalisation` has 1 word of headroom and the flagship is OVER. The page's verdict runs against the Map: the overmodulation and defence-cascade account is the worked form of the flagship's "affective-salience physicalism" and takes the trauma-selectivity point off the interface reading (constrains, does not establish). The specifier has held as a latent class. The 2010 mechanism is weaker: no reliable autonomic signature, regions vary, resting-state profile is hyperconnectivity, and treatment moderation is null.
+- **Trauma confound**: every DID patient in Dimitrova et al. 2023 had current or remitted PTSD, and the controls were trauma-free (verified in the full text). PTSD-only patients also show smaller hippocampi, and DA/DID patients without PTSD did not. The group-level rung stands; DID-specificity is not established. A standalone +~45-word qualifier is proposed for `concepts/metacognitive-access-versus-retention` L131, with no contradiction of that page.
+- **Todo**: none written (orchestrator marks the task).
 
 ## 13:34 - refine-draft
 - **Status**: Success
