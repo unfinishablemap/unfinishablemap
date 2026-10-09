@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-02-24
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-09T17:50:20+00:00
+ai_modified: 2026-10-09T18:09:13+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -57,7 +57,7 @@ Three clarifications keep the concept from sliding into adjacent notions:
 
 **Mine-ness is not the content of experience.** The content of seeing red is *red*. The content of remembering Paris is *Paris*. Mine-ness is the [[metacognitive-access-versus-retention|orthogonal dimension]]: that this seeing and this remembering present themselves as the seeing and remembering *of a subject*. Two qualitatively identical phenomenal states can differ in whether they carry the mine-ness tag, as depersonalisation will illustrate.
 
-**Mine-ness is not the sense of agency.** Agency is the sense that "I am the initiator" of an action or thought. Ownership is the sense that "this is happening in my experience." Shaun Gallagher's analysis distinguishes the two and shows they come apart in pathology: in schizophrenic thought insertion, agency is lost (someone else seems to be producing the thought) while ownership is preserved (the thought still occurs in the patient's mind). The reverse dissociation appears in depersonalisation, where ownership can fade while ordinary agency remains intact. These are independent phenomenal features with independent grounds.
+**Mine-ness is not the sense of agency.** Agency is the sense that "I am the initiator" of an action or thought. Ownership is the sense that "this is happening in my experience." Shaun Gallagher's analysis distinguishes the two and shows they come apart in pathology: in schizophrenic thought insertion, agency is lost (someone else seems to be producing the thought) while ownership is preserved (the thought still occurs in the patient's mind). On the Gallagher-style reading, [[depersonalisation|depersonalisation]] can disrupt ownership while sparing agency, though active-inference accounts describe a disturbed sense of control, making the separation one-way.
 
 **Mine-ness is not reflective self-awareness.** Reflective self-awareness is a second-order state: attending to one's own mental states as such. Zahavi's claim is stronger: mine-ness is present in *first-order* experience, before any reflective act. The phenomenal "for-me" structure is built into conscious states at the ground level, not constructed by metacognition on top of them.
 
@@ -71,7 +71,7 @@ The case for treating mine-ness as a distinct feature rests on its **dissociabil
 
 [[depersonalisation|Depersonalisation disorder]] (DPD) is the central piece of evidence. Patients report that experience continues—they see, hear, think, and act—but the experiences feel as though they are happening "behind glass" or to someone else. Alexandre Billon's phenomenological work characterises DPD as "the lack of a phenomenal feature that marks my experiences as mine." The crucial observation: phenomenal content is preserved, but the for-me character is degraded.
 
-If mine-ness were not separable, DPD would be impossible to describe. The patient could not say "my experiences feel as if they are not mine" because the experiences would either be theirs (in which case mine-ness is intact) or not (in which case they could not be reporting them as their own). The fact that DPD descriptions are coherent—that patients can both *have* the experiences and *report them as alienated*—is itself evidence that mine-ness is a feature distinct from the bare having of experience.
+If mine-ness were not separable, DPD would be impossible to describe. The patient could not say "my experiences feel as if they are not mine" because the experiences would either be theirs (in which case mine-ness is intact) or not (in which case they could not be reporting them as their own). The fact that DPD descriptions are coherent—that patients can both *have* the experiences and *report them as alienated*—is evidence that mine-ness is a feature distinct from the bare having of experience.
 
 Anna Ciaunica and colleagues describe DPD as a crack in a normally transparent window. On the Map's reading, the window's transparency is its mine-ness: ordinarily we see *through* it to the world. When it cracks the window becomes partly visible—mine-ness becomes a noticed absence rather than an unnoticed presence, and subjects report a fracture between an "observing self" and an "observed self." The pathology converts a transparent feature into an opaque one without destroying consciousness itself.
 
@@ -91,7 +91,7 @@ The contemplative evidence reinforces the depersonalisation evidence: mine-ness 
 
 Franz Knappik has argued that DPD symptoms do not necessarily reflect loss of a *single* global mine-ness feature: depersonalisation and derealisation can occur independently, and different modalities may be affected differently, so what we call "loss of mine-ness" may be a family of related losses rather than the failure of a single phenomenal mark. The Map takes the challenge seriously: even if mine-ness is plural, *each* form is still a separable phenomenal feature dissociable from content and from agency. The plurality means the concept needs sub-types (perceptual, cognitive, bodily), not that it is empty.
 
-The separability thesis is in principle defeasible. It would be undermined by cases in which the for-me character co-varies *perfectly* with phenomenal content or with the sense of agency—where every disruption to content also disrupts ownership, or every loss of agency also abolishes ownership. The double dissociations above run the other way; so long as they replicate, the separability thesis stands.
+The separability thesis is in principle defeasible. It would be undermined by cases in which the for-me character co-varies *perfectly* with phenomenal content or with the sense of agency—where every disruption to content also disrupts ownership, or every loss of agency also abolishes ownership. The dissociations above, one-way for agency, break that co-variation; so long as they replicate, the separability thesis stands.
 
 ## Mine-ness and Transparency
 
@@ -105,11 +105,11 @@ Transparency also explains why mine-ness is easily confused with the bare fact o
 
 ## The Ownership Void {#the-ownership-void}
 
-Depersonalisation proves that mine-ness can vanish while experience continues, and its removal still reveals nothing about its mechanism. Patients report that experience loses its for-me quality; they do not report *seeing how ownership was constructed*. The void shows itself as absence, never as machinery.
+Depersonalisation shows that mine-ness can vanish while experience continues, and its removal still reveals nothing about its mechanism. Patients report that experience loses its for-me quality; they do not report *seeing how ownership was constructed*. The void shows itself as absence, never as machinery.
 
 The recursion is what makes the limit structural rather than merely stubborn. Attempting to introspect ownership traps attention in a distinctive way: the attending itself is "mine," so ownership is present in the very act of looking for it. Isolating it would require a vantage point outside ownership—an experience that is not "for anyone"—and no such vantage point would be an experience at all. This differs from the regress in [[self-opacity|the unobservable self]], where the observer generates fresh layers of observation; here there is no regress, only a condition that cannot be stepped outside of. If Zahavi is right that for-me-ness is "completely irrelational," and Heidegger right that mine-ness is an existential structure rather than a contingent psychological one, the void follows from the accounts themselves: you cannot get behind ownership to explain it, because ownership is presupposed by every explanation.
 
-**Which layer the void occupies.** The opacity sits at the *mine-ness* layer—the felt for-me character—and is distinct from the parallel opacity at the agency layer ([[self-opacity#The Special Case of Volition|volitional opacity]]), which concerns how an action becomes mine to initiate. Gallagher's clinical dissociations show the two layers separate, so the two voids are structurally distinct rather than one restated in the other's vocabulary.
+**Which layer the void occupies.** The opacity sits at the *mine-ness* layer—the felt for-me character—and is distinct from the parallel opacity at the agency layer ([[self-opacity#The Special Case of Volition|volitional opacity]]), which concerns how an action becomes mine to initiate. On Gallagher's reading, the two layers separate one-way, so the two voids are structurally distinct rather than one restated in the other's vocabulary.
 
 **One void or many.** Knappik's challenge has a consequence here. If mine-ness is plural rather than a single global feature, the ownership void is not one void but several: each modality of experience may have its own form of appropriation, each opaque in its own way. The plurality does not dissolve the limit; it multiplies it.
 
@@ -137,7 +137,7 @@ The [[tenets#^dualism|Dualism]] tenet is compatible with, [[depersonalisation#wh
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet connects to mine-ness through the agency/ownership distinction. If consciousness causally influences physical processes—on the Map's account, by biasing among quantum outcomes available at the brain-mind interface—then *agency* is the phenomenal correlate of that causal role. *Mine-ness*, being prior to and separable from agency, may be the more fundamental feature: the non-physical subject's basic mode of relating to, and claiming, the physical processes it influences. Ownership is the relation; agency is one specific form that relation takes when it issues in action. The mechanism of the claiming would then be concealed by the same opacity that hides the interaction mechanism itself. This reading respects both the dissociation data (mine-ness without agency in DPD or insertion) and the tenet's commitment to a non-physical subject with causal traction.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet connects to mine-ness through the agency/ownership distinction. If consciousness causally influences physical processes—on the Map's account, by biasing among quantum outcomes available at the brain-mind interface—then *agency* is the phenomenal correlate of that causal role. *Mine-ness*, being prior to and separable from agency, may be the more fundamental feature: the non-physical subject's basic mode of relating to, and claiming, the physical processes it influences. Ownership is the relation; agency is one form that relation takes when it issues in action. The mechanism of the claiming would then be concealed by the same opacity that hides the interaction mechanism itself. This reading respects the dissociation data (mine-ness without agency on Gallagher's reading of insertion) and the tenet's commitment to a non-physical subject with causal traction.
 
 ### No Many Worlds
 

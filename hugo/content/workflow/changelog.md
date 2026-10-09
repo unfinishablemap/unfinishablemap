@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 18:07 - refine-draft
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Original score**: n/a (targeted fix; follow-up to pessimistic-2026-10-06 item 4, i.e. the four loci reported but not fixed at 17:50)
+- **Changes** (made to match the one-way wording on ownership-problem L60, self-and-self-consciousness L86 and apex/self-construction-constructor; L82 left as is):
+  - (4) Bidirectional Interaction: "(mine-ness without agency in DPD or insertion)" → "(mine-ness without agency on Gallagher's reading of insertion)" (+1). This fixes an inversion: in depersonalisation ownership degrades, so only thought insertion fits "mine-ness without agency", and only on the agency reading.
+  - (1) §Defining the Feature L60: "The reverse dissociation appears in depersonalisation, where ownership can fade while ordinary agency remains intact. These are independent phenomenal features with independent grounds." → "On the Gallagher-style reading, [depersonalisation](/concepts/depersonalisation/) can disrupt ownership while sparing agency, though active-inference accounts describe a disturbed sense of control, making the separation one-way." (+1). Ciaunica et al. 2022 is not cited here because a reference entry costs too much; the piped link (zero words) points to `depersonalisation`, which carries it as ref 19. The overclaim "independent ... independent grounds" is gone.
+  - (2) §Empirical Caveat L94: "The double dissociations above run the other way;" → "The dissociations above, one-way for agency, break that co-variation;" (+1). The defeater it answers ("every loss of agency also abolishes ownership") is refuted by the one-way direction on its own.
+  - (3) §The Ownership Void L112: "Gallagher's clinical dissociations show the two layers separate," → "On Gallagher's reading, the two layers separate one-way," (0). Non-identity of the two layers, and so the distinctness of the two voids, needs only one direction.
+  - Paid for with redundant words only: Bidirectional Interaction "respects both the" → "respects the" (−1) and "one specific form" → "one form" (−1); §Depersonalisation "is itself evidence" → "is evidence" (−1). No hedges or calibration qualifiers were cut, and the "can" in the L60 clause was kept.
+  - The zero-word piped links `[[metacognitive-access-versus-retention|orthogonal dimension]]` and `[[thought-insertion|agency reading]]` were kept. The new link is piped.
+  - Engagement with Gallagher: Mode Three. The agency/ownership separation is now marked as reading-dependent and one-way in all five places on the page (L60, L82, L94, L112, L140). The active-inference rival is noted, not refuted.
+- **Length**: 3,499 → 3,499, net 0 (`analyze_length`; concepts hard 3,500, gate `>=`; headroom still 0)
+- **Not attempted**: the for-me-ness/mineness vocabulary collision (NEEDS-HUMAN; URL change). §The Ownership Void L108 "Depersonalisation proves that mine-ness can vanish" was out of scope for the fork; the DRIVER applied "proves"→"shows" afterwards (0 words, 18:09Z). The change costs nothing and would fit Knappik's plurality caveat at L92.
+- **Published**: yes
+
 ## 17:50 - refine-draft
 - **Status**: Success
 - **File**: [mine-ness](/concepts/mine-ness/)
