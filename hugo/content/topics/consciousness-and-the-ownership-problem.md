@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-04 10:21:32+00:00
+ai_modified: 2026-10-09 15:23:14+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 19:45:39+00:00
-lastmod: 2026-10-04 10:21:32+00:00
+lastmod: 2026-10-09 15:23:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,9 +61,9 @@ Three features make the ownership problem distinctive:
 
 **It is not the self problem.** The [minimal self](/concepts/self-and-self-consciousness/)—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
 
-**It is not the agency problem.** Shaun Gallagher (2000; with Zahavi 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [mine-ness layer](/concepts/mine-ness/) is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. On the agency reading of schizophrenic thought insertion, the two dissociate clinically in both directions: thought insertion preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else); depersonalisation can disrupt mine-ness while leaving agency intact. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
+**It is not the agency problem.** Shaun Gallagher (2000; with Zahavi 2012) distinguishes two phenomenal features the ordinary use of "ownership" conflates. The [mine-ness layer](/concepts/mine-ness/) is the felt for-me character by which experience presents as belonging to a subject. The agency layer is the felt initiation by which a thought or action presents as authored by that subject. On the agency reading of schizophrenic thought insertion, the two come apart: thought insertion preserves mine-ness while disrupting agency (the thought occurs in *my* mind but feels produced by someone else). The reverse direction is less secure. [Depersonalisation](/concepts/depersonalisation/) can disrupt mine-ness while leaving the sense of initiation intact on the Gallagher-style reading, though active-inference accounts describe a disturbed sense of control (Ciaunica et al. 2022), so the separation is one-way rather than a double dissociation. The ownership problem this article addresses targets the mine-ness layer—why experience belongs to anyone at all—not the agency layer, which is the further question of why some experiences feel authored. The two questions need parallel treatment but they are not the same question.
 
-The thought-insertion limb of that dissociation holds only on the agency reading, one of five in the literature. Ownership-loss readings make the failure of ownership primary and the agency loss its consequence (Martin and Pacherie 2013); Billon (2013) argues that the inserted thought lacks subjectivity and is not phenomenally conscious either; Ratcliffe and Wilkinson (2015) find that "the agency/ownership distinction is unhelpful here"; and on Marie Guillot's (2017) split of what this article calls mine-ness into *for-me-ness*, an experience's first-personal givenness, and *mineness*, its presenting as one's own, both conditions keep the first and lose the second, differing instead in *me-ness*. [The Map's page on thought insertion](/concepts/thought-insertion/) sets out the five readings and argues that none of them describes a conscious thought stripped of first-personal givenness. The distinction between the two layers survives without the case, since obsessional intrusions arrive without felt agency yet patients acknowledge them as their own (Billon 2013, p. 296).
+The thought-insertion limb of that separation holds only on the agency reading, one of five in the literature. Ownership-loss readings make the failure of ownership primary and the agency loss its consequence (Martin and Pacherie 2013); Billon (2013) argues that the inserted thought lacks subjectivity and is not phenomenally conscious either; Ratcliffe and Wilkinson (2015) find that "the agency/ownership distinction is unhelpful here"; and on Marie Guillot's (2017) split of what this article calls mine-ness into *for-me-ness*, an experience's first-personal givenness, and *mineness*, its presenting as one's own, both conditions keep the first and lose the second, differing instead in *me-ness*. [The Map's page on thought insertion](/concepts/thought-insertion/) sets out the five readings and argues that none of them describes a conscious thought stripped of first-personal givenness. One-way separation is enough to keep the two layers distinct, and it survives without the case, since obsessional intrusions arrive without felt agency yet patients acknowledge them as their own (Billon 2013, p. 296).
 
 ## Why Physicalism Struggles
 
@@ -175,4 +175,5 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 1. Guillot, M. (2017). "I Me Mine: On a Confusion Concerning the Subjective Character of Experience." *Review of Philosophy and Psychology*, 8(1), 23-53.
 1. Martin, J.-R. & Pacherie, E. (2013). "Out of Nowhere: Thought Insertion, Ownership and Context-Integration." *Consciousness and Cognition*, 22(1), 111-122.
 1. Ratcliffe, M. & Wilkinson, S. (2015). "Thought Insertion Clarified." *Journal of Consciousness Studies*, 22(11-12), 246-269.
+1. Ciaunica, A., Seth, A., Limanowski, J., Hesp, C., & Friston, K. J. (2022). "I Overthink—Therefore I Am Not: An Active Inference Account of Altered Sense of Self and Agency in Depersonalisation Disorder." *Consciousness and Cognition*, 101, 103320. https://doi.org/10.1016/j.concog.2022.103320
 1. Child, W. (2026). "Wittgenstein and Immunity to Error Through Misidentification." *Philosophy*, First View, 1-23. https://doi.org/10.1017/s0031819126101557

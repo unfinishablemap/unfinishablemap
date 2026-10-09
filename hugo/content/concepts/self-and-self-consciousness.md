@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-10-06 18:08:19+00:00
+ai_modified: 2026-10-09 15:23:14+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-10-06 18:08:19+00:00
+lastmod: 2026-10-09 15:23:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ A fourth dimension cuts across all layers: [the unobservable self](/voids/self-o
 
 ## Mine-ness and Agency as Separable Components
 
-Within the minimal-self layer, two further phenomenal features must be distinguished. [Mine-ness](/concepts/mine-ness/) is the for-me character by which experience presents as belonging to a subject. The sense of agency is the further character by which a thought or action presents as initiated by that subject. Shaun Gallagher (2000, 2012) draws the distinction from clinical phenomenology: schizophrenic thought insertion preserves ownership while disrupting agency (the thought occurs in *my* mind but feels produced by someone else), whereas depersonalisation can disrupt ownership while leaving agency intact (actions feel mine to initiate but the experiential field as a whole feels alien).
+Within the minimal-self layer, two phenomenal features must be distinguished. [Mine-ness](/concepts/mine-ness/) is the for-me character by which experience presents as belonging to a subject. The sense of agency is the character by which a thought or action presents as initiated by that subject. Gallagher (2000, 2012) draws the distinction from clinical phenomenology: schizophrenic [thought insertion](/concepts/thought-insertion/) preserves ownership while disrupting agency (the thought occurs in *my* mind but feels produced by someone else). On the Gallagher-style reading, [depersonalisation](/concepts/depersonalisation/) disrupts ownership while sparing the sense of initiation, though active-inference accounts describe a disturbed sense of control, making the separation one-way.
 
 Most of this article's claims about "for-me-ness" and "first-personal givenness" sit at the *mine-ness* layer rather than the agency layer. Ego-dissolution evidence concerns mine-ness; the bidirectional-interaction argument concerns agency; the indexical-identity argument concerns mine-ness as the phenomenal anchor and haecceity as its diachronic correlate. The distinction matters because each feature has its own falsifying scenario: perfect co-variation of content and mine-ness would defeat the mine-ness reading without touching the agency reading, and vice versa. This is phenomenal feature decomposition, not a commitment about how many subjects there are; the [evidential-status-discipline](/project/evidential-status-discipline/) applies to both layers.
 
