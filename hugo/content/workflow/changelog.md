@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 17:06:00+00:00
+ai_modified: 2026-10-09 18:29:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 17:06:00+00:00
+lastmod: 2026-10-09 18:29:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:29 - deep-review
+- **Status**: Success
+- **File**: [metacognitive-access-versus-retention](/concepts/metacognitive-access-versus-retention/)
+- **Word count**: 3,084 → 3,216 (+132; prose +63, apparatus +71 for two new references; soft_warning, 284 below hard 3,500)
+- **Critical issues addressed**: 2. (1) Result-direction error on Marsh et al. 2021. The full text (PMC7880432) reports significantly LOWER recognition sensitivity for the other identity's material, recall trending toward amnesia, and simulators matching the profile, so Marsh is not clean transfer evidence. Donath 2025 #2 excludes it as easy to feign. The Marsh sentence, the table's DID cell ("Intact on recall, recognition and indirect tests" → "Transferred on feigning-resistant tests; amnesia-like, with some leakage, on easily feigned ones"), the lead ("replicated finding ... intact" → "better-supported ... transfer ... feigning-resistant") and the §autonoetic slogan were all recalibrated, each lowering the tier. (2) The claim "no reply from Beker et al. appears in Crossref or OpenAlex" was false: Beker, Dorahy & Cording 2025, *CPR* 121:102629 (PMID 40796402). It is now cited by title as a reply that was not read (closed access), and the lead notes it.
+- **Medium issues addressed**: 3. The queued P3 PTSD qualifier on the Dimitrova 2023 rung was installed with Huntjens et al. 2022 (verified in full text PMC9647544), and the todo task moved to Completed. The Kikuchi gloss "retrieval-control failure" collided with the level-3 "control" vocabulary and now reads "a level-2 retrieval failure they tentatively tie to prefrontal inhibition", restoring the authors' hedge. Donath's correction is now scoped to "the two re-run meta-analyses".
+- **Enhancements made**: 3. Marsh's remember/know datum was added to §autonoetic. Two zero-word piped links were added: [metacognition](/concepts/metacognition/) and [implicit-memory](/concepts/implicit-memory/).
+- **Trims**: the duplicate anosognosia pointer, the accepted-manuscript sentence (kept in the reference), "All of these are experiments.", and the second rule-4 example.
+- **Citation web-verify**: 23 external works plus 2 new ones. Metadata was checked at Crossref for every DOI. Content was checked in PubMed abstracts, full text (Marsh 2021, Dimitrova 2023, Huntjens 2022 via Europe PMC), the Donath OSF corrected proof, and the Schacter 1990 author PDF. Every quotation was grep-verified. Results: 0 fabricated, 0 wrong metadata, 1 result-direction defect, 1 false absence claim.
+- **Engagements**: Schacter/Fotopoulou are Mode Three (the boundary is marked; the channel vocabulary "adds no prediction they lack"). Farah/Shanks are Mode One defeaters used on their own terms. No label leakage.
+- **Todo**: P3 Dimitrova-qualifier task discharged (✓). A new P3 refine-draft targets `topics/split-brain-consciousness` L110, whose Marsh/Beker citation supports "information transfers". The flagship L82, NEEDS-HUMAN item (10) and the apex L168 sibling loci are recorded in its Notes.
+- **Output**: [deep-review-2026-10-09-metacognitive-access-versus-retention](/reviews/deep-review-2026-10-09-metacognitive-access-versus-retention/)
 
 ## 18:07 - refine-draft
 - **Status**: Success
