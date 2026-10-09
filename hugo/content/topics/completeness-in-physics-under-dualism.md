@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-09-27 19:02:00+00:00
+ai_modified: 2026-10-09 20:47:14+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 15:44:53+00:00
-lastmod: 2026-09-27 19:02:00+00:00
+lastmod: 2026-10-09 20:47:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ The completeness question is foundational to the Map's entire framework, interse
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — From Descartes to Kim: the completeness argument's history
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — How Born-rule probabilities constrain consciousness selection
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as disclosure of the structural boundary
-- [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) — A single-world interpretation whose set-selection gap gives a formal instance of the third-person/first-person gap
+- [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) — A single-world interpretation whose set-selection gap is a contested structural analogy to the third-person/first-person gap, not a formal instance of it
 - [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/) — Which ontology "completeness" ranges over: a `3N`-dimensional field or local beables in 3D spacetime
 
 ## References

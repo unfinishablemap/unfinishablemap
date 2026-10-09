@@ -4,7 +4,7 @@ description: "Physics is complete about structure but silent on actuality. Prope
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-09-27T19:02:00+00:00
+ai_modified: 2026-10-09T20:47:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ The completeness question is foundational to the Map's entire framework, interse
 - [[causal-closure-debate-historical-survey]] — From Descartes to Kim: the completeness argument's history
 - [[born-rule-and-the-consciousness-interface]] — How Born-rule probabilities constrain consciousness selection
 - [[physics-as-disclosure]] — The measurement problem as disclosure of the structural boundary
-- [[consistent-histories-interpretation]] — A single-world interpretation whose set-selection gap gives a formal instance of the third-person/first-person gap
+- [[consistent-histories-interpretation]] — A single-world interpretation whose set-selection gap is a contested structural analogy to the third-person/first-person gap, not a formal instance of it
 - [[wavefunction-realism-vs-primitive-ontology]] — Which ontology "completeness" ranges over: a `3N`-dimensional field or local beables in 3D spacetime
 
 ## References

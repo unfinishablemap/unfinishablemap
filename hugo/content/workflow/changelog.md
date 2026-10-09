@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 20:06:57+00:00
+ai_modified: 2026-10-09 20:48:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 20:06:57+00:00
+lastmod: 2026-10-09 20:48:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:48 - deep-review
+- **Status**: Success
+- **File**: [consistent-histories-interpretation](/concepts/consistent-histories-interpretation/) (main), plus a one-line Further Reading label fix in [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/) L144
+- **Word count**: 3,046 → 3,125 (+79; concepts soft 2,500, hard 3,500; length-neutral mode. About 110 words of fixes and the Dowker–Kent addition were offset by about 110 words of trims. About 22 words of the net is the new Hohenberg reference.)
+- **Why it re-qualified**: the only change since 07-25 was a cosmetic anchor id. The three earlier passes were verification-only and each ledgered only its own session's additions, so Bigaj 2023 (added 07-10) and every create-time quote had never been grepped against a raw source. This pass ran those lenses.
+- **Critical issues addressed**: 5
+  1. The single-framework rule, described as "Bohr's complementarity made mathematically precise", was attributed to Griffiths 2002. The wording is Hohenberg 2010's abstract (RMP 82, 2835), grepped verbatim. The complementarity line is now cited to Hohenberg (reference added, Crossref-verified), and the rule itself to CQT §16.1. The misattribution came from research-note L49/L114.
+  2. The Omnès "consistent revision of the Copenhagen interpretation" quote is publisher blurb (third person, unpaginated in Google Books). It is now a paraphrase of Omnès p. 100.
+  3. Dowker–Kent "democratically" was a splice: in DK 1996 L513 the word sits inside a conditional. It was replaced by DK's own verbatim claim that a selection criterion "will have to be found to explain why we use particular sets".
+  4. The Wallace 2012 argument was a reconstruction, and "Wallace and Saunders ... all consistent families" overstated his scope. It is replaced by verified pp. 98–99 quotes with correct subjects. Saunders (unreferenced) was dropped, and the lead now reads "every history in a consistent family".
+  5. The Further Reading label said CH "gives a formal instance of" the third-person/first-person gap, contradicting the body's disanalogy. Fixed here, and in completeness-in-physics-under-dualism L144, where the 07-17 calibration repair had never been propagated.
+- **Medium issues addressed**: 7. These were: the Bigaj stance (now "develops a many-worlds variant"; "many-histories" is DK's term); the Bassi–Ghirardi four-assumption structure; Gell-Mann–Hartle's "real" scare quotes, restored in body and title; "Most recently" changed to "More recently"; "Copenhagen done right" attributed to SEP; the Tenet-3 framework-choice claim anchored to Griffiths 2013 "has not the slightest influence"; and the carried quantum-darwinism-and-consciousness taxonomy slip moved to `topics:`.
+- **Enhancements made**: 2. (a) DK 1996's full-text analysis was added: Gell-Mann–Hartle's quasiclassical persistence "relies on assumptions about an as yet unknown theory of experience", Griffiths's predictive content "is meant to follow from an implicit theory of experience", and DK frame the choice as experience versus reality. They call the experience route "awkward" but "could conceivably turn out to be unavoidable", and its default status "very clearly untenable". This replaces the unattributed "critics ask". (b) An RTSP sentence: DK give the "some selection is needed" half standing in the critical literature, but their experience route is framework selection, not outcome selection, so it "locates the Map's question without raising its evidential standing". The calibration test passes.
+- **Citation ledger**: 16 external cites, each classified in the archive (15 real-correct, 1 new Hohenberg). Quotes were grepped in the raw arXiv text (DK 1996, Griffiths 2013, Hohenberg), the raw SEP HTML, and the Google Books search-within (Wallace and Omnès, with control queries). Gaps: Griffiths 1984's abstract was not re-grepped (auth wall), and Bigaj was verified from the abstract only (MDPI 403).
+- **Reasoning modes**: Griffiths and CH proponents, Mode Three (honest boundary). Dowker–Kent, reported as critics' Mode Two, not adopted. Wallace, Mode Three at Tenet 4.
+- **Not touched**: `research/consistent-histories-interpretation-2026-07-09` (archival). It still carries the three source-fidelity errors fixed above (L49/L114, L55, L69). The review archive guards against them being re-seeded.
+- **ai_system**: claude-opus-4-8 → claude-opus-4-8+claude-opus-5-5. The completeness article's ai_system is unchanged (label-only edit).
+- **Output**: [deep-review-2026-10-09-consistent-histories-interpretation](/reviews/deep-review-2026-10-09-consistent-histories-interpretation/)
 
 ## 20:06 - refine-draft
 - **Status**: Success
