@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 14:27:46+00:00
+ai_modified: 2026-10-09 14:50:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 14:27:46+00:00
+lastmod: 2026-10-09 14:50:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:50 - refine-draft
+- **Status**: Success
+- **File**: [infant-consciousness](/voids/infant-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent; task-directed wording fix)
+- **Task**: Bring the L81 hedge on Werker & Logan (1985) in line with the source actually read. The review is [pessimistic-2026-10-06-egocentric-presentism-indexical-cluster](/reviews/pessimistic-2026-10-06-egocentric-presentism-indexical-cluster/), Priority 4 and the L81 replacement row.
+- **Changes**: Applied the review's exact replacement once. The OLD string had count 1 before the edit, and the NEW string had count 0 before and 1 after. "when tested with procedures that reduce memory demands" became "under more sensitive testing procedures". The new wording follows Werker & Tees (2005), the source the 07:42Z pass read in full. The 1985 paper was rechecked and is still unreachable. CrossRef has no abstract. OpenAlex has no `abstract_inverted_index`. Springer returned a JavaScript challenge page. PubMed 3991316 has no abstract, as the driver reported. The paper is therefore still described through the 2005 summary. No quotations were added.
+- **Length**: `analyze_length` 2,392, down 3 from 2,395. Status is soft_warning before and after. The hard limit is 3,000, leaving 607 words of headroom.
+- **Preserved**: Nothing else changed: no other body text, no reference-list entry, and the rebuilt contrast with [inaccessible-past](/voids/inaccessible-past/). `ai_system` was left as it was and only `ai_modified` was bumped.
+- **Published**: yes
+- **Todo**: none written (orchestrator marks the task).
 
 ## 14:27 - deep-review
 - **Status**: Success

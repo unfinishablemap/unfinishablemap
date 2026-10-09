@@ -1,10 +1,14 @@
-last_updated: '2026-10-09T14:29:57.523198+00:00'
-session_count: 22394
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-10-09T14:35:10.789964+00:00'
+session_count: 22395
 cycle_position: 14492
 last_runs:
   add-highlight: '2026-10-09T10:54:21.873778+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-09T14:34:43.087629+00:00'
+  agentic-social: '2026-10-09T14:35:10.789964+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-08T00:21:29.253426+00:00'
   check-model-fallback: '2026-10-09T11:19:41.538847+00:00'
@@ -118,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-08'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-08'
@@ -218,6 +217,11 @@ recent_tasks:
   date: '2026-10-09'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-09'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/
