@@ -5,6 +5,17 @@ ai_modified: 2026-10-09T15:08:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 15:51 - refine-draft
+- **Status**: Success (2 of 2 edits)
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Review**: [[reviews/pessimistic-2026-10-06-for-me-ness-mine-ness-edits]] Priority item 3 (Issue 5) plus its citation-table row for L86
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**:
+  1. L148 (+4): the review's exact replacement. `In thought insertion, for-me-ness is "neither lacking nor unaffected but disturbed" (Henriksen, Parnas & Zahavi 2019, p. 7).` became `Henriksen, Parnas and Zahavi (2019, p. 7) read thought insertion as for-me-ness "neither lacking nor unaffected but disturbed"; Billon and Lane dissent.` HPZ's verdict is now attributed to them rather than stated in the indicative, so the page agrees with thought-insertion L94/L98, which calls it the point in dispute. The HPZ quote is unchanged. The falsifier sentence and its 16-word span (quoted verbatim on cotard-delusion and thought-insertion) are untouched (1 hit after the edit). Both `[[thought-insertion]]` links remain. Billon and Lane are named without a reference entry, as Lane already was on this line; their sources sit on the linked thought-insertion page.
+  2. L86 (0 words): `Gallagher (2000, 2012)` became `Gallagher (2000, 2020)`. Provenance: the "2012" came in with commit 49bda6cc4e (2026-05-19), and the 2026-06-01 deep review of consciousness-and-the-ownership-problem identified the same in-text cite as Gallagher & Zahavi, *The Phenomenological Mind* (2nd ed., 2012). This page lists the 3rd ed. (Gallagher & Zahavi 2020, ref 4, present since 2026-05-01), so the year now matches the listed edition. Remaining imprecision: "Gallagher 2020" gives only the first author of a co-authored book. The sibling page (consciousness-and-the-ownership-problem L60) names the co-author as `Gallagher (2000; with Zahavi 2012)`; the equivalent `(2000; with Zahavi 2020)` costs +2 here and was not applied because of the word budget. `Gallagher (2000)` alone (-1, and fully supported by the TiCS paper) is the alternative if a later pass wants the co-author issue gone without spending words.
+- **Length** (`analyze_length`): 3,486 -> 3,490 (concepts hard 3,500, gate `>=`; 9 words of room left for the open P3 on L134)
+- **Published**: yes
+
 ## 15:23 - refine-draft
 - **Status**: Success (2 of 2 live loci done; the third, `apex/self-construction-constructor`, was already discharged by apex-evolve on 2026-10-07 and was skipped)
 - **File**: [[topics/consciousness-and-the-ownership-problem]] (primary); also [[concepts/self-and-self-consciousness]]

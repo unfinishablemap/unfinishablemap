@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-10-09 15:23:14+00:00
+ai_modified: 2026-10-09 15:51:02+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-10-09 15:23:14+00:00
+lastmod: 2026-10-09 15:51:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ A fourth dimension cuts across all layers: [the unobservable self](/voids/self-o
 
 ## Mine-ness and Agency as Separable Components
 
-Within the minimal-self layer, two phenomenal features must be distinguished. [Mine-ness](/concepts/mine-ness/) is the for-me character by which experience presents as belonging to a subject. The sense of agency is the character by which a thought or action presents as initiated by that subject. Gallagher (2000, 2012) draws the distinction from clinical phenomenology: schizophrenic [thought insertion](/concepts/thought-insertion/) preserves ownership while disrupting agency (the thought occurs in *my* mind but feels produced by someone else). On the Gallagher-style reading, [depersonalisation](/concepts/depersonalisation/) disrupts ownership while sparing the sense of initiation, though active-inference accounts describe a disturbed sense of control, making the separation one-way.
+Within the minimal-self layer, two phenomenal features must be distinguished. [Mine-ness](/concepts/mine-ness/) is the for-me character by which experience presents as belonging to a subject. The sense of agency is the character by which a thought or action presents as initiated by that subject. Gallagher (2000, 2020) draws the distinction from clinical phenomenology: schizophrenic [thought insertion](/concepts/thought-insertion/) preserves ownership while disrupting agency (the thought occurs in *my* mind but feels produced by someone else). On the Gallagher-style reading, [depersonalisation](/concepts/depersonalisation/) disrupts ownership while sparing the sense of initiation, though active-inference accounts describe a disturbed sense of control, making the separation one-way.
 
 Most of this article's claims about "for-me-ness" and "first-personal givenness" sit at the *mine-ness* layer rather than the agency layer. Ego-dissolution evidence concerns mine-ness; the bidirectional-interaction argument concerns agency; the indexical-identity argument concerns mine-ness as the phenomenal anchor and haecceity as its diachronic correlate. The distinction matters because each feature has its own falsifying scenario: perfect co-variation of content and mine-ness would defeat the mine-ness reading without touching the agency reading, and vice versa. This is phenomenal feature decomposition, not a commitment about how many subjects there are; the [evidential-status-discipline](/project/evidential-status-discipline/) applies to both layers.
 
@@ -150,7 +150,7 @@ This Zahavi/Metzinger choice is the Western form of a dispute the classical Indi
 
 Sass and Parnas's work on schizophrenic ipseity disturbance, alongside the depersonalisation literature, documents scalar disruption of for-me-ness — thoughts experienced as alien, the self felt as unreal while experience continues. These appear to threaten the constitutive claim.
 
-The claim concerns *kind*, not intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — not that it fully dissolves while phenomenal life continues. In thought insertion, for-me-ness is "neither lacking nor unaffected but disturbed" (Henriksen, Parnas & Zahavi 2019, p. 7). [Every reported case is reported from somewhere](/concepts/cotard-delusion/), though only a reporting position follows. The global falsifier is conceptual against the clinical record, since [no report could meet it](/concepts/thought-insertion/): clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered. Per experience, [Lane reads an inserted thought as anonymous](/concepts/thought-insertion/); the claim survives him only if the reports are read in clinical context.
+The claim concerns *kind*, not intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — not that it fully dissolves while phenomenal life continues. Henriksen, Parnas and Zahavi (2019, p. 7) read thought insertion as for-me-ness "neither lacking nor unaffected but disturbed"; Billon and Lane dissent. [Every reported case is reported from somewhere](/concepts/cotard-delusion/), though only a reporting position follows. The global falsifier is conceptual against the clinical record, since [no report could meet it](/concepts/thought-insertion/): clean elimination — phenomenal life continuing without any residue of for-me-ness, no position from which the lack is registered. Per experience, [Lane reads an inserted thought as anonymous](/concepts/thought-insertion/); the claim survives him only if the reports are read in clinical context.
 
 This methodological move generalises (see [self-opacity void](/voids/self-opacity/#constitutive-as-kind-not-as-degree)): distinguish kind-claim from degree-claim, name the falsifying scenario as elimination rather than attenuation, and concede scalar variation without conceding structural contingency.
 
