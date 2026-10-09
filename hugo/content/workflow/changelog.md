@@ -1,14 +1,59 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 18:34:55+00:00
+ai_modified: 2026-10-09 19:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 18:34:55+00:00
+lastmod: 2026-10-09 19:45:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 19:38 - refine-draft
+- **Status**: Success
+- **File**: [preference-void](/voids/preference-void/) (main), plus [voids](/voids/) L215 (the derived one-line summary of this page)
+- **Original score**: n/a (targeted fix; pessimistic-2026-10-09-preference-void, Priority List 1–4 plus carries C1–C5)
+- **Length**: `analyze_length` 2,626 before, 2,842 after (+216; voids hard 3,000, gate `>=`, headroom now 157). `voids.md` 7,615 before and after (length-neutral). No hedges were cut.
+- **Changes** (every old string was grep-verified to occur exactly once before replacing):
+  1. Issue 1, front surfaces: the description now reads "cannot tell from inside whether its preference was read off or built in the asking". L41 "says the presentation misleads" became "shows the presentation can mislead". In `voids.md` L215, "cannot read its own preference ordering ... conjoined at the site the tenets select" became "cannot tell found preference orderings from built ones ... conjoined at the decision point" (23→23 tokens). The review's suggested "decision void's candidate site" was +2, so the shorter wording was used to stay length-neutral.
+  2. Issue 2, seam: L51 now says co-occurrence is informative only if the sources are independent, with a piped in-page link `[[#the-seam|tested below]]`. The L75 frame-logging sentence was replaced with the three proximate sources and the unrun constructive-processing unification. Added the Payne, Bettman & Johnson 1992 reference (re-checked at Crossref).
+  3. Issue 3, mark face: L71 marks the move from observer to valuer as the Map's extension. L75 "would feel provisional" became "easier to detect, since incoherent valuations expose themselves". L93 settledness is now scoped to point-answer formats, with Butler & Loomes 2007. L59 is now "no single point-answer elicitation". Added the Butler & Loomes reference.
+  4. Issue 4, retrospective currency: L63 adds Izuma & Murayama's own small corrected-design effect and Enisman et al. 2021. L65 is now "now have artifact-free designs". L43 is now "a measurement debate whose artifact-free designs now favour it". Added the Enisman reference.
+  5. Carries: C1 (L41, "most natural candidate site"), C2 (L116 MQI read as the tenet's empirical constraints, not channel size), C3 (L116 NMW "is not engaged"), C4 (L85 "often small" deleted, since it is not in Warren et al.), and C5 (L59 BDM task "matched the auction in the first round but not the fifth").
+  6. References were renumbered 1–21, alphabetical by first author. No in-text numeric cites exist.
+- **Deviations from the review's exact text, each for source fidelity**:
+  - Butler & Loomes: the review had "found that it accounts for"; the article says "found that it can account for". The abstract reads "the extent to which it can explain ... preference reversals of two opposite forms". Nothing was written about self-reported "not sure" responses, since the procedure was not read at source.
+  - Enisman: "a moderate one, d = 0.40" became "a larger one". The abstract carries no magnitude label, and Izuma & Murayama call d = 0.26 "small ... based on the conventional criterion", so 0.40 falls between Cohen's small and medium.
+  - C2: added "no conservation-law violation" so the parenthetical matches all three constraints listed in `tenets.md` L69.
+- **Source checks this pass**:
+  - Butler & Loomes abstract (Crossref).
+  - Enisman et al. abstract (Europe PMC: 43 studies, N = 2,191, d = 0.40 [0.32, 0.49], no evidence for publication bias).
+  - Izuma & Murayama full text (PMC3566335): d = 0.26 over the four post-critique studies, "choice-induced preference change does exist".
+  - Payne et al. metadata (Crossref).
+- **Reasoning mode**: no named-opponent reply was restructured. The three deflations at L83–L89 keep their in-framework replies.
+- **OPEN HUMAN QUESTION (flagged, not resolved)**: L109's reading 1 ends "This moves the site from the commitment to the ordering the commitment expresses." `tenets.md` L107 commits the Map to *outcome*-selection, and lists a relocation that "would weaken outcome-selection to context-setting" as one the Map "could adopt but has not". Selecting which evaluative ordering governs an act is arguably context-setting for that act, unless the ordering is itself counted as an outcome of a valuation process. L109's substance was left as it was. This needs an operator ruling on whether the page should state the ordering-as-outcome reading or retreat.
+- **Not done (off-list per the review, still open)**:
+  - The BHS 2009 mirror-image clause at L83.
+  - Ariely et al.'s "not necessarily reduced by market forces" at L69.
+  - The L109 residual-variance sentence.
+  - L97 "Direct. None." against Butler & Loomes.
+  - The research note's "Choudhary, S." at note L175 and L289.
+- **Published**: yes
+
+## 19:45 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: `voids/preference-void` (fresh create 2026-10-03, unchanged since 10-04; first focused review of any kind; 2,626/3,000, headroom 373). Read against its research note, `apex/conjunction-coalesce` L78/L110, `tenets.md` L69/L95/L107 and `decision-void` L52/L72–74, with primary sources at Crossref/OpenAlex/Europe PMC/RePEc/SEP.
+- **Clean**: 14/15 quotations verbatim at source; the Braga & Starmer 2005 quote is unreachable, not wrong. TSK 1990 paraphrase and Chen & Risen "proved" are faithful. Yin et al.'s third author initial (V.) is correct in the article; the research note's "S." is wrong. Style, label-leakage and frontmatter are clean, and hugo is in sync.
+- **Findings**:
+  1. The description and lead assert "the asking builds the answer", but the body defends only the access claim (L77/L89). This is epistemic/metaphysical equivocation on the truncation surface.
+  2. L75 claims the faces' co-occurrence is informative without the upstream-source and independence showing that conjunction-coalesce L78 requires, and its frame-logging severability argument picks the wrong face.
+  3. L71 moves Ariely et al.'s observer-side "illusion of order" into the chooser without marking it as the Map's extension. L75's "would feel provisional" does not follow, and Butler & Loomes 2007 (imprecision accounts for reversals) cuts against L59 and L93.
+  4. L63 leaves out Izuma & Murayama's own result ("does exist", d = 0.26), and Enisman et al. 2021 (43 artifact-free studies, d = 0.40, no publication bias) is absent, so L43 and L65 are stale.
+  5. Smaller items: the Cox & Grether BDM gloss (L59), BHS 2009's mirror-image anomaly (L83), and Warren et al. "often small", which is not in the source (L85).
+  6. Tenet-check 10-05 #15 (L41) and Note 8 (L116 NMW vacuous, MQI as channel size) are carried unchanged and were never minted.
+- **Priority List (cap 4, exact old→new in file, about +219; carries C1–C5 about +11)**: (1) description, L41 and voids.md L215, +1; (2) seam L51/L75 plus the Payne 1992 reference, +61; (3) mark face L71/L75/L93/L59 plus the Butler & Loomes reference, +80; (4) retrospective currency L43/L63/L65 plus the Enisman 2021 reference, +66. A ready P2 refine-draft task block is in the file.
+- **Output**: [pessimistic-2026-10-09-preference-void](/reviews/pessimistic-2026-10-09-preference-void/)
 
 ## 19:05 - refine-draft
 - **Status**: Success
