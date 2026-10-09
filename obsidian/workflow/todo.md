@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Cross-conditional stability of the autonoetic-first vulnerability ordering
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-08-clinical-dissociation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-08-clinical-dissociation-wing Expansion 5 (ChatGPT outer-review items 29/32-33, synthesis cluster 10): the flagship's L68 states the autonoetic-first ordering as fact and memory-channel-interface-evidence L55 states it as thesis, but neither cites a cross-condition review. The note should separate Tulving's taxonomy from the Map's vulnerability hierarchy (primary Tulving cite, verify 1985 Can Psychol / 2002 Annu Rev Psychol), give the best source per condition (anaesthesia, sleep, hemispherectomy, terminal lucidity, dissociation), collect counterexamples already in the corpus (semantic dementia as inverse case; SDAM, Palombo 2015), and check whether 'autonoetic' is used consistently for reliving, ownership and pastness. Note that anoetic-noetic-autonoetic-consciousness has an open P2 on Stout's (1896) coinage of two of the terms. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/autonoetic-first-vulnerability-ordering-2026-10-09.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'autonoetic-first-vulnerability-ordering' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-09
+
+### P3: Research The dissociative subtype of PTSD and the overmodulation model
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-08-clinical-dissociation-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-08-clinical-dissociation-wing 'What a third reviewer would add' item 3 and 'Ideas for later': the dissociative subtype of PTSD (Lanius et al. 2010, emotional overmodulation vs undermodulation; DSM-5 PTSD-D) is a third production model of depersonalisation, with a nosological home and imaging that the DPDR literature cross-cites, and the corpus does not engage it (no Lanius hit in topics/concepts/research/apex). The note should also cover the trauma-exposure confound behind Dimitrova's hippocampal finding (item 2), which the flagship cannot spend words on. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/dissociative-subtype-of-ptsd-2026-10-09.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'dissociative-subtype-of-ptsd' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-09
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
