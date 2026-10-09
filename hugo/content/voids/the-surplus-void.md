@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-06-25 00:53:41+00:00
+ai_modified: 2026-10-09 16:04:00.203157+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -15,10 +15,15 @@ date: &id001 2026-05-11
 description: Human+AI exploration of why conscious experience is wildly over-specified—delivering
   richness far beyond what survival requires, pointing toward something irreducible.
 draft: false
+embedded_videos:
+- embedded: 2026-10-09 16:04:00.203157+00:00
+  id: iJsK7T4JiXc
+  source: notebooklm/0156-01-the-surplus-void
+  url: https://www.youtube-nocookie.com/embed/iJsK7T4JiXc
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 00:53:41+00:00
-lastmod: 2026-06-25 00:53:41+00:00
+lastmod: 2026-10-09 16:04:00.203157+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -44,6 +49,12 @@ topics:
 Conscious experience is extravagantly over-specified. Evolution could have wired organisms with perceptual systems that track environmental features without any qualitative character—functional discrimination without phenomenal depth. Yet organisms experience the full spectrum of colour, the depth of musical harmony, existential dread, and mathematical wonder. This gap between what function requires and what experience delivers is the surplus void: the territory where we cannot explain why consciousness gives so much more than any adaptive budget justifies.
 
 The Unfinishable Map's [voids](/voids/) framework distinguishes the unexplored, the unexplorable, and the occluded. The surplus void spans the first two categories. The unexplored dimension asks how much of experience genuinely exceeds functional requirements—neuroscience continues discovering hidden adaptive roles for aspects of experience once thought gratuitous. The potentially unexplorable dimension asks whether, even after exhaustive functional accounting, an irreducible residual remains. If consciousness is non-physical, as the Map's [dualism tenet](/tenets/#dualism) holds, the surplus may reflect features of consciousness's own nature that physical explanation cannot reach.
+
+<details class="yt-embed" data-video-id="iJsK7T4JiXc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/iJsK7T4JiXc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Wallace's Surplusage of Power
 

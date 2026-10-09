@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 15:08:08+00:00
+ai_modified: 2026-10-09 17:06:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 15:08:08+00:00
+lastmod: 2026-10-09 17:06:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:06 - apex-evolve
+- **Status**: Complete
+- **Article**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Selection**: tied top staleness (82 days × 3 changed sources = 246) with `minds-without-words`. The tie was broken on fractional days; this page was also the only one of the two over the apex hard gate.
+- **Changed sources**: 3 by `modified` field (mental-effort, attentional-economics, structure-of-attention). Git activity showed 3 more that had changed substantively without bumping `modified` (attention-and-the-consciousness-interface, phenomenology-of-returning-attention, attention-as-interface). All 6 were integrated. Added source: `concepts/self-control-as-skill-and-scaffolding`.
+- **Word count**: 5,108 → 4,933 (`analyze_length`; `hard_warning` → `soft_warning`, 67 under the 5,000 gate; 62 of the final words are three added references)
+- **Main changes**:
+  - Evidence and Dependency ledger installed.
+  - Six carried tenet-check loci repaired: 2026-10-08 Note 2 (L80); 2026-09-28 Family S (lead, L140, Synthesis, Void), Family I (No-MWI) and the bare-illusionist-regress locus.
+  - Tenet 2 bandwidth-as-minimality sentence removed; Tenet 5 Occam verdict made symmetric.
+  - Witness locus made quantifier-neutral; it was not added to the blocked P3.
+  - From the sources: the AST opacity mechanism, the self-control caution on felt effort, the thalamic gate as a candidate site, and the Hasenkamp executive-network correction.
+  - The effort/difficulty self-contradiction fixed; "document" corrected to "argue" for Sauerbrei & Pruszynski; "This apex article synthesises" removed (media-neutral rule).
+- **Citations**: Sauerbrei & Pruszynski completed. Vohs 2021, Dang 2025 and Laukkonen/Friston/Chandaria 2025 were cited in the body without reference entries, and are now added. All 4 verified by DOI on Crossref.
+- **For the driver**:
+  - (1) `voids/agency-void` L132 has the same missing Vohs/Dang reference entries, verified. Suggest a P3 refine-draft; entries are in the review.
+  - (2) Only 67 words of margin remain on this page, so pair any future addition with a trim.
+  - (3) `minds-without-words` (246, no ledger, 4,115 words) is the next apex candidate.
+- **Hugo**: synced (`scripts/sync.py`).
+- **Review**: [apex-evolve-2026-10-09-attention-as-causal-bridge](/reviews/apex-evolve-2026-10-09-attention-as-causal-bridge/)
+
+## 16:34 - research-voids
+- **Status**: Skipped by design (no new void researched; no file created; no state change)
+- **Measured**: voids **113/115** by `tools.evolution.state.count_section_files("voids")` at 2026-10-09T16:3xZ (`ls` gives 114 `.md` including the index, no sidecars); `max_voids: 115`. Not at capacity, so the cap gate did not fire. `research/voids-*.md` = **215**, unchanged since the 2026-10-08 00:36 skip.
+- **Why skipped**: nothing that decided the 10-08 skip has moved. The operator's P3 "NEEDS-HUMAN (voids slot)" (todo, Status `needs-human`) is still open; no human commit has touched `obsidian/voids/`, `obsidian/research/` or todo.md since 10-08 00:30Z; `task_chains.pending_articles` still holds exactly one voids entry (`voids-grammar-void-2026-10-05`, ranked 4th and marked fold by the 2026-10-06 triage). With two slots and five triaged candidates (veto > dormancy > serial-order > grammar > contingency, per [voids-slot-triage-five-banked-candidates-2026-10-06](/research/voids-slot-triage-five-banked-candidates-2026-10-06/)), a new note appended to `pending_articles` would be the first voids candidate replenish sees and would overtake the triage ranking.
+- **Carry-forward discharged**: the 10-08 entry's item (2) — the veto note's "ballistic" / "before EMG onset" quote-fidelity flag on `topics/quantum-neural-timing-constraints` — is **already fixed** and was when 10-08 repeated it: `d9cffec784` and `f90f7139bc` (both 2026-10-06) corrected L44/L99, and `a05e3bd25a` (2026-10-09 15:09Z) swept the siblings. Re-verified this run: "Schultze-Kraft" on 5 lines (positive control), the quoted `"ballistic"` 0, "EMG onset" 0; the one remaining "ballistic" (L99) is the unquoted "not strictly ballistic" paraphrase that matches the paper. Drop it from future driver notes.
+- **For the driver**: item (1) of the 10-08 entry stands. If the operator adopts the triage, remove grammar from `pending_articles` before replenish's unconsumed-research pass mints an expand for it, and add veto/dormancy. Until that call is made, every `research-voids` trigger will repeat this skip. That is cheap, but the skill's L30 gate cannot see it (see the open NEEDS-HUMAN cadence/cap entry for the one-condition supply gate proposed 2026-09-21).
 
 ## 15:51 - refine-draft
 - **Status**: Success (2 of 2 edits)
