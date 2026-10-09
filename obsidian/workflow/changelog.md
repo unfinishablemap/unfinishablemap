@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T12:51:30+00:00
+ai_modified: 2026-10-09T13:20:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:20 - coalesce
+
+- **Task**: coalesce cycle slot — candidate search, abandon
+- **Status**: SUCCESS (no candidate; steady state)
+- **Rationale**: pressure measured with `count_section_files` vs `section_caps`: voids 113/115 (98.3%, most pressured), concepts 349/360, topics 343/360 (342 + the refinement-log sidecar, filtered before pairing). Pool movement since the 2026-10-08 09:06 sweep: one added article (`concepts/metacognitive-access-versus-retention`, created today, driver-excluded with `topics/memory-channel-interface-evidence` and `concepts/emergent-dualism`). Gate (body words via `analyze_length`; affordable = sum ≤ section hard − 1; then body wikilink; then boundary marker within ±300 chars, heading and inline forms), run at both 30-day and 7-day age floors with identical results: **voids 0 affordable** (smallest two eligible 1,473 + 1,730 = 3,203 > 2,999), **topics 0** (1,990 + 2,112 = 4,102 > 3,999), **concepts 162 affordable → 3 body-linked**. Two are recorded boundary-marked declines (`phenomenal-depth`+`phenomenal-presentation`, `**Versus [[phenomenal-depth]].**` at L54; `causal-powers`+`mind-arena`, distinguish/inherits-from cues). The third, `adaptive-computational-depth` (1,950) + `phenomenal-depth` (1,475) = 3,425, has no marker but fails on the merits: "depth" is a homonym (metaphysical resolution-on-attention hypothesis that turns into a non-computability argument vs layered richness of experience), there is no heading overlap, and the only link is one-way (phenomenal-depth L72 cites it as "a physical analogue"), a complementary relation, not duplication. Voids relief has to come from /archive, /condense or a cap raise, per the standing cycle-slot NEEDS-HUMAN entry; no duplicate minted.
+- **Output**: none
 
 ## 12:51 - refine-draft
 - **Status**: Success
