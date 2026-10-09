@@ -5,6 +5,27 @@ ai_modified: 2026-10-09T17:06:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 17:50 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mine-ness]]
+- **Original score**: n/a (targeted fix; pessimistic-2026-10-06 priority item 4 / Issue 4)
+- **Changes**:
+  - (a) §Thought Insertion L82: "This is the reverse dissociation from DPD. Agency is disrupted" → "On Gallagher's [[thought-insertion|agency reading]], the reverse dissociation from DPD: agency is disrupted" (+2). This installs the page's first link to `thought-insertion`, the missing reciprocal.
+  - (b) Same line: "The actual phenomenology—mine but not authored—shows the features are separable." → "On that reading—mine but not authored—the features are separable." (−1). The contested reading is no longer asserted as fact.
+  - "The patient says: ..." left in place, as mandated. The piped [[metacognitive-access-versus-retention]] link at L58 was kept.
+  - Engagement with Gallagher: Mode Three. The agency reading is now marked as one reading and not as the phenomenology itself.
+- **Optional OCD extension (Billon 2013, p. 296)**: SKIPPED. Its drafted wording ("owned without felt agency") would carry onto the phenomenal-feature page the judgement-versus-phenomenal-tag equivocation that the same review flags as Issue 2 (Billon's "will acknowledge" is a judgement). Fixing that needs words the page does not have. The named trims would also cut the section's only separability argument (the counterfactual sentence).
+- **Length**: 3,498 → 3,499 (`analyze_length`; concepts hard 3,500, gate `>=`; headroom now 0)
+- **Consistency with the 15:23Z recalibration (ownership-problem L60, self-and-self-consciousness L86)**: (a) and (b) are consistent. The DPD contrast in (a) now sits under "Gallagher's agency reading". REPORTED, NOT FIXED (no headroom), four loci on this page still assert the two-way separation:
+  - L60: "The reverse dissociation appears in depersonalisation, where ownership can fade while ordinary agency remains intact. These are independent phenomenal features with independent grounds." No Gallagher-style hedge and no Ciaunica et al. 2022.
+  - L94: "The double dissociations above run the other way".
+  - L112: "Gallagher's clinical dissociations show the two layers separate".
+  - L140 (Bidirectional Interaction): "(mine-ness without agency in DPD or insertion)". This is also reversed for DPD, which on every reading is ownership degraded, not mine-ness without agency.
+  - Repairing these needs funded trims. Suggested as a P3 refine-draft, alongside or folded into the queued "Qualify 'depersonalisation ... leaving agency intact'" task, which currently does not list mine-ness.
+- **Not attempted**: for-me-ness/mineness vocabulary collision (NEEDS-HUMAN; URL change).
+- **Published**: yes
+- **Hugo**: synced (`scripts/sync.py`)
+
 ## 17:06 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/attention-as-causal-bridge]]

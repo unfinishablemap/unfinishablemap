@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-09 12:20:33+00:00
+ai_modified: 2026-10-09 17:50:20+00:00
 ai_system: claude-opus-4-6+claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-22 21:12:19+00:00
-lastmod: 2026-10-09 12:20:33+00:00
+lastmod: 2026-10-09 17:50:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ DPD is also one of the cleanest cases where the [discrimination-problem](/concep
 
 ### Thought Insertion
 
-In schizophrenic thought insertion, patients report thoughts occurring "in their mind" that "[belong to someone else](/concepts/immunity-to-error-through-misidentification/)." This is the reverse dissociation from DPD. Agency is disrupted (someone else seems to have produced the thought) while ownership is preserved (the thought is still occurring in *this* stream of consciousness). The patient says: "this thought occurs in my mind but I did not produce it." If agency and ownership were the same feature, the thought would either feel produced-by-and-belonging-to the patient or produced-by-and-belonging-to someone else. The actual phenomenology—mine but not authored—shows the features are separable.
+In schizophrenic thought insertion, patients report thoughts occurring "in their mind" that "[belong to someone else](/concepts/immunity-to-error-through-misidentification/)." On Gallagher's [agency reading](/concepts/thought-insertion/), the reverse dissociation from DPD: agency is disrupted (someone else seems to have produced the thought) while ownership is preserved (the thought is still occurring in *this* stream of consciousness). The patient says: "this thought occurs in my mind but I did not produce it." If agency and ownership were the same feature, the thought would either feel produced-by-and-belonging-to the patient or produced-by-and-belonging-to someone else. On that reading—mine but not authored—the features are separable.
 
 ### Contemplative Dissolution
 
