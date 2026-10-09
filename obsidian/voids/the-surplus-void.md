@@ -4,7 +4,7 @@ description: "Human+AI exploration of why conscious experience is wildly over-sp
 created: 2026-02-24
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-25T00:53:41+00:00
+ai_modified: 2026-10-09T16:04:00.203157+00:00
 last_deep_review: 2026-06-25T00:53:41+00:00
 draft: false
 topics:
@@ -36,11 +36,22 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-24
 last_curated:
+embedded_videos:
+  - id: iJsK7T4JiXc
+    url: https://www.youtube-nocookie.com/embed/iJsK7T4JiXc
+    embedded: 2026-10-09T16:04:00.203157+00:00
+    source: notebooklm/0156-01-the-surplus-void
 ---
 
 Conscious experience is extravagantly over-specified. Evolution could have wired organisms with perceptual systems that track environmental features without any qualitative character—functional discrimination without phenomenal depth. Yet organisms experience the full spectrum of colour, the depth of musical harmony, existential dread, and mathematical wonder. This gap between what function requires and what experience delivers is the surplus void: the territory where we cannot explain why consciousness gives so much more than any adaptive budget justifies.
 
 The Unfinishable Map's [[voids]] framework distinguishes the unexplored, the unexplorable, and the occluded. The surplus void spans the first two categories. The unexplored dimension asks how much of experience genuinely exceeds functional requirements—neuroscience continues discovering hidden adaptive roles for aspects of experience once thought gratuitous. The potentially unexplorable dimension asks whether, even after exhaustive functional accounting, an irreducible residual remains. If consciousness is non-physical, as the Map's [[tenets#^dualism|dualism tenet]] holds, the surplus may reflect features of consciousness's own nature that physical explanation cannot reach.
+
+<details class="yt-embed" data-video-id="iJsK7T4JiXc">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/iJsK7T4JiXc">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Wallace's Surplusage of Power
 
