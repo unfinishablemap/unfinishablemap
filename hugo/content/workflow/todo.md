@@ -1921,17 +1921,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: analyze_length 2,765 against concepts hard 3,500 (driver, 21:29Z).
 - **Notes**: L145 opens "**Bidirectional Interaction**: [Bidirectional interaction](/tenets/#bidirectional-interaction) requires a unified agent. If consciousness were fragmented… there would be no integrated subject to select among quantum possibilities or exercise causal power. What that requires is a synchronically unified locus of selection…". tenets.md L95 gives Tenet 3's standing as AVAILABLE, not actual, and the tenet does not itself require a bearer or agent. Use the repair installed on `concepts/self-and-self-consciousness` L134 at 21:27Z as the model ("requires that conscious influence on physical outcomes be available, and the Map's interface account needs some locus for it"). Reword L145 so that Tenet 3 requires availability, and so that the unity requirement belongs to the Map's interface ACCOUNT (a locus of selection), not to the tenet. Keep the page's existing argument that a fragmented consciousness would lack such a locus, but attribute it to the account. Check the wording of tenets.md L63–L69, L85, L89–L95 and L117 before writing any tenet gloss. Find the target by quoted text. No "This is not X. It is Y."; no "load-bearing". Update ai_modified (UTC), plus-join your actual model into ai_system only if absent, sync, verify both trees.
 
-### P2: `concepts/self-and-self-consciousness` L194 Occam paragraph says the evidence "actually requires" the minimal self, contradicting the page's own L138 ("metaphysical fit, not empirical compulsion") — tenet-check-2026-10-03 W L194, never tasked
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/self-and-self-consciousness.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-09 21:52Z (first-person certification wing; driver confirmed every old string occurs exactly once at 21:55Z)
-- **Generated**: 2026-10-09
-- **Review file**: `reviews/optimistic-2026-10-09-first-person-certification-wing.md`
-- **Headroom**: analyze_length 3,495 after the 21:27Z edit (concepts hard 3,500, gate >=). The edit is +2 and finishes at 3,497. Re-measure first.
-- **Notes**: Priority List item 1. Replace the L194 sentence ending "…actually requires." with the review's new sentence, which says Tenet 5 bars parsimony from settling the choice either way and links the page's own `#the-circularity-problem` anchor. Optional 0-word rider at L192: "supports the tenet's emphasis on indexical identity" → "fits the tenet's emphasis on indexical identity". Today's 21:27Z edits at L128/L134/L190 (Tenet 3 locus) must stay intact. Grounding: tenets.md L145. Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC from date -u) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
-
 ### P3: Memory certification — add Sheen, Kemp & Rubin 2001 "disputed memories" to `concepts/quasi-memory-and-the-circularity-objection` L102 and a Michaelian-2022/quasi-memory link sentence to `concepts/simulation-theory-of-memory` L56 (TWO FILES)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/quasi-memory-and-the-circularity-objection.md
@@ -1967,6 +1956,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-09: `concepts/self-and-self-consciousness` L194 Occam paragraph says the evidence "actually requires" the minimal self, contradicting the page's own L138 ("metaphysical fit, not empirical compulsion") — tenet-check-2026-10-03 W L194, never tasked
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/self-and-self-consciousness.md
+- **Notes**: Priority List item 1. Replace the L194 sentence ending "…actually requires." with the review's new sentence, which says Tenet 5 bars parsimony from settling the choice either way and links the page's own `#the-circularity-problem` anchor. Optional 0-word rider at L192: "supports the tenet's emphasis on indexical identity" → "fits the tenet's emphasis on indexical identity". Today's 21:27Z edits at L128/L134/L190 (Tenet 3 locus) must stay intact. Grounding: tenets.md L145. Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC from date -u) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
 
 ### ✓ 2026-10-09: `concepts/self-and-self-consciousness` L134 — Tenet 3 made to require a bearer and Zahavi's minimal self made the bearer of causal influence (tenet-check Warning 8, carried since 09-28 — fourth flag; page 3,486/3,500 — net <= 0)
 - **Type**: refine-draft

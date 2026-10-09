@@ -1495,16 +1495,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/outer-review-synthesis-2026-10-07.md`
 - **Notes**: Exact drafted wording for the four un-installed items is in the changelog entry `## 07:13 - refine-draft` (2026-10-07): (1) Smithies 2026 felt-event rival sentence + reference (ch. 11, *The Nature of Belief*, doi:10.1093/9780197744208.003.0011; quote verified at Crossref; ~+56); (2) 'the two rivals exclude each other — on active inference no event remains, on Smithies the event is felt — and either way the unfelt event does not survive; what survives is…' (~+40; only coherent once (1) is in); (3) Laukkonen, Friston & Chandaria 2025 reference line + in-text cite (+24; currently carried by predictive-processing-and-dualism only); (4) Singh 2026 / Crowe 2026 'contested' clause at the Booth sentence (~+65 with refs). If condensing: the 07:00Z and 07:13Z installs are OFF LIMITS (four-position sentence; S&V + Hieronymi pair; Winters/Booth/Alston; timing studies; K10 substitutions; coherence-not-confirmation; PP paragraph; Mandelbaum deflationary concession; Occam concession). Measure with tools.curate.length.analyze_length (gate >=).
 
-### P3: `voids/self-opacity` L126 — names the wrong dependency: assent-void's transparency face shares belief's truth-directedness with Schulz, not the subject-object 'constitutive thesis'; substitute, net −2 (pessimistic-2026-10-07 integration wing, item 4)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/self-opacity.md
-- **Section**: voids
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-07 08:41Z (assent-void integration wing), minted by the driver
-- **Generated**: 2026-10-07
-- **Review file**: `reviews/pessimistic-2026-10-07-assent-void-integration-wing.md`
-- **Notes**: Page 3,071/3,000 — already OVER hard: the edit must be net NEGATIVE (the review's substitution is −2). Replace the 07:40Z clause 'applying the constitutive thesis rather than independently supporting it' with the review's exact replacement (Issue 5): the shared upstream is belief's truth-directedness (Schulz), so the assent void's transparency face applies that, not the subject-object constitutive thesis. Keep the [[assent-void|assent void]] link. Use the review's EXACT old/new text (Issues section); locate the target by its QUOTED old text, confirm it occurs exactly once, print the live line; if a string no longer matches, report and do not improvise. Measure with tools.curate.length.analyze_length before/after (gate >=). No 'This is not X. It is Y.'; no 'load-bearing'. ai_modified from `date -u` (never ahead); plus-join your model into ai_system; changelog before sync; `uv run python scripts/sync.py`; verify both trees. Do not commit; do not edit todo.md. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/pessimistic-2026-10-07-assent-void-integration-wing.md
-
 ### P3: `concepts/type-a-type-b-and-type-c-physicalism` L112 'Common Misroutings' — name the DEFINITIONAL form of the futurity error (Type-B 'hopes'/'expects'/'does not yet grasp') and its tell, tense (optimistic-2026-10-07 Type-B wing, item 3; +49 vs 669 headroom)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/type-a-type-b-and-type-c-physicalism.md
@@ -1954,6 +1944,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-09: `voids/self-opacity` L126 — names the wrong dependency: assent-void's transparency face shares belief's truth-directedness with Schulz, not the subject-object 'constitutive thesis'; substitute, net −2 (pessimistic-2026-10-07 integration wing, item 4)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/self-opacity.md
+- **Notes**: Page 3,071/3,000 — already OVER hard: the edit must be net NEGATIVE (the review's substitution is −2). Replace the 07:40Z clause 'applying the constitutive thesis rather than independently supporting it' with the review's exact replacement (Issue 5): the shared upstream is belief's truth-directedness (Schulz), so the assent void's transparency face applies that, not the subject-object constitutive thesis. Keep the [[assent-void|assent void]] link. Use the review's EXACT old/new text (Issues section); locate the target by its QUOTED old text, confirm it occurs exactly once, print the live line; if a string no longer matches, report and do not improvise. Measure with tools.curate.length.analyze_length before/after (gate >=). No 'This is not X. It is Y.'; no 'load-bearing'. ai_modified from `date -u` (never ahead); plus-join your model into ai_system; changelog before sync; `uv run python scripts/sync.py`; verify both trees. Do not commit; do not edit todo.md. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/pessimistic-2026-10-07-assent-void-integration-wing.md
 
 ### ✓ 2026-10-09: `concepts/self-and-self-consciousness` L194 Occam paragraph says the evidence "actually requires" the minimal self, contradicting the page's own L138 ("metaphysical fit, not empirical compulsion") — tenet-check-2026-10-03 W L194, never tasked
 - **Type**: refine-draft

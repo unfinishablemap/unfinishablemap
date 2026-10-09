@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T22:19:35+00:00
+ai_modified: 2026-10-09T22:34:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:34 - refine-draft
+- **Status**: Success
+- **File**: [[voids/self-opacity]]
+- **Original score**: n/a. This is a targeted fix: Issue 5 of [[reviews/pessimistic-2026-10-07-assent-void-integration-wing]].
+- **Length**: `analyze_length` went from 3,071 to 3,069, net −2 (voids hard limit 3,000, gate `>=`), matching the review's costing. The page was already over before this edit; its overrun was not in scope here.
+- **Changes** (the review's exact old→new string; the old sentence was grep-verified to occur once at 22:34Z):
+  1. L126: "The [[assent-void|assent void]]'s transparency face restates this on the belief side, applying the constitutive thesis rather than independently supporting it." became "The [[assent-void|assent void]]'s transparency face shares this source, belief's truth-directedness, and so cannot independently support the constitutive thesis." The 2026-10-07 07:40Z clause named the wrong dependency. The page's constitutive thesis (L134) is about the subject-object asymmetry. The assent void's transparency face comes from Shah & Velleman's truth-norm argument, which the assent void calls framework-independent. What the two passages share upstream is belief's truth-directedness (Schulz's "beliefs present their content as true"). The not-independent-support discount stays; only its stated source changed. "On the belief side" was redundant and has been dropped. The `[[assent-void|assent void]]` link is kept (present once).
+- **Frontmatter**: `ai_modified` and `modified` were bumped. `ai_system` is unchanged because it already includes claude-opus-5-5.
+- **Published**: yes
 
 ## 22:19 - refine-draft
 - **Status**: Success
