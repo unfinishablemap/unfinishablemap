@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-19 18:51:54+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_modified: 2026-10-09 15:07:26+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5-5
 concepts: []
 created: 2026-01-24
-date: '2026-08-19'
+date: '2026-10-09'
 draft: false
-lastmod: 2026-08-19 18:51:54+00:00
+lastmod: 2026-10-09 15:07:26+00:00
 related_articles: []
 title: Research Notes - Quantum Neural Timing Constraints
 ---
@@ -73,9 +73,9 @@ This research investigates whether the ~280-300ms timing windows identified in m
   - Point of no return ~200ms before EMG onset
   - Brain-computer interface experiments testing action cancellation
   - Before 200ms, movements can still be vetoed
-  - After 200ms, movement execution is "ballistic"
+  - After 200ms, movement onset can no longer be withheld, though the movement can still be aborted or altered as it unfolds, so the cut-off is not strictly ballistic ("ballistic" is the paper's label for the earlier hypothesis it qualifies)
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying the veto window
-- **Quote**: "The point of no return in motor action has been found to be around 200 ms before the onset of muscle contractions"
+- **Paraphrase (unverified quote removed 2026-10-09)**: Schultze-Kraft et al. identified a point of no return at ~200 ms before movement onset, measured by EMG; past it, movement onset can no longer be withheld, though the movement can still be aborted or altered as it unfolds
 
 ### Stapp (2008) - Quantum Zeno Model
 - **URL**: https://arxiv.org/abs/0803.1633
@@ -192,7 +192,7 @@ This research investigates whether the ~280-300ms timing windows identified in m
 | Revised decoherence | 10⁻⁵-10⁻⁴ s (10-100 μs) | Microtubule coherence | Marginal |
 | Mesoscopic coherence | 10⁻³-10⁻² s (1-10 ms) | Network effects (predicted) | Sufficient if real |
 | Gamma oscillations | ~25 ms (40 Hz cycle) | Neural binding | Stapp correlate |
-| Point of no return | ~200 ms | Action becomes ballistic | Veto window ends |
+| Point of no return | ~200 ms | Movement onset can no longer be withheld | Veto window ends |
 | Motor commitment | ~280 ms | Neural decision signature | Thura-Cisek finding |
 | Voluntary attention deployment | ~300 ms post-cue | Endogenous orienting latency (vs ~100–175 ms reflexive) | Müller & Rabbitt 1989 (classic cueing figure; NOT Rajan et al.) |
 | Willed-attention theta | ~500 ms post-cue | Frontal theta increase, willed relative to instructed | Rajan et al. 2019 |

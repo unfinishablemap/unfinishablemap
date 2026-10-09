@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-09-27 08:36:20+00:00
+ai_modified: 2026-10-09 15:07:26+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:21:28+00:00
-lastmod: 2026-09-27 08:36:20+00:00
+lastmod: 2026-10-09 15:07:26+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ This matters for interpreting Libet. The RP arises mainly from SMA and premotor 
 
 ## Libet's Own Interpretation: Veto Power
 
-Libet himself never accepted that his experiments refuted free will. He proposed that consciousness retains "veto power"—the ability to cancel a prepared action in the final 100-200 milliseconds before movement.
+Libet himself never accepted that his experiments refuted free will. He proposed that consciousness retains "veto power"—the ability to cancel a prepared action in the final 100-200 milliseconds before movement. Schultze-Kraft et al. (2016) [measured the boundary](/topics/quantum-neural-timing-constraints/): onset could be cancelled only when a stop signal came more than ~200 ms before movement, closing Libet's window, at least for cued stops, though the movement can still be altered after onset.
 
 **"Free won't" rather than "free will"**: The brain prepares options spontaneously. Consciousness doesn't initiate—but it selects. It can allow the prepared action to proceed or abort it. This preserves a role for conscious agency, though shifted from initiation to selection.
 
@@ -233,5 +233,6 @@ The Map's position is that the selection model is coherent with current evidence
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 1. Maoz, U., Yaffe, G., Koch, C., & Mudrik, L. (2019). Neural precursors of decisions that matter—an ERP study of deliberate and arbitrary choice. *eLife*, 8, e39787.
 1. Filevich, E., Kühn, S., & Haggard, P. (2013). There is no free won't: Antecedent brain activity predicts decisions to inhibit. *PLoS ONE*, 8(2), e53053.
+1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.

@@ -1486,16 +1486,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md`
 - **Notes**: Exact old/new text for [P-Q4](/positions/quantum-interface/#p-q4) (around L92) is in the review's Priority item 4; [P-Q1](/positions/quantum-interface/#p-q1) (around L55) carries the same framing. The ranking does not change, only its stated reason. No calibration or status change is proposed. Also recorded by the review, off-list and unminted: von-neumann-wigner-interpretation L112 and L58 (+4, +3), brain-specialness-boundary L67, and about ten grep-lead files outside the wing that say Stapp-Zeno must outpace decoherence (not read in context); a single sweep task could follow once items 1-3 land. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/optimistic-2026-10-05-quantum-interface-concession-corridor.md
 
-### P3: `voids/infant-consciousness` L81 — 'procedures that reduce memory demands' outruns the one source read for Werker & Logan 1985 (pessimistic-2026-10-06, Priority item 4; -3 words)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/infant-consciousness.md
-- **Section**: voids
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-06 11:19Z (egocentric-presentism / indexical cluster), minted by the driver
-- **Generated**: 2026-10-06
-- **Review file**: `reviews/pessimistic-2026-10-06-egocentric-presentism-indexical-cluster.md`
-- **Notes**: The 07:42Z rewrite characterised Werker & Logan 1985 via Werker & Tees 2005 because the 1985 paper is unreachable; the 2005 summary says only 'more sensitive behavioral testing procedures', so 'procedures that reduce memory demands' overstates what was read. Apply the review's -3-word replacement so the hedge matches the source actually read; if the 1985 abstract becomes reachable (PubMed 3991316 has none), characterise from it and say so. Nothing else on the page; the rebuilt contrast with inaccessible-past was judged sound. Use the review's EXACT old/new text; locate every target by its QUOTED old text (not line number), confirm it occurs exactly once, print the live line; if a string no longer matches, report and do not improvise. Re-measure with tools.curate.length.analyze_length before and after (gate >=, headroom = hard - 1 - count) and stay under hard. Quotations added must be the spans the review verified in raw text (Hare 2007 JSTOR scan, Hare 2010 MIT preprint, List 2023 LSE PDF, List 2025 OUP OA) — copy them from the review exactly; add nothing from memory. Keep the Map's calibration: rivals unrefuted, deflationist horn open, disagreement near bedrock. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock (date -u; never ahead of the clock); changelog before sync; run scripts/sync.py and verify every touched file in BOTH trees. Do not commit; do not edit todo.md. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/pessimistic-2026-10-06-egocentric-presentism-indexical-cluster.md
-
 ### P3: Schultze-Kraft 2016 'ballistic' sibling sweep — `concepts/decoherence` L113 asserts the strict ballistic reading the paper rejects; archive pages quote the word; research note L74 carries an unlocated `Quote:` (carry-forward from the 12:53Z quantum-neural-timing-constraints fix)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/decoherence.md
@@ -2003,6 +1993,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-09: `voids/infant-consciousness` L81 — 'procedures that reduce memory demands' outruns the one source read for Werker & Logan 1985 (pessimistic-2026-10-06, Priority item 4; -3 words)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/infant-consciousness.md
+- **Notes**: The 07:42Z rewrite characterised Werker & Logan 1985 via Werker & Tees 2005 because the 1985 paper is unreachable; the 2005 summary says only 'more sensitive behavioral testing procedures', so 'procedures that reduce memory demands' overstates what was read. Apply the review's -3-word replacement so the hedge matches the source actually read; if the 1985 abstract becomes reachable (PubMed 3991316 has none), characterise from it and say so. Nothing else on the page; the rebuilt contrast with inaccessible-past was judged sound. Use the review's EXACT old/new text; locate every target by its QUOTED old text (not line number), confirm it occurs exactly once, print the live line; if a string no longer matches, report and do not improvise. Re-measure with tools.curate.length.analyze_length before and after (gate >=, headroom = hard - 1 - count) and stay under hard. Quotations added must be the spans the review verified in raw text (Hare 2007 JSTOR scan, Hare 2010 MIT preprint, List 2023 LSE PDF, List 2025 OUP OA) — copy them from the review exactly; add nothing from memory. Keep the Map's calibration: rivals unrefuted, deflationist horn open, disagreement near bedrock. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from the real clock (date -u; never ahead of the clock); changelog before sync; run scripts/sync.py and verify every touched file in BOTH trees. Do not commit; do not edit todo.md. Review file: /home/andy/unfin/unfinishablemap/obsidian/reviews/pessimistic-2026-10-06-egocentric-presentism-indexical-cluster.md
 
 ### ✓ 2026-10-09: Research The dissociative subtype of PTSD and the overmodulation model
 - **Type**: research-topic

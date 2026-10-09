@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-08-19 18:54:54+00:00
-ai_system: claude-sonnet-4-5-20250929+claude-fable-5
+ai_modified: 2026-10-09 15:07:26+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-fable-5+claude-opus-5-5
 archive_reason: Coalesced into Decoherence and the Quantum Consciousness Objection
 archived: true
 archived_date: 2026-02-17 13:42:00+00:00
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-01-24 19:15:00+00:00
-lastmod: 2026-08-19 18:54:54+00:00
+lastmod: 2026-10-09 15:07:26+00:00
 modified: *id001
 original_path: /concepts/quantum-decoherence-objection/
 related_articles:
@@ -69,7 +69,7 @@ The decoherence debate takes on new significance when considering empirical data
 
 - **Motor commitment** (~280ms): Thura and Cisek (2014) found that premotor cortex populations commit to specific actions approximately 280ms before movement onset—the signature of volitional decision in neural recordings.
 - **Willed attention** (~300ms): voluntary attention deploys at ~300ms post-cue (the classic endogenous-orienting latency, Müller & Rabbitt 1989 — not a result of the theta study); Rajan et al. (2019, lead author Rajan not Bengson) found frontal theta power greater for willed than for instructed attention, beginning ~500ms post-cue.
-- **Point of no return** (~200ms): Schultze-Kraft (2016) established that actions become "ballistic" (no longer subject to conscious veto) approximately 200ms before execution.
+- **Point of no return** (~200ms): Schultze-Kraft et al. (2016) found that movement onset can no longer be withheld once a stop signal arrives later than approximately 200ms before it, though the movement can still be altered or aborted as it unfolds.
 
 See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for detailed analysis of this timing hierarchy.
 

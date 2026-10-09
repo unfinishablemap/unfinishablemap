@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-08-18 02:24:30+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-09 15:07:26+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 archive_reason: Coalesced into The Bandwidth of Consciousness
 archived: true
 archived_date: 2026-03-04 13:22:00+00:00
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-03 05:41:00+00:00
-lastmod: 2026-08-18 02:24:30+00:00
+lastmod: 2026-10-09 15:07:26+00:00
 modified: *id001
 original_path: /topics/neural-bandwidth-constraints-and-the-interface/
 related_articles:
@@ -145,7 +145,7 @@ The Map's framework locates this selection at points of [quantum indeterminacy](
 
 ### The Veto Window
 
-Schultze-Kraft's 2016 research identified a "point of no return" at ~200ms before movement execution. Before this point, conscious intervention can veto prepared actions; after it, execution is ballistic. The veto window is another expression of the bandwidth constraint: consciousness has limited time and limited capacity to evaluate and override neural preparations.
+Schultze-Kraft's 2016 research identified a "point of no return" at ~200ms before movement execution. Before this point, conscious intervention can veto prepared actions; after it, movement onset can no longer be withheld, though the movement can still be altered or aborted as it unfolds. The veto window is another expression of the bandwidth constraint: consciousness has limited time and limited capacity to evaluate and override neural preparations.
 
 This dissolves rather than creates the [Libet problem](/concepts/libet-experiments/). Libet found that neural preparation precedes conscious awareness by hundreds of milliseconds, apparently showing consciousness as "too late" to cause action. But if consciousness's role is selection among prepared options rather than initiation from nothing, the preparation *should* precede selection. You cannot choose among options that haven't been prepared yet.
 

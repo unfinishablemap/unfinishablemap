@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-06-05
 human_modified: null
-ai_modified: 2026-08-21T12:38:40+00:00
+ai_modified: 2026-10-09T15:07:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[topics/animal-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-25T20:28:50+00:00
@@ -110,7 +110,7 @@ Recent work is suggestive: epothilone B delayed anaesthetic-induced unconsciousn
 
 ## Neural Decision Windows
 
-Empirical neural decision timings cluster at a few hundred milliseconds, though on different clocks: motor commitment ~280ms before movement (Thura & Cisek, 2014), voluntary attention deployment ~300ms post-cue (Müller & Rabbitt, 1989), the frontal theta signature of willed attention from ~500ms post-cue (Rajan et al., 2019), and actions becoming ballistic ~200ms before movement (Schultze-Kraft, 2016)—figures of the same order rather than one shared window. See [[quantum-neural-timing-constraints]] for detailed analysis.
+Empirical neural decision timings cluster at a few hundred milliseconds, though on different clocks: motor commitment ~280ms before movement (Thura & Cisek, 2014), voluntary attention deployment ~300ms post-cue (Müller & Rabbitt, 1989), the frontal theta signature of willed attention from ~500ms post-cue (Rajan et al., 2019), and the last point at which movement onset can still be withheld, ~200ms before it (Schultze-Kraft et al., 2016)—figures of the same order rather than one shared window. See [[quantum-neural-timing-constraints]] for detailed analysis.
 
 Any mechanism claiming consciousness influences neural outcomes must operate within these constraints. Can quantum effects bridge the gap between microsecond decoherence and hundreds-of-milliseconds decision windows?
 

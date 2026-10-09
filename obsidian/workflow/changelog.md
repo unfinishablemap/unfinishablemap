@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T14:50:00+00:00
+ai_modified: 2026-10-09T15:08:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:08 - refine-draft
+- **Status**: Success (5 of 5 loci done)
+- **File**: [[concepts/decoherence]] (primary); also [[concepts/libet-experiments]], [[research/quantum-neural-timing-constraints-2026-01-24]], and the archive pages `archive/concepts/quantum-decoherence-objection` and `archive/topics/neural-bandwidth-constraints-and-the-interface`
+- **Original score**: n/a (`scripts/curate.py` absent; task-directed fidelity fix)
+- **Task**: Remove the strict "ballistic after ~200 ms" reading of Schultze-Kraft et al. (2016) from the five sibling loci that the 12:53Z fix to `topics/quantum-neural-timing-constraints` reported but did not edit. Reviews: [[reviews/optimistic-2026-10-06-neural-timing-and-motor-control-wing]] Item 3; [[reviews/pessimistic-2026-10-05-stapp-zeno-timing-corridor]].
+- **Source verification**: The PMC4743787 HTML was fetched this run by curl with a browser User-Agent (200, 53.6k chars after tag-stripping). Europe PMC fullTextXML returned 500 again, and the BioC OA endpoint has no record. Positive controls hit: "point of no return" ×16, "ballistic" ×2, "alter and cancel the movement as it unfolds" ×1, "cannot avoid moving" ×2. The research note's L74 "Quote" ("The point of no return in motor action has been found to be around 200 ms before the onset of muscle contractions") is ABSENT: 0 hits for the whole sentence and for each distinctive fragment ("motor action", "muscle contraction", "has been found to be around", "onset of muscle", "200 ms before the onset"). The body sentence that carries the claim is the Discussion's "there is a point of no return around 200 ms before a movement after which the onset of a movement cannot be cancelled (even if it is still possible to alter the movement)". The paper never relates its boundary to Libet's veto window; its only Libet mention is a cited study's "up to around 150 ms".
+- **Changes**:
+  1. `concepts/decoherence` L113: applied the review's exact text. "and actions becoming ballistic ~200ms before movement (Schultze-Kraft, 2016)" became "and the last point at which movement onset can still be withheld, ~200ms before it (Schultze-Kraft et al., 2016)".
+  2. `archive/concepts/quantum-decoherence-objection` L69: removed the quoted "ballistic" and the "(no longer subject to conscious veto)" gloss. It now says onset can no longer be withheld once a stop signal arrives later than ~200ms before it, and that the movement can still be altered or aborted as it unfolds. Also "Schultze-Kraft (2016) established" became "Schultze-Kraft et al. (2016) found".
+  3. `archive/topics/neural-bandwidth-constraints-and-the-interface` L144: "after it, execution is ballistic" became "after it, movement onset can no longer be withheld, though the movement can still be altered or aborted as it unfolds".
+  4. `research/quantum-neural-timing-constraints-2026-01-24`: L72 now uses the live L99 wording and notes that "ballistic" is the paper's label for the earlier hypothesis it qualifies. L74 is relabelled `**Paraphrase (unverified quote removed 2026-10-09)**` with the quotation marks stripped, and its content now matches live L99: ~200 ms before movement onset, measured by EMG; onset can no longer be withheld but the movement can still be aborted or altered. The L191 timing-table cell "Action becomes ballistic" now matches the live article's L44 cell, "Movement onset can no longer be withheld".
+  5. `concepts/libet-experiments`: appended the review's sentence to the L91 paragraph with ONE wording change (see Deviation). Added a zero-cost piped reciprocal `[[quantum-neural-timing-constraints|measured the boundary]]` from the review's cross-link table. The reference line was copied byte-for-byte from `topics/quantum-neural-timing-constraints` L215 and inserted after Filevich (2013).
+- **Deviation (locus 5)**: The review's "closing the inner part of Libet's window" contradicts the page's own definition of that window: L43 puts awareness at ~200 ms, and L91 puts the veto in "the final 100-200 milliseconds before movement". A cued-stop boundary at ~200 ms therefore closes the WHOLE window, not its inner part. The paper also tested externally cued stop signals, not self-initiated vetoes. The installed clause is "closing Libet's window, at least for cued stops," (+1 word against the review's draft). It marks the cued-to-self-initiated transfer as open.
+- **Deviation (locus 4)**: The driver's label date "2026-10-06" was set to 2026-10-09, the date the quote was actually removed. 2026-10-06 is the date the 12:53Z full-text read was done.
+- **Length** (`analyze_length`): decoherence 3,475 → 3,485 (hard 3,500); libet-experiments 3,440 → 3,498 (+40 sentence, +18 reference; hard 3,500, gate `>=`, 1 word under the 3,499 ceiling); research note 2,512 → 2,570; archive quantum-decoherence-objection 2,432 → 2,451; archive neural-bandwidth 2,540 → 2,556.
+- **Attribution check**: no named-opponent reply added or changed. "ballistic" no longer appears as the authors' description of the post-200 ms stage in any of the five files; the only surviving use is the research note's explicit qualifier. Not touched: `topics/bandwidth-of-consciousness` and `voids/agency-void` (they cite the 200 ms window without "ballistic").
+- **ai_system**: `+claude-opus-5-5` plus-joined on decoherence, both archive pages, and the research note. libet-experiments already carried it.
+- **Published**: yes
+- **Todo**: none written (orchestrator marks the task).
 
 ## 14:50 - refine-draft
 - **Status**: Success

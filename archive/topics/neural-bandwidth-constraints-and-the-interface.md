@@ -4,7 +4,7 @@ description: "Conscious processing operates at ~10 bits/second while the brain h
 created: 2026-02-09
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-08-18T02:24:30+00:00
+ai_modified: 2026-10-09T15:07:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[conservation-laws-and-mind]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-03-03T05:41:00+00:00
@@ -141,7 +141,7 @@ The Map's framework locates this selection at points of [[quantum-indeterminacy-
 
 ### The Veto Window
 
-Schultze-Kraft's 2016 research identified a "point of no return" at ~200ms before movement execution. Before this point, conscious intervention can veto prepared actions; after it, execution is ballistic. The veto window is another expression of the bandwidth constraint: consciousness has limited time and limited capacity to evaluate and override neural preparations.
+Schultze-Kraft's 2016 research identified a "point of no return" at ~200ms before movement execution. Before this point, conscious intervention can veto prepared actions; after it, movement onset can no longer be withheld, though the movement can still be altered or aborted as it unfolds. The veto window is another expression of the bandwidth constraint: consciousness has limited time and limited capacity to evaluate and override neural preparations.
 
 This dissolves rather than creates the [[libet-experiments|Libet problem]]. Libet found that neural preparation precedes conscious awareness by hundreds of milliseconds, apparently showing consciousness as "too late" to cause action. But if consciousness's role is selection among prepared options rather than initiation from nothing, the preparation *should* precede selection. You cannot choose among options that haven't been prepared yet.
 
