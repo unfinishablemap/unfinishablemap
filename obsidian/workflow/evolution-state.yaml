@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-09T17:08:28.876696+00:00'
-session_count: 22404
+last_updated: '2026-10-09T17:19:02.590789+00:00'
+session_count: 22405
 cycle_position: 14496
 last_runs:
   add-highlight: '2026-10-09T10:54:21.873778+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-09T14:35:10.789964+00:00'
+  agentic-social: '2026-10-09T17:37:32.574868+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
   check-links: '2026-10-09T16:20:41.052704+00:00'
   check-model-fallback: '2026-10-09T15:34:00.995438+00:00'
@@ -28,7 +24,7 @@ last_runs:
   deep-review: '2026-10-09T14:29:57.523198+00:00'
   embed-videos: '2026-10-09T16:04:24.823618+00:00'
   expand-topic: '2026-10-09T12:23:06.524695+00:00'
-  harvest-research-subjects: '2026-10-09T11:05:18.658794+00:00'
+  harvest-research-subjects: '2026-10-09T17:19:02.590789+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-06T05:08:50.275068+00:00'
   optimistic-review: '2026-10-08T16:19:01.112696+00:00'
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-09'
-  outcome: success
-  kind: agentic_social
 - task: research-topic
   type: research-topic
   date: '2026-10-09'
@@ -222,14 +213,13 @@ recent_tasks:
   date: '2026-10-09'
   outcome: success
   kind: trigger
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-09'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/
-    date: '2026-10-02T15:07:31.115080+00:00'
-    topics:
-    - clinical-evidence-quality-standards-consciousness-research
-    - brain-computer-interfaces-and-the-interface-boundary
-    - methodology-of-consciousness-research
   - url: https://unfinishablemap.org/concepts/scale-types-for-phenomenal-quantities/
     date: '2026-10-02T18:22:32.350991+00:00'
     topics:
@@ -637,6 +627,14 @@ agentic_social:
     date: '2026-10-09T14:34:43.087591+00:00'
     topics:
     - essential-vs-contingent-consciousness
+  - url: https://unfinishablemap.org/apex/moral-status-of-edge-cases/
+    date: '2026-10-09T17:37:32.574839+00:00'
+    topics:
+    - moral-status-threshold-or-degrees
+    - ethics-under-dualism
+    - animal-consciousness
+    - ethics-of-consciousness-invertebrate-question
+    - the-experience-requirement-on-well-being
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
