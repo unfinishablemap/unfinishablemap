@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 19:05 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Original score**: n/a (targeted fix; optimistic-2026-10-06-formal-limits-and-channel-class-wing, Expansion Opportunity 4)
+- **Changes**: replaced the L115 sentence pair "The same formal mechanism that prevents a system from proving its own consistency also prevents a physical theory from determining its own measurement outcomes. This is rigorous mathematics, not analogy." with the review's exact L108 text. The quoted current text was grep-verified to occur exactly once before the swap. The page now states Szangolies' result as the sibling self-reference-and-the-limits-of-physical-description states it at L74/L76: the Lawvere mechanism generates quantum epistemic horizons (value indeterminacy, complementarity, the uncertainty relations), and that much is rigorous mathematics. Reading the horizon as a limit on outcome determination is now marked as the Map's extension, which Szangolies, a naturalist, does not draw. Before, the "rigorous mathematics" label sat on the Map's extension. The existing caveat two sentences later ("Szangolies' result concerns epistemic horizons, not phenomenal experience") was kept unchanged; it fences the phenomenal reading, and the new sentence fences the outcome reading. The optional L113 reciprocal was not installed: the review's form adds words, and the page already links [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) at the end of the same paragraph. Length 3,026 → 3,052 (hard 4,000; +26 as priced). ai_system plus-joined with claude-opus-5-5.
+- **Published**: yes
+
 ## 18:34 - refine-draft
 - **Status**: Success
 - **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
