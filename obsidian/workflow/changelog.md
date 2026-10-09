@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T22:34:17+00:00
+ai_modified: 2026-10-09T22:56:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:55 - deep-review
+- **Status**: Success
+- **File**: [[concepts/reflexive-methodology]]
+- **Word count**: 2431 → 2476 (+45). Concepts soft limit is 2500 and hard is 3500; status ok.
+- **Critical issues addressed**: 6.
+  - (1) L93 said "self-stultification establishes the causal efficacy dualism requires", which contradicted the same paragraph's "not a premise-neutral defeat". It now reads "argues for".
+  - (2) The L73 retorsion sentence gained "on the argument's reading". It now names the phenomenal-concept strategy as "the epiphenomenalist's strongest reply", which denies the reading rather than the performance.
+  - (3) The Stroud reply implied that the datum delivers efficacy. It has been rephrased, and guardrail 3 now says the datum secures neither irreducibility nor causal efficacy, adding an epiphenomenalist clause.
+  - (4) L33 said pragmatism "fails it", which contradicted the page's own pragmatism downgrade. It now reads "granted a premise the Map supplies, fails it".
+  - (5) The tenet paragraph claimed closure shows rivals "unable to stop short of dualism". It now reads "the closure argument cannot exclude dualism".
+  - (6) The Castagnoli quotation "cannot coherently or consistently maintain" was unverifiable. It is absent from the CUP blurb, BMCR, Uckelman and a Google Books search-within with controls, and its only source is the Map's own research note. It was replaced by the verbatim "indefensible in debate" (p. 28).
+- **Medium issues addressed**: 4.
+  - L39: removed the quotation marks around an unsourced "may be true but cannot be rationally held" and added the hub's "if the argument goes through".
+  - L41: "can expose".
+  - L95: "where it can".
+  - L83: "Applied here" separates Stroud from the Map's application of him.
+- **Enhancements made**: 1 cross-link, [[phenomenal-concepts-strategy]].
+- **Length**: cut the tenet paragraph's redundant closing sentence (−25).
+- **Citations**: all re-verified at the publisher of record (Crossref DOIs for Cutter, Mackie and Stroud; SEP citation_author meta). The Cutter quote was grep-verified verbatim in the raw PDF.
+- **Reasoning modes** (editor-internal):
+  - Pragmatism: Mode Three.
+  - Closure: Mode One.
+  - Cutter: Mode One.
+  - Retorsion: upgraded to Mixed.
+  - Stroud: Mixed, with an efficacy boundary added.
+- **Todo**: discharged the P3 refine-draft "`concepts/reflexive-methodology` L93 … L73" (pessimistic-2026-10-08 Priority 2). Its header was rewritten to ✓ and the parse_tasks active count went from 58 to 57.
+- **ai_system**: appended claude-opus-5-5.
+- **Output**: [[reviews/deep-review-2026-10-09-reflexive-methodology]]
 
 ## 22:34 - refine-draft
 - **Status**: Success
