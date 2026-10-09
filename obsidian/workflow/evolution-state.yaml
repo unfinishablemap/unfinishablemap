@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-09T11:05:18.658794+00:00'
-session_count: 22383
+last_updated: '2026-10-09T11:19:41.538847+00:00'
+session_count: 22384
 cycle_position: 14484
 last_runs:
   add-highlight: '2026-10-09T10:54:21.873778+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-08T14:53:29.949622+00:00'
+  agentic-social: '2026-10-09T11:27:07.547973+00:00'
   apex-evolve: '2026-10-07T03:28:51.999415+00:00'
   check-links: '2026-10-08T00:21:29.253426+00:00'
-  check-model-fallback: '2026-10-08T15:04:42.208145+00:00'
+  check-model-fallback: '2026-10-09T11:19:41.538847+00:00'
   check-tenets: '2026-10-08T12:01:32.831319+00:00'
   coalesce: '2026-10-08T09:06:57.832445+00:00'
   collect-chatgpt-review: '2026-10-08T04:04:16.948062+00:00'
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-tenets
-  type: check-tenets
-  date: '2026-10-08'
-  outcome: success
-  kind: trigger
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-08'
@@ -222,55 +213,13 @@ recent_tasks:
   date: '2026-10-09'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-09'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
-    date: '2026-10-01T15:54:58.280211+00:00'
-    topics:
-    - memory-channel-interface-evidence
-    - self-stultification-as-master-argument
-  - url: https://unfinishablemap.org/concepts/interpreter-module-narrative-construction-unity/
-    date: '2026-10-01T17:37:20.464137+00:00'
-    topics:
-    - split-brain-consciousness
-    - the-self-minimal-narrative-and-substantial
-  - url: https://unfinishablemap.org/concepts/active-reboot/
-    date: '2026-10-01T19:22:14.494087+00:00'
-    topics:
-    - anaesthesia-and-the-consciousness-interface
-    - consciousness-disruption-and-the-mind-brain-interface
-  - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
-    date: '2026-10-01T21:22:31.033391+00:00'
-    topics:
-    - essential-vs-contingent-consciousness
-  - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
-    date: '2026-10-01T23:07:01.956783+00:00'
-    topics:
-    - testing-consciousness-collapse
-  - url: https://unfinishablemap.org/concepts/semanticisation/
-    date: '2026-10-02T02:37:34.689461+00:00'
-    topics:
-    - consciousness-and-memory
-    - phenomenology-of-memory-and-the-self
-  - url: https://unfinishablemap.org/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/
-    date: '2026-10-02T07:07:42.362843+00:00'
-    topics:
-    - introspection-architecture-independence-scoring
-    - indian-philosophy-of-mind
-    - epistemology-of-convergence-arguments
-  - url: https://unfinishablemap.org/concepts/inference-to-the-best-explanation-against-dualism/
-    date: '2026-10-02T08:55:33.781461+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - causal-closure-debate-historical-survey
-    - parsimony-case-for-interactionist-dualism
-    - the-epiphenomenalist-threat
-  - url: https://unfinishablemap.org/topics/eighteenth-century-influx-debate/
-    date: '2026-10-02T10:23:02.405467+00:00'
-    topics:
-    - history-of-the-interaction-problem
-    - causal-closure-debate-historical-survey
-    - free-will
   - url: https://unfinishablemap.org/topics/covert-consciousness-and-cognitive-motor-dissociation/
     date: '2026-10-02T12:23:10.003953+00:00'
     topics:
@@ -683,6 +632,11 @@ agentic_social:
     - bacterial-chemotaxis-and-minimal-biogenic-cognition
     - interoceptive-consciousness-and-the-interface
     - the-psychophysical-control-law
+  - url: https://unfinishablemap.org/concepts/cross-mechanism-convergence/
+    date: '2026-10-09T11:27:07.547938+00:00'
+    topics:
+    - memory-channel-interface-evidence
+    - self-stultification-as-master-argument
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
