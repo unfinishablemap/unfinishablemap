@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-10-09 15:51:02+00:00
+ai_modified: 2026-10-09 21:27:30+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:10:00+00:00
-lastmod: 2026-10-09 15:51:02+00:00
+lastmod: 2026-10-09 21:27:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,13 +130,13 @@ The Map takes the Zahavian reading to better fit first-person reports: subjects 
 
 ## Why the Map Requires the Zahavian Version
 
-Three of the Map's core commitments require the Zahavian minimal self specifically, and fail on the Metzinger alternative.
+Three of the Map's core commitments fail on the Metzinger alternative; two require the Zahavian minimal self specifically.
 
 **Ego-dissolution as evidence.** The Map's treatment of [psychedelics](/topics/psychedelics-and-the-filter-model/), [meditation](/topics/the-observer-witness-in-meditation/), and [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) depends on a subject whose relationship to the brain's self-model can change. If the self is nothing but the self-model, ego-dissolution *is* local extinction of the subject. If the minimal self persists through self-model disruption, filter-theoretic interpretations of altered states become intelligible.
 
 **Indexical identity.** [No Many Worlds](/tenets/#no-many-worlds) rests on *this* experience being *mine* and not some duplicate's. A Metzingerian zero-person phenomenology would have no indexical anchor.
 
-**Bidirectional interaction.** [Bidirectional Interaction](/tenets/#bidirectional-interaction) requires a subject whose influence on physical outcomes is real. Cognitive science treats representations as causally implicated, but *implicated in* is not the same role as *the agent of*. A self-model alone does not supply that bearer; the Zahavian minimal self does.
+**Bidirectional interaction.** [Bidirectional Interaction](/tenets/#bidirectional-interaction) requires that conscious influence on physical outcomes be available, and the Map's interface account needs some locus for it. Cognitive science treats representations as causally implicated, but *implicated in* differs from *the agent of*: neither a self-model alone nor, on the Map's reading, Zahavi's minimal self supplies one.
 
 ## Choice Under Metaphysical Commitment
 
@@ -192,7 +192,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 
 **[Dualism](/tenets/#dualism)**: First-personal givenness is not a feature of physical descriptions — neurological detail describes what a subject does, not what it is to *be* this subject. The circularity problem deepens this: if self-consciousness cannot be constructed from non-self-conscious components, consciousness has a feature no functional decomposition captures. [Reductionism succeeds](/concepts/reductionism/) where the higher-level phenomenon is structural and functional; self-consciousness resists because reflexive awareness belongs to a different category.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reflective self-consciousness enables deliberate choice — evaluating, revising, redirecting among competing impulses rather than passively executing whichever is strongest. The minimal self, not a self-model, is the bearer of that agency.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reflective self-consciousness enables deliberate choice — evaluating, revising, redirecting among competing impulses rather than passively executing whichever is strongest. Neither the minimal self nor a self-model is that agency's locus.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The minimal self is *this* particular perspective, not a pattern that could be multiply instantiated. The [indexical character](/concepts/indexical-knowledge-and-identity/) of first-person experience — the unrepeatable fact that *I* am having this experience — supports the tenet's emphasis on indexical identity.
 

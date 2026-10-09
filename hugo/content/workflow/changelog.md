@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 21:06:15+00:00
+ai_modified: 2026-10-09 21:27:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 21:06:15+00:00
+lastmod: 2026-10-09 21:27:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:27 - refine-draft
+- **Status**: Success
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Original score**: n/a. This is a targeted fix for tenet-check-2026-10-07 Warning 8 (L134). The warning was carried from 09-28, 10-02 and 10-03, and the 10-02 and 10-03 entries list it as "L134/L190".
+- **Length**: `analyze_length` went from 3,490 to 3,495 (net +5; concepts hard limit 3,500, gate `>=`). Net 0 was not reachable without dropping the "Cognitive science treats" attribution or the explicit disavowal at L190.
+- **Changes** (the quoted L134 strings were each grep-verified to occur once. tenets.md L63–L69, L85, L89–L95, L117 and L184 were read first):
+  1. L134: "requires a subject whose influence on physical outcomes is real" became "requires that conscious influence on physical outcomes be available, and the Map's interface account needs some locus for it". This drops the bearer requirement and the "real" that read above tenets L95 (available, not actual). The closing clause "A self-model alone does not supply that bearer; the Zahavian minimal self does" became "neither a self-model alone nor, on the Map's reading, Zahavi's minimal self supplies one". Per L106, the minimal self is a mode of givenness and "not a homunculus". It cannot bear causal influence without stretching Zahavi's concept. The words were paid for in the same line: "is not the same role as" became "differs from".
+  2. L190 (Relation to Site Perspective): "The minimal self, not a self-model, is the bearer of that agency" became "Neither the minimal self nor a self-model is that agency's locus". This is the same warning's second locus. Without it, the page would contradict the repaired L134.
+  3. L128 (word-neutral): "Three of the Map's core commitments require the Zahavian minimal self specifically, and fail on the Metzinger alternative" became "Three ... fail on the Metzinger alternative; two require the Zahavian minimal self specifically". After item 1, the bidirectional commitment no longer selects Zahavi, so the section lead would have overstated it.
+- **Reasoning mode**: n/a. This is an internal tenet-calibration and concept-provenance repair. The Metzinger engagement is unchanged.
+- **Not touched**: the L148 sentence ending "Billon and Lane dissent." and the falsifier span "no position from which the lack is registered" (both verified present once). L138 ("conditional on the three commitments above") still reads correctly. The same defect remains live in the sibling `concepts/unity-of-consciousness` L145 ("requires a unified agent"; 09-28 class), which is out of scope here.
+- **ai_system**: unchanged (it already includes claude-opus-5-5).
 
 ## 21:06 - refine-draft
 - **Status**: Success

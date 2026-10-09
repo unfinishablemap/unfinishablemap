@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-10-01
 human_modified:
-ai_modified: 2026-10-09T15:51:02+00:00
+ai_modified: 2026-10-09T21:27:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,13 +125,13 @@ The Map takes the Zahavian reading to better fit first-person reports: subjects 
 
 ## Why the Map Requires the Zahavian Version
 
-Three of the Map's core commitments require the Zahavian minimal self specifically, and fail on the Metzinger alternative.
+Three of the Map's core commitments fail on the Metzinger alternative; two require the Zahavian minimal self specifically.
 
 **Ego-dissolution as evidence.** The Map's treatment of [[psychedelics-and-the-filter-model|psychedelics]], [[the-observer-witness-in-meditation|meditation]], and [[anaesthesia-and-the-consciousness-interface|anaesthesia]] depends on a subject whose relationship to the brain's self-model can change. If the self is nothing but the self-model, ego-dissolution *is* local extinction of the subject. If the minimal self persists through self-model disruption, filter-theoretic interpretations of altered states become intelligible.
 
 **Indexical identity.** [[tenets#^no-many-worlds|No Many Worlds]] rests on *this* experience being *mine* and not some duplicate's. A Metzingerian zero-person phenomenology would have no indexical anchor.
 
-**Bidirectional interaction.** [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires a subject whose influence on physical outcomes is real. Cognitive science treats representations as causally implicated, but *implicated in* is not the same role as *the agent of*. A self-model alone does not supply that bearer; the Zahavian minimal self does.
+**Bidirectional interaction.** [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires that conscious influence on physical outcomes be available, and the Map's interface account needs some locus for it. Cognitive science treats representations as causally implicated, but *implicated in* differs from *the agent of*: neither a self-model alone nor, on the Map's reading, Zahavi's minimal self supplies one.
 
 ## Choice Under Metaphysical Commitment
 
@@ -187,7 +187,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 
 **[[tenets#^dualism|Dualism]]**: First-personal givenness is not a feature of physical descriptions — neurological detail describes what a subject does, not what it is to *be* this subject. The circularity problem deepens this: if self-consciousness cannot be constructed from non-self-conscious components, consciousness has a feature no functional decomposition captures. [[reductionism|Reductionism succeeds]] where the higher-level phenomenon is structural and functional; self-consciousness resists because reflexive awareness belongs to a different category.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reflective self-consciousness enables deliberate choice — evaluating, revising, redirecting among competing impulses rather than passively executing whichever is strongest. The minimal self, not a self-model, is the bearer of that agency.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reflective self-consciousness enables deliberate choice — evaluating, revising, redirecting among competing impulses rather than passively executing whichever is strongest. Neither the minimal self nor a self-model is that agency's locus.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The minimal self is *this* particular perspective, not a pattern that could be multiply instantiated. The [[indexical-knowledge-and-identity|indexical character]] of first-person experience — the unrepeatable fact that *I* am having this experience — supports the tenet's emphasis on indexical identity.
 
