@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:42 - deep-review
+- **Status**: Success
+- **File**: [emergent-dualism](/concepts/emergent-dualism/)
+- **Word count**: 2,154 → 2,614 (+460; ~140 of it reference apparatus; soft_warning, 885 below hard 3,500)
+- **Critical issues addressed**: 5. (1) A fabricated-verbatim Hasker quote ("acts back on the brain that generates it", web-traceable only to the Map's own page) was replaced with verbatim Hasker 1999 p. 191. (2) The SEP citation was stale: the live URL is now O'Connor's 2020 entry, which lacks the Hasker sentence, so the citation was repointed to the archived 2015 O'Connor & Wong revision. (3) The Relation section's "the Map can largely endorse" the UOC argument contradicted the Kant page's §Three Exposures and [P-I1](/positions/individuation-and-subjecthood/#p-i1); the simple subject is now held as a posit, with a link to `#three-exposures`. (4) "Minimal Quantum Interaction points the other way" credited Tenet 2 with a stance on origin; now "No tenet settles this". (5) The "pre-existing"/"merely joined" mischaracterisation of Cartesian/Thomistic dualism was replaced with Hasker 2012's own wording plus the substantial-form clause.
+- **Medium issues addressed**: 4 (Hasker's own analogy hedge restored; concession claim anchored to p. 192; agent-causation consideration scoped and marked weakest, since Hasker's self is itself "the agent-cause of our free actions"; "dissolves" → "claims to dissolve")
+- **Enhancements made**: 4 (Kant's A352–353 collective-unity ground + Hasker's premise 2 in §UOC; Dilley 2003 as dualist-internal critic, with the Map's exposure stated; Hasker 2012 + Dilley 2003 + Kant added; pages/DOIs for Hasker 2001/2010, Rickabaugh)
+- **Engagements**: Rickabaugh: Mode Two/Three mixed (unchanged terminus). Kant: Mode Three; the Map declines to claim the UOC argument beats the collective reading. Dilley: Mode One (internal to dualism); spatiality conceded, energy half escaped via Tenet 2's no-energy clause.
+- **Ledger**: 11 cites checked against raw text (newdualism PDFs, Google Books search-within, SEP HTML incl. archive, Crossref). Rickabaugh's "not more attractive than nonemergent versions" was verified at PA73.
+- **Output**: [deep-review-2026-10-09-emergent-dualism](/reviews/deep-review-2026-10-09-emergent-dualism/)
+
 ## 12:22 - expand-topic
 - **Status**: Success
 - **Topic**: Metacognitive access versus retention: the four-level discipline (retention, performance-level use, metacognitive access, felt ownership) across DID, anosognosia, dissociative amnesia, depersonalisation and patient R.B. (optimistic-2026-10-08-clinical-dissociation-wing Expansion 3; synthesis cluster 7)
