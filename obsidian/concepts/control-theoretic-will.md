@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-10-06T15:35:36+00:00
+ai_modified: 2026-10-09T20:06:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -79,7 +79,7 @@ The [[concepts/consciousness-selecting-neural-patterns#The Bandwidth Constraint|
 
 Veto requires minimal bandwidth. A single bit ("stop/go") suffices for the basic operation. This makes it perhaps the most plausible form of conscious control—even a ~10 bits/second channel can issue many veto signals per second.
 
-Two cautions keep this from proving more than it does. The bit-cost of veto is a bandwidth fact, not the minimality [[tenets#^minimal-quantum-interaction|Tenet 2]] names, which concerns the physical magnitude of the influence; a one-bit stop and a many-bit trajectory adjustment can be equally minimal at the quantum level. And [[quantum-neural-timing-constraints|the cheapest operation has the earliest deadline]]. Schultze-Kraft et al. (2016) found that movement onset can no longer be withheld once a stop signal arrives later than about 200 ms before EMG onset, while "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds." Veto is the most plausible operation in bits and the most time-limited in practice; the operation that stays available longest is attractor steering, described next.
+Two cautions keep this from proving more than it does. The bit-cost of veto is a bandwidth fact, not the minimality [[tenets#^minimal-quantum-interaction|Tenet 2]] names, which the tenet fixes by the empirical record it must respect (no detectable energy injection, no Born or conservation violation), not by how much is influenced; a one-bit stop and a many-bit trajectory adjustment can be equally minimal at the quantum level. And [[quantum-neural-timing-constraints|the cheapest operation has the earliest deadline]]. Schultze-Kraft et al. (2016) found that movement onset can no longer be withheld once a stop signal arrives later than about 200 ms before EMG onset, while "even after the onset of the movement, it is possible to alter and cancel the movement as it unfolds." Veto is the most plausible operation in bits and the most time-limited in practice; the operation that stays available longest is attractor steering, described next.
 
 ### Attractor Steering
 
@@ -131,7 +131,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 **[[tenets#^dualism|Dualism]]**: The Map's dualism is not derived from the control-theoretic framing but is *expressed through* it. The independent case for dualism (the hard problem, conceivability arguments, the explanatory gap) gives reason to treat consciousness as ontologically separate from the plant. Control theory then specifies what this separation would look like in practice: a low-bandwidth, feedback-dependent regulatory relationship. The framing makes dualist interaction concrete and functionally testable without itself being the argument for dualism. The operations, the stability analysis and the degradation patterns above would come out the same under a physical controller, and no current prediction separates a non-physical controller from a physical one: the Map owes that test and does not yet have it.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Control theory naturally accommodates minimal intervention. A well-designed controller uses the smallest signal necessary to maintain desired behaviour. The ~10 bits/second bandwidth is not a limitation to be lamented but a design feature consistent with minimal coupling—consciousness exerts just enough influence to steer, no more.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: A well-designed controller uses the smallest signal necessary to maintain desired behaviour, yet signal size measures something other than this tenet's minimality. The ~10 bits/second bandwidth is a measured fact about conscious processing that physicalist and dualist accounts alike have to accommodate. Tenet 2 is satisfied by the channel's Born-exactness—whatever selection consciousness performs injects no energy, breaks no conservation law and leaves the aggregate Born statistics intact—not by its narrowness, and a wider channel with the same exactness would be just as minimal.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Control requires a closed loop: the controller must receive feedback (phenomenal experience) and output signals (attentional selection). Open-loop control—without feedback—is fragile and unreliable. The bidirectional interaction tenet ensures the loop is closed: consciousness both receives from and acts upon the brain.
 

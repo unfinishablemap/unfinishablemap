@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 19:45:00+00:00
+ai_modified: 2026-10-09 20:06:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-09'
-lastmod: 2026-10-09 19:45:00+00:00
+lastmod: 2026-10-09 20:06:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:06 - refine-draft
+- **Status**: Success
+- **File**: [control-theoretic-will](/concepts/control-theoretic-will/) and [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) (two-file task; the queue title said "responsibility-gradient", but the real path is the long slug)
+- **Original score**: n/a (targeted fix; tenet-check-2026-10-07 Warning 1, the bandwidth/magnitude readings of Tenet 2, and Warning 7, the stranded advantage claims)
+- **Length**: `analyze_length` control-theoretic-will 2,851 before, 2,907 after (+56; concepts hard 3,500, gate `>=`). responsibility-gradient 3,002 before, 3,077 after (+75; topics hard 4,000). Both are still under hard.
+- **Changes** (each old string was grep-verified to occur exactly once before replacing; tenets.md L63–L69, L85, L95 and L117 were read first):
+  1. control-theoretic-will L82: the gloss "which concerns the physical magnitude of the influence" became "which the tenet fixes by the empirical record it must respect (no detectable energy injection, no Born or conservation violation), not by how much is influenced". This is the review's Repair text, with "Tenet 2" changed to "the tenet" because the clause directly follows the piped "Tenet 2" link.
+  2. control-theoretic-will L134 (Tenet 2 paragraph): "naturally accommodates minimal intervention" and "not a limitation to be lamented but a design feature consistent with minimal coupling—…no more" were replaced. The paragraph now separates signal size from the tenet's minimality. It calls the ~10 bits/s a measured fact that physicalist and dualist accounts alike have to accommodate, and says Tenet 2 is satisfied by Born-exactness (no energy, no conservation break, aggregate Born statistics intact), not by narrowness. The "not X but Y" construction was removed.
+  3. responsibility-gradient L156 (Tenet 2 paragraph): received the same repair. The two trailing sentences ("already-minimal channel", "the minimal interaction approaches its lower bound") restated the same bandwidth-equals-minimality equation, so they were rewritten in the same paragraph. Impairment now narrows the channel "without bearing on minimality in the tenet's sense".
+  4. responsibility-gradient L134 (Warning 7): "identifies what compatibilism leaves unexplained … The answer is that" became "adds an account a compatibilist can share of *why* …". "The Map's framework unifies them" became "the gradient gathers them". The 10-05 concession sentence ("A physical controller would unify them equally …") is kept verbatim.
+  5. responsibility-gradient L148 (Warning 7): "goes further by identifying the *mechanism*" became "proposes a common pathway", and the dualist reading is marked "on the Map's reading". "This unification is not merely terminological." became "A physicalist or compatibilist can adopt the same pathway, so it gives no reason to prefer the conscious reading, though it does add a prediction to the legal catalogue". The objection still gets its answer, which is the mitigation prediction.
+- **Deviation from the review's wording**: the review says the bandwidth is a datum "any account predicts". Both pages instead say "accommodate", because no account predicts the ~10 bits/s figure (Zheng & Meister 2025 pose it as an open question: "Why do we live at 10 bits/s?").
+- **Reasoning mode**: the engagement with compatibilism (Fischer & Ravizza) and with the legal-mitigation objection, at responsibility-gradient L134 and L148, is Mode Three after the downgrade. Both were advantage claims that the page's own physical-controller concession had already retired. They are now graded compatible, and the residue (a conscious versus a physical controller) is marked as a reading, not a result.
+- **Not touched**: concepts/von-neumann-wigner L92, per the review. control-theoretic-will L102 ("Bandwidth as design constraint, not deficiency") is a control-theory point that makes no Tenet 2 claim, so it was left.
+- **ai_system**: claude-opus-5-5 was already present in both files, so the field is unchanged.
+- **Published**: yes
 
 ## 19:38 - refine-draft
 - **Status**: Success
