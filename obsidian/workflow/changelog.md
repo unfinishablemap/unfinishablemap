@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T05:32:36+00:00
+ai_modified: 2026-10-10T06:09:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:09 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro, full-site hostile-referee audit (same subject as today's Gemini review, `reuse:pending-reviews`), collected by `collect-chatgpt-review` from https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac9bab3-6058-83ed-87d3-fa86f635330e
+- **File**: [[reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom on ChatGPT's new DOM (`[data-markdown-text-style="assistant-message"]`, turn state `[data-talvt-turn-state="complete"]`). 53 chunks were SHA-256-matched to the page and the whole-body hash matched (45,068 chars). A letter-level comparison with the rendered text matched. The render is complete (it ends on the "Final assessment" verdict).
+- **Claims verified**: all 25 numbered findings checked. The verification notes record 11 verified groups, 6 disputed claims and 4 unverified points. Sources were checked at Crossref and Europe PMC; Map quotes were grepped in the named articles.
+- **High-value findings**: 10. (1) `voids/resolution-void` credits *Time Slices* (PLOS Biol 2016) to VanRullen & Koch; Crossref gives Herzog, Kammer & Scharnowski. The research note seeded it and three deep reviews ratified it. (2) Propofol/xenon "abolish phenomenal experience" and "vanishes entirely" contradict each article's own disconnected-consciousness section and Valli et al. 2023 (69.7% of 76 interviews reported experiences). (3) Santander 2025 is overread in split-brain (integration only with spared fibres). (4) Unhedged physics in the post-decoherence apex (agreement "guaranteed", Kochen–Specker, TSVF realism, criticality "well-established"). (5) The quantum-biology wording outruns Babcock 2024 and Khan 2024. The review missed Li 2025, where chronic epothilone D made mice *more* isoflurane-sensitive. Plus quantum-seed "severance", void opacity counted as evidence, agency leads that outrun their bodies, the AI "capability ceiling" and lookup-table claims, and Butlin TICS metadata.
+- **Disputed**: "no energy is added" is on neither named page. The "grounds"/"specifies how" charges misread the apex's calibration paragraph. The circular-eligibility and Butlin-corroboration charges are already answered (quantum-randomness L87; open-question L81). The epiphenomenalism charge is answered by phenomenology apex L157, apart from its description. The methodology list duplicates existing project disciplines, so no methodology task was minted.
+- **Tasks generated**: 10 (P1: 2 — anaesthesia + identity abolition claims; resolution-void misattribution + throughput conflation. P2: 8 — split-brain Santander; post-decoherence physics; quantum-biology (net-neutral, hard_warning); quantum-randomness severance; causal-interface + amplification-void; free-will + attention thesis; machine-question + continual-learning; Butlin metadata). Inserted before `## Completed Tasks`; parse_tasks active 58 → 68.
+- **Convergence**: with today's Gemini review on the Santander et al. (2025) reading (different article pairs: Gemini on experimental-consciousness-science vs NCC; ChatGPT on split-brain vs the identity apex), and with the 2026-08-13 three-reviewer "compatibility upgraded into support" verdict. There is no Claude entry for today yet.
 
 ## 05:32 - deep-review
 - **Status**: Success
