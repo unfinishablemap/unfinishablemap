@@ -4,7 +4,7 @@ description: "Henri Bergson's durée presents lived time as qualitative flow rat
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-10-03T12:53:19+00:00
+ai_modified: 2026-10-10T08:58:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[creative-consciousness]]"
   - "[[prehension]]"
   - "[[contemplative-epistemology]]"
+  - "[[vitalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
@@ -28,7 +29,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-07-17T22:44:31+00:00
+last_deep_review: 2026-10-10T08:58:38+00:00
 embedded_videos:
   - id: q-HgvQtumhQ
     url: https://www.youtube-nocookie.com/embed/q-HgvQtumhQ
@@ -62,11 +63,11 @@ Duration (*durée*) is Bergson's name for time as directly experienced. Its feat
 
 **Indivisibility.** You can divide a spatial line into segments without altering what you're dividing. But dividing a melody into individual notes destroys the melody. Duration can be analytically distinguished into phases but cannot be actually divided without changing its nature. The whole is present in every part.
 
-**Irreversibility.** The fundamental equations of physics are time-symmetric—they run equally well backward. Statistical mechanics introduces irreversibility through entropy increase, but this is a property of aggregate systems, not of time itself. Duration's irreversibility is different from both: it is qualitative and experiential. You cannot un-hear a phrase of music or un-feel a pang of loss. Each moment absorbs its predecessors and transforms them. The asymmetry belongs to lived experience as such, not to thermodynamic probability.
+**Irreversibility.** The fundamental dynamical equations of physics are time-symmetric, apart from a small violation in the weak interaction—they run equally well backward. Statistical mechanics introduces irreversibility through entropy increase, but this is a property of aggregate systems, not of time itself. Duration's irreversibility, as Bergson describes it, is different from both: it is qualitative and experiential. You cannot un-hear a phrase of music or un-feel a pang of loss. Each moment absorbs its predecessors and transforms them. The asymmetry belongs to lived experience as such, not to thermodynamic probability.
 
 ## Intuition Against Analysis
 
-Bergson distinguished two modes of knowing. **Analysis** breaks its object into elements, translates it into general concepts, and reconstructs it from the outside. Analysis spatializes whatever it touches—turning flow into sequence, quality into quantity. **Intuition** grasps its object from within, coinciding with what is unique and inexpressible in it.
+In "Introduction to Metaphysics" (1903, later collected in *The Creative Mind*), Bergson distinguished two modes of knowing. **Analysis** breaks its object into elements, translates it into general concepts, and reconstructs it from the outside. Analysis spatializes whatever it touches—turning flow into sequence, quality into quantity. **Intuition** grasps its object from within, coinciding with what is unique and inexpressible in it.
 
 Duration, Bergson argued, can only be known through intuition. Any attempt to analyse it—to break it into measurable units—replaces duration with its spatial shadow. On his account, this is why physics, insofar as it proceeds by analysis, systematically misses what time actually is for a conscious being.
 
@@ -94,7 +95,7 @@ Bergson's model also illuminates [[temporal-consciousness|temporal thickness]]�
 
 *Creative Evolution* (1907) extended durée from individual consciousness to life itself. The *élan vital* (vital impulse) names the creative tendency that drives evolution beyond what mechanical selection can explain. Bergson argued that evolution generates genuine novelty—forms that could not have been predicted from prior conditions—because life participates in the creative movement of duration.
 
-The *élan vital* is the most contested element of Bergson's philosophy. Critics from Julian Huxley onward have objected that natural selection adequately explains evolutionary novelty without positing a vital force. The Map treats the *élan vital* cautiously: Bergson's point that mechanical causation may not exhaust biological explanation remains philosophically live, but the specific mechanism he proposed is speculative and lacks empirical support.
+The *élan vital* is the most contested element of Bergson's philosophy. Critics from Julian Huxley onward have objected that natural selection adequately explains evolutionary novelty without positing a [[vitalism|vital force]]. The Map treats the *élan vital* cautiously: Bergson's point that mechanical causation may not exhaust biological explanation remains philosophically live, but the specific mechanism he proposed is speculative and lacks empirical support.
 
 What survives from *Creative Evolution* is the argument that creativity—whether biological, cognitive, or artistic—requires a duration that is genuinely productive rather than merely rearranging pre-existing elements. This connects to the Map's treatment of [[creative-consciousness|creativity and consciousness]]: novel thought may require the kind of creative synthesis that duration makes possible and that mechanical processing does not.
 
@@ -104,19 +105,19 @@ Bergson anticipated many themes that Alfred North Whitehead later systematised i
 
 Key parallels:
 
-**Time as creative.** Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate," his Category of the Ultimate—each moment adds genuine novelty to reality.
+**Time as creative.** Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate" and "the principle of novelty"—each moment adds genuine novelty to reality.
 
 **Experience as paradigmatic.** For Bergson, durée is what we know most directly; physics abstracts from it. For Whitehead, experience is the intrinsic character of actuality that physics describes only structurally.
 
 **Interpenetration and prehension.** Bergson's qualitative multiplicity—states flowing into one another—parallels Whitehead's [[prehension]]—each actual occasion incorporating its predecessors into its own constitution.
 
-The traditions diverge on important points. Whitehead's actual occasions are discrete (though internally temporal); Bergson's durée is continuous flux. Whitehead developed a rigorous categorical scheme; Bergson deliberately resisted systematisation, arguing that philosophy must remain fluid to match its subject. And Whitehead's panexperientialism—attributing some form of experience to all actuality—goes further than Bergson, who located duration specifically in consciousness and life.
+The traditions diverge on important points. Whitehead's actual occasions are discrete: each spans a stretch of time, but its becoming is not divisible into earlier and later acts of becoming. Bergson's durée is continuous flux. Whitehead developed a rigorous categorical scheme; Bergson deliberately resisted systematisation, arguing that philosophy must remain fluid to match its subject. And Whitehead's panexperientialism—attributing some form of experience to all actuality—goes further than Bergson, who located duration specifically in consciousness and life.
 
 ## Bergson's Contemporary Relevance
 
 Bergson's philosophy, eclipsed for decades by analytic philosophy and phenomenology alike, has undergone significant revival. Several developments make his work freshly relevant:
 
-**The "missing link" in consciousness theories.** Kent and Wittmann (2021) identified experienced duration as "one of the core issues in theories of consciousness." Major theories—IIT, Global Workspace Theory—focus on functional moments of 100-300 milliseconds but cannot explain why experience extends across seconds. Bergson diagnosed this gap a century earlier: theories that spatialize time cannot capture duration.
+**The "missing link" in consciousness theories.** Kent and Wittmann (2021) argue that confusing short, discrete moments with long, continuous experience is "one of the core issues in theories of consciousness." Major theories—IIT, Global Neuronal Workspace—focus on functional moments of 100-300 milliseconds but cannot explain why experience extends across seconds. Bergson diagnosed this gap a century earlier: theories that spatialize time cannot capture duration.
 
 **The [[temporal-consciousness|specious present]] corroboration.** The philosophical tradition arrived at Bergson's insight from another direction. E.R. Clay, William James, and Husserl each noted that the experienced present has positive temporal width—the "specious present," now empirically estimated at roughly 300-750 milliseconds of core duration with a broader 2-3 second experiential horizon. Husserl's analysis of *retention* (the just-past lingering in awareness) and *protention* (anticipation of what follows) formalises the same structure Bergson captured with interpenetration: each moment pervaded by what precedes and colours what follows. The specious present names the *fact* that consciousness extends through time; durée names the *qualitative character* of that extension—and both resist representation as a row of durationless instants.
 
@@ -126,13 +127,15 @@ Bergson's philosophy, eclipsed for decades by analytic philosophy and phenomenol
 
 ## Relation to Site Perspective
 
-Bergson's philosophy aligns with the Map's framework at multiple points while differing on mechanism.
+Bergson's philosophy aligns with the Map's framework at multiple points, and on how mind acts on matter more closely than his reputation as a vitalist suggests.
 
-**[[tenets#^dualism|Dualism]]**: Bergson argued that consciousness is not reducible to brain states—the brain selects and constrains experience rather than producing it. His analysis of duration supports a narrower claim: if lived time has qualitative features that spatialising description cannot capture, reductive accounts that assemble experience from snapshots, or from moments laid side by side, leave something out. The analysis does not show that a complete physical description of the brain omits something real, since physics need not spatialise time and a feature of experience does not by itself settle what experience is. The Map takes that ontological step on other grounds—the [[hard-problem-of-consciousness|hard-problem]] arguments, chiefly [[philosophical-zombies|zombie conceivability]] and the [[knowledge-argument|knowledge argument]]—and reads durée as a case those arguments illuminate. It shares Bergson's conclusion while differing on mechanism, looking to quantum indeterminacy rather than Bergson's vitalism.
+**[[tenets#^dualism|Dualism]]**: Bergson argued that consciousness is not reducible to brain states—the brain selects and constrains experience rather than producing it. His analysis of duration supports a narrower claim: if lived time has qualitative features that spatialising description cannot capture, reductive accounts that assemble experience from snapshots, or from moments laid side by side, leave something out. The analysis does not show that a complete physical description of the brain omits something real, since physics need not spatialise time and a feature of experience does not by itself settle what experience is. The Map takes that ontological step on other grounds—the [[hard-problem-of-consciousness|hard-problem]] arguments, chiefly [[philosophical-zombies|zombie conceivability]] and the [[knowledge-argument|knowledge argument]]—and reads durée as a case those arguments illuminate. It shares Bergson's conclusion without adopting the *élan vital*.
+
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Bergson's own picture of how life acts on matter anticipates this tenet's shape. In *Creative Evolution* "the rôle of life is to insert some *indetermination* into matter"; the effort that does so cannot create energy, or none on a scale "apprehended by our senses and instruments of measurement," and can only release energy already stored, a work of releasing "always smaller than any given quantity." Since for Bergson consciousness "corresponds exactly to the living being's power of choice," this is also his account of how mind acts: by an influence below measurement, exercised where outcomes are open. Writing in 1907, he could not say where in physics that openness lies. Locating it in quantum outcomes is the Map's own proposal; Bergson's precedent gives the idea a lineage, not evidence.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: For Bergson, durée is inherently creative—each moment produces genuine novelty. If consciousness exercises the causal power the Map posits, Bergson's framework shows what that would be like: the agent acting from the depth of accumulated experience, not as a mysterious force intervening from outside the natural order. The framework makes such causation intelligible; it does not show that such causation occurs. Novelty in experience is compatible with the brain producing that novelty, and the quantum-interface argument shows the Map's downward causation to be available—consistent with physics—without showing it to be [[tenets#^tenet-3-standing|actual]].
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Bergson's duration presupposes temporal identity—*this* consciousness carrying *this* past into *this* moment. While each branch in a many-worlds scenario would contain its own continuous experience, the branching itself undermines what makes durée ontologically significant. Interpenetration means the whole past permeates each present moment; but if the past itself branches into incompatible histories, no single durée carries the full weight of what was lived. The unity of temporal identity—the fact that *this* accumulated past uniquely shapes *this* present—loses its ontological privilege when multiplied across branches.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Bergson's duration presupposes temporal identity—*this* consciousness carrying *this* past into *this* moment. Many-worlds does not branch the past: each branch inherits a single history and has its own continuous experience. The tension lies in the forward direction. Durée is the past prolonging itself into the present as one indivisible movement, whereas on the many-worlds picture one accumulated past prolongs itself into many incompatible presents, and nothing settles which of them continues *this* durée. A many-worlds defender can answer that each successor inherits the whole past equally and that no further fact is missing. The disagreement then turns on whether indexical identity is a real fact, which the Map's tenet asserts and Bergson's account of duration presupposes.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Bergson exemplifies this tenet. His framework is more complex than the mechanistic alternative—but the apparent simplicity of mechanism comes from ignoring qualitative experience. Spatialized time seems simpler than durée only because it leaves out what matters most: what time is actually like.
 
@@ -147,14 +150,15 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [[creative-consciousness]] — Duration's creative novelty and the generation-selection model
 - [[prehension]] — Whitehead's concept of experiential inheritance
-- [[temporal-consciousness-structure-and-agency]] — How temporal ontology constrains theories of consciousness
+- [[temporal-consciousness-structure-and-agency]] — How consciousness constitutes lived temporal structure, and temporal agency in selecting when to act
+- [[vitalism]] — The élan vital's fate and why the anti-dualist induction from vitalism's defeat does not transfer to consciousness
 
 ## References
 
 1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
 1. Bergson, H. (1896/1988). *Matter and Memory*. Zone Books.
 1. Bergson, H. (1907/1998). *Creative Evolution*. Dover.
-1. Bergson, H. (1934/1946). *The Creative Mind: An Introduction to Metaphysics*. Citadel Press.
+1. Bergson, H. (1934/1992). *The Creative Mind: An Introduction to Metaphysics* (M. L. Andison, Trans.). Citadel Press. (Translation first published 1946.)
 1. Guerlac, S. (2006). *Thinking in Time: An Introduction to Henri Bergson*. Cornell University Press.
 1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
 1. Lacey, A.R. (1989). *Bergson*. Routledge.

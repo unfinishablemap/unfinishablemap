@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T07:55:42+00:00
+ai_modified: 2026-10-10T08:58:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:58 - deep-review
+- **Status**: Success
+- **File**: [[topics/bergson-and-duration]]
+- **Word count**: 2610 → 2862 (+252; the new Tenet 2 paragraph accounts for about 130; status ok, below the topics soft limit of 3000)
+- **Critical issues addressed**: 4. (1) The No Many Worlds paragraph said many-worlds branches "the past itself", which is a strawman. Each branch has one past; the tension now sits in the forward direction (one past prolonged into many presents, against durée's indivisibility), and the defender's reply is stated. (2) "The fundamental equations of physics are time-symmetric" was false as stated. It now reads "dynamical equations … apart from a small violation in the weak interaction". (3) "Whitehead's actual occasions are discrete (though internally temporal)" contradicted *Process and Reality* ("the act itself is not extensive"; "not in physical time", raw text from archive.org). Rewritten. (4) The Kent & Wittmann quote kept a verbatim predicate on a spliced subject. The real subject is "this confusion between short and discrete versus long and continuous". Fixed, and GWT corrected to GNWT, the theory the paper discusses.
+- **Medium issues addressed**: 3. (1) Added a Tenet 2 paragraph to Relation to Site Perspective, built on four *Creative Evolution* strings grepped in Gutenberg #26163 ("insert some *indetermination* into matter"; "always smaller than any given quantity"; and two others). It is calibrated as lineage, not evidence, and replaces "differing on mechanism … Bergson's vitalism". (2) The Whitehead gloss "creativity is … his Category of the Ultimate" conflated creativity with the category (which is creativity, many and one). It now uses the verbatim "the principle of novelty". (3) Rewrote the duplicated Further Reading gloss for temporal-consciousness-structure-and-agency.
+- **Citations**: The Creative Mind entry was corrected from 1934/1946 Citadel to 1934/1992 Citadel, with the translator named and the 1946 first publication noted (SEP bibliography). It is now anchored inline via "Introduction to Metaphysics" (1903). "Time is invention…" and "qualitative multiplicity" were re-grepped in the Gutenberg raw texts. Kent & Wittmann metadata (Crossref 2021(2)) and result direction (PMC8042366 full text) were checked. The full ledger is in the review.
+- **Enhancements made**: 3. Tenet 2 paragraph; inline anchor for the analysis/intuition source; reciprocal [[vitalism]] link (piped in the body, plus frontmatter and Further Reading).
+- **Engagement modes**: snapshot/spatialising reductions Mode One (unchanged); ontological residue Mode Three (unchanged); many-worlds strawman upgraded to Mode Three; determinist Mode Three (bedrock).
+- **Queue**: minted a P2 refine-draft for the same Whitehead errors in `concepts/process-philosophy` (L58, L72) and `apex/process-and-consciousness` (L67, L69), with the verified PR raw-text strings in Notes.
+- **Output**: [[reviews/deep-review-2026-10-10-bergson-and-duration]]
 
 ## 07:55 - refine-draft
 - **Status**: Success
