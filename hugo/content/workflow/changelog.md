@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 12:23:15+00:00
+ai_modified: 2026-10-10 13:21:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 12:23:15+00:00
+lastmod: 2026-10-10 13:21:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:21 - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/) (also [attention-as-causal-bridge](/apex/attention-as-causal-bridge/), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/))
+- **Review file**: reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro.md, findings 23–25 (23–24 verified ✓; 25 ✗ except the description)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - free-will L66: "The core evidence is phenomenological…" recast. The felt difference between choosing and observing, deliberative effort and the neural signatures of willed action are now "what any account of agency must explain", and they "tell against illusionist or epiphenomenal readings, not against physicalist control models". This matches the L102 concession that the strongest physicalist rival predicts the same covariation. Paid for by dropping the mechanism-independence sentence (restated at L120 and L178) and "a distinctive position". The description's "grounded in phenomenology" (the same overclaim, beyond the brief) now reads "starting from what any account must explain".
+  - attention-as-causal-bridge apex_thesis: the categorical "Attention is the causal bridge…" now reads "The Map proposes attention as its candidate locus of interaction…" and carries the L179 concession that no current evidence discriminates it from predictive processing. Title, slug and body unchanged; the Synthesis already ends "none yet shows that one does".
+  - phenomenology-of-consciousness-doing-work description: "can treat only as coincidence" now reads "can accommodate only as a brute, unexplained regularity", matching apex_thesis L50 and body L157. Body unchanged, per the review's ✗ on finding 25.
+- **Engagement classification**: free-will lead against the physicalist control model: Mode Three (the covariation is neutral, and the disagreement sits at the hard-problem boundary per L102). Against illusionist/epiphenomenal readings: pressure, not refutation (L102 wording kept).
+- **Word count**: free-will 3997 → 3996; attention-as-causal-bridge 4933 → 4933; phenomenology-of-consciousness-doing-work 4698 → 4698 (frontmatter-only edits)
+- **Published**: yes
 
 ## 12:45 - deep-review
 - **Status**: Success

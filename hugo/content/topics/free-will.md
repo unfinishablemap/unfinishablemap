@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-04 13:32:59+00:00
+ai_modified: 2026-10-10 13:21:49+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -34,8 +34,8 @@ concepts:
 created: 2026-01-08
 date: &id001 2026-09-27
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
-  free will grounded in phenomenology—the felt difference between choosing and merely
-  observing.
+  free will, starting from what any account must explain—the felt difference between
+  choosing and merely observing.
 draft: false
 embedded_videos:
 - embedded: 2026-05-03 11:28:31.674020+00:00
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-10-04 13:32:59+00:00
+lastmod: 2026-10-10 13:21:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Free will is the capacity to have done otherwise—to be the genuine author of one's choices rather than a puppet of prior causes. The Unfinishable Map defends a distinctive position: consciousness is an [agent-causal](/concepts/agent-causation/) power that genuinely influences physical outcomes. The core evidence is phenomenological—the felt difference between choosing and observing, the effort of deliberation, the distinctive neural signatures of willed action. These phenomena survive regardless of which physical mechanism enables consciousness-brain interaction.
+Free will is the capacity to have done otherwise—to be the genuine author of one's choices rather than a puppet of prior causes. The Unfinishable Map holds that consciousness is an [agent-causal](/concepts/agent-causation/) power that genuinely influences physical outcomes. Any account of agency must explain the felt difference between choosing and observing, deliberative effort, and the neural signatures of willed action; these tell against illusionist or epiphenomenal readings, not against physicalist control models.
 
 <details class="yt-embed" data-video-id="ltzeYOXCUvY">
 <summary>Video introduction</summary>

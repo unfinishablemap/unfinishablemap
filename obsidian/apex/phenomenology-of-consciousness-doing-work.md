@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Consciousness Doing Work"
-description: "What does it feel like if consciousness acts on matter? Effort, selection, holding, and opacity form a coherent profile epiphenomenalism can treat only as coincidence."
+description: "What does it feel like if consciousness acts on matter? Effort, selection, holding, and opacity form a coherent profile epiphenomenalism can accommodate only as a brute, unexplained regularity."
 created: 2026-02-23
 modified: 2026-09-25
 human_modified:
-ai_modified: 2026-10-05T19:05:49+00:00
+ai_modified: 2026-10-10T13:21:49+00:00
 last_deep_review: 2026-07-18T19:54:44+00:00
 draft: false
 topics:

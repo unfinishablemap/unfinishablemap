@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-10-09 17:03:08+00:00
+ai_modified: 2026-10-10 13:21:49+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-09 17:03:08+00:00
 apex_sources:
@@ -14,9 +14,10 @@ apex_sources:
 - topics/phenomenology-of-returning-attention
 - voids/attention-and-consciousness
 - concepts/self-control-as-skill-and-scaffolding
-apex_thesis: Attention is the causal bridge between consciousness and the physical
-  world—a bandwidth-limited selection interface through which mind biases quantum
-  indeterminacy in neural systems.
+apex_thesis: The Map proposes attention as its candidate locus of interaction between
+  consciousness and the physical world—a bandwidth-limited selection interface through
+  which mind would bias quantum indeterminacy in neural systems—while conceding that
+  no current evidence discriminates this reading from predictive processing.
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -32,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:21:21+00:00
-lastmod: 2026-10-09 17:03:08+00:00
+lastmod: 2026-10-10 13:21:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

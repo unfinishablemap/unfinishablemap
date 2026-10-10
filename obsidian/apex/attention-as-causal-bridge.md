@@ -4,7 +4,7 @@ description: "How might consciousness act on matter? The Map's proposal: through
 created: 2026-02-14
 modified: 2026-10-09
 human_modified: null
-ai_modified: 2026-10-09T17:03:08+00:00
+ai_modified: 2026-10-10T13:21:49+00:00
 last_deep_review: 2026-07-19T11:21:21+00:00
 draft: false
 topics:
@@ -49,7 +49,7 @@ apex_sources:
   - voids/attention-and-consciousness
   - concepts/self-control-as-skill-and-scaffolding
 apex_last_synthesis: 2026-10-09T17:03:08+00:00
-apex_thesis: "Attention is the causal bridge between consciousness and the physical world—a bandwidth-limited selection interface through which mind biases quantum indeterminacy in neural systems."
+apex_thesis: "The Map proposes attention as its candidate locus of interaction between consciousness and the physical world—a bandwidth-limited selection interface through which mind would bias quantum indeterminacy in neural systems—while conceding that no current evidence discriminates this reading from predictive processing."
 ---
 
 If consciousness is real and causally efficacious, it needs a way to reach the physical world. The Unfinishable Map proposes that [[attention-as-interface|attention is that way]]—not identical to consciousness, but the interface through which consciousness selects among the possibilities the brain generates. This claim has specific structure: attention divides into modes with distinct neural signatures, the effort of sustaining it is where the Map looks for causal work, its disorders expose the interface's components, and its limits create cognitive voids that no amount of attentional skill can eliminate. The attention cluster is the Map's most detailed account of how mind acts on matter.

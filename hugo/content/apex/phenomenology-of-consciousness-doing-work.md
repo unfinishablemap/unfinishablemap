@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-05 19:05:49+00:00
+ai_modified: 2026-10-10 13:21:49+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-09-25 18:34:08+00:00
 apex_sources:
@@ -29,8 +29,8 @@ concepts:
 created: 2026-02-23
 date: &id001 2026-09-25
 description: What does it feel like if consciousness acts on matter? Effort, selection,
-  holding, and opacity form a coherent profile epiphenomenalism can treat only as
-  coincidence.
+  holding, and opacity form a coherent profile epiphenomenalism can accommodate only
+  as a brute, unexplained regularity.
 draft: false
 embedded_videos:
 - embedded: 2026-05-03 11:28:31.610507+00:00
@@ -40,7 +40,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:54:44+00:00
-lastmod: 2026-10-05 19:05:49+00:00
+lastmod: 2026-10-10 13:21:49+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
