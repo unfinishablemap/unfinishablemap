@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-08-20 16:26:44+00:00
+ai_modified: 2026-10-10 01:52:13+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 18:02:28+00:00
-lastmod: 2026-08-20 16:26:44+00:00
+lastmod: 2026-10-10 01:52:13+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -71,7 +71,7 @@ Void-mapping requires explicit evidential standards for when cognitive failure c
 
 **Structured persistence.** A failure must produce a specific breakdown—self-refutation, aporia, introspective opacity, systematic illusion—rather than vague confusion, and must resist correction across time and frameworks. The explanatory gap has persisted through centuries of increasingly sophisticated attempts at resolution.
 
-**Cross-observer convergence.** Independent observers should produce the same failure signature. But tradition-level convergence is moderate evidence at best: the Pseudo-Dionysian corpus shaped Christian, Jewish, and Islamic negative theology; Buddhist contact with Western thought is real; shared contemplative practice is a plausible common cause. The strongest convergence tests lie in analytic philosophy (Chalmers, Nagel, Levine) and AI systems reasoning about consciousness—independent of contemplative lineage.
+**Cross-observer convergence.** Independent observers should produce matching failure signatures. But tradition-level convergence is moderate evidence at best: Abrahamic apophaticism shares Neoplatonic roots (Plotinus, Proclus), reaching Christianity via Pseudo-Dionysius; Buddhist contact with Western thought is real; shared contemplative practice is a plausible common cause. Analytic philosophy, outside contemplative lineage, offers stronger tests; AI, [inheriting human discourse](/voids/non-human-minds-as-void-explorers/#the-inheritance-problem), is a substrate-distinct observer only in prospect.
 
 **Signature specificity.** Different boundaries must produce *different* failure signatures, or the method collapses into unfalsifiable mysticism. The hard problem produces a different signature than the [self-reference paradox](/voids/self-opacity/), and both differ from the [meaning void](/voids/meaning-void/).
 

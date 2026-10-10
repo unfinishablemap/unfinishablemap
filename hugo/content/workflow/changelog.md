@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 01:29:01+00:00
+ai_modified: 2026-10-10 01:52:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 01:29:01+00:00
+lastmod: 2026-10-10 01:52:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:52 - refine-draft
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Original score**: n/a (targeted single-locus fix; `scripts/curate.py` absent)
+- **Review**: [deep-review-2026-10-10-apophatic-cartography-four-criteria](/reviews/deep-review-2026-10-10-apophatic-cartography-four-criteria/), out-of-scope sibling minted from its Todo line.
+- **Changes**: L70 (§Criteria for Boundary Evidence, **Cross-observer convergence.**), both defect strings confirmed to occur once before the edit and zero times after. (1) Genealogy: "the Pseudo-Dionysian corpus shaped Christian, Jewish, and Islamic negative theology" replaced with the shared Neoplatonic upstream (Plotinus, Proclus) reaching Christianity via Pseudo-Dionysius, a compressed port of `concepts/apophatic-cartography-four-criteria` L71 (2026-07-16 genealogy, do-not-revert). The child's Maimonides / al-Farabi / Avicenna channel was left out to stay length-neutral. The child page, linked as the canonical anchor in this section's lead paragraph, carries the full genealogy. (2) AI: removed AI from "the strongest convergence tests" and its "independent of contemplative lineage" framing, which contradicted `apex/taxonomy-of-voids` L207 and `voids/non-human-minds-as-void-explorers` §The Inheritance Problem (already linked at L130). AI is now described as a substrate-distinct observer only in prospect, with a piped anchor link `[[non-human-minds-as-void-explorers#the-inheritance-problem|inheriting human discourse]]`, matching the child page's L71 recast (deep review 2026-10-10 01:29). Trims within the paragraph: "the same failure signature" became "matching failure signatures"; the illustrative names (Chalmers, Nagel, Levine) were dropped, since Levine and Chalmers are still named two paragraphs down under progressive articulation. "Strongest" became "stronger", which is more modest. All hedges kept: "moderate evidence at best", "Buddhist contact ... is real", "plausible common cause". No other line touched. `ai_system` unchanged.
+- **Length**: `analyze_length` 2,960 → 2,959 (−1); voids hard 3,000, headroom now 40; status soft_warning (unchanged).
+- **Published**: yes
 
 ## 01:29 - deep-review
 - **Status**: Success
