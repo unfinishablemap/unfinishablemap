@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 10:43:26+00:00
+ai_modified: 2026-10-10 11:01:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 10:43:26+00:00
+lastmod: 2026-10-10 11:01:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:01 - deep-review
+- **Status**: Success
+- **File**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
+- **Word count**: 3123 → 3122 (-1; length-neutral, entered at soft_warning)
+- **Critical issues addressed**: 6. (1) Lenient-dependency horns were mapped the wrong way round: invalid static substitutes (Corollary 5.5) answer a-priori falsification and Proposition 5.6 answers triviality; now scoped to "by static substitution". (2) The article left out that Hoel lists substance dualism among "potential candidates" for scientifically trivial theories, so the alignment opener and the Dualism paragraph were recalibrated, with the Map's reply marked open. (3) The trivial-theories-are-false assumption behind Definition 4.2 is restored. (4) The proximity summary now gives both horns (Theorem 4.6, Proposition 4.8). (5) Cerullo's "nearly tautological" could not be verified in any version and is de-quoted to the current-abstract paraphrase. (6) Corrected "does not engage with quantum processes": Hoel lists quantum processes as a possible blocker of brain substitution.
+- **Medium issues addressed**: 5 (Tononi, Baars and Chalmers orphans cited inline; Kleiner and Hoel 2021 added; the training-time and static-only scope limits added; Wearing "seconds to minutes" narrowed to "seconds"; expertise-void speculation marked as the Map's reading; duplicate Cerullo paragraph removed).
+- **Enhancements made**: 2 (Cerullo's positive-commitment symmetry objection engaged in the Dualism paragraph, which states the asymmetry follows from the tenets and is not evidence for them; Theorem 4.6 closure).
+- **Verification**: raw-text grep of arXiv 2512.12802v3 for every Hoel claim. Crossref for Kleiner and Hoel 2021, Corkin 2002 and Tononi 2008. PhilArchive and PhilPapers are Cloudflare-blocked to raw fetch, so the Cerullo quotes were corroborated through the search index and the summariser only.
+- **Engagement modes**: Cerullo symmetry objection Mode Three (new); Hoel's dualism-as-trivial classification Mixed (reply on Hoel's terms, residue marked open); the other Cerullo engagements are unchanged from 09-27.
+- **Follow-up**: P2 refine-draft minted for the sibling carry-forward (continual-learning-argument L50/L158, ai-consciousness L115).
+- **Output**: [deep-review-2026-10-10-hoel-llm-consciousness-continual-learning](/reviews/deep-review-2026-10-10-hoel-llm-consciousness-continual-learning/)
 
 ## 10:43 - refine-draft
 - **Status**: Success
