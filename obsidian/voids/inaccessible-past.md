@@ -4,7 +4,7 @@ description: "Past conscious states are structurally inaccessible at every scale
 created: 2026-01-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-10-06T07:42:00+00:00
+ai_modified: 2026-10-10T14:19:00.076430+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,11 +50,22 @@ coalesced_from:
   - "/voids/past-self-void/"
   - "/voids/memory-void/"
   - "/voids/historical-consciousness-void/"
+embedded_videos:
+  - id: Hi-gVVn9LlQ
+    url: https://www.youtube-nocookie.com/embed/Hi-gVVn9LlQ
+    embedded: 2026-10-10T14:19:00.076430+00:00
+    source: notebooklm/0157-01-inaccessible-past
 ---
 
 You cannot directly access your own past conscious states — only reconstruct them. When you remember yesterday, you do not re-enter yesterday's mind; you build a present simulation from incomplete traces. The same inaccessibility scales beyond a single lifetime: if consciousness itself has changed over historical time — as Jaynes, Snell, Barfield, Taylor, and McGilchrist have variously argued — then entire past *forms* of consciousness are inaccessible from within the form that succeeded them. Two dimensions compound each other. The experiencing subject changes — within a life, across lives, across epochs — and the prior subject is structurally inaccessible in much the same way other minds are. Phenomenal content may not persist: qualia exist only in being undergone. Memory preserves information *about* experience, not experience itself.
 
 This matters for The Unfinishable Map because of where the loss falls. Calling qualia information promises nothing about preservation: physical information is routinely compressed, corrupted, or overwritten, so lossy memory is what an informational account predicts anyway. What such an account owes is an explanation of *which* information goes missing, and why the loss is total for phenomenal character while the propositional record of the same episode degrades only partially. The void's force lies elsewhere. No amount of stored fidelity delivers [[conceptual-metabolism-void|numerical recurrence]]: the "what it is like" of yesterday, or of a Homeric warrior, was undergone from an indexical position that will not come round twice. The inaccessible past is a void we reconstruct around but never enter, at every scale at which "past" applies.
+
+<details class="yt-embed" data-video-id="Hi-gVVn9LlQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Hi-gVVn9LlQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Dimensions of Inaccessibility
 
