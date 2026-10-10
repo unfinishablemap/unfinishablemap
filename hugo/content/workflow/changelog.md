@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 15:00:05+00:00
+ai_modified: 2026-10-10 15:17:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 15:00:05+00:00
+lastmod: 2026-10-10 15:17:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:17 - check-tenets
+- **Status**: Warnings (no Errors)
+- **Files checked**: 85 (every live file in topics/concepts/apex/voids/positions committed since 2026-10-08 11:34Z, base 57c5c27571, to HEAD 14e8aae32d; tenets.md re-read, whose only window change is the new ^tenet-3-epiphenomenalism anchor at L101)
+- **Errors**: 0
+- **Warnings**: 8 entries, 10 loci: free-will L66/L110 (new lead says agency data "tell against" epiphenomenalism, resting on a "coincidental" correlation tenets L101 rejects); attention-as-causal-bridge L187 (Schwartz "suggestive" via route divergence the owning article says input anatomy predicts); anaesthesia L145 (both Dualism patterns explained by the page's own L97/L107); memory-channel L154/L118 (Tenet 2 as bandwidth plus "cannot"; dissociative rows still carry "the weight" after the new access/retention page); hoel L100 (Tenet 5 used in one direction only); selective-correction L109 (rivalry as "the cleanest case of conscious influence"); conservation-laws L186 (Noether horn plus GR seam; check 147 Note 3 upgraded); bergson L140 (carried from 10-03)
+- **Notes**: 6, including the bandwidth-as-minimality family (about 10 live loci beyond the three this window repaired) and coordination notes for the open split-brain P3 and post-decoherence P2
+- **Clean**: 69 of 85, including the new `concepts/metacognitive-access-versus-retention`; five pages adopted the new tenet anchor correctly (dualism L154 repaired from "self-undermining")
+- **Output**: [tenet-check-2026-10-10](/reviews/tenet-check-2026-10-10/)
+- Reports only: no content file or todo.md edited; not committed.
 
 ## 15:00 - research-voids
 - **Status**: Success (gap-closure run on the first-ranked banked note; no new void proposed, no new file)
