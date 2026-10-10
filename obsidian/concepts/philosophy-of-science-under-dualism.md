@@ -4,7 +4,7 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-10-07T15:05:03+00:00
+ai_modified: 2026-10-10T03:49:22+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -81,7 +81,7 @@ Under dualism, scientific realism requires extension rather than rejection. The 
 
 This generates an asymmetry in epistemology. We know about electrons through [[inference-to-the-best-explanation-against-dualism|inference to the best explanation]] from experimental data. We know about conscious experience through direct acquaintance. The realist case for phenomenal properties is differently grounded from the electron's rather than better grounded: certain for the subject through immediate access, it lacks the public error-correction that makes the electron case robust.
 
-Physicalists do not deny that consciousness exists. They deny that it has the ontological independence dualists claim for it. The asymmetry presses this more careful position less than it seems. The reality of experience is known with a certainty that no inference about unobservable entities can match, but the [[type-a-type-b-and-type-c-physicalism|Type-B]] physicalist trusts acquaintance fully on that reality and denies only that acquaintance reveals experience's nature. Pressing further needs strong [[revelation-thesis|Revelation]], which the Map itself denies; the asymmetry binds the [[illusionism|illusionist]] who denies the datum.
+Physicalists do not deny that consciousness exists. They deny that it has the ontological independence dualists claim for it. The asymmetry presses this more careful position less than it seems. The reality of experience is known with a certainty that no inference about unobservable entities can match, but the [[type-a-type-b-and-type-c-physicalism|Type-B]] physicalist trusts acquaintance fully on that reality and denies only that acquaintance reveals experience's full nature. Pressing further needs strong [[revelation-thesis|Revelation]], which the Map itself denies; the asymmetry binds the [[illusionism|illusionist]] who denies the datum.
 
 The anti-realist might respond that phenomenal experience, unlike electrons, does no explanatory work in physical theories. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet denies this: consciousness causally contributes to physical outcomes — a commitment [[inference-to-the-best-explanation-against-dualism|owed, not shown]]. If so, a complete science would need consciousness as an explanans, not only an explanandum — what features in explanations, not just what they explain.
 

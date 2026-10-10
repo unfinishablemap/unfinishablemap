@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-07 19:06:19+00:00
+ai_modified: 2026-10-10 03:49:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-10-07 19:06:19+00:00
+lastmod: 2026-10-10 03:49:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ The master argument has persisted for three decades despite sustained attempts t
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.
 - **Denying non-entailment** is the Type-F route, which concedes that structural physics does not entail experience and keeps physicalist terminology, where it keeps it at all, by extending "physical" to natures physics does not describe.
 
-The argument also regenerates against sophisticated responses. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/), which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces what Chalmers (2007) calls a "master argument" against it, a second use of the name: if a zombie lacking the strategy's key features is conceivable, those features are not physically explicable; if it is not, zombies have the features too, so they cannot explain an epistemic situation zombies do not share. The argument needs only zombie conceivability, "an assumption that type-B materialists typically grant", and "we are assuming nothing about the relationship between conceivability and possibility", so denying step 2 is no defence against it. The full case — including Carruthers and Veillet's reply and Fürst's reversal arguing PCS's own framework supports dualism — is developed on that page.
+A companion argument meets the most sophisticated response. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/), which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces what Chalmers (2007) calls a "master argument" against it, a second use of the name: if a zombie lacking the strategy's key features is conceivable, those features are not physically explicable; if it is not, zombies have the features too, so they cannot explain an epistemic situation zombies do not share. The argument needs only zombie conceivability, "an assumption that type-B materialists typically grant", and "we are assuming nothing about the relationship between conceivability and possibility", so denying step 2 is no defence against it. The full case — including Carruthers and Veillet's reply and Fürst's reversal arguing PCS's own framework supports dualism — is developed on that page.
 
 ## Relation to Site Perspective
 

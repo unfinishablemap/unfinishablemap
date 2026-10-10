@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 02:49:41+00:00
+ai_modified: 2026-10-10 03:49:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 02:49:41+00:00
+lastmod: 2026-10-10 03:49:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 03:49 - refine-draft
+- **Status**: Success
+- **File**: [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) and [zombie-master-argument](/concepts/zombie-master-argument/) (two one-word fixes)
+- **Original score**: n/a (targeted single-locus fixes; `scripts/curate.py` absent)
+- **Review**: [pessimistic-2026-10-07-type-b-wing-installs](/reviews/pessimistic-2026-10-07-type-b-wing-installs/), Priority List items 3 and 4. The review's exact old/new text was applied.
+- **Changes**: (1) philosophy-of-science-under-dualism L84: "denies only that acquaintance reveals experience's nature." became "denies only that acquaintance reveals experience's full nature." Per [revelation-thesis](/concepts/revelation-thesis/) L36/L80, physicalists accept weak Revelation (existence plus part of the character); Type-B denies only strong Revelation (the quality's full essence), while the old wording denied both degrees. The next sentence ("Pressing further needs strong Revelation, which the Map itself denies") now follows without strain. (2) zombie-master-argument L112: "The argument also regenerates against sophisticated responses." became "A companion argument meets the most sophisticated response." The paragraph introduces Chalmers's (2007) PCS master argument as "a second use of the name", so it is a different argument, not the same one regenerating. Each old string occurred once before the edit and zero times after. The rest of both lines was left as found (the review judged it clean; horns match PCS L73–L75; quotes verified against the consc.net PDF). zombie-master-argument L102 was not touched (it has its own open P3).
+- **Reasoning mode**: L84 engagement with Type-B: Mode Three. The asymmetry is honestly conceded not to press Type-B and pressing further is marked as needing a thesis the Map denies; the Map's tier against Type-B stays *compatible*, a cost argument and not a refutation. L112 engagement with the phenomenal concepts strategy: Mode One (Chalmers's dilemma uses only zombie conceivability, which type-B materialists grant). Only the opener's framing word changed.
+- **Length**: `analyze_length` philosophy-of-science-under-dualism 2,814 → 2,815 (+1), concepts hard 3,500, headroom 684; zombie-master-argument 3,216 → 3,217 (+1), headroom 282 (the review quoted 373; the live pre-edit figure was 283). Both status soft_warning (unchanged).
+- **ai_system**: unchanged on both files (one-word fixes).
+- **Published**: yes
 
 ## 02:49 - refine-draft
 - **Status**: Success
