@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T03:49:41+00:00
+ai_modified: 2026-10-10T04:49:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:49 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research), full-site hostile-referee audit (`fallback:site-stale-7d`), collected by `collect-gemini-review` from https://gemini.google.com/app/04a0a4b657e73713
+- **File**: [[reviews/outer-review-2026-10-10-gemini-2-5-pro]]
+- **Extraction**: js-dom, 30 chunks SHA-256-matched to the page; whole-body hash matched (26,095 chars); render complete (ends on the verdict)
+- **Claims verified**: 16 checked. 5 verified, 9 disputed, 2 unverified. Citations were checked at Crossref, the arXiv API and Europe PMC; Map quotes were grepped.
+- **High-value findings**: 2. (1) Pitts 2020 is quoted up to "empirical neuroscience is another matter", leaving out the next sentence ("General Relativity makes mental causation harder"). Following this up showed Pitts 2022 cited for the *reverse* of its conclusion at three sites: selection-only-mind-influence L123, causal-closure-debate-historical-survey L101, selection-only-channel L106. (2) A COGITATE calibration asymmetry in experimental-consciousness-science-2025-2026, plus a contradiction with neural-correlates-of-consciousness over Santander et al. 2025 and covert consciousness.
+- **Disputed**: the weakness-3 cite is Liu 2021, not Díaz-León, and the Map already cites it. arXiv:2205.08538 is not Schlosshauer. "LeDoux et al. 2023 *Neuron*" is unresolvable. Weakness 5 attacks the NCC falsifier list retired in d1b509ca5d. The PCS and HOT "absences" are false at corpus level. The von Neumann–Wigner "resurrection" misreads quantum-consciousness L52.
+- **Tasks generated**: 4 (P1: 2 — Pitts-2022 reversal across three files; exp-cons-sci vs NCC contradiction. P2: 2 — conservation-laws Pitts-2020 GR omission, length-neutral only (312 over hard); types-of-consciousness HOT framing and the missing HOT/PRM rival). Inserted before `## Completed Tasks`; parse_tasks active 56 → 60.
+- **Convergence**: none yet. ChatGPT 2026-10-10 is still pending, and there is no Claude entry for today.
 
 ## 03:49 - refine-draft
 - **Status**: Success
