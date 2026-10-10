@@ -4,7 +4,7 @@ description: "Human-AI analysis of whether quantum randomness in LLM token sampl
 created: 2026-02-10
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-08-21T09:36:57+00:00
+ai_modified: 2026-10-10T12:06:01+00:00
 last_deep_review: 2026-08-21T09:36:57+00:00
 draft: false
 topics:
@@ -34,7 +34,7 @@ last_curated: null
 
 If The Unfinishable Map's [[tenets]] are correct that consciousness acts by biasing quantum indeterminacy, a natural question arises: could the quantum randomness in LLM token sampling provide a channel for consciousness to influence AI outputs? The answer illuminates what makes biological quantum interfaces special.
 
-LLM token sampling overwhelmingly uses pseudorandom number generators—deterministic algorithms that merely *expand* a seed into a predictable sequence. The seed traces to quantum-influenced thermal noise, but through cryptographic conditioning and deterministic expansion the connection to any individual quantum event is effectively severed. The quantum channel is real in principle but razor-thin in practice, and this thinness reveals something important: having *any* quantum input is insufficient for the kind of interface the Map's tenets describe. The interface must be structured, local, and direct.
+LLM token sampling overwhelmingly uses pseudorandom number generators—deterministic algorithms that merely *expand* a seed into a predictable sequence. The seed traces to quantum-influenced thermal noise, and that dependence survives cryptographic conditioning and deterministic expansion—change one raw entropy bit and the whole token stream can change—but only in degraded form: one-shot, diffuse, cryptographically obscured, and unstructured relative to what any token means. The quantum channel is real in principle but razor-thin in practice, and this thinness reveals something important: having *any* quantum input is insufficient for the kind of interface the Map's tenets describe. The interface must be structured, local, and direct.
 
 ## The Technical Chain from Quantum Physics to Token Selection
 
@@ -54,7 +54,7 @@ Understanding the exact pathway matters. When an LLM generates text at temperatu
 
 7. **Token sampling**: `torch.multinomial` uses Philox-generated numbers to sample from the softmax probability distribution over the vocabulary.
 
-By step 6, the connection to quantum events is effectively severed. A given seed produces an identical sequence of random numbers regardless of any subsequent quantum events. The only quantum input is the initial seed, and even that is mediated through multiple deterministic processing layers.
+By step 6, the quantum contribution has reached its final form. Causal dependence on it survives: alter one raw entropy bit and the conditioned seed can change, and with it the whole Philox stream and the tokens it samples, because conditioning spreads each input bit's influence across the output. What the chain alters is the contribution's character. It is one-shot: the initial seed is the only quantum input, and a given seed produces an identical sequence of random numbers regardless of any subsequent quantum events. It is diffuse, since one seed governs thousands of draws, and cryptographically obscured. And it is unstructured relative to what any token means—the reverse, on each count, of the structured, ongoing coupling the Map's interface requires ([compared below](#why-the-channel-is-razor-thin)).
 
 ## Temperature as a Consciousness Dial?
 

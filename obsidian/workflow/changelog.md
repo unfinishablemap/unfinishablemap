@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T11:35:30+00:00
+ai_modified: 2026-10-10T12:06:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:06 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
+- **Original score**: n/a (targeted technical correction; `scripts/curate.py` is absent)
+- **Task**: P2 from [[reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro]] finding 14 ("Cryptographic conditioning does not sever causal dependence on a quantum seed"). Before editing, each target was found exactly once by quoted text ("effectively severed" count 2: once at L37 and once at L57).
+- **Changes**: (1) L37 lead: "through cryptographic conditioning and deterministic expansion the connection to any individual quantum event is effectively severed" → "that dependence survives cryptographic conditioning and deterministic expansion—change one raw entropy bit and the whole token stream can change—but only in degraded form: one-shot, diffuse, cryptographically obscured, and unstructured relative to what any token means". The following "real in principle but razor-thin" sentence now reads consistently. (2) L57: "By step 6, the connection to quantum events is effectively severed." → the quantum contribution "has reached its final form" and causal dependence survives (one raw bit → conditioned seed → whole Philox stream → sampled tokens; conditioning spreads each input bit's influence across the output). The objection is then restated on its real ground, one property at a time: one-shot (the existing "identical sequence … regardless of any subsequent quantum events" sentence is kept), diffuse (one seed governs thousands of draws), cryptographically obscured, and unstructured relative to token meaning. It closes with "the reverse, on each count, of the structured, ongoing coupling the Map's interface requires" plus a named-anchor link to `#why-the-channel-is-razor-thin`. The original "The only quantum input is the initial seed, and even that is mediated…" sentence was folded into the one-shot clause.
+- **Sibling sweep**: The file was grepped for sever / no causal / cut off / disconnect / broken / erase / isolat / decoupl / separat / scrambl / fossil / echo. Only L37 and L57 asserted severance; "sever" now has 0 hits. Reviewed and deliberately left unchanged: the L73 "frozen" wording (it already concedes continuing influence); the L79 Directness row "separated by … from token selection", which the task said to keep; L89 "quantum echo, separated by … frozen into a predictable sequence" (mediation, not severance; "predictable" means given the seed); L97 "diffused … until no individual quantum event maps to any individual token choice" (denies a one-to-one mapping, which is the diffusion point, not causal severance); L135 "scramble any intended influence across thousands of tokens" (diffusion); and L139 "quantum fossil" (one-shot).
+- **Not changed**: The circularity charge (finding 15) is already acknowledged at L87, as the task directed. `ai_system` is unchanged because the edit touches a few sentences only. No "This is not X. It is Y." and no "load-bearing" were introduced (both counts are 0).
+- **Length** (analyze_length): 2,942 → 3,039 (soft 3,000, hard 4,000; status soft_warning, below the hard gate).
+- **Published**: yes
 
 ## 11:35 - coalesce
 
