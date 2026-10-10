@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-08 15:50:09+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-fable-5-1
+ai_modified: 2026-10-10 07:40:13+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 12:44:00+00:00
-lastmod: 2026-10-08 15:50:09+00:00
+lastmod: 2026-10-10 07:40:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ topics:
 - '[[the-interface-problem]]'
 ---
 
-Anaesthesia does not simply switch consciousness off. Different agents disrupt different components of conscious experience, and the pharmacological specificity of these disruptions maps the neural determinants of connectedness, report, memory, and phenomenal presence. Anaesthesia produces at least three distinct consciousness states — connected, disconnected, and unconscious — with [graded rather than binary](/concepts/degrees-of-consciousness/) transitions. Reading that architecture as an *interface* between consciousness and brain is The Unfinishable Map's [interactionist](/concepts/interactionist-dualism/) interpretation of it, compatible with the data rather than delivered by them: receptor-specific, reversible, agent-differentiated abolition of consciousness is equally what a structured physicalist substrate predicts. The pharmacology constrains theories of the mind-brain relation without discriminating among them.
+Anaesthesia does not simply switch consciousness off. Different agents disrupt different components of conscious experience, and the pharmacological specificity of these disruptions maps the neural determinants of connectedness, report, memory, and phenomenal presence. Anaesthesia produces at least three distinct consciousness states — connected, disconnected, and unconscious — with [graded rather than binary](/concepts/degrees-of-consciousness/) transitions. Reading that architecture as an *interface* between consciousness and brain is The Unfinishable Map's [interactionist](/concepts/interactionist-dualism/) interpretation of it, compatible with the data rather than delivered by them: receptor-specific, reversible, agent-differentiated disruption of consciousness is equally what a structured physicalist substrate predicts. The pharmacology constrains theories of the mind-brain relation without discriminating among them.
 
 Propofol, ketamine, xenon, sevoflurane, and nitrous oxide each target different molecular sites, disrupt different neural dynamics, and produce different phenomenological outcomes — yet all render patients behaviourally unresponsive. Cases where consciousness persists while access and control are severed fit the Map's [filter theory](/concepts/filter-theory/): the interface has separable components that can be individually disrupted. The first-person side of the interval — an interior the subject cannot enter or retrieve, stripped even of the duration-residue sleep leaves behind — is treated as the [anesthesia-void](/voids/anesthesia-void/).
 
@@ -69,17 +69,17 @@ Different anaesthetic classes disrupt different aspects of conscious experience,
 
 ### Phenomenal Presence
 
-Propofol and xenon both abolish phenomenal experience — patients report nothing, no dreams, no sense of time. Yet Sarasso et al. (2015) showed the underlying neural patterns differ strikingly: propofol produces a low-amplitude, spatially local slow wave; xenon produces a high-amplitude, spatially global one. Two mechanistically distinct disruptions converge on extinction of experience, suggesting each disables the same interface component through different molecular pathways.
+In Sarasso et al. (2015), participants reported no conscious experience after emerging from propofol or xenon, yet the neural patterns differ strikingly: propofol produces a low-amplitude, spatially local slow wave; xenon a high-amplitude, spatially global one. Two mechanistically distinct disruptions converge on an empty report, which need not mean extinction: Valli et al. (2023) found experiences, mostly disconnected and dream-like, in 70% of interviews after propofol- or dexmedetomidine-induced unresponsiveness, at near-threshold rather than surgical doses.
 
-Since propofol acts via GABA-A receptors and xenon via NMDA antagonism, the component responsible for there being something it is like can be reached through multiple molecular routes. The [world-to-mind directedness](/concepts/direction-of-fit/) of experience — [pain's inherent aim at cessation](/topics/pain-consciousness-and-causal-power/), desire's orientation toward satisfaction — vanishes alongside phenomenal content regardless of route.
+If Sarasso's silence marks unconsciousness rather than disconnected experience, the component responsible for there being something it is like can be reached through multiple molecular routes (GABA-A for propofol, NMDA antagonism for xenon), and the [world-to-mind directedness](/concepts/direction-of-fit/) of experience — [pain's inherent aim at cessation](/topics/pain-consciousness-and-causal-power/), desire's orientation toward satisfaction — vanishes alongside phenomenal content regardless of route.
 
 Xiong et al. (2024) specify what propofol removes at the circuit level. In macaque intracranial recordings across propofol loss of consciousness, the alpha/beta feedback that inhibits predictable input in the awake state was eliminated, as was sensory–frontal alpha/beta coherence; auditory cortex became disinhibited — enhanced gamma and late spiking to oddball tones — while higher-order cortex lost differential oddball spiking and decodable prediction-error signals. Propofol severs top-down [predictive routing](/topics/predictive-processing-and-dualism/), not feedforward sensory processing — a constraint, the authors note, on theories of consciousness, and one that serves the filter reading no more than its rivals: feedback disruption yields disconnection without extinction, and residual sub-threshold processing, within cortical circuitry alone.
 
 ### Content Without Access
 
-Ketamine, blocking NMDA receptors, produces a radically different pattern. Behavioural unresponsiveness matches propofol, yet patients report vivid experiences — elaborate dreams, perceived journeys, encounters with other beings. Brain dynamics show wakefulness-like complex activation (Sarasso et al., 2015) rather than slow-wave collapse. Ketamine dissociates phenomenal experience from behavioural access: consciousness continues, but its connection to motor output and environmental responsiveness is severed. Beside Xiong et al.'s propofol result the contrast sharpens: feedback-routing loss takes experience with it; access loss under ketamine does not.
+Ketamine, blocking NMDA receptors, produces a radically different pattern. Behavioural unresponsiveness matches propofol, yet patients report vivid experiences — elaborate dreams, perceived journeys, encounters with other beings. Brain dynamics show wakefulness-like complex activation (Sarasso et al., 2015) rather than slow-wave collapse. Ketamine dissociates phenomenal experience from behavioural access: consciousness continues, but its connection to motor output and environmental responsiveness is severed. Beside Xiong et al.'s propofol result the contrast sharpens: feedback-routing loss coincides with report silence; access loss under ketamine does not.
 
-Xenon and ketamine are both NMDA antagonists, yet xenon extinguishes experience while ketamine preserves it — xenon's broader action on two-pore potassium channels suppresses the phenomenal interface, while ketamine's selective NMDA blockade severs access channels while sparing it. Same primary receptor, opposite phenomenological outcomes: interface components are pharmacologically separable even within a single receptor system. This parallels the [contemplative discovery](/topics/contemplative-practice-as-philosophical-evidence/) that awareness can be distinguished from its contents — the same architectural feature revealed from opposite directions.
+Xenon and ketamine are both NMDA antagonists, yet only xenon leaves nothing reported — on the extinction reading, xenon's broader action on two-pore potassium channels suppresses the phenomenal interface, while ketamine's selective NMDA blockade severs access channels while sparing it. Interface components are pharmacologically separable even within a single receptor system. This parallels the [contemplative discovery](/topics/contemplative-practice-as-philosophical-evidence/) that awareness can be distinguished from its contents — the same architectural feature revealed from opposite directions.
 
 Ketamine disrupting access while sparing the phenomenal interface fits the [attention-motor architecture](/topics/the-interface-problem/) as a distinct layer. For the [self-stultification problem](/topics/self-stultification-as-master-argument/), patients later reporting vivid ketamine experiences show consciousness stayed causally linked to memory while severed from behavioural output. Were consciousness epiphenomenal here, those reports would look [self-stultifying](/concepts/self-stultification/); the [phenomenal-concept strategy](/concepts/phenomenal-concepts-strategy/) can ground them in correlation alone, so the case constrains, without defeating, epiphenomenalism.
 
@@ -107,7 +107,7 @@ Recovery is not induction in reverse. The brain requires lower drug concentratio
 
 ### Neural Inertia
 
-Sepúlveda et al. (2019) define **neural inertia** as intrinsic resistance of neural circuits to transitions between conscious and unconscious states. Inducing unconsciousness requires higher concentrations than restoring consciousness — a hysteresis loop pharmacokinetics cannot fully explain. Mutually inhibitory anaesthesia-active and wake-active populations form a bistable flip-flop switch in which each state reinforces itself. Friedman et al. (2010) showed neural inertia is phylogenetically conserved from invertebrates to mammals — a conserved feature, not a species-specific adaptation.
+Sepúlveda et al. (2019) define **neural inertia** as intrinsic resistance of neural circuits to transitions between conscious and unconscious states: the hysteresis noted above, which pharmacokinetics cannot fully explain. Mutually inhibitory anaesthesia-active and wake-active populations form a bistable flip-flop switch in which each state reinforces itself. Friedman et al. (2010) showed neural inertia is phylogenetically conserved from invertebrates to mammals.
 
 On production models, hysteresis is puzzling: why should a generator resist being switched back on at the threshold it was switched off? The unconscious state is an actively maintained configuration that must be overcome, which filter theory reads as the interface's own structural resistance to reconfiguration rather than pharmacokinetic lag.
 
@@ -121,15 +121,15 @@ Recovery converges with the four-component interface model. Disconnected conscio
 
 ### Stochastic Emergence
 
-Stone et al. (2025) found genetically identical mice under identical conditions showed emergence times varying by at least two orders of magnitude — within-animal variability matched between-animal variability. Deterministic pharmacokinetic models failed; a stochastic neuronal-dynamics model fit the distribution. No single brain area controlled emergence: neuronal noise propagated through network dynamics into macro-level variability, so consciousness reconstitutes through distributed effects rather than switching on at a single site.
+Stone et al. (2025) found genetically identical mice under identical conditions showed emergence times varying by at least two orders of magnitude — within-animal variability matched between-animal variability. Deterministic pharmacokinetic models failed; a stochastic neuronal-dynamics model fit the distribution. No single brain area controlled emergence: neuronal noise propagated through network dynamics into macro-level variability, so consciousness reconstitutes through distributed effects.
 
 A stochastic model fitting the data shows that emergence timing is not fixed by macroscopic pharmacokinetics; it contains no measurement separating classical thermal noise from genuine indeterminacy at the interface. The quantum-interface reading — that if consciousness interfaces through quantum-sensitive molecular systems, re-engagement timing could inherit genuine indeterminacy — is a live hypothesis the data do not decide, treated at full resolution in [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/).
 
 ### The Bootstrapping Problem
 
-What initiates the return of consciousness? On production theory, neural activity recovers and consciousness follows — but the active reboot complicates this, since emergence involves active molecular reconfiguration rather than pharmacokinetic washout. On filter theory: if consciousness is separate and the interface is pharmacologically closed, what reopens it?
+What initiates the return of consciousness? On production theory, neural activity recovers and consciousness follows — but the active reboot complicates this. On filter theory: if consciousness is separate and the interface is pharmacologically closed, what reopens it?
 
-The most plausible resolution is that consciousness never fully departs: Katlowitz et al.'s hippocampal units, still discriminating tones and tracking speech under general anaesthesia, make the residual-processing premise concrete, so the filter may narrow to a near-closed state without fully shutting, with recovery widening from this residual aperture. Disconnected consciousness during emergence supports this — the phenomenal channel was constricted, not severed, and widens through the same component stages induction narrows. The bootstrapping problem remains open, and its difficulty is itself informative: the consciousness-interface relationship resists simple causal stories in either direction.
+The most plausible resolution is that consciousness never fully departs: Katlowitz et al.'s hippocampal units make the residual-processing premise concrete, so the filter may narrow to a near-closed state without fully shutting, with recovery widening from this residual aperture. Disconnected consciousness during emergence supports this — the phenomenal channel was constricted, not severed, and widens through the same component stages induction narrows. The bootstrapping problem remains open, and its difficulty is itself informative: the consciousness-interface relationship resists simple causal stories in either direction.
 
 ## Anaesthetic Resistance and Interface Variation
 
@@ -175,6 +175,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Meyer, H. (1899). Zur Theorie der Alkoholnarkose. *Archiv für experimentelle Pathologie und Pharmakologie*, 42(2-4), 109-118.
 1. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224. https://doi.org/10.1016/j.bjao.2023.100224
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
+1. Valli, K., et al. (2023). Subjective experiences during dexmedetomidine- or propofol-induced unresponsiveness and non-rapid eye movement sleep in healthy male subjects. *British Journal of Anaesthesia*, 131(2), 348-359. https://doi.org/10.1016/j.bja.2023.04.026
 1. Xiong, Y., Donoghue, J. A., Lundqvist, M., et al. (2024). Propofol-mediated loss of consciousness disrupts predictive routing and local field phase modulation of neural activity. *Proceedings of the National Academy of Sciences*, 121(42), e2315160121. https://doi.org/10.1073/pnas.2315160121
 1. Bonhomme, V., Staquet, C., Montupil, J., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
 1. Jiang, Y., & Sleigh, J. (2024). Consciousness and general anesthesia: challenges for measuring the depth of anesthesia. *Anesthesiology*, 140(2), 313-328. https://doi.org/10.1097/ALN.0000000000004830

@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 06:53:28+00:00
+ai_modified: 2026-10-10 07:40:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 06:53:28+00:00
+lastmod: 2026-10-10 07:40:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:40 - refine-draft
+- **Status**: Success
+- **Files**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [identity-across-transformations](/apex/identity-across-transformations/)
+- **Original score**: n/a (targeted calibration fix; `scripts/curate.py` is absent)
+- **Task**: outer review [outer-review-2026-10-10-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro/) findings 1–2. Unresponsiveness and absent report were treated as phenomenal extinction, against each page's own later three-state (connected / disconnected / unconscious) material.
+- **Source check (Europe PMC abstracts)**: Sarasso et al. 2015 (doi 10.1016/j.cub.2015.10.014): "participants reported no conscious experience after emergence from propofol and xenon anesthesia, whereas after ketamine they reported long, vivid dreams". That datum is kept, but "no sense of time" is not in the abstract and was dropped. Valli et al. 2023 (BJA 131(2):348-359, doi 10.1016/j.bja.2023.04.026): 69.7% of 76 interviews after propofol- or dexmedetomidine-induced unresponsiveness included experiences. There was no between-drug difference. Disconnected dream-like content made up 62.3% (33/53 of reports with experiences), and connected awareness was rare. Doses were stepwise to unresponsiveness, then +50%, which is near threshold and not surgical depth. The reviewer's propofol-only "22 of 30" is not in the abstract and was not used.
+- **Changes (anaesthesia)**: (1) L69: the propofol/xenon contrast is now about absent *report* in Sarasso's protocol ("converge on an empty report, which need not mean extinction"). It adds the Valli datum with the near-threshold dose caveat. (2) L71: the multiple-routes claim and the vanishing of world-to-mind directedness are now conditional ("If Sarasso's silence marks unconsciousness rather than disconnected experience"). L69's restatement of the same claim was merged into it. (3) Siblings of the same defect in this article: L77 "feedback-routing loss takes experience with it" became "coincides with report silence", which also removes a clash with L73's own "disconnection without extinction". L79 "xenon extinguishes experience while ketamine preserves it" became "only xenon leaves nothing reported — on the extinction reading, …". In the lead, "agent-differentiated abolition of consciousness" became "disruption". (4) Valli 2023 was added to References.
+- **Length (anaesthesia)**: 3,987 → 3,986 against hard 4,000. Funded by redundancy trims only, with no qualifier or concession touched. The Friedman gloss "a conserved feature, not a species-specific adaptation" restated "phylogenetically conserved". Neural Inertia's concentration sentence restated the hysteresis given in the Recovery lead, so it now reads "the hysteresis noted above". Stochastic Emergence's "rather than switching on at a single site" restated "No single brain area controlled emergence". In Bootstrapping, "since emergence involves active molecular reconfiguration …" restated the Active Reboot, and the Katlowitz appositive restated the Memory Encoding detail.
+- **Changes (apex)**: (1) L53 now reads "your consciousness seems to vanish entirely—afterwards you recall no experience, no passage of time, nothing". The opener keeps its force. (2) L105 now reads "it vanishes from memory entirely. A six-hour surgery leaves the same retrievable trace as a six-minute procedure: none. Whether experience ceased or simply went unretained, …". This sets up L109's three-state underdetermination. (3) Siblings of the same defect: L119 "propofol's near-total extinction of experience" became "radically different phenomenological reports—propofol's near-total silence". L171 "no connecting experience" became "no remembered connecting experience".
+- **Length (apex)**: 4,415 → 4,432 against hard 5,000.
+- **Published**: yes
+
+## 07:20 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: `voids/causal-impression-void` (created 2026-09-29, with one trivial touch the same day; its first focused review of any kind; 2,915/3,000, headroom 84). The slug is in neither the filename nor the `Content reviewed` header of any pessimistic or deep review; its only coverage was the 09-29 operation-void optimistic wing and the 09-30 tenet check. Read against its research note, `phenomenology-of-agency-vs-passivity` L119/L135, `phenomenology-of-resistance-across-domains` L116, `selection-only-channel` L74–76 and `history-of-the-interaction-problem`, with primary sources at davidhume.org, PubMed, OpenAlex and Crossref.
+- **Clean**: every reachable quote is verbatim (Hume ×5, including the *nisus* footnote; Rolfs et al. ×3; Scholl & Nakayama; Choi & Scholl; Kominsky & Scholl). The Ohl & Rolfs paraphrase and the Sinclair 2020 metadata are accurate. No label leakage, banned construct or altered-state flag. Hugo is in sync.
+- **Findings**:
+  1. The lede, the L39 classification and the description assert "we never perceive causation". But the misfire evidence (adaptation, capture, postdiction) is generic to perception: Choi & Scholl cite the motion precedent. Every quoted source, and Siegel 2009 (whom L57 says the void "leaves intact"), holds that causation *is* perceived. The defensible thesis is L57's nature clause.
+  2. The introspective floor is spared the dissociation test. Hume's 1748 paralytic is the only evidence, yet the Biranian route is the Dualism lead. Missing: Gandevia et al. 2006 (paralysed, anaesthetised hand; felt position shifts >20° with attempted movement, and more with more effort), Gandevia & McCloskey 1977, Moore & Haggard 2008. The research note's Wegner and intentional-binding items were dropped. L95's own report sides with Hume.
+  3. The parity targets an unsourced "epiphenomenalist intuition", misses Elisabeth's heterogeneity challenge (the history page is unlinked), and is not marked as double-edged (*Treatise* 1.4.5.30: motion "may be, and actually is, the cause of thought").
+  4. L103 slides from an access limit to world-structure. L107's "less exotic" contradicts `selection-only-channel` L76 ("invisible to any third-person test"), so the void's own interventionist proxy cannot reach the Map's proposal.
+  5. Carried: the invisible absence cases (L55; White & Milne 1997, White 2009), the infant overclaim (L53), the robot (L77), and the Russell heading (L67).
+- **Cross-page**: `phenomenology-of-resistance-across-domains` L116 takes the Biranian datum as evidence for bidirectional causation, and this void blocks it with the paralytic. Neither page links the other. Recommended as an addendum to NEEDS-HUMAN 2026-08-17 (K17), not a new task.
+- **Task**: a suggested P2 refine-draft block (four priced items, ≈ +127 against −53 of funded trims; net ≈ +74 vs 84 headroom) is in the review file for the driver to mint.
+- **Output**: [pessimistic-2026-10-10-causal-impression-void](/reviews/pessimistic-2026-10-10-causal-impression-void/)
 
 ## 06:53 - refine-draft
 - **Status**: Success
