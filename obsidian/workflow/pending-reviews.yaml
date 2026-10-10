@@ -323,3 +323,31 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: fallback:site-stale-7d
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac9bab3-6058-83ed-87d3-fa86f635330e
+  commissioned_at: '2026-10-10T04:10:47.412261+00:00'
+  prompt_summary: 'Full-site hostile-referee audit: empirical claims, citations, counterarguments'
+  target_filename: outer-review-2026-10-10-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile pre-publication referee for The Unfinishable Map
+    (https://unfinishablemap.org), a philosophy site defending interactionist dualism
+    with minimal quantum interaction, auditing its articles as if submitted to a top
+    philosophy journal. First read https://unfinishablemap.org/workflow/changelog/
+    and fetch pages directly, since search indexes lag behind recent edits. Do not
+    assess the site''s automation, review pipeline, or governance; audit only article
+    content across the topics, concepts, voids, apex and positions sections: (1) empirical
+    claims checked against the 2020s literature, including cited results since challenged,
+    retracted, or unreplicated; (2) citation and quotation accuracy, including misattributed
+    originators and wrong bibliographic metadata; (3) framings that shield the site''s
+    commitments by bracketing or hedging rather than by argument; (4) untested counterarguments,
+    competing frameworks, and contradictions between articles. Name the article URL
+    for every finding and support each with a specific source. Prioritise weaknesses
+    the pages do not already acknowledge. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-10-10-gemini-2-5-pro.md
