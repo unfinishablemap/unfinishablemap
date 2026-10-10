@@ -4,7 +4,7 @@ description: "The ape–human cognitive gap admits three rival readings. The Map
 created: 2026-01-29
 modified: 2026-09-10
 human_modified:
-ai_modified: 2026-09-29T18:07:56+00:00
+ai_modified: 2026-10-10T19:53:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ coalesced_from:
   - "/topics/consciousness-and-creative-distinctiveness/"
 ---
 
-Consciousness and intelligence are often conflated but conceptually distinct. Intelligence involves processing information, solving problems, and adapting behaviour. Consciousness involves subjective experience—there being something it is like to be the system in question. The Unfinishable Map holds that these capacities are deeply connected: on the Map's framework phenomenal consciousness causally enables human-level intelligence, and the creative distinctiveness that separates human thought from animal innovation and AI generation depends on it both as mechanism and as constitutive condition. That commitment is framework-relative, adopted on tenet-level grounds rather than read off the comparative record. The great-ape evidence surveyed below is consistent with at least three accounts of what consciousness is doing and [does not by itself select the Map's](#what-the-comparative-pattern-can-and-cannot-establish); the audit below names the observations that would. What the comparative pattern does reveal is a cognitive threshold—the Map reads it as neural architecture becoming rich enough to serve consciousness as an effective interface. Understanding the relationship clarifies why AI systems achieve impressive performance without genuine understanding, and where the great ape–human cognitive gap does and does not bear on consciousness's causal role.
+Consciousness and intelligence are often conflated but conceptually distinct. Intelligence involves processing information, solving problems, and adapting behaviour. Consciousness involves subjective experience—there being something it is like to be the system in question. The Unfinishable Map holds that these capacities are deeply connected: on the Map's framework phenomenal consciousness causally enables human-level intelligence, and the creative distinctiveness that separates human thought from animal innovation and AI generation depends on it both as mechanism and as constitutive condition. That commitment is framework-relative, adopted on tenet-level grounds rather than read off the comparative record. The great-ape evidence surveyed below is consistent with at least three accounts of what consciousness is doing and [does not by itself select the Map's](#what-the-comparative-pattern-can-and-cannot-establish); the audit below names the observations that would. What the comparative pattern does reveal is a cognitive threshold—the Map reads it as neural architecture becoming rich enough to serve consciousness as an effective interface. Understanding the relationship clarifies where the great ape–human cognitive gap does and does not bear on consciousness's causal role, and [what the Map's reading predicts for AI](#implications-for-artificial-intelligence).
 
 ## Baseline Cognition and the Zone of Latent Solutions
 
@@ -156,9 +156,9 @@ A 2024 *Brain* study (Bartoli et al.) established that the Default Mode Network 
 
 ## Implications for Artificial Intelligence
 
-The Map's position suggests current AI achieves impressive pattern recognition and statistical learning—exactly the capacities unconscious processing handles well. What AI cannot achieve is the flexibility, metacognition, and counterfactual reasoning that consciousness enables. AI generation excels at combinational and exploratory creativity—traversing possibility spaces defined by training data—but lacks stakes. A language model generates a poem without knowing what loss feels like, proposes a hypothesis without caring whether nature works that way. More computational power does not generate temporal stakes; more training data does not produce meaning-sensitive selection; more parameters do not yield aesthetic experience.
+AI excels at pattern recognition, statistical learning, and combinational and exploratory creativity—traversing possibility spaces defined by training data—but lacks stakes. A language model generates a poem without knowing what loss feels like, proposes a hypothesis without caring whether nature works that way. More computational power does not generate temporal stakes; more training data does not produce meaning-sensitive selection; more parameters do not yield aesthetic experience.
 
-If the Map is right, the path to human-level AI runs through consciousness—not necessarily human consciousness, but *some* form of genuine phenomenal experience. Whether silicon can support such experience remains an open question, but the [[machine-consciousness|machine consciousness]] article argues that classical computation cannot.
+The Map [conjectures](#what-the-comparative-pattern-can-and-cannot-establish) that flexible recombination of operations, explicit metarepresentation of method, and transformational creativity need conscious control. Whether silicon can host consciousness remains open, though the [[machine-consciousness|machine consciousness]] article argues classical computation cannot; if both hold, conventional systems should stall below human level on these capacities. Today's deficits, explicable by architecture or training, cannot test this; a conventional system matching humans on such tasks, devised after its training, would count against the conjecture.
 
 ## The Evolutionary Argument
 

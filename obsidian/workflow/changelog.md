@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T19:38:24+00:00
+ai_modified: 2026-10-10T19:53:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:53 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-cognitive-distinctiveness]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source**: outer-review-2026-10-10-chatgpt-5-6-sol-pro, AI-claims finding. Framing taken from the corrected [[apex/machine-question]] L159–L163 and [[positions/ai-consciousness-scope]] P-AC1 (external-evidence grade D)
+- **Changes** (each old span asserted unique before replacement):
+  - Implications for AI, L159: dropped "The Map's position suggests current AI achieves impressive pattern recognition … What AI cannot achieve is the flexibility, metacognition, and counterfactual reasoning that consciousness enables." That second sentence stated a Grade-D capability ceiling as fact. It also clashed with P-AC4, which records flexible cross-task generalization among the J-space workspace signatures. The pattern-recognition and statistical-learning strengths were folded into the existing combinational/exploratory-creativity sentence. The "lacks stakes" claim and the scaling sentences are unchanged.
+  - Implications for AI, L161: "If the Map is right, the path to human-level AI runs through consciousness …" now reads as an explicit conjecture. It names the three capacities that machine-question uses and that this article already defines: flexible recombination of operations (L100), explicit metarepresentation of method (L86/L151) and transformational creativity (L151). The prediction is conditional on both the conjecture and the machine-consciousness substrate argument: conventional systems should stall below human level on these capacities. Today's deficits cannot test this, since architecture or training explain them. The falsifier is a conventional system matching humans on such tasks, devised after its training. The "remains open" qualifier on silicon is kept. "Conjectures" carries a zero-cost anchor to the "What the Comparative Pattern Can and Cannot Establish" audit. That audit says the comparative data cannot separate phenomenal causation from accompaniment or common cause, so this falsifier is also the case that would favour those rivals.
+  - Lead, L72 (string sibling of the same defect): "clarifies why AI systems achieve impressive performance without genuine understanding" now reads "clarifies … and [what the Map's reading predicts for AI](#implications-for-artificial-intelligence)". The flat lack-of-understanding assertion is gone.
+- **Consistency check**: the audit section, the Bidirectional Interaction paragraph (L184, which says comparative correspondence "constrains … without establishing") and What Would Challenge item 3 all agree with the conditional framing. No edits were needed there.
+- **Length (analyze_length)**: 3,984 → 3,984 (net zero; topics hard threshold 4,000). Funded from the dropped "exactly the capacities unconscious processing handles well" gloss, the merged "If the Map is right" clause and the shortened lead clause. No calibration qualifier was cut.
+- **ai_system**: unchanged
+- **Published**: yes
 
 ## 19:38 - refine-draft
 - **Status**: Success
