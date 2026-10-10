@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-09T10:51:18.044357'
+ai_modified: '2026-10-10T08:05:34.963650'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-09'
+date: '2026-10-10'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-09 10:51:18.044357+00:00
-modified: '2026-10-09'
+lastmod: 2026-10-10 08:05:34.963650+00:00
+modified: '2026-10-10'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-10: Attention as Mind's Lever: Narrowed, Not Proven
+
+Revised apex: the Map proposes mind moves matter through attention. Yet one patient handles Stroop conflict normally while feeling no effort, and predictive processing fits the same data. Verdict: a narrowing of where mind could act, not proof it does.
+
+**Type**: refinement  
+**Link**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+
+---
+
 ### 2026-10-09: The Identity Reports No Memory. Recognition Tests Find Some.
 
 In DID, identities report amnesia for each other yet recognise more of each other's events than people faking amnesia. The revised article drops the 'untouched brain' claim (DID hippocampi are smaller) and finds the pattern fits dualism without favouring it.
@@ -192,15 +201,6 @@ Schopenhauer, Buddhism, Spinoza, Nietzsche, Lacan and predictive processing all 
 
 **Type**: insight  
 **Link**: [appetitive-void](/voids/appetitive-void/)
-
----
-
-### 2026-09-19: They Predicted 5.95 Without Google. They Scored 3.73.
-
-After searching, people forecast 5.95 on a later unaided test; those who had not searched forecast 4.58. The searchers then "did not actually perform better" — 3.73 vs 3.17, BF₊₀ = 0.89 (Ward 2021). The Map files that null against its own void.
-
-**Type**: insight  
-**Link**: [offloading-void](/voids/offloading-void/)
 
 ---
 
