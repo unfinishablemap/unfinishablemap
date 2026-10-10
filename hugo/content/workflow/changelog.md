@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 09:22:57+00:00
+ai_modified: 2026-10-10 10:20:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 09:22:57+00:00
+lastmod: 2026-10-10 10:20:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:20 - refine-draft
+- **Status**: Success
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Original score**: n/a (targeted framing fix; `scripts/curate.py` is absent)
+- **Task**: P2 from [outer-review-2026-10-10-gemini-2-5-pro](/reviews/outer-review-2026-10-10-gemini-2-5-pro/) (weakness 4). The reviewer's "wholly ignores HOT" charge is false at corpus level (`concepts/higher-order-theories` covers HOROR, PRM and LeDoux), but two narrower defects in this file were real.
+- **Changes**: (1) L57 (monitoring consciousness): removed the claim that HOT "introduces the possibility of consciousness that is phenomenal and access-available but not self-monitored". It now says that Rosenthal's HOT makes monitoring constitutive of state consciousness through an ordinarily unconscious HOR. What HOT allows is experience without *introspective* awareness, since introspection needs a further conscious HOR. HOT denies that there is anything it is like to be in an untargeted state (Rosenthal's unconscious mental qualities are noted, consistent with `higher-order-theories` L65). First-order theorists (Block) hold the reverse. Listing monitoring separately keeps the question open, and HOT cannot be cited for a free-standing P layer. (2) New paragraph after L49: named HOT/PRM as the rival prediction to Block's A-without-P claim for AI. A system whose first-order states are re-represented in the right way (Lau 2022: tagged as reflecting the world rather than noise) would be conscious on these views. Added Butlin et al. (2023) for indicator properties derived from higher-order theories, checked against the arXiv abstract. That citation also de-orphans ref 6. Points to `higher-order-theories` with a piped link. The AI-section verdict "unlikely for current architectures" is unchanged. (3) Description "can dissociate" → "may dissociate", because the monitoring/P dissociation is disputed. (4) Added Lau (2022) to references (anchor from `higher-order-theories`' list).
+- **Engagement classification**: HOT/PRM on AI is mixed. It opens by naming an unsupported foundational move (the step from re-representation to felt experience is stated, not explained, by the mechanistic-adequacy standard the programme applies elsewhere; developed in `higher-order-theories` L77/L91). It closes by marking the framework boundary (dualism denies what HOT asserts, recorded as such and not as a refutation). The L57 correction is exposition, with no reply mode.
+- **Not adopted**: the reviewer's LeDoux et al. (2023) *Neuron* citation (does not resolve in Crossref), "LeDoux and Fleming (2023)", and the "self-HOROR" / "General Network of Cognition" glosses (unverified).
+- **Sibling sweep**: "not self-monitored" and "experience without awareness of experiencing" occur nowhere else in live content. The other "monitoring consciousness" mentions (structural-varieties L143 further-reading gloss, research note L44) carry no HOT-support claim.
+- **Length**: 2,176 → 2,450 (analyze_length), against concepts soft 2,500 / hard 3,500.
+- **Published**: yes
+
+## 09:48 - optimistic-review
+- **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
+- **Content reviewed**: the unauditable verdict wing, six voids at 0–3 mentions across all 593 prior optimistic reviews (content grep), none ever deep-reviewed (the deep-review pool excludes `voids/`): `voids/numbing-void` (2,681), `voids/assent-void` (2,959, NEEDS-HUMAN condense block), `voids/handedness-void` (2,796, one commit, never revised), `voids/modality-void` (2,493), `voids/offloading-void` (2,996) and `voids/preference-void` (2,842, junction). Neighbours were read for propagation.
+- **Findings**: five pages share one exposure shape, modelled by the handedness void and named nowhere: (1) the verdict is the same on both sides of the difference it would need to detect; (2) the difference shows only when two runs are compared; (3) a comparison, once run, yields knowledge and leaves the verdict unchanged. Clause 1 is the voids-side form of the 10-09 rule "presentation is not certification"; clauses 2–3 are new. Birch verdict: calibrated across the wing. Every page states its kind conditionally and face by face, and [P-V2](/positions/voids-as-evidence/#p-v2) is invoked by name five times. `modality-void` is functionally orphaned (1 inbound, the voids index).
+- **Priority List (cap 4, exact old→new, every old string script-verified once, `count_words` costs)**: (1) handedness-void L82 Levinson & Brown 1994 + Danziger & Pederson 1998 discharge the page's self-flagged open question, +129 (2,925/3,000), plus a +2 L100 calibration rider (the parity-violation wording reused for Kant's feeling); (2) numbing-void L86 unit asking (Hsee et al. 2013; Karlsson et al. 2020), +140, plus a preference-void Further Reading reciprocal, +14; (3) three-kinds-of-void: name the exposure shape after the operation-void paragraph, +217 (2,823/3,000); (4) modality orphan repair and reciprocals across seven files, +104 (reality-monitoring L42, fusion, palette-extension, chemosensory L78, phenomenal-contrast-method's Sensory Difference Objection, a meta-epistemology L90 pipe to handedness, anti-correlated-metacognitive-signal L65 → offloading). Optional 0-word rider: assent-void L107 "The literature's reply" → "The dominant reply".
+- **New subjects for the harvester**: (A) mirror invariance in vision and its unlearning by literacy (Kolinsky et al. 2011, Danziger & Pederson 1998; metadata and abstracts verified); (B) Buddhist and Indian analogues of assent (*adhimokkha*, Dharmakīrti's *niścaya*; leads unverified).
+- **Output**: [optimistic-2026-10-10-unauditable-verdict-wing](/reviews/optimistic-2026-10-10-unauditable-verdict-wing/)
 
 ## 09:24 - driver edit
 - **Task**: description calibration on `concepts/conservation-laws-and-mental-causation` (leftover flagged by the 09:22 refine-draft)

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-09-08 13:49:17+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-10 10:20:40+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
@@ -20,13 +20,13 @@ concepts:
 created: 2026-03-07
 date: &id001 2026-03-07
 description: Consciousness varies not only in content but in structural form. Phenomenal,
-  access, and monitoring consciousness can dissociate—with profound implications for
+  access, and monitoring consciousness may dissociate—with profound implications for
   AI and dualism.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 06:13:00+00:00
-lastmod: 2026-09-08 13:49:17+00:00
+lastmod: 2026-10-10 10:20:40+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -52,13 +52,15 @@ Ned Block's 1995 distinction between [phenomenal consciousness](/concepts/phenom
 
 These can dissociate. [blindsight](/concepts/blindsight/) patients process visual information and make above-chance "guesses" about stimuli they report not seeing — a case of partial access without phenomenology. In the other direction, Block's overflow argument draws on Sperling's partial report paradigm: subjects phenomenally experience an entire visual array but can access only a few items for report. P-consciousness overflows A-consciousness. (Dennett and others contest this interpretation, arguing that subjects have a *sense* of seeing the whole array rather than genuinely experiencing all items — but the conceptual distinction between P and A holds regardless of how the overflow debate resolves.) Conversely, Block argues that functional AI systems might achieve rich A-consciousness — information integrated and globally broadcast — while having zero P-consciousness.
 
+Higher-order theories make a rival prediction. On them, global broadcast is not the criterion: a system whose first-order states are re-represented in the right way — in Hakwan Lau's perceptual reality monitoring account, tagged by a monitor as reflecting the world rather than internal noise (Lau 2022) — would thereby be conscious, with no further phenomenal ingredient left for it to lack. Butlin et al. (2023) derive indicator properties for assessing AI systems from higher-order theories, alongside global workspace and other theories. The prediction rests on the step from re-representation to felt experience, which these theories state without explaining; the [higher-order theories article](/concepts/higher-order-theories/) presses that gap by the standard of mechanistic adequacy their proponents apply elsewhere. What remains after it is a disagreement at the framework boundary, where the Map's dualism denies what the higher-order view asserts, and it is recorded here as such rather than as a refutation from inside that view.
+
 ## Beyond the Binary: Creature vs. State Consciousness
 
 The Stanford Encyclopedia of Philosophy identifies a further distinction: **creature consciousness** (whether an organism is conscious at all) versus **state consciousness** (whether a particular mental state is conscious).
 
 A sleeping person is creature-unconscious but retains the capacity for conscious states. A blindsight patient processes visual information without conscious visual states — demonstrating state-unconsciousness for vision while remaining creature-conscious.
 
-**Monitoring consciousness** adds a third dimension: inner perception of one's own mental states. Higher-order theories of consciousness (Rosenthal 2005) hold that a state becomes conscious when a [higher-order representation](/concepts/higher-order-theories/) takes it as an object. This introduces the possibility of consciousness that is phenomenal and access-available but not self-monitored — experience without awareness of experiencing.
+**Monitoring consciousness** adds a third dimension: awareness of one's own mental states. Whether it can come apart from phenomenal consciousness is disputed. Higher-order theories of consciousness (Rosenthal 2005) make monitoring constitutive: a state is conscious at all only when a [higher-order representation](/concepts/higher-order-theories/) takes it as an object, and that representation is ordinarily itself unconscious. What they allow is experience without *introspective* awareness of experiencing, since introspection requires a further higher-order state that is itself conscious. They deny that there is anything it is like to be in a state no higher-order representation targets; on Rosenthal's account such a state may still carry qualitative properties, but it is not conscious. First-order theorists, Block among them, hold that phenomenal consciousness needs no such monitoring. Listing monitoring as a separate dimension keeps that question open. The higher-order view offers a rival account of what makes a state phenomenal, and cannot be cited for a phenomenal layer that floats free of monitoring.
 
 A complementary taxonomy comes from Tulving's classification: [anoetic, noetic, and autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/). Anoetic consciousness accompanies procedural, unreflective action; noetic consciousness involves awareness of knowing (semantic memory retrieval); autonoetic consciousness enables mental time travel through episodic re-experiencing. This maps a different axis of variation — not phenomenal vs. access, but the degree of self-referential temporal projection involved in experience. Tulving's hierarchy proves especially diagnostic for AI: the transitions between levels involve qualitative phenomenal additions (the feeling of knowing, the "pastness quale" of re-experiencing) that functional mimicry cannot capture. The [ai-consciousness-typology](/concepts/ai-consciousness-typology/) article develops this analysis in full.
 
@@ -164,3 +166,4 @@ The Map's [five tenets](/tenets/) constrain the types-of-consciousness question 
 8. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 9. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
 10. Southgate, A. & Oquatre-six, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
+11. Lau, H. (2022). *In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience*. Oxford University Press.
