@@ -1950,18 +1950,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: analyze_length 2,945 against topics hard 4,000.
 - **Notes**: (1) L56 calls IIT and GNWT "empirically incommensurable even under shared protocols". COGITATE (Melloni et al. 2025, *Nature*) tested distinct, preregistered predictions from each under a shared protocol, so they were commensurable enough to be tested against each other. Lower this to what COGITATE shows: each theory's predictions were partly disconfirmed and neither was decisively favoured. Verify the wording against the paper's abstract. (2) L88 says biological computationalism "inadvertently strengthens the Map's position". Under `project/evidential-status-discipline` (compatibility vs support), a rival's concession that computation alone is insufficient is at most compatible with the Map unless it supplies a discriminator. Restate it as compatibility. The 06:53Z fix just made L104/L110/L112 symmetric; keep these two in that register. Find each target by quoted text. No "This is not X. It is Y."; no "load-bearing". Update ai_modified (UTC); sync; verify both trees.
 
-### P2: `voids/causal-impression-void` — lede asserts "we never perceive causation" against its own sources and L57; introspective floor spared the dissociation test (modern paralytic, Gandevia 2006); parity targets an unsourced objection and is unmarked as double-edged; L107 "less exotic" contradicts selection-only-channel L76 (pessimistic-2026-10-10)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/causal-impression-void.md
-- **Section**: voids
-- **Status**: pending
-- **Source**: pessimistic-review 2026-10-10 07:20Z (first focused review since the 2026-09-29 create; quotes verified at source)
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/pessimistic-2026-10-10-causal-impression-void.md`
-- **Secondary files**: /home/andy/unfin/unfinishablemap/obsidian/voids/voids.md (L305 register line only, length-neutral)
-- **Headroom**: analyze_length 2,915 vs voids hard 3,000 (gate >=) → 84. Funded trims −53 (L77 "The asymmetry is useful…push." −26; L93 "This is developed in the next section." −7; L43 Michotte parenthetical −11, duplicated by ref 6; L53 infant rewrite −9, Issue 6). Priority items ≈ +127. Finish ≤ 2,999.
-- **Notes**: Do Priority List items 1–4 of the review file in order, using its exact old→new strings. HEADROOM: 2,915/3,000, finish ≤ 2,999, fund with the four trims named in the review (L77 −26, L93 −7, L43 −11, L53 −9). (1) Narrow the lede, L39 and the description to "what causation consists in"; add the one-sentence motion/Siegel parity to L57 and "Siegel intact" → "Siegel's content thesis intact" (Siegel 2009 also defends that causation is perceived); "the knife cutting the bread" → "a seen launch"; mirror in voids.md L305. (2) Add Gandevia et al. 2006 (J Physiol 571(3):703–710, doi 10.1113/jphysiol.2005.103093) after the L63 palsy quote, quoting only its abstract; relocation clause at L65; "on the Humean report" at L95; "now measured in the laboratory" at L105. (3) Retarget L99's unsourced intuition to Elisabeth via a piped link to history-of-the-interaction-problem; add the Treatise 1.4.5.30 symmetry clause to L101 plus a reference. (4) L103 conditional; replace L107's first two sentences with the selection-only-channel L76 cost statement. Do NOT touch phenomenology-of-resistance-across-domains (its L116 divergence belongs to NEEDS-HUMAN 2026-08-17 K17). Quote no source not verified in the review. Update ai_modified; sync hugo.
-
 ### P2: Whitehead misdescribed in `concepts/process-philosophy` and `apex/process-and-consciousness` — "internally temporal" occasions, a "temporally extended act" of becoming, and creativity equated with the whole Category of the Ultimate, all contradicted by *Process and Reality*'s own text
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/process-philosophy.md
@@ -2090,6 +2078,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-10: `voids/causal-impression-void` — lede asserts "we never perceive causation" against its own sources and L57; introspective floor spared the dissociation test (modern paralytic, Gandevia 2006); parity targets an unsourced objection and is unmarked as double-edged; L107 "less exotic" contradicts selection-only-channel L76 (pessimistic-2026-10-10)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/causal-impression-void.md
+- **Notes**: Do Priority List items 1–4 of the review file in order, using its exact old→new strings. HEADROOM: 2,915/3,000, finish ≤ 2,999, fund with the four trims named in the review (L77 −26, L93 −7, L43 −11, L53 −9). (1) Narrow the lede, L39 and the description to "what causation consists in"; add the one-sentence motion/Siegel parity to L57 and "Siegel intact" → "Siegel's content thesis intact" (Siegel 2009 also defends that causation is perceived); "the knife cutting the bread" → "a seen launch"; mirror in voids.md L305. (2) Add Gandevia et al. 2006 (J Physiol 571(3):703–710, doi 10.1113/jphysiol.2005.103093) after the L63 palsy quote, quoting only its abstract; relocation clause at L65; "on the Humean report" at L95; "now measured in the laboratory" at L105. (3) Retarget L99's unsourced intuition to Elisabeth via a piped link to history-of-the-interaction-problem; add the Treatise 1.4.5.30 symmetry clause to L101 plus a reference. (4) L103 conditional; replace L107's first two sentences with the selection-only-channel L76 cost statement. Do NOT touch phenomenology-of-resistance-across-domains (its L116 divergence belongs to NEEDS-HUMAN 2026-08-17 K17). Quote no source not verified in the review. Update ai_modified; sync hugo.
 
 ### ✓ 2026-10-10: Butlin et al. "Identifying indicators of consciousness in AI systems" is cited as "(2025) … *Trends in Cognitive Sciences*" with no volume at three apex reference lists; Crossref gives 30(6), 488–501, issued June 2026 (outer-review 2026-10-10 ChatGPT, verified at Crossref)
 - **Type**: refine-draft
