@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-09 15:07:26+00:00
+ai_modified: 2026-10-10 19:37:07+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 20:28:50+00:00
-lastmod: 2026-10-09 15:07:26+00:00
+lastmod: 2026-10-10 19:37:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,9 +144,9 @@ This response dissolves Claim 2 for the entire class of discrete-event mechanism
 
 *Targets Claim 1, categorical version. Strength: Moderate—establishes possibility, not actuality.*
 
-Two established examples weaken the categorical claim that warm biological systems exclude quantum effects. See [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) for comprehensive evidence and [the convergence analysis](/topics/quantum-biology-and-neural-consciousness/) for the neural case.
+Two examples weaken the categorical claim that warm biological systems exclude quantum effects. See [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) for comprehensive evidence and [the convergence analysis](/topics/quantum-biology-and-neural-consciousness/) for the neural case.
 
-**Magnetoreception**: Birds navigate using quantum entanglement in cryptochrome proteins, with spin coherence persisting for *microseconds*—a million times longer than typical molecular decoherence in solution. This is the surviving established pillar. **Enzyme catalysis**: Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects, though how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
+**[Magnetoreception](/concepts/radical-pair-magnetoreception/)**, the strongest surviving case: on the leading but unsettled model, cryptochrome radical pairs need spin coherence lasting *tens of microseconds*—a million times longer than typical molecular decoherence in solution. **Enzyme catalysis**: Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects, though how much of that acceleration tunnelling itself supplies, and whether selection tuned it, remain contested.
 
 **Photosynthetic energy transfer** was for a decade the third case listed here, on the strength of Engel et al. (2007), and no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations Engel et al. read as electronic are now attributed to vibrational coherence. Short-timescale vibrational and vibronic coupling remains a live and separate question.
 

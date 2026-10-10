@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-10-08T08:35:00+00:00
+ai_modified: 2026-10-10T19:37:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -194,7 +194,7 @@ The simplest evolutionary story treats consciousness as neural computation—no 
 
 If consciousness interfaces with matter through quantum processes, the [[decoherence|decoherence objection]] matters. Tegmark's 2000 calculation estimated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules.
 
-Three responses preserve the quantum-evolutionary connection: (1) **Revised timescales**—Tegmark assumed dead tissue; Hagan et al. (2002) argued that correcting for microtubule interior conditions could yield coherence times several orders of magnitude longer, though this remains debated; (2) **The Zeno sidestep**—Stapp's mechanism doesn't require sustained coherence between observations; rapid mental "observations" maintain states through repeated measurement; (3) **Biological precedents**—the surviving established pillar is cryptochrome [[radical-pair-magnetoreception|radical-pair avian magnetoreception]], where electron spin coherence persists for microseconds. Photosynthesis, long cited beside it, no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence, a live but separate question. If evolution can optimise quantum effects for navigation, it might optimise them for consciousness—though on one pillar that is a precedent that the regime is not impossible rather than a licence for the neural case (see [[quantum-biology-and-neural-consciousness|the quantum-biology record]]).
+Three responses preserve the quantum-evolutionary connection: (1) **Revised timescales**—Tegmark assumed dead tissue; Hagan et al. (2002) argued that correcting for microtubule interior conditions could yield coherence times several orders of magnitude longer, though this remains debated; (2) **The Zeno sidestep**—Stapp's mechanism doesn't require sustained coherence between observations; rapid mental "observations" maintain states through repeated measurement; (3) **Biological precedents**—the strongest surviving pillar, though unsettled, is cryptochrome [[radical-pair-magnetoreception|radical-pair avian magnetoreception]], whose compass models need tens-of-microseconds spin coherence. Photosynthesis, long cited beside it, no longer serves: Duan et al. (2017) measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no indication of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence, a live but separate question. If evolution can optimise quantum effects for navigation, it might optimise them for consciousness—though one pillar is a precedent that the regime is not impossible, not a licence for the neural case (see [[quantum-biology-and-neural-consciousness|the quantum-biology record]]).
 
 The evolutionary implication: what evolved was not merely neural complexity but neural architecture that maintains or exploits quantum effects. The 2024 epothilone B study (rats with stabilised microtubules taking longer to lose consciousness under anaesthesia) provides experimental support.
 

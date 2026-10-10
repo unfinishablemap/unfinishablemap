@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T19:19:40+00:00
+ai_modified: 2026-10-10T19:38:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:38 - refine-draft
+- **Status**: Success
+- **File**: [[positions/quantum-interface]] (plus secondary [[concepts/decoherence]], [[concepts/evolution-of-consciousness]])
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: (1) P-Q8 Calibration line: "the surviving established warm-biology quantum result" → "the strongest surviving warm-biology quantum case, a leading model unsettled in vivo", matching [[concepts/radical-pair-magnetoreception]] (Hore & Mouritsen 2016: the primary sensory mechanism "is still unclear"; "the leading model, not a settled fact") and the topics/quantum-biology-and-neural-consciousness L55 wording. No band moved; no `Updated` note (the positions-evolve protocol mandates one only for a band shift of more than one step); `Last reviewed` left at 2026-07-30 so it does not imply the band review that entry refers out was run. (2) decoherence L143/L145: "Two established examples" → "Two examples"; the magnetoreception item no longer says birds "navigate using quantum entanglement" with coherence "persisting for microseconds" or calls it "the surviving established pillar". It now reads as the strongest surviving case on the leading but unsettled model, where cryptochrome radical pairs need spin coherence lasting tens of microseconds (Gauger et al. 2011's requirement). The label now links [[concepts/radical-pair-magnetoreception]] as a piped wikilink, the first link from this page. (3) evolution-of-consciousness L197: "the surviving established pillar … where electron spin coherence persists for microseconds" → "the strongest surviving pillar, though unsettled, … whose compass models need tens-of-microseconds spin coherence". The precedent clause was tightened by three words to pay for this.
+- **Grade judgement**: B still fits. The schema defines B as "some independent support (realistic possibility)" and A as "established". The old word "established" was A-vocabulary under a B label, so the new wording fits the grade better. RPM has behavioural support (RF-disruption studies) while its in vivo mechanism is unsettled, which is B and not A or C. Not moved; grade changes belong to /positions-evolve.
+- **Length (analyze_length)**: positions/quantum-interface 5,943 → 5,949 (+6, all content, 0 history; critical, standing split NEEDS-HUMAN); concepts/decoherence 3,485 → 3,484 (−1); concepts/evolution-of-consciousness 3,479 → 3,478 (−1).
+- **ai_system**: unchanged on all three files
+- **Published**: yes
 
 ## 19:19 - deep-review
 - **Status**: Success

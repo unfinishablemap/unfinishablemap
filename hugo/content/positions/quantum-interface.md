@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-27 18:53:00+00:00
+ai_modified: 2026-10-10 19:37:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
 author: Andy Southgate
 concepts:
@@ -17,7 +17,7 @@ description: 'The Map''s positions on the consciousness–quantum interface: mec
 draft: false
 human_modified: 2026-06-04
 last_curated: 2026-06-04
-lastmod: 2026-09-27 18:53:00+00:00
+lastmod: 2026-10-10 19:37:07+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -133,7 +133,7 @@ These positions cover what the Map currently holds about the mechanism by which 
 ## P-Q8: Warm-quantum-biology results are a precedent for the interface, not a licence for it
 
 - **Status**: live <span id="p-q8"></span>
-- **Calibration**: credence high (that these results are precedent, not licence) · external-evidence grade B (narrowed 2026-07-30 to one pillar: cryptochrome radical-pair magnetoreception is the surviving established warm-biology quantum result; photosynthesis no longer supports *long-lived electronic* coherence — see the shift-condition note below — and both bear only as precedent for the neural case) · structural centrality low · model maturity developed · empirical discriminability indirect · framework-internal only: no
+- **Calibration**: credence high (that these results are precedent, not licence) · external-evidence grade B (narrowed 2026-07-30 to one pillar: cryptochrome radical-pair magnetoreception is the strongest surviving warm-biology quantum case, a leading model unsettled in vivo; photosynthesis no longer supports *long-lived electronic* coherence — see the shift-condition note below — and both bear only as precedent for the neural case) · structural centrality low · model maturity developed · empirical discriminability indirect · framework-internal only: no
 - **Asserts**: Quantum effects in warm, wet biological systems establish that nature does sometimes use quantum mechanisms at scales and temperatures relevant to biology. The strongest surviving case is cryptochrome radical-pair avian magnetoreception. Photosynthetic energy transfer, long cited alongside it, no longer supports the claim in its *long-lived electronic coherence* form: Duan et al. (2017), *PNAS* 114(32):8493–8498, measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no hint of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence. Short-timescale vibrational/vibronic coupling is a live and different question. The Map treats what survives as a *precedent* (the regime is not categorically impossible) rather than a *licence* for the neural case (no coherence-time calculation supports the neural cases at present). Citations of warm-quantum-biology that read as support rather than precedent are calibration drift and are corrected when caught.
 - **Depends on**: empirical results (cryptochrome radical-pair magnetoreception; photosynthesis, now only for short-timescale vibrational coherence); calibration discipline
 - **Argued in**: [tenets](/tenets/) (calibrated treatment), [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/); an active task tracks an over-reading of this in [interactionist-dualism](/concepts/interactionist-dualism/)
