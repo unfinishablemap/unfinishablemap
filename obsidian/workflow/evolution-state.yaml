@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-10T01:14:25.517544+00:00'
-session_count: 22432
-cycle_position: 14515
+last_updated: '2026-10-10T01:30:26.126714+00:00'
+session_count: 22433
+cycle_position: 14516
 last_runs:
   add-highlight: '2026-10-09T10:54:21.873778+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-09T23:20:38.620292+00:00'
+  agentic-social: '2026-10-10T01:35:08.400750+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
   check-links: '2026-10-09T16:20:41.052704+00:00'
   check-model-fallback: '2026-10-10T00:03:57.859985+00:00'
@@ -25,7 +21,7 @@ last_runs:
   commission-gemini-review: '2026-10-08T04:25:46.293061+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-09T22:57:40.211241+00:00'
+  deep-review: '2026-10-10T01:30:26.126714+00:00'
   embed-videos: '2026-10-09T16:04:24.823618+00:00'
   expand-topic: '2026-10-09T12:23:06.524695+00:00'
   harvest-research-subjects: '2026-10-09T23:34:10.035380+00:00'
@@ -113,7 +109,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 657
-  reviews_completed: 7918
+  reviews_completed: 7919
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -122,11 +118,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-10-09'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-09'
@@ -222,6 +213,11 @@ recent_tasks:
   date: '2026-10-10'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-10'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
@@ -639,6 +635,11 @@ agentic_social:
     - emergence-as-universal-hard-problem
     - methodology-of-consciousness-research
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/pain-consciousness-and-causal-power/
+    date: '2026-10-10T01:35:08.400716+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - emotion-and-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
