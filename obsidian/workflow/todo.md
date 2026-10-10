@@ -2045,6 +2045,50 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: process-philosophy 2,279 (concepts hard 3,500, ample); process-and-consciousness 3,937 (apex soft 4,000, hard 5,000) — keep the apex edits length-neutral.
 - **Notes**: VERIFIED RAW TEXT (archive.org `processrealityes00whit_1` djvu.txt, grepped 2026-10-10): (a) "in every act of becoming there is the becoming of something with temporal extension; but that the act itself is not extensive, in the sense that it is divisible into earlier and later acts of becoming"; (b) "This genetic passage from phase to phase is not in physical time"; (c) "There is a becoming of continuity, but no continuity of becoming"; (d) "'Creativity,' 'many,' 'one' are the ultimate notions … These three notions complete the Category of the Ultimate"; (e) "In the philosophy of organism this ultimate is termed 'creativity'"; (f) "'Creativity' is the principle of novelty." LOCI: (1) `concepts/process-philosophy` L72 "Whitehead's actual occasions are discrete (though internally temporal)" → the form now in `topics/bergson-and-duration` L113: "discrete: each spans a stretch of time, but its becoming is not divisible into earlier and later acts of becoming". (2) `concepts/process-philosophy` L58 "Whitehead names this creative advance his 'Category of the Ultimate'" → creativity is one of the three notions of the Category of the Ultimate (with 'many' and 'one'); the creative advance is creativity applied to each novel situation. (3) `apex/process-and-consciousness` L69 "creativity is 'the ultimate,' his Category of the Ultimate" → "creativity is 'the ultimate' and 'the principle of novelty'" (the bergson-and-duration form). (4) `apex/process-and-consciousness` L67 "every actual occasion's coming-to-be a temporally extended act of synthesis" contradicts (a)/(b): the occasion (the creature) has temporal extension, its act of becoming is not extensive. Rephrase so the *occasion* is temporally extended and the synthesis is not spread through earlier-and-later physical time; check the surrounding "temporal thickness is what concrescence looks like from the inside" sentence still reads as the Map's analogy, not Whitehead's claim. Grep both files (and `topics/the-steelman-for-process-monism`, which states the Category correctly at L51 — leave it) for further "internally temporal" / "Category of the Ultimate" uses before closing. Do NOT touch `topics/bergson-and-duration` (done). Update ai_modified on each file edited; sync hugo.
 
+### P3: `voids/handedness-void` L82 — answer the page's self-flagged open question with Levinson & Brown 1994 and Danziger & Pederson 1998 (+129)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/handedness-void.md
+- **Section**: voids
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-10 09:48Z (unauditable-verdict wing; every old string script-verified to occur exactly once)
+- **Generated**: 2026-10-10
+- **Review file**: `reviews/optimistic-2026-10-10-unauditable-verdict-wing.md`
+- **Headroom**: 2,796 against voids hard 3,000 (driver, 09:51Z). +129 finishes at ~2,927.
+- **Notes**: Priority List item 1. The optional +2-word rider at L100 matters: it reuses the parity-violation wording for Kant's feeling, which currently reads as if Kant sensed parity violation. Install it if it stays under the limit. Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
+
+### P3: "Unit asking" (Hsee et al. 2013; Karlsson et al. 2020) joins `voids/numbing-void` L86 to `voids/preference-void` — TWO FILES (+154)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/numbing-void.md
+- **Section**: voids
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-10 09:48Z (unauditable-verdict wing; every old string script-verified to occur exactly once)
+- **Generated**: 2026-10-10
+- **Review file**: `reviews/optimistic-2026-10-10-unauditable-verdict-wing.md`
+- **Headroom**: numbing-void 2,681 and preference-void 2,842, both against voids hard 3,000 (driver, 09:51Z).
+- **Notes**: Priority List item 2 (a) and (b). TWO FILES; do both. (a) numbing-void L86, Approaches to the Edge, **Indirect**: +85 body and +55 references. (b) preference-void Further Reading L122: +14 for the link back. preference-void was refined on 2026-10-09 19:36Z from the pessimistic review. Keep its new lede and its open L109 human question untouched. Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
+
+### P3: `voids/three-kinds-of-void` — name the exposure shape (a verdict reads the same whether right or wrong; only a two-run comparison shows the difference; knowing does not change the experience) in a new paragraph after the operation-void family paragraph (+217)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/three-kinds-of-void.md
+- **Section**: voids
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-10 09:48Z (unauditable-verdict wing; every old string script-verified to occur exactly once)
+- **Generated**: 2026-10-10
+- **Review file**: `reviews/optimistic-2026-10-10-unauditable-verdict-wing.md`
+- **Headroom**: 2,606 against voids hard 3,000 (driver, 09:51Z). +217 finishes at ~2,823.
+- **Notes**: Priority List item 3. The first part (a verdict reads the same whether right or wrong) restates the "presentation is not certification" rule that a queued P3 will install on `project/evidential-status-discipline`. Cross-refer to it rather than duplicating the wording. The other two parts are new. Keep P-V2 intact: a tenet cannot upgrade a void's evidence. Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
+
+### P3: Modality-void orphan repair + reciprocal links — SEVEN FILES (+104 total): perceptual-reality-monitoring-void L42, fusion-void, palette-extension-void, chemosensory-consciousness-and-the-interface L78, phenomenal-contrast-method L96, meta-epistemology-of-limits L90, anti-correlated-metacognitive-signal L65
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/perceptual-reality-monitoring-void.md
+- **Section**: voids
+- **Status**: pending
+- **Source**: optimistic-review 2026-10-10 09:48Z (unauditable-verdict wing; every old string script-verified to occur exactly once)
+- **Generated**: 2026-10-10
+- **Review file**: `reviews/optimistic-2026-10-10-unauditable-verdict-wing.md`
+- **Headroom**: per item in the review: (a) +6, (b) +17, (c) +19, (d) +15, (e) +40, (f) 0 (meta-epistemology has only 42 of headroom), (g) +7.
+- **Notes**: Priority List item 4 (a)–(g). SEVEN FILES; do ALL of them and report each. The voids index is currently the only page linking to `voids/modality-void`. (e) also adds a documented mechanism to the Sensory Difference Objection in `concepts/phenomenal-contrast-method`. Optional 0-word rider: `voids/assent-void` L107 "The literature's reply" → "The dominant reply". That page is under a NEEDS-HUMAN condense block, so make ONLY this 0-word change there. Make NO edit to `voids/offloading-void` (3 words of headroom). Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
+
 ## Completed Tasks
 
 

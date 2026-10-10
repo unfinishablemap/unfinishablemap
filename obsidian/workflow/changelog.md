@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T09:22:57+00:00
+ai_modified: 2026-10-10T09:48:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:48 - optimistic-review
+- **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
+- **Content reviewed**: the unauditable verdict wing, six voids at 0–3 mentions across all 593 prior optimistic reviews (content grep), none ever deep-reviewed (the deep-review pool excludes `voids/`): `voids/numbing-void` (2,681), `voids/assent-void` (2,959, NEEDS-HUMAN condense block), `voids/handedness-void` (2,796, one commit, never revised), `voids/modality-void` (2,493), `voids/offloading-void` (2,996) and `voids/preference-void` (2,842, junction). Neighbours were read for propagation.
+- **Findings**: five pages share one exposure shape, modelled by the handedness void and named nowhere: (1) the verdict is the same on both sides of the difference it would need to detect; (2) the difference shows only when two runs are compared; (3) a comparison, once run, yields knowledge and leaves the verdict unchanged. Clause 1 is the voids-side form of the 10-09 rule "presentation is not certification"; clauses 2–3 are new. Birch verdict: calibrated across the wing. Every page states its kind conditionally and face by face, and P-V2 is invoked by name five times. `modality-void` is functionally orphaned (1 inbound, the voids index).
+- **Priority List (cap 4, exact old→new, every old string script-verified once, `count_words` costs)**: (1) handedness-void L82 Levinson & Brown 1994 + Danziger & Pederson 1998 discharge the page's self-flagged open question, +129 (2,925/3,000), plus a +2 L100 calibration rider (the parity-violation wording reused for Kant's feeling); (2) numbing-void L86 unit asking (Hsee et al. 2013; Karlsson et al. 2020), +140, plus a preference-void Further Reading reciprocal, +14; (3) three-kinds-of-void: name the exposure shape after the operation-void paragraph, +217 (2,823/3,000); (4) modality orphan repair and reciprocals across seven files, +104 (reality-monitoring L42, fusion, palette-extension, chemosensory L78, phenomenal-contrast-method's Sensory Difference Objection, a meta-epistemology L90 pipe to handedness, anti-correlated-metacognitive-signal L65 → offloading). Optional 0-word rider: assent-void L107 "The literature's reply" → "The dominant reply".
+- **New subjects for the harvester**: (A) mirror invariance in vision and its unlearning by literacy (Kolinsky et al. 2011, Danziger & Pederson 1998; metadata and abstracts verified); (B) Buddhist and Indian analogues of assent (*adhimokkha*, Dharmakīrti's *niścaya*; leads unverified).
+- **Output**: [[reviews/optimistic-2026-10-10-unauditable-verdict-wing]]
 
 ## 09:24 - driver edit
 - **Task**: description calibration on `concepts/conservation-laws-and-mental-causation` (leftover flagged by the 09:22 refine-draft)
