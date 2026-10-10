@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-08T14:12:51+00:00
+ai_modified: 2026-10-10T02:34:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,7 +139,7 @@ Materialists are not defenseless. [[type-a-type-b-and-type-c-physicalism|Common 
 
 ### "Future Science"
 
-We don't understand consciousness now, but science advances. Consciousness will yield to physical explanation as other mysteries have.
+The [[type-a-type-b-and-type-c-physicalism|Type-C]] reply: we don't understand consciousness now, but science advances. Consciousness will yield to physical explanation as other mysteries have.
 
 Problem: past scientific progress explained phenomena by showing *how* they followed from underlying mechanisms. With consciousness, we can't even see what form such explanation would take. It's not that we're missing facts; we can't imagine what facts would close the gap. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] argues that this pattern — persistent anomalies, proliferating theories, loosening standards — marks physicalism as a paradigm in crisis rather than a programme approaching success.
 
@@ -191,7 +191,7 @@ The Map's reply is not that this account fails on its own terms, but that it sec
 
 The Map's rejection of materialism is not unfalsifiable. Evidence for materialism could include: (1) a successful reduction that genuinely explained *why* neural configurations produce specific qualia—predicting novel experiences from physical descriptions; (2) verified consciousness uploading showing substrate-independence; (3) solving the [[combination-problem|combination problem]] with the same explanatory transparency as chemistry; (4) neuroscientific elimination of qualia as distinct from information-processing; or (5) identifying the specific cognitive error behind our conviction of phenomenal experience.
 
-None currently obtains, and each faces significant challenges. Materialism remains the academic consensus, but the Map holds this consensus is maintained by treating the hard problem as merely difficult rather than unsolvable in materialist terms.
+None currently obtains, and each faces significant challenges. Materialism remains the academic consensus, and most of that consensus is [[type-a-type-b-and-type-c-physicalism|Type-B]]: it grants that the gap will not close and holds the identity anyway. The Map's disagreement with it is over the cost of an identity nothing explains and the standing of simplicity under [[tenets#^occams-limits|incomplete knowledge]], not over whether the hard problem is merely difficult.
 
 ## Further Reading
 

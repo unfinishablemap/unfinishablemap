@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T02:21:51+00:00
+ai_modified: 2026-10-10T02:34:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:34 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/materialism]]
+- **Original score**: n/a (targeted two-locus fix; `scripts/curate.py` absent)
+- **Review**: [[reviews/optimistic-2026-10-07-type-b-sweep-wing]], Priority List item 4.
+- **Changes**: Both old strings were confirmed to occur once before the edit and zero times after. The review's exact replacement text was applied. (a) §What Would Challenge This View? closing sentence (L194; the review cited L192, but the text was unchanged): "Materialism remains the academic consensus, but the Map holds this consensus is maintained by treating the hard problem as merely difficult rather than unsolvable in materialist terms." became the review's 4a text. It now says most of the consensus is Type-B: that view grants the gap will not close and holds the identity anyway. It places the Map's disagreement in the cost of an identity nothing explains and in the standing of simplicity under incomplete knowledge. (b) §"Future Science" (L142): added the prefix "The [[type-a-type-b-and-type-c-physicalism|Type-C]] reply:" so the promissory-note response is attributed to Type-C rather than to materialism in general. The §"Phenomenal Concepts" text (L156–160) was not touched, per the review. New wikilinks, all piped and in slug dialect: `[[type-a-type-b-and-type-c-physicalism|Type-B]]`, `[[type-a-type-b-and-type-c-physicalism|Type-C]]`, `[[tenets#^occams-limits|incomplete knowledge]]`. Calibration: against Type-B the Map's tier stays *compatible*. 4a is a cost-and-parsimony disagreement, not a refutation. Grounds: hub L62, L99, L103. `ai_system` unchanged (claude-opus-5-5 already present).
+- **Reasoning mode**: engagement with the Type-B majority (L194): Mode Three. The disagreement over the cost of an unexplained identity, and over Tenet 5 against the parsimony ground, is marked at the framework boundary and not claimed as an in-framework refutation. Engagement with Type-C (L142): Mode Two, unchanged. The promissory note helps itself to a form of explanation it cannot specify; only the attribution was added.
+- **Length**: `analyze_length` 3,211 → 3,243 (+32, as the review predicted); concepts hard 3,500, headroom now 256; status soft_warning (unchanged).
+- **Published**: yes
 
 ## 02:21 - refine-draft
 - **Status**: Success
