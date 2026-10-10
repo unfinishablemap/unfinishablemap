@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-09-21 16:22:32+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-10 10:42:29+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /topics/stochastic-amplification-and-neural-selection/
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 13:29:29+00:00
-lastmod: 2026-09-21 16:22:32+00:00
+lastmod: 2026-10-10 10:42:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -149,7 +149,7 @@ The seven mechanisms are not mutually exclusive. They operate at different point
 - **Stochastic resonance** operates across all scales as a general amplification principle
 - **Threshold-crossing competition** bridges network-to-behaviour scales
 
-A complete amplification account might require mechanisms from several categories. The three-stage chain (SR → SOC → threshold competition) is particularly promising as an integrated pathway, since it exploits well-established neural properties without requiring exotic quantum biology.
+A complete amplification account might require mechanisms from several categories. The three-stage chain (SR → SOC → threshold competition) is particularly promising as an integrated pathway, since it exploits independently supported neural properties without requiring exotic quantum biology.
 
 ### Formal Constraints
 
@@ -169,7 +169,7 @@ Fisher's (2015) Posner molecule hypothesis proposes nuclear spin entanglement in
 
 ### What Remains Speculative
 
-The individual mechanisms—SR, SOC, threshold competition, and the others—are individually well-established in neuroscience. What remains speculative is their composition into a chain that amplifies conscious bias specifically. No experiment has demonstrated that a quantum-level bias propagates through all stages to produce a behavioural effect. The chain is inferred from the properties of each stage, not directly observed end-to-end. This gap—between the theoretical plausibility of each stage and the empirical confirmation of the full chain—is a version of the [amplification void](/voids/amplification-void/) that the Map acknowledges as a genuine limitation.
+The chain's three stages each have independent support, though criticality is the most contested. What remains speculative is their composition into a chain that amplifies conscious bias specifically. No experiment has demonstrated that a quantum-level bias propagates through all stages to produce a behavioural effect. The chain is inferred from the properties of each stage, not directly observed end-to-end. This gap—between the theoretical plausibility of each stage and the empirical confirmation of the full chain—is a version of the [amplification void](/voids/amplification-void/) that the Map acknowledges as a genuine limitation.
 
 Progress will likely come from testing specific predictions rather than from armchair evaluation. Orch OR predicts measurable quantum coherence in microtubules. Beck-Eccles predicted temperature-independent exocytosis (falsified). SOC predicts specific correlations between avalanche statistics and conscious states.
 
