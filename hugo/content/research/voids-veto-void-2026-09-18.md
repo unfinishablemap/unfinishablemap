@@ -1,19 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-18
-ai_modified: 2026-09-18 18:59:39+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-10-10 14:59:41+00:00
+ai_system: claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[concepts/libet-experiments]]'
 - '[[concepts/agent-causation]]'
 - '[[concepts/phenomenology-of-choice-and-volition]]'
 created: 2026-09-18
-date: &id001 2026-09-18
+date: &id001 2026-10-10
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-18 18:59:39+00:00
+lastmod: 2026-10-10 14:59:41+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -44,6 +44,8 @@ topics:
 - **[metadata]** — Crossref record confirmed (title, authors, journal, volume, pages, DOI); content from general knowledge of the work, not re-read this session: Logan & Cowan 1984, Logan et al. 2014, Libet 1985, Kühn/Haggard/Brass 2009, Aron/Robbins/Poldrack 2014, Wegner 2002.
 
 ⚠️ **Schultze-Kraft et al. 2016 is abstract-only.** The Europe PMC full-text fetch for PMC4743787 returned 150 bytes (no open-access body). Every Schultze-Kraft claim below is sourced to the published abstract and marked. Do not upgrade it, and do not attribute body-level detail to it, without obtaining the PNAS PDF. See [Gaps](#gaps-in-research) — the corpus already carries two Schultze-Kraft claims that the abstract does not support.
+
+**Updated 2026-10-10.** The Schultze-Kraft main-text body has since been read (summariser-graded, not grep-verified), and the gaps listed below on the transfer inference, first-person phenomenology and the clinical literature have been worked. Results, with their own grades, are in the [Addendum](#addendum-2026-10-10-gap-closure-for-the-slot-decision). Its net effect: the veto stays first in the [slot triage](/research/voids-slot-triage-five-banked-candidates-2026-10-06/), face 3 is narrowed, and the weak joint is repaired by bypass rather than by bridge.
 
 ## Executive Summary
 
@@ -198,6 +200,93 @@ Checked this session against the 55 research-note slugs with no same-slug articl
 - **No search was run on the clinical literature** (Tourette's premonitory urge and tic suppression; OCD; utilisation behaviour), which is the obvious place to look for cases where the veto's success or failure is reportable. A follow-up note or the article's research phase should cover it.
 - **Possibly unanswerable**: whether any mind, biological or artificial, could certify a personal-level veto as opposed to logging a sub-personal cancellation.
 
+## Addendum 2026-10-10: gap closure for the slot decision
+
+**Why this exists.** The 2026-10-10 `research-voids` trigger found voids at 113/115 (`count_section_files`) with the operator's voids-slot decision still open. The 10-08 and 10-09 runs skipped because, the pipeline being LIFO, a sixth banked note would displace the triaged ranking. This run adds no candidate. It works the items that [the slot triage](/research/voids-slot-triage-five-banked-candidates-2026-10-06/) lists under "What would change the ranking" for this, its first-ranked note, together with this note's own [Gaps](#gaps-in-research). Nothing is added to `task_chains.pending_articles`.
+
+**Grades for this addendum** (in addition to those above):
+
+- **[raw]**: Europe PMC full-text XML, NFKC-normalised and grep-verified this session. Filevich, Kühn & Haggard 2013 (PMC3572111); Schel et al. 2014 (PMC3913912).
+- **[abstract]**: Europe PMC abstract read verbatim. Ganos et al. 2012; Banaschewski, Woerner & Rothenberger 2003; Matsuhashi & Hallett 2008; Parés-Pujolràs et al. 2019; Schultze-Kraft et al. 2020.
+- **[webfetch]**: wording extracted by WebFetch's summariser from the PMC HTML. Raw text was unobtainable: curl hit a CAPTCHA or Cloudflare challenge, and Europe PMC holds no open-access body. **×2** means a second, differently worded query reproduced the wording without being supplied it. This grade covers the Schultze-Kraft 2016 body, the Schultze-Kraft 2020 body and the Matsuhashi & Hallett 2008 body. Obtain the PDF before an article quotes any of it verbatim.
+
+### 1. The Schultze-Kraft 2016 body reports no felt point of no return
+
+The triage's decision-changer was: "If the Schultze-Kraft body, once obtained, reports subjects sensing the point of no return, the veto void's third face dissolves." **The main text reports nothing of the kind.**
+
+- The only first-person data come from a post-stage questionnaire about strategy. Subjects reported "'not thinking about the movements' (5 of 10), 'pressing earlier' (4 of 10), or 'trying to be more spontaneous' (4 of 10)", and "several subjects reported that thinking about the movement caused the interruption (i.e., the light turning to red)" [webfetch]. The questionnaire details live in the SI Appendix, which could not be obtained (PMC serves a download interstitial). The finding is therefore that *the main text* reports no felt deadline; whether the SI does remains open.
+- The stop was **externally cued**: "The stop signal was indicated by the circle turning red" [webfetch]; "In that case, they were told to withhold any movements" [webfetch]. The authors frame the task as "a race between an internal go signal and an external stop signal" [webfetch].
+- The authors **disclaim the dualist sense of "veto"**: "Note that the original interpretation of the veto was dualistic, whereas in our case veto is meant akin to 'cancellation.'" [webfetch ×2]
+- **Closes this note's Gaps flag on "ballistic."** The word occurs in the body only as the hypothesis the study tests against: "This has been coined a ballistic stage of processing", citing De Jong, Coles, Logan & Gratton 1990 and Logan & Cowan 1984. It names the domino picture that the paper contrasts with "taking out a domino at some later stage in the chain" [webfetch]. The corpus's former quoted "ballistic" therefore credited the paper with the position it argues against. The 2026-10-06 fixes (`d9cffec784`, `f90f7139bc`) were correct, and the current "not strictly ballistic" paraphrase at [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) L99 is consistent with the body.
+- The boundary is itself a variable quantity: "There was a gradual transition between stop signal times where movements could be aborted and those where they could not be aborted … This presumably reflects a variability in trial-by-trial stop signal reaction times" [webfetch]. Face 3's deadline thus inherits face 2's covert-latency problem.
+- **Reference-list hazard**: the PMC rendering of the paper's ref. 24 pairs Logan & Cowan 1984 with DOI 10.1037/a0035230, which belongs to Logan et al. 2014. Use 10.1037/0033-295X.91.3.295, as citation 6 below does.
+
+**Verdict for face 3**: it stands, but as *unmeasured* rather than *measured absent*. Neither key paradigm collected first-person data per veto (§2 gives Matsuhashi & Hallett's stated reason), and §3 narrows the face.
+
+### 2. The transfer gap is bypassed rather than bridged
+
+The weak joint was carrying the stop-signal paradigm's per-trial limits over to self-initiated vetoing. Two findings change its status.
+
+**(a) Mechanism overlap: a partial bridge.** Schel, Kühn, Brass, Haggard, Ridderinkhof & Crone (2014) tested both forms of inhibition in the same subjects: "intentional inhibition and stimulus-driven inhibition engage a common inhibition network, but intentional inhibition is also characterized by additional context-dependent neural activation in medial prefrontal cortex" [raw]. That licenses "the same machinery plus more". It does not transfer the stop-signal paradigm's *estimation* limits.
+
+**(b) The self-initiated paradigms have their own version of the limit: the bypass.** Each intentional-inhibition paradigm read this session observes the veto only after converting it into something else.
+
+- **Into a delay.** Filevich, Kühn & Haggard (2013): "we operationalized inhibition as a transient process, characterised by delayed responding, rather than as a complete suppression of all behavioural output" [raw]. Their diagnosis of the field: studies "have had difficulty addressing the alternative concept of free won't, largely because of the absence of behavioural markers of inhibition" [raw].
+- **Into a statistical dip.** Matsuhashi & Hallett (2008) told subjects to cancel when a tone found them already thinking about moving, and no individual veto was ever recorded. "tones that happened in a certain period before the movement onset would cause cancellation of the following action and would not contribute to the constructed tone distribution, making a dip in this otherwise uniform distribution" [webfetch ×2]. "They did not have to report each time if they vetoed the movement, since we did not want to prolong the experiment or complicate the self-paced movements by periodic oral reporting." [webfetch ×2; a first pass gave the same clause inside a fragment]
+- **Into a labelled omission.** Schel et al.'s marble task, adapted from Kühn et al. 2009, codes a withheld press on a white-marble trial with the regressor "white nogo (intentional inhibibition)" [raw, sic]. The design assumes that such an omission cancels a live impulse rather than reflecting an impulse that never formed. This is the note's reading of the method; the authors do not claim it.
+- **Into an external cue.** Schultze-Kraft et al. 2016 (§1).
+
+So the per-trial null-product limit need not be imported from the stop-signal literature, because it recurs natively in each intentional paradigm. It is recorded by authors with no stake in it, and two of the teams explicitly reject the dualist veto (§1, §5). That gives the access limb a stronger despite-commitments profile than this note had, and it raises cross-observer convergence from moderate to moderate–strong: four paradigms across several labs reach the same workaround. **Calibration**: a shared workaround shows that the limit binds current methods. It does not show the limit is permanent, and single-trial decoding remains the live route to closing it ([What would deflate it](#what-would-deflate-it), last bullet).
+
+### 3. The first-person limb: cancellation degrades the record of what was cancelled
+
+This is the most significant new item for face 1. Schultze-Kraft, Parés-Pujolràs, Matić, Haggard & Haynes (2020) used a BCI to issue Go or No-Go cues, triggered either by a detected RP or in its absence, and then asked whether participants had felt about to move when the cue appeared. Participants were more likely to report an intention "(ii) when they had just made an action than when they had not" [abstract]. In figures, awareness reports were 35.2% after Go against 16.0% after No-Go (χ²=20.74, p<0.001). That effect is larger than the effect of RP presence (32.7% against 24.0%, χ²=5.65, p=0.017), with n=16 after exclusions [webfetch ×2]. The authors conclude that intention reports are "at least partially, retrospectively reconstructed" [webfetch].
+
+**Bearing.** When preparation is cancelled, the subject's own evidence that there was anything to cancel roughly halves. The null product reaches back into the report of its cause. That turns this note's face-1 argument (nothing-happening is ambiguous between an impulse cancelled, one that decayed and one never live) from a logical point into a measured one at the first-person level. **Carry these calibrations:** the stops are cued No-Go trials, not self-initiated vetoes; it is one study with n=16; the figures are [webfetch]-graded; and the effect is a reduction, not an elimination.
+
+**Counterweight, which narrows face 3.** *Preparation* is partly accessible online. Matsuhashi & Hallett put real-time intention at 1.42 s before movement, "after the onset of the bereitschaftspotential" [abstract]. Parés-Pujolràs, Kim, Im & Haggard (2019) found "an RP-like activity was more strongly present before the cue for probes eliciting awareness reports than otherwise" and conclude "that awareness of intention is accessible at relatively early stages of motor preparation" [abstract]. Face 3 must therefore be stated narrowly: no felt signal of the *deadline* (the point of no return) has been reported. A phenomenally blank window is the wrong statement. The impulse being cancelled is partly felt; whether it can still be cancelled has not been reported as felt.
+
+### 4. The clinical limb: the felt urge and the capacity to withhold come apart
+
+This works the note's unsearched clinical gap. Tic suppression in Tourette syndrome is a setting where withholding is both practised and reportable.
+
+- Ganos, Kahl, Schunke, Kühn, Haggard, Gerloff, Roessner, Thomalla & Münchau (2012), 15 adults: "All participants reported urges preceding their tics and were able to voluntarily suppress their tics. However, there was no correlation between urge scores and the Rush score based inhibition potency or the pure motor tic inhibition potency." Their conclusion: "Urges and tic inhibition are not directly related." [abstract]
+- Banaschewski, Woerner & Rothenberger (2003), questionnaire study of 254 outpatients aged 8–19: "37% reported PSP, while 64% were able to suppress their tics", and "PSP is experienced rarely in younger children with Tourette syndrome and is not a necessary prerequisite for SPT" [abstract]. PSP means premonitory sensory phenomena; SPT means suppressibility of tics.
+- **Method note** (the note's reading): Ganos et al. score suppressibility from tic counts over instructed suppression periods. That is a rate, not a tally of individual vetoes, so the clinical measure meets the same null-product limit.
+
+**Bearing.** The felt signal most naturally taken to prompt and gauge a withholding, the urge, does not predict withholding capacity, and capacity can be present without the signal. This is a clinical analogue of face 3 (no felt gauge of the window) and a mild deflation of "I stopped myself" as a readout. **Calibrations:** the urge measure is trait-level (the Premonitory Urge for Tics Scale), not momentary; Ganos has a small n; Banaschewski is cross-sectional self-report; and tics are not voluntary actions, so carrying this over to the Libet veto is itself an analogy.
+
+### 5. Deflation recorded: "no free won't"
+
+Filevich, Kühn & Haggard (2013) [raw] found that prestimulus ERP amplitude at Cz differed between free choices to act rapidly and free choices to delay, in two 50 ms windows before the cue. Their abstract labels those windows "relative to action onset", which conflicts with its own preceding sentence placing them "prior to the onset of the signal". The body settles it: "three consecutive 50 ms time windows prior to the instruction cue were defined". The statistics are thin. The per-window interaction tests (p = 0.041 and p = 0.016) followed a marginal three-way interaction (p = 0.051), and the authors state that "corrections for multiple comparisons were not used". The direction: "Larger prestimulus ERP amplitudes were associated with trials in which participants decided to act rapidly as compared to trials in which they decided to delay their responses." The authors call the dualistic "conscious veto" "scientifically unwarranted" and conclude "that free won't may be no more free than free will" [raw].
+
+**Bearing on [P-A3](/positions/agency-and-will/#p-a3)'s falsifier** ("vetoes were reliably shown to be preceded by readiness potentials"). This is the nearest published test, and it falls short on three counts. It studies delay rather than cancellation, by its own operational definition. Its precursor sits in a pre-cue window during what the paper identifies as "the classical contingent negative variation (CNV)", not a veto-locked RP. And it is a single study of 13 participants, with uncorrected post-hoc tests. [libet-experiments](/concepts/libet-experiments/) L65 and L187 already carry it with the right qualifier ("rapid-versus-delayed responding rather than full cancellation"), so nothing needs changing there. For the veto void it is the sharpest deflation of the *significance* limb, since a decision to withhold may have unconscious precursors. It also confirms the *access* limb, through the authors' own complaint about absent behavioural markers.
+
+### 6. Corpus movement since the triage
+
+- **Face 1 has partly moved into topics.** `f90f7139bc` (2026-10-06 14:36Z, six hours after the triage) added to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) L101: "A successful veto produces nothing—no single trial can show that a cancelled impulse was ever live". Face 1 now has a home, though only as a two-sentence mechanism remark in a topics article.
+- **Faces 2 and 3 remain unhoused.** Across topics, concepts, voids, apex and positions, `SSRT` and `trigger failure` both return 0; Verbruggen appears only in the [voids](/voids/) register line. Of the sources read for this addendum, only Filevich et al. 2013 is cited anywhere live (in [libet-experiments](/concepts/libet-experiments/) and [structure-of-attention](/topics/structure-of-attention/)). Matsuhashi, Parés-Pujolràs 2019, Schel, Ganos, Banaschewski and Schultze-Kraft 2020 return 0. Positive control: `Schultze-Kraft` returns 6 files.
+- **Framing side finding (unminted, for the driver).** [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) L189 says Schultze-Kraft found a point of no return "before which conscious intervention can veto prepared actions". [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) L101 says "consciousness can cancel movement onset until about 200 ms before execution". The study measured cancellation in response to an external red-light stop signal, and its authors disclaim the dualist sense of "veto" (§1). [libet-experiments](/concepts/libet-experiments/) L91 already carries the right qualifier ("at least for cued stops"). A one-clause qualifier in the two topics lines would bring them into line. This is a citation-framing calibration; no quotation is wrong.
+
+### 7. Effect on the triage ranking
+
+| Criterion | Triage grade (2026-10-06) | After this addendum | What moved it |
+|---|---|---|---|
+| Signature specificity | Strong, unique | Strong, unique, sharpened | Every intentional paradigm must convert the veto into something else to observe it (§2b) |
+| Structured persistence | Moderate–strong | Unchanged | — |
+| Cross-observer convergence | Moderate | Moderate–strong | Four paradigms, authors recording despite their commitments (§2b), and a clinical limb (§4) |
+| Framework independence | Split | Split; the finding side is stronger | Authors who reject dualism record the access limit (§1, §5). The significance side is unchanged: still tenet-generated |
+
+**Net: the veto stays first.** The triage's named decision-changer resolved in the direction that keeps face 3, though more narrowly stated. The known weak joint is substantially repaired by bypass. One face has partly moved into a topics article. The fold into [causal-interface](/voids/causal-interface/) looks less attractive than it did, because a fold would now have to carry four paradigms, a clinical limb and a first-person report effect. Nothing here bears on the dormancy note's rank.
+
+### 8. Remaining gaps
+
+- The Schultze-Kraft 2016 SI Appendix, which holds the questionnaire wording, was not obtained.
+- No study read here probes felt access to the point of no return itself, so the gap is an absence of measurement.
+- No per-trial study of a fully uncued self-initiated veto (Libet's original case) turned up. Matsuhashi's tone is itself a prompt.
+- The [webfetch] figures and quotations (Schultze-Kraft 2016 and 2020 bodies, Matsuhashi & Hallett body) need PDF verification before an article quotes them verbatim.
+- Not searched: OCD and resisting compulsions, utilisation behaviour, and anarchic hand as failure-to-veto cases. Also unread: Kühn & Brass (2009) on the retrospective construction of judgements of free choice, which may bear on §3. These are leads only; the attributions are unverified.
+
 ## Citations
 
 1. Aron, A.R., Robbins, T.W., & Poldrack, R.A. (2014). "Inhibition and the right inferior frontal cortex: one decade on." *Trends in Cognitive Sciences*, 18(4), 177–185. DOI 10.1016/j.tics.2013.12.003 [metadata]
@@ -212,3 +301,14 @@ Checked this session against the 55 research-note slugs with no same-slug articl
 10. Verbruggen, F., Aron, A.R., Band, G.P.H., et al. (2019). "A consensus guide to capturing the ability to inhibit actions and impulsive behaviors in the stop-signal task." *eLife*, 8, e46323. DOI 10.7554/eLife.46323 [raw]
 11. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press. [metadata]
 12. Wessel, J.R., & Aron, A.R. (2017). "On the globality of motor suppression: unexpected events and their influence on behavior and cognition." *Neuron*, 93(2), 259–280. DOI 10.1016/j.neuron.2016.12.013 [abstract]
+
+*Added 2026-10-10 (Addendum):*
+
+13. Banaschewski, T., Woerner, W., & Rothenberger, A. (2003). "Premonitory sensory phenomena and suppressibility of tics in Tourette syndrome: developmental aspects in children and adolescents." *Developmental Medicine and Child Neurology*, 45(10), 700–703. DOI 10.1017/S0012162203001294 [abstract]
+14. De Jong, R., Coles, M.G.H., Logan, G.D., & Gratton, G. (1990). "In search of the point of no return: The control of response processes." *Journal of Experimental Psychology: Human Perception and Performance*, 16(1), 164–182. DOI 10.1037/0096-1523.16.1.164 [cited via Schultze-Kraft et al. 2016's reference list; not read]
+15. Filevich, E., Kühn, S., & Haggard, P. (2013). "There is no free won't: Antecedent brain activity predicts decisions to inhibit." *PLoS ONE*, 8(2), e53053. DOI 10.1371/journal.pone.0053053 [raw]
+16. Ganos, C., Kahl, U., Schunke, O., Kühn, S., Haggard, P., Gerloff, C., Roessner, V., Thomalla, G., & Münchau, A. (2012). "Are premonitory urges a prerequisite of tic inhibition in Gilles de la Tourette syndrome?" *Journal of Neurology, Neurosurgery & Psychiatry*, 83(10), 975–978. DOI 10.1136/jnnp-2012-303033 [abstract]
+17. Matsuhashi, M., & Hallett, M. (2008). "The timing of the conscious intention to move." *European Journal of Neuroscience*, 28(11), 2344–2351. DOI 10.1111/j.1460-9568.2008.06525.x [abstract; body webfetch]
+18. Parés-Pujolràs, E., Kim, Y.-W., Im, C.-H., & Haggard, P. (2019). "Latent awareness: Early conscious access to motor preparation processes is linked to the readiness potential." *NeuroImage*, 202, 116140. DOI 10.1016/j.neuroimage.2019.116140 [abstract]
+19. Schel, M.A., Kühn, S., Brass, M., Haggard, P., Ridderinkhof, K.R., & Crone, E.A. (2014). "Neural correlates of intentional and stimulus-driven inhibition: a comparison." *Frontiers in Human Neuroscience*, 8, 27. DOI 10.3389/fnhum.2014.00027 [raw]
+20. Schultze-Kraft, M., Parés-Pujolràs, E., Matić, K., Haggard, P., & Haynes, J.-D. (2020). "Preparation and execution of voluntary action both contribute to awareness of intention." *Proceedings of the Royal Society B*, 287(1923), 20192928. DOI 10.1098/rspb.2019.2928 [abstract; figures webfetch ×2]

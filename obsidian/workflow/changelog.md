@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T14:07:05+00:00
+ai_modified: 2026-10-10T15:00:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:00 - research-voids
+- **Status**: Success (gap-closure run on the first-ranked banked note; no new void proposed, no new file)
+- **Topic**: The Veto Void: closing the decision-changers that [[research/voids-slot-triage-five-banked-candidates-2026-10-06]] names for it
+- **Category**: Mixed (unchanged: principally Unexplorable, with a framework-internal Occluded reading)
+- **Output**: [[research/voids-veto-void-2026-09-18]] §"Addendum 2026-10-10" (frontmatter and citations 13–20 updated in place; the bank stays at 215 notes)
+- **Measured first**: voids **113/115** by `count_section_files`. No human commit has touched voids/, research/, todo or state since the 10-09 16:34 skip, the operator's voids-slot P3 is still `needs-human`, and `pending_articles` still holds only grammar. Minting a sixth candidate would repeat the net-negative LIFO move the 10-08 and 10-09 entries declined, so this run worked the triage's own "What would change the ranking" items for veto instead.
+- **Key finding**: the veto stays first, and its weak joint is repaired by **bypass**. Every intentional-inhibition paradigm read has to turn the veto into something else before it can observe it: a delay (Filevich et al. 2013 [raw]: the field struggles "largely because of the absence of behavioural markers of inhibition"), a statistical dip with no per-trial record (Matsuhashi & Hallett 2008), a labelled omission (Schel et al. 2014 [raw]) or an external cue (Schultze-Kraft 2016). A new first-person limb: when no action follows, intention reports fall from 35.2% to 16.0% (Schultze-Kraft et al. 2020; n=16; figures summariser-graded ×2). So cancelling an impulse also erodes the subject's own evidence that the impulse existed.
+- **Triage decision-changer resolved**: the Schultze-Kraft 2016 main text reports **no** felt point of no return. Its questionnaire covered strategy only, and the SI was not obtainable. Face 3 stands as *unmeasured*, and Matsuhashi 2008 and Parés-Pujolràs 2019 narrow it: preparation is partly felt online, while no felt signal of the *deadline* has been reported. Clinical limb: urge intensity does not predict tic-suppression ability (Ganos et al. 2012), and children suppress tics without reporting urges (Banaschewski et al. 2003).
+- **Closed flag**: in the Schultze-Kraft body, "ballistic" names the hypothesis the paper argues *against* (De Jong et al. 1990; Logan & Cowan 1984), which confirms the 10-06 fixes. The paper's PMC ref. 24 attaches the 2014 DOI to Logan & Cowan 1984, so do not copy it.
+- **Side finding (unminted, for the driver)**: `topics/bandwidth-of-consciousness` L189 ("before which conscious intervention can veto prepared actions") and `topics/quantum-neural-timing-constraints` L101 ("consciousness can cancel movement onset…") leave out that Schultze-Kraft's stops were cued by an external red light, and the authors write "the original interpretation of the veto was dualistic, whereas in our case veto is meant akin to 'cancellation'". `concepts/libet-experiments` L91 already says "at least for cued stops". A one-clause framing calibration fixes it; no quotation is wrong.
+- **Corpus movement since the triage**: `f90f7139bc` (10-06 14:36Z) put face 1 ("no single trial can show that a cancelled impulse was ever live") into quantum-neural-timing-constraints L101. Faces 2 and 3 are still unhoused (`SSRT` 0, `trigger failure` 0). Of the new sources, only Filevich 2013 is cited live, correctly caveated at libet-experiments L187.
+- **Not done by design**: nothing added to `pending_articles`; no voids, topics or todo edits; no tasks minted; not committed. The dormancy note's decision-changer, an interactionist source for its fork, was not worked; the triage says it affects interpretation only, not rank.
 
 ## 14:07 - refine-draft
 - **Status**: Success
