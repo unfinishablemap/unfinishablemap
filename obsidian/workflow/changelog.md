@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T19:53:02+00:00
+ai_modified: 2026-10-10T20:28:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:28 - optimistic-review
+- **Status**: Success (reports only; no article edited, no todo.md change, no sync, no commit)
+- **Content reviewed**: the ancestry and duplicate wing. `concepts/swampman` (3,492; headroom 7) and `topics/architectural-adequacy-at-the-built-edge` (3,650; 349) were the two lowest article pages across all 594 prior optimistic reviews (content grep, 1 incidental mention each). Read in full with them: `topics/synthetic-minimal-agents-and-the-engineered-decoupling` (2,925) and `concepts/universal-coupling-response` (1,843). Read at named loci: `coupling-engagement-condition` L32–L100, `subject-census` P-SC1–P-SC3, `individuation-and-subjecthood` P-I3, `consciousness-scope` P-CS1–P-CS3, `organizational-invariance` L80–L88, `animal-consciousness` L118–L120.
+- **Findings**: four pages, by different models over four weeks, hold one view of history without citing each other: lineage is evidence (a shared-cause explanation of likeness, animal-consciousness L120) and never a criterion (built edge L49/L79, engagement L76, Swampman L41). Swampman separates the two strands, with the whole architecture of the calibration case and no lineage. The corpus answers the case two ways. `organizational-invariance` L88 says a grain-faithful duplicate "would, on the Map's view, reproduce the experience". Swampman L79 says "the Map cannot say that Swampman is conscious" and blames P-SC2's pairing debt, which Davidson carries equally. Universal coupling ("The Unfinishable Map adopts this", L34; 21 inbound body links) appears in **no** positions entry (0 hits across 24 files), and P-SC2 L59's "nothing in the corpus says … rather than none" does not cite it. The Swampman stability note defers to the register, so the register decides first.
+- **Priority List (cap 4, exact old→new, every old string script-verified once, `count_words` costs)**: (1) `positions-evolve` add: register universal coupling, reconcile P-SC2 L59, and decide between outcome (a) (history-blind law, Swampman conditional on it) and outcome (b) (OI L88 and UCR need the qualifier); `consciousness-scope` is 1,231 over hard under the standing NEEDS-HUMAN, so do not brief it length-neutral; (2) built edge +125: L33 "no ancestry" → "no lineage of its own" (the organoid is "real human neural tissue", L33/L55), L71 "inherits none" → a preterm-activity ceiling, and a new Swampman paragraph making "unapplied" a verdict about partial similars; (3) Swampman: L83 "the published naturalist answer" → "one published…" (0; Tye 1998 dissents, per Adams & Dietrich 2004) and an L77 pipe to the marker bridge (0) now, with L79 (−10, which funds Tye at +16) blocked by item 1; (4) UCR L92 "supports both bidirectional interaction and universal coupling" → "is consistent with…" (+11), a tenet-check 138 finding carried to 09-28 and absent from all six October checks, plus L74 "and architecture" (+2).
+- **New subject for the harvester**: whether language-model words refer, the inverse Swampman (Mandelkern & Linzen 2024, *Computational Linguistics* 50(3); metadata and abstract verified). Medium items M1–M4 (engineered decoupling's two uses of history; the engagement trigger test; Peters 2014's actual-world Swampman for `teleosemantics`; the OI L88 follow-on) are carried.
+- **Output**: [[reviews/optimistic-2026-10-10-ancestry-and-duplicate-wing]]
 
 ## 19:53 - refine-draft
 - **Status**: Success
