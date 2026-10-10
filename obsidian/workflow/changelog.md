@@ -5,6 +5,22 @@ ai_modified: 2026-10-10T16:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 16:50 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-darwinism-and-consciousness]]
+- **Original score**: n/a (targeted source-fidelity fix; `scripts/curate.py` absent)
+- **Changes**:
+  - L80: "**Agreement is structurally ensured.** ... all subsequent observers will agree on what happened" → "**Agreement is conditional.**" A mutual-information redundancy plateau does not by itself secure observer agreement; the stronger conditions of Strong Quantum Darwinism or spectrum broadcast structure (Korbicz 2021) are unshown for neural pointer states; agreement and the no-synchronisation point now sit under "Where those conditions hold". Aligned to apex/post-decoherence-selection-programme L85.
+  - L58: "Redundant encoding ensures different observers agree" → explains how observers *can* agree; the mutual-information criterion can count more correlations than observers can extract locally and without disturbing the system, so agreement needs SQD/SBS (Korbicz 2021). Checked against the arXiv v2 text (2007.04276): condition (1) "does not in general guarantee the possibility of non-disturbant, local information extraction. For that, additional conditions must be added to (1), leading to what is known as strong quantum Darwinism"; QMI "typically contains more correlations than can be extracted locally and without disturbance".
+  - L82: "ensured intersubjective agreement" → "where those stronger objectivity conditions hold—secured intersubjective agreement".
+  - L106 (Minimal Quantum Interaction): "environmental redundancy ensures automatic intersubjective agreement" → "if it meets the stronger objectivity conditions noted above, secures intersubjective agreement without further work".
+  - References: added 9. Korbicz (2021) *Quantum* 5, 571 (Crossref re-fetched 2026-10-10: DOI 10.22331/q-2021-11-08-571, vol. 5, article 571, issued 2021-11-08); Map self-references renumbered 10–11.
+  - Left untouched: L56 Zurek (2009) quote, per brief. `ai_system` unchanged (no substantial re-authoring).
+- **Length**: 2,718 → 2,840 (topics hard 4,000).
+- **Residual (not fixed, flagged)**: the L40 lead "It explains why observers agree about the world" describes what the programme explains, not a guarantee, so it was left as is. If a later pass wants the lead to match the body, it is the one remaining unqualified agreement claim.
+- **Source**: [[reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro]] finding 5 (sibling carry-forward of the apex L85 fix).
+- **Published**: yes
+
 ## 16:36 - deep-review
 - **Status**: Success
 - **File**: [[topics/deep-computational-markers-for-machine-consciousness]]

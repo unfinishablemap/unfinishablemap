@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-09-11 01:20:09+00:00
+ai_modified: 2026-10-10 16:50:58+00:00
 ai_system: claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-04 09:59:23+00:00
-lastmod: 2026-09-11 01:20:09+00:00
+lastmod: 2026-10-10 16:50:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ When a system's pointer state interacts with its environment, information about 
 
 Zurek quantifies this through *quantum mutual information* between the system and environmental fragments. When small fragments carry nearly complete information about the system state, the system has achieved what Zurek calls "objectivity": "The state of the system can be found out indirectly and independently by many observers, who will agree about their conclusions" (Zurek 2009, p. 183). Classical objectivity, on this account, is not a primitive feature of reality but an emergent consequence of environmental amplification.
 
-This is a genuine explanatory achievement. Quantum Darwinism answers two of the three sub-problems identified by Schlosshauer (2004) in the measurement problem: the *preferred basis problem* (why position rather than some exotic superposition?) and the *problem of non-observability of interference* (why don't we see superpositions?). Environmental selection determines the basis. Redundant encoding ensures different observers agree. These are not trivial results—they show how the *appearance* of a classical world arises from quantum mechanics without additional postulates.
+This is a genuine explanatory achievement. Quantum Darwinism answers two of the three sub-problems identified by Schlosshauer (2004) in the measurement problem: the *preferred basis problem* (why position rather than some exotic superposition?) and the *problem of non-observability of interference* (why don't we see superpositions?). Environmental selection determines the basis. Redundant encoding explains how different observers can agree, though the mutual-information criterion alone does not guarantee it: that criterion can count more correlations than observers can extract locally and without disturbing the system, and agreement of that kind needs the stronger conditions of Strong Quantum Darwinism or spectrum broadcast structure (Korbicz 2021). These are not trivial results—they show how the *appearance* of a classical world arises from quantum mechanics without additional postulates.
 
 ## The Gap That Remains
 
@@ -80,9 +80,9 @@ The Map proposes that consciousness performs this conversion—selecting one ele
 
 **The Born rule constrains the statistics.** If consciousness selects among pointer states, it must do so within Born-rule probabilities over the long run. Any deviation would be empirically detectable and would violate quantum mechanics. This is a minimal-intervention constraint: consciousness biases individual outcomes without altering statistical distributions. A critic will note that if the selections are statistically indistinguishable from unbiased Born-rule sampling, the hypothesis risks vacuity—a concern the Map takes seriously but does not consider decisive, since the claim is about *what actualises individual outcomes*, not about statistical anomalies.
 
-**Agreement is structurally ensured.** Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree on what happened. Consciousness does not need to synchronise multiple observations—quantum Darwinism's redundant encoding handles this automatically. Once one outcome is actualised, the environmental record is already consistent with it.
+**Agreement is conditional.** Environmental fragments carry redundant information about the selected outcome, but a mutual-information redundancy plateau does not by itself secure observer agreement, and no one has shown that neural pointer states meet the stronger conditions of Strong Quantum Darwinism or spectrum broadcast structure (Korbicz 2021). Where those conditions hold, all subsequent observers will agree on what happened, and consciousness does not need to synchronise their observations—quantum Darwinism's redundant encoding handles this automatically. Once one outcome is actualised, the environmental record is already consistent with it.
 
-This framing—if accepted—clarifies the relationship between quantum Darwinism and the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The proposed intervention is minimal precisely *because* quantum Darwinism has done most of the work. The environment has selected the basis, determined the probabilities, and ensured intersubjective agreement. What would remain for consciousness is the single act of actualisation: determining which pointer state becomes the one that obtains. Whether this "single act" constitutes a genuine causal contribution or a distinction without a difference is the central question the Map's critics press.
+This framing—if accepted—clarifies the relationship between quantum Darwinism and the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The proposed intervention is minimal precisely *because* quantum Darwinism has done most of the work. The environment has selected the basis, determined the probabilities, and—where those stronger objectivity conditions hold—secured intersubjective agreement. What would remain for consciousness is the single act of actualisation: determining which pointer state becomes the one that obtains. Whether this "single act" constitutes a genuine causal contribution or a distinction without a difference is the central question the Map's critics press.
 
 A further advantage of this post-decoherence framing: it sidesteps the [timing gap problem](/concepts/timing-gap-problem/) that plagues pre-decoherence quantum consciousness proposals. If consciousness acts on the already-decohered mixture rather than on fragile superpositions, the femtosecond decoherence timescale in neural tissue becomes irrelevant. And [stochastic amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—including stochastic resonance, self-organised criticality, and threshold-crossing dynamics—provide a plausible chain by which even a minimal conscious bias on pointer-state selection could cascade into macroscopic neural and behavioural effects.
 
@@ -106,7 +106,7 @@ Quantum Darwinism integrates with the Map's tenets in a precise and non-trivial 
 
 The [Dualism](/tenets/#dualism) tenet holds that consciousness is irreducible to physics. Quantum Darwinism is relevant here because it represents the fullest development of the decoherence programme, and it does not solve the problem of outcomes. The Map reads this as evidence that the gap may not be closable by physics alone—though critics will point out that the history of science is full of gaps that closed without invoking consciousness, and that treating a currently-open problem as permanently open is a "consciousness of the gaps" move. The Map's response is that the outcome problem is not merely unsolved but structurally different from problems decoherence addresses: decoherence explains the *disappearance* of interference, while the outcome problem concerns why *this* result obtains rather than another.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires the smallest non-physical influence on physical outcomes. Quantum Darwinism specifies exactly how small that influence can be: consciousness selects among a pre-filtered set of pointer states, within Born-rule probabilities, in a context where environmental redundancy ensures automatic intersubjective agreement. The intervention is minimal because quantum Darwinism has already done the heavy lifting.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires the smallest non-physical influence on physical outcomes. Quantum Darwinism specifies exactly how small that influence can be: consciousness selects among a pre-filtered set of pointer states, within Born-rule probabilities, in a context where environmental redundancy, if it meets the stronger objectivity conditions noted above, secures intersubjective agreement without further work. The intervention is minimal because quantum Darwinism has already done the heavy lifting.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Quantum Darwinism locates where this influence is possible: at the transition from improper mixture to definite outcome, after einselection and redundant encoding have prepared the alternatives.
 
@@ -148,5 +148,6 @@ These constraints do not make the proposal easily testable with current technolo
 6. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
 7. Fine, A. (1970). Insolubility of the quantum measurement problem. *Physical Review D*, 2(12), 2783–2787.
 8. Bassi, A. & Ghirardi, G. C. (2000). A general argument against the universal validity of the superposition principle. *Physics Letters A*, 275(5–6), 373–381.
-9. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
-10. Southgate, A. & Sonquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
+9. Korbicz, J. K. (2021). Roads to objectivity: Quantum Darwinism, Spectrum Broadcast Structures, and Strong quantum Darwinism – a review. *Quantum*, 5, 571.
+10. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
+11. Southgate, A. & Sonquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
