@@ -4,7 +4,7 @@ description: "If information is physically fundamental, consciousness may sit at
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-08-02T09:13:38+00:00
+ai_modified: 2026-10-10T02:49:20+00:00
 last_deep_review: 2026-08-02T09:13:38+00:00
 draft: false
 topics:
@@ -30,7 +30,7 @@ related_articles:
   - "[[metaphysics-of-information-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-15
 last_curated:
 ---
@@ -65,7 +65,7 @@ The informational turn supports several positions on consciousness, each with di
 
 ### Information Physicalism
 
-The mainstream view holds that information is physical and consciousness is a particular kind of information processing. [[integrated-information-theory|Integrated Information Theory]] (IIT) exemplifies this approach: consciousness is identical to integrated information (Φ), and any system with non-zero Φ has some degree of experience. IIT takes phenomenology seriously—its axioms start from the character of experience—but ultimately identifies consciousness with a physical property.
+The mainstream view holds that information is physical and consciousness is a particular kind of information processing. [[integrated-information-theory|Integrated Information Theory]] (IIT) exemplifies this approach: consciousness is identical to integrated information (Φ), and any system forming a local maximum of integrated information, however simple, has some form of experience; its exclusion postulate withholds experience from the parts and supersets of such a maximum. IIT takes phenomenology seriously—its axioms start from the character of experience—but ultimately identifies consciousness with a physical property.
 
 The Map's concern with information physicalism is that it dissolves the hard problem by definitional fiat. If consciousness just *is* integrated information, then asking why integrated information is conscious becomes like asking why water is H₂O—a conceptual confusion. But the analogy fails. We can explain why H₂O behaves as water does. Nobody can explain why Φ-structures are accompanied by experience. The identification papers over the explanatory gap rather than bridging it.
 

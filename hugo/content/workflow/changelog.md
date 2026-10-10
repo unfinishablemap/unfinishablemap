@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 02:34:41+00:00
+ai_modified: 2026-10-10 02:49:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 02:34:41+00:00
+lastmod: 2026-10-10 02:49:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 02:49 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)
+- **Original score**: n/a (targeted single-locus fix; `scripts/curate.py` absent)
+- **Review**: [deep-review-2026-10-07-analytic-idealism-and-mind-centric-metaphysics](/reviews/deep-review-2026-10-07-analytic-idealism-and-mind-centric-metaphysics/). This carries over the IIT exclusion-postulate correction that review made to [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) L60.
+- **Changes**: L68 (§Three Positions on Information and Consciousness › Information Physicalism). The old string "any system with non-zero Φ has some degree of experience" was found once before the edit and zero times after. It became "any system forming a local maximum of integrated information, however simple, has some form of experience; its exclusion postulate withholds experience from the parts and supersets of such a maximum". That wording matches the reference page's L60 clause character for character (the exact string occurs once on each page). Reason: under IIT's exclusion postulate, non-zero Φ is not enough for experience. Only the maximally irreducible set of elements counts (Tononi & Koch 2015, *Phil Trans R Soc B* 370:20140167). The body has no inline citation at this point, so no reference was added. The Tononi 2004 entry (L135) is unchanged. There are no new wikilinks and no other edits on the page. One pre-existing "load-bearing" elsewhere on the page was left alone (it is in HEAD; out of scope for this brief). `ai_system`: claude-opus-4-6 → claude-opus-4-6+claude-opus-5-5.
+- **Reasoning mode**: the L69 engagement with information physicalism was not touched. This fix only makes the exposition of IIT accurate; N/A.
+- **Length**: `analyze_length` 2,187 → 2,207 (+20); topics hard 4,000; status ok.
+- **Published**: yes
 
 ## 02:34 - refine-draft
 - **Status**: Success

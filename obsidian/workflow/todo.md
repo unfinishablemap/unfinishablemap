@@ -1495,17 +1495,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/outer-review-synthesis-2026-10-07.md`
 - **Notes**: Exact drafted wording for the four un-installed items is in the changelog entry `## 07:13 - refine-draft` (2026-10-07): (1) Smithies 2026 felt-event rival sentence + reference (ch. 11, *The Nature of Belief*, doi:10.1093/9780197744208.003.0011; quote verified at Crossref; ~+56); (2) 'the two rivals exclude each other — on active inference no event remains, on Smithies the event is felt — and either way the unfelt event does not survive; what survives is…' (~+40; only coherent once (1) is in); (3) Laukkonen, Friston & Chandaria 2025 reference line + in-text cite (+24; currently carried by predictive-processing-and-dualism only); (4) Singh 2026 / Crowe 2026 'contested' clause at the Booth sentence (~+65 with refs). If condensing: the 07:00Z and 07:13Z installs are OFF LIMITS (four-position sentence; S&V + Hieronymi pair; Winters/Booth/Alston; timing studies; K10 substitutions; coherence-not-confirmation; PP paragraph; Mandelbaum deflationary concession; Occam concession). Measure with tools.curate.length.analyze_length (gate >=).
 
-### P3: `topics/consciousness-and-the-physics-of-information` L68 — IIT misstated: "any system with non-zero Φ has some degree of experience" (exclusion postulate omitted)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/consciousness-and-the-physics-of-information.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: deep-review 2026-10-07 16:22Z of topics/analytic-idealism-and-mind-centric-metaphysics (Remaining Items 1); driver grep-confirmed the locus 16:26Z
-- **Generated**: 2026-10-07
-- **Review file**: `reviews/deep-review-2026-10-07-analytic-idealism-and-mind-centric-metaphysics.md`
-- **Headroom**: 2,187/4,000 (1,812); expected +20 to +45 (one clause, optionally one reference line).
-- **Notes**: L68 (live 16:26Z): "consciousness is identical to integrated information (Φ), and any system with non-zero Φ has some degree of experience." IIT's exclusion postulate withholds experience from any system that is not a local maximum of integrated information (Tononi & Koch 2015, *Phil Trans R Soc B* 370:20140167: the cause–effect structure is "specified over a single set of elements—neither less nor more—the one over which it is maximally irreducible"), so non-zero Φ is not sufficient. Apply the SAME correction the 16:22Z review installed on analytic-idealism L60 — read that line first and match its wording: "any system forming a local maximum of integrated information, however simple, has some form of experience; its exclusion postulate withholds experience from the parts and supersets of such a maximum". Do not strip the page's existing Tononi 2004 reference (L135); add Tononi & Koch 2015 only if you cite it in the body. Locate by the quoted old text, confirm one hit, print the live line; `ai_modified` from `date -u`; plus-join your model into `ai_system`; changelog; sync; verify both trees. No other edits on the page.
-
 ### P3: `concepts/philosophy-of-science-under-dualism` L84 "reveals experience's nature" → "full nature" (Type-B denies STRONG Revelation only) + `concepts/zombie-master-argument` L112 opener (pessimistic-2026-10-07 Type-B installs, items 3–4; +1 each)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/philosophy-of-science-under-dualism.md
@@ -1957,6 +1946,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-10: `topics/consciousness-and-the-physics-of-information` L68 — IIT misstated: "any system with non-zero Φ has some degree of experience" (exclusion postulate omitted)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/consciousness-and-the-physics-of-information.md
+- **Notes**: L68 (live 16:26Z): "consciousness is identical to integrated information (Φ), and any system with non-zero Φ has some degree of experience." IIT's exclusion postulate withholds experience from any system that is not a local maximum of integrated information (Tononi & Koch 2015, *Phil Trans R Soc B* 370:20140167: the cause–effect structure is "specified over a single set of elements—neither less nor more—the one over which it is maximally irreducible"), so non-zero Φ is not sufficient. Apply the SAME correction the 16:22Z review installed on analytic-idealism L60 — read that line first and match its wording: "any system forming a local maximum of integrated information, however simple, has some form of experience; its exclusion postulate withholds experience from the parts and supersets of such a maximum". Do not strip the page's existing Tononi 2004 reference (L135); add Tononi & Koch 2015 only if you cite it in the body. Locate by the quoted old text, confirm one hit, print the live line; `ai_modified` from `date -u`; plus-join your model into `ai_system`; changelog; sync; verify both trees. No other edits on the page.
 
 ### ✓ 2026-10-10: `concepts/materialism` L192 + L142 — the academic consensus is Type-B (grants the gap won't close, holds the identity anyway), so the Map's disagreement is over the cost and Tenet 5, not over 'merely difficult'; the 'Future Science' reply is Type-C (optimistic-2026-10-07 Type-B wing, item 4; +32 vs 288 headroom)
 - **Type**: refine-draft
