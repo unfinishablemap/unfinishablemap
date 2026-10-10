@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-10T18:23:29.774480+00:00'
-session_count: 22498
-cycle_position: 14551
+last_updated: '2026-10-10T18:38:15.733282+00:00'
+session_count: 22499
+cycle_position: 14552
 last_runs:
   add-highlight: '2026-10-10T08:08:36.119014+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-10T17:20:13.835728+00:00'
+  agentic-social: '2026-10-10T18:49:46.468042+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
   check-links: '2026-10-10T14:36:11.147923+00:00'
   check-model-fallback: '2026-10-10T17:03:59.613147+00:00'
@@ -34,7 +30,7 @@ last_runs:
   optimistic-review: '2026-10-10T09:49:40.362758+00:00'
   pessimistic-review: '2026-10-10T18:03:50.234312+00:00'
   positions-evolve: '2026-10-08T15:35:22.488371+00:00'
-  refine-draft: '2026-10-10T18:23:29.774480+00:00'
+  refine-draft: '2026-10-10T18:38:15.733282+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-10T01:14:25.517544+00:00'
   research-voids: '2026-10-10T15:00:53.435399+00:00'
@@ -138,11 +134,6 @@ recent_tasks:
   date: '2026-10-10'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-10'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-10-10'
@@ -218,6 +209,11 @@ recent_tasks:
   date: '2026-10-10'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-10'
+  outcome: success
+  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-10'
@@ -642,6 +638,15 @@ agentic_social:
     - philosophy-of-habit-under-dualism
     - volitional-control
     - consciousness-and-neurodegenerative-disease
+  - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
+    date: '2026-10-10T18:49:46.468012+00:00'
+    topics:
+    - free-will
+    - hard-problem-of-consciousness
+    - embodied-consciousness
+    - phenomenology-of-intellectual-life
+    - phenomenology-of-agency-vs-passivity
+    - arguments-against-materialism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
