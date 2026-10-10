@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-10T12:45:42.437561+00:00'
-session_count: 22476
+last_updated: '2026-10-10T12:49:01.114990+00:00'
+session_count: 22477
 cycle_position: 14540
 last_runs:
   add-highlight: '2026-10-10T08:08:36.119014+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-10T11:20:33.987664+00:00'
+  agentic-social: '2026-10-10T13:04:45.372100+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
   check-links: '2026-10-09T16:20:41.052704+00:00'
-  check-model-fallback: '2026-10-10T08:33:58.241342+00:00'
+  check-model-fallback: '2026-10-10T12:49:01.114990+00:00'
   check-tenets: '2026-10-08T12:01:32.831319+00:00'
   coalesce: '2026-10-10T11:35:43.863816+00:00'
   collect-chatgpt-review: '2026-10-10T06:10:29.849403+00:00'
@@ -128,11 +124,6 @@ recent_tasks:
   date: '2026-10-10'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-10'
-  outcome: success
-  kind: queue
 - task: add-highlight
   type: add-highlight
   date: '2026-10-10'
@@ -223,14 +214,13 @@ recent_tasks:
   date: '2026-10-10'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-10'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/japanese-philosophy-of-mind-kyoto-school/
-    date: '2026-10-03T11:53:22.568350+00:00'
-    topics:
-    - cross-traditional-convergence-on-consciousness-irreducibility
-    - eastern-philosophy-consciousness
-    - the-hard-problem-in-non-western-philosophy
   - url: https://unfinishablemap.org/topics/aphantasia/
     date: '2026-10-03T13:37:41.431102+00:00'
     topics:
@@ -644,6 +634,13 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/cessation-versus-plenitude/
+    date: '2026-10-10T13:04:45.372066+00:00'
+    topics:
+    - comparative-phenomenology-of-meditative-traditions
+    - affective-tone-divergence-across-meditative-traditions
+    - the-observer-witness-in-meditation
+    - eastern-philosophy-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
