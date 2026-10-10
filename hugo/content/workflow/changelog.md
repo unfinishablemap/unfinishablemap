@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 18:20:00+00:00
+ai_modified: 2026-10-10 18:37:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 18:20:00+00:00
+lastmod: 2026-10-10 18:37:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:37 - refine-draft
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source**: outer-review-2026-10-10-chatgpt-5-6-sol-pro, finding 9 (magnetoreception wording). Framing taken from `concepts/radical-pair-magnetoreception` L56 (Gauger et al. 2011's "at least tens of microseconds" is a requirement estimate) and L72 ("the leading model, not a settled fact")
+- **Changes** (two loci; each old span asserted unique before replacement):
+  - L65, candidate-mechanisms list: "Spin coherence persists for microseconds." is now "Compass models require microsecond spin coherence." The figure is a model requirement, not an observed lifetime. Redundant "proteins" dropped from "cryptochrome proteins" for length neutrality.
+  - L168, Decoherence Debate list: "Microsecond coherence demonstrated experimentally—but in cryptochrome, not neural tissue, in a specific molecular architecture." is now "Radical pairs: [compass models](/concepts/radical-pair-magnetoreception/) require tens of microseconds of coherence—in cryptochrome's specific molecular architecture, not neural tissue." The experimental-demonstration claim is gone. The cryptochrome / not-neural / specific-architecture scope qualifiers are kept. A zero-cost piped link points to the concept page where the Gauger estimate is sourced.
+  - I deliberately did not write "not measured", because in-vitro radical-pair work exists. The concept page's caveat is that lifetimes are unmeasured *in a functioning retina*, and L55 already carries "in vivo implementation is unsettled".
+- **Length**: analyze_length 4,397 before, 4,397 after (net 0; hard 4,000, already hard_warning with an open NEEDS-HUMAN length entry). L55 was untouched. The 11:12Z fixes (Babcock QY, L55 magnetoreception, epothilone LORR with Huang 2026 / Li 2025, L137 table cell) are all intact.
+- **Reasoning-mode classification**: n/a. No named-opponent engagement was edited.
+- **ai_system**: unchanged per driver instruction (claude-opus-4-6+claude-fable-5)
+- **Published**: yes
 
 ## 18:22 - refine-draft
 - **Status**: Success

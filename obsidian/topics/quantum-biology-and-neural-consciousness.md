@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-10-10T11:12:54+00:00
+ai_modified: 2026-10-10T18:36:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ The categorical objection has weakened: selection has propagated biochemical var
 
 Five distinct [[quantum-biology-and-neural-mechanisms|quantum mechanisms]] have been proposed for neural systems:
 
-1. **Radical pair effects** in cryptochrome proteins may function in neural tissue. Spin coherence persists for microseconds.
+1. **Radical pair effects** in cryptochrome may function in neural tissue. Compass models require microsecond spin coherence.
 2. **Ion channel tunnelling** lets ions pass through closed voltage-gated channels, affecting action potential dynamics.
 3. **Microtubule coherence** (Orch OR and QBIT theories) proposes that tubulin proteins sustain quantum states, with consciousness emerging from collapse. Room-temperature quantum effects have been reported—memory-switching in single microtubules (Sahu et al., 2013) and superradiance-consistent tryptophan fluorescence (Babcock et al., 2024, detailed below).
 4. **Synaptic tunnelling** (Beck-Eccles-Georgiev) identifies quantum effects in transmitter release.
@@ -165,7 +165,7 @@ Two readings the table prevents. *First*, treating the cluster as multiple indep
 Tegmark's femtosecond estimate targeted ion superpositions in open neural membranes—the least protected environment. Subsequent calculations yield very different results, and the literature has not converged:
 
 - Hagan et al. (2002): Disputed Tegmark's parameter choices for microtubule interiors, obtaining corrected estimates around 10⁻⁵ to 10⁻⁴ seconds. But this is one counter-calculation by Hameroff collaborators, unreplicated and still contested—an unresolved dispute, not a settled rebuttal.
-- Radical pair systems: Microsecond coherence demonstrated experimentally—but in cryptochrome, not neural tissue, in a specific molecular architecture.
+- Radical pairs: [[radical-pair-magnetoreception|compass models]] require tens of microseconds of coherence—in cryptochrome's specific molecular architecture, not neural tissue.
 - QBIT theory: Axon initial segment provides structural protection; spintronic coherence may evade the original calculation.
 
 Across these proposals, estimates span roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed parameters, leaving a gap between even 100 microseconds and the ~300 milliseconds of neural decisions. But this gap matters only for candidates requiring *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). [[apex/post-decoherence-selection-programme|Post-decoherence-selection]] proposals locate the consciousness-relevant event *after* decoherence completes—as Schlosshauer's 2019 review notes, decoherence suppresses interference but leaves the system in a mixture of outcomes without saying why only one is measured—and so do not depend on sustained coherence. The role for consciousness at measurement stays open regardless of coherence timescales, and that openness is what Tenet 2 commits to.

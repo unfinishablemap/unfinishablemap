@@ -1992,16 +1992,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: per item in the review: (a) +6, (b) +17, (c) +19, (d) +15, (e) +40, (f) 0 (meta-epistemology has only 42 of headroom), (g) +7.
 - **Notes**: Priority List item 4 (a)–(g). SEVEN FILES; do ALL of them and report each. The voids index is currently the only page linking to `voids/modality-void`. (e) also adds a documented mechanism to the Sensory Difference Objection in `concepts/phenomenal-contrast-method`. Optional 0-word rider: `voids/assent-void` L107 "The literature's reply" → "The dominant reply". That page is under a NEEDS-HUMAN condense block, so make ONLY this 0-word change there. Make NO edit to `voids/offloading-void` (3 words of headroom). Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
 
-### P2: `topics/quantum-biology-and-neural-consciousness` L65 "Spin coherence persists for microseconds" and L168 "Microsecond coherence demonstrated experimentally" present the Gauger et al. (2011) model estimate as a measurement
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/quantum-biology-and-neural-consciousness.md
-- **Status**: pending
-- **Source**: sibling finding of the 2026-10-10 11:12Z refine-draft of this file (ChatGPT outer-review finding 13); driver confirmed L65 and L168 verbatim 2026-10-10
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro.md`
-- **Headroom**: analyze_length 2026-10-10: 4,397/4,000, ALREADY at hard_warning; an open NEEDS-HUMAN length-decision entry exists for this file. Net-zero or net-negative ONLY (pure rewording).
-- **Notes**: L65 reads "Spin coherence persists for microseconds." L168 reads "Radical pair systems: Microsecond coherence demonstrated experimentally—but in cryptochrome, not neural tissue, in a specific molecular architecture." `concepts/radical-pair-magnetoreception` treats tens of microseconds as Gauger et al. (2011, *Physical Review Letters* 106(4), 040503) estimate of what the compass would need, and calls radical-pair magnetoreception "the leading model, not a settled fact" (L72). Reword both so the coherence time is a model-based requirement or estimate, not an experimental demonstration; read the concept page's L56 first for the exact framing. Do not touch L55, fixed on 2026-10-10. Locate by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P2: `positions/quantum-interface` P-Q8 calibration calls cryptochrome radical-pair magnetoreception "the surviving established warm-biology quantum result", while `concepts/radical-pair-magnetoreception` L72 says it is "the leading model, not a settled fact"
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/quantum-interface.md
@@ -2116,6 +2106,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-10: `topics/quantum-biology-and-neural-consciousness` L65 "Spin coherence persists for microseconds" and L168 "Microsecond coherence demonstrated experimentally" present the Gauger et al. (2011) model estimate as a measurement
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/quantum-biology-and-neural-consciousness.md
+- **Notes**: L65 reads "Spin coherence persists for microseconds." L168 reads "Radical pair systems: Microsecond coherence demonstrated experimentally—but in cryptochrome, not neural tissue, in a specific molecular architecture." `concepts/radical-pair-magnetoreception` treats tens of microseconds as Gauger et al. (2011, *Physical Review Letters* 106(4), 040503) estimate of what the compass would need, and calls radical-pair magnetoreception "the leading model, not a settled fact" (L72). Reword both so the coherence time is a model-based requirement or estimate, not an experimental demonstration; read the concept page's L56 first for the exact framing. Do not touch L55, fixed on 2026-10-10. Locate by QUOTED text; confirm each occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-10: `apex/post-decoherence-selection-programme` L169 says Bidirectional Interaction "finds its physical grounding" and that post-decoherence selection "is the mechanism by which consciousness causally influences the physical world", against the `positions/quantum-interface` mechanism-debt citation grade (ChatGPT outer-review finding 10)
 - **Type**: refine-draft
