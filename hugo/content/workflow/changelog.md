@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 08:58:38+00:00
+ai_modified: 2026-10-10 09:08:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 08:58:38+00:00
+lastmod: 2026-10-10 09:08:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:08 - refine-draft
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Original score**: n/a (targeted calibration fix; `scripts/curate.py` is absent)
+- **Task**: P1 from the convergent outer reviews of 2026-10-10 ([outer-review-2026-10-10-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro/) findings 3–4, convergent with [outer-review-2026-10-10-gemini-2-5-pro](/reviews/outer-review-2026-10-10-gemini-2-5-pro/); [outer-review-synthesis-2026-10-10](/reviews/outer-review-synthesis-2026-10-10/) upgraded it P2 → P1). The article read Santander et al. (2025) as unity persisting independently of connectivity. It now lands on the same reading as the sibling [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) (06:53 fix), [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) L118 and [identity-across-transformations](/apex/identity-across-transformations/) L99.
+- **Source check**: Europe PMC JATS full text for PMC12582319 (PubMed 41118210), fetched and grepped. "Six adult callosotomy patients": EM and BT partial, HY/DT/TJ/LJ complete. BT "was spared approximately 1 cm of splenium (losing ∼90% of the CC's cross-sectional area)". "from a sheer bandwidth perspective, it is difficult to imagine…" is followed by "It appears likely that functional systems in BT dramatically reorganized in the six years following surgery". "not suited to evaluate or endorse any particular theory" ×1; "Conversely, only complete callosotomy patients demonstrated sweeping disruptions" ×1. "99%", "orders of magnitude" and "first fMRI" were already absent from this page (×0 before and after).
+- **Changes**: (1) L72: added the cohort (six patients, two partial and four complete) and the complete-section contrast in a clause. The unsourced "networks had rerouted … undermining the assumption that tightly synchronized brain areas must be directly connected" was replaced with BT's ~1 cm / ~90% figures and the authors' "likely" reorganisation. (2) L76: "the convergence of synchronization, behavioral coordination, and patient reports is stronger evidence for preserved experiential unity than any single source alone" was replaced. The three sources now show preserved information exchange where connecting fibres remain; whether that is one phenomenal field stays underdetermined (with the authors' "not suited to evaluate or endorse" quote). The shared wording is now in place: "Unity, as far as these measures reach it, tracks a surviving physical channel. The spared ribbon is doing the work." (3) L122: the first pattern, "resilience of high-level unity through massive substrate disruption", became "a single reported perspective that survives perceptual division (residual callosal integration, being physically explicable, does not count)". This is the narrower survivor in identity-across-transformations L99. (4) L138: "both hemispheres may share the *same* haecceity in some attenuated sense, explaining why patients feel like one person" became "thisness cannot be shared out between hemispheres ([P-I4](/positions/individuation-and-subjecthood/#p-i4)); whether a split brain still houses one subject is a real but unreadable fact ([P-I3](/positions/individuation-and-subjecthood/#p-i3)), which patients' sense of being one person tells for without settling". This follows identity apex L173 and supplies the missing criterion: a perspective does not divide.
+- **NCC L118 compatibility (same defect, other loci)**: (5) L150: removed "the 2025 minimal-fiber synchronization finding" from the evidence said to be "more naturally explained if unity belongs to consciousness itself". (6) L194: deleted "The 2025 findings push against this." Partial splits keep full integration and complete splits lose it, so the data are if anything step-like, and the sentence was unsupported. (7) L130: "less integrated experience" became "less integration", and "between neural connectivity and experiential unity" became "between callosal fibre count and integration" (the sibling's L110 framing).
+- **Coordination with the open P3 check-tenets task** (L54 / L122 / L186 suggestive-rung phrases): **none of its three quoted phrases was changed**. "perhaps more naturally than physicalism" (L54), "accommodations rather than first predictions" (L122) and "may be more explanatory" (L186) are all still live. In L122 only the first listed pattern was replaced (item 3 above), which the P3's L122 phrase now governs. Re-scope note for its executor: L186's "The resilience of unity and the component-ordered profile…" still names "resilience of unity", now backed only by the reported-perspective pattern. L150's "It does not." and "more naturally explained" now rest only on Pinto (2017), which L78 concedes shows unity of agency rather than of experience. Both sit in the P3's territory and are not fixed here.
+- **Not cited**: Kang, Snyder & Mooshagian (2026), *PNAS* 123, e2516541123 (optional). A sentence plus reference costs ~35 words, and that would leave the P3 (net +25) no room. It was not verified at source this pass.
+- **Engagement classification** (editor-internal): functionalism (L122): Mode Three. The comparative-prediction framing is unchanged. The repair only removes the pattern that the callosal data explain physically.
+- **Length**: 3,898 → 3,964 (analyze_length), against topics hard 4,000 (gate `>=`; 35 headroom). Funded by the L150/L194 deletions and by trimming this pass's own additions.
+- **Published**: yes
 
 ## 08:58 - deep-review
 - **Status**: Success

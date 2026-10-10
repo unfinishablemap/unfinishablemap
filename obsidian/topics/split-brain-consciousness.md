@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-10-08T07:37:46+00:00
+ai_modified: 2026-10-10T09:08:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,11 +69,11 @@ A point worth stating plainly at the outset: the classic disconnection findings 
 
 ## The Resilience of Unity
 
-An October 2025 PNAS study (Santander et al.) from UC Santa Barbara complicates the classic picture. Using fMRI on callosotomy patients, researchers found that a fraction of intact posterior corpus callosum fibers can sustain full interhemispheric integration. As senior author Michael Miller noted: "The corpus callosum consists of about 250 million axons, but you need only a small bundle of them to have full synchrony." In one patient, networks had rerouted across a small remaining ribbon of callosum — undermining the assumption that tightly synchronized brain areas must be directly connected.
+An October 2025 PNAS study (Santander et al.) from UC Santa Barbara complicates the classic picture. Using fMRI on six callosotomy patients (two partial, four complete), researchers found that a fraction of intact posterior corpus callosum fibers can sustain full interhemispheric integration, while only complete section produced sweeping disruption of interhemispheric networks. As senior author Michael Miller noted: "The corpus callosum consists of about 250 million axons, but you need only a small bundle of them to have full synchrony." One patient kept about 1 cm of splenium, losing roughly 90% of the callosum; the authors judge that reorganisation over six post-operative years likely routed integration through it.
 
 The 2017 University of Amsterdam research adds another layer: split-brain patients could report seeing shapes presented to either visual field, both verbally and by pointing with either hand. The study's own framing — "divided perception but undivided consciousness" — captures a "layered unity" model: divided perception at local levels but preserved unity at higher, global levels.
 
-A critical distinction: neural synchronization (what fMRI measures) is not the same as [[unity-of-consciousness|phenomenal unity]]. The former is a neural correlate; the latter is what the [[hard-problem-of-consciousness|hard problem]] insists cannot be read directly off neural data. Still, the convergence of synchronization, behavioral coordination, and patient reports is stronger evidence for preserved experiential unity than any single source alone.
+A critical distinction: neural synchronization (what fMRI measures) is not the same as [[unity-of-consciousness|phenomenal unity]]. The former is a neural correlate; the latter is what the [[hard-problem-of-consciousness|hard problem]] insists cannot be read directly off neural data. Together, synchronization, behavioural coordination and patient reports show preserved information exchange where connecting fibres remain; whether that amounts to one phenomenal field stays underdetermined, and Santander et al. say their results "are not suited to evaluate or endorse any particular theory." Unity, as far as these measures reach it, tracks a surviving physical channel. The spared ribbon is doing the work.
 
 Schechter and Bayne (2021) press a rebuttal the resilience reading must answer. Pinto's experiments show the patient responding as a single organism — pointing with either hand, or answering verbally, to stimuli in either field — but this establishes a unity of *agency*, not a unity of *experience*. A single agent behaving coherently is compatible with two phenomenal streams whose outputs are coordinated, plausibly through subcortical cross-cueing that lets one hemisphere's processing steer the other's response without the two sharing a phenomenal field. The sharper test is co-consciousness: split-brain subjects can perceive two stimuli separately yet, on the classical findings, cannot reliably judge them same-or-different *together* — the comparative operation that would require both to be present to one experiencing subject. Whether Pinto's data are better read as unity of agency or unity of experience is, Schechter and Bayne argue, still open. The distinction bears directly on the interface reading developed below: [[the-divided-will|agency-unity]] is what a coordinated substrate would produce whether or not the phenomenal subject is single, so the resilience argument earns its dualist conclusion only at the experience level — precisely where the evidence stays underdetermined.
 
@@ -119,7 +119,7 @@ The interface argument makes this distinction explicit. Consciousness interacts 
 
 This is a *possibility* claim, not a proof: fragmentation of behaviour is compatible with unity of consciousness. The strong physicalist inference assumes consciousness *is* the substrate's activity, which is precisely what dualism denies.
 
-Sophisticated functionalism — multiply-realisable, implemented across loosely-coupled subsystems — predicts dissociation as a matter of course, so the Map's challenge is narrower than "physicalism cannot accommodate fragmentation." It is that functionalism most naturally predicts dissociation as graded loss across many independent dimensions, whereas the actual evidence shows two more specific patterns: resilience of high-level unity through massive substrate disruption, and the component-ordered profile of consciousness loss under anaesthesia. Functionalism can accommodate both, but as accommodations rather than first predictions. The question is which view predicts the actual pattern most crisply.
+Sophisticated functionalism — multiply-realisable, implemented across loosely-coupled subsystems — predicts dissociation as a matter of course, so the Map's challenge is narrower than "physicalism cannot accommodate fragmentation." It is that functionalism most naturally predicts dissociation as graded loss across many independent dimensions, whereas the actual evidence shows two more specific patterns: a single reported perspective that survives perceptual division (residual callosal integration, being physically explicable, does not count), and the component-ordered profile of consciousness loss under anaesthesia. Functionalism can accommodate both, but as accommodations rather than first predictions. The question is which view predicts the actual pattern most crisply.
 
 ## Connection to the Binding Problem
 
@@ -127,7 +127,7 @@ Split-brain cases illuminate the [[binding-problem|binding problem]] — how dis
 
 **Perceptual binding divides.** Each hemisphere processes visual information independently. **Response unity persists** despite perceptual division. **Phenomenal unity is contested** — on Nagel's reading because the question assumes a determinate answer exists, on the Map's because the determinate answer leaves no trace in the connectivity.
 
-[[integrated-information-theory|IIT]] predicts that interhemispheric disconnection should reduce cross-hemispheric Φ. The 2025 findings complicate *connectivity-based* readings: minimal callosal connections produce full neural synchronization. This is not a direct refutation — Φ is distinct from synchronization — but it challenges the heuristic that "fewer connections" implies "less integrated experience." One speculative possibility is the [[entanglement-binding-hypothesis|entanglement binding hypothesis]] — quantum entanglement underwriting phenomenal unity — though this faces [[decoherence]] challenges. Independently of mechanism, the findings show the relationship between neural connectivity and experiential unity is far less straightforward than classical models assumed.
+[[integrated-information-theory|IIT]] predicts that interhemispheric disconnection should reduce cross-hemispheric Φ. The 2025 findings complicate *connectivity-based* readings: minimal callosal connections produce full neural synchronization. This is not a direct refutation — Φ is distinct from synchronization — but it challenges the heuristic that "fewer connections" implies "less integration." One speculative possibility is the [[entanglement-binding-hypothesis|entanglement binding hypothesis]] — quantum entanglement underwriting phenomenal unity — though this faces [[decoherence]] challenges. Independently of mechanism, the findings show the relationship between callosal fibre count and integration is far less straightforward than classical models assumed.
 
 ## Implications for Personal Identity
 
@@ -135,7 +135,7 @@ The **duality intuition** says a split-brain patient has two minds, each with it
 
 If the split-brain evidence is read as dividing consciousness, what individuates subjects over time? The [[consciousness-and-the-metaphysics-of-individuation|individuation question]] becomes acute, and the [[vertiginous-question]] intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle: **psychological continuity** assumes continuous streams — which stream? **Biological continuity** identifies the person with the body — but the brain is divided. **Non-physical persistence** faces its own puzzle — which hemisphere "gets" the soul?
 
-[[haecceity]] — the non-qualitative property of being *this* particular subject — becomes relevant. If what makes you *you* is not reducible to qualitative features, both hemispheres may share the *same* haecceity in some attenuated sense, explaining why patients feel like one person despite perceptual division. The apex [[identity-across-transformations]] develops this: the dimension of unity most tied to indexical identity appears most resistant to physical intervention.
+[[haecceity]] — the non-qualitative property of being *this* particular subject — becomes relevant. If what makes you *you* is not reducible to qualitative features, thisness cannot be shared out between hemispheres (P-I4); whether a split brain still houses one subject is a real but unreadable fact (P-I3), which patients' sense of being one person tells for without settling. The apex [[identity-across-transformations]] develops this: the dimension of unity most tied to indexical identity appears most resistant to physical intervention.
 
 ## What the Fragmentation Evidence Shows
 
@@ -147,7 +147,7 @@ What the cases *do* compound is the [[hard-problem-of-consciousness|hard problem
 
 ### Two Features Support the Interface Reading
 
-**The resilience of unity.** If consciousness were the brain's integrated activity, severing the corpus callosum should produce a clean split. It does not. The preservation of global unity despite massive disconnection (Pinto et al.'s 2017 "layered unity" model; the 2025 minimal-fiber synchronization finding) is more naturally explained if unity belongs to consciousness itself rather than to its physical substrate.
+**The resilience of unity.** If consciousness were the brain's integrated activity, severing the corpus callosum should produce a clean split. It does not. The preservation of global unity despite massive disconnection (Pinto et al.'s 2017 "layered unity" model) is more naturally explained if unity belongs to consciousness itself rather than to its physical substrate.
 
 **The ordered profile of loss.** The interface reading's one expectation is that anaesthetic loss arrives by *components* — phenomenal presence, connectedness, access — disabled separately, in an agent-specific order, the graded profile [[anaesthesia-and-the-consciousness-interface|the anaesthesia article]] reports and [[positions/consciousness-scope|P-CS4]] records. A threshold for *global* presence is compatible with that expectation, not a second confirmation. What would count against the reading is a dose–response profile with no component ordering at all — experience dimming as a single quantity until gone. Gradation does not itself favour the interface reading, since production accounts of graded integration loss predict it too; the claim is only that integration is a *condition* for consciousness to interact with the brain rather than what constitutes it.
 
@@ -191,7 +191,7 @@ Buddhist philosophy complicates naive unity assumptions, but with care. The *ana
 
 2. **Full illusionist explanation.** Neuroscientists fully explaining reports of feeling like "one person" in terms of cognitive processes without reference to phenomenal experience.
 
-3. **Neural mechanism for determinate unity.** A mechanism that definitively unifies or divides consciousness with no intermediate cases. The 2025 findings push against this.
+3. **Neural mechanism for determinate unity.** A mechanism that definitively unifies or divides consciousness with no intermediate cases.
 
 4. **Unordered anaesthetic loss.** A dose–response profile with no component ordering would weaken the interface reading of anaesthesia.
 
