@@ -4,7 +4,7 @@ description: "Seven proposed mechanisms for scaling quantum-level conscious infl
 created: 2026-03-18
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-10-10T10:42:29+00:00
+ai_modified: 2026-10-10T17:36:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,9 +108,9 @@ Neural SR has been demonstrated experimentally in several sensory modalities. Me
 
 For the Map's framework, SR provides a specific physical mechanism for the first link in the amplification chain. If consciousness provides a weak bias on quantum-indeterminate outcomes—a subthreshold signal in neural terms—then thermal noise at the molecular and synaptic level could push that bias over detection thresholds in individual neurons. The bias need not be strong enough to fire a neuron on its own. It need only be detectable by a system already primed to extract weak signals from noise. Crucially, the bias need not inject energy—it tilts probabilities, consistent with [[conservation-laws-and-mental-causation|conservation-law constraints on mental causation]]. If [[post-decoherence-selection|post-decoherence selection]] is how consciousness acts—biasing which element of a decohered mixture becomes actual—then SR provides the mechanism by which that bias propagates into detectable neural effects.
 
-The distinction from other amplification proposals is important. Microtubule-mediated collapse requires quantum coherence to persist in neural tissue—exposing the model to the [[decoherence|decoherence objection]]. The quantum Zeno effect requires consciousness to operate as a rapid observer of quantum states. Stochastic resonance imposes neither requirement. It operates on classical noise amplifying a weak bias, whatever the origin of that bias.
+Microtubule-mediated collapse requires quantum coherence to persist in neural tissue—exposing the model to the [[decoherence|decoherence objection]]. The quantum Zeno effect requires consciousness to operate as a rapid observer of quantum states. Stochastic resonance imposes neither requirement. It operates on classical noise amplifying a weak bias, whatever the origin of that bias.
 
-As the Map's [[amplification-void]] article observes, SR also deepens the amplification void in one respect: if quantum influences propagate *through* noise rather than *despite* it, the signal becomes statistically inseparable from the noise that carries it. Amplification via stochastic resonance is inherently statistical—individual quantum-to-classical traces become impossible even in principle.
+As the Map's [[amplification-void]] article observes, under SR the subthreshold signal becomes *more* detectable but loses its individual path: the gain is statistical, so no single threshold crossing can be credited to signal rather than noise. Aggregate effects conditioned on intention or task could remain measurable, though no such test has yet been run.
 
 ### 7. Threshold-Crossing and Neural Competition
 

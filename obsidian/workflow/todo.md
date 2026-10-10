@@ -1992,16 +1992,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: per item in the review: (a) +6, (b) +17, (c) +19, (d) +15, (e) +40, (f) 0 (meta-epistemology has only 42 of headroom), (g) +7.
 - **Notes**: Priority List item 4 (a)–(g). SEVEN FILES; do ALL of them and report each. The voids index is currently the only page linking to `voids/modality-void`. (e) also adds a documented mechanism to the Sensory Difference Objection in `concepts/phenomenal-contrast-method`. Optional 0-word rider: `voids/assent-void` L107 "The literature's reply" → "The dominant reply". That page is under a NEEDS-HUMAN condense block, so make ONLY this 0-word change there. Make NO edit to `voids/offloading-void` (3 words of headroom). Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
 
-### P2: `topics/amplification-mechanisms-consciousness-physics` L113 attributes to `voids/amplification-void` a stochastic-resonance claim that article retracted on 2026-10-10 ("statistically inseparable from the noise … impossible even in principle")
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/amplification-mechanisms-consciousness-physics.md
-- **Status**: pending
-- **Source**: sibling sweep by the 2026-10-10 12:22Z refine-draft of `voids/amplification-void` (ChatGPT outer-review finding 22); driver confirmed L113 verbatim 2026-10-10
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro.md`
-- **Headroom**: analyze_length 2026-10-10: 3,993/4,000 (6 left before the `>=` gate). Net-zero or net-negative ONLY; fund any words from redundancy, never from calibration qualifiers.
-- **Notes**: L113 reads "As the Map's [[amplification-void]] article observes, SR also deepens the amplification void in one respect: if quantum influences propagate *through* noise rather than *despite* it, the signal becomes statistically inseparable from the noise that carries it." It now misreports its source. The corrected `voids/amplification-void` (L57) says stochastic resonance makes a subthreshold signal MORE detectable (McDonnell & Abbott 2009); what is lost is the individual path, since no single threshold crossing can be credited to signal rather than noise, while aggregate effects conditioned on intention or task could remain measurable, and no such conditioned test has been run. Re-read amplification-void L49–L65 first and paraphrase what it now says. Locate by QUOTED text; confirm it occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P2: `apex/post-decoherence-selection-programme` L169 says Bidirectional Interaction "finds its physical grounding" and that post-decoherence selection "is the mechanism by which consciousness causally influences the physical world", against the `positions/quantum-interface` mechanism-debt citation grade (ChatGPT outer-review finding 10)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/apex/post-decoherence-selection-programme.md
@@ -2114,6 +2104,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-10: `topics/amplification-mechanisms-consciousness-physics` L113 attributes to `voids/amplification-void` a stochastic-resonance claim that article retracted on 2026-10-10 ("statistically inseparable from the noise … impossible even in principle")
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/amplification-mechanisms-consciousness-physics.md
+- **Notes**: L113 reads "As the Map's [[amplification-void]] article observes, SR also deepens the amplification void in one respect: if quantum influences propagate *through* noise rather than *despite* it, the signal becomes statistically inseparable from the noise that carries it." It now misreports its source. The corrected `voids/amplification-void` (L57) says stochastic resonance makes a subthreshold signal MORE detectable (McDonnell & Abbott 2009); what is lost is the individual path, since no single threshold crossing can be credited to signal rather than noise, while aggregate effects conditioned on intention or task could remain measurable, and no such conditioned test has been run. Re-read amplification-void L49–L65 first and paraphrase what it now says. Locate by QUOTED text; confirm it occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-10: `topics/quantum-darwinism-and-consciousness` L80 "**Agreement is structurally ensured.** … all subsequent observers will agree on what happened" states as unconditional what needs Strong Quantum Darwinism or spectrum broadcast structure (sibling of the 2026-10-10 apex fix)
 - **Type**: refine-draft

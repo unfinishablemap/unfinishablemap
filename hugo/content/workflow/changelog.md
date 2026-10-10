@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 16:36:00+00:00
+ai_modified: 2026-10-10 17:37:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 16:36:00+00:00
+lastmod: 2026-10-10 17:37:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:37 - refine-draft
+- **Status**: Success
+- **File**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Original score**: n/a (targeted source-fidelity fix; `scripts/curate.py` is absent)
+- **Task**: P2 sibling of the 12:22 [amplification-void](/voids/amplification-void/) correction ([outer-review-2026-10-10-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro/) finding 22). L113 attributed to the void a stochastic-resonance claim the void retracted today. Read amplification-void L49–L65 first. The quoted target ("statistically inseparable from the noise that carries it") was found exactly once by fixed-string grep before editing.
+- **Changes**: (1) L113 now paraphrases the corrected void L57. Under SR the subthreshold signal becomes *more* detectable but loses its individual path: the gain is statistical, so no single threshold crossing can be credited to signal rather than noise. Aggregate effects conditioned on intention or task could remain measurable, though no such test has yet been run. Removed: "deepens the amplification void in one respect", "statistically inseparable from the noise that carries it", and "individual quantum-to-classical traces become impossible even in principle". (2) Funding trim, L111: deleted the creation-era filler opener "The distinction from other amplification proposals is important." (`git log -S` shows the 2026-03-29 expand/coalesce commits only, and no review cites it). The paragraph's contrast still reads through "Stochastic resonance imposes neither requirement."
+- **Reviewed and left unchanged**: in the SR section, L105 ("producing reliable detection" is compatible with a statistical gain), L109 ("propagates into detectable neural effects" agrees with the corrected void), and L111. Elsewhere, L81/L83 chaotic sensitivity (claims only exponential sensitivity, no irreversibility) and L186 Further Reading label "cannot be traced: a structurally necessary gap" (matches the void's own lead, which the 12:22 pass kept). The file now has 0 hits for "even in principle" and 0 for "statistically inseparable". Corpus sweep, positive control first: no live article or archive file still carries "statistically inseparable", "inseparable from the noise" or "deepens the amplification void". The only remaining hits are workflow/review records.
+- **Not added**: a McDonnell & Abbott (2009) reference line (~25 words, not affordable). L105 already states SR's detectability gain, and the void carries the citation.
+- **Not changed**: `ai_system` (sentence-level edit); today's 10:42Z L147/L167 criticality hedges. No "This is not X. It is Y." and no "load-bearing" (0 hits each).
+- **Length** (analyze_length): 3,993 → 3,989 (topics hard 4,000; net −4).
+- **Published**: yes
 
 ## 16:50 - refine-draft
 - **Status**: Success
