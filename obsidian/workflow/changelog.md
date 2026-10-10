@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T00:46:00+00:00
+ai_modified: 2026-10-10T01:13:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:13 - research-topic
+- **Status**: Success
+- **Topic**: Disputed memory ownership and the de facto immunity of memory self-ascription (harvested from the 2026-10-09 optimistic review of the first-person certification wing, New Article Subjects B)
+- **Output**: [[research/disputed-memory-ownership-and-de-facto-immunity-2026-10-10]]
+- **Sources consulted**: 30 cited. Read in full: Sheen, Kemp & Rubin 2001 and 2006 (DukeSpace copies, extracted page by page), García-Carpintero 2024 (*Synthese*), Salje 2025, James 2021, and Pryor 1999 (page-image scan read visually). Read at abstract: Ikier et al. 2003, Küntay et al. 2004, Pillemer et al. 2015, Brown et al. 2015, Gabbert et al. 2003, Jalbert et al. 2021, Lindner et al. 2010 and 2016, Neszmélyi & Pfister 2025, Perrin & McCarroll 2023, Morgan 2024. Metadata only: Michaelian 2021, Fernández 2014/2019/2021, Hamilton 2009, Lin 2020, Bermúdez 2012/2013. Shoemaker 1970 and Evans 1982 were triangulated through three and two secondaries respectively. Every quoted span was substring-checked against the downloaded texts, except Pryor's, which were transcribed from page images.
+- **Verdict**: (iii) undetermined, with determinate conditionals. If immunity is relative to genuine memory (Shoemaker's "full and accurate memory", Fernández, Evans, Morgan), disputed memories fall outside IEM and Shoemaker's de facto claim stands. If it is relative to memory-like seemings (Pryor, Michaelian, García-Carpintero, James), co-witnessed disputes meet Pryor's *wh*-conditions and memory's de facto immunity shrinks to a normal-conditions regularity. The data cannot decide, because Sheen et al. never determined who was right or how each false memory arose. Secure for the Map: felt ownership presents without certifying, now with an actual-world instance. Orthogonal to Dualism.
+- **Recommendation**: a paragraph, not a page. Add disputed memories to `topics/memory-anomalies` as cryptomnesia's converse: +223 words (3,309 → 3,532 of 4,000; headroom 690 before, 467 after), measured on a scratch copy with `analyze_length`, with exact text in the note. No IEM edit (stability cap). The queued quasi-memory L102 P3 wording is confirmed against the full text.
+- **Seams**: García-Carpintero 2024 cites Evans "pp. 144–145", where Pryor n. 43 gives 244–45 (probable misprint; do not propagate). García-Carpintero's reference list titles Morgan 2024 "Memory and identity"; Crossref has "Memory without identity". The brief's "Turkish twins" (Ikier et al.) and "de jure" (Shoemaker) are unverified; secondaries pair "de facto" with "logical". IEM L44's García-Carpintero attribution checked and stands.
+- **Todo**: none written (orchestrator marks the task). Chain: recommend a refine-draft on `topics/memory-anomalies`, not an expand-topic.
 
 ## 00:46 - research-topic
 - **Status**: Success
