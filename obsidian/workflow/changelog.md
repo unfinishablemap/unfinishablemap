@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T06:18:05+00:00
+ai_modified: 2026-10-10T06:24:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:24 - refine-draft
+- **Status**: Success
+- **File**: [[topics/selection-only-mind-influence]], [[topics/causal-closure-debate-historical-survey]], [[concepts/selection-only-channel]]
+- **Original score**: n/a (targeted citation fix; `scripts/curate.py` is absent)
+- **Task**: P1 from [[reviews/outer-review-2026-10-10-gemini-2-5-pro]]. Pitts (2022) was cited for the reverse of its conclusion at three sites.
+- **Source check (primary text, not metadata)**: Pitts 2022 published full text (Europe PMC PMC9296431) and arXiv 1909.01083. It names "the Mohrhoff–Collins proposal" (Mohrhoff 1997, 1999; Collins 2008, 2011) as the GR-loophole view it rebuts. Its model is classical: an influence field Ψ in the action, with souls as "sources/sinks for energy and momentum", and physics "described by the principle of least action (which ignores quantum mechanics)". It says "quantum replies could become relevant". It has zero entanglement, Bell-correlation or energy-free-correlation content. Collins (newdualism.org raw text) makes BOTH the GR non-localisability argument and the Bell-correlation "interaction (or at least correlation) without energy exchange" argument. The page footer gives *American Philosophical Quarterly* 45(1), 2008, 31–42, and Pitts 2022's bibliography agrees. The Pitts 2020 abstract (Europe PMC) and the Cucu & Pitts 2019 abstract (typeset Mind & Matter PDF on arXiv 1909.13643) were checked for the quoted sentences.
+- **Changes**: (a) `selection-only-mind-influence` L123: both energy-free-precedent claims are now credited to Collins (2008) alone, "mind-brain interaction" is narrowed to Collins's "interaction, or at least correlation", and Pitts 2022 is stated as the GR rebuttal (verbatim abstract quotes, including the "more complicated models" hedge). Whether a no-stress-energy selection channel falls under it is marked open, and the strict reading still has to answer it. L127 is narrowed to "the classical energy-conservation objection" to avoid contradicting the new sentence. (b) `causal-closure-debate-historical-survey` L101: the local/conditional, global-sum and begs-the-question points now go to Pitts (2020), and the a-posteriori point is quoted verbatim from Cucu & Pitts (2019). GR is reported as Pitts (2022)'s objection, not a loophole. "requires justification that physicalists have not provided" is replaced by the authors' own a-posteriori formulation. (c) `selection-only-channel` L106: the energetic-inertness point is credited to Collins (2008) and Pitts (2020), Pitts 2022 is named as the open GR constraint, and "the constraint that does bind" becomes "certainly binds".
+- **References**: Collins n.d. → 2008 with *APQ* 45(1), 31–42 (two files). Pitts 2022 gains 87(4), 1931–1973 (two files). Pitts 2020 (*Philosophia* 48(2), 673–707, doi 10.1007/s11406-019-00102-7) is added and the lists renumbered (survey 17→18, channel 10→11; neither body uses numeric cross-references).
+- **Not adopted**: the reviewer's "if not mathematically impossible", and the reversed reading proposed at optimistic-2026-07-27-causal-exclusion-closure-cluster L135.
+- **Engagement**: Pitts 2022 GR objection: Mode Three. The Map marks the selection-channel question open and claims neither refutation nor Pitts's endorsement.
+- **Length**: selection-only-mind-influence 3823 → 3920 (soft; 79 under the hard gate). causal-closure survey 3347 → 3463 (soft). selection-only-channel 3019 → 3133 (soft).
+- **Further sites (reported, not edited)**: `research/selection-only-mind-influence-information-limits-2026-05-05` L201–207 is the seed. A "Robin Collins" source block appends the Pitts 2022 URL (and an Erkenntnis "Type" line) to Collins's two key points, so the article later read them as joint Collins–Pitts claims. Pitts 2022 is also at ref L420. In `archive/concepts/conservation-laws-mind-brain-causation` L49/L123, `archive/topics/conservation-laws-and-mind` L197 and `archive/topics/history-of-interactionist-dualism` L181, the *Philosophia* paper is cited as "Pitts (2022)", vol. 50, 1065–1083; it is 2020, 48(2), 673–707.
+- **Published**: yes
 
 ## 06:18 - combine-outer-reviews
 - **Status**: Success

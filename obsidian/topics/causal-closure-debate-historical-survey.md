@@ -4,7 +4,7 @@ description: "How causal closure evolved from a physics claim into a metaphysica
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-10-01T08:05:32+00:00
+ai_modified: 2026-10-10T06:23:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[the-strong-emergence-of-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-03-19
 last_curated:
 last_deep_review: 2026-07-26T07:33:33+00:00
@@ -98,7 +98,7 @@ Three strands of contemporary philosophical criticism have put pressure on causa
 
 **Montero's definitional challenge.** Barbara Montero (2003) unravelled the multiple principles travelling under the single label "causal closure." She further pressed Hempel's dilemma: if "physical" means what current physics describes, then causal closure looks false (current physics is incomplete). If "physical" means what a future completed physics describes, the claim looks empty — we cannot know whether that physics will include or exclude mental causation. On Montero's analysis, no available definition of "physical" supports causal closure without either circularity or vacuity.
 
-**Lowe's compatibility argument.** E.J. Lowe (2000) argued that standard formulations of causal closure are *consistent* with interactionist dualism. If mental causation operates without energy transfer — influencing outcomes rather than injecting forces — then even the strongest plausible closure principles would leave room for mind-body interaction. Separately, as Pitts (2022) and Cucu and Pitts (2019) have argued, energy is not straightforwardly conserved in general relativity or in the universe as a whole, so insisting on energy conservation specifically for brain processes requires justification that physicalists have not provided.
+**Lowe's compatibility argument.** E.J. Lowe (2000) argued that standard formulations of causal closure are *consistent* with interactionist dualism. If mental causation operates without energy transfer — influencing outcomes rather than injecting forces — then even the strongest plausible closure principles would leave room for mind-body interaction. Separately, Pitts (2020) argues that conservation laws are local and hold only where the relevant symmetries hold, and that constant total energy for the universe as a whole requires the global sum of local conservation laws to converge, which it probably does not. Expecting conservation to hold in the brain without looking therefore assumes that interactionism is false; as Cucu and Pitts (2019) put it, "a decent objection to interactionism should be a posteriori, based on empirically studying the brain." General relativity, on Pitts's analysis, cuts the other way. Against authors who read the non-localisability of gravitational energy as a loophole, Pitts (2022) uses the generalised Bianchi identities to argue that general relativity makes Cartesian mental causation harder, forcing the simplest model of mental influence to vanish, though "the difficulty may diminish for more complicated models."
 
 ## Contemporary Challenges: Physics
 
@@ -159,9 +159,10 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 9. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
 10. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
 11. Papineau, D. (2002). *Thinking about Consciousness*. Oxford University Press.
-12. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
-13. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
-14. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-15. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
-16. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-17. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
+12. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673–707. doi:10.1007/s11406-019-00102-7
+13. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
+14. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3–4), 939–967. doi:10.1007/s11098-025-02290-3
+15. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+16. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
+17. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+18. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/

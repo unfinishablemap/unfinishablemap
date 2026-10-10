@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-09-11 14:04:44+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-10 06:23:50+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 11:52:15+00:00
-lastmod: 2026-09-11 14:04:44+00:00
+lastmod: 2026-10-10 06:23:50+00:00
 modified: *id001
 related_articles:
 - '[[trilemma-of-selection]]'
@@ -124,11 +124,11 @@ The strict reading does not need to take a side on the across-studies pattern. M
 
 ## No-Signalling, Energy Conservation, and the Information-Side Constraint
 
-The strictest selection-only model is *not* primarily constrained by the energy-conservation objection. As Robin Collins and J. B. Pitts have pointed out (Collins, n.d.; Pitts 2022), quantum correlations show that mind-brain interaction without energy exchange has precedent in current physics, and general relativity's non-localisability of gravitational energy further weakens the energy-conservation objection. Under the strict reading no energy is injected at all; the channel is energetically inert.
+The strictest selection-only model is *not* primarily constrained by the energy-conservation objection. Robin Collins (2008) argues that quantum correlations give current physics a precedent for interaction, or at least correlation, without energy exchange, and that general relativity's non-localisability of gravitational energy weakens the objection further. Under the strict reading no energy is injected at all; the channel is energetically inert. J. B. Pitts (2022) disputes the general-relativistic half of Collins's case directly, using the generalised Bianchi identities to argue that general relativity "tends to exclude, not facilitate," Cartesian mental causation: in the simplest model the mental influence "must be spatio-temporally constant, and hence 0", though "the difficulty may diminish for more complicated models." His model is classical, with mind as an added field that sources or sinks energy-momentum. Whether a channel that adds no stress-energy and only selects among Born-weighted outcomes falls under the argument is open, so the strict reading still has to answer it.
 
 The binding constraint is information-theoretic. Han & Choi (2016) show that the Born rule can be *derived* from relativistic causality — "Born rule on quantum measurement is derived by requiring relativistic causality condition" — with causality thereby fixing the upper bound on quantum nonlocality through the probability-assignment rule. Because a different assignment rule changes the amount of nonlocality in quantum correlations, any *systematic* per-trial deviation from Born-rule probabilities is a relativistic-causality problem and not merely a statistical-detectability one. The strict reading buys compatibility with no-signalling at the price of accepting that no effect can ever be visible at the *unconditioned* ensemble level. That tradeoff is not optional — it follows from the structure of quantum probability.
 
-This reframes the metaphysical pressure on Tenet 2. The dualist interface does not need to defend itself against energy-conservation objections at the strict reading; it needs to defend itself against the charge that, by preserving Born statistics, it *cannot make a measurable difference at the unconditioned ensemble level at all*. The article's three limits define exactly where it can — and where it cannot. That charge, pressed as a dilemma about whether ensemble-invisible single-event selection is a genuine channel rather than a hidden idleness, is [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/). With the signed-rate derivation withdrawn, the worry's formal teeth are not a zero-throughput result but the marginal-versus-conditional gap itself: an observer of outcome frequencies alone recovers nothing, however far the mind-conditioned distributions depart from the marginal. That is a claim about what is detectable, and it leaves the epiphenomenalism charge live rather than settled — which is why the tests that bear on the strict reading are conditional residual-structure tests rather than generic Born-frequency tests. [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) develops the resulting trilemma: conditionals that differ, conditionals that never differ, or conditionals that differ yet cancel under a balancing law the framework would then owe.
+This reframes the metaphysical pressure on Tenet 2. The dualist interface does not need to defend itself against the classical energy-conservation objection at the strict reading; it needs to defend itself against the charge that, by preserving Born statistics, it *cannot make a measurable difference at the unconditioned ensemble level at all*. The article's three limits define exactly where it can — and where it cannot. That charge, pressed as a dilemma about whether ensemble-invisible single-event selection is a genuine channel rather than a hidden idleness, is [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/). With the signed-rate derivation withdrawn, the worry's formal teeth are not a zero-throughput result but the marginal-versus-conditional gap itself: an observer of outcome frequencies alone recovers nothing, however far the mind-conditioned distributions depart from the marginal. That is a claim about what is detectable, and it leaves the epiphenomenalism charge live rather than settled — which is why the tests that bear on the strict reading are conditional residual-structure tests rather than generic Born-frequency tests. [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) develops the resulting trilemma: conditionals that differ, conditionals that never differ, or conditionals that differ yet cancel under a balancing law the framework would then owe.
 
 ## Distinguishing Observables
 
@@ -186,11 +186,11 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 
 1. Atmanspacher, H., Römer, H., & Walach, H. (2002). Weak quantum theory: Complementarity and entanglement in physics and beyond. *Foundations of Physics*, 32(3), 379–406.
 2. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. *Psychological Bulletin*, 132(4), 497–523. https://pubmed.ncbi.nlm.nih.gov/16822162/
-3. Collins, R. (n.d.). Modern physics and the energy conservation objection to mind-body dualism. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
+3. Collins, R. (2008). Modern physics and the energy-conservation objection to mind-body dualism. *American Philosophical Quarterly*, 45(1), 31–42. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
 4. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 5. Jahn, R. G., Mischo, J., Vaitl, D., Dunne, B. J., Bradish, G. J., Dobyns, Y. H., Lettieri, A., Nelson, R. D., Boller, E., Bösch, H., Vaitl, D., & Houtkooper, J. (2000). Mind/machine interaction consortium: PortREG replication experiments. *Journal of Scientific Exploration*, 14(4), 499–555.
 6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
-7. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
+7. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*, 87(4), 1931–1973. https://link.springer.com/article/10.1007/s10670-020-00284-7
 8. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
 9. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
 10. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0

@@ -4,7 +4,7 @@ description: "Information-channel framing of selection-only mind-influence: per-
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-10-07T16:36:35+00:00
+ai_modified: 2026-10-10T06:23:50+00:00
 last_deep_review: 2026-09-11T06:11:41+00:00
 draft: false
 topics:
@@ -34,7 +34,7 @@ related_articles:
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-05-11
 last_curated:
 ---
@@ -103,7 +103,7 @@ The selection-only channel is distinct from several related channel types it is 
 
 - **Not a measurement-basis-choice channel.** Stapp's *Process 1* framework licenses mind to choose *which question* the brain asks of nature — the choice of observable or measurement basis (Stapp 2006). This is a richer channel that is not strictly selection-only at the outcome level: it modifies the candidate set itself by selecting the basis that defines it. Stapp explicitly limits the *outcome-level* channel to selection-only: whether the realised answer is 'Yes' or 'No' "is not determined by the agent, who chooses only the question. The answer is picked by 'Nature', in accordance with a specified statistical law" (Stapp 2006). The basis-choice layer above sits outside the selection-only class strictly construed.
 
-- **Not an energy-injection channel.** Because selection acts only on already-generated alternatives, no work is done on the physical system in the thermodynamic sense; no momentum is transferred; no quantity that physics tracks as "energy delivered" is moved across the interface. The channel is energetically inert, which is why the energy-conservation objection to mental causation does not apply to it (Collins n.d.; Pitts 2022). The constraint that does bind is information-theoretic, not energetic.
+- **Not an energy-injection channel.** Because selection acts only on already-generated alternatives, no work is done on the physical system in the thermodynamic sense; no momentum is transferred; no quantity that physics tracks as "energy delivered" is moved across the interface. The channel is energetically inert, so the classical energy-conservation objection to mental causation finds nothing here to violate. Collins (2008) argues that quantum correlations give physics a precedent for interaction, or at least correlation, without energy exchange, and Pitts (2020) that the objection, pressed a priori, begs the question, since conservation holds only where the relevant symmetries hold. General relativity is a separate matter. Pitts (2022) argues that its generalised Bianchi identities force the simplest classical model of mental influence, an added field sourcing energy-momentum, to vanish, though "the difficulty may diminish for more complicated models"; whether a channel that adds no stress-energy falls under that argument is open. The constraint that certainly binds is information-theoretic, not energetic.
 
 - **Not a candidate-generation channel.** Some readings of Stapp's late work and of Penrose-Hameroff Orchestrated Objective Reduction identify consciousness with the candidate-generation event itself. Those channels permit mind to contribute to the alternative set; they are not selection-only.
 
@@ -158,12 +158,13 @@ The Map does not commit to the strict selection-only reading as the only viable 
 ## References
 
 1. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. *Psychological Bulletin*, 132(4), 497–523. https://pubmed.ncbi.nlm.nih.gov/16822162/
-2. Collins, R. (n.d.). Modern physics and the energy conservation objection to mind-body dualism. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
+2. Collins, R. (2008). Modern physics and the energy-conservation objection to mind-body dualism. *American Philosophical Quarterly*, 45(1), 31–42. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
 3. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 4. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
-5. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
-6. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
-7. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
-8. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
-9. Valentini, A. (2002). Signal-Locality and Subquantum Information in Deterministic Hidden-Variables Theories. In T. Placek & J. Butterfield (eds.), *Non-Locality and Modality*, 81–103. Kluwer. https://arxiv.org/abs/quant-ph/0112151
-10. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/
+5. Pitts, J. B. (2020). Conservation laws and the philosophy of mind: Opening the black box, finding a mirror. *Philosophia*, 48(2), 673–707. https://doi.org/10.1007/s11406-019-00102-7
+6. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*, 87(4), 1931–1973. https://link.springer.com/article/10.1007/s10670-020-00284-7
+7. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
+8. Stapp, H. P. (2006). Quantum interactive dualism: An alternative to materialism. *Zygon: Journal of Religion and Science*, 41(3). https://doi.org/10.1111/j.1467-9744.2005.00762.x (preprint: https://www-physics.lbl.gov/~stapp/QID.pdf)
+9. Stapp, H. P. (1993). *Mind, Matter, and Quantum Mechanics*. Springer.
+10. Valentini, A. (2002). Signal-Locality and Subquantum Information in Deterministic Hidden-Variables Theories. In T. Placek & J. Butterfield (eds.), *Non-Locality and Modality*, 81–103. Kluwer. https://arxiv.org/abs/quant-ph/0112151
+11. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/

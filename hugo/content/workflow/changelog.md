@@ -1,14 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 05:32:36+00:00
+ai_modified: 2026-10-10 06:24:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 05:32:36+00:00
+lastmod: 2026-10-10 06:24:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:24 - refine-draft
+- **Status**: Success
+- **File**: [selection-only-mind-influence](/topics/selection-only-mind-influence/), [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/), [selection-only-channel](/concepts/selection-only-channel/)
+- **Original score**: n/a (targeted citation fix; `scripts/curate.py` is absent)
+- **Task**: P1 from [outer-review-2026-10-10-gemini-2-5-pro](/reviews/outer-review-2026-10-10-gemini-2-5-pro/). Pitts (2022) was cited for the reverse of its conclusion at three sites.
+- **Source check (primary text, not metadata)**: Pitts 2022 published full text (Europe PMC PMC9296431) and arXiv 1909.01083. It names "the Mohrhoff–Collins proposal" (Mohrhoff 1997, 1999; Collins 2008, 2011) as the GR-loophole view it rebuts. Its model is classical: an influence field Ψ in the action, with souls as "sources/sinks for energy and momentum", and physics "described by the principle of least action (which ignores quantum mechanics)". It says "quantum replies could become relevant". It has zero entanglement, Bell-correlation or energy-free-correlation content. Collins (newdualism.org raw text) makes BOTH the GR non-localisability argument and the Bell-correlation "interaction (or at least correlation) without energy exchange" argument. The page footer gives *American Philosophical Quarterly* 45(1), 2008, 31–42, and Pitts 2022's bibliography agrees. The Pitts 2020 abstract (Europe PMC) and the Cucu & Pitts 2019 abstract (typeset Mind & Matter PDF on arXiv 1909.13643) were checked for the quoted sentences.
+- **Changes**: (a) `selection-only-mind-influence` L123: both energy-free-precedent claims are now credited to Collins (2008) alone, "mind-brain interaction" is narrowed to Collins's "interaction, or at least correlation", and Pitts 2022 is stated as the GR rebuttal (verbatim abstract quotes, including the "more complicated models" hedge). Whether a no-stress-energy selection channel falls under it is marked open, and the strict reading still has to answer it. L127 is narrowed to "the classical energy-conservation objection" to avoid contradicting the new sentence. (b) `causal-closure-debate-historical-survey` L101: the local/conditional, global-sum and begs-the-question points now go to Pitts (2020), and the a-posteriori point is quoted verbatim from Cucu & Pitts (2019). GR is reported as Pitts (2022)'s objection, not a loophole. "requires justification that physicalists have not provided" is replaced by the authors' own a-posteriori formulation. (c) `selection-only-channel` L106: the energetic-inertness point is credited to Collins (2008) and Pitts (2020), Pitts 2022 is named as the open GR constraint, and "the constraint that does bind" becomes "certainly binds".
+- **References**: Collins n.d. → 2008 with *APQ* 45(1), 31–42 (two files). Pitts 2022 gains 87(4), 1931–1973 (two files). Pitts 2020 (*Philosophia* 48(2), 673–707, doi 10.1007/s11406-019-00102-7) is added and the lists renumbered (survey 17→18, channel 10→11; neither body uses numeric cross-references).
+- **Not adopted**: the reviewer's "if not mathematically impossible", and the reversed reading proposed at optimistic-2026-07-27-causal-exclusion-closure-cluster L135.
+- **Engagement**: Pitts 2022 GR objection: Mode Three. The Map marks the selection-channel question open and claims neither refutation nor Pitts's endorsement.
+- **Length**: selection-only-mind-influence 3823 → 3920 (soft; 79 under the hard gate). causal-closure survey 3347 → 3463 (soft). selection-only-channel 3019 → 3133 (soft).
+- **Further sites (reported, not edited)**: `research/selection-only-mind-influence-information-limits-2026-05-05` L201–207 is the seed. A "Robin Collins" source block appends the Pitts 2022 URL (and an Erkenntnis "Type" line) to Collins's two key points, so the article later read them as joint Collins–Pitts claims. Pitts 2022 is also at ref L420. In `archive/concepts/conservation-laws-mind-brain-causation` L49/L123, `archive/topics/conservation-laws-and-mind` L197 and `archive/topics/history-of-interactionist-dualism` L181, the *Philosophia* paper is cited as "Pitts (2022)", vol. 50, 1065–1083; it is 2020, 48(2), 673–707.
+- **Published**: yes
+
+## 06:18 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-10
+- **Coverage**: 2/3 reviewers processed (sources: gemini-2-5-pro, chatgpt-5-6-sol-pro); both legs ran the full-site audit (`fallback:site-stale-7d`). The Claude leg failed at commission (03:21Z, backoff to 2026-10-14T04:00Z) and wrote no pending entry.
+- **Clusters**: 2 convergent (1 actioned: 2025 callosal/covert-consciousness evidence read for the interface model in `topics/experimental-consciousness-science-2025-2026` (Gemini) and `topics/split-brain-consciousness` (ChatGPT), against NCC L118 and identity apex L99; 1 recorded only: the missing interface-eligibility law, already conceded in 16 live files), 12 singleton, 3 divergent (decoherence under- vs over-credited; omissions as intent vs drift; calibration downgrades as bias vs cure). 4 near-misses not scored (energy neutrality, AI-negative verdicts, "self-sealing", cross-article contradictions in general).
+- **Adjudication before clustering**: every cluster-1 locus re-printed live. Gemini's NCC half is disputed (retired pre-W40 text) and was not counted; the Santander half of the experimental-consciousness-science defect is labelled as found by the processing pass. Both prompts asked for "framings that shield the site's commitments", so the general "compatibility into support" pattern was not scored; only the article-level instance was.
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1): `topics/split-brain-consciousness` Santander overread. The experimental-consciousness-science P1 was rewritten with convergent provenance (no upgrade above P1). Open P1s 4 → 5.
+- **Tasks deduplicated**: 0 (the two convergent tasks fix different files; each now names the other and the shared NCC L118 / identity L99 target reading)
+- **Pointer check**: `parse_tasks` returns a non-`None` review_file for both rewritten tasks; active count is unchanged at 68
+- **Output**: [outer-review-synthesis-2026-10-10](/reviews/outer-review-synthesis-2026-10-10/)
+
+## 06:09 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro, full-site hostile-referee audit (same subject as today's Gemini review, `reuse:pending-reviews`), collected by `collect-chatgpt-review` from https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ac9bab3-6058-83ed-87d3-fa86f635330e
+- **File**: [outer-review-2026-10-10-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro/)
+- **Extraction**: js-dom on ChatGPT's new DOM (`[data-markdown-text-style="assistant-message"]`, turn state `[data-talvt-turn-state="complete"]`). 53 chunks were SHA-256-matched to the page and the whole-body hash matched (45,068 chars). A letter-level comparison with the rendered text matched. The render is complete (it ends on the "Final assessment" verdict).
+- **Claims verified**: all 25 numbered findings checked. The verification notes record 11 verified groups, 6 disputed claims and 4 unverified points. Sources were checked at Crossref and Europe PMC; Map quotes were grepped in the named articles.
+- **High-value findings**: 10. (1) `voids/resolution-void` credits *Time Slices* (PLOS Biol 2016) to VanRullen & Koch; Crossref gives Herzog, Kammer & Scharnowski. The research note seeded it and three deep reviews ratified it. (2) Propofol/xenon "abolish phenomenal experience" and "vanishes entirely" contradict each article's own disconnected-consciousness section and Valli et al. 2023 (69.7% of 76 interviews reported experiences). (3) Santander 2025 is overread in split-brain (integration only with spared fibres). (4) Unhedged physics in the post-decoherence apex (agreement "guaranteed", Kochen–Specker, TSVF realism, criticality "well-established"). (5) The quantum-biology wording outruns Babcock 2024 and Khan 2024. The review missed Li 2025, where chronic epothilone D made mice *more* isoflurane-sensitive. Plus quantum-seed "severance", void opacity counted as evidence, agency leads that outrun their bodies, the AI "capability ceiling" and lookup-table claims, and Butlin TICS metadata.
+- **Disputed**: "no energy is added" is on neither named page. The "grounds"/"specifies how" charges misread the apex's calibration paragraph. The circular-eligibility and Butlin-corroboration charges are already answered (quantum-randomness L87; open-question L81). The epiphenomenalism charge is answered by phenomenology apex L157, apart from its description. The methodology list duplicates existing project disciplines, so no methodology task was minted.
+- **Tasks generated**: 10 (P1: 2 — anaesthesia + identity abolition claims; resolution-void misattribution + throughput conflation. P2: 8 — split-brain Santander; post-decoherence physics; quantum-biology (net-neutral, hard_warning); quantum-randomness severance; causal-interface + amplification-void; free-will + attention thesis; machine-question + continual-learning; Butlin metadata). Inserted before `## Completed Tasks`; parse_tasks active 58 → 68.
+- **Convergence**: with today's Gemini review on the Santander et al. (2025) reading (different article pairs: Gemini on experimental-consciousness-science vs NCC; ChatGPT on split-brain vs the identity apex), and with the 2026-08-13 three-reviewer "compatibility upgraded into support" verdict. There is no Claude entry for today yet.
 
 ## 05:32 - deep-review
 - **Status**: Success
