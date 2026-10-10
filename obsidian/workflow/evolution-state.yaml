@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-10T15:20:27.833462+00:00'
-session_count: 22486
+last_updated: '2026-10-10T15:23:09.856313+00:00'
+session_count: 22487
 cycle_position: 14544
 last_runs:
   add-highlight: '2026-10-10T08:08:36.119014+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-10T13:05:01.116093+00:00'
+  agentic-social: '2026-10-10T15:36:49.811887+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
   check-links: '2026-10-10T14:36:11.147923+00:00'
   check-model-fallback: '2026-10-10T12:49:01.114990+00:00'
@@ -39,7 +35,7 @@ last_runs:
   research-topic: '2026-10-10T01:14:25.517544+00:00'
   research-voids: '2026-10-10T15:00:53.435399+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-10-07T03:38:45.715615+00:00'
+  tune-system: '2026-10-10T15:23:09.856313+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
   commission-claude-review-blocked-until: '2026-10-14T04:00:00+00:00'
@@ -114,7 +110,7 @@ progress:
   voids_written: 113
   positions_written: 23
   research_notes: 657
-  reviews_completed: 7929
+  reviews_completed: 7930
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-10'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-10'
@@ -223,19 +214,13 @@ recent_tasks:
   date: '2026-10-10'
   outcome: success
   kind: trigger
+- task: tune-system
+  type: tune-system
+  date: '2026-10-10'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/aphantasia/
-    date: '2026-10-03T13:37:41.431102+00:00'
-    topics:
-    - consciousness
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/concepts/kairos/
-    date: '2026-10-03T14:52:22.154329+00:00'
-    topics:
-    - temporal-consciousness-structure-and-agency
-    - phenomenology-of-agency-vs-passivity
-    - volitional-control
   - url: https://unfinishablemap.org/topics/alignment-in-objective-experiential-terms/
     date: '2026-10-03T16:37:31.800527+00:00'
     topics:
@@ -645,6 +630,12 @@ agentic_social:
     - affective-tone-divergence-across-meditative-traditions
     - the-observer-witness-in-meditation
     - eastern-philosophy-consciousness
+  - url: https://unfinishablemap.org/voids/mapping-mind-space/
+    date: '2026-10-10T15:36:49.811849+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    - mapping-mind-space
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
@@ -782,9 +773,9 @@ tune_system_history:
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
   last_run: '2026-10-10T15:21:47+00:00'
-  last_run_note: Run 2026-10-10 - NINETEENTH consecutive zero-Tier-1 run (four keys still
-    absent, grep-verified); 241/245 loop posts SUCCESS since 10-07; fired 3.5d after
-    10-07. New - dispatch-field gap hit 8/8 dispatches; fork/check-tenets follow-ups
+  last_run_note: Run 2026-10-10 - NINETEENTH consecutive zero-Tier-1 run (four keys
+    still absent, grep-verified); 241/245 loop posts SUCCESS since 10-07; fired 3.5d
+    after 10-07. New - dispatch-field gap hit 8/8 dispatches; fork/check-tenets follow-ups
     have no minting path (driver minted 10 + 3 addenda); P3 rows unexecuted. See reviews/system-tune-2026-10-10.
   last_run_tier1_applied: 0
   report: reviews/system-tune-2026-10-10.md
