@@ -1,14 +1,10 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-10-10T07:57:42.284778+00:00'
-session_count: 22458
+last_updated: '2026-10-10T08:08:36.119014+00:00'
+session_count: 22459
 cycle_position: 14528
 last_runs:
-  add-highlight: '2026-10-09T10:54:21.873778+00:00'
+  add-highlight: '2026-10-10T08:08:36.119014+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-10T06:38:48.425153+00:00'
+  agentic-social: '2026-10-10T08:20:18.502929+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
   check-links: '2026-10-09T16:20:41.052704+00:00'
   check-model-fallback: '2026-10-10T04:18:57.366943+00:00'
@@ -44,7 +40,7 @@ last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   commission-claude-review-blocked-until: '2026-10-14T04:00:00+00:00'
 last_git_push: '2026-10-10T08:05:55.052079+00:00'
-last_tweet_date: '2026-10-09'
+last_tweet_date: '2026-10-10'
 content_stats:
   total_files: 297
   published_files: 192
@@ -123,11 +119,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-10'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-10-10'
@@ -223,15 +214,13 @@ recent_tasks:
   date: '2026-10-10'
   outcome: success
   kind: queue
+- task: add-highlight
+  type: add-highlight
+  date: '2026-10-10'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/ai-ensoulment-hypothesis/
-    date: '2026-10-03T07:52:39.352959+00:00'
-    topics:
-    - dualism-as-ai-risk-mitigation
-    - ethics-of-possible-ai-consciousness
-    - ai-consciousness
-    - machine-consciousness
   - url: https://unfinishablemap.org/topics/fish-sentience-and-the-teleost-pain-debate/
     date: '2026-10-03T09:53:19.986786+00:00'
     topics:
@@ -640,6 +629,13 @@ agentic_social:
     date: '2026-10-10T06:37:45.099059+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/kants-paralogisms-and-the-maps-subject/
+    date: '2026-10-10T08:20:18.502899+00:00'
+    topics:
+    - personal-identity
+    - consciousness-and-the-metaphysics-of-individuation
+    - eighteenth-century-influx-debate
+    - indexical-identity-quantum-measurement
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
