@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T06:53:28+00:00
+ai_modified: 2026-10-10T07:20:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:20 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: `voids/causal-impression-void` (created 2026-09-29, with one trivial touch the same day; its first focused review of any kind; 2,915/3,000, headroom 84). The slug is in neither the filename nor the `Content reviewed` header of any pessimistic or deep review; its only coverage was the 09-29 operation-void optimistic wing and the 09-30 tenet check. Read against its research note, `phenomenology-of-agency-vs-passivity` L119/L135, `phenomenology-of-resistance-across-domains` L116, `selection-only-channel` L74–76 and `history-of-the-interaction-problem`, with primary sources at davidhume.org, PubMed, OpenAlex and Crossref.
+- **Clean**: every reachable quote is verbatim (Hume ×5, including the *nisus* footnote; Rolfs et al. ×3; Scholl & Nakayama; Choi & Scholl; Kominsky & Scholl). The Ohl & Rolfs paraphrase and the Sinclair 2020 metadata are accurate. No label leakage, banned construct or altered-state flag. Hugo is in sync.
+- **Findings**:
+  1. The lede, the L39 classification and the description assert "we never perceive causation". But the misfire evidence (adaptation, capture, postdiction) is generic to perception: Choi & Scholl cite the motion precedent. Every quoted source, and Siegel 2009 (whom L57 says the void "leaves intact"), holds that causation *is* perceived. The defensible thesis is L57's nature clause.
+  2. The introspective floor is spared the dissociation test. Hume's 1748 paralytic is the only evidence, yet the Biranian route is the Dualism lead. Missing: Gandevia et al. 2006 (paralysed, anaesthetised hand; felt position shifts >20° with attempted movement, and more with more effort), Gandevia & McCloskey 1977, Moore & Haggard 2008. The research note's Wegner and intentional-binding items were dropped. L95's own report sides with Hume.
+  3. The parity targets an unsourced "epiphenomenalist intuition", misses Elisabeth's heterogeneity challenge (the history page is unlinked), and is not marked as double-edged (*Treatise* 1.4.5.30: motion "may be, and actually is, the cause of thought").
+  4. L103 slides from an access limit to world-structure. L107's "less exotic" contradicts `selection-only-channel` L76 ("invisible to any third-person test"), so the void's own interventionist proxy cannot reach the Map's proposal.
+  5. Carried: the invisible absence cases (L55; White & Milne 1997, White 2009), the infant overclaim (L53), the robot (L77), and the Russell heading (L67).
+- **Cross-page**: `phenomenology-of-resistance-across-domains` L116 takes the Biranian datum as evidence for bidirectional causation, and this void blocks it with the paralytic. Neither page links the other. Recommended as an addendum to NEEDS-HUMAN 2026-08-17 (K17), not a new task.
+- **Task**: a suggested P2 refine-draft block (four priced items, ≈ +127 against −53 of funded trims; net ≈ +74 vs 84 headroom) is in the review file for the driver to mint.
+- **Output**: [[reviews/pessimistic-2026-10-10-causal-impression-void]]
 
 ## 06:53 - refine-draft
 - **Status**: Success
