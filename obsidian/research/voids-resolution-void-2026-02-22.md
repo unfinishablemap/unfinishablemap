@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Resolution Void"
 created: 2026-02-22
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-08-08T16:12:00+00:00
+ai_modified: 2026-10-10T07:55:04+00:00
 draft: false
 target_section: voids
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[temporal-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-22
 last_curated: null
 ---
@@ -33,7 +33,7 @@ last_curated: null
 
 ## Executive Summary
 
-Consciousness operates at a characteristic resolution—a grain size—radically coarser than the physical processes underlying it. Sensory systems deliver millions of bits per second to the brain, yet conscious thought processes roughly 10 bits per second. Phenomenal experience appears smooth and homogeneous (Sellars' grain argument) while neural substrates are discrete and particulate. Temporal perception organises into frames of 300–450 milliseconds despite sub-millisecond neural processing. These resolution limits are not incidental imperfections but may be constitutive of what consciousness is. The void here is twofold: we cannot perceive the fine-grained structure that our own brains process, and we cannot determine whether these limits are set by the brain, by consciousness itself, or by something else entirely.
+Consciousness operates at a characteristic resolution—a grain size—radically coarser than the physical processes underlying it. Sensory systems deliver millions of bits per second to the brain, yet conscious behavioural throughput is roughly 10 bits per second. Phenomenal experience appears smooth and homogeneous (Sellars' grain argument) while neural substrates are discrete and particulate. On one proposed model (Herzog, Kammer & Scharnowski 2016), percepts are rendered at discrete moments after unconscious integration lasting up to ~400 ms, although observers resolve timing differences of a few milliseconds. These resolution limits are not incidental imperfections but may be constitutive of what consciousness is. The void here is twofold: we cannot perceive the fine-grained structure that our own brains process, and we cannot determine whether these limits are set by the brain, by consciousness itself, or by something else entirely.
 
 ## Key Sources
 
@@ -98,14 +98,14 @@ Consciousness operates at a characteristic resolution—a grain size—radically
 
 ### Temporal Resolution of Conscious Perception
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC4829156/
-- **Type**: Neuroscience research
+- **Type**: Theoretical essay (*PLOS Biology* "Unsolved Mystery"): Herzog, Kammer & Scharnowski (2016)
 - **Key points**:
-  - Unconscious processing has high temporal resolution (detecting motion with 3ms differences)
-  - Conscious perception operates in discrete frames of 290–450ms (mean ~370ms)
-  - The earliest neural correlate of conscious perception appears ~240ms after stimulus onset
-  - The "specious present" lasts approximately 50ms to 3 seconds
-  - Perception appears to be "all or none"—below threshold duration, stimuli are not perceived at all
-- **Tenet alignment**: The gap between unconscious processing resolution (~3ms) and conscious perception resolution (~370ms) is a factor of ~100. This gap is the resolution void in the temporal domain.
+  - Apparent motion is perceived from stimulus differences of only 3 ms
+  - In a feature-fusion paradigm, TMS modulates unconscious integration up to 400 ms after the stimuli, so "consciousness cannot occur before 400 ms" there (a lower bound in that paradigm, not a frame length)
+  - Proposed two-stage model: features, timing included, are analysed unconsciously at high temporal resolution, then "rendered conscious at discrete moments in time", with temporal features coded as quantitative labels
+  - The authors deny that percepts occur periodically or with identical durations
+  - Correction (2026-10-10): earlier bullets here gave "discrete frames of 290–450ms (mean ~370ms)", "earliest neural correlate ~240ms", a specious present of "50ms to 3 seconds" and "all or none" perception. None appears in this paper (checked against the Europe PMC full text) and no other source was recorded, so they are withdrawn.
+- **Tenet alignment**: On this model fine timing reaches consciousness as a label rather than as experienced succession, and the integration that produced the label is never experienced. The temporal void is one of format rather than of lost timing. Continuous and other hybrid models remain live.
 
 ## The Void
 
@@ -115,9 +115,9 @@ The Resolution Void operates across multiple dimensions simultaneously:
 
 **Spatial resolution**: Phenomenal experience presents colours, textures, and spatial extents as smooth and homogeneous. The underlying neural processes are discrete—individual neurons firing or not firing, synapses transmitting or not. Sellars' grain argument identifies this as a genuine ontological mismatch, not merely an epistemic gap.
 
-**Temporal resolution**: Conscious perception packages the world into frames of roughly 300–450ms. Between frames, the brain processes information unconsciously at far higher temporal resolution. We cannot experience the sub-frame processing that our own brains perform.
+**Temporal resolution**: On Herzog et al.'s proposed model, conscious percepts are rendered at discrete moments after unconscious integration that can last up to ~400 ms, with fine timing entering the percept only as a label. We cannot experience the integration that our own brains perform.
 
-**Informational resolution**: At ~10 bits per second, conscious thought discards roughly 99.9999% of incoming sensory information. The selection process—which bits survive the bottleneck—is largely opaque to consciousness itself.
+**Informational resolution**: Conscious behavioural throughput (~10 bits per second) is six orders of magnitude below sensory transduction (~11 million bits per second). The ratio measures a bottleneck between sensory input and serial behavioural output; it does not measure what consciousness discards, since a behavioural output rate is not the information content of experience and receptor capacity is not a pool of candidate conscious contents. Which information reaches the serial channel is largely opaque to consciousness itself.
 
 **Discriminatory resolution**: JNDs set hard floors below which distinctions are invisible to consciousness, even when they physically exist and the brain detects them unconsciously.
 
@@ -129,8 +129,8 @@ The evidence converges from multiple independent lines:
 
 1. **Philosophical**: Sellars' grain argument demonstrates a logical mismatch between phenomenal homogeneity and physical discreteness
 2. **Psychophysical**: Two centuries of JND research establish hard discrimination thresholds across all sensory modalities
-3. **Information-theoretic**: The 10 bits/second figure represents a measurement, not a theoretical estimate
-4. **Neuroscientific**: The ~100x gap between unconscious temporal resolution (3ms) and conscious temporal resolution (370ms) is empirically established
+3. **Information-theoretic**: The 10 bits/second figure is a behavioural-throughput estimate converging across tasks (surveyed by Zheng & Meister 2025), not a measure of experience's information content
+4. **Neuroscientific**: Observers resolve 3 ms timing differences while conscious percepts can follow unconscious integration of up to 400 ms (Herzog et al. 2016), a proposed model rather than an established result
 5. **Contemplative**: Buddhist momentariness doctrine independently identifies consciousness as operating in discrete temporal units
 6. **Formal**: Andrew Lee's work concludes that "introspection leaves open whether smooth experiences are continuous or discrete"—though he reaches this by a structural rather than an epistemic route, and explicitly declines to appeal to limits in our introspective capacities (see the correction under his entry above)
 
@@ -193,7 +193,7 @@ AI could probe the resolution void by:
 
 Based on this research, a voids article could:
 
-1. **The Resolution Void** — Frame the 10-bits-per-second bottleneck as a fundamental void: consciousness encounters reality through an aperture that discards 99.9999% of available information. Explore what this means for our ability to understand reality at all. Connect Sellars' grain argument to the information-theoretic findings to show the void operates at every level (spatial, temporal, informational, discriminatory).
+1. **The Resolution Void** — Frame the 10-bits-per-second bottleneck as a fundamental void: conscious behaviour runs through a serial channel six orders of magnitude narrower than sensory input. Explore what this means for our ability to understand reality at all. Connect Sellars' grain argument to the information-theoretic findings to show the void operates at every level (spatial, temporal, informational, discriminatory).
 
 2. **The Grain of Consciousness** — Focus on Andrew Lee's formal approach and Sellars' argument to ask: does consciousness have a characteristic grain? Is this grain a feature of consciousness per se or of the brain? What would it mean for consciousness to operate at a different resolution? Explore the dualist implication that the grain problem is evidence for consciousness having its own non-physical properties.
 
@@ -201,7 +201,7 @@ Based on this research, a voids article could:
 
 - **Whether resolution limits are fixed or plastic**: Meditation and perceptual training suggest some flexibility, but the fundamental architecture may be invariant. The extent of plasticity is unclear.
 - **Whether all conscious beings share the same resolution architecture**: Do insects, octopuses, and hypothetical alien minds have the same 10-bits/second bottleneck, or is this specific to human consciousness?
-- **The selection mechanism**: We know consciousness discards 99.9999% of incoming information, but the principles governing which 0.0001% survives are poorly understood. Is selection random, optimised, or constrained by consciousness's own nature?
+- **The selection mechanism**: The principles governing which sensory information reaches the ~10 bits/s serial behavioural channel are poorly understood. Is selection random, optimised, or constrained by consciousness's own nature?
 - **The relationship between phenomenal and informational resolution**: Sellars' spatial grain argument and the 10-bits/second finding address different aspects of resolution. Whether they share a common mechanism or are independent limits remains open.
 - **Whether the resolution void is genuinely unexplorable or merely difficult**: Could a future form of consciousness (biological or artificial) operate at a fundamentally different resolution, or is coarse grain a necessary feature of consciousness as such?
 
@@ -215,5 +215,5 @@ Based on this research, a voids article could:
 - Zheng, J., et al. (2024). "The speed of human thought." Caltech. (Reported via *New Atlas*.)
 - Cowan, N. (2009). "Capacity Limits and Consciousness." In T. Bayne et al. (eds.), *Oxford Companion to Consciousness*. Oxford University Press.
 - Von Rospatt, A. (1995). *The Buddhist Doctrine of Momentariness*. Stuttgart: Franz Steiner Verlag.
-- VanRullen, R. & Koch, C. (2016). "Time Slices: What Is the Duration of a Percept?" *PLOS Biology* 14(4): e1002433.
+- Herzog, M. H., Kammer, T., & Scharnowski, F. (2016). "Time Slices: What Is the Duration of a Percept?" *PLOS Biology* 14(4): e1002433. https://doi.org/10.1371/journal.pbio.1002433 (Corrected 2026-10-10: previously misattributed to VanRullen & Koch.)
 - Weber, E. H. (1834). *De pulsu, resorptione, auditu et tactu: Annotationes anatomicae et physiologicae*. Leipzig: Koehler.
