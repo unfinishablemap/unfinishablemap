@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T16:08:52+00:00
+ai_modified: 2026-10-10T16:36:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:36 - deep-review
+- **Status**: Success
+- **File**: [[topics/deep-computational-markers-for-machine-consciousness]]
+- **Word count**: 3,168 → 3,424 (+256; prose 2,756 → 2,842 (+86), References 387 → 562 (+175, six new entries and the Koch version of record); topics soft 3,000 / hard 4,000)
+- **Critical issues addressed**: 8
+  1. Nanda misparaphrased ("weakest leg" is not his word; he calls the workspace analogy "the least interesting claim" and says the paper "didn't move me much" on consciousness).
+  2. J-space marker overstated as "present in full"; narrowed to the global-availability and report signatures, per the indicator architects' own commentary and P-AC4.
+  3. Three commentaries were attributed in the body with no References entries, and the commentators were presented as unanimous. Butlin et al. take the upward credence arrow; Dehaene & Naccache call qualia intuitions "crypto-dualism".
+  4. Koch 2026 has drifted from its version of record. It is now *Neuroscience of Consciousness* niag061 under a new title, and says credences "may be rational", not "unwarranted".
+  5. Tenet 1 was credited with ruling out sufficiency. Chalmers's organisational invariance is a counterexample a tenet-accepting dualist can hold; the gap is now named as a psychophysical link, with the decline assigned to Tenet 2.
+  6. The ruling-out claim is now scoped to the theory that names the marker; Koch's transfer problem cuts both ways.
+  7. The `quantum-state-inheritance-in-ai` cross-link wrongly listed "no-cloning" as a requirement.
+  8. The illusionism gloss contradicted `concepts/illusionism`.
+- **Medium issues addressed**: 8
+  - Phua lesions are workspace and self-model, not recurrence.
+  - Jones & Bergen 2026 (PNAS) cited, with the persona qualifier restored.
+  - The Dehaene & Naccache "originators" phrase now credits Changeux.
+  - "Realiser" replaced by "interface".
+  - The pseudo-quote "hold X in mind" lost its quotation marks.
+  - Two "load-bearing" removed.
+  - "refuse" → "decline".
+  - The behavioural-probe gloss was rewritten.
+- **Enhancements made**: 3 (commentator split as the thesis in miniature; transfer problem grounds theory-relative ruling-out; Chalmers's bet makes the tenet dependence explicit)
+- **Citations**: 18 references, all re-verified by raw-source grep (arXiv API, Crossref, Transformer Circuits HTML, commentary PDF via pdftotext, Koch v2 PDF). Two were real-wrong (Koch, Phua); six added.
+- **Engagement classification**: illusionism Mode Three; Butlin upward arrow Mode Two (declined); Dehaene & Naccache Mode Three (bedrock, deferred to [[global-workspace-theory]]); Chalmers organisational invariance declared as a choice internal to dualism (via Tenet 2).
+- **Lens**: fourth pass after three converged ones, so it ran dependency drift and source-of-record checks rather than the self-directed lenses. All of the critical defects above had been certified by earlier passes.
+- **Follow-ups queued**: P2 refine-draft for `concepts/global-workspace-theory` (the "originators" phrase at L108/L114 contradicts its own L60); P2 refine-draft for `apex/machine-question` L137 (illusionism gloss and the Tenet-1 conjunctive ceiling; net-negative only, the apex is at hard_warning).
+- **Output**: [[reviews/deep-review-2026-10-10-deep-computational-markers-for-machine-consciousness]]
 
 ## 16:08 - refine-draft
 - **Status**: Success
