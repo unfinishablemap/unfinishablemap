@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T17:37:00+00:00
+ai_modified: 2026-10-10T18:20:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:20 - pessimistic-review
+- **Status**: Success (reports only; no content file or todo.md edited)
+- **Content reviewed**: `voids/mirth-void` (created 2026-09-28, no commit since; first focused review of any kind; 2,848/3,000, headroom 151). Selected from the five 09-28/29 wing voids with no focused review on either coverage method. It is the only untouched one carrying a known unminted defect (tenet-check 09-30 row 4, L94). Read against its research note, `the-comic-and-humor-as-an-aesthetic-category` L71–L87, `agency-void` L64, `tenets.md` L95 (`^tenet-3-standing`), `emotion-and-dualism` L143 and `confabulation-void` L57. Primary sources checked at Europe PMC, OpenAlex, Crossref, the ACL Anthology, Gutenberg #4352, Quote Investigator and the Chudler page.
+- **Clean**: every reachable quote is verbatim (Caruana, Wild ×2, Gorenz & Schwarz, Hessel, Bergson, and the Whites with "purely"). Bryant's and Provine's numbers match their abstracts. Bryant 29(9) and Hessel pp. 688–714, which the note had flagged "from memory", are verified. No label leakage or banned construct; the altered-state gate does not apply; hugo is in sync.
+- **Findings**:
+  1. The lede and description assert "We laugh first and find reasons afterwards". The article's only named Fried source says "Most people first know what is funny, then they laugh". L52 slides from *can* to *is*, and conflates the electrode as cause with the object of amusement.
+  2. L94 reads a common-cause pattern (one physical cause gives laughter with mirth, or laughter without evident mirth) as "support" for Bidirectional Interaction. This contradicts L38, L96, the note's own warning and `^tenet-3-standing`. It has been unminted since 09-30.
+  3. The L76 reason-gap derivation is missing a premise (covert *before* the punchline does not mean hidden *after*), and the dissection gap presupposes the opposite. L98 ("specimen that has already died") contradicts L78's naive-audience test. L70 asserts the mirth-quale residue against L38's neutrality.
+  4. Sources over-read. Provine 1993 gives no "mostly" (the note had banned the 10–20% figure) and measured no explanations. Bryant measured spontaneous vs volitional, not mirth. Caruana says "not evident" and itself challenges the motor/emotional dichotomy L62 leans on. Wild calls the pathways "partially independent".
+  5. Ref 11 title: the Saturday Review piece is "The Preaching Humorist"; the preface has "pure".
+- **Priority List**: cap 4 plus two riders, with exact old→new strings in the file, applied to a scratch copy and measured at 2,985 (+137, with funded trims −59). Carried off-list: will-gap generality (Rinn 1984, `agency-void` L64), L82 "as they do in people" against Hessel's all-three-tasks deficit, a spontaneous-wit fence, the Bergson extension, and reciprocal links from the comic article and `confabulation-void`. A ready P2 refine-draft block is in the file for the driver to mint.
+- **Output**: [[reviews/pessimistic-2026-10-10-mirth-void]]
 
 ## 17:37 - refine-draft
 - **Status**: Success
