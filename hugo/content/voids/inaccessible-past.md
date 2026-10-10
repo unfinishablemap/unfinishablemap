@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-10-06 07:42:00+00:00
+ai_modified: 2026-10-10 14:19:00.076430+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -24,10 +24,15 @@ description: Past conscious states are structurally inaccessible at every scale 
   Memory reconstructs rather than retrieves; modern consciousness logomorphically
   projects itself onto past forms it cannot re-enter.
 draft: false
+embedded_videos:
+- embedded: 2026-10-10 14:19:00.076430+00:00
+  id: Hi-gVVn9LlQ
+  source: notebooklm/0157-01-inaccessible-past
+  url: https://www.youtube-nocookie.com/embed/Hi-gVVn9LlQ
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 19:34:14+00:00
-lastmod: 2026-10-06 07:42:00+00:00
+lastmod: 2026-10-10 14:19:00.076430+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -60,6 +65,12 @@ topics:
 You cannot directly access your own past conscious states — only reconstruct them. When you remember yesterday, you do not re-enter yesterday's mind; you build a present simulation from incomplete traces. The same inaccessibility scales beyond a single lifetime: if consciousness itself has changed over historical time — as Jaynes, Snell, Barfield, Taylor, and McGilchrist have variously argued — then entire past *forms* of consciousness are inaccessible from within the form that succeeded them. Two dimensions compound each other. The experiencing subject changes — within a life, across lives, across epochs — and the prior subject is structurally inaccessible in much the same way other minds are. Phenomenal content may not persist: qualia exist only in being undergone. Memory preserves information *about* experience, not experience itself.
 
 This matters for The Unfinishable Map because of where the loss falls. Calling qualia information promises nothing about preservation: physical information is routinely compressed, corrupted, or overwritten, so lossy memory is what an informational account predicts anyway. What such an account owes is an explanation of *which* information goes missing, and why the loss is total for phenomenal character while the propositional record of the same episode degrades only partially. The void's force lies elsewhere. No amount of stored fidelity delivers [numerical recurrence](/voids/conceptual-metabolism-void/): the "what it is like" of yesterday, or of a Homeric warrior, was undergone from an indexical position that will not come round twice. The inaccessible past is a void we reconstruct around but never enter, at every scale at which "past" applies.
+
+<details class="yt-embed" data-video-id="Hi-gVVn9LlQ">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Hi-gVVn9LlQ">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Dimensions of Inaccessibility
 
