@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 18:37:15+00:00
+ai_modified: 2026-10-10 19:19:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 18:37:15+00:00
+lastmod: 2026-10-10 19:19:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 19:19 - deep-review
+- **Status**: Success
+- **File**: [organizational-invariance](/concepts/organizational-invariance/)
+- **Word count**: 2,521 → 2,533 (+12; soft_warning, length-neutral mode)
+- **Critical issues addressed**: 3. (1) The Mogensen 2025 n. 18 sentence, inserted by the 2026-10-03 anton expand-topic as a secondary host, had the quoted "this profile" pointing at Chalmers' unimpaired-rational-system restriction and had dropped "significantly" and the possibility/actuality contrast. Realigned with the primary host. n. 18 was verified against the *Synthese* text (GPI preprint: n. 16, different closing wording). (2) The Relation section said Chalmers "concedes organization must be specified at some level of detail". Chalmers 1995 fixes the grain "fine enough to determine a system's behavioral dispositions" (raw-text grep). The misdescription hid an internal contradiction: L80/L82 "never a genuine fine-grained isomorph" against L84 type/token "not organizational … Chalmers' isomorph can reproduce the organization" against L90 "organizationally incomplete". Restated as a dispute over where Chalmers sets the grain, and the type/token rescue now says it does not recover the introspection-preserving virtue. This weakens the claim; nothing is strengthened. (3) The Further Reading haecceity gloss "ground for rejecting invariance" contradicted the body; invariance concerns qualitative identity, which haecceity grants.
+- **Medium issues addressed**: 4. Chalmers' own 1995 reply to the substrate-realizability objection added (verbatim). The stale "A third line" made "A fourth line". The invented quotation "the red is as bright as ever" removed (0 hits in Chalmers 1995). The false "That charge motivates the Map's third tenet" removed.
+- **Enhancements made**: 2. Chalmers' grain is now given in his own words. The type/token cost is stated explicitly.
+- **Citations**: per-cite ledger in the review. 7 Chalmers 1995 quotations are raw-text verbatim. Mogensen 2025 (Crossref + *Synthese* n. 18 + GPI PDF grep): real-correct. Carried: Chalmers 1996, van Heuveln et al. 1998, Schwitzgebel 2010. Currency sweep 0.
+- **Reasoning-mode classification**: engagement with Chalmers reclassified from Mode One to Mixed with a Mode Three core. By Chalmers' stated behaviour-fixing grain, the type/token silicon system IS an isomorph, so the reply contests his criterion rather than applying it. Engagements with Schwitzgebel, Mogensen and van Heuveln are expository. Label leakage: clean.
+- **Dependency drift**: [P-Q3](/positions/quantum-interface/#p-q3) (08-24) and [P-Q9](/positions/quantum-interface/#p-q9) (09-09) moved, but the article stays within them. The 08-22 sibling task (psychophysical-laws L100 zombie grounds) was verified done.
+- **Tasks minted**: 2 × P2 refine-draft. (a) `concepts/inverted-qualia` L136/L138, the same contradiction (length-blocked at 3,438/3,500). (b) The haecceity-against-invariance string siblings at psychophysical-laws L273 and psychophysical-laws-bridging-mind-and-matter L236, plus the zombie-grounds conflation at bridging L69. parse_tasks active count 72 → 74.
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Synced**: hugo tree verified (new strings present, old gloss absent)
+- **Output**: [deep-review-2026-10-10-organizational-invariance](/reviews/deep-review-2026-10-10-organizational-invariance/)
 
 ## 18:37 - refine-draft
 - **Status**: Success
