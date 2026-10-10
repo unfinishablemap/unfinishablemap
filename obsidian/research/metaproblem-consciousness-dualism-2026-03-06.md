@@ -3,7 +3,8 @@ title: Research Notes - The Metaproblem of Consciousness Under Dualism
 created: 2026-03-06
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-10-10T05:10:46+00:00
 ---
 
 # Research: The Metaproblem of Consciousness Under Dualism
@@ -79,7 +80,7 @@ The metaproblem of consciousness, introduced by David Chalmers in 2018, asks why
   - Four studies found problem intuitions are not widespread among ordinary people
   - When problem intuitions arise, they correlate with factors unrelated to the nature of consciousness
   - Challenges the assumption that the hard problem is universally compelling
-  - Suggests problem intuitions may reflect philosophical training or cultural framing rather than direct insight
+  - The significant predictors were participants' ratings of the relevant science's quality and completeness; reflection and inward thinking were non-significant, and philosophical training and cultural framing were not tested (corrected 2026-10-10; see Empirical Status of Problem Intuitions below)
 - **Tenet alignment**: Mixed. Could challenge dualism (if problem intuitions are culturally acquired, they may not track reality). But could also support Occam's Razor Has Limits tenet (folk intuitions aren't reliable guides to metaphysical truth either way)
 
 ### Graziano, M.S.A. — Attention Schema Theory
@@ -145,7 +146,7 @@ The metaproblem of consciousness, introduced by David Chalmers in 2018, asks why
 - **Current state**: The interactionist response is under-explored in the literature. Most discussion assumes epiphenomenalism or property dualism where the zombie argument is sharper.
 
 ### Empirical Status of Problem Intuitions
-- **Sides**: Chalmers treats problem intuitions as widespread and robust. Diaz's empirical work suggests they are not universal and may reflect philosophical training.
+- **Sides**: Chalmers treats problem intuitions as widespread and robust. Díaz's four studies (2021, *JCS* 28(3–4)) found they are not widespread among ordinary people—participants accepted the reduction of pain to neural activity about as readily as the reduction of water to H2O—and that where they did arise, the predictor was participants' judgment that the relevant neuroscience was poor or incomplete: in Study 2b the significant predictors were Science Quality (β = −.354, p < .001) and Science Completeness (β = −.178, p = .046) ratings, while Reflection and Inward Thinking were non-significant. Philosophical training and culture were not tested. (Corrected 2026-10-10 from "may reflect philosophical training", which the paper never tested; the article was corrected on 2026-10-07. Source read: the PhilArchive preprint DAZDPT, via a Wayback copy.)
 - **Core disagreement**: Whether problem intuitions are a deep feature of human cognition or a culturally contingent product.
 - **Current state**: Limited empirical data. Diaz's studies are preliminary and the methodology is debated.
 

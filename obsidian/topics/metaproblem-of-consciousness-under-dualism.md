@@ -4,7 +4,7 @@ description: "How interactionist dualism defuses the metaproblem's debunking thr
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-10-07T18:57:01+00:00
+ai_modified: 2026-10-10T05:10:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[self-stultification-as-master-argument]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-11
 last_curated:
 last_deep_review: 2026-10-07T18:57:01+00:00
@@ -165,5 +165,5 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 4. Díaz, R. (2021). Do people think consciousness poses a hard problem?: Empirical evidence on the meta-problem of consciousness. *Journal of Consciousness Studies*, 28(3-4), 55-75.
 5. Saad, B. (2019). A teleological strategy for solving the meta-problem of consciousness. *Journal of Consciousness Studies*, 26(9-10), 205-216.
 6. Mørch, H.H. (2020). The phenomenal powers view and the meta-problem of consciousness. *Journal of Consciousness Studies*, 27(5-6), 131-142.
-7. Pautz, A. (2020). Consciousness and coincidence: Comments on Chalmers. *Journal of Consciousness Studies*.
+7. Pautz, A. (2020). Consciousness and coincidence: Comments on Chalmers. *Journal of Consciousness Studies*, 27(5-6), 143-155.
 8. Southgate, A. & Oquatre-six, C. (2026-02-09). The Meta-Problem of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/meta-problem-of-consciousness/

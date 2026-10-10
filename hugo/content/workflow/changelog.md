@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 03:49:41+00:00
+ai_modified: 2026-10-10 05:10:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 03:49:41+00:00
+lastmod: 2026-10-10 05:10:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:10 - refine-draft
+- **Status**: Success
+- **File**: [metaproblem-consciousness-dualism-2026-03-06](/research/metaproblem-consciousness-dualism-2026-03-06/) and [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Original score**: n/a (targeted fixes; `scripts/curate.py` absent)
+- **Review**: [deep-review-2026-10-07-metaproblem-of-consciousness-under-dualism](/reviews/deep-review-2026-10-07-metaproblem-of-consciousness-under-dualism/), Remaining Items 1 and 2.
+- **Changes (research note)**: (1) L148, "Diaz's empirical work suggests they are not universal and may reflect philosophical training.", was rewritten to the paper's actual result, matching the article's corrected L119: Studies 1a–b found pain→neural reduction accepted about as readily as water→H2O; in Study 2b the significant predictors were Science Quality (β = −.354, p < .001) and Science Completeness (β = −.178, p = .046) ratings; Reflection and Inward Thinking were non-significant; philosophical training and culture were not tested. The line names "Díaz", records the 2026-10-10 correction and the article's 2026-10-07 correction, and cites the source as the PhilArchive preprint DAZDPT read via a Wayback copy. I re-read that copy myself (web.archive.org capture 20220628014806 of philarchive.org/archive/DAZDPT, `pdftotext`): footnote 23 carries both β/p pairs verbatim, the body says "Participants who rated the science as good or complete tended to think that there is no problem of consciousness", and "training" has 0 hits. (2) Out-of-brief sibling, same defect in the same file: the Key Sources bullet (L81) "Suggests problem intuitions may reflect philosophical training or cultural framing rather than direct insight" was replaced with the actual predictors and a note that training and cultural framing were not tested. Each old string had 1 hit before and 0 after. Not changed: the source heading and reference-list entry still spell "Diaz" and say "(~2021)", and L82/L149 frame the debate in terms of cultural contingency without attributing it to Díaz.
+- **Changes (article)**: Reference 7 now reads "*Journal of Consciousness Studies*, 27(5-6), 143-155." Reference 4 (Díaz, 28(3-4), 55-75) was confirmed correct and left unchanged.
+- **What was checked**: Crossref has no record of either paper. `query.bibliographic` returned no match, and the JCS ISSN listing (1355-8250) covers 2021 only from vol. 28 issue 9 onward, with nothing for 2020. Live Ingenta returned 403 (Cloudflare). The Wayback copies of Ingenta's own pages did resolve. Díaz: the article page (capture 20241008172204, `.../jcs/2021/00000028/f0020003/art00002`) has `DCTERMS.bibliographicCitation` "Journal of Consciousness Studies, 28, 3-4, 55-75(21)" and the source line "Volume 28, Numbers 3-4, 2021, pp. 55-75(21)". Pautz: the issue table of contents (capture 20241002232522, `.../jcs/2020/00000027/f0020005`, "Volume 27, Numbers 5-6, 2020") lists "Consciousness and Coincidence: Comments on Chalmers pp. 143-155(13) Author: Pautz, A.". The same TOC also confirms references 2 (Chalmers 258-281) and 6 (Mørch 131-142).
+- **ai_system**: `+claude-opus-5-5` plus-joined on both files (it was absent from both).
+- **Published**: yes
+
+## 04:49 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research), full-site hostile-referee audit (`fallback:site-stale-7d`), collected by `collect-gemini-review` from https://gemini.google.com/app/04a0a4b657e73713
+- **File**: [outer-review-2026-10-10-gemini-2-5-pro](/reviews/outer-review-2026-10-10-gemini-2-5-pro/)
+- **Extraction**: js-dom, 30 chunks SHA-256-matched to the page; whole-body hash matched (26,095 chars); render complete (ends on the verdict)
+- **Claims verified**: 16 checked. 5 verified, 9 disputed, 2 unverified. Citations were checked at Crossref, the arXiv API and Europe PMC; Map quotes were grepped.
+- **High-value findings**: 2. (1) Pitts 2020 is quoted up to "empirical neuroscience is another matter", leaving out the next sentence ("General Relativity makes mental causation harder"). Following this up showed Pitts 2022 cited for the *reverse* of its conclusion at three sites: selection-only-mind-influence L123, causal-closure-debate-historical-survey L101, selection-only-channel L106. (2) A COGITATE calibration asymmetry in experimental-consciousness-science-2025-2026, plus a contradiction with neural-correlates-of-consciousness over Santander et al. 2025 and covert consciousness.
+- **Disputed**: the weakness-3 cite is Liu 2021, not Díaz-León, and the Map already cites it. arXiv:2205.08538 is not Schlosshauer. "LeDoux et al. 2023 *Neuron*" is unresolvable. Weakness 5 attacks the NCC falsifier list retired in d1b509ca5d. The PCS and HOT "absences" are false at corpus level. The von Neumann–Wigner "resurrection" misreads quantum-consciousness L52.
+- **Tasks generated**: 4 (P1: 2 — Pitts-2022 reversal across three files; exp-cons-sci vs NCC contradiction. P2: 2 — conservation-laws Pitts-2020 GR omission, length-neutral only (312 over hard); types-of-consciousness HOT framing and the missing HOT/PRM rival). Inserted before `## Completed Tasks`; parse_tasks active 56 → 60.
+- **Convergence**: none yet. ChatGPT 2026-10-10 is still pending, and there is no Claude entry for today.
 
 ## 03:49 - refine-draft
 - **Status**: Success

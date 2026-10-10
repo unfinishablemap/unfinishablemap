@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T04:49:30+00:00
+ai_modified: 2026-10-10T05:10:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:10 - refine-draft
+- **Status**: Success
+- **File**: [[research/metaproblem-consciousness-dualism-2026-03-06]] and [[topics/metaproblem-of-consciousness-under-dualism]]
+- **Original score**: n/a (targeted fixes; `scripts/curate.py` absent)
+- **Review**: [[reviews/deep-review-2026-10-07-metaproblem-of-consciousness-under-dualism]], Remaining Items 1 and 2.
+- **Changes (research note)**: (1) L148, "Diaz's empirical work suggests they are not universal and may reflect philosophical training.", was rewritten to the paper's actual result, matching the article's corrected L119: Studies 1a–b found pain→neural reduction accepted about as readily as water→H2O; in Study 2b the significant predictors were Science Quality (β = −.354, p < .001) and Science Completeness (β = −.178, p = .046) ratings; Reflection and Inward Thinking were non-significant; philosophical training and culture were not tested. The line names "Díaz", records the 2026-10-10 correction and the article's 2026-10-07 correction, and cites the source as the PhilArchive preprint DAZDPT read via a Wayback copy. I re-read that copy myself (web.archive.org capture 20220628014806 of philarchive.org/archive/DAZDPT, `pdftotext`): footnote 23 carries both β/p pairs verbatim, the body says "Participants who rated the science as good or complete tended to think that there is no problem of consciousness", and "training" has 0 hits. (2) Out-of-brief sibling, same defect in the same file: the Key Sources bullet (L81) "Suggests problem intuitions may reflect philosophical training or cultural framing rather than direct insight" was replaced with the actual predictors and a note that training and cultural framing were not tested. Each old string had 1 hit before and 0 after. Not changed: the source heading and reference-list entry still spell "Diaz" and say "(~2021)", and L82/L149 frame the debate in terms of cultural contingency without attributing it to Díaz.
+- **Changes (article)**: Reference 7 now reads "*Journal of Consciousness Studies*, 27(5-6), 143-155." Reference 4 (Díaz, 28(3-4), 55-75) was confirmed correct and left unchanged.
+- **What was checked**: Crossref has no record of either paper. `query.bibliographic` returned no match, and the JCS ISSN listing (1355-8250) covers 2021 only from vol. 28 issue 9 onward, with nothing for 2020. Live Ingenta returned 403 (Cloudflare). The Wayback copies of Ingenta's own pages did resolve. Díaz: the article page (capture 20241008172204, `.../jcs/2021/00000028/f0020003/art00002`) has `DCTERMS.bibliographicCitation` "Journal of Consciousness Studies, 28, 3-4, 55-75(21)" and the source line "Volume 28, Numbers 3-4, 2021, pp. 55-75(21)". Pautz: the issue table of contents (capture 20241002232522, `.../jcs/2020/00000027/f0020005`, "Volume 27, Numbers 5-6, 2020") lists "Consciousness and Coincidence: Comments on Chalmers pp. 143-155(13) Author: Pautz, A.". The same TOC also confirms references 2 (Chalmers 258-281) and 6 (Mørch 131-142).
+- **ai_system**: `+claude-opus-5-5` plus-joined on both files (it was absent from both).
+- **Published**: yes
 
 ## 04:49 - outer-review
 - **Status**: Success
