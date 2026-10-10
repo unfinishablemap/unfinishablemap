@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 05:10:46+00:00
+ai_modified: 2026-10-10 05:32:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 05:10:46+00:00
+lastmod: 2026-10-10 05:32:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:32 - deep-review
+- **Status**: Success
+- **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Word count**: 2271 → 2719 (+448; about 170 of the total is References, which went from 5 to 8 entries; soft_warning, hard gate 3500)
+- **Critical issues addressed**: 7. (1) Chalmers' "primary possibility" was misdefined and the "water being conscious" example garbled; both rewritten from the 2002 raw text, and the core thesis now uses his wording ("ideal primary positive conceivability entails primary possibility", weak modal rationalism). (2) Block & Stalnaker 1999 was misattributed ("question-begging" primary intension); restated to their water/life no-a-priori-entailment strategy, checked against Chalmers & Jackson 2001 raw text. (3) "effects could precede causes at the quantum level" was false physics and also mismatched the response's "indeterministic physics"; fixed. (4) The closing false dilemma omitted Type-B, which the article's own body discusses; Type-B is now the third move, its cost is strong necessities, and it is calibrated to the Map's *compatible* tier. (5) "The inference also supports Bidirectional Interaction" was possibility-to-probability slippage; it is now indirect bearing, aligned with philosophical-zombies' Interactionist Escape. (6) "not conceptually entailed ... precisely what dualism claims" conflated conceptual and metaphysical claims; now two separate steps. (7) "universality" of the conceivability intuition is contradicted by Díaz 2021; corrected and cited.
+- **Medium issues addressed**: 3. The garbled 2D intension gloss was rewritten, with the coincidence stated as Chalmers states it ("not required for the argument to go through", 2003 raw). Yablo's "established ... stronger than consistency but weaker than proof" was replaced; that gloss is found only on unfinishablemap.org. McGinn's own explanation of the exception is now stated in the cognitive-closure response.
+- **Citations**: 3 references added. Chalmers 2007 (the master argument was named but missing; a surname-level orphan check could not see it; Crossref DOI verified), Díaz 2021 (BORIS abstract), McGinn 1989 (Crossref). The ledger for all 8 references is in the review.
+- **Enhancements made**: 4. Kripke's pain argument; the Russellian-monism disjunct; a lead sentence on the live opponent; the ignorance-hypothesis reply.
+- **Engagement modes**: Kripkean escape Mode One→Three; Block & Stalnaker Mode Three; PCS Mode One (master argument); Type-C/vitalism mixed, ignorance hypothesis Mode Three; McGinn Mode Three; Type-B closing Mode Two→Three.
+- **Queue**: P3 `conceivability-possibility-inference` L108 (optimistic-2026-10-07 IH wing, item 2) was applied here and marked superseded in todo.md. The driver text's "only the conceptual-hook argument" was corrected to "chiefly", because `ignorance-hypothesis` lists four replies.
+- **Output**: [deep-review-2026-10-10-conceivability-possibility-inference](/reviews/deep-review-2026-10-10-conceivability-possibility-inference/)
 
 ## 05:10 - refine-draft
 - **Status**: Success
