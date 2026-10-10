@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-09-27 18:55:00+00:00
+ai_modified: 2026-10-10 12:22:09+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 13:54:00+00:00
-lastmod: 2026-09-27 18:55:00+00:00
+lastmod: 2026-10-10 12:22:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,15 +50,15 @@ The amplification chain does not pass through one wall of opacity but through se
 
 **The cellular regime.** Neural firing follows threshold dynamics. Small molecular-level differences either cross a firing threshold or don't. This nonlinearity amplifies quantum-molecular variations but destroys their specificity. The same neuron fires regardless of which molecular pathway brought it to threshold.
 
-**The network regime.** Neural populations exhibit chaotic dynamics. Chaotic systems amplify small differences exponentially, making the trajectory from quantum event to network-level pattern computationally irreversible. The specific pathway cannot be reconstructed even in principle, because exponential sensitivity to initial conditions destroys backward traceability.
+**The network regime.** Neural populations exhibit chaotic dynamics, which amplify small differences exponentially: reconstructing the path from quantum event to network-level pattern needs initial-state precision growing exponentially with elapsed time, at a rate set by the largest Lyapunov exponent. Deterministic chaos stays invertible in principle, so chaos alone makes reconstruction impractical rather than impossible; what plausibly makes the path unrecoverable in principle is neural thermal noise and dissipation, which erase the distinctions a reconstruction would need.
 
 Each regime is partially accessible on its own terms. Quantum biology experiments can probe microtubule coherence, and a recent review marshals evidence that functionally relevant quantum effects occur in microtubules at room temperature (Wiest, 2025). Neural imaging can observe network-level correlates of decisions. Chaotic dynamics analysis can characterise the middle of the chain statistically. The amplification void is defined by the gap between these partial approaches. Each illuminates its own level; none bridges the full span.
 
 ## An Ally in the Noise
 
-The standard objection to quantum consciousness is that the brain is too warm, wet, and noisy for quantum effects to survive. But research on stochastic resonance—the counterintuitive phenomenon where random noise enhances detection of weak signals in nonlinear threshold systems—suggests the brain's thermal environment might amplify quantum influences rather than destroy them (McDonnell & Abbott, 2009). Neurons are precisely the kind of nonlinear threshold systems where stochastic resonance operates. Noise could serve as a medium of amplification rather than an obstacle to it.
+The standard objection to quantum consciousness is that the brain is too warm, wet, and noisy for quantum effects to survive. But research on stochastic resonance—the counterintuitive phenomenon where random noise enhances detection of weak signals in nonlinear threshold systems (McDonnell & Abbott, 2009)—suggests the brain's thermal environment might amplify quantum influences rather than destroy them. Neurons are precisely the kind of nonlinear threshold systems where stochastic resonance operates. Noise could serve as a medium of amplification rather than an obstacle to it.
 
-This reframing deepens the void rather than resolving it. If quantum influences propagate *through* noise rather than *despite* it, the signal becomes statistically inseparable from the noise that carries it. Amplification via stochastic resonance is inherently statistical—individual quantum-to-classical traces become impossible even in principle. The relationship between [consciousness as intelligence amplifier](/concepts/consciousness-as-amplifier/) and the amplification void is worth noting: the former concerns *what* consciousness amplifies (cognitive capacity), while this void concerns *how* that amplification remains untraceable at the physical level.
+This reframing reshapes the void rather than resolving it. Stochastic resonance makes a subthreshold signal *more* detectable, so the influence would not vanish into the noise; what it loses is its individual path, since the gain is statistical and no single threshold crossing can be credited to signal rather than noise. An unrecoverable path is distinct from an absent signature: aggregate effects conditioned on intention or task could remain measurable, though no such test has yet been run ([below](#a-self-protecting-void)). [Consciousness as intelligence amplifier](/concepts/consciousness-as-amplifier/) concerns *what* consciousness amplifies (cognitive capacity); this void concerns *how* that amplification remains untraceable at the physical level.
 
 ## A Self-Protecting Void?
 
@@ -66,7 +66,7 @@ The amplification void may not be an accidental gap in human knowledge but a str
 
 The step that does the work is **Born-conformity**. Selecting between Born-equiprobable alternatives while the ensemble average stays |⟨φ|ψ⟩|² leaves no statistical signature in long runs, so under any *unconditioned aggregate* test the mechanism is empirically indistinguishable from chance—by construction, not by any sensitivity limit ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction); the structure is developed in [the Born-rule article](/topics/born-rule-and-the-consciousness-interface/)). That closure arrives pre-scoped. Preservation binds the unconditioned marginal only: a deviation *conditioned* on intention, task or subject would test the corridor itself ([P-Q3](/positions/quantum-interface/#mechanism-debt)), and none has yet run: the intention-to-RNG nulls of Maier, Dechamps and Pflitsch (2018) target an external RNG, which the Map's [brain-locality](/concepts/brain-interface-boundary/) scope predicts null either way. So the unconditioned statistical channel is shut; the conditioned channels are open, and untested at every brain-internal grain.
 
-This makes the amplification void a candidate for [defended territory](/voids/self-maintained-cognitive-limits/)—territory whose opacity is maintained by the physics that enables the interaction rather than by an agent hiding it. The self-protection is real but partial, and its two halves have different owners. Born-conformity owns the statistical half. Classical neurodynamics owns the tracing half—the decoherence windows, threshold nonlinearities and chaotic amplification catalogued above destroy backward traceability for *any* small perturbation, whatever its source and magnitude. Minimality does not have to earn that result; ordinary brain physics supplies it already, and would supply it for a thoroughly non-minimal microscopic cause.
+This makes the amplification void a candidate for [defended territory](/voids/self-maintained-cognitive-limits/)—territory whose opacity is maintained by the physics that enables the interaction rather than by an agent hiding it. The self-protection is real but partial, and its two halves have different owners. Born-conformity owns the statistical half. Classical neurodynamics owns the tracing half—the decoherence windows, threshold nonlinearities, chaotic amplification and thermal noise catalogued above destroy backward traceability for *any* small perturbation, whatever its source and magnitude. Minimality does not have to earn that result; ordinary brain physics supplies it already, and would supply it for a thoroughly non-minimal microscopic cause.
 
 There is an analogy—imperfect but suggestive—with Heisenberg's uncertainty principle, where measurement precision on one variable necessarily reduces precision on its conjugate. The statistical half of the void has a similar shape: the tighter the conformity to the Born measure, the less any aggregate test can say. The analogy is weaker than it first looks, though. Conjugate variables trade off as a matter of dynamics; here the trade-off is a matter of construction, since Born-preservation is written into the reading rather than discovered in it.
 

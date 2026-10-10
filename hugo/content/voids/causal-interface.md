@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-05 07:51:58+00:00
+ai_modified: 2026-10-10 12:22:09+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 17:32:43+00:00
-lastmod: 2026-10-05 07:51:58+00:00
+lastmod: 2026-10-10 12:22:09+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -65,9 +65,9 @@ Multiple lines of evidence converge on the same conclusion.
 
 Since Descartes, no philosopher has successfully explained how mind and body interact. Princess Elisabeth posed the problem to Descartes in 1643: how can an immaterial substance, lacking size, shape, or location, make contact with a material brain? Descartes gestured toward the pineal gland but provided no mechanism.
 
-Four centuries later, no satisfying answer exists. Interactionists have proposed various interfaces—quantum effects, information-theoretic bridges, emergent causation—but each leaves a placeholder at the crucial point: consciousness → [?] → physical effect. The placeholder refuses to fill because filling it would require showing causal relations between physical and non-physical realms using concepts derived from physical causation.
+Four centuries later, no satisfying answer exists. Interactionists have proposed various interfaces—quantum effects, information-theoretic bridges, emergent causation—but each leaves a placeholder at the crucial point: consciousness → [?] → physical effect. One diagnosis is that the placeholder resists filling because filling it would require showing causal relations between physical and non-physical realms using concepts derived from physical causation.
 
-This persistence suggests structural difficulty rather than historical contingency.
+That diagnosis would make the difficulty structural, but the persistence is consistent with it without favouring it: a long failure to find a mechanism is equally expected given no interaction, a misspecified search target, too-coarse measurement, or conceptual confusion.
 
 ### Cognitive Science: The Process/Product Asymmetry
 
@@ -151,7 +151,7 @@ The causal interface void would be undermined if:
 
 4. **Mechanism is articulated.** If philosophers or physicists explain *how* something non-physical biases quantum probabilities without leaving the placeholder unfilled.
 
-**Why these conditions haven't been met:** Four centuries of philosophy, decades of neuroscience, and millennia of contemplative practice have not resolved this problem. The persistence is evidence that the limit is structural.
+**Where these conditions stand:** Four centuries of philosophy, decades of neuroscience, and millennia of contemplative practice have not resolved this problem. The persistence is consistent with a structural limit but does not by itself favour one over the rival explanations noted under [the philosophical tradition](#the-philosophical-tradition).
 
 ## Relation to Site Perspective
 
@@ -159,7 +159,7 @@ The causal interface void connects directly to The Unfinishable Map's [tenets](/
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is the most relevant. The tenet holds that consciousness causally influences the physical world. This void concerns why we cannot observe *how* that influence operates. The Map asserts causal efficacy while acknowledging that the mechanism is opaque. This is coherent: one would expect an interface between consciousness and physics to be at the edge of what either mode of access can reveal. The [verification face of the agency void](/voids/agency-void/#the-verification-circularity) reveals a deeper layer: not only is the mechanism hidden, but *whether* consciousness causes anything at all cannot be verified from within. The Map holds Bidirectional Interaction as a starting commitment rather than a derived conclusion—the causal interface void shows why that commitment must be chosen rather than discovered. The [preference-void](/voids/preference-void/) adds a question about what selection selects from: if a preference ordering is assembled during the choosing, any conscious contribution would select among physically prepared candidate orderings, and whether it selects or merely receives the result cannot be told from inside.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** predicts this void. If the interaction between consciousness and physics is minimal—the smallest possible influence on quantum outcomes—then it would be proportionally difficult to observe. A minimal mechanism would leave minimal traces. The opacity is not a bug but a feature of minimising the footprint.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** entails this void. If the interaction between consciousness and physics is minimal—the smallest possible influence on quantum outcomes—then it would be proportionally difficult to observe. Since the opacity follows from the tenet by construction, and rivals with no interaction predict it too, observing it adds nothing in the tenet's favour (compare the [amplification-void](/voids/amplification-void/)).
 
 **[Dualism](/tenets/#dualism)** makes the void intelligible. If consciousness is genuinely distinct from physical processes, then the interface between them is where two ontologically different domains meet. Such an interface would resist reduction to either domain's methods of investigation. The void marks the boundary between what physics can explain and what consciousness can observe.
 
