@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 06:24:50+00:00
+ai_modified: 2026-10-10 06:53:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 06:24:50+00:00
+lastmod: 2026-10-10 06:53:28+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:53 - refine-draft
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Original score**: n/a (targeted calibration fix; `scripts/curate.py` is absent)
+- **Task**: P1 from convergent outer reviews 2026-10-10 ([outer-review-2026-10-10-gemini-2-5-pro](/reviews/outer-review-2026-10-10-gemini-2-5-pro/), [outer-review-2026-10-10-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro/); synthesis [outer-review-synthesis-2026-10-10](/reviews/outer-review-synthesis-2026-10-10/)). The article read Santander et al. (2025) and covert consciousness as favouring the interface model and Bidirectional Interaction. NCC L116/L118/L156 and identity-across-transformations L99 read the same evidence as production-leaning.
+- **Source check (primary text)**: Santander et al. 2025, PubMed 41118210 abstract and PMC12582319 full text. The cohort was six patients, 2 partial and 4 complete. BT lost "∼90% of the CC's cross-sectional area", not 99%, so "orders of magnitude fewer" was also wrong. The authors raise the bandwidth puzzle themselves ("from a sheer bandwidth perspective, it is difficult to imagine how such a small proportion of fibers could account for widespread integration"). They resolve it physically: BT likely reorganised over six years, with polysynaptic routing through the spared posterior pathways. "Our results are not suited to evaluate or endorse any particular theory" is verbatim. The paper makes no "first fMRI study" claim, so that unsourced sentence was dropped.
+- **Changes**: (1) L110 is re-homed. Callosal and covert evidence bears at most on the inbound interface-or-generator question, which belongs to the Dualism tenet. It now lends Bidirectional Interaction "no support", in NCC L156's wording. The callosal result leans to production, and covert consciousness is what production predicts. The "constrain … without establishing" close is kept. (2) L72: "losing 99% of cross-module bandwidth", "orders of magnitude fewer" and the "integration volume" binding-problem argument are cut. In their place go the 90% figure, the authors' bandwidth caveat and its physical resolution, and the shared target wording ("Unity … tracks a surviving physical channel"; "The spared ribbon is doing the work"). L70: "functioned as well as neurotypical subjects on tests of conscious unity" is replaced by the paper's actual measures (near-neurotypical interhemispheric FC, no behavioural disconnection) and the partial/complete contrast. L74 keeps the interface reading only as an option the data permit; a production account accommodates the data at least as easily, so the callosal evidence leans to production (piped link to NCC). (3) The L106 COGITATE paragraph is now symmetric. COGITATE tested IIT and GNWT, not physicalism. The interface model made no prediction COGITATE could test, and a framework that made no prediction gains nothing when the predicting frameworks fall short. "These explanations do not yet work" is removed. Lead L38: "tested that assumption from the physicalist side—and the results are striking" and "physicalist frameworks struggle to interpret" are removed. The lead now says no study tested irreducibility and none discriminates between the models.
+- **Sibling calibrations (same defect, same article)**: L94 (covert): "bidirectional causal channel between mind and body" → "motor output channel", plus NCC L111's sentence that detection "runs through preserved, task-specific cortical activity". L100 (psychedelics): "suggests that consciousness is more fundamental" → "compatible with", adding that production views expect it too (NCC L113's DMN reading). L104: "aligns with the Map's framework in several ways" → "bears … unevenly, and mostly by constraint rather than support". L112: "convergent evidence that physicalist explanation is incomplete" → "a record that physicalist explanation is still incomplete"; the honest close ("none discriminates …") is kept verbatim. Description: "what they reveal" → "what they do and do not show".
+- **Shared target reading**: NCC L118 / identity L99 is adopted. Checked against the primary text, it is correct, so no divergence is flagged. The sibling P1 on `topics/split-brain-consciousness` has not run yet; it should land on the same wording.
+- **Engagement**: IIT and GNWT (COGITATE): Mode One, limited to each theory's own failed predictions. Production physicalism (callosal, covert, psychedelic): Mode Three. The interface reading is marked as a permitted option, not a refutation, and the evidence is conceded to lean the other way where it does.
+- **Not adopted**: Gemini's NCC quotes ("zero residual variance", "genuinely novel qualia", "always eliminated consciousness") attack the pre-W40 falsifier list that was already retired.
+- **Remaining (reported, not edited; no todo written per task)**: L56 says IIT and GNWT "prove empirically incommensurable even under shared protocols", but COGITATE derived and tested distinct preregistered predictions from each, so this probably over-reads the conceptual-scheme-void link. L88 ("inadvertently strengthens the Map's position") is a philosophical upgrade outside this task's empirical scope.
+- **Altered-state symmetry**: `evaluate_symmetry` returns None before and after.
+- **Length** (analyze_length): 2623 → 2945 (+322; under soft 3000 and hard 4000).
+- **Published**: yes
 
 ## 06:24 - refine-draft
 - **Status**: Success
