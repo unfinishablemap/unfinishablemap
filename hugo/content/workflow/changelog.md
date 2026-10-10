@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 01:52:13+00:00
+ai_modified: 2026-10-10 02:21:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 01:52:13+00:00
+lastmod: 2026-10-10 02:21:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 02:21 - refine-draft
+- **Status**: Success
+- **File**: [per-cluster-independence-scoring](/project/per-cluster-independence-scoring/)
+- **Original score**: n/a (targeted single-locus fix; `scripts/curate.py` absent)
+- **Review**: [deep-review-2026-10-10-apophatic-cartography-four-criteria](/reviews/deep-review-2026-10-10-apophatic-cartography-four-criteria/), out-of-scope sibling of its item 3 (the 01:29 correction to [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) L102).
+- **Changes**: L115 (§What the Methodology Does Not Claim, **It does not deliver tier-graduation.**). The defect string "while licensing only *realistic possibility* for its interpretive significance" occurred once before the edit and zero times after. The closing sentence now says strong scores may license *strongly supported* for a cluster's architectural finding "but by themselves earn its interpretive significance nothing: any tier above compatibility needs a discriminator no leading rival predicts". The clause "with the asymmetry preserved in the tier assignment" is kept verbatim. Grounds: evidential-status-discipline §Compatibility vs. Support (support needs "an independent discriminator the rival does not also predict"); positions/finding-level-calibration [P-F1](/positions/finding-level-calibration/#p-f1) (no granting the significance tier *because* the architecture tier was robust); the worked instance topics/introspection-architecture-independence-scoring L193 ("compatibility plus boundary-marking, not positive support"). No new wikilinks; ai_system unchanged. Reasoning mode: no named-opponent engagement touched; N/A.
+- **Sibling discriminator check** (report only; neither edited, per brief):
+  - [concession-convergence](/concepts/concession-convergence/) L130 (*realistic possibility, contested* for the interpretive significance): **names a discriminator, but a contested one.** The tier rests on the L91 "Not normal refinement" argument. That argument offers a feature the rival reading (narrowing as ordinary progress) does not predict: normal refinement keeps a theory's core explanatory claim, while the GWT/IIT narrowing retreats from explaining experience. The tier does not lean on the architectural finding's robustness, so [P-F1](/positions/finding-level-calibration/#p-f1) is not breached. Still open: L130 itself concedes the move "turns on framework-shaped reading", and the discriminator is a conceptual/historiographic argument, while the tier is defined by a "serious empirical case" (evidential-status-discipline L236). Whether a contested conceptual discriminator meets that bar is a judgement for a future review. The adjacent cumulative bullet (L131) correctly holds the full positive form at *live hypothesis*, pending the cross-tradition discriminator that L107/L109 record as unbuilt.
+  - [type-specificity](/concepts/type-specificity/) L107 (*realistic possibility, contested* for "evidential force against generic-mechanism reductions"): **names a discriminator only against a narrow rival, and its own parenthetical sits in tension with the tier.** L71 and L81 give a predictive difference: a generic mechanism "would discharge all five demands at once", and a generic resource-expansion account "predicts a generalised performance shift rather than the type-by-type pattern". That discriminates against *generic-mechanism* reductions, the claim's stated target. It does not discriminate against a reduction that is itself type-by-type, which predicts the same pattern. L107 does not cite L71/L81, and its parenthetical "(coherent but framework-internally so)" describes compatibility-grade support, which under §Compatibility vs. Support does not sit easily with a *realistic possibility* label. Candidate for a future discriminator-adequacy pass: either point the parenthetical at the L71/L81 discriminator and scope the rival, or lower the tier.
+- **Length**: `analyze_length` 3,408 → 3,412 (+4); project hard 3,500, headroom now 87; status soft_warning (unchanged).
+- **Published**: yes
 
 ## 01:52 - refine-draft
 - **Status**: Success
