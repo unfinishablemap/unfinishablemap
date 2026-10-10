@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-30 08:54:16+00:00
+ai_modified: 2026-10-10 15:53:25+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 09:32:48+00:00
-lastmod: 2026-09-30 08:54:16+00:00
+lastmod: 2026-10-10 15:53:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +59,7 @@ Human consciousness, on this view, is highly organised experience—what Whitehe
 
 Each actual occasion undergoes "concrescence"—a process of growing together (from the Latin *concrescere*). The occasion inherits data from its predecessors, synthesises them through subjective aim, and achieves definite form. Then it perishes, becoming datum for successor occasions.
 
-This rhythm of becoming-perishing-becoming is creativity itself. Whitehead names this creative advance his "Category of the Ultimate"—the process by which the many become one and are increased by one. Each moment adds something to reality that didn't exist before. Time isn't a container events pass through; it's constituted by the creative advance of events.
+This rhythm of becoming-perishing-becoming is creativity at work. Whitehead calls creativity "the principle of novelty" and counts it, with "many" and "one", among the three notions that make up the Category of the Ultimate. The creative advance is creativity applied to each novel situation: the process by which the many become one and are increased by one. Each moment adds something to reality that didn't exist before. Time isn't a container events pass through; it's constituted by the creative advance of events.
 
 ## Bergson and Duration
 
@@ -73,7 +73,7 @@ Key parallels with Whitehead:
 
 **Unity-in-difference**: Bergson's "qualitative multiplicity" parallels Whitehead's concrescence. In both, the many don't just aggregate—they interpenetrate, forming novel unities where each element is colored by the others.
 
-The traditions diverge on temporal atomism. Whitehead's actual occasions are discrete (though internally temporal); Bergson's durée is continuous flux. But both reject the view that time is a sequence of static states.
+The traditions diverge on temporal atomism. Whitehead's actual occasions are discrete: each spans a stretch of time, but its becoming is not divisible into earlier and later acts of becoming. Bergson's durée is continuous flux. But both reject the view that time is a sequence of static states.
 
 ## The Combination Problem
 

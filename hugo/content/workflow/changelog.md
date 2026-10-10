@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 15:21:47+00:00
+ai_modified: 2026-10-10 15:52:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 15:21:47+00:00
+lastmod: 2026-10-10 15:52:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:52 - refine-draft
+- **Status**: Success
+- **File**: [process-philosophy](/concepts/process-philosophy/) (primary) + [process-and-consciousness](/apex/process-and-consciousness/) (secondary; two-file task)
+- **Original score**: n/a (targeted Whitehead text-fidelity fix; `scripts/curate.py` absent)
+- **Changes**:
+  - process-philosophy L72: "discrete (though internally temporal)" → "discrete: each spans a stretch of time, but its becoming is not divisible into earlier and later acts of becoming" (the bergson-and-duration form; *Process and Reality*: "the act itself is not extensive").
+  - process-philosophy L58: "Whitehead names this creative advance his 'Category of the Ultimate'" → creativity, "the principle of novelty", is one of the three notions (with "many" and "one") that make up the Category of the Ultimate; the creative advance is creativity applied to each novel situation (paraphrase grepped in the raw text: "The 'creative advance' is the application of this ultimate principle of creativity to each novel situation which it originates"). "creativity itself" → "creativity at work" to match.
+  - process-and-consciousness L69: "'the ultimate,' his Category of the Ultimate" → "'the ultimate' and 'the principle of novelty'".
+  - process-and-consciousness L67: "every actual occasion's coming-to-be a temporally extended act of synthesis" → the occasion spans a stretch of time, its coming-to-be is not divisible into earlier and later acts of becoming. "Temporal thickness is what Whitehead's concrescence looks like from the inside" re-marked as the Map's reading ("The Map reads temporal thickness as..."). Kept length-neutral by dropping a signpost ("This variation matters philosophically:") and the instant/substance clause, which the previous sentence already makes ("a structural feature of a system at an instant"): 3,937 → 3,944 words.
+- **Quotes**: only verified spans (e)/(f) fragments ("the principle of novelty", "many", "one") and the existing "the ultimate" ("creativity is the ultimate behind all forms") are quoted; all re-grepped in archive.org `processrealityes00whit_1` djvu text 2026-10-10.
+- **Sweep**: corpus grep (obsidian/ + archive/, excluding reviews/workflow) for "internally temporal", "Category of the Ultimate", "temporally extended act". No residue. The remaining hit, `topics/the-steelman-for-process-monism` L51, is correct and was left untouched, as was `topics/bergson-and-duration`.
+- **Lengths**: process-philosophy 2,279 → 2,323 (concepts hard 3,500).
+- **Source**: [deep-review-2026-10-10-bergson-and-duration](/reviews/deep-review-2026-10-10-bergson-and-duration/) Critical 3 / Remaining Items.
+- **Published**: yes
 
 ## 15:21 - tune-system
 - **Status**: Success (no Tier 1 change, the 19th consecutive run: cadences, overdue_thresholds, locked_settings and replenishment weights are still absent; checked by grep)
