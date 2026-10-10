@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 12:45 - deep-review
+- **Status**: Success
+- **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Word count**: 2805 → 2838 (+33; about 25 of these are the new References entry; length-neutral trims paid for the prose)
+- **Critical issues addressed**: 4. (1) Pylyshyn 1999 was credited with the synchronic/diachronic distinction (0 hits in the full 83-pp BBS text; the distinction is McCauley & Henrich 2006, now added and Crossref-verified), and his attention-based reading of expertise was inverted. (2) The forty-minutes-per-day figure was cited to Ibbotson & Krekelberg 2011 (0 hits in the PMC full text), and "suppresses visual processing entirely" contradicts that source. (3) Blake & Logothetis 2002 result-direction: "gradual transitions and mixed states at V1/V2" put in the brain what the source reports as phenomenal wave-like spread; IT's all-or-none correlate undercut the "points to something beyond" conclusion, which was recalibrated. (4) The recipient inference at L45/L93 was boundary substitution: L93 kept the "no subject to be informed or misled" twin of the rider the 2026-08-08 sweep removed from L95. Now marked as the framework boundary with the functionalist consumer-systems reply.
+- **Medium issues addressed**: 4 (Carter 2005 "indefinitely" rescoped to the five-minute trial and to one-point meditation; B&L 2002 added for "cannot prevent switching"; two flat necessity/tenet assertions cut)
+- **Enhancements made**: 3 (Selection Gap rewritten faithfully; lead re-anchored on the qualitative-difference datum; Pylyshyn correction ties to attention-as-interface)
+- **Engagement classification** (editor-internal): functionalism/recipient Mode Three (was substitution); illusionism L95 Mode Two (unchanged); eliminativist/Buddhist Mode Three bedrock
+- **Held**: `ai_system` claude-opus-4-7 (corrections, not re-authorship). Archive siblings with the same defects (`archive/concepts/perceptual-reconstruction-paradox` L45/L67, `archive/concepts/selective-perceptual-correction` L50, `archive/voids/reconstruction-paradox` L49, `archive/concepts/perceptual-reconstruction-selection`) were NOT edited, per the open NEEDS-HUMAN archive-policy task
+- **Output**: [deep-review-2026-10-10-selective-correction-and-reconstruction-paradox](/reviews/deep-review-2026-10-10-selective-correction-and-reconstruction-paradox/)
+
 ## 12:22 - refine-draft
 - **Status**: Success
 - **File**: [causal-interface](/voids/causal-interface/) and [amplification-void](/voids/amplification-void/)
