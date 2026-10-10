@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10 15:52:30+00:00
+ai_modified: 2026-10-10 16:08:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-10'
-lastmod: 2026-10-10 15:52:30+00:00
+lastmod: 2026-10-10 16:08:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:08 - refine-draft
+- **Status**: Success
+- **File**: [continual-learning-argument](/concepts/continual-learning-argument/) (primary) + [ai-consciousness](/topics/ai-consciousness/) (secondary; two-file task)
+- **Original score**: n/a (targeted Hoel source-fidelity carry-forward; `scripts/curate.py` absent)
+- **Changes**:
+  - continual-learning-argument L50 (Non-triviality): "must not trivially attribute consciousness to systems that clearly lack it—lookup tables, thermostats, rocks" → Hoel's Definition 4.1 ("strict dependency between its predictions and inferences"; no mismatch possible), with the lookup-table exclusion stated as *derived* (the table's input-output function is the only basis for a prediction and also fixes all inference data) and the Definition 4.2 "non-conscious" label tied to his stated assumption that trivial theories are false. Aligned to topics/hoel-llm-consciousness-continual-learning L42-44.
+  - continual-learning-argument L52 (adjacent misattribution, same paragraph block): behaviourism re-mapped to the trivial horn with input-output functionalism; "structural theories ... attribute consciousness to systems we construct to mimic that organisation" (not Hoel's mechanism) → falsified *a priori* because an input-output-preserving substitution (unfolding recurrent→feedforward) changes their predictions while inferences stay fixed (topic L40/L46).
+  - continual-learning-argument L156: "aligns with all five of the Map's foundational commitments" → verdict on current LLMs aligns, "though his framework also presses on dualism itself" (topic Relation opener; the false-ally framing the 10-10 deep review removed there).
+  - continual-learning-argument L158 (Dualism): "supports anti-functionalism ... functional equivalence is insufficient ... undermines the functionalist assumption" → narrowed to the topic's Dualism paragraph: rules out theories that settle consciousness by static input-output profile; continual learning is itself functional, so a dynamical functionalist can adopt the criterion; no favouring of dualism; Hoel lists substance dualism among "potential candidates" for scientifically trivial theories; the Map's interface reply with the residue marked open. Kept the Map's mechanism-gap speculation; "Hoel's acknowledgment that..." replaced by an anchor to Limitations.
+  - continual-learning-argument L160 (Bidirectional, beyond brief): "Hoel's argument assumes that consciousness must make a functional difference" contradicted Hoel's explicit statement that the argument "requires no opinion on whether qualia is causally relevant or epiphenomenal" (raw-grepped in v3 per today's deep-review ledger). Re-marked as the Map's reading, not his premise; "implicitly supports" → "fits".
+  - continual-learning-argument L166 (Occam): "strongly supports" → "supports"; "function is all that matters" → "static input-output function is all that matters" (same overreach as L158); dropped the redundant "Simple theories that would attribute consciousness to lookup tables are inadequate."
+  - ai-consciousness L115: "(not attributing consciousness to systems that clearly lack it, like lookup tables)" → "(predictions must not strictly depend on the behavioural data that test them)" — 12 words for 12, net zero.
+- **Engagement classification**: Hoel on substance dualism as candidate-trivial: Mixed (in-framework reply that interface-grounded predictions are not strictly dependent on behavioural data; residue, whether they can actually diverge, marked open). Mirrors the topic article.
+- **Coordination**: the 13:40Z L74/L172 feasibility rewrite is untouched (diff confined to L50, L52, L156, L158, L160, L166).
+- **Lengths**: continual-learning-argument 3,346 → 3,450 (concepts hard 3,500; 49 left). ai-consciousness 3,986 → 3,986 (topics hard 4,000).
+- **Residual (not fixed, flagged)**: ai-consciousness L96 "the proximity argument (Hoel 2025) show[s] it would attribute consciousness to systems—like lookup tables—that intuitively lack it" carries the same anti-functionalism overreach and intuitive-lack framing; no headroom (14 words) to fix it here. ai-consciousness cites Hoel as 2025 while continual-learning-argument cites 2026 (arXiv v1 Dec 2025, v3 Jan 2026). continual-learning-argument L48 Falsifiability gloss is generic rather than Hoel's (open to mismatch; not falsified a priori). Research note hoel-llm-consciousness-continual-learning-2026-01-15 L38/L100 still carry the original misstatement (historical note; carries a 09-27 correction block).
+- **Source**: [deep-review-2026-10-10-hoel-llm-consciousness-continual-learning](/reviews/deep-review-2026-10-10-hoel-llm-consciousness-continual-learning/) Remaining Items (sibling carry-forward).
+- **Published**: yes
 
 ## 15:52 - refine-draft
 - **Status**: Success

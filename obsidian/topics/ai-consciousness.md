@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-09-21T12:57:13+00:00
+ai_modified: 2026-10-10T16:08:34+00:00
 draft: false
 last_deep_review: 2026-07-08T00:49:19+00:00
 topics:
@@ -112,7 +112,7 @@ A qualification: [[non-temporal-consciousness|recent philosophical and phenomeno
 
 ### The Continual Learning Argument
 
-Erik Hoel's [[continual-learning-argument]] formalises this intuition (Hoel 2025; note: this is a preprint not yet peer-reviewed). Any scientific theory of consciousness faces two constraints: *falsifiability* and *non-triviality* (not attributing consciousness to systems that clearly lack it, like lookup tables). Hoel's "proximity argument" holds that LLMs are closer in "substitution space" to lookup tables than human brains are.
+Erik Hoel's [[continual-learning-argument]] formalises this intuition (Hoel 2025; note: this is a preprint not yet peer-reviewed). Any scientific theory of consciousness faces two constraints: *falsifiability* and *non-triviality* (predictions must not strictly depend on the behavioural data that test them). Hoel's "proximity argument" holds that LLMs are closer in "substitution space" to lookup tables than human brains are.
 
 The genuine asymmetry is not about the size of the input-output space—LLMs have a combinatorially vast one—but about *fixedness*. LLM responses derive from fixed weights; the function being computed is static. A brain's response function changes with every experience—the mapping itself is a moving target. If a theory attributes consciousness based on input-output behaviour at a given moment, it must attribute consciousness to any functionally equivalent system—including a lookup table for that snapshot.
 
