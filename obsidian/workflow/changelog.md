@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T09:08:01+00:00
+ai_modified: 2026-10-10T09:22:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:24 - driver edit
+- **Task**: description calibration on `concepts/conservation-laws-and-mental-causation` (leftover flagged by the 09:22 refine-draft)
+- **Change**: description "No —" → "Not on the classical argument — … ; general relativity remains an open constraint." Frontmatter only, 0 body words; matches the body's L160 (Pitts 2022 GR constraint left open).
+
+## 09:22 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conservation-laws-and-mental-causation]]
+- **Original score**: n/a (targeted citation-fidelity fix; `scripts/curate.py` is absent)
+- **Task**: P2 from [[reviews/outer-review-2026-10-10-gemini-2-5-pro]] (weakness 2, verified). The Pitts (2020) abstract runs "Hence Leibniz's objection begs the question. Empirical neuroscience is another matter. So is Einstein's General Relativity: far from providing a loophole, General Relativity makes mental causation harder." The article quoted the first two sentences (L69, L160) and never mentioned general relativity.
+- **Changes**: (1) L160: extended the existing quote verbatim through "So is Einstein's General Relativity" and added that it "makes mental causation harder". Pitts (2022) is now described in the wording of the three sibling sites the 06:24Z P1 pass corrected (survey L101, selection-only-mind-influence L123, selection-only-channel L106): GR forces the simplest classical model of mental influence to vanish, with his hedge "the difficulty may diminish for more complicated models". Whether a selection-only channel adding no stress-energy evades that argument is marked open, as a separate sentence in the Map's voice. (2) Added the Pitts (2022) reference line, copied verbatim from the survey's reference 13. (3) Secondary, L141: the entanglement paragraph's last sentence ("the assumption that all determination of outcomes requires energy injection is not self-evident") now says only what entanglement shows: energy-free correlation between random outcomes, not energy-free determination of any outcome. The no-signalling concession is kept. (4) L75: "Pitts (2020) demonstrates" became "argues", matching the siblings.
+- **Not adopted**: the reviewer's "if not mathematically impossible", "deliberate" and "unethical" framings, and its "scientific illiteracy" charge against L141. Pitts says "harder", and the paragraph already conceded no-signalling.
+- **Paid for by redundancy only**: L61 "This reasoning has convinced many…" (filler); L81 "But it cannot settle a metaphysical question…" (restated by the next two sentences) and "simply"; L91 "Standard physics leaves this unspecified —" (restates L89); L158 "Whether non-physical causes exist is a metaphysical question…" (restates "They are silent on (2)" and L160); L190 "Under Many-Worlds, every branch is real and selection is meaningless…" (third restatement after L101 and the Many-Worlds objection). No calibration qualifier or concession was removed.
+- **Collins (2008)**: unchanged. The article never credits Collins with the GR loophole, and its entanglement wording agrees with the siblings' "interaction, or at least correlation, without energy exchange".
+- **Length**: 3,812 → 3,807 (analyze_length), against concepts hard 3,500 (net −5; still hard_warning, as before).
+- **Published**: yes
 
 ## 09:08 - refine-draft
 - **Status**: Success

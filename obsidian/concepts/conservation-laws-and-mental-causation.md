@@ -1,10 +1,10 @@
 ---
 title: "Conservation Laws and Mental Causation"
-description: "Does mental causation violate energy conservation? No — conservation is local and conditional, and consciousness may influence outcomes without injecting energy."
+description: "Does mental causation violate energy conservation? Not on the classical argument — conservation is local and conditional, and consciousness may influence outcomes without injecting energy; general relativity remains an open constraint."
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-10-08T11:21:51+00:00
+ai_modified: 2026-10-10T09:24:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[multi-agent-born-preservation-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-07-09T07:40:05+00:00
@@ -58,8 +58,6 @@ The conservation argument runs as follows:
 
 Sean Carroll articulates the contemporary physics version: "The laws of physics underlying everyday life are completely understood, and there's no way within those laws to allow for the information stored in our brains to persist after we die." He demands: "What particles is that soul made of? What forces are holding it together? How does it interact with ordinary matter?" Any soul-electron interaction would require new terms in the Dirac equation — terms experiments would have detected.
 
-This reasoning has convinced many that physics rules out dualist interaction.
-
 ## Why the Objection Fails
 
 ### Conservation Is Conditional on Symmetries
@@ -72,13 +70,13 @@ The dialectical situation is symmetric. The conservation objection assumes from 
 
 ### Conservation Is Local, Not Cosmic
 
-Conservation is also *local*, not global. As Pitts (2020) demonstrates, energy is conserved at each spatial point through local continuity equations, not as a universal sum. Conservation holds "not primarily for the whole universe, but in every place separately." If consciousness breaks symmetry at neural sites, conservation fails *there* while holding in every system where no mental influence operates — stars, refrigerators, particle accelerators. Local failure at the mind-brain interface is consistent with global empirical success.
+Conservation is also *local*, not global. As Pitts (2020) argues, energy is conserved at each spatial point through local continuity equations, not as a universal sum. Conservation holds "not primarily for the whole universe, but in every place separately." If consciousness breaks symmetry at neural sites, conservation fails *there* while holding in every system where no mental influence operates — stars, refrigerators, particle accelerators. Local failure at the mind-brain interface is consistent with global empirical success.
 
 ### The Standard Model Covers Closed Systems
 
 Carroll's argument that the Standard Model leaves no room for consciousness makes the same error. The Standard Model describes how physical fields interact with each other in closed systems. It says nothing about what happens when something outside the physical domain influences physical events — because it *assumes* nothing outside the physical domain exists.
 
-This is methodologically appropriate for physics. But it cannot settle a metaphysical question about whether non-physical causes exist. The Standard Model is complete *given* no external influences. If minds constitute external influences, the Model's completeness is simply irrelevant to whether mental causation occurs.
+This is methodologically appropriate for physics. The Standard Model is complete *given* no external influences. If minds constitute external influences, the Model's completeness is irrelevant to whether mental causation occurs.
 
 ## Selection Without Injection
 
@@ -88,7 +86,7 @@ Even granting that conservation holds in neural systems, a second response is av
 
 Quantum mechanics describes systems in superposition — simultaneously in multiple states. Upon measurement, the superposition "collapses" to a single definite outcome. The [[born-rule-and-the-consciousness-interface|Born rule]] gives probabilities for each outcome, but physics doesn't explain *why* one particular outcome occurs — and no quantum interpretation derives the rule without presupposing observers or probability.
 
-Standard physics leaves this unspecified — the [[measurement-problem]] remains unsolved. Whether this constitutes a "causal gap" requiring a determiner, or simply irreducible indeterminacy with no further explanation possible, is itself contested. The selection framework proposes the former; instrumentalists about quantum mechanics may deny that any explanation is needed.
+The [[measurement-problem]] remains unsolved. Whether this constitutes a "causal gap" requiring a determiner, or simply irreducible indeterminacy with no further explanation possible, is itself contested. The selection framework proposes the former; instrumentalists about quantum mechanics may deny that any explanation is needed.
 
 ### Consciousness as Selector
 
@@ -138,7 +136,7 @@ However, the broader selection framework does not stand or fall with Stapp's spe
 
 The claim that causation requires energy transfer is not self-evident. Physics already contains examples of causal influence without energy exchange:
 
-**Quantum entanglement.** Bell's theorem demonstrates that entangled particles exhibit correlations that cannot be explained by local hidden variables. As Robin Collins notes, "Bell's theorem rules out any explanation of these correlations by means of energy exchange." Whether entanglement constitutes genuine "causal influence" is contested — the no-signaling theorem prevents using it to transmit information — but the correlations themselves arise without energy transfer between the particles. If physics permits such energy-free correlations, the assumption that all determination of outcomes requires energy injection is not self-evident.
+**Quantum entanglement.** Bell's theorem demonstrates that entangled particles exhibit correlations that cannot be explained by local hidden variables. As Robin Collins notes, "Bell's theorem rules out any explanation of these correlations by means of energy exchange." Whether entanglement constitutes genuine "causal influence" is contested — the no-signaling theorem prevents using it to transmit information — but the correlations themselves arise without energy transfer between the particles. Entanglement thus shows energy-free correlation between random outcomes, not energy-free determination of any outcome.
 
 **Boundary conditions.** The shape of a container determines where gas molecules go without adding energy to them. Initial conditions and constraints influence outcomes without contributing energy. Selection among quantum outcomes resembles a constraint on which possibility actualises rather than a force that moves matter.
 
@@ -155,9 +153,9 @@ The conservation objection conflates two distinct claims:
 1. **Sufficiency**: Every physical event has a sufficient physical cause (in closed systems)
 2. **Exclusivity**: No non-physical causes exist
 
-Conservation laws support (1) for systems meeting the symmetry conditions Noether's theorem requires. They are silent on (2). Whether non-physical causes exist is a metaphysical question that conservation principles cannot answer.
+Conservation laws support (1) for systems meeting the symmetry conditions Noether's theorem requires. They are silent on (2).
 
-This matters because the debate over mental causation isn't really about conservation. The deep question is whether physics is *causally closed* — whether physical causes are not just sufficient but exclusive. As [[causal-closure]] explains, this is a philosophical thesis that cannot be established by physics alone. Pitts (2020) concurs: the a priori argument begs the question; "empirical neuroscience is another matter."
+This matters because the debate over mental causation isn't really about conservation. The deep question is whether physics is *causally closed* — whether physical causes are not just sufficient but exclusive. As [[causal-closure]] explains, this is a philosophical thesis that cannot be established by physics alone. Pitts (2020) concurs: the a priori argument begs the question; "empirical neuroscience is another matter. So is Einstein's General Relativity", which "makes mental causation harder"; Pitts (2022) argues it forces the simplest classical model of mental influence to vanish, though "the difficulty may diminish for more complicated models". Whether a selection-only channel adding no stress-energy evades that argument is open.
 
 ## Objections and Responses
 
@@ -187,7 +185,7 @@ The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Int
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires that the conservation objection not be decisive. This article argues it is not. Conservation laws are either inapplicable (because mental causation breaks the symmetry they presuppose) or irrelevant (because selection among equiprobable outcomes requires no energy transfer). Both the Noether conditionality response and the selection framework establish that conservation arguments cannot resolve the debate — though the dualist position equally presupposes its own conclusion when invoking external influence.
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet is essential: the selection framework requires that quantum measurement yields a single actual outcome. Under Many-Worlds, every branch is real and selection is meaningless — consciousness would have nothing to resolve.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet is essential: the selection framework requires that quantum measurement yields a single actual outcome.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the conservation objection itself. The apparently simpler position — physical causation is all there is, conservation rules out alternatives — purchases parsimony by assuming what it needs to prove. The conservation objection does not deliver the knock-down argument against interactionism that it is often taken to provide.
 
@@ -221,5 +219,6 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 1. Jarzynski, C. (1997). "Nonequilibrium Equality for Free Energy Differences." *Physical Review Letters*, 78(14), 2690-2693.
 1. Landauer, R. (1961). "Irreversibility and heat generation in the computing process." *IBM Journal of Research and Development*, 5(3), 183-191.
 1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
+1. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973. doi:10.1007/s10670-020-00284-7
 1. Stapp, H. P. (2005). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory (LBNL). (Peer-reviewed version published in *Zygon*, 41(3), 2006.)
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
