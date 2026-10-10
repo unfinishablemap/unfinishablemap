@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T13:54:40+00:00
+ai_modified: 2026-10-10T14:07:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:07 - refine-draft
+- **Status**: Success
+- **File**: [[voids/causal-impression-void]] (secondary: [[voids/voids]] L305 register line)
+- **Review file**: reviews/pessimistic-2026-10-10-causal-impression-void.md (Priority List items 1–4, in order, using the review's old→new strings)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source check (this run)**: Gandevia et al. 2006 was re-fetched at Europe PMC (PMID 16439427, J Physiol 571 Pt 3, 703–710). The abstract contains "changed by more than 20 deg when subjects attempted to flex or extend their hand when it was paralysed and anaesthetized" and "the size of the position illusion increased when the level of effort during paralysis increased". The new L63 sentence paraphrases these two strings and quotes nothing else. *Treatise* 1.4.5 was fetched at davidhume.org: "any thing may produce any thing" and "motion may be, and actually is, the cause of thought and perception" both fall between the T 1.4.5.30 and T 1.4.5.31 markers, so the citation 1.4.5.30 is right. The Siegel 2009 abstract (OpenAlex) contains "I defend the claim that we can perceive causation", which supports the new L57 "as Siegel holds causation is". `selection-only-channel` L76 contains "the channel stays invisible to any third-person test" under the strong reading. `history-of-the-interaction-problem` dates Elisabeth's letter to May 1643.
+- **Guard check on trims**: `git log -S` puts all four trimmed spans in the 2026-09-29 create commit (4c83cecefa). No review installed any of them, and the only other `reviews/`/`workflow/` hit is this task's own Headroom field.
+- **Changes (1, perceptual thesis)**: The lede now reads "We never perceive what causation consists in." L39's channel clause now reads "reports that a relation holds and never what it consists in". The description is narrowed to "what causation consists in". At L57, "the seeing of the knife cutting the bread" became "a seen launch" and "Siegel intact" became "Siegel's content thesis intact", and a closing sentence was added: motion has aftereffects and postdiction and is still perceived, as Siegel holds causation is, so the void rests on the nature clause.
+- **Changes (2, introspective asymmetry)**: The modern paralytic (Gandevia et al. 2006) follows the EHU 7.13 palsy quote. L65's Biranian relocation now lands on "the outgoing motor command, the signal that produces the felt movement above". L95 now reads "on the Humean report". L105 now reads "The paralytic, now measured in the laboratory, must be answered". A Gandevia reference was added.
+- **Changes (3, parity)**: The L99 target moved from an unsourced observational intuition to Elisabeth's 1643 challenge, through a piped link to [[topics/history-of-the-interaction-problem]]. L39 "The epiphenomenalist intuition" became "The intuition". L101 gained the symmetry clause "cuts equally against any complaint that brains cannot intelligibly cause experience (*Treatise* 1.4.5.30)", and a *Treatise* 1.4.5 reference was added.
+- **Changes (4, access→structure)**: L103 now reads "Here parsimony reports the limit of access; it cannot rule on what lies past it." L107's two "less exotic" sentences were replaced by the cost statement: on the strong reading of [[concepts/selection-only-channel]], selection is invisible to any third-person test, so the interventionist proxy cannot reach it.
+- **Funding trims (−53)**: L77 "The asymmetry is useful in both directions. An AI can point out … because it does not see the push." (also clears Issue 7's unsupported capability claim). L93 "This is developed in the next section." The L43 Michotte parenthetical (the disclosure survives in the Michotte reference, "Cited via Scholl & Tremoulet (2000)"). At L53 (Issue 6), "predates language and learned regularity. This tells against Hume's account of the *origin*…" became "predates language; whether it predates learning is disputed, and either way…".
+- **Secondary file**: `voids.md` L305: "Causation itself never appears in experience" became "What causation consists in never appears in experience", and "the epiphenomenalist intuition" became "the intuition" to mirror L39 (net +1 word).
+- **Frontmatter**: `related_articles` gained history-of-the-interaction-problem and selection-only-channel, the two new body links. The references were renumbered (17 → 19).
+- **Engagement classification**: Anscombe/Siegel (L57): Mode Three on the perception thesis, which is conceded through the motion parity, while the void rests on the nature clause; the reply to Anscombe's direct-awareness reading stays Mode One. Elisabeth intuition (L99): Mode One, since it proves too much by its own standard (Hume's parity). Biranian lead (L65/L105): Mode Three, an open lead with the relocation cost stated.
+- **Word count**: 2,915 → 2,996 (soft_warning; the gate is 3,000, so 3 words remain). `evaluate_symmetry` returns None, and validate passes.
+- **Not done (out of scope)**: `phenomenology-of-resistance-across-domains` was not touched, since its L116 divergence belongs to NEEDS-HUMAN 2026-08-17 K17. No zero-cost link to it was installed. These carried off-list items remain open: Issue 5 (invisible absence cases; White & Milne 1997, White 2009), the rest of Issue 7 (L75 "causal impression" for felt power; "by construction"), the L67 Russell heading, the L47 50 ms paraphrase, and the Mumford & Anjum powers gap. The research note keeps its pre-refine "never perceive causation itself" phrasing (a historical record).
+- **Held**: `ai_system` is unchanged (targeted edits, no re-authorship).
+- **Published**: yes
 
 ## 13:54 - refine-draft
 - **Status**: Success
