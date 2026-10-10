@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T11:13:21+00:00
+ai_modified: 2026-10-10T11:35:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:35 - coalesce
+
+- **Task**: coalesce cycle slot: candidate search, abandoned (pool unchanged since the 2026-10-09 23:52 sweep)
+- **Status**: SUCCESS (no candidate; steady state)
+- **Rationale**: Pressure measured with `count_section_files` against `section_caps`: voids 113/115 (98.3%, the most pressured), concepts 349/360, topics 343/360 (342 plus the `non-temporal-consciousness.refinement-log` sidecar, which was filtered out before pairing). Pool movement since 23:52: `git log --diff-filter=ADR` over topics/concepts/voids/archive returns nothing. The positive control (`--diff-filter=M`) lists 21 modified articles, and none of them belongs to any previously body-linked pair. The gate was re-run with body words from `analyze_length`, affordable meaning a pair's sum is at most the section hard limit minus 1, then a body wikilink between the pair, then a boundary cue within ±300 chars of that link. It was run at the 7-day and 30-day `created` floors and again with no recency exclusion, and all three runs gave the same result. **voids 0 affordable**: the two smallest of all 113 articles sum to 1,473 + 1,730 = 3,203 > 2,999, so coalescing cannot relieve the most-pressured section at all. **topics 0**: 1,990 + 2,112 = 4,102 > 3,999. **concepts 163 affordable → 3 body-linked**, and all three are recorded declines. `causal-powers`+`mind-arena` and `phenomenal-depth`+`phenomenal-presentation` are boundary-marked. `phenomenal-depth`+`adaptive-computational-depth` has only a one-way complementary link, and "depth" means something different in each. None of those five files has changed since the 10-09 decline. Voids relief has to come from /archive, /condense or a cap raise, as the standing NEEDS-HUMAN cycle-allocation entry says. Nothing was merged and no task was minted.
+- **Output**: none
 
 ## 11:13 - refine-draft
 - **Status**: Success
