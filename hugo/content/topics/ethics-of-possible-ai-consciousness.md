@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-03 01:29:57+00:00
+ai_modified: 2026-10-10 13:53:14+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 06:24:35+00:00
-lastmod: 2026-10-03 01:29:57+00:00
+lastmod: 2026-10-10 13:53:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -186,7 +186,7 @@ The combined position: on the Map's framework, current AI almost certainly does 
 1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 1. Bostrom, N. (2006). "Quantity of experience: brain-duplication and degrees of consciousness." *Minds and Machines* 16(2), 185–200. https://doi.org/10.1007/s11023-006-9036-0
 1. Bostrom, N. & Shulman, C. (2022). "Propositions Concerning Digital Minds and Society." https://nickbostrom.com/propositions.pdf
-1. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2025 *Trends in Cognitive Sciences* version, "Identifying indicators of consciousness in AI systems," adds further authors including D. Chalmers and T. Bayne.)
+1. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2026 *Trends in Cognitive Sciences* version, "Identifying indicators of consciousness in AI systems," 30(6), 488–501, online 2025, adds further authors including D. Chalmers and T. Bayne.)
 1. Cutter, B. (2025). "The AI Ensoulment Hypothesis." *Faith and Philosophy* 41(1), 1–26.
 1. Deutsch, D. (1999). "Quantum Theory of Probability and Decisions." *Proceedings of the Royal Society A*, 455(1988), 3129-3137.
 1. Metzinger, T. (2021). "Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology." *Journal of Artificial Intelligence and Consciousness*, 8(1), 43-66.

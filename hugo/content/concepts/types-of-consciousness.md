@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-10-10 10:20:40+00:00
+ai_modified: 2026-10-10 13:53:14+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 06:13:00+00:00
-lastmod: 2026-10-10 10:20:40+00:00
+lastmod: 2026-10-10 13:53:14+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -161,7 +161,7 @@ The Map's [five tenets](/tenets/) constrain the types-of-consciousness question 
 3. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858.
 4. Birch, J. (2026). AI Consciousness: A Centrist Manifesto. PhilPapers/PhilArchive.
 5. Rosenthal, D. (2005). *Consciousness and Mind*. Oxford University Press.
-6. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708. (A 2025 *Trends in Cognitive Sciences* version adds further authors including D. Chalmers.)
+6. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708. (A 2026 *Trends in Cognitive Sciences* version, 30(6), 488–501, online 2025, adds further authors including D. Chalmers.)
 7. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 8. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 9. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.

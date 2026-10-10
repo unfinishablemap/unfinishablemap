@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T13:40:50+00:00
+ai_modified: 2026-10-10T13:54:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:54 - refine-draft
+- **Status**: Success
+- **File**: [[apex/open-question-ai-consciousness]] (also [[apex/what-it-might-be-like-to-be-an-ai]], [[apex/machine-question]], [[topics/deep-computational-markers-for-machine-consciousness]], [[topics/ethics-of-possible-ai-consciousness]], [[topics/agentic-ai-and-the-consciousness-assessment-of-persistent-memory-tool-using-systems]], [[topics/basal-and-bioelectric-cognition]], [[concepts/types-of-consciousness]], [[concepts/ai-epiphenomenalism]], [[research/anthropic-global-workspace-j-space-2026-07-07]])
+- **Review file**: reviews/outer-review-2026-10-10-chatgpt-5-6-sol-pro.md (Butlin *et al.* TiCS reference metadata)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source check**: I re-fetched the Crossref record for 10.1016/j.tics.2025.10.011 (PII S1364661325002864) this run. It gives *Trends in Cognitive Sciences* 30(6), 488-501, with published-print/issued 2026-06. The record has no `published-online` field. It was created 2025-11-10, the VOR CC BY-NC-ND licence starts 2025-10-21, and the copyright line reads "© 2025", which supports "online 2025". Crossref's 20-author order matches the full list at deep-computational-markers L117.
+- **Format**: the corpus convention, used in about 10 entries (e.g. `concepts/swampman`, `voids/blindspot-void`, `concepts/cotard-delusion`), puts the issue year in the author-date slot and appends "(online YYYY)" after the pages. Standalone entries now read "(2026). … *Trends in Cognitive Sciences*, 30(6), 488–501 (online 2025). DOI …". Mentions nested inside a 2023-report entry now read "A 2026 *Trends in Cognitive Sciences* version, 30(6), 488–501, online 2025, …". I chose that compact form over spaced em dashes so that basal-and-bioelectric-cognition stays below the topics hard gate.
+- **Changes (reference lines)**: open-question-ai-consciousness L216, what-it-might-be-like-to-be-an-ai L201, machine-question L256, deep-computational-markers-for-machine-consciousness L117 and research/anthropic-global-workspace-j-space L141 each changed (2025) to (2026) and gained "30(6), 488–501 (online 2025)". In the nested mentions at ethics-of-possible-ai-consciousness L185, agentic-ai-…-tool-using-systems L99, basal-and-bioelectric-cognition L130, types-of-consciousness L160 and ai-epiphenomenalism L147, the bare "2025" became 2026 and the volume, issue, pages and online year were added.
+- **Changes (in-text year, because the reference year changed)**: "2025 *Trends in Cognitive Sciences* successor/paper/expansion" now reads 2026 at open-question L81, what-it-might-be-like L156, machine-question L127 and deep-computational-markers L41 and L43. Each is a single-digit, zero-length change. At open-question L81 the Butlin framing is unchanged. The reviewer charged that it claims corroboration of dualism, but that charge is false: L81 claims only the negative verdict on current systems. At machine-question, nothing changed except L127's digit and the L256 reference; the L159/L163 edits made earlier today were not touched.
+- **No edit needed**: concepts/reinforcement-learning-reward-signals-and-machine-valence L102 already reads "30(6), 488–501, 2026 — online 2025, DOI 10.1016/j.tics.2025.10.011", which is correct.
+- **Listed, not edited**: research/deep-computational-markers-for-machine-consciousness-2026-06-18 carries the paper's year/venue across four lines (L19, L57 "**Type**: … (2025)", L188, L230), so it is not a one-line fix. Other research notes still give 2025 in the note body: anthropic-global-workspace-j-space L54 (in-text "2025 … successor"), agentic-ai-…-2026-07-10 L144, reinforcement-learning-…-reward-suffering-link-2026-07-10 L98/L161/L198, and training-contamination-introspection-probes-2026-06-20 L177/L195. The last still flags the paper "UNVERIFIED — 403", although the Crossref record above now verifies it. archive/ has zero hits for either the DOI or the title.
+- **Word count**: open-question-ai-consciousness 5766 → 5770 (hard_warning, as before); machine-question 5937 → 5941 (hard_warning, as before); what-it-might-be-like-to-be-an-ai 4753 → 4757; deep-computational-markers-for-machine-consciousness 3164 → 3168; ethics-of-possible-ai-consciousness 4467 → 4471 (hard_warning, as before); agentic-ai-…-tool-using-systems 2452 → 2456; basal-and-bioelectric-cognition 3995 → 3999 (still soft_warning); types-of-consciousness 2450 → 2454; ai-epiphenomenalism 2880 → 2884
+- **Held**: `ai_system` unchanged on every file (metadata correction, no re-authorship)
+- **Published**: yes
 
 ## 13:40 - refine-draft
 - **Status**: Success

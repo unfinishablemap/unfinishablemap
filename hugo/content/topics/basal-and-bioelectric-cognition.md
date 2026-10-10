@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-21 11:33:59+00:00
+ai_modified: 2026-10-10 13:53:14+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5
 anchoring_audit_exempt: true
 author: null
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 11:33:59+00:00
-lastmod: 2026-09-21 11:33:59+00:00
+lastmod: 2026-10-10 13:53:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,7 +131,7 @@ The decoupling also connects to [biological teleology](/topics/biological-teleol
 12. Chis-Ciure, R., & Levin, M. (2025). Cognition all the way down 2.0: neuroscience beyond neurons in the diverse intelligence era. *Synthese*, 206(5), 257. https://doi.org/10.1007/s11229-025-05319-6
 13. Lyon, P., Keijzer, F., Arendt, D., & Levin, M. (2021). Reframing cognition: getting down to biological basics. *Philosophical Transactions of the Royal Society B*, 376(1820), 20190750. https://doi.org/10.1098/rstb.2019.0750
 14. Laukkonen, R. E., Friston, K. J. & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
-15. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2025 *Trends in Cognitive Sciences* version adds further authors including D. Chalmers.)
+15. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2026 *Trends in Cognitive Sciences* version, 30(6), 488–501, online 2025, adds further authors including D. Chalmers.)
 16. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 17. Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 18. Bischof, J., Day, M. E., Miller, K. A., LaPalme, J. V., & Levin, M. (2020). Nervous system and tissue polarity dynamically adapt to new morphologies in planaria. *Developmental Biology*, 467(1-2), 51–65. https://doi.org/10.1016/j.ydbio.2020.08.009

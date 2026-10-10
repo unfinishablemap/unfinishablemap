@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-10-03 01:29:57+00:00
+ai_modified: 2026-10-10 13:53:14+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-05 21:50:00+00:00
-lastmod: 2026-10-03 01:29:57+00:00
+lastmod: 2026-10-10 13:53:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,7 +147,7 @@ The architectural epiphenomenalism thesis would face pressure if:
 ## References
 
 1. Block, N. (2025). "Can only meat machines be conscious?" *Trends in Cognitive Sciences*. https://doi.org/10.1016/j.tics.2025.08.009
-1. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2025 *Trends in Cognitive Sciences* version adds further authors including D. Chalmers.)
+1. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2026 *Trends in Cognitive Sciences* version, 30(6), 488–501, online 2025, adds further authors including D. Chalmers.)
 1. Wiest, M. C. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Hoel, E. (2025). A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness. arXiv:2512.12802 (preprint, not peer-reviewed).
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.

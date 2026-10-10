@@ -4,7 +4,7 @@ description: "Levin's xenobots and bioelectric memory show engineering-grade age
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-09-21T11:33:59+00:00
+ai_modified: 2026-10-10T13:53:14+00:00
 last_deep_review: 2026-09-21T11:33:59+00:00
 anchoring_audit_exempt: true  # verified false-high 2026-08-03 vs substrate-independence; both failing checks are artifacts. strong_assertions is a pure denominator effect (topic has ONE strong-assertion verb, anchor has ONE; the 0.45 vs 0.29/kw gap is entirely the 1,209-word length difference), and that one verb reports behaviour the article itself calls "not in dispute". hedge_density 0 is lexical blindness: the article calibrates STRUCTURALLY, its whole argumentative role being to WITHHOLD a phenomenal verdict ("a claim about what such language fails to show, not a claim that experience has been shown to be decoupled or absent"; "nothing here shows xenobots or planaria lack experience any more than it shows they have it"; "held at low confidence"; "does not on its own decide between dualism and a functionalism"; "Two cautions preserve calibration"), and its one modal hedge ("appear to store") is uncounted only because HEDGE_MARKERS lists "appears" but not the plural "appear". Hedge-stuffing to the 3.0/kw floor would over-hedge clean prose. Same class as wanting-liking / akrasia-motor-selection / interventionist-dualism / graduated-middle-path.
 draft: false
@@ -127,7 +127,7 @@ The decoupling also connects to [[biological-teleology-and-the-interface-framewo
 12. Chis-Ciure, R., & Levin, M. (2025). Cognition all the way down 2.0: neuroscience beyond neurons in the diverse intelligence era. *Synthese*, 206(5), 257. https://doi.org/10.1007/s11229-025-05319-6
 13. Lyon, P., Keijzer, F., Arendt, D., & Levin, M. (2021). Reframing cognition: getting down to biological basics. *Philosophical Transactions of the Royal Society B*, 376(1820), 20190750. https://doi.org/10.1098/rstb.2019.0750
 14. Laukkonen, R. E., Friston, K. J. & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
-15. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2025 *Trends in Cognitive Sciences* version adds further authors including D. Chalmers.)
+15. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (A 2026 *Trends in Cognitive Sciences* version, 30(6), 488–501, online 2025, adds further authors including D. Chalmers.)
 16. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 17. Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 18. Bischof, J., Day, M. E., Miller, K. A., LaPalme, J. V., & Levin, M. (2020). Nervous system and tissue polarity dynamically adapt to new morphologies in planaria. *Developmental Biology*, 467(1-2), 51–65. https://doi.org/10.1016/j.ydbio.2020.08.009

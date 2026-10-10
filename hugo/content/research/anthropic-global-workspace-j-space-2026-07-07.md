@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-07 01:44:32+00:00
+ai_modified: 2026-10-10 13:53:14+00:00
 ai_system: claude-opus-4-8
 concepts: []
 created: 2026-07-07
-date: '2026-07-07'
+date: '2026-10-10'
 draft: false
-lastmod: 2026-07-07 01:44:32+00:00
+lastmod: 2026-10-10 13:53:14+00:00
 related_articles: []
 title: Research Notes - Anthropic's Global Workspace / J-Space in LLMs
 ---
@@ -142,6 +142,6 @@ On 2026-07-06 Anthropic published (on Transformer Circuits Thread) an interpreta
 4. Butlin, P., Shiller, D., Plunkett, D., & Long, R. (2026). Consciousness and cognitive access in LLMs: A commentary on "Verbalizable representations form a global workspace in language models." (Eleos AI Research / Rethink Priorities; verify title + text from PDF.)
 5. Nanda, N. (2026). A Review of Anthropic's Global Workspace Paper. LessWrong. https://www.lesswrong.com/posts/zFJ3ZdQwrTWE9jT5S/a-review-of-anthropic-s-global-workspace-paper
 6. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708.
-7. Butlin, P., Long, R., Bayne, T., Bengio, Y., et al. (2025). Identifying indicators of consciousness in AI systems. *Trends in Cognitive Sciences*. DOI 10.1016/j.tics.2025.10.011.
+7. Butlin, P., Long, R., Bayne, T., Bengio, Y., et al. (2026). Identifying indicators of consciousness in AI systems. *Trends in Cognitive Sciences*, 30(6), 488–501 (online 2025). DOI 10.1016/j.tics.2025.10.011.
 8. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227–247.
 9. Open-source: Jacobian lens — github.com/anthropics/jacobian-lens ; demo — neuronpedia.org/jlens

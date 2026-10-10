@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-09-18 15:22:00+00:00
+ai_modified: 2026-10-10 13:53:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 15:22:00+00:00
-lastmod: 2026-09-18 15:22:00+00:00
+lastmod: 2026-10-10 13:53:14+00:00
 modified: *id001
 related_articles:
 - '[[ai-consciousness]]'
@@ -101,7 +101,7 @@ That restraint is what the Map's [evidential-status discipline](/project/evident
 
 ## References
 
-1. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., Constant, A., Deane, G., Fleming, S. M., Frith, C., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (Condensed version, with additional authors including D. Chalmers, published as "Identifying indicators of consciousness in AI systems," *Trends in Cognitive Sciences*, 2025.)
+1. Butlin, P., Long, R., Elmoznino, E., Bengio, Y., Birch, J., Constant, A., Deane, G., Fleming, S. M., Frith, C., Ji, X., Kanai, R., Klein, C., Lindsay, G., Michel, M., Mudrik, L., Peters, M. A. K., Schwitzgebel, E., Simon, J., & VanRullen, R. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708. (Condensed version, with additional authors including D. Chalmers, published as "Identifying indicators of consciousness in AI systems," *Trends in Cognitive Sciences*, 30(6), 488–501, 2026; online 2025.)
 2. Wang, L., Ma, C., Feng, X., Zhang, Z., Yang, H., Zhang, J., et al. (2024). "A Survey on Large Language Model Based Autonomous Agents." *Frontiers of Computer Science*, 18(6), Article 186345. DOI 10.1007/s11704-024-40231-1.
 3. Park, J. S., O'Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). "Generative Agents: Interactive Simulacra of Human Behavior." *Proc. 36th ACM Symposium on User Interface Software and Technology (UIST '23)*. arXiv:2304.03442.
 4. Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022). "ReAct: Synergizing Reasoning and Acting in Language Models." arXiv:2210.03629; ICLR 2023.
