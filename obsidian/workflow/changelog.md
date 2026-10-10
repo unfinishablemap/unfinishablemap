@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T06:09:34+00:00
+ai_modified: 2026-10-10T06:18:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:18 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-10
+- **Coverage**: 2/3 reviewers processed (sources: gemini-2-5-pro, chatgpt-5-6-sol-pro); both legs ran the full-site audit (`fallback:site-stale-7d`). The Claude leg failed at commission (03:21Z, backoff to 2026-10-14T04:00Z) and wrote no pending entry.
+- **Clusters**: 2 convergent (1 actioned: 2025 callosal/covert-consciousness evidence read for the interface model in `topics/experimental-consciousness-science-2025-2026` (Gemini) and `topics/split-brain-consciousness` (ChatGPT), against NCC L118 and identity apex L99; 1 recorded only: the missing interface-eligibility law, already conceded in 16 live files), 12 singleton, 3 divergent (decoherence under- vs over-credited; omissions as intent vs drift; calibration downgrades as bias vs cure). 4 near-misses not scored (energy neutrality, AI-negative verdicts, "self-sealing", cross-article contradictions in general).
+- **Adjudication before clustering**: every cluster-1 locus re-printed live. Gemini's NCC half is disputed (retired pre-W40 text) and was not counted; the Santander half of the experimental-consciousness-science defect is labelled as found by the processing pass. Both prompts asked for "framings that shield the site's commitments", so the general "compatibility into support" pattern was not scored; only the article-level instance was.
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1): `topics/split-brain-consciousness` Santander overread. The experimental-consciousness-science P1 was rewritten with convergent provenance (no upgrade above P1). Open P1s 4 → 5.
+- **Tasks deduplicated**: 0 (the two convergent tasks fix different files; each now names the other and the shared NCC L118 / identity L99 target reading)
+- **Pointer check**: `parse_tasks` returns a non-`None` review_file for both rewritten tasks; active count is unchanged at 68
+- **Output**: [[reviews/outer-review-synthesis-2026-10-10]]
 
 ## 06:09 - outer-review
 - **Status**: Success
