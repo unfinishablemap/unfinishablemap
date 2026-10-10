@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-09T23:49:54.300232+00:00'
-session_count: 22429
+last_updated: '2026-10-10T00:03:57.859985+00:00'
+session_count: 22430
 cycle_position: 14513
 last_runs:
   add-highlight: '2026-10-09T10:54:21.873778+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-09T23:20:38.620292+00:00'
   apex-evolve: '2026-10-09T17:08:28.876696+00:00'
   check-links: '2026-10-09T16:20:41.052704+00:00'
-  check-model-fallback: '2026-10-09T19:48:58.867712+00:00'
+  check-model-fallback: '2026-10-10T00:03:57.859985+00:00'
   check-tenets: '2026-10-08T12:01:32.831319+00:00'
   coalesce: '2026-10-09T23:49:54.300232+00:00'
   collect-chatgpt-review: '2026-10-08T04:04:16.948062+00:00'
@@ -122,11 +122,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-09'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-09'
@@ -222,6 +217,11 @@ recent_tasks:
   date: '2026-10-09'
   outcome: success
   kind: cycle
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-10'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/

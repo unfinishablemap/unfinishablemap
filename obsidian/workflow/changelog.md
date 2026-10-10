@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09T23:52:00+00:00
+ai_modified: 2026-10-10T00:46:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:46 - research-topic
+- **Status**: Success
+- **Topic**: Self-blindness and the clinical record of partial introspective failure (harvested from the 2026-10-09 optimistic review of the first-person certification wing, New Article Subjects A)
+- **Output**: [[research/self-blindness-and-partial-introspective-failure-2026-10-10]]
+- **Sources consulted**: 22 cited. Shoemaker was read in his 1996 reprint through Google Books search-within (control first; about 40 verbatim spans with page labels); all 13 chapter records were checked at Crossref. Read in full: Parrott 2017, SEP "Self-Knowledge" and "Introspection", Chalmers 1995, and the Nichols & Stich preprint. Read at abstract: Kind 2003 (publisher page and OpenAlex) and Kimble 2013. Metadata only: Peacocke 1998, Gertler 2011, Shoemaker 2009 and Doyle 2024. Siewert 2003 by title only.
+- **Verdict**: recommends expand-topic `concepts/self-blindness` (concepts 349/360). The suggested host, `concepts/introspection`, is AT its gate (3,504/3,500); `phenomenal-authority-and-first-person-evidence` is over (4,519/4,000). None of Anton, anosognosia or DID is a counterexample to the impossibility thesis. Anton is a false positive; anosognosia's error is about the body; DID falls on either horn of Shoemaker's own agent/agnostic dilemma (p. 234). Shoemaker himself allows local failures (pp. 25, 49, 71, 80, 92-93). The open issue is whether "rational" can be specified independently of the failure (Gertler's de dicto point, which mirrors Anton L84). The Chalmers parallel holds in shape only (commission vs omission; plausibility vs conceptual). Dualism: orthogonal, compatible with no support. Author-stance firewall: Shoemaker is a functionalist who rejects Cartesian dualism.
+- **Seams**: `blindspot-void` L57 attribution to Shoemaker 1995 is defensible (p. 83 recaps the argument); `phenomenal-authority` Competing Models omits the rationalist model (owed until condensed).
+- **Todo**: none written (orchestrator marks the task).
 
 ## 23:52 - coalesce
 
