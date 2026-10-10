@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-10T01:13:38+00:00
+ai_modified: 2026-10-10T01:29:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:29 - deep-review
+- **Status**: Success
+- **File**: [[concepts/apophatic-cartography-four-criteria]]
+- **Word count**: 2766 → 2772 (+6; length-neutral, concepts soft 2500 / hard 3500)
+- **Critical issues addressed**: 5. All stem from the article's DEPENDENCIES, not the 2026-09-28 refine, which was verified correct on all three edits. (1) "absent at the cross-species boundary" (L73, L122) had been copied from the introspection-architecture exhibit at creation (`bf53cbe56b`, 2026-05-16 00:29); the exhibit changed it to "partially fillable in proxy form" six hours later (`e7bd5b4282`), and it is now "mixed and face-asymmetric". Both loci were realigned. (2) AI systems were listed among "the strongest cross-observer evidence" as "independent of human contemplative traditions" (L71), contradicting `apex/taxonomy-of-voids` L207 ("no diagnostic purchase yet"). Recast as prospective and linked to `non-human-minds-as-void-explorers` §The Inheritance Problem. (3) The calibration paragraph (L102) let the criteria scores "earn" *realistic possibility* for the interpretive significance, possibility/probability slippage at the cluster grain. The exhibit's verdict is compatibility, not support, and the compatibility-vs-support rule plus P-F1 forbid it. The cap was kept; the "earn" now requires a discriminator. Four prior reviews had praised the cap without testing the floor. (4) Dropped the exhibit's predictive-processing mark on theoretical persistence (L63) and corrected "fifty years" to "nearly fifty". (5) "Not curation artefact" was attributed to a 2026-05-15 audit that does not say it (L53).
+- **Medium issues addressed**: 2. The forced Bidirectional Interaction tenet link was replaced with an honest "silent", and an intensifier "load-bearing" was dropped.
+- **Enhancements made**: 4 (face-asymmetric verdict with cross-tradition breadth; theoretical-persistence mark; AI-as-prospective with an inheritance-problem link; compatibility ≠ support enforced in the calibration paragraph)
+- **Citations**: Chalmers 2018 (consc.net PDF, Imprint Academic 2018, 56 pp. = 6–61), Nisbett & Wilson 1977 (Crossref DOI), Levine 1983 (Crossref DOI) and Schnider 2008 (BJP/Lancet Neurology reviews) are all real-correct. Chalmers 1995 is carried. No new external cites.
+- **Reasoning mode**: no named-opponent engagements; N/A.
+- **Todo**: 2 P2 refine-draft tasks minted for out-of-scope siblings: `voids/apophatic-cartography` L70 (the Pseudo-Dionysius genealogy this page corrected on 07-16, plus the same AI-independence claim; 39 words of headroom) and `project/per-cluster-independence-scoring` L115 (the same tier licence as item 3).
+- **Output**: [[reviews/deep-review-2026-10-10-apophatic-cartography-four-criteria]]
 
 ## 01:13 - research-topic
 - **Status**: Success

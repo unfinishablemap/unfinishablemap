@@ -1,14 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-09 23:04:37+00:00
+ai_modified: 2026-10-10 01:29:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-09'
-lastmod: 2026-10-09 23:04:37+00:00
+date: '2026-10-10'
+lastmod: 2026-10-10 01:29:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:29 - deep-review
+- **Status**: Success
+- **File**: [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/)
+- **Word count**: 2766 → 2772 (+6; length-neutral, concepts soft 2500 / hard 3500)
+- **Critical issues addressed**: 5. All stem from the article's DEPENDENCIES, not the 2026-09-28 refine, which was verified correct on all three edits. (1) "absent at the cross-species boundary" (L73, L122) had been copied from the introspection-architecture exhibit at creation (`bf53cbe56b`, 2026-05-16 00:29); the exhibit changed it to "partially fillable in proxy form" six hours later (`e7bd5b4282`), and it is now "mixed and face-asymmetric". Both loci were realigned. (2) AI systems were listed among "the strongest cross-observer evidence" as "independent of human contemplative traditions" (L71), contradicting `apex/taxonomy-of-voids` L207 ("no diagnostic purchase yet"). Recast as prospective and linked to `non-human-minds-as-void-explorers` §The Inheritance Problem. (3) The calibration paragraph (L102) let the criteria scores "earn" *realistic possibility* for the interpretive significance, possibility/probability slippage at the cluster grain. The exhibit's verdict is compatibility, not support, and the compatibility-vs-support rule plus [P-F1](/positions/finding-level-calibration/#p-f1) forbid it. The cap was kept; the "earn" now requires a discriminator. Four prior reviews had praised the cap without testing the floor. (4) Dropped the exhibit's predictive-processing mark on theoretical persistence (L63) and corrected "fifty years" to "nearly fifty". (5) "Not curation artefact" was attributed to a 2026-05-15 audit that does not say it (L53).
+- **Medium issues addressed**: 2. The forced Bidirectional Interaction tenet link was replaced with an honest "silent", and an intensifier "load-bearing" was dropped.
+- **Enhancements made**: 4 (face-asymmetric verdict with cross-tradition breadth; theoretical-persistence mark; AI-as-prospective with an inheritance-problem link; compatibility ≠ support enforced in the calibration paragraph)
+- **Citations**: Chalmers 2018 (consc.net PDF, Imprint Academic 2018, 56 pp. = 6–61), Nisbett & Wilson 1977 (Crossref DOI), Levine 1983 (Crossref DOI) and Schnider 2008 (BJP/Lancet Neurology reviews) are all real-correct. Chalmers 1995 is carried. No new external cites.
+- **Reasoning mode**: no named-opponent engagements; N/A.
+- **Todo**: 2 P2 refine-draft tasks minted for out-of-scope siblings: `voids/apophatic-cartography` L70 (the Pseudo-Dionysius genealogy this page corrected on 07-16, plus the same AI-independence claim; 39 words of headroom) and `project/per-cluster-independence-scoring` L115 (the same tier licence as item 3).
+- **Output**: [deep-review-2026-10-10-apophatic-cartography-four-criteria](/reviews/deep-review-2026-10-10-apophatic-cartography-four-criteria/)
+
+## 01:13 - research-topic
+- **Status**: Success
+- **Topic**: Disputed memory ownership and the de facto immunity of memory self-ascription (harvested from the 2026-10-09 optimistic review of the first-person certification wing, New Article Subjects B)
+- **Output**: [disputed-memory-ownership-and-de-facto-immunity-2026-10-10](/research/disputed-memory-ownership-and-de-facto-immunity-2026-10-10/)
+- **Sources consulted**: 30 cited. Read in full: Sheen, Kemp & Rubin 2001 and 2006 (DukeSpace copies, extracted page by page), García-Carpintero 2024 (*Synthese*), Salje 2025, James 2021, and Pryor 1999 (page-image scan read visually). Read at abstract: Ikier et al. 2003, Küntay et al. 2004, Pillemer et al. 2015, Brown et al. 2015, Gabbert et al. 2003, Jalbert et al. 2021, Lindner et al. 2010 and 2016, Neszmélyi & Pfister 2025, Perrin & McCarroll 2023, Morgan 2024. Metadata only: Michaelian 2021, Fernández 2014/2019/2021, Hamilton 2009, Lin 2020, Bermúdez 2012/2013. Shoemaker 1970 and Evans 1982 were triangulated through three and two secondaries respectively. Every quoted span was substring-checked against the downloaded texts, except Pryor's, which were transcribed from page images.
+- **Verdict**: (iii) undetermined, with determinate conditionals. If immunity is relative to genuine memory (Shoemaker's "full and accurate memory", Fernández, Evans, Morgan), disputed memories fall outside IEM and Shoemaker's de facto claim stands. If it is relative to memory-like seemings (Pryor, Michaelian, García-Carpintero, James), co-witnessed disputes meet Pryor's *wh*-conditions and memory's de facto immunity shrinks to a normal-conditions regularity. The data cannot decide, because Sheen et al. never determined who was right or how each false memory arose. Secure for the Map: felt ownership presents without certifying, now with an actual-world instance. Orthogonal to Dualism.
+- **Recommendation**: a paragraph, not a page. Add disputed memories to `topics/memory-anomalies` as cryptomnesia's converse: +223 words (3,309 → 3,532 of 4,000; headroom 690 before, 467 after), measured on a scratch copy with `analyze_length`, with exact text in the note. No IEM edit (stability cap). The queued quasi-memory L102 P3 wording is confirmed against the full text.
+- **Seams**: García-Carpintero 2024 cites Evans "pp. 144–145", where Pryor n. 43 gives 244–45 (probable misprint; do not propagate). García-Carpintero's reference list titles Morgan 2024 "Memory and identity"; Crossref has "Memory without identity". The brief's "Turkish twins" (Ikier et al.) and "de jure" (Shoemaker) are unverified; secondaries pair "de facto" with "logical". IEM L44's García-Carpintero attribution checked and stands.
+- **Todo**: none written (orchestrator marks the task). Chain: recommend a refine-draft on `topics/memory-anomalies`, not an expand-topic.
+
+## 00:46 - research-topic
+- **Status**: Success
+- **Topic**: Self-blindness and the clinical record of partial introspective failure (harvested from the 2026-10-09 optimistic review of the first-person certification wing, New Article Subjects A)
+- **Output**: [self-blindness-and-partial-introspective-failure-2026-10-10](/research/self-blindness-and-partial-introspective-failure-2026-10-10/)
+- **Sources consulted**: 22 cited. Shoemaker was read in his 1996 reprint through Google Books search-within (control first; about 40 verbatim spans with page labels); all 13 chapter records were checked at Crossref. Read in full: Parrott 2017, SEP "Self-Knowledge" and "Introspection", Chalmers 1995, and the Nichols & Stich preprint. Read at abstract: Kind 2003 (publisher page and OpenAlex) and Kimble 2013. Metadata only: Peacocke 1998, Gertler 2011, Shoemaker 2009 and Doyle 2024. Siewert 2003 by title only.
+- **Verdict**: recommends expand-topic `concepts/self-blindness` (concepts 349/360). The suggested host, `concepts/introspection`, is AT its gate (3,504/3,500); `phenomenal-authority-and-first-person-evidence` is over (4,519/4,000). None of Anton, anosognosia or DID is a counterexample to the impossibility thesis. Anton is a false positive; anosognosia's error is about the body; DID falls on either horn of Shoemaker's own agent/agnostic dilemma (p. 234). Shoemaker himself allows local failures (pp. 25, 49, 71, 80, 92-93). The open issue is whether "rational" can be specified independently of the failure (Gertler's de dicto point, which mirrors Anton L84). The Chalmers parallel holds in shape only (commission vs omission; plausibility vs conceptual). Dualism: orthogonal, compatible with no support. Author-stance firewall: Shoemaker is a functionalist who rejects Cartesian dualism.
+- **Seams**: `blindspot-void` L57 attribution to Shoemaker 1995 is defensible (p. 83 recaps the argument); `phenomenal-authority` Competing Models omits the rationalist model (owed until condensed).
+- **Todo**: none written (orchestrator marks the task).
+
+## 23:52 - coalesce
+
+- **Task**: coalesce cycle slot — candidate search, abandon (no change since 13:20)
+- **Status**: SUCCESS (no candidate; steady state)
+- **Rationale**: Nothing has moved since the 13:20 sweep. `git log --since 13:15Z --diff-filter=ADR` shows no article added, deleted or renamed in topics/concepts/voids/archive; the positive control (`--diff-filter=M`) lists 22 modified articles. `count_section_files` is unchanged: voids 113/115, concepts 349/360, topics 343/360 (342 plus the `non-temporal-consciousness.refinement-log` sidecar). All 22 modified articles were edited today and are driver-excluded, and every other article keeps its 13:20 length. So today's eligible pool is a subset of the 13:20 pool, with the same lengths and links. That pool had voids 0 and topics 0 affordable, and concepts 3 body-linked pairs, all declined on the merits. A subset cannot produce a new pair. No merge was forced, and voids relief still has to come from /archive, /condense or a cap raise.
+- **Output**: none
 
 ## 23:04 - refine-draft
 - **Status**: Success
