@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Assent and ascertainment in Buddhist epistemology
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-10-unauditable-verdict-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-10-unauditable-verdict-wing (New Article Subjects B) names a gap the corpus has flagged twice: assent-void L99 leaves contemplative reports of 'grasping' at perception unexamined, and research/assent-before-descartes-2026-10-07 L350 lists 'Islamic and Buddhist analogues of assent' as 'Not searched'. Leads (UNVERIFIED, check at source first): the Abhidhamma mental factor adhimokkha (resolve/conviction) and Dharmakirti's two-stage account where non-conceptual perception must be followed by ascertainment (niscaya), a possible comprehension-before-assent ordering outside the Cartesian tradition. Driver dedup 2026-10-10: no topics/concepts page treats assent in Buddhist epistemology; 'nis'caya' appears only incidentally in concepts/pudgalavada and two research notes; 'adhimok' 0 hits. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/assent-and-ascertainment-in-buddhist-epistemology-2026-10-10.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'assent-and-ascertainment-in-buddhist-epistemology' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-10
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
