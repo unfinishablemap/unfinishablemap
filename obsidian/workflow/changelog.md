@@ -5,6 +5,22 @@ ai_modified: 2026-10-10T18:20:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 18:22 - refine-draft
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Source**: outer-review-2026-10-10-chatgpt-5-6-sol-pro, contradiction "Grade-D quantum speculation versus a supposedly grounded mechanism"; tenet-check 2026-10-10 Note 4 (addendum)
+- **Changes** (Relation to Site Perspective only; every old span asserted unique before replacement):
+  - L169 Bidirectional Interaction: "finds its physical grounding … is the mechanism by which consciousness causally influences the physical world … specifies … how its action propagates" restated as the programme's *proposed* route, held conditionally (*if* consciousness selects after decoherence), with interaction law, locus and toy model named as missing. It is graded as a framework-internal coherence result, not established mental causation, per the `positions/quantum-interface` L45 citation grade, and deep-links `[[positions/quantum-interface#^mechanism-debt]]`.
+  - L165 Dualism: removed "physics terminates at an improper mixture … precisely where a non-physical principle operates" and "the gap may not be closable by physics alone", both written before the collapse-ordering sweep. The paragraph now says unitary dynamics plus decoherence (quantum Darwinism included) leaves the outcome gap open. On the Map's collapse ordering (linked `[[prebiotic-collapse]]`), physical reduction fixes collapse and outcome universe-wide, and consciousness could act only by preempting at an interface. So the gap marks where consciousness would act and is no evidence that it does, matching `prebiotic-collapse` L126/L130 and `forward-in-time-conscious-selection` L155.
+  - L167 Minimal Quantum Interaction: "the smallest possible intervention consistent with genuine causal influence" changed to "the smallest intervention that could count as causal influence, pending the bias-without-deviation dilemma above" (anchor link). This reflects the P-Q3/P-Q10 debt.
+  - L171 No Many Worlds (same-grade sweep): "insists that selection is genuine" changed to "insists that actualisation is genuine". Rejecting MWI secures single outcomes, which the collapse ordering assigns to physical reduction, so it does not secure conscious selection. L173 Occam and the section lead were checked and need no change.
+- **Length**: analyze_length 4,993 before, 4,993 after (net 0 words across the four loci; hard 5,000). Nothing was cut. The 08-03 selection-only-channel guards, the 09-11 Spekkens "statistically identical" guard and the 10:42Z hedges (L85, L109, L115, L133/L139) are all intact.
+- **Not changed (out of scope, same grade)**: L87 in the menu section still reads "The intervention is as small as it could be while still genuine". That is the body-text twin of the old L167 phrase.
+- **Reasoning-mode classification**: n/a. No named-opponent engagement was edited.
+- **ai_system**: unchanged per driver instruction
+- **Published**: yes
+
 ## 18:20 - pessimistic-review
 - **Status**: Success (reports only; no content file or todo.md edited)
 - **Content reviewed**: `voids/mirth-void` (created 2026-09-28, no commit since; first focused review of any kind; 2,848/3,000, headroom 151). Selected from the five 09-28/29 wing voids with no focused review on either coverage method. It is the only untouched one carrying a known unminted defect (tenet-check 09-30 row 4, L94). Read against its research note, `the-comic-and-humor-as-an-aesthetic-category` L71–L87, `agency-void` L64, `tenets.md` L95 (`^tenet-3-standing`), `emotion-and-dualism` L143 and `confabulation-void` L57. Primary sources checked at Europe PMC, OpenAlex, Crossref, the ACL Anthology, Gutenberg #4352, Quote Investigator and the Chudler page.

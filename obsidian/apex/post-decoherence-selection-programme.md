@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-09-30
 human_modified: null
-ai_modified: 2026-10-10T10:42:29+00:00
+ai_modified: 2026-10-10T18:21:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -162,13 +162,13 @@ The programme's incompleteness propagates downstream. Any applied conclusion tha
 
 The post-decoherence selection programme serves all five tenets while revealing their interconnections.
 
-**[[tenets#^dualism|Dualism]]** creates the programme's central question. If consciousness is irreducible to physics, and physics terminates at an improper mixture without explaining why one outcome obtains, then the gap between formalism and actuality is precisely where a non-physical principle operates. Quantum Darwinism strengthens this: the most sophisticated account of the quantum-to-classical transition still cannot close the outcome gap. If the best physics available leaves the gap open, the gap may not be closable by physics alone.
+**[[tenets#^dualism|Dualism]]** creates the programme's central question. Decoherence leaves an improper mixture, and quantum Darwinism, the most sophisticated unitary account of the quantum-to-classical transition, does not close that outcome gap. On the Map's [[prebiotic-collapse|collapse ordering]], physical reduction does, fixing collapse and outcome universe-wide; a non-physical principle could act only by preempting the outcome where an interface is present. So the gap marks where an irreducible consciousness would act; it is no evidence that consciousness does.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is *motivated by* the programme's structure rather than merely asserted. As the menu section shows, the environment does the heavy lifting, leaving consciousness the single act of actualisation: the smallest possible intervention consistent with genuine causal influence.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is *motivated by* the programme's structure rather than merely asserted. As the menu section shows, the environment does the heavy lifting, leaving consciousness the single act of actualisation: the smallest intervention that could count as causal influence, pending the [[#the-bias-without-deviation-dilemma-open|bias-without-deviation dilemma]] above.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds its physical grounding. Post-decoherence selection is the mechanism by which consciousness causally influences the physical world. Stochastic amplification shows how that influence cascades into behaviour. The programme specifies not merely that consciousness acts but how its action propagates through twelve orders of magnitude to produce the movements, words, and choices that constitute a human life.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** gets the programme's proposed physical route, held conditionally: *if* consciousness selects after decoherence, stochastic amplification would carry its bias through twelve orders of magnitude into movements, words, and choices. With the interaction law, locus and toy model still missing, the route is a framework-internal coherence result, not established mental causation ([[positions/quantum-interface#^mechanism-debt|mechanism debt]]).
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** is directly engaged. If every element of the decohered mixture is equally real, there is no selection to explain, no gap to fill, no programme to pursue. The Map's rejection of many-worlds insists that selection is genuine—that one outcome obtains and the others do not. The entire post-decoherence selection programme rests on this insistence.
+**[[tenets#^no-many-worlds|No Many Worlds]]** is directly engaged. If every element of the decohered mixture is equally real, there is no selection to explain, no gap to fill, no programme to pursue. The Map's rejection of many-worlds insists that actualisation is genuine—that one outcome obtains and the others do not. The entire post-decoherence selection programme rests on this insistence.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses the complexity of the five-component programme. The simpler response—denying the outcome gap, embracing Everettian branching—avoids the need for a selection principle, a contextual structure, an amplification pathway. But parsimony is unreliable when knowledge is incomplete. The question of why *this* outcome, for *this* observer, is a question that dissolution does not answer and simplicity cannot dismiss.
 
