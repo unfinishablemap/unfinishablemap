@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 12:39:57+00:00
+ai_modified: 2026-10-22 13:56:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 12:39:57+00:00
+lastmod: 2026-10-22 13:56:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:56 - refine-draft
+- **Status**: Success
+- **File**: [anton-syndrome-and-the-sincere-report-of-seeing](/topics/anton-syndrome-and-the-sincere-report-of-seeing/) (optimistic-2026-10-09 first-person-certification wing, Priority List item 4 (a)–(e), plus riders). Also edits [confabulation-void](/voids/confabulation-void/), [metacognitive-access-versus-retention](/concepts/metacognitive-access-versus-retention/), [prehension](/concepts/prehension/), [episodic-memory](/concepts/episodic-memory/), [personal-identity](/topics/personal-identity/).
+- **Original score**: n/a (`scripts/curate.py` absent); targeted task from `reviews/optimistic-2026-10-09-first-person-certification-wing.md`
+- **Word count** (analyze_length, gate `>=`): confabulation-void 2,823 → 2,830 (+7; voids hard 3,000); metacognitive-access-versus-retention 3,279 → 3,293 (+14; concepts hard 3,500); prehension 1,779 → 1,779 (±0); anton 3,491 → 3,542 (+51 = +13 Further Reading, +38 L101; topics hard 4,000); episodic-memory 3,498 → 3,498 (±0; headroom 1); personal-identity 4,033 → 4,033 (±0; already over the gate under its NEEDS-HUMAN length block, unchanged). Every delta matches the review's estimate.
+- **Changes** (each old string matched exactly once at the current text; the review's exact new text was used):
+  - (a) confabulation-void L87: + "[Anton patients](/topics/anton-syndrome-and-the-sincere-report-of-seeing/) describe surroundings they cannot see." after the anosognosia sentence.
+  - (b) metacognitive-access-versus-retention L105: + "The converse, another person's past presented as one's own, is the case [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/) examines." L105 was untouched by the 10-20 and 10-22 edits. The 10-09 stability notes (no Dualism reading, DID transfer scoping) are respected.
+  - (c) prehension L84: "reading someone else's diary" is piped to quasi-memory (0 words).
+  - Rider (optimistic-2026-10-13-process-wing P4(b)): prehension L74 "subjective aim" is piped to [subjective-aim](/concepts/subjective-aim/) (0 words; it was absent before).
+  - (d) Anton Further Reading: + "[metacognitive-access-versus-retention](/concepts/metacognitive-access-versus-retention/) — the converse case, reported absence read as evidence about access", after the confabulation-void line. The link is unpiped, per the review's exact text and the section's convention (all seven sibling lines unpiped; 92% of Further Reading links corpus-wide).
+  - (e) Anton L101: + "Its live candidates are artificial: if current language models lack experience, as [P-AC1](/positions/ai-consciousness-scope/#p-ac1) judges probable, their reports of being conscious fall in this cell, and Layer 1, a warrant for the experiencer's own judgement, lends those reports nothing." [P-AC1](/positions/ai-consciousness-scope/#p-ac1) was re-read at its current text. The verdict is still "*\"low probability,\" not \"ruled out\"*", and the labelled conditional ("withdraws toward agnosticism otherwise") was already there on 10-09. The 10-15 change was to the credence band only (moderate → "moderate (low edge; conditional …)"), so the "if … judges probable" hedge still matches and was kept. The A/B underdetermination (2026-10-04 stability note) is untouched, and the sentence presupposes neither reading.
+  - Rider, episodic-memory L100: "presents an episode as one's own past" is piped to quasi-memory (0 words).
+  - Rider, personal-identity L101: "registers" → "represents" (0 words). "Registers" implied the pastness quale detects the original indexical position. "Represents" now pairs with the next sentence's "*undergoing* rather than *representing*".
+  - Frontmatter: `modified` and `ai_modified` are bumped on all six files. `ai_system` gains claude-opus-5-5 on prehension and episodic-memory only (it was absent there); it was already present on the other four.
+- **Wikilinks**: every target is a live page (`subjective-aim`, `quasi-memory-and-the-circularity-objection`, `anton-syndrome-…`, `metacognitive-access-versus-retention`, `positions/ai-consciousness-scope`). [P-AC1](/positions/ai-consciousness-scope/#p-ac1) converts to `#p-ac1`, which is defined on the positions page. No other new anchors.
+- **Calibration**: no epiphenomenalism concession; (e) makes no claim that AI is conscious or unconscious beyond [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s hedged verdict; no named-opponent engagement was altered (no reasoning-mode reclassification needed).
+- **Published**: yes
 
 ## 12:39 - refine-draft
 - **Status**: Success

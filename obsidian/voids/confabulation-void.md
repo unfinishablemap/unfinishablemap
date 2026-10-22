@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T03:32:43+00:00
+ai_modified: 2026-10-22T13:56:10+00:00
 last_deep_review: 2026-09-29T01:37:29+00:00
 draft: false
 topics:
@@ -84,7 +84,7 @@ Several lines of evidence converge to suggest that this void is not merely a dif
 
 ## The Phenomenology
 
-What does it feel like to confabulate? The literature's answer: it does not feel like confabulating. Choice-blindness subjects are fluent and narratively at ease. Moral-dumbfounding subjects deliver verdicts with confidence. Anosognosic patients report left-limb action without phenomenal flag. Split-brain patients explain shovel-pointing without hesitation. The phenomenology of confabulation is the phenomenology of accurate report; this identity is the void.
+What does it feel like to confabulate? The literature's answer: it does not feel like confabulating. Choice-blindness subjects are fluent and narratively at ease. Moral-dumbfounding subjects deliver verdicts with confidence. Anosognosic patients report left-limb action without phenomenal flag. [[anton-syndrome-and-the-sincere-report-of-seeing|Anton patients]] describe surroundings they cannot see. Split-brain patients explain shovel-pointing without hesitation. The phenomenology of confabulation is the phenomenology of accurate report; this identity is the void.
 
 The closest the introspector comes to detection is *[[peritraumatic-dissociation#after-the-fact|retrospective]]* — when external evidence contradicts the explanation. Even then, what is detected is the *result* (the explanation was wrong), not the *operation* (how the wrong explanation was generated). The interpreter then generates a second-order confabulation about how the first-order confabulation came to be: "I must have been confused" or "I changed my mind." Compare [[predictive-construction-void]] for the parallel structure where the introspector cannot determine the boundary between what is constructed and what is received.
 

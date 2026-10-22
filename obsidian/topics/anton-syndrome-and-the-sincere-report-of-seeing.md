@@ -2,9 +2,9 @@
 title: "Anton Syndrome and the Sincere Report of Seeing"
 description: "Blind patients who sincerely say they see leave the Map's claim that experience exists untouched, but show that a sincere report does not certify a seeming behind it: authority belongs to seemings, not reports."
 created: 2026-10-03
-modified: 2026-10-04
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-04T00:46:37+00:00
+ai_modified: 2026-10-22T13:56:10+00:00
 draft: false
 anchoring_audit_exempt: true
 # 2026-10-03 hedge_density/underdetermination lexical false high vs higher-order-theories + blindsight: calibration is structural (A vs B left open, "cannot settle", "consistent with either A or B", abstract-strength centrepiece, named missing studies, tenet tiers). The two strong-verb hits were reading-A-dependent over-claims and were rescoped in the body.
@@ -98,7 +98,7 @@ Anton completes a typology of failed or contested self-reports once a second axi
 | **Global** | [[cotard-delusion\|Cotard delusion]]: "I do not exist", reported from somewhere | The [[philosophical-zombies\|zombie]]'s "I am conscious": hypothetical, unobservable by construction |
 | **Modal** | [[blindsight\|Blindsight]]'s "I see nothing" (contested); inverse Anton's "I feel it" | Anton: "I can see" |
 
-Three things follow. First, the [[self-stultification]] argument behind Layer 1 protects only the global-negative cell: doubting that one has experience is itself an experience, and Cotard is the clinical test of that cell. Second, the global-positive cell, where Layer 1 actually makes its claim, has no clinical instance. A false positive there would need an unconscious subject asserting consciousness, and Anton patients are conscious. Third, the modal row is where reports are false or contested in both directions under pathology. Levine's premise explains the gap: nothing comparable to self-stultification guards a modal positive, because no experience announces that a kind of experience is missing. Two neighbouring cases sit outside the table: [[covert-consciousness-and-cognitive-motor-dissociation|covert consciousness]] is the absence of report, and [[depersonalisation]] is the hedged report.
+Three things follow. First, the [[self-stultification]] argument behind Layer 1 protects only the global-negative cell: doubting that one has experience is itself an experience, and Cotard is the clinical test of that cell. Second, the global-positive cell, where Layer 1 actually makes its claim, has no clinical instance. A false positive there would need an unconscious subject asserting consciousness, and Anton patients are conscious. Its live candidates are artificial: if current language models lack experience, as [[positions/ai-consciousness-scope|P-AC1]] judges probable, their reports of being conscious fall in this cell, and Layer 1, a warrant for the experiencer's own judgement, lends those reports nothing. Third, the modal row is where reports are false or contested in both directions under pathology. Levine's premise explains the gap: nothing comparable to self-stultification guards a modal positive, because no experience announces that a kind of experience is missing. Two neighbouring cases sit outside the table: [[covert-consciousness-and-cognitive-motor-dissociation|covert consciousness]] is the absence of report, and [[depersonalisation]] is the hedged report.
 
 The modal row also bears on the Map's [[blindsight]] article, whose reply to illusionism cites patients' reports of "a striking difference" between seeing and sensing without seeing. Anton and its inverse show brain-damaged patients misclassifying seeing in both directions, so such reports need care, as that article now notes.
 
@@ -131,6 +131,7 @@ Anton leaves the Map's first-person epistemology standing and forces three clari
 - [[blindsight]] — the modal-negative cell
 - [[perceptual-reality-monitoring-void]] — the imagery/perception boundary that reading B depends on
 - [[confabulation-void]] — confabulation seen from the confabulator's side
+- [[metacognitive-access-versus-retention]] — the converse case, reported absence read as evidence about access
 
 ## References
 

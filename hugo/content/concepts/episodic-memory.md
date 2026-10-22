@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-09-17 16:39:34+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-22 13:56:10+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/autonoetic-consciousness/
@@ -38,7 +38,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[explanatory-gap]]'
 created: 2026-01-17
-date: &id001 2026-03-28
+date: &id001 2026-10-22
 description: Episodic memory is constructive re-experiencing, not data retrieval.
   Memory operates as a dual-domain capability where physical traces carry information
   while consciousness contributes autonoesis, selectional guidance, and phenomenal
@@ -47,7 +47,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 20:42:32+00:00
-lastmod: 2026-09-17 16:39:34+00:00
+lastmod: 2026-10-22 13:56:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,7 +102,7 @@ During [sleep](/concepts/sleep-and-consciousness/), memories transfer from hippo
 
 The felt sense that a remembered experience occurred *in the past* is immediately given rather than inferred: you don't conclude that yesterday's breakfast was past by reasoning about it. This makes pastness a kind of [quale](/concepts/qualia/). A system that merely stores and retrieves information lacks this qualitative character, even if it can label data with timestamps.
 
-Immediacy is not authentication. The quale presents an episode as one's own past; it does not certify that the causally proper process produced it. Robins (2016) separates the *process* of remembering from its *product*: a confabulation can replicate the product's felt character without instantiating that process, which is why source-monitoring mechanisms rather than the quale do the discriminating work between genuine memory and same-content confabulation. Conceding this costs the argument nothing it depends on. What it needs is the phenomenal datum—that there is something it is like to encounter a scene *as* one's own past, and that no account has yet derived why mechanism-output should be experienced that way rather than merely activating stored information. [The phenomenology of memory and the self](/topics/phenomenology-of-memory-and-the-self/) develops the discrimination problem at length.
+Immediacy is not authentication. The quale [presents an episode as one's own past](/concepts/quasi-memory-and-the-circularity-objection/); it does not certify that the causally proper process produced it. Robins (2016) separates the *process* of remembering from its *product*: a confabulation can replicate the product's felt character without instantiating that process, which is why source-monitoring mechanisms rather than the quale do the discriminating work between genuine memory and same-content confabulation. Conceding this costs the argument nothing it depends on. What it needs is the phenomenal datum—that there is something it is like to encounter a scene *as* one's own past, and that no account has yet derived why mechanism-output should be experienced that way rather than merely activating stored information. [The phenomenology of memory and the self](/topics/phenomenology-of-memory-and-the-self/) develops the discrimination problem at length.
 
 ### Double Presence of Self
 

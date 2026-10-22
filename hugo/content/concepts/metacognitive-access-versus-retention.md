@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-09
-ai_modified: 2026-10-22 09:05:44+00:00
+ai_modified: 2026-10-22 13:56:10+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-09 18:28:00+00:00
-lastmod: 2026-10-22 09:05:44+00:00
+lastmod: 2026-10-22 13:56:10+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -106,7 +106,7 @@ Mangiulli, Otgaar, Jelicic and Merckelbach (2022), a systematic review of 128 pu
 
 ### Depersonalisation and Patient R.B.
 
-Depersonalisation patients retrieve and report their memories, so attenuated ownership rests on self-report. A factor analysis of the Cambridge Depersonalisation Scale in 138 patients found an "Anomalous Subjective Recall" factor among four (Sierra et al. 2005). A five-factor solution in 394 patients had no separate recall factor (Simeon et al. 2008). Neither tested retrieval objectively; [depersonalisation](/concepts/depersonalisation/) develops the case. Klein and Nichols (2012), a single neurological case study, describe patient R.B., whose memories of scenes from his past were accurate but lacked the sense that they were his. They propose separate components for content and mineness. Level 4 can fail with levels 1 to 3 intact, outside any dissociative disorder.
+Depersonalisation patients retrieve and report their memories, so attenuated ownership rests on self-report. A factor analysis of the Cambridge Depersonalisation Scale in 138 patients found an "Anomalous Subjective Recall" factor among four (Sierra et al. 2005). A five-factor solution in 394 patients had no separate recall factor (Simeon et al. 2008). Neither tested retrieval objectively; [depersonalisation](/concepts/depersonalisation/) develops the case. Klein and Nichols (2012), a single neurological case study, describe patient R.B., whose memories of scenes from his past were accurate but lacked the sense that they were his. They propose separate components for content and mineness. Level 4 can fail with levels 1 to 3 intact, outside any dissociative disorder. The converse, another person's past presented as one's own, is the case [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/) examines.
 
 ## Two Defeaters for "Retained but Inaccessible" {#defeaters}
 

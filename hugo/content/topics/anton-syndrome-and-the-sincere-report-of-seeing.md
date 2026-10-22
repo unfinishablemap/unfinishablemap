@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-04 00:46:37+00:00
+ai_modified: 2026-10-22 13:56:10+00:00
 ai_system: claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -18,7 +18,7 @@ concepts:
 - '[[illusionism]]'
 - '[[depersonalisation]]'
 created: 2026-10-03
-date: &id001 2026-10-04
+date: &id001 2026-10-22
 description: 'Blind patients who sincerely say they see leave the Map''s claim that
   experience exists untouched, but show that a sincere report does not certify a seeming
   behind it: authority belongs to seemings, not reports.'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 00:46:37+00:00
-lastmod: 2026-10-04 00:46:37+00:00
+lastmod: 2026-10-22 13:56:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ Anton completes a typology of failed or contested self-reports once a second axi
 | **Global** | [Cotard delusion](/concepts/cotard-delusion/): "I do not exist", reported from somewhere | The [zombie](/concepts/philosophical-zombies/)'s "I am conscious": hypothetical, unobservable by construction |
 | **Modal** | [Blindsight](/concepts/blindsight/)'s "I see nothing" (contested); inverse Anton's "I feel it" | Anton: "I can see" |
 
-Three things follow. First, the [self-stultification](/concepts/self-stultification/) argument behind Layer 1 protects only the global-negative cell: doubting that one has experience is itself an experience, and Cotard is the clinical test of that cell. Second, the global-positive cell, where Layer 1 actually makes its claim, has no clinical instance. A false positive there would need an unconscious subject asserting consciousness, and Anton patients are conscious. Third, the modal row is where reports are false or contested in both directions under pathology. Levine's premise explains the gap: nothing comparable to self-stultification guards a modal positive, because no experience announces that a kind of experience is missing. Two neighbouring cases sit outside the table: [covert consciousness](/topics/covert-consciousness-and-cognitive-motor-dissociation/) is the absence of report, and [depersonalisation](/concepts/depersonalisation/) is the hedged report.
+Three things follow. First, the [self-stultification](/concepts/self-stultification/) argument behind Layer 1 protects only the global-negative cell: doubting that one has experience is itself an experience, and Cotard is the clinical test of that cell. Second, the global-positive cell, where Layer 1 actually makes its claim, has no clinical instance. A false positive there would need an unconscious subject asserting consciousness, and Anton patients are conscious. Its live candidates are artificial: if current language models lack experience, as [P-AC1](/positions/ai-consciousness-scope/#p-ac1) judges probable, their reports of being conscious fall in this cell, and Layer 1, a warrant for the experiencer's own judgement, lends those reports nothing. Third, the modal row is where reports are false or contested in both directions under pathology. Levine's premise explains the gap: nothing comparable to self-stultification guards a modal positive, because no experience announces that a kind of experience is missing. Two neighbouring cases sit outside the table: [covert consciousness](/topics/covert-consciousness-and-cognitive-motor-dissociation/) is the absence of report, and [depersonalisation](/concepts/depersonalisation/) is the hedged report.
 
 The modal row also bears on the Map's [blindsight](/concepts/blindsight/) article, whose reply to illusionism cites patients' reports of "a striking difference" between seeing and sensing without seeing. Anton and its inverse show brain-damaged patients misclassifying seeing in both directions, so such reports need care, as that article now notes.
 
@@ -134,6 +134,7 @@ Anton leaves the Map's first-person epistemology standing and forces three clari
 - [blindsight](/concepts/blindsight/) — the modal-negative cell
 - [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/) — the imagery/perception boundary that reading B depends on
 - [confabulation-void](/voids/confabulation-void/) — confabulation seen from the confabulator's side
+- [metacognitive-access-versus-retention](/concepts/metacognitive-access-versus-retention/) — the converse case, reported absence read as evidence about access
 
 ## References
 

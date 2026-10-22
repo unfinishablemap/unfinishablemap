@@ -2,9 +2,9 @@
 title: "Prehension"
 description: "Whitehead's concept of how each moment of reality grasps its predecessors. Prehension generalises perception and causation into a single relational structure."
 created: 2026-02-09
-modified: 2026-02-09
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-06-10T16:46:53+00:00
+ai_modified: 2026-10-22T13:56:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-06-26T11:14:10+00:00
@@ -71,7 +71,7 @@ For human consciousness, physical prehension of the immediate past constitutes w
 
 ### Concrescence
 
-Prehension feeds into concrescence—the process by which an actual occasion grows together (from the Latin *concrescere*) into a determinate unity. An occasion begins as a multiplicity of prehensions: physical feelings of past occasions, conceptual entertainments of possibilities, negative exclusions. Concrescence is the synthesis of this multiplicity into one definite outcome, guided by the occasion's "subjective aim"—its orientation toward a particular form of satisfaction. The occasion achieves that satisfaction—determinate character—and perishes, becoming datum for successor occasions.
+Prehension feeds into concrescence—the process by which an actual occasion grows together (from the Latin *concrescere*) into a determinate unity. An occasion begins as a multiplicity of prehensions: physical feelings of past occasions, conceptual entertainments of possibilities, negative exclusions. Concrescence is the synthesis of this multiplicity into one definite outcome, guided by the occasion's "[[subjective-aim|subjective aim]]"—its orientation toward a particular form of satisfaction. The occasion achieves that satisfaction—determinate character—and perishes, becoming datum for successor occasions.
 
 This rhythm of prehension-concrescence-perishing structurally parallels consciousness-influenced quantum state reduction as the Map conceives it. The occasion inherits superposed possibilities, synthesises them through subjective aim, and achieves definite form. The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] synthesis develops this parallel: prehension as inheritance from the settled past, concrescence as the moment of determination, creativity as the novel contribution consciousness makes.
 
@@ -81,7 +81,7 @@ Prehension is central to process philosophy's response to the [[combination-prob
 
 A "personally ordered society" is a stream of occasions where each prehends its immediate predecessor with peculiar intimacy—more directly than it prehends lateral contemporaries. This asymmetric intimacy constitutes personal identity across time. The current occasion doesn't merely receive data from its predecessor; it takes up that predecessor's experience as *its own* past.
 
-Critics object that this doesn't explain *why* prehensive inheritance feels unified rather than merely serial. Prehending a past occasion might be like reading someone else's diary rather than continuing one's own story. Process philosophers respond that the intimacy of immediate prehension—the directness with which each occasion grasps its predecessor—is constitutively different from lateral prehension. But whether this response succeeds remains debated.
+Critics object that this doesn't explain *why* prehensive inheritance feels unified rather than merely serial. Prehending a past occasion might be like [[quasi-memory-and-the-circularity-objection|reading someone else's diary]] rather than continuing one's own story. Process philosophers respond that the intimacy of immediate prehension—the directness with which each occasion grasps its predecessor—is constitutively different from lateral prehension. But whether this response succeeds remains debated.
 
 [[teaching-as-metarepresentation|Teaching]] offers a human-scale worked instance of the harder problem prehension faces here: transmission *across* personally ordered societies rather than within one. When understanding passes from teacher to learner, one stream of occasions must shape another's becoming without the intimate self-inheritance that constitutes a single mind—the intersubjective limit case of prehensive transmission.
 
