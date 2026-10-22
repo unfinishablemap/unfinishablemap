@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 22:46:04+00:00
+ai_modified: 2026-10-22 22:55:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 22:46:04+00:00
+lastmod: 2026-10-22 22:55:06+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:55 - positions-evolve
+- **Status**: Success (update [P-MA1](/positions/memory-and-autonoesis/#p-ma1); pessimistic review Priority items 1–4 plus all three optional extras)
+- **Task**: P2 queue task (todo.md 0-based index 2984). Source: [pessimistic-2026-10-22-memory-and-autonoesis](/reviews/pessimistic-2026-10-22-memory-and-autonoesis/).
+- **Positions touched**: [memory-and-autonoesis](/positions/memory-and-autonoesis/) [P-MA1](/positions/memory-and-autonoesis/#p-ma1) (Asserts, Calibration, Would shift if, heading, domain intro, description); new `Updated 2026-10-22` note; Last reviewed 2026-10-11 → 2026-10-22. No credence, grade, centrality band, maturity, discriminability, status or dependency change: the standing is unchanged in kind.
+  - Item 1: the kind is stated as remembering-as against knowing-that, individuated by mode; the register records that it does not hold autonoesis necessary for functionally characterised episodic memory (the De Brigard 2024 necessity limb that [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) L123 grants, re-verified at current text). L37/L48 "the Map's resistance to contingentism" → "the anoetic page's reading of contingentism as deflationary".
+  - Item 2: the 2026-10-12 [semanticisation](/concepts/semanticisation/) repairs carried over (deep review L31/L36/L105 re-verified). Willander & Larsson 2006 is now described by the age and rehearsal it measured, with "most semanticised" moved into the transformation reading's premise; Talarico & Rubin 2003's everyday-memory report-level fading is on the ledger, and "nothing has come in" is qualified "with access controlled".
+  - Item 3: the access condition is dated (adopted after the parent first stated the test, `5208d41590`/`b643aa736a`, but before report-level fading entered, `11c59e7618`); "fails under every route" → "every probe in the design: odour, reminder and involuntary capture" (probe list at semanticisation L72).
+  - Item 4: "has never been run" / "no one has run it" scoped to the Map's searches in the description, heading and Calibration line (writing-style L362).
+  - Extras: "sensory consciousness" → "subjective experience" (tenets wording); Gentry & Buckner "assert" → "allow"; the length-gate aside cut from the domain intro.
+  - Beyond the review's strings (±0): the first mentions of "the anoetic page" and "the parent page" (L37) are piped wikilinks, so the new referents resolve before L39/L51.
+- **Calibration-history convention**: no `memory-and-autonoesis-calibration-history` sidecar exists, and the entry's prior notes are inline, so the dated note is inline. [P-MA1](/positions/memory-and-autonoesis/#p-ma1) now carries three Updated notes (the per-entry cap).
+- **Length** (analyze_length): 1886 → 1942 (item 1) → 2008 (item 2) → 2033 (item 3) → 2045 (item 4) → 2032 (extras; the cut is −13 by whitespace split, the em-dash counting) → 2131 (Updated note +99). Positions hard 2500.
+- **Cascade**: no position lists [P-MA1](/positions/memory-and-autonoesis/#p-ma1) under Depends on. [P-TU1](/positions/thought-and-understanding/#p-tu1)'s *Argued in* cross-reference ("applied to the memory kind with content held fixed") still matches the stated kind, so nothing needs re-audit.
+- **Not edited (by instruction)**: `positions/positions.md` (3466, over hard; L93 still says "a semanticising memory changes kind"); [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) L62 (10-11 stability note) and L72 (a separate P3 owns the reconciliation with the parent's grant).
+- **Output**: no commit (orchestrator handles git).
 
 ## 22:46 - deep-review (cross-review remainder)
 - **Status**: Success

@@ -406,7 +406,8 @@ p-m5:
 p-ma1:
   bands: 'confidence: moderate · no independent evidence · moderately central'
   claim: Autonoetic re-experiencing is constitutive of the kind of memory one has rather than an accompaniment
-    to it — held at moderate credence on a decisive test that exists in design and has never been run
+    to it — held at moderate credence on a decisive test that exists in design and, as far as the Map's
+    searches reach, has never been run
   credence: moderate
   grade: D
   id: P-MA1
@@ -414,8 +415,9 @@ p-ma1:
   status: live
   structural_centrality: moderate
   summary: 'P-MA1: Autonoetic re-experiencing is constitutive of the kind of memory one has rather than
-    an accompaniment to it — held at moderate credence on a decisive test that exists in design and has
-    never been run — confidence: moderate · no independent evidence · moderately central'
+    an accompaniment to it — held at moderate credence on a decisive test that exists in design and, as
+    far as the Map''s searches reach, has never been run — confidence: moderate · no independent evidence
+    · moderately central'
   weak: 'yes'
 p-mc1:
   bands: 'confidence: high · some independent evidence · moderately central'
