@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T08:37:14.778136+00:00'
-session_count: 23169
-cycle_position: 14928
+last_updated: '2026-10-22T09:10:10.913784+00:00'
+session_count: 23170
+cycle_position: 14929
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-22T04:14:36.438290+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-22T05:36:23.563209+00:00'
+  deep-review: '2026-10-22T09:10:10.913784+00:00'
   embed-videos: '2026-10-22T06:52:32.732792+00:00'
   expand-topic: '2026-10-22T03:37:22.041392+00:00'
   harvest-research-subjects: '2026-10-22T07:52:46.679942+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 688
-  reviews_completed: 8071
+  reviews_completed: 8072
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-10-22'
-  outcome: success
-  kind: commission
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-22'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: trigger
+- task: deep-review
+  type: deep-review
+  date: '2026-10-22'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/

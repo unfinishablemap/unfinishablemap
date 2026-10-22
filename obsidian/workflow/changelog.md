@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T09:09:07+00:00
+ai_modified: 2026-10-22T09:35:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:34 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/affective-forecasting-gap]]
+- **Task**: P2 two additions from outer review 2026-10-22 ChatGPT 5.6 Sol Pro §9 + improvement 18. Review file: [[reviews/outer-review-2026-10-22-chatgpt-5-6-sol-pro]].
+- **Original score**: n/a (`scripts/curate.py` absent); task-driven addition
+- **Changes**:
+  - L76 (anticipatory vs anticipated): OLD "That is anticipatory emotion, and a forecast need not be one: a cool anticipated-emotion judgement…" → NEW: anticipatory emotion "measured at choice as immediate emotions" with the Schlösser, Dunning & Fetchenhauer 2013 definition quote and "beyond anticipated emotions"; Young, Shuster & Mikels 2019 probes "prior to participants' decision", immediate affect toward the sure option partially mediating framing, anticipated-affect mediator null (N = 32, 24). Calibration sentence: measured, not manipulated; a statistical mediator, not an identified cause; "fits the candidate currency without evidencing felt selection"; the value-blind rival reads it as a correlate of learned value; neither design holds forecast and learned value fixed as the lower rows require. No absence or exclusivity claim written. "this reading" → "the presently-felt reading" so it cannot bind to the rival's reading.
+  - L78 pronoun: "This softens the dilemma" → "The reframing softens the dilemma", because the new study sentences now sit between the reframing and the "This".
+  - L84 (battery lead-in): added Dorison, Minson & Rogers 2019 as the top row in action. A randomised forecast-correcting message made forecasts less negative (p = .028) and shifted a real choice of political material, and a preregistered replication repeated the shift. But the message also made reported experience less negative, and the authors concede demand may partly explain it, so the case discriminates nothing. Sobel Misieczko & Barber 2026 is kept as "It can also fail". The 34% figure was not used. L92 "the manipulation check the debiasing arm lacked" → "the defocusing arm", so it still binds to Sobel Misieczko alone now that two debiasing studies are cited.
+  - Refs 36–38 appended (Schlösser 2013; Young 2019; Dorison 2019). Table rows and columns unchanged.
+  - Trims (restatements only; each retained fix still stands elsewhere): L46 "Memory keeps the mean alongside the extremes and discards the length" (restates the "mean-preserving" parenthetical); L50 "The pipeline's first arrow does not always carry anything" (restates the heading); L54 "differing in study, population, endpoint and case definition" (restates L52) and "not an effect of latency" (restates "independently of elapsed time"); L58 "since an absent episode never reaches the record"; L76 "the experienced quality of simulating each outcome" (restates "experienced in their vehicle"); L80 "its rows"; L82 opening compressed (the ranking-not-magnitude point is already in the lede).
+- **Source verification** (raw text, substring grep with a negative control at 0): Crossref metadata for all three DOIs. Schlösser abstract from the Crossref JATS abstract and the OpenAlex inverted index (identical); full text not reached, so only abstract wording is used. Young: the author PDF (emocoglab.depaul.edu) of the online-first version. "These probes were presented prior to participants’ decision", N = 32 (Exp 1) and N = 24 (Exp 2), immediate affect "partially mediated" the framing effect, and the anticipated mediator was null (IE p = .63). Dorison: the author PDF. Forecast M −1.77 vs −2.20, t(780) = 2.20, p = .028; experience −0.59 vs −1.29, p = .002; "it could be the case that experimental demand is partly responsible". The preregistered replication's choice effect was checked in the Elsevier SOM (mmc1.docx): .21 vs .14, t(890) = 3.30, p < .001. That replication measured no forecasts, and the article claims only the choice shift for it.
+- **Reasoning mode**: engagement with the value-blind rival: Mode Three. The measured correlate is noted as fitting both readings, and the boundary is left marked rather than claimed as a refutation. Tenet 3 is not narrowed; only the evidential claim is scoped.
+- **Length** (body; FR and References include their headers): before prose 2,715 / Further Reading 28 / References 902 / `analyze_length` 3,615. After: prose 2,811 / 28 / 983 / 3,789 (+174). **The prose-neutral floor was NOT met: +96.** The additions are about 160 words, and only about 64 words of pure restatement could be cut. The remaining candidates are deliberate repair text from earlier refine passes (`git log -S`): L42 "not a third co-equal utility" (95898bac70), L58 "though that literature covers reconstruction…" (5f20856f1b), L78 "a relocation rather than a division of labour" (ef44c61cea), L80 "aligning the forecast to a later self…" (24ad57e046). Cutting them would regress calibration. Status is still hard_warning (hard 3,500, critical 5,000).
+- **Frontmatter**: `modified` → 2026-10-22; `ai_modified` → 2026-10-22T09:33:20+00:00; `ai_system` unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 09:09 - deep-review
 - **Status**: Success
