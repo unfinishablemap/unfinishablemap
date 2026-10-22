@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 19:28 - refine-draft (anchoring audit: false positive)
+- **Status**: Success (no content change)
+- **File**: [visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/) (queue P2, anchoring audit 2026-10-22 vs [blindsight](/concepts/blindsight/): hedge_density 2.68 < 3.00; underdetermination_markers 0 vs 2)
+- **Verdict**: lexical false-high. 0 strong-assertion hits; of 8 hedge hits, 5 sit inside quotes (Pylyshyn, Ayare & Srivastava, Mitroff, Campbell) and 2 are reporting verbs ("he suggests", "argue that existing evidence suggests"), leaving 1 in the Map's own voice. The article calibrates structurally: "contested" ×6, "if at all"/"if anywhere" ×3, "On the Map's reading" ×3, "the Map has found" ×2, "not established", "not settled science". Underdetermination is explicit in words the regex set lacks: lead "presses that claim without refuting it", weighing item 3 "What remains is whether … or …", Bidirectional "fits the tenet without evidencing it" with the physicalist reading named, Lamy "whether it generalises is contested". A marker phrase would duplicate these.
+- **Strong sentences checked against source** (cached Crossref/OpenAlex/PubMed abstracts from the 16:19Z review): Kentridge 1999 "cannot be one and the same process" is the authors' conclusion, quoted, labelled "one blindsight subject", and followed by Mole's complaint. Mattingley 1997 is labelled "In one patient", and the Map's gloss "ran before awareness was lost" matches "extinction arises only after substantial processing has generated visual surfaces". Weighing item 2 ("grouping and surface segmentation can run without awareness") rests on Driver & Vuilleumier's review ("preserved visual grouping processes" among processing "without reaching the patient's awareness"), not on Mattingley alone. Norman 2013/2015: "invisible" means unseen by report and signal detection, with parity checks in 2015. Lamy's CFS/brief-exposure cue: quoted as "conscious perception", with generality scoped as contested. Mitroff: "The objects themselves were seen". Also checked and left: Burge "tells against attribution-free indexing" (direction of his thesis, balanced by Quilty-Dunn & Green); trade-off "only if Campbell's or Smithies's … account is right" (matches host L73–L75); Occam "the simpler account"; "neither denies" (Barkasi; Berger et al.); "is untouched" for the moderate-PIT route (true of the dispute's outcome, since both sides grant sub-personal selection).
+- **Change**: frontmatter only. `anchoring_audit_exempt: true` with a one-line evidence comment after `draft: false`; `ai_modified` bumped. `ai_system` was already `claude-opus-5-5`.
+- **Calibration held**: neutral on dualism; Tenet 3 "fits without evidencing"; no epiphenomenalism concession; Tenet 5 confined to the Map's reasoning.
+- **Length**: 2,981 (unchanged; topics soft 3,000)
+- **Published**: yes
+
 ## 19:13 - refine-draft (anchoring audit: false positive)
 - **Status**: Success (no content change)
 - **File**: [chain-of-thought-as-verbal-protocol](/topics/chain-of-thought-as-verbal-protocol/)

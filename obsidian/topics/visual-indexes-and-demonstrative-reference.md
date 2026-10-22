@@ -4,8 +4,9 @@ description: "Can you refer to that object without being conscious of it? A huma
 created: 2026-10-22
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T16:19:52+00:00
+ai_modified: 2026-10-22T19:28:48+00:00
 draft: false
+anchoring_audit_exempt: true  # VERIFIED false-high 2026-10-22 vs blindsight: 0 strong-assertion hits; 7 of 8 hedges inside quotes or reporting verbs; underdetermination stated in words the regex misses - L33 "presses that claim without refuting it", L97 "What remains is whether ... or ...", L109 "fits the tenet without evidencing it", L79 "whether it generalises is contested"; single-subject studies labelled ("testing one blindsight subject", "In one patient"); masked = unseen by report and signal detection
 topics:
   - "[[singular-thought-and-acquaintance]]"
   - "[[attention-and-the-consciousness-interface]]"
