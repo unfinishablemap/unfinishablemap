@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 22:55:06+00:00
+ai_modified: 2026-10-22 23:54:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 22:55:06+00:00
+lastmod: 2026-10-22 23:54:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 23:54 - refine-draft
+- **Status**: Success (optimistic review Priority List item 1: (a), (b), (c) all applied verbatim)
+- **File**: [causal-relevance-of-content](/concepts/causal-relevance-of-content/); reciprocal in [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/)
+- **Original score**: n/a (targeted repair; `scripts/curate.py` absent)
+- **Task**: P2 queue task (todo.md 0-based index 3009). Source: [optimistic-2026-10-22-location-wing](/reviews/optimistic-2026-10-22-location-wing/) Priority List item 1 (gap + calibration + seam). Each OLD string was pulled from the review by script and re-counted at the current file (count 1 each; both files byte-identical to commit 1babd37692).
+- **Changes**:
+  - (a) L65: inserted a **Nomic subsumption** bullet before Proportionality, linked to [anomalous-monism-and-the-denial-of-strict-psychophysical-laws](/concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws/#the-epiphenomenalism-objection). Read strictly (the backing law), it excludes content along with the quale; read as admitting hedged *ceteris paribus* laws, it admits both. So it fails to separate them, like counterfactual covariation ("either" refers back to that bullet). The Proportionality bullet carries no pronoun. The bullet concedes no epiphenomenalism about content: it reports what the standard yields on the page's control case. The closing line ("the Map's answer is inclusion") is unchanged.
+  - (b) L95: the parity section's last sentence now states that physics fixes chances, not outcomes, and that closure stated as chance-fixing survives because the default reading preserves Born statistics exactly ([P-Q2](/positions/quantum-interface/#p-q2), bare ID). This closes calibration flag 1 (closure was stated only as sufficiency; the page had no "chance").
+  - (c) Anomalous monism L59: zero-word pipe `[[causal-relevance-of-content#standards|causal relevance]]`. "Strict" wording elsewhere is untouched: Davidson still denies only strict psychophysical laws.
+  - Frontmatter (both files): `modified` → 2026-10-22, `ai_modified` set from `date -u`; `ai_system` unchanged (claude-opus-5-5 already present in both).
+- **Route 3 check**: [causal-exclusion-argument](/concepts/causal-exclusion-argument/) route 3, as rewritten in the 16:47Z deep review, is still "locate the mental cause where physics is genuinely insufficient". It still says physics "fixes probabilities but not which outcome actualizes" and "Closure stated as chance-fixing is untouched: exact Born preservation leaves physics fixing every chance". The Saad delegatory-preemption reply is appended as a complementary option. The L95 reference matches.
+- **[P-Q2](/positions/quantum-interface/#p-q2) check**: the wording follows the register heading verbatim ("The default reading of MQI preserves Born statistics exactly"). Nothing says the selection biases probabilities. The register's Asserts scopes exactness to every publicly conditionable context, and route 3 and [hempels-dilemma](/topics/hempels-dilemma/) L115 make the same chance-fixing claim.
+- **Engagement classification**: n/a. No named-opponent reply was added: the bullet applies Honderich's nomic standard to the test case and rebuts no one.
+- **Length**: causal-relevance 2,499 → 2,572 (+73; analyze_length; concepts hard 3,500, headroom 927; crosses soft 2,500, which has no consequence). Anomalous monism 2,487 → 2,487.
+- **Published**: yes
 
 ## 22:55 - positions-evolve
 - **Status**: Success (update [P-MA1](/positions/memory-and-autonoesis/#p-ma1); pessimistic review Priority items 1–4 plus all three optional extras)

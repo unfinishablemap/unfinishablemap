@@ -2,9 +2,9 @@
 title: "Causal Relevance of Semantic Content"
 description: "Human-AI concept analysis: how externally fixed content could matter to behaviour, the six standard replies, and the Map's conditional answer, which leaves its content-efficacy posit open."
 created: 2026-10-21
-modified: 2026-10-21
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-21T03:08:42+00:00
+ai_modified: 2026-10-22T23:53:46+00:00
 last_deep_review: 2026-10-21T03:08:42+00:00
 draft: false
 topics:
@@ -62,6 +62,7 @@ The response families divide on whether they claim for content *efficacy*, produ
 The verdict depends on the standard chosen. What follows is the Map's synthesis, not any source's claim. The test case is an epiphenomenal quale on a property dualism with psychophysical laws, which a standard admitting wide content should ideally exclude.
 
 - **Counterfactual covariation** does not separate them. A lawfully correlated quale supports the same counterfactuals, and the worry the SEP draws from Kim (1998, pp. 70–73), that "The mental property looks like a freeloader" (§5.3), applies to both or neither.
+- **Nomic subsumption**, the standard behind [[anomalous-monism-and-the-denial-of-strict-psychophysical-laws#the-epiphenomenalism-objection|the epiphenomenalism objection to anomalous monism]], does not separate them either. Read strictly, as requiring the law that backs the causal relation, it excludes content along with the quale; read as admitting hedged, *ceteris paribus* laws, it admits the quale along with content.
 - **Proportionality** is neutral, since a necessary condition confers no causal status.
 - **Explanatory practice** cites experiences as readily as beliefs, so it counts the quale relevant, dissolving epiphenomenalism instead of excluding it.
 - **Structuring history** separates them: a quale that causes nothing cannot have figured in the recruitment that wired a state to its effect. The relevance is past-tense.
@@ -92,7 +93,7 @@ Jackson and Pettit note that, raised as a worry about efficacy, the problem "tur
 
 The debt is general in form. The SEP counts externalism among features of mental properties "no less problematic than mind–body interaction is for the Cartesian dualist" (§3). Jackson and Pettit model functionalism's problem on "the familiar objection to dualism that the interactionist variety of dualism has to give way to an epiphenomenalist variety" (1990, p. 198). Physicalists owe an account of content's relevance as content too, so the debt is no evidence against dualism in particular.
 
-It is special in payment. Jackson and Pettit locate a major difference between dualism and functionalism in supervenience: functional properties supervene on physiology (with environment and history for broad roles), while the dualist's crucial properties are, in their word, emergent (1990, p. 201). Physicalism's inheritance solutions run through that dependence: program explanation needs realizers to program for, Yablo's determinables a physical determinate, and the subset strategy a realizer whose powers include the mental property's. Denying consciousness a physical realizer, the Map cannot pay in the shared currency. Its own payment is selection at quantum indeterminacies, where no sufficient physical cause exists to exclude it ([[causal-exclusion-argument]], route 3), available but not shown to be actual.
+It is special in payment. Jackson and Pettit locate a major difference between dualism and functionalism in supervenience: functional properties supervene on physiology (with environment and history for broad roles), while the dualist's crucial properties are, in their word, emergent (1990, p. 201). Physicalism's inheritance solutions run through that dependence: program explanation needs realizers to program for, Yablo's determinables a physical determinate, and the subset strategy a realizer whose powers include the mental property's. Denying consciousness a physical realizer, the Map cannot pay in the shared currency. Its own payment is selection at quantum indeterminacies, where physics fixes chances, not outcomes, so no sufficient physical cause exists to exclude it ([[causal-exclusion-argument]], route 3). Closure stated as chance-fixing survives, since the default reading preserves Born statistics exactly (P-Q2), and the payment is available but not shown to be actual.
 
 ## Relation to Site Perspective
 

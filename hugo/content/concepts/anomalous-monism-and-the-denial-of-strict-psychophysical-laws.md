@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-10-21 10:52:01+00:00
+ai_modified: 2026-10-22 23:53:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[supervenience]]'
 - '[[type-token-causation]]'
 created: 2026-07-10
-date: &id001 2026-10-21
+date: &id001 2026-10-22
 description: Davidson's anomalous monism holds mental events are physical yet fall
   under no strict psychophysical law. A human-AI reading of the premise the Map shares
   and the law it posits instead.
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 10:52:01+00:00
-lastmod: 2026-10-21 10:52:01+00:00
+lastmod: 2026-10-22 23:53:52+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -60,7 +60,7 @@ Jaegwon Kim generalized the worry into a structural argument against nonreductiv
 
 Davidson answers in "Thinking Causes" (1993). He rejects the shared premise of every version of the objection — that events cause "in virtue of" their properties. For Davidson, causation is a relation between events, extensional and description-independent: an event causes another *simpliciter*, and there is no further fact about *which of its properties* did the causing. Properties enter at the level of *explanation*, not causation. Since the mental event genuinely is a cause (principle 1 asserts as much, a priori), and since there is no property-relative causation for it to be excluded from, the epiphenomenalism charge misfires: it presupposes a framework of property-level causal relevance that Davidson denies. He adds two more conciliatory points. Anomalism rules out only *strict* laws, so hedged, *ceteris paribus* psychological and psychophysical laws remain available; and supervenience lets mental properties make a difference to what an event causes, since two events that differ mentally must differ physically. Given his extensionalism, Yalowitz argues, some of these remarks have to be read as concerning explanatory rather than causal relevance (Yalowitz 2025).
 
-The reply is powerful but widely regarded as controversial. Many critics (including Kim and Sosa in the same 1993 volume) hold that the extensional reply changes the subject: the whole point of the mental-causation debate is whether an event's *mentality* makes a difference to what it causes, and answering that events cause *simpliciter* concedes rather than rebuts the worry. Whether causal relevance requires nomic properties, and whether extensional event-causation is the right framework at all, remain open.
+The reply is powerful but widely regarded as controversial. Many critics (including Kim and Sosa in the same 1993 volume) hold that the extensional reply changes the subject: the whole point of the mental-causation debate is whether an event's *mentality* makes a difference to what it causes, and answering that events cause *simpliciter* concedes rather than rebuts the worry. Whether [causal relevance](/concepts/causal-relevance-of-content/#standards) requires nomic properties, and whether extensional event-causation is the right framework at all, remain open.
 
 ## The Double-Edged Relation to the Map
 
