@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T10:24:43.634206+00:00'
-session_count: 23174
-cycle_position: 14932
+last_updated: '2026-10-22T10:53:40.987992+00:00'
+session_count: 23175
+cycle_position: 14933
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-22T09:45:57.564434+00:00'
   embed-videos: '2026-10-22T06:52:32.732792+00:00'
-  expand-topic: '2026-10-22T03:37:22.041392+00:00'
+  expand-topic: '2026-10-22T10:53:40.987992+00:00'
   harvest-research-subjects: '2026-10-22T07:52:46.679942+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
@@ -107,7 +107,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 357
+  topics_written: 358
   concepts_written: 362
   arguments_written: 5
   questions_written: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-22'
-  outcome: failed
-  kind: collect
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-10-22'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: agentic_social
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-22'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/inheritance-problem-for-the-psychophysical-law/
