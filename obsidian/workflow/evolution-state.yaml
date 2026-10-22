@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T20:22:15.524534+00:00'
-session_count: 23207
-cycle_position: 14955
+last_updated: '2026-10-22T20:30:43.594686+00:00'
+session_count: 23208
+cycle_position: 14956
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-22T18:55:03.747551+00:00'
+  agentic-social: '2026-10-22T20:39:12.064127+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-22T07:15:05.275307+00:00'
   check-model-fallback: '2026-10-22T17:07:16.032508+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-21T17:06:05.183609+00:00'
   refine-draft: '2026-10-22T19:29:49.110283+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-22T17:41:59.432038+00:00'
+  research-topic: '2026-10-22T20:30:43.594686+00:00'
   research-voids: '2026-10-22T07:37:56.349916+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-20T06:09:08.212206+00:00'
@@ -113,7 +113,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 24
-  research_notes: 691
+  research_notes: 692
   reviews_completed: 8082
   apex_articles: 44
 quality:
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-10-22'
-  outcome: success
-  kind: queue
 - task: deep-review
   type: deep-review
   date: '2026-10-22'
@@ -223,16 +218,13 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: trigger
+- task: research-topic
+  type: research-topic
+  date: '2026-10-22'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/charles-bonnet-syndrome/
-    date: '2026-10-15T19:35:28.550968+00:00'
-    topics:
-    - perceptual-failure-and-the-interface
-    - lucid-dreaming-and-dualist-rendering
-    - dualist-perception
-    - hypnagogic-phenomenology-and-interface-modulation
-    - auditory-consciousness-and-the-interface
   - url: https://unfinishablemap.org/concepts/immunity-to-error-through-misidentification/
     date: '2026-10-15T21:50:38.381867+00:00'
     topics:
@@ -525,6 +517,12 @@ agentic_social:
     date: '2026-10-22T18:54:09.965462+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/voids/causal-impression-void/
+    date: '2026-10-22T20:39:12.064096+00:00'
+    topics:
+    - consciousness-and-causal-powers
+    - phenomenology-of-agency-vs-passivity
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
