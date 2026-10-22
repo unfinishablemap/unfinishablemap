@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T14:44:34+00:00
+ai_modified: 2026-10-22T15:04:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:04 - deep-review
+- **Status**: Success
+- **File**: [[concepts/prehension]]
+- **Why selected**: top `deep_review.py next` candidate (score 94). The body changed for the first time since 06-09: two piped wikilinks from refine-draft `b25385094e`. Sixth review.
+- **Word count**: 1779 → 1988 (+209). Prose 1625→1828, Further Reading 88→94, References 66→66. Concepts soft limit 2500, hard limit 3500.
+- **Critical issues addressed**: 8
+  - L82/L84 "lateral contemporaries" was a factual error: Whitehead holds that contemporaries "happen in causal independence of each other" (AI 1933 ch. XII). Replaced with his contrast with bodily inheritance (ch. XI).
+  - The "personally ordered society" quote is now attributed to the process literature (Griffin 1998); Whitehead's own term is "personal order".
+  - The "eliminations" label is now Whitehead's verbatim "eliminate from feeling" (Category of Explanation xii).
+  - L64 stated Whitehead's pervasiveness as fact; it is now scoped and contrasted with the Map's restriction.
+  - The L100 "sufficiently complex neural organisation" restriction contradicted P-CS1 and has been removed.
+  - L106 "supports the tenet" is now "fits, without evidencing".
+  - The L96 modal "No experiment could distinguish" has been rescoped to present theory, with a note that testability belongs to the interface claim.
+  - Four References entries that were never cited inline (Whitehead 1933, Griffin 1998, Rescher 1996, Stapp 2011) are now cited at verified passages.
+- **Medium issues addressed**: 5
+  - L76 "inherits superposed possibilities" is now settled past plus open possibilities.
+  - Stapp credited for the concrescence–collapse identification.
+  - The Tenet 5 paragraph is limited to removing parsimony as a defeater.
+  - Whitehead's views scoped at L32, L34 and L56.
+  - Two Further Reading labels corrected.
+- **Citations**: all 5 real-correct, with raw-text quote checks.
+  - PR 1929 and AI 1933: archive.org full text.
+  - Griffin: UC Press e-book.
+  - Rescher p. 43 and Stapp ch. 13 / p. 96: Google Books search-within.
+- **Engagements**: eliminative materialists, Mode 3 (boundary-marking, unchanged).
+- **Follow-up**: sibling defects not edited.
+  - `concepts/process-philosophy` L82 has the same "lateral prehension of contemporaries" error.
+  - process-philosophy L52/L78 and `apex/process-and-consciousness` L133 call "personally ordered society" Whitehead's own phrase.
+- **Output**: [[reviews/deep-review-2026-10-22-prehension]]
 
 ## 14:44 - research-topic
 - **Status**: Success

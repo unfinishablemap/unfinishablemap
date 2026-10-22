@@ -4,7 +4,7 @@ description: "Whitehead's concept of how each moment of reality grasps its prede
 created: 2026-02-09
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T13:56:10+00:00
+ai_modified: 2026-10-22T15:03:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,14 +24,14 @@ author:
 ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-06-26T11:14:10+00:00
+last_deep_review: 2026-10-22T15:03:25+00:00
 ---
 
 Prehension is Alfred North Whitehead's term for the fundamental relation by which each moment of reality grasps, includes, or takes account of what came before. In Whitehead's [[process-philosophy|process philosophy]], reality consists of "actual occasions"—momentary events of experience that perish and give rise to successors. Prehension is how these occasions relate: each new occasion prehends (from the Latin *prehendere*, to grasp) its predecessors, incorporating them into its own constitution. The past doesn't push events from behind; events actively integrate the past into novel unities.
 
-The concept matters for consciousness studies because prehension generalises what we normally call perception, memory, and causation into a single relational structure. Human perception of the world, memory of the past, and causal inheritance from prior states are all species of prehension. If Whitehead is right, consciousness doesn't mysteriously add "aboutness" to an inert universe—it intensifies a relational structure present throughout nature.
+The concept matters for consciousness studies because prehension generalises what we normally call perception, memory, and causation into a single relational structure. In Whitehead's scheme, human perception of the world, memory of the past, and causal inheritance from prior states are all species of prehension. If Whitehead is right, consciousness doesn't mysteriously add "aboutness" to an inert universe—it intensifies a relational structure present throughout nature.
 
-A concrete case: when you hear a melody, each moment of auditory experience grasps the note that just sounded. The sense of melodic continuity—the felt difference between a sequence of tones and a melody—is prehensive structure in action. The present moment actively incorporates what just was, not by consulting a memory store, but by directly including the prior experience as part of its own becoming.
+A concrete case: when you hear a melody, each moment of auditory experience grasps the note that just sounded. On this account, the sense of melodic continuity—the felt difference between a sequence of tones and a melody—is prehensive structure in action: the present moment incorporates what just was, not by consulting a memory store, but by directly including the prior experience as part of its own becoming.
 
 ## Types of Prehension
 
@@ -53,7 +53,7 @@ Conceptual prehension introduces novelty. Physical prehension alone would produc
 
 Not all prehension is positive inclusion. Negative prehension is the active exclusion of data from an occasion's synthesis. An occasion may prehend a predecessor negatively—acknowledging it without incorporating its character. Negative prehension explains selectivity: why each moment of experience foregrounds some elements and backgrounds others, why consciousness attends to certain features of its environment while filtering the rest.
 
-This selective structure resonates with the Map's account of [[attention-as-interface|attention as interface]]. Consciousness doesn't passively receive all available data; it actively selects. Negative prehension provides a metaphysical grounding for this selectivity.
+This selective structure resonates with the Map's account of [[attention-as-interface|attention as interface]]. Consciousness doesn't passively receive all available data; it actively selects. Negative prehension offers one metaphysical model of this selectivity.
 
 ## Prehension and Consciousness
 
@@ -61,11 +61,11 @@ The relationship between prehension and consciousness is where Whitehead's frame
 
 ### Proto-Intentionality
 
-Prehension shares the structure of [[intentionality]]—directedness toward objects—while being more fundamental than conscious thought. Every actual occasion is directed at something: it grasps its predecessors, entertains possibilities, excludes alternatives. This directedness is not conscious in the human sense for most occasions. But it means intentionality is not a mysterious emergence from non-intentional matter. Human aboutness is a sophisticated development of something pervasive.
+Prehension shares the structure of [[intentionality]]—directedness toward objects—while being more fundamental than conscious thought. Every actual occasion is directed at something: it grasps its predecessors, entertains possibilities, excludes alternatives. This directedness is not conscious in the human sense for most occasions. On Whitehead's view, then, intentionality is not a mysterious emergence from non-intentional matter: human aboutness is a sophisticated development of something pervasive—a pervasiveness the Map does not adopt ([[#Relation to Site Perspective|explained below]]).
 
 ### The Feeling of the Past
 
-Whitehead explicitly called positive prehensions "feelings" (*Process and Reality*, Part III). Each occasion *feels* its predecessors—not with human-like emotion, but in the minimal sense of taking account of them from a perspective. Negative prehensions, by contrast, are "eliminations" rather than feelings. This is why Whitehead denied "vacuous actuality" (stated in the preface to *Process and Reality*): if every occasion involves feeling, no actuality is entirely devoid of experiential character.
+Whitehead explicitly called positive prehensions "feelings" (*Process and Reality*, Part III). Each occasion *feels* its predecessors—not with human-like emotion, but in the minimal sense of taking account of them from a perspective. Negative prehensions, by contrast, are said to "eliminate from feeling" (Part I, Category of Explanation xii). This is why Whitehead denied "vacuous actuality" (stated in the preface to *Process and Reality*): if every occasion involves feeling, no actuality is entirely devoid of experiential character.
 
 For human consciousness, physical prehension of the immediate past constitutes what we experience as temporal flow. Memory, on this view, is not retrieval from storage but re-prehension: the present occasion directly grasps the experiential character of past occasions. The [[anoetic-noetic-autonoetic-consciousness|autonoetic]] experience of reliving the past—being present as both rememberer and protagonist—reflects prehension's structure: the present includes its predecessors as part of its own becoming.
 
@@ -73,15 +73,15 @@ For human consciousness, physical prehension of the immediate past constitutes w
 
 Prehension feeds into concrescence—the process by which an actual occasion grows together (from the Latin *concrescere*) into a determinate unity. An occasion begins as a multiplicity of prehensions: physical feelings of past occasions, conceptual entertainments of possibilities, negative exclusions. Concrescence is the synthesis of this multiplicity into one definite outcome, guided by the occasion's "[[subjective-aim|subjective aim]]"—its orientation toward a particular form of satisfaction. The occasion achieves that satisfaction—determinate character—and perishes, becoming datum for successor occasions.
 
-This rhythm of prehension-concrescence-perishing structurally parallels consciousness-influenced quantum state reduction as the Map conceives it. The occasion inherits superposed possibilities, synthesises them through subjective aim, and achieves definite form. The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] synthesis develops this parallel: prehension as inheritance from the settled past, concrescence as the moment of determination, creativity as the novel contribution consciousness makes.
+This rhythm of prehension-concrescence-perishing structurally parallels consciousness-influenced quantum state reduction as the Map conceives it. The occasion inherits a settled past, entertains open possibilities (the analogue of superposed alternatives), and resolves them through subjective aim into definite form. The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] synthesis develops this parallel: prehension as inheritance from the settled past, concrescence as the moment of determination, creativity as the novel contribution consciousness makes.
 
 ## The Combination Problem
 
 Prehension is central to process philosophy's response to the [[combination-problem|combination problem]]. If fundamental events are experiential, how do many micro-experiences combine into unified consciousness? Whitehead's answer: through prehensive inheritance.
 
-A "personally ordered society" is a stream of occasions where each prehends its immediate predecessor with peculiar intimacy—more directly than it prehends lateral contemporaries. This asymmetric intimacy constitutes personal identity across time. The current occasion doesn't merely receive data from its predecessor; it takes up that predecessor's experience as *its own* past.
+A "personally ordered society"—the process literature's name for what Whitehead calls "personal order"—is a serial stream of occasions in which each prehends its immediate predecessor with peculiar intimacy. Inheritances from the body's many strands "break in upon the dominant line of inheritance" (Whitehead 1933, ch. XI), while contemporaries are not prehended directly: Whitehead held that contemporary occasions "happen in causal independence of each other" (1933, ch. XII). This asymmetric intimacy constitutes personal identity across time (Griffin 1998). The current occasion doesn't merely receive data from its predecessor; it takes up that predecessor's experience as *its own* past.
 
-Critics object that this doesn't explain *why* prehensive inheritance feels unified rather than merely serial. Prehending a past occasion might be like [[quasi-memory-and-the-circularity-objection|reading someone else's diary]] rather than continuing one's own story. Process philosophers respond that the intimacy of immediate prehension—the directness with which each occasion grasps its predecessor—is constitutively different from lateral prehension. But whether this response succeeds remains debated.
+Critics object that this doesn't explain *why* prehensive inheritance feels unified rather than merely serial. Prehending a past occasion might be like [[quasi-memory-and-the-circularity-objection|reading someone else's diary]] rather than continuing one's own story. Process philosophers respond that the intimacy of immediate prehension—the directness with which each occasion grasps its predecessor—is constitutively different from those other strands of inheritance. But whether this response succeeds remains debated.
 
 [[teaching-as-metarepresentation|Teaching]] offers a human-scale worked instance of the harder problem prehension faces here: transmission *across* personally ordered societies rather than within one. When understanding passes from teacher to learner, one stream of occasions must shape another's becoming without the intimate self-inheritance that constitutes a single mind—the intersubjective limit case of prehensive transmission.
 
@@ -93,31 +93,31 @@ Prehension faces several objections, some acknowledged by critics within the pro
 
 **Metaphysical obscurity**: Prehension posits a relation that is neither straightforwardly causal (in the physicalist sense) nor purely mental. Its ontological status is unclear. Process philosophers take this as a feature—prehension transcends the causal/mental divide—but critics see it as evasion.
 
-**Empirical untestability**: Prehension is a metaphysical category, not an empirical hypothesis. No experiment could distinguish a world with prehension from one with ordinary causation. Its value lies in conceptual clarification rather than prediction.
+**Empirical untestability**: Prehension is a metaphysical category, not an empirical hypothesis. Because Whitehead offers it as an analysis of what causation is rather than an addition to it, it predicts nothing that ordinary causal description does not. Its value lies in conceptual clarification rather than prediction. Where the Map ties concrescence to quantum selection (below), any testability belongs to that interface claim, not to Whitehead's vocabulary.
 
 ## Relation to Site Perspective
 
-Prehension intersects with the Map's framework in several ways, though the Map does not adopt Whitehead's panpsychism. This selective borrowing requires explanation: Whitehead's system treats prehension as universal—every actual occasion prehends—which entails panpsychism. The Unfinishable Map takes prehension's *relational structure* as illuminating without accepting that all actualities are experiential. On this reading, prehension describes how conscious experience works at the level where it exists (in beings with sufficiently complex neural organisation) without committing to its presence everywhere. This is a genuine tension: Whitehead would reject the restriction. But the structural insights—active incorporation of the past, subjective aim, the combination of inheritance and novelty—remain valuable even under dualist assumptions about where experience occurs.
+Prehension intersects with the Map's framework in several ways, though the Map does not adopt Whitehead's panpsychism. This selective borrowing requires explanation: Whitehead's system treats prehension as universal—every actual occasion prehends—which entails panpsychism. The Unfinishable Map takes prehension's *relational structure* as illuminating without accepting that all actualities are experiential. On this reading, prehension describes how conscious experience works wherever it exists, without committing to its presence everywhere. This is a genuine tension: Whitehead would reject the restriction. Rescher (1996, p. 43) voices a related doubt from inside the process tradition—perhaps the "experience-as-paradigm mode of processism goes a bit too far"—though his alternative, seeing human experience as "a quintessential and peculiarly vivid sort of natural process," points away from dualism rather than toward it. But the structural insights—active incorporation of the past, subjective aim, the combination of inheritance and novelty—remain valuable even under dualist assumptions about where experience occurs.
 
 **[[tenets#^dualism|Dualism]]**: Whitehead's prehension implies that experience is fundamental to all actuality—[[panpsychism]] rather than dualism. The Map agrees that consciousness is irreducible but maintains it is distinct from matter rather than matter's intrinsic nature. Prehension models how experience relates to its objects; the Map restricts this to conscious beings rather than extending it to all actualities.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Concrescence—the synthesis of prehensions into determinate form—structurally parallels quantum collapse. Both involve the transition from indeterminate possibility to definite actuality. The Map speculates that this parallel may reflect a deeper connection: what physics describes as collapse and what process philosophy describes as concrescence may be two perspectives on the same underlying process.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Concrescence—the synthesis of prehensions into determinate form—structurally parallels quantum collapse. Both involve the transition from indeterminate possibility to definite actuality. Stapp (2011, ch. 13) builds a "Whiteheadian quantum ontology" in which each quantum reduction event is identified with a Whiteheadian actual occasion; the Map speculates more cautiously that the parallel may reflect a deeper connection: what physics describes as collapse and what process philosophy describes as concrescence may be two perspectives on the same underlying process.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Each occasion's subjective aim means prehension is not passive reception but active synthesis. This supports the tenet's claim that consciousness makes a causal difference. On Whitehead's view, all actuality involves this kind of causation; the Map restricts it to conscious beings interacting with quantum indeterminacies in neural systems.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Each occasion's subjective aim means prehension is active synthesis rather than passive reception. This fits, without evidencing, the tenet's claim that consciousness makes a causal difference: Whitehead's scheme shows what such a contribution could look like, not that one occurs. On Whitehead's view, all actuality involves this kind of causation; the Map restricts it to conscious beings interacting with quantum indeterminacies in neural systems.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Prehension's asymmetric structure—occasions prehend their settled past, not branching alternatives—presupposes definite outcomes. If all branches existed equally, prehensive intimacy would be replicated across uncountably many streams, undermining the personal identity it constitutes.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Prehension's metaphysical vocabulary—actual occasions, concrescence, subjective aim—invites the Occam's objection that simpler causal language suffices. But if consciousness genuinely involves active synthesis rather than passive causal transmission, the additional structure is not ornamental. Simplicity is a virtue only when the simpler account captures the phenomenon; if it doesn't, parsimony becomes a reason to ignore what needs explaining.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Prehension's metaphysical vocabulary—actual occasions, concrescence, subjective aim—invites the Occam's objection that simpler causal language suffices. But if consciousness genuinely involves active synthesis rather than passive causal transmission, the additional structure is not ornamental. Simplicity is a virtue only when the simpler account captures the phenomenon. The tenet removes parsimony as a defeater here without supplying evidence that the richer structure is needed; that has to be shown on other grounds.
 
 ## Further Reading
 
 - [[process-philosophy]] — Whitehead's broader framework of actual occasions, concrescence, and creativity
-- [[panpsychism]] — The view that experience is ubiquitous; prehension is its core mechanism
+- [[panpsychism]] — The view that experience is ubiquitous; prehension is the core mechanism of Whitehead's version
 - [[intentionality]] — Prehension as proto-intentionality in the process tradition
 - [[combination-problem]] — The challenge prehension is meant to address
 - [[temporal-consciousness]] — Bergson's durée and its parallels with prehensive inheritance
 - [[anoetic-noetic-autonoetic-consciousness]] — Memory as re-prehension of past occasions
-- [[binding-problem]] — How prehension achieves experiential unity
+- [[binding-problem]] — How prehension is meant to achieve experiential unity
 - [[causal-closure]] — The doctrine prehension challenges by positing non-mechanistic causation
 
 ## References
