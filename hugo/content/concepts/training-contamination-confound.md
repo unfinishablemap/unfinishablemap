@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-09-18 13:12:46+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-22 18:16:58+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[discrimination-problem]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[anti-correlated-metacognitive-signal]]'
 - '[[evidential-status-discipline]]'
 created: 2026-05-31
-date: &id001 2026-06-20
+date: &id001 2026-10-22
 description: Human+AI analysis of why a model trained on text describing a metacognitive
   signature can imitate the pass/fail pattern for the wrong reasons—a general confound
   threatening every behavioural AI-consciousness probe.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 13:12:46+00:00
-lastmod: 2026-09-18 13:12:46+00:00
+lastmod: 2026-10-22 18:16:58+00:00
 modified: *id001
 related_articles:
 - '[[topics/anti-correlation-probes-for-ai-consciousness]]'
@@ -116,6 +116,7 @@ The disciplined conclusion: **a behavioural probe pass is, for a corpus-contamin
 - [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- [chain-of-thought-as-verbal-protocol](/topics/chain-of-thought-as-verbal-protocol/)
 - [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/)
 - [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/)
 - [evidential-status-discipline](/project/evidential-status-discipline/)

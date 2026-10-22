@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-10-22 13:56:10+00:00
+ai_modified: 2026-10-22 18:16:58+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 01:37:29+00:00
-lastmod: 2026-10-22 13:56:10+00:00
+lastmod: 2026-10-22 18:16:58+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -124,6 +124,7 @@ A reflexive implication for the Map's own method is worth marking. The voids cat
 - [predictive-construction-void](/voids/predictive-construction-void/) — parallel boundary failure in the construct-versus-receive register
 - [anosognosia-and-the-reversible-self-monitoring-channel](/topics/anosognosia-and-the-reversible-self-monitoring-channel/) — the lesion case where the missing check is reopened from outside, by a route the patient cannot open from inside
 - [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — the bodily-channel exhibit demonstrating the verbal-channel/autonomic-channel dissociation as channel-level rather than as evidence of a more accurate readout
+- [chain-of-thought-as-verbal-protocol](/topics/chain-of-thought-as-verbal-protocol/) — the machine case: reasoning traces that rationalise an answer reached by another route
 
 ## References
 

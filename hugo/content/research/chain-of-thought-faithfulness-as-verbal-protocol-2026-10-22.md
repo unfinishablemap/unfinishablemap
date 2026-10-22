@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-22
-ai_modified: 2026-10-22 17:41:09+00:00
+ai_modified: 2026-10-22 18:16:58+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-10-22 17:41:09+00:00
+lastmod: 2026-10-22 18:16:58+00:00
 modified: *id001
 recommended_action: article
 related_articles:
@@ -197,7 +197,7 @@ Ericsson and Simon's conditions for valid verbal reports transfer to language-mo
 - **Siegel, Heess, Perez-Ortiz & Camburu (2025), "Verbosity Tradeoffs and the Impact of Scale on the Faithfulness of LLM Self-Explanations", arXiv:2503.13445 (ICLR 2026 workshop). Full text read.**
   - They report Siegel et al. (2024)'s distinction between *explanatory* faithfulness ("does the explanation reflect the decision-making process") and *causal* faithfulness ("does the model’s prediction causally depend on the generated reasoning trace?") **[verbatim, both]**.
   - "Only reasoning produced before answering can be causally faithful" **[verbatim]**.
-  - They compare predict-then-explain (PE) with explain-then-predict (EP) on the same items across 75 models; the PE/EP labels are Camburu et al. 2018's, per Siegel et al. The result **[verbatim]**: "Faithfulness also fails to show improvements from EP, perhaps because the model’s task performance does not depend on its ability to reason in advance (Emmons et al., 2025)." The tasks were e-SNLI, ECQA and ComVE, which are not reasoning-heavy.
+  - They compare predict-then-explain (PE) with explain-then-predict (EP) on the same items across 75 models; the PE/EP labels are Camburu et al. 2018's, per Siegel et al. The result **[verbatim]**: "Faithfulness also fails to show improvements from EP, perhaps because the model’s task performance does not depend on its ability to reason in advance (Emmons et al., 2025)." The tasks were e-SNLI, ECQA and ComVE, which are not reasoning-heavy. [Deep review 2026-10-22: "not reasoning-heavy" is this note's characterisation, not the paper's. Siegel et al. call them "natural language classification datasets" and report that "Typically, EP fails to improve task performance over PE".]
   - Scale **[verbatim]**: "larger and more capable models are consistently more faithful on all metrics we consider".
 - **Zaman & Srivastava (2025), "Is Chain-of-Thought Really Not Explainability? Chain-of-Thought Can Be Faithful without Hint Verbalization", arXiv:2512.23032 (ACL 2026). Abstract read; full text term-counted.**
   - The hint metric "confuses unfaithfulness with incompleteness, the lossy compression needed to turn distributed transformer computation into a linear natural language narrative" **[verbatim]**.
@@ -469,6 +469,7 @@ Per `obsidian/project/writing-style.md` §"Absence and Exclusivity Claims", each
    - The Gurnee commentary PDF is the one AI document with an Ericsson citation (2 hits).
    - Scope: these sixteen texts only.
    - **Do not write "the AI literature ignores Ericsson and Simon".** Write the counted form or "the papers the Map read".
+   - **Recount (deep review, 2026-10-22):** Barez, one of the four Nisbett citers, is not among the sixteen arXiv full texts listed under "Sources fetched raw and read". The counted set is therefore seventeen (sixteen arXiv texts plus Barez): 4 cite Nisbett and Wilson, 0 cite Ericsson and Simon. Lindsey et al. 2025 (HTML) also scores 0 and 0, so including it changes neither count. The article states "seventeen".
 3. **REJECTED. "No study compares a model's concurrent and retrospective accounts of the same item."** This is false on the search: Siegel et al. 2025 compare PE and EP on the same items across 75 models, and Young 2026 compares thinking and answer channels on the same cases. The m9h README's version of the claim is narrower (two concurrent traces as a null floor) and was not checked further. **Do not assert any form of it.**
 4. **"The Map has no page on CoT faithfulness."** Measured: "chain[- ]of[- ]thought" has 1 live hit, a reference entry. This is an internal coverage claim, valid only as of 2026-10-22.
 5. **Authors' own priority claims** (Duzan & Stickland, "the first benchmark …"; Emmons et al.'s framework) must be attributed, never restated in the Map's voice.

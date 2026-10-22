@@ -2,9 +2,9 @@
 title: "Training Contamination as a Confound for AI Introspection Probes"
 description: "Human+AI analysis of why a model trained on text describing a metacognitive signature can imitate the pass/fail pattern for the wrong reasons—a general confound threatening every behavioural AI-consciousness probe."
 created: 2026-05-31
-modified: 2026-06-20
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-09-18T13:12:46+00:00
+ai_modified: 2026-10-22T18:16:58+00:00
 last_deep_review: 2026-09-18T13:12:46+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[concepts/ai-epiphenomenalism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-31
 last_curated:
 ---
@@ -112,6 +112,7 @@ The disciplined conclusion: **a behavioural probe pass is, for a corpus-contamin
 - [[concepts/ai-consciousness-typology]]
 - [[concepts/ai-epiphenomenalism]]
 - [[topics/introspection-architecture-independence-scoring]]
+- [[topics/chain-of-thought-as-verbal-protocol]]
 - [[topics/cross-architecture-llm-introspection]]
 - [[topics/pupillometry-behavioural-channel]]
 - [[evidential-status-discipline]]

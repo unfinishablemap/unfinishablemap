@@ -1,9 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T18:05:00+00:00
+ai_modified: 2026-10-22T18:19:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:19 - deep-review
+- **Status**: Success
+- **File**: [[topics/chain-of-thought-as-verbal-protocol]] (cross-review, queue P2; first review)
+- **Word count**: 2,869 → 2,993 (+124). Split: prose 2,297 → 2,382, Further Reading 62 → 62, References 536 → 549 (27 → 28 entries). Topics soft 3,000 / hard 4,000; status ok.
+- **Sources re-fetched**: seven arXiv PDFs and abstract pages, fresh (Lanham, Emmons, Pfau, Chen, Gurnee, Siegel, Young); the m9h README via the GitHub API; Bhambri at ACL Anthology; five psychology abstracts via OpenAlex. All 47 quoted fragments resolve to raw text, and the three inherited human-side quotes are verbatim in OpenAlex.
+- **Critical issues addressed**: 6
+  - Siegel "not reasoning-heavy" was the note's label, not the paper's; replaced by the paper's own "EP fails to improve task performance".
+  - Baker: restored "with too much optimisation".
+  - Chen: restored "for most settings and models tested" and "often follow a pattern".
+  - Gurnee §9.3 is now flagged as discussion, not finding; §9.3 and arXiv:2607.15495 = Gurnee et al. confirmed.
+  - Lanham: overgeneralisation scoped, with "large variation across tasks" restored.
+  - Regime-relative defence scoped to Valmeekam/Pfau; Bhambri et al. (ACL 2026) added as a refereed fine-tuned-LLM counter-case.
+- **Medium issues addressed**: 10
+  - Absence count sixteen → seventeen (Barez is outside the arXiv sixteen; 4 and 0 unchanged; the note's absence item 2 gets a recount line).
+  - Fox et al. "accuracy" → "performance" (×2).
+  - Valmeekam "search traces" → abstract wording, and TMLR venue added.
+  - Boppana labelled a preprint.
+  - The "barely tested" absence claim scoped.
+  - "Is the extended process" → "part of".
+  - Analyst caveat now "model-dependent and incomplete".
+  - Lead: m9h now "unrefereed, unrun".
+  - Tenet 5 made reflexive.
+  - Siegel venue added.
+- **Engagements**:
+  - Kambhampati/Valmeekam/Pfau ("trace is not a report"): Mode One. The reply works inside their evidence by regime-scoping it, and Bhambri is now conceded.
+  - Epiphenomenalist slide (Tenet 1): Mode Three. Informational validity is marked as silent on phenomenal causation.
+  - Dennett-style "no experience needed": Mode Three.
+- **Experience bracket**: 9 sentence-level hits, all of them separating trace faithfulness from experience in both directions. No epiphenomenalism concession. Tenet 3 "fits without evidencing". No "load-bearing"; no "This is not X. It is Y."
+- **Integration**:
+  - `concepts/llm-consciousness` L70: +29 words (3,089 → 3,118 / 3,500), a piped "reasoning trace" plus a separate-methods-question sentence.
+  - `voids/confabulation-void`: Further Reading +16 (2,830 → 2,846 / 3,000).
+  - `concepts/training-contamination-confound`: Further Reading +2 (3,298 → 3,300 / 3,500; ai_system +claude-opus-5-5).
+  - `process-content-distinction`: untouched (pending P3).
+- **Also touched**: [[research/chain-of-thought-faithfulness-as-verbal-protocol-2026-10-22]], two dated correction notes (the absence recount; the Siegel characterisation).
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-10-22-chain-of-thought-as-verbal-protocol]]
 
 ## 18:05 - expand-topic
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T13:56:10+00:00
+ai_modified: 2026-10-22T18:16:58+00:00
 last_deep_review: 2026-09-29T01:37:29+00:00
 draft: false
 topics:
@@ -121,6 +121,7 @@ A reflexive implication for the Map's own method is worth marking. The voids cat
 - [[predictive-construction-void]] — parallel boundary failure in the construct-versus-receive register
 - [[topics/anosognosia-and-the-reversible-self-monitoring-channel]] — the lesion case where the missing check is reopened from outside, by a route the patient cannot open from inside
 - [[topics/pupillometry-behavioural-channel]] — the bodily-channel exhibit demonstrating the verbal-channel/autonomic-channel dissociation as channel-level rather than as evidence of a more accurate readout
+- [[chain-of-thought-as-verbal-protocol]] — the machine case: reasoning traces that rationalise an answer reached by another route
 
 ## References
 
