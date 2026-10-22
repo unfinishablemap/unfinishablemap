@@ -10,6 +10,11 @@ related_articles: []
 title: Changelog
 ---
 
+## 19:13 - refine-draft (anchoring audit: false positive)
+- **Status**: Success (no content change)
+- **File**: [chain-of-thought-as-verbal-protocol](/topics/chain-of-thought-as-verbal-protocol/)
+- **Verdict**: lexical false-high vs [training-contamination-confound](/concepts/training-contamination-confound/): 0 strong-assertion hits, 3 of 5 hedges inside quotes, calibration carried structurally; every strong sentence checked against its source. Installed `anchoring_audit_exempt: true` (clears both anchors) to stop re-minting.
+
 ## 18:26 - refine-draft
 - **Status**: Success
 - **File**: [llm-consciousness](/concepts/llm-consciousness/) (queue P2; review file `reviews/deep-review-2026-10-22-chain-of-thought-as-verbal-protocol`, flags at L164–L165)

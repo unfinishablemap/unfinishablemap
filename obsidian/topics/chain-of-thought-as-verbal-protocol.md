@@ -4,8 +4,9 @@ description: "Ericsson and Simon's conditions for valid verbal reports, read acr
 created: 2026-10-22
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T18:16:58+00:00
+ai_modified: 2026-10-22T19:13:25+00:00
 draft: false
+anchoring_audit_exempt: true  # VERIFIED false-high 2026-10-22 vs training-contamination-confound (also clears process-content-distinction): 0 strong-assertion hits; 3 of 5 hedges inside quotes; calibration structural - L34/L102/L104 "silent on" experience, L56 "tested by none of them as such", L56/L88 "is open"/"leaves open", L106 "fits Tenet 3 without evidencing it"
 topics:
   - "[[protocol-analysis]]"
   - "[[cross-architecture-llm-introspection]]"

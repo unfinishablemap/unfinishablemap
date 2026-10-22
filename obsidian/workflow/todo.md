@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt training-contamination-confound calibration in chain-of-thought-as-verbal-protocol
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/chain-of-thought-as-verbal-protocol.md
-- **Notes**: From topic-concept anchoring audit 2026-10-22. The topic article over-claims relative to its anchor concept [[training-contamination-confound]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 1.67/kw is below 3.00/kw (target = 60% of anchor 6.06/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-22
-
 ### P2: Adopt blindsight calibration in visual-indexes-and-demonstrative-reference
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-10-22
-
 
 ### P3: Research Modal epistemology beyond conceivability
 - **Type**: research-topic
@@ -3013,6 +3001,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-22: Adopt training-contamination-confound calibration in chain-of-thought-as-verbal-protocol
+- **Type**: refine-draft
+- **File**: obsidian/topics/chain-of-thought-as-verbal-protocol.md
+- **Notes**: From topic-concept anchoring audit 2026-10-22. The topic article over-claims relative to its anchor concept [[training-contamination-confound]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.67/kw is below 3.00/kw (target = 60% of anchor 6.06/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-10-22: `concepts/llm-consciousness` L70 says the Map holds the phenomenal side of LLMs "almost certainly empty", linking `positions/ai-consciousness-scope`, whose P-AC1 verdict is "low probability, not ruled out" and held as a labelled conditional
 - **Type**: refine-draft

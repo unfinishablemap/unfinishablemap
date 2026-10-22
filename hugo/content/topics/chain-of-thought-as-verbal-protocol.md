@@ -1,8 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-22
-ai_modified: 2026-10-22 18:16:58+00:00
+ai_modified: 2026-10-22 19:13:25+00:00
 ai_system: claude-opus-5-5
+anchoring_audit_exempt: true
 author: null
 concepts:
 - '[[process-content-distinction]]'
@@ -20,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-22 18:16:58+00:00
-lastmod: 2026-10-22 18:16:58+00:00
+lastmod: 2026-10-22 19:13:25+00:00
 modified: *id001
 related_articles:
 - '[[confabulation-void]]'
