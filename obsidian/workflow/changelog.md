@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T11:48:42+00:00
+ai_modified: 2026-10-22T12:17:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:17 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-moral-life]] (5th deep review; ranked first by `deep_review.py next`, score 106; also discharges the open P3 "residual straw targets and constructions after the 2026-10-21 P2 (L55, L85, L89, L119, L125, L131)")
+- **Word count**: 2,620 → 2,821 (+201). Prose 2,125 → 2,306; Further Reading 253 unchanged; References 238 → 258. 179 below the topics soft threshold of 3,000.
+- **Critical issues addressed**: 4.
+  - L137 ran Tenet 5 forward ("cannot accommodate", "false economy"), against `tenets.md` L172 and the page's own L73 concession. It is now defensive only, and the insufficiency claim is left to the gap arguments.
+  - L115 misdescribed Haidt 2001's model. Its p. 819 reasoned-judgment and social links (verbatim via Fine 2006) put extended deliberation inside the model, so the dispute is now about frequency.
+  - L63 Prinz: the stance clause was added (response-dependent, relativist), and "sympathy" became "guilt".
+  - The banned "not X. It is Y." construction was removed at L55, L65, L89 and L93.
+- **Medium issues addressed**: 5.
+  - L119: nomological epiphenomenalism is now stated fairly (as lawful, idle accompaniment), with no concession; L121 changed in step.
+  - L125: the unsourced *mettā* claims were replaced by Visuddhimagga ch. IX (raw text checked) and a Map-reading label.
+  - L85: Kant's *Achtung* was added.
+  - L89: "tragic dilemma" became "genuine moral conflict", matching normative-void's definition.
+  - L131: the amygdala straw target was removed, and the moral case now "multiplies the instances" of the gap rather than compounding it. L103 also gained a Map-reading label.
+- **Enhancements made**: 1 (Buddhaghosa reference added).
+- **Citations**: full ledger of 17 entries. Crossref was used for 6 DOIs; the Murdoch "unselfing" and Visuddhimagga raw text were grep-verified. No fabrications. The cited-author-stance leg was recorded for every author.
+- **Output**: [[reviews/deep-review-2026-10-22-phenomenology-of-moral-life]]
 
 ## 11:48 - deep-review
 - **Status**: Success
