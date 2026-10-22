@@ -4,7 +4,7 @@ description: "Human-AI inquiry into cognitive limits as evolutionary features �
 created: 2026-03-23
 modified: 2026-09-28
 human_modified:
-ai_modified: 2026-09-28T09:53:45+00:00
+ai_modified: 2026-10-22T19:49:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ Adaptive cognitive limits are cognitive boundaries maintained by natural selecti
 
 The strongest formal evidence for adaptive cognitive limits comes from Donald Hoffman, Manish Singh, and Chetan Prakash. Their [[fitness-beats-truth|Fitness-Beats-Truth (FBT) theorem]] proves that perceptual strategies tuned to fitness payoffs generically dominate strategies tuned to objective truth — with probability approaching 1, taken over all fitness functions and prior measures, as the perceptual space grows.
 
-The theorem is a probabilistic lower bound over all fitness functions and prior measures (Prakash et al. 2021), and earlier evolutionary-game simulations point the same way: "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction" (Hoffman et al. 2015). Organisms that perceived reality more accurately were systematically outcompeted by organisms that perceived it in fitness-relevant ways.
+The theorem is a probabilistic lower bound over all fitness functions and prior measures (Prakash et al. 2021), and earlier evolutionary-game simulations point the same way: "strict interface strategies that are tuned to fitness routinely drive naïve realist and weak critical realist strategies to extinction" (Hoffman et al. 2015). Organisms that perceived reality more accurately were systematically outcompeted by organisms that perceived it in fitness-relevant ways.
 
 Hoffman's implication is that perception operates as a species-specific interface — like a desktop GUI — optimised for useful interaction rather than veridical representation. The interface hides underlying reality not because it cannot access it but because accessing it would compromise function.
 
@@ -48,7 +48,7 @@ Hoffman's implication is that perception operates as a species-specific interfac
 
 The FBT theorem addresses perception, but adaptive limits extend across cognitive architecture:
 
-**Heuristic simplification.** Gerd Gigerenzer's ecological rationality programme identifies "less-is-more" effects where "systematically ignoring part of the available information leads to more accurate inferences" (Gigerenzer & Todd 2012). The cognitive system actively discards data — and performs better for it.
+**Heuristic simplification.** Gerd Gigerenzer's ecological rationality programme identifies "less-is-more" effects where "systematically ignoring part of the available information leads to more accurate inferences" (Todd & Gigerenzer 2012). The cognitive system actively discards data — and performs better for it.
 
 **Strategic self-opacity.** Robert Trivers argues that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Multiple independent traditions converge on this claim that consciousness participates in its own limitation, as [[self-maintained-cognitive-limits]] documents.
 

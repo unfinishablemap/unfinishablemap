@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-10-12 10:27:47+00:00
+ai_modified: 2026-10-22 19:49:49+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 10:33:53+00:00
-lastmod: 2026-10-12 10:27:47+00:00
+lastmod: 2026-10-22 19:49:49+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -89,7 +89,7 @@ Convergent limits could be *architectural* (inherent to any mind structured as o
 
 ### The Fitness-Beats-Truth Theorem
 
-Hoffman, Singh, and Prakash's [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) shows that, taken over all fitness functions and prior measures, a perceptual strategy tuned to fitness payoffs strictly dominates one tuned to objective truth with probability at least (|X| − 3)/(|X| − 1) for a perceptual space of size |X| — a generic dominance that approaches certainty as the space grows, rather than a universal one (Prakash et al. 2021). Earlier evolutionary-game simulations agree: "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction" (Hoffman et al. 2015). The same paper marks the boundary — veridical perception survives where fitness varies monotonically with truth — and Berke et al. (2022) find it returning when perception serves many independent goals, so the transfer from the model to real perceivers is contested (see [Contestation and Limits](/concepts/fitness-beats-truth/#contestation-and-limits)). Perception operates as a species-specific interface optimised for useful interaction rather than veridical representation.
+Hoffman, Singh, and Prakash's [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) shows that, taken over all fitness functions and prior measures, a perceptual strategy tuned to fitness payoffs strictly dominates one tuned to objective truth with probability at least (|X| − 3)/(|X| − 1) for a perceptual space of size |X| — a generic dominance that approaches certainty as the space grows, rather than a universal one (Prakash et al. 2021). Earlier evolutionary-game simulations agree: "strict interface strategies that are tuned to fitness routinely drive naïve realist and weak critical realist strategies to extinction" (Hoffman et al. 2015). The same paper marks the boundary — veridical perception survives where fitness varies monotonically with truth — and Berke et al. (2022) find it returning when perception serves many independent goals, so the transfer from the model to real perceivers is contested (see [Contestation and Limits](/concepts/fitness-beats-truth/#contestation-and-limits)). Perception operates as a species-specific interface optimised for useful interaction rather than veridical representation.
 
 ### Adaptive Limitation Beyond Perception
 
@@ -167,7 +167,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Acta Biotheoretica*, 69(3), 319-341.
-3. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
+3. Todd, P. M., & Gigerenzer, G. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 4. von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 5. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 6. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.

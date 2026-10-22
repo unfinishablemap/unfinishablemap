@@ -1,9 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T18:26:00+00:00
+ai_modified: 2026-10-22T19:51:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:51 - deep-review
+- **Status**: Success
+- **File**: [[concepts/fitness-beats-truth]] (cycle slot, selector #1, score 69. The body changed after the 07-17 review: the 09-06 OSR cross-review, the 09-28 refine that added four quotes and Berke 2022, and the 10-12 family-resolution edit)
+- **Word count**: 2,576 → 2,635 (+59). Split: prose 2,208 → 2,251, Further Reading 170 → 163, References 195 → 219 (9 → 10 entries). Concepts thresholds are soft 2,500 / hard 3,500, gate `>=`. Status `soft_warning` before and after; hard not reached.
+- **Critical issues addressed**: 7
+  - L31: the Hoffman 2015 quote had dropped "**weak**" from "naïve realist and weak critical realist strategies" (grep of the author manuscript). Restored.
+  - L29 and description: the theorem was credited to the 2015 byline (Hoffman, Singh, Prakash). It is now credited to Prakash and co-authors (Prakash et al. 2021).
+  - §Distinguishing (L51–57): three claims contradicted the calibrated core: "entire perceptual system was optimised…", "establishes … what kind of perceptual system natural selection produces", "outcompete those that see truth". All are now scoped to "in its model", with the transfer to real perceivers marked as contested. The "not evolutionary debunking" bullet is reconciled with L63's "the evolutionary debunking Hoffman builds on the theorem".
+  - L91: the extension from perceptual FBT to the faculty that judges simplicity was stated unconditionally ("by showing that the system … was shaped by a process indifferent to truth"). It is now held at *live hypothesis*, matching §Anchoring (L77) and Hoffman's own Objection-3 reply.
+  - L81/L83: Todd & Gigerenzer were enlisted under "optimised for something other than truth". Their abstract says heuristics "excel by exploiting the reliable patterns in the world". L81 now states the narrower shared conclusion (selective ignorance), and L83 gets a stance clause and an inline cite.
+  - L84: Field & Bonsall's cost qualifier restored ("once collecting information carries a cost").
+  - L85 (open P3 task, part 2): "we deceive ourselves the better to deceive others" is absent from the BBS abstract, and the BBS full text could not be reached (paywall/429; Wayback offline). The phrase is grep-verified only in the publisher blurb for Trivers's 2011 book. It is now a paraphrase of the abstract, credited to both authors.
+- **Medium issues addressed**: 4
+  - L69: Hoffman's bootstrapping reply restated as he gives it: the games concern perception only, "each faculty must be examined on its own", and selection may allow partial accuracy in mathematics and logic. He offers it tentatively.
+  - L63: added Hoffman & Singh 2024 (*JCS* 31(9):29–41; Crossref, abstract read), their reply to Bagwell.
+  - L31: "direct consequences" → "bears on", with the antecedent fixed. L71: "neutralise" → "undercut".
+  - L65: the OSR disambiguation was tightened, and the link was kept.
+- **Citation ledger**: 10 references (9 external).
+  - 8 real-correct. Todd & Gigerenzer was real-wrong-metadata: the order was corrected to Todd first, per the OUP DOI on Crossref. Hoffman & Singh 2024 is newly added.
+  - Every quote was grep-verified in raw text. Berke ×2 and Hoffman 2015 ×2 are in abstracts (OpenAlex, PubMed). Hoffman 2015 ×2 more are in the author manuscript on the UCI site. The Prakash 2021 Theorem 4 bound and two quotes are in the authors' 2017 preprint (FBT-7-30-17); the Springer published texts sit behind a client challenge.
+  - Result-direction and stance legs were recorded for all external references. Orphans were checked both ways on (surname, year), with positive controls first: clean. The superlative sweep was empty.
+  - Full ledger in the review file.
+- **Family resolution**:
+  - Todd & Gigerenzer order propagated to [[voids/biological-cognitive-closure]] ref 3 and to three archive pages (two reference lists and one inline cite).
+  - "weak critical realist" restored in the same Hoffman quote in [[concepts/naturally-occluded]] L63, [[voids/biological-cognitive-closure]] L87 and the three archive copies.
+  - These were one-token edits: `ai_modified` bumped, `ai_system` unchanged.
+- **Engagement modes**:
+  - Materialist parsimony objection: Mode Three (FBT undercuts a default-win claim; it does not refute materialism).
+  - Structural-realism objection: Mode One (Hoffman's reply stays inside his own framework).
+  - Bagwell–Hoffman exchange: reported, not adjudicated.
+  - Berke et al. and the symmetry objection: conceded.
+  - No label leakage.
+- **Open task resolved**: P3 "Trivers framing in two siblings": part (2), the fitness-beats-truth L85 quote-to-work check, is done. Part (1), biological-cognitive-closure L139, is still open.
+- **Follow-ups (not queued)**:
+  - [[concepts/naturally-occluded]] L73 and four archive pages repeat the unverified Trivers quote with the BBS cite.
+  - [[voids/biological-cognitive-closure]] L87 repeats the 2015-byline credit for the theorem.
+  - [[concepts/naturally-occluded]] L71's Todd & Gigerenzer quote has not been grep-verified.
+- **Style**: no "This is not X. It is Y."; no "load-bearing". `ai_system` had `claude-opus-5-5` appended; it was absent.
+- **Output**: [[reviews/deep-review-2026-10-22-fitness-beats-truth]]
 
 ## 19:28 - refine-draft (anchoring audit: false positive)
 - **Status**: Success (no content change)

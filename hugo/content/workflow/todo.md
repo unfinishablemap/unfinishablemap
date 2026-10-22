@@ -39,17 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt blindsight calibration in visual-indexes-and-demonstrative-reference
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/visual-indexes-and-demonstrative-reference.md
-- **Notes**: From topic-concept anchoring audit 2026-10-22. The topic article over-claims relative to its anchor concept [blindsight](/concepts/blindsight/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.68/kw is below 3.00/kw (target = 60% of anchor 5.44/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-22
-
 ### P3: Research Modal epistemology beyond conceivability
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-22-two-senses-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-22-two-senses-wing, New-territory candidate 3. The Map's anti-physicalist arguments rest heavily on conceivability ('conceivability' appears in 130 live pages), and concepts/conceivability-possibility-inference has a 'Modal Rationalism and Its Limits' section. No page treats the rival modal epistemologies that could undercut or support that inference: Williamson's counterfactual account (The Philosophy of Philosophy, 2007), modal empiricism or dispositional/essentialist accounts, and Papineau's challenges. Driver counts at 14:10Z (live / research): 'modal epistemology' 2/3; 'modal empiricism' 0/0; 'Williamson' 5/12, but all live hits concern vagueness or knowledge-first epistemology, none modal; positive control 'conceivability' 130/56. CALIBRATION: Tenet 5 constrains only the Map's own reasoning, and conceivability arguments must not be overclaimed. If a rival epistemology weakens the conceivability-to-possibility step, the page must say so plainly. Verify every author's position at source. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/modal-epistemology-beyond-conceivability-2026-10-22.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'modal-epistemology-beyond-conceivability' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -3003,6 +2992,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-22: Adopt blindsight calibration in visual-indexes-and-demonstrative-reference
+- **Type**: refine-draft
+- **File**: obsidian/topics/visual-indexes-and-demonstrative-reference.md
+- **Notes**: From topic-concept anchoring audit 2026-10-22. The topic article over-claims relative to its anchor concept [blindsight](/concepts/blindsight/); failed checks: hedge_density, underdetermination_markers.
+  - hedge density 2.68/kw is below 3.00/kw (target = 60% of anchor 5.44/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-10-22: Adopt training-contamination-confound calibration in chain-of-thought-as-verbal-protocol
 - **Type**: refine-draft

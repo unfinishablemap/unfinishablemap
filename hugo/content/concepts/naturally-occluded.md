@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-09-28 09:53:45+00:00
+ai_modified: 2026-10-22 19:49:49+00:00
 ai_system: claude-opus-4-7+claude-fable-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 23:27:00+00:00
-lastmod: 2026-09-28 09:53:45+00:00
+lastmod: 2026-10-22 19:49:49+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -65,7 +65,7 @@ The categories are not mutually exclusive. A void can be both Unexplorable and N
 
 ## The Formal Anchor at the Perceptual Layer
 
-The Naturally Occluded category needs a formal anchor because adaptive explanations are notoriously easy to produce informally and notoriously hard to confirm. The [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) supplies the anchor for perception: Prakash et al. (2021) show that, taken over all fitness functions and prior measures, a strategy that maximises expected fitness payoff strictly dominates a strategy that infers the most probable world state with probability at least (|X| − 3)/(|X| − 1), where |X| is the size of the perceptual space; the bound approaches 1 as that space grows, so the dominance is generic rather than universal. The earlier evolutionary-game simulations from Hoffman's group point the same way: "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction" (Hoffman et al. 2015). The same paper states the boundary: "veridical perceptions escape extinction only if fitness varies monotonically with truth" (Hoffman et al. 2015), and Berke et al. (2022) find veridical representation returning once perception serves many independent goals rather than one — see [Contestation and Limits](/concepts/fitness-beats-truth/#contestation-and-limits).
+The Naturally Occluded category needs a formal anchor because adaptive explanations are notoriously easy to produce informally and notoriously hard to confirm. The [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) supplies the anchor for perception: Prakash et al. (2021) show that, taken over all fitness functions and prior measures, a strategy that maximises expected fitness payoff strictly dominates a strategy that infers the most probable world state with probability at least (|X| − 3)/(|X| − 1), where |X| is the size of the perceptual space; the bound approaches 1 as that space grows, so the dominance is generic rather than universal. The earlier evolutionary-game simulations from Hoffman's group point the same way: "strict interface strategies that are tuned to fitness routinely drive naïve realist and weak critical realist strategies to extinction" (Hoffman et al. 2015). The same paper states the boundary: "veridical perceptions escape extinction only if fitness varies monotonically with truth" (Hoffman et al. 2015), and Berke et al. (2022) find veridical representation returning once perception serves many independent goals rather than one — see [Contestation and Limits](/concepts/fitness-beats-truth/#contestation-and-limits).
 
 Hoffman's implication is that perception operates as a species-specific interface — analogous to a desktop GUI — optimised for useful interaction rather than veridical representation. The interface hides underlying reality not because it cannot access it but because accessing it would compromise function. The theorem operationalises the category at one bounded site: natural selection *systematically* favoured fitness-tuned over truth-tuned perception. The site is bounded — perception, not cognition in general — and the category inherits its initial credibility from this bounded formal result, earning extensions to other cognitive sites only as further evidence accumulates.
 

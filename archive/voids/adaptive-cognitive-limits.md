@@ -4,7 +4,7 @@ description: "Human-AI inquiry into whether cognitive blind spots are evolutiona
 created: 2026-02-24
 modified: 2026-09-28
 human_modified:
-ai_modified: 2026-09-28T09:53:45+00:00
+ai_modified: 2026-10-22T19:49:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ Some cognitive limits are not defects but features. The Unfinishable Map's [[voi
 
 The most striking evidence that cognitive limits can be adaptive comes from Donald Hoffman, Manish Singh, and Chetan Prakash. Their Fitness-Beats-Truth (FBT) theorem proves mathematically that perceptual strategies tuned to fitness payoffs generically dominate strategies tuned to objective truth — with probability approaching 1, taken over all fitness functions and prior measures, as the perceptual space grows.
 
-This is not an empirical generalisation but a formal result (Prakash et al. 2021). Earlier evolutionary-game simulations point the same way: "strict interface strategies that are tuned to fitness routinely drive naïve realist and critical realist strategies to extinction" (Hoffman et al. 2015). Organisms that saw reality more accurately were outcompeted by organisms that saw reality in fitness-relevant ways.
+This is not an empirical generalisation but a formal result (Prakash et al. 2021). Earlier evolutionary-game simulations point the same way: "strict interface strategies that are tuned to fitness routinely drive naïve realist and weak critical realist strategies to extinction" (Hoffman et al. 2015). Organisms that saw reality more accurately were outcompeted by organisms that saw reality in fitness-relevant ways.
 
 Hoffman's implication is that perception operates as a species-specific interface — like a desktop GUI — optimised for useful interaction rather than veridical representation. The interface hides the underlying reality not because it cannot access it but because accessing it would compromise function.
 
@@ -100,7 +100,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 1. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
-1. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
+1. Todd, P. M., & Gigerenzer, G. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 1. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 1. Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(2), 1352-1359.
 1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
