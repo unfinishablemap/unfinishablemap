@@ -10,6 +10,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 22:33 - deep-review
+- **Status**: Success
+- **File**: [modal-epistemology](/concepts/modal-epistemology/)
+- **Why chosen**: `scripts/deep_review.py next` top candidate (score 100, never reviewed; created today by expand-topic, commit d17ec7309d).
+- **Word count**: 2963 → 3012 (+49). Concepts soft 2500 / hard 3500. Split prose / Further Reading / References: 2461/85/439 → 2510/85/439.
+- **Critical issues addressed**: 5
+  - L39/L121: "each" rival "makes the zombie verdict depend on" priors contradicted the similarity-empiricism withholding. The lede now says "Each either withholds judgement or…"; L121 now says "no longer counts as independent evidence".
+  - L75: SEP "*some* modest theories" had become "*such* modest accounts" → "some".
+  - L45: SEP rationalism/empiricism gloss replaced with the SEP's own terms ("prioritize a priori methods" / "pursue a posteriori accounts", empiricists often granting a priori methods a role).
+  - L81: "The SEP classes it as ambitious" → "Vetter stresses that it is ambitious" (the SEP reports her own emphasis).
+  - L114: restored Chalmers 2007's "typically" ("which Type-B typically grants").
+- **Medium issues addressed**: 6
+  - L51: "no contradiction" → "no agreed contradiction".
+  - L95: "plausibility rather than on evidence" → "…on evidential tier" (matches primitive-identities L97).
+  - L109: "a priori or armchair".
+  - L63: Hill quote extended to "…by merely conceiving of them or imagining them".
+  - L89: Fischer's own Skeptical-TEM verdict added via Biggs 2017 (verbatim "such as that expressed by 'I could have been disembodied'").
+  - L37: superlative "most fully developed" removed.
+- **Enhancements made**: 2 zero-word cross-links ([russellian-monism](/concepts/russellian-monism/), [causal-powers](/concepts/causal-powers/)) and 4 length offsets (L55, L59, L83, L121).
+- **Verification**: all 33 body quotations substring-verified against raw sources: SEP HTML; Chalmers 2002, 2007 and 2014 author versions; Papineau 2007 author PDF (p. 492 confirmed); Roca-Royes 2011 PDF (p. 549 confirmed); Kment 2021 author PDF; Biggs *NDPR* HTML; OpenAlex abstracts for Hill, Hale, Lowe, Goff, Vetter and Allen. All 16 DOIs checked on Crossref. No orphans in either direction; self-citation pseudonyms correct.
+- **Engagement classification**: Papineau, Mode Three; Hill, Mode Three; Type-B in "What Survives", Mode Three plus symmetry; Allen, question only. No label leakage.
+- **Follow-up (not queued)**: [causal-powers](/concepts/causal-powers/) L75 says the Map "holds" powerful-qualities realism. Allen 2022 (only the abstract has been read) argues that powers block conceivability arguments except under an implausible emergence, so her argument may reach the Map's own ontology. A full-text read is needed before any edit.
+- **Output**: [deep-review-2026-10-22-modal-epistemology](/reviews/deep-review-2026-10-22-modal-epistemology/)
+
 ## 21:58 - refine-draft
 - **Status**: Success
 - **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
