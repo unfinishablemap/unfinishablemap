@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-20 22:41:34+00:00
+ai_modified: 2026-10-22 15:56:31+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-04-21 12:51:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:18:53+00:00
-lastmod: 2026-10-20 22:41:34+00:00
+lastmod: 2026-10-22 15:56:31+00:00
 modified: *id001
 related_articles:
 - '[[prehension]]'
@@ -77,7 +77,7 @@ The Map's first tenet holds that consciousness is not reducible to physical proc
 
 Standard physicalism faces the [hard problem](/topics/hard-problem-of-consciousness/): no amount of physical description—however complete—explains *why* there is something it is like to be a brain. Physical descriptions capture structure and function; they leave out the felt quality of experience. Process philosophy diagnoses this gap: physics describes relations (what things do to each other) while leaving intrinsic character unspecified. Consciousness may be our only window into intrinsic nature—what actuality *is* rather than how it behaves.
 
-Whitehead denied "vacuous actuality"—the idea of utterly non-experiential matter. Every actual occasion involves some form of experience, however primitive. This is [Whitehead's panpsychism](/concepts/panpsychism/): not that electrons have rich inner lives, but that experiential taking-account-of is fundamental to reality. Human consciousness is highly organized experience—a "society" of actual occasions forming a "personally ordered" stream.
+Whitehead denied "vacuous actuality"—the idea of utterly non-experiential matter. Every actual occasion involves some form of experience, however primitive. This is [Whitehead's panpsychism](/concepts/panpsychism/): not that electrons have rich inner lives, but that experiential taking-account-of is fundamental to reality. Human consciousness is highly organized experience—a "society" of actual occasions with "personal order", forming a single serial stream.
 
 Both frameworks agree on an essential point: consciousness cannot emerge from wholly non-conscious matter. Physical description is constitutively structural; consciousness is constitutively qualitative; no amount of structural detail closes the gap. Where they differ is in the response. Process philosophy dissolves the mind-matter distinction by holding that matter is already experiential. The Map preserves the distinction, defending [interactionist dualism](/concepts/interactionist-dualism/): consciousness interfaces with matter at specific points—quantum indeterminacies in neural systems—rather than being present everywhere. This avoids attributing experience to rocks while keeping the anti-emergentist insight.
 
@@ -133,7 +133,7 @@ Whitehead developed process philosophy before many-worlds was proposed, yet his 
 
 This connects to temporal identity. Bergson's durée presupposes a continuous self persisting through time—the past that lives in the present is *my* past, not the past of some branch-copy. Many-worlds dissolves this identity: "you" are infinitely branching copies, each experiencing what seems like continuous duration but actually living only a fragment of an ever-splitting tree. The unity that makes durée what it is—the interpenetration of past, present, and future in one experiential stream—would be illusory.
 
-Whitehead's concept of the "personally ordered society" reinforces this point. A stream of consciousness is a sequence of occasions where each inherits from its immediate predecessor with peculiar intimacy. This inheritance creates personal identity across time—not substantial identity (an unchanging soul) but processual identity (each occasion taking up its predecessor as *its own* past). If all branches existed equally, this intimacy would be replicated across uncountably many streams, undermining the thisness—[haecceity](/concepts/haecceity/)—that makes you *you*.
+Whitehead's concept of "personal order" reinforces this point. A stream of consciousness is a sequence of occasions where each inherits from its immediate predecessor with peculiar intimacy. This inheritance creates personal identity across time—not substantial identity (an unchanging soul) but processual identity (each occasion taking up its predecessor as *its own* past). If all branches existed equally, this intimacy would be replicated across uncountably many streams, undermining the thisness—[haecceity](/concepts/haecceity/)—that makes you *you*.
 
 The [phenomenology of temporal experience](/concepts/temporal-consciousness/) supports this picture. We don't experience ourselves as branching; we experience ourselves as persisting through time while the past closes behind us and the future opens ahead. This phenomenology is what collapse *feels like* from the inside. Everettians respond that each branch-self would experience exactly this continuity, making the phenomenology compatible with branching. But process philosophy reveals what this response costs: if prehensive inheritance—each occasion taking up its predecessor as *its own* past—is replicated across countless branches, the intimacy that constitutes personal identity becomes metaphysically promiscuous. The "thisness" of experience is either unique or it isn't; process philosophy's commitment to definite actualisation preserves it as genuine.
 

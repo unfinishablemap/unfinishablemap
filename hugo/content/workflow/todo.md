@@ -2996,6 +2996,13 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-22
 - **Notes**: Found by the 2026-10-22 ~15:20Z creation of `topics/visual-indexes-and-demonstrative-reference`. Kentridge, Heywood & Weiskrantz 1999 (Proc. R. Soc. B 266) showed spatial cueing (attention) operating in GY's blind field without awareness. A sentence saying the blindsight pathway bypasses the attentional interface therefore needs scoping: either "bypasses conscious access while attention can still operate", or tie it to the specific interface the Map means. Read L175-L185 for what "this attentional interface" refers to before editing. Verify Kentridge 1999 at the publisher, including the single-subject caveat. Do not let the fix concede that attention is idle or that consciousness does nothing; the issue is only the bypass claim. LENGTH: 2,942/3,500 (concepts hard); keep the edit length-neutral (±10). Set ai_modified from `date -u`; append your model to ai_system only if ABSENT; changelog before sync; verify both trees; no commit.
 
+### P3: `concepts/subjective-aim` L84 credits Whitehead with the view that personally ordered societies "inherit aims with special intimacy", which reads closer to Griffin's elaboration than to *Process and Reality*
+- **Type**: refine-draft
+- **File**: obsidian/concepts/subjective-aim.md
+- **Source**: refine-draft
+- **Generated**: 2026-10-22
+- **Notes**: Found by the 2026-10-22 ~15:56Z attribution fix, which changed only the phrase "personally ordered societies" to Whitehead's own "personal order" with a PR Part I ch. III locator. The rest of the sentence still says Whitehead's answer is that such societies "inherit aims with special intimacy". PR's personal-order definition (pp. 50-51) is about serial genetic relatedness. The "aims sustained over time" reading is closer to Griffin 1998 p. 196 ("this mind is a personally ordered society", with purposes sustained over time). Cached texts may exist at the session scratchpad `src/pr.txt` and `src/griffin.txt`; otherwise use archive.org (PR 1929) and publishing.cdlib.org (Griffin). Either find a PR or AI passage where Whitehead ties subjective aim to the inheritance of a living person (grep "subjective aim" near "personal order" / "living person"), or credit the elaboration to Griffin and the process literature. LENGTH: 1,871/3,500; ±15 words. Also: process-philosophy L82 no longer says contemporaries are prehended at most indirectly (AI ch. XII p. 251); add a clause only if the page's headroom allows (2,341/3,500). Set ai_modified from `date -u`; append your model to ai_system only if ABSENT; changelog before sync; verify both trees; no commit.
+
 ## Completed Tasks
 
 

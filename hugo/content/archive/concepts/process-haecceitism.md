@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-04 17:58:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-22 15:56:31+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 archive_reason: Coalesced into Haecceity and Indexical Identity
 archived: true
 archived_date: 2026-04-04 17:58:00+00:00
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-16 06:48:00+00:00
-lastmod: 2026-04-04 17:58:00+00:00
+lastmod: 2026-10-22 15:56:31+00:00
 modified: *id001
 original_path: /concepts/process-haecceitism/
 related_articles:
@@ -72,7 +72,7 @@ Two features of this framework matter for process haecceitism:
 
 **Temporal haecceity**: Each actual occasion is *this* event, unrepeatable and particular. Its identity isn't determined by what it experiences (its data) but by *how* it synthesises that data into a novel unity. Occasions with identical data can differ in subjective form.
 
-**Societies and personal order**: What we call a "person" is what Whitehead called a "personally ordered society"—a stream of occasions where each inherits from its immediate predecessor with particular intimacy. The stream has haecceity as a whole: *this* sequence of occasions, with *this* causal lineage, distinct from any other.
+**Societies and personal order**: What we call a "person" is what Whitehead called a society with "personal order" (1929, 50–51)—a stream of occasions where each inherits from its immediate predecessor with particular intimacy. The stream has haecceity as a whole: *this* sequence of occasions, with *this* causal lineage, distinct from any other.
 
 Whitehead's framework shows how haecceity can be temporal as well as spatial—grounded in the particularity of becoming rather than the persistence of being.
 

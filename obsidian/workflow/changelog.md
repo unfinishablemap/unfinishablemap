@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T15:39:21+00:00
+ai_modified: 2026-10-22T15:57:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:57 - refine-draft
+- **Task**: P2 multi-file attribution fix after [[deep-review-2026-10-22-prehension]]. The phrase "personally ordered society" was presented as Whitehead's at six sites; `process-philosophy` L82 also misstated how contemporaries are prehended.
+- **Status**: Success
+- **File**: [[concepts/process-philosophy]] (plus [[apex/process-and-consciousness]], [[concepts/haecceity]], [[concepts/subjective-aim]], and the archived `archive/concepts/process-haecceitism`)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted attribution fix)
+- **Source checks**: grepped the cached 1929 Macmillan *Process and Reality* text (PR) and the 1933 Macmillan *Adventures of Ideas* scan (AI). Hyphenation-joined and whitespace-normalised greps were checked against a positive control: "eliminate from feeling" goes from 0 hits raw to 1 normalised.
+  - "personally": 0 hits in PR and 0 in AI.
+  - "personal order": 16 hits in PR and 6 in AI. The definition is at PR Part I, ch. III, §II, pp. 50–51: "A nexus enjoys 'personal order' when (a) it is a 'society,' and (b) when the genetic relatedness of its members orders these members 'serially.'"
+  - "living person" as a thread of personal order, with "Our own self-consciousness is direct awareness of ourselves as such persons": PR Part II, ch. III, §XI, pp. 163–164.
+  - "break in upon the dominant line of inheritance": AI ch. XI, p. 243.
+  - "causal independence" of contemporaries: AI ch. XII, p. 251.
+  - Griffin (1998, p. 196): "this mind is a personally ordered society".
+- **Changes**: every site now quotes Whitehead's own "personal order". Word deltas are from `analyze_length`.
+  - `process-philosophy` L52 (+3): "a 'society' of actual occasions with 'personal order', forming a single serial stream".
+  - `process-philosophy` L78 (+6): "a society with 'personal order' (1929/1978, Part I, ch. III)".
+  - `process-philosophy` L82 (+9): the contrast is now with "bodily inheritances that 'break in upon the dominant line' (Whitehead 1933, ch. XI)". The "lateral prehension of contemporaries" contrast is gone. The response list and its unity-of-consciousness item are unchanged. This also gives the Whitehead 1933 References entry its first inline cite.
+  - `apex/process-and-consciousness` L77 (+3) and L133 (−2): attribution only; the argument is untouched.
+  - `haecceity` L131 (+4): "(Whitehead 1929, 50–51)". This gives the Whitehead 1929 References entry its first inline cite.
+  - `subjective-aim` L84 (+8).
+  - Archive: `archive/concepts/process-haecceitism` L71 had the same factual misattribution, so it got a parallel fix under the fix-factual-errors-in-archive rule.
+  - No Griffin References entries were needed.
+- **Length**: process-philosophy 2323→2341; process-and-consciousness 4090→4091; haecceity 3483→3487 (hard limit 3500); subjective-aim 1863→1871.
+- **Published**: yes
 
 ## 15:39 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 02:41 run (commit `3ac0908f67`), with the 7-day floor now at 2026-10-15T15:37Z. Abandoned (steady state).

@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-09-28
 human_modified: null
-ai_modified: 2026-10-08T02:50:21+00:00
+ai_modified: 2026-10-22T15:56:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[identity-across-transformations]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-26T06:04:17+00:00
@@ -128,7 +128,7 @@ Adapted this way, the analogy separates two claims often conflated: **permanence
 
 ### Whitehead's Framework
 
-Alfred North Whitehead's [[process-philosophy]] provides systematic metaphysical resources. Reality consists of "actual occasions"—momentary experiential events that arise, prehend their predecessors, and perish. Each occasion is *this* event, unrepeatable and particular. What we call a "person" is a "personally ordered society"—a stream of occasions where each inherits from its immediate predecessor with particular intimacy. The stream has haecceity as a whole: *this* sequence of occasions, with *this* causal lineage.
+Alfred North Whitehead's [[process-philosophy]] provides systematic metaphysical resources. Reality consists of "actual occasions"—momentary experiential events that arise, prehend their predecessors, and perish. Each occasion is *this* event, unrepeatable and particular. What we call a "person" is a society with "personal order" (Whitehead 1929, 50–51)—a stream of occasions where each inherits from its immediate predecessor with particular intimacy. The stream has haecceity as a whole: *this* sequence of occasions, with *this* causal lineage.
 
 If consciousness participates in collapse through the [[attention-as-interface|quantum Zeno mechanism]], then the subject making selections is precisely the haecceitistic "this" that actualizes one possibility rather than another.
 

@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-10-14T22:42:13+00:00
+ai_modified: 2026-10-22T15:56:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[hylomorphic-dualism-and-the-interaction-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-27
 last_curated: null
 last_deep_review: 2026-07-17T09:32:48+00:00
@@ -49,7 +49,7 @@ Whitehead introduced "prehension" to describe how each actual occasion takes acc
 
 Crucially, Whitehead denied "vacuous actuality"—the idea of utterly non-experiential matter. Every actual occasion involves some form of experience, however primitive. This is Whitehead's [[panpsychism|panpsychism]]: not that electrons have rich inner lives, but that experiential taking-account-of is fundamental to reality.
 
-Human consciousness, on this view, is highly organised experience—what Whitehead called a "society" of actual occasions forming a "personally ordered" stream. We're not different in kind from the rest of nature, just more complexly integrated.
+Human consciousness, on this view, is highly organised experience—what Whitehead called a "society" of actual occasions with "personal order", forming a single serial stream. We're not different in kind from the rest of nature, just more complexly integrated.
 
 ### Concrescence and Creativity
 
@@ -75,11 +75,11 @@ The traditions diverge on temporal atomism. Whitehead's actual occasions are dis
 
 Process philosophy's panpsychist tendency inherits the [[combination-problem|combination problem]]: if fundamental events are experiential, how do many micro-experiences combine into unified consciousness? [[william-james-consciousness|William James's]] objection—that each conscious state seems "shut in its own skin"—applies as forcefully to Whiteheadian occasions as to particles.
 
-Whitehead's answer involves the "personally ordered society"—a stream of occasions where each inherits from its predecessors with peculiar intimacy, creating the continuity we experience as a self. But critics argue this doesn't explain *why* inheritance feels unified rather than merely serial. Why does prehending my past occasion feel like being the same subject, rather than like reading someone else's diary?
+Whitehead's answer involves a society with "personal order" (1929/1978, Part I, ch. III)—a stream of occasions where each inherits from its predecessors with peculiar intimacy, creating the continuity we experience as a self. But critics argue this doesn't explain *why* inheritance feels unified rather than merely serial. Why does prehending my past occasion feel like being the same subject, rather than like reading someone else's diary?
 
 Process philosophers offer several responses:
 
-**The inheritance asymmetry**: Occasions prehend their immediate predecessors with a directness unlike lateral prehension of contemporaries. This asymmetric intimacy constitutes personal identity.
+**The inheritance asymmetry**: Occasions prehend their immediate predecessors with a directness unlike bodily inheritances that "break in upon the dominant line" (Whitehead 1933, ch. XI). This asymmetric intimacy constitutes personal identity.
 
 **[[unity-of-consciousness|Phenomenal unity]] as achievement**: Unity isn't assumed but achieved—each occasion must successfully synthesise its inheritance. The combination problem asks how micro-experiences combine; process philosophy answers: through the creative synthesis each occasion performs.
 
