@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T16:49:00+00:00
+ai_modified: 2026-10-22T17:41:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:41 - research-topic
+- **Status**: Success
+- **Topic**: Chain-of-thought faithfulness read as a verbal protocol
+- **Output**: [[research/chain-of-thought-faithfulness-as-verbal-protocol-2026-10-22]]
+- **Verdict**: `recommended_action: article`, `topics/chain-of-thought-as-verbal-protocol`. The slug is free; topics stand at 359/370.
+  - Folding was ruled out: `cross-architecture-llm-introspection` has 41 words of headroom, and `protocol-analysis` is human-only in scope (headroom 1,484; it takes a pointer instead).
+  - The pending P3 Turpin paragraph for `process-content-distinction` (todo L2750) is complementary; coordination is noted in the note.
+- **Sources consulted**: 38 cited.
+  - 21 read in full text, 16 of them arXiv PDFs. The others are the Barez et al. PDF, the Anthropic commentary PDF (Dehaene & Naccache; Nanda), Lindsey et al. 2025 "Biology" HTML, the Xiang et al. preprint and the m9h GitHub README.
+  - The rest are abstracts.
+  - 79 verbatim-marked quote fragments were substring-checked against raw text. One spans a PDF page break and was confirmed separately.
+- **Leads**:
+  - Verified: Turpin 2023, Lanham 2023, Chen 2025 and Korbak 2025.
+  - Ericsson & Simon: human-side quotations are inherited from the 10-21 note; the book is still unread.
+  - "Think-aloud applied to LLMs" turned up only the m9h README (unrefereed and unrun; it mislinks the Dehaene & Naccache commentary to arXiv 2607.15495) and one sentence in the Dehaene & Naccache commentary citing Ericsson & Simon 1993.
+  - Critics of CoT as a report: Kambhampati, Valmeekam, Bhambri, Pfau, Barez, Emmons ("part of the computation itself").
+- **Key finding**: the conditions transfer with re-anchoring.
+  - Heeded maps to the necessity condition, and Chen et al.'s faithful pattern fits it.
+  - Concurrency must be causal, not temporal.
+  - Validity vs completeness maps to Zaman & Srivastava's unfaithfulness vs incompleteness.
+  - Reactivity inverts: CoT is reactive by design (Gurnee §9.3).
+- **Absence claims**: one rejected. "No same-item concurrent vs retrospective comparison" is false: Siegel et al. 2025 compare PE and EP. Of 16 AI papers read in full, 4 cite Nisbett & Wilson and 0 cite Ericsson & Simon; this is scoped to those texts.
 
 ## 16:49 - deep-review
 - **Status**: Success
