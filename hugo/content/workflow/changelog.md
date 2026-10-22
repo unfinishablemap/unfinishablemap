@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 12:28:29+00:00
+ai_modified: 2026-10-22 12:39:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 12:28:29+00:00
+lastmod: 2026-10-22 12:39:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:39 - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/) (optimistic-2026-10-09 first-person-certification wing, Priority List item 3)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted task from `reviews/optimistic-2026-10-09-first-person-certification-wing.md`
+- **Word count** (analyze_length): 22,496 → 22,673 (+177; review estimated +167, the extra 10 are piped display text). Project page, so no section cap applies.
+- **Changes**:
+  - New paragraph "**Its epistemic sibling: presentation is not certification.**" inserted after the anchor sentence ending "linked by argument, not by implication." (anchor matched once, live L268), inside "Phenomenological Datum ≠ Irreducible Metaphysical Datum". It names the convergence the first-person pages reached separately (ownership, pastness, sincere report, felt initiation, reported absence present without certifying), keeps IEM phrased separately (its immunity is a guarantee about *who*), and fences the Layer 1 exception. The "Five Cross-Cutting Rules" heading and count are unchanged; no gate added.
+  - Deviation from the review text: the six unpiped wikilinks are piped (display text quasi-memory / episodic memory / Anton syndrome / thought insertion / metacognitive access versus retention / immunity to error through misidentification), per the task's "any new wikilink must be piped" constraint; unpiped links render the raw slug. Prose words are otherwise verbatim.
+  - Frontmatter: `modified`, `ai_modified` bumped; `ai_system` gains `claude-opus-5-5` and loses the duplicated trailing `claude-fable-5-1` (introduced 2026-10-08).
+- **Staleness check (review dated 10-09; all seven cited pages re-read at current text)**: quasi-memory L102 ("can *present* … cannot *certify*", now with Sheen et al. 2001 added 10-21) holds; episodic-memory L100 ("Immediacy is not authentication … does not certify that the causally proper process produced it", unchanged since 09-17) holds; Anton L44/L111 ("a sincere first-person report does not certify that a seeming stands behind it", unchanged since 10-04) holds; thought-insertion L108 (felt agency "an unreliable guide to causal origin", on the agency reading; 10-19 edit only added a link at L78) holds; metacognitive-access Rule 2 L130 ("Read reported absence as evidence about access … They do not reach experience"; 10-20/10-22 edits elsewhere) holds; IEM L34–36/L104 (introspective self-ascription immune; compatible with every account of the subject, "no evidence that the subject is non-physical"; 10-21 edit only a Further Reading line) holds; phenomenal-authority L102 (Layer 1 "approaches incorrigibility", denial "self-refuting"; 10-19 edit only a link) holds. No description adjusted.
+- **Wikilinks**: all seven targets resolve via `build_content_index` to live non-draft pages, no slug collisions, no archive copies.
+- **Calibration**: the paragraph calls each presentation "evidence about how things seem", so presentation is not treated as evidentially empty; no epiphenomenalism concession.
+- **Published**: yes
 
 ## 12:28 - refine-draft
 - **Status**: Success

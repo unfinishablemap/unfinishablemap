@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-10-11 17:21:50+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-fable-5-1
+ai_modified: 2026-10-22 12:39:25+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-05-05
-date: &id001 2026-10-11
+date: &id001 2026-10-22
 description: A tenet may remove a defeater, but it must not upgrade the evidence level.
   The discipline installs a five-tier scale — established → strongly supported → realistic
   possibility → live hypothesis → speculative integration — and the diagnostic test
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-05-10 18:31:00+00:00
-lastmod: 2026-10-11 17:21:50+00:00
+lastmod: 2026-10-22 12:39:25+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -271,6 +271,8 @@ A phenomenological observation — that something is *experienced* in a particul
 The rule is the experience-axis analogue of the constrain-vs-establish move. *Felt pastness* is a real phenomenological feature; demonstrating it constrains overly simple computational accounts (those that reduce remembering to a bare "timestamp" tag). It does not by itself establish that no source-monitoring, metacognitive, or self-attentional account could explain the felt character. The 2026-05-10 ChatGPT outer review identified the conflation in [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/): the article moved from "the pastness quale is phenomenologically distinctive" to "the pastness quale is non-computational" without supplying the intervening argument the second claim requires. The same risk runs across the catalogue wherever an article anchors a metaphysical claim in a phenomenological description without a separate argument for the upgrade.
 
 The mistake is a calibration error of the form the discipline was built to catch. The phenomenological reality of an experience is one tier of evidence; its metaphysical irreducibility is a strictly higher tier requiring a separate argument. Honest catalogue language records the phenomenology at its tier and the metaphysics at theirs — the two are linked by argument, not by implication.
+
+**Its epistemic sibling: presentation is not certification.** The same gap runs inside first-person epistemology, between how a state presents and what would certify the fact it presents. Felt ownership presents a memory as one's own; felt pastness presents it as caused by one's own past; a sincere report of seeing presents a visual seeming; felt initiation presents a thought as self-generated. Each is evidence about how things seem and leaves the presented fact open: [quasi-memory](/concepts/quasi-memory-and-the-circularity-objection/) (whose past), [episodic memory](/concepts/episodic-memory/) (by what route), [Anton syndrome](/topics/anton-syndrome-and-the-sincere-report-of-seeing/) (whether a seeming stands behind the report), [thought insertion](/concepts/thought-insertion/) (who initiated, on the agency reading) and [metacognitive access versus retention](/concepts/metacognitive-access-versus-retention/) (whether reported absence is absence). Where first-person judgement is immune, as introspective self-ascription is, the immunity secures the step from grounds to subject and says nothing of what the subject is ([immunity to error through misidentification](/concepts/immunity-to-error-through-misidentification/)). Only the [Layer 1](/topics/phenomenal-authority-and-first-person-evidence/) judgement that experience is occurring at all comes near certification, because its denial is self-stultifying. An article that lets any other first-person presentation settle the fact it presents has made this rule's error.
 
 ### Dissociation Arguments Must Separate Four Levels
 
