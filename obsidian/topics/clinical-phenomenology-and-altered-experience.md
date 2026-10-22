@@ -2,9 +2,9 @@
 title: "Clinical Phenomenology and Altered Experience"
 description: "Psychiatric disruption as a natural experiment on experience: its selective pattern tests some theories of consciousness and fits the Map's interface model without settling interface versus production."
 created: 2026-03-03
-modified: 2026-10-21
+modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-21T03:24:47+00:00
+ai_modified: 2026-10-22T09:05:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,7 +152,7 @@ Taken together these map a modular structure with identifiable interfaces—an a
 
 Clinical phenomenology as philosophical evidence faces legitimate concerns:
 
-**Reliability of patient reports.** Psychiatric patients may struggle to articulate experiential disruptions. Trained phenomenological interviewers use instruments like the EASE that systematically probe specific experiential domains. Cross-validation between patients, and between reports and objective measures, provides constraint.
+**Reliability of patient reports.** Psychiatric patients may struggle to articulate experiential disruptions. Trained phenomenological interviewers use instruments like the EASE that systematically probe specific experiential domains. Cross-validation between patients, and between reports and objective measures, provides constraint. Reports of a past state are weaker still: recalled dissociation during a trauma drifts with current symptoms, so claims about how an episode felt at the time rest on shifting reports ([[peritraumatic-dissociation]]).
 
 **Interpretation underdetermination.** The same data can be interpreted through different lenses, and the Map should not overstate the asymmetry here. Neural modularity straightforwardly entails dissociable experiential disruption, so the materialist is not merely accommodating post hoc—a modular brain predicts modular breakdown. The honest difference is one of parsimony: the selective-channel pattern is what the interface model expects without further assumption, whereas the identity theorist must add the independent posit that the brain's functional modules align with the felt components of experience. This is a natural-expectation point, not a claim that the interface model issued falsifiable forecasts the materialist missed. Pressed to its limit, the metaphysics is underdetermined by the evidence: the altered-experience findings of psychosis, dissociation, depersonalization, and psychedelic states are consistent with the physicalist reading on which these are alterations in the neural *substrate* of consciousness and with the Map's reading on which they are alterations at the mind-brain *interface*. The clinical evidence does not adjudicate between the two; it constrains which framework is more parsimonious without deciding which is true.
 

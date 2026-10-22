@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-20
-ai_modified: 2026-10-22 03:32:43+00:00
+ai_modified: 2026-10-22 09:05:44+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 10:33:02+00:00
-lastmod: 2026-10-22 03:32:43+00:00
+lastmod: 2026-10-22 09:05:44+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -94,7 +94,7 @@ The published exchange has two sides. Huntjens et al. (2022) argued that "the re
 
 ## What the Model Does to the Interface Reading {#interface-reading}
 
-The flagship's [trauma section](/topics/clinical-dissociation-as-systematic-evidence/#the-trauma-connection) names the *apparent clinical selectivity* of trauma-linked dissociation as what "stands in need of explanation". It sets "consciousness withdrawing from specific channels to protect itself" against what it calls an affective-salience physicalism, and leaves the choice open. For depersonalisation and derealisation, the subtype literature tips it against the Map. On the rival's account, the protectiveness is the passive end of an evolved defence cascade. The selectivity is what prefrontal regulation of threat circuitry does when threat is inescapable. The purposiveness is inherited from evolution rather than chosen by a withdrawing subject. Both readings' "protective" is a claim about the moment. The [peritraumatic literature](/topics/peritraumatic-dissociation/) finds dissociation at the time of trauma a marker of worse later outcome, and its one direct test found no relief of felt distress. The protective half of the datum is weaker for the rival and the interface reading alike; the comparative verdict on selectivity stands.
+The flagship's [trauma section](/topics/clinical-dissociation-as-systematic-evidence/#the-trauma-connection) names the *apparent clinical selectivity* of trauma-linked dissociation as what "stands in need of explanation". It sets "consciousness withdrawing from specific channels to protect itself" against what it calls an affective-salience physicalism, and leaves the choice open. For depersonalisation and derealisation, the subtype literature tips it against the Map. On the rival's account, the protectiveness is the passive end of an evolved defence cascade. The selectivity is what prefrontal regulation of threat circuitry does when threat is inescapable. The purposiveness is inherited from evolution rather than chosen by a withdrawing subject. Both readings' "protective" is a claim about the moment. The [peritraumatic literature](/topics/peritraumatic-dissociation/) finds dissociation at the time of trauma a marker of worse later outcome, and the direct tests the Map has found show no relief of felt distress. The protective half of the datum is weaker for the rival and the interface reading alike; the comparative verdict on selectivity stands.
 
 The rival reaches the datum from its core, with a mechanism, a provocation paradigm and a partner state at the circuit's other setting. The protective-withdrawal reading reaches it only by positing a subject's purpose and a channel structure it does not independently specify. Calling the datum merely compatible with both would understate the result: the rival explains it at least as well, and with a mechanism, which counts against the interface reading's comparative standing on this point. Whether the defence cascade extends to dissociative amnesia and DID is not examined here.
 

@@ -1,14 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 07:37:10+00:00
+ai_modified: 2026-10-22 09:09:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 07:37:10+00:00
+lastmod: 2026-10-22 09:09:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:09 - deep-review
+- **Status**: Success
+- **File**: [peritraumatic-dissociation](/topics/peritraumatic-dissociation/) (cross-review against its 4 integration hosts and 2 optional hosts)
+- **Word count**: 2,799 → 3,086 (+287) by analyze_length; topics soft 3,000, hard 4,000. The growth is the evidence that corrects two absence claims.
+- **Critical issues addressed**: 5.
+  - (1) False absence, L49 "nobody in this literature defends it": Greene 2018, experience sampling during the 2014 Gaza conflict, found an inverted U with later symptoms and a positive link with growth ("both adaptive and maladaptive").
+  - (2) Unscoped "the one test"/"the only one" in the description, lede, sense 2 and Occam. Danböck et al. 2023 and 2024 are two laboratory tests that also find more negative affect with dissociation, and no numbing. Now scoped to "the one real-world study the Map has found", with the lab evidence added. The null is stronger and still symmetric.
+  - (3) Werner & Griffin sample "92" changed to "62 (of 92 first assessed)".
+  - (4) The lede's "one cohort kept a unique 4%" now reflects van der Velden & Wittmann's 6/17 positive, 3 strong.
+  - (5) Lead's "untested claim about the moment" changed to "unsupported": sense 2 has been tested.
+- **Medium issues addressed**: 4.
+  - Dampening "predicts more intrusions" changed to "accompanies more symptoms"; added Danböck 2024's inverted-U heart-rate finding (support for the rival).
+  - Two literature-wide absences scoped to "the studies reviewed here".
+  - Both in-threat designs named in the measurement section.
+  - The duplicated flagship quote at L78 was compressed.
+- **Hosts**:
+  - dissociative-subtype-of-ptsd L92: FIX. "its one direct test found" changed to "the direct tests the Map has found show". L94 verdict and L106 Dualism clause untouched (verified in git). 3,349 → 3,352.
+  - clinical-dissociation-as-systematic-evidence L147: PASS, zero words.
+  - inaccessible-past L84: PASS on content (Thompson-Hollands and Marshall & Schell), link re-targeted to #after-the-fact.
+  - confabulation-void L89: PASS, link re-targeted to #after-the-fact.
+- **Optional hosts**:
+  - metacognitive-access-versus-retention: ADDED one sentence plus reference, Bedard-Gilligan & Zoellner 2012 (3,216 → 3,279 / 3,500).
+  - clinical-phenomenology-and-altered-experience: ADDED one temporal-drift sentence (3,764 → 3,796 / 4,000).
+  - depersonalisation and introspection: skipped as briefed.
+- **Research note**:
+  - Murray 2002 annotated in place. Its abstract says dissociation predicted PTSD "over and above the other PTSD symptom clusters", so it is not a pass-off to persistent dissociation. Panasetis & Bryant 2003 is flagged the same way; only Briere 2005 reports the pass-off. The article relies on neither.
+  - Five further absence claims annotated; three ledger rows and three citations added.
+- **Verification**:
+  - Sources fetched fresh into an isolated directory: PubMed efetch raw abstracts (23), PMC/Europe PMC/BioC full texts, and the Lensvelt-Mulders and van der Hart author PDFs.
+  - 30+ article quotes counted at least 1 against raw text. 3 numeric zeros resolved as wording variants.
+  - Crossref matches all 24 DOIs on year, author, volume, issue and pages.
+  - (surname, year) pairs checked both ways: 0 orphans.
+  - Absence search: forward citations of Fikretoglu 2006 (27, all screened), a synonym title search, an ESM/EMA search, and the Danböck author sweep.
+- **Engagements**: defence-cascade rival (Kozlowska; the subtype page's Lanius model): Mode Three with in-framework evidence on both sides. The momentary failure is symmetric, and the comparative verdict stands.
+- **Leads**: Danböck et al. 2024 is a preregistered test of the cascade in the subtype's own population (inverted-U heart rate supports it; no immobility or numbing). It may date the subtype page's ledger line "The autonomic signature did not [hold]". A refine-draft candidate, with 147 words of headroom.
+- **Output**: [deep-review-2026-10-22-peritraumatic-dissociation](/reviews/deep-review-2026-10-22-peritraumatic-dissociation/)
 
 ## 07:37 - research-voids
 - **Status**: Success
