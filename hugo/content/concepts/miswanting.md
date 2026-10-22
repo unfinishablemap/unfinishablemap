@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-12
-ai_modified: 2026-10-22 10:49:53+00:00
+ai_modified: 2026-10-22 11:29:08+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-15 01:28:26+00:00
-lastmod: 2026-10-22 10:49:53+00:00
+lastmod: 2026-10-22 11:29:08+00:00
 modified: *id001
 related_articles:
 - '[[preference-void]]'
@@ -80,7 +80,7 @@ Gilbert and Wilson give wanting three ingredients: "the particular details that 
 
 Neither ingredient dominates: "feelings sometimes serve us better than theories, and theories sometimes serve us better than feelings" (p. 184). Their illustration is a grocery study in which shoppers without a list bought more unplanned items when hungry than when fed, while shoppers holding a list were unaffected (Gilbert, Gill & Wilson 2002).
 
-The Map reads misattribution as the risk specific to a felt currency: a selector that consults present anticipatory affect inherits whatever incidental feeling is present when it consults. The rival has an analogue at the behavioural grain, since hunger also raises incentive salience (Berridge 2023) and shifts learned value, so the grocery result does not isolate feeling either. Misattribution is what [P-VS1](/positions/value-in-selection/#p-vs1) predicts, so it fits without evidencing it; choice left unmoved by [induced incidental affect](/topics/immediate-emotions-and-the-affect-heuristic/), with learned value and bodily state held fixed, would count against [P-VS1](/positions/value-in-selection/#p-vs1). Forecasts bent by a present bodily state are the wider territory of the [cross-state-void](/voids/cross-state-void/).
+The Map reads misattribution as the risk specific to a felt currency: a selector that consults present anticipatory affect inherits whatever incidental feeling is present when it consults. The rival has an analogue at the behavioural grain, since hunger also raises incentive salience (Berridge 2023) and shifts learned value, so the grocery result does not isolate feeling either. Misattribution is what [P-VS1](/positions/value-in-selection/#p-vs1) predicts, so it fits without evidencing it; choice left unmoved by [induced incidental affect](/topics/immediate-emotions-and-the-affect-heuristic/), with learned value and bodily state held fixed, would count against [P-VS1](/positions/value-in-selection/#p-vs1). That condition is [partly met](/topics/immediate-emotions-and-the-affect-heuristic/#battery). Effectively induced emotions left risk-taking unmoved in the best-powered test the Map located (n = 7,000), though a replicated sadness induction raised choice prices. Random assignment fixed learned value in expectation, but bodily state was not held fixed, so the test is partial: [P-VS1](/positions/value-in-selection/#p-vs1) is weakened at the margin, not refuted. Discounting the null because incidental mood is not [P-VS1](/positions/value-in-selection/#p-vs1)'s input would discount the sadness result equally. The mood-as-information effect behind misattribution has mostly [failed larger replications](/topics/immediate-emotions-and-the-affect-heuristic/#manipulated) in its home domain, well-being judgement. Forecasts bent by a present bodily state are the wider territory of the [cross-state-void](/voids/cross-state-void/).
 
 ## Relation to Site Perspective
 

@@ -1,20 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-27
-ai_modified: 2026-09-14 23:19:48+00:00
-ai_system: claude-fable-5+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-22 11:29:27+00:00
+ai_system: claude-fable-5+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'
 created: 2026-08-27
-date: &id001 2026-09-14
+date: &id001 2026-10-22
 description: 'Relocated calibration audit trail for the value-in-selection positions
   register: the dated notes recording why each band moved, or why it did not, starting
   with the 2026-08-27 re-walk of P-VS2''s battery.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-14 23:19:48+00:00
+lastmod: 2026-10-22 11:29:27+00:00
 modified: *id001
 related_articles:
 - '[[positions/value-in-selection]]'
@@ -45,6 +45,7 @@ The Map holds value-sensitive selection on prior commitments, conceding mechanis
 - **Updated 2026-08-17**: the `Asserts` line made the value-blind horn's lower coupling count a presumptive default "by Tenet 2" — the truth-tracking use of minimality that tenet expressly disclaims and [Tenet 5](/tenets/#occams-limits) forbids symmetrically (outer review, 2026-08-17). Restated as specification debt, matching [valence-and-conscious-selection](/topics/valence-and-conscious-selection/), which already held the corrected framing. Claim, calibration and dependencies unchanged; [embodied-interface](/apex/embodied-interface/) ran the same inference and is corrected with it.
 - **Updated 2026-08-27**: the `Asserts` line stated the value-sensitive horn in the outcome-valence form — outcomes "selected partly *because of how they would feel*" — which [affective-forecasting-gap](/concepts/affective-forecasting-gap/) (§The Disambiguation the Map Must Make, precision pass of 2026-08-27, 3-of-3 convergent in that day's outer-review synthesis) relocates: the outcome's *experienced* valence selecting is what the forecasting evidence refuses; the reading congenial to interactionism is that selection consults a *presently felt* valence, the experienced quality of simulating each outcome; and "currency" is ambiguous between what selection is causally *sensitive to* (felt anticipation) and what it is normatively *for* (the outcome's experienced valence, [P-VS3](/positions/value-in-selection/#p-vs3)'s constitution claim) — a relocation, not a division of labour. Both of this entry's *Depends on* articles were recast the same day to state the conditional in that form while citing this entry as the register home ([consciousness-value-connection](/concepts/consciousness-value-connection/), "Constitution is not causation"; [valence](/concepts/valence/), the Tenet 2 paragraph), and [P-VS2](/positions/value-in-selection/#p-vs2)'s third tier was conditionalised on the predicted-utility / present-affect reading, leaving this entry the one surface in the cluster stating the horn without the relocation. The `Asserts` now commits to the present-affect reading — the currency is the felt valence of anticipation, an occurrent state at choice; the outcome's experienced valence is what value *is*, not what selection consults — and carries the concept's open question of *which self's* experience the feeling is calibrated against, on the momentary-locus / persisting-subject cut [sentientism](/concepts/sentientism/) and [P-MS1](/positions/moral-status/#p-ms1) adopted the same day. The concept enters *Depends on*, not *Argued in*: it argues the gap, not the horn. Whether the present feeling selects *as felt*, or a sub-personal predictor selects and the feeling accompanies, is the fork itself, so the relocation neither raises nor lowers the band: **credence low, grade D, framework-internal only, every other axis unchanged**; the 2026-08-17 specification-debt framing stands. The two earlier notes were relocated here verbatim per the file convention.
 - **Updated 2026-09-10**: the `Asserts` said felt anticipation "forecasts poorly" — categorical, and [affective-forecasting-gap](/concepts/affective-forecasting-gap/) withdrew that on 2026-09-05 (outer review 2026-09-04, ChatGPT §2.3), replacing it with divergence "by an amount that depends on component, forecaster and design" (Carlson et al. 2023: intensity forecast *more* accurately than frequency or duration; Moeck et al. 2026: relative accuracy, small absolute errors; Stavrova et al. 2026: no systematic error for the 2024 partisan winners). Aligned here to the concept's own conditional summary. Its anticipated (judgement) / anticipatory (felt-now) cut (Loewenstein et al. 2001) already matches this entry's *presently felt* wording, so nothing else moved. A fifth shift condition was added from [valence-as-a-natural-kind](/topics/valence-as-a-natural-kind/): felt valence at choice shown micro-valenced, the commensurating scalar integrated *for* the choice rather than consulted at it (Shuman, Sander and Scherer 2013, *Frontiers in Psychology* 4:261), would retire the currency premise while leaving [P-VS3](/positions/value-in-selection/#p-vs3) untouched — the appraisal-theoretic route the entry did not name, and where the constructed-emotion objection actually lands. That article enters *Argued in*. **Wording only: credence low, external-evidence grade D, every axis unchanged.**
+- **Noted 2026-10-22** (no register field changed; the register stood at 2,498 of 2,500 words, so its *Calibration history* line does not yet list this date): [miswanting](/concepts/miswanting/#misattribution) states a disconfirmation condition for this entry, choice left unmoved by induced incidental affect with learned value and bodily state held fixed, and it is partly met. In the best-powered test the Map located, effectively induced emotions left financial risk-taking unmoved (Dong et al. 2026, *Journal of Economic Behavior & Organization* 246:107556, n = 7,000); bodily state was not held fixed. A replicated sadness induction raised choice prices (Garg, Williams & Lerner 2018, *PLOS ONE* 13(6):e0199433), and any discount for incidental rather than integral affect applies to both ([the battery reading](/topics/immediate-emotions-and-the-affect-heuristic/#battery)). Weakened at the margin, not refuted; feeling is not shown idle, and the retiring shift condition needs *uniformly* value-blind results. **No band moved: credence low, external-evidence grade D, every axis unchanged.**
 
 ## [P-VS2](/positions/value-in-selection/#p-vs2)
 

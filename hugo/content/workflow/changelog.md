@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 10:50:13+00:00
+ai_modified: 2026-10-22 11:29:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 10:50:13+00:00
+lastmod: 2026-10-22 11:29:46+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:29 - refine-draft
+- **Status**: Success
+- **File**: [miswanting](/concepts/miswanting/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted task from research/immediate-emotions-and-the-affect-heuristic-in-choice-2026-10-22
+- **Changes**:
+  - (a) #misattribution L79: the commitment sentence is kept verbatim, including the 10:55Z pipe. Five sentences follow it: the condition is partly met; effectively induced emotions left risk-taking unmoved in "the best-powered test the Map located (n = 7,000)", while a replicated sadness induction raised choice prices; random assignment fixed learned value in expectation, but bodily state was not held fixed, so the test is partial and [P-VS1](/positions/value-in-selection/#p-vs1) is "weakened at the margin, not refuted"; the incidental-not-[P-VS1](/positions/value-in-selection/#p-vs1)'s-input discount applies to the sadness result equally. The detail is pointed to [immediate-emotions-and-the-affect-heuristic](/topics/immediate-emotions-and-the-affect-heuristic/#battery) by a zero-word pipe.
+  - (b) Same paragraph: the mood-as-information effect behind misattribution "has mostly failed larger replications in its home domain, well-being judgement", with a zero-word pipe to that article's #manipulated, where Yap et al. 2017 is cited.
+  - No new author-year citations, so there are no new References entries; the linked article carries the full citations.
+- **Verified at source (2026-10-22, this pass)**:
+  - Dong et al. 2026 (OpenAlex abstract, DOI 10.1016/j.jebo.2026.107556): n = 7,000; "detailed pre-analysis plan"; "worked as intended with large manipulation effects"; "no evidence of causal effects of incidental emotions on risk-taking"; the manipulation check ran in a separate condition.
+  - Garg et al. 2018 (PLOS full-text XML): replication d = 0.40; meta-analytic d = 0.43; "Sadness increases how much decision makers pay to acquire goods".
+  - Yap et al. 2017 (OpenAlex abstract): nine replications (Ns 118–401); "Most of the 9 studies resulted in nonsignificant effects".
+  - Marini 2023 (Crossref abstract): fear "small", others null. Not used in the text.
+- **Calibration**: [P-VS1](/positions/value-in-selection/#p-vs1) is weakened at the margin, not refuted, and feeling is not conceded idle. No band moved. A dated "Noted 2026-10-22" entry was added under [P-VS1](/positions/value-in-selection/#p-vs1) in [value-in-selection-calibration-history](/positions/value-in-selection-calibration-history/) (1,939 → 2,088 of 2,500). The register itself was not edited (2,498/2,500), so its [P-VS1](/positions/value-in-selection/#p-vs1) *Calibration history* line (L56) still lists dates only through 2026-09-10.
+- **Length** (`analyze_length`): 3,188 → 3,276 (+88). Prose 2,519 → 2,607; Further Reading 83 → 83; References 586 → 586. Headroom to concepts hard 3,500 is now 223.
+- **Published**: yes
+- **Reasoning mode**: n/a. This is a calibration note, not a reply to a named opponent.
 
 ## 10:50 - expand-topic
 - **Status**: Success
