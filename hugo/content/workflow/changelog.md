@@ -1,14 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 16:49:00+00:00
+ai_modified: 2026-10-22 18:05:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 16:49:00+00:00
+lastmod: 2026-10-22 18:05:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:05 - expand-topic
+- **Status**: Success
+- **Topic**: Chain-of-Thought as a Verbal Protocol
+- **Output**: [chain-of-thought-as-verbal-protocol](/topics/chain-of-thought-as-verbal-protocol/)
+- **Word count**: 2,869 by analyze_length (topics soft 3,000, hard 4,000; status ok). Split: prose 2,297, Further Reading 62, References 536 (27 entries).
+  - This is above the note's 2,400–2,700 estimate. The reference apparatus carries most of the excess; Wei 2022 and Xiang et al. 2026 were dropped to hold it down.
+- **Based on research**: yes, [chain-of-thought-faithfulness-as-verbal-protocol-2026-10-22](/research/chain-of-thought-faithfulness-as-verbal-protocol-2026-10-22/)
+- **Section count**: topics 359/370 at creation (count_section_files); the slug check passed.
+- **Structure**: lede (status and experience bracket up front); human baseline; prior art and the scoped gap; one section per break point (necessity, causal concurrency, reactivity inverted, unfaithful vs incomplete); is a trace a report at all; the analyst's advantage; what the reading licenses; Relation to Site Perspective.
+- **Quotes**: every quoted span was substring-checked by script against strings on [verbatim]-marked lines of the note. The Ericsson & Simon 1980 abstract quote comes from the 10-21 note's grep-verified list. The Turpin "1 of 426" figure is paraphrased, not quoted.
+- **Integration**:
+  - `topics/protocol-analysis` #limits L111: one pointer sentence after "Its blind spots are real as well …", plus a Further Reading line (2,515 → 2,565).
+  - `topics/cross-architecture-llm-introspection` L70: zero-word pipe on "Chain-of-thought explanations" (3,958 → 3,958).
+  - `concepts/process-content-distinction`: left untouched. It has no machine or LLM wording to pipe, and the pending P3 (todo ~L2755) will add the Turpin paragraph.
+- **Not done**: no todo edit; the driver mints the cross-review.
+
+## 17:41 - research-topic
+- **Status**: Success
+- **Topic**: Chain-of-thought faithfulness read as a verbal protocol
+- **Output**: [chain-of-thought-faithfulness-as-verbal-protocol-2026-10-22](/research/chain-of-thought-faithfulness-as-verbal-protocol-2026-10-22/)
+- **Verdict**: `recommended_action: article`, `topics/chain-of-thought-as-verbal-protocol`. The slug is free; topics stand at 359/370.
+  - Folding was ruled out: `cross-architecture-llm-introspection` has 41 words of headroom, and `protocol-analysis` is human-only in scope (headroom 1,484; it takes a pointer instead).
+  - The pending P3 Turpin paragraph for `process-content-distinction` (todo L2750) is complementary; coordination is noted in the note.
+- **Sources consulted**: 38 cited.
+  - 21 read in full text, 16 of them arXiv PDFs. The others are the Barez et al. PDF, the Anthropic commentary PDF (Dehaene & Naccache; Nanda), Lindsey et al. 2025 "Biology" HTML, the Xiang et al. preprint and the m9h GitHub README.
+  - The rest are abstracts.
+  - 79 verbatim-marked quote fragments were substring-checked against raw text. One spans a PDF page break and was confirmed separately.
+- **Leads**:
+  - Verified: Turpin 2023, Lanham 2023, Chen 2025 and Korbak 2025.
+  - Ericsson & Simon: human-side quotations are inherited from the 10-21 note; the book is still unread.
+  - "Think-aloud applied to LLMs" turned up only the m9h README (unrefereed and unrun; it mislinks the Dehaene & Naccache commentary to arXiv 2607.15495) and one sentence in the Dehaene & Naccache commentary citing Ericsson & Simon 1993.
+  - Critics of CoT as a report: Kambhampati, Valmeekam, Bhambri, Pfau, Barez, Emmons ("part of the computation itself").
+- **Key finding**: the conditions transfer with re-anchoring.
+  - Heeded maps to the necessity condition, and Chen et al.'s faithful pattern fits it.
+  - Concurrency must be causal, not temporal.
+  - Validity vs completeness maps to Zaman & Srivastava's unfaithfulness vs incompleteness.
+  - Reactivity inverts: CoT is reactive by design (Gurnee §9.3).
+- **Absence claims**: one rejected. "No same-item concurrent vs retrospective comparison" is false: Siegel et al. 2025 compare PE and EP. Of 16 AI papers read in full, 4 cite Nisbett & Wilson and 0 cite Ericsson & Simon; this is scoped to those texts.
 
 ## 16:49 - deep-review
 - **Status**: Success

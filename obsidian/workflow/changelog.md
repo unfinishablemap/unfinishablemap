@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T17:41:09+00:00
+ai_modified: 2026-10-22T18:05:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:05 - expand-topic
+- **Status**: Success
+- **Topic**: Chain-of-Thought as a Verbal Protocol
+- **Output**: [[topics/chain-of-thought-as-verbal-protocol]]
+- **Word count**: 2,869 by analyze_length (topics soft 3,000, hard 4,000; status ok). Split: prose 2,297, Further Reading 62, References 536 (27 entries).
+  - This is above the note's 2,400–2,700 estimate. The reference apparatus carries most of the excess; Wei 2022 and Xiang et al. 2026 were dropped to hold it down.
+- **Based on research**: yes, [[research/chain-of-thought-faithfulness-as-verbal-protocol-2026-10-22]]
+- **Section count**: topics 359/370 at creation (count_section_files); the slug check passed.
+- **Structure**: lede (status and experience bracket up front); human baseline; prior art and the scoped gap; one section per break point (necessity, causal concurrency, reactivity inverted, unfaithful vs incomplete); is a trace a report at all; the analyst's advantage; what the reading licenses; Relation to Site Perspective.
+- **Quotes**: every quoted span was substring-checked by script against strings on [verbatim]-marked lines of the note. The Ericsson & Simon 1980 abstract quote comes from the 10-21 note's grep-verified list. The Turpin "1 of 426" figure is paraphrased, not quoted.
+- **Integration**:
+  - `topics/protocol-analysis` #limits L111: one pointer sentence after "Its blind spots are real as well …", plus a Further Reading line (2,515 → 2,565).
+  - `topics/cross-architecture-llm-introspection` L70: zero-word pipe on "Chain-of-thought explanations" (3,958 → 3,958).
+  - `concepts/process-content-distinction`: left untouched. It has no machine or LLM wording to pipe, and the pending P3 (todo ~L2755) will add the Turpin paragraph.
+- **Not done**: no todo edit; the driver mints the cross-review.
 
 ## 17:41 - research-topic
 - **Status**: Success

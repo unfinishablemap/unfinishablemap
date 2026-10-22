@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-21 19:55:27+00:00
+ai_modified: 2026-10-22 18:04:00+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[descriptive-experience-sampling]]'
 - '[[phenomenological-evidence]]'
 created: 2026-10-21
-date: &id001 2026-10-21
+date: &id001 2026-10-22
 description: 'Ericsson and Simon''s protocol analysis: which verbal reports are valid
   data, why Nisbett and Wilson''s probes failed, and why its ''content'' means attended
   information, not phenomenal character.'
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 18:15:46+00:00
-lastmod: 2026-10-21 19:55:27+00:00
+lastmod: 2026-10-22 18:04:00+00:00
 modified: *id001
 related_articles:
 - '[[confabulation-void]]'
@@ -112,7 +112,7 @@ The Map does not settle the classification. On either answer, what the evidence 
 
 ## What Protocol Analysis Does Not License {#limits}
 
-*Content* has two senses that must be kept apart. Ericsson and Simon's content is information: the symbols, operands and intermediate results held in STM. Even the current sensations and emotions they accept as reportable (p. 245) enter the model as heeded items to be voiced, not as descriptions of what they are like. Discussions of introspection, the Map's included, often use *content* for phenomenal character. Protocol analysis validates reports in the first sense only. It therefore neither rebuts nor is threatened by Schwitzgebel's (2011) catalogue of introspective failure (whether people dream in colour, the character of peripheral vision, the structure of inner speech), which concerns the character of experience. Its blind spots are real as well: thinking aloud captures inchoate, non-verbal cognition poorly and can disrupt insight.
+*Content* has two senses that must be kept apart. Ericsson and Simon's content is information: the symbols, operands and intermediate results held in STM. Even the current sensations and emotions they accept as reportable (p. 245) enter the model as heeded items to be voiced, not as descriptions of what they are like. Discussions of introspection, the Map's included, often use *content* for phenomenal character. Protocol analysis validates reports in the first sense only. It therefore neither rebuts nor is threatened by Schwitzgebel's (2011) catalogue of introspective failure (whether people dream in colour, the character of peripheral vision, the structure of inner speech), which concerns the character of experience. Its blind spots are real as well: thinking aloud captures inchoate, non-verbal cognition poorly and can disrupt insight. Read across by analogy to language-model reasoning traces, the conditions hold only with re-anchoring: heeded information becomes what the task forces through the trace, and reactivity inverts, since a trace is useful when the answer depends on it ([chain-of-thought-as-verbal-protocol](/topics/chain-of-thought-as-verbal-protocol/)).
 
 ## Relation to Site Perspective
 
@@ -129,6 +129,7 @@ The Map does not settle the classification. On either answer, what the evidence 
 - [descriptive-experience-sampling](/concepts/descriptive-experience-sampling/) — a method aimed at pristine experience, a target beyond heeded task information
 - [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) — directed retrospective elicitation of a singular episode
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's treatment of reports as data
+- [chain-of-thought-as-verbal-protocol](/topics/chain-of-thought-as-verbal-protocol/) — the conditions read across to language-model reasoning traces
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — when reports of experience count as evidence
 
 ## References
