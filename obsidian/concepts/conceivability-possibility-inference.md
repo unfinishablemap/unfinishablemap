@@ -2,9 +2,9 @@
 title: "Conceivability-Possibility Inference"
 description: "Examining when what we can imagine reveals what could be real, and the philosophical arguments that depend on this controversial bridge between thought and reality."
 created: 2026-02-11
-modified: 2026-10-10
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T21:00:43+00:00
+ai_modified: 2026-10-22T21:40:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,9 +139,9 @@ The inference bears on the Map's [[tenets#^bidirectional-interaction|Bidirection
 
 This aligns with the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. The parsimony objection to dualism often assumes that conceivability arguments are mere "intuitions" to be overridden by simplicity. But if conceivability provides genuine epistemic access to modal structure, then the apparent simplicity of physicalism might reflect ignorance rather than insight—we fail to grasp the additional facts about consciousness because we're looking only at physical structure.
 
-Dismissing a conceptual gap that survives sustained, rigorous reflection requires showing the conceiving is pseudo-conceiving (contains hidden contradictions), arguing that the inference fails locally for the phenomenal case, or rejecting modal rationalism entirely (abandoning reason as a guide to possibility).
+Dismissing a conceptual gap that survives sustained, rigorous reflection requires showing the conceiving is pseudo-conceiving (contains hidden contradictions), arguing that the inference fails locally for the phenomenal case, or rejecting modal rationalism for a [[modal-epistemology#rival-routes|rival modal epistemology]].
 
-Each move carries costs. The first requires demonstrating where zombie conceiving goes wrong—and decades of scrutiny haven't produced consensus that it does. The second is the route of [[type-a-type-b-and-type-c-physicalism|Type-B physicalism]], the Map's live opponent, which grants that zombies are conceivable and denies that they are possible. It must posit [[primitive-identities-and-strong-necessities#Strong Necessities|strong necessities]]—metaphysical necessities that, unlike "water is H₂O", no two-dimensional analysis explains. Cognitive closure takes the same route at the price already noted [[#The Cognitive Closure Objection|above]]. These costs bear on Type-B's plausibility; they do not make the evidence favour dualism over it, and the Map's case against Type-B rests on such costs rather than on any observation Type-B fails to predict. The third move abandons a priori modal reasoning altogether, making necessity and possibility empirically inaccessible—a radical skepticism that undermines much of philosophy and mathematics.
+Each move carries costs. The first requires demonstrating where zombie conceiving goes wrong—and decades of scrutiny haven't produced consensus that it does. The second is the route of [[type-a-type-b-and-type-c-physicalism|Type-B physicalism]], the Map's live opponent, which grants that zombies are conceivable and denies that they are possible. It must posit [[primitive-identities-and-strong-necessities#Strong Necessities|strong necessities]]—metaphysical necessities that, unlike "water is H₂O", no two-dimensional analysis explains. Cognitive closure takes the same route at the price already noted [[#The Cognitive Closure Objection|above]]. These costs bear on Type-B's plausibility; they do not make the evidence favour dualism over it, and the Map's case against Type-B rests on such costs rather than on any observation Type-B fails to predict. The third move can keep a priori or armchair modal knowledge, but zombie possibility becomes downstream of the disputed metaphysics, depending on prior knowledge of essences or constitutive facts. The Map's modal arguments thus inherit the standing of modal rationalism, and that standing is contested.
 
 ## Further Reading
 

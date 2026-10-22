@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-10-22 21:00:43+00:00
+ai_modified: 2026-10-22 21:40:12+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-02-11
-date: &id001 2026-10-10
+date: &id001 2026-10-22
 description: Examining when what we can imagine reveals what could be real, and the
   philosophical arguments that depend on this controversial bridge between thought
   and reality.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-10 05:30:56+00:00
-lastmod: 2026-10-22 21:00:43+00:00
+lastmod: 2026-10-22 21:40:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,9 +143,9 @@ The inference bears on the Map's [Bidirectional Interaction](/tenets/#bidirectio
 
 This aligns with the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. The parsimony objection to dualism often assumes that conceivability arguments are mere "intuitions" to be overridden by simplicity. But if conceivability provides genuine epistemic access to modal structure, then the apparent simplicity of physicalism might reflect ignorance rather than insight—we fail to grasp the additional facts about consciousness because we're looking only at physical structure.
 
-Dismissing a conceptual gap that survives sustained, rigorous reflection requires showing the conceiving is pseudo-conceiving (contains hidden contradictions), arguing that the inference fails locally for the phenomenal case, or rejecting modal rationalism entirely (abandoning reason as a guide to possibility).
+Dismissing a conceptual gap that survives sustained, rigorous reflection requires showing the conceiving is pseudo-conceiving (contains hidden contradictions), arguing that the inference fails locally for the phenomenal case, or rejecting modal rationalism for a [rival modal epistemology](/concepts/modal-epistemology/#rival-routes).
 
-Each move carries costs. The first requires demonstrating where zombie conceiving goes wrong—and decades of scrutiny haven't produced consensus that it does. The second is the route of [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/), the Map's live opponent, which grants that zombies are conceivable and denies that they are possible. It must posit [strong necessities](/concepts/primitive-identities-and-strong-necessities/#strong-necessities)—metaphysical necessities that, unlike "water is H₂O", no two-dimensional analysis explains. Cognitive closure takes the same route at the price already noted [above](#the-cognitive-closure-objection). These costs bear on Type-B's plausibility; they do not make the evidence favour dualism over it, and the Map's case against Type-B rests on such costs rather than on any observation Type-B fails to predict. The third move abandons a priori modal reasoning altogether, making necessity and possibility empirically inaccessible—a radical skepticism that undermines much of philosophy and mathematics.
+Each move carries costs. The first requires demonstrating where zombie conceiving goes wrong—and decades of scrutiny haven't produced consensus that it does. The second is the route of [Type-B physicalism](/concepts/type-a-type-b-and-type-c-physicalism/), the Map's live opponent, which grants that zombies are conceivable and denies that they are possible. It must posit [strong necessities](/concepts/primitive-identities-and-strong-necessities/#strong-necessities)—metaphysical necessities that, unlike "water is H₂O", no two-dimensional analysis explains. Cognitive closure takes the same route at the price already noted [above](#the-cognitive-closure-objection). These costs bear on Type-B's plausibility; they do not make the evidence favour dualism over it, and the Map's case against Type-B rests on such costs rather than on any observation Type-B fails to predict. The third move can keep a priori or armchair modal knowledge, but zombie possibility becomes downstream of the disputed metaphysics, depending on prior knowledge of essences or constitutive facts. The Map's modal arguments thus inherit the standing of modal rationalism, and that standing is contested.
 
 ## Further Reading
 

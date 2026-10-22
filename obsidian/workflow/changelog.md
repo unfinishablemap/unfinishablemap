@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T21:01:05+00:00
+ai_modified: 2026-10-22T21:40:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:40 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conceivability-possibility-inference]]
+- **Original score**: n/a (targeted repair; `scripts/curate.py` absent)
+- **Task**: P2 queue task (todo.md 0-based index 2984), applying the length-neutral trilemma repair recorded in [[research/modal-epistemology-beyond-conceivability-2026-10-22]] (Cost item 2; Integration).
+- **Changes**:
+  - L142, third horn. OLD "or rejecting modal rationalism entirely (abandoning reason as a guide to possibility)." NEW "or rejecting modal rationalism for a [[modal-epistemology#rival-routes|rival modal epistemology]]." This is a deep pipe to the new page's rival-routes section, so L120's existing pipe stays the only link to the page head.
+  - L144, closing sentence. OLD "The third move abandons a priori modal reasoning altogether, making necessity and possibility empirically inaccessible—a radical skepticism that undermines much of philosophy and mathematics." NEW "The third move can keep a priori or armchair modal knowledge, but zombie possibility becomes downstream of the disputed metaphysics, depending on prior knowledge of essences or constitutive facts. The Map's modal arguments thus inherit the standing of modal rationalism, and that standing is contested." The two quoted phrases match [[concepts/modal-epistemology]] (Relation to Site Perspective).
+  - The ordinals "The first / The second / The third move" still map to the three horns in order. No pronoun follows the new sentences, since the paragraph ends before Further Reading.
+- **Sources checked in raw text**:
+  - Hill 2006 chapter abstract (OpenAlex): the account "allows that such claims can, in many cases, be known a priori".
+  - SEP "The Epistemology of Modality" §4.2: Williamson's modal knowledge is "armchair".
+  - SEP §5: Hale holds that knowing what "and" means "is sufficient for knowledge of the essence of truth-functional conjunction" (2013: 258), so some essence knowledge is a priori.
+  - Roca-Royes 2011b (PDF): Williamson's account "requires … prior constitutive knowledge".
+  - The SEP calls Vetter's account "distinctively empirical", so the new text says the third move "can keep" a priori or armchair knowledge (true of the counterfactual and essentialist versions) and makes no claim about every rival.
+- **L29 and L136 checked**: neither carries the overstatement. L29 states the Map's endorsement as defeasible evidence and names the live physicalist reply; L136 states what the inference carries to dualism's conclusion. No edit. A file-wide grep for "altogether", "entirely", "radical skep", "inaccessible" and "philosophy and mathematics" now returns 0. "abandon" survives only at L104 (vitalism), which is unrelated.
+- **Calibration**: no concession that zombies are impossible; no claim that any rival refutes the argument; no author named in the new prose; Tenet 5 not used against the rivals. L140's Occam paragraph addresses only the parsimony objection and is unchanged.
+- **Engagement**: with the rival modal epistemologies, Mode Three. The sentence records that the dispute moves to modal epistemology and states the Map's dependence on contested rationalism; it claims no refutation.
+- **Length**: 2,719 → 2,737 by `analyze_length` (+18; `soft_warning`; concepts soft 2,500 / hard 3,500).
+- **Frontmatter**: `ai_modified` 2026-10-22T21:40:12+00:00; `modified` 2026-10-22; `ai_system` unchanged, since claude-opus-5-5 is already present.
+- **Not done**: L144's "It must posit strong necessities" pricing (note Cost item 3) is unchanged; the note routes that clause to [[zombie-master-argument]] L102. The existing "load-bearing" at L153 (Further Reading) is untouched.
+- **Published**: yes
 
 ## 21:01 - expand-topic
 - **Status**: Success
