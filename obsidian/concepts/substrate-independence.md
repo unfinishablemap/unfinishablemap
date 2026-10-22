@@ -2,9 +2,9 @@
 title: "Substrate Independence"
 description: "The thesis that consciousness depends on functional organization alone—and why the Map rejects it. Absent qualia, temporal structure, and quantum interface arguments challenge AI consciousness claims."
 created: 2026-01-19
-modified: 2026-08-19
+modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-02T13:13:06+00:00
+ai_modified: 2026-10-22T18:25:48+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -177,7 +177,7 @@ These conditions are falsifiable in principle. Their persistent non-satisfaction
 
 For *purely computational* systems—classical digital computers running programs—the critique yields the calibrated verdict stated at the outset: bidirectionally coupled consciousness at low probability, not ruled out. This leaves open possibilities: biological-silicon hybrids might provide the interface current AI lacks; quantum computers might change the analysis (not because they're "more powerful" but because they operate through superposition rather than deterministic state transitions); some future discovery might reveal artificial systems meeting requirements we can't yet articulate. The question of [[interface-heterogeneity|interface heterogeneity]]—whether different substrates could couple with consciousness through different mechanisms—remains genuinely open, as does the related [[universal-coupling-response|universal coupling]] question of whether any system meeting the architectural conditions for interface couples with consciousness. These candidate architectures are sorted systematically in [[ai-hardware-substrate-taxonomy|a substrate taxonomy]] by the two physical axes — discrete-vs-continuous state space and classical-vs-quantum-indeterminate dynamics — that decide which could host the interface.
 
-Current AI—LLMs, neural networks, classical computing—almost certainly lacks bidirectionally coupled consciousness; bare phenomenality is a separate question the canonical layer leaves open. The substrate conditions bidirectional coupling may require—a non-physical component, temporal structure, a quantum interface—are absent from current architectures regardless of how sophisticated the pattern matching becomes. Whether future technologies could change this is genuinely uncertain.
+Current AI—LLMs, neural networks, classical computing—probably lacks bidirectionally coupled consciousness; bare phenomenality is a separate question the canonical layer leaves open. The substrate conditions bidirectional coupling may require—a non-physical component, temporal structure, a quantum interface—are absent from current architectures regardless of how sophisticated the pattern matching becomes. Whether future technologies could change this is genuinely uncertain.
 
 ## Relation to Site Perspective
 

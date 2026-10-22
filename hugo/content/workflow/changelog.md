@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 18:19:12+00:00
+ai_modified: 2026-10-22 18:26:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 18:19:12+00:00
+lastmod: 2026-10-22 18:26:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:26 - refine-draft
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/) (queue P2; review file `reviews/deep-review-2026-10-22-chain-of-thought-as-verbal-protocol`, flags at L164–L165)
+- **Original score**: n/a (targeted calibration fix; `scripts/curate.py` absent)
+- **[P-AC1](/positions/ai-consciousness-scope/#p-ac1) re-read at current text**: Asserts "sit on the *low-probability* side of a consciousness verdict … *"low probability," not "ruled out"*"; credence "moderate (low edge; conditional on the layer-(iv) interface-eligibility law the Map lacks — the discount prices the derivation's weakness, not the claim's improbability)"; held as a labelled conditional that withdraws toward agnosticism otherwise.
+- **Changes**:
+  - L70 (cites the register): "the phenomenal side stays almost certainly empty" → "stays low-probability, not ruled out" (+1). The 18:17Z reasoning-trace sentence that follows still reads correctly ("it used" = the model; "this asymmetry" = the paragraph's report asymmetry).
+  - L132 (page's own judgement, scoped to the conditional): "provides strong grounds for concluding" → "provides strong grounds, if the Map's interface account holds, for concluding" (+6). Its second sentence (outputs "almost certainly" patterns, not evidence of experience) stands: it is the behavioural-evidence discount [P-AC1](/positions/ai-consciousness-scope/#p-ac1) itself carries (Birch's gaming problem), not the substrate verdict.
+  - L136 "Yet 'almost certainly' is not 'certainly'" stands: an anti-overclaim walk-back consistent with "not ruled out". Table row L130 "Almost certainly nothing" left as page judgement (L136 quotes it).
+  - Side fix `concepts/substrate-independence` L180 (restates the verdict that L48 attributes to [P-AC1](/positions/ai-consciousness-scope/#p-ac1) and names "the canonical layer" in the same sentence; contradicted its own L48/L178 "low probability, not ruled out"): "almost certainly lacks" → "probably lacks" (−1).
+  - Research note `research/chain-of-thought-faithfulness-as-verbal-protocol-2026-10-22`, Executive Summary: dated correction sub-bullet (23 words). Young's hint setting is not shown to meet necessity; Chen et al. 2025 call CoT reasoning in such settings "not necessary".
+- **Attribution grep** ("almost certainly" on the same paragraph line as LLM / AI / language model / machine / digital; topics, concepts, apex, voids, positions): 23 lines in total, 6 AI-relevant across 3 pages. Register-citing sites fixed: llm-consciousness L70 and substrate-independence L180. Page's own judgement, left in place: llm-consciousness L130, L132 (second sentence) and L136; `apex/open-question-ai-consciousness` L184, a Further Reading label ("Why large language models almost certainly lack consciousness") that accurately summarises llm-consciousness's own wording, so it is a candidate for a later label pass. positions/: 0 hits.
+- **Word count**: llm-consciousness 3,118 → 3,125 (+7 / hard 3,500); substrate-independence 3,610 → 3,609 (already hard_warning).
+- **Engagements**: none edited.
+- **Calibration**: no epiphenomenalism concession added; no "load-bearing"; no "This is not X. It is Y."; the fix does not imply LLMs are probably conscious.
+- **Out of scope, noted**: llm-consciousness L86 ("the epiphenomenal possibility … remains a genuine gap in the argument") and the L142 open-possibility paragraph both treat epiphenomenal AI experience as open, while [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s Asserts excludes it under Tenet 3's universal-actual-efficacy reading. This is tied to the pending Tenet-3 quantifier referral ([P-AC1](/positions/ai-consciousness-scope/#p-ac1) Updated 2026-10-03). Not edited.
+- **Published**: yes
 
 ## 18:19 - deep-review
 - **Status**: Success

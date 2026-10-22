@@ -3,7 +3,7 @@ title: "Research Notes - Chain-of-Thought Faithfulness Read as a Verbal Protocol
 created: 2026-10-22
 modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-22T18:16:58+00:00
+ai_modified: 2026-10-22T18:25:48+00:00
 draft: false
 description: "Ericsson and Simon's conditions for valid verbal reports applied to language-model reasoning traces: what transfers, what inverts, and why trace faithfulness says nothing about machine experience."
 topics:
@@ -78,6 +78,7 @@ Ericsson and Simon's conditions for valid verbal reports transfer to language-mo
 
 - **What transfers.** The heeded/never-heeded line reappears as the *necessity* condition. A trace reliably carries an influence when the task forces the computation through the token stream (Korbak et al. 2025; Emmons et al. 2025). It omits influences that act within a single forward pass. Faithful hint-following cases are those where using the hint became an explicit serial step (Chen et al. 2025's qualitative pattern).
 - **What needs re-anchoring.** Concurrency must be read causally, not temporally. A CoT written before the answer can still be post-hoc (Lanham et al. 2023; Boppana et al. 2026). Where the necessity condition is absent, explaining first does not improve faithfulness (Siegel et al. 2025). Where it is present, the thinking channel acknowledges influences the visible answer drops (Young 2026, a preprint with a keyword metric).
+  - **Correction (2026-10-22):** Young's hint setting is not shown to meet necessity; Chen et al. 2025 call CoT reasoning in such settings "not necessary".
 - **What inverts.** Human think-aloud is defended by showing it is *non-reactive*. CoT is valuable because it is *reactive*: the tokens serve as working memory (Korbak et al.; Gurnee et al. 2026 §9.3). Lanham et al.'s faithfulness tests therefore *require* that the answer depend on the trace. The Map should not import the non-reactivity defence.
 - **Validity and completeness.** The validity/completeness distinction (Schooler 2011) reappears as unfaithfulness against incompleteness (Zaman & Srivastava 2025).
 - **The analyst infers process.** Ericsson and Simon's division of labour (the subject voices states, the analyst infers process) is what interpretability now does with attribution graphs, probes and step interventions.
