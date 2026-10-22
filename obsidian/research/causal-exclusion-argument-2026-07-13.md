@@ -3,7 +3,8 @@ title: "Research Notes - Kim's Causal Exclusion Argument"
 created: 2026-07-13
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-10-22T16:47:00+00:00
 ---
 
 # Research: Kim's Causal Exclusion Argument
@@ -71,14 +72,14 @@ Non-identity (premise 3) is what makes the argument *bite against dualism specif
 - **Relation to site tenets**: Directly opposed to Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). This is the position the Map must answer.
 
 ### Compatibilist / Autonomist — Karen Bennett
-- **Core claim**: Deny the exclusion principle's application by adding a **counterfactual test for overdetermination**. Genuine overdetermination (firing squad) requires that *if one cause had occurred without the other, the effect would still have occurred* (the counterfactual `~C1 & C2 > E` is non-vacuously true). In the mental/physical case, because of supervenience, you *cannot* have the mental cause without the physical base — so that counterfactual is false or only vacuously true. Hence mental and physical are distinct sufficient causes **without** counting as overdetermination. Bennett calls this "tracting" the intractable exclusion problem.
+- **Core claim**: Deny the exclusion principle's application by adding a **counterfactual test for overdetermination**. Genuine overdetermination (firing squad) requires that *if one cause had occurred without the other, the effect would still have occurred* (the counterfactual `~C1 & C2 > E` is non-vacuously true). In the mental/physical case the physical base necessitates the mental property, so you *cannot* have the base without the mental cause — the counterfactual about the base occurring alone is only vacuously true. Bennett declines the converse move (m-without-p vacuity) because it would deny multiple realizability. (Corrected 2026-10-22: the direction was previously inverted.) Hence mental and physical are distinct sufficient causes **without** counting as overdetermination. Bennett calls this "tracting" the intractable exclusion problem.
 - **Critique**: Objectors argue the reply presupposes the mental cause is *sufficient* in the first place — exactly what the physicalist picture denies — and that "dependent overdetermination" is a redescription rather than a dissolution.
 - **Relation to site tenets**: Structurally parallel to the Map's overdetermination-dissolution move (both attack the exclusion principle via the special dependence between mental and physical), but Bennett stays within non-reductive *physicalism*. Worth flagging the parallel: the Map's selection-at-a-gap version claims the physical base is *not* sufficient, which is stronger than Bennett's "sufficient but not overdetermining."
 
 ### Interventionist / Difference-Making — List & Menzies, Woodward
 - **Proponents**: Christian List and Peter Menzies (2009); James Woodward (2015).
 - **Core claim**: Recast causation as **difference-making under interventions** (Woodward's interventionism), not as "sufficient causation." On this account the exclusion principle is **not a necessary truth but a contingent matter**. List & Menzies formulate a "new" exclusion principle with two directions: *upward exclusion* (realizer excludes the realized) and, more strikingly, **downward exclusion** (the higher-level property excludes its own realizer as the cause) — which can obtain when the higher-level property is the one whose presence/absence makes the difference and the specific realizer is not required (realization-insensitivity / proportionality). Result: some higher-level (including mental) properties are the genuine difference-makers, and their microphysical realizers are *not*.
-- **Critique**: Bermúdez & Cahen and others argue the difference-making account does not actually help — proportionality can cut the other way, and interventionist causation may not deliver the metaphysical exclusion Kim needs to be denied.
+- **Critique**: Bermúdez & Cahen (2015, *Humana.Mente* 29: 47–68) argue that Menzies's downward exclusion entails a ubiquitous violation of physical closure, forcing a trilemma to which they see no satisfactory response. (Corrected 2026-10-22: an earlier gloss credited them with a proportionality objection; "propor" has 0 hits in the paper.)
 - **Relation to site tenets**: A physicalist-friendly rescue of higher-level causal autonomy. Useful to the Map as *independent pressure on the exclusion principle* from within mainstream philosophy of mind — it shows Kim's premise 4 is not sacrosanct — without committing to dualism. Cite as "even physicalists reject the exclusion principle."
 
 ### The Generalization / Causal Drainage Worry — Ned Block

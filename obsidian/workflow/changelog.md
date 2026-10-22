@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T16:21:27+00:00
+ai_modified: 2026-10-22T16:49:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:49 - deep-review
+- **Status**: Success
+- **Task**: Cycle slot, picked by `deep_review.py next` (score 69, 66 days since the last review). The 09-15 and 10-20 refine-draft prose (route 4 Gibb/Davies, Saad, chance-fixing scope, Tenet 4/5) had never been deep-reviewed. Fourth deep review.
+- **File**: [[concepts/causal-exclusion-argument]]
+- **Word count**: 3051 → 3064 (+13; prose 2562 → 2571, Further Reading 138 → 138, References 351 → 355; concepts soft 2500 / hard 3500, `soft_warning`, headroom 435)
+- **Critical issues addressed**: 2. Both are content-fidelity errors seeded by the 07-13 research note; three metadata and quote ledgers had passed them.
+  - L63 Bennett: the counterfactual test ran in the wrong direction. The article said "you cannot have the mental cause without its physical base". Bennett's move is (O2) vacuity: the base necessitates the mental property, so base-without-mental is impossible. She rejects the article's version because it would deny multiple realizability. Source: Hallman, *FPR* 2016, raw PDF.
+  - L69 Bermúdez & Cahen: the gloss credited them with a proportionality objection, but "propor" has 0 hits in the raw PDF. Their thesis is that Menzies's downward exclusion makes closure violations ubiquitous, leaving a trilemma. "Replying directly… in the same issue" was also loose: they cite Menzies 2013 and 2009, not his issue-29 paper. This closes the 08-17 open item.
+- **Medium issues addressed**: 7
+  - L80: route 4's "both keep closure's letter" contradicted route 3's denial of sufficiency; it now reads "aim to leave a closure principle standing… where physics fixes only chances".
+  - L94: Tenet 5 is scoped to the Map's own reasoning ("route 3 leaves premise 5 standing").
+  - L55: the "non-partisan reader" verdict was cut.
+  - L63: "denies" → "does not secure".
+  - L33: the lead's not-X-it-is-Y construct was rephrased.
+  - L79: route 3's delegatory preemption is now named as Saad's.
+  - L136: the self-citation lists all four pseudonyms.
+- **Enhancements made**: 0 new content; corrections only.
+- **Citations**: 3 never-ledgered refs (Gibb 2013, Davies 2016, Saad 2025) are real-correct at Crossref. Gibb's model was verified in the raw text of Gibb 2015, and Davies's objection in the JATS abstract. 9 earlier refs were re-confirmed at Crossref. No (surname, year) orphans in either direction.
+- **Engagement modes**: Kim's reductionist horn, subset and Yablo: Mode Three. Block vs Kim: Mode One. Chance-fixing physicalist vs route 3: Mode Three (open P-Q3). Eliminativist: Mode Three. Gibb: an unpriced dualist rival.
+- **Propagation**: research note `research/causal-exclusion-argument-2026-07-13` L74 (Bennett) and L81 (Bermúdez & Cahen) were corrected, its `ai_system` got `+claude-opus-5-5` appended, and `ai_modified` was added. No other corpus locus states either claim.
+- **Follow-up lead**: `concepts/observational-closure` L32 credits Saad 2025 with introducing the distinction, while `topics/interventionist-and-counterfactual-dualism` L65 credits Lowe 2003. Two pages name two different originators.
+- **Output**: [[reviews/deep-review-2026-10-22-causal-exclusion-argument]]
 
 ## 16:25 - refine-draft (driver follow-up)
 - **Status**: Success
