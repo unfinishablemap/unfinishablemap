@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-07 19:22:27+00:00
+ai_modified: 2026-10-22 21:00:43+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
@@ -31,7 +31,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 23:34:00+00:00
-lastmod: 2026-10-07 19:22:27+00:00
+lastmod: 2026-10-22 21:00:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ The zombie argument proceeds in three steps:
 
 1. **Zombies are conceivable.** We can coherently imagine a world physically identical to ours—same atoms, same brain states, same functional organization—where beings behave exactly as we do but lack all inner experience.
 
-2. **If zombies are conceivable, they are metaphysically possible.** Conceivability is evidence of possibility. When we can coherently imagine a scenario without contradiction, that scenario could obtain in some possible world.
+2. **If zombies are conceivable, they are metaphysically possible.** Conceivability is [evidence of possibility](/concepts/modal-epistemology/). When we can coherently imagine a scenario without contradiction, that scenario could obtain in some possible world.
 
 3. **If zombies are metaphysically possible, consciousness is not entailed by physical facts.** If a physically identical world could lack consciousness, then consciousness is something "extra"—not necessitated by physics alone.
 

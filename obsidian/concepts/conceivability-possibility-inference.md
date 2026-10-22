@@ -4,7 +4,7 @@ description: "Examining when what we can imagine reveals what could be real, and
 created: 2026-02-11
 modified: 2026-10-10
 human_modified:
-ai_modified: 2026-10-10T05:30:56+00:00
+ai_modified: 2026-10-22T21:00:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,7 +117,7 @@ This is more targeted than general empiricist skepticism: it grants that the inf
 
 ## Modal Rationalism and Its Limits
 
-The conceivability-possibility inference embodies a form of *modal rationalism*—the view that reason can access modal truths (what is possible, necessary, or impossible) through a priori reflection.
+The conceivability-possibility inference embodies a form of *[[modal-epistemology|modal rationalism]]*—the view that reason can access modal truths (what is possible, necessary, or impossible) through a priori reflection.
 
 **The rationalist bet:** Our imaginative faculties track something real about modal space. When we coherently conceive P, this isn't arbitrary—it reflects that P is compatible with the fundamental structure of reality.
 

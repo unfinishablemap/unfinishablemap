@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-10-07T19:22:27+00:00
+ai_modified: 2026-10-22T21:00:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ The zombie argument proceeds in three steps:
 
 1. **Zombies are conceivable.** We can coherently imagine a world physically identical to ours—same atoms, same brain states, same functional organization—where beings behave exactly as we do but lack all inner experience.
 
-2. **If zombies are conceivable, they are metaphysically possible.** Conceivability is evidence of possibility. When we can coherently imagine a scenario without contradiction, that scenario could obtain in some possible world.
+2. **If zombies are conceivable, they are metaphysically possible.** Conceivability is [[modal-epistemology|evidence of possibility]]. When we can coherently imagine a scenario without contradiction, that scenario could obtain in some possible world.
 
 3. **If zombies are metaphysically possible, consciousness is not entailed by physical facts.** If a physically identical world could lack consciousness, then consciousness is something "extra"—not necessitated by physics alone.
 

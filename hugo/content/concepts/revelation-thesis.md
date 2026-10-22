@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-02 14:54:38+00:00
+ai_modified: 2026-10-22 21:00:43+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 03:38:12+00:00
-lastmod: 2026-10-02 14:54:38+00:00
+lastmod: 2026-10-22 21:00:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ The Map's existing commitments presuppose weak Revelation and nothing stronger. 
 
 The Map must deny strong Revelation, for three reasons that are independent of one another. The first is self-opacity. Lewis's corollary — that if we fail to notice structure, there is none to notice — is a consequence of the strong thesis, and the Map holds its negation: [self-opacity](/voids/self-opacity/) argues that consciousness cannot fully know itself, [phenomenal-quality-void](/voids/phenomenal-quality-void/) that the mechanism hides itself either way, and [introspection](/concepts/introspection/) that introspective report is unreliable about its own process. Strong Revelation and self-opacity cannot both be held, and the Map has already chosen. The second is the interface. Tenets 2 and 3 posit a selection power exercised at the quantum interface, and the positions register holds that this interface is "structurally selected to leave only indirect traces" ([P-Q9](/positions/quantum-interface/#p-q9)). If the full essence of a phenomenal state were revealed in having it, and no selection power is revealed, then the power is no part of the state's essence — Goff's epiphenomenalism pressure, applied to the Map's own mechanism. The escapes on offer are Goff's essence-versus-grounds distinction, which Lin argues rescues physicalism just as well, or Mørch's phenomenal-powers view, already the Map's closest competitor on the metaphysics of dispositions. Denying the strong thesis is cheaper than either. The third is the rival. Strong Revelation is the premise that carries Goff from anti-physicalism to Russellian monism. The Map argues that Russellian monism is unstable ([russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)); it cannot borrow the rival's premise while rejecting the rival's conclusion.
 
-The tier result follows. Weak Revelation is accepted by physicalists such as Damnjanovic and Díaz-León; Goff's direct argument from it is contested, as shown above, and its indirect pressure on the phenomenal-concepts strategy falls where the tenets already mark the dispute open, so it settles nothing. Strong Revelation would discriminate against physicalism — that is its whole appeal — but the Map cannot hold it. So the argument from revelation is not available as support for the Dualism tenet, which continues to rest on the explanatory gap and conceivability; any sentence of the form "experience reveals that the quality is non-physical" would over-reach. For Tenets 2 and 3, the thesis supplies a constraint rather than a result: the interface power is consistent with the Map's epistemology only because the Map holds that what experience reveals is partial, and that holding is a framework commitment, not an independent finding. Liu's explanation of the intuition of dualism cuts the same way: a dualist who grants that the intuition is explained by the intuitiveness of a thesis they themselves deny in its strong form cannot cite the intuition as evidence. The authors who did this work — Lewis, Stoljar, Papineau, Byrne and Hilbert, Damnjanovic, Díaz-León and Zhou on the physicalist side; Goff on the Russellian — all reject the Map's interactionist dualism, and are cited here as rivals who mapped a constraint the Map must respect.
+The tier result follows. Weak Revelation is accepted by physicalists such as Damnjanovic and Díaz-León; Goff's direct argument from it is contested, as shown above, and its indirect pressure on the phenomenal-concepts strategy falls where the tenets already mark the dispute open, so it settles nothing. Strong Revelation would discriminate against physicalism — that is its whole appeal — but the Map cannot hold it. So the argument from revelation is not available as support for the Dualism tenet, which continues to rest on the explanatory gap and [conceivability](/concepts/modal-epistemology/); any sentence of the form "experience reveals that the quality is non-physical" would over-reach. For Tenets 2 and 3, the thesis supplies a constraint rather than a result: the interface power is consistent with the Map's epistemology only because the Map holds that what experience reveals is partial, and that holding is a framework commitment, not an independent finding. Liu's explanation of the intuition of dualism cuts the same way: a dualist who grants that the intuition is explained by the intuitiveness of a thesis they themselves deny in its strong form cannot cite the intuition as evidence. The authors who did this work — Lewis, Stoljar, Papineau, Byrne and Hilbert, Damnjanovic, Díaz-León and Zhou on the physicalist side; Goff on the Russellian — all reject the Map's interactionist dualism, and are cited here as rivals who mapped a constraint the Map must respect.
 
 ## Further Reading
 

@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T20:29:28+00:00
+ai_modified: 2026-10-22T21:01:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:01 - expand-topic
+- **Status**: Success
+- **Topic**: Modal Epistemology Beyond Conceivability
+- **Output**: [[concepts/modal-epistemology]]
+- **Word count**: 2,963 by `analyze_length` (`soft_warning`; concepts soft 2,500 / hard 3,500, headroom 536). Split: prose 2,461, Further Reading 85, References 417 (21 entries, two of them self-citations).
+- **Based on research**: yes, [[research/modal-epistemology-beyond-conceivability-2026-10-22]]
+- **Cap**: concepts 362/370 by `tools.evolution.state.count_section_files` before creation; `check_slug.py` reported the slug free.
+- **Structure** (four-part concept format): a lede stating that the Map's zombie and Kripke-style arguments rest on modal rationalism, one contested position among several; a neutral definition (the SEP's rationalism/empiricism split and Dependence Question); the rationalist baseline (Chalmers 2002 undefeatability, Chalmers 2014 monism; ideal conceivability of zombies treated as a defeasible judgement); five rival families plus Papineau, each with its zombie verdict labelled as the Map's inference where no source makes it; a verdict table; What Survives (explanatory gap, the 2007 master-argument dilemma, symmetry); Relation to Site Perspective.
+- **Cost stated**: the Map's modal arguments inherit modal rationalism's contested standing; on every rival route zombie possibility becomes downstream of the disputed metaphysics; P-D1's shared premise is itself one modal epistemology's output. The essentialist routes' need for a grasp of phenomenal essence is recorded as an open debt against the Map's weak-Revelation stance, not a refutation. Tenet 5 is applied only to the Map's own reasoning.
+- **Quotes**: 32 quoted strings, each mechanically confirmed as a substring of a `[verbatim]` or `[verbatim, secondary]` string in the note; secondary ones are attributed "as quoted in" the SEP, Roca-Royes 2011 or Biggs 2017. No SEP "cognitive limitations" gloss; no Fischer dualism example; Kment 2021, not 2017; Crossref title for Vetter 2023.
+- **Author stances**: Williamson none given; Lowe's dualism not mentioned; Vetter "no Vetter text on zombies is cited here"; Papineau's "intuition of dualism" framed as a psychological diagnosis; Goff named as a Russellian panpsychist rival; Hill and Papineau named as Type-B; Allen limited to her abstract.
+- **Integration** (zero-word pipes, `ai_modified` bumped, `ai_system` unchanged):
+  - `concepts/primitive-identities-and-strong-necessities.md` L87: "epistemology of modality" piped. 3,336 → 3,336.
+  - `concepts/revelation-thesis.md` L80: "conceivability" piped. 3,461 → 3,461.
+  - `concepts/philosophical-zombies.md` L57: "evidence of possibility" piped. 3,497 → 3,497.
+  - `concepts/conceivability-possibility-inference.md` L120: "modal rationalism" piped. 2,719 → 2,719. Its L142–144 argument is untouched; the pending P2 owns that repair.
+  - `topics/modal-structure-of-phenomenal-properties` not edited (pending P2 owns L62).
+- **Not done**: no `counterfactual-void` Further Reading pointer (the note suggests one; outside this task's list); no cross-review task minted (the driver mints it).
 
 ## 20:29 - research-topic
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Chalmers's charge that Type-B physicalism needs primitive identiti
 created: 2026-10-03
 modified: 2026-10-07
 human_modified:
-ai_modified: 2026-10-07T23:14:31+00:00
+ai_modified: 2026-10-22T21:00:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,7 @@ Two disputes remain once parity is granted, and neither is settled.
 
 The first is whether the uniqueness can be explained without dualism. Against cognitive explanations of zombie conceivability, Hill and McLaughlin's among them, Chalmers objects that they explain only the conceivability ("There will always be a cognitive explanation of a modal intuition!"), while a real explanation "has to show us why a state-of-affairs should be conceivable while at the same time being impossible" (1999, §3.4). Chalmers's (2007) master argument against the phenomenal-concepts strategy turns this into a dilemma for every concept-based account; [[phenomenal-concepts-strategy]] assesses it.
 
-The second is the epistemology of modality. If metaphysical modality floats free of conceivability, Chalmers asks how conceivability could guide us to it: "Why should not there be just one metaphysically possible world, or 37?" (2010, §10). Papineau's half of the joint paper answers that "metaphysical modality has nothing to do with conceivability" and is "grounded in counterfactual thinking" (Goff & Papineau 2014). Chalmers himself grants that the type-B position "remains at least formally open" (1999, §3.5).
+The second is the [[modal-epistemology|epistemology of modality]]. If metaphysical modality floats free of conceivability, Chalmers asks how conceivability could guide us to it: "Why should not there be just one metaphysically possible world, or 37?" (2010, §10). Papineau's half of the joint paper answers that "metaphysical modality has nothing to do with conceivability" and is "grounded in counterfactual thinking" (Goff & Papineau 2014). Chalmers himself grants that the type-B position "remains at least formally open" (1999, §3.5).
 
 ## What the Cost Buys the Map
 

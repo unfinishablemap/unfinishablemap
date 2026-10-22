@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-10-10 05:30:56+00:00
+ai_modified: 2026-10-22 21:00:43+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-10 05:30:56+00:00
-lastmod: 2026-10-10 05:30:56+00:00
+lastmod: 2026-10-22 21:00:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ This is more targeted than general empiricist skepticism: it grants that the inf
 
 ## Modal Rationalism and Its Limits
 
-The conceivability-possibility inference embodies a form of *modal rationalism*—the view that reason can access modal truths (what is possible, necessary, or impossible) through a priori reflection.
+The conceivability-possibility inference embodies a form of *[modal rationalism](/concepts/modal-epistemology/)*—the view that reason can access modal truths (what is possible, necessary, or impossible) through a priori reflection.
 
 **The rationalist bet:** Our imaginative faculties track something real about modal space. When we coherently conceive P, this isn't arbitrary—it reflects that P is compatible with the fundamental structure of reality.
 

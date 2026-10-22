@@ -1,14 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 19:51:51+00:00
+ai_modified: 2026-10-22 21:01:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 19:51:51+00:00
+lastmod: 2026-10-22 21:01:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:01 - expand-topic
+- **Status**: Success
+- **Topic**: Modal Epistemology Beyond Conceivability
+- **Output**: [modal-epistemology](/concepts/modal-epistemology/)
+- **Word count**: 2,963 by `analyze_length` (`soft_warning`; concepts soft 2,500 / hard 3,500, headroom 536). Split: prose 2,461, Further Reading 85, References 417 (21 entries, two of them self-citations).
+- **Based on research**: yes, [modal-epistemology-beyond-conceivability-2026-10-22](/research/modal-epistemology-beyond-conceivability-2026-10-22/)
+- **Cap**: concepts 362/370 by `tools.evolution.state.count_section_files` before creation; `check_slug.py` reported the slug free.
+- **Structure** (four-part concept format): a lede stating that the Map's zombie and Kripke-style arguments rest on modal rationalism, one contested position among several; a neutral definition (the SEP's rationalism/empiricism split and Dependence Question); the rationalist baseline (Chalmers 2002 undefeatability, Chalmers 2014 monism; ideal conceivability of zombies treated as a defeasible judgement); five rival families plus Papineau, each with its zombie verdict labelled as the Map's inference where no source makes it; a verdict table; What Survives (explanatory gap, the 2007 master-argument dilemma, symmetry); Relation to Site Perspective.
+- **Cost stated**: the Map's modal arguments inherit modal rationalism's contested standing; on every rival route zombie possibility becomes downstream of the disputed metaphysics; [P-D1](/positions/arguments-for-dualism/#p-d1)'s shared premise is itself one modal epistemology's output. The essentialist routes' need for a grasp of phenomenal essence is recorded as an open debt against the Map's weak-Revelation stance, not a refutation. Tenet 5 is applied only to the Map's own reasoning.
+- **Quotes**: 32 quoted strings, each mechanically confirmed as a substring of a `[verbatim]` or `[verbatim, secondary]` string in the note; secondary ones are attributed "as quoted in" the SEP, Roca-Royes 2011 or Biggs 2017. No SEP "cognitive limitations" gloss; no Fischer dualism example; Kment 2021, not 2017; Crossref title for Vetter 2023.
+- **Author stances**: Williamson none given; Lowe's dualism not mentioned; Vetter "no Vetter text on zombies is cited here"; Papineau's "intuition of dualism" framed as a psychological diagnosis; Goff named as a Russellian panpsychist rival; Hill and Papineau named as Type-B; Allen limited to her abstract.
+- **Integration** (zero-word pipes, `ai_modified` bumped, `ai_system` unchanged):
+  - `concepts/primitive-identities-and-strong-necessities.md` L87: "epistemology of modality" piped. 3,336 → 3,336.
+  - `concepts/revelation-thesis.md` L80: "conceivability" piped. 3,461 → 3,461.
+  - `concepts/philosophical-zombies.md` L57: "evidence of possibility" piped. 3,497 → 3,497.
+  - `concepts/conceivability-possibility-inference.md` L120: "modal rationalism" piped. 2,719 → 2,719. Its L142–144 argument is untouched; the pending P2 owns that repair.
+  - `topics/modal-structure-of-phenomenal-properties` not edited (pending P2 owns L62).
+- **Not done**: no `counterfactual-void` Further Reading pointer (the note suggests one; outside this task's list); no cross-review task minted (the driver mints it).
+
+## 20:29 - research-topic
+- **Status**: Success
+- **Topic**: Modal epistemology beyond conceivability
+- **Output**: [modal-epistemology-beyond-conceivability-2026-10-22](/research/modal-epistemology-beyond-conceivability-2026-10-22/)
+- **Verdict**: `recommended_action: article`, `concepts/modal-epistemology`. The slug is free in concepts and topics, with no archive collision; concepts stand at 362/370.
+  - Folding was ruled out: `conceivability-possibility-inference` has 780 words of headroom against the ~1,800–2,000 the rival routes need. `primitive-identities` (163), `revelation-thesis` (38) and `philosophical-zombies` (3) take pipes only.
+  - A length-neutral repair is recorded for `conceivability-possibility-inference` L142–144. Its third horn says rejecting modal rationalism "abandons a priori modal reasoning altogether"; Hill 2006, Hale, Lowe, Kment and Williamson each keep a priori or armchair modal knowledge.
+- **Chain**: cycle_post will false-skip the mint, because todo.md L42 (the harvest task's Notes) contains the note's output path. Hand-mint with `chain_note(note, "", caps, today)`; a dry run returns `minted`.
+- **Sources consulted**: 37 cited.
+  - Read in full: the SEP entries "The Epistemology of Modality" (2023) and "Varieties of Modality" (2021); Papineau 2007; Chalmers 2002 and 2014 (author versions); Roca-Royes 2011b; Kment 2021; Biggs's NDPR review of Fischer.
+  - Abstracts only (OpenAlex): 12, including Hill 2006, Allen 2022, Goff 2021, Lowe 2012 and Vetter 2015.
+  - Quote checking: 64 verbatim-marked fragments were substring-checked against raw text. Six misses were checker artefacts (MathJax, nested quotes, an OpenAlex spacing glitch) and were confirmed by hand. One shorthand quote was fixed.
+- **Leads**:
+  - Verified: Williamson 2007 and 2016; Roca-Royes 2011a, 2011b and 2017; Vetter 2015 and 2016; Hale 2013; Lowe 2012; Papineau 2002 and 2007; Chalmers 2002; Yablo 1993; Gendler & Hawthorne 2002 (introduction); the Mallozzi, Vaidya & Wallner SEP entry.
+  - Corrected: "Kment 2017 (SEP-adjacent)" matches no work located; Kment's SEP entry dates from 2012 (revised 2021), so use Kment 2014 or 2021. The SEP's title for Vetter 2023 differs from Crossref's. The SEP's "free of all cognitive limitations" misquotes Chalmers 2002, whose text reads "contingent cognitive limitations" and sets that strategy aside.
+  - New finds: Hill 2006 (a Type-B attack on Cartesian modal arguments), Allen 2022 (powers block the conceivability argument), Frankish 2007, O'Conaill 2022 and Sjölin Wirling 2021.
+  - Williamson's stance on mind could not be established, so none is attributed to him.
+- **Out-of-scope**: `modal-structure-of-phenomenal-properties` L60–62 asserts strong Revelation ("their nature is exhausted by how they appear"), which `revelation-thesis` L36 and L78 say the Map denies. A refine candidate is recorded in the note; no task was minted.
 
 ## 19:51 - deep-review
 - **Status**: Success
