@@ -2,9 +2,9 @@
 title: "The Steelman for Value-Blind Selection"
 description: "Built through human-AI refinement: the strongest external scientific case that selection runs on mechanism, not felt value—reinforcement learning, unconscious liking, affordance competition, valence-as-inference, illusionism—and the Map's calibrated reasons for declining it."
 created: 2026-06-18
-modified: 2026-09-05
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-09-05T02:56:53+00:00
+ai_modified: 2026-10-22T10:49:53+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -64,7 +64,7 @@ This exhibit must be handled with the same care the parent fork already applies.
 
 ## Selection Without a Felt-Value Currency
 
-The Map's value-sensitive horn rests on a specific claim: selection among options needs a *currency*, and felt valence is the natural candidate. Paul Cisek's affordance-competition hypothesis is the cleanest contemporary demonstration that flexible, goal-directed selection-among-options can be a mechanistic competition with no felt currency at all.
+The Map's value-sensitive horn rests on a specific claim: selection among options needs a *currency*, and [[immediate-emotions-and-the-affect-heuristic|felt valence is the natural candidate]]. Paul Cisek's affordance-competition hypothesis is the cleanest contemporary demonstration that flexible, goal-directed selection-among-options can be a mechanistic competition with no felt currency at all.
 
 Cisek (2007) models behaviour as the simultaneous *specification* of possible actions and *selection* among them, the selection implemented by mutual inhibition among neural populations biased by "decision variables." The bias inputs—expected payoff, cost, urgency—are realised as neural activity: a cybernetic competition resolved by control signals. There is no step at which a felt value is consulted. The currency exists, but it is a *non-valence* currency—biasing decision variables, not experienced goodness.
 

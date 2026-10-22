@@ -1,14 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 09:44:31+00:00
+ai_modified: 2026-10-22 10:50:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 09:44:31+00:00
+lastmod: 2026-10-22 10:50:13+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:50 - expand-topic
+- **Status**: Success
+- **Topic**: Immediate Emotions and the Affect Heuristic: Felt Affect as an Input to Choice
+- **Output**: [immediate-emotions-and-the-affect-heuristic](/topics/immediate-emotions-and-the-affect-heuristic/) (topics 357 → 358/370)
+- **Word count**: 3,283 by `analyze_length` (soft_warning band): prose 2,406, Further Reading 91, References 786 (28 entries: 26 external, 2 self-citations).
+- **Based on research**: yes, [immediate-emotions-and-the-affect-heuristic-in-choice-2026-10-22](/research/immediate-emotions-and-the-affect-heuristic-in-choice-2026-10-22/)
+- **Dong et al. 2026**: reported as a partial hit on the [P-VS1](/positions/value-in-selection/#p-vs1) disconfirmation condition stated in [miswanting](/concepts/miswanting/#misattribution), confined to risk preference and counted modestly against [P-VS1](/positions/value-in-selection/#p-vs1). It is partial because bodily state was not held fixed and the choosers' felt state was inferred from a separate check condition. The Ferrer & Ellis 2021 exit is declined symmetrically: if incidental induction is a poor proxy, it is equally poor for the positives (Garg et al. 2018). No band change.
+- **Guards applied**: fit-not-evidence for measured integral affect (Pham "proxies for values"; Grimani value-tracking, with item timing verified at PMC11522079 as "After each decision"; Davis et al. countermodel); the affect heuristic is consciousness-neutral; Loewenstein's "epiphenomenal" treated as modelling scope; Rottenstreich & Hsee paired with Many Labs 2; Lerner & Keltner paired with Lu et al. 2026; Slovic cited as one text (EJOR 2007, a reprint of the 2002 chapter); Finucane cited without study numbers; Sokol-Hessner's unmeasured feeling flagged; Jäger's current affect flagged as global mood. Three absence claims carry their search scope inline.
+- **Quotes**: all 43 quoted strings were grep-matched against the research note's verbatim strings, plus the Grimani raw text. Lerner et al. 2015 and Loewenstein & Lerner 2003 are not cited.
+- **Integration**: zero-word piped links at [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) L67 ("felt valence is the natural candidate") and [miswanting](/concepts/miswanting/) L79 ("induced incidental affect"); the argument of miswanting L79 is otherwise untouched. Host word counts are unchanged (2,997; 3,188).
+
+## 10:12 - research-topic
+- **Status**: Success
+- **Topic**: Immediate emotions and the affect heuristic in choice
+- **Output**: [immediate-emotions-and-the-affect-heuristic-in-choice-2026-10-22](/research/immediate-emotions-and-the-affect-heuristic-in-choice-2026-10-22/)
+- **Sources consulted**: 40 cited.
+  - Nine read in full text and grep-verified: Loewenstein et al. 2001 (OCR copy); Slovic et al. 2007; Pfister & Böhm 2008; Sokol-Hessner et al. 2009; Davis et al. 2009 (re-grepped); Many Labs 2; Garg et al. 2018; Jäger et al. 2020; the Schlösser 2009 dissertation.
+  - The rest are Crossref/OpenAlex abstracts, plus three reused from today's affective-forecasting-gap fork (Schlösser 2013, Young 2019, Dorison 2019).
+  - Not reached: Lerner et al. 2015 and Loewenstein & Lerner 2003 (abstract or opening text only).
+- **Finding**:
+  - Felt affect at choice is measured and predicts choice, but it is not manipulated, and it tracks value.
+  - Incidental affect moves valuation (sadness → choice price, replicated, d ≈ 0.43) but not risk preference at scale (Dong et al. 2026, n = 7,000, preregistered, null). This is a partial hit, confined to the risk domain, on miswanting's own stated [P-VS1](/positions/value-in-selection/#p-vs1) falsifier.
+  - Rottenstreich & Hsee 2001 Study 1 reversed in Many Labs 2.
+  - Lerner & Keltner 2001 replicated for risk judgement, not risk preference (Lu et al. 2026).
+  - Integral and incidental affect are not interchangeable (Ferrer & Ellis 2021).
+  - The affect heuristic's "affect" is "with or without consciousness". The literature fits [P-VS1](/positions/value-in-selection/#p-vs1) without evidencing it. No band change.
+- **Corrections to leads**:
+  - Slovic 2002/2007 is one text (EJOR reprint of the *Heuristics and Biases* chapter).
+  - The time-pressure study is Finucane's Study 1, though Slovic calls it the "second study".
+  - The integral/incidental definitions are verified in Peters 2006 and Pham 2007, not Lerner 2015 (not reached).
+- **Verdict**: article, `topics/immediate-emotions-and-the-affect-heuristic` (topics 357/370). A fold was infeasible: affective-forecasting-gap is at 3,789 (hard_warning), miswanting at 3,188, and value-in-selection has 2 words of headroom.
 
 ## 09:44 - deep-review
 - **Status**: Success

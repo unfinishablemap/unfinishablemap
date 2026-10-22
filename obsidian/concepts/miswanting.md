@@ -4,7 +4,7 @@ description: "Gilbert and Wilson's miswanting on the Map's utility rows: few des
 created: 2026-10-12
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T06:11:18+00:00
+ai_modified: 2026-10-22T10:49:53+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -76,7 +76,7 @@ Gilbert and Wilson give wanting three ingredients: "the particular details that 
 
 Neither ingredient dominates: "feelings sometimes serve us better than theories, and theories sometimes serve us better than feelings" (p. 184). Their illustration is a grocery study in which shoppers without a list bought more unplanned items when hungry than when fed, while shoppers holding a list were unaffected (Gilbert, Gill & Wilson 2002).
 
-The Map reads misattribution as the risk specific to a felt currency: a selector that consults present anticipatory affect inherits whatever incidental feeling is present when it consults. The rival has an analogue at the behavioural grain, since hunger also raises incentive salience (Berridge 2023) and shifts learned value, so the grocery result does not isolate feeling either. Misattribution is what P-VS1 predicts, so it fits without evidencing it; choice left unmoved by induced incidental affect, with learned value and bodily state held fixed, would count against P-VS1. Forecasts bent by a present bodily state are the wider territory of the [[cross-state-void]].
+The Map reads misattribution as the risk specific to a felt currency: a selector that consults present anticipatory affect inherits whatever incidental feeling is present when it consults. The rival has an analogue at the behavioural grain, since hunger also raises incentive salience (Berridge 2023) and shifts learned value, so the grocery result does not isolate feeling either. Misattribution is what P-VS1 predicts, so it fits without evidencing it; choice left unmoved by [[immediate-emotions-and-the-affect-heuristic|induced incidental affect]], with learned value and bodily state held fixed, would count against P-VS1. Forecasts bent by a present bodily state are the wider territory of the [[cross-state-void]].
 
 ## Relation to Site Perspective
 

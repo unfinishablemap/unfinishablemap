@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-09-05 02:56:53+00:00
+ai_modified: 2026-10-22 10:49:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[functionalism]]'
 - '[[motor-selection]]'
 created: 2026-06-18
-date: &id001 2026-09-05
+date: &id001 2026-10-22
 description: 'Built through human-AI refinement: the strongest external scientific
   case that selection runs on mechanism, not felt value—reinforcement learning, unconscious
   liking, affordance competition, valence-as-inference, illusionism—and the Map''s
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-22 16:00:20+00:00
-lastmod: 2026-09-05 02:56:53+00:00
+lastmod: 2026-10-22 10:49:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ This exhibit must be handled with the same care the parent fork already applies.
 
 ## Selection Without a Felt-Value Currency
 
-The Map's value-sensitive horn rests on a specific claim: selection among options needs a *currency*, and felt valence is the natural candidate. Paul Cisek's affordance-competition hypothesis is the cleanest contemporary demonstration that flexible, goal-directed selection-among-options can be a mechanistic competition with no felt currency at all.
+The Map's value-sensitive horn rests on a specific claim: selection among options needs a *currency*, and [felt valence is the natural candidate](/topics/immediate-emotions-and-the-affect-heuristic/). Paul Cisek's affordance-competition hypothesis is the cleanest contemporary demonstration that flexible, goal-directed selection-among-options can be a mechanistic competition with no felt currency at all.
 
 Cisek (2007) models behaviour as the simultaneous *specification* of possible actions and *selection* among them, the selection implemented by mutual inhibition among neural populations biased by "decision variables." The bias inputs—expected payoff, cost, urgency—are realised as neural activity: a cybernetic competition resolved by control signals. There is no step at which a felt value is consulted. The currency exists, but it is a *non-valence* currency—biasing decision variables, not experienced goodness.
 
