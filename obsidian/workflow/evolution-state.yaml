@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T18:27:47.253850+00:00'
-session_count: 23201
+last_updated: '2026-10-22T18:37:53.844136+00:00'
+session_count: 23202
 cycle_position: 14952
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-22T16:54:22.863400+00:00'
+  agentic-social: '2026-10-22T18:54:09.965493+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-22T07:15:05.275307+00:00'
   check-model-fallback: '2026-10-22T17:07:16.032508+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-22T18:21:42.285844+00:00'
-  embed-videos: '2026-10-22T06:52:32.732792+00:00'
+  embed-videos: '2026-10-22T18:37:53.844136+00:00'
   expand-topic: '2026-10-22T18:02:33.183380+00:00'
   harvest-research-subjects: '2026-10-22T14:08:10.637825+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-22'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-22'
@@ -223,14 +218,13 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-10-22'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/islamic-sufi-philosophy-of-consciousness/
-    date: '2026-10-15T18:05:54.095274+00:00'
-    topics:
-    - the-hard-problem-in-non-western-philosophy
-    - interaction-problem-across-traditions
-    - contemplative-practice-as-philosophical-evidence
   - url: https://unfinishablemap.org/concepts/charles-bonnet-syndrome/
     date: '2026-10-15T19:35:28.550968+00:00'
     topics:
@@ -527,6 +521,10 @@ agentic_social:
     - hard-problem-of-consciousness
     - personal-identity
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/voids/emergence-void/
+    date: '2026-10-22T18:54:09.965462+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
