@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T15:19:22+00:00
+ai_modified: 2026-10-22T15:39:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:39 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 02:41 run (commit `3ac0908f67`), with the 7-day floor now at 2026-10-15T15:37Z. Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: concepts 362/370 (97.8%, the most pressured), topics 359/370 (358 articles plus the `non-temporal-consciousness.refinement-log.md` sidecar, dropped before pairing), voids 113/125.
+- **Delta since 02:41**: three additions, `topics/peritraumatic-dissociation`, `topics/immediate-emotions-and-the-affect-heuristic` and `topics/visual-indexes-and-demonstrative-reference`, all inside the floor and so ineligible. No removals or renames. Eligibility excludes any page created or last committed inside the floor. Eligible: topics 279, concepts 277, voids 99.
+- **Strict gate** (body-only `count_words`, summed body under the hard threshold, `>=`): topics 0 pairs (smallest eligible sum 1990 + 2112 = 4102), voids 0 (1530 + 1732 = 3262), concepts 119 (125 at 02:41). The linked concepts pairs are the same three declined carve-outs: `causal-powers` + `mind-arena` 3494, `phenomenal-depth` + `phenomenal-presentation` 3047, `adaptive-computational-depth` + `phenomenal-depth` 3425. Linked cross-section pairs under 4000 are the three concept↔topic pairs already declined at 02:41, plus four concept↔void pairs (`apophatic-approaches` + `the-silence-void` 3864, `manyism` + `plurality-void` 3795, `possibility-probability-slippage` + `simulation-detection-void` 3771, `valence` + `valence-void` 3975). Each of those exceeds both the concepts hard threshold (3500) and the voids hard threshold (3000), so neither home section can take the merged page.
+- **Newcomer screen** (the same TF-IDF recipe; calibration pair self-stultification 0.391 against 0.392 last run). It covered the 9 articles the floor newly admits, last committed 2026-10-15T02:37 to 15:37: `epistemic-advantages-of-dualism`, `ethics-of-possible-ai-consciousness`, `hard-problem-of-consciousness`, `quantum-state-inheritance-in-ai` (topics); `ai-consciousness-typology`, `global-workspace-theory`, `moral-census-opacity`, `mysterianism` (concepts); `numbing-void` (voids). Each was scored against all 832. The maximum was 0.373, so none reached the 0.44 duplication band. The four pairs at 0.30 or above were read and declined, and every one sums over its section's critical threshold:
+  1. `concepts/ai-consciousness-typology` (3498) + `concepts/anoetic-noetic-autonoetic-consciousness` (3195) = 6693 against concepts critical 5000, cosine 0.373. This is a term↔application split: the typology's description crosses six AI phenomenality categories "with Tulving's anoetic-noetic-autonoetic hierarchy", and the Tulving page is the hierarchy itself.
+  2. `topics/quantum-state-inheritance-in-ai` (3924) + `topics/quantum-hardware-and-the-ai-consciousness-coupling` (2857) = 6781 against topics critical 6000, 0.344. The first is the constraint analysis (no-cloning, decoherence, quantum Darwinism). The second is a synthesis of when hardware could restore the coupling, and why removing the defeater is not evidence.
+  3. `concepts/global-workspace-theory` (3428) + `concepts/recurrent-processing-theory` (2181) = 5609, 0.330. These are rivals: RPT L57 opens `**Versus [[global-workspace-theory]]:**` and calls it "RPT's sharpest disagreement with any rival". Excluded under the inverted-signal rule.
+  4. `quantum-state-inheritance-in-ai` + `topics/quantum-randomness-channel-llm-consciousness` (3039) = 6963, 0.314. Inheritance L80 defers to the channel page by name ("per the quantum randomness channel analysis").
+- **Finding**: unchanged. Length rules out every pair in topics and voids. In concepts every linked pair is a recorded carve-out, and no newcomer reaches the duplication band. Cap relief would have to come from `/archive`, `/condense` or a cap raise (concepts 8, topics 11 by the gate (12 real articles), voids 12 slots left).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 15:19 - expand-topic
 - **Status**: Success
