@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-10-06 23:21:26+00:00
+ai_modified: 2026-10-22 21:56:42+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -18,8 +18,10 @@ concepts:
 - '[[conceivability-possibility-inference]]'
 - '[[phenomenal-acquaintance]]'
 - '[[zombie-master-argument]]'
+- '[[revelation-thesis]]'
+- '[[modal-epistemology]]'
 created: 2026-02-10
-date: &id001 2026-10-02
+date: &id001 2026-10-22
 description: Possibility, necessity, and conceivability reveal that phenomenal properties
   behave unlike any physical property—the modal shape of the Map's adopted dualism,
   not independent proof of it.
@@ -27,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 15:53:35+00:00
-lastmod: 2026-10-06 23:21:26+00:00
+lastmod: 2026-10-22 21:56:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,9 +63,9 @@ Saul Kripke's argument in *Naming and Necessity* (1972) identified a critical as
 
 "Water = H₂O" *seems* contingent before you know chemistry — you can imagine a world where the clear, drinkable liquid in rivers isn't H₂O. But this appearance of contingency is explained away by the discovery that "water" rigidly designates H₂O. Your imagined scenario wasn't really about water at all — it was about some other liquid that merely resembles water superficially.
 
-"Pain = C-fibre activation" also seems contingent. But here the explaining-away strategy fails. With water, the appearance of contingency dissolves because we were ignorant of water's hidden nature. Pain has no hidden nature. We know pain through direct [acquaintance](/concepts/phenomenal-acquaintance/) with its phenomenal character. When we conceive of pain without C-fibre activation, we are not confusing pain with something that merely resembles it — we are conceiving of the very thing we know most intimately occurring without its supposed physical identity.
+"Pain = C-fibre activation" also seems contingent. But here the explaining-away strategy fails. With water, the appearance of contingency dissolves because we picked water out by surface features it has only contingently. Pain is not picked out that way. We know pain through direct [acquaintance](/concepts/phenomenal-acquaintance/) with its phenomenal character, and that character is no accidental feature of pain: to seem to be in pain is to be in pain. When we conceive of pain without C-fibre activation, we are not confusing pain with something that merely resembles it — we are conceiving of pain itself occurring without its supposed physical identity.
 
-This asymmetry exposes something about phenomenal properties that sets them apart from every physical natural kind. Physical kinds have hidden essences discovered empirically. Phenomenal properties are fully present in experience — their nature is exhausted by how they appear. The painfulness of pain is not a label for some underlying process we might later discover to be identical with C-fibre activation; it is the thing itself, given to us in its entirety through [acquaintance](/concepts/phenomenal-acquaintance/). There is nothing about pain waiting to be discovered by neuroscience that would make its apparent separability from C-fibres dissolve, because there is no gap between how pain appears and what pain is.
+This asymmetry exposes something about phenomenal properties that sets them apart from every physical natural kind. Physical kinds are picked out by appearances only contingently tied to essences discovered empirically; pain is picked out by an appearance that belongs to its nature, a point physicalists who rely on [phenomenal concepts](/concepts/phenomenal-concepts-strategy/) grant ([kripke-a-posteriori-necessity-argument](/concepts/kripke-a-posteriori-necessity-argument/)). The asymmetry needs only that much, not the strong [Revelation](/concepts/revelation-thesis/) the Map denies, on which pain's nature is exhausted by how it appears: acquaintance gives a grasp of how pain presents, not of pain's complete essence. The weaker claim still blocks the water-style explaining-away, since the felt character was never a contingent reference-fixer to which the apparent contingency could be reassigned, but it does not secure that nothing in pain's unrevealed nature binds pain to C-fibres. Essentialist accounts of modal knowledge need exactly that negative knowledge to turn apparent separability into possibility; whether partial grasp supplies it is a debt the Map owes, neither won nor lost ([modal-epistemology](/concepts/modal-epistemology/)).
 
 ## The Convergence Pattern
 
@@ -84,11 +86,11 @@ The physicalist must explain why phenomenal properties exhibit this systematic m
 
 The [standard physicalist response](/concepts/type-a-type-b-and-type-c-physicalism/) to modal arguments is to deny that conceivability entails possibility. Water without H₂O is conceivable (before learning chemistry) yet impossible. Perhaps zombies are similarly conceivable yet impossible.
 
-This analogy is weaker than it appears. Pre-chemical conceivability of "water without H₂O" reflected genuine ignorance: we didn't know what water was made of. When we learned, the conceivability vanished. But the conceivability of zombies doesn't reflect ignorance — it reflects understanding. As neuroscience catalogues the structural and dynamical properties of the brain in increasing detail, nothing in these descriptions logically entails phenomenal properties. Each new discovery specifies more physical facts while leaving the question of why there is experience entirely open. The Type-B physicalist, who holds the identity between physical and phenomenal properties a posteriori and the gap permanent — located in the distinctness of phenomenal from physical concepts rather than in anything still to be learned — grants the zombie's conceivability and denies only the step to possibility, with water = H₂O as the model. But the cases are disanalogous: with water, learning the hidden nature dissolved the conceivability, whereas zombie conceivability reflects acquaintance rather than ignorance, and the identity Type-B posits brings no explanatory payoff of the kind molecular theory brought to water — it has the epistemic status of a fundamental law under the ontological title of an identity, [a law under another name](/concepts/primitive-identities-and-strong-necessities/). The further observation that fuller knowledge of neural correlates makes the absence of entailment more explicit, not less, reaches a different opponent: the Type-C physicalist who expects the gap to close with progress.
+This analogy is weaker than it appears. Pre-chemical conceivability of "water without H₂O" reflected genuine ignorance: we didn't know what water was made of. When we learned, the conceivability vanished. But the conceivability of zombies has not receded as physical understanding has grown. As neuroscience catalogues the structural and dynamical properties of the brain in increasing detail, nothing in these descriptions logically entails phenomenal properties. Each new discovery specifies more physical facts while leaving the question of why there is experience entirely open. The Type-B physicalist, who holds the identity between physical and phenomenal properties a posteriori and the gap permanent — located in the distinctness of phenomenal from physical concepts rather than in anything still to be learned — grants the zombie's conceivability and denies only the step to possibility, with water = H₂O as the model. But the cases are disanalogous: with water, learning the hidden nature dissolved the conceivability, whereas zombie conceivability rests on acquaintance rather than on a contingent reference-fixer, and the identity Type-B posits brings no explanatory payoff of the kind molecular theory brought to water — it has the epistemic status of a fundamental law under the ontological title of an identity, [a law under another name](/concepts/primitive-identities-and-strong-necessities/). The further observation that fuller knowledge of neural correlates makes the absence of entailment more explicit, not less, reaches a different opponent: the Type-C physicalist who expects the gap to close with progress.
 
-Chalmers (2002) formalizes the relevant standard with the [conceivability-possibility inference](/concepts/conceivability-possibility-inference/): a scenario is *ideally positively conceivable* if it can be coherently imagined in full detail, not merely if we fail to see a contradiction. Zombies pass this test. We don't merely fail to derive consciousness from physics — we positively grasp a complete physical scenario lacking consciousness, with no hidden incoherence emerging as we fill in detail.
+Chalmers (2002) formalizes the relevant standard with the [conceivability-possibility inference](/concepts/conceivability-possibility-inference/): a scenario is *ideally positively conceivable* if it can be coherently imagined in full detail, not merely if we fail to see a contradiction. The Map judges, defeasibly, that zombies pass this test. We don't merely fail to derive consciousness from physics — we positively grasp a complete physical scenario lacking consciousness, and no hidden incoherence has yet emerged as we fill in detail.
 
-For physical identities, increased understanding collapses apparent conceivability. For phenomenal properties, increased understanding entrenches it. This directional contrast between physical and phenomenal cases gives strong reason to trust that phenomenal conceivability tracks genuine possibility.
+For physical identities, increased understanding collapses apparent conceivability. For phenomenal properties, increased understanding entrenches it. If modal rationalism is right, this directional contrast gives strong reason to trust that phenomenal conceivability tracks genuine possibility. The Map's modal arguments inherit the standing of modal rationalism, and that standing is contested ([rival modal epistemologies](/concepts/modal-epistemology/#rival-routes)); the essentialist rivals add the Revelation debt noted above.
 
 ## The Phenomenal Concepts Response
 
@@ -110,7 +112,7 @@ This matters modally because it introduces indexical modal facts. The question "
 
 The modal structure of phenomenal properties articulates, rather than independently establishes, the Map's [foundational commitments](/tenets/).
 
-**[Dualism](/tenets/#dualism)**: The systematic modal independence of phenomenal from physical properties is the formal backbone of the Map's dualism. Once irreducibility is taken as the Map's framing (argued for elsewhere, not by appeal to the modal structure that articulates it — a circularity the [epistemology of convergence arguments](/topics/epistemology-of-convergence-arguments/) is explicit about avoiding), this independence is what irreducibility *looks like* across possibility and necessity: phenomenal properties detached, varied, and withheld from their physical correlates not through ignorance but through understanding. The convergence of four modal arguments, each targeting a different dimension of the phenomenal-physical relationship, makes that articulation cumulative rather than resting on any single intuition.
+**[Dualism](/tenets/#dualism)**: The systematic modal independence of phenomenal from physical properties is the formal backbone of the Map's dualism. Once irreducibility is taken as the Map's framing (argued for elsewhere, not by appeal to the modal structure that articulates it — a circularity the [epistemology of convergence arguments](/topics/epistemology-of-convergence-arguments/) is explicit about avoiding), this independence is what irreducibility *looks like* across possibility and necessity: phenomenal properties detached, varied, and withheld from their physical correlates in conceiving that growing physical knowledge has not undone. The convergence of four modal arguments, each targeting a different dimension of the phenomenal-physical relationship, makes that articulation cumulative rather than resting on any single intuition.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The modal profile says nothing about where, or whether, consciousness acts on the physical; modal independence fits epiphenomenalism as well as interaction. Locating any interface at quantum indeterminacies, where physics leaves outcomes open, is a commitment the Map motivates on other grounds, and the modal arguments neither narrow that search nor count against it.
 
@@ -118,7 +120,7 @@ The modal structure of phenomenal properties articulates, rather than independen
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Tenet 4 does no work for modal arguments—determinate phenomenal facts are available branch-relatively, so the profile above survives under many-worlds. The link runs through the [vertiginous question](/topics/vertiginous-question/) instead, a ground drawn from the Map's posited subject rather than from the haecceity of qualia.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalism's parsimony is purchased by ignoring modal evidence. The systematic modal independence of phenomenal properties is not a puzzle to be waved away — it is data. Preferring the "simpler" theory that consciousness reduces to physics requires dismissing the convergent testimony of conceivability, necessity, and epistemic access. The Map's position is that this data should be taken at face value, even at the cost of ontological complexity.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The tenet governs how the Map weighs this evidence. Physicalism's fewer kinds give the Map no reason to discount the systematic modal independence of phenomenal properties, so the Map treats it as data, even at the cost of ontological complexity. The tenet does not answer the replies that deny the step from conceivability to possibility, Type-B's included: they dispute whether conceiving gives access to possibility, a question of access rather than simplicity, which the tenet leaves open.
 
 ## Further Reading
 

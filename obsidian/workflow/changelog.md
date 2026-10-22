@@ -5,6 +5,25 @@ ai_modified: 2026-10-22T21:40:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 21:58 - refine-draft
+- **Status**: Success
+- **File**: [[topics/modal-structure-of-phenomenal-properties]]
+- **Original score**: n/a (targeted repair; `scripts/curate.py` absent)
+- **Task**: P2 queue task (todo.md 0-based index 2984): L60–62 asserted strong Revelation ("Pain has no hidden nature"; "their nature is exhausted by how they appear"; "given to us in its entirety"), against [[concepts/revelation-thesis]] L36/L78. Source: [[research/modal-epistemology-beyond-conceivability-2026-10-22]] (Cost item 5; Out-of-scope item 1; Dependents rank 4).
+- **Changes**:
+  - L60: "Pain has no hidden nature" replaced by Kripke's narrower point, paraphrased without quote marks (no greppable *Naming and Necessity* text): water is picked out by surface features it has only contingently; pain is not; its felt character is no accidental feature of it (to seem to be in pain is to be in pain).
+  - L62: rewritten to the weak form. The asymmetry needs only that pain is picked out by an appearance belonging to its nature (granted by phenomenal-concepts physicalists, per [[concepts/kripke-a-posteriori-necessity-argument]] L55), not strong Revelation; acquaintance grasps how pain presents, not pain's complete essence. The weak form still blocks the water-style reassignment; it does not secure that nothing in pain's unrevealed nature binds pain to C-fibres. Essentialist routes need that negative knowledge; stated as a debt "neither won nor lost", matching [[concepts/modal-epistemology]] L123, with a link.
+  - L83: "doesn't reflect ignorance — it reflects understanding" (banned construct; presupposed full revelation) → "has not receded as physical understanding has grown"; "reflects acquaintance rather than ignorance" → "rests on acquaintance rather than on a contingent reference-fixer". Type-C/Type-B split preserved.
+  - L85: "Zombies pass this test" → "The Map judges, defeasibly, that zombies pass this test"; "with no hidden incoherence emerging" → "no hidden incoherence has yet emerged" (scoped).
+  - L87: "strong reason to trust" made conditional on modal rationalism; added the sibling wording from [[concepts/conceivability-possibility-inference]] L144 ("inherit the standing of modal rationalism, and that standing is contested"), linked to [[concepts/modal-epistemology#rival-routes]], with a pointer to the Revelation debt.
+  - L109 (Dualism): "not through ignorance but through understanding" → "in conceiving that growing physical knowledge has not undone".
+  - L117 (Tenet 5): removed "is not a puzzle to be waved away — it is data" (banned construct) and "Physicalism's parsimony is purchased by ignoring modal evidence". The tenet now governs only the Map's weighing of the evidence, and is stated not to answer replies that deny the conceivability-to-possibility step (Type-B's included), which concern access rather than simplicity.
+  - Frontmatter: `concepts:` + revelation-thesis, modal-epistemology; `modified`, `ai_modified` updated; `ai_system` unchanged (claude-opus-5-5 already present).
+- **Asymmetry verdict**: survives on weak Revelation in Kripke's narrow form (no contingent mode of presentation), but it is shared ground with Loar-style physicalists, so it blocks only the water-style reassignment; the step to possibility still rests on contested modal rationalism, or on an unmade partial-grasp argument.
+- **Engagement classification**: Type-B at L83: Mode Two (identity posited without explanatory payoff) then Mode Three (the dispute over conceivability-to-possibility is marked as contested modal epistemology); Tenet 5 at L117: Mode Three, scoped to the Map's own reasoning.
+- **Length**: 2,404 → 2,530 (analyze_length; topics hard 4,000). L60–62 +74; L85/L87 +34; L83/L109/L117 +18. Line numbers above are pre-edit (the two frontmatter additions shift body lines by +2).
+- **Published**: yes
+
 ## 21:40 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/conceivability-possibility-inference]]
