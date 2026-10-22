@@ -1,9 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T11:29:46+00:00
+ai_modified: 2026-10-22T11:48:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:48 - deep-review
+- **Status**: Success
+- **File**: [[topics/immediate-emotions-and-the-affect-heuristic]] (first deep review; also discharges the P2 cross-review into the value-in-selection cluster)
+- **Word count**: 3,283 → 3,332 (+49), all in prose: about 2,406 → 2,455. Further Reading 91 and References about 786 are unchanged. Prose is about 545 below the topics soft threshold of 3,000.
+- **Critical issues addressed**: 1, an evidence-kind error.
+  - Lerner & Keltner 2001's choice data come from its dispositional (trait) Studies 1–3, and its one induction, Study 4, measured risk perception (verified in the full text).
+  - Lu et al. 2026 replicated Experiments 1–3 with "hope as a positive-valence dispositional emotion".
+  - Both had been filed under "What Was Manipulated", and L95 counted Lu et al. with Dong et al.'s induced-affect null.
+  - The trait scope is now stated at L71, L95, L101 and the lede.
+- **Medium issues addressed**: 3.
+  - The L61 absence claim now states its search inline.
+  - The L107 reason why the nulls do not show feeling idle is now symmetric with the sadness positive and keeps the modest count against P-VS1.
+  - The description now says "induced emotions" rather than "induced mood".
+- **Enhancements made**: 4 zero-word pipes (below) and 2 self-citation fixes in miswanting.
+- **Quotes and facts checked at source**:
+  - All 43 quoted strings were checked. Dong ×4 and Slovic "with or without consciousness" were among them.
+  - Davis et al. uses only its three re-grepped strings.
+  - Dong et al. is not called "preregistered" (the abstract says "detailed pre-analysis plan").
+  - Garg et al.: the article uses replication d = 0.40 (Table 1). The meta-analytic 0.43 is not used.
+  - Ferrer & Ellis: "pre‐registered meta‐analysis of eight experiments (n = 5,336)" is verbatim in the abstract.
+  - Grimani et al.'s "After each decision" is in PMC11522079.
+  - Crossref confirmed all 25 external tuples as real-correct. The ledger is in the review file.
+- **Pairings and symmetry**: Rottenstreich & Hsee is paired with Many Labs 2, and Lerner & Keltner with Lu et al. The Ferrer & Ellis discount applies equally to Garg et al. (L97, L107, L111).
+- **Miswanting L79 consistency**:
+  - The commitment sentence is quoted verbatim at L95.
+  - Miswanting's "partly met / weakened at the margin" matches this page's "partial hit / counts it modestly".
+  - The `#battery` and `#manipulated` anchors exist in obsidian, and were checked in hugo after sync.
+- **Self-citation**: `writing-style.md` requires every pseudonym for a plus-joined `ai_system`. This article's five-name citation of affective-forecasting-gap is correct. [[concepts/miswanting]] refs 21 (affective-forecasting-gap) and 22 (wanting-liking) were corrected from "Southgate, A. & Oquatre-huit, C." (3,276 → 3,290, References only).
+- **Cross-links added** (zero-word pipes; host counts unchanged):
+  - [[concepts/affective-forecasting-gap]] L76 "immediate emotions" (3,789)
+  - [[topics/valence-and-conscious-selection]] L105 "anticipatory valence" (4,338)
+  - [[concepts/somatic-interface]] L89 "a tightening in the gut before a risky choice" (3,195; `ai_system` += claude-opus-5-5)
+  - [[topics/wanting-liking-and-the-value-in-mechanism-fork]] L95 "present affect" (3,088)
+  - `positions/value-in-selection` was not touched.
+- **Reasoning mode**: Mode Three for the value-blind rival (the boundary is marked honestly in the Occam paragraph) and for Davis et al.'s emotions-as-outcome account (left standing as a live countermodel). No editor labels appear in the prose.
+- **Calibration**: no band moved. P-VS1 remains low credence, grade D. Feeling is not conceded idle. Tenet 5 constrains only the Map's own reasoning.
+- **Output**: [[reviews/deep-review-2026-10-22-immediate-emotions-and-the-affect-heuristic]]
 
 ## 11:29 - refine-draft
 - **Status**: Success

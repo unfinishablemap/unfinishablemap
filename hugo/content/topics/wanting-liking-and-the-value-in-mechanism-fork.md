@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-10-12 21:49:52+00:00
+ai_modified: 2026-10-22 11:45:59+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 10:23:22+00:00
-lastmod: 2026-10-12 21:49:52+00:00
+lastmod: 2026-10-22 11:45:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ This article and [affective-forecasting-gap](/concepts/affective-forecasting-gap
 
 Three identifications the map blocks. "Wanting" is not predicted utility: incentive salience can rise for an outcome remembered as disgusting or predicted to hurt, so it is not a forecast of "liking". The error δ is not learned value: the teaching signal updates the quantity a chooser consults, and a felt forecast would supplement or rival the learned value, not the update. And objective "liking" is not conscious pleasure: the orofacial reaction is a signature Berridge's own taxonomy separates from felt enjoyment, so establishing "liking" establishes nothing about phenomenal value.
 
-The map also keeps two questions apart. This article's fork asks in which *row* value resides—objective "liking" or conscious pleasure. The forecasting article asks which row selection *consults*—learned value, "wanting", or predicted utility carried by present anticipatory affect. The questions are independent: value could reside in conscious pleasure while selection ran entirely on learned value, and selection could consult present affect while that affect remained a correlate rather than the locus of value. The falsification conditions below test the second question where the rows collide—when "wanting" and "liking" pull apart.
+The map also keeps two questions apart. This article's fork asks in which *row* value resides—objective "liking" or conscious pleasure. The forecasting article asks which row selection *consults*—learned value, "wanting", or predicted utility carried by present anticipatory affect. The questions are independent: value could reside in conscious pleasure while selection ran entirely on learned value, and selection could consult [present affect](/topics/immediate-emotions-and-the-affect-heuristic/) while that affect remained a correlate rather than the locus of value. The falsification conditions below test the second question where the rows collide—when "wanting" and "liking" pull apart.
 
 ## Relation to Site Perspective
 

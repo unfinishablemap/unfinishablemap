@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-12 20:50:38+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
+ai_modified: 2026-10-22 11:45:59+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/value-blind-vs-value-sensitive-selection/
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-08 06:11:21+00:00
-lastmod: 2026-10-12 20:50:38+00:00
+lastmod: 2026-10-22 11:45:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +105,7 @@ Experiences differ in every qualitative respect—colour, sound, texture, emotio
 
 ### The Anticipatory Valence Mechanism
 
-Selection requires evaluation *before* the outcome is actualised: consciousness cannot experience the result of each option and then choose, since that would require multiple actualisations. It must evaluate anticipated outcomes—an anticipatory valence mechanism assessing the predicted felt quality of each competing neural pattern.
+Selection requires evaluation *before* the outcome is actualised: consciousness cannot experience the result of each option and then choose, since that would require multiple actualisations. It must evaluate anticipated outcomes—an [anticipatory valence](/topics/immediate-emotions-and-the-affect-heuristic/) mechanism assessing the predicted felt quality of each competing neural pattern.
 
 The brain already runs such anticipatory models: anticipatory pleasure and dread are everyday phenomenology, and Panksepp's (1998) work on basic emotional systems indicates that affective anticipation is conserved across mammals. The dopamine system is the tempting correlate, but must be described carefully. Phasic activity in many midbrain dopamine neurons is consistent with one or more varieties of prediction-error signal—Dabney et al. (2020) find a distributional population code in VTA rather than one canonical scalar—and such signals *update* learned value estimates. A prediction error is neither the stored expectation nor the variable consulted at choice, and neither it nor the estimate it updates is felt valence without a separate argument ([the forecasting article](/concepts/affective-forecasting-gap/) keeps the three apart).
 

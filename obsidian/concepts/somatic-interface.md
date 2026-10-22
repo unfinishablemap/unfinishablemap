@@ -4,7 +4,7 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-06-21T22:06:00+00:00
 human_modified:
-ai_modified: 2026-09-20T14:38:00+00:00
+ai_modified: 2026-10-22T11:45:59+00:00
 last_deep_review: 2026-09-17T13:53:10+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[embodied-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-23
 last_curated:
 ---
@@ -86,7 +86,7 @@ Neuroscience explains vestibular experience through semicircular canal mechanics
 
 ### Somatic Markers
 
-Damasio's somatic markers deserve separate treatment because they represent the interface's role in cognition, not just sensation. Somatic markers are bodily feelings associated with the predicted outcomes of decisions—a tightening in the gut before a risky choice, warmth in the chest anticipating a positive outcome.
+Damasio's somatic markers deserve separate treatment because they represent the interface's role in cognition, not just sensation. Somatic markers are bodily feelings associated with the predicted outcomes of decisions—[[immediate-emotions-and-the-affect-heuristic|a tightening in the gut before a risky choice]], warmth in the chest anticipating a positive outcome.
 
 Somatic markers are learned: they accumulate through experience as the body-consciousness system builds associations between situations and bodily responses. They are held to operate faster than deliberation, providing "gut feelings." On Bechara et al.'s (1997) reading of the Iowa Gambling Task, participants avoid disadvantageous decks before they can articulate why; Maia & McClelland (2004), using more sensitive questioning, found that participants who behaved advantageously nearly always reported knowledge of the deck outcomes sufficient to guide that behaviour, and Dunn, Dalgleish & Lawrence (2006) review the hypothesis critically. That the body signals before the mind reasons is therefore contested, not established.
 

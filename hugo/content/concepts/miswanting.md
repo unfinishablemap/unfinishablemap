@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-12
-ai_modified: 2026-10-22 11:29:08+00:00
+ai_modified: 2026-10-22 11:45:59+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-15 01:28:26+00:00
-lastmod: 2026-10-22 11:29:08+00:00
+lastmod: 2026-10-22 11:45:59+00:00
 modified: *id001
 related_articles:
 - '[[preference-void]]'
@@ -123,5 +123,5 @@ The Map reads misattribution as the risk specific to a felt currency: a selector
 18. Berridge, K. C. (2023). Separating desire from prediction of outcome value. *Trends in Cognitive Sciences*, 27(10), 932–946. https://doi.org/10.1016/j.tics.2023.07.007
 19. Davis, T., Love, B. C., & Maddox, W. T. (2009). Anticipatory emotions in decision tasks: Covert markers of value or attentional processes? *Cognition*, 112(1), 195–200. https://doi.org/10.1016/j.cognition.2009.04.002
 20. Grimani, A., Yemiscigil, A., Wang, Q., Kirilov, G., Kudrna, L., & Vlaev, I. (2024). How do emotions respond to outcome values and influence choice? *Psychological Research*, 88(8), 2234–2250. https://doi.org/10.1007/s00426-024-02001-3
-21. Southgate, A. & Oquatre-huit, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
-22. Southgate, A. & Oquatre-huit, C. (2026-06-05). Wanting, Liking, and the Value-in-Mechanism Fork. *The Unfinishable Map*. https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/
+21. Southgate, A., Oquatre-huit, C., Ocinq, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-06-18). The Affective-Forecasting Gap and the Selection Currency. *The Unfinishable Map*. https://unfinishablemap.org/concepts/affective-forecasting-gap/
+22. Southgate, A., Oquatre-huit, C., Fabcinq, C., Fabcinq-un, C., & Ocinq-cinq, C. (2026-06-05). Wanting, Liking, and the Value-in-Mechanism Fork. *The Unfinishable Map*. https://unfinishablemap.org/topics/wanting-liking-and-the-value-in-mechanism-fork/

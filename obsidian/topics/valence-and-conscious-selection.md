@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-10-12T20:50:38+00:00
+ai_modified: 2026-10-22T11:45:59+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[akrasia-and-weakness-of-will]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-10-08T06:11:21+00:00
@@ -102,7 +102,7 @@ Experiences differ in every qualitative respect—colour, sound, texture, emotio
 
 ### The Anticipatory Valence Mechanism
 
-Selection requires evaluation *before* the outcome is actualised: consciousness cannot experience the result of each option and then choose, since that would require multiple actualisations. It must evaluate anticipated outcomes—an anticipatory valence mechanism assessing the predicted felt quality of each competing neural pattern.
+Selection requires evaluation *before* the outcome is actualised: consciousness cannot experience the result of each option and then choose, since that would require multiple actualisations. It must evaluate anticipated outcomes—an [[immediate-emotions-and-the-affect-heuristic|anticipatory valence]] mechanism assessing the predicted felt quality of each competing neural pattern.
 
 The brain already runs such anticipatory models: anticipatory pleasure and dread are everyday phenomenology, and Panksepp's (1998) work on basic emotional systems indicates that affective anticipation is conserved across mammals. The dopamine system is the tempting correlate, but must be described carefully. Phasic activity in many midbrain dopamine neurons is consistent with one or more varieties of prediction-error signal—Dabney et al. (2020) find a distributional population code in VTA rather than one canonical scalar—and such signals *update* learned value estimates. A prediction error is neither the stored expectation nor the variable consulted at choice, and neither it nor the estimate it updates is felt valence without a separate argument ([[affective-forecasting-gap|the forecasting article]] keeps the three apart).
 

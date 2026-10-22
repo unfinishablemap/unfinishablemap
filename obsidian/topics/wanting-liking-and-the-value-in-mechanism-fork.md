@@ -4,7 +4,7 @@ description: "Berridge's wanting/liking dissociation fractionates reward—but d
 created: 2026-06-05
 modified: 2026-10-12
 human_modified:
-ai_modified: 2026-10-12T21:49:52+00:00
+ai_modified: 2026-10-22T11:45:59+00:00
 last_deep_review: 2026-08-27T10:23:22+00:00
 draft: false
 topics:
@@ -92,7 +92,7 @@ This article and [[affective-forecasting-gap]] draw on three vocabularies—Berr
 
 Three identifications the map blocks. "Wanting" is not predicted utility: incentive salience can rise for an outcome remembered as disgusting or predicted to hurt, so it is not a forecast of "liking". The error δ is not learned value: the teaching signal updates the quantity a chooser consults, and a felt forecast would supplement or rival the learned value, not the update. And objective "liking" is not conscious pleasure: the orofacial reaction is a signature Berridge's own taxonomy separates from felt enjoyment, so establishing "liking" establishes nothing about phenomenal value.
 
-The map also keeps two questions apart. This article's fork asks in which *row* value resides—objective "liking" or conscious pleasure. The forecasting article asks which row selection *consults*—learned value, "wanting", or predicted utility carried by present anticipatory affect. The questions are independent: value could reside in conscious pleasure while selection ran entirely on learned value, and selection could consult present affect while that affect remained a correlate rather than the locus of value. The falsification conditions below test the second question where the rows collide—when "wanting" and "liking" pull apart.
+The map also keeps two questions apart. This article's fork asks in which *row* value resides—objective "liking" or conscious pleasure. The forecasting article asks which row selection *consults*—learned value, "wanting", or predicted utility carried by present anticipatory affect. The questions are independent: value could reside in conscious pleasure while selection ran entirely on learned value, and selection could consult [[immediate-emotions-and-the-affect-heuristic|present affect]] while that affect remained a correlate rather than the locus of value. The falsification conditions below test the second question where the rows collide—when "wanting" and "liking" pull apart.
 
 ## Relation to Site Perspective
 

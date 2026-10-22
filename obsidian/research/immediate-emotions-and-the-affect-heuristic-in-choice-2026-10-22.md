@@ -3,7 +3,7 @@ title: "Research Notes - Immediate Emotions and the Affect Heuristic in Choice"
 created: 2026-10-22
 modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-22T10:12:42+00:00
+ai_modified: 2026-10-22T11:51:16+00:00
 draft: false
 description: "Research notes on felt affect as an input to choice: immediate and integral emotions, risk-as-feelings, the affect heuristic and incidental carryover, with replications and nulls, read against P-VS1."
 topics:
@@ -47,7 +47,7 @@ The subject justifies its own page, for four reasons.
 
 1. **No page treats this literature as a whole.** Live-corpus counts made for this note: "affect heuristic" 0; Finucane, Pham, Lerner & Keltner, Pachur, Many Labs 2, Bartholomeyczik, Marini, Jäger 0 each. The vocabulary gap that produced miswanting's false absence claim is still open everywhere except two paragraphs.
 2. **It adds far more than the three studies already in [[affective-forecasting-gap]].** That page and [[miswanting]] carry Schlösser et al. 2013, Young et al. 2019, Dorison et al. 2019, Loewenstein et al. 2001 and Davis et al. 2009. This note adds about twenty verified works. Four of them change what the Map can say:
-   - a preregistered null for incidental emotion on incentivised risk-taking at n = 7,000 (Dong et al. 2026);
+   - a null for incidental emotion on incentivised risk-taking at n = 7,000, under a detailed pre-analysis plan (Dong et al. 2026);
    - a Many Labs 2 failure, in the opposite direction, of the flagship risk-as-feelings probability study (Klein et al. 2018 on Rottenstreich & Hsee 2001);
    - a preregistered meta-analysis showing that integral and incidental emotion are not interchangeable (Ferrer & Ellis 2021);
    - a registered replication of Lerner & Keltner 2001 that held for risk *judgment* but not for risk *preference* (Lu et al. 2026).
@@ -62,7 +62,7 @@ Decision science has a large literature on felt affect as an input to choice. It
 
 1. Option-directed affect measured just before choice predicts choice beyond anticipated emotions and subjective probability (Schlösser et al. 2013; Young et al. 2019; Grimani et al. 2024). It is measured, though, not manipulated, and it also tracks outcome value. In learning tasks, *expected* valence predicts choice better than *current* feeling does (Jäger et al. 2020, 2022).
 2. Incidental affect carries over into valuation. Sadness raises choice prices, and that effect has been replicated (Lerner et al. 2004; Garg et al. 2018). Its effect on *risk preference* is weak or null in the best-powered tests:
-   - Dong et al. 2026: n = 7,000, preregistered, manipulation effective, no effect on risk-taking;
+   - Dong et al. 2026: n = 7,000, detailed pre-analysis plan, manipulation effective, no effect on risk-taking;
    - Marini 2023: only fear shows a small effect;
    - Lu et al. 2026: Lerner & Keltner's preference result did not replicate.
 
@@ -359,7 +359,7 @@ The article should carry a version of this table. It makes future absence search
 ### 3. Does incidental affect move choice?
 - **Positive**: Lerner et al. 2004 (valuation), replicated by Garg et al. 2018 (sadness → choice price, d ≈ 0.4); Ferrer et al. 2017 (anger, males).
 - **Weak or null**:
-  - Dong et al. 2026: n = 7,000, preregistered, null on risk-taking with an effective manipulation;
+  - Dong et al. 2026: n = 7,000, detailed pre-analysis plan, null on risk-taking with an effective manipulation;
   - Marini 2023: fear small, others null;
   - Lu et al. 2026: ATF preference not replicated;
   - Yap et al. 2017: mood-as-information mostly null in large samples.
@@ -388,7 +388,7 @@ The battery from [[affective-forecasting-gap]] (L86–L90) is used below with it
   - Dong et al.'s manipulation check was between-subjects. Risk-task participants' felt state was not reported, so the row's "manipulation check" requirement (afg L92) is only partly met.
 - **Regulation** manipulates *integral* affect at choice (Sokol-Hessner 2009) but confounds it with reframing and did not measure subjective feeling. The other two regulation studies regulated incidental emotion.
 - **Ferrer & Ellis 2021** warn that incidental results may not generalise to integral affect.
-- **The commitment the Map has already made.** [[miswanting#misattribution]] says: "choice left unmoved by induced incidental affect, with learned value and bodily state held fixed, would count against P-VS1." Dong et al. 2026 is, in the risk domain, a large preregistered instance of choice left unmoved by effectively induced incidental affect. Learned value was held by randomisation; bodily state was not measured. The honest reading is a **partial hit on the Map's own stated falsifier, confined to risk preference**, and it counts modestly against P-VS1's misattribution prediction there. The Map **must not** escape it by switching to "incidental affect is not the currency" (Ferrer & Ellis): it chose incidental affect as the test, so either the falsifier stands or the miswanting sentence must be rewritten in advance of results, with the integral/incidental hazard stated symmetrically. Positive incidental results (Garg et al.) are equally *non*-evidence of a felt currency on that same hazard, since the rival predicts state-dependent valuation too. That page already concedes the rival's behavioural-grain analogue.
+- **The commitment the Map has already made.** [[miswanting#misattribution]] says: "choice left unmoved by induced incidental affect, with learned value and bodily state held fixed, would count against P-VS1." Dong et al. 2026 is, in the risk domain, a large pre-analysis-planned instance of choice left unmoved by effectively induced incidental affect. Learned value was held by randomisation; bodily state was not measured. The honest reading is a **partial hit on the Map's own stated falsifier, confined to risk preference**, and it counts modestly against P-VS1's misattribution prediction there. The Map **must not** escape it by switching to "incidental affect is not the currency" (Ferrer & Ellis): it chose incidental affect as the test, so either the falsifier stands or the miswanting sentence must be rewritten in advance of results, with the integral/incidental hazard stated symmetrically. Positive incidental results (Garg et al.) are equally *non*-evidence of a felt currency on that same hazard, since the rival predicts state-dependent valuation too. That page already concedes the rival's behavioural-grain analogue.
 
 **Row 3, "Shift learned value; affect, forecast fixed"**: there is no manipulation, but the closest observational analogue is the Jäger series. Where values must be learned, expected valence dominates and global current affect adds little, which is the rival's profile. The guard: that "current affect" is not option-directed.
 
