@@ -3,7 +3,7 @@ title: "Research Notes - Visual Indexes and Demonstrative Reference Without Cons
 created: 2026-10-22
 modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-22T14:39:04+00:00
+ai_modified: 2026-10-22T16:19:52+00:00
 draft: false
 description: "Pylyshyn's visual indexes, object files and multiple-object tracking read at source against Campbell's thesis that conscious attention gives knowledge of demonstrative reference, with attention-without-awareness evidence."
 topics:
@@ -529,7 +529,7 @@ Host lengths are measured by `analyze_length` at 14:2xZ. Headroom = hard − 1 �
 1. Matthen, M. (2006). On visual experience of objects: Comments on John Campbell's *Reference and Consciousness*. *Philosophical Studies*, 127(2), 195–220. https://doi.org/10.1007/s11098-005-4941-2 (metadata only)
 1. Mattingley, J. B., Davis, G. & Driver, J. (1997). Preattentive filling-in of visual surfaces in parietal extinction. *Science*, 275(5300), 671–674. https://doi.org/10.1126/science.275.5300.671
 1. Mitroff, S. R., Scholl, B. J. & Wynn, K. (2005). The relationship between object files and conscious perception. *Cognition*, 96(1), 67–92. https://doi.org/10.1016/j.cognition.2004.03.008
-1. Mole, C. (2008). Attention in the absence of consciousness? *Trends in Cognitive Sciences*, 12(2), 44. https://doi.org/10.1016/j.tics.2007.11.001 (metadata only; cited via SEP)
+1. Mole, C. (2008). Attention and consciousness. *Journal of Consciousness Studies*, 15(4), 86–104. (Metadata only; cited via SEP. The SEP bibliography's only Mole 2008 entry is this paper, corrected 2026-10-22 by deep review; the *TiCS* 12(2) letter "Attention in the absence of consciousness?", doi:10.1016/j.tics.2007.11.001, is a different 2008 paper.)
 1. Mole, C. (2026 revision). Attention. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/attention/
 1. Norman, L. J., Heywood, C. A. & Kentridge, R. W. (2013). Object-based attention without awareness. *Psychological Science*, 24(6), 836–843. https://doi.org/10.1177/0956797612461449
 1. Norman, L. J., Heywood, C. A. & Kentridge, R. W. (2015). Exogenous attention to unseen objects? *Consciousness and Cognition*, 35, 319–329. https://doi.org/10.1016/j.concog.2015.02.015

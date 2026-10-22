@@ -1,9 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T15:57:03+00:00
+ai_modified: 2026-10-22T16:21:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:25 - refine-draft (driver follow-up)
+- **Status**: Success
+- **File**: [[attention-and-the-consciousness-interface]] L124
+- **Change**: "Driver and Vuilleumier (2001) showed" -> "report" (the 2001 *Cognition* paper is a review, confirmed by the visual-indexes cross-review); length-neutral on an over-hard page (4,519).
+
+## 16:21 - deep-review
+- **Status**: Success
+- **Task**: P2 cross-review (queue index 2974). First deep review of the new indexing article, plus the host softening in `singular-thought-and-acquaintance`.
+- **File**: [[topics/visual-indexes-and-demonstrative-reference]]
+- **Word count**: 2797 → 2981 (+184; prose 2209 → 2376, Further Reading 56 → 56, References 555 → 572; topics soft 3000)
+- **Critical issues addressed**: 8
+  - Pylyshyn's p. 149 "preattentive" retraction: subject is the *task*; the terminological reason is now given.
+  - Pylyshyn & Storm 1988 no longer credited with proposing FINST (it was the earlier model).
+  - The uncited "computationalist, not a dualist" was rescoped to the p. 154 verified text.
+  - Burge "rejects" → finds Evans's arguments "shot through with problems".
+  - "In parallel" overclaim in the weighing.
+  - Unscoped "tracking is untested" in §Trade-off.
+  - Stale "plausibly survives" self-quotes (lead, Relation to Site Perspective).
+  - Mole 2008 orphan resolved to JCS 15(4) 86–104, not the TiCS letter. Research note citation corrected.
+- **Medium issues addressed**: 7 (Mitroff "dynamic ambiguous displays"; Lamy "largely"; Norman awareness measurement and "static" dropped; Tamburini scope; p. 138 n. 2; "usually" → "often"; chapter named)
+- **Enhancements made**: 2 (a proposed test for tracking without awareness, labelled as the Map's; a [[blindsight]] zero-word pipe)
+- **Quotes**: 63/63 body quotes found in raw source re-fetched this session (Crossref, OpenAlex and PubMed abstracts; SEP and NDPR HTML; Scholarpedia Wayback; fresh pdftotext of Pylyshyn 2001 and Williams 2013). Brief spot-checks:
+  - Pylyshyn p. 149: context read in full.
+  - Lamy 2015: abstract in three sources; spatial-cuing paradigm.
+  - Campbell via Williams: pp. 2, 8–9 and 9 confirmed in Williams's text.
+- **Facts**:
+  - Driver & Vuilleumier 2001 is a review ("We review…"; PubMed PublicationType "Review").
+  - Kentridge 1999 and Mattingley 1997 are single-subject studies, both labelled.
+  - Norman 2013 measured awareness by report and signal detection.
+  - PubMed 237 → 8 re-run and re-screened; the absence claim is body-only and scoped.
+- **Engagement modes**: Pylyshyn/selection evidence vs Campbell, Mode Three (pressure, not refutation); Barkasi, Berger et al., Tamburini and Williams vs Campbell and Smithies, Mode Three (reported, not adjudicated).
+- **Host**: [[topics/singular-thought-and-acquaintance]], 3109 → 3119 (+10).
+  - L35: "survives, if at all … epistemically essential".
+  - L73: "survives, if anywhere … as an epistemic condition rather than one on selecting the object".
+  - L75: −8, a redundant clause.
+  - L85: "can hold together, if anywhere".
+  - The trade-off argument is intact; idleness is not conceded.
+- **Other file**: [[research/visual-indexes-and-demonstrative-reference-2026-10-22]], Mole 2008 citation line only.
+- **Output**: [[reviews/deep-review-2026-10-22-visual-indexes-and-demonstrative-reference]]
 
 ## 15:57 - refine-draft
 - **Task**: P2 multi-file attribution fix after [[deep-review-2026-10-22-prehension]]. The phrase "personally ordered society" was presented as Whitehead's at six sites; `process-philosophy` L82 also misstated how contemporaries are prehended.

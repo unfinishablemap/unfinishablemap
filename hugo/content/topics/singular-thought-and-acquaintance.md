@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-22 15:18:50+00:00
+ai_modified: 2026-10-22 16:19:52+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 15:48:47+00:00
-lastmod: 2026-10-22 15:18:50+00:00
+lastmod: 2026-10-22 16:19:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +36,7 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-A singular thought is about a particular thing directly, not about whatever fits a description. Must the thinker be *acquainted* with the thing? Russell said yes, and his acquaintance was presentation, the object itself before the mind. The Unfinishable Map reads the debate since as a trade-off, in its own framing rather than any cited author's: the more phenomenal the acquaintance, the less singular thought it allows ([the scope–phenomenality trade-off](#trade-off), explained below). Every view that restores ordinary singular thought about Caesar or Neptune (Evans, Lewis, Bach, Recanati, Sawyer) makes acquaintance non-phenomenal: discriminating knowledge, an information-carrying causal channel, or both. A phenomenal condition survives only for perceptual demonstratives ("*that* cup"), where Campbell (2002) and Smithies (2011) hold consciousness essential. Neither is a dualist. The most this literature shows is that one narrow kind of thought depends on consciousness, a thesis physicalists can accept. It gives no evidence for dualism.
+A singular thought is about a particular thing directly, not about whatever fits a description. Must the thinker be *acquainted* with the thing? Russell said yes, and his acquaintance was presentation, the object itself before the mind. The Unfinishable Map reads the debate since as a trade-off, in its own framing rather than any cited author's: the more phenomenal the acquaintance, the less singular thought it allows ([the scope–phenomenality trade-off](#trade-off), explained below). Every view that restores ordinary singular thought about Caesar or Neptune (Evans, Lewis, Bach, Recanati, Sawyer) makes acquaintance non-phenomenal: discriminating knowledge, an information-carrying causal channel, or both. A phenomenal condition survives, if at all, only for perceptual demonstratives ("*that* cup"), where Campbell (2002) and Smithies (2011) hold consciousness epistemically essential. Neither is a dualist. The most this literature shows is that one narrow kind of thought depends on consciousness, a thesis physicalists can accept. It gives no evidence for dualism.
 
 Language models divide the same way ([words, files and thinkers](#language-models), explained below). The liberal views of Kaplan, Jeshion, and Hawthorne and Manley remove the acquaintance condition but not the condition that there be a thinker. The Map's verdict that a current large language model (LLM) has no singular thought of its own rests on that thinker condition, through moderate phenomenal intentionality theory and the Map's low-probability verdict on current AI consciousness, not on any lack of acquaintance. The model's words can still refer derivatively ([whether-language-model-words-refer](/topics/whether-language-model-words-refer/)). Interpretability work on entity representations bears on mechanism only, and the decisive test, for a name a model coins itself, has not been run.
 
@@ -74,9 +74,9 @@ Hawthorne and Manley (2012) go furthest. Their *liberalism about singular though
 
 ## Where Consciousness Enters: Demonstratives {#demonstratives}
 
-A phenomenal condition plausibly survives in perceptual demonstrative thought. Campbell (2002) argues that "Conscious attention to an object, singling it out in experience, provides knowledge of the reference of a demonstrative term", and that "only experience of objects can provide this kind of acquaintance with individual substances." Smithies (2011) examines three accounts, Evans's, Campbell's and his own, which "agree that consciousness is essential for demonstrative thought, but disagree about why it is." His own gives consciousness an *epistemic* role: it enables "the subject to form immediately justified beliefs about the object".
+A phenomenal condition survives, if anywhere, in perceptual demonstrative thought, as an epistemic condition rather than one on selecting the object. Campbell (2002) argues that "Conscious attention to an object, singling it out in experience, provides knowledge of the reference of a demonstrative term", and that "only experience of objects can provide this kind of acquaintance with individual substances." Smithies (2011) examines three accounts, Evans's, Campbell's and his own, which "agree that consciousness is essential for demonstrative thought, but disagree about why it is." His own gives consciousness an *epistemic* role: it enables "the subject to form immediately justified beliefs about the object".
 
-The thesis is contested. Barkasi (2019) argues that "experience is not the only way in which visual information could be accessed" for the voluntary control of attention. Vision science presses from another side: Pylyshyn's preconceptual visual indexes, with evidence of object-level attention without awareness, suggest that selecting an object needs no consciousness, though Campbell's claim concerns knowing which object is meant ([visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/)). Neither Campbell nor Smithies supports dualism. Campbell defends the relational view of experience, which [naturalist-relationalism](/concepts/naturalist-relationalism/) engages as a non-dualist rival, and Smithies's argument concerns justification. They give independent, non-dualist support for consciousness-dependence in this one domain, and no further.
+The thesis is contested. Barkasi (2019) argues that "experience is not the only way in which visual information could be accessed" for the voluntary control of attention. Vision science presses from another side: Pylyshyn's preconceptual visual indexes, with evidence of object-level attention without awareness, suggest that selecting an object needs no consciousness ([visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/)). Neither Campbell nor Smithies supports dualism. Campbell defends the relational view of experience, which [naturalist-relationalism](/concepts/naturalist-relationalism/) engages as a non-dualist rival, and Smithies's argument concerns justification. They give independent, non-dualist support for consciousness-dependence in this one domain, and no further.
 
 ## The Scope–Phenomenality Trade-off {#trade-off}
 
@@ -86,7 +86,7 @@ The pattern across these views is the Map's synthesis, stated by none of the cit
 2. Acquaintance, in the sense premise 1 needs, is phenomenal presentation.
 3. So singular thought has a phenomenal condition.
 
-Russell holds both premises and pays in scope: he allows no singular thought about Caesar or Neptune. Each view that restores those thoughts gives up premise 2: Evans through discriminating knowledge and an information link, Lewis, Bach and Recanati through information channels, Sawyer through traces. The liberal views give up premise 1. The two premises hold together only for perceptual demonstratives, and perhaps for the self, on which Russell hedged. The more phenomenal the acquaintance, the less singular thought it licenses.
+Russell holds both premises and pays in scope: he allows no singular thought about Caesar or Neptune. Each view that restores those thoughts gives up premise 2: Evans through discriminating knowledge and an information link, Lewis, Bach and Recanati through information channels, Sawyer through traces. The liberal views give up premise 1. The two premises can hold together, if anywhere, only for perceptual demonstratives, and perhaps for the self, on which Russell hedged. The more phenomenal the acquaintance, the less singular thought it licenses.
 
 Even where the conclusion holds, it delivers consciousness-dependence. Dualism needs a further premise, that phenomenal presentation is not physical, which is argued and contested in [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)'s treatment of Loar.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-12 13:40:45+00:00
+ai_modified: 2026-10-22 16:23:20+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:46:49+00:00
-lastmod: 2026-10-12 13:40:45+00:00
+lastmod: 2026-10-22 16:23:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -126,7 +126,7 @@ Balint syndrome, from bilateral parietal damage, restricts attention to a single
 
 ### Extinction: Competition Reveals Architecture
 
-A patient with extinction detects a single stimulus on either side, but when two appear simultaneously the contralesional one is extinguished from awareness. Driver and Vuilleumier (2001) showed extinguished stimuli still activate early visual cortex and prime subsequent responses—information reaches the brain but loses the competition for conscious access, through a [bandwidth-limited](/concepts/interface-friction/) selection mechanism whose capacity tracks the lesion.
+A patient with extinction detects a single stimulus on either side, but when two appear simultaneously the contralesional one is extinguished from awareness. Driver and Vuilleumier (2001) report extinguished stimuli still activate early visual cortex and prime subsequent responses—information reaches the brain but loses the competition for conscious access, through a [bandwidth-limited](/concepts/interface-friction/) selection mechanism whose capacity tracks the lesion.
 
 ### The Phenomenological Kaleidoscope
 
