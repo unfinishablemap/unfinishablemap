@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-08-06 03:26:00+00:00
+ai_modified: 2026-10-22 18:37:14.524026+00:00
 ai_system: claude-opus-4-6+claude-opus-5
 author: null
 concepts:
@@ -14,10 +14,15 @@ date: &id001 2026-03-11
 description: Human+AI exploration of why consciousness cannot observe its own storytelling—the
   gap between raw experience and the coherent self-story we mistake for transparency.
 draft: false
+embedded_videos:
+- embedded: 2026-10-22 18:37:14.524026+00:00
+  id: Qt0nLKYRQ_M
+  source: notebooklm/0171-01-narrative-void
+  url: https://www.youtube-nocookie.com/embed/Qt0nLKYRQ_M
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 17:55:00+00:00
-lastmod: 2026-08-06 03:26:00+00:00
+lastmod: 2026-10-22 18:37:14.524026+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,6 +46,12 @@ topics:
 Consciousness constructs a running story of who you are—a coherent narrative from fragmentary, discontinuous experience. But the construction process is invisible to the one living inside the result. The Unfinishable Map calls this the narrative void: the gap between raw experience and the story consciousness tells about itself. What gets edited out, smoothed over, or fabricated to maintain coherence cannot be observed from within the narrative. Worse, the fabrication presents itself with the same phenomenological confidence as genuine memory.
 
 This void is not merely an epistemic limitation. It is a three-layered structure—partly unexplored, partly unexplorable, and actively occluded—that raises sharp questions about self-knowledge, personal identity, and the nature of conscious agency. It sits within the introspection-architecture sub-cluster alongside [source-attribution-void](/voids/source-attribution-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [confabulation-void](/voids/confabulation-void/), and the methodological [self-opacity](/voids/self-opacity/), each of which catalogues a distinct face of the introspector's bounded access to its own substrate. [The independence-scoring exhibit](/topics/introspection-architecture-independence-scoring/) scores the four-void cluster against the [catalogue's four criteria](/concepts/apophatic-cartography-four-criteria/) (the calibration apparatus the [voids-circularity discount](/project/voids-circularity-discount/) operates against); this void's anchors (Nisbett-Wilson, Gazzaniga, Johansson-Hall) contribute to the cluster's healthy-adult despite-commitments channel.
+
+<details class="yt-embed" data-video-id="Qt0nLKYRQ_M">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Qt0nLKYRQ_M">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Unreliable Narrator
 

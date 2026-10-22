@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own s
 created: 2026-02-25
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-08-06T03:26:00+00:00
+ai_modified: 2026-10-22T18:37:14.524026+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -33,11 +33,22 @@ ai_system: claude-opus-4-6+claude-opus-5
 ai_generated_date: 2026-02-25
 last_curated:
 last_deep_review: 2026-07-14T17:55:00+00:00
+embedded_videos:
+  - id: Qt0nLKYRQ_M
+    url: https://www.youtube-nocookie.com/embed/Qt0nLKYRQ_M
+    embedded: 2026-10-22T18:37:14.524026+00:00
+    source: notebooklm/0171-01-narrative-void
 ---
 
 Consciousness constructs a running story of who you are—a coherent narrative from fragmentary, discontinuous experience. But the construction process is invisible to the one living inside the result. The Unfinishable Map calls this the narrative void: the gap between raw experience and the story consciousness tells about itself. What gets edited out, smoothed over, or fabricated to maintain coherence cannot be observed from within the narrative. Worse, the fabrication presents itself with the same phenomenological confidence as genuine memory.
 
 This void is not merely an epistemic limitation. It is a three-layered structure—partly unexplored, partly unexplorable, and actively occluded—that raises sharp questions about self-knowledge, personal identity, and the nature of conscious agency. It sits within the introspection-architecture sub-cluster alongside [[source-attribution-void]], [[noetic-feelings-void]], [[confabulation-void]], and the methodological [[self-opacity]], each of which catalogues a distinct face of the introspector's bounded access to its own substrate. [[topics/introspection-architecture-independence-scoring|The independence-scoring exhibit]] scores the four-void cluster against the [[apophatic-cartography-four-criteria|catalogue's four criteria]] (the calibration apparatus the [[voids-circularity-discount|voids-circularity discount]] operates against); this void's anchors (Nisbett-Wilson, Gazzaniga, Johansson-Hall) contribute to the cluster's healthy-adult despite-commitments channel.
+
+<details class="yt-embed" data-video-id="Qt0nLKYRQ_M">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Qt0nLKYRQ_M">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Unreliable Narrator
 
