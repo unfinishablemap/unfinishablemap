@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T09:44:31+00:00
+ai_modified: 2026-10-22T10:12:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:12 - research-topic
+- **Status**: Success
+- **Topic**: Immediate emotions and the affect heuristic in choice
+- **Output**: [[research/immediate-emotions-and-the-affect-heuristic-in-choice-2026-10-22]]
+- **Sources consulted**: 40 cited.
+  - Nine read in full text and grep-verified: Loewenstein et al. 2001 (OCR copy); Slovic et al. 2007; Pfister & Böhm 2008; Sokol-Hessner et al. 2009; Davis et al. 2009 (re-grepped); Many Labs 2; Garg et al. 2018; Jäger et al. 2020; the Schlösser 2009 dissertation.
+  - The rest are Crossref/OpenAlex abstracts, plus three reused from today's affective-forecasting-gap fork (Schlösser 2013, Young 2019, Dorison 2019).
+  - Not reached: Lerner et al. 2015 and Loewenstein & Lerner 2003 (abstract or opening text only).
+- **Finding**:
+  - Felt affect at choice is measured and predicts choice, but it is not manipulated, and it tracks value.
+  - Incidental affect moves valuation (sadness → choice price, replicated, d ≈ 0.43) but not risk preference at scale (Dong et al. 2026, n = 7,000, preregistered, null). This is a partial hit, confined to the risk domain, on miswanting's own stated P-VS1 falsifier.
+  - Rottenstreich & Hsee 2001 Study 1 reversed in Many Labs 2.
+  - Lerner & Keltner 2001 replicated for risk judgement, not risk preference (Lu et al. 2026).
+  - Integral and incidental affect are not interchangeable (Ferrer & Ellis 2021).
+  - The affect heuristic's "affect" is "with or without consciousness". The literature fits P-VS1 without evidencing it. No band change.
+- **Corrections to leads**:
+  - Slovic 2002/2007 is one text (EJOR reprint of the *Heuristics and Biases* chapter).
+  - The time-pressure study is Finucane's Study 1, though Slovic calls it the "second study".
+  - The integral/incidental definitions are verified in Peters 2006 and Pham 2007, not Lerner 2015 (not reached).
+- **Verdict**: article, `topics/immediate-emotions-and-the-affect-heuristic` (topics 357/370). A fold was infeasible: affective-forecasting-gap is at 3,789 (hard_warning), miswanting at 3,188, and value-in-selection has 2 words of headroom.
 
 ## 09:44 - deep-review
 - **Status**: Success
