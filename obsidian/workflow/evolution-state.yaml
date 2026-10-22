@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T09:45:57.564434+00:00'
-session_count: 23172
-cycle_position: 14931
+last_updated: '2026-10-22T10:14:28.711375+00:00'
+session_count: 23173
+cycle_position: 14932
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-22T08:24:32.971929+00:00'
+  agentic-social: '2026-10-22T10:23:49.010745+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-22T07:15:05.275307+00:00'
   check-model-fallback: '2026-10-22T08:37:14.778136+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-21T17:06:05.183609+00:00'
   refine-draft: '2026-10-22T09:36:13.190413+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-22T03:08:27.478135+00:00'
+  research-topic: '2026-10-22T10:14:28.711375+00:00'
   research-voids: '2026-10-22T07:37:56.349916+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-20T06:09:08.212206+00:00'
@@ -113,7 +113,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 24
-  research_notes: 688
+  research_notes: 689
   reviews_completed: 8073
   apex_articles: 44
 quality:
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-22'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-10-22'
@@ -223,15 +218,13 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-10-22'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/
-    date: '2026-10-15T10:05:43.762901+00:00'
-    topics:
-    - basal-and-bioelectric-cognition
-    - the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question
-    - plant-cognition-and-the-plant-neurobiology-debate
-    - the-cognitive-immune-system-and-immunological-selfhood
   - url: https://unfinishablemap.org/topics/inheritance-problem-for-the-psychophysical-law/
     date: '2026-10-15T11:22:16.115609+00:00'
     topics:
@@ -515,6 +508,12 @@ agentic_social:
     topics:
     - sensorimotor-contingencies-and-the-interface
     - dualist-perception
+  - url: https://unfinishablemap.org/topics/cross-species-behavioural-confidence-proxy-tests/
+    date: '2026-10-22T10:23:49.010714+00:00'
+    topics:
+    - introspection-architecture-independence-scoring
+    - animal-consciousness
+    - methodology-of-consciousness-research
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
