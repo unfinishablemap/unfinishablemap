@@ -2741,13 +2741,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/deep-review-2026-10-21-anomalous-monism-and-the-denial-of-strict-psychophysical-laws.md`
 - **Notes**: Leads from the 2026-10-21 ~10:52Z deep review of `concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws`, which corrected the page to Davidson's actual claim: "Mental Events" allows "rough heteronomic generalizations, which are lawlike", and SEP records that "Thinking Causes" (1993) allows *ceteris paribus* psychophysical laws; only STRICT psychophysical laws are denied. Propagate: (a) `topics/philosophy-of-action-under-dualism` L45 "and denied any psychophysical laws" -> "and denied strict psychophysical laws" (+1; 2,805 vs topics hard 4,000). (b) Secondary file `concepts/supervenience` L131 Further Reading label "but rejects its no-law verdict" -> re-label to match the corrected page (e.g. "but rejects its no-strict-law verdict"), near zero words (2,340 vs 3,500). (c) Secondary file `concepts/type-token-causation` L159 label "applied to Davidson's lawless mental" -> "...Davidson's strictly lawless mental" or equivalent (3,172 vs 3,500). Labels are navigation surfaces carrying claims: fix the LABEL wording. Read the corrected concept page's lead first and match its wording.
 
-### P3: `topics/phenomenology-of-moral-life` residual straw targets and constructions after the 2026-10-21 P2 (L55, L85, L89, L119, L125, L131)
-- **Type**: refine-draft
-- **File**: obsidian/topics/phenomenology-of-moral-life.md
-- **Source**: refine-draft
-- **Generated**: 2026-10-21
-- **Notes**: Leads from the 2026-10-21 ~11:25Z refine (pessimistic-review P2) of this page, out of its scope. (a) L55 uses the "not decorative—it is" construction the style guide bans: rephrase to the positive claim. (b) L85 presents Kant as a straw man, omitting his feeling of respect (*Achtung*) as the moral feeling: add one clause. (c) L89 calls a triage case that has a right answer a "tragic dilemma": either pick a genuine dilemma or say the remainder survives a correct choice. (d) L119 calls law-governed epiphenomenalism "coincidence": scope to bare-correlation epiphenomenalism, matching the L133 fix ("counts against bare-correlation epiphenomenalism"). (e) L125 makes two unsourced claims about *mettā*: source them at a primary or scholarly source, or hedge. (f) L131 targets the amygdala alone, a straw target for neural accounts of moral emotion: widen to the distributed network or concede the simplification. Read each line on disk first; apply the direct-refutation discipline in natural prose; never concede epiphenomenalism. LENGTH: 2,620 by analyze_length vs topics hard 4,000; near length-neutral.
-
 ### P2: NEEDS-HUMAN (doctrine) 2026-10-21 — Tenet 1 is stated in physics terms ("cannot be fully explained by physics alone"), so Hempel's dilemma's second horn applies to the Map's own thesis
 
 - **Type**: refine-draft
@@ -2961,6 +2954,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-22: `topics/phenomenology-of-moral-life` residual straw targets and constructions after the 2026-10-21 P2 (L55, L85, L89, L119, L125, L131)
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenology-of-moral-life.md
+- **Notes**: Leads from the 2026-10-21 ~11:25Z refine (pessimistic-review P2) of this page, out of its scope. (a) L55 uses the "not decorative—it is" construction the style guide bans: rephrase to the positive claim. (b) L85 presents Kant as a straw man, omitting his feeling of respect (*Achtung*) as the moral feeling: add one clause. (c) L89 calls a triage case that has a right answer a "tragic dilemma": either pick a genuine dilemma or say the remainder survives a correct choice. (d) L119 calls law-governed epiphenomenalism "coincidence": scope to bare-correlation epiphenomenalism, matching the L133 fix ("counts against bare-correlation epiphenomenalism"). (e) L125 makes two unsourced claims about *mettā*: source them at a primary or scholarly source, or hedge. (f) L131 targets the amygdala alone, a straw target for neural accounts of moral emotion: widen to the distributed network or concede the simplification. Read each line on disk first; apply the direct-refutation discipline in natural prose; never concede epiphenomenalism. LENGTH: 2,620 by analyze_length vs topics hard 4,000; near length-neutral.
+- **Output**: Done by cycle deep-review 2026-10-22 ~12:17Z (reviews/deep-review-2026-10-22-phenomenology-of-moral-life.md): all six findings (L55, L85, L89, L119, L125, L131) fixed, plus 4 new critical fixes (L137 Tenet-5 misuse, L115 Haidt p.819, L63 Prinz, banned construction x4).
 
 ### ✓ 2026-10-22: Cross-review `topics/immediate-emotions-and-the-affect-heuristic` — integrate the new felt-affect-at-choice article into the value-in-selection cluster
 - **Type**: cross-review

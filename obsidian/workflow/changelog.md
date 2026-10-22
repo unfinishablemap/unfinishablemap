@@ -1,9 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T12:17:00+00:00
+ai_modified: 2026-10-22T12:28:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:28 - refine-draft
+- **Status**: Success
+- **File**: [[voids/taboo-void]] (P2 from pessimistic-2026-10-22-taboo-void, Priority List items 1–4 plus the three optional extras). Also edits [[voids/three-kinds-of-void]] (propagation).
+- **Original score**: n/a (`scripts/curate.py` absent); targeted task from `reviews/pessimistic-2026-10-22-taboo-void.md`
+- **Word count** (analyze_length): 2,983 → 2,989 against the voids hard limit of 3,000 (gate `>=`, so 10 words remain). Prose 2,433 → 2,439. Further Reading 54 and References 496 are unchanged. Per step: item 1 +2, item 2 ±0, item 3 ±0, item 4 +3, L110 −3, L94/L102/L60 ±0, item-2 guard +2, lead "distinctive" −2, lead scope ±0, L98 +2, L46 emotion order +1, L94 pronoun +1. three-kinds-of-void: 2,606 → 2,610.
+- **Changes**:
+  - **Item 1 (L82).** The 72% toxic-waste result is redescribed. It came under a vague "right thing to do" rationale, with the money going to the deficit and tax cuts; support fell to 35% once the cost per life was stated. The surplus was not "earmarked for saving lives". The following "Hence … expressed, not a revealed, preference" sentence still follows.
+  - **Item 2 (L106).** "The data refute both" becomes "Neither fits the whole record". Lexical priority absorbs sacralising reframes; ordinary preference absorbs lopsided easy choices and the masked 72%. The review's last clause ("at the price of structure neither parsimonious model supplies") is replaced at ±0 by "and the fit, not the tenet, must justify its extra structure" (+2 over the review NEW). This blocks a reading in which Tenet 5 licenses the void's extra structure; the tenet is symmetric (`tenets.md`, "Application to the Map's own arguments").
+  - **Item 3 (L54).** "Merely read … volunteer for organ donation" becomes: observers showed most cleansing (support for organ-donation campaigns) when an administrator chose $1 million over a boy's life after long deliberation. No detail was added beyond Tetlock 2003's summary.
+  - **Item 4 (L46).** Taboo trade-offs were easier in both experiments, but more emotion-laden in the first only.
+  - **Extra, L46 (not in the review).** "Negative emotion rose monotonically across the same conditions" was false in the listed order (taboo, routine, tragic): the H&T Exp. 1 means are routine 2.90, taboo 3.28, tragic 4.75. It now states those means, so it no longer contradicts the item 4 sentence beside it.
+  - **Optional extras.**
+    - L110: the subject is no longer credited with Tetlock's own "however unjustified": "a felt state Tetlock calls 'unjustified' … where no reasoning licenses it".
+    - L94/L102: the occlusion-model labels are swapped to match `self-maintained-cognitive-limits`. The human taboo case is "psychological, with a social enforcer" (with "it" changed to "this void" so the pronoun does not bind to "verdict"). The alignment-trained refusal is an "external occlusion".
+    - L60: Baron & Spranca's robustness check is restored as "experimenters could not know which values subjects were rating".
+  - **Propagation (scoped, not retracted).**
+    - Lead: "a signature unlike any other in the catalogue" becomes "a distinctive signature within the catalogue". "Redescribe the trade-off and most subjects will run it" becomes "mask the price and most subjects accept the trade-off".
+    - L98: the self-audit marker "ease where there should be difficulty" becomes "ease where an honest comparison would be close", so a lopsided comparison that was actually run no longer counts as a sacralisation sign.
+    - three-kinds-of-void L97: "in the [[taboo-void]] the comparison is never run" becomes "… never run under its taboo description".
+- **Verified at source (2026-10-22, this pass)**:
+  - Tetlock 2003 (gwern.net full-text PDF):
+    - "support for the recommendation hovered at 72% when the trade-off was masked by vacuous moralistic rationales but plummeted to 35%"; both rationale conditions contain "this is the right thing to do"; "reducing the deficit and lowering taxes"; "$500 000 per life".
+    - The program saved 200 lives at $200M, and 400 if it stayed funded, so diverting $100M forgoes an estimated 200 lives. "Earmark the surplus … for saving lives in other ways" is an illustrative sentence, not a condition.
+    - "highest level of moral cleansing (willingness to support organ-donation campaigns) when … made the wrong choice … after thinking about it for a long time"; the administrator chose "between saving the life of a boy and saving the hospital $1 million".
+    - "however unjustified" and "expressed, not a revealed, preference" are verbatim.
+  - Hanselmann & Tanner 2008 (journal.sjdm.org full HTML):
+    - Exp. 1: difficulty taboo 2.34 < routine 2.89 < tragic 5.25; negative emotion routine 2.90, taboo 3.28, tragic 4.75; ps < .05.
+    - Exp. 2: difficulty taboo 3.11 < routine 3.77 < tragic 4.64 (ps < .05); emotion taboo 2.07 vs routine 1.86, "failed to reach significance (p = .326)".
+    - Table 1 decision means: taboo 1.26 and 1.59, tragic 3.71 and 2.79, routine 5.27 (1–7 scale).
+  - Baron & Spranca 1997: verified at research-note level only. The publisher, Baron's site (403), S2 and OpenAlex all lack the abstract text.
+- **Engagement classification**: no named-opponent replies were edited. The Relation section's two-model comparison is now an honest fit comparison rather than a claimed refutation.
+- **Follow-ups (not done; no headroom)**:
+  - Signalling literature (Hoffman, Yoeli & Nowak 2015; Critcher, Inbar & Pizarro 2013; Bartels & Medin 2007) as the main naturalistic rival to the Constitutive Turn.
+  - The review's Issue 9 remainders: L60 "No monotone utility function produces that"; L66 "absence of computation"; L84 Smeele "no taboo penalty at all"; the L102 Liu generalisation; the L72 Luther source.
+  - L48: the difficulty-model sentence ignores conflict models.
+  - The "void of articulation" re-specification.
+  - Whether taboo-void still belongs in three-kinds-of-void's operation-void family ("unexplorable at the operation"), given actuaries and triage physicians. Its lead also calls the void plain "Occluded".
+- **Published**: yes (draft: false unchanged)
 
 ## 12:17 - deep-review
 - **Status**: Success

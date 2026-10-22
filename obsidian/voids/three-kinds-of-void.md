@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-09-29T03:23:16+00:00
+ai_modified: 2026-10-22T12:28:29+00:00
 draft: false
 last_deep_review: 2026-07-19T12:48:10+00:00
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[self-reference-paradox]]"
 ai_contribution: 80
 author: Andy Southgate
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-31
 last_curated: null
 ---
@@ -94,7 +94,7 @@ The three-part taxonomy organises investigation but does not confine it. The [[i
 
 The presence-type manifestation noted in the ineffable-encounter-void turns out to mark a cross-cutting classificatory axis, formalised separately in [[presence-type-and-absence-type-voids]]. Most voids are *absence-type*: cognitive limits registered as the failure of some conscious operation—reaching and not finding. A smaller class is *presence-type*: cognitive limits registered as the overwhelming of some conscious operation—encountering too much, too intensely, or in a modality the evaluative apparatus cannot process. The presence/absence axis is independent of the three-kinds taxonomy. Presence-type voids typically fall under unexplorable-and-occluded jointly, while absence-type voids spread across all three kinds. Together the two axes produce a two-dimensional classification the single taxonomy cannot express.
 
-A further mixed class, which its members call the operation-void family, cross-classifies in a fixed pattern rather than case by case. In each, the content is fully lit and an *operation* on that content is dark: [[fusion-void|fusion]] delivers the fused percept and never the component estimates, [[inference-void|inference]] the conclusion and never the move, [[transit-void|transit]] the arrival and never the crossing, [[decision-void|decision]] the sealed choice and never the snap, [[categorical-perception-void|categorical perception]] the bin and never the gradient it kept. Five later additions share the signature: in the [[blindspot-void]] uptake fails, in the [[causal-impression-void]] the relation never appears, in the [[cross-state-void]] the weight does not cross, in the [[mirth-void]] the reason is built afterwards, in the [[taboo-void]] the comparison is never run. The family is *occluded* at the readout—the default readout delivers the product and does not look at the process—and *unexplorable* at the operation, since the stance that would witness it is the stance that performs it. That fixed pairing is what makes it a family rather than ten coincidences.
+A further mixed class, which its members call the operation-void family, cross-classifies in a fixed pattern rather than case by case. In each, the content is fully lit and an *operation* on that content is dark: [[fusion-void|fusion]] delivers the fused percept and never the component estimates, [[inference-void|inference]] the conclusion and never the move, [[transit-void|transit]] the arrival and never the crossing, [[decision-void|decision]] the sealed choice and never the snap, [[categorical-perception-void|categorical perception]] the bin and never the gradient it kept. Five later additions share the signature: in the [[blindspot-void]] uptake fails, in the [[causal-impression-void]] the relation never appears, in the [[cross-state-void]] the weight does not cross, in the [[mirth-void]] the reason is built afterwards, in the [[taboo-void]] the comparison is never run under its taboo description. The family is *occluded* at the readout—the default readout delivers the product and does not look at the process—and *unexplorable* at the operation, since the stance that would witness it is the stance that performs it. That fixed pairing is what makes it a family rather than ten coincidences.
 
 The taxonomy itself falls under the [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic horizon void]]—the second-order structural limit on estimating how much one does not know. The three-kinds framework is produced from within the limited cognitive system whose limits it describes, and cannot estimate how many further kinds of void might exist that the framework cannot yet conceive. The presence/absence axis was not visible when the taxonomy was first articulated; other axes may be similarly hidden. Treating the framework as permanently provisional rather than complete builds this second-order limit into the Map's self-presentation rather than concealing it behind a closed list.
 
