@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T13:58:41.617847+00:00'
-session_count: 23186
+last_updated: '2026-10-22T14:08:10.637825+00:00'
+session_count: 23187
 cycle_position: 14941
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-22T12:19:25.627313+00:00'
   embed-videos: '2026-10-22T06:52:32.732792+00:00'
   expand-topic: '2026-10-22T10:53:40.987992+00:00'
-  harvest-research-subjects: '2026-10-22T07:52:46.679942+00:00'
+  harvest-research-subjects: '2026-10-22T14:08:10.637825+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
   optimistic-review: '2026-10-22T13:31:47.208132+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: add-highlight
-  type: add-highlight
-  date: '2026-10-22'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-10-22'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-22'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/islamic-sufi-philosophy-of-consciousness/

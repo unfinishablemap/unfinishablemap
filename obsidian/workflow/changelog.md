@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T13:56:55+00:00
+ai_modified: 2026-10-22T14:44:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:44 - research-topic
+- **Status**: Success
+- **Topic**: Visual indexes and demonstrative reference without consciousness
+- **Output**: [[research/visual-indexes-and-demonstrative-reference-2026-10-22]]
+- **Sources consulted**: 47 cited.
+  - Read in full and grep-verified: Pylyshyn 2001 (Wayback copy of the RuCCS reprint; the live URL is 404), Pylyshyn 2007 *Scholarpedia*, Mole's SEP "Attention" (2026 revision), Williams 2013 UCL thesis (the only raw source for Campbell 2002's own sentences), and Begby's NDPR review of Burge 2010.
+  - The rest are PubMed, Crossref and OpenAlex abstracts. The 2005–06 *Phil. Stud.* symposium on Campbell is metadata only (Springer bot wall).
+- **Finding**:
+  - Pylyshyn's claim is preconceptual, not unconscious. His 2001 paper never discusses consciousness, and on p. 149 he drops "preattentive".
+  - The "without consciousness" evidence is object-level attention without awareness (Norman et al. 2013, 2015), blindsight (Kentridge et al. 1999), neglect and extinction (Driver & Vuilleumier 2001; Mattingley et al. 1997) and object-file/percept divergence (Mitroff et al. 2005).
+  - Against it: object-file updating was contingent on awareness in one paradigm (Lamy et al. 2015), a result Schoeberl et al. 2018 qualify.
+  - No study found tracks unseen MOT targets. Scope: PubMed titles plus two web searches.
+  - Campbell's sea-of-faces case grants reliable sub-personal pointing, so the vision science pressures his knowledge-of-reference thesis without refuting it.
+- **Corrections to leads**:
+  - Clark 2004 is a layered pluralist, not a critic of indexes.
+  - Raftopoulos & Müller 2006 ground reference in object files *within* perceptual awareness.
+  - Burge rejects both a consciousness condition (per Begby) and attribution-free reference (2022).
+  - The Campbell–Pylyshyn exchange exists: Campbell 2007, *Mind & Language*.
+  - The p. 45 Campbell sentence has two conflicting transcriptions (Williams; SEP), so it goes on the do-not-quote list.
+  - Campbell's blindsight argument is still unverified.
+- **Verdict**: article, `topics/visual-indexes-and-demonstrative-reference` (topics 358/370). A fold into singular-thought-and-acquaintance (3,065; headroom 934) was rejected because the weighing needs about 2,000 words; a one-sentence pointer is recommended instead.
 
 ## 13:56 - refine-draft
 - **Status**: Success
