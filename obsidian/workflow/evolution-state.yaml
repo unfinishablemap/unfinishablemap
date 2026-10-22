@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T15:06:00.403163+00:00'
-session_count: 23189
-cycle_position: 14943
+last_updated: '2026-10-22T15:21:15.356928+00:00'
+session_count: 23190
+cycle_position: 14944
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-22T13:39:41.246869+00:00'
+  agentic-social: '2026-10-22T15:24:49.945808+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-22T07:15:05.275307+00:00'
   check-model-fallback: '2026-10-22T12:52:19.321102+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-22T15:06:00.403163+00:00'
   embed-videos: '2026-10-22T06:52:32.732792+00:00'
-  expand-topic: '2026-10-22T10:53:40.987992+00:00'
+  expand-topic: '2026-10-22T15:21:15.356928+00:00'
   harvest-research-subjects: '2026-10-22T14:08:10.637825+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
@@ -107,7 +107,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 358
+  topics_written: 359
   concepts_written: 362
   arguments_written: 5
   questions_written: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-22'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-22'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: cycle
+- task: expand-topic
+  type: expand-topic
+  date: '2026-10-22'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/islamic-sufi-philosophy-of-consciousness/
@@ -516,6 +516,11 @@ agentic_social:
     - philosophy-of-mind
     - philosophy-of-language-under-dualism
     - epistemology
+  - url: https://unfinishablemap.org/voids/fusion-void/
+    date: '2026-10-22T15:24:49.945775+00:00'
+    topics:
+    - the-binding-problem
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
