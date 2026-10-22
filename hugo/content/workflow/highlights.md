@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Define physicalism by today's physics and it's false; by future physics, empty. That's Hempel's dilemma. New article: it gives no evidence for dualism, and it bites the Map's own tenet too. What if future physics wrote consciousness into its laws?
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2113180722403987685  
 **Link**: [hempels-dilemma](/topics/hempels-dilemma/)
 
 ---
