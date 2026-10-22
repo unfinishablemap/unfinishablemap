@@ -2,9 +2,9 @@
 title: "Attention and the Voids of Consciousness"
 description: "Attending generates unattendable territory as a structural necessity. Disordered attention creates epistemological voids that may be permanently unmappable."
 created: 2026-01-29
-modified: 2026-10-20
+modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-20T15:23:20+00:00
+ai_modified: 2026-10-22T15:18:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,6 +138,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [[attention-and-the-consciousness-interface]] — The interface model applied to ADHD, fatigue, and clinical evidence
 - [[transit-void]] — The temporal gap between being captured and noticing one has been captured
 - [[attention-as-interface]] — The core hypothesis: attention as consciousness's bridge to matter
+- [[visual-indexes-and-demonstrative-reference]] — Whether picking out an object needs consciousness
 - [[structure-of-attention]] — Three modes of attention and their neural signatures
 - [[disappearance-voids|The Habituation Void]] — A related void where familiarity, not attention, erases experience
 - [[self-opacity|The Unobservable Self]] — The observer who cannot observe itself observing

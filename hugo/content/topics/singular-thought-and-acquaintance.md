@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-21 15:48:47+00:00
+ai_modified: 2026-10-22 15:18:50+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[content-externalism]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-10-21
-date: &id001 2026-10-21
+date: &id001 2026-10-22
 description: 'Must you be acquainted with a thing to think about it? A human-AI reading:
   the more phenomenal the acquaintance, the less singular thought it allows, so consciousness
   enters via the thinker.'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 15:48:47+00:00
-lastmod: 2026-10-21 15:48:47+00:00
+lastmod: 2026-10-22 15:18:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ Hawthorne and Manley (2012) go furthest. Their *liberalism about singular though
 
 A phenomenal condition plausibly survives in perceptual demonstrative thought. Campbell (2002) argues that "Conscious attention to an object, singling it out in experience, provides knowledge of the reference of a demonstrative term", and that "only experience of objects can provide this kind of acquaintance with individual substances." Smithies (2011) examines three accounts, Evans's, Campbell's and his own, which "agree that consciousness is essential for demonstrative thought, but disagree about why it is." His own gives consciousness an *epistemic* role: it enables "the subject to form immediately justified beliefs about the object".
 
-The thesis is contested. Barkasi (2019) argues that "experience is not the only way in which visual information could be accessed" for the voluntary control of attention. Neither Campbell nor Smithies supports dualism. Campbell defends the relational view of experience, which [naturalist-relationalism](/concepts/naturalist-relationalism/) engages as a non-dualist rival, and Smithies's argument concerns justification. They give independent, non-dualist support for consciousness-dependence in this one domain, and no further.
+The thesis is contested. Barkasi (2019) argues that "experience is not the only way in which visual information could be accessed" for the voluntary control of attention. Vision science presses from another side: Pylyshyn's preconceptual visual indexes, with evidence of object-level attention without awareness, suggest that selecting an object needs no consciousness, though Campbell's claim concerns knowing which object is meant ([visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/)). Neither Campbell nor Smithies supports dualism. Campbell defends the relational view of experience, which [naturalist-relationalism](/concepts/naturalist-relationalism/) engages as a non-dualist rival, and Smithies's argument concerns justification. They give independent, non-dualist support for consciousness-dependence in this one domain, and no further.
 
 ## The Scope–Phenomenality Trade-off {#trade-off}
 
@@ -124,6 +124,7 @@ The decisive test has not been run. If the proposal is right, a name coined in c
 - [whether-language-model-words-refer](/topics/whether-language-model-words-refer/) — derived reference for LLM words
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — acquaintance with qualities; the dualist step
 - [naturalist-relationalism](/concepts/naturalist-relationalism/) — Campbell's relationalism as a rival
+- [visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/) — visual indexes against Campbell's attention thesis
 - [intentionality](/concepts/intentionality/) — moderate PIT
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — *de se* knowledge, distinct from *de re* thought
 - [immunity-to-error-through-misidentification](/concepts/immunity-to-error-through-misidentification/) — Evans on first-person judgement

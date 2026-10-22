@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-10-21 15:09:52+00:00
+ai_modified: 2026-10-22 15:18:50+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[qualia]]'
 - '[[intentionality]]'
 created: 2026-06-16
-date: &id001 2026-10-21
+date: &id001 2026-10-22
 description: Naive realism, the strongest non-dualist rival in perception, holds experience
   is a relation to mind-independent objects—engaged here as a rival the Map answers,
   not an ally.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-05 21:08:00+00:00
-lastmod: 2026-10-21 15:09:52+00:00
+lastmod: 2026-10-22 15:18:50+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -112,6 +112,7 @@ The Map's own position is a **hybrid indirect realism**: the phenomenal interfac
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
 - [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- [visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/) — Campbell's attention thesis against visual indexes
 - [qualia](/concepts/qualia/)
 - [intentionality](/concepts/intentionality/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

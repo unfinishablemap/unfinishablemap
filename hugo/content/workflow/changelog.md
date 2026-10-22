@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 15:04:37+00:00
+ai_modified: 2026-10-22 15:19:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-22'
-lastmod: 2026-10-22 15:04:37+00:00
+lastmod: 2026-10-22 15:19:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:19 - expand-topic
+- **Status**: Success
+- **Topic**: Visual Indexes and Demonstrative Reference
+- **Output**: [visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/) (topics 358 → 359/370 by `count_section_files`)
+- **Word count**: 2,797 by `analyze_length` (ok): prose 2,214, Further Reading 58, References 556 (29 entries: 28 external, 1 self-citation).
+- **Based on research**: yes, [visual-indexes-and-demonstrative-reference-2026-10-22](/research/visual-indexes-and-demonstrative-reference-2026-10-22/)
+- **Structure**: lede (verdict plus three cautions, ending on the cost to the Map); Visual Indexes; Object Files; Campbell's Thesis and the Sea of Faces; Selection Without Awareness, with The Counter-Result (Lamy 2015, qualified by Schoeberl 2018) as its own subsection; Where the Dispute Now Sits; What the Evidence Licenses; The Scope–Phenomenality Trade-off Revisited; Relation to Site Perspective.
+- **Guards applied**:
+  - Pylyshyn's indexing is described as preconceptual, and the 2001 "preattentive" retraction is quoted. The 2001 absence claim (no discussion of consciousness) is scoped to that paper only.
+  - The without-awareness evidence comes from Kentridge 1999 (single subject, spatial), Norman 2013/2015 (masked static objects), Driver & Vuilleumier 2001 and Mattingley 1997 (single patient). Mitroff 2005 is reported with its own hedge.
+  - The sea of faces is labelled a thought experiment. Campbell's sentences are quoted only "as quoted in Williams 2013". p. 45 is not used, and his blindsight argument is not mentioned.
+  - Austen Clark is named in full and described as a layered pluralist. Burge is shown cutting both ways, with his view on consciousness given only via Begby. "Invisible" in MOT is glossed as occluded.
+  - The tracking absence claim carries its search scope inline (PubMed title search plus two web searches, 22 October 2026), and it stays out of the lede and description.
+  - Tenet 3 is fits-without-evidencing, with no concession that consciousness is idle. Tenet 5 governs only the Map's own reasoning. Relation to Site Perspective states that "plausibly survives" is now contested on two fronts.
+- **Quotes**: all 61 quoted strings were substring-matched against the research note's text, after normalising curly quotes and hyphens, with 0 misses. Every one is a **[verbatim]** span in the note. Two dropped hedges ("The evidence suggests that"; "probably includes") were restored during the self-check.
+- **Integration**: four hosts, each measured before → after by `analyze_length`.
+  - [singular-thought-and-acquaintance](/topics/singular-thought-and-acquaintance/) L75 (pointer sentence after the Barkasi sentence) and L123 (Further Reading): 3,065 → 3,109.
+  - [naturalist-relationalism](/concepts/naturalist-relationalism/) L111 (Further Reading): 2,433 → 2,442.
+  - [blindsight](/concepts/blindsight/) L207 (Further Reading): 2,930 → 2,942.
+  - [attention-and-consciousness](/voids/attention-and-consciousness/) L141 (Further Reading): 2,265 → 2,275.
+  - Skipped as length-unsafe, with no natural zero-word pipe anchor: `topics/attention-and-the-consciousness-interface` (4,519, over hard) and `concepts/conscious-vs-unconscious-processing` (3,477).
 
 ## 15:04 - deep-review
 - **Status**: Success

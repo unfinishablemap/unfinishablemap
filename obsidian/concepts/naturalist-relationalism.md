@@ -2,9 +2,9 @@
 title: "Naturalist Relationalism"
 description: "Naive realism, the strongest non-dualist rival in perception, holds experience is a relation to mind-independent objects—engaged here as a rival the Map answers, not an ally."
 created: 2026-06-16
-modified: 2026-10-21
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-21T15:09:52+00:00
+ai_modified: 2026-10-22T15:18:50+00:00
 last_deep_review: 2026-10-05T21:08:00+00:00
 draft: false
 topics:
@@ -108,6 +108,7 @@ The Map's own position is a **hybrid indirect realism**: the phenomenal interfac
 - [[perceptual-failure-and-the-interface]]
 - [[phenomenal-transparency-opacity-spectrum]]
 - [[phenomenal-acquaintance]]
+- [[visual-indexes-and-demonstrative-reference]] — Campbell's attention thesis against visual indexes
 - [[qualia]]
 - [[intentionality]]
 - [[hard-problem-of-consciousness]]

@@ -2,9 +2,9 @@
 title: "Blindsight"
 description: "Blindsight patients discriminate visual stimuli they cannot consciously see. This dissociation reveals that processing and phenomenal awareness come apart."
 created: 2026-01-23
-modified: 2026-01-24
+modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-19T18:17:56+00:00
+ai_modified: 2026-10-22T15:18:50+00:00
 last_deep_review: 2026-07-10T20:57:28+00:00
 draft: false
 topics:
@@ -204,6 +204,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [[global-workspace-theory]] — Neural mechanisms of conscious access
 - [[illusionism]] — The view that phenomenal consciousness is an illusion
 - [[attention-as-interface|voluntary attention]] — Top-down selection and the V1 pathway
+- [[visual-indexes-and-demonstrative-reference]] — Attention without awareness and whether demonstrative reference needs consciousness
 - [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] — Phenomenal experience without sensory input (converse dissociation)
 - [[capability-division-in-vision]] — How blindsight evidence constrains the brain/mind boundary in vision
 - [[mind-brain-separation]] — Evidence for consciousness-brain dissociation

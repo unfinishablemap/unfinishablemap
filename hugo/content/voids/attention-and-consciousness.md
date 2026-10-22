@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-10-20 15:23:20+00:00
+ai_modified: 2026-10-22 15:18:50+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
@@ -15,14 +15,14 @@ concepts:
 - '[[mental-effort]]'
 - '[[interface-friction]]'
 created: 2026-01-29
-date: &id001 2026-10-20
+date: &id001 2026-10-22
 description: Attending generates unattendable territory as a structural necessity.
   Disordered attention creates epistemological voids that may be permanently unmappable.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 06:53:21+00:00
-lastmod: 2026-10-20 15:23:20+00:00
+lastmod: 2026-10-22 15:18:50+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -141,6 +141,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The interface model applied to ADHD, fatigue, and clinical evidence
 - [transit-void](/voids/transit-void/) — The temporal gap between being captured and noticing one has been captured
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
+- [visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/) — Whether picking out an object needs consciousness
 - [structure-of-attention](/topics/structure-of-attention/) — Three modes of attention and their neural signatures
 - [The Habituation Void](/voids/disappearance-voids/) — A related void where familiarity, not attention, erases experience
 - [The Unobservable Self](/voids/self-opacity/) — The observer who cannot observe itself observing

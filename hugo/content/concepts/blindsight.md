@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-19 18:17:56+00:00
+ai_modified: 2026-10-22 15:18:50+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[disconnection-neuroscience]]'
 created: 2026-01-23
-date: &id001 2026-01-24
+date: &id001 2026-10-22
 description: Blindsight patients discriminate visual stimuli they cannot consciously
   see. This dissociation reveals that processing and phenomenal awareness come apart.
 draft: false
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 20:57:28+00:00
-lastmod: 2026-10-19 18:17:56+00:00
+lastmod: 2026-10-22 15:18:50+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -207,6 +207,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Neural mechanisms of conscious access
 - [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is an illusion
 - [voluntary attention](/concepts/attention-as-interface/) — Top-down selection and the V1 pathway
+- [visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/) — Attention without awareness and whether demonstrative reference needs consciousness
 - [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) — Phenomenal experience without sensory input (converse dissociation)
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — How blindsight evidence constrains the brain/mind boundary in vision
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Evidence for consciousness-brain dissociation
