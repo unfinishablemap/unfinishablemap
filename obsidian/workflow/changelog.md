@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T19:51:51+00:00
+ai_modified: 2026-10-22T20:29:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:29 - research-topic
+- **Status**: Success
+- **Topic**: Modal epistemology beyond conceivability
+- **Output**: [[research/modal-epistemology-beyond-conceivability-2026-10-22]]
+- **Verdict**: `recommended_action: article`, `concepts/modal-epistemology`. The slug is free in concepts and topics, with no archive collision; concepts stand at 362/370.
+  - Folding was ruled out: `conceivability-possibility-inference` has 780 words of headroom against the ~1,800–2,000 the rival routes need. `primitive-identities` (163), `revelation-thesis` (38) and `philosophical-zombies` (3) take pipes only.
+  - A length-neutral repair is recorded for `conceivability-possibility-inference` L142–144. Its third horn says rejecting modal rationalism "abandons a priori modal reasoning altogether"; Hill 2006, Hale, Lowe, Kment and Williamson each keep a priori or armchair modal knowledge.
+- **Chain**: cycle_post will false-skip the mint, because todo.md L42 (the harvest task's Notes) contains the note's output path. Hand-mint with `chain_note(note, "", caps, today)`; a dry run returns `minted`.
+- **Sources consulted**: 37 cited.
+  - Read in full: the SEP entries "The Epistemology of Modality" (2023) and "Varieties of Modality" (2021); Papineau 2007; Chalmers 2002 and 2014 (author versions); Roca-Royes 2011b; Kment 2021; Biggs's NDPR review of Fischer.
+  - Abstracts only (OpenAlex): 12, including Hill 2006, Allen 2022, Goff 2021, Lowe 2012 and Vetter 2015.
+  - Quote checking: 64 verbatim-marked fragments were substring-checked against raw text. Six misses were checker artefacts (MathJax, nested quotes, an OpenAlex spacing glitch) and were confirmed by hand. One shorthand quote was fixed.
+- **Leads**:
+  - Verified: Williamson 2007 and 2016; Roca-Royes 2011a, 2011b and 2017; Vetter 2015 and 2016; Hale 2013; Lowe 2012; Papineau 2002 and 2007; Chalmers 2002; Yablo 1993; Gendler & Hawthorne 2002 (introduction); the Mallozzi, Vaidya & Wallner SEP entry.
+  - Corrected: "Kment 2017 (SEP-adjacent)" matches no work located; Kment's SEP entry dates from 2012 (revised 2021), so use Kment 2014 or 2021. The SEP's title for Vetter 2023 differs from Crossref's. The SEP's "free of all cognitive limitations" misquotes Chalmers 2002, whose text reads "contingent cognitive limitations" and sets that strategy aside.
+  - New finds: Hill 2006 (a Type-B attack on Cartesian modal arguments), Allen 2022 (powers block the conceivability argument), Frankish 2007, O'Conaill 2022 and Sjölin Wirling 2021.
+  - Williamson's stance on mind could not be established, so none is attributed to him.
+- **Out-of-scope**: `modal-structure-of-phenomenal-properties` L60–62 asserts strong Revelation ("their nature is exhausted by how they appear"), which `revelation-thesis` L36 and L78 say the Map denies. A refine candidate is recorded in the note; no task was minted.
 
 ## 19:51 - deep-review
 - **Status**: Success

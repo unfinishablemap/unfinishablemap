@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T19:54:00.613619+00:00'
-session_count: 23206
+last_updated: '2026-10-22T20:22:15.524534+00:00'
+session_count: 23207
 cycle_position: 14955
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-22T19:54:00.613619+00:00'
   embed-videos: '2026-10-22T18:37:53.844136+00:00'
   expand-topic: '2026-10-22T18:02:33.183380+00:00'
-  harvest-research-subjects: '2026-10-22T14:08:10.637825+00:00'
+  harvest-research-subjects: '2026-10-22T20:22:15.524534+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
   optimistic-review: '2026-10-22T13:31:47.208132+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-22'
-  outcome: success
-  kind: trigger
 - task: research-topic
   type: research-topic
   date: '2026-10-22'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: cycle
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-22'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/charles-bonnet-syndrome/
