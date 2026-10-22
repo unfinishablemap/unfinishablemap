@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-22T21:02:55.418849+00:00'
-session_count: 23210
+last_updated: '2026-10-22T21:22:13.728994+00:00'
+session_count: 23211
 cycle_position: 14957
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-22T20:39:32.895679+00:00'
   apex-evolve: '2026-10-21T06:26:38.330665+00:00'
   check-links: '2026-10-22T07:15:05.275307+00:00'
-  check-model-fallback: '2026-10-22T17:07:16.032508+00:00'
+  check-model-fallback: '2026-10-22T21:22:13.728994+00:00'
   check-tenets: '2026-10-21T18:54:53.405966+00:00'
   coalesce: '2026-10-22T15:40:45.946295+00:00'
   collect-chatgpt-review: '2026-10-22T04:10:07.268870+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-22'
-  outcome: success
-  kind: agentic_social
 - task: coalesce
   type: coalesce
   date: '2026-10-22'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-22'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-22'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/immunity-to-error-through-misidentification/
