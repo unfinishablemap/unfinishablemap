@@ -4,7 +4,7 @@ description: "How the conceivability argument against physicalism functions as a
 created: 2026-02-23
 modified: 2026-10-02
 human_modified:
-ai_modified: 2026-10-10T03:49:22+00:00
+ai_modified: 2026-10-22T22:44:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,7 +99,7 @@ Chalmers sharpened the master argument using two-dimensional semantics, distingu
 
 If it holds, this blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. The master argument's claim is that with consciousness no such gap opens: if zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible, unless the [[#Type-F Monism: Deny Non-Entailment|type-F exit]] above is taken.
 
-The weight falls on the second step: the move from primary conceivability to primary possibility, Chalmers's thesis that a conceivable statement is verified by some centred world. A Type-B physicalist who grants conceivability can resist only by positing [[primitive-identities-and-strong-necessities#Strong Necessities|strong necessities]]; denying that thesis is "the only hope for the type-B materialist" (2003, §6). The [[phenomenal-concepts-strategy|phenomenal concepts strategy]] is the main attempt to make such resistance principled: it explains the epistemic gap by the special nature of phenomenal concepts, and need not deny the coincidence — Loar's version grants that phenomenal concepts have the same primary and secondary intension (1999, §3.4). Whether that explanation avoids special pleading remains contested; the [[#Why the Argument Has Been Hard to Defeat|PCS engagement below]] takes it up directly.
+The weight falls on the second step: [[modal-epistemology|the move from primary conceivability to primary possibility]], Chalmers's thesis that a conceivable statement is verified by some centred world. A Type-B physicalist who grants conceivability can resist only by positing [[primitive-identities-and-strong-necessities#Strong Necessities|strong necessities]]; denying that thesis is "the only hope for the type-B materialist" (2003, §6). The [[phenomenal-concepts-strategy|phenomenal concepts strategy]] is the main attempt to make such resistance principled: it explains the epistemic gap by the special nature of phenomenal concepts, and need not deny the coincidence — Loar's version grants that phenomenal concepts have the same primary and secondary intension (1999, §3.4). Whether that explanation avoids special pleading remains contested; the [[#Why the Argument Has Been Hard to Defeat|PCS engagement below]] takes it up directly.
 
 ## Why the Argument Has Been Hard to Defeat
 

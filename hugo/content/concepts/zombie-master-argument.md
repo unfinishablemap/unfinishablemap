@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-10 03:49:22+00:00
+ai_modified: 2026-10-22 22:44:51+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:16:22+00:00
-lastmod: 2026-10-10 03:49:22+00:00
+lastmod: 2026-10-22 22:44:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Chalmers sharpened the master argument using two-dimensional semantics, distingu
 
 If it holds, this blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. The master argument's claim is that with consciousness no such gap opens: if zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible, unless the [type-F exit](#type-f-monism-deny-non-entailment) above is taken.
 
-The weight falls on the second step: the move from primary conceivability to primary possibility, Chalmers's thesis that a conceivable statement is verified by some centred world. A Type-B physicalist who grants conceivability can resist only by positing [strong necessities](/concepts/primitive-identities-and-strong-necessities/#strong-necessities); denying that thesis is "the only hope for the type-B materialist" (2003, §6). The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) is the main attempt to make such resistance principled: it explains the epistemic gap by the special nature of phenomenal concepts, and need not deny the coincidence — Loar's version grants that phenomenal concepts have the same primary and secondary intension (1999, §3.4). Whether that explanation avoids special pleading remains contested; the [PCS engagement below](#why-the-argument-has-been-hard-to-defeat) takes it up directly.
+The weight falls on the second step: [the move from primary conceivability to primary possibility](/concepts/modal-epistemology/), Chalmers's thesis that a conceivable statement is verified by some centred world. A Type-B physicalist who grants conceivability can resist only by positing [strong necessities](/concepts/primitive-identities-and-strong-necessities/#strong-necessities); denying that thesis is "the only hope for the type-B materialist" (2003, §6). The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) is the main attempt to make such resistance principled: it explains the epistemic gap by the special nature of phenomenal concepts, and need not deny the coincidence — Loar's version grants that phenomenal concepts have the same primary and secondary intension (1999, §3.4). Whether that explanation avoids special pleading remains contested; the [PCS engagement below](#why-the-argument-has-been-hard-to-defeat) takes it up directly.
 
 ## Why the Argument Has Been Hard to Defeat
 

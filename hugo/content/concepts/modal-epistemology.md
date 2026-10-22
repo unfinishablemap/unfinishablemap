@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-22
-ai_modified: 2026-10-22 22:31:14+00:00
+ai_modified: 2026-10-22 22:44:51+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -22,8 +22,8 @@ description: 'How we know what is possible: counterfactual, essentialist, empiri
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-10-22 22:31:14+00:00
-lastmod: 2026-10-22 22:31:14+00:00
+last_deep_review: 2026-10-22 22:44:51+00:00
+lastmod: 2026-10-22 22:44:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ Applied to zombies, as the Map's inference: there is no actual counterpart to in
 
 Vetter grounds possibility in the potentialities of actual things: "it is possible that p if and only if something has (or had, or will have) an iterated potentiality for p" (2015). Her later account bases modal knowledge on knowledge of our abilities and of the dispositions of things around us; in the SEP's words on that 2023 account, "Modal knowledge is, thus, for Vetter, distinctively empirical". Vetter stresses that it is ambitious, unlike the modest accounts; no Vetter text on zombies is cited here. Applied by the Map: a zombie world would be possible only if something actual had an iterated potentiality for it, and conceiving does not settle that.
 
-Allen (2022) makes the application directly, arguing that "the conception of properties as powerful blocks conceivability arguments unless a rather implausible form of emergence is true", so that physicalist powers theorists need not be troubled by the conceivability argument. Drawing only on her abstract, this page leaves open which form of emergence she means and whether interactionist dualism is that form.
+Allen (2022) makes the application directly, for powerful qualities and pure powers alike: "the conception of properties as powerful blocks conceivability arguments unless a rather implausible form of emergence is true". The exception is phenomenal properties produced by physical ones "in virtue of a contingent form of emergence which mimics the behaviour of categorical properties"; supervenient and causal emergence, nomologically necessary on a powers view, do not qualify. She writes for physicalists, noting that her argument's success would not make powers theories inconsistent with dualism.
 
 ### Theory-based accounts: Fischer
 
@@ -128,7 +128,7 @@ The tenet at stake is [Dualism](/tenets/#dualism), which the Map holds as a comm
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits) does not answer these accounts.** They make no appeal to simplicity; they concern access to modal facts. The tenet binds the Map's own reasoning here: it forbids preferring modal rationalism because one space of worlds is simpler than two.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises one question. If Allen is right that powers block conceivability arguments except under some implausible emergence, an interactionist consciousness with [powers](/concepts/causal-powers/) of its own might be that exception. Such a reading would fit the tenet without evidencing it. The other tenets have no bearing on the question.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises one question. A consciousness with [powers](/concepts/causal-powers/) of its own does not thereby fall under Allen's exception: she treats non-physical phenomenal powers, efficacious or epiphenomenal, with her pure-powers arguments, and a world where the physical does not produce the phenomenal is "one where dualism is true", "not a relevant starting point for the conceivability argument". The exception needs contingent, brute production of the phenomenal by the physical. That bears on the Map's [pairing of powerful qualities with contingent governing laws](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/), chosen partly because a zombie world is conceivable; this page leaves that question open. Neither answer would evidence the tenet. The other tenets have no bearing on the question.
 
 ## Further Reading
 
@@ -143,7 +143,7 @@ The tenet at stake is [Dualism](/tenets/#dualism), which the Map holds as a comm
 
 ## References
 
-1. Allen, S. R. (2022). Powers and the hard problem of consciousness: conceivability, possibility and powers. *European Journal for Philosophy of Science*, 12(2), 28. https://doi.org/10.1007/s13194-022-00451-3 (abstract only)
+1. Allen, S. R. (2022). Powers and the hard problem of consciousness: conceivability, possibility and powers. *European Journal for Philosophy of Science*, 12(2), 28. https://doi.org/10.1007/s13194-022-00451-3 (read in full)
 2. Biggs, S. (2017). Review of Bob Fischer, *Modal Justification via Theories*. *Notre Dame Philosophical Reviews*, 2017.06.23. https://ndpr.nd.edu/reviews/modal-justification-via-theories-3/
 3. Chalmers, D. J. (2002). Does conceivability entail possibility? In T. S. Gendler & J. Hawthorne (Eds.), *Conceivability and Possibility* (pp. 145–200). Oxford University Press. https://doi.org/10.1093/oso/9780198250890.003.0004 (quoted from the author's version, https://consc.net/papers/conceivability.html)
 4. Chalmers, D. J. (2007). Phenomenal concepts and the explanatory gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge* (pp. 167–194). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195171655.003.0009

@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T21:40:12+00:00
+ai_modified: 2026-10-22T22:46:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:46 - deep-review (cross-review remainder)
+- **Status**: Success
+- **File**: [[concepts/modal-epistemology]]
+- **Task**: P2 queue cross-review (todo.md 0-based index 2984), remainder only after the 22:33 cycle pass. Quotes from that pass were not re-checked, and settled wording was not re-edited.
+- **Word count**: 3012 → 3098 (+86); prose 2510 → 2595, References +1. Concepts soft 2500 / hard 3500.
+- **Allen 2022 read in full.** The accepted manuscript was read from the Wayback copy of PhilSci-Archive eprint 20248. The published Springer HTML was taken from its Wayback copy (2025-12-14), and 20 quotes were substring-verified against it. The implausible emergence is "a contingent form of emergence which mimics the behaviour of categorical properties". Supervenient and causal emergence are nomologically necessary on powers. The argument covers powerful qualities, actualist pure powers, non-actualist pure powers and Platonist powers. Allen says her argument does not make powers theories inconsistent with dualism, and treats efficacious non-physical phenomenal powers with her pure-powers responses.
+- **Critical issues addressed**: 2
+  - L83: the abstract-only disclosure was replaced by Allen's scope, her named exception and her dualism caveat. The old "physicalist powers theorists need not be troubled" had dropped the abstract's "most, if not all".
+  - L127: the speculation that an interactionist consciousness "might be that exception" was contrary to her text. The paragraph now says that causal efficacy does not meet the exception and that contingent production does. It points to the Map's governing-laws pairing and leaves that question open, without resolving it.
+- **Other**: Reference 1 "(abstract only)" → "(read in full)".
+- **Inbound links** (zero-word pipes, lengths unchanged): [[concepts/zombie-master-argument]] L102 (3217); [[concepts/kripke-a-posteriori-necessity-argument]] L61 (2351; L43 untouched); [[positions/arguments-for-dualism]] L47 P-D1 *Asserts* (2497, hard 2500; no `Updated` note, since no wording or band changed).
+- **Follow-up (NEEDS-HUMAN, for the driver to file)**: Allen's §4.3.1 bears on the Map's own pairing of powerful qualities with contingent governing laws ([[concepts/causal-powers]] L79; [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]] L96–102, L126, L142). That pairing is selected because a zombie world is conceivable.
+- **Output**: [[reviews/deep-review-2026-10-22-modal-epistemology]] (addendum)
 
 ## 22:33 - deep-review
 - **Status**: Success

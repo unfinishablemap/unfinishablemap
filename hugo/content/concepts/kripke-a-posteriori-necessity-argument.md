@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-10-07 22:53:51+00:00
+ai_modified: 2026-10-22 22:44:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 06:35:32+00:00
-lastmod: 2026-10-07 22:53:51+00:00
+lastmod: 2026-10-22 22:44:51+00:00
 modified: *id001
 related_articles:
 - knowledge-argument
@@ -71,7 +71,7 @@ The Map's [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/
 
 ## The Conceivability-to-Possibility Reply
 
-A second reply grants Kripke the no-appearance/reality-gap point but challenges the inference from conceivability to metaphysical possibility. Even if pain is individuated by its feel, the step from "we can conceive pain without C-fibres" to "it is metaphysically possible that pain occur without C-fibres" is exactly the inference a-posteriori necessity was meant to block elsewhere: we can *conceive* water without hydrogen, yet "water is H2O" is necessary. The materialist argues the conceivability in the pain case is no better licensed. The Map's [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) page treats the conditions under which this bridge holds; its verdict is that the inference is defensible in the phenomenal case but not cheap, which is why no single conceivability argument is treated as decisive.
+A second reply grants Kripke the no-appearance/reality-gap point but challenges [the inference from conceivability to metaphysical possibility](/concepts/modal-epistemology/). Even if pain is individuated by its feel, the step from "we can conceive pain without C-fibres" to "it is metaphysically possible that pain occur without C-fibres" is exactly the inference a-posteriori necessity was meant to block elsewhere: we can *conceive* water without hydrogen, yet "water is H2O" is necessary. The materialist argues the conceivability in the pain case is no better licensed. The Map's [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) page treats the conditions under which this bridge holds; its verdict is that the inference is defensible in the phenomenal case but not cheap, which is why no single conceivability argument is treated as decisive.
 
 ## Relation to Site Perspective
 

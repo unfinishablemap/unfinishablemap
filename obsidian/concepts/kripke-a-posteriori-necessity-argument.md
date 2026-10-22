@@ -4,7 +4,7 @@ description: "How Kripke's modal argument turns rigid designation and a-posterio
 created: 2026-07-12
 modified: 2026-10-07
 human_modified:
-ai_modified: 2026-10-07T22:53:51+00:00
+ai_modified: 2026-10-22T22:44:51+00:00
 draft: false
 topics:
   - "[[arguments-against-materialism]]"
@@ -58,7 +58,7 @@ The Map's [[phenomenal-concepts-strategy]] page assesses this reply in detail, i
 
 ## The Conceivability-to-Possibility Reply
 
-A second reply grants Kripke the no-appearance/reality-gap point but challenges the inference from conceivability to metaphysical possibility. Even if pain is individuated by its feel, the step from "we can conceive pain without C-fibres" to "it is metaphysically possible that pain occur without C-fibres" is exactly the inference a-posteriori necessity was meant to block elsewhere: we can *conceive* water without hydrogen, yet "water is H2O" is necessary. The materialist argues the conceivability in the pain case is no better licensed. The Map's [[conceivability-possibility-inference]] page treats the conditions under which this bridge holds; its verdict is that the inference is defensible in the phenomenal case but not cheap, which is why no single conceivability argument is treated as decisive.
+A second reply grants Kripke the no-appearance/reality-gap point but challenges [[modal-epistemology|the inference from conceivability to metaphysical possibility]]. Even if pain is individuated by its feel, the step from "we can conceive pain without C-fibres" to "it is metaphysically possible that pain occur without C-fibres" is exactly the inference a-posteriori necessity was meant to block elsewhere: we can *conceive* water without hydrogen, yet "water is H2O" is necessary. The materialist argues the conceivability in the pain case is no better licensed. The Map's [[conceivability-possibility-inference]] page treats the conditions under which this bridge holds; its verdict is that the inference is defensible in the phenomenal case but not cheap, which is why no single conceivability argument is treated as decisive.
 
 ## Relation to Site Perspective
 

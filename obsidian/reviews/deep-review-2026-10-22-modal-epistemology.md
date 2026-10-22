@@ -3,7 +3,7 @@ title: "Deep Review - Modal Epistemology Beyond Conceivability"
 created: 2026-10-22
 modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-22T22:31:14+00:00
+ai_modified: 2026-10-22T22:44:51+00:00
 draft: false
 topics: []
 concepts: []
@@ -138,3 +138,26 @@ There is no label leakage; a grep for all forbidden editor labels returned zero 
 - The "falls toward nothing" sentence on the modal cluster (L121) is a deliberate downward calibration matching P-D1's "fail together" concession. Do not re-flag it as over-concession.
 - The Fischer table row stays "Map's inference". His reported scepticism concerns "I could have been disembodied", a parallel claim, not zombies. Do not upgrade it to "Fischer's own" without his text.
 - The "on one answer" framing of the SEP Dependence-Question quote was checked and is acceptable. The quote is the SEP's statement of Vaidya and Wallner's critical point, which is substantively the essentialist answer.
+
+## Addendum: cross-review remainder (22:45 UTC)
+
+**Allen 2022 read in full.** Springer served a JavaScript challenge, and PhilSci-Archive, PhilArchive and CORE returned 403 or a challenge page. Unpaywall and OpenAlex listed the PhilSci-Archive accepted manuscript (eprint 20248). Its Wayback snapshot of 2025-10-12 (40 pp.) was read end to end. The published Springer HTML was then extracted from its Wayback snapshot of 2025-12-14 (published 30 March 2022; vol. 12, art. 28). Every quote and paraphrase anchor used below was substring-verified against that published text, and a negative control returned a miss as expected.
+
+- **Which emergence is implausible.** Phenomenal properties produced by physical ones "in virtue of a contingent form of emergence which mimics the behaviour of categorical properties" (Conclusion), that is, "contingent, brute production of phenomenal properties by physical ones" (section "Emergent phenomenal powers"). On a powers view, supervenient emergence (van Cleve, McLaughlin) and causal emergence (O'Connor) hold with nomological necessity, so they do not restore zombies. Fusion emergence (Humphreys) probably necessitates as well.
+- **Scope.** The argument covers powerful qualities as well as pure powers. Powerful qualities "behave in a similar way to Russellian Monist theories", so the argument stops at premise 1 (Carruth) or lands in the Russellian-Monism disjunct of premise 3. It also covers actualist pure powers (strong necessities defeat the Conceivability Principle), non-actualist pure powers (zombie worlds need alien powers) and Platonist powers. On the identity thesis, the contingent-fusion escape "would not … work".
+- **Dualism.** Allen says that "nor does the success of my argument entail that powers theories are inconsistent with dualism". She treats non-physical phenomenal powers, whether "epiphenomenal or with their having causal efficacy", with her pure-powers responses. A world where P does not produce Q is "one where dualism is true", which is "not a relevant starting point for the conceivability argument".
+
+**Edits.**
+- L83: the abstract-only disclosure ("Drawing only on her abstract, this page leaves open…") is replaced by her scope, her named exception and her dualism caveat. The old "physicalist powers theorists need not be troubled" also dropped the abstract's "most, if not all"; it is now "She writes for physicalists".
+- L127: the old speculation, that an interactionist consciousness "might be that exception", was wrong on her text. Causal efficacy does not meet the exception; contingent production does. The paragraph now says so, notes the bearing on the Map's governing-laws pairing, and leaves that question open. "Neither answer would evidence the tenet" keeps the calibration of the old "fit … without evidencing".
+- Reference 1: "(abstract only)" is now "(read in full)".
+
+**Ledger update.** Allen 2022 is real-correct, with the full text read. Result direction: in a powers ontology the conceivability argument fails, except under contingent emergence. The page now reports that direction. Stance: she writes as a powers-neutral author for physicalist powers theorists and does not argue that powers exclude dualism.
+
+**Inbound links** (zero-word pipes, `analyze_length` unchanged): [[zombie-master-argument]] L102 (3,217 → 3,217); [[kripke-a-posteriori-necessity-argument]] L61 (2,351 → 2,351; L43 untouched); [[positions/arguments-for-dualism]] L47, the P-D1 *Asserts* (2,497 → 2,497, positions hard 2,500). No `Updated` note was added, because the pipe changes no wording or band and only 2 words of headroom remain.
+
+**Length.** 3,012 → 3,098 (+86); prose 2,510 → 2,595, References +1. Still soft_warning; headroom to hard is 3,500 − 1 − 3,098 = 401. Every added word reports the author's own answers in place of an abstract-only disclosure. The remainder brief barred re-editing settled wording, so no offsets were taken from it.
+
+**Remaining.** The Allen item above is resolved for this page. Its bearing on the Map's own ontology goes to a NEEDS-HUMAN, filed by the driver: [[causal-powers]] L79 and [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] L96–102, L126 and L142 select contingent governing laws over essentialism *because* a zombie world is conceivable. The speculation at L488 of [[modal-epistemology-beyond-conceivability-2026-10-22]] is superseded but was left as a dated research record.
+
+**Stability note.** The open question in L127 is owned by that NEEDS-HUMAN. Do not re-flag it here as an unresolved defect of this page.
