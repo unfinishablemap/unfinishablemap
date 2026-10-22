@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-22 01:08:43+00:00
+ai_modified: 2026-10-22 09:43:27+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[phenomenology]]'
 created: 2026-05-27
 date: &id001 2026-05-27
-description: At their deepest attainments, Buddhist and Vedantic practice diverge
+description: At their deepest attainments, Theravada and Vedantic practice diverge
   between cessation and plenitude. A human-AI inquiry develops this as a calibration
   constraint on the convergence argument, not a resolved puzzle.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-25 18:40:36+00:00
-lastmod: 2026-10-22 01:08:43+00:00
+last_deep_review: 2026-10-22 09:43:27+00:00
+lastmod: 2026-10-22 09:43:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 - '[[eastern-philosophy-consciousness]]'
 ---
 
-At their deepest attainments, the contemplative traditions disagree about whether the ultimate state is the *cessation* of experience or its *fullest expression*. Theravāda Buddhism prizes *nirodha samāpatti*—the complete stopping of perception and feeling. Advaita Vedānta describes the ultimate as *sat-chit-ānanda*, being-consciousness-bliss, awareness at maximal fullness. These are reports about the presence or absence of content at the limit of practice, and they point in opposite directions. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) names this divergence as "the most significant" of the three it catalogues, holds that it resists merely interpretive dismissal, and moves on. This article develops it as its own evidential phenomenon.
+At their deepest attainments, the contemplative traditions disagree about whether the ultimate state is the *cessation* of experience or its *fullest expression*. Theravāda Buddhism prizes *nirodha samāpatti*—the complete stopping of perception and feeling. Advaita Vedānta describes the ultimate as *sat-chit-ānanda*, being-consciousness-bliss, awareness at maximal fullness. These are reports about the presence or absence of content at the limit of practice, and they point in opposite directions. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) names this divergence as perhaps "the most significant" of the three it catalogues, holds that it resists merely interpretive dismissal, and moves on. This article develops it as its own evidential phenomenon.
 
 The contribution here is narrow and deliberate. The cessation-versus-plenitude divergence is *not resolved* below—neither horn of the dilemma it poses is adjudicated. What the divergence does is constrain how far the cross-traditional *convergence* argument (the argument that traditions converging on no-self, non-dual awareness, and a witness register supplies phenomenological evidence the dualist reading can use) can reach. The divergence is a Pre-Kepler-stage observation in the sense [framework-stage calibration](/project/framework-stage-calibration/) specifies: empirically reported across more than a millennium of primary sources, not yet theoretically integrated. Naming it as a calibration constraint, rather than explaining it away or promoting either reading, is the whole of the work.
 
@@ -50,9 +50,9 @@ Two qualifiers matter and are easy to drop. First, *nirodha samāpatti* is not T
 
 ### Plenitude: Advaita *Sat-Chit-Ānanda*
 
-Advaita Vedānta privileges the opposite pole. The ultimate, *Brahman* realised as one's own *Ātman*, is characterised as *sat-chit-ānanda*—being, consciousness, and bliss. The state is described as awareness at maximal fullness: infinite, self-luminous, and saturated rather than emptied. Where the Theravādin reports the stopping of perception and feeling, the Advaitin reports awareness that has become unbounded. Patañjali's *Yoga Sūtras* sit nearby but are not identical: yoga is defined (1.2) as "the cessation of the modifications of the mind," and *nirvikalpa samādhi* is absorption without conceptual modification—but what *remains* on the Sāṃkhya-Yoga reading is *puruṣa*, pure awareness, present rather than absent. The Vedāntic and Yogic reports therefore agree against the Theravāda cessation report on the load-bearing point: at the limit, awareness *persists* and is full, not stopped.
+Advaita Vedānta privileges the opposite pole. The ultimate, *Brahman* realised as one's own *Ātman*, is characterised as *sat-chit-ānanda*—being, consciousness, and bliss. The state is described as awareness at maximal fullness: infinite, self-luminous, and saturated rather than emptied. Where the Theravādin reports the stopping of perception and feeling, the Advaitin reports awareness that has become unbounded. Patañjali's *Yoga Sūtras* sit nearby but are not identical: yoga is defined (1.2) as "the cessation of the modifications of the mind," and the seedless (*nirbīja*) *samādhi* of 1.51 stills even the last of them—but what *remains*, per 1.3, is the seer abiding in its own form, which the Sāṃkhya-Yoga reading identifies as *puruṣa*, pure awareness, present rather than absent. The Vedāntic and Yogic reports therefore agree against the Theravāda cessation report on the decisive point: at the limit, awareness *persists* rather than stops—in Advaita as fullness, in Yoga as the seer standing alone once every modification is stilled.
 
-Christian tradition describes the beatific vision as infinitely rich experience, the fullness of encountering God, but it supplies doctrine rather than a report from practice. Aquinas holds that God "cannot be seen in His essence by a mere human being, except he be separated from this mortal life", barring miraculous rapture (*Summa Theologiae* I q.12 a.11). Sufi accounts of *fanā'* come nearer to practice: the Map's [Sufi page](/concepts/islamic-sufi-philosophy-of-consciousness/) presents *fanā'* as heightened awareness without an experiencer and sets it beside Advaita's *turīya*, on the plenitude side. The plenitude pole is thus attested in more than one tradition, and outside India, while the cessation pole is attested in the Theravāda sources—which is what makes the divergence resistant to dismissal as one tradition's idiosyncrasy.
+Christian tradition describes the beatific vision as infinitely rich experience, the fullness of encountering God, but that vision is doctrine about the blessed rather than a report from practice. Aquinas holds that God "cannot be seen in His essence by a mere human being, except he be separated from this mortal life", barring miraculous rapture (*Summa Theologiae* I q.12 a.11). Sufi accounts of *fanā'* come nearer to practice: the Map's [Sufi page](/concepts/islamic-sufi-philosophy-of-consciousness/) presents *fanā'* as heightened awareness without an experiencer and sets it beside Advaita's *turīya*, on the plenitude side. The plenitude pole is thus attested in more than one tradition, and outside India, while the cessation pole is attested in the Theravāda sources—which is what makes the divergence resistant to dismissal as one tradition's idiosyncrasy.
 
 ## The Dilemma
 
@@ -94,10 +94,10 @@ The divergence accordingly sharpens the Map's self-understanding at the calibrat
 
 ## Further Reading
 
-- [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — The parent article; cessation-versus-plenitude is the most load-bearing of its three named divergence zones
+- [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — The parent article; it calls cessation-versus-plenitude perhaps the most significant of its three named divergence zones
 - [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) — The sibling divergence at the valence register; develops the lighter of the two
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — The witness register the convergence argument draws on, against which this divergence is the boundary
-- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The selection/witness two-mode framework; cessation and plenitude as candidate end-states of different engagement profiles
+- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The selection/witness two-mode framework the affective sibling reads its divergence against; this article claims no comparable integration
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* register and whether a witness persists at the limit
 - [disappearance-voids](/voids/disappearance-voids/) — The phenomenology of absorptive states and the limits of report at the edge of experience
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — The aphasia-of-mysticism structure horn (b) invokes: experience that overwhelms the faculty that would report it

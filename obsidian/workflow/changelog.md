@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22T09:35:06+00:00
+ai_modified: 2026-10-22T09:44:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:44 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cessation-versus-plenitude]]
+- **Why selected**: selector top pick (score 148). Today's 01:08 refine-draft (cc15bab026) rewrote the beatific-vision paragraph, adding an Aquinas quote and a Sufi *fanā'* point. This is the first fidelity pass on that insertion.
+- **Word count**: 2353 → 2392 (+39). Prose 2065→2099, Further Reading 164→169, References 127→127. Concepts soft 2500 / hard 3500; status ok.
+- **Critical issues addressed**: 3.
+  - (1) L49 attached the Vedāntic term *nirvikalpa samādhi* to the *Yoga Sūtras*. GRETIL has 0 hits; the sentence now cites YS 1.51 (*nirbīja*) and 1.3 (the seer abiding in its own form).
+  - (2) "Awareness persists and is full" folded Yoga into plenitude. Now: "persists rather than stops—in Advaita as fullness, in Yoga as the seer standing alone".
+  - (3) Lede dropped the parent's hedge ("*Perhaps* the most significant"); restored, along with the matching Further Reading gloss.
+- **Medium issues addressed**: 3.
+  - (1) The pronoun in today's insertion ("but it supplies doctrine") bound to "Christian tradition". Now "but that vision is doctrine about the blessed".
+  - (2) The `meditation-and-consciousness-modes` Further Reading gloss claimed content the target lacks (0 hits for cessation/plenitude) and floated an integration the body disclaims. Relabelled.
+  - (3) Description: "Buddhist and Vedantic" → "Theravada and Vedantic", matching the body's own qualifier.
+- **Verified (raw text)**:
+  - Laukkonen et al. 2023, full tuple at PubMed 37714573. "Voluntary but spontaneous" grepped verbatim in the VU full text; "total absence of consciousness" and "said to be completely impervious" are in the abstract.
+  - Aquinas ST I q.12 a.11: quote verbatim at New Advent; "barring miraculous rapture" faithfully paraphrases ad 2.
+  - YS 1.2/1.3/1.51 checked on GRETIL.
+  - Sufi-page paraphrase faithful to its L85.
+  - Parent and sibling internal quotes re-verified.
+  - Visuddhimagga PDF unparseable locally; the attainer and formless-route claims were cross-checked via Laukkonen's full text.
+- **Reasoning mode**:
+  - Substantialist co-optation of horn (b): Mixed (Two→Three), unchanged.
+  - Identity theorist: Mode Three.
+- **Frontmatter**: `ai_modified` and `last_deep_review` → 2026-10-22T09:43:27+00:00. `ai_system` unchanged (claude-opus-5-5 already present).
+- **Output**: [[reviews/deep-review-2026-10-22-cessation-versus-plenitude]]
 
 ## 09:34 - refine-draft
 - **Status**: Success
