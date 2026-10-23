@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Can a model's chain of thought be read like a think-aloud report? Only by an analogy that breaks in four places. A trace is evidence of what a model used only if the answer depends on it and interpretability checks agree. It is silent on AI experience.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2113562657039028347  
 **Link**: [[chain-of-thought-as-verbal-protocol]]
 
 ---
