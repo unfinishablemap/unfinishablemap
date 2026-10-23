@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-23T06:12:32+00:00
+ai_modified: 2026-10-23T06:29:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -127,7 +127,7 @@ Conscious experience is unified: visual field, sounds, bodily sensations, and th
 
 ### The Argument from Reason
 
-The [[argument-from-reason]] targets physicalism from the angle of rationality. If physicalism is true, all beliefs are fully explained by nonrational physical causes. But rational inference requires tracking normative relationships—what follows from what, what counts as good evidence. The self-defeat structure is decisive: if the argument succeeds, physicalism cannot be rationally believed.
+The [[argument-from-reason]] targets physicalism from the angle of rationality. If physicalism is true, all beliefs are fully explained by nonrational physical causes. But rational inference requires tracking normative relationships—what follows from what, what counts as good evidence. The self-defeat charge is serious but not decisive: non-reductive physicalists deny that causes and reasons compete, and the dispute bottoms out in whether content, *as content*, [[causal-relevance-of-content|can be causally relevant]].
 
 ### The Convergence
 
@@ -137,13 +137,13 @@ No single argument establishes dualism conclusively, and the eight are not evide
 
 **[[type-a-type-b-and-type-c-physicalism|Type-A Physicalism]]** denies the hard problem exists beyond the "easy problems"—but must explain why the hard problem *seems* real (the [[meta-problem-of-consciousness|meta-problem]]) without invoking phenomenal properties.
 
-**Type-B Physicalism** accepts the explanatory gap but denies metaphysical implications—consciousness is physical by a posteriori necessity. But this provides no positive account of *how* physical processes generate experience.
+**Type-B Physicalism** accepts the explanatory gap but denies metaphysical implications—consciousness is physical by a posteriori necessity. Asking *how* the brain generates experience presupposes two items where Type-B posits one; [[type-a-type-b-and-type-c-physicalism|the reply that reaches it]] presses that a brute, epistemically opaque identity is a [[primitive-identities-and-strong-necessities|law under another name]]. Type-B answers that identities need no explanation.
 
-**[[illusionism|Illusionism]]** claims [[qualia]] don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. As Raymond Tallis argues, illusions presuppose experience.
+**[[illusionism|Illusionism]]** claims [[qualia]] don't exist as we conceive them. This trades the hard problem for the "illusion problem": explaining why we so powerfully believe we're phenomenally conscious. Raymond Tallis's objection that illusions presuppose experience assumes the seeming is phenomenal, which illusionists deny. The Map presses instead that models such as [[attention-schema-theory]] have yet to explain why introspective representations have exactly the immediacy and qualitative structure they do.
 
-The **[[phenomenal-concepts-strategy|Phenomenal Concept Strategy]]** attempts to explain Mary's new knowledge as new concepts for old physical properties, but must explain why phenomenal concepts are special—an isolation that is precisely what the knowledge argument reveals.
+The **[[phenomenal-concepts-strategy|Phenomenal Concept Strategy]]** attempts to explain Mary's new knowledge as new concepts for old physical properties, but must explain why phenomenal concepts are special. Physical accounts of their isolation are the strongest live rejoinder to Chalmers's master argument, leaving the strategy's failure [[the-convergence-argument-for-dualism|contested rather than established]].
 
-Each response either denies the hard problem without explaining why it seems real, or relocates the explanatory burden without discharging it.
+On the Map's assessment no response has discharged its explanatory burden, though none is refuted; with Type-B the disagreement lies close to bedrock.
 
 ## Dualism and Interaction
 
@@ -177,7 +177,7 @@ Every mental state correlates with brain states. But correlation is compatible w
 
 ### The Eliminativist Challenge
 
-Perhaps "consciousness" doesn't refer to anything real. But this strategy is self-undermining: we cannot coherently discover that "experiences don't exist"—the discovery would itself be an experience. Even if introspection *misrepresents* the nature of experience, the misrepresentation is itself an experience with phenomenal character.
+Perhaps "consciousness" doesn't refer to anything real. Eliminativism about all conscious mentality is self-undermining: we cannot coherently discover that "experiences don't exist"—the discovery would itself be an experience. Frankish-style [[illusionism]] escapes this charge, accepting functional experience and denying only phenomenal *properties*; it faces [the burden above](#physicalist-responses-and-their-limits) instead.
 
 ## Why Dualism, Not Idealism or Russellian Monism?
 
@@ -193,7 +193,7 @@ The cumulative case would be undermined if: consciousness were fully explained f
 
 Dualism is the Map's first foundational commitment—the [[tenets#^dualism|Dualism tenet]] states that consciousness is not reducible to physical processes.
 
-This commitment is grounded in the convergence of arguments: from different starting points—conceivability, knowledge, qualia, modality, subjectivity, unity, intentionality—they reach the same conclusion. [[concepts/materialism]] in all its forms fails to bridge the gap between physical description and subjective experience.
+This commitment is grounded in the convergence of arguments: from different starting points—conceivability, knowledge, qualia, modality, subjectivity, unity, intentionality—they reach the same conclusion. Each form of [[concepts/materialism]] the Map has examined leaves a serious explanatory debt at the gap between physical description and subjective experience.
 
 Dualism's most consequential implication may be ethical: if consciousness is irreducible, then [[topics/phenomenal-value-realism|phenomenal value]]—the felt badness of suffering, the felt goodness of joy—is irreducible too. Value resides in consciousness because consciousness is not decomposable into value-neutral physical facts.
 

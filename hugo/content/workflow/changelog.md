@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 06:12:32+00:00
+ai_modified: 2026-10-23 06:29:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 06:12:32+00:00
+lastmod: 2026-10-23 06:29:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:29 - refine-draft
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Task**: P1 from convergent outer reviews 2026-10-23 (3/3), "Physicalist Responses" + "Eliminativist Challenge" + Relation section (todo index 3057, second of seven dualism tasks). Review files: `reviews/outer-review-2026-10-23-chatgpt-5-6-sol-pro.md` (§2, §3, §7, §9), `reviews/outer-review-2026-10-23-claude-fable-5-1.md` (§2.3, §2.4), `reviews/outer-review-2026-10-23-gemini-3-1-pro.md` (§2.2); synthesis `reviews/outer-review-synthesis-2026-10-23.md`.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted refine against the task's OLD strings, each re-grepped once at the live file after the 06:12Z pass; line numbers unchanged)
+- **Changes**:
+  - (1) Argument from reason (L130): "The self-defeat structure is decisive: if the argument succeeds, physicalism cannot be rationally believed." → the self-defeat charge is "serious but not decisive": non-reductive physicalists deny that causes and reasons compete, and the dispute bottoms out in whether content, *as content*, can be causally relevant (argument-from-reason L133 verdict; links [causal-relevance-of-content](/concepts/causal-relevance-of-content/)). Removes the clash with L134's "No single argument establishes dualism conclusively". The optional premise rescope was not applied separately; the "deny that causes and reasons compete" clause carries it within budget.
+  - (2) Type-B (L140): "But this provides no positive account of *how* physical processes generate experience." → asking *how* the brain generates experience presupposes two items where Type-B posits one; the reply that reaches it (linked to [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/)) presses that a brute, epistemically opaque identity is a law under another name ([primitive-identities-and-strong-necessities](/concepts/primitive-identities-and-strong-necessities/), its section of that name); Type-B answers that identities need no explanation.
+  - (3a) Illusionism (L142): "As Raymond Tallis argues, illusions presuppose experience." → Tallis kept as a faithful paraphrase (no quotation marks); his objection "assumes the seeming is phenomenal, which illusionists deny" (illusionism L91). The Map instead presses the positive explanatory burden (illusionism L109; ChatGPT §3): models such as [attention-schema-theory](/concepts/attention-schema-theory/) have yet to explain why introspective representations have exactly the immediacy and qualitative structure they do. AST linked inside the budget.
+  - (3b) Eliminativist Challenge (L180): the self-undermining charge is scoped to "eliminativism about all conscious mentality"; "Even if introspection *misrepresents* … an experience with phenomenal character" deleted; Frankish-style [illusionism](/concepts/illusionism/) is said to escape that charge (it accepts functional experience and denies only phenomenal *properties*; illusionism L61) and is routed to the burden in "Physicalist Responses" via `#physicalist-responses-and-their-limits` (same-page markdown-anchor dialect already used at L94).
+  - (4a) PCS (L144): "—an isolation that is precisely what the knowledge argument reveals." → physical accounts of that isolation are "the strongest live rejoinder" to Chalmers's master argument (PCS L99), leaving the strategy's failure [contested rather than established](/topics/the-convergence-argument-for-dualism/) (convergence L93 wording).
+  - (4b) L146: "Each response either denies … or relocates the explanatory burden without discharging it." → bounded Map judgement: no response has discharged its explanatory burden, though none is refuted; with Type-B the disagreement lies close to bedrock (type-a-b-c L122: Type-B tier "compatible").
+  - (5) Relation (L196): "[materialism](/concepts/materialism/) in all its forms fails to bridge the gap…" → each form of materialism the Map has examined leaves a serious explanatory debt at that gap. The first sentence of the paragraph (the seven-item list) is untouched for the counts sibling task.
+- **Engagement classification** (editor-internal): argument from reason vs non-reductive physicalism: Mode Three in the hub, which records the residue; the in-framework Kim-exclusion dilemma lives on the spoke. Type-B: mixed. The cost argument is Mode Two (a brute identity with a law's epistemic status is a move physicalism has not earned on its own terms); Type-B's "identities need no explanation" reply is honestly marked Mode Three, close to bedrock. Illusionism: the bare Tallis regress is withdrawn as a refutation because it begs the question. Mode Two replaces it, measured by illusionism's own mechanistic standard (the positive model is owed and not yet supplied). Eliminativism about all conscious mentality: Mode One (pragmatic self-refutation). PCS: Mode Three (exchange open, strongest rejoinder acknowledged). L146/L196: bounded Map verdicts with no refutation claimed.
+- **Calibration**: no epiphenomenalism concession; L154 untouched; 06:12Z wording intact (L134 "Their agreement is on irreducibility, not dualism", weak Revelation, Kripke restraint). Gemini's computational-functionalism/PP table and SOMA were not imported. No new verbatim Tallis quote. No style-guide violations ("This is not X. It is Y.", "load-bearing", mode labels: 0 each).
+- **Length**: analyze_length 2,806 → 2,906 (+100, exactly the task budget, AST link included). Split before: prose 2,369 / Further Reading 59 / References 378. After: prose 2,469 / Further Reading 59 / References 378. Concepts hard 3,500 (gate `>=`): headroom 693 → 593. The five remaining sibling dualism tasks hold +305 nominal (interaction +120, Kind/idealism/value +60, References +60, counts +30, Hasker +35), leaving ≈288 once all land (ledger unchanged).
+- **For the References sibling**: the Tallis attribution survives, so its Tallis-entry correction applies. "Chalmers's master argument" (L144) is named, but only Chalmers (1996) is in References; a Chalmers (2007) "Phenomenal concepts and the explanatory gap" entry is not added here (budget).
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 06:12 - refine-draft
 - **Status**: Success
