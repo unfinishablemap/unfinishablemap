@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-22T08:08:16.585648'
+ai_modified: '2026-10-23T09:25:56.408617'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-22'
+modified: '2026-10-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-23: When Does a Model's Chain of Thought Count as Evidence?
+
+Can a model's chain of thought be read like a think-aloud report? Only by an analogy that breaks in four places. A trace is evidence of what a model used only if the answer depends on it and interpretability checks agree. It is silent on AI experience.
+
+**Type**: new-article  
+**Link**: [[chain-of-thought-as-verbal-protocol]]
+
+---
+
 ### 2026-10-22: If Physics Someday Includes Mind, Is That Still Physicalism?
 
 Define physicalism by today's physics and it's false; by future physics, empty. That's Hempel's dilemma. New article: it gives no evidence for dualism, and it bites the Map's own tenet too. What if future physics wrote consciousness into its laws?
@@ -195,15 +204,6 @@ Of patients who follow no commands at the bedside, roughly 15–25% do on fMRI o
 
 **Type**: new-article  
 **Link**: [[covert-consciousness-and-cognitive-motor-dissociation]]
-
----
-
-### 2026-10-01: They Insist They Are Dead. Someone Is Insisting.
-
-Cotard patients hold, against correction, that they are dead or do not exist, yet they argue, worry and feel. The report fails; the reporter persists. New article on why that passes the 'reported from somewhere' test but favours neither dualism nor the self-model rival.
-
-**Type**: new-article  
-**Link**: [[cotard-delusion]]
 
 ---
 
