@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T05:04:10+00:00
+ai_modified: 2026-10-23T05:37:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:37 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-23
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro). The subject was the recent-aged `concepts/dualism`; Claude and Gemini reused ChatGPT's subject. This is the first full-coverage cycle since Gemini's three consecutive abandonments (10-20 to 10-22).
+- **Clusters**: 30 convergent, adjudicated against the hub at HEAD before clustering.
+  - The dominant finding: the hub states verdicts its own specialist pages have withdrawn. These include the "decisive" argument from reason, the bare seeming regress, PCS as defeated, strong Revelation, independent cross-traditional convergence, Stapp as an outcome-biaser, quantum biology as demonstrated, and neural correlation as predicted.
+  - 6 three-reviewer clusters: argument from reason, illusionism, PCS, the Born-preservation dilemma (ChatGPT §5 states it too, so it is three-way, not Gemini-new), the unity sentence (partial), and the Kripke paragraph.
+  - 20 two-reviewer clusters, tasked or recorded, and 4 left untasked by both processing passes for length (explanatory-gap step, intrinsic character, intentionality, Type-A).
+  - 1 rejected convergence: predictive processing (Claude and Gemini), declined upstream. The recurrence count in the banner and in the Gemini pass understates it (at least 11 occurrences).
+  - 4 divergences: the convergence section, Huemer, Cogitate, and Main Varieties.
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3):
+  - Kind/Cutter, idealism and value;
+  - References and attribution hygiene (Jackson, Churchland, SEP);
+  - Hasker, actuality and the survey.
+  - The three ChatGPT-minted P1s (Revelation, physicalist responses, interaction) were annotated at the ceiling. All six convergent tasks now carry `Review files`, `Synthesis`, a convergence prefix and a shared length ledger.
+  - Two optional items were added: a length-neutral Tenet 4 scoping clause on the interaction task (convergent ChatGPT + Claude, untasked by any pass), and a pointer of at most +5 words to `topics/predictive-processing-and-dualism` on the Hasker task. The PP-paragraph ban stands.
+  - The sibling Revelation sweep, the counts P1 and the entanglement-binding P2 are unchanged.
+- **Tasks deduplicated**: 0. Each processing pass annotated existing tasks instead of minting duplicates. 0 minted.
+- **Length**: `concepts/dualism` is 2,681 against hard 3,500 (818 headroom). The seven open tasks hold +530 nominal, under the ~700 flag line. Uncounted extras could add about +80; the per-task ledger makes them length-neutral or drops them.
+- **Operator flag**: hub pages do not inherit spoke concessions. ChatGPT and Claude converge on this, and four of the withdrawn verdicts predate the hub's two "converged" deep reviews. Proposed checks: a dependency-freshness trigger with expiring Stability Notes, a hub precedence rule, a machine count invariant, and a per-citation author-stance field. Not tasked, and no tooling edited.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-23]]
 
 ## 05:04 - collect-gemini-review + outer-review
 - **Status**: Success
