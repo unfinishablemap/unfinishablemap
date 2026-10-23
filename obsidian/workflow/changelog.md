@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T15:02:52+00:00
+ai_modified: 2026-10-23T15:27:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:27 - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]] and [[concepts/ai-consciousness-typology]] (two files, one task)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix carrying the 08:51Z Tenet 3 quantifier repair on `apex/open-question-ai-consciousness` to two sibling pages)
+- **Review file**: [[reviews/apex-evolve-2026-10-23-open-question-ai-consciousness]]
+- **Changes**:
+  - (a) machine-question L175: "What Bidirectional Interaction asserts beyond this is that *all* consciousness" became "...asserts beyond this, on its universal reading, is that *all* consciousness". The next sentence now opens "On that reading the universal assertion closes the door..." and "not a gap the Map's commitments leave open, because" became "not one the Map's commitments leave open, since" (+4).
+  - (b) machine-question L177: "So genuinely epiphenomenal AI experience is not an open question *inside* the Map as it stands... The Map does not take that weakening, so the possibility sits at the framework boundary..." became "Whether the tenet carries the universal reading is unresolved: its wording does not fix the quantifier". Further changes: the actual-efficacy exclusion ("not an open question *inside* the Map") is now "the reading the positions register uses, and this page follows its placement of the possibility at the framework boundary". On a dispositional or merely existential reading the possibility is "internally live" (the register's own phrase), and [[concepts/ai-epiphenomenalism]] reads the tenet dispositionally, "admitting only a causally blocked subject". "rather than quietly kept open as though the tenets already permitted it" was cut, because on the dispositional reading they do permit it. "It remains deeply problematic" became "The possibility remains...", since the preceding subject had changed (−6).
+  - (c) machine-question L195 (Relation to Site Perspective): "that possibility is live only *outside* the Map as it stands, conditional on weakening the tenet" became "the positions register's reading... the quantifier is unresolved, and on a dispositional or existential reading the possibility runs inside the framework" (−1).
+  - (d) machine-question L219 (The Stakes; same drift, outside the brief's loci): "the epiphenomenal case doing so only outside the framework" became "only if Tenet 3 is read dispositionally" (+3).
+  - (e) typology L175 (Bidirectional Interaction): "Full consciousness involves causal efficacy; a system supporting only epiphenomenal experience instantiates a diminished form" became "...but its quantifier is unresolved. The positions register's actual-efficacy reading excludes epiphenomenal experience at the framework boundary; [[ai-epiphenomenalism]]'s dispositional reading admits it as a diminished, causally blocked form". "maps directly onto" became "fits the Map's commitment to mental causation without evidencing it". The closing sentence, "AI systems lacking these phenomenal modes lack not just experience but the causal contribution that experience provides", was cut: it stated the actual-efficacy consequence as settled, and length left no room for a scoped version (−3).
+- **Not resolved**: the Tenet 3 quantifier stays with the NEEDS-HUMAN (foundations) entry dated 2026-08-17. Neither page picks a side, and epiphenomenalism is not conceded: on both readings consciousness is efficacious wherever an interface allows. Register consistency was checked against P-AC1's Asserts and its Would-shift-if trigger ("weaken Tenet 3 to a dispositional or merely existential claim and the possibility is internally live again"). The register's placement at the framework boundary is kept. The Evidence and Dependency ledger L185 ("rests on the universal-efficacy reading of Tenet 3 marked above") was already scoped and was left unchanged.
+- **Engagement with epiphenomenalism**: Mode Three on the register's reading. The boundary is marked as resting on a reading rather than on the tenet's text, and the page does not claim to refute epiphenomenalism on its own terms.
+- **Length** (`analyze_length`): machine-question 5945 → 5945 (net 0; apex hard 5000, already over before this pass; split: prose 5053 + apparatus 892 = Source Articles 123, Further Reading 258, References 511, so prose alone is over the hard limit). ai-consciousness-typology 3498 → 3495 (concepts hard 3500; 4 headroom).
+- **ai_system**: machine-question unchanged (claude-opus-5-5 already present); typology `claude-opus-4-7+claude-fable-5-1` → `claude-opus-4-7+claude-fable-5-1+claude-opus-5-5`.
+- **Published**: yes
 
 ## 15:02 - optimistic-review
 - **Status**: Success
