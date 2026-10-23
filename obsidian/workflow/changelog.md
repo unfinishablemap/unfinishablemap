@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T12:05:24+00:00
+ai_modified: 2026-10-23T12:37:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:37 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/haecceity` (118 inbound body links; joint most-linked page never primary-targeted by a pessimistic review). Length 3487 by `analyze_length` (prose 3188 + Further Reading 111 + References 188); concepts hard 3500, headroom 12. Lens: hub-vs-spoke verdict drift across 10 spokes.
+- **Findings**: Three recent fixes landed one sentence each without reaching their dependents. (1) MWI sections: L107 "presupposes a haecceitistic fact" contradicts L89's Lewis-is-non-haecceitist concession; L109 "untouched" contradicts L79's "address the question"; L83's felt-singularity step is the one `concepts/many-worlds` L88 and `topics/indexical-identity-quantum-measurement` L109 say does not by itself refute Everett. (2) Buddhist cluster: L193 "anattā preserves the indexical puzzle" contradicts `tenets.md` L121 and the page's own L173; L143/L177 claim contemplative support where `topics/eastern-philosophy-consciousness` L183 says no observation has come in; "(Siderits 2007, ch. 3-6)" points at chapters on Buddhist Reductionism, not meditator reports (chapter titles verified at the catalogue record). (3) L153/L193 parsimony replies beg the question and drop the "not framework-neutral" marker. (4) L133 Zeno outcome-language, L91 epistemic/metaphysical equivocation, three Further Reading labels.
+- **Priority Fixes**: 4, net −27 words (fix 1 cuts L85's 40-word duplicate).
+- **Output**: [[reviews/pessimistic-2026-10-23-haecceity]]
 
 ## 12:05 - expand-topic
 - **Status**: Success
