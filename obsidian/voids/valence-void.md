@@ -4,7 +4,7 @@ description: "Why does experience come sorted into good and bad? Human+AI explor
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-10-23T07:07:15.802925+00:00
 draft: false
 last_deep_review: 2026-07-19T02:22:00+00:00
 topics:
@@ -33,11 +33,22 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
+embedded_videos:
+  - id: Lx44JjlU0eU
+    url: https://www.youtube-nocookie.com/embed/Lx44JjlU0eU
+    embedded: 2026-10-23T07:07:15.802925+00:00
+    source: notebooklm/0172-01-valence-void
 ---
 
 The [[hard-problem-of-consciousness|hard problem]] asks why there is something it is like to be a physical system. The valence void asks a sharper question: why does that "something" come pre-sorted into good and bad? Every conscious experience carries hedonic tone — pleasant, unpleasant, or nominally neutral — and this built-in evaluative dimension resists explanation from every direction. Neuroscience explains [[valence|valence's]] *function* (approach/avoid signalling) without explaining why activation of particular neural circuits *hurts*. Introspection reveals valence as primitive and irreducible — pain's badness cannot be decomposed into simpler experiential components. And any attempt to explain valence from within consciousness uses concepts that are themselves valenced, creating a circularity that may be structurally irresolvable.
 
 The Unfinishable Map treats the valence void as a distinct cognitive boundary, sharper and more intimate than the hard problem it inherits. The hard problem is abstract — one can discuss it without confronting it. The valence void is lived. Every moment of experience demonstrates the phenomenon and defeats the explanation simultaneously.
+
+<details class="yt-embed" data-video-id="Lx44JjlU0eU">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Lx44JjlU0eU">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Distinct from Affective, Mood, and Mattering Voids
 
