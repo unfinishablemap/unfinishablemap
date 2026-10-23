@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T21:07:55.083659+00:00'
-session_count: 23287
+last_updated: '2026-10-23T21:25:31.740504+00:00'
+session_count: 23288
 cycle_position: 15000
 last_runs:
   add-highlight: '2026-10-23T09:29:01.686491+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-23T21:24:18.281261+00:00'
+  agentic-social: '2026-10-23T21:25:31.740504+00:00'
   apex-evolve: '2026-10-23T08:53:15.234954+00:00'
   check-links: '2026-10-23T07:28:43.316574+00:00'
   check-model-fallback: '2026-10-23T18:07:19.059549+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-23'
-  outcome: success
-  kind: queue
 - task: optimistic-review
   type: optimistic-review
   date: '2026-10-23'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-23'
   outcome: success
   kind: trigger
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-23'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/

@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt haecceity calibration in phenomenology-of-memory-and-the-self
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-memory-and-the-self.md
-- **Notes**: From topic-concept anchoring audit 2026-10-23. The topic article over-claims relative to its anchor concept [[haecceity]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 0.50/kw is below 1.74/kw (target = 60% of anchor 2.90/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-23
-
 ### P2: Adopt haecceity calibration in subjective-facts-and-the-metaphysical-problem-of-other-minds
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-10-23
-
 
 ### P3: Research Precommitment and the diachronic agent
 - **Type**: research-topic
@@ -3178,8 +3166,24 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-23
 - **Notes**: New article (2,699 by analyze_length; topics hard 4000), not yet reviewed. Its calibration stays binding: process-model findings are substrate-neutral (fit, not evidence); implicit regulation needs no conscious contribution at any stage, without conceding epiphenomenalism; Tenet 2 is empirical-constraint minimality; Schwartz/Stapp/Beauregard's use of Ochsner 2002 is a posit (Buhle 2014 gives a physical route), so it adds no new evidence stream; the scoped Ochsner absence sits in the body only. Do the full deep-review pass, re-checking the research note's Guards (L714ff) and Absence (L873ff) sections. DRIVER FLAG: the creating fork correctly re-sourced "reappraisal costly when begun late" from Sheppes & Gross 2011 to Sheppes & Meiran 2008. It reported that the article "flags in one clause" that the 2008 cost is measured as "self control resources" (the ego-depletion construct), but the driver's grep finds no such clause: L60 quotes "for the first time a cognitive cost for reappraisal" with no caveat. Check the 2008 abstract's cost measure. If it is depletion-based, add a short caveat at L60 (do not lean on ego depletion) and make the same check on concepts/mental-effort L106's new "costly mainly when begun late". Integration already done: self-control-as-skill-and-scaffolding L46 (3,029), alief-and-acting-against-belief after L113 (3,351), mental-effort L106 (pipe + qualifier; 3,352/3,500), emotion-and-dualism after L107 (3,398; its L107 Damasio claim and L212 orphan have their own P3). Remaining hosts (headroom at 20:55Z; re-measure): concepts/control-theoretic-will after L74 (592); topics/clinical-neuroplasticity-evidence-for-bidirectional-causation L108 (379; do NOT count reappraisal as a new stream); voids/numbing-void L56, pipe only (318); optional skill-delegation (1,062) and valence-as-a-natural-kind (1,001). No additions to immediate-emotions, epistemic-emotions, stapp-quantum-mind, libet-experiments, attention-as-interface, conscious-vs-unconscious-processing, valence-and-conscious-selection or epiphenomenalism.
 
+### P3: `positions/memory-and-autonoesis` (P-MA1) L39 still says "nothing comparable has been attempted for felt pastness", the unscoped absence claim fixed today in its parent topic
+- **Type**: positions-evolve
+- **File**: obsidian/positions/memory-and-autonoesis.md
+- **Source**: refine-draft
+- **Generated**: 2026-10-23
+- **Review file**: reviews/pessimistic-2026-10-22-memory-and-autonoesis.md
+- **Notes**: Found by the 2026-10-23 ~21:42Z anchoring refine of `topics/phenomenology-of-memory-and-the-self`. That pass changed the parent's L139 "Nothing comparable has been attempted for felt pastness" to "...has been delivered...", because `concepts/semanticisation` L58 reports Cooper & Ritchey (2022) as a partial decomposition. P-MA1 L39 still reads "...where nothing comparable has been attempted for felt pastness" (driver-verified at 21:50Z). The 10-22 pessimistic review flagged it as Issue 6, and the 10-22 positions-evolve pass (1babd37692) fixed a different unscoped absence but not this one. Change "attempted" to "delivered" (+-0 words) and keep the register's dated `Updated` convention (see the project memory on the positions register: edits must carry a dated note, which costs words). Re-measure against positions hard 2500 and keep it net-neutral by trimming within L39 if the Updated note costs words. GUARD: do not change the position's confidence band or its falsifier wording.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-23: Adopt haecceity calibration in phenomenology-of-memory-and-the-self
+- **Type**: refine-draft
+- **File**: obsidian/topics/phenomenology-of-memory-and-the-self.md
+- **Notes**: From topic-concept anchoring audit 2026-10-23. The topic article over-claims relative to its anchor concept [[haecceity]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 0.50/kw is below 1.74/kw (target = 60% of anchor 2.90/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-10-23: Write `topics/emotion-regulation-and-the-timing-of-control` — Emotion Regulation and the Timing of Control
 - **Type**: expand-topic

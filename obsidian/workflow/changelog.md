@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T20:51:57+00:00
+ai_modified: 2026-10-23T21:43:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:43 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Trigger**: topic-concept anchoring audit (cycle 15000) vs [[concepts/haecceity]]. Failed checks: hedge_density (0.50/kw against a 1.74/kw target) and underdetermination_markers (0 against the anchor's 1).
+- **Original score**: n/a (`scripts/curate.py` absent). Calibration profile: 2 hedges (one is YouTube-embed boilerplate), 0 strong assertions, 0 regex underdetermination markers.
+- **Verdict**: MIXED. Four real over-claims were fixed length-neutrally, and the lexical remainder is exempted.
+- **Why the flag fired today**: haecceity's 15:41Z refine (`7e107f092c`) LOWERED its hedge density from 3.44 to 2.90/kw, which cut the target from 2.06 to 1.74. It also added its first underdetermination marker ("not framework-neutral", L153). Against the pre-fix anchor only one check failed, so no flag. The new marker created the second check failure that activated the flag.
+- **Hub-drift check (haecceity's withdrawn claims)**: all clean.
+  - No "you find yourself in exactly one" refutation of Everett. The No Many Worlds paragraph "records conditional consistency rather than support", and the Everettian steelman concedes identical first-person reports.
+  - No meditator, anattā or Buddhist claim anywhere.
+  - Parsimony "decides nothing in either direction", which matches haecceity's "cannot settle the matter either way".
+  - Weak Revelation only: introspection is treated as a datum, and illusionism is conceded at bedrock.
+- **Changes** (body word count 3996 → 3996):
+  - Self-revision: "The substantial self shows itself here: something must persist through the revision for it to count as *re*interpretation." became "Something must persist through the revision for it to count as *re*interpretation—on the Map's reading, the substantial self." The old wording contradicted the mineness section's own claim that the phenomenology underdetermines numerical identity, with haecceity as the auxiliary.
+  - Pathological breakdowns: "the dualist consequence rests on" became "the dualist reading rests on" (±0). This aligns it with the Dualism paragraph's "rather than a conclusion the material delivers".
+  - Generative self-model: "Nothing comparable has been attempted for felt pastness" became "…has been delivered…" (±0). This scopes an unscoped absence claim that semanticisation L58 contradicts: Cooper & Ritchey (2022) is "the decomposition experiment one step short". The sibling `positions/memory-and-autonoesis` L39 carries the same phrase, flagged as Issue 6 in `pessimistic-2026-10-22-memory-and-autonoesis`, and is still unfixed.
+  - Bidirectional Interaction: the old text argued "If consciousness merely *accompanied* neural processes, the self-encounter of remembering would be epiphenomenal; but the self that remembers also *revises*…". That inferred against epiphenomenalism from a functional role a neural account equally predicts, which overreaches tenets.md L93 ("not as a directly introspectible datum"). The new text is "…constitutive role: the self that remembers also *revises*, sustaining commitments that influence future choices. The tenet reads that revision as conscious causation, which memory fits rather than evidences." It does not concede epiphenomenalism. The 2026-08-04 outer review had already called this sentence boilerplate.
+- **Exemption**: added `anchoring_audit_exempt: true` with a verified-false-high comment naming the structural loci: the "stand only inside the Map's auxiliary commitments" coda, the conditional-consistency No Many Worlds paragraph, boundary and bedrock steelmen, the relocation bound with two falsifiers, and confidence banding. It also lists the five regex-invisible underdetermination phrasings ("forces neither reading", "methodologically undetermined", "underdetermines" ×2, "does not select between those readings"). Result: `_is_anchoring_exempt` True, `evaluate_anchoring` [].
+- **Not edited**: Emotional continuity's "a form of temporal identity psychological-continuity theories overlook" is a possible literature over-claim (Parfit's connectedness includes "any other psychological feature"). It is outside the calibration axis, so it is left for a future pass.
+- **Frontmatter**: ai_modified set to 2026-10-23T21:43:22+00:00; ai_system appended claude-opus-5-5 (it was absent as a component); last_deep_review untouched.
+- **Published**: yes
 
 ## 20:51 - expand-topic
 - **Status**: Success
