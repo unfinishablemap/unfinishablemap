@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 13:50:26+00:00
+ai_modified: 2026-10-23 14:09:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 13:50:26+00:00
+lastmod: 2026-10-23 14:09:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:09 - refine-draft
+- **Status**: Success
+- **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from the tenet check's Priority 3, W5 and W6)
+- **Review file**: [tenet-check-2026-10-23](/reviews/tenet-check-2026-10-23/)
+- **Changes**:
+  - (a) L97 (W5): "No middle ground is available. For the full critical evaluation of how each PCS version fails this dilemma, see the …page." became "PCS defenders dispute that our epistemic situation admits the single characterisation this dilemma needs, and the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) page treats the exchange as open." This propagates the hub's 06:32 "contested rather than established" repair and matches the PCS page's L79 gloss and L99 "the exchange remains open". Carruthers & Veillet are not named inline. The dilemma statement reporting Chalmers (L95/L97) is kept.
+  - (b) L77 (W6): "These are not four ways of making the same point." became "The four arguments press one gap, as [P-D1](/positions/arguments-for-dualism/#p-d1) records, but from four sides." The brief's fallback subject was used: the only prose antecedent before the table is the singular "Each modal argument", so a paragraph-initial "They" would be ambiguous. The following "They target…" now resolves cleanly.
+  - (c) L111 (W6): "…makes that articulation cumulative rather than resting on any single intuition." became "…makes that articulation many-sided, though not cumulative: they share the step from conceivability to possibility and would fail together if it failed." "they" was kept because the subject "convergence" is singular, so "they" can only resolve to "four modal arguments".
+- **L77 coherence check**: no recast. The closing "constitutes a convergence that demands explanation" was left as it stands. It states the physicalist's explanatory burden over the pattern, as the 09-29 deep review (its L61) already reads it. [P-D1](/positions/arguments-for-dualism/#p-d1) itself says the catalogue "converges", and the shared-gap concession now opens the same paragraph. The sentence claims no independence or confirmation.
+- **Preserved**: the 10-22 21:56Z weak-Revelation fixes (L60–L64), the L89 modal-rationalism concession (which the fix brings the page into line with), and the 09-29 bedrock-standoff stability notes.
+- **Engagement classification**: PCS, Mode Three (the dilemma is reported as Chalmers's, and the defenders' rejoinder is noted as open rather than as refuted).
+- **Length** (analyze_length): 2,530 → 2,545 (+15: a +1, b +3, c +11; topics hard 4,000). This is 2 over the brief's +13 because of the fallback subject in (b).
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 13:50 - deep-review
 - **Status**: Success

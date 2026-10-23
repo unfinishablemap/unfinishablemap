@@ -2,9 +2,9 @@
 title: "Modal Structure of Phenomenal Properties"
 description: "Possibility, necessity, and conceivability reveal that phenomenal properties behave unlike any physical property—the modal shape of the Map's adopted dualism, not independent proof of it."
 created: 2026-02-10
-modified: 2026-10-22
+modified: 2026-10-23
 human_modified:
-ai_modified: 2026-10-22T21:56:42+00:00
+ai_modified: 2026-10-23T14:09:23+00:00
 last_deep_review: 2026-09-29T15:53:35+00:00
 draft: false
 topics:
@@ -74,7 +74,7 @@ Each modal argument against materialism exploits a different modal relationship:
 | [[knowledge-argument|Mary's Room]] | Phenomenal knowledge possibly absent | Epistemic state | Physical knowledge |
 | Kripke | Psychophysical identity possibly false | Phenomenal-physical connection | Rigid designation |
 
-These are not four ways of making the same point. They target different aspects of the phenomenal-physical relationship: existence, character, epistemic access, and identity. (The [[zombie-master-argument]] shows how the conceivability argument subsumes several of these as special cases within a single logical structure.) The fact that phenomenal properties permit detachment along every one of these dimensions — when no physical property permits detachment along *any* of them — constitutes a convergence that demands explanation.
+The four arguments press one gap, as [[positions/arguments-for-dualism#^p-d1|P-D1]] records, but from four sides. They target different aspects of the phenomenal-physical relationship: existence, character, epistemic access, and identity. (The [[zombie-master-argument]] shows how the conceivability argument subsumes several of these as special cases within a single logical structure.) The fact that phenomenal properties permit detachment along every one of these dimensions — when no physical property permits detachment along *any* of them — constitutes a convergence that demands explanation.
 
 The physicalist must explain why phenomenal properties exhibit this systematic modal independence without conceding that they are genuinely different in kind from physical properties. The available strategies — denying conceivability, blocking the move from conceivability to possibility, or relocating the gap into our concepts — each face difficulties explored in the relevant articles.
 
@@ -94,7 +94,7 @@ The [[phenomenal-concepts-strategy]] offers the most sophisticated physicalist r
 
 Chalmers's (2007) "master argument" against this strategy exploits modal structure directly. Consider a zombie: it would have the same brain states and therefore the same conceptual apparatus, including whatever makes phenomenal concepts "special." If that specialness is physically explicable, the zombie has it too — yet the zombie doesn't face a genuine hard problem. The physicalist must then explain why *we* find consciousness puzzling in exactly the way the zombie (mistakenly) does. If phenomenal concepts' specialness is *not* physically explicable, there is a non-physical element in our concepts — and the explanatory gap is real, not merely conceptual.
 
-The modal structure of the dilemma is precise: either the special feature of phenomenal concepts is modally entailed by physical properties (and zombies have it, making the gap illusory for them too) or it is not (making the gap ontological). No middle ground is available. For the full critical evaluation of how each PCS version fails this dilemma, see the [[phenomenal-concepts-strategy|phenomenal concepts strategy]] page.
+The modal structure of the dilemma is precise: either the special feature of phenomenal concepts is modally entailed by physical properties (and zombies have it, making the gap illusory for them too) or it is not (making the gap ontological). PCS defenders dispute that our epistemic situation admits the single characterisation this dilemma needs, and the [[phenomenal-concepts-strategy|phenomenal concepts strategy]] page treats the exchange as open.
 
 A more radical physicalist response — illusionism — bypasses the dilemma by denying that phenomenal properties exist in the form the modal arguments require. If there is nothing it is like to see red beyond the brain's *representing* that there is something it is like, then conceivability arguments lose their target. But illusionism faces its own modal problem: the representation itself is a physical state, and the question of why *that* physical state constitutes (or generates the illusion of) phenomenal consciousness re-enters through the same door.
 
@@ -108,7 +108,7 @@ This matters modally because it introduces indexical modal facts. The question "
 
 The modal structure of phenomenal properties articulates, rather than independently establishes, the Map's [[tenets|foundational commitments]].
 
-**[[tenets#^dualism|Dualism]]**: The systematic modal independence of phenomenal from physical properties is the formal backbone of the Map's dualism. Once irreducibility is taken as the Map's framing (argued for elsewhere, not by appeal to the modal structure that articulates it — a circularity the [[epistemology-of-convergence-arguments|epistemology of convergence arguments]] is explicit about avoiding), this independence is what irreducibility *looks like* across possibility and necessity: phenomenal properties detached, varied, and withheld from their physical correlates in conceiving that growing physical knowledge has not undone. The convergence of four modal arguments, each targeting a different dimension of the phenomenal-physical relationship, makes that articulation cumulative rather than resting on any single intuition.
+**[[tenets#^dualism|Dualism]]**: The systematic modal independence of phenomenal from physical properties is the formal backbone of the Map's dualism. Once irreducibility is taken as the Map's framing (argued for elsewhere, not by appeal to the modal structure that articulates it — a circularity the [[epistemology-of-convergence-arguments|epistemology of convergence arguments]] is explicit about avoiding), this independence is what irreducibility *looks like* across possibility and necessity: phenomenal properties detached, varied, and withheld from their physical correlates in conceiving that growing physical knowledge has not undone. The convergence of four modal arguments, each targeting a different dimension of the phenomenal-physical relationship, makes that articulation many-sided, though not cumulative: they share the step from conceivability to possibility and would fail together if it failed.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The modal profile says nothing about where, or whether, consciousness acts on the physical; modal independence fits epiphenomenalism as well as interaction. Locating any interface at quantum indeterminacies, where physics leaves outcomes open, is a commitment the Map motivates on other grounds, and the modal arguments neither narrow that search nor count against it.
 
