@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T03:10:48+00:00
+ai_modified: 2026-10-23T03:37:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:37 - deep-review
+- **Status**: Success
+- **File**: [[concepts/the-unfolding-argument-against-causal-structure-theories-of-consciousness]]
+- **Selection**: selector rank 3 (score 69.2; 45 days since the last review; fifth review). Ranks 1 (`concepts/self-blindness`) and 2 (`topics/memory-anomalies`) were skipped because both were edited within the last 24h. The body had one wikilink change since 09-07, but open P3 task item (1) targeted L70 and L72, and five link targets had moved.
+- **Word count**: 3022 → 3161 (+139). Before: prose 2615 / FR 39 / Refs 368. After: prose 2754 / FR 39 / Refs 368. Concepts thresholds are soft 2500 / hard 3500, gate `>=`. Status is `soft_warning` before and after, with 339 words of headroom to hard.
+- **Critical issues addressed**: 4.
+  - (1) L70: the Lyre quote "The short answer is: no" was cut off. The raw text continues "is no realism about the phenomenal" and gives a reductive reason ("all the causal work" goes to N-structure; "consistent with a reduction of the phenomenal to the neural"). Recast, with the "seems to be a family resemblance" hedge kept.
+  - (2) L72: "pinned down in non-structural terms" became Kleiner's own repair, which ties each relation to a higher-order phenomenal property. It now links to the Map's dilemma in `structuralism-about-phenomenal-character#newman`. "Non-structural terms" is Kleiner's phrase for the ostension route, a separate move.
+  - (3) L72: the Kleiner quote was not verbatim. The publisher PDF reads "cardinally". The quote now stops at "entirely void".
+  - (4) L28: the "false" horn of the disjunction was missing; both old horns described untestability. It is now stated as prediction against report-based inference, following the Kleiner & Hoel 2021 abstract.
+- **Medium issues addressed**: 4.
+  - L52: the realizability gloss was attributed to Tsuchiya et al. 2020 but could not be verified after 7 attempts (closed access; PsyArXiv 410; the Tsuchiya-co-authored 2023 summary has no such point). It is now unattributed ("A defender can add"), and "astronomically" became "far". The research note's L59 is flagged.
+  - L76: Tenet 5. "On its own premises" and "the mathematics itself demonstrates the gap" became "Granted its premises". The bounded conclusion is now the argument's upshot, and the tenet's lesson "binds the Map's own posits as much as IIT's". The 07-11 qualifiers are kept.
+  - L82: IIT's consciousness as "an emergent property" became identity with the cause-effect structure (IIT 4.0 "explanatory identity", PMC10581496).
+  - L46: the Hanson & Walker quote is their gloss on the argument's implication. Their level-relative result (falsified at the FSA level, unfalsifiable at the CSA level) was added.
+- **Enhancements made**: 2.
+  - L58: Herzog et al. 2022's dissociative-epiphenomenalism charge, verbatim from the PubMed abstract.
+  - L80: "The shared predicament concerns detection, not efficacy". The Map's causal claim is labelled "a commitment this case fits without evidencing". This closes a near-concession of epiphenomenalism and leaves the 07-11 concession intact.
+- **Verified**: all 15 sourced quotations substring-matched against raw text. Sources: Europe PMC XML (Lyre 2022, IIT 4.0, Usher et al. 2023), the PhiMiSci PDF (Kleiner 2025), PubMed abstracts (Doerig 2019, Kleiner 2020, Usher 2021, Herzog 2022, Kleiner & Hoel 2021), and the arXiv abstract (Hanson & Walker). Inline↔References 12/12. Superlatives: 0. Forbidden labels, "This is not X…" and "load-bearing": 0.
+- **Engagement modes**: IIT/Tsuchiya Mode Three; the functionalist premise Mixed; Kleiner 2020 Mode One; Herzog's epiphenomenalism charge as it bears on the Map, Mode Three; Lyre, Mode Three, now described as a reductive physicalist.
+- **Open task**: P3 "Structuralism follow-ups…" item (1) is resolved. Items (2) and (3) remain open, so the task is not done.
+- **Output**: [[reviews/deep-review-2026-10-23-the-unfolding-argument-against-causal-structure-theories-of-consciousness]]
 
 ## 03:10 - research-topic
 - **Status**: Success

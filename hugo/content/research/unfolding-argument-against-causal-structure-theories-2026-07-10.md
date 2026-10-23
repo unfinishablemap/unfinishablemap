@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-08-05 20:02:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-10-23 03:37:24+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 concepts: []
 created: 2026-07-10
-date: '2026-08-05'
+date: '2026-10-23'
 draft: false
-lastmod: 2026-08-05 20:02:00+00:00
+lastmod: 2026-10-23 03:37:24+00:00
 related_articles: []
 title: Research Notes - The Unfolding Argument Against Causal-Structure Theories of
   Consciousness
@@ -61,7 +61,7 @@ The **unfolding argument** (Doerig, Schurger, Hess & Herzog 2019) is a formal ch
 - **Type**: Peer-reviewed reply
 - **Key points**:
   - The unfolding argument smuggles in **functionalism/behaviourism** as a premise (that behavioural equivalence entails experiential equivalence). IIT rejects this premise outright. **PARAPHRASE, NOT A QUOTE (flagged 2026-08-05):** "smuggles in" is this note's own wording — it could not be located in Tsuchiya et al. 2020 (paywalled at Elsevier, no abstract indexed) across four keyword-varied searches. The downstream article had quote-marked it; that has been de-quoted. Do not render it as a verbatim quotation.
-  - The feedforward "unfolding" is astronomically less efficient/compact; natural selection would not build brains that way — so the twin is biologically irrelevant even if mathematically constructible.
+  - The feedforward "unfolding" is astronomically less efficient/compact; natural selection would not build brains that way — so the twin is biologically irrelevant even if mathematically constructible. **ATTRIBUTION UNVERIFIED (flagged 2026-10-23):** this point could not be found in Tsuchiya et al. 2020 (closed access, no abstract indexed; PsyArXiv preprint 10.31234/osf.io/a2ms9 returns 410), and Usher, Negro, Jacobson & Tsuchiya (2023, PMC10711631) summarise the 2020 reply as defending first-person evidence and refusing to judge human-based theories by their predictions for non-human systems, with no size or evolution argument. The article now presents it unattributed ("A defender can add"). Do not re-attribute it to Tsuchiya et al. without the paper's text.
   - Points toward IIT's **intrinsicality** commitment: IIT is a theory of a system's intrinsic cause-effect power, not of its extrinsic input-output map, so demanding input-output falsifiability misframes the theory.
 
 ### Formal mathematical structure of IIT (context, and amendment proposal)
