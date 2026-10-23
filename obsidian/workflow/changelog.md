@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T07:57:11+00:00
+ai_modified: 2026-10-23T08:25:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:25 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 17 pages, each read in full, plus `tenets.md`: the 10 new pages and 7 heavily edited pages since check 153, per the driver brief. Each of the eleven calibration families was checked by hand, then cross-checked with a keyword scan.
+- **Errors**: 0
+- **Warnings**: 7, on 4 files. All are Over-reach or calibration drift.
+  - `concepts/dualism` L162: "How such selection still does causal work" presumes efficacy that tenets L95 leaves open (installed today).
+  - `concepts/dualism` L172: "explanatory parsimony favours dualism" in the Map's voice, against the Tenet 5 self-binding; `parsimony-epistemology` L140 declines the verdict.
+  - `concepts/conceivability-possibility-inference` L106/L128: "acquaintance with what consciousness *is*" (strong Revelation).
+  - `concepts/conceivability-possibility-inference` L29/L134: the lead lacks the contested-modal-rationalism caveat, and L134 makes the tenet depend on the inference, against `modal-epistemology` L119/L121.
+  - `topics/modal-structure-of-phenomenal-properties` L97: "how each PCS version fails" (the hub withdrew this at 06:32; the PCS page says the exchange is open).
+  - `topics/modal-structure-of-phenomenal-properties` L77/L111: the convergence is cited as "cumulative" without the P-D1 discount.
+  - `arguments/epiphenomenalism-argument` L136: the table says "Epiphenomenalism cannot explain why consciousness exists", against its own L140.
+- **Notes**: 10
+- **Families clean in the window**: never concede epiphenomenalism, chance-fixing closure, Born-preserving selection, photosynthesis, Tenet 2 minimality, No Many Worlds as commitment, P-AC1 wording.
+- **Priority List**: 5 items. Two dualism one-liners (−1 each) fold into the queued P1 at todo L3083. Three new tasks: modal-structure (+13), conceivability (+49) and epiphenomenalism-argument (+3).
+- **Open human decisions**: new evidence for all three (Tenet 1 / Hempel, the Tenet 3 quantifier, Allen 2022); none re-raised.
+- **Output**: [[reviews/tenet-check-2026-10-23]]
 
 ## 07:57 - research-voids
 - **Status**: Success
