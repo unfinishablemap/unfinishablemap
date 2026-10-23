@@ -312,9 +312,9 @@
   prompt_summary: 'Audit concepts/dualism: convergence claim, citations, objections,
     bracketing'
   target_filename: outer-review-2026-10-23-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-23T04:39:19.750859+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile but fair external referee for The Unfinishable Map
     (https://unfinishablemap.org), a philosophy site that openly commits to five tenets,
