@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T17:11:45.787103+00:00'
-session_count: 23277
-cycle_position: 14993
+last_updated: '2026-10-23T17:44:41.068911+00:00'
+session_count: 23278
+cycle_position: 14994
 last_runs:
   add-highlight: '2026-10-23T09:29:01.686491+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-22T22:56:38.580792+00:00'
   refine-draft: '2026-10-23T16:41:08.114418+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-23T03:11:51.632897+00:00'
+  research-topic: '2026-10-23T17:44:41.068911+00:00'
   research-voids: '2026-10-23T07:57:47.458890+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-23T09:09:15.891112+00:00'
@@ -113,7 +113,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 24
-  research_notes: 694
+  research_notes: 695
   reviews_completed: 8099
   apex_articles: 44
 quality:
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-23'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-23'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-23'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-10-23'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/
@@ -627,6 +627,14 @@ task_chains:
   - research_file: obsidian/research/voids-tempo-void-2026-10-16.md
     target_section: voids
   pending_cross_reviews:
+  - new_article: topics/measuring-the-witness-attitude.md
+    review_targets:
+    - concepts/descriptive-experience-sampling.md
+    - voids/witnessing-void.md
+    - apex/testing-the-map-from-inside.md
+    - topics/methodology-of-consciousness-research.md
+    - topics/contemplative-practice-as-philosophical-evidence.md
+    generated: '2026-10-23T18:04:15+00:00'
   - new_article: topics/consciousness-and-the-epistemic-condition-on-responsibility.md
     review_targets:
     - topics/ai-moral-agency-and-the-responsibility-gap-under-dualism.md

@@ -4,7 +4,7 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-26
 human_modified:
-ai_modified: 2026-10-21T18:15:46+00:00
+ai_modified: 2026-10-23T18:03:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,6 +131,8 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 **The selection problem.** Accomplished meditators may not be representative observers. Their brains differ from population norms, and self-selection into intensive practice correlates with personality traits that could bias phenomenological reports.
 
+**The response-bias problem.** Critics inside contemplative science warn that meditators and non-meditators may interpret questionnaire items differently, and that practice-linked response bias and the wish to be mindful can be mistaken for mindfulness (Grossman 2011; Van Dam et al. 2018). Matched-sample work finds bias by items' scoring direction minimal (Baer, Samuel & Lykins 2011), but the interpretive worries stand. Van Dam et al. also judge that the claim that mindfulness improves introspection "has not been well established", and note that real gains could deepen between-group confounds. These worries cut against the trained reports this article relies on as much as against claims for mindfulness interventions; [[measuring-the-witness-attitude]] examines what the instruments can and cannot show.
+
 **Observer effects.** Even expert contemplatives face the limitation that attending to experience modifies experience. Phenomenological investigation discloses the structure of *attended* consciousness, which may differ from pre-reflective consciousness. This is probably ineliminable.
 
 **Evolutionary debunking.** A naturalist can argue that contemplative training merely refines a biological capacity for self-monitoring that evolved for adaptive reasons. On this account, improved reports reflect better *functional* self-monitoring, not privileged access to phenomenal reality. The philosophical significance of contemplative reliability depends on whether the structural findings that converge across traditions can be explained as mere functional artefacts, or whether they reveal something about consciousness that functional accounts leave out. This is a genuine open question.
@@ -162,10 +164,12 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 ## References
 
+1. Baer, R. A., Samuel, D. B., & Lykins, E. L. B. (2011). Differential item functioning on the Five Facet Mindfulness Questionnaire is minimal in demographically matched meditators and nonmeditators. *Assessment*, 18(1), 3-10.
 1. Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General*, 143(5), 1972-1979.
 1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
 1. Ericsson, K. A., & Simon, H. A. (1980). Verbal reports as data. *Psychological Review*, 87(3), 215-251.
 1. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Grossman, P. (2011). Defining mindfulness by how poorly I think I pay attention during everyday awareness and other intractable problems for psychology's (re)invention of mindfulness. *Psychological Assessment*, 23(4), 1034-1040.
 1. Hagerty, M. R., et al. (2013). Case study of ecstatic meditation: fMRI and EEG evidence of self-stimulating a reward system. *Neural Plasticity*, 2013, 653572.
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
 1. Kok, B. E., & Singer, T. (2017). Phenomenological fingerprints of four meditations. *Mindfulness*, 8(1), 218-231.
@@ -175,5 +179,6 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Van Dam, N. T., van Vugt, M. K., Vago, D. R., et al. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation. *Perspectives on Psychological Science*, 13(1), 36-61.
 1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Velmans, M. (2007). Heterophenomenology versus critical phenomenology. *Phenomenology and the Cognitive Sciences*, 6(1), 221-230.

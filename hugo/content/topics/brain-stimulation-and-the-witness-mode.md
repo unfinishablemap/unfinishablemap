@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-23 16:38:58+00:00
+ai_modified: 2026-10-23 18:03:23+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 06:12:28+00:00
-lastmod: 2026-10-23 16:38:58+00:00
+lastmod: 2026-10-23 18:03:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ The case approaches the falsifier on structure and falls short on generality and
 
 ## Witness or Depersonalisation? {#witness-or-depersonalisation}
 
-[Depersonalisation](/concepts/depersonalisation/) shares the witness's geometry: DSM-5, as Parvizi et al. quote it, includes "being an outside observer with respect to one's thoughts". The structural measure does not separate the two. A preregistered survey of depersonalisation-like states triggered by meditation (n = 60) or otherwise (n = 61) found "no significant differences in CDS scores between the two groups" on the Cambridge Depersonalisation Scale (Pons et al. 2026). The meditation group scored higher on mysticism and ego dissolution, and rated its experiences more positively, though most in both groups called them mixed. It also scored higher on non-judging and non-reactivity, but these were trait scales, compared "to explore whether differences in experience appraisal might reflect trait mindfulness". The episodes were rated in a later survey, and in trauma research recalled dissociation drifts with current symptoms ([measuring a state after the fact](/topics/peritraumatic-dissociation/#after-the-fact)). The difference lay in valence and appraisal, and in a standing attitude.
+[Depersonalisation](/concepts/depersonalisation/) shares the witness's geometry: DSM-5, as Parvizi et al. quote it, includes "being an outside observer with respect to one's thoughts". The structural measure does not separate the two. A preregistered survey of depersonalisation-like states triggered by meditation (n = 60) or otherwise (n = 61) found "no significant differences in CDS scores between the two groups" on the Cambridge Depersonalisation Scale (Pons et al. 2026). The meditation group scored higher on mysticism and ego dissolution, and rated its experiences more positively, though most in both groups called them mixed. It also scored higher on non-judging and non-reactivity, but these were [trait scales](/topics/measuring-the-witness-attitude/), compared "to explore whether differences in experience appraisal might reflect trait mindfulness". The episodes were rated in a later survey, and in trauma research recalled dissociation drifts with current symptoms ([measuring a state after the fact](/topics/peritraumatic-dissociation/#after-the-fact)). The difference lay in valence and appraisal, and in a standing attitude.
 
 Active-inference accounts locate it in control: "whereas depersonalization is expressly characterized as resulting from a critical loss of inferred control, selflessness in the context of meditative practices is marked by a significant gain in control" (Deane, Miller & Wilkinson 2020). Ciaunica et al. (2022, abstract) model depersonalisation as "I am an embodied perceiver, but I am not in control of my perception", close to the pilot pulled from his chair. Both are physicalist models; the Map borrows their criterion, not their metaphysics.
 
@@ -101,9 +101,9 @@ That flexibility is a cost: a reading that accommodates both outcomes gains noth
 
 ## A Design That Would Sharpen the Question {#design}
 
-Cross active or sham tFUS with instruction (adopt open monitoring, or let the mind wander) and population (naive or experienced). Score outcomes blind on two profiles: Cambridge Depersonalisation Scale detachment, and a witness profile of non-reactivity and non-judging rated for the session rather than as traits, state nondual awareness, and retained control measured as a timed, cued switch to focused attention. That would show whether stimulation yields witness-profile or depersonalisation-profile states and whether the effect needs the participant to adopt the mode.
+Cross active or sham tFUS with instruction (adopt open monitoring, or let the mind wander) and population (naive or experienced). Score outcomes blind on two profiles: Cambridge Depersonalisation Scale detachment, and a witness profile of non-reactivity and non-judging rated for the session rather than as traits, state nondual awareness, and retained control measured as a timed, cued switch to focused attention. That would show whether stimulation yields witness-profile or depersonalisation-profile states and whether the effect needs the participant to adopt the mode. Not every limb has a validated instrument: non-identification has the Toronto Mindfulness Scale's decentering subscale and nondual awareness has the NADA-S, but the search behind [measuring-the-witness-attitude](/topics/measuring-the-witness-attitude/) found no validated session measure of non-reactivity or non-judging, so that limb would be scored ad hoc, by in-session experience sampling or behaviourally.
 
-It would not separate the three readings, since each permits an instruction × stimulation interaction: for production instruction is neurally realised, for active inference it sets precision, and for the interface reading it is how consciousness takes up a thinned menu. The intention-versus-expectancy design in [sham-controlled neurofeedback](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/#separating-design) meets the same limit from the self-regulation side.
+The design would not separate the three readings, since each permits an instruction × stimulation interaction: for production instruction is neurally realised, for active inference it sets precision, and for the interface reading it is how consciousness takes up a thinned menu. The intention-versus-expectancy design in [sham-controlled neurofeedback](/topics/sham-controlled-neurofeedback-and-the-consciousness-comparator/#separating-design) meets the same limit from the self-regulation side.
 
 ## Where the Evidence Stands {#status}
 

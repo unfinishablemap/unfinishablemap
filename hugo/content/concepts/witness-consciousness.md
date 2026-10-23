@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-14 16:52:33+00:00
+ai_modified: 2026-10-23 18:04:01+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 14:04:40+00:00
-lastmod: 2026-10-14 16:52:33+00:00
+lastmod: 2026-10-23 18:04:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ The witness mode extends rather than contradicts [Bidirectional Interaction](/te
 
 ## Decentering and Minimal Phenomenal Experience
 
-Research identifies *decentering* as the metacognitive capacity witnessing cultivates: meta-awareness, disidentification from mental contents, and reduced reactivity. Neurally, this involves a "dorsal shift" from the Default Mode Network to the Central Executive Network. The witness steps back from the self-narrative rather than fighting it.
+Research identifies *[decentering](/topics/measuring-the-witness-attitude/)* as the metacognitive capacity witnessing cultivates: meta-awareness, disidentification from mental contents, and reduced reactivity. Neurally, this involves a "dorsal shift" from the Default Mode Network to the Central Executive Network. The witness steps back from the self-narrative rather than fighting it.
 
 Thomas Metzinger's research on *minimal phenomenal experience* explores what remains when the phenomenal self-model is stripped away entirely—a "zero-person perspective" where awareness continues without subject-object structure. This extends rather than contradicts the witness concept: if consciousness can operate stripped of all content yet remain vividly aware, awareness itself is more fundamental than any structure it takes. ([The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) develops this.)
 

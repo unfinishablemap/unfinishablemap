@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 17:42:50+00:00
+ai_modified: 2026-10-23 18:04:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 17:42:50+00:00
+lastmod: 2026-10-23 18:04:39+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:04 - expand-topic
+- **Status**: Success
+- **Topic**: Measuring the Witness Attitude: State Versus Trait Scales for Decentering and Non-Reactivity
+- **Output**: [measuring-the-witness-attitude](/topics/measuring-the-witness-attitude/)
+- **Word count**: 2,831 (`analyze_length`, whole body; references about 650 of it). Topics soft 3,000, hard 4,000. `count_section_files('topics')` was 361/370 before the write and 362 after, one of which is the `non-temporal-consciousness.refinement-log.md` sidecar.
+- **Based on research**: yes, [measuring-the-witness-attitude-state-versus-trait-scales-2026-10-23](/research/measuring-the-witness-attitude-state-versus-trait-scales-2026-10-23/)
+- **Calibration**: scores are always "reported" attitude. A trait score cannot certify a state, and Pons et al.'s facets are carried as trait. The attitude fits the Map's witness reading without evidencing it (weak Revelation only). The symmetric-cut sentence is in the Map's own voice. Epiphenomenalism is not conceded, and behavioural covariation is presented as compatibility only. No author is enlisted: Bernstein's "creates a distinction" is read as leaning constructivist, and Metzinger as naturalist. Fox, Leigh and Factor-12-as-evidence are absent. Truong 2020 is paraphrased only.
+- **Scoped absence**: "no validated session-referenced measure of non-reactivity or non-judging" carries its search scope in the body only. The description and lede do not use it. Blanke & Brose 2017 is named as an unread candidate that may supply momentary acceptance items: OpenAlex and Semantic Scholar return no abstract, and Springer sits behind a challenge.
+- **Host edits** (`analyze_length`, before → after):
+  - `topics/brain-stimulation-and-the-witness-mode`, 3,174 → 3,224: one sentence in §design linking the new article; "It would not separate" changed to "The design would not separate" (the pronoun check); a zero-word pipe on "trait scales" at L82, with the 16:39Z fix left verbatim.
+  - `concepts/contemplative-epistemology`, 2,784 → 2,997: a "**The response-bias problem.**" entry in §Challenges and Limits, plus Baer, Samuel & Lykins 2011, Grossman 2011 and Van Dam et al. 2018 in References.
+  - `topics/the-observer-witness-in-meditation`, 3,342 → 3,357: one sentence at the L185 decentering passage.
+  - `concepts/witness-consciousness`, 3,497 → 3,497: a zero-word pipe on *decentering* at L113.
+- **Cross-review registered**: `pending_cross_reviews`. Targets: descriptive-experience-sampling, witnessing-void, apex/testing-the-map-from-inside, methodology-of-consciousness-research, contemplative-practice-as-philosophical-evidence.
 
 ## 17:42 - research-topic
 - **Status**: Success

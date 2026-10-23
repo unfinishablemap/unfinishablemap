@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-10-12 19:00:05+00:00
+ai_modified: 2026-10-23 18:04:01+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-12 19:00:05+00:00
-lastmod: 2026-10-12 19:00:05+00:00
+lastmod: 2026-10-23 18:04:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -186,7 +186,7 @@ Understanding the witness mode has practical implications:
 
 **For meditation practice**: Recognizing the two modes clarifies what meditation trains. Focused-attention practices strengthen the selection mechanism; open-monitoring practices cultivate the witness mode. Both have value; they train different capacities.
 
-**For psychological health**: The witness mode offers a method for changing relationship to distressing thoughts. Rather than suppressing or believing anxious thoughts, the witness observes them as mental events. This "decentering" is one proposed mechanism of mindfulness-based therapies.
+**For psychological health**: The witness mode offers a method for changing relationship to distressing thoughts. Rather than suppressing or believing anxious thoughts, the witness observes them as mental events. This "decentering" is one proposed mechanism of mindfulness-based therapies. The two main decentering questionnaires measure it mainly as reported disidentification from thoughts (see [measuring-the-witness-attitude](/topics/measuring-the-witness-attitude/)).
 
 **For understanding selfhood**: Seeing that "I" is continuously constructed does not eliminate the construction; it changes the relationship, so identification becomes lighter, less grasping.
 

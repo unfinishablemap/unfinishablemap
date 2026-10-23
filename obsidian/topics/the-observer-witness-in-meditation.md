@@ -4,7 +4,7 @@ description: "What meditation's witness state reveals about consciousness: prese
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-10-12T19:00:05+00:00
+ai_modified: 2026-10-23T18:04:01+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -182,7 +182,7 @@ Understanding the witness mode has practical implications:
 
 **For meditation practice**: Recognizing the two modes clarifies what meditation trains. Focused-attention practices strengthen the selection mechanism; open-monitoring practices cultivate the witness mode. Both have value; they train different capacities.
 
-**For psychological health**: The witness mode offers a method for changing relationship to distressing thoughts. Rather than suppressing or believing anxious thoughts, the witness observes them as mental events. This "decentering" is one proposed mechanism of mindfulness-based therapies.
+**For psychological health**: The witness mode offers a method for changing relationship to distressing thoughts. Rather than suppressing or believing anxious thoughts, the witness observes them as mental events. This "decentering" is one proposed mechanism of mindfulness-based therapies. The two main decentering questionnaires measure it mainly as reported disidentification from thoughts (see [[measuring-the-witness-attitude]]).
 
 **For understanding selfhood**: Seeing that "I" is continuously constructed does not eliminate the construction; it changes the relationship, so identification becomes lighter, less grasping.
 
