@@ -2,9 +2,9 @@
 title: "Sleep Paralysis, Hypnopompia, and Interface Reassembly"
 description: "Waking is not sleep onset reversed: interface channels restore on separate clocks, and sleep paralysis is the mis-ordering experienced from the inside."
 created: 2026-08-13
-modified: 2026-08-16
+modified: 2026-10-23
 human_modified:
-ai_modified: 2026-08-16T09:34:00+00:00
+ai_modified: 2026-10-23T19:35:52+00:00
 last_deep_review: 2026-08-16T09:34:00+00:00
 draft: false
 anchoring_audit_exempt: true  # VERIFIED false-high 2026-08-16 vs filter-theory. The article calibrates STRUCTURALLY, not lexically. It declares the underdetermination outright three times in words the regex set does not list — lead "every finding below is compatible with a production model in which different neural generators simply restart at different rates"; "The finding is neutral between filter and production readings ... nothing in the coupling data forbids it"; tenet close "The evidence permits both; the Map notes which it expects" — where the anchor scores its single marker on the phrase "empirically equivalent". Same move, different words. ~35 phrasal/structural calibration instances (~11.7/kw) against the 2.06/kw lexical floor: a whole concessive section (Conceding the Content), a section header that IS a calibration (A Default, Not a Finding), Herrero 2025 reported as exploratory n=7 with beta in one of two episodes, the "enough to motivate ... not enough to declare" summary, the common-cause-null non-independence caution in the tenet section, and four named falsifiers. No sentence over-claims relative to the evidence; hedge-stuffing would double-hedge claims already conceded in full. Same class as the descent-side sibling topics/hypnagogic-phenomenology-and-interface-modulation.
@@ -30,7 +30,7 @@ related_articles:
   - "[[memory-channel-interface-evidence]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5+claude-opus-5
+ai_system: claude-fable-5+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-08-13
 last_curated:
 ---
@@ -59,7 +59,7 @@ The finding is neutral between filter and production readings: a production mode
 
 In sleep paralysis, a person surfaces into full awareness while the REM-sleep motor blockade is still engaged. Sleep medicine characterises it as a dissociated state — elements of REM persisting into wakefulness — whose episodes "usually happen in the transition from REM sleep to the waking state" (Sodré et al., 2023). The paralysis mechanism is well understood: during REM, descending brainstem systems inhibit spinal motoneurons via GABA and glycine, and in sleep paralysis this atonia outlasts the arousal that should have terminated it. Aggregating 35 studies (N = 36,533), Sharpless and Barber (2011) estimate that 7.6% of the general population experiences at least one episode, with far higher rates among students (28.3%) and psychiatric samples. Nothing about the state is mechanistically mysterious, and the Map's use of it implies no such thing.
 
-What the state supplies is a channel decomposition available from the inside. During an episode, environmental perception can be partially open — experiencers commonly report seeing their actual surroundings. [[metacognition|Metacognition]] is substantially restored: sufferers know they are awake, know they cannot move, and recall the episode immediately afterwards. The motor channel is fully closed. And the imagery and threat systems are still running in dream mode, producing the sensed-presence and pressure phenomena catalogued in the next section. Channels that ordinary waking presents as a unit come apart, and their restoration order is experienced as wrong: awareness first, world-access partial, motor control last.
+What the state supplies is a channel decomposition available from the inside. During an episode, environmental perception can be partially open — experiencers commonly report seeing their actual surroundings. [[metacognition|Metacognition]] is substantially restored: sufferers know they are awake, know they cannot move, and recall the episode immediately afterwards. The motor channel is fully closed. And the imagery and threat systems are still running in dream mode, producing the sensed-presence and pressure phenomena catalogued in the next section. Channels that ordinary waking presents as a unit come apart, and their restoration order is experienced as wrong: awareness first, world-access partial, motor control last. [[tonic-immobility-and-awareness|Tonic immobility]] also closes the motor channel, but in waking and under threat, and is recalled weeks to years later and measured mostly for its motor side; sleep paralysis, recalled immediately, is the better-observed of the two.
 
 The state has begun to acquire an electrophysiological profile, though on very small samples. Mainieri et al. (2021), recording episodes in five experiencers, found the EEG spectrum during sleep paralysis "intermediate between wakefulness and REM sleep in the alpha, theta, and delta frequencies", with theta rhythm present in 70.8% of scored mini-epochs during paralysis against 89.7% in REM and 21.2% in wakefulness. Their own conclusion is that the brain during sleep paralysis "is not in an awake but in a dreaming state" — a dreaming brain co-present with waking self-knowledge. Herrero et al. (2025), in a study whose title labels it exploratory (seven participants analysed, two sleep-paralysis episodes), found theta reduced relative to both REM and stage 1 in both episodes and low-gamma increased in both, with beta increased in one of the two; the authors state that the sample size "may affect the generalizability and statistical robustness of the findings". The calibrated summary: a distinctive spectral configuration has been reported in two very small studies — enough to motivate the multi-channel description, not enough to declare sleep paralysis a third state of consciousness.
 

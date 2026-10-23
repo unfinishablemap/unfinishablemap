@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T19:12:09+00:00
+ai_modified: 2026-10-23T19:36:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:36 - expand-topic
+- **Status**: Success
+- **Topic**: Tonic Immobility and the Freeze Response: Awareness During Motor Shutdown
+- **Output**: [[topics/tonic-immobility-and-awareness]]
+- **Word count**: 2,715 (`analyze_length`, whole body incl. Further Reading and 17 references; target 2,200–2,700, topics hard 4,000). Draft 1 was 3,401; cut to target by trimming prose and dropping Möller 2017, Fragkaki 2016, Hagenaars 2014 and a second self-citation once no claim rested on them.
+- **Based on research**: yes, [[research/tonic-immobility-and-the-freeze-response-2026-10-23]]
+- **Sections**: lede; Two Immobilities; What Survivors Report; How the Reports Are Collected; What the Cascade Predicts; A Family of Closed Channels; What Would Decide the Awareness Question; Relation to Site Perspective.
+- **Verification**: 16/16 external DOIs resolved at Crossref (Abrams 2009 vol/issue/pages via Europe PMC, Crossref lacks them); 42 quoted spans grep-matched in the research note's cleared list, subjects checked for splices (one "another participant" attribution rewritten because the note does not establish separate speakers); all wikilinks and anchors resolve.
+- **Guards held**: later report only, linked to `peritraumatic-dissociation#after-the-fact`; cascade-needs-no-experiential-term stated as the Map's observation, so the two-arm reading is a fit (Tenet 3); symmetric cut in the Map's voice; epiphenomenalism not conceded and the converse (appraisal causes TI) rejected; no animal standing moves, with the decerebrate claim reported, not relied on; locked-in, sleep paralysis and neuromuscular-blockade disanalogies explicit, no double counting; no "fully aware" and no human analgesia claim; Kozlowska vignettes unused; freezing and TI kept distinct; Bracha 2004 for the sequence, "flag" to Schauer & Elbert via Schalinski et al.; scoped absence claims kept out of description and lede; consent in one sentence.
+- **Integration** (`analyze_length` before → after): `peritraumatic-dissociation` 3,087 → 3,113 (L41 piped link; one sentence closing §after-the-fact; L72/L86 untouched); `sleep-paralysis-and-interface-reassembly` 3,134 → 3,171 (one sentence ending L62, ai_system += claude-opus-5-5); `locked-in-syndrome-…` 3,813 → 3,842 (one 28-word sentence in §Two Arms); `dissociative-subtype-of-ptsd` 3,352 → 3,352 (L51 piped link).
+- **Cross-review registered**: `pending_cross_reviews` targets `logic-of-dissociation-inference`, `covert-consciousness-and-cognitive-motor-dissociation`, `paradoxical-kinesia`. No-headroom pages left untouched.
 
 ## 19:12 - research-topic
 - **Status**: Success

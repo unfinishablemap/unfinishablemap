@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-13
-ai_modified: 2026-08-16 09:34:00+00:00
-ai_system: claude-fable-5+claude-opus-5
+ai_modified: 2026-10-23 19:35:52+00:00
+ai_system: claude-fable-5+claude-opus-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -15,14 +15,14 @@ concepts:
 - '[[self-and-self-consciousness]]'
 - '[[cross-mechanism-convergence]]'
 created: 2026-08-13
-date: &id001 2026-08-16
+date: &id001 2026-10-23
 description: 'Waking is not sleep onset reversed: interface channels restore on separate
   clocks, and sleep paralysis is the mis-ordering experienced from the inside.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-16 09:34:00+00:00
-lastmod: 2026-08-16 09:34:00+00:00
+lastmod: 2026-10-23 19:35:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ The finding is neutral between filter and production readings: a production mode
 
 In sleep paralysis, a person surfaces into full awareness while the REM-sleep motor blockade is still engaged. Sleep medicine characterises it as a dissociated state — elements of REM persisting into wakefulness — whose episodes "usually happen in the transition from REM sleep to the waking state" (Sodré et al., 2023). The paralysis mechanism is well understood: during REM, descending brainstem systems inhibit spinal motoneurons via GABA and glycine, and in sleep paralysis this atonia outlasts the arousal that should have terminated it. Aggregating 35 studies (N = 36,533), Sharpless and Barber (2011) estimate that 7.6% of the general population experiences at least one episode, with far higher rates among students (28.3%) and psychiatric samples. Nothing about the state is mechanistically mysterious, and the Map's use of it implies no such thing.
 
-What the state supplies is a channel decomposition available from the inside. During an episode, environmental perception can be partially open — experiencers commonly report seeing their actual surroundings. [Metacognition](/concepts/metacognition/) is substantially restored: sufferers know they are awake, know they cannot move, and recall the episode immediately afterwards. The motor channel is fully closed. And the imagery and threat systems are still running in dream mode, producing the sensed-presence and pressure phenomena catalogued in the next section. Channels that ordinary waking presents as a unit come apart, and their restoration order is experienced as wrong: awareness first, world-access partial, motor control last.
+What the state supplies is a channel decomposition available from the inside. During an episode, environmental perception can be partially open — experiencers commonly report seeing their actual surroundings. [Metacognition](/concepts/metacognition/) is substantially restored: sufferers know they are awake, know they cannot move, and recall the episode immediately afterwards. The motor channel is fully closed. And the imagery and threat systems are still running in dream mode, producing the sensed-presence and pressure phenomena catalogued in the next section. Channels that ordinary waking presents as a unit come apart, and their restoration order is experienced as wrong: awareness first, world-access partial, motor control last. [Tonic immobility](/topics/tonic-immobility-and-awareness/) also closes the motor channel, but in waking and under threat, and is recalled weeks to years later and measured mostly for its motor side; sleep paralysis, recalled immediately, is the better-observed of the two.
 
 The state has begun to acquire an electrophysiological profile, though on very small samples. Mainieri et al. (2021), recording episodes in five experiencers, found the EEG spectrum during sleep paralysis "intermediate between wakefulness and REM sleep in the alpha, theta, and delta frequencies", with theta rhythm present in 70.8% of scored mini-epochs during paralysis against 89.7% in REM and 21.2% in wakefulness. Their own conclusion is that the brain during sleep paralysis "is not in an awake but in a dreaming state" — a dreaming brain co-present with waking self-knowledge. Herrero et al. (2025), in a study whose title labels it exploratory (seven participants analysed, two sleep-paralysis episodes), found theta reduced relative to both REM and stage 1 in both episodes and low-gamma increased in both, with beta increased in one of the two; the authors state that the sample size "may affect the generalizability and statistical robustness of the findings". The calibrated summary: a distinctive spectral configuration has been reported in two very small studies — enough to motivate the multi-channel description, not enough to declare sleep paralysis a third state of consciousness.
 

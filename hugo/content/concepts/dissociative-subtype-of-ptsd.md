@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-20
-ai_modified: 2026-10-22 09:05:44+00:00
+ai_modified: 2026-10-23 19:35:52+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[metacognitive-access-versus-retention]]'
 - '[[predictive-processing]]'
 created: 2026-10-20
-date: &id001 2026-10-22
+date: &id001 2026-10-23
 description: 'The DSM-5 dissociative subtype of PTSD and Lanius''s overmodulation
   model: the best-specified brain-only account of trauma-provoked depersonalisation,
   what held and what failed, and why it moves the trauma-selectivity point against
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 10:33:02+00:00
-lastmod: 2026-10-22 09:05:44+00:00
+lastmod: 2026-10-23 19:35:52+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -53,7 +53,7 @@ The model began in the scanner. Pilot work with script-driven trauma imagery, re
 
 The strongest support came later. Resting-state dynamic causal modelling in 155 participants found "predominant bottom-up connectivity from the amygdala to the vmPFC" in PTSD and "predominant top-down connectivity between all node pairs" in the subtype (Nicholson et al. 2017). A prospective study scanned 145 survivors in the AURORA cohort two weeks after trauma: "Derealization was associated with increased ventromedial prefrontal cortex (vmPFC) activation" (Lebois et al. 2022).
 
-The model then acquired a reason. A narrative review from the model's own laboratory holds that PTSD and its subtype "are thought to differ in their proclivity to elicit active (i.e., fight, flight) versus passive (i.e., tonic immobility, emotional shutdown) defensive responses", with the periaqueductal grey in a unifying role (Terpou et al. 2019). In the evolved defence cascade, passive immobility is the last resort against inescapable threat (Kozlowska et al. 2015). Laurin et al. (2026), a theoretical model, give the [predictive-processing](/concepts/predictive-processing/) form, in which "emotional over-inhibition and anterior insula hypoactivity weaken priors and interoception, while exteroceptive inputs dominate". This is the trauma form of the active-inference account the Map engages for [depersonalisation](/concepts/depersonalisation/). Like that account it is a model of brain function, and the Map treats it as a rival.
+The model then acquired a reason. A narrative review from the model's own laboratory holds that PTSD and its subtype "are thought to differ in their proclivity to elicit active (i.e., fight, flight) versus passive (i.e., tonic immobility, emotional shutdown) defensive responses", with the periaqueductal grey in a unifying role (Terpou et al. 2019). In the evolved defence cascade, [passive immobility](/topics/tonic-immobility-and-awareness/) is the last resort against inescapable threat (Kozlowska et al. 2015). Laurin et al. (2026), a theoretical model, give the [predictive-processing](/concepts/predictive-processing/) form, in which "emotional over-inhibition and anterior insula hypoactivity weaken priors and interoception, while exteroceptive inputs dominate". This is the trauma form of the active-inference account the Map engages for [depersonalisation](/concepts/depersonalisation/). Like that account it is a model of brain function, and the Map treats it as a rival.
 
 ## What Held and What Did Not {#ledger}
 

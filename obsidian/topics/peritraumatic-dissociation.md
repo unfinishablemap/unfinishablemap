@@ -4,7 +4,7 @@ description: "Dissociation during trauma predicts worse PTSD, and the tests of m
 created: 2026-10-22
 modified: 2026-10-23
 human_modified: null
-ai_modified: 2026-10-23T16:38:58+00:00
+ai_modified: 2026-10-23T19:35:52+00:00
 draft: false
 topics:
   - "[[clinical-dissociation-as-systematic-evidence]]"
@@ -38,7 +38,7 @@ The failure lands equally on both readings the Map weighs. The interface reading
 
 The field's main instrument is the Peritraumatic Dissociative Experiences Questionnaire (PDEQ). Marmar et al. (1994) operationalised the construct with its rater version in 251 male Vietnam theatre veterans, using "retrospective reports of dissociation during the most disturbing combat trauma events", and found that "the greater the dissociation during traumatic stress exposure, the greater the likelihood of meeting criteria for current PTSD".
 
-The construct is broad, and instruments disagree on whether amnesia, numbing and reduced awareness belong to it (van der Hart et al. 2008). It is broader than the depersonalisation and derealisation that [[dissociative-subtype-of-ptsd]] concerns. Tonic immobility, the defence cascade's "strategy of last resort", is a motor state that often includes dissociative experience, not a synonym for it.
+The construct is broad, and instruments disagree on whether amnesia, numbing and reduced awareness belong to it (van der Hart et al. 2008). It is broader than the depersonalisation and derealisation that [[dissociative-subtype-of-ptsd]] concerns. [[tonic-immobility-and-awareness|Tonic immobility]], the defence cascade's "strategy of last resort", is a motor state that often includes dissociative experience, not a synonym for it.
 
 ## The Predictive Record {#predictive-record}
 
@@ -71,7 +71,7 @@ Every sense of momentary protection needs a fact about what the trauma felt like
 
 Yet the same meta-analysis found that "longitudinal studies reported a stronger positive relation between peritraumatic dissociation and PTS than the retrospective studies", which tells against a pure recall artefact, although its longitudinal category includes designs whose first measurement was itself retrospective. Measurement during an ongoing threat is possible, as the two rocket-campaign studies show (Greene 2018; Dokkedahl & Lahav 2024). Part of the difficulty may be principled: "The subjective experience of PD may not be accessible in the moment and may only be understood or recognized after the immediate danger has passed" (van der Hart et al. 2008, crediting the point to Ozer et al.).
 
-This is a clinical instance of the [[inaccessible-past]], where reconstruction lets present concerns overwrite what was stored, and of the [[confabulation-void]], where error is detected, if at all, only retrospectively.
+This is a clinical instance of the [[inaccessible-past]], where reconstruction lets present concerns overwrite what was stored, and of the [[confabulation-void]], where error is detected, if at all, only retrospectively. The same limit is sharper for [[tonic-immobility-and-awareness|tonic immobility]]: its main scale asks nothing about awareness, and a laboratory paradigm that re-elicits it scores only motor items.
 
 ## What This Does to the Two Readings {#two-readings}
 

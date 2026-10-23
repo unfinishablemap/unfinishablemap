@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-10
-ai_modified: 2026-10-01 22:56:34+00:00
+ai_modified: 2026-10-23 19:35:52+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[filter-theory]]'
 - '[[lived-objectified-body-distinction]]'
 created: 2026-07-10
-date: &id001 2026-07-10
+date: &id001 2026-10-23
 description: 'A human+AI negative-case analysis: locked-in syndrome bounds the Map''s
   filter model rather than confirming it, exhibiting the bidirectional interface''s
   two dissociable arms.'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 18:09:47+00:00
-lastmod: 2026-10-01 22:56:34+00:00
+lastmod: 2026-10-23 19:35:52+00:00
 modified: *id001
 related_articles:
 - '[[filter-vs-interface-distinction]]'
@@ -67,7 +67,7 @@ One boundary needs care, and the [detection-problem section](#not-the-detection-
 
 The material to this point is clinical. What follows is the Map's interpretation, and it should be read as interpretation.
 
-The Map treats the mind-brain relationship as an *interface* with two dissociable arms: an ascending or input arm (world → consciousness) and a descending or output arm (consciousness → world / body) — the inbound and outbound legs of the [filter-vs-interface distinction](/concepts/filter-vs-interface-distinction/). Most clinical dissociations disturb both arms at once, or disturb consciousness itself, which is why they rarely isolate the interface's structure. Locked-in syndrome is unusual in cutting predominantly one of them. What the pontine lesion severs is the neural pathway carrying motor traffic from brain to body; the input side and consciousness itself substantially persist. The Map does not thereby locate either arm of the interface in the pons. The severed structure is a neural transmission route, and identifying it with the consciousness-to-body leg would import a premise the Map does not carry.
+The Map treats the mind-brain relationship as an *interface* with two dissociable arms: an ascending or input arm (world → consciousness) and a descending or output arm (consciousness → world / body) — the inbound and outbound legs of the [filter-vs-interface distinction](/concepts/filter-vs-interface-distinction/). Most clinical dissociations disturb both arms at once, or disturb consciousness itself, which is why they rarely isolate the interface's structure. Locked-in syndrome is unusual in cutting predominantly one of them. [Tonic immobility](/topics/tonic-immobility-and-awareness/) also closes output with input reported partly open, but reflexively and briefly in an intact brain, a disanalogy that makes it a weaker test of the arms. What the pontine lesion severs is the neural pathway carrying motor traffic from brain to body; the input side and consciousness itself substantially persist. The Map does not thereby locate either arm of the interface in the pons. The severed structure is a neural transmission route, and identifying it with the consciousness-to-body leg would import a premise the Map does not carry.
 
 Contemporary communication technology sharpens the point. Speech neuroprostheses and brain-computer interfaces restore an output channel by decoding attempted speech or movement directly from cortical activity, bypassing the severed descending tracts. As Silva and colleagues put it in their review, the aim is "circumventing motor-pathway injury by directly decoding speech from intact cortical activity" (Silva et al. 2024). The engineering fact carries a conceptual implication the Map reads as follows: what the prosthesis decodes appears to be a fully formed intent-to-act signal, present in the cortex of a locked-in patient. On this reading the loss lies downstream of intention, in the effector pathway — not in consciousness, and not in volition.
 
