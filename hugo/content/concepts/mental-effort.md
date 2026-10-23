@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-21 00:23:30+00:00
+ai_modified: 2026-10-23 20:51:11+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,14 +24,14 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[concepts/cognitive-phenomenology]]'
 created: 2026-01-14
-date: &id001 2026-10-21
+date: &id001 2026-10-23
 description: Why controlling attention feels like work—and what this widely-shared
   phenomenology reveals about consciousness influencing matter.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-10-21 00:23:30+00:00
+lastmod: 2026-10-23 20:51:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ The Inzlicht and Kurzban process models provide the serious non-epiphenomenalist
 
 [Neuroplasticity research](/concepts/neuroplasticity/) offers suggestive empirical support — convergent across psychotherapy, contemplative practice, and clinical case studies — though the evidence admits materialist reinterpretation.
 
-CBT produces measurable neural changes following purely psychological treatment. An activation-likelihood-estimation meta-analysis found consistent fronto-limbic activation changes after CBT across psychiatric disorders (Yuan et al., 2022). The broader treatment-mechanism literature characterises this as a dual-process asymmetry — psychological therapies acting primarily top-down on prefrontal regulatory circuits, antidepressants more directly bottom-up on limbic targets — though this divergence remains a working hypothesis rather than a settled finding. Effortful cognitive reappraisal engages prefrontal regulatory circuits that modulate subcortical processing — see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for the full pathway-divergence argument.
+CBT produces measurable neural changes following purely psychological treatment. An activation-likelihood-estimation meta-analysis found consistent fronto-limbic activation changes after CBT across psychiatric disorders (Yuan et al., 2022). The broader treatment-mechanism literature characterises this as a dual-process asymmetry — psychological therapies acting primarily top-down on prefrontal regulatory circuits, antidepressants more directly bottom-up on limbic targets — though this divergence remains a working hypothesis rather than a settled finding. [Cognitive reappraisal](/topics/emotion-regulation-and-the-timing-of-control/), costly mainly when begun late, engages prefrontal regulatory circuits that modulate subcortical processing — see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for the full pathway-divergence argument.
 
 Contemplative neuroscience extends the pattern: long-term meditators show functional brain differences (altered activation, gamma synchrony) tracking practice. Earlier structural claims (cortical thickness) have been weakened by Kral et al. (2022) — a well-powered replication (N=218) with active controls found no structural changes from MBSR. Lutz et al. (2008) document how expertise reshapes the phenomenology: novices require active redirection, while experts maintain stability with diminished effort and finer-grained awareness of effortful/effortless transitions.
 

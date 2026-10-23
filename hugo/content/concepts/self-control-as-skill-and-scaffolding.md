@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-23 00:08:36+00:00
+ai_modified: 2026-10-23 20:51:11+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-05 08:39:44+00:00
-lastmod: 2026-10-23 00:08:36+00:00
+lastmod: 2026-10-23 20:51:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ The 2025 *Stanford Encyclopedia* entry on weakness of will (Stroud & Svirsky) is
 
 **The trait pattern is strongly supported.** A meta-analysis of 102 studies (N = 32,648) found trait self-control's associations "significantly stronger for automatic (as compared to controlled) behavior" (de Ridder et al. 2012, abstract). Across six studies, Galla and Duckworth (2015, abstract) report "emerging evidence that self-control is associated with less inhibition in daily life", with habits mediating the benefit. In experience sampling (N = 3,327), high scorers reported fewer episodes of self-restraint, effortful decision and pushing through unwanted tasks (Baumeister, Wright & Carreon 2019, abstract).
 
-**That scaffolding is the main causal route is a live hypothesis.** Situational strategies "may be especially effective in preventing undesirable action" (Duckworth, Gendler & Gross 2016, abstract), and two one-week field experiments favoured situation modification, an effect that in the college sample was "partially mediated by decreased feelings of temptation" (Duckworth et al. 2016, abstract). Gendler's earlier account of [alief](/topics/alief-and-acting-against-belief/) adds an asymmetry: aliefs, unlike beliefs, can be cultivated by deliberate tricks "under conditions of full disclosure" (Gendler 2008, p. 652). Implementation intentions, if-then plans that "delegate the control of goal-directed responses to anticipated situational cues" (Gollwitzer 1999, abstract), are strongly supported, with ".27 ≤ d ≤ .66" across 642 tests (Sheeran, Listrom & Gollwitzer 2025, abstract), though no bias-corrected estimate was checked here.
+**That scaffolding is the main causal route is a live hypothesis.** Situational strategies "may be especially effective in preventing undesirable action" (Duckworth, Gendler & Gross 2016, abstract), and two one-week field experiments favoured situation modification, an effect that in the college sample was "partially mediated by decreased feelings of temptation" (Duckworth et al. 2016, abstract). Duckworth, Gendler and Gross extend Gross's process model of emotion regulation, whose authors had already narrowed, for emotion, the premise that earlier regulation is always easier ([the timing of emotion regulation](/topics/emotion-regulation-and-the-timing-of-control/)). Gendler's earlier account of [alief](/topics/alief-and-acting-against-belief/) adds an asymmetry: aliefs, unlike beliefs, can be cultivated by deliberate tricks "under conditions of full disclosure" (Gendler 2008, p. 652). Implementation intentions, if-then plans that "delegate the control of goal-directed responses to anticipated situational cues" (Gollwitzer 1999, abstract), are strongly supported, with ".27 ≤ d ≤ .66" across 642 tests (Sheeran, Listrom & Gollwitzer 2025, abstract), though no bias-corrected estimate was checked here.
 
 Two results cut against this. A daily-life study of 4,462 desires concluded that "many strategies, including inhibition, are similarly effective and that using multiple strategies is especially effective" (Milyavskaya, Saunders & Inzlicht 2021, abstract). In a study of persistence through aversive activities (N = 264), no strategy accounted for the benefit of trait self-control on perceived success, and the authors treat trait and strategy use as "separate routes" (Hennecke, Czikmantori & Brandstätter 2019, abstract).
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-21 20:10:34+00:00
+ai_modified: 2026-10-23 20:51:11+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ concepts:
 - '[[introspection]]'
 - '[[phenomenology]]'
 created: 2026-01-19
-date: &id001 2026-10-21
+date: &id001 2026-10-23
 description: Emotional consciousness provides the strongest empirical case for dualism.
   Valence—the felt quality of good and bad—is irreducible and presses on epiphenomenalism,
   though it binds bare correlation, not the phenomenal-concept version.
@@ -42,7 +42,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-01 19:20:41+00:00
-lastmod: 2026-10-21 20:10:34+00:00
+lastmod: 2026-10-23 20:51:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,6 +109,8 @@ Max Scheler (1913/1973) identified this as *Wertnehmung*—value-perception. Emo
 ### Emotional Causation
 
 If emotions are irreducible conscious acts with genuine causal power, emotional causation is direct. When grief motivates you to honour a loss, or compassion moves you to help, the conscious emotional experience itself is part of the causal story. This contrasts with Damasio's somatic marker hypothesis, which treats consciousness as causally idle—the real work done by body-brain feedback loops. The Map rejects this epiphenomenal role. Pain asymbolia provides evidence: diminished feeling, diminished motivation.
+
+Emotions are also routinely regulated, explicitly and implicitly, and [the timing of that regulation](/topics/emotion-regulation-and-the-timing-of-control/) gives a conscious contribution a precise possible location, at the regulatory goal and the choice of strategy, though every stage is modelled without an experiential term, so the location is fit rather than evidence.
 
 ## Core Affect and Emotional Depth
 

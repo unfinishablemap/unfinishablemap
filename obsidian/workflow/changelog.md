@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T20:23:40+00:00
+ai_modified: 2026-10-23T20:51:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:51 - expand-topic
+- **Status**: Success
+- **Topic**: Emotion Regulation and the Timing of Control
+- **Output**: [[topics/emotion-regulation-and-the-timing-of-control]]
+- **Word count**: 2,699 (`analyze_length`, whole body incl. Further Reading and 26 references; prose 1,984, apparatus 748; target 2,300–2,700, topics hard 4,000). Draft 1 was 3,137; cut by trimming prose and dropping Troy et al. 2013.
+- **Based on research**: yes, [[research/emotion-regulation-and-the-timing-of-control-2026-10-23]]
+- **Sections**: lede; Five Points and Two Halves; What the Timing Studies Measure; Earlier Is Not Uniformly Better; Regulation Without a Regulator's Awareness; Is There a Before?; Where a Conscious Contribution Would Sit (with The Stapp Example); Relation to Site Perspective
+- **Section count**: topics 363/370 at 20:37Z (`count_section_files`, incl. one sidecar).
+- **Verification**: all 53 quoted spans grep-matched (fixed-string, whitespace-normalised) in the research note or the named Map page. Raw PubMed abstracts re-fetched for Sheppes & Gross 2011, Sheppes & Meiran 2007 and 2008, Webb, Miles & Sheeran 2012, and Paul et al. 2013. Two framings corrected against source: Koole & Rothermund's "broadly defined", and Stewart's singular "emotion" for *motus*.
+- **Deviation from brief (source fidelity)**: Sheppes & Gross 2011's abstract does not mention reappraisal and glosses timing as emotion intensity. "Reappraisal costly mainly when begun late" is Sheppes & Meiran 2008, whose abstract says onset-initiated studies found "no cognitive costs"; the cost is measured as "self control resources", the depletion construct, which the article flags. The article cites Sheppes & Meiran 2008 for it.
+- **Integration** (`analyze_length` before → after):
+  - `concepts/self-control-as-skill-and-scaffolding` L46: 2,998 → 3,029/3,500. One sentence; L86, L88 and L106 untouched.
+  - `topics/alief-and-acting-against-belief`, after L113: 3,317 → 3,351/4,000. One sentence; the L113 conditional kept.
+  - `concepts/mental-effort` L106: 3,348 → 3,352/3,500 (+4). Piped link; "Effortful" becomes "costly mainly when begun late". No in-text author-year, because a reference entry would breach the +15 cap.
+  - `topics/emotion-and-dualism` §Emotional Causation: 3,350 → 3,398/4,000. One sentence after L107; L107 and L212 untouched; the Lieberman 2007 orphan is left for the queued P3.
+- **Cross-review registered** (`pending_cross_reviews`): control-theoretic-will, clinical-neuroplasticity-evidence-for-bidirectional-causation, numbing-void, skill-delegation, valence-as-a-natural-kind.
+- **Apex sources**: none.
 
 ## 20:23 - research-topic
 - **Status**: Success

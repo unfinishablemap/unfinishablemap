@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-21
-ai_modified: 2026-10-21 00:52:46+00:00
+ai_modified: 2026-10-23 20:51:11+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[control-theoretic-will]]'
 - '[[self-control-as-skill-and-scaffolding]]'
 created: 2026-10-21
-date: &id001 2026-10-21
+date: &id001 2026-10-23
 description: 'Human+AI study of Gendler''s alief and its rivals: acting on belief
   against alief is back-end control over belief only if implicit attitudes are beliefs.
   No evidence for dualism.'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-21 00:52:46+00:00
-lastmod: 2026-10-21 00:52:46+00:00
+lastmod: 2026-10-23 20:51:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,6 +115,8 @@ The fit is real but tests nothing. A dual-process account predicts the same spli
 Felt effort needs the conflict to be noticed. Gendler (2014, abstract) says associative and heuristic processes "produce challenges to reason's rule that are phenomenologically invisible". Greenwald and Banaji (1995, abstract) define implicit cognition by influence "not introspectively known by the actor", and note that "implicit cognitive effects are often reduced by focusing judges' attention on their judgment task". Juliet's striving is intermittent because "it's impossible to constantly maintain such self-conscious vigilance" (Schwitzgebel 2010, p. 532).
 
 So the back-end speculation has to be conditional. Effort can appear where the rival guide is noticed and checked; where interference goes unseen there is nothing to feel. The skywalk visitor notices her vertigo. Implicit bias carries no such guarantee, and nothing here claims that felt effort accompanies implicit bias as such.
+
+Emotion regulation shows the same structure: the extended process model begins explicit regulation with identification, registering that an emotion calls for regulating, while implicit regulation can proceed without awareness ([the timing of emotion regulation](/topics/emotion-regulation-and-the-timing-of-control/)).
 
 ## A Parity With Doxastic Involuntarism {#parity}
 
