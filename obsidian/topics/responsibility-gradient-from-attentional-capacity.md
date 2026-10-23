@@ -2,9 +2,9 @@
 title: "The Responsibility Gradient: From Attentional Capacity to Moral Desert"
 description: "Moral responsibility is not binary but graded by attentional capacity—the conscious bandwidth available for deliberation, foresight, and self-regulation shapes how much desert an agent bears."
 created: 2026-02-19
-modified: 2026-10-20
+modified: 2026-10-23
 human_modified:
-ai_modified: 2026-10-20T13:58:32+00:00
+ai_modified: 2026-10-23T12:04:42+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -54,7 +54,7 @@ Attentional capacity is not a single variable. The responsibility gradient opera
 
 [[working-memory|Working memory]] capacity (~4±1 items per Cowan, 2001) determines how many considerations an agent can hold simultaneously during deliberation. Genuine moral reasoning often requires holding the action, its consequences, the affected parties, and applicable principles together in awareness. An agent with temporarily or chronically reduced working memory capacity—through fatigue, intoxication, developmental factors, or neurological damage—can entertain fewer of these simultaneously. Their deliberation is structurally impoverished, not because they don't care but because they cannot hold enough threads to reason well.
 
-This dimension affects the *knowledge* requirement most directly. You cannot be fully responsible for consequences you lacked the bandwidth to foresee.
+This dimension affects the *knowledge* requirement most directly. You cannot be fully responsible for consequences you lacked the bandwidth to foresee. How much awareness that requirement demands is disputed. In [[consciousness-and-the-epistemic-condition-on-responsibility|the epistemic-condition debate]], Neil Levy's revisionism excuses ordinary agents who are not conscious of the morally significant facts, while capacitarians such as George Sher hold that an agent who could and should have been aware is not excused. The stability dimension's verdict on lapses sides with the capacitarians against Levy.
 
 ### Stability
 
@@ -66,7 +66,7 @@ Conditions like ADHD, acute stress, sleep deprivation, and addiction all reduce 
 
 The range of the attentional field—how broadly consciousness can survey options, consequences, and affected parties—varies between agents and within the same agent across time. Narrow attentional scope produces what the [[consciousness-and-moral-agency-under-duress|duress article]] calls *tunnel vision*: the agent attends to immediate demands while broader moral considerations fall outside the phenomenal field entirely.
 
-Scope affects sourcehood. An agent whose attention is structurally confined to the immediate situation—whether by threat, addiction, or chronic poverty—did not choose to ignore distant consequences. Those consequences were never phenomenally available for selection.
+Scope affects sourcehood. An agent whose attention is structurally confined to the immediate situation—whether by threat, addiction, or chronic poverty—did not choose to ignore distant consequences. Those consequences were never phenomenally available for selection. "Phenomenally available" is this article's term. Levy's condition requires only that information be *personally available*, an informational state he distinguishes from phenomenal consciousness.
 
 ### Flexibility
 

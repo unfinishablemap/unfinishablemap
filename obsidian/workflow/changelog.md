@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T11:27:23+00:00
+ai_modified: 2026-10-23T12:05:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:05 - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Epistemic Condition on Moral Responsibility
+- **Output**: [[topics/consciousness-and-the-epistemic-condition-on-responsibility]]
+- **Word count**: 3,198 (analyze_length, whole body including Further Reading and References; topics soft 3,000 / hard 4,000)
+- **Based on research**: yes, [[research/consciousness-and-the-epistemic-condition-on-responsibility-2026-10-23]]
+- **Section count**: count_section_files('topics') 360 before writing (cap 370); slug check OK
+- **Structure**: lede → What the Epistemic Condition Asks → Levy's Consciousness Thesis (personal availability; two arguments) → The Replies (quality of will and attributionism; Sher's capacitarian denial; no consciousness requirement) → Implicit Bias as the Test Case → Access or Phenomenal? (the Map's extension and its costs) → Where the Map's Responsibility Pages Sit → Relation to Site Perspective
+- **Guards**: Levy is never enlisted for dualism or called a physicalist ("personally available"; "akin to what Block calls access consciousness"). Sher is filed as capacitarian; "what Levy (2005) calls attributionism"; Smith's "rational relations view" is quoted from 2012. Madva is credited for the phenomenal-capacity thesis (venue unconfirmed); the act-level phenomenal reading is labelled the Map's extension, with three costs. The AI culpability gap is said to rest on the interface posit, with Semler 2024 as the rival. No reliance on IAT effect sizes (Hahn 2014; links alief#empirical-record). "A necessary condition need not be a cause" is stated; Levy ch. 2 is not read as conceding inefficacy. The King & Carruthers conditional is quoted. The on-Map absence claim is scoped to the 2026-10-23 search and kept out of the lede and description. Sher is quoted only via the SEP. All 61 quotations were grep-verified against the research note or the host pages.
+- **Calibration**: Tenet 3 fits without evidencing, quantifier left open; epiphenomenalism not conceded; Tenet 5 declines decisiveness but does not claim refutation; Tenet 1 neutral except at the framework-relative phenomenal extension.
+- **Host edits**: concepts/moral-responsibility 3,475 → 3,475 (zero-word pipe on "knowledge" at L43; ai_system appended claude-opus-5-5). topics/responsibility-gradient-from-attentional-capacity 3,196 → 3,278 (two sentences at L57 and one at L69: "phenomenally available" vs Levy's "personally available"; lapse verdict capacitarian, against Levy; ai_system already had claude-opus-5-5).
+- **Cross-review registered**: task_chains.pending_cross_reviews (AI page, reactive attitudes, alief, reasons-responsiveness, access-consciousness, global-workspace-theory)
 
 ## 11:27 - refine-draft
 - **Status**: Success

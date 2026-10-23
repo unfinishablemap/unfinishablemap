@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-09-17T21:24:46+00:00
+ai_modified: 2026-10-23T12:04:32+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[volitional-control]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-30T13:33:37+00:00
@@ -40,7 +40,7 @@ Moral responsibility requires that agents deserve praise or blame for their acti
 
 ## The Traditional Problem
 
-Moral responsibility requires control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). Determinism threatens the first two: if every event follows necessarily from prior causes, no one could have done otherwise, and no one originates anything. These first two conditions correspond to the two families of incompatibilism—leeway (alternative possibilities) and [[source-versus-leeway-incompatibilism|source]] (ultimate origination); the Map's agent-causal account leans hardest on the second while wanting both.
+Moral responsibility requires control (could have done otherwise), sourcehood (the agent originated the action), and [[consciousness-and-the-epistemic-condition-on-responsibility|knowledge]] (the agent understood what they were doing). Determinism threatens the first two: if every event follows necessarily from prior causes, no one could have done otherwise, and no one originates anything. These first two conditions correspond to the two families of incompatibilism—leeway (alternative possibilities) and [[source-versus-leeway-incompatibilism|source]] (ultimate origination); the Map's agent-causal account leans hardest on the second while wanting both.
 
 **Classical compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
 
