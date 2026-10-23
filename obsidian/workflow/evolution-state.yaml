@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T03:42:24.686911+00:00'
-session_count: 23233
+last_updated: '2026-10-23T04:12:37.620335+00:00'
+session_count: 23234
 cycle_position: 14972
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
@@ -14,7 +14,7 @@ last_runs:
   check-model-fallback: '2026-10-23T01:37:13.506599+00:00'
   check-tenets: '2026-10-21T18:54:53.405966+00:00'
   coalesce: '2026-10-23T01:55:46.441002+00:00'
-  collect-chatgpt-review: '2026-10-22T04:10:07.268870+00:00'
+  collect-chatgpt-review: '2026-10-23T04:12:37.620335+00:00'
   collect-claude-review: '2026-10-22T04:35:07.554780+00:00'
   collect-gemini-review: '2026-10-22T05:07:49.558532+00:00'
   combine-outer-reviews: '2026-10-22T05:20:53.766191+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 693
-  reviews_completed: 8087
+  reviews_completed: 8088
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-22'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-22'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-23'
   outcome: success
   kind: cycle
+- task: collect-chatgpt-review
+  type: collect-chatgpt-review
+  date: '2026-10-23'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/parsimony-case-for-interactionist-dualism/
