@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T05:37:06+00:00
+ai_modified: 2026-10-23T06:12:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:12 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/dualism]]
+- **Task**: P1 from convergent outer reviews 2026-10-23 (3/3), Revelation / conceivability / cross-traditional / Nagel / Kripke items (todo index 3057). Review files: `reviews/outer-review-2026-10-23-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-10-23-claude-fable-5-1.md`, `reviews/outer-review-2026-10-23-gemini-3-1-pro.md`; synthesis `reviews/outer-review-synthesis-2026-10-23.md`.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted refine against the task's verified OLD strings, all present once at 98fa383fbb)
+- **Changes**:
+  - (1) Conceivability (L106): the unqualified "If zombies are conceivable, they are metaphysically possible" is now marked as the Map's inference; that step, like Kripke's argument, "inherits the standing of [[modal-epistemology|modal rationalism]], and that standing is contested" (the exact modal-epistemology L121 / conceivability-possibility-inference L144 phrase). The strong-Revelation sentence ("Phenomenal concepts directly reveal their referents, so the conceivability-possibility link holds…") is replaced by weak [[revelation-thesis|Revelation]] (part of a quality's character, not its full essence) plus the open debt, "neither won nor lost" (modal-epistemology L123).
+  - (a) Ignorance-hypothesis scoping imported from philosophical-zombies L67 as a parenthetical on "physically identical to us".
+  - (2) Kripke (L114): "with pain, we have direct epistemic access. There's no hidden essence to pain beyond what we experience." → pain is picked out by an appearance belonging to its nature, not a contingent mode of presentation (mirrors modal-structure-of-phenomenal-properties L62/L64), and the Map's use of Kripke also needs a premise Type-B physicalists deny and weak Revelation does not discharge: nothing in pain's unrevealed nature ties it to C-fibers.
+  - (c) Kripke's restraint added with the kripke-a-posteriori-necessity-argument L51 wording: rejecting the identity thesis "does not imply acceptance of Cartesian dualism" (1980, p. 155 n. 77). Body date 1972 → 1980 to match References (no new reference entry).
+  - (4) Nagel (L118): one clause added, paraphrase only (not verified verbatim): Nagel declined to conclude that physicalism is false, holding that we cannot yet conceive how it could be true.
+  - (3) Cross-traditional (L134): "independently arrive at irreducibility … tracking a real feature of consciousness rather than a shared cultural assumption" → the traditions arrive at irreducibility "though only partly independently (the Islamic strand shares Neoplatonist sources)"; their agreement is on irreducibility, not dualism, and preferring dualism to other irreducibility-respecting views is the Map's own selection (cross-traditional-convergence L118/L144; african-philosophy-of-consciousness L93; the-hard-problem-in-non-western-philosophy L151). The "tracking a real feature" clause is removed.
+  - Not applied: the Chinese-exception clause (drafted, cut to hold budget; the spoke carries it at L90–102); Kripke's "wide open and extremely confusing" (optional, budget); Gemini's SOMA / Seth & Bayne lead (per task, unverified).
+- **Engagement classification** (editor-internal): Type-B physicalist at L114: Mode Three, the premise is marked as one Type-B denies and the Map has not discharged, with no in-framework refutation claimed. Kripke and Nagel are sources, not opponents: attribution-accuracy fixes (restraint recorded, co-optation removed).
+- **Calibration**: Dualism tenet untouched (held "as a commitment, not as a result these arguments deliver", modal-epistemology L119); weak Revelation only; no epiphenomenalism concession; L154 untouched. The 2026-07-19 "converged" stability note is overridden for these items (dependency drift).
+- **Length**: analyze_length 2,681 → 2,806 (+125, exactly the task budget, item (c) included). Split before: prose 2,244 / Further Reading 59 / References 378. After: prose 2,369 / Further Reading 59 / References 378. Concepts hard 3,500 (gate `>=`): headroom 818 → 693. The six sibling dualism tasks hold +405 nominal, leaving ≈288 once all land (ledger unchanged).
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 05:37 - combine-outer-reviews
 - **Status**: Success

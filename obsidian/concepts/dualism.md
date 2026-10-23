@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-16T00:34:15+00:00
+ai_modified: 2026-10-23T06:12:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ Frank Jackson's [[knowledge-argument]]: Mary knows every physical fact about col
 
 ### The Conceivability Argument
 
-We can coherently conceive of [[philosophical-zombies]]—beings physically identical to us but lacking conscious experience. If zombies are conceivable, they are metaphysically possible. If they are possible, consciousness is not necessitated by physical facts. Phenomenal concepts directly reveal their referents, so the conceivability-possibility link holds in a way it might not for scientific identities.
+We can coherently conceive of [[philosophical-zombies]]—beings physically identical to us (in the *known* physics, the [[ignorance-hypothesis|ignorance hypothesis]] replies) but lacking conscious experience. If zombies are conceivable, the Map infers, they are metaphysically possible; if they are possible, consciousness is not necessitated by physical facts. That first step, like Kripke's argument below, inherits the standing of [[modal-epistemology|modal rationalism]], and that standing is contested. The Map holds only weak [[revelation-thesis|Revelation]], on which experience reveals part of a quality's character, not its full essence, so whether that grasp licenses the step is a debt the Map owes, neither won nor lost.
 
 ### The Intrinsic Character of Qualia
 
@@ -111,11 +111,11 @@ We can coherently conceive of [[philosophical-zombies]]—beings physically iden
 
 ### Modal Arguments
 
-Saul Kripke (1972) argued that identity statements involving rigid designators are necessarily true if true at all. "Water = H₂O" is necessary. But "pain = C-fiber activation" seems contingent—we can conceive of pain without C-fiber firing. With water, the appearance of contingency reflects incomplete knowledge; with pain, we have direct epistemic access. There's no hidden essence to pain beyond what we experience.
+Saul Kripke (1980) argued that identity statements involving rigid designators are necessarily true if true at all. "Water = H₂O" is necessary. But "pain = C-fiber activation" seems contingent—we can conceive of pain without C-fiber firing. With water, the appearance of contingency reflects incomplete knowledge; pain is picked out by an appearance belonging to its nature, not a contingent mode of presentation. The Map's use of Kripke also needs a premise Type-B physicalists deny and weak Revelation does not discharge: nothing in pain's unrevealed nature ties it to C-fibers. Kripke himself held that rejecting the identity thesis "does not imply acceptance of Cartesian dualism" (1980, p. 155 n. 77).
 
 ### Nagel's Subjectivity Argument
 
-Thomas Nagel (1974) argued that consciousness has an inherently subjective character that objective description cannot capture. Even complete knowledge of bat neurophysiology couldn't tell us what echolocation is *like* for the bat. Physical science provides objective descriptions available to all observers; subjective experience requires occupying a particular point of view. The two modes of access are categorically different.
+Thomas Nagel (1974) argued that consciousness has an inherently subjective character that objective description cannot capture. Even complete knowledge of bat neurophysiology couldn't tell us what echolocation is *like* for the bat. Physical science provides objective descriptions available to all observers; subjective experience requires occupying a particular point of view. The two modes of access are categorically different, though Nagel declined to conclude that physicalism is false, holding that we cannot yet conceive how it could be true.
 
 ### The Unity of Consciousness
 
@@ -131,7 +131,7 @@ The [[argument-from-reason]] targets physicalism from the angle of rationality. 
 
 ### The Convergence
 
-No single argument establishes dualism conclusively, and the eight are not evidentially independent of one another. The explanatory gap, the zombie argument, Mary's Room, and Kripke's modal argument all press the same gap between physical description and phenomenal character, and the modal ones share the inference from conceivability to possibility; if that common starting point fails, they fail together rather than confirming one another. As [[the-convergence-argument-for-dualism|the convergence argument]] works out in detail, arguments within a single cluster contribute little more than one strong argument from that cluster, and the genuine force comes from *across* clusters—phenomenal intuition, the explanatory gap, and the unity prong resist physical explanation by routes that do not reduce to one another. What the agreement supports is a case substantially stronger than any single argument, not an overwhelming one. The convergence extends across philosophical traditions: [[cross-traditional-convergence-on-consciousness-irreducibility|Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School]] independently arrive at irreducibility despite disagreeing about substance, self, and causation—suggesting they are tracking a real feature of consciousness rather than a shared cultural assumption.
+No single argument establishes dualism conclusively, and the eight are not evidentially independent of one another. The explanatory gap, the zombie argument, Mary's Room, and Kripke's modal argument all press the same gap between physical description and phenomenal character, and the modal ones share the inference from conceivability to possibility; if that common starting point fails, they fail together rather than confirming one another. As [[the-convergence-argument-for-dualism|the convergence argument]] works out in detail, arguments within a single cluster contribute little more than one strong argument from that cluster, and the genuine force comes from *across* clusters—phenomenal intuition, the explanatory gap, and the unity prong resist physical explanation by routes that do not reduce to one another. What the agreement supports is a case substantially stronger than any single argument, not an overwhelming one. The convergence extends across philosophical traditions: [[cross-traditional-convergence-on-consciousness-irreducibility|Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School]] arrive at irreducibility despite disagreeing about substance, self, and causation, though only partly independently (the Islamic strand shares Neoplatonist sources). Their agreement is on irreducibility, not dualism; preferring dualism to other irreducibility-respecting views is the Map's own selection.
 
 ## Physicalist Responses and Their Limits
 

@@ -1,14 +1,96 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 03:37:24+00:00
+ai_modified: 2026-10-23 06:12:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 03:37:24+00:00
+lastmod: 2026-10-23 06:12:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:12 - refine-draft
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Task**: P1 from convergent outer reviews 2026-10-23 (3/3), Revelation / conceivability / cross-traditional / Nagel / Kripke items (todo index 3057). Review files: `reviews/outer-review-2026-10-23-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-10-23-claude-fable-5-1.md`, `reviews/outer-review-2026-10-23-gemini-3-1-pro.md`; synthesis `reviews/outer-review-synthesis-2026-10-23.md`.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted refine against the task's verified OLD strings, all present once at 98fa383fbb)
+- **Changes**:
+  - (1) Conceivability (L106): the unqualified "If zombies are conceivable, they are metaphysically possible" is now marked as the Map's inference; that step, like Kripke's argument, "inherits the standing of [modal rationalism](/concepts/modal-epistemology/), and that standing is contested" (the exact modal-epistemology L121 / conceivability-possibility-inference L144 phrase). The strong-Revelation sentence ("Phenomenal concepts directly reveal their referents, so the conceivability-possibility link holds…") is replaced by weak [Revelation](/concepts/revelation-thesis/) (part of a quality's character, not its full essence) plus the open debt, "neither won nor lost" (modal-epistemology L123).
+  - (a) Ignorance-hypothesis scoping imported from philosophical-zombies L67 as a parenthetical on "physically identical to us".
+  - (2) Kripke (L114): "with pain, we have direct epistemic access. There's no hidden essence to pain beyond what we experience." → pain is picked out by an appearance belonging to its nature, not a contingent mode of presentation (mirrors modal-structure-of-phenomenal-properties L62/L64), and the Map's use of Kripke also needs a premise Type-B physicalists deny and weak Revelation does not discharge: nothing in pain's unrevealed nature ties it to C-fibers.
+  - (c) Kripke's restraint added with the kripke-a-posteriori-necessity-argument L51 wording: rejecting the identity thesis "does not imply acceptance of Cartesian dualism" (1980, p. 155 n. 77). Body date 1972 → 1980 to match References (no new reference entry).
+  - (4) Nagel (L118): one clause added, paraphrase only (not verified verbatim): Nagel declined to conclude that physicalism is false, holding that we cannot yet conceive how it could be true.
+  - (3) Cross-traditional (L134): "independently arrive at irreducibility … tracking a real feature of consciousness rather than a shared cultural assumption" → the traditions arrive at irreducibility "though only partly independently (the Islamic strand shares Neoplatonist sources)"; their agreement is on irreducibility, not dualism, and preferring dualism to other irreducibility-respecting views is the Map's own selection (cross-traditional-convergence L118/L144; african-philosophy-of-consciousness L93; the-hard-problem-in-non-western-philosophy L151). The "tracking a real feature" clause is removed.
+  - Not applied: the Chinese-exception clause (drafted, cut to hold budget; the spoke carries it at L90–102); Kripke's "wide open and extremely confusing" (optional, budget); Gemini's SOMA / Seth & Bayne lead (per task, unverified).
+- **Engagement classification** (editor-internal): Type-B physicalist at L114: Mode Three, the premise is marked as one Type-B denies and the Map has not discharged, with no in-framework refutation claimed. Kripke and Nagel are sources, not opponents: attribution-accuracy fixes (restraint recorded, co-optation removed).
+- **Calibration**: Dualism tenet untouched (held "as a commitment, not as a result these arguments deliver", modal-epistemology L119); weak Revelation only; no epiphenomenalism concession; L154 untouched. The 2026-07-19 "converged" stability note is overridden for these items (dependency drift).
+- **Length**: analyze_length 2,681 → 2,806 (+125, exactly the task budget, item (c) included). Split before: prose 2,244 / Further Reading 59 / References 378. After: prose 2,369 / Further Reading 59 / References 378. Concepts hard 3,500 (gate `>=`): headroom 818 → 693. The six sibling dualism tasks hold +405 nominal, leaving ≈288 once all land (ledger unchanged).
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Published**: yes
+
+## 05:37 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-23
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro). The subject was the recent-aged `concepts/dualism`; Claude and Gemini reused ChatGPT's subject. This is the first full-coverage cycle since Gemini's three consecutive abandonments (10-20 to 10-22).
+- **Clusters**: 30 convergent, adjudicated against the hub at HEAD before clustering.
+  - The dominant finding: the hub states verdicts its own specialist pages have withdrawn. These include the "decisive" argument from reason, the bare seeming regress, PCS as defeated, strong Revelation, independent cross-traditional convergence, Stapp as an outcome-biaser, quantum biology as demonstrated, and neural correlation as predicted.
+  - 6 three-reviewer clusters: argument from reason, illusionism, PCS, the Born-preservation dilemma (ChatGPT §5 states it too, so it is three-way, not Gemini-new), the unity sentence (partial), and the Kripke paragraph.
+  - 20 two-reviewer clusters, tasked or recorded, and 4 left untasked by both processing passes for length (explanatory-gap step, intrinsic character, intentionality, Type-A).
+  - 1 rejected convergence: predictive processing (Claude and Gemini), declined upstream. The recurrence count in the banner and in the Gemini pass understates it (at least 11 occurrences).
+  - 4 divergences: the convergence section, Huemer, Cogitate, and Main Varieties.
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3):
+  - Kind/Cutter, idealism and value;
+  - References and attribution hygiene (Jackson, Churchland, SEP);
+  - Hasker, actuality and the survey.
+  - The three ChatGPT-minted P1s (Revelation, physicalist responses, interaction) were annotated at the ceiling. All six convergent tasks now carry `Review files`, `Synthesis`, a convergence prefix and a shared length ledger.
+  - Two optional items were added: a length-neutral Tenet 4 scoping clause on the interaction task (convergent ChatGPT + Claude, untasked by any pass), and a pointer of at most +5 words to `topics/predictive-processing-and-dualism` on the Hasker task. The PP-paragraph ban stands.
+  - The sibling Revelation sweep, the counts P1 and the entanglement-binding P2 are unchanged.
+- **Tasks deduplicated**: 0. Each processing pass annotated existing tasks instead of minting duplicates. 0 minted.
+- **Length**: `concepts/dualism` is 2,681 against hard 3,500 (818 headroom). The seven open tasks hold +530 nominal, under the ~700 flag line. Uncounted extras could add about +80; the per-task ledger makes them length-neutral or drops them.
+- **Operator flag**: hub pages do not inherit spoke concessions. ChatGPT and Claude converge on this, and four of the withdrawn verdicts predate the hub's two "converged" deep reviews. Proposed checks: a dependency-freshness trigger with expiring Stability Notes, a hub precedence rule, a machine count invariant, and a per-citation author-stance field. Not tasked, and no tooling edited.
+- **Output**: [outer-review-synthesis-2026-10-23](/reviews/outer-review-synthesis-2026-10-23/)
+
+## 05:04 - collect-gemini-review + outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro with Deep Research ("Pro High"). Commissioned 04:27Z. On the first poll at 04:53Z the report was finished: "I've completed your research", no stop control, no "Creating your report…". There was no stall, unlike 10-22. Subject reused: `concepts/dualism` ("Audit dualism").
+- **File**: [outer-review-2026-10-23-gemini-3-1-pro](/reviews/outer-review-2026-10-23-gemini-3-1-pro/) (model slug `gemini-3-1-pro`, per the driver's rename)
+- **Extraction**: js-dom from the h1-bearing `.markdown-main-panel` (25,793 chars of text, 26,367 as markdown). It was read in 28 chunks of 950, because the tool truncates at about 1,000. A whitespace-stripped polynomial checksum matched the page exactly (22,716 chars). The 54 citation chips have no anchors; their `sup[data-turn-source-index]` markers are kept as [n] and mapped one-based onto the 22 "Sources used in the report" listed in the file. The 44 read-but-unused sources were omitted.
+- **Claims verified**: 6 groups verified and 9 disputed; 5 DOIs plus Papineau and Ball checked at Crossref, and the Mediano abstract at OpenAlex.
+  - Scope drift: most of Gemini's quotes come from other pages (the Penrose, entanglement-binding and post-decoherence pages) or from the changelog. Three of its "quotes" match nothing in the corpus.
+  - Rejected: Donadi "ignored" (20 live files cite it, and the quoted Penrose page discusses it at L44–52); Warren "fatal refutation" (fixed 07-22 after the 07-20 Gemini review, with a Stability Note); Kerskens as "single pillar" (the page ranks it the weaker tier); "Papineau (2021)" (the source is the 2009 Oxford Handbook chapter); Cogitate read as confirming classical localisation; the parsimony posit list (the Map is Born-preserving, and the 07-19 Stability Note stands); PP (declined upstream, fifth recurrence).
+  - New and verified: `concepts/entanglement-binding-hypothesis` asserts "Classical physics cannot produce ontological wholes" with no engagement of IIT or synergy (body grep 0; never raised in 7 deep reviews). Mediano et al. (2022) is overstated by Gemini, but the omission is real.
+- **High-value findings**: 1 new, plus 4 convergent with ChatGPT and Claude. All three reviewers now flag the "decisive" argument from reason, the bare seeming regress and PCS. Kripke's restraint and Papineau's closure argument are each flagged by two or more. The Born-preserving efficacy dilemma is new to the hub: the hub never links `apex/born-preserving-causal-efficacy`.
+- **Tasks generated**: 1 (P2 refine-draft on `concepts/entanglement-binding-hypothesis`, +70). Convergence notes were appended to 4 existing dualism tasks: the P1 Revelation, P1 physicalist-responses and P1 interaction tasks, and the P2 Hasker task (cross-reference only). The interaction-task note adds a +20 signpost to the Born-preserving efficacy apex, with the Papineau date corrected.
+
+## 04:48 - collect-claude-review + outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (composer read "Fable 5.1 Medium", so no Opus fallback). Commissioned 03:09Z; "Research complete · 327 sources · 13m 26s". Subject reused from the ChatGPT leg: `concepts/dualism` ("Audit dualism").
+- **File**: [outer-review-2026-10-23-claude-fable-5-1](/reviews/outer-review-2026-10-23-claude-fable-5-1/)
+- **Extraction**: js-dom. One artifact tile, with "View all" filtered out. The panel body measured 42,405 chars on two samples 10 s apart. The 47,097-char markdown walk was saved by Blob download (48,220 bytes). 25 Map links were converted to wikilinks.
+- **Claims verified**: 14 checked on disk or at source; 8 groups rejected.
+  - New and verified: the hub gives three argument counts (eight, nine, seven), and L134 misreports the convergence page's clusters. L122 has Hasker's subject "not *produced*" by the brain, though `concepts/emergent-dualism` says "generated by". L200's actuality gloss lags `concepts/bi-aspectual-ontology` L38 (edited 10-21). L72 omits functionalism's 33%. L172's "independently" is false: OpenAlex shows Zanotti 2021 citing Huemer 2009 and five Sober works.
+  - Stapp's question-choice confirmed at the primary text (QID PDF: the agent "chooses only the question").
+  - Rejected: the headline demotion of convergence (the hub matches the convergence page's own verdict; the reviewer quoted a vitalism-contrast clause out of context); the PP "blocking gate" (declined upstream); orphan references (by design per the 07-19 Stability Notes); the Occam-link "collision" (two distinct live pages); "changelog latency" (the live page is current; the reviewer got a stale copy); "outer reviews mostly Claude" (103 of 302); and five sibling-page fixes that are already in place.
+- **High-value findings**: 5 new and 11 convergent with ChatGPT.
+- **Tasks generated**: 2 (P1: 1, P2: 1), both on `concepts/dualism`. P1 makes the argument counts and cluster map consistent (+30). P2 covers Hasker, the actuality gloss, the survey figure and "independently" (+35). Six ChatGPT-minted tasks were annotated "ALSO FLAGGED BY CLAUDE" instead of duplicated; Kind/Cutter, Stapp, closure, cross-traditional, Type-B, illusionism and the Jackson quote converge.
+- **Operator flag**: both reviewers independently diagnose hub-over-spoke drift on the same day. Claude adds two cheap mechanical checks: a machine count invariant for "N arguments", and a per-citation author-stance field. Hasker, Kind, Nagel, Kripke and Stapp all passed metadata checks while misreporting stance.
+
+## 04:11 - collect-chatgpt-review + outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (commissioned 02:10Z, "Worked for 21m 6s"). Recent-aged subject `concepts/dualism` ("Audit dualism"); the Claude leg reuses it.
+- **File**: [outer-review-2026-10-23-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-23-chatgpt-5-6-sol-pro/)
+- **Extraction**: js-dom from the single `[data-markdown-text-style]` element; the turn was complete on the first poll. The 56,684-char walk was read in 57 chunks of 1,000 (the tool truncates at exactly 1,000), and every chunk matched an in-page djb2 hash. Localhost POST and clipboard routes failed first and left nothing behind. 30 Map links were converted to wikilinks.
+- **Claims verified**: 20 on disk or at source, with 9 groups of findings rejected.
+  - All hub passages the reviewer quotes are verbatim at 98fa383fbb.
+  - The hub contradicts 9 specialist pages: modal-epistemology/revelation-thesis (strong Revelation at L106/L114), argument-from-reason ("decisive"), illusionism (bare regress), phenomenal-concepts-strategy, type-a-b-c (a Type-B reply that misses), interactionist-dualism (Stapp outcome bias), causal-closure (no chance-fixing concession), quantum-consciousness, and NCC ("predicts").
+  - 4 of those concessions predate the hub's 06-26 and 07-19 "content-stable" deep reviews.
+  - Kind 2015 was read in full (author's manuscript). She does not argue a push to dualism, and she says Russellian monism may be true. The hub's L186 misattributes the push to her, and the comparison page L140 repeats it.
+  - SEP Dualism is Robinson & Weir, substantively revised 17 Oct 2025; the reviewer's "2026" date is wrong.
+  - Crossref confirms Cutter 2019 and Huemer 2009. Huemer does address physicalism, so the reviewer's scope charge fails.
+- **High-value findings**: 6.
+- **Tasks generated**: 6 (P1: 3, P2: 3). Five target `concepts/dualism`, carrying siblings `topics/russellian-monism-versus-bi-aspectual-dualism` L140 and `concepts/substance-property-dualism` L203. One sweeps strong Revelation from `arguments/materialism-argument` L66 and `arguments/functionalism-argument` L159, net ≤ 0 words.
+- **Operator flag**: specialist concessions do not propagate to hubs. The dualism hub carried four of them for four months through two deep reviews. A cross-review or deep-review rule that checks hub summaries when a specialist concedes is a protocol change, so it was not minted as a task.
 
 ## 03:37 - deep-review
 - **Status**: Success
