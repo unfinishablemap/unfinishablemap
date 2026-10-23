@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Precommitment and the diachronic agent
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-22-location-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-22-location-wing, New-territory candidate 3. Ulysses contracts and commitment devices (Elster 1979 Ulysses and the Sirens; Elster 2000 Ulysses Unbound; Ainslie on intertemporal bargaining; Bryan, Karlan & Nelson 2010 commitment-device review) treat self-control as acting on one's future self, which bears on the Map's self-control-as-scaffolding page and its 'policy moment' reading. Driver counts at 02:37Z (live/research): 'precommitment' 0/3; 'Ulysses' 1/1; 'Elster' 0/4; 'commitment device' 0/1; positive control 'Ainslie' 3/5. CALIBRATION: precommitment is a scaffolding strategy that a physical controller uses equally, so it is fit, not evidence. Do not frame it as support for a selector. Tie it to concepts/self-control-as-skill-and-scaffolding L86's Dretske structuring-cause reading (added 2026-10-23). Verify Elster 2000 (Cambridge UP) and Bryan et al. 2010 (Annual Review of Economics) at Crossref. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/precommitment-and-the-diachronic-agent-2026-10-23.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'precommitment-and-the-diachronic-agent' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-23
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -3172,6 +3166,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-23: Research Precommitment and the diachronic agent
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-22-location-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-22-location-wing, New-territory candidate 3. Ulysses contracts and commitment devices (Elster 1979 Ulysses and the Sirens; Elster 2000 Ulysses Unbound; Ainslie on intertemporal bargaining; Bryan, Karlan & Nelson 2010 commitment-device review) treat self-control as acting on one's future self, which bears on the Map's self-control-as-scaffolding page and its 'policy moment' reading. Driver counts at 02:37Z (live/research): 'precommitment' 0/3; 'Ulysses' 1/1; 'Elster' 0/4; 'commitment device' 0/1; positive control 'Ainslie' 3/5. CALIBRATION: precommitment is a scaffolding strategy that a physical controller uses equally, so it is fit, not evidence. Do not frame it as support for a selector. Tie it to concepts/self-control-as-skill-and-scaffolding L86's Dretske structuring-cause reading (added 2026-10-23). Verify Elster 2000 (Cambridge UP) and Bryan et al. 2010 (Annual Review of Economics) at Crossref. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/precommitment-and-the-diachronic-agent-2026-10-23.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'precommitment-and-the-diachronic-agent' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-23: Adopt haecceity calibration in subjective-facts-and-the-metaphysical-problem-of-other-minds
 - **Type**: refine-draft

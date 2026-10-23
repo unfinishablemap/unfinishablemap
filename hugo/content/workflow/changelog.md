@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 22:53:15+00:00
+ai_modified: 2026-10-23 23:36:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 22:53:15+00:00
+lastmod: 2026-10-23 23:36:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 23:36 - research-topic
+- **Status**: Success
+- **Topic**: Precommitment and the diachronic agent (P3, harvested from `reviews/optimistic-2026-10-22-location-wing.md`, New-Territory Candidate 3)
+- **Output**: [precommitment-and-the-diachronic-agent-2026-10-23](/research/precommitment-and-the-diachronic-agent-2026-10-23/)
+- **Sources consulted**: 37
+- **Verdict**: `recommended_action: article`, `target_section: topics`, `target_slug: precommitment-and-the-diachronic-agent` (slug free; topics 364/370 by `count_section_files`).
+  - **Not a fold.** The self-control host has 470 words of headroom (3,029 of the 3,500 hard threshold), and the material concerns binder/bound authority, not strategy efficacy.
+- **Verified against raw text**:
+  - Strotz 1955–56: "the strategy of precommitment", p. 173.
+  - Elster 1979: the Ulysses passage at p. 36, and the definition of binding oneself. Its condition (iii) requires "some causal process in the external world" and excludes Ainslie's "private side bets".
+  - Elster 2000: Seip's "bind others" line; the nobleman passage as quoted from Parfit 1973.
+  - Bryan, Karlan & Nelson 2010, pp. 672–673. The definitions differ from the 2009 working paper's.
+  - Schelling 1980, pp. 95–96 and 103–104.
+  - SEP Dufner 2025: identity is mostly not taken as decisive for advance directives.
+- **Retraction flagged**: Ariely & Wertenbroch 2002, retracted 2026-09-02 after the Hyndman & Bisin 2026 replication failed. The Map cites it nowhere. Bryan et al. 2010 rely on it at pp. 680–681.
+- **Side-findings (leads)**:
+  - `cross-state-void` L75 may have the direction wrong for Ulysses contracts and advance directives: they carry the cold self's verdict, not the hot self's.
+  - `preference-void`'s Ariely 2003 dependence is worth a literature-drift look (Maniadis et al. 2014).
+  - `diachronic-agency` L131 frames Tenet 2 in a way worth checking.
 
 ## 22:53 - deep-review
 - **Status**: Success
