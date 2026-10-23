@@ -2,9 +2,9 @@
 title: "Peritraumatic Dissociation and the Protective Reading"
 description: "Dissociation during trauma predicts worse PTSD, and the tests of momentary relief found so far show none. Why 'protective' needs a timescale, for the Map's interface reading and its rival alike."
 created: 2026-10-22
-modified: 2026-10-22
+modified: 2026-10-23
 human_modified: null
-ai_modified: 2026-10-22T09:04:41+00:00
+ai_modified: 2026-10-23T16:38:58+00:00
 draft: false
 topics:
   - "[[clinical-dissociation-as-systematic-evidence]]"
@@ -69,7 +69,7 @@ A common view, in Lensvelt-Mulders et al.'s summary, holds that "the immediate e
 
 Every sense of momentary protection needs a fact about what the trauma felt like while it happened, the hardest fact in this literature to obtain. As Candel and Merckelbach (2004) observe, "studies in this area heavily rely on retrospective reports of dissociative reactions during the trauma". Recollections taken within days of exposure differed from those taken at three and twelve months (Marshall & Schell 2002). When 126 treatment-seeking adults rated the PDEQ for the same index event six times over 60 weeks, there was "> 40% of participants experiencing reliable change from baseline at least once during the study", with scores tracking current symptoms (Thompson-Hollands et al. 2021). As the disorder eases, people remember having dissociated less. Lensvelt-Mulders et al. found the correlation rising with the time between event and first measurement, and suggested that in clinical samples "the past is defined in the light of the present situation".
 
-Yet the same meta-analysis found that "longitudinal studies reported a stronger positive relation between peritraumatic dissociation and PTS than the retrospective studies", which tells against a pure recall artefact, although its longitudinal category includes designs whose first measurement was itself retrospective. Measurement during an ongoing threat is possible, as the two rocket-campaign studies show (Greene 2018; Dokkedahl & Lahav 2024). Part of the difficulty is principled: "The subjective experience of PD may not be accessible in the moment and may only be understood or recognized after the immediate danger has passed" (van der Hart et al. 2008, crediting the point to Ozer et al.).
+Yet the same meta-analysis found that "longitudinal studies reported a stronger positive relation between peritraumatic dissociation and PTS than the retrospective studies", which tells against a pure recall artefact, although its longitudinal category includes designs whose first measurement was itself retrospective. Measurement during an ongoing threat is possible, as the two rocket-campaign studies show (Greene 2018; Dokkedahl & Lahav 2024). Part of the difficulty may be principled: "The subjective experience of PD may not be accessible in the moment and may only be understood or recognized after the immediate danger has passed" (van der Hart et al. 2008, crediting the point to Ozer et al.).
 
 This is a clinical instance of the [[inaccessible-past]], where reconstruction lets present concerns overwrite what was stored, and of the [[confabulation-void]], where error is detected, if at all, only retrospectively.
 
@@ -83,7 +83,7 @@ The comparative verdict does not move. The rival explains why dissociation arise
 
 **[[tenets#^dualism|Dualism]]**: compatible with, not evidence for. The literature constrains a datum both readings explain and decides nothing about whether consciousness is reducible to physical processes.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: the data fit the tenet without evidencing it. "The mind protecting itself" is an agentive gloss, and these studies show no sign of purposive control in the moment. That counts against the purposive-withdrawal gloss, not against mental causation in general, and the rival's inherited purposiveness equally lacks momentary evidence of relief. Fikretoglu et al.'s "epiphenomenon" is a psychometric claim about a by-product of distress and concedes nothing to epiphenomenalism, which the Map rejects. The strongest correlate in these data is felt distress itself, a fact silent on mental causation in either direction.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: the data fit the tenet without evidencing it. "The mind protecting itself" is an agentive gloss, and these studies show no sign of [[brain-stimulation-and-the-witness-mode#witness-or-depersonalisation|purposive control]] in the moment. That counts against the purposive-withdrawal gloss, not against mental causation in general, and the rival's inherited purposiveness equally lacks momentary evidence of relief. Fikretoglu et al.'s "epiphenomenon" is a psychometric claim about a by-product of distress and concedes nothing to epiphenomenalism, which the Map rejects. The strongest correlate in these data is felt distress itself, a fact silent on mental causation in either direction.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** and **[[tenets#^no-many-worlds|No Many Worlds]]**: not engaged.
 

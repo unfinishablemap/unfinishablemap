@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T16:28:36+00:00
+ai_modified: 2026-10-23T16:39:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:39 - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-stimulation-and-the-witness-mode]] (primary) and [[topics/peritraumatic-dissociation]] (secondary); two files, one task
+- **Original score**: n/a (`scripts/curate.py` absent; targeted application of Priority List items 1 and 2)
+- **Review file**: [[reviews/optimistic-2026-10-23-felt-moment-wing]]
+- **Changes** (brain-stimulation):
+  - (a) L82, Pons et al. 2026: "The meditation group scored higher on mysticism, ego dissolution, non-judging and non-reactivity ... The difference lay in attitude and valence." The two FFMQ facets are now split out as trait scales, compared "to explore whether differences in experience appraisal might reflect trait mindfulness". The text adds that the episodes were rated in a later survey, and that in trauma research recalled dissociation drifts with current symptoms, linked to [[peritraumatic-dissociation#after-the-fact|measuring a state after the fact]]. The paragraph now ends "The difference lay in valence and appraisal, and in a standing attitude.", so the next paragraph's "Active-inference accounts locate it in control" keeps its antecedent. The page does not claim that Pons's participants' recall drifted. The quote was re-verified this run against the raw Europe PMC JATS XML for PMC13156312: 1 verbatim hit, inside the FFMQ comparison sentence. The same XML has the FFMQ "1 (Never or very rarely true) to 5 (Very often or always true)" scale, "These traits might help explain", "completed five questionnaires" and "trauma, stress, or cannabis".
+  - (b) L100, design: the witness profile now reads "non-reactivity and non-judging rated for the session rather than as traits".
+  - (c) L37, lede: "Brain stimulation has not produced" became "In the studies the Map has found, brain stimulation has not produced". The research note ran no WebSearch. The next sentence's "names that result as a test" still resolves.
+  - (d) Description: "ultrasound trials have not beaten sham" became "the ultrasound trials found so far have not beaten sham on experience", because L53 reports a sham-separable connectivity result.
+  - (e) L106: "For elimination, nothing has come in." became "For elimination, the Map has found nothing."
+  - (f) L78: "bears on whether" became "illustrates the question of whether". L114: "bears on that question and is recorded without inference" became "illustrates that question but is no evidence on it, since consciousness cannot [[agency-void#The Verification Circularity|first-person-verify its own causal power]]; it is recorded without inference" (tenets.md L93's phrase; the "it" is the report).
+- **Changes** (peritraumatic):
+  - L72: "Part of the difficulty is principled:" became "may be principled:", matching van der Hart et al.'s double "may".
+  - L86: zero-word return link `[[brain-stimulation-and-the-witness-mode#witness-or-depersonalisation|purposive control]]`. No prose was added about which reading the control criterion favours, so the momentary null stays symmetric. numbing-void is not linked.
+- **Guards kept**: "recorded without inference" (verbatim, 1 hit); the absorb-both concession; "No bearing" on Dualism; the L118 parsimony label (declined by the reviewer). Epiphenomenalism is not conceded. The Tenet 3 quantifier stays with the operator. Every replacement was followed by a pronoun check.
+- **Engagement classification**: no named-opponent reply changed; the edits are calibration and seam fixes only.
+- **Length** (`analyze_length`): brain-stimulation 3088 → 3174 (+86; topics hard 4000). peritraumatic 3086 → 3087 (+1; topics hard 4000). Both match the review's predictions.
+- **ai_system**: both unchanged (claude-opus-5-5 already present).
+- **Not done**: the optional secondary target (a dated annotation on the research note's L45/L150 "attitude and valence") is outside this brief. Item 3 (immediate-emotions) and item 4 (apex/testing-the-map-from-inside) are not part of this task.
+- **Published**: yes
 
 ## 16:28 - deep-review
 - **Status**: Success

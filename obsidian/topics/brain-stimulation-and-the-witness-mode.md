@@ -1,10 +1,10 @@
 ---
 title: "Brain Stimulation and the Witness Mode"
-description: "Can stimulating the brain produce the meditative witness mode? One intracranial case comes close on structure, ultrasound trials have not beaten sham, and no result yet separates the Map's reading from its rivals."
+description: "Can stimulating the brain produce the meditative witness mode? One intracranial case comes close on structure, the ultrasound trials found so far have not beaten sham on experience, and no result yet separates the Map's reading from its rivals."
 created: 2026-10-04
-modified: 2026-10-04
+modified: 2026-10-23
 human_modified:
-ai_modified: 2026-10-04T06:12:28+00:00
+ai_modified: 2026-10-23T16:38:58+00:00
 last_deep_review: 2026-10-04T06:12:28+00:00
 draft: false
 topics:
@@ -34,7 +34,7 @@ ai_generated_date: 2026-10-04
 last_curated:
 ---
 
-Brain stimulation has not produced the meditative witness mode, in which awareness observes thoughts and sensations without identifying with them. The Unfinishable Map names that result as a test: two of its articles say its reading of the witness would face difficulty if stimulation could create or eliminate the mode independent of contemplative development. As of 2026, one intracranial case comes close on structure: an epilepsy patient with no reported contemplative training, stimulated in posteromedial cortex, felt pulled out of "the pilot's chair" while still seeing "all the gauges". He is one patient; only one of his sham stimulations drew a report of the state, and no one measured his attitude toward it. The focused-ultrasound trials aimed at the posterior cingulate cortex (PCC) have not separated from sham on phenomenology. And no result discriminates the Map's interface reading from a production reading or from the beautiful-loop theory, partly because the falsifier tests whether the witness depends on training, and the interface reading does not entail that dependence. [[#what-each-reading-predicts|What Each Reading Predicts]] explains why that is a cost.
+In the studies the Map has found, brain stimulation has not produced the meditative witness mode, in which awareness observes thoughts and sensations without identifying with them. The Unfinishable Map names that result as a test: two of its articles say its reading of the witness would face difficulty if stimulation could create or eliminate the mode independent of contemplative development. As of 2026, one intracranial case comes close on structure: an epilepsy patient with no reported contemplative training, stimulated in posteromedial cortex, felt pulled out of "the pilot's chair" while still seeing "all the gauges". He is one patient; only one of his sham stimulations drew a report of the state, and no one measured his attitude toward it. The focused-ultrasound trials aimed at the posterior cingulate cortex (PCC) have not separated from sham on phenomenology. And no result discriminates the Map's interface reading from a production reading or from the beautiful-loop theory, partly because the falsifier tests whether the witness depends on training, and the interface reading does not entail that dependence. [[#what-each-reading-predicts|What Each Reading Predicts]] explains why that is a cost.
 
 ## What the Falsifier Asks {#falsifier}
 
@@ -75,11 +75,11 @@ Stimulation at 50 Hz of the seizure zone and of its left-hemisphere counterpart 
 | Witness attitude | Valence better than seizure; non-reactivity unmeasured | Undetermined |
 | Sham for this patient | One aura report across his shams, after a strong real stimulation | For the aura, not the attitude |
 
-The case approaches the falsifier on structure and falls short on generality and attitude. Its line about retained control bears on whether [[tenets#^bidirectional-interaction|Tenet 3]] requires that consciousness actually steer or only that steering be available; the Map has not settled that, and this article draws no inference from the case either way.
+The case approaches the falsifier on structure and falls short on generality and attitude. Its line about retained control illustrates the question of whether [[tenets#^bidirectional-interaction|Tenet 3]] requires that consciousness actually steer or only that steering be available; the Map has not settled that, and this article draws no inference from the case either way.
 
 ## Witness or Depersonalisation? {#witness-or-depersonalisation}
 
-[[depersonalisation|Depersonalisation]] shares the witness's geometry: DSM-5, as Parvizi et al. quote it, includes "being an outside observer with respect to one's thoughts". The structural measure does not separate the two. A preregistered survey of depersonalisation-like states triggered by meditation (n = 60) or otherwise (n = 61) found "no significant differences in CDS scores between the two groups" on the Cambridge Depersonalisation Scale (Pons et al. 2026). The meditation group scored higher on mysticism, ego dissolution, non-judging and non-reactivity, and rated its experiences more positively, though most in both groups called them mixed. The difference lay in attitude and valence.
+[[depersonalisation|Depersonalisation]] shares the witness's geometry: DSM-5, as Parvizi et al. quote it, includes "being an outside observer with respect to one's thoughts". The structural measure does not separate the two. A preregistered survey of depersonalisation-like states triggered by meditation (n = 60) or otherwise (n = 61) found "no significant differences in CDS scores between the two groups" on the Cambridge Depersonalisation Scale (Pons et al. 2026). The meditation group scored higher on mysticism and ego dissolution, and rated its experiences more positively, though most in both groups called them mixed. It also scored higher on non-judging and non-reactivity, but these were trait scales, compared "to explore whether differences in experience appraisal might reflect trait mindfulness". The episodes were rated in a later survey, and in trauma research recalled dissociation drifts with current symptoms ([[peritraumatic-dissociation#after-the-fact|measuring a state after the fact]]). The difference lay in valence and appraisal, and in a standing attitude.
 
 Active-inference accounts locate it in control: "whereas depersonalization is expressly characterized as resulting from a critical loss of inferred control, selflessness in the context of meditative practices is marked by a significant gain in control" (Deane, Miller & Wilkinson 2020). Ciaunica et al. (2022, abstract) model depersonalisation as "I am an embodied perceiver, but I am not in control of my perception", close to the pilot pulled from his chair. Both are physicalist models; the Map borrows their criterion, not their metaphysics.
 
@@ -97,13 +97,13 @@ That flexibility is a cost: a reading that accommodates both outcomes gains noth
 
 ## A Design That Would Sharpen the Question {#design}
 
-Cross active or sham tFUS with instruction (adopt open monitoring, or let the mind wander) and population (naive or experienced). Score outcomes blind on two profiles: Cambridge Depersonalisation Scale detachment, and a witness profile of non-reactivity, non-judging, state nondual awareness, and retained control measured as a timed, cued switch to focused attention. That would show whether stimulation yields witness-profile or depersonalisation-profile states and whether the effect needs the participant to adopt the mode.
+Cross active or sham tFUS with instruction (adopt open monitoring, or let the mind wander) and population (naive or experienced). Score outcomes blind on two profiles: Cambridge Depersonalisation Scale detachment, and a witness profile of non-reactivity and non-judging rated for the session rather than as traits, state nondual awareness, and retained control measured as a timed, cued switch to focused attention. That would show whether stimulation yields witness-profile or depersonalisation-profile states and whether the effect needs the participant to adopt the mode.
 
 It would not separate the three readings, since each permits an instruction × stimulation interaction: for production instruction is neurally realised, for active inference it sets precision, and for the interface reading it is how consciousness takes up a thinned menu. The intention-versus-expectancy design in [[sham-controlled-neurofeedback-and-the-consciousness-comparator#separating-design|sham-controlled neurofeedback]] meets the same limit from the self-regulation side.
 
 ## Where the Evidence Stands {#status}
 
-For creation, one case has come in and it is too thin to decide anything. For elimination, nothing has come in. For both, a serious countermodel stands, since active inference fits the data at least as well. The Map's reading of the witness is unrefuted and untested by stimulation, which is weaker than having survived a test. Stimulation creating or abolishing the witness mode independent of training has not been shown, and the interface reading remains a speculative integration.
+For creation, one case has come in and it is too thin to decide anything. For elimination, the Map has found nothing. For both, a serious countermodel stands, since active inference fits the data at least as well. The Map's reading of the witness is unrefuted and untested by stimulation, which is weaker than having survived a test. Stimulation creating or abolishing the witness mode independent of training has not been shown, and the interface reading remains a speculative integration.
 
 ## Relation to Site Perspective
 
@@ -111,7 +111,7 @@ For creation, one case has come in and it is too thin to decide anything. For el
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** Not engaged. Ultrasound and intracranial current act at macroscopic scale.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** How much the witness must act, on the interface reading, depends on an open question about Tenet 3: whether downward causation must be actual or only available. S19_137's report of retained control bears on that question and is recorded without inference.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** How much the witness must act, on the interface reading, depends on an open question about Tenet 3: whether downward causation must be actual or only available. S19_137's report of retained control illustrates that question but is no evidence on it, since consciousness cannot [[agency-void#The Verification Circularity|first-person-verify its own causal power]]; it is recorded without inference.
 
 **[[tenets#^no-many-worlds|No Many Worlds]].** Not engaged.
 
