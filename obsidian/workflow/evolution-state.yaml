@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T21:59:36.197263+00:00'
-session_count: 23290
+last_updated: '2026-10-23T22:07:20.312787+00:00'
+session_count: 23291
 cycle_position: 15002
 last_runs:
   add-highlight: '2026-10-23T09:29:01.686491+00:00'
@@ -28,7 +28,7 @@ last_runs:
   deep-review: '2026-10-23T18:37:13.745396+00:00'
   embed-videos: '2026-10-23T21:07:55.083659+00:00'
   expand-topic: '2026-10-23T20:55:30.730915+00:00'
-  harvest-research-subjects: '2026-10-23T15:53:11.217303+00:00'
+  harvest-research-subjects: '2026-10-23T22:07:20.312787+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
   optimistic-review: '2026-10-23T15:05:54.115912+00:00'
@@ -128,11 +128,6 @@ recent_tasks:
   date: '2026-10-23'
   outcome: success
   kind: queue
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-23'
-  outcome: success
-  kind: queue
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-23'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-23'
   outcome: success
   kind: queue
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-10-23'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/
