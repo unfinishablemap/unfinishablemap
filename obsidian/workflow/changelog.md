@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T07:26:59+00:00
+ai_modified: 2026-10-23T07:57:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:57 - research-voids
+- **Status**: Success
+- **Topic**: The template void. Every reader of minds starts from itself (egocentric anchoring and adjustment, Epley et al. 2004; false consensus that survives education and feedback, Krueger & Clement 1994). Where reader and read differ in architecture, the template misfits, and the misfit can be recorded as a property of the read mind, not as the reader's limit (an "exported void"). Faces: cross-cultural (Elfenbein & Ambady 2002 meta-analysis: in-group advantage, smaller with exposure, majority members poorer at reading minorities than the reverse; Matsumoto's comment and the reply), cross-neurotype (the double-empathy literature: Milton 2012; Edey et al. 2016; Sheppard et al. 2016; Crompton et al. 2020/2025) and cross-species/system (de Waal 1999 by paraphrase; Colombatto & Fleming 2024).
+- **Category**: Mixed. Principally Unexplored: measurable from a third position, and exposure, incentives and disclosure all move it. The first-person readout is naturally Occluded: a misfit does not present as a limit. Not Unexplorable; the only unexplorable residue is the general other-minds asymmetry, owned by voids-between-minds.
+- **Output**: [[research/voids-template-void-2026-10-23]]. `recommended_action: article`, `target_slug: template-void` (slug free in obsidian/archive/hugo). Fold fallback: ~130 words in `concepts/empathy` §"The Contemporary Three-Way Debate" (2,944/3,500). The voids neighbours are within 1–47 words of their hard limit. Per the driver brief, no voids article was created, no expand task was minted, `pending_articles` was NOT touched and todo.md was not edited. The candidate is for the open voids-slot NEEDS-HUMAN entry, alongside drift, cluelessness and luminosity.
+- **Dedupe**: voids at 113/125 (`tools.evolution.state.count_section_files`). Zero hits in voids, research, topics/concepts/apex/positions/tenets, archive, reviews and workflow for "double empathy", Crompton, Sasson, Edey, Sheppard, DeBrabander, misattunement, Gernsbacher, Keysar, Nickerson, "egocentric anchoring", anthropodenial, Colombatto, Elfenbein, Ambady and "in-group advantage". The Epley, Krueger and "false consensus" hits are unrelated (read in context). Positive controls Fricker, Camerer and Schilbach hit where expected. Closest material: voids-between-minds (general asymmetry; the logomorphism sentence), boundary-and-projection (the success side of empathy), cross-state-void (state, not architecture) and conceptual-metabolism-void (knowledge imputation).
+- **Key finding**: the displacement evidence is mixed, and the note says so. The 2025 *Nature Human Behaviour* registered report (N = 311) found no information-transfer difference between single- and mixed-neurotype chains, which fails to replicate 2020. Edey et al.'s failure is one-directional, not double. DeBrabander et al. 2019 found autistic raters share the negative trait impressions, so Sasson-type judgments are not template misfit. Livingston et al. 2025 (*Psychological Review*) and Fellowes 2026 (*JADD*) critique the construct; Kilgallon, Milton et al. 2026 restate it as sociological. The void rests on the robust egocentric literature plus the meta-analytic in-group advantage. Framework-independent: it fits Dualism without evidencing it. Candidate demand on a live page: `topics/consciousness-and-social-understanding` L77 presents limits-awareness as felt ("reaching and not quite touching"), but at architecture boundaries the default readout is a completed reading.
+- **Verification**:
+  - 28 citations, all Crossref-verified, with author given names checked.
+  - 60 [raw] quote fragments machine-checked against saved raw text: Europe PMC abstracts, OpenAlex inverted indexes, Crossref deposits, PubMed efetch, the Lund portal HTML and the Sasson 2017 full text.
+  - De Waal 1999, Goldman 2006, Ross et al. 1977 and Dawes 1989 are paraphrase-only. Goldman's and Dawes's stances are taken from the raw abstracts of Wallin 2011 and Krueger & Clement 1994. The "exported void" sub-kind is flagged as the note's own suggestion.
+  - The note runs ~7.8k words by `validate.py` (siblings run 5.2–5.7k).
 
 ## 07:26 - check-links
 - **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
