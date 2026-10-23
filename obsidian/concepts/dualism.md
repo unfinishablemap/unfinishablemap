@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-23T06:59:47+00:00
+ai_modified: 2026-10-23T10:32:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,9 +81,9 @@ Dualism holds that this subjective dimension is not just epistemically distinct 
 
 Dualism comes in two main forms (see [[substance-property-dualism]] for detailed treatment):
 
-**Substance dualism** holds that mind and body are different *kinds of thing*—distinct substances. This is the Cartesian view: res cogitans and res extensa are fundamentally different. Modern substance dualists (E.J. Lowe, Dean Zimmerman) accept that mental substances are part of the natural world while maintaining their distinctness from physical matter. One consideration favouring substance dualism involves the subject combination problem: property dualism struggles to explain how micro-experiences combine into unified macro-subjects, while substance dualism posits unified subjects from the start.
+**Substance dualism** holds that mind and body are different *kinds of thing*—distinct substances. This is the Cartesian view: res cogitans and res extensa are fundamentally different. Modern substance dualists (E.J. Lowe, Dean Zimmerman) accept that mental substances are part of the natural world while maintaining their distinctness from physical matter. One consideration favouring substance dualism involves the subject combination problem: constitutive panpsychist and Russellian views struggle to explain how micro-experiences combine into unified macro-subjects, while substance dualism posits unified subjects from the start.
 
-**Property dualism** holds that mental properties are genuinely different from physical properties without positing separate mental substances. Physical objects (brains, neurons) have two kinds of properties: physical properties and phenomenal properties ([[qualia]]). This includes naturalistic dualism (Chalmers's early view), where phenomenal properties are fundamental features of nature that arise from physical complexity but don't reduce to physics.
+**Property dualism** holds that mental properties are genuinely different from physical properties without positing separate mental substances. Physical objects (brains, neurons) have two kinds of properties: physical properties and phenomenal properties ([[qualia]]). This includes naturalistic dualism (Chalmers's early view), where phenomenal properties are fundamental, tied to physical organisation by psychophysical laws rather than reducible to physics.
 
 The Map's [[tenets#^dualism|Dualism tenet]] is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes.
 
@@ -99,7 +99,7 @@ Joseph Levine's [[explanatory-gap]] identifies a structural problem: physical ex
 
 ### The Knowledge Argument
 
-Frank Jackson's [[knowledge-argument]]: Mary knows every physical fact about colour vision while confined to a black-and-white room. When she sees red for the first time, she learns something new—what red looks like. Since she already knew all the physical facts, what she learns is something beyond the physical. Jackson himself later abandoned dualism but acknowledges the argument "should be addressed really seriously if you are a physicalist."
+Frank Jackson's [[knowledge-argument]]: Mary knows every physical fact about colour vision while confined to a black-and-white room. When she sees red for the first time, she learns something new—what red looks like. Since she already knew all the physical facts, what she learns is something beyond the physical. Jackson himself later abandoned dualism but acknowledges the argument must be "addressed really seriously" by physicalists (2023).
 
 ### The Conceivability Argument
 
@@ -169,7 +169,7 @@ If mind is non-physical, how can it causally affect the physical world? Classica
 
 ### The Parsimony Objection
 
-Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism—a key distinction from [[parsimony-epistemology]]. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. [[parsimony-epistemology|Leading materialists themselves]] have acknowledged this: Lycan (2009) calls parsimony "a very posterior reason," and Churchland qualifies his own simplicity argument as not conclusive. The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly.
+Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism—a key distinction from [[parsimony-epistemology]]. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. [[parsimony-epistemology|Leading materialists themselves]] have acknowledged this: Lycan (2009) calls parsimony "a very posterior reason," and Churchland (1988) qualifies his own simplicity argument as not conclusive. The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly.
 
 ### The Neural Correlation Objection
 
@@ -222,12 +222,14 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 1. Bourget, D. & Chalmers, D. (2023). Philosophers on philosophy: The 2020 PhilPapers survey. *Philosophers' Imprint*, 23(11).
 1. Brentano, F. (1874). *Psychology from an Empirical Standpoint*. Routledge (1995 reprint).
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Churchland, P. M. (1988). *Matter and Consciousness* (rev. ed.). MIT Press.
 1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 1. Descartes, R. (1641). *Meditations on First Philosophy*.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Huemer, M. (2009). When is parsimony a virtue? *The Philosophical Quarterly*, 59(235), 216-236.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.
+1. Jackson, F. (2023). Interview, *Mind Chat*, S03E03 (YouTube, January 2023), at 18:01.
 1. Kastrup, B. (2019). *The Idea of the World*. iff Books.
 1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 1. Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
@@ -235,12 +237,13 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 1. Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551-563.
 1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
-1. Robinson, H. (2020). Dualism. *Stanford Encyclopedia of Philosophy*.
+1. Robinson, H., & Weir, R. (2025). Dualism. *Stanford Encyclopedia of Philosophy*, rev. 17 October 2025.
 1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Searle, J. R. (1992). *The Rediscovery of the Mind*. MIT Press.
 1. Sober, E. (2001). What is the problem of simplicity? In Keuzenkamp, McAleer, & Zellner (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
 1. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43–58.
 1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
-1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
+1. Tallis, R. (2024). Tallis in Wonderland: The Illusion of Illusionism. *Philosophy Now*, 161 (April/May 2024), 58–59.
 1. Tegmark, M. (2000). The importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Zanotti, G. (2021). Physicalism and the burden of parsimony. *Synthese*, 199, 11109-11132.
+1. Zimmerman, D. (2010). From property dualism to substance dualism. *Aristotelian Society Supplementary Volume*, 84(1), 119-150.

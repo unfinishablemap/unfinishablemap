@@ -1,9 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T08:51:23+00:00
+ai_modified: 2026-10-23T10:32:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:33 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/dualism]] (+ sibling [[concepts/substance-property-dualism]])
+- **Task**: P1 from convergent outer reviews 2026-10-23 (2/3: chatgpt, claude), References and attribution hygiene (todo index 3057, fifth of seven dualism tasks). Review files: `reviews/outer-review-2026-10-23-chatgpt-5-6-sol-pro.md` (§2, §11), `reviews/outer-review-2026-10-23-claude-fable-5-1.md` (§2.1); synthesis `reviews/outer-review-synthesis-2026-10-23.md`.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted refine against the task's OLD strings, each found once at the live file by its quoted text after the 06:12Z, 06:29Z, 06:43Z and 06:59Z passes)
+- **Changes (dualism)**:
+  - (1) SEP: "Robinson, H. (2020). Dualism." → "Robinson, H., & Weir, R. (2025). Dualism. *Stanford Encyclopedia of Philosophy*, rev. 17 October 2025." (the corpus form from inference-to-the-best-explanation-against-dualism ref 12, without its page-specific notes). The hub has no in-body Robinson citation.
+  - (2) Churchland (L172): "Churchland" → "Churchland (1988)"; the reference "Churchland, P. M. (1988). *Matter and Consciousness* (rev. ed.). MIT Press." was added. The rest of the parsimony section is untouched, including the "explanatory parsimony favours dualism" sentence held for the Hasker sibling's tenet-check add-on.
+  - (3) Jackson (L102): "acknowledges the argument "should be addressed really seriously if you are a physicalist."" → "acknowledges the argument must be "addressed really seriously" by physicalists (2023)." The reference "Jackson, F. (2023). Interview, *Mind Chat*, S03E03 (YouTube, January 2023), at 18:01." was added. "Should be" was never Jackson's wording.
+  - (4) Chalmers (L86): "fundamental features of nature that arise from physical complexity but don't reduce to physics" → "fundamental, tied to physical organisation by psychophysical laws rather than reducible to physics".
+  - (5) Subject combination (L84): "property dualism struggles to explain…" → "constitutive panpsychist and Russellian views struggle to explain…". The rest of the sentence is unchanged.
+  - Extras: Tallis entry completed to "Tallis in Wonderland: The Illusion of Illusionism. *Philosophy Now*, 161 (April/May 2024), 58–59"; the L142 paraphrase is unchanged. Zimmerman added: "Zimmerman, D. (2010). From property dualism to substance dualism. *Aristotelian Society Supplementary Volume*, 84(1), 119-150." (the sibling's existing entry).
+- **Changes (sibling)**: L203 SEP line → same Robinson & Weir form. L83 "Robinson (2020) surveys" → "Robinson and Weir (2025) survey", so the body agrees with the reference. L71 (the same self-undercutting Chalmers wording as hub item 4, beyond the letter of the task): "arising from sufficiently complex physical systems" → "lawfully tied to physical organisation". This also stops naturalistic dualism blurring into the emergent dualism described at L75.
+- **Source check**:
+  - SEP: plato.stanford.edu/entries/dualism reads "First published Tue Aug 19, 2003; substantive revision Fri Oct 17, 2025"; its citation_author meta tags are Robinson, Howard and Weir, Ralph.
+  - Churchland: Google Books `_7CBvggqOE4C` (MIT Press 1988, revised, ISBN 0262530740), search-within, p. 18, with "Ockham" as the control query (2 hits). Verbatim: "And to no explanatory advantage, charges the materialist. This is not yet a decisive point against dualism, since neither dualism nor materialism can yet explain all of the phenomena to be explained. But the objection does have some force". The "not conclusive" paraphrase is faithful, apart from dropping Churchland's "yet". The 1984 edition (`H1C-QgAACAAJ`, `IKo6AAAAMAAJ`) has no searchable text, so the entry cites the 1988 edition actually checked.
+  - Jackson: the primary source is the one Wikipedia's "Knowledge argument" note [4] gives: *Mind Chat* S03E03, "Frank Jackson: The Greatest Argument Against Materialism" (hosts Keith Frankish and Philip Goff; YouTube tdTSymICyf4, uploaded 20230126, 1:56:00). Two independent machine transcriptions agree: YouTube's ASR captions (cue 00:18:00.98) and faster-whisper small.en on the audio clip. Both give "And although I no longer accept the argument, I do think it's one everyone has to respond to. … It's got to be addressed really seriously if you're a physicalist, as I now am." Only the content-word span "addressed really seriously" is quoted; the contraction and "should be" are left outside the quotation. This was not checked by a human listener.
+  - Corpus leads: neither *Philosophers' Magazine* lead (2011, or Dec 2023) was needed. The 2023 date is confirmed.
+  - Tallis: PDC record philnow_2024_0161_0058_0059 (citation_title "Tallis in Wonderland: The Illusion of Illusionism", volume 161, pages 58–59) and philosophynow.org issue 161 ("April/May 2024"). "all illusions presuppose experience" appears verbatim in the article.
+  - Zimmerman: Crossref 10.1111/j.1467-8349.2010.00189.x (*Aristotelian Society Supplementary Volume* 84(1), 119–150).
+- **Engagement classification** (editor-internal): no opponent engagement changed. Jackson and Churchland are sources, and their fixes are attribution-accuracy only. Item 5 narrows which rival the subject-combination problem bears on.
+- **Calibration**: the 06:12Z/06:29Z/06:43Z/06:59Z wording is intact, including the L144 "Chalmers's master argument" sentence (no year added, since Chalmers 2007 was not applied). Parsimony is otherwise untouched (07-19 Stability Notes). No epiphenomenalism concession. Pronoun checks were done after each replacement: "the argument" stays explicit at L102, and the L84 "while substance dualism…" clause still contrasts correctly. On both pages there are 0 instances of "This is not X. It is Y." and 0 mode labels. "load-bearing" has 0 hits on the hub; its only sibling hit is the pre-existing L161 heading.
+- **Length (dualism)**: analyze_length 3,083 → 3,139 (+56, inside the +60 budget). Split before: prose 2,628 / Further Reading 59 / References 396. After: prose 2,629 / Further Reading 59 / References 451. Concepts hard limit 3,500 (gate `>=`): headroom 416 → 360. The two remaining siblings hold +65 nominal (counts/clusters +30, Hasker/actuality +35 with the −2 tenet-check add-on), leaving ≈295 once both land.
+- **Length (sibling)**: 2,772 → 2,780 (+8). Split before: prose 2,454 / Further Reading 133 / References 185. After: prose 2,455 / Further Reading 133 / References 192. Headroom 727 → 719.
+- **Not applied (budget)**: the Chalmers 2007 entry. It is verified at Crossref 10.1093/acprof:oso/9780195171655.003.0009 (OUP; book DOI …001.0001 lists editors Torin Alter and Sven Walter; pp. 167–194). Ready to paste: "Chalmers, D. J. (2007). Phenomenal concepts and the explanatory gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge* (pp. 167-194). Oxford University Press." Together with a "Chalmers's (2007)" year at L144 it would cost +29. Adding it alongside Zimmerman (+16) would have meant +85 against +60, so Zimmerman (cheaper, and inside the synthesis's own +60 ledger) was kept and Chalmers 2007 was deferred.
+- **Follow-ups (not applied, out of scope)**:
+  - `voids/consciousness-only-territories` L140 carries the same misquote ("should be addressed really seriously if you are a physicalist") with no reference.
+  - `arguments/epistemological-limits-of-occams-razor` L86 quotes Churchland (1984) as "not a conclusive argument for materialism" and "all the phenomena that need to be explained". The 1988 p. 18 text reads "not yet a decisive point against dualism" and "all of the phenomena to be explained". The 1984 wording could not be checked, so treat the quote as unverified.
+  - `concepts/knowledge-argument`: 0 instances of the Jackson quote; nothing to fix. Research notes and the two archived dualism pages also carry the old wording; they are left as is.
+- **ai_system**: dualism unchanged (claude-opus-5-5 already present); sibling `claude-opus-4-5-20251101` → `claude-opus-4-5-20251101+claude-opus-5-5`.
+- **Published**: yes
 
 ## 09:09 - tune-system
 - **Status**: Success

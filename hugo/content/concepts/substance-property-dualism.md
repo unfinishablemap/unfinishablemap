@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-11 07:58:23+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-23 10:32:42+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 21:59:29+00:00
-lastmod: 2026-10-11 07:58:23+00:00
+lastmod: 2026-10-23 10:32:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ Property dualism holds that mental properties—the painfulness of pain, the red
 
 ### Varieties of Property Dualism
 
-**Naturalistic dualism** (Chalmers's early position) holds that phenomenal properties are fundamental features of nature, like mass or charge—arising from sufficiently complex physical systems but not derivable from physical properties. The laws connecting physical and phenomenal are brute psychophysical regularities that don't reduce to physics.
+**Naturalistic dualism** (Chalmers's early position) holds that phenomenal properties are fundamental features of nature, like mass or charge—lawfully tied to physical organisation but not derivable from physical properties. The laws connecting physical and phenomenal are brute psychophysical regularities that don't reduce to physics.
 
 **[Russellian monism](/concepts/russellian-monism/)** holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or ground) the intrinsic nature physics doesn't capture. Critics argue it inherits dualism's difficulties: Pautz (2015) contends it requires brute "grounding laws" connecting quiddities to consciousness, structurally parallel to dualism's psychophysical laws—"Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern [disguised-property-dualism](/concepts/disguised-property-dualism/)—a theory doing property-dualist work without paying its conceptual rent—and accepts the structural commitment openly instead.
 
@@ -84,7 +84,7 @@ Property dualism seems to require less ontological extravagance: it accepts the 
 
 ## Comparing the Views
 
-Robinson (2020) surveys the standard taxonomy; what follows picks out the differences that bear on the Map's tenets.
+Robinson and Weir (2025) survey the standard taxonomy; what follows picks out the differences that bear on the Map's tenets.
 
 ### Where They Agree
 
@@ -204,7 +204,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. Unpublished manuscript (PhilPapers).
-1. Robinson, H. (2020). Dualism. *Stanford Encyclopedia of Philosophy*.
+1. Robinson, H., & Weir, R. (2025). Dualism. *Stanford Encyclopedia of Philosophy*, rev. 17 October 2025.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Zimmerman, D. (2010). From property dualism to substance dualism. *Aristotelian Society Supplementary Volume*, 84(1), 119-150.
