@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-23 06:29:27+00:00
+ai_modified: 2026-10-23 06:43:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:03:13+00:00
-lastmod: 2026-10-23 06:29:27+00:00
+lastmod: 2026-10-23 06:43:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,17 +159,17 @@ If mind and matter are distinct, how do they relate?
 
 **Parallelism**: Mind and body run in parallel without causal connection. This faces similar problems to epiphenomenalism.
 
-The Map's framework commits to interactionism, with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifying where: at quantum indeterminacies, consciousness biases otherwise undetermined outcomes without violating conservation laws.
+The Map's framework commits to interactionism, with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifying where: at quantum indeterminacies, consciousness biases otherwise undetermined outcomes, conserving energy in expectation, as ordinary collapse does.
 
 ### Quantum Mechanical Considerations
 
-Arguments from quantum mechanics don't establish dualism directly but undermine materialism's main defensive move. The [causal-closure](/concepts/causal-closure/) principle is often deployed against non-physical influence, but quantum indeterminacy leaves room for causation that doesn't inject energy or violate conservation laws. The [decoherence](/concepts/decoherence/) objection has been contested, and quantum biology demonstrates that warm biological systems can sustain quantum effects. See [quantum-consciousness](/concepts/quantum-consciousness/) for detailed treatment.
+Arguments from quantum mechanics don't establish dualism directly but narrow materialism's main defensive move. The [causal-closure](/concepts/causal-closure/) principle is often deployed against non-physical influence. Indeterminism leaves it intact in chance-fixing form, on which physics fixes outcomes' chances; the Map grants this and claims only token-level selection of *which* outcome is actual, preserving Born statistics ([P-Q2](/positions/quantum-interface/#p-q2)). How such selection still does causal work is the Map's acknowledged open problem, [the Born-preserving causal-efficacy problem](/apex/born-preserving-causal-efficacy/). Quantum effects in warm organisms are precedent, not licence: the neural case is unproven, and [decoherence](/concepts/decoherence/) remains the most serious obstacle to sustained-coherence mechanisms. See [quantum-consciousness](/concepts/quantum-consciousness/) for detailed treatment.
 
 ## Objections to Dualism
 
 ### The Interaction Problem
 
-If mind is non-physical, how can it causally affect the physical world? Classical objections seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. [Stapp's quantum Zeno effect](/concepts/stapp-quantum-mind/) proposes that attention-driven observations bias superposition collapse without adding energy. See [objections-to-interactionism](/concepts/objections-to-interactionism/) for detailed treatment.
+If mind is non-physical, how can it causally affect the physical world? Classical objections seemed devastating when physics was deterministic. On the indeterministic single-outcome readings the Map adopts by commitment ([the No Many Worlds tenet](/tenets/#no-many-worlds)), not evidence, physics specifies probabilities, not outcomes. In [Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/), the agent "chooses only the question," while nature picks the answer by a statistical law (Stapp 2005). Outcome selection is the Map's own addition. See [objections-to-interactionism](/concepts/objections-to-interactionism/) for detailed treatment.
 
 ### The Parsimony Objection
 
@@ -177,7 +177,7 @@ Parsimony arbitrates between theories of *equal* explanatory power, and physical
 
 ### The Neural Correlation Objection
 
-Every mental state correlates with brain states. But correlation is compatible with dualism. [Interactionism](/concepts/interactionist-dualism/) predicts exactly these findings—if consciousness interfaces with the brain, we would expect tight [neural correlates](/concepts/neural-correlates-of-consciousness/).
+Mental states correlate closely with brain states. [Interactionism](/concepts/interactionist-dualism/) expects tight [neural correlates](/concepts/neural-correlates-of-consciousness/); physicalism and epiphenomenalism expect the same dependence, so the findings fit the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet without evidencing it.
 
 ### The Eliminativist Challenge
 
@@ -191,7 +191,7 @@ The anti-materialist arguments are also claimed by [idealism](/concepts/idealism
 
 ## What Would Challenge This View?
 
-The cumulative case would be undermined if: consciousness were fully explained functionally (not mere correlations but transparent understanding of *why* neural activity feels like something); the conceivability argument were shown incoherent; illusionism solved the illusion problem; quantum coherence were definitively ruled out in brains (the interaction mechanism would need replacement, though not dualism itself); or a conceptual revolution genuinely dissolved the hard problem. The position is empirically vulnerable, not metaphysically protected.
+The cumulative case would be undermined if: consciousness were fully explained functionally (not mere correlations but transparent understanding of *why* neural activity feels like something, a bar no theory yet meets); the conceivability argument were shown incoherent; an illusionist model predicted the qualitative structure of introspective reports; or a conceptual revolution genuinely dissolved the hard problem. Ruling out neural coherence would count against coherence-dependent mechanisms such as Orch OR, not against dualism or post-decoherence selection, the Map's preferred route ([falsifiers](/concepts/interactionist-dualism/#selection-biasing-and-falsifiability)). Empirically, chiefly mechanisms and intention-conditioned deviations are exposed: Born-preserving selection leaves no signature in unconditioned statistics, and no brain-internal conditioned test has yet run.
 
 ## Relation to the Map's Perspective
 
@@ -243,6 +243,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 1. Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Searle, J. R. (1992). *The Rediscovery of the Mind*. MIT Press.
 1. Sober, E. (2001). What is the problem of simplicity? In Keuzenkamp, McAleer, & Zellner (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
+1. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Journal of Consciousness Studies*, 12(11), 43–58.
 1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
 1. Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). The importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
