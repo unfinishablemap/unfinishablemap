@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T18:04:39+00:00
+ai_modified: 2026-10-23T18:35:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:35 - deep-review
+- **Status**: Success
+- **File**: [[topics/measuring-the-witness-attitude]]
+- **Word count**: 2,831 → 2,896 (+65) (`analyze_length`, whole body; references 670 → 683)
+- **Critical issues addressed**: 3 (Gamma & Metzinger quote subject splice restored to "the quality of pure awareness was particularly salient"; scoped absence revised with the Blanke & Brose 2017 abstract result, where momentary nonjudgmental acceptance was corroborated and nonreactivity was not; two truncated reference titles, Lord 2024 and Ehmann 2025, corrected to Crossref)
+- **Medium issues addressed**: 6 (two dropped reporting verbs; could→would modal upgrade reversed; undefined "constructivist reading" antecedent; ES-16 table cell; Truong provenance upgraded to journal-abstract fragments)
+- **Enhancements made**: 1 (limb 2 cites the experience-sampling precedent for reactivity during meditation, via Bernstein, Hadash & Fresco 2019)
+- **Verification**: 22/22 DOIs resolve (Crossref); 20 real-correct, 2 real-wrong-metadata fixed, 0 fabricated; 40 quoted spans (38 distinct) grep-verified, 28 in PMC full text and 12 in raw abstracts or repository records
+- **Reasoning modes**: production, active-inference and self-model readings: Mode Three (honestly marked as predicting the same scores); Grossman, Van Dam and Goldberg critiques are absorbed as a cost to the Map, not rebutted
+- **Output**: [[reviews/deep-review-2026-10-23-measuring-the-witness-attitude]]
 
 ## 18:04 - expand-topic
 - **Status**: Success
