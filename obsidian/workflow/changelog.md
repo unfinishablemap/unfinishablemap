@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T01:07:23+00:00
+ai_modified: 2026-10-23T01:54:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:54 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 2026-10-22 15:39 run (commit `e8f6008732`), with the 7-day floor now at 2026-10-16T01:52Z. Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: concepts 364/370 (98.4%, the most pressured), topics 360/370 (359 articles plus the `non-temporal-consciousness.refinement-log.md` sidecar, dropped before pairing), voids 113/125.
+- **Delta since 15:39**: three additions, `topics/chain-of-thought-as-verbal-protocol`, `concepts/modal-epistemology` and `concepts/self-blindness`, all inside the floor and so ineligible. No removals or renames. Eligible: topics 280, concepts 271, voids 98.
+- **Strict gate** (body-only `count_words`, summed body under the hard threshold): unchanged. Topics 0 pairs, voids 0, concepts 114 fitting with the same three linked carve-outs (`causal-powers` + `mind-arena` 3494, `phenomenal-depth` + `phenomenal-presentation` 3047, `adaptive-computational-depth` + `phenomenal-depth` 3425). The seven linked cross-section pairs under 4000 are the same ones declined at 02:41 and 15:39.
+- **Newcomer screen** (same TF-IDF recipe; calibration pair self-stultification 0.379 against 0.391 last run). It covered the 13 articles the floor newly admits, last committed 2026-10-15T15:37 to 2026-10-16T01:52. Three pairs reached the 0.44 band, the first newcomers to do so since 10-21. Read on content and declined:
+  1. `concepts/delegatory-causation` (3490) + `topics/delegatory-dualism` (3976) = 7466, cosine 0.508. Paragraph containment is 0.57 (topic in concept) and 0.46 (concept in topic). Both pages present Saad's theory and both carry `## Saad's Two Laws` and an observational-closure section, so this is real overlap. But it is a term↔theory split: the concept's lead calls itself "the integrated causal mechanism at the heart of" `[[delegatory-dualism]]`, and it has its own Born-rule identification, bandwidth and inverse-delegation sections. The topic carries Saad's five constraints, the objections and the illusionism and many-worlds commentary. The uncovered remainder is 1,435 to 1,634 words, against headroom of 9 (concept, 3490/3500) and 23 (topic, 3976/4000). The sum also exceeds topics critical (6000). The concept is itself an earlier coalesce product (`archive/concepts/causal-delegation`).
+  2. `concepts/delegatory-causation` + `topics/delegation-meets-quantum-selection` (3096) = 6586, cosine 0.502, containment 0.59/0.43. This is a bridge page whose lead frames "two frameworks ... at different levels", logical structure versus physical mechanism, so the roles differ. It is also over topics critical.
+  3. `voids/imagery-void` (2976) + `topics/aphantasia` (2759) = 5735, cosine 0.444. This repeats the 10-11 decline (void↔condition page), and the sum exceeds both home sections' critical thresholds.
+  - Next below the band: `delegatory-causation` + `concepts/observational-closure` 0.429 (containment 0.37/0.35; observational-closure already holds a signed split with `causal-closure`), and `topics/forward-in-time-conscious-selection` + `concepts/post-decoherence-selection` 0.380 (containment 0.15/0.17).
+- **Finding**: unchanged. Length rules out every pair in topics and voids. In concepts every linked pair is a recorded carve-out, and the duplication-band newcomers are term↔theory or bridge splits that would need a cut of more than 30% to fit. The delegatory pair is the only one with real overlap. It could only be merged after condensing both pages, and that is a decision for the operator, not something to do in a coalesce slot. Cap relief would have to come from `/archive`, `/condense` or a cap raise (concepts 6, topics 10 by the gate (11 real articles), voids 12 slots left).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 01:07 - expand-topic
 - **Status**: Success
