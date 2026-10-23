@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-10-22 21:40:12+00:00
+ai_modified: 2026-10-23 14:23:42+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5-5
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-02-11
-date: &id001 2026-10-22
+date: &id001 2026-10-23
 description: Examining when what we can imagine reveals what could be real, and the
   philosophical arguments that depend on this controversial bridge between thought
   and reality.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-10 05:30:56+00:00
-lastmod: 2026-10-22 21:40:12+00:00
+lastmod: 2026-10-23 14:23:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,7 +30,7 @@ topics:
 
 The conceivability-possibility inference is the principle that if something can be coherently conceived, it is at least metaphysically possible. This seemingly innocent bridge from imagination to reality powers some of philosophy's most contested arguments—particularly in philosophy of mind, where [zombie arguments](/concepts/philosophical-zombies/) and the [knowledge argument](/concepts/knowledge-argument/) depend on inferring genuine metaphysical possibilities from acts of conceiving.
 
-The Unfinishable Map endorses this inference in its most demanding form—ideal positive conceivability of fundamental conceptual separations—as evidentially significant for dualism. When sustained reflection finds that consciousness can be coherently separated from physical structure, the Map counts that gap as defeasible evidence about reality's structure rather than an artefact of imagination. The live physicalist reply grants the conceiving and denies the inference ([explained below](#relation-to-site-perspective)).
+The Unfinishable Map endorses this inference in its most demanding form—ideal positive conceivability of fundamental conceptual separations—as evidentially significant for dualism. When sustained reflection finds that consciousness can be coherently separated from physical structure, the Map counts that gap as defeasible evidence about reality's structure rather than an artefact of imagination, a judgement that rests on contested [modal rationalism](/concepts/modal-epistemology/). The live physicalist reply grants the conceiving and denies the inference ([explained below](#relation-to-site-perspective)).
 
 The inference matters because conceivability is epistemically accessible—we can investigate what we can and cannot imagine—while metaphysical possibility concerns the structure of reality itself, which may be hidden from direct inspection. If conceivability reliably tracks possibility, we gain an investigative tool. If it doesn't, major arguments collapse.
 
@@ -107,7 +107,7 @@ The strongest historical parallel here is **vitalism**. For centuries, it seemed
 
 The dualist response distinguishes the two cases. Vitalism was abandoned because chemistry *explained* biological phenomena—metabolism, reproduction, growth all yielded to biochemical analysis, leaving no residual explanatory gap. The consciousness case is structurally different: neuroscience *correlates* neural activity with phenomenal experience but doesn't *explain* why those correlations hold. Additionally, vitalism made empirical predictions (vital fluids, life-specific forces) that were falsified. Consciousness dualism rests on a conceptual gap—the apparent non-entailment of phenomenal facts by physical facts—that cannot be closed by discovering new empirical correlations.
 
-This response is not airtight. A [Type-C](/concepts/type-a-type-b-and-type-c-physicalism/) physicalist can argue that future theoretical breakthroughs may close the consciousness gap just as biochemistry closed the vitalism gap—and that the current persistence of the gap reflects our ignorance rather than a genuine metaphysical boundary. The Map acknowledges this possibility but holds that the *character* of the consciousness gap differs: we have first-person acquaintance with what consciousness *is*, and the gap persists not for lack of data but because additional data (more neural correlates) doesn't address the constitutive question. That reply reaches ignorance on the phenomenal side; the [ignorance hypothesis](/concepts/ignorance-hypothesis/) places it on the physical side, and the replies that reach it, chiefly the [conceptual-hook argument](/concepts/ignorance-hypothesis/#what-does-reach-it), remove a defeater without adding evidence.
+This response is not airtight. A [Type-C](/concepts/type-a-type-b-and-type-c-physicalism/) physicalist can argue that future theoretical breakthroughs may close the consciousness gap just as biochemistry closed the vitalism gap—and that the current persistence of the gap reflects our ignorance rather than a genuine metaphysical boundary. The Map acknowledges this possibility but holds that the *character* of the consciousness gap differs: we have first-person acquaintance with consciousness itself, if only with part of its character, and the gap persists not for lack of data but because additional data (more neural correlates) doesn't address the constitutive question. That reply reaches ignorance on the phenomenal side; the [ignorance hypothesis](/concepts/ignorance-hypothesis/) places it on the physical side, and the replies that reach it, chiefly the [conceptual-hook argument](/concepts/ignorance-hypothesis/#what-does-reach-it), remove a defeater without adding evidence.
 
 More fundamentally, the physics cases concern contingent laws of nature, while the zombie case concerns a constitutive relationship—whether physical facts *entail* phenomenal facts—where the inference is on firmest ground.
 
@@ -129,13 +129,13 @@ The conceivability-possibility inference embodies a form of *[modal rationalism]
 
 Modal rationalists point to successful cases (mathematical and logical necessity discovered through pure reason); empiricists point to failures (physical necessities that intuition missed). Neither side can resolve the dispute without presupposing something about the reliability of rational reflection.
 
-However, consciousness conceivability may have special epistemic status. Unlike conceiving of non-Euclidean geometry or faster-than-light travel—where we lack direct access to the subject matter—we have first-person acquaintance with what consciousness *is*. When we conceive of a physical duplicate lacking consciousness, we are imagining the absence of something we know intimately through [introspection](/concepts/introspection/), which may give zombie conceivability more evidential weight than conceivability claims about domains we understand only theoretically. The [modal structure of phenomenal properties](/topics/modal-structure-of-phenomenal-properties/) makes this concrete: the central argument there rests on exactly this inference, treating the ideal conceivability of phenomenal-physical separation as a guide to the modal profile of qualia themselves. As the [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) highlights, the persistence of the conceivability intuition under scrutiny is itself a datum requiring explanation—though not a universal one: Díaz (2021) found such problem intuitions not widespread among ordinary people ([discussed here](/topics/metaproblem-of-consciousness-under-dualism/)).
+However, consciousness conceivability may have special epistemic status. Unlike conceiving of non-Euclidean geometry or faster-than-light travel—where we lack direct access to the subject matter—we have first-person acquaintance with consciousness itself, though on the Map's weak [Revelation](/concepts/revelation-thesis/) only with part of its character, not its whole essence. When we conceive of a physical duplicate lacking consciousness, we are imagining the absence of something we know intimately through [introspection](/concepts/introspection/), which may give zombie conceivability more evidential weight than conceivability claims about domains we understand only theoretically. The [modal structure of phenomenal properties](/topics/modal-structure-of-phenomenal-properties/) makes this concrete: the central argument there rests on exactly this inference, treating the ideal conceivability of phenomenal-physical separation as a guide to the modal profile of qualia themselves. As the [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) highlights, the persistence of the conceivability intuition under scrutiny is itself a datum requiring explanation—though not a universal one: Díaz (2021) found such problem intuitions not widespread among ordinary people ([discussed here](/topics/metaproblem-of-consciousness-under-dualism/)).
 
 ## Relation to Site Perspective
 
 The Unfinishable Map's [first tenet](/tenets/)—[Dualism](/tenets/#dualism)—depends partly on conceivability arguments. The zombie argument (conceivability of physical duplicates lacking consciousness) and the knowledge argument (Mary gains new knowledge when experiencing color, purportedly showing phenomenal facts exceed physical facts) both employ conceivability-possibility reasoning.
 
-If this inference is fundamentally unreliable, dualist arguments lose significant support. The Map's position thus requires at least *qualified* defense of the inference.
+If this inference is fundamentally unreliable, dualist arguments lose significant support. The modal arguments' contribution thus requires at least *qualified* defense of the inference; the tenet, held as a commitment, would still have the explanatory gap and the non-modal arguments to rest on ([modal-epistemology](/concepts/modal-epistemology/)).
 
 **The qualification:** The Map endorses the inference for *ideal positive conceivability* of fundamental conceptual separations, not for all conceivable scenarios. When we can coherently and completely imagine consciousness coming apart from physical structure, this reveals that consciousness is not conceptually entailed by physics. The inference is what carries that conceptual result to the metaphysical conclusion dualism needs: that physics does not necessitate consciousness at all.
 

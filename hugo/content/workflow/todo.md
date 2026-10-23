@@ -3060,14 +3060,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-10-23
 - **Notes**: Found by research/voids-template-void-2026-10-23.md (read its evidence sections). Epley et al. 2004 (adjustment from one's own perspective stops too early), Krueger & Clement 1994 (false consensus survives being taught about it) and Elfenbein & Ambady 2002 (an in-group advantage in reading emotion that shrinks with exposure) all indicate that a misread of another mind is usually NOT felt as a limit. The reader experiences success, and may attribute the misfit to the other person. L77's phenomenology of "reaching and not quite touching" holds for some cases (felt opacity), but stated generally it overclaims. Scope it: felt opacity in some encounters, unfelt misfit in others, especially across different kinds of mind. Use only quotes the research note marks verified. Do not rest anything on the contested autism double-empathy findings without the note's caveats (the 2025 NHB non-replication). Calibration: fits without evidencing; never concede epiphenomenalism. LENGTH: check analyze_length first (topics hard 4,000); keep it near length-neutral. Set ai_modified from `date -u`; append your model to ai_system only if ABSENT; changelog before sync; verify both trees; no commit.
 
-### P2: `topics/modal-structure-of-phenomenal-properties` L97 still says each PCS version "fails" (withdrawn on the dualism hub at 06:32Z), and L77/L111 call the four modal arguments "cumulative" with no [P-D1](/positions/arguments-for-dualism/#p-d1) premise-sharing discount
-- **Type**: refine-draft
-- **File**: obsidian/topics/modal-structure-of-phenomenal-properties.md
-- **Source**: check-tenets
-- **Generated**: 2026-10-23
-- **Review file**: reviews/tenet-check-2026-10-23.md
-- **Notes**: Tenet check 2026-10-23 (check 154) W5 + W6, Priority List item 3. (a) L97: "how each PCS version fails this dilemma" -> PCS defenders dispute the single characterisation the dilemma needs, and the PCS page treats the exchange as open (+1). (b) L77: "These are not four ways of making the same point." -> they press one gap, as [P-D1](/positions/arguments-for-dualism/#p-d1) records, but from four sides (+1). (c) L111: "cumulative" -> many-sided but not cumulative, since they share the conceivability-to-possibility step and would fail together (+11). Net +13; headroom 1,469. Keep yesterday's 21:56Z weak-Revelation fixes (L60-L62) intact. The tenet check gives each OLD string verified once at the cited line; pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Set ai_modified from `date -u`; append your model to ai_system only if ABSENT; changelog before sync; verify both trees; no commit.
-
 ### P2: `concepts/conceivability-possibility-inference` L106/L128 claim "acquaintance with what consciousness *is*" (strong Revelation), L29 omits that modal rationalism is contested, and L134 makes the tenet depend on the inference
 - **Type**: refine-draft
 - **File**: obsidian/concepts/conceivability-possibility-inference.md
@@ -3139,6 +3131,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-23: `topics/modal-structure-of-phenomenal-properties` L97 still says each PCS version "fails" (withdrawn on the dualism hub at 06:32Z), and L77/L111 call the four modal arguments "cumulative" with no [P-D1](/positions/arguments-for-dualism/#p-d1) premise-sharing discount
+- **Type**: refine-draft
+- **File**: obsidian/topics/modal-structure-of-phenomenal-properties.md
+- **Notes**: Tenet check 2026-10-23 (check 154) W5 + W6, Priority List item 3. (a) L97: "how each PCS version fails this dilemma" -> PCS defenders dispute the single characterisation the dilemma needs, and the PCS page treats the exchange as open (+1). (b) L77: "These are not four ways of making the same point." -> they press one gap, as [P-D1](/positions/arguments-for-dualism/#p-d1) records, but from four sides (+1). (c) L111: "cumulative" -> many-sided but not cumulative, since they share the conceivability-to-possibility step and would fail together (+11). Net +13; headroom 1,469. Keep yesterday's 21:56Z weak-Revelation fixes (L60-L62) intact. The tenet check gives each OLD string verified once at the cited line; pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Set ai_modified from `date -u`; append your model to ai_system only if ABSENT; changelog before sync; verify both trees; no commit.
 
 ### ✓ 2026-10-23: `concepts/entanglement-binding-hypothesis` structural argument ("Classical physics cannot produce ontological wholes", L36; "Classical mechanisms address BP1 but not BP2", L32) never engages the classical claim to explain phenomenal unity: IIT's integration axiom and Φ, and synergistic-information emergence
 - **Type**: refine-draft

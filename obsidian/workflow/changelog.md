@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T14:09:23+00:00
+ai_modified: 2026-10-23T14:24:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 14:24 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conceivability-possibility-inference]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix from the tenet check's Priority 4, W3 and W4)
+- **Review file**: [[reviews/tenet-check-2026-10-23]]
+- **Changes**:
+  - (a) L128 (W3, weak Revelation): "we have first-person acquaintance with what consciousness *is*." became "we have first-person acquaintance with consciousness itself, though on the Map's weak [[revelation-thesis|Revelation]] only with part of its character, not its whole essence." (+15)
+  - (b) L106 (W3): "we have first-person acquaintance with what consciousness *is*, and the gap persists" became "we have first-person acquaintance with consciousness itself, if only with part of its character, and the gap persists" (+6)
+  - (c) L134 (W4): "The Map's position thus requires at least *qualified* defense of the inference." became "The modal arguments' contribution thus requires at least *qualified* defense of the inference; the tenet, held as a commitment, would still have the explanatory gap and the non-modal arguments to rest on ([[modal-epistemology]])." (+21)
+  - (d) L29 (W4, lead): "...rather than an artefact of imagination." became "...rather than an artefact of imagination, a judgement that rests on contested [[modal-epistemology|modal rationalism]]." (+8)
+- **Softening in (c)**: the brief's "would stand without it on the explanatory gap and the non-modal arguments" was replaced by the brief's own fallback, "would still have the explanatory gap and the non-modal arguments to rest on" (+1 word over the brief's +20). Two reasons. First, "would stand ... on" reads as the gap and the non-modal arguments upholding the tenet, when they are defeasible support for a commitment. Second, "stand without it on the explanatory gap" also parses as "without it on the gap".
+- **Coordination**: "part of its character" in (a) and (b) matches the 12:58Z wording on `arguments/materialism-argument` L66 and `arguments/functionalism-argument` L159 (those pages were not edited). The 10-22 21:40Z L142/L144 repair is intact (0 diff lines). (d) and (c) agree with L144's "inherit the standing of modal rationalism, and that standing is contested" and with `modal-epistemology` L119/L121. The wording "defeasible evidence" at L29 was left alone because of the open Allen NEEDS-HUMAN. P-D1 is respected: (c) speaks of the modal arguments' single shared "contribution".
+- **Pronoun check**: L29's "a judgement" refers to the Map's counting. L106's "That reply" and L128's next sentence are unchanged and still resolve. In L134, "the tenet" refers to the first tenet at L132, and "it" refers to the inference.
+- **Length** (analyze_length): 2,737 → 2,787 (+50: a +15, b +6, c +21, d +8; concepts hard 3,500).
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 14:09 - refine-draft
 - **Status**: Success
