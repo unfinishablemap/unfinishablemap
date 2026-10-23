@@ -283,9 +283,9 @@
   prompt_summary: 'Audit concepts/dualism: claims, citations, objections, bracketing,
     integration'
   target_filename: outer-review-2026-10-23-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-23T04:00:26.824193+00:00'
   failure_reason: null
   prompt_text: 'You are an external reviewer for The Unfinishable Map (https://unfinishablemap.org),
     a philosophy site that openly commits to five tenets, among them that consciousness

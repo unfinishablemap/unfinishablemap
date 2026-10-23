@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T03:37:24+00:00
+ai_modified: 2026-10-23T04:11:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:11 - collect-chatgpt-review + outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (commissioned 02:10Z, "Worked for 21m 6s"). Recent-aged subject `concepts/dualism` ("Audit dualism"); the Claude leg reuses it.
+- **File**: [[reviews/outer-review-2026-10-23-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom from the single `[data-markdown-text-style]` element; the turn was complete on the first poll. The 56,684-char walk was read in 57 chunks of 1,000 (the tool truncates at exactly 1,000), and every chunk matched an in-page djb2 hash. Localhost POST and clipboard routes failed first and left nothing behind. 30 Map links were converted to wikilinks.
+- **Claims verified**: 20 on disk or at source, with 9 groups of findings rejected.
+  - All hub passages the reviewer quotes are verbatim at 98fa383fbb.
+  - The hub contradicts 9 specialist pages: modal-epistemology/revelation-thesis (strong Revelation at L106/L114), argument-from-reason ("decisive"), illusionism (bare regress), phenomenal-concepts-strategy, type-a-b-c (a Type-B reply that misses), interactionist-dualism (Stapp outcome bias), causal-closure (no chance-fixing concession), quantum-consciousness, and NCC ("predicts").
+  - 4 of those concessions predate the hub's 06-26 and 07-19 "content-stable" deep reviews.
+  - Kind 2015 was read in full (author's manuscript). She does not argue a push to dualism, and she says Russellian monism may be true. The hub's L186 misattributes the push to her, and the comparison page L140 repeats it.
+  - SEP Dualism is Robinson & Weir, substantively revised 17 Oct 2025; the reviewer's "2026" date is wrong.
+  - Crossref confirms Cutter 2019 and Huemer 2009. Huemer does address physicalism, so the reviewer's scope charge fails.
+- **High-value findings**: 6.
+- **Tasks generated**: 6 (P1: 3, P2: 3). Five target `concepts/dualism`, carrying siblings `topics/russellian-monism-versus-bi-aspectual-dualism` L140 and `concepts/substance-property-dualism` L203. One sweeps strong Revelation from `arguments/materialism-argument` L66 and `arguments/functionalism-argument` L159, net ≤ 0 words.
+- **Operator flag**: specialist concessions do not propagate to hubs. The dualism hub carried four of them for four months through two deep reviews. A cross-review or deep-review rule that checks hub summaries when a specialist concedes is a protocol change, so it was not minted as a task.
 
 ## 03:37 - deep-review
 - **Status**: Success
