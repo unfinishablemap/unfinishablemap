@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-23T10:41:47+00:00
+ai_modified: 2026-10-23T11:26:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ coalesced_from:
 
 Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [[philosophy-of-mind|philosophy of mind]], dualism is the first of The Unfinishable Map's [[tenets#^dualism|five foundational commitments]]. Eight arguments support the position: the [[explanatory-gap]] between physical description and subjective experience, the conceivability of [[philosophical-zombies]], the [[knowledge-argument|knowledge argument]] (Mary's Room), the intrinsic character of [[qualia]], [[kripke-a-posteriori-necessity-argument|Kripke's modal argument]], Nagel's subjectivity argument, the [[binding-problem|unity of consciousness]], and [[intentionality]]; the [[argument-from-reason]] adds a self-defeat charge. Their convergence from different starting points strengthens the case beyond what any single argument achieves—though they are not all evidentially independent, and [[the-convergence-argument-for-dualism|the convergence argument]] finds the real force comes from across argument clusters rather than from the count.
 
-The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question, and the arguments supporting it continue to develop alongside renewed attention to the limits of physicalism.
+In the 2020 PhilPapers survey, 22% of target faculty (n=1,020) accepted or leaned toward dualism on the consciousness question; functionalism, the plurality view, drew 33%.
 
 ## What Dualism Claims
 
@@ -119,7 +119,7 @@ Thomas Nagel (1974) argued that consciousness has an inherently subjective chara
 
 ### The Unity of Consciousness
 
-Conscious experience is unified: visual field, sounds, bodily sensations, and thoughts belong to a *single* subject. William Hasker develops this into an argument: physical systems are composed of discrete parts, yet no physical mechanism explains how parts compose a unified subject. The [[binding-problem]] explores the neural side. The dualist response: unity is an intrinsic feature of the non-physical subject, not *produced* by neural mechanisms.
+Conscious experience is unified: visual field, sounds, bodily sensations, and thoughts belong to a *single* subject. William Hasker develops this into an argument: physical systems are composed of discrete parts, yet no physical mechanism explains how parts compose a unified subject (contested: [[predictive-processing-and-dualism|predictive processing]], [[integrated-information-theory|integrated information]]). The [[binding-problem]] explores the neural side. Hasker's answer is [[emergent-dualism|emergent dualism]]: the brain generates a unified subject not *composed* of the brain's parts, as a magnet generates its field. The Map's interface reading, held provisionally, departs from him: the unified subject is coupled to the brain, not produced by it.
 
 ### Arguments from Intentionality
 
@@ -159,7 +159,7 @@ The Map's framework commits to interactionism, with the [[tenets#^minimal-quantu
 
 ### Quantum Mechanical Considerations
 
-Arguments from quantum mechanics don't establish dualism directly but narrow materialism's main defensive move. The [[causal-closure]] principle is often deployed against non-physical influence. Indeterminism leaves it intact in chance-fixing form, on which physics fixes outcomes' chances; the Map grants this and claims only token-level selection of *which* outcome is actual, preserving Born statistics (P-Q2). How such selection still does causal work is the Map's acknowledged open problem, [[apex/born-preserving-causal-efficacy|the Born-preserving causal-efficacy problem]]. Quantum effects in warm organisms are precedent, not licence: the neural case is unproven, and [[decoherence]] remains the most serious obstacle to sustained-coherence mechanisms. See [[quantum-consciousness]] for detailed treatment.
+Arguments from quantum mechanics don't establish dualism directly but narrow materialism's main defensive move. The [[causal-closure]] principle is often deployed against non-physical influence. Indeterminism leaves it intact in chance-fixing form, on which physics fixes outcomes' chances; the Map grants this and claims only token-level selection of *which* outcome is actual, preserving Born statistics (P-Q2). Whether such selection does causal work is the Map's acknowledged open problem, [[apex/born-preserving-causal-efficacy|the Born-preserving causal-efficacy problem]]. Quantum effects in warm organisms are precedent, not licence: the neural case is unproven, and [[decoherence]] remains the most serious obstacle to sustained-coherence mechanisms. See [[quantum-consciousness]] for detailed treatment.
 
 ## Objections to Dualism
 
@@ -169,7 +169,7 @@ If mind is non-physical, how can it causally affect the physical world? Classica
 
 ### The Parsimony Objection
 
-Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism—a key distinction from [[parsimony-epistemology]]. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. [[parsimony-epistemology|Leading materialists themselves]] have acknowledged this: Lycan (2009) calls parsimony "a very posterior reason," and Churchland (1988) qualifies his own simplicity argument as not conclusive. The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly.
+Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism; whether explanatory parsimony favours dualism is contested ([[parsimony-epistemology]]). Huemer (2009), Sober (2001), and Zanotti (2021) conclude that standard justifications for preferring simpler theories do not extend to this debate. Leading materialists themselves have acknowledged this: Lycan (2009) calls parsimony "a very posterior reason," and Churchland (1988) qualifies his own simplicity argument as not conclusive. The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly.
 
 ### The Neural Correlation Objection
 
@@ -197,7 +197,7 @@ This commitment is grounded in arguments that converge from different starting p
 
 Dualism's most consequential bearing may be ethical: irreducible consciousness motivates the view that [[topics/phenomenal-value-realism|phenomenal value]]—the felt badness of suffering, the felt goodness of joy—is irreducible too. Physicalists can hold phenomenal value realism, and a dualist could still be an expressivist.
 
-The Map's [[bi-aspectual-ontology]] gives this commitment concrete metaphysical content: reality has two irreducible aspects — *structure* (what physics describes: relations, dispositions, probabilities) and *actuality* (what consciousness provides: the selection that makes one quantum outcome real rather than another). Neither aspect reduces to the other, yet they interact at quantum indeterminacies. This framework distinguishes the Map from dual-aspect monisms (Spinoza, Pauli-Jung) that use similar vocabulary but deny causal interaction between aspects.
+The Map's [[bi-aspectual-ontology]] gives this commitment concrete metaphysical content: reality has two irreducible aspects — *structure* (what physics describes: relations, dispositions, probabilities) and *actuality* (what makes one quantum outcome real: objective reduction by default, conscious selection at neural interfaces). Neither aspect reduces to the other, yet they interact at quantum indeterminacies. This framework distinguishes the Map from dual-aspect monisms (Spinoza, Pauli-Jung) that use similar vocabulary but deny causal interaction between aspects.
 
 Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, the Map holds [[interactionist-dualism]]—consciousness is distinct *and* causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined.
 
