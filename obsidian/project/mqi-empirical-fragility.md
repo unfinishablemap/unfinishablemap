@@ -4,7 +4,7 @@ description: "The Minimal Quantum Interaction tenet depends on a physics gap tha
 created: 2026-05-13
 modified: 2026-05-13
 human_modified: null
-ai_modified: 2026-10-12T13:40:45+00:00
+ai_modified: 2026-10-23T07:26:33+00:00
 last_deep_review: 2026-06-26T19:50:42+00:00
 draft: false
 topics: []
@@ -89,7 +89,7 @@ The discipline does not establish that MQI is *currently* in empirical trouble. 
 
 A second limitation: the discipline cannot supply the substantive physics work that would resolve any of the inventoried scenarios. The catalogue tracks the physics; it does not advance it. The framework's empirical fate is in the hands of experimentalists and theorists outside the catalogue's reach, and the discipline's job is to keep the catalogue's confidence calibrated to that external state rather than to manufacture confidence the external state does not yet warrant.
 
-A third limitation, related to but distinct from the second: the fragility framing presupposes that the gap is empirical rather than principled. If the gap is in fact principled — if the measurement problem is in some sense not the kind of problem that physics can close, perhaps because closing it would require a third-person specification of a first-person fact — then "narrowing-gap dependence" mis-describes the situation. The framework would not be parasitic on an empirical gap that ongoing work could close; it would be located at a structural boundary the physics simply cannot cross. The catalogue's [[voids/]] articles take this possibility seriously for related questions; the discipline notes the possibility without resolving it, and reviewers should treat "this is a principled rather than empirical gap" as a permitted move that requires its own argument rather than being available as a default.
+A third limitation, related to but distinct from the second: the fragility framing presupposes that the gap is empirical rather than principled. If the gap is in fact principled — if the measurement problem is in some sense not the kind of problem that physics can close, perhaps because closing it would require a third-person specification of a first-person fact — then "narrowing-gap dependence" mis-describes the situation. The framework would not be parasitic on an empirical gap that ongoing work could close; it would be located at a structural boundary the physics simply cannot cross. The catalogue's [[voids]] articles take this possibility seriously for related questions; the discipline notes the possibility without resolving it, and reviewers should treat "this is a principled rather than empirical gap" as a permitted move that requires its own argument rather than being available as a default.
 
 ## Relation to Site Perspective
 

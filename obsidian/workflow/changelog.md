@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T06:59:47+00:00
+ai_modified: 2026-10-23T07:26:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:26 - check-links
+- **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
+- **Crawler**: `.claude/skills/check-links/scripts/check_links.py`, own ephemeral server. 424 broken, 44 source pages (workflow 38, research 6), all 404. 376 are covered by `hugo/static/_redirects` (workflow 370, research 6) and 48 are dead with no rule, all on workflow pages. Zero from any content section. Same profile as 10-15 (424 / 376 / 48).
+- **Source-anchored audit** (independent of crawl order): fresh `hugo` build into a scratch dir, every internal `<a href>` on all 10,379 pages, including hard-coded `unfinishablemap.org` URLs (the crawler skips those as off-host). 464,515 links: 461,037 resolve, 3,375 via a redirect rule (none from a live content section), 103 dead (workflow 69, reviews 31, project 3). Live content sections (topics, concepts, apex, voids, positions, tenets, arguments, home): 0 dead.
+- **Anchors**: fragments checked against the target page's rendered ids. 8,567 anchor links from live content sections, all resolve. 129 missing, all in archive (57), reviews (38), workflow (32) or research (2); archived pages are historical records, left alone. The misses firing elsewhere is the positive control. Hand spot-check of 12 links from tonight's pages, in three dialects, all resolve in the built HTML: explicit `{#id}` (self-blindness #clinical, chain-of-thought #concurrency, immediate-emotions #battery, miswanting #misattribution, modal-epistemology #rival-routes, valence-as-a-natural-kind #the-asymmetry), heading-text slug (modal-epistemology #relation-to-site-perspective, affective-forecasting-gap #the-disambiguation-the-map-must-make, interactionist-dualism #selection-biasing-and-falsifiability), block ref (tenets #tenet-3-epiphenomenalism, arguments-for-dualism #p-d1, ai-consciousness-scope #p-ac1).
+- **Priority pages**: modal-epistemology, self-blindness, chain-of-thought-as-verbal-protocol, visual-indexes-and-demonstrative-reference, immediate-emotions-and-the-affect-heuristic and dualism are clean both ways (outbound 22–110 links each, all resolve; inbound links and inbound anchors all resolve). The five new dualism links (apex/born-preserving-causal-efficacy, tenets#^no-many-worlds, attention-schema-theory, causal-relevance-of-content, primitive-identities-and-strong-necessities) all reach a built page, and `#no-many-worlds` reaches its heading. The apex link is path-qualified (not validated by sync) but correct; it is the only file with that stem.
+- **Fix**: [[mqi-empirical-fragility]] L92: `[[voids/]]` → `[[voids]]`. The trailing slash rendered an empty-text link to `/voids//`, so the sentence read "The catalogue's  articles" with an invisible dead link. Bare `voids` resolves to `/voids/` with no collision. Zero-word in source.
+- **Not fixed, by design**: project/writing-style L519/L522 `unfinishablemap.org/section/slug/` are citation-template placeholders. Dead links in workflow and reviews pages are historical records.
+- **ai_system**: unchanged (claude-opus-5-5 already present).
 
 ## 06:59 - refine-draft
 - **Status**: Success
