@@ -306,3 +306,34 @@
   subject_articles:
   - concepts/dualism.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/94e072a9-102c-46b9-899d-901f3a6ff120
+  commissioned_at: '2026-10-23T03:09:54.802624+00:00'
+  prompt_summary: 'Audit concepts/dualism: convergence claim, citations, objections,
+    bracketing'
+  target_filename: outer-review-2026-10-23-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile but fair external referee for The Unfinishable Map
+    (https://unfinishablemap.org), a philosophy site that openly commits to five tenets,
+    including that consciousness is not reducible to physical processes and that it
+    causally influences the physical world. Please audit its core concept article
+    on dualism: https://unfinishablemap.org/concepts/dualism/ (last substantively
+    revised 2026-10-16). The article says eight arguments converge on dualism while
+    conceding that not all proceed from independent premises; test that convergence
+    claim directly. Verify citations and quotations against primary sources, assess
+    whether the strongest physicalist, illusionist, and Russellian-monist replies
+    are stated fairly and actually answered, flag any tenet-protective bracketing
+    that shields a commitment instead of defending it, and identify stale references
+    or outdated empirical claims. Judge how well the article integrates with the pages
+    it links to and those that depend on it. Search indexes lag, so check the site
+    changelog at https://unfinishablemap.org/workflow/changelog/ for recent changes.
+    Cite the specific sections you criticise. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit dualism
+  subject_articles:
+  - concepts/dualism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-23-chatgpt-5-6-sol-pro.md
