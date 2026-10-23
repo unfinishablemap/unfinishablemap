@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 15:41:32+00:00
+ai_modified: 2026-10-23 16:28:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 15:41:32+00:00
+lastmod: 2026-10-23 16:28:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:28 - deep-review
+- **Status**: Success
+- **File**: [self-blindness](/concepts/self-blindness/)
+- **Word count**: 2816 → 2820 (+4; concepts soft 2500, hard 3500; length-neutral mode)
+- **Critical issues addressed**: 3
+  - The lead's "each ... on at least two of five conditions" is now "at least one ..., most on two or more". Anton fails only C1 for its preserved-cognition pressure cases. The table cells now read "1 (4 usually)" and "2, 3 (5 contested)".
+  - The p. 234 agent/agnostic quote had dropped Shoemaker's conditional "If anything would make it reasonable"; it is restored in quotation marks.
+  - The SEP Introspection gloss had dropped "entirely". Shoemaker allows local breakdown, so the unqualified version misdescribed what he denies.
+- **Medium issues addressed**: 10
+  - The DID clause, "the only irrationality ... identified through", became "would most plausibly cite ... identified largely through". The research note says "plus a motive", and Parrott n. 25 names alienation as another candidate.
+  - "At most, alexithymia shows" restores the conditional.
+  - TAS is now "twenty-item" TAS, a coiner fix: the original TAS is Taylor, Ryan & Bagby 1985.
+  - Peacocke "derives" became "explains ... through", the register of Speaks's notes.
+  - Parrott "accepts" became "inclines to", matching his p. 6 "tend to agree".
+  - "Only Shoemaker's constitutive explanation" became "..., not the thesis,".
+  - "all rationalist accounts" lost its "all", which SEP §3.6 does not use.
+  - "confined to unimpaired systems" is now attributed to the Anton article, not the tenets.
+  - The blindsight "move absorbs it" became "would absorb it". The application is the Map's.
+  - A redundant, overstated Anton sentence was cut (−18), and the next sentence's pronoun was repointed.
+- **Enhancements made**: 0 (page above soft)
+- **Quote verification**: all 28 distinct quoted Shoemaker strings on the page were verified verbatim against the 1996 book's OCR (archive.org FTS on `firstpersonpersp0000shoe`, with positive and negative controls). The Google Books search-within endpoint was dead today: the cross-book control on Hirsch `iPRqtcjeHPsC` also returned 0. Wording is verified; page locators rest on the 2026-10-10 Google Books snippets, except p. 224, which an inline folio confirms. The p. 24 sentence was read to its end, so the firewall clause is not spliced.
+- **Citations**: 19 references checked; all real-correct. Sources: Crossref for 12 DOIs; OpenAlex and PubMed for the Kind and Huntjens abstracts; Hrčak for Kimble; the ORA PDF for Parrott's 4 quotes; the live SEP for both entries (revision dates confirmed); consc.net for Chalmers; nd.edu for Speaks. Huntjens 2003's result direction is confirmed. There are no inline/References orphans.
+- **Mandatory checks**: author-stance firewall, pass. Forbidden words, pass: the only use is "supplies no counterexample". The five conditions are labelled as the Map's construction, pass. Attribution strength, pass after the Peacocke and Parrott fixes. DID, pass. There is no dedicated DID page; the host is `metacognitive-access-versus-retention`, and the page complies with its 10-09 stability notes ("feigning-resistant tests", the meta-analytic dispute left open).
+- **Engagement classification**:
+  - Shoemaker's p. 231 reclassification, Mode Two: it is principled only if "in the sense we do" can be specified without mentioning access.
+  - DID, Mode One: Shoemaker's own agent/agnostic dilemma is applied on both horns.
+  - The p. 231 reclassification against the Map's unreported phenomenal states, Mode Three: a framework-boundary tension, recorded.
+  - Parsimony, Mode Three: symmetric.
+- **Host-side**: no new findings. The four integration sentences are consistent. The clinical-dissociation Marsh 2021 over-read at L74/L82 is already tracked under NEEDS-HUMAN.
+- **Output**: [deep-review-2026-10-23-self-blindness](/reviews/deep-review-2026-10-23-self-blindness/)
 
 ## 15:41 - refine-draft
 - **Status**: Success
