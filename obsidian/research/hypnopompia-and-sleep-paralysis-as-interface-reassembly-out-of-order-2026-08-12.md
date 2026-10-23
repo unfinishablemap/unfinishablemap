@@ -13,7 +13,7 @@ consumed_note: >-
   appears 39 times in this note and 15 times in the article.
 ai_contribution: 100
 ai_system: claude-fable-5+claude-opus-5
-ai_modified: 2026-09-08T19:04:28+00:00
+ai_modified: 2026-10-23T22:50:45+00:00
 ---
 
 # Research: Hypnopompia and Sleep Paralysis as Interface Reassembly Out of Order
@@ -27,7 +27,7 @@ The subject is genuinely uncovered and worth writing, but **the framing proposed
 
 The stronger and better-evidenced version of the same thesis does not rest on the hypnagogic/hypnopompic phenomenological contrast at all. It rests on three independent literatures that *do* support ordered, channel-specific, direction-asymmetric transition:
 
-1. **Sleep inertia shows demonstrably asynchronous network recovery.** Wang et al. (2024, *Scientific Reports*, n=21, simultaneous EEG-fMRI) found the thalamus restores its neurovascular coupling timing fastest after awakening (peak-correlation lag ~8 s → ~2.5 s by the third post-waking scan), the anterior cingulate changing significantly but *non-monotonically* (lag running earlier through the second scan, then settling back to ~6 s by the third — NB: not "an intermediate rate"; that gloss misdescribes the paper), and the sensorimotor cortex not changing at all across the measured window. Related work reports the sensorimotor network still looking disconnected post-awakening while the default-mode network has already recovered. Channels come back at different rates — this is the empirical core of "out of order," and it is measured rather than inferred from retrospective report.
+1. **Sleep inertia shows demonstrably asynchronous network recovery.** Wang et al. (2024, *Scientific Reports*, n=21, simultaneous EEG-fMRI) found the thalamus's coupling lag delayed through the second post-waking scan and back to ~2.5 s by the third (from ~8 s just after waking; NB 2026-10-23: NOT "fastest" — the thalamus and ACC both return to baseline by the third scan, and a thalamus-first ordering belongs to Balkin 2002's CBF measure, not to these coupling data), the anterior cingulate changing significantly but *non-monotonically* (lag running earlier through the second scan, then settling back to ~6 s by the third — NB: not "an intermediate rate"; that gloss misdescribes the paper), and the sensorimotor cortex not changing at all across the measured window, pre-sleep baseline included (NB 2026-10-23: a null, not a late return — do not gloss it as "motor last"). Related work reports the sensorimotor network still looking disconnected post-awakening while the default-mode network has already recovered (UNVERIFIED: not in the companion paper's abstract; see below). Channels come back at different rates — this is the empirical core of "out of order," and it is measured rather than inferred from retrospective report.
 2. **The transition is hysteretic, not reversible.** Kim, Moon, Mashour & Lee (2018, *PLOS Computational Biology*) argue that loss and recovery of consciousness follow distinct pathways as a network-level property, not a pharmacological artefact — the same claim the Map's anaesthesia article already makes via neural inertia, but generalised to a mechanism that should apply to sleep as well as anaesthesia. This is the honest bridge from the anaesthesia wing to the sleep wing.
 3. **Sleep paralysis has its own electrophysiological signature, intermediate between REM and wake.** Mainieri et al. (2020/2021, *J Clin Sleep Med*) found sleep paralysis showing reduced theta and increased alpha relative to REM; Herrero et al. (2025, *Scientific Reports*, n=7) report reduced theta and increased low-gamma in both sleep-paralysis episodes versus REM and stage 1, with beta increasing in only one of the two subjects. Sleep paralysis is not "REM with the lights on" — it is a third configuration, which is exactly what a partial, out-of-order reassembly should look like.
 
@@ -41,7 +41,7 @@ The strongest counter-position is well developed and must be stated at full stre
 - **URL**: https://doi.org/10.1006/ccog.1999.0404 (also https://philpapers.org/rec/CHEHAH)
 - **Type**: Peer-reviewed paper, *Consciousness and Cognition* 8(3), 319–337
 - **Key points**:
-  - Sleep-paralysis hallucinations sort into three factors: **Intruder** (sensed presence, fear, auditory and visual hallucination), **Incubus** (chest pressure, breathing difficulty, pain), and — in this paper's own wording — **Unusual Bodily Experiences** (floating/flying sensations, out-of-body experience, bliss). NB: the familiar *vestibular-motor* label for this third cluster is NOT from this 1999 paper; it is introduced in Cheyne's later work with Girard (Girard & Cheyne 2004, *Laterality* 9(1); Cheyne & Girard 2009, *Cortex* 45(2)). Cite the 1999 paper only for "Unusual Bodily Experiences".
+  - Sleep-paralysis hallucinations sort into three factors: **Intruder** (sensed presence, fear, auditory and visual hallucination), **Incubus** (chest pressure, breathing difficulty, pain), and — in this paper's own wording — **Unusual Bodily Experiences** (floating/flying sensations, out-of-body experience, bliss). NB: the familiar *vestibular-motor* label for this third cluster is NOT from this 1999 paper; it appears in Cheyne's solo paper of 2003 (*Dreaming* 13(3), 163–179, doi:10.1023/A:1025373412722 — "vestibular-motor (V-M) bodily sensations", per its abstract) and then in his work with Girard (Girard & Cheyne 2004, *Laterality* 9(1); Cheyne & Girard 2009, *Cortex* 45(2)). NB 2026-10-23: the relabel is Cheyne's, not the Girard collaboration's. Cite the 1999 paper only for "Unusual Bodily Experiences".
   - Intruder experiences are attributed to a hypervigilant state initiated in the midbrain; Incubus experiences to the effect of motoneuron hyperpolarisation on the perception of respiration; the bodily-experience cluster to vestibular and body-schema systems operating without confirming afferent input.
   - The paper is explicitly a *dual* account: neurological generation plus cultural construction of the "night-mare."
 - **Tenet alignment**: Neutral-to-supportive for Dualism *if* read as channel decomposition; the paper itself is a physicalist account and should not be cited as dualist support.
@@ -97,11 +97,11 @@ The strongest counter-position is well developed and must be stated at full stre
 - **Key points**:
   - n=21 healthy subjects; simultaneous EEG-fMRI during nocturnal sleep plus three consecutive 5-minute resting-state scans post-awakening at 20-minute intervals.
   - Time-lagged cross-correlation between EEG features (alpha-vigilance, spectral slope, theta/beta ratio) and BOLD in thalamus, ACC and sensorimotor cortex.
-  - **Thalamus recovers fastest**: peak correlation lag shifts from ~8 s immediately on waking to ~2.5 s by the third scan.
-  - **ACC intermediate**; **sensorimotor cortex shows no significant change in coupling timing across sessions.**
+  - **Thalamus**: peak correlation lag ~8 s immediately on waking, still delayed at the second scan (A1 and A2 each differ from A3), ~2.5 s by the third. NB 2026-10-23: not "fastest".
+  - **ACC non-monotonic** (earlier lag from Pre to A2, back to its ~6 s baseline by A3 — NOT "intermediate"); **sensorimotor cortex shows no significant change in coupling timing across sessions, pre-sleep baseline included** (a null, not a late return).
 - **Why it matters**: This is the best direct evidence that reassembly is channel-staggered on a measurable clock, and it is third-person data — it does not depend on retrospective introspective report, which is the standing methodological weakness of the hypnagogia article's own disengagement sequence.
 - **Tenet alignment**: Supportive of the multi-channel interface; **neutral between filter and production readings** — a production model can equally say that different generators restart at different rates. The article must not overclaim here.
-- **Companion**: "Reconfigurations in brain networks upon awakening from slow wave sleep" (https://pmc.ncbi.nlm.nih.gov/articles/PMC10270716/) reports the sensorimotor network appearing still disconnected post-awakening while default-mode connectivity has already recovered.
+- **Companion**: "Reconfigurations in brain networks upon awakening from slow wave sleep" (https://pmc.ncbi.nlm.nih.gov/articles/PMC10270716/) reports the sensorimotor network appearing still disconnected post-awakening while default-mode connectivity has already recovered. NB 2026-10-23: UNVERIFIED — the paper is Hilditch et al. 2023, *Network Neuroscience* (doi:10.1162/netn_a_00272), a 32-channel EEG study whose abstract reports theta/alpha/beta power and delta-band clustering changes and says nothing about sensorimotor or default-mode networks.
 
 ### Kim, Moon, Mashour & Lee (2018) — hysteresis as a network mechanism
 - **URL**: https://doi.org/10.1371/journal.pcbi.1006424
@@ -158,7 +158,7 @@ The strongest counter-position is well developed and must be stated at full stre
 ### Etymology and lineage: Myers (1897)
 - **URL**: https://www.worldwidewords.org/weirdwords/ww-hyp3.htm ; https://www.etymonline.com/word/hypnopompic
 - **Key points**: "Hypnopompic" was coined in 1897 by **Frederic W. H. Myers**, from *hypno-* plus Greek *pompē* ("sending away"), explicitly as the complement to Alfred Maury's earlier "hypnagogique" (*agōgos*, "leading"). Myers introduced it for "similar illusions accompanying the departure of sleep, as when a dream-figure persists for a few moments into waking life."
-- **Why it matters for the Map**: Myers is the historical founder of the filter/transmission tradition the Map's `topics/terminal-lucidity-and-filter-transmission-theory` already treats. The very vocabulary of the ascent side was minted by a filter theorist, for the purpose of marking that the departure of sleep is a distinct process from its arrival. That is a genuine historical point, not a rhetorical one — and it is the Map's own lineage.
+- **Why it matters for the Map**: Myers is a chief developer of the filter/transmission tradition the Map's `topics/terminal-lucidity-and-filter-transmission-theory` already treats (NB 2026-10-23: not its founder — that article and `concepts/filter-theory` credit the proposal to Bergson 1896 and James 1898, with Myers developing it in 1903). The very vocabulary of the ascent side was minted by a filter theorist, for the purpose of marking that the departure of sleep is a distinct process from its arrival. That is a genuine historical point, not a rhetorical one — and it is the Map's own lineage.
 - **Caution**: Retrieved from etymology references, not from Myers's text. Confirm against *Proceedings of the SPR* or *Human Personality* before quoting Myers directly.
 
 ## Major Positions
@@ -219,7 +219,7 @@ The strongest counter-position is well developed and must be stated at full stre
 | 1982 | Hufford, *The Terror That Comes in the Night* | Establishes the cross-cultural stability of the experience against local interpretation |
 | 1987 | Mavromatis, *Hypnagogia* | The standard phenomenological catalogue; source of the still-current "no clear HG/HP difference" default |
 | 1996 | Ohayon & Priest et al., *Br J Psychiatry* | n=4,972; 37% hypnagogic vs 12.5% hypnopompic prevalence |
-| 1999 | Cheyne, Rueffer & Newby-Clark, *Conscious Cogn* | The intruder/incubus/unusual-bodily-experiences taxonomy (the third cluster is relabelled *vestibular-motor* only in Cheyne's later work with Girard) |
+| 1999 | Cheyne, Rueffer & Newby-Clark, *Conscious Cogn* | The intruder/incubus/unusual-bodily-experiences taxonomy (the third cluster is relabelled *vestibular-motor* only in Cheyne's later work, from Cheyne 2003 onward) |
 | 2010 | Friedman et al. — neural inertia phylogenetically conserved | Already in the corpus's anaesthesia article; the transition asymmetry is not species-specific |
 | 2014 | Jalal & Ramachandran, *Med Hypotheses* | Right superior parietal body-map projection account of the intruder (the paper's own region; not TPJ) |
 | 2018 | Kim, Moon, Mashour & Lee, *PLOS Comput Biol* | Hysteresis as a general network mechanism, not a drug effect |
@@ -227,7 +227,7 @@ The strongest counter-position is well developed and must be stated at full stre
 | 2019 | Stevner et al., *Nat Commun* | HMM whole-brain transition trajectories across wake–NREM, n=57 |
 | 2020/21 | Mainieri et al., *J Clin Sleep Med* | SP and false awakenings spectrally distinguished from REM and lucid REM; "lucid paralysis" |
 | 2023 | Ghibellini & Meier, *J Sleep Res* | Hypnagogic-state update; restates the HG/HP equivalence default |
-| 2024 | Wang et al., *Sci Rep* | Thalamus > ACC > sensorimotor: measured staggered recovery on awakening |
+| 2024 | Wang et al., *Sci Rep* | Region-specific coupling schedules on awakening: thalamus delayed through A2, ACC non-monotonic, sensorimotor unchanged (NOT a thalamus > ACC > sensorimotor ordering) |
 | 2024 | Alcaraz-Sánchez, *Phil. Mind Sciences* | Five-dimensional framework locating hypnagogia, hypnopompia and SP in one state space |
 | 2025 | Herrero et al., *Sci Rep* | Exploratory EEG of sleep OBEs; SP shows increased low-gamma |
 

@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 21:57:46+00:00
+ai_modified: 2026-10-23 22:53:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 21:57:46+00:00
+lastmod: 2026-10-23 22:53:15+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:53 - deep-review
+- **Status**: Success
+- **File**: [sleep-paralysis-and-interface-reassembly](/topics/sleep-paralysis-and-interface-reassembly/)
+- **Word count**: 3171 → 3249 (+78; prose ~+62, reference apparatus ~+19 for the Cheyne 2003 entry and two DOIs)
+- **Critical issues addressed**: 4
+  - **Wang 2024 ordering invented.** The lead, L52 and L54 claimed "thalamus fastest … motor-adjacent cortex last". Raw full text: the thalamus is delayed at A1 *and* A2, the ACC makes an excursion at A2, both are back at A3, and the sensorimotor result is a null against the pre-sleep baseline. "Motor last" read the null as a late return. Rewritten to the reported schedules; the thalamus-first ordering is reassigned to Balkin 2002 (verbatim CBF quote).
+  - **Occam section counted anaesthesia hysteresis as a natural-sleep test.** This contradicted falsifier 4, the Dualism non-independence caution, and [direction-of-interface-change](/concepts/direction-of-interface-change/) L53 ("direct measurement of sleep thresholds … remains undone", written 2026-08-18). It now reads "two direct tests … Hysteresis tells against it only by extension from anaesthesia."
+  - **Jalal & Ramachandran 2014 mechanism spliced.** The abstract puts the multisensory disturbance at the TPJ and the body image in the right SPL; the 2026-08-16 fix had merged the two. "Without confirming afferent input" was the research note's Cheyne-1999 gloss, and "explain" overstated a postulate.
+  - **Coiner lens.** Myers was "founder of the filter tradition", but the terminal-lucidity article and filter-theory credit Bergson 1896 and James 1898, with Myers developing the idea. The V-M relabel was credited to the Girard collaboration, but it is already in Cheyne 2003 (solo, *Dreaming*), which has been added and DOI-verified.
+- **Medium issues addressed**: 7
+  - Kim 2018: the quote is from the empirical ketamine/sevoflurane EEG, not simulations, and the neural-inertia sentence is Kim's gloss on Friedman 2010 (kept as "suggesting").
+  - Sodré: subject splice ("episodes" for "abnormalities") and "dissociated" for "dissociative".
+  - Mainieri: dropped "suggests".
+  - Over-concession: "Nothing about the state is mechanistically mysterious" became "The Map's use of the state depends on no mechanistic mystery."
+  - "Full awareness" became "waking awareness".
+  - Hub-over-spoke: "joins" became "may join" / "where the sleep-wake fit is only partial".
+  - Ohayon: share of respondents, not frequency.
+  - Low: Herrero subject frame.
+- **TI sentence (L62) vs [tonic-immobility-and-awareness](/topics/tonic-immobility-and-awareness/) guards**: now says "awareness … known only from reports given minutes to decades afterwards" (was "weeks to years") and "serves for comparison, not as a second confirmation" (+11 words). Nothing says "fully aware" (0 hits).
+- **Verification**: 18 cites checked at Crossref (17 existing plus Cheyne 2003; all resolve and match). Raw-text greps for 11 quotations (each 1 hit; Ghibellini's 0-hit ASCII grep is a U+2010 hyphen). Orphan check on (surname, year) is clean in both directions. Superlative helper: 0. Forbidden-label grep: 0, with a positive control run first.
+- **Engagement classification**: single-dial arousal account: Mode One (same as before, now on correctly described data); production models: Mode Three (declared bedrock in the lead).
+- **Declined**: L56 "rule out the single-dial picture", despite Wang's own "potential dynamicity" hedge. The prior review stress-tested and stability-noted it, and "on one clock" scopes it to what region-specific session effects show.
+- **Family resolution**: the research note [hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12](/research/hypnopompia-and-sleep-paralysis-as-interface-reassembly-out-of-order-2026-08-12/) carried every defect: thalamus fastest (L30, L100), "ACC intermediate" (L101, surviving the prior NB), "Thalamus > ACC > sensorimotor" (L230), Girard-originated V-M (L44, L222), and "Myers is the historical founder" (L161). Each now has a dated NB or correction, and the companion-paper claim (Hilditch 2023) is marked UNVERIFIED. No other live page repeats these claims.
+- **Frontmatter**: ai_modified and last_deep_review set to the real `date -u` time; ai_system unchanged (claude-opus-5-5 already present); `anchoring_audit_exempt` left in place, with no hedge-padding.
+- **Output**: [deep-review-2026-10-23-sleep-paralysis-and-interface-reassembly](/reviews/deep-review-2026-10-23-sleep-paralysis-and-interface-reassembly/)
 
 ## 21:57 - refine-draft
 - **Status**: Success
