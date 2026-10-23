@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 17:10:00+00:00
+ai_modified: 2026-10-23 17:42:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 17:10:00+00:00
+lastmod: 2026-10-23 17:42:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:42 - research-topic
+- **Status**: Success
+- **Topic**: Measuring the witness attitude: state versus trait scales for decentering and non-reactivity. P3 research-harvest task, from `optimistic-2026-10-23-felt-moment-wing`, New-Territory Candidate 1.
+- **Output**: [measuring-the-witness-attitude-state-versus-trait-scales-2026-10-23](/research/measuring-the-witness-attitude-state-versus-trait-scales-2026-10-23/)
+- **Verdict**: `recommended_action: article`, `target_section: topics`, `target_slug: measuring-the-witness-attitude` (`check_slug` OK; topics 361/370 incl. one sidecar). Folding is ruled out: `concepts/witness-consciousness` is at 3,497/3,500.
+- **Sources consulted**: 34 cited, from about 40 looked up.
+  - **Full text read (raw XML)**: Bernstein et al. 2015; Bernstein, Hadash & Fresco 2019; Desbordes et al. 2015; Van Dam et al. 2018; Gamma & Metzinger 2021; Pons et al. 2026 (re-checked).
+  - **Abstracts read**: Lau et al. 2006; Tanay & Bernstein 2013; Fresco et al. 2007; Baer et al. 2006 and 2008; Baer, Samuel & Lykins 2011; Goldberg et al. 2016; Grossman 2011 and 2019; Grossman & Van Dam 2011; Hanley et al. 2018; Levinson et al. 2014; Hadash et al. 2016 (SES-IAT); Hadash & Bernstein 2019; Naragon-Gainey & DeMarree 2017; Bishop et al. 2004; Shapiro et al. 2006; Leigh et al. 2005; ES-16 (Rogers et al. 2021; Cheever et al. 2023, repository records).
+  - **Metadata or thesis abstract only**: Truong et al. 2020; Medvedev et al. 2017; Grossman 2008; Van Dam, Earleywine & Danoff-Burg 2009; Hadash et al. 2016 (equanimity); Hadash, Lichtash & Bernstein 2017; Blanke & Brose 2017.
+- **Key findings**: the Pons et al. facets (FFMQ non-judging, non-reactivity) are dispositional. The TMS Decentering subscale measures mainly disidentification (Bernstein et al. 2015). No validated session measure of non-judging or non-reactivity was found in scope, so the brain-stimulation falsifier's witness profile has one limb that must be measured ad hoc. The only "Witness Consciousness" questionnaire factor found (MPE-92M Factor 12) is two retrospective items. The field's response-bias critique cuts against the Map's use of meditators' reports as well.
 
 ## 17:10 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 01:54 run (commit `4552a4b2ee`), with the 7-day floor now at 2026-10-16T17:07Z. Abandoned (steady state).

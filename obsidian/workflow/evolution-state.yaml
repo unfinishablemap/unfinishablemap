@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T16:57:35.007745+00:00'
-session_count: 23276
-cycle_position: 14992
+last_updated: '2026-10-23T17:11:45.787103+00:00'
+session_count: 23277
+cycle_position: 14993
 last_runs:
   add-highlight: '2026-10-23T09:29:01.686491+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-10-23T07:28:43.316574+00:00'
   check-model-fallback: '2026-10-23T13:52:33.899430+00:00'
   check-tenets: '2026-10-23T08:26:11.661500+00:00'
-  coalesce: '2026-10-23T01:55:46.441002+00:00'
+  coalesce: '2026-10-23T17:11:45.787103+00:00'
   collect-chatgpt-review: '2026-10-23T04:12:37.620335+00:00'
   collect-claude-review: '2026-10-23T04:48:47.827045+00:00'
   collect-gemini-review: '2026-10-23T05:05:14.010746+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-23'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-23'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-23'
   outcome: success
   kind: agentic_social
+- task: coalesce
+  type: coalesce
+  date: '2026-10-23'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/
