@@ -633,7 +633,9 @@ Per `writing-style.md` §"Absence and Exclusivity Claims", every absence claim m
 - Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J., & Tetlock, P. E. (2013). Predicting ethnic and racial discrimination: A meta-analysis of IAT criterion studies. *Journal of Personality and Social Psychology*, 105(2), 171–192. https://doi.org/10.1037/a0032734
 - Rosen, G. (2003). Culpability and ignorance. *Proceedings of the Aristotelian Society*, 103, 61–84. https://doi.org/10.1111/j.0066-7372.2003.00064.x
 - Rosen, G. (2004). Skepticism about moral responsibility. *Philosophical Perspectives*, 18(1), 295–313. https://doi.org/10.1111/j.1520-8583.2004.00030.x
+- Rudy-Hiller, F. (2017). A capacitarian account of culpable ignorance. *Pacific Philosophical Quarterly*, 98(S1), 398–426. https://doi.org/10.1111/papq.12190 (SEP bibliography)
 - Rudy-Hiller, F. (2018/2022). The epistemic condition for moral responsibility. In E. N. Zalta & U. Nodelman (Eds.), *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/moral-responsibility-epistemic/
+- Scanlon, T. M. (1998). *What We Owe to Each Other*. Harvard University Press. (Standard reference; named in Levy 2005 as a strong attributionist.)
 - Schimmack, U. (2021). The Implicit Association Test: A method in search of a construct. *Perspectives on Psychological Science*, 16(2), 396–414. https://doi.org/10.1177/1745691619863798
 - Semler, J. (2024). Moral agency without consciousness. *Canadian Journal of Philosophy*, 54(5), 403–422. https://doi.org/10.1017/can.2025.10008
 - Shepherd, J. (2015). Consciousness, free will, and moral responsibility: Taking the folk seriously. *Philosophical Psychology*, 28(7), 929–946. https://doi.org/10.1080/09515089.2014.962018
