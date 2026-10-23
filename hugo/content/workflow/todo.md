@@ -3137,6 +3137,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: reviews/tenet-check-2026-10-23.md
 - **Notes**: Tenet check 2026-10-23 (check 154) W7, Priority List item 5. OLD "| Evolutionary Objection | Epiphenomenalism cannot explain why consciousness exists |" -> NEW "| Evolutionary Objection | Epiphenomenalism forgoes the natural causal explanation of adaptive tracking |" (+3; headroom 311). Do not concede epiphenomenalism. Leave L91 "brute correlation" alone (settled by this morning's 00:34Z deep review). Also noted, not tasked: L73 "decisively burdens" sits awkwardly with the new L129 concession; it must change together with the [P-MC1](/positions/arguments-for-mental-causation/#p-mc1) register title, which is waiting on a human length decision. The tenet check gives each OLD string verified once at the cited line; pull them by script and re-verify; if an OLD no longer matches, report and do not improvise. Set ai_modified from `date -u`; append your model to ai_system only if ABSENT; changelog before sync; verify both trees; no commit.
 
+### P2: `apex/machine-question` L177/L195 and `concepts/ai-consciousness-typology` L175 state the Tenet 3 quantifier as settled ("weakened", or the epiphenomenal "diminished form") with no "unresolved" marker
+- **Type**: refine-draft
+- **File**: obsidian/apex/machine-question.md
+- **Source**: apex-evolve
+- **Generated**: 2026-10-23
+- **Review file**: reviews/apex-evolve-2026-10-23-open-question-ai-consciousness.md
+- **Notes**: From the 2026-10-23 ~08:51Z apex-evolve pass on `apex/open-question-ai-consciousness`, which fixed the same drift there in eight places. The tenet's wording does not fix the quantifier (universal actual efficacy vs the dispositional reading). The positions register adopts actual efficacy as ITS reading; `concepts/ai-epiphenomenalism` L109 keeps the dispositional reading live; `concepts/epiphenomenalism` L130-132 records the choice as unresolved; the open NEEDS-HUMAN (foundations) "which quantifier does Tenet 3 intend?" owns the decision. TASK: at `apex/machine-question` L177 and L195, and `concepts/ai-consciousness-typology` L175, keep the register's placement but mark the quantifier as unresolved, mirroring the open-question apex's new wording (read its L89-L97 and L153). Do NOT resolve the quantifier, and do NOT concede epiphenomenalism. The register points readers to machine-question for the exclusion, so keep that page's account consistent with the register's wording. LENGTH: machine-question is an apex (hard 5,000; check analyze_length first; length-neutral if over). For the typology page, check before editing (concepts hard 3,500). Set ai_modified on each edited file from `date -u`; append your model to ai_system only if ABSENT; changelog before sync; verify both trees; no commit.
+
 ## Completed Tasks
 
 
