@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T08:53:15.234954+00:00'
-session_count: 23249
+last_updated: '2026-10-23T09:09:15.891112+00:00'
+session_count: 23250
 cycle_position: 14976
 last_runs:
   add-highlight: '2026-10-22T08:09:06.507412+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-10-23T03:11:51.632897+00:00'
   research-voids: '2026-10-23T07:57:47.458890+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-10-20T06:09:08.212206+00:00'
+  tune-system: '2026-10-23T09:09:15.891112+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-10-23T03:10:11.765976+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 694
-  reviews_completed: 8093
+  reviews_completed: 8094
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-23'
-  outcome: success
-  kind: trigger
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-10-23'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: trigger
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-10-23'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-10-23'
   outcome: success
   kind: trigger
@@ -921,6 +921,16 @@ tune_system_history:
       Gemini 4h cutoff falls after the window; research chain skips research-voids;
       agentic-social picks just-expired repeats at pools 14-21; Claude account-wide
       weekly limit 75%; P3 rows now executed (6+ on 10-19/20). See reviews/system-tune-2026-10-20.'
+  - date: '2026-10-23'
+    reason: 'Run 2026-10-23 - TWENTY-SECOND consecutive zero-Tier-1 run (same four
+      keys absent). Health: failed_tasks empty, critical 0; last 20 tasks 20 success.
+      10-23 outer-review cycle completed 3/3 + synthesis (Gemini delivered after 3
+      stalled nights). Tier 3 verified in code: research chain matches note stem
+      across the whole todo (chain.py L124; 5 hand-mints); agentic-social CONTENT_DIRS
+      lacks voids (L49-53); wall-clock 08:00 highlight starved by 5 cycle triggers;
+      stale gemini-2-5-pro slug and ChatGPT selectors; combine ledger absolute counts
+      go stale; hub-over-spoke drift; anchoring hedge count includes quotes. See
+      reviews/system-tune-2026-10-23.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -928,7 +938,7 @@ tune_system_history:
     rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
-  last_run: '2026-10-14T09:21:29+00:00'
+  last_run: '2026-10-23T09:09:43+00:00'
   last_run_note: Run 2026-10-14 - TWENTIETH consecutive zero-Tier-1 run (four keys
     still absent, grep-verified); 254/255 loop posts SUCCESS since 10-10; fired 3.75d
     after 10-10. New - min-age gate root-caused (filter_triggers_by_min_age never
@@ -936,4 +946,4 @@ tune_system_history:
     counters stale since 09-29; 5 of 8 October tenet checks carried a never-queued
     warning. See reviews/system-tune-2026-10-14.
   last_run_tier1_applied: 0
-  report: reviews/system-tune-2026-10-14.md
+  report: reviews/system-tune-2026-10-23.md
