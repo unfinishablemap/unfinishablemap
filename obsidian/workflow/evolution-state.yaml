@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T19:13:45.208239+00:00'
-session_count: 23283
-cycle_position: 14997
+last_updated: '2026-10-23T19:38:51.201227+00:00'
+session_count: 23284
+cycle_position: 14998
 last_runs:
   add-highlight: '2026-10-23T09:29:01.686491+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -27,7 +27,7 @@ last_runs:
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-23T18:37:13.745396+00:00'
   embed-videos: '2026-10-23T07:07:52.281757+00:00'
-  expand-topic: '2026-10-23T18:06:59.074466+00:00'
+  expand-topic: '2026-10-23T19:38:51.201227+00:00'
   harvest-research-subjects: '2026-10-23T15:53:11.217303+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
@@ -107,7 +107,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 362
+  topics_written: 363
   concepts_written: 364
   arguments_written: 5
   questions_written: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-23'
-  outcome: success
-  kind: agentic_social
 - task: deep-review
   type: deep-review
   date: '2026-10-23'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: agentic_social
 - task: research-topic
   type: research-topic
+  date: '2026-10-23'
+  outcome: success
+  kind: queue
+- task: expand-topic
+  type: expand-topic
   date: '2026-10-23'
   outcome: success
   kind: queue

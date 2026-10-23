@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T19:36:41+00:00
+ai_modified: 2026-10-23T20:23:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:23 - research-topic
+- **Status**: Success
+- **Topic**: Emotion regulation and the timing of control. P3 research-harvest task, from `optimistic-2026-10-22-location-wing`, New-Territory Candidate 2.
+- **Output**: [[research/emotion-regulation-and-the-timing-of-control-2026-10-23]]
+- **Verdict**: `recommended_action: article`, `target_section: topics`, `target_slug: emotion-regulation-and-the-timing-of-control` (`check_slug` OK; topics 363/370 incl. one sidecar).
+  - Fold into `self-control-as-skill-and-scaffolding` rejected: 2,998/3,500 (headroom 501), and the material needs about 2,300–2,700 words.
+  - Fold into `emotion-and-dualism` (headroom 649) and `alief-and-acting-against-belief` (682) rejected on focus.
+  - Decline rejected: 0 live hits for "expressive suppression", "antecedent-focused", "Sheppes", "Gross & John", "Ochsner" and "implicit emotion regulation", against positive controls "self-control" 21 and "amygdala" 32.
+- **Sources consulted**: 64 cited, 66 DOIs resolved at Crossref.
+  - **Full text read (raw)**: Gross & John 2003; Goldin et al. 2008; Gross & Barrett 2011; Gyurak, Gross & Etkin 2011; Braunstein, Gross & Ochsner 2017; Williams et al. 2009; Duckworth, Gendler & Gross 2016; Webb, Schweiger Gallo et al. 2012; Schwartz, Stapp & Beauregard 2005; Seneca, *De Ira* II (Stewart 1900, plus the Latin).
+  - **Abstracts read**: about 45, including Gross 1998 (*RGP*, *JPSP*), Webb, Miles & Sheeran 2012, Sheppes & Gross 2011, Sheppes & Meiran 2007/2008, Paul et al. 2013, Thiruchselvam et al. 2011, Buhle et al. 2014, Gross 2015, Koole & Rothermund 2011 and Chen et al. 2025.
+  - 5 WebSearch calls, all leads only.
+- **Key findings**:
+  - The process model's authors narrowed "earlier is easier" into a process-specific timing hypothesis (Sheppes & Gross 2011).
+  - Pooled effectiveness does not follow stage order: attentional deployment d+ = 0.00, response modulation 0.16, cognitive change 0.36 (Webb et al. 2012).
+  - Expressive suppression can act as early as distraction when used preventively (Paul et al. 2013), so a family label does not fix the time of action.
+  - Implicit regulation needs no conscious contribution at any stage.
+  - Schwartz, Stapp & Beauregard 2005, cited on about 15 Map pages, use Ochsner et al.'s 2002 reappraisal experiment as their quantum-Zeno worked example. "Ochsner" has 0 live hits.
+- **Binding guards**: fit, not evidence (Tenet 3); implicit regulation stated plainly; no epiphenomenalist concession; Tenet 2 as empirical-constraint minimality, not fewness; Stapp's reading is a posit; no ego-depletion or goal-priming reliance; no revival of the vetoed content-specificity task.
+- **Verification**: 147 hand-listed spans plus 275 unique spans from an extraction pass, all grep-matched in raw text. Two slips caught and fixed.
+- **Side-findings**:
+  - `mental-effort` L106: "Effortful cognitive reappraisal" is unqualified.
+  - `emotion-and-dualism` L212: Lieberman 2007 is an orphaned reference.
+  - `emotion-and-dualism` L107: the Damasio "causally idle" claim needs a fidelity check.
+  - Chain false-skip: the note's stem is in the harvest task's Notes, so the expand task must be minted by hand.
 
 ## 19:36 - expand-topic
 - **Status**: Success
