@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T15:27:00+00:00
+ai_modified: 2026-10-23T15:41:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:41 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/haecceity]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted application of the review's four Priority Fixes)
+- **Review file**: [[reviews/pessimistic-2026-10-23-haecceity]]
+- **Changes**:
+  - Fix 1, the MWI cluster (net −22). L83: "Yet you find yourself in exactly one. This presupposes" became "Nothing in the formalism says which one is you. The objection presupposes". The pronoun went from "This" to "The objection" because the formalism's silence presupposes nothing by itself; treating it as an objection does. L85: three sentences on self-locating uncertainty, which duplicated L107 and copied many-worlds L65 without its qualification, were replaced by "The self-locating and branch-relative replies are answered there" ("there" is the dedicated MWI critique linked in the previous sentence). L107: "this presupposes a haecceitistic fact... self-locating uncertainty is ill-defined" contradicted L89's concession that Lewis's analysis is non-haecceitist. It now grants that Lewis-style self-ascription locates each post-branching observer without haecceities, and places the Map's objections in the cross-branch self the decision-theoretic derivation needs (linked to `many-worlds#MWI's Branch-Relative Indexicality Reply`) and in the circularity charge against self-locating credence (linked to `indexical-knowledge-and-identity`, Dawid and Friederich, L148). L109: "grounded in haecceity—untouched" became "unresolved by the Map's primitive-subject standard", matching L79.
+  - Fix 2, the contemplative and Buddhist cluster (net −12). L143: "Contemplative evidence supports this... don't report losing particularity (Siderits 2007, ch. 3-6)" became "Contemplative reports are at most consistent with this: ...still describe *this* moment, though some report losing the sense of ownership", with that last clause piped at zero cost to `contemplative-pathology-and-interface-malfunction`, where L39 gives Lindahl et al. 2017 at 18%. The next sentence ("They continue to experience *this* moment while recognising no permanent self underlies the experience", 14 words) was also deleted, which goes beyond the brief. It restated the new "still describe *this* moment" as a first-person experience claim, and its "They" now followed "some report losing", so it no longer resolved cleanly. The Siderits reference was removed because L143 was its only in-text use; the auto-numbered list needs no renumbering. L177: "though current evidence suggests it survives" became "on which no observation has yet come in", the calibration in eastern-philosophy-consciousness L183, item (5); "remain unmet" became "remain open". L193: the anattā sentence, which contradicted tenets.md L121 and the page's L173, became "Madhyamaka instead calls the indexical question ill-formed, a bedrock disagreement (see above)". "above" links to `#objections-specific-to-process-haecceitism`; the anchor was checked in the built HTML.
+  - Fix 3, parsimony (net −2). L153: the zombie clause was dropped and the premise marked "On the Map's reading, which is not framework-neutral, they don't" ("they" is the qualitative properties in L151's question). L193: "parsimony shouldn't override the evidence" became "as the Map holds, parsimony cannot settle the matter either way", the symmetric discipline of tenets.md L145.
+  - Fix 4, zero-cost wording (net +1). L133 "actualizes one possibility" became "puts one question" (stapp-quantum-mind L106). L91 "how do I know that" became "what makes it true that". Further Reading: "persists through" became "fares through", "doom" became "press against", and "How haecceity grounds" became "Whether haecceity grounds".
+- **Engagement classification**: Everettian branch-relative and self-locating replies, Mode Two and Mode Three mixed. The decision-theoretic cross-branch self and the circularity charge are in-framework pressure, and the felt-singularity residue is left to the spoke's boundary framing. Madhyamaka, Mode Three; the bedrock disagreement is now stated in the Relation section too. Parsimony objector, Mode Three; the premise is marked as the Map's own and not framework-neutral.
+- **Not resolved**: the Tenet 4 operator decision (NEEDS-HUMAN foundations, 2026-08-03) is untouched; No Many Worlds stays a commitment rather than evidence. The sibling spillover at topics/vertiginous-question L183 and topics/eastern-philosophy-consciousness L161 is a separate P3 task.
+- **Length** (`analyze_length`): 3487 → 3465 (fix 1) → 3453 (fix 2) → 3451 (fix 3) → 3452 (fix 4). Concepts hard limit is 3500, leaving 47 words of headroom.
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 15:27 - refine-draft
 - **Status**: Success
