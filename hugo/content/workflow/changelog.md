@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 13:14:28+00:00
+ai_modified: 2026-10-23 13:50:26+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 13:14:28+00:00
+lastmod: 2026-10-23 13:50:26+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:50 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-epistemic-condition-on-responsibility](/topics/consciousness-and-the-epistemic-condition-on-responsibility/)
+- **Word count**: 3,198 → 3,227 (+29; topics soft 3,000, hard 4,000). Smith correction +28; offsets: L60 duplicate cut −10, p. 38 splice −5, forward reference −4.
+- **Critical issues addressed**: 4.
+  - (1) The Smith 2012 gloss spliced n. 11's "compatible" (which refers to Haidt's findings) and dropped her "(yet?)" hedge. The text now quotes her n. 10 verdict, "an answerability demand directed toward her racist reactions still makes perfect sense", plus the n. 11 hedge. Both were verified in the raw mit.edu PDF.
+  - (2) The p. 38 quote implied a subject ("Levy's account") that the snippet lacks. It now reads "Levy holds that 'the hard problem is not our problem'".
+  - (3) The *Noûs* abstract is now framed as the seminar abstract.
+  - (4) "the leading defence" became "a leading defence".
+- **Medium issues addressed**: 6.
+  - Semler "argues against any" became "casts doubt on a".
+  - Levy "introduced the label" became "applies it to".
+  - First cost: "none of the standard cases" / "largely co-occur".
+  - Blindsight is marked "On the Map's reading" and "typically surfaces".
+  - The tension section was updated to the gradient's 12:07Z text ("as the gradient itself states"; "neither page reconciles them").
+  - "authors surveyed" became "texts surveyed".
+- **Citation ledger**: 21 refs. 20 are real-correct (17 DOIs matched Crossref; abstract quotes verified via OpenAlex; Levy 2005 and Smith 2012 grepped in their primary PDFs; the SEP grepped raw). Madva 2019 was real-wrong-metadata: "venue unconfirmed" became *JCS* 26(5–6) 117–140 (Ingenta path plus PhilArchive listing). Google Books was throttled, so Levy page quotes rest on the research note's snippets.
+- **Engagement classification**: Levy, Mode Three (the phenomenal reading is declared an extension with costs). King & Carruthers and Semler, Mode Three (named rivals, not refuted). No boundary-substitution and no label leakage.
+- **Enhancements made**: 4 zero-cost piped links (phenomenal-consciousness, access-consciousness, philosophical-zombies, reactive-attitudes).
+- **Host-side (for the P3 cross-review)**: `concepts/blindsight` L129 says Block treats blindsight as partial access without phenomenality. As recalled, Block 1995 treats actual blindsight as lacking A-consciousness too ("superblindsight" is his hypothetical). LEAD only; verify before editing.
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Output**: [deep-review-2026-10-23-consciousness-and-the-epistemic-condition-on-responsibility](/reviews/deep-review-2026-10-23-consciousness-and-the-epistemic-condition-on-responsibility/)
 
 ## 13:14 - refine-draft
 - **Status**: Success

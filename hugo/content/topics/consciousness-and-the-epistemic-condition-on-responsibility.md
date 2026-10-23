@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-23 12:07:34+00:00
+ai_modified: 2026-10-23 13:48:48+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,8 @@ description: Levy's thesis that blame requires consciousness of morally signific
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-23 12:07:34+00:00
+last_deep_review: 2026-10-23 13:48:48+00:00
+lastmod: 2026-10-23 13:48:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,9 +36,9 @@ topics:
 - '[[free-will]]'
 ---
 
-The **epistemic condition** on moral responsibility asks what an agent must be aware of to be praiseworthy or blameworthy. Neil Levy's *Consciousness and Moral Responsibility* (2014) is the leading defence of a consciousness requirement: "consciousness of at least some of the facts that give our actions or omissions their moral significance is a necessary condition of moral responsibility" (p. vii). The consciousness he means is "an informational state, not phenomenal consciousness" (ch. 2 abstract): information *personally available* to the agent, on a global-workspace account. Levy sets the hard problem aside and says zombies "lack nothing in the way of awareness" (p. 38).
+The **epistemic condition** on moral responsibility asks what an agent must be aware of to be praiseworthy or blameworthy. Neil Levy's *Consciousness and Moral Responsibility* (2014) is a leading defence of a consciousness requirement: "consciousness of at least some of the facts that give our actions or omissions their moral significance is a necessary condition of moral responsibility" (p. vii). The consciousness he means is "an informational state, not phenomenal consciousness" (ch. 2 abstract): information *personally available* to the agent, on a global-workspace account. Levy sets the hard problem aside and says zombies "lack nothing in the way of awareness" (p. 38).
 
-Levy's thesis therefore gives The Unfinishable Map's claim that "Moral responsibility requires consciousness" its wording without its dualist reading. The epistemic-condition debate is metaphysically neutral, and its rivals remain live: quality-of-will theorists such as Angela Smith and Nomy Arpaly, George Sher's capacitarian account, and outright rejections of any consciousness requirement. A phenomenal requirement exists in print as a claim about capacities: Alex Madva (2019) argues that the capacity for phenomenal consciousness is necessary for moral responsibility. Anything stronger, such as requiring the morally significant facts to be phenomenally present when one acts, is the Map's own extension, with costs set out under [the access-or-phenomenal question](#access-or-phenomenal) (explained in the section of that name).
+Levy's thesis therefore gives The Unfinishable Map's claim that "Moral responsibility requires consciousness" its wording without its dualist reading. The epistemic-condition debate is metaphysically neutral, and its rivals remain live: quality-of-will theorists such as Angela Smith and Nomy Arpaly, George Sher's capacitarian account, and outright rejections of any consciousness requirement. A phenomenal requirement exists in print as a claim about capacities: Alex Madva (2019) argues that the capacity for [phenomenal consciousness](/concepts/phenomenal-consciousness/) is necessary for moral responsibility. Anything stronger, such as requiring the morally significant facts to be phenomenally present when one acts, is the Map's own extension, with costs set out under [the access-or-phenomenal question](#access-or-phenomenal) (explained below).
 
 The survey also exposes a tension inside the Map. Its [moral responsibility](/concepts/moral-responsibility/) concept asserts a consciousness requirement, while its [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/) refuses to excuse lapses of intact capacity, which is the capacitarian verdict Levy rejects. [Where the Map's responsibility pages sit](#map-pages) names the tension and offers a reconciliation labelled as the Map's.
 
@@ -57,11 +58,11 @@ Levy's first chapter names Arpaly, Sher and Smith as holding that we need not be
 
 The consciousness Levy requires is functional. Information counts when it "is personally available; that is, available to the person (rather than merely to some of the consuming systems of the mind)" (p. 33). The test is availability for "easy and effortless recall", where "no special prompting (like asking a leading question) is required" (p. 34). He grounds the notion in a broadcasting version of [global workspace theory](/concepts/global-workspace-theory/).
 
-The state is akin to what Ned Block calls access consciousness, but Levy writes "I prefer to avoid Block's terminology" (p. 29).
+The state is akin to what Ned Block calls [access consciousness](/concepts/access-consciousness/), but Levy writes "I prefer to avoid Block's terminology" (p. 29).
 
 Asked whether occurrent or dispositional availability will do, Levy answers that "both are required for awareness, in my sense" (p. 30), although the *Stanford* entry classes his 2014 view as dispositionalist. The accurate summary is personal availability together with an active role in shaping the behaviour.
 
-Two remarks fix the thesis's metaphysical standing. Levy's account, he writes, "makes it easy to see why the hard problem is not our problem", and zombies are "phenomenally unconscious, but they lack nothing in the way of awareness" (p. 38). A functional duplicate lacking phenomenal consciousness therefore satisfies Levy's condition. His notion is informational, and he sets the hard problem aside.
+Two remarks fix the thesis's metaphysical standing. Levy holds that "the hard problem is not our problem", and that [zombies](/concepts/philosophical-zombies/) are "phenomenally unconscious, but they lack nothing in the way of awareness" (p. 38). A functional duplicate lacking phenomenal consciousness therefore satisfies Levy's condition.
 
 ### Two arguments
 
@@ -75,7 +76,7 @@ Levy also sets the timing literature aside: "it does not matter whether or not L
 
 ### Quality of will and attributionism
 
-What Levy (2005) calls attributionism holds that responsibility tracks what an act or attitude expresses about the agent. He introduced the label for Timothy Scanlon and Angela Smith, "both of whom argue that responsibility-as-attributability is all the responsibility there is". Smith's own name for her view, defended in 2005 and restated in 2012, is "the rational relations view": "an agent is responsible for F just in case F bears a rational connection to the agent's evaluative judgments" (2012). On it we answer for "our patterns of awareness and many unintentional omissions" (2012).
+What Levy (2005) calls attributionism holds that responsibility tracks what an act or attitude expresses about the agent. He applies it to Timothy Scanlon and Angela Smith, "both of whom argue that responsibility-as-attributability is all the responsibility there is". Smith's own name for her view, defended in 2005 and restated in 2012, is "the rational relations view": "an agent is responsible for F just in case F bears a rational connection to the agent's evaluative judgments" (2012). On it we answer for "our patterns of awareness and many unintentional omissions" (2012).
 
 Arpaly's Huckleberry Finn (2003) is the signature case. Huck helps Jim escape while believing he is doing wrong, and Arpaly counts him praiseworthy because the act expresses his regard for Jim. Huck "is not capable of bringing to consciousness his nonconscious awareness" of Jim's humanity (Arpaly 2003: 77, as quoted in Rudy-Hiller 2022, §3.3). Most quality-of-will theorists still require awareness of the relevant facts. Smith is the outlier: failures of factual awareness, "such as forgetting a friend's birthday, sometimes reveal inadequate moral concern and thus are blameworthy" (Rudy-Hiller 2022, §3.3).
 
@@ -97,15 +98,15 @@ Implicit bias is where the camps meet. The case to hold fixed is conceptual: an 
 
 Both assumptions are shaky. Participants in Hahn and colleagues' studies (2014) "were surprisingly accurate in their predictions" of their own implicit-test results, which "cast doubt on the belief that attitudes or evaluations measured by the IAT necessarily reflect unconscious attitudes". The measurement record is contested: Oswald and colleagues (2013) found that "IATs were poor predictors of every criterion category other than brain activity", while Kurdi and colleagues (2019) reported stronger relations under favourable designs and judged "most studies were vastly underpowered". The Map's [alief article](/topics/alief-and-acting-against-belief/#empirical-record) sets out the record.
 
-Levy's verdict is that "implicit attitudes are too weak a peg to hang moral responsibility on" (p. 96): having "thin, and morally empty, content", they cannot express the real self (p. 102). The abstract of his *Noûs* paper (2014b), as given on its Oxford seminar page, concedes that "We appear regularly to be aware of the content of our implicit attitudes", and argues that such awareness "is not sufficient for moral responsibility for actions caused by them". The unawareness that matters concerns an attitude's influence on a given act rather than the attitude's existence.
+Levy's verdict is that "implicit attitudes are too weak a peg to hang moral responsibility on" (p. 96): having "thin, and morally empty, content", they cannot express the real self (p. 102). An Oxford seminar abstract under the title of his *Noûs* paper (2014b) concedes that "We appear regularly to be aware of the content of our implicit attitudes", and argues that such awareness "is not sufficient for moral responsibility for actions caused by them". The unawareness that matters concerns an attitude's influence on a given act rather than the attitude's existence.
 
-The opponents disagree among themselves. Holroyd (2012) argues there is "some reason to suppose that individuals are, at least sometimes, liable to blame for the extent to which they are influenced in behaviour and judgment by implicit biases". Washington and Kelly (2016) hold that "people can be responsible for actions that are influenced by implicit biases they do not know they have, and would disavow if they did", because the relevant knowledge "need not be 'in the head' of the agent". Smith reads "subconscious racist reactions co-existing alongside consciously endorsed egalitarian views" as compatible with her view (2012, n. 11).
+The opponents disagree among themselves. Holroyd (2012) argues there is "some reason to suppose that individuals are, at least sometimes, liable to blame for the extent to which they are influenced in behaviour and judgment by implicit biases". Washington and Kelly (2016) hold that "people can be responsible for actions that are influenced by implicit biases they do not know they have, and would disavow if they did", because the relevant knowledge "need not be 'in the head' of the agent". For an agent who consciously holds egalitarian views yet takes someone's race as a reason not to trust or hire that person, Smith holds that "an answerability demand directed toward her racist reactions still makes perfect sense" (2012, n. 10), while granting that experimental evidence cannot yet settle whether such reactions embody evaluative judgments (n. 11).
 
 ## Access or Phenomenal? {#access-or-phenomenal}
 
 Here alone a dualist framework has something at stake.
 
-Madva (2019) reads Levy as holding that only access consciousness is relevant, and argues that "numerous ethical, epistemic, and neuroscientific considerations entail that the capacity for phenomenal consciousness is necessary for moral responsibility". His route runs through P. F. Strawson, "who puts a range of qualitative moral emotions—the reactive attitudes—front and center". The thesis concerns the capacity of a responsible agent. It does not require the morally significant facts to be phenomenally present when the agent acts, and the abstract states no metaphysics.
+Madva (2019) reads Levy as holding that only access consciousness is relevant, and argues that "numerous ethical, epistemic, and neuroscientific considerations entail that the capacity for phenomenal consciousness is necessary for moral responsibility". His route runs through [P. F. Strawson](/topics/reactive-attitudes-and-strawsonian-responsibility/), "who puts a range of qualitative moral emotions—the reactive attitudes—front and center". The thesis concerns the capacity of a responsible agent. It does not require the morally significant facts to be phenomenally present when the agent acts, and the abstract states no metaphysics.
 
 Semler is the rival on the other side. Shepherd and Levy (2020) report that debate "has thus far failed to settle just what about consciousness is so intuitively important for moral status, moral responsibility, and moral knowledge".
 
@@ -113,11 +114,11 @@ Semler is the rival on the other side. Shepherd and Levy (2020) report that deba
 
 The Map's extension goes beyond Madva: it reads the epistemic condition itself phenomenally, requiring the morally significant facts to be phenomenally present or phenomenally available. Three costs come with it.
 
-First, it separates no ordinary case. In ordinary agents personal availability and phenomenal presence co-occur, so every standard excuse (the forgotten dog, the unnoticed bias, Strawson's "He hadn't realized") receives the same verdict on either reading.
+First, it separates none of the standard cases. In ordinary agents personal availability and phenomenal presence largely co-occur, so the standard excuses (the forgotten dog, the unnoticed bias, Strawson's "He hadn't realized") receive the same verdict on either reading.
 
 Second, it must give a verdict on a functional duplicate lacking phenomenality, which Levy says satisfies the condition. The extension denies the duplicate responsible standing, a verdict with force only inside a framework on which such a duplicate is possible and lacks something that matters.
 
-Third, the dissociations that might supply a separating case are contested. [Blindsight](/concepts/blindsight/) is often cited as access without phenomenality, but forced-choice guessing is the kind of special prompting Levy's test excludes, so blindsight information arguably fails personal availability too.
+Third, the dissociations that might supply a separating case are contested. [Blindsight](/concepts/blindsight/) is often offered as access without phenomenality, but its information typically surfaces under forced-choice guessing, the kind of special prompting Levy's test excludes. On the Map's reading, blindsight information arguably fails personal availability too.
 
 One limit remains. A necessary condition need not be a cause: an epiphenomenalist could grant that only phenomenally conscious beings are responsible while denying phenomenality any causal role. A phenomenal requirement on responsibility therefore does not refute [epiphenomenalism](/concepts/epiphenomenalism/), which the Map rejects on other grounds.
 
@@ -127,19 +128,19 @@ Before this article, no Map page the 2026-10-23 search found discussed Levy's co
 
 The [moral responsibility](/concepts/moral-responsibility/) concept asserts: "Moral responsibility requires consciousness." Its self-knowledge clause adds: "Responsible agents know what they're doing. Consciousness provides this—you experience your intentions and recognize the meaning of your actions." Levy supports the first sentence only in his informational sense. The second reads the knowledge condition phenomenally, which is the Map's extension and carries its costs. The same page says consciousness "is necessary for that standing without conferring it", a claim about standing close to Madva's capacity thesis.
 
-The [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/) grades desert by attentional capacity. Its bandwidth dimension holds that "You cannot be fully responsible for consequences you lacked the bandwidth to foresee", and its scope dimension that neglected consequences "were never phenomenally available for selection". "Phenomenally available" is the Map's term; Levy's is "personally available". The stability dimension adds that an agent with intact self-control who lets recognition lapse "is not thereby excused". That verdict is capacitarian, Sher's rather than Levy's, since Levy's revisionism excuses the "ordinary agents who just happen not to be conscious" of the relevant facts.
+The [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/) grades desert by attentional capacity. Its bandwidth dimension holds that "You cannot be fully responsible for consequences you lacked the bandwidth to foresee", and its scope dimension that neglected consequences "were never phenomenally available for selection". "Phenomenally available" is the Map's term; Levy's is "personally available". The stability dimension adds that an agent with intact self-control who lets recognition lapse "is not thereby excused". That verdict is capacitarian, Sher's rather than Levy's, as the gradient itself states; Levy's revisionism excuses the "ordinary agents who just happen not to be conscious" of the relevant facts.
 
-The Map thus asserts a consciousness requirement and a capacitarian verdict on lapses without reconciling them. The reconciliation the Map proposes, as its own synthesis, splits the work. The consciousness condition governs the agent's *standing*: only a being with the capacity for phenomenal consciousness is a candidate for responsibility, roughly Madva's thesis. The epistemic condition on particular acts is disjunctive in Sher's way: the agent was aware, or could and should have been. The gradient's tracing case already has this shape, since its exhausted driver "knew they were impaired" when choosing to drive.
+The Map thus asserts a consciousness requirement and a capacitarian verdict on lapses, and neither page reconciles them. The reconciliation the Map proposes, as its own synthesis, splits the work. The consciousness condition governs the agent's *standing*: only a being with the capacity for phenomenal consciousness is a candidate for responsibility, roughly Madva's thesis. The epistemic condition on particular acts is disjunctive in Sher's way: the agent was aware, or could and should have been. The gradient's tracing case already has this shape, since its exhausted driver "knew they were impaired" when choosing to drive.
 
 The synthesis has costs. It forgoes Levy's support for any act-level consciousness requirement, so the self-knowledge clause must be read as the Map's phenomenal extension or as a claim about standing. It inherits Levy's objections to capacitarianism. And it leaves open whether "could have been aware" is a fact about consciousness or about functional cognitive capacity.
 
-The [AI responsibility-gap article](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) traces culpability to humans who met "the ordinary conditions on blame (knowledge, control, the capacity to have done otherwise)", and grounds the machine's exclusion in a conscious coupling interface. The epistemic condition does not support that exclusion. If personal availability and global broadcast satisfy the condition, a workspace-like system might satisfy it too, and Semler (2024) argues against any phenomenal requirement on moral agency with artificial agents in view. The culpability gap stands or falls with the interface posit.
+The [AI responsibility-gap article](/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/) traces culpability to humans who met "the ordinary conditions on blame (knowledge, control, the capacity to have done otherwise)", and grounds the machine's exclusion in a conscious coupling interface. The epistemic condition does not support that exclusion. If personal availability and global broadcast satisfy the condition, a workspace-like system might satisfy it too, and Semler (2024) casts doubt on a phenomenal requirement on moral agency, with artificial agents in view. The culpability gap stands or falls with the interface posit.
 
 Likewise, the [reasons-responsiveness](/concepts/reasons-responsiveness/) concept says that seeing reasons as reasons "appears to require" phenomenal consciousness. On Levy's account, awareness of reasons needs only an informational state, so the phenomenal reading is the Map's.
 
 ## Relation to Site Perspective
 
-None of the authors surveyed argues for dualism, and Levy's thesis supports neither dualism nor physicalism.
+None of the texts surveyed argues for dualism, and Levy's thesis supports neither dualism nor physicalism.
 
 **[Dualism](/tenets/#dualism)**: the epistemic-condition debate is metaphysically neutral; a physicalist or a dualist can hold every position surveyed. Dualism enters only at the phenomenal extension, and there only relative to the Map's framework, since the extension's verdict on a phenomenally empty duplicate presupposes that such a duplicate is possible.
 
@@ -169,7 +170,7 @@ None of the authors surveyed argues for dualism, and Levy's thesis supports neit
 7. Levy, N. (2005). The good, the bad, and the blameworthy. *Journal of Ethics and Social Philosophy*, 1(2), 1–16. https://doi.org/10.26556/jesp.v1i2.6
 8. Levy, N. (2014a). *Consciousness and Moral Responsibility*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198704638.001.0001
 9. Levy, N. (2014b). Consciousness, implicit attitudes and moral responsibility. *Noûs*, 48(1), 21–40 (online 2012). https://doi.org/10.1111/j.1468-0068.2011.00853.x
-10. Madva, A. (2019). Equal rights for zombies?: Phenomenal consciousness and responsible agency. PhilArchive record MADERF (journal venue unconfirmed). https://philarchive.org/rec/MADERF
+10. Madva, A. (2019). Equal rights for zombies?: Phenomenal consciousness and responsible agency. *Journal of Consciousness Studies*, 26(5–6), 117–140. https://www.ingentaconnect.com/content/imp/jcs/2019/00000026/f0020005/art00005
 11. Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J. & Tetlock, P. E. (2013). Predicting ethnic and racial discrimination: A meta-analysis of IAT criterion studies. *Journal of Personality and Social Psychology*, 105(2), 171–192. https://doi.org/10.1037/a0032734
 12. Rosen, G. (2004). Skepticism about moral responsibility. *Philosophical Perspectives*, 18(1), 295–313. https://doi.org/10.1111/j.1520-8583.2004.00030.x
 13. Rudy-Hiller, F. (2018; revised 2022). The epistemic condition for moral responsibility. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/moral-responsibility-epistemic/
