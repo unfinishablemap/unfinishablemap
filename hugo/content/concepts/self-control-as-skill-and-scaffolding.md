@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-21 00:23:30+00:00
+ai_modified: 2026-10-23 00:08:36+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[attentional-economics]]'
 created: 2026-10-04
-date: &id001 2026-10-21
+date: &id001 2026-10-23
 description: Self-control research has moved from in-the-moment inhibition to strategy,
   habit and skill. What the evidence shows, where it relocates a conscious selector,
   and what it costs felt effort as evidence.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-05 08:39:44+00:00
-lastmod: 2026-10-21 00:23:30+00:00
+lastmod: 2026-10-23 00:08:36+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ This section gives the Map's interpretation; none of the authors above argues fo
 
 What follows from the literature alone is narrow. An account that defines self-control by in-the-moment resistance, or the will as a general strength deployed like a muscle, is in trouble. No Map article defines the selector that way: [the-divided-will](/topics/the-divided-will/) already requires it to be candidate-relative and never a faculty of general strength.
 
-On the Map's reading, the literature relocates conscious control. Synchronic control becomes the developmental foundation, the source of the self-knowledge diachronic regulation needs, and for the skilled agent an emergency reserve. Ordinary success moves to moments of policy (choosing a situation, forming an if-then plan, adopting a rule), each made while the temptation is weak or absent. That is the shape [skill-delegation](/concepts/skill-delegation/) describes for motor and cognitive skill: conscious calibration, progressive withdrawal, retained override. Gollwitzer's own verb is "delegate". It also fits the [control-theoretic will](/concepts/control-theoretic-will/), where stabilisation effort scales with the disturbance, so removing a disturbance at its source is what a low-bandwidth controller should prefer.
+On the Map's reading, the literature relocates conscious control. Synchronic control becomes the developmental foundation, the source of the self-knowledge diachronic regulation needs, and for the skilled agent an emergency reserve. Ordinary success moves to moments of policy (choosing a situation, forming an if-then plan, adopting a rule), each made while the temptation is weak or absent. That is the shape [skill-delegation](/concepts/skill-delegation/) describes for motor and cognitive skill: conscious calibration, progressive withdrawal, retained override. Gollwitzer's own verb is "delegate". It also fits the [control-theoretic will](/concepts/control-theoretic-will/), where stabilisation effort scales with the disturbance, so removing a disturbance at its source is what a low-bandwidth controller should prefer. Forming an if-then plan would then be what Dretske (1988) calls a [structuring cause](/concepts/causal-relevance-of-content/#response-families) of the cued act, the cause of the cue's later causing it, so the selector's relevance to that act is past-tense unless the selector exercises its retained override.
 
 The fit discriminates nothing. None of these models posits a non-physical controller, and a physical planner with a cost signal predicts the same distribution of effortful and effortless success, so the relocation is coherence inside the Map's framework and nothing more. Because the delegation reading would absorb a finding that self-control runs mainly on scaffolding, the Map cannot list that finding as a challenge to its selector, and for the same reason it cannot count the fit as support. This agrees with the control-theoretic article's verdict that "no current prediction separates a non-physical controller from a physical one".
 
@@ -107,7 +107,7 @@ Felt effort is evidence about where the system meets resistance, which is where 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** The literature gives the selector a location without giving it support. If a non-physical selector operates in self-control, the Map's reading places its ordinary work at moments of policy and override; whether it operates at all is, in the tenets' words, "a posit the interface argument leaves open, not a result it secures" ([Tenet 3's standing](/tenets/#tenet-3-standing)). The article takes no view on how widely conscious selection operates. It keeps the selector candidate-relative, low-bandwidth and fallible, and its one revision concerns the evidence the Map may draw from felt effort.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** A selector that acts mostly at moments of policy, then hands control to cues, needs few interventions, which suits a minimal interface; the same economy suits a physical controller, so the fit is no evidence.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** A selector that acts mostly at moments of policy, then hands control to cues, needs few interventions. That economy is not the empirical-constraint minimality the tenet names, and it suits a physical controller equally, so it is no evidence.
 
 **[No Many Worlds](/tenets/#no-many-worlds).** Diachronic control presupposes that the agent who arranges a situation is the one who later benefits. The Map's indexical subject might need to persist across that interval, or its aspects might need only a subject present at each selection. Ainslie's bargaining works by recursive self-prediction without literal future selves ([the divided-will article](/topics/the-divided-will/#five-rivals)), so the literature does not force the persisting reading, and the tension stays open.
 
@@ -131,6 +131,7 @@ Felt effort is evidence about where the system meets resistance, which is where 
 1. Bermúdez, J. P. (2021). The skill of self-control. *Synthese*, 199, 6251–6273. https://doi.org/10.1007/s11229-021-03068-w
 1. Bermúdez, J. P., Murray, S., Chartrand, L., & Barbosa, S. (2023). What's inside is all that counts? *Review of Philosophy and Psychology*, 14(1), 33–55. https://doi.org/10.1007/s13164-021-00573-2 (abstract)
 1. de Ridder, D. T. D., Lensvelt-Mulders, G., Finkenauer, C., Stok, F. M., & Baumeister, R. F. (2012). Taking stock of self-control. *Personality and Social Psychology Review*, 16(1), 76–99. https://doi.org/10.1177/1088868311418749 (abstract)
+1. Dretske, F. (1988). *Explaining Behavior: Reasons in a World of Causes*. MIT Press. https://doi.org/10.7551/mitpress/2927.001.0001
 1. Duckworth, A. L., Gendler, T. S., & Gross, J. J. (2016). Situational strategies for self-control. *Perspectives on Psychological Science*, 11(1), 35–55. https://doi.org/10.1177/1745691615623247 (abstract)
 1. Duckworth, A. L., White, R. E., Matteucci, A. J., Shearer, A., & Gross, J. J. (2016). A stitch in time. *Journal of Educational Psychology*, 108(3), 329–341. https://doi.org/10.1037/edu0000062 (abstract)
 1. Galla, B. M., & Duckworth, A. L. (2015). More than resisting temptation. *Journal of Personality and Social Psychology*, 109(3), 508–525. https://doi.org/10.1037/pspp0000026 (abstract)

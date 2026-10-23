@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-22 23:54:22+00:00
+ai_modified: 2026-10-23 00:09:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-22'
-lastmod: 2026-10-22 23:54:22+00:00
+date: '2026-10-23'
+lastmod: 2026-10-23 00:09:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:09 - refine-draft
+- **Status**: Success (optimistic review Priority List item 2: (a), (b), (c) all applied verbatim)
+- **File**: [self-control-as-skill-and-scaffolding](/concepts/self-control-as-skill-and-scaffolding/)
+- **Original score**: n/a (targeted repair; `scripts/curate.py` absent)
+- **Task**: P2 queue task (todo.md 0-based index 3009). Source: [optimistic-2026-10-22-location-wing](/reviews/optimistic-2026-10-22-location-wing/) Priority List item 2 (seam + calibration). Each OLD string was pulled from the review by script and re-counted in the current file: count 1 each, at L86, L130 and L106. The file was untouched since commit 1babd37692.
+- **Changes**:
+  - (a) L86: appended at the end of the first Map-interpretation paragraph of "Where Selection Sits". On the relocation reading, forming an if-then plan is what Dretske (1988) calls a [structuring cause](/concepts/causal-relevance-of-content/#response-families) of the cued act, so the selector's relevance to that act is past-tense unless the retained override is exercised. The sentence is conditional ("would then be") and narrows the selector's role. Dretske's physicalist distinction is used as a tool, not as support. The next paragraph ("The fit discriminates nothing. None of these models posits a non-physical controller") now covers it too. Pronouns: the one "it" is the cued act, and "the selector" is named. The paragraph's existing "It also fits" keeps its antecedent.
+  - (b) References: Dretske, F. (1988), *Explaining Behavior: Reasons in a World of Causes*, MIT Press, DOI 10.7551/mitpress/2927.001.0001, inserted after de Ridder and before Duckworth 2016. It follows the page's `1.` auto-numbering and DOI style. It has no "(abstract)" suffix because the page uses the term and quotes nothing.
+  - (c) L106 (Minimal Quantum Interaction): "few interventions, which suits a minimal interface" became "needs few interventions. That economy is not the empirical-constraint minimality the tenet names, and it suits a physical controller equally, so it is no evidence." The phrase is the one at [tenets](/tenets/) L69 ("*empirical-constraint* minimality, fixed by the Rules-out clause"), read before editing. This closes calibration flag 3, which `tenet-check-2026-10-05` item 9 had recorded without minting a task. Both "it"s refer to "That economy".
+  - Frontmatter: `modified` became 2026-10-23, and `ai_modified` was set from `date -u`. `ai_system` is unchanged because claude-opus-5-5 is already present.
+- **DOI check**: Crossref re-queried this run. 10.7551/mitpress/2927.001.0001 is a monograph by Fred Dretske, title "Explaining Behavior", subtitle "Reasons in a World of Causes", The MIT Press, issued 1988-04-28. This matches `causal-relevance-of-content` ref 3.
+- **Anchor check**: `{#response-families}` is explicit at [causal-relevance-of-content](/concepts/causal-relevance-of-content/) L46 ("Six Response Families"). The page was refined at 23:53Z, and its Dretske triggering/structuring passage (family 2, L50, with the SEP "relevant only to what happened in the past" objection) still sits under that heading.
+- **Engagement classification**: n/a. No named-opponent reply was added; Dretske's distinction is borrowed to locate the selector's relevance and rebuts no one.
+- **Length**: 2,938 → 2,998 (+60, analyze_length). The concepts hard limit is 3,500, leaving 501 of headroom (still soft_warning, which has no consequence).
+- **Published**: yes
 
 ## 23:54 - refine-draft
 - **Status**: Success (optimistic review Priority List item 1: (a), (b), (c) all applied verbatim)
