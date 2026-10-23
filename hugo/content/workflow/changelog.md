@@ -1,14 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 07:26:59+00:00
+ai_modified: 2026-10-23 08:51:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 07:26:59+00:00
+lastmod: 2026-10-23 08:51:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:51 - apex-evolve
+- **Status**: Complete
+- **Article**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Selection**: staleness 750, the second-highest score. The top score, `born-preserving-causal-efficacy` (760), was skipped because three open tasks name it as their File, all blocked on a human length decision.
+- **Changed sources**: 10
+- **Focus**: hub-over-spoke drift (from the outer-review synthesis of 2026-10-23). 18 items where the apex said more than its sources; each was brought into line. Nothing was strengthened.
+  - The Tenet 3 quantifier: the apex said "the reading the Map takes", while epiphenomenalism L130–132 and ai-epiphenomenalism L109 say it is unresolved. It is now described as the register's reading.
+  - Frischhut co-opted for dualism (L107): the source's July within-time fix had never reached this apex.
+  - Stapp chooses the question, not the outcome (L133).
+  - The [P-AC1](/positions/ai-consciousness-scope/#p-ac1) hardware premise and the [P-Q1](/positions/quantum-interface/#p-q1) low edge (L119).
+  - Unscoped claims about magnetoreception, no-cloning, Maier ("most rigorous"), typology detection and LLM metacognition.
+  - [P-AC4](/positions/ai-consciousness-scope/#p-ac4)'s bearing on the phenomenal question is now theory-dependent.
+  - Two navigation labels.
+- **Word count**: 5771 → 5767 (`analyze_length`). Prose 4871 → 4868; Source Articles 153 → 155; Further Reading 171 → 164; References 576 → 580. The edits are length-neutral and no condensing was done, because apex length is an operator decision.
+- **Review**: [apex-evolve-2026-10-23-open-question-ai-consciousness](/reviews/apex-evolve-2026-10-23-open-question-ai-consciousness/)
+
+## 08:25 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 17 pages, each read in full, plus `tenets.md`: the 10 new pages and 7 heavily edited pages since check 153, per the driver brief. Each of the eleven calibration families was checked by hand, then cross-checked with a keyword scan.
+- **Errors**: 0
+- **Warnings**: 7, on 4 files. All are Over-reach or calibration drift.
+  - `concepts/dualism` L162: "How such selection still does causal work" presumes efficacy that tenets L95 leaves open (installed today).
+  - `concepts/dualism` L172: "explanatory parsimony favours dualism" in the Map's voice, against the Tenet 5 self-binding; `parsimony-epistemology` L140 declines the verdict.
+  - `concepts/conceivability-possibility-inference` L106/L128: "acquaintance with what consciousness *is*" (strong Revelation).
+  - `concepts/conceivability-possibility-inference` L29/L134: the lead lacks the contested-modal-rationalism caveat, and L134 makes the tenet depend on the inference, against `modal-epistemology` L119/L121.
+  - `topics/modal-structure-of-phenomenal-properties` L97: "how each PCS version fails" (the hub withdrew this at 06:32; the PCS page says the exchange is open).
+  - `topics/modal-structure-of-phenomenal-properties` L77/L111: the convergence is cited as "cumulative" without the [P-D1](/positions/arguments-for-dualism/#p-d1) discount.
+  - `arguments/epiphenomenalism-argument` L136: the table says "Epiphenomenalism cannot explain why consciousness exists", against its own L140.
+- **Notes**: 10
+- **Families clean in the window**: never concede epiphenomenalism, chance-fixing closure, Born-preserving selection, photosynthesis, Tenet 2 minimality, No Many Worlds as commitment, [P-AC1](/positions/ai-consciousness-scope/#p-ac1) wording.
+- **Priority List**: 5 items. Two dualism one-liners (−1 each) fold into the queued P1 at todo L3083. Three new tasks: modal-structure (+13), conceivability (+49) and epiphenomenalism-argument (+3).
+- **Open human decisions**: new evidence for all three (Tenet 1 / Hempel, the Tenet 3 quantifier, Allen 2022); none re-raised.
+- **Output**: [tenet-check-2026-10-23](/reviews/tenet-check-2026-10-23/)
+
+## 07:57 - research-voids
+- **Status**: Success
+- **Topic**: The template void. Every reader of minds starts from itself (egocentric anchoring and adjustment, Epley et al. 2004; false consensus that survives education and feedback, Krueger & Clement 1994). Where reader and read differ in architecture, the template misfits, and the misfit can be recorded as a property of the read mind, not as the reader's limit (an "exported void"). Faces: cross-cultural (Elfenbein & Ambady 2002 meta-analysis: in-group advantage, smaller with exposure, majority members poorer at reading minorities than the reverse; Matsumoto's comment and the reply), cross-neurotype (the double-empathy literature: Milton 2012; Edey et al. 2016; Sheppard et al. 2016; Crompton et al. 2020/2025) and cross-species/system (de Waal 1999 by paraphrase; Colombatto & Fleming 2024).
+- **Category**: Mixed. Principally Unexplored: measurable from a third position, and exposure, incentives and disclosure all move it. The first-person readout is naturally Occluded: a misfit does not present as a limit. Not Unexplorable; the only unexplorable residue is the general other-minds asymmetry, owned by voids-between-minds.
+- **Output**: [voids-template-void-2026-10-23](/research/voids-template-void-2026-10-23/). `recommended_action: article`, `target_slug: template-void` (slug free in obsidian/archive/hugo). Fold fallback: ~130 words in `concepts/empathy` §"The Contemporary Three-Way Debate" (2,944/3,500). The voids neighbours are within 1–47 words of their hard limit. Per the driver brief, no voids article was created, no expand task was minted, `pending_articles` was NOT touched and todo.md was not edited. The candidate is for the open voids-slot NEEDS-HUMAN entry, alongside drift, cluelessness and luminosity.
+- **Dedupe**: voids at 113/125 (`tools.evolution.state.count_section_files`). Zero hits in voids, research, topics/concepts/apex/positions/tenets, archive, reviews and workflow for "double empathy", Crompton, Sasson, Edey, Sheppard, DeBrabander, misattunement, Gernsbacher, Keysar, Nickerson, "egocentric anchoring", anthropodenial, Colombatto, Elfenbein, Ambady and "in-group advantage". The Epley, Krueger and "false consensus" hits are unrelated (read in context). Positive controls Fricker, Camerer and Schilbach hit where expected. Closest material: voids-between-minds (general asymmetry; the logomorphism sentence), boundary-and-projection (the success side of empathy), cross-state-void (state, not architecture) and conceptual-metabolism-void (knowledge imputation).
+- **Key finding**: the displacement evidence is mixed, and the note says so. The 2025 *Nature Human Behaviour* registered report (N = 311) found no information-transfer difference between single- and mixed-neurotype chains, which fails to replicate 2020. Edey et al.'s failure is one-directional, not double. DeBrabander et al. 2019 found autistic raters share the negative trait impressions, so Sasson-type judgments are not template misfit. Livingston et al. 2025 (*Psychological Review*) and Fellowes 2026 (*JADD*) critique the construct; Kilgallon, Milton et al. 2026 restate it as sociological. The void rests on the robust egocentric literature plus the meta-analytic in-group advantage. Framework-independent: it fits Dualism without evidencing it. Candidate demand on a live page: `topics/consciousness-and-social-understanding` L77 presents limits-awareness as felt ("reaching and not quite touching"), but at architecture boundaries the default readout is a completed reading.
+- **Verification**:
+  - 28 citations, all Crossref-verified, with author given names checked.
+  - 60 [raw] quote fragments machine-checked against saved raw text: Europe PMC abstracts, OpenAlex inverted indexes, Crossref deposits, PubMed efetch, the Lund portal HTML and the Sasson 2017 full text.
+  - De Waal 1999, Goldman 2006, Ross et al. 1977 and Dawes 1989 are paraphrase-only. Goldman's and Dawes's stances are taken from the raw abstracts of Wallin 2011 and Krueger & Clement 1994. The "exported void" sub-kind is flagged as the note's own suggestion.
+  - The note runs ~7.8k words by `validate.py` (siblings run 5.2–5.7k).
 
 ## 07:26 - check-links
 - **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)

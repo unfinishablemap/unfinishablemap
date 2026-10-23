@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T08:25:00+00:00
+ai_modified: 2026-10-23T08:51:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:51 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/open-question-ai-consciousness]]
+- **Selection**: staleness 750, the second-highest score. The top score, `born-preserving-causal-efficacy` (760), was skipped because three open tasks name it as their File, all blocked on a human length decision.
+- **Changed sources**: 10
+- **Focus**: hub-over-spoke drift (from the outer-review synthesis of 2026-10-23). 18 items where the apex said more than its sources; each was brought into line. Nothing was strengthened.
+  - The Tenet 3 quantifier: the apex said "the reading the Map takes", while epiphenomenalism L130–132 and ai-epiphenomenalism L109 say it is unresolved. It is now described as the register's reading.
+  - Frischhut co-opted for dualism (L107): the source's July within-time fix had never reached this apex.
+  - Stapp chooses the question, not the outcome (L133).
+  - The P-AC1 hardware premise and the P-Q1 low edge (L119).
+  - Unscoped claims about magnetoreception, no-cloning, Maier ("most rigorous"), typology detection and LLM metacognition.
+  - P-AC4's bearing on the phenomenal question is now theory-dependent.
+  - Two navigation labels.
+- **Word count**: 5771 → 5767 (`analyze_length`). Prose 4871 → 4868; Source Articles 153 → 155; Further Reading 171 → 164; References 576 → 580. The edits are length-neutral and no condensing was done, because apex length is an operator decision.
+- **Review**: [[reviews/apex-evolve-2026-10-23-open-question-ai-consciousness]]
 
 ## 08:25 - check-tenets
 - **Status**: Warnings
