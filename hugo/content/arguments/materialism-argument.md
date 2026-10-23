@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-10-20 07:26:46+00:00
+ai_modified: 2026-10-23 12:58:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -17,14 +17,14 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[heterophenomenology]]'
 created: 2026-01-06
-date: &id001 2026-10-20
+date: &id001 2026-10-23
 description: Why materialism cannot in principle explain consciousness, not merely
   hasn't yet — hard problem, zombie argument, epiphenomenalism, quantum indeterminacy.
 draft: false
 human_modified: 2026-01-06
 last_curated: null
 last_deep_review: 2026-07-29 05:19:00+00:00
-lastmod: 2026-10-20 07:26:46+00:00
+lastmod: 2026-10-23 12:58:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ A [philosophical zombie](/concepts/philosophical-zombies/) is physically identic
 3. If zombies are metaphysically possible, consciousness is not entailed by physical facts
 4. If consciousness is not entailed by physical facts, materialism is false
 
-Materialists typically attack premise 2 via the water analogy: it might seem conceivable that water is not H₂O, yet this is metaphysically impossible. The analogy fails because our concept of water was incomplete before chemistry—there was a hidden microstructure to discover. With consciousness, we have direct epistemic access to its nature: we instantiate it. There is no hidden essence to discover. The more sophisticated contemporary objections come from Dennett, Frankish, and the phenomenal-concept strategy, each of which deserves engagement by name.
+Materialists typically attack premise 2 via the water analogy: water that isn't H₂O seems conceivable yet is metaphysically impossible. Pre-chemical "water" was an incomplete concept, whereas [acquaintance reveals](/concepts/revelation-thesis/) that an experiential quality exists and part of its character. That defeats the analogy only if enough of the essence is revealed, which [Type-B physicalists](/concepts/type-a-type-b-and-type-c-physicalism/) deny; premise 2 rests on contested [modal rationalism](/concepts/modal-epistemology/). The more sophisticated contemporary objections come from Dennett, Frankish, and the phenomenal-concept strategy, each of which deserves engagement by name.
 
 **Dennett: zombie conceivability tracks conceptual confusion, not metaphysical possibility.** On Dennett's view, the zombie scenario *seems* coherent only because our phenomenal concepts are themselves confused—pre-theoretical posits like "phlogiston" or "élan vital" that mature science will replace. We are not conceiving of something genuinely possible; we are misdescribing functional states under bad concepts. The Map denies that phenomenal concepts are confused in this way. The reason offered: if phenomenal concepts were confused functional surrogates, sustained contemplative training should dissolve the seeming the way scientific instruction dissolved phlogiston-talk (see Contemplative Perspectives, below). Instead, training appears to *sharpen* phenomenal discrimination. Dennett has a methodological reply that constrains what this can claim: [heterophenomenology](/concepts/heterophenomenology/) admits such reports only as third-person data about what subjects believe, never as evidence about phenomenal character. What survives the restriction is narrower—heterophenomenology still predicts that the *content* of trained reports should drift toward functional vocabulary as introspective error is corrected, and long-term practitioners' reports do not show that drift—but the residual disagreement is methodological rather than settled.
 

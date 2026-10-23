@@ -1,9 +1,9 @@
 ---
 title: "Against Functionalism"
 created: 2026-01-15
-modified: 2026-01-20
+modified: 2026-10-23
 human_modified: null
-ai_modified: 2026-09-24T12:45:57+00:00
+ai_modified: 2026-10-23T12:58:46+00:00
 draft: false
 description: "A cumulative case against functionalism—absent qualia, inverted qualia, the Chinese Room, the explanatory gap—with their shared dependencies stated openly."
 topics:
@@ -30,7 +30,7 @@ related_articles:
   - "[[arguments/epiphenomenalism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-07-18T19:36:00+00:00
@@ -156,7 +156,7 @@ Some functionalists deny that zombies are genuinely conceivable. We only *think*
 
 Perhaps zombies are conceivable but metaphysically impossible, like "water that isn't H₂O."
 
-**Response**: The water analogy fails. Before chemistry, we could conceive of water without knowing its microstructure—our concept was incomplete. But with consciousness, we're not ignorant of its nature in the same way. We *instantiate* consciousness. We know what experience is from the inside. There's no hidden essence to discover.
+**Response**: The water analogy only partly fails. Pre-chemical "water" was an incomplete concept, whereas [[revelation-thesis|acquaintance reveals]] that an experiential quality exists and part of its character. That defeats the analogy only if enough of the essence is revealed, which [[type-a-type-b-and-type-c-physicalism|Type-B physicalists]] deny; Premise 3 rests on contested [[modal-epistemology|modal rationalism]].
 
 The conceivability of zombies reflects our positive grasp of phenomenal consciousness, not ignorance of it.
 

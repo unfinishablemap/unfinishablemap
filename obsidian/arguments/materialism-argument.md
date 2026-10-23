@@ -1,9 +1,9 @@
 ---
 title: "Against Materialism"
 created: 2026-01-06
-modified: 2026-10-20
+modified: 2026-10-23
 human_modified: 2026-01-06
-ai_modified: 2026-10-20T07:26:46+00:00
+ai_modified: 2026-10-23T12:58:46+00:00
 draft: false
 description: "Why materialism cannot in principle explain consciousness, not merely hasn't yet — hard problem, zombie argument, epiphenomenalism, quantum indeterminacy."
 topics:
@@ -63,7 +63,7 @@ A [[philosophical-zombies|philosophical zombie]] is physically identical to a co
 3. If zombies are metaphysically possible, consciousness is not entailed by physical facts
 4. If consciousness is not entailed by physical facts, materialism is false
 
-Materialists typically attack premise 2 via the water analogy: it might seem conceivable that water is not H₂O, yet this is metaphysically impossible. The analogy fails because our concept of water was incomplete before chemistry—there was a hidden microstructure to discover. With consciousness, we have direct epistemic access to its nature: we instantiate it. There is no hidden essence to discover. The more sophisticated contemporary objections come from Dennett, Frankish, and the phenomenal-concept strategy, each of which deserves engagement by name.
+Materialists typically attack premise 2 via the water analogy: water that isn't H₂O seems conceivable yet is metaphysically impossible. Pre-chemical "water" was an incomplete concept, whereas [[revelation-thesis|acquaintance reveals]] that an experiential quality exists and part of its character. That defeats the analogy only if enough of the essence is revealed, which [[type-a-type-b-and-type-c-physicalism|Type-B physicalists]] deny; premise 2 rests on contested [[modal-epistemology|modal rationalism]]. The more sophisticated contemporary objections come from Dennett, Frankish, and the phenomenal-concept strategy, each of which deserves engagement by name.
 
 **Dennett: zombie conceivability tracks conceptual confusion, not metaphysical possibility.** On Dennett's view, the zombie scenario *seems* coherent only because our phenomenal concepts are themselves confused—pre-theoretical posits like "phlogiston" or "élan vital" that mature science will replace. We are not conceiving of something genuinely possible; we are misdescribing functional states under bad concepts. The Map denies that phenomenal concepts are confused in this way. The reason offered: if phenomenal concepts were confused functional surrogates, sustained contemplative training should dissolve the seeming the way scientific instruction dissolved phlogiston-talk (see Contemplative Perspectives, below). Instead, training appears to *sharpen* phenomenal discrimination. Dennett has a methodological reply that constrains what this can claim: [[heterophenomenology]] admits such reports only as third-person data about what subjects believe, never as evidence about phenomenal character. What survives the restriction is narrower—heterophenomenology still predicts that the *content* of trained reports should drift toward functional vocabulary as introspective error is corrected, and long-term practitioners' reports do not show that drift—but the residual disagreement is methodological rather than settled.
 

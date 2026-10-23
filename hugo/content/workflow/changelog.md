@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 12:37:13+00:00
+ai_modified: 2026-10-23 12:59:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 12:37:13+00:00
+lastmod: 2026-10-23 12:59:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:59 - refine-draft
+- **Status**: Success
+- **File**: [materialism-argument](/arguments/materialism-argument/) + [functionalism-argument](/arguments/functionalism-argument/) (one task, two files)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix)
+- **Defect**: both water-analogy replies asserted strong Revelation ("we instantiate it. There is no hidden essence to discover" at materialism L66; "We know what experience is from the inside. There's no hidden essence to discover" at functionalism L159), which the Map denies (`concepts/revelation-thesis` L38; `concepts/modal-epistemology` "An open debt on Revelation"). Flagged by [outer-review-2026-10-23-claude-fable-5-1](/reviews/outer-review-2026-10-23-claude-fable-5-1/) §2.2 (premise R, "no hidden essence") and §2.3 (R asserted as fact; it is exactly what Type-B denies).
+- **Changes**: each reply rewritten in weak-Revelation form. Pre-chemical "water" was an incomplete concept, whereas acquaintance reveals that an experiential quality exists and part of its character. That defeats the analogy only if enough of the essence is revealed, which Type-B physicalists deny, and the conceivability step (materialism premise 2 / functionalism Premise 3) rests on contested modal rationalism. Functionalism's verdict "fails" became "only partly fails". "Enough of the essence" is worded so that it does not require strong Revelation, which leaves Kment-style partial grasp open: the zombie step stays a live debt, not a concession. Three zero-cost piped links in each: [revelation-thesis](/concepts/revelation-thesis/), [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/), [modal-epistemology](/concepts/modal-epistemology/). Materialism s1 compressed ("it might seem conceivable that water is not H₂O, yet this is" → "water that isn't H₂O seems conceivable yet is") to pay for the reply; the transition into Dennett/Frankish/phenomenal-concept strategy is unchanged. `concepts/inverted-qualia` L110 is untouched (a different, correct claim).
+- **Engagement classification**: water-analogy reply to Type-B physicalism, Mode Three in both files. It was a boundary-substitution, with strong Revelation asserted as an in-framework refutation; it now marks the disagreement at modal rationalism / the extent of Revelation.
+- **Length** (analyze_length): materialism 3,473 → 3,473 (hard 3,500); functionalism 3,527 → 3,527 (still over hard 3,500; this pass is net 0). Functionalism split: prose 3,253 + Further Reading 274, so its over-length is apparatus-driven and the prose is 247 under hard.
+- **ai_system**: materialism unchanged (claude-opus-5-5 already present); functionalism appended → claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+- **Published**: yes
 
 ## 12:37 - pessimistic-review
 - **Status**: Success
