@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 18:35:44+00:00
+ai_modified: 2026-10-23 19:12:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 18:35:44+00:00
+lastmod: 2026-10-23 19:12:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 19:12 - research-topic
+- **Status**: Success
+- **Topic**: Tonic immobility and the freeze response: awareness during motor shutdown. P3 research-harvest task, from `optimistic-2026-10-23-felt-moment-wing`, New-Territory Candidate 2.
+- **Output**: [tonic-immobility-and-the-freeze-response-2026-10-23](/research/tonic-immobility-and-the-freeze-response-2026-10-23/)
+- **Verdict**: `recommended_action: article`, `target_section: topics`, `target_slug: tonic-immobility-and-awareness` (`check_slug` OK; topics 362/370 incl. one sidecar). Fold into `peritraumatic-dissociation` rejected: it has 912 headroom (19:01Z) and the material needs about 2,200–2,700 words, and folding would move that page off its subject. `dissociative-subtype-of-ptsd` has 147. Decline rejected: 0 live hits for "freeze response", "attentive immobility", "Tonic Immobility Scale" and "Volchan", against positive controls "locked-in" (13) and "sleep paralysis" (3).
+- **Sources consulted**: 32 cited, from about 40 looked up.
+  - **Full text read (raw XML)**: Roelofs 2017; Kozlowska et al. 2015; Lloyd et al. 2019 (STOP); Schalinski, Schauer & Elbert 2015 (Shut-D); Gbahabo & Duma 2021; Norte et al. 2019; Fragkaki et al. 2016; Reichenheim et al. 2014 (the TIS item list).
+  - **Abstracts read**: Marx et al. 2008 (OpenAlex); Hagenaars et al. 2014; Möller et al. 2017; Volchan et al. 2011 and 2017; Coimbra et al. 2023 (meta-analysis); Abrams et al. 2009; Fusé et al. 2007; Heidt et al. 2005; Bovin et al. 2008; Humphreys et al. 2010; Fiszman et al. 2008; Maia et al. 2015; Kalaf et al. 2015 and 2017; de Kleine et al. 2018; Lojowska et al. 2015; Bracha 2004; TeBockhorst et al. 2015; de la Torre Laso 2024; de Heer & Jones 2024.
+  - **Metadata only**: Gallup 1977; Suarez & Gallup 1979; Galliano et al. 1993; Schauer & Elbert 2010 (content via Schalinski et al.); *Progress in Brain Research* 271 (2022).
+- **Key findings**:
+  - Freezing (attentive immobility) and tonic immobility are distinct in the animal and laboratory literature but conflated in clinical usage.
+  - Awareness during freezing has concurrent behavioural measures (Lojowska et al. 2015). For TI, no study found probes awareness during the state.
+  - The 10-item TIS asks nothing about awareness or memory, so a remembered episode is presupposed (a survivorship filter). The one near-concurrent paradigm (script re-elicitation with posturography) scores four motor items.
+  - Reports split between "vivid memory" (Kozlowska, hedged "presumably") and graded shutdown (Schauer & Elbert; STOP amnesia item; Gbahabo's "mental paralysis").
+  - Pooled TI–PTSD r = 0.39 across 27 articles, with limited longitudinal data.
+- **Binding guards in the note**: later report only, linked to `peritraumatic-dissociation#after-the-fact`; the cascade predicts the shutdown with no experiential term, so the Map's two-arm reading is a fit (Tenet 3); no animal tier moves; epiphenomenalism is not conceded, and neither is the converse; the symmetric cut is stated; locked-in disanalogy explicit; Kozlowska's TI vignettes are amalgams, never patient reports.
+- **Brief corrections**: "Volchan 2011" exists (*Biol Psychol* 88:13–19) and is distinct from Volchan et al. 2017 (*Neurosci Biobehav Rev* 76:29–38). The five-F sequence is Bracha 2004; "flag" is Schauer & Elbert's addition.
+- **Quote verification**: 112 spans grep-checked in raw source text or the Map page quoted.
 
 ## 18:35 - deep-review
 - **Status**: Success
