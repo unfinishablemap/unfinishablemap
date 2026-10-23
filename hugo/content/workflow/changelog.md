@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 16:39:25+00:00
+ai_modified: 2026-10-23 17:10:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 16:39:25+00:00
+lastmod: 2026-10-23 17:10:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:10 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 01:54 run (commit `4552a4b2ee`), with the 7-day floor now at 2026-10-16T17:07Z. Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: concepts 364/370 (98.4%, the most pressured), topics 361/370 (360 articles plus the `non-temporal-consciousness.refinement-log.md` sidecar, dropped before pairing; no other sidecar exists), voids 113/125.
+- **Delta since 01:54**: one addition, `topics/consciousness-and-the-epistemic-condition-on-responsibility` (created today, inside the floor, ineligible). No removals or renames. Eighteen existing pages were modified. Ten of them were eligible at 01:54 and now leave the pool because they were edited today: topics `memory-anomalies` and `brain-stimulation-and-the-witness-mode`; concepts `moral-responsibility`, `functional-seeming`, `substance-property-dualism`, `entanglement-binding-hypothesis`, `the-unfolding-argument-against-causal-structure-theories-of-consciousness`, `ai-consciousness-typology` and `dualism`; and voids `valence-void`. Eligible: topics 281 (280 + 3 newcomers − 2), concepts 266 (271 + 2 − 7), voids 98 (98 + 1 − 1).
+- **Strict gate** (body-only `count_words`, summed body under the hard threshold, `>=`): topics 0 pairs (smallest eligible sum 1990 + 2112 = 4102), voids 0 (1530 + 1732 = 3262), concepts 111 fitting (114 at 01:54; the three lost pairs belong to the floor exits). The linked concepts pairs are still the same three carve-outs: `causal-powers` + `mind-arena` 3494, `phenomenal-depth` + `phenomenal-presentation` 3047, `adaptive-computational-depth` + `phenomenal-depth` 3425. There are still seven linked cross-section pairs under 4000. The three concept↔topic pairs were declined at 02:41. Three of the four concept↔void pairs repeat earlier declines (`apophatic-approaches` + `the-silence-void` 3864, `manyism` + `plurality-void` 3795, `possibility-probability-slippage` + `simulation-detection-void` 3771). `valence` + `valence-void` left only because of the floor and is not resolved. The new pair is `apophatic-approaches` (1877) + `voids/thrownness-void` (1770) = 3647, which the floor admitted. Its cosine is 0.040 and paragraph containment is 0.00 in both directions. It is a method↔void split: the void cites the method once, in "Approaches to the Edge" (L96: "The apophatic method applies directly"). The sum is over both the concepts hard threshold (3500) and the voids hard threshold (3000), so neither home section can take the merged page.
+- **Newcomer screen** (same TF-IDF recipe; calibration pair self-stultification 0.377 against 0.379 last run). It covered the 6 articles the floor newly admits, last committed 2026-10-16T01:52 to 17:07: `subjective-facts-and-the-metaphysical-problem-of-other-minds`, `the-interface-problem`, `the-psychophysical-control-law` (topics); `nondualistic-interactionism`, `subject-fusion` (concepts); `thrownness-void` (voids). Each was scored against all 837. The maximum was 0.293, so none reached the 0.44 duplication band, and, unlike the last three runs (02:41, 15:39, 01:54), no pair reached the 0.30 reading line either. The top pairs were read or measured anyway:
+  1. `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` (3379) + `concepts/egocentric-presentism` (3485) = 6864, cosine 0.293. Containment is 0.23 (topic in concept) and 0.14 (concept in topic). These are rival one-world exits: the topic's Further Reading glosses the concept as "Hare's inegalitarian one-world exit", and the topic itself works out Lipman's egalitarian standpoint pluralism. The concept's Tenet 4 paragraph points to the topic as the alternative ("Lipman builds a pluralism"). Excluded under the inverted-signal rule, and the sum is over topics critical (6000).
+  2. `topics/the-psychophysical-control-law` (3480) + `concepts/psychophysical-laws` (3493) = 6973, 0.253, containment 0.13/0.17. Over topics critical.
+  3. `the-psychophysical-control-law` + `concepts/control-theoretic-will` (2907) = 6387, 0.245, containment 0.12/0.21. Over topics critical.
+  4. `topics/the-interface-problem` (3583) + `concepts/stapp-quantum-mind` (4000) = 7583, 0.248; no link in either direction.
+  - `subject-fusion` peaks at 0.215 (`quasi-memory-and-the-circularity-objection`, inside the floor), `nondualistic-interactionism` at 0.168 (`process-philosophy`, inside the floor) and `thrownness-void` at 0.183 (`nihilism-and-existentialism`, unlinked).
+- **Finding**: unchanged. Length rules out every pair in topics and voids. In concepts every linked pair is a recorded carve-out, the one new cross-section pair is a method↔void split that no home section can hold, and no newcomer comes near the duplication band. The declined delegatory pair from 01:54 (needs operator condensing first) and the 10-22/10-23 newcomer declines stand. No-go pages were not touched. Cap relief would have to come from `/archive`, `/condense` or a cap raise (concepts 6, topics 9 by the gate (10 real articles), voids 12 slots left).
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 16:39 - refine-draft
 - **Status**: Success
