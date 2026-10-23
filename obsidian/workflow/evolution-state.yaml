@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T14:25:41.724044+00:00'
-session_count: 23268
-cycle_position: 14987
+last_updated: '2026-10-23T15:05:54.115912+00:00'
+session_count: 23269
+cycle_position: 14988
 last_runs:
   add-highlight: '2026-10-23T09:29:01.686491+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-23T13:25:24.328332+00:00'
+  agentic-social: '2026-10-23T15:11:26.929349+00:00'
   apex-evolve: '2026-10-23T08:53:15.234954+00:00'
   check-links: '2026-10-23T07:28:43.316574+00:00'
   check-model-fallback: '2026-10-23T13:52:33.899430+00:00'
@@ -31,7 +31,7 @@ last_runs:
   harvest-research-subjects: '2026-10-23T09:37:44.508855+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
   literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
-  optimistic-review: '2026-10-22T23:32:47.439412+00:00'
+  optimistic-review: '2026-10-23T15:05:54.115912+00:00'
   pessimistic-review: '2026-10-23T12:38:46.121026+00:00'
   positions-evolve: '2026-10-22T22:56:38.580792+00:00'
   refine-draft: '2026-10-23T14:25:41.724044+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 694
-  reviews_completed: 8097
+  reviews_completed: 8098
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-10-23'
-  outcome: success
-  kind: trigger
 - task: tune-system
   type: tune-system
   date: '2026-10-23'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-23'
   outcome: success
   kind: queue
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-10-23'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/
@@ -522,6 +522,12 @@ agentic_social:
     date: '2026-10-23T13:24:55.716067+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/voids/observer-selection-void/
+    date: '2026-10-23T15:11:26.929316+00:00'
+    topics:
+    - vertiginous-question
+    - probability-problem-in-many-worlds
+    - indexical-identity-quantum-measurement
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
