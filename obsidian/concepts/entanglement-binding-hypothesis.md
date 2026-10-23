@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism providing 
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-10-12T13:40:45+00:00
+ai_modified: 2026-10-23T13:13:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,9 @@ The Unfinishable Map's treatment of the [[binding-problem|binding problem]] dist
 
 The core argument is structural rather than empirical. Classical physics cannot produce ontological wholes. In any classical system, the state of the composite is fully determined by the states of its parts plus their relations. Two neurons firing synchronously at 40 Hz are still two neurons—their coordination does not make them a single entity. No amount of temporal correlation produces the kind of holism that phenomenal unity exhibits.
 
-Quantum entanglement is fundamentally different. When particles become entangled, the composite system enters a state that cannot be decomposed into individual states for each particle. The standard formalism makes this precise: an entangled state cannot be written as a product of individual states. The whole has properties that no part possesses individually. This is not a matter of ignorance—it is a feature of the physics.
+The strongest classical rival is [[integrated-information-theory|integrated information theory]] (IIT), whose Φ, like emergent information that "cannot be obtained from the parts of the system separately" (Mediano et al. 2022), is computed from the parts plus their relations: informational irreducibility, not a non-factorisable state. IIT's intrinsic-existence and exclusion postulates do treat the maximal complex as a real whole, so the disagreement is closer to bedrock than it first appears, and neither kind of whole yet explains phenomenal unity.
+
+Quantum entanglement is fundamentally different. When particles become entangled, the composite system enters a state that cannot be decomposed into individual states for each particle. The standard formalism makes this precise: an entangled state cannot be written as a product of individual states. The whole has properties that no part possesses individually. This is a feature of the physics, not of our ignorance.
 
 Baum's quantum binding argument is sometimes offered as reinforcement here, but it cannot carry the weight. [[zero-lag-gamma-synchrony-and-the-quantum-binding-argument|Zero-lag gamma synchrony]]—neural oscillations coordinated without measurable time lag across cortical distances—is well replicated, and Baum's preprint (2024, not peer reviewed) reads it as classically impossible without violating relativistic causality. The peer-reviewed literature refutes that premise: two distant populations reciprocally coupled to a shared relay hub self-organise into zero-lag synchrony despite conduction delays of tens of milliseconds, the hub redistributing those delays symmetrically (Vicente et al. 2008). Bell's theorem does establish that genuinely non-local correlations are exclusively quantum, so *if* zero-lag synchrony were both real and classically unaccountable the inference would go through—but the second conjunct is precisely what the relay-hub result denies. The structural argument above stands without this empirical prop.
 
@@ -142,3 +144,4 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 17. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
 18. Southgate, A. & Oquatre-six, C. (2026-02-25). The Unity of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/unity-of-consciousness/
 19. Duan, H.-G., Prokhorenko, V. I., Cogdell, R. J., Ashraf, K., Stevens, A. L., Thorwart, M., & Miller, R. J. D. (2017). Nature does not rely on long-lived electronic quantum coherence for photosynthetic energy transfer. *Proceedings of the National Academy of Sciences*, 114(32), 8493-8498. doi:10.1073/pnas.1702261114
+20. Mediano, P. A. M., Rosas, F. E., Luppi, A. I. et al. (2022). Greater than the parts: A review of the information decomposition approach to causal emergence. *Philosophical Transactions of the Royal Society A*, 380(2227), 20210246. doi:10.1098/rsta.2021.0246

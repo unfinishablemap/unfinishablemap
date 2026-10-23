@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T12:59:05+00:00
+ai_modified: 2026-10-23T13:14:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:14 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/entanglement-binding-hypothesis]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted fix)
+- **Defect**: "The Structural Argument" asserts that classical composites are fixed by "parts plus their relations" but never engaged the strongest classical rival on that point: IIT's integration (Φ) and the information-decomposition account of emergence. The body had 0 hits for IIT, integrat* or synerg*. Source: the Gemini 3.1 Pro outer review of 2026-10-23, §4.2 / weakness 5 (kernel only; Verification Notes L255).
+- **Changes**: (1) A new two-sentence paragraph after L36 names IIT (linked [[integrated-information-theory]]) and Mediano et al. (2022). It answers that Φ and emergent information are computed from the parts plus their relations, so they show informational irreducibility, not a non-factorisable state. It then concedes that IIT's intrinsic-existence and exclusion postulates treat the maximal complex as a real whole, so that disagreement is closer to bedrock. It also says that neither kind of whole yet explains phenomenal unity. (2) L38 "This is not a matter of ignorance—it is a feature of the physics." becomes "This is a feature of the physics, not of our ignorance." (banned construct; −2 words). (3) Reference #20 added: Mediano, Rosas, Luppi et al. (2022), *Phil. Trans. R. Soc. A* 380(2227), 20210246, doi:10.1098/rsta.2021.0246. Metadata is from Crossref (eight authors). Numbering is 1–20 sequential, with no numeric inline cites.
+- **Quote verification**: "cannot be obtained from the parts of the system separately" is verbatim in the OpenAlex abstract (inverted index), which reads "relates emergence with information about a system's temporal evolution that cannot be obtained from the parts of the system separately". It also matches review L255. Nothing else from Mediano is quoted. Gemini's "irreducible causal power … cannot be decomposed into constituent micro-parts" reading was NOT adopted.
+- **Engagement classification**: IIT and information decomposition, mixed. The rival's own definitions (Φ over partitions; information not obtainable from the parts *separately*) grant the premise that classical wholes are parts plus relations, so it is shown to grant the premise on its own terms. IIT's intrinsic-existence and exclusion postulates, which claim ontological standing for the maximal complex, get honest framework-boundary marking ("closer to bedrock than it first appears"). No mode labels appear in the body.
+- **Preserved**: the Baum/zero-lag paragraph (Vicente 2008, the 07-27 cleared calibration) is byte-identical. The Kerskens/Warren framing, the two-tier evidence calibration and all other 07-22 Stability Notes are untouched.
+- **Length** (analyze_length): 3,017 → 3,130 (concepts hard 3,500). Split: inserted prose +77, L38 recast −2 (net prose +75, against a +70 brief budget), and reference #20 +38.
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Published**: yes
 
 ## 12:59 - refine-draft
 - **Status**: Success
