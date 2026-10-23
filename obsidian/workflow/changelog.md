@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T10:41:47+00:00
+ai_modified: 2026-10-23T11:10:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:11 - deep-review
+- **Status**: Success
+- **File**: [[concepts/discrimination-problem]] (+ family-resolution sibling [[concepts/functional-seeming]], ref 10 only)
+- **Selection**: `deep_review.py candidates` #3 (score 70); #1 `concepts/self-blindness` and #2 `topics/memory-anomalies` were edited <24h ago (driver preference). Sixth deep review; first since 07-28; page changed by one line since then, but nine summarised spokes moved under it.
+- **Word count**: 2999 → 3156 (+157). Split before: prose 2662 / Further Reading 137 / References 203; after: prose 2772 / 148 / 240. Concepts thresholds 2500/3500 (gate `>=`); `soft_warning` both sides, 343 below hard.
+- **Critical issues addressed**: 6. (1) Closure-as-sufficiency without the chance-fixing concession (Dualism). (2) Bidirectional overclaim "a real causal signature exists", plus minimality-as-magnitude, against P-Q2/P-Q3 and Tenet 2's empirical-constraint minimality. (3) Tenet 5 used to convict the functionalist ("misuse of parsimony"), with a one-directional catalogue clause; made symmetric, own-reasoning only. (4) Dualism fit-as-prediction, now "fits the tenet without evidencing it". (5) Schwitzgebel quote span "frequently and massively mistaken, about a great variety of issues" not in either raw author text (2008 draft, 2009 Ch. 7 draft); reduced to the grep-verified "faulty, untrustworthy, and misleading". (6) Illusionism self-cite pseudonym (plus-joined `ai_system`), also propagated to functional-seeming.
+- **Hub-over-spoke drift fixed**: 9 lines. L88 Born-rule (bias-vs-noise → selection-vs-chance; "metaphysical commitments" half restored). L89 AI (pure → graded form, typology wording). L72 P-AC4 scope. L87 compatibilist (differentiator vs residue split). Locked-in (a communication problem per its spoke; bullet deleted, recast as the contrast). L107 depersonalisation (Map reconstruction, not finding). L64 PCS (Loar physicalist; Chalmers 2007 dilemma, added to References). L58 plus the layered first-person authority sentence. L111 training-contamination qualifier.
+- **Medium issues addressed**: 6. Two senses of "structural asymmetry". Unscoped absence claim at L100. Block 1995 orphan and year-pairing of the other inline cites. Weiskrantz single-subject. Empty "inattentional blindness" header. L72/L89 consistency.
+- **Engagement classification** (editor-internal): Dennett Mode Mixed leaning Two (unchanged); illusionism Mode Three (unchanged); PCS/Loar Mode Mixed (now stated in the opponent's physicalist terms, dilemma presented as disputed); functionalist identification downgraded from implied Mode One to Mode Three.
+- **Verified**: Crossref for Block, Loar, Monti, Owen, Rebouillat, Chalmers 2007; OpenAlex raw abstracts for Owen (N=1), Monti (5/54), Rebouillat (regime); Schwitzgebel raw drafts at faculty.ucr.edu (published 2011 text unretrievable: Google Books ids dead on control, API quota 0, no IA item).
+- **Enhancements made**: 4. **Cross-links added**: 7.
+- **Output**: [[reviews/deep-review-2026-10-23-discrimination-problem]]
 
 ## 10:42 - refine-draft
 - **Status**: Success

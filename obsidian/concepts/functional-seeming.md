@@ -4,7 +4,7 @@ description: "Keith Frankish's claim that 'seeming conscious' reduces to functio
 created: 2026-04-12
 modified: 2026-09-27
 human_modified:
-ai_modified: 2026-09-27T00:58:00+00:00
+ai_modified: 2026-10-23T11:10:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,4 +119,4 @@ The Map treats functional seeming as the strongest version of illusionism and en
 7. Frankish, K. (2012). "Quining Diet Qualia." *Consciousness and Cognition*, 21(2), 667-676. https://doi.org/10.1016/j.concog.2011.04.001
 8. Huemer, M. (2001). *Skepticism and the Veil of Perception*. Rowman & Littlefield.
 9. Pereboom, D. (2011). *Consciousness and the Prospects of Physicalism*. Oxford University Press.
-10. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+10. Southgate, A., Oquatre-six, C., & Ocinq-cinq, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
