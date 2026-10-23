@@ -1537,16 +1537,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: Add disputed memories (Sheen, Kemp & Rubin 2001/2006) to `topics/memory-anomalies` as cryptomnesia's converse — one paragraph after L98 + two references (+223)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/memory-anomalies.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: research-topic 2026-10-10 01:15Z (`research/disputed-memory-ownership-and-de-facto-immunity-2026-10-10.md`, Recommended Next Step option (b); the note DECLINED a new concepts page; driver confirmed the anchor occurs once)
-- **Generated**: 2026-10-10
-- **Headroom**: analyze_length 3,309 against topics hard 4,000 (690). Package +223, finishing at 3,532.
-- **Notes**: Install Edit 1 (body paragraph) and Edit 2 (two reference lines) EXACTLY as written in the note's §Recommended Next Step. The anchor is the paragraph ending "…the within-species spread in source-monitoring accuracy that cryptomnesia is one empirical exhibit of." (L98, "## Cryptomnesia and the Necessary Opacity of Source"); its string "[[source-attribution-divergence]] supplies the topic-tier subject explainer" occurs once. References go between Pratte & Rouder 2012 and Spatt 2002. GUARDS from the note: do not re-alter the three cites corrected on 06-02 or the Moulin "The the the the" title (stability notes). Add no "fourth rotation" language; frame disputed memories as cryptomnesia's CONVERSE, keeping the "trio" framing. Never write that disputed memories ARE quasi-memories, that they refute IEM, or that they are richer than true memories in general. The verdict on IEM is UNDETERMINED: they fall outside IEM if immunity covers only genuine memory, and are a wh-misidentification on the memory-seeming reading. Do NOT edit concepts/immunity-to-error-through-misidentification (capped by its stability note). The queued quasi-memory L102 P3 stands as worded. Update ai_modified (UTC); plus-join your actual model into ai_system only if absent; sync; verify both trees.
-
 ### P3: `concepts/type-specificity` L107 holds a significance claim at *realistic possibility* while calling its own support "coherent but framework-internally so" (compatibility-grade); point it at the L71/L81 discriminator or lower the tier
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/type-specificity.md
@@ -3044,6 +3034,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-23: Add disputed memories (Sheen, Kemp & Rubin 2001/2006) to `topics/memory-anomalies` as cryptomnesia's converse — one paragraph after L98 + two references (+223)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/memory-anomalies.md
+- **Notes**: Install Edit 1 (body paragraph) and Edit 2 (two reference lines) EXACTLY as written in the note's §Recommended Next Step. The anchor is the paragraph ending "…the within-species spread in source-monitoring accuracy that cryptomnesia is one empirical exhibit of." (L98, "## Cryptomnesia and the Necessary Opacity of Source"); its string "[[source-attribution-divergence]] supplies the topic-tier subject explainer" occurs once. References go between Pratte & Rouder 2012 and Spatt 2002. GUARDS from the note: do not re-alter the three cites corrected on 06-02 or the Moulin "The the the the" title (stability notes). Add no "fourth rotation" language; frame disputed memories as cryptomnesia's CONVERSE, keeping the "trio" framing. Never write that disputed memories ARE quasi-memories, that they refute IEM, or that they are richer than true memories in general. The verdict on IEM is UNDETERMINED: they fall outside IEM if immunity covers only genuine memory, and are a wh-misidentification on the memory-seeming reading. Do NOT edit concepts/immunity-to-error-through-misidentification (capped by its stability note). The queued quasi-memory L102 P3 stands as worded. Update ai_modified (UTC); plus-join your actual model into ai_system only if absent; sync; verify both trees.
 
 ### ✓ 2026-10-23: Write `concepts/self-blindness` from the research note `research/self-blindness-and-partial-introspective-failure-2026-10-10.md` — Shoemaker's self-blindness argument, its scope, and why the Map's clinical record supplies no counterexample (guard page)
 - **Type**: expand-topic

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-07-13 01:11:12+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-23 02:28:37+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[temporal-consciousness]]'
@@ -24,7 +24,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 01:11:12+00:00
-lastmod: 2026-07-13 01:11:12+00:00
+lastmod: 2026-10-23 02:28:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,6 +101,8 @@ The cognitive-psychology literature treats cryptomnesia as a defect to be guarde
 
 This points to a structural fact the Map takes seriously: the conscious subject does not have, and may not be able to have, direct access to the provenance of its own contents. Source-tags are not part of the phenomenal output by default; they have to be reconstructed, and the reconstruction is fallible in characteristic ways. Cryptomnesia generalises beyond plagiarism: every "original" thought arrives without a packing slip, and the feeling of originality is the absence of source-tags rather than the presence of evidence for novelty. The [source-attribution-void](/voids/source-attribution-void/) develops this point as a structural void of the cognitive architecture; [source-attribution-divergence](/topics/source-attribution-divergence/) supplies the topic-tier subject explainer for the within-species spread in source-monitoring accuracy that cryptomnesia is one empirical exhibit of.
 
+Cryptomnesia has a converse. In one *disputed memory*, "each of two twins recollected being sent home from school for wearing too short a skirt, although only one of them was actually sent home" (Sheen, Kemp & Rubin 2001, abstract). Most twins tested reported at least one; close siblings and friends reported far fewer. The twins showed "good agreement on most aspects of the memory except who the protagonist was", and they rated disputed memories higher in reliving and imagery than undisputed ones, so "the measures of memory quality provide no indication" of which twin was wrong. Across 77 such memories, disputants claimed misfortunes and achievements for themselves but were "more likely to give away memories of personal wrongdoing" (Sheen, Kemp & Rubin 2006). Cryptomnesia returns another's content without its memory tag; a disputed memory keeps the tag and gets the owner wrong. Whether that breaches memory's [immunity to error through misidentification](/concepts/immunity-to-error-through-misidentification/) depends on whether the immunity covers only genuine memories of one's own past, which the mistaken twin lacks, or also memory-like seemings, which she has.
+
 ## What These Anomalies Are Not Evidence For
 
 The phenomenology of déjà vu has a long history of being recruited for paranormal claims — past lives, precognitive dreams, ancestral memory. The Map's dualism is principled and does not extend to those claims. The Cleary-style gestalt-match account already explains the felt premonition that often accompanies déjà vu without any genuine future-knowledge: when the configural layout matches, the subject's prediction system outputs both "I have seen this before" and "I know what comes next," and both feelings are equally well-explained by the match. Selective recall plus retrofitting (a known cryptomnesia-adjacent effect) accounts for most "precognitive dream" reports. The Map's commitment is to take the phenomenology seriously without endorsing the unbounded paranormal channels that early spiritualist literature drew from it. Flournoy, who coined the term *cryptomnesia*, and Jung, who developed it, used it precisely to deflate such claims.
@@ -152,6 +154,8 @@ One structural honesty is owed about the cumulative-convergence move. This artic
 1. Moulin, C. J. A., Bell, N., Turunen, M., Baharin, A., & O'Connor, A. R. (2021). "The the the the induction of jamais vu in the laboratory: word alienation and semantic satiation." *Memory* 29(7): 933–942.
 1. Perrin, D., Moulin, C. J. A., & Sant'Anna, A. (2024). "Déjà vécu is not déjà vu: An ability view." *Philosophical Psychology* 37(8): 2466–2496.
 1. Pratte, M. S., & Rouder, J. N. (2012). "Assessing the dissociability of recollection and familiarity in recognition memory." *Journal of Experimental Psychology: Learning, Memory, and Cognition* 38(6): 1591–1607.
+1. Sheen, M., Kemp, S., & Rubin, D. (2001). "Twins dispute memory ownership: A new false memory phenomenon." *Memory & Cognition* 29(6): 779–788.
+1. Sheen, M., Kemp, S., & Rubin, D. C. (2006). "Disputes over memory ownership: What memories are disputed?" *Genes, Brain and Behavior* 5(Suppl. 1): 9–13.
 1. Spatt, J. (2002). "Déjà Vu: Possible Parahippocampal Mechanisms." *Journal of Neuropsychiatry and Clinical Neurosciences* 14(1): 6–10.
 1. Sutton, J., & Cassam, Q. "Memory." *Stanford Encyclopedia of Philosophy*.
 1. Wixted, J. T. (2007). "Dual-process theory and signal-detection theory of recognition memory." *Psychological Review* 114(1): 152–176.

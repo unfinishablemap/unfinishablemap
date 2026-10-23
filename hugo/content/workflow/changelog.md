@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 01:54:39+00:00
+ai_modified: 2026-10-23 02:29:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 01:54:39+00:00
+lastmod: 2026-10-23 02:29:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 02:29 - refine-draft
+- **Status**: Success
+- **File**: [memory-anomalies](/topics/memory-anomalies/)
+- **Task**: P3, add disputed memories (Sheen, Kemp & Rubin 2001/2006) as cryptomnesia's converse, from [disputed-memory-ownership-and-de-facto-immunity-2026-10-10](/research/disputed-memory-ownership-and-de-facto-immunity-2026-10-10/) §Recommended Next Step option (b).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**: Edit 1, a paragraph after L98 (end of "## Cryptomnesia and the Necessary Opacity of Source"). Edit 2, two References lines between Pratte & Rouder 2012 and Spatt 2002. Both installed verbatim from the note except one phrase: `In *disputed memories*, "each of two twins…` → `In one *disputed memory*, "each of two twins…`. The note's version presented the abstract's single skirt example as a description of disputed memories in general. The fix matches the abstract ("For example, in one disputed memory") and `concepts/quasi-memory-and-the-circularity-objection` L102 (commit 971e7d43).
+- **Verification**: Crossref confirms both papers (2001: *Memory & Cognition* 29(6) 779–788, authors Mercedes Sheen, Simon Kemp, David Rubin; 2006: *Genes, Brain and Behavior* 5(S1) 9–13, D. C. Rubin). The skirt quote is verbatim in the PubMed abstract (PMID 11716051), and the 2006 "more likely to give away memories of personal wrongdoing" quote plus the 77-memories figure (71 from twins) are verbatim in the 2006 Crossref and OpenAlex abstracts. The two full-text quotes are not in the abstract, so they were checked against the full text instead (Wayback copy of the Springer PDF, since Springer and DukeSpace are behind bot challenges): "good agreement … protagonist was" (p. 784) and "the measures of memory quality provide no indication" (p. 783, completed in the source by "of this", meaning partial fabrication for at least half the sample). The gloss "of which twin was wrong" is outside the quote marks and matches the paper's "both twins realized that one of them was wrong" (p. 783). Counts: Exp 1 14/20 sets; Exp 2 26/40 (65%); Exp 3 close siblings 8%, 6/69 overall.
+- **Guards**: no "fourth rotation" language; the trio framing is kept. Disputed memories are not called quasi-memories, not said to refute IEM, and not called richer than true memories in general (the comparison is with nondisputed memories). The IEM verdict is left conditional. The three 06-02-corrected cites and the Moulin title are untouched. `concepts/immunity-to-error-through-misidentification` and `concepts/quasi-memory-and-the-circularity-objection` are not edited. The next block is a `##` heading, so no pronoun is stranded.
+- **Length**: 3,309 → 3,533 by `analyze_length` (topics hard 4,000; headroom after, 466). That is +224, one more than the note's +223 because of "one".
+- **Published**: yes
 
 ## 01:54 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 2026-10-22 15:39 run (commit `e8f6008732`), with the 7-day floor now at 2026-10-16T01:52Z. Abandoned (steady state).
