@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T02:29:01+00:00
+ai_modified: 2026-10-23T03:10:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:10 - research-topic
+- **Status**: Success
+- **Topic**: Consciousness and the epistemic condition on moral responsibility. P3 research-harvest task, from `optimistic-2026-10-22-location-wing`, New-Territory Candidate 1.
+- **Output**: [[research/consciousness-and-the-epistemic-condition-on-responsibility-2026-10-23]]
+- **Verdict**: `recommended_action: article`, `target_section: topics`, `target_slug: consciousness-and-the-epistemic-condition-on-responsibility` (`check_slug` OK; topics 360/370). Folding is ruled out: `concepts/moral-responsibility` is at 3,475/3,500.
+- **Sources consulted**: 46 cited, from about 55 looked up.
+  - **Read in raw text**:
+    - the SEP entry (Rudy-Hiller; first published 2018, revised 2022) and its notes;
+    - Levy 2005 (JESP PDF);
+    - Smith 2012 (JSTOR copy);
+    - Levy 2014 (OSO abstracts for the book and chapters 1–6, plus Google Books search-within snippets at pp. vii, viii, 29, 30, 33, 34, 36, 38, 96, 101 and 102);
+    - the Oxford Martin seminar abstract for Levy's *Noûs* paper;
+    - OpenAlex abstracts for Levy 2013, King & Carruthers 2012 and 2022, Madva 2019, Semler 2024, Shepherd 2015, Shepherd & Levy 2020, Holroyd 2012 and 2017, Washington & Kelly 2016, Oswald 2013, Greenwald et al. 2015, Forscher 2019, Kurdi 2019, Hahn 2014 and Schimmack 2021.
+  - **Grep check**: all 49 verbatim spans grep-verified against those raw texts.
+- **Lead corrections**:
+  - Sher 2009 is a *capacitarian* (origination), not an attributionist. That is the SEP's §3.4 placement, and Levy also treats him separately from Smith and Arpaly.
+  - "Attributionism" is Levy's own 2005 label.
+  - Levy's thesis concerns an "informational state, not phenomenal consciousness". He prefers to avoid Block's term "access consciousness" (p. 29).
+  - Levy's *Noûs* paper is 48(1) 2014, online 2012.
+  - The SEP entry was first published 12 Sep 2018.
+  - There are two different Levy 2017 items.
+- **Key finds**:
+  - Levy p. 38: zombies "lack nothing in the way of awareness", so he cannot be enlisted for any phenomenal reading.
+  - Madva 2019 already defends a phenomenal-*capacity* requirement. Any phenomenal reading by the Map must credit him and be labelled as the Map's extension.
+  - Semler 2024 argues for nonconscious, including artificial, moral agency. This is a direct rival to the AI culpability-gap page.
+  - The Map's pages assert a consciousness requirement (`moral-responsibility` L83/L89) but give a capacitarian verdict on lapses (gradient L61). The article should name that tension.
+- **Unverified (leads)**: Sher 2009 body (SEP-secondary only; Google Books ids dead), Smith 2005 body, Brownstein 2016, Sripada 2016, Levy 2017 PPR, Madva's venue, and Sher 2008 distancing himself from attributionism.
 
 ## 02:29 - refine-draft
 - **Status**: Success
