@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-23 10:32:42+00:00
+ai_modified: 2026-10-23 10:41:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 19:03:13+00:00
-lastmod: 2026-10-23 10:32:42+00:00
+lastmod: 2026-10-23 10:41:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [philosophy of mind](/concepts/philosophy-of-mind/), dualism is the first of The Unfinishable Map's [five foundational commitments](/tenets/#dualism). Eight arguments support the position: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, the [unity of consciousness](/concepts/binding-problem/), [intentionality](/concepts/intentionality/), and the [argument-from-reason](/topics/argument-from-reason/). Their convergence from different starting points strengthens the case beyond what any single argument achieves—though they are not all evidentially independent of one another, and [the convergence argument](/topics/the-convergence-argument-for-dualism/) finds the real force comes from across argument clusters rather than from the count.
+Dualism holds that reality contains more than just physical matter—consciousness or mind is something distinct that cannot be fully explained by physics. As a position within [philosophy of mind](/concepts/philosophy-of-mind/), dualism is the first of The Unfinishable Map's [five foundational commitments](/tenets/#dualism). Eight arguments support the position: the [explanatory-gap](/concepts/explanatory-gap/) between physical description and subjective experience, the conceivability of [philosophical-zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) (Mary's Room), the intrinsic character of [qualia](/concepts/qualia/), [Kripke's modal argument](/concepts/kripke-a-posteriori-necessity-argument/), Nagel's subjectivity argument, the [unity of consciousness](/concepts/binding-problem/), and [intentionality](/concepts/intentionality/); the [argument-from-reason](/topics/argument-from-reason/) adds a self-defeat charge. Their convergence from different starting points strengthens the case beyond what any single argument achieves—though they are not all evidentially independent, and [the convergence argument](/topics/the-convergence-argument-for-dualism/) finds the real force comes from across argument clusters rather than from the count.
 
 The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question, and the arguments supporting it continue to develop alongside renewed attention to the limits of physicalism.
 
@@ -95,7 +95,7 @@ A second axis cross-cuts the substance/property distinction: how much ontologica
 
 ## Arguments for Dualism
 
-Eight arguments support the dualist conclusion, converging from different starting points. How far they are evidentially independent of one another—and so how much the convergence actually adds—is assessed under [The Convergence](#the-convergence) below.
+Eight arguments support the dualist conclusion, converging from different starting points, and the argument from reason presses a self-defeat charge. How far the eight are evidentially independent of one another—and so how much the convergence actually adds—is assessed under [The Convergence](#the-convergence) below.
 
 ### The Explanatory Gap
 
@@ -135,7 +135,7 @@ The [argument-from-reason](/topics/argument-from-reason/) targets physicalism fr
 
 ### The Convergence
 
-No single argument establishes dualism conclusively, and the eight are not evidentially independent of one another. The explanatory gap, the zombie argument, Mary's Room, and Kripke's modal argument all press the same gap between physical description and phenomenal character, and the modal ones share the inference from conceivability to possibility; if that common starting point fails, they fail together rather than confirming one another. As [the convergence argument](/topics/the-convergence-argument-for-dualism/) works out in detail, arguments within a single cluster contribute little more than one strong argument from that cluster, and the genuine force comes from *across* clusters—phenomenal intuition, the explanatory gap, and the unity prong resist physical explanation by routes that do not reduce to one another. What the agreement supports is a case substantially stronger than any single argument, not an overwhelming one. The convergence extends across philosophical traditions: [Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) arrive at irreducibility despite disagreeing about substance, self, and causation, though only partly independently (the Islamic strand shares Neoplatonist sources). Their agreement is on irreducibility, not dualism; preferring dualism to other irreducibility-respecting views is the Map's own selection.
+No single argument establishes dualism conclusively, and the eight are not evidentially independent of one another. They form three clusters: phenomenal intuition (Mary's Room, qualia, Nagel), the explanatory gap (the gap itself, zombies, Kripke), and structural features (unity, intentionality). The second cluster presses one gap between physical description and phenomenal character, and its modal members share the inference from conceivability to possibility; if that common starting point fails, they fail together rather than confirming one another. As [the convergence argument](/topics/the-convergence-argument-for-dualism/) works out, arguments within a single cluster contribute little more than one strong argument from that cluster, and the genuine force comes from *across* clusters—phenomenal intuition, the explanatory gap, and the unity prong resist physical explanation by routes that do not reduce to one another. What the agreement supports is a case substantially stronger than any single argument, not an overwhelming one. The convergence extends across philosophical traditions: [Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) arrive at irreducibility despite disagreeing about substance, self, and causation, though only partly independently (the Islamic strand shares Neoplatonist sources). Their agreement is on irreducibility, not dualism; preferring dualism to other irreducibility-respecting views is the Map's own selection.
 
 ## Physicalist Responses and Their Limits
 
@@ -197,7 +197,7 @@ The cumulative case would be undermined if: consciousness were fully explained f
 
 Dualism is the Map's first foundational commitment—the [Dualism tenet](/tenets/#dualism) states that consciousness is not reducible to physical processes.
 
-This commitment is grounded in the convergence of arguments: from different starting points—conceivability, knowledge, qualia, modality, subjectivity, unity, intentionality—they reach the same conclusion. Each form of [materialism](/concepts/materialism/) the Map has examined leaves a serious explanatory debt at the gap between physical description and subjective experience.
+This commitment is grounded in arguments that converge from different starting points—the explanatory gap, conceivability, knowledge, qualia, modality, subjectivity, unity, intentionality—on irreducibility; causal efficacy is [argued separately](/arguments/epiphenomenalism-argument/). Each form of [materialism](/concepts/materialism/) the Map has examined leaves a serious explanatory debt at the gap between physical description and subjective experience.
 
 Dualism's most consequential bearing may be ethical: irreducible consciousness motivates the view that [phenomenal value](/topics/phenomenal-value-realism/)—the felt badness of suffering, the felt goodness of joy—is irreducible too. Physicalists can hold phenomenal value realism, and a dualist could still be an expressivist.
 

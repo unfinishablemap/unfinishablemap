@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 10:32:42+00:00
+ai_modified: 2026-10-23 10:41:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 10:32:42+00:00
+lastmod: 2026-10-23 10:41:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:42 - refine-draft
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Task**: P1, argument counts and clusters (todo index 3065, sixth of seven dualism tasks). Review file: `reviews/outer-review-2026-10-23-claude-fable-5-1.md` (§2.2, Part 4 fixes 2–3). Every OLD string was re-grepped at the live file after the 06:12Z, 06:29Z, 06:43Z, 06:59Z and 10:33Z passes; each was found once.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted refine against the task's OLD strings)
+- **Count option**: the convergence page's eight, plus the argument from reason as a further argument with a different structure. Why: `topics/the-convergence-argument-for-dualism` tabulates and clusters exactly these eight (L62–83) and never scores the argument from reason. The hub's description ("Eight arguments converge") stays true. L130 already names it a "self-defeat charge … serious but not decisive", so naming it a self-defeat charge at L70/L94 makes no new claim about its independence.
+- **Changes**:
+  - L70 (lead): the list gains "the intrinsic character of [qualia](/concepts/qualia/)"; OLD "[intentionality](/concepts/intentionality/), and the [argument-from-reason](/topics/argument-from-reason/)." → NEW "and [intentionality](/concepts/intentionality/); the [argument-from-reason](/topics/argument-from-reason/) adds a self-defeat charge."; "not all evidentially independent of one another" → "not all evidentially independent" (−3, to pay for the change).
+  - L94: OLD "Eight arguments support the dualist conclusion, converging from different starting points. How far they are" → NEW "…converging from different starting points, and the argument from reason presses a self-defeat charge. How far the eight are".
+  - L134 (clusters): OLD "The explanatory gap, the zombie argument, Mary's Room, and Kripke's modal argument all press the same gap … and the modal ones share" → NEW "They form three clusters: phenomenal intuition (Mary's Room, qualia, Nagel), the explanatory gap (the gap itself, zombies, Kripke), and structural features (unity, intentionality). The second cluster presses one gap … and its modal members share". This matches convergence page L79–83, so the later "across clusters—phenomenal intuition, the explanatory gap, and the unity prong" sentence no longer contradicts it. "works out in detail" → "works out" (−2). The verdict "substantially stronger than any single argument, not an overwhelming one" is unchanged, and so is the 06:12Z cross-traditional sentence.
+  - L196 (optional item 3, applied): OLD "This commitment is grounded in the convergence of arguments: from different starting points—conceivability, … intentionality—they reach the same conclusion." → NEW "This commitment is grounded in arguments that converge from different starting points—the explanatory gap, conceivability, knowledge, qualia, modality, subjectivity, unity, intentionality—on irreducibility; causal efficacy is [argued separately](/arguments/epiphenomenalism-argument/)." The list is now the same eight. The 06:29Z second sentence is untouched. The efficacy clause costs +1 beyond the list fix, because the rephrase pays for it. L202 still carries the Bidirectional Interaction tenet as the source of efficacy.
+- **Rejected item**: not implemented, by instruction: the demotion of the convergence claim to "coherence-only" and the one-deep-line count. The reviewer's alternative cluster map (Part 4 fix 3) was also not adopted; the Map's own convergence-page map governs.
+- **Engagement classification** (editor-internal): no opponent engagement was changed. The edits concern count and cluster consistency, plus scoping what the arguments deliver (irreducibility, not efficacy).
+- **Calibration**: no epiphenomenalism concession. The text does not say the arguments support epiphenomenal dualism, only that efficacy is argued elsewhere. Tenet 3 fits without evidencing. The 06:29Z L130 "serious but not decisive" framing is consistent with the new "self-defeat charge" wording at L70/L94. Pronoun checks: "Their convergence" (L70) → the eight; "the eight" (L94) is made explicit because the reason clause comes between; "They form" (L134) → the eight; "its modal members"/"they fail together" → the second cluster. Zero "load-bearing"; zero "This is not X. It is Y."
+- **Length**: analyze_length 3,139 → 3,169 (+30, exactly the +30 budget). Split before: prose 2,629 / Further Reading 59 / References 451. After: prose 2,659 / Further Reading 59 / References 451. Concepts hard 3,500 (gate `>=`): headroom (hard−1−count) 360 → 330. The one remaining sibling (Hasker/actuality, +35 with the −2 tenet-check add-on) fits.
+- **Spillover (not fixed, out of scope)**: `positions/arguments-for-dualism` [P-D1](/positions/arguments-for-dualism/#p-d1) *Asserts* repeats the old grouping ("The explanatory gap, the zombie argument, Mary's Room, and Kripke's modal argument all press the same gap…", then "phenomenal intuition, the explanatory gap, and at least the unity prong" as separate routes). It has the same internal mismatch with the convergence page's cluster map and is a candidate positions-evolve update.
+- **Published**: yes
 
 ## 10:33 - refine-draft
 - **Status**: Success
