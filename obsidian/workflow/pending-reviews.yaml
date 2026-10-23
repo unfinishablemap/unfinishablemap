@@ -343,9 +343,9 @@
   prompt_summary: 'Audit concepts/dualism: hostile referee, 5+ weaknesses w/ 2020-25
     cites'
   target_filename: outer-review-2026-10-23-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-23T04:57:21.457926+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for

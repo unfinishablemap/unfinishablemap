@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T04:48:12+00:00
+ai_modified: 2026-10-23T05:04:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:04 - collect-gemini-review + outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro with Deep Research ("Pro High"). Commissioned 04:27Z. On the first poll at 04:53Z the report was finished: "I've completed your research", no stop control, no "Creating your report…". There was no stall, unlike 10-22. Subject reused: `concepts/dualism` ("Audit dualism").
+- **File**: [[reviews/outer-review-2026-10-23-gemini-3-1-pro]] (model slug `gemini-3-1-pro`, per the driver's rename)
+- **Extraction**: js-dom from the h1-bearing `.markdown-main-panel` (25,793 chars of text, 26,367 as markdown). It was read in 28 chunks of 950, because the tool truncates at about 1,000. A whitespace-stripped polynomial checksum matched the page exactly (22,716 chars). The 54 citation chips have no anchors; their `sup[data-turn-source-index]` markers are kept as [n] and mapped one-based onto the 22 "Sources used in the report" listed in the file. The 44 read-but-unused sources were omitted.
+- **Claims verified**: 6 groups verified and 9 disputed; 5 DOIs plus Papineau and Ball checked at Crossref, and the Mediano abstract at OpenAlex.
+  - Scope drift: most of Gemini's quotes come from other pages (the Penrose, entanglement-binding and post-decoherence pages) or from the changelog. Three of its "quotes" match nothing in the corpus.
+  - Rejected: Donadi "ignored" (20 live files cite it, and the quoted Penrose page discusses it at L44–52); Warren "fatal refutation" (fixed 07-22 after the 07-20 Gemini review, with a Stability Note); Kerskens as "single pillar" (the page ranks it the weaker tier); "Papineau (2021)" (the source is the 2009 Oxford Handbook chapter); Cogitate read as confirming classical localisation; the parsimony posit list (the Map is Born-preserving, and the 07-19 Stability Note stands); PP (declined upstream, fifth recurrence).
+  - New and verified: `concepts/entanglement-binding-hypothesis` asserts "Classical physics cannot produce ontological wholes" with no engagement of IIT or synergy (body grep 0; never raised in 7 deep reviews). Mediano et al. (2022) is overstated by Gemini, but the omission is real.
+- **High-value findings**: 1 new, plus 4 convergent with ChatGPT and Claude. All three reviewers now flag the "decisive" argument from reason, the bare seeming regress and PCS. Kripke's restraint and Papineau's closure argument are each flagged by two or more. The Born-preserving efficacy dilemma is new to the hub: the hub never links `apex/born-preserving-causal-efficacy`.
+- **Tasks generated**: 1 (P2 refine-draft on `concepts/entanglement-binding-hypothesis`, +70). Convergence notes were appended to 4 existing dualism tasks: the P1 Revelation, P1 physicalist-responses and P1 interaction tasks, and the P2 Hasker task (cross-reference only). The interaction-task note adds a +20 signpost to the Born-preserving efficacy apex, with the Papineau date corrected.
 
 ## 04:48 - collect-claude-review + outer-review
 - **Status**: Success
