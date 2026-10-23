@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 14:24:14+00:00
+ai_modified: 2026-10-23 15:02:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 14:24:14+00:00
+lastmod: 2026-10-23 15:02:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:02 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the felt-moment wing: `topics/peritraumatic-dissociation` (3,086; 913 headroom), `topics/immediate-emotions-and-the-affect-heuristic` (3,332; 667) and `topics/brain-stimulation-and-the-witness-mode` (3,088; 911). Coverage was counted on content across 612 `optimistic-*` files and 724 live topics/concepts pages, with heading and "Content reviewed" hits as targets (control: the 10-22 location-wing pages score 2–3). The brief's premise that brain-stimulation is lowest no longer holds: it has 7 mentions and 0 targets, while six 10-22 creations, eligible from 00:00Z, have 1–4 mentions and 0 targets. I took the two of those that join brain-stimulation (2 and 3 mentions) plus brain-stimulation itself.
+- **Findings**:
+  - Shared shape: each page's verdict turns on how a state felt at the moment, and each finds it recalled (peritraumatic L70), inferred (immediate-emotions L73) or unmeasured (brain-stimulation L86). The three pages had no links among them.
+  - Source misread (checked at PMC13156312 this run): brain-stimulation L82 reads Pons et al.'s FFMQ non-judging and non-reactivity, which the authors call "These traits", as the state attitude separating the witness from depersonalisation.
+  - Calibration: the brain-stimulation lede's absence claim is unscoped, though its research note ran no WebSearch and flags possible misses (L33, L294); its description omits "on experience" despite L53's sham-separable connectivity result. L78/L114 say a felt-capacity report "bears on" Tenet 3 (tenets L93; tenet-check-10-05 Note 7, carried 18 days). Peritraumatic L72 "is principled" outruns a twice-hedged source. Immediate-emotions L85 "push risk" is unscoped against its own L32/L101.
+  - Priority List: 4 items, +94 words over four files, and every host stays below its hard gate: brain-stimulation +86 (6 sub-edits including the description; 825 headroom after), peritraumatic +1 plus a zero-word pipe (return link), immediate-emotions +1, and an optional off-wing apex fix (+6; `testing-the-map-from-inside` L90 "confirms the phenomenology").
+  - New territory: (1) measuring the witness attitude, state against trait decentering and non-reactivity scales (live "FFMQ" 0, "Toronto Mindfulness" 0, "Decentering and related constructs" 0; control "decentering" 3); (2) tonic immobility and the freeze response (live 2, both treating it as the rival mechanism; "freeze response" 0; control "locked-in" 13). Verification targets for both resolved at Crossref.
+- **Output**: [optimistic-2026-10-23-felt-moment-wing](/reviews/optimistic-2026-10-23-felt-moment-wing/)
 
 ## 14:24 - refine-draft
 - **Status**: Success
