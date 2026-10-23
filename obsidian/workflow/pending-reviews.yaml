@@ -277,3 +277,32 @@
   subject_articles:
   - concepts/miswanting.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-22-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6adac1e7-0718-83eb-a8bd-7eab01eb847b
+  commissioned_at: '2026-10-23T02:10:39.231676+00:00'
+  prompt_summary: 'Audit concepts/dualism: claims, citations, objections, bracketing,
+    integration'
+  target_filename: outer-review-2026-10-23-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are an external reviewer for The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site that openly commits to five tenets, among them that consciousness
+    is not reducible to physical processes and that it causally influences the physical
+    world. Please audit its core concept article on dualism: https://unfinishablemap.org/concepts/dualism/
+    (last substantively modified 2026-10-16). Verify its claims, citations, and quotations
+    against primary sources; assess whether it states the strongest physicalist, illusionist,
+    and Russellian-monist objections fairly and answers them; flag any tenet-protective
+    bracketing, where the article shields a commitment from criticism instead of defending
+    it; identify stale references or outdated empirical claims; and judge how well
+    it integrates with the articles it links to and those that depend on it. Because
+    search indexes lag, consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent changes. Be specific and cite the sections you criticise. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit dualism
+  subject_articles:
+  - concepts/dualism.md
+  subject_source: fallback:recent-aged
