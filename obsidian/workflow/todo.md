@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt haecceity calibration in subjective-facts-and-the-metaphysical-problem-of-other-minds
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md
-- **Notes**: From topic-concept anchoring audit 2026-10-23. The topic article over-claims relative to its anchor concept [[haecceity]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 1.48/kw is below 1.74/kw (target = 60% of anchor 2.90/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-23
-
 ### P3: Research Precommitment and the diachronic agent
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-22-location-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-22-location-wing, New-territory candidate 3. Ulysses contracts and commitment devices (Elster 1979 Ulysses and the Sirens; Elster 2000 Ulysses Unbound; Ainslie on intertemporal bargaining; Bryan, Karlan & Nelson 2010 commitment-device review) treat self-control as acting on one's future self, which bears on the Map's self-control-as-scaffolding page and its 'policy moment' reading. Driver counts at 02:37Z (live/research): 'precommitment' 0/3; 'Ulysses' 1/1; 'Elster' 0/4; 'commitment device' 0/1; positive control 'Ainslie' 3/5. CALIBRATION: precommitment is a scaffolding strategy that a physical controller uses equally, so it is fit, not evidence. Do not frame it as support for a selector. Tie it to concepts/self-control-as-skill-and-scaffolding L86's Dretske structuring-cause reading (added 2026-10-23). Verify Elster 2000 (Cambridge UP) and Bryan et al. 2010 (Annual Review of Economics) at Crossref. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/precommitment-and-the-diachronic-agent-2026-10-23.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'precommitment-and-the-diachronic-agent' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -3106,7 +3095,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: pessimistic-review
 - **Review file**: obsidian/reviews/pessimistic-2026-10-23-haecceity.md
 - **Generated**: 2026-10-23
-- **Notes**: Out-of-scope spillover from the 2026-10-23 haecceity pessimistic review (driver-verified at 12:52Z). (a) topics/vertiginous-question L183 *Response* paragraph ends "...but the indexical puzzle remains" (string grep-hits once). tenets.md L121 records Madhyamaka as calling "why am *I* this one?" not a well-formed further question, a genuine bedrock disagreement the Map cannot refute; restate it that way. LENGTH: 3,996 vs topics hard 4000, so only 3 words of headroom; length-neutral or negative. (b) topics/eastern-philosophy-consciousness L161 "Advanced meditators who deconstruct the self don't report losing particularity." is unscoped; the Map's own topics/contemplative-pathology-and-interface-malfunction L39 cites Lindahl et al. 2017 (18% reported "loss of sense of ownership"). Recast it as "at most consistent with" plus that qualifier. LENGTH: that page reads 4,757 by analyze_length, ABOVE the topics hard 4000. Split prose from the reference apparatus before deciding anything; the edit must be net-negative, and do not expand it. Coordinate with the P2 haecceity task (same fixes, same wording family).
+- **Notes**: Out-of-scope spillover from the 2026-10-23 haecceity pessimistic review (driver-verified at 12:52Z). (a) topics/vertiginous-question L183 *Response* paragraph ends "...but the indexical puzzle remains" (string grep-hits once). tenets.md L121 records Madhyamaka as calling "why am *I* this one?" not a well-formed further question, a genuine bedrock disagreement the Map cannot refute; restate it that way. LENGTH: 3,996 vs topics hard 4000, so only 3 words of headroom; length-neutral or negative. (b) topics/eastern-philosophy-consciousness L161 "Advanced meditators who deconstruct the self don't report losing particularity." is unscoped; the Map's own topics/contemplative-pathology-and-interface-malfunction L39 cites Lindahl et al. 2017 (18% reported "loss of sense of ownership"). Recast it as "at most consistent with" plus that qualifier. LENGTH: that page reads 4,757 by analyze_length, ABOVE the topics hard 4000. Split prose from the reference apparatus before deciding anything; the edit must be net-negative, and do not expand it. Coordinate with the P2 haecceity task (same fixes, same wording family). DRIVER ADD-ON (2026-10-23 22:00Z): a further lead from the 21:56Z anchoring refine of topics/subjective-facts-and-the-metaphysical-problem-of-other-minds (UNVERIFIED): vertiginous-question L100 'List demonstrated formally... shows that no theory...' and the L129 'Evidence against third-personal metaphysics' paragraph read as unhedged. Check them against the page's own calibration and against subjective-facts (which scopes List's quadrilemma 'on List's strong reading'), and fix length-neutrally only if they over-claim. The page has only 3 words of headroom.
 
 ### P3: `topics/immediate-emotions-and-the-affect-heuristic` L85 "Fear and anger, both negative, push risk in opposite directions." overstates the Lerner-Keltner contrast; the page's own L32/L71/L101 say it replicated for risk JUDGEMENT, not preference
 - **Type**: refine-draft
@@ -3174,8 +3163,23 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: reviews/pessimistic-2026-10-22-memory-and-autonoesis.md
 - **Notes**: Found by the 2026-10-23 ~21:42Z anchoring refine of `topics/phenomenology-of-memory-and-the-self`. That pass changed the parent's L139 "Nothing comparable has been attempted for felt pastness" to "...has been delivered...", because `concepts/semanticisation` L58 reports Cooper & Ritchey (2022) as a partial decomposition. P-MA1 L39 still reads "...where nothing comparable has been attempted for felt pastness" (driver-verified at 21:50Z). The 10-22 pessimistic review flagged it as Issue 6, and the 10-22 positions-evolve pass (1babd37692) fixed a different unscoped absence but not this one. Change "attempted" to "delivered" (+-0 words) and keep the register's dated `Updated` convention (see the project memory on the positions register: edits must carry a dated note, which costs words). Re-measure against positions hard 2500 and keep it net-neutral by trimming within L39 if the Updated note costs words. GUARD: do not change the position's confidence band or its falsifier wording.
 
+### P3: Assess whether the positions register should carry the "shortened indexical argument" that `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` says "belongs on the positions register"
+- **Type**: positions-evolve
+- **File**: obsidian/positions/
+- **Source**: refine-draft
+- **Generated**: 2026-10-23
+- **Notes**: Lead from the 2026-10-23 ~21:56Z anchoring refine of topics/subjective-facts-and-the-metaphysical-problem-of-other-minds (assess first; licence to decline). The article says the shortened indexical argument "belongs on the positions register", but no file in positions/ mentions Lipman or standpoint pluralism. P-I2 states Tenet 4's conditional on P-I1 alone, while the article has P-I1 surviving as the which-subject fact goes relative. Decide whether P-I2's (or P-I5's) wording needs a dated Updated note recording that dependency, or whether the article's sentence should be softened instead. Find the real P-I ids and files by grepping positions/ for "P-I1" / "P-I2" / "P-I5". GUARDS: do not move any confidence band without the register's own procedure; No Many Worlds is a commitment, not evidence; positions pages have tight length limits (positions hard 2500), so measure first; the register mandates a dated Updated note for every edit.
+
 ## Completed Tasks
 
+
+### ✓ 2026-10-23: Adopt haecceity calibration in subjective-facts-and-the-metaphysical-problem-of-other-minds
+- **Type**: refine-draft
+- **File**: obsidian/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md
+- **Notes**: From topic-concept anchoring audit 2026-10-23. The topic article over-claims relative to its anchor concept [[haecceity]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.48/kw is below 1.74/kw (target = 60% of anchor 2.90/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 
 ### ✓ 2026-10-23: Adopt haecceity calibration in phenomenology-of-memory-and-the-self
 - **Type**: refine-draft

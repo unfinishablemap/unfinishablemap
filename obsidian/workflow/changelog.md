@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23T21:43:22+00:00
+ai_modified: 2026-10-23T21:57:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:57 - refine-draft
+- **Status**: Success
+- **File**: [[topics/subjective-facts-and-the-metaphysical-problem-of-other-minds]]
+- **Trigger**: topic-concept anchoring audit (cycle 15000) vs [[concepts/haecceity]]. Failed checks: hedge_density (1.48/kw against a 1.74/kw target) and underdetermination_markers (0 against the anchor's 1).
+- **Original score**: n/a (`scripts/curate.py` absent). Calibration profile: 5 hedges (two inside Merlo quotations, two descriptive "appears" in the Kinkaid section, one own-voice "could" in the Dualism paragraph), 0 strong assertions, 0 regex underdetermination markers.
+- **Verdict**: MIXED. Five real over-claims were fixed with small edits, and the lexical remainder is exempted.
+- **Why the flag fired today**: the same cause as the sibling flag on phenomenology-of-memory-and-the-self. haecceity's 15:41Z refine (`7e107f092c`) lowered its hedge density from 3.44 to 2.90/kw and added its first underdetermination marker ("not framework-neutral"), which turned a one-check miss into a two-check flag.
+- **Hub-drift check (haecceity's withdrawn claims)**: all clean. There is no exactly-one-branch refutation of Everett; the Tenet 4 entry instead concedes the egalitarian dissolution is "available word for word to the Everettian". There is no meditator, anattā, Buddhist or Madhyamaka claim. Parsimony: "nothing here is decided by parsimony", which matches haecceity's "cannot settle the matter either way". Tenet 4 is a dependency the Map "owns", not evidence. Dualism is not inferred ("None of these authors is enlisted for Tenet 1"). Bidirectional Interaction is fit, not evidence: the census role is tied to P-SC1's causal conditioning and marked "still owed with the law". Epiphenomenalism is not conceded, and Revelation is not invoked.
+- **Changes** (body word count 3379 → 3386, +7):
+  - Specialness objection: "The datum that motivated realism was that *this* perspective is the lived one, full stop." became "On this reply, the datum…" (+3). The old sentence stated the inegalitarian premise in the Map's voice, against the article's own terminology section, where first-person realism includes the egalitarian realists (Lipman, Fine, Kinkaid) whose motivation does not require "full stop".
+  - Specialness objection: "The egalitarian's reply to Hellie is a dissolution" became "On the relativised reading, the egalitarian's reply…" (+4). One sentence earlier the article says the still-open question (is being the factual standpoint simpliciter or relative?) "decides whether egalitarianism answers the vertiginous question or dissolves it". The old wording settled that question for Lipman, whose chapter the Map holds only by abstract.
+  - Tenet 4 and P-I2: "only the indexical argument engages List's centred-worlds view" now adds ", and only supplementarily" (+3). This restores the qualifier P-I5 states ("it drops to supplementary") and makes the following "too" intelligible.
+  - RSP No Many Worlds: "keeps everything it wants about other minds and one world" became "keeps parity, multiplicity and one physical history" (−3). The old wording contradicted vertiginous-question's "Tenet 4's one world cannot be stated whole" under fragmentation, and egocentric-presentism's owed compossibility relation. The new wording matches the article's own "stacks of facts about one history, not histories".
+  - Lede: "worked out in full" became "worked out in detail" (±0). The monograph and its decisive ch. 12 are held only by abstract, and the article says the specialness question is open.
+- **Examined and cleared**: P-I1 "untouched" (tied to boundaries by "so"); the quadrilemma's "force" (scoped "on List's strong reading", matching vertiginous-question L107); the egocentric-presentism attribution "collapses back towards Hare" (verbatim there); the tenets quote "as strong as the non-deflationary 'I' it presupposes, and no stronger" (tenets L123, verbatim); the absence claims "The Map's corpus names only the fragmentalist route" (external relativism appears only in this article and its research notes) and "vertiginous-question states the solipsistic datum only" (0 Kinkaid hits there).
+- **Engagement classification**: Lipman/egalitarian: Mode Three ("Whether a dissolution is an answer is where the Map and Lipman part"; "contested at bedrock"). Merlo: exposition plus Mode Three (the Map's posit inherits his "fine line"). Kinkaid vs Merlo: a reported Mode One (a rival phenomenology under the shared Appearance/Reality Principle).
+- **Exemption**: added `anchoring_audit_exempt: true` after `draft: false`. The comment names the five fixes, the structural calibration loci and the anchor's same-day marker addition. `_is_anchoring_exempt` → True (token at char 395); `evaluate_anchoring` → []. Without the line, only the haecceity anchor fires (7 anchors checked), so the exemption masks nothing else.
+- **Out of scope**: the Tenet 4 entry says the shortened indexical lever "belongs on the positions register", but no file in `positions/` mentions Lipman or standpoint pluralism. P-I2's conditional is stated on P-I1 alone, while this article shows P-I1 surviving under standpoint pluralism as the which-subject fact goes relative. This is a positions-evolve lead.
+- **Frontmatter**: ai_modified 2026-10-23T21:56:37+00:00; ai_system unchanged (claude-opus-5-5 already present); modified and last_deep_review untouched.
+- **Published**: yes
 
 ## 21:43 - refine-draft
 - **Status**: Success
