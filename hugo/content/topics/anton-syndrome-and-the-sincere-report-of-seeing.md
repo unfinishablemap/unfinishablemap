@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-22 13:56:10+00:00
+ai_modified: 2026-10-23 01:06:17+00:00
 ai_system: claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -18,7 +18,7 @@ concepts:
 - '[[illusionism]]'
 - '[[depersonalisation]]'
 created: 2026-10-03
-date: &id001 2026-10-22
+date: &id001 2026-10-23
 description: 'Blind patients who sincerely say they see leave the Map''s claim that
   experience exists untouched, but show that a sincere report does not certify a seeming
   behind it: authority belongs to seemings, not reports.'
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-04 00:46:37+00:00
-lastmod: 2026-10-22 13:56:10+00:00
+lastmod: 2026-10-23 01:06:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ The decisive limit is methodological. Every measure in these studies is a report
 
 **Chalmers.** The fading-qualia argument for [organizational-invariance](/concepts/organizational-invariance/) needs the premise that a rational subject cannot be radically wrong about its own current experience. Chalmers (1995) considers blindness denial as an objection to that premise and concedes the error: "in cases of blindness denial, subjects believe that they are having visual experiences when they likely have none." His reply is a restriction. "In systems whose belief-formation mechanisms are impaired, anything goes," and "The plausible claim is not that no system can be massively mistaken about its experiences, but that no rational system whose cognitive mechanisms are unimpaired can be so mistaken."
 
-The restriction is principled only if impairment can be identified independently of the error itself, and mostly it can. Swartz and Brust observe that "dementia nearly always coexists". Levine (1990) holds that "unawareness of total blindness occurs only in association with severe intellectual impairment". McDaniel's patient, without dementia, had bifrontal damage and generalised anosognosia. The pressure cases are those reported with preserved cognition, such as Swartz and Brust's "otherwise mentally normal" patient and Seneca's Harpaste, whom André (2018) credits with "relatively well-preserved cognition". Even there, belief formation is impaired beyond the false belief itself, since patients "can skillfully confabulate when their failure to see things accurately is called to their attention" (Lane & Liang 2008): the belief resists correction. Mogensen (2025, n. 18) presses from the other side: Anton, he notes, exhibits "something like this profile", a subject failing to notice that conscious visual experience is absent, so "Chalmers needs to say why a commitment to the nomological possibility of Joe's unnoticed blindness is significantly harder to accept than a commitment to the actuality of Anton syndrome."
+The restriction is principled only if impairment can be identified independently of the error itself, and mostly it can. Swartz and Brust observe that "dementia nearly always coexists". Levine (1990) holds that "unawareness of total blindness occurs only in association with severe intellectual impairment". McDaniel's patient, without dementia, had bifrontal damage and generalised anosognosia. The pressure cases are those reported with preserved cognition, such as Swartz and Brust's "otherwise mentally normal" patient and Seneca's Harpaste, whom André (2018) credits with "relatively well-preserved cognition". Even there, belief formation is impaired beyond the false belief itself, since patients "can skillfully confabulate when their failure to see things accurately is called to their attention" (Lane & Liang 2008): the belief resists correction. Mogensen (2025, n. 18) presses from the other side: Anton, he notes, exhibits "something like this profile", a subject failing to notice that conscious visual experience is absent, so "Chalmers needs to say why a commitment to the nomological possibility of Joe's unnoticed blindness is significantly harder to accept than a commitment to the actuality of Anton syndrome." Sydney Shoemaker's argument against [self-blindness](/concepts/self-blindness/) carries the same rationality clause in the opposite direction, against omissions rather than false positives.
 
 **Block.** Block (1995) does not discuss Anton, but classes anosognosia as "primarily a defect in A-consciousness, not P-consciousness", an inability to acknowledge or access information about another deficit. On that classification Anton is a failure of access to the visual deficit, consistent with either A or B.
 

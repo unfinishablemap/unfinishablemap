@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-09
-ai_modified: 2026-10-22 13:56:10+00:00
+ai_modified: 2026-10-23 01:06:17+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[anti-correlated-metacognitive-signal]]'
 created: 2026-10-09
-date: &id001 2026-10-22
+date: &id001 2026-10-23
 description: Retention, performance-level use, metacognitive access and felt ownership
   come apart at different levels in DID, dissociative amnesia, depersonalisation and
   anosognosia. A four-level discipline for reading clinical dissociation evidence.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-09 18:28:00+00:00
-lastmod: 2026-10-22 13:56:10+00:00
+lastmod: 2026-10-23 01:06:17+00:00
 modified: *id001
 related_articles:
 - '[[evidential-status-discipline]]'
@@ -131,7 +131,7 @@ The Map's interface vocabulary of channels and disconnection maps onto the last 
 The Map proposes five rules for any article that uses these conditions as evidence.
 
 1. **Name the level.** "Severed", "compartmentalised" and "disconnected" each need one: retention, use, access or ownership. For DID the supported claim is about report.
-2. **Read reported absence as evidence about access.** The measures reach report and behaviour. They do not reach experience.
+2. **Read reported absence as evidence about access.** The measures reach report and behaviour. They do not reach experience. A level-3 failure in an otherwise rational subject is the kind of local failure of access Sydney Shoemaker allows, not the [self-blindness](/concepts/self-blindness/) his argument rules out.
 3. **Name the substrate rung**: focal destructive lesion, conventional-MRI abnormality, group-level structural difference, microstructural/neurochemical/connectivity change, or physical cause. The clinical default is "no focal destructive lesion sufficient to explain the symptom". That is the defensible claim for DID, where a group-level structural difference still exists: hippocampal volumes are smaller, and the CA1 reduction correlates with self-reported amnesia (Dimitrova et al. 2023). Every patient in that sample had current or remitted PTSD and the controls had no trauma history, so the difference is [not shown to be specific to DID](/concepts/dissociative-subtype-of-ptsd/#the-hippocampal-question) (Huntjens et al. 2022). Anosognosia sits on a focal destructive lesion.
 4. **Name the source type**: experiment, case series, systematic/narrative review, theoretical model, or scale-development paper. The ownership datum in depersonalisation rests on factor analyses of a self-report scale.
 5. **Keep these levels apart from the four-step chain for dissociation arguments** in [evidential-status-discipline](/project/evidential-status-discipline/): separability, phenomenological reality, mechanistic independence, metaphysical irreducibility. Everything here establishes separability, and ownership adds first-person phenomenological support. Nothing reaches mechanistic independence beyond what production accounts supply, and nothing reaches irreducibility.

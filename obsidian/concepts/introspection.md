@@ -2,9 +2,9 @@
 title: "Introspection and First-Person Methods"
 description: "Our primary access to consciousness is contested. But critiques target causal processes, not phenomenal content—what it's like remains accessible."
 created: 2026-01-15
-modified: 2026-01-15
+modified: 2026-10-23
 human_modified: null
-ai_modified: 2026-10-21T17:48:22+00:00
+ai_modified: 2026-10-23T01:06:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ A self-refutation charge presses on the same fault line: if all introspective ac
 
 ## Introspection as Metacognitive Skill
 
-The [[metacognition|metacognition literature]] illuminates introspection's nature. The *capacity* to introspect (metacognitive skill) differs from the *content* introspected (phenomenal consciousness). Evidence suggests these are dissociable.
+The [[metacognition|metacognition literature]] illuminates introspection's nature. The [[self-blindness|*capacity* to introspect]] (metacognitive skill) differs from the *content* introspected (phenomenal consciousness). Evidence suggests these are dissociable.
 
 This capacity sits above what the Map calls the [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]] — the boundary between procedural metacognition (responding to uncertainty without representing it as a mental state) and declarative metarepresentation (treating one's own cognitive states as objects of thought). Introspection in the philosophically loaded sense requires the declarative side: the subject must hold a state *and* a representation of it as the subject's own. Procedural monitoring can adjust behaviour without yielding any report. This limits which species and systems can be *subjects* of introspective evidence, even where lower-order monitoring is preserved.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-10-14 11:14:37+00:00
+ai_modified: 2026-10-23 01:06:17+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[concepts/self-reference-paradox]]'
 - '[[illusionism]]'
 created: 2026-09-29
-date: &id001 2026-09-29
+date: &id001 2026-10-23
 description: 'Human+AI exploration of truths about oneself that are open to everyone
   but oneself: Moore''s paradox, Fitch''s proof and the phenomenal case where a proved,
   indexical limit reveals what a perspective is.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-14 11:14:37+00:00
+lastmod: 2026-10-23 01:06:17+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,7 +58,7 @@ The positive side is less secure than it looks, which changes what the void can 
 
 [Illusionism](/concepts/illusionism/) presses harder. If phenomenal consciousness is an introspective misrepresentation, then "I am conscious," read as a claim about phenomenal properties, is a false judgment produced by a self-model, and the cogito's phenomenal reading is not self-verifying at all. The positive mirror then collapses to a thinner claim: that some self-modelling process is running. The blindspot itself survives illusionism—a system that judges "I am not conscious" still cannot be validly right in whatever sense of "conscious" the judgment invokes—but the Map's inference from the *asymmetry* to the nature of perspective, developed below, needs the phenomenal reading, and the illusionist declines to grant it. The Map's [phenomenal-consciousness](/concepts/phenomenal-consciousness/) and [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) pages hold this dispute open; this article inherits their openness.
 
-Shoemaker (1995) uses Moore's paradox to argue against the possibility of *self-blindness*, a rational agent with no introspective access to its own states; Kind (2003) defends the inner-sense model against that argument. The dispute fixes the void's shape. If first-person access is constitutive of rational subjecthood, blindspots are the *only* first-person gaps; if it is a contingent faculty, ordinary [self-opacity](/voids/self-opacity/) surrounds them as well.
+Shoemaker (1995) uses Moore's paradox to argue against the possibility of [*self-blindness*](/concepts/self-blindness/), a rational agent with no introspective access to its own states; Kind (2003) defends the inner-sense model against that argument. The dispute fixes the void's shape. If first-person access is constitutive of rational subjecthood, blindspots are the *only* first-person gaps; if it is a contingent faculty, ordinary [self-opacity](/voids/self-opacity/) surrounds them as well.
 
 ## Why This Void Is Different
 

@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 00:36:22+00:00
+ai_modified: 2026-10-23 01:07:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 00:36:22+00:00
+lastmod: 2026-10-23 01:07:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:07 - expand-topic
+- **Status**: Success
+- **Topic**: Self-blindness (Shoemaker), its scope, and why the Map's clinical record supplies no counterexample (guard page)
+- **Output**: [self-blindness](/concepts/self-blindness/)
+- **Word count**: 2,816 by `analyze_length` (`soft_warning`; concepts soft 2,500 / hard 3,500, headroom 683). Split: prose 2,398, Further Reading 45, References 392 (19 entries, two of them self-citations). Prose runs about 100 over the brief's 2,000–2,300 target.
+- **Based on research**: yes, [self-blindness-and-partial-introspective-failure-2026-10-10](/research/self-blindness-and-partial-introspective-failure-2026-10-10/) (8-part outline at §Recommended Next Step)
+- **Cap**: concepts 363/370 by `tools.evolution.state.count_section_files` at 00:52Z and again before creation; `check_slug.py` reported the slug free, and no `self-blindness` file exists in archive/ or hugo/.
+- **Structure** (four-part concept format): a neutral definition lead (1988 p. 31) with the scope (capacity, kind, rational subject; local failures allowed), the contest (Kind, Gertler, Kimble), the Map's verdict and Tenet 1 status; Shoemaker's Argument (broad perceptual model p. 224, George pp. 39/237/36, pain pp. 228–229, perception p. 231, agent/agnostic p. 234); What the Thesis Permits (pp. 25, 71, 80, 93; Parrott p. 6); Critiques and Rival Explanations (Kind and Kimble at abstract strength, Gertler's de dicto point paraphrased via her SEP entry, Shoemaker's realization account, Parrott, Peacocke via Speaks unquoted, Nichols & Stich via SEP); The Clinical Record (five conditions labelled as the Map's, a six-row table, paragraphs on Anton, blindsight, DID, alexithymia); Chalmers's Restriction (same shape, different thesis); The Open Question (SEP dilemma quoted, Gertler unquoted, Anton article as the Map's existing instance); Self-Blindness and Presentation (orthogonal, no new row); Relation to Site Perspective.
+- **Guards**: no clinical case is said to refute or be a counterexample to the thesis; Anton is routed to Chalmers's clause, never said to test Shoemaker. Shoemaker is held as a functionalist rival (p. 24, p. 225) and never cited for the Map's subject, its dualism or Layer 1. Tenet 1 "fits the tenet without evidencing it". No epiphenomenalism concession (Tenet 3: attitudes, not experience reports). Tenet 5 binds the Map's own reasoning only. The absence claim is scoped to "the searches behind this article".
+- **Quotes**: every Shoemaker quote is from an item the note marks [S] (1996 reprint pages 24, 25, 31, 36, 39, 49, 71, 80, 93, 207, 224, 225, 228, 229, 231, 234, 237, 242). The p. 226 definition, Peacocke, Siewert and Shoemaker 2009 are not quoted. Re-verified at source this session: Chalmers (consc.net), SEP Self-Knowledge §3.6 dilemma, Parrott pp. 5–6 and abstract (ORA PDF). TAS-20 is self-report per its PubMed abstract (Bagby et al. 1994). DOIs re-checked at Crossref.
+- **Changes beyond the brief**: corrected four over-readings before publishing (the agent/agnostic one-person condition, Parrott "tends to agree", the p. 242 locator, and the claim that every access failure is a rationality failure, now the p. 71 quote).
+- **Integration**: `topics/anton-syndrome-and-the-sincere-report-of-seeing` L84, +1 sentence after `the actuality of Anton syndrome."` (3,542 → 3,562 / 4,000); `voids/blindspot-void` L57, zero-word pipe on `*self-blindness*` (2,981 → 2,981 / 3,000); `concepts/metacognitive-access-versus-retention` L130 Discipline rule 2, +1 sentence, no dualism reading, stability notes respected (3,293 → 3,319 / 3,500); `concepts/introspection` L125, zero-word pipe on "*capacity* to introspect" (3,491 → 3,491 / 3,500). No edit to phenomenal-authority-and-first-person-evidence.
+- **Not done**: `task_chains.pending_cross_reviews` is not registered, because the expand-topic skill does not instruct it and the driver mints the cross-review. todo.md was not edited.
 
 ## 00:36 - deep-review
 - **Status**: Success
