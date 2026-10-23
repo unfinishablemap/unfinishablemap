@@ -1,14 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 00:09:05+00:00
+ai_modified: 2026-10-23 00:36:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-23'
-lastmod: 2026-10-23 00:09:05+00:00
+lastmod: 2026-10-23 00:36:22+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:36 - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Selection**: selector rank 1 (score 69, 97 days since the last review; seventh review). Four body commits since 07-17. `topics/acquaintance-without-causation` (10-19) moved underneath Argument 4.
+- **Word count**: 3038 → 3188 (+150). Before: prose 2660 / FR 94 / Refs 279. After: prose 2779 / FR 94 / Refs 311. Arguments thresholds are soft 2500 / hard 3500, gate `>=`. Status `soft_warning` before and after; 311 of headroom.
+- **Critical issues addressed**: 7.
+  - (1) L213 quoted the tenet as "selects among superposed neural states", a phrase absent from `tenets.md` since 6ab6a8e01e. Now "commitment to outcome-selection".
+  - (2) Argument 4's causal-knowledge Premise 2 ran unconditionally against the Map's acquaintance repair. One paragraph now concedes Chalmers's (2003) constitution reply, quoted verbatim from the raw preprint at p. 37, and confines Argument 4 to use and voice. The table row and "What Would Challenge" item 2 were aligned.
+  - (3) Regress Response: Option 1's "phenomenal causation in all but name" was boundary-substitution, against the page's own L75 and `illusionism` L139. Now Mode Three, with "given phenomenal realism".
+  - (4) The retired luck framing survived at L54, L153, L165 and L217; all now read "common cause". This includes the L217 paragraph-level Occam rewrite owed by the optimistic-2026-10-16 Opportunity B. Tenet 5 is now symmetric and self-binding.
+  - (5) "Structural brain changes" was removed (Kral et al. 2022 per `concepts/neuroplasticity` L105).
+  - (6) "Magnetoreception demonstrates" became "leading but unsettled model" (`decoherence` L145, tenets L79).
+  - (7) Six reference-list orphans resolved. Huxley 1874, Jackson 1982, Kim 1998 and Robinson are now cited inline. Stapp 2007 and Chalmers 1996 were removed.
+- **Medium issues addressed**: 10.
+  - The lead now front-loads the status, and the description was recalibrated.
+  - L40 "affects nothing" became "no physical effects", per SEP.
+  - The L64 neural-reasoning overclaim and the L71 "any evidence" overreach were fixed.
+  - "Unlike any other form of knowledge" became "unlike perception".
+  - L173 "collapse" became "decohere".
+  - A pre-decoherence scope clause was added, with post-decoherence selection linked and "improper mixture".
+  - The L203 strawman of closure was cut.
+  - L209 "must be" became "press toward".
+  - L211 "provides how ... occurs" became "proposes how ... could occur".
+- **Citation metadata**:
+  - Robinson 2019 became 2023 (SEP substantive revision 15 June 2023).
+  - Huxley gained its venue (*Fortnightly Review* n.s. 16, 555–580).
+  - Luo et al. gained issue (47).
+  - Chalmers 2003 was added (Crossref pp. 220–272).
+- **Verification**:
+  - Crossref: Balog, Loar, Jackson, Luo, Tegmark, Hagan, Reimers, McKemmish, Chalmers 2003.
+  - OpenAlex abstracts: Reimers and McKemmish; direction is correct.
+  - Raw-text greps: Huxley's steam-whistle (Clark Huxley archive) and Chalmers 2003 (pdftotext of consc.net preprint), for the quote, the fn. 16 stance and the direct-phenomenal-belief scope.
+  - The live SEP entry gave the revision date and definition.
+- **Engagements**:
+  - Epiphenomenalist on Argument 4: Mixed (Mode Three on presence).
+  - Illusionist regress: Mode Three (it was boundary-substitution).
+  - Occam: Mode Three, symmetric.
+  - Contemplative: fits Tenet 3 without evidencing it.
+- **Enhancements made**: 6.
+- **Follow-ups (not tasked)**:
+  - Tenets L103 labels the phenomenal-concept strategy "a stronger epiphenomenalist reply", but its proponents are type-B physicalists. Chalmers 2003 fn. 16 separates epiphenomenalism from type-B materialism. The fix is corpus-level and should be decided at tenets first.
+  - `decoherence` L105 says "disputed Hagan's parameter choices" of Reimers and McKemmish 2009, which neither abstract confirms. A body-text check is owed.
+- **Output**: [deep-review-2026-10-23-epiphenomenalism-argument](/reviews/deep-review-2026-10-23-epiphenomenalism-argument/)
 
 ## 00:09 - refine-draft
 - **Status**: Success (optimistic review Priority List item 2: (a), (b), (c) all applied verbatim)
