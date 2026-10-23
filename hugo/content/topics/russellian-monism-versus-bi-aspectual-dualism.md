@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-10-21 08:58:21+00:00
+ai_modified: 2026-10-23 06:59:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 10:55:44+00:00
-lastmod: 2026-10-21 08:58:21+00:00
+lastmod: 2026-10-23 06:59:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map and [Russellian monism](/concepts/russellian-monism/) start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [bi-aspectual dualism](/concepts/bi-aspectual-ontology/) says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — appears to shape everything downstream: whether the [combination problem](/concepts/combination-problem/) arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017), Cutter (2019), and Kind (2015) argues that Russellian monism's middle path between physicalism and dualism is unstable. The broader dual-aspect tradition — Spinoza, Fechner, Pauli-Jung, Bohm — repeatedly approaches the Map's position but stops short of genuine interaction between aspects. On the reading this article develops, the Map's explicit interactionist dualism is the interactionist endpoint the dual-aspect tradition repeatedly declines to take while remaining monist — a reading that turns on whether the instability arguments below succeed, which is itself a contested question in the literature rather than a settled result.
+The Unfinishable Map and [Russellian monism](/concepts/russellian-monism/) start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [bi-aspectual dualism](/concepts/bi-aspectual-ontology/) says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — appears to shape everything downstream: whether the [combination problem](/concepts/combination-problem/) arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017) and Cutter (2019) argues that Russellian monism's middle path between physicalism and dualism is unstable, and Kind (2015) doubts that it breaks free of that divide. The broader dual-aspect tradition — Spinoza, Fechner, Pauli-Jung, Bohm — repeatedly approaches the Map's position but stops short of genuine interaction between aspects. On the reading this article develops, the Map's explicit interactionist dualism is the interactionist endpoint the dual-aspect tradition repeatedly declines to take while remaining monist — a reading that turns on whether the instability arguments below succeed, which is itself a contested question in the literature rather than a settled result.
 
 ## The Shared Foundation
 
@@ -69,7 +69,7 @@ The Map appears to avoid both problems. If individual conscious subjects are fun
 
 ### Instability
 
-Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a parallel conclusion through different reasoning: non-physicalist variants of Russellian monism collapse into dualism, while physicalist variants collapse into standard physicalism. The [Revelation](/concepts/revelation-thesis/) literature adds a third form of the instability: Lin (2025, abstract) argues that the essence-versus-grounds defence of panpsychism under Revelation either fails to genuinely rescue it or rescues physicalism equally. The programme does not break free of the divide it claims to transcend.
+Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a related conclusion through different reasoning: she is inclined to see Russellian monism as "dividing into a version of dualism and a version of physicalism, both of which would be nontraditional in important respects." The [Revelation](/concepts/revelation-thesis/) literature adds a third line of pressure: Lin (2025, abstract) argues that the essence-versus-grounds defence of panpsychism under Revelation either fails to genuinely rescue it or rescues physicalism equally. The programme does not break free of the divide it claims to transcend.
 
 In Cutter's framing, Russellian monism offers no comfortable resting place: one must turn back to physicalism or else march on to [dualism](/concepts/dualism/) (Cutter 2019). The Map has marched on.
 
@@ -141,7 +141,7 @@ The trajectory looks consistent: Spinoza forbids interaction categorically; Fech
 
 This comparison engages all five of the Map's [tenets](/tenets/):
 
-**Dualism**: Both frameworks agree consciousness is irreducible to structural physics. Russellian monism tries to honour this insight without dualism's label; Cutter and Kind argue it cannot. The Map's explicit dualism is the honest expression of what Russellian monism's commitments entail.
+**Dualism**: Both frameworks agree consciousness is irreducible to structural physics. Russellian monism tries to honour this insight without dualism's label. Cutter argues it cannot: its anti-physicalist premises lead on to dualism unless abandoned for physicalism. Kind's pessimism concerns not Russellian monism's truth but whether it can "break free of the dualism/physicalism divide." If Cutter is right, the Map's explicit dualism is the honest expression of what Russellian monism's anti-physicalist commitments entail.
 
 **Minimal Quantum Interaction**: The Map identifies a specific interface — quantum indeterminacy — where consciousness acts. Russellian monism provides no comparable mechanism. The claim that quiddities "play indispensable roles in physical causation" (Alter & Pereboom 2023) remains schematic.
 

@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-10-02
 human_modified: null
-ai_modified: 2026-10-23T06:43:42+00:00
+ai_modified: 2026-10-23T06:59:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -181,9 +181,9 @@ Perhaps "consciousness" doesn't refer to anything real. Eliminativism about all 
 
 ## Why Dualism, Not Idealism or Russellian Monism?
 
-The anti-materialist arguments are also claimed by [[idealism]]—particularly analytic idealism, which holds consciousness is the sole ontological primitive. Three reasons favour dualism. Physical reality resists us in ways suggesting genuine ontological independence. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] requires two genuinely distinct domains for cross-domain causation to be meaningful. And idealism faces its own combination problem: explaining how one universal consciousness fragments into billions of apparently isolated subjects. See [[idealism]] and [[analytic-idealism-and-mind-centric-metaphysics|analytic idealism]] for detailed treatment.
+The anti-materialist arguments are also claimed by [[idealism]]—particularly analytic idealism, which holds consciousness is the sole ontological primitive. Two reasons favour dualism. Physical reality resists us in ways suggesting genuine ontological independence, though Kastrup (2019) traces that resistance to dissociation within universal consciousness. And idealism faces its own combination problem: explaining how one universal consciousness fragments into billions of apparently isolated subjects. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] requires two distinct domains, but that excludes idealism from the Map's framework without showing it false. See [[idealism]] and [[analytic-idealism-and-mind-centric-metaphysics|analytic idealism]] for detailed treatment.
 
-[[russellian-monism|Russellian monism]] presents a subtler challenge: it agrees that physics is structurally incomplete and that consciousness is irreducible, then claims consciousness *is* the intrinsic nature of matter—monism wearing dualist insights. But Cutter (2019) and Kind (2015) argue the position is unstable: the same anti-physicalist arguments that motivate Russellian monism push it toward outright dualism. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] is the stable endpoint Russellian monism approaches but cannot occupy. See [[russellian-monism-versus-bi-aspectual-dualism]] for the full comparison.
+[[russellian-monism|Russellian monism]] presents a subtler challenge: it agrees that physics is structurally incomplete and that consciousness is irreducible, then claims consciousness *is* the intrinsic nature of matter, which offers mental causation without breaching causal closure. Cutter (2019) argues the position is unstable: the anti-physicalist arguments that motivate it lead on to dualism unless abandoned for physicalism. Kind (2015) doubts only that Russellian monism lets us "break free of the dualism/physicalism divide": she inclines to see it as "dividing into a version of dualism and a version of physicalism" and does not argue it is false. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] is the interactionist endpoint Russellian monism declines to take. See [[russellian-monism-versus-bi-aspectual-dualism]] for the full comparison.
 
 ## What Would Challenge This View?
 
@@ -195,7 +195,7 @@ Dualism is the Map's first foundational commitment—the [[tenets#^dualism|Duali
 
 This commitment is grounded in the convergence of arguments: from different starting points—conceivability, knowledge, qualia, modality, subjectivity, unity, intentionality—they reach the same conclusion. Each form of [[concepts/materialism]] the Map has examined leaves a serious explanatory debt at the gap between physical description and subjective experience.
 
-Dualism's most consequential implication may be ethical: if consciousness is irreducible, then [[topics/phenomenal-value-realism|phenomenal value]]—the felt badness of suffering, the felt goodness of joy—is irreducible too. Value resides in consciousness because consciousness is not decomposable into value-neutral physical facts.
+Dualism's most consequential bearing may be ethical: irreducible consciousness motivates the view that [[topics/phenomenal-value-realism|phenomenal value]]—the felt badness of suffering, the felt goodness of joy—is irreducible too. Physicalists can hold phenomenal value realism, and a dualist could still be an expressivist.
 
 The Map's [[bi-aspectual-ontology]] gives this commitment concrete metaphysical content: reality has two irreducible aspects — *structure* (what physics describes: relations, dispositions, probabilities) and *actuality* (what consciousness provides: the selection that makes one quantum outcome real rather than another). Neither aspect reduces to the other, yet they interact at quantum indeterminacies. This framework distinguishes the Map from dual-aspect monisms (Spinoza, Pauli-Jung) that use similar vocabulary but deny causal interaction between aspects.
 
