@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T06:14:21+00:00
+ai_modified: 2026-10-24T06:32:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:32 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/nondualistic-interactionism]]
+- **Task**: P1 source-fidelity and parity task from the 2026-10-24 convergent outer reviews (ChatGPT + Claude; synthesis C2/C3/C4/C6). Ran after the sibling closure task (06:14); L63 closure paragraph and L67 Chalmers sentences untouched.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - L65 (owned): dropped "Two published responses mark the pressure points" (Chalmers 2003 is a taxonomy, not a response). New lead: Kim's 1999 reply answered Griffin's essay in the same *Process Studies* issue (Griffin 1999, Crossref-verified 10.5840/process1999281/221, pp. 4–27), which overlaps chapter 10 (shared sentences verified in both); Kim had read chapter 10 in manuscript (p. xi) but not the book (Kim: "as I read his book (as I hope to in the near future)"). Added the wish-list disclaimer ("not suggesting that Griffin begins with all that he wants to save"; "an iota of mentality"). Composition demand kept verbatim; Basile 2010 added at abstract strength (argues, against Griffin's book, that even Whitehead's version gives no satisfactory solution to the composition problem).
+  - L67 (new paragraph): Kim's positive reply to Griffin's human/rock charge (p. 234): "determination must be sharply distinguished from identity", "structure is crucially important". Griffin's answer, from text already in the essay and the book: materialist physicalism "does not allow for the evolutionary emergence of higher-level actualities with genuine causal powers of their own" (p. 235); the mind's causal dependence on the brain is not complete determination (p. 236); structure yields new properties (p. 186: aggregational societies have "properties that no mere aggregate would have") but no unified, partly self-determining individual. Ends at the microphysical-sufficiency question of L63.
+  - L49: "a further actual entity presiding over them" → the mind is the society of occasions "presiding over them rather than standing apart from them as a soul-substance".
+  - L53: "The mechanism that makes" → "The architecture that makes".
+  - L57: "Each neuron is, by hypothesis, itself a compound individual" (p. 186 cells "(by hypothesis)"; p. 131 "neurons (by hypothesis)").
+  - L59: p. 205 quote now names its context, "the familiar half of an analogy with 'our prehension of the mind of the universe'". Item (8) not taken (budget).
+  - L81: heterogeneity pipe repointed `[[pairing-problem|interaction problem]]` → `[[history-of-the-interaction-problem|interaction problem]]`; added Griffin's resources for pairing (p. 228 location, quoted; p. 186 co-membership) linking [[pairing-problem]], marked as the Map's reading (0 hits for "pairing" in Griffin). Parity: the Map's property-leaning reading "locates the mind too, at no cost" ([[interactionist-dualism]] L189); Griffin's "needs no interface story". No "fares better".
+  - L91: parity clause: the Map's Born-distribution route "too lacks a worked toy model of the coupling, part of the Map's [[positions/quantum-interface#^mechanism-debt|mechanism debt]]" (tenets L95, P-Q10). No "invisible", no epiphenomenalism concession.
+  - L95: "natural single-world ally" → "fits a single world, though Griffin never discusses Many-Worlds" (0 hits for many worlds / many-worlds / Everett / multiverse in the e-edition; controls Elsasser 10, quantum 58).
+  - L97 (fairness check): "Kim's 'wish list' charge applies with equal force" → "'wish list' resemblance, softened for Griffin's iota, applies with at least equal force to the Map's own posits" (the disclaimer protects Griffin's iota, not the Map's posits).
+  - References: + Basile 2010 (Crossref 10.5840/process201039224, 39(2) 264–284; abstract via OpenAlex), + Griffin 1999; list renumbered chronologically.
+- **Quote verification**: every new quotation grep-verified at raw text with its surrounding passage read and subjects checked for splices: Griffin 1998 UC Press e-edition (docId ft8c6009k3, entire_text, pages from JD_Page markers) for pp. xi, 172, 186, 205, 228, 234, 235, 236; Kim 1999 religion-online (?p=8626) for all six Kim strings; Griffin 1999 essay (religion-online) for the shared pp. 234–236 sentences. p. 234 is Griffin's reconstruction of Kim's argument, so it is framed as Griffin's charge; p. 235's subject ("this metaphysics" = materialist physicalism's) is given outside the quotation marks.
+- **Engagement classification** (editor-internal): Kim's composition demand, Mode Two (the compound individual is helped to without a composition principle; L99 keeps the Map's parallel debt). Kim's determination reply vs Griffin, Mode Three: the exchange ends at the microphysical-sufficiency boundary, and neither refutes the other in-framework. Kim's label and wish-list remarks are reported, not adjudicated.
+- **Rejected items not acted on**: conservation compression, Tenet 2 relabel, "physical in every sense physics uses", Gemini p. 193 / continuity charges, Zeno and Chalmers–McQueen, Roelofs / Mørch / AST / PCS, "ten unconfirmed quotes".
+- **Length**: 2,648 → 2,999 by analyze_length (+351 vs a budget of about +300; prose +314, References +39; concepts hard 3,500).
+- **Published**: yes
 
 ## 06:14 - refine-draft
 - **Status**: Success
