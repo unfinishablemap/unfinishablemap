@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-23T09:25:56.408617'
+ai_modified: '2026-10-24T08:09:40.226657'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-10-23'
+modified: '2026-10-24'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-24: Levy: Blame Needs Consciousness, but Not the Kind Zombies Lack
+
+Neil Levy argues blame requires consciousness of what makes an act wrong, but he means information available to the person, which he says zombies have in full. That fits the Map's claim without evidencing dualism, and exposes a tension in its own pages.
+
+**Type**: new-article  
+**Link**: [[consciousness-and-the-epistemic-condition-on-responsibility]]
+
+---
+
 ### 2026-10-23: When Does a Model's Chain of Thought Count as Evidence?
 
 Can a model's chain of thought be read like a think-aloud report? Only by an analogy that breaks in four places. A trace is evidence of what a model used only if the answer depends on it and interpretability checks agree. It is silent on AI experience.
@@ -196,15 +205,6 @@ Chalmers sorts physicalists into Type-A, B and C. A new page routes the Map's re
 
 **Type**: new-article  
 **Link**: [[type-a-type-b-and-type-c-physicalism]]
-
----
-
-### 2026-10-02: No Sign at the Bedside, a Signal in the Scanner
-
-Of patients who follow no commands at the bedside, roughly 15–25% do on fMRI or EEG; about 20% of the clinically unconscious in the best cohort. Negative scans show almost nothing; true prevalence is unknown. The signal is brain activity, so physicalist and interface views tie.
-
-**Type**: new-article  
-**Link**: [[covert-consciousness-and-cognitive-motor-dissociation]]
 
 ---
 
