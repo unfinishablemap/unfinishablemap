@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 04:07:30+00:00
+ai_modified: 2026-10-24 05:04:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 04:07:30+00:00
+lastmod: 2026-10-24 05:04:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:04 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (Research; "306 sources · 10m 22s"), collected via collect-claude-review. The composer showed "Fable 5.1 Medium", so no Opus fallback occurred. The subject was recent-aged `concepts/nondualistic-interactionism`, reused from the 02:11Z ChatGPT commission.
+- **File**: [outer-review-2026-10-24-claude-fable-5-1](/reviews/outer-review-2026-10-24-claude-fable-5-1/)
+- **Extraction**: one artifact tile (with "View all" filtered out), *Hostile-Referee Audit of Nondualistic Interactionism*. The panel body was stable at 33,389 characters across 10 s. A js-dom walk gave 43,900 characters, saved by Blob download with a matching hash (-1120782075); the reply is 5,063 words. The pending entry is now `collected`.
+- **Claims verified**: 15 confirmed at source or on disk, 15 rejected, and about 10 literature leads left unverified. The checks used the page markers of the Griffin 1998 UC Press e-edition: every pinpoint quotation in the article, 23 in all, sits verbatim on its stated page, including pp. 214, 241 and 191n, which the reviewer doubted. They also used Kim 1999 and Chalmers 2003 raw text, Crossref (Basile 2010, Coleman 2014, Griffin 1999, Kim 1999) and OpenAlex (Basile's abstract).
+- **High-value findings**: 4.
+  - Kim's closure verdict is missing: "inconsistent with each of the three doctrines (understood in their proper intended sense)". It is the sentence right after the one the article quotes.
+  - L79 points `[[pairing-problem]]` at the heterogeneity half. Griffin's dominant occasions are located (p. 228), so he answers pairing too. The Map's own pairing debt is conditional (interactionist-dualism L189).
+  - Basile 2010 is the process-sympathetic statement of the composition objection, which the article omits.
+  - `process-philosophy` L126 says "must attribute some experience to rocks", against Griffin's aggregational societies (p. 181).
+- **Rejected**: "about ten unconfirmed quotes", the p. 214 conflation, p. 241 misuse, p. 51 "defending dualists", "Griffin fares better on pairing" (the reviewer's quotation is truncated), relabelling Tenet 2, "confession without correction", the three-rivals contradiction, steelman strawmanning, process-philosophy L130, the published_time mismatch (a template matter), Kim's DOI "not resolved", and methodology items 1, 4 and 6.
+- **Tasks generated**: 1 new, P2 refine-draft `concepts/pairing-problem` (Griffin's location and co-membership answer, with a parity guard), inserted above `## Completed Tasks`; `parse_tasks` active count went from 219 to 220. Add-ons, per the coordination brief: the P1 NDI closure task (Kim's verdict, the Chalmers combination-problem clause, a [causal-closure](/concepts/causal-closure/) link, and a ban on quoting Montero), the P2 NDI source-fidelity task (Kim read ch. 10 in manuscript, Griffin's 1999 metadata, the L79 link, `#^mechanism-debt`, Tenet 4 "ally", Basile, and the rejected list), the P2 process-philosophy task (L126, L118), the P2 combination-problem task (Basile), and the blocked [P-D2](/positions/arguments-for-dualism/#p-d2) decision task (fourth independent source).
+- **Convergence**: with the 2026-10-24 ChatGPT review on Kim's target, Chalmers as classification, the closure section, mechanism parity and [P-D2](/positions/arguments-for-dualism/#p-d2). Methodology items 2 and 3 (reply target, omitted critic arguments) are left for `/combine-outer-reviews`.
+- **Status field**: `outer_review_status: processed`
 
 ## 04:07 - outer-review
 - **Status**: Success

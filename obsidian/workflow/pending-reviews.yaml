@@ -411,9 +411,9 @@
   prompt_summary: 'Audit nondualistic-interactionism (Griffin): claims, cites, tenet
     fairness'
   target_filename: outer-review-2026-10-24-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-24T04:54:40.020976+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a hostile-referee audit of the Unfinishable Map''s
     article on Nondualistic Interactionism: https://unfinishablemap.org/concepts/nondualistic-interactionism/
