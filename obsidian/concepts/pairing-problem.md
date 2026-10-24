@@ -1,10 +1,10 @@
 ---
 title: "The Pairing Problem"
-description: "What connects a particular mind to a particular body? Kim's challenge to substance dualism. Interface locality and developmental co-construction provide the answer."
+description: "What connects a particular mind to a particular body? Kim's challenge to substance dualism. Interface locality and developmental co-construction provide the Map's answer."
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-09-30T21:52:22+00:00
+ai_modified: 2026-10-24T09:41:24+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,12 +19,13 @@ concepts:
   - "[[objections-to-interactionism]]"
   - "[[illusionism]]"
   - "[[decoherence]]"
+  - "[[nondualistic-interactionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-17T22:01:13+00:00
@@ -72,6 +73,8 @@ This dissolves the pairing problem while maintaining dualism's core claim: that 
 **Response to Kim**: The dualist can posit that souls, like matter, cannot overlap—or that souls are individuated by their essential causal connections to particular bodies, making overlap incoherent. Neither move introduces more mystery than physics already contains (consider: what makes this electron distinct from that one?).
 
 **The developmental refinement**: A stronger response appeals to [[brain-interface-boundary|interface locality]]: the mind-brain pairing is *constructed* through neural development, not arbitrarily assigned at some moment. The mechanism is progressive mutual adaptation. As the nervous system develops, it incrementally meets the [[brain-interface-boundary#Five Criteria for an Interface|five criteria]] for a consciousness interface—quantum sensitivity in maturing neural structures, representational capacity as cortical maps form, attention mechanisms as frontoparietal networks wire up, and feedback loops as sensory-motor circuits close. At each stage, the developing interface constrains what consciousness can select among, and what consciousness selects shapes subsequent neural wiring through activity-dependent plasticity. The result is a coupling that is specific to *this* brain not by fiat but because it was built through billions of iterative interactions between a particular consciousness and a particular nervous system. Two consciousnesses couldn't occupy the same brain because the interface was progressively tuned to one—the developmental history itself constitutes the pairing relation.
+
+**A same-kind answer**: David Ray Griffin's [[nondualistic-interactionism]] answers pairing by location and co-membership. The mind's dominant occasions have "a determinate spatiotemporal location relative to all others" (1998, p. 228), and the mind arises "out of the activities of billions of neurons" (p. 186) within one compound individual. Both views locate the mind. Griffin's needs no interface story, since like acts on like, but gives up the difference in kind; the Map's keeps it and so needs the interface.
 
 ## Response 2: The Haecceity Response
 
@@ -191,4 +194,5 @@ The [[objections-to-interactionism]] article provides comprehensive treatment of
 1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies* 154: 349-360.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Aristotelian Society Supplementary Volume* 84(1): 119-150.
+1. Griffin, D.R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
 1. Jahn, R.G., & Dunne, B.J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration* 19(2): 195-245.

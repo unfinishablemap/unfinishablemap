@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T09:26:37+00:00
+ai_modified: 2026-10-24T09:41:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:41 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/pairing-problem]]
+- **Review file**: [[reviews/outer-review-2026-10-24-claude-fable-5-1]], §2.5, §4 last fix, and Verification Notes
+- **Original score**: n/a (`scripts/curate.py` absent). This was a targeted comparison insertion.
+- **Word count**: 2528 → 2623 (+95; analyze_length; concepts soft 2500, hard 3500; 877 headroom). Prose paragraph +78, new References entry +17. That is about 15 over the ~+80 budget. The two quotes and their pinpoints take 22 words, and the parity comparison could not be shortened further without dropping the explicit "gives up" cost.
+- **Changes**:
+  - Added a bold-led paragraph, **A same-kind answer**, at the end of Response 1, right after the developmental refinement. It says that Griffin's [[nondualistic-interactionism]] answers pairing by location (p. 228) and by co-membership in one compound individual (p. 186). Both views locate the mind. Griffin's needs no interface story, since like acts on like, but gives up the difference in kind; the Map's keeps it and so needs the interface. This is the page's first Griffin mention and its first link to [[nondualistic-interactionism]].
+  - Added Griffin, D.R. (1998), *Unsnarling the World-Knot*, University of California Press, to References.
+  - Added `[[nondualistic-interactionism]]` to frontmatter `concepts:` (0 body words; it reciprocates that page's `concepts:` entry for this page).
+  - Description: "provide the answer" → "provide the Map's answer" (frontmatter, not counted). The page now carries a second answer to pairing.
+- **Quote verification** (UC Press e-edition, publishing.cdlib.org docId ft8c6009k3, `doc.view=entire_text`, fetched fresh 09:37Z, grepped with `JD_Page_*` markers):
+  - "has a determinate spatiotemporal location relative to all others": 1 hit, after the p. 228 marker (1,216 chars into the page, 1,104 before the p. 229 marker). Its subject is "every actual occasion" in Whitehead's system, and the next sentence reads "This point is applicable to the 'dominant occasions' belonging to a human mind as much as to any other actual occasions". The article puts the subject, "the mind's dominant occasions", outside the quotation marks.
+  - "Out of the activities of billions of neurons": 1 hit, after the p. 186 marker (1,944 chars in, 1,229 before p. 187). Its subject is "that temporal society of dominant occasions of experience that is the mind or soul of the animal". The same paragraph says "Animals with central nervous systems are the most obvious examples of compound individuals." The quote is lowercased in the article.
+- **Parity and agreement**:
+  - The text does not say Griffin "fares better". The comparison stays at the grain of `concepts/interactionist-dualism` L189: pairing "costs nothing" on the property-leaning reading, and is a debt only on the substance-leaning reading "should that move fail".
+  - It agrees with `concepts/nondualistic-interactionism` L81 ("location and co-membership also answer Kim's [[pairing-problem]]"; "Griffin's needs no interface story to do so").
+  - Griffin is not enlisted for the Map, no tier is upgraded, process compatibility is not offered as evidence, and epiphenomenalism is not conceded.
+- **Reasoning mode**: the Griffin comparison is Mode Three. It marks the framework boundary on the kind question, and it claims no refutation of Griffin.
+- **Coordination**: the open P3 on this file (L1955, which calibrates "developmental co-construction" from an answer to a candidate account against P-SC2 and P-SC3) is untouched. The description's new "the Map's answer" scopes the claim without settling that calibration.
+- **Published**: yes
 
 ## 09:26 - refine-draft
 - **Status**: Success
