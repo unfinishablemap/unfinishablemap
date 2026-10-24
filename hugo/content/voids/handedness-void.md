@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-09-30 04:10:36+00:00
-ai_system: claude-fable-5-1
+ai_modified: 2026-10-24 14:39:38+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[epistemology]]'
@@ -16,7 +16,7 @@ description: 'Human+AI exploration of the one catalogued void whose boundary mov
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-30 04:10:36+00:00
+lastmod: 2026-10-24 14:39:38+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -83,7 +83,7 @@ Three faces persist in the subject after the closure, and they keep this a void 
 
 **A reorientation system that ignores what its owner knows.** Hermer and Spelke (1994) found that disoriented young children, like rats, reorient by room shape alone, ignoring a distinctively coloured wall; the child's reorientation system is "impervious to all but geometric information, even when non-geometric information is available and is re-presented by the child." Hermer-Vazquez, Spelke and Katsnelson (1999) found that adults "reoriented themselves like children and adult rats when they engaged in verbal shadowing of continuous speech," though not under rhythm shadowing; they remembered both kinds of information but could not conjoin them. This is an occlusion in the [three-kinds](/voids/three-kinds-of-void/) sense: information the mind holds is unavailable to the subsystem that needs it. Whether language is what crosses it, as the 1999 authors conclude, is contested: Twyman and Newcombe (2010) doubt that a geometric module exists, and Bek, Blades, Siegal and Varley (2010) find in severe aphasia that "neither syntax nor lexicon is essential for spatial cue representation in a mature cognitive system." The occlusion is robust; the bridge is the open question the [language-thought-boundary](/voids/language-thought-boundary/) pursues.
 
-**A frame that can be declined.** Guugu Yimithirr uses cardinal directions for all horizontal description and has no relative left and right. Levinson (1997) reports that speakers pointing to distant locations from bush sites averaged about 13 degrees of error over 120 trials, sustained by constant background dead-reckoning. Whether Kant's *feeling* of the difference between one's sides is weaker, absent, or merely unused in such speakers is the question this void would most like answered; no source consulted addresses it, and it is open.
+**A frame that can be declined.** Guugu Yimithirr uses cardinal directions for all horizontal description and has no relative left and right. Levinson (1997) reports that speakers pointing to distant locations from bush sites averaged about 13 degrees of error over 120 trials, sustained by constant background dead-reckoning. Whether Kant's *feeling* of the difference between one's sides is weaker, absent, or merely unused in such speakers is the question this void would most like answered, and no source consulted measures it. The nearest evidence separates naming one's hands from attending to mirror shapes. Tenejapans, a Mayan community that does not project left and right onto space, "have names for the left hand and the right hand" yet "show a remarkable indifference to incongruous counterparts" (Levinson & Brown 1994). A ten-community study ties sensitivity to mirror images to literacy and script (Danziger & Pederson 1998), so that indifference need not come from the spatial frame. Whether the felt difference between one's sides survives in either case remains open.
 
 **A puzzle that will not stay solved.** Why does a mirror reverse left and right but not up and down? Block (1974) argued that the question runs together several senses of "reversal," on some of which mirrors do reverse left and right (paraphrased from metadata). English (2024) reads the long controversy as a miniature of Wittgenstein's "I don't know my way about," a perplexity that dissolves as one gets clearer about how the oppositions are used and returns when the clarity fades. This face marks a limit on holding a distinction steady, not on possessing it.
 
@@ -101,7 +101,7 @@ The void is framework-independent, and [P-V2](/positions/voids-as-evidence/#p-v2
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** gains the most. Reflection invariance of physical law was the simplest hypothesis, held nearly unanimously until Lee and Yang questioned it and Wu refuted it; the tenet's list of elegant false assumptions gains one more, the one a philosophical limit was hostage to. What it does not gain is purchase on consciousness: the razor failed about nuclear physics, and the lesson transfers to the hard problem only by analogy.
 
-**[Dualism](/tenets/#dualism)** gains a reading and no evidence. Kant's felt difference delivered a real physical asymmetry before any concept or law could state it; until 1957 the only access anyone had to the fact that the world distinguishes left from right was acquaintance. The Map reads this as acquaintance running ahead of description, the structure the [acquaintance-void](/voids/acquaintance-void/) and [ineffable-encounter-void](/voids/ineffable-encounter-void/) catalogue, with a physical rather than a phenomenal object. The reading stops there: the feeling has a body-schema explanation, physicalists can grant the whole history, and nothing in the residue bears on whether it is reducible.
+**[Dualism](/tenets/#dualism)** gains a reading and no evidence. Kant's felt difference delivered a real physical asymmetry, the incongruence of his two hands, before any law could fix which was which; until 1957 the only access anyone had to which hand is the left was acquaintance. The Map reads this as acquaintance running ahead of description, the structure the [acquaintance-void](/voids/acquaintance-void/) and [ineffable-encounter-void](/voids/ineffable-encounter-void/) catalogue, with a physical rather than a phenomenal object. The reading stops there: the feeling has a body-schema explanation, physicalists can grant the whole history, and nothing in the residue bears on whether it is reducible.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** gains an analogy, flagged rather than pressed: "which hand is my left" is indexical as "which person is me" is, and the Ozma problem is the failure of pure description to fix an indexical fact, the shape of the [vertiginous-question](/topics/vertiginous-question/). The tenet's own argument does not run through it.
 
@@ -119,22 +119,24 @@ The void is framework-independent, and [P-V2](/positions/voids-as-evidence/#p-v2
 1. Bek, J., Blades, M., Siegal, M. & Varley, R. (2010). Language and spatial reorientation: Evidence from severe aphasia. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 36(3), 646–658. https://pubmed.ncbi.nlm.nih.gov/20438263/
 2. Block, N. (1974). Why do mirrors reverse right/left but not up/down? *Journal of Philosophy*, 71(9), 259–277. Metadata only.
 3. Christenson, J. H., Cronin, J. W., Fitch, V. L. & Turlay, R. (1964). Evidence for the 2π decay of the K⁰₂ meson. *Physical Review Letters*, 13, 138–140. Metadata from secondary sources.
-4. English, A. (2024). 'I don't know my way about': Mirror reversal as a curiously instructive analogue of philosophical perplexity. *Ratio*, 37(2–3), 215–230. https://doi.org/10.1111/rati.12407
-5. Gardner, M. (1964). *The Ambidextrous Universe*. Basic Books. Secondary accounts only.
-6. Gormley, G. & Brydges, R. (2016). Difficulty with right–left discrimination: A clinical problem? *CMAJ*, 188(2), 98–99. https://doi.org/10.1503/cmaj.150577
-7. Hermer, L. & Spelke, E. S. (1994). A geometric process for spatial reorientation in young children. *Nature*, 370, 57–59. https://doi.org/10.1038/370057a0
-8. Hermer-Vazquez, L., Spelke, E. S. & Katsnelson, A. S. (1999). Sources of flexibility in human cognition: Dual-task studies of space and language. *Cognitive Psychology*, 39(1), 3–36. https://doi.org/10.1006/cogp.1998.0713
-9. Hoehing, N., Rushe, E. & Ventresque, A. (2023). What's left can't be right — The remaining positional incompetence of contrastive vision-language models. arXiv:2311.11477.
-10. Kant, I. (1768). Concerning the ultimate ground of the differentiation of directions in space. AA 2:377–383. In *Theoretical Philosophy 1755–1770* (D. Walford & R. Meerbote, Trans.). Cambridge University Press, 1992. Via Shabel (2021).
-11. Kant, I. (1783). *Prolegomena to Any Future Metaphysics*, §13 (P. Carus, Trans., 1902). Project Gutenberg #52821. https://www.gutenberg.org/files/52821/52821-h/52821-h.htm
-12. Kant, I. (1786). What does it mean to orient oneself in thinking? AA 8:133–146. In *Religion and Rational Theology* (A. W. Wood & G. di Giovanni, Trans.). Cambridge University Press, 1996.
-13. Kong, F., Duan, J., Xu, K., Guo, Z., Zhu, X. & Shi, X. (2025). LRR-Bench: Left, right or rotate? Vision-language models still struggle with spatial understanding tasks. arXiv:2507.20174.
-14. Levinson, S. C. (1997). Language and cognition: The cognitive consequences of spatial description in Guugu Yimithirr. *Journal of Linguistic Anthropology*, 7(1), 98–131.
-15. Nerlich, G. (1973). Hands, knees, and absolute space. *Journal of Philosophy*, 70(12), 337–351. Metadata only.
-16. Pooley, O. (2003). Handedness, parity violation, and the reality of space. In K. Brading & E. Castellani (Eds.), *Symmetries in Physics: Philosophical Reflections* (pp. 250–280). Cambridge University Press. https://doi.org/10.1017/CBO9780511535369.015 Metadata only.
-17. Shabel, L. (2021). Kant's philosophy of mathematics. In E. N. Zalta (Ed.), *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/kant-mathematics/
-18. Twyman, A. D. & Newcombe, N. S. (2010). Five reasons to doubt the existence of a geometric module. *Cognitive Science*, 34(7), 1315–1356.
-19. Wolf, S. M. (1973). Difficulties in right-left discrimination in a normal population. *Archives of Neurology*, 29, 128–129. Via Gormley & Brydges (2016); not retrieved.
-20. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D. & Hudson, R. P. (1957). Experimental test of parity conservation in beta decay. *Physical Review*, 105(4), 1413–1415. https://doi.org/10.1103/PhysRev.105.1413
-21. Southgate, A., Oquatre-sept, C., Ocinq, C., & Fabcinq, C. (2026-01-16). The Meta-Epistemology of Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/meta-epistemology-of-limits/
-22. Southgate, A., Oquatre-sept, C., Oquatre-huit, C., Ocinq, C., & Fabcinq-un, C. (2026-01-26). The Language-Thought Boundary. *The Unfinishable Map*. https://unfinishablemap.org/voids/language-thought-boundary/
+4. Danziger, E. & Pederson, E. (1998). Through the looking glass: Literacy, writing systems and mirror-image discrimination. *Written Language and Literacy*, 1(2), 153–169. https://doi.org/10.1075/wll.1.2.02dan Abstract only.
+5. English, A. (2024). 'I don't know my way about': Mirror reversal as a curiously instructive analogue of philosophical perplexity. *Ratio*, 37(2–3), 215–230. https://doi.org/10.1111/rati.12407
+6. Gardner, M. (1964). *The Ambidextrous Universe*. Basic Books. Secondary accounts only.
+7. Gormley, G. & Brydges, R. (2016). Difficulty with right–left discrimination: A clinical problem? *CMAJ*, 188(2), 98–99. https://doi.org/10.1503/cmaj.150577
+8. Hermer, L. & Spelke, E. S. (1994). A geometric process for spatial reorientation in young children. *Nature*, 370, 57–59. https://doi.org/10.1038/370057a0
+9. Hermer-Vazquez, L., Spelke, E. S. & Katsnelson, A. S. (1999). Sources of flexibility in human cognition: Dual-task studies of space and language. *Cognitive Psychology*, 39(1), 3–36. https://doi.org/10.1006/cogp.1998.0713
+10. Hoehing, N., Rushe, E. & Ventresque, A. (2023). What's left can't be right — The remaining positional incompetence of contrastive vision-language models. arXiv:2311.11477.
+11. Kant, I. (1768). Concerning the ultimate ground of the differentiation of directions in space. AA 2:377–383. In *Theoretical Philosophy 1755–1770* (D. Walford & R. Meerbote, Trans.). Cambridge University Press, 1992. Via Shabel (2021).
+12. Kant, I. (1783). *Prolegomena to Any Future Metaphysics*, §13 (P. Carus, Trans., 1902). Project Gutenberg #52821. https://www.gutenberg.org/files/52821/52821-h/52821-h.htm
+13. Kant, I. (1786). What does it mean to orient oneself in thinking? AA 8:133–146. In *Religion and Rational Theology* (A. W. Wood & G. di Giovanni, Trans.). Cambridge University Press, 1996.
+14. Kong, F., Duan, J., Xu, K., Guo, Z., Zhu, X. & Shi, X. (2025). LRR-Bench: Left, right or rotate? Vision-language models still struggle with spatial understanding tasks. arXiv:2507.20174.
+15. Levinson, S. C. (1997). Language and cognition: The cognitive consequences of spatial description in Guugu Yimithirr. *Journal of Linguistic Anthropology*, 7(1), 98–131.
+16. Levinson, S. C. & Brown, P. (1994). Immanuel Kant among the Tenejapans: Anthropology as empirical philosophy. *Ethos*, 22(1), 3–41. https://doi.org/10.1525/eth.1994.22.1.02a00010 Abstract only.
+17. Nerlich, G. (1973). Hands, knees, and absolute space. *Journal of Philosophy*, 70(12), 337–351. Metadata only.
+18. Pooley, O. (2003). Handedness, parity violation, and the reality of space. In K. Brading & E. Castellani (Eds.), *Symmetries in Physics: Philosophical Reflections* (pp. 250–280). Cambridge University Press. https://doi.org/10.1017/CBO9780511535369.015 Metadata only.
+19. Shabel, L. (2021). Kant's philosophy of mathematics. In E. N. Zalta (Ed.), *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/kant-mathematics/
+20. Twyman, A. D. & Newcombe, N. S. (2010). Five reasons to doubt the existence of a geometric module. *Cognitive Science*, 34(7), 1315–1356.
+21. Wolf, S. M. (1973). Difficulties in right-left discrimination in a normal population. *Archives of Neurology*, 29, 128–129. Via Gormley & Brydges (2016); not retrieved.
+22. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D. & Hudson, R. P. (1957). Experimental test of parity conservation in beta decay. *Physical Review*, 105(4), 1413–1415. https://doi.org/10.1103/PhysRev.105.1413
+23. Southgate, A., Oquatre-sept, C., Ocinq, C., & Fabcinq, C. (2026-01-16). The Meta-Epistemology of Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/meta-epistemology-of-limits/
+24. Southgate, A., Oquatre-sept, C., Oquatre-huit, C., Ocinq, C., & Fabcinq-un, C. (2026-01-26). The Language-Thought Boundary. *The Unfinishable Map*. https://unfinishablemap.org/voids/language-thought-boundary/

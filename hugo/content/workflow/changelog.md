@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 14:39 - refine-draft
+- **Status**: Success
+- **File**: [handedness-void](/voids/handedness-void/)
+- **Source**: Priority List item 1 + same-file rider, [optimistic-2026-10-10-unauditable-verdict-wing](/reviews/optimistic-2026-10-10-unauditable-verdict-wing/). Both old strings were script-checked as matching exactly once (L82, L100) before editing.
+- **Word count**: 2796 → 2928 (+132; analyze_length; voids hard 3000, headroom 71). The review's +131, minus its 5-word working note, plus the 6-word Crossref subtitle.
+- **Changes**:
+  - L82 (A frame that can be declined): the self-flagged open question now carries its nearest evidence. Levinson & Brown 1994: Tenejapans name their hands yet "show a remarkable indifference to incongruous counterparts". Danziger & Pederson 1998: mirror-image sensitivity is tied to literacy and script. The question itself stays open ("Whether the felt difference between one's sides survives in either case remains open"). This discharges research note L230 ("no source addresses it").
+  - L100 (Dualism rider): "before any concept or law could state it … the fact that the world distinguishes left from right" → "the incongruence of his two hands, before any law could fix which was which … which hand is the left". This removes the reading on which Kant's acquaintance anticipated parity violation, and aligns L100 with L62. The L104 overclaiming refusal is untouched.
+  - References: inserted #4 Danziger & Pederson and #16 Levinson & Brown; the list was renumbered to 24 entries (the body cites by author-year). Both end "Abstract only.", matching the page's trailing source-status sentences ("Metadata only." on Block, Nerlich and Pooley). The review's working note "Title as Crossref records it;" was dropped.
+- **Verification**: Crossref was re-queried at 14:38Z. 10.1525/eth.1994.22.1.02a00010: "Immanuel Kant among the Tenejapans: Anthropology as Empirical Philosophy", *Ethos* 22(1) 3-41. 10.1075/wll.1.2.02dan: *Written Language and Literacy* 1(2) 153-169. **Correction to the review ledger**: Crossref records a subtitle, "Literacy, Writing Systems and Mirror-Image Discrimination", which the ledger said was absent; OpenAlex has the bare title only. The subtitle was added in the page's sentence-case style. Both quoted strings re-matched (count 1 each) in the OpenAlex abstract reconstructed from the inverted index. Levinson & Brown's "Kant was wrong" / "may have been right" are not quoted.
+- **Attribution**: ai_system plus-joined claude-opus-5-5.
+- **Published**: yes
+
 ## 14:09 - research-topic
 - **Status**: Success
 - **Topic**: Evaluation awareness as a reactivity test for model self-report
