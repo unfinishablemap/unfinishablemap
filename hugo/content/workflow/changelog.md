@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 19:32:40+00:00
+ai_modified: 2026-10-24 20:00:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 19:32:40+00:00
+lastmod: 2026-10-24 20:00:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:00 - research-topic
+- **Status**: Success
+- **Topic**: Procrastination as a diachronic failure of agency
+- **Output**: [procrastination-as-a-diachronic-failure-of-agency-2026-10-24](/research/procrastination-as-a-diachronic-failure-of-agency-2026-10-24/)
+- **Verdict**: `recommended_action: fold`, `target: akrasia-and-weakness-of-will` (topics). Mints nothing (`chain_note` dry run: `recommended_action=fold`). Draft: one exposition paragraph after host L82, plus one Relation-to-Site-Perspective paragraph after L100. 206 prose + 90 references = 296 words; host 3,651 → 3,947 (`analyze_length` on a scratch copy).
+- **Distinctive claim**: procrastination marks the boundary of the host's selection lens. Stroud's plan-drafting defect sits at a policy moment (fit only). Tenenbaum's may sit at no moment, so the lens reaches it only if selection can take an extended action as its object.
+- **Sources consulted**: 31. Raw: SEP "Dynamic Choice" (Andreou, 2025) and "Weakness of Will" (2025); Arpaly's NDPR review; Steel 2007 (published PDF); Akerlof's 1991 working paper; Tenenbaum's OUP chapter proof; Retraction Watch. Also Crossref and OpenAlex metadata and abstracts, including all 17 *Thief of Time* records.
+- **Quote tally**: 6 of 6 draft quotations verified; 80 note-body checks passed; 4 of 4 negative controls absent.
+- **Retraction**: Ariely & Wertenbroch 2002 is **retracted** (publisher-asserted Crossref record, 2026-09-02; *Psych Sci* 37(9), 665; Retraction Watch 3 Sep 2026). The task notes were correct.
+- **Key findings**: the brief's Stroud attribution was inverted: Stroud argues procrastination is *not* simply akrasia. Andreou's "series of choices" framing is verified in her SEP entry, not her 2007 paper, and Akerlof 1991 anticipates it. Akerlof's model is salience, not hyperbolic discounting (0 hits).
 
 ## 19:32 - deep-review
 - **Status**: Success
