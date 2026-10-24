@@ -3,7 +3,7 @@ title: "Research Notes - Nondualistic Interactionism: Griffin's Whiteheadian Riv
 created: 2026-10-13
 modified: 2026-10-13
 human_modified: null
-ai_modified: 2026-10-13T11:19:08+00:00
+ai_modified: 2026-10-24T09:56:14+00:00
 draft: false
 description: "Research notes on David Ray Griffin's nondualistic interactionism (1997, 1998): a mind numerically distinct from the brain and interacting with it, but not different in kind. Covers compound individuals, dominant occasions and P-D2's selector."
 topics:
@@ -165,7 +165,7 @@ Four process-wing pages cite Griffin (1998). In two of them, `process-philosophy
   - In §11 Chalmers lists Griffin 1998 among "Versions of type-F monism" [raw]. The Map's steelman L85 and L104 cite exactly this.
   - In the same section he argues that a type-F monist who puts phenomenal properties at a *high* level to dodge the combination problem must deny microphysical causal closure: "The only way to embrace this position would seem to be in combination with a denial of microphysical causal closure, holding that there are fundamental dispositions above the microphysical level, which have phenomenal properties as their grounds. But such a view would be indistinguishable from type-D dualism." [raw]
   - §9 defines type-D dualism: "microphysics is not causally closed, and that phenomenal properties play a causal role in affecting the physical world … usually known as interactionism" [raw].
-- **Why it matters**: Griffin's dominant occasion is a high-level actual entity with "a new kind of causal relation" (p. 193). He also denies that physics is complete (p. 238). By Chalmers's own criterion, then, Griffin's interactionist variant falls with type-D in structure, even though Chalmers's list files Griffin under type-F. Griffin and Chalmers disagree only over whether the high-level causal subject is "dualist". That is precisely the question of kind.
+- **Why it matters**: on the Map's reading, Griffin's view meets the condition Chalmers states. Chalmers does not say so, and his list files Griffin under type-F. Griffin's dominant occasion is a high-level subject with its own causal relation to the body: it exercises more power over the society than any other member does (Q9), and neurons take guidance from it by prehension (Q13). He also denies that physics could give a complete causal account of living bodies (Q16, p. 238). What he rejects there, microphysical sufficiency, is the closure type-D denies. The "closure" Griffin keeps (Q14) is closure to *non-physical* causes, a different thesis. By Chalmers's causal-structural criterion, then, the interactionist variant sits with type-D; by Griffin's entity-kind criterion it is not dualism. Which criterion settles the label is the question of kind, and a type-D placement would not by itself supply the Map's claim of a difference in kind.
 
 ### Stanford Encyclopedia of Philosophy, "Panpsychism" (Goff, Seager & Allen-Hermanson)
 - **URL**: https://plato.stanford.edu/entries/panpsychism/
@@ -206,7 +206,7 @@ All from Griffin (1998). Every quote was matched with `grep -F` as one exact str
 | Q9 | "These higher-level experiences can be called presiding, regnant, or dominant, because they exercise greater power over the society as a whole than do any of the other members" | 186 |
 | Q10 | "Out of the activities of billions of neurons arises that temporal society of dominant occasions of experience that is the mind or soul of the animal." | 186 |
 | Q11 | "There is, to be sure, no ontological dualism. But there is an organizational duality" | 188 |
-| Q12 | "which, while not ontologically different from its lower-level forebears, involves a new kind of causal relation" (of the human compound individual's highest-level enduring individual) | 193 |
+| Q12 | "which, while not ontologically different from its lower-level forebears, involves a new kind of causal relation or, more precisely, an extreme exemplification of a kind of causal relation that had become increasingly important in the evolution of the higher animals" (of the human compound individual's highest-level enduring individual; Griffin corrects "a new kind" within the sentence, so never quote the clause before "or, more precisely" alone) | 193 |
 | Q13 | "just as our brain cells derive guidance from the mind by prehending its appetitions" | 205 |
 | Q14 | "The closure of the system of physical causes to influence from nonphysical causes does not, accordingly, exclude human minds from the universal causal nexus." | 237 |
 | Q15 | "both materialist and panexperientialist physicalists find dualistic interactionism unacceptable" | 237 |
@@ -241,7 +241,7 @@ The mind arises out of neuronal activity (Q10). Its occasions are "presiding, re
 - *Compound individuals* have a dominant member that unifies response and action: animals, cells, perhaps organelles, molecules and atoms (pp. 186–187).
 - *Aggregational societies* such as sticks, stones and billiard balls have none (Q8). Their members' spontaneities average out under the "law of large numbers" (p. 186).
 
-This "organizational duality" stands in for ontological dualism (Q11). The human mind's novelty is "a new kind of causal relation", not a new kind of stuff (Q12). Griffin credits the concept to Hartshorne (p. 82).
+This "organizational duality" stands in for ontological dualism (Q11). Griffin places the human mind's novelty in "an extreme exemplification of a kind of causal relation that had become increasingly important in the evolution of the higher animals", the self-correction that completes Q12, and the difference from other minds is "one of degree, not of kind" (Q17). Griffin credits the term "compound individual" to Hartshorne (p. 82).
 
 **4. Interaction through prehension.** Influence runs both ways, by the general Whiteheadian mechanism:
 - the mind's occasions prehend neuronal occasions;
@@ -264,7 +264,7 @@ Quantum indeterminacy appears in the book, but in different roles:
 - room for an "iota of mentality" in elementary particles, citing Seager and Bohm–Hiley's "rudimentary mental pole" (pp. 199–200);
 - the background against which the law of large numbers fails for compound individuals (pp. 186, 214).
 
-It is never the locus of the mind's action on the brain.
+The mind's reach into the body's particles gets one footnote (p. 191n [raw-2]). It borrows Walter Elsasser's point that "the laws of quantum mechanics provide in general only necessary conditions for the phenomena and not sufficient ones, that is, they do not uniquely determine the happenings on the microscopic level". From this Griffin concludes that it is "fully consistent with the empirical facts and quantum theory" for living organisms to follow principles beyond those of inorganic matter, which backs the body text's claim that the mind's influence on the body's constituents "violates no laws of physics" (p. 193). No mechanism is given, and the indeterminacy is not developed into a site where the mind acts on the brain.
 
 **7. Freedom.** The book's driver is the "hard-core commonsense" presupposition of freedom as "a choice among alternatives in the moment" (p. 164). Compound individuals with dominant members are the only places where self-determination is not averaged away.
 
@@ -303,7 +303,7 @@ It is never the locus of the mind's action on the brain.
   - That clause is mechanism content, graded through the quantum-interface register, not the argued core of Tenet 3. The point matters for P-D2.
 - **Tenet 4 (No Many Worlds): compatible, and unaddressed.** There are zero hits for "many worlds", "many-worlds" or "Everett" in the book. Whiteheadian concrescence actualises one outcome per occasion, and Griffin's libertarian freedom presupposes real alternatives with one realised (p. 164). The view is a natural single-world ally.
 - **Tenet 5 (Occam's Razor Has Limits): cuts both ways.**
-  - Griffin's main case against dualism leans on continuity: dualism "violates the principle of continuity in a particularly egregious way" (Q21). He also leans on avoiding "the Great Exception" (p. 92). These are uniformity and parsimony-style heuristics, which Tenet 5 counts as unreliable when knowledge is incomplete.
+  - Griffin numbers his charges against dualism. The first is interaction: "The chief problem of dualism has always been to understand how two totally different types of things could causally influence each other" (p. 49 [raw-2]). The second is continuity: dualism "violates the principle of continuity in a particularly egregious way" (Q21). He also leans on avoiding "the Great Exception" (p. 92). The continuity charge and the Great Exception appeal are uniformity and parsimony-style heuristics, which Tenet 5 counts as unreliable when knowledge is incomplete.
   - Symmetrically, the Map cannot call panexperientialism unparsimonious.
   - Kim's "wish list" charge is a parsimony charge as well. It applies equally to the Map's posits.
   - Griffin's appeal to "hard-core commonsense notions" as non-negotiable is close kin to the Map's [[self-stultification]] reasoning.

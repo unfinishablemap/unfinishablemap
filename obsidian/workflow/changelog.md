@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T09:41:49+00:00
+ai_modified: 2026-10-24T09:57:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 09:56 - refine-draft
+- **Status**: Success
+- **File**: [[research/nondualistic-interactionism-2026-10-13]]
+- **Review file**: [[reviews/outer-review-2026-10-24-gemini-3-1-pro]], Verification Notes (live residue in the research note); seeded by [[reviews/deep-review-2026-10-16-nondualistic-interactionism]] out-of-scope item 1
+- **Original score**: n/a (`scripts/curate.py` absent). This was a targeted source-fidelity repair.
+- **Word count**: 7631 → 7928 (+297; analyze_length). Research notes have no section cap.
+- **Changes**:
+  - (1) p. 193 truncation, three loci. Q12 now carries Griffin's self-correction ("or, more precisely, an extreme exemplification of a kind of causal relation that had become increasingly important in the evolution of the higher animals"), with a warning never to quote the clause before "or, more precisely" alone. The "Why it matters" bullet under Chalmers (2003) no longer rests on "a new kind of causal relation". Its type-D inference now rests on a high-level subject with its own causal relation (Q9, Q13) plus Griffin's denial of microphysical sufficiency (Q16). It separates that from the "closure" he keeps (Q14, closure to non-physical causes), says Chalmers does not make the claim about Griffin, and ends on the kind question without letting a type-D placement supply the difference in kind. This mirrors the article's Chalmers paragraph. "What the Doctrine Claims" §3 now quotes the self-correction and Q17 ("one of degree, not of kind"). The following sentence's "the concept" became "the term 'compound individual'", because the rewrite changed what it would have referred to.
+  - (2) §6, "It is never the locus of the mind's action on the brain" → the p. 191n Elsasser footnote: quantum laws "do not uniquely determine the happenings on the microscopic level", so organism-level principles are "fully consistent with the empirical facts and quantum theory", backing the p. 193 claim that the mind's influence on the body's constituents "violates no laws of physics". No mechanism is given. This matches the article's Tenet 2 paragraph ("gets one footnote … no mechanism is given").
+  - (3) Tenet 5 bullet, "Griffin's main case against dualism leans on continuity" → Griffin's numbered charges: 1, interaction of "two totally different types of things" (p. 49); 2, continuity (Q21, p. 51). The next sentence's "These are" became "The continuity charge and the Great Exception appeal are", because the interaction charge is not a parsimony heuristic. This matches the article's "second charge".
+- **Quote verification** (UC Press e-edition, publishing.cdlib.org docId ft8c6009k3, `doc.view=entire_text`, fetched 09:53Z; newdualism.org copy fetched 09:55Z; both flattened and counted by script): every quoted string in the added lines hits 1/1 in both copies, or more for the stock terms "compound individual", "organizational duality" and "the Great Exception". Page markers (`JD_Page_*`): Q12 sits between the p. 193 and p. 194 markers; "violates no laws of physics" sits just after the p. 193 marker ("there-|fore"); the Elsasser footnote's `**` ref falls after the p. 191 marker and before p. 192; "1. The chief problem of dualism" follows the p. 49 marker; "2. Dualism also violates the principle of continuity" starts on p. 50, and the Q21 phrase follows the p. 51 marker.
+- **Sweep**: "new kind of causal relation" now hits only Q12 (full sentence). "main case", "never the locus" and "a new kind of stuff" hit 0. "locus" remains at L299 (the graft Griffin "does not make") and L322 ("minus the quantum locus"), both consistent with the footnote, so they were left. L87's "By Chalmers's own criterion that blurs the steelman's type-F placement" is the note's inference and attributes no claim about Griffin to Chalmers, so it was left.
+- **Calibration**: the repair concedes nothing to Griffin and offers nothing as evidence for the Map. The kind axis stays bedrock, and epiphenomenalism is not conceded. The article was not touched.
+- **Published**: yes
 
 ## 09:41 - refine-draft
 - **Status**: Success
