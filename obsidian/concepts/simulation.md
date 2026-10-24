@@ -4,7 +4,7 @@ description: "If reality were computed, familiar objections to mind-matter inter
 created: 2026-01-07
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-08-24T09:21:07+00:00
+ai_modified: 2026-10-24T22:53:05+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[many-worlds-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-07
 last_curated: null
 last_deep_review: 2026-06-25T00:00:00+00:00
@@ -200,5 +200,5 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 ## References
 
-1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
+1. Bostrom, N. (2003). "Are We Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 1. Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.

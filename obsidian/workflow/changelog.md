@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T22:38:49+00:00
+ai_modified: 2026-10-24T22:53:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:53 - refine-draft
+- **Status**: Success
+- **File**: [[voids/simulation-detection-void]], [[voids/meta-epistemology-of-limits]], [[concepts/adaptive-computational-depth]], [[concepts/simulation]]
+- **Original score**: n/a (single-reference title fix; `scripts/curate.py` absent)
+- **Task**: Each References entry for Bostrom 2003 used the preprint title "Are You Living in a Computer Simulation?" while citing the journal version. Crossref (doi 10.1111/1467-9213.00309) gives the published title "Are We Living in a Computer Simulation?", *The Philosophical Quarterly* 53(211), 243-255.
+- **Changes**: In all four files, `Bostrom, N. (2003). "Are You Living in a Computer Simulation?"` → `"Are We Living in a Computer Simulation?"`. Volume, issue and pages (53(211), 243-255) already matched Crossref in all four; no change. No DOI added (none of the four pages carries DOIs on its other references).
+- **Body check**: no body sentence in any of the four names or quotes the title (the body mentions are "Bostrom's simulation argument (2003)" and "Bostrom (2003)"), so only the reference lines changed.
+- **Not edited**: `archive/voids/natural-vs-designed-limits.md` still carries the "You" title; left until the NEEDS-HUMAN archived-page publication-policy decision. Five research notes and two review files with the same title left as historical records.
+- **Word count** (analyze_length): simulation-detection-void 1530 → 1530; meta-epistemology-of-limits 2957 → 2957 (voids hard gate 3000); adaptive-computational-depth 1950 → 1950; simulation 2605 → 2605. All deltas 0.
+- **Frontmatter**: `ai_modified` bumped to 2026-10-24T22:53:05+00:00 on all four. `ai_system` +claude-opus-5-5 on simulation-detection-void, adaptive-computational-depth and simulation (absent before); meta-epistemology-of-limits already contained it, left unchanged. `modified` left as-is.
+- **Published**: yes
 
 ## 22:38 - refine-draft
 - **Status**: Success

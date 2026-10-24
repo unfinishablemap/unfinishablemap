@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine? Estimate their total
 created: 2026-01-16
 modified: 2026-08-19
 human_modified: null
-ai_modified: 2026-10-24T17:10:01+00:00
+ai_modified: 2026-10-24T22:53:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -199,7 +199,7 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 4. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
 5. Nicholas of Cusa. (1440). *De Docta Ignorantia* (*On Learned Ignorance*).
-6. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
+6. Bostrom, N. (2003). "Are We Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 7. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*.
 8. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 9. Dennett, D. "Review of McGinn, *The Problem of Consciousness*." https://ase.tufts.edu/cogstud/dennett/papers/mcginn.htm

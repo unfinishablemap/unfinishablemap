@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-08-24 09:21:07+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-24 22:53:05+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[locality]]'
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 00:00:00+00:00
-lastmod: 2026-08-24 09:21:07+00:00
+lastmod: 2026-10-24 22:53:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -204,5 +204,5 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 ## References
 
-1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
+1. Bostrom, N. (2003). "Are We Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 1. Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.

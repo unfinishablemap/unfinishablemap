@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-10-14 11:14:37+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-10-24 22:53:05+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[simulation]]'
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-25 02:59:53+00:00
-lastmod: 2026-10-14 11:14:37+00:00
+lastmod: 2026-10-24 22:53:05+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -131,6 +131,6 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 
 ## References
 
-1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
+1. Bostrom, N. (2003). "Are We Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 2. Kipping, D. (2020). "A Bayesian Approach to the Simulation Argument." *Universe*, 6(8), 109.
 3. Neukart, F., Indset, A., Pflitsch, M., & Perelshtein, M. (2022). "Do we live in a [quantum] simulation? Constraints, observations, and experiments on the simulation hypothesis." *arXiv preprint* arXiv:2212.04921.

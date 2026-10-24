@@ -4,7 +4,7 @@ description: "Adaptive computational depth—the idea that reality allocates det
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-09-30T12:13:01+00:00
+ai_modified: 2026-10-24T22:53:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[stapp-quantum-mind]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-07-12T16:55:02+00:00
@@ -123,7 +123,7 @@ The adaptive-computational-depth framework would face serious difficulty if:
 ## References
 
 1. Wheeler, J.A. (1990). "Information, Physics, Quantum: The Search for Links." *Proceedings of the 3rd International Symposium on Foundations of Quantum Mechanics*.
-2. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
+2. Bostrom, N. (2003). "Are We Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 3. Wolfram, S. (2002). *A New Kind of Science*. Champaign, IL: Wolfram Media.
 4. Irwin, K., Amaral, M., & Chester, D. (2020). "The Self-Simulation Hypothesis Interpretation of Quantum Mechanics." *Entropy*, 22(2), 247.
 5. Penrose, R. (1994). *Shadows of the Mind: A Search for the Missing Science of Consciousness*. Oxford: Oxford University Press.
