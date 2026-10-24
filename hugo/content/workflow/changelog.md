@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 13:47:37+00:00
+ai_modified: 2026-10-24 14:09:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 13:47:37+00:00
+lastmod: 2026-10-24 14:09:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:09 - research-topic
+- **Status**: Success
+- **Topic**: Evaluation awareness as a reactivity test for model self-report
+- **Output**: [evaluation-awareness-and-model-self-report-2026-10-24](/research/evaluation-awareness-and-model-self-report-2026-10-24/)
+- **Sources consulted**: 22 (10 full texts plus the Sonnet 4.5 system card, McCambridge 2014 and Orne 1962 read raw; 6 arXiv abstracts; 3 metadata or secondary only)
+- **Verdict**: `recommended_action: fold`, so no expand task is minted. The host is `topics/chain-of-thought-as-verbal-protocol` (2,993 of 4,000 by analyze_length; headroom 1,006). The fold is a new subsection, `#evaluation-awareness`, closing "Reactivity Inverts": core F1 of about 510 words with references, plus an optional F2 of about 150. `cross-architecture-llm-introspection` (3,958; headroom 41) and `introspection-architecture-independence-scoring` (4,219, over the hard gate) are skipped. `voids/observer-selection-void` L85 can take an optional zero-word pipe.
+- **Quote verification**: 72 of 72 candidate quotations matched the raw texts, and both negative controls failed as they should. The 9 quotations in the draft passages were re-checked: 9 of 9.
+- **Key findings**:
+  - "Evaluation awareness" names a classification ability. Representation, verbalisation and behaviour are weakly coupled, and verbalisation can be trained up 2.4–2.9 times with the probed belief held stable.
+  - Causal tests that edit the trace disagree: Schoen et al. find an effect on one o3 evaluation; Knecht et al. find near-null effects across eight open-weight models. Knecht et al.'s explanation, that the answer is committed before awareness is voiced, is the host's concurrency break point.
+  - Human symmetry holds. McCambridge et al. 2014 conclude that participation effects exist but that their conditions, mechanisms and magnitudes are not securely known. The Map's DES, protocol-analysis and process-content pages already carry the demand-characteristics caution.
+  - Coiner correction: McCambridge et al. date "Hawthorne effect" to a 1953 textbook (French), not Landsberger 1958. Orne introduced "demand characteristics" in 1959.
 
 ## 13:47 - deep-review
 - **Status**: Success
