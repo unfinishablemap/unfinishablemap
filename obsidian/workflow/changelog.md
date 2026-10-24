@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T06:03:44+00:00
+ai_modified: 2026-10-24T06:14:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:14 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/nondualistic-interactionism]]
+- **Task**: P1 closure-section task from the 2026-10-24 convergent outer reviews (ChatGPT + Claude; synthesis C1/C5). Ran first, before the sibling P1 source-fidelity task.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - (1) Heading "Closure Kept, Completeness Denied" → "Entity-Domain Closure Kept, Microphysical Sufficiency Denied" (0 inbound anchor links in obsidian/, hugo/content/ or archive/). L63 now separates four theses: entity-domain closure kept in Griffin's enlarged sense ("physical-mental entities", p. 237); the materialist reading ("all causal efficacy must be exerted by the level of physical entities studied by physics", p. 236) and microphysical sufficiency rejected; "rejects Kim's contrary principle" (p. 237), the qua-physical principle; completeness as "yet another divergence" (p. 237) with the p. 238 "pipe dream" sentence kept. Added Kim's verdict that panexperientialism is "inconsistent with each of the three doctrines (understood in their proper intended sense)" (Kim 1999), with zero-word pipes [[causal-exclusion-argument|Kim's]] and [[causal-closure|closure]]. Montero not quoted.
+  - (2) L67 Chalmers: added the §11 footnote ("The main difference between the type-D view and the type-F view is that the type-D view involves fundamental causation above the microphysical level") and the type-D definition ("is also compatible with a property dualism, on which there is just one sort of substance or entity"). "Chalmers does not say this of Griffin" kept. The combination-problem clause ("might have the advantage of avoiding the combination problem") is scoped to type-D views in general, and its application to Griffin is marked as the Map's reading (gained only in part, since the problem returns as Kim's composition demand, consistent with L87). "That disagreement is the kind axis" replaced: the disagreement is over whether causal structure or entity kind settles the label, and a type-D classification would not by itself supply the Map's kind claim.
+  - (3) Table: "Physics complete?" → "Microphysics causally closed?" (values unchanged; type-F "yes" matches Chalmers's "accept that the microphysical network is causally closed", and no longer reads against russellian-monism L115 "Physics is incomplete"). Type-F "Mind numerically distinct" cell: "no" → "not as such".
+- **Quote verification**: every new or retained quotation in L63/L67 grep-verified at raw text, with surrounding passage read and subjects checked for splices: Griffin 1998 UC Press e-edition (docId ft8c6009k3, entire_text; pages from JD_Page markers, calibrated on pp. 47/48); Kim 1999 religion-online; Chalmers 2003 consc.net/papers/nature.html. Nothing from Gemini's "Paolini Paoletti".
+- **Engagement classification** (editor-internal): Kim's closure verdict, Mode Three; the article reports that Griffin keeps closure only in an enlarged sense while Kim holds the doctrines "in their proper intended sense", a disagreement over what closure means, not a refutation of either. Chalmers is a taxonomy, not an opponent reply; the type-D application stays marked as the Map's reading. Kind axis left as bedrock; no tier upgrade; nothing concedes epiphenomenalism.
+- **Length**: 2,436 → 2,648 by analyze_length (+212 vs a budget of about +200; concepts hard 3,500).
+- **Left for the sibling P1 source-fidelity task**: L65 still opens "Two published responses ... Jaegwon Kim (1999)", which now follows Kim's verdict in L63; its rewrite of the lead should take that into account. L87 "he denies completeness" is still accurate and was left alone.
+- **Published**: yes
 
 ## 06:03 - combine-outer-reviews
 - **Status**: Success
