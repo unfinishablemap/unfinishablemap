@@ -5,6 +5,17 @@ ai_modified: 2026-10-24T06:32:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 07:11 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 3058 → 3193 (+135; analyze_length; concepts soft 2500, hard 3500). Prose about +85, three references about +53.
+- **Changes**: Convergent outer-review cluster C9 (ChatGPT 5.6 Sol Pro and Claude Fable 5.1, 2026-10-24). Removed the L62 sentence presenting Whiteheadian views as "drops of experience" that "compound naturally". Added a paragraph to the Subject-Summing section giving Griffin's compound-individual model its own place: real subjects kept, no summing, the mind a further dominant subject presiding over the neurons (Griffin 1998, p. 186, quoted verbatim). The paragraph says the burden returns as Kim's (1999) composition-principle demand and adds Basile (2010)'s argument that even Whitehead's version fails the composition problem, cited at abstract strength. Linked [[nondualistic-interactionism]] in the body and added it to frontmatter `concepts`. Added references for Basile 2010, Griffin 1998 and Kim 1999. The interface-unity residue (L132, L151–L157) was not duplicated. Griffin is not enlisted for the Map, and no tier upgrade is drawn from process compatibility.
+- **Sources verified**: Griffin 1998 p. 186 quote, grep-verified in the raw UC Press e-edition (docId=ft8c6009k3, entire_text). The quote sits between the JD_Page_186 and JD_Page_187 markers. Basile 2010 metadata checked at Crossref (DOI 10.5840/process201039224, 39(2) 264–284) and the abstract read via OpenAlex (W1563786818, mag id). The subtitle "Where Do We Stand?" was confirmed at PhilPapers BASMVP. Kim 1999 metadata checked at Crossref (10.5840/process1999281/222). The Kim paraphrase follows the nondualistic-interactionism page's verified wording; the Kim text itself was not re-read.
+- **Engagement with Griffin and Kim**: Mode Three (framework-boundary). The paragraph states where the burden relocates and records Kim's and Basile's objections without claiming a refutation.
+- **Not cited**: Siddharth 2024 and Kadić 2024 (metadata-only leads, not read).
+- **Published**: yes
+
 ## 07:04 - deep-review
 - **Status**: Success
 - **File**: [[topics/tonic-immobility-and-awareness]]

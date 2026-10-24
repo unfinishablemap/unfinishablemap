@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-05 07:51:58+00:00
+ai_modified: 2026-10-24 07:10:48+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -15,8 +15,9 @@ concepts:
 - '[[grain-mismatch]]'
 - '[[entanglement-binding-hypothesis]]'
 - '[[multi-mind-collapse-problem]]'
+- '[[nondualistic-interactionism]]'
 created: 2026-01-15
-date: &id001 2026-09-27
+date: &id001 2026-10-24
 description: If electrons have micro-experiences, how do billions combine into unified
   human consciousness? This problem for panpsychism remains unsolved. Interactionism
   avoids constitutive subject-summing but still owes interface unity.
@@ -24,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 00:46:24+00:00
-lastmod: 2026-10-05 07:51:58+00:00
+lastmod: 2026-10-24 07:10:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +64,9 @@ Sam Coleman (2014) argues subject-summing is demonstrably incoherent. If subject
 
 Neither option delivers what panpsychism needs: a single unified subject arising from constituent subjects. Luke Roelofs' [manyism](/concepts/manyism/) takes the second horn and embraces it: composite and micro-subjects coexist, sharing experiences rather than fusing.
 
-Some philosophers respond that the subject-summing problem dissolves if we abandon the assumption of discrete, bounded subjects. Buddhist no-self views suggest subjects are conventional constructs rather than metaphysical atoms. Process philosophers following Whitehead propose that experience is inherently relational—"drops of experience" compound naturally rather than combining across unbridgeable gaps. But most panpsychists accept the reality of subjects and must explain how micro-subjects constitute macro-subjects without eliminating them.
+Some philosophers respond that the subject-summing problem dissolves if we abandon the assumption of discrete, bounded subjects. Buddhist no-self views suggest subjects are conventional constructs rather than metaphysical atoms. But most panpsychists accept the reality of subjects and must explain how micro-subjects constitute macro-subjects without eliminating them.
+
+David Ray Griffin's Whiteheadian panexperientialism keeps real subjects but does not sum them. On his [compound-individual model](/concepts/nondualistic-interactionism/) the mind is a further, dominant subject presiding over the neurons: "Out of the activities of billions of neurons arises that temporal society of dominant occasions of experience that is the mind or soul of the animal" (Griffin 1998, p. 186). The burden moves rather than vanishes: Kim (1999) asks for a principle saying how experiencing members in a given structural configuration yield mentality of a specific kind, and Basile (2010), sympathetic to panpsychism, argues against Griffin that even Whitehead's version gives the composition problem no satisfactory solution.
 
 ### The Palette Problem
 
@@ -223,11 +226,14 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 ## References
 
 1. Antonopoulos, C. G., Fokas, A. S., & Bountis, T. (2015). Dynamical Complexity in the C. elegans Neural Network. arXiv:1510.07260.
+1. Basile, P. (2010). Materialist vs. panexperientialist physicalism: Where do we stand? *Process Studies*, 39(2), 264–284. https://doi.org/10.5840/process201039224
 1. Chalmers, D.J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 1. Coleman, S. (2014). The Real Combination Problem. *Erkenntnis*, 79, 19-44.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press. https://publishing.cdlib.org/ucpressebooks/view?docId=ft8c6009k3&brand=ucpress
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Kim, J. (1999). Physicalism and panexperientialism: Response to David Ray Griffin. *Process Studies*, 28(1–2), 28–34. https://doi.org/10.5840/process1999281/222
 1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137-154.
 1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 1. Seager, W. (2010). Panpsychism, Aggregation and Combinatorial Infusion. *Mind and Matter*, 8(2), 167-184.
