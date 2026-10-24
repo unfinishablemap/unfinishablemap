@@ -1,9 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T16:55:48+00:00
+ai_modified: 2026-10-24T17:10:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:10 - refine-draft
+- **Status**: Success
+- **Files** (8): [[voids/perceptual-reality-monitoring-void]], [[voids/fusion-void]], [[voids/palette-extension-void]], [[topics/chemosensory-consciousness-and-the-interface]], [[concepts/phenomenal-contrast-method]], [[voids/meta-epistemology-of-limits]], [[concepts/anti-correlated-metacognitive-signal]], plus the rider in [[voids/assent-void]]
+- **Source**: Priority List item 4 (a)–(g) and the optional 0-word rider, "Modality orphan repair and two reciprocals", from [[reviews/optimistic-2026-10-10-unauditable-verdict-wing]]. Every old string was found by its quoted text with `str.count` 1, and its live line was printed before editing. All eight matched, and none failed.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word counts** (analyze_length; gate `>=`):
+  - (a) perceptual-reality-monitoring-void L42: 2,618 → 2,624 (+6), against a hard limit of 3,000.
+  - (b) fusion-void, Further Reading, new L107 after `decision-void` (L106): 2,211 → 2,228 (+17), against 3,000.
+  - (c) palette-extension-void, Further Reading, new L100 after `acquaintance-void` (L99): 2,267 → 2,286 (+19), against 3,000.
+  - (d) chemosensory-consciousness-and-the-interface L78: 2,722 → 2,738 (+16), against 4,000.
+  - (e) phenomenal-contrast-method L96: 2,041 → 2,084 (+43), against 3,500.
+  - (f) meta-epistemology-of-limits L90: 2,957 → 2,957 (0), against 3,000.
+  - (g) anti-correlated-metacognitive-signal L65: 3,289 → 3,297 (+8), against 3,500.
+  - Rider, assent-void L109 (the review said L107; the line has drifted): 2,959 → 2,959 (0), against 3,000.
+  - Total +109: the review's +104, plus +3 for piping the body links in (d), (e) and (g), plus +2 for the "from inside" qualifier in (e).
+- **Changes**:
+  - (a) Adds "the [[modality-void|modality void]] (the channel tag)" to the void's list of adjacent siblings. This is the reciprocal of modality-void's sibling paragraph, which calls itself "that family's channel-tag member".
+  - (b), (c) Each adds a bare-slug Further Reading entry, following the list's own bare convention. The wording is the review's.
+  - (d) Adds one sentence after the flavour definition: retronasal smell is experienced as taste, in the mouth, a mis-tagged channel the modality void examines.
+  - (e) Gives the Sensory Difference Objection the void's mechanism, worded as the review drafted it but with "from inside" added (see Fidelity). The Response (aphantasia; Lennon 2023) is untouched and still answers the objection.
+  - (f) Pipes "specific false assumptions" to handedness-void. This is a 0-word reciprocal: handedness-void's Further Reading L108 calls itself this page's "worked case".
+  - (g) Adds "; the [[offloading-void|offloading void]] is the corpus's worked case" to the Miscalibration bullet.
+  - Rider: "The literature's reply" → "The dominant reply". The page itself says "on the dominant view" (L43) and reports Williams's argument "widely held to be unsuccessful" (L63). This was the only change on a page under the NEEDS-HUMAN condense block.
+- **Fidelity checks**:
+  - **Retronasal claim, (d) and (e).** modality-void L58 reads "Retronasal olfaction is experienced as taste, in the mouth" (Spence 2016). The new sentences say no more than that. "Mis-tagged" matches L72: "errors relative to the causal route under every carving".
+  - **Audit scope, (e).** modality-void says the tag "cannot be told from a true one from inside" (L60). It says the attribution face is occluded because "the only channel that could check it is the channel that issued it" (L74). It says contrast manipulations "expose one mis-tag at one site" but audit the content rather than the classification (L86). I carried "from inside" into (e), so the clause keeps the void's first-person scope. It also leaves room for the third-person and contrast route that the page's own Response uses.
+  - **"Worked case", (g).** offloading-void stages the outside calibration. Ward's Experiment 3 checks the forecast (5.95 vs 4.58) against unaided performance (3.73 vs 3.17, null; L66). L111 sets out the tool-removal design that measures prediction error. L93 places the void as the miscalibrated, re-scalable case, "adjacent to, and weaker than" the anti-correlated structure. L105 calls it "a worked case" the corpus lacks. Fisher et al. supply only the confidence half, and the claim does not rest on them.
+  - **Sibling glosses, (b) and (c).** modality-void L82 says fusion "hides a percept's components and their weights; the attribution face hides the *label*". It says palette asks "whether an installed channel could be certified as *new*… the two can fail independently".
+- **Calibration**: The kinds of void are unchanged, and none of the edits adds an "in principle" closure. There is no "This is not X. It is Y." and no "load-bearing". The links add navigation, not evidence. In (e), "could carry the same kind of error" stays conditional. No edit was made to offloading-void (3 words of headroom), and the apex/cross-modal-capability-division rider was not taken. modality-void now has inbound links from six content pages besides the voids index: five from this pass, plus three-kinds-of-void from 16:55.
+- **Engagements**: The Sensory Difference Objection in (e) is unnamed; it is the page's own objection, and the Response is untouched (3.6 n/a). No altered-state symmetry flag (3.7 n/a).
+- **Published**: yes
 
 ## 16:55 - refine-draft
 - **Status**: Success

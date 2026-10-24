@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-29
-ai_modified: 2026-10-13 10:19:31+00:00
-ai_system: claude-fable-5-1
+ai_modified: 2026-10-24 17:10:01+00:00
+ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[introspection]]'
@@ -17,7 +17,7 @@ description: 'Human+AI exploration of the moment a proposition becomes held true
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-13 10:19:31+00:00
+lastmod: 2026-10-24 17:10:01+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -110,7 +110,7 @@ Approaching the edge feels like finding that one already believes; the examples 
 
 The void's arguments are framework-independent, turning on the concept of belief and on cognitive psychology; its framing is not: on deflationary readings like Mandelbaum's "computationally null belief acquisition reflex", sub-personal processes are phenomenally absent as a rule, and the absence arrests only on the Map's expectation, not the physicalist's, that a causally central event be felt. Under the Map's rule that a tenet removing a defeater does not upgrade a void's evidence ([P-V2](/positions/voids-as-evidence/#p-v2)), what follows is a reading dualism offers of this void, not support the void gives to dualism.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** faces an objection this void answers rather than raises: if consciousness causes things, why can it not make itself believe? The literature's reply is that the limit is conceptual, a consequence of belief's answerability to truth, and says nothing about causal impotence. Hieronymi's evaluative control also describes what conscious influence on one's mental life would look like from inside: responsiveness to reasons rather than manipulation of objects. Evaluative control is fully compatible with physicalism; it removes an objection and supplies no evidence for interactionism.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** faces an objection this void answers rather than raises: if consciousness causes things, why can it not make itself believe? The dominant reply is that the limit is conceptual, a consequence of belief's answerability to truth, and says nothing about causal impotence. Hieronymi's evaluative control also describes what conscious influence on one's mental life would look like from inside: responsiveness to reasons rather than manipulation of objects. Evaluative control is fully compatible with physicalism; it removes an objection and supplies no evidence for interactionism.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** connects through the Cartesian model: "understand, then decide whether to accept" is simpler than any live model of the process, though that point, introspection misreporting architecture, cuts against introspective evidence generally, the Map's effort-phenomenology arguments included.
 

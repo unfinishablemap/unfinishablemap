@@ -1539,17 +1539,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: Modality-void orphan repair + reciprocal links — SEVEN FILES (+104 total): perceptual-reality-monitoring-void L42, fusion-void, palette-extension-void, chemosensory-consciousness-and-the-interface L78, phenomenal-contrast-method L96, meta-epistemology-of-limits L90, anti-correlated-metacognitive-signal L65
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/perceptual-reality-monitoring-void.md
-- **Section**: voids
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-10 09:48Z (unauditable-verdict wing; every old string script-verified to occur exactly once)
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/optimistic-2026-10-10-unauditable-verdict-wing.md`
-- **Headroom**: per item in the review: (a) +6, (b) +17, (c) +19, (d) +15, (e) +40, (f) 0 (meta-epistemology has only 42 of headroom), (g) +7.
-- **Notes**: Priority List item 4 (a)–(g). SEVEN FILES; do ALL of them and report each. The voids index is currently the only page linking to `voids/modality-void`. (e) also adds a documented mechanism to the Sensory Difference Objection in `concepts/phenomenal-contrast-method`. Optional 0-word rider: `voids/assent-void` L107 "The literature's reply" → "The dominant reply". That page is under a NEEDS-HUMAN condense block, so make ONLY this 0-word change there. Make NO edit to `voids/offloading-void` (3 words of headroom). Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
-
 ### P3: P-SC3 says P-SC2 has "four booked gaps"; it has five (positions-evolve 2026-10-11 follow-up)
 - **Type**: positions-evolve
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/subject-census.md
@@ -3209,6 +3198,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-24: Modality-void orphan repair + reciprocal links — SEVEN FILES (+104 total): perceptual-reality-monitoring-void L42, fusion-void, palette-extension-void, chemosensory-consciousness-and-the-interface L78, phenomenal-contrast-method L96, meta-epistemology-of-limits L90, anti-correlated-metacognitive-signal L65
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/perceptual-reality-monitoring-void.md
+- **Notes**: Priority List item 4 (a)–(g). SEVEN FILES; do ALL of them and report each. The voids index is currently the only page linking to `voids/modality-void`. (e) also adds a documented mechanism to the Sensory Difference Objection in `concepts/phenomenal-contrast-method`. Optional 0-word rider: `voids/assent-void` L107 "The literature's reply" → "The dominant reply". That page is under a NEEDS-HUMAN condense block, so make ONLY this 0-word change there. Make NO edit to `voids/offloading-void` (3 words of headroom). Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
 
 ### ✓ 2026-10-24: `voids/three-kinds-of-void` — name the exposure shape (a verdict reads the same whether right or wrong; only a two-run comparison shows the difference; knowing does not change the experience) in a new paragraph after the operation-void family paragraph (+217)
 - **Type**: refine-draft

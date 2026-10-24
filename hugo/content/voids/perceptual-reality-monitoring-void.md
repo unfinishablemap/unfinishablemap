@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-10-05 07:51:58+00:00
+ai_modified: 2026-10-24 17:10:01+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 18:38:12+00:00
-lastmod: 2026-10-05 07:51:58+00:00
+lastmod: 2026-10-24 17:10:01+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,7 +42,7 @@ topics:
 
 Consciousness must decide, continuously and in real time, whether a given sensory or quasi-sensory content is externally generated (perception) or self-generated (imagery, expectation, prediction). It performs this discrimination without exposing the operation to introspection: what arrives is the verdict — *real* or *imagined* — together with a felt-real signal calibrated to the verdict rather than to the truth of it. The Unfinishable Map names the **perceptual reality-monitoring void** for the structural opacity around this operation. The discriminator is sub-personal and inspectable only by its outputs; the felt-real label is a constructed signal, not a direct read of reality.
 
-The void is primarily **occluded** (the operation is hidden behind its verdict) with a strong **unexplorable** component (the criteria the operation would need to use overlap structurally with what it would need to distinguish). It sits adjacent to but distinct from the [source-attribution void](/voids/source-attribution-void/) (memory-time origin inference), the [imagery void](/voids/imagery-void/) (the structure of imagery itself), and the [predictive-construction void](/voids/predictive-construction-void/) (the standing architectural construct/receive boundary). This void is the moment-by-moment operational face of that broader architecture, explored further [below](#relation-to-the-predictive-construction-void).
+The void is primarily **occluded** (the operation is hidden behind its verdict) with a strong **unexplorable** component (the criteria the operation would need to use overlap structurally with what it would need to distinguish). It sits adjacent to but distinct from the [source-attribution void](/voids/source-attribution-void/) (memory-time origin inference), the [imagery void](/voids/imagery-void/) (the structure of imagery itself), the [modality void](/voids/modality-void/) (the channel tag), and the [predictive-construction void](/voids/predictive-construction-void/) (the standing architectural construct/receive boundary). This void is the moment-by-moment operational face of that broader architecture, explored further [below](#relation-to-the-predictive-construction-void).
 
 ## The Three Faces of the Void
 

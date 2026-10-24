@@ -4,7 +4,7 @@ description: "Perception combines its estimates by hidden weights and a hidden c
 created: 2026-09-04
 modified: 2026-10-15
 human_modified:
-ai_modified: 2026-10-15T23:21:30+00:00
+ai_modified: 2026-10-24T17:10:01+00:00
 draft: false
 topics:
   - "[[the-binding-problem]]"
@@ -104,6 +104,7 @@ The catalogue itself performs fusion: lines of evidence are combined into single
 - [[capability-division-problem]] — Which capabilities belong to brain and which to mind
 - [[mapping-mind-space]] — Dimensions of variation no mind can locate itself on
 - [[decision-void]] — The operation-void family, at the moment of committing
+- [[modality-void]] — Which sense delivered a content: this void hides the weights, that one the label
 - [[three-kinds-of-void]] — The unexplored, unexplorable and occluded
 
 ## References

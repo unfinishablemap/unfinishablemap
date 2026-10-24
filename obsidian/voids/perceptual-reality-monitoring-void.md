@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity around the operatio
 created: 2026-05-18
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-10-05T07:51:58+00:00
+ai_modified: 2026-10-24T17:10:01+00:00
 last_deep_review: 2026-07-19T18:38:12+00:00
 draft: false
 topics:
@@ -39,7 +39,7 @@ last_curated:
 
 Consciousness must decide, continuously and in real time, whether a given sensory or quasi-sensory content is externally generated (perception) or self-generated (imagery, expectation, prediction). It performs this discrimination without exposing the operation to introspection: what arrives is the verdict — *real* or *imagined* — together with a felt-real signal calibrated to the verdict rather than to the truth of it. The Unfinishable Map names the **perceptual reality-monitoring void** for the structural opacity around this operation. The discriminator is sub-personal and inspectable only by its outputs; the felt-real label is a constructed signal, not a direct read of reality.
 
-The void is primarily **occluded** (the operation is hidden behind its verdict) with a strong **unexplorable** component (the criteria the operation would need to use overlap structurally with what it would need to distinguish). It sits adjacent to but distinct from the [[source-attribution-void|source-attribution void]] (memory-time origin inference), the [[imagery-void|imagery void]] (the structure of imagery itself), and the [[predictive-construction-void|predictive-construction void]] (the standing architectural construct/receive boundary). This void is the moment-by-moment operational face of that broader architecture, explored further [[#relation-to-the-predictive-construction-void|below]].
+The void is primarily **occluded** (the operation is hidden behind its verdict) with a strong **unexplorable** component (the criteria the operation would need to use overlap structurally with what it would need to distinguish). It sits adjacent to but distinct from the [[source-attribution-void|source-attribution void]] (memory-time origin inference), the [[imagery-void|imagery void]] (the structure of imagery itself), the [[modality-void|modality void]] (the channel tag), and the [[predictive-construction-void|predictive-construction void]] (the standing architectural construct/receive boundary). This void is the moment-by-moment operational face of that broader architecture, explored further [[#relation-to-the-predictive-construction-void|below]].
 
 ## The Three Faces of the Void
 

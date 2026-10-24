@@ -4,7 +4,7 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-10-09T12:20:33+00:00
+ai_modified: 2026-10-24T17:10:01+00:00
 last_deep_review: 2026-09-05T16:42:25+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ related_articles:
   - "[[process-content-distinction]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-19
 last_curated: null
 ---
@@ -62,7 +62,7 @@ This qualifier is load-bearing. Treating the Rebouillat finding as a universal i
 The concept's analytic work depends on distinguishing three failure modes of a candidate metacognitive signal *S* for criterion *C*:
 
 - **Noise.** *S* fluctuates around *C* with non-zero error. Averaging across trials recovers signal; calibration improves on no-instrument.
-- **Miscalibration.** *S* tracks *C* with a systematic bias or scale error. Once the bias is identified, *S* can be re-scaled and the signal is recovered. Calibration-from-outside is possible.
+- **Miscalibration.** *S* tracks *C* with a systematic bias or scale error. Once the bias is identified, *S* can be re-scaled and the signal is recovered. Calibration-from-outside is possible; the [[offloading-void|offloading void]] is the corpus's worked case.
 - **Anti-correlation in the regime where it matters.** In the regime *R* where reliability of *C* is decision-relevant, *S* varies inversely with *C*. Averaging amplifies error in *R*; calibration-from-inside requires the very signal that is inverted. Calibration-from-outside is possible only if regime *R* can be identified independently of *S* — and in self-report contexts, the identification of *R* often *is* via *S*.
 
 The third case is what an anti-correlated metacognitive signal denotes. It is the strongest case for treating a metacognitive failure as a structural feature rather than a tractable engineering problem. Noise yields to statistics; miscalibration yields to scale; anti-correlation-in-regime yields only to *independent identification of the regime* — and where the introspector is the only instrument with access, that identification is not available from the inside.

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-09-28 11:50:43.543027+00:00
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_modified: 2026-10-24 17:10:01+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-14 22:36:49+00:00
-lastmod: 2026-09-28 11:50:43.543027+00:00
+lastmod: 2026-10-24 17:10:01+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -79,7 +79,7 @@ The affective tone is not merely present *with* the quality; in the chemical sen
 
 Honesty requires the obvious concession: the limbic-bypass anatomy is itself a *physicalist mechanism*. The Map does not claim the felt potency of an odour memory needs a non-physical route; the wiring is real and well-described. The point is again about the felt character the wiring leaves unexplained—why the pattern is suffused with this particular affective tone—not about the existence of the pathway.
 
-Flavour adds a binding case. What is colloquially "taste" is mostly **flavour**: the fused product of gustation, retronasal olfaction, and oral somatosensation (texture, temperature, the chemesthetic bite of chilli or carbonation). The unified flavour percept—a *Barolo*, a ripe peach—lives in no single channel, and which channels are *constitutive* of it rather than merely causal contributors is an open question (Skrzypulec). Recent work in behaving rats finds gustatory cortex represents odour–taste mixtures as integrated objects distinct from the sum of their parts (*Journal of Neuroscience*, 2024). This is [binding](/topics/the-binding-problem/) without spatial scaffolding—the chemical-sense parallel to [auditory scene analysis](/topics/auditory-consciousness-and-the-interface/): phenomenal unity that cannot be reduced to "features at the same place," because the contributing channels share no common spatial frame to begin with.
+Flavour adds a binding case. What is colloquially "taste" is mostly **flavour**: the fused product of gustation, retronasal olfaction, and oral somatosensation (texture, temperature, the chemesthetic bite of chilli or carbonation). Retronasal smell is experienced as taste, in the mouth, a mis-tagged channel the [modality void](/voids/modality-void/) examines. The unified flavour percept—a *Barolo*, a ripe peach—lives in no single channel, and which channels are *constitutive* of it rather than merely causal contributors is an open question (Skrzypulec). Recent work in behaving rats finds gustatory cortex represents odour–taste mixtures as integrated objects distinct from the sum of their parts (*Journal of Neuroscience*, 2024). This is [binding](/topics/the-binding-problem/) without spatial scaffolding—the chemical-sense parallel to [auditory scene analysis](/topics/auditory-consciousness-and-the-interface/): phenomenal unity that cannot be reduced to "features at the same place," because the contributing channels share no common spatial frame to begin with.
 
 Flavour is also where the Map's recurring example finally lands. [The architect of perception](/topics/consciousness-as-perceptual-architect/) uses the sommelier—who "tastes minerality where the casual drinker tastes wine," receiving "the same chemical compounds" yet extracting structure the novice cannot—as its headline case of perceptual learning, and tasting a *Barolo* as a unified percept "with an identity that transcends its components" as its case of perceptual unitisation. Those examples were always chemosensory. Here is their modality: the same retronasal-olfactory binding and the same stimulus-percept gap, now described in the modality where they are sharpest. Taste, it should be added, is the *more* tractable chemical sense—its five qualities (sweet, sour, salty, bitter, umami) are comparatively discrete, the old "tongue map" is a debunked myth, and how those qualities are coded centrally (labeled-line versus across-fibre population coding) remains an open dispute rather than a settled one. The article does not need taste to carry olfaction's full weight; gustation's gap is genuine but narrower.
 

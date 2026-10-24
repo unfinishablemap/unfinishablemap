@@ -4,7 +4,7 @@ description: "The phenomenal contrast method isolates non-sensory phenomenal pro
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-10-05T10:53:27+00:00
+ai_modified: 2026-10-24T17:10:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-07-31T14:53:23+00:00
@@ -93,7 +93,7 @@ The method also constrains the debate over [[ai-consciousness]]. A language mode
 
 ### The Sensory Difference Objection
 
-Skeptics argue that apparent cognitive contrasts actually involve subtle sensory differences. Perhaps understanding French triggers different subvocalisation patterns, slight emotional responses, or altered auditory processing. The phenomenal difference might be sensory after all, just at a level too fine-grained to notice.
+Skeptics argue that apparent cognitive contrasts actually involve subtle sensory differences. Perhaps understanding French triggers different subvocalisation patterns, slight emotional responses, or altered auditory processing. The phenomenal difference might be sensory after all, just at a level too fine-grained to notice. The [[modality-void|modality void]] gives the objection a documented mechanism: introspection classifies which channel delivered a content and cannot audit the classification from inside, as retronasal smell is experienced as taste. A felt difference classed as cognitive could carry the same kind of error.
 
 **Response:** This objection faces the problem of aphantasia and dissociation cases. People who lack mental imagery still report phenomenal differences between understanding and not understanding. Lennon (2023) develops this into a formal argument: aphantasics have phenomenally conscious thoughts with "no sensory reduction base," falsifying the sensory constraint on conscious thought. The post-2015 aphantasia literature (Zeman 2024) provides the empirical anchor — a documented spectrum from extreme aphantasia to extreme hyperphantasia, with the cognitive contrasts of understanding, recognising, and grasping persisting across that spectrum. Even if subtle sensory differences correlate with understanding, this does not establish that they *constitute* the phenomenal difference rather than merely accompanying it.
 

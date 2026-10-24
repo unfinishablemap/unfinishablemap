@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-10-15 23:21:30+00:00
+ai_modified: 2026-10-24 17:10:01+00:00
 ai_system: claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Perception combines its estimates by hidden weights and a hidden co
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-15 23:21:30+00:00
+lastmod: 2026-10-24 17:10:01+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -107,6 +107,7 @@ The catalogue itself performs fusion: lines of evidence are combined into single
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to brain and which to mind
 - [mapping-mind-space](/voids/mapping-mind-space/) — Dimensions of variation no mind can locate itself on
 - [decision-void](/voids/decision-void/) — The operation-void family, at the moment of committing
+- [modality-void](/voids/modality-void/) — Which sense delivered a content: this void hides the weights, that one the label
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable and occluded
 
 ## References
