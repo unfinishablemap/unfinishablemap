@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T12:39:41+00:00
+ai_modified: 2026-10-24T13:24:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:24 - research-topic
+- **Status**: Success
+- **Topic**: The regnant occasion objection: process-internal critiques of Griffin's dominant occasion
+- **Output**: [[research/regnant-occasion-objection-2026-10-24]]
+- **Sources consulted**: 24 (13 read in raw text; 11 metadata or secondary only)
+- **Verdict**: `recommended_action: fold`, so no expand task is minted. The primary host is `concepts/nondualistic-interactionism` (2,999 of 3,500; inserts A1 and A2, at most 380 words). The secondary host is `concepts/process-philosophy` (2,461; insert B1, at most 320 words). `concepts/pairing-problem` L77 can take one optional clause.
+- **Key findings**:
+  - The explicit charge that process accounts of mind are Cartesian in disguise is Rem B. Edwards (*Process Studies* 19(3), 1990). He names Griffin. The outer reviewer did not cite him.
+  - McHenry's 1999 review contains no dominant-occasion critique.
+  - The Weber & Weekes volume has its editors reversed in the review, and its text was not readable.
+  - The objection presses the Map's posited subject (Posit One, P-I3, P-SC2) at least as hard as it presses Griffin.
+  - The driver's count of 3/2 for "regnant" included "pregnant"; the true count is 1/1.
 
 ## 12:39 - expand-topic
 - **Status**: Success
