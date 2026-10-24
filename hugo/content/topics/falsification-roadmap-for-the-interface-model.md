@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-10-14 17:07:11+00:00
+ai_modified: 2026-10-24 11:00:04+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:58:00+00:00
-lastmod: 2026-10-14 17:07:11+00:00
+lastmod: 2026-10-24 11:00:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ A principled resolution of the [knowledge argument](/concepts/knowledge-argument
 
 **Claim**: Consciousness influences physical outcomes at quantum indeterminacies without injecting energy.
 
-**What would falsify it**: The answer depends on which sub-reading of Tenet 2 is in view; the readings have materially different falsifiability profiles and should not be flattened into a single condition. The breakdown below tracks the table in [](#the-falsification-asymmetry) and inherits the calibration of the strict corridor from [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/).
+**What would falsify it**: The answer depends on which sub-reading of Tenet 2 is in view; the readings have materially different falsifiability profiles and should not be flattened into a single condition. The breakdown below tracks the table in [The Falsification Asymmetry](#the-falsification-asymmetry) and inherits the calibration of the strict corridor from [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/).
 
 *Decisive (coherence-dependent readings only)*: Demonstration that quantum coherence is physically impossible at neural timescales. This forecloses Orch-OR and the Fröhlich lines, but not the selection-only readings: suppressing superposition does not settle which outcome actualises, and post-decoherence selection operates after coherence is gone.
 

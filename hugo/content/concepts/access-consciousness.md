@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-10-24 09:26:02+00:00
+ai_modified: 2026-10-24 11:00:04+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 11:05:44+00:00
-lastmod: 2026-10-24 09:26:02+00:00
+lastmod: 2026-10-24 11:00:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +49,7 @@ Block's original formulation: "A representation is access conscious if it is poi
 
 Key features: (1) availability to multiple cognitive systems, (2) rational control over deliberate action, (3) reportability in speech or thought, and (4) functional definition—what information *does*, not what it *feels like*.
 
-**Examples**: A visual perception you can describe and reason about; information in [working memory](/concepts/working-memory/) available for executive processes. **Contrasts**: Subliminal stimuli affecting behavior without awareness; blindsight information patients can "guess" but can't use for normal reasoning. The boundaries are contested—these examples drive debates about dissociations (explained in [](#dissociations)).
+**Examples**: A visual perception you can describe and reason about; information in [working memory](/concepts/working-memory/) available for executive processes. **Contrasts**: Subliminal stimuli affecting behavior without awareness; blindsight information patients can "guess" but can't use for normal reasoning. The boundaries are contested—these examples drive debates about dissociations (explained in [Dissociations](#dissociations)).
 
 ## The Access/Phenomenal Distinction {#distinction}
 

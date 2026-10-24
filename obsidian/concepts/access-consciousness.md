@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-10-24T09:26:02+00:00
+ai_modified: 2026-10-24T11:00:04+00:00
 draft: false
 last_deep_review: 2026-07-25T11:05:44+00:00
 topics:
@@ -46,7 +46,7 @@ Block's original formulation: "A representation is access conscious if it is poi
 
 Key features: (1) availability to multiple cognitive systems, (2) rational control over deliberate action, (3) reportability in speech or thought, and (4) functional definition—what information *does*, not what it *feels like*.
 
-**Examples**: A visual perception you can describe and reason about; information in [[working-memory|working memory]] available for executive processes. **Contrasts**: Subliminal stimuli affecting behavior without awareness; blindsight information patients can "guess" but can't use for normal reasoning. The boundaries are contested—these examples drive debates about dissociations (explained in [[#dissociations]]).
+**Examples**: A visual perception you can describe and reason about; information in [[working-memory|working memory]] available for executive processes. **Contrasts**: Subliminal stimuli affecting behavior without awareness; blindsight information patients can "guess" but can't use for normal reasoning. The boundaries are contested—these examples drive debates about dissociations (explained in [[#dissociations|Dissociations]]).
 
 ## The Access/Phenomenal Distinction {#distinction}
 

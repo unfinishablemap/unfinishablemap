@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-10-14T17:07:11+00:00
+ai_modified: 2026-10-24T11:00:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -74,7 +74,7 @@ A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's
 
 **Claim**: Consciousness influences physical outcomes at quantum indeterminacies without injecting energy.
 
-**What would falsify it**: The answer depends on which sub-reading of Tenet 2 is in view; the readings have materially different falsifiability profiles and should not be flattened into a single condition. The breakdown below tracks the table in [[#The Falsification Asymmetry]] and inherits the calibration of the strict corridor from [[brain-internal-born-rule-testing]].
+**What would falsify it**: The answer depends on which sub-reading of Tenet 2 is in view; the readings have materially different falsifiability profiles and should not be flattened into a single condition. The breakdown below tracks the table in [[#The Falsification Asymmetry|The Falsification Asymmetry]] and inherits the calibration of the strict corridor from [[brain-internal-born-rule-testing]].
 
 *Decisive (coherence-dependent readings only)*: Demonstration that quantum coherence is physically impossible at neural timescales. This forecloses Orch-OR and the Fröhlich lines, but not the selection-only readings: suppressing superposition does not settle which outcome actualises, and post-decoherence selection operates after coherence is gone.
 

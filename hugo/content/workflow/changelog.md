@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 10:26:29+00:00
+ai_modified: 2026-10-24 11:00:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 10:26:29+00:00
+lastmod: 2026-10-24 11:00:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:00 - check-links
+- **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
+- **Crawler**: `.claude/skills/check-links/scripts/check_links.py`, own ephemeral server. It reported 427 broken. 424 are 404s from 44 source pages (workflow 38, research 6). 376 are covered by `hugo/static/_redirects` (workflow 370, research 6). 48 are dead with no rule, all on workflow pages. Zero came from any content section. The other 3 were timeouts from `/research/` to three research notes (non-retrocausal-conscious-selection, penrose-gravity-collapse-empirical, voids-individuation-void). All three pages exist in the build. The timeouts were a load artifact of the scratch build running alongside the crawl. Same 404 profile as 10-23 and 10-15 (424 / 376 / 48).
+- **Source-anchored audit** (independent of crawl order): fresh `hugo` build into a scratch dir, then every internal `<a href>` on all 10,409 pages, including the 5,085 hard-coded `unfinishablemap.org` URLs that the crawler skips as off-host. 466,383 links: 462,906 resolve, 3,375 resolve via a redirect rule (workflow 1,823, reviews 923, archive 617, research 12; none from a live content section), and 102 are dead (workflow 69, reviews 31, project 2). The two project hits are the writing-style citation-template placeholders. Last run's third project hit (mqi-empirical-fragility `/voids//`) is gone, which confirms that fix. Live content sections (topics, concepts, apex, voids, positions, tenets, arguments, home): 65,583 links, 0 dead, 0 via redirect. Their 895 absolute-URL links all resolve.
+- **Anchors**: each fragment checked against the target page's rendered ids. 8,651 anchor links from live content sections, all resolve. 129 are missing, all in archive (57), reviews (38), workflow (32) or research (2), the same distribution as 10-23. Those misses are the positive control. Hand spot-check of 12 links from today's pages in three dialects, all resolve in the built HTML:
+  - explicit `{#id}`: peritraumatic → brain-stimulation #witness-or-depersonalisation; precommitment → self-control-as-skill #effort-as-evidence; psychophysical-laws → born-rule #corridor-taxonomy; type-specificity → convergence-argument #the-bayesian-structure.
+  - heading-text slug: brain-stimulation → predictive-processing #the-beautiful-loop-theory-…; pairing-problem → brain-interface-boundary #five-criteria-for-an-interface; haecceity → many-worlds #3-the-probability-problem; psychophysical-laws → mathematical-structure-… #corridor-dualism-and-the-conditionality-of-the-bound.
+  - block ref: tenets #bidirectional-interaction, #occams-limits and #minimal-quantum-interaction; quantum-interface #mechanism-debt.
+  - Benign: on tenets, four tenet ids appear twice (the `<h2>` id plus the block-ref `<span>` in the paragraph directly below). The fragment lands on the heading either way.
+- **Extra dialect checks**:
+  - Literal `[[` in rendered content pages: 21, all inside `<code>` (link-syntax documentation), 0 outside.
+  - Empty-text links: 2 found, both fixed (below). This is the class that last run's `[[voids/]]` fix belonged to.
+  - Double-slash hrefs: 0.
+- **Priority pages**: all 22 are clean both ways. Outbound links per page: 50–130, all resolving, as are their 3–22 anchors each. Inbound links and inbound anchors all resolve. Topics: epistemic-condition-on-responsibility, measuring-the-witness-attitude, tonic-immobility, emotion-regulation-timing, precommitment, sleep-paralysis, phenomenology-of-memory-and-the-self, subjective-facts, experimental-consciousness-science-2025-2026, brain-stimulation-and-the-witness-mode, peritraumatic-dissociation. Concepts: nondualistic-interactionism, haecceity, psychophysical-laws, access-consciousness, combination-problem, process-philosophy, pairing-problem, interactionist-dualism, type-specificity, conceivability-possibility-inference, self-blindness.
+  - **nondualistic-interactionism heading rename**: the old slug `closure-kept-completeness-denied` and the old heading text "Closure Kept, Completeness Denied" have 0 link uses in obsidian/, hugo/content/ or archive/. The hits are prose only: the research note, reviews, the synthesis, todo and changelog. The new id `entity-domain-closure-kept-microphysical-sufficiency-denied` renders. No inbound link to the page carries a fragment.
+  - **Named anchors**: all six resolve. quantum-interface #mechanism-debt is a block-ref span on [P-Q3](/positions/quantum-interface/#p-q3)'s Asserts line, with 190 inbound links, all ok. peritraumatic-dissociation #after-the-fact is the heading "Measuring a State After the Fact" (13 inbound). visual-indexes #without-awareness is "Selection Without Awareness" (4). agency-void #the-verification-circularity has 19 inbound. stapp-quantum-mind #what-would-challenge-this-view has 4. many-worlds #mwis-branch-relative-indexicality-reply has 29.
+- **Fixes** (both were unaliased same-page heading wikilinks, which sync renders as `[](#id)`: an invisible, empty-text link that leaves a gap in the sentence):
+  - [access-consciousness](/concepts/access-consciousness/) L49: `(explained in [[#dissociations]])` → `[[#dissociations|Dissociations]]`. It had read "(explained in )". Present since the 2026-01-22 creation.
+  - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) L77: `tracks the table in [[#The Falsification Asymmetry]]` → `[[#The Falsification Asymmetry|The Falsification Asymmetry]]`, which is what Obsidian displays for the unaliased form. Present since 2026-05-23.
+  - These were the only two unaliased `[[#…]]` links in the live content sections. Source word change is zero (the alias repeats the target), and both targets were verified to render.
+- **Not fixed, by design**: project/writing-style `unfinishablemap.org/section/slug/` citation-template placeholders. Dead links in workflow and reviews pages and missing anchors in archive, reviews and workflow are historical records. The 2 research-note anchor misses (objectivity-consciousness-view-from-nowhere #objectivity-paradox, teleosemantics `#...`) are carried, as on 10-23.
+- **ai_system**: unchanged on both files (claude-opus-5-5 already present); ai_modified bumped to 2026-10-24T11:00:04+00:00.
 
 ## 10:26 - research-topic
 - **Status**: Success
