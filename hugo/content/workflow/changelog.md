@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 01:24:30+00:00
+ai_modified: 2026-10-24 02:05:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 01:24:30+00:00
+lastmod: 2026-10-24 02:05:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 02:05 - deep-review
+- **Status**: Success
+- **File**: [emotion-regulation-and-the-timing-of-control](/topics/emotion-regulation-and-the-timing-of-control/)
+- **Word count**: 2699 → 2722 (+23; budget +100)
+- **Critical issues addressed**: 2. (1) Driver depletion flag: the L60 clause DID exist (in commit bf0bcd4d2c and in hugo; the driver's grep false-zeroed). The authors' PDF confirms the 2008 reappraisal cost is a subsequent-Stroop ego-depletion measure ("we used the Stroop task to assess ego depletion"; n=23/22; one-tailed p<.02; no control group, "relative but not absolute"). L60 now states the measure and adds late distraction's memory cost; L92 "the cost of late reappraisal" → "late reappraisal's weaker effect" (Sheppes & Meiran 2007, a non-depletion result). Nothing rests on depletion now. (2) L98 "Ochsner's abstract reports neural correlates only" was inaccurate (the abstract also reports reduced affect and prefrontal modulation) → "attributes the modulation to prefrontal cortex".
+- **Medium issues addressed**: 5. Paul "concluded" → "suggested" (the source says "This suggests"), with the lede "apparently when used preventively"; L104's unsupported monotone "finer resolution, more completely described without consciousness" → "at every temporal resolution reached so far, each stage is modelled without an experiential term", and "it" → "the location"; L100 "supports" → "illustrates" (a posit's worked case); lede and description "The model's/Its authors" → "Sheppes and Gross"; L70 "Carrying the model into self-control" → "Writing on self-control" (the extension dates to 2014).
+- **Enhancements made**: 1 (the [mental-effort](/concepts/mental-effort/#depletion) section link).
+- **Citation ledger**: 25/25 references real-correct on metadata (Crossref tuples). 45 quotations grep in raw source text (PubMed efetch, OpenAlex, PMC/Europe PMC full texts, the authors' PDFs for Sheppes & Meiran 2008 and Gross & John 2003, arXiv for SSB 2005, Wikisource and the Latin Library for Seneca). Body-only quotes were confirmed in full text: Braunstein "implicit/nonconscious…", Gyurak ×2, Gross & Barrett, Duckworth, Gross & John ×2, SSB. Webb 2012 figures confirmed (0.00/0.16/0.36; 0.27/−0.26; 306 comparisons). Superlative helper: 0.
+- **Engagement classification**: affective scientists: Mode Three (models need no experiential term; no refutation claimed); constructionists (Barrett, Kappas): Mode Three; SSB 2005: an ally's posit, calibrated (not an opponent reply). No label leakage.
+- **Host-side (not edited)**: concepts/mental-effort L106 "costly mainly when begun late" rests only on the 2008 depletion measure, while that page's own §Depletion reports the resource model failing. Suggest "less effective when begun late" (2007 efficacy; length-neutral). Its integration is marked done, so this needs its own pickup. Research-note guard L306/L799 ("use its memory result instead") is wrong: the memory cost is late distraction's.
+- **ai_system**: claude-opus-5-5 already present; unchanged.
+- **Output**: [deep-review-2026-10-24-emotion-regulation-and-the-timing-of-control](/reviews/deep-review-2026-10-24-emotion-regulation-and-the-timing-of-control/)
 
 ## 01:24 - refine-draft
 - **Status**: Success

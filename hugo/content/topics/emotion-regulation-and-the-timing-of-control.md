@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-23 20:43:38+00:00
+ai_modified: 2026-10-24 02:04:03+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -12,14 +12,15 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[epiphenomenalism]]'
 created: 2026-10-23
-date: &id001 2026-10-23
-description: Gross's process model types emotion regulation by when it acts. Its authors
-  narrowed 'earlier is easier', regulation needs no conscious step, and where the
-  Map would place a selector is fit, not evidence.
+date: &id001 2026-10-24
+description: Gross's process model types emotion regulation by when it acts. Sheppes
+  and Gross narrowed 'earlier is easier', regulation needs no conscious step, and
+  where the Map would place a selector is fit, not evidence.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-23 20:43:38+00:00
+last_deep_review: 2026-10-24 02:04:03+00:00
+lastmod: 2026-10-24 02:04:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,7 +36,7 @@ topics:
 - '[[valence-as-a-natural-kind]]'
 ---
 
-Emotion regulation research asks where in an emotion's time course control acts. James Gross's process model sorts strategies by where they first act, from choosing a situation to modulating a response already under way, and splits them into antecedent-focused and response-focused halves (Gross 1998a, 1998b). The intuitive corollary, that earlier control is easier and better, has not survived intact. The model's authors narrowed it to a "process-specific timing hypothesis" (Sheppes & Gross 2011). Pooled effectiveness does not follow stage order (Webb, Miles & Sheeran 2012). And a family label does not fix when a strategy acts: expressive suppression can act as early as distraction when used preventively (Paul et al. 2013).
+Emotion regulation research asks where in an emotion's time course control acts. James Gross's process model sorts strategies by where they first act, from choosing a situation to modulating a response already under way, and splits them into antecedent-focused and response-focused halves (Gross 1998a, 1998b). The intuitive corollary, that earlier control is easier and better, has not survived intact. Sheppes and Gross (2011) narrowed it to a "process-specific timing hypothesis". Pooled effectiveness does not follow stage order (Webb, Miles & Sheeran 2012). And a family label does not fix when a strategy acts: expressive suppression can act as early as distraction, apparently when used preventively (Paul et al. 2013).
 
 Regulation also needs no conscious contribution at any stage, since implicit regulation runs without conscious goals or monitoring. That shows consciousness is unnecessary for regulation, not that it is idle where an explicit goal is held. The Unfinishable Map can say where a conscious contribution would sit: at the regulatory goal, the decision to regulate, the choice of strategy and pre-episode policy ([explained below](#placement)). Every such stage is modelled without an experiential term, so the location is fit, not evidence. The same calibration covers the reappraisal experiment that Stapp's quantum Zeno model, widely cited on the Map, takes as its worked example ([the Stapp example](#stapp-example), explained below).
 
@@ -59,9 +60,9 @@ The extended process model gives the regulatory act its own time course, treatin
 
 Within single episodes, strategies differ in when they first change the response. In an fMRI study of 17 women watching disgust films, "Reappraisal resulted in early (0-4.5 sec) prefrontal cortex (PFC) responses" and lower amygdala and insula responses, while "Suppression produced late (10.5-15 sec) PFC responses" and higher ones (Goldin et al. 2008). In EEG, "distraction reduced the late positive potential (LPP) earlier than reappraisal" (Thiruchselvam et al. 2011).
 
-The family label does not fix the time. Paul et al. (2013) found that "expressive suppression affected emotional responding as early as distraction", and concluded that suppression "was used preventively". "Response-focused" names a target; when a given use acts is an empirical matter.
+The family label does not fix the time. Paul et al. (2013) found that "expressive suppression affected emotional responding as early as distraction", and suggested that suppression "was used preventively". "Response-focused" names a target; when a given use acts is an empirical matter.
 
-Distraction "was effective even when initiated late", while reappraisal "was less effective when initiated late, suggesting a possible point of no return for this strategy" (Sheppes & Meiran 2007). Earlier studies had begun reappraisal at the situation's onset and found it cognitively free; beginning it late revealed "for the first time a cognitive cost for reappraisal" (Sheppes & Meiran 2008). That cost is measured as "self control resources", the ego-depletion construct whose record [mental-effort](/concepts/mental-effort/) reviews.
+Distraction "was effective even when initiated late", while reappraisal "was less effective when initiated late, suggesting a possible point of no return for this strategy" (Sheppes & Meiran 2007). Earlier studies had begun reappraisal at the situation's onset and found it cognitively free; beginning it late revealed "for the first time a cognitive cost for reappraisal" (Sheppes & Meiran 2008). The cost was measured as ego depletion, a larger Stroop effect afterwards than after late distraction, with no unregulated control group, so it carries the depletion record that [the mental-effort article](/concepts/mental-effort/#depletion) reviews. Late distraction instead impaired memory for the film.
 
 Timing claims should rest on such time-resolved designs, not on which regions activate. A meta-analysis found left ventrolateral prefrontal cortex, anterior insula and supplementary motor area "consistently activated independent of the regulation strategy" (Morawetz et al. 2017). Goldin's sample is small and single-site, so neural claims here lean on meta-analyses.
 
@@ -71,7 +72,7 @@ The model's rationale assumed what Sheppes and Gross (2011) call the "generic ti
 
 Effectiveness does not follow stage order either. Pooling experiential, behavioural and physiological outcomes across 306 experimental comparisons, Webb, Miles and Sheeran (2012) found that attentional deployment "had no effect" (d+ = 0.00), response modulation a small effect (0.16) and cognitive change a small-to-medium one (0.36). Within attentional deployment, distraction worked (0.27) and concentration did not (−0.26). That abstract pools only these three families, and the 2026-10-23 search behind this article found no pooled estimate for situation selection or modification. Bonanno and Burton (2013) call the assumption that a strategy is consistently good or bad "the fallacy of uniform efficacy".
 
-Carrying the model into self-control five years after that narrowing, Duckworth, Gendler and Gross (2016) state the generic form: "as a rule, earlier intervention is best". The two claims concern different domains, and the asymmetry is unresolved.
+Writing on self-control five years after that narrowing, Duckworth, Gendler and Gross (2016) state the generic form: "as a rule, earlier intervention is best". The two claims concern different domains, and the asymmetry is unresolved.
 
 ## Regulation Without a Regulator's Awareness {#implicit}
 
@@ -93,19 +94,19 @@ This section gives the Map's interpretation, for which none of the affective sci
 
 The literature itself puts explicit control at three points: the goal, at the conscious end of Braunstein's first axis; the identification and strategy-selection stages, which decide whether to regulate and how; and policy moments made before the episode, which have the clearest evidence: if-then plans for emotion pooled at d+ = 0.91 against no instructions and 0.53 against goal-intention instructions (Webb, Schweiger Gallo et al. 2012). If a non-physical selector operates in emotion regulation, the Map's reading places its ordinary work at these points. Identification is the emotional form of [the noticing condition](/topics/alief-and-acting-against-belief/#noticing-condition), and pre-episode plans are the [self-control article's](/concepts/self-control-as-skill-and-scaffolding/#where-selection-sits) "moments of policy", the shape [skill-delegation](/concepts/skill-delegation/) describes.
 
-The placement is fit, not evidence. Regulation is modelled as valuation (Gross 2015), each stage has an implicit form, and a physical valuation architecture predicts the same timing record, including the cost of late reappraisal. As the self-control article says, "The fit discriminates nothing."
+The placement is fit, not evidence. Regulation is modelled as valuation (Gross 2015), each stage has an implicit form, and a physical valuation architecture predicts the same timing record, including late reappraisal's weaker effect. As the self-control article says, "The fit discriminates nothing."
 
 Seneca offers a precedent. *De Ira* 2.4.1 divides anger's onset into three *motus* ("movements"; Aubrey Stewart's 1900 translation has "emotion"): the first "is involuntary" (*non uoluntarius*), the second "is combined with a wish, though not an obstinate one", the third "is already beyond our control, because it overrides reason". The voluntary moment falls between an involuntary onset and a point of no return. Seneca was a Stoic corporealist writing about assent, his movements do not map onto Gross's stages, and the parallel is no evidence.
 
 ### The Stapp Example {#stapp-example}
 
-Schwartz, Stapp and Beauregard (2005), cited on about fifteen Map articles for the quantum Zeno mechanism, take as their worked example Ochsner et al.'s (2002) experiment, in which reappraisal raised lateral and medial prefrontal activation and lowered amygdala and medial orbitofrontal activation. On their reading, "the effort of the subject to ‘reappraise’ causes the ‘reappraise’ template to be held in place", and that holding "causes the suppression of the limbic response". The reading is the 2005 authors'; Ochsner's abstract reports neural correlates only. A 2026-10-23 search found no live Map article discussing that experiment, so the mechanism's worked case sat in a literature the Map had not examined.
+Schwartz, Stapp and Beauregard (2005), cited on about fifteen Map articles for the quantum Zeno mechanism, take as their worked example Ochsner et al.'s (2002) experiment, in which reappraisal raised lateral and medial prefrontal activation and lowered amygdala and medial orbitofrontal activation. On their reading, "the effort of the subject to ‘reappraise’ causes the ‘reappraise’ template to be held in place", and that holding "causes the suppression of the limbic response". The reading is the 2005 authors'; Ochsner's abstract attributes the modulation to prefrontal cortex. A 2026-10-23 search found no live Map article discussing that experiment, so the mechanism's worked case sat in a literature the Map had not examined.
 
-Three calibrations apply. First, the Zeno account is a posit, and the data have a physical route: a 48-study meta-analysis reads reappraisal as "the use of cognitive control to modulate semantic representations of an emotional stimulus" (Buhle et al. 2014). Second, reappraisal neuroimaging shares the prefrontal top-down route of psychotherapy and placebo, so it adds no independent stream to the convergence that [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) already down-counts, where "the data do not adjudicate". Third, in Stapp's model the agent chooses and holds the question (von Neumann's Process 1) and leaves the outcome to nature ([stapp-quantum-mind](/concepts/stapp-quantum-mind/)). On its own terms the example supports a context-selection placement that the Map's tenets register without adopting.
+Three calibrations apply. First, the Zeno account is a posit, and the data have a physical route: a 48-study meta-analysis reads reappraisal as "the use of cognitive control to modulate semantic representations of an emotional stimulus" (Buhle et al. 2014). Second, reappraisal neuroimaging shares the prefrontal top-down route of psychotherapy and placebo, so it adds no independent stream to the convergence that [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) already down-counts, where "the data do not adjudicate". Third, in Stapp's model the agent chooses and holds the question (von Neumann's Process 1) and leaves the outcome to nature ([stapp-quantum-mind](/concepts/stapp-quantum-mind/)). On its own terms the example illustrates a context-selection placement that the Map's tenets register without adopting.
 
 ## Relation to Site Perspective
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is the tenet engaged, and the article gives it a location rather than support. Whether a selector acts at all remains "a posit the interface argument leaves open, not a result it secures" ([Tenet 3's standing](/tenets/#tenet-3-standing)). Process-model findings are substrate-neutral, and the finer their temporal resolution, the more completely each stage is described without consciousness. The Map gains a precise location and loses any claim that it is evidentially special, which cuts against citing emotion regulation as support and equally against reading implicit regulation as a refutation.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is the tenet engaged, and the article gives it a location rather than support. Whether a selector acts at all remains "a posit the interface argument leaves open, not a result it secures" ([Tenet 3's standing](/tenets/#tenet-3-standing)). Process-model findings are substrate-neutral: at every temporal resolution reached so far, each stage is modelled without an experiential term. The Map gains a precise location and loses any claim that the location is evidentially special, which cuts against citing emotion regulation as support and equally against reading implicit regulation as a refutation.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** gains nothing from earlier regulation needing less effort, an economy a physical controller enjoys equally. The tenet's minimality is fixed by the empirical record the interaction must respect (no detectable energy injection, no Born-statistics or conservation violation), not by how few or how small the interventions are.
 
