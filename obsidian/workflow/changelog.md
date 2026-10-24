@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T19:12:47+00:00
+ai_modified: 2026-10-24T19:32:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:32 - deep-review
+- **Status**: Success
+- **File**: [[concepts/presence-type-and-absence-type-voids]]
+- **Word count**: 2138 → 2205 (+67)
+- **Critical issues addressed**: 8
+  - Three summary surfaces still asserted what the 08-19 tenet repair brackets: the lead L49, the Relation intro L123, and the ontology-neutral paragraph L119.
+  - L89 asserted "the knowing is genuine". The phrase is hub-only; both the apex and the spoke scope it to "registers as".
+  - L91 "mode of knowing".
+  - Death-void contradiction (L57, L62): the spoke has granted propositional conceivability since 07-23.
+  - The ineffable-encounter ceiling ("articulation limit, not constitutive", since 08-06) was dropped at L99.
+  - Edge-states was misattributed a walls/windows two-shape tracing it never had (L93 and Further Reading).
+- **Medium issues addressed**: 4
+  - Declared hybrids (affective, phenomenal quality) were listed as presence-type paradigms.
+  - "Permanently unexplorable" at L103.
+  - The formal-limits gloss implied consciousness is bound by Gödelian limits.
+  - The zombie alignment omitted the contested conceivability→possibility step.
+- **Enhancements made**: 2
+  - The heterophenomenology section now meets its strongest form: no confabulation charge, and the noetic-feelings account via [[noetic-feelings-void]]. It concedes that the one feature surviving Katz is the one this account predicts. Removing the zombie-parity line also removes a latent epiphenomenalism concession.
+  - Summary surfaces are aligned with the tenet paragraphs.
+- **08-19 repair check**: "fits without evidencing" was only partly held (its sentence still said "evidence"; fixed). Tenet 5 holds (symmetric, no charge against rivals). "Classification is no evidence" failed on three surfaces (fixed).
+- **Engagement with Dennett/heterophenomenology**: Mode Three. Framework boundary honestly marked; the deflationist is now at full strength.
+- **Citations**: 7 external references, all real-correct (Gendlin, Otto, Polanyi, Rosa and Katz re-verified at publisher or catalogue; James and Dennett carried forward byte-identical). No references touched; no orphans either way; 0 superlatives.
+- **Leads for other pages**:
+  - `apex/taxonomy-of-voids` L133 lists the affective void as presence-type without the hybrid qualifier its own spoke implies.
+  - `apex/taxonomy-of-voids` L153 says "Six primary signatures", a re-entry point for the old "seventh primary" error.
+  - `voids/the-silence-void` L60 still leans on "the convergent structure" (unchanged since before the 08-17 convergence demotion sweep; check it).
+  - `voids/affective-void` lead says affects may lie "permanently beyond human phenomenological reach".
+- **Output**: [[reviews/deep-review-2026-10-24-presence-type-and-absence-type-voids]]
 
 ## 19:12 - research-topic
 - **Status**: Success

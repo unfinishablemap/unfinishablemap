@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-08-19 02:24:44+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-24 19:32:40+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -12,15 +12,15 @@ concepts:
 - '[[introspection]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-04-21
-date: &id001 2026-08-19
+date: &id001 2026-10-24
 description: 'Human+AI exploration of a cross-cutting classificatory axis in the voids
   taxonomy: voids defined by what consciousness lacks versus voids defined by an excess
   that overwhelms the apparatus designed to handle it.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-07 16:44:00+00:00
-lastmod: 2026-08-19 02:24:44+00:00
+last_deep_review: 2026-10-24 19:32:40+00:00
+lastmod: 2026-10-24 19:32:40+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,6 +42,7 @@ related_articles:
 - '[[edge-states-and-void-probes]]'
 - '[[acquaintance-void]]'
 - '[[consciousness-only-territories]]'
+- '[[noetic-feelings-void]]'
 title: Presence-Type and Absence-Type Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -49,24 +50,24 @@ topics:
 - '[[phenomenology]]'
 ---
 
-The voids catalogued by The Unfinishable Map divide along a structural axis that cross-cuts the familiar [unexplored/unexplorable/occluded](/voids/three-kinds-of-void/) taxonomy. Most voids are **absence-type**: territory is missing, thought reaches and finds nothing, the limit is registered as a lack. A smaller but philosophically crucial class is **presence-type**: consciousness encounters something vivid and consequential whose generating mechanism it cannot inspect, and which dissolves when analytical attention is brought to bear. The distinction is not cosmetic. It predicts different [failure signatures](/voids/compound-failure-signatures/), demands different probing methods, and carries different evidential weight for the Map's [dualist commitments](/tenets/).
+The voids catalogued by The Unfinishable Map divide along a structural axis that cross-cuts the familiar [unexplored/unexplorable/occluded](/voids/three-kinds-of-void/) taxonomy. Most voids are **absence-type**: territory is missing, thought reaches and finds nothing, the limit is registered as a lack. A smaller but philosophically crucial class is **presence-type**: consciousness encounters something vivid and consequential whose generating mechanism it cannot inspect, and which is reported to dissolve when analytical attention is brought to bear. The distinction is not cosmetic. It predicts different [failure signatures](/voids/compound-failure-signatures/), demands different probing methods, and, on a reading the classification itself leaves open ([explained below](#the-heterophenomenological-challenge)), carries different evidential weight for the Map's [dualist commitments](/tenets/).
 
-The distinction was introduced in passing in the [taxonomy of voids](/apex/taxonomy-of-voids/) apex article, which notes that most voids are defined by *absence* while the [ineffable encounter void](/voids/ineffable-encounter-void/) is defined by *presence*—an excess of meaning that overwhelms the cognitive apparatus. The ineffable encounter void page sharpens the same contrast: rather than registering a lack—what cannot be thought, introspected, or accessed—it registers excess, meaning that overwhelms the apparatus designed to handle it. This page formalises the distinction as a classificatory axis and surveys how it redistributes the voids catalogue.
+The distinction was introduced in passing in the [taxonomy of voids](/apex/taxonomy-of-voids/) apex article, which notes that most voids are defined by *absence* while the [ineffable encounter void](/voids/ineffable-encounter-void/) is defined by *presence*—an excess of meaning that overwhelms the cognitive apparatus. This page formalises the distinction as a classificatory axis and surveys how it redistributes the voids catalogue.
 
 ## The Two Types Defined
 
 ### Absence-Type Voids
 
-An absence-type void is a cognitive limit registered as the *failure* of some conscious operation. When consciousness approaches an absence-type void, it finds itself unable to: observe a process (the mechanisms behind thought), represent a state (its own cessation in death), compare experiences (across radically different architectures), or articulate a concept (that requires cognitive equipment the mind lacks). The limit shows up as a gap, a blank, a stalled operation, a category error, an infinite regress, or an aporia.
+An absence-type void is a cognitive limit registered as the *failure* of some conscious operation. When consciousness approaches an absence-type void, it finds itself unable to: observe a process (the mechanisms behind thought), occupy a state from within (its own cessation in death), compare experiences (across radically different architectures), or articulate a concept (that requires cognitive equipment the mind lacks). The limit shows up as a gap, a blank, a stalled operation, a category error, an infinite regress, or an aporia.
 
 Paradigm cases:
 
 - [Introspective opacity](/voids/self-opacity/) — mechanisms of experience are hidden from the experiencer
-- [The death void](/voids/death-void/) — consciousness cannot represent its own absence
+- [The death void](/voids/death-void/) — consciousness cannot experientially occupy its own absence
 - [The transit void](/voids/transit-void/) — consciousness cannot witness its own crossings between states
 - [The causal interface void](/voids/causal-interface/) — the consciousness–physics interface resists inspection
 - [The binding void](/voids/binding-void/) — unity of experience from disparate processes resists analysis
-- [Formal cognitive limits](/voids/formal-cognitive-limits/) — Gödelian bounds on self-representation
+- [Formal cognitive limits](/voids/formal-cognitive-limits/) — Gödelian bounds proved for formal systems, whose reach to consciousness depends on whether it is computational
 - [The language–thought boundary](/voids/language-thought-boundary/) — what cannot be said
 - [The erasure void](/voids/erasure-void/) — consciousness cannot inventory its own deletions
 
@@ -82,28 +83,28 @@ Paradigm cases:
 - [The aesthetic-reception void](/voids/creative-aesthetic-void/) — profound encounters with beauty or sublimity whose content exceeds articulation
 - [The surplus void](/voids/the-surplus-void/) — experience delivers richness far beyond what survival requires
 - [The silence void](/voids/the-silence-void/) — contemplative silence reports access to truths ordinary cognition cannot reach
-- [The affective void](/voids/affective-void/) — felt emotions whose phenomenal depth exceeds the concepts used to describe them
-- [The phenomenal quality void](/voids/phenomenal-quality-void/) — the immediacy of experience is pervasive yet structurally invisible when investigated
+
+The affective and phenomenal quality voids show these features too, paired with an absence; they are [hybrids](#hybrid-and-marginal-cases).
 
 The phenomenology is the opposite of quiet. It is characteristically *saturated*: the body registers what the intellect cannot yet process—frisson, tears, a sense of weight or rightness—while the analytical faculty searches for a handle the experience does not afford.
 
 ## Dissolution Under Attention
 
-The [failure-signature framework](/voids/compound-failure-signatures/) catalogues the distinct phenomenologies that accompany different kinds of cognitive limit, tabulating eight of them by limit type without ranking any above the others. Six recur across the voids catalogue itself: self-refutation, aporia, ineffability, systematic illusion, construction mistaken for observation, and epistemic vertigo. Two further signatures complete the [taxonomy apex](/apex/taxonomy-of-voids/)'s inventory, and they are the presence/absence pair. Presence-type voids contribute **dissolution under attention**, which the apex names the diagnostic signature for this class: the knowing is genuine and conscious yet evaporates when subjected to analytical scrutiny. Absence-type voids contribute its counterpart, **silent erasure** — the [erasure void](/voids/erasure-void/)'s signature, in which the inventory of self is revised downward without notification, the zero-signal case against which the other signatures register as signals at all. That the two completing entries are one of each type is suggestive rather than confirmatory: the same catalogue supplied both the signatures and the axis, so the fit is framework-internal coherence rather than independent triangulation.
+The [failure-signature framework](/voids/compound-failure-signatures/) catalogues the distinct phenomenologies that accompany different kinds of cognitive limit, tabulating eight of them by limit type without ranking any above the others. Six recur across the voids catalogue itself: self-refutation, aporia, ineffability, systematic illusion, construction mistaken for observation, and epistemic vertigo. Two further signatures complete the [taxonomy apex](/apex/taxonomy-of-voids/)'s inventory, and they are the presence/absence pair. Presence-type voids contribute **dissolution under attention**, which the apex names the diagnostic signature for this class: what registers as genuine knowing is reported to evaporate under analytical scrutiny. Absence-type voids contribute its counterpart, **silent erasure** — the [erasure void](/voids/erasure-void/)'s signature, in which the inventory of self is revised downward without notification, the zero-signal case against which the other signatures register as signals at all. That the two completing entries are one of each type is suggestive rather than confirmatory: the same catalogue supplied both the signatures and the axis, so the fit is framework-internal coherence rather than independent triangulation.
 
-Dissolution under attention is related to but distinct from the [mutation pattern](/voids/mutation-void/). Mutation transforms the *content* of a thought when attention reaches for it; dissolution destroys the *mode of knowing itself*. A musical passage that lands with felt weight can still be described in acoustic terms after analysis—the content remains intact—but the encounter-as-knowing is gone. The body stopped registering; the intellect took over; the felt significance became a memory of felt significance.
+Dissolution under attention is related to but distinct from the [mutation pattern](/voids/mutation-void/). Mutation transforms the *content* of a thought when attention reaches for it; dissolution ends the *mode of encounter itself*. A musical passage that lands with felt weight can still be described in acoustic terms after analysis—the content remains intact—but the encounter-as-knowing is gone. The body stopped registering; the intellect took over; the felt significance became a memory of felt significance.
 
-This signature is diagnostic. Where an absence-type void produces the phenomenology of reaching and not finding, a presence-type void produces the phenomenology of having-had-and-lost. The [phenomenology of the edge](/voids/edge-states-and-void-probes/) traces both shapes: absence-type limits feel like walls, presence-type limits feel like windows that close under inspection.
+This signature is diagnostic. Where an absence-type void produces the phenomenology of reaching and not finding, a presence-type void produces the phenomenology of having-had-and-lost. The [edge-states article](/voids/edge-states-and-void-probes/) documents the second shape as the dissolving insight, which vanishes while the sense of having had it persists. Absence-type limits feel like walls; presence-type limits feel like windows that close under inspection.
 
 ## Why the Distinction Matters
 
 The two types require different investigative methods. Absence-type voids yield to [apophatic cartography](/voids/apophatic-cartography/): tracing the shape of what is missing, comparing failure modes across minds, triangulating the edges of the gap. Presence-type voids resist this approach because the object is not a hole but a saturated encounter—the more carefully one tries to chart it, the more completely it dissolves. Investigation of presence-type voids typically proceeds through less direct methods.
 
-The first is cross-tradition recurrence, and the [ineffable encounter void](/voids/ineffable-encounter-void/) page has already established how much that method delivers. Grouped by what each source actually claims, the roster collapses into fewer strands than its length suggests: Gendlin's felt sense and Polanyi's tacit knowing form one strand; Otto's numinous and James's noetic quality of mystical states form a second whose members are genealogically linked rather than independent, since Otto read *Varieties* directly; and Rosa's resonance is cited for one narrower point, that such encounters cannot be manufactured or scheduled. Katz's constructivism then sources most of the remaining agreement to vocabulary the traditions themselves supply. Two features survive that deflation: dissolution under attention, which is an obstacle to Gendlin's clinical method rather than something it predicts, and non-manufacturability, which cuts against the interest of traditions that prescribe practices for producing the state. Two surviving features is a far smaller result than a roster of converging traditions would suggest — but it is a result, and the smaller claim is the one this method actually supports.
+The first is cross-tradition recurrence, and the [ineffable encounter void](/voids/ineffable-encounter-void/) page has already established how much that method delivers. Grouped by what each source actually claims, the roster collapses into fewer strands than its length suggests: Gendlin's felt sense and Polanyi's tacit knowing form one strand; Otto's numinous and James's noetic quality of mystical states form a second whose members are genealogically linked rather than independent, since Otto read *Varieties* directly; and Rosa's resonance is cited for one narrower point, that such encounters cannot be manufactured or scheduled. Katz's constructivism then sources most of the remaining agreement to vocabulary the traditions themselves supply. Two features survive that deflation: dissolution under attention, which is an obstacle to Gendlin's clinical method rather than something it predicts, and non-manufacturability, which cuts against the interest of traditions that prescribe practices for producing the state. Two surviving features is a far smaller result than a roster of converging traditions would suggest, but it is a result: an articulation limit robust across methods, though not a showing that the limit is constitutive.
 
 The remaining methods are somatic indicators (the body's response outruns the intellect's grasp) and the cumulative residues left in transformed behaviour after the encounter has passed.
 
-The distinction also cross-cuts the standard [unexplored/unexplorable/occluded](/voids/three-kinds-of-void/) scheme. Presence-type voids are typically both unexplorable (the generating mechanism is closed to introspection) *and* occluded (the experience resists voluntary capture and dissolves under scrutiny). Absence-type voids spread across all three kinds: some are merely unexplored pending further work, others are permanently unexplorable, and still others are actively blocked. The presence/absence axis is therefore independent of the access-condition axis, and together they produce a two-dimensional classification the single taxonomy cannot express.
+The distinction also cross-cuts the standard [unexplored/unexplorable/occluded](/voids/three-kinds-of-void/) scheme. Presence-type voids are typically both unexplorable (the generating mechanism is closed to introspection) *and* occluded (the experience resists voluntary capture and dissolves under scrutiny). Absence-type voids spread across all three kinds: some are merely unexplored pending further work, others may be unexplorable by minds like ours, and still others are actively blocked. The presence/absence axis is therefore independent of the access-condition axis, and together they produce a two-dimensional classification the single taxonomy cannot express.
 
 ## Hybrid and Marginal Cases
 
@@ -117,15 +118,15 @@ The cleanest heuristic: ask whether the void manifests first as *nothing was fou
 
 ## The Heterophenomenological Challenge
 
-A deflationary reading—compatible with Dennett's heterophenomenology—treats presence-type voids as reports rather than phenomena. On this view, "dissolution under attention" is not a distinctive mode of knowing evaporating but the system's verbal faculty producing confabulated retrospective claims about a transient emotional signal. No categorial excess needs to be posited; a zombie could in principle generate the same reports.
+A deflationary reading—compatible with Dennett's heterophenomenology—treats presence-type voids as reports rather than phenomena, and its strongest form needs no charge of confabulation. The datum is that subjects sincerely *say* a knowing dissolved. On the [noetic-feelings account](/voids/noetic-feelings-void/), a feeling of knowing presents itself as awareness of an object, often with no retrievable content behind it ([presentation is not certification](/project/evidential-status-discipline/)), so the felt grasp can vanish under analysis because there was nothing to retrieve. Dissolution under attention, the feature that survived Katz's sourcing, is then predicted rather than anomalous, and no categorial excess needs to be posited.
 
-The presence/absence distinction does not require resolving this debate to do classificatory work. Its claim is weaker: *whatever* the eventual ontology, voids of these two shapes produce predictably different phenomenological reports, resist different methods of probing, and carry different evidential weight for theories of consciousness. If the deflationary account is right, the distinction still tracks a real asymmetry in how cognitive limits register in the report-generating system. If the deflationary account is wrong, the distinction tracks something stronger. The classification survives in either case; the metaphysical stakes are taken up below.
+The presence/absence distinction does not require resolving this debate to do classificatory work. Its claim is weaker: *whatever* the eventual ontology, voids of these two shapes produce predictably different phenomenological reports, resist different methods of probing, and make different demands on any theory of consciousness. If the deflationary account is right, the distinction still tracks a real asymmetry in how cognitive limits register in the report-generating system. If the deflationary account is wrong, the distinction tracks something stronger. The classification survives in either case; the metaphysical stakes are taken up below.
 
 ## Relation to Site Perspective
 
-The presence/absence distinction carries direct weight for the Map's [tenets](/tenets/).
+The presence/absence distinction bears on three of the Map's [tenets](/tenets/), though the classification itself is evidence for none of them.
 
-**[Dualism](/tenets/#dualism).** Presence-type voids are the phenomenological signature of consciousness-irreducible content — on the non-deflationary branch that [the heterophenomenological challenge](#the-heterophenomenological-challenge) leaves open. Where absence-type voids could in principle reflect mere ignorance (the hard problem solved tomorrow), presence-type voids would reflect excess over any functional description. Whether music delivers felt significance exceeding every acoustic and neural account, or only a vivid report of having done so, is what that section brackets rather than settles. The Map takes the first reading, on which the excess is not obviously a gap in current science but a structural feature of what phenomenal experience *is*, and evidence that consciousness carries properties functional reduction cannot reach however much functional detail is supplied. This aligns the presence-type category with the [surplus argument](/voids/the-surplus-void/) and the [zombie argument](/concepts/philosophical-zombies/): all three track the same residual, and all three inherit the same open branch.
+**[Dualism](/tenets/#dualism).** Presence-type voids are the phenomenological signature of consciousness-irreducible content — on the non-deflationary branch that [the heterophenomenological challenge](#the-heterophenomenological-challenge) leaves open. Where absence-type voids could in principle reflect mere ignorance (the hard problem solved tomorrow), presence-type voids would reflect excess over any functional description. Whether music delivers felt significance exceeding every acoustic and neural account, or only a vivid report of having done so, is what that section brackets rather than settles. The Map takes the first reading, on which the excess is not obviously a gap in current science but a structural feature of what phenomenal experience *is*, beyond the reach of functional reduction however much functional detail is supplied. The category fits that reading without evidencing it. This aligns the presence-type category with the [surplus argument](/voids/the-surplus-void/) and the [zombie argument](/concepts/philosophical-zombies/): all three track the same residual, and all three inherit the same open branch, the zombie argument with a further [contested step from conceivability to possibility](/concepts/conceivability-possibility-inference/).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** Absence-type voids are often amenable to deflationary readings—what looks like a limit may turn out to be an uninvestigated region. Presence-type voids are harder to dispose of that way, though not because the deflationist denies the phenomenon: the heterophenomenologist grants the reports and the somatic response, denying only the excess-reading of them. The deflationary theory buys its economy by booking that excess as report-artefact, so simplicity cannot adjudicate here — what the phenomenon *is* would have to be settled first. The Map takes this to be the kind of case where simplicity stops tracking truth — a claim about the limits of the criterion rather than a demonstration that the deflationary reading is false.
 
@@ -138,7 +139,7 @@ The classification does not commit the Map to any particular metaphysics of the 
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the apex article where this distinction was first drawn
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — the paradigm presence-type void
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — the failure-signature framework that includes dissolution under attention
-- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — what approaching each type feels like from inside
+- [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — what approaching cognitive limits feels like from inside, including the dissolving insight
 - [apophatic-cartography](/voids/apophatic-cartography/) — the methodology that primarily addresses absence-type voids
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — where presence-type voids cluster
 
