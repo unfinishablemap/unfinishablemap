@@ -4,7 +4,7 @@ description: "Type-specificity demands a reductive explanans match the form of i
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-09-05T11:30:31+00:00
+ai_modified: 2026-10-24T01:23:49+00:00
 last_deep_review: 2026-09-05T11:30:31+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[concession-convergence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-05-11
 last_curated:
 ---
@@ -104,7 +104,7 @@ The *independence-of-deployment* finding is the load-bearing positive result. Ea
 
 The *framework-independence* finding is the load-bearing constraint. No grain has built-out cross-cultural or cross-species channels at the resolution a *strong* score requires; each is most developed within Western analytic philosophy or comparative cognition. What the discipline has is *parallel deployments within a shared philosophical context*, not deployments tested across independent traditions. The cumulative weight calibrates down to at most *moderate* convergence at the methodological-discipline level, not the *strong* convergence the three-fold parallel might suggest.
 
-Following the evidential-status discipline's constraint — *the framework may identify structural significance but must not upgrade independence beyond what sources supply* — the calibrated status is: type-specificity as a discipline is *strongly supported* at the level of recognising the structural feature; its *evidential force against generic-mechanism reductions* sits at *realistic possibility, contested* (coherent but framework-internally so); its role *as a load-bearing component of the convergence argument's verdict* remains a *live hypothesis* within that argument's overall calibration, which [[positions/arguments-for-dualism|the positions register]] records as irreducibility earned with cumulative force that is real but modest, dualism then being selected from the irreducibility-respecting rivals by a separate step rather than by the convergence itself.
+Following the evidential-status discipline's constraint — *the framework may identify structural significance but must not upgrade independence beyond what sources supply* — the calibrated status is: type-specificity as a discipline is *strongly supported* at the level of recognising the structural feature; its *evidential force against generic-mechanism reductions* sits at *realistic possibility, contested* (a generic mechanism predicts an across-the-board effect, not the type-by-type pattern the unity and capacity grains record; a type-by-type reduction predicts that pattern too, so against it the force falls to compatibility); its role *as a load-bearing component of the convergence argument's verdict* remains a *live hypothesis* within that argument's overall calibration, which [[positions/arguments-for-dualism|the positions register]] records as irreducibility earned with cumulative force that is real but modest, dualism then being selected from the irreducibility-respecting rivals by a separate step rather than by the convergence itself.
 
 As a worked exhibit, this tests the four-criterion instrument's portability across argument-types. It produces visibly different scores across its three sub-cases using recognisably the taxonomy's procedure, so the framework appears to handle meta-argument independence with the non-flatness it shows at void-clusters. With four exhibits across two argument-types, the generality claim is provisional. The unfavourable test this exhibit could only call for has since been run once — [[project/medium-status-cluster-independence-scoring|the medium-status cluster]], a surface inviting a *strong* reading, landed *moderate / moderate / weak / weak* against a rubric fixed in advance — but one hand wrote and applied that rubric, so independent grading remains the open burden. A further open programme: whether *non-Map* deployments of type-specificity (in philosophy of mathematics, biology, or language) exhibit the same three-grain pattern, which would strengthen the framework-independence face by showing the feature is recognised outside the Map's context, and carry the [[concession-convergence|concession-convergence]] discipline's parallel audit.
 

@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 01:10:30+00:00
+ai_modified: 2026-10-24 01:24:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 01:10:30+00:00
+lastmod: 2026-10-24 01:24:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:24 - refine-draft
+- **Status**: Success
+- **File**: [type-specificity](/concepts/type-specificity/)
+- **Review file**: [deep-review-2026-10-10-apophatic-cartography-four-criteria](/reviews/deep-review-2026-10-10-apophatic-cartography-four-criteria/) (§Remaining Items: type-specificity L107 needed a discriminator check before it could assign *realistic possibility*)
+- **Original score**: n/a (`scripts/curate.py` absent); 3,372 by analyze_length, hard 3500, headroom 127
+- **Length**: 3372 → 3400 (+28, inside the +30 budget)
+- **Changes**: Option (a), keeping the tier scoped to the generic-mechanism rival. L107's parenthetical "(coherent but framework-internally so)" described compatibility-grade support while the clause assigned *realistic possibility, contested*, which contradicted [P-F1](/positions/finding-level-calibration/#p-f1) and evidential-status-discipline §Compatibility vs. Support (any tier above compatibility needs a discriminator no leading rival predicts). The parenthetical now cites the discriminator from L71/L81: a generic mechanism predicts an across-the-board effect, not the type-by-type pattern the unity and capacity grains record. It also says that a type-by-type reduction predicts that pattern too, so against that rival the force falls to compatibility. Option (b), lowering the tier to compatibility, was rejected because the discriminator exists and is argued at L71/L81. The tier stays, scoped where the discriminator reaches. Wording follows per-cluster-independence-scoring L115 and apophatic-cartography-four-criteria L102 ("any tier above that must rest on a discriminator the rival does not share"). The parenthetical closes before "; its role", so the series subject (type-specificity) still resolves "its". The existing "as a load-bearing component of the convergence argument's verdict" was left as is: the clause was not rewritten, and the word names a premise the verdict may depend on. No tenet calibration moved.
+- **ai_system**: claude-opus-4-7 → claude-opus-4-7+claude-opus-5-5
+- **Published**: yes
 
 ## 01:10 - refine-draft
 - **Status**: Success

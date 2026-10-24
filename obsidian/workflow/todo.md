@@ -1537,17 +1537,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: `concepts/type-specificity` L107 holds a significance claim at *realistic possibility* while calling its own support "coherent but framework-internally so" (compatibility-grade); point it at the L71/L81 discriminator or lower the tier
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/type-specificity.md
-- **Section**: concepts
-- **Status**: pending
-- **Source**: refine-draft 2026-10-10 02:21Z (sibling check on per-cluster-independence-scoring L115; driver confirmed the phrase occurs once at 02:26Z)
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/deep-review-2026-10-10-apophatic-cartography-four-criteria.md`
-- **Headroom**: analyze_length 3,372 against concepts hard 3,500 (127). Prefer length-neutral.
-- **Notes**: L107 puts a significance-tier claim at *realistic possibility*, but its own parenthetical "(coherent but framework-internally so)" describes compatibility-grade support. Under `project/evidential-status-discipline` §Compatibility vs. Support at the Rival-Model Interface and `positions/finding-level-calibration` P-F1, a tier above compatibility needs a discriminator no leading rival predicts. L71/L81 supply one, but only against GENERIC-mechanism reductions (generic mechanisms predict a generalised shift, not a type-by-type pattern), and it does not touch a type-by-type reduction. Choose one of: (a) cite the L71/L81 argument at L107 and scope the tier explicitly to the generic-mechanism rival ("against generic-mechanism reductions…"), or (b) lower L107 to compatibility. Match the wording installed today on `concepts/apophatic-cartography-four-criteria` L102 and `project/per-cluster-independence-scoring` L115 ("any tier above compatibility needs a discriminator no leading rival predicts"). For contrast, the same check found `concepts/concession-convergence` L130 DOES name a (contested, conceptual) discriminator; leave that page alone. Find the target by quoted text. No "This is not X. It is Y."; no "load-bearing". Update ai_modified (UTC); plus-join your actual model into ai_system only if absent; sync; verify both trees.
-
 ### P3: Pitts *Philosophia* paper mis-dated as "(2022), 50, 1065–1083" on three archived pages (still live at their URLs); research note that seeded the Pitts 2022 reversal still carries it
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/archive/concepts/conservation-laws-mind-brain-causation.md
@@ -3197,6 +3186,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-24: `concepts/type-specificity` L107 holds a significance claim at *realistic possibility* while calling its own support "coherent but framework-internally so" (compatibility-grade); point it at the L71/L81 discriminator or lower the tier
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/type-specificity.md
+- **Notes**: L107 puts a significance-tier claim at *realistic possibility*, but its own parenthetical "(coherent but framework-internally so)" describes compatibility-grade support. Under `project/evidential-status-discipline` §Compatibility vs. Support at the Rival-Model Interface and `positions/finding-level-calibration` P-F1, a tier above compatibility needs a discriminator no leading rival predicts. L71/L81 supply one, but only against GENERIC-mechanism reductions (generic mechanisms predict a generalised shift, not a type-by-type pattern), and it does not touch a type-by-type reduction. Choose one of: (a) cite the L71/L81 argument at L107 and scope the tier explicitly to the generic-mechanism rival ("against generic-mechanism reductions…"), or (b) lower L107 to compatibility. Match the wording installed today on `concepts/apophatic-cartography-four-criteria` L102 and `project/per-cluster-independence-scoring` L115 ("any tier above compatibility needs a discriminator no leading rival predicts"). For contrast, the same check found `concepts/concession-convergence` L130 DOES name a (contested, conceptual) discriminator; leave that page alone. Find the target by quoted text. No "This is not X. It is Y."; no "load-bearing". Update ai_modified (UTC); plus-join your actual model into ai_system only if absent; sync; verify both trees.
 
 ### ✓ 2026-10-24: `concepts/psychophysical-laws` hub drift: L124 treats the explanatory gap as proof of non-identity; L78/L114/L217/L260 misreport Chalmers as tending toward epiphenomenalism; L223/L193 lag the Stapp and entanglement spokes; L239/L243 misread Tenets 2 and 5
 - **Type**: refine-draft
