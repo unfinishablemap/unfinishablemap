@@ -405,3 +405,33 @@
   subject_articles:
   - concepts/nondualistic-interactionism.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/bf6407f3-c22c-400d-a281-5d974cd69c0e
+  commissioned_at: '2026-10-24T03:11:55.911911+00:00'
+  prompt_summary: 'Audit nondualistic-interactionism (Griffin): claims, cites, tenet
+    fairness'
+  target_filename: outer-review-2026-10-24-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a hostile-referee audit of the Unfinishable Map''s
+    article on Nondualistic Interactionism: https://unfinishablemap.org/concepts/nondualistic-interactionism/
+    (site: https://unfinishablemap.org). Search indexes lag, so consult the changelog
+    at https://unfinishablemap.org/workflow/changelog/ for edits since the article
+    was created on 2026-10-14. The article presents David Ray Griffin''s Whiteheadian
+    position (a mind numerically distinct from the brain that interacts with it without
+    differing in kind) as the Map''s nearest non-dualist rival, and tests it tenet
+    by tenet. Please assess: (1) fidelity to Griffin''s own texts on compound individuals,
+    dominant occasions and the "closure kept, completeness denied" move; (2) the accuracy
+    and attribution of every citation and quotation, including the Kim (1999) and
+    Chalmers (2003) responses; (3) missing counterarguments and recent literature;
+    (4) whether the comparison shields the Map''s own tenets from scrutiny it applies
+    to Griffin; (5) integration with neighbouring articles on process philosophy,
+    panpsychism and interactionist dualism. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit nondualistic-interactionism
+  subject_articles:
+  - concepts/nondualistic-interactionism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-24-chatgpt-5-6-sol-pro.md
