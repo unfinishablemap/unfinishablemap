@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T15:39:20+00:00
+ai_modified: 2026-10-24T16:55:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:55 - refine-draft
+- **Status**: Success
+- **File**: [[voids/three-kinds-of-void]]
+- **Source**: Priority List item 3, "name the exposure shape", from [[reviews/optimistic-2026-10-10-unauditable-verdict-wing]]. Applied with the review's exact text plus ONE driver-mandated adjustment.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word count** (analyze_length; voids hard 3000): 2610 → 2831 (+221 = the review's +217 plus the 4-word cross-reference).
+- **Changes**:
+  - **New paragraph at L99**, directly after "That fixed pairing is what makes it a family rather than ten coincidences." (anchor `str.count` 1, L97). It names the exposure shape: handedness is the cleanest case, and five voids (modality, preference, numbing, offloading, assent) repeat it with a first-person verdict in place of the description. Three clauses: the verdict reads the same on both sides of the difference; the difference shows only across two runs; a run comparison yields knowledge and leaves the verdict unchanged (McGurk; cobalt-60). It closes on the P-V2 fence sentence, kept verbatim.
+  - **Cross-reference adjustment.** The first clause now ends "…it would need to detect: [[evidential-status-discipline|presentation is not certification]]." This points to the rule installed 10-22 at `project/evidential-status-discipline` L270, inside "Phenomenological Datum ≠ Irreducible Metaphysical Datum". The link has no #fragment because that heading has no explicit anchor. The display text is the rule's own bolded name. Everything else in the paragraph is unchanged.
+- **Verification**:
+  - **Wikilink targets live**: handedness-void, modality-void, preference-void, numbing-void, offloading-void and assent-void are all in `obsidian/voids/`, with none archived. The bare slug evidential-status-discipline converts to `/project/evidential-status-discipline/` (sibling voids pages checked in hugo/content).
+  - **modality-void quote**: "arrives with exactly the evidence a true one carries" is verbatim at L44 (`grep -cF` 1): "A false tag therefore arrives with exactly the evidence a true one carries." The paragraph's "channel tag" matches the page's channel-tag usage.
+  - **preference-void**: supported by its description ("a built answer arrives with all the authority of a read-out") and L41 ("presents itself as a reading taken from an ordering already in place … delivered with the same authority").
+  - **numbing-void**: supported by L58 ("a feeling prevented from arising leaves only a smaller response, which presents itself as the natural size of one's concern"), on the Regulation Face (Cameron & Payne 2011). Numbing's conditional clause-3 instance (Small et al. 2007) stays out, as the review intended.
+  - **offloading-void**: supported by L64 (Fisher et al.: "mistake access to information for their own personal understanding"), Ward 2021 ("mistake the internet's knowledge for their own") and L95 (it "presents as fluency").
+  - **assent-void**: supported by L75 on the four live positions: "These disagree about what happens first; none presents itself in experience as a judgment". The gloss drops "in experience", which is a compression of the page's sentence and adds no claim.
+  - **Handedness gloss**: consistent with L52 ("relative to a physics whose laws are all reflection-invariant, it is provable that no description built from those laws can distinguish an object from its enantiomorph") and with the refined L100 ("before any law could fix which was which; until 1957 the only access anyone had to which hand is the left was acquaintance"). The two state the same limit: description failed and acquaintance remained.
+  - **Cobalt-60 clause**: consistent with L40 ("the difference became transmissible without becoming conceptual") and L62 ("Gardner's claim about communication fell; Kant's claim about concepts survived").
+  - **McGurk clause**: matches modality L60 (Fréchette 2023: "[e]ven when we are told about the mechanisms underlying the illusion, we simply cannot be rid of our classification").
+- **Calibration**: P-V2 holds, and the closing sentence ("adds no evidence about what lies behind them") is intact. The paragraph makes no "in principle" or permanent-void claim. It has no "This is not X. It is Y." and no "load-bearing". The bare void links follow the page's existing prose convention, and the one new cross-reference is piped.
+- **Engagements**: none with a named opponent (section 3.6 n/a). No altered-state symmetry flag (3.7 n/a).
+- **Not done**: the review's optional matching clause for the voids index entry was not in the brief.
+- **Published**: yes
 
 ## 16:38 - deep-review
 - **Status**: Success

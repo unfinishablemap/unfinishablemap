@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-22 12:28:29+00:00
+ai_modified: 2026-10-24 16:55:12+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 12:48:10+00:00
-lastmod: 2026-10-22 12:28:29+00:00
+lastmod: 2026-10-24 16:55:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -98,6 +98,8 @@ The three-part taxonomy organises investigation but does not confine it. The [in
 The presence-type manifestation noted in the ineffable-encounter-void turns out to mark a cross-cutting classificatory axis, formalised separately in [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/). Most voids are *absence-type*: cognitive limits registered as the failure of some conscious operation—reaching and not finding. A smaller class is *presence-type*: cognitive limits registered as the overwhelming of some conscious operation—encountering too much, too intensely, or in a modality the evaluative apparatus cannot process. The presence/absence axis is independent of the three-kinds taxonomy. Presence-type voids typically fall under unexplorable-and-occluded jointly, while absence-type voids spread across all three kinds. Together the two axes produce a two-dimensional classification the single taxonomy cannot express.
 
 A further mixed class, which its members call the operation-void family, cross-classifies in a fixed pattern rather than case by case. In each, the content is fully lit and an *operation* on that content is dark: [fusion](/voids/fusion-void/) delivers the fused percept and never the component estimates, [inference](/voids/inference-void/) the conclusion and never the move, [transit](/voids/transit-void/) the arrival and never the crossing, [decision](/voids/decision-void/) the sealed choice and never the snap, [categorical perception](/voids/categorical-perception-void/) the bin and never the gradient it kept. Five later additions share the signature: in the [blindspot-void](/voids/blindspot-void/) uptake fails, in the [causal-impression-void](/voids/causal-impression-void/) the relation never appears, in the [cross-state-void](/voids/cross-state-void/) the weight does not cross, in the [mirth-void](/voids/mirth-void/) the reason is built afterwards, in the [taboo-void](/voids/taboo-void/) the comparison is never run under its taboo description. The family is *occluded* at the readout—the default readout delivers the product and does not look at the process—and *unexplorable* at the operation, since the stance that would witness it is the stance that performs it. That fixed pairing is what makes it a family rather than ten coincidences.
+
+How such voids are exposed has a fixed shape as well, and the [handedness-void](/voids/handedness-void/) gives its cleanest case: before 1957 no description built from the known laws could tell a hand from its mirror image, so none could say which hand was meant. Five other voids repeat the shape with a first-person verdict in place of the description. First, the verdict reads the same on both sides of the difference it would need to detect: [presentation is not certification](/project/evidential-status-discipline/). A false channel tag "arrives with exactly the evidence a true one carries" ([modality-void](/voids/modality-void/)); a constructed preference arrives with the authority of a read-out ([preference-void](/voids/preference-void/)); a response damped before it arises presents as the natural size of one's concern ([numbing-void](/voids/numbing-void/)); borrowed knowledge feels like one's own ([offloading-void](/voids/offloading-void/)); and no rival model of belief formation presents itself as a judgment ([assent-void](/voids/assent-void/)). Second, the difference shows only when two runs are compared, never inside either, and where running the first changes the second a subject cannot run both cleanly. Third, a comparison once run yields knowledge and leaves the verdict as it was: the McGurk syllable is still heard after the explanation, as the cobalt-60 recipe made left transmissible without making it conceptual. The shared shape is a fact about how these limits are measured and adds no evidence about what lies behind them.
 
 The taxonomy itself falls under the [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within)—the second-order structural limit on estimating how much one does not know. The three-kinds framework is produced from within the limited cognitive system whose limits it describes, and cannot estimate how many further kinds of void might exist that the framework cannot yet conceive. The presence/absence axis was not visible when the taxonomy was first articulated; other axes may be similarly hidden. Treating the framework as permanently provisional rather than complete builds this second-order limit into the Map's self-presentation rather than concealing it behind a closed list.
 
