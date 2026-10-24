@@ -5,6 +5,23 @@ ai_modified: 2026-10-24T14:09:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 15:20 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/phenomenology-of-choice-and-volition` (driver-chosen hub: 69 inbound links, nine deep reviews, last 09-21). The lens was spoke drift since the 09-21 "converged" verdict.
+- **Length**: 2,879 by analyze_length (prose 2,340, Further Reading 148, References 391); headroom 620. The four Priority List items cost +342 (prose +250, References +92); end state 3,221.
+- **Priority List**:
+  1. L102, L161 and L60, with References (+124).
+     - Libet never called the veto "the strongest evidence". In the 1999 paper (Handbook reprint, raw text) it is a possibility conscious will "could" exercise, and "free won't" has 0 hits.
+     - dFMC "top-down suppression" came uncited from Kühn et al. 2009 ("suggests"). `volitional-control` L106 dropped it on 07-25, after a three-way convergent outer review.
+     - Filevich 2013 and Schultze-Kraft 2016 were missing.
+     - James's "genuine alternatives" is in none of six James texts checked.
+  2. L143–L147 and L167: the illusion section (+161). It rests on the bare Tallis regress, which `mental-effort` L126 and `illusionism` L91 say proves nothing. "Four independent tricks" is a strawman, used as a Tenet 5 charge against a rival. Wegner grants the experience (Wegner & Wheatley 1999).
+  3. L94, L161 and L155(3): the effort-distribution argument (+31). It was answered by `self-control-as-skill-and-scaffolding` L94–L98 (10-04) and never absorbed. Falsifier (3) is decorative, because `mental-effort` L80/L92 report Naccache 2005 and read it as interface asymmetry.
+  4. L3, L56, L121, L123 and L119: navigation labels moved to "fits without evidencing" (+26). These loci were routed to the NEEDS-HUMAN Tenet 3 quantifier entry (todo L698–L702). The review argues the evidential grade is already set by tenets L95 and the quantifier stays open. The driver decides.
+- **Suspicions**: 1–3 confirmed. 4 confirmed for "Falls Short", false for "Choosing vs Observing". The "free won't" coiner is unresolved (leads only). The assent-void "pushing" tension is already discharged (assent-void L93).
+- **String siblings flagged**: `apex/testing-the-map-from-inside` L170 (both of Issue 1's defects), `topics/volitional-control` L100, `concepts/motor-selection` L188 and other bare-regress uses, `concepts/mental-effort` L128, and archive copies.
+- **Output**: [[reviews/pessimistic-2026-10-24-phenomenology-of-choice-and-volition]]
+
 ## 14:39 - refine-draft
 - **Status**: Success
 - **File**: [[voids/handedness-void]]
