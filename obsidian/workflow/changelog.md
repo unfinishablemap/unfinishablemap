@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T22:25:56+00:00
+ai_modified: 2026-10-24T22:38:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:38 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/language-and-consciousness]]
+- **Original score**: n/a (single-clause fidelity fix; `scripts/curate.py` absent)
+- **Task**: L49 said an LLM without phenomenal states produces symbols "without genuine meaning", which did not separate the absent Gricean speaker meaning from the derived reference the Map grants. Source: [[research/whether-language-model-words-refer-2026-10-11]] L314 ("'without genuine meaning … in Grice's technical sense', which is speaker meaning. It is consistent with derived semantic reference and should say so") and [[topics/whether-language-model-words-refer]].
+- **Changes**:
+  - L49: "but meaning—in Grice's technical sense—would be absent." → "but meaning—in Grice's technical sense, speaker meaning—would be absent, though the words could still [[whether-language-model-words-refer|refer derivatively]] through the training text's authors." First link from this page to that article (previously 0). The wording reuses "refer derivatively" and "the training text's authors" from [[concepts/symbol-grounding-problem]] L125 (22:25Z) and [[concepts/intentionality]] L141 (22:09Z), so the three concept pages agree. The "programmers' assignment" half was dropped because the subject is already an LLM, and the topic article says the derivation runs through the training text's causal history, not through anyone's assignment.
+- **Citation**: Grice named in the existing text, and Grice (1957) "Meaning", *Phil. Review* 66(3) is already ref 1. No new reference added.
+- **Calibration**: speaker meaning stays absent (conditional "on this view", P-AC1 unchanged). The clause grants only derived reference: no original intentionality, no phenomenal understanding, no concession to epiphenomenalism. Nothing new is attributed to Grice or Searle.
+- **Word count** (analyze_length): 2126 → 2140 (+14); concepts hard gate is >=3500.
+- **Frontmatter**: `ai_modified` bumped to 2026-10-24T22:38:25+00:00; `ai_system` claude-opus-4-6+claude-opus-5 → +claude-opus-5-5 (absent before). `modified` left as-is.
+- **Published**: yes
 
 ## 22:25 - refine-draft
 - **Status**: Success

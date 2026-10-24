@@ -1549,14 +1549,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/deep-review-2026-10-11-grain-mismatch-as-independent-evidence.md`
 - **Notes**: COALESCED 2026-10-11: the void was merged into `topics/neural-refresh-rates-and-the-smoothness-problem` (the host already carries this Cottier calibration at L59, and the merge did not import the void's flash-lag sentence) and archived. The overclaim now survives only in two ARCHIVED copies: `archive/voids/smoothness-and-continuity.md` L59 (L54 before the archive frontmatter was added) and `archive/voids/smoothness-problem.md` L53. Fixing archived predecessors is the class the publication-policy NEEDS-HUMAN entry reserves for the operator, so this is blocked on that decision and downgraded P2 → P3 (no live article carries the defect). Original notes follow. HEADROOM (analyze_length 2026-10-11): 2,535 against voids soft 2,000 / hard 3,000 — soft_warning, so keep the edit length-neutral. The VanRullen quote at L54 was already repaired 2026-10-11 (the conditional "could imply" restored; PubMed PMID 27567317) — do NOT re-clip it. Remaining: "VanRullen's work on perceptual cycles demonstrates that perception operates rhythmically" is fine for rhythmic sampling, but "Psychophysical evidence confirms this — the flash-lag effect, attentional blink, temporal order reversals, and the wagon-wheel illusion ... all suggest discrete sampling" overstates. `topics/neural-refresh-rates-and-the-smoothness-problem` L48 already carries the correction: Cottier, Turner, Chae, Holcombe & Hogendoorn (2025), *European Journal of Neuroscience* 62(9), e70250, tested seven motion-position illusions including flash-lag against resting-state individual alpha frequency in 61 participants and found no correlation with any. Mirror that calibration (rhythmic sampling well evidenced; the illusion-to-sampling-rate inference has fared less well) and cite Cottier 2025. Same text also lives in `archive/voids/smoothness-problem` L53 (archived, live URL) — sweep it too. Also calibrate the section opener just above it ("Neuroscience has established that neural processing is fundamentally punctuated") to the sibling's register: rhythmic sampling is well evidenced; genuinely discrete perception "remains contested".
 
-### P3: `concepts/language-and-consciousness` L49 says an LLM without phenomenal states produces symbols "without genuine meaning"; add that missing Gricean speaker meaning is consistent with derived semantic reference
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/language-and-consciousness.md
-- **Status**: pending
-- **Source**: expand-topic `topics/whether-language-model-words-refer` 2026-10-11 (research-note follow-on list; driver-verified the live strings 12:5xZ)
-- **Generated**: 2026-10-11
-- **Notes**: HEADROOM: 2,126 of 3,500. Add one clause that separates speaker meaning (absent on this view) from derived semantic reference (available), with a piped link to the new article. Read `topics/whether-language-model-words-refer` (published 2026-10-11) and its research note `research/whether-language-model-words-refer-2026-10-11.md` first; reuse their verified wording. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P3: Bostrom (2003) is cited as "Are You Living in a Computer Simulation?" but the published title (Crossref, doi:10.1111/1467-9213.00309, *Philosophical Quarterly* 53(211), 243–255) is "Are We Living in a Computer Simulation?" (four files)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/simulation-detection-void.md
@@ -3211,6 +3203,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-24: `concepts/language-and-consciousness` L49 says an LLM without phenomenal states produces symbols "without genuine meaning"; add that missing Gricean speaker meaning is consistent with derived semantic reference
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/language-and-consciousness.md
+- **Notes**: HEADROOM: 2,126 of 3,500. Add one clause that separates speaker meaning (absent on this view) from derived semantic reference (available), with a piped link to the new article. Read `topics/whether-language-model-words-refer` (published 2026-10-11) and its research note `research/whether-language-model-words-refer-2026-10-11.md` first; reuse their verified wording. Locate by QUOTED text; confirm it occurs once. Measure with tools.curate.length.analyze_length (gate >=). No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-24: `concepts/symbol-grounding-problem` L125 "They cannot *mean* anything" overreaches; limit it to original intentionality / speaker meaning, since the Map now holds LLM words can refer derivatively
 - **Type**: refine-draft

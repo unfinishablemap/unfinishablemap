@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-08-12 14:16:44+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-24 22:38:25+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[intentionality]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 03:25:11+00:00
-lastmod: 2026-08-12 14:16:44+00:00
+lastmod: 2026-10-24 22:38:25+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -49,7 +49,7 @@ John Searle tied [intentionality](/concepts/intentionality/)—the aboutness of 
 
 If Grice and Searle are right, meaning cannot exist without consciousness. Rather than a self-standing formal system that minds happen to use, language becomes constitutively dependent on conscious subjects who intend, understand, and grasp—a position closely aligned with [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory), the view that all genuine aboutness derives from phenomenal experience.
 
-This has implications for AI language systems: an LLM producing grammatically perfect sentences without phenomenal states would, on this view, produce sounds or symbols without genuine meaning—a version of the [symbol grounding problem](/concepts/symbol-grounding-problem/) applied to semantics. The surface form would be indistinguishable from meaningful speech, but meaning—in Grice's technical sense—would be absent.
+This has implications for AI language systems: an LLM producing grammatically perfect sentences without phenomenal states would, on this view, produce sounds or symbols without genuine meaning—a version of the [symbol grounding problem](/concepts/symbol-grounding-problem/) applied to semantics. The surface form would be indistinguishable from meaningful speech, but meaning—in Grice's technical sense, speaker meaning—would be absent, though the words could still [refer derivatively](/topics/whether-language-model-words-refer/) through the training text's authors.
 
 The counter-position, associated with later Wittgenstein and the inferentialist tradition (Brandom, Sellars), holds that meaning is constituted by public use rather than private intention. On this view, what a word means is determined by its role in social practices, not by anything happening inside individual minds. If correct, meaning might not require consciousness at all—only participation in the right normative practices.
 
