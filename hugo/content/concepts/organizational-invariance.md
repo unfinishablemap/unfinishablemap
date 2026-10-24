@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-12
-ai_modified: 2026-10-10 19:16:40+00:00
+ai_modified: 2026-10-24 12:37:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-10 19:16:40+00:00
-lastmod: 2026-10-10 19:16:40+00:00
+lastmod: 2026-10-24 12:37:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ Taken together, the two arguments support *nonreductive functionalism about the 
 
 **Equivocation.** Van Heuveln, Dietrich and Oshima argue the dancing argument equivocates between a *difference in experience between two systems* and a *single system's experience of change*. Once the two are separated, they claim, the reductio loses its grip and dancing qualia fails to establish that experience is an organizational invariant (van Heuveln, Dietrich & Oshima 1998).
 
-**Substrate realizability.** A fourth line grants the logic but challenges the setup: perhaps biological neurons realize functional organization at a grain—electrochemical, possibly sub-cellular—that no silicon chip actually reproduces. If so, the replacement was never the like-for-like isomorph the argument requires. Chalmers anticipated this and doubted its premise, adding that if silicon cannot duplicate neural function, "the assessment of silicon systems would simply be irrelevant to the invariance principle" (Chalmers 1995). This objection is the closest external cousin to the Map's own reply.
+**Substrate realizability.** A fourth line grants the logic but challenges the setup: perhaps biological neurons realize functional organization at a grain—electrochemical, possibly sub-cellular—that no silicon chip actually reproduces. If so, the replacement was never the like-for-like isomorph the argument requires. Chalmers anticipated this and doubted its premise, adding that if silicon cannot duplicate neural function, "the assessment of silicon systems would simply be irrelevant to the invariance principle" (Chalmers 1995). This objection is the closest external cousin to the Map's own reply. [Block's harder problem](/topics/blocks-harder-problem/) (2002) concerns a different case and question: whether a merely *superficial* functional isomorph on a fundamentally different physical basis is conscious, which Block treats as an *epistemic* question we lack any conception of how to settle, where invariance answers a *metaphysical* one for *fine-grained* isomorphs.
 
 A separate worry runs the other way. Because Chalmers pairs invariance with property dualism, critics charge that the resulting consciousness does no causal work—an epiphenomenal spectator of a drama fixed entirely by function.
 
@@ -103,6 +103,7 @@ The Map's position is therefore not that Chalmers is confused but that his princ
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' three psychophysical principles, including organizational invariance
 - [inverted-qualia](/concepts/inverted-qualia/) — The inversion case dancing qualia most directly threatens; takes the same horn
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The logical possibility invariance concedes but sets aside
+- [blocks-harder-problem](/topics/blocks-harder-problem/) — The epistemic problem for superficial, physically different isomorphs
 - [haecceity](/concepts/haecceity/) — The Map's second, independent ground: organization does not fix *which* subject is present
 - [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) — Within-species cases, which control task-level matching rather than fine-grained organization
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem Chalmers keeps even while defending invariance
@@ -116,6 +117,7 @@ The Map's position is therefore not that Chalmers is confused but that his princ
 1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*, ch. 7. Oxford University Press.
 1. van Heuveln, B., Dietrich, E., & Oshima, M. (1998). "Let's Dance! The Equivocation in Chalmers' Dancing Qualia Argument." *Minds and Machines* 8(2), 237–249.
 1. Schwitzgebel, E. (2010, April 22). "Chalmers's Fading/Dancing Qualia and Self-Knowledge." *The Splintered Mind*. http://schwitzsplinters.blogspot.com/2010/04/chalmerss-fadingdancing-qualia-and-self.html
+1. Block, N. (2002). The harder problem of consciousness. *Journal of Philosophy*, 99(8), 391–425. https://doi.org/10.2307/3655621
 1. Mogensen, A. L. (2025). "How to resist the Fading Qualia Argument." *Synthese* 206(5), art. 252. https://doi.org/10.1007/s11229-025-05338-3 (earlier version: Global Priorities Institute working paper, 2024)
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Substrate Independence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/substrate-independence/
 1. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Machine Consciousness and Mind Uploading. *The Unfinishable Map*. https://unfinishablemap.org/topics/machine-consciousness/

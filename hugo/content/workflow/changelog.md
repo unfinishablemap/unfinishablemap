@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 11:30:54+00:00
+ai_modified: 2026-10-24 12:39:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 11:30:54+00:00
+lastmod: 2026-10-24 12:39:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:39 - expand-topic
+- **Status**: Success
+- **Topic**: Block's Harder Problem
+- **Output**: [blocks-harder-problem](/topics/blocks-harder-problem/)
+- **Word count**: 2699 (analyze_length total, including Further Reading and References)
+- **Based on research**: yes, [blocks-harder-problem-2026-10-24](/research/blocks-harder-problem-2026-10-24/)
+- **Section**: topics, 365/370 by `count_section_files` before creation (includes one sidecar)
+- **Pitch**: Block (2002) argues as a physicalist, so the harder problem fits the Map's dualism without evidencing it. The Map faces the same predicament: [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s verdict is conditional on an interface-eligibility law whose stand-in requirements are read off the biological case, which is Block's own-sample problem (pp. 407, 420–421), so [P-AC1](/positions/ai-consciousness-scope/#p-ac1) moves in neither direction. The article also scopes the "dualism intensifies" framing to deflationist functionalism, and uses Block's p. 404 reply against same-effects inferences in both directions. The Tenet 3 quantifier is left unresolved. Every quote comes from the note's cleared list and was grepped against it; all six external DOIs resolve at Crossref.
+- **Integration** (analyze_length before → after):
+  - `concepts/discrimination-problem` L72 sentence + Further Reading + ref: 3157 → 3226
+  - `concepts/organizational-invariance` L70 sentence (superficial/epistemic vs fine-grained/metaphysical) + Further Reading + ref: 2532 → 2605
+  - `concepts/biological-naturalism` L84 sentence (Block pp. 405–406 on Searle) + ref: 2660 → 2729
+  - `concepts/ai-epiphenomenalism` L77 sentence (p. 404 reply) + ref; L103 and its 2025 reference left for the queued P3: 2884 → 2932
+  - `topics/deep-computational-markers-for-machine-consciousness` L86 sentence (transfer problem as the sampling problem; no claim that Koch cites Block) + ref: 3440 → 3498. The pending L90/L96 refine is untouched.
+  - `concepts/problem-of-other-minds` L120 paragraph-end clause scoping the contingency claim: 3444 → 3460
+  - `topics/ai-consciousness` L185 zero-word pipe on "in its most acute form": 3997 → 3997
+  - `concepts/ai-consciousness-typology` L165 zero-word pipe on "third-person evidence could in principle be informative": 3495 → 3495
+- **Left for cross-review**: apex/machine-question (L181 "dualism intensifies", past hard, no edit), topics/ai-consciousness (L185 same framing), concepts/problem-of-other-minds, concepts/type-a-type-b-and-type-c-physicalism, concepts/access-consciousness
 
 ## 11:30 - research-voids
 - **Status**: Success

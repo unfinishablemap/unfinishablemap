@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-14 10:30:15+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8
+ai_modified: 2026-10-24 12:37:52+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/problem-of-other-minds/
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 15:58:33+00:00
-lastmod: 2026-10-14 10:30:15+00:00
+lastmod: 2026-10-24 12:37:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -120,7 +120,7 @@ If consciousness is non-physical, physical evidence is even more indirect. The [
 
 **The zombie possibility.** [Philosophical zombies](/concepts/philosophical-zombies/)—beings physically identical to conscious humans but lacking experience—are conceivable under dualism. If conceivable, behavior alone cannot logically guarantee consciousness. This follows from consciousness being non-physical, not from general skepticism.
 
-**The contingency of mind-body correlation.** Physicalism treats the link between mental states and behavior as lawlike or constitutive; dualism treats it as contingent. Behavioral similarity therefore furnishes weaker evidence under dualism—it *suggests* similar experience but cannot *entail* it. This pressure falls hardest on the [argument from analogy](#argument-from-analogy), which already generalizes from a sample of one and now must also assume that physical similarity tracks phenomenal similarity.
+**The contingency of mind-body correlation.** Physicalism treats the link between mental states and behavior as lawlike or constitutive; dualism treats it as contingent. Behavioral similarity therefore furnishes weaker evidence under dualism—it *suggests* similar experience but cannot *entail* it. This pressure falls hardest on the [argument from analogy](#argument-from-analogy), which already generalizes from a sample of one and now must also assume that physical similarity tracks phenomenal similarity. For a physically different system, though, a phenomenal-realist physicalist meets the same shortfall ([Block's harder problem](/topics/blocks-harder-problem/)).
 
 ### The Interactionist's Advantage
 

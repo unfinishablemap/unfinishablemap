@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-08-19 15:55:54+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_modified: 2026-10-24 12:37:52+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
 - '[[substance-property-dualism]]'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-19 08:00:34+00:00
-lastmod: 2026-08-19 15:55:54+00:00
+lastmod: 2026-10-24 12:37:52+00:00
 modified: *id001
 related_articles:
 - '[[hard-problem-of-consciousness]]'
@@ -83,7 +83,7 @@ Critics answer that this either quietly concedes Kim's identity of the causal wo
 
 Biological naturalism is the positive theory Searle offers alongside his more famous negative argument against Strong AI, and the relation between the two is easy to overstate. The Chinese Room is a self-standing argument whose premises concern syntax and semantics: programs are purely formal, minds have semantic content, and syntax is neither constitutive of nor sufficient for semantics. Biology is not among those premises, and the argument does not need biological naturalism to go through.
 
-Where biological naturalism does its work is downstream. It is the positive home Searle gives the negative conclusion, and it supplies his answers to the standard replies: told that a program simulating the actual sequence of neuron firings would understand, he answers that simulating the *form* of the firings is not duplicating the brain's *causal powers*; told that some future machine will have whatever it takes, he answers that this abandons the specific claim under attack. Only systems with the appropriate causal powers — biological brains, or something causally equivalent to them — can be conscious.
+Where biological naturalism does its work is downstream. It is the positive home Searle gives the negative conclusion, and it supplies his answers to the standard replies: told that a program simulating the actual sequence of neuron firings would understand, he answers that simulating the *form* of the firings is not duplicating the brain's *causal powers*; told that some future machine will have whatever it takes, he answers that this abandons the specific claim under attack. Only systems with the appropriate causal powers — biological brains, or something causally equivalent to them — can be conscious. Block (2002, pp. 405–406) agrees with Searle "that consciousness is a matter of the biology of the organism, not (just) its information processing", yet says of Searle's "empirical question" of equivalent causal powers that "we do not now have any conception of how it could be tested", one face of [his harder problem](/topics/blocks-harder-problem/).
 
 This concept page does not re-argue the [Chinese Room](/concepts/chinese-room-argument/), which is a distinct argument with its own critics (Fodor, among others, replies that the right causal connections to the world, not biochemistry, fix intentionality). The point here concerns the direction of support: substrate-specificity is a conclusion Searle arrives at rather than a premise he starts from, and biological naturalism is what he offers in place of the computational theory rather than what refutes it. For the Map's engagement with substrate questions, see [machine-consciousness](/topics/machine-consciousness/).
 
@@ -120,3 +120,4 @@ The Map presents biological naturalism as a rival it *resists*, not one it takes
 5. Searle, John R. (2008). Why I Am Not a Property Dualist. In *Philosophy in a New Century: Selected Essays*, 152–160. Cambridge: Cambridge University Press. DOI 10.1017/CBO9780511812859.010.
 6. Kim, Jaegwon (1998). *Mind in a Physical World*. Cambridge, MA: MIT Press.
 7. Chalmers, David J. (1996). *The Conscious Mind*. New York: Oxford University Press.
+8. Block, Ned (2002). The Harder Problem of Consciousness. *Journal of Philosophy*, 99(8), 391–425. DOI 10.2307/3655621.

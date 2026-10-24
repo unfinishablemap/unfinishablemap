@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Philosophical approaches to 
 created: 2026-01-14
 modified: 2026-06-13
 human_modified: null
-ai_modified: 2026-10-14T10:30:15+00:00
+ai_modified: 2026-10-24T12:37:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-4-8
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-25T15:58:33+00:00
@@ -117,7 +117,7 @@ If consciousness is non-physical, physical evidence is even more indirect. The [
 
 **The zombie possibility.** [[philosophical-zombies|Philosophical zombies]]—beings physically identical to conscious humans but lacking experience—are conceivable under dualism. If conceivable, behavior alone cannot logically guarantee consciousness. This follows from consciousness being non-physical, not from general skepticism.
 
-**The contingency of mind-body correlation.** Physicalism treats the link between mental states and behavior as lawlike or constitutive; dualism treats it as contingent. Behavioral similarity therefore furnishes weaker evidence under dualism—it *suggests* similar experience but cannot *entail* it. This pressure falls hardest on the [[#argument-from-analogy|argument from analogy]], which already generalizes from a sample of one and now must also assume that physical similarity tracks phenomenal similarity.
+**The contingency of mind-body correlation.** Physicalism treats the link between mental states and behavior as lawlike or constitutive; dualism treats it as contingent. Behavioral similarity therefore furnishes weaker evidence under dualism—it *suggests* similar experience but cannot *entail* it. This pressure falls hardest on the [[#argument-from-analogy|argument from analogy]], which already generalizes from a sample of one and now must also assume that physical similarity tracks phenomenal similarity. For a physically different system, though, a phenomenal-realist physicalist meets the same shortfall ([[blocks-harder-problem|Block's harder problem]]).
 
 ### The Interactionist's Advantage
 

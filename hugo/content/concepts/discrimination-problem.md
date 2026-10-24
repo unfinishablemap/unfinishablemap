@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-10-23 11:10:58+00:00
+ai_modified: 2026-10-24 12:37:52+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-23 11:10:58+00:00
-lastmod: 2026-10-23 11:10:58+00:00
+lastmod: 2026-10-24 12:37:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ Externally, the discrimination problem is the question lurking behind every prop
 
 Daniel Dennett's heterophenomenology (see [heterophenomenology](/concepts/heterophenomenology/)) tries to dissolve the problem by treating verbal reports as data about how things *seem* to a subject, neutrally between realism and illusionism about the underlying phenomenality. By its own protocols heterophenomenology brackets the question of whether seemings have phenomenal backing; the method's announced neutrality is just the discrimination problem under a different name. For Dennett this is a feature, and for a reason worth stating: on his account the seemings *are* the data, and a demand for phenomenal backing behind them does no explanatory work. For realists it is the same hole in different clothes.
 
-Report-based tests for [AI consciousness](/topics/ai-consciousness/) inherit the problem whole. A language model produces fluent, structurally appropriate reports about "feeling" various states; whether anything corresponds to them is the discrimination problem at its sharpest, since the system is built to produce report-like outputs with no guarantee about inner states. The Map's [AI consciousness typology](/concepts/ai-consciousness-typology/) tracks this directly by separating the *functional* signatures of access (global availability and verbal self-report, which tested language models exhibit: [P-AC4](/positions/ai-consciousness-scope/#p-ac4)) from *phenomenal* signatures (which the discrimination problem leaves open). Proposed solutions—architectural similarity to brains, computational tests inspired by [integrated information theory](/topics/consciousness-and-integrated-information/) or global workspace theory, behavioural signatures—presuppose a theory of consciousness that fixes which features matter. The choice of theory is *itself* the discrimination criterion; the test does not independently establish it.
+Report-based tests for [AI consciousness](/topics/ai-consciousness/) inherit the problem whole. A language model produces fluent, structurally appropriate reports about "feeling" various states; whether anything corresponds to them is the discrimination problem at its sharpest, since the system is built to produce report-like outputs with no guarantee about inner states. The Map's [AI consciousness typology](/concepts/ai-consciousness-typology/) tracks this directly by separating the *functional* signatures of access (global availability and verbal self-report, which tested language models exhibit: [P-AC4](/positions/ai-consciousness-scope/#p-ac4)) from *phenomenal* signatures (which the discrimination problem leaves open). Proposed solutions—architectural similarity to brains, computational tests inspired by [integrated information theory](/topics/consciousness-and-integrated-information/) or global workspace theory, behavioural signatures—presuppose a theory of consciousness that fixes which features matter. The choice of theory is *itself* the discrimination criterion; the test does not independently establish it. [Block's harder problem](/topics/blocks-harder-problem/) (2002) marks the limit no channel reaches: for a merely superficial functional isomorph on a fundamentally different physical basis, even complete physical and functional knowledge leaves, on Block's account, no conception of a ground of rational belief either way.
 
 ## Why It Is Stubborn {#stubborn}
 
@@ -146,6 +146,7 @@ Given phenomenal realism, the discrimination problem identifies a structural [vo
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [ai-consciousness](/topics/ai-consciousness/)
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
+- [blocks-harder-problem](/topics/blocks-harder-problem/) — the case that complete physical and functional knowledge leaves open
 - [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) — a parallel structural-underdetermination case at the production-vs-filter interface
 - [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) — the parallel result at the agency-and-responsibility tier
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — the parallel result at the empirical-interface tier
@@ -158,16 +159,17 @@ Given phenomenal realism, the discrimination problem identifies a structural [vo
 ## References
 
 1. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227–247.
-2. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-3. Chalmers, D. J. (2007). Phenomenal concepts and the explanatory gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
-4. Chalmers, D. J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9–10), 6–61.
-5. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-6. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
-7. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81–108.
-8. Monti, M. M., et al. (2010). Willful modulation of brain activity in disorders of consciousness. *New England Journal of Medicine*, 362, 579–589.
-9. Owen, A. M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
-10. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://academic.oup.com/nc/article/2021/1/niab004/6166135
-11. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-12. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-13. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
-14. Southgate, A., Oquatre-six, C., & Ocinq-cinq, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+2. Block, N. (2002). The harder problem of consciousness. *Journal of Philosophy*, 99(8), 391–425. https://doi.org/10.2307/3655621
+3. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+4. Chalmers, D. J. (2007). Phenomenal concepts and the explanatory gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism* (pp. 167–194). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195171655.003.0009
+5. Chalmers, D. J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9–10), 6–61.
+6. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+7. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
+8. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81–108.
+9. Monti, M. M., et al. (2010). Willful modulation of brain activity in disorders of consciousness. *New England Journal of Medicine*, 362, 579–589.
+10. Owen, A. M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
+11. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://academic.oup.com/nc/article/2021/1/niab004/6166135
+12. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+13. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+14. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
+15. Southgate, A., Oquatre-six, C., & Ocinq-cinq, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
