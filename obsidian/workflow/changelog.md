@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T00:53:17+00:00
+ai_modified: 2026-10-24T01:10:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 01:10 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/psychophysical-laws]]
+- **Review file**: [[reviews/pessimistic-2026-10-24-psychophysical-laws]] (all four Priority Fixes applied; every OLD string matched at count 1)
+- **Original score**: n/a (`scripts/curate.py` absent); 3,493 by analyze_length, headroom 6
+- **Length**: cuts first, 3493 → 3478 (L64 "This article covers…", −15) → 3467 (L167 duplicate apex pointer, −11; Further Reading L256 still carries `attention-as-causal-bridge`) → 3458 (L239 bandwidth-as-minimality, −9); then additions → 3491 final (< 3500 gate). That is the review's projected 3,489 plus two +1 repairs (below).
+- **Changes**:
+  1. L124: the explanatory gap no longer serves as proof of non-identity. The Map's denial is kept in Map voice and rests on the contested conceivability step; links added to [[type-a-type-b-and-type-c-physicalism]] and [[conceivability-possibility-inference]]. The subject changed ("The relationship" → "The Map"), which left the next sentence's "It" pointing at "the denial", so "It cannot be" became "Nor can it be" (+1). "So coupling must be…" still follows.
+  2. Chalmers: L78 now reads that he ranks epiphenomenalism beside interactionism and Russellian monism as live options (Chalmers 2003). L114 → "leaves epiphenomenalism open". L217 → "a report that bears on supervenience laws, not downward coupling". The Further Reading gloss → "One of Chalmers' three live options; the Map rejects it". Re-checked against the raw consc.net text: "some credence to each", type-F "most appealing", type-E gloss "physical states cause phenomenal states, but not vice versa". The review's gloss "which cause nothing" was therefore kept as "which cause nothing physical" (+1) so the qualifier is not lost. References: Chalmers 2003 inserted as item 5 (D.J. form, matching the page's other Chalmers entries), and the old items 5–17 were renumbered to 6–18.
+  3. L223: the Stapp test is now observation-rate beyond dwell-time, with a link to `stapp-quantum-mind#what-would-challenge-this-view` (the anchor was confirmed in the built HTML as `id=what-would-challenge-this-view`). L193: "experimental evidence (though contested)" → "clinical data a classical account fits equally", and unity was dropped from the absence claim. The clause after the dash was kept verbatim, because `topics/valence-and-conscious-selection` L63 quotes it. L191 table cell piped to [[entanglement-binding-hypothesis]] (+0).
+  4. Relation section: the L239 bandwidth-minimality sentence was deleted (Tenet 2 minimality is empirical-constraint minimality, `tenets.md` L69). L243 Tenet 5 now "blocks the parsimony objection … and by its own symmetry bars calling the expansion simpler" (`tenets.md` L145/L147).
+- **Engagement classification**: Type-B physicalism at L124 is Mode Three. The denial is honestly marked as resting on a contested step, and no in-framework refutation is claimed.
+- **Untouched by design**: the Next-in-line items L82, L92, L100, L108, L165, L171 and L245 (their own P3). The string siblings `topics/psychophysical-laws-bridging-mind-and-matter` L88/L207/L211/L236 and `concepts/interactionist-dualism` L85 are still live.
+- **Published**: yes
 
 ## 00:53 - pessimistic-review
 - **Status**: Success
