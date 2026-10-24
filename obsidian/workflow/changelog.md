@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T08:13:00+00:00
+ai_modified: 2026-10-24T08:24:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:24 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Original score**: n/a (`scripts/curate.py` is absent; this was a targeted link fix)
+- **Task**: P1, cluster C10 of [[outer-review-synthesis-2026-10-24]] (ChatGPT and Claude both flagged it). The page had 0 links to [[nondualistic-interactionism]] and 0 mentions of Griffin.
+- **Changes**: Added one zero-word piped link at L181: "The bare interactionist commitment" became "The bare [[nondualistic-interactionism|interactionist commitment]]". The anchor fits Griffin's view. The target page (L47) calls that view "a worked counterexample to the inference from 'distinct and interacting' to 'different in kind'". It also has no substance-bearing subject, since the mind is a serially ordered society of occasions and not "numerically one through time". So it instantiates exactly what the host sentence claims about the bare commitment. I did not add the optional "difference in kind" clause, because placing it directly before "satisfies both the Dualism and Bidirectional Interaction tenets" would invite the inference that Griffin satisfies the Dualism tenet. That is P-D2 territory and belongs to the blocked HUMAN LENGTH DECISION task. Pronoun check: the sentence subject and every downstream pronoun are unchanged. ai_modified was bumped. ai_system already contained claude-opus-5-5, so it is unchanged.
+- **Not done (by brief)**: no pairing comparison with Griffin (Claude's "fares better" premise was rejected in the synthesis; L189's conditional wording stands), no rewrite of the L65 opening, no change to the positions register.
+- **Length**: 3,491 → 3,491 by analyze_length (concepts hard limit 3,500, gate >=). Net 0.
+- **Published**: yes
 
 ## 08:13 - add-highlight
 - **Status**: Success. The highlight was added, committed, pushed, deployed and tweeted. No `--dry-run` was used, and `add` ran once.

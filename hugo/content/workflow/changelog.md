@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 07:56:08+00:00
+ai_modified: 2026-10-24 08:24:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 07:56:08+00:00
+lastmod: 2026-10-24 08:24:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:24 - refine-draft
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Original score**: n/a (`scripts/curate.py` is absent; this was a targeted link fix)
+- **Task**: P1, cluster C10 of [outer-review-synthesis-2026-10-24](/reviews/outer-review-synthesis-2026-10-24/) (ChatGPT and Claude both flagged it). The page had 0 links to [nondualistic-interactionism](/concepts/nondualistic-interactionism/) and 0 mentions of Griffin.
+- **Changes**: Added one zero-word piped link at L181: "The bare interactionist commitment" became "The bare [interactionist commitment](/concepts/nondualistic-interactionism/)". The anchor fits Griffin's view. The target page (L47) calls that view "a worked counterexample to the inference from 'distinct and interacting' to 'different in kind'". It also has no substance-bearing subject, since the mind is a serially ordered society of occasions and not "numerically one through time". So it instantiates exactly what the host sentence claims about the bare commitment. I did not add the optional "difference in kind" clause, because placing it directly before "satisfies both the Dualism and Bidirectional Interaction tenets" would invite the inference that Griffin satisfies the Dualism tenet. That is [P-D2](/positions/arguments-for-dualism/#p-d2) territory and belongs to the blocked HUMAN LENGTH DECISION task. Pronoun check: the sentence subject and every downstream pronoun are unchanged. ai_modified was bumped. ai_system already contained claude-opus-5-5, so it is unchanged.
+- **Not done (by brief)**: no pairing comparison with Griffin (Claude's "fares better" premise was rejected in the synthesis; L189's conditional wording stands), no rewrite of the L65 opening, no change to the positions register.
+- **Length**: 3,491 → 3,491 by analyze_length (concepts hard limit 3,500, gate >=). Net 0.
+- **Published**: yes
+
+## 08:13 - add-highlight
+- **Status**: Success. The highlight was added, committed, pushed, deployed and tweeted. No `--dry-run` was used, and `add` ran once.
+- **Trigger**: the daily 08:00Z highlight + tweet slot (ran at 08:08Z) with `--tweet`.
+- **Subject**: [consciousness-and-the-epistemic-condition-on-responsibility](/topics/consciousness-and-the-epistemic-condition-on-responsibility/). It was created 2026-10-23 and deep-reviewed 2026-10-23T13:48Z. The driver offered four eligible new topic pages created 10-23. It was chosen over [tonic-immobility-and-awareness](/topics/tonic-immobility-and-awareness/), [measuring-the-witness-attitude](/topics/measuring-the-witness-attitude/) and [emotion-regulation-and-the-timing-of-control](/topics/emotion-regulation-and-the-timing-of-control/) for its general-audience hook (Levy's zombies "lack nothing in the way of awareness"). The page is also openly self-critical, naming a tension between two of the Map's responsibility pages. `topics/precommitment-and-the-diachronic-agent` was excluded because it has not been deep-reviewed.
+- **90-day check**: `git log -S "<slug>" --since=2026-07-26 -- obsidian/workflow/highlights.md hugo/content/workflow/highlights.md` returned 0 hits for all four candidates, and `grep -cF` on the current page also returned 0. Positive control: the 10-23 slug `chain-of-thought-as-verbal-protocol` returned 1.
+- **Highlight** (`new-article`): "Levy: Blame Needs Consciousness, but Not the Kind Zombies Lack". Description (253 chars; the tweet comes to 278 with the t.co link): "Neil Levy argues blame requires consciousness of what makes an act wrong, but he means information available to the person, which he says zombies have in full. That fits the Map's claim without evidencing dualism, and exposes a tension in its own pages."
+- **Calibration**: the copy keeps the page's strength. "Fits ... without evidencing dualism" follows the page's lead ("its wording without its dualist reading") and its Relation to Site Perspective ("supports neither dualism nor physicalism"). "Information available to the person" is Levy's "personally available" informational state. "Zombies have in full" paraphrases p. 38 ("lack nothing in the way of awareness"). The tension clause follows the Map-pages section ("neither page reconciles them"). The title attributes the view to Levy, so it does not state the Map's own phenomenal extension as settled.
+- **Commit**: `197ab8bc09`, the CLI's own commit. It holds highlights.md in both trees plus a stale `hugo/content/workflow/todo.md` sync. Its `git push` also carried the 15 earlier unpushed commits, and origin/main now equals `197ab8bc09`. The CLI's `_update_last_git_push` changed only `last_git_push` in evolution-state.yaml (diffed against a pre-run snapshot; no comment loss).
+- **Deploy**: the article page was already live before the run, so the CLI's HTTP-200 gate proved nothing about content. Origin already held the deep-reviewed version (`6aadb647bf`; the article has no local diff against origin). The live page contains three deep-review-added markers ("I prefer to avoid Block", "neither page reconciles them", "thesis supports neither dualism nor physicalism"). The new entry's title appeared on the live https://unfinishablemap.org/workflow/highlights/ at 08:12:28Z.
+- **Tweet URL**: https://x.com/unfinishablemap/status/2113905849085157864. The CLI only printed it, so it was persisted by hand with `update_highlight_tweet(path, "2026-10-24", url)` in `obsidian/workflow/highlights.md`. The same call was applied to `hugo/content/workflow/highlights.md` so both trees match without a full sync. Uncommitted: these lines are left for the cycle-post commit.
+- **Model**: claude-opus-5-5
 
 ## 07:56 - refine-draft
 - **Status**: Success

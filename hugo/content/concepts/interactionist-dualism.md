@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-14 12:09:02+00:00
+ai_modified: 2026-10-24 08:24:18+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:47:57+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-10-24 08:24:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -181,7 +181,7 @@ The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) sits within 
 
 ### Where the Map's Tenets Take a Substance-Leaning Sub-Reading
 
-The Dualism tenet's neutrality between substance and property dualism does not propagate uniformly downstream, and interactionist dualism is one place the asymmetry surfaces. The bare interactionist commitment—mental states cause physical effects, physical states cause mental effects—does not by itself require a substance-bearing subject; an interactionist property dualism granting mental properties genuine causal efficacy at quantum indeterminacies satisfies both the Dualism and Bidirectional Interaction tenets without positing a distinct mental substance. The substance-leaning enters when interactionism is paired with [agent causation](/concepts/agent-causation/): the agent as persisting subject who exercises causal powers in its own right is what an agent-causal reading requires (Swinburne 2013), and property-only readings struggle to ground that exercise. So the interactionist material takes on a substance-leaning where it engages free will, agent-causal selection, or personal authorship. Where interactionism is doing only the irreducibility-plus-causal-efficacy work—Kim's exclusion argument, the conservation-law treatment, the [multi-mind collapse problem](/concepts/multi-mind-collapse-problem/)—the substance-leaning is not load-bearing, and an interactionist property dualism would reach the same conclusions. [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) is the canonical statement of where the lean enters and why.
+The Dualism tenet's neutrality between substance and property dualism does not propagate uniformly downstream, and interactionist dualism is one place the asymmetry surfaces. The bare [interactionist commitment](/concepts/nondualistic-interactionism/)—mental states cause physical effects, physical states cause mental effects—does not by itself require a substance-bearing subject; an interactionist property dualism granting mental properties genuine causal efficacy at quantum indeterminacies satisfies both the Dualism and Bidirectional Interaction tenets without positing a distinct mental substance. The substance-leaning enters when interactionism is paired with [agent causation](/concepts/agent-causation/): the agent as persisting subject who exercises causal powers in its own right is what an agent-causal reading requires (Swinburne 2013), and property-only readings struggle to ground that exercise. So the interactionist material takes on a substance-leaning where it engages free will, agent-causal selection, or personal authorship. Where interactionism is doing only the irreducibility-plus-causal-efficacy work—Kim's exclusion argument, the conservation-law treatment, the [multi-mind collapse problem](/concepts/multi-mind-collapse-problem/)—the substance-leaning is not load-bearing, and an interactionist property dualism would reach the same conclusions. [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) is the canonical statement of where the lean enters and why.
 
 A reader who accepts interactionist dualism but rejects substance-bearing agents would therefore part company with the Map at the agent-causal step, not the interactionist step. The article's first-order claims about mental causation, quantum interface, and conservation survive that disagreement; its claims about agents as ontologically prior causal sources do not.
 
