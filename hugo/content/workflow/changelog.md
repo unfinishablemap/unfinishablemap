@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 09:57:30+00:00
+ai_modified: 2026-10-24 10:26:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 09:57:30+00:00
+lastmod: 2026-10-24 10:26:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:26 - research-topic
+- **Status**: Success
+- **Topic**: Block's harder problem: knowing whether a physically different functional duplicate is conscious (P3, harvested from `reviews/optimistic-2026-10-24-access-residue-wing.md`, New-Territory Candidate 1)
+- **Output**: [blocks-harder-problem-2026-10-24](/research/blocks-harder-problem-2026-10-24/)
+- **Sources consulted**: 20 (the note's Citations list)
+- **Verdict**: `recommended_action: article`, `target_section: topics`, `target_slug: blocks-harder-problem`. The slug is free; topics is at 365/370 by `count_section_files`. `harder-problem-of-consciousness` is also free, but it is two letters from the live `hard-problem-of-consciousness`.
+  - **Not a fold.** The best host, `concepts/discrimination-problem`, has 342 words of headroom against roughly 700 needed. `ai-consciousness-typology` has 4. The two apex pages and `positions/ai-consciousness-scope` are past hard.
+- **Verified against raw text**:
+  - Block 2002, *J Phil* 99(8): pp. 391–425 confirmed by the JSTOR cover and Block's 2019 reference list. The paper was read in full, and 66 quoted strings were grep-checked: C1–C4, "meta-inaccessible", the p. 404 epiphenomenalism reply, the p. 407 root, the two difficulties, and p. 420 ("the standard arguments against physicalism do not work").
+  - Block 2026, *TiCS* 30(4), 298–308: the harder problem restated for AI.
+  - Papineau 2003 (author copy): the indeterminacy reply.
+  - Block & Stalnaker 1999: pp. 1–46 confirmed.
+- **Metadata only**:
+  - Hohwy 2004. The subtitle "On the Harder Problem of Consciousness" is confirmed at Crossref. The body is closed, so the note licenses no claim about its argument.
+  - McLaughlin 2003 and 2019. Disputatio 2003 matches the brief.
+- **Calibration**:
+  - The harder problem fits the Map without evidencing it.
+  - The Map faces the same predicament. [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s eligibility law is read off the biological case, which is Block's p. 407/421 sampling problem, moved from "which physical property?" to "which indeterminacy is interface-relevant?". [P-AC1](/positions/ai-consciousness-scope/#p-ac1) does not move.
+  - Never concede epiphenomenalism. The Tenet 3 quantifier stays unresolved.
+- **Side-findings (leads)**:
+  - Phillips 2022 (*Mind*) misquotes Block 2019 p. 377 by dropping "not". The Map has no exposure.
+  - `structural-varieties-…` L125 says Block 2026 holds "regardless of mechanism", which his paper disowns.
+  - `ai-epiphenomenalism` L103 splices the quoted phrase "biologically grounded consciousness".
+  - The "dualism intensifies" framing (`apex/machine-question` L181, `topics/ai-consciousness` L185, `problem-of-other-minds` L120) holds only against deflationist functionalism.
 
 ## 09:56 - refine-draft
 - **Status**: Success
