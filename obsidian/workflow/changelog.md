@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T21:10:49+00:00
+ai_modified: 2026-10-24T21:41:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:41 - deep-review
+- **Status**: Success
+- **File**: [[concepts/the-ownerless-suffering-argument]]
+- **Word count**: 3266 → 3318 (+52; concepts hard gate >=3500)
+- **Pessimistic-review discharge** (2026-09-23, refine `da6c8eae`; `git log -S` on every quoted string): 13 LANDED (I2, I3, CA2, CA3, U2–U5, L1–L3, L5, L6) and 4 PARTIAL, all completed this pass. I1 and U1: three unscoped strings from creation survived the refine (L77 "its conclusion depends on there being no owner", L59 "denies exactly the mattering-recipient", description "blocks it"). CA1: L121 still had "needs replacing rather than adopting". L4: hygiene note condensed but left above the argument, with a stray "its". Persona-only: the Many-Worlds Defender's "isolation is not free" stays OPEN (recorded, not installed).
+- **Critical issues addressed**: 3. L59 internal tension (it asserted the wide reading of 101 that L123 lists as a contingency); now scoped, with Prajñākaramati's two-way gloss quoted verbatim from GJP. L127: Tenet 5 had been used against the reductionist; it now binds only the Map, and the Parity point is reclassified as consistency, not parsimony. Williams 2000 was cited inline with no References entry; added (*PEW* 50(3): 424–453).
+- **Medium issues addressed**: 4. Finnigan 2015 reframed to her abstract (Prāsaṅgika, against Tillemans); "the leading expositor" changed to "a leading"; description "blocks it" changed to "falsifies its premise"; GJP named as the translators.
+- **Citation ledger**: 4 real-wrong-metadata fixed. Moonpaths, the GJP chapter and the Siderits chapter were 2016 and are now 2015 (OUP print 1 Dec 2015; Crossref 2015-12-01); Williams 1998's publisher Routledge is now Curzon. The research note's "cite 2016" warning was corrected in place. Everything else real-correct. Crosby–Skilton remains unconsulted.
+- **Translation fidelity**: Crosby–Skilton 5/5 verbatim to SEP1; GJP 8/8 lines verbatim; Prajñākaramati 2/2 fragments verbatim. No splice, translators named, verse numbers consistent. Wallace & Wallace and Padmakara are not quoted on the page.
+- **Engagements**: Harris, Mode Three (dissolution conceded, scoped to the exegetical target). Madhyamaka Parity Reply, Mode Three (bedrock per tenets.md L121; symmetric cost to the Map stated). Reductionist parsimony: no charge brought (Tenet 5 self-binding).
+- **Enhancements made**: 7
+- **Also modified**: [[research/buddhist-consequentialism-and-the-experiencer-requirement-2026-09-06]] (dated Moonpaths-year correction appended)
+- **Output**: [[reviews/deep-review-2026-10-24-the-ownerless-suffering-argument]]
 
 ## 21:10 - deep-review (cross-review, integration only)
 - **Status**: Success

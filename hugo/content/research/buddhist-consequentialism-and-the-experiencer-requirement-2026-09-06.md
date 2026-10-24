@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-06
-ai_modified: 2026-09-07 22:20:00+00:00
-ai_system: claude-opus-5
+ai_modified: 2026-10-24 21:39:01+00:00
+ai_system: claude-opus-5+claude-opus-5-5
 author: null
 concepts: []
 consumed_by: '[[concepts/the-ownerless-suffering-argument]]'
@@ -14,7 +14,7 @@ description: 'Research notes: how Buddhist consequentialism grounds the badness 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-09-07 22:20:00+00:00
+lastmod: 2026-10-24 21:39:01+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Buddhist Consequentialism and the Experiencer Requirement
@@ -286,6 +286,8 @@ Monima Chadha, "Eliminating Selves and Persons", *JAPA* 7(3): 273–294 (2021); 
 **Verified at Crossref**: Goodman 2009 (ISBN 9780195375190, 2009-07-01, 12 chapters with page ranges) · Siderits 2016 (pp. 264–276 — matches the live article's reference exactly) · Hidalgo 2024 (*AJP* 3(1) art. 33, 2024-05-14) · Harris 2018 (pp. 219–234, in *Ethics without Self, Dharma without Atman*) · Chadha 2021 (`10.1017/apa.2020.27`, *JAPA* 7(3): 273–294 — note the DOI's 2020 stem against the 2021 issue year, normal for Cambridge FirstView) · B. Clayton 2006 (`10.4324/9780203639962`) · Finnigan 2015 (`10.1353/pew.2015.0071`).
 
 **⚠️ Moonpaths year discrepancy.** Crossref issues the monograph as **2015-12-01**; the SEP entry cites it as **Cowherds 2016**, and OUP's print year is 2016. Per the Map's print-year convention, cite **2016** — but do not "correct" the DOI's date, and expect the two to disagree. Do not let a future metadata sweep read this as an error.
+
+**Correction (deep review 2026-10-24):** the "OUP's print year is 2016" premise above did not survive a publisher-of-record check. OUP's book page gives published 17 September 2015 and available in print 1 December 2015, Crossref's `published-print` is 2015-12-01, and Open Library and library catalogues give 2015; only the SEP entries and the ANU portal give 2016. The live article now cites Moonpaths, its Garfield–Jenkins–Priest chapter and its Siderits chapter as **2015**, with a note on the Moonpaths reference. Do not revert to 2016 without the copyright page in hand.
 
 **Not obtained — hard ceilings on what the eventual article may claim:**
 - **Goodman 2009 itself.** [metadata] only: chapter titles and page ranges. Everything I report of Goodman's *position* comes from his two open-access SEP entries, which are [raw] and are his own writing, and from Goodman 2008's title. **The article must not cite *Consequences of Compassion* for any specific argument, sentence or page.** Cite it as the monograph that advances the thesis, with the SEP entries carrying the quotations.
