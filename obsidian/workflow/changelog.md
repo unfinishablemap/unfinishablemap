@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T00:21:34+00:00
+ai_modified: 2026-10-24T00:53:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:53 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/psychophysical-laws` ("Psychophysical Laws and Coupling"). It is a hub with 59 body inbound links and had never been a primary pessimistic target. It was picked after excluding `concepts/witness-consciousness` (edited 10-23) and `concepts/mental-causation-and-downward-causation` (open P3, todo L2634). `topics/phenomenal-authority-and-first-person-evidence` ties at 59 but is a secondary locus in an open P3 and over its hard limit.
+- **Length**: 3,493 by analyze_length (prose 2,891, Further Reading 282, References 320); headroom 6. The four Priority Fixes net −4 (end state 3,489).
+- **Priority Fixes**:
+  1. L124: the hard problem "shows" non-identity. This is an epistemic-to-metaphysical equivocation (critical); Type-B is close to bedrock (+9).
+  2. L78, L114, L217 and L260 misreport Chalmers as tending toward epiphenomenalism. Chalmers 2003, verified in raw text, gives "some credence to each" of type-D, E and F. Add Chalmers 2003; cut L64 and L167 to pay for it (net −2).
+  3. L223 "better test" and L193 "experimental evidence" lag `stapp-quantum-mind` L84/L180/L182. L193's unity absence claim is contradicted by L191 and `entanglement-binding-hypothesis` (net −2).
+  4. L239 bandwidth-as-minimality and L243 Tenet 5 "justifies" — carried untasked through five tenet checks (net −9).
+- **Next in line**: L82 "must causally influence reports" (+13, needs a cut), L108 closure as sufficiency, L92, L100, L165, L171, L245.
+- **String siblings flagged**: `topics/psychophysical-laws-bridging-mind-and-matter` L88/L207/L211/L236, `concepts/interactionist-dualism` L85.
+- **Output**: [[reviews/pessimistic-2026-10-24-psychophysical-laws]]
 
 ## 00:21 - expand-topic
 - **Status**: Success
