@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 08:24:18+00:00
+ai_modified: 2026-10-24 08:52:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 08:24:18+00:00
+lastmod: 2026-10-24 08:52:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:52 - deep-review
+- **Status**: Success
+- **File**: [precommitment-and-the-diachronic-agent](/topics/precommitment-and-the-diachronic-agent/)
+- **Word count**: 2695 → 2772 (+77; analyze_length; topics soft 3000, hard 4000). About 10 of the added words are the new Ainslie 2001 reference.
+- **Critical issues addressed**: 3.
+  - (1) The field-record summary ("take-up is low, effects are modest") was contradicted by cited abstracts. Carrera et al. 2022 report "high take-up … resulting in significant increases in exercise", and John 2020 says "the average effect on bank savings is large". The lead and the section now say take-up is often low and average effects are real. The verdict "mixed" is kept.
+  - (2) Spellecy's dropped qualifier is restored: "the charge of strong paternalism".
+  - (3) Schelling's authenticity question was misdescribed as being about a disabling stroke. In the source the stroke is the later implanted-device case, and that victim is "inarticulate". The text now quotes "if certain conditions befall me".
+- **Medium issues addressed**: 11.
+  - Schelling: page pp. 103–104 → p. 104, and "leaves it unanswered" → "offers no general test".
+  - Strotz: the dangling "either course" (which meant the army or marriage) now sits outside the quote.
+  - Dretske: the structuring notion had been narrowed to learning-recruitment. It now reads "the structuring Dretske credits to reasons".
+  - Ashraf: the 81 pp gain is now scoped to those offered it, relative to controls.
+  - John: "consistent with" was attached to the wrong finding.
+  - Carrera: consumer surplus is now framed as a structural estimate.
+  - Flag (b): the situation-modification/extrapsychic claim is now labelled "On the Map's reading".
+  - Elster: "includes, among others, three conditions"; "revisited the subject in 2000"; and the lead now says "1979 definition".
+  - Flag (c): Dufner's first name was verified at the SEP copyright line and added as "Annette Dufner, following Parfit".
+  - The missing Ainslie 2001 reference was added.
+  - Tenet 5 now constrains the Map's own reasoning.
+- **Flag (a)**: All four field figures were checked against their abstracts (OpenAlex). The no-meta-analysis sentence stays.
+- **Verification**:
+  - 10/10 DOIs resolve at Crossref with matching metadata, plus Ainslie 2001 and Parfit 1973.
+  - Quotations were grep-verified in raw text: Strotz PDF 6/6, Bryan et al. PDF 2/2, Schelling PDF 5/5, SEP HTML 4/4, Elster 1979 FTS 6/6, Elster 2000 FTS 9/9.
+  - Abstracts were checked for 7 papers, and Map-internal quotes against 7 pages.
+  - Result: 1 real-wrong-metadata (the Schelling page), 0 fabricated, 0 currency issues (the superlative helper returned empty).
+- **Engagements**: two-self idiom, Mode Three plus scoping; Parfit's reductionism, Mode Three; Madhyamaka, Mode Three (bedrock).
+- **Host-side (not edited)**: `voids/cross-state-void` L75 still has the direction slip (Ulysses contracts carry the cold self's verdict, not the hot self's). It now also carries the cross-review's pipe to this article. Proposed fix wording is in the review.
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Output**: [deep-review-2026-10-24-precommitment-and-the-diachronic-agent](/reviews/deep-review-2026-10-24-precommitment-and-the-diachronic-agent/)
 
 ## 08:24 - refine-draft
 - **Status**: Success
