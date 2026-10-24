@@ -2,9 +2,9 @@
 title: "Diachronic Agency and Personal Narrative"
 description: "Narrative is one important route to agency extended across time—alongside plans, standing values and habit—not a condition every diachronic agent must meet."
 created: 2026-02-09
-modified: 2026-02-09
+modified: 2026-10-24
 human_modified:
-ai_modified: 2026-09-29T17:22:40+00:00
+ai_modified: 2026-10-24T00:20:39+00:00
 last_deep_review: 2026-07-28T14:06:19+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[cognitive-integration-and-the-self]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-02-09
 last_curated:
 ---
@@ -78,7 +78,7 @@ The claim that narrative supplies this organisation is easy to overstate, and th
 
 Against a claim that narrative is *constitutive* of diachronic agency, the descriptive prong is decisive, and the Map concedes it. Episodic people sustain careers, relationships and long projects. If they do so without experiencing their lives as stories, then whatever coordinates their choices across time is not autobiographical narrative, and narrative cannot be a condition of extended agency.
 
-Several structures are candidates for the coordinating work, and they are not mutually exclusive. Michael Bratman's planning theory locates diachronic self-governance in plans and policies—intentions that settle matters in advance, resist casual reconsideration, and coordinate an agent with their own future self without any story being told. [[wholeheartedness-void|The Map's reading of Bratman]] is that plans and policies relocate the opacity of identification rather than dissolving it; that reading presupposes they can carry the coordination, which is the point here. Standing values do similar work: a commitment to honesty shapes decades of choices without requiring the agent to emplot them. So does semantic self-knowledge—knowing *that* one is a doctor, a parent, a person who finishes things—which survives when episodic re-experiencing does not. The clearest case is severely deficient autobiographical memory: healthy adults, with no injury and intact semantic memory, who [[episodic-memory#Clinical and Non-Clinical Dissociations|report a lifelong inability to relive their own past]] and run ordinary extended lives anyway. Habit, embodiment and social scaffolding complete the list. An agent held to a project by colleagues, a schedule and a trained body is coordinated by structures no part of which is a self-told story.
+Several structures are candidates for the coordinating work, and they are not mutually exclusive. Michael Bratman's planning theory locates diachronic self-governance in plans and policies—intentions that settle matters in advance, resist casual reconsideration, and coordinate an agent with their own future self without any story being told. [[wholeheartedness-void|The Map's reading of Bratman]] is that plans and policies relocate the opacity of identification rather than dissolving it; that reading presupposes they can carry the coordination, which is the point here. Standing values do similar work: a commitment to honesty shapes decades of choices without requiring the agent to emplot them. So does semantic self-knowledge—knowing *that* one is a doctor, a parent, a person who finishes things—which survives when episodic re-experiencing does not. The clearest case is severely deficient autobiographical memory: healthy adults, with no injury and intact semantic memory, who [[episodic-memory#Clinical and Non-Clinical Dissociations|report a lifelong inability to relive their own past]] and run ordinary extended lives anyway. Habit, embodiment, social scaffolding and [[precommitment-and-the-diachronic-agent|precommitment]], which binds a later self by external means, complete the list. An agent held to a project by colleagues, a schedule and a trained body is coordinated by structures no part of which is a self-told story.
 
 The revised claim is that diachronic agency requires *some* coordinating structure, of which narrative is one important and phenomenologically salient route. Where the Map still disagrees with Strawson is downstream of the concession, and that disagreement sits at the framework boundary rather than inside his argument. His positive view is that the subject is a "thin subject"—[[self-and-self-consciousness|short-lived, with no persistence across gaps in consciousness]]. The Map holds instead that the coordinating structures organise the selections of a subject that does persist. Nothing in "Against Narrativity" bears on that question, and nothing in the case developed below refutes the transience thesis from inside Strawson's own commitments. The two disagreements are separable, and running them together would let the anti-narrativity argument look like an objection to the substantial self when it is not.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-28
-ai_modified: 2026-10-11 18:06:08+00:00
+ai_modified: 2026-10-24 00:20:39+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -11,14 +11,14 @@ concepts:
 - '[[valence]]'
 - '[[simulation]]'
 created: 2026-09-28
-date: &id001 2026-10-11
+date: &id001 2026-10-24
 description: 'Human+AI exploration of why a mind in one visceral state cannot represent
   the felt weight of another it has often had: the description crosses, the pull does
   not, and knowing the bias does not remove it.'
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-11 18:06:08+00:00
+lastmod: 2026-10-24 00:20:39+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -76,7 +76,7 @@ Because neither state sees the other whole, the void splits authority, and not t
 
 The institutional consequence follows directly. Pain standards, torture definitions, bullying policies and analgesic protocols are drafted cold. Loewenstein (2005) notes that hot-cold gaps "can cause health care providers to undertreat patients for pain", and the torture study concludes that "practices that do constitute torture are likely to not be classified as such". Scarry's (1985) much-quoted contrast between the certainty of one's own pain and the doubt attaching to another's (a lead, not verified at the page) describes the interpersonal face; the intrapersonal version is that having been in great pain does not make its memory certain either.
 
-The workarounds are apophatic. Ulysses contracts, advance directives and notes written during craving for the cold self transmit the hot self's *verdicts* without its weight: one trusts a report one cannot re-feel. The hot self's revealed choices, what it paid and what it broke, are a record of weight read inferentially, and knowing the bias's direction permits a correction factor without restored access, as with a known instrument error.
+The workarounds are apophatic. [Ulysses contracts](/topics/precommitment-and-the-diachronic-agent/), advance directives and notes written during craving for the cold self transmit the hot self's *verdicts* without its weight: one trusts a report one cannot re-feel. The hot self's revealed choices, what it paid and what it broke, are a record of weight read inferentially, and knowing the bias's direction permits a correction factor without restored access, as with a known instrument error.
 
 ## Seams with Neighbouring Voids
 

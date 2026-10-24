@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-04
-ai_modified: 2026-10-23 20:51:11+00:00
+ai_modified: 2026-10-24 00:20:39+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[attentional-economics]]'
 created: 2026-10-04
-date: &id001 2026-10-23
+date: &id001 2026-10-24
 description: Self-control research has moved from in-the-moment inhibition to strategy,
   habit and skill. What the evidence shows, where it relocates a conscious selector,
   and what it costs felt effort as evidence.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-05 08:39:44+00:00
-lastmod: 2026-10-23 20:51:11+00:00
+lastmod: 2026-10-24 00:20:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ Felt effort is evidence about where the system meets resistance, which is where 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** A selector that acts mostly at moments of policy, then hands control to cues, needs few interventions. That economy is not the empirical-constraint minimality the tenet names, and it suits a physical controller equally, so it is no evidence.
 
-**[No Many Worlds](/tenets/#no-many-worlds).** Diachronic control presupposes that the agent who arranges a situation is the one who later benefits. The Map's indexical subject might need to persist across that interval, or its aspects might need only a subject present at each selection. Ainslie's bargaining works by recursive self-prediction without literal future selves ([the divided-will article](/topics/the-divided-will/#five-rivals)), so the literature does not force the persisting reading, and the tension stays open.
+**[No Many Worlds](/tenets/#no-many-worlds).** Diachronic control presupposes that the agent who arranges a situation is the one who later benefits. The Map's indexical subject might need to persist across that interval, or its aspects might need only a subject present at each selection. Ainslie's bargaining works by recursive self-prediction without literal future selves ([the divided-will article](/topics/the-divided-will/#five-rivals)), so the literature does not force the persisting reading, and the tension stays open; [the precommitment article](/topics/precommitment-and-the-diachronic-agent/) takes it up for binding devices.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** The tenet blocks dismissing the selector merely because a physical planner explains self-control more simply. It gives no reason to keep the selector.
 

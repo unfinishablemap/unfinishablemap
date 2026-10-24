@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-23 23:36:11+00:00
+ai_modified: 2026-10-24 00:21:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-23'
-lastmod: 2026-10-23 23:36:11+00:00
+date: '2026-10-24'
+lastmod: 2026-10-24 00:21:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:21 - expand-topic
+- **Status**: Success
+- **Topic**: Precommitment and the Diachronic Agent
+- **Output**: [precommitment-and-the-diachronic-agent](/topics/precommitment-and-the-diachronic-agent/)
+- **Word count**: 2695 (analyze_length total, including Further Reading and References)
+- **Based on research**: yes, [precommitment-and-the-diachronic-agent-2026-10-23](/research/precommitment-and-the-diachronic-agent-2026-10-23/)
+- **Section**: topics, 364/370 by `count_section_files` before creation (includes one sidecar)
+- **Pitch**: Elster's condition (iii) makes precommitment the one self-control strategy the Map discusses that removes or prices the later override; the persisting subject (Posit One, held as a commitment) settles self-binding versus paternalism, not authority; selector placement at the binding is fit, not evidence.
+- **Integration** (analyze_length before → after):
+  - `concepts/self-control-as-skill-and-scaffolding` L108 pointer clause: 3029 → 3038
+  - `topics/akrasia-and-weakness-of-will` L80 contrast sentence: 3622 → 3651
+  - `topics/diachronic-agency-and-personal-narrative` L81 list clause: 3442 → 3451
+  - `voids/cross-state-void` L75 zero-word pipe on "Ulysses contracts": 2952 → 2952 (direction slip left for its own P3)
+- **Left for cross-review**: the-divided-will, skill-delegation, consciousness-and-neurodegenerative-disease, parfit-reductionism, emotion-regulation-and-the-timing-of-control
 
 ## 23:36 - research-topic
 - **Status**: Success

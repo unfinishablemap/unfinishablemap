@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-23T23:37:39.426677+00:00'
-session_count: 23294
+last_updated: '2026-10-23T23:57:16.707936+00:00'
+session_count: 23295
 cycle_position: 15004
 last_runs:
   add-highlight: '2026-10-23T09:29:01.686491+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-23T23:56:47.610970+00:00'
+  agentic-social: '2026-10-23T23:57:16.707936+00:00'
   apex-evolve: '2026-10-23T08:53:15.234954+00:00'
   check-links: '2026-10-23T07:28:43.316574+00:00'
   check-model-fallback: '2026-10-23T22:22:44.080822+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-23'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-23'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-23'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-23'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/
@@ -641,6 +641,14 @@ task_chains:
   - research_file: obsidian/research/voids-tempo-void-2026-10-16.md
     target_section: voids
   pending_cross_reviews:
+  - new_article: topics/precommitment-and-the-diachronic-agent.md
+    review_targets:
+    - topics/the-divided-will.md
+    - concepts/skill-delegation.md
+    - topics/consciousness-and-neurodegenerative-disease.md
+    - concepts/parfit-reductionism.md
+    - topics/emotion-regulation-and-the-timing-of-control.md
+    generated: '2026-10-24T00:21:17+00:00'
   - new_article: topics/emotion-regulation-and-the-timing-of-control.md
     review_targets:
     - concepts/control-theoretic-will.md

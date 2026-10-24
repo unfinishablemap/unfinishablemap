@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-21 00:52:58+00:00
+ai_modified: 2026-10-24 00:20:39+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -11,7 +11,7 @@ concepts:
 - '[[motor-selection]]'
 - '[[volitional-control]]'
 created: 2026-07-09
-date: &id001 2026-10-21
+date: &id001 2026-10-24
 description: Acting against one's own better judgement—Socrates, Aristotle, Davidson,
   Holton—read by the Map as one selection-model lens on the will, not a proof of dualism.
 draft: false
@@ -23,7 +23,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 22:14:51+00:00
-lastmod: 2026-10-21 00:52:58+00:00
+lastmod: 2026-10-24 00:20:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ Davidson names the norm the akratic violates the **principle of continence**: pe
 
 Davidson's akrasia is *synchronic*: at a single time, the agent's present action conflicts with their present better judgement. Richard Holton's *Willing, Wanting, Waiting* relocates the failure to a *diachronic* axis and, in doing so, detaches "weakness of will" from acting-against-best-judgement altogether. He offers it as what ordinary speakers mean, a reading later writers have questioned and Holton himself grew less sure of (Stroud & Svirsky 2025, n. 16).
 
-For Holton, weakness of will is the over-ready **abandonment of a resolution**—an intention formed precisely to insulate the agent against contrary inclinations they expect to feel when the time comes. The dieter who resolves in the morning to skip dessert, then revises that judgement when the trolley arrives, has not necessarily acted against a present better judgement; temptation characteristically works by *shifting* the judgement itself. The failure is not evaluative incoherence at the moment of choice but the unreasonable dropping of a commitment that was supposed to hold firm across the change of heart. Whether an abandonment is weakness has, for Holton, an irreducibly normative dimension (1999, p. 259), which also keeps strength of will from collapsing into stubbornness.
+For Holton, weakness of will is the over-ready **abandonment of a resolution**—an intention formed precisely to insulate the agent against contrary inclinations they expect to feel when the time comes. The dieter who resolves in the morning to skip dessert, then revises that judgement when the trolley arrives, has not necessarily acted against a present better judgement; temptation characteristically works by *shifting* the judgement itself. The failure is not evaluative incoherence at the moment of choice but the unreasonable dropping of a commitment that was supposed to hold firm across the change of heart. A resolution can be dropped because it leaves the agent's later override in place, whereas [precommitment](/topics/precommitment-and-the-diachronic-agent/) removes or prices that override through an external device, as Ulysses' ropes do. Whether an abandonment is weakness has, for Holton, an irreducibly normative dimension (1999, p. 259), which also keeps strength of will from collapsing into stubbornness.
 
 This foregrounds **willpower** (strength of will) as a distinct faculty: the effortful capacity to maintain a resolution against inclinations that would otherwise revise it. Holton draws on the self-control research of Mischel and Baumeister and treats willpower as a real executive skill rather than the automatic output of correct judgement. One strand of that evidence has since weakened: the "ego-depletion" model, on which willpower draws down a limited resource, was put at d = 0.04 by Hagger et al.'s (2016) preregistered 23-laboratory replication, and the current SEP treatment records that the model has "increasingly come under question" (see [mental-effort](/concepts/mental-effort/)). The replication tested the resource model Holton's account of effort drew on, not his structural claim that resolutions can be dropped over-readily and that [holding them](/concepts/phenomenology-of-choice-and-volition/#sustained-control) is a distinct capacity, which it leaves standing without confirming. Whether the capacity is trainable is unsettled: self-control training shows a small-to-medium effect (g = 0.30; .13–.24 after bias correction) whose mechanisms are "poorly understood" (Friese et al. 2017). The picture deflates the will as the pinnacle of rationality, casting it instead as [a set of devices that compensate](/concepts/self-control-as-skill-and-scaffolding/) for our inability to make and hold sound judgements over time. Like Davidson's, Holton's account invokes no non-physical mechanism—the willpower it describes is empirically studied, ordinary self-management.
 
