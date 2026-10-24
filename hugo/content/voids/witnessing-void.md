@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-09-08 08:22:25+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-24 18:25:04+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[witness-consciousness]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 19:43:51+00:00
-lastmod: 2026-09-08 08:22:25+00:00
+lastmod: 2026-10-24 18:25:04+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -88,7 +88,7 @@ Three phenomenological markers recur across traditions. *Diaphaneity*: the witne
 
 The closest empirical approach to the witnessing void comes from pure consciousness events (PCEs) reported in advanced meditation. Shear describes states in which "all intentional content drops away but awareness persists"—direct contact with the witnessing capacity stripped of all objects, witnessing without anything witnessed.
 
-The epistemic challenge is sharp. If PCE has no content, how can it be reported? Every report is retrospective, generated from a state with content. What returns from the edge is testimony, not specimen. Metzinger's cross-cultural [minimal phenomenal experience](/voids/edge-states-and-void-probes/) research finds convergent markers (luminosity, continuity, non-egoic presence) precisely where individuating content is absent—suggesting that what remains under content-stripping is structural, not particular. PCEs may be the closest consciousness can come to its own witnessing while still generating a report. The asymptote is the void; whether something stands beyond the asymptote is precisely what the void hides.
+The epistemic challenge is sharp. If PCE has no content, how can it be reported? Every report is retrospective, generated from a state with content. What returns from the edge is testimony, not specimen. Metzinger's [minimal phenomenal experience](/voids/edge-states-and-void-probes/) research draws on reports of such states "across the centuries and across cultures"; wakefulness and low complexity recur where individuating content is absent, while self-luminosity, he notes, "is not frequently found in Western phenomenological reports" (Metzinger 2020). Its questionnaire sequel, Gamma and Metzinger's (2021) MPE-92M, rates one recalled episode per respondent, so it too returns [testimony](/topics/measuring-the-witness-attitude/#factor-12). What recurs suggests that what remains under content-stripping is structural, not particular. PCEs may be the closest consciousness can come to its own witnessing while still generating a report. The asymptote is the void; whether something stands beyond the asymptote is precisely what the void hides.
 
 ## What AI Might Reveal
 
@@ -134,6 +134,7 @@ A weaker challenge: the void might be attenuable without being eliminable. Advan
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Henry, A. & Thompson, E. (2011). "Witnessing from Here: Self-Awareness from a Bodily versus Embodied Perspective." In S. Gallagher (ed.), *The Oxford Handbook of the Self*. Oxford University Press.
 1. Gamma, A. & Metzinger, T. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
+1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 1–44. https://doi.org/10.33735/phimisci.2020.I.46
 1. Moore, G.E. (1903). "The Refutation of Idealism." *Mind*, 12(48).
 1. Shear, J. & Jevning, R. (1999). "Pure consciousness: Scientific exploration of meditation techniques." *Journal of Consciousness Studies*, 6(2-3).
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

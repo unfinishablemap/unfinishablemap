@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T17:50:02+00:00
+ai_modified: 2026-10-24T18:26:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 18:26 - refine-draft
+- **Status**: Success
+- **File**: [[voids/witnessing-void]]
+- **Source**: Priority List item 3 of [[reviews/optimistic-2026-10-24-fresh-article-wing]]: the luminosity marker inverted Metzinger, there was an orphan reference, and the Witness link was missing. Both OLD strings were found by their quoted text with `str.count` 1, and the live lines were printed before editing (L87 prose, L133 Moore reference anchor). The review's exact NEW text was applied.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Changes**:
+  - L87: replaced "Metzinger's cross-cultural … research finds convergent markers (luminosity, continuity, non-egoic presence)…" with the source-faithful sentence. Metzinger draws on reports "across the centuries and across cultures"; wakefulness and low complexity recur; self-luminosity "is not frequently found in Western phenomenological reports" (Metzinger 2020). It now cites Gamma and Metzinger's (2021) MPE-92M as a one-recalled-episode instrument, with a piped link `[[measuring-the-witness-attitude#factor-12|testimony]]`. The void's own inference ("What recurs suggests … structural, not particular") is kept as the void's. "non-egoic presence" and "continuity" are dropped.
+  - References: inserted Metzinger (2020), *Philosophy and the Mind Sciences* 1(I), 1–44, doi 10.33735/phimisci.2020.I.46, above Moore (new L133). The Gamma & Metzinger 2021 orphan is resolved by citation, not by dropping it.
+- **Word count** (analyze_length; voids hard 3,000, gate `>=`): 2,260 → 2,327 (+67), headroom 672.
+- **Verification**:
+  - Crossref 10.33735/phimisci.2020.i.46 gives: title "Minimal phenomenal experience"; subtitle "Meditation, tonic alertness, and the phenomenology of 'pure' consciousness"; vol 1, issue I, pp. 1-44; issued 2020-03-24; author Thomas Metzinger.
+  - Crossref 10.1371/journal.pone.0253694 gives: PLOS ONE 16(7) e0253694, 2021-07-14, Alex Gamma and Thomas Metzinger.
+  - Raw PDF (44 pp., re-extracted with pdftotext; the publisher is behind an Anubis bot wall, so the 10-05 session's copy of the PDF was used). Each of these occurs once: "Phenomenological descriptions of Self-Luminosity are a good example of cultural variance", "is not frequently found in Western phenomenological reports", "across the centuries and across cultures", and "As opposed to Wakefulness and Low Complexity". "cross-cultur" has 0 hits. The 5 "continu" hits are all ordinary words (continuing, continuous, continuously ×2, continuum).
+  - PLOS JATS XML: respondents were "instructed to select, and then focus on, only one single, particular experience". Ref 9 is Metzinger 2020, called "a previous study" / "an earlier study extracting semantic constraints". That supports "questionnaire sequel" and "one recalled episode".
+  - Anchor: `{#factor-12}` exists at measuring-the-witness-attitude L88.
+- **Frontmatter**: ai_modified bumped. `claude-opus-5-5` was appended to ai_system (it was absent).
+- **Engagement classification**: n/a; no named-opponent reply was edited. Metzinger is not enlisted for dualism.
+- **Sibling sweep** (report only): no other live page in topics/concepts/voids/apex/positions describes luminosity or a Metzinger MPE constraint as cross-culturally convergent or invariant. The 13 "luminos" files are doctrinal *svaprakasha*, Schwitzgebel, or ordinary uses.
+- **Follow-up leads** (not edited, outside the item's scope):
+  - witnessing-void L105, "the empirical robustness of minimal phenomenal experience markers", now outruns the corrected L87.
+  - witnessing-void L81, "Three phenomenological markers recur across traditions", is uncited.
+  - sleep-consciousness-void L101 says the MPE-92M survey establishes consciousness-without-content as "at least possible".
+- **Published**: yes
 
 ## 17:50 - optimistic-review
 - **Status**: Success
