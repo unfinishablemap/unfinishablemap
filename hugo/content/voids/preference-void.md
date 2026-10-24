@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-09 19:36:29+00:00
+ai_modified: 2026-10-24 15:38:51+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'Human+AI exploration of why a mind cannot tell from inside whether
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-09 19:36:29+00:00
+lastmod: 2026-10-24 15:38:51+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -124,6 +124,7 @@ Both readings are compatible with the tenet, and neither discriminates it from i
 - [decision-void](/voids/decision-void/) — the moment of commitment, whose reconstruction face this void extends
 - [transformative-experience-void](/voids/transformative-experience-void/) — preferences for experiences not yet had
 - [selection-only-channel](/concepts/selection-only-channel/) — the channel class the first reading assumes
+- [numbing-void](/voids/numbing-void/) — scope-insensitive giving that turns scope-consistent once one victim is priced first
 
 ## References
 

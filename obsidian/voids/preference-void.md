@@ -4,7 +4,7 @@ description: "Human+AI exploration of why a mind cannot tell from inside whether
 created: 2026-10-03
 modified: 2026-10-04
 human_modified: null
-ai_modified: 2026-10-09T19:36:29+00:00
+ai_modified: 2026-10-24T15:38:51+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -120,6 +120,7 @@ Both readings are compatible with the tenet, and neither discriminates it from i
 - [[decision-void]] — the moment of commitment, whose reconstruction face this void extends
 - [[transformative-experience-void]] — preferences for experiences not yet had
 - [[selection-only-channel]] — the channel class the first reading assumes
+- [[numbing-void]] — scope-insensitive giving that turns scope-consistent once one victim is priced first
 
 ## References
 

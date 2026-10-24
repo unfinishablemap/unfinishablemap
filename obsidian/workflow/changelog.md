@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T15:33:03+00:00
+ai_modified: 2026-10-24T15:39:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:39 - refine-draft
+- **Status**: Success
+- **File**: [[voids/numbing-void]] and [[voids/preference-void]]
+- **Source**: Priority List item 2 (a) and (b), "Unit asking joins numbing to preference", from [[reviews/optimistic-2026-10-10-unauditable-verdict-wing]]. Applied verbatim, with no wording changes.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word count** (analyze_length; voids hard 3000): numbing-void 2681 → 2821 (+140, the review's +85 body and +55 references); preference-void 2842 → 2856 (+14).
+- **Changes**:
+  - **(a) numbing-void L86, Approaches to the Edge, Indirect.** After "it goes around the void rather than into it." a second indirect route is added: elicitation order. Unit asking "greatly increases donations for the group" because donors are "initially scope insensitive and subsequently scope consistent" (Hsee et al. 2013), and a large replication found it in three domains (Karlsson et al. 2020). The route is tied to the [[voids/preference-void|preference void]]'s elicitation face. The closing sentence, "The effect is on giving, and nothing shows that felt concern moved with it.", keeps the page's concern-versus-helping distinction (L40, Butts 2019).
+  - **(a) References.** Hsee, Zhang, Lu & Xu 2013 and Karlsson, Hellström, Moche & Västfjäll 2020 are inserted as 5 and 6, after Hsee & Rottenstreich 2004 and before Kogut & Ritov. The old entries 5–18 are renumbered 7–20. The body cites by author-year, and no numeric citations were found.
+  - **(b) preference-void Further Reading L123.** `- [[numbing-void]] — scope-insensitive giving that turns scope-consistent once one victim is priced first` is added after the selection-only-channel entry, in the list's own bare-slug style. The lede, the L109 human question and all body text are untouched.
+- **Verification**:
+  - **Crossref, 15:38Z.** 10.1177/0956797613482947: "Unit Asking" / "A Method to Boost Donations and Beyond", *Psychological Science* 24(9) 1801-1808. Authors Hsee, Zhang, Lu, Xu; issued 2013-08, print 2013-09. 10.1017/S1930297500008184: "Unit Asking — a method for increasing donations: A replication and extension", *Judgment and Decision Making* 15(6) 989-993. Authors Karlsson, Hellström, Moche, Västfjäll; 2020-11.
+  - **Abstracts.** These come from the Crossref JATS abstract and the OpenAlex inverted index, which agree. Both Hsee quotes are verbatim substrings of the abstract. Karlsson: "a large scale replication and extension … Across three domains, we find that unit asking increased donations" (children, the original domain, then animals and environment). "Three domains" is accurate as written. Neither abstract reports a measure of felt concern.
+  - **Elicitation face.** preference-void names it in its lede ("the ordering depends on the procedure that asks for it (*elicitation*)") and in its `### Elicitation` heading. The new sentence's "depends on the procedure that asks for it" echoes the lede.
+  - **Post-review drift.** db8d4901 (2026-10-15) touched numbing-void's frontmatter and Where the Map Stands only. The old string and the reference anchors each matched exactly once.
+- **ai_system**: unchanged on both files (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 15:31 - refine-draft
 - **Status**: Success

@@ -1539,17 +1539,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: "Unit asking" (Hsee et al. 2013; Karlsson et al. 2020) joins `voids/numbing-void` L86 to `voids/preference-void` — TWO FILES (+154)
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/numbing-void.md
-- **Section**: voids
-- **Status**: pending
-- **Source**: optimistic-review 2026-10-10 09:48Z (unauditable-verdict wing; every old string script-verified to occur exactly once)
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/optimistic-2026-10-10-unauditable-verdict-wing.md`
-- **Headroom**: numbing-void 2,681 and preference-void 2,842, both against voids hard 3,000 (driver, 09:51Z).
-- **Notes**: Priority List item 2 (a) and (b). TWO FILES; do both. (a) numbing-void L86, Approaches to the Edge, **Indirect**: +85 body and +55 references. (b) preference-void Further Reading L122: +14 for the link back. preference-void was refined on 2026-10-09 19:36Z from the pessimistic review. Keep its new lede and its open L109 human question untouched. Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
-
 ### P3: `voids/three-kinds-of-void` — name the exposure shape (a verdict reads the same whether right or wrong; only a two-run comparison shows the difference; knowing does not change the experience) in a new paragraph after the operation-void family paragraph (+217)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/three-kinds-of-void.md
@@ -2308,13 +2297,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep-review cross-review of topics/acquaintance-without-causation 2026-10-19 (side finding)
 - **Generated**: 2026-10-19
 - **Notes**: PASSAGE: the bullet "**Self-knowledge is unreliable.** The [[concepts/epiphenomenalism#The Self-Stultification Problem|self-stultification problem]] suggests that if consciousness causes nothing, our beliefs about our own experiences are accidentally connected to those experiences at best." (L158 on 2026-10-19; it is the only live occurrence of "accidentally connected" in topics/concepts/apex/voids). DEFECT: this is the luck framing the self-stultification hub (concepts/self-stultification) retired on 2026-10-16, and tenets L101 and topics/acquaintance-without-causation contradict it: on the Map's acquaintance epistemology, knowledge of present experience does not depend on causal traffic, so the argument survives only for the use and voice of experience (inference, memory, report). FIX: one substitution, near length-neutral, aligning the bullet with the hub and the new article, e.g. "...our reports and the inferences we draw from our experiences would not be explained by them" (link the new article on existing words if it fits: [[acquaintance-without-causation|...]]). Keep the bullet's role in the list. Do not present self-stultification as refuting epiphenomenalism. Length: 3444/4000 (topics hard threshold). Sibling P3 on concepts/consciousness L117 (same luck framing) is a separate task; do not do it here.
-
-### P3: Cite or drop the orphan Nahmias et al. (2004) reference in phenomenology-of-choice-and-volition
-- **Type**: refine-draft
-- **File**: obsidian/concepts/phenomenology-of-choice-and-volition.md
-- **Source**: deep-review concepts/compatibilism 2026-10-19 (side finding)
-- **Generated**: 2026-10-19
-- **Notes**: References item 1 (L198 on 2026-10-19), Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). "The phenomenology of free will." Journal of Consciousness Studies 11(7-8): 162-179, is listed but never cited in the body. Prefer citing it where the page discusses the phenomenology of deliberation or choice, if a sentence there genuinely draws on it (verify the paper's claim at source first: Nahmias et al. argue that the phenomenology of free will does not obviously support libertarian, indeterministic agency); otherwise remove the entry and renumber. Length-neutral; keep existing calibration.
 
 ### P3: Calibrate the residual tier-three channel phrasings in neurological-dissociations-as-interface-architecture (L128, L172 parallels, L202 Occam's six-channel count)
 - **Type**: refine-draft
@@ -3222,6 +3204,17 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-24: "Unit asking" (Hsee et al. 2013; Karlsson et al. 2020) joins `voids/numbing-void` L86 to `voids/preference-void` — TWO FILES (+154)
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/numbing-void.md
+- **Notes**: Priority List item 2 (a) and (b). TWO FILES; do both. (a) numbing-void L86, Approaches to the Edge, **Indirect**: +85 body and +55 references. (b) preference-void Further Reading L122: +14 for the link back. preference-void was refined on 2026-10-09 19:36Z from the pessimistic review. Keep its new lede and its open L109 human question untouched. Use the review's EXACT old→new text from its Priority List. Find each target by quoted text, confirm it occurs once, and print the live line. If a string no longer matches, report it and do not improvise. Measure with tools.curate.length.analyze_length (takes a pathlib.Path) before and after (gate >=). Verify any new reference at Crossref before installing; the review's verification ledger records what was checked. No "This is not X. It is Y."; no "load-bearing". Any new wikilink must be piped. Update ai_modified (UTC) on each edited file and plus-join your actual model into ai_system only if absent. Add the changelog entry before syncing. Sync, and verify every touched file in BOTH trees.
+
+### ✓ 2026-10-24: Cite or drop the orphan Nahmias et al. (2004) reference in phenomenology-of-choice-and-volition
+- **Type**: refine-draft
+- **File**: obsidian/concepts/phenomenology-of-choice-and-volition.md
+- **Notes**: References item 1 (L198 on 2026-10-19), Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). "The phenomenology of free will." Journal of Consciousness Studies 11(7-8): 162-179, is listed but never cited in the body. Prefer citing it where the page discusses the phenomenology of deliberation or choice, if a sentence there genuinely draws on it (verify the paper's claim at source first: Nahmias et al. argue that the phenomenology of free will does not obviously support libertarian, indeterministic agency); otherwise remove the entry and renumber. Length-neutral; keep existing calibration.
+- **Output**: Discharged by the 2026-10-24 15:31Z refine-draft of phenomenology-of-choice-and-volition (pessimistic items 1-3): entry DROPPED. The paper concludes the data 'seem to support compatibilist descriptions of the phenomenology more than libertarian descriptions', and no sentence on the page draws on it.
 
 ### ✓ 2026-10-24: `concepts/phenomenology-of-choice-and-volition` — apply pessimistic Priority List items 1-3 (Libet veto misreport, James misquote, illusion section, effort-distribution argument; +316)
 - **Type**: refine-draft

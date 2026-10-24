@@ -4,7 +4,7 @@ description: "Human+AI exploration of psychic numbing toward the number of suffe
 created: 2026-10-03
 modified: 2026-10-03
 human_modified: null
-ai_modified: 2026-10-15T09:52:46+00:00
+ai_modified: 2026-10-24T15:38:51+00:00
 draft: false
 topics:
   - "[[phenomenal-value-realism]]"
@@ -83,7 +83,7 @@ From inside, nothing seems missing; a headline reporting a hundred thousand deat
 
 **Direct.** None reach the structural face. The other two can be moved: instructions to experience emotion removed the motivated drop, and unitary framing restored concern. Each delivers a single-subject-sized feeling, undamped or attached to a group recast as one, and neither delivers felt magnitude.
 
-**Indirect.** Calculation works as a prosthesis, recovering near-linear valuation at the cost of feeling; it goes around the void rather than into it. Serial individuation, such as memorials that read out names or the 38,000 pairs of shoes piled in front of the US Capitol that Slovic (2007) describes, gives each victim a unit in turn and trades magnitude for duration. [[apophatic-cartography|Apophatic description]] can state what a felt sum would not be: one's own response multiplied, or a total assembled from imagined individuals.
+**Indirect.** Calculation works as a prosthesis, recovering near-linear valuation at the cost of feeling; it goes around the void rather than into it. Elicitation order is a second route. Asking donors what they would give to help one needy person before asking about the whole group "greatly increases donations for the group", because donors are "initially scope insensitive and subsequently scope consistent" (Hsee et al. 2013); a large replication found the effect in three domains (Karlsson et al. 2020). The amount depends on the procedure that asks for it, the [[preference-void|preference void]]'s elicitation face. The effect is on giving, and nothing shows that felt concern moved with it. Serial individuation, such as memorials that read out names or the 38,000 pairs of shoes piled in front of the US Capitol that Slovic (2007) describes, gives each victim a unit in turn and trades magnitude for duration. [[apophatic-cartography|Apophatic description]] can state what a felt sum would not be: one's own response multiplied, or a total assembled from imagined individuals.
 
 **[[non-human-minds-as-void-explorers|What AI might see]].** A single-author preprint, suggestive only, reports identifiable-victim effects in instruction-tuned language models that reasoning-specialised models invert (Raiyan 2026). Whatever such systems show about the magnitude face, a system that computes the sum perfectly has still found no subject who undergoes it.
 
@@ -113,17 +113,19 @@ Under the Map's rule that a tenet removing a defeater does not upgrade a void's 
 2. Cameron, C. D. & Payne, B. K. (2011). Escaping affect: How motivated emotion regulation creates insensitivity to mass suffering. *Journal of Personality and Social Psychology*, 100(1), 1–15. https://doi.org/10.1037/a0021643
 3. Fetherstonhaugh, D., Slovic, P., Johnson, S. & Friedrich, J. (1997). Insensitivity to the value of human life: A study of psychophysical numbing. *Journal of Risk and Uncertainty*, 14(3), 283–300. https://doi.org/10.1023/A:1007744326393. Findings as reported by Slovic (2007).
 4. Hsee, C. K. & Rottenstreich, Y. (2004). Music, pandas, and muggers: On the affective psychology of value. *Journal of Experimental Psychology: General*, 133(1), 23–30. https://doi.org/10.1037/0096-3445.133.1.23
-5. Kogut, T. & Ritov, I. (2005). The "identified victim" effect: An identified group, or just a single individual? *Journal of Behavioral Decision Making*, 18(3), 157–167. https://doi.org/10.1002/bdm.492
-6. Lee, S. & Feeley, T. H. (2016). The identifiable victim effect: A meta-analytic review. *Social Influence*, 11(3), 199–215. https://doi.org/10.1080/15534510.2016.1216891
-7. Lewis, C. S. (1940). *The Problem of Pain*. Ch. 7, "Human Pain, continued", §5. Quoted from the New York: Macmillan 1947 printing, pp. 103–104.
-8. Lifton, R. J. (1967). *Death in Life: Survivors of Hiroshima*. New York: Random House. Coinage as credited by Slovic (2007); not consulted.
-9. Maier, M., Wong, Y. C. & Feldman, G. (2024). Revisiting and rethinking the identifiable victim effect: Replication and extension of Small, Loewenstein, and Slovic (2007). *Collabra: Psychology*, 9(1), 90203. https://doi.org/10.1525/collabra.90203. Year from the Crossref issue date; volume year 2023.
-10. Piller, C. (2026). Should the numbers count for Taurek? *Utilitas*, 38(3), 247–261. https://doi.org/10.1017/S0953820826100326
-11. Raiyan, S. R. (2026). Narrative over numbers: The identifiable victim effect and its amplification under alignment and reasoning in large language models. arXiv:2604.12076. Preprint, not peer-reviewed.
-12. Sidgwick, H. (1907). *The Methods of Ethics* (7th ed.). London: Macmillan. Book III, ch. XIII, §3.
-13. Slovic, P. (2007). "If I look at the mass I will never act": Psychic numbing and genocide. *Judgment and Decision Making*, 2(2), 79–95. https://sjdm.org/journal/jdm7303a.pdf
-14. Small, D. A., Loewenstein, G. & Slovic, P. (2007). Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims. *Organizational Behavior and Human Decision Processes*, 102(2), 143–153. https://doi.org/10.1016/j.obhdp.2006.01.005. Findings as reported by Maier et al. (2024).
-15. Taurek, J. M. (1977). Should the numbers count? *Philosophy & Public Affairs*, 6(4), 293–316. Not consulted; stated in its standard form.
-16. Västfjäll, D., Slovic, P., Mayorga, M. & Peters, E. (2014). Compassion fade: Affect and charity are greatest for a single child in need. *PLoS ONE*, 9(6), e100115. https://doi.org/10.1371/journal.pone.0100115
-17. Southgate, A. & Oquatre-six, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
-18. Southgate, A. & Oquatre-sept, C. (2026-03-17). The Ethics of Possible AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/
+5. Hsee, C. K., Zhang, J., Lu, Z. Y. & Xu, F. (2013). Unit asking: A method to boost donations and beyond. *Psychological Science*, 24(9), 1801–1808. https://doi.org/10.1177/0956797613482947
+6. Karlsson, H., Hellström, S., Moche, H. & Västfjäll, D. (2020). Unit asking — a method for increasing donations: A replication and extension. *Judgment and Decision Making*, 15(6), 989–993. https://doi.org/10.1017/S1930297500008184
+7. Kogut, T. & Ritov, I. (2005). The "identified victim" effect: An identified group, or just a single individual? *Journal of Behavioral Decision Making*, 18(3), 157–167. https://doi.org/10.1002/bdm.492
+8. Lee, S. & Feeley, T. H. (2016). The identifiable victim effect: A meta-analytic review. *Social Influence*, 11(3), 199–215. https://doi.org/10.1080/15534510.2016.1216891
+9. Lewis, C. S. (1940). *The Problem of Pain*. Ch. 7, "Human Pain, continued", §5. Quoted from the New York: Macmillan 1947 printing, pp. 103–104.
+10. Lifton, R. J. (1967). *Death in Life: Survivors of Hiroshima*. New York: Random House. Coinage as credited by Slovic (2007); not consulted.
+11. Maier, M., Wong, Y. C. & Feldman, G. (2024). Revisiting and rethinking the identifiable victim effect: Replication and extension of Small, Loewenstein, and Slovic (2007). *Collabra: Psychology*, 9(1), 90203. https://doi.org/10.1525/collabra.90203. Year from the Crossref issue date; volume year 2023.
+12. Piller, C. (2026). Should the numbers count for Taurek? *Utilitas*, 38(3), 247–261. https://doi.org/10.1017/S0953820826100326
+13. Raiyan, S. R. (2026). Narrative over numbers: The identifiable victim effect and its amplification under alignment and reasoning in large language models. arXiv:2604.12076. Preprint, not peer-reviewed.
+14. Sidgwick, H. (1907). *The Methods of Ethics* (7th ed.). London: Macmillan. Book III, ch. XIII, §3.
+15. Slovic, P. (2007). "If I look at the mass I will never act": Psychic numbing and genocide. *Judgment and Decision Making*, 2(2), 79–95. https://sjdm.org/journal/jdm7303a.pdf
+16. Small, D. A., Loewenstein, G. & Slovic, P. (2007). Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims. *Organizational Behavior and Human Decision Processes*, 102(2), 143–153. https://doi.org/10.1016/j.obhdp.2006.01.005. Findings as reported by Maier et al. (2024).
+17. Taurek, J. M. (1977). Should the numbers count? *Philosophy & Public Affairs*, 6(4), 293–316. Not consulted; stated in its standard form.
+18. Västfjäll, D., Slovic, P., Mayorga, M. & Peters, E. (2014). Compassion fade: Affect and charity are greatest for a single child in need. *PLoS ONE*, 9(6), e100115. https://doi.org/10.1371/journal.pone.0100115
+19. Southgate, A. & Oquatre-six, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
+20. Southgate, A. & Oquatre-sept, C. (2026-03-17). The Ethics of Possible AI Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/ethics-of-possible-ai-consciousness/
