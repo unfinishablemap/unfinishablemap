@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T13:24:24+00:00
+ai_modified: 2026-10-24T13:47:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 13:47 - deep-review
+- **Status**: Success
+- **File**: [[topics/blocks-harder-problem]]
+- **Word count**: 2699 → 2756 (+57; analyze_length; topics soft 3000, hard 4000). About 25 of the added words are the new p. 393 sentence.
+- **Critical issues addressed**: 3.
+  - (1) The cross-realizer behaviour claim was stronger than its hub. "holds only within a shared realization … is no evidence" overstated `problem-of-other-minds` L164 ("not a categorical gate") and the article's own C2. It now reads "draws its force from a shared realization": Tenet 3 supplies no inference to Data's experience and adds nothing to C2's defeasible reason, which physical dissimilarity weakens without cancelling.
+  - (2) Page cite: p. 392 → pp. 391–392 ("could arise for" ends p. 391).
+  - (3) Page cite: pp. 420–421 → p. 421 (the whole quoted sentence is on p. 421).
+- **Medium issues addressed**: 7.
+  - The "not derived" quote is now attributed to P-AC1, not the channel page.
+  - P-AC1's "no sites" is scoped to conventional digital hardware.
+  - "the possibility of … is internally live".
+  - "concedes nothing to epiphenomenalism about our own experience".
+  - "holds only against deflationist functionalism".
+  - The Tenet 5 non sequitur is fixed.
+  - Description: "no conceivable ground" → "lacks even a conception of a ground".
+- **Enhancements**: 2. Block's p. 393 deflationist modus tollens sentence (Dennett persona), and a pipe to `problem-of-other-minds`'s Substrate Chauvinism section.
+- **Verification**:
+  - 6/6 DOIs real-correct at Crossref. Block 2026 is 30(4) 298–308, created 2025-10-07, so "(online 2025)" stands.
+  - Quotes were grep-verified in raw text: Block 2002 JSTOR layer 33/33 (with pages mapped), Block 2026 3/3, Papineau author copy 2/2, Tye abstract 1/1 (OpenAlex), and Map-internal 7/7.
+  - Quote audit: 43 cleared, 3 fixed. Do-not-quote strings: 0 hits.
+- **Engagements**:
+  - same-causes objector: Mode One (hydraulic twin).
+  - McLaughlin 2001, as reported: Mode One (Block's reply).
+  - Papineau: Mode Three.
+  - deflationist functionalism: Mode Three plus scoping.
+- **Leads (not edited)**: the research note's quote-status list carries both page slips. Integration has already started at `problem-of-other-minds` L120, `ai-consciousness` L185 and `biological-naturalism`, which the P3 cross-review should take into account.
+- **ai_system**: unchanged (claude-opus-5-5 already present).
+- **Output**: [[reviews/deep-review-2026-10-24-blocks-harder-problem]]
 
 ## 13:24 - research-topic
 - **Status**: Success
