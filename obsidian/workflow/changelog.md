@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T18:26:41+00:00
+ai_modified: 2026-10-24T19:12:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 19:12 - research-topic
+- **Status**: Success
+- **Topic**: Kavka's toxin puzzle and resolute choice
+- **Output**: [[research/kavkas-toxin-puzzle-and-resolute-choice-2026-10-24]]
+- **Verdict**: `recommended_action: fold`, `target: precommitment-and-the-diachronic-agent` (topics). Mints nothing (`chain_note` dry-run: `recommended_action=fold`). Draft section `#toxin` for host L70: 469 prose + 70 references = 539 words, host 2,772 → 3,311 (`analyze_length` on a scratch copy).
+- **Sources consulted**: 24. Kavka 1983 read in full from the original *Analysis* scan, with pages verified. SEP "Decision Theory" (2025) and Liberman 2016 read raw. Bratman 1998, McClennen 1985/1990 and Ainslie 2001 read through archive.org full-text snippets. Plus Crossref metadata.
+- **Quote tally**: 13 of 13 draft quotations verified; 56 local-source checks passed.
+- **Key findings**: Kavka's contract explicitly rules out the precommitment route ("arrangement of such external incentives is ruled out", p. 34). McClennen assigns Ulysses to sophisticated choice. "Resolute choice" is in print by 1985, not first in 1990. Strotz uses neither "naive" nor "sophisticated".
 
 ## 18:26 - refine-draft
 - **Status**: Success
