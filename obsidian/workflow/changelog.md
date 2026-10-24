@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T17:10:42+00:00
+ai_modified: 2026-10-24T17:50:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 17:50 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the fresh-article wing, i.e. the five newest articles, none of which any optimistic review had mentioned. These are `topics/emotion-regulation-and-the-timing-of-control` (2,722 words, 1,277 headroom), `topics/tonic-immobility-and-awareness` (2,787, 1,212), `topics/measuring-the-witness-attitude` (2,896, 1,103), `topics/precommitment-and-the-diachronic-agent` (2,772, 1,227) and `topics/blocks-harder-problem` (2,756, 1,243). Each research note's Guards, Absence and Side-Findings sections and each deep review were read in full. All 63 anchors in the five pages resolve; a negative control confirmed the check flags bad anchors. Only one link joins any two of the five, and it is in frontmatter (Precommitment → ER).
+- **Convergence**: real, as two pairs and a limit case. (1) Timing of control: ER and Precommitment are the two ends of the self-control "moments of policy" scheme, with the override kept versus removed or priced. (2) Awareness known only through later report: in TI and Witness the instrument misses the decisive question, the nearest report comes minutes after, recall gates the sample, and the decisive design reaches the empirical half only. (3) Block is the limit case: it has no conceivable ground even for the empirical question, and it is the wing's strongest self-application ("The Map's sample, like the physicalist's, is us"). "Fit, not evidence" is house calibration, not a wing feature.
+- **Fidelity finding**: `voids/witnessing-void` L87 lists luminosity as a *convergent* minimal-phenomenal-experience marker. Metzinger (2020, journal PDF) writes that "Phenomenological descriptions of Self-Luminosity are a good example of cultural variance". "continuity" is a marker in neither Metzinger 2020 nor Gamma & Metzinger 2021. The page's Gamma & Metzinger 2021 reference has no body citation, which confirms the orphan.
+- **Priority List**: 4 items. (1) ER L93: the decisive design the note specified (Gyurak et al. 2011's open question, verbatim at PMC3280343), +70. (2) Witness L90: the recall gate shared with TI, with a link, +32. (3) witnessing-void L87: luminosity fidelity fix, orphan repair and Witness link, plus a Metzinger 2020 reference, +67. (4) Block L123: fence the animals-versus-machines comparison against tier slippage, +14.
+- **Cross-review additions**: listed per task (todo L3038, L3052, L3066, L3095, L3144), with inbound inventories. They include two zero-word repairs to installed integration sentences: locked-in L66 "briefly" → "temporarily", and self-control L46 "whose authors" → "whose proponents". Also: Block-cluster "physical similarity fails" → "weakens the inference without cancelling it" at net −2 on the past-hard apex; ai-consciousness and typology "distinguished"/"informative" → "weighed"/"supply reasons"; and a decline of the problem-of-other-minds L120 "functionalist" qualifier, which would mis-scope the human case.
+- **New-territory candidates**: 2. Kavka's toxin puzzle / resolute choice, a FOLD into Precommitment ("Kavka" live 0/research 3; control "Holton" 4/9). Procrastination, research first with a FOLD into akrasia preferred ("procrastinat" 0/2; control "akrasia" 20/18; the Ariely & Wertenbroch retraction trap).
+- **Reports-only**: no content file, todo line or state file modified; not committed.
+- **Output**: [[reviews/optimistic-2026-10-24-fresh-article-wing]]
 
 ## 17:10 - refine-draft
 - **Status**: Success
