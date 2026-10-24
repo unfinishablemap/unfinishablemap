@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-09-27
 human_modified: null
-ai_modified: 2026-09-27T22:20:30+00:00
+ai_modified: 2026-10-24T21:09:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[edge-states-and-void-probes]]"
   - "[[the-quantitative-comprehension-void]]"
-  - "[[smoothness-and-continuity]]"
+  - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[resolution-void]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[time-consciousness-growing-block]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[egocentric-presentism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-03-17
 last_curated: null
 last_deep_review: 2026-07-17T10:48:55+00:00
@@ -159,7 +159,7 @@ The temporal void engages the Map's [[tenets]] at several points.
 - [[disappearance-voids|The Absorption Void]] — Peak engagement dissolves temporal awareness and self-monitoring together
 - [[inaccessible-past]] — Whether past qualia can be recovered
 - [[death-void]] — Consciousness cannot represent its own absence
-- [[smoothness-and-continuity]] — Whether consciousness has gaps
+- [[neural-refresh-rates-and-the-smoothness-problem#the-continuity-void|The Continuity Void]] — Whether consciousness has gaps
 - [[resolution-void]] — The temporal resolution limit of conscious access
 - [[temporal-consciousness]] — How time structures conscious experience
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory

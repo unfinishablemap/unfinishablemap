@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-10-05T12:35:41+00:00
+ai_modified: 2026-10-24T21:09:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ related_articles:
   - "[[process-and-consciousness]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
-  - "[[smoothness-and-continuity]]"
+  - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[empirical-phenomena-mental-causation]]"
   - "[[consciousness-as-activity]]"
   - "[[motor-control-quantum-zeno]]"
@@ -74,7 +74,7 @@ related_articles:
   - "[[phenomenology-of-musical-understanding]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-25T21:08:52+00:00
@@ -99,7 +99,7 @@ The specious present was named by E.R. Clay and developed by William James, Huss
 
 Duration estimates span three complementary timescales: a perceptual moment (~100-300ms, Strawson), the specious present proper (~300-750ms, Benussi, Dainton), and an extended present (~2-3s, Pöppel). These are nested components of temporal experience, not competing estimates.
 
-The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [[smoothness-and-continuity|continuity void]] reveals that this choice may be structurally underdetermined—discrete experiences can feel perfectly smooth (Lee, forthcoming)—but the collapse framework makes extensionalism a natural fit.
+The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [[neural-refresh-rates-and-the-smoothness-problem#the-continuity-void|continuity void]] reveals that this choice may be structurally underdetermined—discrete experiences can feel perfectly smooth (Lee, forthcoming)—but the collapse framework makes extensionalism a natural fit.
 
 ### The Irreducibility Argument
 
@@ -210,13 +210,12 @@ Temporal consciousness connects to all five tenets:
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[philosophy-of-time]] — McTaggart's A/B series and the growing block position
 - [[time-bias-and-thank-goodness-thats-over|Time-bias and "Thank goodness that's over"]] — Prior's relief argument: what the felt pastness of a finished pain can and cannot show about time
-- [[smoothness-and-continuity]] — The smoothness problem and why consciousness cannot determine its own temporal grain
 - [[consciousness-as-activity]] — Why temporal extension is constitutive if consciousness is activity
 - [[authentic-vs-inauthentic-choice]] — How temporal thickness distinguishes genuine from automatic choice
 - [[phenomenology-of-anticipation]] — Extended exploration of protention, surprise, and anticipatory consciousness
 - [[non-temporal-consciousness]] — Whether the deepest level of consciousness lies outside time
 - [[phenomenology-of-choice-and-volition]] — How anticipatory consciousness enables deliberation
-- [[neural-refresh-rates-and-the-smoothness-problem]] — The discrete oscillatory sampling rates that create the smoothness problem
+- [[neural-refresh-rates-and-the-smoothness-problem]] — The discrete oscillatory sampling rates that create the smoothness problem, and why consciousness cannot determine its own temporal grain
 - [[temporal-consciousness-structure-and-agency]] — Comprehensive treatment including the constitutional thesis and circularity problem
 
 ## References

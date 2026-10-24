@@ -4,7 +4,7 @@ description: "Conscious behaviour runs at about ten bits per second while the se
 created: 2026-02-28
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-10-10T07:52:35+00:00
+ai_modified: 2026-10-24T21:09:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[temporal-void]]"
-  - "[[smoothness-and-continuity]]"
+  - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[formal-cognitive-limits]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[consciousness-bandwidth-architecture]]"
@@ -54,7 +54,7 @@ Cognitive control capacity is even lower than the ten-bit figure suggests. Wu et
 
 ## Temporal Frames
 
-The resolution void extends into time. Herzog, Kammer & Scharnowski (2016) juxtapose two findings: observers perceive apparent motion from stimulus differences of only 3 ms, yet in a feature-fusion experiment magnetic stimulation altered the percept up to 400 ms after the stimuli, so "consciousness cannot occur before 400 ms" in that paradigm. Their proposal, offered in a *PLOS Biology* "Unsolved Mystery" essay rather than as an established result, is a two-stage model: features, timing included, are analysed unconsciously "with relatively high temporal resolution" and then "rendered conscious at discrete moments in time", timing entering the percept as a quantitative label. They deny that percepts arrive periodically or with identical durations, and continuous and other hybrid models remain live (see [[smoothness-and-continuity]]).
+The resolution void extends into time. Herzog, Kammer & Scharnowski (2016) juxtapose two findings: observers perceive apparent motion from stimulus differences of only 3 ms, yet in a feature-fusion experiment magnetic stimulation altered the percept up to 400 ms after the stimuli, so "consciousness cannot occur before 400 ms" in that paradigm. Their proposal, offered in a *PLOS Biology* "Unsolved Mystery" essay rather than as an established result, is a two-stage model: features, timing included, are analysed unconsciously "with relatively high temporal resolution" and then "rendered conscious at discrete moments in time", timing entering the percept as a quantitative label. They deny that percepts arrive periodically or with identical durations, and continuous and other hybrid models remain live (see [[neural-refresh-rates-and-the-smoothness-problem#the-continuity-void|continuity void]]).
 
 On this model the void lies in format rather than in lost timing. The 3 ms difference does reach awareness, but as a label — the percept says *motion* — while the unconscious integration that produced it, which on their account can run for hundreds of milliseconds, is never experienced as succession. The [[temporal-void]] and [[temporal-consciousness]] take up the phenomenology of this confinement. If the model holds, consciousness is temporally coarse in the way the [[#the-discrimination-floor|discrimination floor]] finds it spatially coarse: summaries survive, the process that computed them does not.
 
@@ -97,7 +97,7 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 - [[voids]] — The framework of cognitive limits and unchartable territories
 - [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|The Quantitative Comprehension Void — magnitude and probability face]] — Parallel limits at the vast end of magnitude, where this void treats the fine end; the probability face extends the pattern to randomness
 - [[temporal-void]] — The temporal dimension of conscious confinement
-- [[smoothness-and-continuity]] — Whether experience is continuous or discrete at the finest grain
+- [[neural-refresh-rates-and-the-smoothness-problem#the-continuity-void|Continuity Void]] — Whether experience is continuous or discrete at the finest grain
 - [[grain-mismatch]] — The structural incompatibility between smooth phenomenal properties and discrete neural substrates
 - [[temporal-consciousness]] — The specious present and how consciousness packages time
 - [[perceptual-failure-and-the-interface]] — What happens when perception degrades and the interface becomes visible

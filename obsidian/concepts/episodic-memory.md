@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-10-22
 human_modified: null
-ai_modified: 2026-10-22T13:56:10+00:00
+ai_modified: 2026-10-24T21:09:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[phenomenology-of-memory-and-the-self]]"
   - "[[memory-anomalies]]"
   - "[[capability-division-problem]]"
-  - "[[smoothness-and-continuity]]"
+  - "[[neural-refresh-rates-and-the-smoothness-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5

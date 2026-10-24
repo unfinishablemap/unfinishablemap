@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-10-10 07:52:35+00:00
+ai_modified: 2026-10-24 21:09:52+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -16,13 +16,13 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 09:42:50+00:00
-lastmod: 2026-10-10 07:52:35+00:00
+lastmod: 2026-10-24 21:09:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[temporal-void]]'
-- '[[smoothness-and-continuity]]'
+- '[[neural-refresh-rates-and-the-smoothness-problem]]'
 - '[[formal-cognitive-limits]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[consciousness-bandwidth-architecture]]'
@@ -58,7 +58,7 @@ Cognitive control capacity is even lower than the ten-bit figure suggests. Wu et
 
 ## Temporal Frames
 
-The resolution void extends into time. Herzog, Kammer & Scharnowski (2016) juxtapose two findings: observers perceive apparent motion from stimulus differences of only 3 ms, yet in a feature-fusion experiment magnetic stimulation altered the percept up to 400 ms after the stimuli, so "consciousness cannot occur before 400 ms" in that paradigm. Their proposal, offered in a *PLOS Biology* "Unsolved Mystery" essay rather than as an established result, is a two-stage model: features, timing included, are analysed unconsciously "with relatively high temporal resolution" and then "rendered conscious at discrete moments in time", timing entering the percept as a quantitative label. They deny that percepts arrive periodically or with identical durations, and continuous and other hybrid models remain live (see [smoothness-and-continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/)).
+The resolution void extends into time. Herzog, Kammer & Scharnowski (2016) juxtapose two findings: observers perceive apparent motion from stimulus differences of only 3 ms, yet in a feature-fusion experiment magnetic stimulation altered the percept up to 400 ms after the stimuli, so "consciousness cannot occur before 400 ms" in that paradigm. Their proposal, offered in a *PLOS Biology* "Unsolved Mystery" essay rather than as an established result, is a two-stage model: features, timing included, are analysed unconsciously "with relatively high temporal resolution" and then "rendered conscious at discrete moments in time", timing entering the percept as a quantitative label. They deny that percepts arrive periodically or with identical durations, and continuous and other hybrid models remain live (see [continuity void](/topics/neural-refresh-rates-and-the-smoothness-problem/#the-continuity-void)).
 
 On this model the void lies in format rather than in lost timing. The 3 ms difference does reach awareness, but as a label — the percept says *motion* — while the unconscious integration that produced it, which on their account can run for hundreds of milliseconds, is never experienced as succession. The [temporal-void](/voids/temporal-void/) and [temporal-consciousness](/concepts/temporal-consciousness/) take up the phenomenology of this confinement. If the model holds, consciousness is temporally coarse in the way the [discrimination floor](#the-discrimination-floor) finds it spatially coarse: summaries survive, the process that computed them does not.
 
@@ -101,7 +101,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 - [voids](/voids/) — The framework of cognitive limits and unchartable territories
 - [The Quantitative Comprehension Void — magnitude and probability face](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain) — Parallel limits at the vast end of magnitude, where this void treats the fine end; the probability face extends the pattern to randomness
 - [temporal-void](/voids/temporal-void/) — The temporal dimension of conscious confinement
-- [smoothness-and-continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/) — Whether experience is continuous or discrete at the finest grain
+- [Continuity Void](/topics/neural-refresh-rates-and-the-smoothness-problem/#the-continuity-void) — Whether experience is continuous or discrete at the finest grain
 - [grain-mismatch](/concepts/grain-mismatch/) — The structural incompatibility between smooth phenomenal properties and discrete neural substrates
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and how consciousness packages time
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What happens when perception degrades and the interface becomes visible

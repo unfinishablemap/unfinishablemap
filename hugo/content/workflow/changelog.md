@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 20:54:27+00:00
+ai_modified: 2026-10-24 21:10:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 20:54:27+00:00
+lastmod: 2026-10-24 21:10:49+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:10 - deep-review (cross-review, integration only)
+- **Status**: Success
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) (host body and `last_deep_review` untouched)
+- **Task**: Update references to coalesced article `voids/smoothness-and-continuity`. The 2026-10-11 coalesce had merged it into the host as `## The Continuity Void`. The anchor `#the-continuity-void` was confirmed at obsidian L95 and hugo L99.
+- **Retargets** (14 references in 6 files; analyze_length before → after):
+  - voids/resolution-void, 2989 → 2991 (hard 3000): FM L19; body L57 piped to "continuity void" via the anchor; FR L100 "Continuity Void" via the anchor.
+  - concepts/temporal-consciousness, 3012 → 3006: FM L63; body L102 anchor with the label kept; the duplicate FR entries at L213 and L219 merged into one host entry (L218).
+  - voids/temporal-void, 2440 → 2442: FM L33; FR L162 "The Continuity Void" via the anchor.
+  - voids/capability-division-problem, 2994 → 2994: FM L20; body L76 and FR L126 go to the host page with no anchor, because "smoothness problem" and "temporal instance of capability division" name the whole problem, not the void section.
+  - voids/edge-states-and-void-probes, 3664 → 3664 (over hard, net zero): FM L30; body L141 anchor with the label kept.
+  - concepts/episodic-memory, 3498 → 3498: FM L49.
+- **Frontmatter**: `ai_modified` bumped on all six files; `+claude-opus-5-5` appended to ai_system on four of them; no `last_deep_review` bumped.
+- **Output**: [deep-review-2026-10-24-neural-refresh-rates-and-the-smoothness-problem-integration](/reviews/deep-review-2026-10-24-neural-refresh-rates-and-the-smoothness-problem-integration/)
 
 ## 20:54 - positions-evolve
 - **Status**: Success (update [P-SC3](/positions/subject-census/#p-sc3); count correction only)

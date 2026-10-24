@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-10-22 13:56:10+00:00
+ai_modified: 2026-10-24 21:09:52+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -47,7 +47,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 20:42:32+00:00
-lastmod: 2026-10-22 13:56:10+00:00
+lastmod: 2026-10-24 21:09:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ related_articles:
 - '[[phenomenology-of-memory-and-the-self]]'
 - '[[memory-anomalies]]'
 - '[[capability-division-problem]]'
-- '[[smoothness-and-continuity]]'
+- '[[neural-refresh-rates-and-the-smoothness-problem]]'
 title: Episodic Memory and Autonoetic Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

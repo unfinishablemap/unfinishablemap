@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-09-27 22:20:30+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-24 21:09:52+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /voids/temporal-consciousness-void/
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 10:48:55+00:00
-lastmod: 2026-09-27 22:20:30+00:00
+lastmod: 2026-10-24 21:09:52+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,7 +41,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[edge-states-and-void-probes]]'
 - '[[the-quantitative-comprehension-void]]'
-- '[[smoothness-and-continuity]]'
+- '[[neural-refresh-rates-and-the-smoothness-problem]]'
 - '[[resolution-void]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[time-consciousness-growing-block]]'
@@ -163,7 +163,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 - [The Absorption Void](/voids/disappearance-voids/) — Peak engagement dissolves temporal awareness and self-monitoring together
 - [inaccessible-past](/voids/inaccessible-past/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
-- [smoothness-and-continuity](/topics/neural-refresh-rates-and-the-smoothness-problem/) — Whether consciousness has gaps
+- [The Continuity Void](/topics/neural-refresh-rates-and-the-smoothness-problem/#the-continuity-void) — Whether consciousness has gaps
 - [resolution-void](/voids/resolution-void/) — The temporal resolution limit of conscious access
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory

@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-10-14T11:34:29+00:00
+ai_modified: 2026-10-24T21:09:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[epiphenomenalism]]"
 related_articles:
   - "[[dualist-perception]]"
-  - "[[smoothness-and-continuity]]"
+  - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[episodic-memory]]"
   - "[[dream-consciousness]]"
   - "[[lucid-dreaming-and-dualist-rendering]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-03-09
 last_curated:
 last_deep_review: 2026-07-19T00:18:39+00:00
@@ -73,7 +73,7 @@ The domain consciousness enables is not shrinking. Logical reasoning about perce
 
 The capability division problem is not confined to visual perception. Wherever the brain and mind collaborate, the same question arises: which contributions are whose?
 
-**Temporal continuity.** Neural activity is oscillatory and discrete — perceptual cycles at 7–13 Hz, gamma binding at ~40 Hz, processing in slices of up to 400 ms — yet experience flows without seams. The [[smoothness-and-continuity|smoothness problem]] is a temporal instance of the division: the brain provides discrete snapshots, but the seamless experiential stream may be a mind-side contribution rather than something the brain constructs.
+**Temporal continuity.** Neural activity is oscillatory and discrete — perceptual cycles at 7–13 Hz, gamma binding at ~40 Hz, processing in slices of up to 400 ms — yet experience flows without seams. The [[neural-refresh-rates-and-the-smoothness-problem|smoothness problem]] is a temporal instance of the division: the brain provides discrete snapshots, but the seamless experiential stream may be a mind-side contribution rather than something the brain constructs.
 
 **Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring no trace can carry. The [[episodic-memory|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
@@ -123,7 +123,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 
 ## Further Reading
 
-- [[smoothness-and-continuity]] — The temporal instance of capability division
+- [[neural-refresh-rates-and-the-smoothness-problem]] — The temporal instance of capability division
 - [[episodic-memory]] — Memory as requiring both brain-side and mind-side contributions
 - [[dream-consciousness]] — How the division shifts across waking and dreaming
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as clean evidence for capability division: architecture vs content
