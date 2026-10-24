@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Neil Levy argues blame requires consciousness of what makes an act wrong, but he means information available to the person, which he says zombies have in full. That fits the Map's claim without evidencing dualism, and exposes a tension in its own pages.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2113905849085157864  
 **Link**: [consciousness-and-the-epistemic-condition-on-responsibility](/topics/consciousness-and-the-epistemic-condition-on-responsibility/)
 
 ---
