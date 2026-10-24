@@ -2,9 +2,9 @@
 title: "Intentionality"
 description: "The aboutness of mental states: why thoughts are directed at objects. Phenomenal intentionality theory shows content requires consciousness, with implications for AI and the hard problem."
 created: 2026-01-14
-modified: 2026-10-21
+modified: 2026-10-24
 human_modified: null
-ai_modified: 2026-10-21T15:10:41+00:00
+ai_modified: 2026-10-24T22:09:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,7 +138,7 @@ John Searle distinguishes between *original* and *derived* intentionality. When 
 
 PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds.
 
-This applies directly to computation. Computer symbols have [[whether-language-model-words-refer|derived intentionality]]: "PARIS" represents Paris only because programmers assigned that meaning. Searle's [[chinese-room-argument|Chinese Room]] makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics. The distinction also bears on [[consciousness-and-collective-phenomena|collective intentionality]]—shared goals, joint commitments, institutional facts—where group-level aboutness appears to require phenomenal consciousness in participants rather than emerging from organisational structure alone.
+This applies directly to computation. Computer symbols have [[whether-language-model-words-refer|derived intentionality]]: "PARIS" represents Paris only through programmers' assignment or, in a language model, the training text's authors. Searle's [[chinese-room-argument|Chinese Room]] makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics. The distinction also bears on [[consciousness-and-collective-phenomena|collective intentionality]]—shared goals, joint commitments, institutional facts—where group-level aboutness appears to require phenomenal consciousness in participants rather than emerging from organisational structure alone.
 
 ## Objections and Responses
 

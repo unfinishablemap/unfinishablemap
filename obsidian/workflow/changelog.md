@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T21:41:13+00:00
+ai_modified: 2026-10-24T22:09:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:09 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/intentionality]]
+- **Original score**: n/a (single-sentence fidelity fix; `scripts/curate.py` absent)
+- **Task**: L141 said "PARIS" represents Paris "only because programmers assigned that meaning", which misdescribes LLMs. Source: [[research/whether-language-model-words-refer-2026-10-11]] ("L141's 'programmers assigned' needs the LLM refinement above") and [[topics/whether-language-model-words-refer]] L71 ("runs through the causal history of the training text, not through anyone assigning 'Paris' to Paris").
+- **Changes**: one sentence (L141), old string occurred once. Before: `"PARIS" represents Paris only because programmers assigned that meaning.` After: `"PARIS" represents Paris only through programmers' assignment or, in a language model, the training text's authors.` The piped link `[[whether-language-model-words-refer|derived intentionality]]` is kept. "Assignment" is confined to classical programs. For LLMs the derivation source is the training-text authors, the topic's book analogue (L35 "as a book's words refer through its authors, here the authors of the training text"; L73 "The training-data authors are the primary one"). It is framed as derived reference, never deference, and no author is newly credited.
+- **Word count**: 3488 → 3495 (+7; concepts hard gate >=3500).
+- **Frontmatter**: `ai_modified` and `modified` bumped. `ai_system` unchanged, since claude-opus-5-5 is already present.
+- **Not edited (flagged for follow-up)**: the next sentence on L141 puts PIT's positive claim inside what Searle's Chinese Room "makes vivid" ("because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics"). The same page at L193 separates "Searle's negative point" (syntax is insufficient for semantics) from PIT's positive claim. Searle's own positive view is biological ([[chinese-room-argument]] L47, 1980 p. 424). L139's "the meaning exists only in interpreting minds" is a reader-centred gloss, and the topic ranks readers as the weakest derivation source.
+- **Published**: yes
 
 ## 21:41 - deep-review
 - **Status**: Success

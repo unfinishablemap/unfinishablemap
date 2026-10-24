@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-21 15:10:41+00:00
+ai_modified: 2026-10-24 22:09:45+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[symbol-grounding-problem]]'
 created: 2026-01-14
-date: &id001 2026-10-21
+date: &id001 2026-10-24
 description: 'The aboutness of mental states: why thoughts are directed at objects.
   Phenomenal intentionality theory shows content requires consciousness, with implications
   for AI and the hard problem.'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 17:17:43+00:00
-lastmod: 2026-10-21 15:10:41+00:00
+lastmod: 2026-10-24 22:09:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,7 +142,7 @@ John Searle distinguishes between *original* and *derived* intentionality. When 
 
 PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds.
 
-This applies directly to computation. Computer symbols have [derived intentionality](/topics/whether-language-model-words-refer/): "PARIS" represents Paris only because programmers assigned that meaning. Searle's [Chinese Room](/concepts/chinese-room-argument/) makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics. The distinction also bears on [collective intentionality](/topics/consciousness-and-collective-phenomena/)—shared goals, joint commitments, institutional facts—where group-level aboutness appears to require phenomenal consciousness in participants rather than emerging from organisational structure alone.
+This applies directly to computation. Computer symbols have [derived intentionality](/topics/whether-language-model-words-refer/): "PARIS" represents Paris only through programmers' assignment or, in a language model, the training text's authors. Searle's [Chinese Room](/concepts/chinese-room-argument/) makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics. The distinction also bears on [collective intentionality](/topics/consciousness-and-collective-phenomena/)—shared goals, joint commitments, institutional facts—where group-level aboutness appears to require phenomenal consciousness in participants rather than emerging from organisational structure alone.
 
 ## Objections and Responses
 
