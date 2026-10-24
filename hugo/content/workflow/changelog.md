@@ -1,14 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 11:00:52+00:00
+ai_modified: 2026-10-24 11:30:54+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 11:00:52+00:00
+lastmod: 2026-10-24 11:30:54+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 11:30 - research-voids
+- **Status**: Success
+- **Topic**: The retraction void. A mind can withdraw a belief and remember withdrawing it, yet cannot see where the withdrawn item is still doing inferential work. Readers who "had clearly recalled" a correction kept drawing inferences from the old information (Wilkes & Leatherbarrow 1988), and continued influence "occurs even if the retraction itself is well remembered" (Ecker et al. 2010). The philosophical frame is Harman's coherence theory, on which no ledger of reasons is kept (1984a/b; Godden 2012 dissents on rationality; Doyle 1992; Gärdenfors 1992; AGM 1985). The note covers four faces: individual (debriefing perseverance, Ross et al. 1975 and Anderson et al. 1980; continued influence, Johnson & Seifert 1994; the Chan et al. 2017 and Walter & Tukachinsky 2020 meta-analyses), formal (reason maintenance, Doyle 1979; the worst-case complexity of revision, Eiter & Gottlob via Gogic et al. 1998), machine (edited facts recalled while multi-hop consequences fail, Zhong et al. 2023 and Cohen et al. 2024) and community (retracted papers cited as valid, Budd et al. 1998, Hsiao & Schneider 2021, Schneider et al. 2020).
+- **Category**: Mixed.
+  - Principally Occluded at the readout (natural): the withdrawal is registered and the reliance is unmarked.
+  - Unexplored as territory: it is measurable as the gap between recall of the correction and inference, and it is moved by process debriefing, causal alternatives and warnings.
+  - Not Unexplorable: reason-maintenance architectures propagate retractions. The worst-case complexity residue for complete propagation is recorded and not claimed.
+- **Output**: [voids-retraction-void-2026-10-24](/research/voids-retraction-void-2026-10-24/). `recommended_action: article`, `target_slug: retraction-void` (slug free in obsidian/archive/hugo).
+  - Fold fallback: ~120 words in `topics/phenomenology-of-intellectual-life` §"Belief Revision" after "Reorganisation" L134 (3,402/4,000; headroom 597, less up to +15 for the pending P3 at todo L1738).
+  - Secondary: a ~35-word inverse-relation line in `voids/erasure-void` §"Distinguishing from Related Voids" (2,807/3,000).
+  - Other voids neighbours are too full: assent-void 2,959 with a P2 condense-first entry, source-attribution-void 2,997, suspension-void 2,996, confabulation-void 2,846, conceptual-metabolism-void 2,701.
+  - Per the driver brief: no voids article was created, no expand task was minted, `pending_articles` was NOT touched and todo.md was not edited. The candidate is for the open voids-slot NEEDS-HUMAN entry, alongside drift, cluelessness, luminosity and template.
+- **Dedupe**: voids at 113/125 (`tools.evolution.state.count_section_files`). Zero hits in voids, research, topics/concepts/apex/positions/tenets/arguments, archive, reviews and workflow for 24 key terms, including "belief perseverance", "debriefing paradigm", "Change in View", "positive undermining", "clutter avoidance", Lepper, Wilkes, Leatherbarrow, Seifert, Tukachinsky, Swire-Thompson, Mickelberg, Godden, "truth/reason maintenance", MQuAKE, RippleEdits, "knowledge editing", Hsiao and Bar-Ilan. Ecker, Cherniak, Gogic and Eiter were re-run word-bounded because of substring collisions.
+  - Only near-hits: "continued influence" as one probe sentence in `voids/assent-void` L103 (plus the 10-07 outer-review exchange about it), and "forgotten evidence" as bullets in two old research notes.
+  - Positive controls Nisbett, Mandelbaum, Fischhoff and Connor Desai hit their expected voids.
+  - Not a near-duplicate of the four banked notes: each has 0 hits on the key terms, and the drift, cluelessness and template seams are drawn in the note's table.
+  - Recorded corpus gap: `research/doxastic-voluntarism-2026-10-07` L207 parks Wood & Porter as belonging "to a revision/misinformation page if anywhere".
+  - Outer-review convergence (not the selection reason): ChatGPT 2026-06-22 item 11 asked for a corpus-wide citation-propagation tool.
+- **Key finding**: the void is real and conditional, and the note says so.
+  - Corrections mostly work (debunking d = 1.14–1.33; average residual r = –.05).
+  - Persistence bites where the withdrawn item filled causal structure. Retracted claims about persons are often fully discounted (Mickelberg et al. 2024/2025), and backfire is not robust (Swire-Thompson et al. 2020).
+  - Johnson & Seifert undercut the account that blames failure to trace earlier inferences, and retrieval and integration accounts still compete (Sanderson et al. 2022). Connor Desai et al. 2020 show continued influence can be rational, yet "very few" participants execute the update.
+  - The void holds on every reading: the agent cannot see from inside where a retraction has not reached. It fits Dualism without evidencing it. The Bidirectional Interaction guard holds, because corrections are causally effective and the void concerns knowledge of their reach, so epiphenomenalism is not conceded.
+  - Self-applied (recorded, not minted):
+    - `concepts/russellian-monism` L69 still carries the Kind (2015) reading corrected on its comparison sibling at 10-23 06:59;
+    - `phenomenology-of-intellectual-life` L192 keeps the dilemma struck from cognitive-phenomenology (P3 L1738 pending);
+    - `project/project` L100 records that citation repairs are not propagated to siblings;
+    - the positions register's 63 `Depends on` fields are a backward-only ledger.
+
+    Because its dependencies are greppable text, the Map's own retraction void is Unexplored, not Occluded. Candidate scope on a live page: `phenomenology-of-intellectual-life` L134 "Reorganisation" presents felt revision as reaching neighbouring beliefs, but the evidence says the reach is local and unmarked.
+- **Verification**:
+  - 29 citations. 28 DOIs Crossref-verified with author given names checked; Crossref gives only initials for Wilkes & Leatherbarrow and Gogic et al., and the Gogic full names were confirmed from the JAIR full text. Harman 1986 (a book with no DOI) is confirmed via Crossref-deposited reviews. Budd et al.'s pages 296–297 were confirmed via PubMed.
+  - Two DOI errors caught: 10.2307/2215020 is Grandy's reply, not Harman (Harman is 10.2307/2215019), and a McGrath 2007 DOI did not resolve, so that source was dropped.
+  - 55 [raw] quote fragments (54 unique) machine-checked against saved raw text, and each attributed to its own source file: OpenAlex inverted indexes, Crossref deposits, PubMed efetch, Semantic Scholar, the Harman 1984b full-text PDF and the Gogic et al. arXiv full text. 7 [corpus] quotes were grep-checked against the Map's files.
+  - Paraphrase-only: Harman 1986 (the debriefing link comes via Godden's abstract), Eiter & Gottlob 1992 (via Gogic et al.) and Wood & Porter 2019. Ecker et al. 2022 was not retrieved (Europe PMC 503; publisher blocked). The exported-void second member and the human/LLM query-time resemblance are flagged as the note's own suggestions.
+  - The note runs 5,598 words by `validate.py`, inside the 5.2–5.7k sibling range.
 
 ## 11:00 - check-links
 - **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
