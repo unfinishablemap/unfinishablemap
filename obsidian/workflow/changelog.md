@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T03:47:23+00:00
+ai_modified: 2026-10-24T04:07:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:07 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro, collected via collect-chatgpt-review. The DOM exposes no slug, so the commission-time model is kept. The subject was recent-aged `concepts/nondualistic-interactionism`, the 02:11Z subject that Claude reused at 03:11Z.
+- **File**: [[reviews/outer-review-2026-10-24-chatgpt-5-6-sol-pro]]
+- **Extraction**: js-dom walk of the single `[data-markdown-text-style]` element, read out in 54 hash-verified 900-char chunks (47,790 chars; whole-body hash 1394568404). The review was 6,125 words at collection.
+- **Claims verified**: 16 at source or on disk, 3 partly right, 5 rejected. The source checks used the Griffin 1998 UC Press e-edition (pp. 186, 205, 236–237), Kim 1999 raw text, Chalmers 2003 raw text, and Crossref/Hrčak for 6 reviewer citations.
+- **High-value findings**: 5.
+  - Griffin's p. 237 rejects the materialist reading of closure and Kim's qua-physical principle before he turns to completeness, so "Closure Kept, Completeness Denied" misstates his view.
+  - Chalmers's own §11 footnote makes the D/F difference "fundamental causation above the microphysical level", which supports the article's type-D reading more directly than the article shows. The table's "Physics complete? yes" for type-F reads against `russellian-monism` L115.
+  - Kim answered Griffin's *Process Studies* essay, not the book. The article omits his "not exactly" wish-list disclaimer and his determination-is-not-identity reply.
+  - `process-philosophy` L98 "isn't generated" and L108 "retrocausal inheritance".
+  - `combination-problem` L62 "compound naturally", and zero reciprocal NDI links on four neighbour pages.
+- **Rejected**: the conservation-compression, Tenet-2-adjudicative, "physical in every sense physics uses" and persistence-as-advantage asymmetries. The article already handles each one.
+- **Tasks generated**: 5 new (P1 NDI closure/Chalmers/table; P2 NDI source fidelity and parity; P2 combination-problem; P2 process-philosophy; P2 interactionist-dualism length-neutral link), plus 1 add-on to the blocked P-D2 HUMAN LENGTH DECISION task, of which this review is the third independent source. Inserted above `## Completed Tasks`; `parse_tasks` maps all 5 to refine-draft on the right files.
+- **Convergence**: with `reviews/outer-review-2026-10-20-chatgpt-5-6-sol-pro.md` on P-D2 "selects interactionism" and on the missing NDI reciprocal links.
+- **Status field**: `outer_review_status: processed`
 
 ## 03:47 - optimistic-review
 - **Status**: Success
