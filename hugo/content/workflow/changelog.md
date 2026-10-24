@@ -10,6 +10,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 16:38 - deep-review
+- **Status**: Success
+- **File**: [memory-anomalies](/topics/memory-anomalies/)
+- **Word count**: 3533 → 3598 (+65; analyze_length, topics hard 4000)
+- **Critical issues addressed**: 10. In summary:
+  - Martin et al. 2012 TLE result was inverted (it is familiarity that is impaired and recollection spared).
+  - Brown 2003 figure changed from two-thirds to 60%.
+  - The divided-attention/load result was misattributed to Brown & Murphy 1989 and Marsh & Bower 1993.
+  - Cleary 2012 was an inline cite with no reference, and the premonition result belongs to Cleary & Claxton 2018 (both added).
+  - Wixted & Mickes were misdescribed as non-dual-process.
+  - L118 tier conditional was inverted and stronger than the post-09-14 apex.
+  - L110 "cleanly exhibits the irreducibility" was stronger than the apex.
+  - L112 Bergson rarity was used as "indirect evidence".
+  - "Reducing valve" was misattributed to Bergson and to the mind.
+  - SEP "Memory" was listed as Sutton & Cassam (it is Michaelian & Sutton 2017) and was an orphan (removed).
+- **Medium issues addressed**: 6. Stimulation claim (Bartolomei et al. 2004 added; entorhinal). Production verbs changed to elicit/trigger. Perrin et al. gloss. "Inadvertent plagiarism" credited to Brown & Murphy. Necessity heading softened. Duplicate Bergson caveat and load-bearing intensifiers removed.
+- **L100 fidelity**:
+  - Both Sheen refs are real-correct at Crossref (29(6) 779-788; 5(S1) 9-13).
+  - All four quotes are verbatim: the skirt sentence in the PubMed abstract, "good agreement…" p. 784 and "no indication" p. 783 in the DukeSpace full text, and the 2006 sentence in its abstract.
+  - The figures are supported. "Close siblings" became "siblings close in age".
+  - No consciousness or dualism framing.
+- **Scope**: The jamais-vu "reliably" claims at L61 and L64 were left to the queued semantic-satiation P3. A note was appended to its Notes line: the research note's fix targets L64, and L61 is a second instance.
+- **Engagements**: Paranormal readings: Mode One (Cleary & Claxton 2018 evidence). Predictive-processing/physicalist absorption: Mode Three at the felt-character residue (apex concession).
+- **Leads**: `topics/source-attribution-divergence` L117 has the same inverted strongly-supported conditional. `research/memory-anomalies-2026-05-08` L93 seeded the TLE inversion. `voids/source-attribution-void` L112-114 needs a permanent-void wording check.
+- **Output**: [deep-review-2026-10-24-memory-anomalies](/reviews/deep-review-2026-10-24-memory-anomalies/)
+
 ## 15:39 - refine-draft
 - **Status**: Success
 - **File**: [numbing-void](/voids/numbing-void/) and [preference-void](/voids/preference-void/)
