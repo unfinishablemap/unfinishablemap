@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T20:39:29+00:00
+ai_modified: 2026-10-24T20:54:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:54 - positions-evolve
+- **Status**: Success (update P-SC3; count correction only)
+- **Task**: P3 queue task: P-SC3 says P-SC2 has "four booked gaps"; it has five (source: positions-evolve add P-CS7, 2026-10-11; first flagged in [[reviews/tenet-check-2026-09-25]] register bookkeeping).
+- **Recount** (before editing): P-SC2 *Asserts* (`positions/subject-census` L59) states "Five gaps are booked specifically" and bolds five labels: **Pairing**, **Multi-agent composition** (the copies question is a sub-case, booked "under multi-agent composition" per the 2026-09-24 note), **Eligibility**, **Census circularity** (booked 2026-09-24 "as a fifth gap"), **Onset and cessation** ("see P-SC3"). The 2026-10-11 history note agrees ("the entry has booked five gaps since 2026-09-24"). Unambiguous: five.
+- **Positions touched**: [[positions/subject-census]] P-SC3 *Depends on* (L71): "one of that entry's four booked gaps" → "one of that entry's five booked gaps" (old string occurred once on the page; 0 words); *Last reviewed* 2026-08-03 → 2026-10-24 (0 words). No band, status, dependency or assertion change.
+- **Calibration-history convention**: the dated `Updated 2026-10-24` note went to [[positions/subject-census-calibration-history]] under a new `## P-SC3` section (P-SC3 had none), in the P-SC2 notes' format; description range updated to end at 2026-10-24. No *Calibration history* pointer added to P-SC3 in the register: it had none, and adding one would cost words against zero headroom. The domain preamble (L39) says each entry indexes its notes from such a line, so P-SC3 is now the one exception until headroom exists.
+- **Length** (analyze_length): subject-census 2499 → 2499 (positions hard 2500); subject-census-calibration-history 1262 → 1446 (soft 1500).
+- **Cascade**: no position lists P-SC3 under *Depends on*. Other "four gaps" hits for P-SC2 are in dated research notes of 2026-09-15 (`psychophysical-social-choice-problem`, `change-points-in-the-psychophysical-transition-law`), which predate the fifth gap and were accurate when written; not edited.
 
 ## 20:39 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 07:40 run (commit `0bcb0131a1`), with the 7-day floor now at 2026-10-17T20:38Z. Abandoned (steady state).

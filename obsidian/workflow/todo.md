@@ -1539,14 +1539,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: P-SC3 says P-SC2 has "four booked gaps"; it has five (positions-evolve 2026-10-11 follow-up)
-- **Type**: positions-evolve
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/subject-census.md
-- **Status**: pending
-- **Source**: positions-evolve add P-CS7, 2026-10-11 (fork-reported, driver-verified: "four booked gaps" occurs once, at L71)
-- **Generated**: 2026-10-11
-- **Notes**: Mode: update. Recount P-SC2's booked gaps before editing; the fork reported five booked since 09-24. "four" → "five" costs 0 words, but subject-census is 2,499/2,500 (positions hard), so put the mandated dated `Updated` note in `positions/subject-census-calibration-history`, which is where this register already keeps its notes (that is where the P-SC2 note went on 2026-10-11). No band moves. Measure both files with tools.curate.length.analyze_length before and after. Locate by QUOTED text; confirm it occurs once. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P3: `archive/voids/smoothness-and-continuity` L59 (archived by the 2026-10-11 coalesce) says psychophysics "confirms" discrete sampling via the flash-lag effect, which Cottier et al. 2025 found unrelated to individual alpha frequency
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/archive/voids/smoothness-and-continuity.md
@@ -3236,6 +3228,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-24: P-SC3 says P-SC2 has "four booked gaps"; it has five (positions-evolve 2026-10-11 follow-up)
+- **Type**: positions-evolve
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/positions/subject-census.md
+- **Notes**: Mode: update. Recount P-SC2's booked gaps before editing; the fork reported five booked since 09-24. "four" → "five" costs 0 words, but subject-census is 2,499/2,500 (positions hard), so put the mandated dated `Updated` note in `positions/subject-census-calibration-history`, which is where this register already keeps its notes (that is where the P-SC2 note went on 2026-10-11). No band moves. Measure both files with tools.curate.length.analyze_length before and after. Locate by QUOTED text; confirm it occurs once. Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-24: Research Procrastination as a diachronic failure of agency
 - **Type**: research-topic

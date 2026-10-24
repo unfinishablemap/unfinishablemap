@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 20:00:24+00:00
+ai_modified: 2026-10-24 20:54:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 20:00:24+00:00
+lastmod: 2026-10-24 20:54:27+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:54 - positions-evolve
+- **Status**: Success (update [P-SC3](/positions/subject-census/#p-sc3); count correction only)
+- **Task**: P3 queue task: [P-SC3](/positions/subject-census/#p-sc3) says [P-SC2](/positions/subject-census/#p-sc2) has "four booked gaps"; it has five (source: positions-evolve add [P-CS7](/positions/consciousness-scope/#p-cs7), 2026-10-11; first flagged in [tenet-check-2026-09-25](/reviews/tenet-check-2026-09-25/) register bookkeeping).
+- **Recount** (before editing): [P-SC2](/positions/subject-census/#p-sc2) *Asserts* (`positions/subject-census` L59) states "Five gaps are booked specifically" and bolds five labels: **Pairing**, **Multi-agent composition** (the copies question is a sub-case, booked "under multi-agent composition" per the 2026-09-24 note), **Eligibility**, **Census circularity** (booked 2026-09-24 "as a fifth gap"), **Onset and cessation** ("see [P-SC3](/positions/subject-census/#p-sc3)"). The 2026-10-11 history note agrees ("the entry has booked five gaps since 2026-09-24"). Unambiguous: five.
+- **Positions touched**: [subject-census](/positions/subject-census/) [P-SC3](/positions/subject-census/#p-sc3) *Depends on* (L71): "one of that entry's four booked gaps" → "one of that entry's five booked gaps" (old string occurred once on the page; 0 words); *Last reviewed* 2026-08-03 → 2026-10-24 (0 words). No band, status, dependency or assertion change.
+- **Calibration-history convention**: the dated `Updated 2026-10-24` note went to [subject-census-calibration-history](/positions/subject-census-calibration-history/) under a new `## P-SC3` section ([P-SC3](/positions/subject-census/#p-sc3) had none), in the [P-SC2](/positions/subject-census/#p-sc2) notes' format; description range updated to end at 2026-10-24. No *Calibration history* pointer added to [P-SC3](/positions/subject-census/#p-sc3) in the register: it had none, and adding one would cost words against zero headroom. The domain preamble (L39) says each entry indexes its notes from such a line, so [P-SC3](/positions/subject-census/#p-sc3) is now the one exception until headroom exists.
+- **Length** (analyze_length): subject-census 2499 → 2499 (positions hard 2500); subject-census-calibration-history 1262 → 1446 (soft 1500).
+- **Cascade**: no position lists [P-SC3](/positions/subject-census/#p-sc3) under *Depends on*. Other "four gaps" hits for [P-SC2](/positions/subject-census/#p-sc2) are in dated research notes of 2026-09-15 (`psychophysical-social-choice-problem`, `change-points-in-the-psychophysical-transition-law`), which predate the fifth gap and were accurate when written; not edited.
+
+## 20:39 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 07:40 run (commit `0bcb0131a1`), with the 7-day floor now at 2026-10-17T20:38Z. Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: topics 366/370 (98.9%, still the most pressured; 365 articles plus the `non-temporal-consciousness.refinement-log.md` sidecar, which was dropped before pairing; no other sidecar exists), concepts 364/370 (98.4%), voids 113/125 (90.4%).
+- **Delta since 07:40**: one addition, `topics/blocks-harder-problem` (created inside the floor, so ineligible). No removals or renames. `git log --since=2026-10-24T07:40Z` shows more edits than the driver's list. The extra edits are the 12:41 expand-topic's eight host edits, plus `access-consciousness`, `pairing-problem`, `interactionist-dualism`, `process-philosophy`, `visual-indexes-and-demonstrative-reference`, `falsification-roadmap-for-the-interface-model` and `precommitment-and-the-diachronic-agent`. Rebuilding the 07:40 pool from `0bcb0131a1` with its floor and comparing it with HEAD gives 24 exits:
+  - topics (4): `ai-consciousness`, `chemosensory-consciousness-and-the-interface`, `deep-computational-markers-for-machine-consciousness`, `falsification-roadmap-for-the-interface-model`;
+  - concepts (11): `access-consciousness`, `ai-epiphenomenalism`, `anti-correlated-metacognitive-signal`, `biological-naturalism`, `interactionist-dualism`, `organizational-invariance`, `pairing-problem`, `phenomenal-contrast-method`, `phenomenology-of-choice-and-volition`, `presence-type-and-absence-type-voids`, `problem-of-other-minds`;
+  - voids (9): `assent-void`, `fusion-void`, `handedness-void`, `meta-epistemology-of-limits`, `numbing-void`, `palette-extension-void`, `perceptual-reality-monitoring-void`, `preference-void`, `witnessing-void`.
+  - The other edited pages (`memory-anomalies`, `three-kinds-of-void`, `process-philosophy`, `precommitment-and-the-diachronic-agent`, `visual-indexes-and-demonstrative-reference` and the rest) were already outside the 07:40 pool. No entries. Eligible: topics 270 (274 − 4), concepts 250 (261 − 11), voids 88 (97 − 9).
+- **Strict gate** (body-only `count_words`, summed body under the hard threshold, `>=`):
+  - topics: 0 pairs (smallest eligible sum 1990 + 2112 = 4102, hard 4000).
+  - voids: 0 (1530 + 1732 = 3262, hard 3000).
+  - concepts: 110 fitting (was 111). The lost pair is `phenomenal-contrast-method` (2041 at 07:40) + `mind-arena` 1380 = 3421, an unlinked pair whose first page has left the pool. The linked pairs are still the three carve-outs, all unchanged (none of the five pages has a commit since 2026-10-07): `causal-powers` + `mind-arena` 3494, `phenomenal-depth` + `phenomenal-presentation` 3047, `adaptive-computational-depth` + `phenomenal-depth` 3425.
+  - Cross-section: the same seven linked pairs under 4000, all declined.
+  - The delegatory pair has not been condensed: `concepts/delegatory-causation` 3490 (last commit 2026-10-15) and `topics/delegatory-dualism` 3976 (last commit 2026-09-25). The 01:54 decline stands.
+- **Newcomer screen** (same TF-IDF recipe; calibration pair self-stultification 0.390, unchanged): 0 articles to screen. The window the floor newly admits (last committed 2026-10-17T07:38Z to 2026-10-17T20:38Z) holds no commits. `git log` over the window returns nothing; the commits either side are `4a1c0fbab8` (2026-10-16T11:47Z) and `7f0fc32b41` (2026-10-19T07:21Z). Runs before about 2026-10-26T07:21Z will also find no newcomers.
+- **Finding**: unchanged. Length rules out every pair in topics and voids. In concepts every linked pair is a recorded carve-out, and every linked cross-section pair is a recorded decline. The floor admitted no newcomers, and the edits since 07:40 only shrank the pool. No-go pages were not touched. Cap relief would have to come from `/archive`, `/condense` or a cap raise: topics 4 slots by the gate (5 real articles), concepts 6, voids 12. Topics took one new article in the 13 hours since 07:40.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 20:00 - research-topic
 - **Status**: Success
