@@ -5,6 +5,21 @@ ai_modified: 2026-10-24T06:32:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 07:04 - deep-review
+- **Status**: Success
+- **File**: [[topics/tonic-immobility-and-awareness]]
+- **Word count**: 2715 → 2787 (+72; analyze_length; topics soft 3000, hard 4000)
+- **Critical issues addressed**: 3
+  - L57 Schalinski subject splice: "It consists of functional sensory deafferentation ... alterations of the consciousness" and "shutdown of ... memory functions" describe flag–faint, not fright/TI (raw PMC4431999; Table 1 Fright row has no consciousness or memory item). Now: Lloyd's within-TI "is inherent to TI" plus the amnesia item first, then fright "gives way to flag and faint, whose dissociative responding 'consists of ...'".
+  - Description: "Tonic immobility ... is known only from later report" → "Awareness during tonic immobility ..." (the motor closure is objectively checked).
+  - Family table: TI duration "not measured in humans" (unscoped absence) → "no human data found".
+- **Medium issues addressed**: 9 — lede TIS "asks nothing about it" vs. body's detachment items ("first" replaces unattested "main"; Reichenheim 2014); "TI shows" made conditional in lede and RSP; "the late, passive end" → "a late, passive stage"; theme label verbatim ("Tonic Immobility as Mental Paralysis"); Bovin N = 176 female undergraduate survivors of sexual assault; test feasibility (spared channel, STOP b9); "settle" → "bear on"; "from brain states alone" → "without one"; motor-check timing; freezing marked as contrast row; TI timing cell "minutes (re-elicited) to decades".
+- **Enhancements made**: 1 (test-feasibility sentence); no expansion; no cross-links (P3 cross-review owns integration)
+- **Verification**: 16/16 DOIs real-correct at Crossref (PubMed for Abrams and Volchan 2017 vol/iss/pp); 44 original quoted spans grep-verified in raw Europe PMC XML (7 papers) or PubMed abstracts (8), 44/44 present, 1 case-only label fixed; subjects and speakers checked by context. Gbahabo & Duma: four quotes, four distinct participants (Bisi, Bisola, Angela, Ifeoma). No orphans. Coimbra r = 0.39: N/A (cited in neither this article nor the peritraumatic host). Currency: 1 WebSearch + PubMed 2020–2026 (3 hits, none probing awareness) — scoped absence stands.
+- **Engagement classification**: defence-cascade rival, Mode Three; Lloyd protective reading, Mode One; appraisal-causes-TI converse, Mode One; epiphenomenalist inference, Mode Two.
+- **Host-side (not edited)**: peritraumatic-dissociation L74 "main scale asks nothing about awareness" carries the old lede's compression (low); sleep-paralysis L62 consistent; research note L77/L363 leaves the Schalinski sentence unstaged.
+- **Output**: [[reviews/deep-review-2026-10-24-tonic-immobility-and-awareness]]
+
 ## 06:32 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/nondualistic-interactionism]]

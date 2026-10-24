@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-23 19:27:15+00:00
+ai_modified: 2026-10-24 07:02:55+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -11,14 +11,15 @@ concepts:
 - '[[metacognitive-access-versus-retention]]'
 - '[[filter-vs-interface-distinction]]'
 created: 2026-10-23
-date: &id001 2026-10-23
-description: 'Tonic immobility, the defence cascade''s late, passive shutdown, is
-  known only from later report, and the cascade predicts it with no experiential term:
-  for the Map''s interface reading, a fit rather than evidence.'
+date: &id001 2026-10-24
+description: Awareness during tonic immobility, the defence cascade's late, passive
+  shutdown, is known only from later report; the cascade predicts the shutdown with
+  no experiential term, so the Map's interface reading is a fit, not evidence.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-23 19:27:15+00:00
+last_deep_review: 2026-10-24 07:02:55+00:00
+lastmod: 2026-10-24 07:02:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,9 +37,9 @@ topics:
 - '[[clinical-dissociation-as-systematic-evidence]]'
 ---
 
-Tonic immobility (TI) is the late, passive end of the defence cascade: a reflexive inability to move or call out under inescapable threat, distinct from the brief, attentive *freezing* that comes earlier, though clinical and lay writing often calls TI "freezing". For the Unfinishable Map it looks like a natural experiment in awareness with the motor channel closed, a waking relative of locked-in syndrome and sleep paralysis. The evidence supports less: awareness during TI is known only from reports given minutes to decades afterwards, and the field's main scale asks nothing about it. The cascade literature is itself divided: one clinical review suggests, hedged with "presumably", that human victims "typically retain a vivid memory of the event", while shutdown models predict that awareness dims as the shutdown deepens.
+Tonic immobility (TI) is a late, passive stage of the defence cascade: a reflexive inability to move or call out under inescapable threat, distinct from the brief, attentive *freezing* that comes earlier, though clinical and lay writing often calls TI "freezing". For the Unfinishable Map it looks like a natural experiment in awareness with the motor channel closed, a waking relative of locked-in syndrome and sleep paralysis. The evidence supports less: awareness during TI is known only from reports given minutes to decades afterwards, and the field's first scale asks about detachment but not whether the event was perceived or remembered. The cascade literature is itself divided: one clinical review suggests, hedged with "presumably", that human victims "typically retain a vivid memory of the event", while shutdown models predict that awareness dims as the shutdown deepens.
 
-The cascade predicts the shutdown, its triggers and its circuitry with no experiential term. The Map's description of TI as a closed output arm with the input arm partly open is therefore a fit, not evidence. The weakness of the first-person record, set out under [how the reports are collected](#collection) (explained below), cuts against that reading as much as for it. TI shows that awareness is not sufficient for action against an active motor inhibition, and nothing about whether awareness is causally idle when the channel is open.
+The cascade predicts the shutdown, its triggers and its circuitry with no experiential term. The Map's description of TI as a closed output arm with the input arm partly open is therefore a fit, not evidence. The weakness of the first-person record, set out under [how the reports are collected](#collection) (explained below), cuts against that reading as much as for it. Where awareness does persist, TI shows only that it is not sufficient for action against an active motor inhibition, and nothing about whether it is causally idle when the channel is open.
 
 ## Two Immobilities {#two-immobilities}
 
@@ -58,13 +59,13 @@ The distinction matters because awareness is measured in one and barely in the o
 
 Everything known about awareness during human TI comes from report given afterwards. Motor and vocal inability is the best-attested element. Kozlowska et al. write that human TI "appears to present as a loss of the ability to move or call out", and list what victims describe: "fear, immobility, coldness, numbness and analgesia, uncontrollable shaking, eye closure, and dissociation". The closure is not total: the STOP, a scale for TI that recurs after trauma, keeps the item "I am still able to move my eyes" (Lloyd et al. 2019).
 
-On memory, Kozlowska et al. add a hedged claim: "What is (presumably) different is that human victims also typically retain a vivid memory of the event." The shutdown models point the other way. In Schauer and Elbert's model, as summarised by Schalinski et al. (2015), the shutdown "consists of functional sensory deafferentation, motor paralysis, alterations of the consciousness, and loss of speech perception and production", ending in "shutdown of physiological arousal and memory functions". The STOP keeps an amnesia item, "I have difficulty remembering the experience", and Lloyd et al. write that "The final stages in the defense cascade, beyond TI, are thought to result in eventual loss of consciousness."
+On memory, Kozlowska et al. add a hedged claim: "What is (presumably) different is that human victims also typically retain a vivid memory of the event." Other accounts describe dimming. Lloyd et al. write that dissociating the body from conscious awareness "is inherent to TI", and the STOP keeps an amnesia item, "I have difficulty remembering the experience". In Schauer and Elbert's shutdown model, as summarised by Schalinski et al. (2015), fright, the stage they equate with TI, gives way to flag and faint, whose dissociative responding "consists of functional sensory deafferentation, motor paralysis, alterations of the consciousness, and loss of speech perception and production"; the summary table lists "shutdown of physiological arousal and memory functions" at that end. Lloyd et al. likewise write that "The final stages in the defense cascade, beyond TI, are thought to result in eventual loss of consciousness."
 
-First-person accounts sit between the two. Gbahabo and Duma (2021) interviewed 14 women within twelve weeks of rape. One said, "I just became like a log of wood, it felt like I was paralyzed all over my body." The authors group accounts under a theme they label "TI as Mental Paralysis" ("I could not think; I was lying there powerless; I became numb"). Others include "It felt like I was dreaming" and intention without movement: "I wanted to stand up and run, but my legs were numb and heavy".
+First-person accounts sit between the two. Gbahabo and Duma (2021) interviewed 14 women within twelve weeks of rape. One said, "I just became like a log of wood, it felt like I was paralyzed all over my body." The authors group accounts under a theme they label "Tonic Immobility as Mental Paralysis" ("I could not think; I was lying there powerless; I became numb"). Others include "It felt like I was dreaming" and intention without movement: "I wanted to stand up and run, but my legs were numb and heavy".
 
 Pain is reported but not isolated. In animals the antinociception elicited during TI is opioid-mediated (Kozlowska et al. 2015), but the Tonic Immobility Scale's pain item merges two things: "Rate the degree to which you felt numb or no pain during the event." A search of Crossref, PubMed and Europe PMC with four web searches in October 2026, reading eight full texts and about eighteen abstracts, found no human measure of pain during TI separate from numbness, and some of Gbahabo and Duma's participants "felt pain".
 
-TI overlaps heavily with clinical dissociation (depersonalisation, derealisation, amnesia), as distinct from the dissociation of capacities treated in [logic-of-dissociation-inference](/topics/logic-of-dissociation-inference/). Abrams et al. (2009) found that "peritraumatic dissociation scores alone accounted for 51% of the variance in TI scores". Lloyd et al.'s hypothesis that dissociating the body from conscious awareness "can function as an adaptive strategy under imminent threat (e.g., reduced pain)" is a claim about relief in the moment, the [sense of "protective"](/topics/peritraumatic-dissociation/#four-senses) for which tests on peritraumatic dissociation have found no relief.
+TI overlaps heavily with clinical dissociation (depersonalisation, derealisation, amnesia), as distinct from the dissociation of capacities treated in [logic-of-dissociation-inference](/topics/logic-of-dissociation-inference/). Abrams et al. (2009) found that "peritraumatic dissociation scores alone accounted for 51% of the variance in TI scores". Lloyd et al.'s further hypothesis that such bodily dissociation "can function as an adaptive strategy under imminent threat (e.g., reduced pain)" is a claim about relief in the moment, the [sense of "protective"](/topics/peritraumatic-dissociation/#four-senses) for which tests on peritraumatic dissociation have found no relief.
 
 The motor closure is well attested. The awareness beside it is described as vivid, detached, dreamlike or thought-stopped, and it is the least measured element in the literature.
 
@@ -76,17 +77,17 @@ Answering presupposes remembering. Episodes lost to dense amnesia or collapse ca
 
 The interval between event and report runs from weeks in interview studies (Gbahabo & Duma 2021) to years or decades in a study of childhood sexual abuse (Heidt et al. 2005). Roelofs (2017) states the consequence: "the only studies in which freezing was actually linked to development of anxiety disorders such as post-traumatic stress disorder were based on retrospective self-reports of immobility during trauma". Her word is "freezing", but the studies she cites there measure TI.
 
-The one route near the moment is laboratory re-elicitation. When trauma-exposed participants heard a script of their own trauma, "Reports of script-induced immobility were associated with restricted area of body sway", and with accelerated heart rate, "implying that tonic immobility is preserved in humans as an involuntary defensive strategy" (Volchan et al. 2011). The motor report is thus checked objectively minutes after a re-elicited state, but the questionnaire in that group's paradigm has four items, all motor: "(i) froze or paralyzed; (ii) unable to move; (iii) unable to call out or scream, and (iv) unable to escape" (Norte et al. 2019). Recurrence makes such measurement possible: among 184 patients with chronic PTSD, 35.3% reported moderate and 37.0% extreme TI while re-experiencing the trauma (de Kleine et al. 2018).
+The one route near the moment is laboratory re-elicitation. When trauma-exposed participants heard a script of their own trauma, "Reports of script-induced immobility were associated with restricted area of body sway", and with accelerated heart rate, "implying that tonic immobility is preserved in humans as an involuntary defensive strategy" (Volchan et al. 2011). The motor report, given minutes after a re-elicited state, is thus checked against an objective measure, but the questionnaire in that group's paradigm has four items, all motor: "(i) froze or paralyzed; (ii) unable to move; (iii) unable to call out or scream, and (iv) unable to escape" (Norte et al. 2019). Recurrence makes such measurement possible: among 184 patients with chronic PTSD, 35.3% reported moderate and 37.0% extreme TI while re-experiencing the trauma (de Kleine et al. 2018).
 
-This is the peritraumatic literature's problem of [measuring a state after the fact](/topics/peritraumatic-dissociation/#after-the-fact) in a sharper form. For TI the motor half has an objective check, so the asymmetry is starker: the closure is measured, the awareness that accompanies it is not.
+This is the peritraumatic literature's problem of [measuring a state after the fact](/topics/peritraumatic-dissociation/#after-the-fact), sharpened: for TI the motor half has an objective check, so the closure is measured and the awareness beside it is not.
 
 ## What the Cascade Predicts {#cascade}
 
-The defence-cascade account treats TI as an evolved, reflexive defence of last resort, "a shutdown response mediated by phylogenetically old areas of the brain that appear to activate only when newer structures such as the amygdala are deactivated" (Kozlowska et al. 2015). Its triggers are fear with restraint or inescapability; in 176 undergraduates, "tonic immobility fully mediated relations between perceived inescapability and overall PTSD symptom severity" (Bovin et al. 2008), a statistical mediation in a cross-sectional design.
+The defence-cascade account treats TI as an evolved, reflexive defence of last resort, "a shutdown response mediated by phylogenetically old areas of the brain that appear to activate only when newer structures such as the amygdala are deactivated" (Kozlowska et al. 2015). Its triggers are fear with restraint or inescapability; among 176 female undergraduate survivors of sexual assault, "tonic immobility fully mediated relations between perceived inescapability and overall PTSD symptom severity" (Bovin et al. 2008), a statistical mediation in a cross-sectional design.
 
 The physiology is disputed. Volchan et al. (2017) report that TI, unlike other human immobility reactions, "presents robust tachycardia"; Lloyd et al. note another body of evidence associating it with bradycardia; and Roelofs writes that "physical features of tonic immobility remain largely unclear and are often contradictory".
 
-None of this requires an experiential term. The model predicts trigger, circuitry and motor closure from brain states alone, and continued cortical processing during a brainstem-mediated inhibition is what a production view of consciousness predicts too. None of the authors cited here argues for or against dualism; that observation is the Map's, about the models.
+None of this requires an experiential term. The model predicts trigger, circuitry and motor closure without one, and continued cortical processing during a brainstem-mediated inhibition is what a production view of consciousness predicts too. None of the authors cited here argues for or against dualism; that observation is the Map's, about the models.
 
 Kozlowska et al. describe TI in taxa from insects to mammals, and also report it in animals without a cerebrum. The taxonomic breadth alone makes immobility a poor marker of experience, so TI raises no animal's standing on the Map's [sentience scale](/topics/birch-edge-of-sentience-and-the-five-tier-scale/#five-tier-scale), and the Map does not adopt Kozlowska et al.'s view that human experience in TI "parallels that of animals".
 
@@ -94,7 +95,7 @@ Because the response is reflexive and involuntary, immobility during an assault 
 
 ## A Family of Closed Channels {#family}
 
-TI joins a family of cases in which awareness is reported while motor output is unavailable.
+TI joins a family of cases in which awareness is reported while motor output is unavailable, with freezing as the contrast.
 
 | Case | How output is lost | Duration | When awareness is reported |
 |---|---|---|---|
@@ -102,21 +103,21 @@ TI joins a family of cases in which awareness is reported while motor output is 
 | Sleep paralysis | REM atonia outlasting arousal | seconds to minutes | immediately afterwards |
 | Neuromuscular blockade | drug at the neuromuscular junction | the procedure | afterwards, sometimes much later |
 | Freezing | parasympathetic brake, not paralysis | seconds | concurrently, by task performance |
-| Tonic immobility | reflexive brainstem motor inhibition | not measured in humans | weeks to decades later, by scale or interview |
+| Tonic immobility | reflexive brainstem motor inhibition | no human data found | minutes (re-elicited) to decades later, by scale or interview |
 
 The family serves comparison, not counting. [Locked-in syndrome](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/) is a chronic lesion state that allows concurrent report. [Sleep paralysis](/topics/sleep-paralysis-and-interface-reassembly/) is an atonia at a state boundary, recalled at once. Neuromuscular blockade ([anesthesia-void](/voids/anesthesia-void/)) acts at the junction. TI is a reflexive, time-limited state in an intact nervous system, recalled late. On the Map's reading all four are views of one architecture, the [two arms of the interface](/topics/locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply/#the-two-arms-of-the-interface), so counting them as independent confirmations would inflate the case, as the [common-cause-null](/project/common-cause-null/) warns. TI is also the weakest test of the two arms, because its awareness side is the least directly observed.
 
 ## What Would Decide the Awareness Question {#test}
 
-The October 2026 search noted under [What Survivors Report](#reports) found no study that probes perception or awareness during TI itself. Yet Lojowska et al. tested perception during freezing, and re-elicitation already produces TI in the laboratory with objective motor measures. A perceptual discrimination or near-threshold detection task during reported TI, compared with the same task during freezing, would separate the two pictures. The shutdown models predict degraded perception; the vivid-memory picture predicts preserved perception.
+The October 2026 search noted under [What Survivors Report](#reports) found no study that probes perception or awareness during TI itself. Yet Lojowska et al. tested perception during freezing, and re-elicitation already produces TI in the laboratory with objective motor measures. A perceptual discrimination or near-threshold detection task during reported TI, compared with the same task during freezing, would separate the two pictures. Because TI blocks movement, responses would need a channel it spares, such as the eye movements the STOP keeps. Accounts of dimming predict degraded perception; the vivid-memory picture predicts preserved perception.
 
-Either result would settle the awareness half of the picture, not the metaphysics, since interface and production readings can both accommodate it. Ethics rule out inducing the real event, so only re-elicited TI can be studied this way.
+Ethics rule out inducing the real event, so only re-elicited TI can be studied this way. Either result would bear on the awareness half of the picture, not the metaphysics, since interface and production readings can both accommodate it.
 
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: compatible with, not evidence for. An interface reading and a production view both expect reports of awareness with motor output closed, so TI decides nothing about whether consciousness is reducible to physical processes.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: because the cascade needs no experiential term, the Map's reading of TI as a closed output arm is a fit, not evidence. That awareness persists while action is blocked shows only that awareness is not sufficient for action against an active motor inhibition; it is silent on whether awareness contributes when the channel is open. The Map rejects [epiphenomenalism](/concepts/epiphenomenalism/), and TI gives it no support. The converse argument fails too. That an appraisal of inescapability precedes TI does not show consciousness causing it, because Bovin et al.'s mediation is cross-sectional and on the rival account the appraisal is itself a brain state.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: because the cascade needs no experiential term, the Map's reading of TI as a closed output arm is a fit, not evidence. Where awareness persists while action is blocked, that shows only that awareness is not sufficient for action against an active motor inhibition; it is silent on whether awareness contributes when the channel is open. The Map rejects [epiphenomenalism](/concepts/epiphenomenalism/), and TI gives it no support. The converse argument fails too. That an appraisal of inescapability precedes TI does not show consciousness causing it, because Bovin et al.'s mediation is cross-sectional and on the rival account the appraisal is itself a brain state.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** and **[No Many Worlds](/tenets/#no-many-worlds)**: not engaged.
 
