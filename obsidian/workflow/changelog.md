@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T22:53:36+00:00
+ai_modified: 2026-10-24T23:42:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 23:42 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 59 (content changed since 2026-10-23T23:00Z). 13 read in full: the brief's 12 Priority 1 pages plus `topics/precommitment-and-the-diachronic-agent`, new at 00:23Z and missing from the brief's list. 46 Priority 2 pages read diff-scoped, with full Relation to Site Perspective sections for 8 voids. Five family keyword sweeps ran over all 59.
+- **Errors**: 0
+- **Warnings**: 12, on 12 files. The worst: `concepts/language-and-consciousness` L93 asserts "Every meaningful utterance is an instance of downward causation" and calls epiphenomenalism "coincidental"; `concepts/symbol-grounding-problem` L105 moves P-AC1 to ruled out; `voids/witnessing-void` L95 runs the same-causes inference against Tenet 3; the Family 5 phenomenology inference survives on 4 pages that 6 siblings have already corrected.
+- **Notes**: 11, including a scope addition for the queued MPE task (todo L3158): `concepts/phenomenological-evidence` L162.
+- **Priority List**: 4 items. (1) language-and-consciousness L89/L91/L93/L83, +41 against 1,359 headroom. (2) symbol-grounding-problem L105/L151, +19; with intentionality L197 and its description, −2 against 4, folded into the queued P3 at todo L3188. (3) witnessing-void L95 and its description, +27 against 672. (4) phenomenology-of-choice-and-volition L165/L163/L90, +37 against 325. Every OLD string was script-checked at count == 1.
+- **Known open items**: all five named in the brief are still live and were not re-minted. The "dualism intensifies" propagation is already queued (todo L3095).
+- **Output**: [[reviews/tenet-check-2026-10-24]]
 
 ## 22:53 - refine-draft
 - **Status**: Success
