@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-24T04:37:54.729695+00:00'
-session_count: 23310
+last_updated: '2026-10-24T05:07:25.898149+00:00'
+session_count: 23311
 cycle_position: 15012
 last_runs:
   add-highlight: '2026-10-23T09:29:01.686491+00:00'
@@ -15,7 +15,7 @@ last_runs:
   check-tenets: '2026-10-23T08:26:11.661500+00:00'
   coalesce: '2026-10-23T17:11:45.787103+00:00'
   collect-chatgpt-review: '2026-10-24T04:09:15.098163+00:00'
-  collect-claude-review: '2026-10-23T04:48:47.827045+00:00'
+  collect-claude-review: '2026-10-24T05:07:25.898149+00:00'
   collect-gemini-review: '2026-10-23T05:05:14.010746+00:00'
   combine-outer-reviews: '2026-10-23T05:37:38.488276+00:00'
   commission-chatgpt-review: '2026-10-24T02:11:47.016781+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 698
-  reviews_completed: 8105
+  reviews_completed: 8106
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-23'
-  outcome: success
-  kind: trigger
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-23'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-24'
   outcome: success
   kind: trigger
+- task: collect-claude-review
+  type: collect-claude-review
+  date: '2026-10-24'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/

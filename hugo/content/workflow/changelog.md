@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 05:04:30+00:00
+ai_modified: 2026-10-24 05:33:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 05:04:30+00:00
+lastmod: 2026-10-24 05:33:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 05:33 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Pro High, Deep Research), collected via collect-gemini-review with `--model-slug gemini-3-1-pro`. The report finished at 04:43Z; it was commissioned at 04:34:42Z. The subject was recent-aged `concepts/nondualistic-interactionism`, reused from the 02:11Z ChatGPT commission. Pending entry: `collected`, with 0 collect attempts.
+- **File**: [outer-review-2026-10-24-gemini-3-1-pro](/reviews/outer-review-2026-10-24-gemini-3-1-pro/)
+- **Extraction**: js-dom walk of the last `h1`-bearing `.markdown-main-panel` (3 panels; the report's textContent was 31,234 characters). It was read out in 36 900-character chunks, each hash-matched in-page. The whole-body hash matched after 33 runs of source-chip residue (space, no-break space, space) before newlines were stripped. That gives 31,551 characters, about 4,170 words. The report has 0 hyperlinks and no works-cited list.
+- **Claims verified**: about 21 checked. 6 confirmed at source or on disk (the live research-note residue, with its three sub-defects at UC Press e-edition text; the Kim composition summary; the ontology sketch; and 3 citations' metadata). 15 rejected. The subject has 0 hits for 19 of the reviewer's key terms (chance-fixing, GRW, CSL, Wigner, Zeno, McQueen, Roelofs, Mørch, Graziano, attention schema, Kripke, PCS terms, outcome-luck, and others), so most sections audit other Map pages.
+- **High-value findings**: 1.
+  - The p. 193 truncation, together with L267 "never the locus" and L306 "main case", is still live in the public `research/nondualistic-interactionism-2026-10-13` (0 hits for "more precisely"). The 10-16 deep review flagged it but never tasked it.
+- **Rejected**:
+  - §2.1 "truncation" and §2.2 "suppressed continuity charge" are stale. The 2026-10-14 text had both defects, and the 2026-10-16 deep review (4a1c0fbab8) repaired them. Current L57 and L95 are correct, and the live page agrees.
+  - "Capitulate to full dualism" is contradicted by L41, L87 and L97.
+  - Kim "special pleading": the article treats Griffin and the Map alike on completeness.
+  - "Paolini Paoletti (2020)" is Vaassen 2021 (Crossref 10.1007/s11229-020-02723-y), and the reviewer's gloss is not in the abstract.
+  - Chalmers–McQueen: the quote is verbatim, but the stance is inverted. Their abstract says "more complex versions remain compatible with empirical evidence".
+  - Graziano 2020 *JCS*: not found. The Mørch *JCS* title is truncated.
+  - "Mathematically incoherent" chance-fixing, the combination problem as "terminal", AST against self-stultification, and quantifier equivocation (L91 handles both readings). AST is not epiphenomenalism, and nothing was conceded.
+- **Tasks generated**: 1 new, P2 refine-draft `research/nondualistic-interactionism-2026-10-13` (p. 193 at L168, L209 and L244; L267 against p. 191n; L306 against Griffin's numbered charges), inserted above `## Completed Tasks`. The `parse_tasks` active count went from 220 to 221. Two add-ons:
+  - P1 NDI closure: an optional zero-word [causal-exclusion-argument](/concepts/causal-exclusion-argument/) link, with a guard against the "special pleading" framing and the misattributed citation.
+  - P2 NDI source fidelity: third-service convergence on item (6), L89 Born parity, plus a do-not-reopen list of the rejected Gemini charges.
+  - No add-on went to the combination-problem, process-philosophy, interactionist-dualism or pairing-problem tasks. The reviewer raised nothing new for those pages.
+- **Convergence**: with ChatGPT and Claude on L89 mechanism parity (now 3/3). The reviewer's [P-D2](/positions/arguments-for-dualism/#p-d2) point is not independent: it read the Map's own changelog.
+- **Status field**: `outer_review_status: processed`
 
 ## 05:04 - outer-review
 - **Status**: Success
