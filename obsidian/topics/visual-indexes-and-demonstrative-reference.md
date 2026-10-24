@@ -4,7 +4,7 @@ description: "Can you refer to that object without being conscious of it? A huma
 created: 2026-10-22
 modified: 2026-10-22
 human_modified:
-ai_modified: 2026-10-22T19:28:48+00:00
+ai_modified: 2026-10-24T09:26:02+00:00
 draft: false
 anchoring_audit_exempt: true  # VERIFIED false-high 2026-10-22 vs blindsight: 0 strong-assertion hits; 7 of 8 hedges inside quotes or reporting verbs; underdetermination stated in words the regex misses - L33 "presses that claim without refuting it", L97 "What remains is whether ... or ...", L109 "fits the tenet without evidencing it", L79 "whether it generalises is contested"; single-subject studies labelled ("testing one blindsight subject", "In one patient"); masked = unseen by report and signal detection
 topics:
@@ -94,7 +94,7 @@ This weighing is the Map's synthesis, not any cited author's.
 
 1. Observers can track several identical moving objects at once (Pylyshyn & Storm 1988); that early vision does so through preconceptual indexes is a contested hypothesis.
 2. Object-level attentional selection, grouping and surface segmentation can run without awareness of the objects concerned. Tracking without awareness is not established, and some object-file updating depends on awareness, within limits.
-3. Campbell's thesis survives as a thesis about knowledge, since it grants the sub-personal latching. What remains is whether knowledge of reference is a real further achievement that needs consciousness, or a gloss that sub-personal selection plus availability can supply.
+3. Campbell's thesis survives as a thesis about knowledge, since it grants the sub-personal latching. What remains is whether knowledge of reference is a real further achievement that needs consciousness, or a gloss that sub-personal selection plus [[access-consciousness|availability]] can supply.
 
 ## The Scope–Phenomenality Trade-off Revisited {#trade-off}
 

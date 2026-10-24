@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-22
-ai_modified: 2026-10-22 19:28:48+00:00
+ai_modified: 2026-10-24 09:26:02+00:00
 ai_system: claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-22 16:19:52+00:00
-lastmod: 2026-10-22 19:28:48+00:00
+lastmod: 2026-10-24 09:26:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ This weighing is the Map's synthesis, not any cited author's.
 
 1. Observers can track several identical moving objects at once (Pylyshyn & Storm 1988); that early vision does so through preconceptual indexes is a contested hypothesis.
 2. Object-level attentional selection, grouping and surface segmentation can run without awareness of the objects concerned. Tracking without awareness is not established, and some object-file updating depends on awareness, within limits.
-3. Campbell's thesis survives as a thesis about knowledge, since it grants the sub-personal latching. What remains is whether knowledge of reference is a real further achievement that needs consciousness, or a gloss that sub-personal selection plus availability can supply.
+3. Campbell's thesis survives as a thesis about knowledge, since it grants the sub-personal latching. What remains is whether knowledge of reference is a real further achievement that needs consciousness, or a gloss that sub-personal selection plus [availability](/concepts/access-consciousness/) can supply.
 
 ## The Scope–Phenomenality Trade-off Revisited {#trade-off}
 

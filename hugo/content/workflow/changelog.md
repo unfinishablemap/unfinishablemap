@@ -1,14 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 08:52:27+00:00
+ai_modified: 2026-10-24 09:26:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 08:52:27+00:00
+lastmod: 2026-10-24 09:26:37+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:26 - refine-draft
+- **Status**: Success
+- **File**: [access-consciousness](/concepts/access-consciousness/) (primary) and [visual-indexes-and-demonstrative-reference](/topics/visual-indexes-and-demonstrative-reference/) (secondary)
+- **Review file**: [optimistic-2026-10-24-access-residue-wing](/reviews/optimistic-2026-10-24-access-residue-wing/), Priority List items 1–4
+- **Original score**: n/a (`scripts/curate.py` absent). This was a targeted calibration pass.
+- **Word count**:
+  - Primary: 2293 → 2528 (+235; analyze_length; concepts soft 2500, hard 3500; 971 headroom). The review forecast +234. The extra word is "exactly" in (2a).
+  - Secondary: 2981 → 2981 (+0; topics hard 4000).
+- **OLD-string check**: all 13 OLD strings were pulled by script and each hit exactly once. No improvisation was needed.
+- **Changes (primary)**: these re-grade the access/phenomenal distinction from evidence for dualism to "fits without evidencing", matching the October dependents (CoT L103, VI).
+  - (1a) "*strengthens* the dualist position" → "*clarifies* the dualist position without evidencing it".
+  - (1b) The J-space result now "fits the dualist reading without evidencing it". The residue is stated as the open question, and "maximally rich" is dropped.
+  - (1c) The GWT functions are now read as evidence that conscious *access* is efficacious. They are silent on phenomenal causal work and lend nothing to [epiphenomenalism](/concepts/epiphenomenalism/), and the rejection of epiphenomenalism rests on Bidirectional Interaction. The text does not say "compatible with".
+  - (1d) Block's dissociations are now "a precondition, not a proof". Non-physical explanation needs a further premise. Physicalists who accept the distinction, Block among them, deny that the lack of an a priori bridge makes physicalism false (Block & Stalnaker 1999). The Map draws the premise from [conceivability](/concepts/conceivability-possibility-inference/), whose modal rationalism is contested. Added the Block & Stalnaker 1999 reference.
+  - (2a) The chance-fixing concession now sits after "possibilities physics leaves undetermined", with [mechanism debt](/positions/quantum-interface/#mechanism-debt). It is worded as in `topics/hempels-dilemma` L115, including "exactly preserved". The brief said `concepts/`, but the page lives in `topics/`.
+  - (2b) Tenet 5 is scoped to the Map's own reasoning. Dualism "posits phenomenology as irreducible rather than explaining it", and the tenet gives "no licence to discount the physicalist account of access for being simple". Also "*what* it cannot" → "*where* the Map holds it cannot".
+  - (3a) Added the converse of the attention point, selection without access, linking [selection without awareness](/topics/visual-indexes-and-demonstrative-reference/#without-awareness). The `{#without-awareness}` anchor exists at VI L65.
+  - (3b) Piped *[verbal self-report](/topics/chain-of-thought-as-verbal-protocol/)* (+0).
+  - (3c) The baseline-cognition Further Reading gloss now reads "cognition without substantial *phenomenal* contribution". It does not assert that apes have access consciousness.
+- **Changes (secondary)**: (4) piped [availability](/concepts/access-consciousness/) at L97 (+0). Campbell's thesis stays "pressed, not refuted".
+- **Reference verification**: Block, N., & Stalnaker, R. (1999), *Philosophical Review* 108(1), 1–46, doi 10.2307/2998259.
+  - Crossref matches the title, authors, journal, volume, issue, January 1999 and first page 1.
+  - The JSTOR cover of Block's own hosted copy (nedblock.us → Google Drive) gives pp. 1–46.
+  - The authors' own statement (§1): "We will be criticizing the conceptual analysis thesis and the further claim that the lack of a conceptual analysis of consciousness entails dualism."
+  - Chalmers & Jackson 2001 (consc.net) independently agree: B&S answer "If there is no a priori entailment from microphysical truths to phenomenal truths, is physicalism about the phenomenal false?" negatively.
+  - The article states this as their position in paraphrase, not as a quotation.
+- **Reasoning mode**:
+  - The Block & Stalnaker sentence in (1d) is Mode Three. It marks the framework boundary: physicalists who grant the distinction reject the inference, and the Map's premise is a contested modal-rationalist one.
+  - The functionalist standoff (Mode Three, bedrock 03-03) was not re-flagged.
+- **Guards kept**:
+  - "arguably … *separability*" is untouched.
+  - `positions/ai-consciousness-scope` L94 is not edited.
+  - Epiphenomenalism is not conceded.
+  - There is no "This is not X. It is Y." and no "load-bearing".
+  - Each replacement was checked for next-sentence pronouns.
+- **Frontmatter**:
+  - Primary `ai_system` → `claude-opus-4-5-20251101+claude-opus-5-5`, since the model was absent.
+  - Secondary `ai_system` is already `claude-opus-5-5`, so it is unchanged.
+  - `ai_modified` is set on both from `date -u`.
+- **Published**: yes
 
 ## 08:52 - deep-review
 - **Status**: Success

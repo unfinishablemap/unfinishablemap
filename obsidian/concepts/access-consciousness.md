@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-10-24T09:26:02+00:00
 draft: false
 last_deep_review: 2026-07-25T11:05:44+00:00
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 ai_generated_date: 2026-01-22
 last_curated: null
 ---
@@ -54,11 +54,11 @@ Block's 1995 paper "On a Confusion about a Function of Consciousness" argued tha
 
 **For consciousness science**: [[global-workspace-theory|Global Workspace Theory]] explains when information becomes A-conscious (global broadcast) but not why broadcast feels like anything. The theory succeeds at access while leaving the [[hard-problem-of-consciousness|hard problem]] untouched.
 
-**For dualism**: Acknowledging A-consciousness *strengthens* the dualist position. Physicalism can explain access-mechanisms; what remains inexplicable is why globally broadcast information feels like anything. The [[explanatory-gap|explanatory gap]] persists even after we understand access.
+**For dualism**: Acknowledging A-consciousness *clarifies* the dualist position without evidencing it. Physicalism can explain access-mechanisms; what remains inexplicable is why globally broadcast information feels like anything. The [[explanatory-gap|explanatory gap]] persists even after we understand access.
 
 **For AI consciousness**: Systems might be A-conscious without being P-conscious. If consciousness involves irreducible phenomenal properties, functional similarity doesn't guarantee phenomenology. The [[ai-consciousness-typology|AI consciousness typology]] maps this space systematically, distinguishing null, simulated, functional, borrowed, epiphenomenal, and alien phenomenality. See [[ai-consciousness]] and [[types-of-consciousness]] for the full structural taxonomy of how consciousness types can dissociate.
 
-**A 2026 empirical instance**: Anthropic's *J-space* result gives Block's distinction a concrete test case in a working system. Using a "Jacobian lens," interpretability researchers (Gurnee et al.) isolated a small, emergent subspace of a language model's activations that is verbally reportable, can be deliberately held or suppressed on instruction, and causally drives multi-step reasoning—a functional [[global-workspace-theory#a-computational-global-workspace-anthropics-j-space-2026|global workspace]] exhibiting the workspace-like functional signatures of A-consciousness. What those signatures show must be stated narrowly: they evidence *global availability* and *verbal self-report*, held apart from metacognition, agency, and recurrent integration, none of which the result by itself establishes. Yet the authors explicitly take no position on whether any of this involves [[phenomenal-consciousness|phenomenal consciousness]], noting that access consciousness "is a purely functional notion" whose relationship to subjective experience "is widely debated." This is arguably the strongest empirical case to date for the *separability* of the two in a real system: the workspace-like functional signatures of the access-machinery are instantiated computationally, while the experiential question stays open—phenomenal consciousness is not shown to be absent, it is simply left untouched. For the Map the result confirms rather than threatens the dualist reading—access is precisely what physicalism can build, and phenomenal consciousness is the residue that even a maximally rich functional workspace leaves untouched.
+**A 2026 empirical instance**: Anthropic's *J-space* result gives Block's distinction a concrete test case in a working system. Using a "Jacobian lens," interpretability researchers (Gurnee et al.) isolated a small, emergent subspace of a language model's activations that is verbally reportable, can be deliberately held or suppressed on instruction, and causally drives multi-step reasoning—a functional [[global-workspace-theory#a-computational-global-workspace-anthropics-j-space-2026|global workspace]] exhibiting the workspace-like functional signatures of A-consciousness. What those signatures show must be stated narrowly: they evidence *global availability* and *[[chain-of-thought-as-verbal-protocol|verbal self-report]]*, held apart from metacognition, agency, and recurrent integration, none of which the result by itself establishes. Yet the authors explicitly take no position on whether any of this involves [[phenomenal-consciousness|phenomenal consciousness]], noting that access consciousness "is a purely functional notion" whose relationship to subjective experience "is widely debated." This is arguably the strongest empirical case to date for the *separability* of the two in a real system: the workspace-like functional signatures of the access-machinery are instantiated computationally, while the experiential question stays open—phenomenal consciousness is not shown to be absent, it is simply left untouched. For the Map the result fits the dualist reading without evidencing it: access is precisely what physicalism can build, and whether phenomenal consciousness is a residue that no functional workspace reaches is the question the result leaves open.
 
 ## Dissociations: Access Without Phenomenology, Phenomenology Without Access {#dissociations}
 
@@ -68,7 +68,7 @@ Block argues A-consciousness and P-consciousness can dissociate in both directio
 
 Blindsight patients have cortical damage causing a blind spot—they report seeing nothing yet can "guess" stimulus properties with above-chance accuracy. This involves *some* information reaching cognitive systems but not full global access.
 
-**Contested interpretations**: Functionalists argue blindsight shows degraded phenomenology matching degraded access—no dissociation to explain, since "access without phenomenology" presupposes phenomenology is something beyond functional access. The Map reads blindsight as minimal or absent P-consciousness despite partial access, supporting the claim that access and phenomenology are distinct. See [[philosophical-zombies]] for whether such dissociation is metaphysically possible. The [[conscious-vs-unconscious-processing|conscious vs unconscious processing]] literature provides complementary evidence: Streicher et al.'s 2025 reanalysis of 80 experimental conditions across 16 fMRI studies found that only 8 conditions (10%) provided genuine evidence for unconscious processing once the sensitivities of the conscious and unconscious measures were directly compared. Separately, Global Workspace Theory identifies three functions for which conscious access appears to play a central role—durable maintenance, novel combinations, and spontaneous intentional action—which the Map reads as evidence that consciousness is functionally efficacious rather than epiphenomenal. Nartker et al. (2025) add nuance: "inattentionally blind" participants retain residual visual sensitivity to stimuli they deny noticing, blurring the boundary between conscious and unconscious access.
+**Contested interpretations**: Functionalists argue blindsight shows degraded phenomenology matching degraded access—no dissociation to explain, since "access without phenomenology" presupposes phenomenology is something beyond functional access. The Map reads blindsight as minimal or absent P-consciousness despite partial access, supporting the claim that access and phenomenology are distinct. See [[philosophical-zombies]] for whether such dissociation is metaphysically possible. The [[conscious-vs-unconscious-processing|conscious vs unconscious processing]] literature provides complementary evidence: Streicher et al.'s 2025 reanalysis of 80 experimental conditions across 16 fMRI studies found that only 8 conditions (10%) provided genuine evidence for unconscious processing once the sensitivities of the conscious and unconscious measures were directly compared. Separately, Global Workspace Theory identifies three functions for which conscious access appears to play a central role—durable maintenance, novel combinations, and spontaneous intentional action—which the Map reads as evidence that conscious access is functionally efficacious. These are functions of access, which Block warns against transferring to phenomenal consciousness, so they are silent on whether phenomenal character does causal work: they lend nothing to [[epiphenomenalism]], and the Map's rejection of it rests on [[tenets#^bidirectional-interaction|Bidirectional Interaction]], not on these data. Nartker et al. (2025) add nuance: "inattentionally blind" participants retain residual visual sensitivity to stimuli they deny noticing, blurring the boundary between conscious and unconscious access.
 
 ### The Overflow Argument: Phenomenology Without Full Access
 
@@ -90,7 +90,7 @@ This connects to [[cognitive-phenomenology]]—whether thinking has experiential
 
 ## The Role of Attention {#attention}
 
-[[attention-as-interface|Attention]] is the mechanism that *selects* what enters the global workspace; A-consciousness is the state of being in the workspace. Attended information typically becomes A-conscious; inattentional blindness shows unattended information may not reach full access.
+[[attention-as-interface|Attention]] is the mechanism that *selects* what enters the global workspace; A-consciousness is the state of being in the workspace. Attended information typically becomes A-conscious; inattentional blindness shows unattended information may not reach full access. The converse also occurs: attentional selection of objects can run without the objects being reported or seen ([[visual-indexes-and-demonstrative-reference#without-awareness|selection without awareness]]), so being selected does not guarantee access.
 
 If [[phenomenal-overflow|overflow]] is real, attention selects what becomes A-conscious from a richer phenomenal field—attention doesn't create P-consciousness but determines what reaches access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 
@@ -108,7 +108,7 @@ If [[tenets#^bidirectional-interaction|consciousness causally influences the bra
 
 Access consciousness reveals what physicalism *can* explain: functional availability, information integration, global broadcast. [[global-workspace-theory|Global Workspace Theory]] succeeds at this task. What remains inexplicable is [[phenomenal-consciousness|why global broadcast feels like anything]]. By isolating A-consciousness as the functional aspect, we clarify that the [[hard-problem-of-consciousness|hard problem]] concerns P-consciousness specifically.
 
-The [[explanatory-gap|explanatory gap]] persists: neural mechanisms for access don't bridge to phenomenology. Block's dissociations strengthen dualism: if access and phenomenology can come apart, they're distinct. Blindsight suggests access without phenomenology; [[phenomenal-overflow|overflow]] suggests phenomenology exceeding access. If P-consciousness isn't reducible to A-consciousness, and A-consciousness is functionally explicable, then P-consciousness requires non-physical explanation.
+The [[explanatory-gap|explanatory gap]] persists: neural mechanisms for access don't bridge to phenomenology. Block's dissociations give dualism a precondition, not a proof: if access and phenomenology can come apart, they're distinct. Blindsight suggests access without phenomenology; [[phenomenal-overflow|overflow]] suggests phenomenology exceeding access. If P-consciousness isn't reducible to A-consciousness, and A-consciousness is functionally explicable, then no account of access alone explains consciousness. Non-physical explanation needs a further premise. Physicalists who accept the distinction, Block among them, deny that the lack of an a priori bridge from physical to phenomenal truths makes physicalism false (Block & Stalnaker 1999). The Map draws the premise from arguments such as [[conceivability-possibility-inference|conceivability]], whose modal rationalism is contested.
 
 ### Bidirectional Interaction
 
@@ -116,7 +116,7 @@ If consciousness influences behavior, it must work through access mechanisms. Ph
 
 ### Minimal Quantum Interaction
 
-Access mechanisms are the "downstream" neural processes that amplify initial quantum-level interventions. Consciousness doesn't need to control the entire global workspace—only the quantum indeterminacies that determine what gets selected for broadcast. Once a pattern is selected, classical neural dynamics handle global broadcast (A-consciousness). The energy-conservation objection dissolves because no energy is injected—consciousness selects among possibilities physics leaves undetermined. See [[causal-closure#stapps-quantum-response]] and [[conservation-laws-and-mental-causation]].
+Access mechanisms are the "downstream" neural processes that amplify initial quantum-level interventions. Consciousness doesn't need to control the entire global workspace—only the quantum indeterminacies that determine what gets selected for broadcast. Once a pattern is selected, classical neural dynamics handle global broadcast (A-consciousness). The energy-conservation objection dissolves because no energy is injected—consciousness selects among possibilities physics leaves undetermined. Physics still fixes their chances, so closure stated as chance-fixing survives wherever the Born measure is exactly preserved, and whether settling an outcome without shifting its chance counts as causing it is part of the Map's open [[positions/quantum-interface#^mechanism-debt|mechanism debt]]. See [[causal-closure#stapps-quantum-response]] and [[conservation-laws-and-mental-causation]].
 
 ### No Many Worlds
 
@@ -130,7 +130,7 @@ Access consciousness is where this becomes existentially urgent. When you choose
 
 [[global-workspace-theory|Global Workspace Theory]] explains A-consciousness but leaves P-consciousness unexplained. [[integrated-information-theory|Integrated Information Theory]] attempts to address P-consciousness but faces its own difficulties. The 2025 [[global-workspace-theory#the-cogitate-experiment|COGITATE adversarial collaboration]] found neither theory fully captured the phenomena.
 
-This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physicalist theories are simpler (one substance) but struggle with consciousness. Dualism is more complex but handles both access (functional) and phenomenology (irreducible). The A-consciousness / P-consciousness distinction shows *what* physicalism can explain (access) and *what* it cannot (phenomenology).
+This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physicalist theories are simpler (one substance) but struggle with consciousness. Dualism is more complex, and it posits phenomenology as irreducible rather than explaining it. The tenet governs only the Map's own reasoning: it lets the Map doubt that economy settles the question, and gives no licence to discount the physicalist account of access for being simple. The A-consciousness / P-consciousness distinction shows *what* physicalism can explain (access) and *where* the Map holds it cannot (phenomenology).
 
 ## Further Reading
 
@@ -140,7 +140,7 @@ This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physical
 - [[attention-as-interface|Attention as interface]]—how consciousness controls what becomes accessible
 - [[stapp-quantum-mind|Stapp's quantum mind]]—mechanism for conscious selection of what gets accessed
 - [[cognitive-phenomenology|Cognitive phenomenology]]—whether thoughts have phenomenal character or are only A-conscious
-- [[baseline-cognition|Baseline cognition]]—great ape intelligence shows what's possible without full A-consciousness
+- [[baseline-cognition|Baseline cognition]]—great ape intelligence as cognition without substantial *phenomenal* contribution, which that page distinguishes from access
 - [[working-memory|Working memory]]—the capacity limit on what can be A-conscious simultaneously
 - [[degrees-of-consciousness]]—how consciousness varies along multiple dimensions, with access as one separable axis
 - [[metacognition]]—awareness of one's own cognitive states, requiring A-consciousness
@@ -148,6 +148,7 @@ This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physical
 ## References
 
 1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227-247.
+1. Block, N., & Stalnaker, R. (1999). Conceptual Analysis, Dualism, and the Explanatory Gap. *The Philosophical Review*, 108(1), 1–46. https://doi.org/10.2307/2998259
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
