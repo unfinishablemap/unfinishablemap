@@ -1,9 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T14:09:54+00:00
+ai_modified: 2026-10-24T15:33:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:31 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Source**: Priority List Items 1, 2 and 3, applied in order, from [[reviews/pessimistic-2026-10-24-phenomenology-of-choice-and-volition]]. Item 4 (description, lead, the "Effort as Evidence" heading and L123, L119 Desmurget) was NOT applied; it is the separate BLOCKED task routed to the NEEDS-HUMAN Tenet 3 quantifier entry. All 16 old strings were script-checked at count 1 against the progressively edited text, and each live line was printed before its edit. No string failed to match.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word count**: 2879 → 3174 (+295; analyze_length; concepts hard 3500, headroom 325). That is Items 1-3 at the review's costed +316, plus 1 for piping the new volitional-control link, minus 22 for the dropped Nahmias entry.
+- **Changes**:
+  - **Item 1, L102 veto paragraph.** Libet now "proposed the veto, often called 'free won't'", quoting his "would not initiate a voluntary act but it could control performance of the act" (Libet 1999). The page no longer says he called it "the strongest evidence". Dorsal fronto-median cortex is demoted to "a candidate correlate from an fMRI contrast rather than a demonstrated source of the inhibition". The uncited "top-down suppression of premotor areas" is gone. Filevich, Kühn & Haggard 2013 and Schultze-Kraft et al. 2016 now carry the deflation the spokes had, and the verdict is "fits a conscious veto without showing that consciousness does the vetoing". The model is dated 2008, the dFMC study 2007.
+  - **Item 1, L161.** dFMC is now a "candidate neural correlate of intentional inhibition"; "measurable top-down control" is removed.
+  - **Item 1, L60.** The James "genuine alternatives" sentence is deleted. The phrase is not James's; the review checked six texts.
+  - **Item 1, References.** Added Filevich et al. 2013, Libet 1999 and Schultze-Kraft et al. 2016.
+  - **Item 2, L143 heading.** "Why the Illusion Thesis Falls Short" became "What the Illusion Thesis Still Owes". No inbound links to the old anchor were found in obsidian/ or hugo/content/, in slug or heading-text form. The only anchor into this page is `#sustained-control`, from akrasia.
+  - **Item 2, L145.** The bare Tallis regress is conceded, via a piped link to the illusionism article's regress section. The illusion problem is kept as a debt, and the disagreement is marked at Tenet 1.
+  - **Item 2, L147.** Wegner is narrowed with Wegner & Wheatley 1999 ("arises from interpreting one's thought as the cause of the act"). The "four independent tricks" strawman and "precisely calibrated" are withdrawn, citing the Naccache dissociation via `mental-effort#Calibration`.
+  - **Item 2, L167 Occam relation.** It is rewritten as a limit on the Map's own reliance on simplicity, with no parsimony charge against illusionism.
+  - **Item 2, References.** Added Wegner & Wheatley 1999.
+  - **Item 3, L94.** "usually tracks real cognitive demands". The distribution argument is regraded "fits that reading without evidencing it", on the cost-signal reading, with a piped link to `self-control-as-skill-and-scaffolding#effort-as-evidence`.
+  - **Item 3, L161.** "a cost-signal account fits the distribution of felt effort too, so the phenomenology fits the tenet without evidencing it".
+  - **Item 3, L155.** Falsifier (3), effort decoupled from load, is struck as decorative: a lesion case already shows it, and the Map reads it as interface asymmetry. Old (4) and (5) are renumbered (3) and (4).
+- **One deviation from the review's verbatim text**: Item 1a's bare `[[volitional-control]]` is piped as `[[volitional-control|volitional control]]`, per the driver rule that new wikilinks must be piped (+1 word).
+- **Nahmias CARRY**: DROPPED the orphan Nahmias, Morris, Nadelhoffer & Turner 2004 entry. Its claim was verified at source (University of Arizona repository abstract, JCS 11(7-8) 162-179): "The data seem to support compatibilist descriptions of the phenomenology more than libertarian descriptions." No body sentence draws on it. Citing it at L60 for felt openness would enlist a paper whose conclusion runs the other way, and it does not bear on the illusionism section. A genuine use would need new prose, which is not length-neutral. This discharges the open P3 "Cite or drop the orphan Nahmias et al. (2004) reference".
+- **Verification**:
+  - **Crossref, re-queried 15:24Z.** 10.1371/journal.pone.0053053: PLoS ONE 8(2) e53053, Filevich, Kühn and Haggard. 10.1073/pnas.1513569112: PNAS 113(4) 1080-1085, all eight authors match; online 2015-12, issue 2016. 10.1037/0003-066x.54.7.480: Am Psychol 54(7) 480-492.
+  - **Europe PMC abstracts, count 1 each.** "Last-moment decisions to inhibit or delay may depend on unconscious preparatory neural activity"; "earlier than 200 ms before movement onset"; "arises from interpreting one's thought as the cause of the act".
+  - **Libet 1999.** JCS is not in Crossref. The metadata 6(8-9) 47-57 was confirmed in raw text in the Haggard & Libet 2001 JCS reference list. The PDF also carries Haggard's "so called 'free won't'". The quote matched once in the raw Kane-Handbook reprint, inside the abstract (control: "veto" 28). The 1999 JCS typeset text itself was unreachable (USP mirror ECONNREFUSED to curl and WebFetch), so the quote is cited to 1999 on the strength of the reprint, as in the review's ledger.
+- **Reasoning modes**:
+  - Engagement with illusionism and the Tallis regress (L145) is mixed. The regress is conceded. The illusion problem is pressed as a debt the illusionist programme itself recognises (Mode Two). The residue is marked as a framework boundary at Tenet 1 (Mode Three).
+  - Engagement with Wegner (L147) is Mode One, narrowed. On his own data his evidence base covers initiation only; the counting argument is withdrawn.
+  - The Occam relation (L167) engages no opponent.
+- **Pronoun and antecedent check**: the sentence after each replaced span was read, and nothing is orphaned. The new L145 says "sits at its first tenet". "its" resolves to the Map, since illusionism has no tenets.
+- **Greps of the final file**:
+  - "free won't" ×2: the new L102 generic label, and the Filevich title.
+  - "strongest evidence" ×1: L123, the deferred Item 4d.
+  - "top-down suppression" 0 (HEAD 1). "top-down" 0 (HEAD 2).
+  - "genuine alternatives" 0 (HEAD 1).
+- **Attribution**: ai_system already contains claude-opus-5-5, so it is unchanged. ai_modified is 2026-10-24T15:31:37+00:00.
+- **Published**: yes
 
 ## 15:20 - pessimistic-review
 - **Status**: Success

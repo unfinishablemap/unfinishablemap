@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-10-07T20:50:23+00:00
+ai_modified: 2026-10-24T15:31:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -57,7 +57,7 @@ Choosing feels like something. Willing feels like something. And the two feel di
 
 ## Deliberation: Options as Felt Possibilities
 
-Before choosing, options present themselves as genuinely open possibilities. This openness has phenomenal character. Both alternatives feel like live possibilities you could actualise — contrasting sharply with the past, experienced as fixed and closed. William James called this the feeling of "genuine alternatives."
+Before choosing, options present themselves as genuinely open possibilities. This openness has phenomenal character. Both alternatives feel like live possibilities you could actualise — contrasting sharply with the past, experienced as fixed and closed.
 
 Deliberation also involves the *weight* of options — some feel heavier, demanding more consideration, others almost dismissible. This felt weight doesn't reduce to probability estimates or preference rankings; it's an experiential quality guiding attention during choice.
 
@@ -91,7 +91,7 @@ Attention does not lock on smoothly — introspective reports and contemplative 
 
 ### Effort
 
-Volitional acts vary in felt difficulty. The effort gradient tracks real cognitive demands: hard tasks feel hard; easy tasks feel easy. An epiphenomenalist is not embarrassed by this fit: the metabolic cost belongs to the neural processing, which has an obvious adaptive role, and one process producing both the work and the feeling makes the match common causation rather than coincidence. What remains owed is why felt effort attaches to exactly the selections that are contested — overriding a prepotent response, holding a slipping focus — and not to equally costly processing that runs unfelt, a distribution the brain-only account must derive rather than assume. The Map reads that distribution as evidence that effort phenomenology reflects genuine causal contribution: consciousness doing work at the [[attention-as-interface|interface]] between intention and neural execution.
+Volitional acts vary in felt difficulty. The effort gradient usually tracks real cognitive demands: hard tasks feel hard; easy tasks feel easy. An epiphenomenalist is not embarrassed by this fit: the metabolic cost belongs to the neural processing, which has an obvious adaptive role, and one process producing both the work and the feeling makes the match common causation rather than coincidence. Felt effort also attaches to the selections that are contested — overriding a prepotent response, holding a slipping focus — and not to equally costly processing that runs unfelt. The Map reads that distribution as consciousness doing work at the [[attention-as-interface|interface]] between intention and neural execution. The distribution fits that reading without evidencing it: if felt effort is control's cost signal, it marks where control is hard, which need not be where conscious contribution is largest ([[self-control-as-skill-and-scaffolding#effort-as-evidence|the skill literature]]).
 
 Effort also has a directional quality — pushing *against* competing impulses, fatigue, or distraction. This oppositional character suggests volition operates in a space of competing possibilities, selecting one pattern while suppressing alternatives.
 
@@ -99,7 +99,7 @@ Effort also has a directional quality — pushing *against* competing impulses, 
 
 The capacity to refrain is phenomenologically distinct from the capacity to initiate. Catching an angry retort or stopping your hand from reaching for a phone involves *active inhibition* — different from both action and mere inaction.
 
-[[libet-experiments|Libet]] himself recognised "free won't" as the strongest evidence for conscious causal efficacy. Brass and Haggard's "what, when, whether" model (2007–2008) formalised this by identifying three separable components of intentional action, each with distinct neural substrates. The "whether" component activates dorsal fronto-median cortex, exerting top-down suppression of premotor areas. That intentional inhibition recruits dedicated cortical machinery — distinct from both action initiation and passive non-action — strengthens the case that conscious agency operates at a genuine decision point.
+[[libet-experiments|Libet]] proposed the veto, often called "free won't", as the role left to conscious will: it "would not initiate a voluntary act but it could control performance of the act" (Libet 1999). Brass and Haggard's "what, when, whether" model (2008) separates three components of intentional action. Dorsal fronto-median cortex is more active when a prepared action is intentionally cancelled (Brass & Haggard 2007), a candidate correlate from an fMRI contrast rather than a demonstrated source of the inhibition (see [[volitional-control|volitional control]]). Two findings complicate the veto. Last-moment decisions to inhibit or delay a response "may depend on unconscious preparatory neural activity" (Filevich, Kühn & Haggard 2013), and stop signals arriving later than about 200 ms before movement onset come too late (Schultze-Kraft et al. 2016). Intentional inhibition has its own neural signature, which fits a conscious veto without showing that consciousness does the vetoing.
 
 ## Choosing vs Observing
 
@@ -140,11 +140,11 @@ Meditation practice refines phenomenological discrimination. Advanced meditators
 
 [[illusionism|Illusionists]] argue that effort, openness, and authorship are representational fiction. Wegner's *The Illusion of Conscious Will* (2002) argues the experience of willing is a post-hoc construction.
 
-### Why the Illusion Thesis Falls Short
+### What the Illusion Thesis Still Owes
 
-If phenomenology is illusory, what is the *seeming* of effort? Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). As Tallis argues, illusions presuppose experience.
+If phenomenology is illusory, what is the *seeming* of effort? Tallis argues that illusions presuppose experience, but a system can represent itself as phenomenally conscious without instantiating what it represents, and the Map's [[illusionism#The Infinite Regress Problem|illusionism article]] grants that the bare regress proves nothing. What remains is the illusion problem: why a misrepresentation of effort would be so compelling and so hard to dislodge. Pressing that debt relies on how vividly effort presents itself, which a physicalist can grant, so the Map's disagreement with illusionism sits at its first tenet rather than in this phenomenology.
 
-Wegner's evidence comes from cases where agency attribution goes wrong — automatisms, hypnosis. These involve *initiation* phenomenology alone, saying nothing about sustained control, effort gradients, or active veto. The illusion would need to be four independent tricks, each precisely calibrated to real cognitive demands.
+Wegner's thesis is narrower. He grants the experience of willing and explains it: it "arises from interpreting one's thought as the cause of the act" (Wegner & Wheatley 1999), so what he denies is its authority about causes. His evidence comes from cases where that interpretation goes wrong — automatisms, hypnosis — which involve *initiation* phenomenology and say little about sustained control, effort gradients, or veto. An illusionist can cover those with one self-model reading the brain's own control signals rather than four independent illusions, and felt effort is not precisely calibrated to demand: it can vanish while executive control stays intact ([[mental-effort#Calibration|mental effort]]).
 
 Mele's critique adds that the Libet paradigm tests spontaneous wrist flicking — bearing little resemblance to genuine voluntary action involving deliberation, reasons, and competing considerations. What subjects become aware of may be an urge to flex, not a decision already made.
 
@@ -152,19 +152,19 @@ If choosing were passive reception of randomly determined outcomes, it would be 
 
 ## What Would Challenge This View?
 
-The framework would face serious difficulty if: (1) trained introspectors reported radically different phenomenologies under identical conditions; (2) more sensitive neural measurement showed no difference between genuine decision and mere implementation; (3) effort phenomenology decoupled from cognitive load; (4) extended meditation consistently dissolved the choosing-vs-observing distinction rather than clarifying it; or (5) all decisions could be predicted from prior brain states with 100% accuracy at timescales ruling out conscious contribution.
+The framework would face serious difficulty if: (1) trained introspectors reported radically different phenomenologies under identical conditions; (2) more sensitive neural measurement showed no difference between genuine decision and mere implementation; (3) extended meditation consistently dissolved the choosing-vs-observing distinction rather than clarifying it; or (4) all decisions could be predicted from prior brain states with 100% accuracy at timescales ruling out conscious contribution. Effort decoupling from cognitive load is omitted because a lesion case already shows it and the Map reads that case as interface asymmetry ([[mental-effort#Calibration|mental effort]]).
 
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: The qualitative character of the full deliberation-through-execution arc — felt weight of options, the settling of decision, the effort of sustained control, the active inhibition of veto — isn't captured by third-person neural accounts. The multi-component structure (deliberation, initiation, effort, sustained control, veto) resists reduction to any single neural measure like the readiness potential.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the selective distribution of the sense of agency, and distinct neural substrates for veto are all consistent with volitional phenomenology tracking genuine causal engagement, though each is also compatible with a common neural cause, so the case rests on why the phenomenology is distributed as it is rather than on correlation alone. The primary objection — that the readiness potential proves unconscious initiation — has been weakened by Schurger's stochastic noise reinterpretation and Mele's ecological validity critique. Brass and Haggard's "whether" component provides a neural locus where intentional inhibition exerts measurable top-down control, the site at which the Map locates conscious veto.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the selective distribution of the sense of agency, and distinct neural substrates for veto are all consistent with volitional phenomenology tracking genuine causal engagement, though each is also compatible with a common neural cause, and a cost-signal account fits the distribution of felt effort too, so the phenomenology fits the tenet without evidencing it. The primary objection — that the readiness potential proves unconscious initiation — has been weakened by Schurger's stochastic noise reinterpretation and Mele's ecological validity critique. Brass and Haggard's "whether" component supplies a candidate neural correlate of intentional inhibition, the site at which the Map locates conscious veto.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Choosing feels like biasing outcomes, not injecting energy. The iterative character of sustained voluntary attention — James's "successive efforts" — matches consciousness repeatedly selecting among competing neural patterns at points of quantum indeterminacy.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Choice phenomenology presupposes singular actualisation. You experience A as *the* outcome, not one branch among equals. The felt openness before decision and closure after matches collapse rather than branching.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Explaining away initiation, effort, sustained control, and veto as four distinct illusions rather than four aspects of a real capacity merely relocates the explanatory burden.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A deflationary reading, on which felt effort and authorship are how the brain's own control monitoring presents itself, is simpler. The Map does not let that simplicity decide while the reading leaves unexplained why the monitoring is felt at all.
 
 ## Further Reading
 
@@ -189,17 +189,20 @@ The framework would face serious difficulty if: (1) trained introspectors report
 1. Brass, M., & Haggard, P. (2007). To do or not to do: The neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141–9145.
 1. Brass, M., & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319–325.
 1. Desmurget, M., Reilly, K. T., Richard, N., Szathmari, A., Mottolese, C., & Sirigu, A. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811–813.
+1. Filevich, E., Kühn, S., & Haggard, P. (2013). There is no free won't: Antecedent brain activity predicts decisions to inhibit. *PLoS ONE*, 8(2), e53053.
 1. Fried, I., Mukamel, R., & Kreiman, G. (2011). Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. *Neuron*, 69(3), 548–562.
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
 1. Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience*, 18(4), 196-207.
 1. James, W. (1890). *The Principles of Psychology*. Chapters 11 (Attention) and 26 (Will).
 1. Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K. (1983). Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential). *Brain*, 106(3), 623–642.
+1. Libet, B. (1999). Do we have free will? *Journal of Consciousness Studies*, 6(8–9), 47–57.
 1. Mele, A. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
-1. Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). The phenomenology of free will. *Journal of Consciousness Studies*, 11(7-8), 162-179.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 1. Rajan, A., Siegel, S. N., Liu, Y., Bengson, J., Mangun, G. R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Schultze-Kraft, M., Birman, D., Rusconi, M., Allefeld, C., Görgen, K., Dähne, S., Blankertz, B., & Haynes, J.-D. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+1. Wegner, D. M., & Wheatley, T. (1999). Apparent mental causation: Sources of the experience of will. *American Psychologist*, 54(7), 480–492.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
