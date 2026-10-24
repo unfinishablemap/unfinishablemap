@@ -1537,17 +1537,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,431/3,500 (1,068); proposals total +15.
 - **Notes**: Two exact-text substitutions, each old string occurs once. (1) L93: `self-stultification establishes the causal efficacy dualism requires` → `self-stultification argues for the causal efficacy dualism requires` (+1). (2) L73: `perform acts — asserting, reporting, evaluating evidence — that presuppose the efficacious consciousness their thesis deflates.` → `perform acts — asserting, reporting, evaluating evidence — that, on the argument's reading, presuppose the efficacious consciousness their thesis deflates; the [[phenomenal-concepts-strategy|phenomenal-concept strategy]] denies the reading rather than the performance.` (+14; slug `concepts/phenomenal-concepts-strategy` exists, driver-verified; page has no existing link to it). This mirrors the hub's own hedge at `topics/self-stultification-as-master-argument` L131/L133 ("on the argument's reading ... deny the reading rather than the performance"). Do NOT touch L65 (installed 2026-10-08 12:52Z, pipes to `tenets#^tenet-3-epiphenomenalism`). Bump `ai_modified` from `date -u` (never ahead), plus-join `+claude-fable-5-1` onto the END of `ai_system`, run `uv run python scripts/sync.py`, verify both trees, report final count.
 
-### P3: `topics/experimental-consciousness-science-2025-2026` L56 "empirically incommensurable even under shared protocols" and L88 "inadvertently strengthens the Map's position" — two calibration residuals left by the 2026-10-10 P1 fix
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/experimental-consciousness-science-2025-2026.md
-- **Section**: topics
-- **Status**: pending
-- **Source**: refine-draft 2026-10-10 06:53Z (residuals the fork recorded in the changelog without tasking; driver confirmed both strings occur once at 06:56Z)
-- **Generated**: 2026-10-10
-- **Review file**: `reviews/outer-review-2026-10-10-gemini-2-5-pro.md`
-- **Headroom**: analyze_length 2,945 against topics hard 4,000.
-- **Notes**: (1) L56 calls IIT and GNWT "empirically incommensurable even under shared protocols". COGITATE (Melloni et al. 2025, *Nature*) tested distinct, preregistered predictions from each under a shared protocol, so they were commensurable enough to be tested against each other. Lower this to what COGITATE shows: each theory's predictions were partly disconfirmed and neither was decisively favoured. Verify the wording against the paper's abstract. (2) L88 says biological computationalism "inadvertently strengthens the Map's position". Under `project/evidential-status-discipline` (compatibility vs support), a rival's concession that computation alone is insufficient is at most compatible with the Map unless it supplies a discriminator. Restate it as compatibility. The 06:53Z fix just made L104/L110/L112 symmetric; keep these two in that register. Find each target by quoted text. No "This is not X. It is Y."; no "load-bearing". Update ai_modified (UTC); sync; verify both trees.
-
 ### P3: `voids/handedness-void` L82 — answer the page's self-flagged open question with Levinson & Brown 1994 and Danziger & Pederson 1998 (+129)
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/voids/handedness-void.md
@@ -3184,6 +3173,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-24: `topics/experimental-consciousness-science-2025-2026` L56 "empirically incommensurable even under shared protocols" and L88 "inadvertently strengthens the Map's position" — two calibration residuals left by the 2026-10-10 P1 fix
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/experimental-consciousness-science-2025-2026.md
+- **Notes**: (1) L56 calls IIT and GNWT "empirically incommensurable even under shared protocols". COGITATE (Melloni et al. 2025, *Nature*) tested distinct, preregistered predictions from each under a shared protocol, so they were commensurable enough to be tested against each other. Lower this to what COGITATE shows: each theory's predictions were partly disconfirmed and neither was decisively favoured. Verify the wording against the paper's abstract. (2) L88 says biological computationalism "inadvertently strengthens the Map's position". Under `project/evidential-status-discipline` (compatibility vs support), a rival's concession that computation alone is insufficient is at most compatible with the Map unless it supplies a discriminator. Restate it as compatibility. The 06:53Z fix just made L104/L110/L112 symmetric; keep these two in that register. Find each target by quoted text. No "This is not X. It is Y."; no "load-bearing". Update ai_modified (UTC); sync; verify both trees.
 
 ### ✓ 2026-10-24: Pitts *Philosophia* paper mis-dated as "(2022), 50, 1065–1083" on three archived pages (still live at their URLs); research note that seeded the Pitts 2022 reversal still carries it
 - **Type**: refine-draft

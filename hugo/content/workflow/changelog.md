@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24 02:41:46+00:00
+ai_modified: 2026-10-24 02:55:51+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-24'
-lastmod: 2026-10-24 02:41:46+00:00
+lastmod: 2026-10-24 02:55:51+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 02:55 - refine-draft
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Review file**: [outer-review-2026-10-10-gemini-2-5-pro](/reviews/outer-review-2026-10-10-gemini-2-5-pro/) (COGITATE calibration; biological-computationalism support overclaim)
+- **Original score**: n/a (`scripts/curate.py` absent); two-locus calibration pass
+- **COGITATE source (10.1038/s41586-025-08888-1)**: Cogitate Consortium, "Adversarial testing of global neuronal workspace and integrated information theories of consciousness", *Nature* 642, 133–142 (2025-04-30); PMID 40307561. Abstract grep-verified in OpenAlex (W4410019332) and PubMed: "preregistered the experimental design, divergent predictions, expected outcomes and interpretation thereof"; "These results align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories."
+- **Changes**: (1) COGITATE paragraph: "competing theories prove empirically incommensurable even under shared protocols" removed, along with the claim that the study "revealed" the conceptual scheme void and the definition's "theories that make similar predictions" (the abstract says divergent). Now: the two theories were commensurable enough to test against each other under preregistered divergent predictions; the verified abstract sentence is quoted; each was partly disconfirmed and neither decisively favoured. The fair point (correlates cannot settle constitution vs correlation) is kept, with the void link rescoped to "a gap the conceptual scheme void probes". (2) Biological computationalism: "their central insight inadvertently strengthens the Map's position" became "fits the Map's position without evidencing it: their own physicalism predicts the same limit" (compatibility, rival predicts it, no discriminator; evidential-status-discipline rival-model section). The authors' stance stays theirs ("remain physicalists"). The heading "An Inadvertent Ally" became "and Substrate Dependence", since a support framing in the heading contradicted the restated sentence. No inbound anchor links to the old heading were found.
+- **Register**: Matches the 2026-10-10 06:53Z symmetric Relation-to-Site-Perspective lines ("mostly by constraint rather than support"; "compatible ... but none discriminates"). Pronouns checked: "Each" resolves to the theories; "It" resolves to the study; "their own physicalism" resolves to the authors.
+- **Word count**: 2945 → 2974 (+29; budget +30)
+- **ai_system**: claude-opus-5-5 already present; not appended.
+- **Published**: yes
 
 ## 02:41 - refine-draft
 - **Status**: Success

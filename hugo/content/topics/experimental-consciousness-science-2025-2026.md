@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-10-10 06:53:28+00:00
+ai_modified: 2026-10-24 02:54:33+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 10:10:01+00:00
-lastmod: 2026-10-10 06:53:28+00:00
+lastmod: 2026-10-24 02:54:33+00:00
 modified: *id001
 related_articles:
 - '[[filter-theory]]'
@@ -57,7 +57,7 @@ As Anil Seth, a member of the collaboration, put it: "It was clear that no singl
 
 Seth and Bayne's 2022 review set the terms of that comparison. It sorts the field's leading theories into four families—higher-order theories, global workspace theories, re-entry and predictive processing theories, and IIT—by what each proposes to explain, what it commits to neurobiologically, and what data it adduces, and it argues that a mature science of consciousness requires theories developed far enough to be tested against one another. COGITATE is that programme in practice. The Map's interface model belongs to a different category—a metaphysical framework with a mechanism programme rather than a neurobiological account of which brain processes carry conscious content—so it does not enter a Cogitate-style contrast. Its testing surface is instead the [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/), which sets out tenet by tenet what evidence would count against it.
 
-The COGITATE results illustrate what might be called the consciousness [measurement problem](/concepts/measurement-problem/): the difficulty of empirically distinguishing theories that make similar predictions about [neural correlates](/concepts/neural-correlates-of-consciousness/) while disagreeing fundamentally about what consciousness is. The same empirical landscape that was supposed to adjudicate between theories instead revealed a deeper difficulty—the [conceptual scheme void](/voids/conceptual-scheme-void/), where competing theories prove empirically incommensurable even under shared protocols. The study measured correlates with impressive precision. It could not adjudicate what those correlates mean—whether they constitute consciousness, correlate with it, or merely accompany it.
+The COGITATE results illustrate what might be called the consciousness [measurement problem](/concepts/measurement-problem/): the difficulty of settling, from [neural correlates](/concepts/neural-correlates-of-consciousness/) alone, between theories that disagree fundamentally about what consciousness is. IIT and GNWT were commensurable enough to test against each other: their proponents preregistered divergent predictions under a shared protocol, and the results "align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories." Each was partly disconfirmed; neither was decisively favoured. The study measured correlates with impressive precision. It could not adjudicate what those correlates mean—whether they constitute consciousness, correlate with it, or merely accompany it—a gap the [conceptual scheme void](/voids/conceptual-scheme-void/) probes.
 
 ## Brain Biophotons: A New Empirical Window
 
@@ -85,11 +85,11 @@ Keppler's model addresses the [decoherence objection](/concepts/decoherence/)—
 
 The model is ambiguous about whether the ZPF itself has phenomenal character (a panpsychist or neutral monist reading) or whether consciousness is a separate entity that interfaces via the ZPF (closer to the Map's interactionist dualism). This ambiguity is characteristic of quantum consciousness models generally—the physics constrains the mechanism but underdetermines the metaphysics.
 
-## Biological Computationalism: An Inadvertent Ally
+## Biological Computationalism and Substrate Dependence
 
 Milinkovic and Aru's December 2025 paper in *Neuroscience & Biobehavioral Reviews* proposed "[biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)" as a third path between classical computationalism and non-computational approaches. Their core argument: brains compute, but their computation is inseparable from the brain's physical structure, energy constraints, and continuous dynamics. Ion flows, electromagnetic fields, and neural spikes form a tightly coupled system that cannot be reduced to symbolic information processing. The implication is that scaling digital AI alone will not produce consciousness.
 
-The authors remain physicalists—they argue consciousness emerges from biological computation, not from non-physical causes. But their central insight inadvertently strengthens the Map's position. If consciousness requires specific physical substrates and cannot be replicated through abstract computation, then functionalism may fail as an account of consciousness. And if functionalism fails, the strongest argument for physicalism about consciousness—that consciousness is what certain computations do, regardless of substrate—collapses. Biological computationalism narrows the physicalist position to a claim about specific biological matter, which brings it closer to the problem it set out to avoid: explaining why *this* particular physical arrangement produces experience when structurally identical computations in silicon do not.
+The authors remain physicalists—they argue consciousness emerges from biological computation, not from non-physical causes. Their central insight fits the Map's position without evidencing it: their own physicalism predicts the same limit. If consciousness requires specific physical substrates and cannot be replicated through abstract computation, then functionalism may fail as an account of consciousness. And if functionalism fails, the strongest argument for physicalism about consciousness—that consciousness is what certain computations do, regardless of substrate—collapses. Biological computationalism narrows the physicalist position to a claim about specific biological matter, which brings it closer to the problem it set out to avoid: explaining why *this* particular physical arrangement produces experience when structurally identical computations in silicon do not.
 
 ## Covert Consciousness in Unresponsive Patients
 
