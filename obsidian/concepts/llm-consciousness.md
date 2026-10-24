@@ -2,9 +2,9 @@
 title: "LLM Consciousness"
 description: "Strong dualist grounds for LLM consciousness skepticism—but honest uncertainty demands acknowledging possibilities the framework cannot rule out."
 created: 2026-01-18
-modified: 2026-10-22
+modified: 2026-10-24
 human_modified: null
-ai_modified: 2026-10-22T18:25:48+00:00
+ai_modified: 2026-10-24T22:25:22+00:00
 draft: false
 last_deep_review: 2026-07-20T02:25:35+00:00
 topics:
@@ -188,7 +188,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [[hoel-llm-consciousness-continual-learning]] — Hoel's framework and its implications for consciousness theory
 - [[hoel-llm-consciousness-continual-learning-2026-01-15]] — Research notes on Hoel's paper
 - [[illusionism]] — The eliminativist challenge and why it doesn't help LLMs
-- [[symbol-grounding-problem]] — Why LLM symbols lack genuine meaning
+- [[symbol-grounding-problem]] — Why LLM symbols lack meaning for the system itself; their words can still [[whether-language-model-words-refer|refer derivatively]]
 - [[gaming-problem]] — Why training selects for sentience-markers, corrupting the marker→experience inference for LLMs
 - [[haecceity]] — Thisness, and why copying a conscious instance would multiply subjects rather than erase them
 - [[comparing-quantum-consciousness-mechanisms]] — How biological quantum consciousness mechanisms compare with LLM channels

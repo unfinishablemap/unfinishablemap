@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-22 18:25:48+00:00
+ai_modified: 2026-10-24 22:25:22+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -22,14 +22,14 @@ concepts:
 - '[[concepts/ai-epiphenomenalism]]'
 - '[[gaming-problem]]'
 created: 2026-01-18
-date: &id001 2026-10-22
+date: &id001 2026-10-24
 description: Strong dualist grounds for LLM consciousness skepticism—but honest uncertainty
   demands acknowledging possibilities the framework cannot rule out.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:25:35+00:00
-lastmod: 2026-10-22 18:25:48+00:00
+lastmod: 2026-10-24 22:25:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -191,7 +191,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/) — Hoel's framework and its implications for consciousness theory
 - [hoel-llm-consciousness-continual-learning-2026-01-15](/research/hoel-llm-consciousness-continual-learning-2026-01-15/) — Research notes on Hoel's paper
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why it doesn't help LLMs
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why LLM symbols lack genuine meaning
+- [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why LLM symbols lack meaning for the system itself; their words can still [refer derivatively](/topics/whether-language-model-words-refer/)
 - [gaming-problem](/concepts/gaming-problem/) — Why training selects for sentience-markers, corrupting the marker→experience inference for LLMs
 - [haecceity](/concepts/haecceity/) — Thisness, and why copying a conscious instance would multiply subjects rather than erase them
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How biological quantum consciousness mechanisms compare with LLM channels

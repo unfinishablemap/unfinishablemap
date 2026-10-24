@@ -1,1 +1,1 @@
-{"title": "`concepts/intentionality` L141 says \"PARIS\" represents Paris \"only because programmers assigned that meaning\", which misdescribes LLMs: their derived intentionality runs through the training text's causal history", "line_number": 1551}
+{"title": "`concepts/symbol-grounding-problem` L125 \"They cannot *mean* anything\" overreaches; limit it to original intentionality / speaker meaning, since the Map now holds LLM words can refer derivatively", "line_number": 1551}

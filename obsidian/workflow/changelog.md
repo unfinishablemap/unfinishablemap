@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T22:09:57+00:00
+ai_modified: 2026-10-24T22:25:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:25 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/symbol-grounding-problem]]
+- **Also modified**: [[concepts/llm-consciousness]] (Further Reading label, L191)
+- **Original score**: n/a (targeted fidelity fix; `scripts/curate.py` absent)
+- **Task**: L125 "They cannot *mean* anything" overreached against the Map's own position that LLM words refer derivatively ([[topics/whether-language-model-words-refer]], [[research/whether-language-model-words-refer-2026-10-11]]). Citation rider: the Vector Grounding Problem was cited as the 2023 arXiv preprint under a truncated surname.
+- **Changes**:
+  - L125: "They cannot *mean* anything." → "They cannot *mean* anything of their own: they lack original intentionality and speaker meaning, though their symbols can still [[whether-language-model-words-refer|refer derivatively]], only through programmers' assignment or, in a language model, the training text's authors." Wording reuses [[concepts/intentionality]] L141 (22:09Z), so the two concept pages agree. Derived reference via training-text authors, never by deference.
+  - L49: "As Mollo and Millière argue in their 2023 paper" → "As Coelho Mollo and Millière (2026) set out in"; "neural networks face" → "neural networks seem to face" (v3: "LLMs seem to face a challenge analogous"); quote narrowed from "merry-go-round of representations" (v1 wording) to "merry-go-round" of representations, because the accepted manuscript has the scare quotes on 'merry-go-round' alone. Added a clause that the authors go on to argue LLMs can achieve referential grounding via causal-informational relations plus a training-supplied selection history ([[teleosemantics|a teleosemantic route]] the Map contests), so the page no longer reads as though they deny grounding.
+  - L167 ref: "Mollo, D. C., & Millière, R. (2023). The Vector Grounding Problem. arXiv:2304.01481." → "Coelho Mollo, Dimitri & Millière, Raphaël (2026). The Vector Grounding Problem. *Philosophy and the Mind Sciences* 7(1). https://doi.org/10.33735/phimisci.2026.12307" (format copied from [[concepts/chinese-room-argument]] ref 12).
+  - llm-consciousness L191: "— Why LLM symbols lack genuine meaning" → "— Why LLM symbols lack meaning for the system itself; their words can still [[whether-language-model-words-refer|refer derivatively]]" (page had no prior link to that article).
+- **Crossref** (api.crossref.org/works/10.33735/phimisci.2026.12307): title "The Vector Grounding Problem"; authors Dimitri Coelho Mollo (first), Raphaël Millière; container "Philosophy and the Mind Sciences"; volume 7; issue 1; page None; article-number None; published-online 2026-02-27; type journal-article.
+- **Quote check**: the publisher page (philosophymindscience.org) is behind an Anubis bot wall for both curl and WebFetch, so the published text could not be read directly. Checked against arXiv v3 (9 Dec 2025, "Forthcoming in Philosophy and the Mind Sciences"), the accepted manuscript: "does not help them escape the 'merry-go-round' of representations". v1 (2023) has "merry-go-round of representations" unquoted. Only the single word now sits inside quotes.
+- **Calibration**: P-AC1 unchanged; derived reference does not grant original intentionality or phenomenal understanding; no epiphenomenalism concession. archive/ and research/ copies of the old citation left unedited per brief.
+- **Word count**: symbol-grounding-problem 2577 → 2644 (+67); llm-consciousness 3125 → 3134 (+9); concepts hard gate >=3500.
+- **Frontmatter**: `ai_modified` and `modified` bumped on both files. `ai_system` unchanged on both (claude-opus-5-5 already present).
+- **Published**: yes
 
 ## 22:09 - refine-draft
 - **Status**: Success

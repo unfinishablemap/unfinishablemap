@@ -2,9 +2,9 @@
 title: "Symbol Grounding Problem"
 description: "How symbols acquire meaning intrinsic to a system rather than parasitic on human interpretation. The problem reveals limits of purely computational accounts."
 created: 2026-01-30
-modified: 2026-10-21
+modified: 2026-10-24
 human_modified: null
-ai_modified: 2026-10-21T15:10:21+00:00
+ai_modified: 2026-10-24T22:25:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ Harnad's original formulation uses a vivid analogy: imagine trying to learn Chin
 
 This is the predicament of classical symbolic AI. A computer manipulates symbols according to formal rules. The symbols bear no intrinsic relation to what they represent. "CAT" relates to cats only because humans assigned that meaning. The computer could equally process "XQJ7" with the same functional role, never knowing anything had changed. The symbols have meaning *for us*, not for the system manipulating them.
 
-The problem generalizes beyond classical AI. As Mollo and Millière argue in their 2023 paper "The Vector Grounding Problem," neural networks face the same difficulty. Word embeddings represent words as vectors in high-dimensional space. The vectors capture statistical relationships between words, but the move to continuous vectors rather than discrete symbols, the authors note, makes no difference to escaping the "merry-go-round of representations" and connecting to the world. The grounding problem persists in neural form.
+The problem generalizes beyond classical AI. As Coelho Mollo and Millière (2026) set out in "The Vector Grounding Problem," neural networks seem to face the same difficulty. Word embeddings represent words as vectors in high-dimensional space. The vectors capture statistical relationships between words, but the move to continuous vectors rather than discrete symbols, the authors note, does not help escape the "merry-go-round" of representations or connect to the world. The grounding problem persists in neural form, though the authors go on to argue that LLMs can achieve referential grounding through causal-informational relations and a history of selection that training can supply, [[teleosemantics|a teleosemantic route]] the Map contests.
 
 ## Harnad's Hybrid Proposal
 
@@ -122,7 +122,7 @@ The pattern suggests that something is missing from purely physical and computat
 
 The Map's framework offers an explanation: intrinsic meaning requires phenomenal consciousness, and phenomenal consciousness is not reducible to physical processes. The symbol grounding problem is not a technical challenge awaiting better engineering; it is a conceptual limitation revealing that meaning requires experience.
 
-This connects to the [[cognitive-phenomenology#The Phenomenal Constitution Thesis|Phenomenal Constitution Thesis]]: genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
+This connects to the [[cognitive-phenomenology#The Phenomenal Constitution Thesis|Phenomenal Constitution Thesis]]: genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything of their own: they lack original intentionality and speaker meaning, though their symbols can still [[whether-language-model-words-refer|refer derivatively]], only through programmers' assignment or, in a language model, the training text's authors.
 
 ## Relation to Site Perspective
 
@@ -164,7 +164,7 @@ The symbol grounding problem connects to all five tenets:
 1. Searle, J. R. (1980). Minds, brains and programs. *Behavioral and Brain Sciences*, 3(3), 417-424.
 1. Steels, L. (2008). The symbol grounding problem has been solved. So what's next? In M. de Vega (Ed.), *Symbols and Embodiment*. Oxford University Press.
 1. Pavlick, E. (2023). Symbols and grounding in large language models. *Philosophical Transactions of the Royal Society A*, 381(2251), 20220041.
-1. Mollo, D. C., & Millière, R. (2023). The Vector Grounding Problem. arXiv:2304.01481.
+1. Coelho Mollo, Dimitri & Millière, Raphaël (2026). The Vector Grounding Problem. *Philosophy and the Mind Sciences* 7(1). https://doi.org/10.33735/phimisci.2026.12307
 1. Li, J., & Mao, H. (2022). The Difficulties in Symbol Grounding Problem and the Direction for Solving It. *Philosophies*, 7(5), 108.
 1. Barsalou, L. W. (2008). Grounded cognition. *Annual Review of Psychology*, 59, 617-645.
 1. Dove, G. (2016). Three symbol ungrounding problems: Abstract concepts and the future of embodied cognition. *Psychonomic Bulletin & Review*, 23(4), 1109-1121. (Published online 2015.)
