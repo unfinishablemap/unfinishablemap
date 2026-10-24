@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Evaluation awareness as a reactivity test for model self-report
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-24-access-residue-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-24-access-residue-wing, New-territory candidate 2. Language models that detect being evaluated change their behaviour, a Hawthorne-style reactivity problem for any use of model traces or self-reports as evidence. Driver counts at 04:40Z (live/research): 'evaluation awareness' 1/2 (the one live hit is observer-selection-void, read anthropically); 'sandbagging' 0/0; 'Hawthorne effect' 0/0 at harvest per the reviewer; positive controls 'Lanham' 5/4 and 'Turpin' 3/4. Complements topics/chain-of-thought-as-verbal-protocol (its L73 is correctly scoped) and must not duplicate it. CALIBRATION: 'evaluation awareness' is the field's name for a classification ability, NOT phenomenal awareness, so say so first. It bears on the reliability of AI reports, NOT on AI consciousness, and P-AC1 is untouched. Traces mentioning evaluation are admissible only under chain-of-thought's three conditions (L97). Verify: McCambridge, Witton & Elbourne 2014 J Clin Epidemiol 67(3) 267-277, 10.1016/j.jclinepi.2013.08.015 (Crossref); Schoen et al. 2025 arXiv:2509.15541; Needham et al. 2025 arXiv:2505.23836 (arXiv; quote only verbatim abstract text). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/evaluation-awareness-and-model-self-report-2026-10-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'evaluation-awareness-and-model-self-report' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-24
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -3212,6 +3206,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-24: Research Evaluation awareness as a reactivity test for model self-report
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-24-access-residue-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-24-access-residue-wing, New-territory candidate 2. Language models that detect being evaluated change their behaviour, a Hawthorne-style reactivity problem for any use of model traces or self-reports as evidence. Driver counts at 04:40Z (live/research): 'evaluation awareness' 1/2 (the one live hit is observer-selection-void, read anthropically); 'sandbagging' 0/0; 'Hawthorne effect' 0/0 at harvest per the reviewer; positive controls 'Lanham' 5/4 and 'Turpin' 3/4. Complements topics/chain-of-thought-as-verbal-protocol (its L73 is correctly scoped) and must not duplicate it. CALIBRATION: 'evaluation awareness' is the field's name for a classification ability, NOT phenomenal awareness, so say so first. It bears on the reliability of AI reports, NOT on AI consciousness, and P-AC1 is untouched. Traces mentioning evaluation are admissible only under chain-of-thought's three conditions (L97). Verify: McCambridge, Witton & Elbourne 2014 J Clin Epidemiol 67(3) 267-277, 10.1016/j.jclinepi.2013.08.015 (Crossref); Schoen et al. 2025 arXiv:2509.15541; Needham et al. 2025 arXiv:2505.23836 (arXiv; quote only verbatim abstract text). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/evaluation-awareness-and-model-self-report-2026-10-24.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'evaluation-awareness-and-model-self-report' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-24: Research The regnant occasion objection: process-internal critiques of Griffin's dominant occasion
 - **Type**: research-topic
