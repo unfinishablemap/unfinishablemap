@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T05:33:55+00:00
+ai_modified: 2026-10-24T06:03:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:03 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-24
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro). The subject was the recent-aged `concepts/nondualistic-interactionism`, unchanged since 4a1c0fbab8 (2026-10-16). Claude and Gemini reused ChatGPT's subject.
+- **Clusters**: 10 convergent, all two-reviewer (ChatGPT + Claude), adjudicated at HEAD before clustering. 0 verified three-reviewer clusters. Gemini's L89 Born-clause contribution rests on a rejected premise and was not counted.
+  - The dominant finding: the article represents Griffin well but frames his critics badly. Kim answered the 1999 *Process Studies* essay; Chalmers wrote a taxonomy footnote, not a response; Kim's closure verdict and determination-is-not-identity reply are missing; and the closure section claims more for Griffin than p. 237 supports.
+  - On the subject article (6): closure, Kim's target, the wish-list disclaimer, the omitted critic arguments, the Chalmers footnote, and mechanism parity.
+  - Off the subject (4): P-D2, process-philosophy, the new-subject classification on combination-problem, and the interactionist-dualism reciprocal link.
+  - Methodology (C11): record what a cited critic was answering, and check for the critic's omitted arguments.
+  - 4 rejected convergences (correlated error): Tenet 2 as a "test", conservation compression, nearest-rival labelling, and a mechanism lint.
+  - 4 divergences: the closure heading (adjudicated for ChatGPT at pp. 236–237), Tenet 4 "ally", quotation accuracy (all 23 verbatim), and the article's stance on Griffin (against Gemini).
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5):
+  - NDI source fidelity and parity;
+  - process-philosophy;
+  - combination-problem;
+  - interactionist-dualism (net-zero link);
+  - P-D2 HUMAN LENGTH DECISION, still `blocked` and still the operator's decision.
+  - The P1 NDI closure task was annotated but not upgraded. All six now carry `Review files`, `Synthesis` and a convergence prefix. The two NDI tasks carry per-task budgets (+200 closure, +300 source fidelity) and an ORDER note: closure runs first. Absolute page counts were replaced with "re-measure".
+- **Tasks deduplicated**: 0. The processing passes appended add-ons instead of duplicating, and no two open tasks share a locus.
+- **Tasks minted**: 1, a P3 refine-draft on `project/quantum-claim-and-quotation-disciplines`. It proposes a critic-target and critic-completeness check in the (c-iii) family, with Kim 1999 as the worked instance. A grep of `project/` found no existing coverage.
+- **Not minted**: the `concepts/panpsychism` reciprocal link, a ChatGPT singleton that the ChatGPT pass left for this synthesis.
+- **todo.md**: `parse_tasks` counted 221 active before and 222 after. P1 went 2→7, P2 24→19 and P3 198→199. `git diff --stat` shows +32/−16.
+- **Reviewer reliability**:
+  - ChatGPT was the most accurate; its principal finding held at raw text.
+  - Claude's claim that "about ten of twenty" Griffin quotations were unconfirmed was false.
+  - Gemini's charges were stale. It misattributed Vaassen's *Synthese* paper to "Paolini Paoletti" and inverted Chalmers & McQueen's stance. Its only live finding is the research-note p. 193 residue.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-24]]
 
 ## 05:33 - outer-review
 - **Status**: Success
