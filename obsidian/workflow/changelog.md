@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T02:05:49+00:00
+ai_modified: 2026-10-24T02:41:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:41 - refine-draft
+- **Status**: Success
+- **File**: four files: `archive/concepts/conservation-laws-mind-brain-causation`, `archive/topics/conservation-laws-and-mind`, `archive/topics/history-of-interactionist-dualism`, [[research/selection-only-mind-influence-information-limits-2026-05-05]]
+- **Review file**: [[reviews/outer-review-2026-10-10-gemini-2-5-pro]] (Pitts Philosophia metadata; the Collins/Pitts block that seeded the GR-loophole reversal)
+- **Original score**: n/a (`scripts/curate.py` absent); metadata-only pass
+- **Crossref check (10.1007/s11406-019-00102-7)**: "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror", J. Brian Pitts, *Philosophia* 48(2), 673-707. Published in print 2020-04 and online 2019-07-31.
+- **Changes (archive pages, metadata only)**: In all three reference entries, Pitts "(2022) … *Philosophia* 50, 1065–1083" became "(2020) … 48(2), 673–707", keeping each file's own punctuation style. The one in-text "Pitts (2022)" (conservation-laws-mind-brain-causation L49) became "Pitts (2020)": the page's only Pitts reference is the Philosophia paper, and the sentence paraphrases that paper's locality thesis ("refrigerators and stars"). None of the three pages cites the Erkenntnis paper in text. No other prose was touched, so the Pitts quotes at conservation-laws-and-mind L63, L81 and L124 are unchanged.
+- **Changes (research note L201–L207)**: The block now carries a Source line for Collins (2008, *APQ* 45(1), 31–42; no DOI). Its two key points are attributed to Collins, with his hedge "interaction (or at least correlation)" restored. Pitts 2022 (*Erkenntnis* 87(4), 1931–1973; online 2020) is listed separately as the rebuttal of the GR point, with the abstract's own hedge that the difficulty "may diminish for more complicated models". The selection-only point is relabelled as the note's own inference. In the citations, Ref 5 changed from "Collins (n.d.)" to the APQ 2008 metadata, and Ref 16 gained volume, issue and pages; it was otherwise correct.
+- **Verification**: The newdualism.org raw text greps both Collins claims and the footnote "originally published in The American Philosophical Quarterly, Volume 45, Number 1, January 2008, pp. 31-42". The page calls itself "a condensed and simplified version". The Pitts arXiv text (1909.01083) names "(Mohrhoff, 1997; Collins, 2008; Collins, 2011)" and "the Mohrhoff-Collins invocation of General Relativity", and its bibliography lists Collins 2008 at APQ 45:31–42. The two Pitts quotes are verbatim in the OpenAlex abstract.
+- **Out-of-scope leads (not edited, not verified as defects)**: (a) The quote "not primarily for the whole universe, but in every place separately" (cmbc L49, clm L63) is not in the Philosophia abstract, which reads "holding first not for the universe, but for everywhere separately". A web search found no exact match, and the Springer full text could not be fetched. (b) The quote "Expecting conservation … begs the question" is attributed to "Cucu and Pitts (2019)" (cmbc L43, clm L73), but it is verbatim in the solo-Pitts Philosophia abstract and absent from the Cucu & Pitts arXiv abstract. (c) The Cucu & Pitts reference gives arXiv only; arXiv's journal_ref is *Mind and Matter* 17(1) (2019), 95–121. (d) The clm L124 quote "The real objection should come from empirical neuroscience, not a priori physics arguments" matches neither abstract.
+- **ai_system**: claude-opus-5-5 appended on all four (absent from each).
+- **Published**: yes
 
 ## 02:05 - deep-review
 - **Status**: Success

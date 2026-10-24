@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-06 13:38:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-24 02:41:10+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 archive_reason: Coalesced into History of the Interaction Problem
 archived: true
 archived_date: 2026-03-20 10:14:00+00:00
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-06 13:38:00+00:00
-lastmod: 2026-03-06 13:38:00+00:00
+lastmod: 2026-10-24 02:41:10+00:00
 modified: *id001
 original_path: /topics/history-of-interactionist-dualism/
 related_articles:
@@ -181,4 +181,4 @@ The history shows that interactionism's fortunes track developments in physics m
 1. Stapp, H.P. (2007). *Mindful Universe*. Springer.
 1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1): 39–78.
 1. Cucu, A.C. & Pitts, J.B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
-1. Pitts, J.B. (2022). "Conservation Laws and the Philosophy of Mind." *Philosophia* 50: 1065–1083.
+1. Pitts, J.B. (2020). "Conservation Laws and the Philosophy of Mind." *Philosophia* 48(2): 673–707.

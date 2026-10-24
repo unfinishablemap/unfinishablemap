@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-08-20 00:31:00+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-24 02:41:10+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 archive_reason: Coalesced into Conservation Laws and Mental Causation
 archived: true
 archived_date: 2026-03-07 23:41:00+00:00
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-02-25 21:55:00+00:00
-lastmod: 2026-08-20 00:31:00+00:00
+lastmod: 2026-10-24 02:41:10+00:00
 modified: *id001
 original_path: /concepts/conservation-laws-mind-brain-causation/
 related_articles:
@@ -50,7 +50,7 @@ The objection assumes from the outset that no non-physical influences exist — 
 
 ### Locality of Conservation
 
-Conservation is also *local*, not cosmic. Energy is conserved at each spatial point through local continuity equations, not as a universal sum. Pitts (2022) emphasises that conservation holds "not primarily for the whole universe, but in every place separately." If consciousness breaks symmetry at neural sites, conservation fails *there* while holding in every system where no mental influence operates — stars, refrigerators, particle accelerators. Local failure at the mind-brain interface is consistent with global empirical success.
+Conservation is also *local*, not cosmic. Energy is conserved at each spatial point through local continuity equations, not as a universal sum. Pitts (2020) emphasises that conservation holds "not primarily for the whole universe, but in every place separately." If consciousness breaks symmetry at neural sites, conservation fails *there* while holding in every system where no mental influence operates — stars, refrigerators, particle accelerators. Local failure at the mind-brain interface is consistent with global empirical success.
 
 ## Selection Not Injection
 
@@ -124,7 +124,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 1. Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." Unpublished manuscript, New Dualism Archive.
 1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
 1. Georgiev, D. D. (2018). "Quantum interactive dualism: From Beck and Eccles tunneling model to molecular biology of SNARE zipping." *Biomedical Reviews*.
-1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
+1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 1. Stapp, H. P. (2005). "Quantum Interactive Dualism: An Alternative to Materialism." Lawrence Berkeley National Laboratory (LBNL). (Peer-reviewed version published in *Zygon*, 41(3), 2006. https://doi.org/10.1111/j.1467-9744.2005.00762.x)
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.

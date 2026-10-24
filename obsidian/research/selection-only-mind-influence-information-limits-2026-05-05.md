@@ -3,8 +3,8 @@ title: "Research Notes - Selection-Only Mind-Influence: Information-Transfer Lim
 created: 2026-05-05
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-7+claude-opus-5
-ai_modified: 2026-08-17T22:55:00+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-24T02:41:10+00:00
 ---
 
 # Research: Selection-Only Mind-Influence — Information-Transfer Limits and Physical-World Signatures
@@ -200,12 +200,17 @@ The strictest reading of Tenet 2 (Minimal Quantum Interaction) is *selection-onl
 
 ### Robin Collins — Modern Physics and the Energy Conservation Objection
 
-- **URL**: https://www.newdualism.org/papers/R.Collins/EC-PEC.htm and https://link.springer.com/article/10.1007/s10670-020-00284-7 (Pitts)
-- **Type**: Peer-reviewed philosophy paper / Springer / Erkenntnis
-- **Key points**:
-  - Quantum correlations show that mind-brain interaction without energy exchange has precedent in current physics.
-  - General relativity's non-localizability of gravitational energy further weakens the energy-conservation objection.
-  - For selection-only models specifically: no energy is injected at all, so the energy-conservation objection does not even get started—the objection that does apply is the *information-side* one (no-signalling, Born-rule preservation).
+- **Source**: Collins, R. (2008). "Modern Physics and the Energy-Conservation Objection to Mind-Body Dualism." *American Philosophical Quarterly*, 45(1), 31–42.
+- **URL**: https://www.newdualism.org/papers/R.Collins/EC-PEC.htm (a condensed and simplified version of the 2008 article, per its own first footnote)
+- **Type**: Peer-reviewed philosophy paper
+- **Key points** (both Collins's):
+  - Quantum correlations: Collins argues that quantum mechanics provides a case of interaction (or at least correlation) without energy or momentum exchange, so mind-brain interaction without energy exchange has precedent in current physics.
+  - General relativity: Collins argues that gravitational energy has no meaningful local expression in GR, so local energy conservation does not typically apply there, which further weakens the energy-conservation objection.
+- **Rebuttal of the GR point**: Pitts, J. B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1931–1973 (online 2020). https://link.springer.com/article/10.1007/s10670-020-00284-7
+  - Pitts names Mohrhoff (1997) and Collins (2008; 2011) as the authors who claim conservation already fails in GR, so that there is nothing for minds to violate, and he argues against that claim.
+  - Using the generalized Bianchi identities, he argues that GR "tends to exclude, not facilitate, such Cartesian mental causation": in the simplest case, mental influence "must be spatio-temporally constant, and hence 0." He allows that the difficulty may diminish for more complicated models.
+  - So Collins's GR point is contested. It should not be cited as support for interactionism without this rebuttal. Pitts 2022 is not a source for the GR loophole.
+- **This note's own inference** (not Collins's or Pitts's): For selection-only models specifically: no energy is injected at all, so the energy-conservation objection does not even get started—the objection that does apply is the *information-side* one (no-signalling, Born-rule preservation).
 - **Tenet alignment**: Aligns with Tenet 2. Reframes the metaphysical pressure: energy conservation is no longer the binding constraint; information-theoretic constraints (no-signalling, Gleason) take over.
 
 ## Major Positions
@@ -406,7 +411,7 @@ Cross-link recommended:
 2. Atmanspacher, H., Römer, H., & Walach, H. (2002). Weak Quantum Theory: Complementarity and Entanglement in Physics and Beyond. *Foundations of Physics*, 32, 379-406. https://link.springer.com/article/10.1023/A:1014809312397
 3. Beck, F. & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361. https://www.pnas.org/doi/10.1073/pnas.89.23.11357
 4. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. *Psychological Bulletin*, 132(4), 497-523. https://pubmed.ncbi.nlm.nih.gov/16822162/
-5. Collins, R. (n.d.). Modern Physics and the Energy Conservation Objection to Mind-Body Dualism. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
+5. Collins, R. (2008). Modern Physics and the Energy-Conservation Objection to Mind-Body Dualism. *American Philosophical Quarterly*, 45(1), 31–42. Condensed version: https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
 6. Georgiev, D. D. & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*. https://www.sciencedirect.com/science/article/abs/pii/S0079610717301839
 7. Hameroff, S. & Penrose, R. (1996). Orchestrated reduction of quantum coherence in brain microtubules: A model for consciousness. *Mathematics and Computers in Simulation*, 40(3-4), 453-480.
 8. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
@@ -417,7 +422,7 @@ Cross-link recommended:
 13. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
 14. Mollon, P. (2020). Why Most Research Findings About Psi Are False: The Replicability Crisis, the Psi Paradox and the Myth of Sisyphus. *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.562992/full
 15. Nelson, R. D. (2019). Global Consciousness: Manifesting Meaningful Structure in Random Data. *Journal of Anomalous Experience and Cognition*. https://journals.lub.lu.se/jaex/article/view/25553
-16. Pitts, J. B. (2022). General Relativity, Mental Causation, and Energy Conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
+16. Pitts, J. B. (2022). General Relativity, Mental Causation, and Energy Conservation. *Erkenntnis*, 87(4), 1931–1973. https://link.springer.com/article/10.1007/s10670-020-00284-7
 17. Schmidt, H. (1969–1980s). Various RNG psi papers. Summarised in https://psi-encyclopedia.spr.ac.uk/articles/helmut-schmidt/
 18. Stapp, H. P. (1993, 2009 ed.). *Mind, Matter, and Quantum Mechanics*. Springer.
 19. Stapp, H. P. Quantum Interactive Dualism. https://www-physics.lbl.gov/~stapp/QID.pdf

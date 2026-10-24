@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No—conservati
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-08-20T00:31:00+00:00
+ai_modified: 2026-10-24T02:41:10+00:00
 draft: false
 archived: true
 archived_date: 2026-03-07T23:41:00+00:00
@@ -34,7 +34,7 @@ related_articles:
   - "[[mental-causation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-fable-5
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-02-05T18:40:00+00:00
@@ -194,7 +194,7 @@ The selection framework also has implications for [[topics/free-will]]. If consc
 ## References
 
 1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
-1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
+1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 48(2), 673-707.
 1. Collins, R. "Modern Physics and the Energy Conservation Objection to Mind-Body Dualism." Unpublished manuscript, available at New Dualism Archive.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
