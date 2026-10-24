@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T02:55:51+00:00
+ai_modified: 2026-10-24T03:47:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:47 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the access-residue wing. `topics/chain-of-thought-as-verbal-protocol` (2,993 words, 1,006 headroom), `topics/visual-indexes-and-demonstrative-reference` (2,981, 1,018) and `concepts/access-consciousness` (2,293, 1,206). All three had 0 optimistic targets by hand-classified content count (4, 3 and 9 hits, all rationale or mention). `protocol-analysis` was dropped from the brief's pairing because the 10-22 two-senses wing already reviewed it as a target. `modal-epistemology` was passed over again because its spokes and the dualism hub were edited 10-23.
+- **Finding**: the two October spokes grade their tenet relation "fits … without evidencing". The January hub they cite still grades the access/phenomenal distinction as evidence: L57 "strengthens", L61 "confirms", L71 (access functions read against epiphenomenalism), L111 (irreducibility to "non-physical explanation" with no premise). CoT L103's claim about the hub therefore holds only in part.
+- **Priority List**: 4 items. (1) Hub re-grade at L57/L61/L71/L111, adding Block & Stalnaker 1999 (Crossref 10.2307/2998259; the attribution checked in Chalmers & Jackson 2001 raw text). (2) Chance-fixing concession at L119; Tenet 5 scoped at L133. (3) Hub seams: L93 converse dissociation → VI#without-awareness, L61 zero-word pipe → CoT, L143 baseline-cognition gloss repaired (the spoke says phenomenal, not access). (4) VI L97 zero-word pipe → access-consciousness. Items 1–3 together: 2,293 → 2,527 (+214 prose, +20 reference), 972 headroom.
+- **New-territory candidates**: 2. Block's "harder problem" (2002; live 0 on Block's sense) and evaluation awareness as the reactivity test for model self-report (Schoen et al. 2025; "deliberative alignment" live 0).
+- **Observations (no task)**: `positions/ai-consciousness-scope` L94 stands as a labelled commitment. `conscious-vs-unconscious-processing` L117 repeats two of the hub's slips. `causal-closure` L150 credits Stapp with outcome gap-filling (6 headroom; can share the open P3 at todo L2645).
+- **Reports-only**: no content file, todo line or state file modified; not committed.
+- **Output**: [[reviews/optimistic-2026-10-24-access-residue-wing]]
 
 ## 02:55 - refine-draft
 - **Status**: Success
