@@ -5,6 +5,19 @@ ai_modified: 2026-10-25T16:57:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 17:26 - deep-review
+- **Status**: Success
+- **File**: [[concepts/direction-of-interface-change]]
+- **Word count**: 2806 → 2813 (+7; prose 2439, apparatus 374; soft 2500, hard 3500)
+- **Critical issues addressed**: 2. (1) Member two (L47) and the Tenet 3 paragraph (L83) stated the terminal-lucidity order ("*first and most prominently*") as fact, with the placement crediting it to Nahm et al. 2012. The source (memory-channel L106/L130) and research/autonoetic-first-vulnerability-ordering-2026-10-09 §3 record that the case collections measured occurrence and timing and say nothing on channel order. Both places now read "is reported to return", and L47 adds that the case collections record occurrence and timing, not channel sequence. (2) L65 put all four members under the interface architecture, contradicting the page's own L71/L79 (hysteresis and timing come from generic substrate dynamics). It now says so, with a named-anchor forward reference.
+- **Medium issues addressed**: 4. L73 adds the Tenet 5 self-binding to the page's one parsimony point. L67 drops the "is not a footnote… It is" construct. The description and L37 replace "load-bearing variable" with "explanatory variable". L83 cuts a near-verbatim restatement of L73 (−23).
+- **Enhancements made**: 0 new expansions (length-neutral mode)
+- **Citations**: Huang et al. 2021 *NeuroImage* 236:118042 and Hu et al. 2023 *Nat Neurosci* 26(5):751–764 are both real-correct at Crossref, and both quotes were grepped verbatim in the Europe PMC abstracts. The other three cites were unchanged since the 07-16/08-18 passes. Nahm 2012's attached claim is now limited to occurrence.
+- **Engagement modes** (editor-internal): production theorist, Mode Three. The page concedes absorption at per-case cost and that two members cost production nothing.
+- **Archive** (not edited): `archive/topics/recovery-order-asymmetry-as-interface-evidence.md` L66 "often returns *first and most prominently*".
+- **Out of scope, reported**: [[apex/self-concealing-interface]] L107 still says flatly that the autonoetic channel returns "*first and most prominently* in terminal lucidity". Its source has since moved to "is reported to return".
+- **Output**: [[reviews/deep-review-2026-10-25-direction-of-interface-change]]
+
 ## 16:57 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
