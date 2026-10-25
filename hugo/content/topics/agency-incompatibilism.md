@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-22
-ai_modified: 2026-10-22 02:01:13+00:00
+ai_modified: 2026-10-25 12:07:41+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-22 02:01:13+00:00
-lastmod: 2026-10-22 02:01:13+00:00
+lastmod: 2026-10-25 12:07:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ Her reply to Sean Clancy holds the line that matters most for the Map. Of his de
 
 This section is the Map's analysis. No published exchange between Steward and an interactionist dualist was found.
 
-**Sourcehood and luck: nothing.** Her reply to Clancy is the Map's own reasoning that states and properties cannot stand in for the agent, made by a physicalist about animals. The Map's reply to luck ends in "a legitimate terminus" that "says *who* settles the outcome, not why it went one way" ([agent causation](/concepts/agent-causation/#the-luck-objection)), and her account ends there too. Where the Map adds that selection on reasons makes a choice contrastively explicable, the reasons do that work, and a physical settler selecting on reasons has it as well. On akrasia, [the divided-will article](/topics/the-divided-will/#luck-objection) records that this reply fails, and that accepting the surd as the price of sourcehood is "the direction Steward's argument points". Her "nearly everywhere" would make that article's other reply, confining selection to choices with no settled ranking, less of a retreat than it reads. It leaves akrasia untouched, since akrasia is defined by a ranking the agent acts against.
+**Sourcehood and luck: nothing.** Her reply to Clancy is the Map's own reasoning that states and properties cannot stand in for the agent, made by a physicalist about animals. The Map's reply to luck ends in "a legitimate terminus" that "says *who* settles the outcome, not why it went one way" ([agent causation](/concepts/agent-causation/#the-luck-objection)), and her account ends there too. Van Inwagen's replay, which grants the agent-cause and still finds chance, presses both settlers alike ([the rollback argument](/concepts/rollback-argument-against-agent-causation/)). Where the Map adds that selection on reasons makes a choice contrastively explicable, the reasons do that work, and a physical settler selecting on reasons has it as well. On akrasia, [the divided-will article](/topics/the-divided-will/#luck-objection) records that this reply fails, and that accepting the surd as the price of sourcehood is "the direction Steward's argument points". Her "nearly everywhere" would make that article's other reply, confining selection to choices with no settled ranking, less of a retreat than it reads. It leaves akrasia untouched, since akrasia is defined by a ranking the agent acts against.
 
 **The persisting subject: a physical candidate.** [The Map's diagnostic](/concepts/where-the-substance-commitment-enters/) argues that agent causation needs a persisting substance to do the causing, since without one "the agent originated the action" loses its referent. Steward supplies such a substance, the animal, and it is physical. The substance requirement therefore does not reach the non-physical by itself, which matches the finding in [agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/) that dualism does not decide how agents act for reasons.
 

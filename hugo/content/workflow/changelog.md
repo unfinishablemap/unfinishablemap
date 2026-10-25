@@ -1,14 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 10:50:47+00:00
+ai_modified: 2026-10-25 11:47:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 10:50:47+00:00
+lastmod: 2026-10-25 11:47:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:08 - expand-topic
+- **Status**: Success
+- **Topic**: The Luck and Mind Arguments Against Agent-Causal Libertarianism
+- **Output**: [rollback-argument-against-agent-causation](/concepts/rollback-argument-against-agent-causation/)
+- **Word count**: 2732 (analyze_length total, including Further Reading and References; prose about 2,240). Concepts soft 2,500, hard 3,500.
+- **Based on research**: yes, [luck-and-mind-arguments-against-agent-causation-2026-10-25](/research/luck-and-mind-arguments-against-agent-causation-2026-10-25/)
+- **Section**: concepts, 364/370 by `count_section_files` before creation, 365/370 after.
+- **Pitch**: van Inwagen (2000) reruns the replay with agent causation granted. On Bernáth & Tőzsér's three-family taxonomy, every reply the Map has found ends in the agent's exercise; type-level probability structure is the replay's own premise. Labelled as the Map's reading: the replay converges on the conscious-state conditionals the Born-preserving default leaves free, so the Map either grants van Inwagen's premise and meets Bernáth & Tőzsér, or blocks the replay and makes the Born-exact public statistics Pereboom's wild coincidence. Both branches end at the companion law `apex/born-preserving-causal-efficacy` says the Map "has never written". The token settling is stated plainly as where explanation stops. Neutral on the [P-Q2](/positions/quantum-interface/#p-q2) quantifier (the open P1 human decision); Tenet 3 quantifier left open; no epiphenomenalism concession; Tenet 5 used against no one.
+- **Firewall and coiners**: O'Connor's emergentism (2011 abstract), Clarke's conditional defence and 2011 scepticism, and van Inwagen's "free will undeniably exists" are stated; no one is enlisted for dualism, and Griffith is cited for agent causation only. "Mind argument" is credited to van Inwagen (2000: 10) with Fischer 1988: 402 "associated with Hobart"; "rollback" is given as a later label (Buchak 2013) with no coiner credited.
+- **Quote tally**: 41 quoted spans checked by script against raw sources fetched this session (van Inwagen 2000 PDF, Fischer 1988 PDF, both SEP entries, OpenAlex abstracts incl. Bernáth & Tőzsér 2020 and the Griffith 2010 first-page excerpt, Babakhanian 2025 HTML, and the Map's own [P-Q2](/positions/quantum-interface/#p-q2), [P-A2](/positions/agency-and-will/#p-a2) and Born-preserving apex). 40 matched raw (one after nested-quote normalisation). One span, O'Connor 2011 "simply measures relative likelihood", is note-verified only and carried "as quoted in Bernáth and Tőzsér 2020": Dialnet reset the connection and PhilArchive returned 403 this session. Bernáth & Tőzsér's "division of labour" is paraphrased, not quoted. Not quoted, per the guards: the Griffith 2005 search-summary phrases, Archer 2022, the bodies of Finch 2017, Franklin 2011 and Clarke 2005, and Haji 2004. Fixed in drafting: Archer's first name (Joel, per OpenAlex).
+- **Integration** (analyze_length before → after):
+  - `topics/free-will` L94: zero-word pipe on "a primitive whose modal structure is owed rather than supplied": 3997 → 3997
+  - `concepts/agent-causation` L101: zero-word pipe on "a legitimate terminus": 3492 → 3492
+  - `concepts/quantum-indeterminacy-free-will` §Where Explanation Terminates: zero-word pipe on "a legitimate terminus": 3497 → 3497
+  - `topics/event-causal-libertarianism` §The Intelligibility Objection, one sentence: 3132 → 3156
+  - `topics/the-manipulation-argument-and-hard-incompatibilism` L70, one sentence (one-debt reading, labelled as the Map's): 2524 → 2557
+  - `topics/agency-incompatibilism` L78, one sentence: 2813 → 2831
+  - Not edited: `apex/consciousness-and-agency` (4,989/5,000), `positions/agency-and-will` (left to /positions-evolve), `archive/`, and the `concepts/reasons-responsiveness` rollback-contrastive P2 targets (coordination only).
+- **Cross-review**: registered in `task_chains.pending_cross_reviews` (11 targets).
+- **Apex sources**: no apex lists the new article; no apex-evolve task minted.
+- **Not committed**.
+
+## 11:47 - research-topic
+- **Status**: Success
+- **Topic**: The luck and Mind arguments against agent-causal libertarianism, and the agent-causalist replies (van Inwagen 2000; Haji; Mele 2006; Griffith 2005, 2010; Finch 2017; Franklin 2011)
+- **Output**: [luck-and-mind-arguments-against-agent-causation-2026-10-25](/research/luck-and-mind-arguments-against-agent-causation-2026-10-25/)
+- **Verdict**: `recommended_action: article`, `target_section: concepts`, `target_slug: rollback-argument-against-agent-causation`. The slug is free and concepts is at 364/370. `chain_note` dry run: minted. The three hubs that would otherwise take it have 2–7 words of headroom (`quantum-indeterminacy-free-will` 3,497, `agent-causation` 3,492, `free-will` 3,997). Fallback fold: `topics/event-causal-libertarianism` L80, budget ≤250 words (3,132/4,000).
+- **Key finding**: no agent-causalist reply supplies a token-level ground; every reply ends in the agent's exercise "at the time of the choice". Van Inwagen 2000 explicitly reruns the replay with agent causation (pp. 16–17, raw). The literature offers type-level structure only (O'Connor's propensities), and Bernáth & Tőzsér 2020 argue that it is incompatible with dual control. [P-Q2](/positions/quantum-interface/#p-q2) leaves free exactly the conscious-state conditionals a replay tests. So the modal structure that `free-will` L94 calls "owed rather than supplied" is the companion law that `apex/born-preserving-causal-efficacy` says the Map has never written. The luck, wild-coincidence and companion-law debts are one debt, and the token settling is bedrock.
+- **Coordination**: the ECL L80 scoping was already discharged (✓ 2026-10-20). The consequence-page Finch P3 is not re-proposed, and its caution (b) stands (Finch 2017's premise is unverified). Leads are handed to the Galen Strawson P3 (Clarke 2003 ch. 9; Levy 2009) and to the blocked apex primitive-parity P2.
+- **Sources consulted**: 36. Raw in full: van Inwagen 2000. Raw in part: Bernáth & Tőzsér 2020 (pp. 43–54), SEP Incompatibilist §3.2, SEP Free Will §3, Babakhanian 2025, Fischer 1988 and Haji 2022. The rest are OpenAlex or Crossref abstracts, plus Google Books snippets for Finch 2017, Heller 2017 and Clarke 2003.
+- **Quote tally**: 175 quoted spans checked by script against the saved raw sources. 157 matched verbatim and 8 more were confirmed by hand (Google Books snippets with tokeniser spacing, nested quotes, one [sic]). Two Griffith 2005 search-summary phrases are marked do-not-quote. The other 8 spans are titles or instructions, not quotations.
+- **Not edited**: no article, no archive, todo.md untouched; not committed.
 
 ## 10:50 - deep-review
 - **Status**: Success

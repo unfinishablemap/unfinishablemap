@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-25 08:28:44+00:00
+ai_modified: 2026-10-25 12:07:41+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 14:17:08+00:00
-lastmod: 2026-10-25 08:28:44+00:00
+lastmod: 2026-10-25 12:07:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ Kane replies on two fronts. First, in a genuinely indeterminate effort of will, 
 
 ## The Intelligibility Objection
 
-Agent-causal libertarianism answers the disappearing agent by making the agent the settler, but it pays for the answer with the **intelligibility objection**: can causation *by a substance*, rather than by an event, be made coherent at all? The orthodox view is that causation relates events; an enduring substance seems the wrong kind of relatum, and critics ask how an unchanging agent produces a change *at a particular time* without a triggering event—and if there is a triggering event, event-causation is back. Defenders reply with neo-Aristotelian substance causation as ontologically fundamental (Lowe, O'Connor, Jacobs and O'Connor) and with causal pluralism, on which substance and event causation are equally fundamental and interdependent, so that a change in the agent can accompany her causing without competing with it. Each wing, then, buys an answer to one objection at the cost of exposure to another: event-causal views are naturalistically respectable but vulnerable to luck; agent-causal views answer its disappearing-agent form but owe an account of substance causation. The rollback form is pressed against them too (van Inwagen 2000; Mele 2006): replay an agent's choice and ask what explains her causing this decision rather than the other, when everything before it was the same. Agent-causalists reply that the difference is the agent's exercising her free will differently; the Map treats that settling as a primitive whose modal structure is owed rather than supplied ([free-will](/topics/free-will/)).
+Agent-causal libertarianism answers the disappearing agent by making the agent the settler, but it pays for the answer with the **intelligibility objection**: can causation *by a substance*, rather than by an event, be made coherent at all? The orthodox view is that causation relates events; an enduring substance seems the wrong kind of relatum, and critics ask how an unchanging agent produces a change *at a particular time* without a triggering event—and if there is a triggering event, event-causation is back. Defenders reply with neo-Aristotelian substance causation as ontologically fundamental (Lowe, O'Connor, Jacobs and O'Connor) and with causal pluralism, on which substance and event causation are equally fundamental and interdependent, so that a change in the agent can accompany her causing without competing with it. Each wing, then, buys an answer to one objection at the cost of exposure to another: event-causal views are naturalistically respectable but vulnerable to luck; agent-causal views answer its disappearing-agent form but owe an account of substance causation. The rollback form is pressed against them too (van Inwagen 2000; Mele 2006): replay an agent's choice and ask what explains her causing this decision rather than the other, when everything before it was the same. Agent-causalists reply that the difference is the agent's exercising her free will differently; the Map treats that settling as a primitive whose modal structure is owed rather than supplied ([free-will](/topics/free-will/)). [The rollback argument](/concepts/rollback-argument-against-agent-causation/) sets out van Inwagen's replay, the replies to it, and why every reply the Map has found ends in that primitive.
 
 ## Relation to Site Perspective
 

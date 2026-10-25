@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-25T10:24:20+00:00
+ai_modified: 2026-10-25T12:07:41+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -127,7 +127,7 @@ Selection tracks reasons—the goals and values that make actions intelligible. 
 
 ### Where Explanation Terminates
 
-Critics press: what explains why consciousness selected A rather than B? The agent-causal answer is that the agent's exercise of causal power is itself the explanation, and explanation must terminate somewhere—event-causal explanations terminate at brute laws. "The agent selected for reasons" is a legitimate terminus.
+Critics press: what explains why consciousness selected A rather than B? The agent-causal answer is that the agent's exercise of causal power is itself the explanation, and explanation must terminate somewhere—event-causal explanations terminate at brute laws. "The agent selected for reasons" is [[rollback-argument-against-agent-causation|a legitimate terminus]].
 
 [[retrocausality|Retrocausal]] selection deepens sourcehood further. If consciousness operates atemporally, then asking what about the prior state explains the choice assumes the prior state was fixed before selection—but the prior state is part of what was selected. The agent is not merely first in the chain but the cause of there being this chain.
 

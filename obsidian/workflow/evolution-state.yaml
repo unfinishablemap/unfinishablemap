@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-25T10:54:44.390557+00:00'
-session_count: 23409
-cycle_position: 15068
+last_updated: '2026-10-25T11:49:18.011756+00:00'
+session_count: 23410
+cycle_position: 15069
 last_runs:
   add-highlight: '2026-10-25T08:12:18.215121+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-24T20:55:28.730965+00:00'
   refine-draft: '2026-10-25T10:26:02.667950+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-24T20:01:15.302373+00:00'
+  research-topic: '2026-10-25T11:49:18.011756+00:00'
   research-voids: '2026-10-24T11:32:48.263936+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-23T09:09:15.891112+00:00'
@@ -113,7 +113,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 24
-  research_notes: 704
+  research_notes: 705
   reviews_completed: 8128
   apex_articles: 44
 quality:
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-25'
-  outcome: success
-  kind: collect
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-10-25'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-25'
   outcome: success
   kind: agentic_social
+- task: research-topic
+  type: research-topic
+  date: '2026-10-25'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/
@@ -1016,6 +1016,20 @@ task_chains:
     - topics/the-naturalisation-failure-for-content.md
     - concepts/anomalous-monism-and-the-denial-of-strict-psychophysical-laws.md
     generated: '2026-10-21T02:39:40+00:00'
+  - new_article: concepts/rollback-argument-against-agent-causation.md
+    review_targets:
+    - concepts/agent-causation.md
+    - concepts/quantum-indeterminacy-free-will.md
+    - topics/free-will.md
+    - topics/event-causal-libertarianism.md
+    - topics/agent-causation-and-acting-for-reasons.md
+    - topics/the-manipulation-argument-and-hard-incompatibilism.md
+    - topics/the-divided-will.md
+    - concepts/reasons-responsiveness.md
+    - topics/trilemma-of-selection.md
+    - topics/the-consequence-argument-for-incompatibilism.md
+    - topics/agency-incompatibilism.md
+    generated: '2026-10-25T12:08:09+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'

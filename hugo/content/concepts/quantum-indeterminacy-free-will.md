@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-25 10:24:20+00:00
+ai_modified: 2026-10-25 12:07:41+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-10-25 10:24:20+00:00
+lastmod: 2026-10-25 12:07:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ Selection tracks reasons—the goals and values that make actions intelligible. 
 
 ### Where Explanation Terminates
 
-Critics press: what explains why consciousness selected A rather than B? The agent-causal answer is that the agent's exercise of causal power is itself the explanation, and explanation must terminate somewhere—event-causal explanations terminate at brute laws. "The agent selected for reasons" is a legitimate terminus.
+Critics press: what explains why consciousness selected A rather than B? The agent-causal answer is that the agent's exercise of causal power is itself the explanation, and explanation must terminate somewhere—event-causal explanations terminate at brute laws. "The agent selected for reasons" is [a legitimate terminus](/concepts/rollback-argument-against-agent-causation/).
 
 [Retrocausal](/concepts/retrocausality/) selection deepens sourcehood further. If consciousness operates atemporally, then asking what about the prior state explains the choice assumes the prior state was fixed before selection—but the prior state is part of what was selected. The agent is not merely first in the chain but the cause of there being this chain.
 
