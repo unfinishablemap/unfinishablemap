@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T19:30:25+00:00
+ai_modified: 2026-10-25T10:24:20+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -149,7 +149,7 @@ The [[libet-experiments|Libet challenge]] to this picture has weakened. Schurger
 
 The main philosophical objection to mental causation is [[causal-closure|causal closure]]: every physical event has a sufficient physical cause, so mental causes are redundant or epiphenomenal.
 
-Quantum indeterminacy supplies the response. At measurement events physics specifies necessary but not sufficient causes—which outcome occurs is genuinely undetermined, so [[causal-closure|closure fails precisely where consciousness acts]]. This transforms Kim's exclusion argument: mental causation operates where physical causation runs out, selecting among outcomes physics leaves open, with neither overdetermination nor exclusion. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet formalises this—consciousness biases indeterminate outcomes without injecting energy or violating conservation.
+Quantum indeterminacy supplies the response. At measurement events physics specifies necessary but not sufficient causes—which outcome occurs is genuinely undetermined, so [[causal-closure|closure fails precisely where consciousness acts]]. This transforms Kim's exclusion argument: mental causation operates where physical causation runs out, selecting among outcomes physics leaves open, with neither overdetermination nor sufficient-cause exclusion. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet formalises this—consciousness biases indeterminate outcomes without injecting energy or violating conservation.
 
 ## Many-Worlds: The Alternative Rejected
 

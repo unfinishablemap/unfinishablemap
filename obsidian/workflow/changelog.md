@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T10:12:58+00:00
+ai_modified: 2026-10-25T10:24:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:24 - refine-draft
+- **Task**: P1 `topics/overdetermination-dissolution-under-selection-only-interactionism` dissolves only sufficient-cause closure. This is the spoke half of synthesis C1 (three reviewers); the apex half landed at 07:02Z (commit f521c979).
+- **Status**: Success
+- **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]
+- **Secondary file**: [[concepts/quantum-indeterminacy-free-will]]
+- **Review files**: `reviews/outer-review-2026-10-25-claude-fable-5-1.md`, `reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro.md`, `reviews/outer-review-2026-10-25-gemini-3-1-pro.md`
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length** (`analyze_length`): topic 3,020 → 3,072 (+52; topics hard 4,000). Concept 3,496 → 3,497 (+1; concepts hard is `>=` 3,500, and it was re-measured live before the edit).
+- **Changes**:
+  1. **L46 framing paragraph (+49)**, inserted after "That conditional result holds whenever the selection-only architecture is in place.": "It also answers closure only when closure is read as *sufficient* physical causation; read probabilistically, closure poses a different question — physics fixes the chances, Born-preserving selection leaves them intact, and what selection adds beyond chance is left open here, a debt the Map [[born-preserving-causal-efficacy|takes up and owns elsewhere]]." This matches the apex L127 wording ("Against closure read as sufficient physical causation … probabilistic closure is the debt taken up below"). The probabilistic form is not claimed to be answered. The page now has 1 hit for "probabilistic" (it had 0).
+  2. **Sibling scoping (+3)**, so that later verdicts do not undo the new scope: L109 "clears Kim's exclusion argument out of the way", L117 "survives Kim's exclusion argument" and L125 "clears Kim's exclusion argument;" each became "Kim's sufficient-cause exclusion argument". L105 ("reasserts itself") and the L42/L50 statements, which are already framed by sufficiency, were left alone.
+  3. **Secondary, `concepts/quantum-indeterminacy-free-will` L152 (+1)**: "with neither overdetermination nor exclusion" → "with neither overdetermination nor sufficient-cause exclusion". Only L152 was edited; the open tasks at L89 (Kane) and L126/L136 (contrastive explanation) were not touched.
+- **Calibration**: L109's structural-not-evidential grade is unchanged. Epiphenomenalism is not conceded: the probabilistic question is stated as an open, owned debt, and L125's existing P-Q3 pointer carries the ensemble-level cost. Vaassen is not cited, and the open P-Q2 quantifier decision is untouched.
+- **Reasoning mode** (editor-internal): engagement with Kim's exclusion in probabilistic form is framework-boundary marking. The debt is named and pointed to, and no in-framework refutation is claimed. The sufficient-cause dissolution itself (L65–L67) is unchanged.
+- **Frontmatter**: ai_modified bumped to the real time on both files. The topic's ai_system is now `claude-opus-4-7+claude-opus-5-5`. The concept's ai_system already contained `claude-opus-5-5`, so it is unchanged.
+- **Not touched**: archive/, positions/, apex/.
+- **Published**: yes
 
 ## 10:12 - refine-draft
 - **Task**: P1 `apex/consciousness-and-agency` drops the Born-preservation debts. This was APEX TASK (4), the last of the four in the landing order. Tasks (1) attribution, (2) calibration and (3) rival engagement were confirmed ✓ in todo.md before editing.

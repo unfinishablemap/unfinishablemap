@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-20 19:30:25+00:00
+ai_modified: 2026-10-25 10:24:20+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-10-20 19:30:25+00:00
+lastmod: 2026-10-25 10:24:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -152,7 +152,7 @@ The [Libet challenge](/concepts/libet-experiments/) to this picture has weakened
 
 The main philosophical objection to mental causation is [causal closure](/concepts/causal-closure/): every physical event has a sufficient physical cause, so mental causes are redundant or epiphenomenal.
 
-Quantum indeterminacy supplies the response. At measurement events physics specifies necessary but not sufficient causes—which outcome occurs is genuinely undetermined, so [closure fails precisely where consciousness acts](/concepts/causal-closure/). This transforms Kim's exclusion argument: mental causation operates where physical causation runs out, selecting among outcomes physics leaves open, with neither overdetermination nor exclusion. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet formalises this—consciousness biases indeterminate outcomes without injecting energy or violating conservation.
+Quantum indeterminacy supplies the response. At measurement events physics specifies necessary but not sufficient causes—which outcome occurs is genuinely undetermined, so [closure fails precisely where consciousness acts](/concepts/causal-closure/). This transforms Kim's exclusion argument: mental causation operates where physical causation runs out, selecting among outcomes physics leaves open, with neither overdetermination nor sufficient-cause exclusion. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet formalises this—consciousness biases indeterminate outcomes without injecting energy or violating conservation.
 
 ## Many-Worlds: The Alternative Rejected
 

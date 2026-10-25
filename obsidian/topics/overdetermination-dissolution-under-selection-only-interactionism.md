@@ -4,7 +4,7 @@ description: "How the Map's strictest reading of Tenet 2 dissolves Kim's overdet
 created: 2026-05-14
 modified: 2026-05-14
 human_modified:
-ai_modified: 2026-09-27T19:02:00+00:00
+ai_modified: 2026-10-25T10:24:20+00:00
 last_deep_review: 2026-08-27T06:42:00+00:00
 draft: false
 topics:
@@ -34,7 +34,7 @@ related_articles:
   - "[[born-preserving-causal-efficacy]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-05-14
 last_curated:
 ---
@@ -43,7 +43,7 @@ Kim's exclusion argument turns on overdetermination: if physical causes are alre
 
 This is a different move from the standard responses to Kim — Yablo's proportionality, the identity-theory collapse, or Saad's delegatory dualism — which all accept Kim's framing and contest one of his other premises. Selection-only interactionism rejects the framing: at the quantum selection event, the physical and mental contributions are not two routes to the same effect but two parts of a single completed cause. The cost of the dissolution is the empirical price tag developed in [[selection-only-mind-influence]]: Born-rule preservation, absence of any signature in unconditioned outcome frequencies, content-confinement. The argument is not free, but neither is it ad hoc — it follows directly from what "minimal" means in the Map's tenet.
 
-One framing point should be flagged at the outset, because the title's word "dissolution" is easy to over-read. What gets dissolved is the *overdetermination structure*: if mind only selects among brain-generated candidates, there are not two sufficient causes to coincide, so Kim's premise 3 has nothing to grip. That conditional result holds whenever the selection-only architecture is in place. Whether the selection-only architecture is itself the *correct* account of mind, as against physicalism — which avoids overdetermination by a different route, identifying mental causes with physical ones — is a separate question, and it is underdetermined by the evidence. Physicalism and selection-only interactionism are, on the overdetermination question alone, empirically equivalent: both escape Kim, by incompatible means, and the escape itself does not adjudicate between them. The dissolution is therefore conditional on the framework, not a standalone result that favours the Map over its rivals.
+One framing point should be flagged at the outset, because the title's word "dissolution" is easy to over-read. What gets dissolved is the *overdetermination structure*: if mind only selects among brain-generated candidates, there are not two sufficient causes to coincide, so Kim's premise 3 has nothing to grip. That conditional result holds whenever the selection-only architecture is in place. It also answers closure only when closure is read as *sufficient* physical causation; read probabilistically, closure poses a different question — physics fixes the chances, Born-preserving selection leaves them intact, and what selection adds beyond chance is left open here, a debt the Map [[born-preserving-causal-efficacy|takes up and owns elsewhere]]. Whether the selection-only architecture is itself the *correct* account of mind, as against physicalism — which avoids overdetermination by a different route, identifying mental causes with physical ones — is a separate question, and it is underdetermined by the evidence. Physicalism and selection-only interactionism are, on the overdetermination question alone, empirically equivalent: both escape Kim, by incompatible means, and the escape itself does not adjudicate between them. The dissolution is therefore conditional on the framework, not a standalone result that favours the Map over its rivals.
 
 ## Kim's Overdetermination Premise
 
@@ -106,7 +106,7 @@ The dissolution is therefore conditional on a specific physical picture. The Map
 
 ## What the Dissolution Does Not Claim
 
-The argument here is structural, not evidential. The dissolution makes the case that selection-only interactionism is compatible with the local failure of Kim's premise 1 in a non-ad-hoc way — which is what leaves premise 3 with nothing to grip. It does not follow that selection-only interactionism is *true*, and the Map should not read the dissolution as positive evidence for the interface model. Treating the dissolution's elegance as evidence of its truth would commit the [[possibility-probability-slippage|possibility-probability slippage]] the Map names as a recurring error. Structural compatibility may be a necessary condition for the framework to be coherent under Kim's pressure; it is not a sufficient condition for the framework to be correct. Removing a defeater is not the same as upgrading the evidence: the dissolution clears Kim's exclusion argument out of the way without thereby raising the probability that the selection-only picture is the right one.
+The argument here is structural, not evidential. The dissolution makes the case that selection-only interactionism is compatible with the local failure of Kim's premise 1 in a non-ad-hoc way — which is what leaves premise 3 with nothing to grip. It does not follow that selection-only interactionism is *true*, and the Map should not read the dissolution as positive evidence for the interface model. Treating the dissolution's elegance as evidence of its truth would commit the [[possibility-probability-slippage|possibility-probability slippage]] the Map names as a recurring error. Structural compatibility may be a necessary condition for the framework to be coherent under Kim's pressure; it is not a sufficient condition for the framework to be correct. Removing a defeater is not the same as upgrading the evidence: the dissolution clears Kim's sufficient-cause exclusion argument out of the way without thereby raising the probability that the selection-only picture is the right one.
 
 Nor does the dissolution rescue all forms of interactionist dualism from Kim. Generation-permitting interactionist proposals — where mind contributes to which candidates the brain physically realises, not only to which one becomes actual — face Kim's argument in its original form. At a candidate-generation event, mind would seem to be adding to the physical-side causal story in a way that does either compete with or extend ordinary physical causation. Whether generation-permitting models could dissolve overdetermination by some analogous move is an open question the Map does not answer here. The dissolution presented in this article is specific to the selection-only reading.
 
@@ -114,7 +114,7 @@ A final caveat: the dissolution depends on premise 1 of Kim's argument being loc
 
 ## Relation to Site Perspective
 
-The overdetermination dissolution under selection-only interactionism is the cleanest articulation available of how the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet survives Kim's exclusion argument without requiring either reductive identification of mental causes with physical causes or an awkward retreat into denying systematic overdetermination by fiat.
+The overdetermination dissolution under selection-only interactionism is the cleanest articulation available of how the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet survives Kim's sufficient-cause exclusion argument without requiring either reductive identification of mental causes with physical causes or an awkward retreat into denying systematic overdetermination by fiat.
 
 [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] does the structural work. Because the interaction is minimal in the strictest sense — selection only, no energy injection, no Born-statistics violation — the mental contribution can be added at the indeterminacy gap without claiming territory that physics already occupies. The dissolution is the philosophical pay-off of taking "minimal" seriously: the smaller the interface, the less competition with physical causation it generates, and at the limit (pure selection) there is no competition at all.
 
@@ -122,7 +122,7 @@ The overdetermination dissolution under selection-only interactionism is the cle
 
 The Map's broader strategy in [[the-epiphenomenalist-threat|the epiphenomenalist threat]] argues that frameworks lacking a specific causal mechanism for consciousness drift toward epiphenomenalism by gravitational attraction. The dissolution presented here is the structural reason why the Map's framework escapes the well: not because consciousness is given a redundant copy of the physical-side causal story but because it is given a distinct, non-redundant role at a point where physical-side sufficiency fails.
 
-That escape operates at the token level — a genuine per-trial role, fixing which candidate actualises, with no redundant second cause. It leaves untouched the finer worry, internal to interactionism, that a per-trial selection which preserves Born statistics across the ensemble might still be dismissed as type-level idleness by a physicalist for whom efficacy means a statistical signature. That is the [[ensemble-level-epiphenomenalism|ensemble-level epiphenomenalism]] question — tracked as the Map's [[positions/quantum-interface#^mechanism-debt|mechanism debt]] (position P-Q3) and held open rather than discharged by the dissolution. The overdetermination result clears Kim's exclusion argument; it does not settle whether ensemble-invisible per-trial selection is a channel a physicalist would recognise.
+That escape operates at the token level — a genuine per-trial role, fixing which candidate actualises, with no redundant second cause. It leaves untouched the finer worry, internal to interactionism, that a per-trial selection which preserves Born statistics across the ensemble might still be dismissed as type-level idleness by a physicalist for whom efficacy means a statistical signature. That is the [[ensemble-level-epiphenomenalism|ensemble-level epiphenomenalism]] question — tracked as the Map's [[positions/quantum-interface#^mechanism-debt|mechanism debt]] (position P-Q3) and held open rather than discharged by the dissolution. The overdetermination result clears Kim's sufficient-cause exclusion argument; it does not settle whether ensemble-invisible per-trial selection is a channel a physicalist would recognise.
 
 ## Further Reading
 
