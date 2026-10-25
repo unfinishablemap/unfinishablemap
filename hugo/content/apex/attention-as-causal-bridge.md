@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-10-12 07:13:43+00:00
+ai_modified: 2026-10-25 14:15:23+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
-apex_last_synthesis: 2026-10-09 17:03:08+00:00
+apex_last_synthesis: 2026-10-25 14:15:23+00:00
 apex_sources:
 - concepts/attention-as-interface
 - concepts/mental-effort
@@ -25,7 +25,7 @@ concepts:
 - '[[attentional-economics]]'
 - '[[attention-schema-theory]]'
 created: 2026-02-14
-date: &id001 2026-10-09
+date: &id001 2026-10-25
 description: 'How might consciousness act on matter? The Map''s proposal: through
   attention, a bandwidth-limited selection interface where mind biases quantum indeterminacy
   in neural systems.'
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:21:21+00:00
-lastmod: 2026-10-12 07:13:43+00:00
+lastmod: 2026-10-25 14:15:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ The clinical and neuroscientific evidence converges on a two-layer architecture;
 2. **Dopamine** sets the selection threshold—marking options as salient and modulating how easily they become actions
 3. **Consciousness**, on the Map's hypothesis, biases which option crosses threshold—through sustained attentional engagement
 
-Cai et al. (2024, *Nature*) dissociated two dopamine signalling modes. Mice whose spike-evoked dopamine transients were abolished by dopamine-neuron-specific RIM knockout—baseline dopamine persisting—moved normally and still learned reward cues, but initiated fewer trials and pursued reward with less vigour. Baseline dopamine remained necessary for movement itself: depletion or receptor blockade produced bradykinesia, and L-DOPA restored movement without restoring the transients. The paper does not test the third layer: the architecture is consistent with rather than licensed by Cai et al., and stands or falls with the broader interface argument. Desmurget et al. (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are thereby neurally separable, though the intervention runs stimulation → conscious intention, and the authors read the result as making intention and awareness "emerging consequences" of parietal activity. The Map's policy-level reading is a further claim the dissociation permits rather than supports. Of the five candidate coupling mechanisms the [psychophysical laws](/concepts/psychophysical-laws/) article identifies, the architecture instantiates the first two: attention-bounded selection (attention as observation rate) and policy-level selection (intention as policy choice).
+Cai et al. (2024, *Nature*) dissociated two dopamine signalling modes. Mice whose spike-evoked dopamine transients were abolished by dopamine-neuron-specific RIM knockout—baseline dopamine persisting—moved normally and still learned reward cues, but initiated fewer trials and pursued reward with less vigour. Baseline dopamine remained necessary for movement itself: depletion or receptor blockade produced bradykinesia, and L-DOPA restored movement without restoring the transients. The paper does not test the third layer: the architecture is consistent with rather than licensed by Cai et al., and stands or falls with the broader interface argument. Desmurget et al. (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are thereby neurally separable, though the intervention runs stimulation → conscious intention, and the authors read the result as making intention and awareness "emerging consequences" of parietal activity. The Map's policy-level reading is a further claim the dissociation permits rather than supports. Of the four candidate coupling-law families the [psychophysical laws](/concepts/psychophysical-laws/) article identifies, the architecture instantiates the first two: attention-bounded selection (attention as observation rate) and policy-level selection (intention as policy choice).
 
 ## Does Attention Select at All?
 
@@ -117,7 +117,7 @@ If consciousness acts through attention, and conscious behavioural throughput is
 
 The economic framing [relocates moral responsibility](/topics/responsibility-gradient-from-attentional-capacity/) from the moment of decision—where traditional accounts focus—to the earlier cultivation or neglect of attentional capacity. Contemplative training lets a person sustain selection longer, resist distraction and notice options untrained attention would miss.
 
-The attentional economy has a limit beyond bandwidth: *habituation*. Familiar experiences—the kitchen you navigate without attending to it—drop out of phenomenal awareness while remaining functionally processed, and what has left awareness can no longer be a target of attentional selection. The meditator practising "beginner's mind" is learning to *de-habituate*, restoring the familiar to the phenomenal field and so to the options attention can invest in.
+The attentional economy has a limit beyond bandwidth: *habituation*. Familiar experiences—the kitchen you navigate without attending to it—drop out of phenomenal awareness while remaining functionally processed, and what has left awareness is no longer a target of attentional selection. The meditator practising "beginner's mind" is learning to *de-habituate*, restoring the familiar to the phenomenal field and so to the options attention can invest in.
 
 The witness mode, in which observing feels free of selecting, is a distinct economic regime: contemplatives who enter [witness consciousness](/concepts/witness-consciousness/) exercise meta-agency, choosing to hold selection back rather than direct it.
 
@@ -163,7 +163,7 @@ On this reading the four-way dissociation is precision decoupling from access—
 
 The readings might come apart in two places, and neither yet delivers a settled discriminator. The first is effort phenomenology. Predictive processing can model effort as the expected cost of reallocating precision, but it inherits the debt pressed against illusionism above: a precision parameter being reset is a functional event, and the account does not say why it should be *felt* as costly. The felt-effort dissociations cut against the simplest dualist identity too, so the residue constrains both readings. The second is a candidate forward claim: that phenomenal effort scales with the entropy of the option set at threshold-crossing, controlling for stimulus discriminability, on the intuition that precision tracks expected reliability, not option-set cardinality. Active inference predicts much the same correlation. Sandved-Smith et al. (2021) model covert attentional control as policy selection over mental actions, and Parr et al. (2023) formalise mental effort as covert mental action in the very Stroop paradigm the effort argument above leans on, where effort scales with how far a task drives beliefs about policies away from their priors—a quantity that rises as the option set grows more contested. The test bites only if the two accounts predict different functional forms, and none has been derived, so the discriminator is a debt on the interface hypothesis rather than a measurement awaiting a laboratory, and the disagreement sits closer to bedrock than the dissociation evidence suggests. Naming the rival is the [evidential-status discipline](/project/evidential-status-discipline/) at work.
 
-That admits the rival in one register only, as a *reading* of the attention evidence. Active inference and the free-energy principle also come as a *total* generative framework that natively models what the interface hypothesis reserves for a non-physical subject—agency, attention, effort and interoceptive selfhood (Seth's "beast machine"). [The Map's treatment of predictive processing and dualism](/topics/predictive-processing-and-dualism/) carries that framework-level confrontation, steelmanning active inference in its own vocabulary, engaging Laukkonen, Friston and Chandaria's (2025) beautiful-loop theory as the strongest physicalist rival, and concluding that the residue is a framework boundary rather than a refutation in either direction.
+That admits the rival in one register only, as a *reading* of the attention evidence. Active inference and the free-energy principle also come as a *total* generative framework that natively models what the interface hypothesis reserves for a non-physical subject—agency, attention, effort and interoceptive selfhood (Seth's "beast machine"). [The Map's treatment of predictive processing and dualism](/topics/predictive-processing-and-dualism/) carries that framework-level confrontation, engaging Laukkonen, Friston and Chandaria's (2025) beautiful-loop theory as the strongest physicalist rival, and concluding that the residue is a framework boundary rather than a refutation in either direction.
 
 ## The Void at Attention's Core
 
@@ -185,11 +185,11 @@ The empirical strands (the dissociations, willed-mode markers, dopamine and stim
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The dissociation between attention and consciousness is consistent with their ontological distinctness, though physicalists read it as distinct neural circuits. The Map's reading gains force only because one side involves the hard problem, and AST's unearned step from representational content to ontic status leaves that irreducibility standing.
+**[Dualism](/tenets/#dualism)**: The dissociation between attention and consciousness is consistent with their ontological distinctness, though physicalists read it as distinct neural circuits. The Map's reading gains force only because one side involves the hard problem, and AST's unearned step from representational content to ontic status leaves that problem open.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The attention interface is where the Map locates mind-matter interaction, whether through the Zeno mechanism—with its [decoherence objections](/concepts/decoherence/) and sign problem noted above—or another. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes. That answers the energy worry, not [Kim's exclusion worry](/concepts/causal-exclusion-argument/), which is about causal redundancy given a sufficient physical cause rather than where the joules originate. The Map's reply denies that sufficiency at the quantum joint, where [closure](/concepts/causal-closure/) holds only probabilistically—fixing the statistics but not which outcome actualises, so nothing sufficient is there for selection to be redundant to.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The attention interface is where the Map locates mind-matter interaction, whether through the Zeno mechanism—with its [decoherence objections](/concepts/decoherence/) and sign problem noted above—or another. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes. That answers the energy worry, not [Kim's exclusion worry](/concepts/causal-exclusion-argument/), which concerns redundancy given a sufficient physical cause. The Map denies that sufficiency at the quantum joint, where physics fixes the chances but not which outcome actualises, so nothing sufficient is there for selection to be redundant to. Exact Born preservation leaves [closure](/concepts/causal-closure/) stated as chance-fixing intact, and whether settling the outcome counts as causing is the open debt [P-Q3](/positions/quantum-interface/#p-q3) records.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The attention cluster elaborates this tenet without discharging [its standing debt](/tenets/#tenet-3-standing); the return cycle models it in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's OCD work is compatible with it: patients who learn to redirect attention show reduced caudate activity on PET imaging, though the study was small (n=18), not replicated with the same method outside the UCLA group, and open to a Hebbian-learning account. That cognitive and pharmacological interventions take different routes is what input anatomy predicts; [the clinical-neuroplasticity article](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) rests what remains on a preferential top-down direction, and finds the data do not adjudicate.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The attention cluster elaborates this tenet without discharging [its standing debt](/tenets/#tenet-3-standing); the return cycle models it in miniature. Schwartz's OCD work is compatible with it: responders trained to redirect attention showed reduced caudate metabolism on PET, though the study was small (n=18), not replicated with the same method outside the UCLA group, and open to a Hebbian-learning account. That cognitive and pharmacological interventions take different routes is what input anatomy predicts; [the clinical-neuroplasticity article](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) rests what remains on a preferential top-down direction, and finds the data do not adjudicate.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The selection model requires that quantum indeterminacies resolve to definite outcomes; if all branches persist equally, there is nothing for consciousness to select. The phenomenology of effort does not decide the matter, since effort felt in *this* branch has a within-branch physical story. The rejection rests on the tenet's indexical objection, and here it is a commitment noted rather than a result won against many-worlds on its own terms.
 

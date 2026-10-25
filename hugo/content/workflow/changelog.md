@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 13:53:44+00:00
+ai_modified: 2026-10-25 14:17:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 13:53:44+00:00
+lastmod: 2026-10-25 14:17:03+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:17 - apex-evolve
+- **Status**: Complete
+- **Article**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Mode**: hub-over-spoke drift audit (driver priority). 23 of 33 linked pages moved since the page's last edit (10-12). `consciousness-and-agency` was skipped because it had already had four edits today
+- **Changed sources**: 23. Four drifts were fixed and the rest are at grade: (1) Relation/MQI exclusion reply now states that exact Born preservation leaves chance-fixing closure intact, with the settling-as-causing debt as [P-Q3](/positions/quantum-interface/#p-q3) (`causal-closure` L138, `causal-exclusion-argument` L79/L88); (2) Relation/Dualism "leaves that irreducibility standing" → "leaves that problem open" (`psychophysical-laws` L124); (3) Schwartz "patients who learn to redirect attention show reduced caudate activity" → "responders trained to redirect attention showed reduced caudate metabolism" (`psychophysical-laws` L167, `clinical-neuroplasticity…` L44); (4) "five candidate coupling mechanisms" → "four candidate coupling-law families" (`psychophysical-laws` L161)
+- **Word count**: 4,959 → 4,955 (body, `analyze_length`; 44 under the hard gate)
+- **Flag**: reverse drift, not edited. `concepts/mental-effort` L46 says felt effort "so does causal work" from the Naccache SCR datum, which the hub correctly reads the other way. A refine-draft is suggested
+- **Review**: [apex-evolve-2026-10-25-attention-as-causal-bridge](/reviews/apex-evolve-2026-10-25-attention-as-causal-bridge/)
 
 ## 13:53 - research-voids
 - **Status**: Success
