@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 22:27:17+00:00
+ai_modified: 2026-10-25 23:31:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 22:27:17+00:00
+lastmod: 2026-10-25 23:31:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 23:31 - research-topic
+- **Status**: Success
+- **Topic**: Measuring mystical experience: Stace-derived scales as a common cause, and Taves's building-block approach
+- **Output**: [measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach-2026-10-25](/research/measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach-2026-10-25/)
+- **Sources consulted**: 19. Full texts: Griffiths et al. 2006, MacLean et al. 2012 and Barrett et al. 2015 (both PMC author manuscripts), Pahnke & Richards 1966, Taves 2020 (accepted manuscript), SEP "Mysticism", and Griffiths et al. 2016 as a negative check. Abstracts or metadata: Hood 1975 and 2001, and Taves 2008, 2009, 2010, 2011, 2012, 2015 and 2023.
+- **Verdict**: `recommended_action: fold`. Concepts is at 367/370, and the core fits three hosts, with passages drafted and each OLD string at count 1.
+  - The Void takes Taves at L87 and an instrument qualifier in the condition-3 audit, +155 after the pending +87 task, ending at 2,961 of 3,000.
+  - `voids/biological-cognitive-closure` L69 gets a factual correction plus the discount (+112).
+  - `concepts/phenomenological-evidence` gets the general rule (+79).
+  - `topics/psychedelics-and-the-filter-model` L137 has an optional −25 deletion, routed to its blocked NEEDS-HUMAN task.
+- **Key findings**:
+  - Both standard scales descend from Stace (1960), and their authors say so: "both questionnaires are based on Stace's framework" (MacLean et al. 2012).
+  - Taves is an attributionist; SEP says she "rejects constructivism". The Void's reply to Katz does not reach her.
+  - `biological-cognitive-closure` L69's "same three-factor pattern across … Indian Hindus, and East Asian Buddhists" is contradicted by MacLean et al. 2012, and the page's "ineffability factor" does not exist in the three-factor model.
 
 ## 22:27 - deep-review
 - **Status**: Success
