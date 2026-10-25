@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T07:03:31+00:00
+ai_modified: 2026-10-25T07:31:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 07:31 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the contemplative and altered-state evidence wing, chosen by date of last optimistic mention weighted by inbound links. Pages: `concepts/neurophenomenology-and-contemplative-neuroscience` (3,453 of 3,500; 51 inbound), `concepts/altered-states-of-consciousness` (3,482 of 3,500; 45) and `voids/ineffable-encounter-void` (2,719 of 3,000; 25). No open task edits any of them (active-section grep).
+- **Finding**: each page discloses its limits well. Each also keeps one older sentence that its own best paragraph has since withdrawn. Neuro L121 against L95's parity. Neuro L131 and L189 counting convergence as passed. Altered L107 "consciousness operated during cessation" against L103 "full loss of consciousness". Void L155 enlisting Rosa against L83's "one point only". Neuro calls "evidence" the same findings Altered L105 calls "coherence rather than evidence".
+- **Priority List** (4 items; exact OLD → NEW; every OLD string has `str.count == 1`; measured on scratch copies): (1) Neuro evidence grading to fit and P-M2, 8 loci plus the description, +20. (2) Neuro tenets read off the data, at L67, L93, L121, L193, L197, L199 and L201, −14. L199 and L201 come from the never-minted tenet-check 09-20 and 10-21 findings. Items 1 and 2 together cost +6. (3) Altered, net 0: L79 Hudetz/anesthesia fidelity fix, P-M2 at L103, cessation contradiction at L107. (4) Void, +87: runs falsifier 3 against Griffiths et al. 2006, plus the Rosa carry-through, the kind made conditional, the L130 stalemate, Tenet 5 made symmetric at L151, and the L157 Family-5 sentence deleted.
+- **Verified this pass (raw text)**:
+  - Griffiths et al. 2006: Crossref `10.1007/s00213-006-0457-5` and the Europe PMC abstract. The Conclusions sentence is quoted verbatim.
+  - Mashour 2024: NCBI PMC full text (PMC11098701). "received but not perceived" is Mashour quoting Anthony Hudetz, and the state is anesthesia, not sedation.
+  - Laukkonen et al. 2023: Europe PMC (PMID 37714573). "total absence of consciousness"; "preliminary data from two labs"; the full title ends "of nirodha samāpatti".
+- **Cross-links**: 12 zero-word pipes, including 2 reverse links (from `voids/tacit-integration-void` and `topics/brain-stimulation-and-the-witness-mode`). Every slug resolves uniquely, and the anchors were checked against `hugo/public`.
+- **Defects to route**: Neuro's Laukkonen reference is truncated, and its "single-practitioner" description is an unverified lead. Altered L45 lead overclaim (zero-cost swap given). Altered L73 "genuinely". Spillover: `topics/psychedelics-and-the-filter-model` L137 "independent mystical traditions" (−1) and `apex/testing-the-map-from-inside` L195 cessation inference.
+- **New territory**: 2 fold candidates. Taves 2009, at live 0 and research 0, folds into the Void's L87 paragraph. The mysticism-scale instrument common cause, with Pahnke and M-scale both at live 0, is research-first.
+- **Reports-only**: no article, todo.md, archive or state edits; not committed.
+- **Output**: [[reviews/optimistic-2026-10-25-contemplative-evidence-wing]]
 
 ## 07:03 - refine-draft
 - **Status**: Success
