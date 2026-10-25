@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T15:09:14+00:00
+ai_modified: 2026-10-25T15:34:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:34 - deep-review
+- **Status**: Success
+- **File**: [[concepts/rollback-argument-against-agent-causation]] (first review; created 12:08Z today)
+- **Selection**: `deep_review.py next`, score 100, never reviewed. Nothing it depends on moved after it was created. Its five Map-internal quotes (P-Q2, P-A2, the born-preserving apex's companion law, `#costs-integrated`, the QIFW terminus) still match their pages verbatim.
+- **Word count**: 2732 → 2735 (`analyze_length`; concepts soft 2,500, hard 3,500). Prose changed by −6 words and the new reference entry adds +9.
+- **Critical issues addressed**: 2.
+  - L62: "Every family above ends there in a primitive" → "Every agent-causal reply above ends there in a primitive". The old sentence contradicted L52, where the event-causal family uses a probability-raising contrastive explanation. SEP Free Will §3.1 (raw) credits Kane 1999, Clarke 2003 ch. 8 and Franklin 2011a and 2018 ch. 5 with that token-level contrastive explanation. The new wording matches the lead's scope. The description was scoped the same way: "Every reply the Map has found" → "Every agent-causal reply the Map has found".
+  - L38: "and argues 'that free will and indeterminism are incompatible even if…'" → "and presents an argument 'that free will…'". Van Inwagen 2000 says "present an argument for the conclusion that" (p. 1), believes "there is something wrong with this argument" (p. 18) and holds that "free will undeniably exists" (p. 1). The old verb gave him a conclusion he rejects.
+- **Medium issues addressed**: 4.
+  - L83: "(Pereboom 2014)" → "(Pereboom 2001, ch. 3; 2014)", the originating work. Sources: SEP Free Will §3.1 raw, "(2001, ch. 3; 2014, ch. 3)"; the NDPR review of *Living Without Free Will* (raw) quotes "wild coincidences" at pp. 84–85. A References entry was added: Crossref 10.1017/CBO9780511498824.
+  - L72: "which they argue cannot be had" cut as a repeat of L70 (−5).
+  - L93: "a fact about which thing is the source" cut as a repeat of the P-A2 quote that follows (−7).
+  - Babakhanian reference: issue number added, 106(2) (Crossref).
+- **Enhancements made**: 1. In the lead, "luck objection" became a zero-word pipe to `[[agent-causation#the-luck-objection]]`.
+- **Citations**:
+  - Of the 25 references, the 18 with a DOI were re-fetched live at Crossref (Fischer via JSTOR 10.2307/2185448). B&T was checked against its PDF header, both SEP entries against their raw revision dates, and Griffith 2010 against OpenAlex. All are real-correct apart from the Babakhanian issue number. The two Map self-citations were not re-checked.
+  - 41 quoted spans besides the article's own "every reply" were re-grepped against the raw sources held in the session scratchpad (van Inwagen PDF, Fischer PDF, both SEP entries, the B&T Dialnet PDF, Babakhanian, OpenAlex abstracts) using an independent script. 40 matched by script and the nested-quote span matched by hand.
+  - Van Inwagen page numbers were verified one PDF page at a time (PDF pages = journal pp. 1–19). Fischer "associated with Hobart" is on p. 402.
+  - B&T's three-family roster matches p. 47.
+  - O'Connor 2011 "simply measures relative likelihood" stays "as quoted in" B&T. A Google Books search-within on the Handbook was blocked (0 hits even for the control query "free will").
+- **Reasoning mode**: van Inwagen, Bernáth & Tőzsér, Pereboom and the event-causal family are all Mode Three. The token-level primitive is declared bedrock. B&T's argument and the wild-coincidence cost are carried as undischarged; nothing is refuted inside an opponent's framework.
+- **Calibration**: Tenet 3 quantifier left open; P-Q2 ensemble left unsettled, so the P1 HUMAN DECISION is untouched. Epiphenomenalism not conceded. No author enlisted for dualism; Kane is placed as an event-causal rival on B&T's 1996 citation. Tenet 5 used against no one. No "This is not X. It is Y.", no "load-bearing", no editor labels.
+- **Out of scope** (for the driver to mint):
+  1. Müller, T. (2023). "Taming Pereboom's Wild Coincidences". *Mind* 132(527): 789–802, doi 10.1093/mind/fzad002 (Crossref). Per search summaries, it argues the wild-coincidence inference is valid for deterministic laws but fails for statistical ones. That would bear directly on the second branch's "cost the Map records as undischarged" here, on `topics/the-manipulation-argument-and-hard-incompatibilism` L70 and on `topics/agent-causation-and-acting-for-reasons` L97, which cites only Runyan 2018 and Taggart 2021. Status: lead; body unread; the corpus has 0 hits. Suggested task: research-topic or refine-draft. Do not enlist Müller for dualism.
+  2. Bernáth & Tőzsér (p. 44) date van Inwagen's replay to "(1998, 2000)". The 1998 version is van Inwagen's "The Mystery of Metaphysical Freedom" [lead, not checked]. The article is correct to cite 2000 for the agent-causal version. A corpus claim that the replay first appeared in 2000 would be a lead to check.
+  3. `topics/agent-causation-and-acting-for-reasons` L97 and the other siblings cite only "Pereboom (2014)" for wild coincidences. The originating work is 2001 ch. 3, so 2001 should be added where those pages credit the idea.
+- **Output**: [[reviews/deep-review-2026-10-25-rollback-argument-against-agent-causation]]
+- **Frontmatter**: ai_modified and last_deep_review 2026-10-25T15:33:19+00:00 (live `date -u`). ai_system unchanged, since claude-opus-5-5 is already present.
+- **Not committed**.
 
 ## 15:09 - refine-draft
 - **Status**: Success

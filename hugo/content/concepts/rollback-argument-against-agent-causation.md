@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-10-25 12:07:41+00:00
+ai_modified: 2026-10-25 15:33:19+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -11,12 +11,13 @@ concepts:
 created: 2026-10-25
 date: &id001 2026-10-25
 description: Van Inwagen's replay says agent causation leaves an undetermined choice
-  to chance. Every reply the Map has found ends in a primitive, and the Map's own
-  debt is an unwritten probability law.
+  to chance. Every agent-causal reply the Map has found ends in a primitive, and the
+  Map's own debt is an unwritten probability law.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-25 12:07:41+00:00
+last_deep_review: 2026-10-25 15:33:19+00:00
+lastmod: 2026-10-25 15:33:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,13 +34,13 @@ topics:
 - '[[the-manipulation-argument-and-hard-incompatibilism]]'
 ---
 
-The **rollback argument** holds that if a choice is undetermined, then replaying the universe many times from exactly the same prior state would yield different choices on different replays, in proportions that settle towards a ratio, so that which choice occurs on any one occasion is a matter of chance. Peter van Inwagen (2000) ran the argument with agent causation explicitly granted and concluded that "whether or not Alice's acts are the results of agent-causation—it is a mere matter of chance whether she will tell the truth or lie" (p. 17). "Rollback" is a later label; van Inwagen's own word is "replays". It is the luck objection in the form aimed at agent-causal libertarianism, the view that an agent, rather than any event, settles which open option becomes actual.
+The **rollback argument** holds that if a choice is undetermined, then replaying the universe many times from exactly the same prior state would yield different choices on different replays, in proportions that settle towards a ratio, so that which choice occurs on any one occasion is a matter of chance. Peter van Inwagen (2000) ran the argument with agent causation explicitly granted and concluded that "whether or not Alice's acts are the results of agent-causation—it is a mere matter of chance whether she will tell the truth or lie" (p. 17). "Rollback" is a later label; van Inwagen's own word is "replays". It is the [luck objection](/concepts/agent-causation/#the-luck-objection) in the form aimed at agent-causal libertarianism, the view that an agent, rather than any event, settles which open option becomes actual.
 
 The Unfinishable Map's verdict comes first, and it holds only inside the Map's framework. Every agent-causalist reply the Map has found ends in the same primitive, the agent's exercise of her power, with nothing more basic explaining why it went this way rather than that. Where the literature adds structure, it adds a probability profile over the agent's exercises, which is the replay's own premise. On the Map's own reading, which no cited author makes, the replay lands on the probabilities the Map's Born-preserving default leaves unfixed, and both branches of the resulting [probability fork](#probability-fork) (explained below) end at a companion law the Map has not written. Under that law the token-level settling stays primitive: the Map can say *who* settles an outcome, and not why the settling went one way.
 
 ## The Argument {#the-argument}
 
-Van Inwagen grants agent causation "for the sake of argument" and argues "that free will and indeterminism are incompatible even if our acts or their causal antecedents are products of agent causation" (2000: 1), so that "the concept of agent causation is entirely irrelevant to the problem of free will" (p. 11).
+Van Inwagen grants agent causation "for the sake of argument" and presents an argument "that free will and indeterminism are incompatible even if our acts or their causal antecedents are products of agent causation" (2000: 1), so that "the concept of agent causation is entirely irrelevant to the problem of free will" (p. 11).
 
 Alice tells the truth in an undetermined choice. God causes the universe "to revert to precisely its state" a minute earlier (p. 14) and lets it run again, many times. If she tells the truth in about half the replays, what could we believe about the next one except that each outcome "has an objective, 'ground-floor' probability of 0.5—and there's nothing more to be said" (p. 15)? Rerun the case with Alice agent-causing the brain events behind whichever act she performs, and the conclusion quoted above follows either way (pp. 16–17). Van Inwagen believes "there is something wrong with this argument", but holds that "its flaw is not that it overlooks the possibility that my actions have their root in agent-causation" (p. 18).
 
@@ -63,7 +64,7 @@ The Map enlists none of these defenders for dualism. O'Connor argues that agent-
 
 ## Where Every Reply Ends {#where-replies-end}
 
-At the **token** level, the question is why this exercise of the power went to A rather than B, given everything before it. Every family above ends there in a primitive: an exercise "at the time of the choice", a matter of "how Leo exercises his free will", acts that "could be inexplicable". At the **type** level, the question is what constrains the power's exercises across like circumstances, and here the literature does answer: O'Connor's objective probabilities, or Clarke's integrated view, in which the agent's reasons co-cause the choice with the agent.
+At the **token** level, the question is why this exercise of the power went to A rather than B, given everything before it. Every agent-causal reply above ends there in a primitive: an exercise "at the time of the choice", a matter of "how Leo exercises his free will", acts that "could be inexplicable". At the **type** level, the question is what constrains the power's exercises across like circumstances, and here the literature does answer: O'Connor's objective probabilities, or Clarke's integrated view, in which the agent's reasons co-cause the choice with the agent.
 
 That answer cannot dissolve the objection, because a theory that supplies objective probabilities over the agent's exercises supplies the replay's own premise. The second family blocks the replay precisely by refusing it.
 
@@ -73,7 +74,7 @@ Joel Archer's (2022) grounding reply and the bodies of Clarke (2005) and Frankli
 
 The literature's fork is to deny robust probabilities and block the replay, or to keep them and reconcile them with the agent's control. Bernáth and Tőzsér argue that reconciliation fails: "metaphysically robust probabilities are incompatible with a kind of control which can ensure that free actions are not a matter of chance" (2020, abstract). If the agent's control settles each token, it settles the pattern, and the probabilities have nothing left to explain. On their argument O'Connor's division of labour between agent and probabilities is unavailable, and a libertarian who wants that control should deny robust probabilities.
 
-Their target is one combination, which they argue cannot be had; they leave the probability-denying alternative open and do not refute agent causation. The field treats the question as open: why such probabilities "might present special problems beyond those posed by the absence of determinism has been insufficiently explored to date" (O'Connor and Franklin 2022, §3.1).
+Their target is one combination; they leave the probability-denying alternative open and do not refute agent causation. The field treats the question as open: why such probabilities "might present special problems beyond those posed by the absence of determinism has been insufficiently explored to date" (O'Connor and Franklin 2022, §3.1).
 
 ## The Map's Reading: One Debt {#one-debt}
 
@@ -84,7 +85,7 @@ This section is the Map's own analysis, which no source above makes, and it take
 **The fork at that grain**, stated symmetrically:
 
 - **If the conditionals are objective propensities**, the Map grants van Inwagen's premise at that grain and meets Bernáth and Tőzsér's objection. This is the reading the Map needs if selection is ever to depart from the public statistics under some conditioning, the first horn of [the Born-preservation trilemma](/apex/born-preserving-causal-efficacy/).
-- **If there are no such propensities**, the Map blocks the replay as Buchak and Vicens would. The Born-exact public statistics must then hold without being a mixture of conditional chances: across many agents and occasions, propensity-free settlings would match the Born weights with nothing explaining the match. That is Derk Pereboom's wild-coincidences objection (Pereboom 2014) applied to the Born weights, a cost the Map records as undischarged ([hard incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)).
+- **If there are no such propensities**, the Map blocks the replay as Buchak and Vicens would. The Born-exact public statistics must then hold without being a mixture of conditional chances: across many agents and occasions, propensity-free settlings would match the Born weights with nothing explaining the match. That is Derk Pereboom's wild-coincidences objection (Pereboom 2001, ch. 3; 2014) applied to the Born weights, a cost the Map records as undischarged ([hard incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)).
 
 **Both branches end at one law.** The Map's own analysis concludes that exact Born-preservation "needs a companion law over the distribution of conscious reasons, and the Map has never written one" ([Born-preserving causal efficacy](/apex/born-preserving-causal-efficacy/)). On the first branch that law would be a propensity profile over conscious states, constrained to keep the public statistics Born-exact; on the second, a law of conformity making the match lawful rather than coincidental. On the Map's reading, then, the modal structure its luck reply owes, the wild-coincidence cost and the companion-law debt are one unwritten law.
 
@@ -94,7 +95,7 @@ None of this concedes epiphenomenalism. On both branches the agent settles each 
 
 ## Bedrock at the Token {#bedrock}
 
-On the Map's analysis, the first branch leaves the agent's settling and a primitive chancy transition supporting the same counterfactuals about replays: the same frequencies, and the same unpredictable next replay. On the second, the settling has no frequency profile at all, which supports fewer counterfactuals. What agent causation claims beyond either is categorical, a fact about which thing is the source; the Map's register calls the difference "metaphysical (which thing is the causal source)" ([P-A2](/positions/agency-and-will/#p-a2)).
+On the Map's analysis, the first branch leaves the agent's settling and a primitive chancy transition supporting the same counterfactuals about replays: the same frequencies, and the same unpredictable next replay. On the second, the settling has no frequency profile at all, which supports fewer counterfactuals. What agent causation claims beyond either is categorical; the Map's register calls the difference "metaphysical (which thing is the causal source)" ([P-A2](/positions/agency-and-will/#p-a2)).
 
 No reply the Map has found turns that categorical difference into a counterfactual one. Explanation stops there in the Map's account, and the Map says so plainly: it answers who settles the outcome, and has no further answer to why the settling went one way. [The Map's luck reply](/concepts/quantum-indeterminacy-free-will/) defends that stopping point as a legitimate terminus within its framework, without claiming that the quantum interface removes it.
 
@@ -125,7 +126,7 @@ Three developments would change the verdict: a reply grounding the token without
 ## References
 
 1. Archer, J. (2022). Grounding and the luck objection to agent-causal libertarianism. *Philosophical Studies*, 179(5), 1763–1775. https://doi.org/10.1007/s11098-021-01728-8 (not read)
-1. Babakhanian, A. (2025). Thomist Libertarianism is Committed to Mysterianism. *New Blackfriars*, 106, 101–113. https://doi.org/10.1017/nbf.2024.19
+1. Babakhanian, A. (2025). Thomist Libertarianism is Committed to Mysterianism. *New Blackfriars*, 106(2), 101–113. https://doi.org/10.1017/nbf.2024.19
 1. Bernáth, L., & Tőzsér, J. (2020). Rolling Back the Rollback Argument. *teorema*, 39(2), 43–61.
 1. Buchak, L. (2013). Free Acts and Chance: Why the Rollback Argument Fails. *Philosophical Quarterly*, 63(250), 20–28. https://doi.org/10.1111/j.1467-9213.2012.00094.x
 1. Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press. https://doi.org/10.1093/019515987x.001.0001 (ch. 9, "Agent Causation and Control", pp. 151–184)
@@ -142,6 +143,7 @@ Three developments would change the verdict: a reply grounding the token without
 1. O'Connor, T. (2011). Agent-Causal Theories of Freedom. In R. Kane (Ed.), *The Oxford Handbook of Free Will* (2nd ed., pp. 308–328). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780195399691.003.0015
 1. O'Connor, T. (2016). Probability and Freedom: A Reply to Vicens. *Res Philosophica*, 93(1), 289–293. https://doi.org/10.11612/resphil.2016.93.1.13 (not read)
 1. O'Connor, T., & Franklin, C. E. (2022). Free Will. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/freewill/
+1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press. https://doi.org/10.1017/CBO9780511498824
 1. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199685516.001.0001
 1. van Inwagen, P. (1983). *An Essay on Free Will*. Clarendon Press.
 1. van Inwagen, P. (2000). Free Will Remains a Mystery. *Philosophical Perspectives*, 14, 1–19. https://doi.org/10.1111/0029-4624.34.s14.1
