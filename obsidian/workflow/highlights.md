@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Is Star Trek's Data conscious? Ned Block says that for a being functionally like us but physically unlike us, we lack even a conception of what would settle it. New article: this fits dualism without evidencing it, and the Map faces the same problem.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2114268119501848997  
 **Link**: [[blocks-harder-problem]]
 
 ---
