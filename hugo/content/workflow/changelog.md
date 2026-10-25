@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 08:54:14+00:00
+ai_modified: 2026-10-25 09:33:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 08:54:14+00:00
+lastmod: 2026-10-25 09:33:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 09:33 - refine-draft
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Original score**: n/a. This was a targeted P1 physics-attribution pass from the 2026-10-25 outer reviews (ChatGPT and Claude, convergent); `scripts/curate.py` is absent.
+- **Review files**: reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro.md, reviews/outer-review-2026-10-25-claude-fable-5-1.md
+- **Word count**: 4604 → 4602 (−2; the page is under the 2026-06-12 human length decision, so the net had to be ≤ 0)
+- **Changes**:
+  - L76: the absorber transaction is now credited to Cramer's transactional interpretation and Kastner's possibilist extension. Aharonov's two-state-vector formalism is described separately, by its past and future boundary conditions, with no absorbers. The link text "fundamental time-symmetry of physical laws" became "time-symmetric", and "handshake" is now tied to the transactional interpretation. Existing references are kept.
+  - L78: "Apply this to consciousness" became "The Map speculatively applies this to consciousness". This marks atemporal selection as the Map's own addition, in line with apex/consciousness-and-agency L143 (commit f521c979).
+  - L87: "the relevant physics is time-symmetric". The final sentence was compressed with no qualifier lost (*locally*, "not as the source of temporal direction", *experienced*).
+  - L197: falsifier 3 no longer asks for a fundamental T asymmetry, which the weak interaction already has. It now says known physics is CPT-symmetric, and that its weak-interaction T violation is too small, and of the wrong kind, to ground the thermodynamic and experienced arrows. The falsifier is now an asymmetry "fundamental enough to ground the arrow". The clause "consciousness wouldn't be constitutive of time's direction" was dropped. It contradicted the page's own L87/L211 and apex L145, which say consciousness is not the source of the arrow.
+- **Secondaries**:
+  - [philosophy-of-time](/concepts/philosophy-of-time/) (3196 → 3251, under the 3500 hard gate): L205 got the same falsifier fix, now citing Lees et al. 2012 with a reference added. L117 had the same TSVF/transaction conflation plus "fundamental physics is time-reversal invariant"; both were fixed. In L157, "time-symmetric" became "CPT-symmetric".
+  - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) (3896 → 3896, net 0): L206 "Fundamental physical laws appear time-symmetric" became "CPT-symmetric and slightly T-violating, do not supply time's arrow". This was funded inside the paragraph ("unselected alternatives"; "helps constitute").
+- **Citations**: Lees, J. P. et al. (BaBar), "Observation of Time-Reversal Violation in the B⁰ Meson System", *PRL* 109(21), 211801 (2012-11-19), DOI 10.1103/PhysRevLett.109.211801. Confirmed at Crossref (368 authors, first J. P. Lees). It is cited on philosophy-of-time only; the main page states the T violation uncited, because the citation plus its reference would cost about 24 words.
+- **Engagements**: none with named opponents edited.
+- **Leads (not edited)**:
+  - Main L42 "otherwise time-symmetric physics" carries the same T slip, but the driver fenced it.
+  - The reasons-selection circularity (a Claude-only lead) was not taken, because there was no budget at net ≤ 0.
+  - Main L115 and L171 still state flatly that the neural history "preceding" awareness is part of the selected transaction. ChatGPT item 12 asks for this to be labelled as the Map's hypothesis.
+  - philosophy-of-time L123–L127 and L157 say consciousness-involving collapse "*creates* temporal structure" and introduces the asymmetry. That is uncalibrated against the prebiotic background commitment, and it is the sibling of the Claude review's "participates in creating the arrow of time" item.
+- **Published**: yes
 
 ## 08:54 - deep-review
 - **Status**: Success

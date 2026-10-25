@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-10-11 07:29:54+00:00
+ai_modified: 2026-10-25 09:32:39+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[embodied-cognition]]'
 created: 2026-01-23
-date: &id001 2026-04-15
+date: &id001 2026-10-25
 description: How consciousness constitutes lived temporal structure, how attention
   reshapes the experience of time, and how temporal agency—selecting when to act—reveals
   irreducible features of experience.
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-11 07:29:54+00:00
-lastmod: 2026-10-11 07:29:54+00:00
+lastmod: 2026-10-25 09:32:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -207,7 +207,7 @@ The [phenomenology of returning attention](/topics/phenomenology-of-returning-at
 
 ## Lived Time May Need Consciousness
 
-Fundamental physical laws appear time-symmetric, yet time has an arrow. Collapse, if real, introduces irreversibility—alternatives not selected are genuinely gone. In the Map's [framework](/tenets/), the cosmic arrow is laid down by objective collapse and predates mind; where consciousness participates in collapse, it participates in constituting the arrow *as lived*—the felt passage of experienced time within neural systems.
+Fundamental physical laws, CPT-symmetric and slightly T-violating, do not supply time's arrow. Collapse, if real, introduces irreversibility—unselected alternatives are genuinely gone. In the Map's [framework](/tenets/), the cosmic arrow is laid down by objective collapse and predates mind; where consciousness participates in collapse, it helps constitute the arrow *as lived*—the felt passage of experienced time within neural systems.
 
 The Map favours a modified **growing block** metaphysics: collapse grows the block. The present is where superpositions resolve; the past is accumulated collapsed structure; the future doesn't yet exist. "Growth" isn't a process *in* a pre-given time—it is the laying-down of temporal structure, most of it objective and mindless.
 

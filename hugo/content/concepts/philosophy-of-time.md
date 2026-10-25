@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-11 07:58:23+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-25 09:32:39+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[collapse-and-time]]'
@@ -16,14 +16,14 @@ concepts:
 - '[[haecceity]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-16
-date: &id001 2026-08-19
+date: &id001 2026-10-25
 description: A-theory versus B-theory, presentism, eternalism, and the growing block
   view. How consciousness may participate in constituting temporal structure.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:50:42+00:00
-lastmod: 2026-10-11 07:58:23+00:00
+lastmod: 2026-10-25 09:32:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +117,7 @@ Quantum mechanics reintroduces temporal asymmetry. The Schrödinger equation is 
 
 **Decoherence**: Apparent collapse reduces to entanglement with environment. Irreversibility is thermodynamic (entropy increase), not fundamental. This supports B-theory—all times exist; we just can't access coherent superpositions at macroscopic scales.
 
-**Time-symmetric interpretations**: [Retrocausal](/concepts/retrocausality/) frameworks (transactional interpretation, TSVF) describe quantum events as transactions between past and future boundary conditions. See [time-symmetric-physics](/concepts/time-symmetric-physics/) for how fundamental physics is time-reversal invariant. This challenges both presentism (future must exist to send backward-propagating waves) and simple eternalism (the transaction "completes" in some sense).
+**Time-symmetric interpretations**: [Retrocausal](/concepts/retrocausality/) frameworks use past and future boundary conditions: the transactional interpretation describes quantum events as transactions between emitters and future absorbers, while the two-state-vector formalism (TSVF), which has no absorbers, conditions on pre- and post-selected states. See [time-symmetric-physics](/concepts/time-symmetric-physics/) for the time-reversal symmetry these frameworks exploit. This challenges both presentism (future must exist to send backward-propagating waves) and simple eternalism (the transaction "completes" in some sense).
 
 ## The Map's Position
 
@@ -157,7 +157,7 @@ The framework offers three responses:
 
 **The regress problem.** If temporal flow is illusory, the *seeming* to experience flow must itself be explained. What is this seeming? Either it involves phenomenal properties (relocating rather than eliminating temporal experience) or it doesn't (raising the question of how non-phenomenal seeming generates universal conviction about time's passage). Raymond Tallis's observation applies: illusions presuppose experience. The illusion of time must unfold *in* time for some subject—which is exactly what the framework claims consciousness provides.
 
-**The structural point.** Even granting [illusionist](/concepts/illusionism/) premises, the arrow of time remains a physical puzzle. Why does physics distinguish past from future if fundamental laws are time-symmetric? The framework's answer—consciousness-involving collapse introduces asymmetry—is a claim about physics, not about phenomenological accuracy. Illusionism about temporal phenomenology doesn't eliminate the need for time's arrow to be explained.
+**The structural point.** Even granting [illusionist](/concepts/illusionism/) premises, the arrow of time remains a physical puzzle. Why does physics distinguish past from future if fundamental laws are CPT-symmetric? The framework's answer—consciousness-involving collapse introduces asymmetry—is a claim about physics, not about phenomenological accuracy. Illusionism about temporal phenomenology doesn't eliminate the need for time's arrow to be explained.
 
 **Contemplative evidence.** Advanced meditation reveals temporal microstructure that ordinary [introspection](/concepts/introspection/) misses. Trained practitioners report systematic variations in temporal phenomenology: the "frozen present" of deep concentration, the accelerated arising-passing in vipassana, the timelessness of [witness awareness](/concepts/witness-consciousness/). These reports are too structured and cross-culturally consistent to dismiss as generic confabulation. They suggest temporal experience has real structure worth explaining—even if the naive sense of flow is partially representational.
 
@@ -205,7 +205,7 @@ Meditation traditions offer empirical data on temporal phenomenology that bears 
 
 The framework makes commitments that could be empirically challenged:
 
-**1. Fundamental time asymmetry discovered.** If future physics demonstrates time asymmetry is fundamental—built into basic laws rather than emerging from collapse or boundary conditions—consciousness wouldn't be constitutive of time's direction. Currently, fundamental physics appears time-symmetric (CPT symmetry), with arrows emerging from elsewhere. Discovery of fundamental asymmetry would relocate time's arrow from collapse to basic law.
+**1. Fundamental arrow discovered.** If future physics found an asymmetry fundamental enough to ground the arrow, time's direction would relocate from collapse to basic law. Fundamental physics is CPT-symmetric; its known T violation, a weak-interaction effect observed directly in B mesons (Lees et al. 2012), is too small, and of the wrong kind, to ground the thermodynamic and experienced arrows, which emerge from boundary conditions or collapse.
 
 **2. Many-worlds vindication.** If decisive evidence favoured many-worlds interpretation—perhaps through direct detection of other branches or theoretical unification requiring MWI—the framework's collapse realism would be undermined. Without real collapse, no consciousness-constituted time.
 
@@ -256,6 +256,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.
+1. Lees, J. P. et al. (BaBar Collaboration) (2012). Observation of time-reversal violation in the B⁰ meson system. *Physical Review Letters*, 109(21), 211801.
 1. Tomaz, A.A., Mattos, R.S. & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine C*. DOI: 10.1080/14786435.2025.2601922.
 1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/
 1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness." https://plato.stanford.edu/entries/consciousness-temporal/

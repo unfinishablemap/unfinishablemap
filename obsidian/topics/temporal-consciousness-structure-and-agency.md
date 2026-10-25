@@ -2,9 +2,9 @@
 title: "Temporal Consciousness: Structure and Agency"
 description: "How consciousness constitutes lived temporal structure, how attention reshapes the experience of time, and how temporal agency—selecting when to act—reveals irreducible features of experience."
 created: 2026-01-23
-modified: 2026-04-15
+modified: 2026-10-25
 human_modified: null
-ai_modified: 2026-10-11T07:29:54+00:00
+ai_modified: 2026-10-25T09:32:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -203,7 +203,7 @@ The [[phenomenology-of-returning-attention|phenomenology of returning attention]
 
 ## Lived Time May Need Consciousness
 
-Fundamental physical laws appear time-symmetric, yet time has an arrow. Collapse, if real, introduces irreversibility—alternatives not selected are genuinely gone. In the Map's [[tenets|framework]], the cosmic arrow is laid down by objective collapse and predates mind; where consciousness participates in collapse, it participates in constituting the arrow *as lived*—the felt passage of experienced time within neural systems.
+Fundamental physical laws, CPT-symmetric and slightly T-violating, do not supply time's arrow. Collapse, if real, introduces irreversibility—unselected alternatives are genuinely gone. In the Map's [[tenets|framework]], the cosmic arrow is laid down by objective collapse and predates mind; where consciousness participates in collapse, it helps constitute the arrow *as lived*—the felt passage of experienced time within neural systems.
 
 The Map favours a modified **growing block** metaphysics: collapse grows the block. The present is where superpositions resolve; the past is accumulated collapsed structure; the future doesn't yet exist. "Growth" isn't a process *in* a pre-given time—it is the laying-down of temporal structure, most of it objective and mindless.
 

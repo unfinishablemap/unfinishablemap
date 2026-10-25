@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-12 10:08:55+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-25 09:32:39+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[collapse-and-time]]'
@@ -19,14 +19,14 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[philosophy-of-time]]'
 created: 2026-01-16
-date: &id001 2026-08-19
+date: &id001 2026-10-25
 description: Free will, quantum collapse, and time's arrow interlink. If consciousness
   selects outcomes and collapse creates irreversibility, agency and time connect.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 20:55:23+00:00
-lastmod: 2026-10-12 10:08:55+00:00
+lastmod: 2026-10-25 09:32:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,9 +76,9 @@ But this needs refinement: if consciousness's selection is truly atemporal, it d
 
 ## Atemporal Selection and Emergent Time
 
-The transactional interpretation and related frameworks (Aharonov's Two-State Vector Formalism, Kastner's possibilist extension) describe quantum events as transactions between past boundary conditions and future absorbers—grounded in the [fundamental time-symmetry of physical laws](/concepts/time-symmetric-physics/). The "handshake" that completes a transaction isn't located at a time—it's the satisfaction of constraints across time.
+The [time-symmetric](/concepts/time-symmetric-physics/) transactional interpretation (Cramer; Kastner's possibilist extension) describes quantum events as transactions between emitters and future absorbers; Aharonov's two-state-vector formalism likewise uses past and future boundary conditions. The transactional "handshake" isn't located at a time—it's the satisfaction of constraints across time.
 
-Apply this to consciousness:
+The Map speculatively applies this to consciousness:
 
 1. The brain's quantum systems exist in superposition—multiple possible neural configurations.
 2. Future conditions (absorbers, measurement contexts) send backward-propagating constraint waves.
@@ -87,7 +87,7 @@ Apply this to consciousness:
 
 On this picture, consciousness doesn't merely act *in* time; where it participates in collapse it acts to *constitute* the structure of experienced time. What we experience as temporal flow—James's specious present, Bergson's [durée](/concepts/temporal-consciousness/)—is the phenomenal character of this constitutive activity viewed from within.
 
-The irreversibility of collapse is why time has a direction: without collapse, physics is time-symmetric; with it, past and future differ. That arrow does not require consciousness—objective reduction secured definite outcomes through billions of [prebiotic](/concepts/prebiotic-collapse/) years. Consciousness enters as a *local* participant, not as the source of temporal direction: what its involvement constitutes is the felt structure of *experienced* becoming.
+The irreversibility of collapse is why time has a direction: without collapse, the relevant physics is time-symmetric; with it, past and future differ. That arrow does not require consciousness—objective reduction secured definite outcomes through billions of [prebiotic](/concepts/prebiotic-collapse/) years. Consciousness participates *locally*, not as the source of temporal direction: its involvement constitutes the felt structure of *experienced* becoming.
 
 ## Reconciling Atemporality with Irreversibility
 
@@ -197,7 +197,7 @@ The framework makes commitments that could be empirically challenged:
 
 **2. Many-worlds vindication.** If theoretical considerations decisively favored the many-worlds interpretation—if, for instance, a future unification of quantum mechanics with gravity turned out to require the bare unitary formalism with no collapse term, so that parsimony and explanatory coverage pointed unambiguously to Everettian branching—the framework's collapse realism would be undermined. (The falsifier is theoretical, not observational: no Everettian claims other branches are independently detectable, so "detect a branch" is not the test; MWI's case rests on the parsimony of the bare formalism, which is the pressure the framework must withstand.) Indexical identity would lose its foundation, and consciousness's constitutive role would dissolve into branching observer-moments.
 
-**3. Time-asymmetric fundamental physics.** If future physics demonstrates that time asymmetry is fundamental (not collapse-derived), then consciousness wouldn't be constitutive of time's direction. Currently, fundamental physics appears time-symmetric, with arrows emerging from boundary conditions or collapse. Discovery of fundamental asymmetry would relocate time's arrow from collapse to basic law.
+**3. A fundamental arrow.** If physics found an asymmetry fundamental enough to ground the arrow, time's direction would relocate from collapse to basic law. Known physics is CPT-symmetric; its weak-interaction T violation is too small, and of the wrong kind, to ground the thermodynamic and experienced arrows, which emerge from boundary conditions or collapse.
 
 **4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't match the framework's predictions—if cessation involved normal time perception, or witness consciousness felt accelerated rather than suspended—this would undermine phenomenological support. The available reports (e.g. the altered time-perception of deep concentrative states catalogued in the contemplative-science literature, and the sub-second temporal discriminations of trained introspectors documented by Fox et al. 2012) are broadly consistent with the predictions; but the strength of this falsifier is limited because the alignment lives in the elastic interpretation layer (any reported temporal phenomenology can be re-mapped onto more or less active selection), and because the disruptive altered states make the parallel prediction available to production accounts (see Contemplative Evidence above). This remains an empirical question whose discriminating power is weaker than convergence-talk suggests.
 
