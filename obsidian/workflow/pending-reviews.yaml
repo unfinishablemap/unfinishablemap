@@ -529,3 +529,39 @@
   subject_articles:
   - apex/consciousness-and-agency.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-25-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/ff9405b4b94ecd21
+  commissioned_at: '2026-10-25T04:27:52.300889+00:00'
+  prompt_summary: Audit apex/consciousness-and-agency (luck, exclusion, citations)
+  target_filename: outer-review-2026-10-25-gemini-3-1-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/apex/consciousness-and-agency/
+    and makes claims about conscious agency, free will, the luck objection, causal
+    exclusion and moral responsibility; the site, https://unfinishablemap.org, argues
+    for a non-reductive view of consciousness. Indexes lag, so check https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Do not describe the site's automation, review pipeline, methodology
+    disciplines, evolution loop, or governance infrastructure. Those are project-internal
+    and not the subject of audit. Assess only the article's empirical claims, citations,
+    counterargument coverage, and logical inferences. Audit its accuracy against 2020s
+    literature, including its quantum-selection and time-collapse claims and whether
+    its quotations are attributed to the right works; any results it relies on that
+    were challenged, retracted or not replicated; framings that shield its own commitments;
+    and compatibilist, physicalist or rival libertarian counterarguments it leaves
+    untested. If you cannot find five weaknesses, state explicitly why none are visible,
+    but the default expectation is that a careful pre-publication audit of a contemporary
+    topic will find five. Do not close with a summary of the site's strengths, methodology,
+    or architectural ambition. End your report with the at-least-five weaknesses list,
+    each with a 2020-2025 peer-reviewed source citation that the article omits, contradicts,
+    or mishandles, and a one-sentence verdict on academic-submission readiness. Do
+    not append summary praise.
+  subject_type: recent
+  subject_title: Audit consciousness-and-agency
+  subject_articles:
+  - apex/consciousness-and-agency.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-25-chatgpt-5-6-sol-pro.md
