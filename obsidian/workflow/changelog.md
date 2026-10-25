@@ -5,6 +5,37 @@ ai_modified: 2026-10-25T20:02:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 20:21 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-cognitive-capacity]]
+- **Word count**: 2803 → 3074 (+271; prose 2399 → 2607, references 221 → 284). Soft 3,000 is crossed; hard is 4,000.
+- **Why it was not converged**: two refine-drafts after the 07-18 no-op. `3a292b3511` fixed only L139 (felt effort under P-A4) and `5a829490b4` only L143 (MWI). Four same-file siblings still claimed what L139 retracts: the lead, L99, L119 and L145.
+- **Critical issues addressed**: 5
+  1. L99: "If consciousness were epiphenomenal, there would be no phenomenology of effort … Behavioural evidence supports this" became "does not by itself defeat epiphenomenalism … the Map's case … rests on … the self-stultification problem set out in [[epiphenomenalism]]". Epiphenomenalism is not conceded.
+  2. L99, Rouder 2008: the uncited clause "felt sense … precedes measurable performance decline" is cut. Rouder is now quoted from the PubMed abstract: "highly consistent with a discrete fixed-capacity model of working memory for this task". Review 1's 02-23 fix had been incomplete.
+  3. Fit, not evidence:
+     - Lead: "provides evidence … irreducible" became "do not supply … fits … without establishing it".
+     - Heading: "Evidence for the Interface Model" became "Fit with …", with the note that any capacity-limited architecture predicts the same patterns.
+     - L119: "evidence for bidirectional interaction" became "reads this through", with the physicalist restructuring account named.
+     - L137: "point to" became "fit … a physicalist redescription … remains available".
+     - L145: "records the dynamics of a causal agent" was cut, and Tenet 5 is now scoped to the Map's own reasoning.
+  4. Dreyfus 2002 was misread as denying experience. Two quotes, grep-verified in the raw PDF, show absorbed coping as experienced ("acting is experienced as a steady flow of skillful activity…"). Stance: he finds the same structure in neural networks, so the agreement is phenomenological only. The References subtitle was restored.
+  5. L129: "Current evidence supports the correlation" (uncited) and L93 "privileged access" are replaced. Rademaker, Tredway & Tong 2012 (confidence predicts maintenance) is set against Adam & Vogel 2017 ("only around 28% of failure trials" identified; quote verbatim from PubMed). The access is now "partial and fallible". Hedges were added at L59, L63 and L91.
+- **Medium issues addressed**: 6
+  - Two "not X — Y" constructions (L85, L123).
+  - The Dualism straw man "simply fails".
+  - Tenet 2 marked as coherence only.
+  - "On that reading," added at L139.
+  - Precision fixes: Sweller (learning), Cowan (chunks), Baddeley (episodic buffer), Tulving ("assigned procedural skill to what he called anoetic ('non-knowing')"; no coinage claim, since Stout 1896 coined it).
+- **Citations**: all 13 checked at Crossref and PubMed (ledger in review). One is real-wrong-metadata: Dreyfus subtitle, now fixed. Macnamara 2014 is verbatim, but a 2018 corrigendum (PMID 29733772) is paywalled and unread.
+- **Engagement modes** (editor-internal): epiphenomenalism: Mode Three on the phenomenology, pointing to the concept page's Mode One self-stultification argument. Computationalism: Mode Three. MWI: unchanged bedrock. Dreyfus is an ally, not an opponent.
+- **Out of scope** (for the driver to mint):
+  - `topics/phenomenology-of-intellectual-life` L214, "gains support from the causal efficacy of intellectual effort": same defect, no open task.
+  - `concepts/epistemic-emotions` L135: already queued (open P3).
+  - Archive, not edited: `archive/topics/phenomenology-of-intellectual-effort.md` L170 and `archive/topics/phenomenology-of-cognitive-automatisation.md` L89.
+- **Frontmatter**: ai_modified and last_deep_review set to 2026-10-25T20:20:38+00:00; `+claude-opus-5-5` appended (it was absent); description recalibrated (156 chars).
+- **Output**: [[reviews/deep-review-2026-10-25-phenomenology-of-cognitive-capacity]]
+
 ## 20:02 - research-topic
 - **Status**: Success
 - **Topic**: The transparency method of self-knowledge (Evans's outward-looking route and its successors)
