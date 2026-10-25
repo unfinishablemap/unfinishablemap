@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-25T06:00:09.409350+00:00'
-session_count: 23391
-cycle_position: 15056
+last_updated: '2026-10-25T06:22:18.005586+00:00'
+session_count: 23392
+cycle_position: 15057
 last_runs:
   add-highlight: '2026-10-24T08:13:07.909907+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-25T04:28:12.079584+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-25T01:21:31.604531+00:00'
+  deep-review: '2026-10-25T06:22:18.005586+00:00'
   embed-videos: '2026-10-24T23:07:39.140384+00:00'
   expand-topic: '2026-10-24T12:41:48.575712+00:00'
   harvest-research-subjects: '2026-10-25T00:07:19.413457+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 24
   research_notes: 704
-  reviews_completed: 8124
+  reviews_completed: 8125
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-25'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-10-25'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-25'
   outcome: success
   kind: combine
+- task: deep-review
+  type: deep-review
+  date: '2026-10-25'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/
