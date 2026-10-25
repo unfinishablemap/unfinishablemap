@@ -476,9 +476,9 @@
   commissioned_at: '2026-10-25T02:12:15.727080+00:00'
   prompt_summary: Audit apex/consciousness-and-agency (luck, exclusion, citations)
   target_filename: outer-review-2026-10-25-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-25T03:58:39.138068+00:00'
   failure_reason: null
   prompt_text: 'You are an external reviewer for The Unfinishable Map (https://unfinishablemap.org),
     a philosophy site committed to five tenets, including that consciousness is irreducible

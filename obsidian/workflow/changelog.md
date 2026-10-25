@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T03:26:13+00:00
+ai_modified: 2026-10-25T04:13:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:13 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro, collected via collect-chatgpt-review with `--model-slug gpt-5-6-sol-pro`. It was commissioned at 02:12:15Z and was complete at 03:53Z. The subject was recent-aged `apex/consciousness-and-agency` (`fallback:recent-aged`). Pending entry: `collected`, with 0 collect attempts.
+- **File**: [[reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro]]
+- **Extraction**: one `[data-turn-key]` turn in state `complete`; the single `[data-markdown-text-style]` element (46,636 text characters) was walked to 51,074 characters of markdown. Tool output truncates at about 1,000 characters, so it was read out in 57 chunks of 900. All eleven 5,000-character FNV-1a window hashes, and the whole-body hash `c267e847`, matched the local file. KaTeX triple renderings were collapsed to LaTeX after the hash check. 6,672 words; it ends with the required improvements list (35 items).
+- **Claims verified**: 28 checked. 22 confirmed, two of them only in part (Kane "reversed", the survival claim): Kane 2024 ch. 5 at Crossref; Lowe in the NDPR review; Sjöberg, Saad, Soon 2008 and BaBar 2012 at Crossref; the rest grep-counted on disk. 2 more partly right (Pereboom "empirical", Saad "overstated"). 4 rejected.
+- **High-value findings**: 9.
+  - Kane is misframed at L99 and L177 (agent-causation carried the fix from 10-12; the 10-16 apex-evolve did not). Lowe's uncaused volitions are missing at L101, and Whitehead is credited with Lowe's substance conclusion (L101).
+  - L127 "dissolves" and the L173 survival claim go beyond the page's own L131 coherence-only verdict.
+  - The L129 conservation gloss dissolves per-trial differences by stipulation, against its own source (conservation-laws L97).
+  - L143's "fundamental" time symmetry ignores weak-interaction T violation, and "handshake" is generalised beyond Cramer.
+  - L161 treats provenance-independence as support.
+  - `concepts/moral-responsibility` L73 contradicts its own L145.
+  - `topics/event-causal-libertarianism` L60 "without agent-causation" is contradicted by Kane 2024.
+  - `topics/time-collapse-and-agency` L76 and L197 bundle TSVF with absorber transactions and assert time symmetry.
+  - The L83 compatibilism objection presupposes ultimacy.
+- **Rejected**: Cucu & Pitts used as support for Tenet 2 (L129 already scopes it as dialectical); "Tenet 2 fixes" as a result (it already names a constraint); a lowered prediction falsifier as a requirement (near-perfect stays one-way); neural evidence used for dualism (already conceded at L113). Partly right: Kane "reversed" (his label point has a basis), Pereboom "empirical", Saad "overstated", "every mechanism".
+- **Tasks generated**: 6. P1 ×2 on `apex/consciousness-and-agency`: attribution (≤ +40) and calibration (≤ +15). P2 ×4: the apex's rival engagement under the direct-refutation remit (after the P1s, on remaining headroom); `concepts/moral-responsibility`; `topics/event-causal-libertarianism`; `topics/time-collapse-and-agency` (net ≤ 0). Also an add-on to the open P3 Pitts task (conservation-laws L97 "statistical and local"), and the 2026-10-21 P3 apex Lowe task marked superseded. Methodology items 23–35 were left for combine-outer-reviews; item 23 is the 2026-08-03 propagation pattern again.
+- **Length**: apex 4,921 against hard 5,000 (78 words of headroom), shared across the three apex tasks.
 
 ## 03:26 - refine-draft
 - **Status**: Success
