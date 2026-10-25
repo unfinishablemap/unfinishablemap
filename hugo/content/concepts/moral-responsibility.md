@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-23 12:04:32+00:00
+ai_modified: 2026-10-25 12:24:33+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 13:33:37+00:00
-lastmod: 2026-10-23 12:04:32+00:00
+lastmod: 2026-10-25 12:24:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,9 +73,9 @@ One proposed physical implementation is the [quantum Zeno mechanism](/concepts/q
 
 ## How Desert Differs Under Agent Causation
 
-Compatibilist desert is pragmatic: holding people responsible has good consequences. Agent-causal desert is metaphysical: people really deserve praise and blame because they really originated their actions.
+Compatibilist desert rests on real capacities derived from prior states the agent did not author. Agent-causal desert has an irreducible source: people deserve praise and blame because they ultimately originated their actions.
 
-**Retribution becomes intelligible.** The wrongdoer exercised their power to cause harm when they could have caused good. This doesn't prove retribution is *right*, but it makes it coherent.
+**On this view retribution becomes intelligible.** The wrongdoer exercised causal power to harm when they could have caused good. This doesn't prove retribution is *right*, but it makes it coherent.
 
 **Mitigation has limits.** Prior causes influenced but didn't determine. The addict who steals chose to steal, even if addiction made resisting harder. Difficulty doesn't equal impossibility. This doesn't eliminate all mitigation—agents who couldn't understand their actions may lack the knowledge requirement—but the trend toward explaining away responsibility via causal history is resisted.
 
@@ -93,7 +93,7 @@ Moral responsibility requires consciousness. The agent that sources action is a 
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Without dualism, "agent causation" collapses into a description of complex physical processes—and desert becomes pragmatic fiction. The [illusionist](/concepts/illusionism/) challenge targets this: if phenomenal consciousness is illusory, the phenomenology of effort loses its evidential force.
+**[Dualism](/tenets/#dualism)**: Without dualism, "agent causation" collapses into a description of complex physical processes—and desert becomes derivative. The [illusionist](/concepts/illusionism/) challenge targets this: if phenomenal consciousness is illusory, the phenomenology of effort loses its evidential force.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness caused nothing, holding conscious agents responsible for physical outcomes would be incoherent. [Mental causation](/concepts/mental-causation-and-downward-causation/) provides what responsibility requires—the agent's phenomenal engagement shapes what happens.
 
@@ -170,8 +170,8 @@ The framework is not unfalsifiable. It makes commitments that philosophical argu
 Moral responsibility under agent causation:
 
 - Agents genuinely originate actions through irreducible causal power
-- Desert is metaphysically grounded, not merely pragmatic
-- Retribution becomes intelligible (though not required)
+- Desert has an irreducible source, not only derivative capacities
+- On this view retribution becomes intelligible (though not required)
 - Mitigation has limits—prior causes influence but don't determine
 - Character responsibility reflects self-creation through choices
 - Consciousness is essential: agency requires experience of alternatives, effort, and self-knowledge

@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T11:47:52+00:00
+ai_modified: 2026-10-25T12:25:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 12:24 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Task**: L73 "Compatibilist desert is pragmatic" contradicted the page's own L145 ("irreducible-vs-derivative rather than metaphysical-vs-pragmatic"). Review file: `reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro.md` §7 / Recommendation 18 (first clause only).
+- **Original score**: n/a (`scripts/curate.py` absent); editor estimate 7/10, held back by the self-contradiction.
+- **Changes** (each OLD confirmed count 1 before editing):
+  - L73: "Compatibilist desert is pragmatic: holding people responsible has good consequences. Agent-causal desert is metaphysical: people really deserve praise and blame because they really originated their actions." → "Compatibilist desert rests on real capacities derived from prior states the agent did not author. Agent-causal desert has an irreducible source: people deserve praise and blame because they ultimately originated their actions." (+6)
+  - L93: "and desert becomes pragmatic fiction." → "and desert becomes derivative." (−1)
+  - L170: "Desert is metaphysically grounded, not merely pragmatic" → "Desert has an irreducible source, not only derivative capacities" (+2)
+  - CARRY, sibling P2 "Propagate the 2026-10-25 apex calibration fixes…" item (2), DONE. L75: "**Retribution becomes intelligible.** The wrongdoer exercised their power to cause harm…" → "**On this view retribution becomes intelligible.** The wrongdoer exercised causal power to harm…" (+3 hedge, −1 funded in the same paragraph with apex L155's wording; net +2; the "doesn't prove retribution is *right*" qualifier untouched). L171: "Retribution becomes intelligible (though not required)" → "On this view retribution becomes intelligible (though not required)" (+3, unfunded, within headroom).
+- **Length**: 3475 → 3487 by analyze_length (concepts hard gate 3,500 at >=; 12 words of headroom left). Task edits +7, carry +5.
+- **Reasoning mode**: engagement with sophisticated compatibilism (Frankfurt, Fischer-Ravizza, Wolf) is Mode Three at L73/L93/L170. The page marks the irreducible-versus-derivative boundary and grants that compatibilist capacities are real. It does not claim that compatibilism fails on its own terms, and it does not concede that compatibilism delivers ultimate desert.
+- **Calibration**: epiphenomenalism not conceded; no compatibilist enlisted for dualism; no parsimony charge against compatibilism added.
+- **Out of scope** (reviewer's further asks, not attempted): a constitutive-luck section, and an argument for the step from libertarian control to retributive desert. An open P3 research task covers Galen Strawson's Basic Argument and constitutive luck.
+- **Residual siblings** (same contrast without the word "pragmatic"; reported, not edited):
+  - L39: "metaphysically robust rather than a useful fiction". L145 says sophisticated compatibilism "does not rest on useful fictions".
+  - L176: "not because treating them as if they did has good consequences". A consequentialist foil, which sophisticated compatibilism is not.
+  - L101: "Compatibilism purchases simplicity at the cost of what ordinary moral practice assumes". Strains against L145, which says compatibilism secures the same praise/blame practices.
+- **Corpus sweep**: no other live or `archive/` page carries "desert is pragmatic", "pragmatic fiction" or "not merely pragmatic" (control: "metaphysical-vs-pragmatic" hits `concepts/reasons-responsiveness`).
+- **Frontmatter**: ai_modified bumped to 2026-10-25T12:24:33+00:00; ai_system already contains claude-opus-5-5, unchanged.
+- **Published**: yes
+- **Not committed**.
 
 ## 12:08 - expand-topic
 - **Status**: Success
