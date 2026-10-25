@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-20 17:22:32+00:00
+ai_modified: 2026-10-25 15:41:37+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 06:13:05+00:00
-lastmod: 2026-10-20 17:22:32+00:00
+lastmod: 2026-10-25 15:41:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ This is the Map's position: [agent-causal](/concepts/agent-causation/) libertari
 
 Three features distinguish this from randomness:
 
-**Reasons-guidance.** [Selection tracks reasons](/concepts/reasons-responsiveness/)—goals, values, considerations that bear on the decision. The [valence of anticipated outcomes](/topics/valence-and-conscious-selection/) provides the common metric by which consciousness evaluates competing options. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome (alternatives remained possible), but they [*guided*](/topics/agent-causation-and-acting-for-reasons/) it. This makes the choice contrastively explicable in a way randomness cannot be.
+**Reasons-guidance.** [Selection tracks reasons](/concepts/reasons-responsiveness/)—goals, values, considerations that bear on the decision. The [valence of anticipated outcomes](/topics/valence-and-conscious-selection/) provides the common metric by which consciousness evaluates competing options. Those reasons didn't *determine* the outcome (alternatives remained possible), but they [*guided*](/topics/agent-causation-and-acting-for-reasons/) it, making the choice intelligible and the agent's in a way a random outcome cannot be. They do not explain why A rather than B, since in the rollback above the reasons for B were present in every replay too. That difference is the agent's settling, [a primitive whose modal structure is owed rather than supplied](/concepts/rollback-argument-against-agent-causation/).
 
 **Phenomenology of effort.** Random processes don't feel like anything. But choosing feels effortful, and the effort scales with difficulty. William James observed that the free-will question "relates solely to the amount of effort of attention." The felt cost corresponds to genuine causal engagement—consciousness doing work to stabilise the selected option against competitors.
 

@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-25T12:07:41+00:00
+ai_modified: 2026-10-25T15:41:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -100,7 +100,7 @@ Within that framework the contrast looks like this:
 |---------|---------------------|--------------------------------------|
 | What determines the outcome | Nothing (pure chance) | The agent, on reasons |
 | Phenomenology | None | Effort, engagement |
-| Contrastive explanation | Unavailable | The agent's reasons |
+| Intelligibility | None | The agent's reasons |
 | Agent's relationship | Passive recipient | Active selector |
 
 A physicalist will reject the right column as question-begging, and they are correct that the distinction presupposes a non-physical selector. The Map accepts this: the reply to luck depends on the dualist framework being correct rather than on independent argument (see [[bedrock-clash-vs-absorption]] for the discipline of marking framework-boundary disagreements honestly rather than dressing them as refutations). The live questions are whether dualism earns its place through other considerations—the hard problem, the explanatory gap, the arguments developed across the Map—and whether the resulting picture of free will is internally coherent.
@@ -123,7 +123,7 @@ A critic may object that a [[philosophical-zombies|philosophical zombie]] would 
 
 ### Reasons-Guided Selection
 
-Selection tracks reasons—the goals and values that make actions intelligible. Why A rather than B? Because the agent had reasons for A. Those reasons did not *determine* the outcome, since alternatives remained genuinely possible, but they *guided* it, making [[the-divided-will#luck-objection|non-akratic]] selection contrastively explicable in a way randomness is not. This is the sense in which the agent's exercise of power is [[reasons-responsiveness|reasons-responsive]] rather than arbitrary.
+Selection tracks reasons—the goals and values that make actions intelligible. Those reasons did not *determine* the outcome, since alternatives remained genuinely possible, but they *guided* [[the-divided-will#luck-objection|non-akratic]] selection, as randomness cannot. This is the sense in which the agent's exercise of power is [[reasons-responsiveness|reasons-responsive]] rather than arbitrary. In every replay the reasons for B were present too, so they cannot explain why A rather than B.
 
 ### Where Explanation Terminates
 
@@ -133,7 +133,7 @@ Critics press: what explains why consciousness selected A rather than B? The age
 
 ## Does Selection Really Escape Luck?
 
-The reply combines four elements. The agent's *reasons* supply contrastive explanation that pure chance lacks. The *phenomenology of effort* distinguishes selection from passive reception. *Agent causation* terminates the explanatory regress. And if retrocausal selection is genuine, the choice does not occur at a moment but determines which moments exist, dissolving the temporal framing the objection depends on.
+The reply combines four elements. The agent's *reasons* supply guidance that pure chance lacks. The *phenomenology of effort* distinguishes selection from passive reception. *Agent causation* terminates the explanatory regress. And if retrocausal selection is genuine, the choice does not occur at a moment but determines which moments exist, dissolving the temporal framing the objection depends on.
 
 Two limits should be stated plainly. First, all four elements operate inside the dualist framework rather than establishing it; someone who rejects the framework is not thereby answered. Second, surviving the luck objection does not show that libertarian agency is *required* for moral phenomena. Sophisticated [[reasons-responsiveness|reasons-responsive compatibilism]] (Frankfurt, Fischer and Ravizza, Wolf) plausibly survives the objection by a different route—locating the work in the reasons-responsive mechanism, the higher-order desires, or the normative competence, all of which can operate under determinism. The [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] names this discipline at the moral-responsibility tier.
 

@@ -4,7 +4,7 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T17:22:32+00:00
+ai_modified: 2026-10-25T15:41:37+00:00
 last_deep_review: 2026-07-14T20:49:58+00:00
 draft: false
 topics:
@@ -47,14 +47,14 @@ This distinction is conceptually irreducible: we cannot describe reasoning witho
 
 Reasons-responsiveness is central to answering the [[quantum-indeterminacy-free-will|luck objection]] against libertarian [[topics/free-will|free will]]. The objection holds that if choices are not determined by prior causes, they must be random—and random outcomes are no more "free" than determined ones.
 
-The Map's response: selection guided by reasons is not lucky, even if not determined. The [[trilemma-of-selection|trilemma of selection]] establishes the logical space: determinism, randomness, or consciousness selecting for reasons—and only the third preserves authorship. When consciousness chooses action A rather than B, it does so *for* reasons. Those reasons don't *determine* the outcome—genuine alternative possibilities remain—but they *guide* it. The selection is contrastively explicable: why A rather than B? Because the agent had reasons for A.
+The Map's response: selection guided by reasons is not lucky, even if not determined. The [[trilemma-of-selection|trilemma of selection]] establishes the logical space: determinism, randomness, or consciousness selecting for reasons—and only the third preserves authorship. When consciousness chooses action A rather than B, it does so *for* reasons. Those reasons don't *determine* the outcome—genuine alternative possibilities remain—but they *guide* it, so that A is intelligible when it occurs and is the agent's doing rather than a chance event. They do not explain why A rather than B. Rewind and replay the choice, as van Inwagen's rollback argument does, and some replays yield B, though the reasons for B were present in every replay too. The Map's answer is that the settling is the agent's and nothing more basic accounts for it—[[rollback-argument-against-agent-causation|a primitive whose modal structure is owed rather than supplied]]. Clarke argues that "even contrastive rational explanations are available for some nondeterministically caused actions" (2003, ch. 3), but his explanation is causal, the resource event-causal libertarians use, and the Map does not rest its reply on it.
 
 This distinguishes the Map's framework from pure indeterminism:
 
 | Feature | Lucky Indeterminism | Reasons-Responsive Selection |
 |---------|---------------------|------------------------------|
 | What determines outcome | Nothing (chance) | Guided by agent's reasons |
-| Explanation available | None | Contrastive (why A not B) |
+| Explanation available | None | Reasons make A intelligible; the agent settles it |
 | Agent's relationship | Passive recipient | Active reasoner |
 
 The agent-causal response gains traction through reasons-responsiveness. Pure agent causation—"the agent caused it"—can seem to name the explanandum rather than explain it. Adding that the agent was *responsive to reasons* provides genuine content: the agent selected based on considerations that favoured the chosen option. Whether those considerations cause the selection or explain it without causing it is a further question, and the Map has not settled it ([[agent-causation-and-acting-for-reasons]]).
@@ -147,6 +147,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 
 ## References
 
+1. Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press. Ch. 3. https://doi.org/10.1093/019515987x.001.0001
 1. Fischer, J.M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press. (Develops "moderate reasons-responsiveness"—the capacity to recognise and react to some range of reasons—as the basis of moral responsibility. Their framework distinguishes strong from weak reasons-responsiveness; only the moderate version is required for attributing responsibility.)
 1. Goldman, A. (1979). "What Is Justified Belief?" In G. Pappas (Ed.), *Justification and Knowledge*. Reidel. (Classic reliabilist account.)
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.

@@ -4,7 +4,7 @@ description: "At a decision point of genuine indeterminacy the trilemma foregrou
 created: 2026-03-10
 modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-20T17:22:32+00:00
+ai_modified: 2026-10-25T15:41:37+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -71,7 +71,7 @@ This is the Map's position: [[agent-causation|agent-causal]] libertarianism grou
 
 Three features distinguish this from randomness:
 
-**Reasons-guidance.** [[reasons-responsiveness|Selection tracks reasons]]—goals, values, considerations that bear on the decision. The [[valence-and-conscious-selection|valence of anticipated outcomes]] provides the common metric by which consciousness evaluates competing options. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome (alternatives remained possible), but they [[agent-causation-and-acting-for-reasons|*guided*]] it. This makes the choice contrastively explicable in a way randomness cannot be.
+**Reasons-guidance.** [[reasons-responsiveness|Selection tracks reasons]]—goals, values, considerations that bear on the decision. The [[valence-and-conscious-selection|valence of anticipated outcomes]] provides the common metric by which consciousness evaluates competing options. Those reasons didn't *determine* the outcome (alternatives remained possible), but they [[agent-causation-and-acting-for-reasons|*guided*]] it, making the choice intelligible and the agent's in a way a random outcome cannot be. They do not explain why A rather than B, since in the rollback above the reasons for B were present in every replay too. That difference is the agent's settling, [[rollback-argument-against-agent-causation|a primitive whose modal structure is owed rather than supplied]].
 
 **Phenomenology of effort.** Random processes don't feel like anything. But choosing feels effortful, and the effort scales with difficulty. William James observed that the free-will question "relates solely to the amount of effort of attention." The felt cost corresponds to genuine causal engagement—consciousness doing work to stabilise the selected option against competitors.
 

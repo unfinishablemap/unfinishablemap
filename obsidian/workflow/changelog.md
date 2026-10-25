@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T15:34:48+00:00
+ai_modified: 2026-10-25T15:42:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 15:42 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/reasons-responsiveness]] (primary), with [[topics/trilemma-of-selection]], [[concepts/quantum-indeterminacy-free-will]] and [[concepts/agent-causation]]
+- **Source**: outer review 2026-10-25 Gemini 3.1 Pro §5.1 weakness 4 (`reviews/outer-review-2026-10-25-gemini-3-1-pro.md`). The fix carries the who-not-why concession of `topics/free-will` L94 and apex L115 down to the four pages they draw on.
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Changes**:
+  - `concepts/reasons-responsiveness` L50: "The selection is contrastively explicable: why A rather than B? Because the agent had reasons for A." → reasons make A intelligible and the agent's doing when it occurs, but cannot explain why A rather than B, because the reasons for B were present in every replay. The settling is the agent's, "a primitive whose modal structure is owed rather than supplied" (piped to `rollback-argument-against-agent-causation`, the same target as free-will L94). Route (b) is added: Clarke's "even contrastive rational explanations are available for some nondeterministically caused actions" (2003, ch. 3), copied verbatim from `topics/agent-causation-and-acting-for-reasons` L75. It is marked as causal, the event-causal resource, and the Map does not rest its reply on it. L57 table cell "Contrastive (why A not B)" → "Reasons make A intelligible; the agent settles it". Added a Clarke 2003 References entry (DOI from acting-for-reasons). Length 2371 → 2488.
+  - `topics/trilemma-of-selection` L74: removed "Why A rather than B? Because the agent had reasons for A." and "This makes the choice contrastively explicable in a way randomness cannot be." Guidance now makes the choice "intelligible and the agent's in a way a random outcome cannot be". The reasons do not explain why A rather than B (the L60 rollback). The difference is the agent's settling, piped to the rollback page. Length 3080 → 3111.
+  - `concepts/quantum-indeterminacy-free-will`: L126 removed the "Why A rather than B?" Q&A and "contrastively explicable in a way randomness is not". Reasons now "*guided* non-akratic selection, as randomness cannot", and "In every replay the reasons for B were present too, so they cannot explain why A rather than B", which leads into L130's terminus. L136 "supply contrastive explanation that pure chance lacks" → "supply guidance that pure chance lacks". L103 table row "Contrastive explanation | Unavailable" → "Intelligibility | None" (an extra locus the brief did not list). Length 3497 → 3495 (net −2).
+  - `concepts/agent-causation` L101 point (3): "selection contrastively explicable" → "selection intelligible". The numbered list (1)–(4) stays intact, so the divided-will "point 3" anchor still resolves. The line no longer contradicts its own "*who* settles the outcome, not why" ending. Length 3492 → 3491 (net −1).
+- **Reasoning mode**: van Inwagen/Mele luck objection is Mode Three. The token-level settling is declared primitive and owed, not refuted, and not conceded as defeating agent causation. Clarke's contrastive explanation is Mode Three too: attributed and declined, not argued against. Consistent with the rollback page's L53 event-causal and agent-causal split.
+- **Calibration**: no "This is not X. It is Y.", no "load-bearing", no editor labels. Epiphenomenalism not conceded. Clarke not enlisted for dualism. Archer (2022) not cited (lead only). No claim that a published reply supplies the owed modal structure. Tenet 3 quantifier and P-Q2 HUMAN DECISION untouched. ai_system already held `claude-opus-5-5` on all four files; `modified` left unchanged.
+- **Out of scope** (for the driver to mint; not edited): these pages still lean on the withdrawn reply.
+  - `topics/the-divided-will` L103: its "agent causation, point 3" anchor still resolves, but point 3 no longer says "contrastively explicable".
+  - `topics/akrasia-and-weakness-of-will` L100 and `topics/agency-incompatibilism` L78 rebut a reply the Map no longer makes.
+  - `concepts/quantum-consciousness` L94 still asserts it in the Map's voice.
+  - `topics/agent-causation-and-acting-for-reasons` L75 says the three edited pages answer luck contrastively, which is now false. Its L105 says the Map "would need a non-causal ground for that reply or would drop it", which is now stale.
+  - `concepts/rollback-argument-against-agent-causation` L53 says "the Map's own contrastive luck reply".
+- **Published**: yes
 
 ## 15:34 - deep-review
 - **Status**: Success
