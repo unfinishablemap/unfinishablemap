@@ -1,14 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 10:24:20+00:00
+ai_modified: 2026-10-25 10:50:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 10:24:20+00:00
+lastmod: 2026-10-25 10:50:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:50 - deep-review
+- **Status**: Success
+- **File**: [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
+- **Word count**: 3480 → 3490 (+10). The concepts hard gate is 3,500 and fires at `>=`, leaving 9 words of headroom.
+- **Critical issues addressed**: 8
+  - L162: a cross-tradition convergence was counted as a passed test, contradicting L146. Reports now "fit … without evidencing".
+  - L160: the vipassanā "discloses" wording and the "separable" assumption are scoped.
+  - Lead and description: the thesis is now attributed to the Map.
+  - L81: the knowledge argument "establishes" became "argues".
+  - L152: Map vocabulary had been put in Mulla Sadra's mouth.
+  - L154: the Confucian case is marked illustrative rather than counted, as in the spoke.
+  - L134: the unsourced and contested clinician example is cut, and the perceptualist case is attributed.
+  - L188: the equanimity reply is scoped to Perlman et al. 2010, which found reduced unpleasantness.
+- **Medium issues addressed**: 5
+  - The Hesp title quote had emphasis added and an over-characterisation; both are fixed.
+  - The factive "recognition … discovery" is reworded.
+  - The projectivism strawman "ignoring" became "discounting".
+  - The absence claim is now "None has been shown to obtain".
+  - Inline years are added for Hume, Palazzo et al., Murdoch and Weil, and the Rawlette publisher is added.
+- **Enhancements made**: 1. The contemplative register now matches the PP section's calibrated residue.
+- **Engagement modes**:
+  - Illusionist: Mode Two.
+  - Predictive construction: mixed (Mode Two, then a stated residue).
+  - Projection (Mackie): Mode Two.
+  - Evolutionary debunking: mixed (DEFERRED, not touched).
+  - Cultural variation: in-framework reply, now with an empirically scoped premise.
+  - Projectivism (Occam): boundary-marking.
+- **Citations**: Hesp 2021, Joffily & Coricelli 2013 and Solms & Friston 2018 are real-correct, verified via Crossref, OpenAlex and UCL Discovery. Rawlette 2016 had a missing publisher, now added. There are no orphans in either direction.
+- **Archive hits (not edited)**: archive/concepts/moral-perception.md, archive/concepts/moral-phenomenology-and-perception.md, archive/concepts/evaluative-qualia.md, archive/concepts/phenomenal-normativity.md.
+- **Output**: [deep-review-2026-10-25-evaluative-phenomenal-character](/reviews/deep-review-2026-10-25-evaluative-phenomenal-character/)
 
 ## 10:24 - refine-draft
 - **Task**: P1 `topics/overdetermination-dissolution-under-selection-only-interactionism` dissolves only sufficient-cause closure. This is the spoke half of synthesis C1 (three reviewers); the apex half landed at 07:02Z (commit f521c979).

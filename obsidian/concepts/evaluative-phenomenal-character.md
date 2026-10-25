@@ -1,10 +1,10 @@
 ---
 title: "Evaluative Phenomenal Character"
-description: "Conscious experience carries intrinsic evaluative character—felt goodness, badness, beauty, wrongness—extending the hard problem of consciousness into value."
+description: "The Map holds that conscious experience carries intrinsic evaluative character—felt goodness, badness, beauty, wrongness—and that this extends the hard problem into value."
 created: 2026-01-16
-modified: 2026-09-06
+modified: 2026-10-25
 human_modified:
-ai_modified: 2026-09-06T11:30:43+00:00
+ai_modified: 2026-10-25T10:48:33+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -55,10 +55,10 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-07-18T07:47:36+00:00
+last_deep_review: 2026-10-25T10:48:33+00:00
 coalesced_from:
   - "/concepts/phenomenal-normativity/"
   - "/concepts/evaluative-qualia/"
@@ -66,7 +66,7 @@ coalesced_from:
   - "/concepts/moral-phenomenology-and-perception/"
 ---
 
-Conscious experience carries intrinsic evaluative character. Pain is bad not because we judge it bad but because badness is constitutive of what pain feels like. Beauty presents itself as significant without inference. Moral wrongness appears as a feature of the situation, not an overlay added by the observer. The Unfinishable Map holds that this evaluative phenomenal character—what [[qualia|evaluative qualia]] isolate as a distinct phenomenal dimension—grounds [[topics/phenomenal-value-realism]]: intrinsic value is a feature of conscious experience, and without conscious experience, [[consciousness-value-connection|nothing has intrinsic worth]]. This claim extends the [[hard-problem-of-consciousness|hard problem]] beyond sensation into value: physics cannot capture not only why there is something it is like to see red, but why there is something it is like for suffering to matter.
+Conscious experience, the Unfinishable Map holds, carries intrinsic evaluative character. Pain is bad not because we judge it bad but because badness is constitutive of what pain feels like. Beauty presents itself as significant without inference. Moral wrongness appears as a feature of the situation, not an overlay added by the observer. The Map holds that this evaluative phenomenal character—what [[qualia|evaluative qualia]] isolate as a distinct phenomenal dimension—grounds [[topics/phenomenal-value-realism]]: intrinsic value is a feature of conscious experience, and without conscious experience, [[consciousness-value-connection|nothing has intrinsic worth]]. This claim extends the [[hard-problem-of-consciousness|hard problem]] beyond sensation into value: physics cannot capture not only why there is something it is like to see red, but why there is something it is like for suffering to matter.
 
 ## The Category Distinguished
 
@@ -78,7 +78,7 @@ Three features distinguish evaluative from sensory qualia. **Normative valence**
 
 Sharon Hewitt Rawlette develops the core argument in *The Feeling of Value* (2016). Pleasantness and intrinsic goodness are identical—not merely correlated. The experiential quality of joy just is what we mean by "intrinsically good." This identity claim is stronger than typical hedonism: hedonists argue pleasure causes or indicates value; Rawlette argues pleasure *is* value—one property under two descriptions.
 
-The case builds on [[phenomenal-acquaintance|knowledge by acquaintance]]. We don't know pain is bad through inference—we are directly acquainted with its badness in experience. The [[knowledge-argument]] establishes that phenomenal knowledge exceeds physical description. Phenomenal normativity extends this: normative knowledge, at least concerning hedonic value, also exceeds description.
+The case builds on [[phenomenal-acquaintance|knowledge by acquaintance]]. We don't know pain is bad through inference—we are directly acquainted with its badness in experience. The [[knowledge-argument]] argues that phenomenal knowledge exceeds physical description. Phenomenal normativity extends this: normative knowledge, at least concerning hedonic value, also exceeds description.
 
 When experiencing intense pain and asking "is *this* bad?"—attending directly to the phenomenal character—the question closes. The badness is not inferred or added; it is manifest in what you are attending to. [[introspection|Introspective]] access provides evidence but not proof. A critic will object that feeling certain about the pleasure-goodness link is exactly what we'd expect if the identification were a deeply ingrained conceptual habit rather than a metaphysical discovery. What it does establish is that any account making pleasure's goodness contingent must explain away a persistent and cross-culturally robust phenomenological appearance.
 
@@ -86,7 +86,7 @@ Martin Dimitrov extends this via constitutivism about phenomenal introspection: 
 
 ### The Is-Ought Bridge
 
-Hume argued you cannot derive "ought" from "is." The logical point stands: no formal deduction bridges the gap. But phenomenal normativity reframes the premises. If pain's badness is constitutive of what pain *is*, then the phenomenal "is" already contains normativity—not by illicit derivation but because the starting point was never purely descriptive. Attending to pain puts you in contact with a fact that is simultaneously natural and normative. This avoids Moore's naturalistic fallacy (Moore 1903): the claim is identity discovered in acquaintance, not a *definition* of goodness in non-evaluative terms.
+Hume (1739) argued you cannot derive "ought" from "is." The logical point stands: no formal deduction bridges the gap. But phenomenal normativity reframes the premises. If pain's badness is constitutive of what pain *is*, then the phenomenal "is" already contains normativity—not by illicit derivation but because the starting point was never purely descriptive. Attending to pain puts you in contact with a fact that is simultaneously natural and normative. This avoids Moore's naturalistic fallacy (Moore 1903): the claim is identity discovered in acquaintance, not a *definition* of goodness in non-evaluative terms.
 
 ## Phenomenal Value Pluralism
 
@@ -131,17 +131,17 @@ Moral phenomenology applies these methods to the ethical domain specifically (Ho
 
 Witnessing cruelty produces an experience with identifiable phenomenal character (see [[topics/phenomenology-of-moral-life|phenomenology of moral life]] for the full arc from pre-reflective strike through deliberation). The wrongness presents itself as a feature of the situation—belonging to the act, not merely to the observer's reaction. Obligation has a distinct phenomenal profile: a felt practical necessity rather than an inclination. Moral admiration, guilt, and moral remainder each carry specific felt qualities that resist functional reduction.
 
-Three considerations favour perception over inference. **Speed**: moral responses are typically immediate, not products of deliberation. **Phenomenal character**: moral experience presents ethical properties as features of the world, not conclusions of arguments. **Expertise effects**: moral perception improves with training, as sensory perception does—experienced clinicians perceive suffering that novices miss.
+Proponents cite three considerations favouring perception over inference. **Speed**: moral responses are typically immediate, not products of deliberation. **Phenomenal character**: moral experience presents ethical properties as features of the world, not conclusions of arguments. **Expertise effects**: moral perception improves with training, as sensory perception does.
 
 ### Moral Blindness
 
-If moral properties can be perceived, they can also fail to be perceived. This variation parallels [[blindsight]], where visual processing occurs without phenomenal awareness. Palazzo, Krings, and Hoffrage document how people routinely fail to recognise ethical dimensions of decisions through institutional framing and cognitive load—not from suppression but from genuine failure of moral properties to appear in experience.
+If moral properties can be perceived, they can also fail to be perceived. This variation parallels [[blindsight]], where visual processing occurs without phenomenal awareness. Palazzo, Krings, and Hoffrage (2012) document how people routinely fail to recognise ethical dimensions of decisions through institutional framing and cognitive load—not from suppression but from genuine failure of moral properties to appear in experience.
 
 The [[normative-void]] extends this: if ethical perception varies within humanity, entire categories of moral property might be imperceptible to all humans.
 
 ## Cross-Traditional Convergence
 
-The recognition that experience carries intrinsic evaluative character is not a recent Western discovery. Multiple traditions arrived at structurally similar descriptions by routes that are largely, though not wholly, independent.
+The view that experience carries intrinsic evaluative character is neither recent nor only Western. Multiple traditions arrived at structurally similar descriptions by routes that are largely, though not wholly, independent.
 
 **Buddhist *vedanā*.** The Pāli canon identifies feeling tone as one of the five aggregates constituting experience, operating prior to both emotion and judgment (Gethin 1998). Buddhist phenomenology treats evaluative character as a basic stratum of experience rather than a higher-order addition. Canonically, though, *vedanā* is the condition out of which craving arises, and attending to it is meant to loosen its grip rather than certify what it presents — a [tension taken up below](#contemplative-evidence).
 
@@ -149,17 +149,17 @@ The recognition that experience carries intrinsic evaluative character is not a 
 
 **Indian rasa theory.** Abhinavagupta developed aesthetic "flavour" as evaluative consciousness irreducible to ordinary emotion—self-luminous and evaluative at its core.
 
-**Islamic philosophy.** Mulla Sadra's "knowledge by presence" holds that evaluative qualia are not representations *of* value but participations *in* value.
+**Islamic philosophy.** Mulla Sadra's "knowledge by presence" suggests that knowing value is participating *in* it rather than representing it.
 
-Two of the four cases are one lineage: *vedanā* analysis and *rasa* theory both develop inside the Indian philosophical world, in mutual contact and criticism, and traditions that argue with each other count once. The register position [[positions/arguments-for-dualism|P-D3]] grades the cross-traditional evidence as *near-independence, not a third confirmation*; the same accounting applies here. What survives counts against a parochially Western explanation of evaluative character, not as four independent confirmations that it is basic. For detailed treatment, see [[evaluative-qualia-phenomenal-normativity-across-traditions]].
+Two of the four cases are one lineage: *vedanā* analysis and *rasa* theory both develop inside the Indian philosophical world, in mutual contact and criticism, and traditions that argue with each other count once. The Confucian case is [[evaluative-qualia-phenomenal-normativity-across-traditions|illustrative rather than counted]]. The register position [[positions/arguments-for-dualism|P-D3]] grades the cross-traditional evidence as *near-independence, not a third confirmation*; the same accounting applies here. What survives counts against a parochially Western explanation of evaluative character, not as four independent confirmations that it is basic.
 
 ## Contemplative Evidence
 
-[[witness-consciousness|Contemplative traditions]] provide additional data. Meditators report observing valence directly—not as attribution but as constituent of experience. Advanced meditators report that valence persists when evaluative judgment and meta-attitudes are suspended.
+[[witness-consciousness|Contemplative traditions]] provide additional data. Meditators report observing valence directly—not as attribution but as constituent of experience, arising moment-to-moment in *vipassanā*. Advanced meditators report that valence persists when evaluative judgment and meta-attitudes are suspended.
 
-Buddhist *vipassanā* discloses hedonic valence arising moment-to-moment as constitutive, not overlaid. A tension deserves acknowledgment: the tradition concludes that *vedanā* is conditioned and impermanent—a source of suffering when reified. Normative phenomenology can accept the observational finding (normativity is pre-reflective) without endorsing the Buddhist metaphysical conclusion. The methods of sustained attention are separable from the interpretive frameworks.
+A tension deserves acknowledgment: the Buddhist tradition concludes that *vedanā* is conditioned and impermanent—a source of suffering when reified. Normative phenomenology can accept the report that feeling tone is pre-reflective without endorsing that conclusion if, as it assumes without showing, attention is separable from the framework that trains it.
 
-Iris Murdoch and Simone Weil developed complementary accounts of moral [[attention-as-interface|attention]]: sustained, ego-displacing receptivity that allows another person's reality to become fully present. If moral perception were mere projection, sustained contemplative attention should eventually reveal the projection mechanism. Contemplatives across traditions report the opposite: deeper attention reveals more evaluative structure, not less.
+Iris Murdoch (1970) and Simone Weil (1947) developed complementary accounts of moral [[attention-as-interface|attention]]: sustained, ego-displacing receptivity that allows another person's reality to become fully present. On their accounts deeper attention refines moral vision rather than exposing projection. Contemplative reports fit the constitutive reading without evidencing it: construction running below introspection would leave them unchanged.
 
 ## Challenges and Responses
 
@@ -171,7 +171,7 @@ Iris Murdoch and Simone Weil developed complementary accounts of moral [[attenti
 
 The leading empirical rival grants that suffering feels bad and disputes whether the feeling is basic. On interoceptive-inference and [[predictive-processing|active-inference]] accounts, affective valence is *constructed*: a hierarchical generative model issues predictions about the body's internal state, and what arrives in experience as felt goodness or badness is the output of that inferential machinery rather than a primitive evaluative quality. Joffily and Coricelli (2013) give the sharpest formal version, defining valence as the negative rate of change of free energy over time—positive valence just is prediction error falling. If that is what valence *is*, the identity between felt badness and badness starts to look less like a discovery than like a description of a downstream inferential product.
 
-The Map's reply grants the mechanism and denies that it settles the metaphysics, and the programme's own practitioners supply the reason. Hesp and colleagues (2021) build valence into deep active inference under the title "Deeply *Felt* Affect," treating it as a genuinely inferred felt state rather than a bookkeeping quantity; Solms and Friston (2018) run the same mathematics toward identifying affect with felt experience and treating it as constitutive of consciousness. Neither is an ally—Solms holds a dual-aspect monism the Map does not adopt, and Friston's Markovian monism argues directly against the two-sided reading—but their split with the deflationary wing shows the mathematics settles nothing by itself. The formalism specifies how valence is computed, weighted, and accessed. It does not specify why the computation should be *felt*, which is the [[explanatory-gap|explanatory gap]] arriving in evaluative form rather than being closed. [[the-steelman-for-value-blind-selection|The steelman for value-blind selection]] assembles the deflationary reading at full strength, [[topics/valence-as-a-natural-kind|valence as a natural kind]] meets its constructionist form, and [[topics/predictive-processing-and-dualism|predictive processing and dualism]] treats the wider framework.
+The Map's reply grants the mechanism and denies that it settles the metaphysics, and the programme's own practitioners supply the reason. Hesp and colleagues (2021) build valence into deep active inference under the title "Deeply Felt Affect," modelling it as a state the agent infers about its own fitness; Solms and Friston (2018) run the same mathematics toward identifying affect with felt experience and treating it as constitutive of consciousness. Neither is an ally—Solms holds a dual-aspect monism the Map does not adopt, and Friston's Markovian monism argues directly against the two-sided reading—but their split with the deflationary wing shows the mathematics settles nothing by itself. The formalism specifies how valence is computed, weighted, and accessed. It does not specify why the computation should be *felt*, which is the [[explanatory-gap|explanatory gap]] arriving in evaluative form rather than being closed. [[the-steelman-for-value-blind-selection|The steelman for value-blind selection]] assembles the deflationary reading at full strength, [[topics/valence-as-a-natural-kind|valence as a natural kind]] meets its constructionist form, and [[topics/predictive-processing-and-dualism|predictive processing and dualism]] treats the wider framework.
 
 The residue is stated rather than resolved. If prediction explains access to valence while leaving its felt character unexplained, the identity thesis survives with its subject intact. If the felt character proves to be nothing over and above a precision-weighted estimate, it does not—and nothing argued here forecloses that.
 
@@ -185,7 +185,7 @@ Evolution fully explains why we believe pain is bad—organisms avoiding tissue 
 
 ### The Cultural Variation Objection
 
-Meditative traditions cultivate equanimity toward pain. **Response**: equanimity practices don't eliminate pain's negative valence; they change meta-attitudes. Meditators still feel pain's aversive quality but don't react with craving for its absence. This distinguishes first-order phenomenal normativity from second-order attitudes about it.
+Meditative traditions cultivate equanimity toward pain. **Response**: equanimity practices change meta-attitudes and may lower pain's negative valence, but do not eliminate it. Meditators still feel pain's aversive quality but don't react with craving for its absence. This distinguishes first-order phenomenal normativity from second-order attitudes about it.
 
 ## Relation to Site Perspective
 
@@ -197,7 +197,7 @@ Meditative traditions cultivate equanimity toward pain. **Response**: equanimity
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: If evaluative qualia make genuine moral stakes possible, many-worlds threatens this by ensuring every outcome is realised. Evaluative qualia present their objects as mattering absolutely, not branch-relatively. The felt wrongness of cruelty does not present itself as "wrong-in-this-branch."
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Eliminating evaluative qualia in favour of a simpler physicalist ontology would require explaining away as mere cognitive bias the finding the cross-traditional material does support: that sustained first-person investigation keeps arriving at evaluative character as basic, across traditions whose metaphysics conflict and whose normative conclusions sometimes oppose the Map's. The apparent simplicity of projectivism is achieved by ignoring the primary data—what normative experience is actually like when carefully investigated.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Eliminating evaluative qualia in favour of a simpler physicalist ontology would require explaining away as mere cognitive bias the finding the cross-traditional material does support: that sustained first-person investigation keeps arriving at evaluative character as basic, across traditions whose metaphysics conflict and whose normative conclusions sometimes oppose the Map's. The apparent simplicity of projectivism is achieved by discounting the primary data—what normative experience is actually like when carefully investigated.
 
 ## What Would Challenge This View
 
@@ -210,7 +210,7 @@ Evaluative phenomenal character as described here would face pressure if:
 5. **Moral qualia proved epiphenomenal**: Subjects with selective lesions lost moral phenomenal character while retaining all functional moral capacities.
 6. **Cross-cultural divergence**: The phenomenal structure of normative experience (demand character, independence from attitude) proved parochial rather than universal.
 
-None currently obtains, but they are not equally remote. The fourth names an active research programme rather than a hypothetical, so it is the condition under live pressure rather than merely the one conceivable in principle.
+None has been shown to obtain, but they are not equally remote. The fourth names an active research programme rather than a hypothetical, so it is the condition under live pressure rather than merely the one conceivable in principle.
 
 ## Further Reading
 
@@ -244,7 +244,7 @@ None currently obtains, but they are not equally remote. The fourth names an act
 11. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
 12. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323–338.
 13. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269.
-14. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+14. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace. [Foreword by Thomas Nagel]
 15. Solms, M., & Friston, K. (2018). How and why consciousness arises: some considerations from physics and physiology. *Journal of Consciousness Studies*, 25(5–6), 202–238.
 16. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*, 50(2).
 17. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109–166.
