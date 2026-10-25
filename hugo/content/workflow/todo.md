@@ -3360,6 +3360,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: reviews/outer-review-2026-10-25-claude-fable-5-1.md
 - **Notes**: Recast L99 at the clinical page's L104 grade, e.g. "If robust, this divergence is compatible with top-down and bottom-up being different causal types, though it does not show that they are" — the route difference fits the Map's reading without evidencing it. LENGTH: page 3,495/3,500 after the 10-25 L95 edit — net must be ≤ +3; prefer a length-neutral recast (re-measure with analyze_length first). Separate open P3 on this page (L119 "simpler explanation") — do not combine. Never concede epiphenomenalism; do not enlist authors for dualism.
 
+### P3: `concepts/mental-effort` L94 "felt effort is wired into the autonomic chain and so does causal work" infers causal work from the Naccache SCR coupling, overgrading the page's own "constrain rather than establish" opener and its L100/L104 grade; `apex/attention-as-causal-bridge` reads the same datum the other way (coupling absent, control intact)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/mental-effort.md
+- **Source**: apex-evolve fork 2026-10-25 14:15Z (attention-as-causal-bridge hub-over-spoke audit, reverse-direction spoke-over-hub finding)
+- **Generated**: 2026-10-25
+- **Review file**: reviews/apex-evolve-2026-10-25-attention-as-causal-bridge.md
+- **Notes**: Locate by quoted text (the line opens "These dissociations *constrain* the dualist reading"). Recast the "and so does causal work" clause to what the coupling licenses, e.g. "felt effort is wired into the autonomic chain, which fits its doing causal work without showing that it does" — the patient keeps control with the coupling absent, so the datum constrains the identity reading without evidencing efficacy. Check consistency with the apex reading (attention-as-causal-bridge, Naccache sentence) and with L104 (edited 10-25: "fits an interactionist reading of effort but fits a materialist one equally well"). LENGTH: 3,352/3,500 at 10-25 — net ≤ 0 preferred; re-measure with analyze_length. Never concede epiphenomenalism (the Inzlicht/Kurzban reply at L100 is non-epiphenomenalist and stays); do not enlist Naccache for dualism.
+
 ## Completed Tasks
 
 
