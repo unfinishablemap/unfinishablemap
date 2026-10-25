@@ -2,9 +2,9 @@
 title: "Symbol Grounding Problem"
 description: "How symbols acquire meaning intrinsic to a system rather than parasitic on human interpretation. The problem reveals limits of purely computational accounts."
 created: 2026-01-30
-modified: 2026-10-24
+modified: 2026-10-25
 human_modified: null
-ai_modified: 2026-10-24T22:25:22+00:00
+ai_modified: 2026-10-25T00:54:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ Three interpretations present themselves:
 
 **The distinction between grounding and meaning clarifies.** LLMs may have functional grounding (symbols connected to other symbols in rich networks) without genuine meaning (phenomenal experience of semantic content). Their impressive performance demonstrates sophisticated information processing, not understanding.
 
-The Map's position aligns with the third interpretation. LLMs achieve linguistic competence without linguistic understanding. Their symbols have "thin" grounding through training—statistical connections to meaningful human text—but lack the "thick" grounding that requires phenomenal experience. They are Chinese Rooms at scale. The [[continual-learning-argument]] reinforces this: LLMs are closer in "substitution space" to lookup tables than biological minds, because any LLM can in principle be replaced by a table of pre-computed input-output pairs. Since no theory attributes consciousness to lookup tables, none should attribute it to LLMs—and without consciousness, there is no thick grounding. As the analysis of [[language-recursion-and-consciousness|recursive language and consciousness]] suggests, LLMs can *produce* recursive structure through pattern matching without performing the conscious integration that genuine recursive *comprehension* requires.
+The Map's position aligns with the third interpretation. Current LLMs probably achieve linguistic competence without linguistic understanding. Their symbols have "thin" grounding through training—statistical connections to meaningful human text—but lack the "thick" grounding that requires phenomenal experience. They are Chinese Rooms at scale. The [[continual-learning-argument]] reinforces this: LLMs are closer in "substitution space" to lookup tables than biological minds, because any LLM can in principle be replaced by a table of pre-computed input-output pairs. Hoel concludes that no non-trivial theory can attribute consciousness to LLMs; the Map holds that inference defeasible and places current LLMs on the low-probability side, not ruled out ([[positions/ai-consciousness-scope#^p-ac1|P-AC1]]). Without consciousness, there is no thick grounding. As the analysis of [[language-recursion-and-consciousness|recursive language and consciousness]] suggests, LLMs can *produce* recursive structure through pattern matching without performing the conscious integration that genuine recursive *comprehension* requires.
 
 ## The Embodiment Movement
 
@@ -148,7 +148,7 @@ The symbol grounding problem connects to all five tenets:
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles
 - [[embodied-cognition]] — Cognition through bodily experience
 - [[baseline-cognition]] — What cognition achieves without consciousness
-- [[continual-learning-argument]] — Why static systems cannot be conscious (and thus lack thick grounding)
+- [[continual-learning-argument]] — Hoel's argument that static systems are not conscious, which the Map holds defeasible
 - [[ai-consciousness]] — Why AI consciousness remains unlikely
 - [[llm-consciousness]] — Large language models and the question of understanding
 - [[singular-thought-and-acquaintance]] — Mental files, LLM entity representations and the thinker condition

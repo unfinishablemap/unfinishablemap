@@ -10,6 +10,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 00:54 - refine-draft
+- **Status**: Success
+- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/) (primary); [llm-consciousness](/concepts/llm-consciousness/) (optional secondary, applied)
+- **Original score**: n/a (tenet-calibration fix; `scripts/curate.py` absent)
+- **Task**: [tenet-check-2026-10-24](/reviews/tenet-check-2026-10-24/) Priority List item 2, the symbol-grounding part only, parts (a)–(c), covering W3. Secondary: W10 (not in the Priority List; the driver authorised it). L105 moved [P-AC1](/positions/ai-consciousness-scope/#p-ac1) to "ruled out" ("Since no theory attributes consciousness to lookup tables, none should attribute it to LLMs"), but the page it cites calls the inference "defeasible, not necessary" (`continual-learning-argument` L176). The intentionality part of item 2 (L197 and the description) is out of scope here, since it is folded into the queued intentionality P3.
+- **Changes, symbol-grounding-problem** (the review's exact OLD→NEW strings, applied in order; each OLD confirmed `str.count == 1` at its expected line before editing):
+  - (a) L105: "LLMs achieve linguistic competence without linguistic understanding." → "Current LLMs probably achieve linguistic competence without linguistic understanding." +2.
+  - (b) L105: "Since no theory attributes consciousness to lookup tables, none should attribute it to LLMs—and without consciousness, there is no thick grounding." → "Hoel concludes that no non-trivial theory can attribute consciousness to LLMs; the Map holds that inference defeasible and places current LLMs on the low-probability side, not ruled out ([P-AC1](/positions/ai-consciousness-scope/#p-ac1)). Without consciousness, there is no thick grounding." +15. The Hoel wording follows `continual-learning-argument` L59/L61, and the anchor `^p-ac1` exists in the register (L54).
+  - (c) L151 (Further Reading): "Why static systems cannot be conscious (and thus lack thick grounding)" → "Hoel's argument that static systems are not conscious, which the Map holds defeasible". +2.
+  - Preserved: the 22:25Z L125 edit (original intentionality vs derived reference; count 1) and the L49/L167 Coelho Mollo & Millière 2026 citation (count 1 each).
+- **Changes, llm-consciousness** (W10): the verdict table now uses [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s wording. The register text is: "The verdict is *"low probability," not "ruled out"*" (Asserts), and the position title is "Current conventional digital AI sits on the low-probability side of the substrate analysis". The review gave no NEW string here, so these are the smallest cells that carry that wording:
+  - L124: "| Non-physical component | Yes (per dualism) | No |" → "| Non-physical component | Yes (per dualism) | Probably not (per [P-AC1](/positions/ai-consciousness-scope/#p-ac1)) |". The bare ID is autolinked by sync, which keeps a piped wikilink out of the table cell.
+  - L130: "| Phenomenal character | What it's like | Almost certainly nothing |" → "| Phenomenal character | What it's like | Low probability, not ruled out |".
+  - The 2026-06-02 deep review's "appropriately hedged" stability note predates [P-AC1](/positions/ai-consciousness-scope/#p-ac1)'s 2026-10-15 re-band, so it does not bind. L132 (conditional) and L136 are untouched. L136's "almost certainly" still has an antecedent in L132 ("almost certainly that—patterns in outputs"). The L191 Further Reading label fix is preserved (count 1).
+- **Reasoning mode**: engagement with Hoel (symbol-grounding L105): Mode Three. His conclusion is reported as his, and the Map's dissent is a calibration verdict, not an in-framework refutation. No other named-opponent reply was touched.
+- **Calibration**: [P-AC1](/positions/ai-consciousness-scope/#p-ac1) moves in neither direction ("low probability, not ruled out" on both pages, no upgrade). Hoel, Harnad and Searle are not enlisted for dualism. Derived reference does not imply phenomenal understanding. The Tenet 3 quantifier and epiphenomenalism are untouched.
+- **Not touched (leads)**: `llm-consciousness` L56 (lead: "they lack the non-physical component consciousness requires"), L112 ("grounds for confidence this concern doesn't apply") and L114 ("why LLMs aren't conscious") state the verdict categorically, like the old L124 row. They are outside W10's named loci and are not tasked. The symbol-grounding L41/L131/L135 lines are covered by the review's Note 7 (todo L2491 scope).
+- **Word count** (analyze_length): symbol-grounding-problem 2644 → 2663 (+19, matching the review's net); llm-consciousness 3134 → 3139 (+5). The concepts hard gate is >=3500.
+- **Frontmatter**: `ai_modified` bumped to 2026-10-25T00:54:34+00:00 and `modified` to 2026-10-25 on both files. `ai_system` is unchanged on both, because claude-opus-5-5 is already present.
+- **Published**: yes
+
 ## 00:23 - refine-draft
 - **Status**: Success
 - **File**: [language-and-consciousness](/concepts/language-and-consciousness/)
