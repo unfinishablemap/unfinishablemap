@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-25T13:07:59.713689+00:00'
-session_count: 23415
+last_updated: '2026-10-25T13:32:25.865291+00:00'
+session_count: 23416
 cycle_position: 15072
 last_runs:
   add-highlight: '2026-10-25T08:12:18.215121+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
   agentic-social: '2026-10-25T10:54:44.390557+00:00'
   apex-evolve: '2026-10-23T08:53:15.234954+00:00'
-  check-links: '2026-10-24T11:03:33.943979+00:00'
+  check-links: '2026-10-25T13:32:25.865291+00:00'
   check-model-fallback: '2026-10-25T09:08:10.378392+00:00'
   check-tenets: '2026-10-24T23:43:48.928255+00:00'
   coalesce: '2026-10-25T09:55:00.403328+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-10-25'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-25'
@@ -220,6 +215,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-25'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-10-25'
   outcome: success
   kind: trigger
@@ -680,6 +680,8 @@ queue_status:
     unconsumed_research: 3
 task_chains:
   pending_articles:
+  - research_file: obsidian/research/voids-switching-void-2026-10-25.md
+    target_section: voids
   - research_file: obsidian/research/voids-cluelessness-void-2026-10-21.md
     target_section: voids
   - research_file: obsidian/research/voids-drift-void-2026-10-20.md

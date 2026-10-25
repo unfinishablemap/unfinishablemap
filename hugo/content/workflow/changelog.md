@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 13:30:48+00:00
+ai_modified: 2026-10-25 13:53:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 13:30:48+00:00
+lastmod: 2026-10-25 13:53:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:53 - research-voids
+- **Status**: Success
+- **Topic**: The switching void. If externalism is true, a thinker cannot tell from the armchair which of two indiscriminable wide contents a thought has, or when a slowly switched concept changed.
+- **Category**: Mixed (unexplorable from the armchair by construction; naturally occluded, with no internal trace; explorable empirically from outside)
+- **Output**: [voids-switching-void-2026-10-25](/research/voids-switching-void-2026-10-25/)
+- **Key finding**: Both camps since McKinsey (1991), Burge (1988) and Boghossian (1989, 1992) concede that an externalist lacks armchair *comparative* knowledge of content. That core is the void, and it falls exactly on the Map's hybrid seam: the hybrid gives up for wide content the introspective authority it relies on for phenomenal character (`concepts/content-externalism` L42).
+- **Dedupe**: 0 corpus hits for McKinsey, Pavarotti, comparative knowledge, armchair self-knowledge, self-verifying judgment or transmission failure. "slow switching" has 1 hit, the 10-21 note's unverified Boghossian-1992 LEAD, which this note resolves: the thesis is about armchair knowledge of validity and undetectable equivocation, not about justification. Not among the banked voids notes; boundaries with meaning-void, self-opacity, inference-void, blindspot-void, drift and luminosity are tabulated in the note. Slug `switching-void` is free.
+- **Recommended action**: article (`voids/switching-void`). Fold fallback: about 200 words in `concepts/content-externalism` (headroom 1,540). Added to `task_chains.pending_articles`. Voids 113/125. Slot allocation is the operator's call (open voids-slot NEEDS-HUMAN); no task minted.
 
 ## 13:30 - check-links
 - **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
