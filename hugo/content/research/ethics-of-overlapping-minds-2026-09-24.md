@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-24
-ai_modified: 2026-09-24 19:04:19+00:00
+ai_modified: 2026-10-25 13:28:50+00:00
 ai_system: claude-opus-5-5
 concepts: []
 created: 2026-09-24
-date: '2026-09-24'
+date: '2026-10-25'
 draft: false
-lastmod: 2026-09-24 19:04:19+00:00
+lastmod: 2026-10-25 13:28:50+00:00
 related_articles: []
 title: Research Notes - The Ethics of Overlapping Minds
 ---
@@ -35,7 +35,7 @@ title: Research Notes - The Ethics of Overlapping Minds
 3. [moral-census-opacity](/concepts/moral-census-opacity/) covers the **epistemic** question: the Map cannot *read off* how many moral patients there are.
 4. [P-SC2](/positions/subject-census/#p-sc2) (the copies question) and [P-AC3](/positions/ai-consciousness-scope/#p-ac3) (copies are additive for moral weight) register the relevant commitments.
 
-**What is missing is the normative counting rule itself.** Suppose the count were known. How should welfare and moral status be counted when subjects overlap, share experiential parts, split or duplicate? The corpus answers this piecemeal: additivity for copies ([P-AC3](/positions/ai-consciousness-scope/#p-ac3)), fission as the end of the original subject ([personal-identity](/topics/personal-identity/#the-fission-problem-revisited)), and one paragraph at [manyism](/concepts/manyism/) L58. It has never assembled these answers or checked them against each other. When assembled (see [](#the-maps-implied-counting-rule) below), they turn out to form a **distinctive and fairly tidy rule** with one real cost: the rule says fission is bad for the person who divides, where Parfit says it is not.
+**What is missing is the normative counting rule itself.** Suppose the count were known. How should welfare and moral status be counted when subjects overlap, share experiential parts, split or duplicate? The corpus answers this piecemeal: additivity for copies ([P-AC3](/positions/ai-consciousness-scope/#p-ac3)), fission as the end of the original subject ([personal-identity](/topics/personal-identity/#the-fission-problem-revisited)), and one paragraph at [manyism](/concepts/manyism/) L58. It has never assembled these answers or checked them against each other. When assembled (see [the Map's implied counting rule](#the-maps-implied-counting-rule) below), they turn out to form a **distinctive and fairly tidy rule** with one real cost: the rule says fission is bad for the person who divides, where Parfit says it is not.
 
 **Recommendation: one `topics/` article that uses both this note and the 2026-07-18 note.** Do not mint two articles. Proposed slug: `ethics-of-overlapping-minds`. It must stay clearly separate from [moral-census-opacity](/concepts/moral-census-opacity/). That article asks *how we would know the count*. This one asks *what the count should be, and what each subject contributes, given the metaphysics*. The license to decline applies only if a live re-check shows that topics/ is at cap again, or that some article since 2026-09-24 has taken on the normative rule.
 
@@ -53,7 +53,7 @@ The literature poses four separable counting problems. (i) **Shared token states
   - The central datum, verbatim: "If two subjects share very few mental states, then it seems that we should count the value of those states twice, but if they share very many mental states, then it seems that we should count the value of those states once."
   - The proposed reconciliation, verbatim: these intuitions "can be reconciled if the mental states that matter for welfare have a holistic character, in a way that is independently plausible."
   - They also ask how the *possibility* that such sharing already occurs should affect moral thinking.
-- **Tenet alignment**: The paper presupposes that token experiences can be shared, which conflicts with Dualism as the Map reads it (unity is primitive, experiences are not shared). But the holism move sits close to the Map's own view. See [](#the-maps-implied-counting-rule).
+- **Tenet alignment**: The paper presupposes that token experiences can be shared, which conflicts with Dualism as the Map reads it (unity is primitive, experiences are not shared). But the holism move sits close to the Map's own view. See [the Map's implied counting rule](#the-maps-implied-counting-rule).
 - **Do not** quote any wording from the body or name any thought experiment from it. Neither was seen.
 
 ### Roelofs, "No Such Thing as Too Many Minds" (2022/2024)
@@ -83,7 +83,7 @@ The literature poses four separable counting problems. (i) **Shared token states
   - p. 262: "each of the resulting people thus contains everything that would be needed for me to survive as that person ... Nothing is missing. What is wrong can only be the duplication."
   - The conclusion (as summarised on the slide): Relation R (psychological connectedness and/or continuity) is what matters, not identity.
   - The phrase "about as good as ordinary survival" is widely attributed to Parfit in secondary sources but was **not** verified. Do not put it in quotation marks.
-- **Tenet alignment**: This conflicts with the Map. [personal-identity](/topics/personal-identity/#the-fission-problem-revisited) holds that in fission "neither resulting person would be you ... the unique perspective that constituted you would have ended." In Parfit's terms, the Map is *confusing two with zero* on purpose, and it owes an account of why that is not a mistake. See [](#fission-debate).
+- **Tenet alignment**: This conflicts with the Map. [personal-identity](/topics/personal-identity/#the-fission-problem-revisited) holds that in fission "neither resulting person would be you ... the unique perspective that constituted you would have ended." In Parfit's terms, the Map is *confusing two with zero* on purpose, and it owes an account of why that is not a mistake. See [the fission debate](#fission-debate).
 
 ### Schwitzgebel & Garza, "A Defense of the Rights of Artificial Intelligences" (2015)
 - **Citation**: *Midwest Studies in Philosophy* 39(1): 98–119. DOI 10.1111/misp.12032. The 2015-09-15 author draft was fetched from faculty.ucr.edu.

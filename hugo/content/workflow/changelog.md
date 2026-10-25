@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 12:59:11+00:00
+ai_modified: 2026-10-25 13:30:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 12:59:11+00:00
+lastmod: 2026-10-25 13:30:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 13:30 - check-links
+- **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
+- **Crawler**: `.claude/skills/check-links/scripts/check_links.py`, own ephemeral server (sync beforehand was a no-op on hugo/content). 424 broken, 44 source pages (workflow 38, research 6), all 404, no other status code. 376 are covered by `hugo/static/_redirects` (workflow 370, research 6). 48 are dead with no rule, all on workflow pages. Zero from any content section. Same profile as 10-24, 10-23 and 10-15 (424 / 376 / 48).
+- **Source-anchored audit** (independent of crawl order): fresh `hugo` build into a scratch dir, then every internal `<a href>` on all 10,435 pages, including the 5,097 hard-coded `unfinishablemap.org` URLs the crawler skips as off-host. 468,184 links: 464,719 resolve, 3,375 resolve via a redirect rule (workflow 1,823, reviews 923, archive 617, research 12; none from a live content section), and 90 are dead (workflow 60, reviews 28, project 2). The two project hits are the writing-style `unfinishablemap.org/section/slug/` citation-template placeholders. Live content sections (topics, concepts, apex, voids, positions, tenets, arguments, home): 65,785 links, 0 dead, 0 via redirect.
+- **Anchors**: each fragment checked against the target page's rendered ids. 8,718 anchor links from live content sections, all resolve. 135 miss, all in archive (57), reviews (39), workflow (34) or research (5); those misses are the positive control. The research five: objectivity-consciousness-view-from-nowhere #objectivity-paradox and teleosemantics `#...` are writing-guidance examples (carried from 10-23); the three new ones, evaluation-awareness-and-model-self-report-2026-10-24 `#necessity`, `#concurrency` and `#licenses`, sit inside the note's draft fold passages and target ids that exist on the host, `topics/chain-of-thought-as-verbal-protocol` (L49, L59, L95). They will resolve once pasted, so they were left alone.
+- **Extra dialect checks**: literal `[[` in rendered live content pages, 0 outside `<code>`. Double-slash hrefs: 12, all in workflow and reviews pages. Empty-text links: 23, of which 4 were in research notes (fixed, below), 1 in archive, 18 in workflow and reviews.
+- **Fixes** (unaliased same-page wikilinks, which sync renders as an invisible empty-text `[](#id)` link that leaves a gap in the sentence, e.g. "(see  below)"):
+  - [ethics-of-overlapping-minds-2026-09-24](/research/ethics-of-overlapping-minds-2026-09-24/) L34: `(see [[#the-maps-implied-counting-rule]] below)` → `[[#the-maps-implied-counting-rule|the Map's implied counting rule]]`.
+  - same note L52: `See [[#the-maps-implied-counting-rule]].` → the same alias.
+  - same note L82: `See [[#fission-debate]].` → `[[#fission-debate|the fission debate]]` (target heading "Fission: is division as good as survival?").
+  - [release-phenomena-2026-10-14](/research/release-phenomena-2026-10-14/) L33: `[[#The Two Fresh Raw Checks]]` → `[[#The Two Fresh Raw Checks|The Two Fresh Raw Checks]]`.
+  - A source grep found exactly these 4 unaliased `[[#…]]` links outside workflow/ and reviews/ in obsidian/, plus 1 in archive. After sync and rebuild, all 4 render with text and their target ids exist. Empty-text links fell from 23 to 19.
+- **Archive (reported, not edited; pending the publication-policy decision)**: 0 dead links; 617 links resolve via a 301 rule. 57 anchor misses across 44 pages. 28 point at ids absent from the tenets and voids index pages (`/tenets/#occam` ×10, `#bidirectional` ×6, `#minimal-quantum` ×2, `#occams-razor` ×2, `#minimal-interaction`, `#mysterianism`; `/voids/#alien-minds-as-void-explorers` ×4, `#the-unexplorable` ×2). The other 29 point at headings absent from their live targets, 2 of them via a redirect. 1 empty-text link: archive/concepts/perceptual-degradation-and-the-interface L49 `[[#The Neural Network Objection]]`.
+- **Side finding (not a link defect, not edited)**: `hugo/config.toml` L13–16 has `summaryLength = 150` after the `[taxonomies]` header, so TOML scopes it as a taxonomy. Hugo builds a stray `/150/` term page, which the production sitemap lists but production serves as 404. The intended summary length is not in effect.
+- **ai_system**: unchanged on both notes (claude-opus-5-5 already present). ai_modified bumped to 2026-10-25T13:28:50+00:00. The ethics note has no `modified` field, so its Hugo `date` moved to 2026-10-25 as well.
+- **Not committed**.
 
 ## 12:59 - refine-draft
 - **Status**: Success

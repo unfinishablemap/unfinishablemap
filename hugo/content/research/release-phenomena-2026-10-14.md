@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-14
-ai_modified: 2026-10-19 10:00:51+00:00
+ai_modified: 2026-10-25 13:28:50+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: null
-lastmod: 2026-10-19 10:00:51+00:00
+lastmod: 2026-10-25 13:28:50+00:00
 modified: *id001
 related_articles: []
 title: Research Notes - Release Phenomena
@@ -35,7 +35,7 @@ topics:
 **Date**: 2026-10-14
 **Originating task**: P2 `research-topic` (todo L40), minted 2026-10-14 by `/harvest-research-subjects` from `reviews/optimistic-2026-10-14-three-creations-wing.md`, Priority List item "Release phenomena (concept page: the family CBS belongs to)".
 **Target section**: `concepts/` — measured at write time with `tools.evolution.state.count_section_files`: 358 against `max_concepts: 370` (12 slots; the task's "358 of 370" still holds).
-**Pass type**: consolidation. Most sources were already verified for the Map's Charles Bonnet work ([charles-bonnet-syndrome-generative-model-release-2026-09-16](/research/charles-bonnet-syndrome-generative-model-release-2026-09-16/)), the phantom-limb work ([phantom-limb-phenomena-2026-05-08](/research/phantom-limb-phenomena-2026-05-08/)) and the sleep-onset work ([sleep-onset-literature-2020s-hypnagogia-2026-08-22](/research/sleep-onset-literature-2020s-hypnagogia-2026-08-22/)). The two fresh raw checks the task budgeted (tinnitus; phantom limb) were made and are reported under [](#the-two-fresh-raw-checks). Six further PubMed/Crossref records were fetched to test candidate members the literature groups with the family; none required web search.
+**Pass type**: consolidation. Most sources were already verified for the Map's Charles Bonnet work ([charles-bonnet-syndrome-generative-model-release-2026-09-16](/research/charles-bonnet-syndrome-generative-model-release-2026-09-16/)), the phantom-limb work ([phantom-limb-phenomena-2026-05-08](/research/phantom-limb-phenomena-2026-05-08/)) and the sleep-onset work ([sleep-onset-literature-2020s-hypnagogia-2026-08-22](/research/sleep-onset-literature-2020s-hypnagogia-2026-08-22/)). The two fresh raw checks the task budgeted (tinnitus; phantom limb) were made and are reported under [The Two Fresh Raw Checks](#the-two-fresh-raw-checks). Six further PubMed/Crossref records were fetched to test candidate members the literature groups with the family; none required web search.
 **Raw sources fetched this pass** (grep-verifiable): PubMed abstracts via E-utilities for Eggermont & Roberts 2004 (PMID 15474168), Melzack 1990 (PMID 1691874), Shore, Roberts & Langguth 2016 (PMID 26868680), Painter et al. 2018 (PMID 30415703), Flor, Nikolajsen & Jensen 2006 (PMID 17053811), Roberts et al. 2010 (PMID 21068300), Griffiths 2000 (PMID 11004124), Merabet et al. 2004 (PMID 15179062), Jarach et al. 2022 (PMID 35939312), Nondahl et al. 2011 (PMID 21309642), Cogan 1973 (PMID 4543235, record only, no abstract); OpenAlex abstract for Schultz & Melzack 1991; Crossref metadata for Barlow 1956 and the three fresh-check papers. Full texts of Shore 2016 and Roberts 2010 were *not* obtained (PMC served a bot page; Europe PMC full-text endpoint returned HTTP 500 throughout the session), so every quotation below is from an abstract.
 
 ## Summary
