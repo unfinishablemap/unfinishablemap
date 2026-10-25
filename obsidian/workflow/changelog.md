@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T16:12:49+00:00
+ai_modified: 2026-10-25T16:33:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:33 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-moral-agency-under-duress]]. It had no prior pessimistic review by content, six deep reviews (last 2026-07-28), and 28/28 outbound targets changed since its 2026-07-29 edit, including today's luck-reply retraction, the new rollback page and P-A5's 2026-08-21 conditionalisation.
+- **Output**: [[reviews/pessimistic-2026-10-25-consciousness-and-moral-agency-under-duress]]
+- **Findings (ranked)**:
+  - (1) L107's luck reply rests on felt effort ("enduring torture does not feel random"). That fails the replay test behind today's retraction. The phrase occurs only on this page, so the 15:42 sweep missed it.
+  - (2) L105/L117 argue against a deterministic, epiphenomenalist strawman of physicalism. L115's "moral weight … at all" contradicts P-A5.
+  - (3) L43/L77/L119 restore evidence and testimony grades that L83 disowns. The parental-sacrifice example is backwards (kin selection).
+  - (4) L47 misreads Aristotle: duress is his *mixed* class, not *compulsion* (Ross NE III.1, verified).
+  - Secondary: L113 stress narrowing "quantum states"; L111 "guarantees" settles the Tenet 3 quantifier.
+- **Length**: 2,737 by analyze_length (hard 4,000). Items 1–4 cost +256.
+- **Contract**: reports-only. No article or todo.md edits. P-Q2 and the Tenet 3 quantifier are not resolved. The MWI bedrock note is respected.
 
 ## 16:12 - positions-evolve
 - **Status**: Success
