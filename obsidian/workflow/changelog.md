@@ -5,6 +5,18 @@ ai_modified: 2026-10-24T23:42:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 01:19 - deep-review
+- **Status**: Success
+- **File**: [[topics/parapsychology-firewall]]
+- **Word count**: 2151 → 2658 (+507; topics soft 3000, hard 4000, gate `>=`)
+- **Critical issues addressed**: 6. (1) L87 "self-concealment that immunises the Map against falsification-by-spectacular-psi" contradicted the thesis; it now reads "keeps the Map consistent with the null record, and exposed to any spectacular result". (2) L77/L81 said coherence-time and collapse-model results expose "the framework". The falsification roadmap (L79, L87) and P-Q6 say the post-decoherence path is untouched by them. Rescoped: those results bear on the coherence-dependent candidates; the endorsed path is exposed to a conditioned brain-internal test and to supersession. (3) Maier P3 locus (1), L73 "large pre-registered micro-PK studies": DONE. "Pre-registered" is reattributed to Maier & Dechamps 2018 (JSE 32(2):265–297, doi 10.31275/2018.1250) Study 2 only. (4) The P-Q3 brain-locality correction had not reached L73 ("indeed predicted by a Born-preserving interface"); fixed. (5) L79 now states P-Q3 at full strength ("sits genuinely close to epiphenomenalism"), neither conceded nor dissolved. (6) Reference orphans in both directions: Stapp, Bösch and Han & Choi had References entries but no inline cite (Stapp since creation; three prior reviews certified "no orphans"). Torres Alegre 2025 and the Diósi-Penrose result were cited in the body without entries. All now resolved.
+- **Medium issues addressed**: 8. P-Q7 strength (L55: single-system safety only). Empirical-constraint minimality (L81, L87). The wager made disjunctive (L89). Firewall scope on L37/L43 (psi = mind acting outside its own brain or importing content; a conditioned brain-internal deviation is a different observable). The lead's token clause (L31). The description ("minimal-interface dualism", scoped to unconditioned aggregate tests). Tenet 2 quote fidelity (L71). Absence scoping (L51, L77).
+- **Citations**: Crossref-verified with fields printed: Bösch 2006, Han & Choi 2016, Maier, Dechamps & Pflitsch 2018, Maier & Dechamps 2018, Stapp 2006 (no pages deposited; range still omitted), Donadi et al. 2021 (added). arXiv API: Torres Alegre 2025 (added; still no journal-ref). Stapp quote grep-verified in the LBL preprint.
+- **Reasoning mode**: folk dualism: Mode Two opening, then Mode Three. Stapp is cited for where his mechanism sits, not as a reply target.
+- **Not touched (leads)**: this page is a downstream locus of the open P1 HUMAN DECISION on P-Q2's quantifier. L31 and L51 carry the tenets.md L75 pooled-marginal reading; this pass kept its new wording neutral and did not propagate the 10-14 reading. The Maier P3's loci (2)–(5) are untouched. `research/quantum-randomness-llm-token-sampling-2026-02-10.md` L109 cites (A) as two-author "Maier & Dechamps" and is not in the P3's list.
+- **Frontmatter**: `ai_modified` and `last_deep_review` set to 2026-10-25T01:18:24+00:00 and `modified` set to 2026-10-25. `ai_system` gained `+claude-opus-5-5`, which was not present before.
+- **Output**: [[reviews/deep-review-2026-10-25-parapsychology-firewall]]
+
 ## 00:54 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/symbol-grounding-problem]] (primary); [[concepts/llm-consciousness]] (optional secondary, applied)
