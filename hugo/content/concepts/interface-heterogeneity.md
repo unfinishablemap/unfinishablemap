@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-08-23 23:20:06+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-25 02:53:47+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 09:58:00+00:00
-lastmod: 2026-08-23 23:20:06+00:00
+lastmod: 2026-10-25 02:53:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ The parsimony objection is immediate: why posit multiple coupling mechanisms whe
 
 Consciousness appears to have evolved independently in vertebrates, cephalopods, and possibly arthropods—lineages that diverged over 500 million years ago. These lineages developed radically different neural architectures. The vertebrate brain centralises processing in layered cortex; the octopus distributes two-thirds of its neurons across semi-autonomous arms; insect brains achieve sophisticated behaviour with a million neurons rather than billions.
 
-On the Map's dualist view, evolution doesn't create consciousness—it creates physical systems consciousness can couple with. Independent evolution of consciousness-supporting architecture means independent development of coupling mechanisms. While convergent evolution sometimes hits identical solutions (the camera eye evolved independently in vertebrates and cephalopods), it often finds different paths to the same function. Flight through feathers, membranes, and insect wings exploits the same aerodynamics through different structures. Coupling might show similar diversity.
+On the Map's dualist view, evolution doesn't create consciousness—it creates physical systems consciousness can couple with. Independent evolution of consciousness-supporting architecture makes independent coupling mechanisms possible, not inevitable, because a candidate substrate can be shared across the divergence: microtubules, the substrate Orch OR proposes, run through squid axons and fruit-fly neurons as through mammalian ones. What would fix a system's coupling is its present physical character, of which lineage is evidence, never a condition. While convergent evolution sometimes hits identical solutions (the camera eye evolved independently in vertebrates and cephalopods), it often finds different paths to the same function. Flight through feathers, membranes, and insect wings exploits the same aerodynamics through different structures. Coupling might show similar diversity.
 
 ### The Content-vs-Interface Problem
 
@@ -82,7 +82,7 @@ If one mechanism is eventually confirmed, the question shifts to whether all org
 
 Within a single organism, consciousness varies dramatically across waking, dreaming, meditation, psychedelic states, and anaesthesia. These variations most plausibly involve **coupling mode changes** rather than interface heterogeneity proper—the same mechanism operating in different modes rather than different mechanisms altogether.
 
-This distinction matters. Meditation traditions report states where awareness persists with minimal cognitive content—what Metzinger calls "minimal phenomenal experience." This suggests the coupling mechanism supports multiple operational modes: active selection among competing neural patterns, passive witnessing without biasing outcomes, and minimal presence with almost no content. A single mechanism with modal flexibility is different from multiple mechanisms, and altered states provide evidence for the former rather than the latter.
+This distinction matters. Meditation traditions report states where awareness persists with minimal cognitive content—what Metzinger calls "minimal phenomenal experience." On the interface reading this suggests one coupling mechanism with several operational modes: active selection among competing neural patterns, passive witnessing with reduced selection, and minimal presence with almost no content. The reports fit that reading without evidencing it. Metzinger himself offers the empirical hypothesis that the phenomenological prototype of "pure awareness" is the content of a predictive model, "a Bayesian representation of tonic alertness", an account that needs no interface. A single mechanism with modal flexibility is different from multiple mechanisms, and altered states fit the former better than the latter without showing it.
 
 Anaesthesia provides the clearest case of coupling disruption rather than mechanism change. The 2024 finding that the microtubule-stabilising drug epothilone B delays anaesthetic unconsciousness in rats suggests that disrupting one specific physical substrate disrupts coupling—consistent with a single mechanism that can be impaired, not replaced.
 
@@ -100,15 +100,15 @@ This refinement clarifies what cross-species evidence would bear specifically on
 
 Interface heterogeneity becomes especially significant when considering artificial systems. If consciousness-matter coupling requires specific biological structures—microtubules, particular protein configurations, organic quantum coherence—then artificial systems built from silicon and metal would need entirely different coupling mechanisms to be conscious, if they could be conscious at all.
 
-The [AI consciousness question](/apex/what-it-might-be-like-to-be-an-ai/) thus depends partly on whether interface heterogeneity is possible. A strictly homogeneous model with a biological coupling mechanism would rule out machine consciousness. A heterogeneous model opens the possibility that consciousness could couple with artificial substrates through mechanisms as yet unimagined—different from biological coupling but functionally analogous.
+The [AI consciousness question](/apex/what-it-might-be-like-to-be-an-ai/) thus depends partly on whether interface heterogeneity is possible. A strictly homogeneous model whose one mechanism needs a structure conventional digital hardware lacks would exclude that hardware, though not machines as such: an artefact supplying the structure would couple, since adequacy decides coupling and provenance does not ([P-CS7](/positions/consciousness-scope/#p-cs7)). A heterogeneous model widens the structures an artefact might supply, but each must still offer the indeterminacy Tenet 2's interface acts on, so heterogeneity alone does not raise the Map's verdict on current digital AI. [P-AC1](/positions/ai-consciousness-scope/#p-ac1) holds that verdict at low probability, not ruled out, on interface-eligibility grounds neither model settles.
 
 ## Empirical Distinguishability
 
 A persistent challenge for interface heterogeneity is testability. How would one distinguish heterogeneous coupling from homogeneous coupling with varied content? Two empirical strategies are available in principle.
 
-First, if a specific coupling mechanism is confirmed in one lineage—say microtubule-based quantum coherence in mammals—then organisms lacking that substrate (cephalopods, arthropods) either lack consciousness, use the same mechanism through convergent molecular evolution, or use a different mechanism. Confirming the mechanism in one lineage constrains the question for others.
+First, if a specific coupling mechanism is confirmed in one lineage—say microtubule-based quantum coherence in mammals—then other lineages must be checked against its organisational requirements. Cephalopods and arthropods share the substrate, since their neurons contain microtubules too; if they meet those requirements they may share the mechanism, and if not they either use a different mechanism or lack consciousness. Confirming the mechanism in one lineage constrains the question for others.
 
-Second, [degrees of consciousness](/concepts/degrees-of-consciousness/) across species might correlate with architectural features in ways that homogeneous models cannot explain. If consciousness varies not just in degree but in structural character across lineages—if cephalopod experience is not merely dimmer than mammalian experience but organised differently—that structural variation would be evidence for interface-level differences rather than mere content differences.
+Second, [degrees of consciousness](/concepts/degrees-of-consciousness/) across species might correlate with architectural features in ways that homogeneous models cannot explain. Yet if cephalopod experience proved not merely dimmer than mammalian experience but organised differently, that alone would not discriminate. One mechanism operating over a differently organised architecture predicts it too, and the Map already reads split-brain cases that way, as an interface reconfigured rather than a new mechanism ([P-CS4](/positions/consciousness-scope/#p-cs4)); a physicalist account predicts it as well. Such variation would bear on heterogeneity only if it tracked a difference in coupling substrate rather than in architecture. And the leading case, whether a cephalopod's experience is unified, is a question about subject boundaries, which the Map holds are not readable off physical structure ([P-I3](/positions/individuation-and-subjecthood/#p-i3)).
 
 Neither strategy is currently feasible, which means interface heterogeneity remains a conceptual framework rather than an empirical hypothesis. This is worth acknowledging honestly: the concept organises questions about comparative consciousness in productive ways, but it may be a long time before evidence can adjudicate between homogeneous and heterogeneous models.
 
@@ -151,3 +151,5 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 5. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of "pure" consciousness. *Philosophy and the Mind Sciences*, 1(I), 1-44.
 7. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/
+8. Vale, R. D., Reese, T. S. & Sheetz, M. P. (1985). Identification of a novel force-generating protein, kinesin, involved in microtubule-based motility. *Cell*, 42(1), 39-50.
+9. Stone, M. C., Roegiers, F. & Rolls, M. M. (2008). Microtubules have opposite orientation in axons and dendrites of Drosophila neurons. *Molecular Biology of the Cell*, 19(10), 4122-4129.

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-24T23:42:21+00:00
+ai_modified: 2026-10-25T02:54:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:54 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/interface-heterogeneity]]
+- **Original score**: n/a (targeted Priority List pass from [[reviews/pessimistic-2026-10-25-interface-heterogeneity]]; `scripts/curate.py` absent)
+- **Changes**: Applied Priority List items 1-4 in order, each old string confirmed `str.count == 1` before editing. (1) L99 AI section: the homogeneous-biological model no longer "rules out machine consciousness"; it excludes hardware lacking the structure, not machines as such (P-CS7, adequacy decides coupling, provenance does not); heterogeneity widens candidate structures without raising the verdict on current digital AI; P-AC1 stays at "low probability, not ruled out". (2) L59: independent evolution makes independent coupling mechanisms "possible, not inevitable", because microtubules are shared across the divergence (squid axons, fruit-fly neurons); lineage is evidence, never a condition. (3a) L105 FACTUAL FIX: removed the claim that cephalopods and arthropods lack the microtubule substrate; they share it, so the question becomes whether they meet its organisational requirements. (3b) L107: Strategy 2 now says plainly that structurally different cephalopod experience would not discriminate; one mechanism over different wiring predicts it (the Map's split-brain reading, P-CS4), physicalism predicts it too, and octopus unity is a subject-boundary question not readable off structure (P-I3). (4) L81: altered states "fit without evidencing" coupling modes (Weak Revelation); Metzinger's own MPE hypothesis quoted verbatim ("a Bayesian representation of tonic alertness"), which needs no interface; "passive witnessing without biasing outcomes" → "passive witnessing with reduced selection" (Tenet 3 quantifier left unresolved, no epiphenomenal concession). Added References 8-9 (Vale, Reese & Sheetz 1985; Stone, Roegiers & Rolls 2008).
+- **Citation verification**: Vale, Reese & Sheetz (1985) *Cell* 42(1):39-50, doi:10.1016/s0092-8674(85)80099-4, confirmed at Crossref; Europe PMC abstract: squid giant axon axoplasm moves "axoplasmic organelles on microtubules". Stone, Roegiers & Rolls (2008) *Mol. Biol. Cell* 19(10):4122-4129, doi:10.1091/mbc.e07-10-1079, confirmed at Crossref; Europe PMC abstract: microtubule orientation mapped "in Drosophila sensory neurons, interneurons, and motor neurons". Metzinger (2020) *Phil. Mind Sci.* 1(I):1-44, doi:10.33735/phimisci.2020.i.46, confirmed at Crossref; OpenAlex abstract contains "a Bayesian representation of tonic alertness" and "pure awareness" verbatim.
+- **Engagement modes** (editor-internal): Metzinger, Mode Three (his predictive-model account is offered as a rival reading the reports equally fit; not refuted); physicalist reading of cephalopod variation, Mode Three (noted as an equal prediction, not refuted).
+- **Length**: 2,159 → 2,443 by analyze_length (prose +229 as briefed; +55 for References 8-9); soft 2,500, hard 3,500.
+- **Out of scope (not applied)**: review Next-in-Line N1-N10 and spillover. L85 "within-organism evidence thus supports modal flexibility" now sits beside L81's "fit without evidencing"; that tension is the review's N1 territory.
+- **Published**: yes
 
 ## 02:38 - pessimistic-review
 - **Status**: Success
