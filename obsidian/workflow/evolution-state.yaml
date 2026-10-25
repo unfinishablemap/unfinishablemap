@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-25T02:55:04.091760+00:00'
-session_count: 23382
+last_updated: '2026-10-25T03:12:04.288048+00:00'
+session_count: 23383
 cycle_position: 15055
 last_runs:
   add-highlight: '2026-10-24T08:13:07.909907+00:00'
@@ -20,7 +20,7 @@ last_runs:
   combine-outer-reviews: '2026-10-24T06:06:42.399987+00:00'
   commission-chatgpt-review: '2026-10-25T02:12:42.116159+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
-  commission-claude-review: '2026-10-24T03:12:24.661860+00:00'
+  commission-claude-review: '2026-10-25T03:12:04.288048+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
   commission-gemini-review: '2026-10-24T04:35:16.524483+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-24'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-24'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-25'
   outcome: success
   kind: queue
+- task: commission-claude-review
+  type: commission-claude-review
+  date: '2026-10-25'
+  outcome: success
+  kind: commission
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-10-20 00:44:02+00:00
+ai_modified: 2026-10-25 03:25:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-18 12:26:56+00:00
-lastmod: 2026-10-20 00:44:02+00:00
+lastmod: 2026-10-25 03:25:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ The page describes an evidence type. It does not advance a new evidential claim,
 
 ## The Four Members
 
-The family has four members, each documented across the disruption cluster (anaesthesia, dying, dissociation). Each is a signature no description of the substrate *at a moment* can capture; each demands that the explanation be sensitive to which way the system is moving.
+The family has four members, each documented across the disruption cluster (anaesthesia, dying, dissociation). Each is a signature no quasi-static description of the substrate *at a moment* can capture.
 
 **Hysteresis of state transition.** The thresholds for losing and recovering consciousness do not coincide. Sepúlveda, Tapia, and Monsalves (2019) characterise *neural inertia* as the intrinsic resistance of neural circuits to changing state: the calculated effect-site concentration at loss of consciousness is typically higher than the concentration at emergence, independent of drug kinetics. The same substrate state yields a different conscious outcome depending on the direction of travel, because mutually inhibitory wake-active and anaesthesia-active populations form a bistable switch in which each state actively stabilises itself.
 
@@ -58,7 +58,7 @@ The family has four members, each documented across the disruption cluster (anae
 
 ## What Unifies the Family
 
-None of the four signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to which way the system is moving. This is the family's defining property and the reason it earns a name: it is the *temporal-derivative* face of the same architecture that the [memory-system vulnerability hierarchy](/topics/memory-channel-interface-evidence/) reads off the *substrate-state* face. Where the vulnerability hierarchy asks which channels fail and in what order, the direction-of-change family asks how the answer changes depending on whether the interface is closing or reopening. Every member concerns one interface with the subject count held fixed; a change in the count itself (onset, cessation, fission) is a different axis, treated in [census-change-points](/concepts/census-change-points/), and no signature here counts toward it.
+None of the four signatures is captured by a quasi-static substrate-state-at-a-time description; a richer one, with internal lags or basin occupancy, captures the hysteresis and timing members outright and the other two [at a per-case cost](#constrain-not-establish). Each requires the explanation to be sensitive to which way the system is moving. This is the family's defining property and the reason it earns a name: it is the *temporal-derivative* face of the same architecture that the [memory-system vulnerability hierarchy](/topics/memory-channel-interface-evidence/) reads off the *substrate-state* face. Where the vulnerability hierarchy asks which channels fail and in what order, the direction-of-change family asks how the answer changes depending on whether the interface is closing or reopening. Every member concerns one interface with the subject count held fixed; a change in the count itself (onset, cessation, fission) is a different axis, treated in [census-change-points](/concepts/census-change-points/), and no signature here counts toward it.
 
 The family is a member of a broader genus, [cross-mechanism convergence](/concepts/cross-mechanism-convergence/): anaesthesia, dying, and dissociation share no common neural cause, yet each produces a direction-dependent signature. The direction-of-change family is the narrower, orthogonal axis within that genus — cross-mechanism convergence concerns mechanism-distinct perturbations producing a shared downstream ordering, while this family concerns the *temporal asymmetry* of that ordering. The two are related but not co-extensive: a convergence finding need not be direction-dependent, and a direction-dependent signature in a single mechanism need not converge across mechanisms. [The self-concealing-interface synthesis](/apex/self-concealing-interface/) catalogues direction-of-interface-change as one of its seam classes — a place where, if the Map's tenets hold, the interface's only legible marks appear.
 
@@ -82,7 +82,7 @@ This concept page describes an evidence type; its evidential standing is framewo
 
 Which tenet a member bears on depends on which leg of the interface it speaks to. The Map reads the filter as the *inbound* leg of a two-way coupling — [P-CS6](/positions/consciousness-scope/#p-cs6) — and [the filter-versus-interface distinction](/concepts/filter-vs-interface-distinction/) sorts cases by leg on evidence that does not presuppose the filter reading. Sorted that way, the family divides. Hysteresis of state transition is a property of the substrate's own bistable switch and touches neither leg. Abrupt reconnection is an inbound-access signature. Direction-decoupled timing is substrate-and-stochastic, its quantum reading held at [the stochastic-emergence article](/topics/stochastic-emergence-as-quantum-interface-evidence/) rather than here. Recovery-order reversal is inbound as well, unless the engagement reading of it is argued rather than asserted. The inbound members speak to Tenet 1; none speaks to the outbound leg, which [P-CS6](/positions/consciousness-scope/#p-cs6) holds is owed a separate argument rather than carried over from filter evidence.
 
-**[Dualism](/tenets/#dualism)** (Tenet 1) is engaged because direction-dependence fits a multi-channel interface architecture more directly than a substrate-emergent reading: a substrate that both generates and recovers each channel predicts, in its simplest, quasi-static form, that recovery mirrors degradation, and the family's signatures do not. The fit is comparative and contested, not forced by the data, since unequal channel lags, adaptation, and multistability break that mirror on a substrate-emergent reading too — and, per the non-independence caution above, the family's coherence with the dualist reading is *one* coherence, credited once, not four.
+**[Dualism](/tenets/#dualism)** (Tenet 1) is engaged because direction-dependence fits a multi-channel interface architecture more directly than the simplest substrate-emergent reading: a substrate that both generates and recovers each channel predicts, in its quasi-static form, that recovery mirrors degradation, and the family's signatures do not. Against a richer substrate-emergent reading the fit is no more direct, since unequal channel lags, adaptation, and multistability break that mirror there too; any remaining edge is the narrow, contested parsimony point made earlier — and, per the non-independence caution above, the family's coherence with the dualist reading is *one* coherence, credited once, not four.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** (Tenet 3) is touched by one member, and touched as coherence rather than as favouring. Recovery-order reversal is the member that even prima facie wants an engagement story: the autonoetic channel is the one involving the most active subject-participation (re-experiencing, reconsolidation-under-direction, autobiographical assembly), and it returns last under rising substrate function yet first under falling substrate function. Two things block reading that as support for the outbound leg. The production reading catalogued above already absorbs the case with its dying-process-specific neuromodulatory surge, and nothing in this family rules that surge out. And direction-dependence as such carries no engagement commitment: the hysteresis member is direction-dependent with no consciousness in the loop at all, and the section above finds a purely inbound filter consistent with direction-sensitivity — channels differing in bandwidth and reconstruction cost may block and reopen in an order that depends on the direction and cause of the change, whether or not anything acts back. A receive-only architecture therefore accommodates direction-sensitivity too, so the family cannot be cited against one. What the reversal supplies is coherence: a high-engagement autonoetic channel is what the Map's two-way reading would expect to find, and finding it costs the Map nothing it had not already assumed. The argument for the outbound leg itself is owed separately ([P-CS6](/positions/consciousness-scope/#p-cs6)).
 
@@ -95,7 +95,7 @@ Which tenet a member bears on depends on which leg of the interface it speaks to
 - [self-concealing-interface](/apex/self-concealing-interface/) — The synthesis that catalogues direction-of-interface-change as a seam class
 - [filter-vs-interface-distinction](/concepts/filter-vs-interface-distinction/) — The inbound/outbound leg partition the members are sorted by; it cites this family as the corpus's other instrument for the inbound selectivity residue
 - [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/) — The broader evidence-pattern genus this family sits within
-- [active-reboot](/concepts/active-reboot/) — The dedicated reopening pathway underlying the hysteresis and recovery-order members
+- [active-reboot](/concepts/active-reboot/) — The physical reopening mechanism (KCC2 degradation) bearing on the hysteresis and recovery-order members
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The three-channel framework the signatures run through
 - [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — Where the per-case-versus-direct cost comparison is cartographed
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The constrain-vs-establish discipline this page inherits

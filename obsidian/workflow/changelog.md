@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T02:54:13+00:00
+ai_modified: 2026-10-25T03:26:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 03:26 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/direction-of-interface-change]]
+- **Original score**: n/a (targeted P3 pass: L57 + L94 left-alone items from the 2026-10-11 17:05Z quasi-static propagation, plus RIDER tenet-check 149 Note 2 on L81; `scripts/curate.py` absent)
+- **Already discharged since 10-11**: nothing. `git log -p` of af84b74dc5 (10-13; appended the census-change-points sentence to L57, first sentence untouched), 8493afe505 (10-19; L49 amnesia wording) and 957fe317f5 (10-20; L49 "is severed" → "can be severed") shows none touched the L57 first sentence, L81 or L94. Both target strings were count 1 before editing.
+- **Changes**: (1) L57: "None of the four signatures is captured by a substrate-state-at-a-time description." → "None of the four signatures is captured by a quasi-static substrate-state-at-a-time description; a richer one, with internal lags or basin occupancy, captures the hysteresis and timing members outright and the other two [[#constrain-not-establish|at a per-case cost]]." This concedes what L71 already says: the hysteresis and timing members cost production nothing extra, while terminal lucidity and dissociation need per-case additions. (2) L43, a string sibling with the same overclaim: "Each is a signature no description of the substrate *at a moment* can capture; each demands that the explanation be sensitive to which way the system is moving." → "Each is a signature no quasi-static description of the substrate *at a moment* can capture." The dropped clause is restated verbatim-equivalent in L57, and dropping it keeps the pass near-neutral. (3) L81 (RIDER): "more directly than a substrate-emergent reading" → "more directly than the simplest substrate-emergent reading"; "in its simplest, quasi-static form" → "in its quasi-static form"; "The fit is comparative and contested, not forced by the data, since unequal channel lags, adaptation, and multistability break that mirror on a substrate-emergent reading too" → "Against a richer substrate-emergent reading the fit is no more direct, since unequal channel lags, adaptation, and multistability break that mirror there too; any remaining edge is the narrow, contested parsimony point made earlier". This makes it consistent with L71 ("cost production nothing extra") and L73 (a bounded parsimony point at the mechanism-cost layer). (4) L94 Further Reading: "The dedicated reopening pathway underlying the hysteresis and recovery-order members" → "The physical reopening mechanism (KCC2 degradation) bearing on the hysteresis and recovery-order members". Hu et al. 2023 is now neutral and physical, matching L71 and the design article L52 ("the findings themselves favour neither reading"). "Underlying" became "bearing on" because active-reboot L63 itself separates hysteresis (passive neural inertia) from the reopening machinery that overcomes it.
+- **Engagement modes** (editor-internal): substrate-emergent / production rival in L57 and L81, Mode Three. The richer rival is granted equal fit and the residue is marked as a contested parsimony point, not a refutation.
+- **Length**: 2,783 → 2,806 by analyze_length (+23); soft 2,500, hard 3,500.
+- **Sibling flagged, not edited**: `concepts/active-reboot` L117 gloss "the signature family whose hysteresis and recovery-order members the dedicated reopening pathway underlies" is the reciprocal of the old L94 wording. It is in tension with that page's own L63 (neural inertia vs. active reboot).
+- **Published**: yes
 
 ## 02:54 - refine-draft
 - **Status**: Success
