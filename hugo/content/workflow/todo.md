@@ -39,18 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt evaluative-phenomenal-character calibration in thermal-consciousness-and-the-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/thermal-consciousness-and-the-interface.md
-- **Notes**: From topic-concept anchoring audit 2026-10-25. The topic article over-claims relative to its anchor concept [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/); failed checks: hedge_density, strong_assertions.
-  - hedge density 0.93/kw is below 1.72/kw (target = 60% of anchor 2.87/kw, capped at 3.0/kw)
-  - strong-assertion density 0.62/kw exceeds 1.5× anchor (0.29/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-10-25
-
-
 ### P3: Research Measuring mystical experience: Stace-derived scales as a common cause, and Taves's building-block approach
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-25-contemplative-evidence-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-25-contemplative-evidence-wing names two new-territory candidates, combined here because they bear on one question: whether the instruments and the frame that find 'mystical-type' convergence also manufacture it. (a) The Hood M-scale, Pahnke's criteria and the MEQ used in psilocybin trials (e.g. Griffiths et al. 2006) may build W. T. Stace's phenomenology into what they measure, making the scale a common cause of the 'convergent' reports. The reviewer says this needs research first, because the scale's derivation from Stace and which questionnaires Griffiths used are unverified. (b) Ann Taves's 2009 building-block approach (Religious Experience Reconsidered, Princeton) strengthens the constructivist rival (Proudfoot, Katz) that voids/ineffable-encounter-void L87 admits is 'largely unanswered'. Driver counts at 12:38Z (live/research): 'Taves' 0/0; 'Pahnke' 0/0; 'Mysticism Scale' 1/2, 'Mystical Experience Questionnaire' 1/1 and 'MEQ' 1/2, all incidental (biological-cognitive-closure, affective-forecasting-gap); positive controls 'Stace' 23/13, 'Katz' 12/6, 'Proudfoot' 1/1. ('M-scale' 16/6 is a false positive from substrings such as 'nm-scale'.) FOLD FIRST: the natural hosts are saturated (concepts/altered-states-of-consciousness 3,482/3,500; topics/psychedelics-and-the-filter-model 3,998/4,000). The ineffable-encounter-void has a pending +87 Griffiths task that runs first. So the note must weigh a fold into the void after that task lands, or into concepts/phenomenological-evidence, against a dedicated concepts/ page (365/370). recommended_action must be one of article | fold | refine | none. CALIBRATION: [P-M2](/positions/methodology-and-calibration/#p-m2) discounts cross-tradition convergence to 'a single observation read N times'; contemplative and psychedelic reports fit interface readings without evidencing them; Weak Revelation only; do not enlist Stace, Hood, Griffiths or Taves for dualism; Taves is a constructivist naturalist, a rival, not an ally; never concede epiphenomenalism; Tenet 5 constrains only the Map's own reasoning. VERIFY: Hood 1975 (J. Sci. Study Religion 14(1), the M-scale); Pahnke 1963/1966; MacLean et al. 2012 or Barrett et al. 2015 for the MEQ30; Taves 2009 (Princeton UP). Quote nothing until the text is read. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach-2026-10-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -3370,6 +3358,14 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-25: Adopt evaluative-phenomenal-character calibration in thermal-consciousness-and-the-interface
+- **Type**: refine-draft
+- **File**: obsidian/topics/thermal-consciousness-and-the-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-10-25. The topic article over-claims relative to its anchor concept [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/); failed checks: hedge_density, strong_assertions.
+  - hedge density 0.93/kw is below 1.72/kw (target = 60% of anchor 2.87/kw, capped at 3.0/kw)
+  - strong-assertion density 0.62/kw exceeds 1.5× anchor (0.29/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 
 ### ✓ 2026-10-25: `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation` grades its own evidence two ways: L104 says the findings "are compatible with both interpretations, and the data do not adjudicate", yet the description says "suggestive evidence for genuine mental causation", L38 calls the convergence "a challenge to … the causal closure of the physical", and L124 opens "as evidence that mental causation is not reducible to physical causation"
 - **Type**: refine-draft

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-16 02:30:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-25 15:08:59+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -14,7 +14,7 @@ date: &id001 2026-01-16
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-16 02:30:00+00:00
+lastmod: 2026-10-25 15:08:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ The relationship between quantum mechanics and free will is contested. While qua
   - Indeterminacy is located in the *effort of will*, not the decision itself
   - Effort's indeterminacy is analogous to position/momentum indeterminacy
   - Kane argues exact sameness across worlds is undefined for indeterminate efforts
-- **Tenet alignment**: Strongly supports site framework—Kane's teleological guidance maps onto consciousness-selecting model
+- **Tenet alignment**: Partial. Kane's teleological guidance control is structurally parallel to the Map's consciousness-selecting model, but he houses it in a naturalistic agent, which his 2024 ch. 5 abstract calls "an information-responsive complex dynamical system", with no immaterial or non-physical substance. That makes his view a rival at the naturalism/dualism boundary, and the parallel is no support for the Map's dualist reading. (Corrected 2026-10-25: Kane's AC/EC is naturalistic; a rival, not a validation.)
 - **Quote**: "The causation of free action must bring in reference to agents, qua substances, understood as complex dynamical systems."
 
 ### Van Inwagen's Consequence Argument
@@ -120,7 +120,7 @@ The relationship between quantum mechanics and free will is contested. While qua
   - Indeterminacy in effort of will, not bare randomness
   - Agent's trying counts as doing even when effort is indeterminate
   - Kane (2024) now incorporates agent-causal elements
-- **Relation to site tenets**: Partially aligned. Kane's recent move toward substance causation strengthens compatibility. His teleological guidance control echoes consciousness-selecting model.
+- **Relation to site tenets**: Partially aligned in structure only. Kane's 2024 agent-causal/event-causal (AC/EC) view brings agents in as causes, but the agent is a naturalistic complex dynamical system, so the move sharpens a naturalistic rival to the Map rather than strengthening compatibility. His teleological guidance control echoes the consciousness-selecting model; because a naturalist shares that structure, the echo is no evidence for the Map's dualist construal. (Corrected 2026-10-25: Kane's AC/EC is naturalistic; a rival, not a validation.)
 
 ### Position 3: Agent-Causal Libertarianism
 - **Proponents**: Chisholm, O'Connor, Lowe, Hasker, Clarke
@@ -166,7 +166,7 @@ The relationship between quantum mechanics and free will is contested. While qua
 ### Debate 3: Agent vs. Event Causation
 - **Sides**: O'Connor/Lowe/Hasker (agent-causal) vs. Kane/Ekstrom (event-causal)
 - **Core disagreement**: Is substance causation required, or do mental events suffice?
-- **Current state**: Converging. Kane (2024) now incorporates agent-causal elements. Site framework is agent-causal: consciousness as substance selects outcomes.
+- **Current state**: Contested. Kane (2024) now incorporates agent-causal elements in an AC/EC view, but his agent is an information-responsive complex dynamical system, so the AC/EC view is a naturalistic rival at the naturalism/dualism boundary and no convergence on the Map's position. The Map's agency cluster is agent-causal on a substance-leaning dualist construal: consciousness, irreducible to physical processes, selects outcomes. (Corrected 2026-10-25: Kane's AC/EC is naturalistic; a rival, not a validation.)
 
 ### Debate 4: Decoherence and Biological Quantum Effects
 - **Sides**: Tegmark (coherence too brief) vs. Penrose/Hameroff/Fisher (biological quantum effects exist)
@@ -196,7 +196,7 @@ Based on this research, site content could:
 
 1. **Strengthen free-will.md's quantum section**: Current coverage is good but could engage more directly with the luck objection and Kane's response. The Map's framework answers the luck objection because consciousness *directs* outcomes based on reasons—not randomly.
 
-2. **Cross-reference agent-causation.md with Kane's evolution**: Kane's 2024 move toward substance causation validates the Map's agent-causal framework. Worth noting this convergence.
+2. **Cross-reference agent-causation.md with Kane's evolution**: Kane's 2024 AC/EC view belongs in [agent-causation](/concepts/agent-causation/) as a naturalistic rival. It admits agents as causes but construes them as information-responsive complex dynamical systems, with no immaterial or non-physical substance, so it competes with the Map's dualist construal rather than validating it. (Done: [agent-causation](/concepts/agent-causation/) now names it a naturalistic rival.) (Corrected 2026-10-25: Kane's AC/EC is naturalistic; a rival, not a validation.)
 
 3. **Connect Stapp to site's mechanism**: The Quantum Consciousness page could more explicitly present Stapp's quantum Zeno mechanism as a scientific elaboration of the Map's philosophical commitments.
 

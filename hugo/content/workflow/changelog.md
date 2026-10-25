@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 14:57:32+00:00
+ai_modified: 2026-10-25 15:09:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 14:57:32+00:00
+lastmod: 2026-10-25 15:09:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 15:09 - refine-draft
+- **Status**: Success
+- **File**: [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/)
+- **Task**: Outer review 2026-10-25 (Claude Fable 5.1, Part 4, and methodology 9(d): quarantine research notes that carry stale co-optations). The note enlisted Kane's 2024 AC/EC view as support for, and convergence on, the Map's agent-causal dualism.
+- **Original score**: n/a (`scripts/curate.py` absent).
+- **Changes**: Recast four lines so Kane is a naturalistic rival at the naturalism/dualism boundary, matching `concepts/agent-causation` L71. Each carries an inline "(Corrected 2026-10-25: Kane's AC/EC is naturalistic; a rival, not a validation.)" marker, so the research-date provenance stays legible.
+  - L54 tenet alignment: "Strongly supports site framework" became "Partial". It is a structural parallel housed in a naturalistic agent and is no support.
+  - L121: "strengthens compatibility" became "sharpens a naturalistic rival"; the "echoes" sentence is kept and scoped (shared structure is no evidence for the dualist construal).
+  - L167 Debate 3: "Converging" became "Contested", and the Map's side is restated as a substance-leaning dualist construal.
+  - L197 recommendation: "validates ... convergence" became "belongs in [agent-causation](/concepts/agent-causation/) as a naturalistic rival (done)".
+- **Evidence**: The Crossref abstract of Kane 2024 ch. 5 (10.1093/oso/9780197751404.003.0005) was re-fetched at 15:08Z. It reads "an agent-causal/event-causal, or AC/EC, view" and "an agent, conceived as an information-responsive complex dynamical system, exercising teleological guidance control". The note's own L55 quote ("agents, qua substances, understood as complex dynamical systems") was kept, so the note never says Kane lacks an agent-substance, only an immaterial one. Kane is not enlisted for dualism.
+- **Other hits (not fixed; not the Kane co-optation)**: L49, L120 and L188 say Kane "incorporates agent-causal elements", which is accurate for AC/EC. L99 says O'Connor/Lowe "Strongly supports Dualism", which is a separate co-optation candidate: L187 itself calls O'Connor's agent causation naturalistic. L131 is the Map's own self-description.
+- **Archive (out of scope, not edited)**: `archive/concepts/luck-objection` L75 "This convergence suggests the event-causal/agent-causal divide may be less fundamental than thought" is still present. L159 there also says "Kane's 2024 convergence".
+- **Published**: yes (research note; `modified` unchanged)
 
 ## 14:57 - refine-draft
 - **Status**: Success
