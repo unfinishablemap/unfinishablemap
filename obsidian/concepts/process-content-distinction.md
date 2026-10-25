@@ -2,9 +2,9 @@
 title: "The Process/Content Distinction"
 description: "Reports of what we experience earn more trust than reports of how it is produced. Nisbett & Wilson's 1977 asymmetry, used by the Map to calibrate introspection."
 created: 2026-05-19
-modified: 2026-05-19
+modified: 2026-10-25
 human_modified:
-ai_modified: 2026-10-21T18:15:46+00:00
+ai_modified: 2026-10-25T22:02:01+00:00
 last_deep_review: 2026-09-17T07:06:55+00:00
 draft: false
 topics:
@@ -96,6 +96,7 @@ To honour the [[evidential-status-discipline|evidential-status discipline]] and 
 - **It does not guarantee content access.** Schwitzgebel's catalogue of content failures (whether we dream in colour, the character of peripheral vision, the structure of inner speech) shows the content side is not safe by default. The asymmetry is comparative, not absolute.
 - **It does not draw the line in a fixed place.** [[microphenomenological-interview-method|Microphenomenological methods]] (Petitmengin 2006) extend trained access into territory that looks like process-territory from outside — the unfolding of a thought, the felt grain of attention — by structuring the elicitation conditions so that what is recovered is the experiential structure of the unfolding, not a causal explanation of it. What is methodologically negotiable, on the best-studied evidence, is report validity: [[protocol-analysis|protocol analysis]] holds that whether a report draws on memory or on inference depends on how and when it is elicited, while process itself stays a matter for third-person inference. Training and elicitation protocols can extend access in cases like these; the asymmetry persists in the untrained baseline.
 - **It does not adjudicate cognitive closure.** Colin McGinn's mysterian argument holds that the process side may be permanently inaccessible to introspection because of structural limits on human cognition, not merely contingent ones. The process/content distinction is neutral on this stronger claim: it documents the empirical asymmetry without committing to whether the asymmetry could in principle be reduced by better methods or whether it is closed off in the way McGinn describes. Microphenomenological gains (above) suggest *some* of the asymmetry is contingent; how much is an open question the distinction does not pretend to settle.
+- **It does not fix where attitudes fall.** Nisbett and Wilson, Schwitzgebel reports, held attitudes and current sensations knowable with "near certainty" (1977, p. 255). Carruthers's [[interpretive-sensory-access-theory|interpretive sensory-access theory]] moves attitudes to the interpreted side: a stocking-study subject who says "I thought this pair was softest" errs about the cause and also in self-ascribing the judgment (Schwitzgebel 2024, §4.2.2). The Map's trust in content reports therefore rests on the perceptual and phenomenal contents both accounts grant.
 - **It does not by itself decide dualism.** Materialists and dualists can both endorse the distinction; it is calibration craft, not metaphysics. What the distinction does in the Map's hands is preserve the evidential ground on which the dualism arguments stand, without licensing inflation of that ground beyond what the distinction underwrites.
 
 The discipline is a craft of restraint. The content side carries genuine weight; the process side carries less than it intuitively seems to; and the work of distinguishing them, case by case, is the work of taking first-person evidence seriously without taking it on faith.
@@ -118,6 +119,7 @@ The discipline is a craft of restraint. The content side carries genuine weight;
 
 1. Bem, D. J. (1972). Self-perception theory. *Advances in Experimental Social Psychology*, 6, 1-62.
 1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
+1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199596195.001.0001
 1. Ericsson, K. A., & Simon, H. A. (1980). Verbal reports as data. *Psychological Review*, 87(3), 215-251.
 1. Fox, M. C., Ericsson, K. A., & Best, R. (2011). Do procedures for verbal reporting of thinking have to be reactive? A meta-analysis and recommendations for best reporting methods. *Psychological Bulletin*, 137(2), 316-344.
 1. Gazzaniga, M. S. (1985). *The Social Brain: Discovering the Networks of the Mind*. Basic Books.
@@ -126,5 +128,6 @@ The discipline is a craft of restraint. The content side carries genuine weight;
 1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person: An interview method for the science of consciousness. *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy* (revised 25 April 2024). https://plato.stanford.edu/entries/introspection/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Conscious vs Unconscious Processing. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conscious-vs-unconscious-processing/

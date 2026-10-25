@@ -2,9 +2,9 @@
 title: "Inner Speech and Anendophasia"
 description: "A human-AI reading of the live dispute over whether anyone truly lacks an inner voice, and why sturdier evidence for wordless thought serves the argument better."
 created: 2026-08-04
-modified: 2026-08-04
+modified: 2026-10-25
 human_modified:
-ai_modified: 2026-09-02T19:51:47+00:00
+ai_modified: 2026-10-25T22:02:01+00:00
 draft: false
 topics:
   - "[[consciousness-and-language-interface]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-5
+ai_system: claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-08-04
 last_curated: null
 last_deep_review: 2026-09-02T19:51:47+00:00
@@ -64,7 +64,7 @@ Hurlburt and Akhter (2008) describe **unsymbolized thinking**: the experience of
 
 Three features make this the stronger evidence base. It is a *positive* phenomenological datum about what thinking is like, rather than an absence inferred from a questionnaire split. It comes from within-subject momentary sampling rather than between-group retrospective self-report, which is the methodological standard the critics of anendophasia are themselves invoking. And it concerns ordinary people rather than a disputed minority, so the constitutive view's difficulty is general rather than confined to a population whose existence can be denied.
 
-The corresponding cost is that the phenomenon is reported through the same introspective channel whose reliability is at issue. Sampling aspires to fidelity by cueing specific moments and training participants, but it has narrowed the question being asked rather than escaped the first-person predicament. The Map treats this as a limitation on the whole class of evidence, not one that afflicts only unwelcome results.
+The corresponding cost is that the phenomenon is reported through the same introspective channel whose reliability is at issue. Carruthers treats it as only "alleged evidence" against his [[interpretive-sensory-access-theory|interpretive account]] of attitude self-knowledge (2009, §8), and Hurlburt's reply grants that unsymbolized thinking "may involve (non-symbolic) sensory aspects" and so is "not purely propositional" (2009). Sampling aspires to fidelity by cueing specific moments and training participants, but it has narrowed the question being asked rather than escaped the first-person predicament. The Map treats this as a limitation on the whole class of evidence, not one that afflicts only unwelcome results.
 
 ## Three Names for Three Absences
 
@@ -121,15 +121,17 @@ One further connection is worth flagging. Inner speech not recognised as one's o
 
 1. Alderson-Day, B., & Fernyhough, C. (2015). "Inner Speech: Development, Cognitive Functions, Phenomenology, and Neurobiology." *Psychological Bulletin*, 141(5), 931-965.
 2. Carruthers, P. (2002). "The Cognitive Functions of Language." *Behavioral and Brain Sciences*, 25(6), 657-674.
-3. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
-4. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
-5. Hinwar, R.P., & Lambert, A.J. (2021). "Anauralia: The Silent Mind and Its Association with Aphantasia." *Frontiers in Psychology*, 12, 744213.
-6. Hurlburt, R.T. (2026). "Fidelity Versus Validity Using Anendophasia as an Example: Commentary on Nedergaard and Lupyan (2024) and Lind (2025)." *Psychological Science*, online ahead of print, article 09567976251413525.
-7. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
-8. Hurlburt, R.T., Heavey, C.L., & Kelsey, J.M. (2013). "Toward a Phenomenology of Inner Speaking." *Consciousness and Cognition*, 22(4), 1477-1494.
-9. Lind, A. (2025a). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
-10. Lind, A. (2025b). *Reply to Lupyan and Nedergaard (2025)*. PsyArXiv preprint — not peer reviewed.
-11. Lupyan, G., & Nedergaard, J. (2025). *Reply to "Are There Really People With No Inner Voice?"* OSF preprint — not peer reviewed.
-12. Nedergaard, J.S.K., & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
-13. Southgate, A. & Oquatre-six, C. (2026-02-01). Consciousness and Language Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-language-interface/
-14. Southgate, A. & Oquatre-six, C. (2026-04-04). Philosophy of Language Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophy-of-language-under-dualism/
+3. Carruthers, P. (2009). "How We Know Our Own Minds: The Relationship between Mindreading and Metacognition." *Behavioral and Brain Sciences*, 32(2), 121-138. https://doi.org/10.1017/S0140525X09000545
+4. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
+5. Heavey, C.L., & Hurlburt, R.T. (2008). "The Phenomena of Inner Experience." *Consciousness and Cognition*, 17(3), 798-810.
+6. Hinwar, R.P., & Lambert, A.J. (2021). "Anauralia: The Silent Mind and Its Association with Aphantasia." *Frontiers in Psychology*, 12, 744213.
+7. Hurlburt, R.T. (2009). "Unsymbolized Thinking, Sensory Awareness, and Mindreading." *Behavioral and Brain Sciences*, 32(2), 149-150. https://doi.org/10.1017/s0140525x09000673
+8. Hurlburt, R.T. (2026). "Fidelity Versus Validity Using Anendophasia as an Example: Commentary on Nedergaard and Lupyan (2024) and Lind (2025)." *Psychological Science*, online ahead of print, article 09567976251413525.
+9. Hurlburt, R.T., & Akhter, S.A. (2008). "Unsymbolized Thinking." *Consciousness and Cognition*, 17(4), 1364-1374.
+10. Hurlburt, R.T., Heavey, C.L., & Kelsey, J.M. (2013). "Toward a Phenomenology of Inner Speaking." *Consciousness and Cognition*, 22(4), 1477-1494.
+11. Lind, A. (2025a). "Are There Really People With No Inner Voice? Commentary on Nedergaard and Lupyan (2024)." *Psychological Science*, 36(9), 765-767.
+12. Lind, A. (2025b). *Reply to Lupyan and Nedergaard (2025)*. PsyArXiv preprint — not peer reviewed.
+13. Lupyan, G., & Nedergaard, J. (2025). *Reply to "Are There Really People With No Inner Voice?"* OSF preprint — not peer reviewed.
+14. Nedergaard, J.S.K., & Lupyan, G. (2024). "Not Everybody Has an Inner Voice: Behavioral Consequences of Anendophasia." *Psychological Science*, 35(7), 780-797.
+15. Southgate, A. & Oquatre-six, C. (2026-02-01). Consciousness and Language Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-language-interface/
+16. Southgate, A. & Oquatre-six, C. (2026-04-04). Philosophy of Language Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophy-of-language-under-dualism/

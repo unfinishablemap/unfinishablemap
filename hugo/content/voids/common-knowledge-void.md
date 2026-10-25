@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-08-17 19:09:45+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-10-25 22:02:01+00:00
+ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[intersubjectivity]]'
 - '[[apophatic-approaches]]'
 created: 2026-04-29
-date: &id001 2026-04-29
+date: &id001 2026-10-25
 description: 'Human+AI exploration of the structural impossibility at the heart of
   coordination: finite minds presuppose what no finite exchange can produce, and act
   as if they share what cannot be verified.'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 10:41:03+00:00
-lastmod: 2026-08-17 19:09:45+00:00
+lastmod: 2026-10-25 22:02:01+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -101,11 +101,11 @@ Clark and Brennan (1991) treat conversation as continuous building of *common gr
 
 Husserl's fifth *Cartesian Meditation* (1931) treats the other as given through *appresentation* — indirect, never original. There is no first-person access to the other's first-person access; the inaccessibility is constitutive, not contingent. Levinas extends and inverts this: the other's "face" presents an *asymmetric*, infinite demand that cannot be reciprocated or verified. The phenomenological tradition arrives by introspection at the structure the formal results derive from communication theory.
 
-### The Heterophenomenological Alternative (Carruthers)
+### The Interpretive Alternative (Carruthers)
 
-Carruthers (2011, 2017) reads the phenomenology of repair as *interpretive sensory access* — the brain constructing a self-directed narrative about its own processing — rather than as registering an aimed-at construct the system has failed to reach. On this reading the felt-glimpse of a seam is itself a constructed product, and the article's repair-phenomenology is evidence about how the system represents its own coordination, not about a structural gap in the territory.
+Carruthers's [interpretive sensory-access theory](/concepts/interpretive-sensory-access-theory/) (2011, 2017) would read the phenomenology of repair as self-interpretation from sensory and contextual cues, rather than as registering an aimed-at construct the system has failed to reach. On this reading the felt glimpse is sensory, and its reading as a seam is a constructed product, and the article's repair-phenomenology is evidence about how the system represents its own coordination, not about a structural gap in the territory.
 
-The Map treats this as a dialectical clash, not a correction. The seam-reading presupposes "common knowledge" is what coordination targets; Carruthers's reading denies the construct has that role. Both cohere with the same observations of repair behaviour — the dispute turns not on better introspection but on whether the formal target is a real explanatory load or a fiction the agents do not deploy. Where the heterophenomenological reading prevails, the formal results survive but the phenomenological face does no work, and the cumulative case rests on the formal and approximation-discontinuity faces alone. The article does not adjudicate; the dispute is bedrock.
+The Map treats this as a dialectical clash, not a correction. The seam-reading presupposes "common knowledge" is what coordination targets; Carruthers's reading denies the construct has that role. Both cohere with the same observations of repair behaviour — the dispute turns not on better introspection but on whether the formal target is a real explanatory load or a fiction the agents do not deploy. Where the interpretive reading prevails, the formal results survive but the phenomenological face does no work, and the cumulative case rests on the formal and approximation-discontinuity faces alone. The article does not adjudicate; the dispute is bedrock.
 
 ### The Madhyamaka Worry
 

@@ -2,7 +2,7 @@
 title: "Cognitive Phenomenology"
 description: "Is there something it's like to think, beyond sensory accompaniments? The debate bears on whether understanding requires phenomenal experience LLMs may lack."
 created: 2026-01-16
-modified: 2026-02-02
+modified: 2026-10-25
 human_modified: null
 draft: false
 topics:
@@ -55,10 +55,10 @@ related_articles:
   - "[[phenomenal-variation-within-a-species]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-10-11T23:05:49+00:00
+ai_modified: 2026-10-25T22:02:01+00:00
 last_deep_review: 2026-07-07T08:28:29+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
@@ -86,7 +86,7 @@ Galen Strawson's foreign language argument: a monolingual English speaker and a 
 
 ### Self-Knowledge
 
-David Pitt argues we identify our thoughts' contents through [[introspection]] non-inferentially, requiring thoughts to have phenomenal character distinguishing their contents — a form of [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] in the cognitive domain.
+David Pitt argues we identify our thoughts' contents through [[introspection]] non-inferentially, requiring thoughts to have phenomenal character distinguishing their contents — a form of [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] in the cognitive domain. Carruthers's [[interpretive-sensory-access-theory|interpretive sensory-access theory]] denies the premise: knowledge of one's own thoughts is interpretive (2011).
 
 ### Ambiguity Resolution
 
@@ -128,7 +128,7 @@ PCT explains:
 
 ## Arguments Against Cognitive Phenomenology
 
-**Sensory accompaniment.** Tye and Dretske argue cognitive states are always accompanied by imagery, inner speech, or emotional states—what seems like cognitive phenomenology is these accompanying sensory states.
+**Sensory accompaniment.** Tye and Dretske argue cognitive states are always accompanied by imagery, inner speech, or emotional states—what seems like cognitive phenomenology is these accompanying sensory states. Carruthers and Veillet (2011) hold that phenomenal consciousness is exclusively experiential, or nonconceptual.
 
 **Introspective unreliability.** Philosophers disagree about whether cognitive phenomenology exists; some report it vividly, others experience nothing beyond sensory accompaniments. The variation suggests introspection is unreliable evidence.
 
@@ -232,6 +232,8 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 ## References
 
 1. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
+1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199596195.001.0001
+1. Carruthers, P. & Veillet, B. (2011). The case against cognitive phenomenology. In T. Bayne & M. Montague (eds.), *Cognitive Phenomenology* (pp. 35–56). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199579938.003.0002
 1. Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
 1. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 1. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

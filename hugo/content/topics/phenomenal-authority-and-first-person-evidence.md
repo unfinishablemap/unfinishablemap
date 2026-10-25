@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-25 20:48:00+00:00
+ai_modified: 2026-10-25 22:02:01+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 02:17:48+00:00
-lastmod: 2026-10-25 20:48:00+00:00
+lastmod: 2026-10-25 22:02:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,7 +146,7 @@ The acquaintance relation has an ontological counterpart at the mechanism layer:
 
 **[Transparency](/concepts/transparency-method-of-self-knowledge/)** (Evans; Byrne 2005) holds that one knows one's beliefs by attending to the world. Byrne extends it to perception; the Map holds that it does not reach phenomenal character, where [contemplatives](/concepts/contemplative-epistemology/) report attending to awareness itself.
 
-**Inferentialism** (Carruthers 2011) holds that self-knowledge is always inferential. It draws support from confabulation research but cannot explain the asymmetry between first-person and third-person access to phenomenal states. Carruthers is right about *process* knowledge but wrong to extend this to phenomenal *content*.
+**[Interpretive sensory access](/concepts/interpretive-sensory-access-theory/)** (Carruthers 2011) holds that knowledge of one's own *attitudes* is interpretive, while perceptual and imagistic states stay introspectible. The Map agrees for sensory states, though not on mechanism; the dispute is whether thought has its own phenomenal character.
 
 The Map's position: introspection is **sui generis** — irreducible to perception, inference, or transparent self-monitoring. Its features include direct phenomenal presentation, fallible judgement about incorrigible presentation, domain-variable reliability (strongest for attended content, absent for causal processes), and trainability confirmed by neurophenomenological convergence. Berghofer (2019, 2023) reconstructs Husserl as a precursor to contemporary evidentialism: ultimate evidence consists of *originary presentive intuitions*, placing phenomenological evidence on the same footing as perceptual evidence — both originary presentive, neither requiring further inferential support.
 

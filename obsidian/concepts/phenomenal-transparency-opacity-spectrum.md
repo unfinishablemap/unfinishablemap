@@ -2,9 +2,9 @@
 title: "The Phenomenal Transparency-Opacity Spectrum"
 description: "Experience normally conceals itself as representation (transparency) but can reveal its constructed character (opacity). This spectrum, introduced by Metzinger, exposes cognitive architecture and its limits."
 created: 2026-02-09
-modified: 2026-09-25
+modified: 2026-10-25
 human_modified:
-ai_modified: 2026-10-01T02:44:14+00:00
+ai_modified: 2026-10-25T22:02:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-5-5
 ai_generated_date: 2026-04-13
 last_curated:
 last_deep_review: 2026-09-25T14:16:29+00:00
@@ -131,6 +131,7 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[contemplative-practice-as-philosophical-evidence]] — Whether sustained practice can reduce transparency and cultivate controlled opacity
 - [[observation-and-measurement-void]] — Every method of studying consciousness transforms what it studies
 - [[introspection]] — The reliability and limits of first-person access
+- [[interpretive-sensory-access-theory]] — Carruthers's theory, scoped: attitudes interpreted, perceptual and imagistic states introspectible
 - [[phenomenal-acquaintance]] — Direct experiential access despite transparency's limits
 - [[phenomenal-consciousness]] — The broader category that the spectrum characterises
 - [[higher-order-theories]] — Theories where opacity arises naturally from representations of representations

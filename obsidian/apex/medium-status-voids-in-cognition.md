@@ -1,9 +1,9 @@
 ---
 title: "Medium-Status Voids in Cognition"
 created: 2026-04-29
-modified: 2026-05-18
+modified: 2026-10-25
 human_modified: null
-ai_modified: 2026-08-24T20:54:36+00:00
+ai_modified: 2026-10-25T22:02:01+00:00
 last_deep_review: 2026-07-19T15:22:59+00:00
 draft: false
 description: "Four cognitive voids name operations that structure other contents — significance, filtering, gating, framing — while remaining invisible from inside."
@@ -38,7 +38,7 @@ related_articles:
   - "[[positions/voids-as-evidence]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-04-29
 last_curated: null
 
@@ -111,7 +111,7 @@ Six intellectual traditions describe medium-status operations in strikingly simi
 
 **Ratcliffe: existential feelings.** Matthew Ratcliffe describes bodily feelings that "constitute ways of relating to the world as a whole" — not emotions about specific objects but background orientations structuring all experience. In severe depression, what changes is not that specific items have become sad but that the field of *possibilities-of-mattering* has narrowed or warped. The opacity of existential feelings to ordinary introspection is the phenomenological face of the medium: they are not reportable as moods but the texture of which moods are even possible. Ratcliffe's framework is embodied and naturalistic.
 
-**Carruthers: interpretive sensory-access.** *The Opacity of Mind* argues that introspection of one's own propositional attitudes is interpretive rather than direct: we infer our attitudes from sensory-format evidence much as we infer others'. The outputs are available to consciousness; the determining processes are not. Carruthers sharpens the noetic-feelings face especially: the feeling of authoritative self-knowledge is a fluency-driven heuristic, not a window onto its own production. He treats the opacity as the contingent design of a sensory-format introspection mechanism, not as constitutive of selfhood.
+**Carruthers: [[interpretive-sensory-access-theory|interpretive sensory-access]].** *The Opacity of Mind* argues that knowledge of one's own propositional attitudes is interpretive rather than introspective: we infer our attitudes from sensory-format evidence much as we infer others'. The outputs are available to consciousness; the determining processes are not. Carruthers sharpens the noetic-feelings face especially: the feeling of authoritative self-knowledge stems from an implicit transparency assumption, perhaps innately channelled, rather than from a window onto its own production. He treats the opacity as the contingent design of a sensory-format introspection mechanism, not as constitutive of selfhood.
 
 **Polanyi: tacit integration.** Michael Polanyi's *from-to* structure of tacit knowing is the cleanest exhibit of medium-status mode-fragility. We attend *from* subsidiary particulars *to* a focal whole — feeling the hammer through the hand, hearing words through their sounds — and the subsidiaries' contribution *is* their bearing on the focal whole. Converting a subsidiary into a focal object strips it of that relation; Polanyi calls this *destructive analysis*. "We know more than we can tell," read sharply, is not a claim about articulation limits but about the integrative function itself: no inspection can capture it without taking the cues as objects, at which point they no longer perform the function. As [[tacit-integration-void|the tacit-integration-void article]] develops, this gives medium-status its second sub-condition in pure form — the act of objectifying the medium transforms what it is. Polanyi's register is naturalistic-epistemological; the dualist gloss is the Map's.
 

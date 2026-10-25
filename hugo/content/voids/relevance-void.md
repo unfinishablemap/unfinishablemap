@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-07-18 18:40:58+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-25 22:02:01+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -10,7 +10,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[mysterianism]]'
 created: 2026-04-29
-date: &id001 2026-04-30
+date: &id001 2026-10-25
 description: Human+AI exploration of why the cognitive filter that selects what currently
   matters cannot be inspected without already operating—the self-referential opacity
   at the root of selective attention.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 18:40:58+00:00
-lastmod: 2026-07-18 18:40:58+00:00
+lastmod: 2026-10-25 22:02:01+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -72,7 +72,7 @@ Independent intellectual traditions have arrived at strikingly similar pictures 
 
 **The salience network.** Neuroscientifically, the anterior insula and dorsal anterior cingulate cortex form a salience network that switches between default-mode and central-executive systems and tags events as biologically or cognitively relevant. Dysfunction is associated with schizophrenia, ADHD, and autism — disorders in which relevance fails without becoming introspectively accessible *as* filter failure. Patients experience the wrong things as relevant; they do not experience *the filtering going wrong*.
 
-**Carruthers and the opacity of mind.** Carruthers's *Interpretive Sensory-Access* theory argues that introspection of one's own propositional attitudes is interpretive rather than direct: we infer our attitudes from sensory-format evidence in much the way we infer others'. The outputs of relevance determination are available to consciousness; the determining process is not. Even our sense that we *understand why* an item is relevant is itself an interpretive product subject to the same opacity.
+**Carruthers and the opacity of mind.** Carruthers's [*Interpretive Sensory-Access* theory](/concepts/interpretive-sensory-access-theory/) argues that knowledge of one's own propositional attitudes is interpretive rather than introspective: we infer our attitudes from sensory-format evidence in much the way we infer others', while perceptual and imagistic states remain introspectible. The outputs of relevance determination are available to consciousness; the determining process is not. On this theory, even our sense that we *understand why* an item is relevant is a self-ascribed judgment, and so an interpretive product subject to the same opacity.
 
 These traditions — analytic philosophy, phenomenology, cognitive science, computational neuroscience, neuroscience proper, and psychology of self-knowledge — converge on a single picture: relevance selection is fundamental to cognition, opaque to introspection, and resistant to algorithmic decomposition.
 

@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T21:41:38+00:00
+ai_modified: 2026-10-25T22:02:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 22:02 - expand-topic
+- **Status**: Success
+- **Topic**: Carruthers's Interpretive Sensory-Access Theory
+- **Output**: [[concepts/interpretive-sensory-access-theory]]
+- **Word count**: 2678 (analyze_length; concepts soft 2500, hard 3500; prose about 2,240, references about 435)
+- **Based on research**: yes, [[research/interpretive-sensory-access-theory-2026-10-25]]
+- **Structure**: neutral definition and divided scope in the lead (2009 and 2010 author abstracts), with the Map's three-part verdict flagged as the Map's. Sections: scope (the 2010 "judgments and decisions, at least" hedge, the ch. 5 affect nuance, the Nisbett-Wilson line moved), who named what, evidence, replies (incl. unsymbolized thinking), the corollary, where the Map stands, Relation to Site Perspective.
+- **Guards honoured**: scope stated at attitude level, never "all mental states" or "always inferential"; 2011 "hardly any" and 2015 "never" cited to their own abstracts; coiners (ISA Carruthers, theory theory Morton 1980, Objectivist Rey, inferentialism Cassam, heterophenomenology Dennett and not applied to ISA); Gopnik's developmental case kept hers (2009 §4); Hurlburt cast as ally on attitude access; Carruthers stated as physicalist (2019) and cited as rival; ISA kept to access, with the 2019 broadcast-for-reasoning and 2018 "conscious reflection does have effects" quotes; weak Revelation, access not acquaintance; Tenet 5 not used against ISA's economy; Map applications marked as the Map's; OUP and Carruthers-Veillet abstracts paraphrased or attributed to the abstract; JCS 2017, Andreotta and ch. 4/6 targets not used as evidence; self-blindness and phenomenal-transparency-opacity-spectrum L77 untouched. All 57 quoted strings grep-verified against the research note.
+- **Integration** (every OLD count 1; length before -> after):
+  - voids/relevance-void L71: 2183 -> 2197
+  - voids/common-knowledge-void (four edits incl. heading, net 0; no inbound anchors in either dialect): 2998 -> 2998
+  - apex/medium-status-voids-in-cognition L114 ("fluency-driven heuristic" replaced): 4987 -> 4994
+  - apex/phenomenal-output-causal-machinery-dissociation L139: 6901 -> 6897
+  - concepts/phenomenal-transparency-opacity-spectrum Further Reading line (note table row E; L77 untouched): 3005 -> 3018
+  - concepts/transparency-method-of-self-knowledge L76 zero-word pipe: 2701 -> 2701
+  - topics/phenomenal-authority-and-first-person-evidence L146 ("always inferential" removed): 4513 -> 4512
+  - voids/amplification-void L77: 2501 -> 2505
+  - concepts/cognitive-phenomenology (two sentences + 2 refs): 3291 -> 3361
+  - topics/inner-speech-and-anendophasia (one sentence + 2 refs): 2917 -> 2990
+  - concepts/process-content-distinction (new bullet + 2 refs): 2686 -> 2791
+  - topics/cross-architecture-llm-introspection L106 zero-word pipe: 3958 -> 3958
+- **Routed to operator (not edited)**: `project/bedrock-clash-vs-absorption` L149 annotates *The Opacity of Mind* as "the canonical heterophenomenological alternative" (Dennett's term). The same label also appears at L64 ("Carruthers-style heterophenomenological readings"), L92, L94 (historical narrative) and L98.
+- **Cross-review**: not minted here (driver mints it).
 
 ## 21:41 - research-topic
 - **Status**: Success

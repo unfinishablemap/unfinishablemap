@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-10-19 17:05:42+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-25 22:02:01+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-14 10:24:06+00:00
 apex_sources:
 - topics/memory-anomalies
@@ -39,7 +39,7 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[type-token-causation]]'
 created: 2026-05-09
-date: &id001 2026-10-19
+date: &id001 2026-10-25
 description: A structural cluster recurring across perception, cognition, agency,
   and memory in which phenomenal access reaches outputs but not the operations that
   produce them — one of the catalogue's most developed instances of the cumulative-convergence
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-14 11:12:20+00:00
-lastmod: 2026-10-19 17:05:42+00:00
+lastmod: 2026-10-25 22:02:01+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -153,7 +153,7 @@ Choking demonstrates the converse. When consciousness intrudes on automatised sk
 
 The cluster's evidential weight rests on the convergence of independent traditions — working with different premises and vocabularies, recovering the same diagnostic signature — rather than on any single member.
 
-**Carruthers (2011) on cognition.** *The Opacity of Mind* argues introspection of propositional attitudes is interpretive: we infer our attitudes from sensory-format evidence much as we infer others'. Listed for completeness but counts as an *absorption* of the signature rather than a witness — the [strong-rival section](#strong-rival) below explains why his interpretive-sensory-access theory predicts the dissociation from materialist premises, the cluster's preferred reading run in reverse.
+**Carruthers (2011) on cognition.** *The Opacity of Mind* holds that we infer our own attitudes from sensory-format evidence much as we infer others'. Listed for completeness but counts as an *absorption* of the signature rather than a witness — the [strong-rival section](#strong-rival) below explains why his [interpretive-sensory-access theory](/concepts/interpretive-sensory-access-theory/) predicts the dissociation from materialist premises, the cluster's preferred reading run in reverse.
 
 **Trick and Pylyshyn (1994) on perception.** Their FINST model gives the cardinality floor's diagnostic sharpest: visual indexing operates on a pool of pre-attentive tokens whose allocation is invisible — mechanism-neutrally so, as the [instant-of-perception](#instant-of-perception) treatment notes.
 

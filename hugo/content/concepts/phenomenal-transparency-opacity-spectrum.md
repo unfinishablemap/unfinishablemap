@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-10-01 02:44:14+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-25 22:02:01+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/phenomenal-transparency/
@@ -19,7 +19,7 @@ concepts:
 - '[[self-reference-paradox]]'
 - '[[metacognition]]'
 created: 2026-02-09
-date: &id001 2026-09-25
+date: &id001 2026-10-25
 description: Experience normally conceals itself as representation (transparency)
   but can reveal its constructed character (opacity). This spectrum, introduced by
   Metzinger, exposes cognitive architecture and its limits.
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-25 14:16:29+00:00
-lastmod: 2026-10-01 02:44:14+00:00
+lastmod: 2026-10-25 22:02:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,6 +135,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Whether sustained practice can reduce transparency and cultivate controlled opacity
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person access
+- [interpretive-sensory-access-theory](/concepts/interpretive-sensory-access-theory/) — Carruthers's theory, scoped: attitudes interpreted, perceptual and imagistic states introspectible
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Direct experiential access despite transparency's limits
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The broader category that the spectrum characterises
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories where opacity arises naturally from representations of representations

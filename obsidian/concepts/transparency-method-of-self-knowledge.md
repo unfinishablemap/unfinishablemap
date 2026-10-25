@@ -4,7 +4,7 @@ description: "Evans's outward-looking route to knowing one's own beliefs, its su
 created: 2026-10-25
 modified: 2026-10-25
 human_modified:
-ai_modified: 2026-10-25T20:43:45+00:00
+ai_modified: 2026-10-25T22:02:01+00:00
 draft: false
 topics:
   - "[[phenomenal-authority-and-first-person-evidence]]"
@@ -73,7 +73,7 @@ Moran states the puzzle as "something of a paradox: how can a question referring
 - **Making rather than finding.** Deliberating whether *p* may form a new belief rather than reveal an existing one (Shah & Velleman 2005). Gertler presses the point with belief-perseverance, "a common psychological phenomenon that threatens the method of transparency" (2011b, p. 138, as quoted in Cassam 2014, ch. 9).
 - **Cassam's three problems** target "Rationalism", Moran's view as recast by Finkelstein, and set Byrne and Fernández aside, "whose approaches are different from Moran's" (2014, p. 3, note). TM "can only account for a sub-class of intentional self-knowledge" (the *Generality Problem*, p. 103); it swaps in the harder question "Do the reasons require me to believe that P?" (*Substitution*, p. 104); and "what you believe isn't always what you ought rationally to believe" (*Matching*, p. 106). Cassam's own view is inferentialist.
 
-Three rival families frame the debate: inner sense (Armstrong, Lycan); self/other parity, which Schwitzgebel reports Carruthers (2011) defending for "propositional attitudes like belief and desire" while holding inner speech and visual imagery introspectible (2024, §2.1); and acquaintance, the Map's view for phenomenal states ([[phenomenal-acquaintance]]).
+Three rival families frame the debate: inner sense (Armstrong, Lycan); [[interpretive-sensory-access-theory|self/other parity]], which Schwitzgebel reports Carruthers (2011) defending for "propositional attitudes like belief and desire" while holding inner speech and visual imagery introspectible (2024, §2.1); and acquaintance, the Map's view for phenomenal states ([[phenomenal-acquaintance]]).
 
 ## Transparency and Self-Blindness {#self-blindness}
 
