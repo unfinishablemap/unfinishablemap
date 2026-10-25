@@ -5,6 +5,23 @@ ai_modified: 2026-10-24T23:42:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 00:23 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/language-and-consciousness]]
+- **Original score**: n/a (tenet-calibration fix; `scripts/curate.py` absent)
+- **Task**: [[reviews/tenet-check-2026-10-24]] Priority List item 1, parts (a)–(e), covering W1 and W2. L93 asserted actual, universal efficacy ("Every meaningful utterance is an instance of downward causation") and said epiphenomenalism "must treat the apparent purposefulness of speech as coincidental", which is the framing that `tenets.md` L101 and check 154 W7 retired. L89 and L91 graded as support data that physicalists also explain. L83 stated PCS as failed, against `phenomenal-concepts-strategy` L79.
+- **Changes** (the review's exact OLD→NEW strings, applied cumulatively in order; each OLD confirmed `str.count == 1` at its expected line before editing):
+  - (a) L89: "provides independent support for several of the Map's [[tenets]]" → "bears on several of the Map's [[tenets]], fitting them without evidencing them". +3.
+  - (b) L91: "**Dualism** gains support from reference failures" → "**Dualism** fits the reference failures". −1.
+  - (c) L91: "exactly what we would expect ..." → "what we would expect ..., though the phenomenal concepts strategy predicts the same anomalies on physicalism". +10.
+  - (d) L93: the Gricean argument is now stated as a conditional ("would be an instance of downward causation"), and "Every" is dropped. The coincidence framing is replaced by the epiphenomenalist's common-cause reply. Whether that reply survives self-stultification is said to turn on a contested premise about knowledge, with a piped link `[[tenets#^tenet-3-epiphenomenalism|Tenet 3]]` (the anchor exists at tenets L101). The paragraph closes "fits the tenet without evidencing it, and says nothing about how widely conscious efficacy operates". `[[epiphenomenalism]]` → `[[epiphenomenalism|epiphenomenalist]]`. +19.
+  - (e) L83: "and the dilemma above is the reason it does not" → "; the Map holds that the dilemma above blocks it, while PCS defenders dispute the dilemma, so the exchange stays open". +10. Carruthers & Veillet are not named, so no References entry is needed.
+- **Reasoning mode**: engagement with epiphenomenalism (L93): Mode Three. It states the opponent's best reply and the contested premise without claiming an in-framework refutation, matching tenets L101. Engagement with PCS (L83): Mode Three. It records the Map's verdict and that defenders dispute it, following PCS L79.
+- **Calibration**: the Tenet 3 quantifier is left open (no "every" or "whenever" in the RSP; this pass does not touch the open NEEDS-HUMAN item). Epiphenomenalism is not conceded: its reply is reported, not adopted. P-AC1 is untouched. Nothing is enlisted from Grice, Searle or Wittgenstein. The L49 edit (2026-10-24 22:38Z) is intact.
+- **Word count** (analyze_length): 2140 → 2181 (+41, matching the review's net); the concepts hard gate is >=3500.
+- **Frontmatter**: `ai_modified` bumped to 2026-10-25T00:23:01+00:00. `ai_system` is unchanged because claude-opus-5-5 is already present. `modified` is left as-is.
+- **Published**: yes
+
 ## 23:42 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 59 (content changed since 2026-10-23T23:00Z). 13 read in full: the brief's 12 Priority 1 pages plus `topics/precommitment-and-the-diachronic-agent`, new at 00:23Z and missing from the brief's list. 46 Priority 2 pages read diff-scoped, with full Relation to Site Perspective sections for 8 voids. Five family keyword sweeps ran over all 59.

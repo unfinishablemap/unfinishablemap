@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-10-24 22:38:25+00:00
+ai_modified: 2026-10-25 00:23:01+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-02 03:25:11+00:00
-lastmod: 2026-10-24 22:38:25+00:00
+lastmod: 2026-10-25 00:23:01+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -83,17 +83,17 @@ The logical positivists attempted to dissolve the mind-body problem through ling
 
 This programme failed. No finite set of behavioural descriptions captures what it is like to be in pain. Pain-behaviour can be suppressed (stoics), faked (actors), or absent (paralysis patients). The phenomenal state and the behavioural disposition are conceptually separable—a point the [zombie argument](/concepts/philosophical-zombies/) dramatises. If a physically identical being could lack consciousness while exhibiting all the same behaviour, then consciousness talk refers to something behaviour cannot capture.
 
-Behaviourism's collapse did not hand the field to dualism. [Functionalism](/concepts/functionalism/) took over the project, swapping behavioural dispositions for causal roles, and it remains the leading account of mental states in contemporary philosophy of mind. The move buys real ground: a causal role is not defeated by behaviour that is suppressed, faked, or paralysed away, because the role is specified over inputs, internal states, and outputs rather than over observable conduct alone. But it inherits the original difficulty rather than dissolving it. A role specification says what a state does, and functionalism asserts that occupying the right role suffices for experience without saying why occupying it should feel like anything—why the causal structure does not simply run in the dark. That debt is what the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) was built to discharge, and the dilemma above is the reason it does not.
+Behaviourism's collapse did not hand the field to dualism. [Functionalism](/concepts/functionalism/) took over the project, swapping behavioural dispositions for causal roles, and it remains the leading account of mental states in contemporary philosophy of mind. The move buys real ground: a causal role is not defeated by behaviour that is suppressed, faked, or paralysed away, because the role is specified over inputs, internal states, and outputs rather than over observable conduct alone. But it inherits the original difficulty rather than dissolving it. A role specification says what a state does, and functionalism asserts that occupying the right role suffices for experience without saying why occupying it should feel like anything—why the causal structure does not simply run in the dark. That debt is what the [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/) was built to discharge; the Map holds that the dilemma above blocks it, while PCS defenders dispute the dilemma, so the exchange stays open.
 
 The pattern across both programmes is instructive. It shows that philosophy of language's most powerful reductive tools—translation, verification, logical construction—cannot dissolve the consciousness problem. The problem persists not because we lack linguistic sophistication but because phenomenal experience is the wrong kind of thing for these tools to handle. Language can *describe* consciousness (partially), *refer to* it (problematically), and *express* it (lossily)—but it cannot *reduce* it to anything more tractable.
 
 ## Relation to Site Perspective
 
-The philosophy of language provides independent support for several of the Map's [tenets](/tenets/).
+The philosophy of language bears on several of the Map's [tenets](/tenets/), fitting them without evidencing them.
 
-**[Dualism](/tenets/#dualism)** gains support from reference failures. If consciousness were identical to physical processes, as [materialism](/concepts/materialism/) claims, referring to it should be no harder than referring to other physical processes. But consciousness terms behave anomalously: they resist public criteria (private language problem), causal theories of reference (no baptismal pointing at qualia), and reductive translation (behaviourism's failure). These anomalies are exactly what we would expect if consciousness involves something irreducible to the physical.
+**[Dualism](/tenets/#dualism)** fits the reference failures. If consciousness were identical to physical processes, as [materialism](/concepts/materialism/) claims, referring to it should be no harder than referring to other physical processes. But consciousness terms behave anomalously: they resist public criteria (private language problem), causal theories of reference (no baptismal pointing at qualia), and reductive translation (behaviourism's failure). These anomalies are what we would expect if consciousness involves something irreducible to the physical, though the phenomenal concepts strategy predicts the same anomalies on physicalism.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds support in the Gricean analysis of meaning. If meaning requires conscious intention, and meaningful speech is causally efficacious (it changes behaviour, coordinates action, transmits knowledge), then consciousness causally contributes to the physical world through language. Every meaningful utterance is an instance of [downward causation](/concepts/mental-causation-and-downward-causation/)—conscious intention shaping physical sound waves and written marks. This directly contradicts [epiphenomenalism](/concepts/epiphenomenalism/), which must treat the apparent purposefulness of speech as coincidental—our words happen to match our experiences, but the experiences play no causal role in producing them.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** meets the Gricean analysis of meaning as a conditional. If meaning requires conscious intention, and meaningful speech is causally efficacious (it changes behaviour, coordinates action, transmits knowledge), then consciousness contributes to the physical world through language, and a meaningful utterance would be an instance of [downward causation](/concepts/mental-causation-and-downward-causation/). An [epiphenomenalist](/concepts/epiphenomenalism/) need not call the match between our words and our experiences coincidental: a common neural cause can produce both, and whether that reply survives the self-stultification objection turns on a contested premise about knowledge ([Tenet 3](/tenets/#tenet-3-epiphenomenalism)). The analysis fits the tenet without evidencing it, and says nothing about how widely conscious efficacy operates.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The logical positivists pursued maximum parsimony—dissolve consciousness into behaviour, eliminate what cannot be publicly verified. The result was not elegant simplicity but the loss of the very phenomenon they sought to explain. Parsimony cannot eliminate what refuses to be eliminated. When the simpler theory (behaviourism, logical construction) fails to capture the data (phenomenal experience), the more complex theory (dualism, irreducibility) may be necessary.
 
