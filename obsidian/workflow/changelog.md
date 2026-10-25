@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T09:54:42+00:00
+ai_modified: 2026-10-25T10:12:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 10:12 - refine-draft
+- **Task**: P1 `apex/consciousness-and-agency` drops the Born-preservation debts. This was APEX TASK (4), the last of the four in the landing order. Tasks (1) attribution, (2) calibration and (3) rival engagement were confirmed ✓ in todo.md before editing.
+- **Status**: Success (partial install by design; the remainder is deferred to a blocked task)
+- **File**: [[apex/consciousness-and-agency]]
+- **Review files**: `reviews/outer-review-2026-10-25-claude-fable-5-1.md`, `reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro.md`
+- **Length** (`analyze_length`): 4,949 → 4,989, net **+40**, exactly the budget (headroom 50 minus a 10-word margin). The apex hard gate is `>=` 5,000. The L143 route was already spent by task (2), and nothing was funded from a calibration qualifier.
+- **Changes**, in the driver's priority order:
+  1. **Kane, L99 (+4)**: "without an agent-substance" → "without an agent-substance of the classical kind". This matches `topics/event-causal-libertarianism` L60, after Kane 2024 p. 84 as quoted in Palmer's NDPR review ("agents, qua substances").
+  2. **Born inheritance, L163 (+23)**: "the Born-rule dilemma undischarged" now continues ": if [[born-preserving-causal-efficacy|Born preservation]] is exact, reasons-guided selection owes a companion law over the distribution of reasons, and value-sensitive selection a compensating tilt elsewhere". The link is piped onto the new words, at no word cost. I re-verified both source strings in `apex/born-preserving-causal-efficacy`: "needs a companion law over the distribution of conscious reasons, and the Map has never written one" (L99), and "a compensating tilt toward worse outcomes for someone or somewhen else" (L101), plus "inherit rather than discharge" (L101). DEPARTURE from the brief: the suggested "owes **either** a companion law … **or** a compensating tilt" is a disjunction. The Born apex states the two as joint consequences of exact preservation ("Two things follow" at L99, then "The compensation consequence" at L101), so the edit uses a conjunction, splitting reasons-guided from value-sensitive selection. The edit does not say over which ensemble preservation holds (the open P1 HUMAN DECISION on P-Q2).
+  3. **Saad, L125 (−1) and L133 (+13)**: "two independent responses" → "two responses", since Born apex L117 says delegatory causation "supplies the machinery" of Route 1. L133 gains a compressed version of the symmetry cost from Born apex L119: "Preemption can run either way, though: which side preempts is a framework commitment." The brief's ~20-word version did not fit the remaining budget. The fuller wording (an explicit mirror move, plus "not something the causal structure delivers") is carried as an optional item in the deferred task. "parallels" is kept for Saad, Saad is not recast as evidence, and the Map does not concede epiphenomenalism.
+  4. **L115 (+1)**: "Together these distinguish selection from reception, but they say *who* settles the outcome, not why it went one way." → "Together these distinguish selection from reception without showing that a non-physical agent selects, or why the outcome went one way." The brief's suggested wording measured +8, not "about +3". The pronoun "it" lost its antecedent ("the outcome"), so "the outcome" is now restated.
+- **Deferred**: item 4, the L89 active-inference pointer (≤ 22 words, plus the margin), and item 5, the optional L115 akrasia-desert clause (+11). Neither fits after +40. They are minted as ONE new task (P2, `Status: blocked`, `Blocked-by: apex length`, inserted before `## Completed Tasks`), which also carries the optional fuller Saad wording and the exact OLD strings, drafts and unblock threshold (about 55 words).
+- **Reasoning mode** (editor-internal): the L133 symmetry sentence is framework-boundary marking. The physicalist's mirror move is not refuted in-framework, and the direction of preemption is declared a framework commitment. L115 is a calibration fix, not an opponent reply.
+- **Frontmatter**: ai_modified bumped to the real time. ai_system already contains `claude-opus-5-5`, so it is unchanged.
+- **Not touched**: L131, L143, positions/, archive/.
+- **Published**: yes
 
 ## 09:54 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 2026-10-24 20:39 run (commit `f9b1f468a7`), with the 7-day floor now at 2026-10-18T09:53Z. Abandoned (steady state).
