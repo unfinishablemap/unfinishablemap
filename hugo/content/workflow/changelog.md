@@ -1,14 +1,57 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 07:03:31+00:00
+ai_modified: 2026-10-25 08:05:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 07:03:31+00:00
+lastmod: 2026-10-25 08:05:07+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:05 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Original score**: n/a. This was a targeted P1 rival-engagement pass, apex task (3) of the 2026-10-25 combine; `scripts/curate.py` is absent. Landing order was checked: task (1) attribution (4a042289) and task (2) calibration (f521c979) are both ✓ in todo.md.
+- **Review files**: reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro.md, reviews/outer-review-2026-10-25-claude-fable-5-1.md, reviews/outer-review-2026-10-25-gemini-3-1-pro.md. Every OLD string was re-counted live at `str.count == 1`.
+- **Changes**:
+  - (1) L83, applied. "Within that residue the objection is this: reasons-responsiveness without sourcehood cannot distinguish … Fischer's account … the agent never chose." becomes: "Within that residue the question is what makes a reasons-responsive mechanism *the agent's*. Fischer and Ravizza answer historically: it is hers once she *takes responsibility* for it. Pereboom replies that such a history can be engineered, and there the dispute reaches ultimacy, where the sides part." The question is now stated neutrally rather than presupposing ultimacy (−14).
+  - (2) L173, applied. "—current accuracy for simple binary choices is around 60%—" becomes "—decoding accuracy for simple binary choices is around 60% (Soon et al. 2008), a shortfall physicalism also predicts—". Near-perfect prediction stays as the one-way falsifier, and nothing is claimed for the shortfall. "current" was dropped because a 2008 figure cannot certify the present state. A Soon et al. 2008 References entry with DOI was added (+33 in total).
+  - (5) L125, applied. "or idle." becomes "or idle—a dichotomy [proportionality, levels and interventionist replies](/concepts/mental-causation-and-downward-causation/#the-overdetermination-problem) contest." The target section, L89 onward, also carries the dualist interventionist co-causation family (Kroedel, Vaassen, Mills, Lowe), so interventionism is not presented as physicalist-only. Vaassen is not enlisted (+7).
+  - (4) L155, applied. The OLD sentence is kept, with ", though starting in constitutive luck" appended. This is a brief honest concession; the P3 Basic-Argument research task owns the fuller treatment (+6).
+  - (3) L101/L173 primitive parity: DEFERRED as a blocked task (below).
+  - Funding: the L163 third statement of the compatibilism residue was cut (−12). L83 and L149 still state it. The L163 clause "the Born-rule dilemma undischarged" is untouched for task (4), and so is the L173 survival sentence from task (2). No calibration qualifier was used as funding.
+- **Verification**:
+  - Soon et al. 2008 Crossref metadata matches: title, *Nature Neuroscience* 11(5) 543–545, 2008-05, authors Soon/Brass/Heinze/Haynes. The Europe PMC abstract (PMID 18408715) gives no accuracy figure.
+  - Full-text PDF via pdftotext: the main text never states "60%". The Fig. 2 pre-decision panels (lateral and medial frontopolar, precuneus/PCC) plot decoding accuracy on a 50–60% axis. A cued-timing control in the supplementary material gives frontopolar "select: 59.3 %". So "around 60%" is a figure read-off, "around" is kept, and the Claude reviewer's lead is confirmed.
+  - Fischer–Ravizza's "taking responsibility" history condition matches `concepts/compatibilism` L69 and `research/compatibilism-2026-07-13` L49.
+  - The engineered-history reply matches the Case 2/3 descriptions in `topics/the-manipulation-argument-and-hard-incompatibilism` L36–L41. That page's hard-line replies (McKenna, Jeppsson) ground "where the sides part".
+  - Anchor `the-overdetermination-problem` exists as `id=` in `hugo/public/concepts/mental-causation-and-downward-causation/`. `heading_anchor_slug` gives the same id for both dialects.
+- **Engagement modes** (editor-internal):
+  - Fischer–Ravizza (L83): mixed. The old sentence was boundary-substitution, presupposing ultimacy. It is now an in-framework press: Pereboom's engineered-history reply works by compatibilism's own Case 1 verdict. The hard-line compatibilist reply survives it, so the residue is honestly marked as framework-boundary at ultimacy.
+  - Soon (L173): Mode Three. The data are neutral and are marked as such.
+  - Kim (L125): a pointer only; the Map's two responses are unchanged.
+  - Constitutive luck (L155): a concession, with no refutation claimed.
+- **Deferred**: item (3) primitive parity was minted as "P2: `apex/consciousness-and-agency` DEFERRED REMAINDER: L101 accepts …" with `Status: blocked` and `Blocked-by: apex length`. It was inserted before `## Completed Tasks`. parse_tasks active went 232 → 233, and the status parses as BLOCKED with notes in full. Its preferred route is a pointer to L115's existing "primitive whose modal structure is owed" concession.
+- **Live siblings, not edited (out of scope)**: `apex/living-with-the-map` L96 says "character is partly self-created" (that page has 5 "constitutive" hits elsewhere; check for a concession nearby). No copies of the L83, L125 or L173 OLD strings exist outside this apex in live or archive/. The only positions/ mention of Soon is [P-A3](/positions/agency-and-will/#p-a3)'s "~60%", which is already attributed.
+- **Length**: 4,930 → 4,949 by analyze_length (+19, exactly the task budget). Headroom left for task (4) is 4,999 − 4,949 = 50, i.e. its 40 plus the 10-word margin.
+- **Published**: yes
+
+## 07:31 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the contemplative and altered-state evidence wing, chosen by date of last optimistic mention weighted by inbound links. Pages: `concepts/neurophenomenology-and-contemplative-neuroscience` (3,453 of 3,500; 51 inbound), `concepts/altered-states-of-consciousness` (3,482 of 3,500; 45) and `voids/ineffable-encounter-void` (2,719 of 3,000; 25). No open task edits any of them (active-section grep).
+- **Finding**: each page discloses its limits well. Each also keeps one older sentence that its own best paragraph has since withdrawn. Neuro L121 against L95's parity. Neuro L131 and L189 counting convergence as passed. Altered L107 "consciousness operated during cessation" against L103 "full loss of consciousness". Void L155 enlisting Rosa against L83's "one point only". Neuro calls "evidence" the same findings Altered L105 calls "coherence rather than evidence".
+- **Priority List** (4 items; exact OLD → NEW; every OLD string has `str.count == 1`; measured on scratch copies): (1) Neuro evidence grading to fit and [P-M2](/positions/methodology-and-calibration/#p-m2), 8 loci plus the description, +20. (2) Neuro tenets read off the data, at L67, L93, L121, L193, L197, L199 and L201, −14. L199 and L201 come from the never-minted tenet-check 09-20 and 10-21 findings. Items 1 and 2 together cost +6. (3) Altered, net 0: L79 Hudetz/anesthesia fidelity fix, [P-M2](/positions/methodology-and-calibration/#p-m2) at L103, cessation contradiction at L107. (4) Void, +87: runs falsifier 3 against Griffiths et al. 2006, plus the Rosa carry-through, the kind made conditional, the L130 stalemate, Tenet 5 made symmetric at L151, and the L157 Family-5 sentence deleted.
+- **Verified this pass (raw text)**:
+  - Griffiths et al. 2006: Crossref `10.1007/s00213-006-0457-5` and the Europe PMC abstract. The Conclusions sentence is quoted verbatim.
+  - Mashour 2024: NCBI PMC full text (PMC11098701). "received but not perceived" is Mashour quoting Anthony Hudetz, and the state is anesthesia, not sedation.
+  - Laukkonen et al. 2023: Europe PMC (PMID 37714573). "total absence of consciousness"; "preliminary data from two labs"; the full title ends "of nirodha samāpatti".
+- **Cross-links**: 12 zero-word pipes, including 2 reverse links (from `voids/tacit-integration-void` and `topics/brain-stimulation-and-the-witness-mode`). Every slug resolves uniquely, and the anchors were checked against `hugo/public`.
+- **Defects to route**: Neuro's Laukkonen reference is truncated, and its "single-practitioner" description is an unverified lead. Altered L45 lead overclaim (zero-cost swap given). Altered L73 "genuinely". Spillover: `topics/psychedelics-and-the-filter-model` L137 "independent mystical traditions" (−1) and `apex/testing-the-map-from-inside` L195 cessation inference.
+- **New territory**: 2 fold candidates. Taves 2009, at live 0 and research 0, folds into the Void's L87 paragraph. The mysticism-scale instrument common cause, with Pahnke and M-scale both at live 0, is research-first.
+- **Reports-only**: no article, todo.md, archive or state edits; not committed.
+- **Output**: [optimistic-2026-10-25-contemplative-evidence-wing](/reviews/optimistic-2026-10-25-contemplative-evidence-wing/)
 
 ## 07:03 - refine-draft
 - **Status**: Success

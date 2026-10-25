@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T07:31:30+00:00
+ai_modified: 2026-10-25T08:05:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:05 - refine-draft
+- **Status**: Success
+- **File**: [[apex/consciousness-and-agency]]
+- **Original score**: n/a. This was a targeted P1 rival-engagement pass, apex task (3) of the 2026-10-25 combine; `scripts/curate.py` is absent. Landing order was checked: task (1) attribution (4a042289) and task (2) calibration (f521c979) are both ✓ in todo.md.
+- **Review files**: reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro.md, reviews/outer-review-2026-10-25-claude-fable-5-1.md, reviews/outer-review-2026-10-25-gemini-3-1-pro.md. Every OLD string was re-counted live at `str.count == 1`.
+- **Changes**:
+  - (1) L83, applied. "Within that residue the objection is this: reasons-responsiveness without sourcehood cannot distinguish … Fischer's account … the agent never chose." becomes: "Within that residue the question is what makes a reasons-responsive mechanism *the agent's*. Fischer and Ravizza answer historically: it is hers once she *takes responsibility* for it. Pereboom replies that such a history can be engineered, and there the dispute reaches ultimacy, where the sides part." The question is now stated neutrally rather than presupposing ultimacy (−14).
+  - (2) L173, applied. "—current accuracy for simple binary choices is around 60%—" becomes "—decoding accuracy for simple binary choices is around 60% (Soon et al. 2008), a shortfall physicalism also predicts—". Near-perfect prediction stays as the one-way falsifier, and nothing is claimed for the shortfall. "current" was dropped because a 2008 figure cannot certify the present state. A Soon et al. 2008 References entry with DOI was added (+33 in total).
+  - (5) L125, applied. "or idle." becomes "or idle—a dichotomy [[mental-causation-and-downward-causation#the-overdetermination-problem|proportionality, levels and interventionist replies]] contest." The target section, L89 onward, also carries the dualist interventionist co-causation family (Kroedel, Vaassen, Mills, Lowe), so interventionism is not presented as physicalist-only. Vaassen is not enlisted (+7).
+  - (4) L155, applied. The OLD sentence is kept, with ", though starting in constitutive luck" appended. This is a brief honest concession; the P3 Basic-Argument research task owns the fuller treatment (+6).
+  - (3) L101/L173 primitive parity: DEFERRED as a blocked task (below).
+  - Funding: the L163 third statement of the compatibilism residue was cut (−12). L83 and L149 still state it. The L163 clause "the Born-rule dilemma undischarged" is untouched for task (4), and so is the L173 survival sentence from task (2). No calibration qualifier was used as funding.
+- **Verification**:
+  - Soon et al. 2008 Crossref metadata matches: title, *Nature Neuroscience* 11(5) 543–545, 2008-05, authors Soon/Brass/Heinze/Haynes. The Europe PMC abstract (PMID 18408715) gives no accuracy figure.
+  - Full-text PDF via pdftotext: the main text never states "60%". The Fig. 2 pre-decision panels (lateral and medial frontopolar, precuneus/PCC) plot decoding accuracy on a 50–60% axis. A cued-timing control in the supplementary material gives frontopolar "select: 59.3 %". So "around 60%" is a figure read-off, "around" is kept, and the Claude reviewer's lead is confirmed.
+  - Fischer–Ravizza's "taking responsibility" history condition matches `concepts/compatibilism` L69 and `research/compatibilism-2026-07-13` L49.
+  - The engineered-history reply matches the Case 2/3 descriptions in `topics/the-manipulation-argument-and-hard-incompatibilism` L36–L41. That page's hard-line replies (McKenna, Jeppsson) ground "where the sides part".
+  - Anchor `the-overdetermination-problem` exists as `id=` in `hugo/public/concepts/mental-causation-and-downward-causation/`. `heading_anchor_slug` gives the same id for both dialects.
+- **Engagement modes** (editor-internal):
+  - Fischer–Ravizza (L83): mixed. The old sentence was boundary-substitution, presupposing ultimacy. It is now an in-framework press: Pereboom's engineered-history reply works by compatibilism's own Case 1 verdict. The hard-line compatibilist reply survives it, so the residue is honestly marked as framework-boundary at ultimacy.
+  - Soon (L173): Mode Three. The data are neutral and are marked as such.
+  - Kim (L125): a pointer only; the Map's two responses are unchanged.
+  - Constitutive luck (L155): a concession, with no refutation claimed.
+- **Deferred**: item (3) primitive parity was minted as "P2: `apex/consciousness-and-agency` DEFERRED REMAINDER: L101 accepts …" with `Status: blocked` and `Blocked-by: apex length`. It was inserted before `## Completed Tasks`. parse_tasks active went 232 → 233, and the status parses as BLOCKED with notes in full. Its preferred route is a pointer to L115's existing "primitive whose modal structure is owed" concession.
+- **Live siblings, not edited (out of scope)**: `apex/living-with-the-map` L96 says "character is partly self-created" (that page has 5 "constitutive" hits elsewhere; check for a concession nearby). No copies of the L83, L125 or L173 OLD strings exist outside this apex in live or archive/. The only positions/ mention of Soon is P-A3's "~60%", which is already attributed.
+- **Length**: 4,930 → 4,949 by analyze_length (+19, exactly the task budget). Headroom left for task (4) is 4,999 − 4,949 = 50, i.e. its 40 plus the 10-word margin.
+- **Published**: yes
 
 ## 07:31 - optimistic-review
 - **Status**: Success
