@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-24T08:09:40.226657'
+ai_modified: '2026-10-25T08:09:12.477498'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-24'
+date: '2026-10-25'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-24 08:09:40.226657+00:00
-modified: '2026-10-24'
+lastmod: 2026-10-25 08:09:12.477498+00:00
+modified: '2026-10-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-25: Block's Harder Problem: The Map Faces It Too
+
+Is Star Trek's Data conscious? Ned Block says that for a being functionally like us but physically unlike us, we lack even a conception of what would settle it. New article: this fits dualism without evidencing it, and the Map faces the same problem.
+
+**Type**: new-article  
+**Link**: [blocks-harder-problem](/topics/blocks-harder-problem/)
+
+---
+
 ### 2026-10-24: Levy: Blame Needs Consciousness, but Not the Kind Zombies Lack
 
 Neil Levy argues blame requires consciousness of what makes an act wrong, but he means information available to the person, which he says zombies have in full. That fits the Map's claim without evidencing dualism, and exposes a tension in its own pages.
@@ -199,15 +208,6 @@ Kant held that the bare 'I think' proves no simple, persisting soul. A new page 
 
 **Type**: new-article  
 **Link**: [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/)
-
----
-
-### 2026-10-03: Which Arguments Against Physicalism Reach Which Physicalist?
-
-Chalmers sorts physicalists into Type-A, B and C. A new page routes the Map's replies to each and lets Type-B answer back. Replies that press A and C favour Type-B as much as dualism; against Type-B, the live opponent, the Map's case is only 'compatible'.
-
-**Type**: new-article  
-**Link**: [type-a-type-b-and-type-c-physicalism](/concepts/type-a-type-b-and-type-c-physicalism/)
 
 ---
 
