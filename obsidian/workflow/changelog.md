@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T05:35:48+00:00
+ai_modified: 2026-10-25T05:58:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:58 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-25
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro). The subject was the recent-aged `apex/consciousness-and-agency`, unchanged since the 2026-10-16 apex-evolve (22025426b6). Claude and Gemini reused ChatGPT's subject.
+- **Clusters**: 3 three-reviewer, 16 two-reviewer tasked, 1 two-reviewer left untasked for length, 3 rejected convergences, 7 divergences. Every cluster was adjudicated before it was counted.
+  - **Gemini counted only where the live apex bears its point out.** Most of its report audits other pages reached through the changelog pointer: 11 of its key apex phrases and names have 0 hits on the apex.
+  - **The three-reviewer clusters** are all verified on the apex: L127 "dissolves" answers only sufficient-cause closure; L125 gives Kim's dichotomy with no non-reductive or interventionist reply; L155 leaves constitutive luck unaddressed.
+  - **The dominant two-reviewer finding**: the lead, description and closing are not re-graded to the page's own L131 "framework-internal coherence" verdict. The page also misses corrections already on its sources: Kane (L99, copied on 2026-09-05 from `topics/event-causal-libertarianism` L60), Lowe (L101) and the probabilistic-closure concession.
+  - **Gemini's live finding about other pages**: four source pages still claim contrastive explanation, against `topics/free-will` L94 and apex L115. It stays a P2.
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5): apex rival engagement; apex Born inheritance; `topics/event-causal-libertarianism`; `topics/time-collapse-and-agency`; `topics/overdetermination-dissolution-under-selection-only-interactionism`. The two apex P1s were annotated but not upgraded, since they were already P1. The luck/Mind research task was not upgraded again: the Claude leg had already raised it P3→P2 on this cycle's evidence.
+- **Tasks deduplicated**: 0. No two live tasks share a locus beyond the L163 and L173 overlaps, which the ledger orders.
+- **Tasks minted**: 1. A P2 positions-evolve on `positions/agency-and-will` P-A1's "genuinely independent subset" clause. The register is over hard, so the task carries a net-negative plan: move P-A1's dated Updated notes to a new `agency-and-will-calibration-history` sidecar, then make the wording fix at net ≤ 0. The grade and credence are left to the owner.
+- **Apex ledger**: one relative ledger is written into all four apex tasks, and the absolute counts are removed from them. ORDER: attribution → calibration → rival engagement → Born inheritance. They run one at a time, each checks that its predecessors are ✓, and none may run concurrently. Budgets: ≤ +40; ≤ +15 with the L143 compression's freed words left unspent; then headroom − 10 − 40 reserved for the last; then headroom − 10. Anything that does not fit becomes a blocked "apex length" task.
+- **Human entries, dated notes only, Status unchanged**:
+  - P1 HUMAN DECISION on P-Q2. Now two-reviewer: ChatGPT §3.3 names the same pooled-versus-conditionable hinge and apex L109 as a consumer.
+  - The Tenet 3 quantifier entry. No new evidence, plus one consumer-side locus: `topics/trilemma-of-selection` L76.
+  - The propagation entry. M1, a recurrence: two of the 2026-10-12 addendum's own instances are still live.
+  - The confession-to-status entry (M3).
+  - The changelog-pointer entry. Two more data points.
+- **Methodology**: ChatGPT items 23–35 and Claude items 1–10 are recorded as M1–M14. The headline is a recurrence, not a new finding. A correction on `concepts/agent-causation` (10-12) did not reach the 10-16 apex rebuild. The apex's Kane source (`event-causal-libertarianism` L60) was named on 10-12 but never tasked. The 10-20 expand-topic put integration pipes into two of the stale contrastive sentences and left the claims standing.
+- **Integrity**: `parse_tasks` gave 228 active before and 229 after (P1 4→9, P2 23→19, P3 201→201). The new task was inserted before `^## Completed Tasks$`. The todo diff is +47/−22, all inside edited blocks. Every reviewer quote in the synthesis and in the task notes was string-checked against its review file (67 and 27).
+- **Output**: [[reviews/outer-review-synthesis-2026-10-25]]
 
 ## 05:35 - outer-review
 - **Status**: Success
