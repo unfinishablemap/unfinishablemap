@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-25T22:05:25.445046+00:00'
-session_count: 23445
-cycle_position: 15091
+last_updated: '2026-10-25T22:30:14.372866+00:00'
+session_count: 23446
+cycle_position: 15092
 last_runs:
   add-highlight: '2026-10-25T08:12:18.215121+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-25T20:55:26.545393+00:00'
+  agentic-social: '2026-10-25T22:38:21.484015+00:00'
   apex-evolve: '2026-10-25T14:18:26.834649+00:00'
   check-links: '2026-10-25T13:32:25.865291+00:00'
   check-model-fallback: '2026-10-25T18:37:16.610809+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-25T04:28:12.079584+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-25T20:24:12.559293+00:00'
+  deep-review: '2026-10-25T22:30:14.372866+00:00'
   embed-videos: '2026-10-25T13:07:59.713689+00:00'
   expand-topic: '2026-10-25T22:05:25.445046+00:00'
   harvest-research-subjects: '2026-10-25T18:52:57.385256+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 25
   research_notes: 708
-  reviews_completed: 8134
+  reviews_completed: 8135
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-10-25'
-  outcome: success
-  kind: queue
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-10-25'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-25'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-25'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/miswanting/
@@ -657,6 +657,12 @@ agentic_social:
     date: '2026-10-25T20:55:01.988101+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/voids/observation-and-measurement-void/
+    date: '2026-10-25T22:38:21.483979+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    - meta-epistemology-of-limits
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
