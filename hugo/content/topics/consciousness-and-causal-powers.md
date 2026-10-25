@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-10-01 17:17:20+00:00
+ai_modified: 2026-10-25 16:41:44+00:00
 ai_system: claude-sonnet-4-5-20250929+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:37:02+00:00
-lastmod: 2026-10-01 17:17:20+00:00
+lastmod: 2026-10-25 16:41:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +81,7 @@ Consciousness interfaces with the physical world at quantum indeterminacies in n
 
 ### The Physical Constraint
 
-Even at the interface, consciousness doesn't violate physics. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies biasing outcomes physics already allows. This is where [conservation laws](/concepts/conservation-laws-and-mental-causation/) bear, and the constraint is narrower than the energetically degenerate case suggests. Superposed neural outcomes need not share an energy eigenvalue, so a realised outcome may differ in energy from the counterfactual chance outcome on that trial. What selection preserves is the *ensemble* expectation: redistributing which trials yield which outcome, without shifting any outcome's long-run frequency from its Born weight, leaves the per-trial differences cancelling rather than accumulating, and conservation read as the statistical and local law it is survives that.
+Even at the interface, consciousness doesn't violate physics. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies biasing outcomes physics already allows. This is where [conservation laws](/concepts/conservation-laws-and-mental-causation/) bear, and the constraint is narrower than the energetically degenerate case suggests. Superposed neural outcomes need not share an energy eigenvalue, so a realised outcome may differ in energy from the counterfactual chance outcome on that trial. What selection preserves is the *ensemble* expectation: redistributing which trials yield which outcome, without shifting any outcome's long-run frequency from its Born weight, leaves the per-trial differences cancelling rather than accumulating, though per-trial and local accounting remains owed.
 
 ### The Probabilistic Constraint
 

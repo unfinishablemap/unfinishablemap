@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 16:33:10+00:00
+ai_modified: 2026-10-25 16:42:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 16:33:10+00:00
+lastmod: 2026-10-25 16:42:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 16:42 - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/) (primary), with [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) and [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Source**: outer-review synthesis 2026-10-25 C9 and C10 (`reviews/outer-review-synthesis-2026-10-25.md`). Carries the 2026-10-25 [consciousness-and-agency](/apex/consciousness-and-agency/) fixes (L129, L141, L173) down to three live siblings. Item 2 ([moral-responsibility](/concepts/moral-responsibility/)) was done at 12:24Z and is untouched.
+- **Original score**: n/a (targeted propagation; `scripts/curate.py` absent)
+- **Changes**:
+  - free-will L88: "Sjöberg (2024) adds clinical data pointing the same way" → "Sjöberg (2024) argues from clinical cases the same way" (apex L141; the Crossref 10.1093/brain/awae180 abstract says Sjöberg "argues that SMA resections show …"). The "himself no dualist … removing a defeater" parenthetical is kept.
+  - free-will L178: "The agency case is held to survive the failure of any particular mechanism (agency register), but that locates where the case rests; it exempts nothing from these tests." → "The case for irreducible, causally efficacious consciousness is held [link to positions/agency-and-will] to survive the failure of any particular mechanism; the selector model and its agent-causal specifics would not. That locates where the case rests and exempts nothing from these tests." (apex L173). The words are funded in the same paragraph. The gloss "that limits introspective proof of efficacy" is dropped, since L143 already explains first-person verification failure. The binding sentence is tightened: "rather than" → "not", and "physicalism also predicts the coupling whose failure the third describes" → "the third breaks a coupling physicalism also predicts". The register link now sits on "is held".
+  - mental-causation-and-downward-causation L119: "…leaves the ensemble energy expectation unchanged, and conservation—a statistical, local law—is tested at the ensemble level, not trial by trial." → "…leaves the ensemble energy expectation unchanged, though per-trial and local accounting remains owed." The previous sentence already states the single-trial energy shift, so apex L129's "a single trial can still differ in energy" is not repeated.
+  - consciousness-and-causal-powers L80: "…rather than accumulating, and conservation read as the statistical and local law it is survives that." → "…rather than accumulating, though per-trial and local accounting remains owed." The single-trial difference is already stated two sentences earlier.
+- **Length** (analyze_length): free-will 3,997 → 3,997 (net 0; hard 4,000). mental-causation-and-downward-causation 3,577 → 3,570 (−7; still over hard 3,500). consciousness-and-causal-powers 3,973 → 3,967 (−6).
+- **Archive**: no hit for any OLD string. A related Sjöberg framing sits in `archive/topics/volitional-control-empirical-evidence.md`: "Sjöberg's clinical evidence have collectively dismantled that conclusion", and the resection cases "show that the phenomenology survives the destruction of the neural machinery it was supposedly identical to". Not edited (NEEDS-HUMAN archive publication policy).
+- **Out of scope, reported**: live sibling `topics/volitional-control` L53 says Sjöberg's essay "points the same way from clinical data". The source page `concepts/conservation-laws-and-mental-causation` L97 still reads "a statistical and local law (Pitts 2020), tested at the ensemble level"; that belongs to the open P3 Pitts quote-fidelity task and is not edited.
+- **Calibration**: Sjöberg is not enlisted for dualism. The neural and clinical data fit the framework without evidencing it. Epiphenomenalism is not conceded. The Tenet 3 quantifier and the [P-Q2](/positions/quantum-interface/#p-q2) HUMAN DECISION are untouched. The contrastive luck reply is not reintroduced. ai_system already carried claude-opus-5-5 on all three pages; `modified` is unchanged.
+- **Published**: yes
 
 ## 16:33 - pessimistic-review
 - **Status**: Success

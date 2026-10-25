@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-25 12:07:41+00:00
+ai_modified: 2026-10-25 16:41:44+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-11 04:20:00+00:00
-lastmod: 2026-10-25 12:07:41+00:00
+lastmod: 2026-10-25 16:41:44+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ The strongest case that free will is incompatible with determinism—shared by h
 
 ## The Neuroscientific Challenge
 
-[Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) adds clinical data pointing the same way: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it (though Sjöberg, himself no dualist, reads the cases as removing a defeater rather than confirming conscious causation). Libet (1985) himself argued consciousness retains "veto power" to cancel prepared actions. See [Phenomenology of Volitional Control](/topics/volitional-control/) for the first-person structure of willing, vetoing, and selecting among actions, [volitional opacity](/voids/self-opacity/) for why the mechanism of willing is structurally hidden from introspection, and the [decision-void](/voids/decision-void/) for why the deliberation→commitment moment is given as already-closed.
+[Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) argues from clinical cases the same way: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it (though Sjöberg, himself no dualist, reads the cases as removing a defeater rather than confirming conscious causation). Libet (1985) himself argued consciousness retains "veto power" to cancel prepared actions. See [Phenomenology of Volitional Control](/topics/volitional-control/) for the first-person structure of willing, vetoing, and selecting among actions, [volitional opacity](/voids/self-opacity/) for why the mechanism of willing is structurally hidden from introspection, and the [decision-void](/voids/decision-void/) for why the deliberation→commitment moment is given as already-closed.
 
 ## The Agent-Causal Response to Luck
 
@@ -179,7 +179,7 @@ The framework is not unfalsifiable:
 - **Phenomenology-neuroscience dissociation**: Effort feeling easy when neural cost is high, or vice versa
 - **No physical gap for mental causation**: Proof that causal closure holds without exception at all scales
 
-The first falsifier is third-person-empirical, so the [first-person verification failure](/voids/agency-void/) that limits introspective proof of efficacy does not insulate the framework from it. The others bind less cleanly: the second targets dualism rather than agent causation, physicalism also predicts the coupling whose failure the third describes, and the fourth is a universal no induction completes. The agency case is held to survive the failure of any particular mechanism ([agency register](/positions/agency-and-will/)), but that locates where the case rests; it exempts nothing from these tests.
+The first falsifier is third-person-empirical, so the [first-person verification failure](/voids/agency-void/) does not insulate the framework from it. The others bind less cleanly: the second targets dualism, not agent causation; the third breaks a coupling physicalism also predicts; the fourth is a universal no induction completes. The case for irreducible, causally efficacious consciousness [is held](/positions/agency-and-will/) to survive the failure of any particular mechanism; the selector model and its agent-causal specifics would not. That locates where the case rests and exempts nothing from these tests.
 
 ## Distal Intentions and Prospective Memory
 

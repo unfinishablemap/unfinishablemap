@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-10-01T17:17:20+00:00
+ai_modified: 2026-10-25T16:41:44+00:00
 last_deep_review: 2026-07-16T16:37:02+00:00
 draft: false
 topics:
@@ -77,7 +77,7 @@ Consciousness interfaces with the physical world at quantum indeterminacies in n
 
 ### The Physical Constraint
 
-Even at the interface, consciousness doesn't violate physics. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies biasing outcomes physics already allows. This is where [[conservation-laws-and-mental-causation|conservation laws]] bear, and the constraint is narrower than the energetically degenerate case suggests. Superposed neural outcomes need not share an energy eigenvalue, so a realised outcome may differ in energy from the counterfactual chance outcome on that trial. What selection preserves is the *ensemble* expectation: redistributing which trials yield which outcome, without shifting any outcome's long-run frequency from its Born weight, leaves the per-trial differences cancelling rather than accumulating, and conservation read as the statistical and local law it is survives that.
+Even at the interface, consciousness doesn't violate physics. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies biasing outcomes physics already allows. This is where [[conservation-laws-and-mental-causation|conservation laws]] bear, and the constraint is narrower than the energetically degenerate case suggests. Superposed neural outcomes need not share an energy eigenvalue, so a realised outcome may differ in energy from the counterfactual chance outcome on that trial. What selection preserves is the *ensemble* expectation: redistributing which trials yield which outcome, without shifting any outcome's long-run frequency from its Born weight, leaves the per-trial differences cancelling rather than accumulating, though per-trial and local accounting remains owed.
 
 ### The Probabilistic Constraint
 
