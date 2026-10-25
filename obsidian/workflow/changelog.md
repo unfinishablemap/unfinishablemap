@@ -1,9 +1,74 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T08:05:07+00:00
+ai_modified: 2026-10-25T08:32:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 08:31 - refine-draft
+- **Status**: Success
+- **File**: [[topics/event-causal-libertarianism]]
+- **Original score**: n/a. This was a targeted P1 attribution pass on the root locus of synthesis cluster C4 (Kane); `scripts/curate.py` is absent.
+- **Review files**: reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro.md, reviews/outer-review-2026-10-25-claude-fable-5-1.md. Each OLD string was counted live at 1 before editing.
+- **Changes**:
+  - L60, the root locus. Two clauses were removed: "Kane wants the extra factor *without* agent-causation." and "yet he also declines to posit an agent-*substance* cause".
+    - The paragraph now states Kane 2024's AC/EC view in the words of the Crossref ch. 5 abstract.
+    - It then says: "Kane wants the extra factor without an agent-*substance* of the classical kind, and he affirms agent causation of a naturalised kind". This is followed by Kane's p. 156 "brings it about that the appropriate mental states or events cause the decision" (quoted in Palmer 2025) and Palmer's tentative Dretskean structuring-cause reading.
+    - "sits awkwardly at the seam" became "sits at the seam …, and his final book counts it as a fourth species". The ch. 5 abstract distinguishes AC/EC "from the other three familiar libertarian views".
+    - The label clause and the SEP clause are kept.
+  - Why "of the classical kind" rather than the brief's bare "without an agent-substance". Kane p. 84 (quoted in Palmer 2025) says free action "must bring in reference to agents, qua substances, understood as complex dynamical systems". By Kane's own words a bare "without an agent-substance" is false. The qualifier marks the difference from the classical wing's directly settling substance-cause.
+  - L62, a new paragraph replacing L60's unattributed "Critics reply that this is exactly what cannot be had …".
+    - The critics are now named, and both were verified at the publisher: Haji (2022) and Palmer (2025).
+    - Palmer reports that Kane 2024 drops the doubled effort, agreeing with critics such as Clarke (p. 72, per Palmer). On the single-effort account a failed effort leaves no choice at that time.
+    - Following Haji, Palmer finds the chance worry in this revision too.
+    - The old clause "no substance-cause is admitted to take over" was dropped, because Kane admits agents qua substances.
+  - L46. "In the mature formulation (from 1999 onward) Kane "doubles" the effort" became "From 1999 until his final book Kane "doubled" the effort". Kane 2024 abandons the doubling, so "mature formulation" was stale.
+  - L42. "its proponents include Robert Kane," became "… Robert Kane (as his earlier work was usually classed; see `[[#a-hybrid-at-the-seam|below]]`),". The roster of the reductive wing contradicted L60's "no event-causal *reduction*". The ch. 5 abstract says his prior view "was usually designated event-causal".
+  - L48. "on a purely event-causal budget" became "on what is usually read as a purely event-causal budget".
+  - L86 (formerly L84). "the event-causal attempt … *without* agent-causation succumbs" is KEPT, because it describes the wing as L42 defines it.
+    - The brief allowed scoping it to agent-*substance* causation. That would widen the Map's luck verdict to cover Kane, which amounts to claiming a refutation of him.
+    - Instead, "agent-causation is required" became "agent-causation, on the Map's substance-bearing reading, is required".
+    - "the strongest event-causal replies" became "the strongest rival replies".
+    - A new closing sentence was added: "Kane's AC/EC view is a naturalistic rival on that last point: it claims to close the gap with agent causation of a naturalised kind and no agent-substance of the classical kind, and the Map takes a different step without claiming to have refuted it."
+  - References: added Kane 2024 (with subtitle and DOI), Haji 2022 and Palmer 2025.
+  - Grep for unscoped "event causation cannot" and "cannot" wording: L60's "cannot be had" was the only hit, and it is gone.
+- **Verification**:
+  - Kane 2024 at Crossref, 10.1093/oso/9780197751404.001.0001: *The Complex Tapestry of Free Will*, subtitle "A Philosophical Odyssey", Robert Kane, OUP, online 2024-08-22, print 2024-11-26.
+    - Ch. 5 is 10.1093/oso/9780197751404.003.0005, "The Intelligibility Question (Part II)", pp. 80–112.
+    - All three L60 quotes are verbatim in its abstract.
+  - Palmer, NDPR 2025.03.5. The raw text was fetched from ndpr.nd.edu.
+    - The p. 156 quote is verbatim.
+    - Also confirmed in the text:
+      - the p. 84 "agents, qua substances" passage;
+      - the dropped doubling ("Kane now agrees (72)");
+      - the single-effort account (62–64; 94–96);
+      - the luck worry, credited to Haji;
+      - the structuring reading ("Perhaps … Dretske's (1988)"). It is tentative, hence "tentatively".
+    - NDPR's header gives the subtitle as "A Free Will Odyssey". Crossref's "A Philosophical Odyssey" is used.
+  - Haji 2022 at the publisher (pfk.qom.ac.ir article 2360): 24(3), 115–134.
+    - DOI 10.22091/jptr.2022.8297.2723 resolves to that article.
+    - The alternate DOI that some bibliographies give, 10.22091/JPTR.2021.7186.2581, resolves to a different article (2029).
+    - The quoted abstract wording is verbatim.
+  - Fischer's *Philosophical Review* 135(2) notice exists (Crossref 10.1215/00318108-12323344). Its "rather surprising revelation" wording was NOT verified, so the notice is not used.
+  - Anchor `a-hybrid-at-the-seam` exists as an id in `hugo/public`, and `heading_anchor_slug` agrees.
+  - The fences from the 10-20 deep review are untouched: Lowe is a border case; agent-causal views answer the disappearing-agent form only; the interface answers *where*.
+- **Engagement modes** (editor-internal):
+  - Kane AC/EC: Mode Three. He is a naturalistic rival at the naturalism/dualism boundary. The page reports his view together with its verified critics, and the Map claims no refutation.
+  - Haji and Palmer: their critiques are reported as source exposition, and neither is enlisted for the Map's dualism.
+- **Live siblings, not edited (out of scope)**:
+  - `topics/authorship-of-action-divergence` L65 credits "makes effort toward each" to "(Kane 1996; Kane 2024)". Kane 2024 drops the doubling.
+  - `concepts/quantum-indeterminacy-free-will` L89 has "makes effort toward each" and "the dual-efforts reply", both undated.
+  - Apex L99 still says "without an agent-substance", which faces the same p. 84 qualification.
+  - The stale Kane co-optation in `research/quantum-mechanics-free-will-2026-01-16` is already a P2 task.
+- **Archive (not edited; NEEDS-HUMAN publication policy)**:
+  - `archive/concepts/luck-objection.md`: L75 "This convergence suggests the event-causal/agent-causal divide may be less fundamental than thought"; L159 "Kane's 2024 convergence"; L73 the doubled effort.
+  - `archive/concepts/concept-of-free-will.md` L62: an unscoped "fails to deliver genuine authorship".
+- **Coordination**: a one-line pointer was appended to the Notes of the P3 task on `concepts/source-versus-leeway-incompatibilism`. Its draft closing ("the event-causal versus agent-causal question") no longer separates the Map from Kane. parse_tasks active count: 232 before, 232 after.
+- **Length**: 2,858 → 3,132 by analyze_length (+274) against topics hard 4,000.
+  - Of the growth, about +222 is prose and about +52 is reference apparatus.
+  - The soft 3,000 now fires.
+  - The growth exceeds the brief's +40 estimate because Kane's own p. 84 wording forced the qualifier, and the verified critics had to be stated.
+- **Published**: yes
 
 ## 08:05 - refine-draft
 - **Status**: Success
