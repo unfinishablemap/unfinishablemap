@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T19:28:54+00:00
+ai_modified: 2026-10-25T20:02:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 20:02 - research-topic
+- **Status**: Success
+- **Topic**: The transparency method of self-knowledge (Evans's outward-looking route and its successors)
+- **Output**: [[research/transparency-method-of-self-knowledge-2026-10-25]]
+- **Sources consulted**: 24 cited. Eight were opened at primary or full-text strength: SEP Introspection; SEP Self-Knowledge; Evans 1982, Moran 2001 and Gallois 1996 (archive.org FTS); Byrne 2005 (scan); Byrne 2011 (author's manuscript); Cassam 2014 (full text). The rest are at Crossref/OpenAlex metadata or abstract strength.
+- **Verdict**: `recommended_action: article`, target `concepts/transparency-method-of-self-knowledge` (slug free; concepts 365/370). The hosts cannot absorb it: phenomenal-authority is 4,519 against a hard limit of 4,000, introspection 3,491/3,500, and self-blindness takes only a ~60-word bridge. The note drafts three integration passages with measured budgets: phenomenal-authority L144 at −6 (length-neutral), self-blindness +68 and first-order-representationalism +24.
+- **Key findings**:
+  - **Coiners.** Evans uses neither "transparency" nor "ascent routine" (0 OCR hits each). "Transparent" in this sense is Edgley's (1969, per Moran 2001 p. 61); "ascent routine" is Gordon's; "puzzle of transparency" is Byrne's (2005 p. 95); "Transparency Method (TM)" is Cassam's label.
+  - **Wording trap.** SEP misquotes Evans ("into the position"); the original reads "in a position".
+  - **L144 defects.** phenomenal-authority L144 misplaces the limit (Byrne 2005 p. 99: transparency "covers belief and perception") and imputes the Harman/Tye impossibility thesis to the method.
+  - **Divergence point.** Byrne 2026's transparent theory of pain implies there are hallucinations of pain, which is the Map's divergence point.
+  - **Bridge.** Byrne 2005 §7.4 calls BEL "a version of Shoemaker's 'broad perceptual model'", which links to self-blindness.
+  - **Mislabel.** The task's "Harman/Tye sense" page is Metzinger's; the Harman/Tye sense lives on first-order-representationalism.
 
 ## 19:28 - refine-draft
 - **Status**: Success
