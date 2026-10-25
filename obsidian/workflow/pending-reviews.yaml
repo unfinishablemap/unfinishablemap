@@ -500,3 +500,32 @@
   subject_articles:
   - apex/consciousness-and-agency.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/7540c3c6-8de1-47d3-bb40-433dc3006667
+  commissioned_at: '2026-10-25T03:11:35.727308+00:00'
+  prompt_summary: Audit apex/consciousness-and-agency (luck, exclusion, citations)
+  target_filename: outer-review-2026-10-25-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
+    a philosophy site committed to five tenets, including that consciousness is irreducible
+    to physical processes and causally influences the physical world. Audit its apex
+    synthesis article Consciousness and Agency: https://unfinishablemap.org/apex/consciousness-and-agency/
+    (last substantively modified 2026-10-16). It argues that consciousness authors
+    action through agent-causal selection among possibilities physics leaves undetermined,
+    grounding free will and moral responsibility. Assess: (1) whether the sections
+    on the luck objection and the exclusion problem survive the strongest compatibilist,
+    physicalist and rival libertarian replies; (2) whether each citation and quotation
+    is accurate and attributed to the right work and author; (3) whether the quantum-selection
+    and time-collapse claims carry appropriate empirical caution; (4) any tenet-protective
+    special pleading; (5) how faithfully it synthesises the source articles it links
+    to. Search indexes lag, so check the changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent edits. Quote the passages you criticise. End your report with a list
+    of concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-and-agency
+  subject_articles:
+  - apex/consciousness-and-agency.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-25-chatgpt-5-6-sol-pro.md
