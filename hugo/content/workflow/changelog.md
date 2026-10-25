@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 14:17:03+00:00
+ai_modified: 2026-10-25 14:57:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 14:17:03+00:00
+lastmod: 2026-10-25 14:57:32+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 14:57 - refine-draft
+- **Status**: Success
+- **File**: [thermal-consciousness-and-the-interface](/topics/thermal-consciousness-and-the-interface/)
+- **Task**: Anchoring audit 2026-10-25 vs [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/). It failed hedge_density (0.93/kw against a 1.72/kw target) and strong_assertions (0.62/kw against a 0.43/kw ceiling).
+- **Original score**: n/a (`scripts/curate.py` absent). Verdict: mixed. One strong hit was a borderline over-reach and the other a false-high. The lexical scan missed two real over-claims, both in the sentences that carry the anchor's thesis.
+- **Strong hit L59** "This shows that the felt quality is constructed rather than transduced". Verdict: scope over-reach. The section opens on a general claim ("thermal experience is centrally constructed"), so the definite "the felt quality" invites a reading about felt thermal quality in general. Read that way, "constructed rather than transduced" contradicts the article's own TRP section, where thermal sensation "begins in" transduction. The grill licenses the scoped claim only. → "In the illusion, then, the felt quality is constructed rather than transduced" (+1 word). L57's "sharpest single datum that…" keeps the general claim at evidential grade.
+- **Strong hit L97** "no thermal datum establishes the quantum-interface mechanism". Negated and calibrated, so a lexical false-high. Left unchanged.
+- **Over-claim fixed, L53** (not flagged). Old: "a perceptual case of phenomenal character that is constitutively evaluative … In thermoception the value cannot be a downstream verdict on a neutral percept, because there is no fixed neutral percept to judge; the phenomenology suggests…". The "cannot" fails on the sentence's own terms: its last clause concedes the discriminative magnitude is recoverable. State-dependence shows only that the valence is not a function of the stimulus alone, and a downstream evaluator could take body state as an input. Cabanac's framework itself separates the pleasure/displeasure sensation from the intensity sensation. This put the sentence above the anchor's grade ("evidence but not proof"; touch as "a … case for the thesis"). New: "a perceptual case for the thesis that phenomenal character can be constitutively evaluative … State-dependence alone does not exclude a downstream verdict, since an evaluator could take body state as an input; the case rests on the phenomenology, which suggests…" (+2 words).
+- **Over-claim fixed, Dualism paragraph** (not flagged). Old: "thermal experience makes vivid that what is felt is not a neutral magnitude with an evaluation appended but a constitutively evaluative state". That asserted the thesis flatly from a datum that does not force it, where the anchor's own Dualism paragraph is conditional. New: "thermal experience gives vivid form to the thesis that what is felt is a constitutively evaluative state rather than a neutral magnitude with an evaluation appended, though the flip fits that thesis without evidencing it" (+10 words). This also drops a "not X but Y" construction.
+- **Checked and at grade**: Relation lead ("accommodates … never as evidence that settles"; no source author enlisted, and the paragraph says outright that they draw no dualist conclusion); Rivals section (sufficiency concession is bedrock per stability notes; Craig is framed as a rival, not an ally); Bidirectional paragraph ("interpretive, not probative"; it makes no "every perception" claim, so the Tenet 3 quantifier stays open, and epiphenomenalism is not conceded); MQI/NMW paragraph (no claim about the Tenet 2 mechanism); the gradient reading (flagged as the Map's inference, asserted by neither source); "fully specified physical mechanism" (a concession to the rival; left alone).
+- **Exemption**: not set. After the edits strong-assertion density is 0.31/kw, under the 0.43/kw ceiling, so only hedge_density still fails. `evaluate_anchoring` flags an anchor only when two or more checks fail, and it returns [] with the exemption forced off across all 9 anchors. An exemption would mask nothing today and would hide a genuine regression later: the flag re-fires only if a second strong-assertion verb is added. No hedges padded. Hedge count 3→4, and the new one is the substantive "could" in the downstream-evaluator clause.
+- **Length**: 3,218 → 3,236 (`analyze_length`, body; +18; 764 under the 4,000 hard gate).
+- **Frontmatter**: ai_modified 2026-10-25T14:56:44+00:00 (live `date -u`); ai_system += claude-opus-5-5 (was absent); `modified` and `last_deep_review` unchanged.
+- **Published**: yes
 
 ## 14:17 - apex-evolve
 - **Status**: Complete
