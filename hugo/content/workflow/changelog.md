@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 06:41 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Original score**: n/a (targeted P1 attribution pass, apex task (1) of the 2026-10-25 combine; `scripts/curate.py` absent)
+- **Review files**: reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro.md, reviews/outer-review-2026-10-25-claude-fable-5-1.md (Kane, Lowe and the L177 ontological-distinctness clause convergent 2/3; Whitehead and Dennett ChatGPT-only)
+- **Changes**: (1) L99 Kane: "Kane (2024) now rejects the event-causal *label* ... yet still declines to posit an agent-substance cause. The Map takes the step Kane will not:" → "The tradition's leading figure now affirms agent and event causation together: Kane's agent-causal/event-causal view (2024), on which the agent is an information-responsive complex dynamical system exercising teleological guidance control, is a naturalistic rival that claims to answer that objection without an agent-substance. The Map takes a different step:". This keeps the antecedent for "It is this step", and the closing substance-bearing-subject clause is untouched. Wording matches `concepts/agent-causation` L71. (2) L177: "objection event causation cannot" → "objection that, on the Map's reading, event causation cannot". (3) L101 Lowe: "goes further" → "generalises the point". Appended "Lowe stops short of the Map's step, though: he holds free volitions wholly uncaused, so the agent-caused choice is the Map's addition ([philosophy of action](/topics/philosophy-of-action-under-dualism/))." (4) L101 Whitehead: cut ", a conclusion Whitehead's process philosophy reaches from different premises". Process philosophy makes processes and actual occasions basic, so it cannot reach "all causation is substance causation". (5) L83 Dennett: "freedom worth wanting" → "free will worth wanting" (the *Elbow Room* subtitle). (6) L177 Dualism: "agent causation requires ..." → "agent causation as the Map construes it requires ..." This scopes the claim against Steward's physical settler, O'Connor's emergent agent-causal power and the new L99 Kane rival. (7) L194 reference: added the subtitle "A Philosophical Odyssey".
+- **Verification**: Kane 2024 ch. 5 abstract was re-fetched from Crossref (10.1093/oso/9780197751404.003.0005). "One can and must affirm both; and neither is reducible to the other", "agent-causal/event-causal, or AC/EC, view" and "information-responsive complex dynamical system, exercising teleological guidance control" are all verbatim; "never a happy designation" is present. The book DOI 10.1093/oso/9780197751404.001.0001 has the subtitle "A Philosophical Odyssey" (OUP, 2024-08-22). The NDPR review of *Personal Agency* was fetched raw: "free actions are completely uncaused acts of will. Because all agents cause by acting, they cannot cause their own volitions on pain of regress (7)" is verbatim.
+- **Engagement modes** (editor-internal): Kane is a boundary marking (naturalism vs dualism), Mode Three; no in-framework refutation is claimed. Lowe is source exposition, not enlisted for dualism.
+- **Not applied (per brief)**: the NDPR "mental causes do not exploit gaps" claim stays a lead. Claude's Saad "182(3)" fix stays REJECTED (Crossref 3-4; L187 kept).
+- **Lead, not edited**: the same NDPR paragraph says "Lowe distances himself from agent causalism by asserting that agents do not cause actions". That sits in some tension with L101's "so agent causation is paradigmatic rather than exceptional". The new appended sentence narrows it but does not resolve it.
+- **Archive**: no archive/ hits for any OLD string.
+- **Length**: 4,921 → 4,960 by analyze_length (+39; brief cap +40); hard 5,000.
+- **Published**: yes
+
 ## 06:20 - deep-review
 - **Status**: Success
 - **File**: [composition-question-rivals](/concepts/composition-question-rivals/)
