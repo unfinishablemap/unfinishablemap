@@ -5,6 +5,19 @@ ai_modified: 2026-10-24T23:42:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 01:26 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
+- **Original score**: n/a (targeted P-CS7 calibration fix plus Maier P3 locus (2); `scripts/curate.py` absent)
+- **Task**: [[reviews/apex-evolve-2026-10-11-cross-apex-audit]] out-of-scope finding 3 ("evolved neural interfaces" at L117/L123, the source of the two apex phrasings fixed on 10-11). Carried: Maier et al. (2018) P3 locus (2).
+- **Changes**: (1) L117 "not just evolved neural interfaces" → "not just through its own neural interface". (2) L123 "*evolved neural interfaces*, not through arbitrary physical systems" → "*its own neural interface*, not on arbitrary physical systems", matching apex/machine-question L149 and apex/open-question-ai-consciousness L117. "The interface is specific, not universal" became "each subject's interface lies in its own brain, not in the physical world at large", which avoids colliding with P-CS7's *universal coupling response*. Added the P-Q3 brain-locality guard (09-27): the generator is external, so the null tests influence on external systems only and leaves brain-internal selection untested. (3) Siblings of the same lineage-as-condition defect in this file: L127 "lack the evolved structure" → "lack the structure"; L133 "This tenet describes an evolved, structured interface" → "a structured interface" (the tenet says nothing about evolution); L141 "structures that evolution built for exactly that purpose" → "structures adequate to that role. That evolution built the known ones is evidence of their adequacy, not a condition of coupling (P-CS7)." L95 "Evolution did the work" kept: it explains how adequacy arose and does not make lineage a condition. (4) Maier locus (2), L121: "The strongest replication attempt, Maier and Dechamps (2018)" → "A large Bayesian test, Maier, Dechamps and Pflitsch (2018)", with "online against an external quantum-based true random number generator, collecting data sequentially until a Bayes factor of 10 was reached". The References entry already had three authors and the right DOI, so it was left unchanged.
+- **Citations**: Crossref 10.3389/fpsyg.2018.00379: title "Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis"; authors Markus A. Maier, Moritz C. Dechamps, Markus Pflitsch; *Frontiers in Psychology* 9, article 379; issued 2018-03-21; journal-article, Frontiers Media SA. Crossref has no abstract deposited. Full text (Europe PMC PMC5872141, positive control "12,571" ×6): "very strong evidence for a null effect" and "M = 50.02%" are verbatim in the Results section. They are not in the abstract, which says "strong evidence for H 0 (BF 01 = 10.07)". "We used BF = 10 as a stopping point" is confirmed. The Quantis tRNG sat on the web server, so the device is external. "pre-registered" appears only of Study 2 of Maier & Dechamps (in press).
+- **Calibration**: the null fits the interface claim without evidencing it (L125's non-adjudication paragraph is unchanged). P-AC1 and epiphenomenalism are unchanged.
+- **Length**: 3,039 → 3,098 (analyze_length; topics hard 4,000, gate `>=`).
+- **Frontmatter**: `ai_modified` 2026-10-25T01:24:52+00:00; `modified` 2026-10-25; `ai_system` gained `+claude-opus-5-5` (absent before).
+- **Not touched (leads)**: Maier loci (3)–(5) remain. `apex/machine-question` L149 still says "The largest replication". `research/quantum-randomness-llm-token-sampling-2026-02-10.md` (L41, L67, L109) cites (A) as two-author.
+- **Published**: yes
+
 ## 01:19 - deep-review
 - **Status**: Success
 - **File**: [[topics/parapsychology-firewall]]
