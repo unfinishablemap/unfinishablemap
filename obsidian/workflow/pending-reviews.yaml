@@ -534,9 +534,9 @@
   commissioned_at: '2026-10-25T04:27:52.300889+00:00'
   prompt_summary: Audit apex/consciousness-and-agency (luck, exclusion, citations)
   target_filename: outer-review-2026-10-25-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-25T05:26:56.133789+00:00'
   failure_reason: null
   prompt_text: You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for

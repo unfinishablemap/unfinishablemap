@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T04:53:20+00:00
+ai_modified: 2026-10-25T05:35:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:35 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro with Deep research, collected via collect-gemini-review with `--model-slug gemini-3-1-pro`. Commissioned at 04:27:52Z and ready at the first collect attempt (05:24Z). The subject was reused from the ChatGPT leg: `apex/consciousness-and-agency`.
+- **File**: [[reviews/outer-review-2026-10-25-gemini-3-1-pro]]
+- **Extraction**: the report is the only `.markdown-main-panel` with an `h1` (29,640 text characters). A KaTeX-aware DOM walk gave 29,846 characters, 4,001 words. It was read out in 1,000-character chunks; three filter-blocked `$BF_{01}$` rows were recovered by sub-chunking and character codes. All thirty window hashes matched the local file. The report ends with the five-weakness list and its verdict. Screenshot scale was 0.665.
+- **Claims verified**: 6 sources confirmed at Crossref or Europe PMC (Vaassen 2021, Vaassen 2024 via the Map's author-corrected framing, Zhong 2020, Archer 2022, Maier & Dechamps 2022, Peterson 2022). 5 partly right. 7 rejected: micro-PK (inverted chronology; the apex has 0 Maier hits), decoherence (apex L91 cites Tegmark), Mudrik 2022 (its abstract says unconscious influences "do not threaten the existence of free will in general"), the reasons-solve-rollback reading of the apex (L115 concedes it), the time's-arrow claim (L145 disclaims it), paradoxical lucidity (0 apex hits), and the "Reject" verdict. One citation is misattributed: "Archer 2021" is Levy 2009, *PQ*.
+- **High-value findings**: 1 new. Gemini quoted sibling pages as the apex, but its rollback critique lands on four source pages (`reasons-responsiveness` L50, `trilemma-of-selection` L74, QIFW L126/L136, `agent-causation` L101). They still claim the contrastive explanation that `topics/free-will` L94 and apex L115 retract.
+- **Tasks generated**: 1 new P2 (refine-draft, `concepts/reasons-responsiveness` plus 3 secondaries; propagates the who-not-why concession).
+- **Convergence notes**: appended to the P1 apex calibration task (L127 "dissolves", with a caution against citing Vaassen 2021 for the probabilistic point), the P2 apex engagement task (items 4–5: interventionism is open to dualists, Vaassen 2024; Zhong 2020), the P2 luck/Mind-argument research task (Archer 2022) and the P2 overdetermination-dissolution task (shared QIFW headroom). The `concepts/mental-effort` L104 sibling was added to the P2 clinical-neuroplasticity task.
+- **Length**: apex 4,921 against hard 5,000, unchanged. No new apex edit was minted, so the 78-word allocation stands.
+- **Not minted**: Mudrik 2022 and Peterson 2022 (leads). For combine-outer-reviews: the Gemini leg audited sibling pages reached through the changelog pointer, so its apex-specific signal is low.
+- **Calibration**: no epiphenomenalism concession; the agent's settling stays owed rather than refuted; no author enlisted for dualism; P-AC1 untouched.
 
 ## 04:53 - outer-review
 - **Status**: Success
