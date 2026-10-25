@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 01:53 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Original score**: n/a (targeted citation-fidelity fix; `scripts/curate.py` absent)
+- **Changes**: L69 "the 2019 NIA-sponsored workshop led by Mashour and colleagues that brought paradoxical lucidity into mainstream neuroscience [4]" → "a 2018 workshop sponsored by the US National Institute on Aging, and the review by Mashour and colleagues that followed it and brought paradoxical lucidity into mainstream neuroscience [4, 9]". Verified at Crossref: Eldadah, Fazio & McLinden (2019) "Lucidity in dementia: A perspective from the NIA", Alzheimer's & Dementia 15(8) 1104-1106, doi:10.1016/j.jalz.2019.06.3915; its abstract says Mashour et al.'s paper "follows a 2018 workshop sponsored by the National Institute on Aging" and names no leader, so the "led by Mashour" credit is dropped. Mashour et al. (2019) 15(8) 1107-1114, doi:10.1016/j.jalz.2019.04.002 is a review (10 authors); ref 4 now lists all ten plus the DOI. Added ref 9 (Eldadah), appended to match the page's existing numbering. Matches sibling `topics/terminal-lucidity-and-filter-transmission-theory` L72. Rest of L69 (Nahm 2012, the 10-11 brevity fix) untouched. Length 3,220 → 3,277 by analyze_length; prose about +13, reference apparatus about +44.
+- **Published**: yes
+
 ## 01:26 - refine-draft
 - **Status**: Success
 - **File**: [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
