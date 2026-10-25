@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 22:02:43+00:00
+ai_modified: 2026-10-25 22:27:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 22:02:43+00:00
+lastmod: 2026-10-25 22:27:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 22:27 - deep-review
+- **Status**: Success
+- **File**: [synaesthesia](/topics/synaesthesia/)
+- **Word count**: 3173 → 3471 (+298; analyze_length; topics soft 3000, hard 4000). Prose 2389 → 2584, Further Reading 266 → 220, References 484 → 638 (five new entries). The growth comes from corrections, partly offset by trims.
+- **Critical issues addressed**: 6. (1) Lead and History said synaesthesia was "identified by Galton's 1880 imagery survey" of "Royal Society fellows". Sachs 1812 is the first account (Jewanski, Day & Ward 2009); Galton popularised it; his survey had 19 FRS among 100 men, and his number-form informants were correspondents. (2) The 92.3%/37.6% consistency figures belong to Baron-Cohen et al. 1993, not the single-case 1987 paper. (3) Wager's "externalist" qualifier had been dropped. (4) Macpherson was cited for the wedge while her chapter argues Gray's case "does not challenge strong functionalism"; her objection is now stated, and the surname is now spelled Macpherson. (5) "Same neural architecture" and "same biological substrate" contradicted the article's own evidence (Tilot's "atypical structural and functional neural connectivity", cross-activation, prior precision); now "species-typical, differing in local wiring", with the Map's interface reading separated from what is measured. (6) Bor 2014's "neurophysiological signatures" do not appear in the paper (the physiological marker was skin conductance).
+- **Medium issues addressed**: 9. Mattingley's result had been reversed ("just as veridical colour does"). "Neuroimaging confirmation" became a mixed record (Hupé et al. 2012 null result), and R&H 2001 is no longer called fMRI. "Uncontested … perceptual" became "broadly accepted". "A dualist framework predicts" became "would locate". The family clustering claim is now cited to Barnett et al. 2008 and no longer overstated. The uncited psychedelics claim is now cited (Luke & Terhune 2013) and "reliably" became "consistently … transient". van Leeuwen "report" became "propose"; the Maurer coiner is now credited. The apex class count changed from four to five (x2). The eclipse dates were corrected.
+- **Enhancements made**: 3. Further Reading tightened; the repetitive cluster paragraph merged; metadata fixed (Gray 7(5), Spector 45(1), Macpherson editors and pages).
+- **Engagements**: Wager/representationism: Mode One, scoped to externalist versions. Functionalism: Mixed; the new Macpherson paragraph states the opponent's best reply. Predictive processing: Mode Three, unchanged.
+- **Unverified**: Cytowic & Eagleman "over sixty forms" was not located by Google Books search-within (control hit; index partial). Left as is.
+- **Out-of-scope for driver**: the same defects live in `apex/phenomenal-variation-within-a-species` (L98 Galton "survey of Royal Society fellows"; L108 Macpherson spelling and stance, projector scoping, Wager without "externalist"; L110 van Leeuwen "find"; refs L195 Gray `7,` and L196 editor order and pages), `voids/synesthetic-void` (L61 Macpherson spelling and stance; L63 Wager without "externalist"; L153 editor order) and `concepts/phenomenology-vs-function-axis` (L63 Wager without "externalist"). `topics/predictive-processing-and-dualism` still has no reciprocal synaesthesia mention (carried from 07-28). No archive/ hits.
+- **Output**: [deep-review-2026-10-25-synaesthesia](/reviews/deep-review-2026-10-25-synaesthesia/)
 
 ## 22:02 - expand-topic
 - **Status**: Success
