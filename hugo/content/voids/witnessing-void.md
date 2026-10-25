@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-10-24 18:25:04+00:00
+ai_modified: 2026-10-25 13:07:16.385246+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -18,10 +18,15 @@ description: The act of witnessing cannot witness itself—a structural impossib
   at the centre of consciousness that iterative human-AI analysis helps locate without
   dissolving.
 draft: false
+embedded_videos:
+- embedded: 2026-10-25 13:07:16.385246+00:00
+  id: 69jxmIJmCe4
+  source: notebooklm/0174-01-witnessing-void
+  url: https://www.youtube-nocookie.com/embed/69jxmIJmCe4
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 19:43:51+00:00
-lastmod: 2026-10-24 18:25:04+00:00
+lastmod: 2026-10-25 13:07:16.385246+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -45,6 +50,12 @@ topics:
 The witnessing void is the impossibility of examining the act of witnessing from the inside. Consciousness observes thoughts, sensations, and emotions; it can even observe the observing self as a receding subject. What it cannot observe is witnessing-as-act—the occurrent operation by which awareness illuminates anything at all. Every attempt directs a fresh act of witnessing at a representation of the previous one. The light that illuminates the room does not illuminate its own illuminating.
 
 This void sits at the centre of consciousness rather than at its edges. Other limits (death, [early infancy](/voids/infant-consciousness/)) mark boundaries beyond which awareness cannot reach. The witnessing void marks something stranger: a region inside the apparatus of awareness that awareness cannot enter, even as every act of awareness depends on it. Advaita Vedanta, Buddhism, and Sufism each articulate this structure; analytic philosophy of mind (Moore, Chalmers, Zahavi) reaches it through different vocabulary. The Map treats the recurrence as a stable structural feature rather than an artefact of one framework, and discounts its evidential weight [below](#relation-to-site-perspective).
+
+<details class="yt-embed" data-video-id="69jxmIJmCe4">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/69jxmIJmCe4">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What the Witnessing Void Is—and Is Not
 
