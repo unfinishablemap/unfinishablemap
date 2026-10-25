@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T05:58:42+00:00
+ai_modified: 2026-10-25T06:20:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 06:20 - deep-review
+- **Status**: Success
+- **File**: [[concepts/composition-question-rivals]]
+- **Word count**: 4136 → 4128 (−8); `hard_warning` by design (accept-as-survey, condense VETOED todo L1111; no condense task minted)
+- **Critical issues addressed**: 2. (1) L125 said the compression answer and the Map's criterion were "observationally matched" over pebbles and molecules, and that the disagreement bites only "where consciousness enters". On the Map's own criterion, as on van Inwagen's, a pebble is a mere collection, while Bird counts it a whole. The text now says the two views are "observationally matched but split on the verdict", and that the disagreement "does not wait for consciousness to enter". Every review since 06-07 had argued only about the margins. (2) L133 cast deflationism as "an extreme application of parsimony" that "does not merely prefer the simpler ontology". Thomasson's raw text (Internet Archive) says she accepts sums, gollyswoggles and incars, and that deniers "do not truly offer a more parsimonious ontology". The sentence was rewritten so deflationism's economy is metaontological, not first-order.
+- **Medium issues addressed**: 3. Lead "argues" → "proposes", matching the topic spoke's hedge "could be". The Bidirectional Interaction tenet is now "read as" giving wholes powers their parts lack (the tenet says only that consciousness causally influences the physical world). Quantifier variance is credited to Putnam's conceptual relativism: Google Books PA68–69 shows Hirsch expounding "Putnam's doctrine of quantifier variance".
+- **Hirsch span**: verbatim. It was re-verified at `rX9MCAAAQBAJ` PA68 with a passing control ("quantifier variance" 8 hits) after a first sweep returned 0 on everything, including a nonsense control. The p. 68 / ch. 5 pp. 68–95 locator is confirmed at Crossref.
+- **Hub-vs-spoke**: consistent with P-I3, P-I4 and P-SC2 and with `composition-and-consciousness`. The hub is weaker than `combination-problem` L129 ("all converge on consciousness"), which is logged as a lead.
+- **Engagements** (editor-internal): Thomasson/Hirsch Mode Three with a Mode Two burden; Bird/Beni mixed (Mode One margins from Bird's own indecision, Mode Three posit); Markosian Mode Two.
+- **Archive mirrored**: `archive/concepts/information-compression-composition.md` L68 ("pebbles and molecules count as wholes on each") and `archive/concepts/metaontological-deflationism.md` L77 (the parsimony sentence). Bodies only.
+- **Leads (not minted)**: `concepts/parsimony-epistemology` L160 has the same "merely preferring the leaner ontology" presupposition; `combination-problem` L129 overstates the convergence; the topic L71 weak-IIT reliance is in tension with P-I3.
+- **Output**: [[reviews/deep-review-2026-10-25-composition-question-rivals]]
 
 ## 05:58 - combine-outer-reviews
 - **Status**: Success

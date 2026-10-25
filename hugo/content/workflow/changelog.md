@@ -1,14 +1,104 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 03:26:13+00:00
+ai_modified: 2026-10-25 06:20:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 03:26:13+00:00
+lastmod: 2026-10-25 06:20:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:20 - deep-review
+- **Status**: Success
+- **File**: [composition-question-rivals](/concepts/composition-question-rivals/)
+- **Word count**: 4136 → 4128 (−8); `hard_warning` by design (accept-as-survey, condense VETOED todo L1111; no condense task minted)
+- **Critical issues addressed**: 2. (1) L125 said the compression answer and the Map's criterion were "observationally matched" over pebbles and molecules, and that the disagreement bites only "where consciousness enters". On the Map's own criterion, as on van Inwagen's, a pebble is a mere collection, while Bird counts it a whole. The text now says the two views are "observationally matched but split on the verdict", and that the disagreement "does not wait for consciousness to enter". Every review since 06-07 had argued only about the margins. (2) L133 cast deflationism as "an extreme application of parsimony" that "does not merely prefer the simpler ontology". Thomasson's raw text (Internet Archive) says she accepts sums, gollyswoggles and incars, and that deniers "do not truly offer a more parsimonious ontology". The sentence was rewritten so deflationism's economy is metaontological, not first-order.
+- **Medium issues addressed**: 3. Lead "argues" → "proposes", matching the topic spoke's hedge "could be". The Bidirectional Interaction tenet is now "read as" giving wholes powers their parts lack (the tenet says only that consciousness causally influences the physical world). Quantifier variance is credited to Putnam's conceptual relativism: Google Books PA68–69 shows Hirsch expounding "Putnam's doctrine of quantifier variance".
+- **Hirsch span**: verbatim. It was re-verified at `rX9MCAAAQBAJ` PA68 with a passing control ("quantifier variance" 8 hits) after a first sweep returned 0 on everything, including a nonsense control. The p. 68 / ch. 5 pp. 68–95 locator is confirmed at Crossref.
+- **Hub-vs-spoke**: consistent with [P-I3](/positions/individuation-and-subjecthood/#p-i3), [P-I4](/positions/individuation-and-subjecthood/#p-i4) and [P-SC2](/positions/subject-census/#p-sc2) and with `composition-and-consciousness`. The hub is weaker than `combination-problem` L129 ("all converge on consciousness"), which is logged as a lead.
+- **Engagements** (editor-internal): Thomasson/Hirsch Mode Three with a Mode Two burden; Bird/Beni mixed (Mode One margins from Bird's own indecision, Mode Three posit); Markosian Mode Two.
+- **Archive mirrored**: `archive/concepts/information-compression-composition.md` L68 ("pebbles and molecules count as wholes on each") and `archive/concepts/metaontological-deflationism.md` L77 (the parsimony sentence). Bodies only.
+- **Leads (not minted)**: `concepts/parsimony-epistemology` L160 has the same "merely preferring the leaner ontology" presupposition; `combination-problem` L129 overstates the convergence; the topic L71 weak-IIT reliance is in tension with [P-I3](/positions/individuation-and-subjecthood/#p-i3).
+- **Output**: [deep-review-2026-10-25-composition-question-rivals](/reviews/deep-review-2026-10-25-composition-question-rivals/)
+
+## 05:58 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-25
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro). The subject was the recent-aged `apex/consciousness-and-agency`, unchanged since the 2026-10-16 apex-evolve (22025426b6). Claude and Gemini reused ChatGPT's subject.
+- **Clusters**: 3 three-reviewer, 16 two-reviewer tasked, 1 two-reviewer left untasked for length, 3 rejected convergences, 7 divergences. Every cluster was adjudicated before it was counted.
+  - **Gemini counted only where the live apex bears its point out.** Most of its report audits other pages reached through the changelog pointer: 11 of its key apex phrases and names have 0 hits on the apex.
+  - **The three-reviewer clusters** are all verified on the apex: L127 "dissolves" answers only sufficient-cause closure; L125 gives Kim's dichotomy with no non-reductive or interventionist reply; L155 leaves constitutive luck unaddressed.
+  - **The dominant two-reviewer finding**: the lead, description and closing are not re-graded to the page's own L131 "framework-internal coherence" verdict. The page also misses corrections already on its sources: Kane (L99, copied on 2026-09-05 from `topics/event-causal-libertarianism` L60), Lowe (L101) and the probabilistic-closure concession.
+  - **Gemini's live finding about other pages**: four source pages still claim contrastive explanation, against `topics/free-will` L94 and apex L115. It stays a P2.
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5): apex rival engagement; apex Born inheritance; `topics/event-causal-libertarianism`; `topics/time-collapse-and-agency`; `topics/overdetermination-dissolution-under-selection-only-interactionism`. The two apex P1s were annotated but not upgraded, since they were already P1. The luck/Mind research task was not upgraded again: the Claude leg had already raised it P3→P2 on this cycle's evidence.
+- **Tasks deduplicated**: 0. No two live tasks share a locus beyond the L163 and L173 overlaps, which the ledger orders.
+- **Tasks minted**: 1. A P2 positions-evolve on `positions/agency-and-will` [P-A1](/positions/agency-and-will/#p-a1)'s "genuinely independent subset" clause. The register is over hard, so the task carries a net-negative plan: move [P-A1](/positions/agency-and-will/#p-a1)'s dated Updated notes to a new `agency-and-will-calibration-history` sidecar, then make the wording fix at net ≤ 0. The grade and credence are left to the owner.
+- **Apex ledger**: one relative ledger is written into all four apex tasks, and the absolute counts are removed from them. ORDER: attribution → calibration → rival engagement → Born inheritance. They run one at a time, each checks that its predecessors are ✓, and none may run concurrently. Budgets: ≤ +40; ≤ +15 with the L143 compression's freed words left unspent; then headroom − 10 − 40 reserved for the last; then headroom − 10. Anything that does not fit becomes a blocked "apex length" task.
+- **Human entries, dated notes only, Status unchanged**:
+  - P1 HUMAN DECISION on [P-Q2](/positions/quantum-interface/#p-q2). Now two-reviewer: ChatGPT §3.3 names the same pooled-versus-conditionable hinge and apex L109 as a consumer.
+  - The Tenet 3 quantifier entry. No new evidence, plus one consumer-side locus: `topics/trilemma-of-selection` L76.
+  - The propagation entry. M1, a recurrence: two of the 2026-10-12 addendum's own instances are still live.
+  - The confession-to-status entry (M3).
+  - The changelog-pointer entry. Two more data points.
+- **Methodology**: ChatGPT items 23–35 and Claude items 1–10 are recorded as M1–M14. The headline is a recurrence, not a new finding. A correction on `concepts/agent-causation` (10-12) did not reach the 10-16 apex rebuild. The apex's Kane source (`event-causal-libertarianism` L60) was named on 10-12 but never tasked. The 10-20 expand-topic put integration pipes into two of the stale contrastive sentences and left the claims standing.
+- **Integrity**: `parse_tasks` gave 228 active before and 229 after (P1 4→9, P2 23→19, P3 201→201). The new task was inserted before `^## Completed Tasks$`. The todo diff is +47/−22, all inside edited blocks. Every reviewer quote in the synthesis and in the task notes was string-checked against its review file (67 and 27).
+- **Output**: [outer-review-synthesis-2026-10-25](/reviews/outer-review-synthesis-2026-10-25/)
+
+## 05:35 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro with Deep research, collected via collect-gemini-review with `--model-slug gemini-3-1-pro`. Commissioned at 04:27:52Z and ready at the first collect attempt (05:24Z). The subject was reused from the ChatGPT leg: `apex/consciousness-and-agency`.
+- **File**: [outer-review-2026-10-25-gemini-3-1-pro](/reviews/outer-review-2026-10-25-gemini-3-1-pro/)
+- **Extraction**: the report is the only `.markdown-main-panel` with an `h1` (29,640 text characters). A KaTeX-aware DOM walk gave 29,846 characters, 4,001 words. It was read out in 1,000-character chunks; three filter-blocked `$BF_{01}$` rows were recovered by sub-chunking and character codes. All thirty window hashes matched the local file. The report ends with the five-weakness list and its verdict. Screenshot scale was 0.665.
+- **Claims verified**: 6 sources confirmed at Crossref or Europe PMC (Vaassen 2021, Vaassen 2024 via the Map's author-corrected framing, Zhong 2020, Archer 2022, Maier & Dechamps 2022, Peterson 2022). 5 partly right. 7 rejected: micro-PK (inverted chronology; the apex has 0 Maier hits), decoherence (apex L91 cites Tegmark), Mudrik 2022 (its abstract says unconscious influences "do not threaten the existence of free will in general"), the reasons-solve-rollback reading of the apex (L115 concedes it), the time's-arrow claim (L145 disclaims it), paradoxical lucidity (0 apex hits), and the "Reject" verdict. One citation is misattributed: "Archer 2021" is Levy 2009, *PQ*.
+- **High-value findings**: 1 new. Gemini quoted sibling pages as the apex, but its rollback critique lands on four source pages (`reasons-responsiveness` L50, `trilemma-of-selection` L74, QIFW L126/L136, `agent-causation` L101). They still claim the contrastive explanation that `topics/free-will` L94 and apex L115 retract.
+- **Tasks generated**: 1 new P2 (refine-draft, `concepts/reasons-responsiveness` plus 3 secondaries; propagates the who-not-why concession).
+- **Convergence notes**: appended to the P1 apex calibration task (L127 "dissolves", with a caution against citing Vaassen 2021 for the probabilistic point), the P2 apex engagement task (items 4–5: interventionism is open to dualists, Vaassen 2024; Zhong 2020), the P2 luck/Mind-argument research task (Archer 2022) and the P2 overdetermination-dissolution task (shared QIFW headroom). The `concepts/mental-effort` L104 sibling was added to the P2 clinical-neuroplasticity task.
+- **Length**: apex 4,921 against hard 5,000, unchanged. No new apex edit was minted, so the 78-word allocation stands.
+- **Not minted**: Mudrik 2022 and Peterson 2022 (leads). For combine-outer-reviews: the Gemini leg audited sibling pages reached through the changelog pointer, so its apex-specific signal is low.
+- **Calibration**: no epiphenomenalism concession; the agent's settling stays owed rather than refuted; no author enlisted for dualism; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) untouched.
+
+## 04:53 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 with Research, collected via collect-claude-review with `--model-slug claude-fable-5-1`. Commissioned at 03:11:35Z. The research card read "Research complete • 245 sources • 14m 44s". The subject was reused from the ChatGPT leg: `apex/consciousness-and-agency`.
+- **File**: [outer-review-2026-10-25-claude-fable-5-1](/reviews/outer-review-2026-10-25-claude-fable-5-1/)
+- **Extraction**: one artifact tile ("Referee Report: Consciousness and Agency Apex Should Be Downgraded to Coherence-Only"), after filtering out "View all". Body stable at 42,315 characters on two samples 10 s apart. The DOM walk gave 50,663 characters, 5,987 words, saved by Blob download. The in-page and local hashes matched (105372967). The report ends with methodology item 10.
+- **Claims verified**: 14 verified, 4 partly right, 8 rejected, 8 left unverified as leads. Rejected: Saad "182(3)" (Crossref says 3-4); the "arrow of time" sibling and "less fundamental than thought", both on archived pages reached through search lag; the Stapp co-optation; Zurek against "generates options"; QIFW's "four elements"; the Pereboom calibration asymmetry; and the reference-list expansion (length gate).
+- **High-value findings**: 7. The apex lacks the Born apex's companion-law and compensation debts (converges with ChatGPT §3.3). Saad's preemption is the Born apex's Route 1, so the "two independent responses" are not independent. The L69 lead is not re-graded to L131 (converges with ChatGPT improvement 1). L115's "who settles" overreaches. The L177 "requires ontological distinctness" clause conflicts with the Map's own Steward page. The clinical article contradicts its own L104 grade. The research note keeps the Kane co-optation.
+- **Tasks generated**: 4 new P2s:
+  - `apex/consciousness-and-agency`: Born inheritance, Saad, L115 and an active-inference pointer. Runs after the three apex tasks and is funded by the L143 compression.
+  - `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`, with `concepts/bidirectional-interaction` as secondary.
+  - `topics/overdetermination-dissolution-under-selection-only-interactionism`, with `concepts/quantum-indeterminacy-free-will` L152 as secondary.
+  - `research/quantum-mechanics-free-will-2026-01-16`.
+- **Convergence notes**:
+  - Appended to five of the six ChatGPT-leg tasks; the `moral-responsibility` task was not raised by Claude.
+  - The P1 attribution task gets the L177 scoping (+4) and an optional Kane subtitle.
+  - The P1 calibration task gets the L69 status clause, the L159 and L135 cuts, and the L143 compress-to-pointer route, with the ~55 freed words reserved for the P2s.
+  - Also appended to the luck/Mind-argument research task (upgraded P3→P2) and to the [P-Q2](/positions/quantum-interface/#p-q2) HUMAN DECISION (information only).
+- **Length**: apex 4,921 against hard 5,000 at 04:49Z, unchanged. Each new apex item states its budget against the shared 78-word headroom, or defers via a blocked task.
+- **Not minted**: methodology items 1–10, left for combine-outer-reviews. [P-A1](/positions/agency-and-will/#p-a1)'s independence wording is now flagged by both reviewers, but the register is over hard, so it goes to positions-evolve.
+- **Calibration**: no epiphenomenalism concession; fits without evidencing; [P-AC1](/positions/ai-consciousness-scope/#p-ac1) untouched; [P-Q2](/positions/quantum-interface/#p-q2) not propagated.
+
+## 04:13 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro, collected via collect-chatgpt-review with `--model-slug gpt-5-6-sol-pro`. It was commissioned at 02:12:15Z and was complete at 03:53Z. The subject was recent-aged `apex/consciousness-and-agency` (`fallback:recent-aged`). Pending entry: `collected`, with 0 collect attempts.
+- **File**: [outer-review-2026-10-25-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-25-chatgpt-5-6-sol-pro/)
+- **Extraction**: one `[data-turn-key]` turn in state `complete`; the single `[data-markdown-text-style]` element (46,636 text characters) was walked to 51,074 characters of markdown. Tool output truncates at about 1,000 characters, so it was read out in 57 chunks of 900. All eleven 5,000-character FNV-1a window hashes, and the whole-body hash `c267e847`, matched the local file. KaTeX triple renderings were collapsed to LaTeX after the hash check. 6,672 words; it ends with the required improvements list (35 items).
+- **Claims verified**: 28 checked. 22 confirmed, two of them only in part (Kane "reversed", the survival claim): Kane 2024 ch. 5 at Crossref; Lowe in the NDPR review; Sjöberg, Saad, Soon 2008 and BaBar 2012 at Crossref; the rest grep-counted on disk. 2 more partly right (Pereboom "empirical", Saad "overstated"). 4 rejected.
+- **High-value findings**: 9.
+  - Kane is misframed at L99 and L177 (agent-causation carried the fix from 10-12; the 10-16 apex-evolve did not). Lowe's uncaused volitions are missing at L101, and Whitehead is credited with Lowe's substance conclusion (L101).
+  - L127 "dissolves" and the L173 survival claim go beyond the page's own L131 coherence-only verdict.
+  - The L129 conservation gloss dissolves per-trial differences by stipulation, against its own source (conservation-laws L97).
+  - L143's "fundamental" time symmetry ignores weak-interaction T violation, and "handshake" is generalised beyond Cramer.
+  - L161 treats provenance-independence as support.
+  - `concepts/moral-responsibility` L73 contradicts its own L145.
+  - `topics/event-causal-libertarianism` L60 "without agent-causation" is contradicted by Kane 2024.
+  - `topics/time-collapse-and-agency` L76 and L197 bundle TSVF with absorber transactions and assert time symmetry.
+  - The L83 compatibilism objection presupposes ultimacy.
+- **Rejected**: Cucu & Pitts used as support for Tenet 2 (L129 already scopes it as dialectical); "Tenet 2 fixes" as a result (it already names a constraint); a lowered prediction falsifier as a requirement (near-perfect stays one-way); neural evidence used for dualism (already conceded at L113). Partly right: Kane "reversed" (his label point has a basis), Pereboom "empirical", Saad "overstated", "every mechanism".
+- **Tasks generated**: 6. P1 ×2 on `apex/consciousness-and-agency`: attribution (≤ +40) and calibration (≤ +15). P2 ×4: the apex's rival engagement under the direct-refutation remit (after the P1s, on remaining headroom); `concepts/moral-responsibility`; `topics/event-causal-libertarianism`; `topics/time-collapse-and-agency` (net ≤ 0). Also an add-on to the open P3 Pitts task (conservation-laws L97 "statistical and local"), and the 2026-10-21 P3 apex Lowe task marked superseded. Methodology items 23–35 were left for combine-outer-reviews; item 23 is the 2026-08-03 propagation pattern again.
+- **Length**: apex 4,921 against hard 5,000 (78 words of headroom), shared across the three apex tasks.
 
 ## 03:26 - refine-draft
 - **Status**: Success
