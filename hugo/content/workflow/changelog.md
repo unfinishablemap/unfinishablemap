@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 17:44:09+00:00
+ai_modified: 2026-10-25 17:58:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 17:44:09+00:00
+lastmod: 2026-10-25 17:58:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:58 - refine-draft
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/) (primary), with [the-divided-will](/topics/the-divided-will/), [akrasia-and-weakness-of-will](/topics/akrasia-and-weakness-of-will/), [agency-incompatibilism](/topics/agency-incompatibilism/), [agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/) and [rollback-argument-against-agent-causation](/concepts/rollback-argument-against-agent-causation/)
+- **Source**: spillover from the 15:42Z propagation (Gemini 3.1 Pro §5.1 weakness 4; `reviews/outer-review-2026-10-25-gemini-3-1-pro.md`). The contrastive luck reply was retracted from reasons-responsiveness, trilemma-of-selection, quantum-indeterminacy-free-will and agent-causation. Six pages still asserted it, rebutted it as the Map's, or cited it as the Map's.
+- **Original score**: n/a (targeted propagation; `scripts/curate.py` absent)
+- **Standard**: `topics/free-will` L94: the reasons make A intelligible when it occurs, but the reasons for B were present in every replay too. The settling is the agent's, "a primitive whose modal structure is owed rather than supplied". The house wording comes from `concepts/reasons-responsiveness` L50, `topics/trilemma-of-selection` L74 and `concepts/agent-causation` L101 point (3). The event-causal/agent-causal split of `concepts/rollback-argument-against-agent-causation` L53/L62 is kept: the event-causal family's contrastive explanation is still conceded, and every agent-causal reply still ends in a primitive. The rollback page's 15:33Z deep-review fixes and its stability notes are untouched.
+- **Changes** (each OLD was confirmed `str.count == 1` before editing; lengths by `analyze_length`):
+  - quantum-consciousness L94: "meets the response that random processes have no phenomenology whereas selection involves felt effort: consciousness selects based on reasons, making choices contrastively explicable." → "meets the response that effortful, reason-guided selection is the agent's doing, though neither effort nor reasons explain [why it went one way](/concepts/rollback-argument-against-agent-causation/)." The felt effort now marks the choice as the agent's and no longer serves as an explanation, since it is present in every replay too. The page's first link to the rollback page is piped onto existing text. 3,687 → 3,686 (concepts hard 3,500; still over, NEEDS-HUMAN length entry unchanged).
+  - the-divided-will L103: "that selection on reasons is contrastively explicable ([agent causation](/concepts/agent-causation/#the-luck-objection), point 3), fails for exactly that contrast." → "that selection on reasons is intelligible and guided ([agent causation](/concepts/agent-causation/#the-luck-objection), point 3, which confines it to non-akratic selection), fails for exactly that contrast. The reason for *x* makes *x* no more intelligible than a chance pick of *x* would be, and the guiding ranking favoured *y*." This re-aims the page at the intelligibility reply. The akrasia argument survives in a sharper form: the thin intelligibility a reason for *x* supplies does not separate selection from chance, and the guidance runs the other way. 3,074 → 3,104.
+  - akrasia-and-weakness-of-will L100: "the reply that selection on reasons is contrastively explicable fails when selection runs against the agent's all-things-considered ranking" → "the reply that selection on reasons is intelligible and guided fails when selection runs against the agent's all-things-considered ranking that would guide it". 3,651 → 3,656 (+5, budget +20).
+  - agency-incompatibilism L78: "Where the Map adds that selection on reasons makes a choice contrastively explicable, … has it as well." → "Where the Map adds that reasons guide selection and make a choice intelligible, … gets the same." The physical-settler point carries over unchanged. 2,831 → 2,830.
+  - agent-causation-and-acting-for-reasons L75: "answer the luck objection by saying that selection on reasons makes the choice contrastively explicable." → "… makes the choice intelligible, and leave [why one option rather than another](/concepts/rollback-argument-against-agent-causation/) to the agent's settling." The bullet now ends "The Map's reply is of the non-contrastive kind." L97: "the contrastive kind its luck reply uses" → "… forgoes". L105: "It costs the contrastive luck reply its natural support, since O'Connor's link is non-contrastive by design, so the Map would need a non-causal ground for that reply or would drop it." → "It leaves the luck reply intact, since that reply already forgoes contrastive explanation and needs only the non-contrastive kind O'Connor's link supplies." The Clarke (2003, ch. 3) and O'Connor ("non-contrastive", L50 abstract) quotes are verbatim and unchanged. L99 ("not on contrastive explicability, which event-causal libertarians already have") was checked and left as is. 3,042 → 3,052.
+  - rollback-argument-against-agent-causation L53: "is an event-causal resource, so the Map's own contrastive luck reply cannot use it to distinguish the agent-causal view" → "is an event-causal resource that cannot distinguish the agent-causal view, and the Map's own luck reply does not rest on it". 2,735 → 2,737.
+- **Calibration**: The luck objection is not conceded to defeat agent causation; reasons still separate selection from randomness non-contrastively, through intelligibility and guidance. Clarke and O'Connor are cited for kinds of explanation only, never for dualism. Archer 2022 is not cited. Epiphenomenalism is not conceded, the Tenet 3 quantifier stays open, and [P-Q2](/positions/quantum-interface/#p-q2) is untouched. `modified` is unchanged on all six. ai_system gains +claude-opus-5-5 on quantum-consciousness only; the other five already carried it.
+- **Engagement modes** (editor-internal): the-divided-will and akrasia, Levy/luck objection: Mode One against the Map's own intelligibility reply, since the akratic case gives a chance pick of *x* the same thin intelligibility; the residue is booked as unanswered. Rollback L53, event-causal family: Mode Three, the contrastive resource conceded. Agency-incompatibilism, Steward: unchanged parity point.
+- **Out of scope, reported (live sweep for "contrastively explicab", "contrastive explanation", "contrastive[- ]explicab")**: There are no Map-voice assertions left in apex/, topics/, concepts/, voids/ or tenets/. The hits that remain:
+  - [agency-and-will](/positions/agency-and-will/) L65, the dated "Updated 2026-10-08" note ("The contrastive-explicability reply does not reach akratic selection"). It is a historical register note, and the register mandates dated updates.
+  - Research note `luck-objection-libertarian-free-will-2026-01-17` L104 ("This makes the selection contrastively explicable after all"), L128 (table row) and L138 ("This provides contrastive explanation"). These are Map-voice assertions in a public note.
+  - Research note `partitioned-and-distributed-minds-as-rivals-to-a-unitary-selector-2026-10-04` L158 quotes the old point 3.
+  - Research note `agent-causation-and-acting-for-reasons-2026-10-20` L136/L137/L317 quotes the old wording as an audit table.
+- **Out of scope, not edited**: `topics/consciousness-and-moral-agency-under-duress` L107 has its own open P2.
+- **Archive** (not edited): `archive/concepts/luck-objection.md` L121 ("The agent's *reasons* provide contrastive explanation that pure chance lacks") and `archive/concepts/concept-of-free-will.md` L66 ("This makes selection contrastively explicable").
+- **Published**: yes
 
 ## 17:43 - refine-draft
 - **Status**: Success

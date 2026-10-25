@@ -4,7 +4,7 @@ description: "Davidson's partition, Ainslie's bargaining interests and multiple-
 created: 2026-10-04
 modified: 2026-10-04
 human_modified:
-ai_modified: 2026-10-22T00:52:08+00:00
+ai_modified: 2026-10-25T17:57:57+00:00
 last_deep_review: 2026-10-04T14:46:46+00:00
 draft: false
 topics:
@@ -100,7 +100,7 @@ On this evidence the selection reading of akrasia supplies a vocabulary and a lo
 
 ## Why Akrasia Sharpens the Luck Objection {#luck-objection}
 
-Davidson's partition keeps the irrational step from being a reasoned act of the whole person, because the non-reason cause runs between structures. A unitary agent-cause has no other structure to put it in. The akratic has a reason for *x* and no reason for *x* rather than *y*. The agent-cause therefore selects against the agent's all-things-considered ranking, not against all of the agent's reasons. The Map's standard reply to the luck objection, that selection on reasons is contrastively explicable ([[agent-causation#the-luck-objection|agent causation]], point 3), fails for exactly that contrast.
+Davidson's partition keeps the irrational step from being a reasoned act of the whole person, because the non-reason cause runs between structures. A unitary agent-cause has no other structure to put it in. The akratic has a reason for *x* and no reason for *x* rather than *y*. The agent-cause therefore selects against the agent's all-things-considered ranking, not against all of the agent's reasons. The Map's standard reply to the luck objection, that selection on reasons is intelligible and guided ([[agent-causation#the-luck-objection|agent causation]], point 3, which confines it to non-akratic selection), fails for exactly that contrast. The reason for *x* makes *x* no more intelligible than a chance pick of *x* would be, and the guiding ranking favoured *y*.
 
 Neil Levy presses the general form of the objection. He argues that "agent-causation must be rational all by itself for the luck objection to be averted" (2011, p. 66), and that if reasons only structure the options, agent-causation "itself is irrational, and therefore arbitrary" (p. 67). On akrasia his conclusion is blunt: "Far from being paradigmatically free actions, akratic actions are lucky actions" (p. 153). Levy argues that on extant libertarianisms, event-causal and agent-causal alike, luck defeats moral responsibility (p. 44).
 

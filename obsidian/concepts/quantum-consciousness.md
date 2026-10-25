@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-10-12T07:13:43+00:00
+ai_modified: 2026-10-25T17:57:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-26T08:33:15+00:00
@@ -91,7 +91,7 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 
 The [[attention-as-interface|premotor theory of attention]] unifies attention and motor control under this framework. Both show effortful phenomenology; the willed-vs-instructed theta contrast is attention-only.
 
-The [[quantum-indeterminacy-free-will|luck objection]]—that quantum indeterminacy is just randomness—meets the response that random processes have no phenomenology whereas selection involves felt effort: consciousness selects based on reasons, making choices contrastively explicable.
+The [[quantum-indeterminacy-free-will|luck objection]]—that quantum indeterminacy is just randomness—meets the response that effortful, reason-guided selection is the agent's doing, though neither effort nor reasons explain [[rollback-argument-against-agent-causation|why it went one way]].
 
 ## Nuclear Spin Quantum Computing (Fisher)
 

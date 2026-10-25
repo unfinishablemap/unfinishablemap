@@ -4,7 +4,7 @@ description: "Van Inwagen's replay says agent causation leaves an undetermined c
 created: 2026-10-25
 modified: 2026-10-25
 human_modified: null
-ai_modified: 2026-10-25T15:33:19+00:00
+ai_modified: 2026-10-25T17:57:57+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -50,7 +50,7 @@ The argument needs a probability as well as openness, and van Inwagen infers it 
 
 László Bernáth and János Tőzsér (2020) sort the replies into three families, and this article follows their taxonomy.
 
-**Accept the chance and call it harmless.** Event-causal libertarians such as Robert Kane, Mark Balaguer and Christopher Evan Franklin deny that the chance undermines control; Franklin (2011) considers "four formulations of the luck argument and find[s] them all wanting". The contrastive explanation these replies use, in which probability-raising reasons account for a choice, is an event-causal resource, so the Map's own contrastive luck reply cannot use it to distinguish the agent-causal view ([[agent-causation-and-acting-for-reasons|acting for reasons]]).
+**Accept the chance and call it harmless.** Event-causal libertarians such as Robert Kane, Mark Balaguer and Christopher Evan Franklin deny that the chance undermines control; Franklin (2011) considers "four formulations of the luck argument and find[s] them all wanting". The contrastive explanation these replies use, in which probability-raising reasons account for a choice, is an event-causal resource that cannot distinguish the agent-causal view, and the Map's own luck reply does not rest on it ([[agent-causation-and-acting-for-reasons|acting for reasons]]).
 
 **Deny that free choices have robust probabilities.** Carl Ginet, E. J. Lowe and Thomas Pink take this line. Buchak argues that the replay's premise about chances "is totally unjustified" (2013), and Leigh Vicens (2016) finds no reason to posit "particular objective probabilities of our free choices". With no fact about what proportion of replays would go each way, the replay has nothing to converge on.
 

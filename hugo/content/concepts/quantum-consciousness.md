@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-12 07:13:43+00:00
-ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1
+ai_modified: 2026-10-25 17:57:57+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[quantum-neural-timing-constraints]]'
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:33:15+00:00
-lastmod: 2026-10-12 07:13:43+00:00
+lastmod: 2026-10-25 17:57:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 
 The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show effortful phenomenology; the willed-vs-instructed theta contrast is attention-only.
 
-The [luck objection](/concepts/quantum-indeterminacy-free-will/)—that quantum indeterminacy is just randomness—meets the response that random processes have no phenomenology whereas selection involves felt effort: consciousness selects based on reasons, making choices contrastively explicable.
+The [luck objection](/concepts/quantum-indeterminacy-free-will/)—that quantum indeterminacy is just randomness—meets the response that effortful, reason-guided selection is the agent's doing, though neither effort nor reasons explain [why it went one way](/concepts/rollback-argument-against-agent-causation/).
 
 ## Nuclear Spin Quantum Computing (Fisher)
 
