@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-09-25 03:31:54+00:00
-ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5
+ai_modified: 2026-10-25 12:58:12+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -17,14 +17,14 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 created: 2026-03-21
 date: &id001 2026-03-21
-description: Three converging clinical evidence streams—OCD neuroplasticity, psychotherapy
-  neuroimaging, and placebo effects—provide suggestive evidence for genuine mental
-  causation, honestly assessed.
+description: OCD neuroplasticity, psychotherapy neuroimaging and placebo effects fit
+  genuine mental causation and remove the epiphenomenalist's defeater, but do not
+  decide between dualism and physicalism.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-13 00:06:37+00:00
-lastmod: 2026-09-25 03:31:54+00:00
+lastmod: 2026-10-25 12:58:12+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
@@ -39,7 +39,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Clinical [neuroplasticity](/concepts/neuroplasticity/) research provides suggestive empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity—though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Several evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, and placebo-stimulated neuroplasticity—converge on a pattern worth taking seriously: intentional mental activity produces lasting changes in neural function through routes that differ from pharmacological (bottom-up) intervention. Meditation evidence, once a fourth pillar, has been weakened by replication failures for structural brain claims. The Unfinishable Map holds that this convergence is *compatible with* and *suggestive of* genuine mental causation, constituting a challenge to [epiphenomenalism](/concepts/epiphenomenalism/) and to the [causal closure](/concepts/causal-closure/) of the physical—while acknowledging that mainstream neuroscience explains the same findings via Hebbian learning and standard synaptic plasticity without invoking non-physical causes.
+Clinical [neuroplasticity](/concepts/neuroplasticity/) research provides suggestive empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity—though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Several evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, and placebo-stimulated neuroplasticity—converge on a pattern worth taking seriously: intentional mental activity produces lasting changes in neural function through routes that differ from pharmacological (bottom-up) intervention. Meditation evidence, once a fourth pillar, has been weakened by replication failures for structural brain claims. The Unfinishable Map holds that this convergence is *compatible with* genuine mental causation and removes the [epiphenomenalist](/concepts/epiphenomenalism/) defeater—that consciousness makes no measurable difference—but does not challenge the [causal closure](/concepts/causal-closure/) of the physical: mainstream neuroscience explains the same findings via Hebbian learning and standard synaptic plasticity without invoking non-physical causes.
 
 ## Self-Directed Neuroplasticity in OCD
 
@@ -121,13 +121,13 @@ This evidence class warrants the same calibration the rest of the article applie
 
 ## Relation to Site Perspective
 
-The clinical neuroplasticity evidence aligns with the Map's [foundational commitments](/tenets/) at multiple points. The [Bidirectional Interaction tenet](/concepts/bidirectional-interaction/) (Tenet 3) asserts that consciousness causally influences the physical world. The evidence streams documented here are *compatible with* this claim and suggestive of it, though they do not constitute proof—the same data admits materialist explanation via standard neural mechanisms.
+The clinical neuroplasticity evidence aligns with the Map's [foundational commitments](/tenets/) at multiple points. The [Bidirectional Interaction tenet](/concepts/bidirectional-interaction/) (Tenet 3) asserts that consciousness causally influences the physical world. The evidence streams documented here are *compatible with* this claim, though they do not favour it over its physicalist rival—the same data admits materialist explanation via standard neural mechanisms.
 
 The Schwartz-Stapp-Beauregard quantum Zeno framework illustrates one way the [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) (Tenet 2) might be realised: attention acts as repeated observation that stabilises preferred neural states without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/). The Map does not commit to this specific mechanism but recognises it as a serious proposal grounded in orthodox quantum theory.
 
-The Map interprets the pathway divergence between psychological and pharmacological intervention as evidence that mental causation is not reducible to physical causation. What bears on [causal closure](/concepts/causal-closure/) is not route divergence per se—which is expected from input anatomy, since different physical inputs enter the nervous system at different points—but the *preferential directional* signature: the Map reads the top-down-versus-bottom-up tendency as compatible with, and suggestive of, a type-difference in causation, while granting that this does not establish the type-difference and that the input-modality deflation is declined rather than refuted.
+The Map regards the pathway divergence between psychological and pharmacological intervention as consistent with mental causation that is not reducible to physical causation. What bears on [causal closure](/concepts/causal-closure/) is not route divergence per se—which is expected from input anatomy, since different physical inputs enter the nervous system at different points—but the *preferential directional* signature: the Map reads the top-down-versus-bottom-up tendency as compatible with, and suggestive of, a type-difference in causation, while granting that this does not establish the type-difference and that the input-modality deflation is declined rather than refuted.
 
-The Map holds that the philosophical arguments for mental causation—the self-stultification problem, the evolutionary case, the knowledge argument reversed—remain stronger than the clinical evidence alone. The clinical findings are suggestive and worth engaging with, but the Map's case for bidirectional interaction does not depend on them. The philosophical literature on mental causation has not yet fully engaged with the clinical neuroplasticity evidence; when it does, honest assessment of evidence quality will be essential for the engagement to be productive.
+The Map holds that the philosophical arguments for mental causation—the self-stultification problem, the evolutionary case, the knowledge argument reversed—remain stronger than the clinical evidence alone. The clinical findings are worth engaging with, but the Map's case for bidirectional interaction does not depend on them. The philosophical literature on mental causation has not yet fully engaged with the clinical neuroplasticity evidence; when it does, honest assessment of evidence quality will be essential for the engagement to be productive.
 
 ## Further Reading
 

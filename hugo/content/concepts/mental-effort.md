@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-23 20:51:11+00:00
+ai_modified: 2026-10-25 12:58:12+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-10-23 20:51:11+00:00
+lastmod: 2026-10-25 12:58:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ The Inzlicht and Kurzban process models provide the serious non-epiphenomenalist
 
 ## Empirical Evidence: Neuroplasticity
 
-[Neuroplasticity research](/concepts/neuroplasticity/) offers suggestive empirical support — convergent across psychotherapy, contemplative practice, and clinical case studies — though the evidence admits materialist reinterpretation.
+[Neuroplasticity research](/concepts/neuroplasticity/) across psychotherapy, contemplative practice, and clinical case studies fits an interactionist reading of effort but fits a materialist one equally well.
 
 CBT produces measurable neural changes following purely psychological treatment. An activation-likelihood-estimation meta-analysis found consistent fronto-limbic activation changes after CBT across psychiatric disorders (Yuan et al., 2022). The broader treatment-mechanism literature characterises this as a dual-process asymmetry — psychological therapies acting primarily top-down on prefrontal regulatory circuits, antidepressants more directly bottom-up on limbic targets — though this divergence remains a working hypothesis rather than a settled finding. [Cognitive reappraisal](/topics/emotion-regulation-and-the-timing-of-control/), costly mainly when begun late, engages prefrontal regulatory circuits that modulate subcortical processing — see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for the full pathway-divergence argument.
 

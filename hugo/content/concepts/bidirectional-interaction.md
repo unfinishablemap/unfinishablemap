@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-20 15:08:48+00:00
+ai_modified: 2026-10-25 12:58:12+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 21:01:20+00:00
-lastmod: 2026-10-20 15:08:48+00:00
+lastmod: 2026-10-25 12:58:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ The conscious/unconscious processing literature reveals systematic asymmetries. 
 
 ### Clinical Neuroplasticity
 
-The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides three converging strands—two empirical, one a proposed mechanism—that are compatible with and suggestive of bidirectional causation, though each admits materialist reinterpretation.
+The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides three converging strands—two empirical, one a proposed mechanism—that are compatible with bidirectional causation, though each admits materialist reinterpretation.
 
 **OCD self-directed neuroplasticity**: Jeffrey Schwartz's four-step cognitive protocol (Relabel, Reattribute, Refocus, Revalue) found that OCD patients using cognitive-behavioural techniques—no medication—showed normalisation of hyperactive caudate nucleus metabolism on PET imaging (Schwartz, 1998). However, the original study included only 18 participants (9 new), its metabolic finding has not been replicated with the same method outside the UCLA group—though Nakatani et al. (2003) did find the same right-caudate decrease after behaviour therapy in 22 patients, measured by blood flow—and it lacked comparison with standard exposure-response prevention therapy. The finding is suggestive but the materialist counter-explanation—that behavioural change produces neural change through standard Hebbian learning—remains viable.
 

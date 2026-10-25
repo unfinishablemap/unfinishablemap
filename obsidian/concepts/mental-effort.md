@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-10-23
 human_modified: null
-ai_modified: 2026-10-23T20:51:11+00:00
+ai_modified: 2026-10-25T12:58:12+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -101,7 +101,7 @@ The Inzlicht and Kurzban process models provide the serious non-epiphenomenalist
 
 ## Empirical Evidence: Neuroplasticity
 
-[[neuroplasticity|Neuroplasticity research]] offers suggestive empirical support — convergent across psychotherapy, contemplative practice, and clinical case studies — though the evidence admits materialist reinterpretation.
+[[neuroplasticity|Neuroplasticity research]] across psychotherapy, contemplative practice, and clinical case studies fits an interactionist reading of effort but fits a materialist one equally well.
 
 CBT produces measurable neural changes following purely psychological treatment. An activation-likelihood-estimation meta-analysis found consistent fronto-limbic activation changes after CBT across psychiatric disorders (Yuan et al., 2022). The broader treatment-mechanism literature characterises this as a dual-process asymmetry — psychological therapies acting primarily top-down on prefrontal regulatory circuits, antidepressants more directly bottom-up on limbic targets — though this divergence remains a working hypothesis rather than a settled finding. [[emotion-regulation-and-the-timing-of-control|Cognitive reappraisal]], costly mainly when begun late, engages prefrontal regulatory circuits that modulate subcortical processing — see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] for the full pathway-divergence argument.
 

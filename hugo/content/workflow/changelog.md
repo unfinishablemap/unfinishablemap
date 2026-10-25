@@ -1,14 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 12:25:05+00:00
+ai_modified: 2026-10-25 12:59:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 12:25:05+00:00
+lastmod: 2026-10-25 12:59:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 12:59 - refine-draft
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) (main), plus [bidirectional-interaction](/concepts/bidirectional-interaction/) (secondary) and [mental-effort](/concepts/mental-effort/) (sibling)
+- **Task**: set one grade across the page, "compatible with both readings", matching the page's own L104 calibration ("compatible with both interpretations … removes a defeater … without thereby establishing dualist causation"). Review file: `reviews/outer-review-2026-10-25-claude-fable-5-1.md` §2.4.3; convergent with ChatGPT improvement 20.
+- **Original score**: n/a (`scripts/curate.py` absent); editor estimate 7/10, held back by grade outliers against L104.
+- **Changes, main** (each OLD confirmed count 1 before editing):
+  - Description: "provide suggestive evidence for genuine mental causation, honestly assessed." → "fit genuine mental causation and remove the epiphenomenalist's defeater, but do not decide between dualism and physicalism." (191 chars; frontmatter, so 0 words by analyze_length)
+  - L38: "*compatible with* and *suggestive of* genuine mental causation, constituting a challenge to [epiphenomenalism](/concepts/epiphenomenalism/) and to the [causal closure](/concepts/causal-closure/) of the physical—while acknowledging that mainstream neuroscience…" → "*compatible with* genuine mental causation and removes the [epiphenomenalist](/concepts/epiphenomenalism/) defeater—that consciousness makes no measurable difference—but does not challenge the [causal closure](/concepts/causal-closure/) of the physical: mainstream neuroscience…" (+1). Both wikilink targets kept; the epiphenomenalism display text now reads "epiphenomenalist".
+  - L124: "The Map interprets the pathway divergence … as evidence that mental causation is not reducible to physical causation." → "The Map regards the pathway divergence … as consistent with mental causation that is not reducible to physical causation." (+1)
+  - Optional L120: "*compatible with* this claim and suggestive of it, though they do not constitute proof—" → "*compatible with* this claim, though they do not favour it over its physicalist rival—" (0)
+  - Optional L126: "The clinical findings are suggestive and worth engaging with" → "The clinical findings are worth engaging with" (−2)
+- **Changes, secondary** (concepts/bidirectional-interaction L95): "compatible with and suggestive of bidirectional causation" → "compatible with bidirectional causation" (−3). The open P3 at L119 ("simpler explanation") was left alone.
+- **Changes, sibling** (concepts/mental-effort L104): "offers suggestive empirical support — convergent across psychotherapy, contemplative practice, and clinical case studies — though the evidence admits materialist reinterpretation." → "across psychotherapy, contemplative practice, and clinical case studies fits an interactionist reading of effort but fits a materialist one equally well." (0)
+- **Length** (analyze_length): main 3620 → 3620 (topics hard 4,000); bidirectional-interaction 3498 → 3495 (concepts hard 3,500); mental-effort 3352 → 3352.
+- **Retained "suggestive"** (main page, each beside a restriction, not swept): L38 lead sentence ("provides suggestive empirical evidence…", in the same paragraph as the new grade sentence); L50 (attributed to "the dualist interpretation", balanced by the materialist reply); L64 ("declined rather than refuted"); L102 ("does not license the inference to a type-difference"); L124 second clause ("while granting that this does not establish the type-difference").
+- **Residual outliers reported, not edited**: concepts/bidirectional-interaction L99 "If robust, this divergence suggests top-down and bottom-up are genuinely different causal types". This grades above the main page's L60/L102, which deny that a route difference licenses a type-difference. The same page's L97 "The finding is suggestive but…" is beside its own restriction.
+- **Reasoning mode**: engagement with the physicalist/Hebbian reading is Mode Three at L38/L120/L124. The page marks the boundary (the data do not adjudicate) and removes the epiphenomenalist defeater, without claiming to refute physicalism in its own terms.
+- **Calibration**: epiphenomenalism not conceded (the defeater removal is now stated in the lead); Schwartz not enlisted beyond the existing text; no "This is not X. It is Y."; no "load-bearing".
+- **Corpus sweep**: none of the five retired phrasings appears on any other live or `archive/` page (positive control: "compatible with both interpretations" hits 17 pages).
+- **Frontmatter**: ai_modified on all three set to 2026-10-25T12:58:12+00:00; `modified` left unchanged, because sync maps it to Hugo `date`. claude-opus-5-5 appended to the main page's ai_system; already present on both concepts pages, so unchanged.
+- **Published**: yes
+- **Not committed**.
 
 ## 12:24 - refine-draft
 - **Status**: Success
