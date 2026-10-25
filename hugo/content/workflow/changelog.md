@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 17:58:53+00:00
+ai_modified: 2026-10-25 18:28:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 17:58:53+00:00
+lastmod: 2026-10-25 18:28:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 18:28 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The self-knowledge wing. The three pages have zero optimistic-review targets and no edits in the last 48 hours: [self-blindness](/concepts/self-blindness/), [alexithymia](/concepts/alexithymia/) and [consciousness-and-the-epistemic-condition-on-responsibility](/topics/consciousness-and-the-epistemic-condition-on-responsibility/). Driver-briefed and reports-only: no article or `todo.md` line was edited. The wing's shared strength is that each page separates knowing *that* a state occurs from knowing *which* state it is or *what it did*. Its systematic defect is that the oldest page, Alexithymia, names its central finding ("from the phenomenal layer", L23 and L49) less precisely than the three pages that cite it. The apex repeats that wording at L130.
+- **Priority list** (4 items, +194 across 3 files; every OLD has `count == 1`, simulated with `analyze_length`):
+  1. Alexithymia L23 and L49, plus the apex at L130: say the divergence moves "from the sensed signal" and make the lead conditional (+12; apex ±0).
+  2. Alexithymia L47: Van Bael's own scale-construction caveat, with a back-link to self-blindness (+57).
+  3. Self-blindness: add the self/other parity rival (SEP 2024, Carruthers 2011) (+125).
+  4. Alexithymia L33 (a sibling comparison its siblings contradict) and L75 (Tenet 5 read off the data) (±0).
+- **Also**: six cross-links, three of them zero or near-zero cost. Three uncovered subjects for the harvester: the transparency method of self-knowledge, Carruthers's interpretive sensory-access theory, and alexithymia and the epistemic condition. One defect routed: `phenomenal-transparency-opacity-spectrum` L77 overstates Carruthers.
+- **Sources verified from raw text**: SEP "Introspection" (2024); Van Bael et al. 2024 (PLOS full text); Hogeveen & Grafman 2021 (PMC8456171); Crossref metadata for Carruthers 2011, Semler 2024 and Patil & Silani 2014a/b.
+- **Output**: [optimistic-2026-10-25-self-knowledge-wing](/reviews/optimistic-2026-10-25-self-knowledge-wing/)
 
 ## 17:58 - refine-draft
 - **Status**: Success
