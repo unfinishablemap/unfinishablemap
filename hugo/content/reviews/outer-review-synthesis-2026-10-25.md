@@ -250,7 +250,7 @@ Each cluster below counts only where a processing pass verified it against the l
   - **ChatGPT 5.6.sol Pro**: "The apex should preserve that exact evidential grade throughout."
   - **Claude Fable 5.1**: "re-band [P-A1](/positions/agency-and-will/#p-a1), and add dependencies on [P-Q2](/positions/quantum-interface/#p-q2), [P-Q3](/positions/quantum-interface/#p-q3), [P-Q10](/positions/quantum-interface/#p-q10) and the open quantifier decision."
 - **Task action**: **Minted** a P2 positions-evolve task: "`positions/agency-and-will` [P-A1](/positions/agency-and-will/#p-a1) says "the convergence claim rests on the genuinely independent subset" …". The register is far over positions hard and a few hundred words short of critical, so the task carries a net-negative split plan:
-  - create `positions/agency-and-will-calibration-history.md` on the established sidecar convention (quantum-interface 2026-07-29, moral-status 2026-09-05 and three others);
+  - create [positions/agency-and-will-calibration-history.md](/positions/agency-and-will-calibration-history/) on the established sidecar convention (quantum-interface 2026-07-29, moral-status 2026-09-05 and three others);
   - move [P-A1](/positions/agency-and-will/#p-a1)'s four dated Updated notes (about 390 words) there;
   - then make the provenance-wording fix at net ≤ 0.
 

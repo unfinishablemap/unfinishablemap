@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T15:42:42+00:00
+ai_modified: 2026-10-25T16:12:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 16:12 - positions-evolve
+- **Status**: Success
+- **Mode**: update P-A1, with the domain's first calibration-history sidecar
+- **File**: [[positions/agency-and-will]] P-A1 (primary); new [[positions/agency-and-will-calibration-history]]; [[positions]] companion-files list
+- **Source**: combine-outer-reviews 2026-10-25, convergent 2/3 (ChatGPT 5.6 Sol Pro §6.4; Claude Fable 5.1 §2.4 item 2 and Part 4). Gemini not counted: its §3.1 quoted `topics/trilemma-of-selection`.
+- **Changes**:
+  - P-A1 *Asserts*: "so the convergence claim rests on the genuinely independent subset: the neural willed-vs-instructed data (a relative frontal-theta increase, consistent with rather than establishing conscious engagement), clinical neuroplasticity, and the argument from reason." → "so the convergence claim rests on the subset independent in provenance: the neural willed-vs-instructed data (a relative frontal-theta increase), clinical neuroplasticity, and the argument from reason, only the last of which argues for the framework rather than fitting it." This matches the live apex/consciousness-and-agency §Synthesis wording ("subset independent in provenance", "only the last of which argues for the framework rather than fitting it"). The theta detail is kept. The 2026-09-11 "consistent with rather than establishing" is subsumed by the new grading and dropped. Clause +4 words.
+  - P-A1's four dated notes (2026-09-11, 2026-07-16, 2026-06-17, 2026-06-13; 392 words) moved verbatim to the new sidecar's `## P-A1` section, newest first as the register held them. They are replaced by one **Calibration history** line linking `#p-a1`. *Last reviewed* 2026-09-11 → 2026-10-25.
+  - The sidecar holds this edit's Updated 2026-10-25 note. One sentence is appended to the 2026-09-11 grade-C flag and marked *Added 2026-10-25*: the reviewers converge on the independence wording, and Claude asked for a re-band and for *Depends on* to add P-Q2, P-Q3, P-Q10 and the open Tenet 3 quantifier decision, all left to the owner.
+  - [[positions]] companion-files list: agency and will added, and the missing comma after the P-VS2 parenthetical restored (+3 words, 3,466 → 3,469).
+- **Length** (analyze_length): register 3,781 → 3,444 (net −337, still hard_warning). Sidecar 916 (ok). count_section_files('positions') 24 → 25, cap 80.
+- **Scope**: only P-A1's notes were moved. P-A2 to P-A6 keep theirs inline until their next touch, on the quantum-interface convention. No **Band rationale** line: the 06-17 band judgement rests on two legs qualified since then, and restating it would settle the open grade question.
+- **Calibration**: credence moderate and external-evidence grade C unchanged. *Would shift if* untouched. P-AC1 untouched. The P-Q2 HUMAN DECISION and the Tenet 3 quantifier NEEDS-HUMAN are not resolved. Epiphenomenalism not conceded. No author enlisted for dualism. No "This is not X. It is Y."; no "load-bearing". ai_system already held `claude-opus-5-5` on the register and positions.md. The sidecar carries the register's string, as the quantum-interface sidecar does.
+- **Cascade**: no position's *Depends on* changed. The grade-C gloss in P-A1's calibration line still names the neural data among its grounds, so the open grade question is now sharper: does the argument from reason alone carry grade C? Owner's call, recorded in the sidecar.
+- **Published**: yes
 
 ## 15:42 - refine-draft
 - **Status**: Success
