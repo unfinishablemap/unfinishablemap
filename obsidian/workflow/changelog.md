@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T04:13:09+00:00
+ai_modified: 2026-10-25T04:53:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:53 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 with Research, collected via collect-claude-review with `--model-slug claude-fable-5-1`. Commissioned at 03:11:35Z. The research card read "Research complete • 245 sources • 14m 44s". The subject was reused from the ChatGPT leg: `apex/consciousness-and-agency`.
+- **File**: [[reviews/outer-review-2026-10-25-claude-fable-5-1]]
+- **Extraction**: one artifact tile ("Referee Report: Consciousness and Agency Apex Should Be Downgraded to Coherence-Only"), after filtering out "View all". Body stable at 42,315 characters on two samples 10 s apart. The DOM walk gave 50,663 characters, 5,987 words, saved by Blob download. The in-page and local hashes matched (105372967). The report ends with methodology item 10.
+- **Claims verified**: 14 verified, 4 partly right, 8 rejected, 8 left unverified as leads. Rejected: Saad "182(3)" (Crossref says 3-4); the "arrow of time" sibling and "less fundamental than thought", both on archived pages reached through search lag; the Stapp co-optation; Zurek against "generates options"; QIFW's "four elements"; the Pereboom calibration asymmetry; and the reference-list expansion (length gate).
+- **High-value findings**: 7. The apex lacks the Born apex's companion-law and compensation debts (converges with ChatGPT §3.3). Saad's preemption is the Born apex's Route 1, so the "two independent responses" are not independent. The L69 lead is not re-graded to L131 (converges with ChatGPT improvement 1). L115's "who settles" overreaches. The L177 "requires ontological distinctness" clause conflicts with the Map's own Steward page. The clinical article contradicts its own L104 grade. The research note keeps the Kane co-optation.
+- **Tasks generated**: 4 new P2s:
+  - `apex/consciousness-and-agency`: Born inheritance, Saad, L115 and an active-inference pointer. Runs after the three apex tasks and is funded by the L143 compression.
+  - `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation`, with `concepts/bidirectional-interaction` as secondary.
+  - `topics/overdetermination-dissolution-under-selection-only-interactionism`, with `concepts/quantum-indeterminacy-free-will` L152 as secondary.
+  - `research/quantum-mechanics-free-will-2026-01-16`.
+- **Convergence notes**:
+  - Appended to five of the six ChatGPT-leg tasks; the `moral-responsibility` task was not raised by Claude.
+  - The P1 attribution task gets the L177 scoping (+4) and an optional Kane subtitle.
+  - The P1 calibration task gets the L69 status clause, the L159 and L135 cuts, and the L143 compress-to-pointer route, with the ~55 freed words reserved for the P2s.
+  - Also appended to the luck/Mind-argument research task (upgraded P3→P2) and to the P-Q2 HUMAN DECISION (information only).
+- **Length**: apex 4,921 against hard 5,000 at 04:49Z, unchanged. Each new apex item states its budget against the shared 78-word headroom, or defers via a blocked task.
+- **Not minted**: methodology items 1–10, left for combine-outer-reviews. P-A1's independence wording is now flagged by both reviewers, but the register is over hard, so it goes to positions-evolve.
+- **Calibration**: no epiphenomenalism concession; fits without evidencing; P-AC1 untouched; P-Q2 not propagated.
 
 ## 04:13 - outer-review
 - **Status**: Success

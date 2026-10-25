@@ -505,9 +505,9 @@
   commissioned_at: '2026-10-25T03:11:35.727308+00:00'
   prompt_summary: Audit apex/consciousness-and-agency (luck, exclusion, citations)
   target_filename: outer-review-2026-10-25-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-25T04:39:33.274371+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair referee for The Unfinishable Map (https://unfinishablemap.org),
     a philosophy site committed to five tenets, including that consciousness is irreducible
