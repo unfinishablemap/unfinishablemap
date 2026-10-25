@@ -1,14 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 20:02:03+00:00
+ai_modified: 2026-10-25 20:50:01+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 20:02:03+00:00
+lastmod: 2026-10-25 20:50:01+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 20:50 - expand-topic
+- **Status**: Success
+- **Topic**: The Transparency Method of Self-Knowledge
+- **Output**: [transparency-method-of-self-knowledge](/concepts/transparency-method-of-self-knowledge/)
+- **Word count**: 2701 by analyze_length (prose 2297, Further Reading 22, References 404 across 25 entries). Concepts soft 2,500, hard 3,500.
+- **Based on research**: yes, [transparency-method-of-self-knowledge-2026-10-25](/research/transparency-method-of-self-knowledge-2026-10-25/)
+- **Structure**: four-part concept format. Neutral definition and Evans's p. 225 sentence come first. The Map's verdict is in the lead, marked as the Map's. Then: terms and coiners, five-sense disambiguation, four versions (inferential, bypass, agentialist/reflectivist, expressivist), the puzzle and objections, the self-blindness bridge, and the limit (#limit).
+- **Guards honoured**: all 9 from the note.
+  - Coiners as the note lists them; Evans gets neither term (scoped as "a search of the digitised text").
+  - Evans quoted "in a position".
+  - Byrne 2011 cited by section; Byrne 2018/2026 and Boyle 2024 marked abstract-only.
+  - The phenomenal limit is presented as the Map's verdict against Byrne's explicit extension (2005 p. 99; 2018 ch. 6; 2026). The no-inward-attention thesis stays with Moore/Harman/Tye, and Byrne 2011 §2's "not necessary" is quoted.
+  - Author-stance firewall in the Dualism paragraph.
+  - Self-blindness claims scoped to actual non-occurrence, with "a version of Shoemaker's 'broad perceptual model'"; alexithymia is an open question, not a refutation.
+  - Cassam scoped to Rationalism.
+  - Weak Revelation only; never concedes epiphenomenalism; Tenet 5 confined to the Map's reasoning; MQI and NMW "not engaged".
+  - Carruthers parity gets one sentence via SEP §2.1, unlinked because `interpretive-sensory-access-theory` does not exist.
+  - topics bare and non-empty.
+- **Quote verification this session**: every quote is from note-verified material. The SEP strings were re-grepped in raw SEP HTML: Gordon, "separable", Carruthers, Boyle 2011, Fernández, "completely different usage". The Byrne 2011 strings were re-grepped in the author's manuscript (pdftotext, nonsense control 0); this confirmed Boyle 2009 rejects the "Uniformity Assumption" and the self-verification mechanism. Crossref re-checked Carruthers 2011 and Byrne 2026.
+- **Integration**:
+  - `topics/phenomenal-authority-and-first-person-evidence` L144: the note's replacement (A). It fixes the limit (Byrne 2005 p. 99 draws it at desire, not at the attitude/phenomenal line) and the inward-attention misattribution. 4519 → 4513 (−6).
+  - `concepts/first-order-representationalism` L58: disambiguation sentence plus a Byrne 2011 reference. 2848 → 2892 (+44). The note's draft "though Evans and Byrne link the two" was narrowed to Byrne 2011 §2's verified "a short step", because Byrne credits Evans only with the epistemological observation, and the host cited neither work.
+  - `concepts/self-blindness` "Accepting the impossibility" paragraph: the note's bridge (B), plus one scoping sentence (Byrne explains non-occurrence, not impossibility, p. 98) because the paragraph lists impossibility explanations. Byrne 2005 inserted as reference 2. 2820 → 2919 (+99).
+  - The open self-blindness P3's (3b) OLD now reads `3. Chalmers`; that task's Notes now carry a COORD clause.
+- **Skipped**:
+  - `concepts/introspection` (3,491/3,500) and `concepts/self-and-self-consciousness` (3,497/3,500): no headroom.
+  - `concepts/phenomenal-transparency-opacity-spectrum`: two open tasks.
+  - archive/ not touched.
+- **Owed**: cross-review of the new page (driver mints).
 
 ## 20:21 - deep-review
 - **Status**: Success

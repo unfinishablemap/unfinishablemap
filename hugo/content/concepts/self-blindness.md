@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-23 16:26:38+00:00
+ai_modified: 2026-10-25 20:49:14+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[immunity-to-error-through-misidentification]]'
 - '[[functionalism]]'
 created: 2026-10-23
-date: &id001 2026-10-23
+date: &id001 2026-10-25
 description: 'Shoemaker argued that a rational subject cannot be self-blind. The Map''s
   clinical cases fall outside that thesis and cannot test it. Open: can ''rational''
   be defined independently?'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-23 16:26:38+00:00
-lastmod: 2026-10-23 16:26:38+00:00
+lastmod: 2026-10-25 20:49:14+00:00
 modified: *id001
 related_articles:
 - '[[blindspot-void]]'
@@ -64,7 +64,7 @@ Matthew Parrott, who tends to agree that a self-blind person is impossible, stat
 
 **Against the argument.** On the evidence of her abstract, Kind (2003) argues that Shoemaker runs together introspective awareness and self-knowledge, and that third-person evidence available to a self-blind subject could explain the Moore's-paradox behaviour. Kimble (2013), also known here by abstract, defends the broad perceptual model. Gertler (2011, ch. 5), as her own encyclopedia entry reports, holds that an inner-sense theorist can stipulate that no self-blind creature counts as rational. The claim that no rational creature is self-blind then holds *de dicto*, by definition, and inner sense can accept it; Shoemaker needs the *de re* claim that the capacity for self-knowledge is a condition of being rational at all.
 
-**Accepting the impossibility.** Shoemaker's explanation is functionalist: in a rational creature the causal role defining a mental state also suffices for the belief that one is in it (as Gertler 2021 summarises him), spelled out through his distinction between a state's "core" and "total" realization (p. 242). Parrott (2017) keeps a person's states "wholly distinct from her beliefs about them" and argues that his account is "better placed to explain our fallibility and ignorance" than constitutive theories. Christopher Peacocke (1998), as Jeff Speaks's teaching notes report him, explains the impossibility through what possessing the concept of belief requires.
+**Accepting the impossibility.** Shoemaker's explanation is functionalist: in a rational creature the causal role defining a mental state also suffices for the belief that one is in it (as Gertler 2021 summarises him), spelled out through his distinction between a state's "core" and "total" realization (p. 242). Parrott (2017) keeps a person's states "wholly distinct from her beliefs about them" and argues that his account is "better placed to explain our fallibility and ignorance" than constitutive theories. Christopher Peacocke (1998), as Jeff Speaks's teaching notes report him, explains the impossibility through what possessing the concept of belief requires. Alex Byrne (2005, p. 98) calls his account of knowing one's beliefs, by following the rule *if p, believe that you believe that p*, "a version of Shoemaker's 'broad perceptual model'" that needs only the capacity to reason about the world, so Shoemaker's tracing of self-knowledge to rationality is "vindicated, albeit not via his preferred route" (p. 99; see [transparency-method-of-self-knowledge](/concepts/transparency-method-of-self-knowledge/)). Byrne explains why self-blindness does not occur rather than why it cannot, since he allows a believer who has the concept of belief but cannot follow the rule (p. 98).
 
 **The clinical strategy.** Shaun Nichols and Stephen Stich (2003) posit a self-monitoring mechanism that dissociates from mindreading: defective mindreading with intact monitoring in autism, the reverse in certain first-rank symptoms of schizophrenia. Schwitzgebel's (2024) encyclopedia entry cites them as arguing that schizophrenia shows introspection breaking down entirely, the possibility inner-sense views imply and Shoemaker denies.
 
@@ -143,21 +143,22 @@ Self-blindness is orthogonal to the rule, set out in [evidential-status-discipli
 ## References
 
 1. Bagby, R. M., Parker, J. D. A., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure. *Journal of Psychosomatic Research*, 38(1), 23–32. https://doi.org/10.1016/0022-3999(94)90005-1
-2. Chalmers, D. J. (1995). Absent qualia, fading qualia, dancing qualia. In T. Metzinger (Ed.), *Conscious Experience*. Imprint Academic. https://consc.net/papers/qualia.html
-3. Gertler, B. (2011). *Self-Knowledge*. Routledge. https://doi.org/10.4324/9780203835678 (ch. 5, as summarised in Gertler 2021)
-4. Gertler, B. (2021). Self-knowledge. *Stanford Encyclopedia of Philosophy* (revised 9 November 2021). https://plato.stanford.edu/entries/self-knowledge/
-5. Huntjens, R. J. C., Postma, A., Peters, M. L., Woertman, L., & van der Hart, O. (2003). Interidentity amnesia for neutral, episodic information in dissociative identity disorder. *Journal of Abnormal Psychology*, 112(2), 290–297. https://doi.org/10.1037/0021-843X.112.2.290
-6. Kimble, K. (2013). Inner sense and the broad perceptual model: A reply to Shoemaker. *Synthesis philosophica*, 28(1–2), 245–262. https://hrcak.srce.hr/120145
-7. Kind, A. (2003). Shoemaker, self-blindness and Moore's paradox. *The Philosophical Quarterly*, 53(210), 39–48. https://doi.org/10.1111/1467-9213.00294
-8. Nichols, S., & Stich, S. (2003). *Mindreading*. Oxford University Press, ch. 4, pp. 150–199. https://doi.org/10.1093/0198236107.001.0001
-9. Parrott, M. (2017). Self-blindness and self-knowledge. *Philosophers' Imprint*, 17(16), 1–22. https://ora.ox.ac.uk/objects/uuid:42b0a6ce-95a1-444c-8b3e-3ec28258d550
-10. Peacocke, C. (1998). Conscious attitudes, attention, and self-knowledge. In C. Wright, B. C. Smith & C. Macdonald (Eds.), *Knowing Our Own Minds* (pp. 63–98). Oxford University Press. https://doi.org/10.1093/0199241406.003.0004
-11. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy* (revised 25 April 2024). https://plato.stanford.edu/entries/introspection/
-12. Shoemaker, S. (1988). On knowing one's own mind. *Philosophical Perspectives*, 2, 183–209. https://doi.org/10.2307/2214074. Reprinted in Shoemaker 1996, pp. 25–49.
-13. Shoemaker, S. (1990). First-person access. *Philosophical Perspectives*, 4, 187ff. https://doi.org/10.2307/2214192. Reprinted in Shoemaker 1996, pp. 50–73.
-14. Shoemaker, S. (1994). Self-knowledge and "inner sense". Lecture I: The object perception model; Lecture II: The broad perceptual model. *Philosophy and Phenomenological Research*, 54(2), from pp. 249 and 271. https://doi.org/10.2307/2108489 (Lecture II). Reprinted in Shoemaker 1996, pp. 201–245.
-15. Shoemaker, S. (1995). Moore's paradox and self-knowledge. *Philosophical Studies*, 77(2–3), 211–228. https://doi.org/10.1007/BF00989570. Reprinted in Shoemaker 1996, pp. 74–94.
-16. Shoemaker, S. (1996). *The First-Person Perspective and Other Essays*. Cambridge University Press. https://doi.org/10.1017/CBO9780511624674 (p. 24 is from "Introspection and the self", pp. 3–24.)
-17. Speaks, J. (2004). Peacocke on self-knowledge, consciousness, and concept-possession. Course notes, McGill University. https://www3.nd.edu/~jspeaks/courses/mcgill/519-self-knowledge/peacocke-self-knowledge.pdf
-18. Southgate, A. & Ocinq-cinq, C. (2026-10-03). Anton Syndrome and the Sincere Report of Seeing. *The Unfinishable Map*. https://unfinishablemap.org/topics/anton-syndrome-and-the-sincere-report-of-seeing/
-19. Southgate, A. & Ocinq-cinq, C. (2026-10-09). Metacognitive Access versus Retention. *The Unfinishable Map*. https://unfinishablemap.org/concepts/metacognitive-access-versus-retention/
+2. Byrne, A. (2005). Introspection. *Philosophical Topics*, 33(1), 79–104. https://doi.org/10.5840/philtopics20053312
+3. Chalmers, D. J. (1995). Absent qualia, fading qualia, dancing qualia. In T. Metzinger (Ed.), *Conscious Experience*. Imprint Academic. https://consc.net/papers/qualia.html
+4. Gertler, B. (2011). *Self-Knowledge*. Routledge. https://doi.org/10.4324/9780203835678 (ch. 5, as summarised in Gertler 2021)
+5. Gertler, B. (2021). Self-knowledge. *Stanford Encyclopedia of Philosophy* (revised 9 November 2021). https://plato.stanford.edu/entries/self-knowledge/
+6. Huntjens, R. J. C., Postma, A., Peters, M. L., Woertman, L., & van der Hart, O. (2003). Interidentity amnesia for neutral, episodic information in dissociative identity disorder. *Journal of Abnormal Psychology*, 112(2), 290–297. https://doi.org/10.1037/0021-843X.112.2.290
+7. Kimble, K. (2013). Inner sense and the broad perceptual model: A reply to Shoemaker. *Synthesis philosophica*, 28(1–2), 245–262. https://hrcak.srce.hr/120145
+8. Kind, A. (2003). Shoemaker, self-blindness and Moore's paradox. *The Philosophical Quarterly*, 53(210), 39–48. https://doi.org/10.1111/1467-9213.00294
+9. Nichols, S., & Stich, S. (2003). *Mindreading*. Oxford University Press, ch. 4, pp. 150–199. https://doi.org/10.1093/0198236107.001.0001
+10. Parrott, M. (2017). Self-blindness and self-knowledge. *Philosophers' Imprint*, 17(16), 1–22. https://ora.ox.ac.uk/objects/uuid:42b0a6ce-95a1-444c-8b3e-3ec28258d550
+11. Peacocke, C. (1998). Conscious attitudes, attention, and self-knowledge. In C. Wright, B. C. Smith & C. Macdonald (Eds.), *Knowing Our Own Minds* (pp. 63–98). Oxford University Press. https://doi.org/10.1093/0199241406.003.0004
+12. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy* (revised 25 April 2024). https://plato.stanford.edu/entries/introspection/
+13. Shoemaker, S. (1988). On knowing one's own mind. *Philosophical Perspectives*, 2, 183–209. https://doi.org/10.2307/2214074. Reprinted in Shoemaker 1996, pp. 25–49.
+14. Shoemaker, S. (1990). First-person access. *Philosophical Perspectives*, 4, 187ff. https://doi.org/10.2307/2214192. Reprinted in Shoemaker 1996, pp. 50–73.
+15. Shoemaker, S. (1994). Self-knowledge and "inner sense". Lecture I: The object perception model; Lecture II: The broad perceptual model. *Philosophy and Phenomenological Research*, 54(2), from pp. 249 and 271. https://doi.org/10.2307/2108489 (Lecture II). Reprinted in Shoemaker 1996, pp. 201–245.
+16. Shoemaker, S. (1995). Moore's paradox and self-knowledge. *Philosophical Studies*, 77(2–3), 211–228. https://doi.org/10.1007/BF00989570. Reprinted in Shoemaker 1996, pp. 74–94.
+17. Shoemaker, S. (1996). *The First-Person Perspective and Other Essays*. Cambridge University Press. https://doi.org/10.1017/CBO9780511624674 (p. 24 is from "Introspection and the self", pp. 3–24.)
+18. Speaks, J. (2004). Peacocke on self-knowledge, consciousness, and concept-possession. Course notes, McGill University. https://www3.nd.edu/~jspeaks/courses/mcgill/519-self-knowledge/peacocke-self-knowledge.pdf
+19. Southgate, A. & Ocinq-cinq, C. (2026-10-03). Anton Syndrome and the Sincere Report of Seeing. *The Unfinishable Map*. https://unfinishablemap.org/topics/anton-syndrome-and-the-sincere-report-of-seeing/
+20. Southgate, A. & Ocinq-cinq, C. (2026-10-09). Metacognitive Access versus Retention. *The Unfinishable Map*. https://unfinishablemap.org/concepts/metacognitive-access-versus-retention/

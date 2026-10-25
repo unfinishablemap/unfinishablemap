@@ -2,9 +2,9 @@
 title: "First-Order Representationalism"
 description: "The Tye/Dretske thesis that phenomenal character just is first-order representational content. The Map engages this leading reductive rival to dualism and locates its resistance in the relocated explanatory gap."
 created: 2026-07-11
-modified: 2026-07-11
+modified: 2026-10-25
 human_modified:
-ai_modified: 2026-09-30T13:22:06+00:00
+ai_modified: 2026-10-25T20:48:37+00:00
 last_deep_review: 2026-09-03T00:09:49+00:00
 draft: false
 topics:
@@ -55,7 +55,7 @@ The advertised payoff is a "completely naturalistic" account of phenomenal consc
 
 ## The Transparency Argument
 
-The primary positive case for first-order representationalism is the **transparency** (or diaphanousness) of experience, associated with Gilbert Harman ("The Intrinsic Quality of Experience," 1990) and endorsed by Tye. The observation: when you introspect a visual experience of a tree and try to attend to features *of the experience itself*, the only features you find are features of the presented tree—its green, its shape, its location. You look *through* the experience to its object; you never seem to encounter intrinsic non-representational properties of the experience. As Harman's example runs, in attending to the experience "the only features there to turn your attention to will be features of the presented tree."
+The primary positive case for first-order representationalism is the **transparency** (or diaphanousness) of experience, associated with Gilbert Harman ("The Intrinsic Quality of Experience," 1990) and endorsed by Tye. The observation: when you introspect a visual experience of a tree and try to attend to features *of the experience itself*, the only features you find are features of the presented tree—its green, its shape, its location. You look *through* the experience to its object; you never seem to encounter intrinsic non-representational properties of the experience. As Harman's example runs, in attending to the experience "the only features there to turn your attention to will be features of the presented tree." This transparency of experience is a different thesis from the [[transparency-method-of-self-knowledge|transparency method]] in the epistemology of self-knowledge, though Byrne (2011, §2) calls the method for perception "a short step" from it.
 
 The representationalist's inference: the best explanation of transparency is that phenomenal character consists *entirely* in represented worldly properties. If experience had intrinsic non-representational features, introspection should be able to find them—and it cannot.
 
@@ -140,6 +140,7 @@ The honest counterweight: the representationalist has real advantages the Map sh
 1. Chalmers, D. J. (2004). The Representational Character of Experience. In B. Leiter (ed.), *The Future for Philosophy*. Oxford University Press, 153–181.
 1. Cohen, J. (2009). *The Red and the Real: An Essay on Color Ontology*. Oxford University Press.
 1. Byrne, A. & Hilbert, D. R. (2003). Color realism and color science. *Behavioral and Brain Sciences*, 26(1), 3–21.
+1. Byrne, A. (2011). Transparency, belief, intention. *Aristotelian Society Supplementary Volume*, 85(1), 201–221. https://doi.org/10.1111/j.1467-8349.2011.00203.x
 1. Stanford Encyclopedia of Philosophy. Representational Theories of Consciousness. https://plato.stanford.edu/entries/consciousness-representational/
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Intentionality. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intentionality/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Explanatory Gap. *The Unfinishable Map*. https://unfinishablemap.org/concepts/explanatory-gap/

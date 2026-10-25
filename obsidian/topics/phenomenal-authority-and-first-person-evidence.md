@@ -2,9 +2,9 @@
 title: "Phenomenal Authority and First-Person Evidence"
 description: "First-person reports carry layered epistemic authority — apodictic at the core, fallible at the periphery. This structure grounds the Map's case for dualism."
 created: 2026-02-09
-modified: 2026-09-24
+modified: 2026-10-25
 human_modified:
-ai_modified: 2026-10-19T15:17:48+00:00
+ai_modified: 2026-10-25T20:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ The acquaintance relation has an ontological counterpart at the mechanism layer:
 
 **Inner sense theories** (Armstrong, Lycan) assimilate introspection to perception: fallible but generally reliable. The difficulty is that inner sense requires a representational medium distinct from the states represented, but introspecting pain has qualitative character *identical* to the pain.
 
-**Transparency** (Evans, Byrne 2005) proposes that introspection works by attending to the world. This works for propositional attitudes but fails for phenomenal states — when a [[contemplative-epistemology|trained contemplative]] attends to the quality of awareness itself, they do something the model says is impossible.
+**[[transparency-method-of-self-knowledge|Transparency]]** (Evans; Byrne 2005) holds that one knows one's beliefs by attending to the world. Byrne extends it to perception; the Map holds that it does not reach phenomenal character, where [[contemplative-epistemology|contemplatives]] report attending to awareness itself.
 
 **Inferentialism** (Carruthers 2011) holds that self-knowledge is always inferential. It draws support from confabulation research but cannot explain the asymmetry between first-person and third-person access to phenomenal states. Carruthers is right about *process* knowledge but wrong to extend this to phenomenal *content*.
 
