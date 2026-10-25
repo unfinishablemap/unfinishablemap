@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T10:50:47+00:00
+ai_modified: 2026-10-25T11:47:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 11:47 - research-topic
+- **Status**: Success
+- **Topic**: The luck and Mind arguments against agent-causal libertarianism, and the agent-causalist replies (van Inwagen 2000; Haji; Mele 2006; Griffith 2005, 2010; Finch 2017; Franklin 2011)
+- **Output**: [[research/luck-and-mind-arguments-against-agent-causation-2026-10-25]]
+- **Verdict**: `recommended_action: article`, `target_section: concepts`, `target_slug: rollback-argument-against-agent-causation`. The slug is free and concepts is at 364/370. `chain_note` dry run: minted. The three hubs that would otherwise take it have 2–7 words of headroom (`quantum-indeterminacy-free-will` 3,497, `agent-causation` 3,492, `free-will` 3,997). Fallback fold: `topics/event-causal-libertarianism` L80, budget ≤250 words (3,132/4,000).
+- **Key finding**: no agent-causalist reply supplies a token-level ground; every reply ends in the agent's exercise "at the time of the choice". Van Inwagen 2000 explicitly reruns the replay with agent causation (pp. 16–17, raw). The literature offers type-level structure only (O'Connor's propensities), and Bernáth & Tőzsér 2020 argue that it is incompatible with dual control. P-Q2 leaves free exactly the conscious-state conditionals a replay tests. So the modal structure that `free-will` L94 calls "owed rather than supplied" is the companion law that `apex/born-preserving-causal-efficacy` says the Map has never written. The luck, wild-coincidence and companion-law debts are one debt, and the token settling is bedrock.
+- **Coordination**: the ECL L80 scoping was already discharged (✓ 2026-10-20). The consequence-page Finch P3 is not re-proposed, and its caution (b) stands (Finch 2017's premise is unverified). Leads are handed to the Galen Strawson P3 (Clarke 2003 ch. 9; Levy 2009) and to the blocked apex primitive-parity P2.
+- **Sources consulted**: 36. Raw in full: van Inwagen 2000. Raw in part: Bernáth & Tőzsér 2020 (pp. 43–54), SEP Incompatibilist §3.2, SEP Free Will §3, Babakhanian 2025, Fischer 1988 and Haji 2022. The rest are OpenAlex or Crossref abstracts, plus Google Books snippets for Finch 2017, Heller 2017 and Clarke 2003.
+- **Quote tally**: 175 quoted spans checked by script against the saved raw sources. 157 matched verbatim and 8 more were confirmed by hand (Google Books snippets with tokeniser spacing, nested quotes, one [sic]). Two Griffith 2005 search-summary phrases are marked do-not-quote. The other 8 spans are titles or instructions, not quotations.
+- **Not edited**: no article, no archive, todo.md untouched; not committed.
 
 ## 10:50 - deep-review
 - **Status**: Success
