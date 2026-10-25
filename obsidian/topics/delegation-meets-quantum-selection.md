@@ -4,7 +4,7 @@ description: "Causal delegation provides the logical structure of mental causati
 created: 2026-04-13
 modified: 2026-09-30
 human_modified:
-ai_modified: 2026-09-30T13:56:53+00:00
+ai_modified: 2026-10-25T17:42:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
 last_deep_review: 2026-09-30T13:56:53+00:00
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-04-13
 last_curated:
 ---
@@ -89,7 +89,7 @@ The bandwidth constraint also constrains the Subset Law*. The experience's causa
 
 Combining delegation with quantum selection does not dissolve every difficulty. Four problems remain open.
 
-**The structural non-identity of delegation and selection.** Beyond the empirical under-determination noted above, the bridge's central identification faces a distinct *structural* tension. Delegation as [[trumping-preemption|trumping]] is difference-making-*free* and preserves strong causal closure — the physical state completes, and an authority law selects it as the cause — whereas quantum selection, the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] channel, is difference-*making* and relaxes strong closure by fixing, per trial, which indeterminate outcome becomes actual (while, on its strict selection-only reading, leaving the ensemble Born distribution intact). Reading these as "the causal structure and the physical implementation of a single event," as this article's thesis does, is therefore a substantive unification the Map *proposes* at the quantum joint rather than a seamless identity — the very seam the rewritten [[trumping-preemption]] now flags in treating the quantum-selection channel as "a distinct and potentially competing mechanism ... rather than an instance of" the trumping route, a note [[delegatory-causation]] now carries as well. The [[interventionist-and-counterfactual-dualism]] article develops the point: identifying a difference-making-free structure with a difference-making physical channel is a candidate identity the Map holds open on grounds of tenet-coherence, not one the tenets entail.
+**The structural non-identity of delegation and selection.** Beyond the empirical under-determination noted above, the bridge's central identification faces a distinct *structural* tension. Delegation as [[trumping-preemption|trumping]] is difference-making-*free* and violates strong causal closure only unobservably — the physical state completes, and an authority law selects the experience as the cause — whereas quantum selection, the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] channel, is difference-*making* and relaxes strong closure by fixing, per trial, which indeterminate outcome becomes actual (while, on its strict selection-only reading, leaving the ensemble Born distribution intact). Reading these as "the causal structure and the physical implementation of a single event," as this article's thesis does, is therefore a substantive unification the Map *proposes* at the quantum joint rather than a seamless identity — the very seam the rewritten [[trumping-preemption]] now flags in treating the quantum-selection channel as "a distinct and potentially competing mechanism ... rather than an instance of" the trumping route, a note [[delegatory-causation]] now carries as well. The [[interventionist-and-counterfactual-dualism]] article develops the point: identifying a difference-making-free structure with a difference-making physical channel is a candidate identity the Map holds open on grounds of tenet-coherence, not one the tenets entail.
 
 **The specificity problem.** If consciousness selects within Born-rule probabilities, how does it produce *adaptive* behaviour rather than merely biased randomness? The Born rule constrains but does not direct. The [[amplification-void]] names this gap: how a weak post-decoherence bias scales into coherent, reasons-guided action. Delegation reframes the problem — experience takes over the causal work of producing adaptive outcomes — but reframing does not explain *how* experience achieves this.
 

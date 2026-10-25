@@ -4,7 +4,7 @@ description: "Observational closure distinguishes empirical from metaphysical ca
 created: 2026-03-13
 modified: 2026-10-15
 human_modified:
-ai_modified: 2026-10-15T23:52:15+00:00
+ai_modified: 2026-10-25T17:42:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ Many well-confirmed theories specify domains of applicability. Conservation of e
 
 Observational closure is arguably the Map's most important argumentative move against the causal closure objection to [[interactionist-dualism]].
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes "without injecting energy or violating conservation laws"—producing no empirically detectable anomalies. This is observational closure stated as a design constraint. The tenet does not claim physics is causally complete; it claims physics *appears* complete where we can check.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences quantum outcomes "without injecting energy or violating conservation laws" and rules out interaction "empirically detectable under current experimental precision." This is observational closure stated as a design constraint. The tenet does not claim physics is causally complete; it claims physics *appears* complete where we can check.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms that consciousness causally influences the physical world. Together, these two tenets commit the Map to exactly the position observational closure makes coherent: genuine mental causation that respects every empirical finding while denying the metaphysical extrapolation to universal closure.
 

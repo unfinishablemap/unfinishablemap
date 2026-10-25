@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-10-12 14:56:43+00:00
+ai_modified: 2026-10-25 17:42:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 apex_decision_context: 'For a working scientist or philosopher who accepts the Map''s
   tenets: which research directions are most warranted by the framework''s confidence
@@ -45,7 +45,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 16:44:53+00:00
-lastmod: 2026-10-12 14:56:43+00:00
+lastmod: 2026-10-25 17:42:09+00:00
 modified: *id001
 related_articles:
 - '[[apex/interface-specification-programme]]'
@@ -117,7 +117,7 @@ Not every warranted direction is an experiment. [P-Q3](/positions/quantum-interf
 
 This is the direction where the [self-concealing interface](/apex/self-concealing-interface/) argument and the [ensemble-level epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) treatment already do the spadework, and where the [mechanism-debt crux](/positions/quantum-interface/#mechanism-debt) is most exposed. The register marks honestly that the position "sits genuinely close to epiphenomenalism" and that whether the indexical / per-trial-vs-ensemble move "discharges the epiphenomenalism worry or merely relocates it is the open question." A working philosopher who pressed that move to either resolution — showing it works, or showing it collapses — would be operating on the seam the whole framework rests on. Crucially, this conceptual work is partly *upstream* of Direction 1: a clean account of what a causally-robust-yet-aggregate-undetectable bias would have to look like is most of the specification a toy model would then formalise. The two directions are complementary, not competing.
 
-The [interface specification programme](/apex/interface-specification-programme/) has recently sharpened what that account must settle. The Map's physical anchoring — identifying the default causal profile with the Born-rule distribution — joins two descriptions that pull against each other: biasing an indeterminate outcome is difference-making and forfeits strong causal closure, whereas the delegatory-trumping reading it borrows from Saad is difference-making-free and preserves closure — and Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism. So whether the quantum-selection channel and the trumping route are one mechanism or two, and how they join where the token outcome is physically undetermined, is itself part of the seam a toy model would have to formalise rather than a premise it could quietly assume. That makes Direction 5 more clearly upstream of Direction 1 than it first appears: the join is currently asserted, not derived.
+The [interface specification programme](/apex/interface-specification-programme/) has recently sharpened what that account must settle. The Map's physical anchoring — identifying the default causal profile with the Born-rule distribution — joins two descriptions that pull against each other: biasing an indeterminate outcome is difference-making, whereas the delegatory-trumping reading it borrows from Saad is difference-making-free and violates closure only unobservably — and Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure. So whether the quantum-selection channel and the trumping route are one mechanism or two, and how they join where the token outcome is physically undetermined, is itself part of the seam a toy model would have to formalise rather than a premise it could quietly assume. That makes Direction 5 more clearly upstream of Direction 1 than it first appears: the join is currently asserted, not derived.
 
 ## What this implies for decisions
 

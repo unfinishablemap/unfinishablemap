@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-10-14 12:36:01+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-10-25 17:42:09+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 apex_last_synthesis: 2026-07-25 15:36:04+00:00
 apex_sources:
 - topics/four-quadrant-dualism-taxonomy
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 01:33:32+00:00
-lastmod: 2026-10-14 12:36:01+00:00
+lastmod: 2026-10-25 17:42:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ The trio of questions leans deliberately toward physical-side debts: the conserv
 
 **Q1 owes the authority debt—by two routes, not one.** With no hidden variables on the physical side and no thick subliminal layers on the mental side, any genuine mental contribution must work as something other than an extra force on a complete physical story. Q1 holds two ways of meeting that requirement, parting company on whether the physical cause is *sufficient*.
 
-*The delegatory route* keeps the physical cause fully sufficient and reassigns authorship. Saad's framework deploys [trumping-preemption](/concepts/trumping-preemption/)—Schaffer's species of redundant causation in which a higher-order rule selects one of two sufficient processes as authoritative—to give experience preemptive priority over a physical state's *default causal profile* without outpacing physics. The route is therefore difference-making-free and preserves strong causal closure, and its price of admission is an *authority law*: a non-stipulative account of what makes the mental rule authoritative, rather than the bare stipulation (Merlin's spell, military rank) that settles Schaffer's fictional cases. *The difference-making route* requires the opposite—that the physical cause be *insufficient*. At a genuine quantum indeterminacy the dynamics fix the probability distribution but leave the token open, and conscious selection settles which permitted outcome actualises; nothing is preempted, because there was no sufficient cause to preempt. It gives up strong closure at the indeterminacy point, as any genuine interactionism must, and owes a specification of where the indeterminacy sites sit and how phenomenal state maps to selection bias.
+*The delegatory route* keeps the physical cause fully sufficient and reassigns authorship. Saad's framework deploys [trumping-preemption](/concepts/trumping-preemption/)—Schaffer's species of redundant causation in which a higher-order rule selects one of two sufficient processes as authoritative—to give experience preemptive priority over a physical state's *default causal profile* without outpacing physics. The route is therefore difference-making-free, violating strong closure only unobservably; its price of admission is an *authority law*: a non-stipulative account of what makes the mental rule authoritative, rather than the bare stipulation (Merlin's spell, military rank) that settles Schaffer's fictional cases. *The difference-making route* requires the opposite—that the physical cause be *insufficient*. At a genuine quantum indeterminacy the dynamics fix the probability distribution but leave the token open, and conscious selection settles which permitted outcome actualises; nothing is preempted, because there was no sufficient cause to preempt. It gives up strong closure at the indeterminacy point, as any genuine interactionism must, and owes a specification of where the indeterminacy sites sit and how phenomenal state maps to selection bias.
 
 The two cannot be fused into a single architecture: at a physically undetermined token there is nothing sufficient for trumping to preempt. The Map's own [specification programme](/apex/interface-specification-programme/) once presented them as one mechanism and has since separated them, calling the fusion "a foundational move the programme has not earned." What the routes do share is how they answer the conservation question: selecting or reassigning among energetically equivalent outcomes injects nothing. Q1's items are an authority law on one route, an indeterminacy-site specification and a control law on the other, and no licence to bank both routes' advantages at once.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-10-03 02:58:52+00:00
+ai_modified: 2026-10-25 17:42:09+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 12:48:18+00:00
-lastmod: 2026-10-03 02:58:52+00:00
+lastmod: 2026-10-25 17:42:09+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-causation]]'
@@ -90,7 +90,7 @@ The Map interprets trumping as a conceptual resource, not a settled metaphysics.
 
 - *Dualism*: Consciousness is not reducible to physical processes. Trumping allows a non-physical experience to be the authoritative cause of a physical effect while its physical correlate retains its ordinary counterfactual role. Neither side is eliminated or reduced.
 - *Bidirectional Interaction*: Consciousness causally influences the physical world. Trumping describes one precise way in which experience could hold causal authority — not by pushing the trajectory off-course, but by standing behind the trajectory as the thing whose authority the physical correlate was executing. It stops short of the tenet's influence "toward patterns that express its content" ([fourth cost](#costs-of-the-template)).
-- *Minimal Quantum Interaction*: The Map's commitment is to the smallest possible non-physical influence. Trumping's authority-without-trajectory-change is as minimal an intervention as the concept of cause permits on this analysis — no push, no energy contribution, only the selection of one already-sufficient process as authoritative. Whether that authority is realised at a quantum-collapse interface (as the Map's work on the [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) speculates) or at a higher-level psychophysical interface remains open. These two realisations are not interchangeable, and it would be too quick to treat the quantum route as merely one way of implementing trumping. Biasing an indeterminate quantum outcome ([Tenet 3](/concepts/bidirectional-interaction/)'s difference-making channel) gives up strong causal closure, whereas trumping is difference-making-free and preserves it; Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism. The quantum-selection channel is therefore best read as a distinct and potentially competing mechanism to the trumping route rather than an instance of it ([tenets](/tenets/)). The sharper worry this leaves is that trumping's efficacy-without-any-trajectory-difference is the very invisibility [the epiphenomenalist](/concepts/epiphenomenalism/) enjoys; the Map holds the two channels open as rival options rather than a settled synthesis.
+- *Minimal Quantum Interaction*: The Map's commitment is to the smallest possible non-physical influence. Trumping's authority-without-trajectory-change is as minimal an intervention as the concept of cause permits on this analysis — no push, no energy contribution, only the selection of one already-sufficient process as authoritative. Whether that authority is realised at a quantum-collapse interface (as the Map's work on the [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/) speculates) or at a higher-level psychophysical interface remains open. These two realisations are not interchangeable, and it would be too quick to treat the quantum route as merely one way of implementing trumping. Biasing an indeterminate quantum outcome ([Tenet 3](/concepts/bidirectional-interaction/)'s channel) is difference-making, whereas trumping is difference-making-free and violates closure only unobservably; Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure. The quantum-selection channel is therefore best read as a distinct and potentially competing mechanism to the trumping route rather than an instance of it ([tenets](/tenets/)). The sharper worry this leaves is that trumping's efficacy-without-any-trajectory-difference is the very invisibility [the epiphenomenalist](/concepts/epiphenomenalism/) enjoys; the Map holds the two channels open as rival options rather than a settled synthesis.
 - *No Many Worlds* and *Occam's Razor Has Limits*: Trumping does not require branch proliferation, and it resists the simplicity reflex that would collapse the two channels into one. The Map treats the second channel — experience as authoritative cause — as a genuine addition the Map's tenet framework warrants, though not one directly legible to physical observation.
 
 The Map speculates — more cautiously than Saad does — that trumping is best seen as one option in a family of structurally-similar dualist proposals, rather than the settled answer. Its virtue is that it supplies a vocabulary in which dualism can be articulated without visible physical anomalies — rather than a vindication of dualism itself. The sentence "the brain is sufficient" is true and uncontroversial; what trumping adds is that sufficiency is not the same as authority, and the step from the one to the other is where dualist analysis productively concentrates.

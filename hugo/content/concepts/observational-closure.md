@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-10-15 23:52:15+00:00
+ai_modified: 2026-10-25 17:42:09+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 04:20:24+00:00
-lastmod: 2026-10-15 23:52:15+00:00
+lastmod: 2026-10-25 17:42:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +107,7 @@ Many well-confirmed theories specify domains of applicability. Conservation of e
 
 Observational closure is arguably the Map's most important argumentative move against the causal closure objection to [interactionist-dualism](/concepts/interactionist-dualism/).
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences quantum outcomes "without injecting energy or violating conservation laws"—producing no empirically detectable anomalies. This is observational closure stated as a design constraint. The tenet does not claim physics is causally complete; it claims physics *appears* complete where we can check.
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness influences quantum outcomes "without injecting energy or violating conservation laws" and rules out interaction "empirically detectable under current experimental precision." This is observational closure stated as a design constraint. The tenet does not claim physics is causally complete; it claims physics *appears* complete where we can check.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms that consciousness causally influences the physical world. Together, these two tenets commit the Map to exactly the position observational closure makes coherent: genuine mental causation that respects every empirical finding while denying the metaphysical extrapolation to universal closure.
 

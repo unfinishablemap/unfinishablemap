@@ -1,14 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 16:57:13+00:00
+ai_modified: 2026-10-25 17:44:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 16:57:13+00:00
+lastmod: 2026-10-25 17:44:09+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 17:43 - refine-draft
+- **Status**: Success
+- **File**: [trumping-preemption](/concepts/trumping-preemption/) (primary), with [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/), [interface-specification-programme](/apex/interface-specification-programme/), [research-programme-decisions-under-the-map](/apex/research-programme-decisions-under-the-map/), [dualism-cartography](/apex/dualism-cartography/) and [observational-closure](/concepts/observational-closure/)
+- **Source**: deep review 2026-10-25 of delegatory-causation (`reviews/deep-review-2026-10-25-delegatory-causation.md`), Remaining Items 1 and 2. This pass carries the hub's L174 closure-attribution fix and its L122 Tenet 2 qualifier to the siblings the review named.
+- **Original score**: n/a (targeted propagation; `scripts/curate.py` absent)
+- **Standard**: Saad (2025; PMC12062107; Phil. Stud. 182(3-4)) says delegatory dualism "yields only unobservable violations of Closure", and he classes quantum interactionism as violating Observational Closure. The hub's L174 wording is reused.
+- **Changes** (each OLD was confirmed `str.count == 1` before editing):
+  - trumping-preemption L89 (MQI bullet): "(Tenet 3's difference-making channel) gives up strong causal closure, whereas trumping is difference-making-free and preserves it; Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism" → "(Tenet 3's channel) is difference-making, whereas trumping is difference-making-free and violates closure only unobservably; Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure". This also removes a contradiction with the page's own L71 ("only unobservable violations of physical closure occur"). Length 3,374 → 3,374 (0).
+  - delegation-meets-quantum-selection L92: "preserves strong causal closure — the physical state completes, and an authority law selects it as the cause" → "violates strong causal closure only unobservably — the physical state completes, and an authority law selects the experience as the cause". The pronoun is fixed too: "it" pointed at the physical state, which gives the closure-preserving reading, while the page's L38 says experience "preempts the physical state's causal contribution". The quantum-side clause and its Born-distribution scoping are kept. Length 3,096 → 3,099 (+3).
+  - interface-specification-programme L110: "and preserves strong closure. Saad himself treats closure-violating quantum interactionism as a *different* theory from his closure-preserving delegatory dualism" → "and violates closure only unobservably; Saad himself classes quantum interactionism, a different theory, as violating even *observational* closure". To net negative, "from his delegatory dualism" is dropped; the paragraph's subject supplies it. Length 5,108 → 5,107 (−1).
+  - research-programme-decisions-under-the-map L112: "is difference-making and forfeits strong causal closure, whereas … is difference-making-free and preserves closure — and Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism" → "is difference-making, whereas … is difference-making-free and violates closure only unobservably — and Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure". The quantum-side "forfeits strong causal closure" is dropped, as the hub's fix dropped "gives up strong causal closure". Once both routes depart from strong closure the clause no longer contrasts, and it stated sufficiency-closure without the chance-fixing concession. Length 4,772 → 4,771 (−1).
+  - dualism-cartography L93: "The route is therefore difference-making-free and preserves strong causal closure, and its price" → "The route is therefore difference-making-free, violating strong closure only unobservably; its price". "Strong closure" matches the same paragraph's usage. The selection-route sentence ("It gives up strong closure at the indeterminacy point") was checked and left alone, because the sentence before it carries the chance-fixing concession ("the dynamics fix the probability distribution but leave the token open"). Length 5,182 → 5,181 (−1).
+  - observational-closure L106: "\"without injecting energy or violating conservation laws\"—producing no empirically detectable anomalies" → "\"without injecting energy or violating conservation laws\" and rules out interaction \"empirically detectable under current experimental precision.\"" The quote is verbatim from the tenets L85 Rules-out clause and matches the hub's L122. "This is observational closure stated as a design constraint" is kept, because the page's own definition (L40, "No experiment has ever detected") is actual-detection, which the precision-relative tenet matches. Length 2,576 → 2,582 (+6).
+- **Calibration**: Delegatory dualism is never said to violate anything observable. Saad is not enlisted beyond his own classification. Epiphenomenalism is not conceded, the [P-Q2](/positions/quantum-interface/#p-q2) quantifier is untouched, and Tenet 2 is read as empirical-constraint minimality. `modified` is unchanged on all six. ai_system gains +claude-opus-5-5 on delegation-meets-quantum-selection, interface-specification-programme and dualism-cartography (it was absent there) and is already present on the other three.
+- **Engagement modes** (editor-internal): no opponent engagement changed; these are source-fidelity corrections.
+- **Out of scope, reported (live sweep)**:
+  - [interventionist-and-counterfactual-dualism](/topics/interventionist-and-counterfactual-dualism/) L39 and L100 ("closure-preserving trumping route") and L106 ("strong-closure-preserving").
+  - [articulability-of-q1](/concepts/articulability-of-q1/) L88 ("Saad argues (controversially) that the package is coherent and closure-preserving"), two lines below its own correct L86.
+  - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) L133 ("which is why Saad treats closure-violating quantum interactionism as a *different* theory from his own"), which implies delegatory dualism does not violate closure.
+  - Research note `interventionist-and-counterfactual-dualism-2026-07-15` L24 and L158 ("closure-preserving trumping/delegation route").
+  - [observational-closure](/concepts/observational-closure/) L117, Further Reading label "makes observational closure physically necessary". The hub moved "follows necessarily" to "by construction".
+- **Archive** (NEEDS-HUMAN, not edited): No "closure-preserving"/"preserves closure" delegatory hits. The truncated Tenet 2 wording survives at `archive/concepts/causal-delegation.md` L85 ("produces no \"empirically detectable\" anomalies") and `archive/concepts/observational-closure.md` L130 ("without empirically detectable violations is equivalent to respecting observational closure").
+- **Published**: yes
 
 ## 17:26 - deep-review
 - **Status**: Success
