@@ -1,9 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25T20:50:01+00:00
+ai_modified: 2026-10-25T21:10:49+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:10 - coalesce
+- **Task**: coalesce cycle slot. This is a delta check since the 09:54 run (commit `3541e9a857`). The 7-day floor is now 2026-10-18T21:07Z, and a page is eligible only if its `created`, `ai_modified`, `human_modified` and last commit all fall before the floor and it is clean in the working tree. Abandoned (steady state).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: topics 366/370 and concepts 366/370 (both 98.9%; concepts was 364 at 09:54), voids 113/125 (90.4%). The one sidecar, `topics/non-temporal-consciousness.refinement-log.md`, was dropped before pairing.
+- **Delta since 09:54**: `--diff-filter=ADR` over the three sections shows two additions and no removals or renames: `concepts/rollback-argument-against-agent-causation` (12:10Z) and `concepts/transparency-method-of-self-knowledge` (20:51Z). Both are inside the floor. Eligible pages: topics 258 (265 at 09:54), concepts 235 (241), voids 83 (83). Today's edits only shrank the pool.
+- **Newcomer screen**: 0 articles. The window the floor newly admits (2026-10-18T09:53Z to 21:07Z) holds no commits (`git log` count 0). The gap between `4a1c0fbab8` (10-16T11:47Z) and `7f0fc32b41` (10-19T07:21Z) still holds, so runs before about 2026-10-26T07:21Z will also find no newcomers.
+- **Strict gate** (body-only `count_words`, summed body under the hard threshold, `>=` fails):
+  - topics: 0 pairs (smallest eligible sum 1990 + 2112 = 4102, hard 4000; unchanged).
+  - voids: 0 pairs (1732 + 1770 = 3502, hard 3000; unchanged).
+  - concepts: 107 fitting pairs (unchanged). Only two of them link each other, and both are recorded carve-outs that are unchanged:
+    - `causal-powers` + `mind-arena` (3494). mind-arena carries the distinction heading and the "inherits from" / "the source of" cues.
+    - `phenomenal-depth` + `phenomenal-presentation` (3047), declined on the inline `**Versus [[phenomenal-depth]].**` at phenomenal-presentation L54.
+  - `adaptive-computational-depth` + `phenomenal-depth` is still out of the pool and re-enters about 2026-10-31T22:54Z. Its decline stands on content.
+  - Cross-section: the same 6 linked pairs under 4000, all recorded declines. The concept↔topic pairs were declined at 02:41 (`instrumental-convergence` + `mind-arena` 3983, `presentiment-and-retrocausality` + `transactional-interpretation-of-quantum-mechanics` 3749, `purpose-and-alignment` + `mind-arena` 3996). The concept↔void pairs were declined at 17:10 or earlier (`apophatic-approaches` + `the-silence-void` 3864 and + `thrownness-void` 3647, `manyism` + `plurality-void` 3795).
+- **Pre-screen of today's newcomers** (for when they cross the floor, about 11-01T12:10Z and 11-01T20:51Z):
+  - Length rules out both. Each is about 2,700 words (2737 and 2701). The smallest eligible concept is 1380, so the best concepts sum is 4081 against a hard limit of 3500, and the best topics sum, 2701 + 1990 = 4691, fails the topics limit of 4000.
+  - Role and overlap point the same way. `rollback-argument-against-agent-causation` calls itself the luck objection "in the form aimed at agent-causal libertarianism". Its Further Reading names `agent-causation` "the Map's terminus" and `quantum-indeterminacy-free-will` "the Map's full reply".
+  - Verbatim 8-gram overlap is 0 with `agent-causation`, `quantum-indeterminacy-free-will`, `event-causal-libertarianism`, `the-divided-will`, `the-consequence-argument-for-incompatibilism` and `archive/concepts/luck-objection`. It is 22 with `agent-causation-and-acting-for-reasons`, and those are one shared sentence on agent-causal theories and substance dualism.
+  - `transparency-method-of-self-knowledge` has an `### Other Senses of "Transparency"` section that separates itself from `phenomenal-transparency-opacity-spectrum` and `revelation-thesis`. Its overlap is ≤ 8 shared 8-grams with each of `introspection`, `self-blindness`, `phenomenal-authority-and-first-person-evidence`, `phenomenal-transparency-opacity-spectrum` and `revelation-thesis`.
+  - Positive control: the same code finds 311 shared 8-grams for `selection-only-channel` + `selection-only-mind-influence`.
+- **Held-out same-subject pair**: `valence` (1932) + `valence-void` (2083) = 4015 is over the hard limits of both home sections and of topics. The void is inside the floor until about 10-30T07:07Z. It is a concept↔void factorisation: the concept covers competing accounts, and the void asks why experience comes "pre-sorted into good and bad". Decline.
+- **Finding**: unchanged. Length rules out every pair in topics and voids, and both newcomers by arithmetic. In concepts and across sections, every linked pair is a recorded decline. Cap relief would have to come from `/archive`, `/condense` or a cap raise: topics has 4 slots by the gate, concepts 4 (down from 6 at 09:54 after today's two additions), voids 12.
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 20:50 - expand-topic
 - **Status**: Success
