@@ -1,14 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 08:32:10+00:00
+ai_modified: 2026-10-25 08:54:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 08:32:10+00:00
+lastmod: 2026-10-25 08:54:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 08:54 - deep-review
+- **Status**: Success
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Word count**: 3490 → 3496 (+6; hard gate 3500 at >=, 3 headroom)
+- **Critical issues addressed**: 5
+  - L174 said delegatory dualism is "closure-preserving". That contradicted L114/L122 and Saad. Saad's raw text: delegatory dualism "yields only unobservable violations of Closure", and quantum interactionism violates *Observational* Closure. Fixed.
+  - L122 dropped Tenet 2's "under current experimental precision" and called it a "parallel" to Saad's nomic-possibility standard. Restored, and the claim is now "weaker".
+  - L134 was stronger than [trumping-preemption](/concepts/trumping-preemption/)'s fourth cost and omitted the Born apex's Route 1 symmetry debt. Now scoped to the causal-traffic reading, with the difference-making concession and "experience's authority … is the dualist's commitment, not the machinery's" added. Funded by an L132 merge (−12).
+  - Orphan Lewis 1973 reference removed.
+  - L150 "establishes why this selection must be conscious" was a stranded necessity verb left by the 09-27 trilemma repair. It now says "argues heuristically", and the Further Reading label is aligned.
+- **Medium issues addressed**: 7
+  - L83: Organizational Invariance "bars zombies only nomologically", per Saad.
+  - L148: "follows by construction" and "at every grain", grounded in delegation, not in Born-marginal selection.
+  - L146: "physically specifiable".
+  - L172/L178: stranded flat "implications"/"defect" wording.
+  - Description: "solving" became "a proposed answer … empirically silent".
+  - Conservation label: "need violate".
+  - L176: "determinism-compatible" (Claude outer-review lead).
+- **Citations**: Saad 182(3-4) confirmed at Crossref. Four Saad quotes are verbatim in PMC12062107. Lewis 2000, Schaffer 2000 and Lewis 1973 were checked at Crossref. Torres Alegre and Kauten were checked at arXiv.
+- **Engagements**: epiphenomenalism Mixed (Mode One on causal traffic; Mode Three on difference-making and direction); strict empiricist Mode Three; mirror-move physicalist Mode Three.
+- **Leads (not edited)**:
+  - The closure misattribution recurs in delegation-meets-quantum-selection L92, trumping-preemption L89, interface-specification-programme L110 and research-programme-decisions L112.
+  - observational-closure L106 drops the same Tenet 2 qualifier.
+  - delegatory-dualism L108 calls Schaffer's "Charge!" case "Saad's analogy"; Saad's is "troops to advance".
+  - Archive hits are listed in the review.
+- **Output**: [deep-review-2026-10-25-delegatory-causation](/reviews/deep-review-2026-10-25-delegatory-causation/)
 
 ## 08:31 - refine-draft
 - **Status**: Success

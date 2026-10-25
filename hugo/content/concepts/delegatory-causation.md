@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-10-15 23:52:15+00:00
+ai_modified: 2026-10-25 08:55:24+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -20,15 +20,15 @@ concepts:
 - '[[consciousness-bandwidth-architecture]]'
 - '[[trumping-preemption]]'
 created: 2026-02-15
-date: &id001 2026-10-15
-description: 'Bradford Saad''s unified mechanism for mental causation: experiences
-  preempt the default causal profile of physical brain states by trumping rather than
-  competing—solving the exclusion problem without overdetermination.'
+date: &id001 2026-10-25
+description: 'Bradford Saad''s mechanism for mental causation: experiences preempt
+  the default causal profile of brain states by trumping rather than competing—a proposed
+  answer to the exclusion problem, free of overdetermination but empirically silent.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-18 08:36:00+00:00
-lastmod: 2026-10-15 23:52:15+00:00
+last_deep_review: 2026-10-25 08:55:24+00:00
+lastmod: 2026-10-25 08:55:24+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -84,7 +84,7 @@ This raises a question: how can a counterfactual serve as the foundation for a c
 
 **Functional specification.** The default profile can be defined functionally, in terms of what the physical state's causal powers are—independent of whether those powers are exercised. A physical state's causal profile is determined by its physical properties (neural connectivity, activation patterns, neurotransmitter concentrations), which can be characterised without reference to whether delegation occurs.
 
-**Zombie thought experiment.** Saad's Organizational Invariance constraint offers indirect access: a functional duplicate without experience—a [philosophical zombie](/concepts/philosophical-zombies/)—would exhibit the default profile directly. If zombies are metaphysically possible (itself a contested claim), their behaviour reveals what the default profile produces. The zombie's wince is caused by the brain state's default profile; a conscious being's wince is caused by pain that has preempted that profile.
+**Zombie thought experiment.** Saad's Organizational Invariance constraint bars zombies only nomologically, leaving indirect access: a functional duplicate without experience—a [philosophical zombie](/concepts/philosophical-zombies/)—would exhibit the default profile directly. If zombies are metaphysically possible (itself a contested claim), their behaviour reveals what the default profile produces. The zombie's wince is caused by the brain state's default profile; a conscious being's wince is caused by pain that has preempted that profile.
 
 **Physical law.** The default profile is grounded in physics: the laws governing neural dynamics, electrochemistry, and motor output specify what a brain state would produce through physical processes alone. These laws are well-characterised and empirically accessible, even if the counterfactual scenario is never observed in intact conscious systems.
 
@@ -123,7 +123,7 @@ Delegation's comparative advantage depends on which theoretical costs one finds 
 
 A key feature of delegatory causation is its empirical invisibility—what Saad calls [observational-closure](/concepts/observational-closure/). Because experiences cause exactly the effects that their underlying physical states would have caused by default, no experiment can detect that delegation has occurred.
 
-Saad distinguishes *universal* causal closure (every physical event has a sufficient physical cause—no exceptions) from *observational* closure (no observable violations of physical causal patterns). Delegation violates the former but respects the latter. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet makes a parallel claim: consciousness influences outcomes "without injecting energy or violating conservation laws" and produces no "empirically detectable" anomalies.
+Saad distinguishes *universal* causal closure (every physical event has a sufficient physical cause—no exceptions) from *observational* closure (no observable violations of physical causal patterns). Delegation violates the former but respects the latter. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet makes a weaker parallel claim: consciousness influences outcomes "without injecting energy or violating conservation laws" and rules out interaction "empirically detectable under current experimental precision."
 
 Delegation's case therefore rests on philosophical argument rather than empirical prediction. Saad grants as much, placing delegatory dualism "in the same predictive boat" as epiphenomenalist dualism, overdeterminist dualism, and physicalism—while denying that the equivalence sinks it: "the predictive equivalence of these theories is not a basis for sinking the boat or casting any of its passengers overboard."
 
@@ -133,9 +133,9 @@ Saad's refusal does not settle the matter, and the shared empirical profile dema
 
 The concern is sharpened by a tu quoque. Empirically equivalent theories must compete on theoretical virtues since predictions cannot decide between them. But appealing to theoretical virtues when empirical evidence is unavailable is a move the Map elsewhere criticises physicalists for making—invoking parsimony or explanatory scope to paper over the hard problem. If that move is suspect when physicalists make it, it looks suspect when dualists make it too.
 
-Delegation must therefore show that its advantage over epiphenomenalism is not just another theoretical preference but a constraint of a different kind. The strongest case is that epiphenomenalism is *epistemically self-defeating* in a way delegation is not. If experiences cause nothing, then introspective reports about experiences are not caused by those experiences. The evidence someone cites for epiphenomenalism (their awareness of their own experience) is, on the theory's own account, not produced by that experience. As [self-stultification](/concepts/self-stultification/) develops the structure, a theory that severs the link between its subject matter and the evidence for believing in it is self-undermining: it could still be true, but it cannot be rationally held if introspective knowledge requires causal traffic from experience. The defeater is epistemic and conditional, not logical—epiphenomenalism is not formally contradictory—so it is the position's [deepest difficulty rather than its refutation](/tenets/#tenet-3-epiphenomenalism).
+Delegation must therefore show that its advantage over epiphenomenalism is not just another theoretical preference but a constraint of a different kind. The strongest case is that epiphenomenalism is *epistemically self-defeating* in a way delegation is not. If experiences cause nothing, then introspective reports and beliefs—the evidence someone cites for epiphenomenalism—are, on the theory's own account, not produced by the experiences they concern. As [self-stultification](/concepts/self-stultification/) develops the structure, a theory that severs the link between its subject matter and the evidence for believing in it is self-undermining: it could still be true, but it cannot be rationally held if introspective knowledge requires causal traffic from experience. The defeater is epistemic and conditional, not logical—epiphenomenalism is not formally contradictory—so it is the position's [deepest difficulty rather than its refutation](/tenets/#tenet-3-epiphenomenalism).
 
-Delegation avoids this self-defeat: reports about pain are caused by the pain itself, because the pain has taken over the causal work, so the reliability of introspection is explained rather than merely assumed. This asymmetry is less like choosing a prettier theory than like rejecting one that defeats its own evidence base—a matter of rational credibility, not taste.
+Delegation meets the causal-traffic condition: reports about pain are caused by the pain itself, which has taken over the causal work. A difference-making condition is another matter: the brain state alone would have produced the same report, so there delegation fares no better than epiphenomenalism ([trumping template](/concepts/trumping-preemption/), fourth cost). Preemption could also run the other way, so experience's authority over the brain state is the dualist's commitment, not the machinery's. On the causal-traffic reading, the asymmetry is one of rational credibility, not taste.
 
 Two honest limitations remain. First, the self-undermining argument burdens epiphenomenalism but does not distinguish delegation from physicalism, which also explains introspective reports (via physical processes that constitute or correlate with experiences). Delegation's case against physicalism rests on the broader arguments for [interactionist-dualism](/concepts/interactionist-dualism/)—the [hard problem](/topics/hard-problem-of-consciousness/), the conceivability arguments—not on causal structure alone. Second, even granting that rational endorsability is a harder constraint than parsimony, a strict empiricist may hold that no theoretical advantage compensates for shared empirical emptiness. The Map's [fifth tenet](/tenets/#occams-limits)—that parsimony is unreliable with incomplete knowledge—provides a framework for resisting this strict empiricism, but this resistance is itself a philosophical commitment.
 
@@ -147,11 +147,11 @@ The reasoning: a neural system approaching a quantum indeterminacy has a probabi
 
 This identification has consequences:
 
-**The counterfactual becomes measurable.** The Born rule is among physics' most thoroughly confirmed regularities ([direct tests bound deviations near 10⁻⁴](/concepts/sorkin-higher-order-interference/)). The default causal profile becomes a physical quantity derivable from the quantum state of the neural system.
+**The counterfactual becomes physically specifiable.** The Born rule is among physics' most thoroughly confirmed regularities ([direct tests bound deviations near 10⁻⁴](/concepts/sorkin-higher-order-interference/)). The default causal profile becomes a physical quantity derivable from the quantum state of the neural system.
 
-**Observational closure follows necessarily.** If consciousness selects *within* Born-rule probabilities, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies — and so no [Born-test exposure](/topics/born-rule-and-the-consciousness-interface/), the cost the born-rule article names — because the experience causes what the default profile would have produced statistically. The philosophical constraint Saad imposes by design—no observable violations—coincides with a structural constraint argued to be required of any relativistically consistent probability assignment (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed). The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally. This very coincidence is what generates the sharpest residual worry: if the experience leaves *no* trace at the ensemble level, [is it doing causal work or only riding the distribution physics already fixes](/concepts/ensemble-level-epiphenomenalism/)? Delegation's answer is the trumping route—efficacy is a structural property, not a statistical one—rated honestly there as framework-internal rather than empirically demonstrable.
+**Observational closure follows by construction.** Because the experience causes only what the Born-rule default would have produced, outcome statistics are unchanged at every grain: delegation produces no empirical anomalies — and so no [Born-test exposure](/topics/born-rule-and-the-consciousness-interface/), the cost the born-rule article names. The philosophical constraint Saad imposes by design—no observable violations—coincides with a structural constraint argued to be required of any relativistically consistent probability assignment (Torres Alegre 2025, a recent arXiv preprint not yet peer-reviewed). The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally. This very coincidence is what generates the sharpest residual worry: if the experience leaves *no* trace at any grain, [is it doing causal work or only riding the distribution physics already fixes](/concepts/ensemble-level-epiphenomenalism/)? Delegation's answer is the trumping route—efficacy is a structural property, not a statistical one—rated honestly there as framework-internal rather than empirically demonstrable.
 
-**Profile matching gains precision.** The Subset Law* requires that an experience's causal profile be a subset of the physical state's default profile. On the quantum reading, this means consciousness cannot cause effects the quantum state assigns zero probability. Selection chooses among live options; it does not create options physics forbids. The [trilemma-of-selection](/topics/trilemma-of-selection/) establishes why this selection must be conscious: at any point of genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only mental causation preserves authorship.
+**Profile matching gains precision.** The Subset Law* requires that an experience's causal profile be a subset of the physical state's default profile. On the quantum reading, this means consciousness cannot cause effects the quantum state assigns zero probability. Selection chooses among live options; it does not create options physics forbids. The [trilemma-of-selection](/topics/trilemma-of-selection/) argues heuristically that this selection is conscious: at any point of genuine indeterminacy, of the usual options — determinism, randomness, mental causation — only mental causation preserves authorship.
 
 ## Bandwidth and Granularity
 
@@ -173,13 +173,13 @@ Delegatory causation supports multiple tenets of the Map's framework.
 
 **[Dualism](/tenets/#dualism)**: The mechanism presupposes that consciousness and physical processes are ontologically distinct. Only if experiences are not identical with brain states can they *take over* causal work rather than merely being redescriptions of it. If experience just *is* the brain state under a different description, there is no default profile to preempt—the distinction collapses. Constitution models eliminate the gap; delegation requires it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Delegation provides the causal structure for the Map's third tenet. Consciousness causally influences the physical world—not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining implications of epiphenomenalism.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Delegation provides the causal structure for the Map's third tenet. Consciousness causally influences the physical world—not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining charge against epiphenomenalism.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. These operate at different levels—mechanism and structure—but their integration is a Map-specific proposal, not an automatic fit, and the two sit in real tension. Biasing an indeterminate quantum outcome is difference-making and gives up strong causal closure, whereas delegatory trumping is difference-making-free and preserves it; Saad himself treats closure-violating quantum interactionism as a *different* theory from closure-preserving delegatory dualism. The quantum-selection channel and the trumping route are therefore best read as distinct and potentially competing mechanisms ([bidirectional-interaction](/concepts/bidirectional-interaction/)), not two descriptions of one process. Where the Map does join them—the [delegation-selection bridge](/topics/delegation-meets-quantum-selection/)—consciousness biases outcomes (mechanism) and this biasing is offered as what delegation amounts to (structure). The [invertebrate test case](/topics/invertebrate-consciousness-as-interface-test/) sharpens this: if delegation occurs wherever architecturally adequate systems couple with consciousness, a bee's brain delegates through the same preemption structure as a human cortex—the mechanism must be scale-independent.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. These operate at different levels—mechanism and structure—but their integration is a Map-specific proposal, not an automatic fit, and the two sit in real tension. Biasing an indeterminate quantum outcome is difference-making, whereas delegatory trumping is difference-making-free and violates closure only unobservably; Saad himself classes quantum interactionism, a different theory from delegatory dualism, as violating even *observational* closure. The quantum-selection channel and the trumping route are therefore best read as distinct and potentially competing mechanisms ([bidirectional-interaction](/concepts/bidirectional-interaction/)), not two descriptions of one process. Where the Map does join them—the [delegation-selection bridge](/topics/delegation-meets-quantum-selection/)—consciousness biases outcomes (mechanism) and this biasing is offered as what delegation amounts to (structure). The [invertebrate test case](/topics/invertebrate-consciousness-as-interface-test/) sharpens this: if delegation occurs wherever architecturally adequate systems couple with consciousness, a bee's brain delegates through the same preemption structure as a human cortex—the mechanism must be scale-independent.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The Born-rule identification makes the Map's rejection of MWI essential to integrating delegation with quantum mechanics. If all quantum outcomes occur in parallel branches, there is no selection among them—and therefore no preemption of the Born-rule profile by experience. On the Map's reading, delegation requires that one outcome becomes actual while others are excluded; this requirement attaches to the quantum bridge specifically, not to Saad's mechanism in the abstract.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The Born-rule identification makes the Map's rejection of MWI essential to integrating delegation with quantum mechanics. If all quantum outcomes occur in parallel branches, there is no selection among them—and therefore no preemption of the Born-rule profile by experience. On the Map's reading, delegation requires that one outcome becomes actual while others are excluded; this requirement attaches to the quantum bridge specifically, not to Saad's determinism-compatible mechanism in the abstract.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Delegation is more complex than epiphenomenalism, and its advantage is not empirical but structural: it avoids the self-undermining defect that epiphenomenalism's account of introspection creates. Whether this rational-endorsability advantage justifies the added complexity is itself a philosophical judgement. The Map's fifth tenet—that parsimony is unreliable with incomplete knowledge—provides a framework for making that judgement, but does not settle it.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Delegation is more complex than epiphenomenalism, and its advantage is not empirical but structural: it avoids the self-undermining charge that epiphenomenalism's account of introspection faces. Whether this rational-endorsability advantage justifies the added complexity is itself a philosophical judgement. The Map's fifth tenet—that parsimony is unreliable with incomplete knowledge—provides a framework for making that judgement, but does not settle it.
 
 ## Honest Limitations
 
@@ -207,19 +207,18 @@ Saad's full theory—his five constraints and the Map integration—is developed
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework for mind-body laws, related to Saad's Subset Law*
 - [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) — Invertebrate architectures as test cases for universal delegation
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — The Born rule as the physics of the default profile
-- [trilemma-of-selection](/topics/trilemma-of-selection/) — Why selection at quantum indeterminacies must be conscious
+- [trilemma-of-selection](/topics/trilemma-of-selection/) — Why only conscious selection at indeterminacies preserves authorship
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five constraints on any consciousness-physics coupling
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The bandwidth constraint shaping which portions of the default profile experience preempts
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other responses to the exclusion problem
-- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation violates neither conservation laws nor observational closure
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation need violate neither conservation laws nor observational closure
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Where delegation sits in the thickness taxonomy of dualist positions
 - [articulability-of-q1](/concepts/articulability-of-q1/) — Why Saad's two laws are the leading candidate but the authority-law ground remains an open problem
 
 ## References
 
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3-4), 939-967. https://doi.org/10.1007/s11098-025-02290-3
-2. Lewis, D. (1973). Causation. *Journal of Philosophy*, 70(17), 556-567.
-3. Lewis, D. (2000). Causation as Influence. *Journal of Philosophy*, 97(4), 182-197.
-4. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
-5. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-6. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. arXiv:2512.12636 (preprint, not yet peer-reviewed).
+2. Lewis, D. (2000). Causation as Influence. *Journal of Philosophy*, 97(4), 182-197.
+3. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
+4. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+5. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. arXiv:2512.12636 (preprint, not yet peer-reviewed).
