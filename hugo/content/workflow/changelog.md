@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 21:10:49+00:00
+ai_modified: 2026-10-25 21:41:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-25'
-lastmod: 2026-10-25 21:10:49+00:00
+lastmod: 2026-10-25 21:41:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 21:41 - research-topic
+- **Status**: Success
+- **Topic**: Carruthers's interpretive sensory-access (ISA) theory (P3, harvested from optimistic-2026-10-25-self-knowledge-wing, Uncovered Subjects 2)
+- **Output**: [interpretive-sensory-access-theory-2026-10-25](/research/interpretive-sensory-access-theory-2026-10-25/)
+- **Verdict**: `recommended_action: article`, target `concepts/interpretive-sensory-access-theory` (check_slug OK; concepts 366/370 by count_section_files). A fold was weighed and declined: transparency-method (2,701) covers a rival family and its own note deferred parity to this task; self-blindness's parity paragraph is owned by its open P3; introspection has 8 words of headroom; phenomenal-authority is 513 over.
+- **Findings**: three live scope overstatements (phenomenal-transparency-opacity-spectrum L77, already routed to the self-blindness P3; phenomenal-authority L146 "always inferential"; amplification-void L77). Two applications are misattributed to Carruthers: common-knowledge-void's "Heterophenomenological" heading (Dennett's term) and medium-status apex L114's "fluency-driven heuristic". cognitive-phenomenology cites no Carruthers. Hurlburt 2009 sides with ISA on attitude access, which corrects the lead that framed him as a critic. metacognition's Carruthers 2011 reference has no body citation.
+- **Integration**: 12 host passages with exact OLD text (each str.count == 1) and analyze_length budgets, including net-zero for common-knowledge-void and net-negative for both over-length hosts.
+- **Sources consulted**: 31 (Crossref metadata for every DOI-bearing work; abstracts via OpenAlex, Crossref JATS and PubMed; SEP Introspection and Folk Psychology raw HTML; Scientific American 2018 interview raw HTML). Leads marked: JCS 2017 issue number, Opacity chapter targets, §8 verdict wording, Andreotta (title only).
 
 ## 21:10 - coalesce
 - **Task**: coalesce cycle slot. This is a delta check since the 09:54 run (commit `3541e9a857`). The 7-day floor is now 2026-10-18T21:07Z, and a page is eligible only if its `created`, `ai_modified`, `human_modified` and last commit all fall before the floor and it is clean in the working tree. Abandoned (steady state).
