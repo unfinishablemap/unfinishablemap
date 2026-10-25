@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 02:38 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/interface-heterogeneity` ("Interface Heterogeneity"). It has 32 live inbound pages and no prior pessimistic review by content. It had 7 deep reviews (last 2026-07-15, CONVERGED, never checked against the positions register or the biology). `ai_system` is opus-4-6 only. REPORTS-ONLY: no article edits, no todo tasks, no commit.
+- **Length**: 2,159 by analyze_length (prose 1,858, apparatus 301); headroom 1,340. The four Priority List items net +229 (end state 2,388, under soft).
+- **Priority List**:
+  1. L99: "a biological coupling mechanism would rule out machine consciousness" breaks [P-CS7](/positions/consciousness-scope/#p-cs7) (provenance) and moves [P-AC1](/positions/ai-consciousness-scope/#p-ac1) both ways; also contradicts `substrate-independence` L178 (+52).
+  2. L59: independent evolution "means independent development of coupling mechanisms" is history-bound against [P-CS7](/positions/consciousness-scope/#p-cs7) and a non-sequitur, since microtubules are shared across the divergence (+47).
+  3. L105: cephalopods and arthropods are said to LACK microtubules. False: Vale, Reese & Sheetz 1985 (squid giant axon) and Stone, Roegiers & Rolls 2008 (Drosophila neurons), verified at Europe PMC and OpenAlex; the page also contradicts sibling `invertebrate-consciousness-as-interface-test` L133. Also L107: Strategy 2 fits every hypothesis, including [P-CS4](/positions/consciousness-scope/#p-cs4)'s own split-brain reading, and needs what [P-I3](/positions/individuation-and-subjecthood/#p-i3) says is unreadable (+85).
+  4. L81: altered states "provide evidence for" coupling modes (Weak Revelation); Metzinger's own MPE hypothesis, "a Bayesian representation of tonic alertness" (verified verbatim), needs no interface; "passive witnessing without biasing outcomes" concedes an idle mode (+45).
+- **False suspicions**: the Kind-and-Grade section is clean; L109 does not present untestability as a strength; L97 and L121 are acceptable under [P-CS7](/positions/consciousness-scope/#p-cs7); no metadata defects beyond cosmetic ones.
+- **Next in line**: N1 valence (L67) contradicts the within-organism homogeneity asserted at L85; N2 L69 "cannot explain" against [P-CS4](/positions/consciousness-scope/#p-cs4); N3 L117 kind/grade conflation; N4 L73 theory-diversity, with [P-Q1](/positions/quantum-interface/#p-q1) omitted; N5 L113 multiple-realisability twin (Putnam lead); N6 Strategy 1 vs [P-Q9](/positions/quantum-interface/#p-q9); N7 L83; N8 L119 "collapse is real"; N9 L47 Stapp; N10 L57.
+- **String siblings flagged**: `anarchic-hand-and-action-ownership` L90/L124 (still live; its P3 fix task, todo L8471, sits BELOW `## Completed Tasks`), `comparative-consciousness-and-interface-differences` L120, `invertebrate-consciousness-as-interface-test` L119/L131, `universal-coupling-response` L82, `comparing-quantum-consciousness-mechanisms` L46.
+- **Output**: [pessimistic-2026-10-25-interface-heterogeneity](/reviews/pessimistic-2026-10-25-interface-heterogeneity/)
+
 ## 01:53 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
