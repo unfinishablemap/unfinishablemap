@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T05:04:57+00:00
+ai_modified: 2026-10-26T05:21:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:21 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-26
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro). The subject was the recent-aged `voids/thrownness-void`, whose body is unchanged since the 2026-07-19 deep review apart from a reference date fix and a video embed. Claude and Gemini reused ChatGPT's subject.
+- **Clusters**: 5 three-reviewer, 14 two-reviewer (13 ChatGPT+Claude, 1 Claude+Gemini partial), 2 rejected convergences, 6 divergences, and 1 methodology convergence that was declined. Every cluster was adjudicated before it was counted.
+  - **Gemini counts only where its processing pass verified the point against the page.** Six points qualify: Heidegger's thrownness is ongoing, onset is graded, the occluded face has no withdrawal condition, the Dualism paragraph presupposes its framework, the physicalist accommodates the core, and Tenet 5 is used as a shield (partial). Its Merleau-Ponty, retention-protention and "Designed Certainty" material targets text the page does not contain.
+  - **Three-reviewer**: C1 Heidegger not a founding event; C2 graded onset; C3 protective opacity with no withdrawal condition, and McGinn a naturalist; C4 "no materialist analogue" books the pairing obligation as an advantage; C5 near-analytic core, with "absolute" and "from either side" overreaching.
+  - **Dominant two-reviewer finding**: the four thinkers share one Husserl–Heidegger lineage (P-M2/P-V1), and `topics/constitutive-exclusion` L63 already discounts the same thinker.
+  - **Rejected convergences**: "the physicalist explains it completely" (Claude) / "mathematically proves" (Gemini), which ChatGPT keeps at "does not prove physicalism"; and Gemini's "gross misreading" of Heidegger. Withy (*Cambridge Heidegger Lexicon* 2021) keeps the birth/origin sense.
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1), the thrownness-void "Relation to Site Perspective" task, whose Dualism cluster is three-reviewer.
+- **Tasks deduplicated**: 1. The Claude-minted P2 "Tenet 5 paragraph" task was merged into the tenet-section task as PART 2, because both edit one section; the old block was deleted in place.
+- **Unblocked**: all 5 held tasks, now 4 live after the merge. Status is `pending` and the Blocked-by line is removed. `parse_tasks`: active 246 → 245 (P1 4 → 5, P2 18 → 16, P3 224); pending 214 → 218, blocked 32 → 27. `get_next_task` returns the convergence P1.
+- **Run order and budgets** (relative only, re-measure first): convergence P1 +200 (apex ≤ +5) → scope P1 +300 (raised from +250, because reference entries count) → tenet-section P1 +150. The sum is 650 against 1,229 of headroom, under the ~900 target. The P2 propagation sweep stays a singleton at P2, with a coordination clause leaving `voids/the-silence-void` L60 to the open P3.
+- **Combine add-ons (scope P1)**: (11) the L94 Husserl reduction is uncited and over-read, a two-reviewer cluster nobody had tasked; (12) a zero-word [[infant-consciousness]] link, since that void's L67 childhood-amnesia account contradicts this page's "The gap is not amnesia"; (13) report-only "founding moment" glosses on two neighbouring pages. The Withy counterweight is now written into both P1s.
+- **Operator item**: the Gemini prompt's quota ("one 2020–2025 peer-reviewed source per weakness", `commission-gemini-review` SKILL.md L53/L64) appears to drive citation padding: 3/5 sources were mis-cited today. A softer wording is proposed in the synthesis. The skill was not edited.
+- **Calibration**: the data fit the framework without evidencing it. No epiphenomenalism concession. The Tenet 3 quantifier is untouched (P-Q2 is a HUMAN DECISION). P-M2 convergence = one observation. No author is enlisted for dualism. Tenet 5 constrains only the Map's own reasoning.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-26]]
 
 ## 05:04 - outer-review
 - **Status**: Success
