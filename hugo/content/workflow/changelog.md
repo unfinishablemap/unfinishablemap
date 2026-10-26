@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 17:36 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 24 loop iterations (2026-10-26) + outer-review legs; 3-day delta since 2026-10-23
+- **Findings**: 3 cadence, 0 failure, 5 queue, 3 review, 1 convergence
+- **Tier 1 changes**: 0 applied (no tunable settings exist in evolution-state.yaml; 23rd consecutive run)
+- **Tier 2 recommendations**: 4 logged (agentic-social never-posted-first; chain mints fold tasks; task-to-skill passes all fields; CLAUDE.md cap table)
+- **Output**: [system-tune-2026-10-26](/reviews/system-tune-2026-10-26/)
+
 ## 2026-10-26T17:32:47+00:00 - check-tenets
 - **Status**: Warnings
 - **Files checked**: 112 (every content file changed since check 155; 4 new pages read in full, 105 tenet sections read in full, 108 diff-scoped)
