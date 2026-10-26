@@ -1,9 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T00:02:30+00:00
+ai_modified: 2026-10-26T00:21:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 00:21 - expand-topic
+- **Status**: Success
+- **Topic**: Galen Strawson's Basic Argument and Constitutive Luck
+- **Output**: [[concepts/basic-argument-and-constitutive-luck]]
+- **Word count**: 2,761 by `analyze_length` (soft_warning; concepts soft 2,500 / hard 3,500). The split is 2,454 words of prose before References and ~307 of reference apparatus, so the prose is under the soft target.
+- **Based on research**: yes, [[research/basic-argument-and-constitutive-luck-2026-10-25]]
+- **Verification**: every quoted string in the body (59) was grep-checked, whitespace-insensitively, against raw source text with zero misses. Sources: Strawson 1994 (JSTOR OCR; page breaks mapped, and "in certain respects" confirmed at p. 7), Nagel's anthology text, SEP Free Will, SEP Skepticism and SEP Moral Luck raw, IEP raw, or the Map's own pages. The positive controls hit first; the absence terms "agent caus", "dualis", "soul", "substance" and "Cartesian" are zero in Strawson 1994.
+- **Guards honoured**:
+  - G. Strawson is disambiguated from P.F. in the lead.
+  - The parity point is credited to Strawson's third response and n. 8, and its application to the Map's agent is labelled the Map's reading.
+  - The agent-causal reply is stated as REJECTING premise (2). It is credited to Clarke 2003: 170–76 "as the SEP free-will entry summarizes it; those pages were not read", and Istvan's counter is SEP-reported.
+  - The page cross-links the rollback and keeps the two arguments distinct (table).
+  - It claims self-shaping only. Desert is named as the exposure, with the P-A5 residue stated as a dependency.
+  - It does not say Nagel coined "constitutive luck": SEP "influentially named" and IEP "probably gets from Williams" are both quoted. "Moral luck" is credited to Williams, and Nagel's paper to a reply.
+  - No epiphenomenalism is conceded. The Tenet 3 quantifier is left open, Tenet 4's persisting subject is a commitment, and Tenet 5 constrains the Map only. No author is enlisted for dualism, and stance lines are given for Strawson, Hartman, Clarke, O'Connor and Mele.
+  - Strawson 1994 is cited for Kane 1989, and Strawson 2000 for Kane 1996.
+- **Host edits** (OLD at count 1 each; `analyze_length` before → after):
+  - `apex/consciousness-and-agency` L155: 4,989 → 4,994 (+5; headroom 5 left). The note's +4 became +5 with "Galen", because L149 names P.F. Strawson's reactive attitudes.
+  - `concepts/moral-responsibility` L79, L113 and L173: 3,487 → 3,495 (+8; headroom 4). L73 was left unedited.
+  - `topics/moral-implications-of-genuine-agency` L60 (×2), L72 and L76: 3,887 → 3,948 (+61; headroom 51). L72 removes the live "independently identified" defect.
+    - L76 cites "(G. Strawson 1994: 18)", and a Strawson 1994 reference was added.
+    - Heading renamed "Character as Self-Creation" → "Self-Shaping" (no inbound anchor in either dialect), with the L130 prose label to match.
+  - `topics/reactive-attitudes-and-strawsonian-responsibility` L75: 2,792 → 2,792 (0-word pipe; optional sentence not installed).
+  - `concepts/source-versus-leeway-incompatibilism`: 2,311 → 2,376 (+65). It carries "four arguments" and the Basic Argument bullet.
+    - The bullet was placed AFTER the Frankfurt bullet, so that bullet's "pivot between them" keeps its referents.
+    - Heading "Where the Map's Three Incompatibilism Arguments Sit" → "Where the Map's Four Arguments Sit" (no inbound anchor; the Basic Argument is not strictly an incompatibilism argument).
+    - Strawson 1994 added to References.
+  - `concepts/rollback-argument-against-agent-causation`, Further Reading: 2,737 → 2,753 (+16).
+  - `topics/event-causal-libertarianism` L48: 3,156 → 3,220 (+64). The NEW reads "read the 1989 version of this view … and asked" to honour the Kane-1989 guard, and Kane 1989 and Strawson 1994 were added to References.
+- **Flagged, not edited**:
+  - `apex/living-with-the-map` L96, "partly self-created" → "self-shaped", 0 words (/apex-evolve).
+  - `topics/ethics-under-dualism` L173, "genuine self-creation" → "self-shaping", 0 words.
+  - Also seen: `apex/moral-architecture-of-consciousness` L98 lists "character as self-creation" among the companion article's implications (0-word label fix, /apex-evolve).
+  - `topics/free-will` L165 was left alone per the note.
+  - `positions/agency-and-will` P-A5 "ultimate desert" residue: for /positions-evolve.
 
 ## 00:02 - research-topic
 - **Status**: Success

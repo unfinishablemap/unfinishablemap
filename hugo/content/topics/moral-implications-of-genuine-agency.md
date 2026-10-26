@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-09-20 13:53:57+00:00
+ai_modified: 2026-10-26 00:20:39+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[compatibilist-symmetry-challenge]]'
 - '[[attentional-economics]]'
 created: 2026-02-23
-date: &id001 2026-02-23
+date: &id001 2026-10-26
 description: If consciousness causes actions, morality changes from useful convention
   into a response to metaphysical structure. Exploring what follows for obligation,
   character, and moral life.
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 16:05:02+00:00
-lastmod: 2026-09-20 13:53:57+00:00
+lastmod: 2026-10-26 00:20:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,9 +59,9 @@ Under genuine agency, obligation finds its footing. On the Map's framework, cons
 
 This does not settle *which* obligations hold. Genuine agency is compatible with consequentialist, deontological, and virtue-ethical frameworks. What it provides is the precondition that all these frameworks require: a being with genuine [reasons-responsiveness](/concepts/reasons-responsiveness/)—"genuine" in this article's libertarian sense—one who can respond to moral reasons by acting on them, rather than one whose response is already determined by factors beyond their control. That stipulation does not withdraw the concession made above: Fischer and Ravizza's mechanism-level reasons-responsiveness is by construction compatible with determination, and it remains a real capacity of agents on its own terms. Whether the libertarian reading of the precondition does any additional moral work is exactly the [compatibilist symmetry challenge](#the-compatibilist-symmetry-challenge) below.
 
-## Character as Self-Creation
+## Character as Self-Shaping
 
-If choices are authored by the agent, character is self-created in the same act. Each selection reinforces or modifies dispositions, gradually shaping the kind of agent one becomes. The [moral-responsibility](/concepts/moral-responsibility/) article argues that we are not responsible for our initial characters, but we are responsible for what we make of them. Agent causation makes this claim more than metaphor.
+If choices are authored by the agent, character is partly self-shaped in the same act, though not self-created: the shaping power was itself unchosen, as Galen Strawson's [Basic Argument](/concepts/basic-argument-and-constitutive-luck/) insists. Each selection reinforces or modifies dispositions, gradually shaping the kind of agent one becomes. The [moral-responsibility](/concepts/moral-responsibility/) article argues that we are not responsible for our initial characters, but we answer for what we make of them. Agent causation makes this claim more than metaphor.
 
 The process operates through what the Map describes as [attentional-economics](/concepts/attentional-economics/). Where consciousness directs attention shapes which neural patterns consolidate and which decay. Attending to resentment strengthens vindictive dispositions; attending to empathy strengthens compassionate ones. Under genuine agency, this attentional direction is not determined by prior states—it is selected by the agent. Character formation becomes a long-running exercise of the same causal power that operates in individual choices.
 
@@ -73,11 +73,11 @@ Buddhist moral philosophy offers a competing positive view, not merely a paralle
 
 ## Moral Luck Reconsidered
 
-The problem of moral luck—that agents are praised or blamed for outcomes partly beyond their control—takes on a different character under genuine agency. Thomas Nagel and Bernard Williams independently identified moral luck as a central problem for moral theory. Nagel's taxonomy distinguishes four kinds: resultant luck (how things turn out), circumstantial luck (the situations one faces), constitutive luck (one's temperament and dispositions), and causal luck (how one's actions are determined).
+The problem of moral luck—that agents are praised or blamed for outcomes partly beyond their control—takes on a different character under genuine agency. Bernard Williams introduced the expression "moral luck", and Thomas Nagel's reply to him made it a central problem for moral theory. Nagel distinguishes four kinds, now usually labelled resultant luck (how things turn out), circumstantial luck (the situations one faces), constitutive luck (one's temperament and dispositions), and causal luck (how one's actions are determined).
 
 Genuine agency relocates rather than eliminates causal luck. If consciousness selects rather than being determined, the locus of luck shifts: it no longer attaches to "what determined the agent's choice" because there is no such determination. But the upstream determinants of the agent's situation persist. Constitutive luck shapes which alternatives appear as live options in deliberative phenomenology; circumstantial luck shapes the menu the agent perceives; the deliberative state at the moment of selection (fatigue, mood, attentional resources) is contingent and unchosen. Constitutive and circumstantial luck partially absorb territory previously assigned to causal luck. What the framework offers is the insertion of a new locus of authorship at the moment of selection, not the dissolution of luck's other operations. (Nagel's own treatment of causal luck is more entangled with constitutive and circumstantial luck than the four-category labelling suggests; the relocation framing here is closer to his texture than the elimination claim earlier drafts asserted.)
 
-The other categories shift in significance correspondingly. Constitutive luck—the temperament and dispositions one starts with—remains a genuine constraint. No one chooses their initial character. But under agent causation, constitutive luck is a starting position, not a destiny. The agent can reshape inherited dispositions through sustained effort. This does not eliminate the unfairness of different starting points, but it prevents constitutive luck from being totalising. The person born with an aggressive temperament who cultivates patience has authored something that the person who was simply born patient did not need to author.
+The other categories shift in significance correspondingly. Constitutive luck—the temperament and dispositions one starts with—remains a genuine constraint. No one chooses their initial character. But under agent causation, constitutive luck is a starting position, not a destiny. The agent can reshape inherited dispositions through sustained effort, though the capacity for that effort is also a starting endowment (G. Strawson 1994: 18), so what the agent authors is the exercise, not the power. This does not eliminate the unfairness of different starting points, but it prevents constitutive luck from being totalising. The person born with an aggressive temperament who cultivates patience has authored something that the person who was simply born patient did not need to author.
 
 Circumstantial luck—the moral tests one faces—also persists. The person never tempted never displays resistance. But genuine agency changes how circumstantial luck interacts with moral judgment. When the tested agent resists, their resistance is genuinely their doing, not a product of factors they didn't choose. The asymmetry between the tested and untested agent reflects a real difference in what each has authored, not merely a difference in what happened to each.
 
@@ -131,7 +131,7 @@ The Unfinishable Map's tenets jointly create the conditions under which moral im
 
 The [dualism tenet](/tenets/#dualism) ensures that agency is not reducible to physical processes. Without irreducibility, "genuine agency" collapses into a description of complex neural computation, and its moral implications reduce to pragmatic conventions about how to treat computational systems. Dualism preserves the agent as a real subject with real causal powers—the kind of being to whom moral categories genuinely apply.
 
-The agency cluster's substance-leaning sub-reading also bears on the moral conclusions here, and the dependency is worth making local rather than inheriting it silently from the tenet. The Dualism tenet is neutral between [substance and property dualism](/concepts/substance-property-dualism/); what the moral arguments above lean on is the further commitment, drawn from [agent-causation](/concepts/agent-causation/), that the agent is a persisting subject exercising causal powers in its own right—the *irreducible authorship* on which the "weight of authorship," character-as-self-creation, and agency-grounded obligation arguments all turn. [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) is the canonical account of where that lean enters and why it is not inherited from the tenet directly. A reader who accepts Dualism but rejects substance-bearing agents would find the moral conclusions contestable at the agency-cluster step rather than the tenet step, with reasons-responsive compatibilism—engaged at length in [the compatibilist symmetry challenge](#the-compatibilist-symmetry-challenge)—the natural alternative grounding for the same moral phenomena.
+The agency cluster's substance-leaning sub-reading also bears on the moral conclusions here, and the dependency is worth making local rather than inheriting it silently from the tenet. The Dualism tenet is neutral between [substance and property dualism](/concepts/substance-property-dualism/); what the moral arguments above lean on is the further commitment, drawn from [agent-causation](/concepts/agent-causation/), that the agent is a persisting subject exercising causal powers in its own right—the *irreducible authorship* on which the "weight of authorship," character-as-self-shaping, and agency-grounded obligation arguments all turn. [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) is the canonical account of where that lean enters and why it is not inherited from the tenet directly. A reader who accepts Dualism but rejects substance-bearing agents would find the moral conclusions contestable at the agency-cluster step rather than the tenet step, with reasons-responsive compatibilism—engaged at length in [the compatibilist symmetry challenge](#the-compatibilist-symmetry-challenge)—the natural alternative grounding for the same moral phenomena.
 
 The [bidirectional interaction tenet](/tenets/#bidirectional-interaction) provides the causal efficacy that moral responsibility requires. An [epiphenomenal](/concepts/epiphenomenalism/) consciousness could not be morally responsible for anything because it causes nothing. Bidirectional interaction means the agent's selections have real physical consequences, grounding the connection between moral evaluation and actual outcomes.
 
@@ -176,4 +176,5 @@ A more honest framing: this is a philosophical framework whose grounding is larg
 1. Nagel, T. (1979). "Moral Luck." In *Mortal Questions*. Cambridge University Press.
 1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
 1. Sartre, J.-P. (1943). *Being and Nothingness*. (L'Être et le Néant.) Gallimard.
+1. Strawson, G. (1994). "The Impossibility of Moral Responsibility." *Philosophical Studies*, 75(1–2), 5–24. https://doi.org/10.1007/bf00989879
 1. Williams, B. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973–1980*. Cambridge University Press.

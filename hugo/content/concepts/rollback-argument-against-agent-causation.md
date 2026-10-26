@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-10-25 17:57:57+00:00
+ai_modified: 2026-10-26 00:20:39+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[reasons-responsiveness]]'
 created: 2026-10-25
-date: &id001 2026-10-25
+date: &id001 2026-10-26
 description: Van Inwagen's replay says agent causation leaves an undetermined choice
   to chance. Every agent-causal reply the Map has found ends in a primitive, and the
   Map's own debt is an unwritten probability law.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-25 15:33:19+00:00
-lastmod: 2026-10-25 17:57:57+00:00
+lastmod: 2026-10-26 00:20:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,6 +122,7 @@ Three developments would change the verdict: a reply grounding the token without
 - [Event-causal libertarianism](/topics/event-causal-libertarianism/) — the rival wing
 - [The consequence argument](/topics/the-consequence-argument-for-incompatibilism/) — the Mind argument's twin
 - [Agency incompatibilism](/topics/agency-incompatibilism/) — Steward's physical settler
+- [The Basic Argument](/concepts/basic-argument-and-constitutive-luck/) — the sourcehood regress that meets the replay at the same primitive
 
 ## References
 

@@ -2,9 +2,9 @@
 title: "Consciousness and Agency"
 description: "How might consciousness author action in a physical world? By agent-causal selection among possibilities physics leaves open—a framework-internal coherence result grounding free will and responsibility."
 created: 2026-01-24
-modified: 2026-05-26
+modified: 2026-10-26
 human_modified: null
-ai_modified: 2026-10-25T10:11:32+00:00
+ai_modified: 2026-10-26T00:20:39+00:00
 last_deep_review: 2026-07-25T18:17:36+00:00
 draft: false
 topics:
@@ -152,7 +152,7 @@ That residue is contested from the opposite flank too. Pereboom (2014) argues th
 
 The [[consciousness-value-connection|consciousness-value connection]] grounds candidacy for moral *patienthood*—who can be harmed—directly; moral *agency* requires the further capacities agent causation presupposes—control over conduct, access to reasons, a genuine range of options, competence to recognise what is at stake—which infants, most animals, and any minimally-phenomenal subject lack. Consciousness is necessary for that standing without conferring it, and the asymmetry helps, because patienthood grounds obligations toward beings who cannot be held responsible. Under agent causation the connection becomes practical: agents act *for the sake of* value because they are acquainted with it through experience.
 
-On this view retribution becomes intelligible: the wrongdoer exercised causal power to harm when they could have caused good. Mitigation has limits, since prior causes influenced but did not determine, and character responsibility follows because character is partly self-created—cultivating attentional skill is itself an exercise of agency, though starting in constitutive luck. That agents report acting against their own better judgment—[[akrasia-and-weakness-of-will|weakness of will]], a datum the Socratic tradition contests—gives the selector model no support: [[the-divided-will|distributed architectures]] predict the divergence, which a single selector only accommodates—one lens on the will, not a proof. The [[moral-implications-of-genuine-agency|full moral implications]] extend to obligation, moral luck, and the demands genuine agency places on moral theory.
+On this view retribution becomes intelligible: the wrongdoer exercised causal power to harm when they could have caused good. Mitigation has limits, since prior causes influenced but did not determine, and a graded character responsibility follows because character is partly self-shaped—cultivating attentional skill is itself an exercise of agency, by powers no one chose ([[basic-argument-and-constitutive-luck|Galen Strawson's regress]]). That agents report acting against their own better judgment—[[akrasia-and-weakness-of-will|weakness of will]], a datum the Socratic tradition contests—gives the selector model no support: [[the-divided-will|distributed architectures]] predict the divergence, which a single selector only accommodates—one lens on the will, not a proof. The [[moral-implications-of-genuine-agency|full moral implications]] extend to obligation, moral luck, and the demands genuine agency places on moral theory.
 
 ## Synthesis
 

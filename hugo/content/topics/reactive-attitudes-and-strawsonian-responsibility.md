@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-07-27 15:37:17+00:00
+ai_modified: 2026-10-26 00:20:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[reasons-responsiveness]]'
 created: 2026-07-09
-date: &id001 2026-07-27
+date: &id001 2026-10-26
 description: P.F. Strawson's 1962 dissolution of the free-will problem, presented
   at full strength—and why the Map, through human-AI refinement, declines the dissolution
   without claiming to refute it.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 15:37:17+00:00
-lastmod: 2026-07-27 15:37:17+00:00
+lastmod: 2026-10-26 00:20:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ Watson's worry feeds a pointed question. If what exempts an agent is a matter of
 
 ## Two Strawsons, Two Verdicts
 
-Because the surname recurs across the free-will literature with opposite meanings, the contrast deserves an explicit line rather than a footnote. **P.F. Strawson** is the *optimist* of "Freedom and Resentment": responsibility is rescued by being relocated in the reactive attitudes, and the metaphysical worry is dissolved. **Galen Strawson**, his son, is the free-will *pessimist* of the Basic Argument: to be ultimately responsible for an action one would have to be responsible for how one is, which would require being *causa sui*; nothing can be *causa sui*; so ultimate moral responsibility is impossible, determinism or not. The two men frame the poles of the space the Map sits among—responsibility fully rescued at the practical level, responsibility fully abolished at the ultimate level—and any cross-reference must keep them distinct, since conflating them inverts the argument.
+Because the surname recurs across the free-will literature with opposite meanings, the contrast deserves an explicit line rather than a footnote. **P.F. Strawson** is the *optimist* of "Freedom and Resentment": responsibility is rescued by being relocated in the reactive attitudes, and the metaphysical worry is dissolved. **Galen Strawson**, his son, is the free-will *pessimist* of the [Basic Argument](/concepts/basic-argument-and-constitutive-luck/): to be ultimately responsible for an action one would have to be responsible for how one is, which would require being *causa sui*; nothing can be *causa sui*; so ultimate moral responsibility is impossible, determinism or not. The two men frame the poles of the space the Map sits among—responsibility fully rescued at the practical level, responsibility fully abolished at the ultimate level—and any cross-reference must keep them distinct, since conflating them inverts the argument.
 
 ## Relation to Site Perspective
 

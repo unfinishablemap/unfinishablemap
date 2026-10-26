@@ -2,9 +2,9 @@
 title: "Moral Responsibility"
 description: "How agent causation grounds genuine moral desert. Agents originate actions through irreducible causal power, making praise and blame metaphysically robust."
 created: 2026-01-16
-modified: 2026-01-16
+modified: 2026-10-26
 human_modified: null
-ai_modified: 2026-10-25T12:24:33+00:00
+ai_modified: 2026-10-26T00:20:39+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -76,7 +76,7 @@ Compatibilist desert rests on real capacities derived from prior states the agen
 
 **Mitigation has limits.** Prior causes influenced but didn't determine. The addict who steals chose to steal, even if addiction made resisting harder. Difficulty doesn't equal impossibility. This doesn't eliminate all mitigation—agents who couldn't understand their actions may lack the knowledge requirement—but the trend toward explaining away responsibility via causal history is resisted.
 
-**Character responsibility.** Character is partly self-created. Each choice reinforces or modifies dispositions. We're not responsible for our initial characters, but we are responsible for what we make of them. The [[attentional-economics]] framework adds that developing attentional skill is itself an exercise of agency—practices that train attention expand the scope of conscious causal power, making agents more responsible for cultivating or neglecting this capacity.
+**Character responsibility.** Character is partly self-shaped. Each choice reinforces or modifies dispositions. We're not responsible for our initial characters or for the power that reshapes them ([[basic-argument-and-constitutive-luck|Galen Strawson]]), but we answer for what we make of them. The [[attentional-economics]] framework adds that developing attentional skill is itself an exercise of agency—practices that train attention expand the scope of conscious causal power, making agents more responsible for cultivating or neglecting this capacity.
 
 ## The Role of Consciousness
 
@@ -110,7 +110,7 @@ However, the framework also supports careful assessment of agency. Did the defen
 
 ### Moral Education
 
-If agents shape their characters through choices, moral education matters. Teaching children to deliberate well, to recognize and resist vicious temptations, to cultivate virtue—these aren't futile if character is self-created over time. The adult person is partially a product of choices made along the way.
+If agents shape their characters through choices, moral education matters. Teaching children to deliberate well, to recognize and resist vicious temptations, to cultivate virtue—these aren't futile if character is self-shaped over time. The adult person is partially a product of choices made along the way.
 
 ### Self-Understanding
 
@@ -170,7 +170,7 @@ Moral responsibility under agent causation:
 - Desert has an irreducible source, not only derivative capacities
 - On this view retribution becomes intelligible (though not required)
 - Mitigation has limits—prior causes influence but don't determine
-- Character responsibility reflects self-creation through choices
+- Character responsibility reflects self-shaping through choices
 - Consciousness is essential: agency requires experience of alternatives, effort, and self-knowledge
 
 This framework respects the ordinary intuition that people deserve praise and blame because they really did what they did—not because treating them as if they did has good consequences. Whether that intuition is correct, the Map's framework provides a metaphysics that vindicates it.

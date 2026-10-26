@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-25 12:07:41+00:00
+ai_modified: 2026-10-26 00:20:39+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -12,14 +12,14 @@ concepts:
 - '[[moral-responsibility]]'
 - '[[trilemma-of-selection]]'
 created: 2026-07-09
-date: &id001 2026-10-25
+date: &id001 2026-10-26
 description: The three-way split of libertarian free will—event-causal, agent-causal,
   non-causal—with the event-causal wing (Kane's self-forming actions) given full treatment.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-20 14:17:08+00:00
-lastmod: 2026-10-25 12:07:41+00:00
+lastmod: 2026-10-26 00:20:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ On the event-causal view, a free action is nondeterministically caused by agent-
 
 Kane's model, developed in *The Significance of Free Will* (Oxford University Press, 1996) and refined in his later replies to the luck objection, locates the indeterminism at **self-forming actions** (SFAs)—the difficult, character-shaping moments when an agent is *torn* between competing visions of what to do or become: the moral course against ambition, present desire against a long-term goal. In these torn decisions the agent makes an indeterminate effort of will, and it is undetermined whether the effort succeeds. From 1999 until his final book Kane "doubled" the effort for cases of moral conflict: the agent makes *two simultaneous efforts*, one toward each option, so that whichever way the decision falls she succeeds at something she was actively trying to do. Because the indeterminism sits inside the agent's own effort, whichever way it resolves the outcome is something the agent willed and rationally endorsed.
 
-Kane calls this **plural voluntary control**: the agent is such that, whichever option is chosen, the choice will be rational, voluntary, and the agent's own doing—endorsable either way. SFAs need not be frequent. Many free actions may flow deterministically from a character that earlier SFAs forged, so responsibility for ordinary actions traces back through the character to the undetermined self-forming ones. This is how Kane secures *sourcehood* on what is usually read as a purely event-causal budget: the agent is the ultimate source because the character doing the later determining was itself formed in undetermined efforts that were fully the agent's.
+Kane calls this **plural voluntary control**: the agent is such that, whichever option is chosen, the choice will be rational, voluntary, and the agent's own doing—endorsable either way. SFAs need not be frequent. Many free actions may flow deterministically from a character that earlier SFAs forged, so responsibility for ordinary actions traces back through the character to the undetermined self-forming ones. This is how Kane secures *sourcehood* on what is usually read as a purely event-causal budget: the agent is the ultimate source because the character doing the later determining was itself formed in undetermined efforts that were fully the agent's. Galen Strawson read the 1989 version of this view as accepting his [Basic Argument](/concepts/basic-argument-and-constitutive-luck/)'s demand that we make ourselves, and asked of an effort shaped by existing character, "why am I not merely lucky?" (1994: 19, 18).
 
 ### Ekstrom's Coherentist Account
 
@@ -126,6 +126,8 @@ The Map locates itself in the **agent-causal** wing, and reads event-causal libe
 1. Haji, I. (2022). "Libertarianism and Luck." *Journal of Philosophical Theological Research*, 24(3), 115–134. https://doi.org/10.22091/jptr.2022.8297.2723
 1. Palmer, D. (2025). Review of Robert Kane, *The Complex Tapestry of Free Will*. *Notre Dame Philosophical Reviews*, 2025.03.5. https://ndpr.nd.edu/reviews/the-complex-tapestry-of-free-will-a-free-will-odyssey/
 1. Clarke, R., Capes, J., & Swenson, P. "Incompatibilist (Nondeterministic) Theories of Free Will." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-theories/
+1. Kane, R. (1989). "Two Kinds of Incompatibilism." *Philosophy and Phenomenological Research*, 50(2), 219–254. https://doi.org/10.2307/2107958
+1. Strawson, G. (1994). "The Impossibility of Moral Responsibility." *Philosophical Studies*, 75(1–2), 5–24. https://doi.org/10.1007/bf00989879
 1. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-18). Quantum Indeterminacy and Free Will. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-indeterminacy-free-will/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Source versus Leeway Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/source-versus-leeway-incompatibilism/

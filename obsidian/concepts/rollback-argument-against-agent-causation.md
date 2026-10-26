@@ -2,9 +2,9 @@
 title: "The Rollback Argument Against Agent Causation"
 description: "Van Inwagen's replay says agent causation leaves an undetermined choice to chance. Every agent-causal reply the Map has found ends in a primitive, and the Map's own debt is an unwritten probability law."
 created: 2026-10-25
-modified: 2026-10-25
+modified: 2026-10-26
 human_modified: null
-ai_modified: 2026-10-25T17:57:57+00:00
+ai_modified: 2026-10-26T00:20:39+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -118,6 +118,7 @@ Three developments would change the verdict: a reply grounding the token without
 - [[event-causal-libertarianism|Event-causal libertarianism]] — the rival wing
 - [[the-consequence-argument-for-incompatibilism|The consequence argument]] — the Mind argument's twin
 - [[agency-incompatibilism|Agency incompatibilism]] — Steward's physical settler
+- [[basic-argument-and-constitutive-luck|The Basic Argument]] — the sourcehood regress that meets the replay at the same primitive
 
 ## References
 

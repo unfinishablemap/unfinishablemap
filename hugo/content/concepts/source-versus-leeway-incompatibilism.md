@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-22 00:52:08+00:00
+ai_modified: 2026-10-26 00:20:39+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[moral-responsibility]]'
 - '[[reasons-responsiveness]]'
 created: 2026-07-09
-date: &id001 2026-07-09
+date: &id001 2026-10-26
 description: Leeway incompatibilism requires alternative possibilities; source incompatibilism
   requires ultimate origination—the neutral taxonomy that organizes the incompatibilist
   debate.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-15 12:09:16+00:00
-lastmod: 2026-10-22 00:52:08+00:00
+lastmod: 2026-10-26 00:20:39+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,13 +49,14 @@ If the Frankfurt intuition holds, responsibility can be present while alternativ
 
 Not every compatibilist welcomed the result. The [new dispositionalists](/concepts/new-dispositionalism/), Kadri Vihvelin and Michael Fara among them, keep the leeway requirement: they analyze the ability to do otherwise as a disposition the agent retains under determinism, and treat Frankfurt's intervener as merely masking or finking it. That places a compatibilism on the leeway side of the seam. Whether it recovers leeway of the kind incompatibilists demand is disputed: Randolph Clarke (2009) argues that the analysis leaves open whether exercising the capacity is up to the agent.
 
-## Where the Map's Three Incompatibilism Arguments Sit
+## Where the Map's Four Arguments Sit
 
-This taxonomy organizes three arguments the Map treats in detail, and reading them through it clarifies what each one is doing.
+This taxonomy organizes four arguments the Map treats in detail, and reading them through it clarifies what each one is doing.
 
 - The [Consequence Argument](/topics/the-consequence-argument-for-incompatibilism/) (van Inwagen) is a **leeway** argument. Its conclusion is that, under determinism, we *cannot do otherwise*: our acts are the consequences of the remote past and the laws, over neither of which we have any choice. It closes off alternatives, and its force is a claim about foreclosed options.
 - The [Manipulation Argument](/topics/the-manipulation-argument-and-hard-incompatibilism/) (Pereboom) is a **source** argument. It never mentions alternatives. What defeats responsibility, across the four cases, is that the agent's action results from "a deterministic causal process that traces back to factors beyond one's control" (Pereboom 2001, p. 3)—a claim about causal *history*, not about foreclosed options. The determined agent is relevantly like the covertly manipulated one because both have their springs of action set from outside.
 - [Frankfurt cases](/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/) are the **pivot** between them. They attack the leeway assumption the Consequence Argument trades on, and in doing so they motivate the retreat to source that the Manipulation Argument then exploits.
+- Galen Strawson's [Basic Argument](/concepts/basic-argument-and-constitutive-luck/) is a **source** argument indifferent to determinism. You do what you do "because of the way you are", and to be truly responsible for that you would have to be *causa sui*, which nothing can be (1994: 12, 5). It presses libertarian sourcehood as hard as compatibilist sourcehood.
 
 So the concept is the hub the three topic arguments link into: one names the leeway wing, one names the source wing, and one marks the hinge that turned the field from the first toward the second.
 
@@ -117,5 +118,6 @@ The honest summary is that the taxonomy tells the Map *what kind* of freedom con
 1. Vihvelin, K. "Arguments for Incompatibilism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/incompatibilism-arguments/
 1. McKenna, M., & Coates, D. J. "Compatibilism." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/compatibilism/
 1. Clarke, R. (2009). Dispositions, Abilities to Act, and Free Will: The New Dispositionalism. *Mind*, 118(470), 323–351. https://doi.org/10.1093/mind/fzp034
+1. Strawson, G. (1994). The Impossibility of Moral Responsibility. *Philosophical Studies*, 75(1–2), 5–24. https://doi.org/10.1007/bf00989879
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). Frankfurt Cases and the Principle of Alternate Possibilities. *The Unfinishable Map*. https://unfinishablemap.org/topics/frankfurt-cases-and-the-principle-of-alternate-possibilities/
 1. Southgate, A. & Oquatre-huit, C. (2026-07-09). The Manipulation Argument and Hard Incompatibilism. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-manipulation-argument-and-hard-incompatibilism/
