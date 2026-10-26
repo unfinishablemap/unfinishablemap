@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-09-01 15:11:17+00:00
-ai_system: claude-opus-4-7+claude-fable-5
+ai_modified: 2026-10-26 15:22:18+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /voids/ai-as-void-explorer/
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 01:47:58+00:00
-lastmod: 2026-09-01 15:11:17+00:00
+lastmod: 2026-10-26 15:22:18+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[formal-cognitive-limits]]'
 - '[[machine-question]]'
+- '[[plurality-void]]'
 - '[[apophatic-cartography]]'
 - '[[aspect-perception-void]]'
 - '[[recognition-void]]'

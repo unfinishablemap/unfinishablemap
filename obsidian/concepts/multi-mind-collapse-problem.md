@@ -4,7 +4,7 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-10-26T15:22:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,9 +24,10 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[relational-quantum-mechanics-2026-01-18]]"
+  - "[[plurality-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-24T21:34:04+00:00

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-20 09:24:11+00:00
+ai_modified: 2026-10-26 15:22:18+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 21:49:23+00:00
-lastmod: 2026-10-20 09:24:11+00:00
+lastmod: 2026-10-26 15:22:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ General anesthesia and dreamless sleep dissociate computational from phenomenal 
 
 [Sleep](/concepts/sleep-and-consciousness/) dissociates computational from phenomenal binding. During NREM sleep, the brain performs extensive binding—integrating memories, consolidating details—yet without phenomenal unity. Synchrony operates, integration proceeds, information becomes globally available, but there's no unified experience.
 
-On the Map's reading, phenomenal unity isn't *produced by* binding operations but *added* by consciousness; sleep is compatible with that reading, though a production theorist can equally locate the missing ingredient in whatever NREM binding lacks. Dreaming restores partial unity when the [interface](/concepts/filter-theory/) partially reengages.
+On the Map's reading, phenomenal unity isn't *produced by* binding operations but *added* by consciousness; sleep is compatible with that reading, though a production theorist can equally locate the missing ingredient in whatever NREM binding lacks. Dreaming partly restores unity when the [interface](/concepts/filter-theory/) partially reengages.
 
 ### Language and Cognitive Binding
 

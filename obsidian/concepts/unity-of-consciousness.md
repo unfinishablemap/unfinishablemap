@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-10-21T23:07:22+00:00
+ai_modified: 2026-10-26T15:22:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ If the three dimensions of unity were one phenomenon, they should stand or fall 
 
 ### Split-Brain Cases
 
-[[split-brain-consciousness|Split-brain patients]] have their corpus callosum severed. Synchronic unity partially divides—each hemisphere processes its visual field independently. Yet subject unity remains largely intact. Patients do not report being two people. Nagel (1971) concluded that there is too much unity to say there are two minds, yet too much separation to say there is one. A 2025 PNAS study (Santander et al.) found that as little as a centimetre of intact posterior callosal fibres can sustain full interhemispheric integration, suggesting the brain has redundant mechanisms for preserving unity.
+[[split-brain-consciousness|Split-brain patients]] have their corpus callosum severed. Synchronic unity [[plurality-void|partially divides]]—each hemisphere processes its visual field independently. Yet subject unity remains largely intact. Patients do not report being two people. Nagel (1971) concluded that there is too much unity to say there are two minds, yet too much separation to say there is one. A 2025 PNAS study (Santander et al.) found that as little as a centimetre of intact posterior callosal fibres can sustain full interhemispheric integration, suggesting the brain has redundant mechanisms for preserving unity.
 
 ### Dreamless Sleep
 

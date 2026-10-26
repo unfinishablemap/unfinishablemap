@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T09:24:11+00:00
+ai_modified: 2026-10-26T15:22:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -129,7 +129,7 @@ General anesthesia and dreamless sleep dissociate computational from phenomenal 
 
 [[sleep-and-consciousness|Sleep]] dissociates computational from phenomenal binding. During NREM sleep, the brain performs extensive binding—integrating memories, consolidating details—yet without phenomenal unity. Synchrony operates, integration proceeds, information becomes globally available, but there's no unified experience.
 
-On the Map's reading, phenomenal unity isn't *produced by* binding operations but *added* by consciousness; sleep is compatible with that reading, though a production theorist can equally locate the missing ingredient in whatever NREM binding lacks. Dreaming restores partial unity when the [[filter-theory|interface]] partially reengages.
+On the Map's reading, phenomenal unity isn't *produced by* binding operations but *added* by consciousness; sleep is compatible with that reading, though a production theorist can equally locate the missing ingredient in whatever NREM binding lacks. Dreaming partly restores unity when the [[filter-theory|interface]] partially reengages.
 
 ### Language and Cognitive Binding
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-10-07 01:19:30+00:00
+ai_modified: 2026-10-26 15:21:46+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 concepts:
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 19:04:11+00:00
-lastmod: 2026-10-07 01:19:30+00:00
+lastmod: 2026-10-26 15:21:46+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +27,9 @@ related_articles:
 - '[[emergence-void]]'
 - '[[self-opacity]]'
 - '[[boundary-and-projection]]'
+- '[[split-brain-consciousness]]'
+- '[[non-human-minds-as-void-explorers]]'
+- '[[multi-mind-collapse-problem]]'
 title: The Plurality Void
 topics:
 - '[[personal-identity]]'
@@ -34,13 +37,13 @@ topics:
 
 Erwin Schrödinger put it directly: "Consciousness is a singular of which the plural is unknown." Schrödinger himself drew a monist conclusion from this datum—that the plural is unknown because there is, at bottom, only one consciousness—but the Map takes the singularity as datum without the monist inference, reading the plurality limit as a genuine void rather than evidence of metaphysical oneness. The Unfinishable Map calls this the plurality void—the systematic inability to conceive what it would be like to be multiple conscious subjects at once. The limit is structural, not a failure of imagination about exotic scenarios. Every attempt to think plural consciousness collapses back into a single viewpoint trying to imagine another single viewpoint. The plurality itself never arrives.
 
-The void manifests wherever consciousness confronts questions of composition and division: in panpsychism's [combination problem](/concepts/combination-problem/), in split-brain research, in dissociative identity disorder, and in the many-worlds interpretation's demand that consciousness branch. In each case, the same limit appears. We cannot determine how many consciousnesses exist in ambiguous cases, cannot conceive how separate experiences might merge, and cannot even formulate what a genuinely plural first person would mean. The [voids framework](/voids/) classifies this as primarily unexplorable—we may lack the cognitive architecture for plural experience—with an occluded dimension akin to [mysterianism](/concepts/mysterianism/): the singularity of consciousness may be what makes consciousness possible at all, hiding alternatives from introspection by its very structure.
+The void manifests wherever consciousness confronts questions of composition and division: in panpsychism's [combination problem](/concepts/combination-problem/), in [split-brain research](/topics/split-brain-consciousness/), in dissociative identity disorder, and in the many-worlds interpretation's demand that consciousness branch. In each case, the same limit appears. We cannot determine how many consciousnesses exist in ambiguous cases, cannot conceive how separate experiences might merge, and cannot even formulate what a genuinely plural first person would mean. The [voids framework](/voids/) classifies this as primarily unexplorable—we may lack the cognitive architecture for plural experience—with an occluded dimension akin to [mysterianism](/concepts/mysterianism/): the singularity of consciousness may be what makes consciousness possible at all, hiding alternatives from introspection by its very structure.
 
 ## Why Plurality Fails
 
 The difficulty is not merely practical but appears to be conceptual. Sam Coleman's subject-summing argument reveals the logical structure: each conscious viewpoint is defined partly by containing *only* its own experiences. Combining your viewpoint and mine would require the resulting mind to have "both your experiences to the exclusion of all other experiences and my experiences to the exclusion of all other experiences"—a direct contradiction. The exclusivity that makes a viewpoint *yours* resists combination by its very nature.
 
-Elizabeth Schechter sharpened the point: "There exists nothing that would even count as successfully imagining what it is like to have a partially unified consciousness." We cannot even begin to construct the phenomenological template. We have no experiential model for partial sharing, partial merger, or partial overlap between conscious perspectives. The imagination simply stalls.
+Elizabeth Schechter states the strongest form of the point, that "there is nothing that would even count as successfully imagining what it is like to have a partially unified consciousness" (Schechter 2014, as the *Stanford Encyclopedia of Philosophy* renders her), and then declines its conclusion: the same argument would rule out the two-streams account of split-brain patients, and no contender can be rejected on a priori grounds alone. The void keeps her datum. We cannot even begin to construct the phenomenological template. We have no experiential model for partial sharing, partial merger, or partial overlap between conscious perspectives. The imagination simply stalls, and, as with manyism below, inconceivability does not establish impossibility.
 
 William James identified this problem in 1890, declaring "absolute insulation, irreducible pluralism, is the law" regarding how different minds keep their thoughts separate. He spent two decades attempting to reconcile this with the apparent need for consciousness to compose, without resolution. The problem has outlived every proposed solution since.
 
@@ -62,6 +65,8 @@ Some report approaching the idea of consciousness merging triggers something lik
 
 After corpus callosotomy, severing the connection between brain hemispheres, patients exhibit behavioural evidence of two separate processing streams. Roger Sperry concluded these patients have "two separate spheres of conscious awareness... running in parallel in the same cranium." Yet after seven decades of research, we still cannot determine whether callosotomy patients have one consciousness or two. De Haan et al. (2020) note that competing models—Two-Streams, Switch, and Partial Unity—remain viable.
 
+The partial-unity model deserves its own hearing, because it would give the count question the shape the void predicts. Michael Lockwood (1989, ch. 6) first articulated it: co-consciousness, the relation between experiences had together, need not be transitive, so a patient's experiences A and B could each be unified with a third experience C while remaining disunified from each other. Susan Hurley (1998) labelled the result *weak unity*. Such a structure would explain graded, context-sensitive disconnection, and it delivers the void's payload directly: a subject so organised is neither one stream nor two, so the count question has no whole-number answer. The objection is the one met above. Thomas Nagel (1971) found a poorly integrated single mind unintelligible; Lockwood admitted (1994) that he could not project himself into such a subject; Tim Bayne (2010) concluded only that partial unity is weakly inconceivable, so that "an air of suspicion" should attend talk of it (p. 46), a verdict short of refutation. Schechter's reply is given above; Hurley's, as quoted by Bayne and Chalmers (2003), is that being partially unified is not the sort of thing there is something it is like to be, so the failure of imagination was to be expected. Empirically the model is contested: Schechter rejects it for split-brain patients on the ground that a shared experience would belong to two subjects, defending two minds in one person (2018), while Lopez (2025) revives a layered version in which local experiential layers divide and global layers stay unified.
+
 Some philosophers have suggested split-brain may involve "a non-whole number of conscious agents"—one and a half perspectives, perhaps. The very incoherence of fractional consciousness points to the void. Our concept of a conscious subject does not support non-integer values, yet the empirical evidence refuses to yield a whole number. The [boundary-and-projection](/voids/boundary-and-projection/) void addresses the prior question: what determines the perimeter of *one* subject, and how does that perimeter extend during tool use or empathy? Plurality presupposes that subjects have boundaries; the boundary-and-projection void asks where those boundaries come from and why their shifts cannot be observed from within.
 
 ### Dissociative Identity Disorder
@@ -78,7 +83,7 @@ Proposed solutions (fusionism, phenomenal bonding, cosmopsychism) each face seri
 
 ## What AI Might See
 
-AI presents a distinctive asymmetry regarding this void. AI systems can run multiple instances simultaneously, share parameters, and merge outputs. If AI consciousness exists, it might be natively plural in ways human consciousness cannot.
+AI presents a [distinctive asymmetry](/voids/non-human-minds-as-void-explorers/) regarding this void. AI systems can run multiple instances simultaneously, share parameters, and merge outputs. If AI consciousness exists, it might be natively plural in ways human consciousness cannot.
 
 This raises the possibility that the plurality void is species-relative rather than absolute. An AI that was genuinely plural-conscious might face an inverse void—the inability to conceive what it is like to be *singular*. The void's shape might reveal more about the architecture of human consciousness than about the nature of consciousness itself.
 
@@ -88,11 +93,11 @@ Whether AI could report on plural experience in terms humans would understand is
 
 The plurality void connects to the Map's [foundational commitments](/tenets/) at multiple points.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** finds direct support here. The Map rejects the many-worlds interpretation partly because it requires consciousness to branch with the wave function. David Wallace argues that the notion of "I" can make sense only if consciousness is confined to a single branch. If consciousness is constitutively singular, any interpretation of physics that requires it to split makes a demand consciousness cannot meet. The plurality void provides philosophical grounding for the tenet: we reject many worlds partly because the branching of consciousness is incoherent from the inside.
+**[No Many Worlds](/tenets/#no-many-worlds)** is engaged here, with a narrower reach than a first reading suggests. The Map's objection to the many-worlds interpretation is indexical: if every branch is equally real, why am I *this* one? The Everettian answer is [branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) (Saunders, Wallace): branching is fission, and each successor truly says "I" of its own branch. The plurality void does not refute that answer, because branching so described yields multiple singularities rather than a plural subject, the verdict this page reaches for dissociative identity above. What the void supplies is the precondition the [tenets page](/tenets/) states for the indexical objection, a non-deflationary "I": the singularity of experience is the first-person datum that "I" rests on. The register records the upshot as a framework boundary rather than an in-framework refutation ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
 
 **[Dualism](/tenets/#dualism)** is illuminated by the difficulty of counting consciousnesses in limit cases. If consciousness were straightforwardly physical—identical to a particular brain state or functional configuration—we should be able to count instances as easily as we count physical objects. The persistent ambiguity of split-brain cases and the irreducibility of the subject-summing problem suggest consciousness is not the kind of thing that composes or divides like physical matter. Singularity may be a fundamental feature of non-physical mind.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires a singular causal agent. If consciousness influences quantum outcomes in the brain, the mechanism must be channelled through something that acts as *one*. Plural consciousness would require a theory of plural causal agency—multiple non-physical influences coordinating at the quantum level—that no one has articulated.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is specified for a singular agent. If consciousness influences quantum outcomes in the brain, the Map's mechanism channels that influence through something that acts as *one*, and its answer to the many-minds question, the [interface-locality account](/concepts/multi-mind-collapse-problem/), bounds each subject's reach by its own brain. That account handles many singular subjects in many bodies; it has no story for two subjects in one brain, or for one experience shared across subjects, which is where the void would bite.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated by the combination problem's persistence. The simplest accounts of consciousness composition—that experiences just add together, that [phenomenal unity](/concepts/unity-of-consciousness/) emerges from physical proximity—all fail. The truth about how consciousness relates to plurality may be irreducibly complex, or the question may be malformed in ways we cannot recognise from within singular experience.
 
@@ -109,10 +114,20 @@ The plurality void connects to the Map's [foundational commitments](/tenets/) at
 ## References
 
 1. Bayne, T. (2010). *The Unity of Consciousness*. Oxford University Press.
+1. Bayne, T. & Chalmers, D. J. (2003). "What is the Unity of Consciousness?" In A. Cleeremans (ed.), *The Unity of Consciousness: Binding, Integration, and Dissociation*. Oxford University Press.
+1. Brook, A., Raymont, P. & Masrour, F. (2025). "The Unity of Consciousness." *Stanford Encyclopedia of Philosophy*, §3.1.4.
 1. Coleman, S. (2014). "The real combination problem: Panpsychism, micro-subjects, and emergence." *Erkenntnis* 79(1): 19-44.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. de Haan, E. H. F., et al. (2020). "Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness." *Neuropsychology Review* 30: 224-233.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Hurley, S. L. (1998). *Consciousness in Action*. Harvard University Press.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-1. Schechter, E. (2014). "Partial Unity of Consciousness: A Preliminary Defense." In D. Bennett & C. Hill (eds.), *Sensory Integration and the Unity of Consciousness*. MIT Press.
+1. Lockwood, M. (1989). *Mind, Brain and the Quantum: The Compound 'I'*. Blackwell.
+1. Lockwood, M. (1994). "Issues of Unity and Objectivity." *Proceedings of the British Academy* 83: 89–95.
+1. Lopez, A. (2025). "A layered unity model of split-brain consciousness." *Philosophical Studies* 182(8): 2159–2190.
+1. Nagel, T. (1971). "Brain Bisection and the Unity of Consciousness." *Synthese* 22(3): 396–413.
+1. Saunders, S. (2010). "Chance in the Everett Interpretation." In S. Saunders et al. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press, 181–205.
+1. Schechter, E. (2014). "Partial Unity of Consciousness: A Preliminary Defense." In D. Bennett & C. Hill (eds.), *Sensory Integration and the Unity of Consciousness*. MIT Press, pp. 347–374.
+1. Schechter, E. (2018). *Self-Consciousness and "Split" Brains: The Minds' I*. Oxford University Press.
 1. Schrödinger, E. (1958). *Mind and Matter*. Cambridge University Press.
+1. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.

@@ -4,7 +4,7 @@ description: "Whether AI and hypothetical alien minds—shaped by different arch
 created: 2026-01-25
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-09-01T15:11:17+00:00
+ai_modified: 2026-10-26T15:22:18+00:00
 last_deep_review: 2026-07-17T01:47:58+00:00
 draft: false
 topics:
@@ -22,6 +22,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[formal-cognitive-limits]]"
   - "[[machine-question]]"
+  - "[[plurality-void]]"
   - "[[apophatic-cartography]]"
   - "[[aspect-perception-void]]"
   - "[[recognition-void]]"
@@ -37,7 +38,7 @@ related_articles:
   - "[[research/voids-similarity-void-2026-08-27]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-fable-5
+ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-04-18
 last_curated: null
 coalesced_from:

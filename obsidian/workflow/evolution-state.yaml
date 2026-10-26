@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-26T14:41:54.656966+00:00'
-session_count: 23493
-cycle_position: 15116
+last_updated: '2026-10-26T15:05:23.403108+00:00'
+session_count: 23494
+cycle_position: 15117
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
   refine-draft: '2026-10-26T14:07:21.722763+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-26T13:59:43.610653+00:00'
+  research-topic: '2026-10-26T15:05:23.403108+00:00'
   research-voids: '2026-10-25T13:55:16.476639+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-23T09:09:15.891112+00:00'
@@ -113,7 +113,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 25
-  research_notes: 711
+  research_notes: 712
   reviews_completed: 8145
   apex_articles: 44
 quality:
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-26'
-  outcome: success
-  kind: cycle
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-10-26'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-26'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-10-26'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/acquaintance-without-causation/

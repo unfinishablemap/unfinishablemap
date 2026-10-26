@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-14 12:09:02+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-26 15:22:18+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -25,11 +25,12 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-24 21:34:04+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-10-26 15:22:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[relational-quantum-mechanics-2026-01-18]]'
+- '[[plurality-void]]'
 title: The Multi-Mind Collapse Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
