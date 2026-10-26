@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-10-26 06:33:01+00:00
+ai_modified: 2026-10-26 07:27:56+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 20:45:29+00:00
-lastmod: 2026-10-26 06:33:01+00:00
+lastmod: 2026-10-26 07:27:56+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -103,15 +103,15 @@ No first-person investigation of the pre-constitutional phase is possible. Indir
 
 ## Relation to Site Perspective
 
-The thrownness void gains its sharpest edge under the Map's [dualist framework](/tenets/).
+The Map's [dualist framework](/tenets/) sharpens the thrownness void at its own expense.
 
-**[Dualism](/tenets/#dualism)** transforms thrownness from a trivial observation into a genuine mystery. If consciousness were merely a brain process, thrownness would reduce to the unremarkable fact that brains develop without consulting the consciousness they produce. But if consciousness is non-physical and fundamental, then its binding to a particular body, a particular cognitive architecture, and a particular historical moment demands explanation. What binds a non-physical consciousness to these specific physical parameters? The question has no materialist analogue.
+**[Dualism](/tenets/#dualism)** turns thrownness into a binding question. If consciousness is non-physical and fundamental, what binds it to a particular body, cognitive architecture and historical moment? That is the [pairing-problem](/concepts/pairing-problem/) in another form. It arises only once a subject numerically distinct from the organism is assumed, so it is the Map's obligation rather than a question physicalism fails to see. The strongest physicalist rival, a constitution view on which the developing organism becomes conscious, denies the presupposition: as in the [no-further-fact answer](/topics/vertiginous-question/#why-the-question-seems-unanswerable), no binding fact remains, though developmental emergence, individuation and self-location still need accounts. Dualism owes those plus attachment, and must either [posit a non-physical principle of individuation or accept individuation as fundamental](/topics/vertiginous-question/#relation-to-site-perspective). A non-physical subject that begins with its body meets the void as an organism does; one that pre-existed embodiment owes a further, dualism-only account of its non-access to its prior state. The choice is made at the framework boundary; the void fits both views, so its fit with dualism is consistency, not support.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes the thrownness absolute. In a single-world framework, birth is a unique, unrepeatable event. There is no other branch where this consciousness received different initial conditions. The parameters are imposed once, irrevocably.
+**[No Many Worlds](/tenets/#no-many-worlds)** removes one escape route without deepening the void, since a branch-relative observer could no more witness its onset. Given the tenet's indexical commitment, this subject's onset, moment or interval, happens once in one world, so its parameters are not one draw among many.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** reveals a temporal asymmetry. If consciousness influences the physical through quantum selection, this causal power exists only *after* consciousness is established. Consciousness cannot retroactively authorise its own creation. The causal arrow runs in only one direction at the moment of establishment.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** adds no asymmetry of its own. If consciousness acts through quantum selection, it can do so, like any cause, only once it exists, so it cannot authorise its own onset; across a graded interval it could shape only later stages. The selection model presupposes a selector, leaving its beginning and individuation unexplained, a debt beside the [mechanism debt](/positions/quantum-interface/#mechanism-debt).
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** warns against dismissing the void. The simplest explanation — thrownness is just a brute fact of biological development — may obscure genuine metaphysical mystery. If consciousness is fundamental, then the specific way each consciousness is thrown into existence may require an explanation that simplicity-seeking reasoning cannot provide.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** reaches less far. The developmental account, early or graded onset plus childhood amnesia, is a mechanism, not a parsimony judgement, so the tenet, which constrains only the Map's own reasoning, brings no charge against it. It bars parsimony alone from ruling the dualist reading out, and the Map from treating its own simpler-seeming readings as decisive. If consciousness is fundamental, its thrownness may need explanation beyond that mechanism, though the void is no evidence for the antecedent.
 
 ## Further Reading
 
