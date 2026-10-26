@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-26T16:21:40.551979+00:00'
-session_count: 23499
+last_updated: '2026-10-26T16:34:55.057409+00:00'
+session_count: 23500
 cycle_position: 15120
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-26T14:41:54.656966+00:00'
-  embed-videos: '2026-10-26T00:52:37.389295+00:00'
+  embed-videos: '2026-10-26T16:34:55.057409+00:00'
   expand-topic: '2026-10-26T00:24:40.260885+00:00'
   harvest-research-subjects: '2026-10-26T13:20:38.993865+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-26'
-  outcome: success
-  kind: agentic_social
 - task: optimistic-review
   type: optimistic-review
   date: '2026-10-26'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-26'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-10-26'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/argument-from-reason/
