@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T12:05:31+00:00
+ai_modified: 2026-10-26T17:14:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-26T17:14:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Unawareness Void (formal unawareness: Dekel–Lipman–Rustichini 1998, Modica–Rustichini 1994/1999, Fagin–Halpern 1988, Heifetz–Meier–Schipper 2006, Halpern–Rêgo 2009, Fine 2018, Fischhoff et al. 1978)
+- **Category**: Unexplored (primary) / Unexplorable (one face) — first note to make the Unexplored its home type
+- **Output**: [[research/voids-unawareness-void-2026-10-26]]
+- **Key finding**: In any standard state-space model an unawareness operator satisfying plausibility, KU and AU introspection is trivial ("if the agent is unaware of anything, he knows nothing"); every repair (HMS lattice, FH awareness sets, HR quantification) relocates the gaps to a structure the agent does not inhabit, so a mind's own map of possibilities has no vacant cells.
+- **Dedup**: 222 banked voids-* stems, 58 unconsumed, none a near-miss; zero corpus hits for DLR/Modica/HMS/Fagin; nearest live: blindspot-void, apophatic-cartography §Second-Order Ignorance (Fine), question-formation-void, inventory-blindness.
+- **Recommended action**: article (`unawareness-void`); fold ruled out — all six candidate hosts within 300 words of the 3000 hard gate. Capacity 113/125 at 16:50Z.
+- **No tasks minted**; added to `task_chains.pending_articles`.
 
 ## 2026-10-26T16:20:51+00:00 - refine-draft
 - **Status**: Success
