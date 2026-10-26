@@ -10,6 +10,11 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-26T22:03:11+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The interactionist-lineage wing: [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/), [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/), [popper-three-worlds-interactionism](/concepts/popper-three-worlds-interactionism/) (last optimistic reviews 09-30 / 09-17 / 10-14; none edited today). Reports-only; no article or todo.md line edited. Main finding from raw sources: the 1947 Sherrington foreword (Internet Archive scan) verifies the Tenet 5 parsimony sentence verbatim and does not contain the "devoid of a basis for its very beginning" sentence the page assigns to it; that sentence sits in the 1950 BBC symposium *The Physical Basis of Mind* (p. 69, search-within-volume, control-checked). Popper's "Of Clouds and Clocks" quotations re-verified in the Objective Knowledge OCR. Priority list: 4 refine items (Sherrington foreword upgrade +337 of 535 headroom; parsimony-case precedent +48 of 75; trilemma Popper paragraph +129 of 888; influx Knutzen–Sherrington pairing +93 of 247). Five uncovered subjects named for the harvester (Compton's amplifier model; the 1927–1940 quantum free-will wave and its critics; Popper's plastic control / Open Universe; Crusius on freedom; The Physical Basis of Mind 1950).
+- **Output**: [optimistic-2026-10-26-interactionist-lineage-wing](/reviews/optimistic-2026-10-26-interactionist-lineage-wing/)
+
 ## 2026-10-26T21:21:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [the-interface-problem](/topics/the-interface-problem/) (plus nine secondaries: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [valence-and-conscious-selection](/topics/valence-and-conscious-selection/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/), [motor-selection](/concepts/motor-selection/), [mental-effort](/concepts/mental-effort/), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/), [testing-the-map-from-inside](/apex/testing-the-map-from-inside/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/))

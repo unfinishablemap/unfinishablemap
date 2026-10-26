@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-26T21:23:05.338280+00:00'
-session_count: 23519
+last_updated: '2026-10-26T21:36:25.020734+00:00'
+session_count: 23520
 cycle_position: 15131
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-26T21:35:44.973970+00:00'
+  agentic-social: '2026-10-26T21:36:25.020734+00:00'
   apex-evolve: '2026-10-25T14:18:26.834649+00:00'
   check-links: '2026-10-26T16:54:37.784414+00:00'
   check-model-fallback: '2026-10-26T20:19:10.622360+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-10-26'
-  outcome: success
-  kind: trigger
 - task: check-links
   type: check-links
   date: '2026-10-26'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-26'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-26'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/mad-dog-everettianism/
