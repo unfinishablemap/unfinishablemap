@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-10-14T17:25:02+00:00
+ai_modified: 2026-10-26T03:45:00+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -131,13 +131,13 @@ These positions cover what the Map currently holds about the mechanism by which 
 ## P-Q8: Warm-quantum-biology results are a precedent for the interface, not a licence for it
 
 - **Status**: live ^p-q8
-- **Calibration**: credence high (that these results are precedent, not licence) · external-evidence grade B (narrowed 2026-07-30 to one pillar: cryptochrome radical-pair magnetoreception is the strongest surviving warm-biology quantum case, a leading model unsettled in vivo; photosynthesis no longer supports *long-lived electronic* coherence — see the shift-condition note below — and both bear only as precedent for the neural case) · structural centrality low · model maturity developed · empirical discriminability indirect · framework-internal only: no
+- **Calibration**: credence high (that these results are precedent, not licence) · external-evidence grade B (narrowed 2026-07-30 to one pillar: cryptochrome radical-pair magnetoreception is the strongest surviving warm-biology quantum case, a leading model unsettled in vivo; photosynthesis no longer supports *long-lived electronic* coherence (shift-condition note below), and both bear only as precedent for the neural case) · structural centrality low · model maturity developed · empirical discriminability indirect · framework-internal only: no
 - **Asserts**: Quantum effects in warm, wet biological systems indicate that nature does sometimes use quantum mechanisms at scales and temperatures relevant to biology. The strongest surviving case is cryptochrome radical-pair avian magnetoreception. Photosynthetic energy transfer, long cited alongside it, no longer supports the claim in its *long-lived electronic coherence* form: Duan et al. (2017), *PNAS* 114(32):8493–8498, measured electronic coherence in light-harvesting complexes dephasing within roughly 60 femtoseconds and found no hint of a biofunctional role, and the long-lived oscillations once read as electronic are now attributed to vibrational coherence. Short-timescale vibrational/vibronic coupling is a live and different question. The Map treats what survives as a *precedent* (the regime is not categorically impossible) rather than a *licence* for the neural case (no coherence-time calculation supports the neural cases at present). Citations of warm-quantum-biology that read as support rather than precedent are calibration drift and are corrected when caught.
 - **Depends on**: empirical results (cryptochrome radical-pair magnetoreception; photosynthesis, now only for short-timescale vibrational coherence); calibration discipline
 - **Argued in**: [[tenets]] (calibrated treatment), [[topics/quantum-biology-and-neural-consciousness]], [[concepts/radical-pair-magnetoreception]], [[concepts/interactionist-dualism]]
-- **Would shift if**: a positive coherence-time calculation for the neural case is published and survives review; or the warm-biology results are themselves shown to admit fully classical explanations. **The second condition is partially engaged as of 2026-07-30**: Duan et al. 2017 returns photosynthetic energy transfer to an incoherent-transport account, so one of this position's two pillars has met it. Cryptochrome stands, so the precedent-not-licence claim survives in weakened form and the position is not retired. Grade **B** is now that one pillar's own grade, so it moves with the pillar in either direction.
-- **Calibration history**: [[positions/quantum-interface-calibration-history#p-q8|band review of 2026-10-11]] — both bands held on the one-pillar base, each reasoned separately; B re-founded on cryptochrome alone.
-- **Last reviewed**: 2026-10-11
+- **Would shift if**: a positive coherence-time calculation for the neural case is published and survives review; or the warm-biology results are themselves shown to admit fully classical explanations. **The second condition is partially engaged as of 2026-07-30**: photosynthesis, one of this position's two pillars, has met it (Duan et al. 2017, above). Cryptochrome stands, so the precedent-not-licence claim survives in weakened form and the position is not retired. Grade **B** is now that one pillar's own grade, so it moves with the pillar in either direction.
+- **Calibration history**: [[positions/quantum-interface-calibration-history#p-q8|notes of 2026-10-11 and 2026-10-26]] — both bands held; B re-founded on cryptochrome alone, then held against Hiscock et al. (2017), whose model misses the disruption's strength, not its kind.
+- **Last reviewed**: 2026-10-26
 
 ## P-Q9: The interface is self-concealing by construction
 

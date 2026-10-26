@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 02:41:30+00:00
+ai_modified: 2026-10-26 03:46:34+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 02:41:30+00:00
+lastmod: 2026-10-26 03:46:34+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 03:46 - positions-evolve
+- **Status**: Success
+- **Mode**: audit/update, [P-Q8](/positions/quantum-interface/#p-q8) (no band moved)
+- **Files**: [quantum-interface](/positions/quantum-interface/), [quantum-interface-calibration-history](/positions/quantum-interface-calibration-history/), [radical-pair-magnetoreception](/concepts/radical-pair-magnetoreception/)
+- **Task**: [P-Q8](/positions/quantum-interface/#p-q8)'s "radical-pair spin dynamics explains" against Hiscock et al. 2017, which says the current model "is unable to explain the findings of the reported behavioral experiments".
+- **Source** (full text read at PMC5627152, raw grep; metadata confirmed via Crossref): Hiscock, H. G., Mouritsen, H., Manolopoulos, D. E., & Hore, P. J. (2017), *Biophys J* 113(7):1475–1484, doi 10.1016/j.bpj.2017.07.031. The Discussion and Conclusions widen the abstract to "any of the reported effects of radiofrequency fields". The Discussion names both "a 15 nT Larmor-frequency field" (Ritz) and broadband noise around 1 pT/√Hz (Schwarze 2016). With coherence "closer to 1 μs than to 1 ms", effects "would be several orders of magnitude smaller" than in the paper's simulations, which needed stronger fields and "an unfeasibly long spin-coherence lifetime". The paper keeps the magnetite exclusion: weak-RF disorientation "arguably rules out the competing hypotheses". Its frequency predictions assume "an unknown mechanism that amplifies the predicted effects".
+- **Verdict**: the failure covers **broadband as well as narrow-band**. It is a failure of *strength*, not of *kind*. "Explains" overclaimed and was recalibrated. **Grade B held**, because none of its three supports (broadband disruption, the upper-frequency bound, in-vitro sensitivity) needs the strength reproduced. Leberecht et al. 2023 (PMC10334787, full text) tested Hiscock's "above ~220 MHz" prediction and still concludes "compelling evidence that the magnetic compass of migratory birds operates by a radical pair mechanism". The gap is a further reason against A. **Credence high held.**
+- **Changes** (`analyze_length`):
+  - `positions/quantum-interface` (5,964 → 5,963, net −1; critical file). [P-Q8](/positions/quantum-interface/#p-q8) Calibration-history line: "band review of 2026-10-11 … each reasoned separately" → "notes of 2026-10-11 and 2026-10-26 … then held against Hiscock et al. (2017), whose model misses the disruption's strength, not its kind". Last reviewed 2026-10-11 → 2026-10-26. Paid for by two redundancy trims: the shift-condition Duan restatement, and "— see the shift-condition note below —" became a parenthesis.
+  - `positions/quantum-interface-calibration-history` (3,828 → 3,995; positions critical 4,000, **5 words of headroom**: the next P-Q-domain note needs a split). New dated note "Updated 2026-10-26" under [P-Q8](/positions/quantum-interface/#p-q8). The 2026-10-11 note keeps its wording, with a bracketed pointer added after "explains": "[in kind, not in strength: see 2026-10-26]".
+  - `concepts/radical-pair-magnetoreception` (2,558 → 2,679). L46 "resonance with radical-pair spin dynamics explains it naturally" overclaimed and was rewritten: RF acting directly on singlet–triplet interconversion "points to spin chemistry". After the Engels sentence, a new sentence: the current model does not reproduce the effects' strength (Hiscock 2017, quoted, "broadband as well as single-frequency"). It sits after Engels so that the pronoun in "Engels … extended this" still refers to Ritz 2004. L50's layered summary gains "the effect's strength is not reproduced by the current model". L64's [P-Q8](/positions/quantum-interface/#p-q8) basis sentence now says none of the grading's supports depends on the narrow-band result "or on the model reproducing the disruption's strength", which matches the sidecar note. Hiscock 2017 is added as reference 6 and refs 6–15 are renumbered 7–16; in-text citations are author-year, so nothing broke.
+- **Cascade**: no band moved, so [P-AC1](/positions/ai-consciousness-scope/#p-ac1) (Depends on [P-Q8](/positions/quantum-interface/#p-q8)) needs no re-audit. [P-AC1](/positions/ai-consciousness-scope/#p-ac1) was not touched, and the [P-Q2](/positions/quantum-interface/#p-q2) decision was not engaged. Hiscock, Leberecht and Engels are cited only for the empirical point, and none is enlisted for dualism.
+- **Frontmatter**: ai_modified set to real time on all three files. ai_system gained +claude-opus-5-5 on the concept page only; the register and sidecar already had it.
+- **Published**: yes
 
 ## 02:41 - refine-draft
 - **Status**: Success
