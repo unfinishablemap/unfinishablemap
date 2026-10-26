@@ -4,7 +4,7 @@ description: "Human-AI inquiry into cognitive opacity that natural selection act
 created: 2026-03-23
 modified: 2026-09-28
 human_modified: null
-ai_modified: 2026-10-26T11:40:33+00:00
+ai_modified: 2026-10-26T23:54:32+00:00
 last_deep_review: 2026-08-20T23:27:00+00:00
 draft: false
 topics:
@@ -68,9 +68,9 @@ Hoffman's implication is that perception operates as a species-specific interfac
 
 The FBT theorem addresses perception, but the adaptive-limit pattern extends across cognitive architecture. Five further results converge on the structural claim the category needs: evolved cognitive systems are shaped to be selectively ignorant, not comprehensively informed.
 
-**Heuristic simplification.** Gerd Gigerenzer's ecological-rationality programme identifies *less-is-more effects* in which "systematically ignoring part of the available information leads to more accurate inferences" (Todd & Gigerenzer 2012). The cognitive system actively discards data — and performs better for it.
+**Heuristic simplification.** Gerd Gigerenzer's ecological-rationality programme identifies *less-is-more effects*, in which strategies that ignore part of the available information make more accurate inferences than strategies that use all of it (Todd & Gigerenzer 2012). The cognitive system actively discards data — and performs better for it.
 
-**Strategic self-opacity.** Von Hippel and Trivers argue that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (von Hippel & Trivers 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Several traditions [[common-cause-null|converge]] on this claim that consciousness participates in its own limitation, as [[self-maintained-cognitive-limits]] documents.
+**Strategic self-opacity.** Von Hippel and Trivers argue that self-deception evolved to facilitate interpersonal deception (von Hippel & Trivers 2011) — in Trivers's own phrase, "we deceive ourselves the better to deceive others" (Trivers 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Several traditions [[common-cause-null|converge]] on this claim that consciousness participates in its own limitation, as [[self-maintained-cognitive-limits]] documents.
 
 **Negative information value.** Field and Bonsall (2018) prove formally that the reproductive value of information can become negative — under realistic cost conditions, an organism that remains ignorant will have higher fitness. Acquiring information sometimes reduces survival prospects.
 
@@ -138,7 +138,7 @@ The Naturally Occluded category does load-bearing methodological work for the Ma
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** This is where the category does its strongest predictive work. If consciousness biases quantum outcomes minimally, the mechanism would need to operate below the threshold of introspective detection, and the category supplies the evolutionary frame: an introspectable mental contribution to physical outcomes would be a target for both internal interference and external manipulation, so natural selection would actively maintain the sub-threshold opacity. The category does not claim the hypothesised biasing mechanism is established; it claims that *if* the mechanism exists, its structural invisibility is predicted — turning an apparent absence-of-evidence into the expected absence the framework requires.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** If consciousness causally influences the physical world, the Trivers framework suggests the causal mechanism is a candidate for adaptive concealment: causal processes are sometimes hidden from consciousness because transparency would compromise function. The agency-void's verification face reads naturally as Naturally Occluded on this frame.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** If consciousness causally influences the physical world, the causal mechanism is a candidate for adaptive concealment. Von Hippel and Trivers (2011) argue that self-deception evolved to facilitate deceiving others; extending that logic from social motives to the mind–body interface is the Map's speculation, and their interpersonal rationale does not obviously carry over. The agency-void's verification face reads naturally as Naturally Occluded on this frame.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]].** If the cognitive systems generating parsimony judgments are themselves naturally occluded (their opacity-features adaptively maintained), parsimony cannot be trusted to track metaphysical truth. The common objection that dualism is less parsimonious than materialism assumes reliable parsimony judgments — an assumption the FBT theorem challenges directly. The Map's anti-parsimony commitment is methodologically downstream of the recognition that the judging apparatus has been shaped by selection pressures indifferent to truth.
 
@@ -171,3 +171,4 @@ A bootstrapping problem remains: if the cognitive faculties identifying naturall
 8. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Three Kinds of Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/three-kinds-of-void/
 10. Berke, M. D., Walter-Terrill, R., Jara-Ettinger, J., & Scholl, B. J. (2022). Flexible Goals Require that Inflexible Perceptual Systems Produce Veridical Representations: Implications for Realism as Revealed by Evolutionary Simulations. *Cognitive Science*, 46(10), e13195.
+11. Trivers, R. (2011). *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life*. Basic Books.

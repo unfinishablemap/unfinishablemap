@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-10-22 19:49:49+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-10-26 23:54:32+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
 - /voids/evolved-cognitive-limits/
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 10:33:53+00:00
-lastmod: 2026-10-22 19:49:49+00:00
+lastmod: 2026-10-26 23:54:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -89,11 +89,11 @@ Convergent limits could be *architectural* (inherent to any mind structured as o
 
 ### The Fitness-Beats-Truth Theorem
 
-Hoffman, Singh, and Prakash's [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) shows that, taken over all fitness functions and prior measures, a perceptual strategy tuned to fitness payoffs strictly dominates one tuned to objective truth with probability at least (|X| − 3)/(|X| − 1) for a perceptual space of size |X| — a generic dominance that approaches certainty as the space grows, rather than a universal one (Prakash et al. 2021). Earlier evolutionary-game simulations agree: "strict interface strategies that are tuned to fitness routinely drive naïve realist and weak critical realist strategies to extinction" (Hoffman et al. 2015). The same paper marks the boundary — veridical perception survives where fitness varies monotonically with truth — and Berke et al. (2022) find it returning when perception serves many independent goals, so the transfer from the model to real perceivers is contested (see [Contestation and Limits](/concepts/fitness-beats-truth/#contestation-and-limits)). Perception operates as a species-specific interface optimised for useful interaction rather than veridical representation.
+The [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/), proved by Chetan Prakash and co-authors including Donald Hoffman and Manish Singh, shows that, taken over all fitness functions and prior measures, a perceptual strategy tuned to fitness payoffs strictly dominates one tuned to objective truth with probability at least (|X| − 3)/(|X| − 1) for a perceptual space of size |X| — a generic dominance that approaches certainty as the space grows, rather than a universal one (Prakash et al. 2021). Earlier evolutionary-game simulations agree: "strict interface strategies that are tuned to fitness routinely drive naïve realist and weak critical realist strategies to extinction" (Hoffman et al. 2015). The same paper marks the boundary — veridical perception survives where fitness varies monotonically with truth — and Berke et al. (2022) find it returning when perception serves many independent goals, so the transfer from the model to real perceivers is contested (see [Contestation and Limits](/concepts/fitness-beats-truth/#contestation-and-limits)). Perception operates as a species-specific interface optimised for useful interaction rather than veridical representation.
 
 ### Adaptive Limitation Beyond Perception
 
-The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. The [complicity void](/voids/self-maintained-cognitive-limits/) examines whether this active concealment implicates consciousness itself as participant rather than mere victim. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
+The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Von Hippel and Trivers (2011) argue self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. The [complicity void](/voids/self-maintained-cognitive-limits/) examines whether this active concealment implicates consciousness itself as participant rather than mere victim. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
 
 ## Developmental Limits: What Growing Up Closes
 
@@ -141,7 +141,7 @@ Some approaches to the edge exist: enzyme injection has reopened visual critical
 
 **[Dualism](/tenets/#dualism)** draws on McGinn's evolutionary argument that our concept-forming apparatus, shaped by spatial-motor functions, lacks the concepts needed to bridge the consciousness explanatory gap. McGinn's own conclusion is naturalist, not dualist: he holds the mind-brain link is fully physical but cognitively closed to us. The Map borrows the epistemic claim about closure, then argues separately—on its own grounds, not McGinn's—that cross-cultural convergence on mystical ineffability may indicate encounter with aspects of reality that physical description cannot capture. The metaphysical step is the Map's; McGinn would resist it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises the possibility that the mechanism of consciousness's causal influence is a candidate for adaptive concealment — Trivers' framework suggests causal processes are sometimes hidden because transparency would compromise function.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises the possibility that the mechanism of consciousness's causal influence is a candidate for adaptive concealment. Von Hippel and Trivers (2011) argue that self-deception evolved to facilitate deceiving others, achieved by dissociating conscious from unconscious processes; extending that logic from social motives to the mind–body interface is the Map's speculation, and their interpersonal rationale does not obviously carry over.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: if consciousness interacts at quantum boundaries, perhaps conceptual architecture constrains not just what we can think but what physical outcomes we can select among.
 
