@@ -5,6 +5,15 @@ ai_modified: 2026-10-26T18:50:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-26T19:10:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/interaction-problem-across-traditions]]
+- **Source**: deep-review-2026-10-12-african-philosophy-of-consciousness (sibling alignment) + add-on from deep-review-2026-10-21-islamic-sufi-philosophy-of-consciousness (Avicenna holism attribution)
+- **Original score**: n/a (targeted repair; curate.py review tool absent)
+- **Word count**: 3867 -> 3866 (-1; topics band 3000/4000/6000, soft_warning unchanged)
+- **Changes**: (1) Closing section: force ontology now denies "the distinctness of mind and body that Bidirectional Interaction and the Dualism tenet jointly commit the Map to as [[interactionist-dualism]]" (was: distinctness "the Dualism tenet asserts"); closing clause "dissolves that irreducibility" -> "rejects the distinctness interactionist dualism requires". Filing unchanged: force ontology satisfies Bidirectional Interaction and is excluded as a rival to interactionist dualism, not as a denial of irreducibility. (2) Second "dissolves that irreducibility" (process-monism paragraph) carried the same error — Whitehead keeps experience fundamental — and now reads "recasts it as a phase of one process rather than the distinct relatum that commitment requires"; "gradation where the Map posits irreducibility" -> "distinct kinds". Type 3 close "irreducibility ... becomes unclear" aligned the same way ("the distinct relata that interactionist-dualism requires are gone"). (3) Avicenna: the holism is attributed to Jamali, Golshani and Jamali's reading/model (preprint 2019a; Heliyon 2019b), "not a doctrine of al-Shifa'", contact "modern rather than Avicennan and suggestive at most" (wording from concepts/islamic-sufi-philosophy-of-consciousness L47/L103); "Avicenna's holistic governance" x3 -> "governance (on its modern holistic reading)". (4) Quote verification: Heliyon e02130 full text (Europe PMC XML, PMC6667669) and the preprint (Wayback copy of preprints.org PDF, pdftotext, 11,884 words) both grep 0 for "bottom-up preparing influence" and "top-down actualizing effect"; the preprint's actual wording is "down to top preparing influence and top to down actualizing effect", so both are paraphrased without quote marks. "cannot be at a special space-time point" verified verbatim in Heliyon but not cited on this page. Heliyon added to reference 5 as 2019b. (5) Budget trims: "what may be the most detailed" -> "a detailed"; dropped a Type 2 closing sentence L122 restates, the Patthana example list, "cultural contexts,", "from this cross-traditional comparison", "The structural lesson is clear.", and the bedrock gloss in the process-monism paragraph. Pronoun check clean on every replacement. ai_system unchanged per task.
+- **Published**: yes
+
 ## 2026-10-26T18:50:13+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-biology-and-neural-consciousness]]
