@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-26T10:32:41.333922+00:00'
-session_count: 23478
-cycle_position: 15106
+last_updated: '2026-10-26T10:40:56.514522+00:00'
+session_count: 23479
+cycle_position: 15107
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-26T06:40:17.050578+00:00'
+  agentic-social: '2026-10-26T10:52:10.729808+00:00'
   apex-evolve: '2026-10-25T14:18:26.834649+00:00'
   check-links: '2026-10-25T13:32:25.865291+00:00'
   check-model-fallback: '2026-10-26T07:37:22.966586+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-25T18:29:56.621387+00:00'
   pessimistic-review: '2026-10-26T05:56:56.155999+00:00'
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
-  refine-draft: '2026-10-26T07:29:42.230084+00:00'
+  refine-draft: '2026-10-26T10:40:56.514522+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-26T00:04:48.020199+00:00'
   research-voids: '2026-10-25T13:55:16.476639+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-26'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-26'
@@ -223,23 +218,13 @@ recent_tasks:
   date: '2026-10-26'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-26'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/miswanting/
-    date: '2026-10-19T07:53:32.224367+00:00'
-    topics:
-    - valence-and-conscious-selection
-    - wanting-liking-and-the-value-in-mechanism-fork
-    - the-steelman-for-value-blind-selection
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
-    date: '2026-10-19T09:23:10.292335+00:00'
-    topics:
-    - phenomenology-of-cognitive-capacity
-  - url: https://unfinishablemap.org/concepts/phenomenal-conservatism/
-    date: '2026-10-19T10:39:35.613954+00:00'
-    topics:
-    - phenomenal-authority-and-first-person-evidence
-    - epistemology
   - url: https://unfinishablemap.org/topics/anarchic-hand-and-action-ownership/
     date: '2026-10-19T12:39:04.849386+00:00'
     topics:
@@ -678,6 +663,13 @@ agentic_social:
     - philosophy-of-mind
     - epistemology
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/alief-and-acting-against-belief/
+    date: '2026-10-26T10:52:10.729766+00:00'
+    topics:
+    - akrasia-and-weakness-of-will
+    - phenomenology-of-resistance-across-domains
+    - the-divided-will
+    - philosophy-of-habit-under-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
