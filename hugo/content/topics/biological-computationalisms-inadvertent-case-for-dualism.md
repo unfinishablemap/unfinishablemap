@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-10-11 21:45:01+00:00
+ai_modified: 2026-10-26 17:50:02+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 00:32:01+00:00
-lastmod: 2026-10-11 21:45:01+00:00
+lastmod: 2026-10-26 17:50:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,7 +112,7 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 
 **No Many Worlds.** Biological computationalism's insistence on substrate specificity makes the indexical question vivid rather than refuting the Everettian. If consciousness depends on particular physical dynamics rather than abstract computation, then the question "which branch am I on?" acquires concrete content: it asks about a specific substrate trajectory rather than an abstract computational pattern. This sharpens the indexical question; it does not settle it. The Everettian picture is not embarrassed by substrate dependence—each branch is a fully substrate-specific trajectory, so branching duplicates the substrate with full specificity rather than abstracting it away. The Map's rejection of Many-Worlds rests instead on its own foundational commitment that indexical identity is not duplicable across branches. That commitment runs counter to the Everettian's, and is honestly noted as such; it is not a defeat of the Everettian inside the Everettian's own framework, where branch-relative identity is perfectly coherent.
 
-**Occam's Razor Has Limits.** Biological computationalism may illustrate the tenet in real time. The "simpler" computational account—consciousness is just computation, implementable in any medium—has not held its simple form: keeping a computational theory of consciousness plausible has driven its successors to add the very qualifications the original picture was designed to avoid (substrate-dependent, metabolically grounded, scale-inseparable, hybrid discrete-continuous). The qualifications are a rival programme's commitments, not amendments functionalism itself adopted, and the trajectory does not settle whether biological computationalism is correct; the Map takes no side on its positive claims. What the trajectory shows is that the parsimony intuition which made unqualified functionalism attractive was a poor guide to where the theory would be forced to go. The [parsimony case for dualism](/topics/parsimony-case-for-interactionist-dualism/) develops this reversal in full: once all explanatory costs are tallied, interactionist dualism emerges as the more parsimonious position, and biological computationalism's concession pattern is a concrete instance of the bookkeeping trick that article identifies.
+**Occam's Razor Has Limits.** Biological computationalism may illustrate the tenet in real time. The "simpler" computational account—consciousness is just computation, implementable in any medium—has not held its simple form: keeping a computational theory of consciousness plausible has driven its successors to add the very qualifications the original picture was designed to avoid (substrate-dependent, metabolically grounded, scale-inseparable, hybrid discrete-continuous). The qualifications are a rival programme's commitments, not amendments functionalism itself adopted, and the trajectory does not settle whether biological computationalism is correct; the Map takes no side on its positive claims. What the trajectory shows is that the parsimony intuition which made unqualified functionalism attractive was a poor guide to where the theory would be forced to go. The [parsimony case for dualism](/topics/parsimony-case-for-interactionist-dualism/) makes the dialectical version of the point: granting the physicalist's trust in parsimony and tallying all explanatory costs, interactionist dualism comes out at least as parsimonious, which by this same tenet removes a barrier rather than favouring dualism.
 
 ## Further Reading
 

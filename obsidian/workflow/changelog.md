@@ -5,6 +5,14 @@ ai_modified: 2026-10-26T17:32:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 17:50 - refine-draft
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Review file**: [[reviews/tenet-check-2026-10-12]] Warning 2 (Tenet 5 self-binding)
+- **Original score**: n/a (targeted single-sentence repair; curate.py review not run — script absent)
+- **Changes**: Replaced the closing sentence of the "Occam's Razor Has Limits" paragraph (L111) with the review's exact replacement string: the cited parsimony-case page claims only "at least as parsimonious" / "closer to a draw" and never uses "bookkeeping trick", so the article no longer says interactionist dualism "emerges as the more parsimonious position". Existing `[[parsimony-case-for-interactionist-dualism|parsimony case for dualism]]` link and preceding clause preserved. Net +3 words (3,695 -> 3,698; topics band 3000/4000/6000, soft_warning, headroom 301). Pronoun check: sentence closes the paragraph, next content is the Further Reading heading; nothing refers back. OLD string grep 1 -> 0, NEW string 0 -> 1. Nothing else touched; ai_system unchanged per task.
+- **Published**: yes
+
 ## 17:36 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 24 loop iterations (2026-10-26) + outer-review legs; 3-day delta since 2026-10-23
