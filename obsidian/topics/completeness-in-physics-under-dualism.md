@@ -4,7 +4,7 @@ description: "Physics is complete about structure but silent on actuality. Prope
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-10-11T17:57:30+00:00
+ai_modified: 2026-10-26T18:05:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,7 +125,7 @@ The completeness question is foundational to the Map's entire framework, interse
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Completeness marks exactly *where* consciousness would act: at Process 3, where the Born weights constrain the statistics and leave the individual outcome open. The interaction is minimal because it does not modify any structure physics describes. It resolves what structure leaves open.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The gap makes bidirectional interaction coherent rather than ad hoc. Consciousness selects actual outcomes at quantum indeterminacies—invisible to structural physics but causally real. The gap marks the precise location where non-physical causation is compatible with physical law.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The gap makes bidirectional interaction coherent rather than ad hoc. On the Map's posit, consciousness selects actual outcomes at quantum indeterminacies—invisible to structural physics, and causally efficacious only if the posit holds ([[tenets#^tenet-3-standing|Tenet 3's standing]]). The gap marks the precise location where non-physical causation is compatible with physical law.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Many-worlds eliminates the gap by declaring all outcomes actual. If every branch is real, there is no selection problem. The Map rejects this dissolution: the question of which outcome *I* experience is genuine, and answering it requires something beyond structure.
 

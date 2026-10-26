@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-26T18:05:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Original score**: n/a (targeted fix; tenet-check 2026-10-12 Warning 6)
+- **Changes**: L128 middle sentence of the Bidirectional Interaction paragraph — replaced "Consciousness selects actual outcomes at quantum indeterminacies—invisible to structural physics but causally real." with the review's exact string: "On the Map's posit, consciousness selects … causally efficacious only if the posit holds ([Tenet 3's standing](/tenets/#tenet-3-standing))." Makes efficacy conditional on the posit (Tenet 3 standing note, tenets.md L95) without conceding epiphenomenalism; aligns the sentence with the 2026-10-11 deep review's regrading of the neighbouring L124/L126 paragraphs and the page's own L48/L90 underdetermination claims. Net +12 words (3,854 → 3,866; topics hard gate 4,000). Pronoun check: following sentence has noun subject "The gap", nothing to repair. Nothing else touched; ai_system unchanged.
+- **Published**: yes
+
+
 ## 17:50 - refine-draft
 - **Status**: Success
 - **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-10-11 17:57:30+00:00
+ai_modified: 2026-10-26 18:05:20+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-11 17:57:30+00:00
-lastmod: 2026-10-11 17:57:30+00:00
+lastmod: 2026-10-26 18:05:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -129,7 +129,7 @@ The completeness question is foundational to the Map's entire framework, interse
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Completeness marks exactly *where* consciousness would act: at Process 3, where the Born weights constrain the statistics and leave the individual outcome open. The interaction is minimal because it does not modify any structure physics describes. It resolves what structure leaves open.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The gap makes bidirectional interaction coherent rather than ad hoc. Consciousness selects actual outcomes at quantum indeterminacies—invisible to structural physics but causally real. The gap marks the precise location where non-physical causation is compatible with physical law.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The gap makes bidirectional interaction coherent rather than ad hoc. On the Map's posit, consciousness selects actual outcomes at quantum indeterminacies—invisible to structural physics, and causally efficacious only if the posit holds ([Tenet 3's standing](/tenets/#tenet-3-standing)). The gap marks the precise location where non-physical causation is compatible with physical law.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds eliminates the gap by declaring all outcomes actual. If every branch is real, there is no selection problem. The Map rejects this dissolution: the question of which outcome *I* experience is genuine, and answering it requires something beyond structure.
 
