@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-26 15:03 UTC - research-topic
+- **Status**: Success
+- **Topic**: Partial unity of consciousness (Lockwood 1989; Bayne 2010; Schechter 2014)
+- **Output**: [[research/partial-unity-of-consciousness-2026-10-26]]
+- **Sources consulted**: 15 (SEP §3.1.4 + notes grepped; Lockwood 1994, Bayne & Chalmers 2003, Lopez 2025 full texts grepped; Bayne 2010 via Google Books search-within; Crossref/OpenAlex metadata; NDPR reviews)
+- **Verdict**: fold into voids/plurality-void after the optimistic review's item 1 (L39 Schechter attribution fix); Schechter 2014 chapter wording unverified, SEP rendering only
 ## 2026-10-26 14:39 - deep-review
 - **Status**: Success
 - **File**: [[concepts/basic-argument-and-constitutive-luck]]
