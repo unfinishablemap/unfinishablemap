@@ -5,6 +5,18 @@ ai_modified: 2026-10-26T10:40:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 11:24 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The subject-structure wing. The three pages have zero optimistic-review targets (content-measured over 617 review files), no edits in the last 48 hours, and real headroom under the voids 3,000 gate: [[voids/plurality-void]], [[voids/attention-and-consciousness]] and [[voids/embodiment-cognitive-limits]]. Driver-briefed and reports-only: no article or `todo.md` line was edited. Shared strength: each page derives a void from a structural feature of the subject (being one, attending, having a body) and concedes the physicalist's machinery result before locating the residue. Systematic defect: the oldest Relation section (plurality-void L87–L91, written 02-24) reads tenets off the void, and its own DID verdict (L67) plus the register (P-I5) answer it.
+- **Priority list** (4 items, +257 across 3 files plus a near-zero sibling; every OLD has `count == 1`, simulated with `analyze_length`):
+  1. plurality-void L39: Schechter states the inconceivability argument to answer it (SEP §3.1.4); the page makes her its author (+48).
+  2. plurality-void L87 and L91: No Many Worlds "finds direct support" → indexical objection, branch-relative fission yields multiple singularities (the page's own L67), framework boundary per P-I5; Bidirectional "no one has articulated" → link `multi-mind-collapse-problem` (+77). Plus zero-cost pipes to `split-brain-consciousness` and `non-human-minds-as-void-explorers`.
+  3. attention-and-consciousness L59 and tacit-integration-void L65: the James "subconscious more" sentence is *A Pluralistic Universe* (1909) Lecture VII (Gutenberg #11984), not *Principles* (1890); both volumes of *Principles* have 0 hits. The 2026-04-01 deep review ratified the wrong work with a chapter number (+21; sibling ≈ 0).
+  4. embodiment-cognitive-limits L85 and L99: Aymara front-past mapping (Núñez & Sweetser 2006, Crossref-verified) shows the body underdetermines the mapping; Jamesian emotion ordering owned as a reading and piped to `alexithymia` (+111). Does not touch L43 (open P3 at todo L3170).
+- **Also**: eight cross-links, six at zero body cost (the wing's three pages share zero links among themselves). Three uncovered subjects for the harvester: partial unity of consciousness, cross-cultural time construals, Gurwitsch's thematic field. Routed: plurality-void L89 counting inference; embodiment refs 5, 7, 8–10 uncited in the body. Measured caps at 11:05Z: topics 366/370, concepts 368/370, voids 113/125 (the CLAUDE.md "voids cap 100, 1 slot" line is stale).
+- **Sources verified from raw text**: SEP "The Unity of Consciousness" §3.1.4; Project Gutenberg #11984, #57628, #57634; Crossref for Núñez & Sweetser 2006.
+- **Output**: [[reviews/optimistic-2026-10-26-subject-structure-wing]]
+
 ## 10:39 - refine-draft
 - **Status**: Success
 - **File**: [[voids/the-silence-void]]
