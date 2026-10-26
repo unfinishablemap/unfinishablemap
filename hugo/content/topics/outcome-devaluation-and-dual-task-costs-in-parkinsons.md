@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-30
-ai_modified: 2026-10-12 02:36:27+00:00
+ai_modified: 2026-10-26 20:37:18+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 20:28:14+00:00
-lastmod: 2026-10-12 02:36:27+00:00
+lastmod: 2026-10-26 20:37:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ The three instrumental rows reverse the habitual reading's edge; the freezing ro
 
 ## The Construct Gap
 
-The central caveat is that the instrumental literature and the willed-deficit reading are not measuring the same thing. "Goal-directed" in de Wit, Mi and Sharp means sensitivity of a learned response to the current value of its outcome, or model-based planning over a learned task structure: response-outcome knowledge, exercised in a button-press task with reward outcomes. "Self-initiated" in the Map's reading of the dissociation means a movement generated without an external trigger, the construct the kinematic and cueing studies manipulate. The two overlap, since both contrast with cue-driven, outcome-insensitive control and both degrade with disease severity, but they are not identical. None of the instrumental tasks measures self-initiated *movement*; none of the gait studies measures outcome sensitivity. A patient could in principle retain outcome-sensitive choice while losing the capacity to start a chosen movement without a cue, or the reverse. So the devaluation result restores the willed-deficit reading to parity by defeating the rival's prediction, and it does so by showing that the system the rival said was spared is the one that fails. It does not show that what fails is the selection of self-initiated action, and any article that reports the devaluation evidence as confirming the Map's reading has substituted one construct for the other.
+The central caveat is that the instrumental literature and the willed-deficit reading are not measuring the same thing. "Goal-directed" in de Wit, Mi and Sharp means sensitivity of a learned response to the current value of its outcome, or model-based planning over a learned task structure: response-outcome knowledge, exercised in a button-press task with reward outcomes. "Self-initiated" in the Map's reading of the dissociation means a movement generated without an external trigger, the construct the kinematic and cueing studies manipulate. The two overlap, since both contrast with cue-driven, outcome-insensitive control and both degrade with disease severity, but they are not identical. None of the instrumental tasks measures self-initiated *movement*; none of the gait studies measures outcome sensitivity. A patient could in principle retain outcome-sensitive choice while losing the capacity to start a chosen movement without a cue, or the reverse. So the devaluation result restores the willed-deficit reading to parity by defeating the rival's prediction on the brief-training test, showing that the system the rival said was spared is the one that fails. It does not show that what fails is the selection of self-initiated action, and any article that reports the devaluation evidence as confirming the Map's reading has substituted one construct for the other.
 
 ## Stated Limits
 
@@ -95,7 +95,7 @@ Sixteen of the twenty-two sources consulted were retrieved as abstracts only; th
 
 ## Relation to Site Perspective
 
-**Tenet 3 stays at *compatible*, and gains parity.** The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world, and the Map's own tenet text records that the interface argument shows this influence to be *available* without showing it to be *actual* ([the tenet-3 standing note](/tenets/#tenet-3-standing)). Nothing here moves it. A goal-directed deficit that dopamine replacement remediates is a dopamine-dependent goal-directed system, which non-reductive physicalism with mental causation predicts as readily as the Map's selection-interface reading does. On the compatibility-versus-support boundary of [evidential-status-discipline](/project/evidential-status-discipline/), the devaluation evidence is compatible with the Map's reading and does not support it over the rival, because the rival's *anatomy* survives and only its behavioural prediction failed; the Map names no discriminator the physicalist reading fails to predict. What the evidence does is remove the anatomical rival's claim to the discriminating test, so on the instrumental question the Map's reading returns to equal footing where the kinesia page had placed it a step behind. Parity is the tier reached: *compatible, not supported*.
+**Tenet 3 stays at *compatible*, and gains parity.** The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world, and the Map's own tenet text records that the interface argument shows this influence to be *available* without showing it to be *actual* ([the tenet-3 standing note](/tenets/#tenet-3-standing)). Nothing here moves it. A goal-directed deficit that dopamine replacement remediates is a dopamine-dependent goal-directed system, which non-reductive physicalism with mental causation predicts as readily as the Map's selection-interface reading does. On the compatibility-versus-support boundary of [evidential-status-discipline](/project/evidential-status-discipline/), the devaluation evidence is compatible with the Map's reading and does not support it over the rival, because the rival's *anatomy* survives and only its behavioural prediction failed; the Map names no discriminator the physicalist reading fails to predict. The evidence removes the anatomical rival's claim to the brief-training version of the discriminating test, so on the instrumental question the Map's reading regains equal footing where the kinesia page placed it a step behind. Parity is the tier reached: *compatible, not supported*.
 
 **Tenet 5, narrowly.** [Occam's Razor Has Limits](/tenets/#occams-limits) warns against preferring the simpler account because it is simpler. The relevant application is small: the habitual reading's appeal partly rested on an anatomically tidy story (posterior putamen loss, therefore habit loss), and the direct behavioural test did not honour it. That cautions against inferring function from lesion locus, which cuts against any tidy story including the Map's; it licenses no preference for the Map's reading, and the Map draws none.
 

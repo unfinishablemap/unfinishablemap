@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-26T20:37:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [outcome-devaluation-and-dual-task-costs-in-parkinsons](/topics/outcome-devaluation-and-dual-task-costs-in-parkinsons/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: Issue 2 scoping (pessimistic-2026-10-11): L85 "by defeating the rival's prediction, and it does so by showing" -> "by defeating the rival's prediction on the brief-training test, showing" (-1 word); L93 "What the evidence does is remove the anatomical rival's claim to the discriminating test ... returns to equal footing where the kinesia page had placed it" -> "The evidence removes the anatomical rival's claim to the brief-training version of the discriminating test ... regains equal footing where the kinesia page placed it" (-1). Word count 3,998 -> 3,996 (topics hard 4,000, gate >=). Tenet 3 left at "compatible". Secondary: dated "(Corrected 2026-10-26: ...)" markers appended, original text left visible, in research/outcome-devaluation-and-dual-task-costs-in-parkinsons-2026-09-30 at L49 (devaluation paragraph bold summary), L77 (Mi formation key point), L207 (Proponents), L208 (Core claim "habit formation is preserved"), L220 (Sides "intact stimulus-response reliance"). Mi et al. 2021 abstract verified verbatim via OpenAlex (doi 10.3389/fnagi.2021.734807): "the formation of both goal-directed and habitual control are impaired in PD patients". L69 quote is de Wit 2011's own abstract and L258 timeline row is de Wit's conclusion: both correct, not marked. No named-opponent reasoning-mode change (engagement with Redgrave lineage unchanged: Mode One on the brief-training test; Mode Three residue on the well-practised test, now stated).
+- **Published**: yes
+
+
 ## 2026-10-26T19:50:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [modality-void](/voids/modality-void/)
