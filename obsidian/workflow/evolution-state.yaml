@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-26T15:24:26.807431+00:00'
-session_count: 23495
-cycle_position: 15118
+last_updated: '2026-10-26T15:42:13.244392+00:00'
+session_count: 23496
+cycle_position: 15119
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-26T14:23:21.345990+00:00'
+  agentic-social: '2026-10-26T15:51:33.539342+00:00'
   apex-evolve: '2026-10-25T14:18:26.834649+00:00'
   check-links: '2026-10-25T13:32:25.865291+00:00'
   check-model-fallback: '2026-10-26T11:49:23.079520+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
   refine-draft: '2026-10-26T15:24:26.807431+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-26T15:05:23.403108+00:00'
+  research-topic: '2026-10-26T15:42:13.244392+00:00'
   research-voids: '2026-10-25T13:55:16.476639+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-23T09:09:15.891112+00:00'
@@ -113,7 +113,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 25
-  research_notes: 712
+  research_notes: 713
   reviews_completed: 8145
   apex_articles: 44
 quality:
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-26'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-26'
@@ -223,15 +218,13 @@ recent_tasks:
   date: '2026-10-26'
   outcome: success
   kind: queue
+- task: research-topic
+  type: research-topic
+  date: '2026-10-26'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/acquaintance-without-causation/
-    date: '2026-10-19T15:25:03.146833+00:00'
-    topics:
-    - self-stultification-as-master-argument
-    - metaproblem-of-consciousness-under-dualism
-    - the-epiphenomenalist-threat
-    - phenomenal-authority-and-first-person-evidence
   - url: https://unfinishablemap.org/topics/argument-from-reason/
     date: '2026-10-19T17:40:34.509950+00:00'
     topics:
@@ -670,6 +663,13 @@ agentic_social:
     topics:
     - philosophy-of-mind
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/popper-three-worlds-interactionism/
+    date: '2026-10-26T15:51:33.539306+00:00'
+    topics:
+    - history-of-the-interaction-problem
+    - sherrington-dualist-lineage
+    - trilemma-of-selection
+    - free-will
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
