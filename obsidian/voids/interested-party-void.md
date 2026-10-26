@@ -4,7 +4,7 @@ description: "Human+AI investigation of the deepest conflict of interest: consci
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-10-03T23:13:33+00:00
+ai_modified: 2026-10-26T23:21:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[voids-interested-party-void-2026-04-15]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-04-16
 last_curated:
 last_deep_review: 2026-06-26T00:57:30+00:00
@@ -50,7 +50,7 @@ This becomes acute when the questions carry existential weight. Investigating th
 
 The claim that self-interest corrupts consciousness studies is not merely philosophical speculation. Multiple research programmes converge on the same conclusion.
 
-**Terror management theory**, developed by Greenberg, Solomon, and Pyszczynski, demonstrates that mortality salience---awareness of death---triggers worldview defence. Over 300 studies confirm that reminders of mortality bias judgment toward beliefs offering symbolic or literal immortality. The bias operates below conscious awareness through "death-thought accessibility." Proximal defences suppress death thoughts from focal attention; distal defences restructure entire worldviews. Any investigation of whether consciousness survives death is conducted by an entity whose cognition is already biased toward survival-confirming answers.
+**Terror management theory**, developed by Greenberg, Solomon, and Pyszczynski, holds that mortality salience---awareness of death---triggers worldview defence. Over 300 studies report that reminders of mortality bias judgment toward beliefs offering symbolic or literal immortality, though the evidence is contested: the classic mortality-salience effect failed to replicate in a large multi-lab test (Klein et al. 2022). If the effect is real, the bias operates below conscious awareness through "death-thought accessibility." Proximal defences suppress death thoughts from focal attention; distal defences restructure entire worldviews. Any investigation of whether consciousness survives death is conducted by an entity whose cognition is already biased toward survival-confirming answers.
 
 **Motivated reasoning** research, particularly Kunda's (1990) foundational work, shows that people chronically engage in self-serving reasoning while remaining unaware of doing so. The distortion hides in locations outside conscious awareness---introspection finds no trace of it. As Francis Bacon observed in 1620: "The human understanding receives an infusion from the will and affections." The interested party void is the application of this well-documented phenomenon to the most self-relevant inquiry possible.
 
@@ -114,8 +114,9 @@ The honest response is not to pretend the void does not apply to us. It is to ac
 
 1. Alston, W.P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1--30.
 2. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). "Terror Management Theory of Self-Esteem and Cultural Worldviews." *Advances in Experimental Social Psychology*, 29, 61--139.
-3. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
-4. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-5. Nietzsche, F. (1887). *On the Genealogy of Morals*. Trans. W. Kaufmann.
-6. Smilansky, S. (2000). *Free Will and Illusion*. Oxford University Press.
-7. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
+3. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
+4. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
+5. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+6. Nietzsche, F. (1887). *On the Genealogy of Morals*. Trans. W. Kaufmann.
+7. Smilansky, S. (2000). *Free Will and Illusion*. Oxford University Press.
+8. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/

@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-26T23:21:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) (secondary: [interested-party-void](/voids/interested-party-void/))
+- **Original score**: n/a (scripts/curate.py absent; targeted calibration fix from deep-review-2026-10-12-phenomenology-of-cognitive-limit-types)
+- **Changes**: TMT empirical-record currency after Many Labs 4. self-maintained-cognitive-limits L89: "meta-analysis of 277 experiments confirms" → "reports"; subliminal sentence softened to "have been reported to show"; added "The evidence is contested—the classic mortality-salience effect failed to replicate in a large multi-lab test (Klein et al. 2022)—but if the effect is real, deflection precedes awareness." interested-party-void L53: "demonstrates that mortality salience" → "holds that" (death-void L94 register); "Over 300 studies confirm" → "report" with one Klein clause covering the sentence group; "The bias operates" → "If the effect is real, the bias operates". Klein et al. 2022 (Collabra: Psychology 8(1), 35271) added to both References (SMCL #9, IPV #3; later entries renumbered, no numeric in-text cites). Burke, Martens & Faucher 2010 retained. Klein abstract phrase "unable to replicate the finding under any conditions" re-verified via OpenAlex 2026-10-26 (17 labs, N = 1,550); not quoted in either article. suspension-void L68 and nihilism-and-existentialism L96 untouched per task.
+- **Word count**: self-maintained-cognitive-limits 2694 → 2759 (+65, of which ~37 is the reference entry; voids soft 3000, status soft_warning unchanged); interested-party-void 1732 → 1795 (+63, ~37 reference; status ok)
+- **Attribution**: interested-party-void ai_system appended claude-fable-5-1; self-maintained already carried it
+- **Published**: yes
+
 ## 2026-10-26T22:54:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/)

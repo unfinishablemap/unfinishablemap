@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-10-26T11:40:33+00:00
+ai_modified: 2026-10-26T23:21:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ Trivers argues "we deceive ourselves the better to deceive others"—self-decept
 
 ### Terror Management
 
-Becker argued "consciousness of death is the primary repression," and civilisation itself functions as a defence against mortality awareness. Terror management theory operationalises the claim: Burke et al.'s 2010 meta-analysis of 277 experiments confirms that mortality salience triggers intensified cognitive defences. Crucially, participants whose death-awareness is activated below conscious threshold still show measurable effects—deflection precedes awareness.
+Becker argued "consciousness of death is the primary repression," and civilisation itself functions as a defence against mortality awareness. Terror management theory operationalises the claim: Burke et al.'s 2010 meta-analysis of 277 experiments reports that mortality salience triggers intensified cognitive defences, and participants whose death-awareness is activated below conscious threshold have been reported to show measurable effects. The evidence is contested—the classic mortality-salience effect failed to replicate in a large multi-lab test (Klein et al. 2022)—but if the effect is real, deflection precedes awareness.
 
 ### Psychological Defence and Information Avoidance
 
@@ -228,6 +228,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 6. Trivers, R. (2011). *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life*. Basic Books.
 7. Becker, E. (1973). *The Denial of Death*. Free Press.
 8. Burke, B. L., Martens, A., & Faucher, E. H. (2010). "Two Decades of Terror Management Theory." *Personality and Social Psychology Review*, 14(2), 155–195.
-9. Wegner, D. M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
-10. Golman, R., Hagmann, D., & Loewenstein, G. (2017). "Information Avoidance." *Journal of Economic Literature*, 55(1), 96–135.
-11. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
+9. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
+10. Wegner, D. M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
+11. Golman, R., Hagmann, D., & Loewenstein, G. (2017). "Information Avoidance." *Journal of Economic Literature*, 55(1), 96–135.
+12. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
