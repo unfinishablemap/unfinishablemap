@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-26T22:54:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [wavefunction-realism-vs-primitive-ontology](/concepts/wavefunction-realism-vs-primitive-ontology/)
+- **Word count**: 2143 → 2202 (+59)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Ney 2023 stance stated in full; Relation section now covers the Hilbert-space option)
+- **Enhancements made**: 2 (opener reworded to avoid a fault-line miscount; References re-alphabetised)
+- **Citations**: Ney 2023 and Carroll & Singh 2019 real-correct at Crossref; both Ney 2023 quotations verbatim (control-pair check against the Springer page); Ney 2021 "counted on a single hand" raw-verified at Google Books p. xii with a zero-hit control (08-19 review wrongly said the article had no quotations)
+- **Reasoning-mode classification**: not applicable (no named opponent of the Map; intra-physics exchange reported symmetrically)
+- **Output**: [deep-review-2026-10-26-wavefunction-realism-vs-primitive-ontology](/reviews/deep-review-2026-10-26-wavefunction-realism-vs-primitive-ontology/)
+
 ## 2026-10-26T22:35:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [process-philosophy](/concepts/process-philosophy/)
