@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-10-22 15:18:50+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-10-26 14:05:48+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /voids/attention-created-voids/
@@ -15,14 +15,14 @@ concepts:
 - '[[mental-effort]]'
 - '[[interface-friction]]'
 created: 2026-01-29
-date: &id001 2026-10-22
+date: &id001 2026-10-26
 description: Attending generates unattendable territory as a structural necessity.
   Disordered attention creates epistemological voids that may be permanently unmappable.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 06:53:21+00:00
-lastmod: 2026-10-22 15:18:50+00:00
+lastmod: 2026-10-26 14:05:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -51,7 +51,7 @@ Attention creates voids as a structural necessity, not as a contingent failure. 
 
 ## Figure Creates Ground
 
-The Gestalt psychologists established that perception is structured by figure-ground relations. To see a figure requires producing a ground — the figure cannot exist as figure without it. Aron Gurwitsch developed this further: perception is always structured into theme (what is focal), thematic field (what is substantively relevant), and margin (what is merely co-present). The margin follows different organisational principles than the theme. Making the margin thematic creates a new margin.
+The Gestalt psychologists established that perception is structured by figure-ground relations. To see a figure requires producing a ground — the figure cannot exist as figure without it. Aron Gurwitsch developed this further: the field of consciousness is always structured into theme (what is focal), thematic field (what is substantively relevant), and margin (what is merely co-present), and each domain is organised on its own principle — the theme by Gestalt coherence, the thematic field by material relevancy to the theme, the margin by co-presence alone. The margin follows different organisational principles than the theme, yet it is organised: its contents belong to three constants — a segment of the stream of consciousness, one's embodied existence, and the perceptual world — which Gurwitsch's posthumous *Marginal Consciousness* (1985, edited by Embree) describes as concomitant with whatever the theme may be. The triad is also Gurwitsch's correction of James: the undivided Jamesian fringe is split into the relevant thematic field and the margin proper (Zaner's 2010 editorial introduction; *The Field of Consciousness*, Part Five). Marginality is relational — what is marginal, in Zaner's gloss, "is so in respect of some theme" — so the claim that making the margin thematic creates a new margin is an entailment of the definitions rather than a separate finding. A marginal item that is singled out becomes a new theme and is, phenomenally, no longer the same item; the former theme recedes into field or margin, and the three constants stay co-present with the new theme. This is what makes the void structural rather than a failure of effort: the margin is defined by the theme that effort has just installed, so no redistribution of attention reaches a theme without one.
 
 Every act of attention therefore produces unattendable territory as its structural condition. The void is not incidental to attention but constitutive of it.
 
@@ -161,9 +161,11 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 2. Mack, A. & Rock, I. (1998). *Inattentional Blindness*. MIT Press.
 3. Simons, D. J., & Chabris, C. F. (1999). "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events." *Perception*, 28(9), 1059-1074.
 4. Müller, N. G. & Kleinschmidt, A. (2004). "The Attentional 'Spotlight's' Penumbra: Center-Surround Modulation in Striate Cortex." *NeuroReport*, 15(6), 977-980.
-5. Gurwitsch, A. (2010). *The Field of Consciousness: Theme, Thematic Field, and Margin*. Springer.
-6. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-7. Barkley, R.A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed.). Guilford Press.
-8. Husain, M. & Rorden, C. (2003). "Non-spatially lateralized mechanisms in hemispatial neglect." *Nature Reviews Neuroscience*, 4(1), 26-36.
-9. Hesse, J.K. & Tsao, D.Y. (2020). "A new no-report paradigm reveals that face cells encode both consciously perceived and suppressed stimuli." *eLife*, 9, e58360.
-10. Hesse, J.K., Lanfranchi, F.F., McGrory, C., Shi, Y., Engel, T.A. & Tsao, D.Y. (2026). "Rapid alternation of conscious and suppressed stimulus representations in the primate brain." *bioRxiv* preprint (not peer-reviewed), doi:10.64898/2026.10.15.759299.
+5. Gurwitsch, A. (2010). *The Field of Consciousness: Theme, Thematic Field, and Margin* (R. M. Zaner, Ed.). Collected Works vol. III, Phaenomenologica 194. Springer.
+6. Gurwitsch, A. (1985). *Marginal Consciousness* (L. Embree, Ed.). Ohio University Press.
+7. Zaner, R. M. (2010). "Editorial Introduction." In A. Gurwitsch, *The Collected Works of Aron Gurwitsch, Vol. III* (pp. xv–xl). Springer.
+8. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+9. Barkley, R.A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed.). Guilford Press.
+10. Husain, M. & Rorden, C. (2003). "Non-spatially lateralized mechanisms in hemispatial neglect." *Nature Reviews Neuroscience*, 4(1), 26-36.
+11. Hesse, J.K. & Tsao, D.Y. (2020). "A new no-report paradigm reveals that face cells encode both consciously perceived and suppressed stimuli." *eLife*, 9, e58360.
+12. Hesse, J.K., Lanfranchi, F.F., McGrory, C., Shi, Y., Engel, T.A. & Tsao, D.Y. (2026). "Rapid alternation of conscious and suppressed stimulus representations in the primate brain." *bioRxiv* preprint (not peer-reviewed), doi:10.64898/2026.10.15.759299.

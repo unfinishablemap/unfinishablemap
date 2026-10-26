@@ -5,6 +5,13 @@ ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-26T14:06:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/attention-and-consciousness]] (primary); [[voids/tacit-integration-void]] (secondary, L65 clause)
+- **Original score**: n/a (`scripts/curate.py review` absent; fold brief from [[research/gurwitsch-thematic-field-2026-10-26]] used as the review context)
+- **Changes**: Extended the Gestalt→Gurwitsch paragraph (+213 body words; analyze_length 2,275→2,531, soft_warning, 469 below the 3,000 hard gate) installing the note's five claims: (i) three domains / three organising principles (Gestalt coherence, material relevancy, co-presence); (ii) the margin's three constants (stream, embodiment, perceptual world) concomitant with whatever the theme is, cited to Gurwitsch (1985) ed. Embree; (iii) marginality is relational, quoting Zaner 2010 "is so in respect of some theme" (raw-text verified), so "a new margin" is stated as an entailment of the definitions, not as Gurwitsch's sentence; (iv) thematising a marginal item makes it a new theme and demotes the old one — the reason the void is structural rather than a failure of effort; (v) one clause: Gurwitsch split James's undivided fringe into thematic field and margin proper (Zaner 2010; FC Part Five). Guards honoured: no "a new margin always forms", none of the three unverified 01-29 quotations, no dualist enlistment, no page numbers from the 1964→2010 inference, Arvidson not cited (no transformation vocabulary used). References: ref 5 extended with "(R. M. Zaner, Ed.). Collected Works vol. III, Phaenomenologica 194"; added Gurwitsch (1985) *Marginal Consciousness* (L. Embree, Ed.) and Zaner (2010) Editorial Introduction as refs 6–7; refs 6–10 renumbered 8–12 (body uses no numeric citations). Secondary: tacit-integration-void L65 +25 words stating the field/margin distinction is Gurwitsch's correction of James's undivided fringe (2,250→2,275); L91 and the 1964 Duquesne ref untouched. Pronoun check: one ambiguous "his" (could read as Embree) replaced with "Gurwitsch's"; TIV "his" binds to the sentence subject. No "This is not X. It is Y."; no "load-bearing". Synced; both hugo/content files confirmed.
+- **Published**: yes
+
 ## 2026-10-26T13:56:58+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Gurwitsch's thematic field and the margin of consciousness

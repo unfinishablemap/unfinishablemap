@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-10-07 21:50:59+00:00
+ai_modified: 2026-10-26 14:05:48+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[introspection]]'
 - '[[mysterianism]]'
 created: 2026-04-27
-date: &id001 2026-05-02
+date: &id001 2026-10-26
 description: Subsidiary cues bear on a focal meaning only by not being focal themselves;
   thematising the integration collapses what it carries. The Map names the structural
   void this opens.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 02:35:09+00:00
-lastmod: 2026-10-07 21:50:59+00:00
+lastmod: 2026-10-26 14:05:48+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -66,7 +66,7 @@ Gendlin's tradition is phenomenological, so this is convergence within a school 
 
 Four further sources converge on the same territory. The convergence is not fully cross-traditional — Husserl, Heidegger, James, Gurwitsch, and Polanyi all grant first-person phenomenology epistemic priority — but the structural shape is consistent enough to be unlikely idiosyncratic.
 
-Husserl's *horizon* is the pre-thematic structure of anticipation framing every conscious act; making a horizon thematic creates a new act with its own horizon. Heidegger's *Lichtung* (clearing) names the intelligibility-space within which entities show themselves, disclosing them by holding itself back from being one. James's *fringe* surrounds every centre of consciousness and "shades insensibly into a subconscious more" (James, 1890); attending to it converts it into a centre and produces new fringes. Gurwitsch's *thematic field* is the most direct ally of the from-to claim: every theme is given against a field of co-relevant content (Gurwitsch, 1964) that cannot become the theme without ceasing to play the field-role. His distinction between *thematic field* (organised relevance) and *margin* (mere co-presence) separates integrative role from co-presence.
+Husserl's *horizon* is the pre-thematic structure of anticipation framing every conscious act; making a horizon thematic creates a new act with its own horizon. Heidegger's *Lichtung* (clearing) names the intelligibility-space within which entities show themselves, disclosing them by holding itself back from being one. James's *fringe* surrounds every centre of consciousness and "shades insensibly into a subconscious more" (James, 1890); attending to it converts it into a centre and produces new fringes. Gurwitsch's *thematic field* is the most direct ally of the from-to claim: every theme is given against a field of co-relevant content (Gurwitsch, 1964) that cannot become the theme without ceasing to play the field-role. His distinction between *thematic field* (organised relevance) and *margin* (mere co-presence) separates integrative role from co-presence, and is his correction of James: the undivided fringe, on Gurwitsch's reading, runs together data relevant to the topic and data merely co-present with it.
 
 These authors disagree about much but converge on a single shape: an integrative function whose work is to recede, and whose direct thematisation either destroys the function or relocates it.
 
