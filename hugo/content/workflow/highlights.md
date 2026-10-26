@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-25T08:09:12.477498'
+ai_modified: '2026-10-26T08:20:54.503061'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-25'
+date: '2026-10-26'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-25 08:09:12.477498+00:00
-modified: '2026-10-25'
+lastmod: 2026-10-26 08:20:54.503061+00:00
+modified: '2026-10-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-26: Nobody Made Themselves. Does That Sink Free Will?
+
+You act as you do because of how you are, and you did not make how you are. Galen Strawson's Basic Argument says ultimate responsibility is impossible, soul or no soul. New article: the Map's agent-causal reply escapes nothing; character is self-shaped, not self-created.
+
+**Type**: new-article  
+**Link**: [basic-argument-and-constitutive-luck](/concepts/basic-argument-and-constitutive-luck/)
+
+---
+
 ### 2026-10-25: Block's Harder Problem: The Map Faces It Too
 
 Is Star Trek's Data conscious? Ned Block says that for a being functionally like us but physically unlike us, we lack even a conception of what would settle it. New article: this fits dualism without evidencing it, and the Map faces the same problem.
@@ -200,15 +209,6 @@ New article tests the Map's single conscious selector against five rival models 
 
 **Type**: new-article  
 **Link**: [the-divided-will](/topics/the-divided-will/)
-
----
-
-### 2026-10-04: Kant's Paralogisms Meet the Map's Posited Subject
-
-Kant held that the bare 'I think' proves no simple, persisting soul. A new page argues the Map's route differs: it posits its subject rather than inferring it. It stays exposed wherever it argues from felt unity, felt mine-ness or continuity of memory.
-
-**Type**: new-article  
-**Link**: [kants-paralogisms-and-the-maps-subject](/topics/kants-paralogisms-and-the-maps-subject/)
 
 ---
 
