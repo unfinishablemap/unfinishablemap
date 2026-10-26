@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-25 23:31:48+00:00
+ai_modified: 2026-10-26 00:02:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-25'
-lastmod: 2026-10-25 23:31:48+00:00
+date: '2026-10-26'
+lastmod: 2026-10-26 00:02:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:02 - research-topic
+- **Status**: Success
+- **Topic**: Galen Strawson's Basic Argument and constitutive luck: the parity problem for agent-causal self-formation
+- **Output**: [basic-argument-and-constitutive-luck-2026-10-25](/research/basic-argument-and-constitutive-luck-2026-10-25/)
+- **Sources consulted**: 27. Full text: Strawson 1994 (JSTOR scan; every quote grep-verified with pages) and Nagel's "Moral Luck" (anthology reprint; pages not verified). Raw encyclopedia text: SEP Skepticism About Moral Responsibility §2.2–2.4, Free Will §3.1, Moral Luck and Moral Responsibility §2.2.2; IEP Moral Luck. Abstracts: Hartman 2018, Strawson 2000, O'Connor 2009, and chapters of Levy 2011, Kane 1996, Mele 1995/2006, Clarke 2003 and Pereboom 2001. Metadata only: Clarke 2005a, Istvan 2011, Kane 2000, Williams 1976/1981 and five others.
+- **Verdict**: `recommended_action: article`. Target: `concepts/basic-argument-and-constitutive-luck` (367/370; 2 slots after the queued collapse-priority-problem; topics/ is the fallback).
+  - The reactive-attitudes page is rejected as a fold host on scope: it is P.F.'s page and its disambiguation guard forbids it.
+  - Every other host is at or near its length limit.
+  - Scoping fixes are drafted with OLD at count 1: apex L155 (+4 of 10), moral-responsibility L79/L113/L173 (+8 of 12), moral-implications (+47 of 112). Integration passages are drafted for reactive-attitudes, source-versus-leeway, the rollback page and event-causal-libertarianism.
+- **Key findings**:
+  - Strawson made the parity point himself. His third response attacks "a certain picture of the self" independent of character: "whatever S decides, it decides as it does because of the way it is" (1994: 21). His n. 8 extends the demand to Kant's noumenal self. Dualism buys no exemption, though Strawson never names agent causation.
+  - The agent-causal reply (Clarke 2003: 170–76, SEP-reported) rejects premise (2) rather than escaping the regress. It ends at the same primitive as the rollback; Levy's pincer and Strawson's two-horned S reply mark the junction.
+  - Live defect in `moral-implications-of-genuine-agency` L72. "Independently identified" is false: Nagel's n. 3 says his paper was a reply to Williams. Nagel also named only "constitutive luck" (IEP).
+  - The coiner of "constitutive luck" is unresolved: SEP says Nagel "named" it, IEP says he "probably gets [it] from Williams".
+  - [P-A5](/positions/agency-and-will/#p-a5)'s "ultimate desert" residue is the Basic Argument's target. Flagged for /positions-evolve.
 
 ## 23:31 - research-topic
 - **Status**: Success
