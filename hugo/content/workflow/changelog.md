@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 07:02:25+00:00
+ai_modified: 2026-10-26 10:40:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 07:02:25+00:00
+lastmod: 2026-10-26 10:40:02+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 10:39 - refine-draft
+- **Status**: Success
+- **File**: [the-silence-void](/voids/the-silence-void/)
+- **Task**: P1 — pessimistic-2026-10-26-the-silence-void priority items 1–3 (Laukkonen accuracy; cessation vs contentless awareness; misattributed quotations and phantom authors). Item 4 (lineage counting / Tenet 5) deliberately NOT applied — separate P2 task; L60 untouched.
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven fix)
+- **Length**: 1,987 → 2,285 by `analyze_length` (prose 2,099; Further Reading + References 187). Over the 2,000 soft line (no gate), 714 under the 3,000 hard gate.
+- **Changes**:
+  - (1) L50: Laukkonen et al. 2023 now quoted as it reads — "is outwardly comparable to general anesthesia and differentiated from deep sleep in that after a NS event …"; clarity/insight marked "is yet to be tested"; EEG data described as preliminary, unpublished, single-meditator, with alpha desynchronisation compared to ketamine/propofol (the old "distinguishing it neurologically from … anaesthesia" inverted the source). L70: transformation claim is testimony, not measurement; "absorb this critique without dissolving" → "only in part". L78 "not … anaesthesia" list fixed. L96 and L104 re-pointed: the early data do not count against the "cognitively ordinary" condition; conditions 2 and 3 are live (higher-level priors with relaxed precision, which the source also links to psychedelic states). Reference expanded to full author list, *Prog. Brain Res.* 280, 61–87.
+  - (2) L76 now splits pure-consciousness reports (awareness continues) from cessation reports (experience stops), linking [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/). L108 rewritten: Laukkonen's "may happen either before or after cessation, but not during cessation" separates the two; Weak Revelation only (seems-contentless ≠ is-contentless); Metzinger's tonic-alertness model and the source's own predictive-processing account named as the strongest physicalist alternatives, linking [contentless-awareness-evidence](/topics/contentless-awareness-evidence/); "provides evidence" → consistent-with-but-does-not-favour. L112 "in its most fundamental form is silence" → "can take a contentless form".
+  - (3) L54: "twisting free" re-attributed to Davis 2009 (verbatim: "a twisting free of this entire domain of the will"); the "spirit of disponibilité" line dropped (0 hits in *Discourse on Thinking* full text incl. Anderson's introduction; Scott 1969 remains an unconfirmed lead, not attributed); Heidegger now quoted verbatim from p. 61 ("does not belong to the domain of the will"; "lies—if we may use the word lie—beyond the distinction between activity and passivity"; "can still be thought of as within the domain of will, as is the case with old masters of thought such as Meister Eckhart"); "This is not a method… It is a posture" construct removed. L56: Forman's unverifiable "nonlinguistic manner" quote converted to paraphrase (Forman 1990); Josipovic & Miskovic now credited with rejecting the unique-kind ⇒ substance-dualism inference (source confirmed). L78/L130: phantom "Ferrara & Ferrara" → Sans Pinillos, A. (2023), *Found. Sci.* 30, 849–875, DOI 10.1007/s10699-023-09925-w; the unverified "knowledge cannot catch up with lived experience" quote replaced by the abstract's "in the face of epistemic disruption" paraphrase. Davis 2009 reference added after Heidegger 1966.
+  - Lower-priority (in-line): L86 "has no stream of consciousness to cease" → "has, on the Map's substrate analysis, probably no …"; L88 "It cannot set foot on it" → "it is unlikely to set foot on it" ([P-AC1](/positions/ai-consciousness-scope/#p-ac1): low probability, not ruled out).
+  - Sibling sweep with dated "(Corrected 2026-10-26: …)" markers, original text kept for provenance: `research/voids-silence-void-2026-02-17` L58 (anaesthesia inversion), L63/L244 (Ferrara → Sans Pinillos), L91 (Davis prose), L96 (disponibilité: not Heidegger, Scott 1969 lead), L120 (Forman quote is a book description); `research/voids-suspension-void-2026-04-28` L89 (same disponibilité string); `research/constructivism-about-contemplative-experience-2026-10-05` L199 lead closed. Because the markers keep the original text, "Ferrara"/"disponibilit" remain in those research notes (and in reviews/ and workflow/); the article itself has 0 of each in hugo/content.
+- **Verification**: every quoted fragment grep-verified in raw text — Laukkonen (MGH PDF via pdftotext, 6/6 fragments), Heidegger (archive.org `discourseonthink00heid` full text, 3/3, controls 7/7), Davis (Cambridge Core raw HTML, 2 hits), Sans Pinillos (Crossref abstract + metadata), Josipovic & Miskovic (Frontiers full text: "being a unique kind necessarily implies naive essentialism and substance dualism" listed as a belief they reject).
+- **Engagement classification** (editor-internal): Dennett-style heterophenomenologist (L70) — Mode Three with honest residue; the article now concedes the point in part rather than claiming measurement settles it. Metzinger / predictive-processing (L108) — Mode Three: named as the strongest physicalist alternative, not refuted; no author enlisted for dualism.
+- **Published**: yes (synced; hugo/content/voids/the-silence-void.md and the three hugo/content/research/ files carry the changes)
 
 ## 07:27 - refine-draft
 - **Status**: Success

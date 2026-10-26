@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Silence Void"
 created: 2026-02-17
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-02-17T14:57:00+00:00
+ai_modified: 2026-10-26T10:38:55+00:00
 draft: false
 target_section: voids
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[the-unobservable-self]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-02-17
 last_curated: null
 ---
@@ -55,12 +55,12 @@ Multiple philosophical and contemplative traditions claim that cognitive *silenc
   - Nirodha samāpatti is an internally induced absence of consciousness—the highest meditative attainment in Theravāda Buddhism
   - After a nirodha event there is no sensation of time having passed, no dreams, and one cannot be woken by physical stimulation
   - Emergence from cessation is reported to produce sudden clarity, openness, and insights
-  - Brain synchronisation is reduced during the state; it is neurologically distinct from sleep or anaesthesia
+  - Brain synchronisation is reduced during the state; it is neurologically distinct from sleep or anaesthesia (Corrected 2026-10-26: the source says the event "is outwardly comparable to general anesthesia" and compares the alpha desynchronisation to ketamine- and propofol-induced unconsciousness; "distinct from … anaesthesia" inverts it. The data are preliminary, from single meditators.)
   - Short spontaneous "cessation events" (milliseconds to seconds) also occur during deep meditation, creating brief gaps in the stream of consciousness
 - **Tenet alignment**: If consciousness can cease and return with enhanced clarity, this challenges both materialist and simple dualist accounts. For the Map's interactionist dualism, it raises the question: does the non-physical aspect of consciousness persist during cessation, or does it genuinely stop?
 - **Quote**: "After a NS event there is no sensation of time having passed, there are no dreams, and one cannot be 'woken up' by physical stimulation or pain."
 
-### Silence as a Cognitive Tool (Ferrara & Ferrara, 2023, Foundations of Science)
+### Silence as a Cognitive Tool (Ferrara & Ferrara, 2023, Foundations of Science) (Corrected 2026-10-26: "Ferrara & Ferrara" are phantom authors; the sole author is Alger Sans Pinillos, *Foundations of Science* 30(3), 849–875, DOI 10.1007/s10699-023-09925-w)
 - **URL**: https://link.springer.com/article/10.1007/s10699-023-09925-w
 - **Type**: Academic paper
 - **Key points**:
@@ -88,12 +88,12 @@ Multiple philosophical and contemplative traditions claim that cognitive *silenc
 - **Type**: Academic philosophy
 - **Key points**:
   - Gelassenheit names a fundamental attunement (Grundstimmung) for authentically relating to beings and to Being itself
-  - It involves "a twisting free of the entire domain of the will" and "a leap into a region of non-willing letting-be"
+  - It involves "a twisting free of the entire domain of the will" and "a leap into a region of non-willing letting-be" (Corrected 2026-10-26: both phrases are Bret Davis's prose in the summary of his chapter "Will and *Gelassenheit*" (Davis 2009, pp. 168–182), not Heidegger's; the summary reads "a twisting free of *this* entire domain of the will")
   - This is neither wilful activity nor willless passivity—a third mode
   - Language often masks understanding of Being; silence can serve as a space where meaning emerges without the constraints of words
   - Heidegger posits silence as a space for authentic Being to emerge, not merely the negation of noise
 - **Tenet alignment**: Gelassenheit resonates with the Map's dualist framework—if consciousness is fundamental, then the subject's relationship to Being may require modes that transcend representational cognition. The "third mode" between activity and passivity maps onto the causal interface void
-- **Quote**: Gelassenheit is "the spirit of disponibilité [availability] before What-Is which permits us simply to let things be in whatever may be their uncertainty and their mystery."
+- **Quote**: Gelassenheit is "the spirit of disponibilité [availability] before What-Is which permits us simply to let things be in whatever may be their uncertainty and their mystery." (Corrected 2026-10-26: not Heidegger. Zero hits in the archive.org full text of *Discourse on Thinking*, including Anderson's introduction; "What-Is" also 0. Wikipedia cites Nathan A. Scott 1969, p. xiii — an unconfirmed LEAD, not an attribution. Do not quote as Heidegger.)
 
 ### Wittgenstein's Tractatus and the Mystical
 - **URL**: https://plato.stanford.edu/entries/wittgenstein/
@@ -117,7 +117,7 @@ Multiple philosophical and contemplative traditions claim that cognitive *silenc
   - Critics (e.g., Lola Williamson) argue transcendent experiences show variations between practitioners and are not truly contentless
   - The debate hinges on whether "contentless consciousness" is coherent—can awareness exist without anything to be aware of?
 - **Tenet alignment**: Strong alignment with dualism. If consciousness can exist without intentional content, it is not constituted by its informational content—supporting the irreducibility thesis. A purely functional or computational account has difficulty explaining what "awareness without content" could be
-- **Quote**: Mysticism is "the mind knowing itself in a nonlinguistic manner involving pure awareness of mind as such."
+- **Quote**: Mysticism is "the mind knowing itself in a nonlinguistic manner involving pure awareness of mind as such." (Corrected 2026-10-26: a third-party book description of Forman's *Mysticism, Mind, Consciousness* (1999), not Forman's wording; paraphrase only, do not quote.)
 
 ### Nondual Awareness and Minimal Phenomenal Experience
 - **URL**: https://www.frontiersin.org/articles/10.3389/fpsyg.2020.02087/full
@@ -241,7 +241,7 @@ Based on this research, a voids article could:
 ## Citations
 
 - Laukkonen, R. E., et al. (2023). "Cessations of consciousness in meditation: Advancing a scientific understanding of nirodha samāpatti." *Progress in Brain Research*, Elsevier.
-- Ferrara, L. & Ferrara, L. (2023). "Silence as a Cognitive Tool to Comprehend the Environment." *Foundations of Science*, Springer.
+- Ferrara, L. & Ferrara, L. (2023). "Silence as a Cognitive Tool to Comprehend the Environment." *Foundations of Science*, Springer. (Corrected 2026-10-26: Sans Pinillos, A. (2023). *Foundations of Science*, 30(3), 849–875 (print 2025). https://doi.org/10.1007/s10699-023-09925-w)
 - Anonymous (14th century). *The Cloud of Unknowing*.
 - Pseudo-Dionysius the Areopagite. *Mystical Theology*.
 - Heidegger, M. (1966). *Discourse on Thinking* (trans. Anderson & Freund). Harper & Row.

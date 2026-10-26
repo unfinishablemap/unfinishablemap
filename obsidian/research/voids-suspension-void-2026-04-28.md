@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Suspension Void"
 created: 2026-04-28
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T12:51:00+00:00
+ai_modified: 2026-10-26T10:38:55+00:00
 draft: false
 target_section: voids
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[apophatic-cartography]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-04-28
 last_curated: null
 ---
@@ -86,7 +86,7 @@ The Suspension Void concerns the structural opacity surrounding consciousness's 
 - **URL**: https://www.cambridge.org/core/books/abs/cambridge-heidegger-lexicon/releasement-gelassenheit/D43833D7CC5D934291A79507AB7D19B8
 - **Type**: Reference
 - **Key points**:
-  - *Gelassenheit*: "the spirit of *disponibilité* before What-Is which permits us simply to let things be in whatever may be their uncertainty and their mystery"
+  - *Gelassenheit*: "the spirit of *disponibilité* before What-Is which permits us simply to let things be in whatever may be their uncertainty and their mystery" (Corrected 2026-10-26: not Heidegger's words — zero hits in the archive.org full text of *Discourse on Thinking*, including Anderson's introduction. Wikipedia cites Nathan A. Scott 1969, p. xiii, an unconfirmed lead. Do not quote as Heidegger.)
   - Combines "letting-be towards things" with "openness to the mystery"
   - Contrasts with the will: modern subjectivity is essentially willful; releasement is a "non-willing"
   - Borrowed from Meister Eckhart's mystical theology

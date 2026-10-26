@@ -3,7 +3,7 @@ title: "Research: Constructivism about Contemplative Experience"
 created: 2026-10-05
 modified: 2026-10-05
 human_modified: null
-ai_modified: 2026-10-05T11:56:00+00:00
+ai_modified: 2026-10-26T10:38:55+00:00
 draft: false
 description: "Research notes on the constructivist challenge to meditative evidence (Katz, Sharf), Forman's pure-consciousness-event reply and its costs, and what each leaves of the Map's use of contemplative reports."
 topics:
@@ -196,7 +196,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for named-a
 - Katz 1978 and both Forman volumes were not read at source. Every Katz quotation here is second-hand.
 - Sharf 1995 was read on two pages only; its historical case is unexamined, as are published criticisms of that history.
 - Gyatso 1999, Jones 2020, King 1988, Stoeber 1992, Bagger 1999, Proudfoot 1985 and Griffiths's chapter are known through SEP or reviews only.
-- `the-silence-void` L56 attributes to Forman the phrase "the mind knowing itself in a nonlinguistic manner involving pure awareness of mind as such." Not checked.
+- `the-silence-void` L56 attributes to Forman the phrase "the mind knowing itself in a nonlinguistic manner involving pure awareness of mind as such." Not checked. (Closed 2026-10-26: the pessimistic review of `the-silence-void` found the phrase is a third-party book description of Forman 1999, not Forman's wording; the article now paraphrases without quotation.)
 - `buddhist-perspectives-on-meaning` L141 calls Forman's view "perennialist". Whether Forman accepts that label was not checked; treat as a lead.
 - No search was made for expectation-controlled or naive-subject studies of contemplative report, or for Sharf's later work on mindfulness.
 
