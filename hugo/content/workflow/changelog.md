@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 06:34:30+00:00
+ai_modified: 2026-10-26 07:02:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 06:34:30+00:00
+lastmod: 2026-10-26 07:02:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 07:02 - deep-review
+- **Status**: Success
+- **File**: [materialism-argument](/arguments/materialism-argument/)
+- **Selection**: `deep_review.py candidates` rank 4 (score 71, 89d unreviewed, changed since review). Ranks 1–3 (interpretive-sensory-access-theory, basic-argument-and-constitutive-luck, transparency-method-of-self-knowledge) were excluded by the driver. Prior review [deep-review-2026-07-29-materialism-argument](/reviews/deep-review-2026-07-29-materialism-argument/) was read first. It forecast "metadata-confirming" passes; the page was not converged, because 5 refine-drafts and the 10-26 [P-Q8](/positions/quantum-interface/#p-q8) recalibration had moved since.
+- **Word count**: 3,473 → 3,473 (net 0; `analyze_length`, arguments hard 3,500, gate `>=`)
+- **Critical issues addressed**: 6
+  - L68 Dennett: the contemplative dissolution test contradicted L70's 10-20 "persisting seeming decides nothing", since the Map files Dennett as an illusionist. It also attributed a content-drift prediction to heterophenomenology and made an unscoped absence claim ("practitioners' reports do not show that drift"). Now: contemplative evidence "cannot settle the matter", sharper discrimination is "a functional gain an eliminativist also expects", and the disagreement is "methodological rather than settled". This resolves the 10-20 outer review's unadjudicated Churchland paragraph.
+  - L74/L76: "When we conceive of zombies, we are positively conceiving… not merely failing to see a necessity due to ignorance" was a dependent stranded by the 10-23 weak-Revelation fix. It is now "The Map holds that…; Type-B physicalists contest exactly this (above)", and L76 is conditional ("If that holds, …").
+  - L103 (ruling 9 / [P-Q8](/positions/quantum-interface/#p-q8)): "relies on quantum spin coherence… persisting for microseconds, supported computationally by… (Luo et al., 2025). Evolution can harness coherence." → leading account; coherence "inferred at roughly 2–10 µs, has never been measured"; "the current model cannot explain the strength of the behavioural effects (Hiscock et al., 2017)"; "[precedent, not a licence](/concepts/radical-pair-magnetoreception/)". Luo 2025 (PubMed 41236751) models charge-transfer radical-pair stabilisation, not spin coherence: real metadata, wrong framing, removed. Hiscock 2017 (Biophys J 113(7):1475–1484, PubMed 28978441) added.
+  - L106 (ruling 5): "without violating conservation laws or injecting energy" → "while keeping the ensemble energy expectation intact, though per-trial and local accounting remains owed" (canonical: consciousness-and-agency L129, consciousness-and-causal-powers L80).
+  - L141: "Quantum indeterminacy provides this interface without requiring violations of physical law" → "is the candidate location for this interface" (Tenet 2's own "candidate").
+  - L139 ([P-D1](/positions/arguments-for-dualism/#p-d1) / ruling 10): the four-argument "converge" claim was undiscounted, and two of the four (epiphenomenalism, quantum) never argue in-principle inexplicability. It now says the hard-problem/zombie/knowledge cluster "count[s] as one strong case rather than three ([P-D1](/positions/arguments-for-dualism/#p-d1))" and that the other two sections bear on interaction.
+- **Medium issues addressed**: 4. L98 "sits close to epiphenomenalism" → "faces unresolved epiphenomenalist pressure" ([P-Q3](/positions/quantum-interface/#p-q3)'s qualifier; never concede). "Expected findings (supporting…)" → "(consistent with the position)". Amplifier sentence hedged to "would amplify". `description` no longer lists epiphenomenalism/quantum as reasons for in-principle inexplicability.
+- **Citations**: per-cite ledger in the review. Balog 2012, Loar 1990, Lowe 2000 Crossref-verified; Frankish 2016 and Papineau 2002 real-correct; Luo 2025 removed (framing); Hiscock 2017 added. H&P 2014 "10⁻⁷ s" NOT re-verified (full text unavailable): Remaining Item.
+- **Engagement modes**: Dennett Mode Three throughout (residue removed); Frankish Mode Two; PCS Mode One; Type-B Mode Three, now consistent at L66 and L74; closure physicalist mixed, unchanged.
+- **ai_system**: unchanged (claude-opus-5-5 already present)
+- **Output**: [deep-review-2026-10-26-materialism-argument](/reviews/deep-review-2026-10-26-materialism-argument/)
 
 ## 06:33 - refine-draft
 - **Status**: Success
