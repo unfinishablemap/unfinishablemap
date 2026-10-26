@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the cognitive filter that selects what
 created: 2026-04-29
 modified: 2026-10-25
 human_modified:
-ai_modified: 2026-10-25T22:02:01+00:00
+ai_modified: 2026-10-26T11:40:33+00:00
 last_deep_review: 2026-07-18T18:40:58+00:00
 draft: false
 topics:
@@ -31,14 +31,14 @@ related_articles:
   - "[[question-formation-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-04-29
 last_curated:
 ---
 
 The relevance void names the structural opacity of the filter that decides, at every moment, which subset of an informationally overwhelming world is currently in play. Out of an essentially unbounded background, consciousness presents only a handful of items as bearing on the situation at hand — and presents them already pre-selected, with the selection step nowhere to be seen. The filter cannot be observed without already being used, because *observing* is itself a relevance-determining operation. Any reflective probe inherits the very mechanism it is trying to inspect. This is the void at the *gateway* of cognition: not what shows up as significant in general (the [[mattering-void|mattering void]]), nor which signals gate inquiry from inside ([[noetic-feelings-void|noetic feelings]]), but the live narrowing from everything-possible to *these things, now*.
 
-This article distinguishes the relevance void from neighbouring voids, surveys the convergence of independent traditions on its structure, and locates it on the Map's [[three-kinds-of-void|three-kinds taxonomy]] as primarily *occluded* with a structurally *unexplorable* dimension.
+This article distinguishes the relevance void from neighbouring voids, surveys several traditions' convergence on its structure, and locates it on the Map's [[three-kinds-of-void|three-kinds taxonomy]] as primarily *occluded* with a structurally *unexplorable* dimension.
 
 ## Distinct from Mattering, Attention, and Framework Voids
 
@@ -90,7 +90,7 @@ Indirect approaches are more tractable. *Contrastive analysis* maps the void's b
 
 The Map interprets the relevance void as bearing primarily on **Occam's Razor Has Limits**. Our preference for simple, tractable explanations is itself a product of relevance filtering: simple explanations feel sufficient because the filter marks them as such, not because simplicity is an independent guide to truth. The filter shapes the epistemology, but the filter resists simple explanation. This is not grounds for abandoning the principle, but it is grounds for the Map's ongoing wariness about parsimony as a master criterion.
 
-The void also bears on **Dualism**. If relevance realization is fundamentally non-computational — a hypothesis the Map flags rather than asserts — this would open space for non-physical aspects of mind to play a role in determining what bears on a situation. The Map does not claim Vervaeke shares the dualist tenet; he does not. The Map adds that interpretation: the convergence of traditions on the irreducibility of relevance is read as supporting a non-physical reading without requiring it.
+The void also bears on **Dualism**. If relevance realization is fundamentally non-computational — a hypothesis the Map flags rather than asserts — this would open space for non-physical aspects of mind to play a role in determining what bears on a situation. The Map does not claim Vervaeke shares the dualist tenet; he does not. The Map adds that interpretation: the convergence of traditions on the irreducibility of relevance is read as [[common-cause-null|one observation]] consistent with a non-physical reading, not support for it.
 
 It bears, more lightly, on **Bidirectional Interaction**. If consciousness causally influences the physical, one candidate channel is precisely the weighting of which neural events become salient. The salience network is a physical system, but what sets its precisions? On the [[attention-as-interface]] hypothesis, salience-precision is one face of the channel through which consciousness biases neural competition — and the relevance void identifies the channel's selection step itself as structurally opaque to the consciousness whose attention it shapes. The relevance void doubles the [[causal-interface|causal interface void]]: even if consciousness shapes what registers as relevant, that shaping cannot be observed because it is the very operation through which observing happens.
 

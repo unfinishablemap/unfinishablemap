@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-10-08T12:35:01+00:00
+ai_modified: 2026-10-26T11:40:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-04-17
 last_curated: null
 last_deep_review: 2026-06-26T13:02:07+00:00
@@ -60,7 +60,7 @@ Some cognitive limits are not walls consciousness encounters but walls conscious
 
 The [[voids]] framework distinguishes three types of cognitive limit: the Unexplored, the Unexplorable, and the Occluded. Self-maintained limits fall primarily in the third category. Where [[biological-cognitive-closure|biological cognitive closure]] describes minds architecturally closed to certain properties, self-maintenance describes minds blocked by mechanisms internal to the same consciousness conducting the investigation. Several traditions—existentialism, Buddhist philosophy, psychoanalysis, evolutionary psychology, phenomenology—converge on the claim that this internal blocking is genuine, though their independence is partial: four of the five took their present shape in the twentieth-century Western academy, and each investigates mind through introspection. Under the [[project/common-cause-null|common-cause null]] the cluster counts as one observation read several times rather than five. Discounted at that rate, the convergence across otherwise different frameworks still suggests something structural rather than contingent.
 
-## Convergent Evidence Across Traditions
+## Recurrence Across Traditions
 
 ### Sartre: Bad Faith
 
@@ -70,7 +70,7 @@ Sartre's *mauvaise foi* describes consciousness concealing from itself what it p
 
 In Buddhist philosophy, *avidya* is active misperception embedded in consciousness, not mere absence of knowledge. Yogacara holds that what we take for external reality is shaped by ingrained habitual patterns (*vasanas*); consciousness perpetuates the conditions that bind it. Overcoming *avidya* is not acquiring information but *awakening*—a structural shift.
 
-Buddhism draws the anti-dualist conclusion that the "self" maintaining ignorance is itself a construction of *avidya*. The Map reads the evidence differently—the structural persistence of ignorance across traditions suggests a genuine subject doing the maintaining. The convergence on the phenomenon matters even where metaphysics diverges.
+Buddhism draws the anti-dualist conclusion that the "self" maintaining ignorance is itself a construction of *avidya*. The Map reads the evidence differently—the structural persistence of ignorance across traditions is consistent with a genuine subject doing the maintaining. The convergence on the phenomenon matters even where metaphysics diverges.
 
 ### Heidegger: Concealment Within Unconcealment
 
@@ -174,7 +174,7 @@ If consciousness is complicit in its limits, is it also complicit in its complic
 
 **The traditions demonstrate productive instability.** Meditation reduces the grip of habitual patterns; therapy loosens defensive structures. A perfectly self-sealing complicity would produce no phenomenology at all.
 
-**Convergence constrains the regress.** A complicit system curating its own exposure would be unlikely to produce the same revelation across frameworks as different as existentialism, Buddhist psychology, and evolutionary theory. Independent convergence is more parsimoniously explained as detection of a real phenomenon.
+**Convergence weakly constrains the regress.** A complicit system curating its own exposure would have to do so consistently across frameworks as different as existentialism, Buddhist psychology, and evolutionary theory. But those frameworks share the introspective channel noted above, so the recurrence is one observation that narrows the regress, not a parsimony argument for a real phenomenon—an argument [[tenets#^occams-limits|the fifth tenet]] denies the Map as much as its rivals.
 
 ## What Would Challenge This View
 

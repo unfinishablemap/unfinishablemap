@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-22 19:49:49+00:00
-ai_system: claude-opus-4-7+claude-fable-5
+ai_modified: 2026-10-26 11:40:33+00:00
+ai_system: claude-opus-4-7+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/adaptive-cognitive-limits/
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-20 23:27:00+00:00
-lastmod: 2026-10-22 19:49:49+00:00
+lastmod: 2026-10-26 11:40:33+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -75,7 +75,7 @@ The FBT theorem addresses perception, but the adaptive-limit pattern extends acr
 
 **Heuristic simplification.** Gerd Gigerenzer's ecological-rationality programme identifies *less-is-more effects* in which "systematically ignoring part of the available information leads to more accurate inferences" (Todd & Gigerenzer 2012). The cognitive system actively discards data — and performs better for it.
 
-**Strategic self-opacity.** Von Hippel and Trivers argue that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (von Hippel & Trivers 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Multiple independent traditions converge on this claim that consciousness participates in its own limitation, as [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) documents.
+**Strategic self-opacity.** Von Hippel and Trivers argue that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (von Hippel & Trivers 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Several traditions [converge](/project/common-cause-null/) on this claim that consciousness participates in its own limitation, as [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) documents.
 
 **Negative information value.** Field and Bonsall (2018) prove formally that the reproductive value of information can become negative — under realistic cost conditions, an organism that remains ignorant will have higher fitness. Acquiring information sometimes reduces survival prospects.
 
