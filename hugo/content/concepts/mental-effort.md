@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-25 12:58:12+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-26 21:21:43+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[stapp-quantum-mind]]'
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 14:52:44+00:00
-lastmod: 2026-10-25 12:58:12+00:00
+lastmod: 2026-10-26 21:21:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ Consciousness cannot influence neural patterns directly — it must work through
 
 ### Willed vs Instructed Attention
 
-[Recent neuroscience](/concepts/attention-as-interface/) distinguishes *instructed* from *willed* top-down attention. Following an instruction ("attend left") implements an externally provided goal; *freely choosing* where to attend engages different neural processes — frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, additional frontal recruitment. Instructed attention feels less effortful because you merely implement; willed attention feels more effortful because you must *generate* the decision.
+[Recent neuroscience](/concepts/attention-as-interface/) distinguishes *instructed* from *willed* top-down attention. Following an instruction ("attend left") implements an externally provided goal; *freely choosing* where to attend engages different neural processes — greater frontal theta oscillations (~500ms post-decision), frontoparietal coherence with Granger causality raised in both directions, and additional frontal recruitment. Instructed attention feels less effortful because you merely implement; willed attention feels more effortful because you must *generate* the decision.
 
 ### Choosing vs Observing
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-08 13:53:12+00:00
+ai_modified: 2026-10-26 21:21:43+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 03:28:47+00:00
-lastmod: 2026-10-08 13:53:12+00:00
+lastmod: 2026-10-26 21:21:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ Henry Stapp proposes that consciousness operates through orthodox quantum mechan
 
 **Tenet alignment: Strong on four.** Fits [Dualism](/tenets/#dualism), [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), [No Many Worlds](/tenets/#no-many-worlds) and [Occam's Razor Has Limits](/tenets/#occams-limits). [Bidirectional Interaction](/tenets/#bidirectional-interaction) is qualified: Stapp places the mind's influence in Process 1 (which question is put) and leaves the outcome to nature, a context-selection route the tenets page registers without adopting, because alone it would weaken outcome-selection to context-setting ([specification problem](/concepts/process-1-specification-problem/)).
 
-**Empirical status: Indirect but consistent.** No direct demonstration in neural tissue, but convergent evidence: biological Zeno precedent, neural signatures distinguishing willed from instructed attention (frontal theta, bidirectional frontoparietal coherence), and neuroplasticity from directed effort. Each line is also consistent with classical explanations — suggestive, not confirmatory.
+**Empirical status: Indirect but consistent.** No direct demonstration in neural tissue, but convergent evidence: biological Zeno precedent, neural signatures distinguishing willed from instructed attention (frontal theta, bidirectional frontoparietal Granger causality), and neuroplasticity from directed effort. Each line is consistent with classical explanations — suggestive, not confirmatory.
 
 **Falsifiability: Moderate.** The phenomena the model accommodates (willed/instructed signatures, effort-difficulty correlation, neuroplasticity) are equally consistent with classical neuroscience. The model lacks predictions distinguishing Zeno-mediated from classical attention. A discriminating test would require detecting the quantum signature of repeated rapid observations — beyond current technology.
 

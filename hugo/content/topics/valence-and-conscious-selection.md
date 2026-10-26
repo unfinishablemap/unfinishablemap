@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-22 11:45:59+00:00
+ai_modified: 2026-10-26 21:21:43+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-08 06:11:21+00:00
-lastmod: 2026-10-22 11:45:59+00:00
+lastmod: 2026-10-26 21:21:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -160,7 +160,7 @@ Conscious processing operates at approximately 10 bits per second (Zheng & Meist
 ### For Value-Blind Selection
 
 - **Attentional deployment should be independent of valence under controlled conditions.** With attention directed equally to positively and negatively valenced targets, selection efficacy should be identical—no "valence bonus."
-- **Neural signatures of conscious selection (frontal theta, bidirectional coherence) should correlate with attentional effort, not with the valence of the selected outcome.**
+- **Neural signatures of conscious selection (frontal theta, frontoparietal Granger causality) should correlate with attentional effort, not with the selected outcome's valence.**
 
 ### For Value-Sensitive Selection
 

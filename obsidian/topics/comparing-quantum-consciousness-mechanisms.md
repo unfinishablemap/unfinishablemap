@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-10-08T13:53:12+00:00
+ai_modified: 2026-10-26T21:21:43+00:00
 last_deep_review: 2026-07-19T03:28:47+00:00
 draft: false
 topics:
@@ -85,7 +85,7 @@ Henry Stapp proposes that consciousness operates through orthodox quantum mechan
 
 **Tenet alignment: Strong on four.** Fits [[tenets#^dualism|Dualism]], [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], [[tenets#^no-many-worlds|No Many Worlds]] and [[tenets#^occams-limits|Occam's Razor Has Limits]]. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] is qualified: Stapp places the mind's influence in Process 1 (which question is put) and leaves the outcome to nature, a context-selection route the tenets page registers without adopting, because alone it would weaken outcome-selection to context-setting ([[process-1-specification-problem|specification problem]]).
 
-**Empirical status: Indirect but consistent.** No direct demonstration in neural tissue, but convergent evidence: biological Zeno precedent, neural signatures distinguishing willed from instructed attention (frontal theta, bidirectional frontoparietal coherence), and neuroplasticity from directed effort. Each line is also consistent with classical explanations — suggestive, not confirmatory.
+**Empirical status: Indirect but consistent.** No direct demonstration in neural tissue, but convergent evidence: biological Zeno precedent, neural signatures distinguishing willed from instructed attention (frontal theta, bidirectional frontoparietal Granger causality), and neuroplasticity from directed effort. Each line is consistent with classical explanations — suggestive, not confirmatory.
 
 **Falsifiability: Moderate.** The phenomena the model accommodates (willed/instructed signatures, effort-difficulty correlation, neuroplasticity) are equally consistent with classical neuroscience. The model lacks predictions distinguishing Zeno-mediated from classical attention. A discriminating test would require detecting the quantum signature of repeated rapid observations — beyond current technology.
 

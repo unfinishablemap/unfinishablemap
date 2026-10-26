@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 21:07:41+00:00
+ai_modified: 2026-10-26 21:21:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 21:07:41+00:00
+lastmod: 2026-10-26 21:21:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-26T21:21:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/) (plus nine secondaries: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [valence-and-conscious-selection](/topics/valence-and-conscious-selection/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/), [motor-selection](/concepts/motor-selection/), [mental-effort](/concepts/mental-effort/), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/), [testing-the-map-from-inside](/apex/testing-the-map-from-inside/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/))
+- **Original score**: n/a (targeted string-sibling sweep; `scripts/curate.py` absent)
+- **Changes**: Rajan et al. (2019) misphrasing from [outer-review-2026-10-12-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-12-chatgpt-5-6-sol-pro/) (abstract: "increased frontal-parietal theta-band coherence and bidirectional Granger causality"; coherence has no direction, and willed attention shows MORE of both). Ten carriers fixed by quoted string, wording reused from structure-of-attention L88/L250 and attention-as-interface L147. (1) the-interface-problem L91 "distinctive signatures (frontal theta, bidirectional frontoparietal coherence)" -> "stronger signatures than instructed attention (frontal theta, frontoparietal coherence with Granger causality raised in both directions)" (3,583 -> 3,592). (2) comparing-quantum-consciousness-mechanisms L88 "(frontal theta, bidirectional frontoparietal coherence)" -> "(frontal theta, bidirectional frontoparietal Granger causality)", funded by dropping "also" in the next sentence (3,994 -> 3,994, net 0; headroom 5). (3) valence-and-conscious-selection L160 "(frontal theta, bidirectional coherence)" -> "(frontal theta, frontoparietal Granger causality)", funded by "the valence of the selected outcome" -> "the selected outcome's valence" (4,338 -> 4,337; still hard_warning, net -1). (4) empirical-evidence-for-consciousness-selecting L80 -> "frontal theta power, fronto-parietal coherence and Granger causality in both directions all greater during willed than during instructed" (3,854 -> 3,859). (5) motor-selection L153 -> "greater frontal theta, frontoparietal coherence and two-way Granger causality than instructed attention", funded by "rather than an" -> "not an" (3,499 -> 3,499, net 0; gate 3,500). (6) mental-effort L68 -> "greater frontal theta oscillations (~500ms post-decision), frontoparietal coherence with Granger causality raised in both directions, and additional frontal recruitment" (3,352 -> 3,360; L94 untouched). (7) apex/phenomenology-of-consciousness-doing-work L93 "stronger bidirectional frontoparietal coherence" -> "stronger frontoparietal coherence with Granger causality raised in both directions" (4,698 -> 4,704). (8) apex/testing-the-map-from-inside L120 "recruits frontal theta oscillations and bidirectional frontoparietal coherence that instructed attention lacks" -> "shows stronger frontal theta oscillations and greater frontoparietal coherence, with Granger causality raised in both directions, than instructed attention—a difference of degree rather than presence" (4,387 -> 4,400; L90/L170/L195 untouched). (9) quantum-neural-timing-constraints L94 bullet -> "Greater frontoparietal theta-band coherence, with Granger causality raised in both directions, accompanies willed deployment" (3,007 -> 3,014). (10) motor-control-quantum-zeno L71 bold label "Bidirectional coherence" -> "Frontoparietal coherence and Granger causality"; sentence unchanged (3,486 -> 3,489). Every willed-vs-instructed claim stays at more/greater; Rajan not enlisted for dualism. Not touched: concepts/agent-causation (own P2), archive/ (18 historical carriers). Pronoun check clean on all ten. ai_system: claude-fable-5-1 appended to empirical-evidence, motor-selection, mental-effort (absent as a component); present elsewhere. Mode note: no named-opponent reply edited.
+- **Published**: yes
 
 ## 2026-10-26T21:07:41+00:00 - refine-draft
 - **Status**: Success

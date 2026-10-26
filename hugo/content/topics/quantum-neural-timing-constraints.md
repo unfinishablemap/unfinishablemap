@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-10-14 12:09:02+00:00
+ai_modified: 2026-10-26 21:21:43+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:02:31+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-10-26 21:21:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ Rajan et al. (2019) examined the timing of willed versus instructed attention sh
 
 - Frontal theta power increases at ~500ms post-cue during willed attention
 - Willed attention is neurally distinct from instructed attention
-- Bidirectional frontoparietal theta-band coherence accompanies willed deployment
+- Greater frontoparietal theta-band coherence, with Granger causality raised in both directions, accompanies willed deployment
 
 The ~500ms timing for willed attention's frontal theta signature is later than the ~280ms motor commitment point, placing it closer to the readiness potential (~550ms). This suggests willed attention and motor commitment operate at different stages of the decision process rather than reflecting a single mechanism—though the [premotor theory of attention](/concepts/attention-as-interface/) proposes they share neural resources despite differing timescales.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-09-30 21:39:17+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-26 21:21:43+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/motor-selection/
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 20:49:10+00:00
-lastmod: 2026-09-30 21:39:17+00:00
+lastmod: 2026-10-26 21:21:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,7 +153,7 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-[Willed attention](/topics/structure-of-attention/) shows greater frontal theta power and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019)—a relative increase rather than an all-or-none marker. Whether willed movement shows this contrast is untested; the study examined visuospatial attention only.
+[Willed attention](/topics/structure-of-attention/) shows greater frontal theta, frontoparietal coherence and two-way Granger causality than instructed attention (Rajan et al. 2019)—a relative increase, not an all-or-none marker. Whether willed movement shows this contrast is untested; the study examined visuospatial attention only.
 
 Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); its comparison with motor commitment is discussed above.
 

@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-10-26T21:21:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ Rajan et al. (2019) examined the timing of willed versus instructed attention sh
 
 - Frontal theta power increases at ~500ms post-cue during willed attention
 - Willed attention is neurally distinct from instructed attention
-- Bidirectional frontoparietal theta-band coherence accompanies willed deployment
+- Greater frontoparietal theta-band coherence, with Granger causality raised in both directions, accompanies willed deployment
 
 The ~500ms timing for willed attention's frontal theta signature is later than the ~280ms motor commitment point, placing it closer to the readiness potential (~550ms). This suggests willed attention and motor commitment operate at different stages of the decision process rather than reflecting a single mechanism—though the [[attention-as-interface|premotor theory of attention]] proposes they share neural resources despite differing timescales.
 

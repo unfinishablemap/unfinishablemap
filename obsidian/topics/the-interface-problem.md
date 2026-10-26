@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-10-16
 human_modified: null
-ai_modified: 2026-10-16T02:35:49+00:00
+ai_modified: 2026-10-26T21:21:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ A more recent proposal suggests cortical microcolumns — ensembles of ~100 neur
 
 ### Attention Networks (Functional Level)
 
-Some formulations locate the interface at the functional level of attention networks themselves — the frontoparietal systems implementing directed focus. The 2025 COGITATE adversarial testing found conscious content decoded more durably from posterior cortex than from prefrontal regions; if attention is frontoparietal and content posterior, the interface may sit where these systems meet. Willed attention shows distinctive signatures (frontal theta, bidirectional frontoparietal coherence). The proposal is incomplete without a molecular mechanism — it pushes the question down to which processes *within* attention networks are quantum-sensitive — but provides the architectural specificity the molecular accounts lack.
+Some formulations locate the interface at the functional level of attention networks themselves — the frontoparietal systems implementing directed focus. The 2025 COGITATE adversarial testing found conscious content decoded more durably from posterior cortex than from prefrontal regions; if attention is frontoparietal and content posterior, the interface may sit where these systems meet. Willed attention shows stronger signatures than instructed attention (frontal theta, frontoparietal coherence with Granger causality raised in both directions). The proposal is incomplete without a molecular mechanism — it pushes the question down to which processes *within* attention networks are quantum-sensitive — but provides the architectural specificity the molecular accounts lack.
 
 ## Constraints Any Answer Must Satisfy
 

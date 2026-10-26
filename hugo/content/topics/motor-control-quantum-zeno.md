@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-10-12 23:13:02+00:00
+ai_modified: 2026-10-26 21:21:43+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
 author: null
 concepts:
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 23:02:58+00:00
-lastmod: 2026-10-12 23:13:02+00:00
+lastmod: 2026-10-26 21:21:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ The parallel runs deeper than shared anatomy, though not every point has been me
 - **Timing**: Close in magnitude but differently anchored—~300ms post-cue deployment for voluntary attention in humans, versus ~100–175ms for reflexive capture (Müller & Rabbitt 1989); ~280ms before movement onset for motor commitment in monkeys (Thura & Cisek 2014)
 - **Neural signatures**: Frontal theta power is greater for self-chosen than for instructed visuospatial attention—a relative increase from ~500ms post-cue, not an all-or-none signature (Rajan et al. 2019); the contrast has not been tested for movement
 - **Phenomenology**: Both feel effortful when genuinely chosen, easier when merely instructed
-- **Bidirectional coherence**: Willed attention shows greater reciprocal frontoparietal theta coherence than instructed—again a relative increase, which the authors read as frontal decision-making interacting with parietal attentional control (Rajan et al. 2019)
+- **Frontoparietal coherence and Granger causality**: Willed attention shows greater reciprocal frontoparietal theta coherence than instructed—again a relative increase, which the authors read as frontal decision-making interacting with parietal attentional control (Rajan et al. 2019)
 
 If these parallels reflect a single underlying mechanism, then understanding how consciousness directs attention would simultaneously clarify how it directs motor control. Consciousness does not need separate interfaces for perceiving and acting—it operates through one unified selection system.
 

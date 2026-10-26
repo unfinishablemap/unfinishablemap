@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates; dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-09-30T21:39:17+00:00
+ai_modified: 2026-10-26T21:21:43+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5
+ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-26T20:49:10+00:00
@@ -150,7 +150,7 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-[[structure-of-attention|Willed attention]] shows greater frontal theta power and bidirectional frontoparietal coherence than instructed attention (Rajan et al. 2019)—a relative increase rather than an all-or-none marker. Whether willed movement shows this contrast is untested; the study examined visuospatial attention only.
+[[structure-of-attention|Willed attention]] shows greater frontal theta, frontoparietal coherence and two-way Granger causality than instructed attention (Rajan et al. 2019)—a relative increase, not an all-or-none marker. Whether willed movement shows this contrast is untested; the study examined visuospatial attention only.
 
 Voluntary attention deploys in ~300ms against ~100–175ms for reflexive capture (Müller & Rabbitt 1989); its comparison with motor commitment is discussed above.
 

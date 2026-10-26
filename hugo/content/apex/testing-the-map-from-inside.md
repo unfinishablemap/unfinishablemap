@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-08 10:26:57+00:00
+ai_modified: 2026-10-26 21:21:43+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-fable-5-1
 apex_last_synthesis: 2026-05-26 00:00:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 15:04:27+00:00
-lastmod: 2026-10-08 10:26:57+00:00
+lastmod: 2026-10-26 21:21:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ William James described this a century ago: "sustained voluntary attention is a 
 
 ### The Willed-Instructed Distinction
 
-Neuroscience sharpens this test. [Recent research](/concepts/attention-as-interface/) distinguishes *willed* attention (you freely choose where to focus) from *instructed* attention (you follow directions to attend somewhere). The neural signatures differ: willed attention recruits frontal theta oscillations and bidirectional frontoparietal coherence that instructed attention lacks. The phenomenological parallel is vivid—following instructions feels less effortful than generating your own attentional direction. Try it: focus on a spot because someone told you to, then focus on a freely chosen spot. The second involves more work because *you* must generate the decision.
+Neuroscience sharpens this test. [Recent research](/concepts/attention-as-interface/) distinguishes *willed* attention (you freely choose where to focus) from *instructed* attention (you follow directions to attend somewhere). The neural signatures differ: willed attention shows stronger frontal theta oscillations and greater frontoparietal coherence, with Granger causality raised in both directions, than instructed attention—a difference of degree rather than presence. The phenomenological parallel is vivid—following instructions feels less effortful than generating your own attentional direction. Try it: focus on a spot because someone told you to, then focus on a freely chosen spot. The second involves more work because *you* must generate the decision.
 
 ### Effortless Attention as Contrast
 

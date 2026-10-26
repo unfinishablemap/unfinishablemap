@@ -4,7 +4,7 @@ description: "Your own experience is a laboratory for consciousness. Careful att
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-10-08T10:26:57+00:00
+ai_modified: 2026-10-26T21:21:43+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -117,7 +117,7 @@ William James described this a century ago: "sustained voluntary attention is a 
 
 ### The Willed-Instructed Distinction
 
-Neuroscience sharpens this test. [[attention-as-interface|Recent research]] distinguishes *willed* attention (you freely choose where to focus) from *instructed* attention (you follow directions to attend somewhere). The neural signatures differ: willed attention recruits frontal theta oscillations and bidirectional frontoparietal coherence that instructed attention lacks. The phenomenological parallel is vivid—following instructions feels less effortful than generating your own attentional direction. Try it: focus on a spot because someone told you to, then focus on a freely chosen spot. The second involves more work because *you* must generate the decision.
+Neuroscience sharpens this test. [[attention-as-interface|Recent research]] distinguishes *willed* attention (you freely choose where to focus) from *instructed* attention (you follow directions to attend somewhere). The neural signatures differ: willed attention shows stronger frontal theta oscillations and greater frontoparietal coherence, with Granger causality raised in both directions, than instructed attention—a difference of degree rather than presence. The phenomenological parallel is vivid—following instructions feels less effortful than generating your own attentional direction. Try it: focus on a spot because someone told you to, then focus on a freely chosen spot. The second involves more work because *you* must generate the decision.
 
 ### Effortless Attention as Contrast
 

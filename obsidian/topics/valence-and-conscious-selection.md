@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-10-22T11:45:59+00:00
+ai_modified: 2026-10-26T21:21:43+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -157,7 +157,7 @@ Conscious processing operates at approximately 10 bits per second (Zheng & Meist
 ### For Value-Blind Selection
 
 - **Attentional deployment should be independent of valence under controlled conditions.** With attention directed equally to positively and negatively valenced targets, selection efficacy should be identical—no "valence bonus."
-- **Neural signatures of conscious selection (frontal theta, bidirectional coherence) should correlate with attentional effort, not with the valence of the selected outcome.**
+- **Neural signatures of conscious selection (frontal theta, frontoparietal Granger causality) should correlate with attentional effort, not with the selected outcome's valence.**
 
 ### For Value-Sensitive Selection
 

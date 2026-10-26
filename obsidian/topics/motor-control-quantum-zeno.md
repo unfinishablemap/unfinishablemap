@@ -4,7 +4,7 @@ description: "How consciousness moves the body: converging neuroscience levels t
 created: 2026-02-22
 modified: 2026-10-12
 human_modified:
-ai_modified: 2026-10-12T23:13:02+00:00
+ai_modified: 2026-10-26T21:21:43+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -68,7 +68,7 @@ The parallel runs deeper than shared anatomy, though not every point has been me
 - **Timing**: Close in magnitude but differently anchored—~300ms post-cue deployment for voluntary attention in humans, versus ~100–175ms for reflexive capture (Müller & Rabbitt 1989); ~280ms before movement onset for motor commitment in monkeys (Thura & Cisek 2014)
 - **Neural signatures**: Frontal theta power is greater for self-chosen than for instructed visuospatial attention—a relative increase from ~500ms post-cue, not an all-or-none signature (Rajan et al. 2019); the contrast has not been tested for movement
 - **Phenomenology**: Both feel effortful when genuinely chosen, easier when merely instructed
-- **Bidirectional coherence**: Willed attention shows greater reciprocal frontoparietal theta coherence than instructed—again a relative increase, which the authors read as frontal decision-making interacting with parietal attentional control (Rajan et al. 2019)
+- **Frontoparietal coherence and Granger causality**: Willed attention shows greater reciprocal frontoparietal theta coherence than instructed—again a relative increase, which the authors read as frontal decision-making interacting with parietal attentional control (Rajan et al. 2019)
 
 If these parallels reflect a single underlying mechanism, then understanding how consciousness directs attention would simultaneously clarify how it directs motor control. Consciousness does not need separate interfaces for perceiving and acting—it operates through one unified selection system.
 

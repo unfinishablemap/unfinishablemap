@@ -4,7 +4,7 @@ description: "What does it feel like if consciousness acts on matter? Effort, se
 created: 2026-02-23
 modified: 2026-09-25
 human_modified:
-ai_modified: 2026-10-10T13:21:49+00:00
+ai_modified: 2026-10-26T21:21:43+00:00
 last_deep_review: 2026-07-18T19:54:44+00:00
 draft: false
 topics:
@@ -90,7 +90,7 @@ The contrast with passive observation is phenomenologically vivid. When observin
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This phenomenological contrast has neural correlates. [[attention-as-interface|Willed attention]] — where you freely choose where to focus — shows greater frontal theta, stronger bidirectional frontoparietal coherence, and more frontal recruitment than instructed attention to the same location (Rajan et al., 2019) — a relative difference rather than an all-or-none marker. The phenomenology of selecting maps onto measurable neural differences, as one would expect if it tracks genuine causal engagement rather than decorating a process that would proceed identically without it — though an identity theorist expects the same mapping.
+This phenomenological contrast has neural correlates. [[attention-as-interface|Willed attention]] — where you freely choose where to focus — shows greater frontal theta, stronger frontoparietal coherence with Granger causality raised in both directions, and more frontal recruitment than instructed attention to the same location (Rajan et al., 2019) — a relative difference rather than an all-or-none marker. The phenomenology of selecting maps onto measurable neural differences, as one would expect if it tracks genuine causal engagement rather than decorating a process that would proceed identically without it — though an identity theorist expects the same mapping.
 
 ### Holding: The Work of Sustaining
 
