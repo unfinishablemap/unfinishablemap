@@ -5,6 +5,19 @@ ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 12:27 - deep-review
+- **Status**: Success
+- **File**: [[concepts/interpretive-sensory-access-theory]]
+- **Word count**: 2678 → 2687 (+9; prose 2,227 / apparatus 473 before; concepts soft 2500 — length-neutral mode, three additions offset by two trims)
+- **Critical issues addressed**: 0 (one unverifiable first-naming claim softened: "named in *The Opacity of Mind* (2011)" → "set out in"; Rey 2013 cites 2006/2008 precursors and the 2010 PPR full text is unreachable at the publisher)
+- **Medium issues addressed**: 3 (L95 "higher-order theories" gloss restored to Carruthers's own attribution "the view he credits to Graziano and Rosenthal" per the raw SciAm text; L111 "phenomenal states … the only first-person ground the Map's dualism uses" → "sensory phenomenal states … the first-person ground on which Tenet 1's rationale rests (P-TU1 keeps that rationale independent of cognitive phenomenology)", removing a latent tension with L105; two frontmatter-only entries given zero-word body pipes: [[inner-speech-and-anendophasia]] L37, [[confabulation-void]] L70)
+- **Enhancements made**: 2 trims for neutrality (heterophenomenology bullet −10, kept because the research note documents the sibling-page conflation it guards against; "hardly any"/"never" sentence −4)
+- **Citation ledger**: 23 references, all real-correct, every quotation grep-hit in raw publisher text (Cambridge ×5, SEP ×2, PLoS, SciAm, Vilnius UP; OpenAlex abstract index + Crossref for the Cloudflare-blocked Wiley/T&F/OUP pages; Europe PMC for Hurlburt & Akhter). SEP section numbers verified by position (§2.1.2, §2.2.1, §4.1.2, §4.2.2). Superlative sweep empty. No inline/References orphans.
+- **Engagement (editor-internal)**: Carruthers — Mode Three on the corollary (page says "shows the corollary is not forced on the Map; it does not refute it"), declared neutrality on attitudes, standing phenomenal-concepts reply on the 2019 hard-problem claim. No label leakage; epiphenomenalism not conceded; no author enlisted for dualism.
+- **Frontmatter**: ai_modified and last_deep_review 2026-10-26T12:27:11+00:00; ai_system claude-opus-5-5+claude-fable-5-1.
+- **Tasks minted**: none (phenomenal-transparency-opacity-spectrum L77 overstatement is already the SECONDARY item of the open P3 at todo L3315; the open P3 cross-review at L3339 owns integration).
+- **Output**: [[reviews/deep-review-2026-10-26-interpretive-sensory-access-theory]]
+
 ## 2026-10-26T12:05:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/the-silence-void]]

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-10-25 21:56:47+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-26 12:27:11+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[self-blindness]]'
@@ -25,7 +25,8 @@ description: 'Carruthers''s theory that we know our own attitudes by self-interp
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-25 21:56:47+00:00
+last_deep_review: 2026-10-26 12:27:11+00:00
+lastmod: 2026-10-26 12:27:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,7 +39,7 @@ topics:
 - '[[inner-speech-and-anendophasia]]'
 ---
 
-The **interpretive sensory-access (ISA) theory** is Peter Carruthers's account of self-knowledge, named in *The Opacity of Mind* (2011) and developed from a 2009 *Behavioral and Brain Sciences* target article. One mindreading faculty serves knowledge of oneself and of others. It receives only sensory-format input (perception, imagery, inner speech, bodily and affective feeling) plus cues from context and behaviour, so metacognitive access to one's own propositional attitudes "always results from swift unconscious self-interpretation" (2009, abstract). The theory is divided by design: it "won't challenge the existence of introspective access to perceptual and imagistic states, nor to emotional feelings and bodily sensations" (2010, abstract). Judgments, decisions and intentions are interpreted, as are beliefs and desires in Schwitzgebel's gloss; the sensory side is introspected. Carruthers is a physicalist, and the evidence for parity views of this kind "remains contentious" (Schwitzgebel 2024, §2.1.2).
+The **interpretive sensory-access (ISA) theory** is Peter Carruthers's account of self-knowledge, set out in *The Opacity of Mind* (2011) and developed from a 2009 *Behavioral and Brain Sciences* target article. One mindreading faculty serves knowledge of oneself and of others. It receives only sensory-format input (perception, imagery, [inner speech](/topics/inner-speech-and-anendophasia/), bodily and affective feeling) plus cues from context and behaviour, so metacognitive access to one's own propositional attitudes "always results from swift unconscious self-interpretation" (2009, abstract). The theory is divided by design: it "won't challenge the existence of introspective access to perceptual and imagistic states, nor to emotional feelings and bodily sensations" (2010, abstract). Judgments, decisions and intentions are interpreted, as are beliefs and desires in Schwitzgebel's gloss; the sensory side is introspected. Carruthers is a physicalist, and the evidence for parity views of this kind "remains contentious" (Schwitzgebel 2024, §2.1.2).
 
 The Unfinishable Map's verdict, stated as the Map's own, has three parts. ISA's line between interpreted attitudes and introspected sensory states falls close to where the Map separates attitudes from phenomenal states, but the match fits the Map without evidencing it, since Carruthers holds sensory consciousness itself to be physical. On attitudes the Map need not choose between ISA and its rivals, because attitude self-knowledge carries no evidential weight for dualism on any of them. And the Map resists ISA's [corollary that there are hardly any conscious propositional attitudes](#corollary) (explained below), a resistance that is a bet on cognitive phenomenology rather than a refutation.
 
@@ -65,13 +66,13 @@ The vocabulary around ISA has several coiners:
 - **"Self/other parity"** is Schwitzgebel's classification of the family.
 - **"Objectivist"** is Georges Rey's label for the Gopnik–Carruthers view (2013).
 - **"Inferentialism"** is Quassim Cassam's term for his own view (2014), not Carruthers's for ISA.
-- **"Heterophenomenology"** is Daniel Dennett's third-person method for studying consciousness ([heterophenomenology](/concepts/heterophenomenology/)) and names neither ISA nor any part of it.
+- **"Heterophenomenology"** is Dennett's third-person method ([heterophenomenology](/concepts/heterophenomenology/)), and does not name ISA.
 
 ## The Evidence {#evidence}
 
 ISA's case is mainly predictive: it says where self-knowledge should fail.
 
-- **Confabulated attitudes.** If attitudes are self-ascribed by interpretation, people should misreport attitudes as well as their causes. By its abstract, the 2011 confabulation chapter finds this pattern in the self-perception and dissonance traditions, and argues that transparent-access theories cannot explain how the data are patterned (ch. 11). Choice-blindness studies, not cited here as Carruthers's own evidence, fit the claim: on a self-transforming moral survey, "a full 69% of the participants failed to detect at least one of two changes", often arguing for "the opposite of their original position" (Hall et al. 2012).
+- **[Confabulated attitudes](/voids/confabulation-void/).** If attitudes are self-ascribed by interpretation, people should misreport attitudes as well as their causes. By its abstract, the 2011 confabulation chapter finds this pattern in the self-perception and dissonance traditions, and argues that transparent-access theories cannot explain how the data are patterned (ch. 11). Choice-blindness studies, not cited here as Carruthers's own evidence, fit the claim: on a self-transforming moral survey, "a full 69% of the participants failed to detect at least one of two changes", often arguing for "the opposite of their original position" (Hall et al. 2012).
 - **No dissociations.** Inner-sense theories predict that self-knowledge and other-knowledge can come apart; one faculty for both predicts that they cannot. Nichols and Stich argue that autism and schizophrenia show a "double dissociation", suggesting "that theoretical inference and self-monitoring are distinct and separable processes" (Schwitzgebel 2024, §2.2.1). Carruthers's dissociation chapter contests this and adds alexithymia and self/other imaging overlap (2011, ch. 10, at abstract grain).
 - **Unification.** By the chapter abstract, the theory draws support from [global broadcasting theory](/concepts/global-workspace-theory/), sensory-based working memory, and accounts on which metarepresentation evolved for complex social life (2011, ch. 3).
 - **Development set aside.** Gopnik argued for parity from children: "Many 3-year-old children are consistently wrong in reporting some of their own immediately past psychological states and show similar difficulties reporting the psychological states of others" (1993, abstract). Carruthers holds that "data from childhood development are of no help in resolving this debate" (2009, §4). The developmental case is Gopnik's.
@@ -94,9 +95,9 @@ The dispute is therefore three-way. Carruthers treats the reports as alleged evi
 
 ## The Corollary: Hardly Any Conscious Attitudes {#corollary}
 
-Carruthers draws a stronger conclusion from the access thesis. The concluding chapter of the 2011 book, in its abstract's words, holds that "there exist hardly any conscious propositional attitudes (although there are many other kinds of conscious mental event)"; it infers that there is no conscious agency and that beliefs about moral responsibility may need re-examining (ch. 12; see [consciousness-and-the-epistemic-condition-on-responsibility](/topics/consciousness-and-the-epistemic-condition-on-responsibility/)). The 2015 book's abstract goes further for amodal attitudes, which "are never among the contents of this stream of conscious reflection" and work "behind the scenes" to select sensory imagery for working memory (*The Centered Mind*). The two claims differ, "hardly any" against "never", and belong to different books.
+Carruthers draws a stronger conclusion from the access thesis. The concluding chapter of the 2011 book, in its abstract's words, holds that "there exist hardly any conscious propositional attitudes (although there are many other kinds of conscious mental event)"; it infers that there is no conscious agency and that beliefs about moral responsibility may need re-examining (ch. 12; see [consciousness-and-the-epistemic-condition-on-responsibility](/topics/consciousness-and-the-epistemic-condition-on-responsibility/)). The 2015 book's abstract goes further for amodal attitudes, which "are never among the contents of this stream of conscious reflection" and work "behind the scenes" to select sensory imagery for working memory (*The Centered Mind*). The two claims, "hardly any" and "never", belong to different books.
 
-The step needs a theory of what makes a state conscious, which the confabulation data do not supply. In a 2018 interview Carruthers runs it through global workspace theory, on which a conscious state "must be among the contents of working memory", and [higher-order-theories](/concepts/higher-order-theories/), on which conscious states are "those that you know of": "whichever view you adopt, it turns out that thoughts such as decisions and judgments should not be considered to be conscious" (Ayan 2018). Frankish's mixed position and Shepherd's reply (see [Replies](#replies)) resist the step.
+The step needs a theory of what makes a state conscious, which the confabulation data do not supply. In a 2018 interview Carruthers runs it through global workspace theory, on which a conscious state "must be among the contents of working memory", and the view he credits to Graziano and Rosenthal ([higher-order-theories](/concepts/higher-order-theories/)), on which conscious states are "those that you know of": "whichever view you adopt, it turns out that thoughts such as decisions and judgments should not be considered to be conscious" (Ayan 2018). Frankish's mixed position and Shepherd's reply (see [Replies](#replies)) resist the step.
 
 The corollary concerns which states are conscious, and Carruthers does not infer that consciousness is causally idle. By the 2019 book's abstract, conscious contents are "'globally broadcast' to a wide range of cognitive systems for reasoning, decision making, and verbal report", and "conscious reflection does have effects on our behavior" (Ayan 2018). ISA lends no support to [epiphenomenalism](/concepts/epiphenomenalism/).
 
@@ -112,7 +113,7 @@ The corollary concerns which states are conscious, and Carruthers does not infer
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** ISA fits the first tenet without evidencing it. It leaves phenomenal states introspectible, the only first-person ground the Map's dualism uses, but Carruthers holds that ground physicalistically. By the abstract of his 2019 book, the hard problem "results merely from the distinctive first-person concepts we can use when thinking about such contents", and "No special non-physical properties—no qualia—need to be introduced", a version of the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/). He is cited here as a rival with an account of self-knowledge, never as an ally of dualism.
+**[Dualism](/tenets/#dualism).** ISA fits the first tenet without evidencing it. It leaves sensory phenomenal states introspectible, the first-person ground on which Tenet 1's rationale rests ([P-TU1](/positions/thought-and-understanding/#p-tu1) keeps that rationale independent of cognitive phenomenology), but Carruthers holds that ground physicalistically. By the abstract of his 2019 book, the hard problem "results merely from the distinctive first-person concepts we can use when thinking about such contents", and "No special non-physical properties—no qualia—need to be introduced", a version of the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/). He is cited here as a rival with an account of self-knowledge, never as an ally of dualism.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** ISA is an access thesis and bears on causal efficacy only through location: if decisions are not conscious events, the Map cannot rest conscious influence on introspected decisions. The Map's position [P-A4](/positions/agency-and-will/#p-a4) already holds that conscious causal efficacy cannot be verified from the first person, so its agency case rests on other grounds. The corollary, if true, would not show conscious influence absent.
 

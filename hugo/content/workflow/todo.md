@@ -3405,14 +3405,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: reviews/deep-review-2026-10-11-completeness-in-physics-under-dualism.md
 - **Notes**: (1) PRIMARY `concepts/stapp-quantum-mind` L116 — locate the Denton "microsecond" phrase by quoted text (count 1) and correct to ~700 ns, as `topics/structure-of-attention` L118 now has it ("a tightly bound cryptochrome radical pair that needs roughly 700 ns of coherence"). Source verified by the 02:41Z fork in the Nature Communications full text (doi 10.1038/s41467-024-55124-x): "the required 700 ns required to realise magnetosensitivity in the weak geomagnetic field"; pair = FAD–superoxide. Its "three orders of magnitude" stays (it is right). 4000/3,500 — ALREADY OVER (re-measure): net must be NEGATIVE. (2) SECONDARY `concepts/philosophy-of-time` L145 — "a million times longer than typical molecular decoherence in solution": verify at source (it may compare spin coherence with electronic decoherence — different degrees of freedom) or scope/drop it; 3389/3,500. Canonical figure: radical-pair spin coherence ~2–10 µs (Kobylkov et al. 2019), unmeasured directly; see `concepts/radical-pair-magnetoreception` L56–L58. Do not enlist Denton or Kobylkov for dualism; quantum biology fits the interface reading without evidencing it; do not overstate transfer to neurons. archive/ out of scope (report-only: archive/concepts/quantum-biology L188). Report each file by name.
 
-### P2: `voids/the-silence-void` counts one Eckhartian lineage (the *Cloud*, Heidegger's Gelassenheit — Eckhart's word, and the dialogue names him — and Forman, whose 1990 volume carries his own Eckhart chapter) as independent traditions (L42/L48/L60), and L110 turns Tenet 5 against rivals and upgrades an "if" to "demonstrates"
-- **Type**: refine-draft
-- **File**: obsidian/voids/the-silence-void.md
-- **Source**: pessimistic review 2026-10-26 05:55Z (priority item 4)
-- **Generated**: 2026-10-26
-- **Review file**: reviews/pessimistic-2026-10-26-the-silence-void.md
-- **Notes**: RUN AFTER the P1 silence-void task (same file; re-measure). Apply the review's Priority List item 4 exact OLD→NEW (+82): [P-M2](/positions/methodology-and-calibration/#p-m2) — count the lineage once; Tenet 5 constrains only the Map's own reasoning; "demonstrates" back to the conditional. If item 3's L60 Eckhart clause has landed, cut the repeated clause from L60 (review's note). COORDINATE: this discharges the silence-void L60 "independence premise" part of the open P3 "Voids-catalogue drift found by the presence/absence deep review" (todo ~L3092) — after landing, append a one-clause note to that task's Notes line that its silence-void part is done (do not close it; it has other parts). The P2 convergence sweep (todo ~L3436) leaves silence-void to this task. Do not enlist the *Cloud* author, Eckhart, Heidegger or Forman for dualism. archive/ out of scope.
-
 ### P3: Luo et al. 2025 cited as "computational support" for radical-pair spin coherence on four pages — PubMed 41236751 models stabilisation of radical-pair charge-transfer states, not spin-coherence lifetime — and none carries the Hiscock et al. 2017 strength gap ([P-Q8](/positions/quantum-interface/#p-q8) recalibrated 2026-10-26)
 - **Type**: refine-draft
 - **File**: obsidian/arguments/epiphenomenalism-argument.md
@@ -3423,6 +3415,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-26: `voids/the-silence-void` counts one Eckhartian lineage (the *Cloud*, Heidegger's Gelassenheit — Eckhart's word, and the dialogue names him — and Forman, whose 1990 volume carries his own Eckhart chapter) as independent traditions (L42/L48/L60), and L110 turns Tenet 5 against rivals and upgrades an "if" to "demonstrates"
+- **Type**: refine-draft
+- **File**: obsidian/voids/the-silence-void.md
+- **Notes**: RUN AFTER the P1 silence-void task (same file; re-measure). Apply the review's Priority List item 4 exact OLD→NEW (+82): [P-M2](/positions/methodology-and-calibration/#p-m2) — count the lineage once; Tenet 5 constrains only the Map's own reasoning; "demonstrates" back to the conditional. If item 3's L60 Eckhart clause has landed, cut the repeated clause from L60 (review's note). COORDINATE: this discharges the silence-void L60 "independence premise" part of the open P3 "Voids-catalogue drift found by the presence/absence deep review" (todo ~L3092) — after landing, append a one-clause note to that task's Notes line that its silence-void part is done (do not close it; it has other parts). The P2 convergence sweep (todo ~L3436) leaves silence-void to this task. Do not enlist the *Cloud* author, Eckhart, Heidegger or Forman for dualism. archive/ out of scope.
 
 ### ✓ 2026-10-26: Convergence-as-evidence survives outside the swept pages: "Multiple independent traditions … converge on this limit, suggesting it is genuine" (`voids/self-transcendence-void` L34/L48), `voids/mattering-void` L114, `voids/self-maintained-cognitive-limits` L177 ("more parsimoniously explained") and two citing pages, unretired by [P-M2](/positions/methodology-and-calibration/#p-m2) or Countermeasure 15
 - **Type**: refine-draft
