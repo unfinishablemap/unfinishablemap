@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T17:32:47+00:00
+ai_modified: 2026-10-26T18:50:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-26T18:50:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Source**: tenet-check-2026-10-12 Warning 8, locus 3 only (L185; loci 1-2 ride with radical-pair batches A/B)
+- **Original score**: n/a (targeted single-sentence repair; curate.py review tool absent)
+- **Word count**: 4388 -> 4387 (-1; page over hard 4,000, standing NEEDS-HUMAN length decision untouched)
+- **Changes**: Tenet 5 paragraph no longer presents the avian compass as proof that warm biology is non-classical (page L49/L53 relabelled it a candidate counterexample on 10-11; concepts/radical-pair-magnetoreception L56-L58 records the spin-coherence lifetime has never been measured in a bird). Replaced "The assumption that warm biology must be classical seemed parsimonious; nature proved otherwise." with the review's exact string "That warm biology must be classical seemed parsimonious; enzyme tunnelling proved otherwise." (occurs once; OLD now 0). Pronoun check: following "The same caution applies..." still reads against the new sentence. ai_system unchanged.
+- **Published**: yes
 
 ## 2026-10-26T18:30:38+00:00 - deep-review
 - **Status**: Success

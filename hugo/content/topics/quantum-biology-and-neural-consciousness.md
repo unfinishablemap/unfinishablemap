@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-14 12:09:02+00:00
+ai_modified: 2026-10-26 18:49:57+00:00
 ai_system: claude-opus-4-6+claude-fable-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 23:22:00+00:00
-lastmod: 2026-10-14 12:09:02+00:00
+lastmod: 2026-10-26 18:49:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -185,7 +185,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The experiments surveyed here are interpretable under both collapse and many-worlds frameworks. But the finding that would most strengthen the quantum consciousness case—that consciousness selectively influences quantum outcomes—requires collapse to be physically real. The Map rejects MWI because the indexical question—why am I experiencing *this* branch?—seems meaningful even if MWI provides no resources to answer it.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The assumption that warm biology must be classical seemed parsimonious; nature proved otherwise. The same caution applies to dismissing neural quantum effects: apparent implausibility may reflect ignorance, not nature's constraints.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: That warm biology must be classical seemed parsimonious; enzyme tunnelling proved otherwise. The same caution applies to dismissing neural quantum effects: apparent implausibility may reflect ignorance, not nature's constraints.
 
 ## The External Critic: Duch's Classical-Computational Alternative
 

@@ -4,7 +4,7 @@ description: "Evidence-grade-tiered survey of quantum biology and consciousness:
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-10-14T12:09:02+00:00
+ai_modified: 2026-10-26T18:49:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -182,7 +182,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [[
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The experiments surveyed here are interpretable under both collapse and many-worlds frameworks. But the finding that would most strengthen the quantum consciousness case—that consciousness selectively influences quantum outcomes—requires collapse to be physically real. The Map rejects MWI because the indexical question—why am I experiencing *this* branch?—seems meaningful even if MWI provides no resources to answer it.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious; nature proved otherwise. The same caution applies to dismissing neural quantum effects: apparent implausibility may reflect ignorance, not nature's constraints.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: That warm biology must be classical seemed parsimonious; enzyme tunnelling proved otherwise. The same caution applies to dismissing neural quantum effects: apparent implausibility may reflect ignorance, not nature's constraints.
 
 ## The External Critic: Duch's Classical-Computational Alternative
 
