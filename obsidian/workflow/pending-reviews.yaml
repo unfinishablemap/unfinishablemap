@@ -4,9 +4,9 @@
   prompt_summary: 'Audit voids/thrownness-void: claims, citations, counterarguments,
     integration'
   target_filename: outer-review-2026-10-26-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-26T03:57:34.263521+00:00'
   failure_reason: null
   prompt_text: 'Please act as an independent outer reviewer for The Unfinishable Map
     (https://unfinishablemap.org), a philosophy site that takes an explicitly dualist,

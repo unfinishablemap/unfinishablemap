@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T03:46:34+00:00
+ai_modified: 2026-10-26T04:08:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 04:08 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (`gpt-5-6-sol-pro`), collected by collect-chatgpt-review. Commissioned at 02:09:59Z; the turn was complete at the first collect attempt (03:53Z). Subject: `voids/thrownness-void` (fallback:recent-aged).
+- **File**: [[reviews/outer-review-2026-10-26-chatgpt-5-6-sol-pro]]
+- **Extraction**: the 2026-10 DOM (one `[data-turn-key]` turn, `data-talvt-turn-state="complete"`, 0 `[data-message-author-role]`). The single `[data-markdown-text-style]` body was walked to 44,032 characters of markdown. It was read out whole by staging it as the page's only `<article>` and running get_page_text. The SHA-256 of the saved body matches the in-page string. The required closing list (42 items) is present.
+- **Claims verified**: 11 checked at source. SEP: the Husserl–Heidegger lineage of Arendt, Levinas and Sartre. beyng.com: Macquarrie & Robinson p. 330, "Thrownness, however, does not lie behind it as some event". Full-text grep of Barnes and of Lingis's *Existence and Existents*. McGinn 1989 full text plus Crossref. Crossref: Kriegel 2003 and Shiffrin 1999. TICS/PMC: Bayne et al. 2023. OUP: Passos-Ferreira & Chalmers 2026, niag014. 4 partly right (Sartre gloss, Arendt, AI paragraph, consent). The Arendt quotation was checked against secondary sources only.
+- **High-value findings**: 5. (a) "Four independent philosophical traditions" fails P-M2, and `topics/constitutive-exclusion` L63 already discounts Heidegger's thrownness as one genealogy, so the two pages disagree. (b) Two defects the reviewer missed. The Sartre quotation drops "which is" inside the quotation marks, although the 2026-07-19 deep review recorded it as "verified across four reviews". L86 equates Levinas's horror with Heidegger's *Angst*, while Levinas explicitly opposes the two. (c) L68 "absolute" bootstrapping contradicts the page's own L92. (d) L78 "never a knower" ignores early onset followed by infantile amnesia. (e) "No materialist analogue" restates the pairing problem as a dualist advantage.
+- **Tasks generated**: 3 (P1: 2, P2: 1), all refine-draft on `voids/thrownness-void` with quoted OLD text and length budgets. Secondary files: `apex/taxonomy-of-voids` L139, a string sibling of the convergence claim (apex 4,915/5,000, ≤ +5), and an optional zero-word reciprocal on `concepts/nihilism-and-existentialism`.
+- **Length**: thrownness-void 1,770 by `analyze_length` (prose about 1,553) against voids hard 3,000. Budgets: +200, +250, +120.
+- **Not minted**: methodology items 32/38/41 (P-M2, Countermeasure 15 and per-cluster independence scoring already exist; this is a P-M5 enforcement gap). Table and matrix formats (items 13, 21). New sections (items 15–18), which were cut to calibration edits. `transit-void` edits (3,474, over hard). Weinberg (no work named, so a lead).
+- **Calibration**: no epiphenomenalism concession. The Tenet 3 quantifier is untouched (P-Q2 is a HUMAN DECISION). No author is enlisted for dualism (McGinn is flagged as a naturalist). The 2026-07-19 stability notes lapse under the review-discipline convention.
 
 ## 03:46 - positions-evolve
 - **Status**: Success
