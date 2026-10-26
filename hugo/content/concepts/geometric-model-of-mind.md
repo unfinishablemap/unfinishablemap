@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-10-26 12:52:57+00:00
+ai_modified: 2026-10-26 20:57:37+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -15,15 +15,15 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[llm-consciousness]]'
 created: 2026-05-11
-date: &id001 2026-07-27
+date: &id001 2026-10-26
 description: Włodzisław Duch treats mental states as attractor basins in psychological
   feature-space and mind as the shadow of neurodynamics. The Map appropriates the
   tooling under framework-stage discipline and rejects the metaphysics.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-27 14:09:36+00:00
-lastmod: 2026-10-26 12:52:57+00:00
+last_deep_review: 2026-10-26 20:57:37+00:00
+lastmod: 2026-10-26 20:57:37+00:00
 modified: *id001
 related_articles:
 - '[[apex/machine-question]]'
@@ -47,7 +47,7 @@ The Unfinishable Map takes Duch seriously as the most competent contemporary adv
 
 The model's primary object is **psychological space** — a feature-coordinate space whose dimensions are the properties relevant to a mental representation. For a concept like "dog", the dimensions might be perceptual (four-legged, furry, barks), functional (companion, guardian), and abstract (mammalian, carnivorous). The concept is not a single point but a region: a basin of attraction within which similar instances cluster and from which the dynamics finds it harder to escape than to remain.
 
-Duch's 1998 chapter "Platonic model of mind as an approximation to neurodynamics" introduces the formalism: "Objects and events in these spaces [psychological spaces] correspond to quasi-stable states of brain dynamics and may be interpreted from psychological point of view." The image is Platonic in form but inverted in direction. Where Plato's shadows are projections of higher Forms onto a lower world, Duch's shadows project from the brain's high-dimensional dynamical state onto a lower-dimensional space the first-person perspective can navigate. Mind is what neurodynamics looks like at the right intermediate level of description — a level Duch's 2022 restatement characterises as describing mental states "in terms of features relevant from the first-person perspective but also linked to neural events", sitting between symbolic AI and pure neural simulation.
+Duch's 1998 chapter "Platonic model of mind as an approximation to neurodynamics" introduces the formalism: "Objects and events in these spaces [psychological spaces] correspond to quasistable states of brain dynamics and may be interpreted from psychological point of view." The image is Platonic in form but inverted in direction. Where Plato's shadows are projections of higher Forms onto a lower world, Duch's shadows project from the brain's high-dimensional dynamical state onto a lower-dimensional space the first-person perspective can navigate. Mind is what neurodynamics looks like at the right intermediate level of description — a level Duch's 2022 restatement characterises as describing mental states "in terms of features relevant from the first-person perspective but also linked to neural events", sitting between symbolic AI and pure neural simulation.
 
 Two operationalisations run in parallel. **Feature Space Mapping**, the static version, treats mental representations as objects in a coordinate space with neurofuzzy realisation; Duch and Naud's animal-concept experiment, reported as unpublished work in the 1998 chapter, is the canonical demonstration: a 30-feature space whose similarity structure matches the multidimensional-scaling output from human similarity judgments. The match is non-trivial — the topology of similarity in the human data could have diverged from the feature-space geometry, and that it does not is the empirical purchase the framework claims. **The dynamic version** treats mental events as trajectories through the space: perception triggers a trajectory toward an attractor, recognition is settling into a basin, conceptual transitions are saddle-point crossings between basins, and conceptual ambiguity is a region where multiple basins overlap or where the dynamics flickers between them.
 
@@ -57,7 +57,7 @@ The dynamics are claimed to deliver structure that classical cognitive science a
 
 Duch's "Computational physics of the mind" (*Computer Physics Communications*, 1996) supplies the framing within which the geometric model is presented as a physics-of-mind programme. The framing posits a "mind function" defined over psychological space whose non-zero regions are mind objects. The function's level sets, gradients, and topological invariants are not reducible to any single neural variable; they emerge from the joint dynamics of many cell assemblies in interaction.
 
-Duch's own summary places the programme inside psychophysics — for him "the branch of physics devoted to understanding the relations of the brain and mental processes" — and offers the formalism as "a bridge between the brain and the mind, or neuroscience and psychology". The bridge level has regularities of its own, and they are the proper target of the cognitive sciences in the way that fluid-dynamical regularities are the proper target of fluid mechanics: irreducible to the molecular substrate in practice, derivable from it in principle. This in-principle-derivability claim concerns *cognitive-functional structure* — the geometry of concepts, transitions, and inference — and is silent on the phenomenal level, which the framework's own resources leave undetermined (isolated below, [What the Model Does and Does Not Settle](#what-the-model-does-and-does-not-settle)). The intermediate level is not a convenience or a temporary scaffold; it captures structure invisible to either pure-symbolic or pure-neural description. That is the methodological move distinguishing the geometric model from eliminative materialism, which would dispense with the intermediate level entirely, and from classical symbolic AI, which would treat it as bedrock. It is also the move that makes the model interesting to philosophical projects that do not share Duch's metaphysics: a description of the physical-correlate side of consciousness need not endorse the claim that the intermediate-level description is *all* there is.
+Duch's own summary places the programme inside psychophysics — for him "the branch of physics devoted to understanding the relations of the brain and mental processes" — and offers the formalism as "a bridge between the brain and the mind, or neuroscience and psychology". The bridge level has regularities of its own, and they are the proper target of the cognitive sciences in the way that fluid-dynamical regularities are the proper target of fluid mechanics: irreducible to the molecular substrate in practice, derivable from it in principle. This in-principle-derivability claim concerns *cognitive-functional structure* — the geometry of concepts, transitions, and inference — and is silent on the phenomenal level, which the framework's own resources leave undetermined (isolated below, [What the Model Does and Does Not Settle](#what-the-model-does-and-does-not-settle)). Far from being a convenience or a temporary scaffold, the intermediate level captures structure invisible to either pure-symbolic or pure-neural description. That is the methodological move distinguishing the geometric model from eliminative materialism, which would dispense with the intermediate level entirely, and from classical symbolic AI, which would treat it as bedrock. It is also the move that makes the model interesting to philosophical projects that do not share Duch's metaphysics: a description of the physical-correlate side of consciousness need not endorse the claim that the intermediate-level description is *all* there is.
 
 ## Attractor Dynamics and the Cell Assembly Substrate
 
@@ -139,11 +139,11 @@ The articon thesis is the strongest competent affirmative position the Map's [op
 
 ## References
 
-1. Duch, W. (1996). Computational physics of the mind. *Computer Physics Communications* 97(1–2): 136–153. https://web-archive.southampton.ac.uk/cogprints.org/914/1/96compmind.pdf
-2. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In Amari, S. & Kasabov, N. (eds.), *Brain-like Computing and Intelligent Information Systems*, Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
+1. Duch, W. (1996). Computational physics of the mind. *Computer Physics Communications* 97(1–2): 136–153. https://fizyka.umk.pl/publications/kmk/96compmind.pdf
+2. Duch, W. (1998). Platonic model of mind as an approximation to neurodynamics. In Amari, S. & Kasabov, N. (eds.), *Brain-like Computing and Intelligent Information Systems*, Springer. https://fizyka.umk.pl/publications/kmk/mind-2.pdf
 3. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior* 26(1–2): 1–22. https://philarchive.org/rec/DUCBCC-3
 4. Duch, W. (2017). Kurt Lewin, psychological constructs and sources of brain cognitive activity. arXiv:1711.01767. https://arxiv.org/abs/1711.01767
-5. Duch, W. (2018). Fingerprints of brain cognitive activity. ICAISC 2018 conference presentation, Zakopane. https://is.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf
+5. Duch, W. (2018). Fingerprints of brain cognitive activity. ICAISC 2018 conference presentation, Zakopane. https://fizyka.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf
 6. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews* 31: 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 7. Duch, W. (2022). Concept representation and the geometric model of mind. *Studies in Logic, Grammar and Rhetoric* 67(1): 151–167. https://reference-global.com/article/10.2478/slgr-2022-0009
 8. Duch, W. (2024). Autorefleksja w Claude 3 [Self-reflection in Claude 3]. Personal academic blog. https://wduch.wordpress.com/2024/03/17/autorefleksja-w-claude-3/

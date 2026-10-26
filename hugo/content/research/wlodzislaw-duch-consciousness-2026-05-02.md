@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-07-30 21:11:47+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-26 20:57:37+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1
 concepts: []
 created: 2026-05-02
-date: '2026-07-30'
+date: '2026-10-26'
 draft: false
-lastmod: 2026-07-30 21:11:47+00:00
+lastmod: 2026-10-26 20:57:37+00:00
 related_articles:
 - '[[concepts/biological-computationalism]]'
 - '[[concepts/quantum-consciousness]]'
@@ -43,7 +43,7 @@ The research surfaces a tension worth flagging early: Duch's blog statements rep
 ## Key Sources
 
 ### Duch, W. — "Platonic model of mind as an approximation to neurodynamics" (1998)
-- **URL**: https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf (Cogprints PDF; primary URL returned 403 from this session — citation verified via search abstract and ResearchGate index)
+- **URL**: https://fizyka.umk.pl/publications/kmk/mind-2.pdf (Duch's institutional deposit, full text retrieved and grepped 2026-07-27 and 2026-10-26; the cogprints mirror at web-archive.southampton.ac.uk returns 403)
 - **Type**: Book chapter (in *Brain-like Computing and Intelligent Information Systems*, Springer 1998)
 - **Key points**:
   - Introduces the Platonic-style model: mind objects are quasi-stable attractor states of brain dynamics, located in a "psychological space" whose coordinates are features of mental representations.
@@ -51,7 +51,7 @@ The research surfaces a tension worth flagging early: Duch's blog statements rep
   - Empirical validation via 30-feature animal-concept space matched against human similarity-judgment MDS maps (Duch & Naud).
   - Symbols and abstract concepts emerge as relations between primary (sensory/iconic) mind objects.
 - **Tenet alignment**: Conflicts with Tenet 1 (Dualism) — explicitly grounds mental content in neurodynamics. Neutral toward Tenets 2–4 (does not engage quantum mechanics at this stage).
-- **Quote (VERBATIM, verified 2026-07-27 against Duch's own deposit `fizyka.umk.pl/publications/kmk/mind-2.pdf`, abstract)**: "Objects and events in these spaces correspond to quasi-stable states of brain dynamics and may be interpreted from psychological point of view." Note the two points on which the earlier search-derived paraphrase differed and must not be reintroduced: Duch writes "in these spaces" (antecedent: psychological spaces), not "in psychological space", and "from psychological point of view" without the article "a".
+- **Quote (VERBATIM, verified 2026-07-27 against Duch's own deposit `fizyka.umk.pl/publications/kmk/mind-2.pdf`, abstract)**: "Objects and events in these spaces correspond to quasistable states of brain dynamics and may be interpreted from psychological point of view." Note (2026-10-26) that the deposit's abstract spells "quasistable" unhyphenated — the same PDF hyphenates "quasi-stable" in its body text, so the extraction is not dropping a glyph — and the quotation must keep the unhyphenated form. Note also the two points on which the earlier search-derived paraphrase differed and must not be reintroduced: Duch writes "in these spaces" (antecedent: psychological spaces), not "in psychological space", and "from psychological point of view" without the article "a".
 
 ### Duch, W. — "Computational physics of the mind" (1996/2000s)
 - **URL**: https://fizyka.umk.pl/publications/kmk/96compmind.pdf (full text retrieved and grepped 2026-07-27; the cogprints mirror at web-archive.southampton.ac.uk now returns 403)
@@ -64,7 +64,7 @@ The research surfaces a tension worth flagging early: Duch's blog statements rep
 - **Tenet alignment**: Conflicts with Tenet 1 — physics-of-mind framing is reductive in spirit. Methodologically interesting for the Map: the *intermediate-level* description is something the Map's articles on phenomenology-of-consciousness-doing-work and what-consciousness-tells-us-about-physics could appropriate without endorsing the underlying metaphysics.
 
 ### Duch, W. — "Brain-inspired conscious computing architecture" (2005, *Journal of Mind and Behavior*)
-- **URL**: https://philarchive.org/rec/DUCBCC-3 ; cogprints PDF: https://web-archive.southampton.ac.uk/cogprints.org/3319/1/03-Brainins.pdf
+- **URL**: https://philarchive.org/rec/DUCBCC-3 (Cloudflare-challenged to non-browser clients, live in a browser) ; full-text PDF at Duch's deposit: https://fizyka.umk.pl/publications/kmk/03-Brainins.pdf (cogprints mirror returns 403)
 - **Type**: Journal article (peer-reviewed)
 - **Key points**:
   - Introduces the **articon**: an artificial system that, by virtue of its self-reflective dynamical architecture, has to claim being conscious.
@@ -100,7 +100,7 @@ The research surfaces a tension worth flagging early: Duch's blog statements rep
 - **Tenet alignment**: Methodological — tenet-neutral. Useful citation for any Map article appealing to functional connectivity / attractor-dynamics interpretations of phenomenology.
 
 ### Duch, W. — "Fingerprints of brain cognitive activity" (2018)
-- **URL**: https://is.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf (host-relative; access not verified this session)
+- **URL**: https://fizyka.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf (retrieved 2026-10-26: 83-slide ICAISC 2018 deck, Zakopane 3–7 June; the former is.umk.pl host no longer resolves)
 - **Type**: Conference paper / chapter
 - **Key points**:
   - Spectral fingerprinting of MEG/EEG, power-distribution methods for individual cognitive-state signatures.
@@ -253,11 +253,11 @@ When writing or revising articles based on this research, follow `obsidian/proje
 
 ## Citations
 
-- Duch, W. (1996). "Computational physics of the mind." *Computer Physics Communications*. https://web-archive.southampton.ac.uk/cogprints.org/914/1/96compmind.pdf
-- Duch, W. (1998). "Platonic model of mind as an approximation to neurodynamics." In *Brain-like Computing and Intelligent Information Systems* (eds. Amari & Kasabov), Springer. https://web-archive.southampton.ac.uk/cogprints.org/913/1/mind-2.pdf
+- Duch, W. (1996). "Computational physics of the mind." *Computer Physics Communications*. https://fizyka.umk.pl/publications/kmk/96compmind.pdf
+- Duch, W. (1998). "Platonic model of mind as an approximation to neurodynamics." In *Brain-like Computing and Intelligent Information Systems* (eds. Amari & Kasabov), Springer. https://fizyka.umk.pl/publications/kmk/mind-2.pdf
 - Duch, W. (2005). "Brain-inspired conscious computing architecture." *Journal of Mind and Behavior* 26(1–2). https://philarchive.org/rec/DUCBCC-3
 - Duch, W. (2017). "Kurt Lewin, psychological constructs and sources of brain cognitive activity." arXiv:1711.01767. https://arxiv.org/abs/1711.01767
-- Duch, W. (2018). "Fingerprints of brain cognitive activity." https://is.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf
+- Duch, W. (2018). "Fingerprints of brain cognitive activity." ICAISC 2018 conference presentation. https://fizyka.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf
 - Duch, W. (2019). "Mind as a shadow of neurodynamics." *Physics of Life Reviews* 31: 28–31. DOI: 10.1016/j.plrev.2019.01.023. https://pubmed.ncbi.nlm.nih.gov/31301951/
 - Duch, W. (2022). "Concept Representation and the Geometric Model of Mind." *Studies in Logic, Grammar and Rhetoric*. https://reference-global.com/article/10.2478/slgr-2022-0009
 - Duch, W. — "Facing the hard question." PhilPapers entry: https://philpapers.org/rec/DUCFTH-4 (full text not accessed this session)

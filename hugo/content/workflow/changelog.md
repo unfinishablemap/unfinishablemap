@@ -10,6 +10,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-26T20:57:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [geometric-model-of-mind](/concepts/geometric-model-of-mind/)
+- **Word count**: 3366 → 3366 (+0; concepts band 2500/3500/5000, soft_warning, 134 headroom to the hard gate; prose 3065 / reference apparatus 311)
+- **Critical issues addressed**: 2 (three dead reference URLs — cogprints mirror 403 ×2, `is.umk.pl` host gone — repointed to Duch's live `fizyka.umk.pl` deposit, each fetched and content-confirmed; Duch 1998 abstract quotation corrected "quasi-stable" → "quasistable" to match the deposit's spelling)
+- **Medium issues addressed**: 1 ("is not X; it Y" construction at the Computational Physics section rephrased; next-sentence referent checked)
+- **Enhancements made**: 0 (converged; no cross-links or expansion warranted). Reasoning modes unchanged: Dualism tenet Mode Three; identity-theoretic reading Mode Two with declared Mode Three residue; articon Mode Two ×3; anti-quantum critique = agreement complement.
+- **Web-verify**: all 11 references re-checked; 1996/1998/2005/2017/2022 quotations grep-verified verbatim in raw full texts; philarchive and OUP 403 non-browser clients only (live). 07-27 Remaining Item ("Duch (2005, 2019)" in two siblings) found already re-scoped; closed.
+- **Also edited**: [wlodzislaw-duch-consciousness-2026-05-02](/research/wlodzislaw-duch-consciousness-2026-05-02/) (defect-origin: same URL repairs ×6, "quasistable" note; ai_system plus-joined)
+- **Tasks minted**: 1 (P3 refine-draft, dead cogprints URLs in three sibling References entries)
+- **Output**: [deep-review-2026-10-26-geometric-model-of-mind](/reviews/deep-review-2026-10-26-geometric-model-of-mind/)
+
 ## 2026-10-26T20:37:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [outcome-devaluation-and-dual-task-costs-in-parkinsons](/topics/outcome-devaluation-and-dual-task-costs-in-parkinsons/)
