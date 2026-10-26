@@ -1,14 +1,66 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 06:18:23+00:00
+ai_modified: 2026-10-26 06:34:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 06:18:23+00:00
+lastmod: 2026-10-26 06:34:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:33 - refine-draft
+- **Status**: Success
+- **File**: [thrownness-void](/voids/thrownness-void/)
+- **Task**: P1 scope the void to what is secure. This is the second of three P1s on this page from the 2026-10-26 outer reviews (3/3 reviewers; synthesis clusters C2, C3, C5, C7, C11–C14, C17). Review files: [outer-review-2026-10-26-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-26-chatgpt-5-6-sol-pro/), [outer-review-2026-10-26-claude-fable-5-1](/reviews/outer-review-2026-10-26-claude-fable-5-1/), [outer-review-2026-10-26-gemini-3-1-pro](/reviews/outer-review-2026-10-26-gemini-3-1-pro/), [outer-review-synthesis-2026-10-26](/reviews/outer-review-synthesis-2026-10-26/).
+- **Original score**: n/a (targeted scoping and calibration fix; `scripts/curate.py` absent)
+- **Length**: 1,968 → 2,261 by `analyze_length`, +293 against a +300 budget. Voids soft 2,000 is now exceeded, which has no consequence; hard is 3,000 with a `>=` gate, so 739 words of headroom remain. Every edit was located by its quoted OLD text, each with count 1.
+- **Changes**:
+  - Core fix and (2), (d), Withy counterweight, lead (L42):
+    - "cannot access, authorise, or revise" → "cannot witness, authorise, or revise".
+    - The void is now "the inaccessibility of one's own origin to first-person acquaintance and recollection". The origin/birth sense is kept.
+    - New secure-core sentence: "no subject directly experiences or remembers a phase in which it was not yet conscious".
+    - "That origin may be a moment or a graded, multidimensional interval: Bayne et al. (2023) find no received view of its timing or form, but argue that recent evidence favours early onset, possibly before birth."
+    - "from either side" → "First-person reflection cannot bridge the gap; third-person developmental science can partly chart it."
+    - The banned "This is not the question… It is the inaccessibility…" → "The void differs from…" and "Its object is the founding moment, or interval, itself: the transition no witness can attend."
+    - Frontmatter `description` "cannot access" → "cannot witness or recall", with the duplicated "witnessed" dropped.
+  - (5) L66: "primarily **unexplorable** with an **occluded** dimension" → three faces of unequal standing. Direct acquaintance is **unexplorable**, closed by definition at the limit point. Developmental onset is **unexplored**, open to third-person study. The protective **occluded** face is speculative and, like the [origin void](/voids/origin-of-consciousness/)'s considerations (L112), "falls short of proving impossibility".
+  - (1) L68: "The bootstrapping problem is absolute: consciousness cannot use itself to investigate a time before itself" → "Within that scope the bootstrapping problem is complete: consciousness cannot directly experience or recollect a time before itself". The scope is "any first-person approach". "pre-constitutional moment" → "phase".
+  - (1) L92: "No direct investigation of the pre-constitutional moment is possible. But indirect methods…" → "No first-person investigation of the pre-constitutional phase is possible. Indirect methods, third-person developmental study among them, can characterise the boundary."
+  - (4) L70:
+    - "load-bearing" is deleted. The passage is now "the Map's speculative conjecture: the opacity may be protective".
+    - The "If consciousness is non-physical…" sentence is kept, and McGinn no longer precedes it.
+    - Withdrawal condition: "No mechanism yet supports it, and it should be withdrawn if subjects who gain wide, deliberate control over the neural conditions of their own consciousness stay stable and unified."
+    - McGinn is now "a separate, naturalist thesis": some property of the brain accounts naturalistically for consciousness, and human minds are cognitively closed to it. He leaves open whether that closure is absolute, and his argument concerns an explanatory problem rather than a protective function (McGinn 1989).
+    - Verified in the 1989 full text: thesis (i) "there exists some property of the brain that accounts naturalistically for consciousness"; "It certainly seems to me to be at least an open question whether the problem is absolutely insoluble". Kriegel 2003 was not added, for budget.
+  - (9) L74: the banned "This is not a practical difficulty but a logical impossibility" → "The impossibility is logical rather than practical". Added: "The point is conceptual; whether non-consent wrongs anyone is a separate question for procreative ethics." Shiffrin 1999 was verified at Crossref but not cited, for budget (~20 words).
+  - (3), (12), (b), (c) and the Augustine control, L78:
+    - "There was never a knower present to know" is kept, scoped to the phase before consciousness began. This preserves the amnesia-structure distinction (the 2026-07-19 strength) "only at the limit point".
+    - "The gap is not amnesia" is deleted. The earliest conscious period "was experienced and then lost to [childhood amnesia](/voids/infant-consciousness/), a case of forgetting rather than absence". This aligns the page with `voids/infant-consciousness` L67 (Bauer 2015; neurogenesis).
+    - The conditional is "Wherever onset precedes the reach of autobiographical memory, as early-onset views hold". It is not "If onset precedes birth", because late-onset views also fall inside the amnesia window.
+    - Augustine *Confessions* I.7.12 (Pilkington, re-verified verbatim at New Advent in this pass): "of which I have no remembrance, which I believe in the word of others, and which I guess from other infants".
+    - The "deeper than the transit void" ranking is deleted. The disanalogy replaces it: [re-entry from sleep or anaesthesia](/voids/sleep-consciousness-void/) "returns a subject to an organism and architecture that already sustained it, while first emergence has no such prior". "Continuing organism" was avoided because a pre-conscious fetus is a continuing organism.
+    - Akers 2014 was not cited; the infant-consciousness link carries the mechanism, as the combine allowed.
+  - (7) L82: "On informal observation," is prefixed (+3).
+  - (10) L84: zero words, "hides its own mechanisms" → [hides its own mechanisms](/voids/self-opacity/).
+  - (6) L88: "are both downstream of thrownness" → finite minds meet these limits "from within an architecture they did not choose". "drawn by an architecture that was imposed" → "The Map's own boundaries are drawn from inside that imposed architecture". The causal claim is dropped.
+  - (11) L94:
+    - "not the origin itself, but the fact that there was an origin" → "its dependence on conditions one did not set, though the reduction discloses no discrete origin".
+    - *Ideas I* §§31–32 is cited. Checked in Boyce Gibson's 1931 translation (archive.org full text): §31 "Radical Alteration of the Natural Thesis 'Disconnexion', 'Bracketing'"; §32 "The Phenomenological ἐποχή".
+    - "the *founding moment* — Heidegger's Geworfenheit, the always-already-thrown origin one cannot get behind" → "the Map's extension of Heidegger's always-already-thrown origin", to match L54.
+    - The retention-protention disclaimer is untouched.
+  - (8) L96: "not temporal, not atemporal" is dropped, and "pre-constitutional moment" → "phase".
+  - References, 8 → 12 entries:
+    - Husserl 1913/Boyce Gibson 1931; Augustine/Pilkington 1887; Bayne et al. 2023 (doi 10.1016/j.tics.2023.08.018); McGinn 1989 (doi 10.1093/mind/XCVIII.391.349), placed beside the 2014 post.
+    - All were verified at Crossref, and the Bayne abstract was read at Europe PMC.
+    - Passos-Ferreira & Chalmers 2026 was verified (abstract: pluralities for onset "after 24 weeks" and self-consciousness "after 6 months") but cut for budget. Bayne alone carries item (2), as allowed.
+- **Banned constructions**: a whole-file `grep -ciF` gives 0 hits for each of "This is not", "load-bearing", "from either side", "downstream", "deeper than", "not temporal" and "The gap is not amnesia". "absolute" has 2 hits: the deliberate McGinn sentence (L70) and L106, which is the third P1's.
+- **Engagement classification**: n/a. No named opponent is replied to. McGinn is separated as a naturalist source, and no author (McGinn, Bayne, Augustine, Husserl, Heidegger) is enlisted for dualism. The data fit the framework without evidencing it, and no epiphenomenalist concession is made.
+- **Report only (not edited)**: the lead keeps "founding moment" (scoped "or interval"), so `voids/origin-of-consciousness` L132/L166 and `apex/conjunction-coalesce` L229 ("the founding moment") remain accurate glosses and need no change. `transit-void` and `sleep-consciousness-void` were not given reciprocals (3,474 and 2,917 against hard 3,000).
+- **Left for the third P1 (Relation to Site Perspective; not edited)**: L106 "No Many Worlds makes the thrownness absolute" and "birth is a unique, unrepeatable event", and L108 "at the moment of establishment", still assume a discrete moment. They should follow the lead's moment-or-interval scope. L104 "no materialist analogue" and L110 Tenet 5 are untouched.
+- **Frontmatter**: ai_modified 06:33:01Z. `claude-opus-5-5` was already present in ai_system, so it is unchanged. `modified` is unchanged.
+- **Published**: yes
 
 ## 06:17 - refine-draft
 - **Status**: Success
