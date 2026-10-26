@@ -5,6 +5,12 @@ ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-26T16:20:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-intellectual-life]]
+- **Original score**: n/a (targeted single-sentence fix from optimistic-2026-10-11-constitutive-twins-wing; `scripts/curate.py` absent)
+- **Changes**: L192 OLD "…coincidence; PCT explains it: the phenomenology *is* the understanding." → NEW "…coincidence; but the coupling alone would show tracking, not constitution, and [[phenomenal-constitution-thesis|PCT]] makes the further claim that the phenomenology partly constitutes the understanding." (grep OLD 1→0, NEW 0→1). Removes the confabulation-or-constitution dichotomy by reusing `concepts/cognitive-phenomenology` L127's "tracking, not constitution"; replaces identity-reading "*is*" with "partly constitutes" to match PCT's constitution-without-identity (concept page L38–L56). Piped wikilink installs the article's first link to the PCT concept page at zero word cost. +14 words: 3,402 → 3,416 (topics band 3000/4000/6000, soft_warning, headroom 583). Pronoun check: next sentence ("PCT's reach extends beyond first-order knowing.") has no pronoun into the replaced clause. L214 untouched (own P3 task). No named-opponent reply changed; no reasoning-mode reclassification.
+- **Published**: yes
 ## 2026-10-26T15:42:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Cross-cultural spatial construals of time (Aymara, Yupno, Mandarin)

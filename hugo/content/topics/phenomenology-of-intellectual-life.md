@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-10-11 23:05:49+00:00
+ai_modified: 2026-10-26 16:20:51+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-08 13:12:14+00:00
-lastmod: 2026-10-11 23:05:49+00:00
+lastmod: 2026-10-26 16:20:51+00:00
 modified: *id001
 related_articles:
 - '[[correlationism-and-the-ancestrality-argument]]'
@@ -193,7 +193,7 @@ The functionalist argues that "felt difference" just is the difference in functi
 
 [Illusionists](/concepts/illusionism/) argue that understanding's phenomenology is introspective illusion. This faces a regress: for understanding to quasi-*seem* a certain way, something must register the quasi-seeming. The chain terminates only when something genuinely seems some way to something. Raymond Tallis sharpens the point: illusions presuppose experience. And careful [introspection](/concepts/introspection/) intensifies rather than dissolves the phenomenology — illusions dissolve under scrutiny; understanding's phenomenology elaborates.
 
-Those who report genuine insight apply it to novel cases, detect errors, and explain the content. If cognitive phenomenology were confabulation, this coupling would be coincidence; PCT explains it: the phenomenology *is* the understanding.
+Those who report genuine insight apply it to novel cases, detect errors, and explain the content. If cognitive phenomenology were confabulation, this coupling would be coincidence; but the coupling alone would show tracking, not constitution, and [PCT](/concepts/phenomenal-constitution-thesis/) makes the further claim that the phenomenology partly constitutes the understanding.
 
 PCT's reach extends beyond first-order knowing. If the phenomenology of grasping partly constitutes the achievement, the felt encounter with closure — the phenomenology of hitting a wall — may partly constitute the second-order recognition *that* a limit exists. The [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) develops this extension: limit-knowledge is not merely evidenced by phenomenology but (plausibly) phenomenally constituted, which shifts the bootstrap problem for knowing one's own limits from a question of introspective access to a question of whether the felt encounter with closure is itself a reliable presentation.
 

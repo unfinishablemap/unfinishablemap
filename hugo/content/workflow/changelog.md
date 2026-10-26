@@ -10,6 +10,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-26T16:20:51+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Original score**: n/a (targeted single-sentence fix from optimistic-2026-10-11-constitutive-twins-wing; `scripts/curate.py` absent)
+- **Changes**: L192 OLD "…coincidence; PCT explains it: the phenomenology *is* the understanding." → NEW "…coincidence; but the coupling alone would show tracking, not constitution, and [PCT](/concepts/phenomenal-constitution-thesis/) makes the further claim that the phenomenology partly constitutes the understanding." (grep OLD 1→0, NEW 0→1). Removes the confabulation-or-constitution dichotomy by reusing `concepts/cognitive-phenomenology` L127's "tracking, not constitution"; replaces identity-reading "*is*" with "partly constitutes" to match PCT's constitution-without-identity (concept page L38–L56). Piped wikilink installs the article's first link to the PCT concept page at zero word cost. +14 words: 3,402 → 3,416 (topics band 3000/4000/6000, soft_warning, headroom 583). Pronoun check: next sentence ("PCT's reach extends beyond first-order knowing.") has no pronoun into the replaced clause. L214 untouched (own P3 task). No named-opponent reply changed; no reasoning-mode reclassification.
+- **Published**: yes
+## 2026-10-26T15:42:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cross-cultural spatial construals of time (Aymara, Yupno, Mandarin)
+- **Output**: [cross-cultural-spatial-construals-of-time-2026-10-26](/research/cross-cultural-spatial-construals-of-time-2026-10-26/)
+- **Sources consulted**: 12 (abstracts verified at Crossref/PubMed; Boroditsky 2001 full text)
+- **Verdict**: fold into voids/embodiment-cognitive-limits L85 (+91 body words); review's NEW amended (drop known/unknown gloss, add Yupno clause, add ref 15)
+
 ## 2026-10-26 15:22 UTC - refine-draft
 - **Status**: Success
 - **File**: [plurality-void](/voids/plurality-void/)

@@ -4,7 +4,7 @@ description: "Intellectual life has irreducible phenomenal character: the work o
 created: 2026-01-22
 modified: 2026-10-08
 human_modified: null
-ai_modified: 2026-10-11T23:05:49+00:00
+ai_modified: 2026-10-26T16:20:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -189,7 +189,7 @@ The functionalist argues that "felt difference" just is the difference in functi
 
 [[illusionism|Illusionists]] argue that understanding's phenomenology is introspective illusion. This faces a regress: for understanding to quasi-*seem* a certain way, something must register the quasi-seeming. The chain terminates only when something genuinely seems some way to something. Raymond Tallis sharpens the point: illusions presuppose experience. And careful [[introspection]] intensifies rather than dissolves the phenomenology — illusions dissolve under scrutiny; understanding's phenomenology elaborates.
 
-Those who report genuine insight apply it to novel cases, detect errors, and explain the content. If cognitive phenomenology were confabulation, this coupling would be coincidence; PCT explains it: the phenomenology *is* the understanding.
+Those who report genuine insight apply it to novel cases, detect errors, and explain the content. If cognitive phenomenology were confabulation, this coupling would be coincidence; but the coupling alone would show tracking, not constitution, and [[phenomenal-constitution-thesis|PCT]] makes the further claim that the phenomenology partly constitutes the understanding.
 
 PCT's reach extends beyond first-order knowing. If the phenomenology of grasping partly constitutes the achievement, the felt encounter with closure — the phenomenology of hitting a wall — may partly constitute the second-order recognition *that* a limit exists. The [[epistemology-of-limit-knowledge]] develops this extension: limit-knowledge is not merely evidenced by phenomenology but (plausibly) phenomenally constituted, which shifts the bootstrap problem for knowing one's own limits from a question of introspective access to a question of whether the felt encounter with closure is itself a reliable presentation.
 
