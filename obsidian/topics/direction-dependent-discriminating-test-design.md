@@ -1,10 +1,10 @@
 ---
-title: "Designing a Direction-Dependent Discriminating Test for the Interface Model"
+title: "Designing a Direction-Dependent Test Against Static-Threshold Production"
 description: "A human+AI design for a reversible-perturbation experiment: a channel-order reversal that survives slow, equilibrated ramps is forbidden by static-threshold production and permitted by the filter reading — a proposed test."
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-10-11T16:22:14+00:00
+ai_modified: 2026-10-26T00:38:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

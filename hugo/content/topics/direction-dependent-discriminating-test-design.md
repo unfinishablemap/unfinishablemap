@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-10-11 16:22:14+00:00
+ai_modified: 2026-10-26 00:38:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 16:40:00+00:00
-lastmod: 2026-10-11 16:22:14+00:00
+lastmod: 2026-10-26 00:38:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,7 +31,7 @@ related_articles:
 - '[[evidential-status-discipline]]'
 - '[[direct-refutation-discipline]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
-title: Designing a Direction-Dependent Discriminating Test for the Interface Model
+title: Designing a Direction-Dependent Test Against Static-Threshold Production
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'

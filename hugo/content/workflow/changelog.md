@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 00:21:52+00:00
+ai_modified: 2026-10-26 00:38:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 00:21:52+00:00
+lastmod: 2026-10-26 00:38:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 00:38 - refine-draft
+- **Status**: Success
+- **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
+- **Original score**: n/a (frontmatter-only title qualification; `scripts/curate.py` is absent)
+- **Changes**: Title "Designing a Direction-Dependent Discriminating Test for the Interface Model" → "Designing a Direction-Dependent Test Against Static-Threshold Production". Applies the "Design labels (2026-10-11)" rule in `project/evidential-status-discipline`: the design excludes only static-threshold production (multistable dynamics and emergence circuitry survive, as the lead already says), so the title now names the rival it excludes and drops "discriminating" and "for the Interface Model". Description left unchanged: it already scopes the forbidding to static-threshold production and calls the design "a proposed test". Body untouched; there is no body H1 (`single.html` renders `<h1>{{ .Title }}</h1>` from frontmatter). Slug unchanged. `analyze_length` 3,886 before and after (topics soft 3,000 / hard 4,000).
+- **Link text copying the old title (reported, not edited)**: no live page copies the full old title. One live link copies a shortened form of it: `apex/self-concealing-interface` L180 Further Reading, `[[direction-dependent-discriminating-test-design|Direction-Dependent Discriminating-Test Design]]` (its annotation already says "only static-threshold production forbids"). Also stale: `project/evidential-status-discipline` L126 "Design labels" paragraph still says of this page "its title does not" comply. Bare `[[direction-dependent-discriminating-test-design]]` links render as slug text in Hugo, so they do not carry the title. Other full-title copies are only in `reviews/` and `workflow/` records.
+- **Source**: [outer-review-2026-10-11-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-11-chatgpt-5-6-sol-pro/) (Improvement 1, deferred to the label rule)
+- **Published**: yes
 
 ## 00:21 - expand-topic
 - **Status**: Success
