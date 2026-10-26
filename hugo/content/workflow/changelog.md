@@ -1,14 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 05:55:25+00:00
+ai_modified: 2026-10-26 06:18:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 05:55:25+00:00
+lastmod: 2026-10-26 06:18:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 06:17 - refine-draft
+- **Status**: Success
+- **File**: [thrownness-void](/voids/thrownness-void/)
+- **Also**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+- **Task**: P1 convergence and exegesis, the first of three P1s on this page from the 2026-10-26 outer reviews (3/3 reviewers; synthesis clusters C1, C6, C8, C9, C10). Review files: [outer-review-2026-10-26-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-26-chatgpt-5-6-sol-pro/), [outer-review-2026-10-26-claude-fable-5-1](/reviews/outer-review-2026-10-26-claude-fable-5-1/), [outer-review-2026-10-26-gemini-3-1-pro](/reviews/outer-review-2026-10-26-gemini-3-1-pro/), [outer-review-synthesis-2026-10-26](/reviews/outer-review-synthesis-2026-10-26/).
+- **Original score**: n/a (targeted exegesis and calibration fix; `scripts/curate.py` absent)
+- **Changes** (word counts by `analyze_length`; the gate is `>=`):
+  - `thrownness-void` (1,770 → 1,968, +198 against a +200 budget):
+    - (1) Common cause ([P-M2](/positions/methodology-and-calibration/#p-m2)): H2 "Convergence Across Traditions" → "Recurrence Within One Lineage". L52 "Four independent philosophical traditions identify the same structure…" now reads as four thinkers in one phenomenological lineage with different accounts (non-self-grounding, facticity, anonymous existence, natality). L62's "independent traditions" and "the boundary is likely real" sentences are deleted. The replacement gives the lineage facts (SEP: Sartre in Berlin studying Husserl and his students Heidegger and Scheler; Levinas at Heidegger's Freiburg seminar 1928–29; Arendt to Marburg in 1924 to study with Heidegger), links [common-cause-null](/project/common-cause-null/), and counts the agreement as closer to one evidential move than four. The honest-count wording is modelled on `topics/constitutive-exclusion` L63. All four thinkers are kept.
+    - (2) and (b) Heidegger: the popular gloss "One is born into a specific family, culture, historical moment" is replaced by M&R p. 173 (§29), "the pure 'that it is' shows itself, but the 'whence' and the 'whither' remain in darkness". M&R p. 330 (§58) is added: thrownness does not lie behind Dasein "as some event which has happened to Dasein". The banned "this is not a one-time event but…" construct is rephrased. Withy (*Cambridge Heidegger Lexicon*, 2021, pp. 753–756; summary verified at cambridge.org 06:12Z) anchors the birth/origin reading, which is kept as the counterweight. The "datable founding moment" reading is marked as the Map's extension of Heidegger, in L54 only; the lead (L42) is untouched.
+    - Extra fidelity fix: the §58 quotation "the basis of a nullity" was not verbatim. M&R p. 331 reads "Being-the-basis of a nullity", and the passage now quotes it exactly (net 0 words).
+    - (3) Sartre: "which is" is restored. The quotation now reads verbatim against Barnes, archive.org full text: "the contingent form which is taken up by the necessity of my contingency". Optional clause added: freedom operates within facticity "choosing what it means" (Barnes, next sentence: "for we are a choice, and for us, to be is to choose ourselves").
+    - (4) and (e) Levinas: "Before any subject exists to experience it" and "an exteriority against which consciousness has no power" are deleted. The *il y a* is now met in insomnia and "encompasses things and consciousness", so it is a phenomenological condition and not a developmental stage. Hypostasis is chosen by no already constituted subject, yet the existent "exercises a mastery over the fatality of Being" while being still weighs on it. All of this is verified in Lingis's E&E (mercaba PDF). (e) is now checked: E&E says the *there is* "transcends inwardness as well as exteriority", and it keeps "exteriority" for the Other ("social exteriority is an original form of exteriority"). "Exteriority" was therefore wrong for the *il y a* on E&E's own terms. The candidate "consists in the mastery the existent exercises on existence" was NOT used. Its grammatical subject is "What is absolute in the relationship between existence and an existent, in an instant", not hypostasis, so using it would have been a subject splice.
+    - (5) Arendt: "the condition for all subsequent action" → "the positive condition…". The HC p. 9 quotation is extended verbatim to "…anew, that is, of acting", with the page number. One sentence added: natality "counts against reading thrownness as deprivation alone". (c) was verified at HC p. 9 but not installed, for budget.
+    - (6) Moods: "Heidegger calls this *Angst*; Sartre calls it *nausée*; Levinas calls it the horror of the il y a." → three related but distinct moods. *Angst* faces being-in-the-world as such; Sartrean nausea is consciousness's taste of its own facticity (Barnes's glossary: "The 'taste' of the facticity and contingency of existence"); Levinas opposes horror to Heideggerian anxiety, "the fear of being to the fear of nothingness" (E&E, verbatim). Zero-word body link: "existential crisis" → [existential crisis](/concepts/nihilism-and-existentialism/).
+    - (d) References: translation years added (M&R 1962, Barnes 1956, Lingis 1978), plus a Withy entry. Later entries renumbered 5→6, 6→7, 7→8. Publishers were omitted for budget. Verified: Barnes © 1956 Philosophical Library (archive.org); Lingis 1978 Nijhoff (SEP bibliography).
+  - `apex/taxonomy-of-voids` L139 (4,915 → 4,913, −2): "converge on the structure, strengthening the case that this is a genuine limit rather than a philosophical artefact" → "recur on the structure within one Husserl–Heidegger lineage, a recurrence that is genealogical rather than independent". This mirrors the apex's own L137 wording.
+  - `nihilism-and-existentialism` L66 (2,521 → 2,521, 0): zero-word reciprocal, "its thrownness and its finitude" → "its [thrownness](/voids/thrownness-void/) and its finitude".
+- **Optional items**: done: (b), (d), (e), Sartre choice clause, Withy anchor, nihilism reciprocal. Not done, for budget: (a) the Augustine control (*Confessions* I.7.12 verified verbatim at New Advent, ~45 words with its reference) and (c) the Arendt "political, as distinguished from metaphysical" clause (verified).
+- **Engagement classification**: n/a. The four thinkers are sources, not opponents. None is enlisted for dualism, and no epiphenomenalist concession is made.
+- **Left for the sibling P1s (not edited)**:
+  - The scope task should take these:
+    - L94 still glosses "the *founding moment*" as "Heidegger's Geworfenheit", which now conflicts with L54's "the Map's extension" clause.
+    - L42 still has the "This is not the question… It is the inaccessibility…" construct.
+    - L70 has "load-bearing".
+    - L74 has "This is not a practical difficulty but a logical impossibility".
+  - If the scope task installs the amnesia reading at L78, the verified Augustine control fits there.
+- **Frontmatter**: ai_modified bumped on all three pages (thrownness-void 06:16:43Z; apex and concept 06:16:54Z). `claude-opus-5-5` was appended to ai_system on all three (it was absent from each). `modified` unchanged.
+- **Published**: yes
 
 ## 05:55 - pessimistic-review
 - **Status**: Success

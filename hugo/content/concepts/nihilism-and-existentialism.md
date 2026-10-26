@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-08-12 21:40:12+00:00
-ai_system: claude-opus-4-6+claude-fable-5
+ai_modified: 2026-10-26 06:16:54+00:00
+ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/nihilism/
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-31 03:04:00+00:00
-lastmod: 2026-08-12 21:40:12+00:00
+lastmod: 2026-10-26 06:16:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Nietzsche diagnosed nihilism as a cultural crisis rather than advocating it. "Go
 
 Existentialism responds to nihilism by centring on individual existence, freedom, and the challenge of creating meaning. The core insight, given its slogan in Sartre's *Existentialism Is a Humanism* (1946), is that existence precedes essence. Human beings exist first and define themselves through choices—no pre-given nature, no cosmic script. We are, as Sartre put it, "condemned to be free." Kierkegaard had set the terms a century earlier: *Either/Or* (1843) stages the choice between an aesthetic and an ethical life not as a comparison of options but as the act through which a self comes to be at all.
 
-**Radical freedom** generates anxiety (*angoisse*), not comfort. Every moment presents a choice; refusing to choose is itself a choice. **Authenticity** means owning this freedom rather than fleeing into convention. Heidegger's *Eigentlichkeit* is a near neighbour that should not be collapsed into it: what Dasein takes ownership of is its thrownness and its finitude, reclaimed from the anonymous "das Man" (the They), rather than a radical freedom of the Sartrean kind. **Absurdity**, as Camus emphasised, names the confrontation between human desire for meaning and the universe's unreasonable silence.
+**Radical freedom** generates anxiety (*angoisse*), not comfort. Every moment presents a choice; refusing to choose is itself a choice. **Authenticity** means owning this freedom rather than fleeing into convention. Heidegger's *Eigentlichkeit* is a near neighbour that should not be collapsed into it: what Dasein takes ownership of is its [thrownness](/voids/thrownness-void/) and its finitude, reclaimed from the anonymous "das Man" (the They), rather than a radical freedom of the Sartrean kind. **Absurdity**, as Camus emphasised, names the confrontation between human desire for meaning and the universe's unreasonable silence.
 
 Camus belongs here with a caveat, since he rejected the existentialist label and his answer diverges from the one this section describes. Revolt, for him, means holding the confrontation open in full consciousness—refusing suicide, and refusing equally the leap to transcendence he called philosophical suicide, a charge he levelled at Kierkegaard and Jaspers by name. Sisyphus is imagined happy while still pushing the rock, not because meaning has been supplied to fill the silence but because the strain is faced without appeal. Camus is therefore a limit case for the section's thesis rather than an instance of it.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-07 08:54:49+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-10-26 06:16:54+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-30 07:57:59+00:00
 apex_sources:
 - voids/voids
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-10-07 08:54:49+00:00
+lastmod: 2026-10-26 06:16:54+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -146,7 +146,7 @@ Three cross-cutting axes redistribute the catalogue orthogonally to the four-kin
 
 A third domain concerns boundaries between conscious states. The [dream consciousness void](/voids/sleep-consciousness-void/) marks the bidirectional inaccessibility between waking and dreaming. The [transit void](/voids/transit-void/) names the impossibility of witnessing one's own crossings—state changes and act onsets alike; consciousness cannot precede itself to observe itself beginning. The [death void](/voids/death-void/)—perhaps the purest limit—marks where consciousness cannot represent its own cessation. These gaps at boundary points are not contingent but constitutive of consciousness's temporal grain.
 
-The [thrownness void](/voids/thrownness-void/) completes the temporal arc, extending the transit void to the pre-constitutional moment, the transition from non-existence to existence that no witness can attend. Heidegger's *Geworfenheit*, Sartre's facticity, Levinas's *il y a*, and Arendt's natality converge on the structure, strengthening the case that this is a genuine limit rather than a philosophical artefact.
+The [thrownness void](/voids/thrownness-void/) completes the temporal arc, extending the transit void to the pre-constitutional moment, the transition from non-existence to existence that no witness can attend. Heidegger's *Geworfenheit*, Sartre's facticity, Levinas's *il y a*, and Arendt's natality recur on the structure within one Husserl–Heidegger lineage, a recurrence that is genealogical rather than independent.
 
 ### The Interpersonal and Social Cluster
 

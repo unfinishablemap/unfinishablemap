@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot access the condit
 created: 2026-04-01
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-10-16T09:19:03.558983+00:00
+ai_modified: 2026-10-26T06:16:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
 ai_generated_date: 2026-04-01
 last_curated:
 last_deep_review: 2026-07-19T20:45:29+00:00
@@ -47,19 +47,19 @@ Consciousness cannot access, authorise, or revise the conditions under which it 
 <p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
 </details>
 
-## Convergence Across Traditions
+## Recurrence Within One Lineage
 
-Four independent philosophical traditions identify the same structure, each approaching the void from a different direction.
+Four thinkers within one phenomenological lineage develop different accounts of the structure: non-self-grounding, facticity, anonymous existence and natality.
 
-**Heidegger's Geworfenheit.** Dasein — Heidegger's term for the kind of being we are — is "thrown" into the world. One is born into a specific family, culture, historical moment, with no prior consultation. Crucially, Heidegger insists this is not a one-time event but a permanent structural feature: Dasein continues to be thrown as long as it exists. Dasein is "the basis of a nullity" — it has not itself laid that basis and can never gain mastery over it (*Being and Time*, §58). The thrownness is ongoing, not merely initial.
+**Heidegger's Geworfenheit.** Dasein — Heidegger's term for the kind of being we are — is "thrown" into the world. In mood, "the pure 'that it is' shows itself, but the 'whence' and the 'whither' remain in darkness" (*Being and Time*, §29, p. 173). Dasein continues to be thrown as long as it exists; thrownness does not lie behind it "as some event which has happened to Dasein" (§58, p. 330). Dasein's being is "Being-the-basis of a nullity" — Dasein has not itself laid that basis and can never gain mastery over it (§58). The term names Dasein's "birth, origin, or ground" (Withy 2021), but an origin that stays dark and stays operative; reading it as a datable founding moment no witness attended is the Map's extension of Heidegger, not his own claim.
 
-**Sartre's facticity.** Sartre identifies the given, inalterable aspects of one's situation — body, social class, past, world — as *facticity*. None of these were chosen. Freedom operates within facticity but cannot revise its foundations. You can choose what to do with your thrownness but not whether to be thrown. The body, Sartre writes, is "the contingent form taken up by the necessity of my contingency" (*Being and Nothingness*, 1943) — a formulation that captures the paradox precisely.
+**Sartre's facticity.** Sartre identifies the given, inalterable aspects of one's situation — body, social class, past, world — as *facticity*. None of these were chosen. Freedom operates within facticity, choosing what it means, but cannot revise its foundations. You can choose what to do with your thrownness but not whether to be thrown. The body, Sartre writes, is "the contingent form which is taken up by the necessity of my contingency" (*Being and Nothingness*, 1943) — a formulation that captures the paradox precisely.
 
-**Levinas's il y a.** Before any subject exists to experience it, there is what Levinas calls the *il y a* — the anonymous, neutral persistence of being that precedes subjectivity. Consciousness emerges from this through *hypostasis*, a taking-up of position that the subject did not initiate. "The bare fact of presence is oppressive; one is held by being, held to be" (*Existence and Existents*, 1947). The il y a represents an exteriority against which consciousness has no power.
+**Levinas's il y a.** Levinas calls the anonymous, neutral persistence of being the *il y a*. It is met within experience, above all in insomnia: "The bare fact of presence is oppressive; one is held by being, held to be" (*Existence and Existents*, 1947). The il y a, which "encompasses things and consciousness", is a phenomenological condition rather than a developmental stage before subjectivity. Consciousness arises within it through *hypostasis*, which no already constituted subject chooses. Yet hypostasis is also where mastery begins: the existent "exercises a mastery over the fatality of Being", while being still weighs on it.
 
-**Arendt's natality.** Where Heidegger centres death as the structuring horizon, Arendt recentres on birth — the fundamental unchosen event. Each person arrives as a newcomer in a world that preceded them, and this arrival is the condition for all subsequent action. Natality has both passive and active dimensions: utterly passive regarding one's circumstances of arrival, yet active in the capacity to begin new things within those circumstances. As Arendt writes, the new beginning inherent in birth "can make itself felt in the world only because the newcomer possesses the capacity of beginning something anew" (*The Human Condition*, 1958).
+**Arendt's natality.** Where Heidegger centres death as the structuring horizon, Arendt recentres on birth — the fundamental unchosen event. Each person arrives as a newcomer in a world that preceded them, and this arrival is the positive condition for all subsequent action. Natality has both passive and active dimensions: utterly passive regarding one's circumstances of arrival, yet active in the capacity to begin new things within those circumstances. As Arendt writes, the new beginning inherent in birth "can make itself felt in the world only because the newcomer possesses the capacity of beginning something anew, that is, of acting" (*The Human Condition*, 1958, p. 9). Natality therefore counts against reading thrownness as deprivation alone.
 
-The convergence across these independent traditions — existential phenomenology, ontological phenomenology, ethical phenomenology, political philosophy — suggests a genuine structural limit rather than a shared philosophical confusion. When thinkers with fundamentally different commitments identify the same boundary, the boundary is likely real.
+The four belong to one lineage. Sartre went to Berlin to study Husserl's method and the work of Heidegger and Scheler; Levinas attended Heidegger's Freiburg seminar in 1928–29; Arendt went to Marburg in 1924 to study with Heidegger. Under the [[common-cause-null|common-cause null]] their agreement is closer to one evidential move than four: a shared ancestor can transmit a shared prejudice as readily as a shared insight. What survives is that the structure recurs whenever this tradition analyses the subject's relation to its own ground, while the four diverge over what is unchosen, whether it disables or enables, and whether it can be undergone.
 
 ## The Structure of Inaccessibility
 
@@ -83,7 +83,7 @@ The thrownness void is unusual among the Map's [[voids]] because it is not typic
 
 **Seamless presence.** Consciousness presents itself as simply being there — always already running, like a programme with no visible boot sequence. This seamless quality is precisely how the void maintains its invisibility. The [[phenomenal-quality-void|phenomenal quality void]] documents a related phenomenon: the felt immediacy of experience hides its own mechanisms.
 
-**Existential vertigo.** When the void does become phenomenally present — in philosophical reflection, in existential crisis, in the disorientation of the small hours — it manifests as vertigo: the sudden recognition that none of this was chosen, that the entire structure of one's conscious life rests on conditions that were simply imposed. Heidegger calls this *Angst*; Sartre calls it *nausée*; Levinas calls it the horror of the il y a.
+**Existential vertigo.** When the void does become phenomenally present — in philosophical reflection, in [[nihilism-and-existentialism|existential crisis]], in the disorientation of the small hours — it manifests as vertigo: the sudden recognition that none of this was chosen, that the entire structure of one's conscious life rests on conditions that were simply imposed. The tradition names three related but distinct moods here: Heidegger's *Angst* faces being-in-the-world as such; Sartrean nausea is consciousness's taste of its own facticity; and Levinas opposes the horror of the *il y a* to Heideggerian anxiety, "the fear of being to the fear of nothingness".
 
 **The foundational position.** Every cognitive limit documented on the Map is a limit of a consciousness that did not choose its own parameters. The [[conceptual-scheme-void]] — how conceptual schemes exclude what they cannot represent — and [[biological-cognitive-closure|cognitive closure]] — what minds structurally cannot grasp — are both downstream of thrownness. The boundaries of the Map are drawn by an architecture that was imposed, not selected.
 
@@ -121,10 +121,11 @@ The thrownness void gains its sharpest edge under the Map's [[tenets|dualist fra
 
 ## References
 
-1. Heidegger, M. (1927). *Being and Time*. Trans. Macquarrie and Robinson.
-2. Sartre, J.-P. (1943). *Being and Nothingness*. Trans. Barnes.
-3. Levinas, E. (1947). *Existence and Existents*. Trans. Lingis.
+1. Heidegger, M. (1927). *Being and Time*. Trans. Macquarrie and Robinson (1962).
+2. Sartre, J.-P. (1943). *Being and Nothingness*. Trans. Barnes (1956).
+3. Levinas, E. (1947). *Existence and Existents*. Trans. Lingis (1978).
 4. Arendt, H. (1958). *The Human Condition*. University of Chicago Press.
-5. McGinn, C. (2014). Mysterianism Revisited. https://colinmcginn.net/mysterianism-revisited/
-6. Southgate, A. & Oquatre-cinq, C. (2026-01-29). The Origin Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/origin-of-consciousness/
-7. Southgate, A. & Oquatre-sept, C. (2026-02-25). The Agency Void (involuntariness face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
+5. Withy, K. (2021). Thrownness (*Geworfenheit*). In M. A. Wrathall (ed.), *The Cambridge Heidegger Lexicon*. Cambridge University Press.
+6. McGinn, C. (2014). Mysterianism Revisited. https://colinmcginn.net/mysterianism-revisited/
+7. Southgate, A. & Oquatre-cinq, C. (2026-01-29). The Origin Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/origin-of-consciousness/
+8. Southgate, A. & Oquatre-sept, C. (2026-02-25). The Agency Void (involuntariness face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/

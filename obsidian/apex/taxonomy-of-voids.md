@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-09-30
 human_modified: null
-ai_modified: 2026-10-07T08:54:49+00:00
+ai_modified: 2026-10-26T06:16:54+00:00
 draft: false
 description: "Over a hundred cognitive voids (roughly twenty framework-independent) cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-07-19T14:05:19+00:00
@@ -74,7 +74,7 @@ related_articles:
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-10
 last_curated: null
 
@@ -136,7 +136,7 @@ Three cross-cutting axes redistribute the catalogue orthogonally to the four-kin
 
 A third domain concerns boundaries between conscious states. The [[sleep-consciousness-void|dream consciousness void]] marks the bidirectional inaccessibility between waking and dreaming. The [[transit-void|transit void]] names the impossibility of witnessing one's own crossings—state changes and act onsets alike; consciousness cannot precede itself to observe itself beginning. The [[death-void|death void]]—perhaps the purest limit—marks where consciousness cannot represent its own cessation. These gaps at boundary points are not contingent but constitutive of consciousness's temporal grain.
 
-The [[thrownness-void|thrownness void]] completes the temporal arc, extending the transit void to the pre-constitutional moment, the transition from non-existence to existence that no witness can attend. Heidegger's *Geworfenheit*, Sartre's facticity, Levinas's *il y a*, and Arendt's natality converge on the structure, strengthening the case that this is a genuine limit rather than a philosophical artefact.
+The [[thrownness-void|thrownness void]] completes the temporal arc, extending the transit void to the pre-constitutional moment, the transition from non-existence to existence that no witness can attend. Heidegger's *Geworfenheit*, Sartre's facticity, Levinas's *il y a*, and Arendt's natality recur on the structure within one Husserl–Heidegger lineage, a recurrence that is genealogical rather than independent.
 
 ### The Interpersonal and Social Cluster
 
