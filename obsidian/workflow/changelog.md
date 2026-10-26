@@ -4,6 +4,14 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-26T15:42:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Cross-cultural spatial construals of time (Aymara, Yupno, Mandarin)
+- **Output**: [[research/cross-cultural-spatial-construals-of-time-2026-10-26]]
+- **Sources consulted**: 12 (abstracts verified at Crossref/PubMed; Boroditsky 2001 full text)
+- **Verdict**: fold into voids/embodiment-cognitive-limits L85 (+91 body words); review's NEW amended (drop known/unknown gloss, add Yupno clause, add ref 15)
+
 ## 2026-10-26 15:22 UTC - refine-draft
 - **Status**: Success
 - **File**: [[voids/plurality-void]]
