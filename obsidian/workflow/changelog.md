@@ -1,9 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T01:40:50+00:00
+ai_modified: 2026-10-26T02:00:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/cross-state-void]]
+- **Original score**: n/a (targeted carried-items pass; `scripts/curate.py` is absent)
+- **Review file**: `reviews/pessimistic-2026-10-11-cross-state-void.md` (Issue 6, carried off-list). The 2026-10-24 00:23Z edit was only the zero-word Ulysses-contracts pipe at L75, so every Issue 6 string still matched; each old string was grep-verified at count 1 before editing.
+- **Changes** (old → new):
+  - Issue 6 #1 (L39, classification): "the void is Unexplorable from the cold side with an Occluded element, because the cold simulation feels adequate from within" → "the void is closed to the cold side but open to re-entry, a state-indexed limit rather than a fixed closure". This drops McGinn-style Unexplorable, which fits badly with a state re-entered daily, and the unsourced "feels adequate from within". Naturally Occluded was declined because it would need an evolutionary claim the article does not make.
+  - Issue 6 #1/#2 with Issue 4.6 (concealment): L39 "It conceals itself:" → "It survives disclosure:". Heading "The Gap Hides Itself" → "The Gap Survives Disclosure" (no inbound `cross-state-void#` anchors anywhere). L57 "A limit that announced itself" → "A limit that yielded to disclosure". L57 "the cold mind's simulation returns a verdict and no marker that a component is missing" → "the cold mind can notice, as Morley's subjects did, that the state is not re-felt, but the failed correction suggests it cannot gauge the shortfall". The new clause is hedged, and Morley's reported absence is now conceded.
+  - Issue 6 #3 (L45, Morley): "Event, intensity rating and felt quality are" → "The event memory, the pain's sensory and affective qualities and its somatosensory component are". This was checked against the OpenAlex abstract's conclusion sentence. "One retrieves that it was a bad episode, and not what made it bad." → "One can retrieve the episode, and often its quality, without re-experiencing it." (59% recalled the sensory quality, and no subject reported re-experiencing.)
+  - Issue 6 #4 (L67, Kang & Camerer), the review's exact optional string: "engaged insula and amygdala more than hypothetical ones" → "showed more value-sensitive insula and amygdala activity than hypothetical ones".
+  - Issue 6 #5 (L71, authority split): "Because neither state sees the other whole, the void splits authority, and not the same way in every domain." → "The void splits authority, and how depends on whether authority means accuracy or endorsement." Also "Here the hot state was the accurate one. Addiction runs the other way: the cold planner's verdict…" → "Here the hot state was the accurate one; in Sayette's study only the cold group underpredicted. Endorsement can run the other way: in addiction the cold planner's verdict…". Checked against the Sayette abstract: "in contrast to smokers in the hot group, smokers in the cold group underpredicted".
+  - Issue 6 #6 (L95, Mary): "The Map interprets this as the [[knowledge-argument]]'s structure inside one life: the cold self is a Mary who has seen red and cannot see it now." → "The Map relates this to the [[knowledge-argument]]: the cold self is a Mary who has seen red and cannot re-instantiate it, a datum the ability hypothesis reads equally well." Lewis is not named, to avoid a second unreferenced author. The knowledge-argument page covers the ability hypothesis.
+  - Issue 6 #7 (L83): "sets a floor under that article's claim" → "limits that article's claim". The existing clause ("inherits the projection bias by construction") already carries the review's underlying point, so no sentence was added.
+  - Issue 6 #8 (L97, Occam): "is always the simpler one" → "is usually the simpler one". "Simplicity here tracks the vantage point, not the facts." → "Simplicity is judged here on incomplete data." This puts the error in missing data, which is the tenet's own case.
+  - Issue 6 #9 (L57, Evaluating Eve): "a cold evaluator condemns lapses that the same evaluator, in the state, would understand" → "cold evaluators judge lapses less favourably than evaluators in the state do". This is a between-subjects design, per the abstract's "less favorable evaluations".
+  - Issue 6 #10 (L93): "crosses and changes nothing" → "crosses and changes little".
+  - Task (2) (L47, Hume): "The dissociation suggests a difference in kind, since the intensity judgement can match while the weight is absent;" → "Morley's dissociation suggests a difference in kind, since the quality could be recalled without being re-experienced;". This no longer leans on the matched-ratings reading that 1b gave up, and the "this article's reading, not Hume's" fence is kept.
+  - Task (3) (L65): "Three features of their finding" → "Three features of the finding and its context".
+  - Task (4) (References): added "11. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198717959.001.0001", verified at Crossref (type monograph; author L. A. Paul; publisher Oxford University Press; issued 2014-11-06; ISBN 9780198717959). The DOI resolves (302) to academic.oup.com/book/7934. Radden through Southgate were renumbered 12–18. Body citations are author-year, so nothing else changed.
+  - Engagement with the ability-hypothesis physicalist (L95): Mode Three. The datum is marked as read equally well by both sides, not as a refutation.
+- **Length** (`analyze_length`; voids soft 2,000 / hard 3,000; gate `>=`): 2,952 → 2,983 (+31, of which the Paul entry is +10). 16 words of headroom remain.
+- **Frontmatter**: ai_modified was set to 2026-10-26T02:00:28+00:00. ai_system already ended in `claude-opus-5-5`, so it was left unchanged. `modified` was left unchanged.
+- **Reported, not edited (out of scope)**:
+  - `voids/voids.md` L304 still calls the void "self-concealing" (downstream of the L39 change). It would be a length-neutral swap on a critical-length file.
+  - `voids/three-kinds-of-void` L97 places the void in the operation-void family as "occluded at the readout … unexplorable at the operation". This pass did not touch that family claim.
+  - The `valence-void` L106 caveat stays a separate task.
+- **Published**: yes
 
 ## 01:40 - refine-draft
 - **Status**: Success
