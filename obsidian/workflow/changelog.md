@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T04:49:24+00:00
+ai_modified: 2026-10-26T05:04:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:04 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro ("Pro High", Deep Research; `gemini-3-1-pro`), collected by collect-gemini-review. Commissioned at 04:25:36Z; it was ready on the first collect attempt (04:53Z). Subject: `voids/thrownness-void` (reuse of the ChatGPT subject). With this, all three 2026-10-26 entries in pending-reviews.yaml are `collected` and all three review files are `processed`, so combine-outer-reviews can fire.
+- **File**: [[reviews/outer-review-2026-10-26-gemini-3-1-pro]]
+- **Extraction**: the report was the only `h1`-bearing `.markdown-main-panel` (one of three). It walked to 29,911 characters and was read out in 800-character chunks. A whitespace-normalised hash of the written body matches the in-page string exactly. It ends with the required five-weakness list and the readiness verdict. The panel had 0 hyperlinks.
+- **Claims verified**: 13. Crossref/OpenAlex: Kammerer 2021 (*Synthese* 198:845–866) ✓; Kammerer 2022 (*Phil Stud* 179:2845–2867) ✓; Seth & Hohwy 2020 ✗ (Gemini has the author order and pages wrong; it is a 2-page editorial); Bogotá & Djebbara 2023 ✗ (exists, but it is about Husserlian flow in active inference, not onset); "Mastrogiorgio & Gallagher" ✗ (it is Petracca & Gallagher 2025, *J. Inst. Econ.*, on norms). Withy, *Cambridge Heidegger Lexicon* (2021), at cambridge.org, as a counterweight; Schwarz's blog on Kammerer's 2021 *Erkenntnis* paper. Internal: Merleau-Ponty (0 hits on the page, never in its git history); the retention-protention correction is present on the page; the "Starting with dualism…" quote paraphrases `index.md` L39; "denying the surplus" occurs in 0 corpus files.
+- **Disputed**: 8. The page-scoping errors (Merleau-Ponty, retention-protention, quotes imported from the homepage and sibling voids, the phenomenal-certainty/Moorean framing, "immediately attributes" to dualism), three mis-cited or off-target sources, and two unsourced labels ("Designed Certainty"; "not an abrupt vertical fall into existence").
+- **High-value findings**: 0 new; 6 concur with the blocked tasks. Annotated "GEMINI CONCURS" on the four blocked thrownness tasks: (1) the P1 convergence task (Heidegger's thrownness is ongoing, plus an over-correction guard citing Withy's "birth, origin, or ground" gloss); (2) the P1 scope task (no withdrawal condition; graded onset; the PP form of the analytic point; ADD-ON (10): a zero-word [[self-opacity]] link on "Seamless presence", carrying Claude C13, which was never tasked); (3) the P2 tenet-section task (presupposition; PCS as a link option only); (4) the P2 Tenet 5 task (PP as an optional second mechanism; do not cite Seth & Hohwy or Bogotá & Djebbara). The convergence sweep task is not annotated: Gemini raised nothing on lineage.
+- **Tasks generated**: 0. All five 2026-10-26 thrownness-cycle tasks stay `blocked` until combine.
+- **Declined**: phenomenal structuralism; the Zahavi/Northoff naturalisation of Husserl (premised on the retention-protention misreading); Merleau-Ponty (absent from the page); illusionism as a reply to phenomenal certainty (the page makes no such argument); the socially extended mind beyond graded onset.
+- **Pipeline observation**: the Gemini prompt's one-2020–2025-source-per-weakness quota seems to induce citation padding. Three of five sources were mis-cited or off-target, and the two correct ones answer an argument the page does not make. Recorded in the review's Verification Notes; no task minted.
+- **Calibration**: the data fit the framework without evidencing it, so physicalist accommodation is recorded as accommodation. No epiphenomenalism concession. The Tenet 3 quantifier is untouched (P-Q2 is a HUMAN DECISION). P-M2 convergence = one observation. No author is enlisted for dualism.
 
 ## 04:49 - outer-review
 - **Status**: Success
