@@ -5,6 +5,19 @@ ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-26 13:06 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 2026-10-25 21:10 run. Abandoned (steady state; the 16th+ consecutive no-op recorded against the standing todo entry at ~L125).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: topics 366/370 (98.9%), concepts 368/370 (99.5%, up from 366 — two additions since the last run, `concepts/basic-argument-and-constitutive-luck` and `concepts/interpretive-sensory-access-theory`, both inside the 30-day floor), voids 113/125 (90.4%). Sidecars (`*.refinement-log.md`) and section index files excluded before any pairwise arithmetic; no removals or renames (`--diff-filter=ADR`).
+- **Arithmetic** (`tools.curate.length.analyze_length`, pair fits if summed `word_count` < hard; hard = topics 4000 / concepts 3500 / voids 3000): topics 365 live articles, smallest 1990 + 2112 = 4102 → **0 fitting pairs**; voids 113, smallest 1530 + 1732 = 3262 → **0**; concepts 368 → **136 fitting pairs** (down from 280 on 09-21 and 395 on 09-19 — the pool keeps receding as small articles grow under review).
+- **Judgement gate on concepts** ("does any affordable pair link to each other without a Versus marker between them"): exactly three affordable pairs are body-linked in either direction, every one disqualified —
+  - `phenomenal-depth` (1475, ai_modified 09-25) + `phenomenal-presentation` (1572, 07-27) = 3047: still deleted by the inverted-overlap rule — presentation L54 is a dedicated `**Versus [[phenomenal-depth]].**` subsection ("depth concerns layered structure, presentation concerns givenness"). Depth also grew 1313 → 1475 since 09-21.
+  - `adaptive-computational-depth` (1950) + `phenomenal-depth` = 3425: NEW since the record, but ACD `ai_modified` 2026-10-24 (2 days; fails the 30-day floor), the link is one-directional (depth L72 → ACD, inside a contemplative-training paragraph), and the two describe different things (a reality-allocation thesis vs the layered richness of experience).
+  - `causal-powers` (2114, ai_modified 10-07, 19 days) + `mind-arena` (1380) = 3494: 5 words under the usable ceiling before any merge overhead; `causal-powers` carries an open task (todo L2768 `File:` line); and the pair is general-metaphysics vs its Map-specific application, the role-granularity error already recorded on 09-21. `mind-arena` also carries three `Versus` subsections (L55/57/59).
+- **Tag-only pairs examined** (shared frontmatter tags, no body link in either direction): `perception` (1671) + `phenomenal-presentation` = 3243 and + `phenomenal-depth` = 3146 — 7 and 6 shared tags, zero cross-mentions; `perception` is a general survey (direct/indirect realism, dissociations, binding, non-visual modalities) while the other two are narrow phenomenological terms, so a merge would invent a connection. `content-externalism` (1959, ai_modified 10-21, 5 days) + `status-of-content` (1497) = 3456: 43 words of headroom, open P3 on externalism L48 (todo L2285), no cross-mention, and Boghossian/Devitt-Rey vs Putnam/Burge twin-earth are different arguments.
+- **Review debt**: open section of `todo.md` (above `## Completed Tasks`, L3406) grepped for every candidate slug; `causal-powers` and `content-externalism` have live file-targeting tasks, the others only appear inside the coalesce record itself.
+- **Files changed**: this entry and a four-line dated delta appended to the standing coalesce NEEDS-HUMAN record in `obsidian/workflow/todo.md`. No article edited, no fork spawned, no merge.
+
 ## 2026-10-26 12:54 - cross-review
 - **Status**: Success
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]

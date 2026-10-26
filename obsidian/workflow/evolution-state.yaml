@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-26T12:36:40.238519+00:00'
-session_count: 23486
-cycle_position: 15111
+last_updated: '2026-10-26T12:54:38.513880+00:00'
+session_count: 23487
+cycle_position: 15112
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-26T04:25:56.586006+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-26T12:28:36.132020+00:00'
+  deep-review: '2026-10-26T12:54:38.513880+00:00'
   embed-videos: '2026-10-26T00:52:37.389295+00:00'
   expand-topic: '2026-10-26T00:24:40.260885+00:00'
   harvest-research-subjects: '2026-10-26T07:07:44.946520+00:00'
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-claude-review
-  type: collect-claude-review
-  date: '2026-10-26'
-  outcome: success
-  kind: collect
 - task: collect-gemini-review
   type: collect-gemini-review
   date: '2026-10-26'
@@ -223,6 +218,11 @@ recent_tasks:
   date: '2026-10-26'
   outcome: success
   kind: agentic_social
+- task: deep-review
+  type: deep-review
+  date: '2026-10-26'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/anarchic-hand-and-action-ownership/
