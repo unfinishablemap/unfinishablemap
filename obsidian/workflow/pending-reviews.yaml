@@ -26,3 +26,33 @@
   subject_articles:
   - voids/thrownness-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/0b38c672-c63b-45b4-9ed4-732fea20db73
+  commissioned_at: '2026-10-26T03:10:36.317651+00:00'
+  prompt_summary: 'Audit voids/thrownness-void: claims, citations, counterarguments,
+    integration'
+  target_filename: outer-review-2026-10-26-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair referee for The Unfinishable Map
+    (https://unfinishablemap.org), a philosophy site committed to interactionist dualism.
+    Audit one article: https://unfinishablemap.org/voids/thrownness-void/ (last substantively
+    modified 2026-10-16). Read the site changelog at https://unfinishablemap.org/workflow/changelog/
+    first, since recent edits may postdate search indexes. Verify each citation: that
+    the work exists, says what the article attributes to it, and is credited to the
+    right originator, including its readings of Heidegger, Sartre, Levinas and Arendt.
+    Test whether its "convergence across independent traditions" argument holds, given
+    how these thinkers influenced one another, and whether the central claim, that
+    consciousness cannot access the conditions of its own onset, is a substantive
+    structural limit or a near-tautology presented as a void. Identify the strongest
+    objections it omits or brackets to protect the site''s tenets, flag overclaims
+    by quoting the sentence at issue, and assess its integration with neighbouring
+    void articles. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit thrownness-void
+  subject_articles:
+  - voids/thrownness-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-26-chatgpt-5-6-sol-pro.md
