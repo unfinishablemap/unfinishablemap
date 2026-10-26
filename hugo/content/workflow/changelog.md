@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 21:21:43+00:00
+ai_modified: 2026-10-26 22:35:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 21:21:43+00:00
+lastmod: 2026-10-26 22:35:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-26T22:35:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [process-philosophy](/concepts/process-philosophy/)
+- **Original score**: n/a (two-edit targeted task; rider from optimistic-2026-10-13-process-wing Priority 4, basis at its L169)
+- **Changes**: (1) Zero-word piped link on the first body mention of prehension in "Prehension and Experience" (L48): `"prehension"` → `"[[prehension|prehension]]"`, quotation marks and sentence otherwise untouched; the section previously had no body link (the two prior `[[prehension` hits were the frontmatter concepts entry L20 and the Related list L176). (2) L126 recast per the rider so the quantum interface is the Map's proposal carrying the mechanism debt, not an explanation it has discharged: "explains why rocks lack experience … (quantum processes provide that interface)" → "proposes an account of why rocks lack experience … (quantum processes would provide that interface)—a proposal that still carries the [mechanism debt](/positions/quantum-interface/#mechanism-debt)." Anchor confirmed at positions/quantum-interface.md L79 (`^mechanism-debt`); the path-qualified piped form matches 194 existing corpus uses. No toy-model claim added; Griffin sentence untouched (opens with its own subject, no pronoun dependency); "brains have it" still binds to experience. Regnant-occasion material and everything else left alone (open P3 folds it into B1). Length 2,461 → 2,472 words (concepts band 2500/3500/5000, status ok, +11 ≈ the rider's +10). ai_system already contained claude-fable-5-1; not appended.
+- **Published**: yes
 
 ## 2026-10-26T22:22:20+00:00 - refine-draft
 - **Status**: Success

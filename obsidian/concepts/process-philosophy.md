@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-10-24T07:55:39+00:00
+ai_modified: 2026-10-26T22:35:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ This dissolves the apparent gap between mind and matter. Consciousness isn't a s
 
 ### Prehension and Experience
 
-Whitehead introduced "prehension" to describe how each actual occasion takes account of prior occasions. Every event "prehends" (grasps, includes) its predecessors—not by mechanically receiving causal influences but by incorporating them into its own constitution. The past doesn't push events from behind; events actively integrate the past into novel unities.
+Whitehead introduced "[[prehension|prehension]]" to describe how each actual occasion takes account of prior occasions. Every event "prehends" (grasps, includes) its predecessors—not by mechanically receiving causal influences but by incorporating them into its own constitution. The past doesn't push events from behind; events actively integrate the past into novel unities.
 
 Crucially, Whitehead denied "vacuous actuality"—the idea of utterly non-experiential matter. Every actual occasion involves some form of experience, however primitive. This is Whitehead's [[panpsychism|panpsychism]]: not that electrons have rich inner lives, but that experiential taking-account-of is fundamental to reality.
 
@@ -123,7 +123,7 @@ Despite affinities, process philosophy sits uneasily with some of the Map's comm
 
 The Map prefers interactionist dualism: consciousness is distinct from matter but interacts with it via quantum indeterminacy. Process philosophy dissolves this distinction—experience *is* the intrinsic nature of actuality, not a separate category interacting with it. Whitehead's own verdict is explicit: his critique of the [[galilean-exclusion|bifurcation of nature]] in *The Concept of Nature* (1920, ch. II) refuses "any theory of psychic additions to the object known in perception", and a view that relocates experienced quality into a distinct mind interacting with matter is, in his terms, a bifurcation theory — interactionist dualism included.
 
-This matters practically. The Map's framework explains why rocks lack experience (no interface for consciousness to engage with matter) while brains have it (quantum processes provide that interface). Process philosophy denies experience to the rock as a subject—Griffin classes sticks and stones as "aggregational societies devoid of a dominant member", whose "whole" is "nothing more than the sum of its parts" (1998, p. 181)—but must still attribute primitive experience to its constituents, which many find counterintuitive.
+This matters practically. The Map's framework proposes an account of why rocks lack experience (no interface for consciousness to engage with matter) while brains have it (quantum processes would provide that interface)—a proposal that still carries the [[positions/quantum-interface#^mechanism-debt|mechanism debt]]. Process philosophy denies experience to the rock as a subject—Griffin classes sticks and stones as "aggregational societies devoid of a dominant member", whose "whole" is "nothing more than the sum of its parts" (1998, p. 181)—but must still attribute primitive experience to its constituents, which many find counterintuitive.
 
 ### The Quantum Connection
 
