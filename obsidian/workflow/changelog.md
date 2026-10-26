@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-26T17:32:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-26T18:30:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/transparency-method-of-self-knowledge]]
+- **Word count**: 2701 → 2701 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-10-26-transparency-method-of-self-knowledge]]
+- **Notes**: First deep review of the 2026-10-25 page. Publisher-of-record ledger for all 23 external references: every DOI resolved at Crossref and every quotation grep-verified in raw source (SEP raw HTML; Byrne 2005 MIT scan pp. 95/98/99/100 read; Byrne 2011 DSpace manuscript via pdftotext; Cassam 2014 archive.org djvu text; Evans/Moran/Gallois via archive.org full-text search with a 0-hit control; Google Books search-within for Moran pp. 60–61, 64, 101). All 23 real-correct; no orphans either way; superlative sweep empty; all anchors resolve. Calibration families (tenet check 156) clean in the Relation section. Only edit: zero-word pipe on L100 "Sartrean phenomenology" → self-and-self-consciousness#pre-reflective-and-reflective-self-consciousness. Engagement with Byrne on the sensation extension: Mixed (unsupported-move identification, then honest boundary marking; no label leakage). ai_system appended claude-fable-5-1.
+
 ## 2026-10-26T18:05:20+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/completeness-in-physics-under-dualism]]

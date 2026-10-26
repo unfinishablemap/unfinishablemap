@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-10-25 22:02:01+00:00
-ai_system: claude-opus-5-5
+ai_modified: 2026-10-26 18:30:38+00:00
+ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[self-blindness]]'
@@ -20,7 +20,8 @@ description: 'Evans''s outward-looking route to knowing one''s own beliefs, its 
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-25 22:02:01+00:00
+last_deep_review: 2026-10-26 18:30:38+00:00
+lastmod: 2026-10-26 18:30:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +102,7 @@ Nor does the method rule out what [contemplatives](/concepts/contemplative-epist
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism).** The method fits the Map without evidencing its first tenet. Physicalists hold it, and Byrne writes that the phrase "self-knowledge" "has a suspicious Cartesian flavor", suggesting a non-physical self, and keeps it only because the terminology is entrenched (2011, §1). Every author discussed here is cited for an account of self-knowledge, not as an ally of dualism; Boyle's nonpositional self-awareness is Sartrean phenomenology, not a claim about substance. The tenet's interest is calibration: the method marks off the part of self-knowledge that dualism cannot claim, and the dispute that remains, over phenomenal character, is the one the Map already conducts with first-order representationalism, which it resists without defeating.
+**[Dualism](/tenets/#dualism).** The method fits the Map without evidencing its first tenet. Physicalists hold it, and Byrne writes that the phrase "self-knowledge" "has a suspicious Cartesian flavor", suggesting a non-physical self, and keeps it only because the terminology is entrenched (2011, §1). Every author discussed here is cited for an account of self-knowledge, not as an ally of dualism; Boyle's nonpositional self-awareness is [Sartrean phenomenology](/concepts/self-and-self-consciousness/#pre-reflective-and-reflective-self-consciousness), not a claim about substance. The tenet's interest is calibration: the method marks off the part of self-knowledge that dualism cannot claim, and the dispute that remains, over phenomenal character, is the one the Map already conducts with first-order representationalism, which it resists without defeating.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Moran's deliberative stance treats the subject as the author of her attitudes, which suits the Map's interest in agency without evidencing the tenet: the account is normative and epistemic and makes no causal claim. Nor does the method's being an inferential or functional transition bear on whether experience is causally idle; it lends no support to [epiphenomenalism](/concepts/epiphenomenalism/).
 
