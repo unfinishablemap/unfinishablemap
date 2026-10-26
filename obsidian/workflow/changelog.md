@@ -5,6 +5,14 @@ ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-26T13:56:58+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Gurwitsch's thematic field and the margin of consciousness
+- **Output**: [[research/gurwitsch-thematic-field-2026-10-26]]
+- **Sources consulted**: 14 (Zaner 2010 editorial introduction and 2010 TOC read verbatim from the Springer front-matter PDF; Embree 1985 via Google Books search-within; SEP "Attention"; Arvidson 2006 front matter; Crossref / OpenAlex / Europe PMC metadata for the rest)
+- **Verdict**: `fold` into `voids/attention-and-consciousness` L51 (150–220 words) plus a 20–40 word `refine-draft` on `voids/tacit-integration-void` L65; no concept page. Chain mints nothing for `fold`; driver to hand-mint.
+- **Fidelity finding**: "making the margin thematic creates a new margin" is an entailment of Gurwitsch's relational definition of the margin and the three marginal constants, not a located sentence; margin is organised but not by relevancy; James critique verified at the editorial level (Zaner 2010: xxvi–xxvii; FC Part Five ch. I §I). Three quotations in the 01-29 note remain unverified.
+
 ## 2026-10-26 13:06 - coalesce
 - **Task**: coalesce cycle slot. Delta check since the 2026-10-25 21:10 run. Abandoned (steady state; the 16th+ consecutive no-op recorded against the standing todo entry at ~L125).
 - **Status**: SUCCESS (no candidate)

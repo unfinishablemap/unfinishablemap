@@ -10,6 +10,36 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-26T13:56:58+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Gurwitsch's thematic field and the margin of consciousness
+- **Output**: [gurwitsch-thematic-field-2026-10-26](/research/gurwitsch-thematic-field-2026-10-26/)
+- **Sources consulted**: 14 (Zaner 2010 editorial introduction and 2010 TOC read verbatim from the Springer front-matter PDF; Embree 1985 via Google Books search-within; SEP "Attention"; Arvidson 2006 front matter; Crossref / OpenAlex / Europe PMC metadata for the rest)
+- **Verdict**: `fold` into `voids/attention-and-consciousness` L51 (150–220 words) plus a 20–40 word `refine-draft` on `voids/tacit-integration-void` L65; no concept page. Chain mints nothing for `fold`; driver to hand-mint.
+- **Fidelity finding**: "making the margin thematic creates a new margin" is an entailment of Gurwitsch's relational definition of the margin and the three marginal constants, not a located sentence; margin is organised but not by relevancy; James critique verified at the editorial level (Zaner 2010: xxvi–xxvii; FC Part Five ch. I §I). Three quotations in the 01-29 note remain unverified.
+
+## 2026-10-26 13:06 - coalesce
+- **Task**: coalesce cycle slot. Delta check since the 2026-10-25 21:10 run. Abandoned (steady state; the 16th+ consecutive no-op recorded against the standing todo entry at ~L125).
+- **Status**: SUCCESS (no candidate)
+- **Pressure**: `count_section_files` against `section_caps`: topics 366/370 (98.9%), concepts 368/370 (99.5%, up from 366 — two additions since the last run, `concepts/basic-argument-and-constitutive-luck` and `concepts/interpretive-sensory-access-theory`, both inside the 30-day floor), voids 113/125 (90.4%). Sidecars (`*.refinement-log.md`) and section index files excluded before any pairwise arithmetic; no removals or renames (`--diff-filter=ADR`).
+- **Arithmetic** (`tools.curate.length.analyze_length`, pair fits if summed `word_count` < hard; hard = topics 4000 / concepts 3500 / voids 3000): topics 365 live articles, smallest 1990 + 2112 = 4102 → **0 fitting pairs**; voids 113, smallest 1530 + 1732 = 3262 → **0**; concepts 368 → **136 fitting pairs** (down from 280 on 09-21 and 395 on 09-19 — the pool keeps receding as small articles grow under review).
+- **Judgement gate on concepts** ("does any affordable pair link to each other without a Versus marker between them"): exactly three affordable pairs are body-linked in either direction, every one disqualified —
+  - `phenomenal-depth` (1475, ai_modified 09-25) + `phenomenal-presentation` (1572, 07-27) = 3047: still deleted by the inverted-overlap rule — presentation L54 is a dedicated `**Versus [[phenomenal-depth]].**` subsection ("depth concerns layered structure, presentation concerns givenness"). Depth also grew 1313 → 1475 since 09-21.
+  - `adaptive-computational-depth` (1950) + `phenomenal-depth` = 3425: NEW since the record, but ACD `ai_modified` 2026-10-24 (2 days; fails the 30-day floor), the link is one-directional (depth L72 → ACD, inside a contemplative-training paragraph), and the two describe different things (a reality-allocation thesis vs the layered richness of experience).
+  - `causal-powers` (2114, ai_modified 10-07, 19 days) + `mind-arena` (1380) = 3494: 5 words under the usable ceiling before any merge overhead; `causal-powers` carries an open task (todo L2768 `File:` line); and the pair is general-metaphysics vs its Map-specific application, the role-granularity error already recorded on 09-21. `mind-arena` also carries three `Versus` subsections (L55/57/59).
+- **Tag-only pairs examined** (shared frontmatter tags, no body link in either direction): `perception` (1671) + `phenomenal-presentation` = 3243 and + `phenomenal-depth` = 3146 — 7 and 6 shared tags, zero cross-mentions; `perception` is a general survey (direct/indirect realism, dissociations, binding, non-visual modalities) while the other two are narrow phenomenological terms, so a merge would invent a connection. `content-externalism` (1959, ai_modified 10-21, 5 days) + `status-of-content` (1497) = 3456: 43 words of headroom, open P3 on externalism L48 (todo L2285), no cross-mention, and Boghossian/Devitt-Rey vs Putnam/Burge twin-earth are different arguments.
+- **Review debt**: open section of `todo.md` (above `## Completed Tasks`, L3406) grepped for every candidate slug; `causal-powers` and `content-externalism` have live file-targeting tasks, the others only appear inside the coalesce record itself.
+- **Files changed**: this entry and a four-line dated delta appended to the standing coalesce NEEDS-HUMAN record in `obsidian/workflow/todo.md`. No article edited, no fork spawned, no merge.
+
+## 2026-10-26 12:54 - cross-review
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Task**: Integration polish after the 2026-10-11 coalesce of `concepts/biological-computationalism` into the host topic (P3, Source coalesce). All 14 live pages carrying the retired slug migrated to `[[biological-computationalisms-inadvertent-case-for-dualism]]`: body links piped length-neutrally so the rendered text reads "biological computationalism" instead of the bare slug; frontmatter entries dropped where the page already listed the topic (ai-hardware-substrate-taxonomy, concession-convergence, content-vocabulary-as-derived-feature x2, geometric-model-of-mind, consciousness-and-the-structure-of-scientific-revolutions, consciousness-evolution-and-biology) or moved to `related_articles` (experimental-consciousness-science-2025-2026); duplicate Further Reading pairs merged into one entry (ai-hardware-substrate-taxonomy, geometric-model-of-mind); Further Reading glosses rewritten to describe the topic rather than a neutral definition page (llm-consciousness, penfield-interactionist-dualism, reductionism); content-vocabulary L89 "X and Y press" collapsed to one subject.
+- **Host dependency check**: no coalesce seams found (no duplicated paragraphs, no self-reference to the retired slug, Further Reading does not list itself; `coalesced_from` retained). Host unmodified: 3,695 words before and after; `ai_modified`/`last_deep_review` not bumped; 2026-07-31 citation ledger not re-opened.
+- **Hugo**: sync run; `grep -rl "](/concepts/biological-computationalism/" hugo/content` excluding reviews/workflow/archive/research = 0; every touched copy renders the new URL with the intended link text. Research notes (`wlodzislaw-duch-consciousness-2026-05-02`, `dendritic-integration-theory-2026-08-22`) left as historical records per task; `archive/` untouched.
+- **Tasks minted**: none
+- **Output**: none (no review archive written; host converged, 16 prior deep-review files)
+
 ## 12:27 - deep-review
 - **Status**: Success
 - **File**: [interpretive-sensory-access-theory](/concepts/interpretive-sensory-access-theory/)
