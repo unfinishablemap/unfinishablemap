@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T10:40:02+00:00
+ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-26T12:05:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/the-silence-void]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted review-driven fix from pessimistic-2026-10-26-the-silence-void, Priority List item 4)
+- **Changes**: Applied item 4 exact OLD→NEW at L42, L48, L60, L110 (count the lineage once; keep Tenet 5 on the Map's side). L42: "Multiple contemplative traditions across centuries and cultures converge" → "Several contemplative traditions advance" (−5). L48: dropped "developed independently … strikingly similar"; now flags that fewer witnesses are independent than a list suggests, assessed after the constructivist challenge (+13). L60: replaced the "multiple independent traditions discovered" structural-convergence paragraph with the lineage count (Cloud → Pseudo-Dionysius; Gelassenheit → Eckhart, shortened to "Eckhart's word (above)" because the P1 pass had already landed the L54 Eckhart sentence; Forman 1990 includes his own Eckhart chapter, kept as "includes his own chapter on Eckhart" since the rapture-as-PCE reading is a lead), citing [[positions/methodology-and-calibration#^p-m2|P-M2]] (a lineage counts once); Theravāda cessation reports absence rather than contentless presence; surviving claim is two unrelated settings, equally available to a production theorist (+78). L110: Tenet 5 now governs only how the Map reads the void; "finds strong support here" and "demonstrates" removed; "If some truths were accessible only through cessation" kept conditional; the tenet supplies no evidence that cessation-only truths exist (−3). No author (Cloud, Eckhart, Heidegger, Forman) enlisted for dualism. Pronoun check after each replacement: clean; L58 perennialist sentence untouched (reports Forman's view). Length 2,288 → 2,371 (voids hard 3,000). Also appended a discharge clause to the open P3 "Voids-catalogue drift" task's Notes line (its silence-void L60 part is done; task left open for its taxonomy-of-voids and affective-void parts).
+- **Published**: yes
 
 ## 11:41 - refine-draft
 - **Status**: Success
