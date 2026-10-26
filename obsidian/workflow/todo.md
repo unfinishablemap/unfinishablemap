@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Gurwitsch's thematic field and the margin of consciousness
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-26-subject-structure-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-26-subject-structure-wing names Gurwitsch's relevancy-organised theme/thematic-field/margin structure as the theory behind the premise 'making the margin thematic creates a new margin', used in voids/attention-and-consciousness L51 and voids/tacit-integration-void L65 but defined nowhere (2 research notes mention him in passing). Concepts is at 368/370, so the research should test article-or-fold; the review expects a fold into whichever host has more headroom (attention-and-consciousness or tacit-integration-void). Do not enlist Gurwitsch for dualism. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/gurwitsch-thematic-field-2026-10-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'gurwitsch-thematic-field' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-26
+
+### P3: Research Partial unity of consciousness
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-26-subject-structure-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-26-subject-structure-wing: partial unity (Lockwood 1989; Bayne 2010; Schechter 2014) is named as a live model in voids/plurality-void L59, concepts/split-brain-consciousness L170 and the binding-problem page L132 but defined nowhere; three research notes (02-10, 02-15, 02-24) mention the phrase only in passing. Near-miss check: unity-of-consciousness and phenomenal-unity exist and treat full unity; neither defines partial unity or the inconceivability argument against it, which the review's item 1 shows the corpus currently misattributes to Schechter. Concepts 368/370: review expects fold into plurality-void or unity-of-consciousness; the research note should settle article-or-fold. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/partial-unity-of-consciousness-2026-10-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'partial-unity-of-consciousness' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-26
+
+### P3: Research Cross-cultural spatial construals of time
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-26-subject-structure-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-26-subject-structure-wing: Aymara front-past mapping (Nunez & Sweetser 2006), Mandarin vertical time (Boroditsky 2001) and Yupno topographic time (Nunez, Cooperrider et al. 2012) show a shared body underdetermines the time-space mapping, which bears on voids/embodiment-cognitive-limits' 'different bodies, different concepts' inference. 0 live files; 2 research notes mention Aymara in unrelated contexts. Topics 366/370; review expects fold into embodiment-cognitive-limits after its item 4 lands, so the research note should settle article-or-fold and keep the Map's framing (underdetermination, not linguistic relativity as such). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/cross-cultural-spatial-construals-of-time-2026-10-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'cross-cultural-spatial-construals-of-time' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-10-26
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
