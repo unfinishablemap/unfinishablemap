@@ -1,9 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T02:00:28+00:00
+ai_modified: 2026-10-26T02:30:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:30 - deep-review
+- **Status**: Success
+- **File**: [[topics/reactive-attitudes-and-strawsonian-responsibility]]
+- **Word count**: 2,792 → 2,907 (+115). Topics soft/hard thresholds are 3,000/4,000, so the page stays below soft.
+- **Why not a no-op**: since 07-27 the body had changed only by one zero-word wikilink. Things had moved under it, though: `where-the-substance-commitment-enters` (Tenet 1 is neutral), the 10-14 Tenet 5 scope fixes, and the 10-26 Basic Argument page (Tenet 5 "constrains only the Map's own reasoning"; desert is where the Map is exposed).
+- **Critical issues addressed**: 2
+  - Tenet 1 over-read (L83). Old: "commits the Map to holding that … *whether* an agent is the genuine originator of an action is a genuine question about that irreducible consciousness". New: Tenet 1 delivers only irreducibility, and origination "enters with the Map's agent-causal commitment, made below the tenets ([[where-the-substance-commitment-enters]])".
+  - Tenet 5 misfiling (L85). Old: "Tenet 5 … sharpens the point at exactly the place Wallace's repair operates … licenses the Map to decline to treat that parsimonious redescription as decisive". New: "The Map's own argument meets Wallace's repair…". Tenet 5 "reaches less far. Neither limb of the dissolution is a parsimony judgement, so the tenet answers neither"; it bears only on the inference "the practices need no metaphysical foundation" → "there is none", and it "brings no charge against the Strawsonian".
+- **Medium issues addressed**: 5
+  - The reply now meets limb 2 as well as limb 1: "neither inescapability nor value settles what is *true*".
+  - "Strawson brackets that assumption" → "Strawson denies that the framework needs any such assumption: his modified optimism does without 'the obscure and panicky metaphysics of libertarianism' (p. 211)". The quote is verbatim, read on the British Academy scan.
+  - The P-A5 residue was restored. "earns it no *moral* advantage" → "… in these central practices", plus: "The narrow residue the Map's register keeps, chiefly ultimate desert, is contested, and Galen Strawson's Basic Argument presses exactly there."
+  - Two uses of the "This is not X. It is Y." construct were removed. "It is not answered with a 'no'; it is dissolved" → "his compatibilist 'no' comes by dissolving the question rather than answering it on its own terms". "The dissolution is not a verbal trick or an evasion. It is…" → "Far from a verbal trick or an evasion, the dissolution is…".
+  - Further Reading label: "How agent-causal sourcehood grounds desert" → "The Map's case that…". A [[basic-argument-and-constitutive-luck]] entry was added.
+- **Quote fidelity** (British Academy scan, pp. 190/192/193/197/198/199/211, read as images):
+  - "He didn't *mean* to" → "He didn't mean to". The volume prints it in roman, so the italics the 07-27 pass added were removed.
+  - "rationality of this choice" → "rationality of *this* choice". The italics are in the source.
+  - "as a refuge or a discipline" → "for reasons of policy or self-protection" (p. 197).
+  - All other quoted strings were re-confirmed verbatim.
+- **Engagement modes**: Strawson, Mode Three (now declining the full two-limb opponent). Wallace's aptness conditions, Mode Two (they help themselves to capacity conditions whose metaphysics they do not supply), now presented as the Map's own argument and no longer carried by Tenet 5. Pereboom, flank note, unchanged.
+- **Citations**: References unchanged since the 07-27 web-verify, so metadata was not re-fetched (§2.4 skip clause). Coiner check clean. No author is enlisted for dualism.
+- **Frontmatter**: ai_modified and last_deep_review set to 2026-10-26T02:30:06+00:00. `claude-opus-5-5` appended to ai_system.
+- **Output**: [[reviews/deep-review-2026-10-26-reactive-attitudes-and-strawsonian-responsibility]]
 
 ## 02:00 - refine-draft
 - **Status**: Success
