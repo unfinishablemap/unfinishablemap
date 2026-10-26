@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-08-02T02:21:38+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-07-26T03:24:24+00:00
@@ -76,7 +76,7 @@ Putnam's own trajectory continued past rejecting functionalism toward "pragmatic
 
 This matters because rejecting functionalism isn't merely a dualist move. The Map and IIT agree that substrate matters, though they disagree on *why*: IIT claims consciousness is identical to integrated physical structure, while the Map holds that the right physical structure enables non-physical consciousness to interact with the brain. See [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] for development.
 
-[[biological-computationalism|Biological computationalism]] (Milinkovic & Aru, 2026) pushes further: biological computation is hybrid discrete-continuous, metabolically grounded, inseparable from its fluidic substrate—"the algorithm *is* the substrate." This narrows consciousness-capable computation so drastically that classical functionalism's substrate neutrality is abandoned. The Map reads this too as [[concession-convergence|concession convergence]], with the same caveat as the Putnam case: substrate-dependence is fully compatible with physicalism, and a committed physicalist sees it as physicalism getting *more* precise about which physical systems are conscious. What the narrowing establishes neutrally is only that functional sufficiency—the substrate-neutral claim—has been given up.
+[[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] (Milinkovic & Aru, 2026) pushes further: biological computation is hybrid discrete-continuous, metabolically grounded, inseparable from its fluidic substrate—"the algorithm *is* the substrate." This narrows consciousness-capable computation so drastically that classical functionalism's substrate neutrality is abandoned. The Map reads this too as [[concession-convergence|concession convergence]], with the same caveat as the Putnam case: substrate-dependence is fully compatible with physicalism, and a committed physicalist sees it as physicalism getting *more* precise about which physical systems are conscious. What the narrowing establishes neutrally is only that functional sufficiency—the substrate-neutral claim—has been given up.
 
 ## Functionalism and AI
 

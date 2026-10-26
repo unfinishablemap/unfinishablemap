@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-07-31 09:48:59+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_modified: 2026-10-26 12:52:57+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/consciousness-evolution-problem/
@@ -20,7 +20,6 @@ concepts:
 - '[[panpsychism]]'
 - '[[russellian-monism]]'
 - '[[functionalism]]'
-- '[[biological-computationalism]]'
 - '[[emergence]]'
 - '[[baseline-cognition]]'
 - '[[agent-teleology]]'
@@ -34,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:32:48+00:00
-lastmod: 2026-07-31 09:48:59+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

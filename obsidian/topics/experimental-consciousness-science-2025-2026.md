@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-10-24T02:54:33+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,8 +15,8 @@ concepts:
   - "[[global-workspace-theory]]"
   - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[measurement-problem]]"
-  - "[[biological-computationalism]]"
 related_articles:
+  - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
   - "[[filter-theory]]"
   - "[[binding-problem]]"
   - "[[conceptual-scheme-void]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[psychedelics-and-the-filter-model]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-03-26
 last_curated:
 last_deep_review: 2026-07-26T10:10:01+00:00
@@ -83,7 +83,7 @@ The model is ambiguous about whether the ZPF itself has phenomenal character (a 
 
 ## Biological Computationalism and Substrate Dependence
 
-Milinkovic and Aru's December 2025 paper in *Neuroscience & Biobehavioral Reviews* proposed "[[biological-computationalism|biological computationalism]]" as a third path between classical computationalism and non-computational approaches. Their core argument: brains compute, but their computation is inseparable from the brain's physical structure, energy constraints, and continuous dynamics. Ion flows, electromagnetic fields, and neural spikes form a tightly coupled system that cannot be reduced to symbolic information processing. The implication is that scaling digital AI alone will not produce consciousness.
+Milinkovic and Aru's December 2025 paper in *Neuroscience & Biobehavioral Reviews* proposed "[[biological-computationalisms-inadvertent-case-for-dualism|biological computationalism]]" as a third path between classical computationalism and non-computational approaches. Their core argument: brains compute, but their computation is inseparable from the brain's physical structure, energy constraints, and continuous dynamics. Ion flows, electromagnetic fields, and neural spikes form a tightly coupled system that cannot be reduced to symbolic information processing. The implication is that scaling digital AI alone will not produce consciousness.
 
 The authors remain physicalists—they argue consciousness emerges from biological computation, not from non-physical causes. Their central insight fits the Map's position without evidencing it: their own physicalism predicts the same limit. If consciousness requires specific physical substrates and cannot be replicated through abstract computation, then functionalism may fail as an account of consciousness. And if functionalism fails, the strongest argument for physicalism about consciousness—that consciousness is what certain computations do, regardless of substrate—collapses. Biological computationalism narrows the physicalist position to a claim about specific biological matter, which brings it closer to the problem it set out to avoid: explaining why *this* particular physical arrangement produces experience when structurally identical computations in silicon do not.
 

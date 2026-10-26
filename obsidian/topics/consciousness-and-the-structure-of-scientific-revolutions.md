@@ -4,7 +4,7 @@ description: "Applying Kuhn's framework to consciousness studies reveals physica
 created: 2026-03-11
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-08-12T19:14:57+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 last_deep_review: 2026-07-29T07:05:35+00:00
 draft: false
 topics:
@@ -16,7 +16,6 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[dualism]]"
   - "[[reductionism]]"
-  - "[[biological-computationalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[philosophy-of-science-under-dualism]]"
@@ -28,7 +27,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-03-11
 last_curated:
 ---
@@ -65,7 +64,7 @@ Kuhn described several features of paradigm crisis that map onto the current sta
 
 The sharper objection comes from inside Kuhn's own scheme. He reserved a separate category for *pre-paradigm* science, in which competing schools contend because no framework has yet won consent — and from outside, contending schools look much like a paradigm in crisis. If consciousness studies is pre-paradigmatic, the diagnosis offered here collapses, because there is no incumbent to overthrow. What tells against that reading is the normal science described above. Pre-paradigm fields lack an agreed puzzle-solving tradition; consciousness studies has one in the NCC programme, with shared methods, shared exemplars, and cumulative results. That is the profile of a field governed by a paradigm and losing confidence in it, rather than one that never had a paradigm to lose. Kuhn's own preface records his impression that the social sciences lacked such consensus altogether, so which category consciousness studies belongs to is a question his framework raises more sharply than it settles.
 
-**Loosening of methodological standards.** Kuhn noted that crisis produces willingness to try approaches that normal science would exclude. In consciousness studies, this manifests as the resurgence of panpsychism in mainstream philosophy, the growing respectability of integrated information theory's axiomatic approach (which reasons from axioms about the character of experience to constraints on physical substrates, inverting the usual route from neural data to theory), increasing openness to neurophenomenological methods that integrate first-person reports into empirical research, and the emergence of [[biological-computationalism|biological computationalism]] — which rejects [[substrate-independence]] while retaining computation, conceding that abstract functional organisation does not suffice for consciousness. Each represents a departure from strict physicalist methodology. Their acceptance signals that the paradigm's methodological constraints no longer feel adequate.
+**Loosening of methodological standards.** Kuhn noted that crisis produces willingness to try approaches that normal science would exclude. In consciousness studies, this manifests as the resurgence of panpsychism in mainstream philosophy, the growing respectability of integrated information theory's axiomatic approach (which reasons from axioms about the character of experience to constraints on physical substrates, inverting the usual route from neural data to theory), increasing openness to neurophenomenological methods that integrate first-person reports into empirical research, and the emergence of [[biological-computationalisms-inadvertent-case-for-dualism|biological computationalism]] — which rejects [[substrate-independence]] while retaining computation, conceding that abstract functional organisation does not suffice for consciousness. Each represents a departure from strict physicalist methodology. Their acceptance signals that the paradigm's methodological constraints no longer feel adequate.
 
 **Philosophical reflection.** Kuhn observed that scientists in crisis turn philosophical — questioning assumptions they normally take for granted. The explosion of foundational work in consciousness studies — debates about what explanation means for consciousness, whether the hard problem is genuine, whether first-person methods are scientifically legitimate — is characteristic. Normal science does not need to defend its foundations. A paradigm in crisis does.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-22 18:25:48+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-10-26 12:52:57+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/substrate-independence-critique/
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:20:43+00:00
-lastmod: 2026-10-22 18:25:48+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ Substrate independence has consequences for how we understand ourselves and how 
 
 Proponents offer several considerations:
 
-**The generality of function**: Information processing abstracts away from physical implementation. A Turing machine computes the same function whether implemented with gears, vacuum tubes, or quantum effects. If consciousness is computation, it inherits this abstraction. But the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) argues that the physical aspect of information may be substrate-independent while the phenomenal aspect is tied to the specific mind-matter interface—so substrate independence for computation does not entail substrate independence for consciousness. Even from within physicalism, Milinkovic and Aru (2026) argue that brains compute inseparably from their physical structure, energy constraints, and continuous dynamics—a position they call "[biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)" that concedes substrate matters while remaining materialist (see [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)). This retreat from substrate independence is one instance of a broader [concession-convergence](/concepts/concession-convergence/) pattern across physicalist theories.
+**The generality of function**: Information processing abstracts away from physical implementation. A Turing machine computes the same function whether implemented with gears, vacuum tubes, or quantum effects. If consciousness is computation, it inherits this abstraction. But the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) argues that the physical aspect of information may be substrate-independent while the phenomenal aspect is tied to the specific mind-matter interface—so substrate independence for computation does not entail substrate independence for consciousness. Even from within physicalism, Milinkovic and Aru (2026) argue that brains compute inseparably from their physical structure, energy constraints, and continuous dynamics—a position they call "[biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)" that concedes substrate matters while remaining materialist (see [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)). This retreat from substrate independence is one instance of a broader [concession-convergence](/concepts/concession-convergence/) pattern across physicalist theories.
 
 **Evolutionary convergence**: Different evolutionary lineages have developed similar cognitive capacities through different neural architectures. Consciousness might similarly be achievable through diverse implementations.
 

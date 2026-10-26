@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-20 20:25:15+00:00
+ai_modified: 2026-10-26 12:52:57+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:56:56+00:00
-lastmod: 2026-10-20 20:25:15+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -206,7 +206,7 @@ The [Buddhist tradition](/concepts/buddhism-and-dualism/) converges from a furth
 - [type-identity-theory](/concepts/type-identity-theory/) — The classic mind-body case of reduction: mental types identified with brain types, and the paradigm the Map's first tenet denies
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument and its implications for physicalism
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — Whether conceivability entails metaphysical possibility
-- [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — A physicalist framework that itself rejects functional reduction of consciousness
+- [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — A physicalist framework that itself rejects functional reduction of consciousness, and what that concedes
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: why complete physical knowledge may not be complete knowledge
 - [causal-closure](/concepts/causal-closure/) — The principle reductionists assume and the Map denies at quantum level

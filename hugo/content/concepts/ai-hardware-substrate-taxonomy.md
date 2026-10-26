@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-25
-ai_modified: 2026-10-12 13:40:45+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-26 12:52:57+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[substrate-independence]]'
-- '[[biological-computationalism]]'
 - '[[concepts/functionalism]]'
 - '[[interface-heterogeneity]]'
 - '[[interface-threshold]]'
@@ -22,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-08 23:56:00+00:00
-lastmod: 2026-10-12 13:40:45+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -127,8 +126,7 @@ The applied consequences of this taxonomy for moral-status, governance, and rese
 ## Further Reading
 
 - [substrate-independence](/concepts/substrate-independence/) — The thesis this taxonomy sharpens the case against
-- [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — The physicalist substrate-dependence position that converges on the negative verdict
-- [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — How that convergence works in detail
+- [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — The physicalist substrate-dependence position that converges on the negative verdict, and how that convergence works in detail
 - [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) — The applied verdict that uses these substrate buckets for decisions
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Whether warm biology can host consciousness-relevant quantum effects
 - [interface-heterogeneity](/concepts/interface-heterogeneity/) — Whether different substrates could couple with consciousness through different mechanisms

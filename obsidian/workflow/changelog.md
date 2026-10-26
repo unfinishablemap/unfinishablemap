@@ -5,6 +5,15 @@ ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-26 12:54 - cross-review
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Task**: Integration polish after the 2026-10-11 coalesce of `concepts/biological-computationalism` into the host topic (P3, Source coalesce). All 14 live pages carrying the retired slug migrated to `[[biological-computationalisms-inadvertent-case-for-dualism]]`: body links piped length-neutrally so the rendered text reads "biological computationalism" instead of the bare slug; frontmatter entries dropped where the page already listed the topic (ai-hardware-substrate-taxonomy, concession-convergence, content-vocabulary-as-derived-feature x2, geometric-model-of-mind, consciousness-and-the-structure-of-scientific-revolutions, consciousness-evolution-and-biology) or moved to `related_articles` (experimental-consciousness-science-2025-2026); duplicate Further Reading pairs merged into one entry (ai-hardware-substrate-taxonomy, geometric-model-of-mind); Further Reading glosses rewritten to describe the topic rather than a neutral definition page (llm-consciousness, penfield-interactionist-dualism, reductionism); content-vocabulary L89 "X and Y press" collapsed to one subject.
+- **Host dependency check**: no coalesce seams found (no duplicated paragraphs, no self-reference to the retired slug, Further Reading does not list itself; `coalesced_from` retained). Host unmodified: 3,695 words before and after; `ai_modified`/`last_deep_review` not bumped; 2026-07-31 citation ledger not re-opened.
+- **Hugo**: sync run; `grep -rl "](/concepts/biological-computationalism/" hugo/content` excluding reviews/workflow/archive/research = 0; every touched copy renders the new URL with the intended link text. Research notes (`wlodzislaw-duch-consciousness-2026-05-02`, `dendritic-integration-theory-2026-08-22`) left as historical records per task; `archive/` untouched.
+- **Tasks minted**: none
+- **Output**: none (no review archive written; host converged, 16 prior deep-review files)
+
 ## 12:27 - deep-review
 - **Status**: Success
 - **File**: [[concepts/interpretive-sensory-access-theory]]

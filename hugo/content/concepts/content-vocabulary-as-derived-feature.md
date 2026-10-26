@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-09-29 01:09:48+00:00
+ai_modified: 2026-10-26 12:52:57+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[predictive-processing]]'
-- '[[biological-computationalism]]'
 - '[[intentionality]]'
 - '[[the-naturalisation-failure-for-content]]'
 created: 2026-06-04
@@ -18,11 +17,10 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 01:09:48+00:00
-lastmod: 2026-09-29 01:09:48+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[predictive-processing]]'
-- '[[biological-computationalism]]'
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
 - '[[phantom-limb-phenomena]]'
 - '[[intentionality]]'
@@ -90,7 +88,7 @@ Two cautions keep this honest, both following [direct-refutation-discipline](/pr
 The move recurs across the corpus, which is why it warrants a shared anchor rather than independent restatement:
 
 - [predictive-processing](/concepts/predictive-processing/) develops the canonical form: predictive processing "describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative," with phenomenal consciousness supplying the aboutness.
-- [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) and [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) press a sibling calibration—that substrate-dependent computationalism's specifications increasingly resemble the dualist's "something more"—where the content-vocabulary move supplies the semantic half: the computational description summarises without grounding the felt content.
+- [Biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) presses a sibling calibration—that substrate-dependent computationalism's specifications increasingly resemble the dualist's "something more"—where the content-vocabulary move supplies the semantic half: the computational description summarises without grounding the felt content.
 - [phantom-limb-phenomena](/topics/phantom-limb-phenomena/) is the worked exhibit, where the felt aboutness of a missing limb is the content the predictive model presupposes rather than produces.
 - [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) and [intentionality](/concepts/intentionality/) mark the stronger theses this move stays calibrated *beneath* (general naturalisation failure) and the positive source it points *toward* (phenomenal grounding of original aboutness).
 

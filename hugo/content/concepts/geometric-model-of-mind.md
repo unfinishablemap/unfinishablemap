@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-07-27 14:09:36+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-10-26 12:52:57+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/duch-neurodynamic-theory-of-mind/
 concepts:
 - '[[neural-correlates-of-consciousness]]'
-- '[[biological-computationalism]]'
 - '[[global-workspace-theory]]'
 - '[[symbol-grounding-problem]]'
 - '[[qualia]]'
@@ -24,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-27 14:09:36+00:00
-lastmod: 2026-07-27 14:09:36+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[apex/machine-question]]'
@@ -121,8 +120,7 @@ The articon thesis is the strongest competent affirmative position the Map's [op
 ## Further Reading
 
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Where the borrowed intermediate-level tooling does its work on the correlate side
-- [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — The competent computationalist rival that makes the opposite substrate bet
-- [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — The Map's stake in that disagreement
+- [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — The competent computationalist rival that makes the opposite substrate bet, and the Map's stake in that disagreement
 - [machine-consciousness](/topics/machine-consciousness/)
 - [ai-consciousness](/topics/ai-consciousness/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Why the differentiation argument does not bite a minimal interface

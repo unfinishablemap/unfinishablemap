@@ -4,7 +4,7 @@ description: "A calibration move developed through human-AI refinement: the cont
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: null
-ai_modified: 2026-09-29T01:09:48+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 last_deep_review: 2026-09-29T01:09:48+00:00
 draft: false
 topics:
@@ -13,12 +13,10 @@ topics:
   - "[[philosophy-of-mind]]"
 concepts:
   - "[[predictive-processing]]"
-  - "[[biological-computationalism]]"
   - "[[intentionality]]"
   - "[[the-naturalisation-failure-for-content]]"
 related_articles:
   - "[[predictive-processing]]"
-  - "[[biological-computationalism]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
   - "[[phantom-limb-phenomena]]"
   - "[[intentionality]]"
@@ -86,7 +84,7 @@ Two cautions keep this honest, both following [[direct-refutation-discipline]] a
 The move recurs across the corpus, which is why it warrants a shared anchor rather than independent restatement:
 
 - [[predictive-processing]] develops the canonical form: predictive processing "describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative," with phenomenal consciousness supplying the aboutness.
-- [[biological-computationalism]] and [[biological-computationalisms-inadvertent-case-for-dualism]] press a sibling calibration—that substrate-dependent computationalism's specifications increasingly resemble the dualist's "something more"—where the content-vocabulary move supplies the semantic half: the computational description summarises without grounding the felt content.
+- [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] presses a sibling calibration—that substrate-dependent computationalism's specifications increasingly resemble the dualist's "something more"—where the content-vocabulary move supplies the semantic half: the computational description summarises without grounding the felt content.
 - [[phantom-limb-phenomena]] is the worked exhibit, where the felt aboutness of a missing limb is the content the predictive model presupposes rather than produces.
 - [[the-naturalisation-failure-for-content]] and [[intentionality]] mark the stronger theses this move stays calibrated *beneath* (general naturalisation failure) and the positive source it points *toward* (phenomenal grounding of original aboutness).
 

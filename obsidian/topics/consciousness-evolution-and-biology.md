@@ -4,7 +4,7 @@ description: "Why evolutionary theory and biology's conceptual toolkit—functio
 created: 2026-02-09
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-07-31T09:48:59+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,6 @@ concepts:
   - "[[panpsychism]]"
   - "[[russellian-monism]]"
   - "[[functionalism]]"
-  - "[[biological-computationalism]]"
   - "[[emergence]]"
   - "[[baseline-cognition]]"
   - "[[agent-teleology]]"
@@ -50,7 +49,7 @@ related_articles:
   - "[[enactivism-challenge-to-interactionist-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1
 ai_generated_date: 2026-04-06
 last_curated: null
 last_deep_review: 2026-07-26T00:32:48+00:00

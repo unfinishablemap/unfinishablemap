@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-10-24 02:54:33+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-10-26 12:52:57+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[neural-correlates-of-consciousness]]'
@@ -10,7 +10,6 @@ concepts:
 - '[[global-workspace-theory]]'
 - '[[quantum-biology-and-neural-mechanisms]]'
 - '[[measurement-problem]]'
-- '[[biological-computationalism]]'
 created: 2026-03-26
 date: &id001 2026-03-26
 description: Major consciousness experiments of 2025-2026—COGITATE adversarial results,
@@ -25,9 +24,10 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 10:10:01+00:00
-lastmod: 2026-10-24 02:54:33+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
+- '[[biological-computationalisms-inadvertent-case-for-dualism]]'
 - '[[filter-theory]]'
 - '[[binding-problem]]'
 - '[[conceptual-scheme-void]]'

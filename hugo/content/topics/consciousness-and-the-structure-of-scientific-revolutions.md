@@ -1,15 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-08-12 19:14:57+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-26 12:52:57+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 concepts:
 - '[[concepts/materialism]]'
 - '[[explanatory-gap]]'
 - '[[dualism]]'
 - '[[reductionism]]'
-- '[[biological-computationalism]]'
 created: 2026-03-11
 date: &id001 2026-04-23
 description: Applying Kuhn's framework to consciousness studies reveals physicalism
@@ -19,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-29 07:05:35+00:00
-lastmod: 2026-08-12 19:14:57+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

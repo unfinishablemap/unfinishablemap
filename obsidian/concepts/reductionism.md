@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-01-19
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T20:25:15+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ Jaegwon Kim (1998, 2005) developed this into a systematic three-step model of **
 
 Because the identity is explained rather than posited, most contemporary debate about reductionism engages this framework rather than Nagel's.
 
-The critical question is whether consciousness *can* be functionalized. Kim himself acknowledged that phenomenal consciousness—what it is *like* to see red—resists functional definition. Functional roles capture what a state *does*, not what it *is like*. Kim called this "the last problem of the mind" and admitted that qualia may not be functionally reducible, conceding something "near enough" to physicalism rather than the full picture (*Physicalism, or Something Near Enough*, 2005). The Map takes this seriously: when the architect of functional reduction concedes that phenomenal consciousness resists his own framework, the failure looks like a structural limitation rather than a research gap. [[biological-computationalism|Biological computationalism]] (Milinkovic & Aru 2026) reaches a similar conclusion from the computational side: even if brains compute, the computation is inseparable from biological substrate, so functional reduction strips away precisely the properties that matter for consciousness.
+The critical question is whether consciousness *can* be functionalized. Kim himself acknowledged that phenomenal consciousness—what it is *like* to see red—resists functional definition. Functional roles capture what a state *does*, not what it *is like*. Kim called this "the last problem of the mind" and admitted that qualia may not be functionally reducible, conceding something "near enough" to physicalism rather than the full picture (*Physicalism, or Something Near Enough*, 2005). The Map takes this seriously: when the architect of functional reduction concedes that phenomenal consciousness resists his own framework, the failure looks like a structural limitation rather than a research gap. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] (Milinkovic & Aru 2026) reaches a similar conclusion from the computational side: even if brains compute, the computation is inseparable from biological substrate, so functional reduction strips away precisely the properties that matter for consciousness.
 
 ## The Track Record of Successful Reduction
 
@@ -202,7 +202,7 @@ The [[buddhism-and-dualism|Buddhist tradition]] converges from a further directi
 - [[type-identity-theory]] — The classic mind-body case of reduction: mental types identified with brain types, and the paradigm the Map's first tenet denies
 - [[philosophical-zombies]] — The conceivability argument and its implications for physicalism
 - [[conceivability-possibility-inference]] — Whether conceivability entails metaphysical possibility
-- [[biological-computationalism]] — A physicalist framework that itself rejects functional reduction of consciousness
+- [[biological-computationalisms-inadvertent-case-for-dualism]] — A physicalist framework that itself rejects functional reduction of consciousness, and what that concedes
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[knowledge-argument]] — Mary's Room: why complete physical knowledge may not be complete knowledge
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-25 00:54:34+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_modified: 2026-10-26 12:52:57+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[biological-cognitive-closure]]'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:25:35+00:00
-lastmod: 2026-10-25 00:54:34+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -183,7 +183,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The functional global workspace, including its workspace-like functional signatures observed in LLMs
 - [ai-consciousness-scope](/positions/ai-consciousness-scope/) — The Map's register on AI consciousness, including [P-AC4](/positions/ai-consciousness-scope/#p-ac4) (workspace signatures observed, phenomenal open)
 - [ai-consciousness](/topics/ai-consciousness/) — The broader question of machine consciousness
-- [biological-computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — Why biological computation differs fundamentally from digital computation
+- [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — Milinkovic and Aru's substrate-dependence thesis and the dualist point the Map says it concedes
 - [functionalism](/concepts/functionalism/) — The view LLM consciousness skepticism challenges
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why temporal structure matters
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How embodiment shapes meaning

@@ -4,7 +4,7 @@ description: "Włodzisław Duch treats mental states as attractor basins in psyc
 created: 2026-05-11
 modified: 2026-07-27
 human_modified:
-ai_modified: 2026-07-27T14:09:36+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 last_deep_review: 2026-07-27T14:09:36+00:00
 draft: false
 topics:
@@ -15,7 +15,6 @@ topics:
   - "[[ai-consciousness]]"
 concepts:
   - "[[neural-correlates-of-consciousness]]"
-  - "[[biological-computationalism]]"
   - "[[global-workspace-theory]]"
   - "[[symbol-grounding-problem]]"
   - "[[qualia]]"
@@ -29,7 +28,7 @@ related_articles:
   - "[[apex/what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-05-11
 last_curated:
 coalesced_from:
@@ -117,8 +116,7 @@ The articon thesis is the strongest competent affirmative position the Map's [[a
 ## Further Reading
 
 - [[neural-correlates-of-consciousness]] — Where the borrowed intermediate-level tooling does its work on the correlate side
-- [[biological-computationalism]] — The competent computationalist rival that makes the opposite substrate bet
-- [[biological-computationalisms-inadvertent-case-for-dualism]] — The Map's stake in that disagreement
+- [[biological-computationalisms-inadvertent-case-for-dualism]] — The competent computationalist rival that makes the opposite substrate bet, and the Map's stake in that disagreement
 - [[machine-consciousness]]
 - [[ai-consciousness]]
 - [[comparing-quantum-consciousness-mechanisms]] — Why the differentiation argument does not bite a minimal interface

@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-07-29T13:08:33+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,6 @@ concepts:
   - "[[integrated-information-theory]]"
   - "[[global-workspace-theory]]"
   - "[[higher-order-theories]]"
-  - "[[biological-computationalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
@@ -38,7 +37,7 @@ related_articles:
   - "[[the-subject-object-distinction-as-philosophical-discovery]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-04-05
 last_curated:
 last_deep_review: 2026-07-15T05:52:29+00:00
@@ -72,7 +71,7 @@ The structure is consistent across cases. A physicalist theory begins with a bro
 
 ### Biological Computationalism
 
-[[biological-computationalism|Biological computationalism]] (Milinkovic & Aru 2026) holds that brains compute in a substrate-dependent, metabolically grounded manner fundamentally different from digital computation. Each distinguishing claim—substrate dependence, metabolic grounding, scale inseparability—maps onto a classical argument for dualism. The central thesis that "the algorithm is the substrate" dissolves the algorithm-substrate distinction: if knowing the algorithm does not tell you what is being computed in any consciousness-relevant sense, then computation as traditionally understood is not what produces consciousness.
+[[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] (Milinkovic & Aru 2026) holds that brains compute in a substrate-dependent, metabolically grounded manner fundamentally different from digital computation. Each distinguishing claim—substrate dependence, metabolic grounding, scale inseparability—maps onto a classical argument for dualism. The central thesis that "the algorithm is the substrate" dissolves the algorithm-substrate distinction: if knowing the algorithm does not tell you what is being computed in any consciousness-relevant sense, then computation as traditionally understood is not what produces consciousness.
 
 **The concession**: Biological computationalism effectively endorses the absent qualia intuition for digital systems while trying to block it for biological ones. The gap between "any computation" and "only this specific physical process" is precisely the gap dualists have identified.
 

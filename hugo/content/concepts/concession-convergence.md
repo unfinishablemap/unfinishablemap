@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-07-29 13:08:33+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-10-26 12:52:57+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1
 author: null
 concepts:
 - '[[concepts/functionalism]]'
@@ -13,7 +13,6 @@ concepts:
 - '[[integrated-information-theory]]'
 - '[[global-workspace-theory]]'
 - '[[higher-order-theories]]'
-- '[[biological-computationalism]]'
 created: 2026-04-05
 date: &id001 2026-04-05
 description: Physicalist theories of consciousness independently concede the dualist
@@ -23,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 05:52:29+00:00
-lastmod: 2026-07-29 13:08:33+00:00
+lastmod: 2026-10-26 12:52:57+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

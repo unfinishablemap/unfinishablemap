@@ -4,7 +4,7 @@ description: "A human-AI examination of Wilder Penfield's clinical case for inte
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-10-13T03:44:03+00:00
+ai_modified: 2026-10-26T12:52:57+00:00
 last_deep_review: 2026-09-04T00:00:00+00:00
 draft: false
 topics:
@@ -18,7 +18,7 @@ related_articles:
   - "[[locked-in-syndrome-as-the-negative-case-where-filter-loosening-does-not-apply]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-07-12
 last_curated:
 ---
@@ -90,7 +90,7 @@ There is a **Tenet 5** twist worth flagging. The comparator reading is simpler o
 - [[evidential-status-discipline]] — Why congenial clinical evidence is presented as suggestive rather than decisive
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — A modern clinical evidence stream in the same spirit
 - [[anaesthesia-and-the-consciousness-interface]] — The anaesthesia evidence that Dendritic Integration Theory, the physicalist rival at Eccles's dendron, rests on
-- [[biological-computationalism]] — A substrate-dependence proposal co-authored by Aru, one of Dendritic Integration Theory's authors
+- [[biological-computationalisms-inadvertent-case-for-dualism]] — The Map's reading of the substrate-dependence proposal co-authored by Aru, one of Dendritic Integration Theory's authors
 
 ## References
 
