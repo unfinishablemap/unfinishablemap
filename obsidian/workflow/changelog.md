@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T22:35:59+00:00
+ai_modified: 2026-10-26T23:36:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-26 23:36 - coalesce
+- **Task**: coalesce cycle slot. Delta check against the 13:06 run (changelog `2026-10-26 13:06 - coalesce`). Abandoned (steady state; 17th+ consecutive no-op, recorded against the standing NEEDS-HUMAN record at todo ~L125).
+- **Status**: SUCCESS (no candidate)
+- **What changed since 13:06Z**: no additions, removals or renames in `topics/`, `concepts/`, `voids/` (`git log --diff-filter=ADR` empty; `count_section_files` topics 366/370, concepts 368/370, voids 113/125, unchanged). 31 articles edited: 27 grew or held (largest `topics/sherrington-dualist-lineage` +402, `voids/plurality-void` +552, `voids/attention-and-consciousness` +257, `voids/interested-party-void` +63, `concepts/wavefunction-realism-vs-primitive-ontology` +59); 4 shrank by 1–2 words, all topics articles above 3,800 words (`interaction-problem-across-traditions`, `outcome-devaluation-and-dual-task-costs-in-parkinsons`, `quantum-biology-and-neural-consciousness`, `valence-and-conscious-selection`), none capable of forming a sub-4,000 pair. Sidecars and section index files excluded before pairing.
+- **Arithmetic** (`tools.curate.length.analyze_length`, sum < hard; hard = topics 4000 / concepts 3500 / voids 3000): topics 365 live, smallest 1990 + 2112 = 4102 → **0**; voids 113, smallest 1530 + 1795 = 3325 (was 3262; `interested-party-void` grew) → **0**; concepts 368 → **136**, byte-identical to 13:06 because the smallest edited concepts article is 2202 words and 2202 + 1380 (`mind-arena`) = 3582 ≥ 3500, so no edited file participates in any fitting pair.
+- **Pairs re-examined** (all on files last modified 2026-10-24 or earlier, so the 13:06 reasons stand): `phenomenal-depth` (1475) + `phenomenal-presentation` (1572) = 3047 — presentation L54 is still a dedicated `**Versus [[phenomenal-depth]].**` subsection (inverted overlap); `adaptive-computational-depth` (1950) + `phenomenal-depth` = 3425 — ACD `ai_modified` 2026-10-24, inside the 30-day floor, one-directional link; `causal-powers` (2114) + `mind-arena` (1380) = 3494 — 5 words of headroom, open task at todo L2676, three `Versus` subsections in mind-arena, role-granularity. Tag-only pairs: `content-externalism` (1959) + `status-of-content` (1497) = 3456 — two open file-targeting tasks on externalism (todo L2195, L2628), no cross-mention; `perception` (1671) + presentation/depth — zero cross-mentions, survey vs narrow term.
+- **Review debt**: open section of todo.md (above `## Completed Tasks`) grepped for all eight candidate slugs; `causal-powers` and `content-externalism` carry live tasks, the rest appear only inside the coalesce record.
+- **Files changed**: this entry and one dated paragraph appended to the standing coalesce NEEDS-HUMAN record in `obsidian/workflow/todo.md`. No article edited, no fork spawned, no merge. `parse_tasks` active count verified unchanged.
 
 ## 2026-10-26T23:21:02+00:00 - refine-draft
 - **Status**: Success
