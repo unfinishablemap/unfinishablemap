@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T19:33:04+00:00
+ai_modified: 2026-10-26T21:07:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-26T21:07:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agency-budget]] (secondary: [[positions/quantum-interface]] P-Q11)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Changes**: Issue 1 string siblings from [[reviews/pessimistic-2026-10-12-quantum-non-equilibrium-and-the-contingency-of-the-born-rule]]. (A) agency-budget L71: Valentini's signal-locality result recast as "a worked analogue of the Map's reason" for exactness, with the in-class steering argument linked via [[causal-consistency-constraint]] "which rests on an unrefereed preprint" (22 -> 54 words; 2,752 -> 2,784; concepts 2500/3500/5000, soft_warning, 715 headroom). (B) quantum-interface P-Q11 Asserts: theorem now "prices exactness only within deterministic hidden-variables theories ... the Map's indeterministic reading rests instead on P-Q7's steering argument" (37 -> 40). Calibration add-on: stale "has not surveyed" replaced by the topic article's wording ("too thin to decide ... unrefuted but has not survived a test"; relic channel left as a dated derived prediction). Optional item-3b qualifier landed: Born demotion widens the space "only into the signalling-priced non-equilibrium region" (+6), funded by three redundancy trims inside P-Q11 (duplicate "demonstrated structural possibility" in Calibration, "rather than a category error", "the very"; -11). One dated note (22 words) placed before Last reviewed per the register convention; Last reviewed 2026-09-02 -> 2026-10-26. Register 5,963 -> 5,997 (critical; +34). No other position touched (P-Q2 has an open P1 human decision). Pronoun check: L71 "it" = that class of theories, "this" = the no-innocent-setting result, next line is a heading; P-Q11 Calibration "it" = the power-deficit prediction. Mode note: no named-opponent reply edited; Valentini and Torres Alegre not enlisted for dualism.
+- **Published**: yes
+
 ## 2026-10-26T20:57:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/geometric-model-of-mind]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-08-16
-ai_modified: 2026-10-20 13:41:37+00:00
+ai_modified: 2026-10-26 21:07:18+00:00
 ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -9,14 +9,14 @@ concepts:
 - '[[concepts/causal-consistency-constraint]]'
 - '[[concepts/selection-criterion-problem]]'
 created: 2026-08-16
-date: &id001 2026-10-20
+date: &id001 2026-10-26
 description: 'How much selection survives exact Born-rule preservation: a coupling-theoretic
   conservation law, its ceiling, and its price — refined by human-AI iteration.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-18 10:59:02+00:00
-lastmod: 2026-10-20 13:41:37+00:00
+lastmod: 2026-10-26 21:07:18+00:00
 modified: *id001
 related_articles:
 - '[[apex/born-preserving-causal-efficacy]]'
@@ -71,7 +71,7 @@ Landsman's target is *determinism*, not agency; the extension below is the Map's
 
 **Valentini's signal-locality theorem.** Antony Valentini proves that any deterministic hidden-variables theory reproducing quantum theory at the "quantum equilibrium" distribution "must predict the existence of instantaneous signals at the statistical level for hypothetical 'nonequilibrium ensembles'." The scope condition must not be dropped: the theorem is about *deterministic hidden-variables theories*, not every possible framework, and its subject is hypothetical non-equilibrium ensembles.
 
-Within that scope the reading is unforgiving. Exact equilibrium leaves the statistical-level budget at zero — no controllable ensemble-level bias exists — while departure from equilibrium buys a positive statistical budget at the cost of superluminal signalling. No innocent intermediate setting exists in that class of theories, which is the Map's structural reason for claiming exactness rather than smallness.
+Within that scope the reading is unforgiving. Exact equilibrium leaves the statistical-level budget at zero — no controllable ensemble-level bias exists — while departure from equilibrium buys a positive statistical budget at the cost of superluminal signalling. No innocent intermediate setting exists in that class of theories. The Map's indeterministic reading lies outside it, so this is a worked analogue of the Map's reason for claiming exactness rather than smallness; the parallel argument in its own class is the steering result behind [the causal-consistency constraint](/concepts/causal-consistency-constraint/), which rests on an unrefereed preprint.
 
 ## Relation to Site Perspective {#relation-to-site-perspective}
 

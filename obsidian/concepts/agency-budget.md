@@ -2,9 +2,9 @@
 title: "The Agency Budget"
 description: "How much selection survives exact Born-rule preservation: a coupling-theoretic conservation law, its ceiling, and its price — refined by human-AI iteration."
 created: 2026-08-16
-modified: 2026-10-20
+modified: 2026-10-26
 human_modified:
-ai_modified: 2026-10-20T13:41:37+00:00
+ai_modified: 2026-10-26T21:07:18+00:00
 last_deep_review: 2026-09-18T10:59:02+00:00
 draft: false
 topics:
@@ -68,7 +68,7 @@ Landsman's target is *determinism*, not agency; the extension below is the Map's
 
 **Valentini's signal-locality theorem.** Antony Valentini proves that any deterministic hidden-variables theory reproducing quantum theory at the "quantum equilibrium" distribution "must predict the existence of instantaneous signals at the statistical level for hypothetical 'nonequilibrium ensembles'." The scope condition must not be dropped: the theorem is about *deterministic hidden-variables theories*, not every possible framework, and its subject is hypothetical non-equilibrium ensembles.
 
-Within that scope the reading is unforgiving. Exact equilibrium leaves the statistical-level budget at zero — no controllable ensemble-level bias exists — while departure from equilibrium buys a positive statistical budget at the cost of superluminal signalling. No innocent intermediate setting exists in that class of theories, which is the Map's structural reason for claiming exactness rather than smallness.
+Within that scope the reading is unforgiving. Exact equilibrium leaves the statistical-level budget at zero — no controllable ensemble-level bias exists — while departure from equilibrium buys a positive statistical budget at the cost of superluminal signalling. No innocent intermediate setting exists in that class of theories. The Map's indeterministic reading lies outside it, so this is a worked analogue of the Map's reason for claiming exactness rather than smallness; the parallel argument in its own class is the steering result behind [[causal-consistency-constraint|the causal-consistency constraint]], which rests on an unrefereed preprint.
 
 ## Relation to Site Perspective {#relation-to-site-perspective}
 
