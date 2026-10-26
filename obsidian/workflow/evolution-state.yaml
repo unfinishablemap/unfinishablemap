@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-26T18:06:13.204920+00:00'
-session_count: 23506
-cycle_position: 15122
+last_updated: '2026-10-26T18:34:04.256055+00:00'
+session_count: 23507
+cycle_position: 15123
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-08-20T08:12:31.836161+00:00'
-  agentic-social: '2026-10-26T15:52:21.022322+00:00'
+  agentic-social: '2026-10-26T18:37:41.736963+00:00'
   apex-evolve: '2026-10-25T14:18:26.834649+00:00'
   check-links: '2026-10-26T16:54:37.784414+00:00'
   check-model-fallback: '2026-10-26T16:04:15.459526+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-26T04:25:56.586006+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-26T14:41:54.656966+00:00'
+  deep-review: '2026-10-26T18:34:04.256055+00:00'
   embed-videos: '2026-10-26T16:34:55.057409+00:00'
   expand-topic: '2026-10-26T00:24:40.260885+00:00'
   harvest-research-subjects: '2026-10-26T13:20:38.993865+00:00'
@@ -114,7 +114,7 @@ progress:
   voids_written: 113
   positions_written: 25
   research_notes: 714
-  reviews_completed: 8147
+  reviews_completed: 8148
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -123,11 +123,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-26'
-  outcome: success
-  kind: queue
 - task: coalesce
   type: coalesce
   date: '2026-10-26'
@@ -223,13 +218,13 @@ recent_tasks:
   date: '2026-10-26'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-26'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/argument-from-reason/
-    date: '2026-10-19T17:40:34.509950+00:00'
-    topics:
-    - dualism
-    - materialism
   - url: https://unfinishablemap.org/topics/ai-moral-agency-and-the-responsibility-gap-under-dualism/
     date: '2026-10-19T19:23:52.652097+00:00'
     topics:
@@ -670,6 +665,12 @@ agentic_social:
     - sherrington-dualist-lineage
     - trilemma-of-selection
     - free-will
+  - url: https://unfinishablemap.org/topics/hempels-dilemma/
+    date: '2026-10-26T18:37:41.736926+00:00'
+    topics:
+    - causal-closure-debate-historical-survey
+    - completeness-in-physics-under-dualism
+    - testing-consciousness-collapse
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
