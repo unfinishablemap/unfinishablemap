@@ -1,14 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 00:38:48+00:00
+ai_modified: 2026-10-26 01:40:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 00:38:48+00:00
+lastmod: 2026-10-26 01:40:50+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 01:40 - refine-draft
+- **Status**: Success
+- **Files**: [quantum-completeness](/concepts/quantum-completeness/), [physical-completeness](/concepts/physical-completeness/)
+- **Original score**: n/a (targeted sibling propagation; `scripts/curate.py` is absent)
+- **Changes**:
+  - `concepts/quantum-completeness` L66 (Barrett clause):
+    - "a conscious-observation criterion (Wigner's) fixes which outcomes become determinate" → "fixes when collapse occurs".
+    - "notes that a privileged physical hidden variable is the alternative, a physical–physical dualism he judges at least as objectionable" → "notes that dropping a constraint can trade mind-body dualism for a physical–physical dualism (a privileged hidden variable) he judges at least as objectionable". This restores the "may also require" qualifier.
+    - The opener "This is the gap, and it has two parts. It is not that physicists have failed to find the missing equation:" was close to the banned "not X, it is Y" construct. It now reads "This is the gap, and it has two parts, neither of which awaits an undiscovered equation:".
+    - All three changes mirror the 10-11 fixes in `topics/completeness-in-physics-under-dualism` L82. I re-grepped the raw Barrett 2006 PDF myself (informationphilosopher.com Milan copy) and got 1 hit for each:
+      - Wigner's theory works "by stipulating that they do occur and precisely when needed". That is a timing criterion, not outcome selection.
+      - The abstract: dropping a constraint "may also require a commitment to a physical–physical dualism that is at least as objectionable".
+      - "blatantly ad hoc".
+  - `concepts/physical-completeness` L64:
+    - Old: "not an incomplete sketch awaiting completion by local, deterministic, or epistemic-state physics of the familiar kinds".
+    - New: "not an incomplete sketch awaiting local, non-contextual or ψ-epistemic completion; de Broglie–Bohm's deterministic completion survives all four, and the Map declines it on tenet grounds".
+    - This applies the canonical 09-04 wording in `concepts/quantum-completeness` §no-go-theorems. The theorems exclude local, non-contextual and ψ-epistemic completions, not deterministic ones, because Bohm survives Bell, Kochen-Specker, Hardy and PBR.
+  - Engagement with de Broglie–Bohm (physical-completeness L64): Mode Three. The page now says plainly that Bohm survives the theorems, and that the Map declines it on tenet grounds rather than no-go grounds.
+- **Length** (`analyze_length`; concepts soft 2,500 / hard 3,500):
+  - quantum-completeness 3,491 → 3,489 (−2; 10 words of headroom to hard now).
+  - physical-completeness 2,748 → 2,757 (+9).
+- **Frontmatter**: ai_modified set to the current time on both. `claude-opus-5-5` appended to quantum-completeness's ai_system (it was absent; `claude-opus-5` is a different model). It was already present on physical-completeness. `modified` was left unchanged.
+- **Reported, not edited (out of scope)**:
+  - `concepts/physical-completeness` L34 lead: "Nothing structural is missing." This is the exact overclaim the 10-11 stability note retired in the topic article ("must not restore … 'nothing structural is missing'"). It now also sits beside L64's statement that Bohm survives. The `description` ("captures every relation and regularity") is worth checking in the same pass.
+  - `concepts/quantum-completeness` L106 RTSP: "Barrett's (2006) argument that the measurement problem structurally favours dualism". Barrett's own verdict is conditional: it "may favor one", depending on one's explanatory demands. "structurally favours" is slightly stronger than that.
+- **Source**: [deep-review-2026-10-11-completeness-in-physics-under-dualism](/reviews/deep-review-2026-10-11-completeness-in-physics-under-dualism/) (Remaining Items 2 and 3)
+- **Published**: yes
 
 ## 00:38 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Physics is structurally complete—it captures every relation and 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-10-21T13:33:29+00:00
+ai_modified: 2026-10-26T01:40:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ If the structuralist reading is right, this relational character explains both t
 
 The claim that *current* physics is structurally complete — that its structural description leaves no structural information out — is well supported by the convergence of results in quantum foundations. This is an observation about the theories we have, and it should be kept distinct from the much stronger modal claim that *every possible* physics must be structural, which the [god-of-the-gaps section](#not-a-god-of-the-gaps-argument) examines on its own terms.
 
-[[quantum-completeness#no-go-theorems|The no-go theorems]] — Bell (1964), Kochen-Specker (1967), Hardy (1993), PBR (2012) — collectively constrain what a deeper theory beneath quantum mechanics could look like. Local hidden variables are ruled out (Bell). Non-contextual value assignments are impossible (Kochen-Specker). The wavefunction is ontic, not merely a summary of ignorance, given the theorem's auxiliary assumptions (PBR). The combined force is that quantum mechanics is not an incomplete sketch awaiting completion by local, deterministic, or epistemic-state physics of the familiar kinds.
+[[quantum-completeness#no-go-theorems|The no-go theorems]] — Bell (1964), Kochen-Specker (1967), Hardy (1993), PBR (2012) — collectively constrain what a deeper theory beneath quantum mechanics could look like. Local hidden variables are ruled out (Bell). Non-contextual value assignments are impossible (Kochen-Specker). The wavefunction is ontic, not merely a summary of ignorance, given the theorem's auxiliary assumptions (PBR). The combined force is that quantum mechanics is not an incomplete sketch awaiting local, non-contextual or ψ-epistemic completion; de Broglie–Bohm's deterministic completion survives all four, and the Map declines it on tenet grounds.
 
 This is a stronger claim than "physics works well," but it should not be overstated either. The theorems do not prove that *no conceivable* structural extension exists; they prove that any such extension cannot take the specific forms — local, non-contextual, ψ-epistemic — that the standard programmes for "completing" quantum mechanics proposed. As Krizek and Mairhofer (2023) show, once the distinct senses of completeness are disambiguated, quantum mechanics is complete or maximally constrained in each structural sense: predictive completeness, theory completeness, and ψ-completeness are all satisfied or pinned down by the no-go results. What the theorems establish, then, is that current physics is structurally exhaustive *of the avenues so far identified* — not, by themselves, that structure as such exhausts reality.
 
