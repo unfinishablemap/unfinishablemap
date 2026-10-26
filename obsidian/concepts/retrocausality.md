@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-20T12:11:28+00:00
+ai_modified: 2026-10-26T02:41:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ How do retrocausal influences propagate through systems that have undergone [[de
 
 (2) **Decoherence timescales are empirically contested.** Tegmark (2000) calculated coherence times of 10⁻¹³ seconds for neural microtubules, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, obtaining estimates of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer. Hagan cannot be cited as a closed rebuttal, however: Reimers et al. (2009) and McKemmish et al. (2009) re-derived the recalibration and found its parameter assumptions either rely on dielectric properties of microtubules that are not empirically established or specify regimes microtubules do not occupy in living tissue. The dispute is live rather than settled, and no experiment has directly measured coherence times in living neural tissue. See [[decoherence|the decoherence article]] for full analysis of the Tegmark-Hameroff-Reimers-McKemmish debate and recent experimental developments.
 
-(3) **Biological quantum effects indicate that evolution can exploit coherence.** On the leading but unsettled model, avian magnetoreception needs radical-pair spin coherence lasting tens of microseconds in warm biological systems. If evolution can harness quantum effects for navigation, the categorical claim that warm biology excludes quantum effects is empirically false—though whether neural systems exploit similar mechanisms remains an open question.
+(3) **Biological quantum effects indicate that evolution can exploit coherence.** On the leading but unsettled model, [[radical-pair-magnetoreception|avian magnetoreception]] needs radical-pair spin coherence lasting microseconds in warm biological systems. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. If evolution can harness quantum effects for navigation, the categorical claim that warm biology excludes quantum effects is empirically false—though whether neural systems exploit similar mechanisms remains an open question.
 
 The transactional picture adds a subtlety: the handshake is atemporal. Decoherence establishes which basis states are available; retrocausality determines which becomes actual. But this framework depends on the transactional interpretation being correct, and the decoherence challenge applies to any quantum consciousness mechanism that retrocausality is paired with.
 
@@ -181,11 +181,13 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 ## References
 
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503
 1. Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Jacques, V., Wu, E., Grosshans, F., Treussart, F., Grangier, P., Aspect, A., & Roch, J.-F. (2007). Experimental realization of Wheeler's delayed-choice gedanken experiment. *Science*, 315(5814), 966-968.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 1. Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20.
 1. Kastner, R. E. (2016). The relativistic transactional interpretation: Immune to the Maudlin challenge. arXiv:1610.04609. Published in *Probing the Meaning of Quantum Mechanics* (World Scientific, 2019).
+1. Kobylkov, D., Wynn, J., Winklhofer, M., Chetverikova, R., Xu, J., Hiscock, H., Hore, P. J., & Mouritsen, H. (2019). Electromagnetic 0.1–100 kHz noise does not disrupt orientation in a night-migrating songbird implying a spin coherence lifetime of less than 10 µs. *Journal of the Royal Society Interface*, 16(161), 20190716. https://doi.org/10.1098/rsif.2019.0716
 1. Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44, 442-449.
 1. Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
 1. Ma, X.-S., Kofler, J., & Zeilinger, A. (2016). Delayed-choice gedanken experiments and their realizations. *Reviews of Modern Physics*, 88(1), 015005.

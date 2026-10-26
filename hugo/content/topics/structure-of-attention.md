@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-10-12 07:13:43+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5
+ai_modified: 2026-10-26 02:41:30+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/voluntary-attention-control-mechanisms/
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 08:57:03+00:00
-lastmod: 2026-10-12 07:13:43+00:00
+lastmod: 2026-10-26 02:41:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ If willed attention and willed action share a common mechanism, the decision sta
 
 For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—the [quantum consciousness](/concepts/quantum-consciousness/) mechanism of rapid observation holding desired patterns stable—it would require time for sustained engagement. Willed attention, once deployed, can be held for seconds or longer, which might provide that time. This remains speculative: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require.
 
-A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. Theoretical modeling of quantum-Zeno-like effects in cryptochrome radical pairs at microsecond coherence timescales (Denton et al. 2024, extending a quantum-Zeno account of radical-pair magnetoreception that dates to the late 2000s) offers a biological precedent, though this is a computational result rather than an experimental one and remains far from the neural circuit scale. See [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) for how the Zeno mechanism applies specifically to motor selection.
+A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. Theoretical modeling of [quantum-Zeno-like effects](/concepts/quantum-zeno-effect/) in a tightly bound cryptochrome radical pair that needs roughly 700 ns of coherence (Denton et al. 2024, extending a quantum-Zeno account of radical-pair magnetoreception that dates to the late 2000s) offers a biological precedent, though this is a computational result rather than an experimental one and remains far from the neural circuit scale. See [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) for how the Zeno mechanism applies specifically to motor selection.
 
 ## The Neural Architecture
 

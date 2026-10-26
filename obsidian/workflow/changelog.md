@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T02:30:06+00:00
+ai_modified: 2026-10-26T02:41:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 02:41 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-time]]
+- **Also**: [[concepts/quantum-indeterminacy-free-will]], [[concepts/substance-property-dualism]], [[concepts/evolution-of-consciousness]], [[concepts/retrocausality]], [[concepts/quantum-interpretations]], [[topics/structure-of-attention]]
+- **Task**: Correct the avian-compass radical-pair coherence figure (unconditional "tens of microseconds") across seven pages, per the corrected [[radical-pair-magnetoreception]] L56–L62 settled sentence.
+- **Original score**: n/a (targeted figure correction; `scripts/curate.py` absent)
+- **Changes** (word counts by `analyze_length`; the gate is `>=`):
+  - `philosophy-of-time` L145 (3,251 → 3,389): "lasting tens of microseconds" → "lasting microseconds" plus the settled sentence verbatim; 0-word link to `radical-pair-magnetoreception`; Gauger 2011 and Kobylkov 2019 references added. The unverified "a million times longer than typical molecular decoherence in solution" was left as instructed and is flagged for a separate check.
+  - `quantum-indeterminacy-free-will` L174 (3,495 → 3,495, net zero): "tens-of-microseconds electron spin coherence" → "few-microsecond electron spin coherence"; 0-word link on "cryptochrome radical-pair avian magnetoreception". The 10-25 contrastive-luck lines were not touched.
+  - `substance-property-dualism` L129 (2,780 → 2,920): "needs tens-of-microseconds spin coherence in cryptochrome" → "needs spin coherence in cryptochrome", with the settled sentence verbatim after the Luo clause; link added; Gauger and Kobylkov references added in alphabetical order.
+  - `evolution-of-consciousness` L197 (3,478 → 3,478, net zero): "tens-of-microseconds spin coherence" → "few-microsecond spin coherence". The page already linked `radical-pair-magnetoreception`.
+  - `retrocausality` L115 (3,289 → 3,427): "lasting tens of microseconds" → "lasting microseconds" plus the settled sentence verbatim; link added; both references added in alphabetical order.
+  - `quantum-interpretations` L171 (2,806 → 2,999): this page used "magnetoreception's microsecond spin coherence" as independent support for Hagan et al.'s revised 10⁻⁵–10⁻⁴ s microtubule estimate. Recalibrated: the settled sentence, then a note that the broadband figure sits at or below the bottom of that range and concerns electron spins shielded in a protein rather than tubulin conformations. So it shows warm biology does not exclude microsecond coherence outright, without corroborating the microtubule estimate. The "More importantly" point (atemporal selection needs no sustained in-brain coherence) is unchanged. Link and both references added.
+  - `structure-of-attention` L118 (3,863 → 3,869): Denton et al. 2024 "cryptochrome radical pairs at microsecond coherence timescales" → "a tightly bound cryptochrome radical pair that needs roughly 700 ns of coherence"; 0-word link to `quantum-zeno-effect`, the calibrated home for Denton. Source check: the Nature Communications full text (doi 10.1038/s41467-024-55124-x) reads "if the coherence lifetime falls short of the required 700 ns required to realise magnetosensitivity in the weak geomagnetic field"; the pair is FAD–superoxide. `claude-opus-5-5` appended to ai_system (it was absent).
+- **Warm-wet verdicts**: the precedent claims survive at about 2–10 µs. In philosophy-of-time and retrocausality, the argument is against a *categorical* exclusion of quantum effects in warm biology, and microsecond spin coherence still defeats that, on the model's terms (philosophy-of-time also leans on enzyme tunnelling). In substance-property-dualism, quantum-indeterminacy-free-will and evolution-of-consciousness, the claim was already "precedent, not licence"; the corrected figure widens the gap to neural millisecond timescales to two to three orders, and the existing qualifiers cover it. The quantum-interpretations support claim was weakened and recalibrated (above). No locus was made to claim neural transfer in either direction.
+- **Calibration**: Kobylkov, Gauger, Denton and Hagan are cited for empirical figures only, and none is enlisted for dualism. Neutral on P-Q2.
+- **Out-of-scope hits (not edited)**: `concepts/stapp-quantum-mind` L116 says Denton's tightly bound cryptochrome pair has "microsecond coherence ... some three orders of magnitude short of the millisecond neural timescale". That is the same Denton defect (the source gives 700 ns, sub-microsecond), though the three-orders figure is right. `concepts/spontaneous-collapse-theories` L106 was excluded (it gives Hagan's microtubule figure). `archive/concepts/quantum-biology` L188 says "Magnetoreception demonstrates microsecond coherence in biological conditions" (archive, not edited). `topics/evolutionary-case-for-quantum-neural-effects` L46 and `concepts/quantum-biology-and-neural-mechanisms` L72 already carry the settled sentence.
+- **Frontmatter**: ai_modified set to 2026-10-26T02:41:30+00:00 on all seven pages; `modified` unchanged.
+- **Published**: yes
 
 ## 02:30 - deep-review
 - **Status**: Success

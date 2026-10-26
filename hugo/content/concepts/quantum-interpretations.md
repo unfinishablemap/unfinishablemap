@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-10-15 19:19:46+00:00
+ai_modified: 2026-10-26 02:41:30+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 23:27:42+00:00
-lastmod: 2026-10-15 19:19:46+00:00
+lastmod: 2026-10-26 02:41:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -171,7 +171,7 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 3. **Decoherence timescales prove insurmountable.** Tegmark (2000) estimated neural microtubule coherence would decay in ~10⁻¹³ seconds—too short for millisecond cognition. Hagan, Hameroff, and Tuszyński (2002) challenged the model (non-thermal conditions, dipole interactions) and derived revised estimates of 10⁻⁵ to 10⁻⁴ seconds, but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn—the dispute is live, not settled either way. If Tegmark's original holds, conventional quantum-coherence models fail.
 
-   Two points blunt this against the time-symmetric reading. The revised estimates have some independent support in adjacent quantum-biological systems—magnetoreception's microsecond spin coherence and 2024 tryptophan superradiance (see [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)); photosynthetic coherence no longer belongs in that list, since Duan et al. (2017) measured it dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. More importantly, atemporal selection does not require sustained coherent superposition as Orch OR does. On the TI/TSVF reading, consciousness participates in which *transaction* completes; the substrate is the ordinary post-decoherence set of branch-candidates produced by standard neural dynamics (see [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)). The decoherence timescale constrains only variants requiring in-brain coherence.
+   Two points blunt this against the time-symmetric reading. The revised estimates have some independent support in adjacent quantum-biological systems—[magnetoreception's](/concepts/radical-pair-magnetoreception/) microsecond spin coherence and 2024 tryptophan superradiance (see [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)); photosynthetic coherence no longer belongs in that list, since Duan et al. (2017) measured it dephasing within roughly 60 femtoseconds with no indication of a biofunctional role. The magnetoreception entry is thinner than it looks. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. The broadband figure sits at or below the bottom of the revised 10⁻⁵–10⁻⁴ s range and concerns electron spins shielded inside a protein rather than tubulin conformations, so it shows that warm biology does not exclude microsecond coherence outright without corroborating the microtubule estimate itself. More importantly, atemporal selection does not require sustained coherent superposition as Orch OR does. On the TI/TSVF reading, consciousness participates in which *transaction* completes; the substrate is the ordinary post-decoherence set of branch-candidates produced by standard neural dynamics (see [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)). The decoherence timescale constrains only variants requiring in-brain coherence.
 
 4. **A new interpretation emerges that explains consciousness while eliminating selection.** Such an interpretation would challenge the Map by showing consciousness-exclusion needn't mean consciousness-inexplicability.
 
@@ -234,6 +234,8 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219–4224.
 1. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
+1. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503
+1. Kobylkov, D., Wynn, J., Winklhofer, M., Chetverikova, R., Xu, J., Hiscock, H., Hore, P. J., & Mouritsen, H. (2019). Electromagnetic 0.1–100 kHz noise does not disrupt orientation in a night-migrating songbird implying a spin coherence lifetime of less than 10 µs. *Journal of the Royal Society Interface*, 16(161), 20190716. https://doi.org/10.1098/rsif.2019.0716
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Saunders, S. (2010). Chance in the Everett interpretation. In *Many Worlds? Everett, Quantum Theory, and Reality*, eds. Saunders, Barrett, Kent, & Wallace. Oxford University Press.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.

@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-25T15:41:37+00:00
+ai_modified: 2026-10-26T02:41:30+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -171,7 +171,7 @@ Warm neural tissue [[decoherence|decoheres]] quantum superpositions in femtoseco
 
 **Second**, a Zeno-like mechanism would not require sustained coherence *between* observations, only rapid repeated observation events. Short coherence times may therefore not matter, though this remains speculative.
 
-**Third**, quantum biology has found coherence effects in warm biological systems, though the record has narrowed to one surviving, unsettled pillar: cryptochrome radical-pair avian magnetoreception, whose compass models need tens-of-microseconds electron spin coherence. Photosynthesis, long cited beside it, no longer supports the claim in its *long-lived electronic* form—Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds and found no biofunctional role, and the long-lived oscillations are now attributed to vibrational coherence, a live but separate question. The categorical objection—that biology cannot exploit quantum mechanics at all—stays significantly weakened on cryptochrome alone, but what survives is a *precedent* that the regime is not impossible rather than a *licence* for the neural case. See [[decoherence]] for details.
+**Third**, quantum biology has found coherence effects in warm biological systems, though the record has narrowed to one surviving, unsettled pillar: [[radical-pair-magnetoreception|cryptochrome radical-pair avian magnetoreception]], whose compass models need few-microsecond electron spin coherence. Photosynthesis, long cited beside it, no longer supports the claim in its *long-lived electronic* form—Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds and found no biofunctional role, and the long-lived oscillations are now attributed to vibrational coherence, a live but separate question. The categorical objection—that biology cannot exploit quantum mechanics at all—stays significantly weakened on cryptochrome alone, but what survives is a *precedent* that the regime is not impossible rather than a *licence* for the neural case. See [[decoherence]] for details.
 
 ## Contemplative Evidence
 

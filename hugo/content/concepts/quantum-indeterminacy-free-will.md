@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-25 15:41:37+00:00
+ai_modified: 2026-10-26 02:41:30+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-10-25 15:41:37+00:00
+lastmod: 2026-10-26 02:41:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -174,7 +174,7 @@ Warm neural tissue [decoheres](/concepts/decoherence/) quantum superpositions in
 
 **Second**, a Zeno-like mechanism would not require sustained coherence *between* observations, only rapid repeated observation events. Short coherence times may therefore not matter, though this remains speculative.
 
-**Third**, quantum biology has found coherence effects in warm biological systems, though the record has narrowed to one surviving, unsettled pillar: cryptochrome radical-pair avian magnetoreception, whose compass models need tens-of-microseconds electron spin coherence. Photosynthesis, long cited beside it, no longer supports the claim in its *long-lived electronic* form—Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds and found no biofunctional role, and the long-lived oscillations are now attributed to vibrational coherence, a live but separate question. The categorical objection—that biology cannot exploit quantum mechanics at all—stays significantly weakened on cryptochrome alone, but what survives is a *precedent* that the regime is not impossible rather than a *licence* for the neural case. See [decoherence](/concepts/decoherence/) for details.
+**Third**, quantum biology has found coherence effects in warm biological systems, though the record has narrowed to one surviving, unsettled pillar: [cryptochrome radical-pair avian magnetoreception](/concepts/radical-pair-magnetoreception/), whose compass models need few-microsecond electron spin coherence. Photosynthesis, long cited beside it, no longer supports the claim in its *long-lived electronic* form—Duan et al. (2017) measured electronic coherence dephasing within roughly 60 femtoseconds and found no biofunctional role, and the long-lived oscillations are now attributed to vibrational coherence, a live but separate question. The categorical objection—that biology cannot exploit quantum mechanics at all—stays significantly weakened on cryptochrome alone, but what survives is a *precedent* that the regime is not impossible rather than a *licence* for the neural case. See [decoherence](/concepts/decoherence/) for details.
 
 ## Contemplative Evidence
 

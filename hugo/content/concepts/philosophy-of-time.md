@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-25 09:32:39+00:00
+ai_modified: 2026-10-26 02:41:30+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 concepts:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-12 13:50:42+00:00
-lastmod: 2026-10-25 09:32:39+00:00
+lastmod: 2026-10-26 02:41:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +145,7 @@ Three responses preserve the framework:
 
 **First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out through environmental entanglement. But it doesn't explain why we see *definite* outcomes rather than superpositions of ourselves observing different results. As Tomaz, Mattos, and Barbatti (2025) note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." The selector problem remains—and consciousness remains a candidate selector, acting after decoherence has selected preferred bases.
 
-**Second, biological quantum effects indicate evolution's capacity.** On the leading but unsettled model, avian magnetoreception needs radical-pair spin coherence lasting tens of microseconds—a million times longer than typical molecular decoherence in solution. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
+**Second, biological quantum effects indicate evolution's capacity.** On the leading but unsettled model, [avian magnetoreception](/concepts/radical-pair-magnetoreception/) needs radical-pair spin coherence lasting microseconds—a million times longer than typical molecular decoherence in solution. The avian compass radical pair's spin-coherence lifetime has not been measured; broadband radiofrequency experiments on migratory birds suggest roughly 2–10 µs (Kobylkov et al. 2019), two to three orders of magnitude below the millisecond timescales of neural signalling, and the older "at least tens of microseconds" (Gauger et al. 2011) depends on a single-frequency result that has not replicated. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
 
 **Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. The Zeno mechanism shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—which may have different answers. For time-constitution specifically, each rapid observation event contributes to temporal structure; the succession of Zeno observations *is* the microstructure of experienced time.
 
@@ -256,6 +256,8 @@ Philosophy of time connects to all five tenets, with the connection running deep
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.
+1. Gauger, E. M., Rieper, E., Morton, J. J. L., Benjamin, S. C., & Vedral, V. (2011). Sustained quantum coherence and entanglement in the avian compass. *Physical Review Letters*, 106(4), 040503. https://doi.org/10.1103/PhysRevLett.106.040503
+1. Kobylkov, D., Wynn, J., Winklhofer, M., Chetverikova, R., Xu, J., Hiscock, H., Hore, P. J., & Mouritsen, H. (2019). Electromagnetic 0.1–100 kHz noise does not disrupt orientation in a night-migrating songbird implying a spin coherence lifetime of less than 10 µs. *Journal of the Royal Society Interface*, 16(161), 20190716. https://doi.org/10.1098/rsif.2019.0716
 1. Lees, J. P. et al. (BaBar Collaboration) (2012). Observation of time-reversal violation in the B⁰ meson system. *Physical Review Letters*, 109(21), 211801.
 1. Tomaz, A.A., Mattos, R.S. & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine C*. DOI: 10.1080/14786435.2025.2601922.
 1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/
