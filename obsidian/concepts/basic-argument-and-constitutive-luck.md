@@ -4,7 +4,8 @@ description: "Galen Strawson's Basic Argument reaches a non-physical agent as ha
 created: 2026-10-26
 modified: 2026-10-26
 human_modified: null
-ai_modified: 2026-10-26T00:13:02+00:00
+ai_modified: 2026-10-26T14:39:04+00:00
+last_deep_review: 2026-10-26T14:39:04+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -25,18 +26,18 @@ related_articles:
   - "[[basic-argument-and-constitutive-luck-2026-10-25]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-10-26
 last_curated: null
 ---
 
-The **Basic Argument** is Galen Strawson's argument that "true" or ultimate moral responsibility is impossible, and that "it makes no difference whether determinism is true or false" (Strawson 1994: 5). You do what you do "because of the way you are". To be truly responsible for what you do, you must be truly responsible for the way you are, which would require being *causa sui*, the cause of oneself, "at least in certain crucial mental respects". Nothing can be *causa sui*. Strawson is the son of P. F. Strawson, whose "Freedom and Resentment" defends responsibility, and father and son reach opposite verdicts. **Constitutive luck**, in Thomas Nagel's phrase, is luck in "the kind of person you are". The Basic Argument generalizes it by regress: every attempt to reshape one's constitution is made by someone who already has one.
+The **Basic Argument** is Galen Strawson's argument that "true" or ultimate moral responsibility is impossible, and that "it makes no difference whether determinism is true or false" (Strawson 1994: 5). You do what you do "because of the way you are". To be truly responsible for what you do, you must be truly responsible for the way you are, which would require being *causa sui*, the cause of oneself, "at least in certain crucial mental respects". Nothing can be *causa sui*. Strawson is the son of P. F. Strawson, whose "Freedom and Resentment" defends responsibility, and father and son reach opposite verdicts. **Constitutive luck**, in the term Thomas Nagel made standard, is luck in "the kind of person you are". The Basic Argument generalizes it by regress: every attempt to reshape one's constitution is made by someone who already has one.
 
 The Unfinishable Map's verdict holds only inside its own framework. The regress reaches the Map's non-physical agent as hard as a brain, because the agent did not choose the powers it chooses with: the [[#parity|parity problem]] (explained below). Strawson never discusses agent causation, souls or dualism, so this application is the Map's reading, though his reply to a self "independent" of character makes the point for any self. The Map's one reply, agent-causal origination, rejects the second premise rather than escaping the regress. That rejection is contested, and it ends at the primitive the [[rollback-argument-against-agent-causation|rollback argument]] presses ([[#meeting|where the two meet]], also below). So character is self-*shaped*, not self-created, and responsibility comes in degrees. The argument reaches ultimate desert, not causal efficacy: Strawson grants that people change the way they are, so the Bidirectional Interaction tenet is untouched.
 
 ## The Basic Argument {#the-argument}
 
-Strawson named the argument in 1994, having first stated it in *Freedom and Belief* (1986). It "appears to prove that we cannot be truly or ultimately morally responsible for our actions" (1994: 5). His restatement isolates two premises:
+Strawson's 1994 paper gives the argument its name, and its first note adapts the formal statement from *Freedom and Belief* (1986: 28–30). It "appears to prove that we cannot be truly or ultimately morally responsible for our actions" (1994: 5). His restatement isolates two premises:
 
 1. "You do what you do, in any situation in which you find yourself, because of the way you are" (p. 12).
 2. "To be truly morally responsible for what you do you must be truly responsible for the way you are – at least in certain crucial mental respects" (p. 13).
@@ -63,17 +64,17 @@ Nagel's sentence on the vices already holds partial self-formation together with
 
 **Kane's libertarianism**, on Strawson's reading, accepts premise (2) and stops the regress at undetermined efforts of will that shape character. The target is Robert Kane's 1989 paper. If such efforts are partly indeterministic yet shaped "(as Kane grants) by my already existing character, why am I not merely lucky?" (p. 18). Genes and early influences shape "the general bent and strength of our capacity to make efforts of will" (p. 18). "Kane appears to accept step (2) of the Basic Argument" (p. 19). Answering Kane's 1996 book, Strawson (2000) wrote that Kane agrees ultimate responsibility requires a kind of self-creation, and that he does too. Kane's account is the Map's naturalistic rival ([[event-causal-libertarianism]]).
 
-**The self picture** grants that no one is ultimately responsible for their "character or personality or motivational structure" (CPM). It "appeals to a certain picture of the self" (p. 20), a self S that "is imagined to be in some way independent of one's CPM" (p. 21). Strawson replies that "whatever S decides, it decides as it does because of the way it is", or else decides partly through indeterministic factors it cannot answer for (p. 21). "To be a source of true or ultimate responsibility, S must be responsible for being the way it is. But this is impossible, for the reasons given in the Basic Argument" (p. 21). He credits the picture to C. A. Campbell (n. 11). Note 8 extends the demand to Kant's "non-temporal noumenal nature", suggesting that Kant holds "radical or ultimate self-determination must take place even in the noumenal realm".
+**The self picture** grants that no one is ultimately responsible for their "character or personality or motivational structure" (CPM). It "appeals to a certain picture of the self" (p. 20), a self S that "is imagined to be in some way independent of one's CPM" (p. 21). Strawson replies that "whatever S decides, it decides as it does because of the way it is", or else decides partly through indeterministic factors it cannot answer for (p. 21). "To be a source of true or ultimate responsibility, S must be responsible for being the way it is. But this is impossible, for the reasons given in the Basic Argument" (p. 21). He points to C. A. Campbell for the picture (n. 11). Note 8 extends the demand to Kant's "non-temporal noumenal nature", suggesting that Kant holds "radical or ultimate self-determination must take place even in the noumenal realm".
 
 ## Replies in the Literature {#replies}
 
-**Agent-causal origination rejects premise (2).** Randolph Clarke's reply (2003: 170–76) is given here as the Stanford Encyclopedia's free-will entry summarizes it; those pages were not read. Agent-causal theorists can hold that aspects of how one is "fully explain an agent's choice without causally determining it", while "the agent himself causes the choice that is made". Then "it is not true that there is a sufficient 'ultimate' source of it external to the agent" (O'Connor and Franklin 2022, §3.1). The demand to be *causa sui* gives way to the demand that the agent originate; the agent does not become its own cause. Clarke offers the reply conditionally and is sceptical of libertarian accounts generally. Mark Istvan (2011) argues that such accounts "fail" to immunize the agent, as the skepticism entry reports (Caruso 2018, §2.3).
+**Agent-causal origination rejects premise (2).** Randolph Clarke's reply (2003: 170–76) is given here as the Stanford Encyclopedia's free-will entry summarizes it; those pages were not read. Agent-causal theorists can hold that aspects of how one is "fully explain an agent's choice without causally determining it", while "the agent himself causes the choice that is made". Then "it is not true that there is a sufficient 'ultimate' source of it external to the agent" (O'Connor and Franklin 2022, §3.1). The demand to be *causa sui* gives way to the demand that the agent originate; the agent does not become its own cause. Clarke offers the reply conditionally and is sceptical of libertarian accounts generally. Michael Istvan (2011) argues that such accounts "fail" to immunize the agent, as the skepticism entry reports (Caruso 2018, §2.3).
 
 **Locus and degree.** Alfred Mele "argues that Strawson misconstrues the locus of freedom and responsibility", which belongs principally to actions and only "derivatively" to character (O'Connor and Franklin 2022, on Mele 1995: 221ff.). Mele (2006) and Timothy O'Connor (2009) suggest that freedom and responsibility "come in degrees and grow over time" as how one is becomes "increasingly shaped by one's own past choices". O'Connor co-wrote that entry, so it cannot confirm his view independently, and he argues that agent causation need not require substance dualism. Mele is agnostic about libertarianism.
 
 **The luck pincer.** Neil Levy (2011) argues that every morally significant act is subject to constitutive luck, to present luck around the time of action, or to both. Levy criticizes libertarians and compatibilists alike.
 
-**Sceptics split.** The skepticism entry says that agent-causal libertarianism "could, in theory, supply this sort of control". It reports that hard incompatibilists such as Derk Pereboom object instead that agent causation "cannot be reconciled with our best physical theories" (Caruso 2018, §2.2). A leading source sceptic thus does not rest his case against agent causation on the regress; his verdict on the Basic Argument itself was not checked.
+**Sceptics split.** The skepticism entry says that agent-causal libertarianism "could, in theory, supply this sort of control". It reports that hard incompatibilists such as [[the-manipulation-argument-and-hard-incompatibilism|Derk Pereboom]] object instead that agent causation "cannot be reconciled with our best physical theories" (Caruso 2018, §2.2). A leading source sceptic thus does not rest his case against agent causation on the regress; his verdict on the Basic Argument itself was not checked.
 
 ## The Parity Problem: The Map's Reading {#parity}
 
@@ -104,7 +105,7 @@ On the Map's reading, the two concessions are one, seen from two sides:
 - Reasons do not explain why the settling went one way rather than another, so the agent's nature does not fix the choice. That is the reply's ground for denying that the choice is mere constitutive luck.
 - For the same reason, nothing more basic explains why the settling went one way. That is the rollback's [[rollback-argument-against-agent-causation#bedrock|token primitive]].
 
-The Map can say *who* originates. It has no further answer to why the originator's settling went this way, nor to why the originator is such as to settle at all. Both questions end at the bare exercise of the power. [[the-divided-will#luck-objection|The divided-will article]] treats the akratic form of present luck.
+The Map can say *who* originates. It has no further answer to why the originator's settling went this way, nor to why the originator is such as to settle at all. Both questions end at the [[quantum-indeterminacy-free-will|bare exercise of the power]]. [[the-divided-will#luck-objection|The divided-will article]] treats the akratic form of present luck.
 
 ## What the Map Can Claim {#what-the-map-can-claim}
 
@@ -119,7 +120,7 @@ The Map can say *who* originates. It has no further answer to why the originator
 
 **[[tenets#^dualism|Dualism]].** Dualism gains nothing, because note 8 extends the demand to a noumenal self. Nor is Strawson an ally: the collection reprinting the 1994 paper is titled *Real Materialism*, the Map records him championing panpsychist [[russellian-monism|Russellian monism]], and his "thin subject" view denies that subjects persist across gaps in consciousness ([[self-and-self-consciousness]]).
 
-**[[tenets#^no-many-worlds|No Many Worlds]].** The persisting subject that this tenet's indexical objection relies on is a commitment, not a result. Persistence lets self-shaping accumulate across a life. It does not make the subject's original powers chosen.
+**[[tenets#^no-many-worlds|No Many Worlds]].** The [[personal-identity|persisting subject]] that this tenet's indexical objection relies on is a commitment, not a result. Persistence lets self-shaping accumulate across a life. It does not make the subject's original powers chosen.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** The interface says where a settling touches physics. It answers neither constitutive luck nor present luck.
 

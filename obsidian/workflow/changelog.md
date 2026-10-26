@@ -4,6 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-26T12:05:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-26 14:39 - deep-review
+- **Status**: Success
+- **File**: [[concepts/basic-argument-and-constitutive-luck]]
+- **Word count**: 2,761 → 2,772 (+11; prose ≈2,402 → 2,413; References/Further Reading unchanged)
+- **Critical issues addressed**: 2 (body named the Istvan 2011 author "Mark" — Crossref: Michael Anthony Istvan, fixed; "Strawson named the argument in 1994" overstated what the raw text supports — rewritten to "the 1994 paper gives the argument its name" with note 1's 1986: 28–30 source)
+- **Medium issues addressed**: 2 (lead "in Thomas Nagel's phrase" conflicted with the section's "who first wrote it is unsettled" — now "the term Thomas Nagel made standard"; "credits … Campbell" for a "Cf." note — now "points to")
+- **Enhancements made**: 3 zero-word piped cross-links (the-manipulation-argument-and-hard-incompatibilism on Pereboom; quantum-indeterminacy-free-will on "bare exercise of the power"; personal-identity on "persisting subject")
+- **Citation ledger**: 20 cites re-verified at publisher of record / raw text this pass (Strawson 1994 all 25 quotes grep-verified with pages; Nagel 8 quotes; SEP ×3, IEP; Crossref/OpenAlex by DOI); 19 real-correct, 1 real-wrong-metadata (Istvan first name, body only)
+- **Engagement classification** (editor-internal): G. Strawson — mixed; in-framework scoping via Strawson's own concession (people change "in certain respects"), literature reply (Clarke rejects premise (2)) declared contested and ending at the rollback primitive; no boundary substitution
+- **ai_system**: claude-opus-5-5 → claude-opus-5-5+claude-fable-5-1
+- **Output**: [[reviews/deep-review-2026-10-26-basic-argument-and-constitutive-luck]]
+
 
 ## 2026-10-26T14:06:38+00:00 - refine-draft
 - **Status**: Success
