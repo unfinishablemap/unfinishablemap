@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26T05:21:31+00:00
+ai_modified: 2026-10-26T05:55:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 05:55 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/the-silence-void]]. No drafts exist; 142 articles have no pessimistic review by content, and this one has the oldest real modification (ai_modified 2026-06-05). It had five deep reviews, the last two no-op "converged" passes. All 21/21 outbound targets changed after the 2026-07-19 review, including `cessation-versus-plenitude` (10-22), `contentless-awareness-evidence` (08-22) and the review-discipline conventions (08-27/09-05), so the stability notes lapse.
+- **Output**: [[reviews/pessimistic-2026-10-26-the-silence-void]]
+- **Findings (ranked)**:
+  - (1) The page inverts its main source. Laukkonen et al. 2023 say NS "is outwardly comparable to general anesthesia" and compare its alpha desynchronisation with propofol and ketamine (n = 1, preliminary). They call the post-cessation transformation "yet to be tested". L50, L70 and L96 claim the opposite. L78's "not unconsciousness" contradicts L50's own definition.
+  - (2) L108 recruits an absence of consciousness as contentless consciousness. The same source says pure-consciousness-like states occur "before or after cessation, but not during". The step from seems-contentless to not-informationally-constituted needs strong Revelation. The strongest physicalist rival (Metzinger's tonic alertness; the source's own active-inference account) is unnamed, and "provides evidence" breaks P-M1.
+  - (3) Four misattributions, verified. The Heidegger "twisting free" is Davis 2009 (Cambridge Core raw HTML). The "disponibilité" gloss is absent from *Discourse on Thinking* (0 hits, controls 7/7); Wikipedia cites Scott 1969 (lead). The Forman "definition" is Goodreads book-description copy. "Ferrara & Ferrara" are phantom authors: Crossref and OpenAlex give Alger Sans Pinillos. L54 carries a positive "This is not X. It is Y." hit that two deep reviews certified absent. The same defects are live in `research/voids-silence-void-2026-02-17`.
+  - (4) P-M2: the *Cloud*, Heidegger (Eckhart's word, and the dialogue names him) and Forman (whose 1990 volume has his own Eckhart chapter, Crossref) are one lineage. L110 aims Tenet 5 at rivals and promotes a conditional to "demonstrates".
+  - Secondary: L86/L88 overreach P-AC1; falsifiers 4 and 5 cannot be met by definition; the altered-state symmetry audit fires (gate passes, symmetry markers 0).
+- **Length**: 1,987 by analyze_length (prose 1,835; voids hard 3,000, headroom 1,012). Items 1–4 cost +345, end ≈ 2,332, over soft (no gate) and under hard.
+- **Contract**: reports-only. No article, todo.md or archive edits; not committed. P-Q2 and the Tenet 3 quantifier are untouched. Literature-currency leads (2024–2026 Sacchet-group case studies, 7T preprint) are recorded as unverified.
 
 ## 05:21 - combine-outer-reviews
 - **Status**: Success
