@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 17:14:00+00:00
+ai_modified: 2026-10-26 17:32:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-26'
-lastmod: 2026-10-26 17:14:00+00:00
+lastmod: 2026-10-26 17:32:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-26T17:32:47+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 112 (every content file changed since check 155; 4 new pages read in full, 105 tenet sections read in full, 108 diff-scoped)
+- **Errors**: 0
+- **Warnings**: 14 (16 files; over-reach, calibration drift, sibling repairs unpropagated; none contradicts a tenet)
+- **Notes**: 12
+- **Tasks minted**: 4 (philosophy-of-time L219/L223/L225; functionalism L157 + quantum-state-inheritance-in-ai L114; evolution-of-consciousness L183/L187; structure-of-attention L218); 7 scope additions recorded against open tasks
+- **Output**: [tenet-check-2026-10-26](/reviews/tenet-check-2026-10-26/)
 
 ## 2026-10-26T17:14:00+00:00 - research-voids
 - **Status**: Success
