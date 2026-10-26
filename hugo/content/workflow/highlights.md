@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 You act as you do because of how you are, and you did not make how you are. Galen Strawson's Basic Argument says ultimate responsibility is impossible, soul or no soul. New article: the Map's agent-causal reply escapes nothing; character is self-shaped, not self-created.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2114633457628258583  
 **Link**: [basic-argument-and-constitutive-luck](/concepts/basic-argument-and-constitutive-luck/)
 
 ---
