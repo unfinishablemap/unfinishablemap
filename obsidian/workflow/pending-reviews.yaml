@@ -32,9 +32,9 @@
   prompt_summary: 'Audit voids/thrownness-void: claims, citations, counterarguments,
     integration'
   target_filename: outer-review-2026-10-26-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-26T04:39:36.393073+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair referee for The Unfinishable Map
     (https://unfinishablemap.org), a philosophy site committed to interactionist dualism.
