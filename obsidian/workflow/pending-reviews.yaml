@@ -122,3 +122,33 @@
   subject_articles:
   - concepts/depersonalisation.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/bba21405-91bc-4502-b4a2-9a54772a092e
+  commissioned_at: '2026-10-27T03:22:44.103280+00:00'
+  prompt_summary: 'Audit concepts/depersonalisation: clinical datum, four readings,
+    integration'
+  target_filename: outer-review-2026-10-27-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous, hostile-referee audit of one article on
+    The Unfinishable Map (https://unfinishablemap.org), a philosophy site defending
+    interactionist dualism with a minimal quantum interface: https://unfinishablemap.org/concepts/depersonalisation/
+    ("Depersonalisation"). Fetch the live page directly, and consult the recent-changes
+    log at https://unfinishablemap.org/workflow/changelog/ because search indexes
+    lag the site by 24-48 hours. Examine three things: (1) the clinical datum: is
+    depersonalisation/derealisation characterised accurately against the current psychiatric
+    and neuroscientific literature, and do the citations exist and say what the article
+    claims? (2) the four readings the article offers: are they exhaustive and fairly
+    stated, and does the article''s preferred reading actually follow or is the argument
+    question-begging? (3) integration: does the article connect correctly to the site''s
+    tenets and to sibling articles on mine-ness, the self and binding, and does it
+    contradict positions stated elsewhere on the site? Flag any fabricated or misattributed
+    quotations. End your report with a list of concrete potential improvements to
+    specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit depersonalisation
+  subject_articles:
+  - concepts/depersonalisation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-27-chatgpt-5-6-sol-pro.md
