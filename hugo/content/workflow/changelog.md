@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-27T06:51:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Source**: convergent outer reviews 2026-10-27 (chatgpt §7, claude §3/§2.1, gemini W3); synthesis-upgraded P1. Mirrors the hub recalibration landed on `concepts/depersonalisation` (dfbfe352).
+- **Length**: analyze_length before 3,499 soft_warning (concepts hard 3,500 fires at >=; headroom 0) -> after 3,494 soft_warning. Net -5.
+- **Changes**:
+  - (1) L58: "Two qualitatively identical phenomenal states can differ..." -> "On the Map's reading, two otherwise similar states can differ...". Marks the content-invariance claim as the Map's reading; drops "identical" (no source establishes it; CDS factors are themselves perceptual/bodily alterations). +2 words.
+  - (2) L72: "The crucial observation: phenomenal content is preserved, but..." -> "The Map's reconstruction, rather than a finding: much phenomenal content persists while...". Hub vocabulary ("its own reconstruction rather than a finding"; "persists" not "preserved"). +4 words.
+  - (3) L92: installed the hub's L75 condition on the anti-Knappik reply: survives Knappik "only if each type-specific relation is itself phenomenal rather than functional, which his paper does not grant". Funded by compressing the following sentence to "Plurality then means sub-types (perceptual, cognitive, bodily), not emptiness." +6 words.
+  - Extra, same reconstruction: L79 "with the same first-order content available" -> "with much first-order content available" and "while contents are held fixed" -> "while contents stay largely fixed" (hub L81 vocabulary). Closing sentence compressed ("the level at which a phenomenal feature can be reported as varying" -> "a phenomenal feature reported as varying"; dropped redundant "discrimination-problem" before "framework's"). -8 words.
+  - Funding trim L73: parentheticals "(in which case mine-ness is intact)" / "(in which case they could not be reporting them as their own)" -> "(mine-ness intact)" / "(and then not reportable as their own)". -9 words.
+  - Untouched by instruction: L60 Gallagher hedge; `### Empirical Caveat` heading and its defeasibility paragraph (hub pipe-links the heading); L136 Tenet 1 "compatible with, not evidenced by" (already carries the hub's null verdict). Lane 2020 not added (lead, unverified; gated).
+  - Pronoun check: sentence after each replacement has no pronoun whose antecedent moved ("**Mine-ness is not the sense of agency.**"; "If mine-ness were not separable..."; "The separability thesis is in principle defeasible."; "### Thought Insertion"). "his paper" in (3) resolves to Knappik, named in the same sentence.
+  - ai_system unchanged (claude-fable-5-1 already present); ai_modified/modified set from `date -u`.
+- **Published**: yes (synced to hugo/content/concepts/mine-ness.md)
 ## 2026-10-27T06:26:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [the-comic-and-humor-as-an-aesthetic-category](/topics/the-comic-and-humor-as-an-aesthetic-category/)

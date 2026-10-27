@@ -2,9 +2,9 @@
 title: "Mine-ness and the Ownership Void"
 description: "Mine-ness is the phenomenal mark by which experience presents as belonging to a subject—separable in pathology, yet its mechanism of appropriation stays opaque."
 created: 2026-02-24
-modified: 2026-10-02
+modified: 2026-10-27
 human_modified:
-ai_modified: 2026-10-09T18:09:13+00:00
+ai_modified: 2026-10-27T06:51:34+00:00
 last_deep_review: 2026-08-22T21:12:19+00:00
 draft: false
 topics:
@@ -55,7 +55,7 @@ Mine-ness, on Zahavi's account, is the dimension of pre-reflective self-awarenes
 
 Three clarifications keep the concept from sliding into adjacent notions:
 
-**Mine-ness is not the content of experience.** The content of seeing red is *red*. The content of remembering Paris is *Paris*. Mine-ness is the [[metacognitive-access-versus-retention|orthogonal dimension]]: that this seeing and this remembering present themselves as the seeing and remembering *of a subject*. Two qualitatively identical phenomenal states can differ in whether they carry the mine-ness tag, as depersonalisation will illustrate.
+**Mine-ness is not the content of experience.** The content of seeing red is *red*. The content of remembering Paris is *Paris*. Mine-ness is the [[metacognitive-access-versus-retention|orthogonal dimension]]: that this seeing and this remembering present themselves as the seeing and remembering *of a subject*. On the Map's reading, two otherwise similar states can differ in whether they carry the mine-ness tag, as depersonalisation illustrates.
 
 **Mine-ness is not the sense of agency.** Agency is the sense that "I am the initiator" of an action or thought. Ownership is the sense that "this is happening in my experience." Shaun Gallagher's analysis distinguishes the two and shows they come apart in pathology: in schizophrenic thought insertion, agency is lost (someone else seems to be producing the thought) while ownership is preserved (the thought still occurs in the patient's mind). On the Gallagher-style reading, [[depersonalisation|depersonalisation]] can disrupt ownership while sparing agency, though active-inference accounts describe a disturbed sense of control, making the separation one-way.
 
@@ -69,13 +69,13 @@ The case for treating mine-ness as a distinct feature rests on its **dissociabil
 
 ### Depersonalisation Disorder
 
-[[depersonalisation|Depersonalisation disorder]] (DPD) is the central piece of evidence. Patients report that experience continues—they see, hear, think, and act—but the experiences feel as though they are happening "behind glass" or to someone else. Alexandre Billon's phenomenological work characterises DPD as "the lack of a phenomenal feature that marks my experiences as mine." The crucial observation: phenomenal content is preserved, but the for-me character is degraded.
+[[depersonalisation|Depersonalisation disorder]] (DPD) is the central piece of evidence. Patients report that experience continues—they see, hear, think, and act—but the experiences feel as though they are happening "behind glass" or to someone else. Alexandre Billon's phenomenological work characterises DPD as "the lack of a phenomenal feature that marks my experiences as mine." The Map's reconstruction, rather than a finding: much phenomenal content persists while the for-me character is degraded.
 
-If mine-ness were not separable, DPD would be impossible to describe. The patient could not say "my experiences feel as if they are not mine" because the experiences would either be theirs (in which case mine-ness is intact) or not (in which case they could not be reporting them as their own). The fact that DPD descriptions are coherent—that patients can both *have* the experiences and *report them as alienated*—is evidence that mine-ness is a feature distinct from the bare having of experience.
+If mine-ness were not separable, DPD would be impossible to describe. The patient could not say "my experiences feel as if they are not mine" because the experiences would either be theirs (mine-ness intact) or not (and then not reportable as their own). The fact that DPD descriptions are coherent—that patients can both *have* the experiences and *report them as alienated*—is evidence that mine-ness is a feature distinct from the bare having of experience.
 
 Anna Ciaunica and colleagues describe DPD as a crack in a normally transparent window. On the Map's reading, the window's transparency is its mine-ness: ordinarily we see *through* it to the world. When it cracks the window becomes partly visible—mine-ness becomes a noticed absence rather than an unnoticed presence, and subjects report a fracture between an "observing self" and an "observed self." The pathology converts a transparent feature into an opaque one without destroying consciousness itself.
 
-DPD is also one of the cleanest cases where the [[discrimination-problem]] engages at the *phenomenal-feature level* rather than at the metaphysical-zombie level. The discrimination problem, in its general form, asks whether functional duplicates can differ in their phenomenology. DPD supplies the within-subject version: the same subject, with the same first-order content available, reports the for-me character degraded. The discriminator the framework names — what distinguishes "experience with mine-ness" from "functionally similar processing without mine-ness" — is here visibly *within* the phenomenology, not behind it. That makes separability the crux of the discrimination-problem framework's most tractable application: the level at which a phenomenal feature can be reported as varying while contents are held fixed.
+DPD is also one of the cleanest cases where the [[discrimination-problem]] engages at the *phenomenal-feature level* rather than at the metaphysical-zombie level. The discrimination problem, in its general form, asks whether functional duplicates can differ in their phenomenology. DPD supplies the within-subject version: the same subject, with much first-order content available, reports the for-me character degraded. The discriminator the framework names — what distinguishes "experience with mine-ness" from "functionally similar processing without mine-ness" — is here visibly *within* the phenomenology, not behind it. That makes separability the crux of the framework's most tractable application: a phenomenal feature reported as varying while contents stay largely fixed.
 
 ### Thought Insertion
 
@@ -89,7 +89,7 @@ The contemplative evidence reinforces the depersonalisation evidence: mine-ness 
 
 ### Empirical Caveat
 
-Franz Knappik has argued that DPD symptoms do not necessarily reflect loss of a *single* global mine-ness feature: depersonalisation and derealisation can occur independently, and different modalities may be affected differently, so what we call "loss of mine-ness" may be a family of related losses rather than the failure of a single phenomenal mark. The Map takes the challenge seriously: even if mine-ness is plural, *each* form is still a separable phenomenal feature dissociable from content and from agency. The plurality means the concept needs sub-types (perceptual, cognitive, bodily), not that it is empty.
+Franz Knappik has argued that DPD symptoms do not necessarily reflect loss of a *single* global mine-ness feature: depersonalisation and derealisation can occur independently, and different modalities may be affected differently, so what we call "loss of mine-ness" may be a family of related losses rather than the failure of a single phenomenal mark. The Map's reply—that even a plural mine-ness leaves *each* form a separable phenomenal feature dissociable from content and agency—survives Knappik only if each type-specific relation is itself phenomenal rather than functional, which his paper does not grant. Plurality then means sub-types (perceptual, cognitive, bodily), not emptiness.
 
 The separability thesis is in principle defeasible. It would be undermined by cases in which the for-me character co-varies *perfectly* with phenomenal content or with the sense of agency—where every disruption to content also disrupts ownership, or every loss of agency also abolishes ownership. The dissociations above, one-way for agency, break that co-variation; so long as they replicate, the separability thesis stands.
 
