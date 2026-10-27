@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-10-12 13:40:45+00:00
+ai_modified: 2026-10-27 01:42:02+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 07:40:05+00:00
-lastmod: 2026-10-12 13:40:45+00:00
+lastmod: 2026-10-27 01:42:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,9 +130,9 @@ Their model's specific prediction of temperature-independent exocytosis was late
 
 Doesn't [decoherence](/concepts/decoherence/) destroy quantum superpositions too quickly in warm neural tissue for consciousness to interact with them?
 
-This objection requires careful handling because it involves two separable questions. Decoherence is extremely rapid in neural tissue. Tegmark (2000) calculated decoherence times: 10^-20 seconds for neuron firing, 10^-13 for microtubules — far shorter than the millisecond timescales of neural processing. If consciousness requires maintaining quantum coherence across neurons, decoherence appears to rule this out.
+This objection involves two separable questions. Decoherence is extremely rapid in neural tissue. Tegmark (2000) calculated decoherence times: 10^-20 seconds for neuron firing, 10^-13 for microtubules — far shorter than the millisecond timescales of neural processing. If consciousness requires maintaining quantum coherence across neurons, decoherence appears to rule this out.
 
-This creates a tension within the selection framework that should be stated honestly. Stapp's quantum Zeno mechanism *does* require repeated observation of coherent states. If Tegmark's decoherence timescales are correct, the Zeno mechanism faces a serious difficulty: coherence may dissipate far too quickly for attentional observation to stabilise it. Hagan et al. (2002) disputed Tegmark's model parameters, yielding estimates eight to nine orders of magnitude longer, but this challenge has not achieved consensus in the physics community.
+This tension within the selection framework should be stated honestly. Stapp's quantum Zeno mechanism *does* require repeated observation of coherent states. If Tegmark's decoherence timescales are correct, the Zeno mechanism faces a serious difficulty: coherence may dissipate too quickly for attentional observation to stabilise it. Hagan et al. (2002) disputed Tegmark's microtubule parameters, yielding estimates eight to nine orders of magnitude longer, but only for microtubules; Tegmark's neuron-firing figure, which Stapp's ion-channel site faces, stands, and the revision is itself contested.
 
 However, the broader selection framework does not stand or fall with Stapp's specific mechanism. The framework's core claim is more general: consciousness biases *which outcome* occurs when superposition resolves — whether through decoherence or measurement. Decoherence explains why interference patterns vanish, not why one particular outcome becomes actual. If actualisation remains undetermined by physics, consciousness could operate at that juncture regardless of how quickly coherence is lost.
 

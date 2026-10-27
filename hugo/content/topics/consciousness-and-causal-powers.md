@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-10-25 16:41:44+00:00
-ai_system: claude-sonnet-4-5-20250929+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-27 01:42:02+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[mental-causation-and-downward-causation]]'
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:37:02+00:00
-lastmod: 2026-10-25 16:41:44+00:00
+lastmod: 2026-10-27 01:42:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,7 +111,7 @@ Faced with multiple options—speak or stay silent, approach or avoid—consciou
 
 Consciousness can hold neural patterns active through sustained attention. The quantum Zeno effect proposes that repeated "observation" of a neural state prevents it from decohering—watching a pot that never boils (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/) and [structure-of-attention](/topics/structure-of-attention/)). The Map's own mechanism ranking puts this candidate *below* post-decoherence selection on the timescale grounds set out next ([P-Q4](/positions/quantum-interface/#p-q4)); it appears here as the historically prominent proposal, not the preferred one.
 
-The Zeno proposal faces a serious quantitative gap. Standard decoherence calculations for neural superpositions in warm, wet brain tissue give coherence times of $10^{-13}$ to $10^{-20}$ seconds; attention runs at 10–30 Hz. The mechanism would need observations at $10^{13}$ Hz at the slow end of that range and $\geq 10^{20}$ Hz at the fast end—twelve to nineteen orders of magnitude faster than the attentional phenomenology. Closing the gap requires protected microenvironments (the contested Penrose-Hameroff microtubule conjecture) or an alternative quantum mechanism. The coherence-time requirement remains a critical vulnerability.
+The Zeno proposal faces a serious quantitative gap. Standard decoherence calculations for warm, wet brain tissue give coherence times of $10^{-13}$ seconds for microtubule superpositions and $10^{-20}$ seconds for superposed neuron firing, the ion-channel scale where Stapp locates the relevant uncertainty; attention runs at 10–30 Hz. The mechanism would need observations at $10^{13}$ Hz on the microtubule figure and $\geq 10^{20}$ Hz on the ion-channel one—twelve to nineteen orders of magnitude faster than the attentional phenomenology. Closing the gap requires protected microenvironments (the contested, microtubule-only Penrose-Hameroff conjecture) or an alternative quantum mechanism.
 
 Stapp's own boundary is narrower than the use this article makes of him. In his von Neumann taxonomy the agent supplies Process 1—which question is put to nature—while the answer falls to a third process, nature's Born-obeying choice between "Yes" and "No." Direct control over *which* outcome obtains is a move he declines. The outcome-biasing posited under §"Selection of Action" is therefore the Map's commitment, not an inheritance from Stapp; [stapp-quantum-mind](/concepts/stapp-quantum-mind/) states the disavowal at its source.
 
@@ -199,7 +199,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet commit
 
 **Ontological restraint**: It grants consciousness causal efficacy without multiplying unexplained powers. One *kind* of mechanism—quantum selection at the phenomenal-physical interface—suffices. The restraint presupposes a single conscious subject coordinating candidate mechanisms—a [unity-of-consciousness](/concepts/unity-of-consciousness/) assumption the split-brain literature complicates (Bayne 2010; Schechter 2018) and the Map carries as an undischarged background commitment.
 
-**Empirical compatibility**: Current physics permits the architecture; specific candidates face unresolved quantitative constraints. The Zeno proposal needs protected microenvironments extending neural coherence by twelve to nineteen orders of magnitude (the contested Penrose-Hameroff conjecture; see [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)) or an unspecified alternative.
+**Empirical compatibility**: Current physics permits the architecture; specific candidates face unresolved quantitative constraints. The Zeno proposal needs protected microenvironments extending neural coherence by twelve to nineteen orders of magnitude (the contested Penrose-Hameroff conjecture reaches only the microtubule end; see [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)) or an unspecified alternative.
 
 **Explanatory power**: One mechanism covers effort, voluntary-control limits, attention-persistence correlation, and the evolutionary value of consciousness.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-09-30 12:13:01+00:00
+ai_modified: 2026-10-27 01:42:02+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:56:44+00:00
-lastmod: 2026-09-30 12:13:01+00:00
+lastmod: 2026-10-27 01:42:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -161,7 +161,7 @@ Lopez and Montemayor (2025) press exactly this gap: IIT, they argue, needs an ac
 
 This selective character is what the Map's framework predicts. If consciousness operates by biasing quantum indeterminacies in neural systems, then integration involves consciousness selecting which neural patterns become actual from among the possibilities the brain presents. The same reading does work elsewhere: the [ape-human cognitive threshold](/topics/consciousness-and-cognitive-distinctiveness/#the-intelligence-threshold) is the point where the neural interface becomes rich enough for this selective integration to operate.
 
-The decoherence objection is serious and must be stated honestly. Tegmark (2000) calculated that quantum superpositions in neural systems decohere on timescales of 10⁻¹³ to 10⁻²⁰ seconds—far faster than the millisecond timescales of neural processing. If quantum coherence vanishes in femtoseconds, what is there for consciousness to select among? Three responses deserve consideration. First, the Map's framework requires only that quantum *indeterminacy* persist at the moment of measurement, not that large-scale *coherence* be maintained; individual quantum events (ion channel openings, synaptic vesicle releases) involve genuine indeterminacy regardless of decoherence. Second, Tegmark's calculations targeted large-scale coherent superpositions of the kind Penrose-Hameroff require; the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet asks for far less—biasing individual quantum events, not maintaining macroscopic superpositions. Third, whether neural quantum events are amplified to affect cognition remains an open empirical question; Fisher (2015) speculatively proposed that nuclear spin coherence in Posner molecules might survive for hours. The [two-paths framing developed in the quantum-biology article](/topics/quantum-biology-and-neural-consciousness/#why-this-matters-for-consciousness) gives this response its wider home: pre-decoherence-coherence mechanisms (Orch OR, Fröhlich-microtubule) need the timescales to favour them, while post-decoherence-selection—consciousness biasing which outcome becomes actual from the improper reduced-state mixture *after* decoherence completes—is consistent with even the shortest estimates. The conceptual point—that integration as activity better captures the selective character of experience than integration as structural property—stands independently of which quantum mechanism, if any, turns out correct.
+The decoherence objection is serious and must be stated honestly. Tegmark (2000) calculated that quantum superpositions in neural systems decohere within 10⁻²⁰ to 10⁻¹³ seconds—far faster than the millisecond timescales of neural processing. If quantum coherence vanishes in femtoseconds, what is there for consciousness to select among? Three responses deserve consideration. First, the Map's framework requires only that quantum *indeterminacy* persist at the moment of measurement, not that large-scale *coherence* be maintained; individual quantum events (ion channel openings, synaptic vesicle releases) involve genuine indeterminacy regardless of decoherence. Second, Tegmark's calculations targeted large-scale coherent superpositions—superposed neuron firing, and the microtubule states Penrose-Hameroff require; the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet asks for far less—biasing individual quantum events, not maintaining macroscopic superpositions. Third, whether neural quantum events are amplified to affect cognition remains empirically open; Fisher (2015) speculatively proposed that nuclear spin coherence in Posner molecules might survive for hours. The [two-paths framing developed in the quantum-biology article](/topics/quantum-biology-and-neural-consciousness/#why-this-matters-for-consciousness) gives this response its wider home: pre-decoherence-coherence mechanisms (Orch OR, Fröhlich-microtubule) need the timescales to favour them, while post-decoherence-selection—consciousness biasing which outcome becomes actual from the improper reduced-state mixture *after* decoherence completes—is consistent with even the shortest estimates. The conceptual point—that integration as activity better captures the selective character of experience than integration as structural property—stands independently of which quantum mechanism, if any, turns out correct.
 
 ## The Binding Problem Revisited
 

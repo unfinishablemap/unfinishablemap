@@ -4,7 +4,7 @@ description: "Post-decoherence selection is whatever actualizes one outcome from
 created: 2026-03-29
 modified: 2026-10-05
 human_modified:
-ai_modified: 2026-10-08T08:35:00+00:00
+ai_modified: 2026-10-27T01:42:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,7 +81,7 @@ Every interpretation of quantum mechanics must take a stance on this gap—wheth
 
 ## Pre-Decoherence vs. Post-Decoherence Interaction
 
-Established quantum consciousness proposals—Stapp's quantum Zeno mechanism and Penrose-Hameroff Orch OR—place consciousness's causal role *before* or *during* decoherence. On the usual reading they require quantum coherence in neural structures to persist long enough for consciousness to interact with superposed states; Stapp disputes that reading of his own model, a dispute set out in the [[process-1-specification-problem|Process 1 specification problem]]. The usual reading exposes them to the [[timing-gap-problem|timing gap problem]]: Tegmark's (2000) calculations suggest decoherence in neural tissue occurs within femtoseconds, while conscious decisions take hundreds of milliseconds. Even revised estimates narrowing the gap by nine orders of magnitude leave a factor of roughly a thousand.
+Established quantum consciousness proposals—Stapp's quantum Zeno mechanism and Penrose-Hameroff Orch OR—place consciousness's causal role *before* or *during* decoherence. On the usual reading they require quantum coherence in neural structures to persist long enough for consciousness to interact with superposed states; Stapp disputes that reading of his own model, a dispute set out in the [[process-1-specification-problem|Process 1 specification problem]]. The usual reading exposes them to the [[timing-gap-problem|timing gap problem]]: Tegmark's (2000) calculations give decoherence times of about 10⁻²⁰ seconds for superposed neuron firing and 10⁻¹³ seconds for microtubule excitations, while conscious decisions take hundreds of milliseconds. Even the revised microtubule estimates of Hagan et al. (2002), which narrow that site's gap by eight to nine orders of magnitude, leave a factor of roughly a thousand, and they do not reach the ion-channel case Stapp's mechanism occupies.
 
 The Map's post-decoherence selection proposal sidesteps this objection entirely. If consciousness acts on the already-decohered mixture—fixing which single outcome the improper mixture resolves to—the decoherence timescale becomes irrelevant. Consciousness operates not on fragile quantum superpositions but on the robust, classically distinguishable branch structure that decoherence has already prepared. That structure supplies distinguishable candidate outcomes without settling any of them as the actual one; the point of contact is the actualization itself, not a choice among pre-decided actualities. The companion topic article [[forward-in-time-conscious-selection]] catalogues the candidate mechanisms (pre-decoherence variants from Penrose-Hameroff, Stapp, and Chalmers-McQueen alongside the post-decoherence path) and shows why the post-decoherence variant is the Map's strongest version of the forward-in-time strategy.
 
@@ -149,3 +149,4 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 13. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636 (arXiv preprint, not yet peer-reviewed).
 14. Bong, K.-W., Utreras-Alarcón, A., Ghafari, F., Liang, Y.-C., Tischler, N., Cavalcanti, E. G., Pryde, G. J., & Wiseman, H. M. (2020). A strong no-go theorem on the Wigner's friend paradox. *Nature Physics*, 16, 1199–1205. https://doi.org/10.1038/s41567-020-0990-x
 15. Wiseman, H. M., Cavalcanti, E. G., & Rieffel, E. G. (2023). A 'thoughtful' Local Friendliness no-go theorem: a prospective experiment with new assumptions to suit. *Quantum*, 7, 1112. https://doi.org/10.22331/q-2023-09-14-1112
+16. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901. https://doi.org/10.1103/PhysRevE.65.061901

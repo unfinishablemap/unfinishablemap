@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-14
-ai_modified: 2026-10-12 23:13:02+00:00
+ai_modified: 2026-10-27 01:42:02+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-21 16:42:28+00:00
-lastmod: 2026-10-12 23:13:02+00:00
+lastmod: 2026-10-27 01:42:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ Stapp's *Mindful Universe* (Springer, 2007) applies the quantum Zeno effect to m
 
 Two interpretive burdens attach to this move, and the mechanism page should state them plainly rather than smuggle them past the reader. First, quantum projection is not in general energy-conserving, so the claim that conscious selection respects conservation laws is something the interpretation must argue (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)), not a free consequence of the formalism. Second, "observation" in physics ordinarily denotes a physical measurement coupling, whereas Stapp's proposal requires it to denote an agent's attention; equating the two is a substantive commitment. Beside both sits a further debt, the [Process 1 specification problem](/concepts/process-1-specification-problem/): laboratory Zeno experiments fix the projector's basis and grain through apparatus, and Stapp's Process 1 (the mind's choice of which question is put) supplies a rule for picking among projectors and, as stated, an account of neither.
 
-The [decoherence](/concepts/decoherence/) objection sharpens the difficulty. Tegmark's calculations placed neural coherence times near femtoseconds; Hagan and colleagues (2002) revised this upward to 10⁻⁵ to 10⁻⁴ seconds in microtubules, though Reimers, McKemmish and colleagues (2009) contest the parameters that estimate rests on. Even taking the revised figure, outpacing decoherence would demand observation intervals of 10⁻⁴ seconds or shorter—at least 3,000 discrete observation events within a single ~300 ms decision window, and 30,000 at the 10⁻⁵-second end. The lower figure is the same order as the ~1,000 observations per window that Stapp's own modelling assumes (Stapp 2007), but that number is a modelling assumption rather than an independent prediction, and no concrete model supplies events at either rate. The [timing gap](/concepts/timing-gap-problem/) relocates rather than closes under Stapp's discrete-event framing. Stapp (2000) rejects the premise that the hold must outpace decoherence, saying the effect [survives when the brain state is a mixture](/concepts/zeno-dynamics-on-a-decohered-mixture/); Georgiev's (2015) reply is that a mind projecting in the decoherence basis is [redundant with it](/concepts/process-1-specification-problem/). Standard Zeno theory gives each claim a regime: a mixture is held only while projections fall inside the quadratic window described in [The Mechanism](#the-mechanism), and not once the environment has resolved the same alternatives. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
+The [decoherence](/concepts/decoherence/) objection sharpens the difficulty. Tegmark's calculations gave about 10⁻²⁰ seconds for superposed neuron firing and 10⁻¹³ seconds for microtubule excitations; Hagan and colleagues (2002) revised the microtubule figure upward to 10⁻⁵ to 10⁻⁴ seconds, though Reimers, McKemmish and colleagues (2009) contest the parameters that estimate rests on, and no comparable revision exists for the ion-channel scale at which Stapp's own proposal locates the quantum uncertainty (Schwartz, Stapp & Beauregard 2005). Even taking the revised microtubule figure as a best case, outpacing decoherence would demand observation intervals of 10⁻⁴ seconds or shorter—at least 3,000 discrete observation events within a single ~300 ms decision window, and 30,000 at the 10⁻⁵-second end; for the ion-channel site no measured coherence time exists, and Tegmark's 10⁻²⁰-second estimate lies far beyond anything these counts describe. The lower figure is the same order as the ~1,000 observations per window that Stapp's own modelling assumes (Stapp 2007), but that number is a modelling assumption rather than an independent prediction, and no concrete model supplies events at either rate. The [timing gap](/concepts/timing-gap-problem/) relocates rather than closes under Stapp's discrete-event framing. Stapp (2000) rejects the premise that the hold must outpace decoherence, saying the effect [survives when the brain state is a mixture](/concepts/zeno-dynamics-on-a-decohered-mixture/); Georgiev's (2015) reply is that a mind projecting in the decoherence basis is [redundant with it](/concepts/process-1-specification-problem/). Standard Zeno theory gives each claim a regime: a mixture is held only while projections fall inside the quadratic window described in [The Mechanism](#the-mechanism), and not once the environment has resolved the same alternatives. The neural application therefore remains a candidate mechanism, undemonstrated, and separable from the physics that this page otherwise reports as established.
 
 ## Relation to Site Perspective
 
@@ -122,6 +122,7 @@ This page is expository: the quantum Zeno effect is real, demonstrated physics, 
 1. Huh, J., Saikin, S.K., Brookes, J.C., Valleau, S., Fujita, T., & Aspuru-Guzik, A. (2014). Atomistic study of energy funneling in the light-harvesting complex of green sulfur bacteria. *Journal of the American Chemical Society*, 136(5), 2048–2057. https://doi.org/10.1021/ja412035q. Preprint: arXiv:1307.0886.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206. https://doi.org/10.1103/PhysRevE.61.4194
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327. https://doi.org/10.1098/rstb.2004.1598
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *Proceedings of the National Academy of Sciences*, 106(11), 4219–4224. https://doi.org/10.1073/pnas.0806273106
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Stapp, H.P. (2000). The importance of quantum decoherence in brain processes. arXiv:quant-ph/0010029. https://arxiv.org/abs/quant-ph/0010029
