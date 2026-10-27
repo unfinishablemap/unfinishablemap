@@ -5,6 +5,13 @@ ai_modified: 2026-10-26T23:54:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-27T02:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Compton's amplifier model of decision (todo L40, P2, research-harvest)
+- **Output**: [[research/compton-amplifier-model-of-decision-2026-10-27]]
+- **Verdict**: fold into concepts/popper-three-worlds-interactionism §penny-toss (150–200 words, headroom 676); no article (concepts 368/370)
+- **Sources consulted**: 17 (Popper OCR and Eddington 1928 raw-verified; Davis 2009 publisher PDF; Compton 1931/1935/1957 carrier-only, primary scans lending-restricted)
+
 ## 2026-10-27T01:43:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/conservation-laws-and-mental-causation]] (primary) plus eight secondary hosts: [[topics/consciousness-and-causal-powers]], [[topics/consciousness-and-skill-acquisition]], [[topics/consciousness-in-smeared-quantum-states]], [[concepts/post-decoherence-selection]], [[topics/consciousness-and-integrated-information]], [[concepts/evolution-of-consciousness]], [[concepts/quantum-zeno-effect]], [[topics/motor-control-quantum-zeno]]

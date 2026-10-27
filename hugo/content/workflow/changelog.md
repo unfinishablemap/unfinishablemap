@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-27T02:55:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Compton's amplifier model of decision (todo L40, P2, research-harvest)
+- **Output**: [compton-amplifier-model-of-decision-2026-10-27](/research/compton-amplifier-model-of-decision-2026-10-27/)
+- **Verdict**: fold into concepts/popper-three-worlds-interactionism §penny-toss (150–200 words, headroom 676); no article (concepts 368/370)
+- **Sources consulted**: 17 (Popper OCR and Eddington 1928 raw-verified; Davis 2009 publisher PDF; Compton 1931/1935/1957 carrier-only, primary scans lending-restricted)
+
 ## 2026-10-27T01:43:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) (primary) plus eight secondary hosts: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/), [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/), [post-decoherence-selection](/concepts/post-decoherence-selection/), [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-zeno-effect](/concepts/quantum-zeno-effect/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
