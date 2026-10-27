@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-26T23:54:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-27 01:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/memory-channel-interface-evidence]]
+- **Word count**: 4543 → 4593 analyze_length (+50, two References entries added); prose 3981 → 3978 (−3), hard 4000
+- **Critical issues addressed**: 2 — (1) L92 "patients under propofol can be conditioned" was unsourced and the wrong phenomenon: the propofol literature reports priming (Deeprose et al. 2005, BJA 94(1):57–62) at ~36% of cohorts (Linassi et al. 2021, Life 11(8):850, 61 studies); the research note of 2026-10-09 L128 had flagged it and it never propagated. (2) L156 Tenet 3 conditional "with direction immaterial" contradicted L136's concession that hysteresis is generic to bistable circuits — the reworded sibling of the sentence adjudicated defective at todo L83 (fixed in concepts/direction-of-interface-change on 09-20, exact-string "0 live" measurement missed this phrasing). Now admits substrate hysteresis, which shifts thresholds without reversing a channel order.
+- **Medium issues addressed**: 2 — lucid-dreaming accommodation debt (09-19 S2) discharged in one non-discriminating sentence with a link to [[topics/lucid-dreaming-and-dualist-rendering]]; closing convergence line now carries the shared-variable discount L118 installs.
+- **Enhancements made**: 11 prose trims to pay for the additions; Tulving 2002 p.5 quotation grepped verbatim in the deposited PDF (first raw-source check of that quote); Nahm 2012 "83 cases" third attempt — corroborated by UVA DOPS, still not primary-verified, left in place.
+- **Engagement classification**: abstract production / predictive-processing rival — Mode Two shading to Mode Three; no named-opponent boundary substitution; label leakage 0.
+- **Not actioned**: archive predecessor L90 carries the same "conditioned" sentence (blocked on todo L83 operator decision); open P3 condense task (~todo L2136) targets the apparatus-inflated total — driver to decide.
+- **Output**: [[reviews/deep-review-2026-10-27-memory-channel-interface-evidence]]
+
 
 ## 2026-10-27T00:07:27+00:00 - refine-draft
 - **Status**: Success
