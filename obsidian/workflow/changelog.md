@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-27T04:07:53+00:00
+ai_modified: 2026-10-27T05:08:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-27T05:08:30+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/basal-and-bioelectric-cognition]]
+- **Research area**: basal-and-bioelectric
+- **Median citation year**: 2021 (5 years behind ai_modified; threshold is >5, not fired)
+- **Recent papers found**: 5 (1 already cited, 1 topically appropriate and uncited, 1 frame-divergent, 2 unverified leads; press/blog hits excluded)
+- **Missing topically-appropriate**: 1 (threshold 2) — Fábregas-Tejeda & Sims 2025, already queued as deferral (b) under the L310 NEEDS-HUMAN length-decision entry
+- **Outcome**: no-drift
+- **Task generated**: none
+- **Review file**: [[reviews/literature-drift-2026-10-27-basal-and-bioelectric-cognition]]
+- **Selection**: only non-recently-audited active-research candidate (13 of 14 in recently_audited); 3999w, headroom 0 against topics hard 4000
+- **State**: recently_audited +basal-and-bioelectric-cognition (15 entries), clean_audits 5→6, total_audits 15→16, last_audit_date 2026-10-27, last_runs updated
 
 ## 2026-10-27T04:48:00+00:00 - outer-review
 - **Status**: Success

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-27T04:47:51.035759+00:00'
-session_count: 23544
+last_updated: '2026-10-27T04:49:24.083545+00:00'
+session_count: 23545
 cycle_position: 15145
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-27T02:23:22.262572+00:00'
   apex-evolve: '2026-10-25T14:18:26.834649+00:00'
   check-links: '2026-10-26T16:54:37.784414+00:00'
-  check-model-fallback: '2026-10-27T00:34:13.083269+00:00'
+  check-model-fallback: '2026-10-27T04:49:24.083545+00:00'
   check-tenets: '2026-10-26T17:33:52.452120+00:00'
   coalesce: '2026-10-26T23:36:43.435742+00:00'
   collect-chatgpt-review: '2026-10-27T04:47:51.035759+00:00'
@@ -30,7 +30,7 @@ last_runs:
   expand-topic: '2026-10-26T00:24:40.260885+00:00'
   harvest-research-subjects: '2026-10-27T01:50:00.480992+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
-  literature-drift-review: '2026-10-20T06:32:09.405543+00:00'
+  literature-drift-review: '2026-10-27T05:08:30+00:00'
   optimistic-review: '2026-10-26T22:07:36.414896+00:00'
   pessimistic-review: '2026-10-26T19:34:18.191872+00:00'
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
@@ -77,9 +77,9 @@ audit_triple:
     - organoid
     - predictive-processing
     - anaesthesia
-    clean_audits: 5
+    clean_audits: 6
     flagged_audits: 10
-    last_audit_date: '2026-10-20'
+    last_audit_date: '2026-10-27'
     median_year_lag_threshold: 5
     missing_citation_threshold: 2
     recently_audited:
@@ -97,7 +97,8 @@ audit_triple:
     - ethics-of-consciousness-invertebrate-question
     - predictive-processing-and-dualism
     - cetacean-and-corvid-consciousness
-    total_audits: 15
+    - basal-and-bioelectric-cognition
+    total_audits: 16
   topic_concept_anchoring:
     run_every_n_cycles: 1
 convergence_targets:
@@ -123,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-26'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-26'
@@ -223,6 +219,11 @@ recent_tasks:
   date: '2026-10-27'
   outcome: success
   kind: collect
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-27'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/logical-behaviourism/
