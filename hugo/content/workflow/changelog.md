@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-27 05:30:55+00:00
+ai_modified: 2026-10-27 05:57:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-27'
-lastmod: 2026-10-27 05:30:55+00:00
+lastmod: 2026-10-27 05:57:52+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-27T05:57:52+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-27
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro), subject `concepts/depersonalisation`
+- **Clusters**: 10 convergent (1 three-reviewer: content invariance; 8 ChatGPT+Claude; 1 Claude+Gemini: agency-inversion residue), 10 singleton, 3 divergent, 3 rejected convergences
+- **Excluded as false alarms**: Claude's four "unlocated" quotations (verbatim in the 2026-10-01 ledger), changelog provenance gap, self-page L146 reading; Gemini W2, W4, W5 (two assert absence of sources the hub quotes verbatim; one audits `voids/necessary-opacity`), one fabricated quotation, six sibling-page spans presented as the hub's
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — `concepts/mine-ness` L3431, `concepts/discrimination-problem` L3442, three-page agency inversion L3453); hub P1 L3420 already P1, fields rewritten
+- **Tasks deduplicated**: 0 (processing passes appended convergence clauses instead of minting siblings); parse_tasks active 248 → 248, P1 3 → 6, P2 23 → 20, statuses unchanged
+- **Correction**: the clinical-dissociation NEEDS-HUMAN add-on is ChatGPT-only (Claude's Reply has 0 hits for that page), not ChatGPT+Claude as the passes recorded; entry left blocked
+- **Output**: [outer-review-synthesis-2026-10-27](/reviews/outer-review-synthesis-2026-10-27/)
 
 ## 2026-10-27 05:44 UTC - outer-review
 - **Status**: Success
