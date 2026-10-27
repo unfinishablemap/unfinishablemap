@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-26 23:54:32+00:00
+ai_modified: 2026-10-27 04:07:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-27'
-lastmod: 2026-10-27 00:00:00+00:00
+lastmod: 2026-10-27 04:07:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-27T04:07:53+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The first quantum free-will wave and its critics, 1927–1940 (todo L40, P2, research-harvest)
+- **Output**: [first-quantum-free-will-wave-1927-1940-2026-10-27](/research/first-quantum-free-will-wave-1927-1940-2026-10-27/)
+- **Verdict**: article → topics/first-quantum-free-will-wave-1927-1940 (topics 366/370; no fold host can take a twelve-figure history; qifw at 3,495/3,500)
+- **Key findings**: Eddington 1935 restates 1928 and rejects key-atom amplification ("rash", p. 88; "conscious unit" of "many billions of atoms"); Popper's Schlick quotation traced to Schlick's 1935 Erkenntnis reply to Jordan (n. 40, Erkenntnis 5: 183), while the generic "no other opposite of causality" is Problems of Ethics p. 156 (1930, pre-Compton, no quantum reference); Schrödinger 1936 names neither Eddington nor Compton; Stebbing recovered as TOC + index + hocr fragments only (Part III, ch. X pp. 222 ff.)
+- **Sources consulted**: 34 (raw grep-verified: Eddington 1928 and 1935, Schlick 1939, Planck 1932, Jeans 1933, Davidson 1942, Popper OCR; hocr fragments: Stebbing 1937, Bohr 1933; carrier-only: Schrödinger 1936, Hobart 1934, Russell 1931; bibliographic: Jordan, Zilsel, Neurath, Frank, Bünning, Beyler, Kožnjak)
 
 ## 2026-10-27T02:55:00+00:00 - research-topic
 - **Status**: Success

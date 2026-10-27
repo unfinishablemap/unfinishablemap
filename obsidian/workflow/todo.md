@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research The first quantum free-will wave and its critics, 1927-1940
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-26-interactionist-lineage-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-26-interactionist-lineage-wing: Eddington's indeterminacy chapters (1928, 1935), Pascual Jordan's amplifier physiology, and the replies by Susan Stebbing (Philosophy and the Physicists, 1937) and Schlick ('chance is the only alternative to determinism'). Zero corpus hits for Stebbing and Jordan; Eddington appears only for structuralism; Schlick on two pages. This is the historical ancestor of the Map's own selection posit and of the luck/randomness objection; the note should establish who said what and verify every quotation in raw text. Topics is at 366/370. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/first-quantum-free-will-wave-1927-1940-2026-10-27.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'first-quantum-free-will-wave-1927-1940' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-27
-
 ### P2: Research Popper's positive theory of the intermediate category: plastic control and indeterminism is not enough
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-10-26-interactionist-lineage-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-26-interactionist-lineage-wing: 'plastic control' (1965), 'Indeterminism Is Not Enough' (1973) and The Open Universe (1982). Zero corpus hits for the two later titles (one live mention of 'plastic control'); the Map holds Popper only as a hostile witness (the penny-toss objection), and his own answer is the natural comparator for the Map's selection posit and for topics/trilemma-of-selection Horn 2 (a P3 task is already installing the 1965 passage there). The note should settle article-or-fold against popper-three-worlds-interactionism and trilemma-of-selection. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/popper-plastic-control-and-indeterminism-is-not-enough-2026-10-27.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'popper-plastic-control-and-indeterminism-is-not-enough' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -3416,6 +3410,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-27: Research The first quantum free-will wave and its critics, 1927-1940
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-26-interactionist-lineage-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-26-interactionist-lineage-wing: Eddington's indeterminacy chapters (1928, 1935), Pascual Jordan's amplifier physiology, and the replies by Susan Stebbing (Philosophy and the Physicists, 1937) and Schlick ('chance is the only alternative to determinism'). Zero corpus hits for Stebbing and Jordan; Eddington appears only for structuralism; Schlick on two pages. This is the historical ancestor of the Map's own selection posit and of the luck/randomness objection; the note should establish who said what and verify every quotation in raw text. Topics is at 366/370. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/first-quantum-free-will-wave-1927-1940-2026-10-27.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'first-quantum-free-will-wave-1927-1940' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-27: Research Compton's amplifier model of decision
 - **Type**: research-topic
