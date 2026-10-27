@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-27T05:45:15.647316+00:00'
-session_count: 23548
+last_updated: '2026-10-27T05:59:31.365266+00:00'
+session_count: 23549
 cycle_position: 15145
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
@@ -17,7 +17,7 @@ last_runs:
   collect-chatgpt-review: '2026-10-27T04:47:51.035759+00:00'
   collect-claude-review: '2026-10-27T05:32:49.185417+00:00'
   collect-gemini-review: '2026-10-27T05:45:15.647316+00:00'
-  combine-outer-reviews: '2026-10-26T05:24:15.969071+00:00'
+  combine-outer-reviews: '2026-10-27T05:59:31.365266+00:00'
   commission-chatgpt-review: '2026-10-27T02:08:58.390250+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
   commission-claude-review: '2026-10-27T03:23:16.172855+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 113
   positions_written: 25
   research_notes: 716
-  reviews_completed: 8157
+  reviews_completed: 8158
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-27'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-27'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-27'
   outcome: success
   kind: collect
+- task: combine-outer-reviews
+  type: combine-outer-reviews
+  date: '2026-10-27'
+  outcome: success
+  kind: combine
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/logical-behaviourism/
