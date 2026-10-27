@@ -5,6 +5,13 @@ ai_modified: 2026-10-26T23:54:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-27T00:07:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/panpsychism]]
+- **Original score**: n/a (targeted re-filing; `scripts/curate.py` absent)
+- **Changes**: L182 re-filed Goff's priority cosmopsychism from Q4 to Q3's edge as a monist limit case, matching `topics/four-quadrant-dualism-taxonomy` L114 and `apex/dualism-cartography` L70 (commit 681f58127e); full Russellian panpsychism stays in Q4. Net-zero on a page 422 over its hard gate: the added "at Q3's edge (max-mind, min-physical), a monist limit case" was funded within the same paragraph ("the ontological weight each side carries" → "each side's ontological weight"; "thickness range" → "range"; "(minimal on both sides)/(rich on both sides)" → "(both sides thin)/(both sides rich)"; dropped "while"/"sit"; "interactionist framework" → "interactionism"). 3,922 → 3,922 words by analyze_length (status hard_warning unchanged). Pronoun check: following sentence keeps its noun subject. Review: reviews/optimistic-2026-10-11-quadrant-geometry-wing.
+- **Published**: yes
+
 ## 2026-10-26T23:54:32+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/biological-cognitive-closure]] (secondary: [[concepts/naturally-occluded]])

@@ -1555,15 +1555,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: `reviews/deep-review-2026-10-11-grain-mismatch-as-independent-evidence.md`
 - **Notes**: COALESCED 2026-10-11: the void was merged into `topics/neural-refresh-rates-and-the-smoothness-problem` (the host already carries this Cottier calibration at L59, and the merge did not import the void's flash-lag sentence) and archived. The overclaim now survives only in two ARCHIVED copies: `archive/voids/smoothness-and-continuity.md` L59 (L54 before the archive frontmatter was added) and `archive/voids/smoothness-problem.md` L53. Fixing archived predecessors is the class the publication-policy NEEDS-HUMAN entry reserves for the operator, so this is blocked on that decision and downgraded P2 → P3 (no live article carries the defect). Original notes follow. HEADROOM (analyze_length 2026-10-11): 2,535 against voids soft 2,000 / hard 3,000 — soft_warning, so keep the edit length-neutral. The VanRullen quote at L54 was already repaired 2026-10-11 (the conditional "could imply" restored; PubMed PMID 27567317) — do NOT re-clip it. Remaining: "VanRullen's work on perceptual cycles demonstrates that perception operates rhythmically" is fine for rhythmic sampling, but "Psychophysical evidence confirms this — the flash-lag effect, attentional blink, temporal order reversals, and the wagon-wheel illusion ... all suggest discrete sampling" overstates. `topics/neural-refresh-rates-and-the-smoothness-problem` L48 already carries the correction: Cottier, Turner, Chae, Holcombe & Hogendoorn (2025), *European Journal of Neuroscience* 62(9), e70250, tested seven motion-position illusions including flash-lag against resting-state individual alpha frequency in 61 participants and found no correlation with any. Mirror that calibration (rhythmic sampling well evidenced; the illusion-to-sampling-rate inference has fared less well) and cite Cottier 2025. Same text also lives in `archive/voids/smoothness-problem` L53 (archived, live URL) — sweep it too. Also calibrate the section opener just above it ("Neuroscience has established that neural processing is fundamentally punctuated") to the sibling's register: rhythmic sampling is well evidenced; genuinely discrete perception "remains contested".
 
-### P3: `concepts/panpsychism` L182 still files "Goff's priority cosmopsychism" in Q4; the taxonomy moved Goff to Q3 on 2026-08-03, and mechanism-costs and dualism-cartography were aligned on 2026-10-12
-- **Type**: refine-draft
-- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/panpsychism.md
-- **Status**: pending
-- **Source**: refine-draft 2026-10-12 11:05Z (quadrant-geometry item 2), out-of-scope finding; driver confirmed the string at L182
-- **Generated**: 2026-10-12
-- **Review file**: `reviews/optimistic-2026-10-11-quadrant-geometry-wing.md`
-- **Notes**: HEADROOM: panpsychism is 3,922 of 3,500, OVER the hard limit by 422, so this edit must be NET-ZERO or negative. L182 says "…Goff's priority cosmopsychism sit in Q4…". The taxonomy (commit 681f58127e, 2026-08-03; L114 "a monist limit case toward which Q3 points"), mechanism-costs L97 and dualism-cartography L70 now place Goff in Q3 as a monist limit case. Re-file him in Q3 with the same wording, keeping the monist flag, and keep the sentence's other claims intact. Read the whole sentence first, because it may list several positions per quadrant. Locate by QUOTED text; confirm it occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
-
 ### P3: `topics/bergson-and-duration` L90 presents Bergson's virtual-persistence memory as aligning with filter theory with no engram caveat, while `concepts/filter-theory` L75 says modern engram research (Josselyn & Tonegawa 2020) reads more naturally as storage-and-retrieval than as Bergson's eliminative filter
 - **Type**: refine-draft
 - **File**: /home/andy/unfin/unfinishablemap/obsidian/topics/bergson-and-duration.md
@@ -3395,6 +3386,11 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-27: `concepts/panpsychism` L182 still files "Goff's priority cosmopsychism" in Q4; the taxonomy moved Goff to Q3 on 2026-08-03, and mechanism-costs and dualism-cartography were aligned on 2026-10-12
+- **Type**: refine-draft
+- **File**: /home/andy/unfin/unfinishablemap/obsidian/concepts/panpsychism.md
+- **Notes**: HEADROOM: panpsychism is 3,922 of 3,500, OVER the hard limit by 422, so this edit must be NET-ZERO or negative. L182 says "…Goff's priority cosmopsychism sit in Q4…". The taxonomy (commit 681f58127e, 2026-08-03; L114 "a monist limit case toward which Q3 points"), mechanism-costs L97 and dualism-cartography L70 now place Goff in Q3 as a monist limit case. Re-file him in Q3 with the same wording, keeping the monist flag, and keep the sentence's other claims intact. Read the whole sentence first, because it may list several positions per quadrant. Locate by QUOTED text; confirm it occurs once. No "This is not X. It is Y."; no "load-bearing". Set ai_modified from `date -u`; changelog before sync; `uv run python scripts/sync.py`; verify both trees.
 
 ### ✓ 2026-10-26: Trivers framing in two siblings — `voids/biological-cognitive-closure` L139 overreach and `concepts/fitness-beats-truth` L85 quote-to-work check
 - **Type**: refine-draft
