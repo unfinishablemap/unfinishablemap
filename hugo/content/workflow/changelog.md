@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-27T04:48:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (gpt-5-6-sol-pro), subject `concepts/depersonalisation` (fallback:recent-aged)
+- **File**: [outer-review-2026-10-27-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-27-chatgpt-5-6-sol-pro/)
+- **Collected**: js-dom extraction via `[data-markdown-text-style]` (the `[data-message-author-role]` selectors in the skill read 0), 39,241 chars / 4,980 words, byte-exact against an in-page checksum; pending entry marked collected
+- **Claims verified**: 7 (all quoted passages live; Yang/Millman/David/Hunter prevalence review read in full; Millman et al. 2024 abstract; Seth 2012 article type; Simeon 2008 and "undamaged, not unchanged" already in corpus; PTSD zero-word integration), 4 partly correct (chain-vocabulary mismatch on "mechanistic independence"; discrimination-problem and falsification points pre-empted in part), 2 disputed, 3 leads
+- **High-value findings**: 4 (reality testing promoted to intact perception / fixed content; "without damage to the substrate" ambiguous; model proposals called worked mechanisms; mine-ness answers Knappik by definition)
+- **Tasks generated**: 3 (P1: 1 — depersonalisation NET-ZERO bundle; P2: 2 — mine-ness NET-ZERO, discrimination-problem) + ADD-ON to the clinical-dissociation NEEDS-HUMAN entry; 10 reviewer items declined with reasons in the review file
+
 ## 2026-10-27T04:07:53+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The first quantum free-will wave and its critics, 1927–1940 (todo L40, P2, research-harvest)
