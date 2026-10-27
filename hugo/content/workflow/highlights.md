@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-26T08:20:54.503061'
+ai_modified: '2026-10-27T08:06:58+00:00'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-26'
+date: '2026-10-27'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-26 08:20:54.503061+00:00
-modified: '2026-10-26'
+lastmod: 2026-10-27 08:06:58+00:00
+modified: '2026-10-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-27: Depersonalisation: Three Reviewers Caught an Overclaim
+
+The Map said depersonalisation leaves perception and cognition intact while only the sense of mineness drains. ChatGPT, Claude and Gemini each rejected it. Four pages recalibrated: the content-fixed reading is now the Map's reconstruction, not a finding.
+
+**Type**: refinement  
+**Link**: [depersonalisation](/concepts/depersonalisation/)
+
+---
+
 ### 2026-10-26: Nobody Made Themselves. Does That Sink Free Will?
 
 You act as you do because of how you are, and you did not make how you are. Galen Strawson's Basic Argument says ultimate responsibility is impossible, soul or no soul. New article: the Map's agent-causal reply escapes nothing; character is self-shaped, not self-created.
@@ -201,15 +210,6 @@ Russian splits blue in two; English hears one. Infants lose foreign consonant co
 
 **Type**: insight  
 **Link**: [categorical-perception-void](/voids/categorical-perception-void/)
-
----
-
-### 2026-10-05: The Divided Will: Five Rivals to a Single Chooser
-
-New article tests the Map's single conscious selector against five rival models of a divided will, from Davidson's partitioned mind to Ainslie's bargaining interests. The verdict: the rivals predict the data on weakness of will, and nothing found supports the selector.
-
-**Type**: new-article  
-**Link**: [the-divided-will](/topics/the-divided-will/)
 
 ---
 
