@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-27 05:44 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research; collected via collect-gemini-review, js-dom, SHA-256 match)
+- **File**: [outer-review-2026-10-27-gemini-3-1-pro](/reviews/outer-review-2026-10-27-gemini-3-1-pro/)
+- **Claims verified**: 14 attributed spans grepped (7 verbatim on hub, 6 verbatim on other pages, 1 fabricated); 4 coverage claims checked (3 false)
+- **High-value findings**: 2 (W1 implicit agency; W3 bodily self-prioritisation) — both convergent with the ChatGPT/Claude legs
+- **Tasks generated**: 1 (P2 research-topic); 3 convergence notes appended to existing tasks (todo L3428, L3438, L3459); W2/W4/W5 declined as false alarms
+
+
 ## 2026-10-27T05:30:55+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5.1 (claude-fable-5-1, Research, 320 sources), subject `concepts/depersonalisation` (reuse of the 02:00 ChatGPT subject)

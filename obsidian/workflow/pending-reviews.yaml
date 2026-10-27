@@ -157,9 +157,9 @@
   commissioned_at: '2026-10-27T04:23:38.543725+00:00'
   prompt_summary: Hostile referee audit of concepts/depersonalisation (3.1 Pro)
   target_filename: outer-review-2026-10-27-gemini-3-1-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-27T05:41:15.137653+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies). Your remit is to identify weaknesses
