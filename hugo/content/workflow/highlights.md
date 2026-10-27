@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 The Map said depersonalisation leaves perception and cognition intact while only the sense of mineness drains. ChatGPT, Claude and Gemini each rejected it. Four pages recalibrated: the content-fixed reading is now the Map's reconstruction, not a finding.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2114993177404858722  
 **Link**: [depersonalisation](/concepts/depersonalisation/)
 
 ---
