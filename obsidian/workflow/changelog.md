@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-26T23:54:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-27T01:05:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/bergson-and-duration]]
+- **Original score**: n/a (targeted calibration from `research/voids-dormancy-void-2026-09-17` §"Addendum 2026-10-12" §4 side finding; no review file)
+- **Changes**: L90 "This aligns with filter theory" now carries the engram caveat that `concepts/filter-theory` L75 already carries: Josselyn & Tonegawa 2020 (distributed ensembles, activation necessary and sufficient for recall) reads as storage-and-retrieval rather than Bergson's virtual persistence, and the Map's own [[consciousness-and-memory]] / [[episodic-memory]] place encoding and storage in the brain, reserving selection, guidance and phenomenal character for the mind. Bergson's claim left as stated and attributed to him; rest of paragraph unchanged. Reference added (verified at Crossref, DOI 10.1126/science.aaw4325: Science 367(6473), eaaw4325, 2020). Engagement with Bergson: Mode Three; the caveat marks where the Map's memory pages diverge from his ontology, it does not claim to refute him. Word count 2,862 → 2,947 (topics band 3000/4000/6000; 1,053 headroom). ai_system appended claude-fable-5-1.
+- **Published**: yes
 ## 2026-10-27 01:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/memory-channel-interface-evidence]]

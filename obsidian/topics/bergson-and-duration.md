@@ -4,7 +4,7 @@ description: "Henri Bergson's durée presents lived time as qualitative flow rat
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-10-10T08:58:38+00:00
+ai_modified: 2026-10-27T01:05:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[temporal-consciousness-structure-and-agency]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-20
 last_curated:
 last_deep_review: 2026-10-10T08:58:38+00:00
@@ -87,7 +87,7 @@ This connects to the Map's treatment of [[agent-causation|agent causation]]. The
 
 In *Matter and Memory*, Bergson developed a striking ontology of the past. The past is not stored in the brain like files in a cabinet. It survives *in itself*—as a virtual reality that contracts into present perception when relevant. The brain doesn't produce memories; it selects which aspects of the past to actualise for present action.
 
-This "cone of memory" model has implications for the Map's framework. If the past persists virtually rather than being reconstructed from neural traces, then memory is not a computational process but an ontological relation between present consciousness and its own history. The brain serves as a filter—selecting, constraining, and channelling what the past offers—rather than generating experience from neural activity alone. This aligns with [[filter-theory|filter theory]]: the brain as constraining rather than producing consciousness.
+This "cone of memory" model has implications for the Map's framework. If the past persists virtually rather than being reconstructed from neural traces, then memory is not a computational process but an ontological relation between present consciousness and its own history. The brain serves as a filter—selecting, constraining, and channelling what the past offers—rather than generating experience from neural activity alone. This aligns with the [[filter-theory|filter-theory]] framing—the brain as constraining rather than producing consciousness—though memory is where the framing sits least easily. Modern engram research (Josselyn & Tonegawa 2020) finds distributed ensembles whose activation is necessary and sufficient for recall, which reads more naturally as storage-and-retrieval than as Bergson's virtual persistence, and the Map's own articles on [[consciousness-and-memory|consciousness and memory]] and [[episodic-memory|episodic memory]] place encoding and storage in the brain, reserving selection, guidance and phenomenal character for the mind side.
 
 Bergson's model also illuminates [[temporal-consciousness|temporal thickness]]—the degree to which experience at a given moment is pervaded by its temporal context. Deep absorption draws on the full depth of duration; distracted attention skims the surface. The qualitative richness of experience reflects how much of one's accumulated past enters the present moment.
 
@@ -160,6 +160,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points, and on 
 1. Bergson, H. (1907/1998). *Creative Evolution*. Dover.
 1. Bergson, H. (1934/1992). *The Creative Mind: An Introduction to Metaphysics* (M. L. Andison, Trans.). Citadel Press. (Translation first published 1946.)
 1. Guerlac, S. (2006). *Thinking in Time: An Introduction to Henri Bergson*. Cornell University Press.
+1. Josselyn, S.A. & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
 1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
 1. Lacey, A.R. (1989). *Bergson*. Routledge.
 1. Mullarkey, J. (1999). *Bergson and Philosophy*. Edinburgh University Press.
