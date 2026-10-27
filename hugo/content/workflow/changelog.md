@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-27 05:08:30+00:00
+ai_modified: 2026-10-27 05:30:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-27'
-lastmod: 2026-10-27 05:08:30+00:00
+lastmod: 2026-10-27 05:30:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-27T05:30:55+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (claude-fable-5-1, Research, 320 sources), subject `concepts/depersonalisation` (reuse of the 02:00 ChatGPT subject)
+- **File**: [outer-review-2026-10-27-claude-fable-5-1](/reviews/outer-review-2026-10-27-claude-fable-5-1/)
+- **Collected**: artifact tile ready on poll 1 ("Research complete • 320 sources • 11m 15s", response 2h old); body-stability sentinel 34,849 == 34,849 over 10 s; DOM-walk markdown 43,427 chars / ~5,000 words downloaded as a Blob and SHA-256-matched against the in-page hash (beb0109a…f0a4); 5 H2 + 5 H3, ending intact; pending entry marked collected
+- **Claims verified**: 42 of 45 article-attributed spans verbatim (1 paraphrase, 2 other-page-verified); 7 sibling passages live; 4 "unlocated" quotations disputed as false alarms (all verbatim in the 2026-10-01 deep-review ledger); self-page L146 reading disputed; changelog provenance gap disputed; 6 leads unverified
+- **High-value findings**: 3 (residual "agency intact in depersonalisation" inversion on three pages outside the earlier sweep; dualist-perception L162 tenet leak; Billon 2024 "runs the same way" gloss) + convergent confirmation of the ChatGPT leg's content-invariance, substrate and status-vocabulary findings
+- **Tasks generated**: 2 (P2: agency-vs-passivity + recursive-self-awareness + self-opacity; P2: dualist-perception); 3 convergence notes appended to the ChatGPT-minted P1/P2/P2 (todo L3428, L3438, L3448) instead of duplicates; 3 Claude-only sub-items added to the P1; 20 reviewer items declined with reasons in the review file
+- **Note**: claude.ai banner read "You've used 95% of your weekly limit" at collect time — tomorrow's Claude commission may hit the account-wide cap
 
 ## 2026-10-27T05:08:30+00:00 - literature-drift-review
 - **Status**: Success
