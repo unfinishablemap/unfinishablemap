@@ -92,3 +92,33 @@
   subject_articles:
   - voids/thrownness-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-26-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae00752-ba58-83ed-bf66-2515b9567767
+  commissioned_at: '2026-10-27T02:08:23.987882+00:00'
+  prompt_summary: 'Audit concepts/depersonalisation: clinical datum, four readings,
+    integration'
+  target_filename: outer-review-2026-10-27-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please write a rigorous outer review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind site. The subject
+    is https://unfinishablemap.org/concepts/depersonalisation/ (Depersonalisation
+    and the Separability of For-Me-Ness), last substantively modified 2026-10-20.
+    Read the live page in full. Audit its clinical datum: are the empirical claims
+    about depersonalisation disorder accurate and current, and do the cited sources
+    actually say what the article attributes to them? Assess the four rival readings
+    of what comes apart and the two-tier conclusion: is the stronger tier adequately
+    argued, are counterarguments from reductive, predictive-processing and self-model
+    accounts fairly represented, and is there tenet-protective bracketing? Check integration
+    with neighbouring pages on mine-ness, Cotard delusion, the discrimination problem
+    and clinical dissociation. Consult the site changelog at https://unfinishablemap.org/workflow/changelog/
+    for recent changes, since search indexes lag the live site by a day or two. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit depersonalisation
+  subject_articles:
+  - concepts/depersonalisation.md
+  subject_source: fallback:recent-aged
