@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-10-14 15:19:45+00:00
+ai_modified: 2026-10-27 06:26:33+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[emotion-and-dualism]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 created: 2026-07-09
-date: &id001 2026-09-01
+date: &id001 2026-10-27
 description: Humor as a third aesthetic category beside beauty and the sublime, and
   mirth as a candidate irreducible quale, with the computational rival at full strength.
 draft: false
@@ -22,8 +22,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/PFzGcbV-844
 human_modified: null
 last_curated: null
-last_deep_review: 2026-09-01 14:39:30+00:00
-lastmod: 2026-10-14 15:19:45+00:00
+last_deep_review: 2026-10-27 06:26:33+00:00
+lastmod: 2026-10-27 06:26:33+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The comic is a genuine aesthetic category, the structural sibling of the [sublime](/topics/the-sublime-and-negative-aesthetics/): a mode of aesthetic response with its own object, its own theoretical literature, and its own felt quality—**mirth**, the "click" of getting a joke. Three classical theories explain what triggers laughter, and each captures something. But the Map's interest is narrower and sharper. On one live reading, the felt amusement outruns any structural description of the joke: you can grasp a joke's entire incongruity-and-resolution structure and still not be amused, the way you can know everything physical about color and not know what red looks like. That would make mirth a fresh test case for phenomenal irreducibility, parallel to the [knowledge argument](/concepts/knowledge-argument/). This article states that reading and then, in the same breath, names its strongest opponent: a computational account (Hurley, Dennett & Adams's *Inside Jokes*, 2011) that explains mirth completely as an evolved reward signal, positing no felt primitive at all. The dualist reading is one interpretation, not a proof.
+The comic is a genuine aesthetic category, the structural sibling of the [sublime](/topics/the-sublime-and-negative-aesthetics/): a mode of aesthetic response with its own object, its own theoretical literature, and its own felt quality—**mirth**, the "click" of getting a joke. Three classical theories explain what triggers laughter, and each captures something. But the Map's interest is narrower and sharper. On one live reading, the felt amusement outruns any structural description of the joke: you can grasp a joke's entire incongruity-and-resolution structure and still not be amused, the way you can know everything physical about color and not know what red looks like. That would make mirth a fresh test case for phenomenal irreducibility, parallel to the [knowledge argument](/concepts/knowledge-argument/). This article states that reading and then, in the same breath, names its strongest opponent: a computational account (Hurley, Dennett & Adams's *Inside Jokes*, 2011) that sets out to explain mirth completely as an evolved reward signal, positing no felt primitive at all. The dualist reading is one interpretation, not a proof.
 
 <details class="yt-embed" data-video-id="PFzGcbV-844">
 <summary>Video introduction</summary>
@@ -53,7 +53,7 @@ Three families of theory have competed for two millennia, and philosophy of humo
 
 **Superiority theory** is the oldest. Laughter expresses a felt triumph over others or over a former self. Plato treated it as malice at others' self-ignorance; Aristotle called wit "educated insolence." Hobbes gave the canonical formulation: "Sudden glory, is the passion which maketh those grimaces called laughter" (*Leviathan* I.6, 1651). The standard objection, from Hutcheson (1750), is decisive against it as a *general* theory: superiority is neither necessary nor sufficient. We laugh at clever wordplay involving no one's inferiority, and we feel superior to plenty of things without laughing.
 
-**Relief theory** holds that laughter vents surplus nervous energy that has become superfluous. Spencer proposed a physiological version; Freud gave the fullest statement in *Jokes and Their Relation to the Unconscious* (1905), distinguishing jokes (which release energy otherwise spent on repression), the comic (energy spared in ideation), and humor proper (an economy of affect). The "hydraulic" model of discharged nervous energy is now regarded as scientifically obsolete—Morreall, who wrote the *Stanford Encyclopedia*'s survey of the field, treats it as abandoned—so relief theory survives mainly as an observation that laughter often accompanies release of tension, not as a mechanism.
+**Relief theory** holds that laughter vents surplus nervous energy that has become superfluous. Spencer proposed a physiological version; Freud gave the fullest statement in *Jokes and Their Relation to the Unconscious* (1905), distinguishing jokes (which release energy otherwise spent on repression), the comic (energy spared in ideation), and humor proper (an economy of affect). The "hydraulic" model of discharged nervous energy is now widely regarded as outdated—Morreall's *Stanford Encyclopedia* survey reports that almost no scholar in philosophy or psychology still explains laughter or humor as the release of pent-up nervous energy—so relief theory survives mainly as an observation that laughter often accompanies release of tension, not as a mechanism.
 
 **Incongruity theory** is the dominant modern view. Amusement is the enjoyment of a perceived incongruity—a clash between what one expected or conceived and what is actually presented. Kant's formulation is the classic one: "Laughter is an affection arising from the sudden transformation of a strained expectation into nothing" (*Critique of Judgment* §54, 1790). Kant stressed that the resulting pleasure is *bodily*, an alternating tension and relaxation, not an intellectual judgment—a nuance worth holding onto against any purely propositional reading. Schopenhauer located the incongruity between a concept and a perceived object, and—importantly for what follows—kept the perception and the felt response apart: "The cause of laughter in every case is simply the sudden perception of the incongruity between a concept and the real objects which have been thought through it in some relation, and laughter itself is just the expression of this incongruity" (*The World as Will and Idea* I §13, 1818; Haldane and Kemp translation). The perception is the *cause*; the laughter is its *expression*. And the perception wins the conflict it discloses: "In every suddenly appearing conflict between what is perceived and what is thought, what is perceived is always unquestionably right" (Vol. II ch. 8, the 1844 supplement in which Schopenhauer works the account out at length).
 
@@ -87,7 +87,7 @@ The corroboration between the mirth case and the aesthetic knowledge argument is
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The *Inside Jokes* account is the simpler theory—one evolved reward function, no extra ontology of qualia—and simplicity is a genuine mark in its favor. Tenet 5 does not deny this; it denies that simplicity is a *reliable* guide where our knowledge is incomplete. The functional story achieves parsimony partly by declining to explain why covert-error correction should be *felt* at all rather than executed as an unfelt subroutine, which is precisely the [hard problem](/topics/hard-problem-of-consciousness/) localized to mirth. Whether that unexplained "why it is felt" is a genuine explanandum the simpler theory neglects, or a pseudo-question the simpler theory rightly ignores, is exactly what is in dispute. The Map's position is that we do not yet know enough about consciousness to be confident the parsimonious functional account has captured everything—not that its parsimony is a defect.
 
-A note on evidential weight. The claims here are philosophical, not empirical predictions, and the computational and incongruity-resolution accounts remain fully live. The felt structure identified above—mirth as an evaluation seemingly not fixed by the joke's structure—*supports* a dualist reading without *forcing* one. There is at least one place where the two readings could be pulled apart empirically: if mirth is the reward for a covert-error retraction, its intensity should track the magnitude and the covertness of the commitment retracted, and should be indifferent to features of the joke that leave that retraction unchanged. A felt quality not fixed by the structural facts carries no such prediction. Nobody has run the discriminating experiment, and the Map does not claim its result in advance.
+A note on evidential weight. The claims here are philosophical, not empirical predictions, and the computational and incongruity-resolution accounts remain fully live. The felt structure identified above—mirth as an evaluation seemingly not fixed by the joke's structure—*supports* a dualist reading without *forcing* one. There is at least one place where the two readings could be pulled apart empirically: if mirth is the reward for a covert-error retraction, its intensity should track the magnitude and the covertness of the commitment retracted, and should be indifferent to features of the joke that leave that retraction unchanged. A felt quality not fixed by the structural facts carries no such prediction. The magnitude half has some support: Nerhardt (1970) found rated humor and the inclination to laugh varying with a stimulus's divergence from an expected range of weights, as incongruity theory predicts. Divergence from expectation is not covertness of commitment, though, and the Map knows of no study that has separated the two; it does not claim the result in advance.
 
 ## Further Reading
 
@@ -108,8 +108,9 @@ A note on evidential weight. The claims here are philosophical, not empirical pr
 1. Kant, I. (1790). *Critique of Judgment*, First Part, §54. Trans. J. H. Bernard, *Kant's Critique of Judgement*, 2nd ed. revised, London: Macmillan, 1914. The quotation above was checked verbatim against that translation.
 1. Schopenhauer, A. (1818/1844). *The World as Will and Idea* (*Die Welt als Wille und Vorstellung*), Vol. I §13; the theory of the ludicrous developed at length in Vol. II, ch. 8 (1844 supplement). Trans. R. B. Haldane and J. Kemp, London: Kegan Paul, Trench, Trübner & Co., 1909 (Vol. I, seventh edition; Vol. II, sixth edition). Both quotations above were checked verbatim against that translation; the work is also translated as *The World as Will and Representation*.
 1. Freud, S. (1905). *Jokes and Their Relation to the Unconscious* (Strachey trans., Standard Edition).
-1. Spencer, H. (1911). "On the Physiology of Laughter." In *Essays on Education, Etc.* London: Dent.
+1. Spencer, H. (1860). "The Physiology of Laughter." *Macmillan's Magazine*, March 1860, 395–402. Reprinted as "On the Physiology of Laughter" in *Essays on Education, Etc.*, London: Dent, 1911 (the edition the *Stanford Encyclopedia* survey cites).
 1. Clark, M. (1970). "Humour and Incongruity." *Philosophy* 45(171): 20–32. DOI 10.1017/S003181910000958X.
+1. Nerhardt, G. (1970). "Humor and Inclination to Laugh: Emotional Reactions to Stimuli of Different Divergence from a Range of Expectancy." *Scandinavian Journal of Psychology* 11(1): 185–195. DOI 10.1111/j.1467-9450.1970.tb00734.x.
 1. Suls, J. (1972). "A Two-Stage Model for the Appreciation of Jokes and Cartoons: An Information-Processing Analysis." In J. Goldstein and P. McGhee (eds.), *The Psychology of Humor*, 81–99. New York: Academic Press.
 1. Shultz, T. R. (1976). "A Cognitive-Developmental Analysis of Humour." In A. J. Chapman and H. C. Foot (eds.), *Humour and Laughter: Theory, Research and Applications*, 11–36. London: Wiley. (Routledge reissue, DOI 10.4324/9780203789469-2.)
 1. Hurley, M. M., Dennett, D. C., & Adams, R. B., Jr. (2011). *Inside Jokes: Using Humor to Reverse-Engineer the Mind*. MIT Press.

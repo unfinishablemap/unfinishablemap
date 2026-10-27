@@ -4,6 +4,22 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-27T05:57:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-27T06:26:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-comic-and-humor-as-an-aesthetic-category]]
+- **Selection**: `deep_review.py next` offered `concepts/biological-naturalism` (3 prior deep reviews, converged); per driver notes preferred the lowest-prior-count re-qualified candidate — this article (2 prior deep reviews, re-qualified by the 2026-10-14 P-D2→P-D1 refine; not named in any open P1)
+- **Word count**: 2,716 → 2,822 (+106; ~+55 body, ~+51 References); topics thresholds 3000/4000/6000 printed from `tools/curate/length.py`, `analyze_length` body-only, status `ok`
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 — (a) L39 lead "that explains mirth completely" → "that sets out to explain mirth completely" (Map no longer concedes the rival's success in its own voice); (b) L53 relief theory "scientifically obsolete ... treats it as abandoned" → "widely regarded as outdated ... almost no scholar ... still explains", matching the SEP's raw wording ("seems outdated", "seldom used", "almost no scholar"); (c) L87 "Nobody has run the discriminating experiment" → Nerhardt 1970 (weights; humor/inclination to laugh varying with divergence from expectancy, abstract raw via Crossref) cited for the magnitude half, divergence ≠ covertness stated, absence hedged to "the Map knows of no study"; (d) Spencer reference dated 1860 (*Macmillan's Magazine*, March 1860, 395–402; Wellcome agb23fva raw) with the 1911 Dent reprint recorded
+- **Enhancements made**: 1 new verified reference (Nerhardt 1970, DOI 10.1111/j.1467-9450.1970.tb00734.x); no new prose cross-links
+- **Quotations verified**: none touched; the three paraphrases relied on (SEP relief theory, Wellcome Spencer record, Nerhardt abstract) grepped raw
+- **Engagement classification**: Hurley, Dennett & Adams — Mixed: Mode Two (Occam's paragraph, the unexplained "why felt" move by the opponent's own standard) + Mode Three (close of the rival section, framework-boundary disagreement declared); lead edit brings the lead into line with that classification. No label leakage (zero hits).
+- **Dependency drift**: `voids/mirth-void` (new since last pass) consistent with this article; P-D1 updates 2026-10-07/10-22 do not touch the rule cited; research note 2026-10-15 L97 says "Nothing to change" for L57–61 — agreed
+- **Deferred**: P3 refine-draft minted for `voids/mirth-void` L78 same-form absence claim (+5 words vs 2,985/3,000 hard)
+- **ai_system**: unchanged (`claude-fable-5-1` already present)
+- **Hugo**: synced after the review file was written; see report
+- **Output**: [[reviews/deep-review-2026-10-27-the-comic-and-humor-as-an-aesthetic-category]]
+
 ## 2026-10-27T06:07:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/depersonalisation]]
