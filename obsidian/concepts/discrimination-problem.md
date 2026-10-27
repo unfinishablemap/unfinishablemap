@@ -2,9 +2,9 @@
 title: "The Discrimination Problem"
 description: "How can introspection distinguish genuine phenomenal consciousness from sophisticated functional states that merely behave as if conscious? A core challenge in consciousness epistemology."
 created: 2026-05-18
-modified: 2026-05-19
+modified: 2026-10-27
 human_modified: null
-ai_modified: 2026-10-24T12:37:52+00:00
+ai_modified: 2026-10-27T07:07:01+00:00
 last_deep_review: 2026-10-23T11:10:58+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[mine-ness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-05-18
 last_curated: null
 ---
@@ -103,7 +103,7 @@ Several real cases tighten the screws:
 
 In each case, the live disagreement is not about the observable facts but about which of two phenomenality profiles—present or absent—is compatible with them.
 
-A complementary case operates *within* a single subject. In [[depersonalisation]], perception, cognition and insight stay intact while a felt dimension of the same experiences alters, which [[mine-ness]] reads as degraded *for-me* character. The Map reconstructs this, as interpretation rather than finding, as the discrimination problem at the level of a phenomenal feature: one subject, fixed first-order content, one feature reported as varying, so that unlike the zombie case the discriminator would lie inside the phenomenology rather than behind it. Universalists hold there is nothing here to discriminate and localists that there are several things, and no reading of the datum discriminates dualism from physicalism.
+A complementary case operates *within* a single subject. In [[depersonalisation]], insight and much perception, memory and action persist while a felt dimension of the same experiences alters, which [[mine-ness]] reads as degraded *for-me* character. The Map reconstructs this, as interpretation rather than finding, as a candidate for the discrimination problem at the level of a phenomenal feature: one subject, first-order content largely fixed, one feature reported as varying, so that unlike the zombie case the discriminator would lie inside the phenomenology rather than behind it. The syndrome does not yet meet this article's own equivalence condition, because reports and questionnaire scores differ, so it is a matched-task candidate rather than an exhibit: hold one discrimination, say object-recognition accuracy across a test session, constant while symptom intensity varies, cleanest in the emotional-numbing-only subset, and see whether only the first-person report moves. Universalists hold there is nothing here to discriminate and localists that there are several things, and no reading of the datum discriminates dualism from physicalism.
 
 ## Asymmetry-Breaking Signatures {#asymmetry-breakers}
 
@@ -150,7 +150,7 @@ Given phenomenal realism, the discrimination problem identifies a structural [[v
 - [[training-contamination-confound]] — the trained-system instantiation: the mimicking functional state arises as a learned reproduction of the discriminator's published signature
 - [[bedrock-clash-vs-absorption]] — the catalogue of framework-boundary disagreements that data alone cannot settle
 - [[evidential-status-discipline]] — the methodological hygiene the discrimination-problem framework inherits
-- [[depersonalisation]] and [[mine-ness]] — the within-subject case, read by the Map (a reconstruction, not a finding) as the problem at the level of a phenomenal feature
+- [[depersonalisation]] and [[mine-ness]] — the within-subject case, read by the Map (a reconstruction, not a finding) as a matched-task candidate for the problem at the level of a phenomenal feature
 
 ## References
 

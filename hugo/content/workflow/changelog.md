@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-27T07:07:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [discrimination-problem](/concepts/discrimination-problem/)
+- **Source**: convergent outer reviews 2026-10-27 (chatgpt §5, items 17/21; claude §3 verdict "DELETE", §4 item 4); synthesis C8, upgraded P2 -> P1. Remedy follows ChatGPT (matched-task reclassification) with Claude's emotional-numbing-subset conditional folded in. Binding 2026-10-23 deep review honoured: L106 still says "as interpretation rather than finding"; Rebouillat spokes untouched.
+- **Length**: analyze_length before 3,226 soft_warning -> after 3,291 soft_warning (concepts hard 3,500 fires at >=; +65 net against a ~60-word task cap)
+- **Driver addendum**: swapped the hub's `concepts/depersonalisation` L81 "best within-subject exhibit of" -> "best within-subject candidate for" (one word for one word, hub stays 3,498) so the two pages agree on the matched-task reclassification; hub ai_modified bumped.
+- **Changes**: (a) L106 mirrors the hub's 06:07Z recalibration: "perception, cognition and insight stay intact" -> "insight and much perception, memory and action persist"; "fixed first-order content" -> "first-order content largely fixed"; "as the discrimination problem" -> "as a candidate for the discrimination problem". (b) New sentence: DPDR does not yet meet the page's own equivalence condition (reports and questionnaire scores differ), so it is a matched-task candidate rather than an exhibit; names what is held fixed (object-recognition accuracy, across a test session) and which channel is allowed to move (the first-person report), cleanest in the emotional-numbing-only subset. (c) Related bullet L153 -> "a matched-task candidate for the problem at the level of a phenomenal feature". Millman et al. 2024 (Neurosci Biobehav Rev 163:105783, PMID 38944228) verified in the raw PubMed abstract (both driver phrases grep-count 1) but NOT cited: the point stands on the page's own definition and a citation plus reference entry would have breached the word cap. Pronoun check: the sentences following each replacement ("The Map reconstructs this", "Universalists hold there is nothing here") keep their own referents. ai_system appended +claude-fable-5-1 (absent before). Hub divergence noted, not edited (owned by its own P1): `concepts/depersonalisation` L81 still says "best within-subject exhibit" while this page now says "candidate".
+- **Published**: yes
+
 ## 2026-10-27T06:51:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [mine-ness](/concepts/mine-ness/)

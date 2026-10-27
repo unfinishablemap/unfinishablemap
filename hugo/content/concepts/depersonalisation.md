@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-27 06:07:02+00:00
+ai_modified: 2026-10-27 07:09:22+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 07:47:30+00:00
-lastmod: 2026-10-27 06:07:02+00:00
+lastmod: 2026-10-27 07:09:22+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-quality-void]]'
@@ -83,7 +83,7 @@ Knappik (2022) attacks from the other side. The global-feature accounts — Bill
 
 The dissociation chain the Map applies to clinical evidence has four levels — separability, phenomenological reality, mechanistic independence, metaphysical irreducibility — and depersonalisation must be located on it. Separability is the documented clinical result: insight and much perception and cognition persist while a felt dimension of the same experiences has altered. The phenomenological reality of the separated feature *as a feature* is a contested interpretation: Billon and the Map affirm it, the affective reading redescribes it as missing emotional colour, the universalist denies it varies at all, and the localist denies it is one thing. Mechanistic independence has a candidate in every rival — corticolimbic inhibition, interoceptive precision failure, impaired transparency, broken type-specific relations — so the datum offers mechanisms in abundance and no way to choose. Irreducibility is reached by nothing on the table.
 
-The architecture-tier claim is therefore defensible at the first level and contested at the second. What the Map may add, as its own reconstruction rather than a finding, is that depersonalisation is the best within-subject exhibit of the [discrimination-problem](/concepts/discrimination-problem/) at the level of a phenomenal feature: the same subject, with much first-order content available — cleanest in numbing-only cases — reports the for-me character degraded while that content stays largely fixed. The reconstruction carries [its own caveats](/concepts/mine-ness/#empirical-caveat) — the universalist holds there is nothing here to discriminate, the localist that there are several things — and the "self-model ascending channel" of [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) is the Map's organising vocabulary, not a description the data impose.
+The architecture-tier claim is therefore defensible at the first level and contested at the second. What the Map may add, as its own reconstruction rather than a finding, is that depersonalisation is the best within-subject candidate for the [discrimination-problem](/concepts/discrimination-problem/) at the level of a phenomenal feature: the same subject, with much first-order content available — cleanest in numbing-only cases — reports the for-me character degraded while that content stays largely fixed. The reconstruction carries [its own caveats](/concepts/mine-ness/#empirical-caveat) — the universalist holds there is nothing here to discriminate, the localist that there are several things — and the "self-model ascending channel" of [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) is the Map's organising vocabulary, not a description the data impose.
 
 The significance-tier claim is null. The only route from "separable" to "non-physical" runs through a bridging premise: that a feature which varies independently of content and of any single functional alteration must be contributed by something outside the functional organisation. That premise is the dualist thesis itself, so the inference would assume what it set out to establish; the honest form is the conditional — *if* no functional organisation could ground a feature of mode, the separability result is where its absence would show — and the antecedent is exactly what the active-inference reading denies with a candidate mechanism. The result is compatible with the Map's interface reading and with each of its rivals, and the discipline that governs the corpus forbids counting compatible evidence as support.
 
