@@ -2,9 +2,9 @@
 title: "Phenomenology of Agency vs Passivity"
 description: "The felt contrast between doing and undergoing reveals a fundamental axis of experience that materialist accounts struggle to explain—and the Map's framework predicts."
 created: 2026-02-09
-modified: 2026-09-26
+modified: 2026-10-27
 human_modified:
-ai_modified: 2026-10-01T19:48:28+00:00
+ai_modified: 2026-10-27T07:36:43+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[project/evidential-status-discipline]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-07-17T23:47:40+00:00
@@ -122,7 +122,7 @@ Under hypnosis, subjects report that their arm rises "by itself." The motor outp
 
 Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
-This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [[mine-ness]] and dissociates from agency in both directions: agency lost with ownership preserved in schizophrenic [[thought-insertion|thought insertion]]; ownership disrupted with agency intact in depersonalisation. The double dissociation matters here because it indicates that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology.
+This article's central contrast is the *agency* layer. The parallel feature at the mine-ness layer—the felt for-me character by which an experience presents as belonging to a subject before any question of who initiated it—is treated in [[mine-ness]] and dissociates from agency in one secure direction: agency is lost with ownership preserved in schizophrenic [[thought-insertion|thought insertion]]. [[depersonalisation|Depersonalisation]] disturbs ownership, but whether felt initiation survives depends on the reading: on the Gallagher-style reading it does, while [[depersonalisation#The Active-Inference Self-Model|active-inference accounts]] find felt control disturbed as well, and the clinical sketch below records actions feeling automatic. The dissociation is therefore one-way rather than double. Even so, it shows that the sense of agency is not simply body-ownership plus motor output, since the ownership-plus-output package can be present while agency is missing. What more is required is a framework-internal question; the Map's answer—genuine conscious selection—is a reading it defends on other grounds, not something the dissociation alone establishes.
 
 ## What the Contrast Reveals
 

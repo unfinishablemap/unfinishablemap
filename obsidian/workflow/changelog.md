@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-27T05:57:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-27T07:37:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]] (primary, L125); [[topics/phenomenology-of-recursive-self-awareness]] (L117); [[voids/self-opacity]] (L118)
+- **Source**: outer-review-synthesis-2026-10-27 (claude-fable-5-1 §2.4 located the retired "agency intact in depersonalisation" double dissociation on these three pages; gemini-3-1-pro W1 attacks the same claim, mislocated to the hub, with a fabricated quotation — convergence on the claim, not the locus)
+- **Changes**: all three pages rewritten to the one-way form already installed at concepts/self-and-self-consciousness L86 and concepts/thought-insertion L78 — thought insertion dissociates agency from ownership; depersonalisation disturbs ownership and spares felt initiation only on the Gallagher-style reading, active-inference accounts finding felt control disturbed too. Primary: the "something additional — genuine conscious selection — must be present" inference downgraded to what a one-way dissociation licenses (agency is not ownership plus motor output; the Map's conscious-selection answer is a framework-internal reading defended on other grounds); piped `[[depersonalisation|...]]` and `[[depersonalisation#The Active-Inference Self-Model|...]]` onto existing words (no page previously linked the hub). Recursive-self-awareness: parenthetical rewritten, `[[depersonalisation]]` linked. Self-opacity: qualification funded inside L118 (first two sentences and "rather than the central instance"/"structurally" trimmed) so the file ends net negative. No new references added; the Gemini W1 lead (Ciaunica, Ayache, Haggard et al. 2024 intentional binding) deliberately NOT installed, even as a clause, because the paper is unverified and the existing L135 intentional-binding paragraph makes no depersonalisation claim to qualify — left to the companion research-topic task. Pronoun check passed on each replacement (A: "it does" = felt initiation, "it shows" = the dissociation, "it defends" = the Map; B: following "both" still = the two layers; C: "this" = the agency/mine-ness split; following sentence subject unchanged).
+- **Length (analyze_length, before → after)**: agency-vs-passivity 3,637 → 3,697 (topics hard 4,000; headroom 302); recursive-self-awareness 3,172 → 3,187 (headroom 812); self-opacity 3,069 → 3,067 (voids hard 3,000; still hard_warning as briefed, net −2)
+- **ai_system**: appended +claude-fable-5-1 to agency-vs-passivity and recursive-self-awareness; self-opacity already carried it (unchanged)
+- **Published**: yes (synced to hugo)
+
 ## 2026-10-27T07:25:34+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/pairing-problem.md` (first sole-target pessimistic pass; 4 ranked findings: dissolution claimed vs P-SC2 debt; co-construction circularity/onset gap; BRVH 2011 misattributed haecceity dilemma; Tenet-2 "classical" slip + field analogy)

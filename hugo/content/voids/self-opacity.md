@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-10-09 22:34:17+00:00
+ai_modified: 2026-10-27 07:36:43+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[mine-ness]]'
 created: 2026-01-14
-date: &id001 2026-10-09
+date: &id001 2026-10-27
 description: Consciousness cannot fully know itself—six thinkers from divergent frameworks,
   empirical psychology, and phenomenology converge on a single void at the heart of
   subjectivity.
@@ -34,7 +34,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 16:51:06+00:00
-lastmod: 2026-10-09 22:34:17+00:00
+lastmod: 2026-10-27 07:36:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -119,7 +119,7 @@ The evidence here is framework-independent. Mita, Dermer and Knight (1977) found
 
 ## The Special Case of Volition
 
-Volitional opacity sits at the intersection of introspective opacity and the [causal interface void](/voids/causal-interface/). We cannot observe the processes of willing, nor how (or whether) willing causes action. The opacity targeted here is at the *agency* layer—how an action becomes mine to initiate. The parallel opacity at the [mine-ness layer](/concepts/mine-ness/)—how an experience becomes mine to *have*—is treated in the [ownership void](/concepts/mine-ness/#the-ownership-void) and dissociates from agency opacity in both directions: schizophrenic thought insertion strips agency while leaving mine-ness intact, depersonalisation can do the reverse. Volitional opacity is therefore a sub-case rather than the central instance: the architecture has at least two structurally distinct opacities, each visible only through its pathological absence.
+Volitional opacity lies where introspective opacity meets the [causal interface void](/voids/causal-interface/). We cannot observe willing, nor how (or whether) it causes action. The opacity targeted here is at the *agency* layer—how an action becomes mine to initiate. The parallel opacity at the [mine-ness layer](/concepts/mine-ness/)—how an experience becomes mine to *have*—is treated in the [ownership void](/concepts/mine-ness/#the-ownership-void) and dissociates from agency opacity: schizophrenic thought insertion strips agency but leaves mine-ness intact; [depersonalisation](/concepts/depersonalisation/) reverses this only on the Gallagher-style reading—active-inference accounts find felt control disturbed too. Volitional opacity is therefore a sub-case, not the central instance: the architecture has at least two distinct opacities, each visible only through its pathological absence.
 
 Libet's experiments revealed a "readiness potential" beginning ~550 ms before voluntary action; conscious awareness appears only ~200 ms before. Soon et al. (2008) extended this: brain activity predicted decisions up to seven seconds before awareness (~60% accuracy). Wegner showed that the experience of willing arises from interpreting thoughts as causes of actions based on priority, consistency, and exclusivity—constructed from cues, not observed directly.
 
