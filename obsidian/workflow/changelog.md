@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T21:23:41+00:00
+ai_modified: 2026-10-28T21:51:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-28T21:51:42+00:00 - coalesce
+- **Status**: Abandoned (no fitting pair; expected steady state)
+- **Method**: same as the 11:21:09Z run — sidecars filtered first (`*.refinement-log*`, section index files); every file named by a live (non-✓) task in the open section of todo.md (above `^## Completed Tasks$`) excluded, which is wider than the morning's P1/file-targeting list and so only shrinks the pool; 14-day age floor on max(modified, ai_modified, human_modified); body-only word counts via `tools.curate.length.analyze_length`; pair affordable iff sum < section hard gate (fires at >=); body links read from `post.content` only (frontmatter excluded), both directions; plus a hub check for any third page whose body links both members of an affordable pair
+- **Pools after filtering**: topics 183 (368 raw, 2 sidecars, 66 excluded, 117 edited <14d); concepts 171 (371 raw, 1 sidecar, 73 excluded, 126 edited <14d); voids 62 (114 raw, 1 sidecar, 11 excluded, 40 edited <14d). Section counts (`tools.evolution.state.count_section_files`): topics 367/370, concepts 370/370 (AT CAP), voids 113/125
+- **Affordable pairs**: topics 0 (smallest 2112 + 2189 = 4301 vs hard 4000); voids 0 (smallest 1826 + 1890 = 3716 vs hard 3000); concepts 100 over 29 distinct members — the short-article tail paired by arithmetic alone (`mind-arena` with quantum interpretations, Yogācāra, kairos, etc.), no duplicative pair among them
+- **Body-linked affordable concepts pairs**: 1, disqualified — `phenomenal-depth` (1475) + `phenomenal-presentation` (1572) = 3047, deliberately split (`**Versus [[phenomenal-depth]].**` at phenomenal-presentation L54 still stands; files last committed 2026-09-25 / 2026-07-27, unchanged since the 11:21Z verdict). The morning's other pair `causal-powers`+`mind-arena` now drops out at the exclusion step: `causal-powers` carries a live todo task
+- **Hub check**: 9 affordable pairs have a third page body-linking both members (max 2 hubs: `gaming-problem`+`mind-arena` via possibility-probability-slippage and apex/machine-question; `phenomenal-depth`+`phenomenal-presentation` via minimal-consciousness and phenomenal-overflow). None is a synthesis of the pair — every one is a page that cites two unrelated concepts in passing — so the pattern that produced real merges before is absent
+- **Not re-litigated** (unchanged since their 10-26 / 10-28 rejections; all inside the pool so no timestamp since 10-14): `perception`+`phenomenal-depth`/`phenomenal-presentation`, `adaptive-computational-depth`+`phenomenal-depth`, `content-externalism`+`status-of-content`
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 21:23 - refine-draft
 - **Status**: Success
