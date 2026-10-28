@@ -256,8 +256,8 @@
     cross-cluster'
   target_filename: outer-review-2026-10-28-gemini-3-1-pro.md
   status: pending
-  collect_attempts: 2
-  last_attempt_at: '2026-10-28T06:37:41.241450+00:00'
+  collect_attempts: 3
+  last_attempt_at: '2026-10-28T06:51:09.366385+00:00'
   failure_reason: null
   prompt_text: "Please conduct a full-site outer review of The Unfinishable Map at\
     \ https://unfinishablemap.org \u2014 a philosophical site defending interactionist\
