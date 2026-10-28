@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T10:45:46+00:00
+ai_modified: 2026-10-28T11:21:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-28T11:21:09+00:00 - coalesce
+- **Status**: Abandoned (no fitting pair; expected steady state)
+- **Method**: sidecars filtered first (`*.refinement-log*`, section index files); open-task/P1 exclusion list applied; 14-day age floor on max(modified, ai_modified, human_modified); body-only word counts via `tools.curate.length.analyze_length`; pair affordable iff sum < section hard gate (fires at >=)
+- **Pools after filtering**: topics 201 (368 raw, 2 sidecars, 3 excluded, 162 edited <14d); concepts 188 (369 raw, 1 sidecar, 13 excluded, 167 edited <14d); voids 67 (114 raw, 1 sidecar, 1 excluded, 45 edited <14d). Section counts (`count_section_files`): topics 367/370, concepts 368/370, voids 113/125
+- **Affordable pairs**: topics 0 (smallest 1990 + 2112 = 4102 vs hard 4000); voids 0 (smallest 1826 + 1890 = 3716 vs hard 3000); concepts 96
+- **Body-linked affordable concepts pairs**: 2, both disqualified — `causal-powers` (2114) + `mind-arena` (1380) = 3494, 5 words under the 3499 ceiling before any merge overhead, complementary not duplicative (general dispositional metaphysics vs a Map-specific domain term that applies it; the only causal-powers->mind-arena link is a Further Reading annotation), 16 deep-review ledger files on causal-powers; `phenomenal-depth` (1475) + `phenomenal-presentation` (1572) = 3047, deliberately split (`**Versus [[phenomenal-depth]].**` at phenomenal-presentation L54 still stands)
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
 
 ## 2026-10-28T10:45:46+00:00 - research-topic
 - **Status**: Success
