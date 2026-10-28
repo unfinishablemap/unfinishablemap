@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T11:21:09+00:00
+ai_modified: 2026-10-28T11:50:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-28T11:50:09+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The psychophysical indexing law — which subject is paired with which physical subsystem, when, and how many (harvested from outer-review-2026-10-28-chatgpt-5-6-sol-pro §2.1 / Priority-0 items 4–6; the todo's "§2.2" pointer is the Born-preservation section, noted in the note)
+- **Output**: [[research/psychophysical-indexing-law-2026-10-28]]
+- **Recommended action**: article (`concepts/psychophysical-indexing-law`; concepts 368/370 at 11:34Z, re-measure at expand; fallback net-zero fold into `apex/interface-specification-programme` § The Specification Gap). Term is ChatGPT's coinage; problem is Foster 1991 / Kim 2001, 2005; BRVH 2011 read in full from the authors' preprint — no haecceity dilemma, positive move is located souls + (Glued), origin-law passage is a §3.1 possibility; Zurek 1998 "what are the systems" verified from arXiv full text; five of six components already booked (P-SC1–3, P-CS7, P-I3, quantum-factorisation-problem), semantic matching has no register entry
+- **Sources consulted**: 25 citations (2 full texts, 4 publisher/Crossref abstracts, 11 Crossref metadata records, 8 re-cited from prior notes); 13 search queries
 
 ## 2026-10-28T11:21:09+00:00 - coalesce
 - **Status**: Abandoned (no fitting pair; expected steady state)
