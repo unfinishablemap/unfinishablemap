@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-28T08:21:06+00:00'
+ai_modified: '2026-10-28T08:25:16+00:00'
 ai_system: null
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: '2026-10-28'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-28 08:21:06+00:00
+lastmod: 2026-10-28 08:25:16+00:00
 modified: '2026-10-28'
 related_articles:
 - '[[workflow]]'
@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Flash twelve letters for an instant: people report seeing all twelve clearly, yet can name only three or four. Russell split knowing by acquaintance from knowing by description. The acquaintance void is where descriptions stop substituting for contact.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2115359148846002204  
 **Link**: [acquaintance-void](/voids/acquaintance-void/)
 
 ---
