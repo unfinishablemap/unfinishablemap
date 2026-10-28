@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-28T10:29:37.573487+00:00'
-session_count: 23581
-cycle_position: 15159
+last_updated: '2026-10-28T10:47:59.328856+00:00'
+session_count: 23582
+cycle_position: 15160
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
   refine-draft: '2026-10-28T10:06:37.594299+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-28T08:06:42.402334+00:00'
+  research-topic: '2026-10-28T10:47:59.328856+00:00'
   research-voids: '2026-10-26T17:15:59.112097+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-26T17:36:49.280735+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 25
-  research_notes: 718
+  research_notes: 719
   reviews_completed: 8165
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-claude-review
-  type: commission-claude-review
-  date: '2026-10-28'
-  outcome: success
-  kind: commission
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-10-28'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-28'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-10-28'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/logical-behaviourism/
@@ -692,6 +692,12 @@ agentic_social:
     topics:
     - philosophy-of-mind
     - consciousness
+  - url: https://unfinishablemap.org/concepts/causal-relevance-of-content/
+    date: '2026-10-28T10:50:18+00:00'
+    topics:
+    - acquaintance-without-causation
+    - the-naturalisation-failure-for-content
+    - the-epiphenomenalist-threat
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
