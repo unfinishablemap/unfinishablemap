@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-28T16:36:15+00:00 - cross-review
+- **Status**: Success
+- **File**: [depersonalisation-nosology](/concepts/depersonalisation-nosology/) (integration check only; unchanged, 2398 words)
+- **Hosts checked**: [depersonalisation](/concepts/depersonalisation/) (3498, untouched; two pipes already live at L37/L43), [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) (pipe installed), [mine-ness](/concepts/mine-ness/) (3494, skipped — no span to pipe onto)
+- **Conflict verdict**: no host files depersonalisation flat as "a dissociative disorder"; hub L37/L43 agree with the new page's DSM-5/ICD-11 account; no conflict edit needed
+- **Word count**: `topics/clinical-dissociation-as-systematic-evidence` 4688 → 4688 (+0; `analyze_length`, topics 3000/4000/6000, hard_warning unchanged) — `[[depersonalisation-nosology|the measurement literature]]` piped over existing words at L92
+- **New page**: both hub anchors (`#The Affective Reading` H3 L53, `#What the Datum Shows: Two Tiers` L77) and five tenet block anchors resolve; no change, ai_modified untouched
+- **Inbound live hosts**: 2 (hub + clinical-dissociation)
+- **Tasks minted**: 0
+- **Output**: [cross-review-2026-10-28-depersonalisation-nosology](/reviews/cross-review-2026-10-28-depersonalisation-nosology/)
+
 ## 2026-10-28T16:26:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [anosognosia-and-the-reversible-self-monitoring-channel](/topics/anosognosia-and-the-reversible-self-monitoring-channel/)

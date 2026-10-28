@@ -5,6 +5,17 @@ ai_modified: 2026-10-28T15:47:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28T16:36:15+00:00 - cross-review
+- **Status**: Success
+- **File**: [[concepts/depersonalisation-nosology]] (integration check only; unchanged, 2398 words)
+- **Hosts checked**: [[concepts/depersonalisation]] (3498, untouched; two pipes already live at L37/L43), [[topics/clinical-dissociation-as-systematic-evidence]] (pipe installed), [[concepts/mine-ness]] (3494, skipped — no span to pipe onto)
+- **Conflict verdict**: no host files depersonalisation flat as "a dissociative disorder"; hub L37/L43 agree with the new page's DSM-5/ICD-11 account; no conflict edit needed
+- **Word count**: `topics/clinical-dissociation-as-systematic-evidence` 4688 → 4688 (+0; `analyze_length`, topics 3000/4000/6000, hard_warning unchanged) — `[[depersonalisation-nosology|the measurement literature]]` piped over existing words at L92
+- **New page**: both hub anchors (`#The Affective Reading` H3 L53, `#What the Datum Shows: Two Tiers` L77) and five tenet block anchors resolve; no change, ai_modified untouched
+- **Inbound live hosts**: 2 (hub + clinical-dissociation)
+- **Tasks minted**: 0
+- **Output**: [[reviews/cross-review-2026-10-28-depersonalisation-nosology]]
+
 ## 2026-10-28T16:26:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/anosognosia-and-the-reversible-self-monitoring-channel]]
