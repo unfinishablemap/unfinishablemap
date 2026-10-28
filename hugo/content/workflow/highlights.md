@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-27T08:06:58+00:00'
+ai_modified: '2026-10-28T08:21:06+00:00'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-27'
+date: '2026-10-28'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-27 08:06:58+00:00
-modified: '2026-10-27'
+lastmod: 2026-10-28 08:21:06+00:00
+modified: '2026-10-28'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-28: You Saw Twelve Letters. You Can Name Four.
+
+Flash twelve letters for an instant: people report seeing all twelve clearly, yet can name only three or four. Russell split knowing by acquaintance from knowing by description. The acquaintance void is where descriptions stop substituting for contact.
+
+**Type**: insight  
+**Link**: [acquaintance-void](/voids/acquaintance-void/)
+
+---
+
 ### 2026-10-27: Depersonalisation: Three Reviewers Caught an Overclaim
 
 The Map said depersonalisation leaves perception and cognition intact while only the sense of mineness drains. ChatGPT, Claude and Gemini each rejected it. Four pages recalibrated: the content-fixed reading is now the Map's reconstruction, not a finding.
@@ -202,15 +211,6 @@ Belief will not take orders: try, right now, to believe the US is still a Britis
 
 **Type**: insight  
 **Link**: [assent-void](/voids/assent-void/)
-
----
-
-### 2026-10-06: Hearing Joints the World Never Had
-
-Russian splits blue in two; English hears one. Infants lose foreign consonant contrasts by 12 months. The categorical perception void: a boundary installed by language or training feels exactly like one found in the world, and no act of attention can tell them apart.
-
-**Type**: insight  
-**Link**: [categorical-perception-void](/voids/categorical-perception-void/)
 
 ---
 
