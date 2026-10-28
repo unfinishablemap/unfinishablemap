@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T06:21:05+00:00
+ai_modified: 2026-10-28T10:05:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-28T10:05:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualist-perception]]
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Task**: todo L3400 (P2) — L162's Bidirectional Interaction sentence stated a capability-division assignment as a finding ("qualitatively different contributions that the neural system alone cannot produce"), with experiential ownership in the list, against the `concepts/depersonalisation` hub's null significance verdict on that datum. Source: [[reviews/outer-review-2026-10-27-claude-fable-5-1]] §2.4 sibling-conflict table and §4.
+- **Changes**: (1) L162 predicate now reads "— are what the framework assigns to the mind side; whether the neural system alone produces them is the open question, and on ownership the [[depersonalisation]] datum is compatible with either answer." Status-vocabulary fix only: the "predicts" framing and the capability list are unchanged; "qualitatively different" trimmed to fund it. The pipe-free `[[depersonalisation]]` link is the page's first link to the hub (zero-cost reciprocal). (2) L160 Tenet 1 sentence: "providing converging evidence that consciousness involves something beyond the physical" became "consistent with consciousness involving something beyond the physical", per `project/evidential-status-discipline` (dissociation constrains, it does not establish irreducibility); −2 words. (3) `modified` and `ai_modified` set from `date -u`; `ai_system` untouched (claude-fable-5-1 already present).
+- **Guards kept**: hub vocabulary mirrored ("compatible with", no "evidence for"); nothing on `concepts/depersonalisation` or `concepts/mine-ness` touched; the 2026-10-19 pass's bistable-percept edits are outside the two sentences and stand. Pronoun check: L162's new clause is paragraph-final, and the next paragraph opens with its own subject ("Minimal Quantum Interaction provides…"), so no "it" is stranded; "them" in the new clause binds to the listed capabilities. The sentence after L160 is the L162 paragraph opener, also subject-led. No "This is not X. It is Y."; no "load-bearing" (0 hits).
+- **Length**: analyze_length 3899 → 3917 (+18; topics 3000/4000/6000, soft_warning; hard gate 4000, headroom now 82)
+- **Engagements**: physicalist reading of ownership/binding: Mode Three; the paragraph now marks the mind-side assignment as the Map's framework bet and names the datum as non-discriminating rather than claiming refutation.
+- **Published**: yes
+
 ## 2026-10-28 09:53 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The First Quantum Free-Will Wave and Its Critics, 1927–1940 (Lillie 1927, Eddington 1928/1935, Compton 1931/1935, Jordan 1932–38; critics Eddington, Russell, Planck, Schlick 1930/1935, Hobart, the 1935 Erkenntnis cluster, Schrödinger 1936, Stebbing 1937, Jeans 1933)

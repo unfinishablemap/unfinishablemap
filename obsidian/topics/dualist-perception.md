@@ -2,9 +2,9 @@
 title: "Dualist Perception"
 description: "Perception is where consciousness meets the world. Dissociations, phenomenal richness, and perspectival character reveal an irreducible experiential dimension—and dualism reshapes every major question in the philosophy of perception."
 created: 2026-02-16
-modified: 2026-10-19
+modified: 2026-10-28
 human_modified:
-ai_modified: 2026-10-19T10:25:31+00:00
+ai_modified: 2026-10-28T10:05:29+00:00
 last_deep_review: 2026-09-15T02:34:21+00:00
 draft: false
 topics:
@@ -157,9 +157,9 @@ While vision dominates philosophical discussions, perception extends across moda
 
 The Map's [[tenets]] find their sharpest expression in perception.
 
-**[[tenets#^dualism|Dualism]]** holds that consciousness is not reducible to physical processes. Perceptual dissociations — blindsight, inattentional blindness, subliminal processing — demonstrate that physical processing and conscious experience are separable. If they can come apart, they are not the same thing. The richness, perspectival character, and intentional structure of perceptual experience each resist reduction to neural description, providing converging evidence that consciousness involves something beyond the physical.
+**[[tenets#^dualism|Dualism]]** holds that consciousness is not reducible to physical processes. Perceptual dissociations — blindsight, inattentional blindness, subliminal processing — demonstrate that physical processing and conscious experience are separable. If they can come apart, they are not the same thing. The richness, perspectival character, and intentional structure of perceptual experience each resist reduction to neural description, consistent with consciousness involving something beyond the physical.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** predicts that consciousness contributes to perception, not merely accompanies it. The binding of perceptual features into unified scenes, the maintenance of perceptual constancies, the selection among competing reconstructions in bistable perception, and the role of attention in determining what becomes conscious all suggest that consciousness shapes the perceptual field rather than passively receiving it. The [[capability-division-problem|capability division framework]] sharpens this: mind-side capabilities in perception — phenomenal binding, experiential ownership, flexible reasoning about perceptual content — are qualitatively different contributions that the neural system alone cannot produce.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** predicts that consciousness contributes to perception, not merely accompanies it. The binding of perceptual features into unified scenes, the maintenance of perceptual constancies, the selection among competing reconstructions in bistable perception, and the role of attention in determining what becomes conscious all suggest that consciousness shapes the perceptual field rather than passively receiving it. The [[capability-division-problem|capability division framework]] sharpens this: mind-side capabilities in perception — phenomenal binding, experiential ownership, flexible reasoning about perceptual content — are what the framework assigns to the mind side; whether the neural system alone produces them is the open question, and on ownership the [[depersonalisation]] datum is compatible with either answer.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** provides a candidate mechanism for how consciousness participates in perception without violating conservation laws — biasing quantum indeterminacies where perception reaches points of genuine ambiguity.
 

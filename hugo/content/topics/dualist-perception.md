@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-10-19 10:25:31+00:00
+ai_modified: 2026-10-28 10:05:29+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[phenomenal-overflow]]'
 created: 2026-02-16
-date: &id001 2026-10-19
+date: &id001 2026-10-28
 description: Perception is where consciousness meets the world. Dissociations, phenomenal
   richness, and perspectival character reveal an irreducible experiential dimension—and
   dualism reshapes every major question in the philosophy of perception.
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-15 02:34:21+00:00
-lastmod: 2026-10-19 10:25:31+00:00
+lastmod: 2026-10-28 10:05:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -161,9 +161,9 @@ While vision dominates philosophical discussions, perception extends across moda
 
 The Map's [tenets](/tenets/) find their sharpest expression in perception.
 
-**[Dualism](/tenets/#dualism)** holds that consciousness is not reducible to physical processes. Perceptual dissociations — blindsight, inattentional blindness, subliminal processing — demonstrate that physical processing and conscious experience are separable. If they can come apart, they are not the same thing. The richness, perspectival character, and intentional structure of perceptual experience each resist reduction to neural description, providing converging evidence that consciousness involves something beyond the physical.
+**[Dualism](/tenets/#dualism)** holds that consciousness is not reducible to physical processes. Perceptual dissociations — blindsight, inattentional blindness, subliminal processing — demonstrate that physical processing and conscious experience are separable. If they can come apart, they are not the same thing. The richness, perspectival character, and intentional structure of perceptual experience each resist reduction to neural description, consistent with consciousness involving something beyond the physical.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** predicts that consciousness contributes to perception, not merely accompanies it. The binding of perceptual features into unified scenes, the maintenance of perceptual constancies, the selection among competing reconstructions in bistable perception, and the role of attention in determining what becomes conscious all suggest that consciousness shapes the perceptual field rather than passively receiving it. The [capability division framework](/voids/capability-division-problem/) sharpens this: mind-side capabilities in perception — phenomenal binding, experiential ownership, flexible reasoning about perceptual content — are qualitatively different contributions that the neural system alone cannot produce.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** predicts that consciousness contributes to perception, not merely accompanies it. The binding of perceptual features into unified scenes, the maintenance of perceptual constancies, the selection among competing reconstructions in bistable perception, and the role of attention in determining what becomes conscious all suggest that consciousness shapes the perceptual field rather than passively receiving it. The [capability division framework](/voids/capability-division-problem/) sharpens this: mind-side capabilities in perception — phenomenal binding, experiential ownership, flexible reasoning about perceptual content — are what the framework assigns to the mind side; whether the neural system alone produces them is the open question, and on ownership the [depersonalisation](/concepts/depersonalisation/) datum is compatible with either answer.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** provides a candidate mechanism for how consciousness participates in perception without violating conservation laws — biasing quantum indeterminacies where perception reaches points of genuine ambiguity.
 
