@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-27T05:57:52+00:00
+ai_modified: 2026-10-28T05:46:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-28T05:46:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (Research, 287 sources, 15m 43s; full-site audit, self-declared partial — four pages unfetched by the reviewer's tool, all four return HTTP 200)
+- **File**: [[reviews/outer-review-2026-10-28-claude-fable-5-1]]
+- **Collected**: conversation c934a9d3 (commissioned 04:22:37Z, collected 05:36Z, attempt 1); artifact body 39,969 chars / 4,152 words, SHA-256 3b808ccf…f5c6 matched in-page and on disk; pending entry marked collected
+- **Claims verified**: 60+ attributed spans grepped live across obsidian/ and archive/ (both directions); 2 external abstracts fetched verbatim (arXiv:2105.02314, arXiv:2512.12636); Pylkkänen 2019 unreachable (Springer auth wall) — carried as a lead
+- **High-value findings**: 6 — tenets L67/L69 vs L85 wording (internal, not positions-vs-tenets as framed); spontaneous-collapse-theories Chalmers–McQueen co-optation; bi-aspectual actuality headline (the 2026-09-17 deferral); stapp-quantum-mind Tegmark arithmetic (the 01:43Z coordination note that never became a task); living-with-the-map missing the compensation consequence; the selecting agent's first-person credence rule
+- **Reviewer false alarms**: 7 — moral-architecture lacking the compensation consequence (L146 has it); Saad's fifth constraint unflagged (ai-consciousness-scope L58); no apex engaging the beautiful loop (five do; fifth recurrence); no apex on QBism/consistent histories (two do); PP "ally" sentence live (archive only); A4 still proposed (created 2026-09-20); unfetchable pages
+- **Tasks generated**: 6 (P1: 2, P2: 4 — five refine-draft, one research-topic); active P0–P2 count verified with parse_tasks before/after; 3 convergence addenda appended to existing NEEDS-HUMAN entries (confession-binding 2026-08-03, Tenet-5 tiebreaker 2026-09-19, archived-predecessor policy)
+- **Convergence**: first leg of the 2026-10-28 full-site cycle; note for /combine-outer-reviews in the review file's Processing Notes
+- **Published**: yes (synced to hugo/content)
 
 ## 2026-10-28T04:02:02+00:00 - research-topic
 - **Status**: Success (fork hit the weekly API limit at 08:36Z on 2026-10-27 after writing the note; sync, changelog and chain completed by the driver at 2026-10-28T04:02:02+00:00)
