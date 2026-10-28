@@ -2,9 +2,9 @@
 title: "Relational Quantum Mechanics"
 description: "Rovelli's interpretation where quantum facts are relative to observers. Elegant but conflicts with the Map by eliminating consciousness's special role."
 created: 2026-01-18
-modified: 2026-05-23
+modified: 2026-10-28
 human_modified: null
-ai_modified: 2026-07-30T15:10:22+00:00
+ai_modified: 2026-10-28T19:21:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[relational-quantum-mechanics-2026-01-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-fable-5-1
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-07-26T17:51:02+00:00
@@ -56,6 +56,8 @@ RQM faces several objections of unequal weight. Two—the intersubjectivity prob
 
 If facts are relative to observers, how does science work? The standard formulation of RQM appears to leave each observer trapped in their own perspective—the "island universes" problem. If your measurement of an electron's spin is a fact relative to you, and my later measurement of your apparatus is a separate fact relative to me, nothing in the original RQM postulates guarantees the two cohere.
 
+RQM's own first answer predates CPL. Di Biagio and Rovelli (2021) distinguish *relative facts*—"whenever a system F is affected by a variable of another system, the value of that variable becomes a fact for F"—from *stable facts*, the subset "whose relativity can effectively be ignored" because decoherence has carried the correlation into an environment a third system cannot reach, letting that system condition on them classically. The authors state the limits themselves: stability is "only approximate and relational", "one does not avoid relationalism by restricting to stable facts", and stability merely lets Wigner "de-label" his friend's facts without their becoming facts for him. Decoherence buys stability for all practical purposes (FAPP), not agreement. Pienaar (2021) read the move as requiring an identification postulate the paper never admits, and Adlam and Rovelli (2023) supplied one: without it "there is no connection between the 'stable facts' about V relative to Bob and the value of V that Alice herself has observed", so CPL is added to the stable-facts account rather than replacing it. The Map parts company at [[post-decoherence-selection]]: both start from the decohered mixture, but there one outcome is actualised absolutely rather than left stable FAPP.
+
 Adlam and Rovelli (2023) address this with a new postulate, Cross-Perspective Links (CPL), proposed as a replacement for RQM's original fourth postulate ("Relativity of comparisons"). CPL states that when observer Alice measures variable V on system S, any subsequent observer Bob who measures Alice's physical record of V obtains a matching result—provided the record has not been destroyed through measurements in a non-commuting basis (the information-destruction condition is specified via the Heisenberg uncertainty relation). The aim is to recover a "shared observable reality composed of a large number of variables whose values all the observers agree on" while leaving observer-relativity intact at the level of single quantum events.
 
 CPL is the most serious technical move RQM has made in twenty years, and the interpretation now turns on it. If CPL succeeds on its own terms, RQM has answered its sharpest contemporary objection; if it fails, RQM faces a deeper structural problem than the original formulation acknowledged.
@@ -82,9 +84,9 @@ Rovelli is explicit: "There is nothing subjective, idealistic, or mentalistic, i
 
 The consequence: RQM provides no mechanism for [[mental-causation-and-downward-causation|mental causation]]. If any physical interaction is a "measurement," a rock measuring a photon is equivalent to a physicist measuring one. Consciousness adds nothing, and the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet has no place in RQM's framework.
 
-The disagreement is precise. The Map does not object to observer-relativity as such—the [[post-decoherence-selection-programme]] makes the actualised outcome relative to the conscious system whose neural states are differentiated, and the [[brain-interface-boundary]] picture localises each subject's collapses to their own brain. What the Map rejects is RQM's universalising "observer" to mean *any* physical system. That move buys RQM broad applicability—any interaction is a measurement, the early universe collapses itself, the [[multi-mind-collapse-problem]] and [[prebiotic-collapse|prebiotic collapse problem]] dissolve automatically—but it detaches the relativity from the only kind of observer the Map's tenets identify as load-bearing.
+The disagreement is precise. The Map does not dispute that observers are where outcomes are settled—the [[post-decoherence-selection-programme]] has the actualised outcome selected at the conscious system whose neural states are differentiated, and the [[brain-interface-boundary]] picture localises each subject's collapses to their own brain. What the Map rejects is RQM's universalising "observer" to mean *any* physical system. That move buys RQM broad applicability—any interaction is a measurement, the early universe collapses itself, the [[multi-mind-collapse-problem]] and [[prebiotic-collapse|prebiotic collapse problem]] dissolve automatically—but it detaches the relativity from the only kind of observer the Map's tenets identify as load-bearing.
 
-So both RQM and the Map treat measurement outcomes as relative to *something*; they differ on what. RQM says: any physical system. The Map says: the conscious system at whose interface the actualisation occurs. This is honest framework-boundary disagreement—neither refutes the other from inside; each makes a foundational commitment the other declines. What can be argued at the boundary is whether each side has earned its move by its own standards—the burden the CPL discussion above assesses for RQM, and which [[brain-interface-boundary]] and the [[post-decoherence-selection-programme]] attempt to discharge for the Map.
+So both RQM and the Map tie each measurement outcome to *something*; they differ on what, and on how. RQM says: relative to any physical system. The Map says: selected, absolutely, at the conscious system’s interface. This is honest framework-boundary disagreement—neither refutes the other from inside; each makes a foundational commitment the other declines. What can be argued at the boundary is whether each side has earned its move by its own standards—the burden the CPL discussion above assesses for RQM, and which [[brain-interface-boundary]] and the [[post-decoherence-selection-programme]] attempt to discharge for the Map.
 
 ## The Illusionist Reading and the Phenomenology of Observation
 
@@ -175,7 +177,9 @@ The Map's disagreement is at the framework boundary, honestly registered rather 
 ## References
 
 1. Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637–1678.
+1. Di Biagio, A., & Rovelli, C. (2021). Stable facts, relative facts. *Foundations of Physics*, 51(1), 30. DOI: 10.1007/s10701-021-00429-w.
 1. Adlam, E., & Rovelli, C. (2023). Information is physical: Cross-perspective links in relational quantum mechanics. *Philosophy of Physics*, 1(1), 1–19. DOI: 10.31389/pop.8.
+1. Pienaar, J. (2021). A quintet of quandaries: Five no-go theorems for relational quantum mechanics. *Foundations of Physics*, 51, 97. DOI: 10.1007/s10701-021-00500-6.
 1. Lewis, P. J. (2024). A dilemma for relational quantum mechanics. *Principia: An International Journal of Epistemology*, 28(3).
 1. Muciño, R., Okon, E., & Sudarsky, D. (2022). Assessing Relational Quantum Mechanics. *Synthese*, 200(5).
 1. Rovelli, C. (2021). A response to the Mucino-Okon-Sudarsky's assessment of Relational Quantum Mechanics. arXiv:2106.03205.
