@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-10-23
 human_modified: null
-ai_modified: 2026-10-23T15:41:32+00:00
+ai_modified: 2026-10-28T13:09:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ The Map's framework aligns with haecceitism here. The [[tenets#^bidirectional-in
 
 ## Connection to the Pairing Problem
 
-The [[pairing-problem]] asks what connects a particular mind to a particular body. The haecceity response (Bailey, Rasmussen, Van Horn 2011) appeals directly to thisness: M1 is paired with B1 because of the haecceitistic fact that *this* mind is causally related to *this* body. The pairing is primitive—not grounded in qualitative or spatial relations. This may seem to explain little, but individuation bottoms out somewhere in every framework.
+The [[pairing-problem]] asks what connects a particular mind to a particular body. A haecceitist response appeals directly to thisness: M1 is paired with B1 because of the haecceitistic fact that *this* mind is causally related to *this* body. The pairing is primitive—not grounded in qualitative or spatial relations. This may seem to explain little, but individuation bottoms out somewhere in every framework. This is the Map's reconstruction; Bailey, Rasmussen and Van Horn (2011), sometimes cited for it, instead answer the pairing argument with located souls and a counterfactual gluing of soul to body, mentioning haecceitous laws only in a footnote.
 
 ## MWI and the Probability Problem
 
@@ -200,7 +200,7 @@ Process haecceitism refines part of what the Map presupposes: personal identity 
 - [[personal-identity]] — How haecceity grounds personal identity
 - [[concepts/many-worlds]] — How indexical identity problems press against many-worlds
 - [[indexical-identity-quantum-measurement]] — Whether haecceity grounds which outcome *this* consciousness experiences
-- [[pairing-problem]] — The haecceity response to Kim's challenge
+- [[pairing-problem]] — Kim's challenge and the Map's haecceity extension
 - [[process-philosophy]] — Whitehead's metaphysics of events and becoming
 - [[eastern-philosophy-consciousness]] — Where process haecceitism meets the Buddhist-dualist tension, and what it leaves open
 - [[parfit-reductionism]] — The pattern-based view that process haecceitism rejects

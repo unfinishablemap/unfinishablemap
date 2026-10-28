@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-24 09:41:24+00:00
+ai_modified: 2026-10-28 13:09:58+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-17 22:01:13+00:00
-lastmod: 2026-10-24 09:41:24+00:00
+lastmod: 2026-10-28 13:09:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,21 +80,23 @@ This dissolves the pairing problem while maintaining dualism's core claim: that 
 
 **A same-kind answer**: David Ray Griffin's [nondualistic-interactionism](/concepts/nondualistic-interactionism/) answers pairing by location and co-membership. The mind's dominant occasions have "a determinate spatiotemporal location relative to all others" (1998, p. 228), and the mind arises "out of the activities of billions of neurons" (p. 186) within one compound individual. Both views locate the mind. Griffin's needs no interface story, since like acts on like, but gives up the difference in kind; the Map's keeps it and so needs the interface.
 
-## Response 2: The Haecceity Response
+## Response 2: Bailey, Rasmussen and Van Horn's Two-Premise Reply
 
-Andrew Bailey, Joshua Rasmussen, and Luke Van Horn (2011) argue there is "no pairing problem" once we consider haecceities—primitive "thisness" that individuates things independently of their properties.
+Andrew Bailey, Joshua Rasmussen, and Luke Van Horn (2011) argue that there is "no pairing problem", and their route runs through location and law rather than haecceities. They reconstruct Kim's argument (Kim 2001; Kim 2005, pp. 70–92; they note that "the Pairing Argument has its origin in Foster (1991)") as resting on two premises, which they name *Kim's Dictum*—"causation requires a spatial relation"—and *Nowhere Man*—"souls can't be in space"—and offer defeaters for each.
 
-Their argument:
+**Against Kim's Dictum.** The first defeater asks what motivates the demand for a pairing relation at all. Their guess at Kim's reasoning is a generality condition (their "GC"): if two candidates share all their non-haecceitous properties, neither is better qualified to count as the cause. They argue that this condition is itself unsupported and that singular causation remains a logical possibility, so the Dictum "may be unmotivated unless support can be mustered up for GC". Even on Hong Yu Wong's (2007) weaker condition that causation be governed by non-haecceitous laws, soul–body causation could qualify: "it may be that there is a law dictating that a physical structure exhibiting certain properties produces a nonspatial soul of a certain kind, and that there is a further law dictating that any soul produced by a structure will, under certain conditions, remain causally related to certain material parts of that same structure." They raise this as a possibility against Wong's condition rather than adopting it as a theory. It is nonetheless the closest published cousin of the developmental co-construction story in Response 1, pairing by lawful origin where the Map's story pairs by interaction history; whether either supplies the pairing law that [P-SC2](/positions/subject-census/#p-sc2) books as owed is a separate question. The second defeater is quantum tunnelling: a tunnelled particle ends up as far from its own starting point as from an identical neighbour's, so no spatial relation pairs the particle-before with the particle-after, yet the causal pairing holds.
 
-**Either haecceities exist or they don't.**
+**Against Nowhere Man.** They deny that souls must be unlocated: "suppose souls are extensionless geometric points located in, say, the pineal gland of their respective bodies. There is nothing impossible about this supposition, so far as we can see." Located souls can be spatially paired. To Kim's co-location rejoinder—what prevents two indiscernible souls occupying one region?—they grant that the dualist needs a principle analogous to the impenetrability of matter, the move noted under Response 1 above. Kim calls it ad hoc; they reply that "it's not easy to see why a dualist should be troubled if the Pairing Argument implied that co-located souls are impossible", a cost, if it is one, that dualists may be willing to pay.
 
-**If haecceities exist**: They can ground pairing relations without spatial location. M1 is paired with B1 because M1's haecceity (its primitive identity) is causally related to B1's haecceity. No spatial relation is needed—the pairing is brute but no more mysterious than the existence of particulars generally.
+Location then raises what they call the Diachronic Pairing Question: why do certain souls stay "glued" to certain bodies over time? Their answer is a counterfactual they label (Glued)—had the body occupied a different region at a time, the soul would have too, and conversely—which they explain by causal interaction in both directions while denying any circularity: "The possibility of causal interaction obtains in virtue of facts about the locations of A and M at times. It is only the counterfactual relationship between these locations at times that obtains in virtue of causal interaction between A and M." Location answers the synchronic question of what makes interaction possible; interaction answers only the diachronic one.
 
-**If haecceities don't exist**: Then the pairing problem generalizes to all causation. What makes *this* billiard ball strike *that* one? Kim says: spatial proximity. But spatial proximity is a relation between particulars—and without haecceities, what individuates particulars in the first place? The pairing problem becomes a general problem about causation, not a special problem for dualism.
+Haecceities do no positive work in the paper. They appear in the generality condition the authors decline to endorse, and in a footnote observing that a cause and effect could be related "by an instance of a 'haecceitous' law applying just to C and E", with Foster (1991, p. 167ff) and Unger (2006, ch. 7) cited as dualists who endorse singular causation. The paper contains no dilemma about whether haecceities exist.
 
-The dilemma suggests that dualism doesn't face a unique difficulty. Whatever explains how physical particulars enter into causal relations should work for mental particulars too.
+### The Map's Haecceity Extension
 
-The [haecceity](/concepts/haecceity/) concept—primitive "thisness" that individuates things independently of qualitative properties—is explored in detail in the dedicated article. The key insight: if you accept that *this* electron differs from *that* electron despite sharing all intrinsic properties, you've already accepted haecceitistic individuation. The dualist merely extends it to minds.
+The following reconstruction is the Map's own, drawing on [haecceity](/concepts/haecceity/), and should not be read back into Bailey, Rasmussen and Van Horn. Its nearest published relative is Swinburne (2015): "Each soul has a thisness; it is the particular soul it is quite independently of its mental properties and bodily connections", so that no scientific law "concerned only with relations between substances in virtue of their universal properties" could explain why this soul is connected to this body. The Map takes the thisness and leaves Swinburne's theistic step.
+
+If haecceities exist, they can ground pairing without spatial location: M1 is paired with B1 because M1's primitive identity is causally related to B1's. The pairing is brute, but no more mysterious than the existence of particulars generally. If haecceities do not exist, the pairing problem generalises: what makes *this* billiard ball strike *that* one? Kim says spatial proximity, but proximity is a relation between particulars, and without haecceities something must individuate the particulars first. On either horn, dualism faces no difficulty that physical causation escapes. Anyone who accepts that *this* electron differs from *that* one despite sharing all intrinsic properties has already accepted haecceitistic individuation; the dualist extends it to minds.
 
 ## Response 3: Non-Spatial Causation
 
@@ -196,6 +198,10 @@ The [objections-to-interactionism](/concepts/objections-to-interactionism/) arti
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Kim, J. (2001). "Lonely Souls: Causality and Substance Dualism." In *Soul, Body, and Survival*, ed. K. Corcoran.
 1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies* 154: 349-360.
+1. Foster, J. (1991). *The Immaterial Self*. Routledge.
+1. Unger, P. (2006). *All the Power in the World*. Oxford University Press.
+1. Wong, H. Y. (2007). "Cartesian Psychophysics." In *Persons: Human and Divine*, eds. P. van Inwagen & D. Zimmerman. Oxford University Press.
+1. Swinburne, R. (2015). "The Argument from Souls to God." *Religious Studies* 51(3): 293-305.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Aristotelian Society Supplementary Volume* 84(1): 119-150.
 1. Griffin, D.R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.

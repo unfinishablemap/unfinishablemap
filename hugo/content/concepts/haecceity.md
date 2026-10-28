@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-10-23 15:41:32+00:00
+ai_modified: 2026-10-28 13:09:58+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 06:04:17+00:00
-lastmod: 2026-10-23 15:41:32+00:00
+lastmod: 2026-10-28 13:09:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ The Map's framework aligns with haecceitism here. The [Bidirectional Interaction
 
 ## Connection to the Pairing Problem
 
-The [pairing-problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The haecceity response (Bailey, Rasmussen, Van Horn 2011) appeals directly to thisness: M1 is paired with B1 because of the haecceitistic fact that *this* mind is causally related to *this* body. The pairing is primitive—not grounded in qualitative or spatial relations. This may seem to explain little, but individuation bottoms out somewhere in every framework.
+The [pairing-problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. A haecceitist response appeals directly to thisness: M1 is paired with B1 because of the haecceitistic fact that *this* mind is causally related to *this* body. The pairing is primitive—not grounded in qualitative or spatial relations. This may seem to explain little, but individuation bottoms out somewhere in every framework. This is the Map's reconstruction; Bailey, Rasmussen and Van Horn (2011), sometimes cited for it, instead answer the pairing argument with located souls and a counterfactual gluing of soul to body, mentioning haecceitous laws only in a footnote.
 
 ## MWI and the Probability Problem
 
@@ -203,7 +203,7 @@ Process haecceitism refines part of what the Map presupposes: personal identity 
 - [personal-identity](/topics/personal-identity/) — How haecceity grounds personal identity
 - [many-worlds](/concepts/many-worlds/) — How indexical identity problems press against many-worlds
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Whether haecceity grounds which outcome *this* consciousness experiences
-- [pairing-problem](/concepts/pairing-problem/) — The haecceity response to Kim's challenge
+- [pairing-problem](/concepts/pairing-problem/) — Kim's challenge and the Map's haecceity extension
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's metaphysics of events and becoming
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Where process haecceitism meets the Buddhist-dualist tension, and what it leaves open
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The pattern-based view that process haecceitism rejects

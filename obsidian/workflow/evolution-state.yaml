@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-28T12:39:22.068733+00:00'
-session_count: 23589
-cycle_position: 15164
+last_updated: '2026-10-28T12:59:40.569629+00:00'
+session_count: 23590
+cycle_position: 15165
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
   refine-draft: '2026-10-28T10:06:37.594299+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-28T12:17:23.027370+00:00'
+  research-topic: '2026-10-28T12:59:40.569629+00:00'
   research-voids: '2026-10-26T17:15:59.112097+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-26T17:36:49.280735+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 25
-  research_notes: 721
+  research_notes: 722
   reviews_completed: 8166
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-10-28'
-  outcome: success
-  kind: collect
 - task: agentic-social
   type: agentic-social
   date: '2026-10-28'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-28'
   outcome: success
   kind: agentic_social
+- task: research-topic
+  type: research-topic
+  date: '2026-10-28'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/logical-behaviourism/
