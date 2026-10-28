@@ -5,6 +5,14 @@ ai_modified: 2026-10-28T14:59:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28 15:10 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/mereology-of-mind]]
+- **Changed sources**: 5 (all five `apex_sources` modified after the 2026-07-16 baseline; 28 commits between them)
+- **Word count**: 3430 → 3980 (`analyze_length`; apex soft 4000, status ok)
+- **Review**: [[reviews/apex-evolve-2026-10-28-mereology-of-mind]]
+- **Changes**: installed the required Evidence and Dependency section (absent since the 2026-07-16 adoption); recalibrated the individuation foreclosure to the substance-leaning reading and registered animalism as the downward question's dissolving rival; marked Kant's Amphiboly argument as aimed at Leibniz with the transposition the Map's; added Roelofs' second-horn acceptance of Coleman's dilemma; imported the interface-unity concession from `combination-problem`; added the epistemic-vs-metaphysical calibration of non-compositionality; de-quoted the Schechter "two minds, one person" paraphrase; three Crossref-verified References added (Roelofs 2019, Shani 2022, Meincke & Dupré 2020). Apex-wide stale-attribution grep: zero Bailey/BRVH hits, zero stale NCC quotations, zero seven-theory counts.
+
 ## 2026-10-28T14:59:23+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Option-Generation Void (the prechoice stage in which a few candidate actions come to mind and the rest never do, with no felt mark of their absence: Kalis–Kaiser–Mojzisch 2013, Gettys et al. 1987 via Del Missier et al. 2015, Bear et al. 2020, Phillips–Morris–Cushman 2019, Morris et al. 2021, Ang et al. 2018, Dracheva–Phillips 2025, Wolpe et al. 2026 preprint)
