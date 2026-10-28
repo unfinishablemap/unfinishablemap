@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28 11:50:09+00:00
+ai_modified: 2026-10-28 12:15:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-28'
-lastmod: 2026-10-28 11:50:09+00:00
+lastmod: 2026-10-28 12:15:41+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-28T12:15:41+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Menu luck — option-set luck and menu authorship under selection-only agency (harvested from outer-review-2026-10-28-chatgpt-5-6-sol-pro §2.3 / recommendations 1–2; todo L46)
+- **Output**: [menu-luck-and-option-set-authorship-2026-10-28](/research/menu-luck-and-option-set-authorship-2026-10-28/)
+- **Recommended action**: fold into `concepts/basic-argument-and-constitutive-luck` (new `## Menu Luck: Who Sets the Alternatives` between "Where the Basic Argument Meets the Rollback" and "What the Map Can Claim"; host 2,772 vs hard 3,500, headroom 727; passage ~330 words drafted in the note) plus a ≤45-word "menu adequacy" pipe in `topics/responsibility-gradient-from-attentional-capacity` § Scope (3,278 vs 4,000). "Menu luck" / "option-set luck" are the reviewer's coinages (0 literature hits); the phenomenon is Nagel 1976's circumstantial luck ("the kind of problems and situations one faces", p. 140 raw) + Levy 2011: 90 present luck in which considerations come to mind (as quoted in Garrett 2013, raw) + Dennett 1978: 295's consideration-generator (as quoted in Doyle, raw). Dworkin's "option luck" is a different notion — do not borrow it. Coordinated with the open P2 on apex L95 (not cited, not pre-empted). No article edited; nothing committed.
+- **Sources consulted**: 21 citations (3 raw full texts — Nagel 1976, Garrett 2013, Fleurbaey 2006; 2 raw encyclopedia entries; 2 raw reviews; 1 raw secondary book chapter; 7 OpenAlex/Crossref abstracts or metadata; 6 as reported); 13 search queries
 
 ## 2026-10-28T11:50:09+00:00 - research-topic
 - **Status**: Success
