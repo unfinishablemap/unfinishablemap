@@ -4,7 +4,7 @@ description: "Corridor dualism preserves each agent's Born marginal; entangled c
 created: 2026-09-01
 modified: 2026-09-01
 human_modified:
-ai_modified: 2026-10-13T02:29:59+00:00
+ai_modified: 2026-10-28T17:09:13+00:00
 draft: false
 anchoring_audit_exempt: true  # 2026-10-12 verified false-high vs ensemble-level-epiphenomenalism, multi-mind-collapse-problem, causal-consistency-constraint. Both strong hits are "shows that": the attributed Frauchiger-Renner theorem, and the Tenet 2 line restating the no-Born-statistics-violation entailment derived in the sentence before it (its "that" came from the 10-11 deep review's accuracy fix; verb strength unchanged). Calibrates structurally: Map-internal-synthesis + "unspecified / open debt" lead, "consistency, not corroboration", "commitment rather than derivation", "conjecture ... not a solution", ~45 phrasal markers the lexical counter misses.
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[concepts/composition-and-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-09-01
 last_curated:
 last_deep_review: 2026-10-11T22:42:28+00:00
@@ -77,7 +77,7 @@ Four ways of meeting, or dissolving, the joint demands are visible from the curr
 
 **(d) A single global experiencer.** If the "many agents" are facets of one experiencer that selects the joint outcome at once, correlations and no-signalling are trivially preserved. The Map's work on [[concepts/composition-and-consciousness|phenomenal non-compositionality]] and [[quantum-holism-and-phenomenal-unity|quantum holism]] keeps this metaphysically adjacent rather than absurd. But the move dissolves the plurality that generated the problem, and it sits badly with the everyday datum of distinct conscious persons. The philosophically interesting question is whether genuine agent-plurality can be reconciled with joint Born preservation *without* collapsing into (d) — and that question is exactly what remains unanswered.
 
-Beneath all four options sits a second question: whose selection counts, and how much, when two corridors bear on one event and their subjects' states conflict. On the value-sensitive horn of [[positions/value-in-selection|P-VS1]] each subject's state enters through felt valence, and the composition rule becomes a map from a profile of valenced states to a distribution over the shared outcome, a stochastic social-choice function. Every candidate rule then carries a commitment social-choice theory has already priced. Equal weights make copies causally consequential, intensity weighting needs interpersonally comparable valence, and interface locality is a jurisdiction rule of the kind that conflicts with unanimity over an unrestricted domain. Born preservation itself favours rules with fixed weights ([[psychophysical-social-choice-problem]]).
+Beneath all four options sits a second question: [[psychophysical-indexing-law|whose selection counts, and how much]], when two corridors bear on one event and their subjects' states conflict. On the value-sensitive horn of [[positions/value-in-selection|P-VS1]] each subject's state enters through felt valence, and the composition rule becomes a map from a profile of valenced states to a distribution over the shared outcome, a stochastic social-choice function. Every candidate rule then carries a commitment social-choice theory has already priced. Equal weights make copies causally consequential, intensity weighting needs interpersonally comparable valence, and interface locality is a jurisdiction rule of the kind that conflicts with unanimity over an unrestricted domain. Born preservation itself favours rules with fixed weights ([[psychophysical-social-choice-problem]]).
 
 ## What the Aggregate Record Shows
 

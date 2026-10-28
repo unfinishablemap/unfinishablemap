@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-28T17:09:13+00:00 - cross-review
+- **Status**: Success
+- **File**: [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/) (new 2026-10-28; 2998 → 2991 by `analyze_length`, concepts 2500/3500/5000, soft band) — three `quantum-factorisation-problem` anchors repointed to that page's explicit heading ids (`#map-exposure`, `#three-levels`, `#dualist-inversion`; the auto-slugs the page linked do not exist in the rendered HTML) and one BRVH quotation aligned to the preprint ("nonspatial soul")
+- **Verification**: all quotations hit in raw text (BRVH preprint and Zurek 1998 flattened pdftotext; ChatGPT review L137; Crossref abstracts for Swinburne 2015 and Saad 2018 fetched live; corpus spans at [P-CS7](/positions/consciousness-scope/#p-cs7) L119/L123, [P-SC2](/positions/subject-census/#p-sc2) L59, MABP L80, SOC L94, Tenet 3); Brenner's "mereological pairing problem" traced to the research note only (no raw text); exclusions confirmed (no Unger "individualistically", no foetal-law sentence, Lycan paraphrased only); 20 of 23 anchors resolved as written, 3 fixed
+- **Hosts** (`analyze_length` before → after): [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/) 3570 → 3570 (pipe `[[psychophysical-indexing-law|the pairing-law debt]]`, §Consciousness-First Inversion; over gate, net-zero); [trumping-preemption](/concepts/trumping-preemption/) 3374 → 3374 (pipe on "content-indexed", cost 4 L81); [composition-and-consciousness](/concepts/composition-and-consciousness/) 2482 → 2508 (+26, one sentence after L73); [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/) 3090 → 3090 (pipe on "whose selection counts, and how much", L80); [emergent-dualism](/concepts/emergent-dualism/) 2633 → 2651 (+18 onset clause at L60, pointing to the temporal component); [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) 3483 → 3483 (pipe on "some principle we have not yet articulated", L131)
+- **Hosts skipped**: brain-interface-boundary (open P2 ~L3476 owns L72–74/L84 — add after it lands), pairing-problem (open P3 ~L1670), haecceity (3486, 14 under gate), mereology-of-mind (evolved 15:10Z, no zero-cost phrase), all `positions/` (handed off)
+- **Inbound live hosts**: 2 → 8
+- **Tasks minted**: 1 (P3 positions-evolve at todo L3622: [P-SC2](/positions/subject-census/#p-sc2) "Argued in" + semantic-matching debt entry; `subject-census` 2,499/2,500; coordinate with ~L1678; transition side stays with ~L3467). Active count 261 → 262
+- **Output**: [cross-review-2026-10-28-psychophysical-indexing-law](/reviews/cross-review-2026-10-28-psychophysical-indexing-law/)
+
 ## 2026-10-28T16:36:15+00:00 - cross-review
 - **Status**: Success
 - **File**: [depersonalisation-nosology](/concepts/depersonalisation-nosology/) (integration check only; unchanged, 2398 words)

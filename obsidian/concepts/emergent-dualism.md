@@ -4,7 +4,7 @@ description: "William Hasker's emergent dualism: the conscious self is a genuine
 created: 2026-07-12
 modified: 2026-07-12
 human_modified:
-ai_modified: 2026-10-14T22:42:13+00:00
+ai_modified: 2026-10-28T17:09:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ The 2010 essay "Persons and the Unity of Consciousness" (in Koons and Bealer's *
 
 Emergent dualism claims a distinctive advantage over Cartesian dualism on the [[pairing-problem|pairing problem]]—Kim's challenge that a non-spatial mind has nothing to ground its connection to *this* particular body rather than any other. Because the Cartesian soul is non-spatial, no spatial relation can pair it with a brain, and the interaction looks unintelligible.
 
-Emergent dualism claims to dissolve this by locating the mind *where its generating brain is*. Just as a magnetic field is found at the location of its magnet, the emergent self is spatially co-located with the brain that produces it. The pairing question—why is *this* mind joined to *this* brain?—is then no more puzzling than why *this* field belongs to *this* magnet: the field is simply where its source is. Interaction, likewise, is meant to be unmysterious in the way a field's action on its source is unmysterious. O'Connor and Wong's 2015 revision of the *Stanford Encyclopedia of Philosophy* entry "Emergent Properties" (since replaced by a new entry) notes exactly this: Hasker claims for emergent dualism the advantages of Cartesian dualism while overcoming the difficulty of explaining how particular brains and mental substances come to be persistently linked.
+Emergent dualism claims to dissolve this by locating the mind *where its generating brain is*. Just as a magnetic field is found at the location of its magnet, the emergent self is spatially co-located with the brain that produces it. The pairing question—why is *this* mind joined to *this* brain?—is then no more puzzling than why *this* field belongs to *this* magnet: the field is simply where its source is. Interaction, likewise, is meant to be unmysterious in the way a field's action on its source is unmysterious. O'Connor and Wong's 2015 revision of the *Stanford Encyclopedia of Philosophy* entry "Emergent Properties" (since replaced by a new entry) notes exactly this: Hasker claims for emergent dualism the advantages of Cartesian dualism while overcoming the difficulty of explaining how particular brains and mental substances come to be persistently linked. Generation also dates the pairing's onset, which the Map leaves undated at P-SC3 (the [[psychophysical-indexing-law|indexing law]]'s temporal component).
 
 ## Standard Objections
 

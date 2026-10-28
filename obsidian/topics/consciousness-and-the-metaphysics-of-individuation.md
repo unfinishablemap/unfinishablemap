@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-10-06T11:53:39+00:00
+ai_modified: 2026-10-28T17:09:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -128,7 +128,7 @@ The individuation problem's status as a genuine void—rather than a merely unso
 
 The individuation question connects to all five of the Map's [[tenets]], but most directly to Dualism and No Many Worlds.
 
-**[[tenets#^dualism|Dualism]]**, on its substance-leaning reading, makes the problem inescapable. If consciousness were identical to brain processes, individuation could piggyback on physical individuation: your consciousness is this consciousness because it is *this* brain's activity. Bare irreducibility leaves a property dualist free to individuate subjects by their physical bearers; the substance-leaning reading, which enters downstream through agent causation ([[where-the-substance-commitment-enters]]), cannot take that route, and its individuation must appeal to something further—primitive identity, haecceity, or some principle we have not yet articulated. The individuation problem is not an argument against dualism (physicalism faces its own versions through split-brain and fission cases) but it is a commitment dualism must acknowledge rather than evade.
+**[[tenets#^dualism|Dualism]]**, on its substance-leaning reading, makes the problem inescapable. If consciousness were identical to brain processes, individuation could piggyback on physical individuation: your consciousness is this consciousness because it is *this* brain's activity. Bare irreducibility leaves a property dualist free to individuate subjects by their physical bearers; the substance-leaning reading, which enters downstream through agent causation ([[where-the-substance-commitment-enters]]), cannot take that route, and its individuation must appeal to something further—primitive identity, haecceity, or [[psychophysical-indexing-law|some principle we have not yet articulated]]. The individuation problem is not an argument against dualism (physicalism faces its own versions through split-brain and fission cases) but it is a commitment dualism must acknowledge rather than evade.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** sharpens the stakes. Under many-worlds, every quantum measurement spawns branches containing versions of every observer. Individuation becomes perspectival—"which one am I?" dissolves because all versions are equally real. The Map's single-world commitment removes the branch copies, so there is one history in which to be you; that the question of what makes you *this* one has a determinate (if inaccessible) answer is the background posit of a determinate subject ([[tenets/background-commitments]]), which Tenet 4's indexical objection presupposes rather than supplies.
 

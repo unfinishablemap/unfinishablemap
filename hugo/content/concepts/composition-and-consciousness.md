@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-01
-ai_modified: 2026-09-30 11:55:56+00:00
+ai_modified: 2026-10-28 17:09:13+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-27 10:05:13+00:00
-lastmod: 2026-09-30 11:55:56+00:00
+lastmod: 2026-10-28 17:09:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ The reason consciousness can mark the boundary of genuine composition is that it
 
 Combine two one-kilogram masses and you have a two-kilogram mass; add two electric fields and you get a resultant field. In each case, the whole is built transparently from parts, and the parts explain the whole.
 
-Now consider consciousness. Suppose two people each have a visual experience—one sees red, the other sees blue. Nothing about placing these two experiences side by side, or even causally connecting the two brains, yields a third experience that is the "combination" of seeing-red and seeing-blue. There is no operation on experiences analogous to vector addition or superposition. The two perspectives remain irreducibly separate.
+Now consider consciousness. Suppose two people each have a visual experience—one sees red, the other sees blue. Nothing about placing these two experiences side by side, or even causally connecting the two brains, yields a third experience that is the "combination" of seeing-red and seeing-blue. There is no operation on experiences analogous to vector addition or superposition. The two perspectives remain irreducibly separate. Whether their *selections* combine over one shared physical event is a separate question, the composition component of the [indexing law](/concepts/psychophysical-indexing-law/) the Map has yet to state.
 
 The problem is conceptual. We can specify what it means for forces to compose or temperatures to equilibrate. We cannot even formulate what it would mean for one perspective to merge with another. The operation that would combine experiences is not just undiscovered—it is unintelligible.
 

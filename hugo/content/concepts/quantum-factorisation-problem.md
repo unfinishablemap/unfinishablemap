@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-30
-ai_modified: 2026-10-12 23:31:57+00:00
+ai_modified: 2026-10-28 17:09:13+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-30 22:30:27+00:00
-lastmod: 2026-10-12 23:31:57+00:00
+lastmod: 2026-10-28 17:09:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ Three further positions mark out the Level 3 terrain. Gambini and Pullin (2025) 
 
 Two authors reverse the direction of the challenge. Tegmark holds that the properties that make something an observer should fix the factorisation. Stoica (2025) applies his non-uniqueness results to the observer itself and concludes that structure cannot be the whole story: "none of these structures emerge uniquely", and so "there exists something beyond relations, the intrinsic essence of the 'stuff in relation'." This is the closest non-physicalist engagement located. Its ontology is intrinsic-natures and Russellian-monist rather than interactionist-dualist, so the Map should treat Stoica as a convergent ally on the premise, not as a fellow dualist.
 
-The inversion suggests a dualist candidate. The *pairing* of a non-physical subject with a physical system could be what privileges a factorisation, in the way Zanardi, Lidar and Lloyd make the TPS relative to accessible observables: the subject's accessible observables would fix its own system. The Map names this route as a candidate direction and declines to present it as a solution, for three reasons. It is circular if the same factorisation is then used to individuate the subject. It collides with the census-circularity gap already booked under [P-SC2](/positions/subject-census/#p-sc2), since a pairing that defines the subsystem cannot be tested by subsystem-level signatures. And it is a new, unwritten posit. On this route the factorisation debt becomes the pairing-law debt, in a sharper form, rather than being paid.
+The inversion suggests a dualist candidate. The *pairing* of a non-physical subject with a physical system could be what privileges a factorisation, in the way Zanardi, Lidar and Lloyd make the TPS relative to accessible observables: the subject's accessible observables would fix its own system. The Map names this route as a candidate direction and declines to present it as a solution, for three reasons. It is circular if the same factorisation is then used to individuate the subject. It collides with the census-circularity gap already booked under [P-SC2](/positions/subject-census/#p-sc2), since a pairing that defines the subsystem cannot be tested by subsystem-level signatures. And it is a new, unwritten posit. On this route the factorisation debt becomes [the pairing-law debt](/concepts/psychophysical-indexing-law/), in a sharper form, rather than being paid.
 
 Both readings of the problem are live: as a debt owed by entanglement-based unity claims, and as a reason to think observers fix structure rather than the reverse. The Map cannot help itself to the second without a pairing law.
 

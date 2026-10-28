@@ -4,7 +4,7 @@ description: "When do parts form wholes, and why can't consciousness be assemble
 created: 2026-03-24
 modified: 2026-06-01
 human_modified:
-ai_modified: 2026-09-30T11:55:56+00:00
+ai_modified: 2026-10-28T17:09:13+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -70,7 +70,7 @@ The reason consciousness can mark the boundary of genuine composition is that it
 
 Combine two one-kilogram masses and you have a two-kilogram mass; add two electric fields and you get a resultant field. In each case, the whole is built transparently from parts, and the parts explain the whole.
 
-Now consider consciousness. Suppose two people each have a visual experience—one sees red, the other sees blue. Nothing about placing these two experiences side by side, or even causally connecting the two brains, yields a third experience that is the "combination" of seeing-red and seeing-blue. There is no operation on experiences analogous to vector addition or superposition. The two perspectives remain irreducibly separate.
+Now consider consciousness. Suppose two people each have a visual experience—one sees red, the other sees blue. Nothing about placing these two experiences side by side, or even causally connecting the two brains, yields a third experience that is the "combination" of seeing-red and seeing-blue. There is no operation on experiences analogous to vector addition or superposition. The two perspectives remain irreducibly separate. Whether their *selections* combine over one shared physical event is a separate question, the composition component of the [[psychophysical-indexing-law|indexing law]] the Map has yet to state.
 
 The problem is conceptual. We can specify what it means for forces to compose or temperatures to equilibrate. We cannot even formulate what it would mean for one perspective to merge with another. The operation that would combine experiences is not just undiscovered—it is unintelligible.
 

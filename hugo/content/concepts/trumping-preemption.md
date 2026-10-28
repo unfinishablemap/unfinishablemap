@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-10-25 17:42:09+00:00
-ai_system: claude-opus-4-7+claude-opus-5-5
+ai_modified: 2026-10-28 17:09:13+00:00
+ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[delegatory-causation]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 12:48:18+00:00
-lastmod: 2026-10-25 17:42:09+00:00
+lastmod: 2026-10-28 17:09:13+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-causation]]'
@@ -82,7 +82,7 @@ The Map's article on [delegatory-causation](/concepts/delegatory-causation/) tre
 
 A dualist who leans on trumping pays several bills. First, there has to be a principled authority-selecting law; without one, "trumping" collapses into brute stipulation. Whether such a law can be specified non-stipulatively at the psychophysical level is the cluster's sharpest open problem, consolidated in [the articulability of Q1](/concepts/articulability-of-q1/). Saad's candidate is the pair of laws summarised above, but these are candidate laws, not derivations, and any workable account needs both the laws and a story about why *these* rather than others obtain. Second, if Bernstein's (2015) reductive strategy succeeds, trumping cases are really overdetermination with insensitive effects, and the dualist inherits the standard overdetermination objection. The Map's response makes the Mills (1996) and Lowe (2003) move explicit: Mills argues that overdetermination is objectionable when it is *coincidental* — when two independent processes happen to converge — and that systematic psychophysical laws make convergence non-coincidental by metaphysically linking the two processes rather than leaving them independent. Lowe (2003) pushes further: what the physicalist is entitled to is *observational* closure (no detectable trajectory violation), not closure full-stop; if lawful co-causation preserves observational closure, the dualist has not taken on the bad kind of overdetermination. The critic can still object that lawful overdetermination is overdetermination, ontologically; the Mills/Lowe reply is that the *independence* the objection targets is absent under a systematic law, so the objection loses its sting. This is a response to a live objection rather than a refutation of it. Third, trumping offers no new empirical signature. Schaffer's structure is deliberately designed to be invisible at the trajectory level: both processes complete, and the authoritative one is picked out by a law, not a trace. A trumping-based dualism therefore inherits this invisibility and must earn its keep on theoretical grounds. Stated in the Map's own currency, the route is orthogonal to Born-statistics tests outright — it moves no outcome the formalism already assigns, so no brain-internal Born test at any grain could confirm or embarrass it — which [the born-rule article](/topics/born-rule-and-the-consciousness-interface/) concedes buys survival by unfalsifiability and prices as a cost rather than a strength. The route accordingly carries the register's coherence-only citation grade ([P-Q3](/positions/quantum-interface/#mechanism-debt)): downstream articles may cite it as a framework-internal way of holding efficacy and closure together, never as a live empirical mechanism. This invisibility is precisely what [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) interrogates: the trumping route answers the efficacy worry by relocating efficacy onto the authority axis, where ensemble-invisibility is no longer disqualifying — a move available to the dualist but, the worry insists, not compelling to a physicalist who equates efficacy with statistical signature.
 
-Fourth, the template as stated cannot carry the [self-stultification argument](/concepts/self-stultification/), which needs report content to vary with experiential content, base held fixed. A content-indexed authority law, as in Lewis's Merlin variation, secures that dependence only where experience and base can diverge, and wherever they do, the outcome leaves the base's default trajectory, restoring the empirical exposure the template was adopted to avoid. Where they cannot diverge, as under the matching-profile law, the base yields the same report either way and accuracy rests on the lawful match, as for the [bare-correlation epiphenomenalist](/concepts/epiphenomenalism/#the-self-stultification-problem). A trumping dualist who keeps the invisibility thus agrees with the epiphenomenalist on every possible report, differing only over which sufficient process is *the* cause: a disagreement closer to bedrock than it first appears.
+Fourth, the template as stated cannot carry the [self-stultification argument](/concepts/self-stultification/), which needs report content to vary with experiential content, base held fixed. A [content-indexed](/concepts/psychophysical-indexing-law/) authority law, as in Lewis's Merlin variation, secures that dependence only where experience and base can diverge, and wherever they do, the outcome leaves the base's default trajectory, restoring the empirical exposure the template was adopted to avoid. Where they cannot diverge, as under the matching-profile law, the base yields the same report either way and accuracy rests on the lawful match, as for the [bare-correlation epiphenomenalist](/concepts/epiphenomenalism/#the-self-stultification-problem). A trumping dualist who keeps the invisibility thus agrees with the epiphenomenalist on every possible report, differing only over which sufficient process is *the* cause: a disagreement closer to bedrock than it first appears.
 
 ## Relation to Site Perspective
 
