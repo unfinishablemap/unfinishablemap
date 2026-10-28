@@ -4,6 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-28T06:21:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-28T07:32:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/architectural-adequacy-at-the-built-edge]]
+- **Word count**: 3793 → 3803 (+10; topics soft 3000 / hard 4000, gate >=, 196 free; prose ~3206 → ~3216, apparatus 603 unchanged)
+- **Critical issues addressed**: 2 (Feinberg & Mallatt criterion de-quoted — verbatim form unverifiable in any raw source and contradicted by `invertebrate-consciousness-as-interface-test` L81's longer form; Schwitzgebel 2023 / Schwitzgebel & Nelson 2026 naturalism premise restored at L120, discharging item (a) of the open 2026-10-22 P3)
+- **Medium issues addressed**: 1 (L57 Birch 2024: "fail his test on organisation" → "fail his brainstem rule, not any count", matching the raw text)
+- **Enhancements made**: 1 (zero-cost piped cross-link to [[phenomenal-sorites-problem]] at the sorites-series sentence)
+- **Citations web-verified**: 17/17 external entries metadata real-correct at Crossref/publisher; 7 quotations grep-verified in raw full text (Kosik ×2, Gumuskaya 2024 ×2, Rouleau & Levin, Birch 2024, Schwitzgebel 2023 manuscript); Chittka 2022 face recognition p.110 and metacognition p.207 verified via Google Books search-within; NY Declaration live text verified (613 signatures as of 2026-10-28)
+- **Engagement modes** (editor-internal): Schwitzgebel — Mode Three (determinate-subject posit held against ontic vagueness; cost named, now with the naturalism premise stated); Rouleau & Levin — mixed (research policy not opposed, denial scoped to testbed deliverables); Birch 2024 — Mode One (his rule answers a different question, on his own stated terms); Hardline Empiricist — Mode Three, absorbed at full strength (stable since 2026-09-21)
+- **Tasks**: minted P3 Feinberg & Mallatt quote-family resolution on `concepts/universal-coupling-response`; amended the open 2026-10-22 P3 on this file to item (b) only
+- **Output**: [[reviews/deep-review-2026-10-28-architectural-adequacy-at-the-built-edge]]
+
 
 ## 2026-10-28T06:21:05+00:00 - outer-review
 - **Status**: Success
