@@ -5,6 +5,17 @@ ai_modified: 2026-10-28T22:07:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 22:54 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-neurodegenerative-disease]]
+- **Word count**: 3277 → 3421 (+144; prose ≈ +54, two new reference entries ≈ +90)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (L111 emotional-persistence paragraph aligned with the 09-25 tenet-section concession; L89 Särkämö gloss corrected to the RCT's reported outcomes; L69 prevalence currency — Bangerter et al. 2026 67%/81% past-month vs direct-observation "infrequent", Griffin et al. 2025 definitional work; L69 redundant final sentence removed; L133 duplicate link trimmed)
+- **Enhancements made**: 2 (refs 10 Bangerter 2026, 11 Griffin 2025, both Crossref-verified)
+- **Citation ledger**: 9/9 existing references real-correct at Crossref/Europe PMC/NCBI; ref 7 Tollock, Leontovich, Gonzalez & Parnia 2025 (DOI 10.1093/geroni/igaf122.2914, PMC12761273) confirmed REAL — not a phantom; Gilmore-Bykovskyi durations grep-verified in PMC12871080 full text; 0 body quotations of 25+ chars to classify; 0 banned constructions
+- **Engagement classification** (editor-internal): persistence problem — Mixed; terminal-lucidity puzzle — Mode Two; emotional persistence — now Mixed (production reply stated), was drifting to omission-by-silence
+- **Output**: [[reviews/deep-review-2026-10-28-consciousness-and-neurodegenerative-disease]]
+
 ## 2026-10-28T22:36:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/deep-computational-markers-for-machine-consciousness]]
