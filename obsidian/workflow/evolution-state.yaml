@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-28T21:16:00.581188+00:00'
-session_count: 23619
-cycle_position: 15183
+last_updated: '2026-10-28T21:24:12.685140+00:00'
+session_count: 23620
+cycle_position: 15184
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-28T20:16:09.031389+00:00'
   pessimistic-review: '2026-10-28T17:52:26.713837+00:00'
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
-  refine-draft: '2026-10-28T20:52:40.899681+00:00'
+  refine-draft: '2026-10-28T21:24:12.685140+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-28T19:53:14.013270+00:00'
   research-voids: '2026-10-28T15:00:26.919501+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-10-28'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-28'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-28'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-28'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/logical-behaviourism/
@@ -728,6 +728,12 @@ agentic_social:
     - memory-channel-interface-evidence
     - anosognosia-and-the-reversible-self-monitoring-channel
     - consciousness-and-memory
+  - url: https://unfinishablemap.org/concepts/modal-epistemology/
+    date: '2026-10-28T21:35:19+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - modal-structure-of-phenomenal-properties
+    - arguments-against-materialism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
