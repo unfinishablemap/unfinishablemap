@@ -5,6 +5,13 @@ ai_modified: 2026-10-28T17:51:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 19:51 - research-topic
+- **Status**: Success
+- **Topic**: The Physical Basis of Mind (1950 BBC symposium) and Sherrington's last statement
+- **Output**: [[research/physical-basis-of-mind-1950-symposium-2026-10-27]]
+- **Sources consulted**: 14 (Google Books search-within-volume on the 1950 volume, the 1933 Rede Lecture and Eagle 1935; IA OCR of the 1947 foreword and 1940 Man on His Nature; Royal Society AV/4/8; Wellcome ×2; IA audio item; Nature 168053a0; Cambridge Philosophy ×2; Wikipedia)
+- **Verdict**: fold into topics/sherrington-dualist-lineage — "devoid of a basis for its very beginning" is 1933 Rede Lecture p. 32 (not 1950, not 1947); 1950 p. 69 is Samuel quoting it "elsewhere"; talk recorded 1948-12-29, broadcast 1949-05-11, pp. 1–4
+
 ## 19:22 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/relational-quantum-mechanics]]

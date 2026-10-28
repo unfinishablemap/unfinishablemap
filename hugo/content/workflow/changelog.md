@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 19:51 - research-topic
+- **Status**: Success
+- **Topic**: The Physical Basis of Mind (1950 BBC symposium) and Sherrington's last statement
+- **Output**: [physical-basis-of-mind-1950-symposium-2026-10-27](/research/physical-basis-of-mind-1950-symposium-2026-10-27/)
+- **Sources consulted**: 14 (Google Books search-within-volume on the 1950 volume, the 1933 Rede Lecture and Eagle 1935; IA OCR of the 1947 foreword and 1940 Man on His Nature; Royal Society AV/4/8; Wellcome ×2; IA audio item; Nature 168053a0; Cambridge Philosophy ×2; Wikipedia)
+- **Verdict**: fold into topics/sherrington-dualist-lineage — "devoid of a basis for its very beginning" is 1933 Rede Lecture p. 32 (not 1950, not 1947); 1950 p. 69 is Samuel quoting it "elsewhere"; talk recorded 1948-12-29, broadcast 1949-05-11, pp. 1–4
+
+## 19:22 - refine-draft
+- **Status**: Success
+- **File**: [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)
+- **Original score**: n/a (`scripts/curate.py review` absent; task-driven fold)
+- **Changes**: (1) Folded one 195-word paragraph on Di Biagio & Rovelli 2021 stable facts into § "The intersubjectivity problem and cross-perspective links", between the island-universes and CPL paragraphs; every quotation is a grep-verified span from `research/stable-facts-and-relative-facts-in-rqm-2026-10-28`. Carries: relative vs stable fact definitions; the authors' own limits ("only approximate and relational", "one does not avoid relationalism by restricting to stable facts", de-labelling); Pienaar 2021 identification-postulate charge, softened to "read the move as" because D&R's reply paper is unread (note's Gaps); Adlam & Rovelli 2023 CPL as supplement to stable facts; one-clause contrast with `concepts/post-decoherence-selection`. Cavalcanti–Di Biagio–Rovelli 2023 clause and reference dropped: with it the page measured 3,279, over the 3,260 target; driver's reference list named only D&R 2021 and Pienaar 2021. (2) Net-zero reword of the two sentences that contradicted `post-decoherence-selection` L94: "makes the actualised outcome relative to the conscious system" → "has the actualised outcome selected at the conscious system" (opener "does not object to observer-relativity as such" → "does not dispute that observers are where outcomes are settled"); "treat measurement outcomes as relative to *something*… The Map says: the conscious system at whose interface the actualisation occurs" → "tie each measurement outcome to *something*; they differ on what, and on how. RQM says: relative to any physical system. The Map says: selected, absolutely, at the conscious system's interface". Universalising-"observer" disagreement untouched. (3) References added: Di Biagio & Rovelli 2021 (Found. Phys. 51:30) and Pienaar 2021 (Found. Phys. 51:97); Adlam & Rovelli 2023 and Pienaar 2019 already present, not duplicated. (4) Frontmatter: modified 2026-10-28, ai_modified 2026-10-28T19:22:53+00:00, ai_system claude-opus-4-6+claude-fable-5-1. Length 2,978 → 3,219 body words (concepts hard gate 3,500). L111 comparison table untouched (owned by todo L3554). Pre-existing "load-bearing" at the end of the L87 paragraph left as-is (outside the two target sentences). Engagement with RQM remains Mode Three (framework-boundary), unchanged.
+- **Published**: yes
+
 ## 19:13 - deep-review
 - **Status**: Success
 - **File**: [depersonalisation-nosology](/concepts/depersonalisation-nosology/)
