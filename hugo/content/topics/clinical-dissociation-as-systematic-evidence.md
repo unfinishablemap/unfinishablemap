@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-10-28 16:35:16+00:00
+ai_modified: 2026-10-28 19:11:40+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 16:33:11+00:00
-lastmod: 2026-10-28 16:35:16+00:00
+lastmod: 2026-10-28 19:11:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ The early account—Sierra and Berrios's (1998) theoretical corticolimbic-discon
 
 This reframing matters because it absorbs the objection the older framing seemed to raise. The tempting move—pressing functionalism with a precision problem, since the functional alteration is narrow (emotional integration) yet the experiential change is in *felt reality itself*—is exactly what the interoceptive-inference account dissolves: a disturbance in how interoceptive predictions are precision-weighted is *expected* to produce a globally felt loss of mineness, because presence just is the successful weighting of those predictions. The broad phenomenological shift tracks a correspondingly fundamental computational variable, so the precision objection does not by itself favour an interface reading. The reading the Map favours—that the functional connection delivering the affective stamp of ownership has been severed—remains available, but now competes with a mechanistically articulated physicalist rival rather than filling a gap.
 
-Depersonalisation is the most diagnostic of the three intact-substrate cases because it dissociates the *internal structure* of the autonoetic channel rather than disconnecting the channel as a whole. The patient remembers their life and can re-access episodes propositionally—the content is present and retrievable—but the felt sense that the memories and experiences are *theirs* is attenuated. The phenomenology is captured in [the measurement literature](/concepts/depersonalisation-nosology/): the Cambridge Depersonalisation Scale (Sierra and Berrios, 2000) and its later factor analysis (Sierra, Baker, Medford and David, 2005) isolate a recurrent factor the authors label *Anomalous Subjective Recall*—a disturbance in the felt quality and ownership of autobiographical memory distinct from any failure of content retrieval. This suggests the autonoetic channel is not a single primitive but a bundle of *separable internal features*—at least content, mine-ness, and pastness—that bind together in health and can be unbound without substrate damage. A production account is not refuted by this: it can posit a dedicated self-attribution or source-monitoring mechanism whose selective disruption removes ownership while sparing content. What depersonalisation establishes cleanly is the *separability* of mine-ness from content; that an interface architecture rather than a self-attribution module is the better explanation is the live hypothesis, not the datum ([the phenomenology-of-memory article](/topics/phenomenology-of-memory-and-the-self/) develops mine-ness as a phenomenal feature).
+[Depersonalisation](/concepts/depersonalisation-nosology/) is the most diagnostic of the three intact-substrate cases because it dissociates the *internal structure* of the autonoetic channel rather than disconnecting the channel as a whole. The patient remembers their life and can re-access episodes propositionally—the content is present and retrievable—but the felt sense that the memories and experiences are *theirs* is attenuated. The phenomenology is captured in the measurement literature: the Cambridge Depersonalisation Scale (Sierra and Berrios, 2000) and its later factor analysis (Sierra, Baker, Medford and David, 2005) isolate a recurrent factor the authors label *Anomalous Subjective Recall*—a disturbance in the felt quality and ownership of autobiographical memory distinct from any failure of content retrieval. This suggests the autonoetic channel is not a single primitive but a bundle of *separable internal features*—at least content, mine-ness, and pastness—that bind together in health and can be unbound without substrate damage. A production account is not refuted by this: it can posit a dedicated self-attribution or source-monitoring mechanism whose selective disruption removes ownership while sparing content. What depersonalisation establishes cleanly is the *separability* of mine-ness from content; that an interface architecture rather than a self-attribution module is the better explanation is the live hypothesis, not the datum ([the phenomenology-of-memory article](/topics/phenomenology-of-memory-and-the-self/) develops mine-ness as a phenomenal feature).
 
 ### Dissociative Amnesia: The Memory Channel Disconnects
 

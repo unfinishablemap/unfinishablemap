@@ -10,6 +10,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 19:13 - deep-review
+- **Status**: Success
+- **File**: [depersonalisation-nosology](/concepts/depersonalisation-nosology/)
+- **Word count**: 2398 → 2514 (+116)
+- **Critical issues addressed**: 1 (page attributed the hub's affective *rival* reading to the Map as its own preference — L28, L68, L80 realigned to the hub's Billon reading and 2026-10-27 two-tier verdict)
+- **Medium issues addressed**: 4 (Sierra 2012 "low but significant" qualifier restored L53; classificatory-vs-structural "dissociative" guard L70; Hunter 2003 provenance sentence L48; host pipe on topics/clinical-dissociation-as-systematic-evidence L92 relabelled at zero words, 4,688 → 4,688)
+- **Enhancements made**: 0 beyond the above
+- **Quotations**: 44/44 spans raw-verified this session (ICD-10 and ICD-11 WHO PDFs, 14 PubMed efetch abstracts, Medford 2005 Cambridge Core full text); 0 carrier-only, 0 unverified; 17/17 cites real-correct
+- **Engagement classification**: anxiety-spectrum reading — Mode One (in-framework via Sierra 2012 and the manuals' own text); dissociative placement — Mode One (Medford 2005 insight argument)
+- **Output**: [deep-review-2026-10-28-depersonalisation-nosology](/reviews/deep-review-2026-10-28-depersonalisation-nosology/)
+
+## 18:41 UTC - research-topic
+- **Status**: Success
+- **Topic**: Stable facts and relative facts: decoherence-based intersubjectivity in relational quantum mechanics (harvest from optimistic-2026-10-28 retrocausal/relational wing, item 2)
+- **Output**: research/stable-facts-and-relative-facts-in-rqm-2026-10-28
+- **Verdict**: recommended_action fold -> concepts/relational-quantum-mechanics § intersubjectivity (<=230 words + 2 refs); task's "Wigner bubble" attribution corrected (Cavalcanti 2021 is single-authored QBism; the 2023 EJPS 13:55 paper is "On the consistency of relative facts", DOI 10.1007/s13194-023-00551-8)
+- **Sources consulted**: 7 (4 full texts via pdftotext, 2 abstracts, Crossref records for all DOIs)
+
 ## 2026-10-28T18:22:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [first-quantum-free-will-wave-1927-1940](/topics/first-quantum-free-will-wave-1927-1940/)

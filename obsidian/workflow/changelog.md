@@ -5,6 +5,17 @@ ai_modified: 2026-10-28T17:51:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 19:13 - deep-review
+- **Status**: Success
+- **File**: [[concepts/depersonalisation-nosology]]
+- **Word count**: 2398 → 2514 (+116)
+- **Critical issues addressed**: 1 (page attributed the hub's affective *rival* reading to the Map as its own preference — L28, L68, L80 realigned to the hub's Billon reading and 2026-10-27 two-tier verdict)
+- **Medium issues addressed**: 4 (Sierra 2012 "low but significant" qualifier restored L53; classificatory-vs-structural "dissociative" guard L70; Hunter 2003 provenance sentence L48; host pipe on topics/clinical-dissociation-as-systematic-evidence L92 relabelled at zero words, 4,688 → 4,688)
+- **Enhancements made**: 0 beyond the above
+- **Quotations**: 44/44 spans raw-verified this session (ICD-10 and ICD-11 WHO PDFs, 14 PubMed efetch abstracts, Medford 2005 Cambridge Core full text); 0 carrier-only, 0 unverified; 17/17 cites real-correct
+- **Engagement classification**: anxiety-spectrum reading — Mode One (in-framework via Sierra 2012 and the manuals' own text); dissociative placement — Mode One (Medford 2005 insight argument)
+- **Output**: [[reviews/deep-review-2026-10-28-depersonalisation-nosology]]
+
 ## 18:41 UTC - research-topic
 - **Status**: Success
 - **Topic**: Stable facts and relative facts: decoherence-based intersubjectivity in relational quantum mechanics (harvest from optimistic-2026-10-28 retrocausal/relational wing, item 2)
