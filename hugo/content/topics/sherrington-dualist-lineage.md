@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-02
-ai_modified: 2026-10-26 22:22:20+00:00
+ai_modified: 2026-10-28 08:40:51+00:00
 ai_system: claude-fable-5+claude-opus-5-5+claude-fable-5-1
 anchoring_audit_exempt: true
 author: null
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-12 07:46:33+00:00
-lastmod: 2026-10-26 22:22:20+00:00
+lastmod: 2026-10-28 08:40:51+00:00
 modified: *id001
 related_articles:
 - '[[penfield-interactionist-dualism]]'
@@ -98,7 +98,7 @@ Sherrington's two-ultimates argument is an ancestor of the Map's first tenet, an
 
 The 1947 foreword sentence is the cleanest early anticipation of **Tenet 5** (Occam's razor has limits): a refusal to let monist parsimony decide a question the evidence leaves open. This is also the Map's principled reply to Pepperell-style dissolutions—the organization-of-energy reading is simpler, but by Tenet 5 its simplicity is not by itself a reason to believe it, a point developed in [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/).
 
-On **Tenet 3** Sherrington stands nearer the Map than his reputation suggests, and the Map claims no more than that: he held mind's working contact with the brain as what "would seem" to be so, and refused only its mechanism; the 1947 foreword keeps the hedge and says more: "two continuous series of events, one physico-chemical, the other psychical, and at times interaction between them" (p. xvii, verified). On **Tenet 2** he offers two remarks and no mechanism. In 1940, "the physicist releases the individual" from Laplacean necessity into "a probability system" (ch. 6, p. 201, verified), which clears room for mind's influence without proposing how it acts. In 1947 he noted that the retina's reaction to "as few as six photons can be perceived" and "can release motor behaviour of the whole body", a process "called by some biologists 'amplification'" (foreword, p. xviii, verified): the amplifier vocabulary Compton and Popper would later dispute, used for a biological cascade with no claim that mind acts at the quantum event. His 1950 "devoid of a basis for its very beginning" names precisely the gap the Map's quantum-interface programme works on. The mechanism side of the Map's framework descends instead from the lineage's terminus: Beck–Eccles probability-biasing at the synapse is one ancestor of Tenet 2's minimal quantum interaction, alongside the von Neumann–Wigner–Stapp route traced in [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/). The Map adopts that mechanism family minimally—stripped of psychon bookkeeping and entirely decoupled from Eccles's theology, which the tenets neither need nor assert. The Map's architecture is fairly summarised as taking Sherrington's gap seriously and Eccles's mechanism minimally.
+On **Tenet 3** Sherrington stands nearer the Map than his reputation suggests, and the Map claims no more than that: he held mind's working contact with the brain as what "would seem" to be so, and refused only its mechanism; the 1947 foreword keeps the hedge and says more: "two continuous series of events, one physico-chemical, the other psychical, and at times interaction between them" (p. xvii, verified). On **Tenet 2** he offers two remarks and no mechanism. In 1940, "the physicist releases the individual" from Laplacean necessity into "a probability system" (ch. 6, p. 201, verified), which clears room for mind's influence without proposing how it acts. In 1947 he noted that the retina's reaction to "as few as six photons can be perceived" and "can release motor behaviour of the whole body", a process "called by some biologists 'amplification'" (foreword, p. xviii, verified): the amplifier vocabulary Ralph Lillie had introduced in *Science* in 1927, which Compton built his decision model on and [Popper](/concepts/popper-three-worlds-interactionism/#penny-toss) would later dispute, used for a biological cascade with no claim that mind acts at the quantum event. His 1950 "devoid of a basis for its very beginning" names precisely the gap the Map's quantum-interface programme works on. The mechanism side of the Map's framework descends instead from the lineage's terminus: Beck–Eccles probability-biasing at the synapse is one ancestor of Tenet 2's minimal quantum interaction, alongside the von Neumann–Wigner–Stapp route traced in [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/). The Map adopts that mechanism family minimally—stripped of psychon bookkeeping and entirely decoupled from Eccles's theology, which the tenets neither need nor assert. The Map's architecture is fairly summarised as taking Sherrington's gap seriously and Eccles's mechanism minimally.
 
 Finally, following [evidential-status-discipline](/project/evidential-status-discipline/), the Map treats Sherrington, Penfield, and Eccles as sources of arguments and data, never as a roll-call of eminent support—and accepts the mirror image: the far longer roll-call of eminent physicalists is no evidence against the tenets either.
 
@@ -121,6 +121,7 @@ Quotation provenance note: quotations from the 1940 edition of *Man on His Natur
 1. Sherrington, C. S. (1947). Foreword. In *The Integrative Action of the Nervous System* (reissue). Cambridge University Press, pp. xvi–xx. Verified against the Internet Archive scan (item the-integrative-action-of-the-nervous-system); passages relied on: pp. xvii, xviii, xix, xx.
 1. Laslett, P. (Ed.). (1950). *The Physical Basis of Mind: A Symposium*. Oxford: Basil Blackwell. The "devoid of a basis for its very beginning" sentence is quoted back to Sherrington by a later contributor at p. 69 (Google Books search-within-volume, control-checked); Sherrington's own page not yet located. The 1933 Rede Lecture *The Brain and Its Mechanism* is the other locus reported in the secondary literature and is unchecked.
 1. Ritchie, A. D. (1941). Review of *Man on His Nature*. *Nature*, 147, 127–129. https://www.nature.com/articles/147127a0
+1. Lillie, R. S. (1927). "Physical Indeterminism and Vital Action." *Science*, 66(1702), 139–144. doi:10.1126/science.66.1702.139 (Not read; cited by Compton, *The Freedom of Man*, p. 50.)
 1. Robinson, H. (2003; substantive revision 2025). "Dualism." *Stanford Encyclopedia of Philosophy*, §2.4. https://plato.stanford.edu/entries/dualism/
 1. Eccles, J. C. (1953). *The Neurophysiological Basis of Mind: The Principles of Neurophysiology*. Clarendon Press. (The Waynflete Lectures.)
 1. Eccles, J. C. (1973). *The Understanding of the Brain*. McGraw-Hill. (The Patten Foundation Lectures, Indiana University, 1972.) Ch. 6 "Brain, Speech, and Consciousness," p. 189 for the trialist passage — verified in the Google-digitised McGraw-Hill first edition (ISBN 0-07-018863-7; OCLC 554130).

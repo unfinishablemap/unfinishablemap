@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-09-19T21:53:13+00:00
+ai_modified: 2026-10-28T08:40:51+00:00
 last_deep_review: 2026-07-30T11:21:11+00:00
 draft: false
 topics:
@@ -38,7 +38,7 @@ related_articles:
   - "[[amplification-mechanisms-consciousness-physics-2026-03-18]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-01-21
 last_curated: null
 coalesced_from:
@@ -48,7 +48,7 @@ coalesced_from:
 
 Consciousness amplifies intelligence. Not by adding computational power—neurons handle computation—but by enabling flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual reasoning. The great ape-human intelligence gap, approximately ten-fold despite only 1-2% genetic difference, may reflect this amplification: great apes possess sophisticated neural systems, yet lack the conscious access that transforms raw processing into human-level cognition. If consciousness is [[concepts/epiphenomenalism|epiphenomenal]]—causally inert, merely observing neural activity—this gap is inexplicable. If consciousness causally amplifies what neural systems can achieve, the gap makes sense.
 
-The Unfinishable Map proposes that consciousness interfaces with neural systems through [[attention-as-interface|attention]], enabling selection among neural patterns. This interface doesn't replace neural processing but amplifies its reach—making stored knowledge flexibly accessible, enabling manipulation of representations, and supporting the kind of reasoning that cumulative culture requires.
+The Unfinishable Map proposes that consciousness interfaces with neural systems through [[attention-as-interface|attention]], enabling selection among neural patterns. This interface doesn't replace neural processing but amplifies its reach—making stored knowledge flexibly accessible, enabling manipulation of representations, and supporting the kind of reasoning that cumulative culture requires. (The amplifier here is cognitive; Compton's quantum amplifier model of decision is a different claim, discussed on the [[popper-three-worlds-interactionism#penny-toss|Popper page]].)
 
 ## Three Senses of Consciousness
 
