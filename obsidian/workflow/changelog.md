@@ -5,6 +5,12 @@ ai_modified: 2026-10-28T12:15:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28T12:50:12+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Transparent Psi Project and the post-2018 replication record for Bem-style precognition
+- **Output**: [[transparent-psi-project-and-precognition-replication-record-2026-10-28]]
+- **Sources consulted**: 14 (Kekecs 2023 RSOS via PMC full text; Walleczek 2025 PLOS ONE; Schlitz 2021 JSE abstract; Bem et al. 2016 F1000 + comment thread; Lakens 2015 blog; Schimmack 2018 blog; Mossbridge 2012; Duggan & Tressoldi 2018; Schwarzkopf 2014; Mossbridge et al. 2015 arXiv; Crossref for Francis 2012, Schimmack 2012, Ritchie 2012, Rouder & Morey 2011)
+- **Recommended action**: fold into topics/presentiment-and-retrocausality (§What Critics Say relabel + Schwarzkopf; §The Current State TPP passage; two one-clause calibration fixes); no new article
 ## 2026-10-28 12:28 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/sham-controlled-neurofeedback-and-the-consciousness-comparator]]
