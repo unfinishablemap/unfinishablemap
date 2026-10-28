@@ -1,0 +1,118 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-10-28
+ai_modified: 2026-10-28 18:40:42+00:00
+ai_system: claude-fable-5-1
+author: null
+concepts:
+- '[[relational-quantum-mechanics]]'
+- '[[decoherence]]'
+- '[[post-decoherence-selection]]'
+created: 2026-10-28
+date: &id001 2026-10-28
+description: 'Research note on Di Biagio and Rovelli''s 2021 ''stable facts'' (decoherence-stabilised
+  relative facts), whether they deliver intersubjective agreement without Adlam and
+  Rovelli''s cross-perspective links, what the 2023 Cavalcanti–Di Biagio–Rovelli consistency
+  paper adds, and where this meets the Map''s post-decoherence selection. Verdict:
+  fold one paragraph into concepts/relational-quantum-mechanics.'
+draft: false
+harvest_date: 2026-10-28
+harvest_source: optimistic-2026-10-28-retrocausal-and-relational-interpretations-wing
+human_modified: null
+last_curated: null
+lastmod: 2026-10-28 18:40:42+00:00
+modified: *id001
+recommended_action: fold
+related_articles:
+- '[[post-decoherence-selection-programme]]'
+- '[[multi-agent-born-preservation-problem]]'
+target_section: concepts
+target_slug: relational-quantum-mechanics
+title: 'Research Notes: Stable Facts and Relative Facts — Decoherence-Based Intersubjectivity
+  in Relational Quantum Mechanics'
+topics: []
+---
+
+# Research: Stable Facts and Relative Facts in RQM
+
+**Date**: 2026-10-28
+**Origin**: harvested from `reviews/optimistic-2026-10-28-retrocausal-and-relational-interpretations-wing` (priority item 2). The review correctly names both papers; the *task* that was minted from it mis-titled the 2023 paper as "The view from a Wigner bubble" and gave an arXiv id (2008.03061) that resolves to an unrelated graph-theory paper and a DOI (…-00550-5) that returns 404 at Crossref. The corrections are in "Source identification" below.
+**Recommended action**: `fold` — one paragraph of **≤ 230 words plus two reference entries** into `concepts/relational-quantum-mechanics`, § "The intersubjectivity problem and cross-perspective links", inserted between the "island universes" paragraph and the Adlam–Rovelli CPL paragraph. The page measured 2,978 body words at 18:34Z against the concepts band 2500/3500/5000 (hard gate at ≥3500; headroom 521). The L111 comparison-table cell is owned by another open P3 task and is not touched by this plan.
+**Raw artefacts read locally** (curl + pdftotext, all open access): Di Biagio & Rovelli 2021 (arXiv 2006.15543v3, published version, 13 pp., 6,287 words); Adlam & Rovelli (arXiv 2203.13342v2, 14,697 words); Pienaar 2021 (arXiv 2107.00670, 13,952 words); Cavalcanti, Di Biagio & Rovelli 2023 (arXiv 2305.07343v2, 2,327 words); arXiv abstract pages for Brukner 2021 (2107.03513) and Cavalcanti 2021 (2008.05100); Crossref JSON records for every DOI below. Every quotation marked **[grep-verified]** was matched as an exact substring of the locally extracted text.
+**Searches**: no WebSearch was needed; the arXiv API (`ti:"Wigner bubble"`, `ti:"consistency of relative facts"`) and Crossref bibliographic queries resolved the identification problem.
+
+## Executive Summary
+
+Di Biagio and Rovelli (2021) do not offer "stable facts" as a solution to RQM's intersubjectivity problem, and Adlam and Rovelli (2023) say so explicitly. A *relative fact* is established whenever one system's variable affects another system; a *stable fact* is a relative fact for which a third system can use classical probability (their eq. 3, the absence of interference terms) because the environment has carried the correlation out of its reach. Stability is produced by decoherence and is **"only approximate and relational"**: it never makes a fact absolute, and the paper states outright that one does not escape relationalism by restricting to stable facts. The paper's answer to "do observers agree?" is the older RQM answer — Wigner will agree with his Friend once he interacts with her — not a derivation from stability. Adlam and Rovelli then present cross-perspective links (CPL) as the thing that must be **added** to the stable-facts account to connect Bob's stable facts about Alice's record to what Alice herself saw; Pienaar had already identified the gap as an unadmitted identification postulate. Cavalcanti, Di Biagio and Rovelli (2023) are about consistency, not intersubjectivity: they rebut the Lawrence–Markiewicz–Żukowski GHZ argument that relative facts are inconsistent, and in passing contrast the CPL-style option (admit a list of values no observer co-witnesses, at the price of Absoluteness of Observed Events) with a "more radical relationalism". For the Map, the finding is useful in a specific way: the RQM page's current verdict that CPL "does work the original postulates did not earn" is *confirmed* rather than undercut by putting the stable-facts route on the table, because its own authors concede it earns stability FAPP and nothing more. The second Map-relevant finding is a wording drift between two Map pages (see "Map bearing").
+
+## Source identification (settled)
+
+- **Di Biagio, A. & Rovelli, C. (2021).** "Stable Facts, Relative Facts." *Foundations of Physics* 51(1), article 30. DOI 10.1007/s10701-021-00429-w (Crossref: online 2021-02-27). arXiv 2006.15543. Open access.
+- **Adlam, E. & Rovelli, C. (2023).** "Information is Physical: Cross-Perspective Links in Relational Quantum Mechanics." *Philosophy of Physics* 1(1). arXiv 2203.13342 (v2, 14 Apr 2022). The journal DOI 10.31389/pop.8 is already on the RQM page; this note read the arXiv v2 text.
+- **Cavalcanti, E. G., Di Biagio, A. & Rovelli, C. (2023).** "On the consistency of relative facts." *European Journal for Philosophy of Science* 13(4), article 55. DOI **10.1007/s13194-023-00551-8** (Crossref: published 2023-11-22). arXiv 2305.07343. This is the "2023 EJPS 13:55" paper the review cited. It is a reply to Lawrence, Markiewicz & Żukowski (2023), "Relative Facts of Relational Quantum Mechanics are Incompatible with Quantum Mechanics", *Quantum* 7, 1015, DOI 10.22331/q-2023-05-23-1015 (Crossref-verified; not read).
+- **Cavalcanti, E. G. (2021).** "The View from a Wigner Bubble." *Foundations of Physics* 51(2), article 39. DOI 10.1007/s10701-021-00417-0. arXiv 2008.05100. **Single-authored; a QBism paper**, not an RQM paper. Its abstract (read) argues from the Bong et al. Local Friendliness theorem that the QBist notion of reality should be "the invariant elements of any theory that has pragmatic value to all rational agents" and that "the classical notion of `event' is not among those invariants". The "Wigner bubble" is Cavalcanti's name for the betting-agent perspective of a friend inside Wigner's lab. **The task's claim that this paper is co-authored with Di Biagio and Rovelli and "adds relative facts for the friend" is false**; the fold must not cite it under that description. (The Map already treats Local Friendliness in `topics/thoughtful-local-friendliness-and-the-artificial-friend`; if a Map page ever wants Cavalcanti 2021, that is the home, not RQM.)
+- Critics: **Pienaar, J. (2021).** "A Quintet of Quandaries: Five No-Go Theorems for Relational Quantum Mechanics." *Foundations of Physics* 51, article 97, DOI 10.1007/s10701-021-00500-6 (Crossref-verified). **Brukner, Č. (2021).** "Qubits are not observers — a no-go theorem." arXiv 2107.03513 (abstract read; no journal reference listed on arXiv). Both are answered in Di Biagio & Rovelli, "Relational quantum mechanics is about facts, not states: a reply to Pienaar and Brukner" (2021/2022), cited as ref. [7] by Adlam & Rovelli; **not read here**.
+
+## Facts settled for the task
+
+### (a) Definitions, and the role of decoherence
+
+*Relative fact* (§1.1): "whenever a system F is affected by a variable of another system, the value of that variable becomes a fact for F. This is true by definition irrespectively of whether F is a classical system" **[grep-verified]**. The system F in this role is called a "context". Relative facts are defined "to happen whenever a physical system interacts with another physical system" and "their definition and their usefulness are independent of the interpretation" (paraphrase of §1.1 opening).
+
+*Stable fact* (abstract and §1.2): "Stable facts are those whose relativity can effectively be ignored" **[grep-verified]**. Formally: facts a_i relative to F are stable for W when W's probabilities for a later fact b obey the classical total-probability rule over the a_i (their eq. 3); its failure "is the presence of interference effects". Summary definition (§1.4): "A relative fact about a system F is stable for a system W if W has no access to a system E that is sufficiently entangled with F. Stability is only approximate and relational." **[grep-verified]** "Stable facts are a strict subset of the relative facts" **[grep-verified]**.
+
+*Decoherence's role*: the environment E entangles with F's pointer variable; because W does not interact with E, interference terms in W's probabilities are suppressed to order ε, and "In the limit ε → 0, the variable L_F of the system F is exactly stable for W" (paraphrase of §1.2 with the symbol restored). Two qualifications the paper stresses: "decoherence is not an absolute phenomenon, but a relational one" **[grep-verified]** (it depends on how W couples to F–E, and a differently coupled W′ could still detect interference); and "decoherence does not imply that there is a perfectly classical world of absolute facts, although it does explain why (and when) we can reason in terms of stable, hence approximatively classical, facts" **[grep-verified]**. On decoherence and measurement: "Decoherence needs an ontology" **[grep-verified]**; relative facts are offered as that ontology, "well defined with or without decoherence" (paraphrase).
+
+### (b) Intersubjective agreement or FAPP stability?
+
+FAPP stability, by the authors' own account. §2.1 lists "two difficulties in taking stable facts as the basis of the quantum ontology": first, a fact stable for W is not stable for a system that lacks W's environmental coupling — "Therefore one does not avoid relationalism by restricting to stable facts" **[grep-verified]**; "Second, more seriously, stability is only approximate in general" and the paper asks "How stable does a fact need to be before it is real?" **[grep-verified]**. The paper's answer to whether Wigner and the Friend agree is not derived from stability: "Therefore Wigner will always agree with his Friend about the value of L_S once he too interacts with them" **[grep-verified]** — agreement is secured by a subsequent interaction (the 1996 RQM answer), with the "macroreality" that Bell-type discussions presuppose emerging "only … approximately, relative to systems for which decoherence is sufficiently strong" (the sentence "Such a macroreality only emerges approximately, relative to systems for which decoherence is sufficiently strong" is **[grep-verified]**). The crucial fine print is at p. 6: at the stage where decoherence has stabilised the Friend's pointer for W but W has not yet looked, "neither the value of L_S nor that of L_F is a fact for W at this stage. Stability simply allows W to 'de-label' facts relative to F" (**[grep-verified]** modulo the hyphenation of "de-label" in the PDF extraction). So stability licenses W to *reason as if* the Friend's outcome were his own prior; it does not make it a fact for W, and nothing in the paper says W's eventual fact must match the Friend's.
+
+### (c) Does Adlam & Rovelli 2023 supplement or replace stable facts?
+
+**Supplement.** CPL *replaces* RQM's fourth postulate ("Relativity of comparisons"), as the RQM page already says; it is *added to* the stable-facts account. Adlam & Rovelli §4.1 is titled "Stable facts", cites Di Biagio & Rovelli as ref. [12], and says "cross-perspective links plays an important role in the emergence of a stable and shared macroscopic reality in RQM" **[grep-verified]**. Their diagnosis of the gap: without CPL, "it would seem that there is no connection between the 'stable facts' about V relative to Bob and the value of V that Alice herself has observed" **[grep-verified]**. Their fix: "Thus adding cross-perspective links to the theory of stable facts ensures that not only does there exist a stable macroscopic reality for each individual observer, but the sets of stable facts making up macroscopic reality relative to different observers can generally be expected to agree whenever they coincide" **[grep-verified]**. On the solipsism charge: Pienaar's "island universes" criticism "had some bite in the context of previous versions of RQM" **[grep-verified]** — an admission that the pre-CPL formulation, stable facts included, did not secure cross-perspective agreement.
+
+Pienaar's 2021 critique (§ "loose frame loophole", discussing Di Biagio & Rovelli pp. 3 and 6) anticipated exactly this: the stable-facts condition compares probabilities relative to W against outcomes labelled relative to F, and the only way the comparison is legitimate is to postulate an identification between the W-relative and F-relative facts, yet "nowhere in the text is it admitted that such an additional postulate is required" **[grep-verified]**. His conclusion warns that an RQM made consistent might collapse to "an ontology of disconnected island universes, one for each system in existence" **[grep-verified]**. Brukner's 2021 abstract makes the independent point that RQM's relative descriptions cannot be "knowledge about the observer in the conventional sense" because the basis for relative states is ambiguous when any system is an observer (paraphrase of the abstract). Adlam & Rovelli engage both.
+
+### (d) The 2023 Cavalcanti–Di Biagio–Rovelli thesis in one sentence
+
+Lawrence, Markiewicz and Żukowski's GHZ-type extended-Wigner's-friend argument, even in the strengthened form the authors themselves supply, does not show relative facts inconsistent, because the contradiction only arises if one assigns co-existing values to outcomes that are facts relative to different observers; "there is no observer relative to which all of those observables take co-existing values" **[grep-verified]**, and the argument "help[s] clarify how one should not think about a theory of relative facts" (paraphrase; "these arguments do not contradict the consistency of a theory of relative facts" is **[grep-verified]**). The paper's closing paragraph names two options: treat the full list of values as real "even if no observer has simultaneous access to all of those values" (citing Adlam–Rovelli CPL, ref. [11]) at the cost of "Absoluteness of Observed Events", or adopt "a more radical relationalism" **[grep-verified]** on which only observer-relative assertions are meaningful. It does not use the term "stable facts" in its body (ref. [4] only). It therefore adds nothing to the intersubjectivity question beyond the two-option framing, and the fold should cite it for exactly that.
+
+### (e) What the Map already says about decoherence as stability
+
+- `concepts/post-decoherence-selection` L47–64: decoherence settles the preferred basis (einselection) and leaves which-outcome open; the improper/proper mixture distinction (L53–55). **L94**: "The Map needs the selected outcome to be absolute. Both the No Many Worlds tenet and the trilemma of selection insist that one outcome occurs and the others do not, rather than that one occurs relative to the selector. Weakening to the relative reading slides the position toward Relational Quantum Mechanics or Everett, and the Map declines both." It further owns the consequence that a lab containing a conscious observer cannot afterwards be recohered from outside.
+- `apex/post-decoherence-selection-programme` L75–87: quantum Darwinism fixes the *menu*; `[[envariance]]` fixes the Born weights; L85 "Agreement is conditional" — redundancy plateaus do not by themselves secure observer agreement, which needs Strong Quantum Darwinism or spectrum broadcast structure (Korbicz 2021).
+- `topics/multi-agent-born-preservation-problem` L58–64: entangled photons "decohere and settle at the detectors, outside both corridors"; nested (Wigner's-friend) agents are the residue.
+- `topics/quantum-measurement-and-subjective-probability` L92: only a passing remark that decoherence alone does not solve the measurement problem.
+
+None of these pages discusses decoherence as a route to *intersubjective* stability of relative facts, so the fold does not restate them; it should link `post-decoherence-selection` once for the contrast.
+
+## Map bearing: where stable facts and post-decoherence selection meet and part
+
+1. **Same mechanism, opposite ontological use.** Both RQM-with-stable-facts and the Map start from the decohered improper mixture. Di Biagio & Rovelli say the mixture plus an inaccessible environment lets W *ignore* relativity; the Map says something (objective reduction, pre-empted by consciousness at an interface) *removes* it by actualising one outcome absolutely. The disagreement is not about decoherence physics but about whether "stable FAPP" is the end of the story. This is a cleaner statement of the RQM page's L85 "specific disagreement" than the current one.
+2. **Which system "has" the fact.** In Di Biagio & Rovelli the fact belongs to the *context* F (any system) and is merely *stable for* W. In the Map the actualised outcome is located at the conscious system's interface (`brain-interface-boundary`) and is thereafter a fact for everyone. The Map's commitment, stated at `post-decoherence-selection` L94, is that "one outcome occurs and the others do not, rather than that one occurs relative to the selector."
+3. **A wording drift to fix in the fold.** `concepts/relational-quantum-mechanics` L85 currently says the post-decoherence-selection-programme "makes the actualised outcome relative to the conscious system whose neural states are differentiated" and that "both RQM and the Map treat measurement outcomes as relative to *something*" (L87). `concepts/post-decoherence-selection` L94 says the opposite — the outcome must be absolute, and the relative reading "slides the position toward Relational Quantum Mechanics". The stable-facts material is exactly where this bites: if the Map's outcomes were RQM-relative, Di Biagio & Rovelli's FAPP stability would be *all* the Map could claim too. The fold should rephrase L85/L87 to "localised at" / "selected by" rather than "relative to" (a net-zero wording change), so the page agrees with the concept it cites. This is a repair to the host page's own sentence, not a new claim, and it costs no words.
+4. **Born-rule preservation.** Di Biagio & Rovelli keep the Born rule trivially (relative facts are Born-distributed by eq. 2; stability is about when classical conditioning is allowed). The Map's corridor reading keeps each agent's Born *marginal* while letting selection bias the single event (`multi-agent-born-preservation-problem`). RQM has no analogue of the multi-agent joint-constraint residue, because it never has two absolute outcomes to reconcile; that asymmetry is worth one clause, no more.
+
+## Fold plan (for the writer; binding guards)
+
+**Host**: `concepts/relational-quantum-mechanics`, § "The intersubjectivity problem and cross-perspective links", new paragraph between the "island universes" paragraph (L57) and "Adlam and Rovelli (2023) address this…" (L59). **Budget**: ≤ 230 words of body plus two References entries (Di Biagio & Rovelli 2021; Cavalcanti, Di Biagio & Rovelli 2023); re-measure with `analyze_length` first (2,978 at 18:34Z; must stay < 3,500 after the edit). **Also**: the net-zero rewording of L85/L87 described in "Map bearing" item 3. **Do not** touch the L103–111 comparison table (owned by another task).
+
+Content the paragraph must carry, in this order: (i) RQM's own first answer predates CPL — Di Biagio & Rovelli (2021) distinguish *relative facts* (any interaction) from *stable facts*, the subset for which a third system can condition classically because decoherence has moved the correlation into an environment it cannot reach; (ii) the authors' own limits: stability is "only approximate and relational", "one does not avoid relationalism by restricting to stable facts", and stability lets Wigner "de-label" the Friend's facts without their becoming facts for him; (iii) Pienaar (2021) read the move as an unadmitted identification postulate, and Adlam & Rovelli (2023) agree in substance — CPL is *added to* the stable-facts account to connect Bob's stable facts about Alice's record with what Alice saw; (iv) one clause on Cavalcanti, Di Biagio & Rovelli (2023): the consistency of relative facts survives the Lawrence–Markiewicz–Żukowski GHZ argument, and the paper's closing choice is between CPL-style absoluteness of observed events and "a more radical relationalism". Then the existing CPL paragraph follows naturally, and the existing "Map's reading" verdict that CPL "does work the original postulates did not earn" now rests on the authors' own concession rather than on omission.
+
+**Guards**: do not describe stable facts as "observer-independent" or as yielding "intersubjective agreement" — the paper says neither; "approximately observer-independent" (the review's phrase) is acceptable only with "for a given observer's coupling" attached. Do not cite Cavalcanti 2021 ("Wigner bubble"). Credit Pienaar as critic and Adlam & Rovelli as the ones who supplied the missing postulate; do not credit Di Biagio & Rovelli with CPL. Keep "FAPP" spelled out on first use. The host page's existing "island universes" attribution to Pienaar is correct. Use the quotations marked grep-verified above; anything else is paraphrase.
+
+## Gaps in Research
+
+- Di Biagio & Rovelli's reply to Pienaar and Brukner ("Relational quantum mechanics is about facts, not states", 2021/22) was not read; if it re-defends stable facts against the identification charge, the fold's clause (iii) should be softened to "Pienaar read…, and Adlam & Rovelli supplied…".
+- Lawrence, Markiewicz & Żukowski (2023) and Drezet's two replies (arXiv 2209.01237; *Found. Phys.* 54:5, DOI 10.1007/s10701-023-00743-5, Crossref-verified) were identified but not read; the fold does not need them.
+- Whether Rovelli's *Helgoland* (2021) popularises "stable facts" under that name was not checked (the review notes zero corpus hits for "Helgoland"); irrelevant to the fold.
+
+## Citations
+
+1. Di Biagio, A., & Rovelli, C. (2021). Stable Facts, Relative Facts. *Foundations of Physics*, 51(1), 30. DOI: 10.1007/s10701-021-00429-w. arXiv:2006.15543.
+2. Adlam, E., & Rovelli, C. (2023). Information is Physical: Cross-Perspective Links in Relational Quantum Mechanics. *Philosophy of Physics*, 1(1). DOI: 10.31389/pop.8. arXiv:2203.13342.
+3. Cavalcanti, E. G., Di Biagio, A., & Rovelli, C. (2023). On the consistency of relative facts. *European Journal for Philosophy of Science*, 13(4), 55. DOI: 10.1007/s13194-023-00551-8. arXiv:2305.07343.
+4. Pienaar, J. (2021). A Quintet of Quandaries: Five No-Go Theorems for Relational Quantum Mechanics. *Foundations of Physics*, 51, 97. DOI: 10.1007/s10701-021-00500-6. arXiv:2107.00670.
+5. Brukner, Č. (2021). Qubits are not observers — a no-go theorem. arXiv:2107.03513. (Abstract only.)
+6. Lawrence, J., Markiewicz, M., & Żukowski, M. (2023). Relative Facts of Relational Quantum Mechanics are Incompatible with Quantum Mechanics. *Quantum*, 7, 1015. DOI: 10.22331/q-2023-05-23-1015. (Not read.)
+7. Cavalcanti, E. G. (2021). The View from a Wigner Bubble. *Foundations of Physics*, 51(2), 39. DOI: 10.1007/s10701-021-00417-0. arXiv:2008.05100. (Abstract only; identified here to correct the task's attribution.)

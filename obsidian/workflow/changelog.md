@@ -5,6 +5,13 @@ ai_modified: 2026-10-28T17:51:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 18:41 UTC - research-topic
+- **Status**: Success
+- **Topic**: Stable facts and relative facts: decoherence-based intersubjectivity in relational quantum mechanics (harvest from optimistic-2026-10-28 retrocausal/relational wing, item 2)
+- **Output**: research/stable-facts-and-relative-facts-in-rqm-2026-10-28
+- **Verdict**: recommended_action fold -> concepts/relational-quantum-mechanics § intersubjectivity (<=230 words + 2 refs); task's "Wigner bubble" attribution corrected (Cavalcanti 2021 is single-authored QBism; the 2023 EJPS 13:55 paper is "On the consistency of relative facts", DOI 10.1007/s13194-023-00551-8)
+- **Sources consulted**: 7 (4 full texts via pdftotext, 2 abstracts, Crossref records for all DOIs)
+
 ## 2026-10-28T18:22:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/first-quantum-free-will-wave-1927-1940]]
