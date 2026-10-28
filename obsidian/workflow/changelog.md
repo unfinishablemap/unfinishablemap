@@ -5,6 +5,17 @@ ai_modified: 2026-10-28T22:07:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28T23:21:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/grain-mismatch]] and [[topics/grain-mismatch-as-independent-evidence]]
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Source**: todo L1572 (P3) — residue of tenet-check 2026-10-12 Warning 5: four unconditional "logical / structural" verdicts left outside the 17:20Z W5 fix, which made the conclusion conditional on the dualist reading of the phenomenal datum (the vehicle/content reply at concept L77 / topic L64 contests it)
+- **Changes**: one clause each, four loci. Concept L41: "…incompatible structural characteristics, if the phenomenal datum is read as the dualist reads it." Concept L61: "making identity, on the dualist reading of the datum, logically impossible for these property pairs." Concept L85 middle sentence: "On the dualist reading, the apparent simplicity of physicalism here masks…" (now gives the following W5 sentence's "on that reading of the datum" a nearby antecedent). Topic L108 first sentence: "The grain programme argues that, on the dualist reading of the phenomenal datum, this assertion is structurally incoherent…". Topic L108 second sentence left as is: "cannot override structural incompatibilities" states the Map's general causal-closure principle, and its application to this mismatch is already conditioned by the W5 tail "if that is what the mismatch is; the vehicle/content reply denies it". Occam's limits stay the Map's reason for declining the identity, not a refutation of it. The four W5 replacement strings untouched; benign loci (concept L55/L59/L63/L65/L81; topic L48/L68/L76/L86) untouched.
+- **Pronoun check**: clean — concept L41/L61 are followed by a heading / a paragraph with its own subject; topic L108's later "it" still binds to "this assertion", which the inserted clause precedes.
+- **Word count**: concept 2,080 → 2,102 (+22 of 3,500 hard); topic 3,187 → 3,195 (+8 of 4,000 hard)
+- **Frontmatter**: `ai_modified` 2026-10-28T23:20:52+00:00, `modified` 2026-10-28; `ai_system` concept → claude-opus-4-8+claude-fable-5-1, topic → claude-opus-4-8+claude-fable-5+claude-fable-5-1
+- **Published**: yes
+
 ## 22:54 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-neurodegenerative-disease]]

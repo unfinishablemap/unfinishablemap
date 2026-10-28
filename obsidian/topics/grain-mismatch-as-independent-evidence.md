@@ -2,9 +2,9 @@
 title: "The Grain Mismatch as Independent Evidence Programme"
 description: "Spatial, temporal, and informational grain mismatches support dualism: independent in their falsifiers, though one shared phenomenal source discounts the count."
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-10-28
 human_modified:
-ai_modified: 2026-10-12T17:19:53+00:00
+ai_modified: 2026-10-28T23:20:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[the-binding-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-8+claude-fable-5+claude-fable-5-1
 ai_generated_date: 2026-04-07
 last_curated:
 last_deep_review: 2026-10-11T09:44:33+00:00
@@ -105,7 +105,7 @@ Compositional grain is therefore a *corollary* of the spatial and temporal legs 
 
 The grain mismatch evidence programme gives [[tenets#^dualism|the Map's first tenet]] suggestive support, conditional on the phenomenal datum the vehicle/content reply contests. Where other arguments for dualism rest on conceivability intuitions (zombies) or epistemic considerations (Mary's Room), the grain programme anchors one side of each mismatch in measurement: neural discreteness, oscillatory periodicity, and conscious throughput are all measured. In the spatial and temporal legs the other side — homogeneity, smoothness — is reported from within experience, so each mismatch pairs a measurement with a phenomenal datum and calls for explanation in a way a thought experiment does not.
 
-The programme also illustrates [[tenets#^occams-limits|why Occam's Razor has limits]]. The "simpler" identity theory asserts that phenomenal properties just *are* neural properties. The grain programme argues that this assertion is structurally incoherent for property pairs with contradictory characteristics — gapless against gapped, smooth against periodic — and that it leaves the magnitude of the informational ratio unexplained. Simplicity purchased at the cost of coherence is no bargain. This connects to the Map's broader case that [[causal-closure|causal closure]] assumptions cannot override structural incompatibilities — no amount of methodological commitment to physicalism resolves a logical mismatch between property types, if that is what the mismatch is; the vehicle/content reply denies it.
+The programme also illustrates [[tenets#^occams-limits|why Occam's Razor has limits]]. The "simpler" identity theory asserts that phenomenal properties just *are* neural properties. The grain programme argues that, on the dualist reading of the phenomenal datum, this assertion is structurally incoherent for property pairs with contradictory characteristics — gapless against gapped, smooth against periodic — and that it leaves the magnitude of the informational ratio unexplained. Simplicity purchased at the cost of coherence is no bargain. This connects to the Map's broader case that [[causal-closure|causal closure]] assumptions cannot override structural incompatibilities — no amount of methodological commitment to physicalism resolves a logical mismatch between property types, if that is what the mismatch is; the vehicle/content reply denies it.
 
 The refusal to pad the programme with a fourth leg (see [Is Compositional Grain a Fourth Mismatch?](#is-compositional-grain-a-fourth-mismatch) above) reflects the same discipline. A dualism that inflated its evidence count would be easier to dismiss; a dualism that counts its structural evidence at exactly the number that survives an independence test earns the calibration it claims — and, under the [[project/common-cause-null|common-cause null]], holds even that number subject to the shared-source discount conceded above.
 

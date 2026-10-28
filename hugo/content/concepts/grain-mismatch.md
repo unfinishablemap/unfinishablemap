@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-10-12 17:19:53+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-10-28 23:20:52+00:00
+ai_system: claude-opus-4-8+claude-fable-5-1
 author: null
 concepts:
 - '[[qualia]]'
@@ -10,14 +10,14 @@ concepts:
 - '[[reductionism]]'
 - '[[substance-property-dualism]]'
 created: 2026-03-11
-date: &id001 2026-03-11
+date: &id001 2026-10-28
 description: Phenomenal experience appears smooth and homogeneous while neural substrates
   are discrete — a structural incompatibility that resists physicalist identity claims.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 08:52:38+00:00
-lastmod: 2026-10-12 17:19:53+00:00
+lastmod: 2026-10-28 23:20:52+00:00
 modified: *id001
 related_articles:
 - '[[resolution-void]]'
@@ -41,7 +41,7 @@ Consider a pink ice cube — Sellars' own example. The experience of its colour 
 
 The force of the argument comes from what identity requires. If phenomenal pinkness *is* a neural firing pattern, then whatever is true of the firing pattern must be true of the pinkness. But the firing pattern is spatially discrete — it has gaps between neurons, distinct activation levels at distinct locations. The pinkness is spatially homogeneous — it presents no gaps, no internal boundaries. A property cannot be both homogeneous and discrete. Therefore the phenomenal property and the neural property are not identical.
 
-This distinguishes the grain mismatch from arguments that physicalism *fails to explain* consciousness. The grain mismatch argues that physicalist identification is *logically incoherent* for properties with incompatible structural characteristics.
+This distinguishes the grain mismatch from arguments that physicalism *fails to explain* consciousness. The grain mismatch argues that physicalist identification is *logically incoherent* for properties with incompatible structural characteristics, if the phenomenal datum is read as the dualist reads it.
 
 ## The Introspective Opacity Problem
 
@@ -61,7 +61,7 @@ The grain mismatch occupies a distinct logical space from the two most discussed
 
 **[Zombie conceivability](/concepts/philosophical-zombies/)** (Chalmers 1996) is modal. A physically identical being without consciousness is conceivable, suggesting consciousness is not entailed by physics. The argument targets metaphysical necessity.
 
-**The grain mismatch** (Sellars 1962) is structural. Homogeneous phenomenal properties and discrete physical properties have incompatible characteristics, making identity logically impossible for these property pairs. The argument targets the coherence of identification itself.
+**The grain mismatch** (Sellars 1962) is structural. Homogeneous phenomenal properties and discrete physical properties have incompatible characteristics, making identity, on the dualist reading of the datum, logically impossible for these property pairs. The argument targets the coherence of identification itself.
 
 These three arguments are logically independent. Even if the knowledge argument fails (perhaps Mary's new knowledge is old knowledge in a new mode of presentation), and even if zombies are not genuinely conceivable (perhaps we cannot coherently imagine physical duplicates without consciousness), the grain mismatch stands. As long as experience has homogeneous properties and neural substrates have discrete properties, identity between them remains structurally incoherent.
 
@@ -85,7 +85,7 @@ The grain mismatch provides one of the Map's most direct routes to [dualism](/te
 
 The Map interprets this as evidence that consciousness possesses its own non-physical properties with their own structural characteristics. If phenomenal smoothness is genuinely continuous — not illusory, not merely seeming — then it belongs to something that is not a discrete neural network. The [resolution-void](/voids/resolution-void/) explores the consequences: consciousness operates at a characteristic resolution that may be set by its own nature rather than by the brain's architecture.
 
-The argument also reinforces [Occam's Razor Has Limits](/tenets/#occams-limits). The physicalist might prefer identity theory for its simplicity — one kind of stuff, one set of properties. But if the properties are structurally incompatible, simplicity purchased through identification is incoherence disguised as parsimony. The apparent simplicity of physicalism here masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural. No discovery about neural architecture can make a discrete system identical to a homogeneous one — on that reading of the datum the incompatibility is logical, not empirical, and [causal closure](/concepts/causal-closure/) assumptions cannot override it; the vehicle/content reply above denies the reading, at the framework boundary.
+The argument also reinforces [Occam's Razor Has Limits](/tenets/#occams-limits). The physicalist might prefer identity theory for its simplicity — one kind of stuff, one set of properties. But if the properties are structurally incompatible, simplicity purchased through identification is incoherence disguised as parsimony. On the dualist reading, the apparent simplicity of physicalism here masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural. No discovery about neural architecture can make a discrete system identical to a homogeneous one — on that reading of the datum the incompatibility is logical, not empirical, and [causal closure](/concepts/causal-closure/) assumptions cannot override it; the vehicle/content reply above denies the reading, at the framework boundary.
 
 The Map proposes that the grain mismatch extends beyond spatial homogeneity into two further domains. The [bandwidth mismatch](/concepts/consciousness-bandwidth-architecture/) between conscious throughput (~10 bits/second) and the rate at which the sensory periphery delivers information to the brain (~10⁹ bits/second) constitutes an informational grain mismatch. In the temporal dimension, [neural refresh rates](/topics/neural-refresh-rates-and-the-smoothness-problem/) — the discrete oscillatory cycles through which the brain samples sensory input — raise an analogous question: experience *presents itself* as temporally smooth while the neural substrate samples periodically. Lee's result reaches the temporal case only indirectly: he treats the stream of consciousness as a structurally distinct question that his arguments "won't directly adjudicate," though he thinks a similar analysis plausible. To whatever extent it transfers, introspection does not settle whether temporal smoothness is genuine continuity or fine-grained discreteness. But if it is genuine continuity, it cannot be identical to periodic neural sampling, for the same reason spatial homogeneity cannot be identical to spatial discreteness. These three mismatches — spatial, temporal, informational — arise from different empirical domains and rely on different measurements. Most physicalist responses reach only one of them, though the spatial and temporal legs share some candidate dissolvers, such as the vehicle/content reply above. Their convergence constitutes an [evidence programme](/topics/grain-mismatch-as-independent-evidence/) with testable predictions rather than a single conceivability exercise. If all three were independently dissolved, dualism would lose one of its most direct structural supports; that no single response yet reaches all three makes the programme collectively robust.
 
