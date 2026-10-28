@@ -5,6 +5,18 @@ ai_modified: 2026-10-28T20:36:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 21:14 - deep-review
+- **Status**: Success
+- **File**: [[concepts/psychophysical-indexing-law]]
+- **Word count**: 2,991 → 3,078 (+87; all from fidelity repairs and the self-citation pseudonyms, three offsetting trims; gate 3,500)
+- **Critical issues addressed**: 6 (two spliced quotations — pairing-problem L111 span and Tenet 2 "non-physical"; dropped "possibility of" qualifier on BRVH fn. 10; BRVH's co-location reply misreported; Chalmers & McQueen 2022 wrongly counted as a second physicalist "worked rule"; Saad 2017 read beyond its metadata)
+- **Medium issues addressed**: 5 (Brenner 2024 framing to the publisher summary; P-I3 gloss softened; Gómez-Emilsson & Percy reference completed; self-citations 19–20 to the plus-joined pseudonym rule; apex host sentence "booked in" → "stated in", net zero)
+- **Enhancements made**: 2
+- **Quotation ledger**: 29 spans — 14 raw-verified (BRVH preprint text, Zurek arXiv text, ChatGPT review), 2 abstract-verified (Swinburne, Saad 2018, Crossref live), 1 publisher-summary-verified (Brenner, previously unverified), 10 corpus-verified, 2 spliced → fixed, 0 unverified
+- **Engagements** (editor-internal): Kim via BRVH — Mode One; IIT exclusion — Mode Three, conceded; Hasker/Swinburne marked as rivals
+- **Tasks minted**: none (concepts 370/370; parse_tasks active 261 before and after)
+- **Output**: [[reviews/deep-review-2026-10-28-psychophysical-indexing-law]]
+
 ## 2026-10-28T20:51:23+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/dualism-channel-width-axis]]

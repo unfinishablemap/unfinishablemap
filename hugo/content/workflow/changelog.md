@@ -10,6 +10,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 21:14 - deep-review
+- **Status**: Success
+- **File**: [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/)
+- **Word count**: 2,991 → 3,078 (+87; all from fidelity repairs and the self-citation pseudonyms, three offsetting trims; gate 3,500)
+- **Critical issues addressed**: 6 (two spliced quotations — pairing-problem L111 span and Tenet 2 "non-physical"; dropped "possibility of" qualifier on BRVH fn. 10; BRVH's co-location reply misreported; Chalmers & McQueen 2022 wrongly counted as a second physicalist "worked rule"; Saad 2017 read beyond its metadata)
+- **Medium issues addressed**: 5 (Brenner 2024 framing to the publisher summary; [P-I3](/positions/individuation-and-subjecthood/#p-i3) gloss softened; Gómez-Emilsson & Percy reference completed; self-citations 19–20 to the plus-joined pseudonym rule; apex host sentence "booked in" → "stated in", net zero)
+- **Enhancements made**: 2
+- **Quotation ledger**: 29 spans — 14 raw-verified (BRVH preprint text, Zurek arXiv text, ChatGPT review), 2 abstract-verified (Swinburne, Saad 2018, Crossref live), 1 publisher-summary-verified (Brenner, previously unverified), 10 corpus-verified, 2 spliced → fixed, 0 unverified
+- **Engagements** (editor-internal): Kim via BRVH — Mode One; IIT exclusion — Mode Three, conceded; Hasker/Swinburne marked as rivals
+- **Tasks minted**: none (concepts 370/370; parse_tasks active 261 before and after)
+- **Output**: [deep-review-2026-10-28-psychophysical-indexing-law](/reviews/deep-review-2026-10-28-psychophysical-indexing-law/)
+
+## 2026-10-28T20:51:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dualism-channel-width-axis](/topics/dualism-channel-width-axis/)
+- **Original score**: n/a (targeted fairness fix at the length ceiling; `scripts/curate.py` absent)
+- **Changes**: L83 clause "Kastrup owes an account of why the intrinsic looks extrinsic" rewritten to state his answer before naming the residue: "Kastrup answers with dissociation (why the laws resist our will) and archetypes (why they are stable) and, on the Map's reading, still owes the austerity and explanatory parts of the [lawful-appearance debt](/concepts/lawful-appearance-problem/)" (new piped wikilink, zero word cost). Wording verified against `concepts/lawful-appearance-problem` L90 ("dissociation explains why the laws resist our will, and the archetypes explain their stability"), L52 (Kastrup 2017 §6 archetypes) and the research note idealist-answers-to-the-transparency-problem-2026-10-11 L106 (Explanation 3, dissociation and personal volitional control). No Kastrup quotation added; Kastrup 2018 not cited; no reference entry added (2017 is cited in the parent concept). Paid for with same-paragraph trims: "Here the third axis earns its keep by *declining* to order." (11 words), "The transparency-problem analysis shows these" → "These" (4), "where Kastrup sits at" → "Kastrup at" (2), "as a monist limit case" (5; the monist-contrast point is at L71), "at all" (2). L71 untouched: the "extrinsic appearance of mental processes" paraphrase stays unquoted and unattributed as a formulation. Pronoun check: "they" in "(why they are stable)" → "the laws" in the preceding parenthesis; "him" → Kastrup; "which" → the discrimination. Body 3,998 → 3,996 words (topics hard gate 4,000). ai_system appended claude-fable-5-1 (absent before). Synced to Hugo; verified the new L83 wording and ai_modified landed.
+- **Published**: yes
+
 ## 2026-10-28T20:36:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/)
