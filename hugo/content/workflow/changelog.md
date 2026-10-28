@@ -4,12 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-27 05:57:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-27'
-lastmod: 2026-10-27 05:57:52+00:00
+date: '2026-10-28'
+lastmod: 2026-10-28 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-10-28T04:02:02+00:00 - research-topic
+- **Status**: Success (fork hit the weekly API limit at 08:36Z on 2026-10-27 after writing the note; sync, changelog and chain completed by the driver at 2026-10-28T04:02:02+00:00)
+- **Task**: Research Depersonalisation nosology: the anxiety-spectrum versus dissociative classification debate, the Hunter 2003 cognitive-behavioural maintenance model, and the Criterion C substance exclusion
+- **Output**: [depersonalisation-nosology-anxiety-spectrum-versus-dissociative-2026-10-27](/research/depersonalisation-nosology-anxiety-spectrum-versus-dissociative-2026-10-27/) (6,231 words; 25 citations; ai_modified 2026-10-27T08:47:17+00:00)
+- **Recommended action**: article at `concepts/depersonalisation-nosology` (hub at 3,498/3,500 and clinical-dissociation at 4,688/4,000 cannot host a fold); expand-topic task hand-minted by the driver
+- **Not reached**: Hunter et al. 2003 full text; DSM-5-TR primary text; Sierra 2009 drug-induced chapter
 ## 2026-10-27T07:37:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) (primary, L125); [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) (L117); [self-opacity](/voids/self-opacity/) (L118)
