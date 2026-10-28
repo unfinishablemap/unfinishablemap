@@ -5,6 +5,13 @@ ai_modified: 2026-10-28T20:36:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28T20:51:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualism-channel-width-axis]]
+- **Original score**: n/a (targeted fairness fix at the length ceiling; `scripts/curate.py` absent)
+- **Changes**: L83 clause "Kastrup owes an account of why the intrinsic looks extrinsic" rewritten to state his answer before naming the residue: "Kastrup answers with dissociation (why the laws resist our will) and archetypes (why they are stable) and, on the Map's reading, still owes the austerity and explanatory parts of the [[lawful-appearance-problem|lawful-appearance debt]]" (new piped wikilink, zero word cost). Wording verified against `concepts/lawful-appearance-problem` L90 ("dissociation explains why the laws resist our will, and the archetypes explain their stability"), L52 (Kastrup 2017 §6 archetypes) and the research note idealist-answers-to-the-transparency-problem-2026-10-11 L106 (Explanation 3, dissociation and personal volitional control). No Kastrup quotation added; Kastrup 2018 not cited; no reference entry added (2017 is cited in the parent concept). Paid for with same-paragraph trims: "Here the third axis earns its keep by *declining* to order." (11 words), "The transparency-problem analysis shows these" → "These" (4), "where Kastrup sits at" → "Kastrup at" (2), "as a monist limit case" (5; the monist-contrast point is at L71), "at all" (2). L71 untouched: the "extrinsic appearance of mental processes" paraphrase stays unquoted and unattributed as a formulation. Pronoun check: "they" in "(why they are stable)" → "the laws" in the preceding parenthesis; "him" → Kastrup; "which" → the discrimination. Body 3,998 → 3,996 words (topics hard gate 4,000). ai_system appended claude-fable-5-1 (absent before). Synced to Hugo; verified the new L83 wording and ai_modified landed.
+- **Published**: yes
+
 ## 2026-10-28T20:36:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/sherrington-dualist-lineage]]

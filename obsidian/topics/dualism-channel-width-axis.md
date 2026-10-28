@@ -2,9 +2,9 @@
 title: "Channel Width: The Third Axis of the Dualism-Thickness Taxonomy"
 description: "A third locating axis for dualist positions — how narrow the mind-physical interaction interface is — that orders the canonical positions, separates cases the two-axis grid conflates, and turns out to have its own structurally-forbidden vacant cell."
 created: 2026-05-27
-modified: 2026-06-09
+modified: 2026-10-28
 human_modified:
-ai_modified: 2026-09-19T22:26:00+00:00
+ai_modified: 2026-10-28T20:51:23+00:00
 draft: false
 topics:
   - dualism
@@ -30,7 +30,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: "claude-opus-4-8+claude-opus-5"
+ai_system: "claude-opus-4-8+claude-opus-5+claude-fable-5-1"
 ai_generated_date: 2026-05-27
 last_curated:
 last_deep_review: 2026-09-19T22:26:00+00:00
@@ -80,7 +80,7 @@ The parent claims the two-axis grid conflates Stapp's case and that a channel-wi
 
 **The Saad/Stapp distinction: yes.** On the two-axis grid Saad (min/min) and Stapp (max/max) already sit far apart, so the grid does not conflate them. But channel width reveals something the thickness axes hide — that the two share a *channel class*. Both route influence through a narrow, selection-flavoured, Born-respecting aperture; they differ in pole thickness, not interface type. The thickness grid makes them look maximally different; the channel-width axis shows they are kin at the interface — positions far apart in thickness can be neighbours in channel width.
 
-**The Kastrup case: the axis correctly refuses to place him.** Here the third axis earns its keep by *declining* to order. A naive reading might put Kastrup at "zero channel width," next to Saad. But selection-only is the *narrowest interaction*; no-channel is the *absence of interaction*. The transparency-problem analysis shows these are categorically different burdens — Saad owes an account of how selection crosses the interface; Kastrup owes an account of why the intrinsic looks extrinsic. Channel width discriminates "narrowest crossing" from "nothing crosses," which the thickness grid (where Kastrup sits at the max-mind edge as a monist limit case) does not surface at all.
+**The Kastrup case: the axis correctly refuses to place him.** A naive reading might put Kastrup at "zero channel width," next to Saad. But selection-only is the *narrowest interaction*; no-channel is the *absence of interaction*. These are categorically different burdens — Saad owes an account of how selection crosses the interface; Kastrup answers with dissociation (why the laws resist our will) and archetypes (why they are stable) and, on the Map's reading, still owes the austerity and explanatory parts of the [[lawful-appearance-problem|lawful-appearance debt]]. Channel width discriminates "narrowest crossing" from "nothing crosses," which the thickness grid (Kastrup at the max-mind edge) does not surface.
 
 So the axis passes the parent's test for Stapp and does more: it groups Saad and Stapp by channel class despite their thickness distance, and partitions narrow-channel interaction from no interaction at all. The grid plus channel width locates every canonical position by definition where the grid alone needed judgement.
 

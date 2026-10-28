@@ -1,14 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28 20:14:59+00:00
+ai_modified: 2026-10-28 20:36:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-28'
-lastmod: 2026-10-28 20:14:59+00:00
+lastmod: 2026-10-28 20:36:29+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-28T20:36:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [sherrington-dualist-lineage](/topics/sherrington-dualist-lineage/)
+- **Original score**: n/a (targeted provenance fix; `scripts/curate.py` absent)
+- **Changes**: Re-attributed the "not merely unsolved but still devoid of a basis for its very beginning" sentence from the 1950 BBC symposium to the 1933 Rede Lecture *The Brain and Its Mechanism* p. 32 (Google Books search-within-volume, control-checked; research note physical-basis-of-mind-1950-symposium-2026-10-27). Four planned edits applied exactly: L43 source phrase; L47 provenance sentence (Samuel quotes it "elsewhere", Laslett 1950 p. 69) and dropped Samuel's comma from the quotation; L112 provenance note no longer lists the 1950 contribution as unconsulted; L116 Laslett entry now gives Sherrington's own pp. 1–4 (rec. 29 Dec 1948, broadcast 11 May 1949) and Samuel's p. 69; new 1933 reference entry added at the head of the list. Consistency edits at zero or negative word cost: L29 two mentions (secondary-carried list, "two most-quoted sentences" attribution), L81 "stated in 1933 and again in 1947", L95 "His 1933". Optional +25-word Aristotle closing-words sentence (Laslett 1950 p. 4) appended to the L47 paragraph with "Sherrington's" in place of "His" to avoid a Samuel antecedent. No 1950 contributor enlisted for dualism; L95 Tenet 3 hedge untouched. Body 3,905 → 3,930 words (topics hard gate 4,000). Synced to Hugo.
+- **Published**: yes
 
 ## 20:14 - optimistic-review
 - **Status**: Success
