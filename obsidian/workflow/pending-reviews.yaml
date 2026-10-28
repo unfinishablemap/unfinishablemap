@@ -195,3 +195,30 @@
   subject_articles:
   - concepts/depersonalisation.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-27-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae174d3-78d8-83ed-ae58-0f347bddfe02
+  commissioned_at: '2026-10-28T04:07:12+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, structure, tenet coherence,
+    cross-cluster'
+  target_filename: outer-review-2026-10-28-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a full-site outer review of The Unfinishable Map at\
+    \ https://unfinishablemap.org \u2014 a philosophical site defending interactionist\
+    \ dualism with a minimal-quantum-interaction mechanism, bidirectional mind\u2013\
+    body causation, rejection of many-worlds, and a limits-of-Occam's-razor stance.\
+    \ Analyse the site as a whole rather than any single article. Identify: (1) novel\
+    \ insights or inferences the site has not yet stated but that its own commitments\
+    \ imply; (2) structural weaknesses in its argument architecture; (3) tenet-coherence\
+    \ issues where articles pull against the five tenets or against each other; (4)\
+    \ cross-cluster contradictions between the topics, concepts, voids, positions,\
+    \ and apex sections. Before judging, consult the changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ so you see recent activity that web-search indices have not yet picked up, and\
+    \ cite the specific article URLs you rely on. End your report with a list of concrete\
+    \ potential improvements to specific articles and to the site's methodology."
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
