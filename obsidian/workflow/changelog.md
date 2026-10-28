@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T10:05:29+00:00
+ai_modified: 2026-10-28T10:25:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-28T10:25:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/the-relocation-objection]]
+- **Word count**: 2526 → 2565 (+39; concepts soft 2500 / hard 3500)
+- **Critical issues addressed**: 1 (two stale NCC quotations removed from the source page on 2026-10-02; wing count eight → seven; worked-case count seven → six; NCC moved from the worked-case table to the exceptions paragraph with live NCC text)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (exceptions paragraph now states why a correlates programme falls outside the objection)
+- **Citations web-verified**: Papineau 1993 and 2011 real-correct at Crossref; Papineau 2011 stance confirmed in the author's PDF
+- **Engagement modes**: Block/Stalnaker/Papineau Mode Three; PCS Mode Three; illusionism Mode Two; MDM Mode Two then Three
+- **Deferred**: P3 refine-draft minted for the bare seeming-regress still live on aesthetics-and-consciousness L146, time-collapse-and-agency L145, philosophy-of-time L155
+- **Output**: [[reviews/deep-review-2026-10-28-the-relocation-objection]]
+
 ## 2026-10-28T10:05:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/dualist-perception]]

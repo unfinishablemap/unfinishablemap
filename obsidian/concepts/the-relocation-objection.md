@@ -1,11 +1,11 @@
 ---
 title: "The Relocation Objection"
-description: "The Map's recurring anti-reductive move: an identity claim that fixes function but leaves feel open re-sites the hard problem. Worked across seven theories, with its boundary cases and limits stated."
+description: "The Map's recurring anti-reductive move: an identity claim that fixes function but leaves feel open re-sites the hard problem. Worked across six theories, with its boundary cases and limits stated."
 created: 2026-09-23
-modified: 2026-09-24
+modified: 2026-10-28
 human_modified:
-ai_modified: 2026-10-03T09:44:24+00:00
-last_deep_review: 2026-09-24T03:33:06+00:00
+ai_modified: 2026-10-28T10:25:17+00:00
+last_deep_review: 2026-10-28T10:25:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,14 +27,14 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5-5
+ai_system: claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-09-23
 last_curated:
 ---
 
 The **relocation objection** is the charge that a proposed explanation of consciousness moves the [[hard-problem-of-consciousness|hard problem]] to a new place instead of answering it. In its neutral form it says only this: if a theory identifies phenomenal experience with some functional, representational or structural property P, and one can fully specify P while the question "why is having P like anything?" remains as open as the original question was, then the theory has changed the question's address without closing it. It descends from Joseph Levine's [[explanatory-gap|explanatory gap]] (1983) and David Chalmers's hard problem (1995); every camp recognises the pattern, whether or not it accepts that it succeeds.
 
-The Map presses the objection against most of the scientific theories of consciousness it engages. Of the eleven pages in that group (ten theories and the unfolding argument), eight use the language of relocation, re-siting or renaming where the Map states its resistance. Those instances are gathered below as worked cases (see [Worked Cases](#worked-cases)). The objection has two limits the Map accepts. It cuts against the Map's own interface hypothesis as well (see [The Two-Edged Form](#two-edged)), and it earns a dialectical result, never an explanatory advantage for dualism (see [What the Objection Earns](#what-it-earns)).
+The Map presses the objection against most of the scientific theories of consciousness it engages. Of the eleven pages in that group (ten theories and the unfolding argument), seven use the language of relocation, re-siting or renaming where the Map states its resistance. Those instances are gathered below as worked cases (see [Worked Cases](#worked-cases)). The objection has two limits the Map accepts. It cuts against the Map's own interface hypothesis as well (see [The Two-Edged Form](#two-edged)), and it earns a dialectical result, never an explanatory advantage for dualism (see [What the Objection Earns](#what-it-earns)).
 
 ## The Neutral Form {#neutral-form}
 
@@ -66,13 +66,12 @@ Each of these pages states the objection in terms of its own theory. The table r
 | [[higher-order-theories\|Higher-order theories]] | A higher-order thought about a state with mental qualities | Rosenthal's mental-qualities reply "relocates the transition into felt experience rather than explaining it"; the page also finds the relocation going "one level up" if the higher-order seeming is itself felt |
 | [[first-order-representationalism\|First-order representationalism]] | Representational content | "why does representing-thus feel like anything?"; the four inversion replies show the move "in miniature" |
 | [[attention-schema-theory\|Attention schema theory]] | The brain's model of its own attention | Shifting the explanandum to the *appearance* of experience "renames the problem rather than solving it" |
-| [[neural-correlates-of-consciousness\|NCC research]] | The minimal neural correlate | Correlation is not identity; an illusionist reading of the data either leaves the seeming phenomenal, "relocating rather than eliminating consciousness", or owes an account of non-phenomenal seeming |
 
 Two further cases mark the objection's boundary.
 
 **[[multiple-drafts-model|The multiple drafts model]]** is the limiting case. Dennett does not propose an identity between experience and a base; he denies there is a further phenomenal fact to identify. The page records that on Dennett's terms MDM dissolves the interface question, since "there is no for-whom to which it could be relocated." So the relocation objection has no purchase there, and the Map's argument changes instrument. It targets the verificationist premise that an undetectable difference is no difference, and it concedes that the resulting standoff is "between two metaphysical defaults." Against eliminativism, the relocation objection gives way to a dispute over framework.
 
-**[[global-workspace-theory|Global workspace theory]] and [[integrated-information-theory|IIT]]** are the two theory pages in the group that do not use relocation language (the unfolding-argument page is the third). The Map reads GWT as a theory of access consciousness that "says nothing about *phenomenal consciousness*". A theory that makes no identity claim about feel has nothing to relocate. IIT begins from axioms about experience, and the Map's disagreement with it runs through causal efficacy and falsifiability (see [[the-unfolding-argument-against-causal-structure-theories-of-consciousness]]). These exceptions show the objection's scope. It applies where a theory advertises a reduction of phenomenal character, and nowhere else.
+**[[global-workspace-theory|Global workspace theory]], [[integrated-information-theory|IIT]] and [[neural-correlates-of-consciousness|NCC research]]** are the three theory pages in the group that do not use relocation language (the unfolding-argument page is the fourth). The Map reads GWT as a theory of access consciousness that "says nothing about *phenomenal consciousness*". A theory that makes no identity claim about feel has nothing to relocate. The same holds of a research programme into correlates: the NCC page holds that its findings "don't favor illusionism over realism", and its objection to the illusionist reading of those findings is that no metarepresentational mechanism yet explains introspection's structure and qualitative character, a demand for mechanism rather than a charge of relocation. IIT begins from axioms about experience, and the Map's disagreement with it runs through causal efficacy and falsifiability (see [[the-unfolding-argument-against-causal-structure-theories-of-consciousness]]). These exceptions show the objection's scope. It applies where a theory advertises a reduction of phenomenal character, and nowhere else.
 
 ## Strongest Rival Readings {#rival-readings}
 
@@ -88,11 +87,11 @@ The Map's reply to the first two rivals is the one Chalmers and Jackson (2001) g
 
 The neutral form alone establishes something modest. A theory that claims to *explain* why experience is felt, and not merely to locate its correlates, has not yet done so. Identity theorists of the Block–Stalnaker kind concede this by replying that no explanation is owed.
 
-A stronger conclusion follows only on the Map's reading: the persisting question marks a real ontological remainder. That conclusion needs the premise the rivals deny. Deploying the objection therefore does not add independent support to [[tenets#^dualism|Tenet 1]]. Repeated across seven theories, it shows that seven theories face the same question. It does not supply seven arguments for dualism.
+A stronger conclusion follows only on the Map's reading: the persisting question marks a real ontological remainder. That conclusion needs the premise the rivals deny. Deploying the objection therefore does not add independent support to [[tenets#^dualism|Tenet 1]]. Repeated across six theories, it shows that six theories face the same question. It does not supply six arguments for dualism.
 
 ### Does the Objection Prove Too Much? {#proves-too-much}
 
-If every reduction relocates rather than resolves, then the objection counts against thermodynamics as much as against recurrent processing theory. The Map's pages divide on this. [[emergence-as-universal-hard-problem]] holds that "relocation rather than resolution — characterises every successful reduction," including temperature. [[neural-correlates-of-consciousness]] treats the heat case as the benchmark of a gap that closed, so that NCC findings becoming "increasingly intelligible" in the same way would count against the Map. On the universalist reading, the objection stops singling out consciousness and becomes a thesis about reduction in general. On the benchmark reading, it depends on phenomenal concepts differing from role concepts, which is the Chalmers–Jackson premise. The Map's deployments against the scientific theories use the second reading. The universalist page is a further and more contested proposal.
+If every reduction relocates rather than resolves, then the objection counts against thermodynamics as much as against recurrent processing theory. The Map's pages divide on this. [[emergence-as-universal-hard-problem]] holds that "relocation rather than resolution — characterises every successful reduction," including temperature. [[neural-correlates-of-consciousness]] treats heat and molecular motion as the case of a gap that closed: a "trend toward transparency" in NCC findings "would favour identity", though the page adds that no agreed scale measures such a trend and that the gap's persistence decides nothing, since Type-B physicalism predicts it too. On the universalist reading, the objection stops singling out consciousness and becomes a thesis about reduction in general. On the benchmark reading, it depends on phenomenal concepts differing from role concepts, which is the Chalmers–Jackson premise. The Map's deployments against the scientific theories use the second reading. The universalist page is a further and more contested proposal.
 
 ## The Two-Edged Form {#two-edged}
 
@@ -106,7 +105,7 @@ The recurrent processing page states the limit best: "The difference claimed her
 
 Three rules of use follow.
 
-1. **Aim the objection only at identity or constitution claims.** Against a theory of correlates or of access, or one that denies any further phenomenal fact, it has no target. The GWT and multiple-drafts cases show this.
+1. **Aim the objection only at identity or constitution claims.** Against a theory of correlates or of access, or one that denies any further phenomenal fact, it has no target. The NCC, GWT and multiple-drafts cases show this.
 2. **Grant the empirical achievement first.** Each worked case concedes the rival's mechanism. Several also re-read the correlate as a candidate coupling site; that is Map speculation the objection does not establish.
 3. **Never report the objection as a refutation.** It shows that a reduction remains owed. Showing that the reduction cannot be given would need the premise the rival readings dispute.
 
