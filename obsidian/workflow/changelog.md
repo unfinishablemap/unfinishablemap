@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T10:25:17+00:00
+ai_modified: 2026-10-28T10:45:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-28T10:45:46+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Implicit sense of agency and self-prioritisation in depersonalisation — Ciaunica, Ayache, Haggard et al. 2024 (intentional binding), Woźniak, McEllin, Hohwy & Ciaunica 2023 (bodily vs abstract self-prioritisation), Lane 2020 (minimal-self hypothesis), all verified at the publisher
+- **Output**: [[research/implicit-agency-and-self-prioritisation-in-depersonalisation-2026-10-28]]
+- **Recommended action**: refine (Gemini W1 false at the publisher: the 2024 study is a null on implicit and explicit agency, HIGH DP binding numerically higher; installed one-way wording stands; funded passages drafted for `topics/phenomenology-of-agency-vs-passivity` L125 and `concepts/thought-insertion` L58; hub untouched; Lane 2020 has zero depersonalisation content)
+- **Sources consulted**: 9 (3 full texts, 1 abstract-plus-manuscript, Crossref/PubMed for the rest)
 
 ## 2026-10-28T10:25:17+00:00 - deep-review
 - **Status**: Success
