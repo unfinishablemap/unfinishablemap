@@ -1,18 +1,20 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-10-24 02:41:10+00:00
-ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-28 21:22:47+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 concepts: []
 created: 2026-05-05
-date: '2026-10-24'
+date: '2026-10-28'
 draft: false
-lastmod: 2026-10-24 02:41:10+00:00
+lastmod: 2026-10-28 21:22:47+00:00
 related_articles: []
 title: 'Research Notes - Selection-Only Mind-Influence: Information-Transfer Limits
   and Physical-World Signatures'
 ---
 
 # Research: Selection-Only Mind-Influence — Information-Transfer Limits and Physical-World Signatures
+
+> **Correction 2026-10-28**: references below to a two-author "Maier & Dechamps (2018)" with 12,571 participants (BF01 = 10.07, *Front. Psychol.* 9:379) are to the three-author Maier, Dechamps & Pflitsch (2018), a sequential Bayesian design (stopping at BF 10) with no registration recorded and not a replication; the pre-registered study is Study 2 of Maier & Dechamps (2018, *J. Sci. Explor.* 32(2):265–297, OSF 4fzq8; 175 smokers, 220 non-smokers, BF01 = 11.07).
 
 **Date**: 2026-05-05
 **Search queries used**:

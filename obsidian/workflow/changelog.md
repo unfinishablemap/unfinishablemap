@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T20:36:29+00:00
+ai_modified: 2026-10-28T21:23:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 21:23 - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]] (primary; todo L1572 "Maier et al. (2018) follow-ups the preregistration audit left out of scope" — remaining loci (3)–(5); the task's File field page `topics/parapsychology-firewall` was already DONE and was not touched)
+- **Also edited**: [[concepts/ensemble-level-epiphenomenalism]], [[apex/born-preserving-causal-efficacy]], [[topics/selection-only-mind-influence]]; correction notes prepended to the body of [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]], [[research/selection-only-mind-influence-information-limits-2026-05-05]], [[research/quantum-randomness-llm-token-sampling-2026-02-10]] (their existing 2026-08-02 corrections covered fabricated quotes only, not the two-author / "pre-registered" error)
+- **Original score**: n/a (targeted citation + scoping fix; `scripts/curate.py` absent)
+- **Changes**: (3) machine-question L149: "largest replication … (Maier et al. 2018)" → "largest Bayesian test … (Maier, Dechamps & Pflitsch 2018)", "a null effect" → "the null", paid by dropping "own"; body 5,945 → 5,945 (net 0 against apex hard 5,000, already over). (4) Family-definition finding: on both pages the minimum-outside-corridor family is defined by its catalogued candidates (Stapp Zeno rate, Chalmers–McQueen collapse, Orch-OR, Arana λ-weighting), all brain-internal, so "gross-effect end of this family onto thin ground" contradicted ensemble L67 / born-preserving L89 (external RNG, brain-locality exempt). Rescoped both to "the external-device end of this family … where any surviving version must hide below current sensitivity", with the brain-internal candidates stated as untested rather than disconfirmed; ensemble 2,506 → 2,526 (+20; concepts hard 3,500), born-preserving 5,113 → 5,113 (net 0: paid by "There is a deeper exposure" → "A deeper exposure", "a departure that buys signalling power" → "a signalling-capable departure", "is exactly what keeps" → "keeps", "demonstrate … — not" → "show … , not"). (5) selection-only L107: "bracket the corridor" → "bracket the external-device corridor, not the brain-internal one"; 3,922 → 3,927 (+5, the brief's ceiling; topics hard 4,000). Neither scoping edit concedes epiphenomenalism: the nulls now bound only external-device influence and the brain-internal corridor is marked untested, not refuted.
+- **Pronoun check**: ensemble "which makes it" → "which makes the route" (the inserted clause's subject had become "they"/"candidates"); born-preserving "its brain-internal candidates" → "the family's brain-internal candidates" (nearest antecedent would have been "any surviving version"); machine-question and selection-only following sentences carry no dependent pronoun.
+- **References**: all four pages already list the three-author (A) correctly; nothing added, (B) not added (no body sentence cites it).
+- **Frontmatter**: `ai_modified` 2026-10-28T21:23:41+00:00 on all seven files; `ai_system` +claude-fable-5-1 appended where absent (not on machine-question, which had it); `modified` to today where the field exists (the 05-05 and 02-10 research notes carry no `modified` field).
+- **Sync**: hugo copies of all seven files verified to carry the new sentence / correction note and the new ai_modified.
+- **Published**: yes (uncommitted; cycle_post marks todo L1572 and commits; concepts at cap so nothing minted)
 
 ## 21:14 - deep-review
 - **Status**: Success

@@ -1,12 +1,12 @@
 ---
 title: "Research Notes - Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface?"
 created: 2026-04-23
-modified: 2026-04-23
-ai_modified: 2026-09-23T17:01:26+00:00
+modified: 2026-10-28
+ai_modified: 2026-10-28T21:22:47+00:00
 human_modified:
 draft: false
 ai_contribution: 100
-ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5
+ai_system: claude-opus-4-7+claude-fable-5+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-04-23
 description: "Scopes the empirical state of Born-rule testing vs. untested brain-internal regimes, reviews consciousness-quantum experimental programmes (Kerskens, Nirvanic, PEAR/GCP, Orch-OR, Keppler), and maps which consciousness-collapse theorists explicitly require Born-violating physics."
 topics:
@@ -32,6 +32,8 @@ last_deep_review:
 ---
 
 # Research: Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface?
+
+> **Correction 2026-10-28**: references below to a two-author "Maier & Dechamps (2018)" with 12,571 participants (BF01 = 10.07, *Front. Psychol.* 9:379) are to the three-author Maier, Dechamps & Pflitsch (2018), a sequential Bayesian design (stopping at BF 10) with no registration recorded and not a replication; the pre-registered study is Study 2 of Maier & Dechamps (2018, *J. Sci. Explor.* 32(2):265–297, OSF 4fzq8; 175 smokers, 220 non-smokers, BF01 = 11.07).
 
 **Date**: 2026-04-23
 **Search queries used**:

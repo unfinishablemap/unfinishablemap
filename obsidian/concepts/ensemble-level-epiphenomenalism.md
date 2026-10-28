@@ -2,9 +2,9 @@
 title: "Ensemble-Level Epiphenomenalism"
 description: "The corridor reading's sharpest open question, refined through human-AI iteration: can per-event conscious selection that averages to the Born rule constitute a genuine mental-to-physical channel, or only a hidden idleness?"
 created: 2026-05-27
-modified: 2026-05-27
+modified: 2026-10-28
 human_modified:
-ai_modified: 2026-10-12T14:56:43+00:00
+ai_modified: 2026-10-28T21:22:47+00:00
 last_deep_review: 2026-08-27T10:09:12+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[multi-agent-born-preservation-problem]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-05-27
 last_curated:
 ---
@@ -58,7 +58,7 @@ A subtler internal seam accompanies this cost, developed in [[interventionist-an
 
 The second escape route bites the first horn of the dilemma deliberately. It reads Minimal Quantum Interaction as "the smallest interaction *actually sufficient*" rather than "the smallest *preserving ensemble statistics*," and accepts that genuine efficacy may require a small but real departure from Born statistics. That gloss is the route's, not the tenet's: Tenet 2's minimality is [[tenets#^minimal-quantum-interaction|empirical-constraint minimality]], ruling out Born-statistics violation, and so endorses the corridor. The route survives as a fallback, accepting a departure held below current detection, and it is the reading the tenet's falsifier (c), detected consciousness-correlated Born-statistics deviation, bites on. The catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum Zeno rate, outcome-biased Chalmers-McQueen collapse, Penrose-Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting, which recovers standard Born statistics as λ → 0.
 
-This route's advantage is that it makes the channel *real in the physicalist's own sense*: a deviation, however suppressed, is in principle detectable, so the mind's efficacy would leave a signature that distinguishes it from both epiphenomenalism and physical randomness. Rated against the evidential-status discipline, this route is the only one of the two that is even potentially **interface-discriminating** — it generates predictions an experiment could confirm or foreclose. Its honest cost is symmetric: it abandons the corridor's conservatism and takes on empirical risk. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the gross-effect end of this family onto thin ground, and any surviving version must hide below current sensitivity — which makes it empirically braver but also, so far, empirically unrewarded.
+This route's advantage is that it makes the channel *real in the physicalist's own sense*: a deviation, however suppressed, is in principle detectable, so the mind's efficacy would leave a signature that distinguishes it from both epiphenomenalism and physical randomness. Rated against the evidential-status discipline, this route is the only one of the two that is even potentially **interface-discriminating** — it generates predictions an experiment could confirm or foreclose. Its honest cost is symmetric: it abandons the corridor's conservatism and takes on empirical risk. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the external-device end of this family onto thin ground, where any surviving version must hide below current sensitivity; the brain-internal candidates catalogued above have not been tested at any grain, so they stand untested rather than disconfirmed — which makes the route empirically braver but also, so far, empirically unrewarded.
 
 ## Why the Worry Has No Free Resolution
 

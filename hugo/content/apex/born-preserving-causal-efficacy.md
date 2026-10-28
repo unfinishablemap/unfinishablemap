@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-22
-ai_modified: 2026-10-04 00:09:02+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-28 21:22:47+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 apex_last_synthesis: 2026-07-16 05:28:00+00:00
 apex_sources:
 - concepts/ensemble-level-epiphenomenalism
@@ -30,7 +30,7 @@ concepts:
 - '[[transactional-interpretation-of-quantum-mechanics]]'
 - '[[bohm-implicate-order-and-active-information]]'
 created: 2026-06-22
-date: &id001 2026-06-22
+date: &id001 2026-10-28
 description: 'The Map''s deepest open challenge stated whole: how conscious selection
   can do genuine causal work while preserving aggregate Born statistics exactly. Candidate
   routes, toy-model desiderata, failure modes, and what would count as progress.'
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 00:46:05+00:00
-lastmod: 2026-10-04 00:09:02+00:00
+lastmod: 2026-10-28 21:22:47+00:00
 modified: *id001
 related_articles:
 - '[[positions/quantum-interface]]'
@@ -129,7 +129,7 @@ Rated against the Map's [evidential-status discipline](/project/evidential-statu
 
 The second route bites the first horn deliberately. A fallback, it glosses "minimal" as "the smallest interaction *actually sufficient*", against the tenet's no-Born-violation constraint, and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**.
 
-Its cost is symmetric and currently unrewarded. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the gross-effect end of this family onto thin ground; any surviving version must hide below current sensitivity. There is a deeper exposure: a departure that buys signalling power would violate no-signalling, and the causal-consistency constraint says the corridor's Born-preservation is exactly what keeps the default reading signalling-safe. A minimum-outside-corridor variant must demonstrate its deviation is signalling-safe — not merely small.
+Its cost is symmetric and currently unrewarded. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the external-device end of this family onto thin ground, where any surviving version must hide below current sensitivity; the family's brain-internal candidates stay untested, not disconfirmed. A deeper exposure: a signalling-capable departure would violate no-signalling, and the causal-consistency constraint says the corridor's Born-preservation keeps the default reading signalling-safe. A minimum-outside-corridor variant must show its deviation is signalling-safe, not merely small.
 
 ### Route 3: Process-1 relocation (efficacy in question-selection)
 
