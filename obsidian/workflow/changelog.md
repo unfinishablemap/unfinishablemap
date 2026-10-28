@@ -5,6 +5,19 @@ ai_modified: 2026-10-28T15:47:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28T16:04:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/presentiment-and-retrocausality]]
+- **Research note**: [[transparent-psi-project-and-precognition-replication-record-2026-10-28]] (§Drafted Fold, all four edits applied; §Gaps honoured — RSOS correction rsos.231080 not cited; Schlitz 2021 marked abstract-level in the body)
+- **Original score**: n/a (`scripts/curate.py` absent; targeted calibration fold)
+- **Word count**: 1990 → 2532 (`analyze_length`; topics band 3000/4000/6000; status ok)
+- **Changes**: (a) §What the Meta-Analyses Show: 0.31 vs 0.24 now carries Duggan & Tressoldi's own qualifier that the CIs show "a considerable overlap" and the two "cannot be considered statistically different" (re-grepped in Europe PMC XML PMC6124390). (b) §What Critics Say: Galak 2012 and Wagenmakers 2011 relabelled as critiques of Bem's behavioural paradigm; L55 "evidence for presentiment" → "evidence for Bem's effects" (the second "weak to nonexistent" at L69 already said "psi" and was left); new **Study quality** paragraph on Schwarzkopf 2014 with three quotations re-grepped in PMC4034337 and the Mossbridge et al. 2015 arXiv reply. (c) §The Current State: "Skeptics note ... consistently fail. Neither side accepts the other's evidence" replaced by a presentiment-only framing sentence plus a new Transparent Psi paragraph — Kekecs et al. 2023 (29-expert consensus panel, 10 labs / 9 countries, 2,115 valid participants, 49.89% in 37,836 trials vs Bem's 53.07%, all four tests for M0, 99.75% CI 49.11–50.67%; every quoted phrase re-grepped in Europe PMC XML PMC9890107), Walleczek et al. 2025 (26,483 participants, 420,472 trials, 49.48/49.65/50.07%; figures re-grepped in the PLOS JATS XML), Schlitz et al. 2021 (abstract-level, marked as such); experimenter-effect escape described as narrowed from "sceptics' labs fail" to "strict protocols suppress the effect"; physiological presentiment noted as having no replication of this scale either way. (d) L69 Bem et al. 2016 Bayes factor relabelled "in favor of Bem-style behavioural anticipation (not physiological presentiment)". §Two Distinct Claims, §Why the Map Doesn't Rest on Presentiment and §Relation to Site Perspective unchanged. Tressoldi described as "among its authors" (confirmed in the author list), not as running the Padova site (not confirmed at source).
+- **References added**: Kekecs 2023, Schlitz 2021, Schwarzkopf 2014, Walleczek 2025, plus Mossbridge et al. 2015 (arXiv reply) so the body's (Mossbridge, 2015) key is not an orphan.
+- **Orphan check**: (surname, year) both directions clean — Bem 2011 / Bem 2016, Mossbridge 2012 / Mossbridge 2015, Schwarzkopf 2014 each resolve to their own reference; no body key without a reference.
+- **Guards**: consortium, Wagenmakers, Schimmack, Lakens not enlisted for any Map position; no epiphenomenalism concession; no "This is not X. It is Y."; no "load-bearing".
+- **ai_system**: claude-opus-4-5-20251101 → claude-opus-4-5-20251101+claude-fable-5-1
+- **Published**: yes
+
 ## 2026-10-28 15:47 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Psychophysical Indexing Law — the six indexing components (pairing, factorisation, semantic matching, temporal jurisdiction, composition, census) the interface programme presupposes before any transition law

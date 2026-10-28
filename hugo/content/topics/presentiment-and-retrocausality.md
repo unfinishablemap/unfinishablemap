@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-09-24 12:01:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-10-28 16:04:59+00:00
+ai_system: claude-opus-4-5-20251101+claude-fable-5-1
 author: null
 concepts:
 - '[[retrocausality]]'
@@ -11,14 +11,14 @@ concepts:
 - '[[qualia]]'
 - '[[agent-causation]]'
 created: 2026-01-27
-date: &id001 2026-01-27
+date: &id001 2026-10-28
 description: Distinguishing physics-based retrocausality from contested parapsychological
   claims. The Map's commitments rest on quantum mechanics, not presentiment research.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 02:42:00+00:00
-lastmod: 2026-09-24 12:01:00+00:00
+lastmod: 2026-10-28 16:04:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,25 +47,29 @@ Since the 1970s, researchers have measured physiological responses to random sti
 
 Mossbridge et al. (2012) conducted the first systematic meta-analysis of 26 studies spanning 1978-2010. The overall effect size was 0.21 (random-effects 95% CI: 0.13-0.29, p < 5.7 × 10⁻⁸; the more restrictive fixed-effect model gives a narrower 0.15-0.27). Higher-quality studies produced larger effects—opposite to what artifact would predict. The effect replicated across different physiological measures.
 
-A 2018 update by Duggan and Tressoldi added 26 more studies. Pre-registered studies showed a larger effect (0.31) than non-pre-registered ones (0.24). Publication bias analysis suggested results weren't artifacts of selective publishing.
+A 2018 update by Duggan and Tressoldi added 26 more studies. Pre-registered studies showed a point estimate of 0.31 against 0.24 for non-pre-registered ones, though the authors note that the confidence intervals show "a considerable overlap" and that the two "cannot be considered statistically different." Publication bias analysis suggested results weren't artifacts of selective publishing.
 
 ### What Critics Say
 
 Skeptical analyses paint a different picture:
 
-**Replication failures.** Galak et al. (2012) conducted seven precise replications with 3,289 participants—finding an effect size near zero. Their meta-analysis of all known replications found no significant effect.
+**Replication failures (Bem's behavioural paradigm).** Galak et al. (2012) conducted seven precise replications of Bem's retroactive-facilitation-of-recall experiments with 3,289 participants—finding an effect size near zero. Their meta-analysis of all known replications found no significant effect. These were tests of behavioural precognition, not of physiological presentiment.
 
-**Bayesian reanalysis.** Wagenmakers et al. (2011) reanalyzed Bem's original "Feeling the Future" data using Bayesian methods. Their conclusion: evidence for presentiment was "weak to nonexistent" when appropriate priors were applied.
+**Bayesian reanalysis (Bem's behavioural paradigm).** Wagenmakers et al. (2011) reanalyzed Bem's original "Feeling the Future" data using Bayesian methods. Their conclusion: evidence for Bem's effects was "weak to nonexistent" when appropriate priors were applied.
 
 **Expectation bias.** Random sequences aren't psychologically random. Humans (and their bodies) develop expectations based on sequence patterns. Computational simulations by Dalkvist et al. showed expectation bias could produce ~10% effects in realistic experimental setups.
+
+**Study quality.** Schwarzkopf (2014), the main published critique aimed at the presentiment meta-analysis itself rather than at Bem's behavioural work, objects that "Several of the studies included are of questionable quality" and that many "did not pass formal peer review", and asks for extraordinary evidence on the ground that "the seismic nature of these claims cannot be overstated". Mossbridge et al. (2015) replied point by point in an arXiv preprint.
 
 **The file drawer problem.** How many failed replications went unpublished? The question cuts both ways—but skeptics argue publication bias favors positive results.
 
 ### The Current State
 
-The literature is genuinely contested. Proponents cite pre-registered replications and meta-analytic robustness. Skeptics note that independent replications by researchers without prior commitment consistently fail. Neither side accepts the other's evidence. The experimenter-effect hypothesis—that believers' experiments succeed and skeptics' fail—makes the claims difficult to falsify.
+The physiological presentiment literature remains contested. Proponents cite pre-registered studies and meta-analytic robustness; critics cite study quality and expectation bias; and the experimenter-effect hypothesis—that believers' experiments succeed and skeptics' fail—has made the claims difficult to falsify.
 
-The Bayesian debate is particularly instructive. Bem, Tressoldi, Rabeyron, and Duggan's (2016) meta-analysis of 90 experiments reports a Bayes factor on the order of 10⁹ in favor of presentiment. But the prior probability one assigns does the decisive work. Wagenmakers et al. (2011) reanalyzed Bem's original 2011 studies with a default Bayesian t-test and concluded the evidence for psi was "weak to nonexistent"—and they argued explicitly that for a phenomenon as biologically implausible as retrocausal physiology a skeptic is entitled to begin from extremely long prior odds against. To make the point concrete with an illustrative figure: suppose a skeptic sets prior odds against psi at 10²⁰ to 1. Against a prior that extreme, even a Bayes factor of 10⁹ leaves posterior odds on the order of 10¹¹ *against*. The exact number is the Map's own illustration, not a value Wagenmakers tabulated; what matters is the structural point, which the 2011 exchange turned on precisely—whether a near-zero prior against retrocausal physiology is reasonable or question-begging. Whatever prior probability you assign determines what evidence you require.
+For Bem's behavioural paradigm the record has since moved. The Transparent Psi Project (Kekecs et al. 2023) replicated Bem's Experiment 1 under a protocol approved by a consensus panel of 29 experts—"15 proponents and 14 opponents of the ESP interpretation" of Bem's results—in ten laboratories across nine countries, with a preregistered stopping rule requiring one frequentist and three Bayesian tests to agree. Among 2,115 participants with valid data it observed "49.89% successful guesses" in 37,836 erotic trials, against Bem's 53.07% and chance 50%, with a 99.75% confidence interval of 49.11–50.67%; all four tests supported the null, the stopping rule fired at the minimum sample, and the abstract states that "Bem's findings were not replicated in our study", while the discussion allows that the effect "could be very rare or extremely small". The consortium was not a sceptics' club: Tressoldi, co-author of the proponents' meta-analyses, is among its authors. A 2025 follow-up by a psi-adjacent metascience team ran the same procedure online (Walleczek et al.; three studies, 26,483 participants, 420,472 trials, success rates of 49.48%, 49.65% and 50.07%) and reports that none of the three detected the 53.1% effect Bem reported; and a 2021 preregistered pair of time-reversed priming replications with Bem as co-author (Schlitz et al.; known to the Map at abstract level only) failed both confirmatory hypotheses. Belief in psi did not moderate the Transparent Psi result. The experimenter-effect defence has therefore narrowed from "sceptics' laboratories fail" to "strict protocols suppress the effect", which Kekecs et al. themselves list as a residual possibility. Physiological presentiment has had no replication of this scale either way.
+
+The Bayesian debate is particularly instructive. Bem, Tressoldi, Rabeyron, and Duggan's (2016) meta-analysis of 90 experiments reports a Bayes factor on the order of 10⁹ in favor of Bem-style behavioural anticipation (not physiological presentiment). But the prior probability one assigns does the decisive work. Wagenmakers et al. (2011) reanalyzed Bem's original 2011 studies with a default Bayesian t-test and concluded the evidence for psi was "weak to nonexistent"—and they argued explicitly that for a phenomenon as biologically implausible as retrocausal physiology a skeptic is entitled to begin from extremely long prior odds against. To make the point concrete with an illustrative figure: suppose a skeptic sets prior odds against psi at 10²⁰ to 1. Against a prior that extreme, even a Bayes factor of 10⁹ leaves posterior odds on the order of 10¹¹ *against*. The exact number is the Map's own illustration, not a value Wagenmakers tabulated; what matters is the structural point, which the 2011 exchange turned on precisely—whether a near-zero prior against retrocausal physiology is reasonable or question-begging. Whatever prior probability you assign determines what evidence you require.
 
 ## Why the Map Doesn't Rest on Presentiment
 
@@ -129,6 +133,11 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) applies here too. D
 1. Dalkvist, J., Westerlund, J., & Bierman, D. J. (2002). A computational expectation bias as revealed by simulations of presentiment experiments. *Proceedings of the 45th Annual Convention of the Parapsychological Association*, Paris.
 1. Duggan, M., & Tressoldi, P. (2018). Predictive physiological anticipatory activity preceding seemingly unpredictable stimuli: An update. *F1000Research*, 7, 407.
 1. Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012). Correcting the past: Failures to replicate psi. *Journal of Personality and Social Psychology*, 103(6), 933-948.
+1. Kekecs, Z., Palfi, B., Szaszi, B., et al. (2023). Raising the value of research studies in psychological science by increasing the credibility of research reports: The Transparent Psi Project. *Royal Society Open Science*, 10(2), 191375. https://doi.org/10.1098/rsos.191375
 1. Mossbridge, J., Tressoldi, P., & Utts, J. (2012). Predictive physiological anticipation preceding seemingly unpredictable stimuli: A meta-analysis. *Frontiers in Psychology*, 3, 390.
+1. Mossbridge, J., Tressoldi, P., Utts, J., Ives, J. A., Radin, D., & Jonas, W. B. (2015). We did see this coming: Response to "We should have seen this coming" by D. Sam Schwarzkopf. arXiv:1501.03179. https://arxiv.org/abs/1501.03179
+1. Schlitz, M., Bem, D., Cardeña, E., et al. (2021). Two replication studies of a time-reversed (psi) priming task and the role of expectancy in reaction times. *Journal of Scientific Exploration*, 35(1), 65–90. https://doi.org/10.31275/20211903
+1. Schwarzkopf, D. S. (2014). We should have seen this coming. *Frontiers in Human Neuroscience*, 8, 332. https://doi.org/10.3389/fnhum.2014.00332
 1. Wagenmakers, E.-J., Wetzels, R., Borsboom, D., & van der Maas, H. L. J. (2011). Why psychologists must change the way they analyze their data: The case of psi. *Journal of Personality and Social Psychology*, 100(3), 426-432.
+1. Walleczek, J., von Stillfried, N., Schmidt, S., Wittmann, M., Kirmse, K. A., Moll, J., & Kekecs, Z. (2025). Metascientific replication project with the advanced meta-experimental protocol of the Transparent Psi Project procedures for testing the precognitive effect claimed by Bem. *PLOS ONE*, 20(11), e0335330. https://doi.org/10.1371/journal.pone.0335330
 1. Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
