@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-28 08:40:51+00:00
+ai_modified: 2026-10-28 09:50:19+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-14 21:26:18+00:00
-lastmod: 2026-10-28 08:40:51+00:00
+lastmod: 2026-10-28 09:50:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ Gray's sentence also bears on the Map: any argument from "consciousness has effe
 
 ## The Penny-Toss Objection {#penny-toss}
 
-Compton's model had two layers. In 1931 and in *The Freedom of Man* (1935), a photon reaching one of two amplifier-wired photocells decides whether dynamite explodes or a cut-out switch disarms it; since the nervous system, as Ralph Lillie had argued in 1927, is itself such an amplifier, physical law ceases to be evidence against freedom. Compton added that this alone does not show the organism free, and met the charge of mere chance by treating deliberate acts as individual events outside statistics (pp. 63 f., via Popper's n. 44). The second layer was a selector: Compton "very tentatively accepted" that minds act "by influencing or selecting some quantum jumps" (p. 233). Popper said Compton "did not particularly like" the model and "used it for one purpose only: to show that human indeterminism … does not necessarily contradict quantum physics. I think he was right in all this" (pp. 227, 233). The standard Popper applied, freedom as "a subtle interplay between something almost random or haphazard, and something like a restrictive or selective control", he named "Compton's postulate of freedom" (pp. 231–232). Compton was his standard's source, not only his target.
+Compton's model had two layers. In 1931 and in *The Freedom of Man* (1935), a photon reaching one of two amplifier-wired photocells decides whether dynamite explodes or a cut-out switch disarms it; since the nervous system, as [Ralph Lillie had argued in 1927](/topics/first-quantum-free-will-wave-1927-1940/), is itself such an amplifier, physical law ceases to be evidence against freedom. Compton added that this alone does not show the organism free, and met the charge of mere chance by treating deliberate acts as individual events outside statistics (pp. 63 f., via Popper's n. 44). The second layer was a selector: Compton "very tentatively accepted" that minds act "by influencing or selecting some quantum jumps" (p. 233). Popper said Compton "did not particularly like" the model and "used it for one purpose only: to show that human indeterminism … does not necessarily contradict quantum physics. I think he was right in all this" (pp. 227, 233). The standard Popper applied, freedom as "a subtle interplay between something almost random or haphazard, and something like a restrictive or selective control", he named "Compton's postulate of freedom" (pp. 231–232). Compton was his standard's source, not only his target.
 
 Popper's verdict in "Of Clouds and Clocks" was blunt: "the model has no similarity to any rational decision. It is, rather, a model of a kind of decision-making where people who cannot make up their minds say: 'Let us toss a penny'" (Popper 1972, p. 228). He conceded that "something like the amplification of a quantum jump may actually happen in our brains if we make a snap-decision", then asked: "But are snap-decisions really so very interesting?" His answer: "I do not think that we shall get much further with quantum jumps" (p. 228).
 

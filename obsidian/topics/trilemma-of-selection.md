@@ -4,7 +4,7 @@ description: "At a decision point of genuine indeterminacy the trilemma foregrou
 created: 2026-03-10
 modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-25T15:41:37+00:00
+ai_modified: 2026-10-28T09:50:19+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -55,7 +55,7 @@ The Map's response: compatibilism redescribes rather than explains. If the outco
 
 ### Horn 2: Randomness
 
-Quantum mechanics breaks determinism. Before measurement, systems exist in superposition; which outcome actualises is not determined by prior states. This creates genuine openness—but openness alone is not freedom.
+Quantum mechanics breaks determinism. Before measurement, systems exist in superposition; which outcome actualises is not determined by prior states. This creates genuine openness—but [[first-quantum-free-will-wave-1927-1940|openness alone is not freedom]].
 
 Van Inwagen's rollback argument (2000) makes the problem vivid: rewind time to just before a quantum-indeterminate decision. The agent's complete physical state is identical in every replay. Yet outcomes differ. Nothing about the agent explains the difference. The difference is luck.
 

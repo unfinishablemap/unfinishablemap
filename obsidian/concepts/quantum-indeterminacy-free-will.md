@@ -4,7 +4,7 @@ description: "How quantum indeterminacy opens space for libertarian free will, a
 created: 2026-01-18
 modified: 2026-10-20
 human_modified: null
-ai_modified: 2026-10-26T02:41:30+00:00
+ai_modified: 2026-10-28T09:50:19+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -30,6 +30,7 @@ concepts:
   - "[[delegatory-causation]]"
   - "[[compatibilist-symmetry-challenge]]"
   - "[[trilemma-of-selection]]"
+  - "[[first-quantum-free-will-wave-1927-1940]]"
   - "[[witness-consciousness]]"
   - "[[buddhism-and-dualism]]"
   - "[[haecceity]]"
@@ -45,7 +46,7 @@ related_articles:
   - "[[moral-implications-of-genuine-agency]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-07-25T09:33:15+00:00

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-10-26 02:41:30+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
+ai_modified: 2026-10-28 09:50:19+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/luck-objection/
@@ -27,6 +27,7 @@ concepts:
 - '[[delegatory-causation]]'
 - '[[compatibilist-symmetry-challenge]]'
 - '[[trilemma-of-selection]]'
+- '[[first-quantum-free-will-wave-1927-1940]]'
 - '[[witness-consciousness]]'
 - '[[buddhism-and-dualism]]'
 - '[[haecceity]]'
@@ -43,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 09:33:15+00:00
-lastmod: 2026-10-26 02:41:30+00:00
+lastmod: 2026-10-28 09:50:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

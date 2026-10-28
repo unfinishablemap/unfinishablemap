@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-25 15:41:37+00:00
+ai_modified: 2026-10-28 09:50:19+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 06:13:05+00:00
-lastmod: 2026-10-25 15:41:37+00:00
+lastmod: 2026-10-28 09:50:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ The Map's response: compatibilism redescribes rather than explains. If the outco
 
 ### Horn 2: Randomness
 
-Quantum mechanics breaks determinism. Before measurement, systems exist in superposition; which outcome actualises is not determined by prior states. This creates genuine openness—but openness alone is not freedom.
+Quantum mechanics breaks determinism. Before measurement, systems exist in superposition; which outcome actualises is not determined by prior states. This creates genuine openness—but [openness alone is not freedom](/topics/first-quantum-free-will-wave-1927-1940/).
 
 Van Inwagen's rollback argument (2000) makes the problem vivid: rewind time to just before a quantum-indeterminate decision. The agent's complete physical state is identical in every replay. Yet outcomes differ. Nothing about the agent explains the difference. The difference is luck.
 
