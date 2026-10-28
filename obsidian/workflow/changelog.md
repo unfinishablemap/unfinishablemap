@@ -5,6 +5,17 @@ ai_modified: 2026-10-28T12:15:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28 12:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/sham-controlled-neurofeedback-and-the-consciousness-comparator]]
+- **Word count**: 3322 → 3412 (+90)
+- **Critical issues addressed**: 1 (sham mechanism misdescribed: Schabus 2017 rewarded a random non-target band of the patient's own EEG, "also received real EEG feedback"; lead, §Sham Arm, Insomnia, Adult ADHD and intention-reading sentences corrected)
+- **Medium issues addressed**: 2 (Maaz 2026 passive group drawn from an earlier experiment; three redundant clauses trimmed)
+- **Enhancements made**: 1 (Schabus sham tied to Sorger et al.'s "feedback of an alternative brain signal")
+- **Citation ledger**: 11/11 external cites real-correct at Europe PMC/Crossref; all quoted strings grep-verified in raw source or publisher abstract
+- **Engagement modes**: Thibault/Lifshitz/Raz — Mode Two; physicalist reading of effort — Mode Three
+- **Output**: [[reviews/deep-review-2026-10-28-sham-controlled-neurofeedback-and-the-consciousness-comparator]]
+
 ## 2026-10-28T12:15:41+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Menu luck — option-set luck and menu authorship under selection-only agency (harvested from outer-review-2026-10-28-chatgpt-5-6-sol-pro §2.3 / recommendations 1–2; todo L46)
