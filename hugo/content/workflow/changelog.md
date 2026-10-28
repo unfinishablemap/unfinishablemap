@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-28 08:00 UTC - research-topic
+- **Status**: Success
+- **Topic**: Popper's positive theory of the intermediate category: plastic control (1965), "Indeterminism Is Not Enough" (1973/1982), the 1977 retraction of the snap-decision objection, and the comparison with the Map's selection posit
+- **Output**: [popper-plastic-control-and-indeterminism-is-not-enough-2026-10-28](/research/popper-plastic-control-and-indeterminism-is-not-enough-2026-10-28/)
+- **Sources consulted**: 10 (Of Clouds and Clocks read in full from the raw OCR with running-head pages; The Open Universe Addendum 1 and the 1987 Darwin Lecture reprint verified by Google Books search-within with control queries; Frederick 2010 read in full; Hannay 1972 not reached)
+- **recommended_action**: refine (host `concepts/popper-three-worlds-interactionism`: correct L68 "nothing in Popper's texts grants it" with Popper 1987 p. 147, add a plastic-control paragraph to §What the Map Can Take after the L3406 Compton fold lands; ≤40-word secondary via the L3371 trilemma Horn 2 task). The chain mints nothing for refine: hand-mint.
+
 ## 2026-10-28T07:32:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [architectural-adequacy-at-the-built-edge](/topics/architectural-adequacy-at-the-built-edge/)
