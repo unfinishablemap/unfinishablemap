@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28 14:15:11+00:00
+ai_modified: 2026-10-28 14:59:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-28'
-lastmod: 2026-10-28 14:15:11+00:00
+lastmod: 2026-10-28 14:59:23+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-28T14:59:23+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Option-Generation Void (the prechoice stage in which a few candidate actions come to mind and the rest never do, with no felt mark of their absence: Kalis–Kaiser–Mojzisch 2013, Gettys et al. 1987 via Del Missier et al. 2015, Bear et al. 2020, Phillips–Morris–Cushman 2019, Morris et al. 2021, Ang et al. 2018, Dracheva–Phillips 2025, Wolpe et al. 2026 preprint)
+- **Category**: Occluded (primary; architectural) / Unexplored (the science assumed the menu until 2013) / Unexplorable (open)
+- **Output**: [voids-option-generation-void-2026-10-28](/research/voids-option-generation-void-2026-10-28/)
+- **Key finding**: What comes to mind is sampled from a likely-×-good prior, the generator is pharmacologically and clinically dissociable from the chooser, and subjects who produce a limited part of the option space report near-completeness — so on the Map's selection-only channel the edge of the menu is the edge of agency and cannot be audited from inside.
+- **Dedup**: 113 live void slugs and 226 banked voids-* stems listed; near-misses rejected: relevance-void (presence vs generation), decision-void (downstream), counterfactual-void (retrospective), unawareness-void bank note (belief vs action), spontaneous-thought/readiness/initiation/creativity/cluelessness bank notes; the driver's "matching void" candidate rejected as already covered by causal-interface + interface-formalization-void and the indexing-law concept chain. Zero corpus hits for the option-generation literature.
+- **Recommended action**: article (`option-generation-void`) — BANKED per the standing cap/cadence NEEDS-HUMAN; no expand-topic minted, pending_articles untouched. Capacity 113/125 at 14:49Z.
+- **Sources**: 5 read raw (Kalis 2013, Del Missier 2015, Ang 2018, Smaldino & Richerson 2012, Dracheva & Phillips 2025); 4 abstract-only; Gettys 1987, Johnson & Raab 2003, Klein 1995 not reached (ScienceDirect 403); Levy 2011 (Google Books 429) and Dennett 1978 secondary only.
 
 ## 2026-10-28T14:15:11+00:00 - refine-draft
 - **Status**: Success

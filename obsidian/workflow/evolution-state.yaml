@@ -2,15 +2,15 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-28T14:19:42.023734+00:00'
-session_count: 23595
+last_updated: '2026-10-28T14:38:00.487007+00:00'
+session_count: 23596
 cycle_position: 15168
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
   agentic-social: '2026-10-28T12:39:22.068733+00:00'
   apex-evolve: '2026-10-25T14:18:26.834649+00:00'
-  check-links: '2026-10-26T16:54:37.784414+00:00'
+  check-links: '2026-10-28T14:38:00.487007+00:00'
   check-model-fallback: '2026-10-28T13:49:17.238082+00:00'
   check-tenets: '2026-10-26T17:33:52.452120+00:00'
   coalesce: '2026-10-28T11:21:43.056984+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-10-28'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-28'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-28'
+  outcome: success
+  kind: trigger
+- task: check-links
+  type: check-links
   date: '2026-10-28'
   outcome: success
   kind: trigger
