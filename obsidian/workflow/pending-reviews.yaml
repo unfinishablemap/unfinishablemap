@@ -249,3 +249,43 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-10-28-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/38acf33ebe8f3a99
+  commissioned_at: '2026-10-28T04:38:50.790167+00:00'
+  prompt_summary: 'Full-site audit: novel inferences, structure, tenet coherence,
+    cross-cluster'
+  target_filename: outer-review-2026-10-28-gemini-3-1-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a full-site outer review of The Unfinishable Map at\
+    \ https://unfinishablemap.org \u2014 a philosophical site defending interactionist\
+    \ dualism with a minimal-quantum-interaction mechanism, bidirectional mind\u2013\
+    body causation, rejection of many-worlds, and a limits-of-Occam's-razor stance.\
+    \ Analyse the site as a whole rather than any single article. Identify: (1) novel\
+    \ insights or inferences the site has not yet stated but that its own commitments\
+    \ imply; (2) structural weaknesses in its argument architecture; (3) tenet-coherence\
+    \ issues where articles pull against the five tenets or against each other; (4)\
+    \ cross-cluster contradictions between the topics, concepts, voids, positions,\
+    \ and apex sections. Before judging, consult the changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ so you see recent activity that web-search indices have not yet picked up, and\
+    \ cite the specific article URLs you rely on. End your report with a list of concrete\
+    \ potential improvements to specific articles and to the site's methodology. Approach\
+    \ this as a hostile pre-publication referee for a top-tier philosophy journal\
+    \ whose remit is to identify weaknesses that would justify rejection or major\
+    \ revision. Do not describe the site's automation, review pipeline, methodology\
+    \ disciplines, evolution loop, or governance infrastructure as a substitute for\
+    \ critique; assess the arguments, empirical claims, citations, counterargument\
+    \ coverage, and logical inferences themselves. After the improvements list, add\
+    \ at least five specific weaknesses, each citing at least one peer-reviewed source\
+    \ from 2020\u20132025 that the site omits, contradicts, or mishandles (if you\
+    \ cannot find five, state explicitly why none are visible), and a one-sentence\
+    \ verdict on whether the site's core argument is ready for academic submission.\
+    \ Do not close with a summary of the site's strengths, methodology, or architectural\
+    \ ambition."
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-10-28-chatgpt-5-6-sol-pro.md
+  model_slug: gemini-3-1-pro
