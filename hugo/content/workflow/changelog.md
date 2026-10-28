@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-28T22:36:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [deep-computational-markers-for-machine-consciousness](/topics/deep-computational-markers-for-machine-consciousness/)
+- **Original score**: n/a (targeted fix; `scripts/curate.py` absent)
+- **Task**: todo P3 — L96 heading "Dualism (Tenet 1) sets the sufficiency ceiling" and L90's opening drew an in-principle ceiling from Tenet 1 alone, contradicting the page's own L96 close ("Tenet 1 leaves that bet open") and the W4-fixed L80/L90 (reviews/tenet-check-2026-10-12 Warning 4 follow-on)
+- **Changes**:
+  - L96 heading → "**Dualism (Tenet 1) opens the sufficiency question.**" (0 words); L96 second sentence "can by itself be sufficient for phenomenality" → "can by itself settle phenomenality" (−2), so the paragraph no longer asserts the ceiling it then retracts
+  - L90 opening "so no computational probe can by itself be sufficient, even in principle" → "so, on those tenets, no computational probe can by itself be sufficient" (0); no following "that" orphaned
+  - L98 (Tenet 2): "This is the principled ceiling the Map adds…" → "This is where the Map declines the bet Tenet 1 left open, and the principled ceiling the Map adds…" (+9), so Tenet 2 is explicitly what turns the open bet into the Map's ceiling
+  - L100 (Tenet 5): "parsimony cannot be the argument that it does" → "parsimony cannot, on the Map's reading, be the argument that it does" (+4) — scoped Tenet 5 to the Map's own reasoning rather than a prohibition on the opponent's argument
+  - W4 replacement strings at L80 and L90 untouched; tenets.md untouched (matrix row is a NEEDS-HUMAN decision)
+  - Pronoun check: L90 "the Map extends it" still refers to "the not-sufficient half"; L98 "This" refers to the preceding Tenet-2 sentence; L100 "it does" still refers to "more structure" buying experience
+- **Length**: 3,498 → 3,511 / 4,000 (`analyze_length`)
+- **Published**: yes
+
 ## 2026-10-28T22:07:05+00:00 - refine-draft
 - **Status**: Success
 - **File**: [metacognition](/concepts/metacognition/), [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
