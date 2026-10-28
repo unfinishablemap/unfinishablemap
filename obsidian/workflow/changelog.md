@@ -5,6 +5,19 @@ ai_modified: 2026-10-28T15:47:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28T16:26:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/anosognosia-and-the-reversible-self-monitoring-channel]]
+- **Selection**: one prior review (2026-09-25); top of the zero/one-prior pool (score 50.8) after the three never-reviewed candidates were excluded as edited within two days or task-owned
+- **Word count**: 3071 → 3164 (+93; `analyze_length`, topics 3000/4000/6000, soft band, 836 under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 7 (lead "is not destroyed" → "need not be … in some patients"; "often"/"no longer an example" → "sometimes"/"where it reverses … rather than a standing example"; description "for good" → "in a few reported patients, more lastingly"; video datum replication Besharati et al. 2015 added to §Video self-observation + Status ledger with its three caveats; doubled permanence sentence merged; "lesion-mapping" → "lesion-network" for Kletenik/Monai; erasure-void aside trimmed)
+- **Enhancements made**: 1 (replication citation, web-verified at Crossref/PubMed PMID 24958030; both quotations verbatim in abstract)
+- **Citation ledger**: 13 external entries real-correct; all 26 quotation/number probes hit in raw PubMed abstracts; (surname, year) orphan check clean both directions; superlative helper empty. Prior ledger had mis-sourced the "three negative states" vocabulary to `project/evidential-status-discipline` — it lives in `project/writing-style.md` L450–456; article wording matches the guide
+- **Engagement modes**: Fotopoulou 2009/2010 — Mode Three (interface reading conceded to add nothing the intra-cerebral account lacks); Davies, Aimola Davies & Coltheart 2005 — Mode Three (rival exposited, not refuted); no label leakage
+- **Deferred**: six Further Reading targets lack a reciprocal link (noted in review; `clinical-dissociation` L141 is the natural host but is 4688/4000 and named in seven open tasks — no task minted)
+- **Output**: [[reviews/deep-review-2026-10-28-anosognosia-and-the-reversible-self-monitoring-channel]]
+
 ## 2026-10-28T16:04:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/presentiment-and-retrocausality]]
