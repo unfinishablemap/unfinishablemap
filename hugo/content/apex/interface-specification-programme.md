@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-10-25 17:42:09+00:00
+ai_modified: 2026-10-28 15:46:46+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-07-16 08:49:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:12:18+00:00
-lastmod: 2026-10-25 17:42:09+00:00
+lastmod: 2026-10-28 15:46:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -149,7 +149,7 @@ The gap is real but not damning. Any control law must satisfy five constraints t
 Beyond the control law's form, the programme's own logic implies a set of further gaps it has not yet closed:
 
 - **The semantic mapping problem.** A selector must map intentional *content* — the specific thing willed — onto the physical alternatives available at an indeterminacy. The ~10 bits/second figure is behavioural throughput, not the channel's bandwidth and not the complexity of this content-to-alternatives mapping (as the [bandwidth](/concepts/consciousness-bandwidth-architecture/) discussion above notes). Minimality cannot rest on bit-rate alone while the mapping that assigns willed meanings to physical options is unspecified.
-- **The subject–brain pairing law.** Nothing yet says why *this* subject pairs with *this* nervous system rather than another — the problems of onset, of split-brain cases where one interface appears to become two, and of gradual replacement. Kim's pairing objection is treated in [interactionist-dualism](/concepts/interactionist-dualism/), but at the interface-specification level it remains an unpaid debt underlying every token causal claim.
+- **The subject–brain pairing law.** Nothing yet says why *this* subject pairs with *this* nervous system rather than another, nor which subsystem, which candidate, or when — the indexing components prior to any transition law, booked in [psychophysical-indexing-law](/concepts/psychophysical-indexing-law/). Kim's pairing objection is treated in [interactionist-dualism](/concepts/interactionist-dualism/); at the interface-specification level it remains an unpaid debt underlying every token causal claim.
 - **Timing and preferred-basis eligibility.** The programme does not fix *when* in the decohere-then-select sequence selection acts, nor *which* basis is interface-eligible. [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/) and [quantum-interface](/positions/quantum-interface/) frame the constraint; a worked answer is still owed.
 - **Multi-agent coordination.** Billions of subjects act on a partly-entangled world at once. Exact Born-preservation *and* no-signalling holding simultaneously across all of them requires a global consistency or factorization law that the single-subject causal-consistency result (Torres Alegre 2025) does not yet establish in its many-subject form.
 - **Developmental onset.** When, and through what physical change, the interface first engages ontogenetically is unaddressed — a gap into which the pairing and threshold questions both feed.

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T14:59:23+00:00
+ai_modified: 2026-10-28T15:47:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-28 15:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Psychophysical Indexing Law — the six indexing components (pairing, factorisation, semantic matching, temporal jurisdiction, composition, census) the interface programme presupposes before any transition law
+- **Output**: [[concepts/psychophysical-indexing-law]]
+- **Word count**: 2998 (analyze_length; concepts band 2500/3500/5000; first draft 3,563 self-edited down in three passes)
+- **Based on research**: yes — [[research/psychophysical-indexing-law-2026-10-28]] (8-section plan and binding guards followed; "indexing law" credited to the 2026-10-28 ChatGPT review, problem to Foster 1991 / Kim 2001, 2005, (Glued) to BRVH 2011, factorization problem to Tegmark 2015, boundary problem to Gómez-Emilsson & Percy 2023, "what are the systems" to Zurek 1998)
+- **Section cap**: concepts 369 → 370 of 370 (`count_section_files`) — concepts is now AT CAP
+- **Integration (net-zero)**: apex/interface-specification-programme §The Specification Gap pairing-law bullet swapped to route to the new page (5,107 → 5,106); concepts/selection-only-channel L94 piped reciprocal `[[psychophysical-indexing-law|*which* candidate is realised]]` (3,133 → 3,133). pairing-problem, brain-interface-boundary and positions/ untouched by design (open tasks own them).
+- **Follow-up**: P2 cross-review task minted above `## Completed Tasks` (names P-SC2 "Argued in" and a semantic-matching entry as positions-evolve follow-ups; brain-interface-boundary reciprocal deferred until its open P2 lands)
 
 ## 2026-10-28 15:10 UTC - apex-evolve
 - **Status**: Complete
