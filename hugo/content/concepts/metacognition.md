@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-10-09 12:20:33+00:00
+ai_modified: 2026-10-28 22:06:31+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[self-reference-paradox]]'
 created: 2026-01-18
-date: &id001 2026-05-25
+date: &id001 2026-10-28
 description: Metacognition and metarepresentation are cognitive tools consciousness
   enables, not what consciousness is. Dissociation evidence and comparative cognition
   reveal their distinct but interrelated roles.
@@ -44,7 +44,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:42:36+00:00
-lastmod: 2026-10-09 12:20:33+00:00
+lastmod: 2026-10-28 22:06:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -129,7 +129,7 @@ The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) (Gruber et al. 2015) c
 | **Procedural** | Implicit feelings that guide behaviour | Yes | Yes |
 | **Declarative** | Explicit knowledge of mental states | Limited/Absent | Yes |
 
-A chimpanzee might *feel* uncertain and seek more information, but may not represent that uncertainty *as* uncertainty. Evidence includes: great ape traditions show stability but little cumulative improvement; great apes rarely teach actively (which requires knowing you know something the learner doesn't); tip-of-the-tongue assessment of unretrieved knowledge has no documented analogue in great apes. [Teaching](/concepts/teaching-as-metarepresentation/) is the paradigm case—it requires simultaneously maintaining nested levels (knowing something, knowing that you know, representing the learner's knowledge state) and great apes learn through tolerated scrounging rather than deliberate transmission.
+A chimpanzee might *feel* uncertain and seek more information, but may not represent that uncertainty *as* uncertainty. Evidence includes: great ape traditions show stability but little cumulative improvement; tip-of-the-tongue assessment of unretrieved knowledge has no documented analogue in great apes. [Teaching](/concepts/teaching-as-metarepresentation/) is the paradigm case—it requires simultaneously maintaining nested levels (knowing something, knowing that you know, representing the learner's knowledge state) and great apes learn through tolerated scrounging rather than deliberate transmission.
 
 The Jourdain transition—from procedural to declarative—marks the **metarepresentation threshold**, the boundary between [baseline](/concepts/baseline-cognition/) and consciousness-amplified cognition.
 

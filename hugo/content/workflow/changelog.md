@@ -1,14 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28 20:36:29+00:00
+ai_modified: 2026-10-28 22:07:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-28'
-lastmod: 2026-10-28 20:36:29+00:00
+lastmod: 2026-10-28 22:07:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-28T22:07:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/), [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
+- **Task**: todo L1572 (P3) — metacognition L128 cited ape teaching rarity as evidence of representational absence (the inference `concepts/teaching-as-metarepresentation` L61/L83 rejects); cognitive-distinctiveness L88 "cannot accumulate" overstated Whiten (2015).
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-locus fix from review `reviews/deep-review-2026-10-12-teaching-as-metarepresentation.md` "Out of scope" findings)
+- **Changes**:
+  - `concepts/metacognition` L128: deleted the list item "great apes rarely teach actively (which requires knowing you know something the learner doesn't); " (−14 words). "Evidence includes:" now introduces a two-item list (tradition stability without cumulative improvement; no documented tip-of-the-tongue analogue). The following sentence "[Teaching](/concepts/teaching-as-metarepresentation/) is the paradigm case—it requires…" left untouched; its "it" still binds to Teaching. 3,541 → 3,527 body words (still ≥3,500 hard gate, but shrank as required).
+  - `topics/consciousness-and-cognitive-distinctiveness` L88: "Apes have culture but cannot accumulate improvements across generations. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect." → "Apes have culture but little clear cumulative improvement across generations. Whiten (2015) finds ape cultural transmission but little high-fidelity imitation." (20 → 20 words). Same paragraph, closing clause: "the ratchet never engages" → "the ratchet rarely engages" (consistency with the softened modal; 0 net). 3,984 → 3,984 body words.
+- **Source verification (Whiten 2015)**: DOI 10.1098/rstb.2014.0359 confirmed at Crossref (Phil Trans R Soc B 370(1682), sole author Whiten). The Crossref abstract says nothing about the ratchet or cumulative culture — it is a review of social-learning processes in percussive technology. Full text (PMC4614722, pmc.ncbi.nlm.nih.gov) has ZERO occurrences of "ratchet"; its two "cumulative" hits concern hominin lithics and the evolution of teaching, not apes. What the paper does say: "A common theme across the experimental studies is that there is little sign of imitation, if by this is meant copying the actions of the nut-cracking model with high fidelity and reasonably promptly" (§2(ii)); concluding discussion: "rigorous evidence of a capacity for cultural transmission of such behaviour within and across groups". So "documents that ape cultural transmission lacks the ratchet effect" was not supported by this source; the replacement sentence states what the paper reports. Note: `reviews/deep-review-2026-06-03-consciousness-and-cognitive-distinctiveness.md` L64 ratified the old Whiten sentence as "within the paper's scope" on metadata alone (the citation-ledger-ratifies-the-reading failure); the full-text check contradicts that ratification.
+- **Residual leads (not edited; out of scope, concepts at cap, nothing minted)**: (a) the same unsupported Whiten sentence survives in `archive/topics/consciousness-threshold-in-cognitive-evolution.md` L78 and `archive/topics/consciousness-and-intelligence.md` L88 (served at live /archive/ URLs); (b) cognitive-distinctiveness L88's closing clause "great apes rarely teach precisely because they do not represent their own skills as knowledge another lacks" is the representational-absence → teaching-rarity inference in causal form, which `teaching-as-metarepresentation` L61 also disowns — left in place as outside the task's named loci.
+- **Frontmatter**: both `ai_modified` set from `date -u`; `modified: 2026-10-28`; metacognition `ai_system` unchanged (already contains claude-fable-5-1); cognitive-distinctiveness `ai_system` → `claude-opus-4-6+claude-opus-5+claude-fable-5-1`.
+- **Published**: yes (synced to hugo)
+
+## 2026-10-28T21:51:42+00:00 - coalesce
+- **Status**: Abandoned (no fitting pair; expected steady state)
+- **Method**: same as the 11:21:09Z run — sidecars filtered first (`*.refinement-log*`, section index files); every file named by a live (non-✓) task in the open section of todo.md (above `^## Completed Tasks$`) excluded, which is wider than the morning's P1/file-targeting list and so only shrinks the pool; 14-day age floor on max(modified, ai_modified, human_modified); body-only word counts via `tools.curate.length.analyze_length`; pair affordable iff sum < section hard gate (fires at >=); body links read from `post.content` only (frontmatter excluded), both directions; plus a hub check for any third page whose body links both members of an affordable pair
+- **Pools after filtering**: topics 183 (368 raw, 2 sidecars, 66 excluded, 117 edited <14d); concepts 171 (371 raw, 1 sidecar, 73 excluded, 126 edited <14d); voids 62 (114 raw, 1 sidecar, 11 excluded, 40 edited <14d). Section counts (`tools.evolution.state.count_section_files`): topics 367/370, concepts 370/370 (AT CAP), voids 113/125
+- **Affordable pairs**: topics 0 (smallest 2112 + 2189 = 4301 vs hard 4000); voids 0 (smallest 1826 + 1890 = 3716 vs hard 3000); concepts 100 over 29 distinct members — the short-article tail paired by arithmetic alone (`mind-arena` with quantum interpretations, Yogācāra, kairos, etc.), no duplicative pair among them
+- **Body-linked affordable concepts pairs**: 1, disqualified — `phenomenal-depth` (1475) + `phenomenal-presentation` (1572) = 3047, deliberately split (`**Versus [[phenomenal-depth]].**` at phenomenal-presentation L54 still stands; files last committed 2026-09-25 / 2026-07-27, unchanged since the 11:21Z verdict). The morning's other pair `causal-powers`+`mind-arena` now drops out at the exclusion step: `causal-powers` carries a live todo task
+- **Hub check**: 9 affordable pairs have a third page body-linking both members (max 2 hubs: `gaming-problem`+`mind-arena` via possibility-probability-slippage and apex/machine-question; `phenomenal-depth`+`phenomenal-presentation` via minimal-consciousness and phenomenal-overflow). None is a synthesis of the pair — every one is a page that cites two unrelated concepts in passing — so the pattern that produced real merges before is absent
+- **Not re-litigated** (unchanged since their 10-26 / 10-28 rejections; all inside the pool so no timestamp since 10-14): `perception`+`phenomenal-depth`/`phenomenal-presentation`, `adaptive-computational-depth`+`phenomenal-depth`, `content-externalism`+`status-of-content`
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+
+## 21:23 - refine-draft
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/) (primary; todo L1572 "Maier et al. (2018) follow-ups the preregistration audit left out of scope" — remaining loci (3)–(5); the task's File field page `topics/parapsychology-firewall` was already DONE and was not touched)
+- **Also edited**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/), [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/), [selection-only-mind-influence](/topics/selection-only-mind-influence/); correction notes prepended to the body of [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/), [selection-only-mind-influence-information-limits-2026-05-05](/research/selection-only-mind-influence-information-limits-2026-05-05/), [quantum-randomness-llm-token-sampling-2026-02-10](/research/quantum-randomness-llm-token-sampling-2026-02-10/) (their existing 2026-08-02 corrections covered fabricated quotes only, not the two-author / "pre-registered" error)
+- **Original score**: n/a (targeted citation + scoping fix; `scripts/curate.py` absent)
+- **Changes**: (3) machine-question L149: "largest replication … (Maier et al. 2018)" → "largest Bayesian test … (Maier, Dechamps & Pflitsch 2018)", "a null effect" → "the null", paid by dropping "own"; body 5,945 → 5,945 (net 0 against apex hard 5,000, already over). (4) Family-definition finding: on both pages the minimum-outside-corridor family is defined by its catalogued candidates (Stapp Zeno rate, Chalmers–McQueen collapse, Orch-OR, Arana λ-weighting), all brain-internal, so "gross-effect end of this family onto thin ground" contradicted ensemble L67 / born-preserving L89 (external RNG, brain-locality exempt). Rescoped both to "the external-device end of this family … where any surviving version must hide below current sensitivity", with the brain-internal candidates stated as untested rather than disconfirmed; ensemble 2,506 → 2,526 (+20; concepts hard 3,500), born-preserving 5,113 → 5,113 (net 0: paid by "There is a deeper exposure" → "A deeper exposure", "a departure that buys signalling power" → "a signalling-capable departure", "is exactly what keeps" → "keeps", "demonstrate … — not" → "show … , not"). (5) selection-only L107: "bracket the corridor" → "bracket the external-device corridor, not the brain-internal one"; 3,922 → 3,927 (+5, the brief's ceiling; topics hard 4,000). Neither scoping edit concedes epiphenomenalism: the nulls now bound only external-device influence and the brain-internal corridor is marked untested, not refuted.
+- **Pronoun check**: ensemble "which makes it" → "which makes the route" (the inserted clause's subject had become "they"/"candidates"); born-preserving "its brain-internal candidates" → "the family's brain-internal candidates" (nearest antecedent would have been "any surviving version"); machine-question and selection-only following sentences carry no dependent pronoun.
+- **References**: all four pages already list the three-author (A) correctly; nothing added, (B) not added (no body sentence cites it).
+- **Frontmatter**: `ai_modified` 2026-10-28T21:23:41+00:00 on all seven files; `ai_system` +claude-fable-5-1 appended where absent (not on machine-question, which had it); `modified` to today where the field exists (the 05-05 and 02-10 research notes carry no `modified` field).
+- **Sync**: hugo copies of all seven files verified to carry the new sentence / correction note and the new ai_modified.
+- **Published**: yes (uncommitted; cycle_post marks todo L1572 and commits; concepts at cap so nothing minted)
 
 ## 21:14 - deep-review
 - **Status**: Success

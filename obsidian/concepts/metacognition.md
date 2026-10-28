@@ -2,9 +2,9 @@
 title: "Metacognition, Metarepresentation, and Consciousness"
 description: "Metacognition and metarepresentation are cognitive tools consciousness enables, not what consciousness is. Dissociation evidence and comparative cognition reveal their distinct but interrelated roles."
 created: 2026-01-18
-modified: 2026-05-25
+modified: 2026-10-28
 human_modified: null
-ai_modified: 2026-10-09T12:20:33+00:00
+ai_modified: 2026-10-28T22:06:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,7 +125,7 @@ The [[jourdain-hypothesis|Jourdain Hypothesis]] (Gruber et al. 2015) captures a 
 | **Procedural** | Implicit feelings that guide behaviour | Yes | Yes |
 | **Declarative** | Explicit knowledge of mental states | Limited/Absent | Yes |
 
-A chimpanzee might *feel* uncertain and seek more information, but may not represent that uncertainty *as* uncertainty. Evidence includes: great ape traditions show stability but little cumulative improvement; great apes rarely teach actively (which requires knowing you know something the learner doesn't); tip-of-the-tongue assessment of unretrieved knowledge has no documented analogue in great apes. [[teaching-as-metarepresentation|Teaching]] is the paradigm case—it requires simultaneously maintaining nested levels (knowing something, knowing that you know, representing the learner's knowledge state) and great apes learn through tolerated scrounging rather than deliberate transmission.
+A chimpanzee might *feel* uncertain and seek more information, but may not represent that uncertainty *as* uncertainty. Evidence includes: great ape traditions show stability but little cumulative improvement; tip-of-the-tongue assessment of unretrieved knowledge has no documented analogue in great apes. [[teaching-as-metarepresentation|Teaching]] is the paradigm case—it requires simultaneously maintaining nested levels (knowing something, knowing that you know, representing the learner's knowledge state) and great apes learn through tolerated scrounging rather than deliberate transmission.
 
 The Jourdain transition—from procedural to declarative—marks the **metarepresentation threshold**, the boundary between [[baseline-cognition|baseline]] and consciousness-amplified cognition.
 

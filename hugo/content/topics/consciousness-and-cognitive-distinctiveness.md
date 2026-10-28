@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-10-10 19:53:02+00:00
-ai_system: claude-opus-4-6+claude-opus-5
+ai_modified: 2026-10-28 22:06:31+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /topics/consciousness-and-intelligence/
@@ -34,7 +34,7 @@ concepts:
 - '[[mental-imagery]]'
 - '[[philosophical-zombies]]'
 created: 2026-01-29
-date: &id001 2026-09-10
+date: &id001 2026-10-28
 description: The ape–human cognitive gap admits three rival readings. The Map defends
   phenomenal causation, concedes the comparative data cannot decide, and proposes
   a test.
@@ -42,7 +42,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-10 17:08:54+00:00
-lastmod: 2026-10-10 19:53:02+00:00
+lastmod: 2026-10-28 22:06:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ Four capacities distinguish human from great ape cognition, each mapping onto wh
 
 **Metacognition.** Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge—the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold)—underlies both logical reasoning and transformational creativity. The boundary is narrower than a flat capacity claim suggests, and the evidence has moved. Krupenye et al. (2016) found chimpanzees, bonobos, and orangutans anticipating agents who acted on false beliefs, and Buttelmann et al. (2017) found great apes as a group interpreting behaviour through an agent's false belief in an interactive helping task. Whether these show genuine belief attribution or sophisticated behaviour-reading remains contested (Heyes 2014), and Apperly and Butterfill's (2009) two-systems reading places apes inside an implicit belief-tracking system while reserving the explicit, flexible system for humans ([the theory-of-mind article](/concepts/theory-of-mind/) develops the graded picture). What the record supports is a difference in *explicit* metarepresentation, with implicit belief-like tracking present on both sides.
 
-**Cumulative culture.** Apes have culture but cannot accumulate improvements across generations. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect. Cumulative culture requires recognising one's own knowledge as improvable and transmittable—a metarepresentational capacity inseparable from conscious self-reflection. [Teaching](/concepts/teaching-as-metarepresentation/) is the concrete behavioural exhibit of this exact step: great apes rarely teach precisely because they do not represent their own skills as knowledge another lacks, which is why the ratchet never engages.
+**Cumulative culture.** Apes have culture but little clear cumulative improvement across generations. Whiten (2015) finds ape cultural transmission but little high-fidelity imitation. Cumulative culture requires recognising one's own knowledge as improvable and transmittable—a metarepresentational capacity inseparable from conscious self-reflection. [Teaching](/concepts/teaching-as-metarepresentation/) is the concrete behavioural exhibit of this exact step: great apes rarely teach precisely because they do not represent their own skills as knowledge another lacks, which is why the ratchet rarely engages.
 
 **Logical reasoning.** DeWall, Baumeister, and Masicampo (2008) found that imposing conscious cognitive load impaired logical reasoning while nonconscious load did not. Nonconscious priming activated logic-relevant associations but failed to improve actual reasoning. Explicit rule-following depends on conscious access.
 

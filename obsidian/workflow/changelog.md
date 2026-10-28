@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28T21:51:42+00:00
+ai_modified: 2026-10-28T22:07:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+
+## 2026-10-28T22:07:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/metacognition]], [[topics/consciousness-and-cognitive-distinctiveness]]
+- **Task**: todo L1572 (P3) — metacognition L128 cited ape teaching rarity as evidence of representational absence (the inference `concepts/teaching-as-metarepresentation` L61/L83 rejects); cognitive-distinctiveness L88 "cannot accumulate" overstated Whiten (2015).
+- **Original score**: n/a (`scripts/curate.py` absent; targeted two-locus fix from review `reviews/deep-review-2026-10-12-teaching-as-metarepresentation.md` "Out of scope" findings)
+- **Changes**:
+  - `concepts/metacognition` L128: deleted the list item "great apes rarely teach actively (which requires knowing you know something the learner doesn't); " (−14 words). "Evidence includes:" now introduces a two-item list (tradition stability without cumulative improvement; no documented tip-of-the-tongue analogue). The following sentence "[[teaching-as-metarepresentation|Teaching]] is the paradigm case—it requires…" left untouched; its "it" still binds to Teaching. 3,541 → 3,527 body words (still ≥3,500 hard gate, but shrank as required).
+  - `topics/consciousness-and-cognitive-distinctiveness` L88: "Apes have culture but cannot accumulate improvements across generations. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect." → "Apes have culture but little clear cumulative improvement across generations. Whiten (2015) finds ape cultural transmission but little high-fidelity imitation." (20 → 20 words). Same paragraph, closing clause: "the ratchet never engages" → "the ratchet rarely engages" (consistency with the softened modal; 0 net). 3,984 → 3,984 body words.
+- **Source verification (Whiten 2015)**: DOI 10.1098/rstb.2014.0359 confirmed at Crossref (Phil Trans R Soc B 370(1682), sole author Whiten). The Crossref abstract says nothing about the ratchet or cumulative culture — it is a review of social-learning processes in percussive technology. Full text (PMC4614722, pmc.ncbi.nlm.nih.gov) has ZERO occurrences of "ratchet"; its two "cumulative" hits concern hominin lithics and the evolution of teaching, not apes. What the paper does say: "A common theme across the experimental studies is that there is little sign of imitation, if by this is meant copying the actions of the nut-cracking model with high fidelity and reasonably promptly" (§2(ii)); concluding discussion: "rigorous evidence of a capacity for cultural transmission of such behaviour within and across groups". So "documents that ape cultural transmission lacks the ratchet effect" was not supported by this source; the replacement sentence states what the paper reports. Note: `reviews/deep-review-2026-06-03-consciousness-and-cognitive-distinctiveness.md` L64 ratified the old Whiten sentence as "within the paper's scope" on metadata alone (the citation-ledger-ratifies-the-reading failure); the full-text check contradicts that ratification.
+- **Residual leads (not edited; out of scope, concepts at cap, nothing minted)**: (a) the same unsupported Whiten sentence survives in `archive/topics/consciousness-threshold-in-cognitive-evolution.md` L78 and `archive/topics/consciousness-and-intelligence.md` L88 (served at live /archive/ URLs); (b) cognitive-distinctiveness L88's closing clause "great apes rarely teach precisely because they do not represent their own skills as knowledge another lacks" is the representational-absence → teaching-rarity inference in causal form, which `teaching-as-metarepresentation` L61 also disowns — left in place as outside the task's named loci.
+- **Frontmatter**: both `ai_modified` set from `date -u`; `modified: 2026-10-28`; metacognition `ai_system` unchanged (already contains claude-fable-5-1); cognitive-distinctiveness `ai_system` → `claude-opus-4-6+claude-opus-5+claude-fable-5-1`.
+- **Published**: yes (synced to hugo)
 
 ## 2026-10-28T21:51:42+00:00 - coalesce
 - **Status**: Abandoned (no fitting pair; expected steady state)
