@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-01
-ai_modified: 2026-10-27 07:09:22+00:00
+ai_modified: 2026-10-28 13:32:38+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[self-and-self-consciousness]]'
 - '[[pain-asymbolia]]'
 created: 2026-10-01
-date: &id001 2026-10-27
+date: &id001 2026-10-28
 description: 'A human+AI home page for the Map''s most-cited clinical datum: what
   depersonalisation disorder documents, the rival readings of what comes apart, and
   why the result is a defensible architecture claim with no metaphysical significance
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-01 07:47:30+00:00
-lastmod: 2026-10-27 07:09:22+00:00
+lastmod: 2026-10-28 13:32:38+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-quality-void]]'
@@ -39,13 +39,13 @@ topics:
 - '[[consciousness-and-the-ownership-problem]]'
 ---
 
-Depersonalisation — in the clinical manuals *depersonalization/derealization disorder* (DPDR; DSM-5 300.6, ICD-11 6B66), in much of the philosophical literature *depersonalisation disorder* (DPD) — is a persistent or recurrent alteration in which one's own thoughts, feelings, body and actions, or the world around one, are experienced as unreal, detached, or [observed from outside](/topics/brain-stimulation-and-the-witness-mode/). Three structural facts make it the clinical datum the Map cites more often than any other. Insight is retained: DSM-5 Criterion B requires that "reality testing remains intact" (as transcribed from the manual by secondary sources), so the patient who feels unreal knows she is not. Reports take an "as if" form — the Cambridge Depersonalisation Scale item "Parts of my body feel as if they didn't belong to me" (Sierra & Berrios 2000, as quoted in Billon 2016) is representative — a preface owed to the scale and the phenomenological tradition, not the diagnostic text. And much ordinary perception, memory and action persists — the scale's body and surroundings factors record what alters — while the feeling that any of it is hers, or real, has drained away.
+Depersonalisation — in the clinical manuals *depersonalization/derealization disorder* (DPDR; [DSM-5 300.6, ICD-11 6B66](/concepts/depersonalisation-nosology/)), in much of the philosophical literature *depersonalisation disorder* (DPD) — is a persistent or recurrent alteration in which one's own thoughts, feelings, body and actions, or the world around one, are experienced as unreal, detached, or [observed from outside](/topics/brain-stimulation-and-the-witness-mode/). Three structural facts make it the clinical datum the Map cites more often than any other. Insight is retained: DSM-5 Criterion B requires that "reality testing remains intact" (as transcribed from the manual by secondary sources), so the patient who feels unreal knows she is not. Reports take an "as if" form — the Cambridge Depersonalisation Scale item "Parts of my body feel as if they didn't belong to me" (Sierra & Berrios 2000, as quoted in Billon 2016) is representative — a preface owed to the scale and the phenomenological tradition, not the diagnostic text. And much ordinary perception, memory and action persists — the scale's body and surroundings factors record what alters — while the feeling that any of it is hers, or real, has drained away.
 
 The Map's verdict on this datum runs on two tiers, as it does for [Cotard delusion](/concepts/cotard-delusion/). At the *architecture* tier, depersonalisation establishes that something normally bound to experience can come apart from experiential content with no focal destructive lesion sufficient to explain the symptom, though not on an unchanged brain; whether that something is a single phenomenal feature of [for-me-ness](/concepts/thought-insertion/#for-me-ness-me-ness-and-mineness) (the Map's lean, with Billon, unadjudicated against its [Zahavian kind-claim](/concepts/self-and-self-consciousness/#constitutive-as-kind-not-as-degree)), emotional colouring, a form of awareness, the transparency of self-consciousness, or a bundle of local self-relations is the [contested question below](#four-readings-of-what-comes-apart). At the *significance* tier the result is null: no reading on the table discriminates dualism from physicalism, two of the readings are explicit physicalist models, and the philosopher whose work the Map leans on hardest suggests that what is missing "can only be explained in purely neurophysiological" terms. This page states the datum once so the Map's other treatments can point here.
 
 ## The Clinical Datum
 
-DSM-5 Criterion A describes experiences of "unreality, detachment, or being an outside observer" with respect to one's thoughts, feelings, sensations, body or actions (depersonalisation) or surroundings (derealisation); Criterion B requires intact reality testing; ICD-11 6B66 carries the same two-part description. Transient depersonalisation is common — a systematic review gives a lifetime prevalence of between 26 and 74 per cent in the general population, with clinically significant DPDR "in the region of 1-2%" (Hunter, Sierra & David 2004, abstract) — the disorder adds persistence, distress or impairment and exclusions to a common transient experience.
+DSM-5 Criterion A describes experiences of "unreality, detachment, or being an outside observer" with respect to one's thoughts, feelings, sensations, body or actions (depersonalisation) or surroundings (derealisation); Criterion B requires intact reality testing; ICD-11 6B66 carries the same two-part description. Transient depersonalisation is common — a systematic review gives a lifetime prevalence of between 26 and 74 per cent in the general population, with clinically significant DPDR "in the region of 1-2%" (Hunter, Sierra & David 2004, abstract) — the disorder adds [persistence, distress or impairment and exclusions](/concepts/depersonalisation-nosology/) to a common transient experience.
 
 The Cambridge Depersonalisation Scale (Sierra & Berrios 2000) is the standard instrument, and its exploratory factor analysis found four factors — Anomalous Body Experience, Emotional Numbing, Anomalous Subjective Recall and Alienation from Surroundings — concluding that the symptoms "belong to distinct but related psychopathological domains" (Sierra, Baker, Medford & David 2005, abstract). That structure is one exploratory solution — [a larger sample yielded five factors](/concepts/metacognitive-access-versus-retention/) — and it is where the localist reading starts. Two further facts travel with the datum: the patient's limbic activation to aversive emotional stimuli is reduced (Sierra & David 2011, abstract), and, as Gerrans (2019) puts it for his own account, "It is important to this account that cognition and perception are otherwise intact".
 

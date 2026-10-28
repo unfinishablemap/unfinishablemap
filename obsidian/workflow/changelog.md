@@ -5,6 +5,20 @@ ai_modified: 2026-10-28T12:15:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-28T13:33:38+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Depersonalisation nosology — neurotic (ICD-10 F48.1) versus dissociative (DSM-5, ICD-11 6B66) versus independent (Sierra 2012; Michal 2009/2016); the Hunter 2003 maintenance model and Medford 2005 gloss; the CDDR substance threshold rule and Lambert 2002 medical exclusion; Yang 2023 / Millman 2024 update sources
+- **Output**: [[concepts/depersonalisation-nosology]]
+- **Word count**: 2,398 by analyze_length (prose + Further Reading ~1,860; References ~540; concepts band 2500/3500/5000, status ok). First draft measured 3,129 and was cut in three passes to the 1,800–2,400 brief.
+- **Based on research**: yes — [[depersonalisation-nosology-anxiety-spectrum-versus-dissociative-2026-10-27]]; section plan followed as its Home decision fixed it (lead with three placements + shared insight criterion; What the Manuals Say: ICD-10 / ICD-11 CDDR / DSM-5 second-hand; Anxiety-Spectrum Model and In-House Qualification; Substance and Medical Exclusions; Prevalence and Responsivity 2023–2024; Bearing on the Affective Reading; Relation to Site Perspective)
+- **Section cap**: concepts 368/370 by count_section_files before creation; 369/370 after (1 slot left)
+- **Quotation verification**: all 42 quoted spans (>=3 words) in the final body grep-matched programmatically against the raw sources re-downloaded this session — ICD-10 Blue Book PDF (WHO CDN, pdftotext), ICD-11 CDDR PDF (WHO IRIS, pdftotext; inner quotes around “going crazy” restored to the PDF's U+201C/U+201D glyphs), PubMed efetch abstracts (PMIDs 14583413, 12724246, 14651505, 16005701, 22414660, 19597357, 27349226, 11983788, 22378193, 15022041, 21910187, 35699456, 38944228), Medford et al. 2005 Cambridge Core HTML via DOI. Unverified-in-primary items carried as paraphrase with carrier named: DSM-5 A–E (secondary transcription, flagged in text and ref 3), the "catastrophically misinterpreted" sentence (secondary summary; explicitly NOT reproduced), DSM-5-TR (not consulted). The brief's "Criterion C substance exclusion" is corrected in text to Criterion D. Baker et al. 2003 carries PMID rather than a DOI (PubMed lists none; a guessed DOI was removed before publication).
+- **Hub integration**: `concepts/depersonalisation` — two zero-cost pipes installed exactly as the note specified (L37 `[[depersonalisation-nosology|DSM-5 300.6, ICD-11 6B66]]`, L43 `[[depersonalisation-nosology|persistence, distress or impairment and exclusions]]`); analyze_length 3,498 before and after; ai_modified bumped; ai_system already carried claude-fable-5-1. `topics/clinical-dissociation-as-systematic-evidence` (4,688, over gate) NOT touched — its L92 named as a future host in the cross-review task.
+- **Attribution discipline**: the anxiety-spectrum sentence is cited to Medford, Sierra, Baker & David 2005 as a gloss, not to Hunter 2003; Hunter/Sierra/Medford/David presented as one unit maturing, not opposing schools; no clinician enlisted for dualism; verdict "compatible with, not evidenced by" piped to the hub's two-tier section; epiphenomenalism not conceded; affective reading stated as one party to a dispute, not consensus. Sibling 2026-10-28 agency note cross-referenced in one clause, not duplicated.
+- **Tasks minted**: P2 cross-review for the new page (reciprocal hosts clinical-dissociation L92 and mine-ness, zero-cost only) above `## Completed Tasks`; parse_tasks active 264 → 265.
+- **Apex sources**: none — new path absent from apex-articles.md.
+- **Published**: yes (draft: false)
+
 ## 2026-10-28T13:11:33+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/pairing-problem]] (primary: §Response 2 + References); [[concepts/haecceity]] (L103 + related-links label); [[concepts/objections-to-interactionism]] (§The Haecceities Response → §Bailey, Rasmussen and Van Horn's Reply)
