@@ -2,9 +2,9 @@
 title: "Materialism"
 description: "Why physicalism fails to explain consciousness. The explanatory gap, knowledge argument, and zombie conceivability reveal irreducible phenomenal properties."
 created: 2026-01-14
-modified: 2026-10-02
+modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-10-10T02:34:27+00:00
+ai_modified: 2026-10-29T00:36:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -177,7 +177,7 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 **Bidirectional Interaction** is needed because rejecting materialism could lead to [[concepts/epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. The Map rejects this move as a tenet-level commitment: it holds that consciousness causally influences physical outcomes, and takes our ability to discuss experience as evidence against the alternative and its deepest difficulty, though not its refutation ([[tenets#^tenet-3-epiphenomenalism|Tenet 3's standing]]).
 
-**Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
+**Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. The Map holds that consciousness acts there, biasing otherwise undetermined outcomes.
 
 **Occam's Razor Has Limits** explains why materialism's apparent simplicity is misleading. [[parsimony-epistemology|Parsimony epistemology]] shows that "simplicity" fragments into competing dimensions—ontological, syntactic, and explanatory—that yield contradictory verdicts.
 

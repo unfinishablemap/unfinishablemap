@@ -1,7 +1,7 @@
 ---
 ai_contribution: 15
 ai_generated_date: null
-ai_modified: 2026-10-12 13:40:45+00:00
+ai_modified: 2026-10-29 00:36:47+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 author: Andy Southgate
 concepts:
@@ -13,13 +13,13 @@ concepts:
 - '[[substance-property-dualism]]'
 - '[[dualism]]'
 created: 2026-01-02
-date: &id001 2026-01-02
+date: &id001 2026-10-29
 description: Five commitments that bound every article on The Unfinishable Map—chosen
   starting points, not proofs, exploring consciousness and the limits of knowability.
 draft: false
 human_modified: 2026-01-02 14:18:31+00:00
 last_curated: null
-lastmod: 2026-10-12 13:40:45+00:00
+lastmod: 2026-10-29 00:36:47+00:00
 modified: *id001
 related_articles:
 - '[[cognitive-science-dualism-2026-01-15]]'
@@ -68,9 +68,9 @@ The smallest possible non-physical influence on physical outcomes. <span id="min
 
 **Definition:** If consciousness can influence the physical world, it must do so at the quantum level—biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws. This tenet commits to the *minimal* such interaction: the smallest deviation from standard quantum mechanics that could permit mind-matter causation.
 
-**Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more. Crucially, this tenet rejects the strong causal closure of physics that [epiphenomenalism](/concepts/epiphenomenalism/) depends on: the claim that every physical event has a sufficient physical cause. Physics is *not* complete at quantum indeterminacies—and that's where consciousness acts.
+**Rationale:** If dualism is true, there must be some interface where mind and matter meet. Quantum indeterminacy provides a candidate location—decisions might be made where physics leaves outcomes undetermined. The principle of minimality says: assume the smallest intervention necessary, not more. Crucially, this tenet rejects the strong causal closure of physics that [epiphenomenalism](/concepts/epiphenomenalism/) depends on: the claim that every physical event has a sufficient physical cause. Physics is *not* complete at quantum indeterminacies—and that is where the Map holds consciousness acts, a commitment whose standing [the register](/positions/quantum-interface/) records.
 
-**Minimality as empirical constraint, not truth-tracking:** Tenet 2's "minimal" is not the kind of minimality [Tenet 5](/tenets/#occams-limits) declares unreliable. Tenet 5 binds parsimony as a *truth-tracking* heuristic—the claim that the simpler theory is more likely true. Tenet 2's minimality is *empirical-constraint* minimality, fixed by the Rules-out clause below: the interaction must respect the empirical record (no detectable energy injection, no Born-statistics violation, no conservation-law violation). The Map does not claim that within those constraints the smallest interaction is most likely true—only that no larger interaction is empirically tenable. Tenet 5's symmetric self-binding therefore applies to parsimony arguments *for or against* the framework but not to the rules-out clause itself, which is constraint-respecting rather than parsimony-tracking.
+**Minimality as empirical constraint, not truth-tracking:** Tenet 2's "minimal" is not the kind of minimality [Tenet 5](/tenets/#occams-limits) declares unreliable. Tenet 5 binds parsimony as a *truth-tracking* heuristic—the claim that the simpler theory is more likely true. Tenet 2's minimality is *empirical-constraint* minimality, fixed by the Rules-out clause below: the interaction must respect the empirical record (no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation). The Map does not claim that within those constraints the smallest interaction is most likely true—only that no larger interaction is empirically tenable. Tenet 5's symmetric self-binding therefore applies to parsimony arguments *for or against* the framework but not to the rules-out clause itself, which is constraint-respecting rather than parsimony-tracking.
 
 **Candidate mechanisms:** Several scientific proposals have explored this interface. The Map's most developed position is [post-decoherence selection](/apex/post-decoherence-selection-programme/): consciousness selecting which outcome becomes actual from the [improper reduced-state mixture](/concepts/improper-vs-proper-mixtures/) left *after* decoherence has completed—an additional actualisation postulate, not a pick from a pre-existing classical menu of already-definite alternatives. This route sidesteps the requirement that quantum coherence survive at neural timescales and is the strongest path the Map currently endorses. Other proposals depend on pre-decoherence coherence and stand or fall with that more demanding assumption: [Orch OR](/concepts/quantum-consciousness/) (Penrose-Hameroff) locates quantum effects in neural microtubules, with consciousness selecting among superposed states via gravitational self-collapse; Stapp's [quantum Zeno approach](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) uses orthodox quantum mechanics, with mental attention acting like repeated observation to hold desired neural patterns through the Zeno effect. The Map does not commit to any specific mechanism but holds that *some* such interface exists; not-committing on which is *true* is compatible with a methodological [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering) on tenet-fit, which ranks post-decoherence selection ahead of the coherence-dependent proposals while keeping them as live fallbacks.
 

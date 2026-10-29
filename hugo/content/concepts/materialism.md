@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-10 02:34:27+00:00
+ai_modified: 2026-10-29 00:36:47+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -22,14 +22,14 @@ concepts:
 - '[[phenomenology]]'
 - '[[eliminative-materialism]]'
 created: 2026-01-14
-date: &id001 2026-10-02
+date: &id001 2026-10-29
 description: Why physicalism fails to explain consciousness. The explanatory gap,
   knowledge argument, and zombie conceivability reveal irreducible phenomenal properties.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-10 19:37:59+00:00
-lastmod: 2026-10-10 02:34:27+00:00
+lastmod: 2026-10-29 00:36:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -180,7 +180,7 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 **Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/concepts/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The Map rejects this move as a tenet-level commitment: it holds that consciousness causally influences physical outcomes, and takes our ability to discuss experience as evidence against the alternative and its deepest difficulty, though not its refutation ([Tenet 3's standing](/tenets/#tenet-3-epiphenomenalism)).
 
-**Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. Consciousness acts there, biasing otherwise undetermined outcomes.
+**Minimal Quantum Interaction** responds to the causal closure argument. If physics were complete, there'd be no room for mental causation. But physics is not complete at quantum indeterminacies. The Map holds that consciousness acts there, biasing otherwise undetermined outcomes.
 
 **Occam's Razor Has Limits** explains why materialism's apparent simplicity is misleading. [Parsimony epistemology](/concepts/parsimony-epistemology/) shows that "simplicity" fragments into competing dimensions—ontological, syntactic, and explanatory—that yield contradictory verdicts.
 

@@ -2,9 +2,9 @@
 title: "Epiphenomenalism"
 description: "Consciousness as causally inert byproduct. Self-stultification burdens its bare-correlation form; the phenomenal-concept reply survives, and AI limits scope."
 created: 2026-01-09
-modified: 2026-05-15
+modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-10-19T15:17:48+00:00
+ai_modified: 2026-10-29T00:36:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ coalesced_from:
   - "/concepts/arguments-against-epiphenomenalism/"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-09
 last_curated: null
 last_deep_review: 2026-06-21T00:00:00+00:00
@@ -198,7 +198,7 @@ Consciousness is fundamental and ubiquitous, built into the causal structure of 
 
 ## Assessment
 
-Epiphenomenalism's plausibility depends entirely on accepting strong causal closure of physics. The Map rejects this: physics is not complete at quantum indeterminacies, and that's where consciousness acts.
+Epiphenomenalism's plausibility depends entirely on accepting strong causal closure of physics. The Map rejects this: physics is not complete at quantum indeterminacies, and that is where the Map holds consciousness acts.
 
 The self-stultification problem remains the strongest objection: bare-correlation epiphenomenalism is hard to hold consistently on evidence about consciousness, and the phenomenal-concept version survives only by relocating the dispute. But as the [[#A Three-Way Distinction|three-way distinction]] makes explicit, the argument binds report-grounded consciousness while leaving inherited-discourse consciousness as a structural possibility. Whatever the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims beyond the report-grounded subset rests on the quantum interaction mechanism and evolutionary evidence, a metaphysical commitment that outruns the available epistemic arguments; whether it claims actual efficacy for every conscious token or an interface-dependent capacity is unresolved ([[#Implications for the Bidirectional Interaction Tenet|above]]).
 

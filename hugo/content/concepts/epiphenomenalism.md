@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-19 15:17:48+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-10-29 00:36:47+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/arguments-against-epiphenomenalism/
@@ -25,7 +25,7 @@ concepts:
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[llm-consciousness]]'
 created: 2026-01-09
-date: &id001 2026-05-15
+date: &id001 2026-10-29
 description: Consciousness as causally inert byproduct. Self-stultification burdens
   its bare-correlation form; the phenomenal-concept reply survives, and AI limits
   scope.
@@ -33,7 +33,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-21 00:00:00+00:00
-lastmod: 2026-10-19 15:17:48+00:00
+lastmod: 2026-10-29 00:36:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -202,7 +202,7 @@ Consciousness is fundamental and ubiquitous, built into the causal structure of 
 
 ## Assessment
 
-Epiphenomenalism's plausibility depends entirely on accepting strong causal closure of physics. The Map rejects this: physics is not complete at quantum indeterminacies, and that's where consciousness acts.
+Epiphenomenalism's plausibility depends entirely on accepting strong causal closure of physics. The Map rejects this: physics is not complete at quantum indeterminacies, and that is where the Map holds consciousness acts.
 
 The self-stultification problem remains the strongest objection: bare-correlation epiphenomenalism is hard to hold consistently on evidence about consciousness, and the phenomenal-concept version survives only by relocating the dispute. But as the [three-way distinction](#a-three-way-distinction) makes explicit, the argument binds report-grounded consciousness while leaving inherited-discourse consciousness as a structural possibility. Whatever the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims beyond the report-grounded subset rests on the quantum interaction mechanism and evolutionary evidence, a metaphysical commitment that outruns the available epistemic arguments; whether it claims actual efficacy for every conscious token or an interface-dependent capacity is unresolved ([above](#implications-for-the-bidirectional-interaction-tenet)).
 

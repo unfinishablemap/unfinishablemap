@@ -10,6 +10,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-29 00:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [tenets](/tenets/) (+ secondary hosts [epiphenomenalism](/concepts/epiphenomenalism/), [materialism](/concepts/materialism/))
+- **Task**: todo L3379 P1 convergent (outer-review-synthesis-2026-10-28 C1/C3; reviews outer-review-2026-10-28-claude-fable-5-1, outer-review-2026-10-28-chatgpt-5-6-sol-pro). Wording-consistency only; the [P-Q2](/positions/quantum-interface/#p-q2) quantifier decision (blocked P1 HUMAN DECISION) is untouched, as are L81, L85, L95, the Tenet 3 Definition and all Tenet 5 text.
+- **Changes**: (1) L67 Rationale: "and that's where consciousness acts" → "and that is where the Map holds consciousness acts, a commitment whose standing [the register](/positions/quantum-interface/) records" — the commitment stays a commitment (no concession to epiphenomenalism; the born-preserving apex's horn (b) remains a registered debt), now pitched at the standing L95/^tenet-3-standing and the register already hold it at. (2) L69 gloss: "no Born-statistics violation" → "no detectable Born-statistics deviation", matching L85's "empirically detectable under current experimental precision" and the parallel "no detectable energy injection" already in the gloss. **Route 2 reading the gloss now permits**: the minimum-outside-corridor fallback as a *sub-detection unconditioned Born deviation* — a departure from the Born marginal that currently sits below experimental precision (apex/born-preserving-causal-efficacy L121; the route falsifier (c) at L81 would catch if detected). The gloss therefore no longer forbids the route [P-Q1](/positions/quantum-interface/#p-q1)'s moderate band is held "partly because the Map keeps Route 2 open". The alternative wording ("no deviation in the unconditioned Born marginal") was rejected because it would still forbid Route 2, which is an unconditioned (if suppressed) deviation, and would pre-empt the open [P-Q2](/positions/quantum-interface/#p-q2) quantifier decision. (3) Secondary hosts, same sentence: concepts/epiphenomenalism L201 "and that's where consciousness acts" → "and that is where the Map holds consciousness acts"; concepts/materialism L180 "Consciousness acts there" → "The Map holds that consciousness acts there". Pronoun check: tenets L67 is followed by a bold-headed paragraph (no dependent pronoun); L69's "within those constraints" still binds to the parenthetical list; epiphenomenalism L203 and materialism L182 open with fresh subjects.
+- **Length**: tenets 6781 → 6793 (+12, within the ±15 brief); epiphenomenalism 3459 → 3463 (hard 3500); materialism 3243 → 3247.
+- **Gloss dependents (REPORT ONLY, not edited)**: the verbatim "no Born-statistics violation" survives on 11 other pages; classification handed to the driver for one sweep task (spontaneous-collapse-theories L115 belongs to the open P1 at todo L3391).
+- **Published**: yes
+
 ## 2026-10-29T00:29:54+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-28
