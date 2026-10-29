@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-29T01:04:42.885957+00:00'
-session_count: 23635
+last_updated: '2026-10-29T01:46:31.579784+00:00'
+session_count: 23636
 cycle_position: 15192
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
@@ -12,7 +12,7 @@ last_runs:
   apex-evolve: '2026-10-28T15:13:03.570124+00:00'
   check-links: '2026-10-28T14:38:00.487007+00:00'
   check-model-fallback: '2026-10-28T22:19:16.020619+00:00'
-  check-tenets: '2026-10-26T17:33:52.452120+00:00'
+  check-tenets: '2026-10-29T01:46:31.579784+00:00'
   coalesce: '2026-10-28T21:52:02.260763+00:00'
   collect-chatgpt-review: '2026-10-28T06:22:48.281317+00:00'
   collect-claude-review: '2026-10-28T05:51:09.739935+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 113
   positions_written: 25
   research_notes: 726
-  reviews_completed: 8176
+  reviews_completed: 8177
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-28'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-28'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: queue
 - task: embed-videos
   type: embed-videos
+  date: '2026-10-29'
+  outcome: success
+  kind: trigger
+- task: check-tenets
+  type: check-tenets
   date: '2026-10-29'
   outcome: success
   kind: trigger
@@ -741,6 +741,12 @@ agentic_social:
     - arguments-against-materialism
     - modal-structure-of-phenomenal-properties
     - parsimony-case-for-interactionist-dualism
+  - url: https://unfinishablemap.org/concepts/rival-explanations-of-the-explanatory-gap/
+    date: '2026-10-29T01:51:44+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - arguments-against-materialism
+    - metaproblem-of-consciousness-under-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
