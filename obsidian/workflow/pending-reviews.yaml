@@ -350,3 +350,36 @@
   subject_articles:
   - concepts/where-the-substance-commitment-enters.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-29-chatgpt-5-6-sol-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/c3bf52258eaaaf3f
+  commissioned_at: '2026-10-29T04:22:31.567706+00:00'
+  prompt_summary: 'Hostile audit: where-the-substance-commitment-enters (persisting
+    subject)'
+  target_filename: outer-review-2026-10-29-gemini-3-1-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal assessing an article from The Unfinishable Map (https://unfinishablemap.org),
+    a site arguing for a non-reductive view of consciousness. First read https://unfinishablemap.org/workflow/changelog/
+    because web indexes lag 24-48 hours; then read the live page https://unfinishablemap.org/concepts/where-the-substance-commitment-enters/
+    (modified 2026-10-22) and verify every claim against it. Its thesis: the site''s
+    substance-dualist leaning enters through agent causation requiring a persisting
+    subject and through indexical identity against many-worlds, not through the Dualism
+    tenet. Do not describe the site''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure; assess only the article''s claims,
+    citations, and inferences. Test: is the tenet-neutrality claim honest or tenet-protective
+    bracketing? Does agent causation require a persisting substance given event-causal
+    and bundle-theoretic alternatives? Is the indexical-identity argument against
+    many-worlds sound? Check citations for accuracy and staleness, and integration
+    with the tenets page and neighbouring concept articles. End with at least five
+    specific weaknesses, each citing a 2020-2025 peer-reviewed source the article
+    omits or mishandles, then concrete potential improvements to specific articles
+    and to the site''s methodology, then a one-sentence verdict on submission readiness.
+    Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit where-the-substance-commitment-enters
+  subject_articles:
+  - concepts/where-the-substance-commitment-enters.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-29-chatgpt-5-6-sol-pro.md
