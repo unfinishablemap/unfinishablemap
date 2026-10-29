@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-10-25 17:57:57+00:00
+ai_modified: 2026-10-29 05:22:14+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -21,14 +21,14 @@ concepts:
 - '[[consciousness-in-smeared-quantum-states]]'
 - '[[quantum-completeness]]'
 created: 2026-01-09
-date: &id001 2026-01-25
+date: &id001 2026-10-29
 description: 'How consciousness might interact with quantum mechanics: Orch OR microtubule
   collapse, Stapp''s quantum Zeno effect, and Fisher''s nuclear spin entanglement.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 08:33:15+00:00
-lastmod: 2026-10-25 17:57:57+00:00
+lastmod: 2026-10-29 05:22:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -186,7 +186,7 @@ The Map's tenets require:
 
 1. **Dualism**: Consciousness is irreducible. Quantum theories place consciousness where physics runs out—selection of outcomes.
 2. **Minimal Quantum Interaction**: Consciousness biases outcomes without injecting energy.
-3. **Bidirectional Interaction**: Consciousness causally influences physics. The quantum opening provides the mechanism.
+3. **Bidirectional Interaction**: Consciousness causally influences physics; the quantum opening is a candidate locus, its mechanism still unworked ([P-Q10](/positions/quantum-interface/#p-q10)).
 4. **No Many Worlds**: Collapse is real; indexical identity matters. Quantum theories require genuine collapse.
 5. **Occam's Razor Has Limits**: "Consciousness is just brain activity" isn't true if brain activity can't explain selection.
 

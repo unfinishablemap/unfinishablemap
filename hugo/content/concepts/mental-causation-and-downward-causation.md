@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-10-25 16:41:44+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
+ai_modified: 2026-10-29 05:22:14+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /concepts/mental-causation/
@@ -36,14 +36,14 @@ concepts:
 - '[[trumping-preemption]]'
 - '[[selection-only-mind-influence]]'
 created: 2026-01-15
-date: &id001 2026-10-20
+date: &id001 2026-10-29
 description: How mental states cause physical effects despite Kim's exclusion argument.
   Downward causation acts at quantum indeterminacies collapse readings leave open.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:37:29+00:00
-lastmod: 2026-10-25 16:41:44+00:00
+lastmod: 2026-10-29 05:22:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -200,7 +200,7 @@ Mental causation and downward causation are central to the Map's framework.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet's affirmation that consciousness causally influences physical outcomes *just is* downward causation for mental properties (developed in [bidirectional-interaction](/concepts/bidirectional-interaction/)). Against [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness causes nothing, our reports and beliefs about experience are causally disconnected from actual experiences, and we lose epistemic access to our own minds.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Provides the mechanism. Consciousness acts where physics is incomplete—at quantum indeterminacies, through biasing probabilities—respecting the spirit of causal closure while denying its letter.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Names the proposed locus. Consciousness acts where physics is incomplete—at quantum indeterminacies, through biasing probabilities—respecting causal closure's spirit while denying its letter.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Required for mental causation to be possible. If every outcome actualises in branching universes, there's no selection for consciousness to perform.
 

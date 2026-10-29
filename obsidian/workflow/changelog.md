@@ -5,6 +5,23 @@ ai_modified: 2026-10-29T01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-29T05:22:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[arguments/arguments]] (plus four concept hosts: [[concepts/interactionist-dualism]], [[concepts/quantum-consciousness]], [[concepts/mental-causation-and-downward-causation]], [[concepts/mind-matter-interface]])
+- **Original score**: n/a (`scripts/curate.py review` absent; targeted convergent fix)
+- **Task**: todo L3432 P1, synthesis C3 (2026-10-28, ChatGPT §3.7/§5.8 + Claude §(a)/§(3)): entry-point and index text asserted the quantum mechanism as actual where the register (P-Q3/P-Q10 `^mechanism-debt`, tenets L95) holds it available. Sibling P1 on tenets L67 ran 00:37Z today; this pass shares its register-standing wording.
+- **Changes**:
+  - `arguments/arguments` L43: "Quantum indeterminacy provides the mechanism for mental causation" → "Quantum indeterminacy supplies a candidate locus for a [[positions/quantum-interface#^mechanism-debt|mechanism of mental causation the Map has not yet worked out]]" (+11w; 956→967, free band). L31 and the frontmatter description untouched (owned by the open P3s at ~L2117 and ~L2197).
+  - `concepts/interactionist-dualism` frontmatter description: "provides the mechanism for consciousness to influence brain states" → "is the proposed locus for consciousness to influence brain states" (frontmatter only; body 3,491 unchanged).
+  - `concepts/quantum-consciousness` L186: "Consciousness causally influences physics. The quantum opening provides the mechanism." → "Consciousness causally influences physics; the quantum opening is a candidate locus, its mechanism still unworked (P-Q10)." Net +6 (3,686→3,692, already hard_warning): could not be paid inside the list item without cutting the Tenet 3 statement or a calibration hedge the open NEEDS-HUMAN (todo ~L1100) protects; accepted and reported. Adjacent L188 "what matters is that *some* such mechanism exists" and L190 "specifies its mechanism" (tenet-check 2026-09-28 L222 second clause) left as out of scope.
+  - `concepts/mental-causation-and-downward-causation` L200: "Provides the mechanism." → "Names the proposed locus."; paid by "respecting the spirit of causal closure" → "respecting causal closure's spirit" (net −1; 3,570→3,569). "through biasing probabilities" untouched (owned by open P3 ~L2290).
+  - `concepts/mind-matter-interface` L162: "The quantum selection layer provides the mechanism:" → "The quantum selection layer is where a mechanism would operate:" (+3; 2,661→2,664).
+  - Pronoun check: mental-causation's following sentence keeps its own subject ("Consciousness acts…"); mind-matter-interface's "What's filtered (Layer 1) determines…" is independent; arguments is a list item; quantum-consciousness "its mechanism" binds to "the quantum opening". No "This is not X. It is Y."; epiphenomenalism not conceded — "candidate locus … not yet worked out" is the register's calibration of Tenet 3's mechanism, not a retreat from Tenet 3.
+  - Left `concepts/entanglement-binding-hypothesis` L106 (already conditional).
+- **Raise history**: third external raise of this sentence — 2026-06-01 ChatGPT ([[reviews/outer-review-2026-06-01-chatgpt-5-5-pro]] L230, "change … 'provides the mechanism' to … 'offers a candidate mechanism'"), 2026-07-16 ChatGPT ([[reviews/outer-review-2026-07-16-chatgpt-5-6-sol-pro]] §"Quantum indeterminacy provides the mechanism", L551), 2026-10-28 both legs ([[reviews/outer-review-2026-10-28-chatgpt-5-6-sol-pro]], [[reviews/outer-review-2026-10-28-claude-fable-5-1]]; [[reviews/outer-review-synthesis-2026-10-28]] C3). The 2026-09-28 tenet check ([[reviews/tenet-check-2026-09-28]] L222) flagged the quantum-consciousness host and never became a task.
+- **Frontmatter**: `ai_modified`/`modified` on all five; `ai_system` +claude-fable-5-1 appended on four (quantum-consciousness already carried it).
+- **Published**: yes (sync run; Hugo copies verified)
+
 ## 2026-10-29T05:13:37+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-29

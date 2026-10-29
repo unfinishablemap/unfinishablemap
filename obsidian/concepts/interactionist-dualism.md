@@ -1,10 +1,10 @@
 ---
 title: "Interactionist Dualism"
-description: "Mind and body are distinct yet causally connected. Quantum indeterminacy provides the mechanism for consciousness to influence brain states."
+description: "Mind and body are distinct yet causally connected. Quantum indeterminacy is the proposed locus for consciousness to influence brain states."
 created: 2026-01-14
-modified: 2026-01-31
+modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-10-24T08:24:18+00:00
+ai_modified: 2026-10-29T05:22:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ related_articles:
   - "[[hylomorphic-dualism-and-the-interaction-problem]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-07-26T00:47:57+00:00

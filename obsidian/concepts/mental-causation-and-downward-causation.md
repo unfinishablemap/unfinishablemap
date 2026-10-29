@@ -2,9 +2,9 @@
 title: "Mental Causation and Downward Causation"
 description: "How mental states cause physical effects despite Kim's exclusion argument. Downward causation acts at quantum indeterminacies collapse readings leave open."
 created: 2026-01-15
-modified: 2026-10-20
+modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-10-25T16:41:44+00:00
+ai_modified: 2026-10-29T05:22:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ related_articles:
   - "[[consciousness-as-activity]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5-5+claude-fable-5-1
 ai_generated_date: 2026-03-30
 last_curated: null
 last_deep_review: 2026-07-25T16:37:29+00:00
@@ -197,7 +197,7 @@ Mental causation and downward causation are central to the Map's framework.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet's affirmation that consciousness causally influences physical outcomes *just is* downward causation for mental properties (developed in [[bidirectional-interaction]]). Against [[concepts/epiphenomenalism|epiphenomenalism]]: if consciousness causes nothing, our reports and beliefs about experience are causally disconnected from actual experiences, and we lose epistemic access to our own minds.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Provides the mechanism. Consciousness acts where physics is incomplete—at quantum indeterminacies, through biasing probabilities—respecting the spirit of causal closure while denying its letter.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Names the proposed locus. Consciousness acts where physics is incomplete—at quantum indeterminacies, through biasing probabilities—respecting causal closure's spirit while denying its letter.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Required for mental causation to be possible. If every outcome actualises in branching universes, there's no selection for consciousness to perform.
 

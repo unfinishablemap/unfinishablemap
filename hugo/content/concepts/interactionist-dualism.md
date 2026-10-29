@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-24 08:24:18+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-10-29 05:22:14+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
 - /arguments/interactionist-dualism/
@@ -36,14 +36,14 @@ concepts:
 - '[[amplification-void]]'
 - '[[trumping-preemption]]'
 created: 2026-01-14
-date: &id001 2026-01-31
+date: &id001 2026-10-29
 description: Mind and body are distinct yet causally connected. Quantum indeterminacy
-  provides the mechanism for consciousness to influence brain states.
+  is the proposed locus for consciousness to influence brain states.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:47:57+00:00
-lastmod: 2026-10-24 08:24:18+00:00
+lastmod: 2026-10-29 05:22:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

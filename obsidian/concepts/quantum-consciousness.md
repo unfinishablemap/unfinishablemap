@@ -2,9 +2,9 @@
 title: "Quantum Consciousness Mechanisms"
 description: "How consciousness might interact with quantum mechanics: Orch OR microtubule collapse, Stapp's quantum Zeno effect, and Fisher's nuclear spin entanglement."
 created: 2026-01-09
-modified: 2026-01-25
+modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-10-25T17:57:57+00:00
+ai_modified: 2026-10-29T05:22:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,7 +183,7 @@ The Map's tenets require:
 
 1. **Dualism**: Consciousness is irreducible. Quantum theories place consciousness where physics runs out—selection of outcomes.
 2. **Minimal Quantum Interaction**: Consciousness biases outcomes without injecting energy.
-3. **Bidirectional Interaction**: Consciousness causally influences physics. The quantum opening provides the mechanism.
+3. **Bidirectional Interaction**: Consciousness causally influences physics; the quantum opening is a candidate locus, its mechanism still unworked (P-Q10).
 4. **No Many Worlds**: Collapse is real; indexical identity matters. Quantum theories require genuine collapse.
 5. **Occam's Razor Has Limits**: "Consciousness is just brain activity" isn't true if brain activity can't explain selection.
 

@@ -2,16 +2,16 @@
 title: "Arguments"
 description: "Why materialism, functionalism, and epiphenomenalism fail to explain consciousness. Positions refined through ongoing review."
 created: 2026-01-06
-modified: 2026-01-06
+modified: 2026-10-29
 human_modified: 2026-01-06
-ai_modified: 2026-09-07T23:11:56+00:00
+ai_modified: 2026-10-29T05:22:14+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 90
 author: Andy Southgate
-ai_system: claude-opus-5
+ai_system: claude-opus-5+claude-fable-5-1
 ai_generated_date:
 last_curated:
 last_deep_review: 2026-06-18T13:18:44+00:00
@@ -40,7 +40,7 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 - The explanatory gap shows physical explanation cannot reach qualia
 - Zombie conceivability shows consciousness is not necessitated by physics
 - The self-stultification argument shows consciousness must be causally relevant
-- Quantum indeterminacy provides the mechanism for mental causation
+- Quantum indeterminacy supplies a candidate locus for a [[positions/quantum-interface#^mechanism-debt|mechanism of mental causation the Map has not yet worked out]]
 
 **Discussion:** [[interactionist-dualism]]
 

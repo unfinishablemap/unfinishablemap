@@ -2,9 +2,9 @@
 title: "The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection"
 description: "A two-layer architecture unifying filter theory and quantum selection. The brain transmits consciousness and provides interaction points."
 created: 2026-01-16
-modified: 2026-08-19
+modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-08-27T12:00:29+00:00
+ai_modified: 2026-10-29T05:22:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[dualism-channel-width-axis]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-fable-5-1
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-07-09T09:04:20+00:00
@@ -159,7 +159,7 @@ The model responds on three fronts, and they are not of equal strength. The firs
 
 **"What is the 'source' exactly?"**: The model is intentionally agnostic about consciousness's ultimate nature. We don't need to know what radio waves *are* to understand that radios receive rather than generate them. The functional claim carries explanatory weight independent of deeper metaphysical questions.
 
-**"How do the layers interact mechanistically?"**: The quantum selection layer provides the mechanism: consciousness interfaces with physics at quantum indeterminacies via attention/observation dynamics. What's filtered (Layer 1) determines what's available for selection (Layer 2).
+**"How do the layers interact mechanistically?"**: The quantum selection layer is where a mechanism would operate: consciousness interfaces with physics at quantum indeterminacies via attention/observation dynamics. What's filtered (Layer 1) determines what's available for selection (Layer 2).
 
 ## Relation to Site Perspective
 
