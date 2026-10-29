@@ -2,9 +2,9 @@
 title: "Three Background Commitments the Tenets Rest On"
 description: "The five stated tenets lean on three unstated posits—a persisting subject, objective single-outcome actualization, and global exclusion of unchosen alternatives."
 created: 2026-07-16
-modified: 2026-07-16
+modified: 2026-10-29
 human_modified: null
-ai_modified: 2026-10-05T14:52:08+00:00
+ai_modified: 2026-10-29T06:08:09+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[agency-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5-1
 ai_generated_date: 2026-07-16
 last_curated: null
 last_deep_review: 2026-09-08T07:51:40+00:00
@@ -31,7 +31,7 @@ The Unfinishable Map states [[tenets|five foundational commitments]] and present
 
 The agency, No-Many-Worlds, personal-identity, copying, and survival treatments all presuppose a *numerically determinate subject that persists through time*. Two components do the work. **Primitive subject individuation**: there is a fact of *which* subject this is, prior to and independent of any physical or functional criterion. **Diachronic subject persistence**: the same subject is present at one time and a later time, and that sameness is a real further fact rather than a convention over successive states.
 
-Each dependent cluster inherits a different component. [[agent-causation|Agent causation]] needs a persisting bearer of causal powers—the *unmoved mover* who originates an action ([[where-the-substance-commitment-enters]] is the canonical treatment of where this lean enters and why it is downstream of agency, not of Tenet 1). The indexical objection to many-worlds ([[tenets#^no-many-worlds|Tenet 4]]) needs a determinate "I" whose branch-assignment is a real further fact ([[many-worlds-argument]]). Personal-identity, mind-copying, and survival puzzles are well-posed only if there is a determinate fact about which post-transformation subject, if any, is the original.
+Each dependent cluster inherits a different component. [[agent-causation|Agent causation]] needs a persisting bearer of causal powers—the *unmoved mover* who originates an action ([[where-the-substance-commitment-enters]] is the canonical treatment of where this lean is deployed, which component each home inherits, and why neither derives it). The indexical objection to many-worlds ([[tenets#^no-many-worlds|Tenet 4]]) needs a determinate "I" whose branch-assignment is a real further fact ([[many-worlds-argument]]). Personal-identity, mind-copying, and survival puzzles are well-posed only if there is a determinate fact about which post-transformation subject, if any, is the original.
 
 Because [[tenets#^dualism|Tenet 1]] (the substance-leaning sub-reading), [[tenets#^bidirectional-interaction|Tenet 3]] (the reporting subject whose experience flows into the physical record), and [[tenets#^no-many-worlds|Tenet 4]] (the indexical "I") all draw on this one root, the three are not mutually independent: they share a common posit. "Five *stated* commitments" is precise; "five *independent* commitments" is not. The stated tenets jointly rest on this posit (and on the second, below), and a reader auditing the framework should see the five as a package sharing hidden foundations rather than as five load-bearing pillars that stand or fall separately.
 
@@ -55,7 +55,7 @@ Naming the condition does not retract [[tenets#^no-many-worlds|Tenet 4]]. Chosen
 
 ## The Three Coherence Tensions, Named
 
-**Neutrality versus operation.** [[tenets#^dualism|Tenet 1]] advertises neutrality between substance and property dualism, yet the operational framework—agency, MWI-rejection, diachronic persistence—runs substance-dualist. This is not a contradiction: the neutrality is honest *at the tenet level*, where irreducibility is all Tenet 1 asserts, and the substance lean lives one layer down, downstream of [[agent-causation|agent causation]] rather than entailed by the tenet ([[where-the-substance-commitment-enters]]). But it is a place where "neutral Tenet 1" and "substance-dualist operation" coexist in one framework, and the reader is owed the reconciliation rather than left to notice the seam.
+**Neutrality versus operation.** [[tenets#^dualism|Tenet 1]] advertises neutrality between substance and property dualism, yet the operational framework—agency, MWI-rejection, diachronic persistence—runs substance-dualist. This is not a contradiction: the neutrality is honest *at the tenet level*, where irreducibility is all Tenet 1 asserts, and the substance lean lives one layer down, inherited from Posit One through [[agent-causation|agent causation]] rather than entailed by the tenet ([[where-the-substance-commitment-enters]]). But it is a place where "neutral Tenet 1" and "substance-dualist operation" coexist in one framework, and the reader is owed the reconciliation rather than left to notice the seam.
 
 **Collapse redundancy.** Objective reduction secures definiteness on its own, which threatens to make conscious selection *redundant* as an explanation of definite outcomes. The Map escapes redundancy only by narrowing consciousness's role to outcome-*biasing* rather than outcome-*making*, and by resting the case for that biasing role on the agency evidence rather than on the measurement problem. Were the agency evidence to fail to carry it, conscious selection would be an idle posit sitting atop objective collapse—doing no explanatory work the physics did not already do. This is consistent with the [[tenets#^minimal-quantum-interaction|falsifiability status]] the Map already records, with the scope that status actually carries. The corridor bias is *empirically indistinguishable from chance* under any *unconditioned aggregate* test—by construction rather than by any sensitivity limit—so no aggregate statistic discriminates it from an idle posit, and its warrant, if any, is the agency case. Preservation binds only that unconditioned marginal, however: a deviation *conditioned* on intention, task or subject would test the corridor itself ([[positions/quantum-interface#^mechanism-debt|P-Q3]]). Whether the tension is permanent is therefore open in both directions: a conditioned signature is the register in which it could be relieved, no conditioned test of the brain-internal corridor has yet run (the external-RNG nulls of Maier et al. 2018 fall outside [[brain-interface-boundary|brain-locality]]), and the register keeps live the contrary possibility, that no grain of conditioning ever separates a selected outcome from an unselected one, in which case the tension stands permanently.
 
