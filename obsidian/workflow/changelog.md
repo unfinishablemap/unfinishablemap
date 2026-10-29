@@ -5,6 +5,16 @@ ai_modified: 2026-10-29T01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-29 05:00 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research; collected by collect-gemini-review at ~04:55 UTC, 32 min after commission, from https://gemini.google.com/app/c3bf52258eaaaf3f; js-dom extraction, 3,510-word body)
+- **File**: [[reviews/outer-review-2026-10-29-gemini-3-1-pro]]
+- **Subject**: recent — `concepts/where-the-substance-commitment-enters` (third and last leg of the 2026-10-29 cycle; combine-outer-reviews now eligible)
+- **Claims verified**: 13 adjudicated against the live page and neighbours; 6 survive (all convergent with a sibling leg), 3 partial, 7 fail (Kistler "cosmetic rewrite" inverts the 2026-10-20 record; Tenet 5 "gerrymander" quotes internal review files as the Map; Bigaj 2022 phantom; Leuenberger 2020 misglossed; Caruso misdated 2021→2026)
+- **High-value findings**: 1 new lead — Potter & Mitchell 2022, "Naturalising Agent Causation", *Entropy* 24(4):472 (Crossref-verified, not in corpus) added to the open P1 as an optional, unread third countermodel
+- **Tasks generated**: 0 new; 6 addenda (P1 ~L3659, P2 ~L3671, P2 ~L3698, NEEDS-HUMAN ~L739/~L1057/~L1079). parse_tasks active 267 → 267.
+- **Model note**: live model is Gemini 3.1 Pro (`--model-slug gemini-3-1-pro`); skill text and services.py still say 2.5 Pro.
+
 ## 2026-10-29 04:44 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5.1 (Research; file/ai_system `claude-fable-5-1`)
