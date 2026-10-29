@@ -319,3 +319,34 @@
   subject_articles:
   - concepts/where-the-substance-commitment-enters.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/6aa83971-ffe4-4b21-90ed-8baf178c0e8d
+  commissioned_at: '2026-10-29T03:07:30.840300+00:00'
+  prompt_summary: 'Hostile audit: where-the-substance-commitment-enters (persisting
+    subject)'
+  target_filename: outer-review-2026-10-29-claude-fable-5-1.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile referee for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy site. Before anything else, read the changelog at https://unfinishablemap.org/workflow/changelog/
+    because web indexes lag 24-48 hours and it is the only reliable record of recent
+    edits. Then audit https://unfinishablemap.org/concepts/where-the-substance-commitment-enters/
+    (last substantively modified 2026-10-22, about 2,000 words). Its thesis is that
+    the Map''s substance-dualist leaning enters not through the Dualism tenet but
+    through two routes: agent causation, which it argues needs a persisting subject,
+    and indexical identity deployed against many-worlds. It offers a diagnostic for
+    which arguments require a persisting subject. Test whether these post-modification
+    claims hold up. Is the tenet-neutrality claim honest, or tenet-protective bracketing?
+    Does agent causation really require a persisting substance, given event-causal
+    and bundle-theoretic alternatives? Is the indexical-identity argument against
+    many-worlds sound? Check citations for accuracy and staleness, and assess integration
+    with the tenets page and neighbouring concept articles. End your report with a
+    list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit where-the-substance-commitment-enters
+  subject_articles:
+  - concepts/where-the-substance-commitment-enters.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-29-chatgpt-5-6-sol-pro.md
