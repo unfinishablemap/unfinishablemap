@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-29T02:20:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [living-with-the-map](/apex/living-with-the-map/)
+- **Original score**: n/a (targeted outer-review fix; synthesis 2026-10-28 C4, todo L3399)
+- **Changes**: Added one sentence at the end of the lead paragraph (after "The Map defends that grounding…") beside the L54 promise that experiential quality is "something you genuinely influence": names the compensation consequence by piped wikilink to `born-preserving-causal-efficacy#where-a-selection-could-show-if-anywhere-the-conditional-signature`, states the promise is held at [P-VS1](/positions/value-in-selection/#p-vs1)'s register standing (credence low, external-evidence grade D, quoted from `positions/value-in-selection`), and says the Map has not stated whether each agent's conditional policy is separately Born-preserving. Offset locus (intrapersonal / interpersonal / temporal) deliberately left open, matching `apex/moral-architecture-of-consciousness` L146; that page not edited (reviewer charge against it is a false alarm — L146 already carries the debt). No concession of epiphenomenalism: the debt is stated as open, the promise retained as a promise. Pronoun check: "that grounding" in the preceding sentence keeps its referent because the insertion follows it; next paragraph opens "Philosophy can seem remote" with no dangling pronoun. Length: 4,117 → 4,173 words (apex soft 4,000 / hard 5,000; +56 net, within the 60-word budget). Frontmatter: modified, ai_modified, ai_system appended claude-fable-5-1.
+- **Published**: yes
+
 ## 2026-10-29 01:45 UTC - check-tenets
 - **Status**: Warnings
 - **Files checked**: 86 (window 972856e33a → b39b31a169, every content file in topics/concepts/positions/voids/apex changed since check 156 at 2026-10-26T17:33:52Z; no arguments/ file changed) plus tenets/tenets.md read in full; 949 added lines read; four parallel readers, every quote re-verified on the live line
