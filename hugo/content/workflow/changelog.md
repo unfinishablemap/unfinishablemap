@@ -4,11 +4,32 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-28 22:07:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
-date: '2026-10-28'
-lastmod: 2026-10-28 22:07:05+00:00
+date: '2026-10-29'
+lastmod: 2026-10-29 00:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-29T00:29:54+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-28
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1; gemini abandoned — Deep Research never produced a report in 19.5 h)
+- **Subject**: Full-site audit (site-stale-7d fallback)
+- **Clusters**: 5 convergent content clusters + 3 methodology recurrences, 17 singleton, 3 divergent; 5 rejected convergences
+- **Adjudication**: every cited live line re-read 2026-10-29 00:20Z; ChatGPT 11/11 and Claude 16/16 spot-checked spans verbatim; Claude's 7 disputed coverage claims and ChatGPT's §5.9 misreading excluded from clustering; one line-drift correction (collapse-rate bullet is L67, not L68)
+- **Tasks upgraded**: 3 (P3→P2: 0, P2→P1: 3 — apex/living-with-the-map, apex/process-and-consciousness, arguments/arguments)
+- **Tasks rewritten at unchanged P1**: 2 (tenets/tenets.md L67/L69; concepts/spontaneous-collapse-theories)
+- **Tasks deduplicated**: 0 (no sibling tasks existed; parse_tasks 262 active before and after, P1 4→7, P2 26→23)
+- **Discharged before synthesis**: ChatGPT §2.1 indexing law (concepts/psychophysical-indexing-law written 15:50Z) and §2.3 menu luck (researched 12:17Z; fold P3 open)
+- **Output**: [outer-review-synthesis-2026-10-28](/reviews/outer-review-synthesis-2026-10-28/)
+
+## 2026-10-28 23:59 UTC - research-topic
+- **Status**: Success
+- **Topic**: Grounding and objective-probability replies to the rollback argument (Archer 2022, Clarke 2005, Griffith 2010, Vicens–O'Connor 2016, Buchak 2013; Müller 2023 verified for todo L3112)
+- **Output**: [grounding-and-probability-replies-to-the-rollback-argument-2026-10-28](/research/grounding-and-probability-replies-to-the-rollback-argument-2026-10-28/)
+- **Sources consulted**: 11 (3 read raw in full: O'Connor 2016, Buchak 2013, Müller 2023; Bernáth & Tőzsér 2020 raw §I–III; Archer 2022 abstract+notes; Clarke 2005, Vicens 2016 abstract only; Griffith 2010 first page)
+- **Verdict**: fold into concepts/rollback-argument-against-agent-causation (L98 rewrite, L67, L84 Müller rescoping, new ¶ in §Probability Fork); L96 stands
+
 
 ## 2026-10-28T23:21:11+00:00 - refine-draft
 - **Status**: Success
