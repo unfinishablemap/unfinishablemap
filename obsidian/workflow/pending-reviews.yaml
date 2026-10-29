@@ -255,10 +255,10 @@
   prompt_summary: 'Full-site audit: novel inferences, structure, tenet coherence,
     cross-cluster'
   target_filename: outer-review-2026-10-28-gemini-3-1-pro.md
-  status: pending
+  status: abandoned
   collect_attempts: 3
-  last_attempt_at: '2026-10-28T06:51:09.366385+00:00'
-  failure_reason: null
+  last_attempt_at: '2026-10-29T00:06:27.691716+00:00'
+  failure_reason: 'Deep Research stuck at "Creating your report..." (129 websites researched, stop button present, no report panel) 19.5h after commission; past 4h cutoff'
   prompt_text: "Please conduct a full-site outer review of The Unfinishable Map at\
     \ https://unfinishablemap.org \u2014 a philosophical site defending interactionist\
     \ dualism with a minimal-quantum-interaction mechanism, bidirectional mind\u2013\
