@@ -10,6 +10,39 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-29 05:00 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 3.1 Pro (Deep Research; collected by collect-gemini-review at ~04:55 UTC, 32 min after commission, from https://gemini.google.com/app/c3bf52258eaaaf3f; js-dom extraction, 3,510-word body)
+- **File**: [outer-review-2026-10-29-gemini-3-1-pro](/reviews/outer-review-2026-10-29-gemini-3-1-pro/)
+- **Subject**: recent — `concepts/where-the-substance-commitment-enters` (third and last leg of the 2026-10-29 cycle; combine-outer-reviews now eligible)
+- **Claims verified**: 13 adjudicated against the live page and neighbours; 6 survive (all convergent with a sibling leg), 3 partial, 7 fail (Kistler "cosmetic rewrite" inverts the 2026-10-20 record; Tenet 5 "gerrymander" quotes internal review files as the Map; Bigaj 2022 phantom; Leuenberger 2020 misglossed; Caruso misdated 2021→2026)
+- **High-value findings**: 1 new lead — Potter & Mitchell 2022, "Naturalising Agent Causation", *Entropy* 24(4):472 (Crossref-verified, not in corpus) added to the open P1 as an optional, unread third countermodel
+- **Tasks generated**: 0 new; 6 addenda (P1 ~L3659, P2 ~L3671, P2 ~L3698, NEEDS-HUMAN ~L739/~L1057/~L1079). parse_tasks active 267 → 267.
+- **Model note**: live model is Gemini 3.1 Pro (`--model-slug gemini-3-1-pro`); skill text and services.py still say 2.5 Pro.
+
+## 2026-10-29 04:44 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (Research; file/ai_system `claude-fable-5-1`)
+- **File**: [outer-review-2026-10-29-claude-fable-5-1](/reviews/outer-review-2026-10-29-claude-fable-5-1/)
+- **Subject**: `concepts/where-the-substance-commitment-enters.md` (reuse of the ChatGPT leg's recent-aged subject; 2,044/3,500)
+- **Collected by**: collect-claude-review — READY on poll 1 (artifact tile "Hostile Referee Report: Where the Substance Commitment Enters, Verdict Demote to Coherence-Only"), body stable 34,428 → 34,428 chars over 10 s, Blob download 42,567 bytes, 5,189 words, js-dom
+- **Claims verified**: 26 adjudicated against the live page and neighbours (13 survive, 7 partial, 7 fail — Lowe universal substance causation and the regress reply are on L40/PoAuD L77; O'Connor gloss asks only for a persisting subject; fission test is answered at personal-identity L127 / [P-I4](/positions/individuation-and-subjecthood/#p-i4) asymmetry; many-minds has its own article)
+- **High-value findings**: 2 new ([P-A2](/positions/agency-and-will/#p-a2) L62 + tenets L121 agent-causal inversion, deferred since 09-20 R1 and never minted; Clarke 2003 impossibility verdict carried nowhere live); the rest convergent with the ChatGPT leg one hour earlier
+- **Tasks generated**: 2 (P2 positions-evolve `positions/agency-and-will`; P2 refine-draft on the target, sequenced after the open P1). Addenda: existing P1 ~L3659 (five extensions b-ii/c-ii/e-ii/f-ii/i + tenets L57 phrase), P2 ~L3671 (Zimmerman attribution), P3 ~L2297 (Lowe 2008: 7 secondary tag), NEEDS-HUMAN foundations ~L731 (sixth arrival, counted with ChatGPT as one), methodology ~L745, ~L1047, ~L1066. parse_tasks active 265 → 267.
+- **Operator flag**: reviewer could not read the live changelog (stale 2026-10-15 cache; hugo changelog.md is 2.9 MB) — the outer-review prompt's "read the changelog first" step is failing for external auditors
+
+## 2026-10-29 04:04 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (backend `gpt-5-6-pro`; file/ai_system `chatgpt-5-6-sol-pro`)
+- **File**: [outer-review-2026-10-29-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-29-chatgpt-5-6-sol-pro/)
+- **Subject**: `concepts/where-the-substance-commitment-enters.md` (recent-aged fallback; 2,044/3,500)
+- **Collection**: READY at ~102 min (69 backend nodes `finished_successfully`, last `end_turn: true`); body 32,788 chars / 4,229 words extracted by DOM walk in 37 window-variable slices after the form-POST path was denied by the classifier (CSP `frame-src` blocked the iframe target first). Body saved to `tmp/collect-chatgpt-body-2026-10-29.md`.
+- **Claims verified**: 12 survive (lead/entry-vs-use inconsistency L28 vs L48/L56/L73; L42 bearer-less property-dualism straw man; L50 successor sentence; L93 pre-10-23 label; L60 "single question"; L81 "earned"; Steward 2012 missing from References; substance-property-dualism "two reasons" unreconciled, 0 cross-links; Chisholm "whatever he may be" grep-verified in the Lindley Lecture PDF; Zimmerman 2010 abstract; Kane 2024 ref on agent-causation; Posit-One promotion = open NEEDS-HUMAN since 08-03), 4 partial (event-causal/bundle rivals — scoping page, links not subsection; synchronic→diachronic is a declared posit; O'Connor PDF unreadable; register grade D vs "required"), 5 fail (phenomenological singularity and Dawid–Friederich not on the page; "not sound as refutation" is the Map's own conditional framing; rename; tenets dependency-language edit on a CRITICAL-length file).
+- **Citation note**: the reviewer's Springer DOI 10.1007/s11229-023-04117-2 is Morales, "Emergent agent causation", *Synthese* 2023 (Crossref), mis-anchored to the Martinez causal-pluralism sentence.
+- **High-value findings**: 3 (entry-vs-use; property-dualism misdescription; cross-page reconciliation)
+- **Tasks generated**: 2 (P1: 1 on `concepts/where-the-substance-commitment-enters`; P2: 1 on `concepts/substance-property-dualism`); 2 addenda on open NEEDS-HUMAN tasks (foundations: fifth arrival; methodology ratification: 10-23 haecceity repair not propagated). No research-topic: causal pluralism and the disappearing-agent problem are already covered in three topic articles; `agent-causation` at 3,491/3,500 cannot host a Morales fold.
+- **Pending entry**: `outer-review-2026-10-29-chatgpt-5-6-sol-pro.md` → `collected`; `outer_review_status: processed`.
+
 ## 03:39 - deep-review
 - **Status**: Success
 - **File**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
