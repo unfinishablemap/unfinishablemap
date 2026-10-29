@@ -5,6 +5,20 @@ ai_modified: 2026-10-29T01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-29T05:13:37+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-29
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-1, gemini-3-1-pro) — all three on `subject_type: recent`, `concepts/where-the-substance-commitment-enters` (ChatGPT's recent-aged fallback, reused by Claude and Gemini)
+- **Subject**: Audit where-the-substance-commitment-enters
+- **Clusters**: 10 convergent content clusters (5 at 3/3: lead/entry framing, L42 bearer-less rival, indexical qualifier, Zimmerman/L159 two-accounts, Posit One promotion; 5 at 2/3) + 3 methodology recurrences, 18 singleton, 4 divergent; 7 rejected convergences (incl. the 3/3 "indexical objection unsound as a refutation" headline, the Claude+Gemini "regress unanswered" claim — answered at `philosophy-of-action-under-dualism` L77 — and Gemini's Kistler and Tenet-5 charges)
+- **Adjudication**: every cited live line re-read 2026-10-29 05:05Z (target unchanged since 2026-10-22 02:04Z); ChatGPT 11/11 spot-checked spans verbatim, Claude 13/13 (served a 2026-10-15 changelog copy; 7 fails are coverage claims about unfetched pages), Gemini 5/11 (one fabricated manuscript quotation, two page conflations, 2 of 5 cited sources usable; Bigaj 2022 phantom)
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1 — concepts/substance-property-dualism L41/L159, cluster C8)
+- **Tasks rewritten at unchanged P1**: 1 (concepts/where-the-substance-commitment-enters, clusters C1–C7, C10; Review files now lists all three legs)
+- **Tasks deduplicated**: 0 (processing passes had carried each later leg onto the earlier leg's task as addenda; parse_tasks 267 active before and after, P1 4→5, P2 30→29)
+- **Recorded only**: Posit One promotion → NEEDS-HUMAN (foundations) 2026-08-03, seventh arrival, first 3/3 on a single-article subject; confession-binding and stance/freshness gates → their standing NEEDS-HUMAN entries
+- **Operator flags**: (1) `hugo/content/workflow/changelog.md` is 2.9 MB and Claude's fetch returned a 2026-10-15 copy — the "read the changelog first" prompt instruction is failing for at least one service; trim or paginate; (2) Gemini recovered after two failed legs but every surviving finding was already tasked — a confirmer, not a finder; its one new lead (Potter & Mitchell 2022, *Entropy* 24(4): 472) rides UNREAD on the P1
+- **Output**: [[reviews/outer-review-synthesis-2026-10-29]]
+
 ## 2026-10-29 05:00 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 3.1 Pro (Deep Research; collected by collect-gemini-review at ~04:55 UTC, 32 min after commission, from https://gemini.google.com/app/c3bf52258eaaaf3f; js-dom extraction, 3,510-word body)
