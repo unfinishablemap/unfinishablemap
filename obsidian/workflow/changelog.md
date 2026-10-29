@@ -4,6 +4,17 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-29T01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-29T06:36:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/substance-property-dualism]]
+- **Original score**: n/a (targeted outer-review fix; `scripts/curate.py` absent)
+- **Review files**: reviews/outer-review-synthesis-2026-10-29 C8 (ChatGPT 5.6 Sol Pro, Claude Fable 5.1, Gemini 3.1 Pro; 3/3 convergent)
+- **Changes**: (1) L159 "persistent pressure toward either panpsychism … or epiphenomenalism" now attributed inline to Zimmerman (2010) ("as Zimmerman (2010) argues", +4 words; already References L209 and L61) — attributed as the source of the pressure argument, not enlisted as a Map ally; Gemini's "free-floating efficacious tropes without a substantial anchor" is the same argument stated as an objection and is covered by this attribution. (2) New sentence pair after L159's "This is a philosophical preference, not a doctrinal requirement." stating the ChatGPT reconciliation: the two L159 reasons are general preference reasons for the heavier ontology, different in kind from the operational dependencies (agency cluster; indexical objection in the No Many Worlds tenet) where a persisting subject is required, both drawn from [[tenets/background-commitments|Posit One]]; [[where-the-substance-commitment-enters]] named as the diagnostic. Neither account demoted. "a stable position that resists both" kept verbatim. (3) L41 lead: "on agency-related questions" → "on agency-related questions and the indexical objection to many-worlds (explained below)" so the lead matches the target page's new lead (two homes). (4) L163 "downstream of the agent-causal commitment" → "drawn from Posit One through the agent-causal commitment" (+3) so the paragraph under the new sentence agrees with it (the target's lead: homes draw on Posit One, neither derives it). (5) Further Reading: added [[where-the-substance-commitment-enters]] (page had 0 links to it; now 2). Pronoun check: the sentence following the insertion is a heading; "that dependency" used instead of a bare "it".
+- **Length**: analyze_length 2,920 → 3,002 (+82; target was +40 to +70, overshoot is the L41 and L163 alignment edits plus the piped link title); hard 3,500.
+- **Frontmatter**: ai_modified 2026-10-29T06:36:42+00:00; modified 2026-10-29; ai_system appended +claude-fable-5-1.
+- **Out of scope / left**: existing H3 "Where the Substance-Leaning Becomes Load-Bearing" (pre-existing heading, anchor target; not touched). Zimmerman 2010 not re-verified at publisher this pass (metadata already in References).
+- **Published**: yes
+
 
 ## 2026-10-29T06:31:04+00:00 - pessimistic-review
 - **Status**: Success

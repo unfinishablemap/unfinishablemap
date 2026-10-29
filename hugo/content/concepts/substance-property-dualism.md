@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-26 02:41:30+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5-5
+ai_modified: 2026-10-29 06:36:03+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -22,7 +22,7 @@ concepts:
 - '[[emergence]]'
 - '[[panpsychism]]'
 created: 2026-01-14
-date: &id001 2026-01-16
+date: &id001 2026-10-29
 description: 'Two forms of dualism: separate mental substances versus irreducible
   phenomenal properties. The Map accepts either; what matters is consciousness''s
   irreducibility.'
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-30 21:59:29+00:00
-lastmod: 2026-10-26 02:41:30+00:00
+lastmod: 2026-10-29 06:36:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ topics:
 
 Dualism comes in two main varieties. Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. Property dualism holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [materialism's](/concepts/materialism/) claim that everything is ultimately physical, but disagree about the underlying metaphysical structure.
 
-The Unfinishable Map's [Dualism](/tenets/#dualism) tenet is compatible with either. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility. The Map leans toward substance dualism on agency-related questions (explained below), but treats the choice as a philosophical preference rather than a doctrinal requirement.
+The Unfinishable Map's [Dualism](/tenets/#dualism) tenet is compatible with either. What matters philosophically is that consciousness is irreducible to physics and that mental properties are genuinely novel—not the precise ontological framework that grounds this irreducibility. The Map leans toward substance dualism on agency-related questions and the indexical objection to many-worlds (explained below), but treats the choice as a philosophical preference rather than a doctrinal requirement.
 
 ## Substance Dualism
 
@@ -160,11 +160,11 @@ Several findings would create difficulties for the distinction as the Map unders
 
 The tenets require consciousness to be irreducible, causally efficacious (so property dualism must avoid the epiphenomenalist temptation), and interfaced at quantum indeterminacies. The choice between the frameworks affects personal identity, survival, and the metaphysics of mind, but these are downstream of the central commitment.
 
-The Map leans toward substance dualism for two reasons. First, it avoids the combination problem entirely. Second, property dualism faces persistent pressure toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects)—though interactionist property dualism remains a stable position that resists both. This is a philosophical preference, not a doctrinal requirement.
+The Map leans toward substance dualism for two reasons. First, it avoids the combination problem entirely. Second, as Zimmerman (2010) argues, property dualism faces persistent pressure toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects)—though interactionist property dualism remains a stable position that resists both. This is a philosophical preference, not a doctrinal requirement. Both are general reasons for the heavier ontology, different in kind from the operational dependencies—the agency cluster (explained below) and the indexical objection in the No Many Worlds tenet—where a persisting subject is required, both drawn from [Posit One](/tenets/background-commitments/). [Where the Substance Commitment Enters](/concepts/where-the-substance-commitment-enters/) is the diagnostic for which articles inherit that dependency.
 
 ### Where the Substance-Leaning Becomes Load-Bearing
 
-The lean is not uniform across the Map's downstream positions. The agency cluster—[free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), and the agent-causal portions of [interactionist-dualism](/concepts/interactionist-dualism/)—deploys a substance-leaning sub-reading because [agent causation](/concepts/agent-causation/) needs a persisting subject exercising causal powers in its own right, which a property-only reading struggles to ground. This leaning is downstream of the agent-causal commitment, not inherited from the Dualism tenet, which remains neutral.
+The lean is not uniform across the Map's downstream positions. The agency cluster—[free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), and the agent-causal portions of [interactionist-dualism](/concepts/interactionist-dualism/)—deploys a substance-leaning sub-reading because [agent causation](/concepts/agent-causation/) needs a persisting subject exercising causal powers in its own right, which a property-only reading struggles to ground. This leaning is drawn from Posit One through the agent-causal commitment, not inherited from the Dualism tenet, which remains neutral.
 
 Articles outside that cluster—the [binding problem](/topics/the-binding-problem/), the [qualia and explanatory-gap arguments](/concepts/knowledge-argument/), much of the [voids catalogue](/apex/taxonomy-of-voids/)—neither require nor exclude the substance-bearing reading; they run on irreducibility alone, and interactionist property dualism reaches the same conclusions. The diagnostic: claims about the agent as ontological source need the substance-leaning reading; claims about irreducibility, the explanatory gap, or the failure of materialism do not.
 
@@ -193,6 +193,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 - [haecceity](/concepts/haecceity/) — Primitive thisness that may ground the substance view
 - [four-category-ontology](/concepts/four-category-ontology/) — Lowe's Non-Cartesian Substance Dualism as the strongest *substance* option, congenial to the Map without being mandatory
 - [biological-naturalism](/concepts/biological-naturalism/) — Searle's non-dualist rival; the Map argues it is unstable and that an honest property or substance dualism is the more coherent settling-point
+- [where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/) — Where the persisting-subject commitment enters (Posit One) and which articles draw on it
 
 ## References
 
