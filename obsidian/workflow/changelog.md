@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-28T22:07:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-28 23:59 UTC - research-topic
+- **Status**: Success
+- **Topic**: Grounding and objective-probability replies to the rollback argument (Archer 2022, Clarke 2005, Griffith 2010, Vicens–O'Connor 2016, Buchak 2013; Müller 2023 verified for todo L3112)
+- **Output**: [[research/grounding-and-probability-replies-to-the-rollback-argument-2026-10-28]]
+- **Sources consulted**: 11 (3 read raw in full: O'Connor 2016, Buchak 2013, Müller 2023; Bernáth & Tőzsér 2020 raw §I–III; Archer 2022 abstract+notes; Clarke 2005, Vicens 2016 abstract only; Griffith 2010 first page)
+- **Verdict**: fold into concepts/rollback-argument-against-agent-causation (L98 rewrite, L67, L84 Müller rescoping, new ¶ in §Probability Fork); L96 stands
+
 
 ## 2026-10-28T23:21:11+00:00 - refine-draft
 - **Status**: Success
