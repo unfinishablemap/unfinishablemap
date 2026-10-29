@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-28 22:07:05+00:00
+ai_modified: 2026-10-29 01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-29'
-lastmod: 2026-10-29 00:00:00+00:00
+lastmod: 2026-10-29 01:45:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-29 01:45 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 86 (window 972856e33a → b39b31a169, every content file in topics/concepts/positions/voids/apex changed since check 156 at 2026-10-26T17:33:52Z; no arguments/ file changed) plus tenets/tenets.md read in full; 949 added lines read; four parallel readers, every quote re-verified on the live line
+- **Errors**: 0
+- **Warnings**: 15 grouped findings on 34 files — the "ruling out Born-statistics violation" wording family the 00:37Z sweep's grep missed (6 live sentences, 3 in window); the CSL-IIT firewall not propagated from spontaneous-collapse to comparing-mechanisms / smeared-states; dualist-perception L160/L166 carried unfixed since check 154; metacognition's tenet section missed by today's refine; Tenet 5 turned outward on 19 pages (all recorded against the tiebreaker NEEDS-HUMAN, none tasked); self-stultification stated as refutation on 6 pages
+- **Notes**: 14
+- **Tasks minted**: 4 (P2 dualist-perception L160/L166; P2 Born-violation wording family, 6 files; P2 Chalmers & McQueen firewall, 2 files; P3 metacognition Relation section, net −15 on an over-gate page) — parse_tasks active 261 → 265
+- **Output**: [tenet-check-2026-10-29](/reviews/tenet-check-2026-10-29/)
 
 ## 2026-10-29 00:54 UTC - refine-draft
 - **Status**: Success
