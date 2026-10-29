@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-09-18 11:08:57+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-10-29 00:50:42+00:00
+ai_system: claude-sonnet-4-5-20250929+claude-fable-5-1
 author: null
 concepts:
 - '[[measurement-problem]]'
@@ -19,14 +19,14 @@ concepts:
 - '[[physics-as-disclosure]]'
 - '[[bi-aspectual-ontology]]'
 created: 2026-01-23
-date: &id001 2026-01-24
+date: &id001 2026-10-29
 description: 'GRW, CSL, and Penrose OR: physical collapse mechanisms that solve the
   prebiotic problem. Consciousness modulates rather than wholly causes collapse.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-06 14:43:35+00:00
-lastmod: 2026-09-18 11:08:57+00:00
+lastmod: 2026-10-29 00:50:42+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'
@@ -51,7 +51,7 @@ The [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpret
 1. **Infinite regress**: If measurement requires conscious observation, what collapses the observer's own wave function? An infinite chain of observers?
 2. **Prebiotic collapse**: Quantum events occurred for billions of years before consciousness evolved. Did superpositions persist across the early universe? Did the first bacteria collapse cosmic wave functions? (See [measurement-problem](/concepts/measurement-problem/) for the broader context.)
 
-These problems motivate consciousness-independent collapse mechanisms. If wave functions collapse spontaneously through physical processes, consciousness can still play a role by *modulating* collapse parameters (rate, location, basis selection) rather than wholly causing collapse. This is exactly what the Map's framework requires: minimal quantum interaction, not ubiquitous quantum-scale consciousness. (For extended treatment of this problem, including process philosophy perspectives and the decoherence challenge, see [prebiotic-collapse](/concepts/prebiotic-collapse/).)
+These problems motivate consciousness-independent collapse mechanisms. If wave functions collapse spontaneously through physical processes, consciousness can still play a role by *modulating* collapse parameters (rate, location, basis selection) rather than wholly causing collapse. This is exactly what the Map's framework requires: minimal quantum interaction, not ubiquitous quantum-scale consciousness. (For extended treatment, see [prebiotic-collapse](/concepts/prebiotic-collapse/).)
 
 ## GRW Theory (Discrete Spontaneous Collapse)
 
@@ -73,6 +73,8 @@ Within the GRW framework, consciousness could modulate:
 
 Critically, GRW provides the **baseline**: even unconscious matter collapses spontaneously. Consciousness doesn't create collapse *ex nihilo*—it nudges existing stochastic dynamics.
 
+These couplings stand differently under [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). Rate modulation changes an objective-collapse rate; location modulation pre-empts baseline collapse. Both alter GRW's own statistics, so they sit on Route 2 ([minimum-outside-the-corridor](/apex/born-preserving-causal-efficacy/)), a fallback tenable only below detection. Only the outcome reading is corridor-internal: it acts where baseline collapse leaves the outcome open and changes no distribution.
+
 ## CSL Theory (Continuous Spontaneous Localization)
 
 The CSL model (Pearle 1989, Ghirardi-Pearle-Rimini 1990) replaces discrete jumps with **continuous stochastic collapse** driven by a universal noise field coupled to mass-density. The Schrödinger equation gains a nonlinear stochastic diffusion term:
@@ -86,17 +88,17 @@ CSL is more elegant than GRW mathematically and makes similar experimental predi
 
 ### Consciousness-Modulated CSL (Hybrid Model)
 
-Chalmers and McQueen have proposed combining CSL with [Integrated Information Theory](/concepts/integrated-information-theory/). In this hybrid:
+Chalmers and McQueen have proposed combining CSL with [Integrated Information Theory](/concepts/integrated-information-theory/). Their abstract carries its own caveat: "Simple versions of the theory are falsified by the quantum Zeno effect, but more complex versions remain compatible with empirical evidence." In this hybrid:
 
 - **Baseline collapse**: CSL noise field operates universally (prebiotic collapse solved)
 - **Consciousness amplification**: Systems with high Φ (integrated information) experience stronger/faster collapse
 - **Mathematical framework**: Φ_Max serves as the collapse operator, making consciousness's role well-defined
 
-This model addresses **both** the measurement problem (collapse is real) and the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (consciousness plays causal role) simultaneously. It exemplifies the Map's position: consciousness is ontologically distinct ([Dualism](/tenets/#dualism)), causally efficacious ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), but operates at minimal quantum scale ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)) by modulating baseline physical processes.
+This model addresses **both** the measurement problem (collapse is real) and the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (consciousness plays a causal role). Its authors offer it as "a research program here worth exploring", compatible with materialist views of consciousness — IIT is not a dualist theory — so the Map treats CSL-IIT as a structurally adjacent programme to learn from rather than an instance of its position.
 
 ## Penrose Objective Reduction (OR)
 
-Roger Penrose proposes that collapse occurs when the spacetime curvature difference between superposed states reaches a threshold: **t = ħ/E_G** (Planck constant divided by gravitational self-energy). Larger mass differences → faster collapse. This grounds collapse in quantum gravity rather than phenomenological parameters. See [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the full treatment, including the partial falsification of the parameter-free Diósi-Penrose model and current experimental programmes.
+Roger Penrose proposes that collapse occurs when the spacetime curvature difference between superposed states reaches a threshold: **t = ħ/E_G** (Planck constant divided by gravitational self-energy). Larger mass differences → faster collapse. This grounds collapse in quantum gravity rather than phenomenological parameters. See [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the full treatment.
 
 Penrose suggests each OR event is a moment of "proto-conscious" experience—a form of panpsychism where consciousness is ubiquitous at the quantum level. This conflicts with the Map's [prebiotic resolution](/concepts/prebiotic-collapse/) under [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), which localises the interface to complex neural systems.
 
@@ -115,7 +117,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires sustained pre-decoherence coherence at neural scales
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction). Its demand for sustained pre-decoherence coherence is a cost the proposal carries in its own right: [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)'s minimality constrains the *magnitude* of any influence — no detectable energy injection, no Born-statistics violation, no conservation-law violation — rather than the scale at which a mechanism operates, so the strain lies with the biophysics rather than with the tenet. The Map's framework favours [post-decoherence selection](/apex/post-decoherence-selection-programme/), which sidesteps the coherence demand by acting on the improper mixture decoherence leaves behind; Stapp's quantum Zeno route (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) and hybrid CSL-IIT models remain live fallbacks below it — all examples of [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). The Zeno route's demotion ([P-Q4](/positions/quantum-interface/#p-q4)) runs through two independent gates — the decoherence timescale, and the bath-correlation regime criterion that fixes whether repeated observation suppresses or accelerates evolution — so closing the timescale gap alone would not re-elevate it. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
+Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction). Its demand for sustained pre-decoherence coherence is a cost the proposal carries in its own right: [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)'s minimality constrains the *magnitude* of any influence — no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation — rather than the scale at which a mechanism operates, so the strain lies with the biophysics rather than with the tenet. The Map's framework favours [post-decoherence selection](/apex/post-decoherence-selection-programme/), which sidesteps the coherence demand by acting on the improper mixture decoherence leaves behind; Stapp's quantum Zeno route (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) and hybrid CSL-IIT models remain live fallbacks below it, though of different kinds: Stapp's is basis control combined with timing control (attention holds a pattern once nature has answered), CSL-IIT's a modulation of rate, location or outcome (see [coupling-modes](/concepts/coupling-modes/)). All are examples of [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). The Zeno route's demotion ([P-Q4](/positions/quantum-interface/#p-q4)) runs through two independent gates — the decoherence timescale, and the bath-correlation regime criterion that fixes whether repeated observation suppresses or accelerates evolution — so closing the timescale gap alone would not re-elevate it. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
 
 ## Experimental Status
 
@@ -162,13 +164,13 @@ Decoherence explains why macroscopic systems look classical but doesn't solve th
 | **CSL** | Continuous stochastic via mass-density noise | Optional modulation via Φ coupling | Solved (universal noise field) | MQI, NMW, ORHL |
 | **Penrose OR** | Gravity threshold (t = ħ/E_G) | Every OR is proto-conscious (panpsychism) | "Solved" (proto-consciousness always existed) | Conflicts with prebiotic resolution |
 | **Orch OR** | Microtubule quantum computation + OR | Consciousness = orchestrated collapse | Same as Penrose OR | Dualism, BI; MQI-compatible but coherence-dependent |
-| **CSL-IIT Hybrid** | CSL baseline + Φ amplification | Consciousness modulates collapse strength | Solved (CSL baseline) | All five tenets |
+| **CSL-IIT Hybrid** | CSL baseline + Φ amplification | Consciousness modulates collapse strength | Solved (CSL baseline) | MQI, NMW, ORHL (Dualism, BI on the Map's reading) |
 
 **Legend**: MQI = Minimal Quantum Interaction, NMW = No Many Worlds, BI = Bidirectional Interaction, ORHL = Occam's Razor Has Limits
 
 ## Implications for the Map's Framework
 
-Spontaneous collapse theories are typically presented as solving the measurement problem entirely within physics — more structure closing a structural gap. The Map reads them differently through the [physics-as-disclosure](/concepts/physics-as-disclosure/) lens: GRW/CSL handle the *structural* dimension of collapse (baseline rates, mass-density coupling, prebiotic outcomes) while preserving the disclosed boundary where consciousness operates. They don't close the gap between possibility and actuality; they handle everything on the structural side of that gap. The CSL-IIT hybrid makes this explicit: CSL provides the structural baseline, consciousness provides the [actuality dimension](/concepts/bi-aspectual-ontology/) at the boundary physics discloses.
+Spontaneous collapse theories are typically presented as solving the measurement problem entirely within physics — more structure closing a structural gap. The Map reads them differently through the [physics-as-disclosure](/concepts/physics-as-disclosure/) lens: GRW/CSL handle the *structural* dimension of collapse (baseline rates, mass-density coupling, prebiotic outcomes) while preserving the disclosed boundary where consciousness operates. They don't close the gap between possibility and actuality; they handle everything on the structural side of that gap. A consciousness-modulated CSL makes this explicit: CSL provides the structural baseline, consciousness provides the [actuality dimension](/concepts/bi-aspectual-ontology/) at the boundary physics discloses.
 
 This reframing supports the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet:
 
@@ -179,11 +181,11 @@ This reframing supports the Map's [Minimal Quantum Interaction](/tenets/#minimal
 5. **Falsifiable framework**: Experimental tests constrain models, maintaining scientific rigor
 6. **Avoids Many Worlds**: Collapse is objective and real, not observer-dependent branching ([No Many Worlds](/tenets/#no-many-worlds))
 
-The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or similar) best instantiates this framework: [Dualism](/tenets/#dualism) (consciousness ontologically distinct), [Bidirectional Interaction](/tenets/#bidirectional-interaction) (consciousness causally influences outcomes), minimal quantum scale (modulates, doesn't wholly cause), rejection of [many-worlds](/concepts/many-worlds/) (collapse is real), and [Occam's Razor's limits](/tenets/#occams-limits) (solving measurement problem justifies modifying QM).
+A **consciousness-modulated CSL** model is the closest published programme to this framework, with Chalmers and McQueen's CSL-IIT as its worked example: it shares the baseline-plus-modulation shape (minimal quantum scale), realism about collapse (rejection of [many-worlds](/concepts/many-worlds/)) and the willingness to modify QM for the measurement problem ([Occam's Razor's limits](/tenets/#occams-limits)). Reading the modulating term as ontologically distinct ([Dualism](/tenets/#dualism)) and efficacious in its own right ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) is the Map's addition.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Consciousness-modulated collapse models (CSL-IIT) preserve ontological distinction. Consciousness isn't reducible to classical neural firing patterns—it's a candidate parameter in collapse dynamics.
+**[Dualism](/tenets/#dualism)**: Consciousness-modulated collapse models preserve ontological distinction. Consciousness isn't reducible to classical neural firing patterns—it's a candidate parameter in collapse dynamics.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet *favours* spontaneous collapse theories. Without baseline physical collapse, consciousness would need to collapse every quantum event in the universe (panpsychism) or solve the prebiotic collapse problem. GRW/CSL provide one minimal design: consciousness modulates existing stochastic processes.
 
@@ -205,12 +207,12 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 - [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
 - [psychophysical-laws](/concepts/psychophysical-laws/) - how phenomenal properties map to physical parameters
-- [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse, including basis selection vs. outcome selection
+- [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse
 - [many-worlds](/concepts/many-worlds/) - the Map's rejection of branching interpretations
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — comparative survey of interpretations and their consciousness implications
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical question: why *this* consciousness experiences *this* collapsed outcome
 - [integrated-information-theory](/concepts/integrated-information-theory/) - Φ as potential collapse operator in hybrid models
-- [physics-as-disclosure](/concepts/physics-as-disclosure/) — why the Map reads the measurement problem as disclosure rather than deficiency, and how spontaneous collapse handles the structural side of that boundary
+- [physics-as-disclosure](/concepts/physics-as-disclosure/) — why the Map reads the measurement problem as disclosure rather than deficiency
 - [causal-closure](/concepts/causal-closure/) - how spontaneous collapse modifies microphysics without violating conservation laws
 - [free-will](/topics/free-will/) - how spontaneous collapse enables libertarian free will
 - [illusionism](/concepts/illusionism/) - the eliminativist challenge this framework must address
@@ -229,7 +231,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press. arXiv:2105.02314.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11-39.
 1. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17(1), 74-78.
 1. Arnquist, I. J., et al. (Majorana Collaboration) (2022). Search for spontaneous radiation from wave function collapse in the Majorana Demonstrator. *Physical Review Letters*, 129, 080401. Erratum (2023), *Physical Review Letters*, 130, 239902.
