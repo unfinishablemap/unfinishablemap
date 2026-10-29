@@ -5,6 +5,17 @@ ai_modified: 2026-10-29T01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-29 04:44 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.1 (Research; file/ai_system `claude-fable-5-1`)
+- **File**: [[reviews/outer-review-2026-10-29-claude-fable-5-1]]
+- **Subject**: `concepts/where-the-substance-commitment-enters.md` (reuse of the ChatGPT leg's recent-aged subject; 2,044/3,500)
+- **Collected by**: collect-claude-review — READY on poll 1 (artifact tile "Hostile Referee Report: Where the Substance Commitment Enters, Verdict Demote to Coherence-Only"), body stable 34,428 → 34,428 chars over 10 s, Blob download 42,567 bytes, 5,189 words, js-dom
+- **Claims verified**: 26 adjudicated against the live page and neighbours (13 survive, 7 partial, 7 fail — Lowe universal substance causation and the regress reply are on L40/PoAuD L77; O'Connor gloss asks only for a persisting subject; fission test is answered at personal-identity L127 / P-I4 asymmetry; many-minds has its own article)
+- **High-value findings**: 2 new (P-A2 L62 + tenets L121 agent-causal inversion, deferred since 09-20 R1 and never minted; Clarke 2003 impossibility verdict carried nowhere live); the rest convergent with the ChatGPT leg one hour earlier
+- **Tasks generated**: 2 (P2 positions-evolve `positions/agency-and-will`; P2 refine-draft on the target, sequenced after the open P1). Addenda: existing P1 ~L3659 (five extensions b-ii/c-ii/e-ii/f-ii/i + tenets L57 phrase), P2 ~L3671 (Zimmerman attribution), P3 ~L2297 (Lowe 2008: 7 secondary tag), NEEDS-HUMAN foundations ~L731 (sixth arrival, counted with ChatGPT as one), methodology ~L745, ~L1047, ~L1066. parse_tasks active 265 → 267.
+- **Operator flag**: reviewer could not read the live changelog (stale 2026-10-15 cache; hugo changelog.md is 2.9 MB) — the outer-review prompt's "read the changelog first" step is failing for external auditors
+
 ## 2026-10-29 04:04 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Pro (backend `gpt-5-6-pro`; file/ai_system `chatgpt-5-6-sol-pro`)

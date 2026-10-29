@@ -325,9 +325,9 @@
   prompt_summary: 'Hostile audit: where-the-substance-commitment-enters (persisting
     subject)'
   target_filename: outer-review-2026-10-29-claude-fable-5-1.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-29T04:36:22.259763+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile referee for The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy site. Before anything else, read the changelog at https://unfinishablemap.org/workflow/changelog/
