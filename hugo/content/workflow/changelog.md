@@ -10,6 +10,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 03:39 - deep-review
+- **Status**: Success
+- **File**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
+- **Word count**: 3,789 → 3,447 (−342; concepts hard gate 3,500; hard_warning → soft_warning)
+- **Critical issues addressed**: 7 (over hard gate; Gershman 2024 quotation reordered to verbatim; L58 absence claim scoped "the Map has found" — todo L2518(a) discharged, (b) discharged by the cut; Erskine 1990 "tentative" restored; "not latency" → "not latency alone"; unverified "preregistered" dropped from the Dorison replication clause; self-citation refs 19–20 brought to the plus-joined pseudonym form per writing-style L524/L539)
+- **Medium issues addressed**: 2 (Further Reading pruned to the three pages not body-linked; triple restatement of the ranking argument tightened)
+- **Enhancements made**: 3 (two 2026 refs confirmed real with DOI+PubMed; Young 2019 Ns and "prior to participants' decision" raw-verified in PMC6387652; Dorison 2019 p = .028 / p = .002 / demand concession raw-verified in the DASH dissertation text)
+- **Cuts**: MEQ30 paragraph + Barrett 2015 ref (tangent; rehoming task minted), Wilson & Gilbert 2005 and 2013, Levine 2013, Tasbihgou 2018 refs; Schlösser definition quote and Young "prior to" quote (both live on the immediate-emotions page); Carlson quote → paraphrase; 20 calibration qualifiers grep-confirmed surviving (list in review file)
+- **Citation ledger**: 33/33 remaining refs real-correct at Crossref; 17 body quotations: 2 raw-verified, 15 abstract-verified, 0 carrier-only, 0 unverified; 900-fold and NAP5 figures re-checked
+- **Reasoning mode**: value-blind steelman — Mixed (Mode Two open, Mode One via Solms/Friston/Hesp realist reading, Mode Three close); RPE/wanting — Mode One, flagged interpretive; no label leakage
+- **Banned constructions**: 0 before, 0 after
+- **Sync**: hugo/content/concepts/affective-forecasting-gap.md verified (ai_modified 2026-10-29 03:36:32+00:00; new wording present; removed strings absent)
+- **Tasks minted**: 1 (rehome MEQ30 disclosure, length-neutral, topics/psychedelics-and-the-filter-model)
+- **Output**: [deep-review-2026-10-29-affective-forecasting-gap](/reviews/deep-review-2026-10-29-affective-forecasting-gap/)
+
 ## 2026-10-29 02:50 UTC - refine-draft
 - **Status**: Success
 - **File**: [process-and-consciousness](/apex/process-and-consciousness/)
