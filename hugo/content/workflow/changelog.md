@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-29 02:50 UTC - refine-draft
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Original score**: n/a (targeted convergent fix; `scripts/curate.py review` absent)
+- **Task**: todo L3430 P1 — synthesis 2026-10-28 C5 (ChatGPT §5.6, Claude §(4) "coherence inflation"): the process apex stated the No-MWI case unconditionally where tenets L117 / one-world-wager L84 / [P-I2](/positions/individuation-and-subjecthood/#p-i2) hold it conditionally.
+- **Changes**: (1) L131: removed "Many-worlds dissolves this identity ... would be illusory"; installed the Everettian branch-relative reply ([Saunders, Wallace](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply)) — each successor keeps a local durée, so branching removes global uniqueness, not continuity — with the Map's demand for globally unique continuation scoped to the non-deflationary subject [one-world-wager](/apex/one-world-wager/) L84 names as precondition ([P-I2](/positions/individuation-and-subjecthood/#p-i2)). +40 words. (2) L133: "undermining the thisness" → "multiplying rather than preserving the unique thisness", with the deflationary reading's denial of a further fact stated as the reason the objection is conditional. +23 words. (3) L177 tenet row: "that branching would dissolve" → "that branching would multiply rather than preserve as one", piped to [P-I2](/positions/individuation-and-subjecthood/#p-i2); third sentence rescoped "one continuous self, not infinitely splitting copies" → "one globally unique self, not many locally continuous successors" so it no longer contradicts the new L131. +15 words. Whitehead concrescence paragraph (L129) untouched. Tenet 4 remains rejected: the edits say where the objection bites, not that it fails.
+- **Length**: analyze_length 4,091 → 4,170 (net +79; soft 4,000 already passed; hard 5,000).
+- **Residue (not tasked, concepts at cap, out of scope)**: L135 "the intimacy that constitutes personal identity becomes metaphysically promiscuous" and L137 "Many-worlds would replicate the flame ... dissolving the very particularity" carry the same unconditional register; L135 already names the Everettian response and both now sit downstream of the scoped L131, but a future pass could pipe them to the same precondition at ~10 words each.
+- **Engagement with the Everettian (Saunders, Wallace)**: Mode Three — the article now marks the framework-boundary disagreement (non-deflationary vs deflationary subject) honestly rather than claiming in-framework refutation.
+- **Published**: yes
+
 ## 2026-10-29T02:20:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [living-with-the-map](/apex/living-with-the-map/)

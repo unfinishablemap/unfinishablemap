@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-10-22 15:56:31+00:00
+ai_modified: 2026-10-29 02:50:33+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-04-21 12:51:00+00:00
 apex_sources:
@@ -24,7 +24,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[integration-as-activity]]'
 created: 2026-01-31
-date: &id001 2026-10-20
+date: &id001 2026-10-29
 description: Reality as becoming, not being. Whitehead and Bergson's process frameworks
   illuminate the Map's five tenets—from irreducibility to temporal agency.
 draft: false
@@ -36,7 +36,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 16:18:53+00:00
-lastmod: 2026-10-22 15:56:31+00:00
+lastmod: 2026-10-29 02:50:33+00:00
 modified: *id001
 related_articles:
 - '[[prehension]]'
@@ -131,9 +131,9 @@ If consciousness contributes to quantum collapse, one question becomes urgent: d
 
 Whitehead developed process philosophy before many-worlds was proposed, yet his framework strongly supports this rejection. Each actual occasion achieves definite form through concrescence—becoming one thing rather than remaining all possibilities. The multiplicity of potential outcomes resolves into actual singularity.
 
-This connects to temporal identity. Bergson's durée presupposes a continuous self persisting through time—the past that lives in the present is *my* past, not the past of some branch-copy. Many-worlds dissolves this identity: "you" are infinitely branching copies, each experiencing what seems like continuous duration but actually living only a fragment of an ever-splitting tree. The unity that makes durée what it is—the interpenetration of past, present, and future in one experiential stream—would be illusory.
+This connects to temporal identity. Bergson's durée presupposes a continuous self persisting through time—the past that lives in the present is *my* past, not the past of some branch-copy. Branching threatens this identity, but the threat needs stating precisely. On the Everettian [branch-relative reply](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) (Saunders, Wallace), each successor keeps a local durée of its own, so what branching removes is global uniqueness, not continuity. What durée demands, on the Map's reading, is globally unique continuation—one experiential stream whose past is *mine* alone—and that demand bites only on the non-deflationary subject that [the one-world apex](/apex/one-world-wager/) names as its precondition: an I whose branch-assignment is a real further fact rather than a convention ([P-I2](/positions/individuation-and-subjecthood/#p-i2)).
 
-Whitehead's concept of "personal order" reinforces this point. A stream of consciousness is a sequence of occasions where each inherits from its immediate predecessor with peculiar intimacy. This inheritance creates personal identity across time—not substantial identity (an unchanging soul) but processual identity (each occasion taking up its predecessor as *its own* past). If all branches existed equally, this intimacy would be replicated across uncountably many streams, undermining the thisness—[haecceity](/concepts/haecceity/)—that makes you *you*.
+Whitehead's concept of "personal order" reinforces this point. A stream of consciousness is a sequence of occasions where each inherits from its immediate predecessor with peculiar intimacy. This inheritance creates personal identity across time—not substantial identity (an unchanging soul) but processual identity (each occasion taking up its predecessor as *its own* past). If all branches existed equally, this intimacy would be replicated across uncountably many streams, multiplying rather than preserving the unique thisness—[haecceity](/concepts/haecceity/)—that makes you *you*; the deflationary reading denies there is any further fact here to undermine, so the objection stays conditional on that subject.
 
 The [phenomenology of temporal experience](/concepts/temporal-consciousness/) supports this picture. We don't experience ourselves as branching; we experience ourselves as persisting through time while the past closes behind us and the future opens ahead. This phenomenology is what collapse *feels like* from the inside. Everettians respond that each branch-self would experience exactly this continuity, making the phenomenology compatible with branching. But process philosophy reveals what this response costs: if prehensive inheritance—each occasion taking up its predecessor as *its own* past—is replicated across countless branches, the intimacy that constitutes personal identity becomes metaphysically promiscuous. The "thisness" of experience is either unique or it isn't; process philosophy's commitment to definite actualisation preserves it as genuine.
 
@@ -177,7 +177,7 @@ This apex article draws on all five tenets:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Process philosophy generalizes conscious causation: all actuality involves subjective aim. The Map's claim that consciousness influences physical outcomes is not exceptional but exemplary of how reality works. Bergson's durée provides the phenomenological side—creative causation emerging from the whole self.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Process philosophy's commitment to definite actualisation—occasions achieving particular form—supports rejecting many-worlds. Personal identity requires the prehensive intimacy that branching would dissolve. Durée's interpenetrating flow presupposes one continuous self, not infinitely splitting copies.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Process philosophy's commitment to definite actualisation—occasions achieving particular form—supports rejecting many-worlds. Personal identity requires the prehensive intimacy that branching would multiply rather than preserve as one ([P-I2](/positions/individuation-and-subjecthood/#p-i2) records the conditional standing of that objection). Durée's interpenetrating flow presupposes one globally unique self, not many locally continuous successors.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Process philosophy's elaborate framework demonstrates that complexity may be necessary to capture what simpler accounts ignore. Materialist parsimony is achieved by excluding experience from the ontology. When we insist on explaining what we actually encounter, simplicity provides less guidance.
 
