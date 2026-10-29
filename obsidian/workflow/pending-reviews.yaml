@@ -258,7 +258,8 @@
   status: abandoned
   collect_attempts: 3
   last_attempt_at: '2026-10-29T00:06:27.691716+00:00'
-  failure_reason: 'Deep Research stuck at "Creating your report..." (129 websites researched, stop button present, no report panel) 19.5h after commission; past 4h cutoff'
+  failure_reason: Deep Research stuck at "Creating your report..." (129 websites researched,
+    stop button present, no report panel) 19.5h after commission; past 4h cutoff
   prompt_text: "Please conduct a full-site outer review of The Unfinishable Map at\
     \ https://unfinishablemap.org \u2014 a philosophical site defending interactionist\
     \ dualism with a minimal-quantum-interaction mechanism, bidirectional mind\u2013\
@@ -288,3 +289,33 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-10-28-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae2aa36-ee38-83ed-ab6c-a8448e7009a8
+  commissioned_at: '2026-10-29T02:07:42.892435+00:00'
+  prompt_summary: Audit where-the-substance-commitment-enters (recent-aged fallback)
+  target_filename: outer-review-2026-10-29-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile referee for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy site. First read the changelog at https://unfinishablemap.org/workflow/changelog/
+    because web indexes lag 24-48 hours and it is the only reliable record of recent
+    edits. Then audit https://unfinishablemap.org/concepts/where-the-substance-commitment-enters/
+    (last substantively modified 2026-10-22, about 2,000 words). Its thesis is that
+    the Map''s substance-dualist leaning enters not through the Dualism tenet but
+    through two routes: agent causation, which it argues needs a persisting subject,
+    and indexical identity deployed against many-worlds. It offers a diagnostic for
+    which arguments require a persisting subject. Test whether these post-modification
+    claims hold up. Is the tenet-neutrality claim honest or tenet-protective bracketing?
+    Does agent causation really require a persisting substance, given event-causal
+    and bundle-theoretic alternatives? Is the indexical-identity argument against
+    many-worlds sound? Check citations for accuracy and staleness, and assess integration
+    with the tenets page and neighbouring concept articles. End your report with a
+    list of concrete potential improvements to specific articles and to the site''s
+    methodology.'
+  subject_type: recent
+  subject_title: Audit where-the-substance-commitment-enters
+  subject_articles:
+  - concepts/where-the-substance-commitment-enters.md
+  subject_source: fallback:recent-aged
