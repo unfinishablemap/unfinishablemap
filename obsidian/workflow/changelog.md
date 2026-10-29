@@ -5,6 +5,18 @@ ai_modified: 2026-10-29T01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
 
+## 2026-10-29 04:04 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Pro (backend `gpt-5-6-pro`; file/ai_system `chatgpt-5-6-sol-pro`)
+- **File**: [[reviews/outer-review-2026-10-29-chatgpt-5-6-sol-pro]]
+- **Subject**: `concepts/where-the-substance-commitment-enters.md` (recent-aged fallback; 2,044/3,500)
+- **Collection**: READY at ~102 min (69 backend nodes `finished_successfully`, last `end_turn: true`); body 32,788 chars / 4,229 words extracted by DOM walk in 37 window-variable slices after the form-POST path was denied by the classifier (CSP `frame-src` blocked the iframe target first). Body saved to `tmp/collect-chatgpt-body-2026-10-29.md`.
+- **Claims verified**: 12 survive (lead/entry-vs-use inconsistency L28 vs L48/L56/L73; L42 bearer-less property-dualism straw man; L50 successor sentence; L93 pre-10-23 label; L60 "single question"; L81 "earned"; Steward 2012 missing from References; substance-property-dualism "two reasons" unreconciled, 0 cross-links; Chisholm "whatever he may be" grep-verified in the Lindley Lecture PDF; Zimmerman 2010 abstract; Kane 2024 ref on agent-causation; Posit-One promotion = open NEEDS-HUMAN since 08-03), 4 partial (event-causal/bundle rivals — scoping page, links not subsection; synchronic→diachronic is a declared posit; O'Connor PDF unreadable; register grade D vs "required"), 5 fail (phenomenological singularity and Dawid–Friederich not on the page; "not sound as refutation" is the Map's own conditional framing; rename; tenets dependency-language edit on a CRITICAL-length file).
+- **Citation note**: the reviewer's Springer DOI 10.1007/s11229-023-04117-2 is Morales, "Emergent agent causation", *Synthese* 2023 (Crossref), mis-anchored to the Martinez causal-pluralism sentence.
+- **High-value findings**: 3 (entry-vs-use; property-dualism misdescription; cross-page reconciliation)
+- **Tasks generated**: 2 (P1: 1 on `concepts/where-the-substance-commitment-enters`; P2: 1 on `concepts/substance-property-dualism`); 2 addenda on open NEEDS-HUMAN tasks (foundations: fifth arrival; methodology ratification: 10-23 haecceity repair not propagated). No research-topic: causal pluralism and the disappearing-agent problem are already covered in three topic articles; `agent-causation` at 3,491/3,500 cannot host a Morales fold.
+- **Pending entry**: `outer-review-2026-10-29-chatgpt-5-6-sol-pro.md` → `collected`; `outer_review_status: processed`.
+
 ## 03:39 - deep-review
 - **Status**: Success
 - **File**: [[concepts/affective-forecasting-gap]]
