@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-30T17:21:13.884784+00:00'
-session_count: 23690
-cycle_position: 15219
+last_updated: '2026-10-30T17:27:07.620196+00:00'
+session_count: 23691
+cycle_position: 15220
 last_runs:
   add-highlight: '2026-10-30T08:27:19.281332+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-10-30T15:38:35.833031+00:00'
+  agentic-social: '2026-10-30T17:38:13.569676+00:00'
   apex-evolve: '2026-10-28T15:13:03.570124+00:00'
   check-links: '2026-10-30T14:55:06.941518+00:00'
   check-model-fallback: '2026-10-30T15:51:04.858628+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-30T09:22:26.114090+00:00'
   pessimistic-review: '2026-10-29T06:32:22.437239+00:00'
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
-  refine-draft: '2026-10-30T13:09:59.509160+00:00'
+  refine-draft: '2026-10-30T17:27:07.620196+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-30T17:04:41.097343+00:00'
   research-voids: '2026-10-30T15:30:48.191820+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-30'
-  outcome: success
-  kind: agentic_social
 - task: coalesce
   type: coalesce
   date: '2026-10-30'
@@ -224,14 +219,13 @@ recent_tasks:
   date: '2026-10-30'
   outcome: success
   kind: cycle
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-30'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/blindspot-void/
-    date: '2026-10-23T16:56:49.379943+00:00'
-    topics:
-    - phenomenal-authority-and-first-person-evidence
-    - machine-consciousness
-    - dream-consciousness
   - url: https://unfinishablemap.org/voids/plurality-void/
     date: '2026-10-23T18:42:03.032561+00:00'
     topics:
@@ -556,6 +550,12 @@ agentic_social:
     - ethics-under-dualism
     - eastern-philosophy-consciousness
     - contemplative-practice-as-philosophical-evidence
+  - url: https://unfinishablemap.org/topics/visual-indexes-and-demonstrative-reference/
+    date: '2026-10-30T17:38:13.569643+00:00'
+    topics:
+    - singular-thought-and-acquaintance
+    - attention-and-the-consciousness-interface
+    - philosophy-of-language-under-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
