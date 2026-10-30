@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-03
-ai_modified: 2026-10-24 15:38:51+00:00
+ai_modified: 2026-10-30 12:52:56+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'Human+AI exploration of why a mind cannot tell from inside whether
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-24 15:38:51+00:00
+lastmod: 2026-10-30 12:52:56+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -117,7 +117,7 @@ Both readings are compatible with the tenet, and neither discriminates it from i
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** connects through revealed preference, the simplest available model of choice, whose simplicity hid a construction step that took two procedures to expose. The discovered-preference hypothesis is also a simplicity-preserving move and may be right; the tenet claims only that simplicity is no reliable guide here.
 
-**[Dualism](/tenets/#dualism)** connects through the gap between preference as mental state and preference as choice pattern. If the construction literature is right, an event rather than a state fills that gap, a datum dualism must explain and one that confirms nothing. **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** meets the void as an open question: whether selection among prepared orderings could respect the tenet's empirical constraints (no detectable energy injection, no Born-statistics violation, no conservation-law violation) is untested here. **[No Many Worlds](/tenets/#no-many-worlds)** is not engaged: the procedure-dependence is classical, and an Everettian branch also carries one ordering.
+**[Dualism](/tenets/#dualism)** connects through the gap between preference as mental state and preference as choice pattern. If the construction literature is right, an event rather than a state fills that gap, a datum dualism must explain and one that confirms nothing. **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** meets the void as an open question: whether selection among prepared orderings could respect the tenet's empirical constraints (no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation) is untested here. **[No Many Worlds](/tenets/#no-many-worlds)** is not engaged: the procedure-dependence is classical, and an Everettian branch also carries one ordering.
 
 ## Further Reading
 

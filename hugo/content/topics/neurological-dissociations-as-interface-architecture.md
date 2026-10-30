@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-19 18:00:11+00:00
+ai_modified: 2026-10-30 12:52:56+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -29,7 +29,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 09:15:10+00:00
-lastmod: 2026-10-19 18:00:11+00:00
+lastmod: 2026-10-30 12:52:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -199,7 +199,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The ascending and descending channels fit the tenet's picture: on the interface reading, sensory content, affect, and self-model are delivered upward, motor selections flow downward, and alien hand syndrome and blindsight show that each direction's channel can fail independently. Fit, however, is the honest grade—not confirmation. Four claims come apart here: that experience depends on brain function (every dissociation shows this); that the two directions can fail separately (the dissociations show this); that consciousness causes physical events; and that such causation is nonphysical. The dissociations secure the first two claims strongly and cannot secure the last two—as the body's closing analysis concedes, a functionalist reading of the same separable channels predicts the identical phenomenology, so the inference stays compatibility-grade for the tenet, not vindication-grade. What the clinical pattern supplies is the separability a bidirectional interface would need, each direction failing independently; the case that consciousness actually exercises the descending direction rests on the Map's agency arguments ([motor selection](/concepts/motor-selection/), [consciousness and agency](/apex/consciousness-and-agency/)), not on the dissociation evidence alone.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The narrow bandwidth of conscious behaviour—roughly 10 bits per second of throughput (Zheng & Meister, 2025) against the roughly 11 million bits per second of sensory transduction (Zimmermann, 1986; Nørretranders, 1998)—is a datum any account predicts, and throughput is not interface bandwidth. The tenet's minimality is fixed by its Rules-out clause (no detectable energy injection, no Born-statistics violation, no conservation-law violation), not by narrowness or extent, which the dissociations cannot settle: reading finite, individually disableable components off them [presupposes transparency and locality](/topics/logic-of-dissociation-inference/#three-tiers).
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The narrow bandwidth of conscious behaviour—roughly 10 bits per second of throughput (Zheng & Meister, 2025) against the roughly 11 million bits per second of sensory transduction (Zimmermann, 1986; Nørretranders, 1998)—is a datum any account predicts, and throughput is not interface bandwidth. The tenet's minimality is fixed by its Rules-out clause (no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation), not by narrowness or extent, which the dissociations cannot settle: reading finite, individually disableable components off them [presupposes transparency and locality](/topics/logic-of-dissociation-inference/#three-tiers).
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The tenet adds coherence here, not support: each dissociation is a definite fact within any branch—this patient lost this channel—so an Everettian restates the lesion inference as readily. The Map reads dissociations as revealing the structure of a single mind-brain interface; that reading assumes the patient's condition is a determinate fact about one world, not an indexical perspective within a branching totality, and the assumption rests on the [indexical objection](/arguments/many-worlds-argument/), not on the clinical evidence.
 

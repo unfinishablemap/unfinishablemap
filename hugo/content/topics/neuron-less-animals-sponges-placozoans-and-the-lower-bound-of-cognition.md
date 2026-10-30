@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-08
-ai_modified: 2026-09-20 00:17:00+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_modified: 2026-10-30 12:52:56+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-07-08
@@ -19,7 +19,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 00:17:00+00:00
-lastmod: 2026-09-20 00:17:00+00:00
+lastmod: 2026-10-30 12:52:56+00:00
 modified: *id001
 related_articles: []
 title: 'Neuron-Less Animals: Sponges, Placozoans, and the Lower Bound of Cognition'
@@ -78,7 +78,7 @@ What the rung buys the Map is a *floor*. Below the nerve net, behaviour does not
 
 Neuron-less animals bear most directly on **Tenet 3 (Bidirectional Interaction)**, which frames consciousness as causally interfacing with the physical world at some localisable point, and therefore raises the question of *where the lower bound of that interface lies*. Sponges and placozoans answer at least the negative half of the question. There is no neural substrate here for a consciousness-physical interface to occupy, so if adaptive, coordinated, goal-like behaviour is nonetheless present—and it plainly is—then such behaviour **cannot be a reliable marker of the interface**. This is the *sub-personal-competence* reading (reading (c)) that the Map develops across [basal-and-bioelectric-cognition](/topics/basal-and-bioelectric-cognition/), [plant-cognition-and-the-plant-neurobiology-debate](/topics/plant-cognition-and-the-plant-neurobiology-debate/), and [the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question](/topics/the-enteric-nervous-system-and-the-gut-brain-distributed-interface-question/): agency and competency are treated as *function*, and the behavioural markers of agency are defeasible—decisive nowhere on their own. Neuron-less animals are the cluster's floor case, where the decoupling of competence from experience is starkest because the neural substrate is not merely distributed or peripheral but wholly absent.
 
-**Tenet 2 (Minimal Quantum Interaction)** bears on the interface question here, though more narrowly than it may first appear. Its minimality is a constraint on the *magnitude* of any non-physical influence—no detectable energy injection, no Born-statistics violation, no conservation-law violation—not a parsimony heuristic about how experience is distributed across organisms; [the tenet's scoping note](/tenets/#minimal-quantum-interaction) disowns that second reading, and Tenet 5's symmetric self-binding applies to parsimony arguments *for* the Map's own verdicts as much as against them. What Tenet 2 licenses at this floor is an allocation rule about causal footprint: decline to multiply interfaces beyond the machinery that could host them, and sponges and placozoans offer no neural machinery to host one. That is a framework-relative rule about where influence is exerted, not a demonstration that the sneeze or the feeding pause is unfelt, and the state of the mechanistic account is not what carries it. A sponge experience that made no difference to any physical outcome would add no non-physical footprint at all, and minimality would have nothing to weigh against it.
+**Tenet 2 (Minimal Quantum Interaction)** bears on the interface question here, though more narrowly than it may first appear. Its minimality is a constraint on the *magnitude* of any non-physical influence—no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation—not a parsimony heuristic about how experience is distributed across organisms; [the tenet's scoping note](/tenets/#minimal-quantum-interaction) disowns that second reading, and Tenet 5's symmetric self-binding applies to parsimony arguments *for* the Map's own verdicts as much as against them. What Tenet 2 licenses at this floor is an allocation rule about causal footprint: decline to multiply interfaces beyond the machinery that could host them, and sponges and placozoans offer no neural machinery to host one. That is a framework-relative rule about where influence is exerted, not a demonstration that the sneeze or the feeding pause is unfelt, and the state of the mechanistic account is not what carries it. A sponge experience that made no difference to any physical outcome would add no non-physical footprint at all, and minimality would have nothing to weigh against it.
 
 This is where the Map parts company with Bechtel and Bich, and the split is precise. The Map can *grant the competence*—coordinated feeding is genuine, impressive biological control—while *withholding experience*. Their argument identifies cognition with adaptive chemical coordination; the Map's dualism drives a wedge between coordination-as-function and consciousness-as-felt, and neuron-less animals are the case where that wedge goes in most cleanly. Granting them cognition-as-competence costs the Map nothing; conceding cognition-as-experience is exactly the inference the tenets resist.
 

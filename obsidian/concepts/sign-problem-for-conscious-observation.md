@@ -4,7 +4,7 @@ description: "Minimality fixes how large a conscious influence may be, not which
 created: 2026-08-16
 modified: 2026-08-16
 human_modified:
-ai_modified: 2026-10-08T14:25:22+00:00
+ai_modified: 2026-10-30T12:52:56+00:00
 draft: false
 topics:
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-5+claude-fable-5-1
+ai_system: claude-opus-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-08-16
 last_curated:
 last_deep_review: 2026-09-19T20:16:41+00:00
@@ -84,7 +84,7 @@ One measurement would convert this from a dilemma into a decidable question: cha
 
 ## Relation to Site Perspective
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** takes the direct hit, and the repair is to state it as a two-parameter claim. The tenet's minimality is an *empirical-constraint* minimality: no detectable energy injection, no Born-statistics violation, no conservation-law violation. Every one of those constrains how large the influence may be. None constrains which way it points. The Map should hold, going forward, that an interface proposal owes a magnitude argument *and* a direction argument, and should not treat the first as discharging the second.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** takes the direct hit, and the repair is to state it as a two-parameter claim. The tenet's minimality is an *empirical-constraint* minimality: no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation. Every one of those constrains how large the influence may be. None constrains which way it points. The Map should hold, going forward, that an interface proposal owes a magnitude argument *and* a direction argument, and should not treat the first as discharging the second.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what Horn 1 threatens. An influence whose direction is set by substrate properties still counts as causal traffic from mind to matter, so the tenet's bare commitment survives. What does not survive is the agency reading: influence that carries no information about what the agent wanted sits closer to the mechanism-debt the [[positions/quantum-interface|quantum positions register]] already concedes than the corpus has acknowledged.
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why a mind cannot tell from inside whether
 created: 2026-10-03
 modified: 2026-10-04
 human_modified: null
-ai_modified: 2026-10-24T15:38:51+00:00
+ai_modified: 2026-10-30T12:52:56+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -113,7 +113,7 @@ Both readings are compatible with the tenet, and neither discriminates it from i
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** connects through revealed preference, the simplest available model of choice, whose simplicity hid a construction step that took two procedures to expose. The discovered-preference hypothesis is also a simplicity-preserving move and may be right; the tenet claims only that simplicity is no reliable guide here.
 
-**[[tenets#^dualism|Dualism]]** connects through the gap between preference as mental state and preference as choice pattern. If the construction literature is right, an event rather than a state fills that gap, a datum dualism must explain and one that confirms nothing. **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** meets the void as an open question: whether selection among prepared orderings could respect the tenet's empirical constraints (no detectable energy injection, no Born-statistics violation, no conservation-law violation) is untested here. **[[tenets#^no-many-worlds|No Many Worlds]]** is not engaged: the procedure-dependence is classical, and an Everettian branch also carries one ordering.
+**[[tenets#^dualism|Dualism]]** connects through the gap between preference as mental state and preference as choice pattern. If the construction literature is right, an event rather than a state fills that gap, a datum dualism must explain and one that confirms nothing. **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** meets the void as an open question: whether selection among prepared orderings could respect the tenet's empirical constraints (no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation) is untested here. **[[tenets#^no-many-worlds|No Many Worlds]]** is not engaged: the procedure-dependence is classical, and an Everettian branch also carries one ordering.
 
 ## Further Reading
 

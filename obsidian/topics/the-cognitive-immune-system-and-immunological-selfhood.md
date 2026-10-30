@@ -4,7 +4,7 @@ description: "Immunity learns, remembers, and tells self from non-self with zero
 created: 2026-07-08
 modified: 2026-07-08
 human_modified:
-ai_modified: 2026-08-24T19:08:53+00:00
+ai_modified: 2026-10-30T12:52:56+00:00
 last_deep_review: 2026-08-24T19:08:53+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-08
 last_curated:
 embedded_videos:
@@ -76,7 +76,7 @@ Two things keep that inference from reaching further than it can. Declining the 
 
 What survives is that the immune case is *consistent with* the interface being tied to particular neural machinery rather than to functional competence in general. The stronger reading—that it positively points there—is what the Map's own interface commitment yields from inside the framework rather than a result the immune data deliver on their own, and [[apex/competency-without-felt-experience|the cluster synthesis]] sets both ceilings for the ladder as a whole. Immunity does the cognitive-grade work; on the Map's framework, it is not where mind gets in.
 
-**Tenet 2 (minimal quantum interaction), by absence.** Tenet 2's minimality constrains the *magnitude* of any non-physical influence—no detectable energy injection, no Born-statistics violation, no conservation-law violation—rather than serving as a parsimony heuristic about how experience is distributed; [[tenets#^minimal-quantum-interaction|the tenet's scoping note]] disowns that second reading. What it licenses here is an allocation rule about causal footprint: decline to multiply interfaces beyond the machinery that could host them, and the immune system offers no neural machinery to host one. Immune "decisions" are, on the Map's reading, selection dynamics—clonal, contextual, molecular—needing no consciousness-side contribution. That is a framework-relative rule about where influence is exerted rather than a demonstration that nothing is felt, and how complete the molecular account is does not carry it: an immune experience that made no difference to any physical outcome would add no footprint for minimality to weigh.
+**Tenet 2 (minimal quantum interaction), by absence.** Tenet 2's minimality constrains the *magnitude* of any non-physical influence—no detectable energy injection, no detectable Born-statistics deviation, no conservation-law violation—rather than serving as a parsimony heuristic about how experience is distributed; [[tenets#^minimal-quantum-interaction|the tenet's scoping note]] disowns that second reading. What it licenses here is an allocation rule about causal footprint: decline to multiply interfaces beyond the machinery that could host them, and the immune system offers no neural machinery to host one. Immune "decisions" are, on the Map's reading, selection dynamics—clonal, contextual, molecular—needing no consciousness-side contribution. That is a framework-relative rule about where influence is exerted rather than a demonstration that nothing is felt, and how complete the molecular account is does not carry it: an immune experience that made no difference to any physical outcome would add no footprint for minimality to weigh.
 
 **Tenet 5 (Occam's razor has limits), against premature resolution.** It would be simpler to rule that anything describable as "self" or "cognition" is either conscious or a mere façon de parler. The immune case resists both simplifications. Cohen's cognition is real and functional; Tauber's warning about metaphor is also right; Matzinger's dissolution of a fixed self is well-motivated. The honest position holds all three without collapsing them—a functional self that genuinely learns and discriminates, carries no felt interiority, and should not be reified into an essence. The Map does not over-resolve this.
 

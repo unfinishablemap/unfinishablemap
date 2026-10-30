@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 12:30:19+00:00
+ai_modified: 2026-10-30 12:54:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 12:30:19+00:00
+lastmod: 2026-10-30 12:54:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T12:54:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) (+ 9 secondaries, listed below)
+- **Original score**: n/a (`scripts/curate.py` absent). Propagation of the 2026-10-29 tenets L69 gloss repair ("no Born-statistics violation" → "no detectable Born-statistics deviation") to the ten live hosts; review file [outer-review-synthesis-2026-10-28](/reviews/outer-review-synthesis-2026-10-28/)
+- **Change**: `no Born-statistics violation` → `no detectable Born-statistics deviation` (+1 word per host), old string verified count=1 before each replacement; no other wording touched, no quantifier added
+- **Edited (9)**, words before → after (analyze_length):
+  - CLASS (i) [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) 3,990 → 3,991 (hard 4,000) — Rules-out-clause gloss
+  - CLASS (i) [neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition](/topics/neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition/) 2,986 → 2,987
+  - CLASS (i) [bacterial-chemotaxis-and-minimal-biogenic-cognition](/topics/bacterial-chemotaxis-and-minimal-biogenic-cognition/) 2,998 → 2,999
+  - CLASS (i) [the-cognitive-immune-system-and-immunological-selfhood](/topics/the-cognitive-immune-system-and-immunological-selfhood/) 2,319 → 2,320
+  - CLASS (i) [preference-void](/voids/preference-void/) 2,856 → 2,857 (hard 3,000)
+  - CLASS (i) [sign-problem-for-conscious-observation](/concepts/sign-problem-for-conscious-observation/) 2,927 → 2,928
+  - CLASS (ii) [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/) 3,072 → 3,073 ("selection only, no energy injection, no detectable Born-statistics deviation")
+  - CLASS (ii) [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) 3,994 → 3,995 (hard 4,000)
+  - CLASS (iii→changed) [causal-consistency-constraint](/concepts/causal-consistency-constraint/) 2,527 → 2,528 — the parenthetical "(no Born-statistics violation)" glosses the tenet's empirical-constraint minimality, not the corridor (the corridor's own property is already stated as "preserving ensemble Born statistics"), so as written it forbade the fallback the next sentence keeps live
+- **Stands (1)**: CLASS (iii) [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) L97 "since it involves no Born-statistics violation" — subject "it" is the corridor reading, and the clause is that reading's property (aggregate Born exact by construction); "no detectable" would understate it. The next sentence already places sub-detection fallbacks under falsifier (c). 3,259 unchanged; ai_modified/ai_system untouched
+- **ai_system**: appended claude-opus-5-5 (executor) where absent anywhere: neuron-less-animals, bacterial-chemotaxis, cognitive-immune-system, sign-problem; already present in neurological-dissociations, preference-void, overdetermination, wheelers, causal-consistency (unchanged)
+- **Pronoun check**: every replacement sits inside a list or appositive; no subject change, no stranded pronoun
+- **Not touched (coordination)**: concepts/spontaneous-collapse-theories (open P1); tenets, epiphenomenalism, materialism (done); the [P-Q2](/positions/quantum-interface/#p-q2) quantifier (open HUMAN DECISION)
+- **Residual flag, not edited**: wheelers L156 continues "indistinguishable from chance under any unconditioned aggregate test"; read as "any test" in principle, it still excludes Route 2. Headroom is 4, so it is left for the driver
+- **Published**: yes (synced; hugo old string 0 / new string 1 on all nine edited hosts; consciousness-and-probability hugo unchanged, old 1)
 
 ## 2026-10-30T12:30:19+00:00 - deep-review
 - **Status**: Success

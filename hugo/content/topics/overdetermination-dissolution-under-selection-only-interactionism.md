@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-10-25 10:24:20+00:00
+ai_modified: 2026-10-30 12:52:56+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 concepts:
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 06:42:00+00:00
-lastmod: 2026-10-25 10:24:20+00:00
+lastmod: 2026-10-30 12:52:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ A final caveat: the dissolution depends on premise 1 of Kim's argument being loc
 
 The overdetermination dissolution under selection-only interactionism is the cleanest articulation available of how the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet survives Kim's sufficient-cause exclusion argument without requiring either reductive identification of mental causes with physical causes or an awkward retreat into denying systematic overdetermination by fiat.
 
-[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) does the structural work. Because the interaction is minimal in the strictest sense — selection only, no energy injection, no Born-statistics violation — the mental contribution can be added at the indeterminacy gap without claiming territory that physics already occupies. The dissolution is the philosophical pay-off of taking "minimal" seriously: the smaller the interface, the less competition with physical causation it generates, and at the limit (pure selection) there is no competition at all.
+[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) does the structural work. Because the interaction is minimal in the strictest sense — selection only, no energy injection, no detectable Born-statistics deviation — the mental contribution can be added at the indeterminacy gap without claiming territory that physics already occupies. The dissolution is the philosophical pay-off of taking "minimal" seriously: the smaller the interface, the less competition with physical causation it generates, and at the limit (pure selection) there is no competition at all.
 
 [Dualism](/tenets/#dualism) is presupposed: there must be a non-physical selector for there to be selection at all. [No Many Worlds](/tenets/#no-many-worlds) is also presupposed: selection only makes sense if one outcome becomes actual rather than all of them. The dissolution is therefore the joint expression of Tenets 1, 2, 3 and 4 working against a Kim-style argument that none of them individually could answer.
 
