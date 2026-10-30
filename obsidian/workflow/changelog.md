@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T13:08:38+00:00
+ai_modified: 2026-10-30T13:58:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T13:58:30+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Presented versus inferred unreality: what clinical insight is made of (optimistic-2026-10-30-clinical-insight-wing Uncovered 1)
+- **Output**: [[research/presented-versus-inferred-unreality-clinical-insight-2026-10-30]]
+- **Sources consulted**: 33 cited (raw full text: Fisher et al. 2026, Suzuki/Seth/Schwartzman 2023, ffytche 2007, Pang 2016, Telles-Correia et al. 2015, López-Silva et al. 2022, Farkas 2013 preprint via Wayback; raw abstracts: Teunisse 1996, Menon 2003, David 1990, Marková & Berrios 1992, Voss et al. 2013, Simons et al. 2017, Bentall 1990, Berrios & Dening 1996, Dening & Berrios 1996, Ramachandran & Hirstein 1998, Swartz & Brust 1984, Radovic & Radovic 2002, Ratcliffe & Wilkinson 2015/2016, Engmann & Steinberg, Turner 2014, Sebastian 2025); metadata-only or carrier-only for Hagen, Kandinsky, Jaspers, Aggernæs, Johnson 1988, Johnson & Raye 1981, Hare 1973, Sedman 1966, Gilmour 2009, Ratcliffe 2017, Dokic & Martin
+- **Verdict**: clinical insight is a judgement made against a presented felt reality. CBS, phantom limb and lucid dream are felt real and judged unreal; depersonalisation is felt unreal and judged real (the "as if" marks the judgement); Kandinsky–Jaspers pseudohallucination is the only felt-unreal hallucination class. CBS L86 "Insight is a phenomenal fact: the hallucination presents as unreal" = JUDGED (Fisher 2026 "patients use logic"; Suzuki 2023 90% of 10 "as real"/"similar to"); the 10-30 P3's conditional is superseded. Capgras/Cotard scope rule stands (insight = Factor-2 side; felt reality = Factor-1, Map territory); Cotard's dropped "as if" stays open. Dualism unaffected
+- **Originator correction**: "pseudohallucination" introduced by Hagen (1868), not Jaspers; Kandinsky's criterion disputed between secondary sources. Unpinned lead "insight may be delayed when context-appropriate" pinned to Fisher et al. 2026
+- **Recommended action**: article → topics/clinical-insight-presented-and-judged-unreality (2,800–3,300 words; topics 367/370). Void fold considered and declined (cannot carry the pseudohallucination history or scope-rule analysis)
+
 ## 2026-10-30T13:08:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/dualist-perception]]
