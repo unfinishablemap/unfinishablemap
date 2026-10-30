@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-10-12 13:40:45+00:00
+ai_modified: 2026-10-30 22:10:59+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 13:17:16+00:00
-lastmod: 2026-10-12 13:40:45+00:00
+lastmod: 2026-10-30 22:10:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,6 +94,8 @@ Consider: you're about to measure spin along some axis. Quantum mechanics predic
 - Many-worlds says both outcomes occur—but "you" is now ambiguous; which copy is the real you?
 
 The first-person perspective—the fact that *I* will experience *one* definite outcome—is precisely what probability seems to be about, yet it appears in none of these accounts.
+
+**A candidate rule.** Filling the gap does not need a new decision theory. In a one-world chancy theory credence follows chance by Lewis's (1980) Principal Principle, and Lewis holds that historical information is, as a rule, admissible. Two worlds share a history up to a time when they are alike "atom for atom, field for field, even spirit for spirit (if such there be)" until then; the parenthesis is a physicalist's formal allowance, not an endorsement. If the conscious state belongs to history in that sense, then once an intention C has formed, the chance of a neural outcome O in physical context X is the conditional P(O | do(C), X) of [the Born-preservation trilemma](/apex/born-preserving-causal-efficacy/), and a selecting agent who knows C should set her credence to her expectation of that conditional. The Born weight stays the right credence for anyone who lacks C. It is also the chance *before* C forms, but only if forming an intention has propensities of its own; otherwise the settlings' match to the Born weights is the unexplained conformity the [rollback analysis](/concepts/rollback-argument-against-agent-causation/#one-debt) records. Two consequences follow. An agent who accepts the Map's tenets should give content-expressing outcomes more than their Born weight once her intention has formed, because [Bidirectional Interaction](/tenets/#bidirectional-interaction) has consciousness "biasing quantum indeterminacy in the brain toward patterns that express its content". And the chance–credence link is no special debt. Wallace (2010) notes that classical, non-Everettian probability postulates the Principal Principle without deriving it, and Brown and Ben Porath (2020) deny that the Deutsch–Wallace theorem justifies it for the Everettian either. What belongs to the Map alone is a chance that shifts when an intention forms, with no physical change.
 
 ## Born Probability as Interface Structure
 
@@ -247,3 +249,9 @@ The question of quantum probability's nature connects to all five tenets:
 21. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *PNAS*, 106(11), 4219-4224.
 
 22. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912.
+
+23. Lewis, D. (1980). "A Subjectivist's Guide to Objective Chance." In R. C. Jeffrey (Ed.), *Studies in Inductive Logic and Probability*, Vol. II (pp. 263–293). University of California Press.
+
+24. Wallace, D. (2010). "How to Prove the Born Rule." In S. Saunders, J. Barrett, A. Kent & D. Wallace (Eds.), *Many Worlds? Everett, Quantum Theory, and Reality* (pp. 227–263). Oxford University Press. Preliminary version: arXiv:0906.2718.
+
+25. Brown, H. R. & Ben Porath, G. (2020). "Everettian Probabilities, the Deutsch-Wallace Theorem and the Principal Principle." In M. Hemmo & O. Shenker (Eds.), *Quantum, Probability, Logic* (pp. 165–198). Springer. arXiv:2010.11591.
