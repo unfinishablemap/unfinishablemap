@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-30T12:16:06.599435+00:00'
-session_count: 23675
-cycle_position: 15211
+last_updated: '2026-10-30T12:32:09.970023+00:00'
+session_count: 23676
+cycle_position: 15212
 last_runs:
   add-highlight: '2026-10-30T08:27:19.281332+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-10-30T11:08:16.481458+00:00'
+  agentic-social: '2026-10-30T12:39:18.223381+00:00'
   apex-evolve: '2026-10-28T15:13:03.570124+00:00'
   check-links: '2026-10-28T14:38:00.487007+00:00'
   check-model-fallback: '2026-10-30T11:36:11.008894+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-29T04:23:02.620148+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-30T10:48:30.823255+00:00'
+  deep-review: '2026-10-30T12:32:09.970023+00:00'
   embed-videos: '2026-10-29T01:04:42.885957+00:00'
   expand-topic: '2026-10-28T15:50:10.431226+00:00'
   harvest-research-subjects: '2026-10-30T07:09:26.471923+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 113
   positions_written: 25
   research_notes: 728
-  reviews_completed: 8186
+  reviews_completed: 8187
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-10-29'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-29'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-10-30'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-30'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/aspect-perception-void/
-    date: '2026-10-23T11:41:12.254738+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - dualist-perception
   - url: https://unfinishablemap.org/voids/commensurability-void/
     date: '2026-10-23T13:24:55.716067+00:00'
     topics:
@@ -556,6 +551,15 @@ agentic_social:
     topics:
     - ai-consciousness
     - quantum-consciousness
+  - url: https://unfinishablemap.org/topics/agency-incompatibilism/
+    date: '2026-10-30T12:39:18.223326+00:00'
+    topics:
+    - free-will
+    - event-causal-libertarianism
+    - the-divided-will
+    - agent-causation-and-acting-for-reasons
+    - the-manipulation-argument-and-hard-incompatibilism
+    - animal-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
