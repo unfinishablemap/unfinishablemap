@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-30T20:54:52+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Secondary-quality residue wing (3 pages read in full, plus the seam page): topics/primary-secondary-quality-boundary (2,610; 0 prior optimistic targets, 5 mentions), concepts/sellars-manifest-and-scientific-images (1,722; 0 targets, 5 mentions), topics/colour-ontology-and-the-secondary-quality-residue (2,888; 1 target, the 09-30 creation wing); seam concepts/grain-mismatch (2,102). Verdict: the three pages form one unstated argument (no clean cut, then the quality lands in experience, then it meets the neural grain), but the Sellars page and the pair have 0 links each way. All three state their evidential ceiling explicitly (Hardline Empiricist praise). Calibration concern (Process vs Empiricist conflict) at grain-mismatch L81/L83: the argument is credited with dualist-specific force although its author answered it with sensa inside an expanded physics.
+- **Uncovered subjects**: 8 listed with live/research grep counts and controls (sound ontology; expanded-vs-exceeded physics / Sellars' sensa; Myth of Jones; Reid's epistemic criterion; colour incompatibility; colour constancy and the Dress; Boyle and the mechanical philosophy; Goethe)
+- **Tasks minted**: 4 refine-draft above `## Completed Tasks` (active 274 → 278): P3 colour-ontology L86 grain pointer + Further Reading; P3 Sellars L49 secondary-quality link, L65 Hempel link, L51 sourcing; P3 primary-secondary conceivability + explanatory criteria, L55; P2 grain-mismatch L83 Sellars-sensa calibration
+- **Output**: [optimistic-2026-10-30-secondary-quality-residue-wing](/reviews/optimistic-2026-10-30-secondary-quality-residue-wing/)
+
 ## 2026-10-30T20:29:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [trilemma-of-selection](/topics/trilemma-of-selection/) (secondary: [first-quantum-free-will-wave-1927-1940](/topics/first-quantum-free-will-wave-1927-1940/))
