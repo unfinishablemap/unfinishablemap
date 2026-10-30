@@ -2,9 +2,9 @@
 title: "Agent Causation"
 description: "Agent causation holds that persons originate actions directly as substances exercising causal powers. Central to libertarian free will and interactionist dualism."
 created: 2026-01-15
-modified: 2026-10-20
+modified: 2026-10-30
 human_modified: null
-ai_modified: 2026-10-25T15:41:37+00:00
+ai_modified: 2026-10-30T10:54:23+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -134,7 +134,7 @@ The Libet challenge has weakened substantially. Schurger reinterprets the readin
 
 ## Creative Generation: Beyond Pure Selection
 
-Agent causation traditionally focuses on selection, but in [[creative-consciousness|creative consciousness]] agents also *generate* options through imaginative exploration. This strengthens the view against the critic: if agents generate the options through imagination, they explain the outcome because they constituted the very options available. Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood; Bergson's [[temporal-consciousness]] develops this through memory's integration with the present. Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally (developed in the [[process-and-consciousness|Process and Consciousness]] apex).
+Agent causation traditionally focuses on selection, but in [[creative-consciousness|creative consciousness]] agents also *shape* options through imaginative exploration. This strengthens the view against the critic: if agents shape later options through imagination, they explain the outcome partly because they curated the options available. Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood; Bergson's [[temporal-consciousness]] develops this through memory's integration with the present. Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally (developed in the [[process-and-consciousness|Process and Consciousness]] apex).
 
 ## The Verification Limit and the Convergent Case
 

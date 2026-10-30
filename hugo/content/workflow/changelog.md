@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-30T10:55:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Original score**: n/a (`scripts/curate.py` absent); task-scoped fix from [outer-review-2026-10-28-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-28-chatgpt-5-6-sol-pro/) §2.3 / Priority-1 item 1
+- **Word count**: apex 4,994 → 4,994 (+0; analyze_length, apex hard 5,000); secondary host `concepts/agent-causation` 3,491 → 3,491 (+0; concepts hard 3,500)
+- **Changes**: L95 "Consciousness also *generates* options: … each movement of attention opens possibilities that did not exist before, so the agent shapes which options exist as well as which become actual" → "Consciousness also shapes *future* options: … each attentional selection changes which possibilities the brain prepares next, so the agent curates menus across events while arbitrating, not constructing, within each". This is recursive menu curation: the brain supplies the candidate set at each event, consciousness selects within it, and the selection shapes the next set. The closing clause makes L89's "rather than constructing them" consistent with L95. Topic sentence and witness-mode sentence unchanged; L89 untouched. Secondary host `concepts/agent-causation` L137: "*generate*" → "*shape*", and the next sentence "if agents generate the options through imagination, they explain the outcome because they constituted the very options available" → "if agents shape later options through imagination, they explain the outcome partly because they curated the options available" (the second sentence also changed, so the paragraph does not assert curation and then argue from generation). Heading "Creative Generation: Beyond Pure Selection" left alone, because `concepts/creative-consciousness` L84 links its anchor
+- **Fences kept**: L101/L173 (primitive parity P2) and L89/L115/L133 (Born-inheritance P2) not touched; no menu-luck section added
+- **Left open**: the reviewer's "menu luck" / "option-set luck" inference (token vs menu vs character authorship), i.e. whether option curation restores ultimacy against the luck objection, is not resolved here (L163 already books the companion-law debt). It has since been researched ([menu-luck-and-option-set-authorship-2026-10-28](/research/menu-luck-and-option-set-authorship-2026-10-28/)). The open P3 refine-draft "Fold 'menu luck' into `concepts/basic-argument-and-constitutive-luck`" (todo ~L3469) carries it. That passage describes this apex's channel and does not quote or link L95
+- **Engagement classification**: no named-opponent reply touched; internal consistency repair against the selection-only channel
+- **Published**: yes
+
 ## 2026-10-30T10:44:45+00:00 - deep-review
 - **Status**: Success
 - **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)

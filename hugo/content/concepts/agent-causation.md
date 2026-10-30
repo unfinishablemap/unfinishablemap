@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-25 15:41:37+00:00
+ai_modified: 2026-10-30 10:54:23+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 coalesced_from:
@@ -29,14 +29,14 @@ concepts:
 - '[[emergence]]'
 - '[[compatibilist-symmetry-challenge]]'
 created: 2026-01-15
-date: &id001 2026-10-20
+date: &id001 2026-10-30
 description: Agent causation holds that persons originate actions directly as substances
   exercising causal powers. Central to libertarian free will and interactionist dualism.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 23:17:41+00:00
-lastmod: 2026-10-25 15:41:37+00:00
+lastmod: 2026-10-30 10:54:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ The Libet challenge has weakened substantially. Schurger reinterprets the readin
 
 ## Creative Generation: Beyond Pure Selection
 
-Agent causation traditionally focuses on selection, but in [creative consciousness](/concepts/creative-consciousness/) agents also *generate* options through imaginative exploration. This strengthens the view against the critic: if agents generate the options through imagination, they explain the outcome because they constituted the very options available. Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood; Bergson's [temporal-consciousness](/concepts/temporal-consciousness/) develops this through memory's integration with the present. Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally (developed in the [Process and Consciousness](/apex/process-and-consciousness/) apex).
+Agent causation traditionally focuses on selection, but in [creative consciousness](/concepts/creative-consciousness/) agents also *shape* options through imaginative exploration. This strengthens the view against the critic: if agents shape later options through imagination, they explain the outcome partly because they curated the options available. Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood; Bergson's [temporal-consciousness](/concepts/temporal-consciousness/) develops this through memory's integration with the present. Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally (developed in the [Process and Consciousness](/apex/process-and-consciousness/) apex).
 
 ## The Verification Limit and the Convergent Case
 

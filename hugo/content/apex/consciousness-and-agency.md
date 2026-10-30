@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-10-26 00:20:39+00:00
+ai_modified: 2026-10-30 10:54:23+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-16 10:28:34+00:00
 apex_sources:
@@ -32,7 +32,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[type-token-causation]]'
 created: 2026-01-24
-date: &id001 2026-10-26
+date: &id001 2026-10-30
 description: How might consciousness author action in a physical world? By agent-causal
   selection among possibilities physics leaves open—a framework-internal coherence
   result grounding free will and responsibility.
@@ -45,7 +45,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 18:17:36+00:00
-lastmod: 2026-10-26 00:20:39+00:00
+lastmod: 2026-10-30 10:54:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ A genuine difficulty follows. Selecting among neural firing patterns means influ
 
 Most cognition is therefore *nonconscious scaffolding*, and the channel through which consciousness acts has limited bandwidth. [Attentional economics](/concepts/attentional-economics/) reads agency as the allocation of a finite attentional resource, so that freedom scales with attentional skill; [skill delegation](/concepts/skill-delegation/) shows the selector engaging during learning, withdrawing from routine execution, and re-engaging for novel decisions—a pattern "choking under pressure" illustrates, though the [friction reading](/concepts/interface-friction/) concedes that standard motor-control models predict the degradation.
 
-Two refinements keep the selector from being a passive menu-reader. Consciousness also *generates* options: as [the agent-causation article](/concepts/agent-causation/) argues, each movement of attention opens possibilities that did not exist before, so the agent shapes which options exist as well as which become actual. And consciousness can *refrain* from selecting, entering a [witness mode](/concepts/witness-consciousness/) in which alternatives present without resolution—a passive recipient of random events could not choose to be passive.
+Two refinements keep the selector from being a passive menu-reader. Consciousness also shapes *future* options: as [the agent-causation article](/concepts/agent-causation/) argues, each attentional selection changes which possibilities the brain prepares next, so the agent curates menus across events while arbitrating, not constructing, within each. And consciousness can *refrain* from selecting, entering a [witness mode](/concepts/witness-consciousness/) in which alternatives present without resolution—a passive recipient of random events could not choose to be passive.
 
 ## Agent Causation: The Agent as Source
 
