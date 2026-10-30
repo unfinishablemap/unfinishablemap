@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T21:57:53+00:00
+ai_modified: 2026-10-30T22:38:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T22:38:46+00:00 - coalesce
+- **Status**: Abandoned (delta check only; no new candidate; expected steady state)
+- **Method**: driver brief of 22:37Z. Delta against the 11:24Z full five-pass run (commit `e889e2cc3a`), not a re-search. The `created:` 30-day floor is the same date (2026-09-30) at both times, so no page crossed it. Sidecars and section index files were dropped before the arithmetic. Body-only `count_words` was used with section thresholds; the gate fires at `>=` hard
+- **(a) Eligibility released**: the pages named in the heading or File/Secondary line of a live task above `^## Completed Tasks$` were diffed between baseline and HEAD (a superset of the 11:24Z rule). 18 pages were released by today's completed propagation and refine tasks; 17 pass the floor (`voids/preference-void`, created 2026-10-03, does not). Against the 558 eligible pages, only 8 affordable pairs involve a released page: `concepts/occasionalism` + `mind-arena` (3474 < 3500), and `topics/the-cognitive-immune-system-and-immunological-selfhood` + one of seven pages between 1380 and 1671 words (3700–3991 < 4000). None are body-linked in either direction. The wikilink regex found the known `phenomenal-presentation` → `phenomenal-depth` link as a positive control, and a raw substring check also came back empty. The maximum 6-gram containment is 0.3%, and the subjects are unrelated (occasionalism vs a domain term; immunological selfhood vs phenomenal-depth, status-of-content, the-agent-shaped-hole, perception, simulation-detection-void). There is no argumentative-role overlap, so none is a merge
+- **(b) Shrinkage**: of 38 modified section pages since baseline, one shrank: `topics/phenomenology-of-returning-attention` 3044 → 3042 (−2). A new pair would need a partner of exactly 956–957 words (topics host) or 456–457 (concepts host); none exists (smallest concept 1380, smallest topic 2112). The others grew (28) or were unchanged (9). New pages `topics/clinical-insight-presented-and-judged-unreality` and `voids/molyneux-void` fall under the floor. Smallest topics pair is still 2112 + 2189 = 4301; smallest voids pair is still 1530 + 1795 = 3325
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+
 ## 2026-10-30T22:10:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-probability-consciousness]]
