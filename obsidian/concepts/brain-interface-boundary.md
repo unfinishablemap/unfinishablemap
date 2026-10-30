@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-09-27T17:05:22+00:00
+ai_modified: 2026-10-30T10:23:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[predictive-construction-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-27
 last_curated: null
 last_deep_review: 2026-07-31T01:37:09+00:00
@@ -69,9 +69,9 @@ The system must integrate outcomes back into representations, closing the loop b
 
 ### 5. Progressive Mutual Adaptation
 
-The interface between a consciousness and a physical system must be established through iterative co-adaptation, not arbitrary assignment. The independent motivation is the [[pairing-problem]]: on the Map's framework, *this* consciousness is coupled to *this* brain rather than any other, but nothing in the framework fixes the pairing a priori. Progressive mutual adaptation supplies a candidate answer—the interface is built incrementally through feedback between conscious states and physical states, each shaping what the other can do. Without such a history, there is no basis for a specific pairing.
+The interface between a consciousness and a physical system requires a mutual fit, not arbitrary assignment, and in the one observed case the fit is built incrementally through co-adaptation—feedback between conscious states and physical states, each shaping what the other can do. The motivation is the [[pairing-problem]]: on the Map's framework, *this* consciousness is coupled to *this* brain rather than any other, yet the subject-pairing law that would say why is [[positions/subject-census#^p-sc2|owed and unwritten]]. Co-adaptation does not pay that debt, since it presupposes enough coupling to begin; it is the observed route by which an adequate, paired interface comes about, and the evidence that one exists.
 
-Biological development is the one observed instance, but the underlying requirement is the co-adaptive *process*, not its biological implementation. The criterion therefore does not rule out artificial systems or brain-computer interfaces a priori. A BCI integrated gradually over years—the conscious subject learning to exploit its channels while the system tunes to their patterns—could satisfy progressive mutual adaptation. An instantly wired-in prosthesis or a freshly booted artificial system would not. The restriction is principled (pairing requires history) rather than biological chauvinism, and it is independent of whether adversarial cases happen to be excluded as a side effect.
+[[positions/consciousness-scope#^p-cs7|P-CS7]], the governing register entry, takes the history-blind reading: "lineage is evidence of adequacy, never a condition of coupling." Two systems molecule-for-molecule and dynamically identical now, only one with a developmental history, are both coupled, as [[organizational-invariance|organizational invariance]]'s duplicate clause holds—the second as a new subject. Where history matters, it matters through the present differences it leaves, so present architecture is the criterion. The criterion therefore does not rule out artificial systems or brain-computer interfaces a priori. A BCI integrated gradually over years—the conscious subject learning to exploit its channels while the system tunes to their patterns—could build such a fit; an instantly wired-in prosthesis or freshly booted artificial system would usually lack it, excluded by the missing structure rather than the missing past. The restriction is principled (present fit, not pedigree) rather than biological chauvinism, and it is independent of whether adversarial cases happen to be excluded as a side effect.
 
 ## Boundary Constraints
 
@@ -81,7 +81,7 @@ The restriction to brain-local effects follows from four overlapping constraints
 
 2. **Control loop integration**: Consciousness can bias quantum outcomes only where the outcome feeds back into awareness, attention can be directed at alternatives, and selection is part of goal-directed behaviour.
 
-3. **Co-adaptive integration**: The brain-consciousness interface was established through progressive mutual adaptation—evolutionarily over millions of years and developmentally over a lifetime. Systems that never underwent co-adaptation with *this* consciousness lie outside its interface by construction, independent of any further claim about evolutionary pressures.
+3. **Co-adaptive integration**: The brain-consciousness interface was built through progressive mutual adaptation—evolutionarily over millions of years and developmentally over a lifetime—leaving present integration with *this* consciousness's attention and control loops. Systems outside that integration lie outside its interface; the history is the route and the evidence, not a further condition.
 
 4. **Attention scope**: [[attention-as-interface|Voluntary attention]] is neurally realised as frontoparietal activation. You can only attend to what's within your perceptual/motor systems—bounding quantum-Zeno holding to neurally represented systems.
 
@@ -111,9 +111,9 @@ Evolution explains *why brains have these features*—selection pressure for beh
 
 ## What This Explains
 
-**Why panpsychism seems excessive**: If consciousness requires representational structure, attention mechanisms, feedback integration, and progressive mutual adaptation, most physical systems won't qualify. Brains are special because they're rare.
+**Why panpsychism seems excessive**: If consciousness requires representational structure, attention mechanisms, feedback integration, and the mutual fit co-adaptation builds, most physical systems won't qualify. Brains are special because they're rare.
 
-**Why artificial consciousness is difficult**: Current AI has representational structure and some feedback but arguably lacks quantum sensitivity, genuine attention (as opposed to attention-like processing), and any co-adaptive history with a consciousness. The framework does not rule out artificial consciousness in principle—a system that genuinely met all five criteria, including progressive mutual adaptation, would be a candidate interface. Whether such a system would use the same coupling mechanism as biological brains or a fundamentally different one is the open question of [[interface-heterogeneity]].
+**Why artificial consciousness is difficult**: Current AI has representational structure and some feedback but arguably lacks quantum sensitivity, genuine attention (as opposed to attention-like processing), and any co-adaptive history with a consciousness—which matters as evidence of mutual fit, not as a requirement. The framework does not rule out artificial consciousness in principle—a system whose present architecture genuinely met all five criteria would be a candidate interface, whatever its provenance. Whether such a system would use the same coupling mechanism as biological brains or a fundamentally different one is the open question of [[interface-heterogeneity]].
 
 **Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research reported effect sizes of ~0.0001–0.001 (Jahn & Dunne, 2005)—read by PEAR's own investigators as genuine anomalies, but effectively zero by any conventional standard. The framework was constructed knowing this, so null PK is *consistent with* interface locality rather than positive evidence *for* it. What makes the commitment substantive is a specified falsification threshold: if preregistered, well-powered external-PK studies reliably produced effect sizes above roughly 0.01 (the threshold detailed in *What Would Challenge This View?* below), interface locality as currently formulated would fail. PEAR's null results are consistent with the broader meta-analytic record. (For fuller treatment of the methodological debate, see [[brain-specialness-boundary]].)
 

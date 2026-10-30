@@ -4,6 +4,15 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-30T10:10:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T10:23:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/brain-interface-boundary]]
+- **Original score**: n/a (`scripts/curate.py` absent); task-scoped fix of the P-CS7 contradiction from [[reviews/outer-review-2026-10-28-chatgpt-5-6-sol-pro]] §5.2
+- **Changes**: criterion 5 (L72–74) rewritten from constitutive co-adaptation ("must be established through iterative co-adaptation", "pairing requires history", freshly booted system "would not") to the history-blind reading: the criterion is present mutual fit; co-adaptation is the observed route and the evidence, and cannot itself be the pairing law since it presupposes enough coupling to begin. Pairing problem cited as P-SC2's unpaid debt (`[[positions/subject-census#^p-sc2|owed and unwritten]]`). P-CS7 named as the governing entry with its "lineage is evidence of adequacy, never a condition of coupling" quoted. Reviewer's duplicate case answered: both couple, per organizational-invariance L88's duplicate clause, the second as a new subject; where history matters it does so through present differences, so present architecture is the criterion. L84 boundary constraint 3 rewritten (present integration excludes, history is route and evidence). L114 "requires ... progressive mutual adaptation" → "the mutual fit co-adaptation builds"; L116 co-adaptive history moved from requirement to evidence, "whatever its provenance". Register, pairing-problem and swampman untouched.
+- **Engagement classification**: no named-opponent reply touched; internal consistency repair against the register
+- **Length**: 3,219 → 3,314 (analyze_length; concepts hard 3,500), +95 net
+- **Published**: yes
+
 ## 2026-10-30T10:10:35+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The selecting agent's first-person credence rule (outer-review-2026-10-28-claude-fable-5-1 inference 3): what credence an agent who knows her own intention should give an outcome when only conditionals on the conscious state are free (P-Q2), and what replaces Sebens & Carroll 2018 on the one-world reading
