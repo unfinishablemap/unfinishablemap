@@ -4,7 +4,7 @@ description: "How the manuals classify depersonalisation — ICD-10 neurotic F48
 created: 2026-10-28
 modified: 2026-10-28
 human_modified:
-ai_modified: 2026-10-28T19:11:40+00:00
+ai_modified: 2026-10-30T14:21:40+00:00
 last_deep_review: 2026-10-28T19:11:40+00:00
 draft: false
 topics:
@@ -42,7 +42,7 @@ The *Clinical Descriptions and Diagnostic Requirements* (WHO 2024, pp. 391–394
 
 The Map has not read the DSM-5 or DSM-5-TR text; what follows is as transcribed by secondary sources. Criterion A gives persistent or recurrent depersonalisation or derealisation; B requires intact reality testing; C requires clinically significant distress or impairment; D excludes the physiological effects of a substance or another medical condition; E excludes better explanation by another disorder. The substance exclusion is therefore Criterion D, not Criterion C as sometimes stated. DSM-5-TR (2022) is reported by secondary sources to carry the criteria unchanged.
 
-One requirement is constant across all three: the patient knows the change is subjective. ICD-10 calls it insight, DSM-5 and ICD-11 call it intact reality testing, and it is this criterion that Medford, Sierra, Baker & David (2005) turned against the dissociative placement.
+One requirement is constant across all three: the patient [[clinical-insight-presented-and-judged-unreality|knows]] the change is subjective. ICD-10 calls it insight, DSM-5 and ICD-11 call it intact reality testing, and it is this criterion that Medford, Sierra, Baker & David (2005) turned against the dissociative placement.
 
 ## The Anxiety-Spectrum Model and Its In-House Qualification
 

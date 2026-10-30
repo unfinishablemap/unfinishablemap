@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 13:58:30+00:00
+ai_modified: 2026-10-30 14:22:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 13:58:30+00:00
+lastmod: 2026-10-30 14:22:42+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T14:22:42+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Presented versus Inferred Unreality: What Clinical Insight Is Made Of (published as "Clinical Insight: Presented and Judged Unreality", the note's suggested title, matching the slug)
+- **Output**: [clinical-insight-presented-and-judged-unreality](/topics/clinical-insight-presented-and-judged-unreality/)
+- **Word count**: 3,299 (analyze_length; topics soft 3,000 / hard 4,000; soft_warning; inside the 2,800–3,300 band)
+- **Section count**: topics 367 → 368 / 370 (count_section_files, measured before create)
+- **Based on research**: yes, [presented-versus-inferred-unreality-clinical-insight-2026-10-30](/research/presented-versus-inferred-unreality-clinical-insight-2026-10-30/)
+- **Verdicts stated**: CBS judged (Fisher et al. 2026; ffytche 2007; Suzuki et al. 2023 as visual-quality only); phantom limb presented presence / judged absence (Ramachandran & Hirstein 1998); lucid dream judged (Voss et al. 2013, factor-level); depersonalisation presented unreality / judged reality, "as if" belongs to the report (Billon 2023 n. 5); Anton deficit-insight judged by necessity (Levine 1990; Swartz & Brust 1984); Capgras/Cotard scope rule stands, Cotard's dropped "as if" left open. Self-report-only and no-separate-measure limits stated in the lead.
+- **Quotations**: every quoted string swept mechanically against sources. Re-verified raw this run: Fisher (full text), Suzuki (full text), ffytche (full text), Telles-Correia (full text), López-Silva (full text), Pang (full text), and the abstracts of Voss, David, Marková & Berrios, Berrios & Dening, Dening & Berrios, Ramachandran & Hirstein, Teunisse, Swartz & Brust, Levine, Ratcliffe & Wilkinson 2016, Radovic & Radovic, Engmann & Steinberg, Limanowski & Friston. Carrier-only, labelled in text: Jaspers p. 94 and Johnson 1988 p. 57 (via Farkas preprint), Farkas (preprint), ICD-10 F48.1 (via the depersonalisation-nosology research note's primary transcription), Billon 2023 n. 5 (via depersonalisation-2026-09-30). Pang's 80/8/6% attributed to Pang reporting Gilmour. phenomenal-quality-void L96's unsourced line not used.
+- **Corrections caught at write**: (1) ffytche 2007 groups hallucinations with veridical percepts on two of three axes (locus, agency); they vary in vividness, so "all three" was cut. (2) The Map's gloss of Limanowski & Friston 2018 as linking "subjective realness" to precision (phenomenal-quality-void L104) is not in their abstract, which concerns phenomenal opacity; the new article quotes their wording instead. (3) "joker"/"stable referent" are Berrios & Dening (Psychol Med); "should be abandoned" is Dening & Berrios (Psychopathology).
+- **Originators**: "pseudohallucination" credited to Hagen 1868; objectivity camp (Kandinsky, Jaspers, Lugaro, Petit) vs insight camp (Bleuler, Sedman, Hare) per Telles-Correia; Kandinsky's placement presented as disputed (Engmann & Steinberg vs Telles-Correia / López-Silva), not settled.
+- **Integration pipes** (zero-cost, host lengths unchanged): [depersonalisation-nosology](/concepts/depersonalisation-nosology/) L45 "knows" (2,514 / hard 3,500); [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/) L64 "hallucination" (2,624 / hard 3,000); [cotard-delusion](/concepts/cotard-delusion/) L56 "second factor" (3,495 / hard 3,500). Fenced and untouched: concepts/charles-bonnet-syndrome, topics/anton-syndrome-and-the-sincere-report-of-seeing, topics/capgras-delusion-and-the-affective-recognition-channel, voids/phenomenal-quality-void.
+- **Cross-review**: registered in task_chains.pending_cross_reviews (10 review targets).
+- **Apex sources**: not listed as a source of any apex article; no apex-evolve task.
 
 ## 2026-10-30T13:58:30+00:00 - research-topic
 - **Status**: Success

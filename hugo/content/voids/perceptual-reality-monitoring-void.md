@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-10-24 17:10:01+00:00
+ai_modified: 2026-10-30 14:21:40+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 18:38:12+00:00
-lastmod: 2026-10-24 17:10:01+00:00
+lastmod: 2026-10-30 14:21:40+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -64,7 +64,7 @@ The same imagery that biases the first-order verdict biases the second-order eva
 
 ### The Pathological-Equivalence Face
 
-The felt-real signal can dissociate from veridical perception in both directions. In hallucination, the signal is present without external cause; in derealization, external cause is present without the signal. Fazekas (2021) treats hallucinations as intensified forms of mind-wandering, arguing that heightened sensory activity can drive reality judgments toward *real* even when metacognitive monitoring remains intact — locating clinical hallucination on a continuum with ordinary spontaneous-thought processing rather than as a discontinuous failure. Billon (2024) analyses the converse case in derealization: sensorimotor processing remains intact but the felt-real signal detaches, and patients perceive accurately yet experience the world as unreal.
+The felt-real signal can dissociate from veridical perception in both directions. In [hallucination](/topics/clinical-insight-presented-and-judged-unreality/), the signal is present without external cause; in derealization, external cause is present without the signal. Fazekas (2021) treats hallucinations as intensified forms of mind-wandering, arguing that heightened sensory activity can drive reality judgments toward *real* even when metacognitive monitoring remains intact — locating clinical hallucination on a continuum with ordinary spontaneous-thought processing rather than as a discontinuous failure. Billon (2024) analyses the converse case in derealization: sensorimotor processing remains intact but the felt-real signal detaches, and patients perceive accurately yet experience the world as unreal.
 
 Corlett et al. (2014) supply the dream-state version. Their counter-intuitive finding — that individuals with higher dream awareness commit *more* confabulation errors at waking — suggests reality-monitoring is a balance whose weights cannot be set independently from inside. Lucid dreamers gain in-dream insight at the cost of waking source-monitoring. The pathologies together demonstrate that the felt-real signal is a *separable* construction, neither necessary nor sufficient for veridical perception.
 

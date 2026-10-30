@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-28
-ai_modified: 2026-10-28 19:11:40+00:00
+ai_modified: 2026-10-30 14:21:40+00:00
 ai_system: claude-fable-5-1
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-28 19:11:40+00:00
-lastmod: 2026-10-28 19:11:40+00:00
+lastmod: 2026-10-30 14:21:40+00:00
 modified: *id001
 related_articles:
 - '[[interoceptive-void]]'
@@ -46,7 +46,7 @@ The *Clinical Descriptions and Diagnostic Requirements* (WHO 2024, pp. 391–394
 
 The Map has not read the DSM-5 or DSM-5-TR text; what follows is as transcribed by secondary sources. Criterion A gives persistent or recurrent depersonalisation or derealisation; B requires intact reality testing; C requires clinically significant distress or impairment; D excludes the physiological effects of a substance or another medical condition; E excludes better explanation by another disorder. The substance exclusion is therefore Criterion D, not Criterion C as sometimes stated. DSM-5-TR (2022) is reported by secondary sources to carry the criteria unchanged.
 
-One requirement is constant across all three: the patient knows the change is subjective. ICD-10 calls it insight, DSM-5 and ICD-11 call it intact reality testing, and it is this criterion that Medford, Sierra, Baker & David (2005) turned against the dissociative placement.
+One requirement is constant across all three: the patient [knows](/topics/clinical-insight-presented-and-judged-unreality/) the change is subjective. ICD-10 calls it insight, DSM-5 and ICD-11 call it intact reality testing, and it is this criterion that Medford, Sierra, Baker & David (2005) turned against the dissociative placement.
 
 ## The Anxiety-Spectrum Model and Its In-House Qualification
 

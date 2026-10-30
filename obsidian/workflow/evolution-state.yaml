@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-30T13:21:46.848330+00:00'
-session_count: 23680
-cycle_position: 15214
+last_updated: '2026-10-30T13:59:23.963595+00:00'
+session_count: 23681
+cycle_position: 15215
 last_runs:
   add-highlight: '2026-10-30T08:27:19.281332+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-26T03:48:35.650122+00:00'
   refine-draft: '2026-10-30T13:09:59.509160+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-30T10:12:32.072891+00:00'
+  research-topic: '2026-10-30T13:59:23.963595+00:00'
   research-voids: '2026-10-28T15:00:26.919501+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-26T17:36:49.280735+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 113
   positions_written: 25
-  research_notes: 728
+  research_notes: 729
   reviews_completed: 8187
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-30'
-  outcome: success
-  kind: cycle
 - task: add-highlight
   type: add-highlight
   date: '2026-10-30'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-30'
   outcome: success
   kind: trigger
+- task: research-topic
+  type: research-topic
+  date: '2026-10-30'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/commensurability-void/
@@ -960,6 +960,19 @@ task_chains:
     - topics/the-consequence-argument-for-incompatibilism.md
     - topics/agency-incompatibilism.md
     generated: '2026-10-25T12:08:09+00:00'
+  - new_article: topics/clinical-insight-presented-and-judged-unreality.md
+    review_targets:
+    - concepts/charles-bonnet-syndrome.md
+    - concepts/depersonalisation.md
+    - concepts/depersonalisation-nosology.md
+    - concepts/cotard-delusion.md
+    - topics/anton-syndrome-and-the-sincere-report-of-seeing.md
+    - topics/capgras-delusion-and-the-affective-recognition-channel.md
+    - voids/perceptual-reality-monitoring-void.md
+    - voids/phenomenal-quality-void.md
+    - topics/phantom-limb-phenomena.md
+    - topics/dream-consciousness.md
+    generated: '2026-10-30T14:22:23+00:00'
 tune_system_history:
   no_change_runs:
   - date: '2026-09-19'
