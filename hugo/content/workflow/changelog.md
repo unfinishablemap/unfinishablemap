@@ -1,14 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 21:57:53+00:00
+ai_modified: 2026-10-30 22:52:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 21:57:53+00:00
+lastmod: 2026-10-30 22:52:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T22:52:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [molyneux-void](/voids/molyneux-void/)
+- **Review file**: reviews/pessimistic-2026-10-30-molyneux-void.md (Priority 1; sibling task #1 of 4, probe-face quotations only)
+- **Original score**: n/a (`scripts/curate.py` absent; task-scoped fix)
+- **Changes**: (A) §Probe Face, Clarke: "it leaves the paradigm 'doubly inadequate…'" → "on Clarke's reading the paradigm 'seems doubly inadequate…'", restoring Clarke's hedge, and the "Lowering the visual demands…may make this worse" sentence now carries Clarke's own exit as a paraphrased clause ("though he suggests that speed and judgement-independence could tell a perceptual match from an inferred one"). (B) §Probe Face, SEP: dropped the "Its verdict:" label, which had moved the miracle sentence after the infant/chick evidence it introduces in the SEP. The action version is now "one 'freed from verbal-based identification'". Of the original description, "the SEP says that a Molyneux experiment 'may turn out to require a scientific miracle', while offering infants and animals as subjects who 'may yield more reliable results'". "looking and approaching are not naming" stays as the article's own view. The review's NEW text had "it says"; it became "the SEP says" (+1 word), because the intervening "though" clause made the pronoun ambiguous.
+- **Quote checks**: re-fetched both sources fresh at 22:51Z. Clarke full text via Europe PMC PMC4954745: "seems doubly inadequate, incapable of delivering either a positive or negative answer to Molyneux's question with any certainty" is present (curly apostrophe in source); its subject is "Held et al.'s experimental paradigm". The exit ("There might be various ways of ruling inferential explanations out in either case—after all, perceptual recognition is characteristically fast…judgement independent…") is present and hedged, so it is paraphrased as "suggests…could". SEP raw HTML (masthead "substantive revision Thu Jan 8, 2026"): "freed from verbal-based identification" (1 hit; subject is the modified "action" version), "may turn out to require a scientific miracle" (1; subject "a Molyneux experiment", scoped "Under Molyneux's original description") and "may yield more reliable results" (1; subject "subjects who are visually naïve yet primed for vision, such as human infants and non-human animals"). All subjects match the installed sentences.
+- **Length**: analyze_length 2,543 → 2,581 (+38; voids soft 2,000 / hard 3,000).
+- **Scope**: L63, the voids catalogue and reciprocal pipes were left untouched (owned by the open P3 cross-review), as were sibling tasks #2–#4. `ai_system` already carried claude-opus-5-5, so nothing was appended.
+- **Sync**: hugo copy has 0 of each old string and 1 of each new string.
+- **Published**: yes
+
+## 2026-10-30T22:38:46+00:00 - coalesce
+- **Status**: Abandoned (delta check only; no new candidate; expected steady state)
+- **Method**: driver brief of 22:37Z. Delta against the 11:24Z full five-pass run (commit `e889e2cc3a`), not a re-search. The `created:` 30-day floor is the same date (2026-09-30) at both times, so no page crossed it. Sidecars and section index files were dropped before the arithmetic. Body-only `count_words` was used with section thresholds; the gate fires at `>=` hard
+- **(a) Eligibility released**: the pages named in the heading or File/Secondary line of a live task above `^## Completed Tasks$` were diffed between baseline and HEAD (a superset of the 11:24Z rule). 18 pages were released by today's completed propagation and refine tasks; 17 pass the floor (`voids/preference-void`, created 2026-10-03, does not). Against the 558 eligible pages, only 8 affordable pairs involve a released page: `concepts/occasionalism` + `mind-arena` (3474 < 3500), and `topics/the-cognitive-immune-system-and-immunological-selfhood` + one of seven pages between 1380 and 1671 words (3700–3991 < 4000). None are body-linked in either direction. The wikilink regex found the known `phenomenal-presentation` → `phenomenal-depth` link as a positive control, and a raw substring check also came back empty. The maximum 6-gram containment is 0.3%, and the subjects are unrelated (occasionalism vs a domain term; immunological selfhood vs phenomenal-depth, status-of-content, the-agent-shaped-hole, perception, simulation-detection-void). There is no argumentative-role overlap, so none is a merge
+- **(b) Shrinkage**: of 38 modified section pages since baseline, one shrank: `topics/phenomenology-of-returning-attention` 3044 → 3042 (−2). A new pair would need a partner of exactly 956–957 words (topics host) or 456–457 (concepts host); none exists (smallest concept 1380, smallest topic 2112). The others grew (28) or were unchanged (9). New pages `topics/clinical-insight-presented-and-judged-unreality` and `voids/molyneux-void` fall under the floor. Smallest topics pair is still 2112 + 2189 = 4301; smallest voids pair is still 1530 + 1795 = 3325
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+
+## 2026-10-30T22:10:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Source**: [selecting-agent-first-person-credence-rule-2026-10-30](/research/selecting-agent-first-person-credence-rule-2026-10-30/) (recommended_action: fold)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word count**: 3,014 → 3,389 (+375; `analyze_length`, concepts 2500/3500, soft_warning; stop line 3,450)
+- **Changes**: Installed the note's drafted fold as a bold-led "A candidate rule" paragraph at the end of §"The Missing Piece: First-Person Probability", after "...yet it appears in none of these accounts.": one-world credence follows chance by Lewis's Principal Principle with the conscious state as admissible history; chance after an intention forms is P(O | do(C), X); the Born weight is the credence for anyone lacking C, and the chance before C forms only if intention-formation has propensities (else the rollback analysis's unexplained conformity, linked to `#one-debt`); a tenet-accepting agent's credence exceeds Born for content-expressing outcomes (credal, not a claim that conditional deviations exist); the chance–credence link is shared debt (Wallace 2010; Brown & Ben Porath 2020); the Map-specific cost is chance that shifts with no physical change. Refs 23–25 appended (Lewis 1980, Wallace 2010 with preliminary-version arXiv id, Brown & Ben Porath 2020); none was already present (Wallace 2012 is a different work).
+- **Departures from the drafted paragraph** (source-fidelity): (1) the draft's "history that matches 'atom for atom…'" blurred the quotation's subject, which in Lewis is two worlds alike "point for point, atom for atom, field for field, even spirit for spirit (if such there be) throughout the past and up until noon today"; rewritten as "Two worlds share a history up to a time when they are alike '…' until then". (2) Restored Lewis's qualifier "as a rule" on admissibility. (3) Added "the parenthesis is a physicalist's formal allowance, not an endorsement" (writer guard: Lewis not enlisted for dualism). (4) Wallace paraphrase narrowed to "classical, non-Everettian probability postulates the Principal Principle without deriving it", matching his context (Savage-style decision theory; "if classical probability can give no justification of its probability rule"); unquoted. (5) Defined X ("in physical context X"); "the Born match" → "the settlings' match to the Born weights"; "should not hold Born credence" → the positive R3 form "should give content-expressing outcomes more than their Born weight once her intention has formed".
+- **Quotation verification**: Lewis 1980 phrase grep-verified as a literal substring in an independent PDF copy (joelvelasco.net, pdftotext), in addition to the note's OCR scan. Tenets phrase re-grepped at `tenets/tenets.md` L91 (Definition of Bidirectional Interaction; subject "consciousness", matching). Wallace "postulated, not derived" verified in arXiv:0906.2718v1 footnote 2 (subject: "the Principal Principle") but not quoted. Brown & Ben Porath paraphrase checked against the arXiv abstract ("the DW theorem does not provide a justification of the Principal Principle, contrary to claims by Wallace and Simon Saunders"). All three references' metadata checked against Crossref.
+- **Guards honoured**: no [P-Q2](/positions/quantum-interface/#p-q2) "publicly conditionable" wording; the Map applies the Principal Principle and derives no credence; no epiphenomenalist concession; no Lewis/Wallace/Healey/List/Ismael/O'Connor enlisted for dualism; no originator named for the rollback/coincidence arguments; `apex/born-preserving-causal-efficacy` untouched.
+- **Flagged, not edited**: §"Epistemic Limitations" says the interface view "makes the same predictions as standard quantum mechanics". That stands beside the new credal claim only through [P-Q2](/positions/quantum-interface/#p-q2)'s "only conditionals on the conscious state itself are free", and it is exposed whenever an intention is reported. This belongs to the open P1 HUMAN DECISION on [P-Q2](/positions/quantum-interface/#p-q2)'s quantifier, so it was left for that decision.
+- **Published**: yes (synced; hugo copy carries "admissible" and all three converted links)
 
 ## 2026-10-30T21:57:53+00:00 - deep-review
 - **Status**: Success
