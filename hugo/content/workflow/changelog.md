@@ -10,6 +10,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-30T23:28:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)
+- **Word count**: 3,283 → 3,351 (+68; `analyze_length`, topics 3000/4000, soft_warning both before and after)
+- **Critical issues addressed**: 10. Upstream repairs not yet absorbed from [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) and [P-D3](/positions/arguments-for-dualism/#p-d3): (1) description/lead/L44 credited all five traditions with finding irreducibility, contradicting L76/L112 → "describe … as basic"; (2) L40/L54/L56 said the register does not settle the Confucian count, but [P-D3](/positions/arguments-for-dualism/#p-d3)'s 08-02 update records it → acknowledged; (3) L66 *vedanā* recruited for normative authority (e680f2ee93) → canonical craving-condition caveat, separability "assumed rather than shown" (10-25 wording); (4) L114 had no predictive-processing / interoceptive-inference rival (e7ae424be8) → added, with the residue that the recurrence "cannot tell basic from constructed", and the overclaiming "concedes" replaced; (5) L112 constitutive thesis stated flatly → "described as". Others: (6) L62 cut the unsupported "more fundamental than mental states" ranking of the four foundations; (7) L70 *lǐ*-as-cosmic-pattern reattributed from Mencius to the later Neo-Confucians; (8) L104 Kriegel's irreducibility gloss marked as the Map's; (9) L102 Sosa enlisted for "grounds" → his own "relatively independent" motivations (Cambridge abstract); (10) L130 parsimony claim in the Map's favour → "the Map does not let simplicity decide".
+- **Medium issues addressed**: 3 (L72 dualism-parallel enlistment collapsed; L74 not-X-it-is-Y rephrased; L78 third "tally mark" restatement cut)
+- **Enhancements made**: 2 cross-links ([predictive-processing](/concepts/predictive-processing/); heading link to the hub's Predictive-Construction Challenge)
+- **Engagements**: shared architecture / interoceptive inference, Mode Two then Mode Three (the bridge is unsupplied; the basic-vs-constructed residue is stated); cultural projection, Mode One (unchanged); Sosa/Kriegel/Onof cited for their own claims only
+- **Currency**: References unchanged since the 07-29 ledger. The 07-30 L56 historical claims were checked for the first time (Wang's Buddhist study and the Chan charges confirmed). Lead, not minted: "a millennium of Chan" is generous on modern dating and is shared with [P-D3](/positions/arguments-for-dualism/#p-d3).
+- **Output**: [deep-review-2026-10-30-evaluative-qualia-phenomenal-normativity-across-traditions](/reviews/deep-review-2026-10-30-evaluative-qualia-phenomenal-normativity-across-traditions/)
+
 ## 2026-10-30T23:07:14+00:00 - refine-draft
 - **Status**: Success
 - **File**: [molyneux-void](/voids/molyneux-void/)
