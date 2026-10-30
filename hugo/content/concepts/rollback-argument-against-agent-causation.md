@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-10-26 00:20:39+00:00
+ai_modified: 2026-10-30 12:13:11+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[reasons-responsiveness]]'
 created: 2026-10-25
-date: &id001 2026-10-26
+date: &id001 2026-10-30
 description: Van Inwagen's replay says agent causation leaves an undetermined choice
   to chance. Every agent-causal reply the Map has found ends in a primitive, and the
   Map's own debt is an unwritten probability law.
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-25 15:33:19+00:00
-lastmod: 2026-10-26 00:20:39+00:00
+lastmod: 2026-10-30 12:13:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,13 +68,15 @@ At the **token** level, the question is why this exercise of the power went to A
 
 That answer cannot dissolve the objection, because a theory that supplies objective probabilities over the agent's exercises supplies the replay's own premise. The second family blocks the replay precisely by refusing it.
 
-Joel Archer's (2022) grounding reply and the bodies of Clarke (2005) and Franklin (2011) were not reached, so "every reply" means every reply the Map has found.
+Joel Archer's (2022) grounding reply was read at abstract and notes only, and the bodies of Clarke (2005) and Franklin (2011) were not reached, so "every reply" means every reply the Map has found.
 
 ## The Probability Fork {#probability-fork}
 
 The literature's fork is to deny robust probabilities and block the replay, or to keep them and reconcile them with the agent's control. Bernáth and Tőzsér argue that reconciliation fails: "metaphysically robust probabilities are incompatible with a kind of control which can ensure that free actions are not a matter of chance" (2020, abstract). If the agent's control settles each token, it settles the pattern, and the probabilities have nothing left to explain. On their argument O'Connor's division of labour between agent and probabilities is unavailable, and a libertarian who wants that control should deny robust probabilities.
 
-Their target is one combination; they leave the probability-denying alternative open and do not refute agent causation. The field treats the question as open: why such probabilities "might present special problems beyond those posed by the absence of determinism has been insufficiently explored to date" (O'Connor and Franklin 2022, §3.1).
+O'Connor's 2016 reply to Vicens keeps both robust probabilities and control. The probabilities "simply measure the relative likelihood of what I shall choose, they do not bring about my choice", and control "supervenes on what occurs then and there, not on what I might do elsewhere and elsewhen" (O'Connor 2016: 292). He grants that the probabilities predict convergence over exact repetitions and dismisses the replay: "So what? I never could be so situated." That paper predates Bernáth and Tőzsér, who cite neither it nor Vicens, yet the 2011 sentence they target recurs in it almost word for word. O'Connor asserts the coexistence, restating the division of labour their argument says is impossible, without demonstrating it. Vicens's own argument is an undercutting one: she finds no reason in introspection or the metaphysics of causation to posit particular probabilities; the incompatibility claim is Bernáth and Tőzsér's.
+
+Their target is one combination; they leave the probability-denying alternative open and do not refute agent causation. The field treats the question as open: why such probabilities "might present special problems beyond those posed by the absence of determinism has been insufficiently explored to date" (O'Connor and Franklin 2022, §3.1). Buchak's denial has a physics condition: physics fixes chances for micro-level events given measurements, so agent-causalists deny that free acts are "micro-level events of the type studied by physics" (2013), a denial the Map's quantum-level selection cannot simply borrow ([below](#one-debt)).
 
 ## The Map's Reading: One Debt {#one-debt}
 
@@ -85,7 +87,7 @@ This section is the Map's own analysis, which no source above makes, and it take
 **The fork at that grain**, stated symmetrically:
 
 - **If the conditionals are objective propensities**, the Map grants van Inwagen's premise at that grain and meets Bernáth and Tőzsér's objection. This is the reading the Map needs if selection is ever to depart from the public statistics under some conditioning, the first horn of [the Born-preservation trilemma](/apex/born-preserving-causal-efficacy/).
-- **If there are no such propensities**, the Map blocks the replay as Buchak and Vicens would. The Born-exact public statistics must then hold without being a mixture of conditional chances: across many agents and occasions, propensity-free settlings would match the Born weights with nothing explaining the match. That is Derk Pereboom's wild-coincidences objection (Pereboom 2001, ch. 3; 2014) applied to the Born weights, a cost the Map records as undischarged ([hard incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)).
+- **If there are no such propensities**, the Map blocks the replay as Buchak and Vicens would. The Born-exact public statistics must then hold without being a mixture of conditional chances: across many agents and occasions, propensity-free settlings would match the Born weights with nothing explaining the match. That is Derk Pereboom's wild-coincidences objection (Pereboom 2001, ch. 3; 2014) applied to the Born weights, a cost the Map records as contested rather than discharged ([hard incompatibilism](/topics/the-manipulation-argument-and-hard-incompatibilism/)). Thomas Müller (2023) argues the objection fails for statistical laws: even where the physical probabilities are known independently, as the Born weights are, a coincidence needs contrary expectations, such as known agent propensities "relevantly different" from them (p. 799), and on a propensity-free view "Nothing in the anomic position grounds any contrary expectations" (p. 798).
 
 **Both branches end at one law.** The Map's own analysis concludes that exact Born-preservation "needs a companion law over the distribution of conscious reasons, and the Map has never written one" ([Born-preserving causal efficacy](/apex/born-preserving-causal-efficacy/)). On the first branch that law would be a propensity profile over conscious states, constrained to keep the public statistics Born-exact; on the second, a law of conformity making the match lawful rather than coincidental. On the Map's reading, then, the modal structure its luck reply owes, the wild-coincidence cost and the companion-law debt are one unwritten law.
 
@@ -99,7 +101,7 @@ On the Map's analysis, the first branch leaves the agent's settling and a primit
 
 No reply the Map has found turns that categorical difference into a counterfactual one. Explanation stops there in the Map's account, and the Map says so plainly: it answers who settles the outcome, and has no further answer to why the settling went one way. [The Map's luck reply](/concepts/quantum-indeterminacy-free-will/) defends that stopping point as a legitimate terminus within its framework, without claiming that the quantum interface removes it.
 
-Three developments would change the verdict: a reply grounding the token without restoring determinism (Archer 2022 is the unread candidate, so this is unresolved rather than tested); a demonstration that the agent's control and robust probabilities coexist (O'Connor's 2016 reply to Vicens is unread, and Bernáth and Tőzsér's argument stands against it); and a Born-preserving companion law motivated independently of luck, which the Map has not attempted.
+Three developments would change the verdict. A reply grounding the token without restoring determinism: Archer (2022; abstract and all 23 notes read, body not reached) runs grounding the other way, partly grounding which world is actual in free choices and meeting van Inwagen's challenge if "facts about free actions are explanatorily prior to any objective probabilities associated with those actions", a thesis he lets readers take conditionally on there being grounding relations (n. 20). On the parts read, that reverses the order of explanation without grounding why the token went to A rather than B, so [P-A2](/positions/agency-and-will/#p-a2)'s categorical difference stays categorical. A demonstration that the agent's control and robust probabilities coexist: O'Connor's reply to Vicens asserts the coexistence without demonstrating it ([above](#probability-fork)). And a Born-preserving companion law motivated independently of luck, which the Map has not attempted.
 
 ## Relation to Site Perspective
 
@@ -126,7 +128,7 @@ Three developments would change the verdict: a reply grounding the token without
 
 ## References
 
-1. Archer, J. (2022). Grounding and the luck objection to agent-causal libertarianism. *Philosophical Studies*, 179(5), 1763–1775. https://doi.org/10.1007/s11098-021-01728-8 (not read)
+1. Archer, J. (2022). Grounding and the luck objection to agent-causal libertarianism. *Philosophical Studies*, 179(5), 1763–1775. https://doi.org/10.1007/s11098-021-01728-8
 1. Babakhanian, A. (2025). Thomist Libertarianism is Committed to Mysterianism. *New Blackfriars*, 106(2), 101–113. https://doi.org/10.1017/nbf.2024.19
 1. Bernáth, L., & Tőzsér, J. (2020). Rolling Back the Rollback Argument. *teorema*, 39(2), 43–61.
 1. Buchak, L. (2013). Free Acts and Chance: Why the Rollback Argument Fails. *Philosophical Quarterly*, 63(250), 20–28. https://doi.org/10.1111/j.1467-9213.2012.00094.x
@@ -140,9 +142,10 @@ Three developments would change the verdict: a reply grounding the token without
 1. Griffith, M. (2010). Why Agent-Caused Actions Are Not Lucky. *American Philosophical Quarterly*, 47(1), 43–56.
 1. Hobart, R. E. (1934). Free Will as Involving Determination and Inconceivable Without It. *Mind*, 43(169), 1–27. https://doi.org/10.1093/mind/XLIII.169.1
 1. Mele, A. R. (2006). *Free Will and Luck*. Oxford University Press. https://doi.org/10.1093/0195305043.001.0001 (ch. 3, "Libertarianism, Luck, and Control", pp. 49–80)
+1. Müller, T. (2023). Taming Pereboom's Wild Coincidences. *Mind*, 132(527), 789–802. https://doi.org/10.1093/mind/fzad002
 1. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press. https://doi.org/10.1093/019515374X.001.0001
 1. O'Connor, T. (2011). Agent-Causal Theories of Freedom. In R. Kane (Ed.), *The Oxford Handbook of Free Will* (2nd ed., pp. 308–328). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780195399691.003.0015
-1. O'Connor, T. (2016). Probability and Freedom: A Reply to Vicens. *Res Philosophica*, 93(1), 289–293. https://doi.org/10.11612/resphil.2016.93.1.13 (not read)
+1. O'Connor, T. (2016). Probability and Freedom: A Reply to Vicens. *Res Philosophica*, 93(1), 289–293. https://doi.org/10.11612/resphil.2016.93.1.13
 1. O'Connor, T., & Franklin, C. E. (2022). Free Will. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/freewill/
 1. Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press. https://doi.org/10.1017/CBO9780511498824
 1. Pereboom, D. (2014). *Free Will, Agency, and Meaning in Life*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199685516.001.0001
