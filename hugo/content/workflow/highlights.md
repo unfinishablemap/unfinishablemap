@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-30T08:23:09.675015'
+ai_modified: '2026-10-30T08:23:41+00:00'
 ai_system: null
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: '2026-10-30'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-30 08:23:09.675015+00:00
+lastmod: 2026-10-30 08:23:41+00:00
 modified: '2026-10-30'
 related_articles:
 - '[[workflow]]'
@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 In 1928 Eddington separated guiding one atom between two unremarkable outcomes from steering a crowd of atoms, then chose steering. Schrödinger named the cost in 1936. The Map takes the road Eddington declined, and still owes what that road costs.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2116083562659115308  
 **Link**: [first-quantum-free-will-wave-1927-1940](/topics/first-quantum-free-will-wave-1927-1940/)
 
 ---
