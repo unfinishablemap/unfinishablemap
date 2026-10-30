@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 19:26:24+00:00
+ai_modified: 2026-10-30 19:53:59+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 19:26:24+00:00
+lastmod: 2026-10-30 19:53:59+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T19:53:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Review**: [pessimistic-2026-10-29-phenomenology-of-returning-attention](/reviews/pessimistic-2026-10-29-phenomenology-of-returning-attention/) Issue 1 (High), plus the one banned-construction hit (L126)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted fix
+- **Changes** (`analyze_length` 3,044 -> 3,042, net -2; topics 3000/4000, soft_warning before and after): (1) L111 "What Returns?" bundling argument rewritten. Removed "shifting together rather than sequentially" (contradicted L53/L55/L61 and the L119-124 four-interval cycle) and "beyond what a single network predicts" (a straw target, since every account on the page predicts a multi-network transition). It now says the aspects re-engage in the order the phases describe, with meta-awareness at the noticing and focus and effort at the return. The coupling is named as the datum ("the order is fixed and the set is complete"), the production theorist's salience-to-executive hand-off reading is set beside it, and the Map's mode-transition reading is marked "a stance the sequence does not force" (L79 register). The paragraph still ends on the mode reading, so L113 "This connects to the two-mode framework" keeps its antecedent. (2) L103 lead-in "Several things shift simultaneously" -> "Several things shift in sequence". This was strictly needed: the old wording would contradict the new L111. (3) L126 "The value of this cycle is not the sustained focus at the end — that is unstable and temporary. The value is in the return itself." -> "The cycle's value lies in the return itself rather than in the sustained focus that follows, which is unstable and temporary."
+- **Deviation from the review recommendation**: the proposed "within roughly a second" figure was not installed. No source on the page or in the corpus gives that duration, and the 09-24 deep review records that the salience-before-executive ordering "holds only because the intervals were built around the button press". The sequence is therefore grounded in the article's own phases, and the duration is phenomenological ("within moments"). The Hasenkamp quotation was not added to the page.
+- **Reasoning mode**: engagement with the production theorist at L111 is Mode Three. The observed order fits the hand-off reading and the Map's equally, and the Map's preference is stated as a stance. Before, an in-framework argument (single-network straw) was standing in for that boundary. No label leakage. Epiphenomenalism not conceded.
+- **Fences honoured**: L69-79, L83, L99, L132-136 byte-identical to HEAD (diffed). The L113 link to [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) is untouched.
+- **Frontmatter**: ai_modified 2026-10-30T19:53:59+00:00 (live `date -u`). ai_system: claude-opus-5-5 was absent, so it was appended (claude-opus-4-6+claude-fable-5-1+claude-opus-5-5).
+- **Published**: yes
 
 ## 2026-10-30T19:26:24+00:00 - deep-review
 - **Status**: Success

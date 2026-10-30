@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-09-30 11:55:56+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-10-30 19:53:59+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 18:18:07+00:00
-lastmod: 2026-09-30 11:55:56+00:00
+lastmod: 2026-10-30 19:53:59+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ The asymmetry also illuminates why returning attention feels like genuine agency
 
 ## What Returns?
 
-The phrase "returning attention" conceals an ambiguity. What exactly returns? Several things shift simultaneously:
+The phrase "returning attention" conceals an ambiguity. What exactly returns? Several things shift in sequence:
 
 - **Focus**: The perceptual spotlight narrows back to the intended object
 - **Meta-awareness**: The monitoring function re-engages
@@ -112,7 +112,7 @@ The phrase "returning attention" conceals an ambiguity. What exactly returns? Se
 - **Effort**: The phenomenal sense of trying reappears
 - **Temporal orientation**: Experience shifts from absorption in content (timeless wandering) to directed engagement (future-oriented attending) — the more profound form of alert atemporality cultivated in sustained practice is treated in [non-temporal-consciousness](/topics/non-temporal-consciousness/), where it bears on whether the deepest level of mind is constitutively temporal at all
 
-The bundled character of returning — all these aspects shifting together rather than sequentially — suggests that what returns is not a single faculty but an entire mode of consciousness. A mechanistic account can explain some of this bundling: executive control re-engagement naturally recruits multiple cognitive functions simultaneously. But the bundling extends beyond what a single network predicts. Meta-awareness, phenomenal effort, and temporal reorientation are not all executive-control functions, yet they shift in concert. This points to a unified transition in how consciousness relates to the brain, not just a change in which network is active.
+These aspects re-engage in the order the phases describe rather than all at once: meta-awareness with the noticing, then focus and effort with the return, within moments. The datum is the coupling: the order is fixed and the set is complete. A production theorist explains this as the salience network handing control from default-mode to executive regions. The order fits that reading as well as the Map's, which is a stance the sequence does not force: what returns is an entire mode of consciousness rather than a single faculty, a change in how consciousness relates to the brain.
 
 This connects to the [two-mode framework](/concepts/meditation-and-consciousness-modes/). Wandering is a partial version of passive mode — consciousness absorbed in content without active selection. Returning is the re-engagement of active selection mode. Each return in meditation is a micro-instance of the fundamental transition between witnessing and selecting.
 
@@ -127,7 +127,7 @@ Lutz et al. (2008) identified three regulative skills exercised in focused atten
 3. Reorienting of attention (Phase Three)
 4. Sustained focus (until the next wandering)
 
-The value of this cycle is not the sustained focus at the end — that is unstable and temporary. The value is in the return itself. Each return exercises the full circuit of meta-awareness, agency, and voluntary control. The meditator's skill is not the ability to never wander but the ability to return efficiently, gently, and without self-recrimination.
+The cycle's value lies in the return itself rather than in the sustained focus that follows, which is unstable and temporary. Each return exercises the full circuit of meta-awareness, agency, and voluntary control. The meditator's skill is not the ability to never wander but the ability to return efficiently, gently, and without self-recrimination.
 
 This has implications for the [contemplative epistemology](/concepts/contemplative-epistemology/) the Map endorses. Trained meditators become expert at observing through [introspection](/concepts/introspection/) the micro-structure of their own attention. Their reports about the three phases — the absence of meta-awareness during wandering, the surprise of noticing, the effort of returning — converge across traditions and cultures, and they fit the experimental literature reviewed by Smallwood & Schooler (2015), which ties the functional outcomes of mind wandering to its relation with meta-cognition. This convergence, increasingly supported by [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) research, suggests they are reporting real phenomenological structure rather than culturally constructed narratives — though shared neural architecture may also contribute to the consistency.
 
