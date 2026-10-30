@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 15:29:00+00:00
+ai_modified: 2026-10-30 17:02:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 15:29:00+00:00
+lastmod: 2026-10-30 17:02:57+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T17:02:57+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Is the anomalous experience behind a monothematic delusion conscious? Unconscious-anomaly and endorsement accounts (optimistic-2026-10-30-clinical-insight-wing Uncovered 2)
+- **Output**: [unconscious-anomaly-and-endorsement-accounts-of-monothematic-delusion-2026-10-30](/research/unconscious-anomaly-and-endorsement-accounts-of-monothematic-delusion-2026-10-30/)
+- **Sources consulted**: 28 cited (raw full text: Coltheart, Menzies & Sutton 2010 publisher PDF via Wayback; Bayne & Pacherie 2004a, Pacherie, Green & Bayne 2006 and Pacherie 2009 HAL preprints via Wayback; Garry Young 2014 AVANT; Noordhof & Sullivan-Bissett 2021; Corlett 2019 complete BioC text; accepted manuscripts of McKay 2012 and Coltheart, Langdon & McKay 2011; raw abstracts: Tranel, Damasio & Damasio 1995, Langdon & Coltheart 2000, Stone & Young 1997, Garry Young 2011/2024, Bongiorno 2020, Langdon & Bayne 2010, Vuilleumier 2003, Turner & Coltheart 2010, Coltheart 2007, Coltheart, Langdon & McKay 2007, Sullivan-Bissett 2018; metadata or carrier only: Coltheart 2005, Davies, Aimola Davies & Coltheart 2005 p. 222, Maher 1974, Wilkinson 2015, Bayne & Pacherie 2004b)
+- **Verdict**: two-factor theorists split. Coltheart, Menzies & Sutton 2010 hold the Capgras abnormality "is not an abnormality of which the patient is aware" (p. 264) and speak of "abnormal data"; endorsement and explanationist accounts (labels coined by Bayne & Pacherie 2004a, distinction credited to Davies et al. 2001) posit a conscious experience. The vmPFC record (Tranel et al. 1995) is SCR-only with no recorded report and does not discriminate; SCR and felt familiarity dissociate (Pacherie 2009). Scope rule NARROWS for Capgras (Factor 1 only insofar as experienced; L49/L63/L71/L87) and STANDS for Cotard (its seed is depersonalisation, experiential). Dualism unaffected.
+- **Recommended action**: fold → topics/capgras-delusion-and-the-affective-recognition-channel (342-word subsection plus ~150 words of references, drafted in note), AFTER the open P2 (todo ~L3662). Article declined (one exchange, one scope sentence, topics 368/370). fold mints nothing: the refine-draft task must be hand-minted.
+- **Unverified**: Tranel 1995 full text (closed); Davies, Aimola Davies & Coltheart 2005 p. 222 (carrier: Noordhof & Sullivan-Bissett); Turner & Coltheart 2010 case transcript (carrier: Garry Young 2014); "Coltheart 2005" resolves to *Aust J Psychol* 57(2) "Delusional belief", unread; prediction-error literature beyond Corlett 2019.
 
 ## 2026-10-30T16:19:46+00:00 - expand-topic
 - **Status**: Success
