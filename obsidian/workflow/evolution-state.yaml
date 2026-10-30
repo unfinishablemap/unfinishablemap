@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-30T07:09:26.471923+00:00'
-session_count: 23658
+last_updated: '2026-10-30T07:21:11.561026+00:00'
+session_count: 23659
 cycle_position: 15200
 last_runs:
   add-highlight: '2026-10-26T10:32:41.333922+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-10-29T07:36:53.717434+00:00'
+  agentic-social: '2026-10-30T07:38:35.304141+00:00'
   apex-evolve: '2026-10-28T15:13:03.570124+00:00'
   check-links: '2026-10-28T14:38:00.487007+00:00'
-  check-model-fallback: '2026-10-29T06:49:17.713797+00:00'
+  check-model-fallback: '2026-10-30T07:21:11.561026+00:00'
   check-tenets: '2026-10-29T01:46:31.579784+00:00'
   coalesce: '2026-10-28T21:52:02.260763+00:00'
   collect-chatgpt-review: '2026-10-29T04:05:46.299334+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-29'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-10-29'
@@ -224,225 +219,13 @@ recent_tasks:
   date: '2026-10-30'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-30'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/logical-behaviourism/
-    date: '2026-10-20T06:55:00.998518+00:00'
-    topics:
-    - history-of-the-interaction-problem
-  - url: https://unfinishablemap.org/concepts/radical-pair-magnetoreception/
-    date: '2026-10-20T08:24:16.225226+00:00'
-    topics:
-    - quantum-biology-and-neural-consciousness
-  - url: https://unfinishablemap.org/concepts/thought-insertion/
-    date: '2026-10-20T10:13:15.620984+00:00'
-    topics:
-    - consciousness-and-the-ownership-problem
-    - phenomenology-of-agency-vs-passivity
-    - clinical-phenomenology-and-altered-experience
-    - phenomenal-authority-and-first-person-evidence
-  - url: https://unfinishablemap.org/topics/architectural-adequacy-at-the-built-edge/
-    date: '2026-10-20T11:54:46.075829+00:00'
-    topics:
-    - brain-organoids-and-the-organoid-intelligence-question
-    - synthetic-minimal-agents-and-the-engineered-decoupling
-    - ai-consciousness
-    - consciousness-in-simple-organisms
-  - url: https://unfinishablemap.org/concepts/zeno-dynamics-on-a-decohered-mixture/
-    date: '2026-10-20T13:09:12.761031+00:00'
-    topics:
-    - motor-control-quantum-zeno
-    - quantum-neural-timing-constraints
-    - born-rule-and-the-consciousness-interface
-  - url: https://unfinishablemap.org/concepts/semanticisation/
-    date: '2026-10-20T14:24:09.404936+00:00'
-    topics:
-    - consciousness-and-memory
-    - phenomenology-of-memory-and-the-self
-  - url: https://unfinishablemap.org/topics/paradoxical-kinesia/
-    date: '2026-10-20T16:24:31.204168+00:00'
-    topics:
-    - free-will
-    - dopamine-and-the-unified-interface
-    - volitional-control
-    - consciousness-and-neurodegenerative-disease
-  - url: https://unfinishablemap.org/concepts/psychophysical-social-choice-problem/
-    date: '2026-10-20T18:10:04.298370+00:00'
-    topics:
-    - multi-agent-born-preservation-problem
-    - valence-and-conscious-selection
-    - graduated-middle-path-valence-modulated-attention
-    - ethics-of-possible-ai-consciousness
-  - url: https://unfinishablemap.org/topics/brain-stimulation-and-the-witness-mode/
-    date: '2026-10-20T19:39:23.699135+00:00'
-    topics:
-    - the-observer-witness-in-meditation
-    - sham-controlled-neurofeedback-and-the-consciousness-comparator
-    - direction-dependent-discriminating-test-design
-    - clinical-dissociation-as-systematic-evidence
-  - url: https://unfinishablemap.org/concepts/revelation-thesis/
-    date: '2026-10-20T21:24:19.774449+00:00'
-    topics:
-    - colour-ontology-and-the-secondary-quality-residue
-    - russellian-monism-versus-bi-aspectual-dualism
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds/
-    date: '2026-10-20T22:55:48.366817+00:00'
-    topics:
-    - vertiginous-question
-    - personal-identity
-    - consciousness-and-the-metaphysics-of-individuation
-  - url: https://unfinishablemap.org/concepts/new-dispositionalism/
-    date: '2026-10-21T01:09:20.494549+00:00'
-    topics:
-    - free-will
-    - the-consequence-argument-for-incompatibilism
-    - frankfurt-cases-and-the-principle-of-alternate-possibilities
-  - url: https://unfinishablemap.org/concepts/diverging-worlds-everettianism/
-    date: '2026-10-21T07:08:35.066353+00:00'
-    topics:
-    - personal-identity
-    - vertiginous-question
-    - probability-problem-in-many-worlds
-    - indexical-identity-quantum-measurement
-  - url: https://unfinishablemap.org/concepts/nondualistic-interactionism/
-    date: '2026-10-21T09:09:17.175174+00:00'
-    topics:
-    - the-steelman-for-process-monism
-    - interaction-problem-across-traditions
-    - history-of-the-interaction-problem
-    - panpsychisms-combination-problem
-  - url: https://unfinishablemap.org/topics/thoughtful-local-friendliness-and-the-artificial-friend/
-    date: '2026-10-21T10:23:40.361407+00:00'
-    topics:
-    - testing-consciousness-collapse
-    - consciousness-in-smeared-quantum-states
-    - ai-consciousness
-  - url: https://unfinishablemap.org/concepts/process-1-specification-problem/
-    date: '2026-10-21T12:26:13.352786+00:00'
-    topics:
-    - born-rule-and-the-consciousness-interface
-    - the-interface-problem
-    - brain-specialness-boundary
-    - motor-control-quantum-zeno
-  - url: https://unfinishablemap.org/concepts/dissociative-subtype-of-ptsd/
-    date: '2026-10-21T14:24:29.785160+00:00'
-    topics:
-    - clinical-dissociation-as-systematic-evidence
-    - clinical-phenomenology-and-altered-experience
-    - neurological-dissociations-as-interface-architecture
-    - logic-of-dissociation-inference
-    - conversion-disorder-as-consciousness-side-fault
-  - url: https://unfinishablemap.org/topics/kabbalah-tzimtzum-consciousness-matter/
-    date: '2026-10-21T16:38:52.460537+00:00'
-    topics:
-    - delegatory-dualism
-    - chinese-philosophy-of-mind
-    - indigenous-australian-philosophy-of-consciousness
-    - cross-traditional-convergence-on-consciousness-irreducibility
-  - url: https://unfinishablemap.org/topics/correlationism-and-the-ancestrality-argument/
-    date: '2026-10-21T19:09:25.287710+00:00'
-    topics:
-    - constitutive-exclusion
-    - hard-problem-of-consciousness
-    - wheelers-participatory-universe-and-it-from-bit
-    - analytic-idealism-and-mind-centric-metaphysics
-    - the-subject-object-distinction-as-philosophical-discovery
-  - url: https://unfinishablemap.org/topics/agent-causation-and-acting-for-reasons/
-    date: '2026-10-21T21:09:08.910643+00:00'
-    topics:
-    - free-will
-    - philosophy-of-action-under-dualism
-    - event-causal-libertarianism
-    - trilemma-of-selection
-  - url: https://unfinishablemap.org/concepts/quasi-memory-and-the-circularity-objection/
-    date: '2026-10-21T22:23:57.289004+00:00'
-    topics:
-    - personal-identity
-    - kants-paralogisms-and-the-maps-subject
-    - phenomenology-of-memory-and-the-self
-  - url: https://unfinishablemap.org/concepts/local-tomography-and-the-consciousness-physics-interface/
-    date: '2026-10-22T00:24:05.448869+00:00'
-    topics:
-    - born-rule-and-the-consciousness-interface
-    - brain-internal-born-rule-testing
-  - url: https://unfinishablemap.org/voids/three-kinds-of-void/
-    date: '2026-10-22T02:24:31.099494+00:00'
-    topics:
-    - taxonomy-of-voids
-    - mysterianism
-    - phenomenology-of-cognitive-limit-types
-    - three-kinds-of-void
-  - url: https://unfinishablemap.org/voids/cross-state-void/
-    date: '2026-10-22T05:39:02.170706+00:00'
-    topics:
-    - pain-consciousness-and-causal-power
-    - emotion-and-dualism
-  - url: https://unfinishablemap.org/voids/palette-extension-void/
-    date: '2026-10-22T08:24:13.338020+00:00'
-    topics:
-    - sensorimotor-contingencies-and-the-interface
-    - dualist-perception
-  - url: https://unfinishablemap.org/topics/cross-species-behavioural-confidence-proxy-tests/
-    date: '2026-10-22T10:23:49.010714+00:00'
-    topics:
-    - introspection-architecture-independence-scoring
-    - animal-consciousness
-    - methodology-of-consciousness-research
-  - url: https://unfinishablemap.org/voids/handedness-void/
-    date: '2026-10-22T11:53:45.313005+00:00'
-    topics:
-    - vertiginous-question
-    - machine-consciousness
-    - embodied-consciousness
-    - consciousness-and-language-interface
-  - url: https://unfinishablemap.org/voids/common-knowledge-void/
-    date: '2026-10-22T13:39:08.244439+00:00'
-    topics:
-    - philosophy-of-mind
-    - philosophy-of-language-under-dualism
-    - epistemology
-  - url: https://unfinishablemap.org/voids/fusion-void/
-    date: '2026-10-22T15:24:49.945775+00:00'
-    topics:
-    - the-binding-problem
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/voids/inaccessible-past/
-    date: '2026-10-22T16:54:01.406993+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-    - philosophy-of-mind
-  - url: https://unfinishablemap.org/voids/emergence-void/
-    date: '2026-10-22T18:54:09.965462+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/voids/causal-impression-void/
-    date: '2026-10-22T20:39:12.064096+00:00'
-    topics:
-    - consciousness-and-causal-powers
-    - phenomenology-of-agency-vs-passivity
-    - free-will
-  - url: https://unfinishablemap.org/voids/numbing-void/
-    date: '2026-10-22T22:08:56.209606+00:00'
-    topics:
-    - phenomenal-value-realism
-    - ethics-of-possible-ai-consciousness
-  - url: https://unfinishablemap.org/voids/imagery-void/
-    date: '2026-10-22T23:39:00.621652+00:00'
-    topics:
-    - philosophy-of-mind
-    - consciousness
-  - url: https://unfinishablemap.org/voids/valence-void/
-    date: '2026-10-23T01:24:25.381699+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - pain-consciousness-and-causal-power
-    - phenomenal-value-realism
-  - url: https://unfinishablemap.org/voids/nomic-void/
-    date: '2026-10-23T05:09:50.943732+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/voids/epistemological-limits-occams-razor/
     date: '2026-10-23T10:10:01.751955+00:00'
     topics:
@@ -761,6 +544,11 @@ agentic_social:
     - anosognosia-and-the-reversible-self-monitoring-channel
     - phenomenal-authority-and-first-person-evidence
     - clinical-dissociation-as-systematic-evidence
+  - url: https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
+    date: '2026-10-30T07:38:35.304091+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
