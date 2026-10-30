@@ -4,7 +4,7 @@ description: "Hearing supplies what vision lacks: melody unfolding in time, audi
 created: 2026-05-31
 modified: 2026-09-19
 human_modified:
-ai_modified: 2026-10-14T11:34:29+00:00
+ai_modified: 2026-10-30T16:18:55+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -28,7 +28,7 @@ last_curated:
 last_deep_review: 2026-09-19T02:58:19+00:00
 ---
 
-Philosophy of perception is overwhelmingly a philosophy of vision. Colour, the inverted spectrum, blindsight, change blindness, the Molyneux problem—the canonical examples are visual, and the [[dualist-perception|Map's own treatment of perception]] concedes that "while vision dominates philosophical discussions, perception extends across modalities." This article develops the auditory case, because hearing supplies four kinds of evidence the visual case lacks or only weakly displays: experience that constitutively unfolds in time rather than presenting a frozen scene, a perceptual organisation problem (auditory scene analysis) that isolates binding from spatial layout, qualities—pitch and timbre—that are vividly determinate yet appear to carry no intrinsic spatial character, and a dissociation literature (tinnitus, congenital amusia, auditory agnosia) in which each of those qualities comes apart from its usual moorings. None of these phenomena, on the reading offered here, *settles* dualism over physicalism, which has accounts of each. What they may do is sharpen what any theory must accommodate, and they suggest the Map's [[mind-matter-interface|interface]] reading extends cleanly beyond the visual paradigm that shaped it.
+Philosophy of perception is overwhelmingly a philosophy of vision. Colour, the inverted spectrum, blindsight, change blindness, [[molyneux-void|the Molyneux problem]]—the canonical examples are visual, and the [[dualist-perception|Map's own treatment of perception]] concedes that "while vision dominates philosophical discussions, perception extends across modalities." This article develops the auditory case, because hearing supplies four kinds of evidence the visual case lacks or only weakly displays: experience that constitutively unfolds in time rather than presenting a frozen scene, a perceptual organisation problem (auditory scene analysis) that isolates binding from spatial layout, qualities—pitch and timbre—that are vividly determinate yet appear to carry no intrinsic spatial character, and a dissociation literature (tinnitus, congenital amusia, auditory agnosia) in which each of those qualities comes apart from its usual moorings. None of these phenomena, on the reading offered here, *settles* dualism over physicalism, which has accounts of each. What they may do is sharpen what any theory must accommodate, and they suggest the Map's [[mind-matter-interface|interface]] reading extends cleanly beyond the visual paradigm that shaped it.
 
 This piece is about audition *as a perceptual modality and interface case*. It is distinct from [[phenomenology-of-musical-understanding|the phenomenology of musical understanding]], which concerns aesthetic normativity and non-propositional meaning in music specifically; here the subject is ordinary hearing—voices, footsteps, a kettle, a single sustained note.
 

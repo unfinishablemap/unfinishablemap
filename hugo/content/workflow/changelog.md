@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-30T16:19:46+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Molyneux Void: a crucial experiment that could not be run
+- **Output**: [molyneux-void](/voids/molyneux-void/)
+- **Word count**: 2,543 (analyze_length; voids soft 2,000 / hard 3,000; soft_warning; prose 2,105 + Further Reading/References 438; 456 below the hard gate)
+- **Section count**: voids 113 → 114 / 125 (count_section_files, measured before create)
+- **Based on research**: yes, [voids-molyneux-void-2026-10-30](/research/voids-molyneux-void-2026-10-30/)
+- **Quotations**: 31 quoted strings, every one swept mechanically against raw sources re-downloaded this run: SEP (8 Jan 2026 revision), Locke *Essay* and Berkeley *NTV* (Gutenberg; section locators re-checked), Cheselden 1728 (archive.org OCR, long s normalised), Clarke 2016 and Schwenkler 2012 (Europe PMC full text), and the abstracts of Held et al. 2011 (Europe PMC), Matthen & Cohen 2020, Green 2022, Green 2024, Held & Hein 1963, Maurer et al. 1999, Sann & Streri 2007, Versace et al. 2024 (OpenAlex). No [via X] wording quoted.
+- **Guards honoured**: Held 2011 subject count given only with its sources (SEP and Clarke: five; Schwenkler: four); no per-task percentages; Evans 1985 not used; Leibniz carried by the SEP and Clarke and named as such; Green and the 2024 reviews used at abstract level only; Matthen & Cohen cited to the *Australasian* Journal; void stated neutral between dualism and physicalism in the lead and in Relation to Site Perspective, no author enlisted.
+- **Research-note corrections**: Berkeley §51 continues that an attentive reader "may be able to deliver himself from that prejudice", so the article says argument can propose answers and only the route through looking closes. Clarke reports Leibniz's inference as reasoning from the figures' "differing axes of symmetry" (p. 135), not "distinguished points". Locke's "often" and "in many cases" qualifiers kept. The SEP gives Meltzoff & Borton's infants as "several hours-old", which conflicts with Maurer et al.'s one-month-old exact replication, so no age is stated for the 1979 study.
+- **Integration**: 1 zero-cost pipe: `topics/auditory-consciousness-and-the-interface` L31 "the Molyneux problem" → [molyneux-void](/voids/molyneux-void/) (host 3,098 → 3,098; topics hard 4,000). No other host had natural anchor text; the 3D-world L89 sentence is a live-page demand site and was left for its owner. No voids-index entry (it would cost words).
+- **Cross-review**: registered in `task_chains.pending_cross_reviews` (targets: three-dimensional-world-representation-problem, fusion-void, modality-void, tactile-consciousness-and-the-interface, apex/cross-modal-capability-division).
+- **Apex sources**: none (not listed in apex-articles.md).
+
 ## 2026-10-30T15:29:00+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Molyneux void: whether a mind with sight and touch gets the same shape once or twice
