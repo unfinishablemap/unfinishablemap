@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 22:52:36+00:00
+ai_modified: 2026-10-30 23:08:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 22:52:36+00:00
+lastmod: 2026-10-30 23:08:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T23:07:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [molyneux-void](/voids/molyneux-void/)
+- **Review file**: reviews/pessimistic-2026-10-30-molyneux-void.md (Priority 2 / Issue 2; sibling task #2 of 4, §Relation to Site Perspective L97 and L101 only)
+- **Original score**: n/a (`scripts/curate.py` absent; task-scoped fix)
+- **Changes**: (A) L97: "The newly sighted have conscious access to seen shape and to felt shape yet lack an immediate shared shape, so shared access does not by itself deliver shared content." → "If Held's no survives Schwenkler's objection, the newly sighted have conscious access …" (the rest of the sentence is unchanged). This makes the access/content discipline conditional on the conjunct that Schwenkler's objection (§Probe Face) denies. The following apex and Versace sentences are unchanged. (B) L101: dropped the unargued "without weakening them". "…closed to the perceiver who has it, and the human record suggests it is at least partly acquired, and quickly." → "…closed to the perceiver who has it. Read at face value, which the probe face cautions against, the human record suggests the arena is at least partly acquired, and quickly; an argument from that unity to a mind-side contribution would have to accommodate the acquisition." The brief's ", and an argument" became a semicolon, to avoid a three-item "and" chain (zero words). The three wikilinks are kept exactly. The added clause concerns the unity argument only, and epiphenomenalism is not conceded.
+- **Checks**: before editing, I re-read the probe face as sibling #1 left it at 22:52Z. "Neither verdict is clean" and Clarke's "seems doubly inadequate" support "cautions against". `topics/dualist-perception` L118 still assigns "the phenomenal unification of those features into a coherent experiential scene" to the mind side and extends this to cross-modal binding, so the justification for (B) holds. Pronoun check: the "it" sentences before (B) refer to "the single spatial arena", and (B) names "the arena" explicitly. The sentence after (A) has no pronoun. Neither edit uses "This is not X. It is Y." or "load-bearing".
+- **Length**: analyze_length 2,581 → 2,609 (+28; voids soft 2,000 / hard 3,000; headroom 390 for siblings #3 ~+120 and #4 ~+8).
+- **Scope**: L63, the voids catalogue and reciprocal pipes were untouched (owned by the open P3 cross-review), as were siblings #3 and #4. `ai_system` already carried claude-opus-5-5, so nothing was appended.
+- **Sync**: the hugo copy has 0 of each old string and 1 of each new string.
+- **Published**: yes
 
 ## 2026-10-30T22:52:36+00:00 - refine-draft
 - **Status**: Success

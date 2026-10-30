@@ -4,7 +4,7 @@ description: "Are seen and felt shape one content or two? Habit hides the join, 
 created: 2026-10-30
 modified: 2026-10-30
 human_modified: null
-ai_modified: 2026-10-30T22:52:36+00:00
+ai_modified: 2026-10-30T23:07:14+00:00
 draft: false
 topics:
   - "[[three-dimensional-world-representation-problem]]"
@@ -94,11 +94,11 @@ Artificial systems change the probe face and leave the seam face alone. Vision a
 
 **[[tenets#^dualism|Dualism]]** gains no support. Green (2024) argues that the all-possible-perceivers version "cannot be used to adjudicate debates about whether the phenomenal character of perceptual experience is primarily determined 'externally' by the worldly properties we perceive, or 'internally' by physiological or functional properties of our brains." No author cited here argues from the Molyneux record to dualism, and under the Map's calibration rule ([[positions/voids-as-evidence#^p-v2|P-V2]]) nothing flows back to the tenet.
 
-The void does impose one discipline. The newly sighted have conscious access to seen shape and to felt shape yet lack an immediate shared shape, so shared access does not by itself deliver shared content. The Map's [[cross-modal-capability-division|cross-modal synthesis]] reads a supramodal *boundary* of access off common neural signatures, which the record leaves intact. Reaching shared content would need separate support, which Versace and colleagues' "supra-modal brain areas", an inference about chick brains, cannot supply.
+The void does impose one discipline. If Held's no survives Schwenkler's objection, the newly sighted have conscious access to seen shape and to felt shape yet lack an immediate shared shape, so shared access does not by itself deliver shared content. The Map's [[cross-modal-capability-division|cross-modal synthesis]] reads a supramodal *boundary* of access off common neural signatures, which the record leaves intact. Reaching shared content would need separate support, which Versace and colleagues' "supra-modal brain areas", an inference about chick brains, cannot supply.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds a congenial pattern and no evidence. Held and Hein's kittens show visual space acquired through the agent's own movement, and Cheselden's cat shows touch teaching sight, but a physicalist sensorimotor account predicts both, as the [[tactile-consciousness-and-the-interface|tactile consciousness article]] concedes for active touch. **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** and **[[tenets#^no-many-worlds|No Many Worlds]]** have no bearing.
 
-The void qualifies the Map's unity claims without weakening them. The single spatial arena of [[three-dimensional-world-representation-problem]], [[binding-void]] and [[dualist-perception]] is the mature perceiver's. Whether it is given or acquired is closed to the perceiver who has it, and the human record suggests it is at least partly acquired, and quickly.
+The void qualifies the Map's unity claims. The single spatial arena of [[three-dimensional-world-representation-problem]], [[binding-void]] and [[dualist-perception]] is the mature perceiver's. Whether it is given or acquired is closed to the perceiver who has it. Read at face value, which the probe face cautions against, the human record suggests the arena is at least partly acquired, and quickly; an argument from that unity to a mind-side contribution would have to accommodate the acquisition.
 
 ## Further Reading
 
