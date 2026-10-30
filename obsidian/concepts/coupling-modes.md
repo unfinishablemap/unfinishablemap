@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-09-28T16:13:05+00:00
+ai_modified: 2026-10-30T17:25:06+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[selection-only-mind-influence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101+claude-opus-5
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-01-31
 last_curated:
 last_deep_review: 2026-07-16T18:25:00+00:00
@@ -123,7 +123,7 @@ Random number generator (RNG) experiments have attempted to detect such deviatio
 
 The Unfinishable Map does not commit to a single coupling mode, and what the tenets settle is narrower than a ranking:
 
-1. **Minimal Quantum Interaction** is an empirical corridor rather than a likelihood ordering. It holds that no *larger* interaction is empirically tenable—no detectable energy injection, no aggregate Born-statistics violation—which is what presses on probability control. It does not add that the smallest surviving mode is therefore the most likely true one; that inference is the parsimony-as-truth move [[tenets#^occams-limits|Occam's Razor Has Limits]] disarms.
+1. **Minimal Quantum Interaction** is an empirical corridor rather than a likelihood ordering. It holds that no *larger* interaction is empirically tenable—no detectable energy injection, no detectable aggregate Born-statistics deviation—which is what presses on probability control. It does not add that the smallest surviving mode is therefore the most likely true one; that inference is the parsimony-as-truth move [[tenets#^occams-limits|Occam's Razor Has Limits]] disarms.
 
 2. **Bidirectional Interaction** does the discriminating work minimality cannot. It commits to a *kind* of how—outcome-selection, influence over which definite outcome becomes actual—and registers a Process-1 / context-selection alternative as a path the Map has *not* adopted, since relocating the influence to context-setting alone would weaken the tenet. Basis control taken as the whole story is that alternative.
 

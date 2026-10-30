@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-10-03
 human_modified: null
-ai_modified: 2026-10-30T08:57:16+00:00
+ai_modified: 2026-10-30T17:25:06+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -153,7 +153,7 @@ Stapp's framework illuminates why the [[explanatory-gap]] exists. Physical descr
 
 ### Minimal Quantum Interaction
 
-Stapp's proposal is minimal in its selectional character—no force term, no new dynamics—but its energetic innocence holds only for the idealised isolated system; for the open, thermally coupled brain the back-action cost is unworked ([[#the-measurement-back-action-objection|above]]). Whether it meets the tenet's no-Born-violation clause depends on the contested ensemble reading ([[#the-core-mechanism|above]]).
+Stapp's proposal is minimal in its selectional character—no force term, no new dynamics—but its energetic innocence holds only for the idealised isolated system; for the open, thermally coupled brain the back-action cost is unworked ([[#the-measurement-back-action-objection|above]]). Whether it meets the tenet's no-detectable-deviation clause depends on the contested ensemble reading ([[#the-core-mechanism|above]]).
 
 ### Bidirectional Interaction
 

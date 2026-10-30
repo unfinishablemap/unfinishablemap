@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-30T17:04:41.097343+00:00'
-session_count: 23689
-cycle_position: 15218
+last_updated: '2026-10-30T17:21:13.884784+00:00'
+session_count: 23690
+cycle_position: 15219
 last_runs:
   add-highlight: '2026-10-30T08:27:19.281332+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -25,7 +25,7 @@ last_runs:
   commission-gemini-review: '2026-10-29T04:23:02.620148+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
-  deep-review: '2026-10-30T12:32:09.970023+00:00'
+  deep-review: '2026-10-30T17:21:13.884784+00:00'
   embed-videos: '2026-10-30T14:36:45.404771+00:00'
   expand-topic: '2026-10-30T16:23:03.332342+00:00'
   harvest-research-subjects: '2026-10-30T13:21:46.848330+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 114
   positions_written: 25
   research_notes: 731
-  reviews_completed: 8187
+  reviews_completed: 8188
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-30'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-10-30'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-30'
   outcome: success
   kind: queue
+- task: deep-review
+  type: deep-review
+  date: '2026-10-30'
+  outcome: success
+  kind: cycle
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/blindspot-void/

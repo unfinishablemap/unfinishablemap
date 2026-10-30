@@ -4,7 +4,7 @@ description: "Corridor dualism preserves each agent's Born marginal; entangled c
 created: 2026-09-01
 modified: 2026-09-01
 human_modified:
-ai_modified: 2026-10-28T17:09:13+00:00
+ai_modified: 2026-10-30T17:25:06+00:00
 draft: false
 anchoring_audit_exempt: true  # 2026-10-12 verified false-high vs ensemble-level-epiphenomenalism, multi-mind-collapse-problem, causal-consistency-constraint. Both strong hits are "shows that": the attributed Frauchiger-Renner theorem, and the Tenet 2 line restating the no-Born-statistics-violation entailment derived in the sentence before it (its "that" came from the 10-11 deep review's accuracy fix; verb strength unchanged). Calibrates structurally: Map-internal-synthesis + "unspecified / open debt" lead, "consistency, not corroboration", "commitment rather than derivation", "conjecture ... not a solution", ~45 phrasal markers the lexical counter misses.
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[concepts/composition-and-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5+claude-fable-5-1
+ai_system: claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-01
 last_curated:
 last_deep_review: 2026-10-11T22:42:28+00:00
@@ -87,7 +87,7 @@ Micro-psychokinesis experiments are the nearest thing to a multi-agent aggregate
 
 The Map interprets this problem as the price of taking its own tenets seriously at N > 1, and registers it as a debt rather than resolving it by fiat.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is where the constraint bites hardest. The tenet's empirical corridor was specified against single-agent marginals; demands 2 and 3 show the corridor's wall is really a multi-party structure. A selection law that preserved marginals but broke joint correlations would be detectable, so the tenet's no-Born-violation constraint excludes it; one that preserved correlations by cross-agent coordination would need a lawlike reach across spacelike separation, which the tenet's minimality, a constraint on what is detectable, neither licenses nor forbids. The multi-agent case does not refute the tenet; it shows that the tenet's constraint, read at N > 1, binds joint statistics that no Map selection law yet addresses. And as [[sign-problem-for-conscious-observation|the sign problem]] shows for one agent, a bound on magnitude leaves direction open: where two corridors share one entangled state, a joint law must also say whose selection fixes the outcome when the two conflict.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is where the constraint bites hardest. The tenet's empirical corridor was specified against single-agent marginals; demands 2 and 3 show the corridor's wall is really a multi-party structure. A selection law that preserved marginals but broke joint correlations would be detectable, so the tenet's no-detectable-deviation constraint excludes it; one that preserved correlations by cross-agent coordination would need a lawlike reach across spacelike separation, which the tenet's minimality, a constraint on what is detectable, neither licenses nor forbids. The multi-agent case does not refute the tenet; it shows that the tenet's constraint, read at N > 1, binds joint statistics that no Map selection law yet addresses. And as [[sign-problem-for-conscious-observation|the sign problem]] shows for one agent, a bound on magnitude leaves direction open: where two corridors share one entangled state, a joint law must also say whose selection fixes the outcome when the two conflict.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** inherits the scaled version of its standing caveat. Everything here is governed by the mechanism-debt citation grade: the single-agent selection being generalised is itself citable only as framework-internal coherence, not established mental causation, and the joint-level constraint adds a new unpaid item to that same ledger rather than discharging any old one.
 

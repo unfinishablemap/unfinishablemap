@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-10-30 12:52:56+00:00
+ai_modified: 2026-10-30 17:25:06+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-29 10:10:49+00:00
-lastmod: 2026-10-30 12:52:56+00:00
+lastmod: 2026-10-30 17:25:06+00:00
 modified: *id001
 related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
@@ -157,7 +157,7 @@ Wheeler's participatory universe and "it from bit" connect to all five of the Ma
 
 **Dualism.** Wheeler was not a dualist, and he ruled out the mental reading directly: "'Consciousness' has nothing whatsoever to do with the quantum process. We are dealing with an event that makes itself known by an irreversible act of amplification … an act of registration" (Wheeler 1983). His "immaterial" meant informational: mathematical structure and binary distinctions, not phenomenal consciousness. The Map's appropriation is selective and structural: it builds on his insight that physics does not bottom out in material stuff and that observation plays a constitutive role, rather than claiming Wheeler endorsed dualism. The conceptual space he opened — where information and participation are prior to matter — is one the Map inhabits but fills with commitments Wheeler did not share. Honesty about this distance matters: the Map's framework is inspired by Wheeler, not licensed by him, since his framework is compatible with eliminative materialism (information processing without irreducible mind) and with idealism (reality as observer-created) as readily as with dualism.
 
-**Minimal Quantum Interaction.** The Map shares Wheeler's conviction that the mind-matter interface lies at the quantum level, in the indeterminacies physics leaves open. The Brukner-Zeilinger programme provides indirect support: if quantum randomness arises from the finite informational content of elementary systems, then indeterminacy is structural, not a gap in our knowledge. But where Wheeler spoke broadly of "observer-participancy," the Map commits to the *minimal* such interaction — minimal in the empirical-constraint sense: no detectable Born-statistics deviation, indistinguishable from chance under any unconditioned aggregate test. Stapp's quantum Zeno mechanism illustrates this constraint in principle, though its neural implementation faces the decoherence objection discussed [above](#stapps-quantum-mind). Whether structural randomness permits consciousness to select among outcomes within that constraint is itself debated; the Map's endorsed path is post-decoherence Born-preserving selection, with minimum-outside-corridor modification and Born-orthogonal trumping causation as fallbacks (see [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)), not a settled mechanism.
+**Minimal Quantum Interaction.** The Map shares Wheeler's conviction that the mind-matter interface lies at the quantum level, in the indeterminacies physics leaves open. The Brukner-Zeilinger programme provides indirect support: if quantum randomness arises from the finite informational content of elementary systems, then indeterminacy is structural, not a gap in our knowledge. But where Wheeler spoke broadly of "observer-participancy," the Map commits to the *minimal* such interaction — minimal in the empirical-constraint sense: no detectable Born-statistics deviation, indistinguishable from chance under current unconditioned aggregate tests. Stapp's quantum Zeno mechanism illustrates this constraint in principle, though its neural implementation faces the decoherence objection discussed [above](#stapps-quantum-mind). Whether structural randomness permits consciousness to select among outcomes within that constraint is itself debated; the Map's endorsed path is post-decoherence Born-preserving selection, with minimum-outside-corridor modification and Born-orthogonal trumping causation as fallbacks (see [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)), not a settled mechanism.
 
 **Bidirectional Interaction.** The participatory universe supplies an analogy for bidirectional interaction: observation does not merely witness physical outcomes but participates in determining them. Putting consciousness where Wheeler put registration is the Map's move, not his. The delayed-choice experiment is the cleanest illustration, but it must be read precisely — in the outcome-selection sense stated [above](#wheelers-core-vision), not the dramatic "backward causation" gloss. That precise reading is the structure the Map's bidirectional claim actually needs: not influence over a pre-existing past fact, but participation in *which of the open outcomes becomes actual*. The Map aligns with Wheeler's central insight while constraining it twice over: the participation is in outcome-selection at registration (not retroactive rewriting), and it is localised — consciousness modulates collapse in neural systems, not universally across the cosmos.
 

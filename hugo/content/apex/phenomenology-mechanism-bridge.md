@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-21 06:23:13+00:00
+ai_modified: 2026-10-30 17:25:06+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-10-21 06:23:13+00:00
 apex_sources:
@@ -44,7 +44,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 02:37:50+00:00
-lastmod: 2026-10-21 06:23:13+00:00
+lastmod: 2026-10-30 17:25:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -178,7 +178,7 @@ This synthesis engages all five tenets, chiefly through the connections between 
 
 **[Dualism](/tenets/#dualism)** grounds the entire chain. The phenomenological level supplies the structures the Map reads as irreducible. The metaphysical level requires consciousness to be ontologically distinct. Without dualism, there is no bridge to build — phenomenology reduces to neural computation, and the chain collapses into a single level.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the quantum level: consciousness biases outcomes physics already allows, selecting among energetically equivalent alternatives without injecting energy. Its minimality is the empirical-constraint kind, ruling out Born-statistics violation, which is why the chain inherits the [P-Q3](/positions/quantum-interface/#p-q3) pressure noted at Level Four.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the quantum level: consciousness biases outcomes physics already allows, selecting among energetically equivalent alternatives without injecting energy. Its minimality is the empirical-constraint kind, ruling out detectable Born-statistics deviation, which is why the chain inherits the [P-Q3](/positions/quantum-interface/#p-q3) pressure noted at Level Four.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is what the chain articulates across the four levels. The chain fits the tenet without evidencing it beyond the citation grade [P-Q3 and P-Q10](/positions/quantum-interface/#mechanism-debt) set: a framework-internal coherence result carrying the register's mechanism debt, not established mental causation.
 

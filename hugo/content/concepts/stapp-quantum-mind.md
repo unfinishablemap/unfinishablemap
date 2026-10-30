@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-10-30 08:57:16+00:00
+ai_modified: 2026-10-30 17:25:06+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -31,7 +31,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 22:55:04+00:00
-lastmod: 2026-10-30 08:57:16+00:00
+lastmod: 2026-10-30 17:25:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ Stapp's framework illuminates why the [explanatory-gap](/concepts/explanatory-ga
 
 ### Minimal Quantum Interaction
 
-Stapp's proposal is minimal in its selectional character—no force term, no new dynamics—but its energetic innocence holds only for the idealised isolated system; for the open, thermally coupled brain the back-action cost is unworked ([above](#the-measurement-back-action-objection)). Whether it meets the tenet's no-Born-violation clause depends on the contested ensemble reading ([above](#the-core-mechanism)).
+Stapp's proposal is minimal in its selectional character—no force term, no new dynamics—but its energetic innocence holds only for the idealised isolated system; for the open, thermally coupled brain the back-action cost is unworked ([above](#the-measurement-back-action-objection)). Whether it meets the tenet's no-detectable-deviation clause depends on the contested ensemble reading ([above](#the-core-mechanism)).
 
 ### Bidirectional Interaction
 

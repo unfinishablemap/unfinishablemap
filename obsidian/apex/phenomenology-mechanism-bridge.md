@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-21T06:23:13+00:00
+ai_modified: 2026-10-30T17:25:06+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -169,7 +169,7 @@ This synthesis engages all five tenets, chiefly through the connections between 
 
 **[[tenets#^dualism|Dualism]]** grounds the entire chain. The phenomenological level supplies the structures the Map reads as irreducible. The metaphysical level requires consciousness to be ontologically distinct. Without dualism, there is no bridge to build — phenomenology reduces to neural computation, and the chain collapses into a single level.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains the quantum level: consciousness biases outcomes physics already allows, selecting among energetically equivalent alternatives without injecting energy. Its minimality is the empirical-constraint kind, ruling out Born-statistics violation, which is why the chain inherits the P-Q3 pressure noted at Level Four.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** constrains the quantum level: consciousness biases outcomes physics already allows, selecting among energetically equivalent alternatives without injecting energy. Its minimality is the empirical-constraint kind, ruling out detectable Born-statistics deviation, which is why the chain inherits the P-Q3 pressure noted at Level Four.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is what the chain articulates across the four levels. The chain fits the tenet without evidencing it beyond the citation grade [[positions/quantum-interface#^mechanism-debt|P-Q3 and P-Q10]] set: a framework-internal coherence result carrying the register's mechanism debt, not established mental causation.
 

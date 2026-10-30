@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T17:17:17+00:00
+ai_modified: 2026-10-30T17:26:41+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T17:26:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ensemble-level-epiphenomenalism]] plus nine hosts: [[apex/born-preserving-causal-efficacy]], [[topics/memory-channel-interface-evidence]], [[topics/born-rule-and-the-consciousness-interface]], [[apex/phenomenology-mechanism-bridge]], [[concepts/occasionalism]], [[concepts/coupling-modes]], [[topics/multi-agent-born-preservation-problem]], [[concepts/stapp-quantum-mind]], [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Review**: [[reviews/tenet-check-2026-10-29]] W2 / Priority 2, plus driver addendum items 1-3
+- **Original score**: n/a (`scripts/curate.py` absent); targeted tenet-wording fix
+- **Changes**: the "ruling out Born-statistics violation" family re-keyed to tenets L69 "no detectable Born-statistics deviation"; the corridor is now the Map's default reading, not the tenet's entailment; the sub-detection fallback (Route 2, P-Q1) stays live; no quantifier added (P-Q2 HUMAN DECISION untouched). Words before -> after: ensemble 2,526 -> 2,533 (+7; (a) "a constraint the corridor meets by construction" instead of the review's "which the corridor satisfies by construction", so "which" cannot attach to "deviation"; (b) "carries its marginal-level invisibility" instead of "carries the corridor's", which made the corridor carry the corridor's invisibility); born-preserving 5,113 -> 5,113 (0; (c) as priced; (d) "the Map's default reading, the corridor, carries its invisibility", same count as priced, avoiding "corridor reading inherits the corridor's invisibility"); memory-channel 4,593 -> 4,593 (0, as priced); born-rule 5,443 -> 5,443 (0, as priced); phenomenology-mechanism-bridge 4,924 -> 4,925 (+1, as priced); occasionalism 2,093 -> 2,094 (+1, as priced); coupling-modes 3,016 -> 3,017 (+1, "no detectable aggregate Born-statistics deviation", energy-injection clause kept); multi-agent 3,090 -> 3,090 (0, "no-Born-violation constraint" -> "no-detectable-deviation constraint": the inference already rested on detectability, and the label now matches the same sentence's "a constraint on what is detectable"); stapp 3,999 -> 3,999 (0, "no-Born-violation clause" -> "no-detectable-deviation clause"; the ensemble-reading dependence still holds, since the bending reading meets it only below detection); wheelers 3,995 -> 3,995 (0, "under any unconditioned aggregate test" -> "under current unconditioned aggregate tests": "any" stated the corridor's by-construction invisibility as the tenet's constraint and so forbade the outside-corridor fallback the next sentence names).
+- **Not touched (coordination)**: spontaneous-collapse L117, selection-only-channel L72, every P-Q2 line, retrocausality L153, sorkin L72. Residual descriptive hits stand: born-rule L159 heading "Require Born Violation" (anchored), born-rule L179 "none isolates Born-rule violation as the measured variable", wheelers L187 see-also gloss. No edit touches horn (b); epiphenomenalism is not conceded.
+- **Engagement modes**: n/a (tenet-description fix; no named-opponent reply edited)
+- **Published**: yes (synced; Hugo copies old=0 / new=1 for all 12 pairs)
+
 ## 2026-10-30T17:17:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-insight-presented-and-judged-unreality]]

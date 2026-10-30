@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-13
-ai_modified: 2026-10-02 09:31:22+00:00
+ai_modified: 2026-10-30 17:25:06+00:00
 ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-02 09:31:22+00:00
-lastmod: 2026-10-02 09:31:22+00:00
+lastmod: 2026-10-30 17:25:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ This is the sharpest dialectical material the rival offers, because it agrees wi
 
 ## Relation to Site Perspective
 
-Occasionalism is the position [Tenet 3, Bidirectional Interaction](/tenets/#bidirectional-interaction) most directly opposes. The Map grants occasionalism its honest premise: Cartesian contact-style interaction between an unextended mind and an extended body really is unintelligible, and the [pairing problem](/concepts/pairing-problem/) really does press. What the Map rejects is the cure. Rather than removing creaturely causation, the Map *locates* it: a minimal, physically lawful [selection channel](/concepts/selection-only-channel/) at quantum indeterminacy ([Tenet 2](/tenets/#minimal-quantum-interaction))—on the Map's preferred route, the [post-decoherence](/apex/post-decoherence-selection-programme/) actualisation of one outcome—through which a creaturely mind biases which outcome becomes actual, without energy injection or Born-statistics violation. If the channel does real work, this keeps creature-level bidirectional causation without a per-occasion external coordinator; that *if* is a debt the Map records rather than discharges, since its interface argument shows such causation to be available, not actual ([Tenet 3's standing note](/tenets/#tenet-3-standing)).
+Occasionalism is the position [Tenet 3, Bidirectional Interaction](/tenets/#bidirectional-interaction) most directly opposes. The Map grants occasionalism its honest premise: Cartesian contact-style interaction between an unextended mind and an extended body really is unintelligible, and the [pairing problem](/concepts/pairing-problem/) really does press. What the Map rejects is the cure. Rather than removing creaturely causation, the Map *locates* it: a minimal, physically lawful [selection channel](/concepts/selection-only-channel/) at quantum indeterminacy ([Tenet 2](/tenets/#minimal-quantum-interaction))—on the Map's preferred route, the [post-decoherence](/apex/post-decoherence-selection-programme/) actualisation of one outcome—through which a creaturely mind biases which outcome becomes actual, without detectable energy injection or Born-statistics deviation. If the channel does real work, this keeps creature-level bidirectional causation without a per-occasion external coordinator; that *if* is a debt the Map records rather than discharges, since its interface argument shows such causation to be available, not actual ([Tenet 3's standing note](/tenets/#tenet-3-standing)).
 
 Against the quantum-occasionalist twin, the Map's reply presses the explains-too-much charge—but only once an asymmetry is made explicit. The charge bites hardest on an *omni-determining* agent: if God settles every event, the specific structure of nature and of agency is left as brute divine habit. The Map's channel is instead *selective and local*—a particular creaturely mind biasing particular outcomes—so the structure of agency stays located in creatures rather than dissolved into one universal will. Honesty requires admitting that both of occasionalism's sharpest weapons rebound on the Map. No Necessary Connection presses at least as hard on a probabilistic bias, which is a weaker candidate for a *perceivable necessary* connection than classical push-causation; and the explains-too-much charge presses on any view that locates causation at a joint without detailing the joint's inner workings. The Map does not answer NNC by claiming its channel meets the necessitarian standard—it rejects that standard. NNC helps itself to a conception on which only a *necessary* connection counts as causal, a foundational move occasionalism stipulates rather than argues for; the Map takes genuine causation to include lawful, non-necessitating influence of exactly the selective kind the channel names. What is left is the erasure of creaturely mental causation ([Tenet 3](/tenets/#bidirectional-interaction)) and a parsimony question. Here [Tenet 5, Occam's Razor Has Limits](/tenets/#occams-limits) binds symmetrically: the Map cannot claim that minimal creaturely selection at a few quantum events is *simpler than*, and therefore truer than, an omni-determining agent at every collapse—simplicity is not truth-tracking when knowledge is incomplete. The case against occasionalism is not that it is less parsimonious but that it discards the very thing the framework exists to secure. On [Tenet 1, Dualism](/tenets/#dualism), the two views agree that mind is not reducible to matter; they part on whether finite minds have any causal reach at all.
 

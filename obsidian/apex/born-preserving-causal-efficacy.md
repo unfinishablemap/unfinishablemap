@@ -3,7 +3,7 @@ title: "The Born-Preserving Causal-Efficacy Problem"
 created: 2026-06-22
 modified: 2026-10-28
 human_modified: null
-ai_modified: 2026-10-28T21:22:47+00:00
+ai_modified: 2026-10-30T17:25:06+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -120,7 +120,7 @@ Rated against the Map's [[evidential-status-discipline|evidential-status discipl
 
 ### Route 2: Minimum-outside-the-corridor (efficacy with a signature)
 
-The second route bites the first horn deliberately. A fallback, it glosses "minimal" as "the smallest interaction *actually sufficient*", against the tenet's no-Born-violation constraint, and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**.
+The second route bites the first horn deliberately. A fallback, it glosses "minimal" as "the smallest interaction *actually sufficient*", against the corridor's Born exactness, and accepts that genuine efficacy may require a small but real departure from Born statistics. Catalogued candidates ([[born-rule-and-the-consciousness-interface]]) include Stapp's quantum-Zeno rate, outcome-biased Chalmers–McQueen collapse, Penrose–Hameroff Orch-OR, and Arana's exponentially-suppressed λ-weighting that recovers standard Born statistics as λ → 0. The advantage: the channel becomes *real in the physicalist's own sense* — a deviation, however suppressed, is in principle detectable, distinguishing the mind's efficacy from both epiphenomenalism and physical randomness. This is the only route of the three that is even potentially **interface-discriminating**.
 
 Its cost is symmetric and currently unrewarded. Micro-psychokinesis nulls (Maier et al. 2018) and the failed PEAR replication have driven the external-device end of this family onto thin ground, where any surviving version must hide below current sensitivity; the family's brain-internal candidates stay untested, not disconfirmed. A deeper exposure: a signalling-capable departure would violate no-signalling, and the causal-consistency constraint says the corridor's Born-preservation keeps the default reading signalling-safe. A minimum-outside-corridor variant must show its deviation is signalling-safe, not merely small.
 
@@ -186,7 +186,7 @@ What would *not* count as progress: any move that answers the worry by re-descri
 
 The problem sits at the junction of two tenets and is held there rather than dissolved.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** *is* the source of the dilemma. Its minimality is the empirical-constraint kind, ruling out Born-statistics violation, so it endorses the corridor and inherits the corridor's invisibility. Outside-corridor readings are fallbacks that accept a Born departure held below current detection, the exposure the tenet's falsifier (c) bites on. P-Q2 and P-Q3 jointly record this posture.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** *is* the source of the dilemma. Its minimality is the empirical-constraint kind, ruling out detectable Born-statistics deviation; the Map's default reading, the corridor, carries its invisibility. Outside-corridor readings are fallbacks that accept a Born departure held below current detection, the exposure the tenet's falsifier (c) bites on. P-Q2 and P-Q3 jointly record this posture.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** asserts that consciousness causally influences the physical world. The Born-preserving efficacy problem is the sharpest internal challenge to that assertion, because it grants single-event causation yet questions whether aggregate-invisible causation is the kind of influence the tenet needs. The [[trilemma-of-selection|trilemma of selection]] secures that *something* must select at a point of genuine indeterminacy — determinism, randomness, mental causation: the usual options — but only that selection occurs, not that conscious selection constitutes a channel a physicalist would recognise. That further step is what this problem contests.
 

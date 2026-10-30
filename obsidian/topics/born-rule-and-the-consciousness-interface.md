@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-10-12T14:56:43+00:00
+ai_modified: 2026-10-30T17:25:06+00:00
 draft: false
 anchoring_audit_exempt: true # 2026-09-02 false-high: 0.03/kw margin is apparatus dilution (2.03/kw over argumentative body); underdetermination structural — "cannot/do not yet adjudicate" 4x, regex-invisible
 topics:
@@ -194,7 +194,7 @@ Being simultaneously *form-fixed* and *existence-underivable* is a duality the Q
 
 ## What the Map's Minimal Quantum Interaction Commits To
 
-Tenet 2's minimality is empirical-constraint minimality, ruling out Born-statistics violation on the unconditioned aggregate, so the corridor is the endorsed working hypothesis (a tenet-level choice held at compatibility grade) rather than a definitional requirement or an evidence-graded conclusion. The corridor, bending, and trumping attitudes remain in tension over cost: the corridor is maximally compatible with existing Born tests, Gleason, and the Torres Alegre steering result, but makes the single-event channel ensemble-invisible (risking [[ensemble-level-epiphenomenalism]] unless trumping is adopted); minimum-outside-corridor readings are empirically distinguishable from physicalism but inherit Gleason's and Torres Alegre's geometric cost; trumping leaves the Born rule orthogonal to the consciousness question. The empirical state cannot adjudicate, since it cannot probe the brain-internal regime at the required precision.
+Tenet 2's minimality is empirical-constraint minimality, ruling out detectable Born deviation on the unconditioned aggregate; the corridor is the endorsed working hypothesis (a tenet-level choice held at compatibility grade) rather than a definitional requirement or an evidence-graded conclusion. The corridor, bending, and trumping attitudes remain in tension over cost: the corridor is maximally compatible with existing Born tests, Gleason, and the Torres Alegre steering result, but makes the single-event channel ensemble-invisible (risking [[ensemble-level-epiphenomenalism]] unless trumping is adopted); minimum-outside-corridor readings are empirically distinguishable from physicalism but inherit Gleason's and Torres Alegre's geometric cost; trumping leaves the Born rule orthogonal to the consciousness question. The empirical state cannot adjudicate, since it cannot probe the brain-internal regime at the required precision.
 
 ## What This Does Not Establish
 

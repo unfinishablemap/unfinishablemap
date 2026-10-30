@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-10-27 00:58:54+00:00
+ai_modified: 2026-10-30 17:25:06+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-27 00:58:54+00:00
-lastmod: 2026-10-27 00:58:54+00:00
+lastmod: 2026-10-30 17:25:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ Three of the Map's tenets do work here.
 
 **[Dualism](/tenets/#dualism)** (Tenet 1) is engaged because both the vulnerability ordering and its direction-asymmetry fit a multi-channel interface architecture more directly than a substrate-emergent reading. The argument is comparative: the filter theory derives the ordering from architecture and accommodates the direction-sensitivity; rival readings absorb them by adding commitments. The dualist reading is not more parsimonious — interface architecture is not simple — but it pays its mechanism cost upfront, at the tenet level, rather than per-case at the accommodation level. It is one piece of the cumulative case running through the catalogue's [dissociation](/topics/clinical-dissociation-as-systematic-evidence/), [disruption](/topics/consciousness-disruption-and-the-mind-brain-interface/), and [neurological-architecture](/topics/neurological-dissociations-as-interface-architecture/) articles.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** (Tenet 2) is engaged only through the filter reading's bandwidth picture, which the tenet does not supply: its minimality is Born-exactness, not channel narrowness. The autonoetic channel is reconstruction-heavy — episodic retrieval involves the selectional work the Map locates at the quantum-indeterminacy layer ([reconsolidation selection window](/topics/reconsolidation-as-selection-window/)) — and its recovery-order asymmetry is read as tracking the *direction* of interface change, a reading the terminal-lucidity evidence cannot yet separate from substrate state (below).
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** (Tenet 2) is engaged only through the filter reading's bandwidth picture, which the tenet does not supply: its minimality bounds detectability, not channel width. The autonoetic channel is reconstruction-heavy — episodic retrieval involves the selectional work the Map locates at the quantum-indeterminacy layer ([reconsolidation selection window](/topics/reconsolidation-as-selection-window/)) — and its recovery-order asymmetry is read as tracking the *direction* of interface change, a reading the terminal-lucidity evidence cannot yet separate from substrate state (below).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** (Tenet 3) is engaged because the autonoetic channel, which the Map reads as failing first and swinging most in recovery order, is the one involving the most active subject-participation: re-experiencing, reconsolidation-under-direction, lucid-dream metacognitive control, autobiographical assembly. If consciousness merely received from the brain, recovery order would be fixed by substrate readiness alone — direction entering only through the substrate's own hysteresis, which shifts thresholds without reversing a channel order. Should the autonoetic channel prove to return first under falling substrate function and last under rising, that would favour a reading on which it is high-engagement in both directions — a conditional the terminal-lucidity evidence is not yet strong enough to discharge.
 
