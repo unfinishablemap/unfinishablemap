@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T17:02:57+00:00
+ai_modified: 2026-10-30T17:17:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T17:17:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-insight-presented-and-judged-unreality]]
+- **Word count**: 3,299 → 3,325 (+26)
+- **Critical issues addressed**: 2. (1) A Farkas "moot point" subject splice: the predicate was verbatim, but the raw subject of "they carry an immediate sense of reality ..." is visions of the supernatural in a disbeliever, compared to hallucinations with insight, so the comparison presupposes what the article said she "leaves open". Fixed at L59 and in the §limits bullet. (2) Suzuki, Seth & Schwartzman year 2023 → 2024, per the Frontiers citation line and the 2024-01-03 publication date (vol. 17).
+- **Medium issues addressed**: 4. Hagen gloss subject restored to the hypnagogic example; Marková & Berrios hedge restored ("may be better seen"); Levine framed as hypothesis ("On Levine's (1990) hypothesis ... then judged by necessity"); L109 "Factor 1, the anomalous experience" → "the anomalous datum (experienced, on most accounts)", per the later unconscious-anomaly note (Coltheart, Menzies & Sutton 2010 p. 264).
+- **Enhancements made**: 1 (low: Fisher cue paraphrase "never moves" → "has not moved")
+- **Quotation sample**: 40+ quotations raw-grepped across 26 sources, all hits at the publisher or carrier; 1 subject splice (Farkas), 1 example-to-class widening (Hagen gloss). Billon n. 5 and ICD-10 F48.1 re-verified at primary (PhilArchive preprint; WHO Blue Book). Jaspers p. 94 and Johnson p. 57 hit in Farkas's preprint, with the carrier named in the text.
+- **Engagement modes**: Farkas: Mode Three (the register question is marked as the Map's reconciliation, not a refutation of her judgement thesis); Limanowski & Friston: cited as a physicalist model, not opposed.
+- **Carry-forward (not edited, fenced)**: research note [[research/presented-versus-inferred-unreality-clinical-insight-2026-10-30]] L69 Farkas subject shift, Suzuki "2023" (7 places), and L298 "share locus, agency and vividness"; Anton L84 "Levine (1990) holds".
+- **Output**: [[reviews/deep-review-2026-10-30-clinical-insight-presented-and-judged-unreality]]
+
 ## 2026-10-30T17:02:57+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Is the anomalous experience behind a monothematic delusion conscious? Unconscious-anomaly and endorsement accounts (optimistic-2026-10-30-clinical-insight-wing Uncovered 2)

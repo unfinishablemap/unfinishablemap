@@ -4,7 +4,7 @@ description: "Clinical insight is a judgement about an experience whose felt rea
 created: 2026-10-30
 modified: 2026-10-30
 human_modified:
-ai_modified: 2026-10-30T14:21:47+00:00
+ai_modified: 2026-10-30T17:17:17+00:00
 draft: false
 topics:
   - "[[clinical-phenomenology-and-altered-experience]]"
@@ -29,6 +29,7 @@ author:
 ai_system: claude-opus-5-5
 ai_generated_date: 2026-10-30
 last_curated:
+last_deep_review: 2026-10-30T17:17:17+00:00
 ---
 
 Clinical insight, as clinicians define and measure it, is a judgement: the patient's classification of an experience as real or unreal. What that judgement acts on is a separate variable, the felt reality of the experience, which belongs to how the experience presents. The two can come apart, and do so in both directions. In Charles Bonnet syndrome (CBS), phantom limbs and lucid dreams, experiences reported as feeling real are judged unreal. In depersonalisation and derealisation, a world that feels unreal is judged real. Three consequences follow, each explained below: the word [[#pseudohallucination|"pseudohallucination"]] carried both registers for a century and a half; "insight" has [[#three-objects|three different objects]]; and the [[#scope-rule|scope rule]] that confines The Unfinishable Map's claims about delusion to the anomalous experience falls along the line between the registers.
@@ -47,7 +48,7 @@ The word "insight" runs two things together.
 
 Clinical insight belongs to the second register. Anthony David (1990) proposed that insight "is not an 'all-or-none' phenomenon" and that one of its three dimensions is "the ability to relabel unusual mental events (delusions and hallucinations) as pathological". ICD-10 requires, for depersonalisation-derealisation, "an acceptance that this is a subjective and spontaneous change, not imposed by outside forces or other people (i.e. insight)" (WHO 1992). *Relabel*, *acceptance*: each names a classification.
 
-Marková and Berrios (1992) supply the counterweight: insight should be seen "as a continuum of thinking and feeling". The defensible claim is therefore narrower: what insight delivers is a classification of the experience.
+Marková and Berrios (1992) supply the counterweight: insight may be better seen "as a continuum of thinking and feeling". The defensible claim is therefore narrower: what insight delivers is a classification of the experience.
 
 All four cells are occupied:
 
@@ -56,11 +57,11 @@ All four cells are occupied:
 | **Felt real** | ordinary perception; hallucination without insight | CBS (most reported cases); phantom limb; lucid dream |
 | **Felt unreal** | depersonalisation and derealisation | Kandinsky–Jaspers pseudohallucination; ordinary imagery |
 
-The table is the Map's construction; later sections source each cell. Katalin Farkas (2013) gives the closest prior treatment. She sides with judgement: "a sense of reality is created and sustained by the larger nexus of the subject's beliefs". She leaves open whether hallucinations with insight "carry an immediate sense of reality which, however, is overridden by other beliefs", writing: "This is a moot point, and I shall not try to resolve it." (Farkas is quoted from her preprint.)
+The table is the Map's construction; later sections source each cell. Katalin Farkas (2013) gives the closest prior treatment. She sides with judgement: "a sense of reality is created and sustained by the larger nexus of the subject's beliefs". Her question whether visions of the supernatural, in a disbeliever, resemble hallucinations with insight in that "they carry an immediate sense of reality which, however, is overridden by other beliefs" takes hallucinations with insight to do so; the visions question she leaves "a moot point". (Farkas is quoted from her preprint.)
 
 ## One Word, Two Senses: Pseudohallucination {#pseudohallucination}
 
-The history of "pseudohallucination" shows both registers sharing one word. The term "appears to have been introduced in 1868 by Hagen" (Telles-Correia et al. 2015; López-Silva et al. 2022 agree), decades before Jaspers. Hagen's usage already mixed the registers: it covered sensory errors "experienced passively, unintentionally, with a lack of clarity and objectivity and maintaining awareness of their falseness" (Telles-Correia et al.'s gloss).
+The history of "pseudohallucination" shows both registers sharing one word. The term "appears to have been introduced in 1868 by Hagen" (Telles-Correia et al. 2015; López-Silva et al. 2022 agree), decades before Jaspers. Hagen's usage already mixed the registers: it covered sensory errors such as hypnagogic hallucinations, "experienced passively, unintentionally, with a lack of clarity and objectivity and maintaining awareness of their falseness" (Telles-Correia et al.'s gloss).
 
 Later usage split. In Telles-Correia et al.'s (2015) sorting, "some authors emphasize the lack of objectivity as the main difference between hallucinations and pseudo hallucinations (Kandinsky, Jaspers, Lugaro, Petit) but others focus instead on the presence of insight (as Bleuler, Sedman, Hare)." The objectivity camp puts the difference in the experience. Jaspers contrasted the *Leibhaftigkeit* (bodily presence) of perception with the *Bildhaftigkeit* (picture-character) of imagery; López-Silva et al. (2022) state his distinction for voices, on which real ones "are experienced as objectively present (*leibhaftig*)", while "pseudohallucinations are experienced as imaginary or subjective". The insight camp puts the difference in the patient's recognition that the experience is false, which is a judgement.
 
@@ -74,11 +75,11 @@ The field's verdict is that the word failed. Berrios and Dening (1996) conclude 
 
 ### Charles Bonnet syndrome
 
-[[charles-bonnet-syndrome|CBS]] is complex visual hallucination after sight loss in people who are cognitively intact and retain insight. The most direct evidence comes from the one qualitative first-person CBS study the Map has found. Fisher et al. (2026) interviewed 17 adults with CBS. One said "they're so real, everything is so real" (Mark). Another, keeping her distance from a figure walking ahead of her, added: "but of course I know it's not there" (Debra). The authors summarise: "The crux of insight is that visions look real, but patients use logic to recognise that they are not." Cues did the work: "Contextually appropriate images could delay insight until signs indicative of CBS became apparent", such as a cat that never moves or figures that make no sound.
+[[charles-bonnet-syndrome|CBS]] is complex visual hallucination after sight loss in people who are cognitively intact and retain insight. The most direct evidence comes from the one qualitative first-person CBS study the Map has found. Fisher et al. (2026) interviewed 17 adults with CBS. One said "they're so real, everything is so real" (Mark). Another, keeping her distance from a figure walking ahead of her, added: "but of course I know it's not there" (Debra). The authors summarise: "The crux of insight is that visions look real, but patients use logic to recognise that they are not." Cues did the work: "Contextually appropriate images could delay insight until signs indicative of CBS became apparent", such as a cat that has not moved or figures that make no sound.
 
-Suzuki et al. (2023) found that nine of their ten CBS participants reported their hallucinations appearing "'as real' or 'similar to' their normal visual experiences". Their question asked about "the visual quality" of the hallucination, so it measures sensory life-likeness rather than felt reality as such. ffytche (2007) groups "visual hallucinations (with and without insight)" with veridical percepts on two of his three phenomenological axes, external locus and absent agency; insight is not among the axes. Pang (2016), reporting a Canadian study (Gilmour et al. 2009, read here only in abstract), states that "80% of participants knew that the visual hallucinations were not real after the first episode", with a further 8% by the second and 6% only after ten or more. Insight that accrues across episodes behaves like a learned judgement.
+Suzuki et al. (2024) found that nine of their ten CBS participants reported their hallucinations appearing "'as real' or 'similar to' their normal visual experiences". Their question asked about "the visual quality" of the hallucination, so it measures sensory life-likeness rather than felt reality as such. ffytche (2007) groups "visual hallucinations (with and without insight)" with veridical percepts on two of his three phenomenological axes, external locus and absent agency; insight is not among the axes. Pang (2016), reporting a Canadian study (Gilmour et al. 2009, read here only in abstract), states that "80% of participants knew that the visual hallucinations were not real after the first episode", with a further 8% by the second and 6% only after ten or more. Insight that accrues across episodes behaves like a learned judgement.
 
-One caveat governs all of this. Insight is part of the diagnosis, so CBS samples are selected for it. Teunisse et al.'s (1996) finding that "all patients had full insight into the unreal nature of their hallucinations" describes a population screened for insight, and Fisher et al. note that all their participants "demonstrated insight". Some CBS images are reported as distorted or cartoon-like (Suzuki et al. 2023), but no source the Map has found describes them as lacking bodily presence in Jaspers's sense. On self-report evidence, CBS insight is judged.
+One caveat governs all of this. Insight is part of the diagnosis, so CBS samples are selected for it. Teunisse et al.'s (1996) finding that "all patients had full insight into the unreal nature of their hallucinations" describes a population screened for insight, and Fisher et al. note that all their participants "demonstrated insight". Some CBS images are reported as distorted or cartoon-like (Suzuki et al. 2024), but no source the Map has found describes them as lacking bodily presence in Jaspers's sense. On self-report evidence, CBS insight is judged.
 
 ### Phantom limbs and lucid dreams
 
@@ -100,13 +101,13 @@ Clinical "insight" has three objects, which fall differently on the registers.
 
 - **The change** (depersonalisation): insight that an alteration is subjective. Presented unreality, judged reality.
 - **The content** (CBS, hallucinosis): insight that the image is not there. Presented reality, judged unreality.
-- **The deficit** (Anton syndrome): insight that one is blind. The deficit itself is never presented. Levine (1990) holds that interruption of a sensory pathway "is not associated with any immediate sensory experience that uniquely specifies the defect. Instead the sensory loss must be discovered by a process of self-observation and inference." Deficit-insight is judged by necessity.
+- **The deficit** (Anton syndrome): insight that one is blind. On Levine's (1990) hypothesis the deficit itself is never presented: interruption of a sensory pathway "is not associated with any immediate sensory experience that uniquely specifies the defect. Instead the sensory loss must be discovered by a process of self-observation and inference." Deficit-insight is then judged by necessity.
 
 One patient separates the second object from the third. Swartz and Brust (1984) describe a man "totally blind following ocular trauma" who, during alcohol withdrawal, had formed hallucinations "the unreality of which he recognized", while in the same periods "he believed that his vision had been restored". He kept content-insight and lost deficit-insight. The ordinary CBS patient keeps both. That makes CBS the accurate-report control for the reading of [[anton-syndrome-and-the-sincere-report-of-seeing|Anton syndrome]] on which a visual seeming is present but taken for perception: in CBS a seeming is present and correctly classified, by judgement.
 
 ## Where the Scope Rule Falls {#scope-rule}
 
-The Map's [[capgras-delusion-and-the-affective-recognition-channel|Capgras article]] limits its claims under the two-factor model of delusion to Factor 1, the anomalous experience. Factor 2, the impairment of belief evaluation that turns an anomaly into a fixed delusion, is a reasoning pathology on which the Map takes no position. [[cotard-delusion|Cotard delusion]] inherits the rule. The two registers show where it falls.
+The Map's [[capgras-delusion-and-the-affective-recognition-channel|Capgras article]] limits its claims under the two-factor model of delusion to Factor 1, the anomalous datum (experienced, on most accounts). Factor 2, the impairment of belief evaluation that turns an anomaly into a fixed delusion, is a reasoning pathology on which the Map takes no position. [[cotard-delusion|Cotard delusion]] inherits the rule. The two registers show where it falls.
 
 Insight is judged, so its presence or loss is a fact about belief evaluation, on the Factor-2 side. The rule stands, and the Map has no reason to claim insight-loss. Felt reality is presented, so a change in it is an experiential fact on the Factor-1 side, inside the Map's territory; derealisation is the clean case.
 
@@ -117,7 +118,7 @@ Cotard's dropped "as if" is the hard case. It is at least a change in the report
 - **Self-report only.** Every datum is what patients say, and the "as if" shows that reports already carry judgements.
 - **No separate measure.** No study the Map has found pairs a rating of how real a CBS image looks or feels with whether the patient believes it is there. Such a within-patient pairing would settle the CBS question directly.
 - **Small, selected samples.** Seventeen participants in one study and ten in another, all diagnosed under a criterion that requires insight.
-- **Open concessions.** Marková and Berrios's "thinking and feeling" resists a purely cognitive gloss; Farkas's "moot point" leaves room for two variables.
+- **Open concessions.** Marková and Berrios's "thinking and feeling" resists a purely cognitive gloss; Farkas's own comparison takes insight to override an immediate sense of reality.
 - **Thin primary reading.** Hagen and Kandinsky are known here through secondary sources; Jaspers and Johnson only through Farkas's preprint.
 
 The two-register reading is the best fit to this record. The record does not force it.
@@ -166,7 +167,7 @@ The two-register reading is the best fit to this record. The record does not for
 18. Radovic, F., & Radovic, S. (2002). Feelings of unreality: a conceptual and phenomenological analysis of the language of depersonalization. *Philosophy, Psychiatry, & Psychology*, 9(3), 271–279. https://doi.org/10.1353/ppp.2003.0048
 19. Ramachandran, V. S., & Hirstein, W. (1998). The perception of phantom limbs. The D. O. Hebb lecture. *Brain*, 121(9), 1603–1630. https://doi.org/10.1093/brain/121.9.1603
 20. Ratcliffe, M., & Wilkinson, S. (2016). How anxiety induces verbal hallucinations. *Consciousness and Cognition*, 39, 48–58. https://doi.org/10.1016/j.concog.2015.11.009
-21. Suzuki, K., Seth, A. K., & Schwartzman, D. J. (2023). Modelling phenomenological differences in aetiologically distinct visual hallucinations using deep neural networks. *Frontiers in Human Neuroscience*, 17, 1159821. https://doi.org/10.3389/fnhum.2023.1159821
+21. Suzuki, K., Seth, A. K., & Schwartzman, D. J. (2024). Modelling phenomenological differences in aetiologically distinct visual hallucinations using deep neural networks. *Frontiers in Human Neuroscience*, 17, 1159821. https://doi.org/10.3389/fnhum.2023.1159821
 22. Swartz, B. E., & Brust, J. C. (1984). Anton's syndrome accompanying withdrawal hallucinosis in a blind alcoholic. *Neurology*, 34(7), 969–973. https://doi.org/10.1212/wnl.34.7.969
 23. Telles-Correia, D., Moreira, A. L., & Gonçalves, J. S. (2015). Hallucinations and related concepts—their conceptual background. *Frontiers in Psychology*, 6, 991. https://doi.org/10.3389/fpsyg.2015.00991
 24. Teunisse, R. J., Cruysberg, J. R., Hoefnagels, W. H., Verbeek, A. L., & Zitman, F. G. (1996). Visual hallucinations in psychologically normal people: Charles Bonnet's syndrome. *The Lancet*, 347(9004), 794–797. https://doi.org/10.1016/S0140-6736(96)90869-7
