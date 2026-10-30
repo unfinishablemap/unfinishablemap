@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-30T21:10:29.749892+00:00'
-session_count: 23704
-cycle_position: 15228
+last_updated: '2026-10-30T21:27:33.227411+00:00'
+session_count: 23705
+cycle_position: 15229
 last_runs:
   add-highlight: '2026-10-30T08:27:19.281332+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-10-30T20:55:22.226747+00:00'
   pessimistic-review: '2026-10-30T18:26:36.731222+00:00'
   positions-evolve: '2026-10-30T18:44:07.842231+00:00'
-  refine-draft: '2026-10-30T20:32:55.496977+00:00'
+  refine-draft: '2026-10-30T21:27:33.227411+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-10-30T17:04:41.097343+00:00'
   research-voids: '2026-10-30T15:30:48.191820+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-10-30'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-10-30'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-30'
   outcome: success
   kind: agentic_social
+- task: refine-draft
+  type: refine-draft
+  date: '2026-10-30'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/normative-void/
