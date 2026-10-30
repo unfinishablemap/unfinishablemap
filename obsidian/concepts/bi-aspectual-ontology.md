@@ -1,10 +1,10 @@
 ---
 title: "Bi-Aspectual Ontology"
-description: "Reality has two irreducible aspects — structure (physics) and actuality (consciousness). How the Map's bi-aspectual dualism differs from every major dual-aspect tradition."
+description: "Reality has two irreducible aspects — structure (physics) and actuality, which consciousness supplies at neural interfaces. How the Map's dualism differs from every major dual-aspect tradition."
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-10-21T09:30:30+00:00
+ai_modified: 2026-10-30T08:41:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ last_curated:
 last_deep_review: 2026-09-17T23:26:00+00:00
 ---
 
-The Unfinishable Map's ontology is *bi-aspectual*: reality has two irreducible aspects — **structure** (what physics describes) and **actuality** (what makes one possibility real). Physics captures every structural and dispositional fact about the world, down to each outcome's Born-weighted chance; which outcome becomes actual is a further fact, not a further disposition. Consciousness supplies that actuality where a neural interface exists; elsewhere physical objective reduction fixes outcomes without it. Neither aspect reduces to the other, and they interact causally at quantum indeterminacies. This position borrows the "two aspects" vocabulary from a long philosophical tradition — Spinoza, Russell, Pauli-Jung — but breaks decisively with that tradition by insisting on genuine causal interaction between the aspects.
+The Unfinishable Map's ontology is *bi-aspectual*: reality has two irreducible aspects — **structure** (what physics describes) and **actuality** (what makes one possibility real). Physics captures every structural and dispositional fact about the world, down to each outcome's Born-weighted chance; which outcome becomes actual is a further fact, not a further disposition. The Map holds that consciousness supplies this actuality where a neural interface exists; elsewhere physical objective reduction fixes outcomes with no mind involved. The second aspect is therefore actuality itself, and consciousness its interface-local supplier. Neither aspect reduces to the other, and they interact causally at quantum indeterminacies. This position borrows the "two aspects" vocabulary from a long philosophical tradition — Spinoza, Russell, Pauli-Jung — but breaks decisively with that tradition by insisting on genuine causal interaction between the aspects.
 
 ## The Two Aspects
 
@@ -53,7 +53,7 @@ Why think consciousness is a candidate for this role rather than some as-yet-unk
 
 This does not mean consciousness is the *only* possible candidate, and the Map does not claim it is. A critic may argue that actualisation is simply a brute fact requiring no further explanation — that outcomes just happen with their Born-rule probabilities. The Map holds instead that definiteness has an account, while denying that consciousness supplies it alone: [[prebiotic-collapse|physical objective reduction]] provides the baseline collapse that secured definite stellar, chemical, and prebiotic outcomes long before any observer, and consciousness *modulates* outcomes where a neural interface exists. The warrant for that modulating role is carried by the agency arguments under [[tenets#^bidirectional-interaction|Bidirectional Interaction]] — [[self-stultification|the self-stultification of epiphenomenalism]] chief among them — not by the measurement problem, and it is carried at the standing [[tenets#^tenet-3-standing|Tenet 3 registers]]: downward causation shown to be available, not shown to be actual.
 
-Actuality is not a structural property. It cannot be captured by any equation or functional description because it is what *realises* structure rather than being part of structure. This is why the hard problem resists solution from within physics: no structural account can explain why there is something it is like to be conscious, because consciousness belongs to the other aspect.
+Actuality is not a structural property. It cannot be captured by any equation or functional description because it is what *realises* structure rather than being part of structure. The Map reads the hard problem through this distinction: if consciousness belongs to the other aspect, no structural account could explain why there is something it is like to be conscious. The explanatory gap motivates that reading without establishing it: the second aspect is held, like the [[tenets#^dualism|Dualism tenet]], as a commitment the Map owns rather than a result it reports.
 
 ## What Makes This Position Bi-Aspectual
 
@@ -63,7 +63,7 @@ The term "bi-aspectual" signals three commitments:
 
 2. **Aspects of the same reality.** Structure and actuality are not floating independently. They are aspects of the one reality we inhabit. Where structure presents quantum indeterminacies, actuality resolves them — consciousness doing so at neural interfaces. They meet at the interface — and the Born rule is that interface's specification.
 
-3. **Irreducibility in both directions.** Consciousness cannot be reduced to physics (the hard problem). Physics cannot be reduced to consciousness (the Map is not [[idealism|idealist]]). Both aspects are needed for a complete account of reality.
+3. **Irreducibility in both directions.** Consciousness cannot be reduced to physics (the hard problem). Physics cannot be reduced to consciousness (the Map is not [[idealism|idealist]]). Both are needed for a complete account of reality.
 
 ## Distinguished from Dual-Aspect Monism
 

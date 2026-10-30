@@ -10,6 +10,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-30T08:41:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Review file**: reviews/outer-review-2026-10-28-claude-fable-5-1.md (Issue 5; epistemic-to-metaphysical slide; verdict-table item 5)
+- **Word count**: 3,090 → 3,135 (+45; analyze_length; concepts 2500/3500/5000, soft_warning, hard gate >= 3,500)
+- **Changes**: (1) `description` "structure (physics) and actuality (consciousness). How the Map's bi-aspectual dualism differs…" → "structure (physics) and actuality, which consciousness supplies at neural interfaces. How the Map's dualism differs…" (171 → 193 chars; the 09-17 deep review's deferred description check). (2) L38 lead: "Consciousness supplies that actuality where a neural interface exists; elsewhere physical objective reduction fixes outcomes without it." → "The Map holds that consciousness supplies this actuality where a neural interface exists; elsewhere physical objective reduction fixes outcomes with no mind involved. The second aspect is therefore actuality itself, and consciousness its interface-local supplier." The aspect is now actuality, with consciousness as its interface-local supplier held as a commitment; "two irreducible aspects" is kept, and consciousness still supplies actuality at interfaces (Tenet 3 intact, no epiphenomenalist concession). The ambiguous "without it" is replaced. (3) L56: "This is why the hard problem resists solution from within physics: no structural account can explain … because consciousness belongs to the other aspect." → "The Map reads the hard problem through this distinction: if consciousness belongs to the other aspect, no structural account could explain … The explanatory gap motivates that reading without establishing it: the second aspect is held, like the Dualism tenet, as a commitment the Map owns rather than a result it reports." This aligns with the tenets.md L55 Rationale. (4) In-page semantic dependent: L66 commitment 3 "Both aspects are needed" → "Both are needed". That sentence follows "Consciousness … Physics …", so it had equated consciousness with an aspect. (5) The L106 substance-dualism reconciliation was already done and is untouched.
+- **Dependents**: `concepts/prebiotic-collapse` and `tenets/background-commitments` do not link to or gloss this page's aspects. Both already say objective reduction secures outcomes where no mind is present, so the re-gloss leaves no contradiction; not edited. Live pages that paraphrase the old gloss as "actuality (what consciousness provides)" are queued for a follow-up, not edited here: intrinsic-nature L85, russellian-monism L97, interactionist-dualism L177, physics-as-disclosure L46, consciousness-and-the-metaphysics-of-laws-and-dispositions L134, and apex/what-consciousness-tells-us-about-physics L134 ("actuality (which requires consciousness)", the strongest of them). `concepts/dualism` L200 already carries the correct gloss.
+- **Published**: yes
+
 ## 2026-10-30T08:13:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [first-quantum-free-will-wave-1927-1940](/topics/first-quantum-free-will-wave-1927-1940/)
