@@ -1,14 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 17:17:17+00:00
+ai_modified: 2026-10-30 17:54:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 17:17:17+00:00
+lastmod: 2026-10-30 17:54:16+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T17:54:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) and [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Review**: [tenet-check-2026-10-29](/reviews/tenet-check-2026-10-29/) W3 / Priority 3 (Chalmers & McQueen firewall propagation)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted tenet-wording fix
+- **Changes**: comparing L114 (CSL-IIT tenet-alignment line): "**Tenet alignment: Partial.** Satisfies four outright:" -> "**Tenet alignment: Partial, on the Map's reading (IIT is not dualist).** Satisfies four:" (+7), paired with "The prebiotic collapse problem is solved by the physical baseline." -> "The physical baseline solves prebiotic collapse." (-4); comparing 3,994 -> 3,997 (+3, as priced; L60 family list untouched). smeared L122 (Bidirectional Interaction): "support bidirectional interaction" -> "build in bidirectional interaction", plus the clause "though Chalmers and McQueen hold that their proposal need not lead to dualism, and are cited for the structure rather than as allies" (+23); smeared L90 (many-minds): "has no answer — it becomes meaningless rather than resolved" -> "stays open on the Map's reading — the objection bites branch-egalitarian readings, and many-minds, which centres each mind, is where it is weakest" (+13), consistent with L124's variant-relative scoping and tenets L117's "stays open rather than answered"; smeared 3,262 -> 3,298 (+36, as priced). The stance was checked against Chalmers & McQueen's arXiv:2105.02314v1 text: "the consciousness-collapse thesis need not lead to dualism. It is compatible with materialist views on which consciousness is a complex physical property"; the article paraphrases it without quote marks. Engagement with Chalmers & McQueen: Mode Three; they are cited for the causal structure, and the framework-boundary disagreement over dualism is stated rather than claimed as theirs. Engagement with many-minds: Mode Three for centred readings (the objection is weakest there), Mode One for branch-egalitarian ones.
+- **Published**: yes
+
+## 2026-10-30T17:26:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) plus nine hosts: [born-preserving-causal-efficacy](/apex/born-preserving-causal-efficacy/), [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/), [occasionalism](/concepts/occasionalism/), [coupling-modes](/concepts/coupling-modes/), [multi-agent-born-preservation-problem](/topics/multi-agent-born-preservation-problem/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Review**: [tenet-check-2026-10-29](/reviews/tenet-check-2026-10-29/) W2 / Priority 2, plus driver addendum items 1-3
+- **Original score**: n/a (`scripts/curate.py` absent); targeted tenet-wording fix
+- **Changes**: the "ruling out Born-statistics violation" family re-keyed to tenets L69 "no detectable Born-statistics deviation"; the corridor is now the Map's default reading, not the tenet's entailment; the sub-detection fallback (Route 2, [P-Q1](/positions/quantum-interface/#p-q1)) stays live; no quantifier added ([P-Q2](/positions/quantum-interface/#p-q2) HUMAN DECISION untouched). Words before -> after: ensemble 2,526 -> 2,533 (+7; (a) "a constraint the corridor meets by construction" instead of the review's "which the corridor satisfies by construction", so "which" cannot attach to "deviation"; (b) "carries its marginal-level invisibility" instead of "carries the corridor's", which made the corridor carry the corridor's invisibility); born-preserving 5,113 -> 5,113 (0; (c) as priced; (d) "the Map's default reading, the corridor, carries its invisibility", same count as priced, avoiding "corridor reading inherits the corridor's invisibility"); memory-channel 4,593 -> 4,593 (0, as priced); born-rule 5,443 -> 5,443 (0, as priced); phenomenology-mechanism-bridge 4,924 -> 4,925 (+1, as priced); occasionalism 2,093 -> 2,094 (+1, as priced); coupling-modes 3,016 -> 3,017 (+1, "no detectable aggregate Born-statistics deviation", energy-injection clause kept); multi-agent 3,090 -> 3,090 (0, "no-Born-violation constraint" -> "no-detectable-deviation constraint": the inference already rested on detectability, and the label now matches the same sentence's "a constraint on what is detectable"); stapp 3,999 -> 3,999 (0, "no-Born-violation clause" -> "no-detectable-deviation clause"; the ensemble-reading dependence still holds, since the bending reading meets it only below detection); wheelers 3,995 -> 3,995 (0, "under any unconditioned aggregate test" -> "under current unconditioned aggregate tests": "any" stated the corridor's by-construction invisibility as the tenet's constraint and so forbade the outside-corridor fallback the next sentence names).
+- **Not touched (coordination)**: spontaneous-collapse L117, selection-only-channel L72, every [P-Q2](/positions/quantum-interface/#p-q2) line, retrocausality L153, sorkin L72. Residual descriptive hits stand: born-rule L159 heading "Require Born Violation" (anchored), born-rule L179 "none isolates Born-rule violation as the measured variable", wheelers L187 see-also gloss. No edit touches horn (b); epiphenomenalism is not conceded.
+- **Engagement modes**: n/a (tenet-description fix; no named-opponent reply edited)
+- **Published**: yes (synced; Hugo copies old=0 / new=1 for all 12 pairs)
 
 ## 2026-10-30T17:17:17+00:00 - deep-review
 - **Status**: Success

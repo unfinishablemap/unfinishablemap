@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-10-26 21:21:43+00:00
-ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
+ai_modified: 2026-10-30 17:56:05+00:00
+ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -24,7 +24,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 03:28:47+00:00
-lastmod: 2026-10-26 21:21:43+00:00
+lastmod: 2026-10-30 17:56:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,7 +115,7 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 **Phenomenological fit: Weak.** If Q-shape distance modulates collapse, consciousness is most effective in highly integrated systems whose superposed states differ structurally. But, like Fisher's proposal, the model provides no account of effortful attention, the willed/automatic distinction, or the temporal grain of experience — it explains *where* consciousness acts without explaining *what it feels like*.
 
-**Tenet alignment: Partial.** Satisfies four outright: ontologically distinct consciousness ([Dualism](/tenets/#dualism)), rate modulation only on [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)'s fallback reading ([P-Q2](/positions/quantum-interface/#p-q2)), causal influence ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), real collapse ([No Many Worlds](/tenets/#no-many-worlds)), and necessary complexity ([Occam's Razor Has Limits](/tenets/#occams-limits)). The prebiotic collapse problem is solved by the physical baseline.
+**Tenet alignment: Partial, on the Map's reading (IIT is not dualist).** Satisfies five, one conditionally: ontologically distinct consciousness ([Dualism](/tenets/#dualism)), rate modulation only on [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)'s fallback reading ([P-Q2](/positions/quantum-interface/#p-q2)), causal influence ([Bidirectional Interaction](/tenets/#bidirectional-interaction)), real collapse ([No Many Worlds](/tenets/#no-many-worlds)), and necessary complexity ([Occam's Razor Has Limits](/tenets/#occams-limits)). The physical baseline solves prebiotic collapse.
 
 **Empirical status: Constrained.** The underlying physics makes falsifiable predictions, and parameter space is shrinking. But the consciousness modulation component remains untestable — we cannot yet measure whether Q-shape distance correlates with collapse dynamics.
 

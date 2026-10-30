@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-10-27 01:42:02+00:00
+ai_modified: 2026-10-30 17:53:58+00:00
 ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-03 02:01:20+00:00
-lastmod: 2026-10-27 01:42:02+00:00
+lastmod: 2026-10-30 17:53:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ This hypothesis, so far untested though its authors outline a programme of quant
 
 Albert and Loewer's [many-minds interpretation](/topics/many-minds-interpretation/) accepts that brains enter superposition but insists minds never do. The mind is always in a definite state, probabilistically tracking one branch of the physical superposition. Mental states don't smear; they pick a lane—or rather, *each copy* of the mind picks a different lane, yielding the many-minds picture.
 
-This approach takes the definiteness of experience as a non-negotiable constraint. The [measurement problem](/topics/quantum-measurement-and-consciousness/) becomes, in their framing, a problem about determinate experience: how linear quantum evolution yields subjects with definite observations. Their answer requires Everettian branching, which the Map rejects: observer-splitting dissolves [indexical identity](/topics/indexical-identity-quantum-measurement/) rather than explaining it. If every outcome occurs in some branch, the question "why did *I* experience this outcome?" has no answer — it becomes meaningless rather than resolved. But Albert and Loewer's diagnosis of the problem is valuable: whatever one's preferred interpretation, the unyielding definiteness of conscious experience is a datum that physics must accommodate.
+This approach takes the definiteness of experience as a non-negotiable constraint. The [measurement problem](/topics/quantum-measurement-and-consciousness/) becomes, in their framing, a problem about determinate experience: how linear quantum evolution yields subjects with definite observations. Their answer requires Everettian branching, which the Map rejects: observer-splitting dissolves [indexical identity](/topics/indexical-identity-quantum-measurement/) rather than explaining it. If every outcome occurs in some branch, the question "why did *I* experience this outcome?" stays open on the Map's reading — the objection bites branch-egalitarian readings, and many-minds, which centres each mind, is where it is weakest. But Albert and Loewer's diagnosis of the problem is valuable: whatever one's preferred interpretation, the unyielding definiteness of conscious experience is a datum that physics must accommodate.
 
 ## What the Disagreements Reveal
 
@@ -123,7 +123,7 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 
 **Minimal Quantum Interaction**: Every framework locates the consciousness-physics interface at the quantum level. Stapp's model is the tenet's nearest neighbour rather than an implementation of it: consciousness contributes von Neumann's Process-1 choice—which question to pose to nature, and when—and rapid repeated posing (the Zeno effect) shapes physical evolution without energy injection, while nature picks each answer. The Map's tenet asserts precisely the influence Stapp's mechanism set aside: over *which outcome* becomes actual, inside the Born corridor that the tenet's empirical-constraint minimality endorses, not merely which question is posed ([quantum-interface](/positions/quantum-interface/) tracks the resulting ranking). The 2025-2026 experimental acceleration—room-temperature quantum effects in microtubules, spintronic coherence proposals localised to the axon initial segment, and emerging NV-diamond measurement technology—strengthens the empirical precondition: quantum indeterminacy may exist at functionally relevant points in neural systems where consciousness could act. The evidence remains suggestive rather than decisive: it raises the prior on the coherence-dependent mechanisms without confirming any, and the post-decoherence route the Map prefers does not depend on sustained coherence.
 
-**Bidirectional Interaction**: This tenet most clearly separates the frameworks. Stapp and Chalmers-McQueen support bidirectional interaction—consciousness causally shapes which physical state persists, through question-choice and timing for Stapp, through collapse-triggering for Chalmers-McQueen. Penrose reverses the direction, and Koch proposes a third option. The Map holds that the bidirectional models better explain why we can discuss consciousness at all: if experience were merely a product of collapse (Penrose) or of superposition (Koch), it would need a separate account of how experiential content feeds back into physical behaviour. The interaction models have this built in.
+**Bidirectional Interaction**: This tenet most clearly separates the frameworks. Stapp and Chalmers-McQueen build in bidirectional interaction—consciousness causally shapes which physical state persists, through question-choice and timing for Stapp, through collapse-triggering for Chalmers-McQueen—though Chalmers and McQueen hold that their proposal need not lead to dualism, and are cited for the structure rather than as allies. Penrose reverses the direction, and Koch proposes a third option. The Map holds that the bidirectional models better explain why we can discuss consciousness at all: if experience were merely a product of collapse (Penrose) or of superposition (Koch), it would need a separate account of how experiential content feeds back into physical behaviour. The interaction models have this built in.
 
 **No Many Worlds**: Albert and Loewer's many-minds framework is ruled out, but their core insight—that conscious experience is always definite—reinforces the Map's position. Definiteness does not by itself require consciousness to participate in selection. Once objective reduction secures a single actual outcome—physical collapse doing that work prebiotically as much as now—the measurement problem cannot itself be evidence for conscious selection; ruling out branching removes a rival to collapse without thereby installing an interface. The burden falls instead on the agency evidence collected under Bidirectional Interaction: the self-stultification argument and the indirect case for [downward causation](/concepts/mental-causation-and-downward-causation/). The reach of the anti-branching case is also variant-relative—decisive against branch-egalitarian readings, supplementary only against first-personally centred variants ([P-I5](/positions/individuation-and-subjecthood/#p-i5)).
 

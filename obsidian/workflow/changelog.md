@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T17:26:41+00:00
+ai_modified: 2026-10-30T17:54:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T17:54:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]] and [[topics/consciousness-in-smeared-quantum-states]]
+- **Review**: [[reviews/tenet-check-2026-10-29]] W3 / Priority 3 (Chalmers & McQueen firewall propagation)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted tenet-wording fix
+- **Changes**: comparing L114 (CSL-IIT tenet-alignment line): "**Tenet alignment: Partial.** Satisfies four outright:" -> "**Tenet alignment: Partial, on the Map's reading (IIT is not dualist).** Satisfies four:" (+7), paired with "The prebiotic collapse problem is solved by the physical baseline." -> "The physical baseline solves prebiotic collapse." (-4); comparing 3,994 -> 3,997 (+3, as priced; L60 family list untouched). smeared L122 (Bidirectional Interaction): "support bidirectional interaction" -> "build in bidirectional interaction", plus the clause "though Chalmers and McQueen hold that their proposal need not lead to dualism, and are cited for the structure rather than as allies" (+23); smeared L90 (many-minds): "has no answer — it becomes meaningless rather than resolved" -> "stays open on the Map's reading — the objection bites branch-egalitarian readings, and many-minds, which centres each mind, is where it is weakest" (+13), consistent with L124's variant-relative scoping and tenets L117's "stays open rather than answered"; smeared 3,262 -> 3,298 (+36, as priced). The stance was checked against Chalmers & McQueen's arXiv:2105.02314v1 text: "the consciousness-collapse thesis need not lead to dualism. It is compatible with materialist views on which consciousness is a complex physical property"; the article paraphrases it without quote marks. Engagement with Chalmers & McQueen: Mode Three; they are cited for the causal structure, and the framework-boundary disagreement over dualism is stated rather than claimed as theirs. Engagement with many-minds: Mode Three for centred readings (the objection is weakest there), Mode One for branch-egalitarian ones.
+- **Published**: yes
+
 ## 2026-10-30T17:26:41+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ensemble-level-epiphenomenalism]] plus nine hosts: [[apex/born-preserving-causal-efficacy]], [[topics/memory-channel-interface-evidence]], [[topics/born-rule-and-the-consciousness-interface]], [[apex/phenomenology-mechanism-bridge]], [[concepts/occasionalism]], [[concepts/coupling-modes]], [[topics/multi-agent-born-preservation-problem]], [[concepts/stapp-quantum-mind]], [[topics/wheelers-participatory-universe-and-it-from-bit]]
