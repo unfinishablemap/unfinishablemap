@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-29 01:45:00+00:00
+ai_modified: 2026-10-30 10:10:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 00:00:00+00:00
+lastmod: 2026-10-30 10:10:35+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T10:10:35+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The selecting agent's first-person credence rule (outer-review-2026-10-28-claude-fable-5-1 inference 3): what credence an agent who knows her own intention should give an outcome when only conditionals on the conscious state are free ([P-Q2](/positions/quantum-interface/#p-q2)), and what replaces Sebens & Carroll 2018 on the one-world reading
+- **Output**: [selecting-agent-first-person-credence-rule-2026-10-30](/research/selecting-agent-first-person-credence-rule-2026-10-30/)
+- **Sources consulted**: 16 read (8 raw texts: Lewis 1980 OCR scan, Sebens & Carroll arXiv:1405.7577, Kent arXiv:1408.1944, Wallace arXiv:0906.2718, Fuchs & Schack arXiv:1301.3274, Vaidman arXiv:quant-ph/9609006, Dawid & Thébault publisher PDF, Bacciagaluppi & Ismael review; abstracts: Price 2012, Hájek 2016, Vavova 2016, List & Pivato 2015, Brown & Ben Porath 2020; SEP: Healey QBism/pragmatism, Vaidman MWI, causal decision theory); 19 further works metadata-only via Crossref
+- **Candidate rule**: Lewis's Principal Principle with the agent's conscious state counted as admissible history (Lewis 1980 explicitly allows history "spirit for spirit (if such there be)"): once intention C forms, the outcome's chance is P(O | do(C), X), and the informed agent's credence is her expectation of it; Born weights are the right credence for anyone lacking C, and the chance before C forms only if intention-formation has propensities (else Pereboom's wild coincidences). Drafted as toy-model desideratum 7 for apex/born-preserving-causal-efficacy (blocked on the length decision)
+- **Verdict**: horn (a) credence is forced on Map adherents by Tenet 3's "biasing ... toward patterns that express its content"; credal Born for a tilt-agnostic agent does not concede horn (b). Shared debt on the chance-credence link (Wallace concedes the PP is "postulated, not derived" in one-world views; Brown & Ben Porath 2020 deny the DW theorem justifies it); the Map-specific cost sits in its chance ontology (chance moves with no physical change), not in its decision theory. The rule turns on the open P1 HUMAN DECISION on [P-Q2](/positions/quantum-interface/#p-q2)'s "publicly conditionable" quantifier
+- **Originator corrections**: the rollback argument is van Inwagen's (2000), not Pereboom's (the brief's wording); the Everettian self-location idea is Vaidman's 1998 "ignorance-type" probability (0 hits for "self-locat" in that text); Maudlin's reply to Wallace is ontological, so no probability argument is attributed to him
+- **Recommended action**: fold into concepts/quantum-probability-consciousness §"The Missing Piece" after L92 (~230 words + 3 refs, ~305 of 485 headroom; 3,014/3,500 by analyze_length). Chain mints nothing for `fold`; driver mints the refine. Not `article`: topics 367/370, and the new content is a single rule
+
+## 2026-10-30T09:21:34+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Clinical-insight wing (5 pages, read in full): concepts/depersonalisation-nosology (2514; 0 prior optimistic mentions), topics/anton-syndrome-and-the-sincere-report-of-seeing (3562), concepts/charles-bonnet-syndrome (2689), concepts/cotard-delusion (3495, headroom 4), topics/capgras-delusion-and-the-affective-recognition-channel (2648; last own-heading optimistic treatment 2026-08-02). Verdict: "insight" is used for three objects (change / content / deficit) in two registers (presented / judged) with no page naming the split; CBS L86 asserts the presented register unsourced; CBS links none of the four siblings. One verified source-fidelity defect: Capgras L69 says the four non-delusional vmPFC cases "report the felt strangeness", but Corlett 2019 (PMC6686846, web-fetched this run) describes them by SCR only.
+- **Uncovered subjects**: 8 listed with live/research grep counts (presented vs inferred unreality; unconscious Factor 1 / endorsement accounts; Fregoli and the misidentification family; double bookkeeping; musical hallucinosis; release-phenomena banked note, which carries an Anton-row defect; insight scales; peduncular hallucinosis)
+- **Tasks minted**: 4 refine-draft above `## Completed Tasks` (active 267 → 271): P2 Capgras L69/L63 fidelity + L35 "mineness"; P3 CBS L86 insight-register rescope + Anton link; P3 Anton CBS control (L74 pipe, L101, after L72, Further Reading); P3 three zero-word pipes to depersonalisation-nosology (cotard L56, necessary-opacity L82, clinical-phenomenology L107)
+- **Output**: [optimistic-2026-10-30-clinical-insight-wing](/reviews/optimistic-2026-10-30-clinical-insight-wing/)
 
 ## 2026-10-30T08:57:16+00:00 - refine-draft
 - **Status**: Success
