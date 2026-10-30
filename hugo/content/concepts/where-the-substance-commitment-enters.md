@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-10-29 06:08:09+00:00
+ai_modified: 2026-10-30 18:55:45+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[dualism]]'
 - '[[disguised-property-dualism]]'
 created: 2026-05-27
-date: &id001 2026-10-29
+date: &id001 2026-10-30
 description: The Map's substance-leaning enters with Posit One, a declared background
   commitment, and is drawn on by agent causation and the indexical objection to many-worlds.
   A diagnostic for which arguments need a persisting subject.
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-20 03:41:00+00:00
-lastmod: 2026-10-29 06:08:09+00:00
+lastmod: 2026-10-30 18:55:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ So when an article on the [binding problem](/concepts/binding-problem/), the [kn
 
 The lean is first drawn on one layer down, at the agent-causal commitment. [Agent causation](/concepts/agent-causation/)—the position the Map adopts for [free will](/topics/free-will/)—holds that the agent, *as a persisting substance*, directly causes actions. In Roderick Chisholm's terms this is *immanent* causation (the agent causes the event) as opposed to *transeunt* causation (events cause events). E.J. Lowe reaches the same requirement by a more radical route, and declines Chisholm's contrast on the way: rather than grant event causation in the inanimate domain and treat agent causation as a *sui generis* phenomenon restricted to rational beings, he holds that all causation is causation by substances, with rational free agents occupying a special place in that order as "unmoved movers, or initiators of new causal chains" (*Personal Agency*, 12). Lowe holds the agent's volition itself uncaused: agents cause their bodily movements by willing, and since they cause only by acting, an agent-caused volition would start a regress (Lowe 2008: 7). The Map [departs from him here](/topics/philosophy-of-action-under-dualism/), making the volition agent-caused and so denying that premise. Either way, what does the causing is a substance.
 
-That structure needs a concrete continuant: a subject who persists through the causing and exercises the power. A reading with no such bearer fails the requirement: if nothing does the causing, only mental properties [supervening](/concepts/supervenience/) on neural events, then "the agent originated the action" loses its referent, and what is left looks like [event causation under another name](/topics/event-causal-libertarianism/); [bundle and narrative selves](/topics/the-self-minimal-narrative-and-substantial/) face the same question. A physical bearer passes it. An interactionist property dualist whose bearer is the organism meets the requirement as stated, and three live accounts place the power in such a continuant: Helen Steward's [agency incompatibilism](/topics/agency-incompatibilism/), with its whole physical animal (Steward 2012); O'Connor's agent-causal power as an emergent property of the biological organism (O'Connor 2000); and Potter and Mitchell's naturalised framework, on which the organism as a system is itself a cause (2022). Each is a rival to the Map's reading, not an ally. This is why agent causation, specifically, recruits a substance-bearing reading: a persisting bearer, and not yet a non-physical one. The requirement is the agent-causal claim's, not the tenet's.
+That structure needs a concrete continuant: a subject who persists through the causing and exercises the power. A reading with no such bearer fails the requirement: if nothing does the causing, only mental properties [supervening](/concepts/supervenience/) on neural events, then "the agent originated the action" loses its referent, and what is left looks like [event causation under another name](/topics/event-causal-libertarianism/); [bundle and narrative selves](/topics/the-self-minimal-narrative-and-substantial/) face the same question. A physical bearer passes it. An interactionist property dualist whose bearer is the organism meets the requirement as stated, and three live accounts place the power in such a continuant: Helen Steward's [agency incompatibilism](/topics/agency-incompatibilism/), with its whole physical animal (Steward 2012); O'Connor's agent-causal power as an emergent property of the biological organism (O'Connor 2000); and Potter and Mitchell's naturalised framework, on which the organism as a system is itself a cause (2022). Each is a rival to the Map's reading, not an ally. This is why agent causation, specifically, recruits a substance-bearing reading: a persisting bearer, and not yet a non-physical one. The requirement is the agent-causal claim's, not the tenet's. Whether substance causation is possible is itself disputed: Randolph Clarke, who built the integrated agent-causal account, concludes, "We should doubt the possibility of agent causation, but we should not be very certain about the matter" (Clarke 2003: 210), a verdict the Map [records as an open cost](/topics/agent-causation-and-acting-for-reasons/#costs-integrated); the regress an agent-caused volition invites is a separate charge, which the Map [ends at a substance whose causing is basic](/topics/philosophy-of-action-under-dualism/#agent-causation-and-non-cartesian-substance-dualism).
 
 Two clarifications keep this honest. First, the relevant subject is *substance-leaning*, not necessarily full Cartesian substance: naturalistic substance dualism (Lowe, Zimmerman) and substance-bearing forms of property dualism both supply a persisting bearer of causal powers without Descartes' separation of mind from nature. Nor does the requirement alone make that bearer non-physical: Steward's animal and O'Connor's organism are persisting agents, so the step from a persisting agent to a non-physical one rests on the case for irreducibility, not on agent causation. Second, agent causation is not the only place a persisting subject does work: the indexical-identity argument against [many-worlds](/concepts/many-worlds/) leans on one too, by a different route, and [the section below](#second-home) takes it up. Agency remains the clearest home, because it is the only one that asks the subject to exercise a power rather than merely to be determinate.
 
@@ -101,6 +101,7 @@ The lean also interacts with [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occam
 ## References
 
 1. Chisholm, R. (1964). Human freedom and the self. *The Lindley Lecture*. University of Kansas.
+1. Clarke, R. (2003). *Libertarian Accounts of Free Will*. Oxford University Press. Ch. 10, "Substance and Cause", pp. 185–218. https://doi.org/10.1093/019515987x.001.0001
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
