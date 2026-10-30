@@ -10,13 +10,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-30T10:44:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Word count**: 3,991 → 3,991 (+0; analyze_length, topics hard 4,000)
+- **Scope**: delta-only (f19eb1a772..HEAD): the 10-11 coalesced Continuity Void section, the 10-19 Hesse et al. 2026 paragraph, and the 09-27 Relation fix
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1. L145 "the rhythmicity of neural sampling is empirically established" → "is well evidenced", matching the lead L51 and L55. The 09-27 fix had corrected the subject and left the tier word one level higher.
+- **Verified**: Hesse et al. 2026: real-correct at the bioRxiv API and Crossref (preprint v1, not peer-reviewed), and all 10 claims checked against the v1 full-text PDF. VanRullen 2016 "could imply" quote verbatim (Europe PMC abstract). Coalesce regression clean: no flash-lag, "confirms", "established", Lee-overclaim or Dainton-quote re-import.
+- **Engagement classification**: Hesse authors' routing reply, Mode Two (by reference to the functionalist section); Dennett Multiple Drafts, described, not rebutted (no boundary-substitution); the others unchanged from 09-10
+- **Enhancements made**: 0
+- **Tasks minted**: 1 P3 refine-draft (Brookshire 2022 null for the behavioural ~7 Hz attentional rhythm, lead L51 and L57; net-zero, headroom 9)
+- **Output**: [deep-review-2026-10-30-neural-refresh-rates-and-the-smoothness-problem](/reviews/deep-review-2026-10-30-neural-refresh-rates-and-the-smoothness-problem/)
+
 ## 2026-10-30T10:23:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
 - **Original score**: n/a (`scripts/curate.py` absent); task-scoped fix of the [P-CS7](/positions/consciousness-scope/#p-cs7) contradiction from [outer-review-2026-10-28-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-28-chatgpt-5-6-sol-pro/) §5.2
 - **Changes**: criterion 5 (L72–74) rewritten from constitutive co-adaptation ("must be established through iterative co-adaptation", "pairing requires history", freshly booted system "would not") to the history-blind reading: the criterion is present mutual fit; co-adaptation is the observed route and the evidence, and cannot itself be the pairing law since it presupposes enough coupling to begin. Pairing problem cited as [P-SC2](/positions/subject-census/#p-sc2)'s unpaid debt (`[[positions/subject-census#^p-sc2|owed and unwritten]]`). [P-CS7](/positions/consciousness-scope/#p-cs7) named as the governing entry with its "lineage is evidence of adequacy, never a condition of coupling" quoted. Reviewer's duplicate case answered: both couple, per organizational-invariance L88's duplicate clause, the second as a new subject; where history matters it does so through present differences, so present architecture is the criterion. L84 boundary constraint 3 rewritten (present integration excludes, history is route and evidence). L114 "requires ... progressive mutual adaptation" → "the mutual fit co-adaptation builds"; L116 co-adaptive history moved from requirement to evidence, "whatever its provenance". Register, pairing-problem and swampman untouched.
 - **Engagement classification**: no named-opponent reply touched; internal consistency repair against the register
-- **Length**: 3,219 → 3,313 (analyze_length; concepts hard 3,500), +94 net
+- **Length**: 3,219 → 3,314 (analyze_length; concepts hard 3,500), +95 net
 - **Published**: yes
 
 ## 2026-10-30T10:10:35+00:00 - research-topic

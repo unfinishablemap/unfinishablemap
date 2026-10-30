@@ -2,9 +2,9 @@
 title: "Neural Refresh Rates and the Smoothness Problem"
 description: "Rhythmic 7-13 Hz neural sampling clashes with smooth conscious experience—an explanatory gap functionalism and dualism answer differently, over a void: introspection cannot settle whether the flow is real."
 created: 2026-03-17
-modified: 2026-10-19
+modified: 2026-10-30
 human_modified:
-ai_modified: 2026-10-19T10:10:21+00:00
+ai_modified: 2026-10-30T10:44:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author:
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-09-10T07:54:35+00:00
+last_deep_review: 2026-10-30T10:44:45+00:00
 coalesced_from:
   - "/concepts/neural-refresh-rates/"
   - "/voids/smoothness-and-continuity/"
@@ -142,7 +142,7 @@ The inversion bites hardest against identity theories that locate consciousness 
 
 The smoothness problem aligns with several of the Map's [[tenets]].
 
-**Dualism.** For those who reject functionalism, the smoothness problem illustrates the [[tenets#^dualism|dualism tenet]] concretely. If functional organisation does not exhaust phenomenal character, then the continuity of experience is a property that physical description — including the most detailed account of temporal integration mechanisms — leaves out. The Map treats smoothness as one instance among many (alongside [[qualia]] like colour and pain) where the explanatory gap between physical process and phenomenal character becomes apparent. The smoothness case is distinctive not because it is a separate argument but because the rhythmicity of neural sampling is empirically established, making the gap particularly precise.
+**Dualism.** For those who reject functionalism, the smoothness problem illustrates the [[tenets#^dualism|dualism tenet]] concretely. If functional organisation does not exhaust phenomenal character, then the continuity of experience is a property that physical description — including the most detailed account of temporal integration mechanisms — leaves out. The Map treats smoothness as one instance among many (alongside [[qualia]] like colour and pain) where the explanatory gap between physical process and phenomenal character becomes apparent. The smoothness case is distinctive not because it is a separate argument but because the rhythmicity of neural sampling is well evidenced, making the gap particularly precise.
 
 **Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal continuity as a structuring principle rather than passively receiving whatever the brain delivers. This is consistent with the [[tenets#^bidirectional-interaction|bidirectional interaction tenet]], though the smoothness problem does not require this specific mechanism. The problem stands regardless of which account of mind-brain interaction one adopts. Framed this way, the smoothness problem is an instance of the [[capability-division-problem]]: the brain provides discrete temporal snapshots, while consciousness may contribute the seamless continuity that characterises experience. If consciousness also helps set when unconscious processing renders into awareness, the [[#The Continuity Void|continuity void]] becomes self-referential: the temporal grain consciousness cannot measure may be one it partly constitutes.
 

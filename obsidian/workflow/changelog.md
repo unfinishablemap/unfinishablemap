@@ -4,6 +4,19 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-30T10:10:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T10:44:45+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Word count**: 3,991 → 3,991 (+0; analyze_length, topics hard 4,000)
+- **Scope**: delta-only (f19eb1a772..HEAD): the 10-11 coalesced Continuity Void section, the 10-19 Hesse et al. 2026 paragraph, and the 09-27 Relation fix
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1. L145 "the rhythmicity of neural sampling is empirically established" → "is well evidenced", matching the lead L51 and L55. The 09-27 fix had corrected the subject and left the tier word one level higher.
+- **Verified**: Hesse et al. 2026: real-correct at the bioRxiv API and Crossref (preprint v1, not peer-reviewed), and all 10 claims checked against the v1 full-text PDF. VanRullen 2016 "could imply" quote verbatim (Europe PMC abstract). Coalesce regression clean: no flash-lag, "confirms", "established", Lee-overclaim or Dainton-quote re-import.
+- **Engagement classification**: Hesse authors' routing reply, Mode Two (by reference to the functionalist section); Dennett Multiple Drafts, described, not rebutted (no boundary-substitution); the others unchanged from 09-10
+- **Enhancements made**: 0
+- **Tasks minted**: 1 P3 refine-draft (Brookshire 2022 null for the behavioural ~7 Hz attentional rhythm, lead L51 and L57; net-zero, headroom 9)
+- **Output**: [[reviews/deep-review-2026-10-30-neural-refresh-rates-and-the-smoothness-problem]]
+
 ## 2026-10-30T10:23:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/brain-interface-boundary]]
