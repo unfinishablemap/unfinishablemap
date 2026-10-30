@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T17:54:16+00:00
+ai_modified: 2026-10-30T18:25:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T18:25:57+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/molyneux-void]] (2,543/3,000 voids by analyze_length, prose 2,105; created today ~16:21Z, first review of any kind). All 31 quoted strings checked against freshly fetched raw sources (SEP 8 Jan 2026 revision, Gutenberg Locke and Berkeley, Cheselden OCR, Europe PMC full text for Schwenkler, Clarke and Versace, and abstracts): 31/31 verbatim, 25 with context kept, 3 drifted, 1 misapplied, 2 minor. Main findings: (1) the probe face's Clarke and SEP capstones are cut before each source's constructive next step ("seems" dropped; the SEP's "scientific miracle" relabelled "Its verdict" and moved after the infant and animal evidence it introduces); (2) §Relation to Site Perspective uses Held's "no" at face value (L97, L101), against its own probe face; (3) Green 2024 (internal versus external determination) is cited as the warrant for dualism-neutrality, and L89 carries an unmarked structure/experience premise; (4) Cheselden "first" is widened past the SEP, the handedness void is called "closed" against its own page, and Held & Hein 1963 is stretched. Brief compliance confirmed: the Held subject count appears only with its sources, and no age is given for Meltzoff & Borton. False lead recorded: OpenAlex's fourth Versace author is from the acknowledgements; the reference is correct.
+- **Tasks**: 4 refine-draft minted (P2 Priority 1, P2 Priority 2, P2 Priority 3, P3 Priority 4), all `File: obsidian/voids/molyneux-void.md`, inserted above `## Completed Tasks`; parse_tasks active count 270 -> 274. Priorities 5-8 recorded in the report and not queued. No overlap with the P3 cross-review's scope.
+- **Output**: [[reviews/pessimistic-2026-10-30-molyneux-void]]
+
 ## 2026-10-30T17:54:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]] and [[topics/consciousness-in-smeared-quantum-states]]
