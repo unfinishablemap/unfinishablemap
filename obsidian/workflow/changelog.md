@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T19:53:59+00:00
+ai_modified: 2026-10-30T20:29:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T20:29:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/trilemma-of-selection]] (secondary: [[topics/first-quantum-free-will-wave-1927-1940]])
+- **Review**: [[research/planck-self-observing-ego-and-mackay-logical-indeterminacy-2026-10-29]] (verdict `fold`; decision MARK UNANSWERED ON OPENNESS)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted fold
+- **Changes** (`analyze_length`: trilemma 3,111 -> 3,390, +279 = 246-word paragraph + 2 references; first-quantum 3,450 -> 3,462, +12; topics hard gate 4,000, both soft_warning before and after): (1) trilemma §Compatibilist Objections: new bold-lead paragraph "Felt openness is what any embedded agent would feel." inserted after "The phenomenology settles nothing." and before `## What the Trilemma Secures`. Installs Planck 1932 (p. 161 "one single point" / "on logical grounds"; p. 163 "for no eye can see itself", "entirely mistaken"; p. 164 Laplace super-intelligence) and MacKay 1960 (p. 37 "the entirely justifiable corollary of these peculiar logical facts"; p. 32 determinism neither affirmed nor denied, paraphrased; p. 31 "misguided and immoral"). Concedes felt openness is predicted under Horn 1 as firmly as under Horn 3 (possibly veridical but non-discriminating; no concession of epiphenomenalism), restricts the L113 systematic-pattern reply to effort, names the conditional signature (apex/born-preserving-causal-efficacy §Where a Selection Could Show) as the one discriminator, statistical and untested, and states Tenet 5 bars both preferring Horn 3 for richness and dismissing Planck. Neither author enlisted; Planck not given "illusion". Indexical reply not invoked. L113 itself, L54, Horn 2 Popper line, Horn 3 L76/L95 and the L140 label untouched. (2) References 16 Planck 1932 (Norton, ch. V pp. 157-168) and 17 MacKay 1960 (*Mind* 69(273): 31-40) added; Rummens & Cuypers 2010 not added (budget). (3) first-quantum: "Who Established What" Planck row "Unused" -> `[[trilemma-of-selection#compatibilist-objections\|trilemma-of-selection]], Compatibilist Objections`; L77 split: Planck's argument now "conceded on openness and answered on effort" by the trilemma page; Russell half kept ("has no Map counterpart; it remains available to an opponent and has not been answered on its pages").
+- **Quotation re-verification**: archive.org full texts re-fetched (`whereissciencego00plan_0_djvu.txt`, `sim_mind_1960-01_69_273_djvu.txt`) and every installed quotation matched under alphanumerics-only normalisation; pages assigned from running heads (Planck 161/163/164 via heads 161, 163, i64; MacKay 31/32/37 via heads 32, 37, 38).
+- **Engagement classification**: Planck and MacKay on openness: Mode Three (honestly marked unanswered; their accounts predict the datum under determinism and the Map has no in-framework rebuttal). On effort: Mode One (the self-observation limit, on its own terms, predicts nothing about difficulty-tracking, depletion or distinct circuits).
+- **Pronoun check**: "He" (Planck), "the limit" (self-observation limit of the prior sentence), "both" (Planck and MacKay), "about which" (effort), "its one discriminator" (the Map's), "it bars" (Tenet 5); first-quantum "answers it" (Planck's argument), "it remains" (Russell's objection). No "This is not X. It is Y."; no "load-bearing".
+- **Flagged, not fixed**: [[concepts/phenomenology-of-choice-and-volition]] L60 ("genuinely open possibilities … This openness has phenomenal character") and L165 ("The felt openness before decision and closure after matches collapse rather than branching") still read felt openness as evidence matching collapse; adjacent L68/L70 ("alternatives collapse to actuality", "genuine openness followed by determinate actualisation") share the framing. For a later pass.
+- **Frontmatter**: both files ai_modified 2026-10-30T20:29:45+00:00; trilemma modified -> 2026-10-30; ai_system unchanged (claude-opus-5-5 already present on both).
+- **Published**: yes (synced; both Hugo copies grep-verified)
+
 ## 2026-10-30T19:53:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-returning-attention]]

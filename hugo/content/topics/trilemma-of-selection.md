@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-10-28 09:50:19+00:00
+ai_modified: 2026-10-30 20:29:45+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[post-decoherence-selection]]'
 created: 2026-03-10
-date: &id001 2026-10-20
+date: &id001 2026-10-30
 description: At a decision point of genuine indeterminacy the trilemma foregrounds
   three horns—determinism, randomness, mental causation. Human-AI analysis of why
   only directed selection preserves authorship, treated as a heuristic not a complete
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 06:13:05+00:00
-lastmod: 2026-10-28 09:50:19+00:00
+lastmod: 2026-10-30 20:29:45+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,6 +117,8 @@ This does not prove that consciousness is required for grasping—that remains t
 
 **"The phenomenology settles nothing."** The feeling of openness during deliberation could be a cognitive illusion—the brain representing its own uncertainty as "felt openness." Perhaps effort is just the brain monitoring resource allocation. The Map responds: this redescription is available for any phenomenological evidence, and the felt data is compatible with either reading taken on its own. What tells against the illusion construal is the systematic pattern—effort correlating with difficulty across attention, motor control, and reasoning; depletion requiring recovery; willed processing engaging different neural circuits than automatic processing—which is what genuine causal engagement would look like. Dismissing it as illusion requires explaining why the illusion is so precisely calibrated to what selection would actually involve.
 
+**"Felt openness is what any embedded agent would feel."** Planck kept causation universal yet called the ego "one single point" where the causal method is inapplicable "on logical grounds" (1932, p. 161): the observing subject cannot also be the object of research, "for no eye can see itself" (p. 163). He called the view that freedom is merely apparent "entirely mistaken" (p. 163) and said the limit holds "even in the case of the super-intelligence postulated by Laplace" (p. 164). MacKay (1960) made the point logical: no prediction of a choice can be both correct and validly believed by the agent beforehand, so felt freedom is "the entirely justifiable corollary of these peculiar logical facts" (p. 37), with determinism neither affirmed nor denied (p. 32). On either account, openness is predicted under Horn 1 as firmly as under Horn 3: possibly veridical but non-discriminating. Neither author is an ally. Planck's freedom is a standpoint truth in a causal world, and MacKay thought it "misguided and immoral" to make physical indeterminacy essential to freedom (p. 31); both tell against one move only, citing felt openness as evidence for Horn 3. The systematic pattern above answers for effort alone, about which the self-observation limit predicts nothing. On openness the Map has no answer to Planck or MacKay; its one discriminator, the [conditional signature](/apex/born-preserving-causal-efficacy/#where-a-selection-could-show-if-anywhere-the-conditional-signature), is statistical and untested. Tenet 5 binds only the Map's reasoning: it bars both preferring Horn 3 for its richness and dismissing Planck as deflationary.
+
 ## What the Trilemma Secures
 
 The trilemma does not prove that consciousness selects among quantum possibilities, nor—as the framing above concedes—that Horn 3 is the *only* route to authorship, since positions rejecting its two assumptions are set aside rather than closed off. Its secure conclusion is narrower: neither pure determinism, nor pure randomness, nor a "partly determined, partly random" mixture can deliver authorship over the open portion of a decision, however refined or combined. Within that space, a directed resolution with the character of Horn 3 is what authorship needs. The [Consciousness and Agency](/apex/consciousness-and-agency/) synthesis develops the implications.
@@ -173,3 +175,5 @@ The trilemma connects to each of the five [tenets](/tenets/):
 13. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-and-the-consciousness-interface/
 14. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
 15. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+16. Planck, M. (1932). *Where Is Science Going?* Trans. J. Murphy. W. W. Norton. Ch. V, pp. 157-168.
+17. MacKay, D.M. (1960). On the Logical Indeterminacy of a Free Choice. *Mind*, 69(273), 31-40.

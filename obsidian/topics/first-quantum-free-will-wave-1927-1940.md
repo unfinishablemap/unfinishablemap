@@ -4,7 +4,7 @@ description: "A source-verified history of the 1927–1940 quantum free-will wav
 created: 2026-10-28
 modified: 2026-10-30
 human_modified:
-ai_modified: 2026-10-30T08:13:38+00:00
+ai_modified: 2026-10-30T20:29:45+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -72,9 +72,9 @@ Jordan drew his own critics. In *Erkenntnis* 5 (1935) Zilsel accused him of tryi
 | Interface: a key of the lock's nature | Jeans 1933, p. 280 | [[positions/quantum-interface]] |
 | Dissolution: freedom is non-compulsion | Schlick 1930; Stebbing 1937, ch. X | [[compatibilist-symmetry-challenge]] |
 | Epistemic: indeterminacy is ignorance | Russell 1931 (via Eddington 1935) | Unused |
-| Relocation: freedom in the self-observing ego | Planck 1932, pp. 161–163 | Unused |
+| Relocation: freedom in the self-observing ego | Planck 1932, pp. 161–163 | [[trilemma-of-selection#compatibilist-objections\|trilemma-of-selection]], Compatibilist Objections |
 
-Planck's self-reference argument (an epistemic rather than a modal account of felt freedom) and Russell's ignorance objection have no Map counterpart; both remain available to an opponent and neither has been answered on its pages.
+The trilemma page concedes Planck's self-reference argument (an epistemic rather than a modal account of felt freedom) on openness and answers it on effort. Russell's ignorance objection has no Map counterpart; it remains available to an opponent and has not been answered on its pages.
 
 ## Relation to Site Perspective
 

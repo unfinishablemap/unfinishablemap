@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-28
-ai_modified: 2026-10-30 08:13:38+00:00
+ai_modified: 2026-10-30 20:29:45+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-30 08:13:38+00:00
-lastmod: 2026-10-30 08:13:38+00:00
+lastmod: 2026-10-30 20:29:45+00:00
 modified: *id001
 related_articles:
 - '[[popper-three-worlds-interactionism]]'
@@ -80,9 +80,9 @@ Jordan drew his own critics. In *Erkenntnis* 5 (1935) Zilsel accused him of tryi
 | Interface: a key of the lock's nature | Jeans 1933, p. 280 | [quantum-interface](/positions/quantum-interface/) |
 | Dissolution: freedom is non-compulsion | Schlick 1930; Stebbing 1937, ch. X | [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) |
 | Epistemic: indeterminacy is ignorance | Russell 1931 (via Eddington 1935) | Unused |
-| Relocation: freedom in the self-observing ego | Planck 1932, pp. 161–163 | Unused |
+| Relocation: freedom in the self-observing ego | Planck 1932, pp. 161–163 | [trilemma-of-selection](/topics/trilemma-of-selection/#compatibilist-objections), Compatibilist Objections |
 
-Planck's self-reference argument (an epistemic rather than a modal account of felt freedom) and Russell's ignorance objection have no Map counterpart; both remain available to an opponent and neither has been answered on its pages.
+The trilemma page concedes Planck's self-reference argument (an epistemic rather than a modal account of felt freedom) on openness and answers it on effort. Russell's ignorance objection has no Map counterpart; it remains available to an opponent and has not been answered on its pages.
 
 ## Relation to Site Perspective
 
