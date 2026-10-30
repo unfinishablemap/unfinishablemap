@@ -10,6 +10,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-29T07:05:26+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Planck's self-observing ego and MacKay's logical indeterminacy: the epistemic account of felt freedom the trilemma has not answered
+- **Output**: [planck-self-observing-ego-and-mackay-logical-indeterminacy-2026-10-29](/research/planck-self-observing-ego-and-mackay-logical-indeterminacy-2026-10-29/)
+- **Sources consulted**: 9 (Planck 1932, MacKay 1960 and Popper 1950 raw; Rummens & Cuypers 2010, Coghill 2023, Feucht 1999 read; Fink abstract; MacKay 1967 access-restricted; prior note voids-self-prediction-void-2026-10-14)
+- **Verdict**: fold into topics/trilemma-of-selection §Compatibilist Objections (after L113, ≤250 words; concede openness, keep effort; Planck marked unanswered). Chain mints nothing for `fold`; driver mints the refine.
+
 ## 2026-10-29T06:36:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
