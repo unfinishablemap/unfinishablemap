@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 12:54:40+00:00
+ai_modified: 2026-10-30 13:08:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 12:54:40+00:00
+lastmod: 2026-10-30 13:08:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T13:08:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Original score**: n/a (`scripts/curate.py` absent). Tenet-check 157 W1 / Priority 1 (review file [tenet-check-2026-10-29](/reviews/tenet-check-2026-10-29/); check 154 Warning 10, third check carrying)
+- **Word count**: 3,917 → 3,940 (+23; analyze_length, topics soft 3,000 / hard 4,000, status soft_warning unchanged)
+- **Change (a)** Relation §Dualism L160, OLD verified count=1: "demonstrate that physical processing and conscious experience are separable. If they can come apart, they are not the same thing." → "show that unconscious processing and conscious experience come apart, a result global-workspace and recurrent-processing theories predict as readily as the Map does; they do not show that experience comes apart from every physical process." (+14). The 10-28 tail "consistent with consciousness involving something beyond the physical" kept; it follows as a separate, hedged ground (richness / perspective / intentionality), neither redundant nor contradicted
+- **Change (b)** Relation §No Many Worlds L166, OLD verified count=1: "*this* perceiver sees *this* scene, and the phenomenal determinacy of perception is evidence that quantum outcomes are genuinely resolved, not merely indexed to branches." → "*this* perceiver sees *this* scene. Phenomenal determinacy cannot decide the point, since decoherence predicts definite experience within each branch; one-world resolution is a commitment the Map holds, not a result read off perception." (+9)
+- **Comparison texts re-grepped live**: tenets L117 "decisive against branch-egalitarian readings" (1); tenets L172 `does predict definite qualia within each branch` (1, quoting concepts/qualia, also 1 there); sibling consciousness-in-smeared-quantum-states L124 "Definiteness does not by itself require consciousness to participate in selection" (1)
+- **Engagement classification**: global-workspace / recurrent-processing physicalism at L160, Mode Three (boundary-substitution removed: the dissociations no longer stand in for a refutation of identity theory; the evidence is stated as non-discriminating); Many-Worlds at L166, Mode Three (indexical commitment kept, evidential claim from phenomenal determinacy withdrawn)
+- **Pronoun check**: (a) "they do not show" takes the sentence subject "Perceptual dissociations" through the show / do-not-show parallel; the nearest plural noun is "theories", a mild proximity reading, not edited. (b) last sentence of its paragraph; the next paragraph opens with its own subject
+- **Not touched (fences)**: L162 (fixed 10-28, f7b97a69e8); L168 Tenet-5 tiebreaker form (owned by the NEEDS-HUMAN at todo ~L112)
+- **Lead, not edited**: body L78 "Together, blindsight (processing without experience) and lucid dreaming (experience without input) establish that phenomenal rendering and information processing are separable capabilities", the body-level sibling of the old L160 wording (lucid dreaming is experience without sensory input, not without neural processing)
+- **ai_system**: unchanged (already contains claude-opus-5-5)
+- **Published**: yes (synced; hugo new strings "global-workspace and recurrent-processing" 1, "a result read off perception" 1; old strings 0)
 
 ## 2026-10-30T12:54:40+00:00 - refine-draft
 - **Status**: Success
