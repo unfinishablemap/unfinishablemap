@@ -4,6 +4,13 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-29T01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T09:21:34+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Clinical-insight wing (5 pages, read in full): concepts/depersonalisation-nosology (2514; 0 prior optimistic mentions), topics/anton-syndrome-and-the-sincere-report-of-seeing (3562), concepts/charles-bonnet-syndrome (2689), concepts/cotard-delusion (3495, headroom 4), topics/capgras-delusion-and-the-affective-recognition-channel (2648; last own-heading optimistic treatment 2026-08-02). Verdict: "insight" is used for three objects (change / content / deficit) in two registers (presented / judged) with no page naming the split; CBS L86 asserts the presented register unsourced; CBS links none of the four siblings. One verified source-fidelity defect: Capgras L69 says the four non-delusional vmPFC cases "report the felt strangeness", but Corlett 2019 (PMC6686846, web-fetched this run) describes them by SCR only.
+- **Uncovered subjects**: 8 listed with live/research grep counts (presented vs inferred unreality; unconscious Factor 1 / endorsement accounts; Fregoli and the misidentification family; double bookkeeping; musical hallucinosis; release-phenomena banked note, which carries an Anton-row defect; insight scales; peduncular hallucinosis)
+- **Tasks minted**: 4 refine-draft above `## Completed Tasks` (active 267 → 271): P2 Capgras L69/L63 fidelity + L35 "mineness"; P3 CBS L86 insight-register rescope + Anton link; P3 Anton CBS control (L74 pipe, L101, after L72, Further Reading); P3 three zero-word pipes to depersonalisation-nosology (cotard L56, necessary-opacity L82, clinical-phenomenology L107)
+- **Output**: [[reviews/optimistic-2026-10-30-clinical-insight-wing]]
+
 ## 2026-10-30T08:57:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/stapp-quantum-mind]]
