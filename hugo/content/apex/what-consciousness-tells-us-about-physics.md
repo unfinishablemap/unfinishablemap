@@ -1,8 +1,8 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-09-19 20:42:00+00:00
-ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-10-30 21:25:23+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-17 01:05:00+00:00
 apex_sources:
 - concepts/measurement-problem
@@ -53,7 +53,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-20 01:22:52+00:00
-lastmod: 2026-09-19 20:42:00+00:00
+lastmod: 2026-10-30 21:25:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ On this account, the wavefunction is a *complete description of the structural a
 
 Einstein's worry was therefore misplaced. EPR showed that quantum mechanics cannot be both complete and local; Bell later showed that no local hidden variable theory reproduces quantum predictions. What the theory omits is not *physical* information but *actuality*—which possibility is realized. If the tenets are correct, that omission marks a boundary *of* the theory rather than a gap within it: the wavefunction describes all that physics can describe, and actuality is contributed by something physics cannot reach.
 
-This is stronger than Copenhagen instrumentalism, which says the wavefunction is merely a calculational tool. On the reverse-inference account, the wavefunction is ontologically real—it correctly describes the structure of possibilities. But it is not ontologically *exhaustive*. If the tenets hold, reality has two aspects: structure (which the wavefunction captures) and actuality (which requires consciousness).
+This is stronger than Copenhagen instrumentalism, which says the wavefunction is merely a calculational tool. On the reverse-inference account, the wavefunction is ontologically real—correctly describing the structure of possibilities—but not ontologically *exhaustive*. If the tenets hold, reality has two aspects: structure (which the wavefunction captures) and actuality (which consciousness supplies at neural interfaces).
 
 A map of all routes through a city is complete as a map—no road missing, no distance wrong—yet it does not contain the fact of which route you take. That fact is contributed by the driver. The map describes the constraint space exhaustively while staying silent about the choice.
 

@@ -4,7 +4,7 @@ description: "What laws of nature are and what fundamental properties are determ
 created: 2026-02-16
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-09-25T15:46:47+00:00
+ai_modified: 2026-10-30T21:25:23+00:00
 draft: false
 last_deep_review: 2026-09-16T12:39:28+00:00
 topics:
@@ -131,7 +131,7 @@ On Martin and Heil's view, a property's qualitative nature and its dispositional
 
 **It grounds mental causation without a separate mechanism.** Because the aspects are identical rather than separately specifiable, the qualitative side needs no additional bridging principle to connect it to causal power; the same property that *is* the felt quality *is* the disposition to produce its manifestation.
 
-**It avoids the combination problem.** The Map's [[bi-aspectual-ontology]] posits unified phenomenal subjects from the start: structure (what physics describes) and actuality (what consciousness provides) are irreducible aspects that interact causally; consciousness *does things to* physics at quantum indeterminacies, rather than acting as a hidden ingredient inside physical properties.
+**It avoids the combination problem.** The Map's [[bi-aspectual-ontology]] posits unified phenomenal subjects from the start: structure (what physics describes) and actuality (supplied by consciousness at neural interfaces) are irreducible, causally interacting aspects; consciousness *does things to* physics at quantum indeterminacies, not as a hidden ingredient inside physical properties.
 
 The identity theory faces the *collapse-or-conjunction dilemma*, pressed most sharply by Taylor (2018); Coates (2021) and Engelhard (2010) defend readings on which the identity survives it. If quality and power are *genuinely* identical, the position appears to collapse into pandispositionalism—whatever quality "is" makes no separable contribution to behaviour. If they are merely *two aspects*, the position factors into a conjunction of pure-dispositional and pure-categorical commitments, with no clear answer about which aspect does the explanatory work. The Map takes the first horn but rejects its conclusion: identity is genuine *and* the qualitative aspect determines *which* power is exercised when multiple dispositions are compatible with a triggering condition—the selection mechanism delivered below in §"The Dispositional Modality Problem". Mørch (2014) makes the analogous move for power-monist Russellian monism; the Map adopts the structural reply while rejecting the monist conclusion.
 

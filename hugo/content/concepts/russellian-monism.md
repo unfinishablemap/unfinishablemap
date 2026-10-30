@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-10-21 08:58:21+00:00
+ai_modified: 2026-10-30 21:25:23+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -28,7 +28,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 01:47:17+00:00
-lastmod: 2026-10-21 08:58:21+00:00
+lastmod: 2026-10-30 21:25:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ Russellian monism was motivated partly by avoiding [epiphenomenalism](/concepts/
 
 If Russellian monism inherits dualism's costs under a different name, the Map's explicit [interactionist-dualism](/concepts/interactionist-dualism/) is preferable:
 
-**Clearer ontology**: The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: its aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) adds that "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
+**Clearer ontology**: The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) distinguishes structure (what physics describes) from actuality (supplied by consciousness at neural interfaces)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: its aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) adds that "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
 
 **Avoids constitutive combination**: By positing a fundamental unified subject rather than combinations of micro-subjects, the Map sidesteps subject-summing—there is no question of how many experiences become one. What it does not sidestep is the parallel ledger the [combination problem](/concepts/combination-problem/) article now makes explicit: an already-unified subject must still be paired with one particular body, couple as one agent across a spatially distributed neural interface, remain causally efficacious there without perturbing quantum statistics, and do so under some psychophysical law. These burdens are structurally analogous to—not identical with—the summing problem; the Map trades constitutive combination for subject–substrate pairing and interface unity rather than escaping every unity question. The subject is a posit made [below the Dualism tenet](/concepts/where-the-substance-commitment-enters/), which is neutral between [substance and property](/concepts/substance-property-dualism/) readings.
 

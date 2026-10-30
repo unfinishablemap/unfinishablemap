@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-10-21
 human_modified: null
-ai_modified: 2026-10-21T08:58:21+00:00
+ai_modified: 2026-10-30T21:25:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ Russellian monism was motivated partly by avoiding [[concepts/epiphenomenalism|e
 
 If Russellian monism inherits dualism's costs under a different name, the Map's explicit [[interactionist-dualism]] is preferable:
 
-**Clearer ontology**: The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: its aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [[consciousness-and-the-metaphysics-of-laws-and-dispositions|metaphysics of laws and dispositions]] adds that "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
+**Clearer ontology**: The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] distinguishes structure (what physics describes) from actuality (supplied by consciousness at neural interfaces)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: its aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [[consciousness-and-the-metaphysics-of-laws-and-dispositions|metaphysics of laws and dispositions]] adds that "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
 
 **Avoids constitutive combination**: By positing a fundamental unified subject rather than combinations of micro-subjects, the Map sidesteps subject-summing—there is no question of how many experiences become one. What it does not sidestep is the parallel ledger the [[combination-problem|combination problem]] article now makes explicit: an already-unified subject must still be paired with one particular body, couple as one agent across a spatially distributed neural interface, remain causally efficacious there without perturbing quantum statistics, and do so under some psychophysical law. These burdens are structurally analogous to—not identical with—the summing problem; the Map trades constitutive combination for subject–substrate pairing and interface unity rather than escaping every unity question. The subject is a posit made [[where-the-substance-commitment-enters|below the Dualism tenet]], which is neutral between [[substance-property-dualism|substance and property]] readings.
 

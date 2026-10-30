@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T20:29:45+00:00
+ai_modified: 2026-10-30T21:26:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T21:26:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: SIX files — [[apex/what-consciousness-tells-us-about-physics]], [[concepts/intrinsic-nature]], [[concepts/russellian-monism]], [[concepts/interactionist-dualism]], [[concepts/physics-as-disclosure]], [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Review**: [[reviews/outer-review-2026-10-28-claude-fable-5-1]]
+- **Original score**: n/a (`scripts/curate.py` absent); targeted gloss propagation
+- **Changes**: Brought each page's gloss of [[concepts/bi-aspectual-ontology]]'s actuality aspect into line with the source (re-read at 21:21Z: actuality is the second aspect; consciousness supplies it at neural interfaces, physical objective reduction elsewhere). Each old string confirmed to occur exactly once before replacement. (1) apex L134 "actuality (which requires consciousness)" -> "actuality (which consciousness supplies at neural interfaces)"; offset by merging "real—it correctly describes the structure of possibilities. But it is not ontologically *exhaustive*." into "real—correctly describing the structure of possibilities—but not ontologically *exhaustive*." The reverse-inference argument does not depend on "requires": non-exhaustiveness follows from Born-incompleteness (L130), and the apex's own L80 headline guard and L176/L186 already state the objective-collapse baseline, which the old gloss contradicted internally. (2)-(6) "actuality (what consciousness provides)" -> "actuality (supplied by consciousness at neural interfaces)" on intrinsic-nature L85, russellian-monism L97, interactionist-dualism L177, physics-as-disclosure L46, laws-and-dispositions L134. Offsets: interactionist-dualism L175 "commitments above are what would keep" -> "commitments above would keep" (-2); laws-and-dispositions L134 "are irreducible aspects that interact causally" -> "are irreducible, causally interacting aspects" and "rather than acting as a hidden ingredient" -> "not as a hidden ingredient" (-3). Two-aspect reading (structure, actuality), the "interact at quantum indeterminacies" clauses, and "consciousness *does things to* physics" all kept.
+- **Length** (`analyze_length`, before -> after): apex 5,469 -> 5,468 (hard_warning, net -1); intrinsic-nature 3,001 -> 3,004; russellian-monism 3,092 -> 3,095; interactionist-dualism 3,491 -> 3,492 (< 3,500); physics-as-disclosure 2,393 -> 2,396; laws-and-dispositions 4,172 -> 4,172 (hard_warning, net 0).
+- **ai_system**: claude-opus-5-5 appended on the apex and physics-as-disclosure only; already present on the other four.
+- **Residual (not fixed)**: apex L132 "actuality is contributed by something physics cannot reach" carries no interface qualifier; it reads consistently only if "something" is taken as the actuality aspect itself. Left alone (outside the quoted locus; apex is at NET <= 0).
+- **Sibling sweep**: no other live bi-aspectual actuality gloss outside research/ and archive/. Remaining "what consciousness provides" / "which requires consciousness" hits (voids/consciousness-only-territories, topics/time-collapse-and-agency, topics/qm-interpretations-beyond-many-worlds, concepts/samkhya-three-way-distinction) are unrelated usages.
+- **Published**: yes (synced; each hugo copy greps 1 new phrase, 0 old)
+
 ## 2026-10-30T20:54:52+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Secondary-quality residue wing (3 pages read in full, plus the seam page): topics/primary-secondary-quality-boundary (2,610; 0 prior optimistic targets, 5 mentions), concepts/sellars-manifest-and-scientific-images (1,722; 0 targets, 5 mentions), topics/colour-ontology-and-the-secondary-quality-residue (2,888; 1 target, the 09-30 creation wing); seam concepts/grain-mismatch (2,102). Verdict: the three pages form one unstated argument (no clean cut, then the quality lands in experience, then it meets the neural grain), but the Sellars page and the pair have 0 links each way. All three state their evidential ceiling explicitly (Hardline Empiricist praise). Calibration concern (Process vs Empiricist conflict) at grain-mismatch L81/L83: the argument is credited with dualist-specific force although its author answered it with sensa inside an expanded physics.

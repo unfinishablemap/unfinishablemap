@@ -4,7 +4,7 @@ description: "On the structuralist reading, physics describes only relational st
 created: 2026-05-27
 modified: 2026-10-21
 human_modified:
-ai_modified: 2026-10-21T13:33:29+00:00
+ai_modified: 2026-10-30T21:25:23+00:00
 last_deep_review: 2026-09-05T00:00:00+00:00
 draft: false
 topics:
@@ -82,7 +82,7 @@ This article deliberately stops at the distinction and the placement question; t
 
 The intrinsic-nature distinction is one of the Map's most important borrowed tools, and the Map's reading diverges from Russellian monism's at a precise point.
 
-**[[tenets#^dualism|Dualism]].** The Map accepts the distinction's core: physics is structurally complete but ontologically partial (see [[physical-completeness]]). The Map locates the non-physical aspect of reality at the intrinsic base—but as a *distinct, interacting* aspect rather than as the quiddities of physical particles. [[bi-aspectual-ontology|Bi-aspectual ontology]] frames this: structure (what physics describes) and actuality (what consciousness provides) are two irreducible aspects. Physics is missing an ontology, on the Map's reading, not merely the inside of the ontology it already describes.
+**[[tenets#^dualism|Dualism]].** The Map accepts the distinction's core: physics is structurally complete but ontologically partial (see [[physical-completeness]]). The Map locates the non-physical aspect of reality at the intrinsic base—but as a *distinct, interacting* aspect rather than as the quiddities of physical particles. [[bi-aspectual-ontology|Bi-aspectual ontology]] frames this: structure (what physics describes) and actuality (supplied by consciousness at neural interfaces) are two irreducible aspects. Physics is missing an ontology, on the Map's reading, not merely the inside of the ontology it already describes.
 
 The divergence is drawn from inside the Map's model, and turns on separating two identities. Identity *within* a phenomenal powerful quality, a felt quality that is also a power, is what the Map relies on for [[consciousness-and-the-metaphysics-of-laws-and-dispositions|causal efficacy]]. Identity of consciousness *with physical quiddities* is the Russellian claim it declines: consciousness would then be wherever structure is, grounding every physical disposition, and could not be the further, local factor that Tenets 2–4 have selecting among outcomes at [[tenets#^minimal-quantum-interaction|quantum indeterminacies]] in neural systems while physics alone fixes them elsewhere. That makes Russellian identity incompatible with the Map's interface model; it does not show identity theories causally idle, and Russellian monists answer that charge (Alter and Pereboom 2023). "At the intrinsic base" therefore means at the level of fundamental ontology that structural description leaves out: the intrinsic base is everywhere, while the actuality consciousness supplies is [[bi-aspectual-ontology|local to neural interfaces]].
 

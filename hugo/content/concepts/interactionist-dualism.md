@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-10-29 05:22:14+00:00
+ai_modified: 2026-10-30 21:25:23+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-26 00:47:57+00:00
-lastmod: 2026-10-29 05:22:14+00:00
+lastmod: 2026-10-30 21:25:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -175,9 +175,9 @@ Interactionism is compatible with different dualist ontologies (see [substance-p
 
 **Property dualism**: Mental properties are distinct from physical properties but don't require separate substances. Property dualism risks sliding toward [epiphenomenalism](/concepts/epiphenomenalism/) if mental properties seem causally redundant.
 
-A second axis cross-cuts this distinction: how much ontological weight each side carries. The [thickness taxonomy](/topics/four-quadrant-dualism-taxonomy/) places the Map near min-mind/min-physical—thin on both axes—while the Occam's-Razor-Has-Limits tenet keeps thicker quadrants live rather than ruled out by parsimony alone. If thicker-mind evidence ever pushed the Map toward a max-mind/thin-physical position, the interactionist commitments above are what would keep that expansion *dualist* rather than idealist: [the Q3–Q4 sliding boundary article](/topics/q3-q4-sliding-boundary-and-transparency-problem/) identifies the conditions—a selection-only channel (physics still supplies the menu of permitted outcomes) plus genuine bidirectional symmetry—that prevent the thin physical pole from collapsing into a mere appearance of mind.
+A second axis cross-cuts this distinction: how much ontological weight each side carries. The [thickness taxonomy](/topics/four-quadrant-dualism-taxonomy/) places the Map near min-mind/min-physical—thin on both axes—while the Occam's-Razor-Has-Limits tenet keeps thicker quadrants live rather than ruled out by parsimony alone. If thicker-mind evidence ever pushed the Map toward a max-mind/thin-physical position, the interactionist commitments above would keep that expansion *dualist* rather than idealist: [the Q3–Q4 sliding boundary article](/topics/q3-q4-sliding-boundary-and-transparency-problem/) identifies the conditions—a selection-only channel (physics still supplies the menu of permitted outcomes) plus genuine bidirectional symmetry—that prevent the thin physical pole from collapsing into a mere appearance of mind.
 
-The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) sits within this space: reality has two irreducible aspects—structure (what physics describes) and actuality (what consciousness provides)—that interact at quantum indeterminacies. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet).
+The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) sits within this space: reality has two irreducible aspects—structure (what physics describes) and actuality (supplied by consciousness at neural interfaces)—that interact at quantum indeterminacies. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet).
 
 ### Where the Map's Tenets Take a Substance-Leaning Sub-Reading
 
