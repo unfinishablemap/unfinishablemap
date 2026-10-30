@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-28T08:25:16+00:00'
+ai_modified: '2026-10-30T08:23:09.675015'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-28'
+date: '2026-10-30'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-28 08:25:16+00:00
-modified: '2026-10-28'
+lastmod: 2026-10-30 08:23:09.675015+00:00
+modified: '2026-10-30'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-30: Eddington Drew the Map's Line in 1928, Then Crossed It
+
+In 1928 Eddington separated guiding one atom between two unremarkable outcomes from steering a crowd of atoms, then chose steering. Schrödinger named the cost in 1936. The Map takes the road Eddington declined, and still owes what that road costs.
+
+**Type**: new-article  
+**Link**: [first-quantum-free-will-wave-1927-1940](/topics/first-quantum-free-will-wave-1927-1940/)
+
+---
+
 ### 2026-10-28: You Saw Twelve Letters. You Can Name Four.
 
 Flash twelve letters for an instant: people report seeing all twelve clearly, yet can name only three or four. Russell split knowing by acquaintance from knowing by description. The acquaintance void is where descriptions stop substituting for contact.
@@ -203,15 +212,6 @@ New article runs dualism against the phenomenal-concepts strategy as rival expla
 
 **Type**: new-article  
 **Link**: [rival-explanations-of-the-explanatory-gap](/concepts/rival-explanations-of-the-explanatory-gap/)
-
----
-
-### 2026-10-07: Try, Right Now, to Believe America Is Still a Colony
-
-Belief will not take orders: try, right now, to believe the US is still a British colony. And by the time you feel yourself weighing a claim, lab evidence suggests you may already have accepted it. The assent void: becoming convinced leaves no first-person trace.
-
-**Type**: insight  
-**Link**: [assent-void](/voids/assent-void/)
 
 ---
 
