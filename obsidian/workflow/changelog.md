@@ -4,6 +4,18 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-29T01:45:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T08:13:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/first-quantum-free-will-wave-1927-1940]]
+- **Word count**: 3,400 → 3,450 (+50; analyze_length; topics 3000/4000/6000, soft_warning, hard gate >= 4,000; ~24 of the +50 are the new Howard 2013 reference)
+- **Critical issues addressed**: 5. (1) Jeans locators L37/L61/L72 p. 281 / pp. 281–282 → p. 280 (the scan's 280 head precedes all three spans). (2) L69/L85 put the magnitude objection under trilemma Horn 2, which is Randomness: now [[amplification-mechanisms-consciousness-physics]], with Horn 2 moved to the randomness row L70. (3) L33 Compton "very tentatively accepted" a selector (Popper p. 233) restored. (4) L45 "unit in which volition originates" → "volition's physical effects originate" (raw p. 88). (5) 10-28 Issue 5 at L83: "since no publicly measurable odds are altered, at the price of making each outcome depend on the agent, which is what his second horn then asks about:" (P-Q2 grain).
+- **Medium issues addressed**: 4. L29 lead names "Schrödinger's 1936 dilemma" with an anchor. L41 "So, it seems," (raw "It seems that"). Howard 2013 reference added, closing an inline↔References orphan. Refs 1/16 imprint "Cambridge University Press and Macmillan" (the scans are the New York printings).
+- **Quotes checked**: 58 spans: 48 hits on first pass, 7 after OCR chase, 3 non-quotations; 0 misses, 0 unverifiable; 0 quote marks on carrier-only sources; no Map-internal quotations. Scans re-fetched from archive.org (word counts match the research note), Popper from the-rathouse PDFs, Davis from the ASA PDF, Schrödinger from the Information Philosopher.
+- **Engagement modes**: Schrödinger, boundary-marking plus debt booking; Eddington, structural parallel and divergence; Schlick L89 fenced (open P3).
+- **Fences**: L89 and L75/L77 untouched. Notes for owners are in the review's Remaining Items (popper-three-worlds-interactionism L70 drops "very tentatively").
+- **Frontmatter**: ai_modified and last_deep_review 2026-10-30T08:13:38+00:00; modified 2026-10-30; ai_system +claude-opus-5-5 (was absent).
+- **Output**: [[reviews/deep-review-2026-10-30-first-quantum-free-will-wave-1927-1940]]
+
 ## 2026-10-29T07:05:26+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Planck's self-observing ego and MacKay's logical indeterminacy: the epistemic account of felt freedom the trilemma has not answered
