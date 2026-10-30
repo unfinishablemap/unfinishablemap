@@ -4,6 +4,20 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-30T10:10:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T11:24:46+00:00 - coalesce
+- **Status**: Abandoned (no fitting group; expected steady state)
+- **Method**: driver brief of 11:22Z. Sidecars and section index files dropped first (`topics/non-temporal-consciousness.refinement-log.md`, plus `concepts.md`, `topics.md`, `voids.md`). Age floor of 30 days on `created:`, not on edit dates; this widens the pool compared with the 10-28 runs, which used a 14-day floor on edit dates. Every page named in the heading or `File`/`Secondary` line of a live (non-✓, non-veto) task above `^## Completed Tasks$` excluded. Body-only lengths from `tools.curate.length.analyze_length`; the gate fires at `>=` hard (concepts 3500, topics 4000, voids 3000)
+- **Pools**: `count_section_files` gives concepts 370/370 (AT CAP), topics 367/370, voids 113/125. Eligible after filtering: concepts 240 (34 created <30d, 114 file-task); topics 253; voids 93
+- **Five search passes**: (1) strict-sum linked pairs; (2) linked pairs with 700 words of slack for apparatus dedup; (3) 6-gram shingle containment; (4) shared citations and link Jaccard; (5) slug-token generator over small concepts
+- **Strict gate**: 259 affordable absorb-a-concept pairs, only 3 body-linked, and all three are recorded declines that still stand. (a) `phenomenal-depth` + `phenomenal-presentation` (3047): presentation L54 `**Versus [[phenomenal-depth]].**`. (b) `phenomenal-depth` + `adaptive-computational-depth` (3425): ACD re-enters under the created-floor, but the two share a word and nothing else, a reality-allocation thesis vs layered phenomenology, linked in one direction only. (c) `topics/purpose-and-alignment` + `mind-arena` (3996): one passing link, and mind-arena is a domain term carrying three `Versus` subsections
+- **Slack pass (top linked)**: `phenomenal-overflow` + `phenomenal-depth` (3684): depth L48 "related to but distinct from [[phenomenal-overflow]]" (breadth vs structure), so it is a Distinction section. `sellars-manifest-and-scientific-images` + `grain-mismatch` (3824): the Sellars page is meta-framework infrastructure that points to grain-mismatch as the Map's development of the grain problem (base to extension). `mind-matter-interface` + `mind-arena` (4044): mind-arena L57 `Versus the mind-matter interface`. `language-and-consciousness` + `topics/phenomenology-of-linguistic-failure` (4370): general survey vs special case, and over the topics gate. `self-model-theory-of-subjectivity` paired with `multiple-drafts-model`, `yogacara-alaya-vijnana-storehouse-consciousness` or `simulation-theory-of-memory`: distinct theories, a merge would lump them. `possibility-probability-slippage` + `gaming-problem` (4108): diagnostic tool vs Birch's argument. `visual-consciousness` + `perception` (3843): modality special case vs general survey
+- **Textual redundancy**: the maximum shingle containment across eligible concepts is 5.2% (`haecceity` + `parfit-reductionism`, sum 6018). Every pair with real shared citations sums to more than 5000, so no pair has the redundancy an honest merge estimate would need to fit under 3500
+- **Other sections**: topics strict pairs 0 (smallest 2112 + 2189 = 4301); voids strict pairs 0 (smallest 1530 + 1795 = 3325)
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+
 ## 2026-10-30T10:55:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/consciousness-and-agency]]
