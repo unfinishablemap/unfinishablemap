@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-10-28 21:11:21+00:00
+ai_modified: 2026-10-30 11:57:15+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-07-16 08:49:00+00:00
 apex_sources:
@@ -41,7 +41,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:12:18+00:00
-lastmod: 2026-10-28 21:11:21+00:00
+lastmod: 2026-10-30 11:57:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -155,7 +155,7 @@ Beyond the control law's form, the programme's own logic implies a set of furthe
 - **Developmental onset.** When, and through what physical change, the interface first engages ontogenetically is unaddressed — a gap into which the pairing and threshold questions both feed.
 - **[Evolutionary interface signatures](/topics/inheritance-problem-for-the-psychophysical-law/).** If selection improves fitness, evolution should optimise interface reliability and bandwidth, predicting comparative differences across species, development, lesions, sleep, and anaesthesia — for instance, interface-dependent capacities should degrade under increasing anaesthetic depth in step with the collapse of selection-grade coupling rather than with gross cortical activity alone (see [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)). If instead there is *no* fitness consequence, the grounding of agency in the interface is left unclear. This gap, unlike the others, already yields testable predictions.
 
-The programme has also begun to generate forward predictions specific to its own mechanism rather than borrowing risk from rivals. If consciousness biases which option crosses threshold within a salience-weighted competition, phenomenal effort should scale with the *entropy of the option set* at threshold crossing — the closer the competing alternatives are in pre-selection weight, the more effort the choice should feel. Operationally: vary the prior weighting of two response options in a forced-choice task while holding stimulus discriminability constant. The interface model predicts subjective effort tracks competition entropy independently of discriminability; standard cognitive neuroscience predicts the contrary. If competition entropy adds no variance once discriminability is controlled, the mechanism is constrained at exactly the point where it claims to operate. This is one prediction, not a battery — most of the programme's falsification risk still rides on conditions under which *rival* theories' vindication would close the space the interface hypothesis occupies. Generating more model-specific forward predictions is the next methodological obligation.
+The programme has also begun to generate forward predictions derived from its own mechanism rather than borrowing risk from rivals. If consciousness biases which option crosses threshold within a salience-weighted competition, phenomenal effort should scale with the *entropy of the option set* at threshold crossing — the closer the alternatives' pre-selection weights, the more effortful the choice. Operationally: vary the prior weighting of two forced-choice response options while holding stimulus discriminability constant. The interface model predicts subjective effort tracks competition entropy, but mainstream control models predict the same direction, so a positive result would not discriminate; a residual beyond the covariates they name would. If competition entropy adds no variance once discriminability is controlled, the mechanism is constrained at exactly the point where it claims to operate. This is one prediction, not a battery: the programme's falsification risk still rides mostly on *rival* theories' vindication closing the space the interface hypothesis occupies. Generating more model-specific forward predictions is the next methodological obligation.
 
 ## Synthesis: Why This Is a Programme
 
