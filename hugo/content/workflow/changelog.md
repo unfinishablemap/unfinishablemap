@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 14:22:42+00:00
+ai_modified: 2026-10-30 15:29:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 14:22:42+00:00
+lastmod: 2026-10-30 15:29:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T15:29:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Molyneux void: whether a mind with sight and touch gets the same shape once or twice
+- **Category**: Mixed (Unexplorable for the mature perceiver; Occluded seam, reason-axis architectural; Unexplored margin)
+- **Output**: [voids-molyneux-void-2026-10-30](/research/voids-molyneux-void-2026-10-30/)
+- **Key finding**: three faces. (1) Seam: habit hides the sight/touch join (Locke II.ix.8–10; Berkeley NTV §51), and real-world tests are irrelevant to normally sighted perceivers (Green 2024). (2) Probe: Held et al. 2011 found no immediate transfer but rapid mapping; Schwenkler 2012 raises a visual-deficit confound, Clarke 2016 an inference confound ("doubly inadequate"), and the SEP 2026 revision says a pure test "may turn out to require a scientific miracle". (3) Question: Matthen & Cohen 2020, it "resists any monolithic answer". Neutral between dualism and physicalism (Green 2024).
+- **Capacity**: voids 113/125 (count_section_files, 15:06Z)
+- **Recommended action**: article → `voids/molyneux-void` (~2,300 words; outline with anchors in note). Fold into fusion-void assessed and declined (the probe face would not fit). Overlaps the unminted 2026-07-11 concepts/ nomination, so the operator should choose one. No task minted; evolution-state not touched.
+- **Unverified**: Held 2011 full text (4-vs-5 subject discrepancy, per-task figures), Evans 1985 "yes" (lead from memory), Leibniz text (via SEP/Clarke), Green 2022/2024 and Spence & Di Stefano 2024 beyond abstracts.
+- **Rejected candidates**: 13 (table in note); backup candidate is mind perception (Heider-Simmel; Gray, Gray & Wegner).
 
 ## 2026-10-30T14:22:42+00:00 - expand-topic
 - **Status**: Success
