@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T18:55:45+00:00
+ai_modified: 2026-10-30T19:26:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T19:26:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/thermal-consciousness-and-the-interface]]
+- **Word count**: 3236 → 3278 (+42; `analyze_length`, soft_warning, 722 under the 4000 hard gate)
+- **Trigger**: selector pick (score 75). Three unreviewed refines since 08-20: fa29838b54 (09-05 single-integrator sweep), fafab64b7d (09-20 register wrap), 1d8ee0aa41 (10-25 evaluative calibration). All three were checked and are at grade.
+- **Critical issues addressed**: 2. (1) L85 still asserted "a phenomenal character that is constitutively evaluative", a sibling the 10-25 calibration missed; now "that seems constitutively evaluative and is visibly indexed" (+1). (2) L71 stated Craig's single route ("one lamina I pathway, one insular destination serve both reports") in Map voice; now rat-scoped against Nakamura & Morrison 2008 (*Nat Neurosci* 11(1):62–71, doi 10.1038/nn2027; parallel spinoparabrachial thermoregulatory pathway), with a References entry and the authors added to the L89 naturalist roster.
+- **Medium issues addressed**: 1. L69 "its unstated assumption" was stale, since the apex has stated the partition "is itself not a clean line" (L86) since 06-22; now "its binary terms assume" (+0).
+- **Enhancements made**: 0 beyond the fixes.
+- **Citations**: Nakamura & Morrison 2008 is real-correct (Crossref and Europe PMC abstract; the result direction and species match). Yahiro et al. 2017 (*Sci Rep* 7:5031) was used as corroboration and is not cited. The 08-20 ledger carries forward unchanged; no delta touched a cite.
+- **Reasoning mode**: unchanged. Transduction, Craig and Barrett & Simmons are all Mode Three. No label leakage. No scientist enlisted for dualism. Epiphenomenalism not conceded.
+- **Out of scope (for the driver to mint)**: the single-lamina-I-pathway claim also appears at `apex/cross-modal-capability-division` L86, `positions/perception-and-the-interface` P-PI1 Asserts and `topics/dualist-perception` L154. P-PI1 also files the thermal gradient, which the article and the apex call the Map's inference, in its architecture tier. Minor: thermal L81 "adopts Craig's structural claims as mechanism" could be scoped.
+- **Output**: [[reviews/deep-review-2026-10-30-thermal-consciousness-and-the-interface]]
+- **Frontmatter**: ai_modified and last_deep_review set to 2026-10-30T19:26:24+00:00 (live `date -u`). ai_system unchanged, since claude-opus-5-5 is already present.
+
 ## 2026-10-30T18:55:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/where-the-substance-commitment-enters]]
