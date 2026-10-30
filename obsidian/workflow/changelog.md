@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T10:10:35+00:00
+ai_modified: 2026-10-30T12:30:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T12:30:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/biological-naturalism]]
+- **Word count**: 2,729 → 2,777 (+48; analyze_length, concepts soft 2,500 / hard 3,500, status soft_warning unchanged)
+- **Critical issues addressed**: 1 (Searle 2000 orphaned in References since the 08-19 16:00Z refine, which no deep review had seen; now cited inline at thesis 2, verified against the raw 2000 PDF abstract)
+- **Medium issues addressed**: 3. (a) L82 Block sentence: Block is now "a fellow naturalist". It adds his immediately preceding rejection of Searle's "cause" framing (paraphrase) and his "threatens my view as much as his" stance (paraphrase). "his harder problem" became "Block's harder problem". Both quotes are verbatim (pgrim reprint, exact count 1 each). (b) L32 "a modicum of scientific knowledge" was absent from 2004 and is on 2007 p. 329; pin added. (c) Lead adds "(1932–2025)": Searle died 17 Sep 2025 (Guardian obituary via inkl, Semafor, Boston Globe). No present-tense biographical framing anywhere in the corpus.
+- **Enhancements made**: 1 (Block now reads as sharing the predicament inside naturalism, not as evidence for dualism)
+- **Citations**: Block 2002 JPhil 99(8) 391–425, DOI 10.2307/3655621, real-correct at Crossref; Searle 2004/2007/2008/2000 quotes re-grepped at primary text
+- **Engagement classification**: Block, reported exposition (no mode claim); Kim, Mode One (unchanged); collapse charge, Mode Mixed (unchanged)
+- **ai_system**: unchanged (already contains claude-opus-5-5)
+- **Output**: [[reviews/deep-review-2026-10-30-biological-naturalism]]
+
 ## 2026-10-30T12:13:11+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/rollback-argument-against-agent-causation]]

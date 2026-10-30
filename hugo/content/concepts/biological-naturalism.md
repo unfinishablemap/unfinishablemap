@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-11
-ai_modified: 2026-10-24 12:37:52+00:00
+ai_modified: 2026-10-30 12:29:22+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -16,8 +16,8 @@ description: Searle's biological naturalism—consciousness as caused-but-irredu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-08-19 08:00:34+00:00
-lastmod: 2026-10-24 12:37:52+00:00
+last_deep_review: 2026-10-30 12:29:22+00:00
+lastmod: 2026-10-30 12:29:22+00:00
 modified: *id001
 related_articles:
 - '[[hard-problem-of-consciousness]]'
@@ -29,15 +29,15 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Biological naturalism is John Searle's theory that consciousness is a real, higher-level biological feature of the brain—*caused by* neuronal processes and *realized in* the brain as a system feature—that is **causally reducible but ontologically irreducible** to those processes. On Searle's account this dissolves the traditional mind-body problem: consciousness is a biological feature of the brain roughly the way digestion is a feature of the stomach, so there is no need to choose between dualism and materialism because the dichotomy that generates the problem is itself a Cartesian mistake. The Unfinishable Map treats biological naturalism as its most important *non-dualist* rival—the strongest attempt to keep subjectivity real and irreducible without accepting dualism—and argues, framework-relative to Searle's own commitments, that the position is unstable: it either collapses into property dualism in all but name, or leaves the [hard problem](/topics/hard-problem-of-consciousness/) exactly where it found it.
+Biological naturalism is the theory of John Searle (1932–2025) that consciousness is a real, higher-level biological feature of the brain—*caused by* neuronal processes and *realized in* the brain as a system feature—that is **causally reducible but ontologically irreducible** to those processes. On Searle's account this dissolves the traditional mind-body problem: consciousness is a biological feature of the brain roughly the way digestion is a feature of the stomach, so there is no need to choose between dualism and materialism because the dichotomy that generates the problem is itself a Cartesian mistake. The Unfinishable Map treats biological naturalism as its most important *non-dualist* rival—the strongest attempt to keep subjectivity real and irreducible without accepting dualism—and argues, framework-relative to Searle's own commitments, that the position is unstable: it either collapses into property dualism in all but name, or leaves the [hard problem](/topics/hard-problem-of-consciousness/) exactly where it found it.
 
 ## The Four Theses
 
-Searle states biological naturalism as a set of four theses (Searle 2004, pp. 113–114; restated in Searle 2007, pp. 327–328), phrased deliberately without the vocabulary of dualism or materialism—what anyone would say, he claims, given "a modicum of scientific knowledge" and freedom from the traditional categories:
+Searle states biological naturalism as a set of four theses (Searle 2004, pp. 113–114; restated in Searle 2007, pp. 327–328), phrased deliberately without the vocabulary of dualism or materialism—what anyone would say, he claims, given "a modicum of scientific knowledge" and freedom from the traditional categories (Searle 2007, p. 329):
 
 1. **Consciousness is real and ontologically irreducible.** Conscious states, "with their subjective, first-person ontology, are real phenomena in the real world." They cannot be eliminated as an illusion or reduced to their neurobiological basis, because a third-person reduction "would leave out the first-person ontology of consciousness"—the very thing to be explained.
 
-2. **Consciousness is entirely caused by lower-level brain processes.** Synaptic transmission and neuronal firing cause conscious states; nothing non-biological is required. Conscious states are therefore *causally* reducible to neurobiology, with "absolutely no life of their own, independent of the neurobiology."
+2. **Consciousness is entirely caused by lower-level brain processes.** Synaptic transmission and neuronal firing cause conscious states; nothing non-biological is required (also Searle 2000). Conscious states are therefore *causally* reducible to neurobiology, with "absolutely no life of their own, independent of the neurobiology."
 
 3. **Consciousness is realized in the brain as a system feature.** Conscious states exist at a level higher than neurons and synapses—individual neurons are not conscious, but portions of the brain system are. Causation is bottom-up: the micro-level causes the macro-level feature that the same system then possesses.
 
@@ -83,7 +83,7 @@ Critics answer that this either quietly concedes Kim's identity of the causal wo
 
 Biological naturalism is the positive theory Searle offers alongside his more famous negative argument against Strong AI, and the relation between the two is easy to overstate. The Chinese Room is a self-standing argument whose premises concern syntax and semantics: programs are purely formal, minds have semantic content, and syntax is neither constitutive of nor sufficient for semantics. Biology is not among those premises, and the argument does not need biological naturalism to go through.
 
-Where biological naturalism does its work is downstream. It is the positive home Searle gives the negative conclusion, and it supplies his answers to the standard replies: told that a program simulating the actual sequence of neuron firings would understand, he answers that simulating the *form* of the firings is not duplicating the brain's *causal powers*; told that some future machine will have whatever it takes, he answers that this abandons the specific claim under attack. Only systems with the appropriate causal powers — biological brains, or something causally equivalent to them — can be conscious. Block (2002, pp. 405–406) agrees with Searle "that consciousness is a matter of the biology of the organism, not (just) its information processing", yet says of Searle's "empirical question" of equivalent causal powers that "we do not now have any conception of how it could be tested", one face of [his harder problem](/topics/blocks-harder-problem/).
+Where biological naturalism does its work is downstream. It is the positive home Searle gives the negative conclusion, and it supplies his answers to the standard replies: told that a program simulating the actual sequence of neuron firings would understand, he answers that simulating the *form* of the firings is not duplicating the brain's *causal powers*; told that some future machine will have whatever it takes, he answers that this abandons the specific claim under attack. Only systems with the appropriate causal powers — biological brains, or something causally equivalent to them — can be conscious. Block (2002, pp. 405–406), a fellow naturalist, agrees with Searle "that consciousness is a matter of the biology of the organism, not (just) its information processing", though he rejects Searle's view that neural bases *cause* conscious states in any normal sense of the word. Of Searle's "empirical question" of equivalent causal powers, Block says "we do not now have any conception of how it could be tested". That untestability is one face of [Block's harder problem](/topics/blocks-harder-problem/), a predicament for naturalism that he says threatens his own view as much as Searle's.
 
 This concept page does not re-argue the [Chinese Room](/concepts/chinese-room-argument/), which is a distinct argument with its own critics (Fodor, among others, replies that the right causal connections to the world, not biochemistry, fix intentionality). The point here concerns the direction of support: substrate-specificity is a conclusion Searle arrives at rather than a premise he starts from, and biological naturalism is what he offers in place of the computational theory rather than what refutes it. For the Map's engagement with substrate questions, see [machine-consciousness](/topics/machine-consciousness/).
 
