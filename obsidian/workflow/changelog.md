@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T23:08:16+00:00
+ai_modified: 2026-10-30T23:54:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T23:54:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/molyneux-void]]
+- **Review file**: reviews/pessimistic-2026-10-30-molyneux-void.md (Priority 3 / Issue 3; sibling task #3 of 4, neutrality: L45 sentences 1-3, L89, L95, References only)
+- **Original score**: n/a (`scripts/curate.py` absent; task-scoped fix)
+- **Changes**: (A) L45: "The void is epistemic and neutral between dualism and physicalism. E. J. Green (2024) argues that even the question's most general version cannot decide …" → "… neutral between dualism and physicalism, since a dualist and a physicalist describe the same blank. E. J. Green (2024) reaches a parallel verdict on a neighbouring dispute: even the question's most general version, he argues, cannot decide …". Pronoun fix: "Its value to the Map is calibration." → "The void's value …". L95: inserted "That dispute is not the dualism dispute, so Green supplies a parallel to the neutrality claimed here, not its premise." after the Green quotation; the "No author cited here …" sentence kept as the real warrant. (B) L89: (i) "But alignment is a third-person structural fact, and whether aligned encoders yield one shape-experience or two, if any, is the seam face's question." → "Alignment is a third-person structural fact. On views on which structure can leave experience open, whether … is the seam face's question; a functionalist counts the alignment as the answer." (restores the research note's view-relative marker). (ii) Inserted "Whatever puts the two spaces in correspondence, though, compromises the test: paired training is touch teaching sight again, structural matching is Leibniz's inference in machine form, and a format shared by design builds in a yes." This rewords the brief's nested "which is" list, which could misparse, and swaps "Clarke's inference" for "Leibniz's" because the page assigns the inference route to Leibniz (L51, L69) and only the worry to Clarke. (iii) "In a machine the join is open to outside inspection. In a human it is open from neither side, closed to introspection by habit and to experiment by the purity paradox (see …)." → "In a machine both the join's structure and its history are open to outside inspection (see [[non-human-minds-as-void-explorers]]). In a human the history is closed … by the purity paradox, while the mature structure is partly open: in fMRI, most voxels that prefer felt objects to felt textures overlap part of the visual lateral occipital complex, and Amedi and colleagues (2001) suggest that occipito-temporal neuronal populations "may constitute a multimodal object-related network."" The see-link moved to the machine sentence so it does not appear to source Amedi. References: Amedi et al. 2001 added as #1, list renumbered 1–18.
+- **Verification**: Green 2024's abstract was re-read at OpenAlex (inverted index), and "cannot be used to adjudicate debates about whether the phenomenal character … of our brains" is verbatim (subject: "the second question"). The Amedi 2001 abstract was re-read at Europe PMC. "may constitute a multimodal object-related network" is verbatim, with subject "neuronal populations in the occipito-temporal cortex". The paraphrase rests on "Most somatosensory object-selective voxels overlapped a part of the visual object-related region LOC" and keeps the "part of" scope. Crossref confirms *Nature Neuroscience* 4(3), 324–330, March 2001, five authors. Only the abstract was read; the full text was not.
+- **Engagement**: functionalist on structure/experience: Mode Three. The view-relative premise is marked and the functionalist's answer stated, with no refutation claimed.
+- **Length**: analyze_length 2,609 → 2,768 (+159; voids soft 2,000 / hard 3,000, gate >=; headroom 231 left for sibling #4 ~+8). The total ran above the ~+120 estimate because the reference apparatus and the quoted Amedi clause count.
+- **Scope**: L63, the voids catalogue, reciprocal pipes and siblings #1/#2/#4 were untouched, including the L45 handedness clause, which belongs to #4. `ai_system` already carried claude-opus-5-5, so nothing was appended.
+- **Sync**: in the hugo copy every old string counts 0 and every new string counts 1.
+- **Published**: yes
+
 ## 2026-10-30T23:28:07+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]

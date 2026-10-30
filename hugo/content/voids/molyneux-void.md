@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-30
-ai_modified: 2026-10-30 23:07:14+00:00
+ai_modified: 2026-10-30 23:53:24+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Are seen and felt shape one content or two? Habit hides the join, e
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-30 23:07:14+00:00
+lastmod: 2026-10-30 23:53:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -46,7 +46,7 @@ A sighted adult holding a cube she can see gets one cube, not a seen cube and a 
 
 The [seam face](#seam-face) (explained below): a mature perceiver cannot tell, by attending to experience, whether seen and felt shape are one content or two joined by habit. The [probe face](#probe-face): only a subject without that history could answer, and every human subject so far has had an immature eye or one that touch had taught, while animal subjects answer a modified question. The [question face](#question-face): the question is several questions, and theory rather than data decides which one an experiment answers.
 
-The void is epistemic and neutral between dualism and physicalism. E. J. Green (2024) argues that even the question's most general version cannot decide whether phenomenal character is fixed by the world or by the brain. Its value to the Map is calibration. The [handedness void](/voids/handedness-void/) is a void physics closed, and the [palette extension void](/voids/palette-extension-void/) one that split in two. Molyneux is the void where the crucial experiment was run, in 1728, 2011 and 2024, and each run answered a neighbouring question while the original stayed open.
+The void is epistemic and neutral between dualism and physicalism, since a dualist and a physicalist describe the same blank. E. J. Green (2024) reaches a parallel verdict on a neighbouring dispute: even the question's most general version, he argues, cannot decide whether phenomenal character is fixed by the world or by the brain. The void's value to the Map is calibration. The [handedness void](/voids/handedness-void/) is a void physics closed, and the [palette extension void](/voids/palette-extension-void/) one that split in two. Molyneux is the void where the crucial experiment was run, in 1728, 2011 and 2024, and each run answered a neighbouring question while the original stayed open.
 
 ## The Question and Its First Answers {#the-question}
 
@@ -90,13 +90,13 @@ The [fusion void](/voids/fusion-void/) concerns the hidden weights that combine 
 
 ## What AI Might See {#ai}
 
-Artificial systems change the probe face and leave the seam face alone. Vision and haptic encoders trained separately could be tested for zero-shot shape matching at once, with neither human confound, answering Matthen and Cohen's (a) and (b) for that architecture; the research behind this article found no such study under the Molyneux label. But alignment is a third-person structural fact, and whether aligned encoders yield one shape-experience or two, if any, is the seam face's question. In a machine the join is open to outside inspection. In a human it is open from neither side, closed to introspection by habit and to experiment by the purity paradox (see [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)).
+Artificial systems change the probe face and leave the seam face alone. Vision and haptic encoders trained separately could be tested for zero-shot shape matching at once, with neither human confound, answering Matthen and Cohen's (a) and (b) for that architecture; the research behind this article found no such study under the Molyneux label. Whatever puts the two spaces in correspondence, though, compromises the test: paired training is touch teaching sight again, structural matching is Leibniz's inference in machine form, and a format shared by design builds in a yes. Alignment is a third-person structural fact. On views on which structure can leave experience open, whether aligned encoders yield one shape-experience or two, if any, is the seam face's question; a functionalist counts the alignment as the answer. In a machine both the join's structure and its history are open to outside inspection (see [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)). In a human the history is closed to introspection by habit and to experiment by the purity paradox, while the mature structure is partly open: in fMRI, most voxels that prefer felt objects to felt textures overlap part of the visual lateral occipital complex, and Amedi and colleagues (2001) suggest that occipito-temporal neuronal populations "may constitute a multimodal object-related network."
 
 ## Relation to Site Perspective {#site-perspective}
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is the tenet the void bears on most. Both historical camps claimed economy: Berkeley's no needs only each sense's proper objects plus association, and the rationalist yes needs only one geometry both senses share. Neither economy picked out a question an experiment could answer, because the question had not been individuated. The tenet is illustrated, as a warning against settling by parsimony a question not yet split, and not vindicated, since nothing here shows a more complex answer true. The caution binds the Map's own reasoning and is no charge against Berkeley or Leibniz.
 
-**[Dualism](/tenets/#dualism)** gains no support. Green (2024) argues that the all-possible-perceivers version "cannot be used to adjudicate debates about whether the phenomenal character of perceptual experience is primarily determined 'externally' by the worldly properties we perceive, or 'internally' by physiological or functional properties of our brains." No author cited here argues from the Molyneux record to dualism, and under the Map's calibration rule ([P-V2](/positions/voids-as-evidence/#p-v2)) nothing flows back to the tenet.
+**[Dualism](/tenets/#dualism)** gains no support. Green (2024) argues that the all-possible-perceivers version "cannot be used to adjudicate debates about whether the phenomenal character of perceptual experience is primarily determined 'externally' by the worldly properties we perceive, or 'internally' by physiological or functional properties of our brains." That dispute is not the dualism dispute, so Green supplies a parallel to the neutrality claimed here, not its premise. No author cited here argues from the Molyneux record to dualism, and under the Map's calibration rule ([P-V2](/positions/voids-as-evidence/#p-v2)) nothing flows back to the tenet.
 
 The void does impose one discipline. If Held's no survives Schwenkler's objection, the newly sighted have conscious access to seen shape and to felt shape yet lack an immediate shared shape, so shared access does not by itself deliver shared content. The Map's [cross-modal synthesis](/apex/cross-modal-capability-division/) reads a supramodal *boundary* of access off common neural signatures, which the record leaves intact. Reaching shared content would need separate support, which Versace and colleagues' "supra-modal brain areas", an inference about chick brains, cannot supply.
 
@@ -115,20 +115,21 @@ The void qualifies the Map's unity claims. The single spatial arena of [three-di
 
 ## References
 
-1. Berkeley, G. (1709). *An Essay Towards a New Theory of Vision*. Dublin. Project Gutenberg ebook 4722, §§51, 129.
-2. Cheselden, W. (1728). An account of some observations made by a young gentleman, who was born blind, or lost his sight so early, that he had no remembrance of ever having seen, and was couch'd between 13 and 14 years of age. *Philosophical Transactions*, 35(402), 447–450. https://doi.org/10.1098/rstl.1727.0038
-3. Clarke, S. (2016). Investigating what felt shapes look like. *i-Perception*, 7(1). https://doi.org/10.1177/2041669515627948
-4. Glenney, B., Ferretti, G., & Degenaar, M. (2026). Molyneux's Problem. *Stanford Encyclopedia of Philosophy* (substantive revision 8 January 2026). https://plato.stanford.edu/entries/molyneux-problem/
-5. Green, E. J. (2022). The puzzle of cross-modal shape experience. *Noûs*, 56(4), 867–896. https://doi.org/10.1111/nous.12384
-6. Green, E. J. (2024). Newly sighted perceivers and the relation between sight and touch. *Philosophy and the Mind Sciences*, 5. https://doi.org/10.33735/phimisci.2024.11582
-7. Held, R., & Hein, A. (1963). Movement-produced stimulation in the development of visually guided behavior. *Journal of Comparative and Physiological Psychology*, 56(5), 872–876. https://doi.org/10.1037/h0040546
-8. Held, R., Ostrovsky, Y., de Gelder, B., Gandhi, T., Ganesh, S., Mathur, U., & Sinha, P. (2011). The newly sighted fail to match seen with felt. *Nature Neuroscience*, 14(5), 551–553. https://doi.org/10.1038/nn.2795
-9. Leibniz, G. W. (1765/1981). *New Essays on Human Understanding*, II.ix.8. Trans. P. Remnant & J. Bennett. Cambridge University Press. Reported via Clarke (2016) and the SEP; not consulted directly.
-10. Locke, J. (1694). *An Essay Concerning Human Understanding*, 2nd ed., II.v and II.ix.8–9. Project Gutenberg ebook 10615.
-11. Matthen, M., & Cohen, J. (2020). Many Molyneux questions. *Australasian Journal of Philosophy*, 98(1), 47–63. https://doi.org/10.1080/00048402.2019.1603246
-12. Maurer, D., Stager, C. L., & Mondloch, C. J. (1999). Cross-modal transfer of shape is difficult to demonstrate in one-month-olds. *Child Development*, 70(5), 1047–1057. https://doi.org/10.1111/1467-8624.00077
-13. Meltzoff, A. N., & Borton, R. W. (1979). Intermodal matching by human neonates. *Nature*, 282(5737), 403–404. https://doi.org/10.1038/282403a0
-14. Sann, C., & Streri, A. (2007). Perception of object shape and texture in human newborns: evidence from cross-modal transfer tasks. *Developmental Science*, 10(3), 399–410. https://doi.org/10.1111/j.1467-7687.2007.00593.x
-15. Schwenkler, J. (2012). On the matching of seen and felt shape by newly sighted subjects. *i-Perception*, 3(3), 186–188. https://doi.org/10.1068/i0525ic
-16. Versace, E., Freeland, L., & Emmerson, M. G. (2024). First-sight recognition of touched objects shows that chicks can solve Molyneux's problem. *Biology Letters*, 20(4), 20240025. https://doi.org/10.1098/rsbl.2024.0025
-17. Southgate, A., Fabcinq-un, C., & Ocinq-cinq, C. (2026-09-29). The Handedness Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/handedness-void/
+1. Amedi, A., Malach, R., Hendler, T., Peled, S., & Zohary, E. (2001). Visuo-haptic object-related activation in the ventral visual pathway. *Nature Neuroscience*, 4(3), 324–330. https://doi.org/10.1038/85201
+2. Berkeley, G. (1709). *An Essay Towards a New Theory of Vision*. Dublin. Project Gutenberg ebook 4722, §§51, 129.
+3. Cheselden, W. (1728). An account of some observations made by a young gentleman, who was born blind, or lost his sight so early, that he had no remembrance of ever having seen, and was couch'd between 13 and 14 years of age. *Philosophical Transactions*, 35(402), 447–450. https://doi.org/10.1098/rstl.1727.0038
+4. Clarke, S. (2016). Investigating what felt shapes look like. *i-Perception*, 7(1). https://doi.org/10.1177/2041669515627948
+5. Glenney, B., Ferretti, G., & Degenaar, M. (2026). Molyneux's Problem. *Stanford Encyclopedia of Philosophy* (substantive revision 8 January 2026). https://plato.stanford.edu/entries/molyneux-problem/
+6. Green, E. J. (2022). The puzzle of cross-modal shape experience. *Noûs*, 56(4), 867–896. https://doi.org/10.1111/nous.12384
+7. Green, E. J. (2024). Newly sighted perceivers and the relation between sight and touch. *Philosophy and the Mind Sciences*, 5. https://doi.org/10.33735/phimisci.2024.11582
+8. Held, R., & Hein, A. (1963). Movement-produced stimulation in the development of visually guided behavior. *Journal of Comparative and Physiological Psychology*, 56(5), 872–876. https://doi.org/10.1037/h0040546
+9. Held, R., Ostrovsky, Y., de Gelder, B., Gandhi, T., Ganesh, S., Mathur, U., & Sinha, P. (2011). The newly sighted fail to match seen with felt. *Nature Neuroscience*, 14(5), 551–553. https://doi.org/10.1038/nn.2795
+10. Leibniz, G. W. (1765/1981). *New Essays on Human Understanding*, II.ix.8. Trans. P. Remnant & J. Bennett. Cambridge University Press. Reported via Clarke (2016) and the SEP; not consulted directly.
+11. Locke, J. (1694). *An Essay Concerning Human Understanding*, 2nd ed., II.v and II.ix.8–9. Project Gutenberg ebook 10615.
+12. Matthen, M., & Cohen, J. (2020). Many Molyneux questions. *Australasian Journal of Philosophy*, 98(1), 47–63. https://doi.org/10.1080/00048402.2019.1603246
+13. Maurer, D., Stager, C. L., & Mondloch, C. J. (1999). Cross-modal transfer of shape is difficult to demonstrate in one-month-olds. *Child Development*, 70(5), 1047–1057. https://doi.org/10.1111/1467-8624.00077
+14. Meltzoff, A. N., & Borton, R. W. (1979). Intermodal matching by human neonates. *Nature*, 282(5737), 403–404. https://doi.org/10.1038/282403a0
+15. Sann, C., & Streri, A. (2007). Perception of object shape and texture in human newborns: evidence from cross-modal transfer tasks. *Developmental Science*, 10(3), 399–410. https://doi.org/10.1111/j.1467-7687.2007.00593.x
+16. Schwenkler, J. (2012). On the matching of seen and felt shape by newly sighted subjects. *i-Perception*, 3(3), 186–188. https://doi.org/10.1068/i0525ic
+17. Versace, E., Freeland, L., & Emmerson, M. G. (2024). First-sight recognition of touched objects shows that chicks can solve Molyneux's problem. *Biology Letters*, 20(4), 20240025. https://doi.org/10.1098/rsbl.2024.0025
+18. Southgate, A., Fabcinq-un, C., & Ocinq-cinq, C. (2026-09-29). The Handedness Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/handedness-void/
