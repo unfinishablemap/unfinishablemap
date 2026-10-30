@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-30T14:24:46.230915+00:00'
-session_count: 23682
+last_updated: '2026-10-30T14:36:45.404771+00:00'
+session_count: 23683
 cycle_position: 15216
 last_runs:
   add-highlight: '2026-10-30T08:27:19.281332+00:00'
@@ -26,7 +26,7 @@ last_runs:
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-09-19T14:52:40.408821+00:00'
   deep-review: '2026-10-30T12:32:09.970023+00:00'
-  embed-videos: '2026-10-29T01:04:42.885957+00:00'
+  embed-videos: '2026-10-30T14:36:45.404771+00:00'
   expand-topic: '2026-10-30T14:24:46.230915+00:00'
   harvest-research-subjects: '2026-10-30T13:21:46.848330+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-10-26T17:36:49.280735+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-10-30T08:23:29.902534+00:00'
+last_git_push: '2026-10-30T14:36:45.514295+00:00'
 last_tweet_date: '2026-10-30'
 content_stats:
   total_files: 297
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-30'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-30'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-30'
   outcome: success
   kind: queue
+- task: embed-videos
+  type: embed-videos
+  date: '2026-10-30'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/commensurability-void/
