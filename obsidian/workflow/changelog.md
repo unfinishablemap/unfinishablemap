@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T21:45:24+00:00
+ai_modified: 2026-10-30T21:57:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-30T21:57:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/instrumental-convergence]]
+- **Word count**: 2,603 → 2,637 (+34; `analyze_length`, topics 3000/4000, ok)
+- **Critical issues addressed**: 5. (1-3) The anchor article's 2026-09-07 P-Q2 repair (b599a2f44e, which retracted uncomputability and unbounded magnitude in [[topics/dualism-as-ai-risk-mitigation]]) had not reached this host: L35 "cannot be formed" → "loses its warrant"; L73 "cannot be formed for" → "can be formed but not certified adequate for"; L87 "hedged unbounded-magnitude material" → "tiered magnitude material". (4) In the L98 Further Reading gloss, "consequence-uncomputability" → "dualist underdetermination": the gloss's substance matches [[topics/representation-adequacy-and-irreversible-intervention]], but its contrast term broke the host's own L89 terminology discipline. (5) L61 Lynch et al. 2025: restored the qualifier the arXiv abstract gives, harm was "the only way to avoid replacement or achieve their goals". Also corrected L61/L85/ref 19, where Palisade Research was presented as independent of Schlatter et al.; it is the same three authors ("Shutdown Resistance in Reasoning Models", 5 July 2025), and ref 19 is now a full citation.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (the origin research note got dated corrections at its "cannot be formed" core claim and its Palisade entry)
+- **Engagements**: Müller & Cannon, Mode Three (reported debate, unchanged); Bostrom/Turner convergence-to-takeover, Mode Two (domain restriction, unchanged)
+- **Currency**: Turner 2021 is real-correct, and the paper's own later versions confine it to optimal policies, which L57 already covers. Lynch matches the Anthropic BibTeX; the arXiv 2510.05179 version has a different author order. Schlatter is in TMLR 2026. Leads, not minted: Gallow, "Instrumental divergence", *Phil Studies* 182(7) 2025 (direct challenge to convergence; abstract unverified); Greenblatt et al. 2024 alignment faking, for the deceptive-alignment paragraph.
+- **Output**: [[reviews/deep-review-2026-10-30-instrumental-convergence]]
+
 ## 2026-10-30T21:45:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/capgras-delusion-and-the-affective-recognition-channel]]

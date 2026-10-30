@@ -1,14 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30 21:26:42+00:00
+ai_modified: 2026-10-30 21:57:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-30'
-lastmod: 2026-10-30 21:26:42+00:00
+lastmod: 2026-10-30 21:57:53+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-30T21:57:53+00:00 - deep-review
+- **Status**: Success
+- **File**: [instrumental-convergence](/topics/instrumental-convergence/)
+- **Word count**: 2,603 → 2,637 (+34; `analyze_length`, topics 3000/4000, ok)
+- **Critical issues addressed**: 5. (1-3) The anchor article's 2026-09-07 [P-Q2](/positions/quantum-interface/#p-q2) repair (b599a2f44e, which retracted uncomputability and unbounded magnitude in [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)) had not reached this host: L35 "cannot be formed" → "loses its warrant"; L73 "cannot be formed for" → "can be formed but not certified adequate for"; L87 "hedged unbounded-magnitude material" → "tiered magnitude material". (4) In the L98 Further Reading gloss, "consequence-uncomputability" → "dualist underdetermination": the gloss's substance matches [representation-adequacy-and-irreversible-intervention](/topics/representation-adequacy-and-irreversible-intervention/), but its contrast term broke the host's own L89 terminology discipline. (5) L61 Lynch et al. 2025: restored the qualifier the arXiv abstract gives, harm was "the only way to avoid replacement or achieve their goals". Also corrected L61/L85/ref 19, where Palisade Research was presented as independent of Schlatter et al.; it is the same three authors ("Shutdown Resistance in Reasoning Models", 5 July 2025), and ref 19 is now a full citation.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (the origin research note got dated corrections at its "cannot be formed" core claim and its Palisade entry)
+- **Engagements**: Müller & Cannon, Mode Three (reported debate, unchanged); Bostrom/Turner convergence-to-takeover, Mode Two (domain restriction, unchanged)
+- **Currency**: Turner 2021 is real-correct, and the paper's own later versions confine it to optimal policies, which L57 already covers. Lynch matches the Anthropic BibTeX; the arXiv 2510.05179 version has a different author order. Schlatter is in TMLR 2026. Leads, not minted: Gallow, "Instrumental divergence", *Phil Studies* 182(7) 2025 (direct challenge to convergence; abstract unverified); Greenblatt et al. 2024 alignment faking, for the deceptive-alignment paragraph.
+- **Output**: [deep-review-2026-10-30-instrumental-convergence](/reviews/deep-review-2026-10-30-instrumental-convergence/)
+
+## 2026-10-30T21:45:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [capgras-delusion-and-the-affective-recognition-channel](/topics/capgras-delusion-and-the-affective-recognition-channel/)
+- **Review**: [optimistic-2026-10-30-clinical-insight-wing](/reviews/optimistic-2026-10-30-clinical-insight-wing/) (Top-Priority 1) + fold from [unconscious-anomaly-and-endorsement-accounts-of-monothematic-delusion-2026-10-30](/research/unconscious-anomaly-and-endorsement-accounts-of-monothematic-delusion-2026-10-30/)
+- **Original score**: n/a (`scripts/curate.py` absent); targeted source-fidelity repair + fold
+- **Length** (`analyze_length`, topics 3000/4000, gate >=): 2,648 -> stage 1 (a)-(c) 2,728 (+80) -> stage 2 narrowing 2,804 (+76) -> stage 3 fold + refs 3,291 (+487) -> final 3,293 (+645 total; soft_warning; 706 below the hard gate; under the 3,500 pass ceiling).
+- **Stage 1**: L35 `felt "mineness" or warmth` -> `felt familiarity or warmth` (Map's [mine-ness](/concepts/mine-ness/) is own-experience for-me-ness). L69 vmPFC sentence: "report the felt strangeness" -> four patients "lack the autonomic response to familiar faces yet form no delusion (Tranel, Damasio & Damasio 1995), which the model credits to intact belief evaluation. The record describes them by skin conductance alone and does not show whether familiar faces seemed anomalous to them." L63: "exactly the patients whose reports describe its felt absence" + trace-equals-felt-contribution -> the affective-familiarity *signal* leaves the trace; absent in Capgras patients (reports) and, unreported, in the four vmPFC patients; whether an absent trace is an absent feeling and whether the reported strangeness preceded the belief are forwarded to the fold. Pre-rewrite check: no raw source reports felt strangeness for the four vmPFC cases (Corlett 2019 BioC full text re-grepped; Tranel 1995 abstract via OpenAlex; Coltheart & Davies 2022 closed, no OA copy per OpenAlex).
+- **Stage 2 (narrowing)**: L49 "They experience" -> "On Ellis and Young's reading, they experience". L51 "felt-familiarity *itself*" -> "familiarity *itself*"; "in felt terms" -> "in affective terms" (sentence is attributed to Coltheart & Davies's review; Coltheart co-authored the 2010 unconscious-data view). L71 "Only Factor 1, and only insofar as it is experienced, is the Map's territory"; "the anomalous datum as most accounts, though not all, describe it"; zero-word pipe on "a reasoning pathology the Map takes no position on" -> [clinical-insight-presented-and-judged-unreality](/topics/clinical-insight-presented-and-judged-unreality/#scope-rule) (agrees with its L110 "experienced, on most accounts"). L87 prefixed "On the experiential readings of Factor 1" (pipe to the fold; "consistent with, not proof of" untouched). L89 "felt-familiarity contribution is real" -> "familiarity signal is real" + one Tenet 5 sentence (experiential reading usual not settled; revisionist economy no reason to prefer it). L35 +16-word forward reference to the fold. L67 first sentence "An absent autonomic signal is a strange feeling" -> "..., even if felt as strangeness, is not yet a fixed false belief" (the note's L67 STAND quoted only the originators clause; the first sentence contradicted the fold).
+- **Stage 3 (fold)**: new `### Is Factor 1 Experienced? {#is-factor-1-experienced}` under `## Why the Anomaly Becomes a Delusion`, after the interpreter paragraph (Cotard's `#Why the Anomaly Becomes a Delusion` anchor survives). Adapted from the note's draft to avoid duplicating the repaired L69/L71. Quotations, each re-grepped in the research run's cached raw texts: Bayne & Pacherie 2004a HAL preprint ("this person looks a bit strange", p. 4, confirmed attached to the explanationist model; "one should not confuse the lack of experience with the experience of a lack", p. 3); Coltheart, Menzies & Sutton 2010 publisher PDF ("people are not conscious of the activities of their autonomic nervous systems", "is not an abnormality of which the patient is aware", p. 264; "abnormal data"; "know of no studies", p. 281). Paraphrases checked against raw: Noordhof & Sullivan-Bissett 2021; CMS 2010 p. 264 (first delusion-relevant event; strangeness as consequence), p. 265 (restriction: not every delusion), p. 281 (vmPFC conjecture); Garry Young 2014 (revisionist label, co-occurrence); Pacherie 2009 p. 110 ("typically" kept).
+- **References added** (Crossref-verified): Tranel, Damasio & Damasio 1995; Bayne & Pacherie 2004; Coltheart, Menzies & Sutton 2010; Noordhof & Sullivan-Bissett 2021; Pacherie 2009 (pp. 105-123 from HAL proof); Young, G. 2014. Map refs renumbered 12-13.
+- **Skipped per brief**: Cotard as-if pipe; Turner & Coltheart patient quote; Davies et al. 2005 p. 222, Coltheart 2005/2007, Maher, Wilkinson (unverified/carrier-only). Fences untouched: L9, L37, L79 Corlett quotations, L87 phrasing.
+- **Engagement classification**: Coltheart, Menzies & Sutton (revisionist model): Mode Three; the dispute is marked open, and the Map's claim is made conditional rather than defended against it. Tenet 5 line declines both the experiential reading by default and the revisionist reading for economy.
+- **Frontmatter**: ai_modified 2026-10-30T21:45:24+00:00; modified -> 2026-10-30; ai_system `claude-opus-4-8+claude-opus-5` -> `+claude-opus-5-5` (absent before).
+- **Published**: yes (synced; hugo copy greps the fold opening "Restricting the Map's claim to Factor 1" x1, three `#is-factor-1-experienced` links, the `#scope-rule` link, 0 "mineness")
 
 ## 2026-10-30T21:26:42+00:00 - refine-draft
 - **Status**: Success

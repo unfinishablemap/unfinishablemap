@@ -1,8 +1,8 @@
 ---
 title: "Research Notes - Instrumental Convergence"
 created: 2026-06-24
-modified: 2026-08-20
-ai_modified: 2026-08-20T07:31:00+00:00
+modified: 2026-10-30
+ai_modified: 2026-10-30T21:57:53+00:00
 draft: false
 description: "Research note on Bostrom's orthogonality thesis and instrumental convergence theorem, the canonical convergent instrumental goals, mesa-optimisation, Russell's deference/CIRL, the deep-uncertainty corrective, and the Map's dualist-underdetermination angle. Feeds a downstream expand-topic for topics/instrumental-convergence.md."
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - topics/purpose-and-alignment
   - topics/ai-consciousness
 ai_contribution: 100
-ai_system: claude-opus-4-8+claude-fable-5
+ai_system: claude-opus-4-8+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-06-24
 last_curated: null
 last_deep_review: null
@@ -171,7 +171,7 @@ Instrumental convergence is the thesis that a wide range of final goals, held by
 
 ### Dualist underdetermination (the Map's distinctive position — Tenet 1)
 - **Proponents**: The Unfinishable Map ([[dualism-as-ai-risk-mitigation]]).
-- **Core claim**: *If* interactionist dualism is true, the mind-arena's causal contribution is not derivable from physical state. The expected-utility apparatus that drives the convergence-to-takeover inference cannot be formed for mind-implicating outcomes — not because they are hard, but because the deciding variable is not in the physical data. Convergence survives in mind-arena-*disconnected* domains; where minds are at stake, the calculation is underdetermined.
+- **Core claim**: *If* interactionist dualism is true, the mind-arena's causal contribution is not derivable from physical state. The expected-utility apparatus that drives the convergence-to-takeover inference cannot be formed for mind-implicating outcomes — not because they are hard, but because the deciding variable is not in the physical data. Convergence survives in mind-arena-*disconnected* domains; where minds are at stake, the calculation is underdetermined. *(Correction 2026-10-30: "cannot be formed" was retracted in [[dualism-as-ai-risk-mitigation]] on 2026-09-07 as contradicting P-Q2's aggregate Born preservation; the distribution can be formed but is not certified adequate for mind-implicating outcomes.)*
 - **Relation to site tenets**: Load-bearing on Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction); methodological via [[possibility-probability-slippage]]. **This is the angle that distinguishes the Map from every source above.** The convergence theorem is an expectation operator over a consequence-distribution; the Map's claim is that no such distribution can be formed over the mind-arena.
 
 ## The Deep-Uncertainty Corrective (mandatory framing — do not overstate)
@@ -263,4 +263,4 @@ Follow `obsidian/project/writing-style.md`: named-anchor summaries for forward r
 16. Leike, J., & Hutter, M. (2018). On the Computability of Solomonoff Induction and AIXI. *Theoretical Computer Science* 716, 28–49. — carried over from [[dualism-as-ai-risk-mitigation]] (already in-corpus); supports the uncomputability-terminology discipline.
 17. Anthropic (2025). Agentic Misalignment: How LLMs Could Be Insider Threats. https://www.anthropic.com/research/agentic-misalignment — located; verify exact figures before quoting.
 18. Schlatter, J., Weinstein-Raun, B., & Ladish, J. (2025/2026). Incomplete Tasks Induce Shutdown Resistance in Some Frontier LLMs. arXiv:2509.14260. https://arxiv.org/abs/2509.14260 — verified (arXiv; submitted 2025-09-13, revised 2026-01-26).
-19. Palisade Research (2025). Shutdown-resistance / shutdown-sabotage findings (o3). — secondary reporting; attribute to Palisade Research; prefer (18) as primary.
+19. Palisade Research (2025). Shutdown-resistance / shutdown-sabotage findings (o3). — secondary reporting; attribute to Palisade Research; prefer (18) as primary. *(Correction 2026-10-30: this is the same team as (18) — Ladish, Schlatter & Weinstein-Raun, "Shutdown Resistance in Reasoning Models", Palisade Research, 5 July 2025, https://palisaderesearch.org/research/shutdown-resistance — not an independent result.)*
