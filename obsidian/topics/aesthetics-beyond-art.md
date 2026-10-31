@@ -4,7 +4,7 @@ description: "Environmental and everyday aesthetics share one founding disanalog
 created: 2026-07-09
 modified: 2026-10-31
 human_modified:
-ai_modified: 2026-10-31T18:22:30+00:00
+ai_modified: 2026-10-31T18:45:11+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
-last_deep_review: 2026-08-22T09:45:30+00:00
+last_deep_review: 2026-10-31T18:45:11+00:00
 coalesced_from:
   - "/topics/everyday-aesthetics/"
   - "/topics/the-aesthetics-of-nature-and-natural-beauty/"
@@ -76,7 +76,7 @@ Positive aesthetics is contested — though not by Glenn Parsons, who develops a
 
 Everyday aesthetics insists that the aesthetic does not begin at the gallery door or the scenic overlook. It suffuses the mundane: a made bed, a clean glass, the texture of a well-done chore, weather, the neat-or-messy state of a desk.
 
-Two books secured the field's foothold. Yuriko Saito's *Everyday Aesthetics* (Oxford, 2007) argues that Western aesthetics neglected the everyday because of its "almost exclusive emphasis on art," and Thomas Leddy's *The Extraordinary in the Ordinary* (Broadview, 2012) foregrounds a neglected vocabulary of everyday aesthetic terms — 'neat,' 'messy,' 'pretty,' 'lovely,' 'cute,' 'pleasant,' 'sparkle,' 'shine' — that ordinary talk uses constantly and traditional aesthetics ignored (Leddy had opened this program in earlier articles on surface qualities and on "sparkle and shine"). The sharpest general statement of the field's premise is Sherri Irvin's "The Pervasiveness of the Aesthetic in Ordinary Experience" (2008), which argues that ordinary experience is "replete with aesthetic character."
+Two books secured the field's foothold. Yuriko Saito's *Everyday Aesthetics* (Oxford, 2007) argues that Western aesthetics neglected the everyday because of its almost exclusive emphasis on art, and Thomas Leddy's *The Extraordinary in the Ordinary* (Broadview, 2012) foregrounds a neglected vocabulary of everyday aesthetic terms — 'neat,' 'messy,' 'pretty,' 'lovely,' 'cute,' 'pleasant,' 'sparkle,' 'shine' — that ordinary talk uses constantly and traditional aesthetics ignored (Leddy had opened this program in earlier articles on surface qualities and on "sparkle and shine"). The sharpest general statement of the field's premise is Sherri Irvin's "The Pervasiveness of the Aesthetic in Ordinary Experience" (2008), which argues that ordinary experience is "replete with aesthetic character."
 
 ### Continuity with Art, or a Break from It
 
@@ -118,7 +118,7 @@ The crucial honesty point, flagged in the Map's own research: the step from "aes
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]] — congenial, not entailing.** The live treatment in [[aesthetics-and-consciousness]] argues that aesthetic quality "suffuses ordinary consciousness far beyond art galleries" and treats that pervasiveness as underappreciated evidence for irreducibility. Everyday aesthetics supplies exactly the pervasiveness data — Irvin's "replete with aesthetic character," Saito's mundane examples, Leddy's neat/messy vocabulary — and the response-dependent reading of natural beauty fits the Map's [[topics/phenomenal-value-realism|phenomenal value realism]], on which aesthetic value is intrinsic to a conscious encounter rather than a free-standing property of unperceived matter. On a *strengthening* reading, this broadens the Map's case: if even a clean glass, a well-made bed, or a sunset carries irreducible felt-evaluative character, then the [[explanatory-gap|explanatory gap]] is not a boutique problem about rare experiences but a pervasive feature of mind.
+**[[tenets#^dualism|Dualism]] — congenial, not entailing.** The live treatment in [[aesthetics-and-consciousness]] argues that aesthetic experience "suffuses ordinary consciousness far beyond art galleries" and treats that pervasiveness as underappreciated evidence for irreducibility. Everyday aesthetics supplies exactly the pervasiveness data — Irvin's "replete with aesthetic character," Saito's mundane examples, Leddy's neat/messy vocabulary — and the response-dependent reading of natural beauty fits the Map's [[topics/phenomenal-value-realism|phenomenal value realism]], on which aesthetic value is intrinsic to a conscious encounter rather than a free-standing property of unperceived matter. On a *strengthening* reading, this broadens the Map's case: if even a clean glass, a well-made bed, or a sunset carries irreducible felt-evaluative character, then the [[explanatory-gap|explanatory gap]] is not a boutique problem about rare experiences but a pervasive feature of mind.
 
 But the same literature supplies the counter-move, and the Map presents it at full strength rather than as a foil. The field's own central worry is that pervasiveness *trivializes*: a category that applies to everything may discriminate nothing. Give that its due and a *deflationary* reading becomes available. Melchionne's routine/well-being framing and Irvin's rejection of unity both invite a functionalist gloss on which "aesthetic quality" is just ordinary affective perception — valence plus salience plus attention, each mechanistically respectable. On this reading the very ubiquity that looks like evidence is instead a sign that the aesthetic is cheap and everywhere *because* it is nothing more than ordinary valenced experience, fully tractable without dualism. On the nature side the parallel caution holds: Carlson's cognitivism offers a coherent partly observer-independent rival, and the deflationary gloss offers a way to dissolve the dispute. The Map does not think these readings are obviously correct, but they are not obviously wrong either, and neither the pervasiveness datum nor the sunset intuition decides between them. The Map's reading is a *reading*, offered at the strength the evidence licenses and no higher.
 
@@ -126,7 +126,7 @@ One point sharpens the caution. Irvin is **dual-use**, not an ally. Her pervasiv
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]] — thematic only.** Saito's action-oriented, world-making picture is congenial to the Map's claim that aesthetic value moves us to reshape the physical world — we tidy, arrange, and beautify because of how things strike us aesthetically. Aesthetic response to nature has historically motivated its preservation; Brady in particular treats the intersection of aesthetic and ethical value and the role of aesthetics in conservation. The Map notes these alignments while flagging that Saito's thesis is about the *ethical and social* consequences of taste, not about mental causation or dualism; the fit is thematic, and should not be overstated into shared metaphysical commitment. The dedicated treatment of the value-grounding of preservation is [[phenomenal-normativity-environmental-ethics]], which is environmental *ethics*, not aesthetics; this article does not develop the preservation link into an argument.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The scope problem and the observer question are clean instances of the tenet's caution. The deflationary readings win on parsimony: "aesthetic quality is just ordinary valenced perception," and "beauty is a property of the object," are both simpler than positing an irreducible evaluative phenomenal character arising only in a conscious encounter. The Map's fifth tenet holds that simplicity is an unreliable guide when knowledge is incomplete — so the economy of the deflationary accounts is a consideration, not a verdict. Whether the pervasive felt-evaluative texture of ordinary experience, and the felt beauty of an unwitnessed sunset, are discardable labels or a genuine phenomenal residue is exactly what remains open.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The scope problem and the observer question are clean instances of the tenet's caution. The deflationary readings win on parsimony: "aesthetic quality is just ordinary valenced perception," and "beauty is a property of the object," are both simpler than positing an irreducible evaluative phenomenal character arising only in a conscious encounter. The Map's fifth tenet holds that simplicity is an unreliable guide when knowledge is incomplete — so the economy of the deflationary accounts is a consideration, not a verdict. Whether the pervasive felt-evaluative texture of ordinary experience, and the felt beauty of a witnessed sunset, are discardable labels or a genuine phenomenal residue is exactly what remains open.
 
 ## Further Reading
 

@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 18:22:56+00:00
+ai_modified: 2026-10-31 18:45:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 18:22:56+00:00
+lastmod: 2026-10-31 18:45:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T18:45:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [aesthetics-beyond-art](/topics/aesthetics-beyond-art/)
+- **Word count**: 3616 → 3616 (+0; analyze_length, topics hard 4000)
+- **Critical issues addressed**: 3, each a zero-word swap. (1) L79: Saito 2007's "almost exclusive emphasis on art" was de-quoted, keeping "almost". The phrase is verbatim in OUP's publisher's note. Google Books search-within on `j0pleXR0peUC` (control "Western aesthetics" 9 hits; "exclusive" 9 hits, none this phrase; "emphasis on art" 0) did not find it in the book's text, so the 07-28 "verified against the book's text" is not reproduced. (2) L121: the hub-quote subject "aesthetic quality" → "aesthetic experience", matching hub L92 "Aesthetic experience suffuses…" (create-time swap). (3) L129: "the felt beauty of an unwitnessed sunset" → "of a witnessed sunset". It was a coalesce-seam contradiction with L113 (`93cd65d509`).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0. Optimistic 10-12 Priority 3(c) had already landed at 18:22Z. The Böhme third-reading extension (~38 words plus a reference) was not applied: over budget, and new content in a converged taxonomy.
+- **Lenses**: (a) phenomenology-as-evidence passes (L123 "neither… decides"); (b) Tenet 5 passes (L129 concedes parsimony to the rivals, no outward charge); (c) no author enlisted (L117, L125, L127 fences); (d) no unscoped modal in the Map's voice; (e) raw-source quote checks: SEP env ×3 (Carlson-NEM phrase, "total immersion", "imagining well") verbatim with matching subjects; Irvin ×2 verbatim (OpenAlex abstract, DOI 10.1093/aesthj/aym039); Saito 2017 labels in OUP copy; Leddy "aura" and the defamiliarization wording in SEP everyday.
+- **Engagement modes**: functionalist/deflationary rival, Mode Three; Carlson's realism, Mode Three.
+- **Attribution**: ai_system unchanged (already ends `claude-opus-5-5`). ai_modified and last_deep_review set to 2026-10-31T18:45:11+00:00.
+- **Out of scope (not edited)**: `archive/topics/everyday-aesthetics.md` L46 and L78 (same two quote defects; archive-policy NEEDS-HUMAN); `research/everyday-aesthetics-2026-07-09` L59 and L158 (source channel for both).
+- **Output**: [deep-review-2026-10-31-aesthetics-beyond-art](/reviews/deep-review-2026-10-31-aesthetics-beyond-art/)
+- **Not committed**.
 
 ## 2026-10-31T18:22:56+00:00 - refine-draft
 - **Status**: Success
