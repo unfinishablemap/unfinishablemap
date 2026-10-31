@@ -383,3 +383,31 @@
   subject_articles:
   - concepts/where-the-substance-commitment-enters.md
   subject_source: reuse:pending-reviews:outer-review-2026-10-29-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae54d8d-639c-83eb-a22a-35cdb53311d7
+  commissioned_at: '2026-10-31T02:08:52.731941+00:00'
+  prompt_summary: Audit emotion-regulation-and-the-timing-of-control (recent-aged)
+  target_filename: outer-review-2026-10-31-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please audit one article from The Unfinishable Map, a philosophy site
+    that takes a dualist, interactionist position on consciousness: https://unfinishablemap.org/topics/emotion-regulation-and-the-timing-of-control/
+    (site root https://unfinishablemap.org). It was last substantively modified on
+    2026-10-24. Search indexes lag, so check the changelog for recent edits first:
+    https://unfinishablemap.org/workflow/changelog/. The article uses Gross''s process
+    model of emotion regulation, Sheppes and Gross''s work on regulation timing, and
+    the implicit-regulation literature to ask where, if anywhere, a conscious selector
+    could contribute. Please assess: whether each empirical claim and citation is
+    accurate and current, including post-2020 work on regulation choice, flexibility
+    and implicit regulation; whether the article represents the evidence on "earlier
+    is easier" fairly; which strong counterarguments it misses or brackets too conveniently
+    to protect the site''s tenets; and how well it integrates with neighbouring articles
+    on mental effort, self-control and emotion. End your report with a list of concrete
+    potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit emotion-regulation-and-the-timing-of-control
+  subject_articles:
+  - topics/emotion-regulation-and-the-timing-of-control.md
+  subject_source: fallback:recent-aged
