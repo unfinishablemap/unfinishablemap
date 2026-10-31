@@ -10,6 +10,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-31T12:16:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [grain-mismatch](/concepts/grain-mismatch/)
+- **Word count**: 2,204 → 2,229 (+25; `analyze_length`, concepts soft 2,500 / hard 3,500; status ok; the brief's cap was +60)
+- **Critical issues addressed**: 3. (1) Five sites called the argument's premise "the dualist reading" (L41, L61, L77, L81, L85), against L37/L83 and PSIM ("the ultimate homogeneity of the sensation"). Sellars held the premise as a non-dualist. Each site was relabelled to the premise itself ("if homogeneity belongs to experience itself"), with "The Map, like Sellars, takes the datum …" at L77 and "as the Map reads" / "the Map's reading" at L81/L85. The conditional is kept everywhere. (2) L87 "dualism would lose one of its most direct structural supports" (the substance of the L81 phrase that 00:11Z retired, and outside that pass's scope) → "the case against psychophysical identity would lose …". (3) L49 Lee stance: he wrote that "others may find it dialectically unsatisfying". The page had him set the move aside "as dialectically unsatisfying" → "noting that others may find it dialectically unsatisfying, sets it aside".
+- **Medium issues addressed**: 1. L71's stranded "More fundamentally" after the 10-11 fix, and Lee's structural discrete theory filed under the illusion reply → "on whose structural analysis a discrete experience can be genuinely smooth, with no illusion involved. The illusionist version has its own difficulty: …"
+- **Enhancements made**: 0 additions. The page now speaks with one voice: the argument excludes identity with discrete structure for any theory that takes homogeneity as the experience's own, and the dualist moral is labelled as the Map's (L83).
+- **Diff check (six passes)**: no pass reintroduced another's retired wording, apart from L87, which was carried over and not reintroduced. The 08-06 Sellars spans, the 08-08 Lee separation, the 10-11 B&M rewording and the 10-28 conditionals all survive intact.
+- **Citation ledger**: re-fetched and grepped (normalised) PSIM, ia.html, carus3.html, the ditext bibliography, the SEP and Lee's PDF. All 4 quotes are verbatim. Sellars 1971 RoM 24(3): 391–447 was verified at the ditext bibliography (00:11Z had left it unverified). Lee "forthcoming, *Philosophical Studies*" is current (author's site; no Crossref record under ISSN 0031-8116). Jackson, B&M and deVries were confirmed at Crossref and the SEP. No orphans either way.
+- **Sellars consistency**: consistent with `concepts/sellars-manifest-and-scientific-images`, and no edit was needed. L83's sensa sentence is the SEP's own wording. The page does not describe the Carus or Cornman content. IAMB uses "sensa" once, which supports the Sellars page's "by 1965".
+- **Engagement modes**: illusion reply Mode One (now scoped to the illusionist version). Lee's discrete theory Mode Three (not rebutted; continuity left open, L51/L83). Grain-of-analysis Mode One. Structural mismatch Mode Two. Vehicle/content Mixed, Two then Three, with the boundary now placed between representationalism and the experience's-own-character reading. Label-leakage 0.
+- **Out of scope (not edited)**: `topics/grain-mismatch-as-independent-evidence` L34 "dualism would lose one of its most direct structural supports", L40 "the dualist takes the datum …", L108 "on the dualist reading of the phenomenal datum" (and, at lower confidence, the L88 heading equating discreteness with illusion). The Lee "sets it aside as dialectically unsatisfying" wording at `topics/neural-refresh-rates-and-the-smoothness-problem` L89, `voids/resolution-void` L43 and `research/voids-resolution-void-2026-02-22` L59 (in quotation marks, with the subject spliced).
+- **Attribution**: `ai_system` unchanged (`claude-opus-5-5` present). `ai_modified` and `last_deep_review` are from `date -u`.
+- **Sync**: every new string counts 1 and every retired string counts 0, in both obsidian/ and hugo/content/.
+- **Output**: [deep-review-2026-10-31-grain-mismatch](/reviews/deep-review-2026-10-31-grain-mismatch/)
+
 ## 2026-10-31T11:53:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
