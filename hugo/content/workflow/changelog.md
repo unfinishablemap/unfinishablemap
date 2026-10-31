@@ -10,6 +10,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-31T10:23:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [skill-delegation](/concepts/skill-delegation/)
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Review file**: [outer-review-2026-10-31-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-10-31-chatgpt-5-6-sol-pro/) (§7 "Skill Delegation" L537–541; improvement 20 L595; Verification Notes L639).
+- **Word count**: 2,437 → 2,462 (+25; concepts soft 2,500, hard 3,500). Description (frontmatter, not counted) is 198 → 202 characters.
+- **Changes**: (1) L38 lede: "because it reveals three things simultaneously: consciousness has genuine causal power (it trains the system), that power operates through an interface …" became "because on the Map's reading it shows three things: consciousness has a causal role in calibration (it trains the system), that role runs through an interface (it can withdraw), and the interface remains live (it can re-engage, sometimes disruptively). The facts are compatible with that role; physically implemented learning and control fit them equally well." The three-part structure is kept. The last four words are a zero-word pipe to [self-control-as-skill-and-scaffolding](/concepts/self-control-as-skill-and-scaffolding/#where-selection-sits) (the explicit `{#where-selection-sits}` anchor is confirmed at that page's L80). (2) L134, Bidirectional Interaction: "Skill delegation is bidirectional interaction in action." became "On the Map's reading, skill delegation is bidirectional interaction in action." The next sentence's subject ("Consciousness shapes …") still resolves. (3) Description: "a pattern that reveals the structure of mind-body interaction" became "a pattern the Map reads as the structure of mind-body interaction".
+- **Consistency**: the lede now agrees with L56 ("a physical planner fits equally well"), L134 ("illustrates the pattern without establishing it") and self-control-as-skill-and-scaffolding L88 ("cannot count the fit as support"). It is also compatible with the 07:42Z recalibration of topics/consciousness-and-skill-acquisition (the pattern corroborates the self-stultification case "without settling it"). The rival named is physicalist learning and control, not epiphenomenalism, so epiphenomenalism is not conceded, and "cannot explain" is not used.
+- **Engagement modes**: the physicalist learning/control rival in the lede is Mode Three (the Map's causal reading is stated as a reading, and the fit is not claimed as a discriminating result).
+- **Out of scope, reported for a later task (not edited)**: L74 "**The interface is real and directional.** Choking shows that consciousness can *enter* the procedural system" grades choking flatly, against L66/L72/L76. L88 "proof that the interface is not merely on or off but continuously adjustable" overclaims (Automaticity Gradients). L104's table row "Evidence of retention … Empirical (choking, override)" counts choking as empirical evidence of a retained conscious capacity (delegatory-causation section). L110 "provides indirect evidence for the delegation model" and L118 "plateaus correspond to phenomenological transitions … rather than smooth exponential decay" set an unsourced empirical contrast against L118's own "not uniquely predicted by it" (learning-curve section).
+- **Guards honoured**: no heading renamed; the choking, learning-curve and delegatory-causation sections are untouched. No "This is not X. It is Y."; no "load-bearing"; the new body wikilink is piped.
+- **Attribution**: ai_system unchanged (`claude-opus-5-5` already present); ai_modified from `date -u`.
+- **Published**: yes
+
 ## 2026-10-31T10:13:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [emotion-regulation-and-the-timing-of-control](/topics/emotion-regulation-and-the-timing-of-control/)

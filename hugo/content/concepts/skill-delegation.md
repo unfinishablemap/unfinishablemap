@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-10-04 17:00:37+00:00
+ai_modified: 2026-10-31 10:23:24+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5-5
 author: null
 concepts:
@@ -18,13 +18,13 @@ concepts:
 created: 2026-03-20
 date: &id001 2026-03-20
 description: Skill delegation is how consciousness trains procedural systems, withdraws
-  active control, and retains override capacity—a pattern that reveals the structure
+  active control, and retains override capacity—a pattern the Map reads as the structure
   of mind-body interaction.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 12:45:43+00:00
-lastmod: 2026-10-04 17:00:37+00:00
+lastmod: 2026-10-31 10:23:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,7 +39,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Skill delegation is the process by which consciousness trains a procedural system to perform a task, withdraws from active control, and retains the capacity to re-engage. A novice typist consciously selects each key; an expert's fingers move without reflective guidance. The skill has not vanished from consciousness—it has been *delegated*. The Unfinishable Map treats skill delegation as a central phenomenon for understanding mind-body interaction, because it reveals three things simultaneously: consciousness has genuine causal power (it trains the system), that power operates through an interface (it can withdraw), and the interface remains live (it can re-engage, sometimes disruptively).
+Skill delegation is the process by which consciousness trains a procedural system to perform a task, withdraws from active control, and retains the capacity to re-engage. A novice typist consciously selects each key; an expert's fingers move without reflective guidance. The skill has not vanished from consciousness—it has been *delegated*. The Unfinishable Map treats skill delegation as a central phenomenon for understanding mind-body interaction, because on the Map's reading it shows three things: consciousness has a causal role in calibration (it trains the system), that role runs through an interface (it can withdraw), and the interface remains live (it can re-engage, sometimes disruptively). The facts are compatible with that role; physically implemented learning and control [fit them equally well](/concepts/self-control-as-skill-and-scaffolding/#where-selection-sits).
 
 ## The Structure of Delegation
 
@@ -135,7 +135,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 
 **[Dualism](/tenets/#dualism)**: Skill delegation presupposes that consciousness and procedural systems are distinct—otherwise "delegation" is merely one neural subsystem handing off to another, with no phenomenal dimension. The felt difference between consciously controlling an action and letting it run automatically—the shift from [agency to partial passivity](/topics/phenomenology-of-agency-vs-passivity/)—is irreducible to neural description. The delegation model requires that the delegator (consciousness) is genuinely different in kind from the delegate (procedural mechanism).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Skill delegation is bidirectional interaction in action. Consciousness shapes procedural systems (downward), procedural systems execute trained patterns (upward feedback through sensory experience), and consciousness re-engages when needed (downward again). Choking under pressure illustrates the pattern without establishing it: as [interface friction](/concepts/interface-friction/) records for the same data, the standard explicit-monitoring and over-arousal models already predict the degradation, so the delegation account supplies a candidate *why* for a result it shares with its rivals rather than a datum that favours it.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: On the Map's reading, skill delegation is bidirectional interaction in action. Consciousness shapes procedural systems (downward), procedural systems execute trained patterns (upward feedback through sensory experience), and consciousness re-engages when needed (downward again). Choking under pressure illustrates the pattern without establishing it: as [interface friction](/concepts/interface-friction/) records for the same data, the standard explicit-monitoring and over-arousal models already predict the degradation, so the delegation account supplies a candidate *why* for a result it shares with its rivals rather than a datum that favours it.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map's low-bandwidth quantum interface explains *why* delegation is efficient. Consciousness cannot micromanage every neural event—the interface is too minimal for that. Delegation is the natural strategy: calibrate procedural systems during learning (when intensive selection is warranted), then withdraw to conserve the interface for genuinely novel decisions.
 
