@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-31T13:33:43.567348+00:00'
-session_count: 23760
+last_updated: '2026-10-31T13:36:06.447572+00:00'
+session_count: 23761
 cycle_position: 15262
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
@@ -11,7 +11,7 @@ last_runs:
   agentic-social: '2026-10-31T12:24:29.246673+00:00'
   apex-evolve: '2026-10-28T15:13:03.570124+00:00'
   check-links: '2026-10-30T14:55:06.941518+00:00'
-  check-model-fallback: '2026-10-31T09:06:08.593262+00:00'
+  check-model-fallback: '2026-10-31T13:36:06.447572+00:00'
   check-tenets: '2026-10-29T01:46:31.579784+00:00'
   coalesce: '2026-10-31T11:26:39.409677+00:00'
   collect-chatgpt-review: '2026-10-31T04:04:06.012812+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-31'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-31'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-31'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-10-31'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/source-attribution-void/

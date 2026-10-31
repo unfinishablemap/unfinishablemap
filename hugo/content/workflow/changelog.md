@@ -1,14 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 13:31:57+00:00
+ai_modified: 2026-10-31 14:05:17+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 13:31:57+00:00
+lastmod: 2026-10-31 14:05:17+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T14:05:17+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Franklin's four formulations of the luck argument and the ensurance reply (todo L40, P3, harvested from optimistic-2026-10-28-luck-and-randomness-objection-wing, item 3)
+- **Output**: [franklin-four-formulations-of-the-luck-argument-2026-10-31](/research/franklin-four-formulations-of-the-luck-argument-2026-10-31/)
+- **Body reached**: YES, read in full. Franklin 2011 (*Phil Studies* 156(2): 199–230, Crossref-verified) is the publisher's version of record (open access, CC BY-NC), obtained via a 2024-06-22 Wayback capture of the Springer PDF; Springer itself serves a JavaScript challenge. The abstract matches the 10-25 note word for word.
+- **Recommended action**: `fold` into `topics/event-causal-libertarianism` §The Luck and Disappearing-Agent Objection, inside L78 after "that residue is the luck." The passage has 254 words. With 2 references (Franklin 2014, Haji 2001) it adds +288 by `analyze_length` on a scratch copy (3,220 → 3,508/4,000). On `concepts/rollback-argument-against-agent-causation`: the L53 pointer clause, an L53 contrastive-explanation scoping, and an L67 staleness fix, +24 net (3,079 → 3,103/3,500).
+- **Key findings**: The four formulations are Hume–Hobart (pp. 208–209; fails, since causation does not need necessitation), ensurance (pp. 209–215; Haji; antecedent control is possessable, and demanding it is either unmotivated or impossible for finite agents), rollback (pp. 215–219; premise (1) chance is "certainly true", premise (2) chance-to-inability is denied via the ability account A*), and explanatory (pp. 219–224; Mele; Hitchcock contrastive explanation, hedged "beyond doubt", and control does not track explanation). Franklin says "agent-causation is of no help here" (p. 217) but gives no argument for it. He never considers an agent-causal reply or the disappearing-agent form. The gaps are on the Map's side. The rollback page omits the chance-to-inability premise Franklin attacks. "Antecedent control" and "ensurance" have 0 corpus hits. ECL L86 pairs Franklin 2011 with the Map's disappearing-agent verdict, which it does not consider. Mele's luck definition (2006: 70, via Franklin: 221) is stated over the agent-causal terminus the Map admits. The coiner of "ensurance" is UNVERIFIED (Franklin's label; argument credited to Haji).
+- **Quote ledger**: 65/65 Franklin spans VERIFIED by normalised raw-text match (63 strict, 2 after hyphenation normalisation); 1 negative control FAILED as expected. Mele p. 70 is verified through Franklin's quotation (channel named). Franklin 2016: 2 abstract spans verified (OpenAlex). Franklin 2014 and Haji 2001: metadata only.
+- **Out of scope (not edited)**: rollback L67 (stale "not reached") and L53 ("these replies use" misdescribes the replay reply), both drafted. ECL L86 pairing. ECL L74 (low confidence: the replay is framed as anti-event-causal, against van Inwagen's aim). Lead: Franklin 2016 *Mind* (agent causation motivated by anti-reductionism and "nonpartisan"), 0 corpus hits. Coordination: no overlap with todo L3072 or L3496.
+- **Sources consulted**: 9 (Franklin 2011 full text; Crossref ×4; OpenAlex ×4; Semantic Scholar ×2; Unpaywall; Wayback CDX). WebSearch: 3.
 
 ## 2026-10-31T13:31:57+00:00 - research-topic
 - **Status**: Success
