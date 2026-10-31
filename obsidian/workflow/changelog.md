@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T14:05:17+00:00
+ai_modified: 2026-10-31T14:35:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T14:35:52+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Schlick, Hobart and Stebbing: the 1930s freedom-as-non-compulsion dissolution as ancestor of the compatibilist symmetry challenge (todo L40, P3, harvested from optimistic-2026-10-28-luck-and-randomness-objection-wing, item 5)
+- **Output**: [[research/schlick-hobart-stebbing-dissolution-lineage-2026-10-31]]
+- **Raw texts reached**: Schlick, *Problems of Ethics* (Rynin 1939), ch. VII pp. 143–158, in two archive.org scans (dli + mbp; word counts match the 10-27 note). Hobart 1934, *Mind* 43(169): 1–27, read in full from the archive.org microfilm scan `sim_mind_1934-01_43_169`, which supersedes the Information Philosopher carrier. Stebbing 1937 ch. X as Open Library search-inside OCR fragments only (the 1958 Dover reprint is the only scan, and it is restricted). Also raw: Hobbes, *Leviathan* ch. XXI; Hume, *Treatise* 2.3.2 and *Enquiry* §VIII; Campbell 1951, *Mind* 60: 441–465 (archive.org); SEP "Compatibilism" (2024) and "Free Will" (2022). The pseudonym was confirmed by Feigl (*Encyclopedia of Philosophy*): Dickinson S. Miller writing as R. E. Hobart.
+- **Recommended action**: `fold` into `concepts/compatibilist-symmetry-challenge`, as a new 178-word paragraph at the end of §The Structural Move (after L46), with 7 references. It adds +270 by `analyze_length` on a scratch copy (2,492 → 2,762/3,500). The back-link goes to `first-quantum-free-will-wave-1927-1940#randomness-objection`. The host has no open tasks.
+- **Key findings**: Freedom as non-compulsion is not Schlick's. He credits Hume "with exceptional clarity" (p. 143) and will "say only what others have already said better" (p. 144). The form is Hobbes's and Hume's, and Hobart calls "not all causation is compulsion" the answer "ordinarily … given" (p. 13). The 1930s writers claimed parity with no residue: punishment "an educative measure" (Schlick p. 152), "could" made hypothetical (Hobart p. 10). Campbell 1951 took Schlick ch. VII as the probable "locus classicus" (p. 442) and named the host's residue (b), the "simple, categorical meaning" of "could have acted otherwise" (p. 455). The SEP's contemporary families §§4.2–4.5 are exactly the host's four.
+- **Quote ledger**: 61 spans raw-verified (53 primary, of which 2 carry an OCR caveat; 8 SEP); 5 Stebbing verbatim OCR fragments with pages mostly unfixed; 1 carrier span (Feigl); 0 failures. All 9 quotations in the drafted fold are raw-verified.
+- **Out of scope (not edited)**: `topics/first-quantum-free-will-wave-1927-1940` L49 says Hobart's text "contains no physics". That is false: "Material Fate", pp. 16–17, answers Eddington by name, quoting *Philosophy* Jan 1933 p. 41. The same line's "never mentions quantum physics" overstates, since Schlick p. 145 alludes to "intra-atomic" causality. The 10-27 research note L117 calls "rootless and sourceless" a handout paraphrase, but it is Hobart's own wording (p. 8). Its L137 two-fold requirement belongs to Wisdom, not Stebbing. Low confidence: Stebbing's "responsible to" fragment means the L73 "Dissolution" label and L55 fit her only in part. The SEP misprints Hobart's title as "…Involving Indeterminism…".
+- **Sources consulted**: 16 (Schlick ×2 scans; *Mind* 1934; *Mind* 1951; Stebbing search-inside, 30 queries; Hume ×2; Hobbes; SEP ×2; Feigl via Encyclopedia.com; Crossref ×4; OpenAlex). WebSearch: 2.
+
 ## 2026-10-31T14:05:17+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Franklin's four formulations of the luck argument and the ensurance reply (todo L40, P3, harvested from optimistic-2026-10-28-luck-and-randomness-objection-wing, item 3)
