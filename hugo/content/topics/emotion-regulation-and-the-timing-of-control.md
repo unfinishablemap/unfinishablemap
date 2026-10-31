@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-23
-ai_modified: 2026-10-31 05:43:18+00:00
+ai_modified: 2026-10-31 06:56:06+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 02:04:03+00:00
-lastmod: 2026-10-31 05:43:18+00:00
+lastmod: 2026-10-31 06:56:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +52,7 @@ Gross (1998a) proposes that emotion "may be regulated at five points in the emot
 | Cognitive change | reappraisal, distancing | antecedent | on the appraisal |
 | Response modulation | expressive suppression | response | on the generated response |
 
-The coarser cut, proposed in Gross (1998b), is defined by timing. Antecedent-focused strategies act "before the emotion response tendencies have become fully activated", response-focused ones "once an emotion is already underway" (Gross & John 2003). "Suppression" here means *expressive* suppression, hiding a feeling's outward signs. Gross and John's trait studies, by their own statement, do not test the model's temporal ordering, so timing claims must rest on experiments.
+The coarser cut, proposed in Gross (1998b), is defined by timing. Antecedent-focused strategies act "before the emotion response tendencies have become fully activated", response-focused ones "once an emotion is already underway" (Gross & John 2003). "Suppression" here means *expressive* suppression, hiding a feeling's outward signs. In Gross's (1998b) disgust-film experiment, reappraisal and suppression both reduced expressive behaviour, but "reappraisal decreased disgust experience, whereas suppression increased sympathetic activation". Gross and John's trait studies, by their own statement, do not test the model's temporal ordering, so timing claims must rest on experiments.
 
 The extended process model gives the regulatory act its own time course, treating regulation as "one type of valuation" with "three emotion regulation stages (identification, selection, implementation)" (Gross 2015). Two clocks must then be kept apart: *when in the emotion* a strategy acts, and *which stage of the regulatory decision* is in play. "Selection" on the second clock means choosing a strategy. It is distinct from *situation* selection, and from the conscious selection the Map discusses elsewhere.
 
@@ -60,7 +60,7 @@ The extended process model gives the regulatory act its own time course, treatin
 
 Within single episodes, strategies differ in when they first change the response. In an fMRI study of 17 women watching disgust films, "Reappraisal resulted in early (0-4.5 sec) prefrontal cortex (PFC) responses" and lower amygdala and insula responses, while "Suppression produced late (10.5-15 sec) PFC responses" and higher ones (Goldin et al. 2008). In EEG, "distraction reduced the late positive potential (LPP) earlier than reappraisal" (Thiruchselvam et al. 2011).
 
-The family label does not fix the time. Paul et al. (2013) found that "expressive suppression affected emotional responding as early as distraction", and suggested that suppression "was used preventively". "Response-focused" names a target; when a given use acts is an empirical matter.
+The family label does not fix the time. Paul et al. (2013) found that "expressive suppression affected emotional responding as early as distraction", and suggested that suppression "was used preventively". In Li et al. (2017), suppression "works as early as distraction in the high-intensity condition", but with low-intensity images only distraction reduced the early LPP. "Response-focused" names a target; when a given use acts is an empirical matter.
 
 Distraction "was effective even when initiated late", while reappraisal "was less effective when initiated late, suggesting a possible point of no return for this strategy" (Sheppes & Meiran 2007). Earlier studies had begun reappraisal at the situation's onset and found it cognitively free; beginning it late revealed "for the first time a cognitive cost for reappraisal" (Sheppes & Meiran 2008). The cost was measured as ego depletion, a larger Stroop effect afterwards than after late distraction, with no unregulated control group, so it carries the depletion record that [the mental-effort article](/concepts/mental-effort/#depletion) reviews. Late distraction instead impaired memory for the film.
 
@@ -70,9 +70,9 @@ Timing claims should rest on such time-resolved designs, not on which regions ac
 
 The model's rationale assumed what Sheppes and Gross (2011) call the "generic timing hypothesis": that down-regulating emotions before they are "up and running" "is always easier". They replace it with a "process-specific timing hypothesis", glossing timing as emotion intensity. Strategies that target early processing stages "require minimal effort", so their efficacy should be "relatively unaffected by emotion intensity"; those that target later stages "require effort that is proportional to the intensity of the emotional response".
 
-Family-level effectiveness does not follow stage order either. Pooling experiential, behavioural and physiological outcomes across 306 experimental comparisons, Webb, Miles and Sheeran (2012) found that attentional deployment "had no effect" (d+ = 0.00), response modulation a small effect (0.16) and cognitive change a small-to-medium one (0.36). Within attentional deployment, distraction worked (0.27) and concentration did not (−0.26). These estimates compare strategies, not earlier and later starts of one, so they cannot show whether starting a given strategy earlier helps. That abstract pools only these three families, and the 2026-10-23 search behind this article found no pooled estimate for situation selection or modification. Bonanno and Burton (2013) call the assumption that a strategy is consistently good or bad "the fallacy of uniform efficacy".
+Family-level effectiveness does not follow stage order either. Pooling experiential, behavioural and physiological outcomes across 306 experimental comparisons, Webb, Miles and Sheeran (2012) found that attentional deployment "had no effect" (d+ = 0.00), response modulation a small effect (0.16) and cognitive change a small-to-medium one (0.36). Within attentional deployment, distraction worked (0.27) and concentration did not (−0.26). These estimates compare strategies, not earlier and later starts of one, so they cannot show whether starting a given strategy earlier helps. That abstract pools only these three families, and the 2026-10-23 search behind this article found no pooled estimate for situation selection or modification. Bonanno and Burton (2013) call the assumption that a strategy is consistently good or bad "the fallacy of uniform efficacy". The experimental record above comes from short, instructed laboratory tasks, and field studies do not reliably reproduce laboratory links between situation and strategy. Two haunted-house studies of untrained participants "failed to find relationships between emotional intensity and strategy usage" (Mitchell et al. 2025), and daily-life associations between situational factors and strategies "appear to be largely different from the results found in the laboratory" (Wilms et al. 2020).
 
-Writing on self-control five years after that narrowing, Duckworth, Gendler and Gross (2016) state the generic form: "as a rule, earlier intervention is best". The two claims concern different domains, and the asymmetry is unresolved.
+Writing on self-control five years after Sheppes and Gross's narrowing, Duckworth, Gendler and Gross (2016) state the generic form: "as a rule, earlier intervention is best". The two claims concern different domains, and the asymmetry is unresolved.
 
 ## Regulation Without a Regulator's Awareness {#implicit}
 
@@ -138,16 +138,19 @@ Three calibrations apply. First, the Zeno account is a posit, and the data have 
 11. Gyurak, A., Gross, J. J., & Etkin, A. (2011). Explicit and implicit emotion regulation: A dual-process framework. *Cognition and Emotion*, 25(3), 400–412. https://doi.org/10.1080/02699931.2010.544160
 12. Kappas, A. (2011). Emotion and regulation are one! *Emotion Review*, 3(1), 17–25. https://doi.org/10.1177/1754073910380971
 13. Koole, S. L., & Rothermund, K. (2011). "I feel better but I don't know why": The psychology of implicit emotion regulation. *Cognition and Emotion*, 25(3), 389–399. https://doi.org/10.1080/02699931.2010.550505
-14. Morawetz, C., Bode, S., Derntl, B., et al. (2017). The effect of strategies, goals and stimulus material on the neural mechanisms of emotion regulation: A meta-analysis of fMRI studies. *Neuroscience & Biobehavioral Reviews*, 72, 111–128. https://doi.org/10.1016/j.neubiorev.2016.11.014
-15. Ochsner, K. N., Bunge, S. A., Gross, J. J., et al. (2002). Rethinking feelings: An fMRI study of the cognitive regulation of emotion. *Journal of Cognitive Neuroscience*, 14(8), 1215–1229. https://doi.org/10.1162/089892902760807212
-16. Paul, S., Simon, D., Kniesche, R., et al. (2013). Timing effects of antecedent- and response-focused emotion regulation strategies. *Biological Psychology*, 94(1), 136–142. https://doi.org/10.1016/j.biopsycho.2013.05.019
-17. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind–brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327. https://doi.org/10.1098/rstb.2004.1598
-18. Seneca, L. A. *De Ira* II.4.1. In *Minor Dialogs* (A. Stewart, Trans., 1900), George Bell and Sons. https://en.wikisource.org/wiki/Of_Anger/Book_II ; Latin: https://www.thelatinlibrary.com/sen/sen.ira2.shtml
-19. Sheppes, G., & Gross, J. J. (2011). Is timing everything? Temporal considerations in emotion regulation. *Personality and Social Psychology Review*, 15(4), 319–331. https://doi.org/10.1177/1088868310395778
-20. Sheppes, G., & Meiran, N. (2007). Better late than never? On the dynamics of online regulation of sadness using distraction and cognitive reappraisal. *Personality and Social Psychology Bulletin*, 33(11), 1518–1532. https://doi.org/10.1177/0146167207305537
-21. Sheppes, G., & Meiran, N. (2008). Divergent cognitive costs for online forms of reappraisal and distraction. *Emotion*, 8(6), 870–874. https://doi.org/10.1037/a0013711
-22. Thiruchselvam, R., Blechert, J., Sheppes, G., et al. (2011). The temporal dynamics of emotion regulation: An EEG study of distraction and reappraisal. *Biological Psychology*, 87(1), 84–92. https://doi.org/10.1016/j.biopsycho.2011.02.009
-23. Torre, J. B., & Lieberman, M. D. (2018). Putting feelings into words: Affect labeling as implicit emotion regulation. *Emotion Review*, 10(2), 116–124. https://doi.org/10.1177/1754073917742706
-24. Webb, T. L., Miles, E., & Sheeran, P. (2012). Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation. *Psychological Bulletin*, 138(4), 775–808. https://doi.org/10.1037/a0027600
-25. Webb, T. L., Schweiger Gallo, I., Miles, E., et al. (2012). Effective regulation of affect: An action control perspective on emotion regulation. *European Review of Social Psychology*, 23(1), 143–186. https://doi.org/10.1080/10463283.2012.718134
-26. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-04). Self-Control as Skill and Scaffolding. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/
+14. Li, P., Wang, W., Fan, C., et al. (2017). Distraction and expressive suppression strategies in regulation of high- and low-intensity negative emotions. *Scientific Reports*, 7, 13062. https://doi.org/10.1038/s41598-017-12983-3
+15. Mitchell, W. J., Stasiak, J., Martinez, S., et al. (2025). Emotion regulation strategy use and forecasting in response to dynamic, multimodal stimuli. *Journal of Experimental Psychology: General*, 154(4), 1004–1024. https://doi.org/10.1037/xge0001715
+16. Morawetz, C., Bode, S., Derntl, B., et al. (2017). The effect of strategies, goals and stimulus material on the neural mechanisms of emotion regulation: A meta-analysis of fMRI studies. *Neuroscience & Biobehavioral Reviews*, 72, 111–128. https://doi.org/10.1016/j.neubiorev.2016.11.014
+17. Ochsner, K. N., Bunge, S. A., Gross, J. J., et al. (2002). Rethinking feelings: An fMRI study of the cognitive regulation of emotion. *Journal of Cognitive Neuroscience*, 14(8), 1215–1229. https://doi.org/10.1162/089892902760807212
+18. Paul, S., Simon, D., Kniesche, R., et al. (2013). Timing effects of antecedent- and response-focused emotion regulation strategies. *Biological Psychology*, 94(1), 136–142. https://doi.org/10.1016/j.biopsycho.2013.05.019
+19. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind–brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327. https://doi.org/10.1098/rstb.2004.1598
+20. Seneca, L. A. *De Ira* II.4.1. In *Minor Dialogs* (A. Stewart, Trans., 1900), George Bell and Sons. https://en.wikisource.org/wiki/Of_Anger/Book_II ; Latin: https://www.thelatinlibrary.com/sen/sen.ira2.shtml
+21. Sheppes, G., & Gross, J. J. (2011). Is timing everything? Temporal considerations in emotion regulation. *Personality and Social Psychology Review*, 15(4), 319–331. https://doi.org/10.1177/1088868310395778
+22. Sheppes, G., & Meiran, N. (2007). Better late than never? On the dynamics of online regulation of sadness using distraction and cognitive reappraisal. *Personality and Social Psychology Bulletin*, 33(11), 1518–1532. https://doi.org/10.1177/0146167207305537
+23. Sheppes, G., & Meiran, N. (2008). Divergent cognitive costs for online forms of reappraisal and distraction. *Emotion*, 8(6), 870–874. https://doi.org/10.1037/a0013711
+24. Thiruchselvam, R., Blechert, J., Sheppes, G., et al. (2011). The temporal dynamics of emotion regulation: An EEG study of distraction and reappraisal. *Biological Psychology*, 87(1), 84–92. https://doi.org/10.1016/j.biopsycho.2011.02.009
+25. Torre, J. B., & Lieberman, M. D. (2018). Putting feelings into words: Affect labeling as implicit emotion regulation. *Emotion Review*, 10(2), 116–124. https://doi.org/10.1177/1754073917742706
+26. Webb, T. L., Miles, E., & Sheeran, P. (2012). Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation. *Psychological Bulletin*, 138(4), 775–808. https://doi.org/10.1037/a0027600
+27. Webb, T. L., Schweiger Gallo, I., Miles, E., et al. (2012). Effective regulation of affect: An action control perspective on emotion regulation. *European Review of Social Psychology*, 23(1), 143–186. https://doi.org/10.1080/10463283.2012.718134
+28. Wilms, R., Lanwehr, R., & Kastenmüller, A. (2020). Emotion regulation in everyday life: The role of goals and situational factors. *Frontiers in Psychology*, 11, 877. https://doi.org/10.3389/fpsyg.2020.00877
+29. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-04). Self-Control as Skill and Scaffolding. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-control-as-skill-and-scaffolding/
