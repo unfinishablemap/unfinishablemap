@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T02:56:24+00:00
+ai_modified: 2026-10-31T03:40:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T03:40:40+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Expanded or exceeded physics: is Sellars' sensa naturalism a dualism by another name?
+- **Output**: [[research/sellars-sensa-expanded-versus-exceeded-physics-2026-10-31]]
+- **Sources consulted**: 19 (raw full text: Meehl & Sellars 1956 and Feigl 1958 via UMN Conservancy OCR; Sellars' Carus Lectures II–III and notes via ditext, cross-checked against an SEP quotation; SEP "Wilfrid Sellars" 2024 and "Physicalism" 2026. Crossref metadata or abstracts only for Rosenberg 2007, Seibt 2000, deVries 2005 ch. 8, Landy 2019, Smart 1982, Firth 1981, SSOP 1982, O'Shea 2024; SSIS 1971 bibliographic only)
+- **Verdict**: `recommended_action: fold` into `concepts/sellars-manifest-and-scientific-images` (~360-word "Expanding or exceeding physics" paragraphs at the end of Relation to Site Perspective, delete the L65 sentence, +3-word L63 qualifier; optional ~75-word secondary in `topics/hempels-dilemma` §object-based). It supersedes EDIT (2) of the open Sellars P3 (todo ~L3709) and supplies that P3's EDIT (3) L51 sources. A fold mints nothing: merge it into that P3 or hand-mint it
+- **Key findings**: in Carus III (1981, ¶126) sensa recast as σ-ings are "physical₁ but not physical₂", and n. 15 glosses physical₁ as "any which belong in the causal order". On that gloss an interacting mind is physical₁ too, and Sellars called emergent materialism vs substantial dualism "purely ontological" (¶87), so expand-vs-exceed draws no line in physics. He passes the via negativa only by reading "mental" as conceptual. The real differences are a bundle person (¶125) vs the Map's persisting subject, and his confinement to sensory consciousness (conceptual acts "might be complex physical₂ states", ¶91). Both reject epiphenomenalism
+- **Originators**: physical₁/physical₂ = Meehl & Sellars 1956 p. 252 (Sellars 1981 n. 15 "I introduced this terminology"; Feigl 1958 adopted and redefined it). "Absolute processes" = C. D. Broad 1933 per Carus II ¶50. Roy Wood Sellars' 1922 "Is Consciousness Physical?" shares Wilfrid's Lecture III title
+
 ## 2026-10-31T02:56:24+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Sound ontology and the secondary-quality residue: where sounds are, and whether the residue argument extends from colour to sound
