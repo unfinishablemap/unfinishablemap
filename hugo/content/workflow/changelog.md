@@ -1,14 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 06:56:06+00:00
+ai_modified: 2026-10-31 07:42:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 06:56:06+00:00
+lastmod: 2026-10-31 07:42:18+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T07:42:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
+- **Word count**: 3,721 → 3,754 (+33; topics hard 4,000, gate `>=`, 245 headroom left). The total includes the yt-embed block.
+- **Critical issues addressed**: 1 calibration error at 5 loci. The page said the epiphenomenalist "cannot explain" (L178) the engagement–outcome covariation, which was also called "unexplained" (L162), "seems unable to explain" (L166), and implied by "could not build" (L98). That contradicted the Map's own standard (`topics/volitional-control` L132, installed 07-25; tenets ^tenet-3-standing and the DeWall "structural counter"). The common-cause reply is now conceded at L116, L162, L166 and L178, and the objection is routed to [self-stultification](/concepts/self-stultification/). Epiphenomenalism is not conceded. This discharges the last unrepaired member of tenet-check-2026-09-02 Note 1's three-article cluster: causal-powers was fixed 09-07, disruption 10-01, and this page was unqueued.
+- **Effort-grade lens**: L132 "Flow reveals … conscious selection" → "Flow suggests … conscious engagement". L170 now says felt effort "fits that reading without evidencing it", citing the page's own PP parity at L140, and "captures" → "would then span". No change at L96, L138 or L140 (already graded as readings). The page has no resource-model language.
+- **Medium issues addressed**: 1. Cut L158's restating closing sentence (−27) to pay for the above.
+- **Enhancements made**: 1 piped wikilink ([self-stultification](/concepts/self-stultification/)).
+- **07-18 → HEAD diff check**: the description (09-02) and the Zeno arithmetic (09-07, 10-27) read correctly. $10^{-13}$/$10^{-20}$ s match Tegmark 2000 as cited on `concepts/stapp-quantum-mind` L222, the "twelve to nineteen" orders compute, and the wording is identical to the companion's L110. No stranded pronouns.
+- **Engagement modes**: epiphenomenalist: was boundary substitution, now Mixed (common cause conceded as coherent; Mode One self-stultification referenced). Identity theorist, eliminativist, PP: Mode Three, unchanged.
+- **Citations**: the References block is unchanged since the 06-27 full ledger (20/20 real-correct). Publisher web-verify was not re-run.
+- **Attribution**: ai_system → `claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5` (claude-opus-5-5 was absent). ai_modified, last_deep_review and modified were bumped.
+- **Output**: [deep-review-2026-10-31-consciousness-and-skill-acquisition](/reviews/deep-review-2026-10-31-consciousness-and-skill-acquisition/)
+
+## 2026-10-31T07:13:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/) (primary); [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/) (secondary). Both files edited; none skipped.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Review file**: [sound-ontology-and-the-secondary-quality-residue-2026-10-31](/research/sound-ontology-and-the-secondary-quality-residue-2026-10-31/) §auditory-correction (L178–L190).
+- **Word count**: auditory 3,098 → 3,187 (+89 including the Oxenham reference; topics hard 4,000, 812 headroom); chemosensory 2,738 → 2,739 (+1).
+- **The error**: the auditory page said pitch has "no such external home" as colour, because the missing fundamental "has no fundamental in the signal". A missing-fundamental tone lacks a spectral component at f0, but its waveform still repeats at the fundamental's period, and the page's own L59 already said periodicity extraction yields the pitch. Its cited source (O'Callaghan, SEP "Auditory Perception" §3.2.4) uses this case to argue that the periodicity theory of pitch "fares better on two counts" than physicalist theories of colour. The "sharper than the colour case" claim, praised by three deep reviews (05-31, 06-16, 07-07), ran backwards and has been recalibrated: pitch has a better physical candidate than colour; the heard quality is still not identical to it (intersubjective variation; the interval mismatch, §3.2.5); timbre is unchanged. The "computed, not read off" → tinnitus arc (09-19 strength) is kept.
+- **Changes (auditory)**: (1) L57: "especially clean test cases" → "instructive test cases"; "The perceived quality does not correspond to a frequency present in the stimulus" → "The perceived pitch corresponds to no spectral component of the stimulus". (2) L59: the Nagel clause "It is no accident that … the felt character of a heard quality is where the 'what it's like' pressure is most easily isolated from any external object-property" → "already reaches for an *auditory* creature, one whose world is built from echolocation"; the colour contrast now notes reflectance metamers; "Pitch and timbre seem to have no such external home …" replaced with the periodicity candidate (Oxenham 2012, two verbatim spans), O'Callaghan's "fares better on two counts" (§3.2.4), and the residue: listeners differ over middle C, and equal pitch steps are not equal frequency intervals (§3.2.5), plus timbre; "a sharp illustration" → "For pitch, then, audition is a less sharp illustration than colour". (3) L71 (amusia; NOT in the note or the driver's grep): "in exactly the qualities this article argues have no external object-property to be identified with" → "in pitch, the very quality this article argues is not identical to its physical correlate" (length-neutral; the "partial" scoping is untouched). (4) L81 (Dualism): "arguably sharpen the case … because pitch and timbre appear to have no external object-property … the missing fundamental has no fundamental in the signal" → "arguably add to the case …, though for pitch they add less than colour does, since periodicity is a strong physical candidate. What remains is that the relations among heard pitches do not match those among frequencies, timbre has …, and tinnitus is the limiting case"; "a clean illustration" → "a further illustration".
+- **Changes (chemosensory)**: L54 "at a frequency absent from the signal" → "at a fundamental absent from the signal's spectrum". The "but cleaner" contrast depends on the spatial and dimensional scaffolding that hearing retains, not on the false claim, so it holds and now reads more accurately, since periodicity is that scaffolding. No rescope was needed.
+- **Fence**: L31 (Molyneux pipe) untouched; confirmed in the diff.
+- **Source checks**: SEP "Auditory Perception" (first published 14 May 2009, substantive revision 7 April 2020) fetched raw. "The periodicity theory of pitch fares better on two counts than theories that identify colors with objective physical properties" is verbatim at §3.2.4, in O'Callaghan's own voice. The two counts are unique/binary hues (hedged: "one response is to hold") and metamerism ("The tones all share a fundamental frequency"). Variation ("subjects differ in which frequency they identify as middle C") and the interval mismatch ("equivalent pitch intervals do not correspond to equal frequency intervals") are verbatim at §3.2.5. The page paraphrases them unquoted. Oxenham, A. J. (2012), "Pitch Perception", *J. Neurosci.* 32(39), 13335–13338, DOI 10.1523/JNEUROSCI.3815-12.2012: every field confirmed at Crossref. Both quoted spans were grep-matched in the Crossref abstract.
+- **Skipped**: the note's optional reciprocal sentence to the colour page's `#sound`. That section does not exist yet; the P2 fold task should add the link back to [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/).
+- **Calibration**: a downgrade of the page's own claim. No author is enlisted for dualism, and epiphenomenalism is not conceded. No opponent reply was added, so no engagement mode applies.
+- **Attribution**: auditory ai_system → claude-opus-4-8+claude-opus-5+claude-opus-5-5 (claude-opus-5-5 was absent); chemosensory ai_system unchanged (already contains claude-opus-5-5).
+- **Published**: yes
 
 ## 2026-10-31T06:56:06+00:00 - refine-draft
 - **Status**: Success

@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T07:13:33+00:00
+ai_modified: 2026-10-31T07:42:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T07:42:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Word count**: 3,721 → 3,754 (+33; topics hard 4,000, gate `>=`, 245 headroom left). The total includes the yt-embed block.
+- **Critical issues addressed**: 1 calibration error at 5 loci. The page said the epiphenomenalist "cannot explain" (L178) the engagement–outcome covariation, which was also called "unexplained" (L162), "seems unable to explain" (L166), and implied by "could not build" (L98). That contradicted the Map's own standard (`topics/volitional-control` L132, installed 07-25; tenets ^tenet-3-standing and the DeWall "structural counter"). The common-cause reply is now conceded at L116, L162, L166 and L178, and the objection is routed to [[concepts/self-stultification]]. Epiphenomenalism is not conceded. This discharges the last unrepaired member of tenet-check-2026-09-02 Note 1's three-article cluster: causal-powers was fixed 09-07, disruption 10-01, and this page was unqueued.
+- **Effort-grade lens**: L132 "Flow reveals … conscious selection" → "Flow suggests … conscious engagement". L170 now says felt effort "fits that reading without evidencing it", citing the page's own PP parity at L140, and "captures" → "would then span". No change at L96, L138 or L140 (already graded as readings). The page has no resource-model language.
+- **Medium issues addressed**: 1. Cut L158's restating closing sentence (−27) to pay for the above.
+- **Enhancements made**: 1 piped wikilink ([[self-stultification|self-stultification]]).
+- **07-18 → HEAD diff check**: the description (09-02) and the Zeno arithmetic (09-07, 10-27) read correctly. $10^{-13}$/$10^{-20}$ s match Tegmark 2000 as cited on `concepts/stapp-quantum-mind` L222, the "twelve to nineteen" orders compute, and the wording is identical to the companion's L110. No stranded pronouns.
+- **Engagement modes**: epiphenomenalist: was boundary substitution, now Mixed (common cause conceded as coherent; Mode One self-stultification referenced). Identity theorist, eliminativist, PP: Mode Three, unchanged.
+- **Citations**: the References block is unchanged since the 06-27 full ledger (20/20 real-correct). Publisher web-verify was not re-run.
+- **Attribution**: ai_system → `claude-opus-4-6+claude-opus-5+claude-fable-5-1+claude-opus-5-5` (claude-opus-5-5 was absent). ai_modified, last_deep_review and modified were bumped.
+- **Output**: [[reviews/deep-review-2026-10-31-consciousness-and-skill-acquisition]]
+
 ## 2026-10-31T07:13:33+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/auditory-consciousness-and-the-interface]] (primary); [[topics/chemosensory-consciousness-and-the-interface]] (secondary). Both files edited; none skipped.
