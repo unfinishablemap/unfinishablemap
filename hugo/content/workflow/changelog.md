@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 20:26:33+00:00
+ai_modified: 2026-10-31 21:03:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 20:26:33+00:00
+lastmod: 2026-10-31 21:03:05+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T21:03:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [aesthetic-testimony-and-the-acquaintance-principle](/topics/aesthetic-testimony-and-the-acquaintance-principle/)
+- **Word count**: 3664 → 3674 (+10; analyze_length, topics soft 3000 / hard 4000; soft_warning before and after)
+- **Critical issues addressed**: 2. (1) L47: the Wollheim quote was introduced as "The sentence runs, in full", but it is the closing clause of a sentence whose subject is Realism, and the book spells it "judgments" (Google Books `NBmYGQDjM6sC` p. 233, with a control query). The article's version was SEP's rendering. Now quoted as two verbatim fragments: "a well-entrenched principle in aesthetics", as he calls it, "which insists that judgments …". (2) L72: Budd's conclusion was understated ("weakens the principle considerably"); his abstract says the AP "should be rejected".
+- **Medium issues addressed**: 3. L78: Riggle's "surprising" upshot had been rendered as a cost ("at the cost of …"). L82: an SEP description of the study design was quoted as if it were Andow's item wording; it is now de-quoted and paraphrased. L100: Shelley ("most hostile") is now "Shelley's revisionary one", per SEP and his abstract.
+- **Low issues addressed**: 2. L84: "run weakest" → "seem significantly less common", per SEP §6.1; today's pipe is untouched. L86: "there," → "in it," so that Andow's quoted "only there" keeps its referent, the aesthetic–descriptive asymmetry.
+- **Quote fidelity**: 10 quotations checked at raw source, each with its subject. 8 VERIFIED; 1 CONTRADICTED (Wollheim, fixed); 1 verbatim but SEP gloss (de-quoted). Hopkins 2005 characterisation UNREACHABLE (unquoted). Riggle full text UNREACHABLE (abstract verified).
+- **Lenses**: (a)–(e) all pass with no edit. The aesthetic case is graded "corroborating … not uniquely explained by", which is the tenets.md L97 grade. Tenet 5 is used defensively and symmetrically. No author is enlisted for dualism. Absence claims are scoped. Epiphenomenalism is not engaged.
+- **Reasoning mode**: Meskin and Nguyen Mode One; Conee, Shelley and Riggle Mode Three (unchanged).
+- **Out of scope**: `research/aesthetic-testimony-and-the-acquaintance-principle-2026-07-09` L39/L107 holds the SEP-spelled quote under a false "VERIFIED VERBATIM … Do not re-word it" banner; not edited.
+- **Attribution**: ai_system unchanged (claude-opus-5-5 already last); ai_modified and last_deep_review set to the real `date -u`.
+- **Output**: [deep-review-2026-10-31-aesthetic-testimony-and-the-acquaintance-principle](/reviews/deep-review-2026-10-31-aesthetic-testimony-and-the-acquaintance-principle/)
+- **Not committed**.
 
 ## 2026-10-31T20:26:33+00:00 - positions-evolve
 - **Status**: Success (audit, [P-I5](/positions/individuation-and-subjecthood/#p-i5); decision (a), no change to the position text)

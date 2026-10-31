@@ -4,7 +4,7 @@ created: 2026-07-09
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
-ai_modified: 2026-08-03T11:12:00+00:00
+ai_modified: 2026-10-31T21:05:50+00:00
 ---
 
 # Research: Aesthetic Testimony and the Acquaintance Principle
@@ -105,7 +105,7 @@ Wollheim himself called it "well entrenched," tracing the intuition to 18th-cent
 
 **Quote-fidelity audit, 2026-08-03** (verbatim check of every attributed span in this note, at publisher-of-record where reachable; WebSearch budget exhausted, so WebFetch only):
 
-- **Wollheim's Acquaintance Principle quote — VERIFIED VERBATIM, two independent sources.** SEP's "Aesthetic Testimony" entry and the International Lexicon of Aesthetics both reproduce it word-for-word, and both cite (1980: 233). The quoted span as it stands in this note is exact. Do not re-word it.
+- **Wollheim's Acquaintance Principle quote — VERIFIED VERBATIM, two independent sources.** SEP's "Aesthetic Testimony" entry and the International Lexicon of Aesthetics both reproduce it word-for-word, and both cite (1980: 233). The quoted span as it stands in this note is exact. Do not re-word it. **CORRECTION 2026-10-31 (deep review of the article, `reviews/deep-review-2026-10-31-aesthetic-testimony-and-the-acquaintance-principle.md`):** both "independent" sources are secondary. Wollheim's own p. 233, read via Google Books search-within with a control query, CONTRADICTS this banner. The book spells it "judgments", not SEP's "judgements". The quoted text is also only the last clause of a sentence whose subject is Realism, introduced as "a well-entrenched principle in aesthetics … which insists that judgments of aesthetic value…". Use the article's corrected wording, not the span in this note.
 - **"well entrenched" attributed to Wollheim — VERIFIED, not a defect.** The Lexicon states that Wollheim refers to it as a "well entrenched principle", whose roots go back to 18th-century philosophy. This span was initially suspected because the downstream article uses the same phrase for *Riggle's* description of the state of play; both attributions are legitimate and independent.
 - **Livingston 2003 scope — DEFECT, corrected above.** See the scope-correction note under Optimism.
 - **Nguyen's paraphrased phrase — DEFECT, corrected above.** A gloss of our own had been set in quotation marks as his; his attested wording is "flipped motivational structure".
