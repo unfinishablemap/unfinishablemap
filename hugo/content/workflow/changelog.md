@@ -1,14 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 07:42:18+00:00
+ai_modified: 2026-10-31 07:59:21+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 07:42:18+00:00
+lastmod: 2026-10-31 07:59:21+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T07:59:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [colour-ontology-and-the-secondary-quality-residue](/topics/colour-ontology-and-the-secondary-quality-residue/)
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Review file**: [sound-ontology-and-the-secondary-quality-residue-2026-10-31](/research/sound-ontology-and-the-secondary-quality-residue-2026-10-31/) §fold (L198) and §Guards (L246).
+- **Word count**: 2,888 → 3,495 (+607; topics hard 4,000, gate `>=`). The fenced L86 P3 (~85) still fits: about 3,580 after it.
+- **Changes**: New `## Sound: The Same Question at a Second Modality {#sound}` between `#structure` and `#objections` (453 words, against the draft's ~360). Eight references were added and the list renumbered alphabetically to 27 entries; the Southgate pair stays chronological. Added the Further Reading line `[[auditory-consciousness-and-the-interface]]` and the same slug in `related_articles`. The section links to the auditory page by a piped link on "better physical candidate", which supplies the reciprocal link the 07:10Z auditory refine skipped. L86 is untouched.
+- **Quote ledger**: all 8 quoted spans were re-checked in raw sources fetched today, each occurring once and in the cited source only. O'Callaghan SEP "Auditory Perception" (in-text headings): "According to theories in which sounds are individuals…" §3.2.1; "sensations or projected features…" §3.2.1; "Color perhaps is a uniquely difficult case" §3.2.1; "fares better on two counts" §3.2.4; "loosely analogous" §3.2.5; "commonly reject the identification of pitch with frequency or periodicity" §3.2.5 (new, not in the draft). None of these occurs in the Casati, Dokic & Di Bona "Sounds" entry. Berkeley, First Dialogue (Gutenberg 4724): Hylas's "sound as it is perceived by us…" and Philonous's "SEEN OR FELT, but never HEARD", which sits inside a reductio ("according to you"). Galileo is paraphrased, checked against Wikisource *Il Saggiatore*/48.
+- **Paraphrase and originator checks (Sounds entry)**: four families (introduction); Pasnau 1999 property view "just like colors" (§3.1); Kulvicki 2008 dispositional, analogies with colours (§3.3, under "3. Distal Theories"); located-event theory "defended by Casati and Dokic (1994)" and relational version by "O'Callaghan (2007, 2010a)" (§3.2). All match the draft. Nudds (wave theory, §2.2) and Galileo's "dualist account" (proximal + medial, §2.1) were confirmed and are not used. Pasnau's "incoherent" is not quoted.
+- **Departures from the draft**: (1) The section now opens with the Map's reading, to front-load it. (2) "pitch arguably has no counterpart of the unique/binary hue distinction" became "the difference between audibly simple and complex tones lies in their partials, so the unique/binary hue problem arguably has no pitch counterpart". Pitch does have a simple/complex distinction (§3.2.4); it is physically captured. (3) "the mismatch … which O'Callaghan calls 'loosely analogous'" moved the subject to "an argument from structure", since §3.2.5's "This" is the argument, not the mismatch. (4) Added the metamer contrast ("whereas colour metamers share no obvious physical property", §3.2.4) and the psychoacoustic-rejection quote, so the section matches the auditory page: periodicity is pitch's better candidate, and the identification still meets resistance. (5) Channel naming: "whose attributions this paragraph follows" names the Sounds entry for the Pasnau/Kulvicki/Casati–Dokic/O'Callaghan-2007 claims. (6) "Philonous infers" became "retorts", because the line is a reductio. (7) "Hence his caution" now follows the disanalogies, where §3.2.1 draws it. (8) A Galileo pitch-from-wave-frequency clause was cut for budget.
+- **Engagement modes**: periodicity physicalism, Mode Three (the felt quality is handed to a theory of experience, at the compatible tier, with no refutation claimed). Property, dispositional and event views: no engagement needed; the Map takes no side on where the sound is.
+- **Attribution**: ai_system `claude-fable-5-1` → `claude-fable-5-1+claude-opus-5-5`. ai_modified from `date -u`; modified → 2026-10-31.
+- **Published**: yes
 
 ## 2026-10-31T07:42:18+00:00 - deep-review
 - **Status**: Success

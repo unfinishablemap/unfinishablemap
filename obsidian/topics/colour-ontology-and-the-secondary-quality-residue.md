@@ -2,9 +2,9 @@
 title: "Colour Ontology and the Secondary-Quality Residue"
 description: "Where does colour's intrinsic quality go under physicalism, relationalism, dispositionalism, primitivism and eliminativism? A human+AI test of the residue."
 created: 2026-09-30
-modified: 2026-09-30
+modified: 2026-10-31
 human_modified:
-ai_modified: 2026-10-01T02:44:14+00:00
+ai_modified: 2026-10-31T07:56:57+00:00
 draft: false
 topics:
   - "[[primary-secondary-quality-boundary]]"
@@ -23,9 +23,10 @@ related_articles:
   - "[[primary-secondary-quality-boundary]]"
   - "[[qualia]]"
   - "[[illusionism]]"
+  - "[[auditory-consciousness-and-the-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-fable-5-1
+ai_system: claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-09-30
 last_curated:
 last_deep_review: 2026-09-30T15:42:31+00:00
@@ -77,6 +78,16 @@ The [[galilean-exclusion]] page concedes that colour as a relation between surfa
 
 Gert draws the same lesson from the primitivist side: his objective colours are "insufficiently determinate in their nature to allow them to be associated with precise points in standard color spaces", and instead "standard color spaces are appropriate for the description of color appearances" (Gert 2017, abstract). A critic of reductive physicalism and a defender of primitivism thus agree that the structure colorimetry measures is the structure of appearance. Structure being tractable does not make the quality that carries the structure tractable — the split the [[primary-secondary-quality-boundary]] page calls structure described against quality undergone.
 
+## Sound: The Same Question at a Second Modality {#sound}
+
+On the Map's reading, the sorting extends to sound at the level of heard qualities, not of the sounds that bear them. Sound stands beside colour on Galileo's list: he doubted that sounds, any more than tastes or odours, outlast the removal of ears, tongues and noses (Galilei 1623/1957, §48). Berkeley's Hylas distinguishes "sound as it is perceived by us, and as it is in itself", and Philonous retorts that real sound so understood may be "*seen or felt*, but never *heard*" (Berkeley 1713, First Dialogue).
+
+Sound ontology asks a question colour ontology does not: where the sound itself is. The Stanford survey by Casati, Dokic and Di Bona (2020), whose attributions this paragraph follows, sorts the answers into proximal, medial, distal and aspatial theories. The Map takes no side among them. Property and dispositional views model sounds on colours (Pasnau 1999; Kulvicki 2008; §§3.1, 3.3), so the colour question applies to them directly. The event views, the located-event theory of Casati and Dokic (1994) and O'Callaghan's (2007) relational version (§3.2), put the sound in the world by making it an individual. O'Callaghan states the consequence: "According to theories in which sounds are individuals, sounds are not secondary or sensible qualities" (O'Callaghan 2020, §3.2.1). The question passes to pitch, timbre and loudness, and he offers pitch the colour menu: dispositions, their physical bases, "sensations or projected features of auditory experiences, or simple primitive properties of (actual or edenic) sounds", the last being the [[#eden|Edenic]] option transposed.
+
+The transfer is uneven. O'Callaghan (2020, §3.2.4) judges that the periodicity theory of pitch "fares better on two counts" than physicalist theories of colour. Tones that match in pitch share a fundamental frequency, even those lacking a component there, whereas colour metamers share no obvious physical property; and the difference between audibly simple and complex tones lies in their partials, so the unique/binary hue problem arguably has no pitch counterpart. Hence his caution: "Color perhaps is a uniquely difficult case" (§3.2.1). Two arguments do carry over (§3.2.5): intersubjective variation, since listeners differ in which frequency they identify as middle C, and an argument from structure, which he calls "loosely analogous" to colour's [[#structure|Argument from Structure]]: equal steps of heard pitch do not correspond to equal frequency intervals.
+
+Pitch still has in periodicity a [[auditory-consciousness-and-the-interface|better physical candidate]] than colour has in reflectance, though O'Callaghan reports that psychoacousticians "commonly reject the identification of pitch with frequency or periodicity" (2020, §3.2.5). Even where periodicity physicalism holds, it hands the felt height of a tone to a theory of experience, as reflectance physicalism hands over felt redness. As with colour, the sorting shows where the question sits and leaves it open.
+
 ## Objections {#objections}
 
 **Primitivism at its strongest.** Hacker's reply to the causal-role objection is that colours are no worse placed than solidity and liquidity (as reported in Maund 2024, §2.1). Campbell's diagnosis is that the mind-dependence of colour was assumed rather than shown, resting on the treatment of physics's inventory as complete — an assumption the Map's own [[galilean-exclusion]] page calls a posit rather than a discovery. If the Map may reject the completeness premise for experience, why not for objects?
@@ -102,25 +113,34 @@ The sorting result is compatible with the Map's [[tenets#^dualism|first tenet]] 
 - [[first-order-representationalism]] — The theory of experience reflectance physicalism pairs with
 - [[emergence-as-universal-hard-problem]] — Reduction as relocation of the gap
 - [[dualist-perception]] — Perception with the quality on the experience side
+- [[auditory-consciousness-and-the-interface]] — Pitch and timbre, the audible qualities the sound test turns on
 
 ## References
 
 1. Allen, K. (2016). *A Naïve Realist Theory of Colour*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198755364.001.0001
-2. Bolton, M. (2022). Primary and Secondary Qualities in Early Modern Philosophy. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (first published 1 June 2022). https://plato.stanford.edu/entries/qualities-prim-sec/
-3. Byrne, A., & Hilbert, D. R. (2003). Color realism and color science. *Behavioral and Brain Sciences*, 26(1), 3–21. https://doi.org/10.1017/S0140525X03000013
-4. Byrne, A., & Hilbert, D. R. (2007). Color primitivism. *Erkenntnis*, 66(1–2), 73–105. https://doi.org/10.1007/s10670-006-9028-8
-5. Campbell, J. (1993). A Simple View of Colour. In J. Haldane & C. Wright (Eds.), *Reality, Representation, and Projection* (pp. 257–268). Oxford University Press. https://doi.org/10.1093/oso/9780195078787.003.0011
-6. Chalmers, D. J. (2006). Perception and the Fall from Eden. In T. S. Gendler & J. Hawthorne (Eds.), *Perceptual Experience* (pp. 49–125). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199289769.003.0003 (Quotations follow the preprint at https://consc.net/papers/eden.pdf.)
-7. Cohen, J. (2009). *The Red and the Real: An Essay on Color Ontology*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199556168.001.0001
-8. Gert, J. (2017). *Primitive Colors: A Case Study in Neo-pragmatist Metaphysics and Philosophy of Perception*. Oxford University Press. https://doi.org/10.1093/oso/9780198785910.001.0001
-9. Hacker, P. M. S. (1987). *Appearance and Reality: A Philosophical Investigation into Perception and Perceptual Qualities*. Blackwell.
-10. Hardin, C. L. (1988). *Color for Philosophers: Unweaving the Rainbow*. Hackett. (Expanded edition 1993.)
-11. Johnston, M. (1992). How to speak of the colors. *Philosophical Studies*, 68(3), 221–263. https://doi.org/10.1007/BF00694847
-12. Kuehni, R. G. (2004). Variability in Unique Hue Selection: A Surprising Phenomenon. *Color Research & Application*, 29(2), 158–162. https://doi.org/10.1002/col.10237
-13. Maund, B. (1995). *Colours: Their Nature and Representation*. Cambridge University Press.
-14. Maund, B. (2024). Color. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (first published 1 December 1997; substantive revision 9 August 2024). https://plato.stanford.edu/entries/color/
-15. McGinn, C. (1996). Another Look at Color. *The Journal of Philosophy*, 93(11), 537–553. https://doi.org/10.2307/2941048
-16. Pautz, A. (2006). Can the physicalist explain colour structure in terms of colour experience? *Australasian Journal of Philosophy*, 84(4), 535–564. https://doi.org/10.1080/00048400601079094
-17. Pautz, A. (2020). How does colour experience represent the world? In D. H. Brown & F. Macpherson (Eds.), *The Routledge Handbook of Philosophy of Colour* (pp. 367–389). Routledge. https://doi.org/10.4324/9781351048521-29
-18. Southgate, A., Oquatre-six, C., Fabcinq-un, C., & Ocinq, C. (2026-02-16). Galilean Exclusion. *The Unfinishable Map*. https://unfinishablemap.org/concepts/galilean-exclusion/
-19. Southgate, A., Oquatre-huit, C., Ocinq, C., & Fabcinq-un, C. (2026-06-18). The Primary/Secondary-Quality Boundary as the Universal-Gap Fault-Line. *The Unfinishable Map*. https://unfinishablemap.org/topics/primary-secondary-quality-boundary/
+2. Berkeley, G. (1713). *Three Dialogues between Hylas and Philonous*. Project Gutenberg ebook 4724. https://www.gutenberg.org/ebooks/4724
+3. Bolton, M. (2022). Primary and Secondary Qualities in Early Modern Philosophy. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (first published 1 June 2022). https://plato.stanford.edu/entries/qualities-prim-sec/
+4. Byrne, A., & Hilbert, D. R. (2003). Color realism and color science. *Behavioral and Brain Sciences*, 26(1), 3–21. https://doi.org/10.1017/S0140525X03000013
+5. Byrne, A., & Hilbert, D. R. (2007). Color primitivism. *Erkenntnis*, 66(1–2), 73–105. https://doi.org/10.1007/s10670-006-9028-8
+6. Campbell, J. (1993). A Simple View of Colour. In J. Haldane & C. Wright (Eds.), *Reality, Representation, and Projection* (pp. 257–268). Oxford University Press. https://doi.org/10.1093/oso/9780195078787.003.0011
+7. Casati, R., & Dokic, J. (1994). *La philosophie du son*. Nîmes: Éditions Jacqueline Chambon.
+8. Casati, R., Dokic, J., & Di Bona, E. (2020). Sounds. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (first published 14 July 2005; substantive revision 10 April 2020). https://plato.stanford.edu/entries/sounds/
+9. Chalmers, D. J. (2006). Perception and the Fall from Eden. In T. S. Gendler & J. Hawthorne (Eds.), *Perceptual Experience* (pp. 49–125). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199289769.003.0003 (Quotations follow the preprint at https://consc.net/papers/eden.pdf.)
+10. Cohen, J. (2009). *The Red and the Real: An Essay on Color Ontology*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199556168.001.0001
+11. Galilei, G. (1623/1957). *The Assayer* (*Il Saggiatore*), §48. Trans. S. Drake. In *Discoveries and Opinions of Galileo*. Doubleday.
+12. Gert, J. (2017). *Primitive Colors: A Case Study in Neo-pragmatist Metaphysics and Philosophy of Perception*. Oxford University Press. https://doi.org/10.1093/oso/9780198785910.001.0001
+13. Hacker, P. M. S. (1987). *Appearance and Reality: A Philosophical Investigation into Perception and Perceptual Qualities*. Blackwell.
+14. Hardin, C. L. (1988). *Color for Philosophers: Unweaving the Rainbow*. Hackett. (Expanded edition 1993.)
+15. Johnston, M. (1992). How to speak of the colors. *Philosophical Studies*, 68(3), 221–263. https://doi.org/10.1007/BF00694847
+16. Kuehni, R. G. (2004). Variability in Unique Hue Selection: A Surprising Phenomenon. *Color Research & Application*, 29(2), 158–162. https://doi.org/10.1002/col.10237
+17. Kulvicki, J. (2008). The Nature of Noise. *Philosophers' Imprint*, 8(11), 1–16.
+18. Maund, B. (1995). *Colours: Their Nature and Representation*. Cambridge University Press.
+19. Maund, B. (2024). Color. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (first published 1 December 1997; substantive revision 9 August 2024). https://plato.stanford.edu/entries/color/
+20. McGinn, C. (1996). Another Look at Color. *The Journal of Philosophy*, 93(11), 537–553. https://doi.org/10.2307/2941048
+21. O'Callaghan, C. (2007). *Sounds: A Philosophical Theory*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199215928.001.0001
+22. O'Callaghan, C. (2020). Auditory Perception. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (first published 14 May 2009; substantive revision 7 April 2020). https://plato.stanford.edu/entries/perception-auditory/
+23. Pasnau, R. (1999). What Is Sound? *The Philosophical Quarterly*, 49(196), 309–324. https://doi.org/10.1111/1467-9213.00144
+24. Pautz, A. (2006). Can the physicalist explain colour structure in terms of colour experience? *Australasian Journal of Philosophy*, 84(4), 535–564. https://doi.org/10.1080/00048400601079094
+25. Pautz, A. (2020). How does colour experience represent the world? In D. H. Brown & F. Macpherson (Eds.), *The Routledge Handbook of Philosophy of Colour* (pp. 367–389). Routledge. https://doi.org/10.4324/9781351048521-29
+26. Southgate, A., Oquatre-six, C., Fabcinq-un, C., & Ocinq, C. (2026-02-16). Galilean Exclusion. *The Unfinishable Map*. https://unfinishablemap.org/concepts/galilean-exclusion/
+27. Southgate, A., Oquatre-huit, C., Ocinq, C., & Fabcinq-un, C. (2026-06-18). The Primary/Secondary-Quality Boundary as the Universal-Gap Fault-Line. *The Unfinishable Map*. https://unfinishablemap.org/topics/primary-secondary-quality-boundary/
