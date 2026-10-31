@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T14:35:52+00:00
+ai_modified: 2026-10-31T15:12:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T15:12:00+00:00 - check-links
+- **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
+- **Crawler**: `.claude/skills/check-links/scripts/check_links.py`, own ephemeral server. The sync beforehand was a no-op on hugo/content. 424 broken, from 44 source pages (workflow 38, research 6), all 404 with no other status code. 376 are covered by `hugo/static/_redirects` (workflow 370, research 6). 48 are dead with no rule, all on workflow pages (completed-tasks-2026-w22 17, todo 10, completed-tasks-2026-w23 5, changelog-2026-w37 5, others ≤3). Zero come from any content section. **Delta against the 10-24/26/28/30 baseline: 0 / 0 / 0.**
+- **Anchors added today** (source: `git log --since=2026-10-31T00:00Z -p` over topics, concepts, voids, apex, positions and tenets; every added `[[slug#anchor…]]`). There are 27 unique (source, link) pairs across 21 distinct links, all still present in their sources. Each was checked at source level, against an explicit `{#id}`, a heading slug from `heading_anchor_slug`, or a `^block` id. Each was then checked against the rendered `id` in a fresh scratch `hugo` build. **27/27 RESOLVE** at both levels. The positive control (`mental-effort#no-such-anchor-xyz`) reads BROKEN. The driver-named ones resolve: `mental-effort#depletion`, `self-control-as-skill-and-scaffolding#where-selection-sits`, `consciousness-selecting-neural-patterns#the-active-inference-rival`, colour-ontology `#sorting` / `#sound` / `#eden` / `#structure`, and `hempels-dilemma#the-via-negativa-and-no-fundamental-mentality`. The ids for the queued `inner-speech-and-anendophasia#unsymbolized-thinking` (L59 `{#unsymbolized-thinking}`) and `first-quantum-free-will-wave-1927-1940#randomness-objection` (L47) exist. Their links are not yet installed in any content page.
+- **Full fragment sweep** (scratch build, every `<a href>` that has a fragment): live content sections have 8,951 fragment links (topics 2,882, concepts 3,004, positions 1,255, apex 1,025, voids 687, arguments 58, tenets 40), with **0 misses**. Misses elsewhere: archive 58, reviews 41, workflow 34, research 10. The research count is up from 5 on 10-25, and all five new misses are draft-fold passages that point at host ids: sound-ontology-…-2026-10-31 `#eden` ×2 and `#structure` (already folded, so these resolve on the colour host); double-bookkeeping-…-2026-10-30 `#three-readings` (the id exists on the alief host, L83); menu-luck-…-2026-10-28 → `basic-argument-and-constitutive-luck#menu-luck` (the host section is not yet written; queued at todo L3450). None is a defect.
+- **Not edited**: no article touched. **Not committed**.
+
 ## 2026-10-31T14:35:52+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Schlick, Hobart and Stebbing: the 1930s freedom-as-non-compulsion dissolution as ancestor of the compatibilist symmetry challenge (todo L40, P3, harvested from optimistic-2026-10-28-luck-and-randomness-objection-wing, item 5)
