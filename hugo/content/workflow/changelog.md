@@ -10,6 +10,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-10-31T09:39:40+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Reference-and-report wing (5 pages read in full): topics/philosophy-of-language-under-dualism (2,767; 1 prior optimistic target, 08-02, before all four spokes existed), topics/inner-speech-and-anendophasia (2,990; 1 target), topics/singular-thought-and-acquaintance (3,119; 1 target), topics/visual-indexes-and-demonstrative-reference (2,981; 1 target), topics/chain-of-thought-as-verbal-protocol (2,993; 1 target; open P3 at todo L2891 not duplicated). Verdict: the four spokes grade consciousness as "fits without evidencing"; the April hub still grades it as evidence at L100, L108, L110 and L124.
+- **Source fidelity**: PLUD L110 CONTRADICTED in its inference. Musacchio, who frames the word-anchoring problem, answers it physicalistically ("the presumed immateriality of the mind is an illusion", Musacchio 2012 p. 64, grep-verified in the open PDF; Crossref DOI 10.1007/978-3-642-27198-4_5). The 2005 Language Sciences text itself was unreachable (ScienceDirect 403).
+- **Uncovered subjects**: none warrants an article (topics 368/370, concepts 370/370); 6 candidates grep-checked with a control and recorded in the review.
+- **Priority list**: 3 items for the driver to mint (no todo.md lines written): (1) PLUD calibration + Musacchio disclosure + 4 zero-word pipes, +94 to 2,861; (2) CoT L69 human-half sentence linking ISA #unsymbolized-thinking, plus the L35 parse fix, +30 to 3,023, coordinated with the open P3; (3) ISA L101 zero-word pipe to PLUD.
+- **Output**: [optimistic-2026-10-31-reference-and-report-wing](/reviews/optimistic-2026-10-31-reference-and-report-wing/)
+
 ## 2026-10-31T08:48:52+00:00 - refine-draft
 - **Status**: Success
 - **File**: [sellars-manifest-and-scientific-images](/concepts/sellars-manifest-and-scientific-images/)
