@@ -388,9 +388,9 @@
   commissioned_at: '2026-10-31T02:08:52.731941+00:00'
   prompt_summary: Audit emotion-regulation-and-the-timing-of-control (recent-aged)
   target_filename: outer-review-2026-10-31-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-31T03:53:32.528344+00:00'
   failure_reason: null
   prompt_text: 'Please audit one article from The Unfinishable Map, a philosophy site
     that takes a dualist, interactionist position on consciousness: https://unfinishablemap.org/topics/emotion-regulation-and-the-timing-of-control/

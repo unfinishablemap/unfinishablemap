@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T03:40:40+00:00
+ai_modified: 2026-10-31T04:03:13+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T04:03:13+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review at ~03:52 UTC, ~104 min after commission, from https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae54d8d-639c-83eb-a22a-35cdb53311d7; js-dom extraction, 51,400-char body, SHA-256 matched in-page and on disk)
+- **File**: [[reviews/outer-review-2026-10-31-chatgpt-5-6-sol-pro]]
+- **Subject**: recent — `topics/emotion-regulation-and-the-timing-of-control` (first leg of the 2026-10-31 cycle; Claude leg pending, Gemini not yet commissioned)
+- **Claims verified**: 28 adjudicated against PubMed/Crossref/OpenAlex and the live pages. 17 survive, including all 11 post-2020 citations checked: Matthews 2021, Yin 2024, Nook 2021, Ariely 2026, Wang 2022, Chen 2024, Chen 2026, Sheeran 2024, Martínez-Priego 2024, Mitchell 2025, Zhou 2026. 7 are partial or lower value, 1 is unverified, 3 fail against the live page (versioning, strongest-rival and Stapp-box improvements). The Thiruchselvam re-exposure comparator is misstated (attend history, not reappraisal history). The implementation-intention RoBMA d ≈ 0.15 is unverified.
+- **High-value findings**: 4. (1) "No conscious contribution at any stage" (description, L37, L75) outruns its sources, which show only no conscious goal, supervision or awareness of regulating. A research-note guard (L680) fixed it before the audit, and the 10-24 deep review's stability note ratified it on the epiphenomenalism axis only. (2) The research note recorded McRae & Gross 2020's monitoring stage and the article dropped it. (3) Both implicit examples were contested by 2021–2026 work. (4) The timing experiments instruct the strategy, so they never reach the stages where the placement sits.
+- **Tasks generated**: 3 (P1: ER construct scope + Webb clause + instructed-strategy and conscious-access sentences, secondary alief L115; P2: ER literature currency; P2: `concepts/skill-delegation` L38 lede/body inconsistency). 5 addenda: the open P3 ER cross-review (E2 mental-effort L106 and E4 clinical-neuroplasticity link externally confirmed; its "at any stage" calibration line superseded) and NEEDS-HUMAN 2026-08-03 propagation, 2026-07-30 ledger, 2026-07-29 bedrock immunity, 2026-07-25 freshness trigger. parse_tasks active 277 → 280.
+
 ## 2026-10-31T03:40:40+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Expanded or exceeded physics: is Sellars' sensa naturalism a dualism by another name?
