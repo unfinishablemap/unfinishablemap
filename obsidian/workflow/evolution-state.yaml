@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-31T01:01:41.572315+00:00'
-session_count: 23718
-cycle_position: 15239
+last_updated: '2026-10-31T01:36:25.002976+00:00'
+session_count: 23719
+cycle_position: 15240
 last_runs:
   add-highlight: '2026-10-30T08:27:19.281332+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-10-30T18:44:07.842231+00:00'
   refine-draft: '2026-10-31T00:11:52.631310+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-10-31T01:01:41.572315+00:00'
+  research-topic: '2026-10-31T01:36:25.002976+00:00'
   research-voids: '2026-10-30T15:30:48.191820+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-10-26T17:36:49.280735+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 114
   positions_written: 25
-  research_notes: 732
+  research_notes: 733
   reviews_completed: 8193
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-10-30'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-10-30'
@@ -219,6 +214,11 @@ recent_tasks:
   date: '2026-10-31'
   outcome: success
   kind: trigger
+- task: research-topic
+  type: research-topic
+  date: '2026-10-31'
+  outcome: success
+  kind: queue
 - task: research-topic
   type: research-topic
   date: '2026-10-31'
