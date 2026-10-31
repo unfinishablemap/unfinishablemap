@@ -2,9 +2,9 @@
 title: "Aesthetic Testimony and the Acquaintance Principle"
 description: "Why we resist taking a work's beauty on someone's say-so: Wollheim's Acquaintance Principle, the pessimism debate, and its kinship with the knowledge argument."
 created: 2026-07-09
-modified: 2026-09-01
+modified: 2026-10-31
 human_modified:
-ai_modified: 2026-09-01T23:48:07.744395+00:00
+ai_modified: 2026-10-31T18:22:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[knowledge-argument]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-09-01T16:41:00+00:00
@@ -81,7 +81,7 @@ Nick Riggle, against the run of play, defends pessimism. In "Aesthetic acquainta
 
 Meskin's deflation rests on a claim experiment could settle, and the experimental literature has not settled it — what it measures is the perception rather than the fact. Andow's study of aesthetic testimony, known here only through the Stanford Encyclopedia's survey of experimental work, asked participants whether forming aesthetic beliefs on a friend's or an expert's testimony is "less permissible and legitimate compared to forming such beliefs based on first-hand experience," against beliefs about size or price; the asymmetry appeared. His follow-up on moral testimony ran mediation analyses on the aesthetic contrast too, finding that "perceptions of background levels of disagreement and deception partially explain both asymmetries concerning judgments about legitimacy." People do perceive more deception and disagreement in aesthetic matters, and that perception carries part of the reluctance. Whether aesthetic testifiers *are* differentially insincere and incompetent is a separate claim these studies do not measure, and Robson and Wallbank's verdict on its verifiability stands unrevised in a 2024 entry that cites Andow for other purposes.
 
-A third pragmatic explanation, distinct from the two limbs the Stanford Encyclopedia attributes to Meskin, has better evidence behind it than either. Vessel, Maurer, Denker and Starr measured agreement in preference across five visual domains and found "preferences for images of faces and landscapes containing a high proportion of shared taste, while preferences for images of exterior architecture, interior architecture and artworks reflected strong individual differences." Where taste is that idiosyncratic, a perfectly sincere and perfectly competent testifier is still a poor predictor of *your* response to an artwork, so deference buys little — no insincerity or incompetence required. That bears most directly on testimony taken as guidance about how a work will strike you. It also predicts that the Acquaintance Principle should press less firmly on faces and natural beauty than on artworks, since deference costs less where taste is shared — and half of that is already on record: the Stanford Encyclopedia lists natural beauty (citing Meskin 2004: 88–9) among the judgements where pessimist intuitions run weakest, an exception optimists use as evidence, which the shared-taste finding would explain. Whether the graded pattern survives measurement we have not found tested.
+A third pragmatic explanation, distinct from the two limbs the Stanford Encyclopedia attributes to Meskin, has better evidence behind it than either. Vessel, Maurer, Denker and Starr measured agreement in preference across five visual domains and found "preferences for images of faces and landscapes containing a high proportion of shared taste, while preferences for images of exterior architecture, interior architecture and artworks reflected strong individual differences." Where taste is that idiosyncratic, a perfectly sincere and perfectly competent testifier is still a poor predictor of *your* response to an artwork, so deference buys little — no insincerity or incompetence required. That bears most directly on testimony taken as guidance about how a work will strike you. It also predicts that the Acquaintance Principle should press less firmly on faces and natural beauty than on artworks, since deference costs less where taste is shared — and half of that is already on record: the Stanford Encyclopedia lists [[aesthetics-beyond-art|natural beauty]] (citing Meskin 2004: 88–9) among the judgements where pessimist intuitions run weakest, an exception optimists use as evidence, which the shared-taste finding would explain. Whether the graded pattern survives measurement we have not found tested.
 
 On whether metaphysics drives the reluctance, the record runs against the Map's reading, unevenly enough to need care. The Stanford Encyclopedia reports that in Andow's aesthetic study the asymmetry "was not moderated by the participants' attitudes toward the status of aesthetic judgments." His later study fits that null imperfectly — there, metaphysical beliefs partially explain the aesthetic-descriptive asymmetry, "and perhaps only there" — though Andow himself sees "no great conflict" between the two results and cautions that "the null results in either study should be interpreted cautiously." The mediating belief is agreement that there is a fact of the matter, and it is *lower* agreement that predicts less willingness to defer. So far as folk resistance tracks metaphysics at all, then, it tracks folk anti-realism — the unavailability pessimist's territory rather than the Map's. Neither result reaches the question of what aesthetic knowledge is; both measure what people say. But the Map cannot treat the absence of evidence for Meskin's deflation as breathing room and then decline the evidence that did come back.
 

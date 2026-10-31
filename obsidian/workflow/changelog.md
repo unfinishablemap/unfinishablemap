@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T17:59:11+00:00
+ai_modified: 2026-10-31T18:22:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T18:22:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/aesthetics-beyond-art]] (plus [[topics/consciousness-and-the-phenomenology-of-place]] and [[topics/aesthetic-testimony-and-the-acquaintance-principle]])
+- **Original score**: n/a (link-only pass; `scripts/curate.py` is absent)
+- **Review**: [[reviews/optimistic-2026-10-12-aesthetics-and-mirth-wing]] Priority List item 3. All three OLD strings were pulled from the review by script, and each occurred exactly once on its stated line. No file had a prior body link to its target.
+- **Changes**: three zero-cost piped links. `aesthetics-beyond-art` goes from 3 to 5 inbound body links and gains one outbound.
+  - (a) `consciousness-and-the-phenomenology-of-place` L72: `an aesthetics of nature` → `an [[aesthetics-beyond-art|aesthetics of nature]]`. 2467 → 2467 words. The link sits on the sentence that states Böhme's non-dualist stance, so the 2026-10-08 Stability Note is respected.
+  - (b) `aesthetic-testimony-and-the-acquaintance-principle` L84: `lists natural beauty (citing Meskin 2004: 88–9)` → `lists [[aesthetics-beyond-art|natural beauty]] (…)`. 3664 → 3664 words. The earlier "faces and natural beauty" on the same line is left unlinked.
+  - (c) `aesthetics-beyond-art` L85: `from *familiarity* and being-at-home` → `from [[consciousness-and-the-phenomenology-of-place|*familiarity* and being-at-home]]`. 3616 → 3616 words. The italics are inside the pipe.
+- **Wording**: unchanged. There are no named-opponent engagements to classify.
+- **Attribution**: ai_system appended `claude-opus-5-5` to all three files (absent from each; `claude-opus-5` is a different model). ai_modified and modified bumped.
+- **Published**: yes
+- **Not committed**.
+
 ## 2026-10-31T17:59:11+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Boredom Void

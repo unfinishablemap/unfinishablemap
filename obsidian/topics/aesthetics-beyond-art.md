@@ -2,9 +2,9 @@
 title: "Aesthetics Beyond Art: Nature and the Everyday"
 description: "Environmental and everyday aesthetics share one founding disanalogy and two open questions—how far the aesthetic scales, and where aesthetic value lives."
 created: 2026-07-09
-modified: 2026-08-22
+modified: 2026-10-31
 human_modified:
-ai_modified: 2026-08-22T09:45:30+00:00
+ai_modified: 2026-10-31T18:22:30+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[phenomenal-normativity-environmental-ethics]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-opus-5-5
 ai_generated_date: 2026-07-09
 last_curated:
 last_deep_review: 2026-08-22T09:45:30+00:00
@@ -82,7 +82,7 @@ Two books secured the field's foothold. Yuriko Saito's *Everyday Aesthetics* (Ox
 
 Leddy answers largely yes. On his account everyday aesthetics is closely related to the aesthetics of art, and the ordinary becomes aesthetic through a heightened attention that lends it an "aura" — the extraordinary latent in the ordinary, brought out by a mode of looking continuous with how one attends to a painting. This is the *continuity* pole.
 
-Saito answers largely no. She argues that the Kantian model of disinterested contemplation is the wrong template for the everyday, because everyday aesthetic response is typically *action-oriented and non-disinterested* — we do not merely contemplate the messy kitchen, we are moved to clean it. Her examples are deliberately unglamorous: personal grooming, the choice of a pet, garden design, the transience of ambient qualities. This is the *break-from-art* pole. Arto Haapala adds a further twist against the art model from a different angle: everyday aesthetic value, he argues, arises paradoxically from *familiarity* and being-at-home rather than from the strangeness or distance that art appreciation cultivates.
+Saito answers largely no. She argues that the Kantian model of disinterested contemplation is the wrong template for the everyday, because everyday aesthetic response is typically *action-oriented and non-disinterested* — we do not merely contemplate the messy kitchen, we are moved to clean it. Her examples are deliberately unglamorous: personal grooming, the choice of a pet, garden design, the transience of ambient qualities. This is the *break-from-art* pole. Arto Haapala adds a further twist against the art model from a different angle: everyday aesthetic value, he argues, arises paradoxically from [[consciousness-and-the-phenomenology-of-place|*familiarity* and being-at-home]] rather than from the strangeness or distance that art appreciation cultivates.
 
 The disagreement is not merely terminological. If the everyday is aesthetic only when we borrow art's contemplative stance, then everyday aesthetics is a footnote to art aesthetics. If instead ordinary engaged life has its own aesthetic mode, the field describes something the art-centred tradition genuinely missed.
 

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-10-08 08:29:27+00:00
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_modified: 2026-10-31 18:22:30+00:00
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -13,7 +13,7 @@ concepts:
 - '[[nihilism-and-existentialism]]'
 - '[[attention-as-interface]]'
 created: 2026-02-19
-date: &id001 2026-02-22
+date: &id001 2026-10-31
 description: How the felt character of being in a place—atmosphere, familiarity, belonging—reveals
   consciousness as an irreducible binding force beyond information processing.
 draft: false
@@ -25,7 +25,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-08 08:29:27+00:00
-lastmod: 2026-10-08 08:29:27+00:00
+lastmod: 2026-10-31 18:22:30+00:00
 modified: *id001
 related_articles:
 - '[[embodiment-cognitive-limits]]'
@@ -72,7 +72,7 @@ The atmospheric character of place poses a version of the [binding problem](/top
 - Bodily comfort and spatial affordance
 - Evaluative associations with similar spaces
 
-No single sensory channel delivers the atmosphere. It emerges from the [binding of these channels into a unified experiential gestalt](/topics/the-binding-problem/). Crucially, the atmosphere is experienced as a *property of the place*, not as a subjective overlay — just as colour is experienced as a property of surfaces. Gernot Böhme (1993), developing the concept of atmosphere from Hermann Schmitz's philosophy of the body, places atmosphere at neither pole alone: it is "the common reality of the perceiver and the perceived" (p. 122). Böhme's project is an aesthetics of nature rather than a theory of mind, and he draws no dualist conclusion from it; the Map's reading of this shared reality as a case of phenomenal binding is its own. This outward projection of a unified quality from disparate inputs is a paradigm case of such binding.
+No single sensory channel delivers the atmosphere. It emerges from the [binding of these channels into a unified experiential gestalt](/topics/the-binding-problem/). Crucially, the atmosphere is experienced as a *property of the place*, not as a subjective overlay — just as colour is experienced as a property of surfaces. Gernot Böhme (1993), developing the concept of atmosphere from Hermann Schmitz's philosophy of the body, places atmosphere at neither pole alone: it is "the common reality of the perceiver and the perceived" (p. 122). Böhme's project is an [aesthetics of nature](/topics/aesthetics-beyond-art/) rather than a theory of mind, and he draws no dualist conclusion from it; the Map's reading of this shared reality as a case of phenomenal binding is its own. This outward projection of a unified quality from disparate inputs is a paradigm case of such binding.
 
 A functionalist might respond that atmospheric perception is simply multi-modal integration — the brain computes a weighted average of sensory inputs and attaches an affective tag. Integrated information theory (IIT) offers a more sophisticated version, and it is worth stating precisely: the scalar phi measures only the *quantity* of consciousness, while the *specific* quality of an experience is fixed by the maximally irreducible cause-effect structure — the "shape" the system carves in qualia-space. IIT therefore already predicts that two states with equal phi can differ completely in atmospheric quality; that is a commitment of the theory, not a difficulty for it. The harder question the Map presses is whether the cause-effect structure itself fixes the *specific* atmospheric feel of *this particular room*. The atmosphere has a qualitative character as distinctive and unrepeatable as a face, and it is not obvious that even the full cause-effect structure determines *which* such quality obtains rather than merely that some determinate quality does. Consciousness encounters each place as phenomenally unique; whether any structural measure captures that uniqueness, as against redescribing it, is exactly what remains open.
 
