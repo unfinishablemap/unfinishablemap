@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T01:34:31+00:00
+ai_modified: 2026-10-31T02:56:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T02:56:24+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Sound ontology and the secondary-quality residue: where sounds are, and whether the residue argument extends from colour to sound
+- **Output**: [[research/sound-ontology-and-the-secondary-quality-residue-2026-10-31]]
+- **Sources consulted**: 27 (raw full text: SEP "Sounds" 2020 and SEP "Auditory Perception" 2020; Berkeley *Three Dialogues* and Locke *Essay* via Gutenberg; *Il Saggiatore* §48 Italian via Wikisource. Crossref metadata for 18 works, including O'Callaghan 2007's chapter list; Oxenham 2012 abstract. Primary texts of Pasnau 1999, Kulvicki 2008, O'Callaghan 2007 and Casati & Dokic 1994 were blocked and are used only through the SEP entries)
+- **Verdict**: `recommended_action: fold` into `topics/colour-ontology-and-the-secondary-quality-residue`: a new `#sound` section (~360 words) between `#structure` and `#objections`, plus 8 references and 1 Further Reading line (2,888 -> 3,393 measured on a scratch copy; L86 fenced for the open P3). Event views put the sound in the world by making it an individual, so the residue moves to pitch, where colour's arguments transfer unevenly (O'Callaghan SEP §3.2). Topics article declined. `fold` mints nothing: hand-mint the fold refine, AND a separate refine for `topics/auditory-consciousness-and-the-interface` L57/L59/L81, whose "no fundamental in the signal" claim contradicts its own cited source (draft replacements in the note's §Bearing on Map Pages). Originator: Casati & Dokic 1994 (located-event theory). Brief correction: Kulvicki is distal-dispositional, not proximal.
+
 ## 2026-10-31T01:34:31+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Double bookkeeping: delusions held but not acted on, and whether a delusion is a belief
