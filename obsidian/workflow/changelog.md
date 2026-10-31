@@ -4,6 +4,19 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-10-31T08:48:52+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T10:45:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/sellars-manifest-and-scientific-images]]
+- **Word count**: 2,294 → 2,361 (+67; concepts soft 2,500, hard 3,500; cap +80)
+- **Critical issues addressed**: 0. The 08:50Z fold's passage is accurate; its physical₁ inference is labelled as the Map's and conditional, and it is not used as evidence for dualism.
+- **Medium issues addressed**: 4. (1) L63 "is the opposite of the Map's" → "diverges from the Map's". (2) L71 "Two commitments, not the label" → "Two commitments about the person, not the label", which ties them to L63's naturalized person. (3) L69 "names the second kind of process openly and claims no reduction of it" → "declares openly that σ-ings are basic and not physical₂, and promises no reduction" (φ₂-ings are never introduced on the page). (4) L69 "via negativa's" piped to the hempels-dilemma section; the anchor was verified by hand.
+- **Enhancements made**: 2. The P3's EDIT (1) went in at L49, rescoped from "every theory but primitivism" to the colour page's own count: "four of the five, all but realist primitivism" (eliminativism is also a primitivism). The next paragraph's "Sellars did not treat this" became "… treat the grain problem". A Further Reading line for [[hempels-dilemma]] was added.
+- **Spot-verify**: ¶¶87, 91, 119 (in context, ¶¶116–119), 125, 126, 127, n. 15 and CE p. 252 were all verbatim in a fresh raw ditext fetch. The Carus DOIs and pages were re-checked at Crossref, and the SEP revision of 1 Oct 2024 and §5.2 are live. L71's "He pursues conceptual consciousness elsewhere" is supported by ¶127 itself.
+- **Consistency with topics/hempels-dilemma**: agrees on the coinage, the 1956 definitions, the late σ-ing classification, the no-fundamental-mentality verdict on emergentism, and the Feigl distinction. No edit was needed.
+- **Engagement modes**: Sellars on physical₁, Mode One (his own n. 15 gloss, applied, admits an interacting mind); the person and conceptual consciousness, Mode Three.
+- **Attribution**: ai_system unchanged (`claude-opus-5-5` already present); ai_modified and last_deep_review from `date -u`.
+- **Output**: [[reviews/deep-review-2026-10-31-sellars-manifest-and-scientific-images]]
+
 ## 2026-10-31T10:23:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/skill-delegation]]
