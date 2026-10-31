@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T05:02:13+00:00
+ai_modified: 2026-10-31T05:18:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T05:18:50+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-10-31
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-opus-5-5, gemini-3-1-pro). All three audited `topics/emotion-regulation-and-the-timing-of-control` (subject_type recent; ChatGPT's recent-aged fallback, reused by Claude and Gemini).
+- **Adjudication**: done before clustering, against the live page (unchanged since 2026-10-24), the processing passes' Verification Notes and the commission prompts. 16 reviewer claims failed: Claude 7, Gemini 6 plus 2 nonexistent or unlocated sources (Smith 2021, Strauss 2021), ChatGPT 3. Two failures are new this pass. (1) Claude's apex phrase "does not exist as advertised" was real wording, removed 2026-10-08 (dbad99244b), so it is a stale fetch, not a fabrication. (2) Claude's request for a reciprocal emotion-and-dualism link is already met: the link has been at L109 since 2026-10-23.
+- **Clusters**: 10 with at least two reviewers. C1, construct scope of "no conscious contribution at any stage", is 3/3, with Claude's vote partial; affect labelling alone is 2/3. C7, the lab-to-field gap, is 2 verified plus Gemini directional. The rest are 2/3. C6 (regulation choice) is prompt-induced. C9 (decoherence pointer) is low value. C10 (propagation) converges at the pattern level only, with no page in common. Also 12 singletons, 2 rejected convergences (the prompt-induced "stops at 2018" verdict; constructionism, already bounded at L85) and 6 divergences.
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1). The "earlier is easier" task (todo L3834) was raised on C5 and C7; only the header prefix changed and its title is unchanged.
+- **Tasks rewritten at unchanged priority**: 2. The P1 rescope (L3787) was already P1. The P2 literature-currency task (L3797) was HELD at P2 by judgment: its convergent sub-items are prompt-induced (b) or only a few words (g, h), and its substance is ChatGPT-only. Both now have Review files listing all three legs, a Synthesis line and a dated SYNTHESIS note. Both emotion-regulation tasks carry run-order coordination, because "earlier is easier" now outranks the currency task.
+- **Tasks deduplicated**: 0. The processing passes had already folded later legs into the earlier legs' tasks as addenda. The singletons were left untouched: trilemma P1, stapp P2, skill-delegation P2. parse_tasks gives 283 active before and after; P1 4→5, P2 22→21. git diff --stat on todo.md: 10 insertions, 7 deletions.
+- **Output**: [[reviews/outer-review-synthesis-2026-10-31]]
+
 ## 2026-10-31T05:02:13+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 3.1 Pro Deep Research. collect-gemini-review collected it at ~04:53 UTC, ~44 min after commission, from https://gemini.google.com/app/49453f687ad477a3. Extraction was js-dom from the h1 report panel: 26,497 chars, SHA-256 matched in-page and on disk. Gemini's source chips render empty, so the report carries no links.
