@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 01:00:15+00:00
+ai_modified: 2026-10-31 01:34:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 01:00:15+00:00
+lastmod: 2026-10-31 01:34:31+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T01:34:31+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Double bookkeeping: delusions held but not acted on, and whether a delusion is a belief
+- **Output**: [double-bookkeeping-and-the-doxastic-status-of-delusion-2026-10-30](/research/double-bookkeeping-and-the-doxastic-status-of-delusion-2026-10-30/)
+- **Sources consulted**: 29 (raw full text or OCR: Bleuler 1911 German and the 1950 Zinkin translation; Parnas, Urfer-Parnas & Stephensen 2021; Bayne & Pacherie 2005; Bortolotti 2012; Schwitzgebel 2012 penultimate; Porcher 2024 preprint; SEP "Delusion" 2022. Google Books snippets: Sass 1994, Egan 2009. The rest at abstract or metadata level)
+- **Verdict**: `recommended_action: fold` into `topics/alief-and-acting-against-belief` (~355-word section plus ~190 words of references; 3,351 -> 3,914 measured on a scratch copy, of 3,999). Draft passage, quotation ledger and guards are in the note's §Recommended Fold. Topics article declined (attitude type is a Factor-2 question under the Capgras scope rule; topics has 2 slots). `fold` mints nothing: the refine-draft must be hand-minted. The note's §Bearing on Map Pages has an optional, unminted lead for `topics/clinical-insight-presented-and-judged-unreality` L112.
+- **Key findings**: Bleuler coined *doppelte Buchführung* (1911, p. 45) for orientation, not action. His inaction passage (1950 p. 129, "Kings and Emperors...") does not use the term, and he traced inaction to affect and apathy. The extension to behavioural inertness is later (Bortolotti & Broome 2012); the revival is Sass's (1994). The argument from inaction limits the generality of doxasticism without establishing a rival (Porcher 2024), and the action record counts harder against Currie's imagination account (Bayne & Pacherie 2005, p. 173). Capgras L69/L71 stand, because the scope rule already sets Factor 2 aside.
+- **Propagated defects caught**: Bayne & Pacherie's (and Porcher's) "77% of fifty-nine" Wessely figure is not in the Wessely abstract, which says half. "260 Capgras cases" is 260 misidentification case reports, 174 of them Capgras. Porcher misquotes Sass p. 21 ("appear to be living"; the source reads "seem to live"). No source was found applying alief to delusion, Gendler included.
 
 ## 2026-10-31T01:00:15+00:00 - research-topic
 - **Status**: Success
