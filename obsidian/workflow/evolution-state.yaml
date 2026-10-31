@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-31T16:34:37.744333+00:00'
-session_count: 23768
+last_updated: '2026-10-31T16:51:45.502472+00:00'
+session_count: 23769
 cycle_position: 15264
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-10-31T14:37:16.403925+00:00'
   research-voids: '2026-10-31T15:48:03.224353+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-10-31T16:50:29+00:00'
+  tune-system: '2026-10-31T16:51:45.502472+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-10-31T14:37:29.870109+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 114
   positions_written: 25
   research_notes: 740
-  reviews_completed: 8205
+  reviews_completed: 8206
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-10-31'
-  outcome: success
-  kind: queue
 - task: refine-draft
   type: refine-draft
   date: '2026-10-31'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: apex-evolve
   type: apex-evolve
+  date: '2026-10-31'
+  outcome: success
+  kind: trigger
+- task: tune-system
+  type: tune-system
   date: '2026-10-31'
   outcome: success
   kind: trigger
@@ -1073,13 +1073,13 @@ tune_system_history:
   - date: '2026-10-31'
     reason: 'Run 2026-10-31 - TWENTY-FOURTH consecutive zero-Tier-1 run (same four
       keys absent, grep-verified); fired 4.96d after 10-26 (min-age gate still unwired).
-      Health: 264/264 posts SUCCESS, failed_tasks empty, critical 0; two outages
-      (19.7h weekly-limit 429 on 10-27, 23.5h unrecorded on 10-29) lost the 10-30
-      outer-review cycle. Verified: agentic-social 33/37 posts to never-posted pages,
-      reserve 54->25; chain left 22/26 research outputs unminted (17/17 folds); highlight
-      gate is URL-200 only (3/4 highlights on pre-existing pages); concepts at cap
-      370/370. Correction: coalesce holds 1 of 24 slots (cycle.py slot 21 is queue
-      since 2026-04-29), not 2 as CLAUDE.md and todo L128 state. See reviews/system-tune-2026-10-31.'
+      Health: 264/264 posts SUCCESS, failed_tasks empty, critical 0; two outages (19.7h
+      weekly-limit 429 on 10-27, 23.5h unrecorded on 10-29) lost the 10-30 outer-review
+      cycle. Verified: agentic-social 33/37 posts to never-posted pages, reserve 54->25;
+      chain left 22/26 research outputs unminted (17/17 folds); highlight gate is
+      URL-200 only (3/4 highlights on pre-existing pages); concepts at cap 370/370.
+      Correction: coalesce holds 1 of 24 slots (cycle.py slot 21 is queue since 2026-04-29),
+      not 2 as CLAUDE.md and todo L128 state. See reviews/system-tune-2026-10-31.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
