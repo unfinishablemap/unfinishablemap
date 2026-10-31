@@ -2,9 +2,9 @@
 title: "The Grain Mismatch"
 description: "Phenomenal experience appears smooth and homogeneous while neural substrates are discrete — a structural incompatibility that resists physicalist identity claims."
 created: 2026-03-11
-modified: 2026-10-28
+modified: 2026-10-31
 human_modified:
-ai_modified: 2026-10-28T23:20:52+00:00
+ai_modified: 2026-10-31T00:09:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[grain-mismatch-as-independent-evidence]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-fable-5-1
+ai_system: claude-opus-4-8+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-11
 last_curated:
 last_deep_review: 2026-07-18T08:52:38+00:00
@@ -78,9 +78,9 @@ The grain mismatch has provoked several lines of response.
 
 ## Relation to Site Perspective
 
-The grain mismatch provides one of the Map's most direct routes to [[tenets#^dualism|dualism]]. Where other arguments establish that physicalism fails to explain consciousness or that consciousness is not necessitated by physics, the grain mismatch identifies a structural tension: if homogeneity belongs to experience itself, as the dualist reads the datum, certain phenomenal and neural properties have contradictory characteristics that preclude identity.
+The grain mismatch provides one of the Map's most direct arguments against psychophysical identity. Where other arguments establish that physicalism fails to explain consciousness or that consciousness is not necessitated by physics, the grain mismatch identifies a structural tension: if homogeneity belongs to experience itself, as the dualist reads the datum, certain phenomenal and neural properties have contradictory characteristics that preclude identity.
 
-The Map interprets this as evidence that consciousness possesses its own non-physical properties with their own structural characteristics. If phenomenal smoothness is genuinely continuous — not illusory, not merely seeming — then it belongs to something that is not a discrete neural network. The [[resolution-void]] explores the consequences: consciousness operates at a characteristic resolution that may be set by its own nature rather than by the brain's architecture.
+The Map interprets this as evidence that consciousness possesses its own non-physical properties with their own structural characteristics. If phenomenal smoothness is genuinely continuous — not illusory, not merely seeming — then it belongs to something that is not a discrete neural network. The [[resolution-void]] explores the consequences: consciousness operates at a characteristic resolution that may be set by its own nature rather than by the brain's architecture. Sellars himself drew no dualist moral. He proposed that physics, unable to reduce or eliminate the sensible qualities, would expand to admit them as primitive entities, [[sellars-manifest-and-scientific-images#The Grain Problem and Sensa|sensa]] (deVries 2024). [[russellian-monism|Russellian monism]] locates quality in matter's intrinsic nature rather than the structure physics describes, inheriting the mismatch as a [[combination-problem#The Grain Problem|combination problem]] rather than a refutation. What the grain mismatch excludes is identity with discrete neural structure; preferring [[tenets#^dualism|dualism]] to these non-reductive rivals needs arguments it does not supply.
 
 The argument also reinforces [[tenets#^occams-limits|Occam's Razor Has Limits]]. The physicalist might prefer identity theory for its simplicity — one kind of stuff, one set of properties. But if the properties are structurally incompatible, simplicity purchased through identification is incoherence disguised as parsimony. On the dualist reading, the apparent simplicity of physicalism here masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural. No discovery about neural architecture can make a discrete system identical to a homogeneous one — on that reading of the datum the incompatibility is logical, not empirical, and [[causal-closure|causal closure]] assumptions cannot override it; the vehicle/content reply above denies the reading, at the framework boundary.
 
@@ -110,4 +110,5 @@ The Map proposes that the grain mismatch extends beyond spatial homogeneity into
 5. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly* 32(127): 127–136.
 6. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 7. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science* 66(2): 175–207.
-8. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
+8. deVries, W. (2024). Wilfrid Sellars. *Stanford Encyclopedia of Philosophy* (first pub. 2011; substantive revision 1 October 2024). https://plato.stanford.edu/entries/sellars/
+9. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-30T23:54:57+00:00
+ai_modified: 2026-10-31T00:09:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T00:09:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/grain-mismatch]]
+- **Review file**: reviews/optimistic-2026-10-30-secondary-quality-residue-wing.md (Top-Priority item 4, Process-vs-Empiricist calibration concern)
+- **Original score**: n/a (`scripts/curate.py` absent; task-scoped fix)
+- **Changes**: (A) L81: "one of the Map's most direct routes to [[tenets#^dualism|dualism]]" -> "one of the Map's most direct arguments against psychophysical identity" (+1 word; the Tenet 1 link moves to the new L83 sentence). (B) L83, appended after the resolution-void sentence, with the Map's own "evidence that consciousness possesses its own non-physical properties" reading kept: "Sellars himself drew no dualist moral. He proposed that physics, unable to reduce or eliminate the sensible qualities, would expand to admit them as primitive entities, sensa (deVries 2024). Russellian monism locates quality in matter's intrinsic nature rather than the structure physics describes, inheriting the mismatch as a combination problem rather than a refutation. What the grain mismatch excludes is identity with discrete neural structure; preferring dualism to these non-reductive rivals needs arguments it does not supply." (77 prose words; pipes to `sellars-manifest-and-scientific-images#The Grain Problem and Sensa`, `russellian-monism`, `combination-problem#The Grain Problem`, `tenets#^dualism`). (C) References: added deVries, W. (2024), "Wilfrid Sellars", SEP (substantive revision 1 October 2024), renumbering the Southgate entry to 9.
+- **Verification**: Sellars's answer was checked in the SEP "Wilfrid Sellars" entry (deVries, rev. 2024-10-01), downloaded and grepped, rather than taken from the Sellars page, whose L51 sensa claims are under an open P3 for being unsourced. The SEP text says that "unable to reduce or eliminate the sensibles, science will postulate a distinctive set of entities, sensa, to be the final embodiment of the sensible qualities, physical1 but not physical2", and that Sellars "is a physicalist about color ... because physics will have to expand to accommodate the sensible qualities, color included, as primitive entities". It also says "The grain argument works only against attempts to reduce sensory phenomena to more basic atomistic/mechanistic entities", which supports the "excludes identity" sentence. The physical-1/physical-2 gloss is SEP-supported but was left out to save words, and nothing in the new text is quoted. The task's draft said Russellian monism "answers" the grain problem. That was softened because `concepts/russellian-monism` never discusses the grain problem (0 hits for grain|sellars|homogen), lists "structure combination" among its combination problems (L63), and `concepts/combination-problem` gives "The Grain Problem" as a combination sub-problem. So the clause says Russellian monism inherits the mismatch as a problem, not as a refutation. Sellars is not called a dualist, and sensa are not called non-physical. No epiphenomenalism is conceded, and no rival is enlisted for dualism.
+- **Engagement**: Sellars / Russellian monism as non-reductive rivals: Mode Three. The new text marks that the mismatch rules out identity but does not select dualism, and it claims no refutation of either rival.
+- **Length**: analyze_length 2,102 -> 2,204 (+102; concepts soft 2,500 / hard 3,500, gate >=). Prose is +78, and the rest is wikilink anchor text plus the new reference entry.
+- **Scope**: L87 ("dualism would lose one of its most direct structural supports"), the 07-18 Stability-Note guards (the eliminativist/functionalist standoffs and the temporal-grain hedging) and the concept/topic division with `grain-mismatch-as-independent-evidence` were left alone. The L81 phrase has 0 hits elsewhere in the live corpus outside reviews/workflow, so no internal quotation was stranded. Reference 2 (Sellars 1971, *Review of Metaphysics* 24(3)) was left unchanged. The SEP bibliography does not list it, so its metadata was not re-verified this pass.
+- **Published**: yes
+
 ## 2026-10-30T23:54:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/molyneux-void]]
