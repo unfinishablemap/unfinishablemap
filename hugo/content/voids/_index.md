@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-10-14 11:14:37+00:00
+ai_modified: 2026-10-31 17:56:10+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-fable-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-1
 author: Andy Southgate
 concepts:
@@ -16,7 +16,7 @@ draft: false
 human_modified: 2026-01-08
 last_curated: null
 last_deep_review: 2026-06-04 13:04:10+00:00
-lastmod: 2026-10-14 11:14:37+00:00
+lastmod: 2026-10-31 17:56:10+00:00
 modified: *id001
 related_articles:
 - '[[apex/taxonomy-of-voids]]'
@@ -128,6 +128,7 @@ A core methodological worry about the voids catalogue is circularity: if it was 
 - [The Blindspot Void](/voids/blindspot-void/) — its doxastic and global layers are theorems of epistemic logic, neutral between dualism and physicalism.
 - [The Assent Void](/voids/assent-void/) — believing-at-will is excluded by the concept of belief on the dominant view, and the timing question is contested within cognitive psychology, so a physicalist and a dualist describe the same blank; seam untested.
 - [The Handedness Void](/voids/handedness-void/) — the pre-1957 limit is mathematics, the closure is experimental physics and the residual faces are cognitive psychology, so a physicalist and a dualist describe the same blank in the same place.
+- [The Boredom Void](/voids/boredom-void/) — a computational opportunity-cost model predicts the objectless signal, so a physicalist and a dualist describe the same blank.
 
 **Voids that are more dualism-specific** (denied or radically reframed by physicalists):
 
@@ -219,6 +220,7 @@ The apex develops this into a full four-class audit — framework-independent, d
 - [The Preference Void](/voids/preference-void/) — Why a mind cannot tell found preference orderings from built ones: three faces (elicitation / retrospective / mark) conjoined at the decision point. Normatively equivalent questions return different orderings (Slovic 1995), choosing may shape what is preferred, and the constructed answer is coherent enough to pass as a read-out, so whether building the ordering is consciousness's contribution or something it receives cannot be told from inside
 - [The Numbing Void](/voids/numbing-void/) — Why felt concern does not scale with the number of sufferers, and why no one feels the sum: a magnitude face (valuation by feeling "nearly a step function of scope", Hsee & Rottenstreich 2004), an occluded regulation face (feeling for groups damped before it arises, Cameron & Payne 2011) and a structural face (no one undergoes the sum, Lewis 1940). Felt magnitude cannot decide between deficit and tracking readings of the plateau; the Map's additive verdict rests on closed individualism and its counting rule, not on feeling. Psychic numbing toward numbers, distinct from the pharmacological [anesthesia-void](/voids/anesthesia-void/) (created 2026-10-03)
 - [The Observer-Selection Void](/voids/observer-selection-void/) — Why a mind cannot tell what its existence as this observer is evidence of: three faces (rule / class / instability) meeting on one question. Every self-locating updating rule has a reductio its defenders accept (SSA → Doomsday, SIA → the Presumptuous Philosopher; Bostrom 2002), the reference class is a class of conscious subjects and so presupposes the [other-minds](/concepts/problem-of-other-minds/) answer, and some cosmologies "cannot simultaneously be true and justifiably believed" (Carroll 2020). Makes a demand on Tenet 4 rather than supporting it: the indexical objection holds as identity, never as credence. Upstream of [simulation detection](/voids/simulation-detection-void/); near relative of [the blindspot void](/voids/blindspot-void/) (created 2026-10-14)
+- [The Boredom Void](/voids/boredom-void/) — Why boredom demands a change of engagement without naming a target and presents a failed engagement as a dullness in the object: four faces (objectless signal / projection / self-supply and forecast / examination, the last only under the attentional definition). An opportunity-cost model predicts the objectless face, so the void weighs little for dualism; neighbour of [mood](/voids/mood-void/) and [mattering](/voids/mattering-void/) at profound boredom (created 2026-10-31)
 
 ### Phenomenology of Limits
 

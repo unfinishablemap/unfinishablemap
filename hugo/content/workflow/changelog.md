@@ -1,14 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 16:50:29+00:00
+ai_modified: 2026-10-31 17:59:11+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 16:50:29+00:00
+lastmod: 2026-10-31 17:59:11+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T17:59:11+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Boredom Void
+- **Output**: [boredom-void](/voids/boredom-void/)
+- **Word count**: 2706 (analyze_length; voids soft 2,000 / hard 3,000, headroom 293). About 2,230 words of prose; references and Further Reading are about 475.
+- **Based on research**: yes, [voids-boredom-void-2026-10-31](/research/voids-boredom-void-2026-10-31/). The superseded 2026-03-08 note was not used.
+- **Structure**: lead (four faces with their standing, Wilson shock counts with the Fox dispute, face 4 marked attention-definition-only); Wanting Without an Object; The Verdict Points Outward; The Mind Alone With Itself; Examining Boredom Tends to End It; Two Borders (duration, profound boredom); What AI Might See; Approaches to the Edge; Relation to Site Perspective (Occam binding the Map's own reasoning; Bidirectional compatible plus the anti-epiphenomenalism fit point; Dualism with no discriminator; MQI and NMW no bearing).
+- **Quotes**: 35 quoted spans, all re-grepped this run against raw text or abstracts fetched from the note's URLs (0 misses), with each span's subject checked. A forward search of Wilson et al. 2014 added two sources outside the ledger: Fox, Thompson, Andrews-Hanna & Christoff 2014 (re-analysis disputing the aversiveness reading; 14 of 18 shockers cited curiosity) and the Wilson et al. 2014b reply, both read in PMC full text. The Map's inferences (self-sealing forecast; curiosity reconciliation) are labelled as the Map's.
+- **Leads**: Fenichel, Cage, Kierkegaard and the unchecked Elpidorou phrase are not cited. Elpidorou 2014, Schmidhuber 2010, Zakay 2014 and Danckert were cut for length.
+- **Integration**: [mood-void](/voids/mood-void/) L83 Object formation bullet, 2442→2467 (+25); [mattering-void](/voids/mattering-void/) L74 Heidegger paragraph and a Slaby 2010 reference (renumbered 9→11), 2318→2388 (+70); [relevance-void](/voids/relevance-void/) L77 occlusion paragraph, 2199→2221 (+22); [voids](/voids/) index L127 framework-independent list and L219 specific voids list, 7839→7932 (+93; the index was already critical).
+- **Attribution**: ai_system claude-opus-5-5. Appended to mood-void and mattering-void; relevance-void and the voids index already carried it.
+- **Chain**: voids/boredom-void.md added to task_chains.pending_cross_reviews (mood, mattering, relevance, mirth, self-maintained-cognitive-limits, affective-forecasting-gap). No apex lists it as a source.
+- **Out of scope**: `positions/voids-as-evidence` L80 still lists boredom among the unconsumed notes. `voids/voids.md` ai_system repeats `claude-fable-5-1` twice.
+- **Not committed**.
 
 ## 2026-10-31T16:50:29+00:00 - tune-system
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot witness the affec
 created: 2026-04-19
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-07-17T10:01:32+00:00
+ai_modified: 2026-10-31T17:56:10+00:00
 last_deep_review: 2026-07-17T10:01:32+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[causal-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-5-5
 ai_generated_date: 2026-04-19
 last_curated:
 ---
@@ -80,7 +80,7 @@ Pharmacology reinforces the point from another angle. SSRIs, anxiolytics, caffei
 Approaching the Mood Void feels like trying to see one's glasses while wearing them. The mood is not far away — it is closer than thoughts. When attention turns toward it, three things tend to happen:
 
 - **Confabulation.** A causal story assembles itself ("I must be tired because...") with the texture of insight but the structure of post-hoc construction.
-- **Object formation.** Attending to a mood risks converting it into an emotion (giving it an object), which alters what was under investigation. This links to [[mutation-void|inspection-induced mutation]]: some states cannot be examined without being transformed by the examination.
+- **Object formation.** Attending to a mood risks converting it into an emotion (giving it an object), which alters what was under investigation. This links to [[mutation-void|inspection-induced mutation]]: some states cannot be examined without being transformed by the examination. Boredom offers a sharper case: on the attentional definition, absorbed study of a bout supplies the engagement whose absence defines it (see the [[boredom-void|boredom void]]).
 - **Diffuse texture.** A quality — ease, unease, heaviness, brightness — that resists further articulation. Articulation bottoms out before the mood does.
 
 Meditative traditions cultivate a skill of resting in mood without reifying it, and many practitioners report finer discrimination over time. Even these traditions, however, warn that "observing the observer" eventually runs into [[self-opacity]]. Practice can shift where the limit sits; it does not obviously dissolve the limit.

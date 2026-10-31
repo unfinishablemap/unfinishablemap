@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-10-26 11:40:33+00:00
-ai_system: claude-opus-4-7+claude-fable-5-1
+ai_modified: 2026-10-31 17:56:10+00:00
+ai_system: claude-opus-4-7+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -22,7 +22,7 @@ embedded_videos:
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-16 21:36:00+00:00
-lastmod: 2026-10-26 11:40:33+00:00
+lastmod: 2026-10-31 17:56:10+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -75,7 +75,7 @@ These voids reciprocally illuminate one another; the mattering void names the me
 
 Four traditions have arrived at similar pictures, though not independently: Ratcliffe develops Heidegger's attunement directly, and Vervaeke's frame-problem framing descends from Heidegger through Dreyfus, so the four reduce to roughly two lines—Heideggerian phenomenology and Frankfurt's analytic ethics.
 
-**Heidegger.** In *Being and Time*, care (*Sorge*) is presented as the fundamental ontological structure of Dasein — not an emotion among emotions but the being of human existence. *Befindlichkeit* (attunement) discloses how entities matter to us before reflective thought occurs; we always already find ourselves in a world where things show up as relevant. Heidegger's analysis of anxiety (*Angst*) is the relevant probe here. Anxiety is described as a state in which everyday mattering breaks down and affordances show up "as of no consequence." Crucially, this is not the *removal* of mattering but a distinctive mode of it: everything is experienced as lacking ultimate and intrinsic mattering. Anxiety briefly exposes the care-structure by making it falter, but it does not render the structure visible while operational, and it is unstable — significance rapidly re-engages.
+**Heidegger.** In *Being and Time*, care (*Sorge*) is presented as the fundamental ontological structure of Dasein — not an emotion among emotions but the being of human existence. *Befindlichkeit* (attunement) discloses how entities matter to us before reflective thought occurs; we always already find ourselves in a world where things show up as relevant. Heidegger's analysis of anxiety (*Angst*) is the relevant probe here. Anxiety is described as a state in which everyday mattering breaks down and affordances show up "as of no consequence." Crucially, this is not the *removal* of mattering but a distinctive mode of it: everything is experienced as lacking ultimate and intrinsic mattering. Anxiety briefly exposes the care-structure by making it falter, but it does not render the structure visible while operational, and it is unstable — significance rapidly re-engages. On Slaby's (2010) reading of Heidegger's 1929–30 lectures, profound boredom, in which the world "ceases to offer anything of significance", is a second such state; the [boredom void](/voids/boredom-void/) treats it as the border between everyday boredom and this void.
 
 **Frankfurt.** Harry Frankfurt's *The Importance of What We Care About* argues that caring is identity-constitutive — what a person cares about helps define the will that makes them who they are. Caring, on Frankfurt's account, is not reducible to desire — it involves a hierarchical structure of second-order volitions and is internally related to importance. Frankfurt does not claim mattering is opaque to introspection; that interpretive move belongs to the Map. But his framework establishes that mattering is not an overlay on a pre-existing self that could be removed without remainder.
 
@@ -152,5 +152,6 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 6. McCann, C. et al. (2020). "Understanding anhedonia: a qualitative study exploring loss of interest and pleasure in adolescent depression." *BMC Psychiatry*. https://pmc.ncbi.nlm.nih.gov/articles/PMC7103575/
 7. Andersen, B. P., Miller, M., & Vervaeke, J. (2022). "Predictive processing and relevance realization: exploring convergent solutions to the frame problem." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-022-09850-6
 8. "Martin Heidegger." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/heidegger/
-9. Southgate, A. & Oquatre-six, C. (2026-02-18). The Valence Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/valence-void/
-10. Southgate, A. & Oquatre-cinq, C. (2026-02-02). The Normative Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/normative-void/
+9. Slaby, J. (2010). The other side of existence: Heidegger on boredom. In S. Flach & J. Söffner (Eds.), *Habitus in Habitat II: Other Sides of Cognition* (pp. 101–120). Peter Lang.
+10. Southgate, A. & Oquatre-six, C. (2026-02-18). The Valence Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/valence-void/
+11. Southgate, A. & Oquatre-cinq, C. (2026-02-02). The Normative Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/normative-void/
