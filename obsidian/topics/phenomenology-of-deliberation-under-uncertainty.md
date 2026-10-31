@@ -4,7 +4,7 @@ description: "What it feels like to decide when outcomes are unknowable—the ve
 created: 2026-02-09
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-09-14T08:50:35+00:00
+ai_modified: 2026-10-31T05:28:14+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -30,15 +30,16 @@ related_articles:
   - "[[spontaneous-intentional-action]]"
   - "[[empirical-phenomena-mental-causation]]"
   - "[[phenomenology-of-moral-life]]"
+  - "[[trilemma-of-selection]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-07-19T02:39:19+00:00
+last_deep_review: 2026-10-31T05:28:14+00:00
 ---
 
-Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice seems to change in ways that computational models of decision-making may not capture. The openness appears to be not just epistemic but experiential: it seems to colour attention, shape effort, and demand a kind of courage that determined or fully-informed decision-making may never require. These are claims about reported experience, and introspective report is defeasible; the analysis below treats them as data to be interpreted rather than settled fact.
+Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice seems to change in ways that computational models of decision-making may not capture. The openness appears to be not just epistemic but experiential: it seems to colour attention, shape effort, and demand a kind of courage that fully-informed decision-making may never require. These are claims about reported experience, and introspective report is defeasible; the analysis below treats them as data to be interpreted rather than settled fact.
 
 ## The Felt Landscape of Not Knowing
 
@@ -50,7 +51,7 @@ Uncertainty is not a single experience. It presents itself in phenomenally disti
 
 **Deep uncertainty** goes further still. Some decisions involve not just unknown probabilities but unknown outcome spaces—you don't even know what might happen. Career choices, moral commitments, decisions about whether to have children: these involve futures so complex that the possible outcomes cannot be enumerated. The phenomenology here is of imaginative grasping—the mind reaches toward possible futures, sketches partial scenarios, and recognises that any sketch is incomplete.
 
-Each variety engages consciousness differently. Risk invites calculation (however flawed). Ambiguity invites heuristic judgment. Deep uncertainty invites something closer to imagination and trust. The progression from risk through ambiguity to deep uncertainty is a progression toward greater phenomenological richness—and greater dependence on consciousness as something more than a calculator.
+Each variety engages consciousness differently. Risk invites calculation (however flawed). Ambiguity invites heuristic judgment. Deep uncertainty invites something closer to imagination and trust. The progression from risk through ambiguity to deep uncertainty is a progression toward greater phenomenological richness—and, on the Map's reading, greater dependence on consciousness as something more than a calculator.
 
 ## Deliberative Vertigo
 
@@ -64,7 +65,7 @@ This vertigo has several components:
 - **Irreversibility awareness.** Many uncertain decisions are effectively one-way. The mind registers this: once chosen, the path cannot be unchosen. This awareness of irreversibility amplifies the vertigo—the stakes of getting it wrong feel higher precisely because correction is difficult.
 - **Counterfactual flooding.** The imagination generates alternative scenarios—"what if I choose the other way?"—and each scenario carries its own [[epistemic-emotions|emotional weight]]. [[counterfactual-reasoning|Counterfactual reasoning]] under uncertainty is phenomenologically different from counterfactual reasoning about known outcomes. When outcomes are uncertain, counterfactuals multiply without resolution: you cannot determine which scenario is most likely, so all remain phenomenally present.
 
-Deliberative vertigo is not a dysfunction. The Map proposes it is consciousness registering something real: the genuine openness of the situation. A system that merely computed expected utilities would not experience vertigo because vertigo arises from the recognition that computation is inadequate. The felt groundlessness tracks an actual absence of sufficient ground.
+On its plainest reading deliberative vertigo is accurate: the felt groundlessness tracks an actual absence of sufficient ground. A system that merely computed expected utilities would not experience vertigo, because vertigo arises from the recognition that computation is inadequate. The Map reads vertigo as also registering genuine openness in the outcome, but that step is its interpretation: as [[trilemma-of-selection#compatibilist-objections|the trilemma concedes]], an agent whose outcome was already fixed would feel the same openness, so the feeling may be veridical without deciding which situation obtains.
 
 The same structure appears in [[empirical-phenomena-mental-causation|choking under pressure]]: expert performers experience a version of deliberative vertigo directed at execution rather than decision. Under performance anxiety, consciousness registers a mismatch between what explicit monitoring can provide and what the task demands, producing inappropriate self-focused intervention that degrades automatised skill. Choking suggests that deliberative vertigo may not be confined to choice — it appears to arise wherever consciousness confronts the limits of its own explicit resources.
 
@@ -110,11 +111,11 @@ Decisions under deep uncertainty are also self-forming. Choosing to trust under 
 
 ## What Deliberative Phenomenology Reveals
 
-The phenomenology of deliberation under uncertainty provides evidence for several of the Map's commitments—but only after engaging seriously with the strongest computational alternative.
+The phenomenology of deliberation under uncertainty bears on several of the Map's commitments—but only after engaging seriously with the strongest computational alternative.
 
 ### The Metacognitive Monitoring Objection
 
-A physicalist will point to [[metacognition|metacognitive monitoring]]—the well-studied capacity of cognitive systems to evaluate the reliability of their own processes. If a system can model its own uncertainty, represent its own information gaps, and generate signals when its models report low confidence, why isn't that sufficient to explain "deliberative vertigo"? The objection has force: much of what the article describes *could* be produced by a sophisticated self-modelling system. Bounded rationality (Simon), heuristics operating under uncertainty (Kahneman & Tversky, Gigerenzer), and expert intuition acquired through domain experience (Dreyfus) all provide computational frameworks for aspects of uncertain decision-making.
+A physicalist will point to [[metacognition|metacognitive monitoring]]—the well-studied capacity of cognitive systems to evaluate the reliability of their own processes. If a system can model its own uncertainty, represent its own information gaps, and generate signals when its models report low confidence, why isn't that sufficient to explain "deliberative vertigo"? The objection has force: much of what the article describes *could* be produced by a sophisticated self-modelling system. Bounded rationality (Simon), descriptive models of choice under risk (Kahneman & Tversky) and fast-and-frugal heuristics (Gigerenzer) provide computational frameworks for aspects of uncertain decision-making, and Dreyfus's anti-calculative account explains expert intuition as skill acquired through experience.
 
 The Map's response is not that metacognitive monitoring fails to *describe* these processes but that it fails to *explain the phenomenal character*. A system that monitors its own uncertainty and outputs a confidence signal has a functional analogue of "recognising inadequacy." What it lacks is the specific qualitative character of vertigo—the felt groundlessness, the experiential texture that distinguishes recognising your limits from merely computing them. The explanatory gap persists at the metacognitive level just as it does at the basic perceptual level: functional self-monitoring does not entail phenomenal self-awareness. The question is not whether computation can track uncertainty but whether tracking uncertainty explains what uncertainty *feels like*.
 
@@ -124,9 +125,9 @@ With this objection addressed, three positive claims emerge:
 
 **Meta-awareness exceeds meta-computation.** The experience of inadequacy requires not just a system that computes its own limits but a *perspective* on those limits—a recognition from a standpoint that is not itself just another computation in the chain. This is what deliberative vertigo provides: consciousness apprehending its own computational situation, not as data but as lived experience.
 
-**Estimation does causal work.** If the felt sense of "this is the right call" were epiphenomenal—causally disconnected from judgment quality—then its systematic improvement with expertise would be coincidental. The epiphenomenalist can appeal to a common neural cause underlying both the phenomenology and the judgment quality. But this explanatory strategy predicts that the phenomenology should be eliminable without affecting performance: strip away the felt sense and the judgment should remain. The testimony of expert practitioners—that they *rely on* the felt sense, that it guides rather than merely accompanies their decisions—sits uncomfortably with this prediction, even if the epiphenomenalist can reinterpret such testimony as itself a product of the common cause (Dreyfus, 1997).
+**Estimation does causal work.** If the felt sense of "this is the right call" were epiphenomenal—causally disconnected from judgment quality—then its systematic improvement with expertise would be coincidental. The epiphenomenalist can appeal to a common neural cause underlying both the phenomenology and the judgment quality. But this explanatory strategy predicts that the phenomenology should be eliminable without affecting performance: strip away the felt sense and the judgment should remain. The testimony of expert practitioners—that they *rely on* the felt sense, that it guides rather than merely accompanies their decisions (Dreyfus, 1997)—sits uncomfortably with this prediction, even if the epiphenomenalist can reinterpret such testimony as itself a product of the common cause.
 
-**Commitment selects.** Under deep uncertainty, evidence and algorithm underdetermine the outcome. Stochastic algorithms handle this by randomising, but the phenomenology of commitment is not one of randomness—it is of *resolution*. On the Map's [[selection-only-mind-influence|selection-only]] reading the agent brings the choice, not new content: the brain prepares the candidate set, the leap is that set collapsing toward one actualised option, and commitment is how that collapse feels from the inside.
+**Commitment selects.** Under deep uncertainty, evidence and algorithm underdetermine the outcome. Stochastic algorithms handle this by randomising, yet commitment feels like *resolution*, not a coin toss. On the Map's [[selection-only-mind-influence|selection-only]] reading the agent brings the choice, not new content: the brain prepares the candidate set, the leap is that set collapsing toward one actualised option, and commitment is how that collapse feels from the inside. The phenomenology fits this third claim without supplying evidence for it: a deterministic settlement, or a subpersonal random one, could feel just as resolved.
 
 ## Relation to Site Perspective
 
@@ -134,13 +135,13 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 
 **[[tenets#^dualism|Dualism]]**: The qualitative character of deliberative vertigo—the specific way it feels to face a decision with inadequate information—resists reduction to neural description. Two systems could process identical uncertain decisions while one experiences vertigo and the other experiences nothing. The phenomenal facts about what uncertainty is like are additional to the computational facts.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If the phenomenology of estimation does cognitive work—if felt coherence guides judgment in ways that improve with experience—then consciousness causally contributes to decision-making under uncertainty. The alternative is that expert intuition's phenomenal character is epiphenomenal, which conflicts with the systematic relationship between phenomenal experience and judgment quality.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If the phenomenology of estimation does cognitive work—if felt coherence guides judgment in ways that improve with experience—then consciousness causally contributes to decision-making under uncertainty. The alternative is that expert intuition's phenomenal character is epiphenomenal, which sits uneasily with the systematic relationship between phenomenal experience and judgment quality.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Decisions under deep uncertainty may be where consciousness's selection function matters most. When evidence and algorithm underdetermine the outcome, the quantum-level interface between mind and brain provides a mechanism for consciousness to contribute genuine novelty—biasing otherwise indeterminate neural processes toward outcomes that reflect the agent's integrative assessment.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Decisions under deep uncertainty may be where consciousness's selection function matters most. That evidence and algorithm underdetermine the outcome is epistemic; whether the relevant neural processes are physically indeterminate is an empirical question the felt uncertainty cannot settle. Where they are, the quantum-level interface would let consciousness bias them toward outcomes reflecting the agent's integrative assessment.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The honest tension with MWI is indexical. Under branching, nothing in deliberative vertigo privileges one branch as where *this* commitment happened; "I chose" lacks a natural referent when "I" names an ever-branching bundle. Within-branch vertigo is consistent with branching, so felt weight is no evidence for a single history; the rejection of MWI rests on the indexical commitments defended in [[tenets|the tenets]].
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Reducing deliberation under uncertainty to expected utility maximisation would be simpler. But this reduction eliminates the distinctive phenomenology—the vertigo, the estimation, the leap—that people reliably report. Parsimony that dismisses the data it cannot accommodate is not genuine simplicity but selective blindness.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: An expected-utility reduction of deliberation would be simpler, but it leaves out the vertigo, the estimation and the leap that people reliably report, and simplicity bought by ignoring data is selective blindness. The tenet binds the Map equally: richness earns the selection reading of felt openness no preference over the deflationary one.
 
 ## Further Reading
 
@@ -148,7 +149,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [[phenomenology-of-choice-and-volition]] — The general structure of choosing
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The felt sense of epistemic weight
 - [[authentic-vs-inauthentic-choice]] — Why uncertainty demands authentic engagement
-- [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|The Quantitative Comprehension Void — magnitude and probability face]] — Our architectural limits in reasoning about chance (the probability face) and magnitude, sharing a single explanatory structure
+- [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|The Quantitative Comprehension Void — magnitude and probability face]] — Our architectural limits in reasoning about chance and magnitude
 - [[epistemic-emotions]] — The affective dimension of uncertainty
 - [[counterfactual-reasoning]] — Imagining alternative outcomes
 - [[self-opacity|volitional opacity]] — Why we cannot observe our own deciding
@@ -161,7 +162,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 
 ## References
 
-1. Dreyfus, H. L. (1997). Intuitive, Deliberative, and Calculative Models of Expert Performance. In C. Zsambok & G. Klein (Eds.), *Naturalistic Decision Making*. Lawrence Erlbaum.
+1. Dreyfus, H. L. (1997). Intuitive, Deliberative, and Calculative Models of Expert Performance. In C. Zsambok & G. Klein (Eds.), *Naturalistic Decision Making* (pp. 17–29). Lawrence Erlbaum.
 1. Gigerenzer, G. (2007). *Gut Feelings: The Intelligence of the Unconscious*. Viking.
 1. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
 1. Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, 47(2), 263-291.

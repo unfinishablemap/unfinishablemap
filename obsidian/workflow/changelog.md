@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T05:18:50+00:00
+ai_modified: 2026-10-31T05:28:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T05:28:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-deliberation-under-uncertainty]]
+- **Word count**: 2810 → 2886 (+76)
+- **Critical issues addressed**: 4. (1) L67: felt openness was read as real openness, in a "not X. It is Y." sentence. It now says vertigo is accurate on its epistemic reading; the metaphysical reading is labelled the Map's and linked to the trilemma's 10-30 Planck/MacKay concession ("may be veridical without deciding which situation obtains"). (2) L113/L129: "provides evidence" → "bears on". "Commitment selects" now says the phenomenology fits it without supplying evidence, since a deterministic or subpersonal random settlement could feel just as resolved. (3) L117: Dreyfus (anti-calculative) was listed among "computational frameworks". Fixed, and K&T 1979 is reframed from heuristics to choice under risk. (4) L139: the slide from epistemic underdetermination to "otherwise indeterminate neural processes" is scoped as an empirical question, and "genuine novelty" is removed.
+- **Medium issues addressed**: 4. L53 slide marked as the Map's reading; L41 "determined or" deleted; L143 Tenet 5 now binds the Map too and the "is not X but Y" form is rephrased; L137 "conflicts with" → "sits uneasily with", matching the L127 concession.
+- **Enhancements made**: 3. Trilemma anchor link in the body plus a related_articles entry; Dreyfus pp. 17–29 added; L127 cite placement fixed.
+- **Engagements**: metacognitive-monitoring physicalist, Mode Two → Three (unchanged); epiphenomenalist common cause, Mode Three; Planck/MacKay by link, Mode Three, unanswered on openness, neither enlisted.
+- **Output**: [[reviews/deep-review-2026-10-31-phenomenology-of-deliberation-under-uncertainty]]
+
 ## 2026-10-31T05:18:50+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-10-31
