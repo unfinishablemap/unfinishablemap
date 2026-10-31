@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T04:03:13+00:00
+ai_modified: 2026-10-31T04:34:10+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T04:34:10+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 5.5 with Research (collected by collect-claude-review at ~04:23 UTC, ~73 min after commission, from https://claude.ai/chat/af7a43ba-9166-4f8f-9844-0c8bdd76f66c; "Research complete · 380 sources · 7m 44s"; artifact panel body stable at 29,462 chars across a 10 s sentinel; js-dom extraction, 36,149-char / 36,899-byte body, SHA-256 f010a9b5…4882663e matched in-page and on disk; Blob download route)
+- **File**: [[reviews/outer-review-2026-10-31-claude-opus-5-5]]
+- **Subject**: recent — `topics/emotion-regulation-and-the-timing-of-control` (second leg of the 2026-10-31 cycle, same subject as the ChatGPT leg; Gemini commissioned)
+- **Claims verified**: 23 adjudicated against PubMed, PMC full text, Crossref, OpenAlex, the live site and the neighbour pages. 12 survive, including Sheppes 2011, Sheppes 2014, Ortner 2021, Etkin 2015, Doré 2016, Gross 1998b, Li 2017, Butler 2007, Ortner 2016, Webb's within-family spread and Gollwitzer 1999's "delegate the control". 6 fail: the Duckworth 2016 quote is verbatim at PMC4736542; the changelog is current live (newest 10-31T02:56Z), not stuck at 10-15; "does not exist as advertised" is not on the apex; responsibility-gradient's "depletion" is operational fatigue; the AST-critique URL redirects and the quote is absent; the dated-search remarks follow the absence-scoping rule. 5 are lower value. Metadata slip: PMID 28637817 is Bendall's commentary, not Doré et al. 2017. Wilms 2020's long quotation is not in the abstract.
+- **High-value findings**: 4. (1) `topics/trilemma-of-selection` L91/L113 still count "depletion that requires recovery" as evidence of selection, against mental-effort L84's record and the regulation article's cost-signal reading. (2) `apex/testing-the-map-from-inside` L220 "establish that effort is real and does causal work" and L230 "finite resource". (3) `concepts/stapp-quantum-mind` L82 "extends the empirical case" against its source page's down-count, and L142/L179's contemplative "sharpening" overstates Garrison 2013. (4) The lab-to-field gap (Wilms 2020 here, Mitchell 2025 in the ChatGPT leg): a two-reviewer convergence that was verified but never tasked.
+- **Tasks generated**: 3 (P1: trilemma L91/L113 + testing-the-map L220/L230, TWO FILES; P2: stapp-quantum-mind L82/L142/L179, net-negative at 3,999/3,500; P2: ER "earlier is easier" scope, covering Gross 1998b findings, Li 2017 and the lab-to-field gap, run after the ChatGPT P1/P2). 6 addenda: today's ChatGPT P1 (Gyurak "largely", rivals, optional Gollwitzer clause), today's ChatGPT P2 (Sheppes 2011 + Etkin 2015), the P3 ER cross-review (two outbound links), NEEDS-HUMAN 2026-08-03 propagation (three instances), NEEDS-HUMAN 2026-10-21 sync metadata (recurrence: published_time 10-24 vs Created 10-23), and NEEDS-HUMAN 2026-07-25 methodology (gap register). Convergence with the ChatGPT leg: 5 overlaps (conscious-access rival, relocation bound, regulation choice, which awareness, lab-to-field). parse_tasks active 280 → 283.
+
 ## 2026-10-31T04:03:13+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.6 Sol Pro (collected by collect-chatgpt-review at ~03:52 UTC, ~104 min after commission, from https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6ae54d8d-639c-83eb-a22a-35cdb53311d7; js-dom extraction, 51,400-char body, SHA-256 matched in-page and on disk)

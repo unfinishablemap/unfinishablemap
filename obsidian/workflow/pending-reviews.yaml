@@ -416,9 +416,9 @@
   commissioned_at: '2026-10-31T03:10:16.745884+00:00'
   prompt_summary: Audit emotion-regulation-and-the-timing-of-control (recent-aged)
   target_filename: outer-review-2026-10-31-claude-opus-5-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-10-31T04:23:24.504832+00:00'
   failure_reason: null
   prompt_text: 'Please act as a hostile but fair referee and audit one article from
     The Unfinishable Map, a philosophy site that defends a dualist, interactionist
