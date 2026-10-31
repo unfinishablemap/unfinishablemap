@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 18:52:57+00:00
+ai_modified: 2026-10-31 19:22:24+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 18:52:57+00:00
+lastmod: 2026-10-31 19:22:24+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T19:22:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qbism](/concepts/qbism/)
+- **Original score**: n/a (targeted integration pass; `scripts/curate.py` is absent)
+- **Word count**: 2443 → 2443 (+0; analyze_length, concepts hard 3500)
+- **Changes**: One zero-cost piped link to [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) (previously 0 links from this concept). In "What QBism Misses", **The hard problem** paragraph (L133): "the gap isn't incidental but structural" → "[the gap isn't incidental but structural](/topics/quantum-measurement-and-subjective-probability/)". I chose this span because the paragraph states the topic's own thesis: other interpretations can bracket consciousness, while QBism uses it to do the formalism's foundational work, so its gap is structural (topic lead and "The Phenomenological Gap"). I did not use the task note's suggested description ("subjective probability fails to dissolve the measurement problem"): the topic's lead grants that the approach "dissolves many quantum paradoxes" and locates the cost in structural dependence on consciousness. The topic page was not touched (its L92 is held by the open Tegmark batch-2 task).
+- **Published**: yes
 
 ## 2026-10-31T18:52:57+00:00 - refine-draft
 - **Status**: Success

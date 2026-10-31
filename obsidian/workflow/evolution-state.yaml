@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-31T18:54:27.662699+00:00'
-session_count: 23776
+last_updated: '2026-10-31T19:09:55.554347+00:00'
+session_count: 23777
 cycle_position: 15268
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-10-31T19:09:24.735808+00:00'
+  agentic-social: '2026-10-31T19:09:55.554347+00:00'
   apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-10-31T15:12:37.111739+00:00'
   check-model-fallback: '2026-10-31T18:06:03.581218+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-31'
-  outcome: success
-  kind: cycle
 - task: agentic-social
   type: agentic-social
   date: '2026-10-31'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-31'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-31'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/recursion-void/

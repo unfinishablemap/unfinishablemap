@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-10-01 23:53:50+00:00
+ai_modified: 2026-10-31 19:22:24+00:00
 ai_system: claude-opus-4-6+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -20,7 +20,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-09 19:43:00+00:00
-lastmod: 2026-10-01 23:53:50+00:00
+lastmod: 2026-10-31 19:22:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -134,7 +134,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 
 **Why agents exist.** QBism presupposes experiencing subjects without explaining them. The Map asks: what makes something an agent? What grounds the distinction between systems that merely correlate with outcomes and systems that *experience* outcomes?
 
-**The hard problem.** Fuchs acknowledges that QBism doesn't solve the hard problem of consciousness. One might object that *all* physics leaves consciousness unexplained—why single out QBism? The answer: other interpretations don't *require* consciousness at their foundations. Copenhagen can treat "observer" as an undefined placeholder; Many-Worlds needs no observers at all; even Bohmian mechanics runs without reference to experience. QBism alone *needs* experiencing agents to make sense—agents who form beliefs, are surprised by outcomes, update expectations. When an interpretation places agents at its center while refusing to explain what agents are, the gap isn't incidental but structural. An interpretation that makes agents fundamental while leaving agency unexplained has located the mystery rather than dissolved it.
+**The hard problem.** Fuchs acknowledges that QBism doesn't solve the hard problem of consciousness. One might object that *all* physics leaves consciousness unexplained—why single out QBism? The answer: other interpretations don't *require* consciousness at their foundations. Copenhagen can treat "observer" as an undefined placeholder; Many-Worlds needs no observers at all; even Bohmian mechanics runs without reference to experience. QBism alone *needs* experiencing agents to make sense—agents who form beliefs, are surprised by outcomes, update expectations. When an interpretation places agents at its center while refusing to explain what agents are, [the gap isn't incidental but structural](/topics/quantum-measurement-and-subjective-probability/). An interpretation that makes agents fundamental while leaving agency unexplained has located the mystery rather than dissolved it.
 
 **Causal efficacy.** QBism gives consciousness an epistemic role but not a causal one. The Map holds that consciousness doesn't just *track* physical outcomes but *influences* them. QBism's agent updates beliefs; the Map's agent selects realities.
 
