@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 14:35:52+00:00
+ai_modified: 2026-10-31 15:47:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 14:35:52+00:00
+lastmod: 2026-10-31 15:47:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T15:47:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The boredom void. Boredom demands a change of engagement without naming a target, presents a relational verdict as a property of the object, mispredicts the mind's own capacity to engage, and changes under engaged examination.
+- **Category**: Mixed (Occluded primary, architectural reason axis; definition-relative Unexplorable examination face; Unexplored margin on whether the two MAC causes are introspectively legible)
+- **Output**: [voids-boredom-void-2026-10-31](/research/voids-boredom-void-2026-10-31/). It **supersedes** the banked [voids-boredom-void-2026-03-08](/research/voids-boredom-void-2026-03-08/) (237 days unconsumed; old note not edited).
+- **Selection (bank first)**: 228 voids notes, of which 34 are unconsumed by stem, alias, `_redirects`, citation or `consumed_by`. 12 of the 34 are dispositioned October notes and 1 is the 10-06 triage note, leaving an older cluster of 21 zero-citation notes (plus contingency, which has a NEEDS-HUMAN task). A term screen of the cluster found boredom the only subject with **0 live voids hits** that had repeated demand: optimistic reviews 03-09, 03-18, 03-22e and 04-06e, and the 07-27 changelog naming it "genuinely uncovered". The positive controls hit (Kurzban 9 files, Heidegger 21 voids files). The slug is free in obsidian/, archive/, hugo/content/ and `_redirects`.
+- **Old-note spot-check**: **0 of 2 key quotes clean.** The IEP quote is O'Brien's paraphrase of Bernard Williams, and is missing "her". The Slaby quote has an unmarked elision. Also found: an IEP quote absent from the IEP text; the Danckert & Merrifield DMN finding misread as "boredom IS the default state"; Elpidorou book and paper years wrong (2025 and 2022, not 2022 and 2021); Slaby's editors wrong; Pascal's wording is Trotter's but the citation names Krailsheimer.
+- **Key finding**: four faces. (1) An objectless signal: on the opportunity-cost model boredom "signals the value of exploration" (Agrawal et al. 2022), which cannot name its target; Tolstoy's "desire for desires". (2) Projection: one felt verdict covers independent attention and meaning deficits, and both under- and overstimulation (Westgate & Wilson 2018); Eastwood et al. 2012 build environmental attribution into the definition; Williams's fitting-boredom point scopes this face. (3) Self-supply and forecast: Wilson et al. 2014 (12 of 18 men self-shocked), replicated in 11 countries (Buttrick et al. 2019) and trainable; Hatano et al. 2022 found people underestimate how engaging just thinking is and avoid it on the forecast. (4) Examination: engaged inquiry ends attention-deficit boredom by definition, though not necessarily meaning-deficit boredom. Tenets: Occam primary; Bidirectional compatible, plus a James-1890 fit argument against epiphenomenalism (no discriminator against physicalism); Dualism compatible with no discriminator.
+- **Quote ledger**: 55 quoted spans (20 raw, 30 abstract, 5 via), all grep-verified in text fetched today. 4 leads were left unquoted (Fenichel, Cage, Kierkegaard, Elpidorou's "painful realization").
+- **Capacity**: voids 114/125 (count_section_files, 15:39Z).
+- **Recommended action**: article → `voids/boredom-void`, "The Boredom Void" (~2,200–2,500 words; outline with anchors in the note). Fold declined because no host has room: agency-void −296, disappearance-voids 11, mirth-void 14, mood-void 557, mattering-void 681, relevance-void 800. The fallback, if no slot is given, is to fold face 1 alone into relevance-void. Slot competition is at least 14 dispositioned candidates for 11 slots (listed in the note). No task minted; evolution-state not touched; no article or todo.md edited; not committed.
+
+## 2026-10-31T15:12:00+00:00 - check-links
+- **Status**: Success (checker exit 1 is the standing redirect-blind baseline, not a regression)
+- **Crawler**: `.claude/skills/check-links/scripts/check_links.py`, own ephemeral server. The sync beforehand was a no-op on hugo/content. 424 broken, from 44 source pages (workflow 38, research 6), all 404 with no other status code. 376 are covered by `hugo/static/_redirects` (workflow 370, research 6). 48 are dead with no rule, all on workflow pages (completed-tasks-2026-w22 17, todo 10, completed-tasks-2026-w23 5, changelog-2026-w37 5, others ≤3). Zero come from any content section. **Delta against the 10-24/26/28/30 baseline: 0 / 0 / 0.**
+- **Anchors added today** (source: `git log --since=2026-10-31T00:00Z -p` over topics, concepts, voids, apex, positions and tenets; every added `[[slug#anchor…]]`). There are 27 unique (source, link) pairs across 21 distinct links, all still present in their sources. Each was checked at source level, against an explicit `{#id}`, a heading slug from `heading_anchor_slug`, or a `^block` id. Each was then checked against the rendered `id` in a fresh scratch `hugo` build. **27/27 RESOLVE** at both levels. The positive control (`mental-effort#no-such-anchor-xyz`) reads BROKEN. The driver-named ones resolve: `mental-effort#depletion`, `self-control-as-skill-and-scaffolding#where-selection-sits`, `consciousness-selecting-neural-patterns#the-active-inference-rival`, colour-ontology `#sorting` / `#sound` / `#eden` / `#structure`, and `hempels-dilemma#the-via-negativa-and-no-fundamental-mentality`. The ids for the queued `inner-speech-and-anendophasia#unsymbolized-thinking` (L59 `{#unsymbolized-thinking}`) and `first-quantum-free-will-wave-1927-1940#randomness-objection` (L47) exist. Their links are not yet installed in any content page.
+- **Full fragment sweep** (scratch build, every `<a href>` that has a fragment): live content sections have 8,951 fragment links (topics 2,882, concepts 3,004, positions 1,255, apex 1,025, voids 687, arguments 58, tenets 40), with **0 misses**. Misses elsewhere: archive 58, reviews 41, workflow 34, research 10. The research count is up from 5 on 10-25, and all five new misses are draft-fold passages that point at host ids: sound-ontology-…-2026-10-31 `#eden` ×2 and `#structure` (already folded, so these resolve on the colour host); double-bookkeeping-…-2026-10-30 `#three-readings` (the id exists on the alief host, L83); menu-luck-…-2026-10-28 → `basic-argument-and-constitutive-luck#menu-luck` (the host section is not yet written; queued at todo L3450). None is a defect.
+- **Not edited**: no article touched. **Not committed**.
 
 ## 2026-10-31T14:35:52+00:00 - research-topic
 - **Status**: Success
