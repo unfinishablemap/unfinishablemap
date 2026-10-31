@@ -1,14 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 16:08:00+00:00
+ai_modified: 2026-10-31 16:35:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 16:08:00+00:00
+lastmod: 2026-10-31 16:35:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T16:35:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Mode**: evolve (auto-selected by staleness, baseline max(apex_last_synthesis, last_deep_review) = 2026-08-02; score 356). The three higher scorers were skipped because each has open queued work: self-concealing-interface (todo L3122 P3), ai-as-introspection-control (named in the L2531 P3 ADD-ON) and born-preserving-causal-efficacy (L400/L411/L425).
+- **Changed sources**: 4 by `modified`, and all 7 regraded by git since the baseline (time-symmetric-selection-mechanism seed reading 09-28; collapse-and-time felt-openness grade 09-27; the CPT/TSVF fix 10-25; nirodha and kairos grades 09-27; retrocausality 10-20).
+- **Word count**: 4643 → 4641 (analyze_length; soft 4,000 / hard 5,000)
+- **Key changes**: Atemporal Selection was rewritten to the quantum-seed reading, so selection no longer fixes "which temporal ordering becomes actual", and the growing block now explains why only the seed is fixed. Felt openness is graded non-discriminating (Planck 1932; MacKay 1960; Everett branch-selves). No Many Worlds is restated as a commitment, since each Everettian successor keeps a durée of its own. The physics is corrected: the laws are CPT-symmetric and slightly T-violating, TSVF has no absorbers, and the possibilist resolution is Kastner's. Nirodha is graded consistent only, and the kairos/choking reading as an interpretation. Redundant scope-discipline restatements were cut, and the Evidence and Dependency ledger was refreshed. Two references were added (metadata checked live at Internet Archive and Crossref).
+- **Attribution**: ai_system appended `claude-opus-5-5`; ai_modified and apex_last_synthesis set to 2026-10-31T16:31:07+00:00.
+- **Out of scope**: `concepts/temporal-consciousness` L162 still has the ungraded "Protention tracks genuine indeterminacy, meaningful only if collapse is real" (report only; open P3 at todo L2962 owns the page).
+- **Review**: [apex-evolve-2026-10-31-time-consciousness-growing-block](/reviews/apex-evolve-2026-10-31-time-consciousness-growing-block/)
+- **Not committed**.
 
 ## 2026-10-31T16:08:00+00:00 - check-tenets
 - **Status**: Warnings
