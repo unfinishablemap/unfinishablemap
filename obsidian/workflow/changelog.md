@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T10:55:12+00:00
+ai_modified: 2026-10-31T11:25:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T11:25:37+00:00 - coalesce
+- **Status**: Abandoned (delta check only; no new candidate; expected steady state)
+- **Method**: driver brief of 11:23Z. This is a delta against the 10-30 22:38Z delta run (commit `f1ce19e7a4`), not a re-search; the last full five-pass run was 10-30 11:24Z (`e889e2cc3a`). `--diff-filter=ADR` over topics/concepts/voids/apex is empty, so no page was added, deleted or renamed; 16 section pages were modified. The `created:` 30-day floor moved from 2026-09-30 to 2026-10-01, and five pages crossed it: `concepts/depersonalisation` 3498, `concepts/inference-to-the-best-explanation-against-dualism` 3352, `concepts/revelation-thesis` 3461, `concepts/thought-insertion` 3135 and `topics/covert-consciousness-and-cognitive-motor-dissociation` 2664. None has an affordable partner. The sidecar `topics/non-temporal-consciousness.refinement-log` and the four section index files were dropped before the arithmetic. Body-only `count_words` was used with section thresholds; the gate fires at `>=` hard
+- **(a) Eligibility released**: on the strict rule (a page named in the heading or File/Secondary line of a live task above `^## Completed Tasks$` at baseline, but not at HEAD), only 2 pages were released: `concepts/grain-mismatch` (2204; its P2 completed) and `concepts/sellars-manifest-and-scientific-images` (2361). Of the 11 pages the brief named, 8 are still held by other live tasks (trilemma-of-selection ×3, testing-the-map-from-inside ×3, emotion-regulation ×2, alief ×2, stapp-quantum-mind, colour-ontology, hempels-dilemma). `chemosensory-consciousness-and-the-interface` was not named at baseline, and `auditory-consciousness-and-the-interface` and `skill-delegation` were newly named by tasks minted today; 4 pages became newly named in all. To cover the brief's reading, all 12 pages were tested as if released, against every page in the corpus regardless of eligibility: **0** affordable pairs. The nearest is chemosensory (2739), which needs a partner of ≤1260 words; the smallest concept is 1380. Emotion-regulation (created 10-23), hempels-dilemma and alief (both 10-21) also fail the floor. A looser rule than precedent would merge two concepts into a new topics page under 4000. On that rule grain-mismatch has 9 partners of ≤1795 words and sellars has 5 of ≤1638, but none of the 14 is body-linked in either direction (wikilink and raw-substring checks; the positive control `phenomenal-presentation` → `phenomenal-depth` was found), so all fail the link guard
+- **(b) Shrinkage**: of the 16 modified section pages, one shrank: `concepts/stapp-quantum-mind` 3999 → 3991 (−8), which is still at or above its 3500 hard limit. As a concepts host it would need a partner of −492 words, and under a topics host one of ≤8, so it can neither host nor be absorbed. The other 15 grew (emotion-regulation +882, sellars +639, colour-ontology +607, molyneux-void +225, hempels-dilemma +180, the rest +1 to +102). The smallest topic is still `consciousness-and-the-problem-of-other-properties` at 2112, so the smallest topics pair is 2112 + 2189 = 4301. The smallest concept is still `mind-arena` at 1380, and the smallest voids pair is still 1530 + 1795 = 3325. This run's extraction gives an eligible pool of 572 (570 at baseline by the same rule; the 10-30 figure of 558 came from a narrower extraction, and the as-if test above does not depend on the pool). `count_section_files` gives 368/370, 370/370 (concepts at cap) and 114/125
+- **Sources**: none
+- **Target**: none
+- **Archived**: none
+- **References to review**: none
+
 ## 2026-10-31T10:55:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/stapp-quantum-mind]]

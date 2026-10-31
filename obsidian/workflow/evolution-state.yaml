@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-31T10:56:39.564026+00:00'
-session_count: 23752
+last_updated: '2026-10-31T11:10:18.465805+00:00'
+session_count: 23753
 cycle_position: 15256
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-10-31T11:09:45.229867+00:00'
+  agentic-social: '2026-10-31T11:10:18.465805+00:00'
   apex-evolve: '2026-10-28T15:13:03.570124+00:00'
   check-links: '2026-10-30T14:55:06.941518+00:00'
   check-model-fallback: '2026-10-31T09:06:08.593262+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-10-31'
-  outcome: success
-  kind: cycle
 - task: refine-draft
   type: refine-draft
   date: '2026-10-31'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-10-31'
   outcome: success
   kind: queue
+- task: agentic-social
+  type: agentic-social
+  date: '2026-10-31'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/voids/formal-cognitive-limits/
