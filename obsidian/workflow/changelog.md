@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T21:27:56+00:00
+ai_modified: 2026-10-31T21:55:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T21:55:28+00:00 - optimistic-review
+- **Status**: Success (reports-only; no content file, todo line or state file modified)
+- **Content reviewed**: the onset-and-floor wing, five topics pages on where consciousness begins in evolution and how low it reaches: consciousness-and-the-major-evolutionary-transitions (2,492), inheritance-problem-for-the-psychophysical-law (3,408), single-cell-proto-agency-and-the-evidence-problem (3,076), neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition (2,987), consciousness-evolution-and-biology (2,882). Lengths from analyze_length at HEAD 318ec5a749.
+- **Key findings**: the selectability check found 5 unconditional fitness claims (consciousness-evolution-and-biology L77, L79, L101, L143; transitions L82). Source fidelity: Birch, Ginsburg & Jablonka 2020 was grep-verified in raw Europe PMC JATS. Transitions L70 compresses the source's "three separate origin events" to one Cambrian date, which is CONTRADICTED; the three-origins claim has 0 live hits. The transitions page is a near-orphan with 1 inbound body link corpus-wide. Out of scope: concepts/evolution-of-consciousness L79, and the queued W2 NEW at L183, carry the same unconditional claim (file is 3,490 live, not 3,478).
+- **Priority List**: 4 items. (1) consciousness-evolution-and-biology: selectability ×5 loci + coupling qualifier + 2 zero-word links, +68. (2) transitions: L82 selectability, L70 three-origins correction, L84 onset, +82. (3) single-cell: scope the in-principle thesis via the selectability constraint, +75. (4) three zero-word inbound links to transitions (inheritance L57, neuron-less L81, evolution-under-dualism L151).
+- **Output**: [[reviews/optimistic-2026-10-31-onset-and-floor-wing]]
+
 ## 2026-10-31T21:27:56+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/pairing-problem]] (primary); [[topics/evolution-under-dualism]] (secondary); [[concepts/objections-to-interactionism]] (optional third, table row only)
