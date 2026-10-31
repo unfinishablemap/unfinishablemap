@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T05:28:14+00:00
+ai_modified: 2026-10-31T05:43:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T05:43:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/emotion-regulation-and-the-timing-of-control]] (primary); [[topics/alief-and-acting-against-belief]] (secondary). Both files edited; none skipped.
+- **Original score**: n/a (`scripts/curate.py` is absent).
+- **Word count**: primary 2,722 → 2,856 (+134; topics hard 4,000); alief 3,351 → 3,353 (+2).
+- **Changes (primary)**: (1) Construct scope at three loci. Description: "regulation needs no conscious step" → "regulation can run without a conscious goal or supervision". Lede L37: now "no conscious regulatory goal or supervision and no awareness of regulating", with the rider that this does not show the episode goes unperceived or unfelt, nor that consciousness is idle where an explicit goal is held. Implicit section L75: same rescope. Gyurak's "proceeds without awareness" now says which awareness: participants report none of the task's key processes, the regulation among them (PMC3280343). Affect labelling is marked as itself a conscious verbal act. (2) L79: "cuts against any reading on which consciousness does the regulating" → "…on which conscious supervision is necessary for regulation". (3) L69: "Effectiveness" → "Family-level effectiveness". Added that Webb, Miles & Sheeran's estimates compare strategies, not earlier and later starts of one, so they cannot show whether starting a given strategy earlier helps. This is scoped to the estimates because the full text was unreachable (Sussex copy empty) and the abstract lists no onset-timing moderator. (4) L91: "the clearest evidence" → "the clearest evidence of effective control". Added that the timing experiments supply goal and strategy by instruction, so they test implementation, not the placement's stages. (5) L93: a physicalist account with physically realised, causally active conscious access predicts the same record, so even a demonstrated conscious contribution would not by itself favour the Map's reading. Also, the record cannot disconfirm the placement because a contribution found absent at one stage can be relocated earlier, and "the disagreement is one of framework". This is compatible with the queued P3 decisive-design paragraph after "The fit discriminates nothing."
+- **Change (alief L115)**: "can proceed without awareness" → "can proceed without awareness of regulating".
+- **Guard preserved**: the research note's L680 guard and the 2026-10-24 Stability Note protected against an epiphenomenalist over-concession. The rescoped sentences still say plainly that a conscious goal, supervision and awareness of regulating are not needed. They make no claim that consciousness is needed for regulation or does the regulating. The research note was left unedited as a historical record.
+- **Engagements**: physical valuation architecture and physicalist conscious-access accounts (L93): Mode Three. The record neither confirms nor disconfirms the placement, so the disagreement is marked as framework-level, not refuted. Implicit-regulation record (L79): scope correction, no opponent reply.
+- **Sources re-checked**: Koole & Rothermund 2011, Torre & Lieberman 2018 and Webb, Miles & Sheeran 2012 (OpenAlex abstracts); Gyurak et al. 2011 (PMC3280343 full text: "proceeds without awareness", "do not report any awareness of the key processes of the task", "largely outside of awareness"); Braunstein et al. 2017 (PMC5647798: "the nature of the emotion regulation goal"). Gollwitzer 1999 was verified at Crossref (54(7), 493–503) but not added, because it would exceed the +150 ceiling.
+- **Published**: yes
+
 ## 2026-10-31T05:28:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-deliberation-under-uncertainty]]

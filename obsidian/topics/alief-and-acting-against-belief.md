@@ -2,9 +2,9 @@
 title: "Alief and Acting Against What One Believes"
 description: "Human+AI study of Gendler's alief and its rivals: acting on belief against alief is back-end control over belief only if implicit attitudes are beliefs. No evidence for dualism."
 created: 2026-10-21
-modified: 2026-10-23
+modified: 2026-10-31
 human_modified:
-ai_modified: 2026-10-23T20:51:11+00:00
+ai_modified: 2026-10-31T05:43:25+00:00
 draft: false
 topics:
   - "[[akrasia-and-weakness-of-will]]"
@@ -112,7 +112,7 @@ Felt effort needs the conflict to be noticed. Gendler (2014, abstract) says asso
 
 So the back-end speculation has to be conditional. Effort can appear where the rival guide is noticed and checked; where interference goes unseen there is nothing to feel. The skywalk visitor notices her vertigo. Implicit bias carries no such guarantee, and nothing here claims that felt effort accompanies implicit bias as such.
 
-Emotion regulation shows the same structure: the extended process model begins explicit regulation with identification, registering that an emotion calls for regulating, while implicit regulation can proceed without awareness ([[emotion-regulation-and-the-timing-of-control|the timing of emotion regulation]]).
+Emotion regulation shows the same structure: the extended process model begins explicit regulation with identification, registering that an emotion calls for regulating, while implicit regulation can proceed without awareness of regulating ([[emotion-regulation-and-the-timing-of-control|the timing of emotion regulation]]).
 
 ## A Parity With Doxastic Involuntarism {#parity}
 
