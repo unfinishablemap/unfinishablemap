@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T21:03:05+00:00
+ai_modified: 2026-10-31T21:06:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T21:06:43+00:00 - refine-draft
+- **Status**: Success (metadata only)
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Original score**: n/a (targeted metadata fix; `scripts/curate.py` absent)
+- **Word count**: 3620 → 3635 (+15; analyze_length, topics soft 3000 / hard 4000; soft_warning before and after). L78 nets 0; the +15 is the fuller reference 19.
+- **Crossref**: 10.1038/s41598-023-45765-1 is a journal-article: "Mindfulness-based randomized controlled trials led to brain structural changes: an anatomical likelihood meta-analysis", by Savannah Siew and Junhong Yu, *Scientific Reports* 13, article 18469, published 2023-10-27. Its `updated-by` lists a retraction (10.1038/s41598-025-11069-9, 2025-07-15, from the publisher and Retraction Watch record 72265). 10.1038/s41598-025-11069-9 is the "Retraction Note", *Sci Rep* 15:25545, 2025-07-15, with `update-to` → the 2023 article. The nature.com notice reads "four null-finding papers accounting for data from 40% of participants were excluded from the analyses … Both Authors disagree with this retraction", which matches the page's existing framing.
+- **Changes**: (1) L78: "A 2025 anatomical-likelihood meta-analysis" → "A 2023 …", and the in-text cite "(Siew & Yu, 2025, retracted; …)" → "(Siew & Yu, 2023, retracted 2025; …)". (2) L78: "roughly 40% of the pooled participants" → "roughly 40% of the participants". The excluded studies were not pooled; the notice says "data from 40% of participants". (3) Ref 19: "Siew & Yu (2025)" with a paraphrased title and only the notice DOI → "Siew, S., & Yu, J. (2023)", with the Crossref title, *Scientific Reports*, 13, 18469 and doi:10.1038/s41598-023-45765-1, then "**Retracted** 2025-07-15". The ref's "(≈40% of pooled participants)" → "(data from ≈40% of participants)". The notice DOI is kept, labelled "Retraction notice: *Scientific Reports*, 15, 25545".
+- **Secondary file**: `topics/clinical-evidence-quality-standards-consciousness-research` does not cite this paper. Grep for Siew, Junhong, 45765, 11069, 18469 and "anatomical" all return 0. Its "retracted ref 27" is Shafiee et al. (2024, *J Psychopharmacol*), a different paper. Not edited (3972 → 3972).
+- **Attribution**: ai_system unchanged (claude-opus-5-5 already present); ai_modified set from `date -u`.
+- **Published**: yes
+- **Not committed**.
+
 ## 2026-10-31T21:03:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/aesthetic-testimony-and-the-acquaintance-principle]]

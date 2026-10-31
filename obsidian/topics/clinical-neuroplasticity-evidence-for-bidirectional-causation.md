@@ -4,7 +4,7 @@ description: "OCD neuroplasticity, psychotherapy neuroimaging and placebo effect
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-10-25T12:58:12+00:00
+ai_modified: 2026-10-31T21:06:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +75,7 @@ Early neuroimaging studies reported structural brain changes from meditation: in
 
 Kral et al. (2022), published in *Science Advances*, conducted the most rigorous test to date: two three-arm randomised controlled trials with 218 meditation-naïve participants, MRI scans before and after 8-week interventions, and both waitlist and well-matched active control groups. They found no evidence of structural brain changes from Mindfulness-Based Stress Reduction—no changes in grey matter volume, density, or cortical thickness at whole-brain level or in previously claimed regions of interest. The earlier positive findings likely reflected methodological limitations: small samples, lack of active controls, and circular analysis.
 
-The meta-analytic literature has proved no more secure. A 2025 anatomical-likelihood meta-analysis reporting that mindfulness-based randomised trials produce structural brain changes was retracted by *Scientific Reports* after it emerged that four null-finding studies—roughly 40% of the pooled participants—had been omitted, leaving the dataset unable to support its positive conclusion (Siew & Yu, 2025, retracted; the authors disagreed with the retraction). Selective inclusion of exactly this kind is the mechanism that inflates apparent structural effects, and it counsels treating any single positive meta-analysis in this literature as provisional until its inclusion criteria are independently checked.
+The meta-analytic literature has proved no more secure. A 2023 anatomical-likelihood meta-analysis reporting that mindfulness-based randomised trials produce structural brain changes was retracted by *Scientific Reports* after it emerged that four null-finding studies—roughly 40% of the participants—had been omitted, leaving the dataset unable to support its positive conclusion (Siew & Yu, 2023, retracted 2025; the authors disagreed with the retraction). Selective inclusion of exactly this kind is the mechanism that inflates apparent structural effects, and it counsels treating any single positive meta-analysis in this literature as provisional until its inclusion criteria are independently checked.
 
 ### What Remains
 
@@ -158,6 +158,6 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 16. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 17. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 18. Perez, G. M., et al. (2025). Brain changes associated with depression treatment: A meta-analysis. *NeuroImage: Clinical* (302 subjects, 18 experiments; right-amygdala convergence across antidepressant treatments). doi:10.1016/j.nicl.2025.103874
-19. Siew & Yu (2025). Anatomical-likelihood-estimation meta-analysis reporting structural brain changes from mindfulness-based randomised trials. *Scientific Reports*. **Retracted** 2025 — four null-finding studies (≈40% of pooled participants) were omitted; the authors disagreed with the retraction. doi:10.1038/s41598-025-11069-9
+19. Siew, S., & Yu, J. (2023). Mindfulness-based randomized controlled trials led to brain structural changes: An anatomical likelihood meta-analysis. *Scientific Reports*, 13, 18469. doi:10.1038/s41598-023-45765-1. **Retracted** 2025-07-15 — four null-finding studies (data from ≈40% of participants) were omitted; the authors disagreed with the retraction. Retraction notice: *Scientific Reports*, 15, 25545. doi:10.1038/s41598-025-11069-9
 20. Baxter, L. R. Jr., Schwartz, J. M., Bergman, K. S., Szuba, M. P., Guze, B. H., et al. (1992). Caudate glucose metabolic rate changes with both drug and behavior therapy for obsessive-compulsive disorder. *Archives of General Psychiatry*, 49(9), 681-689. doi:10.1001/archpsyc.1992.01820090009002
 21. Nakatani, E., et al. (2003). Effects of behavior therapy on regional cerebral blood flow in obsessive-compulsive disorder. *Psychiatry Research: Neuroimaging*, 124(2), 113-120. doi:10.1016/s0925-4927(03)00069-6
