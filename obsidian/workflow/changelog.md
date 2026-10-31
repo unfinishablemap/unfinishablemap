@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T15:47:00+00:00
+ai_modified: 2026-10-31T16:08:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T16:08:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 76. This is a delta check of every content file in topics/concepts/apex/voids/positions/tenets changed since 2026-10-29T00:00Z: 53 commits, a9d21eccc9 → d91a875fe9, with no uncommitted content. Both new pages (clinical-insight-presented-and-judged-unreality, voids/molyneux-void) were read in full, 648 substantive added lines were read against their removed lines, and 19 Relation sections were read in full. Every quote was verified count=1 on the live line. Sweeps ran in Python, because ugrep rejects long `.{0,n}` windows and returned silent false zeros. Run inline: no background agents.
+- **Errors**: 0
+- **Warnings**: 9. Over-correction (lens a): **none found**, with controls on clinical-insight, emotion-regulation, affective-forecasting, first-quantum, skill-delegation and molyneux. Residual over-claim (lens b): phenomenology-of-deliberation L128/L138 (felt estimation as evidence vs P-A4 and tenets L97); trilemma L113/L115 (effort calibration, which the cost-signal rival predicts per mental-effort L80/L88/L100); skill-acquisition L176 (carried from check 157 W13); evaluative-qualia L40/L110/L130. Tenet 4 read off experience (lens c): apex/process-and-consciousness L129/L135/L177, which the 10-29 P1 left. Also: two Born-wording hosts both sweeps missed (emotion-regulation L107; probability-interpretation L97, out of window); skill-delegation L132/L136 (Tenet 2 read as bandwidth); stapp L142/L138; Tenet 5 tiebreaker form on six window-touched Relation sections (todo L94), with trilemma L115 vs L135 now contradicting each other on one page.
+- **Notes**: 12
+- **Check 157 Priority List**: P1, P2 and P3 landed, and the ten-host sweep landed; P4 (metacognition) is pending at todo L3504.
+- **Tasks minted**: 0 (reports-only; the driver mints from the Priority List: deliberation L128/L138 +8; process-and-consciousness L129/L135/L177 +52; trilemma L113/L115 +12, to fold into todo L3724; skill-acquisition L176 +14)
+- **Not edited**: no article touched, todo.md not touched. **Not committed**.
+- **Output**: [[reviews/tenet-check-2026-10-31]]
+
 ## 2026-10-31T15:47:00+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The boredom void. Boredom demands a change of engagement without naming a target, presents a relational verdict as a property of the object, mispredicts the mind's own capacity to engage, and changes under engaged examination.
