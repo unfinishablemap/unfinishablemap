@@ -411,3 +411,32 @@
   subject_articles:
   - topics/emotion-regulation-and-the-timing-of-control.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/af7a43ba-9166-4f8f-9844-0c8bdd76f66c
+  commissioned_at: '2026-10-31T03:10:16.745884+00:00'
+  prompt_summary: Audit emotion-regulation-and-the-timing-of-control (recent-aged)
+  target_filename: outer-review-2026-10-31-claude-opus-5-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a hostile but fair referee and audit one article from
+    The Unfinishable Map, a philosophy site that defends a dualist, interactionist
+    view of consciousness: https://unfinishablemap.org/topics/emotion-regulation-and-the-timing-of-control/
+    (site: https://unfinishablemap.org). It was last substantively modified on 2026-10-24;
+    search indexes lag, so consult the changelog first: https://unfinishablemap.org/workflow/changelog/.
+    The article reads Gross''s process model, Sheppes and Gross''s work on regulation
+    timing and strategy choice, and the implicit emotion-regulation literature to
+    ask where, if anywhere, a conscious selector could contribute. Please check: whether
+    each empirical claim and citation is accurate, correctly attributed and current,
+    including post-2020 work on regulatory flexibility, strategy selection and implicit
+    regulation; whether the article states the "earlier is easier" evidence fairly;
+    which strong counterarguments it misses or brackets too conveniently to protect
+    the site''s tenets; and how well it connects to neighbouring articles on mental
+    effort, self-control and emotion. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit emotion-regulation-and-the-timing-of-control
+  subject_articles:
+  - topics/emotion-regulation-and-the-timing-of-control.md
+  subject_source: reuse:pending-reviews:outer-review-2026-10-31-chatgpt-5-6-sol-pro.md
