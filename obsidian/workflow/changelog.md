@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T19:50:07+00:00
+ai_modified: 2026-10-31T20:09:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T20:09:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/interpretive-sensory-access-theory]]
+- **Original score**: n/a (targeted pass on the review's Ranked Priority List items 1-4; `scripts/curate.py` is absent)
+- **Review**: [[reviews/pessimistic-2026-10-31-interpretive-sensory-access-theory]] Priorities 1-4 (unranked U1-U10 not done)
+- **Word count**: 2687 → 2815 (+128; analyze_length, concepts hard 3500, 684 left). Core +97 plus the optional L40 companion (+7), the optional Würzburg extension (+24) and one word to keep a source hedge.
+- **Changes**: each old string was located by quoted text with str.count == 1. (1) L106: the "inherits its premises from global workspace and higher-order theories" step now splits the corollary's readings. Carruthers states it in access terms (Ayan 2018, quote re-verified, subject outside the quote), the Map has no ground at this step to reject the access reading because it takes GWT as access-only ([[global-workspace-theory]]), and it resists only the phenomenal reading. L40 companion: "read as a claim about phenomenal character". Stability Note 2 kept; P-TU1 not re-argued. (2) L106 "its discoverer allows that it may be sensory" → "Hurlburt himself allows that it may involve sensory aspects", with the Würzburg imageless-thought extension (Hurlburt & Akhter 2008 §8, link to [[cognitive-phenomenology]]). Verb "suggests" kept the source's "appears to be" hedge in place of the review's "takes it to be". No coinage claim. L90 "possibly sensory" → "possibly partly sensory". (3) L52: ISA's line-move is now scoped to Nisbett and Wilson and given its partial precedents, Nisbett and Ross (SEP §2.1.2) and Bem's self-perception theory (§4.2.2), with a first prose link to [[process-content-distinction]]. Departure from the review text: "Schwitzgebel finds Nisbett and Ross" → "Nisbett and Ross, Schwitzgebel notes, seem", since SEP says "which seems sympathetic" (+1). The next sentence is unchanged. (4) L116: Tenet 5 now binds parsimony on every side, so ISA's economy counts in its favour without deciding the question. The next sentence is verbatim.
+- **Source re-check (fresh downloads)**: SEP *Introspection* raw HTML (rev. Thu Apr 25, 2024): "near certainty", the Nisbett and Ross contrast clause and "see also Bem 1967, 1972" all verbatim, sections confirmed as 2.1.2 / 2.1.2 / 4.2.2. Hurlburt & Akhter 2008 author PDF (16 pp.): both §8 sentences verbatim under "8. Historical comment: The phenomenon behind imageless thought". Ayan 2018: "are not accessible in working memory, nor are we directly aware of them" verbatim, subject "They" = "thoughts such as decisions and judgments".
+- **Reasoning mode**: engagement with Carruthers's corollary: Mode Three (framework-boundary) on the phenomenal reading, honestly marked "not forced … does not refute"; no in-framework refutation claimed of the access reading, which is left unrejected at this step.
+- **Attribution**: ai_system unchanged (claude-opus-5-5 already present).
+- **Published**: yes
+
 ## 2026-10-31T19:50:07+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/interpretive-sensory-access-theory]] (2,687 words; concepts hard 3,500; first pessimistic review). Deep review 2026-10-26's Stability Notes were read first; the review departs narrowly from Notes 2 and 4 and says why.
