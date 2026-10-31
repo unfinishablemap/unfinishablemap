@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-13
-ai_modified: 2026-10-22 06:22:57+00:00
+ai_modified: 2026-10-31 23:50:31+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[ensemble-level-epiphenomenalism]]'
 - '[[combination-problem]]'
 created: 2026-10-13
-date: &id001 2026-10-13
+date: &id001 2026-10-31
 description: When two subjects' conscious states bear on one physical event, the selection
   law needs an aggregation rule. A human-AI analysis of the options and what each
   one costs.
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-16 00:10:38+00:00
-lastmod: 2026-10-22 06:22:57+00:00
+lastmod: 2026-10-31 23:50:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ The utilitarian option needs two things. Each subject's input must be a single q
 
 ## Rival Readings {#rivals}
 
-**The problem is purely technical.** On the value-blind horn nothing normative rides on the composition rule; it is a physics problem like joint Born preservation. This is [P-SC2](/positions/subject-census/#p-sc2)'s current wording. It is right exactly where the value-blind reading is right, and the Map leans the other way.
+**The problem is purely technical.** On the value-blind horn nothing normative rides on the composition rule; it is a physics problem like joint Born preservation. [P-SC2](/positions/subject-census/#p-sc2) states it for the value-blind horn only. It is right exactly where the value-blind reading is right, and the Map leans the other way.
 
 **The problem never arises.** [P-SC2](/positions/subject-census/#p-sc2) lists this route among its shift conditions: an interface formalism shown to be single-subject in principle would dissolve the gap. Collapse-trigger models such as Chalmers and McQueen's already avoid composition, because no conscious state enters the outcome law. The price is giving up outcome-selection, which [Bidirectional Interaction](/tenets/#bidirectional-interaction) commits the Map to.
 

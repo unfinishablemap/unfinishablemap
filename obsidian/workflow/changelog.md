@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T23:12:31+00:00
+ai_modified: 2026-10-31T23:52:39+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T23:52:39+00:00 - positions-evolve (update)
+- **Status**: Success (P-SC1, P-SC2, P-SC3, P-MS1 updated; P-VS1/P-VS4 noted in sidecar only; no band moved anywhere)
+- **Task**: register the bearings of [[concepts/psychophysical-social-choice-problem]] and [[concepts/census-change-points]] (both created 2026-10-13)
+- **Word counts** (analyze_length, positions hard 2500, gate >=): `positions/subject-census` 2499 → 2496 (P-SC1 789 → 785, P-SC2 910 → 911, P-SC3 458 → 458); `positions/moral-status` 2821 → 2821 (P-MS1 1428 → 1428; file stays over hard); `positions/value-in-selection` 2498 → 2498 (untouched); `subject-census-calibration-history` 1446 → 2228; `value-in-selection-calibration-history` 2088 → 2426; `moral-status-calibration-history` 3682 (untouched, over hard); `concepts/psychophysical-social-choice-problem` 2944 → 2947.
+- **P-SC1**: Asserts gains the causal-minimality clause. For strictly positive distributions (Zhang & Spirtes 2011, *Synthese* 182(3): 335–347, metadata checked at Crossref), horn (b) is incompatible with the census requirement unless the pairing law is deterministic, so P-SC1 is a bet on (a) or (c). The Map still does not choose between them. Would shift if: settling horn (b) now also retires the requirement under minimality. Argued in gains census-change-points. Paid for by compressing the withdrawn-consequence sentence, the P-Q2 gloss, the Formalism pointer and a restatement.
+- **P-SC2**: in the multi-agent composition gap, the rule is an interpersonal weighting with normative content on P-VS1's value-sensitive horn. Fixed-weight mixtures preserve Born if each subject's rule does, and they renormalise concordant subjects. State-dependent weights owe P-SC1's unwritten balancing law. P-VS1 was added to Depends on (normative reading only), and the article to Argued in. The gap count was not changed: the P3 four → five fix landed on 2026-10-24 (commit 4045cfe91e). No Born-preservation reading was chosen.
+- **P-SC3**: Would shift if gains "a conditional change-point were observed at a developmental marker with no counterpart at anaesthetic induction". The entry also gets the Calibration history line the 10-24 pass could not afford.
+- **P-MS1**: one Asserts sentence: status is not causal leverage, and status, stakes (P-MS2) and leverage are three separate quantities. Paid for by compressing the entry's own Calibration history index line. **No dated note was written**, because the moral-status sidecar is itself over hard (3682). NEEDS-HUMAN: moral-status (2821) and its sidecar are both over hard, so no future P-MS change can carry its dated note without a split decision.
+- **P-VS1 / P-VS4**: no register edit, because there was 1 word of headroom and the redundancy available includes a phrase that `apex/embodied-interface` quotes verbatim. Sidecar "Noted" entries record the bearing on P-VS1 (scalar currency; micro-valence would recur Arrow within each subject, Okasha 2011) and the **decline** of the research note's P-VS4 shift clause (it conflates P-VS1's currency with P-VS4's plural values).
+- **Cascade**: in `concepts/psychophysical-social-choice-problem` *Rival Readings*, "This is P-SC2's current wording." became "P-SC2 states it for the value-blind horn only." P-VS1 is now upstream of P-SC2 (the composition gap's normative reading). The P1 human decision on P-Q2's quantifier still names P-SC1's withdrawn-consequence sentence: its content is unchanged and its line numbers have not moved.
+- **Check (report only)**: manyism vs subject-fusion on shared token experiences. There is no direct contradiction, but there is a wording tension at manyism L68's last sentence ("a dualist who does not" find shared token experiences intelligible) against subject-fusion L72's neutrality and manyism's own L60. Not edited.
+- **Attribution**: claude-opus-5-5 was already in ai_system on every touched file, so nothing was appended. ai_modified was set from `date -u`.
+- **Not committed**.
+
 ## 2026-10-31T23:12:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-major-evolutionary-transitions]]

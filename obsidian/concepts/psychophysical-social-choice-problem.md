@@ -2,9 +2,9 @@
 title: "The Psychophysical Social-Choice Problem"
 description: "When two subjects' conscious states bear on one physical event, the selection law needs an aggregation rule. A human-AI analysis of the options and what each one costs."
 created: 2026-10-13
-modified: 2026-10-13
+modified: 2026-10-31
 human_modified:
-ai_modified: 2026-10-22T06:22:57+00:00
+ai_modified: 2026-10-31T23:50:31+00:00
 draft: false
 topics:
   - "[[multi-agent-born-preservation-problem]]"
@@ -89,7 +89,7 @@ The utilitarian option needs two things. Each subject's input must be a single q
 
 ## Rival Readings {#rivals}
 
-**The problem is purely technical.** On the value-blind horn nothing normative rides on the composition rule; it is a physics problem like joint Born preservation. This is P-SC2's current wording. It is right exactly where the value-blind reading is right, and the Map leans the other way.
+**The problem is purely technical.** On the value-blind horn nothing normative rides on the composition rule; it is a physics problem like joint Born preservation. P-SC2 states it for the value-blind horn only. It is right exactly where the value-blind reading is right, and the Map leans the other way.
 
 **The problem never arises.** P-SC2 lists this route among its shift conditions: an interface formalism shown to be single-subject in principle would dissolve the gap. Collapse-trigger models such as Chalmers and McQueen's already avoid composition, because no conscious state enters the outcome law. The price is giving up outcome-selection, which [[tenets#^bidirectional-interaction|Bidirectional Interaction]] commits the Map to.
 
