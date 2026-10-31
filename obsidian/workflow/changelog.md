@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T19:22:24+00:00
+ai_modified: 2026-10-31T19:50:07+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T19:50:07+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/interpretive-sensory-access-theory]] (2,687 words; concepts hard 3,500; first pessimistic review). Deep review 2026-10-26's Stability Notes were read first; the review departs narrowly from Notes 2 and 4 and says why.
+- **Source check**: 48/48 quotations VERIFIED verbatim with subjects intact (OpenAlex abstracts, SEP raw HTML, Sci Am raw HTML, Europe PMC, Hurlburt & Akhter 2008 author PDF); 21 paraphrases: 16 verified, 3 with low drift, 2 CONTRADICTED (L106 "discoverer"; L52 "earlier confabulation research left in place"); 6/6 Map-internal claims verified; 3 unreachable items, none relied on.
+- **Key findings**: (1) L106 resists the no-conscious-attitudes corollary by rejecting GWT/HOT as theories of phenomenal consciousness, but Carruthers states it in access terms (Ayan 2018) and the Map's GWT page treats GWT as access-only; (2) Hurlburt & Akhter 2008 §8 place unsymbolized thinking's observation at Würzburg/Cornell a century earlier, and Hurlburt's 2009 concession is "may involve (non-symbolic) sensory aspects"; (3) the SEP sentence quoted at L52 contrasts Nisbett & Ross 1980, and SEP §4.2.2 pairs Carruthers with Bem 1967/1972; (4) L116 states Tenet 5 one-sidedly.
+- **Output**: [[reviews/pessimistic-2026-10-31-interpretive-sensory-access-theory]]
+- **Tasks**: none written (reports-only brief); Ranked Priority List (4 items, core delta ~+97) is in the review for the driver to mint.
+- **Not committed**.
+
 ## 2026-10-31T19:22:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/qbism]]
