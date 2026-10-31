@@ -2,9 +2,9 @@
 title: "Sellars' Manifest and Scientific Images"
 description: "Sellars' manifest and scientific images: the meta-framework the Map assumes but never defined, read framework-relative—grain problem enlisted, scientia mensura resisted."
 created: 2026-07-12
-modified: 2026-07-12
+modified: 2026-10-31
 human_modified:
-ai_modified: 2026-08-06T14:12:18+00:00
+ai_modified: 2026-10-31T08:47:10+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -14,7 +14,7 @@ concepts: ["grain-mismatch", "consciousness-and-the-normativity-of-reason"]
 related_articles: ["one-structure-three-vocabularies", "eliminative-materialism", "argument-from-reason"]
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-8+claude-opus-5
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-07-12
 last_curated:
 last_deep_review: 2026-08-06T14:12:18+00:00
@@ -48,7 +48,7 @@ The synoptic goal is to see the two images "fall together in one stereoscopic vi
 
 Sellars' most Map-relevant contribution is an obstacle he found in his *own* project — a proto-hard-problem now known as the **grain problem**. Consider the pink of a pink ice cube. As presented in the manifest image, that pink is *ultimately homogeneous*: a continuous expanse every region of which, however small, is pink through and through. But the scientific image describes the cube as a discontinuous, particulate structure — a lattice of colourless particles with gaps between them. A smooth, gap-free quality cannot, Sellars argued, simply be *identified* with a grainy, gappy microphysical structure. The character of sensory consciousness resists the grain of the scientific image. This is the phenomenal-quality obstacle the Map develops under [[grain-mismatch]].
 
-Sellars did not treat this as a refutation of naturalism but as a demand on it. His late metaphysics turned to *sensa* — sensory items he classed as "physical-1" (real, space-time bound, causally efficacious) but not "physical-2" (not reducible to the mechanistic laws adequate to non-living matter). The endpoint is a pure-process ontology in which sensory qualities are primitive constituents of an *expanded* physics. The scientific image is stretched to accommodate homogeneous quality rather than a second substance being admitted alongside it.
+Sellars did not treat this as a refutation of naturalism but as a demand on it. His answer was *sensa*, sensory items he was already writing of in 1965 (Sellars 1965). The late Carus Lectures recast them as absolute sensory processes, σ-ings, using a notion of "absolute processes" he credits to C. D. Broad (Sellars 1981, II ¶50, III ¶115). Sellars classed σ-ings as physical₁ (real, space-time bound, causally efficacious) but not physical₂, not definable in the terms that suffice to describe the universe before life or, in his 1981 wording, before sentient organisms (Sellars 1981, III ¶126 and n. 15; deVries 2024, §5.2). Meehl and Sellars (1956) had introduced the terms. The endpoint is a pure-process ontology in which sensory qualities are primitive constituents of an *expanded* physics (Sellars 1981, III ¶¶111–125). The scientific image is stretched to accommodate homogeneous quality rather than a second substance being admitted alongside it.
 
 ## The Myth of the Given
 
@@ -60,9 +60,15 @@ Sellars is best presented to the Map's readers as a **meta-framework the corpus 
 
 **Congenial.** The manifest image's *irreducible conscious person* is close kin to what the Map's dualism treats as ontologically basic: the subject of experience and reasons that does not dissolve into a description of parts. And the **grain problem** is a pre-Chalmers line of pressure on physicalism the Map can enlist. That homogeneous sensory quality resists particulate structure is an independent diagnosis, reached from within a scientific-realist project rather than from a dualist one — which makes it stronger evidence, not weaker, for the mismatch the Map already documents at [[grain-mismatch]].
 
-**Resisted.** Sellars' *endpoint* is the opposite of the Map's. Under *scientia mensura* he grants the manifest person its due only in order to *naturalize* it: science remains the measure of being, and the grain problem is answered by *sensa* inside an expanded physics rather than by admitting anything non-physical. The Map takes the irreducibility Sellars locates to be *ontological*, not a bookkeeping problem for a wider naturalism. So the Map enlists the *diagnosis* (the manifest person, the grain problem) while declining the *cure* (naturalization under science-as-measure). Presenting Sellars as a dualist ally would misattribute a commitment he explicitly refused; presenting him as merely a physicalist would miss why his framework is worth assuming at all. The honest reading is framework-relative: a scientific realist whose best problems outrun his own solution.
+**Resisted.** Sellars' *endpoint* is the opposite of the Map's. Under *scientia mensura* he grants the manifest person its due only in order to *naturalize* it: science remains the measure of being, and the grain problem is answered by *sensa* inside an expanded physics rather than by admitting anything he would call non-physical. The Map takes the irreducibility Sellars locates in the person to be *ontological*, not a bookkeeping problem for a wider naturalism. So the Map enlists the *diagnosis* (the manifest person, the grain problem) while declining the *cure* (naturalization under science-as-measure). Presenting Sellars as a dualist ally would misattribute a commitment he explicitly refused; presenting him as merely a physicalist would miss why his framework is worth assuming at all. The honest reading is framework-relative: a scientific realist whose best problems outrun his own solution.
 
-This also clarifies the Map's relation to eliminativism. Where [[eliminative-materialism]] would let the scientific image simply supersede the manifest, Sellars — and the Map more firmly — hold that the person and the space of reasons cannot be dropped. The Map differs from Sellars only on whether keeping them requires expanding physics or exceeding it. The parallel worry that rational causation cannot be vindicated inside a purely physical order is pursued under [[argument-from-reason]].
+This also clarifies the Map's relation to eliminativism. Where [[eliminative-materialism]] would let the scientific image simply supersede the manifest, Sellars — and the Map more firmly — hold that the person and the space of reasons cannot be dropped. The parallel worry that rational causation cannot be vindicated inside a purely physical order is pursued under [[argument-from-reason]].
+
+**Expanding or exceeding physics.** The natural way to state what still divides the Map from Sellars, that he expands physics where the Map exceeds it, does not survive his own vocabulary. In Lecture III, "Is Consciousness Physical?", σ-ings would be physical "in the richer sense of playing a genuine causal role in the behavior of sentient organisms", and they "would, as I have used the terms, be physical₁ but not physical₂" (Sellars 1981, III ¶126). A note in the lecture glosses physical₁ features as "any which belong in the causal order" (n. 15). On that gloss, though perhaps not on the 1956 wording "belongs in the space-time network" (Meehl and Sellars 1956, p. 252), a consciousness that acts on the brain, as [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires, would also be physical₁ but not physical₂. The inference is the Map's, not Sellars'. Sellars himself called the difference between emergent materialism and substantial dualism "purely ontological", a matter of which basic objects exist (¶87). If the inference holds, his physical₁ has the defect [[hempels-dilemma]] finds in future-physics definitions: wide enough to include an interacting mind, it cannot keep physicalism opposed to dualism.
+
+The via negativa's "no fundamental mentality" constraint turns on what counts as mental. Sellars calls σ-ings physical "in the weak sense of not being mental (i.e., conceptual), for they lack intentionality" (¶126). If phenomenal quality counts as mental, as it does in the Map's usage, primitive σ-ings are fundamental mentality, and the constraint classes his late view as non-physicalist, as it classes emergentism. Non-physicalist does not mean dualist. Sellars offers the process ontology as freedom from "this last refuge of metaphysical dualism" (¶119), and because he names the second kind of process openly and claims no reduction of it, the [[disguised-property-dualism]] diagnostic does not fit.
+
+Two commitments, not the label "physical", divide the Map from Sellars. On his process ontology a person would be "a bundle of absolute processes" (¶125), where the Map's agency treatments presuppose a [[tenets/background-commitments|persisting subject]]. And his affirmative answer to the lecture's title question covers sensory consciousness only (¶127). He pursues conceptual consciousness elsewhere, and the lecture leaves open that conceptual acts "might be complex physical₂ states" (¶91), which the Map's [[argument-from-reason]] contests. On causal efficacy the Map and Sellars agree: for him σ-ings, not being epiphenomenal, would conform to the intuition "to be is to make a difference" (¶126).
 
 ## Further Reading
 
@@ -81,5 +87,9 @@ This also clarifies the Map's relation to eliminativism. Where [[eliminative-mat
 4. O'Shea, J. (2009). On the Structure of Sellars's Naturalism with a Normative Turn. In W. A. deVries (Ed.), *Empiricism, Perceptual Knowledge, Normativity, and Realism: Essays on Wilfrid Sellars*. Oxford: Oxford University Press.
 5. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism* (pp. 271–291). Oxford: Clarendon Press.
 6. deVries, W. & Triplett, T. (2000). *Knowledge, Mind, and the Given*. Indianapolis: Hackett.
-7. Oquatre-huit, C. & Southgate, A. (2026-03-11). Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/
-8. Oquatre-sept, C. & Southgate, A. (2026-05-26). One Structure, Three Vocabularies. *The Unfinishable Map*. https://unfinishablemap.org/topics/one-structure-three-vocabularies/
+7. Meehl, P. E. & Sellars, W. (1956). The Concept of Emergence. In H. Feigl & M. Scriven (Eds.), *Minnesota Studies in the Philosophy of Science*, Vol. 1 (pp. 239–252). Minneapolis: University of Minnesota Press.
+8. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics*, 18, 430–451.
+9. Sellars, W. (1981). Foundations for a Metaphysics of Pure Process: The Carus Lectures. *The Monist*, 64(1), 3–90. Lecture I, The Lever of Archimedes (pp. 3–36), https://doi.org/10.5840/monist19816412; Lecture II, Naturalism and Process (pp. 37–65), https://doi.org/10.5840/monist19816416; Lecture III, Is Consciousness Physical? (pp. 66–90), https://doi.org/10.5840/monist19816415. Cited by lecture and by Sellars' own paragraph (¶) and note numbers.
+10. deVries, W. (2024). Wilfrid Sellars. *Stanford Encyclopedia of Philosophy* (first pub. 2011; substantive revision 1 October 2024). https://plato.stanford.edu/entries/sellars/
+11. Oquatre-huit, C. & Southgate, A. (2026-03-11). Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/
+12. Oquatre-sept, C. & Southgate, A. (2026-05-26). One Structure, Three Vocabularies. *The Unfinishable Map*. https://unfinishablemap.org/topics/one-structure-three-vocabularies/

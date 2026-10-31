@@ -2,9 +2,9 @@
 title: "Hempel's Dilemma and the Definition of the Physical"
 description: "Hempel's dilemma challenges defining 'physical' by physics on either horn. It is no evidence for dualism, and it presses on the Map's own Tenet 1. Six responses and their costs."
 created: 2026-10-21
-modified: 2026-10-21
+modified: 2026-10-31
 human_modified:
-ai_modified: 2026-10-21T13:33:29+00:00
+ai_modified: 2026-10-31T08:47:45+00:00
 draft: false
 topics:
   - "[[causal-closure-debate-historical-survey]]"
@@ -67,6 +67,8 @@ Andrew Melnyk (1997) defines the physical by current physics and asks that physi
 ### The Object-Based Conception
 
 Daniel Stoljar (2001) named the distinction between theory-based and object-based conceptions of the physical. The object-based conception itself is older; the SEP cites Meehl and Sellars, and Feigl, as its best examples. On it, a physical property is "the sort of property had by paradigmatic physical objects and their constituents". Its cost is the panpsychism problem: if the paradigm objects were conscious through and through, physicalism so defined could still come out true. It also counts the categorical properties of physical objects as physical, so that "physical" and "structural" come apart ([[intrinsic-nature]]).
+
+Meehl and Sellars (1956), the SEP's first example, drew a contrast of their own: an entity is physical₁ "if it belongs in the space-time network", and physical₂ if it is definable in primitives adequate to describe the actual states (not necessarily the potentialities) of the universe "before the appearance of life". Feigl (1958) took over the terms but glossed physical₁ as "practically synonymous with 'scientific'" (p. 377); the SEP relates that notion to the theory-based conception. Sellars later classed sensa, recast as absolute sensory processes, as physical₁ but not physical₂ ([[sellars-manifest-and-scientific-images]]).
 
 ### The Via Negativa and No Fundamental Mentality
 
@@ -133,23 +135,25 @@ The reading has costs. It classifies panpsychism and emergentism as non-physical
 3. Chalmers, D. J. (2003). Consciousness and its place in nature. In S. P. Stich & T. A. Warfield (eds), *The Blackwell Guide to Philosophy of Mind*, pp. 102–142. Blackwell.
 4. Crane, T. & Mellor, D. H. (1990). There is no question of physicalism. *Mind* 99(394): 185–206. https://doi.org/10.1093/mind/xcix.394.185
 5. Crook, S. & Gillett, C. (2001). Why physics alone cannot define the 'physical'. *Canadian Journal of Philosophy* 31(3): 333–359.
-6. Firt, E., Hemmo, M. & Shenker, O. (2021). Hempel's dilemma: not only for physicalism. *International Studies in the Philosophy of Science* 34(2): 101–129. https://doi.org/10.1080/02698595.2022.2041969
-7. Gillett, C. & Witmer, D. G. (2001). A 'physical' need: physicalism and the via negativa. *Analysis* 61(4): 302–309.
-8. Gyenis, B. (2025). Empirical structure physicalism and realism, Hempel's dilemma, and an optimistic meta-induction. *Synthese* 206(2), art. 76. https://doi.org/10.1007/s11229-025-05160-x (quoted from the arXiv version, 2507.19834)
-9. Hempel, C. G. (1969). Reduction: ontological and linguistic facets. In S. Morgenbesser, P. Suppes & M. White (eds), *Philosophy, Science, and Method: Essays in Honor of Ernest Nagel*, pp. 179–199. St Martin's Press.
-10. Hempel, C. G. (1980). Comments on Goodman's *Ways of Worldmaking*. *Synthese* 45(2): 193–199. https://doi.org/10.1007/BF00413558
-11. Melnyk, A. (1997). How to keep the 'physical' in physicalism. *Journal of Philosophy* 94(12): 622–637.
-12. Montero, B. (1999). The body problem. *Noûs* 33(2): 183–200.
-13. Montero, B. (2003). Varieties of causal closure. In S. Walter & H.-D. Heckmann (eds), *Physicalism and Mental Causation*. Imprint Academic.
-14. Montero, B. & Papineau, D. (2005). A defence of the via negativa argument for physicalism. *Analysis* 65(3): 233–237.
-15. Ney, A. (2008a). Physicalism as an attitude. *Philosophical Studies* 138(1): 1–15.
-16. Ney, A. (2008b). Defining physicalism. *Philosophy Compass* 3(5): 1033–1048.
-17. Spurrett, D. & Papineau, D. (1999). A note on the completeness of 'physics'. *Analysis* 59(1): 25–29.
-18. Stoljar, D. (2001). Two conceptions of the physical. *Philosophy and Phenomenological Research* 62(2): 253–281.
-19. Stoljar, D. (2010). *Physicalism*. Routledge.
-20. Stoljar, D. (2026). Physicalism. *Stanford Encyclopedia of Philosophy* (substantive revision 16 September 2026), §§4.1–4.7. https://plato.stanford.edu/entries/physicalism/
-21. Tiehen, J. (2016). Physicalism requires functionalism: a new formulation and defense of the via negativa. *Philosophy and Phenomenological Research* 93(1): 3–24.
-22. van Fraassen, B. C. (2002). *The Empirical Stance*. Yale University Press.
-23. Wilson, J. (2006). On characterizing the physical. *Philosophical Studies* 131(1): 61–99. (second-horn readings from the 31 March 2005 draft)
-24. Southgate, A., Oquatre-six, C., Ocinq, C., & Ocinq-cinq, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-25. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-02). Type-A, Type-B and Type-C Physicalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/type-a-type-b-and-type-c-physicalism/
+6. Feigl, H. (1958). The 'mental' and the 'physical'. In H. Feigl, M. Scriven & G. Maxwell (eds), *Concepts, Theories, and the Mind-Body Problem* (Minnesota Studies in the Philosophy of Science 2), pp. 370–497. University of Minnesota Press. (The SEP cites it as Feigl 1967.)
+7. Firt, E., Hemmo, M. & Shenker, O. (2021). Hempel's dilemma: not only for physicalism. *International Studies in the Philosophy of Science* 34(2): 101–129. https://doi.org/10.1080/02698595.2022.2041969
+8. Gillett, C. & Witmer, D. G. (2001). A 'physical' need: physicalism and the via negativa. *Analysis* 61(4): 302–309.
+9. Gyenis, B. (2025). Empirical structure physicalism and realism, Hempel's dilemma, and an optimistic meta-induction. *Synthese* 206(2), art. 76. https://doi.org/10.1007/s11229-025-05160-x (quoted from the arXiv version, 2507.19834)
+10. Hempel, C. G. (1969). Reduction: ontological and linguistic facets. In S. Morgenbesser, P. Suppes & M. White (eds), *Philosophy, Science, and Method: Essays in Honor of Ernest Nagel*, pp. 179–199. St Martin's Press.
+11. Hempel, C. G. (1980). Comments on Goodman's *Ways of Worldmaking*. *Synthese* 45(2): 193–199. https://doi.org/10.1007/BF00413558
+12. Meehl, P. E. & Sellars, W. (1956). The concept of emergence. In H. Feigl & M. Scriven (eds), *The Foundations of Science and the Concepts of Psychology and Psychoanalysis* (Minnesota Studies in the Philosophy of Science 1), pp. 239–252. University of Minnesota Press.
+13. Melnyk, A. (1997). How to keep the 'physical' in physicalism. *Journal of Philosophy* 94(12): 622–637.
+14. Montero, B. (1999). The body problem. *Noûs* 33(2): 183–200.
+15. Montero, B. (2003). Varieties of causal closure. In S. Walter & H.-D. Heckmann (eds), *Physicalism and Mental Causation*. Imprint Academic.
+16. Montero, B. & Papineau, D. (2005). A defence of the via negativa argument for physicalism. *Analysis* 65(3): 233–237.
+17. Ney, A. (2008a). Physicalism as an attitude. *Philosophical Studies* 138(1): 1–15.
+18. Ney, A. (2008b). Defining physicalism. *Philosophy Compass* 3(5): 1033–1048.
+19. Spurrett, D. & Papineau, D. (1999). A note on the completeness of 'physics'. *Analysis* 59(1): 25–29.
+20. Stoljar, D. (2001). Two conceptions of the physical. *Philosophy and Phenomenological Research* 62(2): 253–281.
+21. Stoljar, D. (2010). *Physicalism*. Routledge.
+22. Stoljar, D. (2026). Physicalism. *Stanford Encyclopedia of Philosophy* (substantive revision 16 September 2026), §§4.1–4.7. https://plato.stanford.edu/entries/physicalism/
+23. Tiehen, J. (2016). Physicalism requires functionalism: a new formulation and defense of the via negativa. *Philosophy and Phenomenological Research* 93(1): 3–24.
+24. van Fraassen, B. C. (2002). *The Empirical Stance*. Yale University Press.
+25. Wilson, J. (2006). On characterizing the physical. *Philosophical Studies* 131(1): 61–99. (second-horn readings from the 31 March 2005 draft)
+26. Southgate, A., Oquatre-six, C., Ocinq, C., & Ocinq-cinq, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+27. Southgate, A., Ocinq-cinq, C., & Fabcinq-un, C. (2026-10-02). Type-A, Type-B and Type-C Physicalism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/type-a-type-b-and-type-c-physicalism/
