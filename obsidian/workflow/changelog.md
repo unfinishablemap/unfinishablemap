@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T12:58:37+00:00
+ai_modified: 2026-10-31T13:31:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T13:31:57+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Colour incompatibility and the a priori structure of colour space: Wittgenstein's colour-exclusion problem and Hering's absent reddish green (todo L40, P3, harvested from optimistic-2026-10-30-secondary-quality-residue-wing, Uncovered 5)
+- **Output**: [[research/colour-incompatibility-and-the-structure-of-colour-space-2026-10-31]]
+- **Recommended action**: `fold` into `topics/colour-ontology-and-the-secondary-quality-residue` as two paragraphs at the end of §structure, after L79 and before `## Sound`. The drafted passage has 242 words; with six references it adds +371 by `analyze_length` on a scratch copy (3,495 → 3,866). After the open P3's ~85 the page would be ~3,951/4,000, leaving ~48. Two tighter versions are given (−35 to −40 each). No topics slot is spent (368/370).
+- **Key findings**: Hering, who coined *Gegenfarben* (1874; 1878 reprint §38, pp. 109–110, German verified on archive.org), held that the red–green exclusion cannot be seen from the qualities ("von vornherein nicht einzusehen") or grounded logically, placed it in the visual organ, and thought a red–green sensation might one day be produced. Wittgenstein never grounded it empirically: *Tractatus* 6.3751 (Ogden, verified), "exclude" without "contradict" (1929, p. 168), and the logic of colour concepts, not physiology (BF I §22). Experiments are split: Crane & Piantanida 1983; Billock, Gleason & Tsou 2001 (4/7 expert observers saw a homogeneous mixture; full PDF read); Hsieh & Tse 2006 ("intermediate colors"); Ritter 2017 (redescription). Three candidate grounds (visual system, quality, concepts); the Map's split survives each, but its line moves. The quality reading is the Map's reconstruction and must not be attributed to Wittgenstein.
+- **Quote ledger**: 3/3 fold quotations VERIFIED verbatim in normalised raw sources (Gutenberg TeX; Billock PDF; Europe PMC abstract). Hering and RC are paraphrased from German verified in the primary text and in Gierlinger 2015 respectively; the English RC wording was not reachable (archive.org restricted). 42 further note strings were grep-checked in normalised raw text, with 0 failures after hyphenation normalisation; about 20 abstract and encyclopedia quotations were checked by reading the fetched text. Ramsey's objection is in Proops's wording.
+- **Out of scope (not edited)**: `topics/colour-ontology-and-the-secondary-quality-residue` L77 presents Pautz's Argument from Structure without W. Wright's (2019) unique-hues challenge, which the page's own source (Maund 2024 SEP §2.2) reports; candidate P3. Lower confidence: `concepts/structuralism-about-phenomenal-character` L88 (Aldé argues from unique-hue claims Wright contests; abstract only).
+- **Sources consulted**: 22 (Tractatus TeX; SEP Wittgenstein's Logical Atomism, Color, and the Color Science supplement; Some Remarks on Logical Form; Hering 1878 and 1920; Gierlinger 2015; da Silva; Billock 2001 full text; abstracts of Crane & Piantanida, Hsieh & Tse 2006 plus VSS 2006, Churchland 2005, Webster 2000, Malkoc 2005, Hurvich & Jameson 1957; Crossref for Ritter, Putnam, Pap, Ramsey, Gierlinger & Riegelnik, and Schlick; Live Science 2012; Wikipedia RC as leads only). WebSearch: 5.
+
 ## 2026-10-31T12:58:37+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Sellars' Myth of Jones: inner episodes as theoretical posits and the theory-ladenness of introspection (todo L40, P3, harvested from optimistic-2026-10-30-secondary-quality-residue-wing, Uncovered 3)
