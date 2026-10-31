@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T00:09:31+00:00
+ai_modified: 2026-10-31T01:00:15+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T01:00:15+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Delusional misidentification beyond Capgras: Frégoli, intermetamorphosis, subjective doubles, reduplicative paramnesia and mirrored-self misidentification
+- **Output**: [[research/delusional-misidentification-beyond-capgras-2026-10-30]]
+- **Sources consulted**: 30 (full text: Coltheart, Menzies & Sutton 2010; Langdon, Connaughton & Coltheart 2014; Darby et al. 2017; Pick 1903 from page images; Tusques 1939 bibliography. The rest at abstract or metadata level)
+- **Verdict**: `recommended_action: fold` into `voids/recognition-void` (343 words incl. 4 references, measured 2,478 -> 2,821 on a scratch copy; passage, quotation ledger and guards in the note's §Recommended Fold). Topics article declined (topics 368/370 with one slot already claimed by the pending dynamical-relevance expand). `fold` mints nothing: the refine-draft must be hand-minted.
+- **Key findings**: the family does not share Capgras's affective Factor 1 (Breen et al. 2000; the 2010 Table 1; Pick 1903 p. 267 rejected his own familiarity account of reduplicative paramnesia). A Capgras/Frégoli hypo/hyper-familiarity pairing is not a double dissociation on the record (no Frégoli autonomic data; Capgras-Frégoli co-occurrence, Langdon et al. 2014; shared lesion connectivity, Darby et al. 2017). "Familiarity" names at least three measures (autonomic, task/fMRI, felt).
+
 ## 2026-10-31T00:09:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/grain-mismatch]]
