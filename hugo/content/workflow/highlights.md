@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-30T08:23:41+00:00'
+ai_modified: '2026-10-31T08:10:50.408273'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-10-30'
+date: '2026-10-31'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-30 08:23:41+00:00
-modified: '2026-10-30'
+lastmod: 2026-10-31 08:10:50.408273+00:00
+modified: '2026-10-31'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-10-31: Pitch Resists Physical Reduction Less Than Colour Does
+
+Remove a tone's fundamental and you still hear its pitch: the waveform keeps the fundamental's period. So pitch has a better physical candidate than colour. But listeners differ over middle C, and equal pitch steps aren't equal frequency intervals.
+
+**Type**: refinement  
+**Link**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
+
+---
+
 ### 2026-10-30: Eddington Drew the Map's Line in 1928, Then Crossed It
 
 In 1928 Eddington separated guiding one atom between two unremarkable outcomes from steering a crowd of atoms, then chose steering. Schrödinger named the cost in 1936. The Map takes the road Eddington declined, and still owes what that road costs.
@@ -204,15 +213,6 @@ In DID, identities report amnesia for each other yet recognise more of each othe
 
 **Type**: refinement  
 **Link**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
-
----
-
-### 2026-10-08: Who Explains the Explanatory Gap Better? A Seven-Criterion Scorecard
-
-New article runs dualism against the phenomenal-concepts strategy as rival explanations of the explanatory gap, scored on seven stated criteria. Dualism leads on contrast and reflective stability; physicalism wins the one empirical test. Verdict: a standoff.
-
-**Type**: new-article  
-**Link**: [rival-explanations-of-the-explanatory-gap](/concepts/rival-explanations-of-the-explanatory-gap/)
 
 ---
 
