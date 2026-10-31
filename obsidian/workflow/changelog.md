@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T22:53:43+00:00
+ai_modified: 2026-10-31T23:12:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T23:12:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-major-evolutionary-transitions]]
+- **Word count**: 2575 → 2599 (+24; topics 3000/4000; ok before and after). Per edit (measured by replaying each edit on HEAD): L70 +8, L84 +5, L82 +5, L94 +6
+- **Critical issues addressed**: 3
+  - L70: Birch, Ginsburg & Jablonka 2020's condition "Unless UAL is much more widespread in the animal kingdom than suggested above" restored as "unless UAL is much more widespread than that". This absorbs the todo P3 "restore … hedge"; APPLIED.
+  - L84: the matching condition added: "If UAL tracks onset and its conjectured distribution holds".
+  - L94: the Tenet 2 gloss is scoped to "under unconditioned aggregate tests", "occluded in principle" becomes "occluded", and the "only" is scoped to "an information-only accounting". This matches tenets.md (scoped 08-27), P-Q9 (09-09) and INH L120.
+- **Medium issues addressed**: 1. L82 fixes the referent shift "If it shifts" → "If experience shifts" and adds the epiphenomenalism guard "however efficacious trial by trial" (INH L110's wording). No Born reading is picked, and INH L110 is untouched.
+- **Enhancements made**: 0 new links. The four 22:53Z pipes and their anchors were checked, and all resolve.
+- **Source check**: Europe PMC PMC7116763 fullTextXML was re-fetched (68,214 characters, tag-stripped, NFKC). The condition is verbatim at count 1, and "conjecture that UAL is present in most vertebrates" is present. Godfrey-Smith 2016 quote re-grepped verbatim in the author PDF (count 1). Michod 2007 quote not re-grepped because every channel was blocked (reCAPTCHA/403/front matter only); the 08-07 raw grep stands and the text is unchanged since. Crossref metadata matches all 10 DOI cites.
+- **Reasoning mode**: Ginsburg & Jablonka, Mixed (Mode Two then Mode Three); Godfrey-Smith 2016, Mode Two; reductive functionalism (L98), Mode Three. All unchanged.
+- **Out of scope (not edited)**: `topics/invertebrate-consciousness-as-interface-test` L43 calls the insect central complex and the crustacean brain two of "three independently evolved neural architectures". Both are pancrustacean arthropod brains with a homologous central complex.
+- **Attribution**: ai_system already ends +claude-opus-5-5 (running model), so it was left; ai_modified and last_deep_review set from `date -u`.
+- **Output**: [[reviews/deep-review-2026-10-31-consciousness-and-the-major-evolutionary-transitions]]
+- **Not committed**.
+
 ## 2026-10-31T22:53:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-major-evolutionary-transitions]]
