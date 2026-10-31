@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T21:55:28+00:00
+ai_modified: 2026-10-31T22:38:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T22:38:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-evolution-and-biology]]
+- **Original score**: n/a (targeted calibration; `scripts/curate.py` absent)
+- **Review file**: reviews/optimistic-2026-10-31-onset-and-floor-wing.md (Ranked Priority List item 1, (a)–(h))
+- **Word count** (analyze_length, gate >=): 2882 → 2950 (+68; topics 3000/4000; ok before and after). Per edit: (a) +15, (b) +25, (c) +6, (d) +9, (e) +7, (f) +6, (g) 0, (h) 0. These match the review.
+- **Changes**: every OLD string was counted once against the live file before editing. (a) L77: "selection *can* reach the difference consciousness makes" gains the selectability proviso ("provided that difference shifts how often outcomes occur in some fitness-relevant situation"), with the page's only link to inheritance-problem-for-the-psychophysical-law#the-selectability-constraint. (b) L77, last sentence: "Where that proviso holds", the puzzle bites against function-exhausts-fitness materialism; under the strictest reading of the Born-preservation commitment the proviso fails and the puzzle returns for the interactionist too. The clause keeps both branches conditional and picks no reading (P-Q2 stays the human decision). It says evolution cannot see the selector, not that the selector is idle. (c) L79: the dualist case is now "causally efficacious in a way selection can register". (d) L101: "—and the bias shifts how often fitness-relevant outcomes occur, then it is genuinely adaptive". (e) L143, first sentence only: "and the influence meets the selectability constraint". This is plain text, because the driver capped the constraint link at one per page; it was linked in the review's draft. (f) L125: "On the Map's provisional coupling preference, brains didn't produce consciousness", piped to evolution-under-dualism#generation-the-alternative-the-interface-models-set-aside. The driver corrected the review's `#generation`, which does not exist. This closes the untasked 09-27 CEB L126 coupling finding. (g) L91: zero-word pipe to consciousness-and-the-major-evolutionary-transitions#individuality-and-the-units-of-selection. (h) L107: zero-word pipe to is-conscious-being-a-natural-kind.
+- **Guards held**: L141, L143's later sentences, L145 ("consistency is not confirmation") and L147 are unchanged (L145–L147 hash identical to HEAD). inheritance-problem-for-the-psychophysical-law L110 is not touched. No "This is not X. It is Y."; no "load-bearing". Pronoun check: "that proviso" (b) has a single referent, and "it" (L79, L101), "they" (L125) and "This tenet" (L143) are unchanged in reference.
+- **Reasoning mode**: no named-opponent engagement was edited. The materialist and epiphenomenalist framings at L73–L79 stand as they were.
+- **Coordination**: the open W2 P3 (evolution-of-consciousness family) lists CEB L141/L143 as optional loci. Whichever runs second should re-grep L143: its first sentence changed here, and its later sentences did not.
+- **Attribution**: ai_system had claude-opus-5-5 absent, so it was appended; ai_modified set from `date -u`.
+- **Published**: yes
+- **Not committed**.
+
 ## 2026-10-31T21:55:28+00:00 - optimistic-review
 - **Status**: Success (reports-only; no content file, todo line or state file modified)
 - **Content reviewed**: the onset-and-floor wing, five topics pages on where consciousness begins in evolution and how low it reaches: consciousness-and-the-major-evolutionary-transitions (2,492), inheritance-problem-for-the-psychophysical-law (3,408), single-cell-proto-agency-and-the-evidence-problem (3,076), neuron-less-animals-sponges-placozoans-and-the-lower-bound-of-cognition (2,987), consciousness-evolution-and-biology (2,882). Lengths from analyze_length at HEAD 318ec5a749.
