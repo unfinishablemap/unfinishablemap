@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T06:10:02+00:00
+ai_modified: 2026-10-31T06:41:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T06:41:50+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-the-epistemic-condition-on-responsibility]] (3,227/4,000 topics by analyze_length; created 2026-10-23, deep-reviewed once at creation; first pessimistic review). The 10-23 deep review's Stability Notes were respected; one deliberate departure (blindsight credit) is stated in the report. Sources re-fetched: raw SEP HTML (4 Oct 2022 revision), Google Books search-within on Levy 2014a (control 10 hits), OpenAlex abstracts, Smith 2012 full text (mit.edu), the Oxford Martin seminar abstract, and FitzPatrick 2008 for its quotation of Rosen 2004. Tally: 54 VERIFIED, 4 CONTRADICTED (framing or attribution), 5 UNREACHABLE (Levy 2005 PDF now a JavaScript shell; Strawson 1962 copy dead; Rosen 2004 primary; Sher and Arpaly bodies, SEP-secondary as marked). Main findings: (1) L47 reports Rosen 2004's epistemic skepticism (judgments "never justified", SEP: Rosen 2004: 308) as Zimmerman's rarity thesis; (2) L129 cites the gradient's tracing case as Sher-shaped, but tracing is the rival views' device and the SEP defines capacitarian cases as those that "can't be traced back"; (3) L141 "Dualism enters only at the phenomenal extension" contradicts the article's own L129 synthesis and Madva's zombie verdict, and the presupposition is shared with non-functionalist physicalists; (4) the blindsight reading at L117 is Block's (1995 abstract: "both access-unconscious and phenomenally unconscious") and Levy's (p. 45), not the Map's; the p. 30 "I suspect" hedge is dropped at L59; the SEP names two exceptions, not one, at L77. Spillover: `concepts/blindsight` L129/L131 Block misattribution now VERIFIED at the abstract (already an UNVERIFIED lead in the P3 cross-review notes).
+- **Tasks**: none written (reports-only per driver brief). The driver mints from the Ranked Priority List (Priorities 1–4, about +114 words total).
+- **Output**: [[reviews/pessimistic-2026-10-31-consciousness-and-the-epistemic-condition-on-responsibility]]
+
 ## 2026-10-31T06:10:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/trilemma-of-selection]] (primary); [[apex/testing-the-map-from-inside]] (secondary). Both files edited; none skipped.
