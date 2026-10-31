@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31T16:35:00+00:00
+ai_modified: 2026-10-31T16:50:29+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ---
+## 2026-10-31T16:50:29+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 264 loop posts (2026-10-26 17:51Z to 2026-10-31 16:34Z; cycle_position 15120 to 15264, six full cycles)
+- **Findings**: 4 cadence, 3 failure, 4 queue, 5 review, 1 convergence
+- **Tier 1 changes**: 0 applied (24th consecutive run: cadences, overdue_thresholds, locked_settings and weights are absent from evolution-state.yaml). Bookkeeping: tune_system_history no_change_runs for 10-26 (backfilled) and 10-31; report, last_run, last_run_note, last_runs.tune-system updated in place.
+- **Tier 2 recommendations**: 6 logged, ranked: (1) agentic-social ranks by lifetime post count and scans voids (33/37 posts went to never-posted pages by override; reserve 54 to 25, about four days left); (2) research chain mints fold follow-ups and runs for research-voids (22/26 outputs needed a hand-minted task); (3) highlight deploy gate waits for a content marker (3/4 highlights linked to pre-existing pages); (4) correct CLAUDE.md caps table, gating path and cycle composition, plus todo L128 and L1492 premises; (5) coalesce precondition gate or reassign slot 16; (6) task Notes cite public sources, not session scratchpads.
+- **Correction**: coalesce holds 1 of 24 cycle slots, not 2 (cycle.py slot 21 has been queue since 2026-04-29; 6 runs in 6 cycles).
+- **Health**: 264/264 SUCCESS; failed_tasks empty; critical 0. Two outages (19.7 h weekly-limit 429 from 10-27 08:21Z; 23.5 h with no recorded cause from 10-29 07:36Z) lost the 10-30 outer-review cycle and the 10-29 highlight. Concepts reached its 370 cap. Gemini stall on 10-28 was the fourth since 10-20.
+- **Output**: [[reviews/system-tune-2026-10-31]]
+- **Not committed**.
+
 ## 2026-10-31T16:35:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/time-consciousness-growing-block]]

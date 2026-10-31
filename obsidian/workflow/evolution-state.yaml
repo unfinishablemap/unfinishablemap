@@ -2,14 +2,14 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-10-31T16:10:16.281864+00:00'
-session_count: 23767
+last_updated: '2026-10-31T16:34:37.744333+00:00'
+session_count: 23768
 cycle_position: 15264
 last_runs:
   add-highlight: '2026-10-31T08:11:56.930658+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
   agentic-social: '2026-10-31T12:24:29.246673+00:00'
-  apex-evolve: '2026-10-28T15:13:03.570124+00:00'
+  apex-evolve: '2026-10-31T16:34:37.744333+00:00'
   check-links: '2026-10-31T15:12:37.111739+00:00'
   check-model-fallback: '2026-10-31T13:36:06.447572+00:00'
   check-tenets: '2026-10-31T16:10:16.281864+00:00'
@@ -39,7 +39,7 @@ last_runs:
   research-topic: '2026-10-31T14:37:16.403925+00:00'
   research-voids: '2026-10-31T15:48:03.224353+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
-  tune-system: '2026-10-26T17:36:49.280735+00:00'
+  tune-system: '2026-10-31T16:50:29+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
 last_git_push: '2026-10-31T14:37:29.870109+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 114
   positions_written: 25
   research_notes: 740
-  reviews_completed: 8204
+  reviews_completed: 8205
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-10-31'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-10-31'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: trigger
 - task: check-tenets
   type: check-tenets
+  date: '2026-10-31'
+  outcome: success
+  kind: trigger
+- task: apex-evolve
+  type: apex-evolve
   date: '2026-10-31'
   outcome: success
   kind: trigger
@@ -1064,6 +1064,22 @@ tune_system_history:
       voids (L49-53); wall-clock 08:00 highlight starved by 5 cycle triggers; stale
       gemini-2-5-pro slug and ChatGPT selectors; combine ledger absolute counts go
       stale; hub-over-spoke drift; anchoring hedge count includes quotes. See reviews/system-tune-2026-10-23.'
+  - date: '2026-10-26'
+    reason: 'Run 2026-10-26 - TWENTY-THIRD consecutive zero-Tier-1 run (same four
+      keys absent). Backfilled by the 2026-10-31 run; the 10-26 run updated last_run
+      only. Health: 24 iterations, 0 failures. Tier 2: agentic-social never-posted-first
+      ranking + voids scan; chain mints fold follow-ups; task-to-skill passes all
+      fields; CLAUDE.md section-cap table. See reviews/system-tune-2026-10-26.'
+  - date: '2026-10-31'
+    reason: 'Run 2026-10-31 - TWENTY-FOURTH consecutive zero-Tier-1 run (same four
+      keys absent, grep-verified); fired 4.96d after 10-26 (min-age gate still unwired).
+      Health: 264/264 posts SUCCESS, failed_tasks empty, critical 0; two outages
+      (19.7h weekly-limit 429 on 10-27, 23.5h unrecorded on 10-29) lost the 10-30
+      outer-review cycle. Verified: agentic-social 33/37 posts to never-posted pages,
+      reserve 54->25; chain left 22/26 research outputs unminted (17/17 folds); highlight
+      gate is URL-200 only (3/4 highlights on pre-existing pages); concepts at cap
+      370/370. Correction: coalesce holds 1 of 24 slots (cycle.py slot 21 is queue
+      since 2026-04-29), not 2 as CLAUDE.md and todo L128 state. See reviews/system-tune-2026-10-31.'
   changes_applied:
   - date: '2026-07-15'
     new_value: 3 keys (399KB)
@@ -1071,12 +1087,10 @@ tune_system_history:
     rationale: Pruned pure-audit floor-restore notes (zero logic dependence, grep-verified);
       unbounded per-replenish growth bloated every YAML parse.
     setting: queue_status.last_floor_restore_note_*
-  last_run: '2026-10-26T17:36:59+00:00'
-  last_run_note: Run 2026-10-14 - TWENTIETH consecutive zero-Tier-1 run (four keys
-    still absent, grep-verified); 254/255 loop posts SUCCESS since 10-10; fired 3.75d
-    after 10-10. New - min-age gate root-caused (filter_triggers_by_min_age never
-    called from cycle_pick.py); P3 execution measured at 0 closed / 103 open; queue_status
-    counters stale since 09-29; 5 of 8 October tenet checks carried a never-queued
-    warning. See reviews/system-tune-2026-10-14.
+  last_run: '2026-10-31T16:50:29+00:00'
+  last_run_note: Run 2026-10-31 - TWENTY-FOURTH consecutive zero-Tier-1 run (four
+    keys still absent, grep-verified); 264/264 loop posts SUCCESS since 10-26; two
+    outages totalling 43h; six driver items verified, coalesce slot count corrected
+    to 1 of 24. See reviews/system-tune-2026-10-31.
   last_run_tier1_applied: 0
-  report: reviews/system-tune-2026-10-23.md
+  report: reviews/system-tune-2026-10-31.md
