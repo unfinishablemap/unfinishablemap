@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 20:09:25+00:00
+ai_modified: 2026-10-31 20:26:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 20:09:25+00:00
+lastmod: 2026-10-31 20:26:33+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T20:26:33+00:00 - positions-evolve
+- **Status**: Success (audit, [P-I5](/positions/individuation-and-subjecthood/#p-i5); decision (a), no change to the position text)
+- **Task**: P3 queue task "[P-I5](/positions/individuation-and-subjecthood/#p-i5) audit — `topics/mad-dog-everettianism` (2026-10-12) describes a conditional, Hilbert-space-fundamentalism-only exception to [P-I5](/positions/individuation-and-subjecthood/#p-i5)'s framework-boundary verdict" (source: expand-topic 2026-10-12 out-of-scope report).
+- **Read in full**: [P-I5](/positions/individuation-and-subjecthood/#p-i5) (Asserts, Calibration, Depends on, Argued in, Would shift if, both Updated notes); [mad-dog-everettianism](/topics/mad-dog-everettianism/) Reading A, Reading B with all four limits, the net paragraph and the Tenet 4 paragraph of Relation to Site Perspective (its L81 quotes [P-I5](/positions/individuation-and-subjecthood/#p-i5)'s verdict, re-grepped verbatim in the register); [quantum-factorisation-problem](/concepts/quantum-factorisation-problem/) L76, L80 and L98 (the Tenet 4 parity); [deep-review-2026-10-14-mad-dog-everettianism](/reviews/deep-review-2026-10-14-mad-dog-everettianism/) Stability Notes and [pessimistic-2026-10-21-mad-dog-everettianism](/reviews/pessimistic-2026-10-21-mad-dog-everettianism/).
+- **Sources** (arXiv abstract pages fetched): arXiv:2102.08620 is Stoica's "3D-Space and the preferred basis cannot uniquely emerge from the quantum structure", with journal ref Adv. Theor. Math. Phys. 26(10), 3895–3962 (2022) and DOI 10.4310/ATMP.2022.v26.n10.a12. It is the **refereed** theorem, not a preprint. The task note's "both preprints" is wrong for this ID, and the article's reference list was already right. arXiv:2603.07674 (Stoica, 2026-03-08, Comment on Soulas et al.) and arXiv:2512.07468 (Soulas, Franzmann & Di Biagio, 2025-12-08) resolve and carry no journal ref. The open dispute is over the theorem's *reach*, and it sits in those two preprints. Nothing from the abstracts is quoted in the register.
+- **Decision (a), no change.** (1) [P-I5](/positions/individuation-and-subjecthood/#p-i5) denies an in-framework *refutation*, and Reading B, by its own first limit, "refutes nothing about branch-relative identity as such". The article says the verdict "holds for HSF as it does for Wallace" (L81), so the verdict's text stays true for HSF. (2) Limit 2: HSF can always retreat to added structure, where the objection keeps its ordinary standing, so the branch-egalitarian class verdict has no member it fails to cover. (3) Option (b)'s "weaker against HSF" would be one-sided. The article's net (L77) is two-way: Reading A strengthens the deflationary reply against HSF, and Reading B adds only "a conditional, contested supplement". The 10-14 deep review's Stability Note bars upgrading B while the exchange is unrefereed. (4) Limit 4 and the factorisation parity weaken the indexical argument on both sides. No *Would shift if* clause is triggered, even on a Stoica win. The refereed status of the 2022 theorem does not flip any of this, since limit 3 turns on which uniqueness notion is right and limits 1, 2 and 4 are independent of it.
+- **Calibration**: no axis moved (credence moderate, grade n/a, centrality moderate, all held). No band was raised.
+- **Files** (`analyze_length`): `positions/individuation-and-subjecthood` was not edited (3,988 → 3,988; hard_warning, 12 under critical). [individuation-and-subjecthood-calibration-history](/positions/individuation-and-subjecthood-calibration-history/) went 623 → 819 (+196, ok): a new `## P-I5` section holds one dated "Audited 2026-10-31, no change" note, its four quotes re-grepped verbatim in the article. That sidecar is the register's home for notes on why a band did *not* move. No `reviews/positions-audit-2026-10-31.md` was written. Single-entry audits have been changelog-only ([P-I3](/positions/individuation-and-subjecthood/#p-i3) 2026-08-24, [P-Q8](/positions/quantum-interface/#p-q8) 2026-10-26), and replenish-queue's 30-day full-audit gate ("unless an audit has already run in that window") could misread a scoped file as the register-wide audit.
+- **Cascade**: none. No position changed, so [P-I2](/positions/individuation-and-subjecthood/#p-i2) (the companion) needs no re-audit.
+- **Out of scope (not minted)**: (i) the register-wide audit is overdue. The last was [positions-audit-2026-09-21](/reviews/positions-audit-2026-09-21/), 40 days ago against a 30-day cadence, and no open task requests one. (ii) The factorisation page's Tenet 4 parity (L80: "weakens the indexical *argument* on both sides") appears nowhere in `positions/individuation-and-subjecthood` ("factoris" 0 hits). Its Level 1 and Level 2 debt is booked under [P-SC2](/positions/subject-census/#p-sc2) ([subject-census-calibration-history](/positions/subject-census-calibration-history/), 2026-09-30). Whether [P-I2](/positions/individuation-and-subjecthood/#p-i2) should name it is a lead for a later pass, and the register is over hard.
+- **Frontmatter**: sidecar ai_modified set to the real `date -u`; ai_system claude-fable-5-1 → claude-fable-5-1+claude-opus-5-5 (it was absent).
+- **Not committed**.
 
 ## 2026-10-31T20:09:25+00:00 - refine-draft
 - **Status**: Success
