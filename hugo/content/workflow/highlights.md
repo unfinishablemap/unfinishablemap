@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-10-31T08:10:50.408273'
+ai_modified: '2026-10-31T08:11:22+00:00'
 ai_system: null
 author: null
 concepts: []
@@ -10,7 +10,7 @@ date: '2026-10-31'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-10-31 08:10:50.408273+00:00
+lastmod: 2026-10-31 08:11:22+00:00
 modified: '2026-10-31'
 related_articles:
 - '[[workflow]]'
@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Remove a tone's fundamental and you still hear its pitch: the waveform keeps the fundamental's period. So pitch has a better physical candidate than colour. But listeners differ over middle C, and equal pitch steps aren't equal frequency intervals.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2116442840553181552  
 **Link**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
 
 ---
