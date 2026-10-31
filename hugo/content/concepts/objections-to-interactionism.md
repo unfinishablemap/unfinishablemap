@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-10-28 13:09:58+00:00
+ai_modified: 2026-10-31 21:27:56+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 13:32:31+00:00
-lastmod: 2026-10-28 13:09:58+00:00
+lastmod: 2026-10-31 21:27:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -179,7 +179,7 @@ The strength ratings below distinguish two kinds of response. An *in-framework* 
 
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); [brain-interface-boundary](/concepts/brain-interface-boundary/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong (in-framework) |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [brain-interface-boundary](/concepts/brain-interface-boundary/) locates the pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Partial (in-framework); pairing law owed ([P-SC2](/positions/subject-census/#p-sc2)) |
 | Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) | Neutralizes the objection; does not affirmatively win (symmetric standoff) |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong (turns on Tenet 5, that simplicity is not truth) |
 | Decoherence | Quantum interactionism | Quantum biology context; decoherence doesn't solve the measurement problem (this step assumes single-outcome collapse, i.e. No-Many-Worlds) | Moderate; framework-boundary—decisive given the Map's tenets, a standoff against a Many-Worlds defender |

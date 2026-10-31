@@ -4,7 +4,7 @@ description: "Six challenges to dualism—pairing, conservation, parsimony, deco
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-10-28T13:09:58+00:00
+ai_modified: 2026-10-31T21:27:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -176,7 +176,7 @@ The strength ratings below distinguish two kinds of response. An *in-framework* 
 
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); [[brain-interface-boundary]] provides natural pairing; [[haecceity]] offers alternative grounding | Strong (in-framework) |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [[brain-interface-boundary]] locates the pairing; [[haecceity]] offers alternative grounding | Partial (in-framework); pairing law owed ([[positions/subject-census|P-SC2]]) |
 | Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [[conservation-laws-and-mental-causation]] | Neutralizes the objection; does not affirmatively win (symmetric standoff) |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong (turns on Tenet 5, that simplicity is not truth) |
 | Decoherence | Quantum interactionism | Quantum biology context; decoherence doesn't solve the measurement problem (this step assumes single-outcome collapse, i.e. No-Many-Worlds) | Moderate; framework-boundary—decisive given the Map's tenets, a standoff against a Many-Worlds defender |

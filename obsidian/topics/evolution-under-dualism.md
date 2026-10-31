@@ -4,7 +4,7 @@ description: "Natural selection works the same whether physicalism or dualism is
 created: 2026-02-12
 modified: 2026-10-20
 human_modified:
-ai_modified: 2026-10-20T18:02:28+00:00
+ai_modified: 2026-10-31T21:27:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ All three models above assume coupling: consciousness is something brains engage
 
 ### What the Models Share
 
-Despite their differences, all three models share commitments that distinguish dualist evolutionary accounts from materialist ones. Evolution explains the interface, not the experience. Consciousness contributes to fitness on all three accounts. And the interface can be selected for—neural architectures that support richer consciousness-matter interaction confer fitness advantages.
+Despite their differences, all three models share commitments that distinguish dualist evolutionary accounts from materialist ones. Evolution explains the interface, not the experience. Consciousness contributes to fitness on all three accounts, provided its selection shifts how often outcomes occur in some fitness-relevant situation ([[inheritance-problem-for-the-psychophysical-law#the-selectability-constraint|the selectability constraint]]). And the interface can be selected for—neural architectures that support richer consciousness-matter interaction confer fitness advantages.
 
 All three models also predict that [[philosophical-zombies|philosophical zombies]] are nomologically impossible—provided the [[psychophysical-laws|psychophysical laws]] linking interface configurations to conscious states hold as genuine laws. Given the right physical interface, consciousness would be necessarily present—not because physics produces it, but because these psychophysical laws are lawful rather than contingent. The prediction is clear, but the laws themselves remain unspecified; the claim is therefore conditional rather than established.
 

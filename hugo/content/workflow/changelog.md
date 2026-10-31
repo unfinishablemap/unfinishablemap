@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-10-31 21:06:43+00:00
+ai_modified: 2026-10-31 21:27:56+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 concepts: []
 date: '2026-10-31'
-lastmod: 2026-10-31 21:06:43+00:00
+lastmod: 2026-10-31 21:27:56+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-10-31T21:27:56+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pairing-problem](/concepts/pairing-problem/) (primary); [evolution-under-dualism](/topics/evolution-under-dualism/) (secondary); [objections-to-interactionism](/concepts/objections-to-interactionism/) (optional third, table row only)
+- **Original score**: n/a (targeted calibration; `scripts/curate.py` absent)
+- **Review file**: reviews/pessimistic-2026-10-27-pairing-problem.md (Priority 1 and 2); convergent with outer-review-2026-10-28-chatgpt-5-6-sol-pro §5.3
+- **Word count** (analyze_length, gate >=): pairing-problem 3298 → 3295 (−3; concepts 2500/3500); evolution-under-dualism 3785 → 3800 (+15; topics 3000/4000); objections-to-interactionism 3125 → 3129 (+4; concepts 2500/3500)
+- **Changes (pairing-problem)**: developmental co-construction is now a candidate account constrained by the register, not an answer. [P-SC2](/positions/subject-census/#p-sc2) (no pairing law) and [P-SC3](/positions/subject-census/#p-sc3) (onset undated) are cited as canonical. The lede now says "constrains a candidate response", with the pairing law owed ([P-SC2](/positions/subject-census/#p-sc2)). L69 "This dissolves" → "Location promises to dissolve" (L61 option text matched). L75: history is "the route to an adequate, paired interface and the evidence for one, not what constitutes the pairing" ([P-CS7](/positions/consciousness-scope/#p-cs7), matching brain-interface-boundary L72/L84). The grounding-interaction-in-interaction circle is named, along with how Bailey, Rasmussen & Van Horn avoid it by splitting the question; co-construction bears only on the diachronic half. "Two consciousnesses couldn't occupy the same brain" is dropped ([P-SC2](/positions/subject-census/#p-sc2)/[P-I3](/positions/individuation-and-subjecthood/#p-i3) leave one versus several open). L83 (10-28 sentence, BRVH attribution untouched): "pairs by interaction history" → "builds specificity through interaction history". L111 "provides a natural response" → "constrains a candidate response". L117 item 1 "dissolving the pairing problem directly" → "addresses the synchronic question of what makes interaction possible". Item 2: the interface manifests the pairing but cannot ground it without the circle, and the same subject returns after anaesthesia ([P-SC3](/positions/subject-census/#p-sc3)), so pairing is standing. Relation to Site Perspective: "The pairing's *specificity* is built; its ground is owed ([P-SC2](/positions/subject-census/#p-sc2))". Paid for by cutting the redundant "thus addresses both..." summary, "The mind is paired with the body it occupies", the duplicate decoherence sentences (this also fixes the review's Priority 4a: "coherent or classical" → "whether coherence persists or consciousness selects among decohered outcomes") and one navigation sentence.
+- **Changes (evolution-under-dualism)**: L109 "Consciousness contributes to fitness on all three accounts" now carries the L137 condition in a clause: "provided its selection shifts how often outcomes occur in some fitness-relevant situation", linked to inheritance-problem-for-the-psychophysical-law#the-selectability-constraint. L93/L137 untouched.
+- **Changes (objections-to-interactionism)**: L179 table row: "provides natural pairing" → "locates the pairing"; Strength "Strong (in-framework)" → "Partial (in-framework); pairing law owed ([P-SC2](/positions/subject-census/#p-sc2))".
+- **Reasoning mode**: engagement with Kim: mixed. Response 1's location move uses a reply available in Kim's own framework (he grants that located souls are spatially paired and answers with co-location). The residue, the pairing law, is now marked honestly as owed rather than dissolved.
+- **Left undone**: objections-to-interactionism L51 ("This dissolves the pairing problem"; souls "individuated by their causal histories"), L59 ("provides a natural answer ... The pairing is built into the mechanism") and L196 are the same defect but outside this pass's scope. pairing-problem L73 essential-connection horn (review Issue 5), L121 field analogy (Priority 4b) and L163 neutrality sentence (Priority 1 tail) are not edited.
+- **Published**: yes
 
 ## 2026-10-31T21:06:43+00:00 - refine-draft
 - **Status**: Success (metadata only)
