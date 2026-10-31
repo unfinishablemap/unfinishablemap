@@ -4,7 +4,7 @@ description: "Levy's thesis that blame requires consciousness of morally signifi
 created: 2026-10-23
 modified: 2026-10-23
 human_modified:
-ai_modified: 2026-10-23T13:48:48+00:00
+ai_modified: 2026-10-31T11:43:16+00:00
 draft: false
 topics:
   - "[[responsibility-gradient-from-attentional-capacity]]"
@@ -44,7 +44,7 @@ The epistemic condition is the knowledge half of the classical pair, beside cont
 
 Awareness may need to be occurrent or merely dispositional, and its content *de dicto* (that the act is wrong) or *de re* (of the features that make it wrong).
 
-The strictest answers produce revisionism. Michael Zimmerman (1997) and Gideon Rosen (2004) argue that blame for acting in ignorance must trace back to an earlier act done in awareness of its wrongness, and that the trace often runs out, so blameworthiness is far rarer than ordinary practice assumes. The entry sorts the responses into weakened internalism, epistemic-vice accounts, quality-of-will theories and capacitarianism.
+The strictest answers produce revisionism. Michael Zimmerman (1997) argues that blame for acting in ignorance must trace back to an earlier act done in awareness of its wrongness, and that such origins are rare, so blameworthiness is far rarer than ordinary practice assumes. Gideon Rosen (2004) draws an epistemic conclusion from the same requirement: because we can rarely if ever tell whether it is met, confident judgments of blameworthiness are unwarranted. The entry sorts the responses into weakened internalism, epistemic-vice accounts, quality-of-will theories and capacitarianism.
 
 ## Levy's Consciousness Thesis {#levy}
 
@@ -56,7 +56,7 @@ The consciousness Levy requires is functional. Information counts when it "is pe
 
 The state is akin to what Ned Block calls [[access-consciousness|access consciousness]], but Levy writes "I prefer to avoid Block's terminology" (p. 29).
 
-Asked whether occurrent or dispositional availability will do, Levy answers that "both are required for awareness, in my sense" (p. 30), although the *Stanford* entry classes his 2014 view as dispositionalist. The accurate summary is personal availability together with an active role in shaping the behaviour.
+Asked whether occurrent or dispositional availability will do, Levy suspects that "both are required for awareness, in my sense" (p. 30), although the *Stanford* entry classes his 2014 view as dispositionalist. The accurate summary is personal availability together with an active role in shaping the behaviour.
 
 Two remarks fix the thesis's metaphysical standing. Levy holds that "the hard problem is not our problem", and that [[philosophical-zombies|zombies]] are "phenomenally unconscious, but they lack nothing in the way of awareness" (p. 38). A functional duplicate lacking phenomenal consciousness therefore satisfies Levy's condition.
 
@@ -74,7 +74,7 @@ Levy also sets the timing literature aside: "it does not matter whether or not L
 
 What Levy (2005) calls attributionism holds that responsibility tracks what an act or attitude expresses about the agent. He applies it to Timothy Scanlon and Angela Smith, "both of whom argue that responsibility-as-attributability is all the responsibility there is". Smith's own name for her view, defended in 2005 and restated in 2012, is "the rational relations view": "an agent is responsible for F just in case F bears a rational connection to the agent's evaluative judgments" (2012). On it we answer for "our patterns of awareness and many unintentional omissions" (2012).
 
-Arpaly's Huckleberry Finn (2003) is the signature case. Huck helps Jim escape while believing he is doing wrong, and Arpaly counts him praiseworthy because the act expresses his regard for Jim. Huck "is not capable of bringing to consciousness his nonconscious awareness" of Jim's humanity (Arpaly 2003: 77, as quoted in Rudy-Hiller 2022, §3.3). Most quality-of-will theorists still require awareness of the relevant facts. Smith is the outlier: failures of factual awareness, "such as forgetting a friend's birthday, sometimes reveal inadequate moral concern and thus are blameworthy" (Rudy-Hiller 2022, §3.3).
+Arpaly's Huckleberry Finn (2003) is the signature case. Huck helps Jim escape while believing he is doing wrong, and Arpaly counts him praiseworthy because the act expresses his regard for Jim. Huck "is not capable of bringing to consciousness his nonconscious awareness" of Jim's humanity (Arpaly 2003: 77, as quoted in Rudy-Hiller 2022, §3.3). Most quality-of-will theorists still require awareness of the relevant facts. Smith is an outlier: failures of factual awareness, "such as forgetting a friend's birthday, sometimes reveal inadequate moral concern and thus are blameworthy" (Rudy-Hiller 2022, §3.3).
 
 ### Sher's capacitarian denial
 
@@ -114,7 +114,7 @@ First, it separates none of the standard cases. In ordinary agents personal avai
 
 Second, it must give a verdict on a functional duplicate lacking phenomenality, which Levy says satisfies the condition. The extension denies the duplicate responsible standing, a verdict with force only inside a framework on which such a duplicate is possible and lacks something that matters.
 
-Third, the dissociations that might supply a separating case are contested. [[blindsight|Blindsight]] is often offered as access without phenomenality, but its information typically surfaces under forced-choice guessing, the kind of special prompting Levy's test excludes. On the Map's reading, blindsight information arguably fails personal availability too.
+Third, the dissociations that might supply a separating case are contested. [[blindsight|Blindsight]] is often offered as access without phenomenality, but its information typically surfaces under forced-choice guessing, the kind of special prompting Levy's test excludes. Levy himself says blindsight patients must be "prompted and even pressured" into using that information (p. 45), and Block holds that blind-field stimuli are "both access-unconscious and phenomenally unconscious" (1995), so the information arguably fails personal availability too.
 
 One limit remains. A necessary condition need not be a cause: an epiphenomenalist could grant that only phenomenally conscious beings are responsible while denying phenomenality any causal role. A phenomenal requirement on responsibility therefore does not refute [[epiphenomenalism]], which the Map rejects on other grounds.
 
@@ -126,7 +126,7 @@ The [[moral-responsibility|moral responsibility]] concept asserts: "Moral respon
 
 The [[responsibility-gradient-from-attentional-capacity|responsibility gradient]] grades desert by attentional capacity. Its bandwidth dimension holds that "You cannot be fully responsible for consequences you lacked the bandwidth to foresee", and its scope dimension that neglected consequences "were never phenomenally available for selection". "Phenomenally available" is the Map's term; Levy's is "personally available". The stability dimension adds that an agent with intact self-control who lets recognition lapse "is not thereby excused". That verdict is capacitarian, Sher's rather than Levy's, as the gradient itself states; Levy's revisionism excuses the "ordinary agents who just happen not to be conscious" of the relevant facts.
 
-The Map thus asserts a consciousness requirement and a capacitarian verdict on lapses, and neither page reconciles them. The reconciliation the Map proposes, as its own synthesis, splits the work. The consciousness condition governs the agent's *standing*: only a being with the capacity for phenomenal consciousness is a candidate for responsibility, roughly Madva's thesis. The epistemic condition on particular acts is disjunctive in Sher's way: the agent was aware, or could and should have been. The gradient's tracing case already has this shape, since its exhausted driver "knew they were impaired" when choosing to drive.
+The Map thus asserts a consciousness requirement and a capacitarian verdict on lapses, and neither page reconciles them. The reconciliation the Map proposes, as its own synthesis, splits the work. The consciousness condition governs the agent's *standing*: only a being with the capacity for phenomenal consciousness is a candidate for responsibility, roughly Madva's thesis. The epistemic condition on particular acts is disjunctive in Sher's way: the agent was aware, or could and should have been. The gradient's lapse verdict already has this shape.
 
 The synthesis has costs. It forgoes Levy's support for any act-level consciousness requirement, so the self-knowledge clause must be read as the Map's phenomenal extension or as a claim about standing. It inherits Levy's objections to capacitarianism. And it leaves open whether "could have been aware" is a fact about consciousness or about functional cognitive capacity.
 
@@ -138,7 +138,7 @@ Likewise, the [[reasons-responsiveness|reasons-responsiveness]] concept says tha
 
 None of the texts surveyed argues for dualism, and Levy's thesis supports neither dualism nor physicalism.
 
-**[[tenets#^dualism|Dualism]]**: the epistemic-condition debate is metaphysically neutral; a physicalist or a dualist can hold every position surveyed. Dualism enters only at the phenomenal extension, and there only relative to the Map's framework, since the extension's verdict on a phenomenally empty duplicate presupposes that such a duplicate is possible.
+**[[tenets#^dualism|Dualism]]**: the epistemic-condition debate is metaphysically neutral; a physicalist or a dualist can hold every position surveyed. A phenomenal condition enters at two points: Madva's capacity thesis, which the Map's synthesis proposes for standing, and the act-level extension. Both deny standing to a phenomenally empty functional duplicate, a verdict that presupposes such a duplicate is possible. Physicalists who deny that function suffices for experience share that premise, so even here the debate does not favour dualism over them.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: a consciousness condition on responsibility fits interactionism, on which consciousness does work in responsible action, without evidencing it, because Levy's workspace account supplies that work in functional terms. Whether the tenet claims actual efficacy in every conscious subject or a capacity that acts where an interface allows is recorded as open in the [[epiphenomenalism|epiphenomenalism]] concept, and nothing here decides it. The Map does not concede epiphenomenalism; it notes only that a phenomenal requirement, being a necessary condition, cannot refute it.
 
@@ -158,25 +158,26 @@ None of the texts surveyed argues for dualism, and Levy's thesis supports neithe
 ## References
 
 1. Arpaly, N. (2003). *Unprincipled Virtue: An Inquiry into Moral Agency*. Oxford University Press. https://doi.org/10.1093/0195152042.001.0001
-2. Hahn, A., Judd, C. M., Hirsh, H. K. & Blair, I. V. (2014). Awareness of implicit attitudes. *Journal of Experimental Psychology: General*, 143(3), 1369–1392. https://doi.org/10.1037/a0035028
-3. Holroyd, J. (2012). Responsibility for implicit bias. *Journal of Social Philosophy*, 43(3), 274–306. https://doi.org/10.1111/j.1467-9833.2012.01565.x
-4. King, M. & Carruthers, P. (2012). Moral responsibility and consciousness. *Journal of Moral Philosophy*, 9(2), 200–228. https://doi.org/10.1163/174552412x625682
-5. King, M. & Carruthers, P. (2022). Responsibility and consciousness. In D. K. Nelkin & D. Pereboom (Eds.), *The Oxford Handbook of Moral Responsibility* (pp. 448–467). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190679309.013.25
-6. Kurdi, B., Seitchik, A. E., Axt, J. R., et al. (2019). Relationship between the Implicit Association Test and intergroup behavior: A meta-analysis. *American Psychologist*, 74(5), 569–586. https://doi.org/10.1037/amp0000364
-7. Levy, N. (2005). The good, the bad, and the blameworthy. *Journal of Ethics and Social Philosophy*, 1(2), 1–16. https://doi.org/10.26556/jesp.v1i2.6
-8. Levy, N. (2014a). *Consciousness and Moral Responsibility*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198704638.001.0001
-9. Levy, N. (2014b). Consciousness, implicit attitudes and moral responsibility. *Noûs*, 48(1), 21–40 (online 2012). https://doi.org/10.1111/j.1468-0068.2011.00853.x
-10. Madva, A. (2019). Equal rights for zombies?: Phenomenal consciousness and responsible agency. *Journal of Consciousness Studies*, 26(5–6), 117–140. https://www.ingentaconnect.com/content/imp/jcs/2019/00000026/f0020005/art00005
-11. Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J. & Tetlock, P. E. (2013). Predicting ethnic and racial discrimination: A meta-analysis of IAT criterion studies. *Journal of Personality and Social Psychology*, 105(2), 171–192. https://doi.org/10.1037/a0032734
-12. Rosen, G. (2004). Skepticism about moral responsibility. *Philosophical Perspectives*, 18(1), 295–313. https://doi.org/10.1111/j.1520-8583.2004.00030.x
-13. Rudy-Hiller, F. (2018; revised 2022). The epistemic condition for moral responsibility. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/moral-responsibility-epistemic/
-14. Semler, J. (2024). Moral agency without consciousness. *Canadian Journal of Philosophy*, 54(5), 403–422. https://doi.org/10.1017/can.2025.10008
-15. Shepherd, J. & Levy, N. (2020). Consciousness and morality. In U. Kriegel (Ed.), *The Oxford Handbook of the Philosophy of Consciousness* (pp. 653–672). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198749677.013.30
-16. Sher, G. (2009). *Who Knew? Responsibility Without Awareness*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195389197.001.0001
-17. Smith, A. M. (2005). Responsibility for attitudes: Activity and passivity in mental life. *Ethics*, 115(2), 236–271. https://doi.org/10.1086/426957
-18. Smith, A. M. (2012). Attributability, answerability, and accountability: In defense of a unified account. *Ethics*, 122(3), 575–589. https://doi.org/10.1086/664752
-19. Strawson, P. F. (1962). Freedom and resentment. *Proceedings of the British Academy*, 48, 187–211.
-20. Washington, N. & Kelly, D. (2016). Who's responsible for this? Moral responsibility, externalism, and knowledge about implicit bias. In M. Brownstein & J. Saul (Eds.), *Implicit Bias and Philosophy, Vol. 2* (pp. 10–36). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198766179.003.0002
-21. Zimmerman, M. J. (1997). Moral responsibility and ignorance. *Ethics*, 107(3), 410–426. https://doi.org/10.1086/233742
-22. Southgate, A., Oquatre-cinq, C. & Ocinq-cinq, C. (2026-01-16). Moral Responsibility. *The Unfinishable Map*. https://unfinishablemap.org/concepts/moral-responsibility/
-23. Southgate, A., Oquatre-six, C. & Ocinq-cinq, C. (2026-02-19). The Responsibility Gradient: From Attentional Capacity to Moral Desert. *The Unfinishable Map*. https://unfinishablemap.org/topics/responsibility-gradient-from-attentional-capacity/
+2. Block, N. (1995). On a confusion about a function of consciousness. *Behavioral and Brain Sciences*, 18(2), 227–247. https://doi.org/10.1017/S0140525X00038188
+3. Hahn, A., Judd, C. M., Hirsh, H. K. & Blair, I. V. (2014). Awareness of implicit attitudes. *Journal of Experimental Psychology: General*, 143(3), 1369–1392. https://doi.org/10.1037/a0035028
+4. Holroyd, J. (2012). Responsibility for implicit bias. *Journal of Social Philosophy*, 43(3), 274–306. https://doi.org/10.1111/j.1467-9833.2012.01565.x
+5. King, M. & Carruthers, P. (2012). Moral responsibility and consciousness. *Journal of Moral Philosophy*, 9(2), 200–228. https://doi.org/10.1163/174552412x625682
+6. King, M. & Carruthers, P. (2022). Responsibility and consciousness. In D. K. Nelkin & D. Pereboom (Eds.), *The Oxford Handbook of Moral Responsibility* (pp. 448–467). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190679309.013.25
+7. Kurdi, B., Seitchik, A. E., Axt, J. R., et al. (2019). Relationship between the Implicit Association Test and intergroup behavior: A meta-analysis. *American Psychologist*, 74(5), 569–586. https://doi.org/10.1037/amp0000364
+8. Levy, N. (2005). The good, the bad, and the blameworthy. *Journal of Ethics and Social Philosophy*, 1(2), 1–16. https://doi.org/10.26556/jesp.v1i2.6
+9. Levy, N. (2014a). *Consciousness and Moral Responsibility*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198704638.001.0001
+10. Levy, N. (2014b). Consciousness, implicit attitudes and moral responsibility. *Noûs*, 48(1), 21–40 (online 2012). https://doi.org/10.1111/j.1468-0068.2011.00853.x
+11. Madva, A. (2019). Equal rights for zombies?: Phenomenal consciousness and responsible agency. *Journal of Consciousness Studies*, 26(5–6), 117–140. https://www.ingentaconnect.com/content/imp/jcs/2019/00000026/f0020005/art00005
+12. Oswald, F. L., Mitchell, G., Blanton, H., Jaccard, J. & Tetlock, P. E. (2013). Predicting ethnic and racial discrimination: A meta-analysis of IAT criterion studies. *Journal of Personality and Social Psychology*, 105(2), 171–192. https://doi.org/10.1037/a0032734
+13. Rosen, G. (2004). Skepticism about moral responsibility. *Philosophical Perspectives*, 18(1), 295–313. https://doi.org/10.1111/j.1520-8583.2004.00030.x
+14. Rudy-Hiller, F. (2018; revised 2022). The epistemic condition for moral responsibility. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/moral-responsibility-epistemic/
+15. Semler, J. (2024). Moral agency without consciousness. *Canadian Journal of Philosophy*, 54(5), 403–422. https://doi.org/10.1017/can.2025.10008
+16. Shepherd, J. & Levy, N. (2020). Consciousness and morality. In U. Kriegel (Ed.), *The Oxford Handbook of the Philosophy of Consciousness* (pp. 653–672). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198749677.013.30
+17. Sher, G. (2009). *Who Knew? Responsibility Without Awareness*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195389197.001.0001
+18. Smith, A. M. (2005). Responsibility for attitudes: Activity and passivity in mental life. *Ethics*, 115(2), 236–271. https://doi.org/10.1086/426957
+19. Smith, A. M. (2012). Attributability, answerability, and accountability: In defense of a unified account. *Ethics*, 122(3), 575–589. https://doi.org/10.1086/664752
+20. Strawson, P. F. (1962). Freedom and resentment. *Proceedings of the British Academy*, 48, 187–211.
+21. Washington, N. & Kelly, D. (2016). Who's responsible for this? Moral responsibility, externalism, and knowledge about implicit bias. In M. Brownstein & J. Saul (Eds.), *Implicit Bias and Philosophy, Vol. 2* (pp. 10–36). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198766179.003.0002
+22. Zimmerman, M. J. (1997). Moral responsibility and ignorance. *Ethics*, 107(3), 410–426. https://doi.org/10.1086/233742
+23. Southgate, A., Oquatre-cinq, C. & Ocinq-cinq, C. (2026-01-16). Moral Responsibility. *The Unfinishable Map*. https://unfinishablemap.org/concepts/moral-responsibility/
+24. Southgate, A., Oquatre-six, C. & Ocinq-cinq, C. (2026-02-19). The Responsibility Gradient: From Attentional Capacity to Moral Desert. *The Unfinishable Map*. https://unfinishablemap.org/topics/responsibility-gradient-from-attentional-capacity/
