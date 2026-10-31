@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Schlick, Hobart and Stebbing: the 1930s freedom-as-non-compulsion dissolution as ancestor of the compatibilist symmetry challenge
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-10-28-luck-and-randomness-objection-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-28-luck-and-randomness-objection-wing item 5: topics/first-quantum-free-will-wave-1927-1940 L73 says the Map carries the dissolution objection at concepts/compatibilist-symmetry-challenge, but that page has ZERO hits for hobart|schlick|stebbing, so it cannot cite the earliest statement of its own form (Schlick 1939 p. 150 'a man is free if he does not act under compulsion', raw-verified in the session scratchpad schlick1939_dli.txt / schlick1939_mbp.txt; Hobart 1934 Mind is carrier-only via the Information Philosopher; Stebbing 1937 hocr fragments only). EXPECTED VERDICT: FOLD into concepts/compatibilist-symmetry-challenge (2,492 at 20:05Z, headroom 1,007) as a one-paragraph lineage note with a back-link to first-quantum-free-will-wave-1927-1940#randomness-objection (explicit {#randomness-objection} id exists), raising that page's body inbound count from 3. Concepts AT CAP: fold or none only. Try to reach Hobart 1934 raw (Mind 43(169): 1-27, DOI 10.1093/mind/xliii.169.1) and Stebbing 1937 Philosophy and the Physicists ch. on free will before quoting either. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/schlick-hobart-stebbing-dissolution-lineage-2026-10-28.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'schlick-hobart-stebbing-dissolution-lineage' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-10-28
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -3847,6 +3841,10 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-10-31: Research Schlick, Hobart and Stebbing: the 1930s freedom-as-non-compulsion dissolution as ancestor of the compatibilist symmetry challenge
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-10-28-luck-and-randomness-objection-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-10-28-luck-and-randomness-objection-wing item 5: topics/first-quantum-free-will-wave-1927-1940 L73 says the Map carries the dissolution objection at concepts/compatibilist-symmetry-challenge, but that page has ZERO hits for hobart|schlick|stebbing, so it cannot cite the earliest statement of its own form (Schlick 1939 p. 150 'a man is free if he does not act under compulsion', raw-verified in the session scratchpad schlick1939_dli.txt / schlick1939_mbp.txt; Hobart 1934 Mind is carrier-only via the Information Philosopher; Stebbing 1937 hocr fragments only). EXPECTED VERDICT: FOLD into concepts/compatibilist-symmetry-challenge (2,492 at 20:05Z, headroom 1,007) as a one-paragraph lineage note with a back-link to first-quantum-free-will-wave-1927-1940#randomness-objection (explicit {#randomness-objection} id exists), raising that page's body inbound count from 3. Concepts AT CAP: fold or none only. Try to reach Hobart 1934 raw (Mind 43(169): 1-27, DOI 10.1093/mind/xliii.169.1) and Stebbing 1937 Philosophy and the Physicists ch. on free will before quoting either. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/schlick-hobart-stebbing-dissolution-lineage-2026-10-28.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'schlick-hobart-stebbing-dissolution-lineage' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-10-31: Research Franklin's four formulations of the luck argument and the ensurance reply
 - **Type**: research-topic
